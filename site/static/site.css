@@ -490,7 +490,7 @@ body.desktop {
     position: absolute;
     right: 0;
     bottom: 1.5rem;
-    width: 210px;
+    width: clamp(140px, 20vw, 210px);
     opacity: 0.32;
     pointer-events: none;
 }
