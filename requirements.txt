@@ -1,0 +1,8 @@
+anthropic
+cryptography<47
+Jinja2
+markdown
+pdfplumber
+python-dotenv
+youtube-transcript-api
+yt-dlp

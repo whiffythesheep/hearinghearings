@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block page_title %}{{ hearing.title }} — How NYC Works{% endblock %}
+{% block window_title %}How NYC Works — Hearing Record{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<article class="hearing">
+    <header class="hearing-header">
+        <h1>{{ hearing.title }}</h1>
+        <div class="hearing-meta">
+            <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
+            {% if hearing.duration %}
+            <span class="meta-sep">·</span>
+            <span class="duration">{{ hearing.duration }}</span>
+            {% endif %}
+            {% if hearing.youtube_url %}
+            <span class="meta-sep">·</span>
+            <a href="{{ hearing.youtube_url }}" class="youtube-link">Watch on YouTube ↗</a>
+            {% endif %}
+            {% if hearing.council_url %}
+            <span class="meta-sep">·</span>
+            <a href="{{ hearing.council_url }}" class="council-link">View on council.nyc.gov ↗</a>
+            {% endif %}
+        </div>
+    </header>
+
+    <section class="hearing-summary">
+        {{ hearing.summary_html | safe }}
+    </section>
+
+    {% if hearing.transcript_html %}
+    <details class="hearing-transcript">
+        <summary>▸ Full Transcript</summary>
+        <div class="transcript-body">
+            {{ hearing.transcript_html | safe }}
+        </div>
+    </details>
+    {% endif %}
+</article>
+{% endblock %}
