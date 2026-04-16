@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hearing Hearings</title>
+  <subtitle>Summaries and transcripts of New York City Council hearings.</subtitle>
+  <link href="https://hearinghearings.nyc/feed.xml" rel="self"/>
+  <link href="https://hearinghearings.nyc/" rel="alternate"/>
+  <id>https://hearinghearings.nyc/</id>
+  <updated>2026-04-13T00:00:00Z</updated>
+  <entry>
+    <title>Committee on General Welfare, Food Insecurity in NYC</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-general-welfare-food-insecurity-in-nyc/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-general-welfare-food-insecurity-in-nyc/</id>
+    <updated>2026-04-13T00:00:00Z</updated>
+    <summary>The General Welfare Committee held a comprehensive hearing on food insecurity and related legislation, revealing the persistent challenge of feeding New...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Public Housing, Oversight - Security Measures for NYCHA’s Vacant Apartments</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments/</id>
+    <updated>2026-04-10T00:00:00Z</updated>
+    <summary>The Public Housing Committee held an oversight hearing on security measures for NYCHA&#x27;s vacant apartments, focusing on a Department of Investigation report...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Sanitation and Solid Waste Management, Finalizing the City&#x27;s Draft 2026-2036 Solid Waste Management Plan</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/</id>
+    <updated>2026-04-06T00:00:00Z</updated>
+    <summary>The Committee on Sanitation and Solid Waste Management held an extensive oversight hearing on finalizing the City&#x27;s Draft 2026-2036 Solid Waste Management...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Finance, FY 2027 Preliminary Budget Hearing</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-finance-fy-2027-preliminary-budget-hearing/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-finance-fy-2027-preliminary-budget-hearing/</id>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <summary>The Finance Committee held its preliminary budget hearing for fiscal year 2027, with OMB Director Solomon defending a $127 billion budget that includes a...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Land Use, FY 2027 Preliminary Budget Hearing</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-land-use-fy-2027-preliminary-budget-hearing/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-land-use-fy-2027-preliminary-budget-hearing/</id>
+    <updated>2026-03-23T00:00:00Z</updated>
+    <summary>The City Council Land Use Committee held budget hearings on the Department of City Planning&#x27;s fiscal 2027 preliminary budget and capital plan. Commissioner Dan...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Aging, FY 2027 Preliminary Budget Hearing</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-aging-fy-2027-preliminary-budget-hearing/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-aging-fy-2027-preliminary-budget-hearing/</id>
+    <updated>2026-03-12T00:00:00Z</updated>
+    <summary>The Committee on Aging held its preliminary budget hearing for FY2027, featuring a new 9-day Commissioner Dr. Lisa Scott McKenzie defending a $573.5 million...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Housing and Buildings, Preserving Affordable Housing in Distress and the Third-Party Transfer Program</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/</id>
+    <updated>2026-03-09T00:00:00Z</updated>
+    <summary>The Housing and Buildings Committee held an oversight hearing on preserving affordable housing in distress and Int 0657-2026, known as the Safer Homes Act,...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Transportation and Infrastructure, Assessing the State of the NYC Streets Plan in 2026</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026/</id>
+    <updated>2026-03-03T00:00:00Z</updated>
+    <summary>The Transportation and Infrastructure Committee held its oversight hearing on the Streets Plan, revealing a sobering pattern of the city&#x27;s failure to meet...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Hospitals, Impacts of the Maimonides Health System and NYC H+H Merger</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger/</id>
+    <updated>2026-03-02T00:00:00Z</updated>
+    <summary>The Committee on Hospitals held an oversight hearing on the proposed merger between NYC Health + Hospitals H+H and Maimonides Health System, scheduled to close...</summary>
+  </entry>
+  <entry>
+    <title>Committee on Housing and Buildings, Oversight - Shared Housing in NYC</title>
+    <link href="https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/" rel="alternate"/>
+    <id>https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/</id>
+    <updated>2026-02-09T00:00:00Z</updated>
+    <summary>The Housing and Buildings Committee held an oversight hearing on shared housing in NYC and reviewed six pieces of legislation addressing various housing and...</summary>
+  </entry>
+</feed>

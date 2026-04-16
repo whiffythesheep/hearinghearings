@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hearinghearings.nyc/sitemap.xml
