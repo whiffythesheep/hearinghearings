@@ -1,0 +1,1546 @@
+---
+title: "Committee on Sanitation and Solid Waste Management, Finalizing the City's Draft 2026-2036 Solid Waste Management Plan"
+date: 2026-04-06
+slug: committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan
+duration: "3hrs 47m"
+youtube_url: "https://www.youtube.com/watch?v=46BTku-kaUA"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403109&GUID=6947A0A0-A8FF-429E-AA58-641B9E31F273&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Sanitation and Solid Waste Management held an extensive oversight hearing on finalizing the City's Draft 2026-2036 Solid Waste Management Plan, along with consideration of two related pieces of legislation. Commissioner Gregory Anderson and later Commissioner Tisch provided testimony, while the Independent Budget Office presented analysis that should give pause to anyone tracking the city's waste diversion ambitions versus reality.
+
+The hearing revealed the familiar gap between New York's environmental aspirations and operational execution. While Commissioner Anderson touted an extensive public comment process generating over 800 individual comments, the fundamental challenge remains stark: the city achieves only a 2.4% organics diversion rate despite organics comprising 36% of residential waste. More tellingly, when the city briefly implemented serious enforcement of composting requirements in April 2025, weekly tonnage tripled—but when enforcement was scaled back, collections dropped 43% through year-end. This suggests the program's main constraint isn't infrastructure or public awareness, but political will to enforce compliance.
+
+The discussion of commercial waste zones demonstrated more promise, with implementation of all 20 zones by end of 2027 and GPS tracking of individual trucks—a rare example of the city embracing modern monitoring technology. Environmental justice concerns dominated much of the discussion, particularly around the southwest Brooklyn marine transfer station's impacts on immigrant communities, with Commissioner Anderson committing to a site visit. The IBO's analysis revealed concerning budget trends, with organics processing funding actually decreasing from $24 million to $19 million baseline despite expected program growth—a classic example of the city setting ambitious goals while quietly defunding their implementation.
+
+The committee also considered Intro 355 requiring organic waste recycling by city agencies (largely redundant given existing curbside composting) and Resolution 0125 calling for CUNY and SUNY composting programs. The hearing highlighted the ongoing tension between the city's waste management infrastructure successes—the marine transfer stations have worked well since 2006—and its struggles with the behavioral change required for meaningful waste diversion.
+
+Numbers
+
+- 24 million pounds of waste collected daily by DSNY.
+- 800 individual comments received on the Solid Waste Management Plan across 300 topic areas.
+- 105 days total for public comment period, extending 60 days beyond the required 45.
+- 124 initiatives identified in the draft SWMP.
+- 50% capture rate for designated recyclable materials, representing roughly 16.5% of the total waste stream.
+- 19.6% diversion rate projected under business as usual scenarios.
+- 20.6% diversion rate projected with proposed programs.
+- 36% of residential waste stream consists of organics.
+- 2.4% organics diversion rate achieved in 2025.
+- 68% increase in organics collections from 2024 to 2025.
+- 43% decline in weekly organics tonnage from May-December 2025 after enforcement was scaled back.
+- 11.5% projected organics diversion rate by 2036.
+- 334 illegal dumping cameras deployed citywide.
+- $4,000 penalty for illegal dumping violations.
+- 2 million tons of construction and demolition waste generated annually.
+- 20 commercial waste zones to be implemented by end of 2027.
+- $24 million organics processing budget for fiscal 2026, declining to $19 million baseline.
+- $62 per ton cost for organics collection compared to $86 per ton for trash and $167 per ton for recycling.
+- $59 million in capital funding allocated for marine transfer station upgrades over next 5 years.
+- 21 additional sanitation workers allocated for the Hub area in the Bronx.
+
+Action Points
+
+- Commissioner Anderson to visit southwest Brooklyn with CM Zhuang to assess marine transfer station impacts on the community.
+- DSNY to provide detailed responses to all public comments on the SWMP later this month.
+- DSNY to provide school recycling performance data to CM Brewer.
+- DSNY to provide NYCHA waste management data to the committee.
+- Commissioner to explore expanding clean buildings training and workforce development programs for NYCHA residents.
+- Commissioner Tisch committed to completing all 20 commercial waste zones implementation by end of 2027.
+- DSNY committed to publishing commercial waste data on the open data platform.
+- Commissioner agreed to report back on Patterson Houses three-bin compost program updates.
+- DSNY to connect local retailers with waste basket manufacturers through their office.
+- Department to find out average transfer time for containers moving from Queens/Brooklyn through Bronx to Selkirk.
+- Chair requested correction of "Throggs Neck" spelling in the SWMP document to include the additional "G".
+- IBO committed to updating cost analysis of organics programs as more data becomes available.
+
+## Full Transcript
+
+[**(00:00:24)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=24s)
+
+
+
+Heat. Hey, hey, hey.
+
+[**(00:02:47)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=167s)
+
+
+
+DSNY has submitted its proposed draft Solid Waste Management Plan to the state Department of Environmental Conservation for initial review. The Council was permitted to have a copy of this revised proposed draft Solid Waste Management Plan. Thank you. And in doing so, we were able to review public comments on the draft. We have read and analyzed these comments and referenced some of the most apparent concerns in our committee report. 
+
+One unifying factor among these comments is the proposition that the City must have a thoughtful and specific long-term plan for managing its waste with actionable steps and timelines. The purpose of today's hearing is to hear from the Department of Sanitation about their incorporation of public feedback into its revised proposed draft Solid Waste Management Plan and to discuss their priorities for finalizing the document. We also look forward to hearing from the City's IBO on these matters and their independent reports on the City's efforts to increase organic waste recycling. And last but not least, we are eager to listen to testimony from the public.
+
+We are also hearing two pieces of legislation today, both sponsored by CM Sandy Nurse, a former chair of this committee. These include Int 0355-2026 in relation to organic waste recycling by city agencies and Res 0125-2026 calling on the New York State Legislature to pass and the Governor to sign legislation requiring the establishment of a composting program at dormitories, dining facilities and other facilities owned, occupied or operated by the State University of New York, the City University of New York and institutions subject to their jurisdiction. 
+
+First I would like to recognize CM Virginia Maloney for joining us. Good morning. I look forward to the dialogue today. After our committee counsel administers the oath, we will move to testimony by DSNY, then testimony by IBO, followed by testimonies from the members of the public. Committee counsel.
+
+[**(00:05:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=327s)
+
+
+
+Good morning, Chair Sanchez and members of the Committee on Sanitation and Solid Waste Management. I am Gregory Anderson, Commissioner of the New York City Department of Sanitation, and I am joined by Jennifer McDonald, our Deputy Commissioner for Solid Waste Management, and Katherine Kishner, our Executive Director of Resource Recovery. Thank you for the opportunity to testify today. I cannot tell you what a privilege it is to start my second tour here at Sanitation and to be before you as Commissioner of an agency that serves every single New Yorker by collecting and processing 24 million pounds of waste every day.
+
+As a young person coming to this department at the start of my career, I thought I knew what that entailed. I thought I knew what it meant to pick up the trash, sweep the streets, fight snow, and the topic of today's hearing, I thought I knew what happened to it next. But back then, I was like many New Yorkers. I had little idea of how much work, how much meticulous planning, how many late nights and early mornings go into every single part of this operation. I quickly learned that strongest is more than just a name and that the people and that this department includes many people whose strength goes well beyond the physical. The people of DSNY are strongest in mind, in heart, and most importantly in care for their communities. And the trash does not just disappear when they get it off the curb. Collection is only the beginning of a labyrinthine journey through transfer stations, material recovery facilities, on trains and barges, and onto final reuse, recycling, and disposal facilities.
+
+I have often said that the parts of my career that I am most proud of are the times I have been able to stand shoulder-to-shoulder with sanitation workers, trades people, IT staff, and everyone else at the agency. But the fact is, we have so much more to do together. New Yorkers depend on us and they expect us to do more than just repeat what has worked well enough for decades. The City is changing and we must change along with it in both the parts of our work that they see and the parts that take place behind the scene. So that is the goal of this solid waste management planning process. Though 2026 is far different from 1992 and 2006.
+
+In the past, solid waste management planning in New York City has been an exercise in crisis response. From the 70s to the 90s, mayors and sanitation commissioners tried to rapidly adapt to changing regulatory landscapes, and public perceptions around outdated waste management approaches, including ocean dumping, unregulated incineration, and barely regulated urban landfills. These conditions led to the 1992 Solid Waste Management Plan or SWMP as we will call it from here on out, which included the City's then novel curbside recycling program, several new material recovery facilities, never built, and the construction or retrofit of several modern waste energy facilities, also thankfully never built. This plan served a single purpose, to extend the life of Fresh Kills Landfill on Staten Island into future generations. A goal that quickly changed.
+
+The 1996 mandate to close Fresh Kills Landfill by the end of 2001 created another more significant crisis, one that led to the 2006 SWMP. The Fresh Kills Landfill was the last option for in-city disposal for the millions and millions of pounds of waste generated in homes, schools, businesses, and elsewhere in New York City every day. And its closure was catastrophic for other parts of the City. This waste had simply nowhere else to go. In just a decade, over a hundred transfer stations opened in a handful of marginalized and disadvantaged communities in the South Bronx, North Brooklyn, and Southeast Queens that together saw thousands of new daily truck trips and the health and safety challenges that come along with them. The closure of Fresh Kills Landfill, a well-intentioned endeavor to be sure, created one of New York City's most significant environmental injustices of the 20th century.
+
+That 2006 SWMP was a groundbreaking attempt to correct this wrong and create a sustainable, reliable, and resilient residential waste management system in the post Fresh Kills era. It called for the conversion of older, outdated marine transfer stations into modern facilities to containerize waste for long haul transport by barge and rail. It also called for several new enclosed rail-based transfer stations that would use the City's then flagging freight rail network. Called for the construction of a state-of-the-art material recovery facility that would accept much of the City's recyclables by barge and export many of the sorted products by rail. These new facilities would stabilize a beleaguered recycling program, substantially reduce the number of trucks that traveled through overburdened neighborhoods, and create a reliable, though costly forward-looking program for waste management.
+
+Unlike the 92 SWMP, the 2006 SWMP has been largely implemented to plan. Its implementation required over a billion dollars in new capital investments and the siting of very controversial new facilities. It took a decade and a half, three quarters of the plan's planning horizon to realize. And in my 10 years with the department previously, much of my time focused on realizing the goals of the 2006 SWMP. Building new, more modern facilities despite intense opposition, reducing transfer station capacity in overburdened neighborhoods and expanding recycling programs, and driving diversion rates upward.
+
+Today, our solid waste management system continues to face challenges, including rising costs, the existential threat of climate change, dwindling regional waste disposal capacity, and global forces that dictate trends in waste generation and markets for reclaimed materials. However, our waste management system today is sound. It is reliable. It is resilient. It is not perfect, but it is far more sustainable than those of the past. We have one of the most inclusive curbside recycling programs in the country and the Sunset Park material recovery facility continues to innovate on sorting and reclamation technologies. We are among a handful of cities in the US that can claim true circularity in our paper economy as recyclable paper and cardboard is remanufactured into new cardboard products right here in Staten Island. We have the largest mandatory curbside composting program in the nation and one with tremendous growth potential. We export the majority of residential curbside trash collections not by truck but by rail and barge. The only major city in the country to do so. In sum, New York City has some of the most comprehensive and sustainable residential solid waste programming in the country. And we are implementing hard-fought comprehensive reform of our commercial waste industry. A process that will be completed next year.
+
+That is the context in which we started four years ago to create the next iteration of New York City Solid Waste Management Plan. What we are calling SWMP 26, the very plan we are here to discuss today. So, just a little context, state laws and regulations lay out a pretty strict regulatory framework that governs the creation of a new SWMP. And this document has been carefully tailored to meet these requirements and guidance from the New York State Department of Environmental Conservation. It has been 20 years since the last time New York City submitted a Solid Waste Management Plan. And in that time, the waste stream and waste management industry have noticeably evolved and the state has clarified and updated requirements for solid waste management plans.
+
+So, I would like to emphasize two points. First, the regulatory requirements that have evolved significantly since 2006 now require a 10-year planning period rather than 20. And second, while the SWMP provides a framework for diversion and efficient waste management systems, the City can and must pursue specific programs that are not contemplated in this document. This is by design a beginning of the process rather than an end. And our record here speaks for itself. Neither universal curbside organics collection nor commercial waste reform were laid out in the 2006 SWMP. And yet the City took historic action to move both policies forward in partnership with the City Council. This is particularly relevant to keep in mind as we discuss SWMP 26.
+
+DSNY's rich history of evolution, continuous improvement, and innovation lays the foundation for this next Solid Waste Management Plan that we are proud to put forth to guide future progress in waste reduction and resource recovery for the next decade. With over 24 billion pounds of waste generated by hundreds of thousands of businesses and millions of residents across the five boroughs every year, the 2026 Solid Waste Management Plan is a flexible framework focused on the areas that have the greatest potential impact. This SWMP was built upon an extensive analysis of current conditions. In the first chapters document in detail who generates how much of what materials where they go and what end of life options exist for managing them. From that foundation coupled with DEC's alternative analysis requirements, the SWMP identifies eight key program areas to achieve continued progress in waste reduction, increased recycling, and a path towards zero waste.
+
+Of the progressive and ambitious commitments, organics diversion remains a top priority. Most importantly, continuing to increase participation and recovery rates from generators citywide. We will investigate how we can leverage new equipment to better separate contamination from collected organics, encourage the donation of edible food, and plan strategically for future processing capacity. In addition to the full implementation of the commercial waste zones program by the end of next year 2027, the SWMP dedicates an entire program to the reduction, diversion, and recovery of construction and demolition debris, a first for this waste stream. And most importantly, waste reduction is the leading program, the area with the most potential to truly reduce the amount of material discarded and the associated costs and logistics of managing it.
+
+Finally, underpinning these future focused goals is an unwavering commitment to the robust and resilient system in place today. The future DSNY envisions with the SWMP is one where all the resources in the City are managed responsibly and to the best value. Whether it is advancing textile recovery, turning food scraps from our diverse cuisine into biogas to support our clean energy transition, or developing new ways to reuse materials in future manufacturing industries. This Solid Waste Management Plan is designed to facilitate the steady transformation of materials management citywide.
+
+We began the formal outreach for this SWMP in 2024, starting with city agencies that in partnership with sanitation make up the planning unit responsible for implementing SWMP 26. DSNY has conducted outreach with elected officials, including current and former members of this committee, borough presidents, and engaged with dozens of interested parties and stakeholders, including the Borough Solid Waste Advisory Boards or SWABs, the New York City climate leadership group, the EJ Advisory Board, and the Transform Don't Trash Coalition, among many others. In response to requests from stakeholders and members of the Council, DSNY extended the public comment period to 105 days, 60 days beyond the 45-day review period required by DEC. And this public comment period ended in January 2026.
+
+Through this public comment process, DSNY received more than 800 individual comments in 62 submissions that cover around 300 topic areas. DSNY has made multiple updates to the draft plan based on these comments, additional input from collaborating agencies, and some corrections and clarifications identified internally. Following these updates, DSNY submitted a revised draft to DEC for review last month, and Sanitation is working with our agency partners to provide written responses to every comment received, which will be included as a further attachment to the plan later this month.
+
+Looking ahead, we will make another round of edits to the plan based on DEC feedback, which we expect to receive around July of this year. We plan to submit the final plan to DEC this fall before moving on to what is the real work, implementation. The work of implementing the plan will double down on the collaborative approach that sanitation has taken in creating it. The 124 initiatives identified in the draft SWMP require the creation of at least six standalone stakeholder committees or working groups that will persist well beyond the final approval of the SWMP. And moreover, I personally commit to an inclusive, responsive, and adaptive approach to the implementation of this plan. My door is always open to any and all parties with interest, ideas, and criticisms related to planning for waste management in New York City.
+
+Turning now briefly to Int 0355-2026 sponsored by CM Nurse which would expand composting by requiring DSNY to adopt a rule to require city agencies to source separate organic waste produced through meal service or institutional feeding. DSNY strongly supports this Bill and other efforts to continue to increase the amount of organics separation happening throughout the City. Thank you so much for your interest in the Solid Waste Management Plan and for scheduling this hearing. I am thrilled to be back in front of a much changed Committee on Sanitation and Solid Waste Management. Thrilled to be in this fancy new room for the first time. And I look forward to answering your questions.
+
+[**(00:19:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1140s)
+
+
+
+Thank you so much, Commissioner. I do want to say that we are welcomed by our CM Susan Zhuang. Commissioner, I do want to take the time once again to congratulate you on your appointment as the new Commissioner. I know that you have been in public service for a long time. And I am looking forward to the work that we can accomplish together. To start the conversation, I do want to give you the opportunity to also just introduce yourself again to folks. And to have on the record just more about you, your vision for the department in general, and how you view your role in helping to carry out the administration's work and any waste management policy and programs you hope to see the department prioritize under this administration. And before I let you get started, I want to also say that we have been welcomed by my colleague CM Ty Hankerson. Oh, and please let us not forget CM Inna Vernikov.
+
+[**(00:20:08)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1208s)
+
+
+
+Great. Thank you, Chair. Yeah. So as I said last week at roll call, this is really a homecoming for me and the Department of Sanitation really does truly feel like home. The men and women of the department who work tirelessly are more like a family than a job. You know, I spent almost 10 years with sanitation previously, starting as chief of staff, finishing as deputy commissioner. I am so excited to be back here and back working with this agency and working on behalf of the people of the city of New York.
+
+I did spend the last two and a half years in the governor's office as the deputy director for state operations. So helping to manage the 70 plus agencies, authorities, offices, commissions, etc. that make up New York State government. So I have an interesting new perspective on the work that we can achieve. I have an interesting new perspective on the solid waste management planning process having managed DEC directly. So that is kind of fun. And you know come back to New York City I think even more focused on delivering real results for New Yorkers.
+
+Some of the things that I really want to prioritize, first and foremost making sure that we actually achieve the promise of our curbside composting program. So driving up participation, driving up diversion, giving all New Yorkers the tools to be able to participate in the way that is right for them. You know, that does mean leaning on enforcement at some point. Does not mean that enforcement is going to be the first tool in our toolbox. So looking forward to working with all of you to make sure we can get the word out and educate New Yorkers about how to participate.
+
+Second, you know, one of the things that I was most proud of my first sanitation was working with then chair Antonio Reynoso and the whole committee and a legion of advocates to pass commercial waste zones, comprehensive reform of the commercial waste industry. We are in the process of implementing that now. That process will be completed next year, but the work there will never stop. So I am very excited to dig in on that industry to continue to roll out the commercial waste zones program and to make sure that we are achieving the goals that we set forth there around safety, around sustainability, around customer service for businesses. And I think the department has done a lot of really good work and I look forward to digging in there.
+
+And then the last thing that I will focus on here, there are probably hundreds of things that I am excited to work on, but the last thing I will say here is really digging into the work around waste containerization. I think I have already had some really good conversations with staff at the department around how that is going and where we go next. And hopefully we will be talking about expansion soon.
+
+[**(00:23:14)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1394s)
+
+
+
+I know I have kind of a little idea of where you could go next. It is just like a slight... it reminds... it starts with a B ends with an X. So let us talk about the 2026 SWMP. So we have had 20 years since the new SWMP. What is the current status? And I know a lot of this is outlined in the SWMP already, but for folks that have not read it, can we get some highlights on the current status of some of the major infrastructure projects outlined in the 2006 SWMP, including the marine transfer stations and waste processing facilities? Also, what delays, if any, have affected implementation of the 2006 SWMP? And what steps is DSNY taking to get it back on track?
+
+[**(00:24:05)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1445s)
+
+
+
+Absolutely. So the work of implementing the 2006 SWMP was largely completed in 2019 with the opening of the East 91st Street Marine Transfer Station. That was the last of four what the SWMP calls converted marine transfer stations, but it is not really converting an existing facility.
+
+[**(00:24:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1463s)
+
+
+
+It is transforming those facilities into new modern waste management facilities. So starting in 2015 through 2019, the department opened the four new MTS facilities. It also worked with its private partners in waste management to open rail-based transfer stations in the Bronx, Queens and Brooklyn, as well as a department managed rail transfer station in Staten Island. So those facilities together make up our waste management network. All trash is containerized into sealed containers for transport by barge and rail or just rail to final disposal destinations with the exception of the west side and southern half of Manhattan that goes directly to New York, New Jersey for disposal.
+
+You know that was an incredibly arduous process to get those facilities built and operating. There was pretty substantial community opposition in neighborhoods where we were converting marine transfer stations to the new facilities we have today, but I am proud that we got through that opposition. And you know, I think largely the communities that host those facilities would say that we are good neighbors and I think some of the most serious concerns about potential impacts have not been realized.
+
+The other main focus of that of the 2006 SWMP was the construction of the Sunset Park MURF which was completed and opened I think around 2013. That facility remains you know among the most state-of-the-art in the country. We continue to work with the operator there to make investments in new sorting technology. We are looking increasingly at robotic technology to be able to better sort material that we deliver there and we are going to continue to work with them on improving the quality of the recyclables that they are able to generate and sell into market.
+
+So that is sort of the comprehensive picture of the SWMP. There are a few things that have changed since 2006. One marine transfer station that was not constructed on the Gansevoort Peninsula in Manhattan. I think we could get into whether or not that facility would even still be relevant today. But largely the SWMP was implemented as written, although on a much longer timeline than originally projected.
+
+[**(00:26:51)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1611s)
+
+
+
+Great. Thank you. I would like to also mention that we have been welcomed by council members Gale Brewer and Shanel Thomas-Henry. So there were a number of public comments and I want to thank the team for extending the comment period because it did bring in a number of new comments. I know that was a lot of more work for you but thank you very much. How many entities did submit a comment to DSNY on its proposed SWMP before the January 16th deadline? And did DSNY receive any comments after the deadline? And if
+
+[**(00:27:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1647s)
+
+
+
+so, how many? Yeah. So we received 800 individual comments that were packaged in 62 submissions. So some of those were submissions that represented comments from multiple individuals sort of put together. Those covered 300 topic areas and we did receive a couple after the 5:00 p.m. deadline that day. I do not think it was a significant number.
+
+[**(00:27:50)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1670s)
+
+
+
+How many staff were involved in reviewing the public comments and approximately how many cumulative hours were spent performing this work? So we had two staff that were primarily responsible for reviewing the comments. Obviously we have you know teams of subject matter experts who got into the detail on the comments received. So you know in total it was dozens and dozens of individuals but two staff primarily responsible. I do not have a total number of hours but it did take about a month's time to go through all the comments and identify both sort of sort them and categorize them and then identify potential changes that would be made to the draft plan as a result.
+
+[**(00:28:31)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1711s)
+
+
+
+Understanding that the public comment period is over, does the agency plan to host any future public meetings on the SWMP? And if so, do we have an understanding as to when these meetings will take place? We do not have anything planned immediately as I said in my testimony. We do plan to do a significant amount of stakeholder engagement in the implementation of the solid waste
+
+[**(00:28:55)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1735s)
+
+
+
+management plan and there are six specific stakeholder working groups or task forces that are identified in the plan. Probably many more that will come out as we actually do the work. But we are very interested in engaging with the public, engaging with stakeholders, engaging with advocates as we actually move toward implementation of this.
+
+[**(00:29:18)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1758s)
+
+
+
+I do want to talk about the stakeholders in the future, but I am just going to stick to the comments for now, but know that I am coming back to that. When does the agency plan to publish its responses to
+
+[**(00:29:31)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1771s)
+
+
+
+the public comments? So we are working on a detailed response to each of the comments or each of the comment areas that will be submitted as an attachment to the draft SWMP. We expect that to be done later this month. The revised draft SWMP is posted on our website. And we will post those responses to comment on our website as well.
+
+[**(00:29:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1793s)
+
+
+
+When was the revised draft posted to the website?
+
+[**(00:29:56)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1796s)
+
+
+
+It was posted on Friday at my request.
+
+[**(00:29:58)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1798s)
+
+
+
+Awesome. Thank you. And have you... I know it is still early, but have you received any feedback from the New York Department of Environmental Conservation on the proposed SWMP thus far? And if so, can you describe the nature of the comments? Not that you can tell us exactly what they said. Yeah. So it has been a very iterative
+
+[**(00:30:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1817s)
+
+
+
+process with DEC throughout the planning for the solid waste management plan. So we have gotten feedback from them consistently throughout. We have not gotten formal comments on the most recent submission from March 2026. And we expect to you know in two months or so. But you know we will continue to be in touch with their staff as we move through the process.
+
+[**(00:30:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1843s)
+
+
+
+And what is the expected timeline for engagement with DEC to finalize the proposed draft SWMP? Yes. So under their regulations they have a 120-day review period. That 120-day review period ends late summerish. We will get their comments assuming their comments are not incredibly substantive in nature. If they are, you know, we may have to sort of take another look at the document and make substantial revisions. If they are not, we will make whatever revisions are appropriate and then submit the final SWMP for their approval. And on this timeline, has DEC expressed permission for the city to continue its work to finalize the SWMP beyond October of this year?
+
+[**(00:31:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1887s)
+
+
+
+We have not had to make that request yet. And we do not expect to based on the timeline that we are currently operating under. But you know, we know that if we had to, they would be open to it.
+
+[**(00:31:38)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1898s)
+
+
+
+What type of engagement can we at the Council expect from DSNY as you revise the proposed draft SWMP? So I think we will certainly keep you fully in the loop on where things stand from a process perspective. I am very encouraged by the fact that we are having this hearing today, which is the second hearing in six months on this topic, which is I think great. And as we move through the process, we will keep you informed and involved. And if there is a need for another oversight hearing in the future, we are happy to be there.
+
+[**(00:32:11)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1931s)
+
+
+
+Thank you. I have a lot of other questions, but I am going to turn it over to my colleagues so you get some fresh air. I will turn it over to CM Zhuang.
+
+[**(00:32:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=1943s)
+
+
+
+Thank you, Chair, and very nice to meet you, Commissioner. I have actually waste transfer station in my community. On page 10, the report claims that having the south southwest Brooklyn marine transfer station transfer transport commercial waste overnight could not result too much noise or other bad effect on this community. But this environmental impact assessment was done in 2005, 20 years ago. How do you explain that? And today it is too much, so much shipping, many more delivery vehicles and the result more trash. How can you justify using a impact report from 20 years ago to make decision today? Yes. So I think that your
+
+[**(00:33:21)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2001s)
+
+
+
+point there is actually fully aligned with where we stand on using the MTS facilities for commercial waste. We think that one we should fully implement commercial waste zones next year. Let the industry stabilize a bit and then take a really thoughtful and measured approach to accepting commercial waste at the marine transfer stations exactly because neighborhoods have changed, the context has changed, the waste industry has changed. And so that is something that after we complete the implementation of commercial waste zones next year, we will look forward to working with the Council on going forward. And also my community is probably 70% immigrants. How are you assure the burden of waste management does not fall most on poor communities? For example, the waste transfer station in my neighborhood which is the largest immigrant but many other white location in richer community does not have those. How do you balance this?
+
+[**(00:34:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2063s)
+
+
+
+So I think that was one of the key tenants of the 2006 SWMP was to sort of spread the waste management network over a larger share of neighborhoods. Historically there were four community boards in South Brooklyn or sorry South Bronx, North Brooklyn and Southeast Queens that had hundreds of transfer stations that were all truck-based relatively dirty and polluting facilities. We have because of the construction of the marine transfer stations, including the marine transfer station on the upper east side of Manhattan, we have been able to reduce the capacity, the permanent capacity at those other private transfer stations by more than 10,000 tons per day, which is a substantial reduction and has reduced the number of trucks going through those historically overburdened districts.
+
+[**(00:35:13)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2113s)
+
+
+
+If you come to my neighborhood, you can smell that waste transfer station from far away. If you go through Belt, even you go from Bay Ridge area, when you pass the like exit past exit 20 and when I go on the way home around exit two, there you can smell how terrible it is. And then the city's decision seems like want to bring more garbage to our neighborhood and then you know the road in my neighborhood is not paved properly on time. The people drive vehicles have to have extra expense living our neighborhood. How do you balance that? I was actually just out at the Southwest Brooklyn MTS on Friday. I
+
+[**(00:36:10)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2170s)
+
+
+
+did not notice any odors, but I am happy to come out and meet you and you know, we can walk the neighborhood ourselves and get to see what the real impacts on the ground are. And you know, as far as the condition of the roads, happy to talk to DOT about how to make real investments there. And my neighborhood has the highest asthma
+
+[**(00:36:29)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2189s)
+
+
+
+rate in the city because the waste transfer station there. It was a center there for 30 years and the people living in the neighborhood has higher chance to get cancer and then now later on the community fight against the waste transfer station for 10 years. Finally built a lot of garbage brought to the neighborhood and the pollution brought to the neighborhood. We have not see more results there. Now the condition is what we hear today is oh we are going to bring more garbage to your neighborhood and this is a majority immigrant neighborhood. I just want to give you background. A lot of people even do not speak English at all. People does not know where to get their voice heard. I am proud to represent them, but it is not right to put more burden in those immigrant community. Thank you.
+
+[**(00:37:31)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2251s)
+
+
+
+Thank you, Chair Zhuang. Now I would like to bring up CM Maloney.
+
+[**(00:37:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2256s)
+
+
+
+Thank you, Chair, and thank you, Commissioner, for being here. I want to talk about minimizing waste. There are some laudable goals around zero divertable waste of 30% by 2030, but much of this is dependent not just on
+
+[**(00:37:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2273s)
+
+
+
+DSNY and the DSNY infrastructure, but human behavior around residents and businesses. So could you speak to the investments that you are specifically making in education and outreach to try to change that behavior? Absolutely. And you know I would
+
+[**(00:38:10)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2290s)
+
+
+
+The most important thing we can do to reduce waste is actually change the economics of the waste industry and that starts from the packaging and products industry that eventually creates waste. So we support a bill at the state level. It is called extended producer responsibility. The bill itself has gone through a dozen different names over the course of the last 10 years. But basically what that means is the producers of packaging that make the things that are difficult to recycle or that have an expense to recycle, those producers would have to pay for the end of life management of those products. It also incentivizes the reduction in the amount of packaging. It incentivizes them to use more recyclable packaging to not have several different types of materials all together in one product. So that is something that we strongly support. I know that the Council has also voiced its support for that in the past. We are working with the mayor's office and state legislative affairs to try to get that through in the legislature this year. That is the most important thing we can do. That also unlocks a new funding stream that we can use to really dramatically expand our outreach and education programs.
+
+Right now we do have an outreach team. We do education programs. We have a marketing campaign that we are running right now on the curbside composting program specifically focused on people who live in apartments who want to participate but their buildings are not participating. And so we would love to do more and more of that to do it across many different channels to do it in as many languages as possible. And having a new funding stream from EPR would allow us to do that. And how do you measure the success of those marketing initiatives? And do you also deploy your resources based on areas where you see a lack of where you need more enforcement efforts or based on density or how do you prioritize the limited personnel you
+
+[**(00:40:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2415s)
+
+
+
+have? Yeah, so we have a remarkable amount of data around how much waste is generated, where it is generated and where it goes. A lot of that is in the solid waste management plan as part of what is called the current conditions assessment. But we are on a daily basis looking at waste generation, looking at waste diversion and using that to tailor our programs to specific neighborhoods. The campaign that I just mentioned that we are running right now is focused on people who live in apartment buildings. And so it is running on the subways, it is on buses, particularly in neighborhoods that have more people that live in apartments. Then what we are encouraging folks to do is if your building does not participate in
+
+[**(00:41:01)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2461s)
+
+
+
+composting, call 311. We will send out outreach staff to the building to remind them of their obligation to participate. And if that does not work, then we will take the enforcement route. And do you have any data on how successful that has been in increasing compliance? Yeah, we are at the very beginning of week three of that. So we do not have a sort of full read on that. I think it is going to run for six weeks. So once it concludes in a couple weeks, we are happy to come back to you and fill you in on the results.
+
+[**(00:41:33)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2493s)
+
+
+
+My last question is as we look at the new initiatives that are proposed in the management plan, do you have adequate budget and staff to ensure high levels of compliance and the appropriate level of education and outreach? Yeah, I think we have adequate funding and staff for the programs that we operate currently. A lot of the initiatives in the SWMP talk about developing new programs, talk about working with stakeholders to identify
+
+[**(00:42:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2520s)
+
+
+
+new opportunities. Obviously new programs require new resources. So that is something that as we go through that process, we will continue to advocate for resources for, but at the moment we have more than enough resources to operate the programs that we run today. I will say that there are some opportunities, I think, to identify new resources or potentially even make money off of the products that we collect. The paper that we collect, for example, we actually get paid for. And so the more we can divert material away from landfill, the better the economics get. Thank you.
+
+[**(00:42:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2563s)
+
+
+
+And this too kind of Thank you, CM Maloney. I just want to piggyback off of CM Maloney's question. So, local law 88, I hope I have that number right. Yes. Local law requires community reuse and community recycling programs and community engagement programs. I am curious, how do you accomplish this? Is this done through the department? Is it done through collaboration with sanitation foundation or other partnerships? And then when was the last time that you had these events particularly in environmental justice districts? Yeah. So I will answer briefly and
+
+[**(00:43:21)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2601s)
+
+
+
+then hand it over to Kate Kitchener to address the specifics of those events. But our goal is to have as many events as possible in as many communities as possible. And I think the key there is having partners like City Council members, like community gardens, and other community organizations who are really invested in bringing people to the events and making them really successful. So we absolutely would love to work with all of you to have as many outreach and waste collection events as we can possibly hold and make sure that they are successful. But Kate can speak to the specifics there. Yeah, thank you, Commissioner. So yeah, we in compliance with Local Law 88 of 2023, we have 59 recycling events, one in every community district every year. You can go to nyc.gov/recycling events to see the upcoming schedule. Because it is Earth Month, we have tons of events happening. And so at those events right now we are collecting both electronics and textiles for recycling and we have the department has a contract with the Lower East Side Ecology Center to conduct those events. And we often partner with elected officials to host the events in their neighborhood and always happy to work with any of you to host an event in your neighborhood. Thanks.
+
+[**(00:44:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2680s)
+
+
+
+Thank you. Curious to know if you have this granular data, but how do diversion rates, given the EJ communities, how do diversion rates differ in EJ communities versus non EJ communities? I think what we really see is
+
+[**(00:45:02)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2702s)
+
+
+
+that diversion rates marry pretty well to density more than anything else. In part because people that have single family homes, that have yards that generate a lot of yard waste, that yard waste is so unbelievably easy to divert properly. You are already generating it outside. There is no reason to co-mingle it with the rest of your trash. You can just put it in your brown bin and set it out for collection. So, especially starting this time of year when people start gardening and spending more time outside, we see a lot of diversion in the organics program. In denser neighborhoods where you
+
+[**(00:45:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2740s)
+
+
+
+have multiple steps that the waste has to go through, it has to be sorted properly in the kitchen and then it has to stay sorted properly in the trash room or the basement. And then it has to be set out properly for collection. There is obviously more opportunity for things to go wrong or something to get co-mingled and so in those neighborhoods we do tend to see lower diversion rates. Curious to know if there is any highlights in a difference like for example in a community like mine versus a community like Gale's given we have very similar densities but are there any different diversion rates that we can see
+
+[**(00:46:21)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2781s)
+
+
+
+Yeah the diversion rate is certainly higher in the upper west side than it is in Hunts Point at this moment and that is
+
+[**(00:46:26)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2786s)
+
+
+
+something So because if we are doing it based on density I would consider the upper west side very dense. And so just trying to understand what if there are any things that we can see based on the differences given the density seems to be kind of similar. Yeah. And I think that is something that
+
+[**(00:46:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2806s)
+
+
+
+in our last waste characterization study which came out in 2023. I do not remember exactly when that was but I remember working on it. One of the things that we looked at was sort of the stratification by both density
+
+[**(00:47:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2824s)
+
+
+
+and by median household income in the districts that we were sorting the waste from. It is something that I do not have the details in front of me, but I am happy to go into detail with you at a later date. And as we look to the next waste characterization study for residential waste, which I think is required by Local Law 28, we will certainly continue that work and see if anything has changed since 2023. Hopefully things have, but I would love to work with you on how to increase diversion in your neighborhood.
+
+[**(00:47:35)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2855s)
+
+
+
+Thank you. And speaking of CM Brewer, I will turn it over.
+
+[**(00:47:39)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2859s)
+
+
+
+Thank you very much. I have lots of questions. First of all, I want to say thank you to a rockstar. His name is James Letterer. And then also I want to thank Superintendent Baldwin because he is great in SE. And I had to deal with the east side transfer station when I was borough president. That was hell. So I just want to say we did it. We were there together. God. So anyway, I just have a question. One of the problem I call it service substitution. I know that also I want to thank you for mentioning the solid waste advisory boards. I worked hard to get Manhattan to be as strong as it is now when I was borough president and they are doing a great job. One of the problems is that I think if you could switch from more organics collection and then pick what you want to do less of be it recycling or something else. One of the problems is that the buildings the large ones that are not complying complain they have to keep the organics too long. Can you think about switching so you have organics I am making this up two or three times and then recycling or something else less. Have you thought about that?
+
+[**(00:48:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2921s)
+
+
+
+So I would not want to decrease the frequency of recycling collection because it is already
+
+[**(00:48:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2926s)
+
+
+
+Organics needs to be picked up more often. Is that something that you are considering?
+
+[**(00:48:49)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2929s)
+
+
+
+It is something that we can certainly take a look at. That would require additional resources to do. So but it is something that we are happy to take a look at.
+
+[**(00:48:56)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2936s)
+
+
+
+Okay. Because I think one of the problems is they keep it too long and then they complain in the buildings that it is causing a problem. So that would be something to think about. Second is when you do your education efforts, do you go for those that are persistently low participation? Is that where you focus? How do you focus where you are going to do your education? Picking up on some of the earlier questions.
+
+[**(00:49:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2955s)
+
+
+
+Yeah, absolutely. We do focus our education on places that have lower diversion rates. We also in the past have done targeted education and outreach to buildings that have received multiple enforcement violations for failure to recycle or failure to compost. I think that is something that we would like to stand up again particularly as we are looking to expand the participation in the composting program.
+
+[**(00:49:39)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=2979s)
+
+
+
+In terms of schools, I do not maybe I listened to your testimony on the cell phone. I do not think you mentioned the schools. How is their rate doing? In the past what we would do is give certificates to those schools that are doing well because they do need some kind of support. It is not easy to do. Low staff numbers, low pay for the kitchen staff, etc. I work with all my schools trying to make sure that they do it, but it does not always happen. How are you working with the schools?
+
+[**(00:50:07)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3007s)
+
+
+
+So, we work very closely with the schools both to train the building staff, the staff in kitchens and the porters that actually collect the trash as well as the teachers that are educating the kids and provide programming for the kids that are learning in schools themselves. So it is a two-pronged effort. I think it is something that we can certainly spend more time on. I would like to bring back some of the programs from the past that focused on really celebrating the wins and celebrating schools that have done well.
+
+[**(00:50:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3041s)
+
+
+
+Could you get back to the committee the data on schools that are doing well, schools that are not and that kind of information? My understanding is there is low on staffing in the kitchen for obvious reasons and recycling goes out the door. I am just that is my experience. So I would love to see the numbers.
+
+[**(00:50:57)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3057s)
+
+
+
+Yeah, we can provide you whatever we have.
+
+[**(00:50:59)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3059s)
+
+
+
+Okay. Rikers Island if it closes, which I hope it does. What four waste treatment plants will close to be able to have a brand new one there? Do you know which ones? My understanding is it is four. I think you are referring to wastewater treatment plants. Yeah, but not I know that is DEP and not you, but you have any input into that at all?
+
+[**(00:51:20)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3080s)
+
+
+
+I do not. And we would love to see a composting facility on Rikers. That is what I am saying. Could you also that would be something that you would consider? Absolutely.
+
+[**(00:51:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3087s)
+
+
+
+Okay. And then in terms of NYCHA, that is an issue. How are you dealing with NYCHA? It is an ongoing issue. The chutes are small. I know the issues what are you doing with NYCHA?
+
+[**(00:51:39)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3099s)
+
+
+
+Yeah, so we continue to engage with NYCHA. Obviously, there have been challenges around waste management at NYCHA for many many decades now. And we have not found a sort of great set of solutions to be able to solve all of them at the same time. But we work with them on a regular basis. I think first and foremost to make sure that we are keeping or that we and they are keeping the developments clean. Do you have any pilots that are working
+
+[**(00:52:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3126s)
+
+
+
+with NYCHA?
+
+[**(00:52:07)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3127s)
+
+
+
+We have done several pilots in the past with NYCHA. Kate or Jen, do you want to Usually just going door-to-door with residents? That is not necessarily sustainable.
+
+[**(00:52:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3137s)
+
+
+
+Hi CM. Yes, NYCHA was very engaged in the development of the draft solid waste management plan. And they are one of the stakeholder groups that has contributed to specific initiatives and we do have some particular things we commit to working with them over time. They have been particularly innovative with a mattress recycling pilot that we have stayed in touch with them about and are considering expanding. I see mattresses on the street but okay. Yeah, these are from the developments. They have also done a lot with redesigning their waste yards to look at how can they collect recyclables separately that links in with the diversion rate. So areas where they consolidate waste on their different campuses and one of the things they have focused on to the commissioner's point is the paper stream and how do they really extract the paper and cardboard that has value to the City. So we will continue to work with them on all of those things.
+
+[**(00:53:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3184s)
+
+
+
+Could we get some data on NYCHA also again back to the committee Certainly and we also include some specifics on them in our biennial reports on the SWMP that are posted on the DSNY website. Okay. Thank you.
+
+[**(00:53:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3197s)
+
+
+
+Thank you, CM Brewer. I just want to continue piggybacking off of first on NYCHA and then into organics. So one in 17 New Yorkers live in NYCHA and I am curious to know what is the buy in and or if you have that data specifically diversion rates on NYCHA properties and NYCHA campuses as compared to the rest of the City. Yeah, we do not have that data specifically for NYCHA because they are collected on the same household routes that collect the surrounding neighborhoods. But I would say to the point you were making earlier that parts of the City that have higher concentration of NYCHA developments tend to have lower diversion rates. I am not saying that is because of NYCHA but that is a correlation there. We have studied NYCHA waste in the past. I think one of our prior waste characterization studies included a subsort for NYCHA. And I think there are I am not going to beat around the bush. There are some very real challenges around waste management generally and our priority with NYCHA is keeping their facilities clean and having them be places that really support the residents that live there. I think we should also focus on recycling but keeping developments clean is our number one priority. And when you say keeping developments clean, can you just elaborate what that means from the DSNY standpoint when it comes to NYCHA? Yeah, I think just making sure that residents
+
+[**(00:54:42)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3282s)
+
+
+
+understand how and where to put out their trash and are doing so properly. In the past, there have been a lot of issues with people just not knowing how to do it. As CM Brewer mentioned, a lot of the chutes are like this big. You cannot fit anything in a chute that big. And so then people are forced to bring their trash bags downstairs. Do they put them by the door? Do they put them by the fire hydrant on the street? I think NYCHA has done a much better job now of being very specific with residents about what to do with the trash that does not fit in the chute, what to do if the chute is broken, which happens pretty frequently. And so I think that has gotten better and that has been for the past few years where we have focused a lot of our efforts is being very clear about documenting and educating residents around what the proper waste management practices are and then working with NYCHA staff and sanitation workers to make sure that that is being implemented across the board.
+
+[**(00:55:35)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3335s)
+
+
+
+So I want to be clear that I am a fan of composting and organics. However, when you are looking at situations like NYCHA where you see or the City in general where you are seeing diversion rates with recycling are going down year after year after year after year. I am curious why organics waste and the organics waste diversion is such a priority for the administration when our recycling diversion rates are abysmal.
+
+[**(00:56:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3366s)
+
+
+
+So, I do not think our recycling diversion rates are abysmal. We are capturing around 50% of the material that could be recycled on any given day. The reason that we are focused on organics diversion is because our capture rate on organics which is a program that has been in effect for a much shorter period of time is much lower. We are not capturing nearly 50% right now. We think that we can get some really substantial increases in both participation capture and diversion in short order. And so that is where we are focused. There is also just from the perspective of the climate and greenhouse gas emissions. That is really where the largest impact is of the waste stream on greenhouse gas emissions is in organic waste. And so if we can maximize diversion there, we can have a greater impact on reducing climate change.
+
+[**(00:57:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3420s)
+
+
+
+You said I just want to make sure that I have the data properly. You say that we are capturing 50% of our diversion. But on the revised draft SWMP the waste projections on table ES9, it says that our diversion rate, if we stick to business as usual, will be 19.6% of DSNY managed waste. But if we implement the proposed programs it will be 20.6% but you are saying that we have 50% diversion rate. Can you explain for everyone that might be looking at this what where the difference is where it comes from and how we can... Yeah. So the difference is that I was referring to the capture rate. So that is specifically for designated recyclable materials, things like co-mingled paper, cardboard in one stream and then metal, glass, plastic and containers and cartons in the other stream. Those materials together make up 32 33% of all of the waste stream. When we look at just that 32 or 33%, we are capturing about it is usually just under 50% of that share. And so 50% of 33% roughly 16 and a half percent. That is the sort of traditional recyclable share of our overall diversion rate. Great. So you see everyone they are not lying to you. The math works. Okay.
+
+[**(00:58:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3503s)
+
+
+
+We will have to do like a whiteboard explainer video.
+
+[**(00:58:25)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3505s)
+
+
+
+Yes, please. I am happy to pull it out. So according to the 2023 waste characterization study approximately a third of residential waste is organic matter suitable for composting. What resources would the department need to divert all organic waste from landfills and incinerators? Is there a specific is there a need for specific facilities authority or staffing resources? So I think the number one thing
+
+[**(00:58:52)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3532s)
+
+
+
+that we need is New Yorkers to participate. And that is where our focus is right now is increasing participation, increasing diversion and getting more collected material. We have at this moment processing capacity for substantially more material than we currently collect. So that is not a constraint on us at this moment. If we were to collect 100% of the organics that are out there in the waste stream, we would obviously need more capacity and that is where facilities like a potential future Rikers compost facility would come in. And as we have the good problem of New Yorkers separating too much organic waste, we will work with City Council on identifying where and how to build those facilities. What are the major obstacles that the
+
+[**(00:59:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3576s)
+
+
+
+department encounters when trying to improve diversion rates? I think the challenges that we encounter are pretty obvious. There is I think just general apathy around doing the right thing and I think that is something that we have struggled with the most. There are much more solvable problems which is giving people the tools to do the right thing, telling them how to do it and we have focused a lot on those areas in the past. Making sure that for example every apartment building out there has their required recycling receptacles in the required places. Making sure that they have a brown bin and they are using the brown bin. That is sort of the first step. But actually changing behavior and getting people to stop and think about what should I do with this thing that I want to throw away, which bin does it go in and why should I do that? I think that is the more challenging area and that is somewhere that we have more work to do.
+
+[**(01:00:34)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3634s)
+
+
+
+And you just mentioned the brown bins. Given that organics make up a third of our waste, do you think that the brown bins that we currently have are appropriately sized to capture all of the organic suitable for composting in a household? So, we have in the past given out free brown bins to both single family homeowners all the way up to apartment buildings. That is not something that we currently do because buildings are required to buy their trash cans. They should also be required to just buy their brown bins. You can go to Home Depot today and get department branded NYC bins in various different sizes for your organics. You can have one, two, three, four and take whatever approach is right for you. Can the agency provide a timeline for
+
+[**(01:01:22)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3682s)
+
+
+
+when it would be able to achieve 100% or close you know a suitable number of organic of diversions of organics from landfills and incinerators or is there an organics diversion rate that the agency anticipates that we can hold you accountable for in 10 years? I think we would love to get to a capture rate that is similar to traditional curbside recyclables. I think if we were able to do that over the course of the next few years, that would be a win.
+
+[**(01:01:54)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3714s)
+
+
+
+Great. And how specifically does DSNY plan to increase organics recycling access for NYCHA residents? So, we have done a lot of work with NYCHA to make sure that they have brown bins that residents can use. We have
+
+[**(01:02:08)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3728s)
+
+
+
+cited our orange bins, the smart composting bins at NYCHA developments in many cases and done specific outreach to NYCHA residents to make sure that they can download the app on their phone that they know how to use it that everyone who has a smart bin in their neighborhood knows what they are there for. I actually compost personally with a smart bin because I find it super easy to just drop it in on the way to daycare in the morning. So that has been I think our number one approach. We also work with NYCHA a lot on the amount of yard waste that they generate. So things like leaves, grass clippings, and other plant material. They have actually an incredible amount of green space. And if we can capture the yard waste that they are generating, that can make a really big impact. And so we focused a lot on their leaves during leaf season, making sure that they are bagging them separately and that we are actually picking it up separately.
+
+[**(01:03:09)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3789s)
+
+
+
+Curious, has there been any dedicated outreach to NYCHA residents about being a groundskeeper or an organics lead or a recycling lead? Is there any conversation or any programs that exist like that? Nothing that I am aware of that
+
+[**(01:03:29)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3809s)
+
+
+
+currently exists. I am just a week back into this. So, I will dig into that more and if there are not programs like that, I am happy to work with you to set them up. Oh, and we do have, Kate reminds me, a program that we set up a few years ago called the clean buildings training, which is specifically focused on giving people the tools to basically set up their building recyclables properly. So, we do work with NYCHA staff to host that training. At the end of the training, everyone gets a certificate that I signed myself that certifies them as a trained clean buildings employee. Okay, cool. I would love to see an
+
+[**(01:04:10)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3850s)
+
+
+
+expansion of these programs to really see NYCHA residents get a true workforce development program from DSNY with NYCHA residents. Something that I have seen in my own community is if you empower the local NYCHA residents with things to do the other community members end up really falling behind especially if you have your TA leaders or your residents doing that. So if you can connect folks I think we can see an increase hopefully knock on wood in diversion rates if we really start integrating local community.
+
+[**(01:04:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3881s)
+
+
+
+You have mentioned Rikers Island. Curious outside of Rikers Island, are there any plans to construct additional composting facilities similar to Fresh Kills? And if so, would these facilities be designed to accept both commercial and residential organic food? So right now we operate just the Staten Island compost facility which is next to the former Fresh Kills landfill. We do not have sites identified at this time for additional food and yard waste composting facilities. We would love to work with the City Council to identify where those could go. It is not particularly easy to site and permit a new facility waste management facility. Even though these are compost sites, they are waste management facilities. And there are a lot of requirements under both the state regulations and local zoning that apply there. And so if we can work together to identify where those sites could be, we are happy to do so. Great. And then one of the things that I
+
+[**(01:05:38)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3938s)
+
+
+
+have been very curious about and reading through the SWMP is if I am not mistaken, restaurants have a 4% organics diversion rate, which seems absolutely outrageous to me. Are there any initiatives understanding why the diversion rate is so low when it comes to restaurants? Are there any initiatives to increase that? And are there any plans that have you have seen either in New York or in other cities in the US or around the world that have been able to work with restaurants and really dive into the circular economy? Yeah. So, I think commercial waste
+
+[**(01:06:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=3975s)
+
+
+
+first and foremost will have a big impact there because one of the requirements is that carters charge less for composting and recycling than they charge for trash collection. So there is a direct financial incentive for businesses to separate more both traditional recyclables and food waste. One of the things that I think has held us back here is that the sort of legal framework is very complicated. There are requirements around which restaurants are required to separate organic waste. It is a square footage requirement. It is not easy for restaurants to know am I supposed to do it? Do I have to do it? Am I not required? So one of the things we would love to work with the Council on is just streamlining that and making it so that every food related business has to separate their organic waste. We think that is a pretty straightforward thing to do. And timing it around the roll out of commercial waste zones, I think would be the right way to go forward. Luckily, I have my legislative director
+
+[**(01:07:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4035s)
+
+
+
+right in the front row just taking copious amounts of notes. We are happy to work with your office and with the committee Council to get that moving. And speaking about these partnerships, has the DSNY
+
+[**(01:07:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4047s)
+
+
+
+considered public private partnerships to help construct composting facilities? And if so, can you describe the type and construct of partnerships demonstrating opportunities for success?
+
+[**(01:07:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4060s)
+
+
+
+Yeah, so many of our recycling and composting facilities are public private partnerships. They are either facilities on public land that are built by private entities like our Sunset Park MURF or they are facilities that are operated by private entities like the Staten Island compost facility. So there is a lot of precedent there for public private partnerships and it is something that we are certainly dedicated to expanding. We also did just last Thursday cut the ribbon on a new composting facility more community scale. Although certainly larger than your average community garden compost facility. This is in Gowanus at the new salt lot in partnership with Big Reuse and Gowanus Canal Conservancy. I think that model of sort of midscale compost facility I think is great because it allows people to get hands-on with the material. They can see the food waste and the yard waste going in on one end. They can see the finished compost coming out at the other end. And really participate in composting in real time. And so I think we would like to explore ways to expand that.
+
+[**(01:08:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4126s)
+
+
+
+I have never heard something more Gowanus in my life. What specifically will DSNY do to ensure that our waste management practices do not intensify the burdens associated with biosolids derived from sewer sludge that is produced via the digestion processes.
+
+[**(01:09:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4146s)
+
+
+
+So I think first and foremost DEP is responsible for the biosolids management program. The SWMP does account for biosolids. We are required to under the DEC regulations. But we did a lot of engagement with DEP but they are the sort of lead there. So we just incorporated their planning and approach in the plan. Jen, anything else you want to say there? I will say that that is one section that we updated post first draft both based on public comment and input and also DEP's revisions to the section as the commissioner mentioned though that portion of the plan was updated to reflect some of the concerns expressed through the comments but also the changing regulatory landscape for that material.
+
+[**(01:09:57)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4197s)
+
+
+
+Thank you. And my last question in organics, if we do increase the organics waste tonnage by 20%, how would this impact existing contract obligations and costs?
+
+[**(01:10:12)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4212s)
+
+
+
+So I think as I said before we have sufficient capacity to increase the amount of organics that we are diverting by a good share. I will say just very bluntly that the organics processing is not cheaper than disposal. So simply moving food waste from the trash stream into the organic stream does not in and of itself save money. I think as we expand the program and as we achieve greater and greater diversion there could be some economies of scale that we generate there. And to the extent that we can use City facilities to manage our organic waste, obviously that is something that can save us money.
+
+[**(01:10:57)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4257s)
+
+
+
+Thank you. And I would like to welcome CM Hanif. And also turn the mic over.
+
+[**(01:11:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4264s)
+
+
+
+Thank you, Chair, and welcome, Commissioner Anderson. And it is really great to see you and I am super excited by the salt lot opening up and Big Reuse Canal Conservancy operating that composting facility all good stuff. I want to continue the line of questioning around organics. How is the department ensuring accessibility of the program for seniors and people with disabilities?
+
+[**(01:11:34)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4294s)
+
+
+
+So the program is today available citywide. Every single residential property in New York City has once a week curbside collection. And as we rolled the program out, we did offer free brown bins to every resident who wanted one. So we gave folks the opportunity to sort of request the bins and then we delivered the bins ahead of the roll out of that program. So, I think that is the sort of top thing that we have done. Our focus right now is on people who live in apartment buildings and making sure that their building management is giving them the opportunity to participate. And if they are not, anyone can call 311. We will send out outreach staff and if necessary enforcement. And has there been anything more specific to ensuring that seniors and folks with disabilities have bin access are compliant with their building.
+
+[**(01:12:34)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4354s)
+
+
+
+We have not had any specific programs focused on seniors, but I am happy to work with you on what that could look like.
+
+[**(01:12:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4360s)
+
+
+
+Got it. And then the same for like in terms of outreach to seniors and people with disabilities. Would be very curious what the engagement has been. Yeah, I think there is definite opportunity there to do outreach particularly through our senior centers and older adult centers. But to my knowledge, we have not specifically done that at this time.
+
+[**(01:13:03)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4383s)
+
+
+
+Okay, good to know. In my district, we partnered with Techfin, a nonprofit that collects laptops from corporations. They also collect desktop computers. They repair the machines and then distribute them to low-income households. We distributed laptops to our adult literacy classes and would
+
+[**(01:13:28)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4408s)
+
+
+
+really love to know what opportunities are currently underway with the commercial sector to create a more circular economy for valuable materials like hardware, used hardware, rather than condemning materials to simple e-waste collection.
+
+I think that is something that we
+
+[**(01:13:49)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4429s)
+
+
+
+would love to do more on. I think once we have commercial waste zones fully rolled out, we will have a much better picture of the material that commercial businesses are actually generating and we will have a much closer relationship with those businesses because we will have only three carters per zone who are offering service rather than several dozen. So I think there is definitely a potential and a captive audience there, and we would love to collaborate on expanding something like that.
+
+[**(01:14:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4455s)
+
+
+
+And then does the department see an opportunity to expand commercial waste circularity from e-waste to furniture?
+
+[**(01:14:25)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4465s)
+
+
+
+I think there is certainly a potential there. Wherever possible it is better to reuse durable goods than to just recycle them. So certainly we would want to work with the reuse entities like Goodwill, like Big Reuse and others to try to maximize the amount of material that is reusable that is getting reused.
+
+[**(01:14:50)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4490s)
+
+
+
+And then on construction and demolition waste. So the draft SWMP includes several proposals to increase reuse and recycling of construction and demolition waste estimated at 2 million tons of material per year. Could you share if the department has considered comprehensive reform of this industry by setting rigorous standards for working conditions, safety, recycling and community impacts?
+
+So we certainly have considered it in the past. It has never been something that we have sort of put pen to paper on as far as drafting legislation. And you know my focus currently is on completing the implementation of commercial waste zones by the end of next year. After we get that done I think we would be very interested in turning to the construction demolition collection and processing industry.
+
+You know, we do have, for the first time ever a number of initiatives in the SWMP around CND material. And you know, we are... I think it is an area that we are excited to do more with. And yeah, I think more conversations to come. And we are happy to sit down with you and talk through what that could look like.
+
+Wonderful. Thank you.
+
+Thank you so much. And thank you for bringing up CND. I want to know so
+
+[**(01:16:14)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4574s)
+
+
+
+CND is responsible for approximately half of the city's overall waste production and we know with the current admin, the former admin and just the general housing crisis that we were in, it is all about building and when you build you are going to have construction and debris. And we just approved a brand new project in the South Bronx that is going to even bring more construction construction everywhere.
+
+And so I would like to know, you know, even though it is regulated by the city's Business Integrity Commission, from DSNY's perspective can you describe some of the most effective ways to reduce CND waste production and what if at all will be the agency's role in trying to implement these programs?
+
+Yes. So, I think you know there are both builders and haulers out there right now that do a really good job of sustainable deconstruction and recycling of construction demolition waste. There is a CND processing facility/material recovery facility in Brooklyn that I think is certainly at the top of the pack here in New York City. There are also many facilities that you know simply take in material, they pull out, you know, whatever metal products that they can and a lot of the rest just goes to landfill. That is certainly not what we want to see. But we do not have a great regulatory framework at this moment around capturing more of the material that can be recycled.
+
+So I think that is something that we are sort of starting to look at in this SWMP and we will continue to refine as we move to implementation.
+
+[**(01:18:08)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4688s)
+
+
+
+CND was left out, was exempt from Local Law 199. I am curious as to the appetite to bring it into compliance if not, or were there specific policy reasons from the agency's perspective in which leaving CND out of 199 is for a particular reason.
+
+[**(01:18:30)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4710s)
+
+
+
+Yeah, I think that the focus of Local Law 199 was on the sort of curbside collection, curbside and containerized collection of waste generated inside of businesses. It is a much more predictable stream because those businesses are open all year long. They are putting out waste several times a week. With construction, demolition, debris, it is a much more sort of itinerant type of generation where, you know, you may have a building that is going up for a few months or a few years in one location and then that generation stops once the building is done. There is no more construction demolition waste. So the sort of zoned model did not necessarily apply as easily to the construction industry.
+
+But it is something that we are happy to dig into more with you. I will say because it is a place that has so much emphasis from both from the mayor's office and from the City Council as far as building affordably, we want to be very careful about introducing new regulations that increase the cost of construction. And so I think that is something that we will be very attuned to as we explore these options going forward.
+
+[**(01:19:48)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4788s)
+
+
+
+Appreciate it. I think a lot of the costs are associated more on the maintenance and the insurance costs for buildings, not necessarily the construction piece. And speaking of construction, a lot of what we are trying to do with CND is talking about how we recycle and reuse materials. I am curious, has there been any research or if you can share with us the research on the use of these recycled materials and their lifespan as opposed to other materials, how they shape up compared to other building materials if you have those. I know you are not DOB. So I am very aware of the limitations you might have, but as we are looking at these reuse and recycle rates, have we been looking at the data further, before we, you know, move full steam ahead and doing all of these, you know, great reuse and recycle ideas, but will that make our buildings worse off?
+
+Yeah. So, I know we have participated in industry working groups around a couple different products specifically. I know we have done some work around concrete. We have also done some work around gypsum wallboard. And that is something that Kate and her team have been involved in. Kate, I do not know if there is anything specific you want to add there. But that is I think an area that the industry is really putting a lot of work into. We are, you know, more a stakeholder there rather than the
+
+[**(01:21:12)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4872s)
+
+
+
+primary convenor. But you know, certainly hear the point you are making and we will take that into account. We also have a waste characterization study for the commercial waste industry.
+
+[**(01:21:28)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4888s)
+
+
+
+That is currently scheduled for 2032.
+
+So we have not updated where we are on that. Have you guys started the process
+
+[**(01:21:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4896s)
+
+
+
+yet? Are you just...
+
+We have not. We have a residential waste characterization study in between that is due in 2028. So that will be our first focus and then we will shift to the commercial study after that. But that will look at both the commercial waste zones commercial waste as well as the construction demolition waste.
+
+[**(01:21:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4913s)
+
+
+
+Thank you so much. I would like to now turn it over to CM Shanel Thomas-Henry.
+
+[**(01:21:59)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4919s)
+
+
+
+Thank you chair. How are you doing today? I have a couple of questions surrounding illegal dumping. Are there any new ways of catching individuals? I know you have the cameras and you can catch the license plates, but in my district particularly, we have a lot of dumping where individuals are literally they may not be driving a car. They are taking it from their homes and just dropping them in places. Is there any way to crack down on those type of offenders? And how successful has the program been with capturing the license plates?
+
+Yeah. So, the illegal dumping camera program which largely ramped
+
+[**(01:22:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=4956s)
+
+
+
+up under my predecessor Jesse Tisch in 2022 has been very successful. I do not have the camera numbers in front of me, but you know, we have a couple hundred cameras across the city. We have really increased the amount of enforcement that we are able to do on illegal dumping. We also worked with you all in the City Council to increase the penalties for illegal dumping which I think has had a big impact on encouraging folks not to do it in the first place. So I think there is a lot of good news there and we are happy to share more with you on how that has gone.
+
+One of the things that we are looking at now is how do we make the cameras more adaptable? Because right now, you know, you spend a lot of money, you put a camera up in one place. Once that camera is there and people know it is there, they are going to avoid it. So, we are looking at ways that we can use mobile cameras and you know, really increase the sort of breadth of that program without spending a lot more money.
+
+[**(01:23:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5020s)
+
+
+
+Yeah, 334 cameras citywide. It is just handed. As far as the other kind of dumping which we technically refer to as improper disposal because it is not done with a vehicle. It does not have the higher $4,000 penalty. You know, that is very challenging for us to enforce because we either have to see someone doing it or we have to very manually open up
+
+[**(01:24:05)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5045s)
+
+
+
+the bags, see if there is any identifying information inside like a piece of mail or an Amazon box or something like that. We certainly do that and do write tickets based on that but it is much more laborious than the illegal dumping cameras. So with the
+
+[**(01:24:21)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5061s)
+
+
+
+illegal dumping reward program are individuals who actually catch people be it the individuals who may not be in a vehicle are they able to testify and do the affidavit if there is no vehicle involved?
+
+So if there is no vehicle involved currently no. Okay. But that is
+
+[**(01:24:40)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5080s)
+
+
+
+something that I would love to expand both the affidavit program for illegal dumping from vehicles as well as other citizen enforcement programs. I think there is a great model at DEP that has been very successful on commercial idling that I would love to explore how we could bring that into the sanitation sector.
+
+[**(01:25:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5100s)
+
+
+
+Okay. And last question with the fine like I know with the reward program half the fine would go to the person who helps who captures it. Currently when the cameras catch someone, does half do half the reward go into more sanitation pickups in that particular district or additional cleanups or how is the how are the funds dispersed? Do they go into a general pot?
+
+Yeah. So, right now those fines
+
+[**(01:25:24)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5124s)
+
+
+
+that are paid are going into the general fund. Okay. So they are not being reinvested specifically in the areas that have the cameras, but it is something that I think we would love to have a conversation with you about and with OMB about how we could potentially stand something like that up.
+
+[**(01:25:38)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5138s)
+
+
+
+Thank you.
+
+[**(01:25:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5141s)
+
+
+
+Thank you so much. And I would like to turn it over back again to CM Zhuang.
+
+[**(01:25:45)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5145s)
+
+
+
+Thank you, Chair and Commissioner. In my district, I have a lot of seniors coming to my office saying they are not able to go to buy those garbage bins city required and they order online last year. They still never get it. In the same time they get tickets and my office helped them to find those garbage bins in Home Depot but they do not deliver. Is any city has any program to help those seniors? Probably some disabled people too with those needs. My office actually had a constituent service person went to the store with the constituent bought that thing bring to his home. For our office to do that for every single constituent that is impossible. Is sanitation has any program to help those people?
+
+Yes. So, so first I know prior to
+
+[**(01:26:48)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5208s)
+
+
+
+when I started there were some issues with the NYC bins and with the contractor making deliveries that they were required to. I am happy to say that every single order that was placed before the online orders were suspended last fall has been made as of March 30th of this year. So all of those orders have been fulfilled. The new model going forward is that they are available at retail at Home Depot. We are also happy to work with you. I am going to get there in one second. We are also happy to work with you if there are other community hardware stores or other facilities that want to sell the bins. We are happy to make them available through those retailers.
+
+And then the last thing is they are available via delivery through online delivery partners that Home Depot has partnered with things like Uber and Instacart and I think there is a third one. I, you know, I am on day eight here. And, you know, have not been super pleased by, by how this program has, sort of evolved over the last six months. And so would be happy to dig in with you on if there are specific ways that we can make bins available to your community members particularly seniors and people with disabilities.
+
+[**(01:28:09)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5289s)
+
+
+
+Yeah, seniors probably they need the most and also for Res 0125 what is the cost of this and can this institution shoulder it for Res 0125?
+
+[**(01:28:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5307s)
+
+
+
+We do not have a specific cost for the resolution. But you know I am sure we would be happy to work with CUNY and SUNY on what that cost would look like.
+
+Okay. Because I think it is good idea, but I worry the cost is too big. And also for
+
+[**(01:28:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5326s)
+
+
+
+and I will just say that we already have curbside collection in every neighborhood in New York City. So that there is not really a substantial cost for sanitation to provide the service, but there would be some cost on the CUNY and SUNY side just as far as making sure that they have
+
+[**(01:29:02)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5342s)
+
+
+
+the bins that they need that they have the training that they need in order to be able to separate properly. So, and before we talk about the waste transfer station, we will have the commercial waste come to like all the waste transfer station, especially the one near me. What is a measurement you guys have to make sure those commercial trucks follow rules and how if they do not follow the rule, what is the penalty there? How the community monitor that?
+
+Yeah. So, as I mentioned before, we do not have explicit plans today to accept commercial waste at the MTS's. It is something that we are going to start exploring once commercial waste zones is fully rolled out at the end of next year. And as we explore what that could look like, we are happy to work with you and other community stakeholders to do that in a way that works for the community.
+
+I will say that under commercial waste zones, we have an incredible amount of regulatory authority over the private haulers. We actually receive their like minute-by-minute GPS pings. We know where all of their trucks are at every time of the day. We can really crack down on unsafe driving, crack down on emissions, crack down on failure to separate recyclables and all kinds of things that previously it has been very difficult for the city to enforce. And so I think that is the real promise of the commercial waste
+
+[**(01:30:32)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5432s)
+
+
+
+zones program and one that I am excited to realize at the end of next year.
+
+Will that increase the cost for small business owners?
+
+We have actually seen that the rates have not gone up as a result of the implementation of commercial waste zones and in some cases have actually decreased because we are implementing a system that is incredibly efficient with only three carters operating in each zone. The carters can have much more efficient routes and operations and so they are passing along those savings to businesses.
+
+[**(01:31:05)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5465s)
+
+
+
+Thank you.
+
+[**(01:31:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5466s)
+
+
+
+Thank you CM. Briefly touching on street cleanliness, can the agency conduct a pilot to install multi-stream recycling stations throughout the city to improve recycling opportunities for people navigating city streets like they have in Paris? If so, when could that program type program be carried out or do you see that as not a part of the New York City scope of sanitation services?
+
+So when we have had public space recycling programs in the past just to be very frank they have not been successful. In places where we have had public recycling litter baskets next to regular litter baskets the material in both baskets looks exactly the same. And so, you know, I think that is just because of the sort of budget constraints and operational realities, the department has moved away from those public space recycling receptacles. I think it is, you know, I think there is more work to be done here, but litter baskets make up such a small share of the amount of waste that we collect in total that I do not know that it is where I would focus our limited resources if I had to pick and choose.
+
+Great. And passing it back
+
+[**(01:32:22)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5542s)
+
+
+
+over to CM Brewer. Thank you. Just two quick questions. One is just to describe the incinerator. I know there are people in the audience who will bring it up. Where does it make sense? Where does it not make sense? I know in the past we are just not ready for massive incinerators in our kitchens. And so I wanted to understand commercial, residential, etc. And second, batteries. Obviously, when you have your Union Square event, it is the biggest event of the year and we bring our batteries, but generally I know I work with Lower East Side, and Christine cannot take the batteries, etc. So, just want to know what I think people just throw them in the wrong place. So, I wanted to ask about that. And then just finally, the company that used to take cartridges for computers no longer does so you can bring them back to the store, but I do think that is something that should be looked at. I have a horrible feeling some of the cartridges are also going in the wrong place.
+
+[**(01:33:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5595s)
+
+
+
+Yeah. So, on the first piece, I think you were referring to the incinerators, the food disposers in your sink. Yeah. So, those are on the residential side. They are perfectly legal in New York City. I think DEP has some thoughts on whether or not they should be the sort of broad-based solution. They do. And I cannot speak to DEP's opinions there, but if a resident wants to have an in I do not know the non-brand name for them, but an incinerator in their house, they certainly can. You know, I think there are always concerns around the sewer system and its capacity and fatbergs and things like that that we have to be mindful of. And so even if you have an incinerator, you should not put grease down your sink, for example. But you know I am not going to sort of weigh in on whether that is a thing we
+
+[**(01:34:08)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5648s)
+
+
+
+should expand. Remind me what batteries batteries and cartridges and all that stuff.
+
+[**(01:34:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5655s)
+
+
+
+So for batteries and e-waste generally those are regulated under state law. The battery law was updated last year, I think, in part to address some really significant safety issues and concerns around fires both in our trucks and at the recycling facilities. I think there is more work we can do there around giving around making the people who manufacture and sell batteries be responsible for the end of life of those batteries and offer convenient collection options. The same is true with all kinds of e-waste. You know that state law went into effect in 2015 and has not been updated since then. I think it is time for a fresh look at that state law to make sure that we are giving New Yorkers enough opportunity to recycle their e-waste properly.
+
+[**(01:35:03)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5703s)
+
+
+
+Okay.
+
+[**(01:35:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5704s)
+
+
+
+That should be the responsibility of the people who make
+
+[**(01:35:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5706s)
+
+
+
+Yeah. I mean with the batteries, I am very conscious of the batteries. You know, blowing up in your homes and in the trucks, but then you also have the batteries for the flashlight and so on. And I am just letting you know in general the battery issue could use some help so that people do not put them in the wrong place. And I think they are. We cannot take them to the normal Lower East Side ecology center. They do not accept them, understandably. So I am just saying we need to think about that. And also this cartridge store that used to take back cartridges no longer does. Something to keep working on. Thank you.
+
+[**(01:35:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5741s)
+
+
+
+Okay.
+
+[**(01:35:42)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5742s)
+
+
+
+Yes. Just piggy back off of that, we just had a massive battery fire on Saturday with the number of families homeless right in the part of the district. So, this is a really huge issue that we are seeing all around the city. Speaking about residential MSW or favorite, has DSNY studied the feasibility of a save as you throw or a pay as you throw mechanism for the collection of residential waste? Oh, and before I continue on with my questions, I am so sorry. I want to make sure that I am acknowledging our CM. So has the DSNY studied the feasibility of a save as you throw or pay as you throw mechanism for the collection of residential waste? If so, what were the findings and what are the greatest obstacles? And then has in addition to that, has DSNY consulted with other municipalities on their program frameworks? And if so, which locations have you consulted? And what programs do you think are most applicable to New York City? So no, we have not formally studied a save as you throw or pay as you throw model for New York City. We have particularly in the context of expanding waste containerization have been in touch with many many cities across the United States across South America, Europe, Asia, etc. And in the course of those conversations have talked about both containerization and sort of fee models for waste collection. You know, I think there are there is a broad spectrum of how different cities deal with this issue.
+
+Cities like New York City have the entire waste collection model built into city tax levy. There are many many other cities that do that as well. Some cities particularly in the US if you think of more like sunbelt cities like Houston and places like that where there is not the same density and everything is collected in containers. They charge a per container fee for waste collection services. And so I think there is a lot of different approaches that folks take. But we have not at this point formally studied save as you throw model for New York City.
+
+[**(01:37:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5873s)
+
+
+
+Are there any opportunities to leverage competitive bidding or alternative disposal methods to reduce the average cost per ton? I think there are certainly opportunities for bidding. But you know with both increasing regulation and decreasing regional capacity for waste disposal I do not think that our disposal costs are going to decrease anytime soon. Speaking of
+
+[**(01:38:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=5897s)
+
+
+
+the cost, what role, if any, does the waste volume play in contract pricing? And then how are contracts structured to account for potential fluctuations? Like for example, any contracts that we may or may not have will that be the same in terms of tonnage when we have the World Cup coming with all of these people? Yeah. So our contracts are built with a tremendous amount of flexibility in them. So that you know in the case of Hurricane Sandy for example which created hundreds of thousands of tons of unexpected household waste and demolition debris. Our contracts were able to take that material. And we were also able to stand up emergency contracts as well to be able to take additional material. So you know we have the ability if we need to manage the waste that New Yorkers are generating. But you know on a day-to-day basis we can you know when big events happen we have certainly enough capacity to be able to handle those big events. As far as how the contract pricing is structured. Nearly all of the contracts have a sort of two-tiered pricing structure. There is a fixed rate that sort of accounts for the things that do not change as the amount of waste changes. That is contractor staff operating the cranes at the MTS's. That is the sort of capital cost of purchasing the rail cars and the containers and things like that that have to be purchased up front and do not really fluctuate.
+
+Then there is separately a volume based charge or variable rate that is charged on a per ton basis and that covers actually disposing of the material at the final disposal location.
+
+[**(01:40:09)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6009s)
+
+
+
+And can you if you have this readily available can you compare the cost per ton in New York compared to other major cities that follow our similar tax levy model? It will be unfair if you are talking about Houston or something. Yeah, I do not have cost per ton in front of me for other cities.
+
+[**(01:40:28)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6028s)
+
+
+
+I think to be very blunt, the model that we have here in New York City is not cheap, but it is not cheap because we have designed it to be incredibly resilient and reliable and to containerize waste. You know, putting trash in a sealed shipping container and moving it by barge and rail is a more expensive option, but it is one that we have deliberately chosen because it is the more sustainable option than trucks in overburdened neighborhoods.
+
+[**(01:41:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6060s)
+
+
+
+Thank you. And speaking of waste diversion, one of the most effective ways the city can address the various impacts of our waste is to reduce the overall amount that becomes waste. So what are the most important steps that the agency will take to minimize waste produced by residents, institutions and businesses over the next 10 years? Yes. So again, I think a statewide
+
+[**(01:41:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6083s)
+
+
+
+EPR program is the best step we can take to reduce the amount of waste that we are generating. The EPR program as proposed in the state legislature would require companies to both reduce the amount of packaging that they generate, make it more recyclable, and would provide funding for recycling outreach and education programs so that we can do even more work to educate New Yorkers about how to recycle and the importance of recycling.
+
+[**(01:41:48)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6108s)
+
+
+
+Can you speak more about when specifically the department will be carrying out this work? Are there any identified timelines? Yeah. So much of the work is already ongoing. These are programs that the department operates on a regular basis. And many of the new initiatives in the SWMP are sort of tailored to identifying new opportunities, developing new programs, taking on pilots. So that will start as soon as the final SWMP is approved by October.
+
+[**(01:42:21)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6141s)
+
+
+
+Can the agency commit to a non-renewal of contracts for the incineration of waste? No.
+
+[**(01:42:30)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6150s)
+
+
+
+What does the agency perceive as obstacles to making this commitment? So, I think that the greatest obstacle
+
+[**(01:42:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6156s)
+
+
+
+we have is that New Yorkers continue to generate waste and we have an obligation to deal with it. So, you know, I
+
+[**(01:42:42)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6162s)
+
+
+
+think it would be a failure on my side if we collected waste and did not have somewhere to put it. You know the reality of waste disposal is that there are two options in the United States. Those two options are either waste to energy facilities or landfills. Neither are good options to be clear.
+
+[**(01:43:02)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6182s)
+
+
+
+Both have the facilities that we use today both have some amount of energy capture that happens either from landfill gas or from waste energy which generates electricity. But you know, I think we would love to live in a world where we do not rely on those, but as long as New Yorkers create trash, we are going to have to continue disposing of it.
+
+[**(01:43:25)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6205s)
+
+
+
+And how does the agency reconcile the health and environmental impacts of incineration with the city's present reliance on waste incineration? You know I think we number one hold our contractors accountable to meeting their regulatory obligations and the permits in the state that those permits are issued whether that is New Jersey or Pennsylvania or New York or Virginia or South Carolina. So you know where we have had instances that individual disposal facilities have not met their permit requirements we have really pushed the contractors to get back in compliance and have worked with the regulators to get them there. What methods has the agency identified as the most effective for diverting waste from incineration? And is there a plan to carry out this diversion within the next 10 years?
+
+[**(01:44:14)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6254s)
+
+
+
+Yeah, I think the most effective tools that we have are already in place. That is a mandatory curbside recycling program and a mandatory curbside composting program. You know the next step that we have to take is to work with New Yorkers and educate them on how to participate and make sure that we are actually doing it.
+
+[**(01:44:32)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6272s)
+
+
+
+Curious if you have performed any analysis or studies of the public health costs of waste incineration incurred by the city as compared to waste export and incineration and also compared to a potential 100% diversion of waste from incineration. If so, were there any findings?
+
+[**(01:44:52)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6292s)
+
+
+
+So, we have not operated incinerators in New York City since I think 1992. So, you know, the specific public health costs here in New York City, I think are zero. As far as the impact of waste energy facilities elsewhere, I do not think that is sort of in our remit as the Department of Sanitation.
+
+[**(01:45:12)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6312s)
+
+
+
+Thank you. I was born in '91, so I am very happy that in my first year of life, we stopped incineration. We were the chair of sanitation from the beginning. What is the DSNY's current curbside and containerized diversion rate for full fiscal year 26 based on the 19.4% diversion rate from the first four months? And how does it compare to the 28% original target? What is the current? Yes. So the current curbside and containerized diversion rate is 19.8%. For the first four months. For the first four months. And sorry I had you at point 4. Apologies. 19.8. I think that may I think that may have been the FY25 final. Okay. And then do we know where we
+
+[**(01:46:03)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6363s)
+
+
+
+see the FY26 final to potentially be? Yeah, I think we are going to land somewhere around that 19 or 20%. That is what we have seen so far. And you know, clearly we would like to increase that number as much as possible. We think that curbside composting is the place that has the most potential to increase that number, but also would love to see more recycling as well. Okay, great. Now, back to I do not have any more back to commercial waste. Can you provide an update as to when do you think the department
+
+[**(01:46:39)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6399s)
+
+
+
+expects to complete implementation of all 20 commercial waste zones? End of next year. December next year or an earlier or by the end of December 31st.
+
+[**(01:46:52)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6412s)
+
+
+
+It will be done in advance of the 31st of December, but we are still we have not yet promulgated the rules for the last several commercial waste zones. We expect to do so in the next couple months. Okay. So, by December 29th, I will be looking at you. Does DSNY have the adequate resources and staff to implement the CWZ system citywide?
+
+[**(01:47:16)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6436s)
+
+
+
+At this time, we do. Great. And we continue to evaluate as the program grows, but at this moment we have the staff we need to continue implementation. With this current staff and with the current fees and the pay schedule, do you think that the budget and the admin fees currently paid by the CWZ awardees are sufficient enough to enforce the environmental justice, safety, and workers rights goals of the program? We think they are appropriate for the program that we have today. I think one of the things that as we continue to implement more zones, I think we will be paying a lot of attention to the enforcement resources in particular. And you know this is not a space that we have done a lot of enforcement in before that was previously the responsibility of the business integrity commission. So as we take on those enforcement responsibilities, I think it is something that we will be very mindful of.
+
+[**(01:48:18)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6498s)
+
+
+
+So the Queens West CWZ implementation phase is listed as TBD. Has the department encountered any issues when planning for this implementation? We have not encountered any issues. I think there is some market consolidation that is taking place in the commercial waste industry that we are having to account for as we roll out zones to make sure that we are still offering businesses a choice of three carters per zone. And so one of the things that we have been looking at is how do we make sure that you know as carters participate in mergers and acquisitions that we are then bringing in other options for those zones. And so that is something that is continuing this year. And as we roll out additional zones, we want to make sure that there are three carters available.
+
+[**(01:49:02)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6542s)
+
+
+
+Will the department commit to requiring commercial waste data and publishing it on open data in the same way data on residential waste is currently published? Yes. Great. Can you please outline the steps the department will take to ensure that when recyclable commercial waste is collected, it is routed to a final destination where it can be ultimately reused or recycled.
+
+[**(01:49:24)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6564s)
+
+
+
+Yeah. So, I think two great innovations of commercial waste zones that we have never had before are individual tracking of individual trucks. So, in the GPS system that we have, they are required to not only track the trucks, but tell us what kind of material those trucks are collecting. Second, we have individual dump ticket level data for the first time ever for commercial waste. So, we are going from having a very hazy 30,000 foot picture of the commercial waste industry to a very granular picture of how much material is being generated by whom and where it has gone.
+
+[**(01:50:01)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6601s)
+
+
+
+Wow. New eyes on the ground with sanitation. Thank you. Has DSNY worked with any other city or state agencies to identify methods to reduce the impact of commercial waste truck traffic on communities surrounding the waste transfer stations? If so, what methods were identified and which of these could be feasibly implemented and when? Yeah, I think we have done a lot of work with the Vision Zero task force led by DOT and the mayor's office of operations in particular around commercial waste trucks generally, but very specifically those three parts of the city that I mentioned earlier: South Bronx, North Brooklyn and Southeast Queens. We also have worked very closely with the business integrity commission for example to roll out the requirement for side guards on commercial waste vehicles, to roll out the requirements for emissions retrofits on commercial waste vehicles, both of which were implemented last decade. And as we continue to roll out commercial waste zones, there were requirements there around investments in cleaner trucks, investments in safer trucks, additional safety technology, think like lights, cameras, things like that that make trucks safer. One of the things that I would love to see... and I have heard that as the MTA has transitioned to their electric trucks, the breakdown times of the trucks have increased substantially. So before you know a lifetime of a bus would be they would not break down for 10 to 15 years. Now they have to do a repair after 2 to 3 years.
+
+Has there been any studies looked at into as we are increasing the greenness of our trucks, if you will, the electrification of our trucks? Have there been any studies or understanding on how that transition has affected other cities around the country or in other countries and how that factors into any of the new contracting or procurement that you are doing for new vehicles?
+
+[**(01:52:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6735s)
+
+
+
+Yeah, I think what we have seen as we have implemented more sustainable fleet technologies over the course of the last 20 years is that the more components you put on a truck, the more components that could potentially break. So, you know, I think 15 or so years ago, we were rolling out diesel particulate filters
+
+[**(01:52:38)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6758s)
+
+
+
+for our trucks. We realized that you have to PM the diesel particulate filters themselves, otherwise you will have to down the entire truck when the filter gets clogged. So I think that is something that it is a learning curve. It is not necessarily something that makes the trucks less reliable. Just an additional step that you have to make sure you are taking. For electric vehicles, what we have largely seen is because there are fewer moving parts, they actually tend to have better uptime than other vehicles. But then you also do have to take into account things like charging time and other things that make them more operationally complex.
+
+[**(01:53:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6795s)
+
+
+
+Sustainable fleet technology. That is a much nicer way of saying that. As you can tell, I only had one cup of coffee today. What alternative... I want to focus on waste export. What alternative waste management strategies is the department exploring to mitigate rising export costs? And what are the projected savings?
+
+[**(01:53:33)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6813s)
+
+
+
+Yeah. So again, the best thing we can do to mitigate rising export costs is to divert more waste or reduce the amount of waste we generate entirely. We think that the extended producer responsibility program currently being considered by the state legislature is the best way to do that. And that would also generate dedicated revenue source for recycling programs and for outreach and education. What role do you see organic diversion programs playing in reducing the volume of waste requiring export and how if at all is this reflected in the SWMP cost reductions? So the organics makes up a third of the waste that we generate today. You know today we are capturing a small share of that. As we increase the share that we capture then obviously we are sending less trash to final disposal. I will say at the moment organics processing is not cheaper than disposal. Although again as we achieve economies of scale as we continue to expand programs we hope that that dynamic changes in the future.
+
+[**(01:54:38)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6878s)
+
+
+
+How has the SWMP's reliance on borough based waste management facilities impacted the overall cost of waste export? And what adjustments are being considered? So you know the approach of the 2006 SWMP was not one sort of crafted around cost as the primary factor that we were solving for. It was reducing the impact of waste facilities and waste trucks on overburdened communities and creating a reliable resilient system that would not be subject to the various waste crises of the past. That is the system that we have created. It is not... it is certainly not the cheapest option we could have taken. It would have been much cheaper to just have very poorly regulated transfer stations that used truck export and had material impact on the surrounding communities. But we as a city made a decision that that was not the approach that we wanted to take.
+
+[**(01:55:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6943s)
+
+
+
+We are going to get to transportations right after this. But my last question on waste export, I want to know what percentage of waste export contracts include price adjustment mechanisms tied to inflation or fuel cost and how much have these adjustments been added to the city's annual costs?
+
+[**(01:55:59)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6959s)
+
+
+
+Yeah, so the contracts do include a number of different inflators for various costs including fuel cost, including CPI and things like that. So there is an annual sort of calculation of what the new both fixed and variable cost is for each contract. That is a process that deputy commissioner McDonald's team goes through every year. And you know they do fluctuate with market prices. Obviously we have not yet taken into account the current fuel prices that we are experiencing because of the geopolitical situation in the Middle East. But we expect that that will have an impact as well.
+
+[**(01:56:39)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=6999s)
+
+
+
+Thank you. And your favorite topic from 2006, marine waste transfer stations. How has the utilization of marine transfer stations evolved since the 2006 SWMP's adoption and what operational challenges or efficiencies have emerged?
+
+[**(01:56:56)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7016s)
+
+
+
+Yeah. So, we think that the marine transfer stations have been remarkably successful. They operate really well. They have... you know there have been some learnings around how those transfer stations were constructed. For example, we had a certain method of constructing the floor at the transfer stations that you know I do not think took into account the amount of wear and tear that driving large trucks around would have. And so we had to rebuild the floor at two of the marine transfer stations because of that. But you know I think they have worked really well. I think in general what we hear is that there has been relatively little impact of the operation of those facilities on the surrounding communities and where there are impacts we have done an incredible amount of work to try to mitigate this.
+
+[**(01:57:51)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7071s)
+
+
+
+How has the environmental footprint of waste export changed with the increased reliance on MTS's and what metrics is the department using to track this? Yeah. So it is from a sort of
+
+[**(01:58:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7084s)
+
+
+
+greenhouse gas emissions perspective, it is much more sustainable to rely on barge and rail transport than it is to use diesel-based truck transport. So that is I think the primary indicator that we are looking at is just the overall greenhouse gas footprint of the waste export system. And that has decreased substantially since we started building the rail and barge network 20 years ago. And you know I think that the more important factor is the burden that these facilities place onto New York City's communities and I think we have been able to successfully reduce that burden pretty substantially.
+
+[**(01:58:45)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7125s)
+
+
+
+How does the department evaluate the cost effectiveness of marine based waste export compared to truck-based or rail-based methods?
+
+[**(01:58:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7133s)
+
+
+
+So you know we do not necessarily evaluate it. We just... we know what the cost of one is versus the other and we have made a decision that we want to go with the more sustainable more reliable option.
+
+[**(01:59:06)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7146s)
+
+
+
+What is the current budget allocation for maintaining and upgrading MTS's and how does this align with projected needs?
+
+[**(01:59:13)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7153s)
+
+
+
+So we have both capital funds for major facility upgrades as well as a dedicated O&M staff at the transfer stations. I do not have the specific sort of total dollar value of that in front of us, but for example, we do have 59 million in capital funding for capital upgrades, equipment and system replacements at the MTS's over the next 5 years. So that is I think illustrative of the fact that we are investing in those facilities.
+
+[**(01:59:44)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7184s)
+
+
+
+Thank you. And are all of the existing city-owned MTS's operating at their full capacity? If not what are if any cost implications stopping this? Yeah, so they... many of them are not operating at full capacity. The Northshore and Hamilton Avenue MTS's which are in Northeast Queens and Western Brooklyn respectively are probably closest to full capacity, but we do not have any regular capacity constraints at those facilities. Given that there are no capacity constraints, what can be done to increase capacity at the MTS's? So again, those two
+
+[**(02:00:29)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7229s)
+
+
+
+at the city owned. Yeah. So those two, Northshore and Hamilton Avenue are operating closer to capacity. So they already operate on multiple shifts and are receiving waste and processing waste on multiple shifts. Other facilities, for example, the East 91st Street MTS receives waste on multiple shifts, but only processes that waste out and actually puts it in boxes, puts those boxes on barges on one shift a day. So, if we were to see more waste go through that facility, we would have to run more shifts in order to accommodate that.
+
+[**(02:01:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7260s)
+
+
+
+Okay. And of the DSNY managed waste particularly that is processed through an MTS, what percentage is tipped at a privately-owned MTS versus a city-owned MTS? So, there are no privately owned marine transfer stations. There are one, two, three privately owned rail transfer stations. I do not have the exact split in front of me. But, I just do the math in my head. It is roughly 50/50 between the private rail transfer stations and the publicly owned marine transfer stations. Has DSNY performed a cost-benefit analysis of permitting CWZ awardees to tip at one or more of the MTS's? Including the cost savings for avoiding unnecessary tolls, labor costs and fuel costs. If so, what were any findings? Yes, so we have not done a detailed cost
+
+[**(02:01:54)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7314s)
+
+
+
+analysis yet. Again we are focused first on implementing the full commercial waste zones program by the end of next year before December 29th which is our new deadline. And once we have that implemented and sort of see the industry stabilize then we will look to the potential for commercial waste at the MTS's. Has the department studied any of the specific savings and costs that both private waste collectors and the city could incur by utilizing the east 91st MTS for commercial waste collected in Midtown? If so, what did the study reveal? Again, we have not... I mean I think
+
+[**(02:02:37)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7357s)
+
+
+
+there are... one the disposal cost at our facilities is higher than the disposal cost at private facilities. Again because of the complexity of the system and the amount of reliability and resiliency that is built into that system. But obviously, you know, it is closer to Midtown than transfer stations in northern Jersey or North Brooklyn. And so there could be operational savings on the Carter side. We would have to work with the Carters to understand those.
+
+[**(02:03:11)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7391s)
+
+
+
+Just getting my notes in order. Okay. Let us quickly move into the legislation. Great. And then I will end with some final questions. But, with the legislation, can you describe any operational challenges the city would encounter implementing intro
+
+[**(02:03:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7416s)
+
+
+
+number 355? No, as I said, we already have curbside compost collection on every street in New York City. So, as additional city facilities join the program and set out waste, we are happy to collect it. There should be little to no operational impact for us. That said, our partner agencies will have to bear some I think pretty small startup cost around acquiring bins, acquiring signage, training staff and just making sure that they have the right systems in place to manage that waste. But that is mostly a one-time cost and should not have a really substantial recurring basis.
+
+[**(02:04:14)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7454s)
+
+
+
+Speaking of our lovely sister agencies, are they... can you list or do you know any of the city agencies that are currently known to source separate their organic waste and can you list the agencies that engage in meal service that you understand to be covered under this Bill? Yes. Yes. So, I do not have a full list in front of me, but agencies that are already doing it today, the New York City public school system separates organic waste at every facility. The Department of Corrections separates food waste at Rikers Island, and they actually have a compost facility that we run on Rikers Island for their waste. There are other entities that separate their organic waste as well. There I can think of off the top of my head a couple of firehouses, a couple of homeless shelters that participate today or have participated at some point in the past. When this Bill is implemented, it would cover additional facilities like ACS senior centers that serve food. Who else? Additional homeless shelters, health and hospitals, DYCD, etc. We do not have sort of a full list of everyone who would be in because we have to go agency by agency and understand who is doing that kind of institutional feeding or providing meals, but I think that is what we would focus on over the course of implementation.
+
+[**(02:05:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7543s)
+
+
+
+For clarification, when you say New York City public schools, is it just our district schools or are charter schools also included in that as well? Charter schools that are in DOE buildings would be participating in composting. Oh, the camera is not on. Just you know, public schools. Can you... what percentage of the city's agency's workspace is located in a building or location that is owned by the city? I do not have that number off the top of my head. So for programs like composting, recycling, even in a building like 250 Broadway these buildings do not have the facilities to properly adhere to those regulations that we have set out making
+
+[**(02:06:01)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7561s)
+
+
+
+it much difficult for or institutions like ours to comply with regulations. What are some of the most common challenges encountered by agencies in buildings like this in implementing their recycling programs and their composting programs? Yeah. So, I think the... just to use this building as an example, we are
+
+[**(02:06:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7596s)
+
+
+
+this building is operated by a private landlord. The City Council is a tenant of that landlord. This is a building that I think will benefit greatly from the roll out of commercial waste zones and the lower Manhattan zone is actually rolling out right now. We opened up the implementation period on April 1st. It runs through the end of May. So, as this building identifies their commercial waste zone hauler, that hauler is required to provide information about how to recycle, is required to provide recycling service, to offer composting service. And so we would expect that that the building does participate. We will also have a lot more information about which buildings are participating, how much recyclables are being collected so that we can tailor our enforcement and outreach appropriately.
+
+[**(02:07:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7620s)
+
+
+
+That is really great. Looking right at the camera at 250 Broadway, I am looking at you. Has the department taken any additional assistance to help agencies implement organic waste recycling programs where the agency's workspaces are not located in city-owned buildings? Is there a proper planning method, you know, a handbook, a guide? Yes. Yeah. So, agencies are actually required under a local law from many many years ago to submit recycling plans to the department. And we do follow up with them to make sure that they are submitting those plans. Whether that is whether they are in a building that they own and manage, a building that is owned and managed by DCAS, or a private facility, they are all required to recycle the same way. Well, actually, they are not required to recycle the same way. In city collected facilities, it would be separate paper and MGP recycling. In many private buildings, it is single
+
+[**(02:07:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7666s)
+
+
+
+stream recycling. And so that would be a difference there, but the requirement to recycle is the same across. So I want to turn to environmental
+
+[**(02:08:49)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7729s)
+
+
+
+stream recycling. And so that would be a difference there, but the requirement to recycle is the same across. >> So I want to turn to environmental
+
+[**(02:08:57)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7737s)
+
+
+
+justice and I will take a point of personal privilege and talk about the Bronx, which if you look at the map, I forget exactly what figure it was. Basically, where you show the environmental justice communities, the entire Bronx is blue. Also on page 30, I believe it was, I have a huge mistake that needs to be corrected. Throggs Neck is spelled with one G. It is two Gs. I refuse to let the Department of Transportation remove our double Gs. So, I humbly request... I think that is actually the MTA. I humbly request, I do not care what agency it is, we are fighting on behalf of the Bronx. Please add the extra G to Throggs Neck. Thank you. I am curious to know how the Department of Sanitation is evaluating its programs and policies for compliance with the Fair Share Act and the CLCPA, the Climate Leadership and Community Protection Act, especially regarding greenhouse gas emissions, waste incinerations and landfilling and the placement of waste facilities. Yeah. So, we have a long history of being out in front in the siting of facilities. And, you know, the sort of core principle of the 2006 SWMP was borough equity, so that every borough would be responsible for managing its own waste. We have largely achieved that principle for
+
+[**(02:10:28)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7828s)
+
+
+
+our residential waste stream, which is something that we are very proud of today. You know, when we are siting new facilities, we go above and beyond the requirements of both local and state law around environmental review, around ensuring that those facilities are not presenting a new burden for our local communities. And that is something that we plan to continue.
+
+[**(02:10:54)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7854s)
+
+
+
+Speaking of which, to go to a few different things. One, Patterson Houses implemented a three bin compost program. And I wanted to know if there were any updates on how that program is doing or coming along. I do not have updates on that specific program, but I am happy to find out and get back to you. Great. Thank you. I also wanted to
+
+[**(02:11:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7877s)
+
+
+
+know how do we put folks in touch to partner as community retailers for the waste baskets and how we can get our local businesses informed.
+
+[**(02:11:30)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7890s)
+
+
+
+Yes. So, you can reach out through our office and we are happy to connect the manufacturer of the bins with those local retailers and make sure that they can supply them. Great. So the Bronx has a number
+
+[**(02:11:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7903s)
+
+
+
+of waste management transfer station plants and I am curious when are these contracts contracted until
+
+[**(02:11:54)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7914s)
+
+
+
+if we have those dates. The Harlem River Yard Transfer Station is the primary facility that DSNY contracts with and that is through 2034. 2034 also. So there is the trash that goes from Queens and Brooklyn does a detour into the Bronx and then transfers from the Bronx to Selkirk. I am curious if you know what that transfer time looks like on average, how long the trash or the containers are staying in the Bronx before they are transferred to Selkirk.
+
+[**(02:12:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7956s)
+
+
+
+We do not know specifically for those trains, but we can find out. It certainly is dependent on time of year and other materials that are moving by rail. We share sometimes a locomotive with other cars, so they get combined when they are at that yard. That would be great. Just because I
+
+[**(02:12:53)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=7973s)
+
+
+
+know and having grown up there my entire life, every summer the smell from the train yard, you know it is summertime. So it is curious just to know what that looks like. I am also curious to know with the city's waste needing to be transported on water and given our waterfront resiliency efforts, especially in communities like mine where I have Hunts Point and entire swaths of the waterfront, how is the agency prepping for climate changes and coastal changes and has it begun to identify potential issues due to these climate changes? Yeah. So, you know, with a waterfront transportation network, there are obviously concerns around sea level rise and coastal flooding.
+
+[**(02:13:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8021s)
+
+
+
+Where we could we took into account the new flood maps in the construction of facilities. Obviously for facilities that were constructed before those flood maps were issued, we have had to take other resiliency approaches, either to put like deployable type technology in there or other operational methods to try to protect the facilities in the event of flooding. We do also have our private contractors both on the MGP and the paper side both rely on the water to transport a lot of the product that they process for us and so that is also a consideration on their side. Thank you. And this is
+
+[**(02:14:26)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8066s)
+
+
+
+something very personal to me. Given that it is not only my district, but this is where I grew up. My childhood memories are here. Third Avenue, the hub. I have to thank Frank Lata and the entire sanitation team and department for all the great work that they have been doing there. I credit the last administration for adding 21 sanitation workers for constant support in an area that is heavily needed. The city has now just approved another construction project in the middle of the hub in addition to all the other construction projects that we have. It is a hot spot of development both construction but also dealing with a number of drug overdose issues just regular cleanliness in general given the fact that this area which I do not have to tell you guys is the most visited place in New York City after Times Square on a daily basis yet we have a lack of resources to actually deal with the pedestrian traffic and obviously the sanitation needs that come with that. I am curious what the new administration's plan is for these 21 workers. And given the new construction and everything that has just been approved last week by this new administration, if there is any commitment to keeping those workers, providing the services that they need to make sure that, you know, the Bronx is being centered and kept clean in our number one hotspot area.
+
+[**(02:16:00)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8160s)
+
+
+
+Yes. So, those additional resources are still in place today. They have been continued by the new administration and we are continuing to evaluate the resource allocation across the entire city as we go through the executive budget process. So I think that is sort of where
+
+[**(02:16:16)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8176s)
+
+
+
+things stand today. Is there any way that we can get a commitment or some understanding that the workers and the service or at least the service delivery that the workers provided at this level will be sustained throughout this new administration.
+
+[**(02:16:36)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8196s)
+
+
+
+So we are providing the service at that level today. And we are evaluating resource allocations across the city.
+
+[**(02:16:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8203s)
+
+
+
+Okay. I would like to make sure that we get that on record especially as you know we still have it because we are still in this fiscal year but I know once the fiscal year ends we are not guaranteed and I would really love to see a firm commitment by the administration and really uplifting you know EJ communities like mine that really need the additional support and that without the support that you have already done we do not know where we would be and knowing with the new construction that is being approved by this administration specifically in this area the additional help that we will need in addition to the 21 folks that we already have. Finally, but definitely not least, I want to talk about the leadership. Throughout the SWMP, there was a number of times that the SWMP set out to establish the department as the leader in the circular economy and urban resource recovery. I really want to talk about what that leadership means to you. I see one of the first projects was to convene a round table of folks and so I want to see what leadership means to you. How do you define leadership in this sense and what we should be looking at, how we should be looking at you the city's leadership role in comparison to the rest of the country and the rest of the world.
+
+[**(02:18:02)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8282s)
+
+
+
+Yeah. So, I think leadership to me means being incredibly inclusive. And that means not only inviting folks to the table, but making sure that their voices are heard at that table. And that includes everyday New Yorkers who just care about their neighborhood and want to live on a clean, beautiful street. That also includes stakeholders and advocates who have been doing incredible work in this sector for many, many decades. And so I think my commitment as far as leadership is to bring those voices to the table, make sure that they are heard, and make sure that we are actually acting on what folks are saying. You know, I think for a very long time, people have looked to other cities for innovation in the waste management space. I think what we have shown with our containerization programs, with our mandatory curbside composting program, is that we actually are a leader and not only are we doing it better and earlier than other cities, but we are also doing it at a scale that other cities could not possibly imagine. And so we will continue doing that. And you know when we look back in 10 years at the results of this solid waste management plan, I think we will see that New York City is not only a leader but is also sort of setting the direction for cities globally in the waste management space.
+
+[**(02:19:26)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8366s)
+
+
+
+Thank you for that. And you know a lot of the conversation and discussion today have revolved around what I think is also you know culture and community and society. And a lot of the programs from organics to recycling to a lot of the work that the department does really comes from community buy-in from the culture that we set and the tone that we set. And so I am curious to see for our programs to reach a success rate and a diversion rate where I think we will all be happy about and that we really need it to get to to build a sustainable community that we want to live in and thrive in. We need to have a culture shift. And so how if at all has the agency had this conversation about what a culture shift would entail? And have you had this conversation or continue to have this conversation with the majority of New Yorkers? What their culture, you know, what trash culture means to New Yorkers and how we develop our trash culture to meet our actual culture or how we are shifting that culture and what we have to do to plan for either a buy-in into this culture shift or how do we work around it. So, just your general thoughts there.
+
+[**(02:20:42)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8442s)
+
+
+
+Yeah. So, I think that is, I have never heard it sort of framed that way. And I really appreciate that framing because, you know, New York is such a blending of cultures, both, you know, the fact that we are a city of immigrants and that people bring their sort of thoughts and approaches and history of waste management with them to New York City. But also, you know, we have so many different neighborhoods and every neighborhood has a, you know, a different sort of feel and vibe and energy. And so we have to not only sort of listen and understand what people sort of bring to the table but also, you know, be adaptable as we roll out programs. We cannot take the same program in the Upper East Side and in the South Bronx and expect it to be successful in both places.
+
+[**(02:21:30)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8490s)
+
+
+
+And to close this off, I turn it back to you. Are there any questions that I have not asked that I should have asked that you are curious or that I should be curious about?
+
+[**(02:21:41)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8501s)
+
+
+
+No, I think you and your colleagues have covered certainly the breadth of issues related to the solid waste management plan and many many other sanitation issues. I would say that I just look forward to working with you over the course of the next many many years that we have these chairs together and make New York City a cleaner, healthier place for the future.
+
+[**(02:22:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=8524s)
+
+
+
+Thank you so much and I apologize that two and a half hours was not enough for a testimony. I thank you everyone. Oh, there is no one else here. I thank you all for your time. We will take a five minute break and move on to our next panel. Thank you so much. We are back. Can we have our next panel up? We are bringing up the independent budgeting office.
+
+[**(02:38:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9484s)
+
+
+
+Good afternoon, Chair Sanchez. I am Ryan Doherty, lead budget and policy analyst at the New York City Independent Budget Office. I am joined today by Brian Kaine, assistant director of housing, environment, and infrastructure and Elliot Jackson Ankush, assistant data manager. As you know, IBO is an independent non-mayoral city agency that conducts fiscal and policy research. I appreciate the opportunity to discuss the city's curbside organics collection program. Today, last Friday, IBO published a report titled curbside composting, current trends in New York City's Organics Collection. My testimony will highlight key takeaways from this research as it relates to today's discussion on DSNY's draft solid waste management plan, also known as the SWMP.
+
+[**(02:38:45)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9525s)
+
+
+
+As already discussed today, organic
+
+[**(02:38:46)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9526s)
+
+
+
+waste includes food scraps, yard waste, and other compostable materials. Organics represent roughly 36% of the city's residential waste stream. Yet, in 2025, organics collections amounted to just 2.4% of residential waste collected. IBO's analysis found that the city's mandatory composting program, launched in October 2024, produced early progress, but the most meaningful gains were driven by fine-based enforcement. In April 2025, when fine-based enforcement began, weekly organics collection tonnage nearly tripled over the four-week period. That sharp response suggests that fine-based enforcement is an effective tool to increase compliance. When enforcement was effectively paused later that month, momentum stalled for the rest of the year. From May through December 2025, the final months of the Adams administration, weekly organics tonnage declined by 43%. Interestingly, collections did not
+
+[**(02:39:44)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9584s)
+
+
+
+immediately revert down to
+
+[**(02:39:45)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9585s)
+
+
+
+pre-enforcement levels. This suggests that many residents continued composting once the habit was established. Overall, organics collections increased from 1.4% of residential waste in 2024 to 2.4% in 2025, a 68% increase. However, the gradual downward trajectory after the pause demonstrates that enforcement was effective at encouraging compliance, and without it, progress plateaued and then declined. Under the Mamdani administration, some fines were issued from January through March 2026, but it has been roughly 3% of the levels seen at this time last year. As IBO highlighted in our testimony on the preliminary budget, the organics processing budget is underfunded. It decreases after fiscal year 2026 from 24 million to a baseline of 19 million despite DSNY expecting program growth over time. Further, there has not been a major mayoral announcement to resume full enforcement and encourage compliance under the new administration. Organic waste collection has historically been more expensive per ton than trash or recycling collections, largely driven by the high cost of staffing trucks relative to the tonnage collected on a route. Trucks collecting organics compared with recycling or trash have similar staffing and fuel cost but collect fewer tons along their routes. This undercuts collection efficiency. A past IBO report found that in 2019, the average cost of organics collection was $62 per ton. By comparison, the cost of trash collection was $86 per ton and $167 per ton for recycling.
+
+Diverting organic matter from trash streams can reduce costs by increasing the efficiency of organics
+
+[**(02:41:23)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9683s)
+
+
+
+truck collections while reducing the volume of trash to be collected. DSNY's 2026 zero waste report includes organic projections through 2036. The agency expects a linear increase of collections, roughly following the rate of annual gains from 2023 through 2025. By 2036, this would increase the current diversion rate of 2.4% up to 11.5% for organics, or about one third of residential organic waste. DSNY's model used information on New York City's recycling program and curbside organic programs in places like Cambridge, Massachusetts, and the state of Vermont to inform its
+
+[**(02:41:59)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9719s)
+
+
+
+10-year projections. These other programs had little to no enforcement in their early years. This suggests DSNY's model similarly assumes little to no enforcement for New York City's curbside organics program. IBO's findings suggest that collections could exceed DSNY's projections if full enforcement is resumed to help build up initial sorting habits. This would help reach the economies of scale IBO estimates organics collections would need to reach cost par with recycling. Similarly, while the draft plan mentions enforcement as a concept, it does not expressly indicate whether DSNY will resume full organics enforcement going forward. IBO's report also provided a description of San Francisco's system. They have the longest running and most successful curbside organic system in the country. San Francisco does not use fine-based enforcement. Instead, when first launched in 2009, San Francisco properties paid for their trash pickup, but not their recycling or organics. This made it cheaper for properties to divert recycling and organics out of trash bins.
+
+[**(02:42:54)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9774s)
+
+
+
+While different, San Francisco system and New York City's fine-based enforcement both created a financial incentive to divert organics with measurable results. IBO's testimony here today is intended to provide further information to the City Council and the public.
+
+[**(02:43:15)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9795s)
+
+
+
+IBO does not make policy recommendations and does not take a position on the appropriate level of enforcement. Ultimately, the goal is to build up a culture of sorting organics, recyclable materials and waste properly. In line with DSNY's projections to increase organics diversion rates, the evidence from last year strongly suggests that fine-based enforcement is an effective way to encourage compliance. The trajectory of the city's organics diversion rate will be heavily shaped by the decisions made in the months ahead around outreach, education and enforcement. We hope this analysis is useful to the committee. IBO is happy to answer any questions. Thank you. Great to have my mic on. Thank you so much. I understand that the recent report on curbside composting states that IBO will update earlier analysis on this issue.
+
+[**(02:44:04)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9844s)
+
+
+
+Your report states that the 2025 organics diversion rate was a mere 2.4% despite organics potentially making up to 36% of the waste stream. Very sad. Looking at you city, very sad. How does that play into the overall cost of residential curbside organics programs? This is something that IBO plans to update as we get more data from the mandatory program. It did just start last year. So we are waiting for more before we can compare to when the program was voluntary. However as mentioned today, when we reach economies of scale we should see cost savings. Great. And when we do get that, when you do start writing the report, if you can keep in mind what changes we could make to make curbside composting more economical, would really love to see that once we have a report. Absolutely. Can you describe what some
+
+[**(02:45:17)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9917s)
+
+
+
+of the most prominent costs whether
+
+[**(02:45:19)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9919s)
+
+
+
+financial or otherwise that are attributable to the practice of landfilling organic waste? Yes. So currently in the city it costs approximately the same for an organic truck to collect. It is the same salary position. So whether it is an organics truck or a trash truck, it is the same staffing on the truck. So if the truck ends up not being full by the end of the route, then you are spending a lot more money on staffing for little waste collected. And that is currently since the city is not seeing the participation rate that it was hoping for, that is currently attributing to a lot of the cost. And the report mentions a pay as you throw collection system providing financial incentives to residents for reducing their refuse volume by recycling organic waste. When you reviewed this type of program, what did you identify as some of the obstacles to its implementation and how can New York City if at all prepare itself for some of these potential issues? Right. So thank you for that question.
+
+[**(02:46:33)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=9993s)
+
+
+
+Just to reiterate, IBO does not make policy recommendations as to which system is better. However, when we were looking at San Francisco, there is a key difference in that DSNY collects residential waste. In San Francisco, it is a private company that collects all of their commercial and residential waste. So their incentive is to make money and also reduce costs. So they had initially had this program where it was save as you throw but the main finding in the report was that once they reduce the incentive they also saw declines in their diversion rate. So incentives were seen to increase diversion rates for organic waste. Human psychology. Speaking of San
+
+[**(02:47:25)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=10045s)
+
+
+
+Francisco, in your review of that program, were you able to identify the effectiveness, if at all, of any of their educational materials being left at residences that helped increase diversion rates? How does this compare to the effectiveness of our education outreach programs? And have you seen any other educational programs either in San Francisco or elsewhere that have shown to improve effectiveness? Thank you for that question. So, we did focus on San Francisco. We did not look into any other educational programs. However, San Francisco also tied incentives with their educational programs. So there was a dual strategy as DSNY is also trying to achieve at the moment. They are both important is what the findings show. Great. And now I will turn this over to you. Are there any questions that you thought I would ask you that I did not
+
+[**(02:48:27)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=10107s)
+
+
+
+ask you? I think that the hearing before this was very informative and I think a lot of my questions that I had were answered. Do you have anything you want to add? No, that was great. Thank you.
+
+[**(02:48:43)**](https://www.youtube.com/watch?v=46BTku-kaUA&t=10123s)
+
+
+
+Well, thank you. I appreciate it. Thank you. And you guys can... What is a proper way to say this? I do not want to... This panel is dismissed. Get out of here. Sashay away. I am sorry, my dears. Great.

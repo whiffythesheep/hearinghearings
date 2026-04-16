@@ -1,0 +1,978 @@
+---
+title: "Committee on Aging, FY 2027 Preliminary Budget Hearing"
+date: 2026-03-12
+slug: committee-on-aging-fy-2027-preliminary-budget-hearing
+duration: "3hrs 46m"
+youtube_url: "https://www.youtube.com/watch?v=t3VwzDMRYHg"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397681&GUID=B7DC0452-550C-445C-A359-14F6A6A311A4&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Aging held its preliminary budget hearing for FY2027, featuring a new 9-day Commissioner Dr. Lisa Scott McKenzie defending a $573.5 million budget that represents less than 1% of the city's total spending despite serving 20% of New York's population. Chair Susan Zhuang introduced a pointed new tradition of displaying photos of deteriorating senior centers, forcing visual accountability for infrastructure failures that plague the system.
+
+The hearing revealed the fundamental mismatch between demographics and resources: while the senior population is projected to grow 40% by 2040, the preliminary budget actually decreased by $32 million from the previous year. McKenzie walked through core programs including $240.8 million for Older Adult Centers, $78 million for home-delivered meals, and $47.4 million for case management, but Council members pressed on systemic problems that money alone won't fix. The dysfunction extends beyond DFTA's control — senior centers housed in NYCHA buildings suffer from the authority's legendary maintenance failures, requiring complex interagency coordination that rarely materializes effectively.
+
+Several issues highlighted the government's struggles with modern challenges. SNAP benefit theft through card skimming has become a significant problem for seniors, with solutions requiring federal action while victims wait for relief. The department's upcoming $27.1 million move to 14 Wall Street drew skeptical questioning about costs, while a successful $5 million capital program for senior center improvements generated requests for expansion. Technology training remains limited despite digital literacy being essential for accessing services.
+
+The hearing underscored familiar urban policy tensions: growing need, constrained resources, and coordination challenges across multiple agencies. While McKenzie committed to visiting all 308 centers and Council members secured promises for detailed follow-ups, the fundamental question remains whether incremental improvements can address the scale of demographic change ahead. The department's 13.9% vacancy rate and 455-person case management waiting list suggest staffing challenges that compound service delivery problems.
+
+Numbers
+
+- $573.5 million total FY2027 preliminary budget for Department for the Aging.
+- $469.5 million in city funds portion of FY2027 budget.
+- $32 million decrease from FY2026 adopted budget.
+- $240.8 million for Older Adult Centers funding.
+- $78 million for home delivered meals funding.
+- $47.4 million for case management funding.
+- $36.5 million for home care funding.
+- $16.3 million for NORC programs funding.
+- $14.2 million for caregiver services funding.
+- $7.1 million for transportation services funding.
+- $75.9 million total capital commitment plan for FY2026-2030.
+- $27.1 million for agency headquarters moving costs.
+- 1.8 million older adults in NYC.
+- 20% of NYC population are older adults.
+- 40% projected increase in older adults by 2040.
+- 25% projected percentage of NYS population 65+ by 2040.
+- 308 total number of older adult centers.
+- 10 million meals served in FY25.
+- 6.1 million meals served at older adult centers.
+- 4.2 million meals delivered by home delivery meal providers.
+- 3.2 million meals provided as of January.
+- $14.78 current per-meal reimbursement rate.
+- $160,980 average cost of institutionalized care per year.
+- $32,000 average cost of community care per year.
+- 1.3 million estimated caregivers in NYC.
+- 36 number of NORC programs funded.
+- 13.9% DFTA vacancy rate.
+- 2 current open positions approved by OMB.
+- 455 clients waiting for case management services.
+- 65 target case management ratio per worker.
+- 64 current case management ratio per worker.
+- 173 contracts to be renewed.
+- 113 centers offering technology labs.
+- 70,000 farmers market nutrition coupons distributed.
+- $1.75 million value given to older adults through coupons.
+- 1,971 caregivers served in first four months of FY2026.
+- 20.5% decrease in caregivers served from previous year.
+- $19.7 million city funding for indirect costs of human service contracts.
+- $6.0 million Brooklyn Borough President funding for 15 OAC sites.
+- $7.7 million Council funding for Leonard Cavella center upgrade.
+- $11.3 million Administration funding for Leonard Cavella center.
+- $5 million Council funding for health and safety projects.
+- $27.7 million cost estimate for 7-day meal delivery program.
+- $55.5 million current case management budget including additional $1 million.
+- 27 capital projects completed in 2025.
+- 42% percentage of SCRIE-qualified people who actually apply.
+- $6.9 million for cost-of-living adjustment.
+- $650,000 for one major renovation project.
+- $100,000 threshold mentioned for smaller repairs.
+- 300+ vans at older adult centers.
+- 10+ years age for some vans.
+
+Action Points
+
+- Commissioner McKenzie to visit all 308 centers, prioritizing those with poor conditions.
+- DFTA to provide Chair Zhuang with specific location information for center with infrastructure issues shown in photo.
+- Commissioner to bring back metrics on population growth tracking at next meeting.
+- DFTA to provide information on Richmond Hill senior center needs to CM Salaam.
+- Commissioner to visit CM Salaam's district to see Holocaust survivor meal sites.
+- DFTA to provide timeline for agency move to 14 Wall Street.
+- DFTA to bring back detailed moving cost breakdown and explain high expense.
+- DFTA to provide case management funding details and waiting list information to CM Brewer.
+- DFTA to evaluate and report back on home sharing program expansion.
+- DFTA to provide information on HDM meal reduction reasons to CM Aldebol.
+- DFTA to provide subcontractor vs. main contractor reimbursement rate ranges to Finance Chair Lee.
+- DFTA to provide information on mental health contracts vs. geriatric mental health contracts.
+- DFTA to provide list of HVAC repair sites for summer cooling centers.
+- DFTA to release senior center RFP in fall 2027 for July 2027 start date.
+- DFTA to provide list of 15 Brooklyn Borough President-funded OAC sites and project details.
+- DFTA to provide technology program funding amounts for FY2026 and out years.
+- DFTA to provide accurate caregiver services data after reviewing collection methods.
+- DFTA to work with Chair on discretionary funding process issues and small community group funding barriers.
+- DFTA to explore partnership with CM Aldebol on senior housing advocacy.
+- Chair Zhuang to provide examples of discretionary funding barriers to DFTA.
+- DFTA to provide MWBE contractor percentage data by race and minority ownership.
+- DFTA to provide number of capital requests received from providers in FY2026.
+- DFA to meet with City Council finance by April to provide status report on $5 million spending.
+- DFA to provide numbers and cost estimates for van replacement program.
+- Chair Zhuang to work with CM Mealy on transportation van funding.
+
+## Full Transcript
+
+[**(00:07:01)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=421s)
+
+
+
+Good afternoon and welcome to today's New York City Council hearing for the Committee on Aging. If you would like to testify, you must fill out a witness slip with one of the sergeant-at-arms, even if you signed up already. At this time, please silence all electronic devices and no one may approach. Chair, we are ready to begin.
+
+[**(00:07:22)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=442s)
+
+
+
+Thank you. Good afternoon. I am CM Susan Zhuang. I serve as chair of the Committee on Aging. It is an honor to be chairing my first budget hearing on the fiscal 2027 preliminary budget for the New York City Department for the Aging, also known as NYC Aging. Thank you to DFTA's newly appointed commissioner. Welcome Lisa Scott McKenzie for joining us. We are joined by CM Shirley Aldebol. That is it right now. Following testimony and questions with NYC Aging, we will hear testimony from the public at approximately 2:30. Thank you to the older adults advocates who joined us today. I will keep my comments here brief and I request the commissioner keep your oral testimony brief too so we can move on to questions from council members.
+
+I would like to share we are starting a new tradition in the aging committee where every single hearing we will show a picture of issues seniors are facing. It is essential that we are here. Today we have the picture of one of the senior centers in a NYCHA building from last testimony. They said it is pouring when it is raining outside. It is pouring inside. Those are the pictures. Next time we will have a better board and put it behind me. Look at the hole on the wall. Big hole on the wall. This is a situation our seniors are facing every day.
+
+It is essential that we here on Council and at NYC Aging come face to face with real issues seniors deal with that affect seniors' living every day. Every day seniors and the people who serve them are forced to exist in those conditions. We must hold all agencies accountable, not only just NYC Aging. So I am committed to you today, we will hold up an image at every hearing so no one can deny reality. Seeing this will convey the urgency and seriousness of the situation older adults and the older adults provider network face.
+
+We have faced challenges in the past few years due to the pandemic and budgetary constraints as well as inflation and increased cost of living. I look forward to working collaboratively with providers and the administration to help the City's 1.8 million older adults overcome those challenges. NYC Aging has a critical role to play in accessing and meeting the needs of older adults and collaborating with the provider network and the City Council. We must harness best practices and create innovative approaches to best serve our City's growing population of older adults.
+
+NYC Aging's fiscal 2027 preliminary budget is 573.5 million which is approximately 32 million less than fiscal 2026 adopted budget as the Council's discretionary initiative funding is not yet included for fiscal 2027. Despite serving almost 20% of the City's population, NYC Aging's budget continues to account for less than 1% of the City's overall budget which is simply not sufficient to meet the needs of our older adults in the City. The preliminary budget includes two minor new needs to more accurately budget for expected costs for the indirect cost rate and the cost for living adjustment for human service contracts but none for direct service or programs for older adults. As chair of this committee, I look forward to working alongside the administration to come up with new ways to create, fund and implement new and expanded services for older adults.
+
+NYC Aging's capital commitment plan is the smallest in the City, totaling 75.9 million over fiscal 2026 to 2030 which covers over 300 older adult centers, promising about 40 centers in New York City Aging's network. This funding is insufficient to properly address all the infrastructure needs. I believe the capital program should be enhanced to help refurbish centers, improve kitchens and connect older adults to much needed technology and resources. In addition, DFTA should advocate for additional capital funding to be added in HPD's budget to create more affordable older adult housing units across the City. It is a big priority of mine as older adults are struggling with rising rents and a lack of accessible affordable older adult friendly units across the five boroughs.
+
+In today's hearing we would like to get a deeper understanding of NYC Aging's expense budget, its capital plan, the impact of its service metrics that are used and the key agency services and programs including case management, home delivered meals and older adult center programs. We would also like to delve into metrics reported for NYC Aging in fiscal 2026 preliminary mayor's management report.
+
+I would like to thank committee staff who have helped prepare this hearing. Simo Hamid, senior financial analyst. Julia K. Haramus, assistant director. Christopher Pepe, senior legislative counsel. Joshua Newman, policy analyst. And the majority staff, Kayn Oric, deputy chief of staff and Jennifer Thorp Moscow, director of budget and legislation. I am sorry if I pronounce anyone's name not correctly. English is my second language. I have an excuse. I will now pass the mic to committee counsel to administer the oath to members of the administration.
+
+[**(00:15:32)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=932s)
+
+
+
+Absolutely. Thank you. Good afternoon, Chair Zhuang and members of the Committee on Aging. I am Dr. Lisa Scott McKenzie, the commissioner of the New York City Department for the Aging, NYC Aging. Before I go into my testimony, I have to say viewing photos like you showed us a few moments ago as commissioner, they are dramatic and deeply disturbing. So definitely you will see more from DFTA. Obviously it is not wholly our problem, but we will join forces with all the others such as NYCHA to ensure that our older adults are in safe functional environments. I have pledged to go out to all of the 308 of our centers and take a look at what our older adults are experiencing every day. And again, I have said it is not the beautiful sites that I want to see first. I want to go first to those sites that look like what you just showed us. So if you would be so kind, we would definitely invite you also to come along with us and advocate for our older adults. Absolutely. Now, I will move into my...
+
+[**(00:16:36)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=996s)
+
+
+
+testimony. I am joined this afternoon by Jose Marcado, our chief financial officer. Thank you for this opportunity to discuss NYC aging's preliminary budget for fiscal year 2027, FY27. I am speaking to you this morning on my ninth official day as commissioner for New York City aging. I am very excited to serve as the head of this agency delivering vital services to nearly two million New Yorkers over the age of 60. We of course do this through our partnership with hundreds of contracted providers across a range of programs and much of our success is due to the relationship we have fostered over the years with these dedicated professionals in aging services. I am proud to bring my years of experience working at the New York City Health and Hospitals most recently as the chief operating officer at Woodhull Hospital in Brooklyn to this new role. I am committed to bringing the same innovative approach to aging services and pursuit of excellence in the way we serve older New Yorkers to my time as commissioner. We believe that New York City's older adults have earned the right to age gracefully and with dignity in the communities they have built. Nurturing and fostering that reality for older adults is fundamental to the work of this agency. 
+
+To support this important work, our FY27 preliminary budget projects 573.5 million in funding, of which 469.5 million is in city funds. This includes allocations to core programs you are all familiar with, including 240.8 million to support older adult centers, 78 million for home delivered meals, and 47.4 million for case management. The work done by OACs, HDM programs, and our CMA providers combat poverty and financial insecurity while also connecting older adults to in-home services, which addresses their needs when struggling with activities of daily living. There are also allocations of 36.5 million to support home care for homebound older adults who are not Medicaid eligible, which allows older New Yorkers to age in place, and 16.3 million for NORC programs, which provides similar services as OACs other than meals for recreation and combating social isolation, but includes nursing services. Finally, 14.2 million for caregiver services, supporting the 1.3 million caregivers and their care receivers in the city, and 7.1 million for transportation services, allowing older adults to be connected to community centers, houses of worship, shopping, and medical appointments. 
+
+These numbers tell only a portion of the story beyond the services included at NYC aging and show the human side of what we do to make New York City fully age inclusive. As this administration has made clear, there are key challenges in the city financially and NYC aging is always prepared to prioritize the needs of older adults and our core aging services while limiting the impacts of these challenges. Nonetheless, we are still keenly aware of these challenges which have been exacerbated by changes to the federal landscape and the need for continued and increased investment from the state to support the growing number of older adults throughout New York. We also continue to advocate that our state and federal partners share the financial responsibility of serving older New Yorkers living in the city over the current fiscal year. We are proud of our work done along with the work of our nonprofit partners and addressing some notable recent successes and upcoming items we are looking forward to.
+
+In November of 2025, New York City Aging celebrated its 50th anniversary. As the largest area agency on aging in the country, we are proud to be the first in a number of accomplishments, including developing the community care plan, creating the cabinet for older New Yorkers, and utilizing our platform as an agency to take us from age friendly to age inclusive. New York City Aging's commitment to service and leadership will build a future where every New Yorker can age with dignity and respect. In FY25, New York City aging once again hit a post-pandemic record of 10 million meals served to older New Yorkers throughout the five boroughs. This includes 6.1 million meals served at the 300 plus OACs in the network and 4.2 million meals delivered by our HDM providers. As we have said before, when the Older Americans Act was passed more than 60 years ago this July in 1965, a key reason for creating that pivotal legislation was to address older adult poverty nationwide through nutrition and supportive services. While the significance of what it means to be an older adult may have changed since the 1960s, the basic human needs for dignified aging, meals, health, agency, safety, and income remain the same.
+
+Last fall, we launched a dynamic ageism stops with you campaign focused on calling out ageism regardless of age. This means both older and younger New Yorkers that age discrimination affects us all. This reminds all of them and we should call it out, reject it and challenge ageism together. This multilingual campaign is not the only effort our agency has put forward combating ageism but is complemented by our anti-ageism high school resource guide and the intergenerational my New York story campaign. Both these endeavors have been developed through the cabinet for older New Yorkers and were recognized as programs of merit by Generations United. We are proud of the work we are doing to fundamentally push against ageism in New York City. Finally, last July, we were pleased to release the state of older New Yorkers report, which was developed based on the results of our milestone service needs assessment administered in 2024. We have learned much information about the way older adults perceive their environment and aging in New York City and we have learned about the work and challenges our agency needs to overcome in order to better meet the needs of older adults. This report has informed our work and allowed us to develop a better understanding of what older New Yorkers are really experiencing on a daily basis.
+
+We are thrilled about these recent successes and some key programs supported in this preliminary budget which shape our core services and improve the lives of older adults in New York City. Two of New York City aging's core services are OACs and the HDM program which are intrinsically connected to providing meals and nutrition assistance to older adults. In recent years, we have altered our own thinking and clearly see congregate or home delivered meals as programs which provide food as medicine. These are essential services for healthy living and preventing the social isolation that affects older adults at a very basic level. This work done by OACs, HDM programs, and our CMA providers combat poverty and financial insecurity, which address their needs when struggling with the activities of daily living. Not only does the HDM program provide meals to homebound older New Yorkers, their interaction with the delivery person, which for many of our clients may be the only direct human interaction for the day, supports our ongoing effort to combat social isolation. Again, a critical aspect of our community care approach. This program continues to follow the strict guidance set by the state and is open to all those who meet the criteria.
+
+Additionally, because financial insecurity remains among the most critical needs of older adults and it is highly correlated to food insecurity, NYC aging is continually evaluating our efforts and exploring areas for improvement. While workforce programs continue to be a way for older adults to avoid long-term poverty, meal programs are a lifeline to older adults struggling with financial and food insecurity. This includes enhancing meal options for recipients, embracing the diversity of our city by increasing the availability of culturally aligned meals, and promoting uniformly high quality and nutritious meals. Over the past few years, per meal reimbursement rates have gradually risen to help meet the needs of our providers serving these critical needs. These have been key improvements to service and our providers that we have met through partnership between the administration and council leadership.
+
+As the number of older adults in New York City continues to grow, it is imperative that we continue to grow the community care support systems which allow older New Yorkers to remain in the communities they built and truly age in place. We do this through home care and caregiver services which greatly serve those who are homebound or in need of additional supports. Home care services are provided through Medicaid reimbursement and for those who do not qualify for Medicaid programs through the expanded in-home services for elderly persons ISEP program where case management hours are reimbursed to providers. Without this, ISEP clients are at a disadvantage when Medicaid home care workers are incentivized to take on those clients because the pay is higher. There is no distinction between ISEP and Medicaid home care workers. They are primarily women of color and this exacerbates inequity because of the salary. Currently, the home care program at New York City aging is funded at 36.5 million for FY27.
+
+Many older adults are caregivers for their aging parents or others. Many are caregivers who also have full-time jobs. The caregiver program offers options for respite care through home care or participation in social adult daycare. There are an estimated 1.3 million New Yorkers who function as a caregiver. We know that the cost of maintaining an older adult in institutionalized care is far higher when compared to the cost of community care options such as supporting caregivers. We know that it costs on average $160,980 to house an older adult in institutionalized care whereas the average cost of community care services is roughly $32,000 per person per year. In FY27 funding for the caregiver program is currently projected to be 14.2 million. We are additionally excited to announce that a citywide caregiver campaign just launched today and will help to educate New Yorkers about this incredibly important program at NYC aging. Caregiver supports positively impact the health and well-being of older adults while aligning with the cultural background of the individual. This is why community care is so incredibly important to the future of older New Yorkers.
+
+As the New York City population ages rapidly, ensuring older adults can age in place is paramount. Naturally occurring retirement communities are a vital piece of the community care puzzle. Through contracted providers, New York City aging currently funds 36 NORCs across the city, delivering essential social services directly to where older adults live. NORC programs are uniquely positioned within people's homes and communities, offering services distinct from traditional older adult centers. Just like caregiver supports, NORCs are a fundamentally sound investment in community care that saves the city money while improving lives. NORC staff also intervene early to prevent the negative impacts that lead to costly institutionalization. Beyond health care, they empower older adults to advocate for their daily living needs. Currently, the NORC program is funded at 16.3 million in New York City. Because they are embedded in the community, NORC staff provide vital health care management to address long-term housing issues. These are key interventions that prevent older adults from being forced into institutional care.
+
+Just this year, the governor's 2026 state of the state address underscored the immense value of this model by proposing to double state investments in NORCs to 16 million. This commitment highlights the immense impact that this program has and we know that council has contributed discretionary funds to NORC programs as well in the past years. These integrated services keep older New Yorkers safely in the communities they help build, which is their overwhelming preference. Maintaining and expanding NORC funding is essential to our shared goal of making New York City a truly age-friendly city, and we welcome your continued advocacy and investment in these critical community anchors.
+
+In conclusion, I continue to be proud of the great work that NYC aging and our providers accomplish with our resources. This past year has shown where NYC aging is prepared to prioritize vital programs that truly meet the needs of older New Yorkers and continue to advocate for innovations and aging services which look to the future. Even in the face of challenges, we continue to be good stewards of public dollars. That said, given the need for further investment from our state and federal partners, we continue to be concerned about the current uncertainty and what changes may affect NYC aging. It is imperative now more than ever that New York City receive its fair share of aging services funding and that federal grants continue to be dispersed for these vital programs and services. We are grateful to the chairs and committee members for your ongoing advocacy and continued partnership to support older New Yorkers. Thank you for your time today. Mr. Marcado and I are happy to answer any questions.
+
+[**(00:30:27)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=1827s)
+
+
+
+Thank you, Commissioner. And then we just joined by with us CM Brewer. Congratulations. We are going to move to the Q&A portion of this hearing. Congratulations, Commissioner. Again, I enjoyed the conversation we had yesterday. I am excited to work with you but a lot of people still do not know yet. I am going to ask the question again. What is your priority for the agency?
+
+[**(00:31:08)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=1868s)
+
+
+
+Well, we have taken an overall look at the agency. Obviously, again, it is my ninth day, so there is a lot still to be uncovered, but we found that we really have a great mission-driven agency that has done great work in partnership with this council. So, we want to thank you so much for all that you have done and how you have supported the work that we do. But as far as some of our changing mission, we are looking at ageism and we know that ageism has been at the foundation of all the work that has been done over the last few years. But now we are starting to realign and recognizing that today folks are dealing with and especially our older adults are dealing with the real meat and potatoes issues of food insecurity of a safe place to live an affordable place to live and especially providing the best environment possible
+
+[**(00:31:59)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=1919s)
+
+
+
+when we do have places like our OACs where it should be an area of respite for our older adults. Yes. And also like you just said OAC this OAC is in NYCHA building. What is your plan to work with other agency because if like the last testimony we had advocate told us this situation it is raining outside it is pouring inside and it is in NYCHA building NYCHA building does not let the OAC fix the issue. What is your plan to working with other city agencies.
+
+[**(00:32:38)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=1958s)
+
+
+
+Well, exactly as you have said, we definitely need to partner better with NYCHA and we will do that. I know that we have an escalation process right now where you have a ticket and we do have a liaison that works along with us, but I would like us to really advocate a lot more strongly that these environments are looked at immediately. We are not a capital agency as you all know, but we can make use of monies that we may have that are due to overspending and others to be able to effect some of these repairs. And of course, NYCHA as one of the city agencies, I am sure that they are eager to help us solve this problem. So, we will work with them and whatever other agencies we need to in order to make sure that we do not have centers that look like this.
+
+[**(00:33:25)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2005s)
+
+
+
+Thank you. And also second question the older adults represent approach about 20% of city's population. 2021 grad center study report that the population of older adults age 65 and older in New York state will increase to 25% between 2021 and the 2040. In the city alone, population older adults will be increased by 40% by the year 2040. This is a big increase. What metrics does NYC aging track or monitor regarding older adults population growing, demanding more programs and more service?
+
+[**(00:34:14)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2054s)
+
+
+
+Well, we are looking at metrics and I am sure Jose may want to add some things, but we are looking at metrics that help us to identify the total number of folks that would need our assistance. Of course, allowing there to be some overflow because we do recognize that there are folks that we may not know about that are 60 and older that will enter some of our centers and require additional services as well. So while I do not have those numbers in front of me now and I am happy to bring them back for our next meeting, we are tracking the need and meeting the need according to our recent numbers.
+
+[**(00:34:49)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2089s)
+
+
+
+I am a data person also. Me too. So when the number of senior increase but the percentage of senior also increase and but we did not see the percentage of the budget in the city increase. Is any plan of increase of percentage of the budget for seniors this year?
+
+[**(00:35:10)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2110s)
+
+
+
+Well, there are innovative approaches and of course our partnerships with some of our nonprofit agencies as well to be able to address the needs and properly assign the needs because through case management we should be able to assess our older adults and then be sure that we are meeting their actual needs. And not all of that is a budget issue. Some of it is budget neutral. We found through our cabinet for older New Yorkers that we have been able to come up with approaches that do not cost a lot of money but actually increase the service and increase the offerings of services that we have across the city.
+
+[**(00:35:47)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2147s)
+
+
+
+I am in the ground every day. A lot of senior center OACs, they come to me always say Susan we do not have enough budget, we have to cut this, we have to cut that. And this year from the budget so far I have not seen an increase of money for OACs but I see the cut. Is there any plans for our OACs for the budget?
+
+[**(00:36:13)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2173s)
+
+
+
+Well yes we did release a concept paper very recently and we were waiting for the results of that to get a better picture of whether or not we do need to make further adjustments. But I would open the floor and say to you, please if you do hear that, you know, I cannot speak for the past, but I can speak for the future. And I will say if you get that, please pass it on to us because we want to be able to ensure that we are meeting the needs. And if there are ways that we can look at our budget and use it in a different way to meet those needs, we are willing to do so.
+
+[**(00:36:44)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2204s)
+
+
+
+That is great to hear. Probably you are going to have a full list. Good. We have got lots of work to do. And then we just joined by CM Hudson and also CM Lee. Oh, our finance chair. Good. Hi. How are you? For the mayor's saving exercise, did we have any idea what aging NYC DFTA able to save and what area they going to save? For me, I see DFTA already do not have enough funding. How we going to save more? Which area that you guys going to look at it to save?
+
+Hi. And so we are currently looking at ideas and so we are still working through that. No, that is kind of again we are still reviewing what we have because commissioner mentioned earlier we are looking at all our budgets reviewing them. So currently we have made no decisions regarding any savings at this point in time and we really want to be very thoughtful in this process because again we do not have an infinite budget. No one does. But we want to be sure that we are meeting the needs and we are meeting our older adults where they are and our providers to be sure that what we are funding we are funding the right things and if there is something that we can draw back on that we are drawing back on the right issues.
+
+And we also here going to end a two for one hiring policy but it was a concern to hear that agencies will only permit to fill half of their vacancies. With a senior growing I do not know what is the situation with DFTA. Well, I am happy to say that at this point we only have two positions that have been approved by OMB that we are actively hiring for at this point. So, we are doing quite well with our staffing and our vacancy rate right now is two percentage points lower than it was last year. So, we are doing well for now. And we will continue to monitor.
+
+Okay. I still have a lot of questions, but I want to let my colleagues ask a question first, then we will go back to my questions. We have CM Salaam and followed by CM Brewer.
+
+[**(00:39:19)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2359s)
+
+
+
+Thank you very much, chair, and welcome, Commissioner. So one of the questions I have is sort of and continue in the vein of chair, there are communities like in my district where there are no senior centers and I know in terms of the capital, the capital is not there, but in Richmond Hill there is no senior centers. Are there any plans to how what are the plans to deal with that?
+
+I am so happy you mentioned that because definitely we want to be sure that we have centers in areas of need and underserved communities. So it is something that we will look at and I would be happy to bring you back some information on that in the very near future.
+
+Okay. No, I appreciate that because there are seniors and they get together in small groups and they do their own thing and so they do not have a structure. So that is very important. And also, you know, I would like to also invite you out to my district. The amenities to some of the senior centers are not great either in my district. Not to the extent that you have at other places, but there you will see. And we have in my district, we have a lot of Holocaust survivors and they come for lunches at different places and it is just, you know, there is stuff coming off the walls and there is like, you know, the tables are not good, you know, all of that stuff. So, we should talk about that.
+
+What kind of meals and do you have money for meals for seniors? Like how does that work? So currently all so majority of our OACs basically have money. Okay. So they all have meals you know so they get reimbursed based on specifically cost on on average you know meal cost is about five dollars on average. So currently I mean so right now for just so you know we currently are we have provided 3.2 million meals currently there are no as of as of January. So currently we have no outstanding invoices for meals at this point in time.
+
+Okay. And the last question that I have is what are your plans in terms of moving? I know you are at Lafayette Street now, I believe, and you are moving to 14 Wall Street. So, can you tell us a little bit about that?
+
+Yes. First I want to take you up on your invitation. You mentioned that we should go out to your community. So, absolutely. Let us plan that as soon as possible. You know, it is a major priority of mine to see and feel the same things that our older adults see and feel every day. You know, and as I have mentioned, I do not just want to see the glitzy programs. I actually want to go to those programs where there are real needs so that we can make a bigger impact when we do correct those issues.
+
+But yes, we will be moving in the very very near future. There are renovations that will take place first. It is listed right now as a mayoral renovation. So, we are expecting that this will help us to not only retain the quality talented staff that we have right now, but as we move forward and continue to have needs to attract additional staff, that that will help us as well. We also have several spaces within our building where we invite our older adults in for training and for counseling, interview prep, and other types of services. So we again if it is going to be our overarching goal that we provide the best spaces safe functional we want to do the same thing when they are coming over to DFTA.
+
+What is there a timeline for the move? Well we are working out the timeline right now. So I do not want to commit to something that is not in stone yet. But it will be in the near future.
+
+And what a big issue for seniors. By the way, I am one of a handful of older adults on the city council, so this is important to me. Loneliness is a big issue for seniors. So, what plans do you have? I did not see anything in the testimony around that issue.
+
+Yes, social isolation, loneliness. Well, the first thing that we are doing as I mentioned in the testimony, you might not have heard me, but we do have those congregate settings at all of the OACs. So, our older adults do have the chance to network and socialize and so on. And then some of them do not want to go to an OAC or maybe they cannot get to an OAC. So, at those home delivered meals, they do have that consistency with the driver that is coming every day. They become accustomed to them and become comfortable.
+
+But I am a technology person and I do feel at many of our centers we have started to train up some of our seniors to be able to use some of the devices that are out there such as language translation apps which would open the door to additional communication and connection and socialization for our seniors. So these are some of the avenues that we are exploring, but again, as I mentioned, we are looking at innovative approaches. We know that there are several ways to be able to provide additional services and to allow that sense of belonging and connection. So it is an area of focus for us.
+
+Okay. Thank you, chair. Thank you, Commissioner.
+
+[**(00:44:41)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2681s)
+
+
+
+Thank you. We also joined by Chair Mealy. I have a follow-up question. Sure. So CM Salaam already asked for moving on the budget said including moving agent headquarter cost 27.1 million and also for our city agency's total project total funding is 75.9 million for fiscal 2026 to 30. So this is basically half almost half of the total budget for city agency for four years. Why this moving is quite expensive moving the headquarter?
+
+Hi. So yes, so part of that is renovating the building to ensure that it basically meets the needs of the older adults, training centers as well as staff. Is any process inside? Who is the landlord and why this building is so expensive? Basically, it is a half the budget of four years DFTA the moving expense. I would like to review those numbers again.
+
+[**(00:46:13)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2773s)
+
+
+
+And if there are changes, we will be sure to share those with you. But I would say that it did go through the bidding process. It went through OMB. So, they have already addressed those hurdles early on in the process.
+
+[**(00:46:27)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2787s)
+
+
+
+So, the final number, and I am not going to say right now that is the final number, but we will share that final number with you. And it was in line with what makes sense moving an agency of our size and also having to have those special amenities for our older adults when they enter our center. It is not just your basic vanilla box type of movement. These are not just offices. These are spaces that are designed to support the work that we do. So this is not the direct
+
+[**(00:46:58)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2818s)
+
+
+
+service cost to like similar to senior center. It is only just a moving. We like to see the numbers. I think the public also interest to see all the numbers. Okay. We will definitely bring that back for you. Thank you. Thank you. And also we
+
+[**(00:47:15)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2835s)
+
+
+
+CM Brewer, thank you very much and it was nice to meet you on your first day at the Yes. Encore dinner. That was very special. Yes. I have a question about case management because I know that in many cases that is the I do not know what the right term meat and potatoes of some of these centers and they do never have enough. So the PMMR said there was an increase in the number of clients. I am sure about that. And increase in case management hours and there is a large number of older city citizens who were served. But what is the current funding amount for case management in your budget for 26 and for 27? And is there a waiting list for case management services? I know the answer is yes. And then how many clients are on that list? And just generally, how are you going to address case management? That is like I said, what keep people housed and served and so on. I want to hear more about case management.
+
+[**(00:48:14)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=2894s)
+
+
+
+Hi. Regarding the budget, so there was actually additional funding added during the November plan for case management for a million dollars. So currently our budget for 26. Can you talk up a little if you could? Sorry. Can you hear me? Yep. Can you hear me better? All right. I sound like a Verizon commercial now. But anyway, with case management, so currently our budget is 55.5 million, which includes that additional money for that one year. 55 million. You said 55.5 million, right? Yeah. And same thing that is baseline for 27 as well. So now just so you know for example this does not include any additional information and things of that nature.
+
+And what is the waiting list? What how many more people do you have on the waiting list though? Okay. So right now we have 455 clients that are waiting for full case management services which actually is a decrease of 38% from the same time two years ago.
+
+Okay. So you feel that there is I that sounds low but I appreciate that that is the number that you have and that is those what do you consider case management? What is on your what do you consider case management? Well, this would not be an everyday, you know, because we know the ratio is the council has requested a ratio of 65 cases per case worker. Right now, we are at 64 as opposed to right. So, we are just a smidge under, but we are working obviously to make sure that we do reach that target goal that you have mentioned previously. And this would not include the day-to-day interaction. Of course, one person with 65 people. So, case management for us would be that you do have that social worker that would be covering 64 cases. That would be their case load.
+
+[**(00:50:05)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3005s)
+
+
+
+Okay. I think that is helpful. More to be discussed. I am a big supporter of the New York Foundation for Senior Citizens. We are all trying to find housing and they were able to do home sharing for a hundred hosts and guests very recently. So I want to know if that is a program that you think should be expanded, funded, etc. Obviously the notion behind it. As you know, somebody has vacancy in their apartment and then they match and it ends up saving money. Last year about 1.3 million is what the city saved. So I want to know if you know the program, if you think it should be expanded. It is a great I think model. What do you think?
+
+Well, thank you for sharing that. You know, again, nine days in I do not want to say it should be expanded or maintained. What I will say is that we will definitely take a deep dive and make sure that this is something that is meaningful to the organization and meaningful to the folks that need to use the program and we will bring that answer back for you. Okay. And the other thing is hoarders.
+
+[**(00:51:00)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3060s)
+
+
+
+Hoarders are a big problem for talk about case management. That is a you know almost all by yourself. You got to deal with it. So my question is what are we doing to prevent eviction? APS is obviously the last resort. Is that something that is I know you have a big aging agenda. I am like real granular so I have tons of hoarders and we spend hours we sometimes we clean them sometimes we call APS etc. How is that fitted in? Unfortunately they are often older adults.
+
+Yes. And I want to just circle back one moment if you would not mind on the case management issue. The number that we mentioned this includes individuals that are waiting for a full evaluation. Okay. They are still receiving services like home delivered meals where they qualify in the interim. So on the issue of hoarders, obviously we do have a tenant eviction specialist unit that would assist with issues like that. And as our case management workers are working with these older adults, they also assess if there are environmental issues where they would need additional assistance. So it is something that we are looking at as well. It is an issue among our older adults as we know because many of them either do not have the resources or they are not able they are not bodily able to be able to do those things on their own.
+
+[**(00:52:20)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3140s)
+
+
+
+I am just saying I think perhaps it is good to be reactive and I am just saying try to look at some of the dockets at housing court something to be more proactive so we do not want them to lose their homes you know they are going to end up in shelter. So I would love to see that. Finally on SCRIE. We love SCRIE. We have work with finance. We have somebody there every week helping tenants. However, but due to memory loss and so on, people do not get their forms in. They do not do the lease right. The owner does not loves to not pretend or pretend they do not know about the lease renewal, etc. So, how are you that is working with another agency? I understand that. But finance, but how are you like dealing with SCRIE? There are so many people who are not signed up. We know that. But even those who are signed up, we spend hours every week, you know, lines out the door with people who do not have the right
+
+[**(00:53:11)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3191s)
+
+
+
+information. They do not want to lose it. They want to get on it. They do not remember, etc. Well, thank you for that. And we welcome the partnership with you so that we can also advocate for what is needed there. At those older adult centers, we do have staff that work with the older adults to complete their applications. So they do have some resources and of course we want to do additional outreach so that they are aware that they have those services available to them.
+
+It is one of those things that I think the mayor and others should be doing it because a lot of those folks do not go to senior centers. They do not or they are older adult whatever they are called but it is something that needs a lot of attention. Thank you.
+
+Thank you. And I actually we our office did a research about SCRIE people qualified only 42% of people applied because I see a lot of advocate knock their heads. Yes it is the truth is because people do not know the program later on they lost their apartments they lost their homes. This is definitely a joint partnership between all the city agencies. We need to advocate even my office. We help people to apply also every we need to have a campaign in the between city agency and between all the council members even with mayor. We should let people know this program exist. Apply before you lose your home. And the next one we have CM
+
+[**(00:54:42)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3282s)
+
+
+
+Aldebol. Good afternoon and congratulations and welcome to DFTA. Thank you and the city council budget hearing. So I have a couple a few questions actually. So you know federal funding is declining due to the removal of the pandemic era funding. How are you planning to close that gap and prevent service reductions?
+
+[**(00:55:21)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3321s)
+
+
+
+So last so the fiscal cliff so last year New York City covered all federal funding that went away and currently it is all baseline funding right now. So there are no specific
+
+[**(00:55:33)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3333s)
+
+
+
+fiscal cliffs regarding federal funding.
+
+[**(00:55:35)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3335s)
+
+
+
+Okay. And with home delivered meals appears to have declined by 25% compared to the same period last year. What factors are contributing to that decline and what steps is DFTA taking to ensure that seniors that need meals are receiving meals? And on CM Zhuang's point, what is the outreach and marketing and education to seniors about the services that are provided for these communities? We have throughout the city and in the Bronx, we have a lot of food deserts. And is DFTA doing anything to service those food desert areas? Have you identified areas that are in greater need? So those are my questions for now. I have a few more but...
+
+[**(00:56:41)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3401s)
+
+
+
+Okay.
+
+[**(00:56:44)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3404s)
+
+
+
+Well, thank you so much for your questions and obviously we all are very concerned about the federal environment now and some of the changes and we are monitoring what may be the impact on New York City aging. I do want to get back to you. This is one time that I am going to have to say that I am going to lean in a little bit on my nine days and I am going to say I would like to take a deeper dive into some of these reductions. Obviously, we know we have spent more in the budget and I do not know if you want to mention that, but if there is an area that we need to take a deeper dive, I would like us to do that. So as you can see for example I mean HDM has been growing every year and as a result support from Council... Speaking to the mic. Sorry. Yeah because we cannot hear you guys now. No you are off. No. You hear me now right? Sorry. Like it is like teams right you cannot anyway. So as you know for example historically HDM has been increasing as well as the Council has been supporting the rate increases over time. So the budget has grown. So you know that I mean regarding the actual like I said the commissioner will get back to you regarding the reduction in the actual meals. I think there is probably a data issue with there but we will get back to you on that.
+
+[**(00:57:56)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3476s)
+
+
+
+Okay. Can I ask another question? So on staffing you have about a 13.9% vacancy rate. How are you ensuring that there is adequate oversight of the over 1400 contracts with nonprofits that you have across the city? And are there any issues with providers receiving funding having funding delays because of... So regarding on-time payments we do not have any outstanding invoices to providers and so we are pro our normally is if invoices come in we have a two week turnaround so regarding delay payments that is not one of our issues at all. Okay. We do have again a robust I said in terms of staffing we have I mean staff who are constantly contract managing the programs and so if there any issues I mean they normally get to one of us or again...
+
+[**(00:58:58)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3538s)
+
+
+
+Okay and I do have a specific question about a center in my district, the Throggs Neck senior center. It has been closed for I want to say close to two years or less but it has fallen in disrepair. It is under NYCHA, but it is now I believe it is a Section 8 project based building. And so that transition from NYCHA to project based or even RAD, it feels like we are caught in like limbo here as to who is responsible to make the repairs to the senior center, which is much needed. About 58% of the tenants in NYCHA housing in my district are over the age of 65. Yes. Which is significant. And I would say to you we are aware that there are some centers or OACs that are in NYCHA facilities that the building itself has infrastructure issues and that is one of them. Where there are issues there with the HVAC heating, ventilation and air conditioning and the roof aside from the site that we operate there. So again, this is another area where we need to partner with NYCHA and to see what can be done and it might call for us to take another look and perhaps if there is some swing space or something else that we can find in the neighborhood. We may have to take a look at it and make a hard decision because our overarching goal is that we are going to have safe functional environments for every one of our centers.
+
+We know it is going to take time, but we will work tirelessly to get there because as I feel and as I have shared with the team at DFTA, if I do not feel I can send my grandmother there, my mother cannot go there and I do not want to be there, then I do not want to have anyone else in that environment as well. So we will work towards making sure every one of those centers is a place we feel proud of. Yeah. Currently, they are using the Kips Bay Boys and Girls Club, but during the summer they cannot use it because it is like full-time summer, the kids are there for like day camp. And so now they during the summer they will not have a space to they will not have a place to go to and they have talked about transporting. Does DFTA pay for the agency that is running that center to transport people to other centers and how would that work? I know a lot of seniors, they like being in their community and do not like the idea of having to get on transport being transported someplace else. And I would say that a lot of the senior centers are full to capacity. So just kind of adding more people will not necessarily work. So we have to figure that one out. I would sooner rather than later.
+
+[**(01:02:06)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3726s)
+
+
+
+We do and we know that it may take more innovative approaches for us to be able to serve our older adults. But I will tell you I agree that they should not be bused into other communities. You know that their preference is to stay within their own communities and to have a home base somewhere close to where they actually live where you can build those connections and that sense of belonging in a certain community. So yes, we do need to find other approaches and other methods. I have not found them in nine days, but we will work towards coming back to you with some ideas that make sense and again welcome your advocacy and of course our community leaders and elected officials too to help us to better serve those that deserve to age gracefully in place.
+
+[**(01:02:54)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3774s)
+
+
+
+And have you thought about working with other agencies or organizations like public libraries and even DOE schools to provide a space where our seniors can go and also interact with some young folks who can learn from us because I consider myself one of the few seniors on this committee. But yeah well think of it as we are paying it forward. We are getting it ready for the folks that will come after us. So any steps that we take now will set the foundation for great work in the future. But yes, we have looked at some of those areas. You know, we have talked about being able to access space where we can have additional programming for our older adults in larger spaces, air conditioned spaces. We know the cooling season, as much as we would love it to be today, it will be here pretty soon. And so we are looking at that in connection with the cooling centers that we need to offer for our older adults in the summertime. So we are looking at a lot of different approaches. Again, once we start to solidify some of these a bit more, I think that is a better time for us to have a real logical cogent discussion about what we can do.
+
+[**(01:04:13)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3853s)
+
+
+
+Thank you. You are welcome.
+
+[**(01:04:15)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3855s)
+
+
+
+Thank you. If you do not tell anyone, people think you are 25. And then we just joined by CM Dinowitz and the next one finance chair Lee. Hi everyone. Welcome Commissioner and it is always good to see Jose who has...
+
+[**(01:04:33)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3873s)
+
+
+
+been helpful. And it is great to well scary a little bit to be in this new role but as some folks at DFTA know it is great to see the staff as well and of course the advocates. Having run a social service nonprofit with two senior centers and a meals on wheels program for 12 years, I fully appreciate the work that DFTA has done in supporting our communities. One comment I will make though is that I think that part of the reason why the budget is increasing even though the number of seniors have not necessarily for homebound delivered meals is because of the fact that the costs have been increasing and we have been trying to catch up with the national levels of rates for HDM. So I think that is part of it because I think back when I was this was in 2014 or 2015 as a subcontractor, we were only getting reimbursed $5.25 per meal, which was even at that time extremely low. And so I just wanted to actually check on the fact that the subs are also getting their indirect rates and fair share of the contracts as well as the main. Not to say that we want to take away from the main contractors because obviously we do not. But how do we increase that pie? And so do you if you do not have it today because I get you are on day nine. But if you do not have it today, I would love to see updated numbers in terms of where the reimbursement rates are with the mains versus the subs if you can provide that.
+
+And then also I know that I am very well like one of the things I hate are unfunded mandates because that cost should not have to fall onto the providers. And so when we did our 7-day meal delivery service for seventh day that the bill that we passed I specifically wanted to make sure there was language in the bill that was subject to appropriation. And so just in your conversations with OMB and with the mayor's office, does it look like there will be and I know that we are doing the budget dance right now, but I would gladly advocate for you guys to obviously get funding in the budget for the 7th day meal because as we know a lot of the seniors, the homebound meals, it is usually only just the one meal a day that they get. So I just wanted to check in on that as well in terms of how those conversations are going with the administration.
+
+[**(01:06:47)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4007s)
+
+
+
+So I am going to go back to the very first question. So currently it is you know as we all know it is $14.78 per meal. So now unfortunately we do not get involved with the conversations regarding subcontractors and would they negotiate with the prime... But do you guys have a sense of what those numbers are? So it varies from provider to provider. It is not consistent across... What is the floor and what is like the what is the range? So I can give you that we will send we will give you that information. I do not want to kind of give a guess right now but we will provide that. Okay. And I would say on the other issue, obviously a lot more conversation needs to happen surrounding that. I have some preliminary numbers of the cost and I am not so sure the bill addresses the funding vehicle for this. So... It does. Yeah. It was basically on the administration to see if we can put money into the budget for that. Yeah. Okay. So a lot more conversation. I would really love to have those conversations over the next few weeks or so. And it is something that we can discuss because looking at the preliminary numbers, we are talking about an astronomical number that would need to be it would be a pretty heavy financial lift. So... It is about 300 million, right? From what I remember... Yes. Okay. Because I have not looked at the number, but I remember 300 million is sticking out. Okay. Okay. So further exploration and...
+
+[**(01:08:08)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4088s)
+
+
+
+discussion and definitely something for a future meeting.
+
+[**(01:08:12)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4092s)
+
+
+
+Okay. Yes. And I will advocate that for a future need as well. So really quickly shifting gears because I putting on my hat of my former committee chair role as mental health chair. Obviously the senior mental health is super important and just wanted to know I think some of the advocates are expressing concerns or health providers also about the contracts and so if you could differentiate the contracts that you may have that support mental health programs within New York City aging and then with geriatric mental health. I know there are groups like ESPOP and others who are very unique in the sense that they serve they have the both the article 31 as well as the DFTA contract and so I remember there was I do not know if this has been fixed yet I am sure you guys can answer like even when I was at KCS we have an article 31 as well as DFTA contracts and so the question I would always ask is why are the two contractors separate especially when we are serving linguistically sensitive populations and if you could speak to when the contracts are going to get renewed or when there are new RFPs coming out and if those changes could be looked at. So I am going to talk about the renewals. So currently we have about 173 contracts which be renewed. Roughly it is transportation OACs and so forth. So we are renewing contracts that will end in 2027. So we will get back to you with a with a nuance regarding again between the mental health contracts and the article...
+
+So we will get back to you on that nuances so... It is article 31s which are the outpatient mental health... Yeah so we will get back to you on that nuances so... Yeah I because I just want to emphasize that I think that if there is value in a nonprofit that has the DFTA contract and if they have the article 31 I would just really advocate that they should be allowed to provide those services within one organization. Yeah, there is a lot of nuance and I believe I said we will get back to you on that. I mean...
+
+[**(01:10:18)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4218s)
+
+
+
+Okay, thank you. Thanks, Chair, and congrats, Chair.
+
+[**(01:10:23)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4223s)
+
+
+
+Thank you. Next, we have CM Hudson, former aging chair.
+
+[**(01:10:29)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4229s)
+
+
+
+Thank you so much, and happy to be here as a committee member, although obviously very sad to no longer have the to no longer be the chair. Although grateful for my new chairmanship or chairpersonship. And welcome. As everyone has said, commissioner, I look forward to spending some time and getting to know each other. I have introduced legislation to permit older adult centers to opt to provide grab-and-go meals to their clients as many older adults prefer not to eat in congregate settings due to health concerns following the COVID-19 pandemic. What is the department's current position on grab-and-go meals and whether they are permitted in OAC contracts? And are there any limitations given state guidelines? Well, thank you for the warm welcome and I am looking forward to working with all of you to continue the great advocacy and the work that we do for our older adults. Grab-and-go meals. Definitely we are in support. Any avenue or vehicle that we can use to provide meals for our older adults get it into their hands in the way that they prefer, we are in support of. I know that there are some changes and that we do need to take a look at because I am aware that there is an additional cost and pretty much it is the cost per container that some folks are worried about. So again, I would say as we did on the earlier topic, I would like to have additional discussion conversation. And it is something that I would like to join you in advocating for, but we do need to have more discussion. Okay.
+
+Happy to have that discussion and also want to just say that I fully support adding $300 million to the budget to feed older adults seven days a week. Just want to get that on the record. There is a proliferation of private for-profit social adult daycare centers that are in many cases busing older adults from across the city and pulling attendants from city operated older adult centers. Not to mention, they are charging Medicaid daily for things like measuring blood pressure. Is this on NYC aging's radar? And if so, what is your position on them? And are you working to get folks out of those centers and into ours? Well, it is on our radar. It is a topic that is very concerning to us, but we have better control obviously over the centers that are under our purview. So we would like to have some discussions with some of these newer centers that are popping up around the city, but we also need to have that pipeline to our older adults and really explaining to them the services that we do have available at the centers that we have within the city that would probably benefit them a lot more in the long run.
+
+And especially the issue that we talked about earlier with remaining in your own community, having that connection, having that sense of belonging, being able to share with people that you will more than likely see every day or that could be alerted, let us say, if the senior has an issue, persons that are right within their own community will recognize, oh, you know, I did not see them today. So we want to continue that type of surrounding that type of environment, the feel and experience of the New York City centers. So yes, again, another area that needs to be explored more, but it is definitely on our radar. Okay. And currently older adults make...
+
+[**(01:13:56)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4436s)
+
+
+
+up 20% of New York City's population, and by 2040 that percentage will increase to 40%. Given the rapidly increasing older adult population, are there any plans to expand funding for NORCs on the administration side? The current funding of $16.3 million seems wholly inadequate given that our city will have more older adults than children under 18 by 2030. Essentially, many large residential buildings across the city will very soon be naturally occurring retirement communities. 
+
+Well, we welcome the aging to remain in New York City. So, we know at some point, especially with folks living longer and hopefully folks continuing to want to stay in New York City, the numbers will rise substantially over the next few years and it is a very big tent. We know that. So, yes, we will have additional conversations with the administration regarding the needs at that time or preparing now for the needs proactively so that we are not hit with a crisis in 2030. But yes, it is something that we have already started discussing at DFTA and we will continue preparing and working along with all of you so that we can prevent any crisis in 2030. 
+
+Thank you. And last year you embarked on an $800,000 anti-ageism ad campaign which included subway ads informing New Yorkers about ageism and how to spot it. Can you explain the decision behind prioritizing anti-ageism advocacy and do you have any metrics to measure the campaign's success? 
+
+Well, I do not think we have the metrics with us today and we will bring you some additional information on anti-ageism and as I did mention we will be revising somewhat the sole focus on ageism because we do believe that our older adults have many more substantial issues they are dealing with today. As I mentioned earlier, the meat and potatoes issues of making sure that there is food on the table, that they are in safe environments, they have an affordable place to live. So, there may be some modifications to the campaign, but we will bring you the metrics on the ageism platform. 
+
+Great. Thank you. And I know that you are aware that you have one of the smallest city agency budgets in New York City and in city government. And it should not be that way with the growing older adult population and the older adult population that already exists and the importance of people aging in place. I want to state for the record how much I will always continue to advocate for more funding for your agency and hope that well I know you will be a partner in that, but I hope that the administration is able to increase the budget significantly to reflect the importance of the older adult population here in New York City. Thank you and thank you chair.
+
+[**(01:16:48)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4608s)
+
+
+
+Thank you. And I want to follow up to clarify the cost for legislation that could provide home delivery meal 7 days a week for bill intro 280. You said 3300 million but previously we heard 27 million. 
+
+Yeah, that is correct. 27.7 million that is the cost to bring seven meals for HDM. 
+
+27 million. Not... 
+
+27.7. Yeah, that was... 
+
+Okay. 27 million. Yeah. Okay. Thanks. And the next should be even easier to secure then. 
+
+Yes and then we have co-chair Mealy.
+
+[**(01:17:29)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4649s)
+
+
+
+Thank you, Chair Zhuang. Thank you and congratulations. 
+
+Thank you so much. 
+
+I have so many but I know sooner or later you and I will be speaking and I have such a passion for my seniors. They call me the guru. So what percentage of your budget will be handling the centers with AC for the summer cooling centers because we have to prepare before last year I feel it was almost a failure. I could not find real cooling centers for our seniors. This is between life and death. So could you give me that percentage really quick because I have some other questions. 
+
+So it is actually not a percentage. So we have been basically to your point, we have been looking at since last year looking at
+
+[**(01:18:21)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4701s)
+
+
+
+all the different sites that need to basically be repaired and authorizing those going forward. So we can give you a list of those centers where the HVACs are being worked on and so forth. Any of them?
+
+[**(01:18:30)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4710s)
+
+
+
+Well, again, it is based on health and safety depending on which ones are needed to be repaired. So we have been starting that process last year and we are actually now doing the process with the providers and notifying them about the cooling centers and then determining which ones also need to be fixed really quickly. So that is kind of our focus right now.
+
+[**(01:18:45)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4725s)
+
+
+
+And I just want to add on to that just a little bit. Our centers do have AC and there is a report that comes out every September that mentions the AC status at every one of our sites. But of course you are aware of my background and the fact that emergency preparedness has always been extremely important to me. And now that I get the chance to focus my emergency management skills on our older adults, there is no more important issue during the summertime than AC.
+
+[**(01:19:18)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4758s)
+
+
+
+I will be your partner.
+
+[**(01:19:19)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4759s)
+
+
+
+So you can expect that. I just wanted to mention though because I did not get a chance to say, you know, in everything that we do, we definitely want to meet the needs of all of our older adults and our goal is to ensure every New Yorker can age in place in New York City. We welcome the partnership with the Council. We will continue to work with anyone that wants to work with us because as I mentioned earlier, we do have a big tent. It is going to call for all of us to advocate and to work really tirelessly to be able to provide all that we need for our older adults, but we want them to have everything they deserve. Thank you. And I am looking forward to that. 
+
+Last budget cycle, we were told that an RFP would be released around the end of calendar year 2025 with new contracts set to start at the beginning of fiscal 27.
+
+[**(01:20:12)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4812s)
+
+
+
+To date, the RFP have not been released and it is unclear when it will be. Will you know when a RFP will be released?
+
+[**(01:20:23)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4823s)
+
+
+
+Just for full knowledge, I am one that came in office and our senior center was closed. I can give you the percentage of how many people we lost because that center food, pool room, exercise room, arts and craft room, big dining room, closed. When I came in, I made it a mandate. Now it is coming out of my own budget because I know that is a life and death situation. I have been asking now when will a RFP that it could get off my budget and get on to yours to make sure that we all doing our fair share. So would you know when that RFP or a RFP will be released and when a new contract is expected to begin?
+
+[**(01:21:10)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4870s)
+
+
+
+So
+
+[**(01:21:11)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4871s)
+
+
+
+and the capacity is being new now. Have you budgeted that in how much more the contracts will cost?
+
+[**(01:21:22)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4882s)
+
+
+
+So currently the proposed RFP it will be probably released sometime in the fall of 27. 
+
+27 I got Okay. 
+
+Right. So that is probably sometime you know November December with a start date of July of 2027. 
+
+July of 2027.
+
+[**(01:21:40)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4900s)
+
+
+
+Okay. Will additional capacity be included in the RFP to fund centers in part of the city with a high older adult populations that may not currently have adequate New York City funding like myself and OACs. Will additional capacity be included for the new expansion of programs at OACs? And please put in detail since I am the one doing it. I have boots on the ground. I have seniors doing boots on the ground teaching them sign language. We have campfires and movie nights. We had just speed friendship with our seniors. This has been a center went from 15 people coming to now 45 because I am making sure those programs are in. So, how can we really partner to make sure every senior center has that? I moved to Gilroy now, but what other capacities can we partner in to make sure that our seniors have fun and feel they are welcomed at every senior center? When I take my show on the road, you all better watch out. I am coming with my boots on the ground.
+
+[**(01:22:55)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=4975s)
+
+
+
+So currently for example we have a specific budget and I am going to say for that RFP it does not include expansion however again the commissioner however the commissioner is 9 days in she will be evaluating the RFP the proposal again so this is an opportunity for the commissioner to evaluate how we operate and how we basically run these RFPs. So again right now there is no expansion but the commissioner is nine days in she is going to be reevaluating all the RFPs that were going to come out. So that is kind of right now where we are at.
+
+[**(01:23:25)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5005s)
+
+
+
+And I am chair of the senior centers and seniors food and security. So this budget I am going to every center to see to make sure that all of them up to capacity.
+
+[**(01:23:37)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5017s)
+
+
+
+Wonderful
+
+[**(01:23:37)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5017s)
+
+
+
+and getting the food that they really need. 
+
+Let me congratulate you for the boots on the ground for the signage for all of that. You know, one of the joys I would say of being the commissioner is
+
+[**(01:23:52)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5032s)
+
+
+
+that you can look at how our older adults are viewed in the city and one of the very first comments I made about our older adults is that not everyone is frail and elderly. You know, there is a huge number of us that want to have fun and we recognize that we are in the Big Apple and we want our bite, too. So we have very similar views when it comes to how our older adults should be treated and some of the services that we should offer for them and entertainment and all those things that make life worth living in New York City.
+
+[**(01:24:28)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5068s)
+
+
+
+Thank you. And chair no we had a staff whereas if the city is funding these programs why are the seniors have to pay out of their own pockets? I would love to have a conversation about that because something is wrong with that picture. I just found out one senior center I gave extra money and now they have to pay $125 to go on a trip. I feel our seniors have paved their way blood, sweat, and tears built this city and now in their retirement they still have to pay when things should be free. So, chair, I am looking forward to and commissioner, we going to get down to the bottom. I do not mind them paying a little maybe. I really do not want them to pay anything, but I think $125 and is egregious. So, not talking about the food, they got to pay two or $5 just to have breakfast or lunch. Some people do not eat because they do not have the dollar or two or five. That is just a statement. Thank you, chair, for indulging me.
+
+[**(01:25:38)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5138s)
+
+
+
+Thank you. Thank you.
+
+[**(01:25:39)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5139s)
+
+
+
+Can I just really quickly? So, again, it is a contribution. They do not have to actually pay for the meals. It is not again, they are not required to pay for the meals.
+
+[**(01:25:48)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5148s)
+
+
+
+They do not know that it is a contribution. That is Do the directors know that where they cannot... 
+
+Yes, they should be It is posted. It should be posted. It is a contribution. They do not have to pay anything. It is my job now to make sure it is posted because a lot of people do not eat because they do not see that sign and they do not want
+
+[**(01:26:04)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5164s)
+
+
+
+to feel embarrassed being turned away to eat if they do not have a dollar or $5 just for lunch. So, I am looking forward to partner with you on that to make sure every senior know it is not embarrassing to not have the money to eat because they have paid their way already. Thank you so much, chair.
+
+[**(01:26:24)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5184s)
+
+
+
+You are so welcome. And I would say just really quickly, it is our goal that every older adult eat and we certainly do not want anyone embarrassed seeking a meal. So maybe if there is some proactive approach letting our older adults know of the fact that they do not need to pay for these meals. I think we can do more in that respect. 
+
+Thank you. Follow up with the meal questions. I share my personal story last time. My grandma enjoy those congregate meals. She love it and she sometimes could not finish she bring home for dinner. And also in New York City agent plan to is New York City agent plan to increase funding for OAC provider to address growing food cost increasing client
+
+[**(01:27:16)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5236s)
+
+
+
+demands and the high cost of the food. So I do not know if you know but we actually monitor the budget very closely and we basically ensure that providers who actually need additional funding. So for example, there is always going to be under spending in some of these contracts. And what we do is we every quarter we look to see exactly where the unspending is and move money and funding appropriately to ensure that providers do not can cover their costs whether it is food costs, utilities, and things of that nature. 
+
+And inflation, I am sorry, inflation is certainly a part of that discussion because we are not immune. We are just as subject as everyone else. So we want to be sure that we are offering rates that make sense and also some providers some area
+
+[**(01:28:23)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5303s)
+
+
+
+needs kosher and I see COPO is here they need a halal food also culturally sensitive meals do you know which how the provider contract those give out the contract what is the percentage of minority contractors and how they designate to pick the contractors. 
+
+Okay. So, thank you. And instead of addressing it as a percentage, what we are doing is that every one of those centers every one of our OACs, they are it is part of their contract that they must know their community. They must provide culturally aligned meals. And if that calls for a specialized meal, a kosher or a halal, then it must be offered at that center. I think now we know that we are in one of the most diverse cities in the world. So we are very very cognizant of the fact that we need to meet the cultural community needs of each one of our constituent areas. So I would say just overall we are doing well but if you need to have specifics we can bring that back as well.
+
+[**(01:29:38)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5378s)
+
+
+
+A lot of time we see very often we do not the small business owner if there are people of color they do not get the contract and also do you guys make sure this kind of issue will address in with MWBE contract? 
+
+Yes, we do. And I would have to say, you know, we differ on that opinion that a person of color would not get the contract because it is a very competitive process. We do not control
+
+[**(01:30:06)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5406s)
+
+
+
+the process. But there are the bidders will decide, you know, if they want to bid on a particular contract or not. We have an equitable process for selection of the vendor. And sometimes you may have some displacement. We may have a vendor that has been offering a service for a very long time, but through the competitive process, you may have someone that is a better choice for that particular time. So, from our standpoint, it is a competitive process. You know, there is no color assigned to the contract. So, it will go to whoever is the best vendor.
+
+[**(01:30:44)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5444s)
+
+
+
+Okay, got it. But I like to see the numbers by race by is if it is a minority owned business as a city as New York City as such big city support minority business we like to see they provide our senior support also. 
+
+Absolutely
+
+[**(01:31:05)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5465s)
+
+
+
+and also for the budget for OACs over 300 OACs currently fund through DFTA. A lot of time New York DFTA continue have the smallest capital plan of all our city agencies. How do we as we enter the budget cycle for fiscal 2027? What is the additional resources our DFTA can advocate to help the OACs to improve their capital projects? 
+
+So as the commissioner mentioned
+
+[**(01:31:45)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5505s)
+
+
+
+earlier we do not we have a capital budget but we actually do not manage the capital budget. So for us for example what we have been looking at is more about the expense budget and actually looking at health and safety issues and that would be where we can then basically actually provide them funding for the providers so they can actually do all the work. So that is actually much easier for us than actually having a capital process because a lot of the capital budget is managed by DDC and is there is their bandwidth to actually like renovate all these different sites. So that is kind of what we are looking for more. 
+
+And I would sorry sorry I would say also that we are monitoring outcomes. So, I know that in 2025 we completed 27 projects and we are still looking at the list of priority projects for 2026, but the goal always is to make sure that we are in safe functional space. So, if there are any issues or any sites that need to be prioritized because of the fact that they are not meeting that very simple basic goal, we will be happy to add them to the list of the projects that need to be prioritized. So, we also like to thank the Council for providing us with $5 million for health and safety of 55 projects, some major renovations, kitchens, roofs, and things of that nature. So, we would like, again, we would like to continue if that would be something that could be done for 27. Again, that is the quickest route to get the money to the providers to renovate a lot of these sites, respect of the NORC sites. But yes, again, thank you very much for that.
+
+[**(01:33:14)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5594s)
+
+
+
+When you talk about the New York City Council budget, we do have a question. Council member allocate NYC Council discretionary funding to supplement industry work for variety of populations including older adult center service contract and they are deliverable. We heard from providers in the last few years. NYC aging has required provider receive discretionary funding to hit specific very special program outcome related to intent of Council discretionary contract in order to receive discretionary funding. Commissioner, can you explain New York City aging intent and expectation behind this policy and why NYC aging required this additional expectation to unlock Council funding and has Council been consulting roll out of this policy?
+
+[**(01:34:23)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5663s)
+
+
+
+So what we expect is everyone to provide, give us for example there is a budget. Like say we give a discretionary experience to nonprofit and the nonprofit give us what they want to do. They already have the discretionary description of that funding and then DFTA come to say oh you needed to do another thing one two three a lot of time and then if they do not do it they do not get funding. This is what a lot of provider told us. So I would like to get examples of that because right now the business process the way we do is for example when you do an allocation there is basically the purpose of funds, there is a budget you give your budget that we request from you guys right from the provider and then provide units. That is a simple process. Nothing difficult. Like I say, if you can give us examples because we do. Okay. You can give me. Okay. Like I just gave 250,000 to my senior center. It was for educational boat ride, a pool table, exercise equipment, and now it is like the provider I gave it to, it is either they could do it or not. So how are you watching that? We gave out discretionary money and now I gave it. They do not have to do it. So how are we watching that? So because that is kind of. Right. So there is a business. That is not what she is talking about. So I am trying to figure out you give us examples like
+
+[**(01:36:00)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5760s)
+
+
+
+that is example I need to know. So right now for example in your case I would say you know so in your case for example that is money that was given to Fort Greene. Correct. I am just kind of specific. So we actually ask for a budget right you got a certain allocation. We want to know a budget so we can then track it against the spending. Right? You would want to know exactly what was spent or not. Right? That is how we track it. We know exactly what the line item is, how much it costs. Again, we like I said, we do not stop anyone from getting a discretionary award. If the senior center that you or someone who you gave the money do not do those allocations to what it is supposed to be, what is the recourse? Right? So I would say for example, if you we can have a separate conversation to go through the process so you guys feel comfortable in this whole thing. But again, there is a business process. We do not stop anyone from receiving discretionary funds. That is a funding
+
+[**(01:36:47)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5807s)
+
+
+
+that you guys give to the providers. So we do not stop any of that. I just it is kind of like I said we should have a separate conversation exact give us examples so we can review it like as I mentioned earlier because it is kind of hard for me to believe this because we really track this every month we have metrics and seeing exactly what the spending is exactly how many people are invoicing matter of fact we actually go to discretionaries to find discretionary providers to ensure that they actually get the money when there is due for them. So we are constantly finding trying to make sure they submit invoices on time. So I am a little taken back by that but again we would love to have a conversation to see exactly examples of this. Yes. And I would love to
+
+[**(01:37:20)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5840s)
+
+
+
+really connect with anyone that has an example like this because definitely DFTA does not want to be a barrier to any one of our sites moving forward on any of their projects. If there is a specific issue or a challenge, we should be able to work together to be able to overcome those hurdles so that our centers and our sites and our older adults have what we want them to have and particularly if there is money already on the table. And the other question I have is not
+
+[**(01:37:51)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5871s)
+
+
+
+related to senior center DFTA fund. A lot of time there is a senior group in the basement of the church. Some CM give $5,000 to them to buy coffee every day. They meet some people meet twice a week, some group meet three times a week, some close in the summer because the youth need to use the space. So this type of organization has very hard time to get their $5,000 every year and they come to our office all the time and we be told it is conflict of interest. We cannot help them. But in our some people's private time they try to help. Is there any way we can make that process easier and smoother? Well, I welcome your advocacy on this. You know, maybe there is a way that we can join forces. Again, nine days in, I cannot say it definitely is, but why should we not explore it? Let us look at it together with some of our nonprofit partners in the community. Maybe there is a way that we can work to better keep folks in those churches or other areas where they feel comfortable and where they feel connected. We do not want to break that connection ever. We want to do all that we can to support them. So let us find a way. Yeah. I have a nonprofit. They have not get money from 2023. The other CM before me give them $5,000. And then when I go there to visit, they said, "Susan, do not give us money. We cannot get it. It is fake." This is what they said to
+
+[**(01:39:38)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=5978s)
+
+
+
+me. It is fake. So it is very disappointing how hard for those like small group. It is not small. They have 200 people meet once or twice a week. It is not that small. If those people do not come out to meet, probably they are going to stay home all week. A lot of people in wheelchair. It is very sad only $5,000 they could not get it. Yeah. I love to work with you about this issue. This is not just my district has this issue. A lot of CM has similar issue. Well, let us do a deep dive. Yes. And let us find out where the barriers exist and then let us get them out of the way.
+
+[**(01:40:19)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6019s)
+
+
+
+Yeah. I have some question about housing. We all know we did a survey between CMs. A lot of most CMs said 74% CMs said they have issue about senior housing. For many adults unable to afford the rent increase and they get kicked
+
+[**(01:40:43)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6043s)
+
+
+
+out from their building or some environment they do not have leveled sidewalk or walkway. And our older adults make almost 20% our City's population. Does DFTA keep track of how many buildings units our City plan to do and which one is suitable for our senior residents? In partnership with HPD, we would like to work with them on taking a look at that issue specifically because we know that there are some monies available for minor repairs and things like that that should help some of these older adults to be able to stay in their homes with minimal modifications that would make it a more safe environment. So yes, that is an issue I think we should explore more deeply because if we can keep our older adults in their homes that they love and they prefer in the communities that they love and they prefer that would be part of our mission at DFTA.
+
+[**(01:41:50)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6110s)
+
+
+
+And also I heard from some nonprofit developer said the SARA program for seniors is very very slow and very very hard to get it. As DFTA able to help us to advocate for this issue because even they want to build senior housing first it is not profitable and then it is the process is very slow it is kind of discourage people do not build. And also if the developer build the other like say homeless shelter they can make more money. So as any developer they will definitely choose the other plan than for seniors. Is any way we can work together as a partnership to advocate for this issue?
+
+[**(01:42:41)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6161s)
+
+
+
+As you know, I see senior housing, seniors and older adults need to be prioritized when we talk about building affordable housing or any type of setting in New York City. If the goal is for older adults to remain in New York City, then we know they have to be in affordable place. So yes, we would like to advocate along with you. We will work with HPD. We will look at the cabinet for older New Yorkers where we have some inter agency collaboration that perhaps may be able to assist us in moving this forward. But I would say we need to shake every tree and go down every road that we can in order for us to be able to ensure that our older adults do get some priority placements and that we do have in all of those contracts for these developers and builders some priority for them so that they are looked at before everyone else. I know that may not sound fair to some, but for the older adults that have earned it, they deserve it.
+
+[**(01:43:40)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6220s)
+
+
+
+Yeah, thank you. I love to hear that. And also we I do believe we need to have a plan with HPD and also NYCHA they have a lot of apartments empty and not fixed. No one able to move in. I heard that the large number there we have the building already built. We only need to fix let people to move in have regular life but we just do not I do not understand what is a problem there. What is a gap there? Why not able to happen? Well, it is I know it is not your it is not but I was just going to make one comment. The cabinet for older New Yorkers includes our organizations like NYCHA so we can have them at the table. Perhaps they can give shed some light on the issue for us and they can certainly help us. Maybe we should have a task force for seniors for housing issue. And also we have my district in Bensonhurst has a highest number of SNAP theft. That is very bad for all the seniors. How does DFTA work with the city agency to address this issue because most of people get scammed as seniors. And we have a line of people the beginning of the month every single month and my office come up with a video teach senior how to use that app lock unlock it is very difficult I have 30 senior sitting in my office. My former deputy chief staff give them training how to use it.
+
+But for senior take them first they do not speak English at all and they do not know how to use iPhone like high-tech and for them they get older the finger get bigger it is very hard to lock unlock and then that they forget the password it is impossible for them to use and then every single month when they open their banks and they do not have money there because money coming 12:00 at night 12:15 in the morning it is gone. Right. And then it is repeated we can see it is like some grocery the person living in Brooklyn have no idea where that grocery is the money is gone and repeat we try to have meeting with state and they always say they look into it and then nothing happened.
+
+[**(01:46:16)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6376s)
+
+
+
+Well there is a few ways that we can address this issue and it is a huge issue. We know that there is two forms really of the theft that is occurring with SNAP. One is that they the perpetrators are using the skimming devices. So they somehow extract the client's information from the skimming device. And then the second is just flat out identity theft. So in addition to partnering with NYPD, and we do partner with them on this issue, letting them know when we have received reports of this type of incident. I know that they are tracking and they are specifically looking at the number of older adults that have been affected by this issue. But we are also on the DFTA side. We have outreach to the older adults and we are teaching them how to protect themselves from cyber attack. But as you mentioned, you know, some of it may be technology issues also and maybe there is additional training that can be offered in multiple languages so that we can help our older adults to be able to protect themselves so that they do not have this issue reoccurring every month.
+
+[**(01:47:25)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6445s)
+
+
+
+I have a followup question about technology. A lot of time the senior especially people in my neighborhood English is their second language. A lot of people does not speak English at all. They do not know how to use this high-tech. Even they do not know how to use iPad, iPhone, they do not know how to use FaceTime. Different neighborhoods have different needs. This is my neighborhood and I spoke to some senior organization and they are doing all the fancy artwork. But how do we address this issue? Can we have more training for high-tech? Sure. It is not really high tech. It is really basic training how to use iPad, iPhone, how to unlock lock your SNAP benefits when you are not using this type of training. Can we advocate for more funding and more training in senior centers neighborhood organizations and partner together with DFTA?
+
+[**(01:48:32)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6512s)
+
+
+
+Absolutely. You know, I would never say no to additional training in this respect. But I will say right now we have 113 of our centers that offer a technology lab for our older adults. So they can take advantage of that right now. And as you mentioned very basic training, basic things about how to log onto an iPad, how to get into your banking statement, how to use these basic technologies so that you can improve your life every day and protect yourself from cyber threat. So 113 of those centers right now offer it and of course we should have it at all 308. And also how much funding is budgeted for older adult technology program in fiscal 2026 and in the out years? If I do not have that number now then we will bring that number back for you on how much funding is actually allocated for that purpose. You guys think it is going to get expanded? Well, you know, training if you think about it, we talked about some budget neutral things that we can do as well. You know, if we already have trainers at some of these centers, maybe there is an opportunity to expand the training in the places that we already have it. So there are things that we can do. As I mentioned earlier, we want to use innovative approaches, not just the old traditional models that maybe do not work for us anymore. So perhaps there is a way for us to expand training.
+
+There is also training that can be offered virtually and once we start to teach our older adults how to use some of these platforms that they may not even have to leave their homes to attend. So let us look into other ways that we can address this problem that may not always call for additional dollars.
+
+[**(01:50:21)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6621s)
+
+
+
+Thank you. And also we have more question from CM Aldebol.
+
+[**(01:50:28)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6628s)
+
+
+
+Hi. So I do have a question about DFTA and Department of Homeless Services and our shelters. As you know homelessness is impacting seniors at a higher rate than ever. We have more the fastest growing population of homeless adults are seniors and wanting to know how you can help provide services to those seniors. Not just once they have entered our shelter system to get them out of the shelters and back into whether it is transitional housing or supportive housing.
+
+[**(01:51:18)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6678s)
+
+
+
+Absolutely. And as noted previously, affordable housing and having a safe place to lay your head at night, that is one of our goals, our true that speaks to our true mission at DFTA. So it is an area that is on our radar, of course, and of course with my background, I am very well aware of how difficult it is to get older adults into an appropriate setting. And it does take a while. Well, it does take some complex solutions for these problems because not everybody fits into a particular bucket. You know, many of our older adults have different comorbidities that have to be managed while they are there as well as other issues, behavioral mental health. So we want to be sure that as we are strengthening these areas or these settings where we can send older adults to that they are really appropriate to the individual that we are sending there. So again, this is an area that I would like to spend a lot more time advocate strongly to ensure that again our seniors and our older adults that have earned the right to age gracefully in place have a place to call home and someplace to really serve as a stable environment for them. We know that when older adults are unhoused it really impacts every area of their life. Very difficult for you to maintain your health, very difficult for you to maintain relationships when you are constantly moving around and may not have that stability. So it is a major area of focus for us.
+
+[**(01:52:54)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6774s)
+
+
+
+And I just want to follow up on the question about funding. You know, your cuts in federal funding. The City is making that up, but at the same time, the City is looking for savings in all of the agencies. Your fiscal 2027 budget is less it is about $32 million less than the fiscal 2026 budget at adoption. So and then you know add to that you know you mentioned inflation, rising fuel costs you know food costs of food just about rising cost and everything. So how are you going to be able to balance that and still be able to provide the appropriate services to our senior communities?
+
+[**(01:53:52)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6832s)
+
+
+
+So question the $32 million difference is that that does not include the discretionary money. So the reductions you see from point A to point B does not include discretionary. And so as we mentioned earlier we tend to look at the budgets every month to see for example where specific issues or concerns from providers are coming to those are under spending. We move those to basic overspending and covering costs. So we have been doing that delicate balance on a regular monthly basis. And I have to say we are not alone in
+
+[**(01:54:19)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6859s)
+
+
+
+this effort. We are in constant discussions with OMB just to be sure that we have the appropriate funding to be able to continue the services that we need to offer for our older adults and
+
+[**(01:54:32)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6872s)
+
+
+
+And we have older adults who do not want to receive prepared meals but need help buying healthy produce, healthy food that they can cook themselves. And we have in many places, like I mentioned, we have food deserts and lack of adequate green markets and supermarkets. How can DFTA help kind of close that gap? Well, DFTA has done a great job in sponsoring farmers market nutrition programs and making, giving older adults access to coupon booklets. And when you look at some of the numbers over the last year or so, we do notice that we have been able to distribute 70,000 coupons. And these booklets have been used through the end of last October. This represents 1.75 million given directly to older adults. And we will continue to sponsor these programs because we know there are food deserts in some places where folks cannot get these fresh produce items that are so central to their budget, central to their life, central to their health. We talk about food being medicine. You want to make sure that folks have access to these healthy vegetables and fruits and things that they need for healthy living. So that is one way that we are addressing the issue.
+
+[**(01:56:10)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=6970s)
+
+
+
+Thank you. That is a lot of questions. With the recent start of new administration, the time required to appoint new commissioners and the budgetary concerns regarding the City's overall fiscal outlook, the preliminary plan did not include many new needs and program expansion. Can DFTA provide the committee with new needs requests that are proposed not in this fiscal year?
+
+[**(01:56:52)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7012s)
+
+
+
+Well, I will say our needs always outpace our resources. Unfortunately, my nine days in, I have not had an adequate chance yet to really assess where the new need capacity would be, where it is that we actually need to focus more of our new needs on. So we will ask that we are able to come back and present some of these new needs.
+
+[**(01:57:16)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7036s)
+
+
+
+Thank you. And the OAC updates, the preliminary capital plan includes 6.0 million in fiscal 2026 funded by Brooklyn Borough President for innovation at 15 OAC sites. Can DFTA confirm the sites are being
+
+[**(01:57:40)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7060s)
+
+
+
+funded and provide detail on the scope of each project? Yeah, we will share that with you. Yes. It is done. There are basically new allocation of funding to different sites. They are in the process of basically the funding being used. Okay. And we will share the list with you guys.
+
+[**(01:58:04)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7084s)
+
+
+
+And also there are a lot of capital requests also. Do you guys have an idea how many capital requests has NYC Aging received from providers so far in fiscal 2026? Yeah, we have not received the final number yet, but when we do have that information, we will be happy to share it with you. Okay. For the Leonard Cavella Older Adult Center upgrade, the preliminary plan includes 7.7 million across five years funded by the Council and additional 11.3 million across a 10-year capital commitment funded by administration for this OAC. What kind of repair and innovation will this project address at this site? What is the timeline of this repair? So, it is actually, it is a huge... this roof, it is boilers, this kitchen. It is a City-owned site. So, it is a lot of renovation that is occurring. We can give you back
+
+[**(01:59:35)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7175s)
+
+
+
+again. We do not manage the project. It is being managed by DDC. We will give you, we can give you exact information you want in terms of timeline. So, who is overseeing? DDC? It is a DDC project. It is a City-owned site. So again, a lot of repairs to the roofs, the boilers, the elevators. So it is a very extensive repair job. So all the repairs is DDC, not you guys, right? We do not, like I said, as the commissioner mentioned earlier, we have a capital budget, but a lot of it is managed by other city agencies. A chunk of it is actually managed by DDC. Some of the projects are managed by HPD, some of them managed by EDC, and some of them are actually managed by NYCHA. So we are just kind of... that is why you see a lot of money, a lot of it, we work with different agencies to kind of get a lot of these repairs done.
+
+[**(02:00:20)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7220s)
+
+
+
+The PMMR indicates that there was a decrease in number of caregiver persons served in the first four months of fiscal 2026. In the past four months of fiscal 2026, a total of 1,971 caregivers were served, a decrease of 20.5% from previous year. Why are fewer caregivers... much like, I suppose in my mind with the data, the number of people growing, the caregivers should increase. Why is there a decrease? Thank you. And I understand that it is
+
+[**(02:01:25)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7285s)
+
+
+
+an issue that has to do with our data collection methods. So you may not have all of the accurate information there. So I would ask that we are allowed to come back and share the information once we have kind of re-evaluated and made sure that it is accurate.
+
+[**(02:01:43)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7303s)
+
+
+
+Got it. Thank you. So the preliminary plan includes 19.7 million in city funding which is baseline beginning in fiscal 2027 for the indirect cost of human service contracts. Why was additional funding
+
+[**(02:02:20)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7340s)
+
+
+
+required? How does NYC Aging anticipate additional funding to be added in the out years? So the 19 million is for the indirect cost rate. So that is actually cost for overhead for the providers. So that was actually not baseline in the current... when OMB funded all the federal funding, that piece was actually missing. So now that is being baseline going forward. Same thing with the COLA like you mentioned, the 6.9 million. That is also the COLA for providers is also being baseline. So as providers basically every three years, providers have an opportunity to submit for their indirect cost rate. Those indirect cost rates are captured in that and that is part of the increase over time. Does the cost of living adjustment apply to all contract providers in
+
+[**(02:03:13)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7393s)
+
+
+
+NYC Aging's network? Yes. As all contracts effective of 2024. Okay.
+
+[**(02:03:34)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7414s)
+
+
+
+That is it.
+
+[**(02:03:41)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7421s)
+
+
+
+Yes. CM Mealy, just in between. I know we gave the 5 million. How is that going?
+
+[**(02:03:52)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7432s)
+
+
+
+It is going very, very well. We have a lot of, like I said, some of them are less than 100,000. So you have a lot of repairs and we have purchases as well. So things are going very well. We have two major projects, two major big projects that we are keeping a close eye on. These are huge. Two major big projects. Yeah, there are two of them. One is 650,000. Another one is... not off the top of my head but they are... we are keeping eye on them because those are very big extensive renovations. But overall, we are basically... I mean, we are actually meeting with City Council finance hopefully by April to give them a status report on exactly all the spending and what is going to be met by June 30th. But yeah, again, we really appreciate the 5 million. Hint hint, we would like to have another one for 27. Hint hint. So I think that is going
+
+[**(02:04:34)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7474s)
+
+
+
+very well. Like I said, it was a very good partnership with us. I think that would be really helpful. Again, as I mentioned earlier, this money goes directly to the
+
+[**(02:04:40)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7480s)
+
+
+
+providers to basically do a lot of major renovations. So that is what I wanted to know, just how it was going and if we do it again will it benefit you? So I will actually also put another pitch in there. I know the commissioner is going to kill me when I get back to the office. So we would love to get some vans for transportation, right guys. So transportation point A to point B because again seniors, again even though we want our seniors to walk more, but sometimes the length to get to point A to point B is a little bit more than we expect. But again, sorry commissioner. No, I absolutely agree. You live... That is perfect. And here, could we put something in there? Because right now to transport my seniors, I got to pay out of my pocket sometime just to get the vans. They need to travel. So, please let us work on that. And then we need an outlook of how many of the vans for DFTA are in action and out of action. And what would it take to get the maintenance up and running to make sure that every senior center has a van to take their seniors places? So I just want to give you a little information so you know that there are about 300 plus vans at all our older adult centers. So 300 vans. So again it is a very big ask. So replacing all of them. Some of them more than 10 years old. But how much would that cost you think? We will get back to you on that. I can give you numbers.
+
+[**(02:06:04)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7564s)
+
+
+
+Thank you. Because I just noticed New York City... I do not know what department but they got brand new Mustangs. So I am starting to ask if they could get Mustangs we could get some new vans so I am ready. You got a partner right here.
+
+[**(02:06:22)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7582s)
+
+
+
+Thank you chair. Thank you. I actually went to one of the senior centers. They got a new van through our Borough President for the capital program. I see some nonprofits from my neighborhood also come here. They probably ask me where is our van. And then we also have CM
+
+[**(02:06:45)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7605s)
+
+
+
+Aldebol has more questions. True. So one more question. I promise this will be, I think this will be my last one. The state budget this year, you mentioned somebody mentioned people stealing SNAP benefits. The state budget this year proposes money to transition to chip card technology to help stop SNAP skimming which is affecting thousands of older adults. The legislature is also proposing a victim's compensation fund for those who have had their benefits stolen through skimming because now there is no recourse when people have their benefits stolen. Would DFTA support a state compensation fund or any other solutions to address SNAP skimming? Well, we always support equity and
+
+[**(02:07:38)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7658s)
+
+
+
+justice. So definitely we would like to see the same information you have, but we would like to support any initiative that is going to be sure to protect our older adults from this type of activity. Thank you. I think I get a new chip for the card is easier to make for seniors. Thank you. Thank you everyone. And now we move to public testimony. Chair, could I ask one question about that? Okay.
+
+[**(02:07:58)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7678s)
+
+
+
+Is there anything going into to help the seniors because once their SNAP benefits have been taken for the whole month, they have no food now. Do we have anything in place going forward? Because they cannot get reimbursed... that is legislation to get the reimbursement... but some seniors go without food for that whole month. So I introduced a bill here. I want to answer your question. I introduced a bill so seniors if they get their food
+
+[**(02:08:12)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7692s)
+
+
+
+stamp scammed, they can call 311 and the DFTA and the HRA require HRA to send
+
+[**(02:08:48)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=7728s)
+
+
+
+them information where the nearby food pantry... or... but they will not get their money back at all. Yeah. Well, I cannot say that. I know the money they do not get back. That is federal though. I am going to talk to the congress person. Thank you.
