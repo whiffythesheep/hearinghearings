@@ -423,8 +423,8 @@
                         </form>
                     </div>
                     <div class="subscribe-inner row-success" style="display: none">
-                        <h2 class="subscribe-title">Thank you!</h2>
-                        <p class="subscribe-copy">You have successfully joined the subscriber list.</p>
+                        <h2 class="subscribe-title">Thank you.</h2>
+                        <p class="subscribe-copy">You have joined the subscriber list.</p>
                     </div>
                 </div>
             </aside>
@@ -446,9 +446,10 @@
             var timer;
             document.querySelectorAll('[data-aesthetic-only]').forEach(function (btn) {
                 btn.addEventListener('click', function (ev) {
-                    tip.style.left = (ev.clientX + 12) + 'px';
-                    tip.style.top = (ev.clientY + 12) + 'px';
                     tip.hidden = false;
+                    var tipW = tip.offsetWidth;
+                    tip.style.left = (ev.clientX - tipW - 12) + 'px';
+                    tip.style.top = (ev.clientY + 12) + 'px';
                     clearTimeout(timer);
                     timer = setTimeout(function () { tip.hidden = true; }, 1800);
                 });

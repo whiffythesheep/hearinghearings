@@ -481,6 +481,26 @@ body.desktop {
     max-width: 58ch;
 }
 
+.intro-block {
+    position: relative;
+    overflow: hidden;
+}
+
+.intro-skyline {
+    position: absolute;
+    right: 0;
+    bottom: 1.5rem;
+    width: 210px;
+    opacity: 0.32;
+    pointer-events: none;
+}
+
+.intro-skyline svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .index-section {
     margin-bottom: 2.5rem;
 }
@@ -571,6 +591,10 @@ body.desktop {
         grid-template-columns: 1fr;
         gap: 0.25rem;
         padding: 0.75rem 1rem;
+    }
+
+    .intro-skyline {
+        display: none;
     }
 }
 
