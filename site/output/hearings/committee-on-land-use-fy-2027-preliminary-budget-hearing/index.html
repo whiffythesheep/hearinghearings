@@ -16,10 +16,10 @@
                 <span class="window-title-icon" aria-hidden="true">▓</span>
                 Hearing Hearings — Hearing Record
             </span>
-            <span class="window-controls" aria-hidden="true">
-                <span class="window-control bevel-out">_</span>
-                <span class="window-control bevel-out">□</span>
-                <span class="window-control bevel-out">×</span>
+            <span class="window-controls">
+                <button type="button" class="window-control bevel-out" data-aesthetic-only aria-label="Minimize (decorative)">_</button>
+                <button type="button" class="window-control bevel-out" data-aesthetic-only aria-label="Maximize (decorative)">□</button>
+                <button type="button" class="window-control bevel-out" data-aesthetic-only aria-label="Close (decorative)">×</button>
             </span>
         </div>
 
@@ -574,8 +574,7 @@
             <aside class="subscribe bevel-in">
                 <div id="mlb2-39982439" class="ml-subscribe-form ml-subscribe-form-39982439">
                     <div class="subscribe-inner row-form">
-                        <h2 class="subscribe-title">Hearing Hearings via Email</h2>
-                        <p class="subscribe-copy">Get each new hearing summary in your inbox.</p>
+                        <h2 class="subscribe-title">Hearing Hearings via Email.</h2>
                         <form class="ml-block-form subscribe-form"
                               action="https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/subscribe"
                               method="post" target="_blank">
@@ -605,6 +604,27 @@
             
         </div>
     </div>
+    <div id="aesthetic-tooltip" class="aesthetic-tooltip" role="status" aria-live="polite" hidden>For Aesthetic Purposes Only.</div>
+    <script>
+        (function () {
+            var tip = document.getElementById('aesthetic-tooltip');
+            var timer;
+            document.querySelectorAll('[data-aesthetic-only]').forEach(function (btn) {
+                btn.addEventListener('click', function (ev) {
+                    tip.style.left = (ev.clientX + 12) + 'px';
+                    tip.style.top = (ev.clientY + 12) + 'px';
+                    tip.hidden = false;
+                    clearTimeout(timer);
+                    timer = setTimeout(function () { tip.hidden = true; }, 1800);
+                });
+            });
+            document.addEventListener('click', function (ev) {
+                if (!ev.target.closest('[data-aesthetic-only]') && !tip.hidden) {
+                    tip.hidden = true;
+                }
+            });
+        })();
+    </script>
     <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
