@@ -591,7 +591,10 @@ body.desktop {
     }
 
     .intro-skyline {
-        display: none;
+        position: static;
+        width: 80%;
+        max-width: 320px;
+        margin-top: 1rem;
     }
 }
 
