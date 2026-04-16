@@ -1,0 +1,2907 @@
+---
+title: "Committee on Finance, FY 2027 Preliminary Budget Hearing"
+date: 2026-03-25
+slug: committee-on-finance-fy-2027-preliminary-budget-hearing
+duration: "5hrs 17m"
+youtube_url: "https://www.youtube.com/watch?v=2soPrZWS754"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399772&GUID=9F4A2B53-4327-4F93-AE73-5D27A341A590&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Finance Committee held its preliminary budget hearing for fiscal year 2027, with OMB Director Solomon defending a $127 billion budget that includes a controversial 9.5% property tax increase and draws down half the city's rainy day fund. The administration argued these measures were necessary after inheriting $14 billion in chronic underbudgeting across six major areas including shelter costs, rental assistance, and MTA subsidies. The Council pushed back hard on both the tax hike and reserve drawdown, arguing they would harm affordability and the city's credit rating while insisting additional savings could be found through efficiency improvements and better revenue collection.
+
+Much of the hearing focused on the administration's claims of identifying $1.7 billion in savings through chief savings officers, though only $200 million has been validated so far. Council members expressed skepticism about these projections while criticizing continued hiring restrictions despite promises to lift the "two-for-one" hiring limit. Lengthy discussions covered funding cuts to libraries, parks, and consumer protection agencies, with members arguing these reductions would hurt essential services. The administration maintained that agencies were previously underfunded rather than being cut, creating confusion about baseline funding levels.
+
+Revenue generation dominated much of the debate, with Council members warning that property and income tax increases would drive wealthy residents away - citing a 31% decline in NYC's millionaire population since 2010. The administration acknowledged the mobility of high earners but defended revenue proposals as necessary for affordability programs. Extensive time was spent on the city's poor collection of outstanding fines and fees totaling $2 billion, with OMB proposing an ECB amnesty program and AI-enhanced collection efforts.
+
+The hearing revealed ongoing structural problems across multiple agencies, from 600-day wait times at the Commission on Human Rights to 23% vacancy rates at Small Business Services. Council members pressed on pay equity issues for EMTs earning $18 per hour and paraprofessionals making $30,000 annually, while the administration deferred to collective bargaining processes. CUNY's capital needs, youth program funding, and technology modernization were also discussed, with the administration citing debt capacity limits and competing priorities. The session ended with unresolved questions about federal funding impacts, property tax reform timeline, and whether promised state assistance would actually materialize.
+
+Numbers
+
+- $127 billion preliminary budget for fiscal year 2027.
+- $14 billion in agency expense changes over two fiscal years due to underbudgeting.
+- $7.5 billion amount six areas were chronically underfunded over fiscal years 2026-2027.
+- $5.4 billion final budget gap after state assistance.
+- $1.7 billion in savings identified by agency chief savings officers over fiscal years 2026-2027.
+- $200 million in concrete savings validated so far from the $1.7 billion target.
+- 9.5% proposed property tax rate increase.
+- $3.7 billion revenue from proposed property tax increase.
+- 2% proposed city personal income tax increase for those earning over $1 million.
+- 12,000 existing vacancies unfilled from fiscal year 2026.
+- 1,900 new positions being added.
+- $113 billion five-year capital budget total.
+- $42.8 billion city budget growth over the last decade.
+- $16 billion amount current budget exceeds inflation-adjusted growth.
+- $12 billion DOE spending on consulting contracts.
+- 3,000 number of DOE consulting contracts.
+- $980 million drawn from rainy day fund representing 50% of total.
+- 31% decline in NYC's share of millionaires from 2010 to 2022.
+- $13 billion in potential lost personal income tax revenue from millionaire outflow.
+- 42,000 millionaires filed in NYC in 2024.
+- $33.6 million funding stripped from libraries.
+- 12.6% DCWP budget reduction from $85 million to $74.7 million.
+- 321 additional headcount DCWP would need for recent legislative mandates.
+- $81,000 current spending per street homeless person.
+- $97,000 projected spending per street homeless person.
+- 10,000 vacant NYCHA units citywide.
+- 12% increase in vacant NYCHA units under Adams administration.
+- $80 billion NYCHA capital needs.
+- $106 million for Summer Rising program in fiscal 2027.
+- $135.6 million for B-HEARD in fiscal 2027 representing 150% funding increase.
+- $30,000 annual salary for DOE paraprofessionals.
+- $18 per hour for EMTs.
+- 23% vacancy rate at Small Business Services.
+- $2 billion in uncollected fines and fees citywide.
+- 45% ECB collection rate.
+- 600 days average wait time for CCHR case closure.
+- $200 million CUNY's annual request for community college state of good repair.
+- $400 million CUNY's request from state for senior colleges.
+- 21% unemployment rate for young people representing all-time high.
+- 24% unemployment rate for black youth New Yorkers ages 16-21.
+- 300 number of young people in secure detention every night.
+- $60 million estimated revenue from licensing street vendors.
+- $5 billion state funding commitment being discussed.
+- $475 million committed for childcare vouchers from state deal.
+- $2.5 billion early childhood education actual spending in prior year.
+- $2.9 billion budgeted for payroll taxes in fiscal year 2026 representing 16% higher than fiscal year 2025.
+- $200 million estimated fiscal year 2026 payroll tax overbudget amount.
+- $250 million estimated fiscal year 2027 payroll tax overbudget amount.
+
+Action Points
+
+- OMB will share the full list of $1.7 billion in savings in the executive budget and provide updates as more savings are identified.
+- OMB will work with Council on providing a report of DOE's 3,000 outside contracts and analysis of duplicative services.
+- OMB will provide actual federal funding amounts received for fiscal years 2024 and 2025.
+- OMB will provide an agency-by-agency federal funding schedule showing expected amounts per year.
+- OMB will provide monthly payroll amount and burn rate information.
+- OMB will provide breakdown of the 1,900 new positions being added.
+- OMB will work with agencies to establish correct personal services budgets to allow hiring up to budget without constraints.
+- OMB will provide breakdown of vacant positions across agencies.
+- OMB will follow up on exact amounts for ACT and IMT funding under Department of Community Safety.
+- OMB will provide details on CCHR, HPD, and other agency City of Yes spending breakdown.
+- OMB will follow up on actual versus budgeted B-HEARD staffing challenges.
+- OMB will clarify HPD HERRC funding reduction and where it appears in budget.
+- OMB will provide information on SRG settlement payment costs since 2015.
+- OMB committed to meeting with Council Member Maloney on technology modernization opportunities.
+- OMB committed to working with Chair Lee on procurement law reforms.
+- OMB will follow up with Council Member Banks on NYCHA revenue generation and capital needs questions.
+- OMB will evaluate CORE funding needs for executive budget.
+- OMB will send Deputy Speaker Williams specific criteria used to evaluate agency cost savings proposals.
+- OMB will follow up with Council Member Lewis on the specific Trauma Recovery Center location for East Flatbush.
+- OMB will evaluate street vending implementation needs for the executive budget.
+- OMB will follow up with Council Member Sanchez on Kingsbridge Armory commitments, Jerome rezoning commitments, and DCP staff lines.
+- OMB will look into sanitation budget allocation by garage as requested by Council Member Brewer and Deputy Speaker.
+- OMB will follow up on specific CUNY funding numbers requested by Chair Lee.
+- OMB will provide data on pension system enrollment timelines by title type.
+- OMB will release property tax reform proposal soon.
+- OMB will provide a list of recently enacted laws that were not fully funded.
+- OMB will provide methodology and assumption tables for revenue forecasting.
+- Council will provide OMB with specific instances of salary cap issues when employees move agencies.
+- Council Member Stevens to follow up in one week on Raise the Age waiver decision timeline.
+
+## Full Transcript
+
+[**(00:00:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=0s)
+
+
+
+CM Linda Lee, chair of finance. Today we have from Mayor's Office of Management and Budget OMB. At this time I would like to introduce my colleagues who are present this morning. We have CM Aldebol, CM Marte, CM Avilés, CM Hankerson, and CM Wong. I know more are coming. So thank you for being here.
+
+As we conclude this preliminary budget season, I would also like to extend my sincere gratitude to the dedicated staff of the City Council finance division for their tireless and I will emphasize tireless efforts in preparing for today's hearing. This work does not happen on its own and I want to acknowledge the amazing team of dedicated professionals who make it all possible. Our new finance director Nathan Toth who is over there busy. Managing director Jonathan Rosenberg. Deputy directors Amra Endev, Chima Obisher, Paul Simone, and Isa Wright. Chief Economists Delar Dimniku. Assistant directors Aliyia Ali, Julia Haramus, Florentine Kabor, Daniel Kroo, James Reyes, Jack Story, Paul Sturm, and Andrew Wilbur. Finance Council Nicholas Connell, my committee council Brian Saro, senior adviser Athena Se, and many many of the finance analysts, economists, and support staff who have worked behind the scenes to bring everything together.
+
+Before I go any further, I would like to invite our leader, speaker Julie Menon, to share her opening remarks.
+
+[**(00:01:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=90s)
+
+
+
+Thank you so much, Chair Lee. I want to really echo your thanks to our incredible finance team and all of the hard work that they put into our budget hearings and the work ahead. So good morning everyone. Good morning, Director Solomon. We are excited to see you and your team, and we look forward to a productive hearing.
+
+This is obviously our 11th and final day of hearings on the administration's proposed $127 billion preliminary budget for fiscal year 2027. When this budget process started, we were initially told that we had inherited a crisis, a staggering $12 billion budget gap over two fiscal years. However, by early February, that number began to shift with the administration shrinking the gap by roughly $5 billion to about $7 billion. Then within days of releasing the preliminary budget and thanks to the support of Governor Hochul, the number changed once again, lowering the gap to $5.4 billion over two years.
+
+So the story of this budget leaves us with some fundamental questions that must be answered. First of all, what is the real size of the budget gap? And how do we achieve a fiscally responsible budget that of course upholds our City's obligation to all New Yorkers? These are the questions we intend to investigate today so that New Yorkers can get a more transparent picture of the fiscal challenges that are facing our City.
+
+While the preliminary budget is technically balanced, that is only because of a proposed 9.5% increase in the overall property tax rate that would raise roughly $3.7 billion in new revenue. But the Council has been clear on this issue from the very beginning. Raising property taxes is not on the table as to do so in our opinion would only worsen the affordability crisis.
+
+Instead, the Council and its finance team have been intently focused on identifying areas of additional revenue and savings to fill in the remaining budget gaps. To that end, at the beginning of March, the Council identified nearly $1.7 billion in potential revenue and savings, including through 12,000 vacancy accruals for positions that the administration had budgeted for previously, but were left unfilled at the end of February. Yesterday, we were very pleased to see that the independent budget office issued a report that confirmed the Council savings around those unfilled vacancies. We believe then, as we do now, that those additional resources meant that the administration's proposal to pull money from the rainy day fund in fiscal 2026 could be avoided.
+
+Also, in early March, the Council's economic forecast estimated $386 million more in tax revenue than projected by the Mayor's OMB for fiscal year 2026 and 2027, reflecting a stronger long-term outlook for the City's finances. Since then, throughout dozens of hearings to review city agency budgets, the Council and its finance team have continued to dig under the surface of agency budgets to identify other potential savings that, and let me be clear, without in any way cutting critical services. The Council will continue to pursue its mission until we reach an agreement with the administration in June on a fiscally responsible balanced budget that helps make our City more affordable without in any way cutting services.
+
+So Director Solomon, we very much look forward to hearing from you and your colleagues on the administration's fiscal year 2027 preliminary budget and how your team intends to address the budget gap. Thank you so much and I now want to turn it back over to Chair Lee.
+
+[**(00:05:16)**](https://www.youtube.com/watch?v=2soPrZWS754&t=316s)
+
+
+
+Thank you so much, Speaker. So two weeks ago, we kicked off our preliminary budget hearings with the IBO independent budget office, controller's office, and department of finance. Both IBO and the controller expressed concerns with the City's economic outlook and shared their perspective on how the City should make changes to ensure the budget secures New York City's future.
+
+A key focal point in the Mayor's budget proposal was that the administration inherited an under reported budget deficit from his predecessor. The speaker, my colleagues, and I have acknowledged that the administration's efforts to address chronic underbudgeting and take positive first steps towards a more transparent budget that accurately and honestly reflects the City's full scale situation. That is something to be applauded and should not go unrecognized. But we think there is still more work to be done to other parts of the budget to fully meet this challenge.
+
+To be short, we think there are still several areas that are overbudgeted and revenues that are underestimated that could provide much needed resources. These savings would allow us to avoid drawing down on the critical budgetary reserves and avoid a crushing property tax increase. Objectives that I know both the Council and the administration share.
+
+8.5 million New Yorkers are currently feeling the strain of rising costs with little relief in sight. To meet our responsibility as public officials, we must avoid making conditions worse before we can make them better. We must continue the work of rightsizing the budget to reflect actual costs and finding efficiencies in how the City delivers these critical services.
+
+The Council is confident that there are unaccounted for revenues in the preliminary plan and out years as well as additional opportunities through improved collections and intentional grants and funds reimbursements to make the City whole. The Mayor's directive toward agencies to identify savings is a good step forward, though we think the administration can and should go further in ensuring the City's operations are as efficient as possible. During our agency hearings this past month, officials highlighted efforts to identify savings. While the full scope of these savings has not been disclosed, it is encouraging to see agencies actively working toward this goal, and I know some of those savings have been approved, so we look forward to hearing more about that.
+
+The Council still believes there are more accruals and efficiencies available to balance the budget before resorting to draining the rainy day and savings funds and raising property taxes. While looking to Albany for help is worthwhile, we must continue to do more to find immediate solutions within our control to address these shortfalls as underbudgeting is not a new phenomenon. We have found solutions every time.
+
+The preliminary budget makes an effort to address some of the many needs that New Yorkers continue to face amid the rising costs of living in our City, such as expanding child care and early childhood programs, and advancing the universal child care agenda championed by the Council to help our families, safeguarding and strengthening the City's social safety net programs, and exploring avenues for implementing a more progressive revenue structure and savings.
+
+Despite these proposals, the budget still falls short in how the City will build reserves in the event of further federal funding cuts or potential revenue declines. It does not clearly present any efforts to generate additional revenue and it does not provide transparency in the tracking and securing reimbursements from state and federal sources.
+
+Our responsibility is to deliver a budget that protects the economic safety of our City and meets the needs of all New Yorkers. We remain committed to funding early childhood education, public safety, and investments that make life more affordable while ensuring transparency in management. Balancing the budget cannot come at the expense of our children, seniors, working families, or essential workers. An honest, transparent budget will help us protect those services, address affordability, and uphold our responsibility as fiscal stewards.
+
+Also I just wanted to recognize a few more of my colleagues that have joined us. CM Virginia Maloney, CM Brewer, CM Felder, Deputy Speaker Williams, CM Lewis, CM Epstein, and CM Hudson.
+
+At this time I will turn it over to committee council to swear in our witnesses.
+
+[**(00:09:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=576s)
+
+
+
+Good morning. Do you all affirm to tell the truth, the whole truth, and nothing but the truth before this committee and to respond honestly to Council member questions? Right hand. Yes, I do.
+
+[**(00:09:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=594s)
+
+
+
+You may begin.
+
+[**(00:09:56)**](https://www.youtube.com/watch?v=2soPrZWS754&t=596s)
+
+
+
+Sorry. Oh, okay. Oh, sorry. Go ahead. Yeah. Good. Sorry.
+
+[**(00:10:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=609s)
+
+
+
+>> Good morning, Speaker Menin, Chair Lee, Leader Carr, members of the Finance Committee, and all members here with us here today. My name is Sharif Sulleman, and I am the director of the Mayor's Office of Management and Budget. Thank you for the opportunity to testify today about the preliminary budget for fiscal year 2027. I am joined today by first deputy director Tara Bard, senior deputy director Latana McKini, deputy director Joshua Goldstein, deputy director Nathan Gustoforf, and deputy director Patrick Dphano. And I am also joined by this wonderful team of OMB professionals behind me who I have the privilege to work alongside each and every day. 
+
+Let me begin by expressing my appreciation for the partnership between this institution and the administration and ensuring government works on behalf of New Yorkers. My career in public service has always been guided by collaboration, consensus building, and mutual respect. And I look forward to working with the City Council in the coming months to achieve a fiscally sound budget. 
+
+When Mayor Mamani took office, he asked me to assess the City's finances amidst repeated claims by fiscal monitors that known expenses were not adequately budgeted. After reviewing monitor reports, analyzing major cost centers, and pressure testing fiscal cliffs with subject matter experts, it was evident that significant underbudgeting had in fact occurred, and it was prevalent across many areas: social services, education, core operations, and more. The chronic underbudgeting meant a gap that existed in the current fiscal year, which was reportedly balanced, and that the fiscal year 2027 gap was far higher than the $4.7 billion stated in the November 2025 financial plan update. Our initial assessment was that the actual budget gaps were in line with what the City and state controllers had estimated. 
+
+To illustrate the extent of the underbudgeting, consider six areas that had been chronically underfunded by roughly seven and a half billion dollars over fiscal years 2026 and 2027. Those six areas are cash assistance, rental assistance, shelter costs, due process cases, judgments and claims, and the City subsidy to the MTA. Specifically over the two fiscal years, cash assistance was budgeted at $2.1 billion when known expenses are $3.1 billion. Rental assistance was budgeted at $1.8 billion when known expenses are $4.1 billion. Shelter costs were budgeted at $2.6 billion when known expenses are $4 billion. Due process cases were budgeted at $1.1 billion when known expenses are $2.2 billion. Judgments and claims were budgeted at $1.4 billion when known expenses are $2.1 billion. And MTA subsidies were budgeted at $2.2 billion when known expenses are $3 billion. 
+
+While confronting underbudgeting in these six areas alone would be a significant challenge, we subsequently identified an additional $6.7 billion in unfunded cliffs and mandated spending over the same two fiscal years, including health insurance costs, the class size mandate, and Medicaid funding. In the interest of introducing transparency, certainty, and less risk in the budget process, we took the issue of underbudgeting head-on, which meant that we needed to solve for unprecedented levels of expense. In total, the preliminary budget includes roughly $14 billion in agency expense changes over two fiscal years, a staggering amount for the opening salvo in any given budget cycle. 
+
+Inclusion of this level of necessary funding left very little room for programmatic needs. In fact, just 4% or $576 million was invested in core agency operational needs, including, for example, an additional 100 million for the snow budget, $5 million for warming centers and shelter outreach, and almost $24 million for mobile outreach units to help New Yorkers suffering from mental illness, and $54 million to triple baseline funding for HAS's community food connection program. 
+
+Expense additions of this magnitude required a multifaceted approach to fulfill our charter-mandated responsibility to balance fiscal years 2026 and 2027. In addition to recognizing additional tax revenue supported by record-high Wall Street profits and in line with the state's revenue projections, the mayor initiated an aggressive savings plan that will generate 1.7 billion in savings over fiscal years 2026 and 2027 without risking cuts to services that New Yorkers need and expect. 
+
+The savings effort is driven by executive order 12, which Mayor Mamani signed on January 29th. Under the order, every City agency was required to designate a current employee as its chief savings officer who would submit a savings plan to my office and to the first deputy mayor by March 20th. As the mayor announced this morning, agencies submitted their proposals last Friday, identifying more than $1.7 billion in savings, and the City Hall and OMB teams have begun a comprehensive review of these proposals to validate the savings they will produce. 
+
+The review underway groups savings into five categories: efficiencies and public services, contracting efficiencies, technology modernization, space consolidation and lease management, and financial adjustments and new revenue. The work of the chief savings officers will not end with this initial submission. This will be an ongoing initiative with savings officers reporting on updates and new proposals every six months. 
+
+Also included in the $1.7 billion savings initiative is a vacancy alignment exercise which will balance the need for savings with the removal of hiring constraints that had largely been in place since COVID and hampered agency hiring efforts. Many agencies have indicated that they prefer this approach which supports effective agency operations over the slow and cumbersome process that had governed hiring procedures for years. 
+
+We have also taken several other standard budget actions such as drawing down current fiscal year general and capital stabilization reserves, reestimating prior year payables, and recognizing small savings in certain areas such as pension administration costs. State actions have also helped reduce the gap. Governor Hochul's executive budget included additional child care voucher funding, foundation aid, and decoupling of certain corporate tax provisions from HR1. As announced the day before we released the preliminary budget, the governor's 30-day amendments also included an additional $1.5 billion in additional assistance, including $500 million in one-time unrestricted aid, a restoration of higher reimbursement rates for public health costs, and a reversal of the sales tax intercept for distressed hospitals. We thank the governor for this timely assistance and look forward to the inclusion of this much-needed assistance in the enacted state budget. 
+
+Yet, despite the higher revenue forecast, savings, and standard budget actions and state assistance committed so far, we still faced a $5.4 billion shortfall to balance the preliminary budget as required by law. To address that significant shortfall, we proposed a suite of options for consideration by our state partners, including increased taxes on the most profitable corporations, higher transaction taxes on high value properties, and the reversal of various cuts and cost shifts that have reduced state funding over the years. The options we advance seek to reconcile the imbalance of payments between New York City and New York State. The mayor has made the case for recalibrating the City-state fiscal relationship, citing that New Yorkers contribute 54.5% of state revenue but only receive 40.5% back. By ending the drain, some of the resources we send to the state would be returned to New York City and used to support critical cash strapped programs and services. 
+
+Conversations with our state partners are ongoing and we are encouraged by the Senate and Assembly One House budgets, each of which includes a suite of options that equal approximately $5 billion in additional assistance for the City. We thank both houses for advancing these proposals and look forward to working with them as well as the governor and her team on an enacted state budget that addresses the City's fiscal challenges. 
+
+Now, I would like to share details about the fiscal year 2027 preliminary budget. The preliminary budget presented on February 17th balances fiscal year 2026 at $122 billion and fiscal year 27 at 127 billion. Outyear gaps are projected to be $6.7 billion, $6.8 billion and $7.1 billion in fiscal years 2028 through 2030 respectively. To fulfill our charter-mandated obligation to balance fiscal years 2026 and 2027 with concrete actions, we were constrained to close the remaining 5.4 billion gap through an additional reserve draw down and an increase to the average property tax rate from 12.283% to 13.450%. 
+
+To be clear, these gap closing measures are last resort proposals born out of necessity and the type of responsible fiscal stewardship this inherited budgetary challenge requires. Our administration is committed to rebuilding and maintaining high levels of reserves to ensure that we can weather an economic downturn. Accordingly, the financial plan replenishes the rainy day fund and retiree health benefits trust fund in fiscal year 2028. Moreover, rather than increase property taxes, our administration wants to finally reform the broken property tax system to make it more equitable, transparent, and rational. 
+
+To emerge from these significant fiscal challenges on a more stable financial footing will require the administration and the Council to continue to closely engage our state partners and I appreciate the efforts undertaken thus far. It will also require continued collaboration to achieve savings and we are committed to partnering with you on workable solutions that meaningfully address the budget gaps without reducing service levels New Yorkers depend on. 
+
+Turning now to the capital budget. The five-year capital budget totals $113 billion. The preliminary budget makes important capital investments, including increasing livable housing for NYC residents and fully funding the renovation and expansion of Bellevue Hospital's adult comprehensive psychiatric emergency program. The capital budget also accelerates the Kensico East View Connection tunnel construction to improve redundancy in our water supply system. 
+
+In conclusion, I look forward to working as partners over the coming months to both address our very real fiscal challenges and take steps to implement an affordability agenda that transforms the way government serves working families. Thank you again for the opportunity to testify today. And I am happy to answer any questions you may have. Thank you.
+
+[**(00:22:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1378s)
+
+
+
+>> Thank you so much, Director Sulleman. And just want to also recognize my colleagues CM Carr, CM Dinowitz, CM Ung, CM De La Rosa, CM Morano, and CM Restler. Hopefully I got everybody. Oh, and CM Sanchez. Sorry, I have to say CM Sanchez. Okay, perfect. And I will hand it over to the speaker to ask her questions.
+
+[**(00:23:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1403s)
+
+
+
+>> Thank you so much. And I know we have got a lot of questions from colleagues. So, I am going to do a first round of questions and I will turn it back over to Chair Lee. Then we will go to colleagues and then we are going to go back in for second or potentially third rounds depending on how long it goes. Okay. So, thank you so much director for your testimony today and we look forward to this dialogue.
+
+[**(00:23:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1411s)
+
+
+
+Now, as you said, the agency plans were due from the chief savings officer last Friday. I know the administration put out a press release about this this morning indicating that you have found $1.7 billion in savings. The release I believe when I looked at it this morning had about $48 million identified in savings. Could you walk through what the other savings are that then comprise the $1.7 billion?
+
+[**(00:24:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1453s)
+
+
+
+>> Sure, speaker. So, thank you for the question. So, what we announced this morning was that the submissions by the agencies was over $1.7 billion dollars. We are doing the painstaking work of going through their submissions, having a dialogue back and forth. What was announced today were concrete examples, highlights of a couple of hundred million. And that process continues as we go on. So in 4 days, what we have been able to do out of those 1.7 billion plus in savings is say at least 200 million has been identified as viable savings that we can book and the process continues. Are you going to be sharing that full list with the Council? We will continue to work on this. We will share it. It will be identified in the executive budget as a savings plan. We will continue to update as we identify more savings.
+
+[**(00:25:05)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1505s)
+
+
+
+>> Okay. I think that that is incredibly important. And do any of those savings deal with accruals and if so, how much?
+
+[**(00:25:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1513s)
+
+
+
+>> So, there are savings that we identified today that fall into the buckets that I referenced in my testimony. Accruals were not the ones among the highlights that we have listed. We know that accruals we will look at and be able to continue the dialogue that we are having on accruals to see which savings could be booked.
+
+[**(00:25:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1531s)
+
+
+
+>> Okay. So, the City's budget has grown $42.8 billion over the last decade. So, it is now $16 billion higher than had it grown at the rate of inflation. Revenues remain strong. So what is the administration's plan to find areas of waste and inefficiencies without in any way impacting services?
+
+[**(00:25:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1557s)
+
+
+
+>> Sure, speaker. So that is exactly the goal that we have through the appointment of chief savings officers and their work is not only to identify short-term savings that will meet the targets that we have in the preliminary budget, the 1.5% in fiscal 26, 2.5% in fiscal 27. This is really a long-term approach and that is why the executive order makes very clear that the chief savings officers are to continue doing their assessments every six months looking at long range long-term structural savings. That could include more reliance on our talented City workforce as opposed to outside consulting contracts. It could include using data and metrics to make sure that programs are effective and that they are working for New Yorkers as intended. And if they are not, then we need to invest those resources in other priorities.
+
+[**(00:26:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1611s)
+
+
+
+>> Well, since you mentioned outside consultants, I definitely want to talk about that because at the DOE hearing, I questioned DOE about this. DOE is now spending 12 billion dollars of its budget on consulting contracts. Many of them to these outside consultants. When I asked, have these consulting contracts been audited? They mentioned that Ernst and Young had actually not... the audit, the 17 I think it was $17 million that the agency spent on Ernst and Young was actually not for an audit of the consulting contract. So you have got an agency with over 3,000 consulting contracts. How can the City possibly identify redundancies and waste or duplicative services if no one is systematically actually auditing and reviewing those contracts?
+
+[**(00:27:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1662s)
+
+
+
+>> Yes, I think this is a goal that we share, speaker. I know you have been very vocal about this, as has been the mayor. We need to look at consulting contracts. We need to look at... the mayor has been very clear and spoke often about DOE procurement. We need to look at those contracts. We are committed to looking at those contracts. That work is going on right now as part of the chief savings officers. We have had regular engagement with key agencies through the course of the development of these savings programs. So we know we are focusing on that and we are knowing that management consultants are one thing. There are other kinds of consultants whether they are engineers and architects. So we are doing the painstaking work to see what is required, what can be cut back, what can be insourced.
+
+[**(00:28:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1709s)
+
+
+
+>> Can you provide a report back to the Council of these 3,000 outside contracts and what work the administration will do to look at are there duplicative services? Are there efficiencies that can be had? That seems to me to be when you have got a 12 billion allocation to these consulting contracts and other outside third-party contracts. One of the best places to go. We also found out that 6% of the contracts were actually no bid. So that is another area which is of deep concern.
+
+[**(00:28:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1737s)
+
+
+
+>> Yes. And I know this came up during the New York City public school hearing and I know that you made the request. We have discussed it and we will work on that with you.
+
+[**(00:29:06)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1746s)
+
+
+
+>> Okay. Want to talk a little bit about the rainy day fund property tax issue. So we are deeply concerned as we have said from the beginning that the administration continues to try to balance the budget by drawing on the rainy day fund. We have from the beginning stated our concern particularly when several rating agencies such as Moody's and Kroll and Fitch as you know have predicted a negative outlook if this does happen. In addition, we have been very clear about that we are... this idea of a property tax increase of 9.5% is also a non-starter for us. So I really want to get the clearer picture then of the path forward and why does the administration think that raiding the rainy day fund which has never been raided before is something that is still on the table at the moment? Sure. So, as I mentioned in my...
+
+[**(00:29:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1799s)
+
+
+
+testimony, we worked hard to bring down the deficit from what was initially in line with the city and state controllers. After recognizing additional revenue, after an aggressive savings plan, after state assistance, after taking standard budget actions, we were able to get the deficit down to 5.4 billion. At that point, we are mandated by the charter to balance both fiscal 26 and fiscal 27. We do not want to raise property taxes. We want property tax reform and that is what we are busy working on. We do not want to draw down reserves. Rather, we want to replenish reserves and we want to grow reserves. This was out of necessity for what was an inherited significant budget challenge that stemmed from chronic underbudgeting. And that is why the 14 billion dollars in agency expenses that was added on top of the existing 4.7 billion gap that was already projected from the November 2025 plan required those types of actions to meet our fiscally responsible charter-mandated authority to balance the budget. We would like to avoid that and that is why we want to work alongside you in engaging our...
+
+[**(00:31:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=1874s)
+
+
+
+Understood. And so just so that we are crystal clear on this, again, want to just say our position that we strongly believe there is no reason to draw down excessive reserves. It will then really jeopardize the City's credit rating. Our finance team has actually done a great analysis on this. It shows that by 2030, a downgrade by credit rating agencies would cost the City about 120 million more in interest over the full life of the 30-year bonds. The City would pay an estimated 3.6 billion dollars extra just in interest alone. So if the rainy day fund is rated so that I just wanted to make sure that we get that data out there. We are very concerned about that.
+
+So moving on, agency cuts. The budget shows that for fiscal year 27 many agencies are being funded at lower levels than what they are budgeted for in the current year. I want to particularly talk about DCWP, my old agency, because and I know CM Epstein will probably do this line of questioning too because they are down by 12.6% from 85 million to 74.7 million. My concern there is that obviously this is a very important consumer and worker protection function that that agency performs also by limiting its budget and there have been promises to double the agency's budget by limiting the agency's budget. We really then also decrease the amount of funds to the general fund because that agency as you know engages in hundreds of millions of dollars of settlements as a result of the important work that they do. So that is an area of concern. And then also and I know I am sure other colleagues will talk about this that the budget strips 33.6 million from libraries, reduces parks funding despite calling them neglected. So these are all areas of concern that I know my colleagues will also want to hear about today. So I do not know if you have any comment on that.
+
+[**(00:33:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2000s)
+
+
+
+Sure. So to clarify many of the examples that you have cited, they are not cuts necessarily. What that is is at adopted last year there were multiple one-shot additions that happened at adopted. This is the preliminary budget. It is the opening salvo. We are looking at the executive budget and what investments that we can make. You mentioned DCWP. We believe in the agency's mission. The mayor has committed to increasing their budget. In the preliminary budget, there was actually an addition of 600,000 in fiscal 26 and 1 million in fiscal 27 to add nine additional employees to help meet its mandate. There is obviously more that we can do and we will continue to look at that as we compose the executive order.
+
+[**(00:34:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2049s)
+
+
+
+Understood. Our point is just we do not really want to do the budget dance on the backs of libraries and others, vital services that New Yorkers depend on. We think we should stop the budget dance on that and just let us get that funding back in. I want to move on to FEPS. The administration late yesterday continued the litigation by filing an appeal against the City Council. We are deeply concerned about this. As we have said from the beginning, we believe the administration should drop the appeal and reach a settlement that really works to protect vulnerable New Yorkers and that also is fiscally responsible. So my question is why is the administration continuing to litigate this matter?
+
+We continue to have conversations not only with the Council but also other parties in this litigation. What the filing that happened yesterday was just to meet the court's timeline
+
+[**(00:35:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2108s)
+
+
+
+and to preserve the ability to continue having good faith discussions as we have been having about what the program expansion may look like. Those conversations are continuing again in good faith by filing the instrument with the court was on their timeline and preserve the ability to continue these conversations.
+
+[**(00:35:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2128s)
+
+
+
+Yeah, I mean our position is very clear. We believe the administration should drop the litigation. We have been saying this for months. The Council is ready to reach a responsible settlement that protects vulnerable New Yorkers and at the same time is fiscally responsible. The continuation of litigation really serves to delay the ability to reach the settlement. So I want to make sure that we note that. I did have a question on FEPS. So has OMB seen DHS shelter savings as a result of the current City FEPS program? I mean this is something that for example former speaker Chris Quinn has talked about. I know WIN has done a lot of studies in this area. Any assessment from OMB on that?
+
+[**(00:36:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2169s)
+
+
+
+So we have seen a decline in families with children the census for families and children and we think that that is largely attributable to FEPS but we have also seen at the same time an increase in the shelter census for single adults. And so as you see in some of the main drivers of shelter reestimate costs, it is one of the six of the main drivers. It is still a significant cost center. And so there are differences in the kinds of populations that are decreasing versus increasing and we think the families and children reduction is a result of FEPS.
+
+I am going to ask I have a lot more
+
+[**(00:36:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2210s)
+
+
+
+questions. I am going to ask one more question before I turn it over to Chair Lee. I do have questions about agency hiring because the Adams administration placed several barriers to agency hiring which you alluded to in your testimony including two for one limit on hiring vacancies requiring approvals from OMB before hiring headcount that had already been approved in the budget. These approvals, as we all know, caused a lot of delays in hiring and led to a real degradation in terms of City services and the workforce as we saw many agencies be hollowed out. So, while the mayor rescinded the two for one hiring limit, I understand that other restrictions remain in place. So, are there any hiring restrictions that OMB continues to impose on agencies? If so, could you talk about...
+
+We have one of the first things when I when I arrived at OMB was I heard very loud and clear from many of our agencies that the two for one hiring restriction was not meeting their operational needs. So in doing this vacancy alignment exercise, we think we are achieving the balance by achieving savings through vacancy reductions and then resetting the PS budget for these agencies and then allowing them to hire up to that PS budget without any constraints. Agencies have said loud and clear, waiting for attrition to happen, waiting for a monthly allotment does not allow them to hire up quickly and be nimble enough to meet New Yorkers needs on services. So, the absolute commitment is to eliminate the two for one. We are going through the exercise now of aligning the PS budgets and making sure agencies know when they can hire what they can hire up to.
+
+I have a number of more questions. I have one last question before I pass it to Chair Lee. So, when we had the budget hearings from agencies, numerous agencies reported at their respective budget hearing that they are still bound by the two for one hiring restrictions. So why are agencies still under the restriction when the administration indicated it was lifted? So there is like real confusion around that.
+
+Yes. What we are doing now is doing the painstaking work of trying to
+
+[**(00:39:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2347s)
+
+
+
+establish the correct PS budget for agencies to be able to hire up because frankly what has occurred over several years is a misalignment between vacancies that exist and the PS budgets that are available to be able to hire employees. We are looking to with a fine tooth comb understand the vacancies and understand the PS budget changes that have occurred and then set the PS budget and allow them to hire.
+
+And last thing before I pass it to Chair Lee, so at a time when agencies are saying they are stretched thin, I do want to ask you a question about the IBO report yesterday, because the IBO reported yesterday that the administration is adding 1,900 new positions, but leaving 12,000 existing vacancies unfilled from fiscal year 2026. Is that correct?
+
+The 12,000 vacancies that exist as of the end of January 2026 includes a range of different titles. There are teachers in there, there are uniforms in there. We are not looking to reduce teachers. We are not looking to reduce our uniform services. We are looking to see where are there opportunities in the civilian workforce non-critical. Looking at that and seeing what is responsible what is a position that is needed for health and safety what is revenue generating those kinds of specific details to ensure that we can hire up for agency government operations but also achieve savings by achieving that balance.
+
+So can you provide a breakdown of the 1900 new positions that...
+
+We are going through the process now and
+
+[**(00:40:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2442s)
+
+
+
+eventually when we are finished we can speak to the Council about that.
+
+Thank you I am going to pass it over to Chair Lee. Sorry I just wanted to follow up really quickly on that question because I do not think we are saying in terms of the vacancies, just to be clear, like we know that those are not getting rid of line items, right? So, we are not getting rid of positions or anything like that, but we are just saying for the ones that were not hired under those line items, how can we find the savings there? So, the 1900 new positions, I would be curious to see if in that 1900 for example, DCWP has a lot more work that they are going to have to do. Same thing with DOB. And so, does that include new inspectors?
+
+[**(00:41:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2478s)
+
+
+
+DOI is going to hire I think new attorneys. So does that 1900 if you could get back to us on what those items are because I know that when we did the when I attended a lot of the agency briefings they did mention that they are planning on hiring new positions and so I guess my question is is that to replace current line item staff that are already existing or is it just adding on top of that? So
+
+[**(00:41:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2504s)
+
+
+
+They are hiring up on the vacancies once the PS budget is established running parallel to that will be our normal exercise for new needs as part of the executive budget.
+
+Right.
+
+So a lot of what you have heard from the agencies clearly we are hearing too in terms of new need submission requests and that will take its normal natural course in developing the executive budget.
+
+[**(00:42:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2527s)
+
+
+
+And then just really quickly because I just assumed that the two for one had already gotten into place but then I realized very quickly in the hearings that it has not happened yet. And so do you know what the timeline for that is?
+
+It is coming soon because we are looking
+
+[**(00:42:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2539s)
+
+
+
+through to make sure we are giving agencies the correct budget. Once you have your correct PS budget that you can hire up to. It is not like you have to wait for attrition. The two for one is lifted. Hire up as quickly as you can.
+
+[**(00:42:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2552s)
+
+
+
+So maybe...
+
+And that will be happening soon.
+
+So before FY27 adoption.
+
+Before FY27 adoption. Yes.
+
+Perfect. And then can you going back to a previous question that was asked, can you specify when in terms of the chief savings officer's plans when you will be able to share the chief savings officer findings with the Council and will it only be in the executive budget or will there be regular like maybe weekly updates that you all are able to share with us?
+
+We are evaluating as soon as we have additional updates that are ready to share, we may opt to share them. But also in the executive budget, there is typically a savings sort of detail savings book. So certainly at the executive budget, but clearly as we go along, we may have the opportunity to share some of those results.
+
+Perfect. And just really quickly, I kind of wanted to go into this theme of planning the budgets out, because I know that you had mentioned, for example, one-shots, which we know happen every year. And there are always one-shots based on needs
+
+[**(00:43:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2620s)
+
+
+
+and things like that. And so just wanted to know in terms of... and this is just one of the examples right for contingency planning for example for potential loss and reduction in federal funding for the FY26 budget for example it includes nearly 9 billion of federal funding comprising over 7% of the City's budget and it is decreasing to just over 7 billion in fiscal 27 and in the out years which is still over 5% of the City's budget. So we know it is typical for the budgeted amounts of federal funding in the out years to be lower than in the current year as OMB adds certain federal funding revenue streams when they are more certain. So given the federal climate and threats there is concern that there may be some federal revenue included in the budget that may not materialize or that could be or that there could be cuts. So just to give a sense, can you actually go through the actuals of federal funding that has been received in FY 24-25 as well as pre-pandemic just to give us a sense of usually what the typical federal funding is that we receive?
+
+Sure. So I think we know that we are working through with the federal government making sure that we are claiming all revenue that is there to be able to draw down. We know that that 80 million that was clawed back on FEMA is the subject of litigation. So, we are looking to continue to get that funding back. We know that there is about 500 million that we are looking at over the financial plan in claims that we want to be able to continue to submit. And we are also watching to see the benefits of HR1. And we know that for example SNAP which is a concern for all of us and that is why we tripled the community food program at HRA in the preliminary budget by adding 54 million. So we are taking those steps. We learned the other day that the federal government as well the CMS had approved which we know we are watching at the state level particularly on behalf of H+H to make sure that the essential plan that those funds did not need to move into the general budget but that that
+
+[**(00:46:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2764s)
+
+
+
+will continue and I think CMS approved that the other day. So that was welcome news. So, we are continually watching to see what grant opportunities they may be, claiming funds that have already been budgeted. And also making sure that we have the contingency planning to see if the federal the impacts of HR1 and particularly the state handling of it vis-a-vis funding that flows through the state to the City is something where the City is protected.
+
+[**(00:46:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2793s)
+
+
+
+Right, with the grants and everything. And if you could give us the actuals received for 24 and 25, that would be great. If you do not have it today, that is fine, too.
+
+[**(00:46:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2802s)
+
+
+
+It is a total of 2.6 billion.
+
+[**(00:46:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2804s)
+
+
+
+For which for FY24, it is how much...
+
+For I do not have 24. For FY to date for FY26, 2.6 billion.
+
+[**(00:46:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2811s)
+
+
+
+2.6
+
+[**(00:46:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2812s)
+
+
+
+2.6
+
+[**(00:46:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2812s)
+
+
+
+billion.
+
+billion.
+
+Sorry, my hearing is going. And how much? And just out of curiosity, because I know that you all are applying for federal funding.
+
+[**(00:47:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2824s)
+
+
+
+So, how much of the current federal like what do you apply for versus what you receive? Typically, the agencies are responsible for applying for the grants. OMB is largely responsible for filing claims, specifically for the grants that are managed by OMB, including the FEMA grants in specific. As you mentioned before, the current fiscal year budget for federal grants is typically a lot higher because it reflects grants that we already have and funds are added as needed throughout the course of the fiscal year that will be increased in the out years.
+
+[**(00:47:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2859s)
+
+
+
+So, is your agency or which agency is sort of like the overseer of what agencies are applying for what federal grants?
+
+[**(00:47:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2866s)
+
+
+
+Agencies are working directly for applying for the federal grants. OMB has two roles as it pertains to federal grants that is not directly related to agency function. We have a team that manages the FEMA grant as I mentioned to you, disaster recovery grant, community development block grant, and that team acts as an administrator of the grant specifically and files the claim. We also have a team that does the critical work that you are pointing to in terms of ensuring that claims are done on time and working with the agencies to encourage them to work quickly to get the claims in so to bolster our cash situation.
+
+[**(00:48:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2899s)
+
+
+
+So, agencies apply, but they do report it to you in some fashion or form. Correct.
+
+[**(00:48:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2907s)
+
+
+
+Correct.
+
+[**(00:48:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2907s)
+
+
+
+Okay, perfect. And then also, is it possible to get an agency by agency federal funding schedule? And I know you guys have a report annually, but what is the schedule per year? How much is each agency expecting? Because obviously this city, state, federal all have different timelines and when the funding gets released and so when you are looking at the city plan obviously month by month there is a sort of rejiggering of what comes in and out.
+
+[**(00:48:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2935s)
+
+
+
+Absolutely we are happy to follow up with that information.
+
+[**(00:48:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2937s)
+
+
+
+Okay, perfect. And then just in terms of this theme of better planning, in terms of reestimating the prior year payables, so every year I feel like the city identifies savings from reestimates in prior year payables and receivables and then also writing off prior year payables allows the city to free up funds allocated for expenditure in prior years that did not happen. And conversely the city also is required to write off receivables for revenues it has budgeted to receive in prior years but did not end up getting. And this year this exercise netted the city 500 million in savings which is about how much the city identifies every year. So in terms of planning...
+
+[**(00:49:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=2982s)
+
+
+
+Purposes if we know that this is sort of the estimate why not put this into the budget for out years. Yeah, I think we look to the prior year payables and it is difficult to project a fixed cost because they are inherently unpredictable and we do not want to overshoot the runway on one side or another and then be short when we are looking to close the fiscal year in balance. However, we know that as you allude to chair, that in the past there has been this general understanding that we are at 400 500 million. Right.
+
+[**(00:50:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3024s)
+
+
+
+Right.
+
+[**(00:50:25)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3025s)
+
+
+
+But still the unpredictable nature of it. We want to make sure we have the sufficient information and work with the agencies to understand what is a receivable, what is a payable, how they are tracking, what the timing is before then we put that up in the financial plan. So that is why it is difficult for us to put it out in the future years.
+
+[**(00:50:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3045s)
+
+
+
+So despite like you said the four to 500 million in net savings from these write-offs each year, do you think that the practice of it is something that needs to be looked at? Meaning if there are if it is routine and we are continuously failing at collecting some of the funds for example, what would you suggest the improvement plan be?
+
+[**(00:51:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3075s)
+
+
+
+We are happy to discuss further with you more but I think suffice to say that with the scale of the city budget and basically the scale of the contracts the scale of sort of the receivables and payables as we are going forward, the ebb and flow of that, right? We are constantly working on with the agencies to have a greater understanding of what is coming in, what is going out in terms of contracts. So we are always happy to have a conversation about that to see how more predictable it can be, but given the scale of the city budget and the contracts, it is really not something that is super predictable that you can just go on to future years on. So speaking of...
+
+[**(00:51:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3118s)
+
+
+
+Predictability and the scale of the city budget, what is like the typical burn rate every month that the city pays out, whether it is payroll, contracts, rent, all of that? We can come back to you on the specifics of the burn rate per month. I mean, I think that in terms of OTPS in general, we would have to break down how I mean 59 billion in OTPS and we will have to break down from there how much for rent, how much for heat, light and power, how much OTPS. We are happy to provide it after.
+
+[**(00:52:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3147s)
+
+
+
+Yeah. And the reason why I am asking this question is because I am just wondering who is sort of like the central entity or...
+
+[**(00:52:35)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3155s)
+
+
+
+Body within the city that is overseeing all of this, right? And it makes sense to me that it would be OMB, but I am just wondering if there would be a benefit to centralizing oversight.
+
+[**(00:52:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3168s)
+
+
+
+Yeah, it is really the office of management budget and the comptroller's office, right? So we work very closely with them to understand what the obligations are, the cash flow. There are regular reports that are shared. And also it is the agency CFOs, it is our office of budget reconciliation that is constantly looking at that, working with the agencies to understand what is coming in, what is going out.
+
+[**(00:53:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3192s)
+
+
+
+Okay. And so you do have the central role in monitoring sort of opportunities for reimbursement and organizing the attempts to gain reimbursement for eligible city expenditures. Is that correct assessment?
+
+[**(00:53:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3208s)
+
+
+
+We do have a central role through office of budget reconciliation on the agencies to make sure that they file the claims on a timely basis to make sure that they do come in.
+
+[**(00:53:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3229s)
+
+
+
+Okay, perfect. And what... oh just out of curiosity following up to my last question. Well, so I know that maybe...
+
+[**(00:53:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3237s)
+
+
+
+It is tough to do the monthly, but what was the last payroll amount that was sent out by the city in terms of employee staff? Do you have that figure? Well, overall I think PS is at 60 billion including fringe. We can get you the monthly payroll on wages. Yep.
+
+[**(00:54:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3258s)
+
+
+
+Okay. 60 billion plus fringe. So fringe... 60 billion including fringe. Okay, perfect. Okay. I am going to pause here and start allowing my colleagues to ask questions. But before I do that, I just want to recognize we have some new members that have joined us. I believe CM Cabán is on Zoom, CM Narcisse, CM Krishnan, CM Hankerson, CM Banks and CM Stevens. And I just wanted to let my colleagues know we have... Oh, where is... Okay. I am looking for the deputy speaker, but I do not know where she is. Okay. So just to remind everyone, we have five minutes on the clock and our colleagues did such a great job the first day of hearings and sticking to the five minutes. We have a lot of folks who want to ask questions. So we are going to do a second round and third as the speaker mentioned if necessary. So we will do five minutes the first round and so if members could please please please try as best as your possible ability to stick to time so I do not have to cut you off. So with that are you ready deputy speaker? Okay we are going to start with deputy speaker Williams.
+
+[**(00:55:35)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3335s)
+
+
+
+Thank you. I have some questions on the libraries. Hello. At our recent libraries hearing, the three systems outlined 1.2 billion dollars of unmet capital needs and summarized for us the operational impacts of aging facilities in light of the hundreds of millions of dollars in deferred maintenance across the three library systems and the direct link to emergency closures and reduced service hours. How does OMB justify current capital funding levels in the FY27 prelim budget? And what is the City's plan to meaningfully reduce this backlog rather than continue to rely on short-term fixes? And then just follow up to that is the three library systems have identified a 450 million capital need to complete comprehensive renovations and address their most urgent projects across the boroughs. How does OMB evaluate this request? Sure. I think we all agree that we support our libraries, want to support our libraries, want to give them more funding. We will work with the libraries clearly on their capital needs. The 10-year capital plan includes 1.5 billion in funding for the libraries to support their capital needs. We know that we can always improve on that and we will be looking as we compose the executive budget on additional assistance that could be provided. Thank you. The fiscal 2027 budget does...
+
+[**(00:56:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3419s)
+
+
+
+Not include the one-time funding of 30 million that had been distributed to the SIGs and CDF organizations in fiscal 2026. How was the funding split between CDF organizations and the SIGs in fiscal 2026? And will OMB provide this critical funding for cultural institutions in fiscal 2027 in the exec plan? Similarly, we appreciate our SIGs. We value our SIGs and what they provide to the culture and the fabric of the city. We did not cut DCLA's budget in the preliminary budget. The FY26 budget is 300 million, 177,000 higher than it was in the November 2025 plan. Clearly, we are looking as we compose the executive budget on additional needs, including those that may have been added at adoption as one shot.
+
+[**(00:57:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3474s)
+
+
+
+Yeah, I know. And I know that was the talking point that DCLA has, but it is like a funny way to say it, right? Because we know we put the money in at the end. And while it is more than previous budgets, it still is less than what they got in fiscal 2026. And so I am sure they budgeted for certain things that that 30 million at the end of the day is not there and included in this particular prelim plan that you put forward. Sticking to DCLA, the arts and cultural spaces are full of valuable data to run the City's creative economy, which is estimated at over a billion dollars and obviously DCLA does not have the money necessary to fuel this particular industry. Is there a plan to fund DCLA's ability to measure and manage this data?
+
+[**(00:58:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3521s)
+
+
+
+We are working with them and seeing what can be added for the executive budget. Clearly that is something that we know is important to the agency and important to the cultural fabric of the city. So we are going to work with them on that. So when you go to craft budget specifically around like economic development, do you have a sense as to why culture is not linked to economic development? We are making sure that we take a new approach and understand that the mayor's vision will propagate throughout all the city agencies and so through that cultural lens we will work with the EDC and work with other agencies to make sure that they have a lens through culture with the work that they do. Yeah, I think it just should be like more streamlined because there are some things that fall in other agencies that really have to do with culture. But that funding does not run through DCLA. So just trying to understand why these...
+
+[**(00:59:43)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3583s)
+
+
+
+Funds at large are not run through DCLA. The other questions I have two questions on revenue. What assumptions are driving the administration's continued optimism about the national and local economy, particularly in the fintech sector given global instability, including tariff rulings and geopolitical conflicts? Yeah, sure. I will start and then I will...
+
+[**(01:00:06)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3606s)
+
+
+
+Turn it over to Joshua Goldstein to add. Our revenue forecast was based on a record year on Wall Street, 65 billion in profits. And when we composed our revenue forecast, we also looked at the strength of various sectors and we were communicating regularly with the state in terms of what they put in their financial plan and our revenue projections were in line with what the state had put out. And that was even before we got into the revenue consensus forecast of 700 to 800 million more that the governor reached with the legislature. So I do not know if you want to add anything on fintech or... Yeah, thank you for the question. I think there are two pieces. One Shu mentioned the record year on Wall Street which was fueled a lot by the massive investment in AI which New York City is definitely benefiting from. I think this year, earlier in the year, Bloomberg reported an estimated 650 billion dollars of investment in AI industries just this year. So we think there is a lot of momentum there, right? That money is going to flow through the system and New York City is definitely going to benefit from it.
+
+[**(01:01:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3690s)
+
+
+
+Okay, great. Thank you so much, Deputy Speaker. And next we are going to move to Majority Whip Hankerson followed by CM Marte.
+
+[**(01:01:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3699s)
+
+
+
+Good morning and thank you chair. Welcome. Let us get into it. The administration is seeking to fill 14 spots for the mayor's office of mass engagement. What is the purpose of creating this new office? The mayor's vision is to have an office that reaches communities that is able to connect government with communities and that is why and really just inherent in its name the office of mass engagement. And so that is really the purpose is to reach communities where they are to share information about their government and to get New Yorkers involved in their government. Thank you. And so how can the mayor and this administration with all that we have discussed today justify the need for this 2 million dollar newly created office? Well, I think when you look at the sub offices within that office, these are longstanding...
+
+[**(01:02:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3768s)
+
+
+
+Offices that have been in the mayor's office. You look at the community assistance unit. You look at the public engagement unit, the mayor's office of ethnic and community media, office of faith-based and community partnerships, NYC service, civic engagement commission. So the budget and funding is determined about how we want to support those efforts and enhance those efforts to reach New Yorkers in their communities. So all of those offices that I just mentioned have been pre-existing and have their own functions and valid functions to be able to reach different portions of our communities. Thank you so much. And fiscal 2027...
+
+[**(01:03:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3808s)
+
+
+
+Budget includes 594 million in OTPS for waste disposal, representing 29% of DSNY's total budget, the largest contractual expense. Rising waste export costs continue to strain DSNY's budget. And understanding cost drivers and mitigation strategies are essential. Beyond inflation and contractual price adjustments, what additional factors are contributing to the increase in waste export costs? Sure. So I think it is related to... so...
+
+[**(01:03:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3839s)
+
+
+
+First off the spending is expected to be in line with the FY26 preliminary budget at 525 million. I think the sanitation department will always say they are pursuing cost efficiencies wherever possible and that is true. Work with vendors for example to rightsize staffing at transfer stations. That is one approach. And that is really the most significant cost savings that can be accomplished. We obviously have to also always be looking at the contracts and seeing how we can achieve efficiencies and savings in what is a significant effort for waste disposal in our city. Thank you so much. What alternative...
+
+[**(01:04:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3878s)
+
+
+
+Waste management strategies is OMB exploring to mitigate rising export costs and what are the projected...
+
+[**(01:04:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3884s)
+
+
+
+Savings? Well, I think that we are working with the sanitation department to see what options there are. I think that we have a range of things whether they are that we are working on including containerization, composting, etc. And so we are looking at all different kinds of ways and we are working with the sanitation department on that. So how do the terms of DSNY long-term waste export contracts impact current and future budget...
+
+[**(01:05:16)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3916s)
+
+
+
+Projections? Again, it is in line with what we have and 525 million for fiscal year 2026. We are looking at the out years to have some better certainty of whether those savings that we talked about will begin to take hold. In terms of the staffing at the waste transfer stations and other ways to look at our contract, chief savings officers will be looking at this as well. Sanitation department has undertaken a comprehensive review. They are looking at this. This is clearly an area as well where if there are efficiencies and savings to be found. That is an area we want to focus on. Thank you so much. Thank you, chair.
+
+[**(01:05:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3951s)
+
+
+
+Thank you. We have also been joined by CM Brooks-Powers and CM Riley. Anyone I am missing? No. Okay. Next we are going to go to...
+
+[**(01:06:01)**](https://www.youtube.com/watch?v=2soPrZWS754&t=3961s)
+
+
+
+CM Marte followed by CM Ossé. Thank you, Chair, and thank you, Speaker Mamdani, and thank you for being here. The Senate One House bill provides an additional 20 million for an affordable housing relief fund to help stabilize distressed properties in the city that are facing rising insurance, staffing and maintenance costs and non-payment for rent. The state senate budget also proposed 60 million in Mitchell Lama preservation for the city. How does OMB estimate the additional 20 million in the affordable housing relief funds will impact the City's fiscal 2027 budget? Will additional households be able to utilize this funding?
+
+[**(01:06:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4001s)
+
+
+
+We are looking at that with the Senate as the one houses have been released and looking at ways we can continue to work with them in these last moments in the state budget or the last weeks of the state budget or week... depends on when the state budget will be enacted. But we are working with them.
+
+[**(01:06:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4019s)
+
+
+
+But I think there is a subsection of city yes funding that designates the 20 million for capital improvements to preserve affordable housing. But we are looking at what is in the one house and seeing if that is something that is viable for the negotiations in the enacted budget. Yeah. And a similar question for Mitchell Lamas. Does this potential funding lower the cost for maintenance of Mitchell Lama if at all?
+
+[**(01:07:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4041s)
+
+
+
+I think that is part of the conversation with the Senate in terms of the desired result from there. That could be that result. But we are working with them to understand how this can be advanced at the conference committee tables.
+
+[**(01:07:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4052s)
+
+
+
+Okay. I want to ask a more local question. As part of the Borough-based jail plan, the Chinatown Jail is now estimated to cost $4.1 billion. Is that the accurate estimate that you have right now or do you estimate it continuing to grow even further? Right now, the budget is set. I believe it is all of the BBJ or about 11 billion over the plan, over the financial plan. I will turn it to Tara on specifically on Manhattan. 16 billion. True. 16 billion overall. Yes, overall. But the plan has the 11.5, but specifically on Manhattan. I do not know if we have... I think you said Chinatown. Yeah, we do not have it specifically. We do know that it is fully funded and we are currently looking at any efficiencies that could be in the program.
+
+[**(01:08:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4104s)
+
+
+
+I would just like to suggest that the community has an alternative plan that can save the City money as well as speed up the potential development of a facility nearby. I hope that your team will be able to meet with the communities who have worked on that plan. We are always happy to engage in conversation. I think that we are fulfilling the law to continue to move forward on BBJ, but always sensitive to community needs and happy to have conversations. But the
+
+[**(01:08:56)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4136s)
+
+
+
+projects have commenced pursuant to the law.
+
+[**(01:09:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4140s)
+
+
+
+And switching over to NYCHA, we continue to see the legacy of this City continuing to invest in RAD impact instead of investing in Section 9 public housing developments. As we all saw with the Public Advocate's recent report where vacancies are now up to 6,700 units that can house thousands of families and New Yorkers who are currently facing homelessness or housing insecurity. Why has the administration not prioritized those units in Section 9 and especially minimized the days for those apartments to be converted to actually be stable housing units? I think the timeline that they gave us yesterday was more than 400 days for one of those units to be repaired and to be turned online. Yeah, sure. So just on a personal note my appointment was at the NYCHA Bowman Houses where I grew up. So NYCHA always has a place for me and I think vis-a-vis the budget we have been added 148 million in capital funding for NYCHA Section 9 housing. We know that we can do more. We know that the Mayor has committed to doubling the capital budget. We want to make sure we are looking at the executive budget and understanding how much debt capacity we have to be able to invest in more capital. So that is a process we are undertaking for the executive budget to see how much more because those 6,000 units we want to bring them online. We know there is a substantial wait list and we want to make sure that we are fixing the stock and making sure that units are available for New Yorkers.
+
+[**(01:10:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4246s)
+
+
+
+Thank you. Thank you, Chair.
+
+[**(01:10:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4248s)
+
+
+
+Thank you. CM Avilés followed by CM Hudson.
+
+[**(01:10:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4254s)
+
+
+
+Thank you, Chair. Thank you so much. Good morning. Thank you for being here. I am going to ask a couple of different questions on several different topics. So first I would like to jump into immigration. The preliminary plan includes additional City funds of 6.6 million in fiscal 26, 21.2 million in 27, 20.9 million in 28 and 19.2 million baseline starting fiscal 29 to expand immigration legal services. Given, as you know, the ongoing demand for various immigration legal services, will the restoration of the additional funding that Council secured last year for legal assistance be included in the executive plan?
+
+[**(01:11:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4299s)
+
+
+
+I think that is something we are looking at for the executive budget. I think the overall budget is about 19.6 million in City tax levy in 26, 19.6 million City tax levy for 27. Clearly there is a need and we want to make sure we are working with the Mayor's Office of Immigrant Affairs which we are on additional support. So we are looking at that for the executive budget to see what can be added.
+
+[**(01:12:05)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4325s)
+
+
+
+Great. Loss of that funding would be catastrophic. As we know even the additional 50 million our providers are underwater and our families are terrified navigating a very complex and everyday worse system and attacks. In terms of our immigration services are spread across multiple agencies which makes it very challenging right for oversight coordination. Has there been any discussion around consolidating a dedicated agency for immigrant affairs?
+
+[**(01:12:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4358s)
+
+
+
+We are working with the Mayor's Office of Immigrant Affairs, the new commissioner to make sure that there is that level of coordination. We know a lot of these programs are also in HRA and they are spread throughout. So clearly there is a need for central coordination and really out of City Hall there has been a lot of focus and attention on this naturally. So we want to make sure we have a holistic whole of government approach as we are seeking how to have immigration assistance services to New Yorkers.
+
+[**(01:13:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4389s)
+
+
+
+Great. And we need... if we cannot consolidate, we need the administration needs a way to sink some teeth into making sure that agencies are doing the best they can to meet the mandates and the needs of our immigrant community, which is 40% of New York City's population. Switching now to SNAP benefits. I represent a district that has been very impacted by stolen SNAP benefits. We know that the state has a $3 million reimbursement fund that is in the one house bills. What has the City done to prevent stolen benefits to address this issue? And have you had conversations with the state partners about this issue?
+
+[**(01:13:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4435s)
+
+
+
+Yes, absolutely. We are aware of the efforts going on in the state with the Governor put in the budget and also in the one houses from the Senate and the Assembly. I think we are supportive of the chip enabled cards to be able to have that extra layer of security. So we are looking at the funding that has been established, working with the state to see what can come out of this enacted state budget on that front.
+
+[**(01:14:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4462s)
+
+
+
+Well, I think we know food insecurity impacts many communities and particularly older vulnerable adults. And if we cannot address the stolen benefits, we are going to need to figure out how to make sure that people get access to food. So it continues to be a serious issue. Can I ask in terms of some of the other proposals that has put forward in terms of savings, particularly the possibility of drawing down on the rainy day fund? Are there other major proposals that you are considering outside of drawing down on the rainy day fund to address some of this shortfall?
+
+[**(01:15:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4508s)
+
+
+
+We are looking constantly at all kinds of different revenue generating opportunities. We are looking constantly at additional savings opportunities. What we put in the preliminary budget was necessary to meet the Charter-mandated responsibility of balancing both fiscal 26 and 27 and we are looking at replenishing and the financial plan includes the replenishment of it. So if we can avoid the use of draw down
+
+[**(01:15:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4536s)
+
+
+
+Sure. If through savings or revenue we will be open to that.
+
+[**(01:15:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4540s)
+
+
+
+In particular... you have put... there are a lot of proposals on the table. I think what I am specifically wanting to hear is are there other funds that you are looking also to draw down on as a possibility in addition to the rainy day fund? Well, there are... there is the rainy day. Our other reserves, the retiree health benefits trust fund which was drawn down at $229 million in fiscal 27. There was a draw down of the current in-year reserves for the general and capital stabilization fund. So those are essentially the four buckets of reserves that exist and there was a mix of each that we included or deployed to help close the 5.4 billion gap. And if I may close that
+
+[**(01:16:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4593s)
+
+
+
+loop, could you tell us what would happen if these funds are not drawn down on from your perspective? Well, I just think without engaging in hypotheticals, but I think that at the end of the day, we have to have a balanced budget. 45 years of consecutive balanced budgets and we are going to continue having balanced budgets in the City of New York that are GAAP compliant. And so we are going to exhaust every opportunity, savings and revenue, working with our state partners to make sure we achieve the fiscal stability so that government can work for New Yorkers. Great. Thank you. And just really quickly following up on the savings part of CM Avilés' question, one of the things that I had actually asked a few of the agencies about is whether they could look into something like group purchasing because with many things, whether it is supplies, health insurance, whatever it is, we have so much buying power as a City. So is there a way, and this is something that I asked at the education hearing as well, and the Chancellor was smiling because he is like, actually, we are having those conversations right now. And I know that back when I was on the social service side, DFTA actually used to do this and also extend that same rate to their providers. I forget how long ago this was now at this point. And so just wondering if you are having those conversations to look at that as a possibility. Yes.
+
+[**(01:18:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4682s)
+
+
+
+Okay.
+
+[**(01:18:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4683s)
+
+
+
+Yes, absolutely. Chair, I just to
+
+[**(01:18:05)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4685s)
+
+
+
+elaborate, we have the DCAS has this office of citywide procurement that essentially is a central requirements contract for food, supplies, fuel, all the things for goods and services that the City agencies might need. So that is a central sort of place that agencies can procure those kinds of goods. But also each agency and especially with the chief savings officer effort, they are looking at exactly those things, right? What contracts can be negotiated? Can we get better pricing? Can you partner with City agencies to then basically do one procurement if you have to do something? What are the commonalities? All of those things are currently being pursued.
+
+[**(01:18:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4729s)
+
+
+
+Got it. Okay. And then just going really quickly back to the AI question because I know that there are AI and technology companies that are actually working with other municipalities across this country to look at how they can partner with government to create more efficiencies. And one example I was giving at the NYPD hearing was how I know a firm that worked with CPD to actually create a system to modernize and bring online their overtime as well as how they plan out their shifts. And so it created this whole transparent system that really saved a lot of dollars because they are not doing multiple shifts at the same time plus looking at overtime. And it was actually very fascinating looking at the system that they built. And so I am just wondering if we are looking at those kinds of options for the City as well.
+
+[**(01:19:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4787s)
+
+
+
+Yeah, I think as AI technology emerges our government just like governments across the United States are grappling with how to harness it in a way that could be more efficient and could help with sort of data collection etc. to make sort of City employees be able to access data in a faster way and do their jobs. It is not by any means an approach nor should it be a way to eliminate the valuable public servants that are working for the City of New York. So we are looking to harness that in a way that can help scrape data, put reports together, have that analytical tool to be able to do that while supporting the ability to have our talented, dedicated workforce continuing to do it.
+
+[**(01:20:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4841s)
+
+
+
+Definitely. And I actually think it is an opportunity to sort of expand and increase the workforce or actually give them different types of skill sets. So would love to have that conversation at another time, but okay. Sorry. So we are going to move on to CM Hudson followed by CM Brewer.
+
+[**(01:20:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4857s)
+
+
+
+Thank you so much Chair and hello Director. The Council was pleased to see that the preliminary plan addresses the chronic underbudgeting for City FEPS and cash assistance increasing funding in the current year and the baseline budget for both programs starting in fiscal 2027. How does OMB forecast the growth of the City FEPS program and can you please provide a breakdown of the primary factors driving the cost increases projected across the plan period? Sure. Absolutely. So what we have done and I am going to start and I will turn it over to our Deputy Director Patrick Delfano here. We are looking at with the underbudgeting first of all about 2.3 billion was added over the over two years. So in this year it is about 1.8 billion growing to 2.2 billion next year, 500 million and pretty much as you see growing out at about that clip about 500 million through the plan. We see
+
+[**(01:21:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4914s)
+
+
+
+that there are drivers which is the coming out of the need for stable housing, right? And we see that and we have talked about before how there have been families with children that we have seen exit shelter because of the vouchers, but we have also seen the single adult population increase. And by the way, the single adult population, the payment for that on the shelter side of the cost is mostly City tax levy. The state contributes $70 million as a capped appropriation when those costs are well over a billion. So we are seeing that projection throughout, but out of the need, we have seen growth rates, monthly growth rates of about 4% each month. They start to dissipate as we are going into the out years, but they are off of higher bases. So you are seeing those numbers continuing to grow. Patrick, I do not know if you want to add anything. Thank you. So I mean, that basically covers the point, but the way we forecasted out, like you said, we have recognized the budget in the baseline in this plan. We are looking at 3 to 4% growth month over month. We are taking that into account when we look outwards. The population that is leaving the case load is not very large. It is about 10% year-over-year and we are looking at the rental standards when we factor these things. So that is where we have come up with what we have added in this plan for the baseline.
+
+[**(01:23:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4993s)
+
+
+
+Great. Thank you and I appreciate all
+
+[**(01:23:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=4994s)
+
+
+
+of that. Then that is a perfect segue into my next question which is when do you believe the program may plateau? What we are trying to do is look at ways at the same time that we are engaging in discussions about the expansion, what we are looking at is ways that we are talking about management of the program as it currently exists which could yield efficiencies, yield savings. We are looking at things like rent reasonableness, for example. We are looking at things like checking legal rents against HPD data. We are looking at ways of perhaps finding different pathways. Maybe there are rental arrears that could be applied as opposed. Right. So all of those things could lead to a plateauing, but they all have to take hold and we are working with the new commissioner and her team to figure out if we can introduce those management techniques. Okay. So no explicit expectation in terms of date, time frame, anything like that. I am just clarifying for the
+
+[**(01:24:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5058s)
+
+
+
+Yeah with those we hope that we can start to get there in fiscal 27 and implementation of all these things we want to implement immediately so we can start to see plateau. Right now the financial plan does not show that. Okay.
+
+[**(01:24:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5069s)
+
+
+
+They have to take hold for it to show that. Okay understood and then have any
+
+[**(01:24:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5073s)
+
+
+
+programs been implemented to help long-term City FEPS voucher users reach self-sufficiency? Yes yeah I think that particularly for the cash assistance those that are also receiving cash assistance there is employment engagement opportunities. And so that is clearly something we want to continue and replicate. Because we do have to have that engagement to ensure that at some point after the voucher is no longer available that there is that pathway to self-sustain. And then should that pathway to self sustaining or sustainability be challenging I would say will OMB add funding in the executive plan to support services for City FEPS clients to help reduce the length of time people remain in the program? That is something we will look at and work with our new Department of Social Services on. We want to make sure that we have a robust effort to make sure we are engaging folks who need to be stably housed. So it is something we will look at.
+
+[**(01:25:35)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5135s)
+
+
+
+All right. I have two quick questions on the same topic. How does OMB forecast growth for cash assistance? And can you provide a breakdown of the primary factors driving the cost increases across the plan period? Sure. So on cash assistance, it is really driven by and I will turn it over to Patrick in a second, but it is really driven by caseload. And we have seen that particularly after COVID continuing to increase. We have seen also some recent reductions, but I think cash assistance was also another place where it was significantly underbudgeted. And Patrick, I do not know if you want to talk about the forecast. Sure. So coming out of COVID the cash assistance caseload increased at a significant rate but there are also important components to think about in cash... I am sorry do you mind just putting the microphone a little bit closer to your mouth? Is that better? Yeah. There are important components in the cash assistance caseload so we get reimbursed at different rates for different case types so we look at the different case types, the growth and what has happened over time and that is how we forecast out. Like the budget director said in most recent two to three months we are actually starting to see a flat line and a slight declination of the caseload. Okay, great. And chair, I have one last question if I may, and I would like to be added to the second round. Thank you.
+
+[**(01:26:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5212s)
+
+
+
+Does OMB anticipate needing more staffing to handle the administration for the projected increase in demand for cash assistance child care vouchers? And if so, will more positions be added in the executive plan?
+
+[**(01:27:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5224s)
+
+
+
+It is something we are looking at. We are looking at the state and the executive budget included funding that helps us with the cost for childcare vouchers. Now, we know that there may be additional funding that may be coming. So we want to make sure that needs are met so that we can sort of reach families to avail themselves of those vouchers. So, it is something we are talking about for the executive.
+
+[**(01:27:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5247s)
+
+
+
+Great. Thank you so much. And thank you, Chair.
+
+[**(01:27:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5250s)
+
+
+
+Thank you so much, CM Brewer, followed by... Oh, and we have been joined by Majority Leader Abreu.
+
+[**(01:27:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5256s)
+
+
+
+Thank you very much and thank you for your clear testimony. It was very clear. I have a question about the draw downs. Now, you have got the four different buckets. I know them well. The retirees, I am very supportive of the current retirees. They are certainly very active in my district and elsewhere. How are we projecting for them? I obviously do not want to draw down if they are going to be impacted that we want their senior care. That is my position. So how are you impacting if you are drawing down from that or from any of the other buckets? How would they be impacted or negatively impacted? How are we going to deal with the retirees? Sure. So, we feel the same way about our retirees. The draw down will not impact retiree health benefits and the continuation of that continues. The payout in terms of what is paid every month to pay that will continue and the draw down does not impact that. And in fact, we are looking at whatever is drawn down the financial plan includes that being replenished. So the 229 million for the retiree health is being replenished in 28. The draw down of 229 is happening in 27. Okay. And no impact whatsoever on the payment of retiree health benefits. All right. Thank you very much.
+
+[**(01:28:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5330s)
+
+
+
+The other question I have is just in terms of making sure that our oversight agencies like DOI and the special commission on commissioner of investigation at DOE which people forget about. Obviously I am concerned about 911. I want to make sure that those informations that have been mandated by the law that we passed get done in a correct span of time. So are you committed to funding the three million or whatever it takes at DOI and I have to say the special commissioner of investigation is only a 6 million dollar agency and it is a 40 billion dollar oversight job that they have at the DOE. So are you committed to funding these oversight agencies? There are other ones CCRB etc. Yeah, I think that we are actively talking about that now. I think you have a highly competent nominee for DOI that I know has been that will be before you to be able to look at all the various places that that can be supported. You mentioned the 911 records piece. That is something we are actively talking about of how that can be supported and their needs just like other agencies will make sure that they are evaluated for executive and see what is possible. Okay? Because I do not think that the DOI can do the work without the funding because they are so strapped. So I strongly urge that. In terms of the law department, the plan as you know talks about 5.3 million for 102 positions. I think you know that and these are expected to save 125 million in tort liability. Can you explain how the savings was calculated?
+
+Can you also talk about how these new positions factor into the number of vacancies that the law department will be required to eliminate as part of your basically savings plan. And then also we are always concerned about targeting the amount for the law department as part of the citywide savings mandate in terms of torts and all of the wonderful people who sue the City. Yeah. So a couple of things on that CM. So we are putting forward the plan for 200 once it is fully ramped up 200 new attorneys in the law department. And when you look at the judgments and claims budget, it was I think six years ago was about 600 million and now is at about 1.3 1.4 billion. Significant significant increase. So one of the reasons there are many reasons why we want to hire up at the law department. But one of the main reasons is to be able to introduce reforms that can help us that can help reduce the judgments and claims number. And so that can include challenging more cases where appropriate, right? It can also include de-risking by looking at all of our agencies and working with them so that we reduce tort liability. So there are a number of different things that corp counsel Steve Banks is looking to do to assist in drawing in reducing the judgments and claims number and they will not be subject to any of the reductions. The 200 lawyers are there for a reason and we do not want that to be the subject of any reduction.
+
+[**(01:32:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5535s)
+
+
+
+All right. So you think it is going to work in terms of the numbers that you are discussing?
+
+[**(01:32:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5539s)
+
+
+
+I think out of necessity it must work and I know we have a committed partner at Corp Counsel to make that happen.
+
+[**(01:32:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5544s)
+
+
+
+Okay. Local Law 140 of 2023 requires that the City have an all electric fleet by 2038. I think we know that and there are certain requirements. So I have a great respect as you do for the new DCAS commissioner. I have known her for a long time. But has DCAS requested additional expense? In other words, do they... they brought I think they need it in order to accelerate the pace of these EV purchases? And how do you balance the City's legal mandates with the local laws that have budgetary constraints? We want a fleet, I guess, as long as Mr. Trump lets us have what we need in terms of EV. But how do we balance the need for the law and the funding in terms of the fleet?
+
+[**(01:33:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5588s)
+
+
+
+Sure. I think we share your desire and of course the commitments of the local law. We have about 10 million per year in the plan for purchasing electric vehicles for light duty. We want to be able to work... she I agree. She is a fantastic commissioner. I have worked with her very closely over the years in City Hall.
+
+[**(01:33:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5607s)
+
+
+
+Not as many as I have.
+
+[**(01:33:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5609s)
+
+
+
+Okay, you got me on that Council. You got me on that. Not as long as I have.
+
+[**(01:33:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5614s)
+
+
+
+CM Restler too and all of us. But so yeah, I mean we are working together with her on that to make sure and really we want to make sure at large just big picture second largest greenhouse gas emissions right is coming from the cars and so we want to make sure we are electrifying and greening our fleet.
+
+[**(01:33:53)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5633s)
+
+
+
+Okay. Thank you, Madam Chair.
+
+[**(01:33:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5635s)
+
+
+
+Thank you. Okay, next we have Majority Leader Abreu followed by CM Epstein.
+
+[**(01:34:01)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5641s)
+
+
+
+Thank you, Madam Chair, and thank you, Mr. Director, for coming to testify today. Local law 195 of 2019, also known as the streets plan or the transportation master plan, mandates expansion of the City's biking, bus, and pedestrian safety infrastructure. DOT's most recent report released last week states that the agency only built 20.8 miles of protected bus lanes in 2025, once again short of the 20 miles required annually. DOT was also required to install transit priority signal at 1,000 intersections, but completed only 769. The report noted that DOT installed roughly 18.2 miles of protected bike lanes in 2025. At our preliminary hearing, DOT was hesitant to commit to meeting all the mandated requirements for the streets plan, though it is the law. The baseline 5 million in additional funding for bus and bike lanes is a good start, but I believe more is needed. Will OMB allocate additional funding beyond the 5 million to ensure that DOT has what it needs to meet the requirements of the law?
+
+[**(01:35:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5704s)
+
+
+
+So, thank you, CM, and for your strong advocacy for our transit network for our transit network. We really do appreciate that. As you noted in the preliminary budget, we did add 5 million. We have our significant budget challenges. We would like to add more. We believe in creating more bus lanes. We believe in creating more bike lanes and all the things in the streets plan. Two-thirds of the DOT budget is pretty much dedicated one way or the other to streets plan. We want to put more in. We want to put more in for open streets. We are able to put in another 2 million in the preliminary budget for that. We need to be able to address our fiscal challenges, understand how we can make those investments which are important to New Yorkers. So, as part of the executive budget, we are going to evaluate what kind of additional investments we can make. But clearly, what happens in the state budget is going to be a main determinant of what we can do.
+
+[**(01:36:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5760s)
+
+
+
+I mean, look, I believe that the streets plan is also important and my belief is important, but the law is also just as important. And so, are you committed to make sure that by the executive budget DOT has what it needs to come into compliance with a law passed by the City Council in 2019? We are going to evaluate the City's financial picture and work with the agency to see what additional investments we can make.
+
+[**(01:36:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5784s)
+
+
+
+All right. It does not sound like the answer I would like for faster and for faster buses in the City. I would like for there to be a commitment by executive so that Commissioner Flynn has what he needs. I will move on. We had just we had the 12th snowiest winter on record here in New York City, assuming we do not get any spring blizzards. So needless to say, our roads are in need of a lot of maintenance and resurfacing work. However, according to the PMMR, the average cost to resurface a single lane mile costs 221,693, a substantial 15% increase in just two years. DOT has stated that the cost of petroleum and the fluctuating cost of oil play a large role in the cost of resurfacing lane miles. How will global tensions and the recent spike in oil prices affect DOT's resurfacing operations? It is a real concern. I mean, we have to
+
+[**(01:37:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5837s)
+
+
+
+look at there is still in the budget the target of the 1,150 surfacing miles. We want to make sure the total resurfacing budget about 259 million in IFA plus the 12.3 million in capital for a total of about 271 million. We are concerned that some of the oil price spikes may have on that number. We are watching it closely. Clearly, we know and there has been the pothole blitz and everything that we are looking to do after a brutal winter to make sure our roads are as smooth as possible. So, we will continue to watch it and again with available funds, if we need to replenish, we will look at that and we will do... Does OMB plan to allocate more money to DOT in fiscal 27 to account for the rising cost of resurfacing lane miles?
+
+[**(01:38:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5887s)
+
+
+
+That is something that we are looking at as part of the executive budget. Again, I think that if we are looking at price spikes in certain things because of inflationary pressures or because of oil cost drivers, then we will look at that as sort of what we need to do so they can meet their goal of 1150 surface lane
+
+[**(01:38:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5903s)
+
+
+
+miles. So, Speaker Menon and Minority Leader Carr and myself wrote a letter to DOT last week. From basically back in under 2017 under Mayor de Blasio, he had funded enough to accomplish 1300 miles in resurfaced lane miles. It seems that the new targets are 1150. I would like to see DOT get back to resurfacing 1300 lane miles a year. DOT stated during our preliminary hearing that to achieve this they would need increased headcount and resources. Would you like for this administration to commit the 1300 lane miles per year? We would always like to do more the fiscal challenges that we have. We have to evaluate how we could make room for that in addition to all the other priorities that we have. And I will just close with a statement. I would like to see OMB commit more additional staff and resources needed so that the City can get back to resurfacing 1300 million miles per year. And of course that we have additional resources for addressing potholes, more resources to address the contracts with street light repairs which have seen increased timing to getting basic street lights getting done and of course the funding that we need for the streets plan. Thank you so much, Madam Chair.
+
+[**(01:39:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5977s)
+
+
+
+Thank you. Okay, we have CM Epstein followed by CM Carr.
+
+[**(01:39:43)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5983s)
+
+
+
+Thank you, Chair, and thank you for being here. I want to talk about the DCWP budget. We in the preliminary budget, you proposed an 8% reduction in the agency's budget. I am wondering what the logic and justification for that cut was.
+
+[**(01:39:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5999s)
+
+
+
+Well, I think a couple of things. One was the adopted versus the preliminary and what we are looking at making sure that they have what they need to comply with various core mission updates including recent legislative mandates. We did add money for about nine heads to be able to do that and also I believe there was a cancellation of a contract that also was no longer necessary and that is why it was brought down. Yeah, I do want to talk about the laws we passed in recent years and I know OMB has made suggestions in additional headcounts and the reading I have read based on all the laws that Council has passed that DCWP would need about 321 additional head counts to kind of keep up with just the laws that we passed in the last couple years. That seems like an accurate calculation based on what OMB's estimates have been. We are looking at that estimate. The laws that were passed are important laws. We know that it really fits into the worker protection piece of the agency. And we need to make sure we support that one way or another. Is 321 heads the right number? We are assessing that with the new commissioner and seeing what that number should be. It does seem like we need additional heads just to the deactivation rule laws. Basically the path we will need additional heads. Can you agree? Maybe 321 is not the number but it is not a reduction, right? I think that we have to look at that number and see what is needed. We added nine.
+
+We know somewhere between nine and 321 will be probably the sweet spot. Can you say how much revenue DCWP has raised for the City in 2025? I can get back to you on that. How about in 2026? I know the mayor just yesterday announced that a settlement on a case would brought in additional revenue for the City as well. They are clear that there is a lot that we can do with DCWP to include fines and penalties and restitution from companies that clearly violate local laws etc. And the mayor has been very clear on his goal to make sure we are working closely with the agency to protect... Yeah. So I look I mean I think from our perspective it is an opportunity to see those fines and penalties but it is more also about the justice part of it as well. And so we are committed to that. The question is the resources that we are committing to it given the financial challenges. Yeah. I mean, I appreciate that because
+
+[**(01:42:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6151s)
+
+
+
+investing in DCWP could not only bring additional revenue into the City, but tens of millions of dollars for New Yorkers who are being stolen wages and tips and other resources. So, that could bring additional revenue as well into the City. Would you assess that to be correct? If people make more money that they pay more tax could the economy... certainly it could, right? The extent of that we have to see and we have to see what investment we can do to unlock that potential for that additional revenue. Right. And whether or not 300 is the right number is something we have to see with the budget. I know you are aware that the mayor proposed last year before he got into office it was going to double the DCWP budget. Is that something still in the conversation at this point? It is always a goal to be able to meet the commitments. And we will hopefully emerge from this financial challenge in a capacity and have the ability to do so. Yeah. I would encourage us to look at
+
+[**(01:43:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6210s)
+
+
+
+those revenue raisers as options because I think while it is an investment in staff, if you get a I am just making up a number, let us say a 5 to 1 return on the staff investment on revenues coming back to the city, you know, each lawyer can bring in those additional revenues to help improve the city coffer. And that is what we have seen really over the last couple weeks of the administration that a deep investment in DOI could result in additional revenues. And we are talking about how we have opportunities to raise revenue. This seems like a clear place where we could have additional revenue sources coming into the city. Agreed. Right. And just on additional revenue, I know we have talked about it has been floating in the ideas of parking revenue. I am wondering where that conversation is at this point, whether it is through residential parking or parking permits or increasing metered parking. It is a good policy question for discussion and something that is being discussed, but there are no immediate plans to move forward on that.
+
+[**(01:44:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6269s)
+
+
+
+And do you think the city has the authority to do either a residential parking or parking meeting system under its own authority as opposed to going to for state legislation? Yes. It is something we can talk to the law department about. All right. Thank you, chair.
+
+[**(01:44:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6284s)
+
+
+
+Oh, right on time. Thank you so much. And we have CM Carr followed by CM Krishnan.
+
+[**(01:44:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6291s)
+
+
+
+Thank you chair director. Good to see you. Good morning. I want to just first associate myself with the comments of the majority leader about our road resurfacing budget. It is absolutely an imperative particularly given the combined state of the winter that we just had with the reduction in the pace of resurfacing since 2020. And I think that it actually could long-term mean better savings for us if we do this now because the worse our roads are, the more comptroller claims get filed and that cost the city money. So I think we should absolutely have that in mind as we are talking about resurfacing this budget cycle. But I want to focus a little bit on, you know, wealth creation in the city and how important it is. And I asked this question to our colleagues at IBO and also the comptroller the other week. According to the citizens budget commission report, the city's share of millionaires, people who are very important for the personal income tax collection the city has fell 31% 2010 to 2022. And they say that if we had maintained that share nationally, we would have collected 13 billion more in personal income tax revenue. So given what the mayor is pushing in Albany with respect to these revenue enhancers, these new taxes, how can we justify that when it may be self-defeating to tax people who can just get up and leave?
+
+[**(01:46:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6368s)
+
+
+
+So thank you for the question, leader. Our data shows that in 2023 there were about 36,000 millionaires filed in New York City and that in 2024 the latest data we have available increased to 42,000 millionaires. So we are seeing data that is actually showing growth in the number of millionaires here. Well, it is not a question of there is no growth, right? There is growth everywhere. Everyone is showing record numbers of wealth creation, but we are slowing down. We are not growing as fast as other parts of the country. And that is the issue because people are taking advantage of better situations with respect to taxation. So, to be clear, we want our millionaires to be here. We want our millionaires to stay here. We think that we are pursuing an affordability agenda that lifts quality of life here, affordability here that makes the city a vibrant and diverse place to live and to work and so on and so forth. So we would invite more millionaires here. The question is how can we make sure that we address the significant budget challenges that we have? The mayor has put forward a vision very clearly to say that for those earning more than a million dollars, a 2% increase in the city personal income tax rate could help us there.
+
+[**(01:47:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6448s)
+
+
+
+That means someone who is earning $1 million could pay $20,000 to help address the various core functions of government and the affordability agenda. I think that, you know, it is very clear that these folks are very mobile, right? They see a tax situation that is disadvantageous, they can leave. And the alternative that was proposed, the nine and a half percent increase on property taxes, which I know the mayor characterized as something that he did not want to do, is deeply troubling to many people. You were a longtime Staten Islander yourself. You understand the perspective of those folks? So, I mean, is not the real thing that we have to do here not to tax more, but to simply find more savings? And so, do you expect to find more than the 1.7 billion that was announced this morning with respect to the chief saving officer findings? The 1.7 billion is definitely something that is in the preliminary budget and our goal long term is to continue to find savings beyond that. So that is the goal, but I think when we come to the point of to be very clear, we believe in property tax reform and that is what we want to be able to push. I know it is very important to Staten Islanders in your community. And so that is what we are working on a proposal there. The proposal to increase the average tax rate from 12.283% to 13.45% is something that was included in the executive budget out of necessity to balance based on the charter mandated responsibility.
+
+[**(01:48:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6534s)
+
+
+
+Do you have an expectation of a number a figure that you would find in addition to the 1.7 billion going into the executive plan? The 1.7 billion right now we feel as though we have taken it as far as we can go to say those savings without cutting critical services that we all care about. So, we will take it as far as we can go to find the efficiencies, to find the contract redundancy, to find the program effectiveness and make sure that that continues. And if it is not effective, then we move away from those and reinvest those dollars. So, all of those things are being pursued. 1.7 billion is what we have now. We can go beyond that, but you are really going to start talking about cutting services at this point. And what is the status of conversations with Albany about property tax reform and other mandates like the classroom size issue, which is obviously also a major cost to the city? On property tax reform, we are working on a bill. We are working on legislation that builds on the advisory commission on property taxes recommendations and we are looking at other pieces to put in there in terms of targeted homeowner relief.
+
+Beyond that, on class size, as the chancellor alluded to the other day, and as has been reported, we are working with the state to ensure that first we believe in class size and we believe in what that can mean for educational outcomes, but we also are in discussions to say what can we do about the timeline, what can we do about the compliance targets, what kind of exemptions that may be existing, working very closely with our public unions and also working with other stakeholders in the Department of Education. So, working with the state on that and we will see what the outcome will be in the final enacted budget. Thank you, director. Thank you, Mr. Chair. Sorry. Can I just ask a follow-up clarifying question because I know that you had just mentioned to CM Carr that there was 1.7 billion in savings that was in the prelim, but I
+
+[**(01:50:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6646s)
+
+
+
+thought it was just the 700 million in
+
+[**(01:50:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6648s)
+
+
+
+savings in the prelim and then today or yesterday was it the mayor had announced 1.7. So, can you clarify the difference? Sure. So, it is 1.7 billion in over two fiscal years. Fiscal 26 and fiscal 27. The FY26 number is 700 million. FY27 number is a little over a billion. So in total 1.7. Okay. And sorry we have also been joined by CM Pierina Ana Sanchez, as well as CM Ariola, CM Mealy. And next we have CM Krishnan, followed by CM Wong.
+
+[**(01:51:25)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6685s)
+
+
+
+Thank you so much, Chair and Speaker, and thank you, Mr. director for your testimony today too. I have a few questions. You testified before about the department of investigation. And as you mentioned as well leadership coming in. I had a good meeting with the proposed nominated director of investigation. We had a good budget hearing last week or the week before too. But it is very clear that DOI is with such a sacred and important mission that it has in our city government. It is doing a lot and more and more so with far less from attorneys as chair Lee mentioned before to investigators that are doubling up and being pulled into different cases. And we have got to do a lot to really correct the funding approach in the past which saw them lose a lot of support they critically need and support the work that they are doing. But right now in the preliminary budget, OMB had proposed an OTPS PEG for DOI of 664,000 in FY26 and 1.1 million in FY27. They already do not have a lot of money to begin with. And I would argue it not nearly enough given the size and importance the mandate they have. So,
+
+[**(01:52:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6754s)
+
+
+
+how does OMB see DOI being able to fulfill this OTPS PEG while also addressing its core functions that I know you all support too? Has there been consideration of doing away with this peg and finding ways instead to increase the department's budget that is long overdue?
+
+[**(01:52:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6771s)
+
+
+
+Sure. Thank you, CM. So, I think we all agree that we want to make sure the DOI is appropriately resourced to root out corruption wherever it exists. We know that the baseline budget is approximately $50 million. We do have the fiscal challenge that we have. We want to be able to make sure that the agency is functioning in not only sort of supporting the inspectors general throughout the agencies but also on more centralized approaches. Again, the 911 records was one thing that was mentioned. So, we are going to be talking to the nominee for DOI highly competent individual and seeing what her vision is and what her needs are and decide for the executive budget what we can do.
+
+[**(01:53:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6821s)
+
+
+
+I appreciate that and my recommendation would be, you know, given all the challenges we face to not balance it in any way on DOI just because, you know, historically we are in a new administration now. But the fact of the matter is given the extent of corruption under the last administration the level it reached to at city hall not seen since the Tammany Hall era there is no coincidence it was far more than coincidental I should say that as these investigations continued where DOI was a critical part making referrals to the federal prosecutor standing with SDNY at the indictments the budget of DOI also saw a nose dive during that time too and this is an agency whose independence has to be protected cannot be compromised in any way. But the fact of the matter is over the last four years we have seen its budget reduce substantially as it has done more and at even much higher levels of government. And stepping back for a second you know how do you envision approaching this? I mean, one thing that came up in the hearing, too, was other cities tie their DOI budget to a percentage of the city budget, which prevents any sort of political interference, which I will say is very clearly happened under the last administration, but it prevents any of that and it allows DOI to function and do its independent job of rooting out corruption based on an objective measure like the city budget. Have you all thought about that?
+
+How do you see that or are there other perspectives you have all adopted about how to increase the DOI budget over time?
+
+[**(01:55:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6913s)
+
+
+
+Yeah, CM, I think we are happy to have further discussions about that. I know it is a model that exists here in the city and in other offices that are pegged to a percentage of X budget, etc. So, it is something that we are obviously happy to talk to you more about, happy to meet with you and talk more about that
+
+[**(01:55:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=6933s)
+
+
+
+and look forward to that conversation, too. And then shifting gears, I know that our incredible parks chair will focus more on the details of this too. But I as representing the district the least amount of green space in all of New York City, obviously the parks budget is very very important to me too. The challenge has been over the last four years, you know, we have been in a world where the parks budget has not substantially or in any way really increased since we got the highest budget for parks four years ago. A lot of it relies on one shots. And that is as I always say, the parks budget is a workers budget. And the one shot should not be really funding core services, but really building on baseline services. So, how have you all I know this is important to the mayor, too. How have you all thought about, you know, there was not any increase really in the parks budget in the preliminary budget, but how can we increase that budget and move away from a world of one shots for core positions like rangers and things like that? Absolutely. the mayor has been very clear about his commitment to parks. And clearly the advocates call for the 1% for parks, which we have looked at as certainly a goal that we want to get to. And we will make more investments in parks over the course of our term for sure, but we are looking at the executive budget to see the financial challenges that we face, what kind of investments we can make in the executive budget as we move forward.
+
+It is a goal that we share to make sure the investments are there. And we just have to make sure we emerge from the fiscal challenges here hopefully with the suite of options and state support and the enacted state budget so we can start to make those investments towards that 1% goal. Hope to see us get there. Thank you.
+
+[**(01:57:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7037s)
+
+
+
+Thank you. Thank you, Chair. Thank you, CM Wong, followed by CM Brooks Powers.
+
+[**(01:57:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7042s)
+
+
+
+Thank you, Chair. Thank you, director. I understand the mayor wants to or he supports a rent freeze, but at the same time that in this budget, I am hearing the property tax increases. And I am convinced that you increase property taxes, the property owners would just pass these expenses to the tenants and small businesses, hence increasing the rent. It seems to be obvious. And then we cannot have any rent freeze if we want to keep raising the property taxes. Is that something you agree on or the goal that we have is for property tax reform to provide the relief that we need from a system that is universally understood to be unequal to be opaque to be regressive. And that is really where we are focusing our efforts.
+
+[**(01:58:16)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7096s)
+
+
+
+Right.
+
+[**(01:58:16)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7096s)
+
+
+
+Okay. Director, I want to be very clear. New Yorkers simply cannot afford another tax. Not a property tax increase, not an income tax increase, not a death tax, no new fees to park on their own streets. And enough is enough. At a time when the cost of living is already through the roof, government should not be reaching deeper into people's pockets to solve a problem it created. This is not a revenue problem. It is a spending problem. And my first question to you is that if the property tax increase or income tax changes and other proposals do not happen, what is the actual plan to close this budget gap?
+
+[**(01:59:06)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7146s)
+
+
+
+So our focus right now is working together really alongside the Council as well to work with our state partners and make sure that the suite of options that were presented both on the revenue raiser side and also on the cuts and cost shift reversal side make their way into the enacted state budget. We are very appreciative of the assistance in the governor's executive budget and in the legislature's one houses already that portends a solution and so we want to make sure that we emerge from the state budget discussions on a more sound financial footing.
+
+[**(01:59:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7186s)
+
+
+
+Okay. Has the OMB analyzed how property tax increases are passed through to rents, commercial leases, and everyday costs? The advisory commission on property tax
+
+[**(01:59:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7199s)
+
+
+
+reform looked at this issue and they looked at and they referred to the fact that the incidence of the property tax on renters is difficult to pinpoint. But there is an understanding that leases, commercial leases especially that go to small businesses do have that. And so there is some level of impact on renters that we have to look at as part of overall reform.
+
+[**(02:00:25)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7225s)
+
+
+
+Okay. Do you believe that increasing taxes make New York City more or less competitive?
+
+[**(02:00:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7234s)
+
+
+
+We think that the suite of options that we put forward for revenue raisers, including tax increases on the most profitable corporations, could help, for example, achieve in addition to state funding already committed, universal child care, for example, 1.2 billion was committed. We thank the governor and we thank the legislature for their commitment to child care and employers would welcome universal child care to improve the talent pool here in the city of New York, improve the quality of life to be able to draw on that talent pool for their corporations. So that is those are the proposals that we put forward which we think could enure to the benefit of all who have a vested interest in making sure that the city thrives.
+
+[**(02:01:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7288s)
+
+
+
+Thank you. I have one minute left. So one more question. The so-called rental payment on water bills is essentially a backdoor tax where money collected through the water and sewer bills is diverted into the City's general fund instead of being used for the system people were paying for. We reached out to the water board and DEP and their answer was go ask OMB. So my question is why is OMB responsible for this policy and who ultimately decides how much is taken from rate payers each year? It is true that the rental payment is part of the revenue forecast. It has been for the past several years. We are not... it is not impacting rates like it has no... we do not know what the direct correlation is with rates. We would like to allow the water authority to
+
+[**(02:02:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7352s)
+
+
+
+keep those rates at some point or the rental payment rather at some point but right now it is included in the revenue forecast and at some point when we emerge on a more stable financial footing then that may change.
+
+[**(02:02:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7367s)
+
+
+
+Okay. Thank you. Thank you chair. I have more for round two. Round two. Okay. We have been joined
+
+[**(02:02:53)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7373s)
+
+
+
+by CM Nurse. And next we have CM Brooks-Powers, followed by CM Riley.
+
+[**(02:02:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7379s)
+
+
+
+Thank you, Chair, and hello, Director Solomon. It is a pleasure. I am going to try to race through my questions, so I am going to just ask them, and I can repeat anything that you need me to. So thanks to the strong advocacy from the Rockaway community, we have been able to secure $50 million in capital funding for the Far Rockaway Trauma Center. Does this administration commit to further advancing this project and committing additional capital dollars to the trauma center in fiscal year 27? In the administration's preliminary budget for fiscal year 27, there are funding cuts to critical alternatives to incarceration and re-entry programs. Why is the administration deciding to cut this funding? Given the need to reduce the Rikers population ahead of the transition to borough-based jails, does the administration commit to increasing this funding in the executive budget? This administration has championed the need for more affordable transportation. One of New York City's best tools to make transit more affordable is via the Fair Fares program. In this preliminary budget, the administration does not include any additional funding for Fair Fares. Can the administration explain why Fair Fares program has not been expanded from the 150% poverty level today up to 200% of the federal poverty level and beyond? How much funding is this administration committing to affordable home ownership opportunities and does the administration look to increase the funding in the coming fiscal years?
+
+My last two questions, this is regarding the insurance reimbursement state and federal issues. So, the federal HR1 Bill includes several provisions that eliminate federal funding for specific Medicaid recipients. As a result of the Bill, the federal government will no longer provide funding for certain groups of legally present non-citizens beginning on October 1st, 2026, nor will they provide funding for those who are unable to meet work requirements starting on January 1st, 2027. Approximately how much insurance reimbursement revenue do you anticipate Health and Hospitals will lose when these federal cuts take effect? And assuming that the state will not be able to cover all lost funding for Medicaid recipients, what is the administration's plan to support Health and Hospitals to make up for the lost insurance reimbursement revenue for its patients who will lose their Medicaid coverage? And again, I can repeat anything you need me to.
+
+[**(02:06:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7562s)
+
+
+
+Thank you, CM. So a couple of things, let us take them in order. The Far Rockaway Trauma Center, so there, as you noted, there is 50 million in capital that is there. There is also 300,000 in expense. We know it is critical to your community and we want to make sure that we are looking at as part of the executive budget ways that we may be able to go further than that. With respect to alternatives to incarceration, I do not believe that we cut that. What we are saying is the preliminary budget is the opening salvo. We understand the connection and correlation with the effort on borough-based jails and so we have to look at that with our respective agencies and see if that is something as well we can fund in the executive budget. The affordable transit options obviously Fair Fares... clearly this mayor has been very clear about making sure transit is affordable and accessible. He has talked about Fair Fares as a great legacy of the administration and Council working together to make sure the program is expanded. We are looking at that obviously the one-time funding that was included at ADOP, not the opening salvo and prelim, but we are looking at Fair Fares to be able to do that while at the same time pursuing fast and free buses, home ownership as well. Obviously, we want to do what we can to assist there.
+
+There is a lot going on at the state level as well and look at what has been included in the one house budgets and so we are hopeful that there is also a state component to this where we can help on that. We believe it is important that we are helping particularly first-time home buyers be able to continue that. And then on HR1. So we have done a number of things on SNAP, like I said. Not only SNAP eligibility specialists, we added in the preliminary budget. We also tripled the food connection program at H+H at 54 million. On the Medicaid piece, we talked a little bit earlier in my QA sessions about the CMS and how they approved on the ELISA population to make sure that the state is not supplanting with its general fund those costs and that hopefully is going to lead to no trickle down effect on H+H when it comes down to the impacts of HR1. So we want to make sure Health and Hospitals is fully funded. They are the first line for many New Yorkers on healthcare. So we will continue to hopefully work with the state and make sure those impacts do not trickle down to the City.
+
+[**(02:08:43)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7723s)
+
+
+
+Thank you, director, for your direct responses. I really appreciate it. It was worth the wait. Thank you.
+
+[**(02:08:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7729s)
+
+
+
+Thank you.
+
+[**(02:08:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7731s)
+
+
+
+Thank you, CM Riley, followed by CM... he is not here. Okay. CM Riley, followed by CM... he is not here either. Okay. CM Riley, just
+
+[**(02:09:01)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7741s)
+
+
+
+Thank you, Chair Lee. Good afternoon, Director. Your testimony highlights significant underbudgeting and the need to close fiscal gaps, but we also know that housing production is one of the most critical long-term cost drivers. So how is OMB ensuring that the Department of City Planning is resourced both in staffing and capital planning to accelerate rezoning and land use actions that are happening right now within New York City? Absolutely. So we wholeheartedly concur with the goal on housing. I mean housing it just runs the gamut. Obviously we for DCP we funded a few
+
+[**(02:09:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7780s)
+
+
+
+things including sort of seed funding from the previous rezonings etc. We also included some money there for some census work that they need to do. With respect to the housing plan large we are looking at the executive budget to see what investments we can make on the capital side. We have also created internally a couple of task forces. We have the SPEED task force and we have the LIFT task force. So looking at ways for public land so we can build on that and also looking at ways to cut through the red tape and the bureaucracy so that we can get to building housing sooner and get to the supply side of the equation. So all those things are moving forward. We hope that we can get through the budget challenges so we can make those investments and create debt capacity room so we can make the investments in the housing capital plan.
+
+[**(02:10:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=7834s)
+
+
+
+And I am really looking forward to the housing plan and what you guys come up with SPEED. But I also want to encourage you guys to look at DCP's planners. DCP is losing a lot of their planners to the private sector...
+
+[**(02:13:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=8025s)
+
+
+
+We have to see something and then we will come back five 10 minutes. So please do not go too far. And then we will come back.
+
+[**(02:14:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=8060s)
+
+
+
+...
+
+[**(02:27:53)**](https://www.youtube.com/watch?v=2soPrZWS754&t=8873s)
+
+
+
+...
+
+[**(02:28:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=8935s)
+
+
+
+I am just trying to understand all of the vacant positions. Do we have a breakdown of those positions?
+
+[**(02:29:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=8957s)
+
+
+
+...
+
+[**(02:30:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9047s)
+
+
+
+Can I ask one more question very quickly? We have nearly 10,000 vacant NYCHA units across the City of New York. 12% increase in the vacant NYCHA units under Eric Adams. We have over 61,000 housing units that are in City control. These are people who desperately need housing in New York City. Can we get a commitment to actually make sure...
+
+[**(02:31:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9107s)
+
+
+
+This is a management question. There was no management in the previous administration. We need leadership in City Hall and NYCHA.
+
+[**(02:32:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9137s)
+
+
+
+Thank you for your testimony. Your testimony makes clear that this was inherited. I know CM Riley asked you a bit about the budgeting as well. Now that your testimony is responsible for that, why are we still seeing budgets that come in below...
+
+[**(02:32:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9167s)
+
+
+
+...
+
+[**(02:35:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9312s)
+
+
+
+You noted only 4% of new spending goes to actual programmatic needs. Does that mean 96% of this budget is just backfilling past underestimates rather than service to actual programs? It goes toward the program. It goes to the program. It goes forward making sure that the program does not serve anyone. So we need to make sure it is out there reflected and transparent and certain of the budget is important for all of us to make sure we resources are plans and make priorities to understand what all of us see. Can you walk us through the timeline of when first determined the budget gap was...
+
+[**(02:36:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9409s)
+
+
+
+Even before that in my appointment announcement there had been reports that were out there and there were questions that were asked about the fiscal monitor that my gap is actually more... my appointments right and so immediately reports the mayor there were questions that were met with people and started to pack and so everything in these major understands so I can deliver an assessment to the mayor, the mayor and to his credit as soon as he started to understand the extent of the budget, he felt compelled to deliver publicly discuss that what we had said was the underbudgeting was in line with what the City and state controllers had said that the budget gaps were and that is why we were very open about that. Then in the state budget hearing, so-called tin cup day, we went there, we testified after we started to aggressively look and manage what that budget gap would be if we put in a savings plan, if we took standard budget actions to reduce it, etc. That then got us to the 7 billion when we went to the state legislature and testified before the joint fiscal committees.
+
+Then next came the preliminary budget at right the day before the preliminary budget the governor committed $1.5 billion and there was an additional hundred million from a school aid run that gave us additional funds right so that is what February 17th we came out with the preliminary budget so in a matter of a month and a half basically we assessed the problem we were frank with New Yorkers about the problem frank with the state legislature about the problem and then we came to that gap that we had to close 5.4 billion in the preliminary budget. That gives you a general sense of the timeline. Thank you.
+
+[**(02:38:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9526s)
+
+
+
+Okay, great. Next we have CM Nurse, followed by CM Maloney.
+
+[**(02:38:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9537s)
+
+
+
+Sorry. Thank you, Chair, and thank you, Madam Speaker, and thank you, Mr. Director. I am not going to ask you those questions, but I want you to process it and think about it. Last Monday, I have a child that got killed right in our community in Sheepshead Bay and previously we have more problems with that. I want to sit down with you to see what is the plan. What can we do to make sure our children, our youth in our city are not killing each other. I know it is a difficult one, but we have to come up with community centers. We have to make sure they have something. Idle hands, idle minds. You know what happens? Is the devil's workshop I heard, but I am not repeating that. Anyway, thank you.
+
+So there is a study with state controller DiNapoli that just revealed that New York City is now spending $81,000 per street homeless person in a town where average take-home pay is about $40,000 and Mayor Adams wants to spend more now. Right now City Hall projected it will hit nearly $97,000. So I will call it in the business world penny wise, pound foolish because we can house folks. Do we have to continue doing shelter Mr. Director based on the numbers?
+
+So, CM, we have a legal obligation to shelter the unhoused through the Callahan case. And so, that is really what drives the shelter operation and the shelter cost here in the city. At the same time, we can focus on managing that operation to the best of our ability, but also focus on an affordability agenda. The mayor has been very clear about the need for more housing and affordability at large through a multitude of different policies. And so that is really where the focus needs to be. Housing supply, housing preservation, and we need to manage the existing legal mandate and obligation the best way we can working with our operational agencies to reduce shelter costs. And by the way, we also want to make sure that there is a fair share that we have with the state.
+
+One of the things that we put out there with the cuts and cautions that exist in the one house budgets, it used to be for the single adult shelter population in the 1990s, it was a 50-50 split, right? State city. It was capped in the 1990s and then it was reduced further in the 2010s. So $70 million that is it capped for single adult.
+
+Okay. Summer Rising right now in Summer Rising we serve over 100,000 students citywide with significant demand still unmet. How is OMB thinking about the long-term funding structure for this program and is there a plan to move it forward and more stable recurring budget line?
+
+We believe in what the program offers which is summer enrichment activities and programming for our youth. We have monies in the DOE budget that was added 16 million in fiscal 26 to round out the cost there. So we went from 90 to 106 in fiscal 27 and then the DYCD piece of it as well I think brings it up to about 146 or thereabouts. So that is where we want to make sure that we are investing in the program and we want it to be as effective as possible by drawing as many children as possible there. We know what continues on the surveys. I know the Department of Education has done surveys what we can do better how we can make sure attendance is to its full maximum potential. But we have made those investments.
+
+Thank you. I want to get into public school enrollment but I have B-HEARD that I want to ask questions around it too. Last week, the administration proposed moving B-HEARD under a new jurisdiction which is created by the mayor, community safety. Thank you for that. But the proposal includes a funding increase of 150%. Funding will reach a record of 112.5 million in fiscal 2026 and 135.6 million in fiscal 2027. This increased budget will cover a B-HEARD team in every borough and two to three B-HEARD teams in 20 neighborhoods with the highest need. What will be B-HEARD's funding structure be under this proposal? How will funding be distributed between H&H and FDNY? And what will the office of community safety's oversight role be for B-HEARD? Will this 150% funding increase be reflected in fiscal 2027 executive budget?
+
+I know it is a lot. Yes, we are happy to see that we have launched the office of community safety and we are uniting many offices under that umbrella for central policy coordination so that we can deliver mental health services to New Yorkers. That is about the $260 million for that central apparatus. And as you mentioned, B-HEARD as part of that as part of the policy piece of this which is $36 million in fiscal 26 and 35 million in fiscal 27. With respect to H&H and FDNY, it is a joint responsibility to manage the B-HEARD program. We know that I believe the previous administration has shifted the budget to H&H completely. So we are looking at breaking off the EMS portion and making sure that comes back to the FDNY to make sure that they are appropriately resourced to be able to fulfill the program's mission. So it is very important work. This administration is committed to it. Office of Community Safety is a great start. We will continue to build on that.
+
+Thank you. And thank you, Chair.
+
+[**(02:45:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9924s)
+
+
+
+Thank you. We have been joined by CM Feliz on Zoom as well as CM Ossé. So next we will go to CM Maloney.
+
+[**(02:45:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9934s)
+
+
+
+Thank you chair Lee. One opportunity for cost savings is leveraging rapid advancements in technology which we touched on a little bit so far in this hearing. The city has made prior efforts to modernize and integrate service delivery. But coming from the tech
+
+[**(02:45:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=9949s)
+
+
+
+sector, I can say there is a lot of work left to be done. Systems are fragmented across agencies. Processes are archaic. Individuals that are accessing benefits like cash assistance, SNAP, housing support are navigating through multiple different agencies. HPD and other city departments have capacity and process backlog problems and so on and so forth. So, this not only hurts constituents but also contributes to rising costs in administrating our government services. What concrete steps has the administration taken or can they take to use technology to streamline and unify processes across agencies as this is a real opportunity to save money but also improve services and business and growth.
+
+Sure. Absolutely. So, first I want to say that we are happy to engage with you and leverage your expertise. Always love to see when someone comes from the tech sector and has ideas and so we are happy to sit with you and understand what your ideas are and explore them. I am going to turn it over as well to Nathan Gustodorf to talk about some of the work that is happening through the chief savings officer's efforts which really look at a core level as well looking at the opportunities you speak of CM right it is looking at it not only to negotiate with one voice on those pricey IT contracts right but to see sort of what can we do on the licensing contracts going forward but also looking at some of our legacy systems across the city that do not communicate with one another and do not have platforms that are compatible with one another and how can we find efficiencies, long-term efficiencies and compatibility over time without breaking the bank on too much IT cost. Right. So, I will turn it over to Nathan to speak some about the cost reduction side that we are starting to see, including what we highlighted today.
+
+Yeah, thank you. Thank you, CM. One of the categories of savings that the budget director named in his initial testimony was technology modernization and it is consistent with the policy initiatives of EO2 both in terms of insourcing and increasing city government capacity, reducing contracting inefficiencies and modernizing technology to figure out where we can get agencies to rely less on contractors and update their own IT systems and use that to bring down costs. While the details that we can speak about on actual concrete savings initiatives are limited to what was in this morning's press release, that already captures a number of agencies where we have identified opportunities to rely less on outside contractors and instead use in-house capacity and that is generating savings. That is true at the Department of Corrections. It is true at H&H, emergency management, OTI. So even just in the five days since we released those or since we received those CSO reports, we have already made some meaningful progress on this prong of the initiative.
+
+And is there any work being done on the unifying benefit eligibility both for individuals and also as we think about permitting and licensing for businesses?
+
+Yeah, I think that is all going to be part of the project both from now to the exec as we continue to examine agency submissions and then beyond because this is supposed to be a permanent exercise in terms of finding long-term operational efficiencies. And I think there has been a lot of attention drawn to both the importance and the potential of cross agency work to find meaningful efficiencies especially on the IT side and also just on the business side I would add you know SBS we added funding and prelim for the BEST teams. So there is also this engagement component to as you mentioned streamline whatever interactions with government there are and part of that is sort of engagement through programs like that.
+
+I am glad to hear there is thought and investment in this space. I think it is a huge opportunity. In terms of vending, how much money does the city lose each year by having vendors work through CDW as a contracting vehicle rather than direct contracts? And is that something that you have looked at shifting?
+
+It is something we have looked at. We look at I mean something we are looking at, I should say, and we will be happy to follow up with you on that.
+
+Thank you very much. And thank you,
+
+[**(02:50:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10221s)
+
+
+
+Chair. Thank you. Just as a followup because
+
+[**(02:50:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10224s)
+
+
+
+sometimes I joke I am like, "Oh my god, I feel like the city still operates on DOS, right?" Like old school computer systems. I do not know. The headshake made me think, is that true? I do not know. But looking at it, because this has been one of my biggest pet peeves is that, you know, in terms of thinking about how we are being impactful at the city in terms of how we use our dollars because if, and this is the example I use all the time, is if I am a whole person, but I am struggling with I have a severe mental health illness, homeless in and out of shelters plus I have a drug addiction, right? So, one day I may end up in the shelter system and DHS has my information there and then another month after that I may have a serious mental health break and then I will end up in the H&H hospital system and they have my information there. So, I guess just in terms of not just from cost savings, but how do we be better in terms of data and transparency and better serving our city? Is that something that you all are looking into? Because obviously we need to protect identity, all of the things with HIPAA, but is that something the city is looking into? Because what I would be curious to look at is how many unique clients do we have utilizing multiple services and then what would that tell us in terms of how to better meet their needs and make sure they do not fall through the cracks?
+
+[**(02:51:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10300s)
+
+
+
+Absolutely, Chair. I think that is something we need to look at and in fact you know I think our predecessors as well have looked at that many administrations really looked at to see what can we do in terms of the holistic view in serving New Yorkers right the examples that you gave are real examples that can happen and how can that information be at the fingertips of those who are serving those individuals right so that it can be more effective in terms of delivery of those services we need to focus on that at the same time as understanding that we have in some of these legacy systems we have programmers that have been trained on these programs for many years and they are retiring right so how do you have the expertise that you need to serve those needs in terms of those systems right so that is also another because some of it cannot migrate so it would have to yes but yes it is something we will we want to work on.
+
+Yeah and I just it is interesting because have you also on the I know this is not really budget per se but it impacts the procurement system. Have you looked into or has the city looked into some of the laws related to why MOCS for example is doing things the way in the procurement system the way it has been done. And I asked this because back when Michael Owh was the MOCS director a few folks ago he and I would talk about this and he is like you know there are some of these laws that were put in place in the 70s because of the financial crisis that are not necessarily needed anymore but they are still in place. So how do is anyone in the city looking at some of that stuff to see how we can get rid of these sort of red tape barriers to improve our processes?
+
+It needs to be looked at. And it is something that clearly we want to undertake and I know you want to as well with your colleagues. So it is something we need to undertake with our agencies.
+
+Yeah. And that is something that I have spoken to director Kimura about as well because I know she really wants to look into that as well. So I would love to partner with you guys on that. And then just really quickly following up on CM Narcisse's comments about B-HEARD. So for the 260 million and by the way as former chair of mental health I really appreciate the mayor's efforts on looking at mental health holistically and so just wanting to know a little bit more about the numbers because I remember when B-HEARD first rolled out if I am remembering this correctly the budgeted amount was like 50 or 55 million but the first year they only spent about 25 million and that was because of the issues around trying to find staff to fill a lot of these positions because it is a very difficult job to do. And so just wondering two things really which is what is the breakdown of that 260 million how much of that are already existing programs that you are just sort of rejiggering and then what is the deal with OCS because they were supposed to be the ones overseeing this.
+
+Yeah. So on the 260 million to be clear of the 116 headcount, those are the offices that are moving under the umbrella office of community safety under the new deputy mayor for community safety. So not just B-HEARD, right? No. Okay. So it is the operations for those offices including the office of community health mental health. So we can follow up with you on the actuals vis-à-vis the people the employees at H&H working on B-HEARD versus budget. So actuals versus budgeted we can follow up with you on that so that we know are we still having these challenges in hiring in this title with that is really noble challenging work right because I think between that program plus the IMTS and also the state programs that are out there trying to get people housed and in services it has been challenging with the staffing so that would be great certainly if you could.
+
+Okay so next we have CM
+
+[**(02:55:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10542s)
+
+
+
+Aldebol followed by and then Stevens
+
+[**(02:55:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10550s)
+
+
+
+Good afternoon. Good afternoon. And thank you, chair. So the preliminary plan included a $550 million reduction in the budget for labor reserve in fiscals 26 and 27. Over one-third of the total amount budgeted in the November plan for these two years. This reduction was based on a reestimate. This is not the first time we have seen a reestimate. At last year's budget adoption, OMB also included a $375 million reduction in the
+
+[**(02:56:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10587s)
+
+
+
+labor reserve due to reestimates. These reestimates are different than changes that occur when contracts are settled and funds are allocated to agency budgets for wage increases. The mayor stated that the labor reserve has enough aside to pay for annual wage increases of 1.25% starting in 2026 when the existing contracts begin to expire. Why was there such a large reestimate in the labor reserve? And if it has to do with a more accurate estimate of headcount, would we not also assume that there would be savings related to the salaries of the over budgeted headcount?
+
+[**(02:57:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10632s)
+
+
+
+So a couple of things on that, CM. Number one, these savings that were taken in the preliminary budget are reflective of the way the labor reserve essentially works, which is when there is a pattern established, in this case, let us take the civilian pattern at 16% or the uniform pattern at 18.98%. Those reserve funds are put into the labor reserve to then pay for those contracts. We are at about 98 something settled contracts in the last round. The labor reserve has funding for also unsettled contracts that are there right. Also at the same time monies that are parked in the labor reserve according to the pattern to then be able to fund those settled contracts there are changes in actual experience. There could be headcount changes etc that then change and those are savings that can be taken because they were initially budgeted but data has changed etc going forward for settled contracts as you alluded to. Yes. The mayor said there is one and a quarter percent that is in the labor reserve for future collective bargaining contracts. Where they will end up is obviously the subject for collective bargaining. It is a need that the City has to work on to understand that we could give a fair contract to our talented and dedicated public sector workforce.
+
+[**(02:58:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10722s)
+
+
+
+There are also pay disparities for specific job titles that have been maintained and exacerbated over the years by pattern bargaining and historic structures that have solidified inequities that are often the legacy of gender and racial bias. This is particularly apparent in the cases of the paraprofessionals in the DOE and EMTs in the FDNY. Paraprofessionals who work for the DOE both represented by UFT and DC37 continue to make about $30,000 a year. They play a crucial role in the public education system and they will be in even higher demand as universal 2K and 3K are made a reality. The DOE is really having a difficult time both retaining and hiring paraprofessionals to meet the need.
+
+In the fire department, EMTs continue to make $18 an hour, which is a fraction of what firefighters earn despite significant overlap in their roles. The high rate of medical 911 calls and EMTs are also a critical part of the mayor's agenda for overhauling 911 response through B-HEARD and the Department of Community Safety. There is a push to elevate those pay rates. The paraprofessionals are pushing for a $10,000 retention payment so that could stop the bleeding essentially. I just want to know where you are in terms of budgeting for uplifting these job titles and eliminating this pay disparity that we have seen.
+
+[**(03:01:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10864s)
+
+
+
+Sure, we are sensitive to the equity concerns. There have been equity panels that have been established to look at these types of things. I think that these types of issues are best reserved for the bargaining table and also we understand there are significant costs as well that are associated with these. So we have to figure out how we can balance that with the financial challenges that we face. But we are sensitive to the equity concerns that have been raised.
+
+[**(03:01:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10896s)
+
+
+
+Okay.
+
+[**(03:01:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10898s)
+
+
+
+Okay. Great. CM Stevens and then Banks.
+
+[**(03:01:43)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10903s)
+
+
+
+Thank you, Chair. A recent report issued by state controller DiNapoli showed that New York City is lagging behind the rest of the country in small job creation due to the cost related to starting up a business. SBS is an agency that is charged with assisting small business development, but currently the agency has an extremely high vacancy rate of 23%, which hinders its ability to provide adequate assistance. Does OMB's vacancy reduction program exempt positions at SBS that will be able to assist in spurring the economic development?
+
+[**(03:02:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=10941s)
+
+
+
+Thank you for the question, CM. SBS is subject to a lot of the savings initiatives that we have. We are looking at what their headcount is relative to what the savings targets are. We did make several investments in small business services. I would say that a couple of them I mentioned before the business express service teams. We had 2 million in fiscal 26, 4 million in the years out. So that is an opportunity to engage small businesses. There are a slew of other programs that we have done here including some of the rezoning commitments that were made on Jamaica and Jamaica workforce small business program. So there have been investments in prelim for SBS. We are looking at what their total needs will be in terms of headcount so that they can fulfill their mandate as part of the executive budget process.
+
+We have been in discussions with SBS on what could be done to jumpstart SBS's ability to assist small businesses. In fact on that to assist small businesses again the investment in the BEST program, 2 million in fiscal 26 and 4 million in 27 and out is a prime example of how we have invested in small business services to reach small businesses and support them in any way possible.
+
+[**(03:03:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11024s)
+
+
+
+Thank you.
+
+[**(03:03:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11025s)
+
+
+
+Thank you.
+
+[**(03:03:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11028s)
+
+
+
+Is that it Council? Okay. Stevens.
+
+[**(03:03:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11037s)
+
+
+
+Good afternoon. I just have a couple questions. Obviously, I am going to talk about those, but my first question is just around like, as we know, Raise the Age was passed in 2017. We know that New York City has not seen any money from the state to fund Raise the Age. This is due to section 54 of the state finance law provision which states counties must either adopt a 2% tax cap or submit a state waiver showing hardship at the preliminary budget. ACS leadership said that it was not up to them to decide whether applying for a hardship waiver, but it was OMB's decision. Given the financial situation, is OMB planning on applying for this waiver this year? If not, why? Is OMB aware of the requirement of the waiver or might consider us being in financial hardship currently?
+
+I have a couple more. I am going to ask all the Raise the Age questions and you could just answer after. Has OMB considered applying for a waiver? Does the administration believe that Raise the Age reimbursement process should be considered at the state level? If so, has the mayor been working with state partners to pursue this? Is OMB aware of the current recommendation included in one of the house bills to eliminate the reappropriation authority to state fiscal 2018 to 2019 through 2023 to 24 as permitting localities to submit prior year claims against the remaining reappropriation authorities of Raise the Age appropriation and do you believe that the recommendation means we could impact the City's ability to recoup the past expenses?
+
+[**(03:05:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11139s)
+
+
+
+Thank you, CM. The Raise the Age New York City was inexplicably left out of the assistance other localities have been getting. It clearly has been a hardship in terms of our ability to implement what the state law mandate was. So there has been this hardship waiver. We are very happy and we commend and thank the governor that as part of the $1.5 billion commitment that she committed the day before the preliminary budget, there was an additional $300 million and that is on a recurring basis for youth programming. That runs the gamut from prevention to programming, etc. That does not preclude us at all from applying for the waiver, right?
+
+Yeah, we want the 300 million and we want the waiver. So, we are in constant conversations with the state about that. Obviously if we can get to a point where we do not even have to apply. We know we have a budget crunch and we know that we have these needs. That is an ongoing conversation with the state. If we can get there without having to go through the application, sure. It is in state law. If we need to do it, we will do it.
+
+[**(03:06:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11212s)
+
+
+
+Okay. Well, I just wanted to make sure that we are considering this because we are saying we are in financial hardship. We are having hard times now. So, why would we not apply for the waiver to get the additional money? I am happy that you brought up the 300 million because in the preliminary hearing with ACS, we also asked about that 300 million and they were saying they were waiting on OMB to give them a plan around what that funding looks like. So, can you talk to us a little bit about what that budget is going to look like? How is it going to work? We know that that money can go to ACS, the law department, the DOP and all these different things. So, have you already started to think about where this money is going to be placed and how it is going to be allocated?
+
+[**(03:07:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11252s)
+
+
+
+Yeah, so this is a very active conversation that is going on because we want to make sure that we can draw down the funds that the state has put in these buckets. We are actively looking at youth programming. What are the programs that we have ongoing right now that then we can work with the state agencies responsible to be able to draw down that funding. So that is an active conversation. We do not want to leave any funding on the table and the programs that would qualify the buckets are pretty broad to begin with and that was a product of going back and forth with the state to understand the maximum flexibility and we thank the state to allow us to be able to access what was committed. So that is an ongoing conversation that we are having with the state division of budget and with the state agencies to be able to make sure and then we will work with ACS to make sure that the claims are submitted to draw down those funds.
+
+[**(03:08:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11302s)
+
+
+
+Yeah. Just even to think about going back to Raise the Age when we talk about I know you said you are in active conversations. When will you decide if we are applying or not? I do not think that we should just continue to have active conversations. I think we have to start moving on this. So when will you start to decide and make these decisions because there is a sense of urgency I mean as we are talking about budgets. So just trying to make sure that we have clarity and so I can continue to follow up because if you know me I will be following up.
+
+[**(03:08:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11330s)
+
+
+
+Yes. No absolutely I mean all of it is imminent and we are working with the state on all the moves that we make on this front and on all fronts. So it is an active conversation with the state about... So you do not have an idea on like when you will be making a decision on it? I mean, it is all part of the discussions about state budget and we are moving forward on that.
+
+[**(03:09:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11349s)
+
+
+
+Okay, great. So, when would you like me to follow up?
+
+[**(03:09:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11352s)
+
+
+
+Anytime you wish, CM, I am always happy to talk to you, CM.
+
+[**(03:09:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11355s)
+
+
+
+Because that is a few more followup. So, I will be in contact. Thank you. Two weeks. No, not two weeks. It is a week. I will be calling next week. Thank you.
+
+[**(03:09:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11364s)
+
+
+
+Okay, awesome. CM Banks, followed by CM Lewis.
+
+[**(03:09:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11377s)
+
+
+
+Thank you, chair, and thank you, director, and to your team. Pertaining to NYCHA, I just want to get my questions out and then you can answer. Hopefully we will get a clear response from you. The state one house budget proposals include an additional 1.25 billion in capital funding for NYCHA to support maintenance needs and additional 100 million for Mitchell Lama and the housing authority assistance. NYCHA buildings require nearly 80 billion to be able to reach a state of good repair. The Council is appreciative of the house's inclusion of funding to start the needed budgetary needs for the repairs in NYCHA.
+
+My questions are directed to as has the administration pushed the governor to increase spending for NYCHA one. Has there been any discussion of which developments or NYCHA programs or where these funds will be applied to? Has the administration added the 661.6 million for section 8 conversions like PACT in the preliminary plan and why did the administration not support traditional public housing section 9 with similar investment? Does this allocation for conversions mean the administration is doubling down on the Adams administration approach to partially privatize public housing? What investments does the administration plan to make in traditional section 9 housing?
+
+Just to also backtrack on the capital needs when it comes to PACT impact, NYCHA has capital needs well sorry NYCHA's capital needs have been estimated at over 78 billion for years. We have been seeing that number thrown out. But despite more than 31,000 units undergoing RAD PACT conversions and billions of dollars being invested, why has not the overall capital need decreased? Has the administration considered baseline funding for NYCHA? Is the administration considering baseline funding for NYCHA in this City budget rather than continuing to rely on a one-time or project based capital investment?
+
+When it comes to infills infill development revenue is the City generating revenue from the infill development within NYCHA land and if so how much revenue has been generated to date and how has this money been allocated specifically in being reinvested back into NYCHA developments? Hopefully we can get some clear answers from you because I did not get them from NYCHA yesterday.
+
+[**(03:12:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11567s)
+
+
+
+Thank you, CM Banks. So first, as I said before, grew up in NYCHA. I know the impact what it could be. So we are looking at a number of different avenues. Number one, current budget, $4 billion currently exists on the section 9 part, right? That is from fiscal 26 to fiscal 35. The mayor has made very clear his commitment to being able to double the capital commitments to NYCHA. It is not only about PACT and RAD, it is about section 9. We want to make sure that we are making those investments. The preliminary budget was the opening salvo, right? We know for the executive budget, we are looking very closely at our debt capacity to make room for priorities like housing and NYCHA is part of that.
+
+I am going to turn it over to Tara in a second, but what I also wanted to say is we are heartened by what the state legislature put in their one house budgets. Deputy Mayor Bozark is in constant communication with state partners about additional investment, additional revenue from the state and NYCHA and over the years there have been some level of capital commitments that have come down from the state that then matched City commitments that have been put up. We hope to continue that and have a real partnership with the state so we can make those investments. Tara, you want to add?
+
+[**(03:14:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11653s)
+
+
+
+Sure. Just a few things to add. To your first question, the 661 million was added at the preliminary plan for the section 8 conversions, but there were also section 9 investments made in this preliminary as well. That 48 million, correct? So, that was heat pumps and then funding for the one Long Island City zoning specifically to section 9. Yeah, but it is far less than what you are putting in section. Understood. Understood. It is a plan that we are working on.
+
+[**(03:14:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11685s)
+
+
+
+Hopefully, we get some more clarity. When it comes to the NYCHA developments that have been converted over to RAD PACT or the 31,000 units, we need to get clarity as to with those units what has been the revenue created from that? Or why has not the capital needs been decreased the 80 or 78 billion? We would love to get more clarity on that from you. Happy to follow up with you. Thank you.
+
+[**(03:15:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11717s)
+
+
+
+Thank you. Okay. So now we have CM Lewis followed by Narcisse and then
+
+[**(03:15:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11721s)
+
+
+
+Pierina Ana Sanchez. Thank you chair. Thank you director and
+
+[**(03:15:26)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11726s)
+
+
+
+to your whole team. I have four quick questions. I hope I could belt it out. All right. Given there are opportunities to leverage existing city-owned infrastructure including libraries and other one-story municipal properties for mixed-use development that includes affordable housing. Is OMB actively evaluating these opportunities and what level of funding and inter agency coordination particularly with DCP for zoning modifications is being planned to advance these types of projects and if OMB could detail what funding has been allocated in the preliminary budget to support site identification, feasibility analysis and eventual capital construction once sites are identified. Thank you, CM. So, yeah, the
+
+[**(03:16:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11773s)
+
+
+
+I have two more questions after that. Oh, okay. So, I will be quick. Thank you.
+
+[**(03:16:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11778s)
+
+
+
+Land inventory fast track or LIFT task force is doing exactly that.
+
+[**(03:16:25)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11785s)
+
+
+
+Looking at areas of public land, public spaces, public
+
+[**(03:16:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11792s)
+
+
+
+sites across the city that could potentially be redeveloped for housing. The LIFT task force is hopefully going to release a preliminary report by July 1st that is going to lay out the pathway for getting to developing 25,000 units on public sites over the next decade. So that is something we look forward to. I think when you mentioned the libraries up front, aside from the recent projects at Sunset Park and Inwood, we are also moving forward on Grand Concourse, the Bloomingdale Library and Health Clinic on the Upper West Side and the new Utrecht. So all that is in FY27. All of this I do not know is in FY27, but we are actively working on it with the LIFT task force.
+
+[**(03:17:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11839s)
+
+
+
+Okay. We could actively talk about this
+
+[**(03:17:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11840s)
+
+
+
+after the hearing. Would love to hear more. All right. New York City has taken an important step in establishing a national model for a community-centered approach to studying reparations thanks to the Commission on Racial Equity. Yet as CORE transitions from research into implementation, it is now facing a structural funding gap due to absence of previously anticipated outyear commitments. Initially they were told 2 million in fiscal year 26 and 4 million in the outyears. I wanted to know if OMB could commit to baselining the funding and the financial plan. And I will ask my last question quickly.
+
+[**(03:17:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11875s)
+
+
+
+We are looking at it as part of the new needs for exec. Obviously
+
+[**(03:17:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11878s)
+
+
+
+the CORE functions are significant and important work, critical work. And so we want to be able to support them as much as possible to complete their work. And we are evaluating their needs for the upcoming executive budget. It would be important to know the likeliness of the evaluation. So look forward to following up on that. And through the City Council City of Yes initiative, five
+
+[**(03:18:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11903s)
+
+
+
+billion was added for housing and infrastructure investments to complement the rezoning passed by City of Yes. I wanted to know how much City of Yes funding allocated to the City has been spent already and can you provide a breakdown of this spending for both expense and capital programs with HPD, NYCHA, HR and CCHR? I will turn it over to Tara Bard to address that. Sure. So for the most part, the funding for City of Yes that was added to HPD's capital budget was put in lump sums in terms of the programs that they would be doing to support all of the additional units. In total in capital, $4.9 billion has been spent. In terms of spending to date in these UVAs, we are at $1.3 billion. And we can give you the details for CCHR as well as HPD and some of the other agencies.
+
+[**(03:19:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11957s)
+
+
+
+Okay. I look forward to following up. All right. Thank you, chair. Thank you. Next we have CM
+
+[**(03:19:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11962s)
+
+
+
+Narcisse, followed by CM Sanchez and then Avilés. Thank you, Chair.
+
+[**(03:19:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11968s)
+
+
+
+Good afternoon. Good afternoon. My questions are around civil and human rights. I am a little concerned that the preliminary plan does not have as much funding to follow up on the commitment that the administration has said they have to civil and human rights. Specifically CCHR, CORE, EPC all are currently underfunded and understaffed. EPC and CORE
+
+[**(03:19:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11995s)
+
+
+
+have just started to fill their vacancies. I think EPC does not even have Wi-Fi, which is kind of sad, you know. And so for CCHR, the average wait time for closing their cases is over 600 days. We understand some cases are complex, but even after intake, with the eight people it has answering these calls, it can be about 2 months before New Yorkers who have been discriminated against or had their rights violated to get a response. So do you think that is an acceptable wait time for New Yorkers?
+
+[**(03:20:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12034s)
+
+
+
+No, I think we need to do all we can to make sure that those missions are fulfilled and those important agency operations are continued and supported and well resourced. I think that we have to look at ways that we could add money to their budgets to be able to accomplish their goals. It is not okay if there is no Wi-Fi and things like that for example. Those are like basic functions. So we have to see even if there are other agencies that are lending a hand to be able to produce that. So that is something we will look into.
+
+[**(03:21:06)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12066s)
+
+
+
+I have some other questions. So it sounds like you agree they need more resources so that and we will evaluate it with the executive budget. Yes.
+
+[**(03:21:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12072s)
+
+
+
+Who are doing 15,000 calls a year can respond faster than two months. So will you be cutting... EPC has I think one vacancy. Will you be cutting that?
+
+[**(03:21:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12089s)
+
+
+
+We are looking at when we are doing the vacancy alignment exercise, we are looking with a fine tooth comb to see in cases like that where you have a very small and you have one vacancy like it is diminishing returns, right? So that is exactly the kind of example where it does not make sense to achieve this goal, right? So we are looking at that and yeah, I mean, one vacancy I you know... Yeah, I mean, especially since they are supposed to be helping our city workforce. So I think we should not be cutting that. So it sounds like we are in alignment. One of the other things that came up at
+
+[**(03:22:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12122s)
+
+
+
+our preliminary budget hearing is a lot of these commissions are burdened with a lot of administrative tasks that maybe they could be sharing or pooling such as like HR staff and any other kind of requirements that they need to do. Maybe there could be some staff that is taking care of a bunch of these commissions where we can have some savings rather than each one have to have that. Is that something you are looking at?
+
+[**(03:22:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12147s)
+
+
+
+Yeah, a shared services model is something in general that we would like to approach and look at and part of really central to the work of the chief savings officers as well, right? Where are those commonalities? Where can we come together on a shared services model that can achieve the same results but can save at the same time. So... Okay. Okay, that is great. And I mean, every year for this particular hearing and this was something I asked Jacques every single year, you know, the rainy day fund is not defined and every administration can decide how to define when it is raining or not. I personally disagree with that. I think we should have some clearer definitions on how and when we are using this. Do you think that is something that we should be working on?
+
+[**(03:23:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12198s)
+
+
+
+So the general municipal law has very clear guidelines of when the second 50% can be tapped into, right? The 980 that was drawn down here was 50% of what the total was. But the law is pretty clear on the circumstances and the determinations that need to be made before any additional draw is done. Part of an ongoing dialogue. Obviously we do not want to be in a position to draw down any reserves. We are hopeful that the result from the state budget will get us there.
+
+[**(03:23:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12229s)
+
+
+
+Yeah, I still think we should have more conversations collectively between the two sides of the hall and really get on the same page about what it means to draw down even before we get to that 50%. Sure. I think New Yorkers deserve to know what that means. When is it actually raining or not? Yeah.
+
+[**(03:24:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12247s)
+
+
+
+Okay. Thank you, Chair.
+
+[**(03:24:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12249s)
+
+
+
+Thank you, CM Sanchez, followed by Avilés, and then CM Ossé is our last one for round one.
+
+[**(03:24:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12258s)
+
+
+
+Thank you, Chair, and good morning, director. Congratulations. First, just want to echo CM Restler's remarks of my deep respect for you and the team that is surrounding you. Thank you. I want to start with thanking Speaker Menin for being firm in the need to expand the city FEPS program in a responsible manner to keep vulnerable families housed and move out of shelter, help them move out of shelter faster and for being really leaned in on good faith discussions that we have been having as you mentioned. But I want to use this moment to read a text message that I received last night at the very same time that I learned that the appeal had been filed. This is from an expecting mother of three in her third trimester who lives in my neighborhood who is working full-time. I have been doing everything I can. I am just so worried. I just do not want to be evicted from my home. This expansion could remove that stress from her life. And I know that we share that belief. I just want to echo the speaker's remarks that the administration is making a choice to continue Mayor Eric Adams appeal. You could drop it and we could just continue negotiations without that looming. We remain at the table. Conversations have been ongoing and I hope that we can reach a responsible resolution. So the question is would the City drop the suit?
+
+[**(03:25:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12336s)
+
+
+
+Thank you, CM. We want to continue to have the good faith discussions that we have been having. I think the court deadline, the court timeline required that we confront the issue of having to file the instrument or not to preserve sort of the continuation of those good faith discussions. It was filed. But our intent is to continue to have the discussions and be at the table and see how we can come to an agreement on any such expansion. At the same time is looking at the current program and looking at ways we can effectively reasonably manage some of the pieces there whether it is on rent reasonableness, renters, legal rents, different things that I know the commissioner is committed to looking at so we could stabilize the current program. Thank you, director and I look
+
+[**(03:26:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12383s)
+
+
+
+forward to those continued conversations. The November 2025 environmental control board report showed that from between fiscal 18 and 25 the Department of Buildings was owed more than $300 million in fines and accrued interest accounting for one-third of all outstanding ECB judgment debt. Similarly, at yesterday's preliminary hearing with HPD, the commissioner testified that they are only collecting about 20% of leanable charges issued between fiscal 24 and 25. That is 80% of the fines and fees that HPD is issuing are not collected. First, are these numbers correct? If not, can you correct me? Second, given the multi-billion dollar funding gap we are talking about, what steps could the City take to recoup this uncollected revenue, can you work with us to ensure that as many fines and fees as are reasonable can be indeed leanable against properties? And relatedly, can you work with us to ensure that fine levels are appropriately serving as deterrence? So thank you, CM. So first I want to say the mayor has been committed to and has taken action as you know against bad landlords, right? And so we are making sure that we are doing all we can to ensure humane living conditions across the board for the rental stock and so there have been key actions taken there. We have been working with the Department of Finance and with our housing team to make sure that unpaid ECB violations that there can be liens placed against those buildings, right?
+
+And that is one of the most effective tools to make sure that the ECB violations are indeed paid. So we are doing everything we can that is a stick that we can use but also we are using other things like the normal collection efforts that you have in the Department of Finance whether through collection agencies or etc to try to drive these to a conclusion because that is the way that we hold landlords accountable for the upkeep of their building so essential to tenants and living conditions. Thank you. In my last second and I will have questions about street vending in the next round. But I just wanted to clarify yesterday HPD testified that some $130 odd million dollars were being reduced from their expense budget in connection with HERRC funding for the migrant shelters. Is that going to show up somewhere else in the budget or is that a reduction that the City is going to see? Period.
+
+[**(03:28:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12532s)
+
+
+
+I will start and I will kick it to Patrick to see what that was. I think just speaking in general about the asylum seeker population. Obviously we have the budgeted amounts that are in there based on about a third I would say about like 30,000 I think asylum seekers that are in the census. We are seeing more exits than we are seeing entries and so some of the funding was allocated in different agencies. I just want to check on whether or not HPD had that. So I think what you are talking about is not necessarily a reduction. It is that we do not place it in those agencies in the out years. So it is you know what is there now is for this year and then we look at the following years for asylum seekers and budget at that time. Okay. So any reductions we should be
+
+[**(03:29:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12577s)
+
+
+
+seeing in the out years or and we will not be seeing in other agency budgets. The way it works is the asylum funding is in DHS and then we allocate it as necessary. We forecast the current year and the next fiscal year and then we allocate that funding as necessary. So it is not a cut per se. It is just the funding is there this year and then as we get to next year we will evaluate and move it if it is necessary there. Okay. I am not totally following because this is HPD funding for the HERRCs. So I would love to just follow up and thank you chair for the time.
+
+[**(03:30:05)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12605s)
+
+
+
+Great. And I have you for round two. Okay we have CM Avilés and then CM Ossé.
+
+[**(03:30:11)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12611s)
+
+
+
+Thank you so much chair. Thank you director. I heard you testify in the very beginning that there is a $5.4 billion shortfall that needs to be closed. Correct.
+
+[**(03:30:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12622s)
+
+
+
+>> Correct. I heard you answer CM Aldebol's questions regarding EMS and paras and kick it to collective bargaining, which we have heard for the last four years, which is why this body is currently discussing legislation to make the City of New York and the administration do what we know they can do, which is give a living wage to people who deserve it. I heard you listen to CM Wong's reasoning why we cannot have an estate tax. We cannot have people paying to park in front of their homes. We cannot have additional taxes put on our homeowners. It is just an absolute hard no. People are having a hard enough time living here as is. Yet I did not hear you say anything about how you can justify that we have a chief savings officer in every agency including the fire department which has been stagnant with funding for the four years that I have been the chair of the committee and have rigs that are falling apart, ambulance bays that are falling apart, firehouses that are falling apart and yet there is nothing in the budget that says they are getting extra money to fix those to remedy those issues. However, the mayor is funding new departments within the mayor's office with hefty budgets to make good on his campaign promises. Some of which you could say, one of which you could say is a political arm of this body which should not be paid for by taxpayers dollars.
+
+So why are we taking taxpayers dollars and not giving them to our EMS, our paras, our municipal workers who were promised their jobs back and submitted all their applications to get their jobs back and lines were created for them to come back and yet they have fallen into limbo with no one to contact anymore to see where they are with that paperwork. And yet the other agencies which are vanity projects for the mayor and campaign promises are being funded amply while all our other agencies are under the knife. And you say scalpel but I say it is more like a huge knife. >> Well, a couple of things CM. So first I think that we are attuned to the equity issues with respect to EMS. You have heard the fire department commissioner testify to that effect and we know that there are real issues that are there. The question is whether or not at the bargaining table we can understand how we can reach an agreement and that is an ongoing conversation. So we know that that exists. We also know that the fire department particularly on the civilian side has taken significant pegs previous peg rounds etc. So we know that there are limited opportunities that we have to basically go and do what we can with respect to cutting more. We are not looking to cut more. We are not looking to impact those services. We want to make sure that there are sufficient mechanics, for example, to service the rigs and so on and so forth. So that is what we are looking at.
+
+There are other things that the chief savings officer from the fire department actually stepped forward with. One of them was listed on the examples that we have today. Treatment in place, common sense kind of approach where you can bill Medicaid or you can bill commercial insurance when treatment is done on the spot. And so there is state and federal approval for that. That is one of the examples that is listed on the list. So those are the kinds of things we are looking at, not trying to squeeze more out of what we know has been a hit on the civilian side. With respect to talking about the office of mass engagement, as I mentioned earlier, the office of mass engagement is made up of a collection of offices that have existed in many, many administrations. And those administrations have included a community affairs unit that is very important to reaching out to communities all over the City. Public engagement unit, very important, civic engagement unit. So many offices that reach New Yorkers where they are. And as any incoming administration, there is an office that has new needs and we are looking at fulfilling those new needs so we can fulfill the vision. But it is not like we are creating new offices that have not existed in previous administrations as well. And it is for community engagement, making sure government is connecting better with those communities. So I would just say that on that. So very clearly we understand affordability as well to your first point as well is an issue.
+
+That is why we have an aggressive affordability agenda. Plan by plan, there has been significant chronic underbudgeting. The expenses are outpacing the revenues in the City of New York. We have to find a way to be able to achieve that fiscal balance. Chair, just to close out.
+
+[**(03:35:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12918s)
+
+
+
+>> So how will you address the municipal workers who should have been rehired? Our EMS workers who deserve a pay raise so that they can have a fair living, our paras to have a pay raise so they can make a fair living wage. And having worked for CAU, I can tell you that the office of community engagement is doing nothing the same as what was CAU. We were engaging with community groups with community boards. We were not a community organization with political people who were campaign managers coming in and building a workforce, an army so to speak to go out and promote an agenda. >> Government agencies cannot participate in political activities and >> that is absolutely my point >> and this is engagement in communities CM. >> Well, we shall see. Thank you.
+
+[**(03:36:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12977s)
+
+
+
+>> Okay, CM Ossé. Good
+
+[**(03:36:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=12980s)
+
+
+
+afternoon, director and folks from the administration. Thank you, chair. You know, I join the administration as well as a majority of New Yorkers who have been advocating to tax the wealthiest New Yorkers in terms of creating a new revenue stream here in the City. You know what I really appreciate and I saw this mayor posted a video today announcing some of the cuts that you are making in terms of waste in our government. I agree there is waste within our government. You guys are kind of like the woke doge. Which I really appreciate and I have some more woke doge ideas for you. I know that the mayor has made a commitment to promise to disband the NYPD's strategic response group. Since its inception in 2015, the SRG's budget has ballooned. And this is the same budget that has allowed the SRG to become a militarized force that continues to show up at protests and uses force to curtail the First Amendment rights of New Yorkers. Additionally, this is the same group that led the City to paying out millions in settlement fees due to the unconstitutional use of force that brutalized protesters in Mott Haven. It seems like continuing to balloon the budget of this unit while running the risk of the unit continuing to use harmful tactics that could potentially lead to lawsuits is a fiscal risk.
+
+I know that the mayor has recently committed to disbanding the SRG, but I wanted to ask you specifically, how much has the City spent on the SRG both on the budget level and through settlement payments since its inception in 2015?
+
+[**(03:37:56)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13076s)
+
+
+
+Thank you, CM. So, the SRG budget is 66 million in 26 and 66 million in 27. That is the budget. We can follow up on the second part of your question. But I think the mayor's positions on the SRG are clear. And that is an ongoing conversation between him and the police commissioner.
+
+[**(03:38:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13098s)
+
+
+
+>> And I do not have a calculator in front of me, but what is 66 + 66? I am bad at math. I am sorry. >> 66 + 66 equals 132. >> We just cut $132 million from the City budget. Thank you very much for the answer to that question and I cannot wait to stand with the mayor on that announcement and disbanding the SRG.
+
+[**(03:38:43)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13123s)
+
+
+
+>> I was going to do some math, but never mind. Okay. We are going to go to round two. And we are going
+
+[**(03:38:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13131s)
+
+
+
+to start with CM Hudson. Thank you so much chair. Okay. So, as followup to my previous line of questioning, I just want to clarify that people receiving cash assistance should be receiving state funded rental assistance or state FEPS. Is that correct?
+
+[**(03:39:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13154s)
+
+
+
+This is for cash assistance specifically >> that people receiving cash assistance should also be receive they could be eligible for the housing assistance voucher program from the state if that is what you are talking about. >> Yes, >> they could be. >> Okay. Because I just want to make a clear >> the HAVP so-called program. Yeah. >> Right. >> For sure. >> So, so for people who are in the City FEPS program and are not receiving cash
+
+[**(03:39:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13178s)
+
+
+
+assistance, I am just trying to make the distinction between City FEPS and state FEPS. >> So, for the people who are in the City FEPS program and are not receiving cash assistance, what are you doing to achieve self-sufficiency? Because I think the answer you provided
+
+[**(03:39:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13192s)
+
+
+
+earlier maybe included the folks who are
+
+[**(03:39:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13197s)
+
+
+
+receiving cash assistance. >> Got it. Understood. I am going to turn it over to Patrick to address that. >> Thank you. >> So there are a number of different facets in sort of what you are asking. So you are supposed to be eligible for City FEPS but sorry for cash assistance when you are on City FEPS but you do not necessarily have to be on it. So when the budget director was talking about if you are on City FEPS you know there are those engagement programs. I think some of the things that we are trying to do is increase
+
+[**(03:40:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13222s)
+
+
+
+that level of engagement even for those that are not on cash assistance to make sure they can get that self-sufficiency to eventually roll off.
+
+[**(03:40:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13231s)
+
+
+
+>> Okay. So then it addresses everyone I would say. >> I mean the goal is to have everybody get this type of you know workforce training or other engagement. Yes.
+
+[**(03:40:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13240s)
+
+
+
+>> Okay. Thank you. And then Urban Resource Institute or URI launched its people and animals living safely or PALS program in 2013 to provide a co-living environment for people in domestic violence shelters and their pets. Research shows 50% of survivors cannot leave an abusive situation unless they could bring their pets. For the first time since the program launched more than a decade ago, the City agreed to
+
+[**(03:41:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13264s)
+
+
+
+provide $250,000 to support PALS at the recently opened Magnolia Gardens shelter and support PALS experts and supplies for pets on site. However, URI was informed that OMB cut the funding line and DSS was not involved in the cut according to their testimony. Why was this funding cut and is it planned to be restored in the executive budget? CM, it is true that the prior administration made a commitment in this regard for the $250,000. There was it was never funded at the time. So, it is not a matter of a cut. Do not believe it was funded in the first place. We will
+
+[**(03:41:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13302s)
+
+
+
+evaluate it obviously knowing it is a priority for you, but also knowing the benefit that it can provide for the executive budget.
+
+[**(03:41:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13310s)
+
+
+
+>> Great. Thank you so much. And I also want to echo the sentiments earlier of just the and I have you know deep respect for former director Jacques but the tone with which you are answering the questions I think has not gone unnoticed. And I just want to say that we appreciate it for you and your whole team. So thank you.
+
+[**(03:42:11)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13331s)
+
+
+
+>> Thank you.
+
+[**(03:42:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13333s)
+
+
+
+>> Thank you. >> and thank you chair. Appreciate >> Oh yeah. No, of course. I forgot for round two we are doing three minutes. But if obviously if you guys have other questions just let me know. And so we are moving to Deputy Speaker Williams.
+
+[**(03:42:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13349s)
+
+
+
+Thank you. Like which questions to ask based off of what people already asked. Okay. How many agencies have submitted savings reports pursuant to the executive order and which if any are outstanding?
+
+[**(03:42:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13367s)
+
+
+
+All agencies that have, and I am looking at Nathan, I believe, all agencies that have received targets have submitted proposals.
+
+[**(03:42:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13378s)
+
+
+
+>> Yeah, I would just say there are a few different streams. So, every agency has a chief savings officer. We have reports from every agency consisting of the reports that were directed to be issued under the guidance accompanying executive order 12 as well as various work streams that they put together with their respective OMB task forces to identify savings options.
+
+[**(03:43:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13409s)
+
+
+
+>> What guidance was provided to chief savings officers and identifying and structuring savings proposals? What criteria will the administration use to determine which savings are incorporated into the executive budget? And then if you could summarize the types and total value of savings proposed to date, including how much is recurring versus one time.
+
+[**(03:43:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13432s)
+
+
+
+>> So let me sort of go in reverse order. In order to meet the most urgent objective, which is balancing the budgets for fiscal years 26 and 27, the agencies were prescribed the targets that you are familiar with. All agencies, well, nearly all agencies submitted proposals that either meet or approach those targets depending in some cases a little bit on how you account between the years. We are now in a stage of evaluating the viability of those proposals which is a fairly painstaking process but all the agencies are doing their parts in terms of trying to meet the targets. The guidance that they were given directs them to consider the sorts of functional opportunities that the budget director mentioned earlier in terms of that are consistent with this administration's policy priorities. So insourcing, minimizing contracting expenses, finding program efficiencies, technology modernization, even things that are seemingly sort of anodyne like lease consolidation. Those are all driving the process. We have gotten a lot of comments on those kinds of opportunities. And it is honestly a mix of short-term and long-term savings again because of the dual objectives of meeting the current targets and finding long-term efficiencies. But a lot of the opportunities identified would create permanent savings once fully vetted and implemented.
+
+[**(03:45:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13519s)
+
+
+
+>> Yes. And then what criteria are you all going to use to evaluate what they submitted to make a determination on what actually gets incorporated into the executive budget?
+
+[**(03:45:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13529s)
+
+
+
+>> There are a few different kinds of criteria. So the first set of criteria so to speak is just viability and that is really a technical assessment on whether the proposals can be implemented and how much they will actually achieve in savings. And then there are more policy-driven criteria. And these tie back to the CSO reports looking at each agency's respective key performance indicators looking at the constituencies served, the success and relative utilization of programs and other sorts of indicators that are somewhat more qualitative and evaluative.
+
+[**(03:46:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13567s)
+
+
+
+>> Yeah. But what are the qualitative metrics though like specifically like I know you listed them but like what about utilization? Like what about like constituency served? Like
+
+[**(03:46:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13578s)
+
+
+
+>> so that is so it is agency by agency but if an agency comes back to us >> so agency by agency you are making a different determination on how to evaluate whether or not their cost savings will be adopted into the executive budget.
+
+[**(03:46:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13590s)
+
+
+
+>> The agencies report back they all have their own key indicators right because they have >> I know but like you all they had to submit it to you and the OMB ultimately will review and make a determination on what gets included in the executive. And so I am trying to understand specifically like what criteria whether it is qualitative or quantitative and then like what type of metrics within the qualitative I guess criteria are you using to make a determination like if I am said agency and I produce something to you and I say I am going to save money in I do not know some particular program how is OMB evaluating whether or not that particular program should in fact be cut and included that particular cost saving be included in the executive budget. How are you all
+
+[**(03:47:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13638s)
+
+
+
+evaluating that? >> Well, we are looking at it from a number of different perspectives. Number one, when we look at KPIs and metrics, we are looking at how many New Yorkers are served and for what purpose. For example, we are looking at are there other programs that actually perform the same service? Is there redundancy? We are looking at other impacts. Are there state or federal mandates, for example, that are mandating this program to move forward? Are there opportunities for grant opportunities from state or federal government? What has been the success or lack thereof in the mayor's management report that has gone out? So it is a range of different looks that we are asking the agencies and part of the engagement to say bottom line question is this program effective because of all those things and if it is not then can it be cancelled for reinvestment elsewhere
+
+[**(03:48:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13693s)
+
+
+
+>> okay it would be helpful if you guys can send that information like I really want
+
+[**(03:48:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13698s)
+
+
+
+to know like specifically what are you using to evaluate each agency's cost savings proposals and you just mentioned like whether or not they could apply to grants, but then I think someone testified that you defer to the agencies to apply to federal grants. So then what is that? Is it that OMB goes to the agency and says hey apply to this grant or I do not understand that if OMB technically is not a part of the grants process but then you are assessing that is confusing. Yeah, I do not perhaps we did not explain it as clearly enough as we could have typically when it comes to grant opportunities. It is a sort of an overall joint effort. Yes, OMB has more of the centralized role when something is budgeted and we are making sure that there are claims against it. But if we have this engagement with the agencies and we know that there are grant opportunities that are not being pursued then that is a conversation with the agencies to say how can we then pursue those to get you the financial support that you need for those particular things. So it is a joint effort even if the effort lies with the agencies to actually do the grant application and do the grant writing right. So but if there is an opportunity to pursue that sure we are going to talk to the agencies about that and OMB is involved in that.
+
+[**(03:49:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13780s)
+
+
+
+Sheriff, if I just ask one more question and be added to round three. The racial equity plans that are overdue, although I appreciate the mayor's willingness to commit to releasing something within the 100 day, I know that something hopefully will be released soon.
+
+[**(03:50:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13803s)
+
+
+
+However, my continued concern about the racial equity plans maybe over the last two plus years at this point is that they are supposed to be attuned to the budget and other cities like Chicago, I hate to say it. Our good friends in Chicago are doing so much better than us. They have the exact same office, mayor's office of equity and racial justice, they have the exact same OMB type of style office. And what they do is that their racial equity plans, the MOERJ director in Chicago and the OMB director are literally sitting in a room together talking about the racial equity plans as it pertains to looking at the city's revenue and expenses and making sure that there is some type of equity analysis that gets conducted before we even go into to prelim or exec. And so again, I know those plans are not released. So even though you guys have plans behind the scenes but would love to understand what equity analysis are conducted before you propose any new revenue streams and or how you intend to allocate and appropriate funds across various agencies specifically from an equity lens. Is there any type of analysis that you are currently using? And if you are not currently using a specific analysis, do you plan to use an analysis of this type of kind? Maybe using the racial equity plan to sort of guide your decision in the future.
+
+[**(03:51:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=13891s)
+
+
+
+Yeah. So, thank you for touching on these very important points because so number one, the mayor committed that we are going to release in the first 100 days the preliminary plan. So, we are coming up on that soon. We are looking at and OMB is oriented and will be even more oriented with more specificity as these plans are released and plans are coming from the agencies to build in the equity lens as we are evaluating especially on the new need front right because that is coming in it is a new need we want to understand how is this advancing equity so that is something that will is going to be built into the structure in a more formulaic way to understand how the investments are being made and it can run the gamut. I mean it is things if you look at sort of a recent announcement on the community parks benefit initiative $50 million right inherently those go to fund open space in underserved communities that we saw a lot of this during COVID where there was a not you know an equitable distribution of services across right that and there was an effort by the de Blasio administration to do that and make progress on that and so now that we are seeing that embedded in the racial equity plans. It is incumbent on OMB to make sure we are doing that and have it on our list of things that we are looking at, but working with the agencies on the existing flow, that is the key, right? The existing budget and where things are allocated now that back and forth and how do we address it that way.
+
+New needs is one thing, existing resources, we have to manage that together. And understanding that in a world of a dwindling pot, that task becomes a lot harder to figure out. But we can get there. We will get there working together with agencies and frankly with you and your colleagues because you have championed this and we are willing to be partners on this.
+
+[**(03:53:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14013s)
+
+
+
+Okay. Third round. Thank you. And thank you, Deputy Speaker, because your work and dedication nationally, I will say, to a lot of the budget equity pieces is extremely important for New York City. So, I appreciate that so much.
+
+[**(03:53:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14029s)
+
+
+
+Then I forgot to ask these questions on the first round. This is on behalf of CM Tiffany Caban, who is not able to be here in person. So, there are just a few questions that she had wanted me to ask on her behalf. So, I am going to read these. Last week the mayor officially appointed Reita Francois to lead the newly created Department of Community Safety. Her first question is the department of community safety introductory report proposes tripling the funding of mobile crisis teams such as ACT and IMT. What is the exact dollar amount corresponding to the tripled funding?
+
+[**(03:54:26)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14066s)
+
+
+
+So on ACT and IMT the funding is sort of the OCS budget first is the 260 million as we talked about. We could follow up with the CM and you on the exact amounts for ACT and IMT.
+
+[**(03:54:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14084s)
+
+
+
+Okay. I think it is under DOHMH. So yes.
+
+[**(03:54:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14091s)
+
+
+
+Yes.
+
+[**(03:54:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14092s)
+
+
+
+Okay. And then the second if you could get back to us on that that would be great. And then the second question that she had was how much is anticipated to be added in the executive plan for this department for PS and OTPS. So we are looking at that now in terms of right now the first step was to create the office which has happened move over the existing offices that is the 260 looking at then what the deputy mayor needs for her team to manage and coordinate policy across and that is something we are evaluating for the executive budget.
+
+[**(03:55:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14117s)
+
+
+
+Okay. And then her third question is, is the administration planning to move all the mobile crisis teams funding from DOHMH to this department? If yes, when will the change be reflected in both agencies budgets? Something we are looking at, make sure that the deputy mayor has an opportunity to get settled and understand what the central policy coordination should be.
+
+[**(03:55:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14151s)
+
+
+
+Okay. And I guess my follow-up question to CM Caban's question is I would be curious to see what the answer to that question is because I know that there are certain licensing and other things that are required that are sitting with DOHMH. So I would be it would be interesting to see if you have clarity around that. Okay. Perfect. So next I am going to go to CM Wong.
+
+[**(03:56:11)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14171s)
+
+
+
+Thank you, chair. I would like to start with a CUNY question on their infrastructure. Many of CUNY's buildings have extensive capital needs, including leaky roofs and broken elevators. These maintenance issues severely impact the safety and accessibility of the campuses, which is in turn impacts the student success in higher education. My question is what investment has the administration made to address the structural maintenance and accessibility issues?
+
+[**(03:56:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14206s)
+
+
+
+Sure. So I think you know my time at CUNY as well I was able to understand full well that the you invest in our community colleges. You that helps you improve in so many different ways. It tracks enrollment. It improves morale and boosts morale for faculty and for students alike. And CUNY is an engine of upward mobility. And so we have to find a way to support it. They are asking for and have pegged through their state of good repair analysis $200 million that would be needed on an annual basis for state of good repair. We are looking at that within the confines of the budget challenges that we have and we hope to invest in CUNY because honestly it is a great investment for the City and state of New York.
+
+[**(03:57:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14259s)
+
+
+
+Okay. I understand that the 200 million is split evenly between the City and the state. Is that right? Well, typically what would happen is investment in the community colleges is put up by the City and then the state matches on a reimbursement schedule. The so the City is looking for the CUNY is looking for community colleges $200 million for state of good repair which is calculated based on a percentage of the replacement value of the actual building stock itself. And so they are asking for 400 million from the state for the senior colleges. So together hopefully we can meet those needs and therefore critical system upgrades, you know, chillers, building systems, HVAC, windows, lab improvements. So all those things are critical to making sure that we improve boost enrollment which will help CUNY continue to fulfill its mission.
+
+[**(03:58:30)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14310s)
+
+
+
+Is this in the executive plan for these capital needs?
+
+[**(03:58:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14313s)
+
+
+
+We are working on it for the executive plan. We have not made any final decisions. All things capital, we are trying to keep we are trying to make room in our debt capacity limit because there is a constitutional limit on how much debt we could incur on the capital side. So, we want to make sure we leave room for housing. We want to make sure we leave room for CUNY, etc. So, we are figuring all of that out.
+
+[**(03:58:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14321s)
+
+
+
+Okay. Thank you. My second question is the city's budget has grown 42.8 billion over the last decade. It is now 16 billion higher than has grown at the rate of inflation and revenues remain strong. Given how much we spend and the strength of revenues, why is not the City able to provide critical high quality services without raising taxes?
+
+[**(03:59:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14360s)
+
+
+
+That is exactly the kind of effort we are undertaking with the chief savings officers to say what kind of savings can we achieve without cutting services, looking at redundant contracts, looking at ways to root out ineffective programs, looking at way to do more insourcing. All of those things are trying to get exactly at that. Can we have some savings that are produced so that the expense and revenue imbalance comes greater into line?
+
+[**(03:59:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14387s)
+
+
+
+Thank you. Thank you, chair. Thank you. Thank you, CM Stevens.
+
+[**(03:59:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14391s)
+
+
+
+Hi, I am back. I just have two quick questions. And just thinking about I know CMS has brought up a couple of times, but organizations CMS organizations rely on like legal aid, CGI, legal services to meet the needs of eradicating gun violence. And the last the last administration pegged them at $1.5 million, which basically eliminated this program. And I know that we are in the process of transferring a lot of these services over from DYCD to the Office of Public Safety. I just wanted to one just say, are you aware of that? And is there any talks about restoring this PEG that was put in by the last administration that pretty much took away the legal services part of this work of the CMS groups?
+
+[**(04:00:34)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14434s)
+
+
+
+Yeah, I do important work and we are trying to figure out in the executive budget how we can make sure they are well resourced for that effort. It is an ongoing conversation based on the budget challenges we have. I hope we can get there.
+
+[**(04:00:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14445s)
+
+
+
+Yeah, I know we have budget challenges, but like you know if we have programs and we are not fully funding them, we know that we are setting them up to not be successful. And my next question is one that you know for me has been I have been really disheartened us to hear so much talks about affordable City an affordable City but we really have not been talking about affordable City for young people. The unemployment rate for young people is at an all time high of about 21%. And for black youth New Yorkers between the ages of 16 to 21, I believe we are at like 24%. Which is extremely high. And you know, we keep talking about affordable City, but honestly, we are not talking about affordable City for young people. And especially programs like the cornerstones and beacons, which are typically holistic programs that support families and young people from a wide range of ages. We have not really seen any investments in this and I know we are in a tight budget, but I like to say this all the time. If we invest in our young people on the front end, we will not have to invest in them on the back end, which we are now seeing because we have triple the number of young people in secured detentions. So, how are we looking at this budget to ensure that it is affordable for all people, including young people who often feel like they are not part of this conversation?
+
+[**(04:01:55)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14515s)
+
+
+
+Yes, definitely. I mean, we concur with everything that you have said there. I mean, we need to be able to create more jobs for youth. We know and aside from the summer youth employment program, which we know there is investment in, so on and so forth, but what is it systemically, structurally that we can be doing not only on the educational front, but also to make sure that we are working with our corporate community to be able to see what kind of availability there are in jobs there. This is coming back to CUNY. Another the huge priority for the chancellor of career connected learning in curriculum. So we have to see how we can boost that so that we are making sure that students that are flowing through CUNY are getting internships, apprenticeships, connections with private sector employers. So that is something in the beyond program that we are looking at to be able to and we also have to be thinking about young people who might not be in CUNY and people who are not there and so how are we meeting them? Where are we at?
+
+I bring this up just in the sense of like I want us to make sure as we are thinking about equity in the budget, we are also talking about young people and having them be a part of the conversation and although it is a very tight budget currently, I do not want us to not invest in our young people because in that mistake, which we have already done, we have seen that we have over 300 young people in secure detention every night and we are expanding our secure attention detention centers because of our lack of investment. So, thank you.
+
+[**(04:03:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14595s)
+
+
+
+Thank you for lifting that up. Thank you, CM Stevens. And next we have CM Aldebol.
+
+[**(04:03:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14597s)
+
+
+
+Hi. This is a I guess I am going to ask the same question in a different way, but you know with the initiatives that the mayor announced are dependent you know they are dependent on you know the a municipal workforce that already has existing challenges with vacancies and funding. And there is nothing in the mayor's preliminary budget to address these challenges. Which make these initiatives you know underfunded or unfunded mandates. What plans are in place to prevent and I have been I have been bargaining contracts for 36 years so I know how collective bargaining works. But if there is not a commitment from from the mayor, from the administration to create equity, pay equity in the municipal workforce, there is no amount of collective bargaining that is going to get us there because, you know, pattern bargaining does not deal with those dis just those structural pay disparities. There has to be funding for it. And I want to know what plans are in place to rectify that. And prevent further vacancies and retention issues in some of these jobs that I mentioned, paraprofessionals, EMTs. There are others.
+
+[**(04:03:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14631s)
+
+
+
+Sure. But those are just two examples of where we have we have had real difficulties in retaining EMTs, recruiting EMTs and paraprofessionals with an expanding now you know mandate for them you know to do this work.
+
+[**(04:05:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14708s)
+
+
+
+Sure. Absolutely. And as someone who as you noted, you know, you have done decades in collective bargaining, so you know what can happen at the bargaining table. And I think you can look to examples just in this last round of bargaining where there have been equity funds that have been established through the collective bargaining process and through the table within the overall framework of the pattern. We understand pattern bargaining is not perfect, right? And we understand that and there are ways but it has been the way that collective bargaining has gone. There are bespoke equity issues that we have to look at through the collective bargaining process. We also know that we have the budget challenge. So that doing things outside the collective bargaining process exacerbates the funding challenge. So we have to be sensitive to that and figure out how to move forward. As I noted the equity issues in EMT, we are attuned to that. We are attentive to that. We understand the fire commissioner has come out with her position on it very strongly and we hope at the bargaining table we can come to a conclusion.
+
+[**(04:05:10)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14710s)
+
+
+
+
+
+[**(04:05:31)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14731s)
+
+
+
+
+
+[**(04:06:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14798s)
+
+
+
+But are you going to budget for it? It is a budget question. I mean you have to budget for potential increases or pay equity to address those pay equity issues. That is unfortunately the challenge and we know for example that there are significant costs associated with both EMT and the PAR professionals and we have to see how we can make it all work within the budget constraints we have. Again, in order for these programs to work, be heard, community safety, you need to have this workforce in place that is going to be able to perform those job duties. And in areas that are underserved, response times for EMTs just continues to grow, creating also disparities in many communities. So I just want you to really just want to know what the plan is to deal with that.
+
+[**(04:07:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14869s)
+
+
+
+Yeah.
+
+[**(04:07:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14871s)
+
+
+
+Thank you. Okay. Next we have CM Louis, followed by Restler, and then Sanchez.
+
+[**(04:07:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14879s)
+
+
+
+Thank you, Chair. I just have two follow-up questions for some folks in my community. So, Trauma Recovery Center was previously discussed and was told was effectively earmarked for the East Flatbush section in central Brooklyn. This particular area continues to face significant needs related to community violence and trauma yet there does not appear to be a clear commitment reflected in the FY27 preliminary budget. Can OMB clarify whether funding for this project has been included and if not why has it not been prioritized and can OMB share for the Council and the public if we could rely on OMB's outyear commitments and will OMB commit to greater transparency and accountability and how these commitments are reflected and maintained in future financial plans?
+
+[**(04:08:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=14938s)
+
+
+
+We are happy to follow up with you, CM, on the specific location that you are referencing. I mean, obviously, I know it is important to you and in your community. So, well, central Brooklyn as a whole. Well, certainly. And this is important a priority for us, too. We have to see what we can do in the executive budget going forward. So, we are happy to follow up with you on that. And as the office of community safety takes hold and obviously the other pieces as well on the community safety front, we are looking at all those opportunities for funding hopefully if we get to a more stable budget situation as well. So we are happy to work with you on that.
+
+And then in terms of transparency in the out years, I mean that is really what we are trying to do with all of the recognition of the unfunded or the underbudgeted needs is to really introduce transparency, certainty, derisking in the budget. If we can see the numbers in the outyears, we can effectively plan for it. You can effectively see how you are bending the curve and how policy interventions are getting at the crux of what is a higher trajectory on some of these programs.
+
+[**(04:10:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15008s)
+
+
+
+All right. Thank you so much. Thank you, Chair.
+
+[**(04:10:10)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15010s)
+
+
+
+Thank you. Okay. Next, we have CM Restler, Sanchez, Brewer, and then Epstein.
+
+[**(04:10:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15017s)
+
+
+
+Great. Thank you so much, Chair Lee. Five plus hours in. How are we feeling? Great. You lost Tara. Hopefully she did, but she will be back in a moment. You will be okay. Yes, certainly. You sure? Yes. All right. Do you want me to wait until Tara comes back? I am in your hands. All right. There we go. If you say so.
+
+So I wanted to just highlight a few things as we continue to focus on some savings opportunities. Firstly, city agency leasing. As I have mentioned in my previous remarks, we saw dramatic headcount reduction under the Adams administration. That is continuing and yet we saw the amount of space that the City lease actually increase despite more remote work efforts expanding across the workforce. That makes no sense. I think there were a number of corrupt real estate deals that Eric Adams and Jesse Hamilton and others advanced during the previous administration that explained some of that lease space. But there are real opportunities for savings. How do we maximize efficient, expeditious savings opportunities and incentivize agencies to want to reduce their footprint when I think generally they do not receive the savings in their own budgets when there are reductions in space.
+
+[**(04:11:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15097s)
+
+
+
+Yes, thank you so much for that. The effort of the chief savings officers is looking exactly at that. There is a particular focus on that in some of the examples that were highlighted in the mayor's press release this morning. They were small amounts of money couple thousand. It was... We will get there but we are looking at that office print. We are also looking in fact, you know, OMB we had we had...
+
+[**(04:11:56)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15116s)
+
+
+
+Yeah. So we had that too. So we are looking at that and lease space looking at other areas in consolidation and trying to figure out what is needed what is not needed for those savings at large that what we need I know you know whether it accrues to the agency budget versus not but overall as a City we need...
+
+[**(04:11:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15118s)
+
+
+
+Yeah. So we had that too. So we are looking at that and lease space looking at other areas in consolidation and trying to figure out what is needed what is not needed for those savings at large that what we need I know you know whether it accrues to the agency budget versus not but overall as a City we need...
+
+[**(04:12:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15135s)
+
+
+
+those savings. I think that we need... I am hopeful that the chief savings officers will help, but I think we need centralized coordination between your team and DCAS to actually bring the hammer down because this is an area where we can absolutely achieve consequential savings if there is some more aggressive management. In you may we trust.
+
+[**(04:12:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15158s)
+
+
+
+In you may we trust. Agree. No argument there. Although maybe Gale claims she knows her longer than we do.
+
+[**(04:12:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15164s)
+
+
+
+So I would like to shift to a couple other savings opportunities. Contract savings speaker raised this. It has been a you know as the contracts chair we have been looking a lot at this too. We saw we often see appreciated that highlighted in this morning's announcement included a number of efforts to insource consulting contracts that do not that are unnecessary that we can bring that capacity in house. Wondering if there is a broader, more comprehensive review happening from OMB...
+
+[**(04:13:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15193s)
+
+
+
+and consultation with MOCS and potentially others to evaluate whether some of these consulting contracts that are just not the best use of resources and are costing us a lot of money. I mean, DOE spent $760,000 on that magical 3K report about the future of 3K that we waited on for two years that taught us nothing. Department of Sanitation spent $1.6 million on a contract to teach us that trash should go in bins. I mean like I would like us to be a little bit more aggressive on this and wondering if there is a comprehensive review taking place.
+
+There is absolutely a comprehensive review taking place and that is through the chief savings officers and we are making sure we are getting that holistic view. We have talked to MOCS for example to your point and looked at for example let us look at the categories of these different contracts right professional services you have a bucket of contracts that I think is in excess of a billion dollars right but within that you have a multitude of different contracts you mentioned some management consultants that put out reports okay we look at that but under professional services you are also getting engineers and architects that are looking at things that are critical to scoping and capital projects and so on. We are not abolishing all of them. It is just an opportunity for saving.
+
+But that is exactly right. Looking at that as a methodical view to say what is under professional services. And by the way, there are some requirements contracts with some of the big management consultant firms that you can have cost avoidance. Do not like let us stop and look at even if you have a program and you have a management consultant contract. Can you do this in-house? Not only in your own agency but can other agencies within the City framework lend those particular services or other adjacent city organizations or covered entities can they be able to provide value there too so I hope that shows that we are 100% looking at that and the chief savings officer getting to it with a more granular focus.
+
+[**(04:15:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15308s)
+
+
+
+I really appreciate can I ask one savings question one more which is DOC headcount. 80% of DOC headcount is in uniform which seems unnecessarily really high. We have corrections officers in the bakery at Rikers Island when we should have civilians that would cost a whole lot less for the City of New York and probably have higher retention as well. I believe right now we are it is 7,000 out of the 8,800 positions are uniform headcount. Is there a broader review or analysis happening? We have great new leadership at DOC to revisit whether there is a better calibration between a civilian and uniform headcount that should be happening at that agency that might be able to save us resources.
+
+[**(04:15:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15338s)
+
+
+
+Commissioner Richards is taking a fresh look at that and obviously we have the remediation manager as well. So there has to be a joint conversation there. But that is exactly the kind of thing he is looking at to see if there are ways to improve sort of overall the functionality of the agency and understand where we are, what we need in terms of fixed posts and other needs within the Department of Corrections. Thank you very much, director.
+
+[**(04:16:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15374s)
+
+
+
+Thank you. Sorry. Next we have...
+
+[**(04:16:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15378s)
+
+
+
+CM Sanchez Brewer and then Epstein. Thank you, Chair. Lost my question.
+
+[**(04:16:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15388s)
+
+
+
+And I was like, "No." Hello again. Back for round two. Okay. On street vending. In January, this Council overrode the previous mayor's veto and enacted sweeping street vending reforms, including dramatically increasing access to both food and general vendor licenses and permits at the Department of Health and Consumer Worker Protection, respectively, and ensuring sufficient enforcement capacity at the Department of Sanitation and at SBS expanding outreach and education as candidate, then mayor elect, and then as mayor, Mayor Mamdani committed to supporting the critical work of implementing these reforms and ending inflation.
+
+And while an executive director for street vending services has been identified, very excited about Karina. The proposed preliminary budget does not include new needs in any of the other agencies in connection with implementing these reforms. We think that well, DOH has four lines. We think there we need 12 more. DCWP's fiscal impact statement on this Bill said they needed 26 more lines. DSNY we think we need 30 more enforcement agents. And then at even at SBS Karina is going to need three more staff.
+
+So recognizing that my colleagues on the Council are very good at highlighting all the places where we should do more and spend more. I do want to note that IBO estimates that licensing these vendors could bring $60 million in revenue to the City of New York. So, one, on the staff lines, do you agree with these numbers? And two, how does the administration plan to comply with local law 54 of 2026?
+
+[**(04:18:01)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15481s)
+
+
+
+Yes, absolutely. So, thank you. I know this issue is near and dear to your heart, and I know that the enactment of the local law was a couple of weeks, I believe, before prelim came out. So, it was sort of like, you know, it was a tight window to try to evaluate the full needs and we are going to evaluate those needs as we have exec that is coming up. And you know, street vending is part of the fabric of our streetscape and of our culture really in New York City. So, we want to find a way to obviously we have to find a way to comply number one with the law, right? But also to support the effort in a way that uplifts the sort of vibrant street vending community. So we look forward to working with you on that.
+
+[**(04:18:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15526s)
+
+
+
+Right. Thank you so much. I look forward to seeing more reflected in Exec. And then my second set of questions is, you know, again, talking about this moment of transition. The mayor has said that he would honor prior commitments made through rezonings and those kind of discussions. So, I just wanted to check in on updates first on the Kingsbridge Armory redevelopment that we voted to affirm in October. There one of the commitments in there that is most important to me given community violence in my neighborhood is 100 after school seats through the compass programs and small business supports for the businesses that are feeling pressure because of the Kingsbridge Armory redevelopment. Wanted to check on that status and and if I may finish the question chair in City of Yes 2024 there were 200 lines added for DCP buildings and HPD staff lines. I heard from buildings in HPD yesterday, but can you update us on the DCP lines? And then just got off the phone with DCP Harlem River North study is happening. So, thank you. And then the last question is on Jerome rezoning 2018, there were some unfulfilled commitments regarding small business supports.
+
+We will be happy to follow up with you on all of that. I think that in the preliminary budget we did put in just in terms of a to show sort of commitment on previous points of agreement memos and we did the SEEDS investment. I think it was Jamaica and for Long Island City. So as a general rule, we know that in order for these rezonings to occur, there are agreements and those agreements you know are important to you and your colleagues. So, we are trying to figure out how we can honor those. Again, we did that for SEEDS. We will continue to do that for these others, but I do want to talk to you more closely about Kingsbridge and all the other things you have raised. Happy to. Excellent. Thank you. We are going to get it done. Thank you, Chair.
+
+[**(04:20:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15639s)
+
+
+
+Thank you.
+
+[**(04:20:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15640s)
+
+
+
+Okay. Go ahead, CM Brewer. Thank you very much. You are very...
+
+[**(04:20:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15644s)
+
+
+
+impressive, sir, because you have not...
+
+[**(04:20:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15645s)
+
+
+
+moved one of those pieces of paper. It is all in your head, and you have a big book, and none of those damn pages have moved. I hope these questions were not asked because I would had to go to immigration, but I did with IBO a few years ago a report that said $2 billion uncollected fines and fees and then just recently the Amazon was brought to light by streets blog only 10 million. So I guess my question is I know some of it is uncollectible but it is hard for people to hear uncollectible when they are paying. So what are we doing? And I know finance oath everybody is involved but how are we making sure that we have more collecting than what is two billion a year is a lot not to collect.
+
+[**(04:21:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15688s)
+
+
+
+It is a lot and I know that you have highlighted this many times CM and we take that to heart that that is an opportunity that we do not want to leave unexplored. And so we have been working with the Department of Finance to make sure that they are upping their communications with all of the entities or all of the respondents, if you will, to the ECB violations with the understanding what was raised before about about buildings and violations on those buildings and be able to place liens. But there is a whole other sea of other uncollected debt that we want to make sure we are using either payment plans or ways first to try to understand how people can pay and pay you know on a plan. But then we also have collection agencies obviously on contract there and there are different levels of getting there. So we are exploring that as well how to improve that perhaps using AI and other things to improve those collections. I think at the same time one of the things that included in the preliminary budget is an ECB amnesty program. We have done it before. We think we can do it again more targeted approach to generate that kind of revenue and make a dent against that 2 billion.
+
+[**(04:22:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15764s)
+
+
+
+All right. So you are suggesting an amnesty program depending on how it would work.
+
+[**(04:22:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15767s)
+
+
+
+Absolutely we are and we want to be careful about the breadth and approach to it because again we do not want to sort of we want to hold folks accountable too. So those, you know, dilapidated buildings that we are looking at to place lien so that, you know, tenants have livable, humane conditions, like we do not want to just give them a free pass either, right? So we want to we want to make sure we are being methodical about...
+
+[**(04:23:10)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15790s)
+
+
+
+You would think Amazon could pay.
+
+[**(04:23:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15793s)
+
+
+
+Well... I know. I am just saying they owe $10 million.
+
+[**(04:23:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15797s)
+
+
+
+Yes. We have to I think we have to...
+
+[**(04:23:19)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15799s)
+
+
+
+engage with them on a different level. They need to pay. They need to pay 100%. So we have to look at engaging with them on a different level. Exactly. Insurance. I know this came up previously. It is happening on the state discussion, local discussion. How are you looking at this? I know the speaker has a bill to try to make it more transparent in terms of what is out there. How are we looking at the issue of insurance in terms of less having to be paid? You mean health insurance? Yes, health insurance. No, just generally. I know the City is indemnified. I know that. But I am just saying when you build a building, you got to have this high insurance rates. It is like everything you do is caught up with the insurance companies and in one way or another the City is paying. Is that something that is on your radar or that is not OMB? Absolutely on our radar and actually talking about it in the housing context because we want to make sure that we are firing on all cylinders when it comes to supply and on preservation. So, we want to make sure that any of these loans or any of these projects have the ability to do that. There are some interesting ideas about how to do it. Yes. And that our housing team has those conversations are going on. We are not settled yet on approaches, but yes, it is on our radar. All right. One other quick question. So the I think the state is going to come up
+
+[**(04:24:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15873s)
+
+
+
+with five billion. I believe that not through any of the situations that you have today. Although Syracuse, Buffalo, and Rochester are worrisome for the governor having spoken to about them because you know New York gets money and then what about those cities that are also in so maybe you could give some money to them a little bit and then they would be happy and the governor would be happy. It is an idea something to think about. But what I am saying is if they do not come up with the five billion, are you think you are going to have to do a PEG program? I know your suggestion is to try to do the borrowing here and there, but would you have to do some expense cuts? do you think or you would stick with what your program is? So,
+
+[**(04:25:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15912s)
+
+
+
+I do think they are going to come up with the five, but we will see.
+
+[**(04:25:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15914s)
+
+
+
+I am equally optimistic that we are going to get there. And I think that we have been having positive conversations throughout and between the executive budget and the one house budget significant progress has been made. Obviously, the final analysis is what counts, right? And you know, we then have to work really closely together to figure out how we will balance if we do not get there.
+
+[**(04:25:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15936s)
+
+
+
+social adult daycare centers. You know what they are? They are horrible. They have taking people's blood pressure every minute and then they charge them Medicaid and they do not go to social support with the regular centers. I am just saying look at them. It is a state issue, but they charge Medicaid every day. And it seems to me we pay part of that. I would look at that as a revenue enhancer just to get rid of them and the state and the City would save money. Thank you.
+
+[**(04:26:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15963s)
+
+
+
+Thank you. Okay. CM Ste.
+
+[**(04:26:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15969s)
+
+
+
+Okay. Okay. I know you have been here a long time, so I just wanted to go back to the revenue. I know we have heard a lot about this like unrealized revenue, taxes, like we, you know, almost a billion dollars from HPD, DOB fines, parking fines. What of that do you think is potentially realized in the next fiscal year? Although, you people say it is up to four billion dollars in arrears at this point that is owed to the City. I mean we do do you have any... Yeah,
+
+[**(04:26:39)**](https://www.youtube.com/watch?v=2soPrZWS754&t=15999s)
+
+
+
+I will turn it over to Joshua Bolstein and address some of that. In terms of right ECB we have talked about and we all know the challenges in collecting and we I think the number that one of your members said is something like 45% or something and it is really it is low and it is a challenge. We are constantly working on it. In terms of parking, right? That is another most of that money actually gets collected. It just takes time, right? You have since you do actually have enforcement mechanisms like the marshalling program, the booting program. You actually do get most of that money in.
+
+[**(04:27:11)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16031s)
+
+
+
+So I only get I just have a little left time. So, so you are representing here that on the parking side you are collecting most of the money, but you are making some deals with big companies so they can get unlimited parking and you are giving them some kind of deals. Is there attempt to re-evaluate that because basically the Amazons of the world, the you know FedExes of the world, you have these deals that they pay a portion of it. So,
+
+[**(04:27:36)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16056s)
+
+
+
+yeah, that was I know what you are talking about. It is a stipulated fine program. the DOF so as former DOF commissioner yes I know that the issue is is one of is it diminishing returns right the reason why this program is in place is because of the administrative apparatus needed to adjudicate those it is not so much letting them off the hook it is what is the best deal for the City of New York to be able to
+
+[**(04:28:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16083s)
+
+
+
+I hear you but just think about that impact that it has on the City of New York if there if people continue to double park and there are not implications so I thinking about those fines and those impacts that it has on her daily life, the ECB fines, DOB, those like people just do not feel like the City is doing anything to deal with all these arrears. And if there is an opportunity here, if there are legislative changes, we need something from Albany to be able to utilize these tools in your tool belt. I think it is really important. And I do not I just feel like we are not using enough tools and we need to figure out what we can do. And then we have heard a lot from nonprofits around outstanding money that is being that they are owed and that OMB is holding up a lot of their contracts years back contracts like tens of millions of dollars for small nonprofits. Can we commit to kind of moving that process forward for them to help them because they are having budget problems now because they are not getting paid from 2022 or 2023 contracts and we are, you know, 2026 and going to 2027.
+
+[**(04:29:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16142s)
+
+
+
+Yeah, we have made some progress on advanced payments. We know there is more to do. We know that these organizations provide very essential services on tight budgets. We need to make sure we do more. But we have done some on advanced payments. There have been previous commissions and working groups on this. We know the Council is very passionate about this. So, we will continue to work on it to get them the resources.
+
+[**(04:29:26)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16166s)
+
+
+
+We cannot rely on these groups to do the work we need in our communities if we cannot pay them. That is right. At some point, they are just going to go under and it is going to be worse for all of us.
+
+[**(04:29:33)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16173s)
+
+
+
+Understood. Yeah. Great. Thank you. And we have been joined by CM Schulman, and I am going to pass it over to our deputy speaker.
+
+[**(04:29:46)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16186s)
+
+
+
+Okay, I am back. I feel you kind of answered this question today, but how is the administration accounting for the fiscal impact of federal policy changes already affecting New Yorkers, including SNAP eligibility, reductions in essential plan coverage, declining vaccination rates, federal student loan caps, and declining international student enrollment, expanded work requirements for public benefits, and cuts to climate and infrastructure funding? Where in the budget are resources allocated to respond to these impacts and how is the City planning to absorb or offset them?
+
+[**(04:30:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16222s)
+
+
+
+Sure. So one of the things that we did so on food and mentioned before we did we increased the number of SNAP eligibility specialists in the preliminary budget. We also tripled the food budget to $54 million for the HR community food program. We also included I think 3.1 million for the get the good stuff food program. So on food that is what we have been able to do. on health care and Medicaid. Again, it flows through the state and we were again happy to see the decision by CMS center for Medicaid and Medicare services that they will not require on the on the Aliesa population to be removed from the essential plan so that the state does not have to incur that cost from its general fund which obviously helps prevent the trickle down effect to health and hospitals on sort of pass along cost cuts and impact You mentioned too some of the stuff on our students on CUNY for example and the stuff the stuff the provisions that are coming from you know HR1 with respect to loan caps and so on and so forth and thankfully the worst of that bill was avoided which was PEL hits right so PEL grants are there but on the student loan side we know the payment plans are going to become more restrictive and less affordable so we have to be able to find a way to help with the apparatus at CUNY to help with that loan counseling so that outstanding debt does not just accumulate and accumulate.
+
+[**(04:32:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16322s)
+
+
+
+So in the exact those things will be reflected.
+
+[**(04:32:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16327s)
+
+
+
+We are looking at that for the executive budget given the fiscal challenges you know along with other needs in all of these other areas. But we have made progress on SNAP and food in the preliminary budget and we hope to build on that in concert with the state because the state has done a lot here too on food.
+
+[**(04:32:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16343s)
+
+
+
+Thank you. Why does the administration continue to project lower costs for waste export and organics processing than IBO estimates? And then given the rising costs, why are outyear projections flat or declining? Effectively creating a funding cliff.
+
+[**(04:32:41)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16361s)
+
+
+
+Yeah, it is something we are actively looking at. I think that the reason is we are looking with DSNY to actively manage what those savings ideas that that were out there, right? So, the chief savings officers are looking at that, but also savings that have already been in place about staffing needed at the at the export facility. So, it is something that we have a policy intervention to actively manage. It is not like we know the expenses are going to increase. We are trying to manage them and have it plateaued.
+
+[**(04:33:08)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16388s)
+
+
+
+Okay. And did not have this question already written down, but Department of Sanitation budget like it is the lack of transparency. And I think this goes back to the hill that I will die on for the next four years, which is around like budget equity and how unequitable our budget process is as a city. It is so hard to even figure out how we are even allocating money from a user friendly average New Yorker perspective. As you know, OMB is perpetually not in compliance with the charter that mandates way more units of appropriation than you all ever do budget to budget. Which really does not even allow us to make an assessment on whether or not you are truly allocating or generating revenue in equitable ways because we cannot even see it or see it in real ways. Obviously through coding and a whole bunch of other weird things that people have to do behind the scenes in spreadsheets some things can be ascertained but it is just really not transparent way. So to the sanitation budget is there a way for you to disaggregate the budget by way of garages garage to garage? like can you share like how much a particular garage is getting in Midtown Manhattan versus South Bronx versus Staten Island? It is a question that the former deputy speaker actually asked many times and Department of Sanitation nor OMB could ever really provide clear information on how money gets spent from garage to garage.
+
+And clearly we cannot see it because that is not how the budget looks visibly to us because there is no specific units of appropriation by geographic location. Yeah. We are happy to look into that
+
+[**(04:35:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16503s)
+
+
+
+specific area. I know I think I think there was a brief conversation that we had about this. I think it it is the deployment the nature of the deployment of the uniform sanitation personnel that I think that the results of that may be skewed because you can move around the the various pieces but let me come back to you on that. I think that was yes and equally to that point around the metric for like regular cleaning. So I know Department of Sanitation has a metric to determine tonnage when like a new building comes, regular trash pickup and resources do get allocated to adjust if you have more population in a particular community there is like some type of methodology that they use. But there, as far as I know, given my many conversations with chiefs in Department of Sanitation, there is no metric to determining how to allocate resources by like just regular cleanup. There is no way like if you have a community that has more people in the community outside of like the regular trash pickup that you have to do, the department does not have a way to even make an assumption on whether or not a garage should get more money or not for regular regular just cleanliness. There is no particular metric that Department of Sanitation uses.
+
+So would be great if that could also be figured out because I think it will help to address a lot of concerns that members have around cleanliness in their communities which again is different from a regular trash pickup from a building or from someone's house. And there is no metric for them to determine whether or not more resources should be allocated to particular communities.
+
+[**(04:36:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16608s)
+
+
+
+Yeah, I I I I totally hear you on that. We are looking I mean it is it is interesting because you do see some instances where there are there have been specific deployments to address acute cleanliness issues in particular areas. It has been done on an ad hoc basis. It has not been done across the board. But if I am what I am what I am hearing is that there should be a more systematic way to rate and to look at conditions. I think so. It is based off of one day
+
+[**(04:37:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16641s)
+
+
+
+the chief, you know, calls whoever in central and says, "Hey, I need an extra garage, a extra truck for trash pickup." And then based off of whatever resources are available in the City, then whomever higher up makes a decision. Okay, fine. for garage for Queen South, you get two trucks today to do extra cleanup, but it is it is like it is no specific way to make a determination on like the resources that certain garages truly need. It is like on a request basis and whomever again higher up making a decision on whether or not a extra you know truck should be allocated on any given it is like did not make any sense to me that almost every single day or I do not even I do not even think it was weekly maybe it was weekly but it was not more than weekly like these chiefs have to make requests and then have to then hear from whoever higher up whether or not their request is even going to be you know properly received to get any additional resources. I just have a few questions on child care really quickly. How does childcare vouchers
+
+[**(04:38:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16709s)
+
+
+
+factor into the administration's plan to expand access to free or reduced cost care for children's ages 0 to six? So we were appreciative we are appreciative and we were happy to reach an agreement with the governor on day eight 1.2 2 billion. Of the $1.2 billion, there was $475 million that was committed that would go to help fund childcare vouchers. And that is to ensure that the existing number of families remained on the eligibility roles. We are acutely aware that there is a waiting list and a need that is there to expand There may be additional state dollars that end up coming through which we are hopeful for and that we are hoping is enough so that we could start to reach families on the wait list. We do not know if it will be enough. The program is already operating with a cliff that we have that we funded like an unbudgeted amount. So, we are looking at making sure that we can continue just with the current eligibility rules. We would love to get to a point where we are reaching additional families. Yeah. So to that point, what level of
+
+[**(04:39:53)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16793s)
+
+
+
+voucher utilization is projected in the out years and then exactly what you said with additional state funding and also the existing weight list that you just noted, how does the administration plan to scale across and ensure eligible families are served?
+
+[**(04:40:09)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16809s)
+
+
+
+Yeah, I mean I think it is our all of our goals to make sure that it is served. It is a question of budget and we have to figure out how we are going to be able to fund that. Clearly, we got there on making sure the 475 475 million helped us with the current eligibility. Again, if there are additional from the child care block grant funds that are statewide that we will find out if more of it is coming to the City. If it is more than what the current cost is for the eligibility families, we can then hopefully move forward to expand. And lastly, not
+
+[**(04:40:40)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16840s)
+
+
+
+Really a question, but like a statement of just thinking about something. I just had a conversation with Deputy Mayor Kirsten. I think I am saying her name correctly. This was about paving and I know that the city is currently using the 311 data once again to decide which communities to allocate resources to, which ultimately to me, even though the work is being carried out by agencies, I also look at this as like a budget thing. Like how are we allocating resources across New York City? And while 311 is a great system that is also imperfect, the over reliance on the city to use 311 data to make a determination on how to allocate resources is also inequitable because we know that certain communities use 311 more than other communities. And just because certain communities send a thousand and one 311 complaints about potholes does not mean that the community that sends none does not have potholes.
+
+And so I know based off of my very brief conversation with her, she is looking at ways to see where they are getting the most 311 complaints and trying to figure out a way is can they go to a particular community if they have no complaints. I know it is a big city with a lot of people and we have to find the most efficient ways to address concerns and allocate resources, but I just want to encourage the administration to not have an over reliance on 311 data when determining how to allocate resources. And I have had success because I actually have a district that for the most part is very active and they do a lot of 311 complaints. I also educate the community on the importance of data collection. And even though 311 does not always solve your problems and is very frustrating, the data is really important to again how you all determine how to allocate resources. I have been able to get extra cameras for illegal dumping because I had the most 311 complaints for illegal dumping.
+
+But it is still not a fair system because again, not all communities use 311 in the same ways. And so I do hope that this is something that you can think about in the many metrics and data points and things that you all use when you are analyzing the budget to think of other ways to ensure that we are allocating whatever resources from whatever agency fairly across the city across the entire city and not just specific communities.
+
+[**(04:43:14)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16994s)
+
+
+
+We will absolutely take that back and have that discussion.
+
+[**(04:43:18)**](https://www.youtube.com/watch?v=2soPrZWS754&t=16998s)
+
+
+
+Thank you, Deputy Speaker. And Council Member Selvena just has a few questions on DOHMH.
+
+[**(04:43:23)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17003s)
+
+
+
+Thank you. Hi. I am sorry I was not here earlier, but I was watching virtually, and I had some other hearings to attend. So, I am chair of the health committee. And welcome. The COVID-19 pandemic highlighted the importance of preparedness, supply chain stability and surge capacity across the public health system. Maintaining adequate stockpiles of personal protective equipment PPE, ensuring healthcare workforce readiness and preserving surveillance infrastructure such as testing and tracing capacity remain essential to protecting New Yorkers from future public health emergencies. The fiscal 2027 preliminary plan includes $25 million for emergency preparedness and response. Does the fiscal 2027 preliminary budget accurately reflect the full cost of maintaining public health emergency preparedness and response capabilities?
+
+We are always constantly working with the department of health and mental
+
+[**(04:44:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17060s)
+
+
+
+hygiene on this. We know that regarding funding needs and emergency preparedness, this constantly comes up in their new needs and we are evaluating on the executive budget. We know that since COVID there have been valuable lessons learned. And we know that we also have to be cognizant of the fact that there have been cuts which we are hopeful now that thank you again to the governor's commitment to reverse some cuts and cost shifts to article six public health funding. There is more that can be done clearly at the federal government to have contingency plans so that emergency preparedness in the event of any public health emergency can be solved
+
+[**(04:45:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17102s)
+
+
+
+especially as COVID-19 funding is going away. Exactly.
+
+[**(04:45:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17107s)
+
+
+
+How does OMB evaluate whether the city has sufficient surge capacity in the event of another public health emergency, including funding for temporary staffing or emergency contracts? Well, we again engage with the Department of Health and Mental Hygiene to ensure that we know what their needs are and what preparedness means and what they need to be well resourced. I think that they have plans on the books. We want to make sure we actualize those plans and what the resources there are. Obviously, we have a budget challenge. We need to make sure how we can get there in the executive budget, but it is a priority.
+
+[**(04:45:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17144s)
+
+
+
+Yeah. Because we, as you know, we cannot rely on the federal government anymore and we have to be an entity onto ourselves and I know that the Department of Health just recently joined the World Health Organization on its own. So, these are things that, you know, needs that may not have been there before. So, I just wanted to.
+
+[**(04:46:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17160s)
+
+
+
+All right. Thank you very much, chair. Thank you.
+
+[**(04:46:02)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17162s)
+
+
+
+Thank you. Thank you. Okay, we are nearing the end. So I just have a couple questions that I was asked to ask in terms of education. So as you know with the conversations at the state level looking at foundation aid formula for ELLs which was switched from 0.53 to 0.6 and added a weight for students experiencing homelessness and living in foster care. The Senate version also included in the one house bill increased school aid for pupil transportation and the assembly includes further proposals for additional funding for 3K and class size. IBO estimates that the ELL proposal would add 69 million of foundation aid funding in FY27. And IBO also estimates that the Senate proposal for the added weight for students experiencing homelessness and living in foster care would add 93 million in funding for FY27 and that the assembly proposal would add 486 million. The fiscal policy institute found a similarly robust estimate for these proposals. And have just the question is have you conducted your own estimates for these proposals and if so what are they?
+
+[**(04:47:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17232s)
+
+
+
+Yeah. So thank you chair. So we are as you know supportive of the additional weights that we have and the chancellor has been very vocal about this and he has testified to Albany about that and the additional weights in particular for ELL or service to homeless students etc. So in terms of what is in the one houses we know that they have put in those
+
+[**(04:47:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17258s)
+
+
+
+funds to be able to support that. It is important for the assembly and the senate to be able to do that. So, we are looking at their numbers. I mean, I think the ELL the 69 million I think is fairly in line. The other one we have to look at in terms of what we are seeing and we will be able to get back to you.
+
+[**(04:47:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17277s)
+
+
+
+Okay, perfect. How about any other thoughts on the funding proposals in one house? Are you advocating for these proposals to be included in the state enacted budget? I am guessing I know the answer, but just wondering.
+
+[**(04:48:13)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17293s)
+
+
+
+Yeah, in general, we are very heartened by the executive budget and as well as the one house budgets which look to add $5 billion each and there is a suite of different proposals. Some of them overlap. Some of them are different in terms of the ways that the Senate and Assembly got there. But we think that there is significant and important and timely consensus around reinstituting some form of AIM aids and incentives to municipalities for example that we have not gotten since 2010 as a city. So things like that, things like other, you know, the reversal of cuts and cautions I mentioned before the adult shelter reimbursement, single adult, that is going back to the 1990s 50/50 split. On the raise the age funding and foster care reimbursement, also a reversal of those. So between that and the suite of tax options that were put out there and pretty much alignment on those except for I think the Senate put in the gold bullion tax exemption whereas the assembly did not. But I think by and large they get to the five billion and we are hopeful that in the final analysis it is included.
+
+[**(04:49:29)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17369s)
+
+
+
+Perfect. Okay. And just really quickly on early childhood education, 300 million was added in fiscal year 26 to cover a budgeting shortfall for early childhood education programming. Can you detail and elaborate on the areas in the budget that had previously been underbudgeted?
+
+[**(04:49:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17385s)
+
+
+
+Sure. It is really just the early childhood education apparatus. So we know for example the actuals the year prior was about 2.5 billion and then this year it was 300 million short. And then there was another 80 million that had to be added because I think a head start seats went away. So that is why you see 380 but that was literally going to fund the existing operation of early child education for UPK and for 3K and to stabilize that. The child care deal that was done with the governor was also to help stabilize but also to expand on the 3K so that we make sure we are getting to the contracted providers and make sure that those fill rates will be funded if as we do more outreach and get those you know children in those seats and then of course the 2K expansion as well and childcare vouchers which I mentioned before that is what makes up the 1.2 billion, but the 300 and 380 that was added was just purely unbudgeted amount to keep UPK and 3K existing levels going.
+
+Okay, great. Thank you. And then how would you use this the budget for that amount? Sorry. That is, I think, a number of things, including that there is the appropriate staffing in the early childhood education department to make sure that we are doing the kind of outreach to communities that we need to do the painstaking work of making sure that invoices are processed and that vendors are getting paid and that we understand what the fill rates are in each of these communities and siting and everything else related to how to have a robust early childhood education apparatus. And it had taken some hits in the PEGs over the years. But clearly as a main priority of the administration, we are making sure that they have the resources they need so that it is a functional program.
+
+[**(04:51:47)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17507s)
+
+
+
+Okay. So just to clarify, so you have 235 million for new UPK or 3K is
+
+[**(04:51:57)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17517s)
+
+
+
+Yeah. So the 235 million is part of the state agreement that is really funded for the expansion. So, as some of the way the contracts are set up, it is like if you reach over 70% I believe in fill rate, then it triggers another level of funding in the contract. So, we are trying to figure out if our efforts are going to be successful when our efforts are successful, I should say, that those fill rates and those students in those seats, those three-year-olds will then trigger contractual requirements for more payment. So, that is where it ties into expansion. And a piece of that was also to fund some of the collective bargaining increases that had to go in that were not for a segment of the early childhood population or workers. So that was the 235.
+
+[**(04:52:54)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17574s)
+
+
+
+Okay. Thank you for that. And was the full level of the early child care providers contracts not previously reflected in the budget? There was underbudgeting. Okay. I just want to quickly go back to CM Brewer's point, and this is something that is more state related, which I know, but I cannot help but think that if we were to work on this to fix the issue around the daycare programs because I used to run one. I will say I do not think all of them are bad because I think there are definitely a lot that are great. But there has been fraud I think that we have been trying to flag for the state on this issue since what at least 2010 or before, right? Which is literally decades of Medicaid that could have been recouped from if there was actually more oversight on a lot of these adult daycare programs. And so just wondering and this is a conversation for future, but I would love to look at this a bit more because I think those Medicaid dollars are going to be crucial for us to look at more carefully in the future. And maybe this is something we can collaborate on because I think that is going to translate to more dollars either in the state budget which will trickle down to the city budget. So definitely want to take a look at that with the fine tooth. Yeah.
+
+Okay. And then just my last couple questions. For the salary history ban and salary caps that the city has. So the council has heard there are current non-union city employees who are being told that when they are offered new positions at different agencies and switch over even if it is in the different title grades. OMB caps the new salary that the agency can offer to no more than 10% the applicant's existing salary even if the salary range goes higher than that amount. So is that true or if not and would this run counter to the 2017 salary history ban that was passed by the council?
+
+[**(04:55:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17700s)
+
+
+
+We typically the 10% cap is applicable to existing employees that are staying within the same title and assuming additional responsibilities. There are exceptions that are made on certain circumstances, but clearly when you talk about current employees who are promoted to new titles that are subject to the contractual salary requirements of that title and not restricted to the 10%. So that is what we know. If you are hearing something different, we would love to clarify what that is. But it is really about existing employees, existing titles, not going to get a new job at another agency, then you are subject to the salary band and range of that and will not necessarily be subject to the 10%.
+
+[**(04:55:53)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17753s)
+
+
+
+Okay. Yeah, because we heard that it is when they move agencies. So, if that I will let you know if there are specific incidences of that, but yeah. Okay. So really quickly, I know that in the there were a few council members that had actually asked this question because I think oftentimes we pass legislation. And so I just wanted to ask for the record if OMB is willing to commit to fully funding all the enacted laws in the budget and if not, what is the administration standard for determining which laws are actually implemented? Because I know that there are some that are tied to funding. And so just wanting to know how you plan on making sure that you are meeting the laws. I know that a couple council members had asked similar questions related to this. And so I just wanted to ask more generally speaking about laws that are passed.
+
+[**(04:56:44)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17804s)
+
+
+
+Sure. And just speaking in general, I mean, I think that one way or the other expenses have to match revenues. And so it just comes down to sort of the fundamentals in the budget, how we are able to comply with legislative mandates, comply with other needs that the City of New York has to continue core government operations. And then at that point in time, you understand what is for discretionary investment. And at the end of the day, expenses have to add up to revenue. So in some cases where there are mandates there are opportunities as well to be able to understand how we are going to balance and make the trade-offs. It is going to be more expense reductions which could be through savings. We do not want to cut services but at some point after the 1.7 billion on the chief savings officers you start to go beyond that then you are really talking about all of the things we talked about. How do you close the budget? So if you fit in legislative mandates in there, it still comes down to the equation of how can it be affordable within the envelope of the city's budget.
+
+[**(04:57:50)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17870s)
+
+
+
+Right? So then knowing that there is an envelope and there are limitations, what are the metrics or how are those decisions made in terms of which things to say, okay, this is more of a priority versus this. Even though yes, technically speaking, we want to make sure all the laws are being followed, but what are some of the metrics you use to make those decisions? Well, by and large it is trying to commit to complying with all laws because we respect obviously the laws that are passed. At the same time though their extent of investment has to vary and be right sized with the budget. So it may not be full scale implementation. It may be a phased approach, right? It is as much as the expenses will dictate. So, but of course, if there is a law on the books, we have an obligation to see if we can make progress on it, but it may not be fully available, fully compliant because the trade-offs may be cuts in other areas that were not the intent to begin with to cut.
+
+Right. Exactly. So, if you could if at all possible, give us some sort of idea or sense back to the council because I just I hear what you are saying and obviously in a much smaller scale when I ran my nonprofit organization pales in comparison obviously to the size of the city's budget but I think the concepts of it are very similar right you have to meet payroll there are certain expenses you have you have vendors that need to get paid and there have been tough situations where because of the contracting process cash flow became a huge issue for us and we were not sure if we were able to pay staff so I feel like you know but in that sort of budget, there are ways that you prioritize when to do what and so I am just trying to get a better understanding of how that decision gets made.
+
+[**(04:59:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17978s)
+
+
+
+Sure.
+
+[**(04:59:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17978s)
+
+
+
+>> Yeah. So if you can provide something that would be great. And then also, what recent changes in the economy has OMB observed that led to a noticeable increase in the sales tax revenue forecast?
+
+[**(04:59:52)**](https://www.youtube.com/watch?v=2soPrZWS754&t=17992s)
+
+
+
+Yeah. I will start and I will ask Josh to come in, but what we have... you have heard this term often, you have a K-shaped economy. >> Yes. >> Yeah. So you see consumption at the high end on the high earners are driving a lot of that. You also see inflation, inflationary pressures, right, which are driving. So you pay more for something, you are paying more in taxes, right? And also driven by higher sales taxes that we are seeing from purchases from tourism. So those are the three main drivers. I do not know if you would add anything, Josh. >> Got it. >> Okay.
+
+[**(05:00:26)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18026s)
+
+
+
+>> No. Okay. And sorry, just going back to my previous question. Can you identify any laws recently in the last two years that were not able to... that were not fully funded? And can you provide that list to the Council? >> Just an example of two laws not fully funded. We will go back and look at it and we will obviously come back and have the conversation.
+
+[**(05:00:51)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18051s)
+
+
+
+>> Okay, perfect. Oh, did you have another question? >> Okay, sorry. I am going to pass it over to CM Nurse for a question.
+
+[**(05:00:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18059s)
+
+
+
+>> Quickly, Chair. One of the things that we are dealing with with sanitation department... those trucks, I do not know what to say about it. Do we have extra budget? How do we decide which station we are going to have different trucks? And to tell you honestly, New York City, we have a problem. It is not being clean. So I want to know, Mr. Director, do we have a plan to look into sanitation? Because sanitation represents us when you come to New York City. We have... it has to be clean and we have this problem we are dealing with. And if we do not look into it, New York City is not going to be clean and sanitation represents us. Even the look of the trucks, many of them already... they should be out somewhere, not running in New York City. So do you have anywhere you can squeeze to increase funding to make sure New York City trucks are in repair and the folks that are doing the work is being done? Do we have any room to wiggle when it comes to funding for us?
+
+Well, thank you, CM. The Deputy Speaker also raised this issue about how do we know how a budget is allocated to different garages across and cleanliness and so on and so forth. So it is an issue we are going to look at and follow up. But in general speaking, yes, investment in sanitation is needed. Clearly, the snow budget... it has not snowed for the past five years. This year, we got hit with a lot of snow. The snow budget which is based on a charter five-year average per person in the City Charter was like 84 million. We had to add a hundred million for snow removal because the sanitation snow budget did not have it. So we are looking at ways that we can invest more in sanitation. And hopefully it stops snowing so more of that can be for that. But to your point, in all seriousness, it is important that we look at cleanliness metrics and see where we can make more investments. And the trucks themselves need to be a good presentation of city services at work.
+
+>> This is power wash. Do we have any funding for that too? Because the New York City, if we do not clean, you know, I am a nurse. I am a registered nurse. So cleanliness means a lot. >> In New York City, in order to present ourselves, we have to put funding towards sanitation. Point blank. We have to do more on that one. And in school, right? You know, I love school. My public school enrollment has been declining in recent years. How is OMB working with DOE to rightsize the budget in a way that reflects current enrollment realities that I would like to see in every community especially? We have to review our community, make sure that we have equity in resources when it comes to our school building, public school. And I am done with that before the Chair kicks me out.
+
+[**(05:04:15)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18255s)
+
+
+
+>> Yeah, the Chancellor Samuels addressed this in his testimony a couple of days ago. No decisions have been made on the so-called hold harmless funding. It is something we are looking at and reviewing along with DOE. We obviously want to make sure all schools can get their adequate resources. But no decisions have been made on changing hold harmless at this moment. >> You know why I am concerned about this? Because usually the black and brown communities, the vulnerable communities feel like we are not being... the resources
+
+[**(05:04:48)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18288s)
+
+
+
+are not coming to them and our children. I think that is one thing I would say that is the right of human beings in New York City. Every child deserves the best quality education. So look into that for me so all the resources can be allocated fairly and equally. I mean equally. Thank you, Chair.
+
+[**(05:05:04)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18304s)
+
+
+
+>> Thank you. Okay, people keep coming back. We got CM Hanks. >> I am very sorry, Chair, but thank you
+
+[**(05:05:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18312s)
+
+
+
+very much. First and foremost, well done. You answered many of the questions even though I was not here or we were watching. So I just have two questions for you. As a follow-up question to the Office of Mass Engagement, are there any other agencies that either can be consolidated or develop new agencies to lower costs or increase operations with similar existing budgets as a method to offset short or long-term costs? >> I mean, I think it is the effort of the chief savings officers that we are looking at ways to do that. We want to make sure that we are being smart about the allocation of resources and again there was a question before about shared services and looking at ways to do that. So yeah... >> Is there a place in which we will get a report from the cost-saving officers? I am sure this was being asked over and I am so sorry but okay. My second question... does OMB understand the fiscal damage that can occur to the recent geopolitical events and the lack of funds from the federal government? This is also something that has been asked, but... and other sources of income and can the Council develop programs along with the administration to help bridge these gaps in financing some undiscovered or how can we discuss the possibility of preventing such fiscal issues in the future?
+
+[**(05:06:38)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18398s)
+
+
+
+>> Sure. Yeah. I mean the revenue forecast that we put out was largely in line with what the state had put out. And in fact I know in the Council's own analysis it was generally in line there too. Clearly there are geopolitical events that we are watching very closely that could have some market impacts. The revenue forecast is a continual process and we will continue to look at it and understand what collections are. Collections have been strong and so we will look at what may need to be adjusted if anything upward or downward just like we are looking constantly at all the economic factors and conditions but we are watching very closely what happens given the war in Iran and other factors including monetary policy like tariffs etc.
+
+[**(05:07:27)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18447s)
+
+
+
+>> Thank you so much. Thank you Chair. Thank you the Council. Great job.
+
+[**(05:07:32)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18452s)
+
+
+
+>> Thank you. Thank you Council. Lots of Staten Island love. I see. Actually, can I follow up on the CM's question? So in terms of the changes in the forecast, because we want to be able to better understand how you guys are assessing that. So would you be able to send us a forecast memo with assumption tables and methodology to the Council in the next few days? >> Well, the preliminary budget has pretty much all of that information. If there is... >> Not just at like one point in time. So I just want to know the behind thinking and methodology as well as the forecast... >> The... >> In terms of how you forecast, sorry, assumption tables and methodology. >> We put out... we put out a methodology book every year that has... it is quite a book. It is a great resource actually. I would recommend it. It is about 350 pages of our methodology and how we actually go about and it is a really good resource. I would recommend it. >> Okay. And when was that last updated? >> It is on an annual basis. You are saying... >> I think the fall of last year about probably five or six months. It gets updated every year. >> Okay. And so... >> Talking about in terms of going forward... >> Right... >> Like the budget director was saying, the preliminary budget includes all of our assumptions through again essentially, you know, mid January. We are going to be updating that with the executive budget. We do not have anything concrete at this point as where this is in process. >> Okay.
+
+And this is the case with the sales taxes, everything, right? >> Yeah, it is all... it is all combined. It is... we put together a macro forecast, a city forecast, a tax revenue forecast that is in process right now that we are taking in all the information that we can and trying to assess. >> Okay. So within the year, you guys do not change it at all. >> The methodology book. No, that is... >> Yeah. >> Okay. All right. Let me see if... Okay. And just really quickly on over budgeting social security contributions. So in FY25, the City spent about 2.5 billion on federal payroll taxes to social security and Medicare and a similar amount was spent in FY24. And currently the preliminary plan includes about 2.9 billion budgeted for this expense in FY26 or about 16% higher than was spent last year. And then similarly, the plan proposes over three billion for FY27. So based on the currently budgeted salaries and wages of roughly 35 billion for FY26 and based on the current Social Security Medicare payroll tax rate, total spending this year should only be at about 2.7 billion or 200 million less than budgeted and that is assuming full employment with no vacancies. FY27 also appears to be overbudgeted by about 250 million. And so question... the first question around this is why do the
+
+[**(05:10:42)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18642s)
+
+
+
+budgets for these amounts seem so out of proportion to the recent actual spending?
+
+[**(05:10:49)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18649s)
+
+
+
+>> I do not know Chair that I would characterize it as over budgeting. I think what we try to do is do our best to forecast what the actual FICA contributions will be. I think we look at things like, you know, overtime and try to assess where overtime is going to land because that obviously has an impact. We also look at city employees do not join the pension system immediately sometimes, right? You join later and you buy back time and when you join it is like that is when the FICA contributions kick in and it is like whether you are maxing out on deferred comp and all kinds of stuff that will dictate that. So I think that is something that we also look at. We try to project as best as possible so it is not like we are overbudgeting so that we have a cushion one way or the other. We are just making sure that we are trying to accurately assess what behavior might lead to and that is sort of the methodology that we have. >> And then in the terms of the category you mentioned with folks that may be signing up later for pension and all of those things, what is the average time period that it takes usually for someone to get onto that plan?
+
+[**(05:11:58)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18718s)
+
+
+
+>> That is for a city employee.
+
+[**(05:12:00)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18720s)
+
+
+
+>> That is a good question. I mean, I think we would have to go to the pension systems for some data on buyback applications.
+
+[**(05:12:07)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18727s)
+
+
+
+>> Okay. Because typically when that happens but generally speaking if you are appointed in a civil service title... >> Right. >> If you do not join right away 6 months after your appointment you are mandated in and that is by operation of law
+
+[**(05:12:20)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18740s)
+
+
+
+>> into a pension system right
+
+[**(05:12:22)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18742s)
+
+
+
+>> but for other titles like managerial titles there is a choice you can join the voluntary deferred contribution program or you can join the pension system so it really depends on the kind of title and you know I think agencies do a good job of orientation up front to get folks to go forward, but it just naturally some folks will wait and not join and that impacts it.
+
+[**(05:12:45)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18765s)
+
+
+
+>> Okay. If you have any data around that, that would be great. Just to figure out maybe by the title managerial versus not and then also in terms of what the average time is. I would be curious to just see what that looks like if you could provide that. And then how are the estimates which you sort of just went into right now for the payroll tax contributions determined which is just when they join all of those things or what... >> Pretty much the same thing. Yeah, we are looking at sort of the ebb and flow of you know overtime and when they may join and try to make our best projections based on that and headcount hiring flow. Yeah.
+
+[**(05:13:24)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18804s)
+
+
+
+>> Okay. And I think this has been mentioned a few times today about how property tax inequality obviously the system I think both of us share on both sides of City Hall recognize that the process itself needs to be reformed. And so just wanted to know if you could share what property tax reforms your office has considered maybe in your previous role, I do not know... or how would they affect the budget and how would they help New Yorkers who are unfairly burdened? >> Yeah, so we are working on the
+
+[**(05:13:59)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18839s)
+
+
+
+proposal as we speak. I think that as we have mentioned, it is modeled after the advisory commission recommendations. And so things that are major drivers of the inequity like assessed value caps that have led to sort of the uneven growth in tax bills over the years... looking at that looking at fractional assessments. But then so those are the structural reforms sales-based on co-ops and condos versus comparable rentals and then looking at it from there to say if you do the structural reforms how can you layer on homeowner relief programs for primary residents. Homestead exemption as a primary exemption tool to give you know percentage break off of the property tax bill but then a circuit breaker to say let us look at the ratio between income and between property tax paid and then how can you provide some credit for the amount above what is determined to be in excess. So that just gives you a flavor of the kinds of things that we are looking at but clearly there is more that we want to do. We are addressing the residential class. We need to look at other things. We need to look at the incidents on renters. We need to look at so much in the property tax system. That is what we are busy at work trying to do. We will have a proposal soon. And of course, we will be in touch on what is in that proposal.
+
+[**(05:15:17)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18917s)
+
+
+
+>> Okay, that was going to be my next question was timeline because I know that we have been, you know, the City has been talking about this for several years and so just wondering when the timeline would be for that.
+
+[**(05:15:28)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18928s)
+
+
+
+>> Yeah, it is going to be soon. I think as an incoming mayor to say that he is going to tackle property tax reform and come up in a proposal in the first few months of the administration, I think is significant and we will be able to do that and be able to explain our approach. >> Okay, perfect. Dare I say, I think I might be done. We might be done. Yay. But yes, thank you so much. I want to thank the staff of the admin. Godspeed. I will keep
+
+[**(05:16:03)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18963s)
+
+
+
+praying for these chief savings officers because it seems like we are putting a lot on their shoulders, but we look forward to seeing that report and obviously ongoing conversations. So thank you so much, Chair. I appreciate it.
+
+[**(05:16:12)**](https://www.youtube.com/watch?v=2soPrZWS754&t=18972s)
+
+
+
+>> And with that, I am closing out today's hearing.
