@@ -452,6 +452,8 @@ body.desktop {
 
 /* ---------- Index page ---------- */
 .intro-block {
+    position: relative;
+    overflow: hidden;
     margin-bottom: 2.5rem;
     padding-bottom: 1.5rem;
     border-bottom: 1px solid var(--rule);
@@ -481,16 +483,11 @@ body.desktop {
     max-width: 58ch;
 }
 
-.intro-block {
-    position: relative;
-    overflow: hidden;
-}
-
 .intro-skyline {
     position: absolute;
     right: 0;
     bottom: 1.5rem;
-    width: clamp(140px, 20vw, 210px);
+    width: 210px;
     opacity: 0.32;
     pointer-events: none;
 }
