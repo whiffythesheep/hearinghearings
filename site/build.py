@@ -1,5 +1,6 @@
 """Build static HTML site from markdown content files."""
 
+import html as html_mod
 import os
 import re
 import shutil
@@ -13,6 +14,14 @@ CONTENT_DIR = os.path.join(os.path.dirname(ROOT), "content")
 TEMPLATE_DIR = os.path.join(ROOT, "templates")
 STATIC_DIR = os.path.join(ROOT, "static")
 OUTPUT_DIR = os.path.join(ROOT, "output")
+SITE_URL = "https://hearinghearings.nyc"
+
+
+def truncate_text(text, max_len):
+    """Truncate text to max_len chars at a word boundary."""
+    if len(text) <= max_len:
+        return text
+    return text[:max_len].rsplit(" ", 1)[0] + "..."
 
 
 def parse_front_matter(text):
@@ -84,6 +93,10 @@ def load_content():
         except (ValueError, AttributeError):
             date_display = date_str
 
+        summary_plain = re.sub(r"^#{1,6}\s+.*$", "", summary_md, flags=re.MULTILINE)
+        summary_plain = re.sub(r"[*_\[\]\(\)`>]", "", summary_plain)
+        summary_plain = " ".join(summary_plain.split())
+
         hearings.append(
             {
                 "title": meta.get("title", filename),
@@ -94,6 +107,7 @@ def load_content():
                 "youtube_url": meta.get("youtube_url", ""),
                 "council_url": meta.get("council_url", ""),
                 "summary_html": markdown.markdown(summary_md),
+                "summary_snippet": truncate_text(summary_plain, 160),
                 "transcript_html": markdown.markdown(transcript_md)
                 if transcript_md
                 else "",
@@ -123,7 +137,12 @@ def build():
 
     # Build index page
     index_template = env.get_template("index.html")
-    index_html = index_template.render(hearings=hearings)
+    index_html = index_template.render(
+        hearings=hearings,
+        meta_title="Hearing Hearings",
+        meta_description="Summaries and transcripts of New York City Council hearings.",
+        meta_url=f"{SITE_URL}/",
+    )
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
     print(f"Built: index.html ({len(hearings)} hearings)")
@@ -136,10 +155,69 @@ def build():
     for hearing in hearings:
         hearing_dir = os.path.join(meetings_dir, hearing["slug"])
         os.makedirs(hearing_dir)
-        html = hearing_template.render(hearing=hearing)
+        html = hearing_template.render(
+            hearing=hearing,
+            meta_title=hearing["title"],
+            meta_description=hearing["summary_snippet"],
+            meta_url=f"{SITE_URL}/hearings/{hearing['slug']}/",
+        )
         with open(os.path.join(hearing_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(html)
         print(f"Built: hearings/{hearing['slug']}/index.html")
+
+    # Generate sitemap.xml
+    today = datetime.now().strftime("%Y-%m-%d")
+    sitemap_entries = [
+        f"  <url>\n    <loc>{SITE_URL}/</loc>\n    <lastmod>{today}</lastmod>\n  </url>"
+    ]
+    for h in hearings:
+        sitemap_entries.append(
+            f"  <url>\n    <loc>{SITE_URL}/hearings/{h['slug']}/</loc>\n    <lastmod>{h['date']}</lastmod>\n  </url>"
+        )
+    sitemap_xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(sitemap_entries)
+        + "\n</urlset>\n"
+    )
+    with open(os.path.join(OUTPUT_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap_xml)
+    print("Built: sitemap.xml")
+
+    # Generate robots.txt
+    robots_txt = f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n"
+    with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(robots_txt)
+    print("Built: robots.txt")
+
+    # Generate Atom feed
+    latest_date = hearings[0]["date"] if hearings else today
+    feed_entries = []
+    for h in hearings:
+        feed_entries.append(
+            f"  <entry>\n"
+            f"    <title>{html_mod.escape(h['title'])}</title>\n"
+            f"    <link href=\"{SITE_URL}/hearings/{h['slug']}/\" rel=\"alternate\"/>\n"
+            f"    <id>{SITE_URL}/hearings/{h['slug']}/</id>\n"
+            f"    <updated>{h['date']}T00:00:00Z</updated>\n"
+            f"    <summary>{html_mod.escape(h['summary_snippet'])}</summary>\n"
+            f"  </entry>"
+        )
+    feed_xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<feed xmlns="http://www.w3.org/2005/Atom">\n'
+        f"  <title>Hearing Hearings</title>\n"
+        f"  <subtitle>Summaries and transcripts of New York City Council hearings.</subtitle>\n"
+        f'  <link href="{SITE_URL}/feed.xml" rel="self"/>\n'
+        f'  <link href="{SITE_URL}/" rel="alternate"/>\n'
+        f"  <id>{SITE_URL}/</id>\n"
+        f"  <updated>{latest_date}T00:00:00Z</updated>\n"
+        + "\n".join(feed_entries)
+        + "\n</feed>\n"
+    )
+    with open(os.path.join(OUTPUT_DIR, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write(feed_xml)
+    print("Built: feed.xml")
 
     print(f"\nSite built to {OUTPUT_DIR}")
 
