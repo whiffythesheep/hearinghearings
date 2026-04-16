@@ -387,6 +387,32 @@
     
 </article>
 
+
+            
+            <aside class="subscribe bevel-in">
+                <div id="mlb2-39982439" class="ml-subscribe-form ml-subscribe-form-39982439">
+                    <div class="subscribe-inner row-form">
+                        <h2 class="subscribe-title">Hearing Hearings via Email</h2>
+                        <p class="subscribe-copy">Get each new hearing summary in your inbox.</p>
+                        <form class="ml-block-form subscribe-form"
+                              action="https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/subscribe"
+                              method="post" target="_blank">
+                            <label class="sr-only" for="subscribe-email">Email address</label>
+                            <input id="subscribe-email" class="subscribe-input bevel-in" type="email"
+                                   name="fields[email]" placeholder="you@example.com"
+                                   aria-required="true" required autocomplete="email">
+                            <button type="submit" class="subscribe-button bevel-out">Subscribe</button>
+                            <input type="hidden" name="ml-submit" value="1">
+                            <input type="hidden" name="anticsrf" value="true">
+                        </form>
+                    </div>
+                    <div class="subscribe-inner row-success" style="display: none">
+                        <h2 class="subscribe-title">Thank you!</h2>
+                        <p class="subscribe-copy">You have successfully joined the subscriber list.</p>
+                    </div>
+                </div>
+            </aside>
+            
         </main>
 
         <div class="window-statusbar" aria-hidden="true">
@@ -397,5 +423,13 @@
             
         </div>
     </div>
+    <script>
+        function ml_webform_success_39982439() {
+            document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
+            document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
+        }
+    </script>
+    <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v95037e5bac78f29ed026832ca21a7c7b" type="text/javascript"></script>
+    <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
 </body>
 </html>
