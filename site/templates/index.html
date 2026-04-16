@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block page_title %}How NYC Works{% endblock %}
+{% block window_title %}How NYC Works — Index{% endblock %}
+
+{% block content %}
+<section class="intro-block">
+    <h1>How NYC Works</h1>
+</section>
+
+<section class="index-section">
+    <h2 class="section-heading">Hearings</h2>
+    <div class="listing-well">
+        <ol class="hearing-index">
+        {% for hearing in hearings %}
+            <li class="hearing-row">
+                <a href="/hearings/{{ hearing.slug }}/">
+                    <time class="hearing-row__date" datetime="{{ hearing.date }}">
+                        {{ hearing.date_display }}
+                    </time>
+                    <span class="hearing-row__title">{{ hearing.title }}</span>
+                </a>
+            </li>
+        {% endfor %}
+        </ol>
+    </div>
+</section>
+{% endblock %}
