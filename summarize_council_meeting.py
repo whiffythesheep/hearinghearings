@@ -1316,6 +1316,165 @@ MAILERLITE_FROM_EMAIL = "email@hearinghearings.nyc"
 SITE_URL = "https://hearinghearings.nyc"
 
 
+_EMAIL_SECTION_LABELS_H3 = {"Meeting Overview", "Numbers", "Action Points"}
+
+
+def _parse_email_front_matter(web_content):
+    """Extract front matter fields and summary body from markdown content."""
+    fields = {}
+    body = web_content
+    if web_content.startswith("---"):
+        parts = web_content.split("---", 2)
+        if len(parts) >= 3:
+            for line in parts[1].strip().splitlines():
+                m = re.match(r'(\w+):\s*"?([^"]*)"?', line)
+                if m:
+                    fields[m.group(1)] = m.group(2).strip()
+            body = parts[2]
+    body = body.split("## Full Transcript")[0].strip()
+    # Promote bare section labels to markdown headings (mirroring build.py).
+    # "Summary" is dropped entirely; "Meeting Overview" becomes h2;
+    # "Numbers" and "Action Points" become h3.
+    promoted = []
+    for line in body.split("\n"):
+        stripped = line.strip()
+        if stripped == "Summary":
+            continue
+        if stripped in _EMAIL_SECTION_LABELS_H3:
+            promoted.append(f"### {stripped}")
+        else:
+            promoted.append(line)
+    body = "\n".join(promoted)
+    return fields, body
+
+
+def _truncate_bullet_sections(md_text, max_numbers=10, max_actions=5):
+    """Limit bullet points under Numbers and Action Points sections."""
+    lines = md_text.split('\n')
+    result = []
+    current_section = None
+    bullet_count = 0
+
+    for line in lines:
+        heading_match = re.match(r'^#{2,3}\s+(.+)', line)
+        if heading_match:
+            heading_text = heading_match.group(1).strip().lower()
+            if 'number' in heading_text:
+                current_section = 'numbers'
+                bullet_count = 0
+            elif 'action' in heading_text:
+                current_section = 'actions'
+                bullet_count = 0
+            else:
+                current_section = None
+            result.append(line)
+            continue
+
+        if current_section and re.match(r'^- ', line):
+            bullet_count += 1
+            limit = max_numbers if current_section == 'numbers' else max_actions
+            if bullet_count <= limit:
+                result.append(line)
+            elif bullet_count == limit + 1:
+                result.append('- ... and more.')
+            continue
+
+        result.append(line)
+
+    return '\n'.join(result)
+
+
+def _inline_summary_html(raw_html):
+    """Add inline styles to summary HTML tags for email client compatibility."""
+    h3_style = ("font-family: 'IBM Plex Mono', Consolas, monospace; font-size: 15px; font-weight: 600; "
+                'line-height: 1.3; text-transform: uppercase; letter-spacing: 0.09em; color: #5a574f; '
+                'margin-top: 32px; margin-bottom: 12px; padding-bottom: 6px; '
+                'border-bottom: 1px dashed #d6d3c8;')
+    h3_first_style = h3_style.replace('margin-top: 32px', 'margin-top: 0')
+    p_style = 'margin: 0 0 16px 0; font-size: 17px; line-height: 1.65; color: #15171a;'
+    ul_style = 'margin: 0 0 16px 20px; padding: 0;'
+    li_style = 'margin-bottom: 6px; font-size: 17px; line-height: 1.65; color: #15171a;'
+
+    # First h3 ("Meeting Overview") gets no top margin
+    raw_html = raw_html.replace('<h3>', f'<h3 style="{h3_first_style}">', 1)
+    raw_html = raw_html.replace('<h3>', f'<h3 style="{h3_style}">')
+    raw_html = raw_html.replace('<p>', f'<p style="{p_style}">')
+    raw_html = raw_html.replace('<ul>', f'<ul style="{ul_style}">')
+    raw_html = raw_html.replace('<ol>', f'<ol style="{ul_style}">')
+    raw_html = raw_html.replace('<li>', f'<li style="{li_style}">')
+    return raw_html
+
+
+# Skyline SVG with hardcoded colors for email (no CSS variables)
+_SKYLINE_SVG = '''\
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 52" width="150" height="52"
+     style="display:block;width:80%;max-width:320px;opacity:0.32;">
+<g fill="#8a8678">
+<rect x="18" y="6" width="2" height="2"/><rect x="17" y="8" width="4" height="2"/>
+<rect x="18" y="10" width="2" height="5"/><rect x="16" y="15" width="2" height="2"/>
+<rect x="15" y="17" width="2" height="3"/><rect x="5" y="16" width="1" height="3"/>
+<rect x="7" y="15" width="1" height="4"/><rect x="9" y="14" width="2" height="5"/>
+<rect x="12" y="14" width="2" height="5"/><rect x="15" y="15" width="1" height="4"/>
+<rect x="7" y="19" width="9" height="3"/><rect x="7" y="22" width="10" height="3"/>
+<rect x="6" y="25" width="12" height="4"/><rect x="5" y="29" width="14" height="3"/>
+<rect x="6" y="32" width="12" height="2"/><rect x="5" y="34" width="14" height="3"/>
+<rect x="4" y="37" width="16" height="2"/><rect x="2" y="39" width="20" height="3"/>
+<rect x="1" y="42" width="22" height="9"/>
+<rect x="36" y="24" width="4" height="27"/><rect x="37" y="22" width="2" height="2"/>
+<rect x="52" y="24" width="4" height="27"/><rect x="53" y="22" width="2" height="2"/>
+<rect x="37" y="34" width="2" height="4" fill="#fbfaf6"/>
+<rect x="53" y="34" width="2" height="4" fill="#fbfaf6"/>
+<rect x="33" y="44" width="26" height="2"/><rect x="31" y="46" width="30" height="5"/>
+<rect x="34" y="26" width="1" height="3"/><rect x="33" y="29" width="1" height="4"/>
+<rect x="32" y="33" width="1" height="5"/><rect x="31" y="38" width="1" height="6"/>
+<rect x="40" y="26" width="2" height="1"/><rect x="42" y="28" width="1" height="1"/>
+<rect x="43" y="31" width="1" height="1"/><rect x="44" y="34" width="1" height="1"/>
+<rect x="45" y="37" width="1" height="1"/><rect x="50" y="26" width="2" height="1"/>
+<rect x="49" y="28" width="1" height="1"/><rect x="48" y="31" width="1" height="1"/>
+<rect x="47" y="34" width="1" height="1"/><rect x="46" y="37" width="1" height="1"/>
+<rect x="57" y="26" width="1" height="3"/><rect x="58" y="29" width="1" height="4"/>
+<rect x="59" y="33" width="1" height="5"/><rect x="60" y="38" width="1" height="6"/>
+<rect x="84" y="6" width="2" height="2"/><rect x="82" y="8" width="6" height="2"/>
+<rect x="81" y="10" width="8" height="2"/><rect x="80" y="12" width="10" height="3"/>
+<rect x="78" y="15" width="14" height="2"/><rect x="75" y="17" width="20" height="2"/>
+<rect x="72" y="19" width="26" height="2"/><rect x="71" y="21" width="28" height="2"/>
+<rect x="72" y="23" width="2" height="11"/><rect x="76" y="23" width="2" height="11"/>
+<rect x="80" y="23" width="2" height="11"/><rect x="84" y="23" width="2" height="11"/>
+<rect x="88" y="23" width="2" height="11"/><rect x="92" y="23" width="2" height="11"/>
+<rect x="96" y="23" width="2" height="11"/><rect x="70" y="34" width="30" height="3"/>
+<rect x="82" y="35" width="6" height="2" fill="#fbfaf6"/>
+<rect x="69" y="37" width="32" height="2"/><rect x="68" y="39" width="34" height="2"/>
+<rect x="67" y="41" width="36" height="2"/><rect x="66" y="43" width="38" height="8"/>
+<rect x="126" y="2" width="1" height="6"/><rect x="125" y="8" width="3" height="2"/>
+<rect x="124" y="10" width="5" height="2"/><rect x="123" y="12" width="7" height="2"/>
+<rect x="122" y="14" width="9" height="8"/>
+<rect x="123" y="16" width="2" height="4" fill="#fbfaf6"/>
+<rect x="128" y="16" width="2" height="4" fill="#fbfaf6"/>
+<rect x="119" y="22" width="15" height="7"/>
+<rect x="120" y="23" width="2" height="4" fill="#fbfaf6"/>
+<rect x="126" y="23" width="2" height="4" fill="#fbfaf6"/>
+<rect x="131" y="23" width="2" height="4" fill="#fbfaf6"/>
+<rect x="116" y="29" width="21" height="6"/>
+<rect x="117" y="30" width="2" height="3" fill="#fbfaf6"/>
+<rect x="122" y="30" width="2" height="3" fill="#fbfaf6"/>
+<rect x="127" y="30" width="2" height="3" fill="#fbfaf6"/>
+<rect x="132" y="30" width="2" height="3" fill="#fbfaf6"/>
+<rect x="113" y="35" width="27" height="16"/>
+<rect x="115" y="37" width="2" height="4" fill="#fbfaf6"/>
+<rect x="120" y="37" width="2" height="4" fill="#fbfaf6"/>
+<rect x="125" y="37" width="2" height="4" fill="#fbfaf6"/>
+<rect x="130" y="37" width="2" height="4" fill="#fbfaf6"/>
+<rect x="135" y="37" width="2" height="4" fill="#fbfaf6"/>
+<rect x="115" y="44" width="2" height="4" fill="#fbfaf6"/>
+<rect x="120" y="44" width="2" height="4" fill="#fbfaf6"/>
+<rect x="125" y="44" width="2" height="4" fill="#fbfaf6"/>
+<rect x="130" y="44" width="2" height="4" fill="#fbfaf6"/>
+<rect x="135" y="44" width="2" height="4" fill="#fbfaf6"/>
+</g>
+<rect x="0" y="51" width="150" height="1" fill="#8a8678"/>
+</svg>'''
+
+
 def send_subscriber_email(web_content, slug, title):
     """Send an email to all MailerLite subscribers with the hearing summary."""
     api_key = os.environ.get("MAILERLITE_API_KEY")
@@ -1323,23 +1482,116 @@ def send_subscriber_email(web_content, slug, title):
         logger.warning("MAILERLITE_API_KEY not set, skipping subscriber email.")
         return
 
-    summary_section = web_content.split("## Full Transcript")[0]
-    # Strip YAML front matter
-    if summary_section.startswith("---"):
-        summary_section = summary_section.split("---", 2)[2].strip()
-
-    summary_html = markdown.markdown(summary_section)
+    fields, summary_body = _parse_email_front_matter(web_content)
+    summary_body = _truncate_bullet_sections(summary_body)
+    summary_html = _inline_summary_html(markdown.markdown(summary_body))
     hearing_url = f"{SITE_URL}/hearings/{slug}/"
+
+    date_raw = fields.get("date", "")
+    try:
+        date_display = datetime.strptime(date_raw, "%Y-%m-%d").strftime("%B %#d, %Y")
+    except (ValueError, TypeError):
+        date_display = date_raw
+    duration = fields.get("duration", "")
+    youtube_url = fields.get("youtube_url", "")
+    council_url = fields.get("council_url", "")
+
+    meta_parts = []
+    if date_display:
+        meta_parts.append(date_display)
+    if duration:
+        meta_parts.append(duration)
+    if youtube_url:
+        meta_parts.append(f'<a href="{youtube_url}" style="color: #1c4f8c; text-decoration: none;">Watch on YouTube &#8599;</a>')
+    if council_url:
+        meta_parts.append(f'<a href="{council_url}" style="color: #1c4f8c; text-decoration: none;">View on council.nyc.gov &#8599;</a>')
+    meta_html = ' &middot; '.join(meta_parts)
 
     html_body = f"""\
 <html>
-<body style="font-family: Inter, Arial, sans-serif; max-width: 640px; margin: 0 auto; padding: 20px; color: #1a1a1a;">
-<h1 style="font-size: 22px; margin-bottom: 4px;">{html_mod.escape(title)}</h1>
-<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="margin: 0; padding: 0; background-color: #fbfaf6; -webkit-text-size-adjust: 100%;" bgcolor="#fbfaf6">
+<!--[if mso]><table role="presentation" width="100%" bgcolor="#5e5e60"><tr><td><![endif]-->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+       style="background-color: #5e5e60;" bgcolor="#5e5e60">
+<tr><td align="center" style="padding: 24px 16px; background-color: #5e5e60;" bgcolor="#5e5e60">
+
+<!-- Window frame -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+       style="max-width: 700px; background: #fbfaf6;
+              border-top: 3px solid #ffffff; border-left: 3px solid #ffffff;
+              border-right: 3px solid #4a4740; border-bottom: 3px solid #4a4740;"
+       bgcolor="#fbfaf6">
+
+<!-- Title bar -->
+<tr><td style="background: #1d1d1f; padding: 8px 12px;
+               font-family: 'IBM Plex Mono', Consolas, monospace;
+               font-size: 12px; font-weight: 600; letter-spacing: 0.04em; color: #ffffff;"
+        bgcolor="#1d1d1f">
+  <a href="{SITE_URL}" style="color: #ffffff; text-decoration: none;">
+    <span style="color: #f5c451;">&#9619;</span> Hearing Hearings</a>
+</td></tr>
+
+<!-- Window body -->
+<tr><td style="padding: 0;" bgcolor="#fbfaf6">
+<div style="background: #fbfaf6; background-color: #fbfaf6; padding: 3px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+       style="background-color: #fbfaf6;" bgcolor="#fbfaf6">
+
+<!-- Hearing header -->
+<tr><td style="padding: 24px 24px 0 24px; background-color: #fbfaf6;" bgcolor="#fbfaf6">
+  <h1 style="font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 700;
+             line-height: 1.22; letter-spacing: -0.012em; color: #15171a; margin: 0 0 10px 0;">
+    {html_mod.escape(title)}</h1>
+  <div style="font-family: 'IBM Plex Mono', Consolas, monospace; font-size: 12px;
+              text-transform: uppercase; letter-spacing: 0.08em; color: #5a574f;">
+    {meta_html}
+  </div>
+</td></tr>
+
+<!-- Skyline -->
+<tr><td style="padding: 12px 24px 20px 24px; border-bottom: 1px solid #d6d3c8; background-color: #fbfaf6;" bgcolor="#fbfaf6">
+  <img src="{SITE_URL}/static/skyline-email.png" alt="NYC Skyline" width="320"
+       style="display: block; width: 80%; max-width: 320px; height: auto; opacity: 0.32;">
+</td></tr>
+
+<!-- Summary content -->
+<tr><td style="padding: 4px 24px 24px 24px; font-family: Inter, Arial, sans-serif;
+               font-size: 17px; line-height: 1.65; color: #15171a; background-color: #fbfaf6;" bgcolor="#fbfaf6">
 {summary_html}
-<hr style="border: none; border-top: 1px solid #ccc; margin: 24px 0;">
-<p><a href="{hearing_url}" style="color: #0057b7;">Read the full hearing summary and transcript &rarr;</a></p>
-<p style="font-size: 12px; color: #666;">You are receiving this because you subscribed at hearinghearings.nyc</p>
+</td></tr>
+
+<!-- Read more button -->
+<tr><td style="padding: 0 24px 28px 24px; background-color: #fbfaf6;" bgcolor="#fbfaf6">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td
+    style="background: #c8c5bc; padding: 8px 18px;
+           font-family: 'IBM Plex Mono', Consolas, monospace; font-size: 14px; font-weight: 600;
+           border-top: 3px solid #ffffff; border-left: 3px solid #ffffff;
+           border-right: 3px solid #4a4740; border-bottom: 3px solid #4a4740;">
+    <a href="{hearing_url}" style="color: #15171a; text-decoration: none;">Read more &#8599;</a>
+  </td></tr></table>
+</td></tr>
+
+</table>
+</div>
+</td></tr>
+
+<!-- Status bar -->
+<tr><td style="padding: 6px 12px; font-family: 'IBM Plex Mono', Consolas, monospace;
+               font-size: 11px; color: #5a574f; border-top: 1px solid #4a4740;
+               background: #c8c5bc;" bgcolor="#c8c5bc">
+  <a href="{SITE_URL}" style="color: #5a574f; text-decoration: none;">hearinghearings.nyc</a>
+</td></tr>
+
+</table>
+<!-- End window frame -->
+
+</td></tr>
+</table>
+<!--[if mso]></td></tr></table><![endif]-->
 </body>
 </html>"""
 
