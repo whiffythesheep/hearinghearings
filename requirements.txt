@@ -4,5 +4,6 @@ Jinja2
 markdown
 pdfplumber
 python-dotenv
+requests
 youtube-transcript-api
 yt-dlp

@@ -29,6 +29,7 @@ load_dotenv()
 
 import anthropic
 import pdfplumber
+import requests as http_requests
 import yt_dlp
 from youtube_transcript_api import YouTubeTranscriptApi
 
@@ -53,7 +54,7 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 INPUT_DIR = SCRIPT_DIR / "Input"
 WEBSITE_CONTENT_DIR = SCRIPT_DIR / "content"
 DATE_PREFIX = datetime.now().strftime("%y.%m")
-ANTHROPIC_MODEL = "claude-sonnet-4-20250514"
+ANTHROPIC_MODEL = "claude-sonnet-4-6"
 # Max characters to send in a single Anthropic API call (~4 chars per token).
 # Claude Sonnet has 200k context; we leave room for the prompt and response.
 MAX_TRANSCRIPT_CHARS = 100_000
@@ -109,6 +110,10 @@ def parse_args():
         "--no-deploy", action="store_true",
         help="Write the markdown but skip site build, git commit, and push. "
              "Use when batch-processing multiple meetings to defer build/push."
+    )
+    parser.add_argument(
+        "--no-email", action="store_true",
+        help="Skip sending subscriber email after deploy."
     )
     return parser.parse_args()
 
@@ -1303,7 +1308,81 @@ def build_web_content(summary, utterances, agenda_text, title, slug, date_str,
     return "\n".join(lines)
 
 
-def publish_to_website(web_content, slug, title, deploy=True):
+MAILERLITE_API_URL = "https://connect.mailerlite.com/api"
+MAILERLITE_FROM_NAME = "Hearing Hearings"
+MAILERLITE_FROM_EMAIL = "email@hearinghearings.nyc"
+SITE_URL = "https://hearinghearings.nyc"
+
+
+def send_subscriber_email(web_content, slug, title):
+    """Send an email to all MailerLite subscribers with the hearing summary."""
+    api_key = os.environ.get("MAILERLITE_API_KEY")
+    if not api_key:
+        logger.warning("MAILERLITE_API_KEY not set, skipping subscriber email.")
+        return
+
+    summary_section = web_content.split("## Full Transcript")[0]
+    # Strip YAML front matter
+    if summary_section.startswith("---"):
+        summary_section = summary_section.split("---", 2)[2].strip()
+
+    summary_html = markdown.markdown(summary_section)
+    hearing_url = f"{SITE_URL}/hearings/{slug}/"
+
+    html_body = f"""\
+<html>
+<body style="font-family: Inter, Arial, sans-serif; max-width: 640px; margin: 0 auto; padding: 20px; color: #1a1a1a;">
+<h1 style="font-size: 22px; margin-bottom: 4px;">{html_mod.escape(title)}</h1>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;">
+{summary_html}
+<hr style="border: none; border-top: 1px solid #ccc; margin: 24px 0;">
+<p><a href="{hearing_url}" style="color: #0057b7;">Read the full hearing summary and transcript &rarr;</a></p>
+<p style="font-size: 12px; color: #666;">You are receiving this because you subscribed at hearinghearings.nyc</p>
+</body>
+</html>"""
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+
+    # Create campaign
+    campaign_data = {
+        "name": title,
+        "type": "regular",
+        "emails": [{
+            "subject": title,
+            "from_name": MAILERLITE_FROM_NAME,
+            "from": MAILERLITE_FROM_EMAIL,
+            "content": html_body,
+        }],
+    }
+    resp = http_requests.post(
+        f"{MAILERLITE_API_URL}/campaigns",
+        json=campaign_data,
+        headers=headers,
+        timeout=30,
+    )
+    if resp.status_code not in (200, 201):
+        logger.error(f"MailerLite create campaign failed ({resp.status_code}): {resp.text}")
+        return
+    campaign_id = resp.json()["data"]["id"]
+    logger.info(f"MailerLite campaign created: {campaign_id}")
+
+    # Send immediately
+    resp = http_requests.post(
+        f"{MAILERLITE_API_URL}/campaigns/{campaign_id}/schedule",
+        json={"delivery": "instant"},
+        headers=headers,
+        timeout=30,
+    )
+    if resp.status_code not in (200, 201):
+        logger.error(f"MailerLite schedule failed ({resp.status_code}): {resp.text}")
+        return
+    logger.info(f"Subscriber email sent for: {title}")
+
+
+def publish_to_website(web_content, slug, title, deploy=True, send_email=True):
     """Save markdown to the website content dir, build the site, and push."""
     if not WEBSITE_CONTENT_DIR.exists():
         logger.error(f"Website content directory not found: {WEBSITE_CONTENT_DIR}")
@@ -1346,6 +1425,9 @@ def publish_to_website(web_content, slug, title, deploy=True):
         sys.exit(1)
     subprocess.run(["git", "push"], cwd=str(repo_dir), check=True)
     logger.info(f"Pushed to remote. Cloudflare will deploy shortly.")
+
+    if send_email:
+        send_subscriber_email(web_content, slug, title)
 
 
 def main():
@@ -1592,7 +1674,8 @@ def main():
             summary, utterances, agenda_text, title, slug, date_str, youtube_url,
             duration, council_url=args.council_url or ""
         )
-    publish_to_website(web_content, slug, title, deploy=not args.no_deploy)
+    publish_to_website(web_content, slug, title, deploy=not args.no_deploy,
+                       send_email=not args.no_email)
 
     logger.info("Done!")
 
