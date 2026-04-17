@@ -165,6 +165,17 @@ def build():
             f.write(html)
         print(f"Built: hearings/{hearing['slug']}/index.html")
 
+    # Build 404 page
+    four04_template = env.get_template("404.html")
+    four04_html = four04_template.render(
+        meta_title="404 — Page Not Found | Hearing Hearings",
+        meta_description="Page not found.",
+        meta_url=f"{SITE_URL}/",
+    )
+    with open(os.path.join(OUTPUT_DIR, "404.html"), "w", encoding="utf-8") as f:
+        f.write(four04_html)
+    print("Built: 404.html")
+
     # Generate sitemap.xml
     today = datetime.now().strftime("%Y-%m-%d")
     sitemap_entries = [
