@@ -1413,6 +1413,20 @@ def main():
 
     committee_name, meeting_date = extract_agenda_metadata(agenda_text, client)
 
+    video_title = (video_info.get("title") or "").lower()
+    committee_words = [w for w in committee_name.lower().split() if len(w) > 3]
+    committee_match = any(w in video_title for w in committee_words)
+    date_match = meeting_date in video_title or (
+        meeting_date and meeting_date.replace("-", "") in video_title.replace("/", "").replace("-", "")
+    )
+    if not committee_match and not date_match:
+        logger.warning(f"Possible mismatch — agenda says '{committee_name}' on {meeting_date}, "
+                       f"but video title is '{video_info.get('title', '')}'")
+        response = input("Agenda and video may not match. Continue? [y/N] ").strip()
+        if response.lower() != "y":
+            logger.info("Aborted.")
+            sys.exit(0)
+
     # Step 3: Segment into speaker turns.
     # Check if utterances are cached in the JSON transcript file.
     cached_data = None

@@ -3,30 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block page_title %}Hearing Hearings{% endblock %}</title>
+    <title>404 — Page Not Found | Hearing Hearings</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
     <link rel="stylesheet" href="/static/site.css">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
-    <link rel="canonical" href="{{ meta_url }}">
-    <meta name="description" content="{{ meta_description }}">
-    <meta property="og:title" content="{{ meta_title }}">
-    <meta property="og:description" content="{{ meta_description }}">
+    <link rel="canonical" href="https://hearinghearings.nyc/">
+    <meta name="description" content="Page not found.">
+    <meta property="og:title" content="404 — Page Not Found | Hearing Hearings">
+    <meta property="og:description" content="Page not found.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ meta_url }}">
+    <meta property="og:url" content="https://hearinghearings.nyc/">
     <meta property="og:site_name" content="Hearing Hearings">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ meta_title }}">
-    <meta name="twitter:description" content="{{ meta_description }}">
+    <meta name="twitter:title" content="404 — Page Not Found | Hearing Hearings">
+    <meta name="twitter:description" content="Page not found.">
 </head>
-<body class="{% block body_class %}desktop{% endblock %}">
+<body class="desktop">
     <div class="window">
         <div class="window-titlebar">
             <span class="window-title">
                 <span class="window-title-icon" aria-hidden="true">▓</span>
-                {% block window_title %}Hearing Hearings{% endblock %}
+                Hearing Hearings
             </span>
             <span class="window-controls">
                 <button type="button" class="window-control bevel-out" data-aesthetic-only aria-label="Minimize (decorative)">_</button>
@@ -36,40 +36,21 @@
         </div>
 
         <main class="window-body">
-            {% block content %}{% endblock %}
+            
+<a href="/" class="back-link">← All hearings</a>
+<h1 class="page-heading">404 — Page Not Found</h1>
+<p>This page does not exist. Apologies.</p>
 
-            {% block subscribe %}
-            <aside class="subscribe bevel-in">
-                <div id="mlb2-39982439" class="ml-subscribe-form ml-subscribe-form-39982439">
-                    <div class="subscribe-inner row-form">
-                        <h2 class="subscribe-title">Hearing Hearings via Email.</h2>
-                        <form class="ml-block-form subscribe-form"
-                              action="https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/subscribe"
-                              method="post" target="_blank">
-                            <label class="sr-only" for="subscribe-email">Email address</label>
-                            <input id="subscribe-email" class="subscribe-input bevel-in" type="email"
-                                   name="fields[email]" placeholder="you@example.com"
-                                   aria-required="true" required autocomplete="email">
-                            <button type="submit" class="subscribe-button bevel-out">Subscribe</button>
-                            <input type="hidden" name="ml-submit" value="1">
-                            <input type="hidden" name="anticsrf" value="true">
-                        </form>
-                    </div>
-                    <div class="subscribe-inner row-success" style="display: none">
-                        <h2 class="subscribe-title">Thank you.</h2>
-                        <p class="subscribe-copy">You have joined the subscriber list.</p>
-                    </div>
-                </div>
-            </aside>
-            {% endblock %}
+
+            
         </main>
 
         <div class="window-statusbar" aria-hidden="true">
-            {% block statusbar %}
+            
             <span class="status-cell status-cell--sm"></span>
             <span class="status-cell"></span>
             <span class="status-cell status-cell--sm"></span>
-            {% endblock %}
+            
         </div>
     </div>
     <div id="aesthetic-tooltip" class="aesthetic-tooltip" role="status" aria-live="polite" hidden>For Aesthetic Purposes Only.</div>
