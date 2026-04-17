@@ -13,6 +13,7 @@ Usage:
 """
 
 import argparse
+import html as html_mod
 import json
 import logging
 import os
@@ -28,6 +29,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import anthropic
+import markdown
 import pdfplumber
 import requests as http_requests
 import yt_dlp
