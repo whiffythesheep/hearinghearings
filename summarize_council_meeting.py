@@ -120,45 +120,19 @@ def parse_args():
     return parser.parse_args()
 
 
-def estimate_costs_and_confirm(url):
-    """Show estimated API costs and ask user to confirm before proceeding.
+def fetch_video_info(url):
+    """Fetch video metadata (duration, title) via yt-dlp.
 
-    Returns the video info dict (with duration and title) for reuse.
+    Returns the video info dict for reuse.
     """
     logger.info("Fetching video info...")
     with yt_dlp.YoutubeDL({"quiet": True}) as ydl:
         info = ydl.extract_info(url, download=False)
 
     duration_s = info.get("duration", 0)
-    hours = duration_s / 3600
-    mins = duration_s % 3600 // 60
-
-    # Anthropic: ~25,000 chars/hour of transcript, ~4 chars/token
-    est_chars = hours * 25_000
-    # Speaker segmentation pass (~full transcript input)
-    segment_tokens = est_chars / 4
-    segment_cost = (segment_tokens / 1_000_000 * 3) + (5_000 / 1_000_000 * 15)
-    # Summarization pass
-    summary_tokens = (est_chars + 2_000) / 4
-    if est_chars > MAX_TRANSCRIPT_CHARS:
-        n_chunks = (est_chars // MAX_TRANSCRIPT_CHARS) + 1
-        summary_tokens = summary_tokens * n_chunks + 10_000
-    summary_cost = (summary_tokens / 1_000_000 * 3) + (2_000 / 1_000_000 * 15)
-    # Cleaning pass (~full transcript)
-    clean_cost = (est_chars / 4 / 1_000_000 * 3) + (est_chars / 4 / 1_000_000 * 15)
-
-    anthropic_cost = segment_cost + summary_cost + clean_cost
-
-    h_display = int(hours)
-    m_display = int(mins)
-
+    h_display = int(duration_s / 3600)
+    m_display = int(duration_s % 3600 // 60)
     logger.info(f"Video duration: {h_display}h {m_display:02d}m")
-    logger.info(f"Estimated Anthropic cost: ~${anthropic_cost:.2f}")
-
-    response = input("Proceed? [y/N] ").strip()
-    if response.lower() != "y":
-        logger.info("Aborted.")
-        sys.exit(0)
 
     return info
 
@@ -1731,8 +1705,7 @@ def main():
         if not args.youtube_url:
             logger.error("Either youtube_url or --transcript-json is required.")
             sys.exit(1)
-        # Cost estimate and confirmation.
-        video_info = estimate_costs_and_confirm(args.youtube_url)
+        video_info = fetch_video_info(args.youtube_url)
         # Fetch transcript.
         segments, json_path = fetch_youtube_transcript(
             args.youtube_url, video_info, skip=args.skip_fetch
