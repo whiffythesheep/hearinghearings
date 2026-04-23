@@ -6,110 +6,70 @@ date: 2026-03-25
 slug: committee-on-immigration-fy27-preliminary-budget-hearing
 duration: "5hrs 33m"
 youtube_url: "https://www.youtube.com/watch?v=PGagE0cKXJ0"
-council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1400282&GUID=E57B3C25-399C-4CFC-97CB-B2FDBBA8567E&Options=info|&Search="
 ---
 
 Summary
 
 Meeting Overview
 
-The Committee on Immigration held a preliminary budget hearing on March 25, 2026, focused on the Mayor's Office of Immigrant Affairs (MOYA) and its FY2027 budget request. The hearing took place against a backdrop of sharply escalating federal enforcement activity under the Trump administration, with ICE street arrests in New York City having risen 212% in the first six months of the administration. Commissioner Faiza Ali — roughly one month into her role — testified on MOYA's programs, budget, and coordination role across city agencies. Public Advocate Jumaane Williams and former Council Speaker Melissa Mark-Viverito also testified, with both pressing for more aggressive investment and structural reform to how the city organizes immigrant services.
+The Council's Committee on Immigration held a preliminary budget hearing for FY2027, examining the Mayor's Office of Immigrant Affairs (MOYA) and the City's broader immigrant services infrastructure. The hearing took place against the backdrop of sharply escalating federal immigration enforcement, including a 212% increase in ICE street arrests in New York City in the first six months of the Trump administration, and growing anxiety in immigrant communities about accessing even basic city services. Commissioner Faiza Ali, barely a month into the job, testified alongside her deputy commissioners and faced detailed questioning from Chair Encarnación and colleagues on staffing, contracting, inter-agency coordination, and service delivery.
 
-The structural tension running through the entire hearing was the mismatch between MOYA's mandate and its capacity. MOYA is expected to coordinate immigrant services across more than 46 city agencies, manage over 70 nonprofit contracts, and serve a population of more than 3 million immigrants — yet it has only 5 budgeted positions, of which 2 are currently filled (the Commissioner and a communications director). The remaining 59 staff lines supporting MOYA are formally housed at other agencies. Chair Encarnación and former Speaker Mark-Viverito both made the case for converting MOYA into a standalone city agency with a real budget and headcount; the Commissioner acknowledged the structural problem without committing to a timeline or approach, noting she was still assessing the office. The Committee also heard a plug for the New York for All Act, pending in state budget negotiations, which would align state law more closely with New York City's sanctuary protections.
+The central structural tension running through the entire hearing is MOYA's absurd mismatch between mandate and capacity. The office formally controls a budget of just $782,000 covering five staff positions, two of which are currently filled. The actual operating budget is $42.3 million in FY26, with 64 staff lines spread across other agencies including DSS, DYCD, and H+H, and over 70 nonprofit contracts. Chair Encarnación directly called this arrangement unacceptable and advocated for creating a standalone city immigration agency, a position echoed by former Council Speaker Melissa Mark-Viverito in invited testimony. The commissioner, to her credit, did not pretend this architecture is ideal, but offered the honest answer of a new official: she is still figuring out where things stand. The preliminary budget does add $6.1 million in new baseline funding, comprising $4.6 million for rapid response and legal support centers and $1.5 million for English learning centers, which is at least a real commitment rather than one-shot funding.
 
-On substance, the most significant budget news was the addition of $6.1 million in new baseline funding in the preliminary budget: $4.6 million for the Rapid Response Legal Collaborative and Legal Support Centers, and $1.5 million for English language learning programs. The Legal Support Centers, launched in July 2025 with an $18 million multi-year investment, have already conducted nearly 9,000 comprehensive legal screenings across 29 providers in all five boroughs, surpassing the full-year FY2025 screening total. The immigration legal support hotline, run by Catholic Charities, has received over 14,700 calls in FY2026. Questions were raised about gaps in after-hours coverage and whether the hotline's 7 full-time counselors are sufficient at current demand levels; neither issue was resolved. Council Members pressed on a range of specific vulnerable populations — TPS holders, unaccompanied minors, domestic violence survivors, NYCHA residents facing new HUD verification requirements, street vendors, and LGBTQIA+ immigrants — with the Commissioner generally acknowledging the concerns and committing to follow-up rather than providing firm answers.
+Questioning covered a wide range of operational programs. The immigration legal support hotline received over 14,700 calls so far this year and operates with seven counselors across limited hours, with no after-hours connection option beyond a voicemail callback, which council members found inadequate. The legal support centers network, rebranded from Action NYC, now comprises 29 unique providers across 38 contracts, and has conducted nearly 9,000 legal screenings since launching in July 2025. The rapid response legal collaborative received a $3 million increase this fiscal year, and preliminary plan figures show a substantial multi-year funding commitment for legal services overall. Concerns were raised about specific vulnerable populations including Haitian TPS holders facing Supreme Court uncertainty, unaccompanied minors, LGBTQ immigrants, survivors of domestic violence, and mixed-status families in NYCHA housing threatened by a proposed HUD rule change requiring immigration status verification for all household members. The committee also pressed on inter-agency coordination, sanctuary city compliance training following Executive Order 13, airport safety advisories, language access, 311 integration, and plans around the closure of the last remaining migrant shelter and associated mail center in the South Bronx.
 
-Several operational concerns drew pointed questions. The closure of a centralized mail center in the South Bronx at the end of March 2026 — used by asylum seekers to receive court documents — was raised as an urgent problem, with MOYA deferring to DHS for details on how forwarding would be handled. The last remaining migrant shelter, housing around 2,000 people, is slated to close by end of 2026, with service continuity and language access plans still being developed. Council Member Schulman raised the exposure at LaGuardia and JFK airports, which are not covered by sanctuary city laws; MOYA had issued a travel advisory the day before the hearing, being translated into 12 languages, which was a reasonable immediate response to an essentially unresolvable jurisdictional problem. The hearing also surfaced questions about whether inter-agency coordination under Executive Order 13 — which bars ICE from city-owned properties without a judicial warrant — is actually reaching front-line city workers, with a May 7 agency audit deadline set as a near-term accountability marker.
-
-The overall picture is of a city making meaningful incremental investments in immigrant legal services and English language programming, while operating an oversight and coordination structure that is structurally undersized for the scale of the challenge, at exactly the moment when the challenge is growing fastest. The Commissioner is new, the staffing plan is unresolved, and several of the most acute operational questions — the mail center, the shelter closure, after-hours legal coverage — were deferred rather than answered. Whether the preliminary budget numbers survive the full budget process, and whether the call for a standalone immigration agency gains any real traction, remain to be seen.
+Former Speaker Mark-Viverito's testimony was substantive and pointed. She framed the current federal enforcement environment as part of a broader authoritarian project, catalogued the sanctuary legislation passed during her tenure including detainer laws and the ban on ICE at Rikers, and made the case for a standalone city immigration agency as both an organizational and political necessity. She also called for passage of the New York for All Act at the state level. Her testimony reinforced what the committee was already arguing: the patchwork of MOYA contracts and embedded agency staff is too fragile and too opaque for the moment the city is actually in.
 
 Numbers
 
-- 40% of NYC's population is foreign-born.
-- More than 3 million immigrants live in New York City.
-- Nearly 1.8 million New Yorkers have limited English proficiency.
-- New York City has approximately 800 languages spoken.
-- Undocumented immigrants paid $96.7 billion in US taxes in 2022.
-- Undocumented immigrants paid $3.1 billion in taxes in New York State in 2022.
-- ICE street arrests in NYC grew by 212% in the first 6 months of the Trump administration, rising to over 3,000.
-- MOYA has 5 budgeted staff positions, of which only 2 are currently filled.
-- MOYA has 64 total staff lines, with 59 housed at other city agencies.
-- MOYA oversees language access for over 46 city agencies.
+- MOYA's formal preliminary budget for FY2027 is $782,000, covering five staff positions.
+- Two of those five positions are currently filled: the commissioner and the director of communications.
+- MOYA's total operating budget for FY2026 is approximately $42.3 million.
+- MOYA has 64 total staff lines across city government; 59 of the 64 are housed in other agencies.
 - MOYA manages over 70 contracts with nonprofit organizations.
-- MOYA's base budget under the mayoralty is approximately $782,000 for FY2027.
-- MOYA's total operational budget for FY2026 is approximately $42.3 million.
-- New baseline funding added in the preliminary budget totals $6.1 million: $4.6 million for the Rapid Response Legal Collaborative and Legal Support Centers, and $1.5 million for English language learning.
-- Total new preliminary budget commitment to immigrant services is approximately $32 million.
-- Additional baseline for legal services is $14.6 million.
-- New legal services funding by year: $6.7 million in FY2026, $21.3 million in FY2027, $20.9 million in FY2028, $19.2 million in FY2029.
-- The Legal Support Centers were launched in July 2025 with an investment of over $18 million across 3 years.
-- The Deportation Defense Initiative has $16.9 million in the preliminary plan.
-- Legal Support Centers baseline funding is $11.6 million.
-- There are 25 legal support centers on 3-year contracts and 13 additional former Action NYC partners on 1-year contracts, totalling 38 contracts across 29 unique providers.
-- Nearly 9,000 comprehensive legal screenings have been conducted since July 2025.
-- In the first half of FY2026 into Q3, the Legal Support Centers conducted 8,756 screenings and 3,727 filings, compared to 7,656 screenings and 4,684 filings for all of FY2025.
-- The MOYA immigration legal support hotline has received over 14,700 calls in FY2026.
-- The hotline is staffed by 7 full-time counselors at a cost of approximately $632,000 in FY2026.
-- The hotline expanded its reporting from 4 to 10 languages.
-- The Rapid Response Legal Collaborative received $3 million in additional investment in FY2026, with a total budget of $2.2 million in FY2026.
-- The Council provided $850,000 for application fees for MOYA-funded legal providers; total filing fees available are approximately $1 million including $172,000 in leftover Council funds.
-- 24 of 27 providers have application fee funding reflected in their FY2026 budgets.
-- The Haitian Response Initiative budget is $1.6 million, baselined in FY2026, serving 8 organizations and projected at $1.6 million for FY2027.
-- The Council added $600,000 in discretionary funding for 6 Haitian-serving nonprofits.
-- The Haitian Response Initiative screened 333 individuals and filed 120 cases in FY2026.
-- Approximately 200 SIJS-eligible youth were identified; 69 were assisted with Special Immigrant Juvenile applications.
-- Literacy Assistance Centers / I Care funding is $733,000 in FY2026.
-- English language learning programs served 2,830 unique learners in FY2026, with approximately 750 to 800 graduates.
-- Library system English classes: 73 classes, 1,700 unique learners, 576 graduates.
-- MOYA's in-house We Speak program: 23 classes, 382 unique learners, 174 graduates.
-- English learning total baseline for FY2027 is approximately $2.1 million, comprising $500,000 per library system plus $1.5 million in new baseline funding.
-- MOYA delivered nearly 300 immigrant rights workshop presentations in FY2026, reaching nearly 6,000 people.
-- MOYA's external affairs team reached nearly 37,000 direct touch points in calendar year 2025.
-- MOYA's website resources were downloaded over 142,000 times by nearly 79,000 users over 4 years.
-- MOYA led 10 community and ethnic media roundtables in calendar year 2025.
-- MOYA has 10 community liaisons.
-- The last remaining migrant shelter houses approximately 2,000 people and is slated to close by end of 2026.
-- 34 to 50% of immigrant women in the US have experienced domestic violence.
-- 77% of immigrant women whose immigration status depends on their spouse have experienced domestic violence.
-- New York City has approximately 23,000 street vendors, nearly all of whom are immigrants.
-- There are over 170 crimes for which the city can honor ICE detainer requests.
-- NYC has had sanctuary protections since the 1980s, formalised in Executive Order 124 in 1989.
-- The airport travel advisory issued by MOYA is being translated into more than 12 languages.
-- The Inter-Agency Response Committee has a May 7 agency audit deadline for Executive Order 13 compliance.
+- New baseline funding added in the preliminary budget totals $6.1 million: $4.6 million for rapid response and legal support centers, $1.5 million for English learning and support centers.
+- The preliminary plan includes $6.7 million in new legal services funding in FY26, rising to $21.3 million in FY27, $20.9 million in FY28, and $19.2 million in FY29.
+- Total preliminary budget commitment to expand or support immigrant legal services is approximately $32 million.
+- The legal support centers network comprises 29 unique providers across 38 contracts, including 25 on three-year contracts and 13 former Action NYC partners on one-year contracts.
+- The network has conducted 8,756 legal screenings and 3,727 filings through the first half of FY26 and into Q3, compared to 7,656 screenings and 4,684 filings for all of FY2025.
+- The immigration legal support hotline has received over 14,700 calls so far in FY26, staffed by seven full-time counselors.
+- Hotline budget for FY2026 is approximately $632,000.
+- MOYA increased investment in rapid response legal efforts by $3 million this fiscal year; the preliminary plan includes $2.2 million in FY26 for the rapid response legal collaborative.
+- Preliminary plan includes $16.9 million for the deportation defense initiative, managed by DSS.
+- The Haitian Response Initiative is baselined at $1.6 million for FY26; it served 333 individuals screened and 120 cases filed in FY26. The Council provided an additional $600,000 in discretionary funding for six Haitian-serving nonprofits.
+- MOYA's English learning programs have served 2,830 unique learners and approximately 750 graduates in FY26; 73 classes delivered through three library systems reached 1,700 unique learners and 576 graduates.
+- English learning center funding for FY27 will total approximately $2.1 million baseline, up from $600,000 initially, with $500,000 allocated per library system.
+- The Council provided $850,000 to cover filing fees and operational expenses for MOYA-funded legal providers; combined with $172,000 in leftover Council funds, approximately $1 million total went toward filing fees across 27 providers.
+- ICE street arrests in New York City grew by 212% to over 3,000 in the first six months of the Trump administration.
+- Undocumented immigrants paid $3.1 billion in state taxes in New York in 2022; nationally the figure was $96.7 billion.
+- Nearly 40% of New York City's population is foreign-born.
+- MOYA oversees language access services for approximately 1.8 million New Yorkers with limited English proficiency across 46 city agencies.
+- 69 youth were assisted with Special Immigrant Juvenile status applications following the closure of the asylum application help center.
+- Between 34% and 50% of immigrant women in the US have experienced domestic violence; this rises to 77% for women whose immigration status is dependent on their spouse.
+- The last remaining migrant shelter, housing roughly 2,000-plus people, is planned to close by end of 2026.
 
 Action Points
 
-- MOYA to provide Chair Encarnación with details on the 64 staff lines across agencies, including titles, roles, and responsibilities.
-- MOYA to confirm the full list of languages in which the airport travel advisory was published.
-- MOYA to share the structure and staffing details of the Inter-Agency Response Committee once finalised, as requested by Council Member Schulman.
-- MOYA to explore a know-your-rights paid and unpaid media campaign.
-- MOYA to push out the airport travel advisory to community-based organisations and contracted providers.
-- MOYA to provide regular policy updates to NYCHA residents and explore a visual outreach campaign for NYCHA developments.
-- MOYA and DSS to submit a public comment on the proposed HUD rule requiring immigration verification for all HUD-assisted housing residents.
-- MOYA, DSS, and DOH to submit a public comment on the proposed DHS public charge rule change.
-- MOYA to update its public charge guidance flyer and ensure translation into at least the top 10 languages.
-- MOYA to collaborate with the Office of Community Mental Health and the gender-based violence office to incorporate mental health resources into hotline scripts.
-- MOYA to develop new and uplift existing mental health resources for immigrant New Yorkers.
-- MOYA to work with Health and Hospitals and DOH to continue outreach encouraging preventive health care use among immigrants.
-- MOYA to engage with District 79 at the Department of Education about a potential ESL programming partnership.
-- MOYA to explore expanded after-hours coverage or referral options for the immigration legal support hotline.
-- MOYA to follow up on how many asylum seekers participated in the Local Law 73/74 survey and what questions were included, in coordination with DOH.
-- MOYA to follow up on barriers DOH has faced in implementing Local Laws 73/74.
-- MOYA to provide projected FY2027 budget figures for the Deportation Defense Initiative and Immigration Opportunity Initiative, managed by DSS.
-- MOYA to follow up on the language capacity of the new Office of Vendor Services at the Small Business Services agency.
-- MOYA to circulate details of the Literacy Assistance Centers, I Care, and SIJS unaccompanied minor funding.
-- MOYA to invite the Commissioner to District 3 Project Open Arms events on April 15 or May 13, as requested by Council Member Brewer.
-- MOYA to evaluate whether multi-year, flexible contracts can be issued to providers to allow rapid response to emerging needs.
-- MOYA to conduct quarterly check-ins with all legal support center providers.
-- MOYA to assess service continuity implications of the ASLAN and Navigation Centers funding consolidation.
-- MOYA to post results of agency compliance audits under Executive Order 13 publicly by the May 7 deadline.
-- MOYA to pursue an RFP process for English language learning programs now that funding is baselined, with attention to geographic accessibility.
-- MOYA to explore partnership with the Deputy Mayor's office to integrate immigrant workforce development into MOYA programming.
-- MOYA to coordinate with DYCD, ACS, and DOE on a comprehensive plan for immigrant youth.
-- MOYA and Catholic Charities to launch a family preparedness phone bank, planned for April 2026.
-- MOYA to advocate with OMB for increased adult literacy funding in support of the Coalition for Adult Literacy's $20 million proposal, as requested by Council Member Brewer.
-- Chair Encarnación to encourage OMB and MOYA to work toward creating a dedicated standalone city agency for immigrant affairs.
-- New York State legislature to pass the New York for All Act as part of current state budget negotiations, as urged by former Speaker Mark-Viverito.
+- MOYA to provide committee with a detailed breakdown of the 64 staff lines across agencies, including titles and responsibilities.
+- MOYA to follow up with committee on the languages in which the airport travel safety advisory was published and when remaining translations will be available.
+- MOYA to share details of the inter-agency response committee structure and membership with CM Schulman when finalized.
+- MOYA to explore multi-year, flexible contract structures with legal service providers and report back to committee on procurement options.
+- MOYA to develop updated public charge guidance flyer in collaboration with DSS, DOH, and NYC Health, translated into at least the top 10 languages, and share with committee.
+- MOYA to submit a public comment in response to the proposed HUD rule requiring immigration status verification for all NYCHA household members, in coordination with NYCHA and other agencies.
+- MOYA to submit a public comment in response to the DHS proposed public charge rule change, in collaboration with DSS and DOH.
+- MOYA to follow up with committee on the specifics of Local Laws 73 and 74, including survey questions, number of asylum seekers surveyed, and any barriers to implementation, by coordinating with DOH.
+- MOYA to provide committee with projected FY27 budgets for the deportation defense initiative and the immigration opportunity initiative, via DSS.
+- MOYA to follow up with committee on the language capacity planned for the new Department of Small Business Services Office of Vendor Services.
+- MOYA to look into the New York State Bank of online resources for job seekers and report back on whether and how it has been shared with community members.
+- MOYA to explore after-hours coverage options for the immigration legal support hotline and report back to committee.
+- MOYA to provide committee with the number of hotline counselors in prior years for comparison to the current seven.
+- MOYA to evaluate whether an RFP process should be used for English learning center funding in FY27, including assessing geographic gaps in service access.
+- MOYA to explore partnership between the We Speak English curriculum and District 79 ESL and GED programs, per CM Joseph's suggestion.
+- MOYA to invite CM Brewer to the District 3 Project Open Arms session (April 15 or May 13) and provide update on DOE rapid response collaborative in schools.
+- MOYA to develop a family preparedness phone bank in collaboration with Catholic Charities, planned for April.
+- MOYA to conduct trainings across all relevant city agencies on sanctuary city compliance under Executive Order 13, following agency self-audit reports due May 7, and post recommendations publicly on MOYA's website.
+- MOYA to pursue paid and unpaid know-your-rights media campaign citywide and report back to committee on rollout.
+- MOYA to assess gaps in services for transgender, non-conforming, and non-binary immigrant New Yorkers in consultation with the Office of Equity and Justice, as required by recent local law.
 
 ## Full Transcript
 
