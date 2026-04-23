@@ -159,12 +159,18 @@
     <h2 class="section-heading">Hearings</h2>
     <div class="listing-well">
         <ol class="hearing-index">
+            <li class="hearing-colheaders" aria-hidden="true">
+                <span class="hearing-row__date">Date</span>
+                <span class="hearing-row__committee">Committee</span>
+                <span class="hearing-row__title">Hearing</span>
+            </li>
         {% for hearing in hearings %}
             <li class="hearing-row">
                 <a href="/hearings/{{ hearing.slug }}/">
                     <time class="hearing-row__date" datetime="{{ hearing.date }}">
                         {{ hearing.date_display }}
                     </time>
+                    <span class="hearing-row__committee">{{ hearing.committee }}</span>
                     <span class="hearing-row__title">{{ hearing.title }}</span>
                 </a>
             </li>

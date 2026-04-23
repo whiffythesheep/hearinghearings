@@ -1,5 +1,7 @@
 ---
-title: "Committee on Housing and Buildings, Oversight - Shared Housing in NYC"
+committee: "Committee on Housing and Buildings"
+committee_slug: committee-on-housing-and-buildings
+title: "Oversight - Shared Housing in NYC"
 date: 2026-02-09
 slug: committee-on-housing-and-buildings-oversight-shared-housing-in-nyc
 duration: "1hr 27m"

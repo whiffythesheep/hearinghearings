@@ -1,5 +1,7 @@
 ---
-title: "Committee on Land Use, FY 2027 Preliminary Budget Hearing"
+committee: "Committee on Land Use"
+committee_slug: committee-on-land-use
+title: "FY 2027 Preliminary Budget Hearing"
 date: 2026-03-23
 slug: committee-on-land-use-fy-2027-preliminary-budget-hearing
 duration: "3hrs 4m"

@@ -1,5 +1,7 @@
 ---
-title: "Committee on Sanitation and Solid Waste Management, Finalizing the City's Draft 2026-2036 Solid Waste Management Plan"
+committee: "Committee on Sanitation and Solid Waste Management"
+committee_slug: committee-on-sanitation-and-solid-waste-management
+title: "Finalizing the City's Draft 2026-2036 Solid Waste Management Plan"
 date: 2026-04-06
 slug: committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan
 duration: "3hrs 47m"
