@@ -58,8 +58,8 @@ WEBSITE_CONTENT_DIR = SCRIPT_DIR / "content"
 DATE_PREFIX = datetime.now().strftime("%y.%m")
 ANTHROPIC_MODEL = "claude-sonnet-4-6"
 # Max characters to send in a single Anthropic API call (~4 chars per token).
-# Claude Sonnet has 200k context; we leave room for the prompt and response.
-MAX_TRANSCRIPT_CHARS = 100_000
+# 300K chars ≈ 75K tokens; Sonnet's 200K context leaves room for prompt + 8K response.
+MAX_TRANSCRIPT_CHARS = 300_000
 MAX_SEGMENT_CHARS = 30_000  # Max characters per speaker segmentation API call
 
 
@@ -1109,10 +1109,10 @@ Meeting Overview
 [3-5 paragraphs scaled to the substance of the hearing. Cover what was discussed, what arguments were made, what (if anything) was decided, why decisions were made, and who provided testimony and what they argued. Reference bill numbers and topic names naturally within the narrative. Do not pad — shorter or less-substantial meetings should have shorter summaries.]
 
 Numbers
-[A list of all relevant numbers, statistics and budget figures from the meeting, each on its own line prefixed with "- ". Do not include procedural references like "page 4 of the report". Deduplicate numbers which appear more than once. Each number should appear once with enough context to be understood on its own. End each list item with a full stop.]
+[A list of the numbers, statistics and budget figures from the meeting most useful for someone interested in budgetary, financial, policy, political and/or operational matters, each on its own line prefixed with "- ". Do not include procedural references like "page 4 of the report". Deduplicate numbers which appear more than once. Each number should appear once with enough context to be understood on its own. Typically 15-25 bulletpoints, but can be fewer for shorter meetings. End each list item with a full stop.]
 
 Action Points
-[A list of all action points from the meeting, each on its own line prefixed with "- ". Where relevant, specify the owner: "- HPD to follow up with committee on tree cost." Only include items where a specific actor committed to a specific action or was asked to do a specific action. Do not include general uncertainties or open questions: those should be included in the meeting overview section. End each list item with a full stop.]
+[A list of the action points from the meeting most useful for someone interested in budgetary, financial, policy, political and/or operational matters, each on its own line prefixed with "- ". Where relevant, specify the owner: "- HPD to follow up with committee on tree cost." Only include items where a specific actor committed to a specific action or was asked to do a specific action. Do not include general uncertainties or open questions: those should be included in the meeting overview section. Typically 15-25 bulletpoints, but can be fewer for shorter meetings. End each list item with a full stop.]
 
 No other sections."""
 
@@ -1195,10 +1195,10 @@ Meeting Overview
 [3-5 paragraphs scaled to the substance of the hearing. Cover what was discussed, what arguments were made, what (if anything) was decided, why decisions were made, and who provided testimony and what they argued. Reference bill numbers and topic names naturally within the narrative. Do not pad — shorter or less-substantial meetings should have shorter summaries.]
 
 Numbers
-[A list of all relevant numbers, statistics and budget figures from the meeting, each on its own line prefixed with "- ". Do not include procedural references like "page 4 of the report". Deduplicate numbers which appear more than once. Each number should appear once with enough context to be understood on its own. End each list item with a full stop.]
+[A list of the numbers, statistics and budget figures from the meeting most useful for someone interested in budgetary, financial, policy, political and/or operational matters, each on its own line prefixed with "- ". Do not include procedural references like "page 4 of the report". Deduplicate numbers which appear more than once. Each number should appear once with enough context to be understood on its own. Typically 15-25 bulletpoints, but can be fewer for shorter meetings. End each list item with a full stop.]
 
 Action Points
-[A list of all action points from the meeting, each on its own line prefixed with "- ". Where relevant, specify the owner: "- HPD to follow up with committee on tree cost." Only include items where a specific actor committed to a specific action or was asked to do a specific action. Do not include general uncertainties or open questions: those should be included in the meeting overview section. End each list item with a full stop.]
+[A list of the action points from the meeting most useful for someone interested in budgetary, financial, policy, political and/or operational matters, each on its own line prefixed with "- ". Where relevant, specify the owner: "- HPD to follow up with committee on tree cost." Only include items where a specific actor committed to a specific action or was asked to do a specific action. Do not include general uncertainties or open questions: those should be included in the meeting overview section. Typically 15-25 bulletpoints, but can be fewer for shorter meetings. End each list item with a full stop.]
 
 No other sections."""
 
