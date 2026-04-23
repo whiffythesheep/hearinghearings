@@ -1,5 +1,5 @@
 ---
-committee: "Subcommittee on Early Childhood Education"
+committee: "Subcommittee on Early Childhood Education | Committee on Workforce Development | Committee on Higher Education"
 committee_slug: subcommittee-on-early-childhood-education
 title: "Early Childhood Educator Workforce Development and Pipeline"
 date: 2026-04-15

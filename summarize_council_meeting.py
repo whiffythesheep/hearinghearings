@@ -229,7 +229,7 @@ def extract_agenda_metadata(agenda_text, client):
     """Extract committee name and meeting date from agenda text using Claude."""
     prompt = f"""Extract the following from this NYC Council meeting agenda:
 
-1. The committee name (e.g. "Committee on Housing and Buildings")
+1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation")
 2. The meeting date
 
 <agenda>
@@ -237,7 +237,7 @@ def extract_agenda_metadata(agenda_text, client):
 </agenda>
 
 Respond in exactly this format, nothing else:
-COMMITTEE: [committee name]
+COMMITTEE: [committee name(s)]
 DATE: YYYY-MM-DD"""
 
     response = client.messages.create(
@@ -1627,7 +1627,8 @@ def publish_to_website(web_content, slug, title, committee="",
         logger.error(f"Website content directory not found: {WEBSITE_CONTENT_DIR}")
         sys.exit(1)
 
-    combined_title = f"{committee}, {title}" if committee else title
+    primary = committee.split(" | ")[0] if committee else ""
+    combined_title = f"{primary}, {title}" if primary else title
 
     web_path = WEBSITE_CONTENT_DIR / f"{slug}.md"
     with open(web_path, "w", encoding="utf-8") as f:
@@ -1736,7 +1737,8 @@ def main():
     committee_name, meeting_date = extract_agenda_metadata(agenda_text, client)
 
     video_title = (video_info.get("title") or "").lower()
-    committee_words = [w for w in committee_name.lower().split() if len(w) > 3]
+    primary_for_check = committee_name.split(" | ")[0] if committee_name else ""
+    committee_words = [w for w in primary_for_check.lower().split() if len(w) > 3]
     committee_match = any(w in video_title for w in committee_words)
     date_match = meeting_date in video_title or (
         meeting_date and meeting_date.replace("-", "") in video_title.replace("/", "").replace("-", "")
@@ -1900,7 +1902,8 @@ def main():
         summary = generate_summary(utterances, agenda_text)
 
         committee = committee_name or ""
-        committee_slug_val = slugify(committee) if committee else ""
+        primary_committee = committee.split(" | ")[0] if committee else ""
+        committee_slug_val = slugify(primary_committee) if primary_committee else ""
 
         if args.title:
             title = args.title
@@ -1908,7 +1911,7 @@ def main():
             title = video_info.get("title", "council_meeting")
             title = clean_youtube_title(title)
 
-        combined_for_slug = f"{committee}, {title}" if committee else title
+        combined_for_slug = f"{primary_committee}, {title}" if primary_committee else title
         slug = slugify(combined_for_slug)
         date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
         youtube_url = args.youtube_url or ""

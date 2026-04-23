@@ -1,0 +1,724 @@
+---
+committee: "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation"
+committee_slug: committee-on-criminal-justice
+title: "Voting on Rikers Island"
+date: 2026-04-14
+slug: committee-on-criminal-justice-voting-on-rikers-island
+duration: "3hrs 18m"
+youtube_url: "https://www.youtube.com/watch?v=8uJnF1JUBAM"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402154&GUID=1BB4B79F-23B1-4C97-94F0-1960B9585F2B&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Criminal Justice, jointly with the Committee on Governmental Operations, State and Federal Legislation, held an oversight hearing on voting access for incarcerated individuals on Rikers Island, alongside consideration of two bills. Int 0786-2026, sponsored by Chair Brooks-Powers and co-sponsored by Public Advocate Jumaane Williams, would require the Department of Correction to work with the Board of Elections to establish ballot curing procedures and report on outcomes. Int 0797-2026, sponsored by Williams, would mandate annual reporting on voter registration and voting activity inside city jails. Neither bill was voted on; the hearing was investigative and legislative groundwork.
+
+The core problem, which nobody disputed, is straightforward and damning: of roughly 6,700 people currently held on Rikers, the vast majority are legally eligible to vote, yet in the 2025 general election only 621 ballots were requested and 335 were counted. Pre-trial detainees and those serving misdemeanor sentences retain full voting rights under New York law, but the combination of a cumbersome absentee-only process, slow mail, a single DOC staff member historically responsible for ballot logistics, volunteer access restrictions, fluid population turnover, and inadequate coordination between DOC and the Board of Elections has produced what amounts to functional disenfranchisement. Public Advocate Williams drew the Jim Crow parallel explicitly and made the point that if any other group of New Yorkers were systematically unable to exercise a legal right, the response would be immediate.
+
+DOC Deputy Commissioner Nell Cologne and Assistant Commissioner Valerie Grayock described a facilitation-focused operation: 16 voter registration drives per year, quarterly educational sessions by counseling staff, tablet-based access to registration forms and voter guides, and hand-delivery of completed ballots to the Board of Elections in Queens. They announced a new twice-weekly partnership with the EAC Network intended to increase facility coverage. However, under questioning, they acknowledged that volunteers only reach a subset of housing units per visit, that each facility likely receives volunteer visits roughly twice a year, and that DOC does not receive ballot deficiency notices and therefore cannot realistically implement the curing procedures contemplated in Int 0786-2026 without significant changes to state law and inter-agency systems. They also confirmed that historically a single person held primary responsibility for courier logistics, and that tracking of special elections and rapidly discharged voters remains underdeveloped.
+
+Board of Elections Executive Director Michael Ryan, testifying remotely, was consistent on one point to the point of stonewalling: New York State Election Law Section 8-400 designates absentee voting as the only legally permissible method for incarcerated voters, a position confirmed by the State Board of Elections, and the city board will not deviate from that. Ryan was firm that establishing a polling place on Rikers, a goal both chairs clearly want, is legally impossible without state legislation. He noted some operational progress, including centralising ballot pickup to the Queens BOE office. Under pressure from Chair Brewer, he committed to sending BOE staff to Rikers to assess the process ahead of upcoming elections, and acknowledged the city board has never compared Rikers voting participation to other jurisdictions or had conversations with counties that have implemented jail-based polling. The nursing home voting model, where bipartisan BOE teams visit facilities above a population threshold, was discussed as a possible analogue, with Ryan acknowledging the transition to borough-based jails would make coordination more straightforward.
+
+The hearing exposed a consistent pattern: both agencies are doing something, both can point to incremental improvements, but the system is structurally inadequate and neither agency has the authority, appetite, or apparently the urgency to fix it unilaterally. The legislative pathway is clear but requires Albany. The Council's most actionable near-term levers are the reporting bills, tightened inter-agency coordination, and pressure on the state legislature to enable polling places and streamlined curing procedures. Chairs Brewer and Brooks-Powers were not subtle about the direction of travel.
+
+Numbers
+
+- Approximately 6,700 people are currently held on Rikers Island.
+- Over 80% of the Rikers population is held pre-trial and retains the right to vote.
+- In the 2025 general election, 621 absentee ballots were issued to incarcerated voters citywide.
+- 335 of those 621 ballots were received and counted, a return rate of approximately 54%.
+- 247 ballots were issued but not returned in the 2025 general election.
+- 23 ballots were returned as undeliverable in the 2025 general election.
+- 14 ballots were deemed invalid but curable in the 2025 general election.
+- 1 ballot was invalid and not curable, and 1 was received past the legal deadline in the 2025 general election.
+- In the June 2024 primary, 155 early and absentee ballots were delivered to voters on Rikers; only 72 were returned and counted.
+- In the June 2024 primary, there were 364 ballot requests from Rikers Island.
+- The general population absentee ballot return rate in 2025 was approximately 73%, compared to 54% for Rikers voters.
+- The citywide absentee ballot completion rate is approximately 63%; advocates report roughly 20% in DOC facilities.
+- DOC conducts 16 voter registration drives per year across its facilities.
+- DOC counseling staff provide voter education on a quarterly basis to housing units.
+- Between 80% and 90% of eligible Rikers detainees who have been in custody over 30 days have been issued a tablet.
+- DOC's new EAC Network partnership will provide voter registration and education support twice per week across facilities.
+- At a rotation of 16 drives per year across multiple facilities, each facility receives approximately two volunteer visits per year.
+- The Board of Elections processed over 235,000 absentee ballot applications citywide in the 2025 general election without operational difficulty.
+- DOC has approximately 60 counseling staff members who support civic engagement activities among other duties.
+- Missing signatures are the most common reason absentee ballots from Rikers are rejected.
+
+Action Points
+
+- Board of Elections to provide the committee with data on how many of the rejected ballots from the June 2024 primary had curable defects and how many were successfully cured by voters still in DOC custody.
+- Board of Elections Executive Director Ryan to assess the feasibility of sending BOE staff to Rikers Island ahead of upcoming elections, coordinate with DOC, and report back to the committee with an initial assessment.
+- DOC to follow up with the committee on the conversion rate from voter registration to absentee ballot requests among the Rikers population.
+- DOC to provide a response to the committee on whether expedited delivery policies exist for absentee ballots comparable to those used for court or immigration notices.
+- DOC to clarify for the committee how disaggregated demographic data required under Int 0797-2026, including by race, age, gender, gender identity, sexual orientation, disability status and veteran status, can be collected within existing systems, and what changes would be needed to meet a January 31, 2027 reporting deadline.
+- DOC and Board of Elections to explore whether address and assembly district data can be cross-referenced at intake to automatically flag eligible voters for upcoming elections, including special elections, as suggested by Chair Brewer.
+- Board of Elections to assign a staff member to attend the monthly Voting on Rikers working group meetings on an ongoing basis.
+- DOC to investigate whether multiple facilities can conduct voter registration drives simultaneously rather than sequentially, and report back to the committee.
+- Council to submit a resolution to the state legislature requesting amendments to New York State election law to enable ballot curing procedures and, ultimately, polling places for incarcerated voters, as recommended by the Board of Elections as the necessary precondition for further reform.
+- DOC to provide committee with all written testimony no less than 24 hours in advance of future hearings, as requested publicly by Chair Brooks-Powers for the second time.
+- DOC and Board of Elections to explore feasibility of a nursing home style bipartisan in-person voting program for Rikers, with particular reference to the transition to borough-based jails as a structural opportunity to streamline coordination.
+- Board of Elections to review whether comparisons with other jurisdictions implementing jail-based voting, such as Ulster County, Cook County, Washington DC and Colorado, could inform improvements to the New York City process.
+
+## Full Transcript
+
+[**(00:00:10)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=10s)
+
+
+
+Heat.
+
+[**(00:11:51)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=711s)
+
+
+
+Good morning. Welcome to the New York City Council hearing on the Committee on Governmental Operations, State & Federal Legislation joint with Criminal Justice. At this time, please silence all electronics and do not approach the dais. If you need to testify, please see a sergeant-at-arms. Any other questions or concerns, you may reach a sergeant-at-arms. Thank you for your cooperation. Chairs, you may begin.
+
+[**(00:12:12)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=732s)
+
+
+
+Good morning. I am Gale Brewer, the chair of the Committee on Governmental Operations, State & Federal Legislation. I would like to welcome the representatives from the administration, members of the public and my colleagues who have joined us. We have so far CM Narcisse, Morano and Dinowitz, and then in a few minutes we will have remarks from the awesome criminal justice chair. At today's hearing we will be conducting oversight of voting on Rikers Island. Voting is our most basic right. The right from which all other rights flow. But on Rikers Island, very few people appear able to exercise that right. Today, we will examine why it is so difficult for people on Rikers Island to vote.
+
+Most people held on Rikers are eligible to vote. Over 80% of the nearly 7,000 people currently on Rikers are being held pre-trial and retain the right to vote. Let me be clear. Voters held on Rikers who are serving time for misdemeanor offenses also maintain their voting rights, as well as those who have not been convicted of anything and are waiting for court. But current law and practices are effectively preventing the vast majority of these individuals from casting their votes.
+
+By law, currently, incarcerated voters can only vote by absentee or early mail ballot. They must request a ballot by filling out a physical absentee ballot request form or an early mail ballot request form, or applying through the online portal, which is not easy to find on the island. The physical forms must be delivered either through the postal system or by the Department of Correction staff. Then once the applications are approved, the ballots must then be delivered to Rikers Island either through the mail or picked up by DOC staff. Correction staff only makes one trip to the Board of Elections per week. Mail at Rikers Island is slow, making this a tedious process.
+
+Voting using early or mail ballots requires the voter to place the completed ballot in an envelope, seal a ballot affirmation envelope and sign it. Any error on the ballot envelope will result in the BOE rejecting the ballot. If a ballot is rejected, the Board of Elections is required to send a notice about the errors and give the voter an opportunity to cure any defects if they are curable. You will hear more about this with the wonderful bill that my colleague has. These notices are sent to either the person's address of registration or the address of the application, which as you can imagine may not be the place where the voter is currently incarcerated. If the defect is not curable, the Board of Elections is required to inform the voter about alternate ways to vote, such as filing an affidavit ballot at a local polling place — that is not possible — or obtaining a new absentee or early mail ballot. However, no surprise to you, neither of these options are realistically available to incarcerated voters.
+
+In the June 2024 primary, of 155 early and absentee ballots that were delivered to voters on Rikers, only 72 were returned and counted. And that is after a lot of work by volunteers. While the Board of Elections is responsible for conducting voter registration and processing requests for early mail and absentee ballots for voters on Rikers Island, they cannot do it without the cooperation of the Board of Correction. BOC in turn relies heavily on outside volunteers to conduct voter registration and help individuals fill out ballots and ballot request forms. But since correction decides which facilities volunteers can visit and the limited number of visits volunteers can make, it is not clear how often a given unit is visited. And there are many units and houses on Rikers Island.
+
+While it seems like the Board of Elections and the Department of Correction have been making an effort to work together to make the process more efficient — and they have been, I want to give credit where credit is due — clearly more needs to be done to ensure that every eligible voter on Rikers has the opportunity to register to vote, to get an absentee ballot if they want one, and to ensure their vote is actually counted. And I have to say, for those of us who have been working on this for a while, we feel the only way to do this is to have polling places.
+
+In addition to doing oversight, we will also be hearing two pieces of legislation. First, we will hear Int 0786-2026 sponsored by Chair Brooks-Powers, which would amend the procedures for and reporting on curing ballots, as I indicated earlier, for voters in correction custody. We will also be hearing Int 0797-2026 sponsored by Public Advocate Jumaane Williams, which would require reporting on voting in jails.
+
+I would like to thank the following Council staff for their work on this hearing. From the Government Operations Committee: Jiari Frasier, Erica Cohen and Sigma Hamid. And for my staff, I want to thank the very special Cynthia Hornik and everyone who made this hearing run smoothly. I would now like to turn it over to the indomitable Chair Brooks-Powers to give her opening statement.
+
+[**(00:18:25)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1105s)
+
+
+
+Thank you so much and good morning. I am CM Selvena N. Brooks-Powers, chair of the Committee on Criminal Justice. I want to thank Chair Brewer for co-chairing today's joint oversight hearing on voting on Rikers and thank everyone for being here. I am really excited about today's conversation. I have been talking to Chair Brewer about this for some time now. The right to vote is fundamental. In New York, individuals who are detained pre-trial or serving time for misdemeanor offenses remain eligible to vote. At Rikers Island, the vast majority of individuals are eligible to participate in our elections. Yet significant barriers continue to prevent many from exercising that right.
+
+Today's hearing will examine those barriers, including challenges related to voter registration, curing ballots, access to information, ballot delivery and return, and the coordination between the Department of Correction and Board of Elections. We will hear from the Department of Correction, the Board of Elections, advocates and the public about how the current system is working in practice, where it is falling short, and what steps can be taken to ensure that eligible voters in custody are able to participate in our democracy. We will also explore how other jurisdictions have approached voting in jails and what lessons may be applied here in New York City.
+
+We are also considering two pieces of legislation, as has been mentioned. Int 0786-2026, sponsored by myself, would require the Department of Correction to work with the Board of Elections to establish procedures for curing ballots and to report on outcomes related to ballot defects and rejections. Int 0797-2026, sponsored by the public advocate, would require annual reporting on voter registration and voting activities in city jails. Together, these bills aim to improve transparency and ensure that eligible voters in custody are not disenfranchised due to administrative barriers.
+
+Ensuring access to the ballot for eligible voters in our custody is not only a legal obligation, but also a matter of fairness and integrity in our democratic process. As a former advisor of the NAACP Jamaica Youth Branch, where I supported efforts to expand civic engagement and voter access, including for justice-impacted communities, I know how critical this work is. I look forward to a productive discussion on how we can strengthen access to voting, improve coordination across agencies, and ensure that every eligible New Yorker has the opportunity to make their voice heard.
+
+I would like to thank my staff and committee staff for their hard work: Chad Benjamin, policy analyst; Jeremy Whiteiman, senior counsel to the committee; Casey Liysky, financial analyst; Julian Martin, my deputy chief of staff; Kiara Powell, my communications director; and Renee Taylor, my chief of staff. I thank everyone again who is joining us today and look forward to a thoughtful and constructive discussion on voting on Rikers. Thank you, Chair.
+
+[**(00:21:57)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1317s)
+
+
+
+Thank you very much. I now turn it over to the public advocate to talk about his bill or anything else he would like to discuss.
+
+[**(00:22:05)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1325s)
+
+
+
+Thank you so much. I appreciate the opportunity to speak. Good morning. As we mentioned, my name is Jumaane Williams. I am the public advocate for the City of New York. I would like to thank Chairs Brewer and Brooks-Powers and the members of the committees holding this important hearing. There are close to 7,000 people who are detained on Rikers Island, most of whom, as mentioned, are actually eligible to vote. Though people who have been convicted of a felony cannot vote while incarcerated, most people on Rikers are being detained pre-trial or serving time for misdemeanor and therefore are eligible to cast a ballot. Despite this, unfortunately, only a fraction of the incarcerated population in the jails vote. As the majority of the Rikers population is Black and Brown, it is hard not to hear the echoes of Jim Crow in this effective disenfranchisement of thousands of potential voters. And even if it is not fully Jim Crow, if you have the right and you cannot exercise it, it is the same thing.
+
+The people detained on Rikers rely on volunteers who come into the jails to assist people in registering to vote and requesting absentee ballots. Even with assistance, registering to vote while incarcerated presents unique challenges. In what district does a person who has been locked up for months register? What address should they use? A person might lose their apartment as a result of being detained, for example. The high turnover rate of the jail population often means that a person misses deadlines ahead of election day. Additionally, with no access to the internet and limited social interaction with people who are not in their housing unit, people are generally deprived of information while incarcerated, which makes it more difficult to be engaged in elections. Distrust with the government also deters people from voting.
+
+Though volunteers can help people on Rikers register to vote, it is still the responsibility of the BOE and DOC to deliver the absentee ballots to the jail population and to count those completed ballots. This seems straightforward, but often is not. Advocates report that the BOE routinely rejects completed registration forms, absentee ballots and completed ballots from eligible incarcerated New Yorkers. In the outside world, a person whose ballot was rejected would be notified and they would have the opportunity to address any issues. The same is often not true for those on Rikers Island. In practice, only some of those who requested a ballot receive it, and only some of those ballots are counted, leaving only a small percentage of the eligible population actually able to vote. This would not be acceptable in the outside world and we should not accept it inside Rikers either.
+
+New York City can and should do more. There are other municipalities like Ulster County that send bipartisan election commissioners and election officials in person along with trained volunteers to their local jail to process registration forms, ballot applications and ballots themselves. DOC can remove barriers to voter registration volunteers entering the facilities by not making them wait hours to enter the jail or overly restricting what voter education materials they can bring in. What would truly address this lack of access is hosting a polling place on Rikers Island itself, where those detained there can vote in person without worrying about requesting an absentee ballot or having it rejected.
+
+Today we are hearing two pieces of legislation that will give us a better scope of the voting landscape inside Rikers Island. My bill, Int 0797-2026, will require the Department of Correction to report annually on voter registration inside city jails, including the number of completed voter registration forms disaggregated by facility and demographic information, as well as the number of absentee ballots distributed to incarcerated people. Int 0786-2026, introduced by Chair Brooks-Powers and of which I am also a sponsor, would require the DOC commissioner to collaborate with the BOE to create procedures for curing ballots for voters on Rikers, as well as assist people in their custody with obtaining new ballots as necessary. Additionally, it would require DOC to report on statistics over the last five years regarding curing ballots for voters in their custody, including how many ballots were not counted.
+
+Civil rights, including voting rights, are not optional. Just because a person is incarcerated does not mean they do not have a vested interest in their communities, including who represents them in government. Voting is one of a number of pro-social behaviors associated with reduced recidivism. So ensuring that our incarcerated people can exercise their constitutional rights to vote is a matter of public safety. I look forward to working with the Council and administration to ensure that everyone who is eligible is able to vote. We should be making sure that people are as connected as possible. We seem to sometimes do the opposite in terms of housing, employment and of course voting.
+
+And lastly, I will say there are a lot of names being thrown around. I have called folks at Rikers detained individuals or incarcerated individuals. Some people unfortunately still use the word inmates. What I would like to do is to talk about New Yorkers. New Yorkers who have the right to vote and who are not able to exercise it. What would we do for any group of New Yorkers who are in that situation? I think we know the answer. So let us apply that here. Thank you.
+
+[**(00:27:10)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1630s)
+
+
+
+Thank you very much. Now we would like to turn it over to committee counsel Jiari Frasier to administer the oath. I want to thank the Department of Correction for being here. The Board of Elections is on Zoom.
+
+[**(00:27:58)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1678s)
+
+
+
+I thought the oath was being administered to the Department of Correction at this time, but yes, of course.
+
+[**(00:28:04)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1684s)
+
+
+
+Okay. Thank you. Thank you. You are welcome.
+
+[**(00:28:13)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1693s)
+
+
+
+Good morning.
+
+[**(00:28:15)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=1695s)
+
+
+
+Chair Brooks-Powers and Chair Brewer and the members of the committees on Criminal Justice and Governmental Operations, State & Federal Legislation. My name is Nell Cologne and I serve as the deputy commissioner of programs and community partnerships for the New York City Department of Correction. I am joined today by Valerie Grayock, an assistant commissioner in the division of programs and community partnerships who oversees the department's civic engagement efforts and works closely with our partners in this area. I appreciate the opportunity to discuss our civic engagement work and our continued commitment to ensuring that all eligible individuals, or as public advocate Williams mentioned, New Yorkers who are in our care are able to exercise their right to vote. We believe deeply that access to the democratic process is an important part of civic participation and that eligible voters should be able to cast a ballot regardless of their circumstances and that every vote should be able to count. The department's role is to help make that access possible while respecting the legal framework that governs elections and the independent role of the board of elections. The department's work in this area is focused on facilitation. State election law governs most aspects of the voting process and the board maintains primary responsibility for election administration.
+
+Within that framework, the Department of Correction works to ensure that people who are in our care, who are eligible to vote, have access to information, registration opportunities, and the tools needed to request and submit absentee ballots. We do this through a combination of education and engagement, access to forms, and operational support.
+
+Education is a key part of our approach. The department provides nonpartisan voter education materials developed in partnership with the New York City Campaign Finance Board and DOC staff as well as external partners deliver civic engagement programming year round to individuals to help understand eligibility rules, election timelines, and how to access voting resources. Registration drives are conducted with external partners up to 16 times per year to assist individuals in understanding and completing necessary forms. This work is intended to ensure that people in our jails have the same basic information about the voting process that they would have access to in the community. Voter registration forms and absentee ballot applications are available through multiple avenues, including requests to staff, distribution during voter registration drives, and through tablets assigned to people in our care. Individuals may complete these materials independently and submit them directly to the board. Or they may request assistance from a DOC program staff, a partnering agency, or a volunteer. When individuals choose to submit materials through the department, program staff coordinate the collection and hand delivery of voter registration forms, absentee ballot applications, and completed ballots to the board to ensure timely processing.
+
+At the same time, we are careful to preserve the independence and the privacy of the voting process. The department does not influence voting decisions, does not monitor ballot choices, and does not interfere when individuals choose to handle their voting process independently. Partnerships are central to making this work effective. We are proud of our long-standing collaboration with the Legal Aid Society and the broader voting on Rikers working group, which for several years has brought together government and nonprofit partners to support voter education and registration efforts. We also partner closely with the New York City Campaign Finance Board to develop educational materials and provide staff training. More recently, the department entered into a partnership with Empower Assist Care Network, affectionately known as the EAC Network, to further expand voter education and registration outreach across facilities. Internally, we also work with health and hospitals, or correctional health services, and their re-entry team who help support individuals who request assistance with forms as part of a broader re-entry planning effort. These partnerships are critical because they help us ensure this work is robust. It is credible and grounded in best practices while also reinforcing that civic engagement work in correctional settings benefits from collaboration across agencies and with community-based organizations.
+
+With respect to the proposed legislation before the Council, the department shares the goal of supporting voting access and transparency. At the same time, we must be mindful of the operational realities of our role and the legal structure that governs elections. Regarding Int 0786-2026, which would require the department to facilitate ballot curing, the Department of Correction has concerns about the feasibility of implementing these requirements given our limited role in the election process. Under state law, the ballot curing process is administered directly by the board of elections which communicates directly with voters using their contact information provided by the voter. The Bill would appear to involve the Department of Correction in the administration of elections, something the department is not set up to do. The department does not receive notifications of ballot deficiencies and does not have access to the systems that
+
+[**(00:33:38)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2018s)
+
+
+
+would allow us to identify which ballots require curing. There are also operational challenges related to the fluid nature of the jail population. Individuals may enter and leave custody with little notice and the department does not always have reliable forwarding contact information. Creating a parallel process that depends on the DOC receiving and redistributing cure notices would impose substantial operational difficulties. The department remains committed to working with partners to support lawful and workable approaches to expanding access to voting and ensuring that all votes can be counted.
+
+Regarding Int 0797-2026, which would require annual reporting on voter registration and voting activity, DOC already produces regular reports related to agency-based voter registration and civic engagement activities and is committed to transparency in this area. We look forward to continuing to work with the Council to ensure any additional reporting requirements are aligned with the data the department is able to reliably collect within the scope of our facilitative role. By supporting civic engagement and voting access for eligible people who are in our care, we are supporting dignity and connection to community. That is a hallmark of putting people first. We look forward to continuing to work with our partners, including the Council, to strengthen these efforts while respecting the legal and operational boundaries of our role. Thank you for the opportunity to testify and we are happy to answer your questions.
+
+[**(00:35:06)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2106s)
+
+
+
+Thank you. First, we are going to hear from the board of elections on Zoom.
+
+[**(00:35:15)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2115s)
+
+
+
+Good morning.
+
+[**(00:35:17)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2117s)
+
+
+
+Good morning.
+
+[**(00:35:19)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2119s)
+
+
+
+Everyone can hear me? Okay.
+
+[**(00:35:21)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2121s)
+
+
+
+Yes. All right. Very good. Good morning, Chair Brooks-Powers, Chair Brewer, and the members of the committees. My name is Michael Ryan and I serve as the executive director of the board of elections in the City of New York. Thank you for the opportunity to testify today regarding voting access for eligible incarcerated individuals in New York City jails. I would like to emphasize the strong and long-standing partnership collectively forged between the board and the Council. The board greatly values this partnership and looks forward to continued collaboration with the New York City Department of Correction and various community partners. The board remains committed to ensuring that all eligible voters, including those in custody, have meaningful access to the voter franchise and are able to participate in the democratic process in full compliance with New York State election law. The board shares the goals of expanding access to voting while maintaining the integrity, security, and lawful administration of elections. Within the constitutional and statutory framework, it is the board's responsibility to administer elections in the City of New York. The Department of Correction plays a critical role in facilitating access and communication for individuals eligible to vote and temporarily in custody within its facilities.
+
+Voting in New York State is an individual right based on one's residence and voter registration, not their place of temporary confinement. As a result, individuals detained on Rikers Island remain registered in their home election districts and must vote accordingly. This is not merely a convenient interpretation. It is a critical safeguard to the integrity of elections, both for the individual voter and the elections process generally. It ensures that individuals only cast votes in elections and districts in which they are registered based on the address provided by the voter as their residence. This information is provided under the legal umbrella of an affidavit containing in part the following language. Affidavit: I swear or affirm that the above information is true. I understand that if it is not true, I can be convicted and fined up to $5,000 and/or jailed for up to four years. This affidavit is completed by the voter and affirmed with their signature.
+
+The method for voting provided for eligible individuals in custody is absentee voting, the same method used by all other voters who are unable to vote in person on election day or during early voting. The board works in close coordination with the Department of Correction to support these efforts. DOC facilities provide access to absentee ballot applications and the collection of completed materials while the board is responsible for processing all applications, issuing ballots and post-election ballot canvassing in accordance with state law. This partnership is essential to ensuring that eligible voters in custody have fair and meaningful access to the ballot. The board has engaged in ongoing collaboration with stakeholders including the Legal Aid Society and the broader voting in jails coalition to improve awareness, coordination, and access to voting resources. These efforts have strengthened the program and reflect a shared commitment across agencies and partners.
+
+To provide context on the current process, during the 2025 general election, 621 ballots were issued to incarcerated voters citywide. 335 ballots were received and counted. 247 ballots were issued but not returned. 23 ballots were returned as undeliverable. 14 ballots were deemed to be invalid but curable. One ballot was invalid and not curable and one ballot was received past the legal deadline. For the 14 curable ballots, cure notices were issued in accordance with state law. These ballots represent a relatively small percentage of those issued. However, the board works diligently to ensure that access to the voter franchise is provided to all voters. The cure process is administered directly by the board using the contact information provided by the voter and there are important legal and operational constraints that shape this work.
+
+The board is required to operate strictly within New York State election law, which governs voter eligibility, ballot access, and election procedures. Certain proposals, including those related to polling locations, the ballot curing process, or absentee voting requirements are limited by New York State law and would require legislative action at the state level. The board is not permitted to depart from statutory authority or substitute its independent judgment for the law. Elections do not occur in a vacuum. There are 57 additional counties outside the City of New York and the New York State election law combined with the rules and regulations promulgated by the New York State Board of Elections provides the framework ensuring county-to-county consistency and preserves the overall integrity of the elections process. It is essential that such framework be maintained as each voter has an individual right to expect that the election process will not vary based upon the particular county in which an election occurs.
+
+The board has consistently maintained that the only legally permissible manner to provide access to the voter franchise for those in custody is the absentee ballot process. The board has communicated this legal position to the Vote NYC Jails Coalition and the Legal Aid Society in various letters, most recently on April 16th, 2024. I have attached copies of the communications for the committee's reference. As the absentee ballot process remains the only legally permissible method to provide access to the voter franchise for those in custody, any evaluations or suggestions regarding operational considerations associated with administering traditional poll sites within a correctional complex are moot. I have attached 19 pages of canvassing guidance for county boards published and promulgated by the New York State Board of Elections that provides the framework in which we must conduct elections. Another challenge is that absentee ballot applications expire at the end of each calendar year under state law, requiring voters to reapply for subsequent elections. While the board recognizes that this can create hurdles, particularly in a custodial setting, it does not have the authority to modify this. Despite these constraints, the board remains committed to working collaboratively with the Department of Correction, the City Council and advocacy partners to strengthen the absentee voting process and improve access wherever feasible within the law.
+
+Continued coordination, clear communication, and shared understanding of roles are essential to ensuring both access and integrity of our elections. In closing, the board appreciates the Council's attention to this issue and looks forward to continued partnership in support of eligible voters in custody and is grateful for the opportunity to testify.
+
+[**(00:44:00)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2640s)
+
+
+
+Thank you very much. We have been joined by CM Cabán. I will ask a couple of questions and then we will turn it over to my colleague. So, just starting with the Department of Correction, no S. I keep telling people no S on correction. I can tell how long you have been here by whether or not you put an S on it. So, my question is, my understanding is that on a regular basis there are discussions between the two agencies as well as the vote in NYC jails group, twice a month maybe. So could you start at correction just talking about how often these calls take place? What gets discussed? Is it a working group that works? Are there any ideas that come out of it that could be implemented? How could we improve the process as a result of these discussions? You get the idea. We want to understand how this cooperation works and whether it is fruitful. Go ahead.
+
+[**(00:45:00)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2700s)
+
+
+
+Thank you so much. So just to begin, the voting on Rikers working group does convene on a monthly basis, that is 12 times a year. Part of this partnership is our connection to Legal Aid and some volunteers that are also a part of this working group who come boots on the ground to Department of Correction facilities 16 times a year to support registration efforts. On these calls, and I can even say recently, there are suggestions that we do take heed to. For example, our curriculum that was created in collaboration with the Campaign Finance Board recently received feedback on updates and edits that should go into that curriculum so that when we are providing education to people who are in our care, it is the most accurate and up-to-date information that we could possibly be giving. We are grateful and thankful to our partners on the working group who do provide these suggestions. I would just highlight that Assistant Commissioner Valerie Grayock joins these on a monthly basis. If you want to speak a little bit more to your experience...
+
+[**(00:46:04)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2764s)
+
+
+
+Good morning. Thank you for that question. Yes, those monthly conversations have been very fruitful and we have received feedback on the kinds of resources we can offer to individuals in our care, the curriculum which we recently updated and that we collaborated on initially in development and that we just recently updated, also the voter registration drives themselves, how we are communicating to people in custody about the upcoming drives and our overall engagement efforts. We have made significant improvements specifically based on the feedback from those conversations.
+
+[**(00:46:38)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2798s)
+
+
+
+And when you get this curriculum or ideas, how do you communicate it to those who are detained? In other words, it is good to have it on your computer, but how do you get it out so people know? It is hard enough to know what the voting process is when you are not at Rikers and it is even more challenging. So, how do you communicate it?
+
+[**(00:47:00)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2820s)
+
+
+
+There are a few methods of communication. Just to start with technology, because you mentioned computers: it is available on our tablets. So just to begin there, for those who have a tablet, they do have access to this material on the tablet. But when it comes to where I think the biggest driver of this information being provided to people is through person-to-person engagement, like in-person person-to-person conversations. So mentioning, or going back to those 16 voter registration drives that are critical, that canvas multiple facilities — although one facility is specifically targeted each event — there is person-to-person interaction that does go into the education materials and guides people on various aspects of voting.
+
+We have also trained all of our counseling team members, and so that is the critical component of how we do this as a departmental agency. We ensure on a quarterly basis that our counseling services unit facilitates and uses these materials to ensure that people are aware of the latest trends with voting, but also are just generally aware of access to vote and how to vote in a nonpartisan way.
+
+[**(00:48:08)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2888s)
+
+
+
+And I believe there are very few volunteers who come on a regular basis, like three or four. So my question is: are they able to go to all the different units? Do they only get to go to one unit? How do they get around? It is not like you are in one facility upstate. Not the prisons, but the jails and the counties might just be one. We have many more. So how does one travel from one unit to the other? How do you decide where they go? Because they do complain that they do not get to go to as many units as they would like.
+
+[**(00:48:40)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2920s)
+
+
+
+Thank you for that question. So for each of the voter registration drives, they do go to specifically one facility. Those facilities do rotate during every single drive, so it is not like they are going to the same facility every single month or every single voter registration drive. And when they are in that facility, they are only able to see a subset of housing units. They typically are not able to go to all housing units within that site.
+
+I think to recognize and mitigate that, because we realize that is a real challenge — if they are only going to a subset of housing units, then how do we get this information to everyone? — which is where, for our counseling services staff, we try to have them go to the large majority of all housing units, if not all housing units, on that quarterly basis to provide that information. And I think even in this notion of recognizing there still might be a gap, in 2026 we began to engage with the EAC network, who is going to be coming in twice a week and supporting the further rotation of housing units that may not have been touched on those voter registration drives, so that we have continuing engagement, continuing access in a person-to-person conversation for registration forms and then continuing education.
+
+[**(00:49:50)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=2990s)
+
+
+
+Okay. And you will track that. Having a new commissioner helps — a fabulous new commissioner. So how do you track... I know what the volunteers are doing, but how do you track what your program staff is doing to know that they are actually doing this? Because they have other jobs too.
+
+[**(00:50:04)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3004s)
+
+
+
+Yes. So we do have a programs data tracker. That data tracker is where we do enter in, for the counseling services unit, all of their programming efforts. That would be under our civic engagement curriculum, and we do track that information when they facilitate it. As for our partnership that we have recently started with the EAC network, that will also be tracked using our data tracking method so that we know who we engaged with. And just broadly speaking, when we are doing our voter registration drives or we are doing any collecting of voter registration forms or absentee ballot request forms, we do also track who we engaged with and who we gave forms to or received forms back from.
+
+[**(00:50:45)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3045s)
+
+
+
+Okay. Thank you. Mr. Ryan, my question is: according to the League of Women Voters, no one from the Board of Elections has attended — and the League of Women Voters goes to any of those meetings that I just described, those monthly meetings — since October 2025. Is that true? And if so, why did the Board of Elections stop attending?
+
+>> Perhaps, but starting in October 2025, we were preparing for a gubernatorial election. I do know this: our staff and our point person is in regular contact with the Department of Correction. So while we might not be attending a formal meeting from time to time, depending on the needs of attending to elections, we are in regular communication with the staff that is doing this work with the Department of Correction.
+
+>> Okay. But in the future, would you assign somebody to participate in these monthly meetings?
+
+>> Yes. As staff is available.
+
+>> But you have plenty of staff, sir. I am just saying... I hope... I will tell you, in the lead-up to elections, the elections is an all-hands-on-deck process and sometimes — not all the time, but sometimes — administrative meetings have to be set aside for the purposes of conducting an election. But certainly we have attended many of them and we are committed to the process.
+
+>> All right. Thank you very much. Can you help me again? You talked about the election last year and 621 ballots, 335 received, et cetera. In the very end, maybe some were cured — the 14. How many people out of the 621 who are housed at Rikers actually were able to vote? Maybe I missed it.
+
+>> 335.
+
+>> So they were actually able to vote, out of the 621?
+
+>> Those received and counted. Yes.
+
+>> Okay. So my question is, that is obviously... 621 is not a lot. 335 — if you are talking, I do not know, say 5,000 people, if you are giving the benefit of the doubt to the 20% or so who are not able to vote on Rikers — what do you suggest? I know you do not like the polling place. I like the polling place. I am going to talk about it. But what else do you suggest we can do to up the number when thousands are eligible? I understand all the problems. People leave, they go upstate, they do not know the process. But do you have some suggestions, in addition to what happens now, as to how we can get these numbers up?
+
+[**(00:53:36)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3216s)
+
+
+
+So just for a clarification, as a lawyer I like the law, and we believe that we are following the law. With respect to upping the numbers, just to give you some context: while there was only a 54% return rate on the absentee ballots, for example in 2025 in the general population there was only a 73% return rate for absentee ballots. So it is off the mark, but a lot of people do not return their ballots, whether they are held in custody or whether they are not.
+
+With respect to that, the distribution process on Rikers Island — I would defer to the Department of Correction to help us with information that identifies these voters, and we will process anything that we receive. When you consider that number of 5,000, while it is a lot, we received — for the general election last year, including us and including the Department of Correction — over 235,000 absentee ballot applications, and all were processed without issue. So an additional 3 to 5,000 is not going to be something that upsets the process from the Board of Elections side.
+
+[**(00:54:51)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3291s)
+
+
+
+No, we want more people to vote for sure. But do you send, from the Board of Elections, anybody to register or pre-register voters at Rikers?
+
+[**(00:55:00)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3300s)
+
+
+
+No. The City Charter — we rely on the requirements of the City Charter, which mandates the Department of Correction to do that.
+
+[**(00:55:08)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3308s)
+
+
+
+All right. So it is either volunteers or people from the Department of Correction. No S, right? I am just reminding everybody. No S.
+
+[**(00:55:15)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3315s)
+
+
+
+I work for the City and the State. The State has the S.
+
+[**(00:55:17)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3317s)
+
+
+
+I know. So I am just making sure there is no S on it. I am just neurotic about that. My final question is I am still focused on the polling place. So you have Cook County apparently, Washington DC apparently, Colorado apparently. I assume they have some technology that goes with the polling place because they have the same problem. Cook County is pretty big. They have people from different parts — south side, north side, whatever. Chicago apparently — I do not know for sure because I have not checked — has the opportunity to have people at a polling place. So my question is: do you think, maybe not today because we all want to be able to vote in different locations... I know that is a goal. But do you think there is the technology out there to be able to try to... "disengage" would be the word... so that people could know which district they are in? Is there some technology out there that is fairly close to making that possible?
+
+[**(00:56:17)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3377s)
+
+
+
+So just for starters, and I have to reiterate: New York State election law 8-400 sets out the process for absentee voting as the substitute for individuals who, for whatever reason, cannot get to the poll. So we have to follow that law right now as it sits, and that is the clear guidance that we have received from the State Board of Elections.
+
+[**(00:56:41)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3401s)
+
+
+
+Okay.
+
+[**(00:56:41)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3401s)
+
+
+
+But CM Brewer, one of the other challenges is we have to set the ballots up by election district and assembly district. So let us assume you are successful in...
+
+[**(00:56:58)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=3418s)
+
+
+
+Persuading your fellow legislators in the state to make an amendment to the election law that allows for that to occur for people who are incarcerated. When you have a fluid population like the population that is on Rikers Island, that is going to be a challenge to make sure that we have the right ballots at the location available for people to vote on. One that we quite frankly have not explored. But I can give you the assurances that if the law provides us with a directive, we will operationally work on that directive and make the changes necessary to accomplish a legal goal.
+
+Thank you very much, sir. I am like a dog with a bone. You know that. I turn it over to my colleague. Thank you, Chair, and thank you to both agencies for their testimony. I just want to reiterate to the Department of Correction in particular that we request all testimony to be submitted no less than 24 hours in advance. This is the second time I am publicly requesting that and would really appreciate your partnership on that.
+
+So going into logistics of the voting process, and this is going to be for the Department of Correction. It is our understanding that there is only a single individual responsible for ensuring that all the voter registration forms, absentee and early mail ballot request forms and absentee ballots are delivered to the board of elections. Is that correct?
+
+Thank you for the question. So in history, because I am saying this because in 2026 the landscape is changing, but historically yes we have had a single person identified. But I do just want to say that while this single person's role and responsibility is around civic engagement, they do not work in a vacuum. They work on a team, and so there is a team around them that includes an executive director, a deputy director, and they also work in partnership with our counseling services team that can be upwards of 60 staff at any given time. So I do want to say that while it is one person that has the primary responsibility and job function, there is a team that surrounds them.
+
+And I would say then for the landscape changing in 2026, in recognizing that having a single person responsible for some of this could be a challenge, and while not working in a vacuum on a team, there might still need to be more support. That really is where we went into a contractual partnership with a partnering agency because we recognize that there needs to be more people supporting the pickup and delivery of forms and having this be a sole responsibility or duty.
+
+Thank you for that. And how often does that main person deliver materials to the board of elections?
+
+Thank you for that question. I believe quite frankly that it depends, but that we have set up regular distribution or collection to the board of elections and I would just ask for my colleague Valerie Grace to give the definitive answer.
+
+Yes, we have a close partnership with the BOE to deliver voter registration forms. For example, after a voter registration drive, during the election, once we receive completed ballots, we deliver them to the BOE. So that process is ongoing.
+
+Okay. And so you would say during the election season, it is done a bit more often.
+
+Yes.
+
+Okay. Have they received any training from the board of elections, the campaign finance board, or the civic engagement commission on best practices for filling out voter registration forms, absentee or early mail ballot requests or absentee ballots?
+
+Yes. And I am also going to hand it over to my partner Valerie Grace to describe that in more detail. Yes, we have a strong partnership with the New York campaign finance board and they have provided training to our counseling staff and to our counseling supervisors. They just recently trained and provided updated training to the supervisors on best practices.
+
+How does the department learn about upcoming elections? We work very closely with the BOE and with our partners to make sure that we have all the up-to-date information and that information is made available to our staff as well as to the people in our care.
+
+Is someone responsible for keeping track of when the elections occur and is it done through collaboration with the board of elections? Are you depending primarily on BOE? Yes, we work very closely with the BOE and with our partners and part of the benefit of having these monthly calls is that we are able to always stay in communication and receive updates about any upcoming elections.
+
+And I would just emphasize that having the person with the sole responsibility of civic engagement, this is part of their role and duty, to make sure that we are on top of this as an agency.
+
+Thank you for that. How do you handle registering voters for special elections?
+
+Like the process in general?
+
+Yeah, because it has come up. I was elected in a special election, so I am curious how that is handled. It happens so quickly.
+
+Do you want to dive into the details for special elections?
+
+Yeah. So for any individual in custody who requested a ballot, the BOE will provide us with a ballot for that individual if there were to be a special election. Then we will follow up directly with that person to help them to complete it.
+
+And how do you ensure the correct voters apply and receive ballots for special elections that occur in districts that they vote within?
+
+So on the absentee ballot request form, they put their address and it is my understanding that is the address that the BOE would use to determine if that person should receive a ballot for the special election.
+
+So walk me through this a little bit. I will use myself as the case in point. The 31st Council District covers parts of Southeast Queens. I have a constituent that is housed on Rikers and it is noticed. How is the Department of Correction making that connection to that eligible voter to notify them that there is a special election happening?
+
+I think just to emphasize, part of our regular ongoing process is that people are completing both voter registration forms and are also completing, as mentioned, on an annual basis or as applicable the absentee ballot form request. So when that information or that address is then highlighted and notified to the board of elections, that is when we would become aware that there is a person that would be in that district. But then not to negate, I think there are absolutely times where we get information on a special election and then we are speaking to people about that through our education practices. So if we are doing our educational counseling sessions or programming sessions using our curriculum, we do speak about special elections and then we can highlight or emphasize if there is a special election that is currently occurring.
+
+But that is more general, right? So like if there is an actual election underway, because again the runway is so short. My election was February 19th and it was noticed in January. So that is a quick turnaround for a place like Rikers that has layers to it. So how, like, is there a system in place to make sure that they are being notified in a timely manner?
+
+It would be upon receipt of us being aware that someone would be in that district.
+
+So you would depend on the BOE to notify you?
+
+On the board of elections. Yes. Primarily to notify us that somebody would be in that district, and that is under the assumption that they would have had an absentee ballot form request having been submitted from Rikers Island. So I think to your point, it does get a bit tricky if there is somebody in our custody who did not submit an absentee ballot form request while they were in our custody that was then submitted to the board of elections. If that is what we are trying to get to...
+
+Can I just have one question? Technology, technology, technology. You come in, and I know we all know lots of people come into Rikers. We know them personally. Is there some way in 2026 their address could be coordinated with the AD and the ED literally so that if there is an election you would tell them? Is that something that, believe me, is possible? Is that something we could consider doing?
+
+We will absolutely look into it and I do think that technology...
+
+Two seconds.
+
+Yep. Technology is critical.
+
+Thank you.
+
+No, thank you for that. And in line with Chair Brewer, how are you all tracking individuals that have filled out the registration form or early mail or absentee ballot request forms? And do you feel the tracking is robust enough to ensure delivery to a person who has been moved from, for example, a different unit or facility?
+
+Yes. So what we know is who we have distributed voter registration forms to and who has given them back to us and therefore whom we have delivered them to the board of elections. So we are aware if we do receive a form from a person, a specific person, that is like an absentee ballot request form, and therefore if we then received the absentee ballot to give to them, we would be aware of who that person was for us to be able to then locate them and provide them with their absentee ballot form.
+
+Now, what steps do you take when a person requested an early mail or absentee ballot while in custody, but the ballot is distributed after the person has been released from custody?
+
+So it is our practice that if we receive an absentee ballot and somebody has been released, that we would mail that to the person.
+
+Okay. Pivoting to coordinating with volunteers. The Vote in NYC Jails Coalition comes to Rikers Island about twice a month to register voters and help incarcerated individuals fill out their absentee ballots. Volunteers have told us that they are only allowed to register voters in a facility selected by DOC officials. How do you decide which facility volunteers are allowed to register voters in? And I have a couple more questions. Can we just pause there?
+
+Yeah. So to our best extent, we rotate each of our facilities to make sure that there is equal access. So that would be on rotation. And at times there have been days where we are planning for a voter registration drive in a jail and end up pivoting to a different facility or site.
+
+And to that point, I have heard that at times the registration is happening at one facility at a time as a rotation, which to me is concerning because that means that there are several other facilities not getting the same access. And what is the rationale from DOC not allowing the registration to take place at each of the facilities? I know often DOC likes to limit the amount of visitors, but these are different facilities. So it is not like if five people are here and five people are there it is an overlap. So what is the rationale that two facilities, three facilities, all facilities cannot conduct the registration process at the same time on the same schedule?
+
+Yeah. I mean I do not think that the rationale is to try to limit the other facilities, but it is due to efficiency of resources quite frankly. So when we are bringing in volunteers, at times some people do come regularly to every single drive and then we do have folks for whom this is their first time coming into Rikers. When we are clearing them to come into our facility we do have a dedicated team that escorts them into the facility and brings them to the dedicated areas, and so that can be resource intensive to be doing at multiple sites at the exact same time. Not to say impossible, just to say resource intensive. And so to take heed of this suggestion, I do think it is something we can look into.
+
+I just want to say that Lisa Albert Kamu from France was visiting with us today. Merci. Okay. Thank you. Has the Vote in New York City Jails Coalition been allowed in every facility in Rikers?
+
+Let us confirm. Valerie, can you share?
+
+Okay.
+
+Yes, they have been going to all the facilities throughout the year.
+
+So they have been to every one.
+
+They have been to each one.
+
+They have been to all the facilities throughout the year.
+
+Thank you. How often are the volunteers allowed in each of the units at Rikers?
+
+So we do 16 drives a year and again I think that is where we have even acknowledged that 16 times a year rotating to one facility, which might mean that a facility gets a touch point twice a year if we are rotating, that there could be more. Which is why we have really intentionally wanted to dedicate resources to a twice-a-week model where we have a partnering agency coming in two times a week. But as it pertains to the working group and to volunteers, it is 16 times a year, which broadly speaking is like once a month, maybe twice a month during specific months.
+
+So before each election, has every unit in every facility been visited at least once?
+
+I think we can say pretty confidently that every unit has been visited by a DOC staff member, specifically a counseling services unit member, because of the quarterly educational drives that we do try to partner around the times of election cycles, when they are delivering that material. And so they would have received information on how to access registration forms and absentee ballot forms through that educational process. But as it pertains to ensuring that the volunteers and advocates can touch every single housing unit by November or by June, I think it would be hard for us to say that the volunteers have gone to every single housing unit.
+
+Thank you. We have been joined by CM Salaam. I am going to pivot to the board of elections, wanting to focus on innovations to increase voter participation. Advocates have repeatedly requested that the voters at Rikers be provided with greater access to the vote. These mechanisms have included a polling place at the facility and a program similar to that provided to nursing home residents. Can you explain how nursing home residents vote?
+
+Nursing home residents vote, again under the umbrella of New York State election law. There are thresholds based on the numbers of individuals that reside in a particular nursing home. The number is escaping me off the top of my head, but suffice to say that not all nursing homes get this particular service. We do it under New York State election law, but when they meet the threshold, we send bipartisan teams to the nursing home in coordination with whatever their executive staff is, usually an executive director. Then we provide the absentee materials to the individuals that are in the nursing home. They vote those materials. We collect them back and bring them back to our borough offices.
+
+What are the obstacles to implementing a program similar to the nursing home voting program for incarcerated individuals at Rikers?
+
+Well, one of the main practical considerations is, and I am going to put on my former mayor's office hat when I used to oversee the Department of Correction, the disparate number of facilities. And you will not know, with the exception of say the facility that houses juveniles or the facility that houses females, which is one and one, the other ones all could be spread out all over the island. And then that would be substantial coordination with the Department of Correction to be able to make sure that if this responsibility is going to be taken on by these two agencies, that we can do it responsibly and that we can do it ensuring that the voters get their ballots.
+
+Now, when we transition fully to the borough-based jails, considering it will still be spread out and there will be multiple facilities, but you will have four boroughs particularly that will house individuals in custody. Do you think that that would address some of the concerns that you have in that way?
+
+Well, certainly. I am very familiar with the location that was chosen in downtown Brooklyn because it used to be the Brooklyn House, was then razed and now is being built as a new jail. In a high-rise jail facility where all of the persons in custody are in one place, that certainly would be an automatic streamlining of process and then we would have to work something out with the Department of Correction to make sure that we could have access. It is a conversation certainly worth having.
+
+But can I also add that one of the ways that we streamlined the process was it came to our attention several years ago that the staff, the DOC staff that was working on this, would individually go to all of the five borough offices to pick up the voting materials. What we have done in partnership with DOC is we have everything sent to the Queens location presently, since the work is occurring on Rikers Island and the DOC staff was in Queens. So there has been some streamlining that was done, but we are certainly open to conversations about what further streamlining we can do in order to make sure this process works more effectively.
+
+Thank you. I am going to yield on my questions and I have a round to the Chair.
+
+Absolutely. So first we are going to hear from CM Morano, CM Narcisse and CM Cabán. I know Cabán has to leave but these other folks were here first.
+
+Go ahead.
+
+Thank you, Chairs. Absolutely. I will begin with correction and if there is time for the board of elections as well. Just to drill down on feasibility, which I know both chairs asked you a bit about. You testified that you do not receive ballot deficiency notices and do not have system access. So how exactly are you supposed to implement ballot curing under this Bill, Int 0786-2026?
+
+Well, I think that kind of as a response to that, since ballot curing does align with the board of elections and their process and state law, in order for us to implement this legislation around curing, we would need to have further conversations with the law department. There would need to be state legislative changes as mentioned by the board of elections, and to really identify our legal boundaries as a department.
+
+How many people in DOC custody actually voted in the last election? Not registered, not eligible, but actually voted.
+
+That would be a question for the board of elections.
+
+I will come back to them in a second. Then you say you do not interfere with the ballots, but you collect and deliver them. What are the safeguards to ensure integrity in that process?
+
+Thank you. Well, I think first and foremost it is ensuring that our staff are trained on the process and are trained on ensuring that people have privacy and are making independent choices that are nonpartisan. So any communication that we would be having is literally to deliver and also to then indicate or try to reduce any challenges like signing an envelope that would result in something needing to be cured, but would have nothing to do with the actual filling out of the ballot.
+
+Given the fluid population and unreliable contact information, which is just par for the course, is it not likely that many ballots might simply fall through the cracks?
+
+That would be hard for us to speculate, but I think with a fluid population it would be hard for us to give a definitive answer on that.
+
+Sure. In terms of the education and access process, you mentioned 16 registration drives per year and educational materials. You have described inputs, education, forms, outreach. In terms of the conversion rate from registration to actual ballots cast, can you speak to that?
+
+Yeah, so typically we see registration numbers to be higher, and this is what we would know based on what somebody is handing back to us. And I would just like to also address, or say formally, people do have the autonomy to be able to mail this in directly. But what we have, and I do not have a conversion rate for you directly, we could get back to you on that, is that typically there are higher numbers of voter registration than there are people actually asking for an absentee ballot form.
+
+Great. And I will spend my last minute or two on Mr. Ryan. Mr. Ryan, if the Council wants to get this right, what is the most important thing we should do to support the board of elections in making this system actually work?
+
+Well, with respect to Int 0786-2026, and since we do not have any involvement in Int 0797-2026, the most effective way is to submit a resolution to the state legislature so that the state can incorporate this into the statutory framework so that we would have the legal authority to implement any changes with respect to if the law...
+
+[**(01:20:29)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=4829s)
+
+
+
+Does not change. What we could do is what we have been discussing, which is enhanced communication with the Board of Elections and the Department of Correction. I do not necessarily think that there is legislative action that is necessary to do that. I think that that can be reported back in these oversight hearings and we should be held to the test that our deeds match our words and that we are working to improve the process.
+
+>> So would you agree here that the goal should be not just access to a ballot but a realistic opportunity for that ballot to be counted?
+
+>> Yes. And I think in light of your question earlier to DOC, there were 621 ballots requested and 335 were returned and counted. So while that represents a 54% margin, in the general election with the general population that margin was 73%. So there is always going to be a drop off between the number that are requested and the number that are actually voted. For whatever reason, people do request absentee ballots and do not always return them. I will say that the return rate has spiked somewhat after the state legislature passed the early mail ballot legislation because you no longer had to have an absolute excuse for not voting. You can apply for an early mail ballot and that seems to be new people coming into that process. Of course, those incarcerated on Rikers Island would have been eligible either way.
+
+>> Thank you.
+
+>> Thank you very much, CM Narcisse. And then Cabán...
+
+>> I yield to my colleague Cabán since she has to go.
+
+>> You are too nice.
+
+>> That is so nice.
+
+>> It is because we match today, right?
+
+>> I am a nurse. I love that we got the pink going. Good morning.
+
+>> Good morning.
+
+>> I just want to ask a couple of data questions before I dig into some of my other questions. We are looking at a current census that is above 6,000, right?
+
+>> Yes, our census is about 6,700.
+
+>> Okay. And then out of that number, how many are eligible to vote? The vast majority are eligible to vote because either you have to be on some sort of supervision or on post — you would not be on Rikers. The vast majority of people are eligible to vote. Correct.
+
+>> Yeah, we do not have the exact number for who is eligible to vote.
+
+>> But would you say that it is the vast majority?
+
+>> We could speculate that it could be the vast majority. And then from the BOE numbers, we saw that around 600 requested and around 300 returned ballots.
+
+>> Correct.
+
+>> Yeah.
+
+>> We are just going to say yes, that is that. I just want to get on the record that there is a large population here that is eligible to vote that is not even requesting a ballot. I know that you all know this, but I was a former defender. One of the things that I did before allocating my client was to remind them that they retain their right to vote in the vast majority of cases because our clients do not know that. And so I think that there is a lot of room for improvement. This is something that the coalition has been working towards for years and years and we have not seen as much improvement as we would like. And so I think that is the basis for legislation here to really pick up those numbers.
+
+Given that opened absentee ballots are not counted by the BOE, does DOC have a specific policy regarding opening mail that is labeled as an absentee ballot?
+
+>> We would not be opening their mail, but when we do these drives and if we do receive a ballot that would be specific to go to somebody, we would forward it to the mailing address that we are aware of.
+
+>> Okay. And how many days on average does it take for mail that has been delivered to Rikers to reach the intended recipient, if the person is still in custody and has requested that ballot?
+
+>> So we work closely with the Board of Elections and it is actually a hand delivery process where we would be picking up those forms on a designated and agreed upon date and then distributing them right after. And then as we receive them back we would be bringing them back to the Board of Elections. So it is literally hand to hand.
+
+>> So would you say it happens — I just want to get more specifics on the record. You are saying that it gets picked up at the BOE and then given out by hand, but does that happen the same day? What is the amount of time in between it getting picked up and it making it to the person who has requested the ballot?
+
+>> It could really vary. It could be the same day. It could be within that week.
+
+>> Okay. I would love to figure out how we — I mean the difference of a week is maybe the difference of somebody then going out and then you do not have an updated address. We know what happens when somebody is discharged from Rikers. And if they are being picked up by hand, I imagine there is the ability to get them in the hands at least in the next 24 to 48 hours so that you are not missing folks, because unfortunately there are a lot of folks that are eligible to vote that come in and out with these super short sentences, whether it is 7 days, 14 days, 30-day sentences, and you could miss them entirely. And then these are people that are usually housing precarious. You cannot find them and then they miss the chance to vote. So I would love if you could follow up with us on what can be done to make that more quick and efficient.
+
+And actually that was my next question — if there is a policy in place to expedite the delivery. I know that it is done by hand, but is this the same process for court immigration related notices?
+
+>> To be quite frank I would have no idea. I do not oversee that.
+
+>> Okay. I would love to get an answer on that. I know you were not prepared for that question, so I understand. What type of oversight and record maintenance is conducted with regards to the names and numbers of voters registered and absentee ballots collected and returned by DOC?
+
+>> I am sorry, can you repeat that question?
+
+>> Sure. What type of oversight and record maintenance is conducted with regards to the names and numbers of voters registered and absentee ballots collected and then returned by DOC?
+
+>> So every person that we do engage with, that we are giving them a form or receiving one back, we do maintain their information in our own data tracking system so that we are aware of who we are actually interacting with and engaging with, and can therefore expect to deliver back ideally an absentee ballot to them. So we do manage that. But I would like to just say — you said oversight — there is an annual report required of all city agencies and we do comply and submit that on an annual basis.
+
+>> Okay. Thank you. Thank you, Chair.
+
+>> CM Narcisse.
+
+>> Thank you, Chairs, and thank you, Deputy Commissioner, and of course the panel that is here. My questions — some of them may repeat questions that have been asked, but we have to have a clear understanding. If I may say, there is a percentage of folks on Rikers that do not have tablets, that do not have access to tablets. How many of those — because we can understand there is a gap in getting access to what they deserve.
+
+>> Yeah. So if we are talking about tablet operations and tablet distribution, we do have a portion of our population — of the eligible population we typically hover, and I do not have the exact number for today, but it is typically between 80% and 90% of people who are eligible for a tablet that have received a tablet. Now, there are some variables to that. If someone broke their tablet, they may no longer have that tablet in their possession, but they have been afforded a tablet. There are some additional variables when I say the word eligible. Typically what we are talking about is somebody who has transitioned out of new admission housing and has been here for over 30 days and is now in general population housing. So there are a few thousand active tablet users. Again, 80 to 90% of people who have been here over 30 days have a tablet or have been distributed one, but that does not always mean they have it in their possession.
+
+>> Okay.
+
+>> And if I may just add, for someone who might not have a tablet, they could still request a form through a staff member, through a counseling member. They can pick it up in a program area like a law library. So people have different ways to register to vote.
+
+>> Thank you. So we have some that do not have access. Okay. Statistics show that there is a 63% absentee ballot completion rate citywide. Advocates report roughly about 20% in DOC facilities. Can the administration explain where the gap is coming from and what is being done right now to correct the gap?
+
+>> Yeah, I mean I think it would be hard to speculate on the exact gap of why somebody may not be interested in registering to vote or interested in getting an absentee ballot. But I think in our own reflection on this and where we know that we can improve is making sure that we are increasing access. And so again, that is like taking our own reflection point and saying, is 16 drives with volunteers and the Legal Aid Society and partnering with DOC enough, or does there need to be more? So I think in our own acknowledgement that we need to increase our efforts around education and access to have that interactive voter experience — that experience that is a person-to-person conversation — this is why we have started to partner with a partnering organization to make sure that we have consistent weekly conversations with people in custody across multiple facility sites, again much more regularly than 16 times a year.
+
+The reason I am asking this question too is because I cannot imagine someone like Nelson Mandela did not have access to vote while he was in custody. So how are mistakes or lost ballots reported internally at DOC and who is responsible for following up?
+
+>> I am sorry, you said...
+
+>> If a ballot — how are mistakes, like there is a mistake on the ballot, or a lost ballot reported internally at DOC?
+
+>> So the curing process is really by state law and by design through the Board of Elections and DOC is not aware...
+
+>> So if it is lost, let us say somebody has a problem with the ballot. So immediately you have to call the Board of Elections, or what do you...
+
+>> Yeah. If there was a ballot that something occurred when it went to the Board of Elections, that there was a mistake on it, and that goes into the curing process, we would not be readily aware of that information. That is in the purview of the Board of Elections as per state law for curing.
+
+>> Okay. Have there been instances where DOC staff delayed — so let me understand, DOC does not get involved at all in the ballot, or do you get involved?
+
+>> Our role — we have called it facilitation. Our role is making sure that people have access as requested, to facilitate the access to the ballot, and then facilitate, if it is returned back to the department, that we then bring it physically to the Board of Elections.
+
+>> Got it. So now have there been instances where DOC staff delayed ballot delivery, and how were those handled? Is the delivery timeline tracked?
+
+>> So when we receive a ballot, we are making sure that we are delivering it in the timeline prescribed and as defined to us by the Board of Elections. So they would give us a defined date that we would have to return the ballots back and since we are hand delivering those ballots we would be bringing them to the Board of Elections by that date.
+
+>> Since my time is up, thank you for your time.
+
+>> Thank you very much. Mr. Ryan, what are the most common reasons that ballots from Rikers are not counted? Are there certain rejections that are common and how can we address them?
+
+>> So we have provided a laminated card which gives instructions on how to fill out the absentee ballot form. Typically the most common one is the missing signature. So much in the same way that the signature provides access to the ballot for voter registration purposes, the signature is what tells us legally that you voted this ballot and you want it to count under your registration. So if there is a missing signature, we have to reject that and request a cure. So the bad news is that some ballots get rejected. The good news is that the New York State Legislature has implemented a cure process and people take advantage of it, including those who are currently housed on Rikers Island, to fix a mistake that was on the absentee ballot envelope.
+
+>> Thank you. That is very helpful. Now, do you think that — obviously we have a June primary, maybe some specials in between, I do not know, and then obviously November — do you think within some of those windows that the Board of Elections could send some staff to Rikers to supplement both what correction is doing and the volunteers, at least to see what is going on and to see how they could improve it?
+
+>> Chair, I can commit to you that we will take a hard look at that process, communicate with the Department of Correction and come back to you with an initial assessment.
+
+>> Thank you very much, sir. That means yes. I know you... The other thing I want to say is regarding the computers at the facility. I know you said everybody — I know, I have been there, I have seen all the wonderful iPads — but you get internet issues sometimes. Even those of us who look at a ballot, and I certainly know them pretty well, I do not know half of the people I am voting for, I am going to be honest with you. Judges, et cetera, it is all there — ballot initiatives. It is complicated and if you are not plugged in, people ask me what is on the ballot. So it is one thing to register, but then you get nervous, maybe you are not doing the right thing, et cetera. So what is the curriculum? People might even, with more education and push, say, "How do I register on my iPad if the internet is working, if the iPad is working?" So what, in addition to having volunteers and staff doing this, do we do to make sure the iPad can register people and then explain why it is important to do so? And then of course once you get the ballot, somebody has to explain to you what is on it.
+
+>> It is a lot. It is not a one-step process.
+
+>> So on the tablet, people are able to request to receive an absentee ballot form or a voter registration form. The curriculum that is facilitated by our counseling team goes over why it is important to vote, what voting looks like in New York City, what voting looks like on Rikers. Also in partnership with the New York City Campaign Finance Board, we obtain voter education guides which are available on the tablet and also in program spaces like the law library. So those voter education guides really show who is on the ballot and provide that information to people in our care.
+
+>> Okay. I am glad they read it because people in my neighborhood do not read it. So I am glad that folks on Rikers do. I wanted one more question for the Board of Elections and then I will turn it over to my co-chair. Can you explain again the legal and logistical issues that you feel are a challenge with putting a polling place at Rikers Island? Can you be specific?
+
+>> Yes. And I provided the committee with a series of letters that have gone back and forth on it. Just keep in mind that there have been some changes to the election law since 2024, most notably the early mail ballot which expands opportunities and the process, as well as if you request an absentee ballot you cannot vote on a machine, which does not apply to this population. In any event, in a series of conversations with the state Board of Elections, it is the considered legal opinion of both the city board and the state Board of Elections that the absentee ballot process is presently the only legal mechanism available for individuals to vote who will not be present within their home district on election day, including overseas, military, others that request it and people who are presently detained on Rikers Island.
+
+>> That is clear. Thank you. CM Wong has joined us and I will turn it back over to my co-chair for more second round questions.
+
+>> Thank you. Going back to the Board of Elections, just wanting to pick up where we left off. Has the Board of Elections compared voting participation rates on Rikers to other jurisdictions with jail-based voting to identify best practices?
+
+>> No, we have not. We do not have access to the rolling data that is associated with the Rikers Island population. So if you went strictly off of raw numbers of people who were eligible to vote who were at some point during a calendar year on Rikers Island, that would not give you a clear picture. What you would ultimately get is a snapshot of who is there in a moment in time. Having attended at one time in my life the population control meetings every Friday at the Department of Correction for three years, that population changes every day. So if you have 500 people, but if there are 500 different people, well then that creates a tracking problem. I do not have any good answers on how that could be tracked. I am certain we could have a conversation with the Department of Correction to see if they have any ideas, but I think the fluidity of the Rikers Island population presents tracking challenges for sure.
+
+>> I would love to work with you as well as the Department of Correction, and Chair Brewer of course, to look at some of that raw data. Because even if we took that snapshot, to be able to compare and see — well, in this moment in time these different facilities had this amount of people in custody that were registered to vote and that requested a ballot — it would kind of give some level of perspective in terms of what will give you a greater sense of participation versus not. And while the sample size may be small, it still could maybe give us a little context. But thank you for sharing your thoughts on it.
+
+Last question: has the BOE ever had discussions even with other jurisdictions that have implemented polling places within a jail? Have you even had a conversation on this?
+
+>> So the answer to that question is no. As the law remains the way that we believe it remains and has been directed to us by the state Board of Elections, we do not believe it is a conversation to have until we have enabling legislation.
+
+>> Thank you for that. Chair, I would say that is the end of my questions. But what I did take from today's conversation is we have a voting community that has for quite some time actually not necessarily been prioritized as the general public that is not in custody in terms of being able to access or exercise rather their right to vote. And so I think there is a lot of opportunity that exists here that we can collaborate on legislatively with our state colleagues as well as the Board of Elections and the Department of Correction. I look forward to engaging with everyone around us. Thank you.
+
+>> CM Salaam, you have questions.
+
+>> Yes. Thank you. Just get right to it. So to the Board of Elections — in the June 2024 primary, only 72 of the 364 ballot requests from Rikers Island resulted in counted votes. How many of those rejected ballots had curable defects? And how many of those curable defects were successfully cured by voters still in DOC custody in 2024?
+
+>> I do not have that information before me presently. I am certain it is accessible from our system and I will provide the same to you after this hearing concludes.
+
+>> I appreciate that.
+
+>> Sure.
+
+>> To the DOC — under the Bill's seven business day return requirement for cure affirmations, what operational challenges, staffing additions or transportation adjustments would be necessary beyond the current once weekly courier trip to the Board of Queens office?
+
+>> This is associated with the curing legislation?
+
+>> I believe so.
+
+>> I think really where it needs to start for us, and just to kind of emphasize from our point of view, is that curing is part of the state law requirements of the Board of Elections. And so we really would need to have further conversations with the Council and with the law department and with the Board of Elections to see what those challenges would be. Also, the department currently relies on the Vote in NYC Jails Coalition and other volunteers for the most direct voter registration work and selects which facilities are visited. How...
+
+[**(01:43:32)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6212s)
+
+
+
+How frequently is each housing unit on Rikers Island visited for voter registration in a calendar year, and what criteria determine facility selection?
+
+[**(01:43:41)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6221s)
+
+
+
+>> Thank you so much for that question. Our goal and intention is that if we are affording 16 voter registration drives a year, that means that every facility gets visited. But through those voter registration drives in and of itself alone, that would mean each facility gets visited about twice a year from those volunteers and from the Voting on Rikers working group. And then it is our responsibility as a department and as an agency to make sure that any housing unit that was not visited during those voter registration drives is given equal access to voter registration forms and is given equal access to voter registration education as well.
+
+[**(01:44:18)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6258s)
+
+
+
+>> Thank you. The Bill requires disaggregation by race, age, gender, gender identity, sexual orientation, disability status and veteran status. Does the department currently collect each of those data points in a form comparable to voter registration tracking? And if not, what systems changes would be needed by the January 31st, 2027 reporting deadline?
+
+[**(01:44:47)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6287s)
+
+
+
+>> Thank you so much. I just want to highlight that transparency is really a cornerstone of this administration being led under Commissioner Richards. Some of that data I would have to get back on, regarding every single aspect of the data, to see how we are gathering it. Because when we are collecting forms back, we are not necessarily collecting demographics in that fashion. But the department would like to work with the Council to see how we can identify and provide this information, as applicable, associated with voter registration and absentee ballot access.
+
+[**(01:45:22)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6322s)
+
+
+
+>> Thank you. Thank you.
+
+[**(01:45:26)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6326s)
+
+
+
+>> Thank you very much. You are all free to go, but we appreciate very much your testimony. Do not think this is the end of this conversation. I want to say the same thing as my colleague: we are very serious about getting 5,000 people, whatever the number is, eligible to vote at Rikers Island. Thank you very much. Thank you. Thank you, Mike Ryan, also.
+
+[**(01:45:47)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6347s)
+
+
+
+>> Thank you very much.
+
+[**(01:45:48)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6348s)
+
+
+
+>> Thank you.
+
+[**(01:45:49)**](https://www.youtube.com/watch?v=8uJnF1JUBAM&t=6349s)
+
+
+
+>> Have a good day, all.
