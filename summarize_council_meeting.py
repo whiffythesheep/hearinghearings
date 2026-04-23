@@ -274,6 +274,12 @@ def format_duration(duration_s):
         return f"{hours}hrs {minutes}m"
 
 
+def slugify(text):
+    """Convert text to a URL-friendly slug."""
+    s = re.sub(r"[^\w\s-]", "", text.lower())
+    return re.sub(r"[-\s]+", "-", s).strip("-")
+
+
 def ms_to_timestamp(ms):
     """Convert milliseconds to HH:MM:SS."""
     s = ms // 1000
@@ -1240,7 +1246,8 @@ def align_agenda_items(utterances, agenda_text):
     return aligned
 
 
-def build_web_content(summary, utterances, agenda_text, title, slug, date_str,
+def build_web_content(summary, utterances, agenda_text, title, committee,
+                      committee_slug_val, slug, date_str,
                       youtube_url="", duration="", council_url=""):
     """Build a markdown file with YAML front matter for the website."""
     # Summary section
@@ -1264,6 +1271,8 @@ def build_web_content(summary, utterances, agenda_text, title, slug, date_str,
 
     lines = [
         "---",
+        f'committee: "{committee}"',
+        f"committee_slug: {committee_slug_val}",
         f'title: "{title}"',
         f"date: {date_str}",
         f"slug: {slug}",
@@ -1517,9 +1526,10 @@ def send_subscriber_email(web_content, slug, title):
 
 <!-- Hearing header -->
 <tr><td style="padding: 24px 24px 0 24px; background-color: #fbfaf6;" bgcolor="#fbfaf6">
+  {f'<p style="font-family: IBM Plex Mono, Consolas, monospace; font-size: 12px; font-weight: 600; letter-spacing: 0.04em; color: #5a574f; margin: 0 0 6px 0;">{html_mod.escape(fields.get("committee", ""))}</p>' if fields.get("committee") else ''}
   <h1 style="font-family: Inter, Arial, sans-serif; font-size: 22px; font-weight: 700;
              line-height: 1.22; letter-spacing: -0.012em; color: #15171a; margin: 0 0 10px 0;">
-    {html_mod.escape(title)}</h1>
+    {html_mod.escape(fields.get("title", title))}</h1>
   <div style="font-family: 'IBM Plex Mono', Consolas, monospace; font-size: 12px;
               text-transform: uppercase; letter-spacing: 0.08em; color: #5a574f;">
     {meta_html}
@@ -1610,11 +1620,14 @@ def send_subscriber_email(web_content, slug, title):
     logger.info(f"Subscriber email sent for: {title}")
 
 
-def publish_to_website(web_content, slug, title, deploy=True, send_email=True):
+def publish_to_website(web_content, slug, title, committee="",
+                       deploy=True, send_email=True):
     """Save markdown to the website content dir, build the site, and push."""
     if not WEBSITE_CONTENT_DIR.exists():
         logger.error(f"Website content directory not found: {WEBSITE_CONTENT_DIR}")
         sys.exit(1)
+
+    combined_title = f"{committee}, {title}" if committee else title
 
     web_path = WEBSITE_CONTENT_DIR / f"{slug}.md"
     with open(web_path, "w", encoding="utf-8") as f:
@@ -1641,7 +1654,7 @@ def publish_to_website(web_content, slug, title, deploy=True, send_email=True):
 
     # Git add, commit, push
     logger.info("Committing and pushing to deploy...")
-    commit_msg = f"Add summary: {title}"
+    commit_msg = f"Add summary: {combined_title}"
     subprocess.run(["git", "add", "-A"], cwd=str(repo_dir), check=True)
     result = subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(repo_dir),
                             capture_output=True, text=True)
@@ -1655,7 +1668,7 @@ def publish_to_website(web_content, slug, title, deploy=True, send_email=True):
     logger.info(f"Pushed to remote. Cloudflare will deploy shortly.")
 
     if send_email:
-        send_subscriber_email(web_content, slug, title)
+        send_subscriber_email(web_content, slug, combined_title)
 
 
 def main():
@@ -1877,32 +1890,37 @@ def main():
             transcript_lines.append("")
             transcript_lines.append(u["text"])
         web_content = header + marker + "\n\n" + "\n\n".join(transcript_lines)
-        title = slug  # For logging only
+        title_match = re.search(r'^title:\s*"([^"]*)"', header, re.MULTILINE)
+        title = title_match.group(1) if title_match else slug
+        committee_match = re.search(r'^committee:\s*"([^"]*)"', header, re.MULTILINE)
+        committee = committee_match.group(1) if committee_match else ""
         logger.info("Skipping summary generation, reusing existing page.")
     else:
         # Generate summary.
         summary = generate_summary(utterances, agenda_text)
 
-        if args.title and committee_name:
-            title = f"{committee_name}, {args.title}"
-        elif args.title:
+        committee = committee_name or ""
+        committee_slug_val = slugify(committee) if committee else ""
+
+        if args.title:
             title = args.title
         else:
             title = video_info.get("title", "council_meeting")
             title = clean_youtube_title(title)
 
-        slug = re.sub(r"[^\w\s-]", "", title.lower())
-        slug = re.sub(r"[-\s]+", "-", slug).strip("-")
+        combined_for_slug = f"{committee}, {title}" if committee else title
+        slug = slugify(combined_for_slug)
         date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
         youtube_url = args.youtube_url or ""
         duration = format_duration(video_info.get("duration", 0))
 
         web_content = build_web_content(
-            summary, utterances, agenda_text, title, slug, date_str, youtube_url,
+            summary, utterances, agenda_text, title, committee,
+            committee_slug_val, slug, date_str, youtube_url,
             duration, council_url=args.council_url or ""
         )
-    publish_to_website(web_content, slug, title, deploy=not args.no_deploy,
-                       send_email=not args.no_email)
+    publish_to_website(web_content, slug, title, committee=committee,
+                       deploy=not args.no_deploy, send_email=not args.no_email)
 
     logger.info("Done!")
 

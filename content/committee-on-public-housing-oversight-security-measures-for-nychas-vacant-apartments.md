@@ -1,5 +1,7 @@
 ---
-title: "Committee on Public Housing, Oversight - Security Measures for NYCHA’s Vacant Apartments"
+committee: "Committee on Public Housing"
+committee_slug: committee-on-public-housing
+title: "Oversight - Security Measures for NYCHA’s Vacant Apartments"
 date: 2026-04-10
 slug: committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments
 duration: "3hrs 48m"

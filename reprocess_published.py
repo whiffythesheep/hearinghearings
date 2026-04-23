@@ -85,17 +85,9 @@ def drop_stale_cache_keys(json_path):
         logger.info("  No stale cache keys to drop.")
 
 
-def derive_user_title(full_title):
-    """Strip the leading committee name from a published page title.
-
-    Page titles are constructed as "{committee_name}, {user_title}". The
-    summarizer rebuilds the same shape from --title + the committee name
-    extracted from the agenda PDF, so we just need the part after the
-    first ", ".
-    """
-    if ", " in full_title:
-        return full_title.split(", ", 1)[1]
-    return full_title
+def derive_user_title(page_fields):
+    """Return the meeting topic from page front matter."""
+    return page_fields.get("title", "")
 
 
 def reprocess_meeting(slug, page_fields, dry_run=False):
@@ -127,7 +119,7 @@ def reprocess_meeting(slug, page_fields, dry_run=False):
         return False
     logger.info(f"  Agenda: {agenda_path.name}")
 
-    user_title = derive_user_title(title)
+    user_title = derive_user_title(page_fields)
     logger.info(f"  Title arg: {user_title!r}")
 
     if dry_run:
@@ -167,7 +159,15 @@ def reprocess_meeting(slug, page_fields, dry_run=False):
                 f"  Slug drift: summarizer wrote {new_name}, expected {slug}.md"
             )
             content = new_path.read_text(encoding="utf-8")
-            # Rewrite title and slug to match the original page
+            # Rewrite fields to match the original page
+            orig_committee = page_fields.get("committee", "")
+            orig_committee_slug = page_fields.get("committee_slug", "")
+            content = re.sub(
+                r'^committee:\s*".*?"', f'committee: "{orig_committee}"', content, count=1, flags=re.MULTILINE
+            )
+            content = re.sub(
+                r'^committee_slug:\s*\S+', f'committee_slug: {orig_committee_slug}', content, count=1, flags=re.MULTILINE
+            )
             content = re.sub(
                 r'^title:\s*".*?"', f'title: "{title}"', content, count=1, flags=re.MULTILINE
             )

@@ -1,5 +1,7 @@
 ---
-title: "Committee on Immigration, FY27 Preliminary Budget Hearing"
+committee: "Committee on Immigration"
+committee_slug: committee-on-immigration
+title: "FY27 Preliminary Budget Hearing"
 date: 2026-03-25
 slug: committee-on-immigration-fy27-preliminary-budget-hearing
 duration: "5hrs 33m"

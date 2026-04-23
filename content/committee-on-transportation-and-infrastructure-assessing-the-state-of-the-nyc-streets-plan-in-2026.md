@@ -1,5 +1,7 @@
 ---
-title: "Committee on Transportation and Infrastructure, Assessing the State of the NYC Streets Plan in 2026"
+committee: "Committee on Transportation and Infrastructure"
+committee_slug: committee-on-transportation-and-infrastructure
+title: "Assessing the State of the NYC Streets Plan in 2026"
 date: 2026-03-03
 slug: committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026
 duration: "6hrs 56m"

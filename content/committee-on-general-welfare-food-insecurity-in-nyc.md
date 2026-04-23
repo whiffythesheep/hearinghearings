@@ -1,5 +1,7 @@
 ---
-title: "Committee on General Welfare, Food Insecurity in NYC"
+committee: "Committee on General Welfare"
+committee_slug: committee-on-general-welfare
+title: "Food Insecurity in NYC"
 date: 2026-04-13
 slug: committee-on-general-welfare-food-insecurity-in-nyc
 duration: "4hrs 2m"

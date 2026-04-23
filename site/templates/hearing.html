@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block page_title %}{{ hearing.title }} — Hearing Hearings{% endblock %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Hearing Record{% endblock %}
 
 {% block content %}
@@ -7,6 +7,9 @@
 
 <article class="hearing">
     <header class="hearing-header">
+        {% if hearing.committee %}
+        <p class="hearing-committee">{{ hearing.committee }}</p>
+        {% endif %}
         <h1>{{ hearing.title }}</h1>
         <div class="hearing-meta">
             <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>

@@ -99,6 +99,8 @@ def load_content():
 
         hearings.append(
             {
+                "committee": meta.get("committee", ""),
+                "committee_slug": meta.get("committee_slug", ""),
                 "title": meta.get("title", filename),
                 "date": date_str,
                 "date_display": date_display,
@@ -155,9 +157,14 @@ def build():
     for hearing in hearings:
         hearing_dir = os.path.join(meetings_dir, hearing["slug"])
         os.makedirs(hearing_dir)
+        combined_title = (
+            f"{hearing['committee']}: {hearing['title']}"
+            if hearing["committee"]
+            else hearing["title"]
+        )
         html = hearing_template.render(
             hearing=hearing,
-            meta_title=hearing["title"],
+            meta_title=combined_title,
             meta_description=hearing["summary_snippet"],
             meta_url=f"{SITE_URL}/hearings/{hearing['slug']}/",
         )
@@ -205,9 +212,10 @@ def build():
     latest_date = hearings[0]["date"] if hearings else today
     feed_entries = []
     for h in hearings:
+        feed_title = f"{h['committee']}, {h['title']}" if h.get("committee") else h["title"]
         feed_entries.append(
             f"  <entry>\n"
-            f"    <title>{html_mod.escape(h['title'])}</title>\n"
+            f"    <title>{html_mod.escape(feed_title)}</title>\n"
             f"    <link href=\"{SITE_URL}/hearings/{h['slug']}/\" rel=\"alternate\"/>\n"
             f"    <id>{SITE_URL}/hearings/{h['slug']}/</id>\n"
             f"    <updated>{h['date']}T00:00:00Z</updated>\n"

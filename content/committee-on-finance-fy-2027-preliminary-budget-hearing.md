@@ -1,5 +1,7 @@
 ---
-title: "Committee on Finance, FY 2027 Preliminary Budget Hearing"
+committee: "Committee on Finance"
+committee_slug: committee-on-finance
+title: "FY 2027 Preliminary Budget Hearing"
 date: 2026-03-25
 slug: committee-on-finance-fy-2027-preliminary-budget-hearing
 duration: "5hrs 17m"

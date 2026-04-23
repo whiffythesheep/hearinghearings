@@ -1,5 +1,7 @@
 ---
-title: "Committee on Hospitals, Impacts of the Maimonides Health System and NYC H+H Merger"
+committee: "Committee on Hospitals"
+committee_slug: committee-on-hospitals
+title: "Impacts of the Maimonides Health System and NYC H+H Merger"
 date: 2026-03-02
 slug: committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger
 duration: "1hr 59m"

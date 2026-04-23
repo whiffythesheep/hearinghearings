@@ -1,5 +1,7 @@
 ---
-title: "Committee on Aging, FY 2027 Preliminary Budget Hearing"
+committee: "Committee on Aging"
+committee_slug: committee-on-aging
+title: "FY 2027 Preliminary Budget Hearing"
 date: 2026-03-12
 slug: committee-on-aging-fy-2027-preliminary-budget-hearing
 duration: "3hrs 46m"

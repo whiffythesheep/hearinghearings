@@ -1,5 +1,7 @@
 ---
-title: "Subcommittee on Early Childhood Education, Early Childhood Educator Workforce Development and Pipeline"
+committee: "Subcommittee on Early Childhood Education"
+committee_slug: subcommittee-on-early-childhood-education
+title: "Early Childhood Educator Workforce Development and Pipeline"
 date: 2026-04-15
 slug: subcommittee-on-early-childhood-education-early-childhood-educator-workforce-development-and-pipeline
 duration: "4hrs 21m"

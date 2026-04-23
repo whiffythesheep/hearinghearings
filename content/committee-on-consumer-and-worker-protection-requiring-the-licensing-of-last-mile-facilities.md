@@ -1,5 +1,7 @@
 ---
-title: "Committee on Consumer and Worker Protection, Requiring the Licensing of Last-Mile Facilities"
+committee: "Committee on Consumer and Worker Protection"
+committee_slug: committee-on-consumer-and-worker-protection
+title: "Requiring the Licensing of Last-Mile Facilities"
 date: 2026-04-09
 slug: committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities
 duration: "6hrs 42m"
