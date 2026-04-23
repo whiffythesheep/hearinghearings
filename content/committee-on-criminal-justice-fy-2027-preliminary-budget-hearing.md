@@ -1,0 +1,2190 @@
+---
+committee: "Committee on Criminal Justice"
+committee_slug: committee-on-criminal-justice
+title: "FY 2027 Preliminary Budget Hearing"
+date: 2026-03-24
+slug: committee-on-criminal-justice-fy-2027-preliminary-budget-hearing
+duration: "5hrs 34m"
+youtube_url: "https://www.youtube.com/watch?v=bjZFk_1_pD0"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397977&GUID=701DC6C0-814D-442A-B70F-EF99C79BA6EA&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Criminal Justice held a lengthy preliminary budget hearing covering the Department of Probation, Department of Correction, Board of Correction, and public testimony, focused on fiscal year 2027 budget proposals and the fiscal 2026 preliminary Mayor's Management Report. The hearing ran from morning into late afternoon and drew testimony from agency commissioners, union leaders, legal advocates, formerly incarcerated individuals, and service providers.
+
+At Probation, Commissioner Chiron Goodwin's team described a department under genuine stress: a 23% vacancy rate, a 50% spike in juvenile re-arrests, and a drop in on-time pre-sentencing investigations from 98.4% to 94.4% despite higher volume. The department is transitioning from a mixed caseload model to a single risk-level model, expanding use of credible messengers with youth, and launching the LIGHT program at Lehman College for education and vocational support. The union, represented by UPOA president Dy Powell, was blunt: the agency is hemorrhaging officers to NYPD, parole, and neighboring departments because salaries are dramatically below comparable agencies, and pay equity litigation has been running since 2019. One Queens unit was said to have no probation officers at all as of the following week.
+
+At Correction, new Commissioner Stanley Richards, a formerly incarcerated person who has spent decades as an advocate and practitioner, gave testimony that was notably different in tone from his predecessors. He acknowledged the department is in serious difficulty: population up nearly 43% since FY21, facilities at 92% capacity, uniform staffing down roughly 20% since January 2022, over 800 officers currently retirement-eligible, and overtime on track to hit $370 million in FY26 against a budgeted figure that will last less than six months. His core message was that safety, population reduction, and putting people first are interconnected, and that punishing the way to compliance does not work. He was direct about the need to close Rikers and explicit that borough-based jails are necessary, not optional. Significant scrutiny fell on cell door replacements: roughly 2,889 doors need upgrading across the island, only about a third are done, current expense funding covers only 141 doors per year, and at that pace full replacement would take ten to twelve years. The remediation manager appointed by Judge Swain, Nicholas Demo, starts officially on March 30 and will be physically based on the island. The department acknowledged it has not yet reviewed prior Board of Correction reports but committed to a forward-looking plan; a 90-day action plan from the remediation manager is required under the court order. Significant gaps emerged around mental health: roughly 20% of people in custody have a serious mental illness, 180 to 200 people at any one time are awaiting state psychiatric beds, and a deadlocking investigation remains open at the Department of Investigation. Questions about bail facilitators, staffing analysis procurement, and captain vacancy numbers all resulted in follow-up commitments rather than immediate answers. Council Member Restler pressed hard on 6A authority and the city-sentenced population, now around 8% of the total versus 3% in 2022, and on sustained investment in supervised release, ATI, and justice-involved supportive housing, noting that only 14 of 109 people approved for supportive housing from Rikers were actually placed last year despite over 4,000 vacant supportive housing units citywide.
+
+The public session brought a clear and consistent message from advocates, service providers, and directly impacted individuals: the preliminary budget is inadequate, ATI and re-entry programs face a $4.6 million cut that must be reversed and expanded by $20 million, the Board of Correction is chronically underfunded and needs $3 million more and technology investment of $2.1 million, and DOC's authorized headcount of 7,600 uniform officers is far above what the borough-based jails will require, with roughly 1,300 vacancies that could save $174 million annually if eliminated. The Vera Institute, Freedom Agenda, the NYC ATI Coalition, Worth Rises, the NYC Bar Association, and others all made variations of the same argument: at roughly $500,000 per person per year on Rikers, the math is indefensible compared to community-based programs that serve 50 people for the cost of one incarceration. Worth Rises raised a specific and pointed issue about the jail telecom vendor Securus potentially sharing call data with federal immigration enforcement agencies in violation of sanctuary laws, and urged passage of Intro 96. Brooklyn Defenders urged passage of Intro 134 on housing transgender people in accordance with their gender identity. The union representing correction officers, COBA president Benny Bosio, pushed back on the direction of the conversation, citing 660 officer assaults in the prior year, 140 in the first three months of the current year, and arguing that eliminating punitive segregation without viable deterrents leaves officers without protection.
+
+Numbers
+
+- Department of Correction FY27 preliminary budget: $1.4 billion, up from $1.34 billion in FY26, a $58 million increase.
+- DOC budget including fringe benefits, pension contributions and debt service: $2.99 billion, a 5% increase compared to the FY26 adopted budget.
+- DOC 10-year capital commitment plan totals $14 billion through FY36, of which $13.9 billion is tied to the borough-based jails program.
+- Borough-based jails capital breakdown: Brooklyn $2.3 billion, Manhattan $4.1 billion, Bronx $3.1 billion, Queens $4.0 billion; original estimate was $8 billion, now projected at over $11.47 billion.
+- DOC authorized headcount: 8,811 positions (7,060 uniform, 1,751 civilian); actual uniform staffing approximately 5,600, an 18% overall vacancy rate.
+- DOC uniform staffing down roughly 20% since January 2022; over 800 officers currently retirement-eligible, 235 more become eligible next calendar year, nearly 400 more by end of 2028.
+- DOC average daily population in FY26: approximately 7,100, up roughly 10% from FY25 and up roughly 43% from FY21; facilities operating at 92% capacity.
+- DOC FY26 overtime spending to date: approximately $240 million; projected full-year spend: approximately $370 million; FY27 budgeted uniform overtime: $158 million; FY27 budgeted civilian overtime: $7 million.
+- One-time FY26 overtime budget adjustment: $183 million; civilian salary shortfall funding: $15 million FY26 only.
+- Total cell doors requiring upgrade across Rikers: approximately 2,889; doors installed to date: approximately 1,439, roughly 33% complete; current funding covers 141 doors per year, meaning full replacement would take 10 to 12 years; $2.5 million allocated for GRVC and RNDC door replacements in FY26 preliminary plan.
+- Filling DOC's approximately 1,300 uniform vacancies would cost approximately $174 million annually in salaries and benefits; Lippman Commission estimate for officers needed to staff borough-based jails is 3,240.
+- DOC staffing analysis contract with outside firm: up to $800,000, running January 2026 through June 2027.
+- DOC authorized captain positions: 703; current captain headcount: 490; vacancies: 213.
+- State-ready individuals in DOC custody increased from 103 to 622 at peak; current count is below 100; DOC receives quarterly reimbursement from state for individuals held more than 10 days.
+- DOC agency payout figures: $48,676 in FY23, rising to $279,846 in FY24 and $234,849 in FY25, driven by class action lawsuit settlements.
+- Approximately 20% of people in DOC custody have a diagnosed serious mental illness; 180 to 200 people at any one time awaiting state psychiatric beds; 47% of people with mental illness released from Rikers are reincarcerated within one year.
+- Of approximately 1,000 people referred for supportive housing assessment, only 265 were referred to a provider; 109 approved for supportive housing; 14 actually placed; over 4,000 vacant supportive housing units citywide.
+- ATI and re-entry program cut in preliminary budget: $4.6 million; advocacy coalition requesting $24.6 million increase from administration and additional $2.4 million from City Council across 12 organizations.
+- Cases ATI programs: in FY25, 2,300 people avoided incarceration; among Nathaniel ACT completers, 0% reconvicted of violent felony, under 5% reconvicted of any felony, homelessness decreased 70%, psychiatric hospitalizations cut in half.
+- Board of Correction current budget funds 33 staff; advocates requesting $3 million increase and $2.1 million for technology upgrades.
+- Department of Probation: 23% vacancy rate; fewer than 600 supervising and line probation officers against an OMB headcount target of 845; juvenile re-arrests up 50% year over year; at-risk youth funding of $18.8 million shifted from city to non-city sources; DOP managed program participants down 20%; pre-sentencing investigations completed on time dropped from 98.4% to 94.4% despite volume rising from 2,390 to 2,601.
+- Freedom Agenda budget requests: $69.2 million for mental health services outside Rikers, $48.5 million for diversion and re-entry programs, $3 million for Board of Correction oversight capacity, $20.3 million for low-barrier housing.
+- DOC external rehabilitative programming budget: $14 million out of the total $2.99 billion budget including fringe and debt service.
+- Osborne Association Court Advocacy Services: in FY25, prevented 1,674 years of incarceration, generating estimated cost savings to city and state of $227 million.
+
+Action Points
+
+- DOC to provide committee with a list of expense-funded infrastructure projects completed since 2022.
+- DOC to confirm total cost of replacing all remaining cell doors and provide that figure to the committee.
+- DOC to investigate and report back on the reason for the cost-of-living technical adjustment decrease of $546,698 in FY26 and $832,000 in out years related to human service contracts.
+- DOC General Counsel to follow up on details of class action settlements that drove the spike in agency payouts in FY24.
+- DOC to provide a breakdown of uniformed staff assigned to housing units versus posts with minimal incarcerated-person contact.
+- DOC to provide a breakdown of how many uniformed officers in the 117 assigned to programming roles are actively delivering services versus escorting.
+- DOC to report back on whether bail facilitator funding comes from the department's budget and share any available performance metrics on bail facilitation outcomes.
+- DOC to clarify the procurement process used to select the out-of-state staffing analysis firm, including whether an RFP was issued, what New York-based firms were considered, and whether the contractor is MWBE-certified.
+- DOC to provide a timeline for the staffing analysis for each facility, following the consultant's April 13 briefing with the remediation manager.
+- DOC to report on how many uniformed staff and how many civilians are assigned to facilities not currently housing incarcerated people.
+- DOC to confirm whether DOC is tracking on-time production rates for video appointments with mental health providers and re-entry assessors, and to follow up with that data.
+- DOC to provide a plan for reaching the 99% video court production rate, including capital investment needed for additional kiosks, by the executive budget hearing.
+- DOC to follow up on the video court production rate gap and confirm whether the explanation (terminal count and technical issues) is accurate.
+- DOC to provide the committee with a report on the status of Lightning Law installation and confirm that the $1 million budget line remains in place.
+- DOC First Deputy Commissioner Egan to confirm appointment of the Local Law 140 borough-based jails coordinator within approximately one month.
+- DOC to confirm it is on track to deliver the Local Law 140 staff recruitment, retention, and safety report to the Council by May 1, 2026.
+- DOC to discuss land parcel transfers to DCAS per Local Law 16 of 2021 with City Hall and report on next steps.
+- DOC to follow up with the committee on court production costs and the precise denominator used in the 99% on-time court production statistic.
+- DOC to provide an update on Bellevue outposted therapeutic beds timeline and a clear path forward for North Central Bronx and Woodhull units by the executive budget hearing.
+- DOC and remediation manager to submit a 90-day action plan to Judge Swain addressing the 18 contempt orders under the Nunez consent decree.
+- DOC to follow up with the committee on average length of stay for individuals found unfit to proceed who are awaiting state psychiatric beds.
+- DOC to review 2025 in-custody deaths for lessons learned and report on prevention measures.
+- DOC to follow up on nutritional services improvements including fresh produce sourcing and food quality at Rikers.
+- DOC to assess programming funding needs and report on plans for more robust programming capacity across facilities.
+- Department of Probation to provide committee with data on what specifically drove the $18.8 million at-risk youth funding shift from city to non-city sources and its effect on program enrollment.
+- HRA and CHS to be engaged by the committee on improving the supportive housing referral pipeline for people leaving Rikers, including mandating referral timelines.
+
+## Full Transcript
+
+[**(00:28:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=1696s)
+
+
+
+Forward. One of the things that we are focusing on is bringing forward our probation officer trainees, because their requirements are a little different. They just have to have a college degree and then we give them the casework experience. So we have been doing a huge recruitment for probation officer trainees that are coming out of the universities. Thus far, since our recruitment efforts, about 526 have applied. We are in the process of actually interviewing the candidates. So far we have done 80 interviews of qualified probation officer trainees.
+
+Thank you. When is the next officer's exam scheduled for?
+
+Thank you for the question, chair. We have the date scheduled, and we have 591 applicants so far for the upcoming exam. The date is June 11th.
+
+June 11th.
+
+June 11th. And the filing period is currently open.
+
+I am sorry, I can talk into the microphone.
+
+The filing period is open until June 11th.
+
+Okay.
+
+So we are actively engaging with the recruitment process as we speak.
+
+Thank you for that. I am going to yield to hear next from CM Morano, followed by CM Salaam. Just ask everyone to be respectful of the clock. Thank you. Thank you, Commissioner. You note the average adult caseload is 54, while higher risk cases should be closer to 20 to 25. Can you tell us plainly, are we currently supervising too many high-risk individuals with too few officers? And what does that mean for public safety in neighborhoods around the city?
+
+I can answer that question. Thank you for the question. So currently we have a mixed caseload model. What that means is that both on the adult and juvenile side we use validated evidence-based assessment tools. We assess every case and we give them a risk level. On the adult side it would be high, medium, low, et cetera. Currently that mixed caseload model means that one officer has all different risk levels. We are actually in the planning phases now of moving towards an individual risk level model, meaning each officer only gets a single risk level. So to answer your question about whether it is too many or too few officers, this system will adjust for that. When you have a single risk level you have less room for error. There is more consistency within the officer, but then we can adjust the caseloads individually. High caseloads will have fewer cases, medium caseloads will have a little bit more, low will have a little bit more, et cetera.
+
+This whole plan... our officers have been working very hard these last few weeks reassessing and re-engaging all these clients to have clearly documented needs, and we really commend that work, so that we can make this overall plan to shift these caseloads and address exactly that issue.
+
+The commissioner mentioned a 23% vacancy rate and that we have lost far more officers than we have hired. What specifically is driving officers to leave and what would it take, in your view, Commissioner, to actually stabilize the workforce?
+
+I believe that it is a competitive market out there. We are competing with a lot of different criminal justice agencies and social work agencies. So how we are looking at it is maybe giving them a better work life...
+
+Balance. Thank you. Work life balance. And that means looking at their schedules, maybe making it more competitive in terms of their wanting to stay at probation, looking at their wellness and what we are doing. We just recently had a staff appreciation breakfast where the executive team served them breakfast and we thanked them for their service. So we are looking at even the caseloads, making the caseloads more favorable to them so they can do their work. We are trying to do a lot of different things within the agency to say, "Hey, we can give you a better work life balance."
+
+The thing that I found most troubling about your testimony, and I am sure it is the aspect that you found most troubling, was the spike in juvenile re-offenders. You had said that juvenile re-arrests are up 50%, which you rightly called unacceptable. What are we doing differently right now to reverse that trend and how quickly should New Yorkers expect to see some results?
+
+Thank you for the question. So with regard to the spike in juvenile arrests, obviously that is not the direction that we want to go in. One thing that we do want to note is that since Raise the Age, over 70% of our clientele in juvenile is over the age of 16. With that they bring different types of offenses that come to us. One of the things that we are doing is the commissioner wants to use credible messengers on the juvenile side. That was something that has been very effective in the past with that population, 16 to 24, when they were on the adult operations side. With regard to juvenile operations, the idea and the plan is to have a credible messenger assigned to each unit so that they can work with our clients throughout their time on probation.
+
+Another thing is that the commissioner just recently attended a ribbon cutting at Lehman for a new program that we have called LIGHT. What they are going to be doing is supporting youth with tutoring throughout education. They are going to show them a pathway to college if that is what they want to do, perhaps vocational. They will have peer mentors that are college students. So we are trying to do things differently, understanding that doing the same thing is not going to yield different results.
+
+One more if I may, Commissioner, briefly.
+
+Yes. So, Commissioner, you emphasize that supervision alone is not enough and that services matter, but where does one draw the line? How do we ensure that accountability does not get lost in a service-driven model?
+
+One of the things that I love about probation and this agency is that we wear two hats. We wear a law enforcement hat as well as a social work hat. Our focus is more on the social work side, but we balance it out with accountability. So it does not get lost. It just helps as a tool to strengthen what the client needs.
+
+Thank you. Next, we will hear from CM Salaam, followed by CM Cabán. Once again, asking everyone to respect the clock. Thank you, chair, and thank you, Commissioner. My question is about the re-arrest rates for youth. I wanted to know what interventions are failing for our youth on probation and what additional resources or programming changes are needed, given the fact that they have gone from 2% to 3% between fiscal years 25 and 26.
+
+Thank you for the question. I think what we are seeing right now is unfortunately an increase in some gun violence. One of the things that the commissioner has discussed is trying to find the appropriate programming that would help us to combat that particular thing. Credible messengers is one of the pathways to that. But we are open to talking with our community partners and the different providers just to really try to narrow in on that particular issue, to see what would be the best model and what would be the best thing to keep our youth from getting further involved in the system.
+
+And that is why we are talking with Columbia University Project Restore and really looking into partnering with them as well. They have a really good successful rate with their program in dealing with violence and youth.
+
+Thank you. Continuing with youth, in terms of youth at risk and the funding shifts, I wanted to know why this funding source shifted and how does this affect the programming, services and stability, given that the preliminary plan reallocated $18.8 million of at-risk youth funding from city to non-city sources while also enrolling 20% fewer DOP managed program participants.
+
+Well, while they are preparing for the answer, let me just quickly note that this question has come in twice now. Any decisions that we are making, as the commissioner said in her testimony, we are leveraging data as the guiding principle. So we have set up benchmarks and key performance indicators. Any decisions we are making, either to sunset or add more resources to anything, is based on the data. We are using data as an infrastructure, like we have roads and utilities and all these other things, to guide us on what decisions need to be made.
+
+So any decision we are making is data-driven decision making. Also, any funding decrease on a higher level does not affect the program-specific budgets on the ground level. So there has not been any change in terms of services with our programs. If there is a fluctuation with enrollment, that would not have anything to do with the funding aspect.
+
+Adult pre-sentencing investigations completed on time dropped four percentage points from 98.4% to 94.4%, despite an increase in volume from 2,390 to 2,601 PSIs. How are staffing shortages affecting the quality and timelines of these critical court documents and what resources would address this decline?
+
+That is the core of the challenge. Everything you described there. This is actually a good example. The quality is actually being maintained by our officers. In this example, the on-time rate... they are taking more time. So that is the trade-off. In order to maintain the quality with fewer officers, it takes them longer, and that is why our on-time delivery has been reduced. Now we are working on bringing that back up. We have assigned some more officers, actually recently in the last few weeks, to investigations for that reason. There is some training involved. It is a somewhat specialized assignment, so there is some time for that to be realized. But this is the core of the challenge that we are faced with and we are doing the best we can. Our officers are doing their best to prioritize quality over any other metric.
+
+Thank you. Thank you, chair.
+
+Thank you, CM Cabán. Also, we have been joined by CM Narcisse.
+
+Thank you, chair. Thank you all for being here. I am done with the pleasantries. Can you just briefly... I am probably going to be doing more commenting than questioning, but briefly, what do you see as your mission and purpose as it pertains to young people under your supervision?
+
+It is to provide them with the best service, resources and opportunity that we can, and really doing a one-size-fits-one approach with how we supervise them.
+
+And what is the purpose, right? Like, what is the outcome that you are hoping for when you are seeking the best programs and services?
+
+For me, for youth, the best outcome for us is getting them to realize that they have something to live for. I say that in terms of a lot of youth coming to us not even realizing that they have tomorrow to live for, and our job is to get them to realize that. So my main focus is changing behavior and using all our resources in terms of credible messengers, using our nonprofits, using our sister resources and other...
+
+And I am going to interject for a moment because I know you have spent time talking about that and I agree with you. I want to hone in on what you said about changing behavior and having something to live for. To me, that means recognizing that you have options and opportunities. I want to thank my colleague, CM Morano, for his questions. I think they were thoughtful. I think it is interesting the use and the choice of the word accountability, because accountability and punishment are not synonymous. They have very different definitions. Your mission, I think, incorporates accountability and not the purpose of punishment.
+
+Just for the record, the definition of accountability is an active voluntary process of taking responsibility, repairing harm and changing behavior that focuses on growth and improvement. Conversely, the definition of punishment is a passive, often forced experience focused on retribution, control, shame and results in isolation rather than improvement. So I think the latter is contrary to what your goals are in terms of people having something to live for and striving for something. The former is really key here. I point that out because I just think some people think that when something happens you need to be punished, but we want outcomes. We want changed behavior. We want transformation.
+
+So what recommendations or programs and interventions do you think promote accountability? And what recommendations do you have for diverting young people away from even coming under your supervision? An example I will give to start us off is SYP. We know that it reduces youth arrest rates by 17%, it reduces felony arrest rates by 23%, and these are hard, concrete results. So what kinds of programs and interventions promote accountability and what recommendations do you have for diverting people from touching you in the first place?
+
+Okay, this is going to be a shared conversation.
+
+Let us do it.
+
+With my counterparts. First, probation. We do have cognitive behavioral intervention tools that we use with the youth as well as with the adults, that address accountability and them looking at their lives and their future. We have tools in place called the CARRY guides and the behavioral intervention tools, which are called BITs. We use them when they come to probation and they spend time with their probation officer, or if an issue comes up about what they are going through, we pull out the CARRY guides and the tools to help them address or look at what is going on in their lives so they can make better choices. In terms of diversion, I am going to hand that over to Dr. Gamra.
+
+And again, just to clarify, I am hoping to hear about things that you think would help prevent people from even coming under your supervision. That is what I am talking about in terms of diversion.
+
+Okay. So I think that would probably be a collaborative effort with some of our sister agencies, right? Coming together, because we all touch the same populations. That means that we need to be in step with DYCD. We do a big push for SYP for our kids. We need to be in step with the New York City public school system, just trying to figure out, okay, when you see certain behaviors, this might mean that this kid might be coming this way. These are some of the things that we need to do collaboratively. As a city, we can come together more collaboratively and pool our resources.
+
+I just want to add really quickly that one of the main tools that we have at probation is our staff. They are change agents. With Commissioner Goodwin here, we are moving forward to making sure that we provide them with retraining on motivational interviewing and stages of change, because these are the things that are really going to impact our youth.
+
+Thank you. Thank you, chair. And also, Commissioner, I love your tie.
+
+Thank you. We have also been joined by CM Brewer and we will wrap up questions with CM Narcisse.
+
+Good morning. As a re-entry nurse, thank you, chair, and thank you for being present with your leadership here. I am so happy to see you and congratulations. I am hoping to look for the best. Like we say, the best is yet to come. I used to be a re-entry nurse and it always bothers me to see how we have our children in that revolving door all the time. So what do you think? Why do you think we have such a high re-arrest rate all the time? Can you prioritize the thing that you think is the most pressing problem that we have with our youth in New York City?
+
+I think that our youth have more than one issue going on in their lives. They are dealing with multiple issues and...
+
+The top... because I know we have a lot of problems. We all have a lot of problems.
+
+Exactly. So that is why, as the commissioner, I am looking at reinstituting how we look at our data and what that data is saying to us. What are the top three concerns that a youth is going through in order for us to really get to the heart of it? Youth may have family issues going on. They may have some emotional issues going on. They could be going through homelessness. So it could be a number of things that are keeping them coming through the door. They do not just come to us with one problem. They come to us with multiples. Our job at probation is really looking at what that is and how do we target, or really help them get through all of the different stages that they are going through.
+
+Do you think that probation is structured for rehabilitation in New York City?
+
+I think we are structured if we really look at what works and if we really look at what the data is telling us, looking at what is actually going on environmentally in our neighborhoods. What resources do we have? Are we actually really tapping into them? So we have to really look, and that is why it is important for me to get out and really collaborate with all my nonprofits and my organizations and my elected officials, to really come together so we can ensure that this young person has a continuity of services. They are not just going from ACS to us and we are doing something different. If we can get together and collaborate and make sure that they get a continuity of service and that we do not disrupt their lives and cause more harm... continuity of service is so important. Like I said, I used to be a re-entry nurse. I could hear the stories and some of the youth never had a chance in this world from the beginning.
+
+So one more thing and then I am going to finish. Do the probation officers have scheduled training on a regular basis to deal with our youth? To talk about what is going on, because they themselves, as human beings, have a lot going on. Do they have a structure to allow them to talk about what is going on in the field and to have someone to guide them as well, on how to best deal with those children? Because we have to deal with them. We have to understand what they are going through and sometimes it can be overwhelming for an officer. I have seen it because I talk to all of them when I am doing re-entry programs.
+
+So at probation we have a number of people that work with young people, not just the probation officer, but the parent coaches and the credible messengers. We are also looking at doing more. For me, our focus at probation will be the youth, making sure that we are connecting them with credible messengers, because at this time that is not what we are doing. Also, like I said, looking at what the data is telling us, where should we be intervening? Is it early on when they get probation or the latter part? I am right now in the middle of looking at that with my few weeks in, but that is very concerning for me as well.
+
+My time is over. But the reason I talk about the probation officers is because sometimes they go into work and they miss by one hour and they are going back in the revolving door for no reason. So they have to be sensitive to what the situation is. We cannot just be one way, not seeing and assessing and being sensitive to what the young men or young women are going through. That is what I am... Thank you, Council Member.
+
+And thank you, Commissioner, and to the full team here for your testimony today. We look forward to continuing the conversation throughout the budget season. Again, thank you. This panel is now dismissed.
+
+Thank you very much. We will take a two-minute break so that the Department of Correction can come up to the dais. Yes. Good morning, folks. Just a reminder, there is no eating or drinking inside the chambers. If you have any drinks or food please finish them outside in the rotunda. Also, at this point please no one approach the dais. Thank you. Folks, please find seats. We are going to be starting up again. Again, there is no food or drink.
+
+[**(00:58:22)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=3502s)
+
+
+
+inside the chambers. If you have any, please finish it outside in the rotunda.
+
+[**(00:59:12)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=3552s)
+
+
+
+All right, good morning. We are back in session. We are joined now by the Department of Correction and testifying today will be Commissioner Stanley Richards. He is joined by First Deputy Commissioner Margaret Egan, Chief of Department Sheranne Rembrandt, Charlton Lemon, Bureau Chief James Conroy, General Counsel James Boyd, Deputy Commissioner Strategic Operations Faison Zubair, Assistant Commissioner with Budget Nell Colon, Deputy Commissioner Programs Kevin Dy, Deputy Commissioner for Facilities Kathleen Zadzora, Assistant Commissioner Alexandria Maldonado, Assistant Commissioner. I think I got everybody. The Council will swear everyone in.
+
+[**(01:00:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=3644s)
+
+
+
+Good morning, Chair Brooks-Powers and members of the Committee on Criminal Justice. As noted, I am Stanley Richards, Commissioner of the New York City Department of Correction, and I am joined here by many of my colleagues. Thank you for the opportunity to discuss the department's fiscal year 2027 preliminary budget and the work ahead of us to strengthen safety, stability, and accountability within our jail system.
+
+I come before you today not only as a commissioner but as someone who has spent decades working in and around the system as an advocate, as a practitioner, as a partner and now as a commissioner. I take this responsibility seriously and I approach it with both urgency and humility. I want to start with this simple truth. We have a lot of work ahead of us. As I stated when I met before the committee last month, transforming a system like ours is not like turning a speedboat. It is like turning a cruise ship. It is going to take time and sustained commitment. I am committed to that work and I can say confidently that the team I am building is committed to that work as well. We share this Council's goal of creating a system that is safe for staff and people in our care and holds people accountable while also creating pathways for change and growth.
+
+In this new role, my leadership philosophy is grounded in a simple idea: people first. The people of this agency and the people in our care ought to be seen, heard, supported, and engaged. Our staff are charged with caring for people with significant mental health, addiction, and other challenges every day. The people placed in our care are going through one of the most difficult times in their lives and they deserve opportunity as well as programs and services and an environment that will help them transform and succeed. It is incumbent on this agency to ensure that our staff and the people in our care go home to their people, to their communities, and be a resource to them.
+
+My mission as commissioner is grounded in several core priorities. First, safe and humane jails. Safety must be the foundation of everything we do. Without safety, we cannot accomplish what we strive to achieve. Safety must extend to everyone in the system: our correction officers, our non-uniform staff and the people in our care. Second, strengthening partnerships. DOC cannot do this work alone. Real progress requires strong collaboration with all of our partners, including all city agencies, community providers, labor organizations and this very body, the Council. Real sustainable change only happens when we work together. Third, supporting responsible population reduction and strengthening the continuum of care. DOC does not control who enters our care, but we are committed to working closely with our partners in the criminal legal system to support policies and practices that safely reduce the jail population while also ensuring individuals are better prepared for when they return to their communities. Fourth, preparing the department for the future, including the borough-based jails and modernization of our operations.
+
+These priorities are connected. When we support staff, we improve safety. When we improve safety, we can focus on rehabilitative programming. When we improve our ability to deliver programming and rehabilitation, we improve outcomes. When outcomes improve, public safety improves. That is what putting people first looks like in practice and what we hope to achieve in the coming fiscal year.
+
+Let me speak candidly about where we are today. Our jail population has increased year-over-year for the past several years. In fiscal year 26, the average daily population was approximately 7,100 people, representing nearly a 10% increase compared to fiscal year 25 and a nearly 43% increase compared to fiscal year 21. We are seeing our facilities operate at 92% capacity, the highest level seen in more than a decade. These numbers matter because they create additional operational pressure across housing, staffing and service delivery every single day. I want to emphasize something important. DOC does not control who comes into our care or how long they remain. But we are working closely with our partners across the criminal legal system to support responsible population efforts including this body. This is not just a DOC challenge. It is a systems challenge. System challenges require shared solutions.
+
+At the same time, population pressures are increasing. The department continues to face significant staffing challenges. This issue is not unique to New York City. Law enforcement agencies across the country, especially in the correctional field, as noted earlier by the Commissioner of Probation, are all struggling with recruitment and retention. Today, DOC employs approximately 5,600 uniform members of service, a roughly 20% net decline in average headcount since January 2022. We know that additional retirements are coming. Over 800 uniform staff are currently retirement eligible, meaning they could walk out the door today and retire. 800. Another 235 will become eligible next calendar year and nearly 400 by the end of calendar year 2028. Those numbers tell a clear story. Despite what people may believe, DOC is not operating with excess staffing. We are managing an increasing population through growing staff attrition.
+
+To meet this challenge, we are making significant investments in recruitment. We are expanding outreach to engage future officers and running academy classes to ensure that we are building a strong department that will serve them throughout their career. But recruitment alone cannot fully offset years of attrition overnight. That is why retention matters just as much as recruitment. If we want to retain staff, we must support staff. That means investing in wellness, strengthening professional development and improving morale. Being a correction officer is an incredibly demanding job physically, mentally and emotionally. If we want safe jails, we must ensure that the people responsible for maintaining that safety are whole and healthy.
+
+I also want to speak candidly about infrastructure challenges. The facilities on Rikers Island are aging and many critical systems are operating beyond their intended lifespan. That is why we must close Rikers. We just must. Infrastructure failures are not abstract risks. They are operational realities we must face and manage every day. The health of our infrastructure is connected, deeply connected, to the health of our staff and the people in our care. At the end of the day, this is not about buildings. It is about people. Putting people first means investing in safety. Staff must be able to work in safe conditions and people in our care must be housed in safe and appropriate conditions until we can move to the borough-based jails. We continue to make repairs, maintain systems and address critical failures. But because our capital funding is largely tied to the borough-based jail program, we often rely on expense funding to address urgent infrastructure needs. There is a real opportunity cost to that. When we use expense funding to address infrastructure needs, those are resources we cannot use for staffing support, programming expansion or operational improvements. The first borough-based jail facility is not expected to reach substantial completion until 2029. That means we must have honest conversations about how we maintain safe conditions on Rikers Island in the years ahead.
+
+While we are honest about the challenges, we are also focused on progress. We are excited to continue expanding partnerships that bring additional programs and services into the jails. Importantly, these services were shaped by the feedback from the people who will use them, the individuals in our care. That process reflects our commitment to listening and improving how services are delivered. We are also focused on modernizing our technology and infrastructure. Modernization of this agency's work is not a luxury. It is a necessity. Outdated systems have limited efficiency and coordination for far too long. There are several new initiatives on the horizon that will improve operations, communication, data use and service delivery. We are thrilled to be moving into the 21st century.
+
+Critically, we also continue moving forward with the borough-based jail transition. The department has a team of dedicated public servants who have worked on this effort for years. Their work has positioned us to move into the next phase. Construction is underway at multiple sites and planning and coordination of this City project continues in partnership with all of our sister agencies. This project is one of the most significant operational transitions in not just the department's history, but in the City's history, and we are all committed to getting it right.
+
+Before I close, I will briefly turn to the fiscal year 2027 preliminary budget. For fiscal year 2027, the Department of Correction budget is $1.4 billion. The vast majority of this, 86%, is allocated for personnel services. 14% for OTPS, other than personnel services. The fiscal year 27 preliminary budget increased by $58 million compared to the fiscal year 2026 budget of $1.34 billion. Some of the increases to the preliminary budget include funding for expense components of capital-approved technology projects, with $3.2 million allocated in fiscal year 26, $3.5 million in fiscal year 27, $4.4 million in fiscal year 28, $3.4 million in fiscal year 29 and $2 million in fiscal year 30. Laundry detergent, soap, cleaning supplies for people in custody, with $8 million baseline starting in fiscal year 26. The additional funding supports increased needs for the department resulting from an increased population as well as increases in prices. Civilian salary funding to close an anticipated budgetary shortfall, with $15 million in fiscal year 26 only. Uniform and civilian overtime funding to close a projected fiscal year 26 budget shortfall of $18 million in civilian overtime and $150 million in uniform overtime.
+
+The fiscal year 26 budget and commitment plan totals $14 billion, which covers fiscal year 26 through 36, as of the fiscal year 26 preliminary budget. The majority of capital funding, as I noted earlier, is tied to the borough-based jails program, which totals $13.9 billion over the 10-year plan and is allocated as follows: Brooklyn facility $2.3 billion, Manhattan facility $4.1 billion, Bronx facility $3.1 billion and the Queens facility at $4 billion.
+
+As we continue to work diligently to attract and retain both civilian and uniform staff, the department's total authorized headcount is 8,811, which includes 7,060 uniform positions and 1,751 civilian positions. Our actual uniform staffing levels remain well below our authorized headcount. The department plans to use funding for recruitment and advertising to be aggressive with advertising and marketing strategies to promote recruitment.
+
+In conclusion, let me close where I began. This work is about people. It is about the officer who deserves to work in a safe environment. It is about the person in our care who deserves dignity and opportunity. It is about the communities we all serve. This is long, hard work and there are no quick fixes. But it is well worth the effort. Progress is possible when we stay focused, when we work together and when we keep people at the center of what we do. When we put people first, safety, dignity and humanity all follow. Putting people first means investing in them. People in my life put me first and invested in me. It is what brought me here today before you. I am grateful for this opportunity and I look forward to discussing the department's budget, which is an investment the City makes in this agency and its mission. Thank you for your partnership and continued support. I look forward to answering any questions or comments you have. Thank you.
+
+[**(01:17:33)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4653s)
+
+
+
+Thank you, Commissioner. I would like to acknowledge that we have been joined by CM Restler. I also just wanted to put on the record, reiterating the need to have the testimony at least 24 hours in advance of the hearing. So let us jump into it. Commissioner, under this new administration, are there plans to significantly change the budget proposal for the Department of Correction? If so, can you share some of the ways you expect it will change when the executive budget is delivered?
+
+[**(01:18:06)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4686s)
+
+
+
+We have worked with OMB. We submitted our preliminary budget with our new needs and what we need to stabilize the department now. As I stated in my testimony, the budget we are proposing is the $1.4 billion budget. That will address the needs we have now and the planning for the future we need to do.
+
+[**(01:18:30)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4710s)
+
+
+
+And in the same line of questioning, have you reviewed any of the Board of Correction reports published during the prior administration to see if any further changes and improvements can be made within the department?
+
+[**(01:18:45)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4725s)
+
+
+
+I have not reviewed the previous Board of Correction reports, but as a former Board of Correction member and vice chair, I value that work. I value their partnership. What I am charging this department and my leadership team with is looking at the future. Take the lessons we have learned from the past, but build a path into the future that is centered on hope, dignity and the humanity of the members of service, our officers and the people who come into our care. I am very particular about language, and you hear me say it when I say people in our care. Just like our officers deserve to be safe and to be valued and to be heard, the people who are remanded to us are remanded to our care. We are going to have a plan for the future of this department, building off the experiences and concerns of our partners of the past.
+
+[**(01:19:42)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4782s)
+
+
+
+Thank you for that. In your testimony, you mentioned the department's goal of increasing safety for the staff and the persons in custody, as you just mentioned. Can you expand on your strategies for these new policies and how they will be different from previous commissioners?
+
+[**(01:20:00)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4800s)
+
+
+
+Yes. As I said to my leadership team, we cannot punish our way into compliance. I think we have to start in a different way. It is something similar to what the Probation Commissioner started with. We need to develop a system where when people come into our care, they have something that they want to hold on to. I am framing it similarly to the way former Commissioner Sheraldi and I framed it. People coming into our system need to start with an A. That is one strategy. Giving people something that they want to hold on to as opposed to punishing at the time of an infraction. The other thing we need to do is to make sure our staff feel valued and appreciated. We need to recruit to bring in officers so our officers do not have to do doubles. Thankfully, we are not doing triples. We need to do the things that really communicate to our staff that this City, this body and this leadership team hears you, values you and appreciates you. I think when we do those things, we can take a system that has been traumatizing for those who work there and those who are in our care and turn that into a system of procedural fairness and justice, hope and a bright future.
+
+[**(01:21:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4886s)
+
+
+
+Thank you for that. The preliminary plan includes a one-time $183 million in City funding for overtime adjustments and budgeting. Is there any plan in the works to adjust overtime spending in future years?
+
+[**(01:21:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4907s)
+
+
+
+The budget is addressing the fiscal year 26 shortfall. I think the way we adjust overtime is we have to recruit and retain staff and we have to reduce population. As I said, we do not control who comes into our system, but we can do the things necessary to provide people the support and services so that when they leave us, they can be connected to services in their community and build a brighter future for themselves and their families. So that budget request is to address the overtime for this year.
+
+[**(01:22:29)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4949s)
+
+
+
+Thank you, Commissioner. This plan includes a decreased cost of living technical adjustment baselining a reduction of $546,698 in fiscal year 26 and $832,000 in the out years. Most City agencies have seen cost of living increases in this plan. Why is the Department of Correction's adjustment such a large decrease?
+
+[**(01:22:56)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4976s)
+
+
+
+I am going to turn it over to AC Zubair, who handles our finance, to answer that question.
+
+[**(01:23:03)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=4983s)
+
+
+
+Good morning. Faison Zaber, assistant commissioner of budget and finance. This was a COLA adjustment related to human service contracts in our budget. We have to review the data to let you know exactly why that decrease happened. But this was a technical adjustment and we are working closely with our OMB partners to understand exactly why that is. But this is due to a decrease in human service contracts.
+
+[**(01:23:33)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5013s)
+
+
+
+Thank you for that and look forward to getting a response on that. In the preliminary mayor's management report under agencywide management, it is reported that payouts were only $48,676 in fiscal 23, then increased to $279,846 in fiscal year 24 and $234,849 in fiscal year 25, while workplace injuries and accidents involving persons in custody has decreased. What happened in fiscal year 24 to cause such a large increase in agency payouts?
+
+[**(01:24:21)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5061s)
+
+
+
+Thank you for that question, but I am going to turn it over to GC Conway who can speak directly to that question.
+
+[**(01:24:27)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5067s)
+
+
+
+Good morning. Jim Conroy, the general counsel for the agency. My team works very closely and robustly with the law department on assessing and dealing with litigation. What we learned when we looked at the data for those fiscal years was that there were significant, in each of those fiscal years, class action lawsuits that were settled and paid out during that time. That would account for a significant increase in the payouts for those periods. We learned that the class actions actually dealt with matters that occurred very early on, in the early 2010s, and were filed in 2017 and earlier. So one of the things that my team addresses is ensuring that the conditions that gave rise to those lawsuits are addressed and no longer exist. We do work closely with the law department in assessing litigation and the settlements.
+
+[**(01:25:28)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5128s)
+
+
+
+Thank you for that. Pivoting to the federal monitor. US District Judge Laura Taylor Swain instructed the new remediation manager Nicholas Demo and the City to meet and submit an agreed upon plan within 21 days of his appointment. What logistics have been decided?
+
+[**(01:25:53)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5153s)
+
+
+
+So I have met with Nick a couple of times. His official start date is on the 30th. I really look forward to working with him. I think he brings a wealth of experience. Him and I talked about our work together as a partnership. He reports to Judge Swain and I report to the mayor. But our north star and our goal is the same. We want safe jails. We want our staff to be safe and we want the people in our care to be safe. And how we get there is through diversity of experiences and knowledge, bringing in expertise that we do not have and working collaboratively. So we will be putting together a plan as ordered. He has been in contact with Judge Swain. I am not in contact with her, but I look forward to working with him. His chief of staff, Isaac, is here, who is going to be part of the leadership team that is going to address the 18 contempt orders and the overall Nunez consent decree.
+
+[**(01:26:58)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5218s)
+
+
+
+And will Demo be located physically on the island as well with his team?
+
+[**(01:27:06)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5226s)
+
+
+
+Yes. Him and I both agreed you cannot do this work from Boulevard or from a...
+
+[**(01:27:11)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5231s)
+
+
+
+...office in a building outside of Rikers. You need to be on the island. You need to be in the facilities. You need to be present. Part of what we need to do is listen and engage our staff to understand what they have been going through and how we can improve those conditions. We need to be talking with the people in our care. We need to be talking with providers. So the answer to that question directly is yes. Him and his team have a trailer on the island that they will be working out of.
+
+[**(01:27:43)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5263s)
+
+
+
+What changes have been made by the department since the appointment of the remediation manager, if any at all?
+
+[**(01:27:50)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5270s)
+
+
+
+I think what I have done is build out my team, and that is continuing. And what Nick has been doing is building out his team. What we have been having conversations about are the drivers of safety, and the bottom line to safety is making sure population reduction happens and making sure we have adequate staff to ensure the safety of our members of service and the people in our care.
+
+[**(01:28:21)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5301s)
+
+
+
+And have you had any conversations about the department's budget, capital and expense, with the remediation manager?
+
+[**(01:28:28)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5308s)
+
+
+
+I think he... we toured... he understands. We showed him the doors. Yes, he knows about the doors and we showed him the infrastructure. The reality of it is everything on that island is really old. I think the oldest building we have that is closed is HDMJC. That building is closed. The next oldest was built in 1930. Most of the systems are beyond their useful life. And so we have been managing infrastructure on a crisis basis. The way I look at it is the infrastructure really creates health and safety issues.
+
+[**(01:29:04)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5344s)
+
+
+
+Two hours into my first day, we had a water main break, steam break, where our FMRD team had to engage the FDNY to come and pump water out of our steam tunnel. It took out the hot water for two buildings. When something like that happens, people in our care get angry and frustrated. They do not understand that the infrastructure is old and that they cannot get hot water. Who gets the brunt of it? The officers who are in those housing areas, the officers who have to escort, the B officers. And so all of this infrastructure is really around health and safety and how do we maintain a facility until we can get off the island and build borough-based jails where we could really use design and facility to center the humanity of those in our care and those on our staff.
+
+I do want to spend some time on the infrastructure piece, but before I pivot — in terms of the plan of action from your perspective, have you begun to lay out a strategy to reduce the different components that fall under the remediation manager so that you can retain that authority?
+
+[**(01:30:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5426s)
+
+
+
+We have not talked specifically about what the structure would look like, but Nick and I are both clear. He reports to Judge Swain and I report to Mayor Mamdani. And both of our charges are to create safety — his by addressing the 18 consent decree items, mine by the charge of the mayor to deliver safety, humanity and dignity for those who work there and those who are in our care.
+
+[**(01:30:58)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5458s)
+
+
+
+And I get the reporting verticals, but just wanting to understand — is there any strategy on the administration side on how you begin to regain the authority out of those 18 points? Because as the department begins to do better in those categories, you get to get that authority back.
+
+[**(01:31:20)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5480s)
+
+
+
+That is specifically outlined in the order that Judge Swain issued. So once the work starts and once the remediation manager makes determinations along with the monitor that there are improvements in certain areas and we start to come into compliance with those specific provisions over which he has authority, the idea and the direction from Judge Swain is to transition those areas back into the...
+
+[**(01:31:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5504s)
+
+
+
+I am sorry, that part I get. But what I am asking is, is there any plan of action to be able to start to knock those out one by one to get that authority back?
+
+[**(01:31:56)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5516s)
+
+
+
+Once the remediation manager is fully onboarded, they are required to submit a 90-day action plan that will address that.
+
+[**(01:32:01)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5521s)
+
+
+
+So it will be in that.
+
+[**(01:32:02)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5522s)
+
+
+
+Yes, in collaboration with the department to get there.
+
+[**(01:32:05)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5525s)
+
+
+
+Thank you. And pivoting to the capital and infrastructure piece, where I think the commissioner and I are in full alignment. We are aware that the Department of Correction often uses expense funding to provide infrastructure improvements to the facilities. Can you provide a list of projects that have been completed using expense funding?
+
+[**(01:32:28)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5548s)
+
+
+
+Yes, I would turn to two people. One is our deputy commissioner of our facilities maintenance and repair division, DC Doherty, and our AC of finance.
+
+[**(01:32:45)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5565s)
+
+
+
+Good morning. Since 2022, there is a significant amount of funding that was taken out of the budget because of capital eligibility concerns. Thus far, just in this fiscal year, we have spent additional funding on perimeter fencing projects and other safety and security projects. DC Doherty has a much more detailed understanding of what that might be.
+
+[**(01:33:12)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5592s)
+
+
+
+Good morning. Deputy Commissioner Kevin Doherty, Facilities Maintenance Repair Division. As the commissioner spoke to, we have had to do emergency repairs for not just the steam tunnel — steam tunnel remediation, which we had to replace or repair segments of the steam line that supply several buildings, meaning GRVC, RMSC and RNDC. Additionally, we have had to do emergency repairs to generators. We had a power outage late this year due to salt remediation. We then had to acquire emergency generators to bring the island back online. And doors — since 2019, we have been installing doors on a regular basis.
+
+[**(01:34:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5666s)
+
+
+
+Since 2019, the Department of Correction has been funding door replacements throughout the facilities. In the fiscal year 23 preliminary budget, $12 million was transferred within the department for a cell door emergency. In the fiscal year 23 adopted plan, $15 million was added in fiscal year 23 and $10 million in fiscal year 24 for cell door upgrades. Additionally, the Department of Design and Construction budget in fiscal year 23 included $10 million for a cell door project. Can you confirm that all of the cell doors are now in working order with doors that lock and stay locked, or are additional funds needed?
+
+[**(01:35:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5716s)
+
+
+
+Just a quick clarifying point — since 2019, we were using capital funding to repair doors. Since they became capital ineligible, we then had to shift to expense. So now we are using expense funding to cover our door replacements. As far as the installations of the doors, the doors in fiscal year 23 and 24 were directly for the RNDC location and those doors have been installed 100% and they all function correctly. For all locations that we have installed since then — at OBCC we have installed for the SMU unit, and at RMSC — every location that we have installed these has been a positive, not just for the staff but also the population. We have not had issues with the converted doors.
+
+[**(01:36:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5791s)
+
+
+
+But I am taking from what you are saying, or how you are saying it, that there are some doors that still require attention.
+
+[**(01:36:39)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5799s)
+
+
+
+Yes. Yes, there are...
+
+[**(01:36:41)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5801s)
+
+
+
+So additional funds would be needed for those doors.
+
+[**(01:36:45)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5805s)
+
+
+
+Yes. I think the total — and correct me if I am wrong — I think the total number of doors throughout the department that need to be upgraded is about 2,100. We have done about 30%.
+
+[**(01:36:59)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5819s)
+
+
+
+So the total count on the doors left to be fully converted for the entire island is 2,889 doors. To date, we have installed 1,439 doors. That roughly gives us a percentage of completion of 33%.
+
+[**(01:37:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5836s)
+
+
+
+Is additional funding required for the doors?
+
+[**(01:37:20)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5840s)
+
+
+
+Right now we have additional funding in the expense budget to do 114 doors.
+
+[**(01:37:29)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5849s)
+
+
+
+141.
+
+[**(01:37:30)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5850s)
+
+
+
+141 doors a year. So it would take us 10 to 12 years to replace all the doors.
+
+[**(01:37:37)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5857s)
+
+
+
+And have you been able to fund any capital projects through DCAS?
+
+[**(01:37:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5864s)
+
+
+
+Yes. Usually anything that is non-facility based, we can use capital funding for repair and replacement in kind. There have been projects that DCAS has code-certified that they will use at least 5 years after the asset has been completed. So yes, there are some projects that we have...
+
+[**(01:38:09)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5889s)
+
+
+
+And those projects are usually IT-related projects, not infrastructure like the doors.
+
+[**(01:38:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5899s)
+
+
+
+No, usually those projects have to do with infrastructure like island infrastructure and remediation projects that are capital eligible. DCAS does not need to certify IT projects.
+
+[**(01:38:36)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5916s)
+
+
+
+How much funding is needed to repair all the remaining doors in this upcoming fiscal year?
+
+[**(01:38:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5927s)
+
+
+
+We can get back to you on that.
+
+[**(01:39:00)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5940s)
+
+
+
+And point of clarification — why can DCAS not co-certify the IT projects?
+
+[**(01:39:08)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5948s)
+
+
+
+It is not that they cannot. They do not need to because the IT projects are going to be used once the facilities are online. They will be used by the department. They will not be used by DCAS. DCAS can only co-certify what will be left behind.
+
+[**(01:39:24)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5964s)
+
+
+
+In the fiscal 2026 preliminary plan, the Department of Correction received a $2.5 million increase for cell door replacements at GRVC and RNDC. Has that project been completed?
+
+[**(01:39:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=5984s)
+
+
+
+By the close of fiscal year 26, yes. The GRVC location as well as the other location will be completed. So for the $2.5 million, we are able to procure 141 door systems.
+
+[**(01:40:03)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6003s)
+
+
+
+Thank you. I next want to turn to the borough-based jails. There were minimal changes in the capital commitment plan for the new jail facilities. Does this indicate that the facilities are on track to meet the deadlines that have been reported by the administration?
+
+[**(01:40:24)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6024s)
+
+
+
+This administration and the department is committed to the borough-based jail system and closing Rikers.
+
+[**(01:40:32)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6032s)
+
+
+
+We are in constant communication with City Hall and the law department about this project.
+
+[**(01:40:42)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6042s)
+
+
+
+Is there a plan to reduce the budgeted headcount for officers once the population is lowered and the borough-based jails are open?
+
+We have not engaged in that conversation. Right now the focus is preparing the department for the future, which means focusing on safety. We have our approved headcount. We know how many people can retire. So we are really focusing on recruitment and working with our partners on population reduction in preparation for the borough-based jails.
+
+Local Law 140 of 2025 requires the Department of Correction to appoint a person dedicated full-time to closing Rikers and transitioning into borough-based jails. As of March 13th, the department issued a job posting for this coordinator position. Is that person in place now?
+
+[**(01:40:50)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6050s)
+
+
+
+Hi, Margaret Egan, first deputy commissioner. We are still going through that hiring process. We will bring on an executive director for the borough-based jail plan. That person will be solely dedicated to moving this project forward in light of the values that the commissioner outlined and in partnership with City Hall, with our provider partners, as the commissioner said, in light of this being a citywide project and not just a DOC project.
+
+[**(01:41:43)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6103s)
+
+
+
+Thank you for that. Do you know when to expect the appointment of this person?
+
+[**(01:42:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6139s)
+
+
+
+Our hope would be in the next month or so.
+
+[**(01:42:27)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6147s)
+
+
+
+Okay. And this same local law also requires that the department, by May 1st, 2026, present a report to the Council with recommendations for any reforms relating to staff recruitment, development, retention, safety and security within jails and department operations and organizational culture to improve conditions for department staff and those who are in custody. Is the department on pace to provide that report by May 1st?
+
+[**(01:42:32)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6152s)
+
+
+
+I believe we are on pace to provide that report. What I would say is that will then be an ongoing process, again in order to develop sustainable plans to make sure that the department and the borough-based jails live into the long-term sustainable values that we are all outlining. That report is just a...
+
+[**(01:43:05)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6185s)
+
+
+
+...first step. And has the department transferred any land parcels over to DCAS per Local Law 16 of 2021 in the last year?
+
+[**(01:43:27)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6207s)
+
+
+
+12?
+
+[**(01:43:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6218s)
+
+
+
+No, we have not transferred any land as of yet, but that is something we are going to be discussing with City Hall on next steps.
+
+[**(01:43:40)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6220s)
+
+
+
+Has the department been in communication with the Rikers Island Advisory Committee?
+
+Yes, we have participated in recent meetings with the Rikers Island Advisory Committee.
+
+[**(01:43:48)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6228s)
+
+
+
+And have they been able to tour the land parcels on the island?
+
+[**(01:43:58)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6238s)
+
+
+
+Yes, I recall they toured the island twice in the last couple of years.
+
+[**(01:44:02)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6242s)
+
+
+
+Thank you. I am going to come back with questions, but I am going to pause to allow my colleagues to ask. We have also been joined by Finance Chair Lee. We will start with her with questions and then we will go to CM Cabán.
+
+[**(01:44:06)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6246s)
+
+
+
+Hi, I will be very quick. Hello. Good to see you, Commissioner. Last time I saw you was in a different role, but it is great to see you here. So really quickly, just going into who at DOC was appointed as the chief savings officer. Okay, perfect. And I know the reports were due last Friday, so we are looking forward to seeing those. Were there any areas, if you can share at all, of underspending at DOC, and what effects would reductions have on the agency, and what areas and services would be most affected?
+
+[**(01:44:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6259s)
+
+
+
+Those savings proposals are still being assessed by both OMB and City Hall. But the areas that we really focused on were cost deferrals, insourcing wherever possible, contractual efficiencies where we could find them, any sorts of vendor negotiations if applicable and very targeted cancellations. But one thing that we made very clear is that we did not want to cut costs at the expense of the safety and security of not just individuals in our care and custody but also our uniform members of service.
+
+[**(01:44:56)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6296s)
+
+
+
+Totally agreed. Because that is one thing that on the Council side we definitely do not want to see, as well as the sacrifice in services. So thank you for that. And then the number of contracts I see here remain flat. There were some slight increases in contractual services. I am guessing that is due mostly to an increase in costs. Could you speak to that a little bit?
+
+[**(01:45:29)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6329s)
+
+
+
+>> Totally agreed. Um because that's one thing that on the council side we definitely don't want to see as well as the sacrifice in the services. So thank you for that. Um and then the number of contracts I see here remain flat. There were some slight increases in contractual services. I'm guessing uh is that due mostly to um increase in costs or if you could speak to that a little bit.
+
+[**(01:45:51)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6351s)
+
+
+
+>> Predominantly yes. It was due to increases in costs and, as we mentioned earlier, not just the safety but also ensuring that the island is safe and the conditions on the island are in a state of good repair. So it is mostly facility maintenance and repair.
+
+[**(01:46:10)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6370s)
+
+
+
+>> Okay. Yeah, because the maintenance and repair went up quite a bit and contractual went up slightly. So, okay. And then in terms of the vacancy rate for headcount, I know that as of January it was about 11%. So how has that been going? Are you still subject to the two-for-one? And do you anticipate... I know you were speaking about it a little bit as I walked in. So just wondering if you could go into that a little.
+
+[**(01:46:33)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6393s)
+
+
+
+>> When you say vacancy rate at 11%, I am guessing you mean civilian vacancy rate.
+
+[**(01:46:37)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6397s)
+
+
+
+>> Uh...
+
+[**(01:46:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6398s)
+
+
+
+>> ...for the headcount. >> For the headcount.
+
+[**(01:46:39)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6399s)
+
+
+
+>> Yeah. The civilian vacancy rate
+
+[**(01:46:42)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6402s)
+
+
+
+has been approximately 12% and it has been
+
+[**(01:46:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6404s)
+
+
+
+>> okay >> it has been steady for the last two or
+
+[**(01:46:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6407s)
+
+
+
+three years, but the department-wide vacancy rate is 18% overall.
+
+[**(01:46:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6414s)
+
+
+
+>> Eighteen, okay.
+
+[**(01:46:56)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6416s)
+
+
+
+So the full-time positions that are
+
+[**(01:46:58)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6418s)
+
+
+
+budgeted, the 1,746, is that
+
+[**(01:47:00)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6420s)
+
+
+
+including both? >> About 1,700. No, that is just
+
+[**(01:47:10)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6430s)
+
+
+
+civilians. >> Okay, just civilians. Okay, perfect.
+
+[**(01:47:12)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6432s)
+
+
+
+Thank you for clarifying that. And then has the DOC applied for the Comptroller's Directive 10 waiver for any capital projects in the last year?
+
+[**(01:47:23)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6443s)
+
+
+
+>> So I alluded to this earlier,
+
+[**(01:47:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6446s)
+
+
+
+right? Directive 10 waivers are only required in the case that DCAS cannot certify a project. So, as of last fiscal year, the only project that applied was one perimeter fencing project. It was for security and safety. This is not something that DCAS certified. Therefore, we reached out to the Comptroller's office to obtain a waiver. That waiver was denied.
+
+[**(01:47:51)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6471s)
+
+
+
+>> It was what?
+
+[**(01:47:51)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6471s)
+
+
+
+>> It was denied.
+
+[**(01:47:52)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6472s)
+
+
+
+>> Oh, okay. Did they have a reason?
+
+[**(01:47:55)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6475s)
+
+
+
+>> They said they do not wave Directive 10 requirements. >> Okay. So that was one of the costs that was deferred over to the expense budget instead.
+
+[**(01:48:06)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6486s)
+
+
+
+>> Got it. Okay. And then I see in
+
+[**(01:48:09)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6489s)
+
+
+
+terms of new needs, it went down significantly. So in FY26 it was 187 million and then in FY27 it is only 4.3 million.
+
+[**(01:48:18)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6498s)
+
+
+
+Is it because you have not included some of the funds that are going to be added at adoption, or what is the reasoning for the decrease? >> I am sorry. Can you clarify what
+
+[**(01:48:30)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6510s)
+
+
+
+numbers you are looking at specifically?
+
+[**(01:48:32)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6512s)
+
+
+
+>> Yeah. In the preliminary plan changes for new needs, in FY26 it was 187 million and then in FY27 it is at 4.3 million,
+
+[**(01:48:40)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6520s)
+
+
+
+which is a pretty significant drop. So I was just wondering, because I am assuming that does not mean that you have everything you need. >> Well, we work very closely with our OMB
+
+[**(01:48:51)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6531s)
+
+
+
+partners to ensure that our needs are met. Obviously they have a very difficult job of balancing the City's budget. So
+
+[**(01:49:00)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6540s)
+
+
+
+although we are in communications,
+
+[**(01:49:02)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6542s)
+
+
+
+sometimes needs are deferred. This is just the first plan cycle and in subsequent plan cycles those needs will be reassessed and re-addressed.
+
+[**(01:49:13)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6553s)
+
+
+
+>> Right. So I guess my question is, are we going to see an increase in that in the exec and adoption?
+
+[**(01:49:18)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6558s)
+
+
+
+>> We are still assessing. We cannot
+
+[**(01:49:20)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6560s)
+
+
+
+>> Okay. Yeah.
+
+[**(01:49:21)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6561s)
+
+
+
+>> Okay. Perfect. Thank you. Thank you, Chair.
+
+[**(01:49:24)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6564s)
+
+
+
+Thank you, Chair. Next we will have CM Cabán, followed by CM Narcisse.
+
+[**(01:49:30)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6570s)
+
+
+
+>> Thank you. Thanks for being here today. I want to start off with some numbers. How many uniform officers are currently included in DOC's preliminary budget?
+
+[**(01:49:45)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6585s)
+
+
+
+>> Approximately 5,600. >> Okay. And of those, how many officers are assigned to posts in housing units versus posts that require little or no contact with the incarcerated population? >> I would ask the chief of the department
+
+[**(01:50:02)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6602s)
+
+
+
+to answer that.
+
+[**(01:50:07)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6607s)
+
+
+
+>> Good morning. Chief of department. Can you please repeat the question? >> Yes. How many officers are assigned to
+
+[**(01:50:14)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6614s)
+
+
+
+posts in housing units versus how many officers are assigned to posts that require little to no contact with the incarcerated population?
+
+[**(01:50:24)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6624s)
+
+
+
+>> Well, that is a kind of difficult question and I will tell you why. It is because we calculate staffing needs per facility per area. So on an average day we would need approximately 2,900 posts.
+
+[**(01:50:40)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6640s)
+
+
+
+>> So on that post, we would need approximately 3,800 members of service per day,
+
+[**(01:50:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6647s)
+
+
+
+>> right? But at the breakdowns of the post, right, some people are posted in the bubble, some people are posted directly on the floor in a housing unit, some people are posted elsewhere.
+
+[**(01:50:56)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6656s)
+
+
+
+So I just want the breakdown of who is posted in a housing unit versus who is posted in a different kind of position that does not require much contact with the incarcerated population.
+
+[**(01:51:11)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6671s)
+
+
+
+>> So 3,800 people plus are inside our
+
+[**(01:51:15)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6675s)
+
+
+
+facilities, which includes our court system as well as a hospital prison ward in our facilities. Outside of that, I would have to give you the count for the headquarters count and I do not have that with me.
+
+[**(01:51:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6686s)
+
+
+
+>> So could you follow up with a breakdown of that? That would be great. And then how many officers are working on therapeutic and re-entry programming for incarcerated folks? And how many civilians are working on therapeutic and re-entry programming for incarcerated folks?
+
+[**(01:51:46)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6706s)
+
+
+
+>> DC Cologne can give you the programming breakdown. >> Thank you.
+
+[**(01:51:51)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6711s)
+
+
+
+Hello. So the division of programs has about 220 active non-uniform staff members that are providing programs and services to people in custody. We have approximately 30 officers that are assigned to headquarters programs, but what that means is that they support programs like educational services and horticultural services. So they are actually working directly with people who are in custody and in our care. They are not just sitting somewhere else not working with people in custody. They are just in specialized units that are not necessarily assigned to the literal jails. Now, within the jails, there are about 117 uniformed members of service who are assigned to provide services like escorting people in custody to a chapel or to a mosque for religious services, or who are on a post like law library, providing notary services and also working directly with our legal coordinators in our law libraries.
+
+[**(01:52:52)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=6772s)
+
+
+
+Okay. So you include folks who are doing moving people from one area to another as being a uniform officer that is working on the programming. Is there a way to separate that out? Basically what I am interested in is the active provision of the service or program. How many uniformed folks are providing that with the person, not moving them from place to place? And how many are civilians? You answered the civilian questions, but I am curious if we can get a little bit more granular with the uniformed number.
+
+Yeah, it is a little hard to say and I will say it this way. I think we can foundationally say that the 30 officers who are assigned directly to my purview are absolutely supporting the rehabilitative services and programs with people in custody. The 117 I would have to come back and break down because it does get complicated. That is where it gets complicated because I would say one of our law library officers, they are providing notary services to people in custody. They are working with people in custody directly to help them navigate the kiosks alongside our legal coordinators but they are also escorting.
+
+Got it. Thank you. Can... how many officers and civilians are assigned to facilities that are not currently housing any incarcerated people? I am assuming that is back this way.
+
+One moment, please.
+
+Sure. Are you referring to AMKC, that is only dealing with...
+
+I am referring to any facility. So AMKC or otherwise where there currently are not incarcerated people housed. I want to know how many uniformed officers there are in those facilities and how many civilians are assigned to those facilities. And then I would like to know why are staff being assigned to those facilities? What is happening there? Well, AMKC has roughly 50 uniform people assigned and that is our production kitchen at AMKC. Then you have the correction of injury division with about seven people assigned including a captain that deals with our sheets and blankets and other linen that is required for our people in custody to have.
+
+Anybody else?
+
+I am sorry. Do we have the answer for the Council member? No, she is answering the question.
+
+Okay.
+
+I am just wondering... so you said the kitchen staff for food production and laundry services. Is anybody else working in those facilities where people are not being housed?
+
+Yes. Then you have our correction intelligence bureau, which will have approximately about 40 people assigned there. They do our correction intelligence bureau. They give us information concerning our persons in custody and they work with our persons in custody, but there is no person in custody inside the office with them.
+
+Got it. Thank you. Thank you, Chair.
+
+Thank you. Next, we will hear from CM Narcisse, followed by CM Restler.
+
+Thank you, Chair, and thank you, Commissioner, and thank you for coming with all your leadership to help us out. I realize that you have a bold vision for Rikers and making sure that people are in rehabilitation and have a chance to go back to life, and that is very pleasing to my ears. Being a re-entry nurse, I am going to go to my youth. How is the department addressing the needs of the youngest and oldest people in custody? The needs of 18 to 25 year olds are very different from the needs of those 60 and up. What type of accommodation is being provided for them and what training is provided to officers to address the needs of older adults and recognize signs of aging, dementia, limitations on activities and daily living?
+
+Well, thank you for your question and thank you for your service. I would ask DC Cologne to respond to that question.
+
+Thank you. Again, Nell Cologne. So I am going to start with working with our youngest folks who are in custody, which are 18 to 21, our emerging adult population. We have a variety of strategies that do support the emerging adult population. We also have training specifically dedicated to working with an emerging adult population in our correctional custody. That training is actually something that was developed in collaboration with the Nunez monitoring team and is deployed specifically associated with our action plan for the emerging adult population, really discussing what it means for social development, what it means for cognitive development, where somebody might be if they have experienced trauma and they are a young person and they are in our custody. That training series is really to support officers and non-uniform staff with working with young people.
+
+With that though, some of our strategies include ensuring that they have access to school. It also ensures that people have access to a variety of different vocational programs, both certificates and certifications. It ensures that people have access to counseling and soft-skill programs, and that they are working with nonprofit providers, not just DOC internal staff, that specialize in supporting an emerging adult population.
+
+Now, when it moves on to our elder population in our custody, and I use that word "elder" because some may not even coin some of the people as elder who we categorize into this group, but with our elder population, we do partner with the Osborne Association. They have what is called the elder re-entry initiative and they have staff who specifically come and work in some of our cohorted housing units that do happen to house most of our people who are 55 plus. That is why I use "elder" as a loose term in that sense. They are providing them with targeted re-entry support including social services and referrals for when they leave and go back to the community, housing referrals as well, and they are providing them with a variety of different groups and programs that are specific to what their needs are.
+
+That being said, as for training for uniform staff on working with people who are 55 plus or how we have cohorted them, we currently do not have, that I am aware of, a training under the branch of the division of programs or that we are supporting with the Osborne Association, but we will take that feedback and look into it. Thank you.
+
+Thank you. I appreciate that. New York City DOC remains under the federal Nunez consent decree stemming from findings of excessive and unconstitutional use of force in city jails. The most recent monitor report in January 2026 highlights persistent compliance challenges, including gaps in accountability, supervision, and the department's ability to proactively identify high-risk staff behavior. The report also flags the need for stronger early intervention capabilities and improved use of data to drive reform. What specific investments in FY26 are directly tied to achieving compliance under the Nunez consent decree and has the department evaluated the use of predictive early intervention or analytics tools to support those outcomes? Two, why does the current capital plan include minimal investment in data systems and early intervention technology despite ongoing compliance challenges? And is the department considering proven solutions used in other consent decree jurisdictions?
+
+Thank you. Thank you for that question. I will start the response and then turn it over to GC Conway.
+
+Okay. This administration, the mayor and this new leadership team is absolutely focused on the safety of our jails, the safety of our staff, and the safety of the people in our care. What we have had for decades is a system where hurt people hurt people. It is a system that has perpetuated the trauma of our staff and it is a system that has perpetuated the trauma of the people in our care. My charge and my focus is making sure that we create a system that supports those members of service who work in the department and the people in our care. There are a number of strategies that we will be laying out to do that. Using data is one. Making sure we are training and supporting staff. Making sure that people in our care have something to hold on to instead of something that increases the likelihood of fights. So there are a number of things that we are doing and my first deputy commissioner and I and this leadership team are going to be focusing on the things necessary not only to come into compliance with Nunez. That is the legal agreement we have. We can do better than that and we will do better than that. I will turn it over to GC Conway to talk more specifically.
+
+I think the commissioner answered pretty robustly there, but I would also add that we do have ongoing and consistent conversations with the monitor about implementing such things. One of the things that they have been very consistent on is the more robust use of an early intervention system. I have discussed that with the commissioner though I would not say at the moment we have contemplated or looked into technology in the sense that you did, but it is certainly something that we would consider and look into. I think we have had some recent restructuring and I think we will continue to look into what we contemplate for the early intervention.
+
+I do think when you asked about other jurisdictions and consent decrees, the onboarding of the remediation manager presents a unique opportunity here because you not only have the monitor but now the remediation manager and the commissioner. So you are talking about at least two new entities into the system to bring new ideas and more robust thoughts into what we could implement and how we will do so. I anticipate you will see some changes by the end of this next year.
+
+Do not forget the staffing because they complain a lot about the hours and I am so happy you said you are going to work on that and I appreciate your bold vision. Thank you, Chair, and thank you.
+
+Thank you. Next we will hear from CM Brewer followed by CM Morano.
+
+Thank you very much. I heard that the women at Rosie's had a great time with you and were very pleased that you were able to explain to them that they could be like you in the future. So I heard from many sources, you can probably figure them out. Bellevue, what is the status and how long will it take? I know you need CO officers. I did not know the cost for that and I was just wondering the update on the timing, having been there a couple of times and seen nice space and nobody there.
+
+I am actually scheduled to go there tomorrow. Bellevue is a priority for us. The Bellevue outposted beds is a priority. The borough-based jails is a priority. So we are working with this administration and our partners at Correctional Health Services to make sure that we open up those beds. Those beds have been on the runway for far too long.
+
+I am aware.
+
+Far too long.
+
+So what is the timing though, do you think? Because CO officers are needed and you may not have enough and I think I know the backstory but how are we going to solve it?
+
+I am working with my leadership team. I am working with this administration to make sure that we open it as quickly as possible. What I have asked my leadership team is to help me get to yes. We face challenges on staffing. We face challenges in multiple aspects of our work. I believe we can get to yes.
+
+Okay. And I am working with City Hall to do that.
+
+All right. I trust you. Others have said the same thing and nothing happened, but we trust you. Just so you know, I have been through all of it. Can you walk through the number of people and their roles under the executive director of visiting operations? I think a while ago you said, not you, but DOC said that you put in for 12 people. What is going on with the individuals working in this area? And are you planning to prioritize filling out this team? Because I think visiting is important. We have talked about this in the past.
+
+Absolutely. Visiting is important. I will turn it over to DC Boyd in a minute, but let me say visiting is extremely important to me. I was on the visit work group with Tanya Corrupt from Osborne Association. I remember my time on the island when my father came to visit me. He came one time and I asked him never to come back again. All the way from the Bronx. It took him all day to come visit me for one hour. I did not believe that that was fair. He did nothing, but yet he paid the price to come see me. So visiting for me is a personal commitment to make sure that the people in our care get access to their visitors, looking at how the process works so people that come feel valued and that they can see their loved ones. We are going to do what we need to do to make sure that that is a reality for every visitor.
+
+As you know, in my previous role as head of oversight investigation, we did a study on this topic. So we do know that it is challenging, but we would love to have it improved. Go ahead.
+
+Hi, Council member.
+
+Hello, Mr. James Boyd.
+
+So the executive director for visit operations has started. She is knee-deep in this work and assessing the work. We are trying to assess internally how we can probably self-fund the new needs for staffing. She is on site. She is doing the work. We do appreciate the report that you released and just want you to know that we have accepted some of those recommendations including the benches and putting up additional signage. The glass is half full and so there is more to do there.
+
+We are also creating dashboards and reports to help us measure the success. We cannot expect to improve anything if we are not measuring it. What we have seen over the last couple of months is a reduction, a modest reduction in wait times. These reports keep us honest internally, make sure that we are opening on time and make sure we are moving people through the process. What we have seen over the last couple of months is that any delays in opening visits reduced from an hour and a half to now just a couple of minutes. So we are doing our part by creating some really significant dashboards led by our operations research team, but we are also excited that there is more work we can do and that we will do and this executive director is going to lead that effort.
+
+So is she going to have a staff of 12 people or has it not been built out yet? What is the staff?
+
+It has not been built out yet. I think that will be her initial staffing levels. As we anticipate onboarding or implementing an online visiting scheduling system for family visits, she is definitely going to need those resources, but I think those 12 people will be a starting point because I think the overall arching goal is to consolidate a lot of the visit operations under this executive director.
+
+Okay, I appreciate that. One other question is just buses to court. We also did a study on that and I wanted to know just in terms of getting people there on time. Do you have an evaluation as to whether that happens? It is really important as we all know to get to court. So what is the status, if there is any improvement or not, and just the cost of doing that?
+
+Of course, we... I do not know the cost specifically, Council member, but we are very happy to say that our court productions are at 99%. It is something that we take and have taken very seriously to move these cases forward. That is our number. I do not have a cost breakdown for that but that is something if you would like we could follow up with.
+
+Okay. I remember we heard 99% in the past but it does not necessarily match with the folks' experience because 99% is what kind of denominator? In other words, every single person... 99% of the people who have a court date get there on time. I do not know what the 99% is based on.
+
+That is anyone who has a scheduled court production, a court appearance. 99% of the people that have that court appearance are brought to their court appearance.
+
+Okay. And you...
+
+Thank you.
+
+Go ahead. I am sorry.
+
+No, I was going to say sorry. If you want, I can put you on the next...
+
+Second round. Thank you.
+
+Thank you. All right. Next, we will hear from CM Morano, followed by CM Restler.
+
+Thank you, Chair. Thank you, Commissioner, for your testimony. Obviously a lot of folks have highlighted what we are seeing in terms of staffing and we are hearing that headcount is down significantly, by some estimates as much as 40%. Can you walk us through your concrete plan to rebuild staffing levels and whether officers are still being required to work extended or triple shifts even if only for short periods?
+
+Yeah, thank you for that question. I think recruitment starts with safety. I think the reputation that the department has over decades has really deterred people from thinking about corrections as a career. Part of what we need to do is focus on safety. The second part we need to do is really develop recruitment strategies and retention strategies. As I said in my testimony, 800 people are eligible for retirement today. So one of the things we always ask is how do we get people to stay, when we ought to be asking those 800 people what is keeping you here and we ought to be doing more of that. Being able to focus on retention, because about 88% of the people who are eligible for retirement retire, so how can we keep those folks and how do we recruit so that we can have adequate staffing? I think it starts with safety and it starts with making sure that our officers feel heard and valued and appreciated. As I said, we have a system that has for far too long isolated, demonized and traumatized everybody involved in that system.
+
+With facilities operating around 92% capacity and ongoing staffing shortages, are we currently operating at a level that you would consider safe both for officers and detainees?
+
+Absolutely. That is why, as I said in my testimony, population reduction is really important. Working with the City Council and our alternatives to incarceration providers, working with our OCA, working with district attorneys and judges. As I said, we do not control who comes in, but we can do our part to make sure people are connected to services so that they do not come back. Population reduction is a key to that particular strategy and we are going to be doing that.
+
+With punitive segregation largely eliminated, what tools do you have to manage individuals who assault correction officers or other detainees? And how do you ensure safety after those incidents occur?
+
+Well, we put out a 45-day plan to come into compliance with Local Law 42. That planning and work is underway. It will be over some time, but it is underway. I think the way that we hold people accountable is with the tools that we have. If someone assaults the staff or someone assaults someone in our care, we go through the courts. That results in an arrest, that results in the prosecution and process of getting that case adjudicated. We need to separate people from that particular incident and we are coming up with strategies of how to do that so that people are held accountable, our staff are safe and people in our care are safe.
+
+The borough-based jail system is designed for roughly 4,500 beds while current population levels are significantly higher. How do we responsibly get from today's numbers to that level without compromising public safety? And what happens if the population exceeds capacity?
+
+Well, I think what we have to do is work in partnership. This is, as I said in my testimony, not a DOC issue. This is a New York City issue. As Mayor Mamdani has often said, his strategy is to use all of government. It is going to take all of government to make sure that we safely reduce our population and prepare for the borough-based jails. Our task as a leadership team is to prepare for that transition, to work with our partners to increase the use of supervised release where that is appropriate, to use ATI diversion where that is appropriate, to use the powers invested in me as commissioner on 6A as appropriate, and to work with our court administrators to make sure cases are getting adjudicated in a timely fashion. All of those are part of the strategies we need to do to bring down population. So it is not a DOC issue, it is an all-of-us issue, and I look forward to that partnership.
+
+Thanks very much.
+
+Perfect timing. Next, we will hear from CM Restler, followed by CM Salaam.
+
+Thank you so much, Chair Brooks-Powers. And oh, I hope that was not me. Congratulations, Commissioner. It is good
+
+[**(02:15:33)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=8133s)
+
+
+
+Thrilled to have you before us. It feels like just a breath of fresh air and a new day for the Department of Correction. Really excited for your leadership and the change that you are going to help usher in. It is urgently needed, as you know better than all. I want to congratulate First Deputy Commissioner Egan. I have heard great things about you, so I look forward to working with the whole team.
+
+A few things I just wanted to focus on. I would like to build on a little bit of what CM Morano was asking, but before I do, just want to check in on the therapeutic outpost units. This has been a big priority of mine for about seven years. Bellevue was supposed to open in 2022. It is 2026. Gale already asked about Bellevue. Did you ask about North Central Bronx and Woodhull as well? All right, so Bellevue was answered. I will go to Gale for the updates there. North Central Bronx and Woodhull were supposed to be under construction already. They are not. DOC's predecessors were entirely uncooperative on this and, despite these being fully funded projects, did absolutely nothing to move things forward. So what is the status on these projects? I am sure they are priorities of yours. I want to understand how they are going to get done.
+
+Thank you for that, Council Member, and good to see you truly. It is a priority for this administration and it is a priority for this leadership team. To bring those beds online is an important component to population reduction, safety and making sure people are in the right place to get the care that they need and not in our facilities being detained. So it is a priority. I cannot give you a specific date as to when, but I can tell you it is absolutely a priority for the mayoral administration and for my administration to bring those beds online. We are working with our correctional health partners to make sure that that happens as quickly as possible.
+
+Brilliant. What I would ask is that by the time you come back to us for exec, we do have a timeline, so that when we have this conversation again in 45 to 60 days we do have a clear path forward. I understand that you have only been there a few weeks and it is hard to figure it all out in real time, but this is a main priority and these are fully funded projects. We are excited to have a DOC that is cooperative and supportive of these efforts.
+
+I would like to go back to CM Morano's questions on population reduction. You have a deep expertise in this topic and understand well that this is not narrowly in the purview of the Department of Correction, but it is a city-wide challenge. We need to work with state stakeholders, providers and the Council as well. Can you speak to how you are planning to approach your 6A authority and what opportunities there are to reduce the city sentence population? My quick review of the data was that when Mayor Adams took office in January of 2022, just 3% of the population was city sentenced. Today it is closer to 8%. Do you think there is an opportunity for us to significantly reduce the city sentenced population? And then secondly, what are the investments that you think we should be prioritizing as a city to further reduce the population in supervised release and other ATI and ATD programs? What are the things that you think are the most important priorities for us as we move forward on this budget?
+
+Again, thank you for that question. I think the use of 6A is a tool, but the reality of it is we have 6,700 people. I think we have a little bit over 500 people who are city sentenced in our system. We do have a process in place where everybody who comes into the system is screened. The First Deputy Commissioner and I have looked at that process and we are assessing what we could do to create not one-off strategies but a systemic strategy that really allows us to reduce the population based on 6A and create a system that is sustainable. What I think the city could do for investments: if you look at who is in our system, I think we need to support alternatives to incarceration, supervised release, case processing where appropriate and, most importantly, access to drug treatment and housing. When I was at Fortune, 25% of the people who came through our door were unstably housed. Fortune has been growing housing in response to that urgent need. When people leave our system and end up in the shelter and end up on the street, they tend to end up back in our system. We need to make the appropriate investments at those touch points to make sure people have a place to land.
+
+And they have hope that life could be different for them, because people tend to learn how to live the life that they have always lived until someone breathes life into them. We as a city have an opportunity to breathe life into people when they leave our system.
+
+I could not agree with you more strongly. I think that for us to achieve the population reduction that is necessary for the borough-based jail plan to be successful, it is going to require those investments. One of the real failures or shortcomings of the original borough-based jail plan was that it mandated a series of investments for one year and that is just not enough. We have to sustain it. There were a lot of really smart investments and initiatives in population reduction, in supervised release, in ATI and ATDs, in justice-involved supportive housing and in the treatment that people need. It laid out the roadmap but for one year, and we need your help and expertise and leadership to develop that plan with the City Council for what are the investments we need in this budget and in the next series of budgets to sustain and achieve that population reduction so that we can shrink the population, achieve the borough-based jail plan and have a safer jail system for all.
+
+I am really looking forward to working with you. Next time I am going to be asking more about culture change, because I feel like we have leadership at the agency now that is thinking about how a new DOC houses and staffs the borough-based jails to ensure that we do not replicate the problems on Rikers Island in our communities. So thank you and really excited to work together. Thank you, Chair.
+
+Thank you, Council Member. Next we will hear from CM Salaam followed by CM Brewer.
+
+Thank you and good afternoon. Glad to hear the testimony and all of the great things that the department is planning for this population of people. I want to start off with the state-ready population overgrowth and fiscal impact. Due to New York State Department of Correction staffing shortages, state-ready individuals in DOC custody increased from 103 to 622. It costs approximately $400,000 a year to incarcerate someone on Rikers Island, yet the City has not received reimbursements. What is the total cost of housing state-ready individuals? And has the City pursued reimbursement from the state?
+
+I can have our General Counsel respond to that. We have had, as you indicated, a major problem, but I am really happy to report that our state partners have been working in collaboration with the department to make sure that the people who are state-ready are going upstate. Our number currently stands a little lower than a hundred people state-ready. I watch that every single day on my census report and I am seeing movement where the state is taking people out of our jurisdiction, which is a good thing. I will turn it over to the General Counsel.
+
+To echo what the Commissioner said, we are happy that the cadence of transfers is what it was pre-strike. We work with our partners upstate on a number of these things to make sure that we do not have a backlog like we did, because our population increased by about 20%. I will ask our Assistant Commissioner of Finance to answer your question regarding the cost and the recouping of funds.
+
+Thank you for the question. I am happy to say that we do receive reimbursement from the state on a quarterly basis for all of the state-ready individuals who are in our care for more than 10 days. So every quarter we correspond with the state, the state sends us a list and then we do get reimbursed for those. Those reimbursements happen on the PS side.
+
+Okay, moving to borough-based jails capital cost overrun. The borough-based jails project was originally estimated at 8 billion and is now projected at over 11.47 billion, a 406% cost increase. What is driving these cost increases and is there risk of further delays or overrun?
+
+I can tell you that the mayoral administration and this department is committed to opening the borough-based jails and closing Rikers Island. As I said in my testimony and in response to questions asked earlier, the infrastructure on Rikers Island is not conducive to the health and safety of our staff and those who are in our care. The cost increase, I think, is a natural response to the increase in the cost of living and the increase in the cost of materials. When it takes as long as it has taken the City to build the borough-based jails, you are going to have costs increase. So I believe that those cost increases and projections are based on increases in materials.
+
+And regarding the mental health population growth: given chronic understaffing, how is DOC providing adequate mental health care and reducing the population of incarcerated persons with mental illness? This is where we work very closely with our partners, correctional health services, to make sure that people get access to those services and make sure that they are appropriately cared for. I am thrilled to be working with Patsy Yang and her team, who care deeply about the mental health and health care of those in our care. We work with our partners to make sure that happens.
+
+And lastly, violence in custody escalation. While the first four months of fiscal year 26 has shown a 14% decrease in violence, the 10-year trend is alarming. What structural changes in staffing, training and facility operations is DOC implementing to reverse this decade-long trend? And given the ongoing violence and security challenges on Rikers Island, how can DOC reduce security staffing while maintaining safe operations?
+
+As I said earlier, I think it is a number of strategies: population reduction, recruitment, making sure that we have adequate staffing to cover the increase in population, making sure programs are embedded in our day-to-day operations. We have our new providers and our providers coming back to help make sure people are connected to services. It is about creating a model that creates safety for officers and safety for the people in our care. That means giving people something to hold on to. We need to express the value and concern we have for our officers and we need to do the same thing for the people in our care. I use this analogy: a rising tide lifts all boats. This is a moment where we need to make sure the tide is rising so that officers feel valued and safe and the people in our care are safe and connected to services so that they do not come back. So it is not a quick fix. It is not one strategy. It is multiple strategies. And as Mayor Mamdani always says, using all of government to fix it. Thank you.
+
+Thank you. CM Brewer.
+
+Thank you very much, Chair. So the cell doors — I understood it was 38 million total. It seems to me that is such a priority. I was able once, with some Chromebooks I think it was at DOE, to go around district directive 10. You have to figure out a way to go around that. What are you doing? I do not understand this. This is like a crisis.
+
+To capital would be much easier than trying to get the...
+
+It is a priority. It is a priority of the mayoral administration and it is a priority of this administration. We appreciate working with our partners at OMB to put some baseline funding in to fix the doors.
+
+But that is a...
+
+But it is an ongoing conversation with this administration. I am specifically...
+
+But you are this administration.
+
+And I am saying the mayoral administration that I am working with to make sure that the doors are a priority.
+
+Okay. But I hope that maybe with this committee and all of us we could push to have this become capital, because you are never going to get it with the expense. Is it 38 million? Is that the general number for the cell doors to be fixed? That is the number I have heard.
+
+It is... I do not want to misspeak, so we are going to have to get back to you with the exact number, but it is a big number.
+
+It is a big number. Okay. Number two, quickly: food. James Boyd knows I am interested in food. We met with the wonderful staff and we also learned that it is possible to do more in terms of buying from the farmers — farm to table or something. I will take that. I do not care. But the issue is, I assume that it could be the same cost. We need small potatoes, not large ones. I have the whole list. What are we doing? I do not think it is a cost factor. I think it is a policy factor to improve fresh fruits and vegetables at Rikers, because it helps people's mental health too.
+
+All right, Council Member. We can follow up. We actually have a new leader overseeing our nutritional services division and we can follow up with an update on that.
+
+Okay. A little salt would be nice. Just a little. Then just finally, really quickly: programming. I know you talked a lot about it. I know, Commissioner, you have lots of great ideas, but is there enough funding — without getting into the specifics that some of the questions alluded to — to do more programming so that people have something to look forward to internally and then outside? Programming has to be more. When I go there I do see a lot of people not in a program.
+
+Well, I am thankful that we have the providers coming back in and they will be providing services throughout the department. But as we move forward and we continue to build out the plan of the future, we will be assessing what else we need. Our bottom line in terms of moving to the borough-based jail and reducing population: what we can do while people are in our care is make sure people have access to services. Not only does it provide hope and possibility for people, it provides people continuity. So when they leave us — as everyone will leave us, one way or another, either to the community or to the state or some other way — they will be leaving us. We have control over when they leave and how they leave and where they leave to.
+
+Okay. So you will work to see the funding and the appropriateness of programming and a more robust... then I am supportive of borough-based jails. I took a lot of heat. I supported the one in Manhattan as Borough President. My issue though is it does not have a big kitchen — I assume you know that — and it does not have a lot of outdoor space. Are you thinking about that in your planning?
+
+Well, I was also on the original design team, and so we came up with design principles about light, movement and access, and using design not as a strategy for safety but using a design that is centered on the humanity of those who are in our care and those staff. You know, you visited Rikers. There is nothing about those facilities that tells staff that they are valued or appreciated. Nothing that tells the people in our care that... What we hope with the borough-based jails system is that we can use those design principles to make sure that the people in those facilities feel valued.
+
+Okay. Just make sure the kitchen is big enough in Manhattan, just so you know. And I do not know how you are going to deal with outdoor space. You are thinking about that?
+
+Well, I need to get briefed by DDC on...
+
+I can tell you those are two issues. So please check up. Thank you very much.
+
+And salt.
+
+And salt. Even though salt is not too healthy...
+
+A little bit of garlic powder. You can get creative with some seasoning. You do not need salt to season all the time.
+
+Okay, let us get back into it. I am going to pick up with my line of questioning starting with case processing. Local Law 138 of 2025 requires the department to install technology to allow incarcerated people to review the evidence against them. The department has previously testified that it was contracting with a program called Lightning Law to do this, which would be installed on tablets. $1 million was baselined for this program in fiscal year 26. What is the status of Lightning Law installation and compliance with the law?
+
+We are in the very final stages of dealing with technological and legal issues with Lightning Law. I anticipate very, very soon... Lightning Law's staff has come into our facilities to start to train our staff on its usage. So we are at the finish line on that and I anticipate it will be on the tablets in short order.
+
+Perfect. Thank you for that. Is the $1 million in funding still included in the budget? And if so, under what budget line?
+
+It is currently included in the budget. In terms of the budget line, it is under our IT division. That is where it rests.
+
+Okay. Thank you for that. Video meetings and video court appearances play a critical role in moving people's cases forward and figuring out a re-entry plan that works. When people do not make scheduled calls, that prolongs their time in Rikers. Per the preliminary Mayor's Management Report, the department gets 89% of people to video court appearances as opposed to 99% who get to in-person court appearances. The latter is a great statistic. How often does the department produce people on time for video appointments with attorneys?
+
+So I think there are two different things we are talking about here. We are talking about court productions. The 89% that we are talking about is under video productions. Recent changes to the criminal procedure law greatly expanded the types of hearings that could be done virtually. In light of that, we actually have a procurement out for an expansion of our video kiosks to accommodate that. So I anticipate that in the coming year, our goal and our anticipation is that we will have a much more robust production rate in the universe of 99% or higher, where we are on the physical productions. Also, separate from the attorney visits, which we are working on robustly to improve on scheduling and otherwise, the family visits productions are one of our highest utilized... it is on Fridays and what I understand to be a very good system with the family visits on that.
+
+I am curious if you could go a little deeper just to explain why going in front of a device is a lower percentage hit rate versus having to transport someone to court.
+
+My understanding — and we could follow up to confirm — comes down to two issues. One is the actual number of terminals we have, which is what I am talking about in the procurement that we are going to expand on. The second thing is just technical issues. What I understand is there are sometimes technical issues on both the court side and our side at times, which we have all experienced with Zoom or Teams meetings. So my understanding is that that is what accounts for it, but we could certainly follow up and confirm that my understanding is correct.
+
+Thank you for that. How often does the department produce people on time for video appointments for mental health service providers or re-entry related assessments?
+
+I am going to ask DC Boyd.
+
+I have to check to see, but I am not quite certain if we are tracking on that granular a level, but I am happy to follow up.
+
+Okay. Are you going to check now or are you going to get back to us?
+
+I can get back to you, ma'am.
+
+Okay. What are your plans to ensure people get to all the video appointments on time? How are you working through those kinks?
+
+As this process kind of evolves and the productions increase, it will be much easier if we do not have as many people going to court and then we have the video booths available, so we will be able to develop a system. I think right now what is happening is the court system is kind of...
+
+[**(02:38:34)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=9514s)
+
+
+
+an evolution transitioning from what is customarily in person to a video system. So again, as the staff become available and our kiosks become more abundantly available, we should see an improvement just by naturally making those productions easier.
+
+But that is also an opportunity for us to continue to assess, right? And this is where we say all of government: if we are seeing more and more people being invited to do the video court hearings, we need to increase our capacity. As the Deputy Commissioner said, making sure we have more terminals, making sure we have officers available to escort people to those terminals so that those cases can get heard. Yes, that was going to be actually my follow-up question. If you are seeing a growing need, is the budget going to reflect the need to invest more in that space to be able to facilitate that?
+
+How many... I am sorry, pivoting now to staffing and overtime. How many staff does the department employ or contract as bail facilitators?
+
+>> Bail facilitators. I am not sure.
+
+>> These professionals are statutorily required to meet with incarcerated people within 48 hours of admission to jail to help them post bail.
+
+>> I am not sure. I would have to follow up on that. I could not answer that question right now.
+
+>> So as a follow-up within this section, does funding for bail facilitators come from the department's budget? And are there any performance metrics you can share about how effective bail facilitators are at helping people post bail?
+
+>> We will get back to you on both.
+
+>> Thank you. The department has contracted to spend up to $800,000 with an outside firm to undertake a staffing analysis. The contract began in January 2026 and runs through June 2027. When was the last time before this that the department undertook a staffing analysis at Rikers?
+
+>> So we had engaged in 2025 with the state commission of correction to do a post analysis. It did take a considerable amount of time to go through one facility. I think under the previous administration, which has now moved into 2026, we undertook the vendor to do so. Thus far there have been very considerable and productive results at the outset. So we are really anxious and excited to see what the ultimate product of that is.
+
+>> And is each facility being analyzed separately?
+
+>> The entire department is being reviewed. Yes. Separately and collectively.
+
+>> And what is the sequence of that analysis and when will the analysis for each facility be ready?
+
+>> So I met with the consultant yesterday and she presented her preliminary analysis and framework. We are going to be meeting with Nick and his team when he is back. The consultant will be in town on April 13th, so we will meet. She will do a full briefing and lay out the timeline for the analysis.
+
+>> The consultant is out of state.
+
+>> Yes. So when you procured that contract, were there no New York-based firms to consider?
+
+>> I think this... I have to look into it. I do not know if this was a formal RFP, if this was put out for a specific expertise area, which I think might be the case. But again, that is a specific question we will have to follow up on. I do not think this was a formal request for proposal that was put out for bidders. So as you are looking into that, I would like to know what that process was to identify this entity and how that particular person was selected versus looking within the state. And also, it would be good to know if this is an MWBE contractor as well.
+
+>> We will get both those answers too.
+
+>> Thank you. As you know, captains play a critical role supervising and supporting the line staff day to day. How many captains does the department currently have?
+
+>> I am going to turn to the chief for that.
+
+>> Good afternoon. I am Sherry... I apologize, I do not recall the name again. The captains: we are allowed 703, but we only have 490, with a vacancy of 213.
+
+>> What is the plan of action to fill those vacancies?
+
+>> Well, first, because of our staffing challenges on the officer side, we are going to have to build that level up first, and then we will go into doing a promotion class for the captains. But first things first, we have to build the correction officer level up first before we can do that. Because if you do not, it will not level us off.
+
+>> Makes sense. Thank you for that. What is the ideal number of captains to operate the jail safely? I know you said what the goal is, but to operate it safely, what is that ideal number — that magic number — to operate it safely and properly? Or put another way, what is the ideal ratio of officers to captains?
+
+>> Right. So the ideal is to have the 700, because we are going to the Nunez remediation and you need supervision in order for our officers to be able to do their job properly and give them the level of supervision they need, the support and guidance they need, so that we can have a safe, healthy and secure facility. That is the goal. That is the number: 700.
+
+>> Do you — and I know you have to increase the number of actual officers in order to increase the number of captains — but is there a plan for fiscal 27 to do that and if so, is that included in the budget?
+
+>> Very good question. I think my commissioner wants to answer it.
+
+>> Yeah. The approved headcount is in the budget.
+
+>> Okay. And that takes into account the captains as well?
+
+>> Yes.
+
+>> Okay. How much has the department spent on overtime so far in fiscal 26?
+
+>> The department has spent approximately $240 million thus far.
+
+>> And what is the projection for spending by the end of fiscal 26?
+
+>> Approximately $370 million.
+
+>> How much is allocated to overtime among the various budget lines for fiscal 27 and how was the total number determined? And as you are looking for the number, I am just going to tell you my pet peeve around the overtime, because I feel like to get the balanced budget, we normally project lower and go over budget as a result instead of just being realistic in terms of what that need really looks like.
+
+>> Sure. You are absolutely right. So as of right now, for civilian staff members for fiscal year 27, we are at $7 million and for uniform members of service, we are at $158 million. But you are right, the budgetary needs are then addressed as the year goes on. So next year, whatever our overtime expenditures are, we will work closely with OMB to address those budgetary concerns to bring us back up, the same way that it happened this fiscal year.
+
+>> Well, with the number you just projected for fiscal year 27, when you look year to date at the current fiscal year and its expectations, or even fiscal 25, how is it trending and how are you creating that number?
+
+>> So we have a baseline budget, right? That baseline budget is just there, it exists. Then with each plan cycle that budget is adjusted. So in terms of how — I think your question is how is overtime changing...
+
+>> Well, I wanted to know, so when you project and you are requesting from OMB the amount you just said for fiscal 27, how did you come to that number? Are you looking at the previous fiscal years and how much was spent, projecting a need to increase it at all? For me, I know myself and some of my colleagues — and it is not just with corrections, it is also with PD and some of the other agencies that have to contend with overtime — it is important to really understand if these numbers are true, to have a true idea of what our budget looks like. Because otherwise we are doing these mods and these changes throughout the year to address a shortfall because we already knew that corrections normally spends X for overtime, but yet they put $2 million less in what they are requesting from OMB. I will let the AC answer how he got to the $158 million.
+
+>> What were the projections? I think there is a variable that we factor in and that is available to manage. If we fill positions, we reduce overtime. We reduce population, we reduce overtime. And so the strategy as a department is to try to fill those vacancies and recruit. And so that is the strategy. If we can fill those positions, we can begin to have promotional classes for captains. So it does not allow us to take from Peter to pay Paul.
+
+>> We can have those captain classes. We can reduce overtime.
+
+>> Now, Commissioner, I actually appreciate that answer because that is the most straightforward I have ever gotten on that. So I definitely appreciate that. But I then want to up you on that and ask: how aggressive do you go to make sure you are filling those positions, understanding that as a result that will bring down the overtime cost?
+
+>> Yes. I met with our communications team. We are going to be putting out a new communication strategy to try to attract people to take the exam. We have the exam — working with DCAS — coming up. We are looking at making sure that we are able to expedite people through our vetting and screening process. So I have a strategy that I am going to be talking with City Hall about. It is really about creating a different narrative for this department, both through our media and through the way that we operate, to attract people to the department.
+
+>> Yeah. I just want to make clear: the numbers that I gave you for next fiscal year are not a projection of overtime. It is just what is in our budget. There is a distinction to be made there. It is very difficult to project one year down the line what the overtime is going to be. There are way too many variables to take into account. So the best that we could do is look at our current vacancies and see what our facilities need and what that variance is. The truth of the matter is that our uniform members of service headcount has decreased substantially. At the same time, our average daily population has increased substantially. That creates a differential and in order to fill that differential we must fill it with overtime. That is the only operational lever that we have and that is our primary driving factor, or predictive factor, that we use to assess what the overtime will be by the end of the fiscal year.
+
+>> I appreciate that response. Thank you for that. In terms of the strategy, I do not know if you have it at corrections, but is there a referral mechanism also? I think about the correction officers who live in my district. Most of them roll up on me at Stop and Shop in Arverne. Just thinking, like, when you talk neighbor to neighbor and say, "Hey, I got this job at correction, great pension, 20 years in and out. Are you interested?" What is the benefit for them to do that?
+
+>> Yeah, that was something I was actually talking with the leadership team the other day about — creating those kinds of strategies. So everything is on the table. I think that is a wonderful strategy. When I was at Fortune, that was something we had. I went to the ADW's union meeting and one of the retired ADWs said to me, "My son was thinking about coming to the department, but because of the issues around safety, I told him not to come." And this department used to be a department that generations used to come to.
+
+It was their kids and their kids' kids. And so that is not the reality anymore. And that is why I say this system has just traumatized everybody in it. The officers do not feel like this is a place that they would want their family to work. They do not feel like this is a place they want to stay — as soon as they can get out, they want to get out. Because they do not feel safe and they do not feel valued. And the people who are put in our care do not feel valued and feel like the only way to survive is survival of the fittest. And so we have to change it. I believe that this is a moment — with this mayor and the leadership team that I am building at the department — to change that, to change the narrative of the department and the way that we work. And that is what I am committed to doing in partnership with all of you and all of our partners in the community.
+
+>> Well, you definitely have an open invite if you want to set up a table in a high-density area in the district or anywhere around the city. I know my colleagues...
+
+>> Just to add: we do have a recruitment team, and so if you are having job fairs or community fairs, we are happy to dispatch and deploy our teams there. We have been very aggressive on the recruitment front. As the commissioner mentioned, we do have an exam registration opening up April 1st. This is now the fourth exam we are opening in the fiscal year. So we are doing all that we can to promote the test and recruit people. We are also doing digital ads and social media ads. We are looking at our strategies on who is the face of some of these campaigns. One of the things we saw that was a big improvement was adding additional correction officers into the marketing materials so that there is representation and people can see themselves as a correction officer. This is a game changer for the department. As you just referenced, back in the day, 20 years ago, all of these jobs were word of mouth — tell a friend to tell a friend to tell an aunt, and that is how we came on the job. Now with technology, we have to leverage every channel. We welcome the opportunity for you to post things on your social media channels, as well as all of the Council members, to help us with those recruitment efforts. I think as the commissioner stated, it is going to take a whole-of-city-government approach to help us recruit officers.
+
+>> Thank you for that. I am going to now pivot to mental health. I know my colleagues asked some questions, so that took most of them off of the list for me. How many people currently in custody at Rikers have a serious mental illness?
+
+>> I am going to ask our AC to come up.
+
+>> Hi, good afternoon. Kathleen Zedzora, Assistant Commissioner of Health Affairs. So Correctional Health Services, who is responsible for the health and mental health care for people in custody, does not disclose specific mental health diagnoses to the department. So I would have to go by what I believe CHS most recently publicly stated, which is around 20% of individuals have a diagnosed serious mental illness.
+
+>> Thank you. And some of these questions are for CHS, so just let me know if you can answer them. If you cannot, we will follow up. In the past, CHS staff and correctional staff took a week-long crisis intervention training course side by side to prepare staff to work as teams in units for people with serious mental illness. The training was halted entirely for years after COVID hit. And when it restarted briefly, the department and CHS no longer trained together. We understand the training was then halted again for months for contracting reasons. Is that coordinated, cooperative training taking place today?
+
+>> Thank you for the question. So the crisis intervention team training is done by the academy now and the pause for a contract that you referenced — that has now rolled out and there are community providers that assist with the mental health instruction portion of that. We would have to get back to you with specific numbers as far as how many members of service have been trained in the new year.
+
+>> Thank you for that.
+
+>> I am sorry. I am going to take that question. So the CIT training and mental health first aid training: over a thousand members of service have taken that. The CIT training for anyone in the mental health observation unit: 135 members have taken that. The basic crisis management training: over 1,800 members have taken that. There is also other training that we provide outside of our crisis intervention, which is a one-time event, and then we have a refresher once a year. Then there is the mental health first aid — that is every three years and is a certification. After that there is the crisis management, which is a one-time event. And then we have the correction conflict resolution as well. That is part of the training that we are providing under the Bureau of Justice Assistance program grant. We work in conjunction with LaGuardia College during the crisis intervention training.
+
+>> Thank you for that. How long on average are people staying at Rikers after they have been found unfit by a judge before being transferred to a state hospital for treatment?
+
+>> We have about, on a rolling basis, between 180 and 200 individuals that are awaiting mental health beds. I do not know the specific length of stay. I will bring that back to our custody management team to get an assessment of that. But we are working closely with the state on that issue and there is litigation related to that that does not involve us directly. We do work with them to try to accelerate those timelines. But there are about 180 to 200 in our custody that are awaiting beds.
+
+>> And they are waiting for beds because... I am sorry. What results in the delay of them getting placed?
+
+>> It is the availability of beds in the state. Yes.
+
+>> Got it. And Commissioner, have you been able to review the report from last year concerning deadlocking?
+
+>> I have not reviewed that report.
+
+>> Okay. Do you know if deadlocking or medlocking is still happening in any mental health units that you know of?
+
+>> That is... just for the Council's awareness, Chair, we referred those allegations out to the Department of Investigation and they have not yet been returned to us. So that is still under investigation. But we have made clear to our teams internally that that is not a practice that is to be going on. We have looked into it internally and made sure that we have messaged our entire staff at multiple different meetings that that is not acceptable within guidelines or practice. But to comment beyond that — like I said, it is under investigation with DOI and we have not gotten results yet.
+
+>> If someone with serious mental illness is deadlocked or otherwise not being allowed out of their cell, will CHS staff treat and medicate that person at the cell door?
+
+>> I cannot answer on behalf of CHS. That is a CHS question.
+
+>> Chair, thank you for that. I am going to pivot to death in custody. Following the death of Ardit Villa, who was found dead after being held in one of the PACE units, the Board of Correction investigation reported that mandatory 30-minute checks were missed in the hours before his death. What actions have been taken by the department to ensure that these checks are conducted?
+
+>> So when we talked to the Board of Correction, there were a number of recommendations that they made. One of the things that we have talked about consistently and that has been raised to us is the issue of touring and doing consistent touring. As we have articulated at the Board of Correction meetings, we do have an oversight system and a tour wand system that is utilized to ensure that that is happening. Again, specific instances are still under investigation related to that. But it is part of our policy to do this consistent touring and to make sure that it is addressed. In some circumstances in these deaths, there has been discipline implemented immediately subsequent to a review of the incidents. But this is something that I know this administration is serious about and that is a basic correctional practice.
+
+>> And one of the things that we are doing is looking at the deaths that occurred in 2025, lessons learned, and what we can do to ensure the prevention of that. I think over the years, one of the things I have seen since taking on this seat is the utilization and training of all of our officers with Narcan and the ability for our officers to use Narcan. That has been a game changer in terms of loss of life — the willingness for them to do it, for them to be trained, and every officer carrying it. And so we are looking at what we can do as a department to ensure the safety of those who are in our care. We are looking at all of the deaths for 2025.
+
+>> Thank you. And according to the PMMR, there has been one non-natural death on Rikers in the first four months of fiscal 2026 and only four in all of fiscal 2025. What criteria qualifies as a non-natural death?
+
+>> I am going to turn it over to our AC. And so also there are two...
+
+[**(03:52:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=13951s)
+
+
+
+Photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the sergeant-at-arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the sergeant-at-arms and wait to be recognized. When recognized, you will have two minutes to speak on today's hearing topic. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the sergeant-at-arms. You may also email written testimony to testimony@counsel.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted. We will now call the first panel.
+
+[**(03:53:35)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14015s)
+
+
+
+Benny Boscow from the Correction Officers Benevolent Association. Delaney Powell, the United Probation Officers Association. Dejon Williams, president of Local 299 of DC37. We ask that everyone please adhere to the clock and if you have additional testimony, you can always submit it in writing afterwards. Thank you. You can begin once you are ready. Just turn on the mic.
+
+[**(03:54:14)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14054s)
+
+
+
+Good afternoon, Chair. If I could get a little bit of extra time, please. Good afternoon, Chairwoman Brooks-Powers and members of this committee. My name is Benny Bosio Jr. I am the president of the Correction Officers Benevolent Association, the second largest law enforcement union in the City of New York. Our members, as you know, provide care, custody and control of approximately 6,800 inmates daily. New York City correction officers are essential first responders. 85% of our members are Black and Hispanic and approximately 50% of our officers are female. In short, we are the most diverse uniform force in the City of New York. Our number one mission is to ensure the jails are safe for everyone while ensuring the people in our custody receive all the services and programming they are entitled to and they are safely escorted to and from their medical appointments and their court appearances.
+
+As far as programming is concerned, the department literally provides dozens and dozens of programs to people in our custody. Each of our facilities also provides their own programs that include re-entry support to assist people in custody re-enter their communities, support for single mothers, support for LGBTQ individuals, mentoring programs for young people, programs to reduce recidivism, programs for veterans, programs that provide canine therapy to help inmates manage stress, anxiety and depression, faith-based programs and programs to help people with alcohol and drug addictions. These are just a few examples of the 20 to 30 programs provided to the thousands of people in our custody.
+
+Not even one of these programs can operate without enough correction officers to provide safety and security, with most programs requiring anywhere between two to four correction officers at any given time and sometimes more. This does not include the many services we provide which are consistent with the department's minimum standards. This also does not include unexpected incidents.
+
+[**(03:56:20)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14180s)
+
+
+
+I am sorry, Benny, but we do have your testimony in writing. I want to be respectful, so I am going to let you give a summation of what you are going to say because the testimony that you have is a bit long.
+
+[**(03:56:32)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14192s)
+
+
+
+Look, while our members provide these essential services, we are dealing with the challenges of a very dangerous environment that comes with supervising a population where 70% of our people in custody are facing violent felony charges. Last year, there were over 660 assaults on correction officers committed by people in our custody, including 25 sexual assaults on our female officers, over 170 spitting incidents, over 260 splashing incidents, over 150 slashing incidents, over 120 stabbing incidents and over 500 pieces of weapons and drugs recovered by our officers. In fact, we recover weapons and drugs in our facilities daily. In the first three months of this year, we have already seen over 140 assaults on correction officers. In fact, within just this past week, a female correction officer was slashed just below her eye by an inmate.
+
+In addition to these violent conditions, we are still suffering from a severe staffing crisis. Our workforce is down approximately 40% from 2020. We have approximately 5,000 officers working across three tours.
+
+I am sorry. I ask that you wrap up, please.
+
+Chairwoman Brooks-Powers, I will submit my testimony. As one of the largest stakeholders involved that represents the correction officers, I do believe we should be part of the main agenda so that I can really give you... there were a lot of questions asked by your committee that could have been answered by the union. I feel that all too often we are kind of put on the back burner. It was very important for me to deliver my entire testimony, which probably would have been about five minutes. It is just unfair.
+
+[**(03:58:35)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14315s)
+
+
+
+No. And I understand...
+
+[**(03:58:36)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14316s)
+
+
+
+...and I want to respect everybody's time...
+
+[**(03:58:37)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14317s)
+
+
+
+...but your committee does not even stay around to hear the union...
+
+[**(03:58:40)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14320s)
+
+
+
+...right? And we are the ones — us and the people in custody — who are suffering the most.
+
+And trust me, I understand and I want to be respectful of you as well as everyone who has signed up and will respect the two-minute timeline for that. We do have your testimony in writing. In the future, what I ask is that if you would like additional time, you put that request in advance so we can work to accommodate you. I have no problems working to accommodate where we can. But because these hearings do run long and people wait here from the beginning of the hearing, and I understand that you have to leave a bit early today yourself, I do not want to disrespect anyone's time here. Please do not take this as being disrespectful to you or the correction officers because again we do have your testimony. It was emailed to me earlier. I have already submitted it for the record. To your point in terms of some of the things that could be answered in these moments, we can have an exchange and I will ask questions through these hearings of you from your perspective as well. But we also need to leave time to have that discourse. I just want to again be respectful because if I do that for you and give you five minutes, everybody else here who wants five minutes, I have to give it to them too. I do apologize but again in the future we will work to coordinate this better.
+
+[**(03:58:46)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14326s)
+
+
+
+Thank you.
+
+[**(04:00:02)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14402s)
+
+
+
+Thank you.
+
+[**(04:00:03)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14403s)
+
+
+
+Thank you.
+
+[**(04:00:10)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14410s)
+
+
+
+Good afternoon, Chair Brooks-Powers and esteemed members of the committee. My name is Dy Powell. I am the president of the United Probation Officers Association, representing supervising probation officers, probation officer trainees, probation officer assistants. Every day our members work hard to give New Yorkers involved in the criminal justice system a second chance while balancing the need to keep our communities safe. Thank you for this opportunity to testify on why the City must invest in the Department of Probation.
+
+Since the appointment of Commissioner Chiron Goodwin, we have seen meaningful progress in this short period of time. Administrative processes are improving, including a more responsive HR unit. Faster resolutions. Disciplinary matters are being resolved. Movement on long-standing grievances. Family court staffing has been strengthened. Recruitment is ongoing and the training academy has been reduced to 68 weeks. We also engaged in productive discussions around scheduling and uniform safety policies. Experienced staff who left under previous leadership are beginning to return to the agency.
+
+However, despite the progress the department has made, in the critical state today there are less than 600 supervising probation officers and probation officers, while the headcount is supposed to be, according to OMB, 845. Within weeks we expect to lose dozens more probation officers and supervisors to parole, the Department of Correction, NYPD and neighboring probation departments. Officers are not leaving because they want to. They are leaving because our salaries are significantly lower than other law enforcement agencies, despite requiring a college education. As documented by the state comptroller, the Department of Probation has had the highest attrition rate. Our workforce is predominantly women and people of color and we have been in pay equity litigation since 2019.
+
+As the City focuses on affordability and pay equity, we must be a part of that commitment. Resolving this issue is essential in stabilizing the workforce and supporting the commissioner's vision for the agency. In conclusion, our officers are tasked with helping individuals stabilize their lives while keeping our neighborhoods safe. We are asking the City Council and the mayor's office to stabilize the workforce by addressing pay equity and investing in retention. I thank you and I am open for questioning.
+
+[**(04:02:23)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14543s)
+
+
+
+Thank you.
+
+[**(04:02:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14551s)
+
+
+
+Good afternoon, Council. My name is Djon Williams. I am local president of 299, representing recreation workers in the Department of Correction, which are chaplains, recreation directors and recreation supervisors. My members are tasked with providing recreation and prayer services to persons in custody in highly dangerous and unusual settings, which include housing units and prayer locations. They are in close quarters daily with persons in custody and due to a retention issue, my members are highly overworked and underpaid. They provide enhanced recreation services which are committed to creating a meaningful, uplifting and community-building experience for those persons in custody. Some of those programs are debates in which inmates are given specific topics to discuss, support groups, chess tournaments, family days which host events that include arts and crafts, father-daughter dances in collaboration with council teams, suicide prevention, substance abuse and sexual assault awareness. I come here today to ask for help with this retention issue and pay issue. Thank you.
+
+[**(04:03:52)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14632s)
+
+
+
+Thank you so much. I do have a follow-up question for each of those who testified. As we have been talking about the vacancies that exist in correction, probation and recreation, are the unions engaged at all in terms of the recruitment efforts by the department? Does the department reach out and identify ways that they can do a better job with the recruitment efforts?
+
+[**(04:04:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14659s)
+
+
+
+We have had some conversations with the department in terms of recruitment. We made some suggestions.
+
+[**(04:04:24)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14664s)
+
+
+
+What are those suggestions? To do more community-based commercials...
+
+[**(04:04:29)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14669s)
+
+
+
+...that deal with minority-based officers to attract recruits, because 85% of our members are Black and Hispanic, like I mentioned, and 65% of our members live in the City of New York. Dealing with colleges and military bases, we have suggested better commercials to attract people. We need a better pension system. They have just enhanced the pension for FDNY and the police department.
+
+I put in a resolution on that, by the way. To support that, because we need to make the job more attractive. Those benefits given to them and not us — we have maintained parity with them for many years — kind of puts us at a disadvantage. No one has a more severe staffing crisis in the City than we do. I have been in conversation with the recent administration and past administrations about recruitment and retention. We have a follow-up meeting coming up on Friday. We have talked about promoting better ways of promoting. They are starting to go into the colleges and trying to recruit from there as well, to make the job more attractive.
+
+Our main issue is salary and, like I said in my testimony, we are in the midst of litigation right now for pay parity. I attached the charts for your review and the City Council did a report back in 2021 and 2018 which supports our argument. That is the main reason we have an issue with retention — because the salaries are so far less than others, along with the fact that you have to have a college degree. Recently I completed contract negotiations and the starting salary is now around $61,000, which is good, but compared to corrections and police and outside boroughs, we are going to get lost in the sauce again. I now have a step structure in place but it takes 11 years to get to $81,000 for a probation officer and 11 years for a supervising probation officer to reach $95,000, and that is recent.
+
+So that is one of our problems. But any chance we get, we try to give input. The good thing the department does not always mention is that they have supervising probation officers as part of the interviewing process, which is good to weed out the wrong people.
+
+[**(04:06:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14814s)
+
+
+
+Thank you for that.
+
+[**(04:06:55)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14815s)
+
+
+
+For our recreation staff, retention is an issue due to pay as well. Some of my members make under $60,000 a year. What is the starting salary? It is $57,000. Their counterparts in other agencies make upward of close to $80,000 — around $78,000 to $79,000. We have that same issue with the choice of working in recreation or going into corrections. They are going to choose corrections more times than not. We have not been invited to do much to help recruit. We do have a meeting coming up in the next month where we will give some options and possibilities, but pay is one of the biggest problems.
+
+[**(04:07:39)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14859s)
+
+
+
+Okay. Earlier today we heard from the commissioner and his team and when we look at recruitment of correction officers in particular, the conditions and the safety piece come up often. Has the union provided any guidance to the Department of Correction on how they can address the environment or the culture within Rikers?
+
+[**(04:08:09)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=14889s)
+
+
+
+Well, in terms of the violence... I am sorry, could you repeat your question? I just got lost there.
+
+No, I was just saying that earlier today the commissioner and his team had mentioned that a part of the challenges they have in recruitment has been that people do not feel safe in those roles. I wanted to know if there have been any efforts by the department to work with the union in terms of addressing some of that. Have you given recommendations in terms of some of the things to address and reduce, like the assaults that are happening on correction officers, that would make the job more attractive and make people more interested in these opportunities?
+
+Yeah, safety is the main issue. Fixing the cell doors, as you have talked about — and I think the commissioner said it would take 10 years to fix all the cell doors. The amount of money the City is going to spend on borough-based jails and fixing the cell doors should not be mutually exclusive. If we are not getting off the island, there needs to be a priority on fixing cell doors. The population can pop out of the cells with a fork. Not to mention that there are no more viable deterrents in place. Crimes committed in jail are treated differently than they are in the state of New York, and they should not be. When crimes are committed in jails — person in custody stabbing or slashing a correction officer — yes, there is a re-arrest process, but the re-arrest results in concurrent sentencing. There is no consecutive sentencing, no added time, and I think the population realizes that. So if there is no deterrent in place, how is anybody going to change behavior? How do we create safety when there are no viable consequences anymore for those actions? We have suggested, we have pleaded. The assaults speak for themselves. The numbers I am giving you are accurate: 660 assaults last year and 140 already in three months. There is no deterrent in place. We are constantly asking the question, what is going to be done here to deter behavior?
+
+[**(04:10:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15047s)
+
+
+
+Thank you for that. My last question for this panel is around the federal monitor. I just want to understand if there is a role for the unions to play in the conversations with the remediation manager, to your knowledge, and have you met with him? Has he met with the unions at all?
+
+[**(04:11:04)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15064s)
+
+
+
+We met with the remediation manager briefly about a week ago. It was a good meeting. He is not fully settled yet. I think it is a couple of weeks before he actually gets settled, but we will be having consistent meetings with him and the commissioner.
+
+[**(04:11:22)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15082s)
+
+
+
+Can I add something I wanted to bring to your attention? We had a more structured electronic monitoring program during — in my opinion a more structured one — during COVID. The one that is the recent electronic monitoring that we have now, we were not really a part of it. It was mentioned to us under the previous administration and then our concern was the staffing issue. It is not structured the way it was during COVID and I just wanted to bring that to your attention. We did not meet with anybody about anything. It is a good program. I think it is a very good program that needs to be looked at and reassessed for the probation department. But I just want to bring something to your attention. Before I came here today, when you spoke about safety... probation is the scale of justice, right? So we have to balance, and I keep hearing the social work component. There is a social work component to us because we have to help with the rehabilitation component.
+
+Before I came here today, I had to run to Brooklyn because one of my female supervisors was tackled by a probationer who was trying to escape while they were trying to place him under arrest for a warrant.
+
+[**(04:12:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15146s)
+
+
+
+So people tend not to think about us
+
+[**(04:12:28)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15148s)
+
+
+
+and our safety. I have had many officers who have been hurt and injured in the midst of working, more so in the office than they do in the field. So I need the City Council and the City to understand that probation officers deal with the same exact element. I am going to finish my message every time. Sorry — as Benny and his team, because we are community corrections and they deal with the inside part of it. So I just wanted to make clear to the City Council that we have the same problems as the rest of law enforcement.
+
+[**(04:13:03)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15183s)
+
+
+
+Thank you for that.
+
+[**(04:13:04)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15184s)
+
+
+
+And when we talk about retention, and you all talked about relationships earlier, understand we have to build relationships with the clients, right? So every time there is a probation officer that leaves, that has to start all over again because we have to build trust. They have been through so many systems that have disappointed them or failed them. So when they get with a probation officer, we build trust. We are building supervision plans. We are trying to get them on the right track. And what happens? They are gone again. Last week alone, council member, nine people put in for their resignation. One unit alone in Queens has no probation officers come next week. None. Wiped out.
+
+[**(04:13:43)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15223s)
+
+
+
+Oh, that is not good. Okay. And are there ways that the Council can support the recruitment efforts too? Because I know in the last administration there were these borough-wide recruitment efforts and things like that. Do you see the unions working with the respective departments and doing forward-facing things like that again?
+
+[**(04:14:05)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15245s)
+
+
+
+Yeah, I have some ideas, and I would love to sit with the City Council as well so we can all brainstorm, because it takes a village, right? So we are not in it by ourselves. I would love to do something like that.
+
+[**(04:14:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15256s)
+
+
+
+Absolutely. We have done some community-based outreach and gone with the department to promote the job with some of our fraternal organizations in different communities, and that is actively going on right now. You were part of the Council last time and we appreciated the unanimous vote that we got for the home rule message under our 20-year pension bill. Unfortunately the governor vetoed that. So we would ask the Council for help in reaching out to state legislators and the governor's office to please give us that 20-year pension bill so that we can make the job more attractive.
+
+[**(04:14:53)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15293s)
+
+
+
+Absolutely.
+
+[**(04:14:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15294s)
+
+
+
+And the recreation unit, we have not had
+
+[**(04:14:57)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15297s)
+
+
+
+a meeting, but again we do have some dates planned for next month. So hopefully we can get in and sit down and have a discussion on some ways to fix things. Some years back we requested having
+
+[**(04:15:10)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15310s)
+
+
+
+persons in custody move to different units where they can get recreation activities to make it a little safer. But again, that goes hand in hand with the correction officers having the amount of staff to actually be able to move them from one unit to another unit. If you do not have the right amount of officers to cover and move them, that just cannot happen. My members are literally in their housing spaces giving them recreation activities.
+
+[**(04:15:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15338s)
+
+
+
+Thank you for that. Thank you for your testimony today and I am looking forward to the continued conversation. This panel is dismissed. Thank you.
+
+[**(04:15:46)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15346s)
+
+
+
+Thank you for your time.
+
+[**(04:15:49)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15349s)
+
+
+
+The next panel we are going to call up: Michael Clinger, Damon Gilbert, Stephanie Taylor, Caprice Jennerson, Julia Davis, Karen Adelman with the New York City Bar Association. You can get started. You can just turn on the mic whenever you are ready.
+
+[**(04:16:58)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15418s)
+
+
+
+Good afternoon and thank you to Chair Brooks-Powers and the committee staff for the opportunity to testify today. My name is Michael Clinger. I am a jail services attorney with Brooklyn Defenders. To begin, we acknowledge several promising signs of change in the department since the arrival of Commissioner Richards. He has committed to use his office's powers under Correction Law Article 6A to identify and release people who can safely be managed in the community. The department is committed to reviving a collaborative working group of families, community members, advocates and department staff to address concerns around visiting loved ones in the jails. The department has moved to improve lines of communication between attorneys representing people in custody and department leadership. These are each promising steps, but much more is needed.
+
+First, we must reduce the jail population because time spent in custody harms all people, and particularly those with medical or mental health needs. The most important thing the City can do is focus on decarceration. In addition to a population reduction of several hundred under 6A, this effort must include fully staffing and opening the long-delayed outposted therapeutic beds at Bellevue and expediting the opening of the units at Woodhull and North Central Bronx, all years behind schedule. Even once completed, these units will account for fewer than 400 beds, which is as insufficient as it is necessary.
+
+Next, we must protect all New Yorkers by ensuring that the department's contractors do not violate sanctuary laws. Our understanding is that telephone service provider Securus currently stores and mines all jail calls for data that it then may sell or otherwise share, possibly as an additional revenue-generating product. Its clients include federal agencies charged with civil immigration enforcement, which means that New York City is potentially violating its sanctuary laws every time someone makes a phone call from the jails.
+
+Finally, treat trans people with safety, dignity and respect. We urge the Council to pass Intro 134 to require that people in custody are housed in accordance with their gender identity. This is a life-saving law that is consistent with city and state human rights laws that protect trans people outside of jails, so we can give it the force of law and protect everyone in city custody from harm.
+
+[**(04:19:08)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15548s)
+
+
+
+Thank you for that.
+
+[**(04:19:13)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15553s)
+
+
+
+Good afternoon. Thank you for the opportunity to speak. My name is Karen Adelman and I am a co-chair for the New York City Bar Association's Corrections and Community Re-entry Committee. At this time, with a new administration, New York City really faces a pivotal opportunity to reform our correctional oversight system. Persistent crises in our jails range from staffing shortages, missed appointments and inconsistent programming to dangerous unsanitary conditions, visit denials and deaths of people in custody. The Nunez case and the recent appointment of Mr. Deml as the federal remediation manager have really laid bare the systemic challenges and revealed the structural weaknesses in accountability and governance.
+
+But against the backdrop of these challenges, the City Charter already provides a mechanism to foster a more humane and just criminal justice system, enshrining the Board of Correction as the City's independent oversight body for correctional facilities. The BOC has been charged with this important role for decades and will continue to perform those charter-mandated functions long after Mr. Deml's tenure has concluded. This drastic step of appointing the remediation manager should itself make clear how important it is to strengthen the BOC's capacity to execute its mandate of oversight. To this end, we urge the Council to ensure that the BOC has the resources it needs to perform its important duties.
+
+As you heard the BOC describe its mandate when they spoke, it is vast and their outdated technology really severely hampers their ability to manage the voluminous amount of material generated by their monitoring. This deficiency slows down operations and limits the potential insights that can be drawn from the data, which in turn hamstrings the BOC's ability to ensure compliance with its minimum standards and thwarts the capacity to develop or implement innovations to meet real-time challenges. We believe it is essential that the next City budget give the BOC resources to update the sorely outdated technology it currently uses for such critical data collection and management. As you heard in their own testimony, the $2.1 million needed just for that is a minute fraction of the agency's budget that they oversee.
+
+I will submit the rest of my testimony, but we also believe that adequate staffing levels are very essential, especially given the transition to the new borough-based jails, which will be even more geographically dispersed. Thank you.
+
+[**(04:21:33)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15693s)
+
+
+
+Thank you for that.
+
+[**(04:21:36)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15696s)
+
+
+
+Good afternoon and thank you for the opportunity to testify. I am Julia Davis. I am the executive director of Youth Represent. I want to focus my testimony on adolescents and young adults, who are over-represented throughout the system from arrest through incarceration and who represent hundreds and hundreds of young people on Rikers Island today. Youth Represent serves adolescents and young adults through age 26. I want to take a moment to reflect on how little resources have been focused on adolescents and young adults. The City has never received any Raise the Age money even though the law has been on the books since 2018. We have seen a systematic pullback of city funding for young people in the juvenile justice system. We are dealing with the impacts of COVID which, although they are six years old, we are looking at adolescents and young adults whose adolescent years were severely impacted by the COVID pandemic. Most importantly, the last administration significantly reduced investments in young people in the Department of Probation and other parts of city government that keep them out of the system.
+
+When we think about the hundreds of thousands of dollars we spend on incarcerating young people, we have to think about the opportunity for reinvestment, not only in ATD and ATIS, which bring young people home, but in a really robust continuum of services that keep kids in school, connect them with work, resolve mental health issues, address family dynamics and are going to move our young people in the right direction. So I urge you to take a look at a new report that came out from the New York City Youth Justice Coalition. This landscape report, which will be included in my testimony, outlines some very specific areas for reinvestment that the budget should include. I will just highlight a few of them for you today, particularly in the Department of Probation where we saw a significant divestment from young people. Bringing back programs like Neon Works, Works Plus, AIM, Impact, Arches and Next Steps — these are programs that have been proven to have an impact on community safety and young people. I am looking forward to working with you on a budget that brings those things forward. Thank you.
+
+[**(04:23:47)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15827s)
+
+
+
+Thank you. Did you give the sergeants a copy?
+
+[**(04:23:50)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15830s)
+
+
+
+Yes, it is coming. Thank you so much.
+
+[**(04:23:52)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15832s)
+
+
+
+I was looking for it. Go ahead.
+
+[**(04:23:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15834s)
+
+
+
+Good afternoon and thank you for the opportunity to testify. I am Caprice Jennerson and I am the president and attorney in charge of the Office of the Appellate Defender, also known as OAD. OAD has existed for nearly 40 years in the criminal legal space to ensure that justice does not end at conviction and sentence. We represent individuals after sentencing to correct legal errors, to enforce constitutional rights and uphold the integrity of the criminal legal system. We are one of the few organizations in New York City dedicated exclusively to appellate and post-conviction representation, and that focus matters. Appellate work requires specialized expertise, sustained attention and a long-term commitment to each case. It is also mandated representation. When someone cannot afford counsel, the City has an obligation to provide representation not only at a jury trial but also on appeal.
+
+And yet criminal appellate defense does not receive the same level of investment or visibility as other parts of the system. At OAD, we are a small, highly specialized team. We train the next generation of appellate advocates. We carry complex cases that span many years. We support our clients not only in court but as they prepare to return to their communities. That work strengthens public safety, promotes fairness and builds trust in the legal system. But we are doing that work in a funding structure that has not kept pace with reality. Flat contracts, rising costs and a lack of parity across the legal system create structural gaps that make it difficult to sustain the workforce and services required to meet our mandate. That is not a budget issue. That is an issue of equity. If appellate representation is required, as it is, it must be adequately resourced. If we expect high-quality advocacy, we must invest in the people and the systems that make it possible. I appreciate the opportunity to testify. Thank you.
+
+[**(04:26:17)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15977s)
+
+
+
+Ready for you, and I believe Stephanie Taylor is in the room. You can come up because you were called as part of this panel. Go ahead.
+
+[**(04:26:25)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=15985s)
+
+
+
+Cool. Good afternoon. Thank you for the opportunity to testify. My name is Damon Gilbert. I am an attorney with New York Lawyers for the Public Interest. I am here to talk about Rikers conditions. Rikers continues to expose thousands of New Yorkers to dangerous and deteriorating conditions. These harms are not incidental. They are systemic and ongoing. At the same time, the City continues to invest considerable resources into this system while failing to deliver safety or stability of any kind. Despite the level of spending, people remain trapped in conditions that expose them to mold, contaminated water, extreme temperatures, polluted air and violence, often because the systems that would allow them to leave or avoid incarceration altogether are underfunded or unavailable.
+
+To improve safety and meet the City's legal obligations to close Rikers by 2027, the budget should prioritize safely reducing the jail population. First, the City should take immediate steps to continue expanding release programs like 6A and ensuring people are discharged with connections to community-based care and housing. Second, the City should invest in alternatives to incarceration programs. Third, the City should invest in mental health services like additional intensive mobile treatment teams, forensic assertive community treatment teams and residential treatment beds. The path to closing Rikers runs through these investments and I ask that this Council work to align the budget with that goal.
+
+[**(04:27:57)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16077s)
+
+
+
+You finish? Okay.
+
+[**(04:28:08)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16088s)
+
+
+
+>> Good afternoon, Chair Brooks-Powers and the members of the City Council. Thank you for the opportunity to testify today. My name is Stephanie Taylor and I serve as the director of the Incarcerated Mothers Law Project at Volunteers of Legal Service, or VLS. For over 40 years, VLS has partnered with CBOs and the private bar to provide free civil legal services to New Yorkers who otherwise cannot afford or access representation. For more than 20 years, the VLS Incarcerated Mothers Law Project has helped individuals incarcerated in New York's women's prisons and jails, including the Rose M. Singer Center, RMSC, on Rikers Island, with their family law needs. Through this work, we regularly meet parents who are trying to maintain relationships with their children while navigating incarceration, family court and re-entry. And what we see is a crisis that goes unnoticed.
+
+The steady erosion of family relationships when parents become involved in the criminal legal system. Structural support for parents before, during and after incarceration is extremely limited to non-existent. Family court and foster care timelines continue to run while parents are being held in custody. Communication with caregivers and children becomes difficult and guidance about parental rights is scarce. Many parents lose contact with their children, or worse, lose their parental rights altogether without ever receiving meaningful legal information or assistance. At RMSC, our team meets many mothers and parents hoping to understand how to protect their parental rights. While our legal clinics and the great work of institutional legal services providers and social services organizations such as Our Children and Osborne Association provide critical support, they are only a small intervention in a much larger systemic problem.
+
+To address this gap, the City should take three key steps. One, fund programs that provide family law assistance specifically for incarcerated parents. Two, invest more in community-based organizations to develop family law advisory services. And three, ensure that parents receive clear information about their parental rights and family court obligations at sentencing or at the earliest stages of custody. When parents become involved in the criminal legal system, they should not lose the chance to remain part of their children's lives. With earlier support and targeted investment, New York City can take meaningful steps to preserve these vital family connections. Thank you so much.
+
+[**(04:30:15)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16215s)
+
+
+
+>> Thank you. And did you submit that in writing as well?
+
+[**(04:30:18)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16218s)
+
+
+
+>> I will do so. Yes.
+
+[**(04:30:20)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16220s)
+
+
+
+>> Okay. And everyone submitted theirs in writing. Okay. Because I only got a few up here, so I just wanted to make sure. Thank you. This panel is dismissed. We will call up the next panel. >> Zachary Katz Nelson with the Independent Rikers Commission. Megan Marcelin, New York City ATI Coalition. Amanda McCarthy, Cases. Louisa Tveras, Women's Prison Association. Reginald Chapman, the Fortune Society. And Zachary, you can get started by turning on the mic whenever you are ready.
+
+[**(04:31:12)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16272s)
+
+
+
+All right. Good afternoon, Chair Brooks-Powers. Thanks for the opportunity to testify. Zachary Katz Nelson with the Independent Rikers Commission. Just building off your questions on overtime earlier about truth in budgeting. It seems to me that maybe a challenge could be put to the department to actually look at the subpopulations within the department. For instance, people with serious mental illness, people with addiction. How much are they actually spending to take care of those folks, to provide services while people are in jail? And think about re-entry plans for when they get out, with the goal of course being that they never come back into jail. What would it actually take? What are they spending now? And what is the goal? And then what would the budget be to actually match that? Because right now we have a budget that is a cookie cutter from prior years. It does not have the stamp of Commissioner Richards. It does not have the changes that he might want to see. He just started a few days before it was released.
+
+But what are we actually building for as a city right now? Rikers' budget and Rikers' reality is so much about putting out the fires of the day, those steam pipes that burst, whatever it is, but not stepping back and actually planning. And if we are going to get out of the mess we are in, we are going to need to have that and a budget that actually matches, a budget that actually truthfully meets the needs safety-wise and service-wise inside the jail. This budget is not there yet. And just wanted to mention a note on recruitment and retention. One thing that our commission has talked about and pushed is this. I have a GI Bill for people that work in the correctional world, health care staff, recreational staff, officers, people on probation, whatever it is. Maybe they are not going to stay 20 years or 22 years or whatever until the pension. Maybe they stay three or five years. Hopefully they stay longer, but after that, they get assistance just like a soldier might, with a home mortgage loan, with a small business loan, with something that will move them as a stepping stone to something else. Maybe that will help bring people in. Hopefully they stay again, but at least start with recruitment. It is not just about pensions and dollars. Obviously that would help, but maybe a different way of thinking about how to bring people into that community of work.
+
+[**(04:33:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16396s)
+
+
+
+>> Thank you so much.
+
+[**(04:33:26)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16406s)
+
+
+
+Thank you, Chair Brooks-Powers and staff of the committee. My name is Megan French Marcelin. Today I testify on behalf of the New York City Alternatives to Incarceration and Re-entry Coalition. We are a network of 12 organizations that provide supports to justice-involved New Yorkers. In fiscal year 25, our organizations served more than 68,000 New York City residents. New York City stands at a pivotal moment in its criminal justice reform journey. The long overdue closure of Rikers Island forces us to confront a fundamental question. What does real safety look like and for whom? Because the truth is we cannot jail our way to safety. Rikers Island has come to symbolize the worst failures of our criminal legal system, a place defined by horrific conditions, systemic abuses and a culture of impunity. This is a system that perpetuates harm, not safety. It is why the City must invest in community-based alternatives. Research clearly demonstrates that these programs reduce the likelihood of future convictions, decrease homelessness and psychiatric hospitalizations, increase connections to essential services and foster civic engagement. These programs are as cost-efficient as they are effective, and yet we sit here facing $4.6 million in cuts in the preliminary budget. We are seeking restoration and a $20 million increase in ATI and re-entry services from the administration.
+
+From the New York City Council, the New York City ATI Coalition is requesting an additional $2.4 million increase across our 12 organizations, because we have a choice before us: continue a cycle that has failed for generations or invest in a future grounded in care, accountability and true safety. I urge you to choose the latter.
+
+[**(04:35:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16531s)
+
+
+
+>> Thank you.
+
+[**(04:35:39)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16539s)
+
+
+
+>> Good afternoon, Chair Brooks-Powers and members of the Committee on Criminal Justice. I am Amanda McCarthy, senior director and youth policy lead at Cases. We served 12,000 New Yorkers last year with programs that supported their goals and prevented the trauma of incarceration. The City Council must ensure
+
+[**(04:35:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16554s)
+
+
+
+that the budget makes the necessary investments to close Rikers Island. At a cost of nearly half a million dollars per person per year, Rikers Island is the most expensive and least effective tool that our city has for creating community safety. Unfortunately, key investments to reduce incarceration are missing from the preliminary budget. Cases is a proud member of the Alternatives to Incarceration and ATI Re-entry Coalition, an ecosystem of providers that promote public safety and community well-being. We are asking the administration for the restoration and expansion of funding for ATIs and re-entry services at MOCJ, at a $24.6 million increase from what is proposed in the budget. The coalition is requesting an additional $2.4 million increase in the ATI and re-entry programs initiative across our 12 organizations. The proposed $4.6 million cut to ATIs and re-entry programs must be reversed and funding must be increased by an additional $20 million to meet the needs of our communities.
+
+Cases operates a range of ATI programs which not only keep people out of incarceration but transform lives. In fiscal year 25, almost 2,300 people were able to avoid incarceration by participating in one of our ATIs, including the Nathaniel Act. Among clients who successfully completed the program, none are reconvicted of a violent felony and less than 5% are reconvicted of any felony. The program decreases homelessness by 70% and cuts psychiatric hospitalizations in half. We urge the City to fund these programs. In addition to supporting ATI and re-entry services, the City can further improve public safety and community well-being by fully funding assertive community treatment and intensive mobile treatment, IMT, programs.
+
+[**(04:37:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=16658s)
+
+
+
+To end the wait list for services, expand access to mental health services for young people by doubling funding for the court involved youth mental health initiative and supporting ACS's proposal to expand the ACES program to serve more preventive youth. Thank you.
+
+Good afternoon. My name is Louisa Tavas and I am the interim CEO of Women's Prison Association. Chair Brooks-Powers, thank you for the opportunity to testify today. Founded by Quaker abolitionists and prison reformers in 1845, WPA has spent over a century challenging the systemic inequalities that push women, especially Black and Brown women, into the criminal legal system. The population of women in New York City jails had been steadily declining prior to the Adams administration. Sadly, over the past four years, the number of women detained on Rikers Island has more than doubled. This increase is concerning, especially given that there is clear evidence that community-based alternatives are more effective in preventing women from future contact with the criminal legal system and in promoting their long-term stability.
+
+New York City has not prioritized funding for organizations like WPA, which aim to safely reduce the population at Rose M. Singer Center — Rosies — the women's facility on Rikers Island, through community-based diversion and re-entry supports. Instead, it appears that the City has adopted a jails-first approach, exemplified by the Department of Correction's plan to triple the number of beds at the new women's jail to be built in Kew Gardens. This shift undermines the very community infrastructure that offers women safe and supportive pathways out of the criminal legal system. A different approach is not only possible, it already exists. WPA meets women and gender expansive people where they are by providing trauma-informed, gender responsive support before, during, and after incarceration, including comprehensive case management, trauma-informed clinical care, and stable housing. This helps them reclaim stability and opportunity.
+
+This year, we are asking the administration for the restoration and expansion of funding for ATI and re-entry services at MOCJ, a $24.6 million increase from what is proposed. In addition, the coalition is requesting a $2.4 million increase in alternatives to incarceration and re-entry programs. We are also requesting the speaker's initiative to support the launch of Mothers and Families Together, a diversion program for incarcerated mothers on Rikers Island. Finally, WPA seeks Council funding for two key pillars of our stabilizing model: trauma-informed clinical care and supportive housing. Thank you.
+
+Thank you. Good afternoon, Chair Brooks-Powers and members of the Committee on Criminal Justice. Thank you for the opportunity to talk about the Fortune Society's work and how ATI re-entry programs promote public safety and empower young people to build their lives. My name is Reggie Chapman. I am the director of policy at the Fortune Society's David Rothenberg Center for Public Policy. I am also a formerly incarcerated person who spent 25 years in prison, so I have lived experience and professional experience with respect to this issue. I will also refer to my written testimony to be succinct.
+
+For over 58 years, the Fortune Society has supported people returning from incarceration. In FY25, we served over 18,000 people, including over 1,000 people through our ATI programs. We are also a proud member of the NYC ATI re-entry coalition, which collectively has served more than 30,000 people annually. But to truly enhance community safety, we can and we should be serving more people to reduce the number of people detained at Rikers Island and to enhance community safety.
+
+Therefore, we are requesting that this administration restore and expand funding for ATI re-entry services by providing $24.6 million more than they did in their preliminary budget proposal. We also specifically request a $2.4 million increase in the City Council's ATI and re-entry program initiative. We are grateful to the City Council for standing with us in FY26 and we urge the Council to do the same thing this year — not just to prevent cuts, but to ensure expansion of this important work. Evidence shows that our programs work. In FY25, 83% of our participants completed ATI programming and over 92% completed gun diversion programs. ATI re-entry service programs cost just a fraction of the $500,000 that it costs to incarcerate one person on Rikers Island. So it makes sense financially to invest in ATI services as opposed to incarceration. We also urge the panel to provide $3 million more for the Board of Correction to regulate, monitor, and inspect our City's correctional facilities. Thank you, committee and Chair Brooks-Powers, for allowing me to testify.
+
+Thank you. I was trying to follow you — I am like, wait, what is going on? I thank you all for the work that you are doing and just wanted to ask a few follow-up questions. First of all, I really appreciated the ideas in terms of thinking outside of the box for recruitment opportunities and hope that the commissioner and his leadership team take some of that under advisement as well, because we want to make sure that all stakeholders as it pertains to Rikers in that space have the safety and the support that they need. Obviously my focus has been really on opening up those beds that exist right now as well, to start moving folks out and getting things back on track in terms of the construction for the borough-based jails. But what is really important is getting the numbers of those in custody down.
+
+Based on some of the testimony from the agencies earlier today, I would just like to hear some of the reaction from the advocacy side in terms of what programs are, I would say based on data, really strong in terms of the work that they are doing to reduce recidivism, and in terms of the efforts from the administration, what more should we be investing in and prioritizing? Because we know there is a $5 billion deficit in the budget, so everyone is going to be fighting for a piece of the pie across the different categories in the budget. So if we had to prioritize, where are we prioritizing most that is going to help us achieve the goal to reduce the population on Rikers Island?
+
+I will take a crack at that first. Thank you for the really thoughtful question. As I said, we served 68,000 people last year at a fraction of the cost that it takes to run our jails and prisons. Last year we sat before the Council facing $17 million of cuts. I will say that as an advocate, it is frustrating to be here year after year fighting against cuts for programs that we know are more effective at public safety than our jails. Every year I am sitting here talking about an increase that amounts to about 7% of what DOC spends on overtime each month. Our total ask across 12 organizations is about 7% of their overtime budget each month. So when we are talking about reducing the size of budgets, it is DOC's budget that we need to reduce, and we need to be pouring millions and millions of dollars into these lifesaving programs.
+
+I believe I told your staff we are working on a cost-benefit analysis with John Jay's Data for Justice collaborative. Part of the reason we want to do that is we have been able to show just how effective our programs are. But our programs are not just cheaper on the front end. We can take about 50 people through a program for the cost of one person spending a year on Rikers. That is already unconscionable. But we also build on the back end because people are connected to employment. They are not utilizing homeless shelters. They are not going to the emergency room as a form of health care because they are connected to Medicaid and other social safety net benefits. So I think if we want to really transform our safety system, we have to think about it more holistically. We know what makes communities safe. It is people having access to the basic resources that every single person in New York should have as a human right. To do that, we need to invest in programs that actually grow people, not deplete them.
+
+Thank you for that. Anyone else want to add to it?
+
+I would say something. Thank you. I feel like there are issues of funding and there are also issues of connecting people to those programs, and one of the real failures right now unfortunately is based in part on your question of getting people to their video appointments to actually meet with providers. That is a real failure right now inside. We are missing these opportunities. Just an example: supportive housing. We know how essential that is for people to have stability and care when they get out. The return rates right now of people with mental illness coming back to Rikers — 47% are back in Rikers within one year. Not just rearrested, reincarcerated within one year. That is a true failure across a whole range of systems. But supportive housing can provide incredible stabilization when it is possible. Last year there were 109 people approved for supportive housing in Rikers. 14 were actually placed in supportive housing. We have 4,000 plus vacant units across the City of supportive housing. We have only managed to place 14 people coming out of Rikers.
+
+Why is that? Because I heard that statistic before and I thought it was mind-blowing. But what are the hurdles that have to be met in order to get into that housing? Because I feel the same way about affordable housing just broadly speaking. You will have a new development — I have seen it in my district and other places where we are building housing — and then it takes months for HPD to place someone through Housing Connect. So in terms of supportive housing, what have been the challenges that you have identified?
+
+Well, the first one is that out of the roughly thousand people, only about 265 were actually referred to a provider at all. So that first step of actually letting providers in the community know this is a person who needs housing — that is missing. That is a combination of... it was Correctional Health Services, now it is actually the Department of Social Services, HRA. They are in charge now of making those referrals. They had not been consistently making those referrals. Part of the idea was consolidating, taking away from CHS and giving it to HRA. Was that supposed to help?
+
+What triggers DSS to make the referral though? Like, walk me through that step so I can understand it. Because we work with DSS all the time in my office. I am just trying to understand how do they get triggered to know that this is someone who is formerly incarcerated, that is eligible for supportive housing, and what triggers that for that population?
+
+Sure. They will get the completed application, hopefully from Correctional Health Services. So Correctional Health Services, working with people in the jails, actually works on their applications. Once they are done, they are sending it to HRA. HRA is actually the one who approves and decides what type of supportive housing would be appropriate for this person. It is then on them. They already have that person in their system. It is on them now to say, "Okay, we are going to reach out to providers and say, 'Here is somebody who needs this space. Will you interview them? Will you meet with them?'" So that bureaucratic piece is not happening right now.
+
+And that is something I think we need to delve into frankly with HRA about how do we improve that process. Then there is a second piece about how hard it is, for instance, to interview people on Rikers — not just in terms of getting people to the appointment, but even making the appointment in the first place. Rikers requires the agency to give three different dates where they can hold time to meet with the person. Then they get back to them two weeks later, three weeks later sometimes, and say, "Okay, we have chosen this one date for you." You have had to hold them open the whole time, and then if that person...
+
+Is that because of staffing shortage?
+
+It is staffing shortage to some extent, but it is prioritization. If you know this is a new commissioner with a new vision, we are going to really work hard to get people into the care they need and figure out where they should be. Rikers is not the answer for people with profound mental illness. So hopefully this will become more of a priority. I think it was not enough of a priority under the prior administration to figure out how do we move people through the system as efficiently and quickly as possible.
+
+And is there a budgetary gap that exists or a legislative gap that would help, to your point, make this process flow more seamlessly?
+
+Or both?
+
+I think probably both. For instance, mandating that the referrals happen within a certain reasonable period of time — just like the Council last year mandated that holistic assessments take place within three weeks for someone who might be referred to an ATI, or six weeks if it is more complicated. That same process, which is great, has not been implemented yet. That is another great example of something to push on: what is the funding necessary to make that happen, to make sure we have the social workers, psychiatric professionals, whatever it is to make that happen.
+
+Along the same lines, recapturing — what could we do for referrals to supportive housing? What does HRA need to make these referrals? What does CHS need to actually complete the applications, make sure they have the staff, and then how do we get people actually connected and hopefully placed? I will just say one last piece of this: it is not easy to get someone coming out of Rikers placed in supportive housing. I think it is critical that justice-involved supportive housing — which this Council has fought hard to increase the supply of, and an RFP just went out for 190 new beds that will raise the total number to 310 beds across the City dedicated to this population — the sooner those beds can come online the better. But that is only part of the City's promise. The City promised 500 of those beds back in 2019 as part of the plan to close Rikers. We are still 190 beds short. So I think that is a funding issue as well. Let us make sure we can meet the needs of people — remember, these are the people that are cycling in and out that are not getting the care they need. The people we see on the street who are in complete distress. That is who we are talking about here. We have a much better answer.
+
+And at what rate do you find that securing housing or going through one of the diversion programs has resulted in reducing recidivism?
+
+What rate — is that what you are asking?
+
+Yeah. Do you have any data around that?
+
+In written testimony, we have stats from all of our member organizations and we can send you more of those. But I think when we are talking about this population, it is really, really important to remember the stats coming out of Cases to my right, who run the ACT teams across the City that work with serious mental illness, justice-involved populations. For folks who have gone through the Nathaniel ACT program, they have seen 100% of people not commit a new felony in two years and they have reduced homelessness by over 90%.
+
+Okay. Well, thank you to this panel. This was very informative. The panel is dismissed.
+
+Thank you. Next, we are going to hear from Benjamin Heler with the Vera Institute of Justice, Magalie Melendez from the Center for Justice Innovation, Melanie Dominguez from the Katal Center for Equity, Health and Justice, and Jennifer Parish.
+
+Hello. Hi, Chair Brooks-Powers. Thank you for the opportunity to speak today. My name is Benjamin Heler and I am a program manager at the Vera Institute of Justice. I appreciate this hearing today. DOC's FY27 preliminary budget is $2.99 billion, including fringe benefits, pension contributions, and debt service. This is a 5% increase compared with last June's adopted budget. Just $14 million of that budget is for external rehabilitative programming. OMB authorizes 7,600 officers through the end of FY2030, which is three years after the City's deadline to close Rikers Island. Filling these roughly 1,300 vacancies would cost the City approximately $174 million in salaries and benefits. In addition, DOC's overtime budget remains high and inaccurate. If spending in FY27 resembles the current fiscal year, DOC's overtime budget will last less than six months.
+
+A massive staffing increase would move DOC in the wrong direction. The agency is poised to downsize when Rikers closes, and the Lippman Commission estimates that the new borough-based jails will only require 3,240 officers. Now is the time for DOC to deploy staff more efficiently and effectively, not hire more, especially given there seems to be little connection between DOC hiring and reductions in overtime. We urge OMB to lower DOC's authorized uniformed headcount in this and subsequent years to bring staffing in line with the needs of the new borough-based jail system. We also urge OMB to introduce new units of appropriation for executive management and programming, which will enable greater budget transparency and accountability.
+
+To reduce overtime spending, DOC leadership must deploy existing staff more efficiently, reinforce strong overtime oversight, and most importantly, submit realistic budgets to which City government can hold the agency accountable. In addition, our written testimony includes specific budget asks related to community-based mental health treatment, low-barrier housing, alternatives to incarceration, re-entry, oversight, and non-police mental health response. By investing in these services, the Mamdani administration can shrink the jail population in preparation for the move off Rikers, deliver responsive and effective governance, and improve community safety for all New Yorkers. Thank you.
+
+Thank you. Good afternoon, Chair Brooks-Powers and members of the committee. My name is Magalie Melendez. I am the deputy director of Bronx Community Solutions, an initiative of the Center for Justice Innovation. Thank you for this opportunity to testify. New York City is at a defining moment. The closure of Rikers Island is not just a mandate. It is a promise — a promise to build a system that is smaller, safer, and rooted in dignity and not detention. But that promise is at risk if we do not invest in what actually makes communities safer. We cannot close Rikers by simply shifting where people are held. We close Rikers by reducing who enters the system in the first place. That requires sustained investment in diversion, prevention, and community-based solutions.
+
+At Bronx Community Solutions, we see this every day. Through the Bronx Community Solutions driving while intoxicated treatment initiative, we address underlying substance use and reduce repeat offenses. Through the Bronx Hope program, we connect individuals to harm reduction, peer support, and life-saving resources. Through the Center for Justice Innovation's driver accountability program, we improve street safety by changing drivers' behavior through reflection, accountability, and education rather than relying on punitive responses like fines, prosecution, or short-term incarceration. This work extends far beyond Bronx Community Solutions. Initiatives like Save Our Streets, which focuses on community-based violence interruption, and Reimagining Intimacy Through Social Engagement, like the RISE project, which supports individuals in building healthy relationships and reducing harm, are critical to addressing the root causes of system involvement together. These programs are not optional. They are the infrastructure of a safer city.
+
+Yet too often, these are the very programs that face uncertainty when budgets are tightened. If we are serious about public safety and about closing Rikers, we must protect and expand these investments — not reduce them, not delay them. We have made important progress and we have a clear path forward. By sustaining these investments, we can continue building a system that reflects our shared values: safety, fairness and community. Thank you.
+
+Thank you. Good afternoon. My name is Melanie Dominguez. Thank you so much, Chair Brooks-Powers, for holding today's preliminary hearing. I am the organizing director at the Katal Center for Equity, Health, and Justice. Our members are from across the City and include people who have been incarcerated, family members of currently and formerly incarcerated people, and many more. Many of our members know exactly how horrific Rikers Island is and are deeply troubled by the fact that the closure plan is off track. This fiscal year 2027 budget proposal does not just fall short.
+
+[**(05:00:05)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18005s)
+
+
+
+It is a continuation of the status quo that persisted under the Adams administration. As a result, it leaves the Rikers closure plan in limbo and fails to address the rising jail population at Rikers Island. While Mayor Mamdani continues to say he wants to close Rikers, those words fall short with this budget proposal. The city budget is where the rubber meets the road to save lives and close Rikers once and for all. As the crisis worsens at Rikers, the jail population rises and the closure plan remains off track. The fiscal year 2027 preliminary budget allocates 2.99 billion to DOC, which represents a 5% increase for the agency budget compared with last June's adopted budget. The Vera Institute cites that the DOC budget increase is driven largely by personnel costs rather than investments like educational, therapeutic and re-entry programming, which is what is needed at this current moment.
+
+In addition, while the administration proposes increasing the bloated budget of the DOC, the Board of Correction budget is once again underfunded at a time when oversight is critical. And we heard from the panel today as well. Another key problem with this proposal is that it fails to investigate and address the increased costs of the borough-based jails, which have risen from the original estimate of 8 billion when the closure law was first enacted in 2019. These are things that we really hope the City Council can address. One way that we can clearly reduce the jail population is by investing in mental health access in the community and making sure that folks are not being put at Rikers Island because they have a severe mental illness. We actually have a report that we put out with the Data Collaborative for Justice at John Jay, which is cited in the written testimony. All in all, we are really asking the Council to cut the DOC's bloated budget, making sure that the number of people incarcerated at Rikers Island is reduced, and calling for the Council to pass a budget that advances the closure of Rikers Island and invests in communities.
+
+[**(05:02:09)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18129s)
+
+
+
+Thank you.
+
+[**(05:02:13)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18133s)
+
+
+
+Good afternoon. My name is Jennifer Parish. I am the director of criminal justice advocacy at the Urban Justice Center Mental Health Project and I am a member of the Halt Solitary Campaign and the Jails Action Coalition. Thank you for the opportunity to testify. In my testimony today, I want to highlight three main points.
+
+First, the suffering in the city jails must end, but that will most effectively occur through decarceration — getting people off of Rikers Island — not by continuing to budget for more than 7,000 uniformed officers. The DOC is one of the most richly staffed jail systems in the country. We need to eliminate the more than 1,300 vacancies that exist. That would save us $174 million annually. This money could be much better spent on community resources, including mental health services and alternatives to incarceration that will enable us to reduce the jail population and provide people the supports they need to thrive outside the jails.
+
+Second, the Department of Correction must invest in effective therapeutic programming to successfully implement Local Law 42 and end solitary confinement once and for all. With a mayor and commissioner who believe in ending solitary, they must follow the law which the Council enacted in 2024, and that includes quality programming as alternatives to solitary confinement. We urged the Council to support the department in bringing in outside experts with the experience designing and implementing effective programming, and they could do so for a tiny fraction of the funding that is allocated for the vacancies.
+
+Finally, the Council should increase the Board of Correction's budget so that the agency can provide the essential oversight and transparency needed. In at least the last 30 years, the board has not been funded at the level required to perform its vital function. Currently, the board is funded for 33 staff who have tremendous responsibility to monitor jail conditions, conduct investigations, compile data and publish reports. The board staff in the facilities are essential for addressing abuses. If I could just give one example of the importance of the Board of Correction: in December, their staff identified in the solitary confinement units at West facility people who were being held in squalor and required to wear diapers. It took the board's much advocacy with the department to get that corrected. So it is essential that they are fully staffed to be able to have people in the facility to observe conditions and correct them. Thank you.
+
+[**(05:04:42)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18282s)
+
+
+
+Thank you. Thank you to this panel. You are dismissed. Next, we will hear from Darren Mack with Freedom Agenda, Tammy Reid with Freedom Agenda, Eduardo Rodriguez with Freedom Agenda, Joseph Sto with Freedom Agenda and Victor Herrera with Freedom Agenda. You can start once you turn on the microphone.
+
+[**(05:05:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18331s)
+
+
+
+Thank you, Chair Brooks-Powers and Council members for the opportunity to testify today. My name is Darren Mack, co-director at Freedom Agenda, and we are one of the organizations leading the campaign to close Rikers. Our members are survivors of Rikers like myself and family members who suffered the harms of Rikers along with their loved ones. They know from experience that incarcerating people continues cycles of violence and destabilizes communities while devouring the resources that could be used to create real safety.
+
+Unfortunately, key investments in a safer and healthier New York City are missing from the preliminary budget. That is why we are calling for 69.2 million more to meet mental health needs outside of Rikers, 48.5 million more for diversion and re-entry programs and 3 million to increase the Board of Correction's oversight capacity.
+
+The City Council pointed out recently that some long-standing vacancies in city agencies could provide opportunities for cost savings. The Department of Correction should be at the top of this list. DOC has 7,600 authorized positions for uniform officers, but less than 5,800 on staff and about 1,300 positions vacant. These vacancies have been growing for years despite lowering eligibility requirements, increasing pay and benefits and conducting a multi-million dollar recruitment campaign. Filling these vacancies would cost an additional 174 million per year. Every penny of that money would be better spent on efforts to reduce the jail population like the investments we are advocating for. DOC's authorized headcount gives them a staffing ratio four times higher than the national average. The budget also authorizes DOC for more than two times more officers than they would need to operate the borough facilities.
+
+If the city is serious about reducing incarceration and closing Rikers, cutting these vacancies is a no-brainer. Closing Rikers is a legal and moral mandate that must be backed up by this year's budget. I will submit along with this testimony a full budget analysis that outlines amendments needed in the fiscal year 2027 budget to pave the way to closing Rikers. Thank you.
+
+[**(05:07:44)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18464s)
+
+
+
+Thank you.
+
+[**(05:07:48)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18468s)
+
+
+
+Good afternoon, Chair Brooks-Powers and committee members, and thank you for allowing me to testify today. My name is Tammy Reid and I am testifying on behalf of Freedom Agenda and as a member of the campaign to close Rikers. I want to start off by saying that as a taxpaying citizen of this city, I am blown away by the amount of money we spend to house one person for one year at Rikers Island, which is to the tune of almost half a million a year. I live off of less than 25,000, but yet I still eat. I have adequate clothing, utilities and so forth. So we can do much better than this.
+
+What I am proposing today is that the current budget for fiscal year 2026 be adjusted to be in line with the closing of Rikers. I am requesting that instead of passing this overbloated DOC budget, the City Council work with the mayor to reallocate funds to areas where we truly do need the funding, such as mental health services, more vigorous community services and affordable housing for those with mental health issues and others, just to name a few.
+
+Again, I am baffled as to why we keep dumping money into a facility such as Rikers Island, which is a disgrace and a sin upon our city, instead of addressing the real issues that are plaguing our city, such as mental health, housing and preventative care. What I mean by that is funding programs to help our young ones from ever entering the system. Recently, I was at an event where a panelist said that there are surveys that correlate failing test scores in schools to the number of beds needed in Juvenile Hall. I was flabbergasted by this statement. If you can correlate test scores to Juvenile Hall beds, then surely you can correlate it to the fact that there is a need to fund schools and programs that prevent kids from filling up these beds.
+
+There are a host of organizations out here that are already dedicated to this goal. One such organization is the family enrichment centers. They are popping up all over New York City. I volunteer at one in St. Albans, Queens. As a member, one of the main issues is funding. This is true for a lot of organizations that are already up and doing the work. So I ask that the committee consider taking some of that Rikers money and putting it into these programs to help our young ones.
+
+[**(05:10:11)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18611s)
+
+
+
+And what is the program in St. Albans?
+
+[**(05:10:13)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18613s)
+
+
+
+The family enrichment center, community connections.
+
+[**(05:10:16)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18616s)
+
+
+
+Okay. Well, present them.
+
+[**(05:10:17)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18617s)
+
+
+
+Yes.
+
+[**(05:10:18)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18618s)
+
+
+
+Yep.
+
+[**(05:10:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18619s)
+
+
+
+Got it.
+
+[**(05:10:19)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18619s)
+
+
+
+Work with them every day.
+
+[**(05:10:21)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18621s)
+
+
+
+Yes.
+
+[**(05:10:22)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18622s)
+
+
+
+Good afternoon, committee members. My name is Joseph.
+
+[**(05:10:25)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18625s)
+
+
+
+Please turn your mic on.
+
+[**(05:10:27)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18627s)
+
+
+
+Good afternoon, committee members. My name is Joseph Stood. I am a Native American spiritualist, but 30 years ago I was an adolescent trapped in the gladiator school of Rikers Island. Between 1994 and 1997, the violence was so consistent that I had to cut my long hair short just to survive, to make sure that no one could grab it during a fight. It was not until December 5th, 1995, when I was finally able to start growing my hair back because I was in state custody. I kept it long ever since as a symbol of my spirit and my freedom.
+
+30 years later, the violence at Rikers Island has not changed. It remains the same, if not worse. The only thing that has grown since is the waste of public money. Today, New York City spends nearly half a million dollars to incarcerate just one person for a year. The DOC is spending over 370 million on overtime alone. We are pouring billions into a system that fails to provide safety and dignity to our people. More than 50% of people at Rikers Island today have a mental health diagnosis and hundreds are there simply because they are homeless.
+
+I urge the Council to rein in DOC's inflated budget and stop the cycle of violence. I lived through this decades ago. Expand the Board of Correction's oversight to hold the system accountable. Redirect these funds into community-based services that foster real safety and well-being, including the mental health and diversion programs that the campaign to close Rikers Island is advocating. The city committed to closing Rikers Island in 2027. We cannot wait another 30 years. It is time to divest from failure and reinvest in our people. Thank you for hearing me out.
+
+[**(05:12:36)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18756s)
+
+
+
+Thank you.
+
+[**(05:12:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18758s)
+
+
+
+Good afternoon, members of the committee and fellow attendees. My name is Victor Herrera and I am a longtime directly impacted leader and member of Freedom Agenda's Close Rikers campaign. I want to begin by saying that I have experienced violence that was mostly provoked by staff during controlling factors in the Department of Correction at Rikers Island, where the other C's — care and custody of the individuals — are ignored. Those who are pre-trial detained are faced with the difficult and overwhelming reality of what they confront when faced with the criminal and prosecutorial apparatus, which is just too tough to overcome. As COBA has noted, they are faced with overworked staff equally stressed by their own shortfalls, whether overtime or staffing shortages, engaging in daily correctional ideologies. The result is harm to both sides, not one side as implicated by the union. Detainees are always the first to be blamed for the harm they experience.
+
+I am here today to urge you to increase funding for specific re-entry programs that serve to prepare pre-trial detainees or parolees to return with the necessary information and resources. There is an absence of re-entry preparation for individuals to participate in when the appropriate needs upon return to the community are vital for those seeking economic and housing resources. The absence of such information and preparation leaves many at risk. With the current MetroCard-and-go approach, cost effectiveness, public safety, justice, remedial education and resources will go a long way for people returning, and the urgency is real. These insecurity issues are truly overwhelming and traumatizing. More social services are needed while individuals are being held in custody or detained.
+
+Without increased allocation of funding for such programs, the city is left with underserved people and communities, leaving them open to negative outcomes and interpretation by other agencies, such as NYPD and probation. I understand that budget resources are limited and that every department is making a case for funding. However, cutting or underfunding prevention programs like the ones proposed for people in detention will only cost more in the long run. This is not just a moral choice. It is a fiscally responsible one. Thank you.
+
+[**(05:14:46)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18886s)
+
+
+
+Thank you. Thank you to the panel. This panel is dismissed. Next, we will call up Alice Hamlet with Worth Rises, Bedal Guzman with America on Trial Incorporated, Barbara Menny and Tanoa Downing. You can start whenever you are ready. Just unmute the mic.
+
+[**(05:15:54)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=18954s)
+
+
+
+Good afternoon and thank you, Chair Brooks-Powers and the committee, for the opportunity to testify. My name is Alice Hamlet and I am the policy campaigns manager at Worth Rises, a nonprofit working to end the exploitation of people impacted by the prison industry. In 2019, New York City became the first jurisdiction in the country to provide free phone calls in its jails, strengthening family connectedness, improving re-entry outcomes and increasing public safety. However, it has become apparent that even free calls from New York City jails come at a steep cost.
+
+Under the guise of the simple phone system, the DOC and its jail telecom vendor, Securus, have constructed a vast high-tech spying network that primarily targets Black and brown New Yorkers. Without a warrant, DOC records every call and collects biometric, financial and other personal information from all participants, including the roughly 20,000 people admitted to New York City jails each year, as well as their family and friends, and packages it to sell to other law enforcement agencies, meaning that personal data can circulate forever.
+
+Introduction 96, the End Correctional Community Surveillance Act, sponsored by CM Brewer, would ban this recording and data collection without a warrant, force the destruction of data already collected and create a private right of action for anyone whose information was unlawfully surveilled or disclosed. It recaptures the promise of our First Amendment rights while retaining the tools necessary for public safety. Please see the written testimony, which we will be submitting following the hearing, for more details. Thank you for your time.
+
+[**(05:17:31)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19051s)
+
+
+
+Thank you.
+
+[**(05:17:41)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19061s)
+
+
+
+Good afternoon. My name is Tana Downey and I am a civil rights advocate and litigator out of Washington DC. My friends, there is nothing more destructive to our union than paying people to violate the Constitution of the United States of America. Please allow me to explain. The Constitution is the overarching requirement that every state must follow. I trust we all understand that. States cannot enact their own alternative legislation, substitute that for the guarantees of the Constitution, and go out and enforce it as though it is constitutional. Clause one of Amendment Five to the United States Constitution says no person shall be held to answer for a capital or otherwise infamous crime unless on presentment or indictment of a grand jury. However, the state of New York has enacted its own alternative legislation that permits prosecuting attorneys and law enforcement to charge by information, not by indictment, and that is unconstitutional.
+
+Now, an emolument violation is when you pay someone to violate the Constitution. You cannot do that. If you receive federal funding, you cannot pay someone to violate federal law. There are two areas of the Constitution that reinforce this. The first is Article 1, Section 10. That is where it says no state shall create new law that shall impair the obligation of contracts. Police officers, prosecutors, judges — they are all under contract. That is a contract to perform based upon the oath or affirmations they took to support and defend the Constitution of the United States of America. So when the state of New York creates a law that directs them to disobey the Constitution, that would obviously be a violation of Article 1, Section 10. The second place that reinforces this is the 14th Amendment. That is where it says that no state shall create or enforce any law which shall abridge the privileges and immunities of United States citizens. The privileges and immunities of United States citizens are at minimum what is enumerated in the Bill of Rights. They cannot be impaired. This was affirmed by the United States Supreme Court in 2019.
+
+As a result, the state of New York has created a law and is directing their agents, whom unfortunately you all pay, to violate the Constitution of the United States. As a result, there is currently an inordinate number of people in prison here in the state of New York illegally and unconstitutionally. I am preparing to litigate this through the United States Supreme Court on behalf of the more than 700,000 people who are currently in prison here in America illegally and unconstitutionally. I am here today to let you know that if we continue to pay these public officials to violate the Constitution, criminal sanctions can come from that. We do not want to head down that path. I am here to work with you to fix this problem. But I need to make sure that you are aware that paying people to violate the Constitution is an emolument violation. It is illegal and it is a crime.
+
+So I am asking you, honorable individuals, today to please take a look at Clause One, Amendment Five, confirm what I am saying to be true, and then direct your agents to act in a lawful, constitutional manner that is consistent with the obligations they have codified in the Constitution of the United States of America. Thank you so much.
+
+[**(05:19:48)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19188s)
+
+
+
+Thank you.
+
+[**(05:19:50)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19190s)
+
+
+
+Hey, how you doing? My name is Vidal Guzman. I am the executive director and founder of an organization called America on Trial. I come here today as someone who was incarcerated twice on Rikers Island. I was tried as an adult when I was 16. I was on Rikers when I was 17. I was also reincarcerated when I was 19. As New York moves to close Rikers, we must treat community reinvestment as urgent and important in these budget hearings. If we are serious about reducing incarceration, we start long before people, especially young people, come in contact with the system.
+
+Right now in New York, we heard everybody say it operates the most expensively. We also heard the Department of Correction talk about how much they spend on overtime. And on top of that, we also know how much it costs to keep a person on Rikers Island — half a million dollars. These resources could be better used outside of the jail system to meet people's needs and prevent any type of interaction with the criminal justice system. Through my work with America on Trial and as a lifelong resident of West Harlem, I see every day how underinvestment in communities like mine limits opportunities for young people, and how real investments would do far more for safety than continuing to pour money into jails.
+
+We need more funding for youth programs, job opportunities for youth, pathways into growing industries like technology. And I heard some of the public talk about the need for investment in violence interruption programs, housing, trauma, and more. As the city continues to move toward closing Rikers, I just urge this Council to remember the commitment to make meaningful investment in New Yorkers and their communities. Closing Rikers does not mean moving Rikers somewhere else. We really need to think about the real shift. The question I should ask you is not whether we can afford to invest in our communities. The reality is that we cannot afford not to. Thank you for your time and for the opportunity to share my testimony.
+
+[**(05:22:00)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19320s)
+
+
+
+Thank you so much. Thank you to the panel. The panel is dismissed. For virtual panelists, we will be calling individuals one by one to testify. Once your name is called, a member of our staff will unmute you and the sergeant-at-arms will set the timer and give you the go-ahead to begin. Please wait for the sergeant-at-arms to announce that you may begin before delivering your testimony. First, we will hear from Alicia Thomas.
+
+[**(05:22:37)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19357s)
+
+
+
+You may begin.
+
+[**(05:22:41)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19361s)
+
+
+
+Good afternoon, chair and members of the Council. My name is Alicia Thomas and I am a resident of Bronx County. I am here today as someone who has experienced homelessness firsthand and as a member of the Freedom Agenda and the campaign to close Rikers Island. There was a time in my life when I was doing everything I could to survive, trying to keep a roof over my child's head while the system kept pushing me down. My three-year-old son and I were living in a shelter that was not fit for a child. The conditions were very unsanitary and I worried consistently about his health and safety. Every day was about survival with almost no resources.
+
+What I experienced is not an isolated story. What I lived through and what I saw others going through were not so different from what happens in a place like Rikers Island. The over-reliance on the carceral system does not solve these struggles. It deepens them. Families are separated. Children grow up without parents. And people who need housing, health care, and mental health support are met with punishment instead of solutions.
+
+At a cost of nearly half a million dollars per person a year, Rikers Island is the most expensive and least effective tool our city has to create safety. And yet the FY2027 preliminary budget that has been presented is missing the very investments that would actually help people before they reach a point of crisis. We need the city to invest $69.2 million in mental health care outside of Rikers, including restoring and expanding intensive mobile treatment teams to eliminate a wait list of over 500 people waiting on those services, to restore funding for assertive community treatment, and to create more forensic ACT teams for people returning home. We need investment in outpatient competency restoration so people are not stuck waiting on Rikers Island for...
+
+[**(05:24:49)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19489s)
+
+
+
+Thank you. Next we will hear from Nia Williams.
+
+[**(05:24:52)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19492s)
+
+
+
+You may begin.
+
+[**(05:25:29)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19529s)
+
+
+
+We will next hear from Jesse Taylor.
+
+[**(05:25:32)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19532s)
+
+
+
+You may begin.
+
+[**(05:25:38)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19538s)
+
+
+
+Blessings to you all and thank you for this opportunity to share my testimony. My name is Jesse and I am a member of Freedom Agenda and I work as a re-entry services provider for women, mothers, and gender non-conforming people at the Rose M. Singer Center. As we have heard all morning and into the afternoon, collaboration between NYC public schools, city agencies, and impacted communities can guide a sustainable decarceration path.
+
+We need to prevent recidivism by reempowering communities with material support in the form of $41 million to restore FY26 funding levels for intensive mobile treatment teams, $3 million in capital funds to support 60 new residential treatment beds, an additional $48.5 million for diversion and re-entry services through the office of criminal justice, $6.89 million to expand programs serving court-involved youth with mental health needs and $20.3 million to establish at least 150 units of low-barrier housing for people with court involvement and mental health diagnoses.
+
+As the Center for Court Innovation's 2021 closing Rikers Island report says, there are many short and long-term interventions that can foster safer neighborhoods without the harms from an over-reliance on jail. These approaches range from violence interruption programs to expanded mental health care to investments in supportive housing, youth programs, special education, and other efforts to prevent violence and address fundamental needs in impacted communities. Closing Rikers and developing care-driven, people-first, trauma-informed, borough-based jails will require intentional community-centered action and a budget that promotes well-being and reduces incarceration. Thank you.
+
+[**(05:27:04)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19624s)
+
+
+
+Thank you, Jesse. We will go back to Nia Williams.
+
+[**(05:27:07)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19627s)
+
+
+
+You may begin.
+
+[**(05:27:10)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19630s)
+
+
+
+Thank you so much for the opportunity to speak today. My name is Nia Williams and I am a deputy director with the Osborne Association's Court Advocacy Services, which has provided defense-based advocacy in New York City for indigent clients for 40 years. Osborne serves over 18,000 individuals and families a year who are navigating the court system. For 21 years, I have advocated for individuals in New York City, often accused of serious offenses.
+
+I have recently worked with a 40-year-old client with co-occurring untreated mental illness and substance use disorder. I interviewed, assessed, and successfully advocated for a sentence of time served with community treatment as an ATI. This client, like many others arrested whose humanity was secondary to the offense, was granted the opportunity to redirect his life. Judicial buy-in and zealous legal strategy that recognizes the effectiveness of CAS's mitigation and advocacy contributed to the outcome. Collaboration with defense attorneys promotes public safety while saving public dollars spent on pre-trial detention and prison sentences. Last fiscal year, CAS prevented 1,674 years of incarceration, adding cost savings to the city and state of $227 million.
+
+I want to close with reflections from parole attorney and Legal Aid attorney Nian Kim, who recently said: "The Osborne Association team shines a light on the dignity of our clients in the face of a system that makes them feel small and invisible. Clients have shared with me that Osborne social workers have laid down the bridges for them to realize their dreams, shown that they are capable beyond expectations, deserving of investment, and valuable members of the New York City community. Without Osborne's collaboration, much freedom and many second chances would have been denied. But with their support, our clients have returned to their homes, families, jobs, and programs, knowing that they had others in their corners and rooting for them." Osborne is a long-standing member of the New York City ATI re-entry coalition. The coalition has requested an additional $2.4 million increase across our telehealth member organizations.
+
+[**(05:29:14)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19754s)
+
+
+
+Time expired.
+
+[**(05:29:23)**](https://www.youtube.com/watch?v=bjZFk_1_pD0&t=19763s)
+
+
+
+Thank you to everyone who came out and testified today. If there is anyone in the room who wishes to testify that we may have inadvertently missed, we just ask that you fill out one of the cards and give it to the sergeant-at-arms. Hearing none, I just want to thank the agencies, the advocates, and everyone in between for coming out today and lending your voice to the start of this budget season. Thank you everyone.
