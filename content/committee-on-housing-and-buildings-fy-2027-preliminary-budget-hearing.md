@@ -6,239 +6,79 @@ date: 2026-03-24
 slug: committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing
 duration: "6hrs 40m"
 youtube_url: "https://www.youtube.com/watch?v=aPrlRrwWsaU"
-council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397975&GUID=CE8E0426-D440-41E9-BF41-9709B52EDDFD&Options=info|&Search="
 ---
 
 Summary
 
 Meeting Overview
 
-The New York City Council Committee on Housing and Buildings held its preliminary budget hearing for Fiscal Year 2027 on March 24, 2026, covering the Department of Buildings, the Department of Housing Preservation and Development, and public testimony. The hearing was structured around three sessions running from mid-morning into the afternoon and drew testimony from both agency commissioners and a broad range of housing advocates, legal service providers, nonprofit developers, and tenant organizers. Chair Pierina Sanchez framed the hearing around the city's compounding housing crisis: rising building violations, displacement pressure on low-income and Black New Yorkers, and a constrained fiscal environment in which both agencies are being asked to do more with less.
+The Housing and Buildings Committee held its preliminary budget hearing for fiscal year 2027, covering the Department of Buildings (DOB, $317.7 million proposed budget) and the Department of Housing Preservation and Development (HPD, $1.08 billion proposed budget). The hearing ran roughly six hours and included testimony from both agencies' new commissioners, the public advocate, and a lengthy public session featuring legal services providers, housing advocacy groups, tenant organizers, homeownership counselors, and community land trust representatives. The backdrop throughout was the Mamdani administration's first budget cycle, with both commissioners newly appointed and under visible scrutiny about whether they can execute meaningfully differently from their predecessors.
 
-DOB Commissioner Ahmed Tani defended a proposed FY2027 expense budget of around $214 million and acknowledged that the agency carries a 13.8 percent vacancy rate — nearly twice the citywide average — even after sustained recruitment efforts including job fairs, bus stop advertising, and CUNY partnerships. Progress was claimed in several areas: construction-related injuries fell 42 percent from FY2024 to FY2025; the share of proactive enforcement inspections has grown to roughly 35 percent of all enforcement activity; stop work orders are up 20 percent; and a 15 percent reduction in sidewalk sheds has been achieved since 2023. The agency is also transitioning to 90-day sidewalk shed permit renewals, standing up 23 new enforcement positions funded through permit fees, and piloting a buildings tech lab with five private companies to improve plan review. Council members pushed hard on staffing gaps in elevator and plumbing inspection, a rising backlog in Priority B complaint response times (now 21 days, up from 15), $310 million in outstanding unpaid fines, and specific cases of tenant harassment and stalled construction sites. DOB Now has now absorbed 95 percent of all job filings at a total system cost of $172.8 million, though first plan review times have crept up from 3.5 to 5 days as resubmission volumes have increased.
+DOB Commissioner Ahmed Tani, just two months into the role, presented a relatively steady-state budget but pointed to several genuine operational improvements: proactive inspections now account for roughly 35% of all enforcement inspections (up from near zero a few years ago), construction-related injuries dropped 42% between fiscal years 2024 and 2025, and sidewalk sheds citywide have been reduced by about 15% since 2023. Tani also flagged worsening service metrics — plan review times up from 3.5 to 5 days, complaint response for priority B violations up from 15 to 21 days — attributing the increases to vacancies and reduced overtime. On Local Law 97, DOB reported over 91% compliance with Phase 1 reporting requirements, though acknowledged the harder work of actually cutting emissions toward the 2030 targets remains ahead. Council members pressed hard on elevator outages (13,166 complaints in 2025 against just 28 active inspectors with 4 vacancies), SRO tenant harassment, stalled construction sites, and the $310 million in uncollected DOB fines. The contractor licensing suspension of Yakov Eisenbach of Hexagon Industries following a wall collapse near an elementary school was cited approvingly as an example of proactive enforcement working.
 
-HPD Commissioner testimony covered a proposed FY2027 expense budget of $1.08 billion and a capital plan of $14.65 billion inclusive of Section 8 pass-through. Calendar year 2025 production figures were cited as roughly 16,000 units preserved and 13,500 units new construction, with 2,500 extremely low income units and 1,300 senior units among the total. Public Advocate Jumaane Williams flagged a $500 million reduction from the FY2026 modified budget as a serious concern given federal funding uncertainty. City of Yes implementation is drawing on $825 million in city capital and $500 million in state HCR allocation, with 94 new HPD positions funded through the initiative. Recurring concerns from council members included an 87 percent and declining Section 8 utilization rate due to a HUD shortfall sweeping reserves, the slow rollout of HAVP vouchers, a roughly 22 percent vacancy rate among HPD development project managers, the persistent underbudgeting of CityFHEPS, and the impending capital fiscal cliff in which HPD's capital budget drops from $5.9 billion in 2026 to under $3 billion in 2027. A Gothamist finding that 421A buildings average 2.1 violations per unit versus a 0.8 citywide average was raised but not resolved.
+HPD Commissioner Dena Levy (returning to city government after stints at UHAB and elsewhere) faced tougher questioning, partly because HPD's budget shows a nominal $500 million reduction from the fiscal 2026 modified budget, though much of that reflects the wind-down of asylum seeker shelter contracts and changes in pass-through funding rather than direct service cuts. Key substantive concerns: section 8 voucher utilization is falling (now 87%) partly because HPD is in shortfall and cannot issue new vouchers while HUD has swept reserves; CityFHEPS is funded at $1.64 billion against what advocates say is an $800 million structural undercount; the Alternative Enforcement and Emergency Repair Programs show very low fine collection rates (30% and 13% respectively), though Levy argued compliance matters more than collections; and new construction permitted under 421A is showing elevated violation rates per unit. Council members pushed on the HPD capital cliff — the five-year plan drops sharply after fiscal 2026, and the New York Housing Conference testified that HPD needs roughly $4 billion per year to maintain historical production, against a budget that falls well below $3 billion in fiscal 2027 and below $2 billion in the outer years. The 94 positions funded through City of Yes are still being hired into, with 22% vacancy in the project manager series and 19% vacancy among inspectors.
 
-Public testimony across two sessions surfaced a series of funding crises and systemic failures that cut across both agencies. Legal service providers reported that Legal Services NYC alone is owed roughly $40 million in unpaid city contracts, with $700,000 spent in interest while awaiting reimbursement, and that 27,000 households eligible for right to counsel representation received none in FY2025. The Stabilizing NYC coalition reported $9.25 million collectively owed to its member organizations, with OMB identified as a primary bottleneck on contract registration and payment. The New York Housing Conference warned that HPD capital would need to be roughly $4 billion per year to maintain historical production. UHAB described a $1 million per year accounting error in its HDFC co-op technical assistance contract that OMB has refused to correct for six months, putting services to approximately 1,200 co-ops at risk by July. The Community Preservation Corporation warned that per-unit operating costs for rent stabilized buildings rose 22 percent between 2020 and 2023, with insurance alone up over 50 percent. Advocates for seniors cited a waitlist that would take 250 years to clear at the current rate, SCRIE funded at only 47 percent of need, and a 10 percent annual increase in older adults becoming homeless. Community land trust representatives described receiving allocations on paper that have gone undelivered for up to three years. A specific enforcement failure at 245 East 110th Street in East Harlem, where a court agreement has gone unenforced for over a year, was raised and not resolved.
+Public testimony was largely consistent and cumulative: legal services providers (Legal Services NYC, Legal Aid, Mobilization for Justice, Buildup Justice NYC) reported catastrophic contract payment delays — Legal Services NYC alone is owed $40 million — and called for structural fixes to right-to-counsel contracting terms, including restoring the ability to roll cases across years and removing punitive withholding penalties. Homeownership groups (NHS network, Center for New York City Neighborhoods) requested $1 million for a property management pilot for low-to-moderate income senior homeowners and $9.7 million for foreclosure prevention and home repair, noting that 4,000 homeowners apply annually for HomeFix but only about 100 are served. Community land trust advocates called for $3 million in expense funding for 23 organizations and a $50 million CLT capital fund that Mayor Mamdani had committed to during his campaign. Coalition for the Homeless and allies pushed for 12,000 units per year of housing reserved for extremely low income and homeless households, noting that the city financed the equivalent of only 21% of affordable units for extremely low income households over the entire decade 2014 to 2024. Supportive housing providers asked for $65.3 million for SRO preservation and stressed that aging first-generation supportive housing stock — some of it 40 years old in buildings over 100 years old — faces closure without capital intervention. The hearing ended without votes or formal decisions; it functions as a precursor to the executive budget negotiations.
 
 Numbers
 
-- $317.7 million: DOB proposed FY2027 expense budget (as stated by Chair).
-- $214 million: DOB FY2027 preliminary expense budget as stated by Commissioner Tani.
-- $181 million (85 percent): DOB personnel services component of expense budget.
-- $33 million: DOB other-than-personnel-services funding.
-- 1,864: DOB budgeted positions.
-- 1,635: DOB actual headcount as of January 2026.
-- 218: DOB actual vacancies.
-- 13.8 percent: DOB vacancy rate before pipeline (nearly twice the citywide average of 5 percent).
-- 55: Candidates in DOB hiring pipeline (41 inspectors).
-- 163: Remaining actual vacancies after pipeline.
-- approximately 9 percent: DOB effective vacancy rate after pipeline.
-- 90: Net DOB positions lost during Adams administration.
-- 42: New DOB positions added in FY2027 plan.
-- 185: New DOB budgeted positions received since November 2026 plan.
-- 23: New positions for sidewalk shed enforcement, funded through permit fees.
-- 13: New positions for licensing background checks.
-- $2 million: Baseline funding for 23 sidewalk shed positions.
-- $725,000: Funding for 13 licensing background check positions.
-- $350,000: Baseline increase for elevator inspector preclearance overtime.
-- $1.6 million: Cost of Modell's space renovation at 280 Broadway (100 additional workstations).
-- $353.1 million: DOB miscellaneous revenue in FY2027 preliminary plan.
-- $1.9 million: Increase over FY2026 adopted plan in DOB revenue.
-- $2.9 million: Increase in construction permit revenues.
-- $1.1 million: Increase in trade professional license revenues.
-- $5.6 million: DOB overtime spending reduction since FY2026 (60 percent reduction).
-- $172.8 million: Total spent on DOB Now as of end of February 2026.
-- $8.5 million: DOB Now budget for FY2026 ($2.7 million expense plus $5.8 million capital).
-- $1 million: DOB Now out-year baseline.
-- $310 million: Outstanding unpaid DOB fines (citywide, uncollected).
-- $315,000: City funds allocated to investigate NYCHA building collapse in the Bronx.
-- $25,000: Maximum penalty for unpermitted work in a multiple dwelling.
-- approximately 275,000: Construction jobs filed with DOB in FY2025.
-- approximately 169,000: Initial and renewal construction permits issued in FY2025.
-- 5 days: Average first plan review time in DOB Now, up from 3.5 days prior year.
-- approximately 2,500: Additional resubmissions received in current period versus prior year.
-- 4 days: Current wait time for construction inspection.
-- 9 days: Current wait time for electrical inspection (down from approximately 13 days in FY2025).
-- 21 days: Current response time for Priority B complaints (up from 15 days).
-- approximately 100,000: Annual 311 complaints received by DOB.
-- 60: Positions received for proactive enforcement program under Local Law 79 of 2024.
-- 49: Proactive enforcement positions filled; 11 vacant.
-- approximately 9,200: Proactive inspections conducted since March of prior year.
-- approximately 7,000: Summonses issued through proactive inspections.
-- approximately 35 percent: Current share of proactive inspections out of all enforcement inspections.
-- approximately 190,000: Total enforcement inspections conducted in FY2025.
-- 20,000 plus: Proactive construction safety inspections in calendar year 2025.
-- 21,000 plus: Construction safety enforcement inspections in calendar year 2025.
-- 625 to 363: Construction-related injuries FY2024 to FY2025 (42 percent reduction).
-- 2,683: Stop work orders issued in first 4 months of FY2026 (20 percent increase versus FY2025).
-- 15 percent: Reduction in sidewalk sheds citywide since 2023.
-- 7,000 to 7,600: Active sidewalk shed permits.
-- 90 days: New sidewalk shed permit duration (down from one year).
-- 40 feet: New reduced radius for sidewalk sheds.
-- 3 years: Revised definition of long-standing shed (down from 5 years).
-- 70,000: Elevator units across New York City.
-- 13,166: Single elevator building complaints in calendar year 2025.
-- 28: Active elevator inspectors (with 4 vacancies, soon to be 2).
-- 21 percent: Plumbing inspector vacancy rate (16 of 76 positions).
-- 558: DOB inspectoral staff.
-- 89 to 94 percent: Local Law 97 Phase 1 compliance rates by article type.
-- 27: DOB job fairs held in 2024.
-- 25: DOB job fairs held in 2025.
-- 127: Bus stops with DOB job hiring information.
-- approximately 6 years: Average tenure of DOB plan examiners and inspectors before separation.
-- $1.08 billion: HPD proposed FY2027 expense budget.
-- $12.16 billion: HPD FY2026 to 2030 capital plan (excluding pass-through).
-- $2.27 billion: Section 8 conversion pass-through funding.
-- $14.65 billion: Total HPD capital plan including pass-through.
-- $500 million: Reduction in HPD expense budget from FY2026 modified budget.
-- $825 million: City of Yes capital for HPD (FY2025 to 2029).
-- $175 million: City of Yes capital passing through to NYCHA (Section 9 vacant units).
-- $500 million: State HCR allocation for new construction and preservation.
-- $225 million: State HCR funds for NYCHA.
-- 94: New HPD positions funded through City of Yes.
-- approximately 16,000: Units preserved by HPD in calendar year 2025.
-- approximately 13,500: New construction units financed or via tax incentive in calendar year 2025.
-- approximately 2,000: Supportive housing units created in calendar year 2025.
-- approximately 1,300: Senior housing units created in calendar year 2025.
-- approximately 2,500: Extremely or very low income units created in calendar year 2025.
-- 15 percent: Homeless set-aside requirement for new construction projects of 40 or more units.
-- 4 percent: Homeownership set-aside requirement under Local Law 57 of 2026.
-- 11: Senior housing projects in HPD development pipeline totaling approximately 2,000 units.
-- 87 percent: Section 8 utilization rate in first 4 months of FY2026 (down 2 points year-over-year).
-- 20 percent: Reduction in Section 8 vouchers issued over same period.
-- approximately 44,000: Families receiving ongoing federal rental assistance.
-- $50 million: State allocation for HAVP in 2025.
-- $32.5 million: HAVP funds going specifically to New York City.
-- 900 to 1,100: Estimated HAVP vouchers for New York City.
-- approximately 330: HAVP vouchers to be made available to shelter population.
-- 15: New HPD staff lines added for HAVP.
-- $1.64 billion: Mayor's FY2027 investment in CityFHEPS.
-- $1.25 billion: Prior year CityFHEPS investment.
-- approximately $800 million: CityFHEPS underbudgeting under Adams administration.
-- 800: Families currently in HPD shelters across 14 SROs and 3 family shelters.
-- 445 to 494 days: Increase in average shelter stay for adult families.
-- 300 to 353 days: Increase in average shelter stay for families with children.
-- $136.3 million: Reduction in city funds for emergency housing program.
-- 20 percent: Share of FY2025 shelter exits that returned to original unit.
-- 60 percent: Share of families exiting shelter who moved to new housing.
-- over 100,000: People in shelter per night (January 2026 average).
-- approximately 200,000: Estimated people doubled or tripled up citywide.
-- $26 million: ERP fines levied in last fiscal year; approximately 70 percent collected.
-- $5 million: AE program charges levied in 2025; approximately 30 percent collected.
-- $24 million: Emergency demolition charges levied; approximately 13 percent collected.
-- 199: Buildings discharged from AE program last year.
-- 125: Pre-qualified emergency demolition contractors; 76 of 125 are MWBEs.
-- $3 million: Attorney general settlement funds for HDFC till buildings in 2026.
-- 64: HDFC till buildings remaining, covering approximately 800 units; 40 projects currently in construction.
-- approximately 10 percent: Share of approximately 1,600 residential buildings opened since 2016 with at least one violation per apartment.
-- 2.1: Average violations per unit in 421A buildings versus 0.8 citywide average.
-- 114: HPD budgeted project manager headcount; 89 active, 25 vacant (approximately 22 percent vacancy).
-- 459: Total HPD inspector lines; 372 active, 87 vacant (approximately 19 percent vacancy).
-- approximately 15 percent: Overall HPD vacancy rate.
-- 20: New Yorkers who died of hypothermia inside homes during winter 2026 storms; 1 building had a recent heat violation (subsequently closed).
-- $5.9 billion: HPD capital budget in 2026, dropping to under $3 billion in 2027 and under $2 billion in following years.
-- approximately $4 billion per year: Estimated HPD capital need to maintain historical production.
-- $1 billion per year: Additional capital estimated as needed for NYCHA PACT program.
-- $304.9 million: Preliminary budget allocation for HPD's primary preservation loan programs.
-- approximately $1 billion: ANHD estimate of actual annual need for preservation capital.
-- $1.3 million: Current HDFC co-op technical assistance contract funding (down $1 million from contracted amount due to OMB block).
-- $2.3 million: Total contracted value of UHAB TTA agreement.
-- approximately 1,200: HDFC co-ops covered by UHAB TTA contract, serving approximately 8,000 homeowners.
-- 8 plus: UHAB staff at risk of layoff starting July 2026.
-- $15.4 million: Increase in city funds to rental assistance program.
-- $13.9 million: Decrease in federal funds to rental assistance program.
-- $9.25 million: Amount owed collectively to 20 Stabilizing NYC coalition member organizations through the current fiscal year.
-- approximately 50 percent: Share of Stabilizing NYC owed funds not yet awarded.
-- $5.3 million to $5.7 million: Requested FY2027 funding for Stabilizing NYC.
-- $4.9 million: Requested FY2027 funding for CHIPS community housing preservation strategies initiative.
-- $5.37 million: Requested FY2027 CHIPS funding per ANHD (flat since 2016).
-- $1.5 billion: Estimated unpaid penalties owed to New York City from large corporations and bad actor landlords.
-- approximately $40 million: Amount owed to Legal Services NYC in unpaid city contracts.
-- $700,000: Interest costs incurred by Legal Services NYC while awaiting contract reimbursement.
-- 50,000: Households eligible for full right to counsel representation in FY2025.
-- 23,000: Households that received right to counsel representation in FY2025.
-- 27,000: Eligible households that received no right to counsel representation in FY2025.
-- 84 percent: Share of tenants represented by right to counsel who kept their homes.
-- 22 percent: Rise in per-unit operating expenses for rent stabilized buildings between 2020 and 2023.
-- 50 percent plus: Increase in insurance and administrative costs for rent stabilized buildings during the same period.
-- 1 million: Rent stabilized apartments in New York City.
-- $3 million: Requested FY2027 CLT initiative funding (up from $1.5 million for 15 groups in FY2026).
-- 23: Organizations that would be funded under the proposed $3 million CLT initiative.
-- $50 million: CLT capital fund requested (and previously committed to by the mayor during his campaign).
-- $300,000: Funds allocated to Western Queens CLT that have gone undelivered for 3 years.
-- 250 years: Estimated time to clear current senior housing waitlist at current production rate.
-- 47 percent: Current SCRIE funding utilization level.
-- $250 million: Requested to fully fund SCRIE.
-- $200 million: Requested for HUD 202 building repairs.
-- 1,000: SARA units per year minimum requested.
-- 520,000: Seniors on waitlists for affordable senior housing.
-- 10 percent: Annual increase in seniors becoming homeless (for 10 consecutive years).
-- 7,600: Supportive housing units identified as at serious risk of closure.
-- 1,300: Supportive housing units targeted for preservation by 2030 under NYC 15/15 plan.
-- $44 million: Capital funding requested for supportive housing preservation.
-- $21.3 million: Expense budget requested for supportive housing preservation.
-- $65.3 million: Requested from NY 1515 funding for SRO supportive housing preservation.
-- 5 times: Gap between NY/HIP HR SRO service contract rate and NYC 15/15 rate.
-- 35: Affordable apartments available per 100 extremely low income households in the metro area.
-- 21 percent: Share of city-financed affordable units between 2014 and 2024 created for ELI households.
-- 22,565: ELI units created over that decade.
-- approximately 70,000: Units created for households earning 51 to 165 percent AMI over the same period.
-- 12,000: ELI and homeless-set-aside units per year requested by Coalition for the Homeless.
-- $10 million: Requested for Heat Pumps for All program targeting 1 to 2 family homeowners.
-- $15,000 to $20,000: Estimated per-unit heat pump installation cost; $10,000 subsidy proposed per homeowner.
-- 4,000: Annual HomeFix applicants; only approximately 100 served.
-- 2,000: Homeowners helped to avoid foreclosure this year by CNYC network.
-- 8 percent: Rise in foreclosures this year.
-- $9.7 million: Requested from Council for foreclosure prevention, home repair, and estate planning.
-- 2,300: Units across 32 properties owned and operated by SKF Development in the Bronx.
-- $1 million: Requested for NHS citywide property management pilot; at least 95 units expected in first year.
-- 65: Heat and hot water complaints from one Flatbush building during one cold snap; only 1 violation placed.
-- 61 and 36: Open Class B and Class C violations respectively at 80 Clarkson Avenue.
-- 200,000: Black New Yorkers estimated to have left New York City.
+- DOB proposed fiscal year 2027 expense budget: $317.7 million, of which $181 million (85%) is personnel services supporting 1,864 budgeted positions.
+- HPD proposed fiscal year 2027 expense budget: $1.08 billion; HPD's fiscal 2026-2030 capital plan totals $12.16 billion plus $2.27 billion in Section 8 conversion pass-through, for a total of $14.65 billion.
+- HPD expense budget shows a $500 million reduction from the fiscal 2026 modified budget and a $395 million reduction from the fiscal 2026 adopted budget, largely attributable to the wind-down of asylum seeker shelter funding.
+- DOB actual headcount as of January 2026: 1,635 against a budgeted headcount of 1,853, leaving 218 vacancies; with 55 candidates in pipeline, effective vacancy rate is approximately 9%.
+- DOB lost a net 90 budgeted positions during the Adams administration; fiscal 2027 plan adds 42 positions plus 23 for sidewalk shed enforcement and 13 for licensing background checks.
+- DOB has spent $172.8 million on the DOB Now technology system as of end of February 2026; fiscal 2026 budget for DOB Now is $8.5 million ($2.7 million expense, $5.8 million capital); out-years baselined at $1 million.
+- DOB plan review average first-review time: 5 days currently, up from 3.5 days in the same period of fiscal 2025.
+- DOB priority B complaint response time: 21 days currently, up from 15 days in the same period of fiscal 2025.
+- DOB construction-related injuries fell 42%, from 625 in fiscal 2024 to 363 in fiscal 2025.
+- DOB issued 2,683 stop work orders in the first four months of fiscal 2026, a 20% increase from the same period in fiscal 2025.
+- DOB proactive inspections since March 2024: approximately 9,200 inspections resulting in 7,000 summonses; proactive inspections now account for approximately 35% of all enforcement inspections, up from 27% at end of 2024.
+- Elevator complaints in calendar year 2025: 13,166 for single-elevator buildings; DOB has 28 active elevator inspectors with 4 vacancies (2 recently filled).
+- Sidewalk sheds: approximately 7,000 to 7,600 active permits citywide; 15% reduction in total sheds since 2023; permit duration reduced from 12 months to 90 days.
+- Outstanding uncollected DOB fines: $310 million total.
+- Local Law 97 Phase 1 compliance: over 91% of covered buildings submitted compliance reports; 89% compliance rate for Article 320 buildings, 94% for Article 321 buildings.
+- HPD calendar year 2025 production: just over 16,000 units preserved, just over 13,500 new construction units (financed plus tax incentive); approximately 2,500 units for extremely low income households combined across preservation and new construction.
+- HPD section 8 voucher utilization rate: 87% in first four months of fiscal 2026, down 2 percentage points year over year; HPD currently administers approximately 44,000 vouchers.
+- HPD ERP fine collection rate: approximately 70% on $26 million levied in fiscal 2025; AEP collection rate: 30% on $5 million; emergency demolition collection rate: 13% on $24 million levied.
+- State HAVP allocation for New York City: $32.5 million of $50 million statewide, projected to produce approximately 1,000 vouchers; HPD is reserving approximately 330 for emergency shelter population.
+- HPD inspector vacancy rate: approximately 19% (87 vacant of 459 budgeted inspector-series positions); project manager vacancy rate: approximately 22% (25 vacant of 114 budgeted); overall agency vacancy rate: approximately 15%.
+- CityFHEPS funded at $1.64 billion in the mayor's preliminary budget, against a figure Public Advocate Williams cited as approximately $800 million below the cost of the expanded eligibility passed by the Council in 2023.
+- SCRIE currently funded to only 47% utilization; full funding estimated at $250 million.
+- Right to counsel program: 50,000 households eligible in 2025, only 23,000 received representation; Legal Services NYC alone owed $40 million in unpaid contract reimbursements.
+- New York Housing Conference estimates HPD needs approximately $4 billion per year in capital to maintain historical production; HPD capital plan drops to below $3 billion in fiscal 2027 and below $2 billion in subsequent years.
+- Coalition for the Homeless analysis: over the decade 2014-2024, only 21% of city-financed affordable units were for extremely low income households; approximately 70,000 units went to households earning 51-165% of AMI; over 100,000 people in shelter on average per night in January 2026.
+- Community land trusts: advocates requested $3 million in expense funding for 23 organizations (up from $1.5 million for 15 groups in fiscal 2026) and a $50 million CLT capital fund; Western Queens CLT has gone three years without receiving allocated discretionary funds.
+- HDFC co-op technical assistance contract: $1.3 million currently allocated, down from $2.3 million due to an administrative error; OMB has blocked correction, putting at risk services to approximately 1,200 co-ops and roughly 8,000 homeowners.
+- NHS network requested $1 million for a citywide property management pilot targeting low-to-moderate income senior homeowners of 1-4 unit homes, projected to serve at least 95 units in year one.
+- HomeFix program: approximately 4,000 homeowners apply annually; only approximately 100 are served per year.
 
 Action Points
 
-- DOB Commissioner Tani to send Chair Sanchez all recruitment advertisements and social media influencer information used in DOB hiring campaigns.
-- DOB to provide an update on the NYCHA building collapse investigation in the Bronx; work is targeting completion by end of 2026 with IAQ Consulting Engineering as vendor.
-- DOB to provide Chair Sanchez a breakdown of the 11 vacant proactive enforcement positions.
-- DOB intergovernmental team to reach out to CM Maloney's office to follow up on specific problem sidewalk sheds in her district.
-- DOB to return to the committee by end of year to report on implementation outcomes of the sidewalk shed legislative package.
-- DOB to follow up with CM Epstein regarding stalled construction sites in his district.
-- DOB to follow up with CM Joseph regarding a building walkthrough in her district.
-- DOB to provide CM Joseph with data on elevator outages including annual complaint numbers, inspector counts, and repair timelines.
-- DOB Commissioner Tani to investigate and report on 109 East 9th Street SRO harassment case within constraints of ongoing litigation.
-- DOB to provide more information on the Yakov Eisenbach and Hexagon Industries safety registration case as proceedings continue.
-- HPD to follow up with Chair Sanchez on a breakdown of the 94 City of Yes positions by function and hiring progress.
-- HPD to confirm and provide a detailed breakdown of the state HCR $225 million NYCHA allocation (Section 9 versus PACT).
-- HPD to finalize cost estimates for compliance with Local Law 57 of 2026 homeownership set-aside in coordination with OMB.
-- HPD Commissioner to set up a conversation with CM Joseph about 80 Clarkson Avenue's AEP discharge and ongoing violations.
-- HPD Commissioner to look into 75 Lennox Road ownership, with CM Joseph's office to provide details.
-- HPD to connect CM Zhuang with appropriate developers for senior housing opportunities in southern Brooklyn.
-- HPD Commissioner to reach out to EDC regarding the Bloomingdale Library project at 100th Street and follow up with CM Brewer about increasing affordable housing on that city-owned site.
-- HPD to follow up with Chair Sanchez on the breakdown of Section 8 funding changes between city and federal funds.
-- HPD to provide the committee with MWBE percentage data for emergency demolition contractors.
-- HPD to investigate Gothamist findings on 421A building violation rates and report back on whether a pattern exists by project type or developer.
-- HPD to look into reforming the inspector notification and calling policy for NYCHA tenant inspections.
-- HPD and City Hall to finalize proposals for reducing property insurance costs in affordable housing and work with OMB on interventions.
-- OMB to correct the $1 million administrative error in the HDFC co-op technical assistance contract before July 2026.
-- HPD to hire additional contract managers to process contract registrations and invoicing and clear the backlog of unpaid contracts.
-- HPD to allow nonprofits to claim NYC 15/15 service contract rates for SRO supportive housing.
-- HPD to prioritize Article 11 tax exemption applications from well-maintained buildings facing financial distress, as raised by SKF Development.
-- HPD to strengthen enforcement at 245 East 110th Street in East Harlem, where a court agreement has gone unenforced for over a year.
-- Chair Sanchez to follow up with Center for Justice Innovation on their specific funding requests.
-- Chair Sanchez to task her office with further pushing on the contract payment delay issue and to bring OMB to future hearings to account for the backlog.
-- City Council and Mayor asked to work with Albany to reenact a modernized J51 tax incentive for rent stabilized housing.
-- City asked to commit $250 million to fully fund SCRIE.
-- City asked to commit $200 million for HUD 202 building repairs.
-- City asked to develop at minimum 1,000 SARA units per year with priority for one-bedroom units.
-- City Council asked to fund CLT initiative at $3 million for 23 organizations in the FY2027 expense budget.
-- Mayor asked to create a $50 million CLT capital fund in the FY2027 capital budget per prior campaign commitment.
-- City Council asked to increase CHIPS funding to $5.37 million in FY2027.
-- City Council asked to fund Stabilizing NYC at $5.3 to $5.7 million in FY2027.
-- City asked to allocate $44 million in capital and $21.3 million in expense funding for supportive housing preservation.
-- City asked to establish a long-term 100% property tax exemption for distressed rent stabilized buildings.
-- HRA asked to better connect back-to-work program participants with open positions at HPD.
+- DOB to provide committee with copies of all job recruitment advertisements and social media influencer campaign materials.
+- DOB to provide an update on the NYCHA Bronx building collapse investigation (vendor: IAQ Consulting Engineering) by end of 2026.
+- DOB to provide committee with a breakdown of the 11 vacancies within the Local Law 74 proactive enforcement unit by inspector category.
+- DOB to follow up with CM Epstein on specific actions being taken at 109 East 9th Street regarding SRO tenant harassment and unpermitted bathroom removal.
+- DOB to follow up with CM Joseph's office to schedule a walkthrough of problematic sites in her district, including the Lefrak Avenue building with a two-year elevator outage.
+- DOB to provide CM Joseph with data on total elevator complaints per year, number of outages, inspector headcount, and average repair timelines.
+- DOB to provide CM Salaam with details on projected penalty revenue from new sidewalk shed enforcement positions.
+- DOB to follow up with CM Maloney's office on specific long-standing shed complaints in her district via intergovernmental representative Jamila or Vlad.
+- DOB to provide committee with end-of-year update on outcomes of new sidewalk shed enforcement regime.
+- DOB to follow up with CM Brewer on the Bloomingdale library development project at 100th Street by reaching out to EDC.
+- HPD to provide committee with a full breakdown of the 94 City of Yes positions by category (development, code enforcement, etc.) and current hiring status.
+- HPD to confirm whether the $225 million in state City of Yes NYCHA funds is designated for PACT RAD conversions or Section 9 support.
+- HPD to provide committee with a breakdown of emergency demolition contracts by MWBE status.
+- HPD to follow up with CM Sanchez on details of the Section 8 funding line changes, specifically the $15.4 million city funds increase and $13.9 million federal funds decrease in the rental assistance program.
+- HPD to look into the ownership and conditions at 75 Lennox Road and report back to CM Joseph.
+- HPD to coordinate with CM Zhuang on specific developers in southern Brooklyn interested in senior housing and to identify development opportunities in her district.
+- HPD to follow up with CM Brewer on HDFC till buildings and progress on moving stuck projects to the front of the pipeline.
+- HPD to engage with OMB to restore the HDFC co-op technical assistance contract to $2.3 million and resolve the six-year renewal shortfall flagged by UHAB.
+- HPD to work with CM Sanchez's office on fixing the NYCHA tenant inspection notification policy so that tenants are clearly informed of the phone-call requirement and given a knock-on-door opt-out.
+- HPD to investigate the conditions and enforcement status at 245 East 110th Street in East Harlem and report back to committee.
+- HPD to work with OMB on a budget adjustment if the final asylum seeker shelter remains open beyond June 2026.
+- HPD Commissioner to set up a follow-up conversation with CM Joseph on the AEP discharge of 80 Clarkson Avenue and ongoing conditions there.
+- DOB to present to committee the building risk-score maps and machine learning algorithm outputs used by the proactive enforcement analytics team.
+- Stabilizing NYC coalition and Take Root Justice to continue escalating contract payment delays to committee; committee chair committed to pursuing further pressure on OMB regarding the backlog of unregistered and unfunded discretionary contracts.
+- HPD to finalize numbers on what compliance with Local Law 57 of 2026 (4% homeownership set-aside in new construction) will require in capital terms and report back to committee during executive budget process.
 
 ## Full Transcript
 
