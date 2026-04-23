@@ -599,6 +599,7 @@ body.desktop {
     font-weight: 500;
     line-height: 1.4;
     color: var(--text);
+    min-width: 0;
 }
 
 .hearing-row__committee {
@@ -607,6 +608,7 @@ body.desktop {
     font-weight: 500;
     line-height: 1.4;
     color: var(--text);
+    min-width: 0;
 }
 
 .hearing-row a:hover .hearing-row__committee,
