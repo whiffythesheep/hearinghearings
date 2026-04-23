@@ -76,7 +76,7 @@ Pipeline steps:
 6. Format speaker headers (Chair/CM/witness conventions)
 7. Remove oath and public testimony sections
 8. Generate structured summary via Claude Sonnet
-9. Write markdown with YAML front matter to `content/<slug>.md`
+9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `council_url`)
 10. Run `site/build.py` to regenerate `site/output/`
 11. `git add/commit/push` → Cloudflare Pages redeploys
 
