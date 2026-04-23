@@ -533,7 +533,7 @@ body.desktop {
 /* Explorer-style column headers — an <li> using the same grid as rows */
 .hearing-colheaders {
     display: grid;
-    grid-template-columns: 9rem 14rem 1fr;
+    grid-template-columns: 9rem minmax(8rem, 14rem) 1fr;
     gap: 1.25rem;
     align-items: baseline;
     padding: 4px 1rem;
@@ -571,7 +571,7 @@ body.desktop {
 
 .hearing-row a {
     display: grid;
-    grid-template-columns: 9rem 14rem 1fr;
+    grid-template-columns: 9rem minmax(8rem, 14rem) 1fr;
     gap: 1.25rem;
     align-items: baseline;
     padding: 0.7rem 1rem;
@@ -615,7 +615,7 @@ body.desktop {
 }
 
 /* ---------- Responsive ---------- */
-@media (max-width: 640px) {
+@media (max-width: 768px) {
     body.desktop {
         padding: 1rem 0.5rem 2rem;
     }
