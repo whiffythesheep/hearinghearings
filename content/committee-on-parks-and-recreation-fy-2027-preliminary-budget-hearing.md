@@ -6,188 +6,79 @@ date: 2026-03-23
 slug: committee-on-parks-and-recreation-fy-2027-preliminary-budget-hearing
 duration: "5hrs 47m"
 youtube_url: "https://www.youtube.com/watch?v=QRLl-gVj7GI"
-council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397972&GUID=2A548803-154C-4635-9219-A42F3F728D42&Options=info|&Search="
 ---
 
 Summary
 
 Meeting Overview
 
-The City Council Committee on Parks and Recreation held its FY2027 preliminary budget hearing on March 23, 2026, with newly appointed Commissioner Trisha Shimamura appearing before the committee alongside agency leadership. The headline figure was uncomfortable: at $654 million, the preliminary parks operating budget is $33.7 million less than the FY26 adopted budget, representing a practical retreat from Mayor Mamdani's campaign promise to allocate 1% of the city budget to parks. The gap between that promise and current reality is estimated at roughly $616 million. The commissioner offered optimism about ongoing conversations with the administration but delivered no commitment, timeline, or mechanism. Council Members, advocates, and union representatives spent the better part of six hours making essentially the same argument: parks are chronically underfunded, the workforce is structurally precarious, and the budget as proposed makes things worse.
+The Committee on Parks and Recreation held its FY2027 preliminary budget hearing, lasting roughly five hours, with Commissioner Trisha Shimamura testifying alongside senior parks staff before an extended public session featuring union representatives, conservancy leaders, park advocates, workers, and community gardeners. The central tension throughout was simple and unresolved: Mayor Mamdani campaigned on allocating 1% of the city budget to parks, but the preliminary budget proposes $654 million for parks operations, a $33.7 million decrease from the FY26 adopted budget of $687.6 million. Of that gap, roughly $22 million reflects the routine expiration of one-shot funding and $6 million reflects Council discretionary funding, both of which must be renegotiated each budget cycle. Advocates, unions, and multiple council members made clear that this annual dance over one-shot positions covering roughly 276 workers is damaging morale, causing turnover, and undermining program planning. The commissioner acknowledged all of this, expressed enthusiasm for conversations with OMB, and offered no commitments.
 
-The structural problem at the heart of the hearing is the reliance on one-shot, year-to-year funding for approximately 276 to 277 positions spanning urban park rangers, park enforcement patrol officers, natural areas foresters, maintenance workers, and Green Thumb staff. Without baselining, these workers face annual uncertainty, agencies lose institutional knowledge through turnover, and long-term ecological management becomes functionally impossible. Union representatives from DC37 Locals 299, 983, and 375 described a workforce in which seasonal hires start at roughly $20 per hour with no benefits, pension access, or internal job application rights, while the agency simultaneously relies on private contractors for tree pruning that in-house staff estimate costs more per unit than doing the work themselves. The commissioner reported 90 climbers and pruners now employed at a $75,000 starting salary through a new apprenticeship program, with two cohorts completed and a third underway, and noted that an in-housing assessment of contracted work has never been comprehensively done. The loss of the Forest Management Framework funding in FY25 was a particular flashpoint: 27 dedicated positions were eliminated, 20 of whom were absorbed into other grant-funded roles, 3 filled existing vacancies, and 4 resigned. Advocates from the Natural Areas Conservancy noted that fewer than 30 field technicians now manage over 20,000 acres of natural areas, that over 90% of forest plots show signs of decline, and that the 30% canopy coverage target for 2035 is being undermined in real time. A $16 million baseline funding request for natural areas management remains unresolved.
+The hearing covered a wide range of operational matters. Commissioner Shimamura, appointed two months ago by Mayor Mamdani, gave a broadly competent overview of agency priorities: the opening of Shirley Chisholm Recreation Center in East Flatbush, the Community Parks Initiative with $50 million in new capital investment for 10 parks, the neighborhood tree planting program now operating on a data-driven nine-year cycle, and progress on lifeguard recruitment with 1,082 guards last summer and a $1.66 million state grant for recruitment bonuses. She was candid about problem areas including a contractor death disrupting the block pruning program, the long-running capital project backlog, the difficulty of building public restrooms at $3 to 5 million per facility, and the ongoing challenge of filling gardener and forestry positions. On the question of baselineing one-shot positions, she was supportive in tone but non-committal in substance, correctly noting that one-shots are a product of Council-administration negotiations rather than agency decisions. On the 1% campaign promise, she cited budget pressures and called the preliminary budget an early stage in negotiations, which is accurate but also the answer every commissioner gives at every preliminary budget hearing.
 
-Capital project management attracted sustained criticism. The department has 500 projects currently in design, procurement, or construction, with 91 slated to begin next fiscal year, of which 24 are unlikely to start on time. Typical project timelines run five to seven years; Marine Park's playground has been delayed six years; the Brownsville Recreation Center has $160 million allocated but no completed design and no firm groundbreaking timeline. Council Members pressed the commissioner on why targeted interim repairs cannot happen while full reconstruction is planned; the commissioner defended holistic project scopes while acknowledging interim improvements should still occur. On bathrooms, the department manages approximately 700 public restroom buildings and reported a 90% average daily open rate; new construction costs range from $2.5 million for reconstruction to $3 to 5 million for new builds, with prefabricated options like the Portland Loo under consideration as lower-cost alternatives. The commissioner also described a new nine-year neighborhood tree planting program intended to replace the ad hoc 311-based system, with 9,500 trees planted in the most recent fall-winter season, the highest total in over a decade.
+Council members pressed hard on capital project delays, with CM Narcisse raising Marine Park playground at six years and counting, CM Banks raising Brownsville Recreation Center where $160 million is allocated but no design has been completed, and CM Sanchez raising multiple Bronx parks funded but not breaking ground. CM Morano raised Staten Island's high parkland-per-capita but questioned whether staffing is proportional. CM Krishnan, appearing in passing, was referenced for legislation on the capital process. CM Lynch raised Forest Park accessibility, funded but stalled due to staffing shortages in the design pipeline. The capital deputy commissioner confirmed 500 projects currently in design, procurement, or construction, with 91 slated to start this fiscal year and 24 of those likely to slip. The commissioner committed to shortening timelines but offered no specific mechanisms beyond noting that a DEP staffer now sits in the parks office to ease inter-agency coordination.
 
-Public testimony was extensive and largely consistent in its demands. Advocacy organizations including New Yorkers for Parks, Trust for Public Land, City Parks Foundation, Van Cortlandt Park Alliance, Prospect Park Alliance, Riverside Park Conservancy, and the Natural Areas Conservancy all called for the 1% budget commitment to be honored, for one-shot positions to be baselined, and for natural areas management funding to be restored. Community garden advocates from Green Guerrillas and Queens Community House called for restoration of $2.6 million in Green Thumb funding and for permanent legislative protection of community gardens on city-owned land from redevelopment. Specific urgent situations included the Bushwick City Farm, which has been locked out of its primary entrance and faces imminent closure on privately held land despite years of multi-agency engagement, and a community garden on Madison Avenue affected by a rat infestation from an adjacent abandoned lot. A separate community dispute emerged over a proposed skate park at Mount Prospect Park in Brooklyn, where residents allege the project was planned without proper community consultation and have called for a halt pending review. One Hart Island advocate raised the peculiar situation of third-party companies charging $39.99 for public tours of the island while family visitation is limited to 75 minutes, prompting Chair Hankerson to ask for an immediate investigation into who is authorizing and benefiting from those tours.
+The public session brought strong testimony from union locals representing park workers, park rangers, PEP officers, and forestry staff, all emphasizing the structural problem of Playfair-funded positions: workers doing the same jobs as baseline employees without equivalent benefits, unable to accrue pension rights for 18 months, unable to apply for internal postings, and facing annual existential uncertainty every April. DC37 Local 983 representative Ralph Bonelis noted that one-third of PEP officers and roughly half of park rangers are one-shot funded, calling it no way to run an agency. Raina, a forestry worker and DC37 Local 375 chapter president, highlighted a team of roughly 20 people managing tree planting contracts across the entire city, with workers regularly covering multiple multi-million dollar contracts due to vacancies. Marshall Lee Wymer, Manhattan Borough Forester, argued that in-house forestry costs approximately two-thirds of contracted work and that Chicago manages in-house block pruning, suggesting New York could do the same. Conservancy representatives from Prospect Park Alliance, Riverside Park Conservancy, and City Parks Foundation echoed the agency testimony but with greater bluntness, noting the maintenance gap that causes capital assets to degrade faster than their useful lifespan and warning that private fundraising cannot substitute for public investment. The Natural Areas Conservancy flagged that only 569 of 12,000-plus natural area acres received care in FY25 and that a 2024 ecological assessment found decline in over 90% of forest plots, a striking figure given the city is simultaneously launching an urban forest plan targeting 30% canopy coverage.
 
 Numbers
 
-- $654 million: FY2027 preliminary expense operating budget for the Department of Parks and Recreation.
-- $687.6 million: FY26 adopted budget for the Department of Parks and Recreation.
-- $33.7 million: decrease from FY26 adopted budget to FY2027 preliminary budget.
-- $22 to $23 million of the $33.7 million decrease attributable to expiration of one-shot funding.
-- $6 million: City Council discretionary funding initiatives within the parks budget.
-- $616 million: estimated gap between the current parks budget and the 1% of city budget target.
-- 0.6% of the total city budget currently allocated to the Department of Parks and Recreation.
-- 1% of the total city budget sought for the Department of Parks and Recreation by advocates.
-- 2% to 5% of budget dedicated to parks in most comparable major cities.
-- $12 billion: FY27 preliminary 10-year capital plan for New York City parks.
-- $2.675 million: decrease in capital program budget from FY26 to FY27.
-- $50 million: new capital investment for the Community Parks Initiative covering 10 parks.
-- $500 million-plus: total capital funding invested through the Community Parks Initiative over the past decade.
-- $160 million: allocated for Brownsville Recreation Center renovation, with no design completed.
-- $1 billion-plus: total investment planned for recreation facilities over the next several years.
-- $400 million-plus: known capital needs for major recreation facilities.
-- 500 capital projects currently in design, procurement, or construction.
-- 91 capital projects slated to begin next fiscal year.
-- 24 capital projects unlikely to start on time in the current fiscal year.
-- 5 to 7 years: typical capital project timeline.
-- 6 years: delay on Marine Park playground project.
-- $2.5 million minimum: cost to reconstruct an existing restroom.
-- $3 million to $5 million: typical cost for new restroom construction.
-- 720 square feet: size of a standard small restroom building.
-- 90%: average daily open rate for the approximately 700 public restroom buildings in the parks system.
-- 700 public restroom buildings managed by the Department of Parks and Recreation (70% of all public restrooms in New York City).
-- 30,000-plus acres of land under Parks jurisdiction, representing 14% of New York City's surface area.
-- 5,000-plus individual properties in the parks portfolio.
-- 800-plus athletic fields.
-- Approximately 1,000 playgrounds.
-- 1,800 basketball courts.
-- 550 tennis courts.
-- 65 public pools.
-- 51 recreational facilities.
-- 15 nature centers.
-- 14 miles of beaches.
-- 1,200 monuments.
-- 23 historic house museums.
-- 5 million-plus trees under Parks jurisdiction.
-- 9,500-plus trees planted in the most recent fall-winter planting season, the highest total in over a decade.
-- 18,000 trees committed to be planted per year by the parks department.
-- 9-year timeline for the new comprehensive neighborhood tree planting program.
-- 30% tree canopy coverage target by 2035; current coverage approximately 23%.
-- 7-year cycle for street tree pruning citywide.
-- 5 million of the city's 7 million trees located in natural areas.
-- 800,000 trees maintained at a higher level in natural areas out of 6 million total natural area trees.
-- 12,000 acres of forest, wetlands, and grasslands managed by the Natural Areas Conservancy in partnership with Parks.
-- 20,000-plus acres of natural areas citywide managed by fewer than 30 field technicians.
-- 70 total staff in the Natural Resources Group, including non-field staff.
-- 569 acres receiving forest management care in FY2025.
-- Over 90% of forest plots showing signs of decline, per 2024 ecological assessment.
-- $16 million: baseline funding requested for natural areas forest management.
-- 37 Natural Resources Group employees funded via one-shot Playfair funding.
-- 63 additional Natural Resources Group employees on baseline funding.
-- 27 positions dedicated to the Forest Management Framework at the time of FY25 adoption.
-- 20 of 27 FMF staff shifted to other grant-funded positions after FMF funding was cut.
-- 3 of 27 FMF staff filled existing full-time vacancies.
-- 4 of 27 FMF staff resigned.
-- $4.5 million: estimated FY20 one-shot for the Forest Management Framework.
-- $2.5 million: FMF one-shot funding in FY23 and FY24.
-- 276 to 277 parks workers set to lose jobs at end of fiscal year due to one-shot funding expiration.
-- 600 staffing positions lost since 2023.
-- Approximately 100 additional positions to be eliminated as a condition of ending the hiring freeze.
-- 94 total budgeted urban park rangers, including 50 one-shot positions.
-- Approximately 40: baseline ranger headcount without one-shot funding.
-- 250 baseline park enforcement patrol officers.
-- 100 additional PEP officers funded via one-shot funding.
-- 354 total PEP officers currently funded.
-- 73 maintenance park worker positions funded via one-shot.
-- 11 Green Thumb positions funded via one-shot.
-- $2 million: stump removal funded via one-shot, OTPS only.
-- 37 forestry and natural areas management positions funded via one-shot.
-- 5,000-person Department of Parks and Recreation workforce.
-- 200 active staff dedicated to street and landscape park trees.
-- 58 foresters.
-- 90 climbers and pruners currently employed at a starting salary of $75,000.
-- 14 to 15 graduates per climber-pruner apprenticeship cohort.
-- Approximately 20 staff members on the parks tree planting team.
-- $3,028: average cost to remove a tree including stump in FY26.
-- 16 weeks: minimum training time for rangers and PEP officers.
-- $20 per hour: approximate starting wage for seasonal parks hires.
-- $22 per hour: current lifeguard pay after a recent increase.
-- $1,000: lifeguard retention bonus.
-- 1,082 lifeguards employed in summer 2025.
-- 1,200 lifeguards: recruitment target for summer 2026.
-- 70% to 80%: lifeguard retention rate, higher than the national average.
-- $1.66 million: state grant for lifeguard recruitment.
-- 9 million-plus people visited public beaches and pools in summer 2025.
-- 5,000 young people targeted to learn to swim in the coming year.
-- 86%: overall park condition rating in the Mayor's Management Report for the first four months of FY26, up one point from FY25.
-- 93%: park cleanliness rating in the MMR for the first four months of FY26, up one point from FY25.
-- 200 heavily used park locations targeted by second-shift maintenance, up from 100.
-- 460 second-shift workers requested to keep 400 high-use parks and restrooms clean.
-- 500,000-plus people attended parks programs outside recreation centers in the first four months of FY26, up 77% from FY25.
-- 5.3%: increase in recreation center memberships in the first four months of FY26.
-- 7,737 new recreation center members in the first four months of FY26.
-- Approximately 2 million visitors expected in New York City for the 2026 World Cup and Sail 250.
-- 74,000 square feet: size of the Shirley Chisholm Recreation Center.
-- 4 additional recreation centers in the queue for the Bronx and Queens.
-- $14 million to $16 million: City contribution to Central Park Conservancy maintenance.
-- $100 million-plus: estimated annual maintenance cost for Central Park.
-- $14 million: total eventual project scope at St. Nicholas Park, leveraged from $2 million Council investment and $1 million Borough President investment.
-- 4 years: estimated timeline for full citywide parks trash containerization.
-- 550-plus community gardens citywide.
-- $2.6 million: requested to restore Green Thumb program funding.
-- $300,000: requested for a pilot program for direct community garden funding through the parks equity initiative.
-- Over 300 community gardeners in Green Guerrillas Council of Gardeners.
-- 15 youth interns served during the year and 30 in summer through Green Guerrillas programs.
-- 2,500-plus volunteers surveyed more than 46,000 trees in the Trees Count census last summer.
-- Recreation services once accounted for nearly one-third of the parks operating budget; now approximately 5.3%.
-- Full-time recreation staff fell from nearly 2,000 in 1964 to 659 today.
-- Summer day camp currently serves roughly 500 participants; advocates proposed expanding to 5,000.
-- Every $1 invested in street and park trees returns approximately $5.60, per the Arbor Day Foundation.
-- Annual benefit per tree estimated at $100 to $400; average small tree approximately $200, medium tree approximately $250.
-- 44% of Parks Department staff are people of color, per advocacy research.
-- 20% of city budget currently spent on outsourcing to private contractors, with a 6% average annual increase since 2009.
-- In-house forestry estimated at two-thirds the cost of contracted work, per DC37 Local 375.
-- 40,000 square feet of concrete originally proposed for Mount Prospect Park skate arena; reduced to 20,000 square feet after community opposition.
-- Over 1 million New Yorkers buried on Hart Island.
-- $39.99: fee charged by third-party touring companies for Hart Island public tours lasting approximately 3.5 hours.
-- 75 minutes: time allocated for family visitation on Hart Island, compared to 3.5 hours for paid public tours.
-- $5.4 billion: city budget deficit referenced during testimony.
-- $1 million: requested for the Mayor's Office of Criminal Justice to publicize and implement Local Law 148 of 2023 on the urban forest plan.
-- 300,000 New Yorkers reached annually by City Parks Foundation programming.
-- 420-plus grassroots volunteer groups supported through Partnerships for Parks.
-- 28,000 volunteers supported through Partnerships for Parks.
-- $2.5 million: annually raised and regranted through the NYC Green Fund.
-- 10 million annual visitors to Prospect Park.
-- 47,000 people living within a half mile of Gotham Park.
-- 1% of Gotham Park's operational funds is public.
-- $350,000 raised and spent by Udalls Cove Preservation Committee over 20 years on park restoration.
+- FY2027 preliminary operating budget for NYC Parks: $654 million, a decrease of $33.7 million from the FY26 adopted budget of $687.6 million.
+- Approximately $22 million of the $33.7 million gap reflects expiration of one-shot funding; approximately $6 million reflects Council discretionary funding.
+- The gap between the current parks budget and 1% of the city budget is approximately $616 million.
+- NYC Parks manages over 30,000 acres, representing 14% of New York City's surface area, across more than 5,000 properties.
+- Parks inventory includes over 800 athletic fields, nearly 1,000 playgrounds, 1,800 basketball courts, 700 public restroom buildings, 65 public pools, 51 recreational facilities, 14 miles of beaches, and over 5 million trees.
+- The FY27 preliminary 10-year capital plan for NYC Parks totals $12 billion.
+- New capital needs in the FY27 preliminary budget: $50,000; other adjustments: $127,000; savings: $0.
+- State grant for lifeguard recruitment bonuses: $1.66 million, targeting a workforce of 1,200 lifeguards.
+- NYC Parks had 1,082 lifeguards in summer 2025; lifeguard retention rate is now approximately 70-80%, above the national average; starting pay is $22 per hour with a $1,000 retention bonus.
+- Over 9 million people visited NYC public beaches and pools in summer 2025.
+- Parks' MMR rating for overall park condition in the first four months of FY26: 86%; cleanliness rating: 93%, each up 1 percentage point from the same period in FY25.
+- Over 500,000 people attended parks programs outside of recreation centers in the first four months of FY26, an increase of 77% over the same period in FY25.
+- Trees pruned in the fall-winter planting season just concluded: over 9,500, described as the highest level in over a decade.
+- One-shot funded positions currently at risk: 277 workers across six initiatives: 37 forestry management, 50 park rangers, 11 Green Thumb plus OTPS, 73 maintenance park workers, 100 PEP officers, and $2 million OTPS for stump removal.
+- Baseline PEP officers: 254; one-shot funded PEP officers: 100; total funded PEP officers: 354.
+- Baseline park rangers: approximately 44; one-shot funded rangers: 50; total funded rangers: approximately 94.
+- Shirley Chisholm Recreation Center: 74,000 square feet, the first new recreation center in over a decade and the largest in Brooklyn.
+- New recreation center memberships in the first four months of FY26: 7,737 new members, a 5.3% increase, driven by young adult growth.
+- Community Parks Initiative new phase: $50 million for reconstruction of 10 parks across all five boroughs.
+- Cost to construct a new park restroom building: approximately $3 to $5 million; reconstruction can start around $2.5 million.
+- 500 capital projects currently in design, procurement, or construction; 91 projects slated to begin this fiscal year; approximately 24 of those 91 likely to slip to the following fiscal year.
+- Capital project design phase typically takes approximately 12 months before procurement begins.
+- Average cost to remove a tree including the stump in FY26: $3,028.
+- Climbers and pruners in-house headcount: approximately 90; starting salary approximately $75,000.
+- In-house forestry staff caring for street and landscape park trees: 200 active staff including 58 foresters and 90 climbers and pruners; natural areas staff: 73.
+- Natural Areas Conservancy manages over 12,000 acres of forest, wetlands, and grasslands containing more than 5 million of the city's 7 million trees; only 569 acres received care in FY25.
+- A 2024 ecological assessment by the Natural Areas Conservancy found signs of decline in over 90% of forest plots.
+- NYC Parks provides 70% of the city's public restrooms, over 700 buildings; average daily open rate approximately 90%.
+- Parks containerization timeline for full city rollout: four years; first several thousand enclosure units to be delivered before June 30 of the current fiscal year; funding from OMB is baselined.
+- Recreation services as a share of the parks operating budget: approximately 5.3% today, down from nearly one-third historically; full-time rec staff has fallen from almost 2,000 in 1964 to 659 today.
+- Known capital needs for major recreation facilities alone: over $400 million.
+- NYC currently allocates among the lowest amounts per capita on recreation of any major US city.
+- NYC Parks' share of the total city budget: approximately 0.6%, compared to 2 to 5% in most major US cities.
+- According to the Arbor Day Foundation, every dollar invested in street and park trees in New York City returns $5.60.
 
 Action Points
 
-- Commissioner Shimamura to provide CM Lynch with a specific update on the status of the accessible pathway project at Forest Park.
-- Commissioner Shimamura to follow up with CM Hankerson on whether meals were provided to DPR staff who stayed overnight during the snowstorm response.
-- Commissioner Shimamura to follow up with CM Hankerson on whether DPR will provide retroactive pay to snow-response workers comparable to DSNY compensation.
-- Commissioner Shimamura to provide CM Salaam with specific details on the East River Esplanade Phase 3 and Heckscher Park pool reconstruction timelines and budget figures.
-- Deputy Commissioner Margaret Nelson to provide a detailed breakdown of park ranger deployment by borough to CM Hankerson.
-- Commissioner Shimamura to follow up with CM Narcisse offline regarding dog waste issues in specific parks and potential PEP officer education campaigns.
-- Commissioner Shimamura to provide CM Banks with a specific update on the Brownsville Recreation Center project timeline in coordination with DDC.
-- Commissioner Shimamura to follow up with CM Narcisse on the Marine Park playground project timeline and options to shorten the delay.
-- DPR to follow up with CM Lynch's office regarding sidewalk and tree root damage coordination with DOT.
-- Commissioner Shimamura to return information to CM Hankerson on how additional budget funds would be allocated if the 1% budget commitment were met.
-- Commissioner Shimamura to notify CM Banks's office and relevant community boards in advance of future tree plantings in their districts.
-- Commissioner Shimamura to address the floor mat replacement issue at a specific playground in CM Sanchez's district and pursue contractor accountability for defective floor mats.
-- Commissioner Shimamura to look at Bailey Playground for potential inclusion in the Community Parks Initiative and follow up with Borough Commissioner Jesse Puonte.
-- Commissioner Shimamura to provide CM Sanchez with specific swim education numbers and further updates.
-- Commissioner Shimamura to look into the recurring storm damage caused by trees on a specific block in CM Zhuang's district.
-- Commissioner Shimamura to share Vital Parks Explorer PEP deployment data with CM Zhuang's office.
-- Commissioner Shimamura to provide CM Alexa's office with updates on the Sunset Park Recreation Center timeline.
-- Acting First Deputy Commissioner to confirm sites for FY27 containerization, with first units to be delivered before June 30.
-- Commissioner Shimamura to work with CM Marte to refine and publish the green streets database in coordination with DOT.
-- Commissioner Shimamura to work with CM Marte and Partnerships for Parks to expand tracking of parks without active friends groups.
-- Commissioner Shimamura to follow up with CM Santosuosso on compliance status of Intro 800 and Local Law 59 of 2025 tree maintenance prioritization requirements.
-- Commissioner Shimamura to provide CM Santosuosso a full breakdown of per-unit costs for tree inspection, removal, pruning, and planting.
-- Assistant Commissioner Ben Osborne to follow up with CM Santosuosso on compliance with Intro 800 specifically.
-- Commissioner Shimamura to continue discussions with CM Hankerson on the potential for a housing-over-recreation-center model in his district.
-- Commissioner Shimamura to share lessons learned from in-house tree planting and pruning programs with Chair Hankerson as data matures.
-- Commissioner Shimamura to address missing bathroom stall doors at St. Albans Park, flagged by CM Santosuosso on behalf of a constituent.
-- Chair Hankerson to follow up with the Parks Department on the sinkhole at 87th Street and Riverside, the basketball courts at 158th Street, and the shuttered volunteer house bathroom at 108th Street, all raised by the Riverside Park Conservancy.
-- Chair Hankerson to ask Parks staff present at the hearing to immediately investigate third-party companies charging $39.99 for Hart Island public tours.
-- Sophie Stelb of Trust for Public Land to share the Park Score report with the committee when it is released in May.
-- Sergeant-at-Arms to collect written testimony and contact information from Helen Shurigas, Benet Chisum, Eshel Austin, and the final panel members.
-- CM Ossé and relevant city actors to expedite the Bushwick City Farm land preservation process involving the Borough President, Parks, Green Thumb, and the Department of Finance.
+- Commissioner Shimamura to provide CM Lynch with a specific update on the status of the Forest Park accessible pathways capital project and steps being taken to shorten the design timeline.
+- Commissioner Shimamura to follow up with CM Banks on the timeline for Brownsville Recreation Center, coordinating with DDC for a tighter schedule given the design-build approach being used.
+- Commissioner Shimamura to provide CM Narcisse with a specific update on the Marine Park playground capital project and any options to shorten the timeline.
+- Parks Department to follow up with CM Lynch on the new tree planting process and where specific locations in her district fall in the nine-year planting queue.
+- Parks Department to follow up with CM Morano on tree-related constituent complaints in Southern Brooklyn, specifically the recurring issue on one block, and to respond to prior unanswered emails from the previous administration.
+- Commissioner Shimamura to investigate the Hart Island public tours being advertised at approximately $39.99 by private touring companies and report back on whether any proceeds have been directed toward expanding family visitation access.
+- Parks Department to follow up with the Riverside Park Conservancy on the sinkhole at 87th Street and Riverside Drive dog run, the basketball courts at 158th Street under the highway, and the shuttered volunteer house bathroom at 108th Street.
+- Committee Chair Hankerson to request the Trust for Public Land's Park Score report comparing NYC to peer cities; Trust for Public Land's Sophie Stelb to follow up with the committee with that information when it publishes in May.
+- Parks Department to address the absence of stall doors at the comfort station in St. Albans Park, renamed after the late Council Member Archie Spigner, as raised by Chair Hankerson.
+- Parks Department to follow up with Chair Hankerson on whether retroactive pay comparable to DSNY rates can be provided to parks workers who worked overnight during the February snowstorm, exploring use of vacancy accruals.
+- Parks Department to confirm to the committee the full timeline and per-boroughbreakdown of park ranger deployment as requested by Chair Hankerson.
+- Parks Department to report back to the committee on the status of compliance with Local Law 59 of 2025 and Intro 978 regarding tree maintenance prioritization criteria, pruning schedules, and building clearance requirements, as raised by CM Santosuosso.
+- Parks Department to provide CM Santosuosso with a breakdown of per-tree costs for inspection, pruning, and removal by in-house crews versus private contractors.
+- Commissioner Shimamura to follow up with CM Marte on the feasibility of a publicly accessible database of green streets and parks lacking friends groups, and to think through how the Vital Parks Explorer could surface that information.
+- Commissioner Shimamura to follow up with Chair Hankerson on the potential for housing a recreation center in a non-parkland mixed-use development in the chair's district, following the 388 Hudson precedent.
+- Parks Department to provide the committee with a formal update on the status of the urban forest plan, expected to launch this spring, and its staffing implications.
+- Parks Department to follow up with community gardener Benet Chisum regarding the abandoned lot adjacent to Blaine Community Garden at 1651 Madison Avenue and coordinate with relevant agencies on rodent and dumping conditions.
+- Parks Department to follow up with Elsie Sto and advocate groups on expanding Hart Island family visitation to include weekday slots and on extending the existing shuttle service to connect visitors from Pelham train station to the Hart Island ferry.
+- Parks Department to provide the committee with a formal update on progress toward compliance with tree maintenance legislation, including digital tools being built to record inspection results, before the May effective date.
+- CM Hankerson to follow up with the Parks Department regarding the London plane trees at 550 West 125th Street, Grant Shade Garden, which require pruning to allow food growing.
 
 ## Full Transcript
 
