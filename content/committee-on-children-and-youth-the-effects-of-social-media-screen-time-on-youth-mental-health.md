@@ -1,0 +1,541 @@
+---
+committee: "Committee on Children and Youth | Committee on Mental Health and Substance Use | Committee on Oversight & Investigations"
+committee_slug: committee-on-children-and-youth
+title: "The Effects of Social Media Screen Time on Youth Mental Health"
+date: 2026-04-21
+slug: committee-on-children-and-youth-the-effects-of-social-media-screen-time-on-youth-mental-health
+duration: "2hrs 52m"
+youtube_url: "https://www.youtube.com/watch?v=u4eW5OzzLfQ"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402432&GUID=65F409DA-EB78-4DCF-AF86-DCE91805AEEF&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Children and Youth, jointly with the Committees on Mental Health and Substance Use and on Oversight and Investigations, held an oversight hearing on the effects of social media and screen time on youth mental health, alongside consideration of four bills. Testimony came primarily from the Department of Health and Mental Hygiene (DOHMH) and the Department of Youth and Community Development (DYCD).
+
+The health testimony was substantive and, by government standards, relatively candid. DOHMH officials walked through survey data showing that over 73% of NYC public middle school students and 76% of high school students use social media several times a day. They drew a careful distinction between active, goal-directed social media use, which is associated with more positive mental health outcomes, and passive, feed-scrolling consumption, which correlates with depression, anxiety, and body image disorders. They were notably careful to resist the language of addiction in favor of "problematic use," while acknowledging that the clinical field has not yet developed a formal diagnostic category or widespread screening infrastructure for this issue. A 2023 longitudinal study was cited showing that habitual social media checking measurably altered adolescent brain development, increasing amygdala reactivity and reducing self-regulation. The hearing also surfaced the platform design dynamic driving these harms: variable reward schedules, infinite scroll, and algorithmically curated idealized content are explicitly engineered to exploit adolescent neurodevelopment. DOHMH was asked directly why social media companies would want to hook children who are not primary consumers, and wisely declined to speculate beyond their public health remit.
+
+On the legislative agenda, Int 0450-2026, which would restrict youth under 17 to one hour per day of social media, drew skepticism from DOHMH, which acknowledged there is no clinical study specifically validating the one-hour threshold. Int 0451-2026, requiring a report on social media's mental health impacts co-produced by DYCD and DOH, was endorsed by both agencies with caveats about capacity, prompting Chair Stevens to translate the diplomatic hedging as support and announce she would add ACS and DOE to the bill's scope. Int 0660-2026, requiring a study of youth altercations and their associated online activity, was the most contested bill of the hearing. CM Caban raised serious concerns that it would create a mass surveillance database reaching over 400,000 youth across 1,000-plus DYCD programs and several hundred ONS programs, with inadequate privacy protections, undefined data retention and access rules, and a real risk that prosecutors or immigration enforcement could exploit the data. DYCD estimated implementation costs at roughly $5 million, expressed clear opposition, and the chair noted that the bill's sponsor, Deputy Speaker Williams, was open to significant amendments. Int 0801-2026, on creating early childhood education apprenticeships within summer youth employment, was broadly supported by DYCD but raised concerns about the six-week SYP timeframe as a vehicle for meaningful career pathways, with DYCD advocating for the year-round Work, Learn and Grow model instead. Chair Stevens used DYCD's own testimony as an argument for full-year youth employment programming.
+
+The hearing also surfaced some structural gaps worth noting. The EASE mental health curriculum, piloted at 15 community centers and reaching roughly 200 youth, lost its funding in 2025 without any expansion plan in place, a fairly typical outcome for NYC pilots that work. The Teen Space program has registered 36,000 youth in its first two years with 80% identifying as BIPOC, and is still operational as a demonstration project. DOHMH acknowledged it has no New York-specific prevalence data on body image disorders disaggregated by social media use, no clinical guidance addressing identity-based stress for LGBTQIA+, Black, Latino, or immigrant youth, and that school-based mental health clinicians have no specific social media screening protocols. The government is, in other words, running considerably behind the platforms it is attempting to regulate.
+
+Numbers
+
+- 73% of New York City public middle school students use social media several times a day, per 2022 YRBS data.
+- 76% of New York City public high school students use social media several times a day or more, per 2023 YRBS data.
+- 58% of New York City youth said social media had both positive and negative impacts on them.
+- 52% of NYC youth said social media made them feel more accepted and supported.
+- 45% of parents of children and 46% of parents of teens reported their child uses social media too much.
+- Among youth spending three or more hours per day on screens, 77.1% did not get sufficient sleep, defined as eight or more hours on a school night.
+- Among youth spending fewer than three hours per day on screens, 72% still did not get sufficient sleep.
+- Approximately one third or more of girls aged 11 to 15 nationally found their own social media use problematic, per the US Surgeon General's 2023 advisory.
+- Approximately half of teenagers nationally report it would be very hard to give up social media, per the same advisory.
+- Over a quarter of NYC middle school students reported being cyberbullied in 2022.
+- 37% of middle school students who use social media more than once an hour reported being cyberbullied, versus 19% of lower-frequency users.
+- Teen Space registered approximately 36,000 youth in its first two years of operation.
+- Approximately 80% of Teen Space registrants identified as BIPOC.
+- 12% of Teen Space users in year two selected social media as a presenting problem; it was not in the top ten presenting concerns.
+- The top five presenting problems in Teen Space year two were: anxiety, feeling down or depressed, becoming their best self, improving relationships, and family conflict.
+- The EASE curriculum was piloted at 15 community centers, training approximately 40 staff and reaching roughly 200 youth and family members; funding concluded in 2025.
+- Over 20,000 participants in the Work, Learn and Grow program received a college credit over the past five years.
+- Over 32,000 summer youth employment participants last year worked in child care and education settings.
+- Youth unemployment is currently over 21% overall and 26% for Black youth.
+- DYCD estimated implementation of Int 0660-2026 would cost approximately $5 million, including system enhancements, staffing, analysis, and consulting.
+- A 2023 longitudinal study by Maza and colleagues followed 178 sixth and seventh graders over three years and found habitual social media checking produced measurable differences in brain development.
+- The NYC health department convened over 150 participants in June 2023 for a forum on social media and youth mental health.
+- DYCD funds over 1,000 contracted CBOs serving over 400,000 youth; ONS adds several hundred additional programs.
+- The DOHMH youth committee on mental health includes 23 young people aged 15 to 24 from across the five boroughs.
+
+Action Points
+
+- DOHMH to provide follow-up data on differences in social media use and mental health outcomes between youth and adults from existing YRBS survey data.
+- DOHMH to provide data on equitable access to school-based mental health clinicians across income levels and council districts.
+- DOHMH to investigate whether school-based mental health clinicians conduct any social media-related intake screening and report back to committee.
+- DOHMH to develop more specific information on outreach strategies targeting LGBTQIA+ youth, Black and Latino youth, and youth with disabilities beyond Teen Space, and report back.
+- DOHMH to explore development of clinical guidance or public health messaging addressing identity-based stress online for marginalized youth populations.
+- DOHMH to engage pediatricians and community health workers more systematically on identifying and referring social media-related mental health harm.
+- DOHMH to liaise with NYC public schools and report back to committee on multilingual and culturally competent digital literacy supports for immigrant youth and English language learners.
+- DOHMH to work with DYCD to verify and strengthen connections between mental health alliances in each borough and DYCD contracted providers.
+- DOHMH to consider adding New York-specific data collection on body image disorders disaggregated by social media use.
+- DYCD to report back to committee on what systematic guidance, if any, has been provided to contracted providers on healthy social media use and digital literacy.
+- DYCD to clarify whether its guidance on tech-free or device-limiting spaces is aligned with DOHMH's framework for action and report back to committee.
+- DYCD to explore and report back on options for expanding the EASE curriculum with dedicated funding, potentially in partnership with DOHMH.
+- DYCD to have offline conversations with Deputy Speaker Williams on concerns about Int 0660-2026, including trust impacts, privacy risks, and potential law enforcement or immigration enforcement access to data.
+- Chair Stevens to amend Int 0451-2026 to add ACS and potentially DOE as required participants in the social media mental health impact report alongside DYCD and DOHMH.
+- Council to continue discussions with DOHMH on amending Int 0451-2026 to ensure it is actionable and grounded in existing data infrastructure.
+- Council and DYCD to discuss how summer youth employment sector diversification can be incentivised through the next RFP process to support Int 0801-2026 goals.
+- DYCD to brief Chair Stevens further offline on ONS monitoring practices and what indicators are used to track youth violence risk, in context of Int 0660-2026.
+
+## Full Transcript
+
+[**(00:38:08)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=2288s)
+
+
+
+Amount of time on screens is how youth are using their time on screens. So what type of activities they are engaged in, and whether those are more active or more passive activities, really can have an impact on whether it is affecting their mental health.
+
+>> Can you give an example then? Like can you bear out sort of like active versus passive?
+
+>> Yeah, I would be happy to. So a more active, goal-directed use would be participating in interest-based communities, right? If someone is very interested in art or literature, sports, whatever it is, being part of a community that has a similar interest, right? Even creating content, which those of us who are not teens may have thoughts about, but those have been associated with more positive mental health outcomes. Whereas passive consumption — so scrolling through curated feeds, things that are going to induce social comparison, exposure to idealized content, right? Where youth are comparing themselves to fictionalized versions of others' lives, right? That is more consistently linked to depression, anxiety, body image, et cetera. So some of the harms we are hoping to avoid.
+
+>> Thank you. And can you provide a clinical overview of the similarities and differences between social media addiction and substance-based addiction or substance use disorder?
+
+>> Sorry about that. I will get the hang of it. All right. So again, really important to be able to differentiate this. I think, as a clinician and a behavioral health leader, I approach the topic through a lens of public health and the systems of care. We do know that these digital platforms are deeply embedded in the lives of our children and shape how they communicate, form identity, and experience the world. We know that there are some benefits, but we also do know that there are a whole bunch of behavioral aspects to this that are on a spectrum. I think it is important to think about that, right?
+
+So this goes all the way from problem use all the way to the potential of really causing significant harm to mental health, their relationships and responsibilities such as school and academic performance. Similar to the problem use of substances or other behaviors that cause harm, there are a number of factors that influence the development of problematic social media use and compulsive engagement, such as social environmental factors like loneliness or life stressors like engaging in behavior to cope with something else. While there is training out there for clinicians to treat this issue, widespread screening, referral to care and systemic expertise is not yet readily available across the board. Addressing any problematic behavior including social media use that might be detrimental...
+
+>> Can I ask a quick question about that? Yeah. In terms of it being not widely systemically available, just to put a finer point on it — is the contention that the reality of the medical field at this moment is that maybe practitioners do not have as much experience or training in the area of social media consumption?
+
+>> Right. I do not necessarily think that the field has actually caught up with where we are, and I do not think that as a sector or as a set of medical professional disciplines have we been able to figure out how we are going to address this, even from a perspective of diagnosis. There is no specific diagnosis that looks at problematic social media use, even though there is talk about what that might look like down the road. So I think that is a bit of an issue. But certainly the American Academy of Pediatrics and others have recommended using the term "problematic" rather than "addiction." I do think it is a little bit less stigmatizing, but it does describe this addictive-like behavior and functioning that might be impaired because of social media usage.
+
+And that could include everything from struggling to limit use despite repeated attempts, or when media use displaces sleep or other health behaviors like exercise or eating, distracting from homework, or becoming excessive or compulsive. The departure from the teen's usual personality or communication style. As a parent of two young adults, they go through a phase where communication styles are really cramped by a whole bunch of issues, not necessarily just social media. So that moody stuff happens no matter what. Showing less empathy, being socially withdrawn or not listening — which again I think is part and parcel of being an adolescent. Experiencing irritability or distress when disconnected, and the fatigue that might come along from more problematic use.
+
+But again, I do want to emphasize that there are some significant positive benefits to social media and we cannot lose sight of that. The majority of kids in New York City — 58% — said that social media did have both a positive and a negative impact. We do know that the top responses when asked about how social media makes them feel: it makes them feel connected to their friends, it gives them a place where they can show their creativity, and it gives them a place for community. We have to think about that in the context of really disconnected, disadvantaged, marginalized populations that otherwise would not necessarily be able to come together. And 52% felt more accepted and supported. So it is important to really keep that in mind.
+
+>> I have another clarifying question for you. Not being a health expert, but when you talk about the use of the term "problematic" from a clinical standpoint — and again, I am coming at this from being a little bit more fluent or familiar with the substance use part of this space — is that a term of art that is different than "chaotic"? Like we often talk about substance use disorder, chaotic substance use. Are there different definitions to that? Are they interchangeable? Like what is...
+
+>> I think what we are seeing in the literature is more of a tendency to talk about this as problematic behavior, versus using the term addiction. Even though again there is some convergence around some of the symptom profiles that might exist between the two, to conflate one with the other does not necessarily make as much sense in the context of this particular issue related to social media.
+
+>> Okay, thank you. I am going to move on to just sleep health. The CDC has found a majority of adolescents are not getting the recommended 8 to 10 hours of sleep per night, with heavy social media use identified as a key contributing factor. What data does the administration currently collect on sleep health among New York City youth, if any?
+
+>> So I will turn it over to the assistant commissioner in a second, but again, super important. The reality is if you have got teenage kids, they rarely sleep. I agree that there may be an impact of social media, but there is a science to this and we will talk about that in a second.
+
+>> Yeah, I hear you. At the same time, just using a personal anecdote — I know that sometimes I am losing an hour or two a night because I got myself caught in a doom scroll. And as an adult who understands, I still have trouble logging off, you know.
+
+>> Yes, and...
+
+>> Yes.
+
+>> Okay, go ahead.
+
+>> Yes, there are a lot of "yes, ands" in the world of social media and screen time. Absolutely. So happy to talk about what we collect and what we know so far. The youth risk behavior survey — I refer to it as YRBS, so forgive me if I slip into acronyms — it is a CDC survey which is conducted on a biennial basis, so every two years, in New York City public high schools and middle schools. Our most recent survey does include questions on how much sleep youth are getting per night on average and also where they sleep. It defines sufficient sleep as eight or more hours on an average school night. That is their threshold.
+
+We are going to continue to collect data on sleep through the YRBS, and the survey also collects information on social media use. We last issued — we call these EpiData briefs — in 2018, that looked at the sleep adequacy of New York City children and adolescents. What it found was that excessive screen time was correlated with inadequate sleep for children, but actually not for adolescents.
+
+>> Could you talk a little bit about why that is?
+
+>> I think it is in part because there are so many factors that are disrupting adolescent sleep that it is probably a little bit harder to find a correlation just with social media. I cannot have data to prove that, but that is just what we would speculate.
+
+>> So a lot more contributing factors.
+
+>> Yes, that would be a fair characterization. Exactly.
+
+>> It is harder to isolate.
+
+>> Yeah, exactly. Got it. And then we have some more recent data from 2021, the same survey, the YRBS, and it showed that among youth who reported spending three or more hours per day on screen time, 77.1% did not get sufficient sleep — again using that eight-hour school night threshold. Interestingly, for youth who said they spent less than three hours per day on screen time, it was 72% who reported that they did not get sufficient sleep. So it was not a huge difference in percentages for the youth who reported this. We are going to continue to look at this issue. I think, as Dr. Petit said, there are a lot of factors with adolescents that are contributing to inadequate sleep.
+
+>> Great, thank you. I just want to take a moment to acknowledge that we have been joined by CM Joseph and CM Riley. I am going to ask a couple more questions and then pass it back over to the chair and our other colleagues.
+
+The DOH special report on social media's impacts identifies disparities in both social media use and parental awareness across income levels. How are the agencies targeting resources for communities with the highest need?
+
+>> Right. So I think that this has been part of our overall strategy, recognizing the critical importance that education plays — quite honestly for both the youth themselves and for parents and caregivers and other caring adults in youth's lives. So we have issued two guidance documents. One is aimed at parents and caregivers and the other is aimed at youth-serving community-based organizations, to help them help young people really navigate the world of social media in ways that are more health-promoting rather than health-harming. In addition to that...
+
+>> Those are the actual resources. What I first want to know about is how you are targeting who gets the resources.
+
+>> Yeah. So they are publicly available. We have been putting them out through social media. We have also recently been in collaboration with our partners at DYCD to both present our findings and our data, to make sure that their staff and their contracted providers — the community-based organizations that are serving youth — are aware of our findings, to understand what resources they are using and what resources they are needing from us. We are working on this now to develop guidance documents or resources for them to reach the youth we want to be reaching. That is one critical way we are going to ensure that we are reaching the communities we need to reach.
+
+>> And I am sure Chair Stevens will have more questions related to that.
+
+>> So you identify and get some resources out there. How are the resources evaluated for effectiveness? What does the feedback loop look like?
+
+>> Yeah. So I think it is challenging with public health educational materials to evaluate the impact. I do think that...
+
+>> Are you doing surveys? I mean, are you asking participants or organizations that you are giving resources to to do surveys?
+
+>> Right. So I think the YRBS that I was talking about before does have questions on social media and social media use and its impact on young people. That is one way that we can track over time what those trends are looking like. Will we be able to attribute it exactly to our resource guidance? No. But I think there is a variety of things we are doing to try to influence behaviors.
+
+We also have a youth committee on mental health which has 23 young people ages 15 to 24 who advise us. One of the subcommittees that we have formed with them is on social media and its impact on youth mental health. They come from across the boroughs. It is a really amazing group of young people and they keep us honest. They are telling us what youth are experiencing, what they are seeing, and what they think we should be paying attention to. So that is another really important feedback loop that we have.
+
+>> Okay. And then my last question for now is just what is being done to scale the strategies across schools and community-based organizations?
+
+>> Yeah. So I think again it is a great question because we need to reach scale, and I think that is exactly why we wanted to do some partnership with DYCD because of the reach that they do have into so many communities across New York City. We are also looking to see how — one of the things the youth committee is advising us on is how we can use our own social media accounts at the health department to reach New York City youth with this messaging.
+
+>> Say, how many kids are following you? How many kids are on your followers list?
+
+>> I hear you, but that is why we need them. That is why we need their advice.
+
+>> We need to employ some influencer... like can the government partner with influencers to get some of this information out? Like there are just some things...
+
+>> Build on, you know...
+
+>> We definitely appreciate your thoughts on it because we need an all-out, all-hands-on-deck effort.
+
+>> No offense, they are not following y'all.
+
+>> No, we know, and that is why we are saying to young people, how can we be more relevant? For sure. We get it. We know it and appreciate that. Yeah.
+
+>> Yeah.
+
+>> Well, thank you, Chair Cabán. Really appreciate that. I was mumbling over here. I think CM Riley has a bill on social media influencers helping with the promotion of government things. So it is definitely something we should be looking into as well, because it is true — they are not following any of us. I mean, they might be following me. I do not know.
+
+To just jump into some questions around teen space — in 2023, the City launched Teen Space, a free mental health support program for adolescents 13 to 17. Is this program still operational? If so, what are the gaps in access, particularly for young children under 13 who may not have qualified for Teen Space?
+
+>> Thank you for the question. Teen Space is a demonstration project. It is a three-year demonstration project and it is still operational. The second part of your question is about youth under 14, right?
+
+>> So the program was designed for adolescents for a variety of reasons. The first is that the data were bearing out that adolescents were experiencing worse mental health outcomes and we knew that we needed to fill a gap and really try to reach them in different ways. We know developmentally a virtual mental health service is well aligned with the developmental phase that adolescents are in and can be a little bit more challenging for younger kids.
+
+That said, we have an array of other programs that we support for kids of all ages, including school-age and younger kids, starting from birth to our youngest New Yorkers. We have our perinatal and early childhood mental health clinics. We have care coordination programs. We have crisis services. We have peer services. We have a whole range of other services that are appropriate for...
+
+>> You said they have peer services. What are those services?
+
+>> Yeah, we have family and youth peer support services where we have family members who themselves have supported a young person with a mental health need and have learned how to navigate the mental health system, and are there to provide peer support to other parents or caregivers who are going through that now. And then we have youth who are now a little bit older — young adults who as young people experienced mental health needs, received services, and are there to provide peer support to other young people.
+
+>> Where do families and young people access that?
+
+>> So we have alliances in every borough where there is a lead, and we have subcontractors that have family and youth peer support that they can access through the alliance. They can guide them to where they can get services throughout their borough.
+
+>> So it is citywide. Do those alliances partner with DYCD programming and things like that? Because there are a lot of young people who I am sure could benefit from that but do not know about this — because I am a council member and I did not know about this.
+
+>> Okay. We are happy to share more information. We welcome partnership and getting the word out about these services. They do have — I am not sure — we should look and see if some of their partnerships are with DYCD providers. I mean, it often is. A lot of these programs all overlap in the same programs, but then they are not...
+
+[**(00:58:30)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=3510s)
+
+
+
+connected if we are not being intentional about it. And so I am positive that the list looks very similar and they probably have at least one DYCD program. And so how are we then connecting it? And if we do not connect it, it just does not happen.
+
+Yep. So appreciate your feedback on that and yeah, we are happy to look at that.
+
+How many young people have been served through this program since its launch?
+
+You are referring back to Space. Yes. Hold on one moment. Oops. There we go. Sorry. Forgive me. I just have the data and I just need a moment to locate it. So while you are looking for it, I am going to jump to DYCD to give you a couple of minutes to get it together because I have a couple of questions for them. How does DYCD currently guide or regulate social media use within its contracted programs? Specifically, are there standardized policies or requirements including a provider's contract of work scope related to social media use, digital literacy and youth online safety?
+
+Good afternoon, Chair Stevens. I do want to start by saying that we thank the Council for your efforts on this. I think we agree that the need to understand the true impact of social media on our young adults is one of the most important things that we can do right now. I cannot even imagine what is happening during a time of adolescent brain development, impulse control, and what something like doom scrolling does to that. I think the longer term impacts are something we will find out. But we know sleep deprivation... again, thank you. What I can get back to you on is what we have done more broadly. We do know that after the September school ban of social media and cell phones in schools, we heard from providers that there was a positive impact. Some of those providers actually continued that practice into after school hours. We have not done a blanket across-the-board policy yet. We are speaking with providers. We are speaking internally. We want to ensure that we safeguard the trust of providers and the work that they are doing. So we are having discussions around what a potential policy may look like.
+
+Okay. The cell phone ban — you just mentioned it has taken place in schools. Since the cell phone ban has been implemented in schools, have providers reported any shifts — and I think you already talked about it — and has there been an increase in usage during program hours or impact on youth engagement? How has the City responded to these changes?
+
+Again, we have not seen any negative impact from the ban. Again, providers are indicating that it has been positive at their program sites, with young people being engaged. That is not a systematic viewpoint. That is some of the providers, the cohort that we have spoken to. That cohort has also extended that practice into after school.
+
+Well, how are they extending it? Because in the schools, the schools are providing pouches and securing the phones. Is that something that providers are also doing? I would love — and I mean, if you guys have not done this — I would love for us to start thinking about what does it look like in programs, right? Because I think it is important for us to not have blanket policies, but I think we should be thinking about how do we give providers guidance and support if needed.
+
+Indeed. Indeed. I am going to come back. I am not sure — did you get the data? Okay, so you are ready. All right, great. So I am going to come back to DOHMH. My question was just how many young people have been served through the Teen Space program since it launched?
+
+So in the first two years of the program we registered approximately 36,000 youth and approximately 80% of registrants identified as BIPOC, which is something we were excited to see because one of our goals was ensuring that there was access to mental health care for BIPOC youth.
+
+Okay. What trends or patterns have been identified among participants including specific concerns or needs related to social media?
+
+So I will give you data from the second year, the most recent year of the program. Approximately 12% of users of the program selected social media as one of their presenting problems. So it actually was not one of the top ten reasons that youth seek support from the service, but it is about 12%.
+
+What are the top five? Let me just get that for you. It varies depending on the year, but typically... for the top year two results: anxiety was the top presenting problem. Youth can also select more than one, so when I say top, this is the most frequently selected. So anxiety was number one, second was feeling down or depressed, third was becoming my best self, fourth was improving my relationships and fifth was family conflict.
+
+Thank you. What neighborhoods or Council districts have seen the highest use of Teen Space?
+
+So my data for today are really on what we refer to as the three neighborhoods. So the top neighborhoods among the three neighborhoods that were receiving services in the second year of the program were Concourse and Melrose in the Bronx.
+
+The second was Cypress Hills East New York. The third was Ocean Hill-Brownsville and then the fourth was a different zip code in Cypress Hills East New York.
+
+Thank you. To what extent are program providers including therapists incorporating developmental guidance or research on social media use into these services? And we are talking about Teen Space. So basically we are asking what supports are you giving the providers around supporting this 12% who are identifying issues around social media?
+
+Yeah. So the therapists are all licensed clinical mental health professionals licensed in New York State and they are capable of treating a broad array of mental health concerns around youth. This includes anxiety, depression, identity challenges or other challenges whether they are associated with social media or due to other causes.
+
+Okay. This is back to DYCD. What strategies is DYCD using to engage and reach youth and families regarding healthy social media use? How are those outreach efforts tailored to different communities?
+
+Sure, Chair Stevens. On part of that I will get back to you to see what we have done systematically, but we have done training in the past for our providers around social media use which included some guidance for them on how to monitor and utilize social media for their young people and young adults in their programs. We also of course push out on our social media channels as well to support programs and advertisement of what we do.
+
+Okay. DOHMH's framework for action recommends the use of tech-free or device-limiting spaces in youth settings. Does DYCD provide guidance or recommendations to providers on the implementation of such practices? If so, what does that guidance entail?
+
+Chair Stevens, I did not catch that first part. Can you repeat it for me?
+
+So DOHMH has a framework for action that recommends a tech-free space or device-limited space for use in youth settings. Does DYCD provide guidance or recommendations to providers on the implementation of this practice?
+
+We have provided guidance and recommendations, but let me get back to you to ensure that it is connected directly to the DOHMH approach.
+
+Yeah, I would love for us to make sure — you know how I always feel — how are we all working together and what does collaboration look like, and not reinventing the wheel when we have folks already doing the work. So I would love to make sure that we are strengthening that connection.
+
+In 2025, the Mayor's Office of Community Mental Health in partnership with community-based organizations and DYCD co-developed an Early Adolescent Skills for Emotions curriculum that equipped non-clinical staff and youth caregivers with tools to support youth experiencing stress, anxiety and depression. How does DYCD integrate the EASE program curriculum into programming and which programs or sites are currently implementing it?
+
+Thank you, Chair Stevens. So DYCD was pleased to partner with the Mayor's Office of Community Mental Health and The New School to pilot the Early Adolescent Skills for Emotions, or EASE, model. We did it at 15 community centers across the City. Through the effort, approximately 40 staff were trained to deliver culturally responsive non-clinical mental health skill building and we reached roughly 200 participants and their family members. The focus was on equipping staff and caregivers with practical tools to support youth experiencing stress, anxiety and depression. The programs that participated have continued to embed EASE into their day-to-day practice. Staff are incorporating core concepts such as understanding big feelings, interrupting negative thought patterns like toxic shame spirals, supporting healthy self-expression and using de-escalation techniques. These approaches are reinforced through small group sessions, one-on-one support and social-emotional learning activities during after school programming. This model has strengthened the capacity of frontline staff to respond to youth in real time while maintaining a prevention-focused, relationship-based approach.
+
+Are there plans to expand EASE across additional DYCD programs or providers and what resources would be required to do so?
+
+So funding for EASE actually concluded in 2025. DYCD does not currently have dedicated resources to support continuation or expansion of the model at scale. That said, the pilot demonstrated the value of equipping non-clinical staff with practical, culturally responsive tools to support youth and families. DYCD continues to explore opportunities to build on this approach through training and technical assistance that strengthen social-emotional and mental health supports across programs. Expansion of EASE or any other similar model will require dedicated funding for staff training, ongoing coaching and technical assistance as well as coordination to ensure quality implementation across sites. DYCD remains open to working with partners such as DOHMH to identify resources that will allow for thoughtful expansion in the future.
+
+Yeah, I mean I know we have a tight budget, but I am all for investment and I say this all the time: investment in young people actually saves us money. So we should be looking at this as a savings. The point of pilot programs is to see how it works before we roll it out at a bigger scale. And so if we have seen that it had positive effects, I am disappointed that money was not already designated for an expansion because that is the point of pilots. But at this time I will pass it over to Chair Krishnan for his line of questioning.
+
+Thank you so much, Chair Stevens, and thank you to DOHMH and DYCD for your testimony today. In February 2024, New York City filed a lawsuit against major social media platforms including TikTok, Instagram, Snapchat and YouTube. The lawsuit alleges their role in contributing to youth mental health harms. It was based on a theory of public nuisance among other things. You all are aware of that litigation, right?
+
+Public reporting and the City's complaint describe digital environments with continuously refreshing content feeds and extended scrolling experiences. From a public health standpoint, what are youth reporting about time spent and the difficulty disengaging from these types of environments? We have talked about engaging on social media platforms, but to your knowledge, how are youth finding it difficult to disengage from these platforms?
+
+So according to our... we have, again referring back to the YRBS survey, we have one for middle school students and one for high school students. According to the middle school YRBS data from 2022, just laying the context out here, 73% of New York City public middle school students use social media several times a day. And in the YRBS in 2023, a similar percentage for public high school students: 76% of New York City public high school students use social media several times a day or more.
+
+Now in June of 2023, the health department convened more than 150 participants and this included government officials, CBOs, advocates, academics, families and youth for a forum on New York City's role in the national crisis of social media and youth mental health. We again wanted to hear directly from young people. At that forum, participants described the difficulties that they were having moderating their own use and talked about some of the strategies they were using to try to do so. Sometimes it was deleting their apps, taking deliberate breaks and other ways that they were using to manage re-engagement. So we know that this is a challenge. We also know that there is national data on this as well. The Surgeon General in 2023 issued an advisory and in that advisory it was reported that a third or more of girls aged 11 to 15 found their own social media use problematic and about half of teenagers report that it would be really hard to give up social media. So we know that disengagement is a real challenge and this is consistent with neurological research about how these platforms are designed around the infinite scroll and variable reward delivery, which makes disengagement cognitively and emotionally difficult particularly for adolescents.
+
+And that is a staggering number of students using social media every day — 70-plus percent in middle school and then something around 76% for high school — which just goes to show the scale of the crisis we are facing and why we need to have, as a City, a far different approach to how we are addressing it.
+
+Now the lawsuit and related reporting also reference patterns where users repeatedly check for new content or interactions. Without addressing any specific platform, what does DOHMH observe regarding repetitive checking behaviors or difficulty resisting re-engagement once you have disconnected?
+
+Yeah. So the behaviors you are describing are a sign of problematic social media use. Our survey data, the survey that we conducted as the health department, found that parents of a substantial number of children — about 45% — say that their child uses social media too much. Among teens, we are seeing a similar pattern with about 46% of parents of teens reporting the same, that their teens use social media too much. And I know that neither of these constitutes an outright majority, but they show that parents have substantial concerns about children's and teen social media use.
+
+Again, looking at some of the national research on this, the US Surgeon General's advisory also describes how researchers believe that social media exposure can overstimulate the brain's reward center, triggering these pathways that — I know we are not using the term addiction — but feel similar to those pathways, leading to this problematic use. This is something that the health department views as a public health concern that calls for upstream intervention. Yes, there is individual behavior change that is needed, but also upstream intervention to help individuals make those shifts.
+
+And do clinicians report patterns consistent with anticipation or reward seeking? You are already testifying to that a bit, but how is that documented in a public health context? As I understand it, those dopamine spikes are true for adults and for youth. But it seems like there is a real public health issue of this sort of reward-seeking or anticipation impact that social media has.
+
+Yeah, it is a great question. So the social media platforms are explicitly designed around this variable reward schedule. It is the same mechanism that drives slot machine use, where unpredictable positive feedback — a surge of likes, a viral post — is more reinforcing than consistent rewards. For adolescents whose reward systems are more sensitive and whose inhibitory control systems are still maturing, this design dynamic is particularly powerful. So yes, there is growing clinical and public health recognition that youth social media use often reflects anticipatory and reward-seeking behavioral patterns that are analogous — though not identical — to those seen in substance-related and behavioral addictions. There is some literature that shows preoccupation with checking, compulsive engagement and emotional reactivity to feedback such as likes or comments. These are typically documented as components of broader behavioral or emotional functioning rather than a discrete disorder. So while there is an evolving evidence base, multiple lines of clinical observation, epidemiological data and emerging research really converge on this point. From a public health perspective, these patterns are operationalized through constructs such as problematic or dysregulated use and are measured via self-reported urges, reinforcement-driven engagement and loss-of-control indicators.
+
+Public reporting and the complaint that initiated the lawsuit also raised concerns about exposure to idealized or altered images. As we saw in the video during my opening statement, what trends is DOHMH seeing in body image concerns among adolescents? How frequently do youth report exposure to these types of altered images? And what associations are you seeing with self-esteem and mental health outcomes?
+
+Again, another great question. Body image concerns are an area of growing focus for the department. Members of our youth committee on mental health have directly raised the effect of social media on body image as a consistently cited concern. The US Surgeon General's 2023 advisory concluded that social media may perpetuate body dissatisfaction, disordered eating behaviors, social comparisons and low self-esteem, especially among adolescent girls. A synthesis of 20 studies found a significant relationship between social media use and body image concerns and eating disorders with social comparison as a key contributing factor. A 2024 to 2025 scoping review of the literature identified body dysmorphia and disordered eating as among the most documented mental health outcomes associated with social media, alongside depression and anxiety. The effect is amplified by algorithmically curated feeds that disproportionately surface idealized or altered images. The department does not currently have New York-specific prevalence data on body image disorders disaggregated by social media use, but this is an area we are actively considering for future data collection.
+
+The complaint also references adolescent development factors including impulse control and reward sensitivity. I think you testified to this a bit before too, but what does the research say about how adolescent brain development interacts with high-frequency digital engagement?
+
+So this is again another really important scientific question underlying the entire hearing and the emerging evidence is pretty sobering. Adolescence is a critical period of brain development. The prefrontal cortex, which is responsible for impulse control, long-term planning and decision-making, does not fully mature until the mid-20s. At the same time the brain's reward and emotion centers are at peak sensitivity, creating a developmental window of heightened reward-seeking and vulnerability to behavioral reinforcement. Social media platforms are designed to exploit precisely this profile. They deliver variable rewards — likes, comments, notifications — that activate dopamine pathways, create anticipatory loops that are hard to interrupt and use algorithmic feeds that keep users engaged longer than they intend.
+
+There was a landmark three-year longitudinal study by Maza and colleagues in 2023 that followed 178 sixth and seventh graders and found that habitual social media checking led to measurably different brain development. Those who checked most frequently showed increased amygdala reactivity and decreased capacity for self-regulation over time compared to non-habitual users. So the implications are significant for youth who develop habitual social media use during early adolescence. The neurological effects may compound over
+
+[**(01:21:09)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=4869s)
+
+
+
+time increasing susceptibility to anxiety, depression, and impulsive behavior. This underscores the public health urgency of early intervention and platform level design accountability. And is that the gain that social media companies get from getting kids hooked to the platform, right? Because unlike adults, kids do not have bank accounts. They are not consumers. They are not buying products on social media. Well, consumers in the sense that to some degree they spend their money, but some also do not have that. But they are also getting hooked on social media too. So what is the benefit that social media companies see, besides having kids spend our money? If they are getting hooked on at an early age, I wonder why do you think social media companies capitalize on that, or why do they want that to happen?
+
+So again, a great question. I do not know that I can necessarily speak to why social media companies do what they do. What I can say is that our responsibility here at the department is to really think about what are the interventions that we could put in place to be able to mitigate some of those harms, what we can do to study the impact of some of those harms over time, and really be able to provide evidence-based, scientifically rigorous data to support where providers, family members and caregivers can make decisions around how their kids should or should not be using social media. I do not know if you want to add anything more to that.
+
+And my final couple of questions. The American Academy of Pediatrics has been a part of coining the term digital stress — stress resulting from the frequent use of technology and the constant access to a wide variety of social content, including exposure to violence. How can holding companies accountable create a protective environment for our youth from this type of digital stress? So again, I am going to answer this from the perspective of our role as a public health department, which is to really think about how do we identify what some of those issues and challenges are, how do we create the evidence base to be able to support some of the necessary interventions, and be able to provide as much again scientifically rigorous, evidence-based information out there for families and providers to do right by kids around these issues.
+
+Thank you. Thank you, Chair.
+
+Thank you. At this time I will pass it to CM Joseph who has a few questions.
+
+Thank you, chairs. I wanted to know what categories of data do you collect on minor use — for example, location, usage duration, behavior profiles and emotional inferences — and is any of that data shared or sold with third parties? That was a conversation we had about Teen Space.
+
+Oh, I am sorry, you are referring specifically to Teen Space? Oh yes, I am happy to speak to that. So the Teen Space program — the data are protected. This is of utmost importance to us as a health department. It is of utmost importance to me as a professional and as a parent also of adolescents. The data are used only for service provision. There is no other allowable use of the data.
+
+Okay. So can you share the collections — like location, usage, behavioral profiles — if you are studying this? Do you plan to do a local study? Because I noticed you referenced a lot of national data. Will you be using local data to drive your policy and the work that you are doing?
+
+So we do have local data collection. But also for the Teen Space program specifically, we are collecting information that will enable us to evaluate the program. As you mentioned earlier, it is a demonstration project and we are very much looking to see what we can learn from its successes and its challenges through an evaluation.
+
+And how are you engaging parents in this conversation around social media use in homes that are in immigrant communities? How is that information traveling to those communities? The health department always translates anything it puts out into the top languages spoken in New York City. Through our communications and outreach, we often partner with various different news outlets that we know are commonly read in immigrant communities to get the word out. So that is one way that we ensure that information disseminates throughout the City.
+
+And are you also working with school counselors and social workers in schools to know what to look for for students who are going through those mental health challenges related to usage? Because we also have some students who are consumers of social media.
+
+So school mental health clinics — the clinicians are all, as I was speaking earlier, licensed clinicians who receive broad training in various needs that young people and adolescents have, which could be depression, anxiety, body image, etc. That is inclusive of those that are related to social media use or due to other factors. So these are things that school-based mental health clinicians are equipped to manage.
+
+Are there also any protocols in place to engage pediatricians, who are usually the first stop for a child, and community health workers, to identify or refer students who are experiencing social media-related mental health harm?
+
+I think that is a really good opportunity for us to look at how we can do more to engage pediatricians on this issue.
+
+Thank you, Chair.
+
+Thank you. I will pass it back to CM Cabán for a second round of questions.
+
+Thank you. I want to focus a bit on just the disparities that were talked about in your testimony and in our openings. Research shows that queer youth, Black and Latino youth, and youth with disabilities experience higher rates of cyberbullying and online harassment. What is the administration doing to address those harms?
+
+So we know that cyberbullying is absolutely a challenge. In 2022, about over a quarter of middle school students reported being cyberbullied. The middle school students who use social media more than once an hour were more likely to report being cyberbullied — 37% of those who use social media more than once an hour said that they had experienced this, versus 19%.
+
+I am sorry, I just want to interject for a second. I want to focus on the intersection of the harms and these particular populations or identities. So LGBTQIA+ youth, Black and Latino youth, youth with disabilities — their rates are higher. In light of that, what is the administration doing to address these specific harms specifically for these young folks that are disproportionately affected?
+
+I think that as the health department, what we are trying to do is ensure that mental health resources are available to these communities. We are looking, for example, through Teen Space and other programs that we have, to ensure that we are reaching the communities who are most affected, which is always our priority.
+
+Can you give some more specifics though? You are saying Teen Space and others and we are doing it. But again, specifically, how are you reaching them? What are the strategies being used to specifically reach queer youth, Black and Latino youth, and youth with disabilities?
+
+We are really trying to market in the communities that we know are disproportionately affected. For example, with Teen Space, approximately 80% of users identify as BIPOC because the marketing and outreach has been very intentional in communities and in schools where we can reach those youth. So it has been a very deliberate, intentional outreach strategy.
+
+Okay. What I would encourage is just even coming back to us with more information around what is happening outside of Teen Space, or for folks that are not being touched by Teen Space, especially in those particular communities. Because this is the first answer you have given that is just a little too vague for me, to be honest. I am going to move on but I will ask for some followup on that front.
+
+Immigrant youth and English language learners may face unique vulnerabilities online, including exposure to xenophobic content and digital exploitation. What culturally competent and multilingual supports for digital literacy are available? Sorry, excuse me one moment. I know that the New York City public schools in particular has been a vehicle for reaching youth and that they have been doing quite a bit in this area. One moment — I can describe some of those for you. So New York City public schools, in addition to having school-based mental health clinics... I am sorry, do you mind — I just want to make sure I am answering your question.
+
+Yeah. So immigrant youth, yes, English language learners — there are unique vulnerabilities there. The harm there is obviously xenophobic content that they may be exposed to or targeted for, and then digital exploitation because of either immigration status or the fact that English is not their first language. So in light of those things, what culturally competent and multilingual supports for digital literacy are available?
+
+I am going to have to defer to New York City public schools for details on that. I can certainly speak to some of the work they are doing on digital citizenship to support all of their students, but for more detailed answers I would have to defer to our colleagues at the New York City public schools about that approach.
+
+Okay. Again, I would love for you to have that communication and circle back with us on that. We did give these questions beforehand, so I would hope for a little bit more information here.
+
+Black, Latino and queer youth and other groups often face a documented phenomenon called identity-based stress online, which is repeated exposure to gender-based and racial violence, discrimination, and community trauma through social media feeds. Has DOH developed clinical guidance or messaging to address this?
+
+We have not. Is that something that you are actively exploring at this point, or can you commit to exploring that? It is certainly something we would be happy to look into.
+
+Okay, great. Moving to some social determinants and compounding risk factors — food insecurity, housing instability and community violence are all known to compound the mental health effects of social media. Does the administration take an integrated approach to address social media harms in the context of these social determinants? I think the chair has done a good job of articulating a really particular example of this, like youth that are in foster care, or runaway or homeless youth. Is there an integrated approach to address those things? If so, how is that reflected in your research?
+
+In general, what I would say is that we are incredibly focused on not just the specifics of mental health and substance use disorders but all of the social drivers or health-related social needs that impact not only the emergence of these conditions but certainly the exacerbation of them. Core to what we do is really taking into account all of these different factors and aligning them around how we are going to be able to develop and deliver the right array of supports and services for individuals, taking into account a very holistic and comprehensive approach to the needs.
+
+We know that someone who might be couch surfing or food insecure is going to have a harder time being able to access services. So a lot of our programs across the department are really aimed at being able to take those things into account — everything from care coordination and appropriate engagement and referral into appropriate services or entitlements or whatever may be needed, to the actual delivery of services and treatments. So it is an integral part of what we do. Specifically around social media, I do not know how I would disaggregate that because our focus is always about looking at the individual and their needs holistically.
+
+So let us go deeper on that then. You specifically talked about the couch surfing example. If a youth is experiencing homelessness, it is true that they often rely on smartphones and social media as their primary source of social connection. So how do you balance the harm reduction approaches to social media with the reality that digital connectivity is essential for these youth? What is the approach there? This has been talked about a lot, right — there are positives and then we are balancing out the realities of these negatives. Can you give some more particularized testimony on that?
+
+I would have to say that there is the reality of the importance of actual cell phone usage and obviously social media being part of that as a lifeline for many of the folks that are connected to the digital world. It is hard for us to be able to influence that, knowing fully well that many folks rely on their telephones to be able to connect to a whole range of things. So I do not know that we are necessarily in a position to do anything about the utilization of smartphones.
+
+Well, I guess I am saying, does the administration have a strategy where they are specifically saying, well, kids that are in the shelter system are more vulnerable to this, so we are doing outreach in our shelters because we know that is how we can find and access these kids?
+
+That is a good question. That is a good question for DYCD. They run the youth shelters. So thinking about what the guidance looks like in those spaces and how we are getting that information out, and also thinking about the collaboration — because I think for me, and this is something we could also ask ACS, is what does it look like for this vulnerable population? One of the questions that keeps coming up is how do we regulate this for those kids? But my question is, then only a certain set of kids get supports and get what they need, and that does not sit well with me. So I think this is one of those places where I would love for us all to be thinking about how do we ensure that we are protecting all these young people. You are managing the shelters with homeless runaway youth, so we would love to think about how you are thinking about this and how do we move forward in these conversations to think about how do we... because that is a hard thing, right? We have young people who drop in at the drop-in center and who are in some of these other spaces. But how do we support them in these moments, especially when it is sometimes the only place they have connection?
+
+And chair Stevens and chair Cabán, so one thing we do is create safe spaces across our entire system — both RHY, whether it is workforce programs, our community development programs, youth services — we train staff to create safe spaces, which includes hiring from the community, ensuring that there is a diverse workforce, and supporting our young people. Most importantly, ensuring that the resources that our most vulnerable young people are going to need are out there and available to them — whether that is a place to go because it is a 24-hour drop-in center, or unfortunately they need a youth shelter bed, they are connected to those programs. We are getting the word out. They are receiving those resources and they are planning for their future.
+
+I do look forward to working with our colleagues at DOH and the Council on what we can do to improve and innovate the work that we are doing across the City. Because I think this is the moment where we should be thinking about what that looks like and how do we not have an overreach, but also how are we creating and putting pressure to make sure that all these young people are safe. A safe space is one place, but how do we make a safe space digitally as well — that is also an important question.
+
+And how are we identifying the prime sites for those contacts? In that vein, for example, how many school-based mental health clinicians are trained to screen for and treat social media-related harms?
+
+I am not sure that there is specific training on screening for social media-based harms for school-based mental health clinicians. Again, I think it is a broader approach that they get in terms of looking for general mental health concerns and needs and supporting them. In relation to social media or other factors, is there anything around social media usage that is kind of part of the typical intake with a child?
+
+I would have to get back to you on that. I do not know.
+
+Okay. That would be great to know. Another thing I would like to know is whether access is equitable across income levels and across districts — that is another data point I think would be helpful to know. I have questions on Int 0660-2026 specifically, so I am going to hold there and give it back to the chairs for more of their questions.
+
+Okay. I have some questions on the intro as well. Int 0450-2026 requires social media companies to prohibit any person under the age of 17 from using social media for more than one hour per day unless waived by a parent or guardian in writing. Are there clinical studies that indicate that limiting social media use to one hour per day would have a measurable impact on youth when compared to allowing them to use those sites for unlimited amounts of time?
+
+We are not aware of a study that would specifically speak to that issue.
+
+So we do not know if there is a study. So maybe we should do one. I do not know. What, if any, mental health challenges are more common for youth that are different from those experienced by adult social media users? Has there been any studies that have shown differences between young people who use social media excessively and adults, in terms of the effects?
+
+Not that I am familiar with right now, but again, we would be happy to look into that. Our survey did ask not only young people about their social media use, but their parents and caregivers about their social media use. We would be happy to look at the findings to see what the differences are. We can get back to you.
+
+Yeah. I think especially for people like myself who grew up in a generation where we were not consumed with it in this way — and so it has been moving rapidly. I think this is a great moment for us to be taking a step back to look at all the studies, because there are things — prime example, chair Krishnan was talking about this — there have been a number of lawsuits around this and folks are winning because the social media companies are doing this research and they are leading in this space. So we also need to be doing the same thing and making sure we have the information and the data to back up what we are saying, because they have it and they are just not sharing it with us.
+
+So I think it is that moment in time, which brings me to my next piece of legislation. Int 0451-2026 will require DYCD in consultation with DOH to report on the effects that social media has on mental health for youth. The report would include recommendations on appropriate use, age and hours per day for youth using social media. We know that children and teens who use social media are more likely to experience
+
+[**(01:42:49)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=6169s)
+
+
+
+Higher rates of anxiety and depression, which was the top two things that you said young people are experiencing, and that racial or economic status may shape the ways parents or guardians approach social media in their homes. So has DOH been able to look at the intersection of racial or economic status on social media use and mental health challenges to identify common patterns?
+
+>> Yeah. We have seen that there are some discrepancies by race and this is something we are actively looking at because even in parents' perceptions of how much they think that their youth's use is problematic or is too much use, it does break down across racial lines. And we speculate to some degree socioeconomic lines. This is something that we really want to better understand, particularly because one of the top reasons that youth cite using social media is boredom. We really want to take a look and ensure that non-online opportunities for healthy recreation and other things are more equitably available, and I think it is something we need to look at comprehensively. So yeah, it is absolutely a concern.
+
+Has the Office of Mental Health observed other patterns in contributing factors that may worsen the impact of social media use on mental health outcomes?
+
+>> I think I would come back to what I was speaking about earlier, that I think one area for us to better understand is how youth are spending their time online. I think we have been looking pretty extensively at how much time, and I think that understanding how they use it and how that correlates with mental health outcomes will help us to provide better supports to young people about how to use it in healthier ways.
+
+>> What is the administration's position on Int 0451-2026? Do you foresee any difficulties with the implementation of this Bill?
+
+>> That is for both of you because that would be a collaboration between the two.
+
+>> It is pretty much a report.
+
+>> Hi, CM Stevens.
+
+>> Hi. Welcome back.
+
+>> So I will read our position into the record. DYCD recognizes that the Council's focus on understanding the impact of social media on mental health of young people is a critical and evolving issue and one that providers and staff encounter regularly in their work with youth across the City. We share the goal of ensuring that young people are supported in navigating digital spaces in ways that promote well-being and reduce harm. At the same time, the scope of this legislation requires a level of public health research, longitudinal data collection, and clinical analysis that extends beyond DYCD's current operational structure and capacity. That is why we defer to OMH.
+
+The type of study envisioned, including population-level analysis of mental health impacts, identification of harmful usage patterns, and development of age and time use recommendations, would require specialized research design, large-scale data collection, and sustained analytical infrastructure.
+
+>> We are well positioned to contribute in our role as a youth development agency, including integrating digital literacy, mental health supports and conflict navigation strategies into programming and providing on-the-ground insights from providers and participants. We welcome continued discussions with the Council and other partners to further explore this issue and help shape the approach.
+
+>> So just say yes, support my legislation. Thank you. That is what I heard. No, but I understand that there would obviously be challenges, but that is why it was not DYCD only. It was like, how do you guys work together to do this? Because DYCD does have access to kids and young people and programs, and you guys have access to the population, runaway and homeless youth and all those things that DOH typically does not have access to. We have to throw ACS in there too, because I am going to add them to the Bill. That is my modification, adding them to the Bill, because those are the folks that really need to be thinking about this work and how do we protect those young people. So I love that you guys support my Bill. I appreciate it and we are going to continue to work together.
+
+>> I think what you are hearing from our position is that we want to make sure we get this right, as you do too. And I think it takes further discussion to figure out what that right approach is.
+
+>> Absolutely. So we would really love to have some further discussion with the Council about what we are currently doing in terms of our surveillance and data collection activities, and just to work with you on legislation to ensure that what is legislated is actionable and rooted in the science that we are aware of. We look forward to having more conversations with you about the Bill.
+
+>> Amazing. So you guys love it too. Sounds great. And we are going to add ACS in there too. It is going to be great. We are going to have a big old party. Maybe we should add DOE. All the people, everyone coming to the table so we can talk about it and come up with a real strategy and plan.
+
+So Int 0660-2026 will require DYCD in coordination with the mayor's office for neighborhood safety and the office of preventing gun violence to conduct a study on verbal and physical altercations among young people who are 24 years or younger who receive services from DYCD. Do City agencies and offices currently monitor social media to identify threats or flag potential altercations or disruptions that may arise?
+
+>> I am sorry, Chair Stevens. The last part of that question, you are asking do you guys currently monitor social media accounts?
+
+>> We do not as an agency. We do not.
+
+>> Yeah, you do not, but NYPD does.
+
+>> I am on your account.
+
+>> Well, thank you. What type of gun violence indicators does the City currently measure, or do you guys measure? Because I know you have ONS under you. How do you measure?
+
+>> We have ONS and we have indicators that measure the work that is being done on the ground. So whether it is mediations, de-escalations, the canvassing, of course, we have indicators that measure that. I would hesitate to go too deep into the practices because I never want anyone to misinterpret whether surveillance is happening. In many cases there are meaningful relationships between the young adults and the mentoring staff that they are connected to, and I never want that to get misinterpreted. So specificity around social media, I would love to have offline conversations around that.
+
+>> Yes, you should definitely have those offline conversations with the Deputy Speaker, Nantasha Williams. So I will let her know to reach out. What specific concerns do you foresee with the implementation or enforcement of this Bill? As the Bill is written, it would require case-level documentation and analysis of altercations and their underlying causes. This would require significant enhancements to our existing systems, which include DYCD Connect, and upgrades of a technology boost and approximately $5 million to do this. Honestly, what we believe is that through provider-informed insights, it could be leveraged to identify trends and risk factors at a systems level, an approach that emphasizes prevention, aggregated data, and strengthening youth supports to help inform how we best address this issue while avoiding the need for this sort of case-by-case surveillance or investigation of what young people are doing. I think, just as you notice, rooted in youth development, it could cross a line and lose the trust of young people, and definitely cause a rift in trust in those relationships that young people have.
+
+>> But overall, we are interested in continuing that discussion with the Council.
+
+>> CM Cabán, you had questions. Go ahead.
+
+>> I have a lot of questions on 660.
+
+>> Well, it is almost...
+
+>> Okay. All right. I have a lot of questions on Int 0660-2026. I am going to be real. I have some serious concerns with the Bill. I think just to put the concerns in perspective, the 2024 report noted that DYCD funds well over a thousand CBOs serving over 400,000 youth. We are talking about after school, summer jobs, literacy, immigrant services, support for runaway and homeless youth. My concern is just about whether we are creating a mass surveillance database and using these programs to do that. And just to also put into context for my questions, it is not just DYCD programs that this is going to affect, as I understand it. It also puts reporting and surveilling requirements on the office of neighborhood safety, which combines the efforts of the mayor's action plan for neighborhood safety, otherwise known as MAP, the office to prevent gun violence, OPGV, and the programs that span our City.
+
+So do you know how many programs receive ONS funding and how many young people are served by those programs? I just want to get, before I start asking questions, a better sense of how many people this could touch. We have a sense of how many are under the DYCD umbrella, but not so much about those other areas. And I do not know if you have access to that information.
+
+>> Yeah, we do. So as you know, ONS has been part of DYCD for the past few years and recently announced that they will be joining the office of community safety.
+
+>> Got it.
+
+>> We are working on that transition and what that means. Of course, DYCD has over a thousand programs that young people are engaged in. With ONS, let us say a couple hundred programs and opportunities that young people are engaged in.
+
+>> We share Chair Cabán's sentiments around ensuring that there is no disruption in the trust amongst young people and the adults that are working with them, mentoring them, supporting them and getting them on positive tracks. We believe with this Bill that a more top-level aggregated approach with best practices can be implemented, not that sort of case-by-case investigative approach that the Bill appears to indicate.
+
+>> Also, what would this cost?
+
+>> Roughly $5 million on this as well.
+
+>> And does that include the setup for it, or does the infrastructure already exist? Are there things that have to be added that the City is not already utilizing?
+
+>> So that would include enhancing our current system, our current infrastructure, and then the additional staffing, analysis and consulting time that may be needed for this. Again, not a Bill or approach that we are in agreement with.
+
+>> Yeah. Can you talk more deeply about the privacy concerns, like what notice you will give to families?
+
+>> Yeah. What happens if they do not consent? Do you anticipate losing people in programming if they do not consent to this?
+
+>> Yeah, Chair Cabán, I do not think the Bill, at least as I read it, goes too deep into the release of private information for young people. But what I think our concern is, and what I am touching on, is the youth development platforms and relationships between our programs, the staff and young people. The second that it starts to feel like they are being investigated...
+
+>> You lose them.
+
+>> Yeah. We lose them immediately and then they go on social media and it is endless what could happen from there.
+
+>> Okay. I think at least the way I read it, Int 0660-2026 creates an authorized surveillance database. Do you have a sense of how long data gathered by Int 0660-2026 would be retained, and who controls the data, who determines who gets access to it, and what are the limitations for accessing it? These are questions I think we are always asking when we are collecting data, but I think they are particularly sensitive when it comes to children.
+
+>> I do not have a sense of Int 0660-2026 and what that would mean in terms of the expectations around data gathering, retention or usage. And I do not think it is a practice that we would go through with on a case-by-case basis.
+
+>> Do you think search warrants would be required to obtain the data? Subpoenas being required? What would you anticipate some of the guardrails being, or where do you see gaps?
+
+>> I do not want to speculate because we did not write the Bill.
+
+>> I do not want to speculate on what the intended purpose was because it would change the narrative.
+
+>> But would you agree that those are questions that you have? I guess I should have framed the questions that way, because you are right, you did not write the Bill. So I should not be framing them as, do you share these concerns? Are they the questions that you have about the legislation?
+
+>> They are certainly one of many of the questions that... are you wondering about ICE accessing it at all? I think all the variables that could release personal information fall into play as questions that we may have. In addition, I think the foundation of that is the trust and relationships that are the best practice of our programs and how we connect to young adults.
+
+>> So I am not going to belabor it because I think the concerns are out there. But I will say this: when I was a public defender I represented a lot of young people. I was practicing before Raise the Age, and the way that prosecutors used social media was horrifying. Horrifying. With such regularity, it was just a common thing. They would even admit to some of these really what I think are nefarious uses around social media. I had an ADA once tell me outside of a court space in a social setting, because they thought it was an okay space to talk about it, that they would pull all kinds of information from a kid's social media who happened to be connected to another kid they were investigating, and then if they found something even questionable on kid A's social media, they used that to threaten them to testify against kid B, even if the stuff was not true. And you have these kids terrified about what is going to happen when they are talking to these folks. And it happened a lot. You would have kids being willing to say, "Oh yeah, that person is gang affiliated," or, "Oh yeah, this or that." And I just really worry about those things. I will leave it there.
+
+>> Yeah. I know that the Deputy Speaker is literally running a Democratic conference right now, but I just want to make sure we note that she is very open to hearing all concerns and amending the Bill, and she also has similar concerns as well. So I will let her have these offline conversations with folks around it, but she wanted to be clear that she is definitely open to amending and hearing feedback about this Bill. I think DYCD definitely should, and I will make sure that she reaches out to hear those concerns and hear the perspective and some of the issues you foresee, especially because you are the people that are making these relationships. I come from youth development and I understand our relationships are like collateral. They come and go.
+
+CM... Shirley Aldebol, sorry about that, my fellow Bronx girl. Sorry about that. Valerie, I realize this is why you are here, for Int 0801-2026. That is why you are here. Got it. Int 0801-2026 will require DYCD to include employment, apprenticeship, internship and credit-bearing opportunities for summer youth in the child care and early childhood education sector within summer youth employment. What is the administration's position on this Bill?
+
+>> So, thank you. I was like, why is she... you could not have a hearing without me. Thank you, Chair Stevens. So we are absolutely in agreement that summer youth employment is the perfect way to introduce young people to careers in early childhood education and youth development. I think you know this better than anybody, that this is something summer youth employment already does really well. Over 32,000 of our summer youth employment participants last year spent their summer working in child care and education settings, and education and child care are consistently among the top most requested career interests of our participants when we survey them before they are enrolled each summer.
+
+That said, we do have some concerns with the Bill itself. I think how it is written, we need to keep in mind that it is really important that we remain realistic about what providers, employers, and other partners are able to do within the six weeks that summer youth employment has available.
+
+>> Well, you know, my goal is to have youth employment all year long, so it actually is on track with what I am trying to do.
+
+>> We appreciate very much your advocacy for the program and for Work Learn, which is the year-round extension of summer youth employment. And I think the other thing that is very important to us at DYCD is all of the efforts that we have been making to diversify sectors that participate in summer youth employment. It is really critical that we do not position summer youth employment as a pipeline into one specific sector or job. I am particularly sensitive about that because summer youth employment is perceived as a place where young people are only doing daycare jobs. I have always been an advocate that those are important, amazing experiences for young people, but we also want to continue to diversify the experiences that young people have through the program, and we want to make sure that corporate employers, business, finance and tech all feel like summer youth employment is a place for them. So I have a lot of concerns about...
+
+>> Well, you know, I have ideas, because some of the problem is that a lot of our providers need summer youth employment to run the programs. Again, we have 70 providers, all of them also run camps, so a lot of times they are going to obviously feed into those programs. When we are thinking about summer youth employment and the next RFP, we should be looking at incentivizing sectors to be providers and not just the regular providers, and saying like, okay, you will specialize in this and that. So I have lots of ideas on how we can diversify this. I always have ideas, but I think those are some of the things, because we cannot, and I ran camp, you cannot have camp without summer youth employment. There is no way, just because of the ratios and trying to leave the building. It is a crucial part of the program that keeps getting expanded. So we have to think about how we have the pipeline. But also, I want to be clear, we do not want it to be like, oh, working with kids only. Summer youth employment has been a place where I know for a fact I have inspired young people to get into this field because they did not know about it other than working in youth development and seeing that there was a career trajectory, and also in this field right now, just working in nonprofit in general, it exposes them. So I have lots of ideas.
+
+I am open to all of your feedback, but we should definitely talk more about this Bill because this is definitely something I want to see get passed and want to push for, but I want to make sure that we are being realistic. Again, six weeks is not a long enough time. But again, that is not my goal. My goal is youth employment all year long because it is that important. And because we see such a high rise in unemployment in youth right now, this is again something as a government we should be reacting to. The youth unemployment rate is over 21% for young people and for Black youth it is 26%. So it is clearly an issue and we have to make sure that we are addressing it. So I am happy to hear that you are here to support it and let us continue to have conversations and hear about the amendments.
+
+What do you foresee as any difficulties with implementation of this Bill?
+
+>> A few things. I definitely think the timeline is a concern, depending on, again, I think we should talk more about what the actual intent and vision of the Bill is. At the same time, I think we have done a really great job building resources into summer youth employment. We want to make sure, like you said, that if a young person is interested in a career in the early childhood education sector and education and child care, that they use that first summer youth employment experience as their next step. So we have done a ton of work...
+
+[**(02:05:15)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=7515s)
+
+
+
+learn and grow to make sure that as young people move through this vision of a year-long program, they have access to courses, to credits, and to other opportunities where they are able to actually build upon what they did in SYP. But that has been possible because of the length of time that work, learn and grow allows, the amount of engagement that the young people have, the time and the resources that it takes to do the work of getting young people placed in CUNY courses in jobs that are relevant to the CUNY courses. We have done great work. We have had over 20,000 participants in work, learn and grow over the last five years receive a college credit through work, learn and grow. So we know how to do it, but I think trying to do that within the framework of the six weeks of SYP can be really challenging.
+
+[**(02:06:02)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=7562s)
+
+
+
+Well, keep building up my argument for a full year extension of programming because that is what you just did. It helped support what I am saying. But again, work, learn and grow has its limitations because it is not for everyone, right? And so that is probably my biggest issue. I love work, learn and grow. I think it is a great program. I actually have work, learn and grow folks who are in my office, but it is one of those things where we have seen what that looks like to have a full-year program and what actually could be done with that. And so I understand the challenges, but we will continue to have these conversations offline. You actually just helped build out my argument for full year programming.
+
+[**(02:06:37)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=7597s)
+
+
+
+We really appreciate you advocating for these programs because we also think that they are really, really important for young people.
+
+[**(02:06:43)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=7603s)
+
+
+
+Absolutely. Do you have any questions? Okay. Do you have any more?
+
+[**(02:06:49)**](https://www.youtube.com/watch?v=u4eW5OzzLfQ&t=7609s)
+
+
+
+Nope.
