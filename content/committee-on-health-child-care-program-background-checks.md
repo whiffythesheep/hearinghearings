@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Health | Committee on Oversight & Investigations | Subcommittee on Early Childhood Education"
 committee_slug: committee-on-health
-title: "Child Care Program BackGround Checks"
+title: "Child Care Program Background checks"
 date: 2026-04-22
 slug: committee-on-health-child-care-program-background-checks
 duration: "2hrs 6m"
