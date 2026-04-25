@@ -1,0 +1,1200 @@
+---
+committee: "Committee on Sanitation and Solid Waste Management"
+committee_slug: committee-on-sanitation-and-solid-waste-management
+title: "FY 2027 Preliminary Budget Hearing"
+date: 2026-03-16
+slug: committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing
+duration: "3hrs 29m"
+youtube_url: "https://www.youtube.com/watch?v=u1f_c8-Jcos"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397707&GUID=068E5EEB-9819-4ADA-8709-BF8191F5EA03&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The New York City Council Committee on Sanitation and Solid Waste Management held its preliminary budget hearing for fiscal year 2027 on March 16, 2026, examining the Department of Sanitation's approximately 3.1 billion dollar budget. Acting Commissioner Javier Lohan led the department's testimony, joined by deputies covering budget and public affairs. The hearing covered the department's three core functions — collection, cleaning and snow removal — with extended questioning on overtime structure, containerization expansion, waste export costs, commercial waste zones, street vending enforcement, and borough-level resource allocation. No legislation was voted on; this was an oversight and budget review hearing.
+
+On the structural questions that have dogged DSNY for years, the overtime discussion was more procedural than revelatory. The department acknowledged that overtime runs at roughly 19 percent of the personal services budget when snow is included, with actual fiscal year 2025 spending at 204.7 million against a budgeted 185 million baseline, and fiscal year 2027 budgeted at 257.9 million including a 160 million snow allowance. The acting commissioner described weekly reviews of top overtime earners and bureau-level justifications, but could not point to a formal remediation plan submitted to OMB, nor provide a cost-benefit analysis comparing overtime to additional full-time hiring. The honest answer lurking beneath the testimony is that much DSNY overtime is structurally embedded — seasonal operations, stadium cleaning, blockades, snow — and not easily replaced by headcount. The department is targeting 1.5 percent savings in fiscal year 2026 and 2.5 percent in fiscal year 2027 per standard agency guidance, but had not yet finalized specific initiatives as of the March 20 deadline.
+
+Containerization and the Manhattan Community District 9 Empire bin pilot drew sustained interest. The pilot, covering roughly 1,100 Empire bins in West Harlem at a cost of approximately 2.1 million, is showing about 70 percent broad compliance among buildings and has not yet produced measurable overtime savings given its pilot scale. June 2026 is the deadline by which one-to-nine unit residential properties citywide must use the official New York City bin exclusively. A citywide expansion cost estimate for the Empire bin model is still being developed. The commercial waste zone rollout — now operational in five of twenty zones with full citywide implementation targeted by end of 2027 — drew advocacy from public witnesses urging faster diversion investment and use of underutilized marine transfer stations for commercial waste. The waste export budget of nearly 600 million annually, representing roughly a quarter of DSNY's total spend, was flagged by multiple public witnesses as an environmental justice issue as well as a fiscal one, with the department and advocates aligned in support of state extended producer responsibility legislation that could return as much as 150 million annually to the city.
+
+Street vending enforcement produced pointed exchanges. Council Member Pierina Sanchez pressed on the absence of new funding for the Office of Street Vending Enforcement despite Local Law 54 of 2026 requiring the department to inspect 80 percent of licensed vendors annually and a significant expansion of licenses legislated this year. The acting commissioner acknowledged the resource question remains open pending assessment of how the license expansion plays out on the ground. Council Member Ung flatly told the commissioner that forty officers is inadequate for her district today, let alone after expansion. The department also disclosed it spent 492,000 in fiscal year 2026 on body cameras for its approximately 140 sanitation police officers. Snow response in Staten Island came up repeatedly, with Council Members Carr and Morano pressing on topography-driven service gaps and PlowNYC GPS inaccuracies. The commissioner acknowledged the after-action review is ongoing and discussed potential operational adjustments including doubled-up sectors and pre-positioned front-end loaders for hilly terrain. Public testimony was dominated by composting advocates — community composting organizations, environmental groups including NRDC, and Cafeteria Culture — urging continuation of City Council discretionary funding for community composting programs that lost their DSNY baseline funding under the Adams administration. The hearing closed with a poem about falafel.
+
+Numbers
+
+- DSNY fiscal year 2027 preliminary budget: approximately 3.1 billion dollars total.
+- Expense budget: 2.08 billion in fiscal year 2027 and 2.25 billion in fiscal year 2026, reflecting increases of 38 million and 261 million respectively from the adopted budget.
+- Personal services budget fiscal year 2026: 1.33 billion, supporting 9,625 budgeted full-time positions including 7,957 uniform and 1,668 civilian.
+- Fiscal year 2027 budgeted headcount: 9,910 positions.
+- Fiscal year 2027 overtime budget: 257.9 million, including approximately 160 million for snow overtime, representing about 19 percent of the personal services budget.
+- Actual fiscal year 2025 overtime: 204.7 million, representing about 16 percent of personal services.
+- Average overtime hours per uniformed employee in fiscal year 2025: approximately 225 hours, plus 34 to 39 hours of snow overtime.
+- Uniform staff 12-month turnover rate: approximately 7 percent; civilian staff: approximately 9 percent.
+- Current uniform vacancy rate: just over 3 percent.
+- Agency savings targets: 1.5 percent of operating expenses in fiscal year 2026 and 2.5 percent in fiscal year 2027.
+- 10-year capital plan fiscal year 2026 to fiscal year 2035: approximately 3.26 billion, of which roughly 63 percent (approximately 2.04 billion) is for equipment and 33 percent (approximately 1.09 billion) is for facilities.
+- Waste export annual expenditure: approximately 594.8 million budgeted for fiscal year 2027, representing roughly one quarter of the department's budget.
+- Litter basket service baselined at 29.7 million annually, approximately 1.4 percent of DSNY's total budget, covering approximately 23,000 baskets and 793 dedicated truck shifts per week.
+- Manhattan Community District 9 containerization pilot cost: approximately 2.1 million for fiscal year 2027, approximately 0.1 percent of total operating budget; funded entirely from city tax levy.
+- Bin reimbursement program for qualifying one and two family homeowners: approximately 9.1 million spent to date.
+- NYC official bin retail price: approximately 50 dollars; approximately 1 million bins purchased citywide.
+- Empire bin cost per unit: approximately 5,500 dollars including installation, factory wrap and approximately 12 cleanings per year.
+- Compliance rate in Manhattan District 9: approximately 72 percent of one-to-nine unit buildings have not received a summons; approximately 70 percent of all buildings have received neither warning nor summons.
+- Commercial waste zone administrative fee per awarded carter: approximately 107,000 dollars annually; projected total revenue once all 20 zones are operational: approximately 7 million dollars per year.
+- Commercial waste zone rollout: 5 of 20 zones operational; full citywide implementation targeted by end of 2027; projected reduction of approximately 12 million vehicle miles traveled annually when fully implemented.
+- Curbside composting program baseline budget: 33.4 million; additional 2 million in EPA grant funding for mandatory composting outreach campaign launching March 2026.
+- Smart composting bins deployed citywide: approximately 400 bins at approximately 5,500 dollars each; approximately 870,000 recorded unlocks and approximately 2.65 million pounds of material collected annually.
+- Illegal dumping camera network: 334 cameras citywide; fines start at 4,000 dollars per violation; calendar year 2024 to 2025 increase: 62 percent more vehicle impounds and 49 percent more summonses.
+- Truck fires: 152 in calendar year 2024, 168 in calendar year 2025, 38 year-to-date in 2026; replacement cost per truck over 500,000 dollars.
+- Snow budget adjustment in January plan: approximately 100 million to reflect actual spending this winter, the most snow in a decade.
+- Rear loading collection truck replacement cost: approximately 545,000 per truck; dual bin truck: approximately 573,000; 104 rear loaders and 80 dual bin trucks planned for replacement in fiscal year 2027.
+- Graffiti removal budget: 2.7 million for fiscal year 2026.
+- Street vending enforcement body camera funding: 492,000 in fiscal year 2026 and 200,000 in fiscal year 2027 for approximately 140 sanitation police officers.
+- Emergency snow shoveler program during recent storm: approximately 1,800 workers per day on average, peak of approximately 3,400; cost approximately 3.4 million.
+- New York City residential waste diversion rate: 19.2 percent; San Francisco comparison cited at approximately 80 percent.
+- Graffiti removal 311 service requests closed increased by 80 percent since DSNY took over the program.
+- Abandoned vehicles removed year-to-date in fiscal year 2026: approximately 4,571.
+
+Action Points
+
+- DSNY to provide Chair Sanchez with the percentage of uniformed workers exceeding 200 hours of overtime per year.
+- DSNY to provide the committee with the total annual budget for the abandoned vehicle removal program.
+- DSNY to follow up with CM Lee on the annual revenue generated from illegal dumping fines and vehicle impoundment fees and how this compares to program operating costs.
+- Acting Commissioner Lohan to work with CM Hankerson to share data on where street vending enforcement teams have been deployed, and to set up a focused enforcement operation targeting the specific repeat illegal vendor in CM Hankerson's district.
+- DSNY to provide the committee with the per-household cost of containerization in the Manhattan District 9 pilot.
+- DSNY to finalize and publish cost and timeline estimates for citywide expansion of the Empire bin containerization program.
+- DSNY to provide the committee with the percentage of capital budget allocated to electric and hybrid vehicle purchases and charging infrastructure.
+- DSNY to provide CM Morano with specific GPS location data from the recent storm where PlowNYC showed streets as plowed when they were impassable, for investigation and system refinement.
+- DSNY to finalize capital improvement budget for the Staten Island compost facility in coordination with DEC, to address odor impacts on the Travis neighborhood.
+- DSNY to work with OMB and the administration on identifying funding for increased street vending enforcement staffing as new licenses roll out under Local Law 54 of 2026, and to report back to the committee.
+- DSNY to work with the Council to explore additional quarterly and annual transparency reporting mechanisms including borough-level service metrics, real-time resource dashboards and cost-per-ton and cost-per-resident data.
+- DSNY to work with CM Hanif and other interested Council members on relocating underutilized smart composting bins to higher-need locations.
+- DSNY to work with CM Vernikov and OMB on options for combining Brooklyn Districts 13 and 15 sanitation facilities closer to Coney Island, including identifying viable sites.
+- DSNY to work with OMB to determine whether any reimbursement from event organizers or other funding sources will offset sanitation costs for USA 250 and FIFA World Cup 2026 operations.
+- DSNY to share borough-level snow plan after-action review findings with the committee following conclusion of the snow season, including specific operational adjustments planned for Staten Island.
+- DSNY to explore incorporating street vending location identifiers into its internal field data collection application to better track illegal vending conditions.
+- Council to consider updating Local Law 146 of 2013 to align commercial organic separation requirements with the residential composting mandate, as urged by Acting Commissioner Lohan.
+- Council to reaffirm support to Albany for the Glick-Carpin EPR packaging reduction and recycling infrastructure act, as urged by NRDC and supported by DSNY.
+
+## Full Transcript
+
+[**(00:00:52)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=52s)
+
+
+
+
+
+[**(00:08:32)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=512s)
+
+
+
+Good morning and welcome to today's New York City Council hearing for the Committee on Sanitation and Solid Waste Management. At this time, I would like to remind everyone to silence all electronic devices. Also, at this point, going forward, no one is to approach the chair. We are ready to begin.
+
+[**(00:08:49)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=529s)
+
+
+
+Good morning everyone and welcome to this beautiful sunny Monday morning in the City of New York. Welcome to the fiscal 2027 preliminary budget hearing for the Committee on Sanitation and Solid Waste Management. My name is Justin Sanchez and I am the chair of the Sanitation and Solid Waste Management Committee. Today we will review the Department of Sanitation's fiscal 2027 budget to understand how it addresses the sanitation needs of all New Yorkers. I would like to begin by thanking the men and women of the Department of Sanitation for their hard work keeping our city clean and livable. Whether collecting refuse in the early morning hours, clearing snow from our streets — which we had a lot of this year — or managing the city's growing waste export needs, the work of DSNY's workforce is essential to the daily life of every New Yorker.
+
+The Department of Sanitation's fiscal 2027 preliminary budget totals approximately $3.1 billion. The preliminary plan includes a number of new needs and adjustments, and the committee looks forward to discussing how these resources are being deployed to address the city's most pressing sanitation challenges. During our hearing today, the committee would like to focus on several key areas, including the department's chronic overtime reliance and whether the preliminary plan takes meaningful steps towards structural reform, the expansion of containerization across the city including its cost and implementation timeline, waste export cost and the city's long-term strategy for managing exported waste as the 2026 Solid Waste Management Plan is implemented, and lot cleaning operations and how the department is allocating resources to address vacant lot conditions across the five boroughs.
+
+Over the past year, the committee has conducted active oversight of sanitation operations, including a hearing on the city's engagement around the 2026 Solid Waste Management Plan. We also anticipate holding a hearing on street cleanliness in the coming months, as maintaining clean streets remains a top priority for our constituents and this committee. I would like to thank our committee staff for their hard work: our senior financial analyst Tanvir Singh, our policy analysts Ricky Chala and Dirk Spencer, and our committee counsel Morgan Barrett and Samia Shell. I would like to thank and welcome Acting Commissioner Lohan and the men and women of the Department of Sanitation for the essential work they do every day. I am looking forward to today's discussion and the committee counsel will now swear you in.
+
+[**(00:11:37)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=697s)
+
+
+
+I would like to also recognize my colleagues who are joining us here today. We start with CM Morano, CM Wang, CM Hanif, CM De La Rosa and CM Carr. Do we have anyone on Zoom? We have CM Maloney joining us via Zoom. Commissioner, please begin when you are ready.
+
+[**(00:12:00)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=720s)
+
+
+
+Good morning, Chair Sanchez and members of the Committee on Sanitation and Solid Waste Management. I am Javier Lohan, the acting commissioner of the New York City Department of Sanitation. I am joined today by Joseph Anteneelli, Deputy Commissioner of Management and Budget, and by Joshua Goodman, Deputy Commissioner of Public Affairs and Customer Experience. I have worked at the Department of Sanitation for 27 years, and even with that level of experience, it can still be a challenge to grasp the enormity of our work. The 10,000 members of service at DSNY are responsible for three primary areas, which I will list and then explain in as much detail as time allows, with an emphasis on new innovations and strategic initiatives. Broadly speaking, our three core functions break down to collection, cleaning and snow removal.
+
+Beginning with collection, New Yorkers set out 24 million pounds of residential trash, recycling and compostable material each day. That is 24 million pounds today, 24 million pounds tomorrow, 24 million pounds the next day, and so on. It is a job that by its nature can never be completed. At the end of our third shift of the day, the next day's materials are already waiting at the curb. We run a massive house-to-house operation, traversing every part of the city each day to get this waste off the sidewalks. While collection operations have been at the core of our work for over 140 years, there have been remarkable innovations in just the last few years. We bring trash to a network of transfer stations and processing facilities where increasing shares are put to beneficial reuse in the form of recycling, composting and anaerobic digestion. The export of waste out of the city accounts for roughly one quarter of the department's budget and this is a fixed cost that is extremely difficult to adjust.
+
+We are making long-term changes though by reducing the amount of waste that cannot be reclaimed, most notably with our citywide curbside composting program, the largest and easiest composting program in the country. This was long derided by both inside and outside the department as impossible. We got it done by making it simple. No signups, no opt-ins, no special rules or bin restrictions. This universalist approach has worked, with record-setting tonnage diverted from landfill multiple times last year. While outreach and education around this program will continue for years to come, it is now formally normalized in keeping with local law 89 of 2023, and failure to properly separate this material from trash can result in a fine, just like with traditional recycling. We have knocked on close to 800,000 doors to increase awareness about the program and we are giving more of the finished compost back to New Yorkers than ever before, with millions of pounds provided free to the public and compost give-back events set to start in early April, much earlier than in past years.
+
+There is one gap remaining in this program and that is a universal requirement for commercial organic separation. DSNY does not collect waste from businesses, but we do regulate this industry. The expansion of commercial waste zone reform, which I will speak about in more detail later, incentivizes businesses to compost by saving them money. But very few businesses are actually required to compost, unlike all residences. Local law 146 of 2013, which regulates compostable material from businesses, is badly out of alignment with the goals of the administration or this Council. We strongly urge you to set a single standard for both residential and commercial diversion by updating this law.
+
+The other core collection innovation of recent years is of course containerization. For 50 years, New York was the only major city in the developed world where trash was not just allowed to be placed directly on the sidewalk — it was in fact required to be placed there. Visitors would come here from all over the world to gawk at our piles of trash. New Yorkers were asked to defend this disgusting and outdated practice. In October 2022, we began incentivizing containerization through new rules around waste setout times, pairing this with major changes to DSNY operations and picking up more of the trash far earlier. In the spring of 2024, container rules went into effect for all businesses of every type in New York City, requiring them to get their trash off the streets and into a secure bin. We wrote 70,000 warnings to businesses as this rule went into effect and we have written over 100,000 summonses since, gaining broad compliance and bringing bins to restaurants, delis, bodegas, drugstores, boutiques and everywhere else on our commercial corridors.
+
+The first containerization requirement for residential buildings in more than 50 years went into effect on November 12th, 2024, requiring all buildings with one to nine residential units to use these bins. This can either be their own or the official New York City bin, which is the cheapest high-quality bin available. Starting in June 2026, the New York City bin will be the only bin that one-to-nine unit properties are permitted to use for trash, to facilitate safer, cleaner, mechanized collection. This program was designed thoughtfully so that these bins would be by far the cheapest of their quality on the market, around $50 — a reasonable responsibility for most New York City property owners. New Yorkers have purchased around 1 million of these bins at www.bins.nyc or at New York City Home Depot locations. Still, in order to meet the needs of certain property owners, DSNY in partnership with the City Council created a bin reimbursement program for owners of one and two family homes who qualify for the state STAR tax exemption. To date, approximately $9.1 million has been spent on these reimbursements.
+
+The bins have fundamentally altered the look and feel of our streets, replacing piles of black trash bags that attracted rats, impeded pedestrians and generally made New Yorkers feel that no one cared about their neighborhoods. These bins may look like simple pieces of plastic, but they have led to 15 straight months of declining rat sighting ratings citywide. About 10 months ago, we took a giant leap forward in waste collection strategies with the start of the Empire bin stationary on-street container program in Manhattan Community District 9, serviced by new automated sideloading trucks. This is the first European-style on-street container program in North America, taking those huge piles of trash bags that are generated by the largest buildings off the streets and instead storing them in secure containers. West Harlem is home to approximately 1,100 Empire bins covering more than 80% of their apartment units. Unlike in other parts of the world, the bins are not shared by the entire block. Bins are assigned to a single large building, using our density — which had long been thought of as the Achilles heel of containerization — to our advantage by allowing for greater oversight. Property owners and residents have responded extremely well to this program and the second district has already been announced, with planning underway to have Brooklyn Community Board District 2 fully containerized later this year.
+
+Funding to continue this program appeared in last year's November plan and we are currently working to estimate cost and timelines for a citywide expansion plan. Collection may seem like a solved problem, particularly considering how much of it happens outside of public view, but it is something we are refining and reinventing each day.
+
+Turning to our second core function, cleaning public spaces, we are also continuously expanding our approach. When I began my career, no one was sure which agency was responsible for cleaning medians, step streets, underpasses and other areas of public property in a sustained and ongoing way — a result of a Koch-era interagency memo that had long created confusion about agency roles around cleaning. As a result, DSNY was not then resourced to clean these areas. That began to change a few years ago with the formal recognition of DSNY as the only agency with a dedicated competency around cleaning, and program design and funding to match that skill set. Since the creation of the first ever DSNY highway unit in 2023, we have added specialized highway cleaning equipment and implemented important highway safety trainings. We now clean every single highway — the areas that visitors to our city often see first — on a regular basis. Another new unit, our targeted neighborhood task force, provides regular cleaning to over 1,700 areas that had been left out of prior plans. There are most certainly several in every one of your districts, areas where your constituents are finally seeing results, from Snake Road to West 230th Street steps to the Conduit Boulevard. We additionally took management of the city's graffiti removal program, increasing the number of 311 service requests closed by 80%.
+
+We are also using new technology and tactics to streamline public space cleaning. While this has always been a data-driven agency, for decades cleaning condition logs were maintained manually and locally. We have removed barriers between districts and created one single digital log used across the agency. This allows for far greater pre-planning around chronic conditions and the valuable data produces an ongoing analysis that means more areas of your district are serviced in an even more timely manner. We have heard concerns from members of this Council on two major cleanliness issues: median cleaning and of course dog waste. Pedestrian malls or medians that are not properly weeded and maintained can attract and catch litter. To address this, we are working with a new mall spraying contract to ensure in a cost-effective way that the grass in these areas does not become overgrown. We expect to spray across the city this spring to avoid summer overgrowth and will notify your offices and community boards as we do so.
+
+Before I discuss our dog waste strategy, let me be clear about the issue here. Dog owners know that they have a legal responsibility to pick up dog waste regardless of the weather conditions on the ground. It is irresponsible and just gross to leave this behind anywhere, whether it is a sidewalk, a patch of grass or a snow pile. At the same time, all property owners are legally required to keep their sidewalks clean, as well as 18 inches into the roadway, and this would include removing dog waste from their sidewalks. All 311 complaints related to dog waste are investigated daily and we do issue summonses to property owners for dirty sidewalks and surrounding areas — 8,999 this calendar year alone, although that was for any kind of dirty sidewalk area, not just dog waste. Summonses for dog owners are much more difficult to issue because our enforcement officer would have to catch the owner in the act of leaving a pile behind. We have done many special patrols in areas with high rates of 311 service requests for dog waste and they have yielded almost zero summonses. In 2024, we did a three-day stakeout in Mott Haven that yielded just one summons. Then in 2025, we did special week-long patrols in Washington Heights, Harlem, Morningside Heights and Flatbush, all in response to 311 service requests, and none of them yielded any summonses. The chances of someone not picking up after their dog while an enforcement officer is watching is very, very slim.
+
+So slim that we issued just two summonses for failure to remove K9 waste in 2025. It is clear that people only leave piles behind when they know no one is watching.
+
+We have also done and continue to do several ad campaigns and educational outreach on the issue of dog waste. But really, every dog owner knows what they are supposed to do in consideration of their neighbors. They should do the right thing and pick up after their dogs. That said, we are working with members of this Council to add dog waste bag dispensers to some of our litter baskets. This dispenser pilot is now underway, with dispensers affixed to our new better bin corner litter baskets. Unlike the old green wire baskets which force New Yorkers to look at trash all day and leak garbage onto our corners, the new baskets have no holes for the first eight inches and much smaller openings throughout. They are harder to misuse, take longer to fill up and are far easier for our sanitation workers to service. This is in addition to the modular design that means only the least expensive part ever needs to be replaced. We appreciate our Council partners who have purchased better bins over the past two fiscal years with discretionary funds. We are excited to work with your offices in the next year to keep better bins rolling out and we are proud today to be servicing baskets at the highest level ever. Whereas for decades litter basket service was the subject of political negotiations, the highest level is now baseline. Yet another innovation in cleaning.
+
+Last among our three core functions is something that all new Council members have already learned a great deal about: snow removal. We train year-round for snow and as discussed at last month's snow oversight hearing, this was a challenging winter with the most snow in a decade and a top-10 blizzard. But it was also a winter that has bred innovation at the department. Heading into next year, we will continue to look to improve, including by expanding our fleet of brine flushing trucks, by refining the brand new geocoding of pedestrian infrastructure and by formalizing successful pilot expansions of the emergency snow shoveler program. Given that we spoke about snow at great length at a recent oversight hearing, I will leave this topic there for now except as it relates to budget.
+
+The city's snow budget is unusual among municipal budget lines in that the formula for determining it is set by the City Charter outside the bounds of political negotiations. That formula calls for budgeting an average of the actual amount spent on snow removal over the last five years. Given the low snow totals over the last several seasons, the budget has generally been in the $80 to $100 million range for the last several years. This winter required an adjustment of approximately $100 million to reflect spending thus far, made in the January plan.
+
+Earlier I mentioned commercial waste zones. The program began implementing under local law 199 of 2019 to reform the commercial waste hauling system by establishing new safety standards for workers in the commercial carting industry, improving services for businesses, increasing diversion rates and reducing vehicle miles traveled as well as harmful emissions from waste hauling vehicles. When fully implemented, we are looking at about 12 million fewer miles traveled by commercial carting vehicles. Making good on the promise from when this program was created, businesses will pay less for the collection of recyclables and compostable material than they do for trash, at a citywide average of 32% less for recycling and 18% less for compostable material. That means businesses will have a meaningful financial incentive to separate their waste properly. This program is a major change for every one of the city's 200,000 businesses and we are committed to rolling it out thoughtfully with detailed and culturally competent outreach. The program is now fully operational in five of the city's 20 zones and we will complete full citywide implementation by the end of 2027. Staffing for the DSNY Bureau of Commercial Waste will continue to expand to meet the needs of this program over the next 20 months.
+
+The expansion of DSNY regulatory and enforcement authority is not restricted to commercial waste zones. Since April 2023, Sanitation has been the lead agency on enforcement of the city's laws around street vending. Our sanitation police officers enforce these laws where they focus on cleanliness and pedestrian access and they conduct routine enforcement operations rooted in the belief that all New Yorkers across every neighborhood in every borough deserve clean, safe sidewalks.
+
+I have mentioned different forms of camera technology multiple times today. One of the most successful recent deployments of camera technology by the Department of Sanitation is our illegal dumping program. With a network of 334 cameras citywide, set in places that illegal dumpers considered out of the way, we are now busting people for this crime hundreds of times every year, impounding their vehicles and issuing summonses that start at $4,000. New Yorkers can even send a video to illegaldumpingtips@dsny.nyc.gov and potentially get paid. We have issued about a dozen summonses to people brought to our attention via this tip line in the last year. We also continue to seek authority up in Albany to operate cameras on our mechanical brooms to encourage compliance with alternate side parking regulations. We thank the Council for your partnership in passing a home rule message in support.
+
+I know this was a tremendous amount of information. After more than a quarter century at DSNY, I am still amazed at the breadth and depth of our work. We are in every community every day and if the time ever came that we did not show up, people would notice immediately.
+
+[**(00:28:59)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=1739s)
+
+
+
+Okay, I will try this. Can you hear me now? >> Nope. >> The mic is not... Oh, there it goes. Okay. >> Okay. Fortunately, thanks to the work the Council and the administration do to keep this agency running, they will never come. I will now provide a more detailed budgetary update. The preliminary budget includes 2.25 billion in expense funds in fiscal year 2026 and 2.08 billion in fiscal year 2027, reflecting increases of 261 million and 38 million respectively from the budget adopted last June. The fiscal year 2026 budget includes $1.33 billion for personal services to support a total budgeted headcount of 9,625 full-time positions, including 7,957 uniform positions and 1,668 civilian positions and $95.4 million for other than personal services or OTPS. DSNY's fiscal year 2027 preliminary capital budget includes 3.26 billion in capital funding in the 10-year plan, $1.09 billion of which is for garages and facilities, $2.04 billion for equipment, 59.28 million for IT and 770.22 million for solid waste management infrastructure. The capital budget includes funding for several major facility projects, including 488 million in funding for the construction of a new garage for Bronx districts 9, 10 and 11 with demolition. 284 million in funding for the construction of a new garage for Queens District 1, which is slated to begin design later this year. Upgrades to the facility that serves the Bronx District 12 garage, which has an overall budget of 52.5 million and began construction this year.
+
+And the $10 million finishing touches on the 223 million buildout for the brand new home for Staten Island districts 1 and 3, which is slated to be completed this year. That project along with the new BK3 means we will be opening three new districts at two buildings this calendar year. A rare milestone for this department and a sign of this administration's serious investment in the safety and well-being of sanitation workers and the neighborhoods they serve. Thank you for your advocacy of a cleaner, more sustainable New York City. We look forward to taking your questions.
+
+>> Thank you, Commissioner. Before we continue, I just want to recognize my following colleagues that have joined us: CM Pierina Sanchez, CM Vernikov, CM Hanks, CM Brewer, CM Schulman and CM Lee, and walking this way is CM Hankerson.
+
+>> So in the interest of my colleagues' time, the way that I will structure this is we will start with the headcount and overtime questions, then I will turn it over to my colleagues and then we will finish up with remaining questions. Let us get started. The fiscal year 2027 preliminary budget includes 9,910 positions with overtime budgeted at 257.9 million compared to 204.7 million in fiscal year 2025. Given that, what is the department's current filled staffing level compared to these budgeted positions and what is the vacancy rate expressed as a percentage and how does this compare to the past three fiscal years?
+
+>> So DSNY is currently staffed for all uniform positions and we are nearly at the full civilian attrition headcount with a vacancy rate of a little over 3%. This is in line with previous fiscal years.
+
+>> What percentage of DSNY's $1.344 billion personal services budget is allocated to the budgeted overtime versus regular wages and how has this percentage changed over the past five fiscal years, given that actual fiscal year overtime was 204.7 million?
+
+>> Sure. So the 257.9 million represents about 19% of the 1.344 billion personal services budget, which also includes $160 million of snow overtime. That percentage of overtime fluctuates due to the variability of snow and winter weather events. Sometimes we have predicted weather events where we do not get the actual snowfall but we have to prepare for it. So that is a factor in the snow overtime. And then last year, 204.7 million in overtime represented about 16% of the total personal services budget.
+
+What is the average overtime hours performed by a uniformed worker annually and what is the percentage of workers that exceed 200 hours of overtime per year?
+
+So for fiscal year 2025, the average overtime hours per uniformed employee was about 225 hours per person. And then for snow overtime it was an additional 34 to 39 hours per uniform worker annually. We are still working on getting the actual percentage of that 200 but we will definitely get that to you, Chair.
+
+>> Okay. I would also like to recognize that we have been joined by CM Shanel Thomas-Henry. What steps is the department taking to reduce reliance on overtime without compromising essential services such as waste collection, snow removal and street cleaning?
+
+>> Sure. So I have weekly meetings with my deputy commissioner of management and budget, which is Joan Tanelli. We go over the top overtime earners list for uniform and civilian. One of the things that I implemented this recent fiscal year is that every week, uniform unit heads have to go over, within their area of work, the number of budgeted posts, and when they go over they have to verify that they authorized that for whatever reason. For example, sometimes we have blockades — you know, sometimes we work with NYPD to have blockade operations. So that is something that we are not really anticipating from event to event. Sometimes we have transport of vehicles because the nature of our operation requires us to shift equipment around. So those are things that we work with my uniform chiefs on and they have to verify with the bureau commands and make sure that they are not going over. So that is one of the processes that I have implemented in my tenure here.
+
+And have you done a cost-benefit analysis comparing the per-hour cost of overtime versus time and a half versus the fully loaded cost of just bringing on additional full-time staff?
+
+>> Sure. So one of the things with the nature of our operation, which is unique compared to some of the other uniform agencies, is that our staffing is very fluid. So you could be assigned to a district in Queens but you could be going to a district in Brooklyn or Manhattan depending on where the needs are. So that makes it a little bit tough sometimes to compare the full-time post versus overtime. But there are also posts that are just seasonal in nature. As I mentioned, the transporting of vehicles, stadium cleaning — so sometimes when we have events at like the Barclays Center, things like that, we book extra personnel. Yankee Stadium, Citi Field, we book extra personnel to clean the perimeters just to make sure everything is tidied up. So those in nature would not require us to hire full-time positions. As I mentioned, blockades, salt receiving is another one. When we are in snow season, we have to book extra personnel to receive the salt and put it in our salt sheds. And then there are functions that — and obviously we want to thank the Council — when we have Council member-funded cleaning, whether it is litter baskets or mechanical brooms, those are not year-round positions. So those really are ones that we in nature have overtime-budgeted posts that benefit us to continue.
+
+>> And what is your employee turnover rate and how does this compare to other uniform city agencies?
+
+So our uniform staff's 12-month turnover rate is approximately 7%, which is roughly the same from year to year, and our civilian staff members' rolling 12-month turnover rate is about 9%. I cannot really speak to the comparison with the other uniformed agencies right now, Chair.
+
+>> What percentage of new hires remain after one year and after three years?
+
+So right now we do not really have those stats available, but I can tell you it is very low. Especially after three years, we are looking at that, but we really do not have a challenge with retention as far as uniform ranks go.
+
+>> Does the department track or monitor excessive overtime usage by employees? And have there been a percentage of workers that have been flagged as potential overtime abuse?
+
+So as I mentioned before, I go over with my deputy commissioner of management and budget the top overtime earners list. That is the initial round of review. After that, if somebody is at a higher percentage than what I notice compared to the rest of the bureau, the deputy commissioner of that bureau has to then respond as to why it is going so high. And I have rectified a few of them. A lot of it is nothing obviously illegal. It is more of just responding to emergencies for building maintenance trade titles when we see something like that. Sometimes it is IT titles where we have patching that we have to have people on standby for and we cannot do it during the week. So things like that. And then anything that is flagged, we immediately work with our internal investigation team who always communicates with DOI on anything major. But I have not had anything particular as far as specific flags.
+
+And so going deeper into the previous mayor's directive on overtime, is there an understanding of what percentage reduction in overtime spending the department achieved since the previous mayoral directive was implemented and how does this compare to the targeted reduction?
+
+So one of the things that we had recently been doing, and I think that is going to continue, is we were meeting with the budget director and the first deputy mayor and going over our overtime targets. Everything was justified in terms of why we went over. Sometimes it was holiday weeks — for example, the fourth of July of this current fiscal year fell on a Friday. Normally on a Monday holiday, we have enough days following the holiday where we can catch up so to speak. When we go into a Friday holiday, we have very limited time. So we intentionally went ahead of time and staffed workers to work on Sunday to catch up with the recyclables of the holiday. So things like that were all justified and we went over it with the budget director.
+
+>> Awesome. I would like to recognize my colleague CM... for joining us.
+
+>> What specific remediation plans has the department submitted to OMB to address any instances of excessive overtime expenditures?
+
+>> I will pass it on to the deputy commissioner of management and budget.
+
+>> So I know the commissioner mentioned that there were monthly meetings with the budget director and the first deputy mayor under the prior administration. We also continue to have staff-level meetings with the Office of Management and Budget conducted by myself and my team and we actually go over in detail and provide daily overtime information. So while there is no specific remediation plan, we certainly talk about the day-to-day challenges and justify all of it and we have really had no issues on that front.
+
+Could you speak to by what percentage the department has reduced its overtime budget allocations from fiscal year 2025 to the fiscal year 2027 plan level?
+
+>> Well, we obviously always plan to reduce overtime and limit our overtime as much as possible. It is just the day-to-day things that come up that have really created that challenge. So while we do have that planned level of 185 million, I think in blue skies, if we do not have snow and things go well, that can be an achievable number. But I think just the realities of the field conditions that we have make it very difficult, although we do continue to monitor it daily.
+
+>> And just for clarity, can you define and categorize what the emergency overtime versus non-emergency overtime is?
+
+>> Sure. The main emergency overtime is always snow. When we are in snow operations, we categorize our overtime as snow overtime. When we are not in snow operations, it is just categorized as regular overtime.
+
+>> Thank you so much. I am going to pass it over to CM Lee for some questions on finance.
+
+>> Hi, good morning. So going into the chief savings officer initiatives, has DSNY designated a chief savings officer or equivalent position as proposed by Mayor Mamdani to identify efficiencies and cost savings opportunities? And what percentage of this position's time is dedicated solely to savings initiatives versus other administrative duties?
+
+>> Good morning, Chair. Thank you for the question. So yes, I have identified a chief savings officer, which is Deputy Commissioner Joan Tanelli, our management and budget deputy commissioner. As far as percentage, do you want to talk about that?
+
+>> Yeah, I mean I do not know that I could necessarily put a percentage on it, but it has been a heavy part of what we have been working on as we work towards the March 20th deadline.
+
+And how much authority do you have to implement cost reduction measures without going to OMB or external entities, or does that have to go through?
+
+>> It has to work its way through the process.
+
+>> Okay. And what specific cost-saving targets or benchmarks have been established for FY27 and what percentage reduction — I know you are still working on it, but if at all, what percentage reduction in operating expenses or improvement in operational efficiency do these targets represent? And what mechanisms are in place to track progress towards these goals on a quarterly basis with transparent reporting to the Council?
+
+>> So the targets that were set were 1.5% for this year and 2.5% for next year, which was the standard target given to agencies.
+
+>> And in terms of benchmarks, again, it really depends on where we land on what initiatives we work out, but we will certainly have monitoring tools in place for whatever gets decided.
+
+And as you just mentioned, I know that it is tough because when there is a lot of snow, overtime and other costs tend to add up more so for sanitation, I would say, than any other department. So we thank you for all the work you are doing.
+
+And just how does DSNY ensure that cost savings measures pursued do not compromise service quality? Because obviously we want to make sure it does not compromise on that, public safety or regulatory compliance. And what percentage of proposed savings initiatives have been rejected due to potential negative impacts on operations? Because that is something we would want to know — what cannot be done because it sacrifices too much on services. And what oversight mechanisms exist to evaluate whether implemented savings have unintended consequences on agency performance or public service delivery?
+
+So I think a lot of that we will not really know until we work our way through the process and have the actual initiatives that the administration would like to pursue.
+
+>> Okay, great. We look forward to the reports. And then two more questions: one is around abandoned vehicle removal and the other is one of our favorites, which is illegal dumping enforcement.
+
+So for the abandoned vehicle removal, the PMMR shows abandoned vehicle removals increased 35% from 7,337 in the first four months of FY25 to 9,884 in FY26. With nearly 10,000 abandoned vehicles removed from City streets over the reporting period, what is the cost per vehicle removed and what is the total annual budget for this program and how does this compare to the cost of vehicles remaining on the streets?
+
+So as far as abandoned vehicles removed, right now we just entered into a contract with four additional vendors. And we have had discussions with those vendors and we are sending out letters to any lien holders or property owners when it comes to derelict vehicles. The initial fee is about $150 for the initial tow. And then there is about a $25 storage fee for the first few days and then that escalates a bit after a few more days. That will only be imposed if the owner actually comes to reclaim the vehicle. Otherwise the vehicle is then discarded and crushed by the derelict vehicle vendor.
+
+Do you have a number in the budget?
+
+Oh, I am sorry. We will have to get back to you on the budget number.
+
+>> And just out of curiosity, was that just through a normal RFP process?
+
+>> Correct. Yes, normal RFP process.
+
+>> Okay. The PMMR also shows revenue from abandoned vehicles is budgeted conservatively at $100,000 annually despite actual collections of 61.3 million in FY24 and 57.9 million in FY25. So why is there such a large discrepancy between the budgeted and actual revenue and what accounts for the vehicle auction salvage value volatility?
+
+>> So I think there may have just been a discrepancy in the numbers. The first number that you cited is actually $57,913, not...
+
+>> 57.9. Okay.
+
+>> Yeah. And the second one was $61,256. So they are within the budgeted ranges.
+
+>> Of 100,000. Okay. Thank you for that clarification. Considering the large increase in vehicle removals, do you think — and this may be based on the other numbers — the budget can support continued removals and enforcement? And are there additional vehicles that could be removed if more resources were budgeted?
+
+>> So I can just take that. There are two types of vehicles. There is the derelict vehicle, which has to meet certain criteria. Essentially the vehicle has to be valued at less than $2,250. We have a criteria and a policy that we follow, that our field supervisors follow. And then there is the rotation tow program which NYPD handles, which is basically anything above $2,250 or anything with vehicle plates.
+
+>> Wait, the car — sorry, just to clarify — so the car is valued at $2,250 or...
+
+>> Less than $2,250, right? The main criteria is it cannot have any plates.
+
+>> If it has plates then it is not deemed derelict. So it cannot have plates and then there is certain criteria like if the vehicle is burnt out, has severe damage, the type of vehicle. So there are different criteria in order for us to deem it as derelict. If it is deemed derelict, then we work with our vendors that I mentioned before and they bring it to their facility and we send out a letter to the lien holder or property owner if available. If it is a rotation tow, NYPD will take that vehicle and they have vendors. We do monthly tag and tow operations with NYPD because a lot of times what happens is we will have an area where we get complaints and there are derelict vehicles and then there are non-derelict vehicles. So in order for us to be more efficient and not just take some vehicles and not the others, we work closely with NYPD, who has been a great partner — either the local precinct or we have the vehicle recovery team — that works with us on trying to remove some of these vehicles.
+
+>> Great. And I trust there is a way you have to figure out what is derelict because — I am just saying — I had my '93 Camry which I drove till it had 265,000 miles on it. So it may not look great from the outside but the engine may still be good. But okay, moving on really quickly to illegal dumping enforcement. The PMMR shows illegal dumping enforcement improvements, which is great: 15% more summons issued from 246 to 283 and 80% more vehicles impounded from 101 to 182, nearly 50% of the 417 total impounded in all of FY25. What is the total number of illegal dumping cameras deployed? I think it was 337 as of FY25, correct? And what is the conviction and fine collection rate for violations caught on camera?
+
+>> So we really do not have those numbers as far as the conviction rate. That is processed through the Office of Administrative Trials and Hearings, OATH. But I can say, as far as illegal dumping cameras, first I want to thank the Council for their partnership because a lot of these are put up with funding from Council member discretionary funds. One of the things that we actually did in my current tenure is we were getting a lot of cameras that had no hits, meaning that we were not getting any impounds or summonses. We had a few Council members where we worked together because it does cost some money to move the cameras. So we moved the cameras and we saw a substantial increase, as you mentioned. But as far as calendar year goes...
+
+[**(00:51:20)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=3080s)
+
+
+
+From calendar year 24 to calendar year 25, there was a 62% increase in impounds. And then summonses, we had a 49% increase in summonses. So I think that is something that we are exploring. We are working with a vendor right now. It is a little premature, but I am finding it that hopefully it will be successful where we have mobile cameras and we can maybe deploy them in areas. Once we get more details on that, we have to test it first. Obviously I think it would be a great tool in our arsenal to stop some of this illegal dumping.
+
+And what is the average fine amount for illegal dumping violations and what percentage of fines are actually collected? And how do you track repeat offenders and what enhanced penalties exist for habitual violators? And just out of curiosity, on a personal note, how has technology or lack of technology helped or hurt that endeavor? So as far as technology, do you mean technology as far as identifying the vehicles, or right, the cameras and how you are tracking it?
+
+So the cameras have an LPR license plate reader which has been very helpful in helping us identify if there is a vehicle involved, because that is the only way we consider something illegal dumping — if material is thrown out from a vehicle. And as far as the fines, it is about a $4,000 fine if we catch somebody and impound their vehicle, plus the impound fee and the cleanup fee.
+
+Okay. And what is the annual revenue generated from illegal dumping fines and vehicle impoundment fees? And how does this compare to the cost of operating the actual illegal dumping enforcement program?
+
+Big binder. Try to find it here.
+
+Oh, he is looking for it now, but maybe we just get back to you rather than...
+
+No, that is fine. And this is definitely an issue we have seen all across areas of eastern Queens, Southeast Queens in my district as well. So we appreciate all your efforts on this. Thank you and thank you, Chair.
+
+Thank you very much.
+
+Thank you. Now I would like to pass it over to CM Carr.
+
+Thank you, Chair, Commissioner. Always a pleasure to see you. I want to thank you for your responsiveness to me personally during the latest storm and the removal operations. I appreciate that from you and your team. But I do want to review a little bit of the situation from that period, particularly as it relates to the coming budget.
+
+Our delegation, along with the chair of this committee, sent a letter over with some questions in advance of this hearing and I want to focus in on a couple of them in particular. How the department determines its allocation of resources — there has been a lot of discussion of this over the years. Lane miles, is it land area, is it population, what should it be? And to what extent does that permit you to have flexibility to respond to real-time conditions? So that is my first question: what is the formula for general resource deployment? And then what, if any, ability does that leave you to rearrange that in advance of a coming storm, particularly when forecasts indicate certain parts of the city will be impacted harder than others? And how did that play out with that recent storm from last month?
+
+Sure. So as far as snow operations go, our main focus obviously is going to be spreading salt and plowing operations. It is all determined by, as you mentioned, mileage and lane miles, and that is all allocated. We try to have — it is a general rule of thumb depending on the type — for plows, it is like 8 to 12 miles per sector. But we always look for efficiencies after every snow season to see what worked and what did not. As far as salt spreading operations, it is a little higher, probably like 18 to 20 miles. That is because we have fewer salt spreaders than plows. So that is all how we break down the plow plans and the spreader plans.
+
+As far as the storm, like the one we had last month, one of the things that I did — and I am glad I did it — is we have a requirements contract, which is a few vendors that we have every year, that has the ability to give us extra resources such as skid steers, front end loaders, dump trucks and tow trucks. The tow truck contracts we always activate generally just because if we get anybody impeding us on the roadway we just move the vehicles over and get the plows in. So that was one contract that is really easy to essentially just call because you are always going to be able to use them.
+
+The one thing that I think allowed me to have extra resources available was the emergency contracts. If you recall, the Governor declared a state of emergency the Saturday before the storm. I then took the opportunity — and obviously got approval from the deputy mayor of operations — to start initiating approval for emergency contracts. The emergency contracts allow me to expand further as far as number of resources. We actually did call in extra contractors. We had over 500 pieces on average between the requirements contract and the emergency contract, and those were the resources that we immediately deployed once we started seeing some of the issues in Staten Island, as we all know.
+
+So I think that is a good segue to my next point, because Staten Island, I think, gets the short end of the stick on the lane miles equation. It does not take into account the difficulty of the topography and the fact that we are not on a grid system the way much of the rest of the city is. And so I think what we saw in that recent storm was that the longer it took to get to us, the more difficult the job was at the back end. And so I think that raises the point about the equipment that you are alluding to, which is that you have to rely on these contracting situations, these opportunities. Is there not a chance now that we have been through this recent storm to do some acquisition on behalf of the department so that you are less reliant on those emergency contractors?
+
+Sure. And those are one of the conversations that we have had internally with my deputy mayor and OMB on that. After the storm we did an after-action review, and we are going to have to do an after-snow-season after-action review just because every snow season obviously brings challenges and things that we want to improve on. One of the things that we are internally talking about is those areas that you are mentioning — some of the hill blocks and things that we know that if we get that amount of snow we will continue to have challenges. We are talking about maybe doubling up some sectors, using equipment like front end loaders on the onset. So I think we want to be a little bit more agile. We have the equipment right now. I think just looking at the terrain, the narrow streets, things like that — obviously one of the biggest factors when it comes to snow operations is the nature of the equipment that is out there and the conditions. Salt obviously corrodes everything. So taking that into account, we are looking at that closely and that is one of the things we are definitely making adjustments for, not only in Staten Island but in other areas. There are always areas across the city where we could improve service time and that is definitely one of the things we are looking at this year.
+
+And Chair, if I could just ask one quick question just to round out...
+
+Sure.
+
+Thank you. I appreciate that. I look forward to working with you in aid of that goal. And then last, unrelated: I understand the department has been undertaking an internal investigation with respect to the organics composting facility and the smell effects that it is having on nearby neighborhoods, in particular the town of Travis. Can you let me know when you expect that to conclude and is that considering things like capital improvements to the site that could potentially mitigate that nuisance?
+
+Sure, absolutely. That is one thing we are working closely with DEC on. We have been engaged with DEC in the last year or so on that, and one of the things we are working on is some capital improvement upgrades on that. Do you want to speak about what we have in the budget for the Staten Island compost facility?
+
+We have not finalized. Okay. But we are working on finalizing the number for upgrading the facility. Because of the compost facility — it used to be just yard waste, and now with the program we are accepting collection of food waste and yard waste...
+
+And it is growing.
+
+It is growing. Correct.
+
+Thank you, Commissioner. Thank you, Chair.
+
+Thank you.
+
+Thank you, CM Carr. I think this is a good time to talk about some budget transparency, specifically the pooled versus the borough allocations. The department's budget structure consolidates most of its operational funding into citywide program areas rather than borough-specific allocations. This makes it difficult for the Council to assess whether resources are being distributed equitably across neighborhoods. It is Monday. I cannot speak. I do not know what is going on. I need more coffee.
+
+What percentage of the department's fiscal year 27 operating budget is allocated to specific borough operations versus pooled into citywide and general program areas?
+
+So the pool versus borough allocation — I think for DSNY, the reason it is structured that way actually plays a benefit. I will give you an example: the targeted neighborhood task force operation. There are about 38 sanitation workers that we assign daily and there are 1,700 locations citywide that we have to clean. If we are structuring those heads for each district specifically and we do not move them, some areas do not need cleaning every month. Some of them need cleaning every two months depending on the weather — the cold weather, people apparently do not like to dump, which is helpful for us. But in those cases we would move them around more fluidly and I think that is a benefit for us to continue to have that structure.
+
+The other thing that I am very excited about — and I mentioned it in my testimony but I want to go into it a little bit more — is that we have shifted our operation as far as identifying cleanliness issues across the city by leveraging our internal field data collection application that the supervisors all have on their phones. The superintendents and the chiefs at the boroughs have it on their desktops, and our analytics team has done a great job of creating dashboards on these entries and seeing where these conditions are. Relying on 311 data — I think everybody would agree it is not the best way of identifying cleanliness issues, because somebody in a neighborhood may not complain a lot and that does not mean the neighborhood does not need resources. So I think this shift of having that approach plus having 311 data in there is going to play benefits for us to be able to allocate resources more efficiently. But I think having that flexibility of having the resources across the city and not just designated to one district is beneficial for all neighborhoods.
+
+Beyond that system that you just mentioned, does the department find other ways to internally track or allocate pooled resources to borough-specific operations? Are there any accounting systems that are used to ensure equitable distribution?
+
+Sure. So there are a few things. We have the collections, which we call productivity targets. On a year-round basis every year we make adjustments to that program, and then each district is allocated a certain amount of truck shifts depending on the day of the week. That is all driven by tonnage and productivity. And then we have the cleanliness resources that I mentioned: TNT, PCI and litter baskets. A lot of those are adjusted depending on if we are seeing any issues across the city. We have an internal application called SMART. In there we have what we call utilization. The utilization snapshot — and again this is another thing that I have done with my uniform chiefs — is where we go over a weekly snapshot of utilization and see whether the resources are adequate. Our chief of cleaning looks at things all the time and he always asks for additional resources in certain areas where we are seeing issues, and then those adjustments are made. So we have a really good tool that tracks all these resources and we make adjustments weekly or even daily sometimes when we know something is coming up ahead of us.
+
+With these systems, how does the current structure allow or impact the Council's ability to hold the department accountable for borough-level performance and spending, and the ability to identify disparities in service levels across neighborhoods or advocate for increased resources in underserved areas?
+
+Sure. So I think there are a few areas there. We have some external reporting. We have a report that we submit to the Council on litter basket service. That is one way that the Council can obviously give input on where they are seeing gaps. The MMR, the PMMR and other areas — that is not at a district level, but obviously when we are seeing those kinds of issues we are happy to work with anybody in the Council if they are seeing any issues. 311 data is another one where we can see if there are any issues. We have seen a decline year-over-year in over-the-phone litter basket complaints, which is great because those are one of the metrics that we want to make sure we continually either keep flat or decline. A decline in litter basket complaints is one of the things that we are finding to be successful across most of the Council districts.
+
+Could you give us an understanding of which boroughs have the highest rates of missed collections per thousand residents, street cleanliness complaints per capita, litter basket overflow complaints and average response time to 311 service requests?
+
+So as far as the highest rate per capita of dirty conditions, which is at eight per 10,000 residents, Manhattan had the highest amount for fiscal year 25. And then as far as street sweeping complaints — which is the highest but I think it is actually not that bad — Brooklyn had the highest per capita rate of street sweeping complaints with two per 10,000 residents. And then dirty conditions: the average time to resolve was one day, and then dirty conditions had an average time of three days to resolve in fiscal year 25. But these are one of the things that we look at internally — the SLA times — and we always want to stay above 90 to 95%. We want to respond to residents' complaints as timely as possible. So those are some of the things that we track as far as resolving these issues.
+
+Does the department also track cost per resident or cost per ton metrics by borough? And if you do, do the metrics reveal anything about resource allocation equity?
+
+No, right now we do not track those two metrics. Our resources are basically allocated on more of just the productivity program. As I mentioned, we have an agreement with the sanitation workers union which ensures that we have enough productivity, and then we make those adjustments on targets and truck shifts every fiscal year with them.
+
+What is the ratio of uniform sanitation workers per thousand residents by borough? Are there any significant disparities that correlate with service quality metrics?
+
+So our current headcount — we are budgeted as far as uniform personnel for 7,960 uniform sanitation workers, supervisors, superintendents and chiefs. I think our budgeted number for sanitation workers is a little under 7,000...
+
+Right?
+
+No, sanitation workers...
+
+Sanitation workers is a little...
+
+Yeah, it is a little under 7,000. One of the things we do is what is called a staffing parity analysis every year. What we do is we take what we call post quotas. The post quotas have what we should have for collection operations, and then after that we take actuals of everything that we had throughout the year. So the litter basket quotas, TNT, PCI, and then we go into any things that are not targeted per se — as I mentioned before, things like transport blockades — and then we roll those all up into a really in-depth analysis, and then we have what we think the headcount should be per district.
+
+The one thing I just want to point out is that our staffing structure is very fluid. Just because a district has, let us say, 100 sanitation workers assigned to them does not mean that those 100 sanitation workers are only going to work in that district. They have the ability to be sent out of their area — we call it "sent out of town." So you can go from one district to another. They can also work night shifts. So there is a lot of fluidity in that sense which makes it easier for us. We are not boxed into a number in each district.
+
+Building on that, what specific mechanisms exist within the department's budget and operational planning to address service equity concerns raised by Council members, especially if they represent underserved districts?
+
+Sure. We have a few external-facing tools that allow the public to see DSNY's activity in progress. Everybody is familiar with PlowNYC, which was heavily used this snow season. That is one. SweepNYC is another external application tool that the public can use to see if their street was swept at the time it was supposed to be. That is a very effective tool. You have the PMMR and the MMR, and then you have open data, which we have a lot of data sets in that the public or anybody can look at to see what is on there.
+
+As far as regular reporting, we have the report on street cleanliness which is submitted twice a year. Litter basket service is submitted twice a year. We have our borough-based snow plans, which we have one draft and then one final report per year. And then we have various reports related to fleet. So those are some of the things that the public and the Council can use to identify any gaps or any issues as far as DSNY resources go.
+
+Given that there is already so much data available, would the department be open to alternative reporting mechanisms that could help improve transparency? For example: quarterly reports on service metrics and resource deployment by borough, public dashboards showing real-time allocation of trucks, workers and equipment by district, or annual reporting on cost per ton collected and cost per resident served by the boroughs.
+
+Sure. My goal is always to be as transparent as possible. I think the administration is as well. Obviously there is a resource constraint there — making sure that we have the adequate resources to make sure that something is possible. But I think the more that we can be transparent and explain why things are done a certain way with our agency, I think that can only help us and has helped us in certain regards. So I am always open to having additional reporting mechanisms. As you mentioned, Chair, obviously something that will be productive — and I am sure we can work together on finding what those areas are and where you are seeing it and seeing what would be of beneficial use.
+
+I appreciate that. And just to put a little bow on this section: if a borough is constantly underperforming on key metrics like cleanliness scores, collection reliability or response times, how does the department's pooled budget structure facilitate or hinder the ability to direct additional resources to improve performance?
+
+So I think that does help us. We have weekly meetings. The chief of department, who is with me today, has weekly meetings with the borough commands. Each of the seven zones — each borough command comes down...
+
+[**(01:13:24)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=4404s)
+
+
+
+with the district superintendent and they go over stats. We go over 311 stats, we go over those 311 stats from litter baskets, 311 conditions, enforcement stats, things like that, productivity measures. And then the chief of department goes over each borough and looks at where these issues are, why there are chronic complaints, and what is being done to fix them with the existing resources. Sometimes we find that maybe additional resources may be necessary. Obviously we want to try to keep things internal with each borough, and that is where I think the pooled operations approach is definitely effective for us. So if we have an area where we need more resources, at least for a certain amount of time, we will try those out and see if that works. Obviously we do not want to impact any other district. We do not want to take from one district, give it to another, and then have issues. So that is one of the things that we do every week. I think it has proven to be very effective. And I think we learn a lot, obviously, because we are not always on the ground. The district superintendents are, and I think them voicing the concerns and challenges they are having helps us identify the resource needs and where we should allocate them.
+
+Thank you. Two quick questions on commercial waste zones before I turn it back over to my colleagues. Really quickly, the admin fees had jumped to 5.9 million in the budgeted FY27. Is this growth due to an expansion of operational zones, fee rate increases, or improved collection rates? So the fee is set at a little over $107,000 per awarded carter. So I think we are projecting to have close to $7 million once all 20 zones are online. Those fees are there to offset the PS cost related to the program and the OTPS cost. So that is essentially just a franchise fee. That was set by a user cost analysis before the zones were implemented, and a lot of things went into account for that. As I mentioned, most of it is personnel, office space, OTPS, things like that, and that is where that money that you are mentioning is going.
+
+Okay. And what is the projected trajectory for the CWZ fee revenue as the program reaches full citywide implementation? So as I mentioned, that $107,000, once we get all 20 zones implemented, it will be close to $7 million annually.
+
+Okay, cool. And now I will turn it over to CM Pierina Sanchez.
+
+Thank you so much, CM Justin Sanchez. Thank you, Chair. Good morning, everyone.
+
+Morning. In December of 2025, Commissioner, as the Council voted to enact sweeping street vending reform, Mayor-elect Mamdani publicly committed to support the critical work of implementing these reforms. The mayor guaranteed that we will process — and this is in quotes — new licenses and staff our enforcement agencies. However, the administration's fiscal 27 preliminary budget includes no new funding for the Office of Street Vending Enforcement within sanitation. As we know, there are just 40 sanitation officers for more than 20,000 complaints per year. So my first question is: with a significant number of new licenses legislated to roll out in this fiscal year, how is the Department of Sanitation complying with Local Law 54 of 2026 and appropriately staffing the Office of Street Vending Enforcement?
+
+Good morning, Council Member. Thank you. So right now our headcount is about 40 positions dedicated to street vending. 35 of those are sanitation police officers. I think we first need to assess what the impact is as the initial onset of increased licenses go out. We are definitely determined to make sure that we are complying with this local law. I know it is 80% of the licenses that we have to inspect on an annual basis. I just think, right now, until we see what that is like, we really will not be able to assess. But I think obviously DSNY is committed to making sure that we are maintaining that goal and inspecting the licenses. So I just think it is a matter of seeing how this is going to play out on the actual street and making sure that we are efficient in making those inspections.
+
+Thank you. Commissioner, would you say that you have enough resources to cover the licenses and illegal activity that we are seeing out there today?
+
+So I think right now we have adequate resources. I think the unforeseen challenge is going to be knowing, once we get these licenses out, what that is going to look like. But I think obviously we are definitely committed — I mean, we do not have a choice, right? Local law is something we have to comply with. So we are committed to reaching that goal of at least 80%. We are working with OMB and the administration to make sure that we are getting the adequate resources as that ramps up.
+
+Thank you, Commissioner. And as I sit here next to my sister from Flushing — Flushing, we are besties — I am going to just continue to push on this point. I do think that you need increased resources to handle what you are seeing on the ground now, just from what we are feeling on the ground in terms of complaints and the agency's capacity to respond. So just foreshadowing that.
+
+And then my second question is that although DSNY is the lead enforcement agency for street vending, vendors often face enforcement actions from NYPD. This can be incredibly confusing for vendors. They might receive a ticket from sanitation in the morning and then another from NYPD a few hours later. Furthermore, the uniforms that DSNY officers wear look very similar today to what is worn by ICE. You can understand, of course, why this can be alarming for street vendors in this environment — more than 90% of whom are immigrants.
+
+So in the interest — here is the question — in the interest of not having redundancies in our budget and being effective with our resources, and as you scale up the Office of Street Vending Enforcement, how will you coordinate with NYPD to streamline enforcement? Is it possible for just DSNY to issue street vending tickets and summonses?
+
+So as far as coordinating, I think we have done a great job coordinating with NYPD. We still have community link where we work with them on any issues and doing operations together. I think as far as us being the only agency, that is something we have to evaluate. Obviously there is a component of counterfeit items, things like that, that we do not enforce. So I think there might be some level of involvement on their end. I cannot speak for NYPD, but I think having them involved is probably, at least for now, still necessary.
+
+As far as our goal, it is never to confuse anybody. Going back to the beginning of when we took over enforcement from DCWP, we always did outreach and education and I still think that is the best approach. I am always happy to work with any of the Council members on seeing if there are areas where we need to do more of that. I think we have come up with literature and things that might help. Once we get that piece through, then I think we can focus on where the enforcement is necessary in your districts.
+
+Thank you, Chair. If I may, just a quick question on body cameras. Thank you, Chair. Did DSNY receive funding in fiscal 26 for body cameras? And if so, can you help us understand if this is being prioritized over additional personnel?
+
+Sure. So we did receive funding for body cameras, and that is for the entire universe of sanitation police officers. We have about 140 total between various units. The funding for that — we received about $492,000 in FY26 and then $200,000 in FY27. And I am sorry, what was the second part of your question, Council Member?
+
+Are the cameras being prioritized over adding personnel?
+
+No. This was, again, going back to transparency. I think this was one of the things that we felt was important because as we are doing enforcement out there, we had previous instances of issues where the public said one thing and our officer said another. Having the body camera, you can clearly see where the issue is. I think that is beneficial for us to be out there now, and then as street vending licenses increase, to have that transparency to make sure that it protects the public and our workforce.
+
+Okay.
+
+Thank you, Commissioner. Thank you, Chair.
+
+Thank you, CM Sanchez. I want to stay on this topic of street vending quickly. What is the estimated additional annual cost to the department for increased litter basket servicing, street cleaning, and enforcement in areas with expanded street vending under the proposed legislation? What percentage of this cost could be offset through vendor fees or fines? And does the department have sufficient equipment and personnel to maintain cleanliness standards in high-density vending zones without impacting service levels in other areas?
+
+Sure. So as far as increased litter basket servicing, the vendors are not supposed to be putting their waste in the litter basket. I think going back to one of the benefits of having more licensed vendors is them being more aware of some of the things they should not be doing. So I think that is going to help us. I think we have, as I mentioned before, the baseline budget now of one of the highest service levels that we have ever had. I think just making any adjustments on overflow and litter basket complaints is where we would do it. But I do not know if it would be specific just to street vending and vendors placing their waste in the litter baskets.
+
+What is the current standard of sanitation violations issued to street vendors per thousand vendors? What percentage of vendors comply with waste disposal requirements, like we were just talking about? And finally, what additional resources would the department need to improve compliance rates if the number of legal vending locations increases significantly?
+
+So as far as violations issued, we really do not have that number per vendor, because sometimes when we go out, some of the vendors are not licensed. Unfortunately, when we have confiscations, it is because the merchandise is abandoned. In calendar year 2025, we issued 7,296 violations. Out of those, 6,573 resulted in confiscations, but out of those, 4,544 were abandoned. So unfortunately, sometimes when we approach some of these locations, if they are illegal, they will just leave the merchandise there and then it becomes abandoned and we confiscate it. So I think once we have the licenses and a better picture, we will probably have a better sense of the per-thousand question you had.
+
+Chair, thank you. So the PMMR shows 2.9 million litter baskets were serviced in the first four months of FY26, down 141,000 from FY25. How many additional litter baskets would need to be deployed in expanding vending zones? What is the projected annual cost for servicing these baskets, expressed as a dollar amount if you have that, and as a percentage increase to the litter basket budget? And what is the anticipated frequency of service — daily, twice daily, or more — required to prevent overflow in high-traffic vending areas?
+
+Sure. So as far as additional baskets placed out for vending, I think our goal is to educate the vendors. One of the things I would like to work on with our agency partners is that initial onset of education once these licenses are expanding later this year — to educate vendors on proper ways of waste disposal. So I think increasing the number of litter baskets for street vendors to dispose of should not be necessary, but there may be cases where if street vendors are attracting more pedestrians, we may have to make adjustments on commercial corridors. That is something we do all the time where we see phone litter basket complaints or just field observations. As far as number of times that we service, every litter basket gets serviced at least once a day. On commercial corridors, they get serviced two times a day.
+
+Thank you. And what is the percentage of 311 complaints related to dirty conditions, overflowing trash, or rodent activity that occurs in current high-density vending areas compared to areas without vending? Has the department conducted an analysis of sanitation impact per vendor in different neighborhoods? And finally, what baseline cleanliness metrics would the department establish to measure the success or failure of expanded vending under the new legislation?
+
+Sure. So as far as stats, we do not have the stats broken down by specific corridors that have vendors. But I can say that in calendar year 2025, as far as overflow and litter basket complaints compared to calendar year 2024, we had a 2.8% decrease in complaints. Street sweeping complaints in calendar year 2025 saw a 13.2% decrease in 311 complaints. As far as illegal dumping or removal requests, we were pretty flat with a 0.5% increase. Abandoned vehicles were down 12%. So they are trending in the right direction.
+
+I think one of the things that I am going to try to leverage, going back to our field data collection app, is maybe including identifiers where if we have a stretch of illegal vendors, that is something we need to analyze better. That would be one of the things we would look to incorporate into that process.
+
+Thank you. I would like now to turn it over to CM Morano.
+
+Thank you, Mr. Chairman, and thank you for your leadership. Commissioner, thank you for your testimony. Thank you as well for being so personally responsive to me during the recent snowstorm and for the work that sanitation workers did in extremely difficult conditions. I know this winter has presented a lot of real challenges.
+
+That said, I do want to focus specifically on the experience in Staten Island and sort of pick up with some of the questions that CM Carr left us, where residents felt that some of the response lagged behind what they expected. The mayor had said publicly that Staten Island's topography was one of the challenges during this storm. But as you know, being a veteran of the department, Staten Island's hills and street layout are not new. Those conditions have existed for decades. So my question is: why would the borough's topography still pose a surprise challenge to the snow response system?
+
+Sure. So Council Member, I do not think it was a surprise. I will back up a little bit. The topography issue is that when we have narrow streets and hilly streets like that, we have equipment that we refer to as holsters — those are like the pickup trucks that have the inserts that dispense salt. We invested this year in increasing that capacity from the two cubic yard holsters to the four cubic yard holsters, so that would require operators to go back and forth to reload every time. I think the reality is the amount of snowfall in some of those streets and the drifts just made it challenging for those pieces of equipment.
+
+I think when we deployed — we deployed 263 hired additional pieces of snow equipment — and when we realized that some of these drifts became very, very high, that is when we had to shift operations. We essentially hauled out of some of these blocks. We had blocks in Silver Lake where we hauled 18 truckloads of snow out of some of these blocks. Obviously, it is not that we were not prepared. I think it is just the nature of some of these blocks. We deployed V-plows, we deployed different kinds of equipment. Depending on where we were, it just required different types of resources. We immediately had those resources in Staten Island as soon as we realized that we had a lot to deal with there. We dedicated, as I mentioned before, 339 of our own personnel and equipment, 263 hired, and then we had snow shufflers, which is 108. So I think all those things put together, it was just one of these unique circumstances. But as I mentioned before to CM Carr, it is one of those things where we are not just going to say it was a unique circumstance. We want to make sure that we make any adjustments possible for any future event in Staten Island.
+
+We did hear from multiple principals and parents that snow piles around school campuses and narrow streets prevented buses from accessing schools even after the storm had passed. Is there currently any formal protocol to prioritize plowing around schools and major school campuses after a major storm?
+
+Sure. We have the critical routes and facility routes that we have dedicated to those areas around schools. That is one of the things that we actually do prioritize when it comes to a snow event on a weekend — we make sure we are ready by Monday to have those areas clear. We have close coordination with DOE. I was in personal touch with the deputy chancellor for facilities, who was constantly updating me on any challenges and issues they had citywide on schools. As far as the operation itself, the NISM has the ELC, which has representatives on site. We have daily calls with them. Any issues we are having with schools are immediately given to our operations team and we immediately address them. We had hundreds and hundreds of issues that we immediately addressed between the January storm and the February storm.
+
+So a lot of residents rely heavily on Plow NYC, which we direct constituents to, and I know the department does as well. We received a lot of complaints that the map showed streets as plowed when they were still clearly impassable. There were even photos and videos of people on the street saying, "This shows our street was just plowed and it was not." Can you explain what triggers a street being marked as plowed in the Plow NYC system? Is it simply GPS passed by a plow, or is there any verification that the street was actually cleared? And given the complaints about inaccuracies, what improvements could be made to the system to make sure that it is more reliable for the public?
+
+Sure. So basically you have thousands and thousands of segments. You may have a street like Highland Boulevard that might have hundreds of segments that are broken up. We use the Department of City Planning — they have segments that they identify. We leverage that data set. It is the citywide street centerline, which is the street network that we use. GPS data, as you mentioned — each truck has a CALM device that sends a GPS ping every 30 seconds. There are a few things and factors that may cause those kinds of issues. One of them being GPS drift. The reality is it is not perfect technology in every place. Some areas — not Staten Island per se, but like lower Manhattan — we have challenges like a canyon effect where the buildings prevent the GPS ping from being very precise. But we work through that regularly with the vendor that has this application. Every year we look to refine this, but it is not a perfect technology.
+
+It is one of the things that I always try to stress: as great as these tools are, and they really are — going back to my time, we did not have anything, we barely had radios when I was a supervisor — it is always about relying on supervisors verifying conditions. I think knowing that a truck traversed the street is just more awareness than anything. But there could be challenges with GPS drift where if a truck is pinging on one segment, it might drift onto another. Those are things that we look for every year. I would be happy to get those locations from you, Council Member, because it is important for us to see why that happened, because that really should not be the case. If it is one of those things, then we have logic that we work with internally to see if we can
+
+[**(01:35:34)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=5734s)
+
+
+
+Maybe we could refine those and see if there is anything else we can do to make sure that does not happen again, or at very least know that we are looking at that segment for the next time, and we are looking closer to make sure that does not produce a false positive. So I am happy to get that information from you and we can evaluate that and assess that further.
+
+Thank you. CM Morano, during the snowstorm, trash collection was at top of mind for many New Yorkers, especially the litter basket servicing. So I just want to ask a few quick questions about that before I turn it over to CM Hanif. What percentage of the department's over $2 billion budget is allocated to litter basket servicing in fiscal year 27, and how does that compare to fiscal year 26?
+
+So our litter basket service is now baselined, as I mentioned, at 29.7 million for FY26 and the out years. So this represents about 1.4% of DSNY's total budget.
+
+What is the estimated per basket annual servicing cost and how does this compare to the cost of managing overflow and illegal dumping complaints?
+
+I think that is one of those things that it would be misleading if it gave you that analysis for a few reasons. There are approximately 23,000 baskets citywide. As I mentioned, you have the 29.7 million dollars that is baselined, which is about 793 truck shifts each week, Monday through Sunday. Those are dedicated to litter basket areas. We have our collection trucks that pick up the household waste. Those trucks are required to service the litter baskets along their routes. So in order for us to be more efficient, what we generally always do is that, let us say you live in an area that gets serviced on a Monday, Wednesday and Friday. Those collection areas, those baskets along those collection areas should all get serviced by our refuse collection trucks. We always then start our litter basket service on the opposite collection, so to speak, so on an off frequency we would call it. So a Tuesday, Thursday, Saturday area — those are where we would start our litter basket services and then move into the Monday, Wednesday, Friday area. The example that I am giving is just to make sure there are no overflowing issues. So that is two things. The third one is the way our productivity program works, without getting too much into detail: we have partial trucks which we internally call half trucks.
+
+Basically that means that part of the day the crew is allocated to work on household collections and then the rest of the day we allocate them to work on manual litter patrol, cleaning up litter baskets, things like that. So a lot of that is meshed in together. To give you a per litter basket number would not be accurate just because of those factors that I mentioned.
+
+Thank you. And what percentage increase in funding would be required to provide twice a day, six day a week litter basket service citywide?
+
+So we believe it will be close to having what we have now. It would likely require a little over $30 million, which is close to the baseline funding we have now.
+
+And what is the current ratio of litter baskets per thousand residents across neighborhoods, and what percentage variance exists between the highest and lowest served areas?
+
+So we really do not record it by residents. It is more just concentrated along commercial corridors. That is where our basket criteria is designed to make sure it is not in areas that do not have a lot of high pedestrian traffic. It is more on commercial corridors.
+
+And what percentage of the estimated population is served by expanded litter basket service?
+
+So we are estimating — again it could be a rough number — but it is about 75% of New Yorkers are serviced. Again, it is primarily focused on commercial corridors, transit hubs and other high foot traffic areas.
+
+Finally, what is the average servicing frequency per basket citywide and what percentage of baskets receive daily service versus less frequent service?
+
+So every basket is serviced at least once a day and then the baskets on commercial corridors are serviced two times a day.
+
+Thank you. And now I am turning it over to CM Hanif.
+
+Thank you, Chair Sanchez. Hi everyone, great to see you. Thank you, Commissioner, for your very detailed, specific answers both here and at our previous hearing. I also just want to give a shout out to Frank Lera, who I have been in touch with in the off business hours of our work trying to get parts of my district cleaned up just today. I am also really happy that my district is a part of the doggy waste dispenser pilot so far. I was the proud prime sponsor of the mandatory composting program and since its passage we really have come a long way from the days that it was deemed absolutely impossible. So a few questions. San Francisco's diversion rate is almost 80% for recycling and composting combined while ours is at 19.2%. What budget investments would DSNY need in order to reach similar diversion over the term?
+
+So I cannot speak to San Francisco's diversion rate. I think it is calculated a little bit differently, but either way, obviously we want to get as close to that number as possible. I think we are heading in the right direction. Last year we had one of the highest amounts of tonnage collected in a single week in the history of DSNY, which was over 6 million pounds, which is pretty impressive. One of the things we did last year with existing resources was shift to make sure that residents were aware that this was a mandatory law. We have sections that are staffed every day by supervisors. There are about 203 sections, we call them sectors, that are staffed by supervisors who are required to go out and do all kinds of things like code compliance, making sure the routes are completed, making sure there are any conditions that... This is for everything. So we leveraged those supervisors and we conducted almost 56,000 outreach attempts to different residents across the city, and out of those we issued almost 41,000 warnings. The warnings looked like a summons but they really were not a summons. Now we are going to see some of the benefits as far as that goes. We resumed issuing violations to all properties. We did not stop issuing violations. We were still able to issue to some of the larger properties. Right now we started issuing again to everything. We have about 500 violations so far for this current calendar year.
+
+500 in total?
+
+Total. Yeah.
+
+And how much funding is going towards all things composting? What is the headcount on the...
+
+So for composting, 33.4 million is the baseline funding for curbside compost.
+
+So it is staying the same.
+
+Staying the same. And what is the budget specifically for outreach and community engagement?
+
+Good afternoon, CM. This is substantially done with in-house resources. We have a full-time outreach staff who have knocked on 800,000 doors specifically related to curbside composting and continue to do that work. However, we do have $2 million in grant funding for an outreach campaign specifically focused on the fact that composting is mandatory. That began today and will run over the next month to six weeks, trying to hit people during planting season.
+
+Got it. Great. We are really grateful to organizations like Big Reuse in my district for being a lifeline to every single household and full family household in understanding how to compost. I was also curious if there are any partnerships with the DOE for composting in schools, but not just composting physically but also learning about composting.
+
+We strongly believe that students are the next generation of composters and we run programs in schools directly in-house but also through Big Reuse, GrowNYC and other community compost partners. A lot of the curricula for these are modeled on 1980s and 1990s seat belt campaigns. That was our proof of concept — kids learned at school to put their seat belts on and they went home and told their parents to do it. The thought process was: teach kids to compost, they go home and remind their parents that composting is the law.
+
+I think that is great. I think that is how it should be done as well. What is the cost per smart composting bin for deployment, maintenance and servicing, and what are the future plans?
+
+Sorry about that, just trying to get that.
+
+Yeah, no worries.
+
+So I am sorry, CM. You wanted to know the cost on...
+
+Basically deploying them, servicing, maintenance.
+
+Got it. So each bin is about $5,500. That includes the actual installation. There is a wrap that is factory installed and then there is a cleaning service that comes with that, which is about 12 cleanings per year per bin.
+
+Got it. And is the idea that the City is going to continue to expand these bins?
+
+So right now we have about 400 composting bins across the City. One of the things that we are starting to evaluate is the usefulness of these bins. We have the ability to see how many unlocks people are using these bins for. When we see underutilized bins, we are going to try to shift them. I am happy to work with you or any members of the Council that feel like there may be a need to relocate them. We have been working with NYCHA on putting some of those near their campuses. Obviously we want to make sure that we are placing them in areas that are going to be most efficient. People are taking advantage of the weekly collections, but if we think that there is a place that would be more useful, I am happy to work with you or any members of the Council to see where it would be appropriate to move them.
+
+Got it. So you are keeping at 400 for now to just better evaluate and understand how the program is going. And would you say from any available data that they are useful, that we should continue to expand them, and how much does this program cost us?
+
+So we saw that there were nearly 870,000 times where the bins were opened, and that is because we are able to tell on the app since you need an app to unlock it. As far as continuing it, I think it is just one of those things where we are going to continue to see what the usage is. We also saw that approximately 2.65 million pounds per year was generated from these bins. So I think right now it is playing a benefit. I think just strategically placing them in areas where people need to put out their composting more than once a week is where we will look to find more efficiencies in these compost bins.
+
+Thank you. And just one final question about dog poop. How much funding is being allocated to the dog waste dispenser pilot?
+
+So they are relatively inexpensive. Right now I think we are just doing it with existing resources. I think I am surprised that it has been very successful and popular and we have put them out in three council districts so far. One of the things that we would just want to make sure is that they are being managed. We do not have the ability right now to replace the bags and buy them. So putting them out on our better bins has been pretty effective and popular and we would love to work with you on expanding that in other areas.
+
+Excellent. Thank you.
+
+I would like to expand that to my district — putting it out there. Before we get started with CM Ung, given that we were talking about equipment and capital budget priorities, I just want to ask a few quick questions about that. We have 1.13 billion allocated for equipment replacement over five years. What percentage of this is dedicated to replacing the aging collection truck fleet versus transitioning to mechanical trucks for containerization?
+
+So as far as funds allocated for equipment replacements, we have 1.13 billion allocated for equipment replacement over every vehicle type. Depending on the type of equipment, it is replaced depending on the life cycle. The highest amount that we have is the rear loading collection trucks, which have an 8-year life cycle, along with dual bin collections which also have an 8-year life cycle. Then we have our front line mechanical sweepers which have a 5-year life cycle, and then our snow equipment. You have our salt spreaders which have a 12-year life cycle, flow and dump trucks which are basically a salt spreader type and have a 10-year life cycle, and then our holsters which are smaller equipment and have an 8-year life cycle. Those are the trucks that we make sure we are replenishing appropriately. As far as the containerization initiatives, right now all of our new rear loading collection trucks and dual bin trucks are being outfitted with tippers. We are internally working on coming up with cost estimates for the expansion of the entry containerization initiative.
+
+The Bronx garage replacement project — curious if there are any cost overruns or delays affecting this project, and how does this impact the department's ability to maintain adequate garage capacity citywide?
+
+So right now we do not anticipate any cost overruns, but that will likely be evaluated at the conclusion of construction. We are estimated to start construction at the start of 2027 with a completion date of 2034.
+
+What is the current 10-year capital plan for DSNY and how is the 3.54 billion allocated between equipment and garages?
+
+So our 10-year capital commitment plan, which spans from FY2026 to FY2035, is about 3.26 billion. Out of that, approximately 63% is allocated to equipment and then 33% is allocated to facilities, which is about $1.1 billion.
+
+How many collection trucks are scheduled for replacement annually and what is the average cost per truck?
+
+So the main two frontline collection vehicles, heavy duty vehicles, are our rear loading collection trucks and our dual bin collection trucks. For FY27, we anticipate replacing 104 of the rear loading collection trucks, which have a price tag of about $545,000. For our dual bin collection trucks for FY27, we anticipate replacing 80 of those, and the price tag on those is about $573,000.
+
+Beyond the Bronx garage, are there any capital projects experiencing significant delays or cost overruns, and if so, what steps are being taken to bring them back on track?
+
+As of currently, we are not anticipating any significant delays and no cost overruns in any of the projects mentioned.
+
+Great. And what percentage of the capital budget is allocated to sustainability initiatives such as electric or hybrid vehicle purchases or charging infrastructure?
+
+I have to get back to you on that, Chair.
+
+Thank you. How does the department prioritize capital investments across competing needs like fleet replacement, garage upgrades, containerization infrastructure and transportation?
+
+So obviously vehicle replacement is one of the things that we always want to make sure we are not falling behind on because there is a cascading effect. Unfortunately we saw some of that during COVID where we did not purchase any heavy duty vehicles and that created a ripple effect — we had to shift some of the operations to subsequent shifts and there was extra overtime added to repair some of those aging vehicles. So that is the priority. As far as capital investments for our facilities, that is one of the things that we always want to make sure we are investing in. There is a delicate balance, as I mentioned: 66% of that goes to fleet and then the remaining goes to our facilities.
+
+Going back, I do have the number. As far as electric vehicles and sustainability initiatives, we have 25 small alley collection trucks. We are also replacing — it is about 360 million — for bike lane equipment, which is a battery electric vehicle, the small sweepers that we have.
+
+Thank you. What is the expected useful life of new collection trucks being procured and how does this compare to the current fleet age?
+
+So the rear loading and dual bin collection trucks' useful life is about eight years. Right now the average age is about five years for rear loading collection trucks and about five and a half years for dual bin trucks.
+
+Are there opportunities to extend the useful life of existing equipment through enhanced maintenance programs, thereby reducing capital replacement costs?
+
+Sure, and that is one of the things that we always look for. We work with DCAS on that and we are always exploring strategies on new best practices, maintenance approaches, things like that. That is one of the things that we always look forward to expanding.
+
+Curious how much has been allocated for marine transfer station upgrades and maintenance in the current capital plan.
+
+So about $38 million is allocated to the 10-year capital commitment plan for marine transfer station upgrades and maintenance.
+
+And could you elaborate a little bit on the role the capital budget plays in supporting the transition to mechanical collection for containerization?
+
+Sure. So that is one of the things that we are evaluating. We put out an RFP for the side loading collection truck and that was thankfully approved. Now we are working to see what the expansion of a potential citywide rollout would be. I think that is one of those things that once we nail down a number, we will be able to have a better sense of what that commitment would be on the capital plan.
+
+Thank you. And I am so sorry, but I completely overlooked CM Brewer. I want to make sure...
+
+Yes, thank you very much. And thank you for your testimony, which is very detailed. Like everybody else, Frank Lera is a rock star, but so is Glenn Baldwin who is the district manager in District 7.
+
+Good to hear.
+
+So, alternate side of the street parking. I do not know if it is a citywide issue, but in Manhattan it is a big problem because we do not have the cameras yet in Albany. That would be helpful. But in the interim, we literally go leaflet, work with the precinct, then the sweeper comes down the street and in some blocks it is a very labor-intensive project. So my question is, I would think you are kind of losing money on the fact that the sweeper sometimes just goes down the middle of the block because nobody moves. I am just wondering — who knows what happens in Albany, I have no idea if that passes — but do we have any other solution? Is there a budget cost to this and is there any other solution to getting these cars to move? They do not even move when they are sitting in the car.
+
+I loved your sticker idea last time.
+
+Yes, I am ready for the stickers. Trying to get the City Council to do it. Yes.
+
+So I think it is one of those things that we are just going to have to do with existing resources. This week, well actually last week, we focused some of our enforcement efforts on some of those street cleaning regulation areas and we were averaging about 5,000 parking violations per day, which is very effective. It is one of those things where I am pulling the supervisors in different directions because of organics enforcement and things like that, but I think it is one of those things we are just going to have to shift back and forth. I honestly think the sticker is one of the best ideas.
+
+Thank you, because I want my colleagues to support me on that. Second, graffiti. You do a great job. How much does it cost and how often is it done and how do you decide when and where to do graffiti removal?
+
+Graffiti removal.
+
+We really appreciate it. I know you do buildings and others do other aspects, but you do buildings.
+
+So the budget is $2.7 million for fiscal year 26.
+
+Fiscal year 26. Yeah. Okay. And that is managed — we use the DOE Fund so we are just managing that operation. And we use 311 complaints. That is how we track and remove the graffiti.
+
+[**(01:58:10)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=7090s)
+
+
+
+complaints that we get.
+
+So it is based on 311 complaints. Correct. 311 complaints. Sometimes we get inquiries from elected officials, your offices, community boards and then we will obviously deploy those resources where necessary.
+
+Okay. The batteries issue. I mean, I was around when the first fire started. That was obviously FDNY, but I do not know if it has increased or decreased and what the cost is. It is very frightening when you have a fire in a truck. So I am wondering just to give us a sense of the cost that has been incurred as a result of these batteries and how you are addressing it.
+
+So unfortunately we have seen a spike in vehicle fires. As far as our trucks are concerned, the only issue is FDNY cannot always determine that the root cause was from a battery fire. I mean, that is likely the case. But we are seeing an increase in that. Sometimes we are fortunate enough where we have to offload the material into the street because we do not want to lose the truck. In those cases, we have very little expense there. But sometimes if we lose the whole truck, that is basically just replacing the whole truck, which is over $500,000 per vehicle. But it depends on how quick we are able to respond.
+
+How many have you had, do you know, in the last year approximately when you say there was a spike?
+
+Yep. We had in calendar year 2024 we had 152 fires and then in 2025 we had 168 truck fires. And currently to date, 38 truck fires.
+
+Okay. The budget — I know you said in your testimony that we all need to be good dog owners. I do not have a dog, but I do have to clean up from dogs. So my question is, what is the budget either yours or elsewhere in the City for telling these outrageous owners to clean up? It is the law. I remember when it passed.
+
+Thank you, Council Member. We have done a number of outreach campaigns around it with existing resources. We do not have a dedicated budget line for this. We have also partnered with members of the Council on it. We did it with then Council Members Menon and Bottcher. Always looking for new partners to work with on this.
+
+So it is mostly whatever can be done. There is no budget.
+
+Yeah. Unfortunately it is an issue where people know the law. I mean, outreach is great. I am Mr. Outreach, right? But it is not that people do not know they are supposed to clean up after their dog. Obviously everyone knows it is their responsibility. The issue is that we have got to continue to come up with new strategies for this. This new dispenser pilot is one option, but the litter basket and the dispenser on the litter basket — okay, that will cost something too though.
+
+Yeah. They are like 20 bucks each. 20 bucks to each basket. Okay. Is that something that you are doing or you are thinking of doing?
+
+So we are doing it now. It is a pilot, so we are doing it with existing OTPS funds. Just the one thing — if we want to expand it, we just do not have the resources to change out the actual bags. Somebody has to do that.
+
+Somebody has got to do that. So yeah, I think some of the Council Members have partnered with ACE or some of the other groups out there.
+
+Okay. I know we talked about abandoned vehicles. I just want to understand more — not so much the cost, but it is confusing to the public what you do versus PD. I must admit I thought it was mostly you, but I know when you have the license plates, that is PD. Sometimes I just take them off. I will be honest with you, so that I can get rid of the car. I know how to unscrew them. I see it online. I do not care because I want to get rid of the car. But the question is, how many did you remove last year? Does the public understand the difference? Does 311 understand the difference? How does it work just in terms of logistics?
+
+Sure. So 311 — there are a lot of complaints about abandoned cars. A lot.
+
+Yep. I do not think most of the public understands. I think they just see a car sitting there and they are just saying it is abandoned, derelict. But that is what our responsibility falls into. The supervisor will go out — the license plate is the number one thing, like we cannot touch it. So then we refer to NYPD. But I think we have done a really good job. In FY26 we are currently year to date about 4,571 vehicles removed. So that is on course with the previous fiscal year. We have had a lot of good coordination with NYPD. So you have the vehicle recovery team and then we have just regular tag and tow operations that we go out on, because it should not be the public's responsibility to figure out if it is roto or derelict. So we just go out with PD. We set up a tag and tow date and we will go out, and then anything that is derelict or roto — either they take it if it is roto or we will take it if it is derelict. So I think it has been pretty effective and we are going to continue to do that.
+
+Okay. Just one final question. So there are not a lot of tow locations, nothing in Manhattan, but the tow companies — you said you had four contracts. They take it to their own place. They do not take it to a PD or one of your tow places.
+
+Correct. They have their own yards and they are supposed to store it, and then we have to send out a letter if there is a VIN number and if we are able to locate the property owner or lien holder.
+
+Do you have any sense if some of them — you do not have plates on them, but if they do have plates, you have some sense it is ghost plates. So you just do not know. We do not keep track of that.
+
+NYPD does keep track of that if they are ghost cars. That is one of the things that the vehicle recovery team does.
+
+Okay. All right. Thank you.
+
+Thank you. Council Member, really quick before we continue, I want to make sure that we are touching quickly on waste export costs. What is the department's current annual expenditure on waste export and how does the budgeted nearly $600 million compare to actual spending, and how has this figure evolved in the past five fiscal years?
+
+All right. So the $594.8 million — we generally think that does reflect what we expect to spend this year. Adjustments are made each year in our budget to reflect actual tonnage on the street. I think the hard thing here is you have two main components that contribute to the cost. You have what the actual tonnage is that we collected, which is uncontrollable, and then we do have long-term waste export contracts and the pricing is very predictable. Each year we get an increase based on the consumer price index. So we have that all contracted out and under control.
+
+Are there any additional factors that contribute to the increase in waste export costs beyond inflation and the adjustments?
+
+It is just the adjustments and then it is what tonnage we collected.
+
+How do the terms of the department's long-term waste export contracts impact current and future budget projections?
+
+Yeah, I mean we do not always know what the CPI is going to be going into future years, but it is generally predictable and it is within a range. So that is really how we project into the future, at least in terms of contractual rates.
+
+Are there opportunities to renegotiate existing waste export contracts to achieve more favorable terms?
+
+So we put together these long-term contracts with the idea of not having fluctuations and volatility in the market. Our main contractors we have set for the long term. So we really do not have any opportunities to renegotiate any major terms in those contracts in the near future.
+
+What, if any, operational efficiencies have you implemented or planned to implement to help reduce the per ton cost of waste export?
+
+So one of the things that we have worked on with the vendors is to make sure we have the staffing of the transfer stations right-sized and appropriate. When these transfer stations were first put into place, there was an idea of what would be appropriate. Over time, since we have had the transfer stations open for some time now, we have been able to make staffing adjustments within that. That has been able to control our cost per ton.
+
+While there has been a small reduction, it has been an increase nonetheless from 17% to 19.4% in terms of our recycling diversion rate. How have any waste reduction initiatives such as citywide curb composting affected the volume of waste requiring export and associated costs?
+
+I mean, I think as a general matter the cost per ton on organic waste and on exporting refuse are roughly the same. So it is really just transferring it from one place to another.
+
+And finally, what alternative waste management strategies is the department exploring to mitigate rising export costs and what are some potential projected savings?
+
+I can take that, Chair. So I think one of the things that we think would be very effective is EPR. I think EPR — and I know there is state legislation that is in discussion now — I think that is where we would see the biggest shift as far as any kind of savings for export cost and obviously diversion rates and things like that. So EPR is one of the things that we support and I think would be beneficial to that.
+
+Thank you so much. And now I would like to finally turn it over to CM Ung. Thank you so much for your patience.
+
+Thank you, Chair, Commissioner. You said to my colleague CM Sanchez that you believe the agency can meet current vending enforcement with 40 officers. I do find that concerning because I can guarantee you this is not being met in my district. So can you clarify what you mean by that? Are you referring to only inspecting licensed vendors or to the enforcement of vendor regulations more broadly, including illegal vending and vending zones?
+
+Yeah, I think there are areas that we inspect regularly. I believe there are areas along your corridor that we inspect regularly along Main Street. So I would have to give you specific stats on that, but I believe that is one of the areas that we inspect regularly. There are a bunch of corridors that we are aware of and those are things that we inspect.
+
+No, I appreciate the collaboration with the inspection of my corridor and you do. However, I am here saying it is not enough. I am just testifying — I am just telling you I still get complaints all the time about not having enough enforcement in my no vending zone. So I just want to be clear that it is not enough in my district. Also, to follow up on CM Sanchez's question about the rollout of new vendors and there will be an assessment about what the needs are — can you be a little more specific about how you plan to do that assessment? Is it by visiting all the districts? Is it by the elected officials, Council Members? Is it by the 311 calls? Because this is very concerning to me and I am already saying my district is already overwhelmed by vendors.
+
+Sure. And I will back up a little bit about the previous issue. December, January and February was a very busy snow season. I am sure the challenges you are seeing in your district were beyond those months. But unfortunately when we have snow operations, those police officers that we have, we have to shift to snow operations because it is all hands on deck. So I am not sure if those were the time frames where you were seeing some challenges. But as far as once we increase the licenses, I think it is a combination of all those things. I think our evaluation and assessment on the ground is going to be one of the main components and we anticipate having internal tracking systems to see where the vendors are and where we should be going. But I think it is really unclear on how many licenses we are going to see at a given time, so I think once that period starts we will have a better idea.
+
+No, thank you as always. I look forward to working on this issue.
+
+Okay, thank you.
+
+Thank you so much. And now turning it over to one of our favorite topics in the department, containerization. Before we continue, DSNY expanded containerization requirements to all New York City businesses in fiscal year 24 and all buildings with 1 to 9 residential units in fiscal year 25, with 70% of the City's trash now required in bins. The PMMR shows containerization enforcement surged 146% in the first four months of fiscal year 26. The Manhattan 9 containerization pilot represents a significant operational shift. Assessing its success is critical before citywide expansion. What is the current compliance rate for residential properties in M9 using the required containers, expressed as a percentage of total properties?
+
+Sure. So right now we have observed very broad compliance in M9. It has been very successful. Since the start of the summons period — so when we started the pilot, which was June 1st, we gave a 30-day warning period. So on June 30th we started the summons period. We are seeing, as far as the 1 to 9 unit buildings, about 72% of one to nine unit buildings are broadly in compliance, meaning they have not received a summons. And then almost 70% of all buildings in M9 have not received a warning or a summons. So that is obviously very successful and very broad as far as compliance goes.
+
+What is the total cost of the pilot as a percentage of the annual operating budget and what is the per household cost of implementing containerization in the pilot?
+
+So the total cost for PS and OTPS budget for the M9 containerization pilot — for schools and residential it is about $2.1 million and this is approximately 0.1% of our total operating budget. As far as the per household percentage, we do not have that, but we can work on trying to get you that cost estimate.
+
+Thank you. I appreciate that. And given these numbers, what is the projected cost to expand containerization citywide and what percentage increase would this represent to the department's capital budget?
+
+So we are fully committed to reaching citywide containerization. Whether it is the wheelie bin or the Empire bin, we are still working on determining what those costs are. I think one of the things in local law 180 of 2025 is that we have made it pretty flexible in the sense that you have the 10 to 30 unit buildings that will have the ability to opt in, and I think that will be a determining factor. We are working on estimates right now to get a full sense of what that may look like as far as cost for capital commitment.
+
+And speaking about costs, what is the estimated cost to upgrade the department's entire fleet to the mechanical trucks that would be needed and what percentage of the fleet replacement budget over the next five years is currently allocated to this?
+
+So as far as the side loader collection trucks for the Empire bin pilot, which as I mentioned we are still working on those projections — as far as the tipper trucks, currently we have about 10% of our rail loading and dual bin fleet outfitted. So it is about 274 trucks that have the tippers on the back of those trucks. As we go into every new purchase for rail loaders and dual bins, those tippers are already installed at the factory. So we do not have to retrofit them.
+
+And by what percentage has collection time per route changed with mechanical collection?
+
+That is really something that we are not able to gauge right now because it is just at the pilot stage, but that is obviously one of the things we will look at once we scale up to citywide and other districts.
+
+What percentage of sanitation workers in Manhattan 9 have injuries related to manual lifting versus mechanical collection?
+
+So in M9 you still have about 55% of the refuse tonnage serviced by side loaders and then the rest are the traditional rear loaders. Not only that, but those sanitation workers are still required to service litter baskets. They do have manual litter patrol and those kinds of functions. So they are still susceptible to the traditional injuries. I do not have numbers specific for M9, but citywide over 40% of sanitation worker line of duty injuries are sprains and strains, which is obviously from the manual collection of bags.
+
+What percentage reduction in overtime has M9 experienced due to increased collection efficiency with these mechanical trucks?
+
+So right now there is no increase or decrease as far as funding goes for M9. The budget right now is just for the pilot — the $2.1 million for the pilot.
+
+And what is the enforcement rate in M9 expressed as violations issued per thousand households, if you have that, and how does this compare to the containerization enforcement rate citywide?
+
+Sure. So citywide, the first four months of FY26, there were about 43 containerization violations issued per 10,000 residential buildings. And then in M9, 170 containerization violations were issued per 10,000 residential buildings over the same time period. But the number of citywide households is much larger than the number of households in M9, just for comparison.
+
+And what funding sources are currently used for the pilot implementation? What percentage comes from the City capital budget versus federal or state grants?
+
+So right now it is all City tax levy funds. We are not getting any funding provided by any outside parties. There is no state or federal funding in the containerization pilot.
+
+Thank you so much. I realize that the Dem conference will be starting soon. So I do want to turn it over to CM Hankerson right after.
+
+I will be as brief as possible. Thank you, Mr. Chair. Really quickly, and if you can just do your best to keep the answers concise, I am going to try and speed through these questions. What is the agency's budget for enforcement officers?
+
+Sure. Just grab that. If you want to go to the next question while he looks at it —
+
+The follow-up to that would be how many enforcement officers are assigned to that unit.
+
+To the enforcement unit.
+
+Okay. So right now our enforcement headcount is 94 sanitation enforcement — they are non-uniform personnel. So you have enforcement agents and then you have ASAs, which is associate sanitation enforcement agents. So that is 94. And then we have 118 sanitation police officers, 37 sanitation lieutenants, four inspectors, for a total of 159 total positions related to enforcement across different areas. That is illegal vending, traditional impounds like for illegal dumping cameras, things like that. So it is spread across different areas.
+
+Okay. So for those that are assigned to address illegal vending, how many of those are assigned to Queens and are they broken up into garages or community board districts?
+
+So we do not have specific assignments because it is 35. So we have to spread them out across the different boroughs. We run about five to six different teams every day. We try to keep one in Queens every day. So I would say you have one team every day, but if we have areas where we need to focus on, we will shift resources around.
+
+Is there data that shows the areas that they have been assigned to?
+
+Not publicly.
+
+Not publicly. Would we be able to follow up?
+
+Yeah, I would love to work with you on what data you are looking for.
+
+Because more specifically, in my district, business owners have consistently been told that enforcement action could not be taken on a vendor that is known to sell non-FDA and USDA approved seafood from a van, because DSNY has to catch the individual in the act. Often times an officer is either unavailable, or when an officer is available, for some reason that particular street that the vendor operates off of every Saturday from 11 to 3 p.m. — they just somehow skip that street. So my hope would be that we can work together on that.
+
+[**(02:19:53)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=8393s)
+
+
+
+>> Absolutely. I would love to get those particulars and try to set up a focused operation there.
+
+>> Thank you. And there are two quick questions regarding the storm. How much did the department spend on PDM workers during the recent storm?
+
+>> I think it was about 34 million. Was 34 million?
+
+>> I want to say it was about 34 million, but I will get those for you soon. You are referring to the emergency snow shovelers, correct?
+
+>> Yes.
+
+>> Yeah, I think it was 34 million. And I guess out of that number, how many individuals were actually hired?
+
+>> I think we were averaging about 1,800 per day and then at our peak we were about 3,400, but depending on the day. That was pretty much the average — the 1,800 daily average — and then we peaked at 3,400 snow shovelers.
+
+>> Did they work alongside other city employees from other departments like parks?
+
+>> No. So DOT has their own — they received their own cohort of snow shovelers. So they work together with DOT personnel. Our emergency snow shovelers only worked with our personnel. So we had sanitation workers, enforcement agents and other enforcement personnel. I am sorry. It was not 34 million. It is 3.4 million. Sorry.
+
+>> Okay. I was like, that is a lot of money.
+
+>> Forgot the decimal.
+
+>> 3.4 million for the recent snowstorm.
+
+>> Correct.
+
+>> Okay. And that is 1,800 folks hired per day on average per day and then at the peak it was about over 3,000. Correct.
+
+>> And you said there was no collaboration with other agencies?
+
+>> No, I mean we had collaboration from other agencies that helped us on pedestrian infrastructure and that was greatly helpful. Going back to the first storm, there were about 200 personnel and employees from DOT and Parks that helped us in that regard and then they continued that for the second storm. But I do not know if there was direct coordination with the other agencies. They just worked alongside us but not necessarily with those snow shovelers.
+
+>> Okay. Thank you.
+
+>> Okay. You are welcome.
+
+>> Thank you so much. And now CM Vernikov.
+
+>> Thank you, Chair. Thank you, Commissioner, for being here today to testify and also of course, as always, thank you for all the work the sanitation department does. Specifically for being so responsive with our needs in our district. My first question is: in your opening testimony, you cited snow removal as one of the three core functions of the agency, which has had obviously two very large snowstorms. The first was followed by a temperature freeze that complicated snow removal. Does the five-year funding formula that is in the City Charter make it more difficult for the City to be prepared for these generational snowstorms?
+
+>> No. I think OMB has been very responsive and receptive when we need additional funds for whether it is salt or anything else as far as the snow budget goes. So I think the way it is currently structured, we have not experienced any challenges and I do not anticipate that there should be a need to change that structure.
+
+>> Got it. Thank you. For the last five fiscal years, there has been a gap of a couple of hundred from budgeted uniform headcount versus actual uniform headcount. Is there an explanation for that?
+
+>> Sure. We have been over budgeted headcount for uniform for the past several years. The way our hiring works is at the beginning of the year we hire to a peak and then trim down to the budgeted level over the course of the fiscal year. So if you look at the average on any fiscal year, our headcount will be above the budgeted headcount.
+
+>> Understood. Thank you. And one last question. For over a decade there have been plans to join Brooklyn 15 and 13 sanitation districts and garages in securing a location to house both in a facility closer to Coney Island. The agency in the past has supported this but seemingly cannot accommodate it within the budget. Do you have any updates on these plans or what it would take to realize them?
+
+>> I think one of the biggest challenges we have with either the replacement of garages or even doing major renovations in current garages is finding additional space. As you see, the City is pretty densely populated. Doing space searches, especially for something like a sanitation garage, to find that amount of space to house a building plus parking has been extremely difficult for us and we have really struggled with that.
+
+>> Thank you.
+
+>> Thank you, Council Member. Turning to our last two topics of the day. One, sidewalk cafes. How many sidewalk cafes and outdoor dining establishments are currently operating under the permanent outdoor dining program and what is the department's role in enforcing cleanliness standards around these establishments? What percentage of the department's enforcement capacity is currently dedicated to sidewalk cafe sanitation compliance?
+
+>> So we defer to DOT on the amount of sheds out there. The only thing we are really enforcing is cleanliness along any commercial corridor or any particular segment for a failure to clean 18 inches into the curb, which we issue regularly depending on observations, not necessarily specific to the sidewalk cafes. We really do not have any dedicated resources for that.
+
+>> What is the estimated annual cost for increased litter basket servicing, grease and food waste management, and rodent mitigation in areas with high concentration of sidewalk cafes? What percentage have sanitation complaints increased in outdoor dining zones compared to pre-pandemic levels? And has sanitation requested additional funding to address the impacts of permanent outdoor dining infrastructure?
+
+>> So we do not have specific resources for that. We again just respond to any general 311 complaints related to cleanliness issues. DOT may get those specific ones related to sidewalk cafes. But again, we would love to look at those enforcement numbers. Now I know there is legislation to make that year round and I think once we understand the restrictions or any kind of guidelines along that, we would be able to better gauge that and work with DOT and our other agency partners on establishing what that would look like and then obviously sharing information so we can better enforce those areas.
+
+>> Great. And do you have a current violation rate for sidewalk cafes?
+
+>> No. So the only violation rate we have, as I mentioned, is just general. So failure to clean 18 inches into the street — for last calendar year, we issued over 5,000 S26 violations, which would be in line with keeping the area clean there, but not necessarily specific to sidewalk cafes.
+
+>> And what percentage of these outdoor dining structures are located in areas where the department already provides enhanced cleaning services versus neighborhoods that receive standard service levels? And how does the department determine whether additional street cleaning passes or litter basket placements are warranted in areas with dense concentration of sidewalk cafes?
+
+>> So I think now that the program is likely to be year round, we will be able to better assess. I think now that they were taken down for the winter, it is hard to really tell what that is. But I think once they are permanent, we will be able to have a sense of what resources or diverted resources we would need to make sure that the areas are kept clean.
+
+>> What is the estimated cost per sidewalk cafe for the department to provide adequate sanitation services in the immediate vicinity — say within 50 feet of the structure? Should these costs be borne by the general sanitation budget or recovered through fees assessed to outdoor dining permit holders? And what percentage of sidewalk cafe operators currently pay any fees that contribute to the department's sanitation efforts?
+
+>> So I am not aware of any fees that come to our budget. I would defer that to DOT. But again, until we really get a sense of where these structures will permanently be, we really cannot give a sense of what the resource need for cleanliness would be.
+
+>> Thank you. And last but not least, what we are all waiting for — the World Cup and USA 250. So what is the projected cost for the department's sanitation operations during USA 250 celebrations and FIFA World Cup 2026 events in New York City? We are talking about additional personnel, collection trucks, litter baskets and portable sanitation facilities that will be required. What percentage increase in the operating budget do these major events represent compared to typical summer operations?
+
+>> So right now we are just in active conversations with the Mayor's office and the event organizers. I do not think we really have a sense of what the resource need would be, but I can assure you that we are in active conversations with OMB to make sure that we are appropriately funding this. A comparison would be back in 2014, we had Super Bowl Boulevard and we had more than adequate resources for that event. So I am sure that once we know the dates, times and locations, we will have enough resources to make sure the area is maintained. We do not manage the outdoor portable restrooms — I would defer those to the Mayor's office to see which agency manages that. That would not be DSNY.
+
+>> Given that we are going to have so many people, just on that question of portable restrooms, does the department see any need to invest in bringing additional portable restrooms or expanding any kind of program like that?
+
+>> Sure. So we do not currently have a portable restroom program as far as DSNY is concerned. So I would just defer those to the Mayor's office and see which agency is tasked with that because right now we really do not have that in our portfolio.
+
+>> Great. Has the department secured dedicated funding for sanitation operations for USA 250 or the World Cup? Will the cost be absorbed by the current existing budget? And what is the anticipated tonnage of waste generated during these events compared to normal daily collection volumes, expressed as a percentage? Are there any contingency plans in place if event-related costs exceed the budget allocations?
+
+>> So we do not have any dedicated funding as we speak right now, but I think we have had initial conversations with OMB on that and I think we will make sure that we will have enough resources. As far as contingency plans, we will always have plans for cleanups. And again, it really depends on the amount of throughput we are getting in some of these areas. But I think based on any other events that we have, that we normally do cleanups for, I think we will have adequate resources for anything that comes our way.
+
+>> What percentage of the summer event sanitation costs will be reimbursed by event organizers, federal agencies or other funding sources versus absorbed by City taxpayers? And how does the department plan to balance the sanitation needs with maintaining regular service levels in neighborhoods not hosting events?
+
+>> Sure. So we are not aware of any reimbursements planned at this time. But I will work with OMB to see if there is anything identified. And as far as making sure that we do not have any other operations or resources impacted, we anticipate running some of these cleanup operations on overtime. So I think we will have more than adequate resources available. We are just working with OMB on the resources and the overtime incurred on these events.
+
+>> It is like you read my next question. What is the estimated overtime expenditure for these events, expressed as a dollar amount and a percentage of the total event sanitation budget? How many uniformed and civilian personnel will be dedicated to such event operations? And what impact, if any, will this have on regular collection schedules and street cleaning schedules in non-event areas during the same time?
+
+>> So since we do not have a definite location for some of these events, we do not have a projection. But I will say that we do not anticipate any challenges with any cleaning operations or collection operations. And thankfully, this is a summer, so we do not have to worry about snow. I would say that the only impacts we may see is that sometimes some of these events close down streets during the day, so we may have to shift some of our collection operations to an early shift, like midnight to 8. But we do not anticipate any other impacts on regular services.
+
+>> And last but not least, based on sanitation operations during previous major events — we are talking New Year's Eve, marathons, parades — what is the average cost per attendee for waste management and street cleaning? How does the department project this will scale for USA 250 and World Cup events with significantly larger crowds? And are there any lessons learned from past events that are being incorporated into planning to improve efficiency and reduce costs, expressed as a percentage savings?
+
+>> Sure. So the only thing that we have as far as lessons learned is that once you get into these large-scale event operations, having all our equipment in some of these areas is not really efficient. So we would probably use more of a manual sweeping operation and hand brooms, things like that. But as far as anything else, we would just clean up as we normally would for any other special event.
+
+>> I want to thank you for taking all the time to answer all of our questions. I have a ton more and we will definitely be sending those over because I know everyone has many things to do. I thank you for over three hours of testimony today and I really appreciate all the work that the men and women of the department do. So thank you. And thank you again, Frank, and congratulations on the 2026 Sloan Award. It is very much well deserved.
+
+>> I think we are good, right? Thank you, Chair. Thank you, everyone.
+
+>> Thank you, Commissioner. It is worth it. Thank you. I am now opening the hearing for public testimony. I want to remind members of the public that this is a government proceeding and that decorum — underline, bold, italicized — decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the Sergeant-at-Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please, if you have not already and you are in person, fill out an appearance card with the Sergeant-at-Arms and wait to be recognized. When recognized, you will have two minutes to speak on the Department of Sanitation's budget. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant-at-Arms. You may also email written testimony to testimony@council.nyc.gov. Again, that email is testimony@council.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+Okay. First we are starting with the first panel, which will be Rhonda Kaiser, Rebecca Seb, Leon Feineold and Ellen Cooper. We will wait until everyone is seated and then get started. We will start from stage left to right, I hope, and you can begin.
+
+>> Thank you. Good afternoon, Chair Sanchez and the sanitation committee. Thank you for this opportunity to speak. My name is Rebecca Subnam, and the first time I ever testified at City Hall was in sixth grade. Cafeteria Culture has taught us about the detrimental effects of styrofoam trays we used in school then. I was intensely shy as a kid, but they taught me to believe that it was my right to be heard. I joined my first rally to translate my education into action. The rally gave me enough courage to walk my 11-year-old self all the way down to City Hall from the Lower East Side and testify using what I learned in school.
+
+Now I am here testifying again over a decade later after attending Columbia University with a major in sustainable development and a minor in public health. When I entered my freshman year at Columbia, the foundational environmental education I already had through Cafeteria Culture provided an understanding of how interconnected the climate crisis is to every aspect of our lives. This allowed me to keep up with students who are much more privileged in resources than me. As I have continued my environmental studies path, this Paulo Freire quote has kept me grounded: "When education is not liberating, the dream of the oppressed is to become the oppressor."
+
+Comprehensive environmental education teaches students in underserved communities that through advocacy work, we can improve both our own lives and the lives of others. Our successes are not mutually exclusive and we do not have to adhere to systems that oppress us. The advocacy skills I learned in between the lines of Cafeteria Culture lesson plans built confidence in me and my fellow peers who are often overlooked, showing us that another world is possible for us to co-create.
+
+I am here in front of you now as a Cafeteria Culture teacher in an after-school class at the Lower East Side Girls Club. I have the honor of mentoring students just like me. By reinvesting in my community, I can help these young students come up with innovative solutions to issues that burden our shared community and dream bigger than our circumstances. I would not have the opportunities I did, gotten into the college I did, or become the person I am proud of today if it was not for the transformative environmental education I received in public schools through Cafeteria Culture. All powered through New York City Council discretionary funding. Thank you for your time.
+
+>> Thank you for your testimony. And I see you, Paulo Freire. Hi, good afternoon, Chair Sanchez, and thank you for this opportunity to speak. I am Rhonda Kaiser. I am the policy and program director for Cafeteria Culture. We are an environmental education organization and our students become climate leaders and bring about systemic change by taking hyperlocal action in their own school cafeterias. We catalyzed the elimination of styrofoam from school cafeterias in New York City and across the country. Our students started monthly plastic-free lunch days in New York City public schools and twice a year nationwide. And now these monthly events have led to measurably significant reduction in single-use plastics in school lunches on regular lunch service days from 2022 until now.
+
+Cafeteria Culture is deeply grateful to you, the New York City Council, for your investment in FY25 and FY26 that has funded us to teach our compost education curriculum and to develop our pilot and latest systemic waste reduction initiative, Mindful Choice Meals, a program that has reduced cafeteria food waste by 50% in the schools that we piloted in and increased student consumption by 15 to 46% in our pilot schools, just by allowing students to choose what they want to eat within the USDA guidelines.
+
+Our trusted partners, New York City Public Schools Office of Food and Nutrition Services, are collaborating with us this spring to scale Mindful Choice Meals this year to 32 schools, one per district. New York City Public Schools spends between $200 and $250 million annually on school meals, making it the second largest institutional food provider in the United States after the US military. Reducing cafeteria food waste represents a major opportunity for significant fiscal savings and climate impact.
+
+This is a moment for the New York City Council to invest in scaling solutions that work. With greater investment from the New York City Council, we can move from district pilots to citywide implementation, dramatically reducing cafeteria food waste and our climate footprint while saving millions in food costs and giving students a meaningful voice in how their cafeterias operate.
+
+>> Thank you so much for your testimony. Hello. My name is Leon Feineold. In 2017, my late wife Yuan and I co-founded the House of Good Deeds to pay forward the help that we received when she was diagnosed with terminal cancer. We have grown drastically since then. We recently opened our first permanent...
+
+[**(02:44:05)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=9845s)
+
+
+
+headquarters. We managed four rescue transport vehicles and we serve all five boroughs. Our volunteers partner with businesses and community members alike to rescue and redistribute essential goods at no cost to donors or recipients. And we do it bigger and better than anyone else. In 2025, we rescued five tons every month, more than half of it food. We run Manhattan's largest free store, offer free classes and a volunteer hub, which has trained thousands of community volunteers, including those running our weekly food pantry, which I am missing in order to be here. We also organize blood drives, neighborhood cleanups, electronics recycling, and are limited only by our funding. Based on the numbers we heard earlier today, 60 tons away from the waste stream every year actually makes a dent. Keeping useful items in service is a win-win, and building community and changing attitudes among New Yorkers is the cherry on top.
+
+In 2023, this New York City Council spent $3 million on Grow NYC and its Stop and Swap program, which offered many of the same services now offered by the House of Good Deeds, like free collection and free redistribution of clothing, shoes, housewares and accessories — 85,100 that year. In 2024, the funding was pulled by the Adams administration and Stop and Swap no longer exists. House of Good Deeds has filled that gap. Yet we have received under $50,000 from the City Council while having a significantly greater rescue impact.
+
+I ask this Council and committee, what is left of it, to recognize the massive win-win that House of Good Deeds has in reducing waste, promoting sustainability and building community through volunteerism in each of your districts. Give us the money to replace our ancient vehicles, hire drivers and pay our key people. Maybe figure out a way to exempt us from congestion pricing and we will grow. We have applied for discretionary funds and need support. We are more efficient than anyone else who does what we do. We are New York City's best direct link between those who have and those who need. The bigger and better we can be, the less cost and stress for the amazing people of the DSNY who keep our city running. Thank you.
+
+[**(02:46:11)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=9971s)
+
+
+
+Thank you for your testimony.
+
+[**(02:46:16)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=9976s)
+
+
+
+Thank you, Chair Sanchez and committee, for the opportunity to speak today. And thank you for restoring community composting funding for fiscal year 25 and 26 and we are hoping for 27. My name is Ellen Cooper. I am a master composter 2023 through the fantastic Master Composter Academy, a Trash Academy graduate from 2024, member of the Manhattan SWAB Organics Committee and former member of the SWAB.
+
+As a master composter, I had the amazing opportunity to visit many of the community composting sites around the city. I have seen firsthand the dedication, energy, extraordinary expertise and power of the composting community around the city, both paid and volunteer. It is interracial, intergenerational, knowledgeable and passionate. I urge you to continue funding community composting. It is an essential part of New York City's citywide composting programs. It would have a destructive effect on the environment if it were cut. The programs took decades to build and are now part of the fabric of our city. It is a tiny part of the budget but the impact is huge.
+
+There are thousands of dedicated citizens, both paid and volunteer, who make the compost program run, and millions of pounds of high-quality compost that make our parks, gardens, street trees, air and neighborhoods healthier and flood resistant. We should be increasing community composting, not eliminating it. While the whole curbside program is still in its infancy, community compost is the beating heart of the program. They work hand in hand. The citizen outreach and education provided by hundreds of community composters is irreplaceable. This is a volunteer army who support the small staffs and help build the community compost program, providing additional help and expertise to educate and inspire citizens and provide food drop-off places. The more people who learn about composting through community composting, the more likely they are to support the curbside program. Please keep it going. It is non-negotiable. Thank you.
+
+[**(02:48:37)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10117s)
+
+
+
+Thank you so much for your testimony and thank you to our first panel. Next we would like to bring up Mary Ellen Sullivan, Eric Goldstein, Justin Wood and Christine Dats Romero. Thank you. We will start with stage left. You may begin.
+
+[**(02:49:32)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10172s)
+
+
+
+Good afternoon, Mr. Chairman. Congratulations on taking this important post. I am Eric Goldstein, New York City Environment Director at the Natural Resources Defense Council and we are delighted to be here today. There is a lot to talk about. I will summarize my written testimony.
+
+As you know, the city spends about half a billion dollars a year to export its waste to landfills and incinerators. From what we heard this morning, those costs are continuing to go up quite significantly. That is bad from both an environmental and public health perspective as well as for the city's budget. I am going to focus for a moment on organics, the single largest portion of the waste stream. Of course, the top priority there should be food rescue and food diversion, which would also address the problem of so many people being food insecure in New York City. Right now, most of these organics are sent to landfills or incinerators. Making matters worse, those landfills and incinerators are usually in poor or Black and Brown communities.
+
+We have a couple of recommendations. First, it is essential that the department be fully funded to provide a more comprehensive and broad-based educational effort to boost participation in this program, which as was noted earlier is much lower than in cities with mature composting programs like Seattle, San Francisco and Portland. We need these additional educational efforts along with enforcement to reach out to residents on a regular basis in multiple languages in a variety of forums, with specific initiatives to communicate with building managers and landlords and school children. It has got to be a broad-based program. The department needs to do more in that area.
+
+Second, we strongly urge the Council to provide funding for nonprofit organizations that run community composting operations in all five boroughs. NRDC gets no financial remuneration from that effort, but to its credit, the Council stepped in last year to provide funding for 14 spectacular nonprofits across the city. These groups are the frontline champions of composting. They help to reduce the amount of organics that must be landfilled or sent to incinerators. They produce useful finished compost that can replace chemical fertilizers, benefit our parks and landscapes, help street trees, gardens and house plants grow, and they work across the boroughs with our community gardeners and school children. These organizations play an unheralded role in neighborhood revitalization.
+
+There is more we have to say about commercial waste zones, containerization, litter basket service and lot cleaning, which are essential and always downplayed in the department's preliminary budget. And finally, we urge you to reaffirm support for the Glick-Carpin packaging reduction and recycling infrastructure act. That is the EPR legislation the commissioner spoke about that could provide as much as $150 million a year, according to the sanitation department, back to the city from manufacturers. We hope the Council will once again let everyone in Albany know of the City Council's strong support for that state legislation. Thank you for your attention.
+
+[**(02:52:42)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10362s)
+
+
+
+Good afternoon, Chair Sanchez, and thank you for holding this meeting. My name is Christina Dats Romero. I am the executive director of the Lower East Side Ecology Center and I am here to testify about the need to continue funding community-based programs. The Ecology Center started its compost program in the 1990s to educate New York City residents about composting. Since the 90s, composting has gained in popularity with the implementation obviously of the citywide curbside program in 2024.
+
+While community composting programs have paved the way to implementing a universal collection program, our work is not done. Currently the curbside organics capture rate is at 10% of its potential. Here is where community composting comes in. We are the trusted experts and play a crucial role in educating people about composting. When people see the composting process up close in their community, when they hold the finished product in their hands, utilizing compost to fertilize their gardens or street trees or taking care of their house plants, the reason to compost becomes tangible and they feel good. Compost, by nurturing the soil, nourishes a greener, healthier, more resilient city, creates community and creates green jobs.
+
+Right here in the city, there is a network of 15 organizations dedicated to turning food waste into finished compost. As a member of the New York City Community Compost Network, we would like to thank the Council for their support in the past and request that this support continue in FY27. Thank you.
+
+[**(02:54:32)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10472s)
+
+
+
+So much for your testimony.
+
+[**(02:54:35)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10475s)
+
+
+
+Hi, good afternoon, Chair Sanchez. Thank you so much for the opportunity to testify, and thank you to committee staff. My name is Justin Wood, New York Lawyers for the Public Interest and a founding member of the Transform Don't Trash New York Coalition. We will submit written testimony but just wanted to get to three items about the FY27 budget.
+
+First of all, commercial waste zones. We urge the Mamdani administration and Council to continue realizing the full vision for the landmark commercial waste zone system by simultaneously uplifting historically exploited workers, eliminating millions of unnecessary truck miles from our streets and diverting millions of tons of unnecessary commercial waste that is disposed in landfills and incinerators. We have got nine zones scheduled for implementation by August. We strongly support the continued and expedited rollout of this landmark reform and we note that the anticipated $7 million in administrative fees would cover many of these costs. However, in DSNY's first annual report on commercial waste zones, we were troubled that almost three-quarters of commercial waste in the initial zone was found to be disposed in landfills and incinerators. So we view this as a really unique opportunity for DSNY to more robustly invest in waste diversion, food rescue, food donation and other recycling programs in the commercial sector, and urge that the budget include ample funding to ramp those programs up simultaneously with commercial waste zones outreach.
+
+Secondly, we urge the Council and the budget to include funding for realizing the waste equity goals of the current solid waste management plan by utilizing at least one marine or rail transfer station to accept commercial waste and eliminate unnecessary truck miles from the commercial sector back and forth to outer borough environmental justice communities where the private truck-based transfer stations are located. This could be done in the form of a pilot program, for example, as the Manhattan commercial waste zones are rolled out and we have an underutilized marine transfer station in Manhattan.
+
+Thirdly, we strongly support robust infrastructure, public education and enforcement of both residential and commercial organics laws. We also hope to see the department roll out plans and have funding to roll out plans for additional large or medium-sized compost facilities that replicate the success of the Fresh Kills facility in Staten Island. Thank you so much.
+
+[**(02:57:08)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10628s)
+
+
+
+Thank you so much for your testimony.
+
+[**(02:57:11)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10631s)
+
+
+
+Chair Sanchez, committee staff, thank you for the opportunity to testify today. My name is Mary Ellen Sullivan and I am chair of Brooklyn SWAB and I am here to share our all-SWAB testimony.
+
+After nearly 40 years of relying on the same strategies to increase diversion without meaningful progress, it is time to try something different. New York City now regularly spends $500 million per year to export the majority of its residential waste, about 3.2 million tons annually, to landfills and incinerators outside the city. For fiscal year 2027, $480 million is budgeted and will almost certainly increase to over $500 million as export costs are reconciled with actuals and increased fuel costs.
+
+Increasing diversion to recycling and composting will not significantly reduce these costs. Diversion programs require investments in collection and processing. However, 75% of the material currently exported is recyclable or compostable. Diverting that much material away from export to recycling and composting can generate important benefits in two critical areas.
+
+First, every dollar spent diverting material away from landfill or incineration reduces the negative environmental and health impacts associated with exporting waste to communities such as the Ironbound District in Newark, New Jersey, the Seneca Metals landfill in upstate New York and Chester, Pennsylvania, also an incinerator. These impacts, including truck traffic, air pollution and disposal burdens, are currently borne by communities both within New York City and in regions where waste is burned or incinerated. Increasing diversion could boost New York City jobs, tax revenue and public investment. Imagine what spending $500 million on recycling and composting could mean for our five boroughs.
+
+Secondly, diversion directly improves conditions on the street. When recyclable materials and organics are removed from the trash stream, the volume of bagged refuse declines significantly and no longer attracts rats. For this reason, it is extremely important to achieve the targets outlined in the draft solid waste management plan: 30% for residential and 54% for commercial and construction. This is not just a sustainability issue but it is also an environmental justice issue. Thank you.
+
+[**(02:59:41)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10781s)
+
+
+
+Thank you for your testimony and we will have the rest of it in the written record. Okay, great. Thank you so much to this panel. We are going to take one of our online testimonies before we move on to our third panel, because they have been patiently waiting. So I would like to bring up our PS15 fourth graders.
+
+[**(03:01:04)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=10864s)
+
+
+
+Okay. Good morning. Thank you, Chair Sanchez and the sanitation committee for allowing us to speak today. We are fourth graders from PS15 in Red Hook, Brooklyn. We live in an environmental justice zone in Red Hook, Brooklyn, with a lot of traffic. Every culture taught us that there is no "away" for trash. We learned that when our trash leaves our homes or our school, first it goes to the Hamilton Avenue Waste Transfer Station nearby. Then it goes by truck to a barge at the Marine Terminal in Elizabeth, New Jersey. Then it gets trucked to a landfill all the way in Virginia. All that transportation creates pollution and the landfills make kids just like us who live around landfills get asthma for life because of garbage that is not even theirs.
+
+How can the city's zero waste plan be real if we keep hurting other communities? We all need to work together to stop this waste before it starts. And that is what we are doing in our path of stopping waste before it starts. We started the Mindful Choice program in our school two years ago. This year we reduced our cafeteria food waste at the source by almost 45%. Cafeteria culture is doing Mindful Choice meals and a lot of schools now. We want all schools to have this program. We are taking our food waste out of the system to compost it locally at Red Hook Farms, and it is walking distance from our school. Red Hook Farm makes compost out of our food scraps and we visit them on field trips every year.
+
+We hope other schools can reduce their cafeteria food waste too and compost their food scraps locally, to make less waste in all schools in New York City so we can stop hurting kids like us who live near landfills in far away places. We hope the city can support environmental education and local composting.
+
+[**(03:03:44)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11024s)
+
+
+
+Thank you to our PS15 fourth graders for your testimony. The kids are all right. Now we will bring up our third panel. Can we please have Justin Green, a lot of Justins in trash, Megan Ortiz, Samir Rush... I hope I pronounced that right. If I did not, my bad. Jir Rush and Sydney Scott.
+
+[**(03:04:17)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11057s)
+
+
+
+It does not matter which order you sit. Just know that if you sit on the left, you will be speaking first.
+
+Mindful. That is the first time. Good afternoon, Chair Sanchez and the sanitation committee. I am Jir Rush. Thank you for this opportunity to speak today. I am here as a direct result of quality environmental education funding. I was trained by Green City Force, an environmental education organization where I learned about agriculture, infrastructure, and composting. Now I work with Cafeteria Culture as their compost coordinator. This is a position created to pilot the possibility of replicating the practices of processing food scraps in nearby community composting sites in New York City public schools. Our work is also powered through New York City Council's discretionary funding.
+
+I work in Cafeteria Culture's partner schools to collect food scraps in the cafeteria and compost it locally. To date, I have collected more than 1,200 pounds of school food scraps. That amount is heavier than a fully grown Kodiak bear. At one partner school, we processed all of the food scraps we collect through a local composting site that is operated by our partner organization, Compost Power. In the cafeteria, I am able to interact with all students in the school. I teach them what I learned in environmental education, that local composting keeps the resources in the community and reduces truck traffic.
+
+Middle schoolers typically walk up to me and introduce themselves and have regular conversations with me. I am sure my age and who I am makes me seem more approachable to them. In engaging with me, these students who are often hard to reach suddenly are exposed to composting, agriculture, and environmental equity. Through my pilot position as compost coordinator, I am able to bridge school cafeteria food scraps collection with local solutions that directly benefit the community. With further funding, we will be able to begin to scale these local composting pilots in the next year.
+
+[**(03:06:21)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11181s)
+
+
+
+Thank you for your testimony.
+
+[**(03:06:22)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11182s)
+
+
+
+Of course.
+
+[**(03:06:25)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11185s)
+
+
+
+And congrats on your first time.
+
+[**(03:06:27)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11187s)
+
+
+
+Appreciate that.
+
+[**(03:06:29)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11189s)
+
+
+
+Good afternoon, Chair Sanchez and the sanitation committee. Thank you for this opportunity to speak. I am Megan Ortiz and I work with Cafeteria Culture as a member of the teaching staff as well as mentor and support our compost coordinator with his work in cafeteria food scrap collection. I started as a Cafeteria Culture student in 2020 when I was a junior in high school and I became fully employed by them after working a waste audit in 2024.
+
+In complete honesty, I have always found it incredibly difficult to speak in front of groups of people, to the point where I even deemed it an impossibility for myself. Me standing before you today is a testament to the work and teaching of Cafeteria Culture. They push you to always challenge yourself and show you that anything is possible. Cafeteria Culture makes it a point that every student we work with has the opportunity to engage with the content in a way that is comprehensible to them, that no student is left behind or feels as though their voice is not heard.
+
+I remember meeting one of our current eighth grade students just a year ago when she was a seventh grader who was shy and refused to make eye contact. Now she is confidently running up to people in order to interview them for a community survey. It is with the experience I have gained from Cafeteria Culture now as a teacher that shows me how it is incredibly important to meet students where they are. That is a skill I hope to continue honoring in our work. Being consistent figures who are able to inspire students to see themselves as active members of a community rather than a nuisance or passive recipient of the current conditions.
+
+It is because of the work Cafeteria Culture does that our children believe they are able to make a change. Our work is powered through New York City Council discretionary funding and through your greater investments in Cafeteria Culture. We hope to empower more students. I dream of a day where our work can reach children in all five boroughs, inspiring the hope and the confidence that I have achieved through Cafeteria Culture. Thank you.
+
+[**(03:08:22)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11302s)
+
+
+
+Thank you for your testimony.
+
+[**(03:08:23)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11303s)
+
+
+
+Hi, good afternoon, Chair Sanchez and members of the committee. I am Justin Green. I am the executive director of Big Reuse, one of the groups that received funding from the City Council. When Mayor Adams cut funding in FY24, programs that had
+
+[**(03:08:37)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11317s)
+
+
+
+been in existence for decades got cut at the Department of Sanitation. So there is really no more community-based programming at the Department of Sanitation that is funded through the City Council. That funding that kicked in funded our work and the work of 13 other groups across the city. Cafeteria Culture, which you have heard, is doing amazing work. Earth Matter, Governor's Island, Red Hook Farms, East New York Farms, Compost Power, BK Rot, New York Botanical Gardens, Queens Botanical Gardens, Snug Harbor, Lori Side, GrowNYC and Brotherhood Sister Soul. So it is funding groups across the city, all doing really interesting, innovative composting work that is really needed to educate people on composting.
+
+Right now, they do not have a budget besides this EPA budget. OMB is restricting DSNY in terms of outreach funding. So all the funding that is going for outreach is through the City Council and City Council community-based funding. They have some EPA funding that they are going to use on mailers or other stuff, but out in the community it is really groups like ours with our funding.
+
+At Big Reuse, we do a lot of different things. We have a mid-scale composting site in the Gowanus. We would love to have you come check it out. We opened a site in Central Park working with the Central Park Conservancy to compost their yard waste. We have 20 food scrap drop-offs throughout the city. We install wrap-proof composting cubes in community gardens. We are at New Roots in your district, working with a lot of programming there. We distribute compost to schools — 60 schools, 400 bags of compost. We do outreach events, over 200 outreach events across New York City, reaching 10,000 community members. Our work in composting spawned our street tree care program which now cares for over a thousand street trees across the city.
+
+We are here to encourage you to keep funding the speaker initiative for community composting because it has had amazing impacts across the city. Thanks for your time.
+
+[**(03:10:39)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11439s)
+
+
+
+Thank you so much for your testimony.
+
+[**(03:10:41)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11441s)
+
+
+
+Hi, good afternoon, Chair Sanchez and members of the committee. My name is Sydney Scott. I am a graduate student pursuing a master's in food systems. Thank you for the opportunity to testify and thank you to the City Council for restoring community composting funding in fiscal year 25 and continuing the funding for fiscal year 26. I am speaking today to strongly support ongoing stable funding for community composting through Council initiative funding for community composting.
+
+When Mayor Adams cut funding to community programs at DSNY, the City Council stepped in to save decades-old programs that supported community composting, composting education and outreach through New York City nonprofits. The ongoing support shows how composting impacts and engages the community. In my master's program, we discuss food waste often. Tackling the food waste issue can help our society in many ways, from easing hunger and food insecurity to mitigating climate change.
+
+But it was not the graduate education that taught me the value of composting. That came earlier from years of dropping off food scraps at green markets, volunteering at composting events throughout the city with organizations such as GrowNYC, and last year completing the master composter certification. All of this was possible because of City Council funding.
+
+Despite what the federal government claims, climate change is real and it impacts us all. Food sent to landfills produces methane, a much more potent greenhouse gas than CO2. Composting can help address this issue by saving tons of greenhouse gas emissions. Let us work together to keep fighting climate change. I urge the Council to continue funding community composting. Thank you.
+
+[**(03:12:17)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11537s)
+
+
+
+Thank you so much for your testimony and thank you to everyone on panel 3. Before we head completely to our Zoom testimony, I wanted to make sure there were no last folks in the room that wanted to testify that have not already put in a request with the sergeant-at-arms. Going once, going twice, sold. Now I would like to bring up Mary Arnold on Zoom, please.
+
+[**(03:13:01)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11581s)
+
+
+
+I am testifying.
+
+[**(03:13:04)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11584s)
+
+
+
+Hi. I am testifying for Civics United for Railroad Environmental Solutions, which formed in Queens in 2009 to address quality of life problems from antiquated freight locomotives and waste export by rail. The Department of Sanitation of New York kind of brags that 85% of waste exported from New York City is hauled at some point by freight rail. This budget supports that business as usual export to disposal. But exporting waste by rail instead of using a different transportation mode does not reduce the tonnage or toxicity of waste. It does not eliminate quality of life, health and environmental problems in neighborhoods within and outside New York City, where all that waste is tipped, processed, hauled, landfilled and incinerated. Using rail to export New York City's waste is nothing much to brag about.
+
+Capturing and diverting waste from export at the increased levels that are in DSNY's solid waste management plan draft would reduce neighborhood problems and really be something to brag about. Please shift existing funding to actions that support DSNY's 30% and 54% diversion goals instead of just business as usual funding of filthy, unhealthy waste export by rail.
+
+Why do I say filthy and unhealthy? With few exceptions, the locomotives that haul waste are high-polluting 1970s diesel technology. Especially during the warm weather months, municipal solid waste rail containers too often emit the stench rats love, because a third of the material in the black bag trash is organics. Construction and demolition debris can contain heavy metals, PCBs, asbestos and other toxics. Yet it is crushed, dumped and hauled in open-top rail cars with floor drains, resulting in emissions of toxic blowoff, leachate and gas.
+
+[**(03:15:10)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11710s)
+
+
+
+Your time is expired.
+
+[**(03:15:13)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11713s)
+
+
+
+Thank you. Thank you so much for your
+
+[**(03:15:14)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11714s)
+
+
+
+testimony and any of the testimony that you did not get to, you can please submit it and it will be saved in the written record.
+
+I have done so. Thank you.
+
+[**(03:15:26)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11726s)
+
+
+
+Thank you so much, Mary. Can we please have Claire Mifflin?
+
+You may begin.
+
+[**(03:15:34)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11734s)
+
+
+
+Hi, I am sorry I have lost my voice, but I am going to try and send it in as written as well. I am in support of waste containerization and community composting. But in waste containerization I have ideas of how it could be improved. Our sidewalks are covered in bins and managing them is expensive. Our recent report, the Hidden Cost of Trash, shows that small buildings pay over $100 per apartment per month to manage their waste, often just taking it from bins on the sidewalk across to the street. Our solution of shared on-street containers for trash, recycling and organics used directly by residents could clean up sidewalks, increase diversion rates and reduce operating costs.
+
+Large new buildings should not need empire bins. They should not be given hundreds of linear feet of curb space for permanent storage of their trash. Our solution, temporary rolling out of four-wheel bins that can be attached to the trash chutes, means porters no longer need to lift tons of plastic bags per week. This has been rolled out successfully in Hoboken as a pilot and is now being made permanent.
+
+Our report Curb Alert also looked at on-street commercial waste containerization and interviewed small businesses who said it was a problem for them to use these bins and have them permanently outside their storefronts, because people passing by or residents living above just put their waste in them. Haulers said it was hard for them to make money on routes with low volumes of organics as they have to charge less. Again, shared on-street containerization would help solve both of these problems and should be offered before DSNY starts fining small mom-and-pops for not separating organics when it is so tough for them and when the chains are not doing it themselves.
+
+I would also like to ensure community composting continues to be financed. It will have to be through the City Council in the next year or so, but I would love to see it baselined in DSNY once the contract
+
+[**(03:17:40)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11860s)
+
+
+
+Your time is expired.
+
+[**(03:17:42)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11862s)
+
+
+
+Thank you. I am done. Thank you so much for your testimony.
+
+[**(03:17:47)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11867s)
+
+
+
+Next, can we have Alex Stein?
+
+[**(03:17:54)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11874s)
+
+
+
+Thank you. Can you hear me? All right. I just want to start off by saying that I love Mayor Mamdani and I voted for him. I support him 100%. I like his wife and one thing — he handled all of the snow incredibly well. But he made a campaign promise that he was going to lower the prices of falafel. And I am going to be honest, I eat falafel every day. I am the plant-based pimp. And I feel like right now the prices are still pretty high because you are giving these people a lot of restrictions. So you need to reduce restrictions. So I wrote a little poem.
+
+Oh, forget that I ran mess. It is just sand and a bunch of stress. I am hyped. Chickpeas clash in a pit of spice delight. Peters pounding hard through the day and night. Mamdani, you are a brown king. Walking around with your anti-sem like a bomb. G Heidi vibes strong. Keep the passion calm. Mom D, you are my mom. Love those terrorists riding on the camel. I do not give a dang because your food truck has a handle to my heart. It makes me fart. If I am being real, I will accidentally... in the Apple Store because I am at the Genius Bar because I cracked my screen because a guy robbed me on the subway train. All I was doing was buying cocaine. Mamdani, you are the man. I am your number one fan.
+
+[**(03:19:59)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=11999s)
+
+
+
+Thank you.
+
+[**(03:20:00)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=12000s)
+
+
+
+Thank you for your testimony.
+
+[**(03:20:03)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=12003s)
+
+
+
+And with that, the preliminary budget hearing for the Committee on Sanitation and Solid Waste Management is officially closed.
