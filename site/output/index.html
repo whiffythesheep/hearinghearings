@@ -191,16 +191,166 @@
 </section>
 
 <section class="index-section">
-    <h2 class="section-heading">Hearings</h2>
+    <header class="index-section__header">
+        <h2 class="section-heading">Hearings</h2>
+        <label class="sr-only" for="hearing-search">Search hearings</label>
+        <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
+               placeholder="search" autocomplete="off">
+        <span class="hearing-controls__status">
+            <span id="hearing-count" aria-live="polite">Showing 22 of 22</span>
+            <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+        </span>
+    </header>
     <div class="listing-well">
         <ol class="hearing-index">
-            <li class="hearing-colheaders" aria-hidden="true">
-                <span class="hearing-row__date">Date</span>
-                <span class="hearing-row__committee">Committee</span>
+            <li class="hearing-colheaders">
+                <span class="hearing-row__date colheader-filter" data-filter-key="month">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Date
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-04">
+                            <span>April 2026</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-03">
+                            <span>March 2026</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-02">
+                            <span>February 2026</span>
+                        </label>
+                    
+                    </div>
+                </span>
+                <span class="hearing-row__committee colheader-filter" data-filter-key="committee">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Committee
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by committee" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Aging">
+                            <span>Committee on Aging</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Children and Youth">
+                            <span>Committee on Children and Youth</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Consumer and Worker Protection">
+                            <span>Committee on Consumer and Worker Protection</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Criminal Justice">
+                            <span>Committee on Criminal Justice</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Finance">
+                            <span>Committee on Finance</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on General Welfare">
+                            <span>Committee on General Welfare</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Governmental Operations, State &amp; Federal Legislation">
+                            <span>Committee on Governmental Operations, State &amp; Federal Legislation</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Health">
+                            <span>Committee on Health</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Higher Education">
+                            <span>Committee on Higher Education</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Hospitals">
+                            <span>Committee on Hospitals</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Housing and Buildings">
+                            <span>Committee on Housing and Buildings</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Immigration">
+                            <span>Committee on Immigration</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Land Use">
+                            <span>Committee on Land Use</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Mental Health and Substance Use">
+                            <span>Committee on Mental Health and Substance Use</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Oversight &amp; Investigations">
+                            <span>Committee on Oversight &amp; Investigations</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Parks and Recreation">
+                            <span>Committee on Parks and Recreation</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Public Housing">
+                            <span>Committee on Public Housing</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Sanitation and Solid Waste Management">
+                            <span>Committee on Sanitation and Solid Waste Management</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Transportation and Infrastructure">
+                            <span>Committee on Transportation and Infrastructure</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Workforce Development">
+                            <span>Committee on Workforce Development</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Subcommittee on Early Childhood Education">
+                            <span>Subcommittee on Early Childhood Education</span>
+                        </label>
+                    
+                    </div>
+                </span>
                 <span class="hearing-row__title">Hearing</span>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Health", "Committee on Oversight \u0026 Investigations", "Subcommittee on Early Childhood Education"]'
+                data-title="Child Care Program Background checks"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-health-child-care-program-background-checks/">
                     <time class="hearing-row__date" datetime="2026-04-22">
                         April 22, 2026
@@ -210,7 +360,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Children and Youth", "Committee on Mental Health and Substance Use", "Committee on Oversight \u0026 Investigations"]'
+                data-title="The Effects of Social Media Screen Time on Youth Mental Health"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-children-and-youth-the-effects-of-social-media-screen-time-on-youth-mental-health/">
                     <time class="hearing-row__date" datetime="2026-04-21">
                         April 21, 2026
@@ -220,7 +373,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Immigration", "Committee on Housing and Buildings"]'
+                data-title="Tenant Harassment against Immigrants and the Certification of No Harassment Program"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-immigration-tenant-harassment-against-immigrants-and-the-certification-of-no-harassment-program/">
                     <time class="hearing-row__date" datetime="2026-04-20">
                         April 20, 2026
@@ -230,7 +386,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Subcommittee on Early Childhood Education", "Committee on Workforce Development", "Committee on Higher Education"]'
+                data-title="Early Childhood Educator Workforce Development and Pipeline"
+                data-month="2026-04">
                 <a href="/hearings/subcommittee-on-early-childhood-education-early-childhood-educator-workforce-development-and-pipeline/">
                     <time class="hearing-row__date" datetime="2026-04-15">
                         April 15, 2026
@@ -240,7 +399,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Criminal Justice", "Committee on Governmental Operations, State \u0026 Federal Legislation"]'
+                data-title="Voting on Rikers Island"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-criminal-justice-voting-on-rikers-island/">
                     <time class="hearing-row__date" datetime="2026-04-14">
                         April 14, 2026
@@ -250,7 +412,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on General Welfare"]'
+                data-title="Food Insecurity in NYC"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-general-welfare-food-insecurity-in-nyc/">
                     <time class="hearing-row__date" datetime="2026-04-13">
                         April 13, 2026
@@ -260,7 +425,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Public Housing"]'
+                data-title="Oversight - Security Measures for NYCHA’s Vacant Apartments"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments/">
                     <time class="hearing-row__date" datetime="2026-04-10">
                         April 10, 2026
@@ -270,7 +438,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Consumer and Worker Protection"]'
+                data-title="Requiring the Licensing of Last-Mile Facilities"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities/">
                     <time class="hearing-row__date" datetime="2026-04-09">
                         April 9, 2026
@@ -280,7 +451,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Sanitation and Solid Waste Management"]'
+                data-title="Finalizing the City&#39;s Draft 2026-2036 Solid Waste Management Plan"
+                data-month="2026-04">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/">
                     <time class="hearing-row__date" datetime="2026-04-06">
                         April 6, 2026
@@ -290,7 +464,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Finance"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-finance-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-25">
                         March 25, 2026
@@ -300,7 +477,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Immigration"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-immigration-fy27-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-25">
                         March 25, 2026
@@ -310,7 +490,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Criminal Justice"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-criminal-justice-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-24">
                         March 24, 2026
@@ -320,7 +503,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Housing and Buildings"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-24">
                         March 24, 2026
@@ -330,7 +516,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Land Use"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-land-use-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-23">
                         March 23, 2026
@@ -340,7 +529,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Parks and Recreation"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-parks-and-recreation-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-23">
                         March 23, 2026
@@ -350,7 +542,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Consumer and Worker Protection"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-19">
                         March 19, 2026
@@ -360,7 +555,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Sanitation and Solid Waste Management"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-16">
                         March 16, 2026
@@ -370,7 +568,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Aging"]'
+                data-title="FY 2027 Preliminary Budget Hearing"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-aging-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-12">
                         March 12, 2026
@@ -380,7 +581,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Housing and Buildings"]'
+                data-title="Preserving Affordable Housing in Distress and the Third-Party Transfer Program"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/">
                     <time class="hearing-row__date" datetime="2026-03-09">
                         March 9, 2026
@@ -390,7 +594,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Transportation and Infrastructure"]'
+                data-title="Assessing the State of the NYC Streets Plan in 2026"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026/">
                     <time class="hearing-row__date" datetime="2026-03-03">
                         March 3, 2026
@@ -400,7 +607,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Hospitals"]'
+                data-title="Impacts of the Maimonides Health System and NYC H+H Merger"
+                data-month="2026-03">
                 <a href="/hearings/committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger/">
                     <time class="hearing-row__date" datetime="2026-03-02">
                         March 2, 2026
@@ -410,7 +620,10 @@
                 </a>
             </li>
         
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='["Committee on Housing and Buildings"]'
+                data-title="Oversight - Shared Housing in NYC"
+                data-month="2026-02">
                 <a href="/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/">
                     <time class="hearing-row__date" datetime="2026-02-09">
                         February 9, 2026
@@ -420,6 +633,7 @@
                 </a>
             </li>
         
+            <li class="hearing-empty" hidden>No hearings match.</li>
         </ol>
     </div>
 </section>
@@ -491,5 +705,158 @@
     <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v95037e5bac78f29ed026832ca21a7c7b" type="text/javascript"></script>
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
+    
+<script>
+    (function () {
+        var totalHearings = 22;
+        var searchInput = document.getElementById('hearing-search');
+        var clearBtn = document.getElementById('hearing-clear');
+        var countEl = document.getElementById('hearing-count');
+        var emptyEl = document.querySelector('.hearing-empty');
+        var rows = Array.prototype.slice.call(document.querySelectorAll('.hearing-row'));
+        var filterCells = Array.prototype.slice.call(document.querySelectorAll('.colheader-filter'));
+        var monthCell = document.querySelector('.colheader-filter[data-filter-key="month"]');
+        var committeeCell = document.querySelector('.colheader-filter[data-filter-key="committee"]');
+
+        var rowCommittees = rows.map(function (row) {
+            try { return JSON.parse(row.dataset.committees) || []; }
+            catch (e) { return []; }
+        });
+
+        function getChecked(cell) {
+            return Array.prototype.slice.call(
+                cell.querySelectorAll('input[type="checkbox"]:checked')
+            ).map(function (cb) { return cb.value; });
+        }
+
+        function setChecked(cell, values) {
+            var set = {};
+            values.forEach(function (v) { set[v] = true; });
+            Array.prototype.slice.call(cell.querySelectorAll('input[type="checkbox"]')).forEach(function (cb) {
+                cb.checked = !!set[cb.value];
+            });
+        }
+
+        function readURL() {
+            var params = new URLSearchParams(window.location.search);
+            searchInput.value = params.get('q') || '';
+            setChecked(monthCell, (params.get('month') || '').split(',').filter(Boolean));
+            setChecked(committeeCell, (params.get('committee') || '').split(',').filter(Boolean));
+        }
+
+        function buildQueryString() {
+            var params = new URLSearchParams();
+            if (searchInput.value.trim()) params.set('q', searchInput.value.trim());
+            var months = getChecked(monthCell);
+            if (months.length) params.set('month', months.join(','));
+            var committees = getChecked(committeeCell);
+            if (committees.length) params.set('committee', committees.join(','));
+            var qs = params.toString();
+            return qs ? ('?' + qs) : window.location.pathname;
+        }
+
+        function apply() {
+            var q = searchInput.value.trim().toLowerCase();
+            var selectedMonths = getChecked(monthCell);
+            var selectedCommittees = getChecked(committeeCell);
+            var visible = 0;
+            rows.forEach(function (row, i) {
+                var show = true;
+                if (selectedMonths.length && selectedMonths.indexOf(row.dataset.month) === -1) show = false;
+                if (show && selectedCommittees.length) {
+                    var match = false;
+                    for (var j = 0; j < rowCommittees[i].length; j++) {
+                        if (selectedCommittees.indexOf(rowCommittees[i][j]) !== -1) { match = true; break; }
+                    }
+                    if (!match) show = false;
+                }
+                if (show && q) {
+                    var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ')).toLowerCase();
+                    if (hay.indexOf(q) === -1) show = false;
+                }
+                row.hidden = !show;
+                if (show) visible++;
+            });
+            emptyEl.hidden = visible !== 0;
+            monthCell.classList.toggle('is-active', selectedMonths.length > 0);
+            committeeCell.classList.toggle('is-active', selectedCommittees.length > 0);
+            filterCells.forEach(function (cell) {
+                var pc = cell.querySelector('.colheader-filter__popover-clear');
+                if (pc) pc.hidden = getChecked(cell).length === 0;
+            });
+            var anyFilter = q || selectedMonths.length || selectedCommittees.length;
+            clearBtn.hidden = !anyFilter;
+            countEl.textContent = 'Showing ' + visible + ' of ' + totalHearings;
+        }
+
+        function closeAllPopovers() {
+            filterCells.forEach(function (cell) {
+                cell.querySelector('.colheader-filter__popover').hidden = true;
+                cell.querySelector('.colheader-filter__trigger').setAttribute('aria-expanded', 'false');
+            });
+        }
+
+        filterCells.forEach(function (cell) {
+            var trigger = cell.querySelector('.colheader-filter__trigger');
+            var popover = cell.querySelector('.colheader-filter__popover');
+            trigger.addEventListener('click', function (ev) {
+                ev.stopPropagation();
+                var willOpen = popover.hidden;
+                closeAllPopovers();
+                if (willOpen) {
+                    popover.hidden = false;
+                    trigger.setAttribute('aria-expanded', 'true');
+                }
+            });
+            popover.addEventListener('click', function (ev) {
+                ev.stopPropagation();
+            });
+            popover.addEventListener('change', function () {
+                history.pushState(null, '', buildQueryString());
+                apply();
+            });
+            var popoverClear = popover.querySelector('.colheader-filter__popover-clear');
+            if (popoverClear) {
+                popoverClear.addEventListener('click', function (ev) {
+                    ev.stopPropagation();
+                    setChecked(cell, []);
+                    history.pushState(null, '', buildQueryString());
+                    apply();
+                });
+            }
+        });
+
+        document.addEventListener('click', closeAllPopovers);
+        document.addEventListener('keydown', function (ev) {
+            if (ev.key === 'Escape') closeAllPopovers();
+        });
+
+        var searchTimer;
+        searchInput.addEventListener('input', function () {
+            apply();
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(function () {
+                history.replaceState(null, '', buildQueryString());
+            }, 150);
+        });
+
+        clearBtn.addEventListener('click', function () {
+            searchInput.value = '';
+            setChecked(monthCell, []);
+            setChecked(committeeCell, []);
+            history.pushState(null, '', window.location.pathname);
+            apply();
+        });
+
+        window.addEventListener('popstate', function () {
+            readURL();
+            apply();
+        });
+
+        readURL();
+        apply();
+    })();
+</script>
+
 </body>
 </html>

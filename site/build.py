@@ -87,11 +87,17 @@ def load_content():
         summary_md = promote_section_headings(summary_md)
 
         date_str = meta.get("date", "")
+        month = date_str[:7] if len(date_str) >= 7 else ""
         try:
             date_obj = datetime.strptime(date_str, "%Y-%m-%d")
             date_display = f"{date_obj.strftime('%B')} {date_obj.day}, {date_obj.year}"
+            month_label = f"{date_obj.strftime('%B')} {date_obj.year}"
         except (ValueError, AttributeError):
             date_display = date_str
+            month_label = month
+
+        committee_str = meta.get("committee", "")
+        committee_list = [c.strip() for c in committee_str.split(" | ") if c.strip()]
 
         summary_plain = re.sub(r"^#{1,6}\s+.*$", "", summary_md, flags=re.MULTILINE)
         summary_plain = re.sub(r"[*_\[\]\(\)`>]", "", summary_plain)
@@ -99,11 +105,14 @@ def load_content():
 
         hearings.append(
             {
-                "committee": meta.get("committee", ""),
+                "committee": committee_str,
+                "committee_list": committee_list,
                 "committee_slug": meta.get("committee_slug", ""),
                 "title": meta.get("title", filename),
                 "date": date_str,
                 "date_display": date_display,
+                "month": month,
+                "month_label": month_label,
                 "slug": meta.get("slug", filename.replace(".md", "")),
                 "duration": meta.get("duration", ""),
                 "youtube_url": meta.get("youtube_url", ""),
@@ -137,10 +146,23 @@ def build():
 
     hearings = load_content()
 
+    # Filter facets for the index controls
+    all_committees = sorted({c for h in hearings for c in h["committee_list"]})
+    seen_months = {}
+    for h in hearings:
+        if h["month"] and h["month"] not in seen_months:
+            seen_months[h["month"]] = h["month_label"]
+    all_months = [
+        {"value": v, "label": seen_months[v]}
+        for v in sorted(seen_months.keys(), reverse=True)
+    ]
+
     # Build index page
     index_template = env.get_template("index.html")
     index_html = index_template.render(
         hearings=hearings,
+        committees=all_committees,
+        months=all_months,
         meta_title="Hearing Hearings",
         meta_description="Summaries and transcripts of New York City Council hearings.",
         meta_url=f"{SITE_URL}/",
