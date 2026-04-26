@@ -156,16 +156,56 @@
 </section>
 
 <section class="index-section">
-    <h2 class="section-heading">Hearings</h2>
+    <header class="index-section__header">
+        <h2 class="section-heading">Hearings</h2>
+        <label class="sr-only" for="hearing-search">Search hearings</label>
+        <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
+               placeholder="search" autocomplete="off">
+        <span class="hearing-controls__status">
+            <span id="hearing-count" aria-live="polite">Showing {{ hearings|length }} of {{ hearings|length }}</span>
+            <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+        </span>
+    </header>
     <div class="listing-well">
         <ol class="hearing-index">
-            <li class="hearing-colheaders" aria-hidden="true">
-                <span class="hearing-row__date">Date</span>
-                <span class="hearing-row__committee">Committee</span>
+            <li class="hearing-colheaders">
+                <span class="hearing-row__date colheader-filter" data-filter-key="month">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Date
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    {% for month in months %}
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="{{ month.value }}">
+                            <span>{{ month.label }}</span>
+                        </label>
+                    {% endfor %}
+                    </div>
+                </span>
+                <span class="hearing-row__committee colheader-filter" data-filter-key="committee">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Committee
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by committee" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    {% for committee in committees %}
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="{{ committee }}">
+                            <span>{{ committee }}</span>
+                        </label>
+                    {% endfor %}
+                    </div>
+                </span>
                 <span class="hearing-row__title">Hearing</span>
             </li>
         {% for hearing in hearings %}
-            <li class="hearing-row">
+            <li class="hearing-row"
+                data-committees='{{ hearing.committee_list|tojson }}'
+                data-title="{{ hearing.title }}"
+                data-month="{{ hearing.month }}">
                 <a href="/hearings/{{ hearing.slug }}/">
                     <time class="hearing-row__date" datetime="{{ hearing.date }}">
                         {{ hearing.date_display }}
@@ -175,7 +215,162 @@
                 </a>
             </li>
         {% endfor %}
+            <li class="hearing-empty" hidden>No hearings match.</li>
         </ol>
     </div>
 </section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    (function () {
+        var totalHearings = {{ hearings|length }};
+        var searchInput = document.getElementById('hearing-search');
+        var clearBtn = document.getElementById('hearing-clear');
+        var countEl = document.getElementById('hearing-count');
+        var emptyEl = document.querySelector('.hearing-empty');
+        var rows = Array.prototype.slice.call(document.querySelectorAll('.hearing-row'));
+        var filterCells = Array.prototype.slice.call(document.querySelectorAll('.colheader-filter'));
+        var monthCell = document.querySelector('.colheader-filter[data-filter-key="month"]');
+        var committeeCell = document.querySelector('.colheader-filter[data-filter-key="committee"]');
+
+        var rowCommittees = rows.map(function (row) {
+            try { return JSON.parse(row.dataset.committees) || []; }
+            catch (e) { return []; }
+        });
+
+        function getChecked(cell) {
+            return Array.prototype.slice.call(
+                cell.querySelectorAll('input[type="checkbox"]:checked')
+            ).map(function (cb) { return cb.value; });
+        }
+
+        function setChecked(cell, values) {
+            var set = {};
+            values.forEach(function (v) { set[v] = true; });
+            Array.prototype.slice.call(cell.querySelectorAll('input[type="checkbox"]')).forEach(function (cb) {
+                cb.checked = !!set[cb.value];
+            });
+        }
+
+        function readURL() {
+            var params = new URLSearchParams(window.location.search);
+            searchInput.value = params.get('q') || '';
+            setChecked(monthCell, (params.get('month') || '').split(',').filter(Boolean));
+            setChecked(committeeCell, (params.get('committee') || '').split(',').filter(Boolean));
+        }
+
+        function buildQueryString() {
+            var params = new URLSearchParams();
+            if (searchInput.value.trim()) params.set('q', searchInput.value.trim());
+            var months = getChecked(monthCell);
+            if (months.length) params.set('month', months.join(','));
+            var committees = getChecked(committeeCell);
+            if (committees.length) params.set('committee', committees.join(','));
+            var qs = params.toString();
+            return qs ? ('?' + qs) : window.location.pathname;
+        }
+
+        function apply() {
+            var q = searchInput.value.trim().toLowerCase();
+            var selectedMonths = getChecked(monthCell);
+            var selectedCommittees = getChecked(committeeCell);
+            var visible = 0;
+            rows.forEach(function (row, i) {
+                var show = true;
+                if (selectedMonths.length && selectedMonths.indexOf(row.dataset.month) === -1) show = false;
+                if (show && selectedCommittees.length) {
+                    var match = false;
+                    for (var j = 0; j < rowCommittees[i].length; j++) {
+                        if (selectedCommittees.indexOf(rowCommittees[i][j]) !== -1) { match = true; break; }
+                    }
+                    if (!match) show = false;
+                }
+                if (show && q) {
+                    var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ')).toLowerCase();
+                    if (hay.indexOf(q) === -1) show = false;
+                }
+                row.hidden = !show;
+                if (show) visible++;
+            });
+            emptyEl.hidden = visible !== 0;
+            monthCell.classList.toggle('is-active', selectedMonths.length > 0);
+            committeeCell.classList.toggle('is-active', selectedCommittees.length > 0);
+            filterCells.forEach(function (cell) {
+                var pc = cell.querySelector('.colheader-filter__popover-clear');
+                if (pc) pc.hidden = getChecked(cell).length === 0;
+            });
+            var anyFilter = q || selectedMonths.length || selectedCommittees.length;
+            clearBtn.hidden = !anyFilter;
+            countEl.textContent = 'Showing ' + visible + ' of ' + totalHearings;
+        }
+
+        function closeAllPopovers() {
+            filterCells.forEach(function (cell) {
+                cell.querySelector('.colheader-filter__popover').hidden = true;
+                cell.querySelector('.colheader-filter__trigger').setAttribute('aria-expanded', 'false');
+            });
+        }
+
+        filterCells.forEach(function (cell) {
+            var trigger = cell.querySelector('.colheader-filter__trigger');
+            var popover = cell.querySelector('.colheader-filter__popover');
+            trigger.addEventListener('click', function (ev) {
+                ev.stopPropagation();
+                var willOpen = popover.hidden;
+                closeAllPopovers();
+                if (willOpen) {
+                    popover.hidden = false;
+                    trigger.setAttribute('aria-expanded', 'true');
+                }
+            });
+            popover.addEventListener('click', function (ev) {
+                ev.stopPropagation();
+            });
+            popover.addEventListener('change', function () {
+                history.pushState(null, '', buildQueryString());
+                apply();
+            });
+            var popoverClear = popover.querySelector('.colheader-filter__popover-clear');
+            if (popoverClear) {
+                popoverClear.addEventListener('click', function (ev) {
+                    ev.stopPropagation();
+                    setChecked(cell, []);
+                    history.pushState(null, '', buildQueryString());
+                    apply();
+                });
+            }
+        });
+
+        document.addEventListener('click', closeAllPopovers);
+        document.addEventListener('keydown', function (ev) {
+            if (ev.key === 'Escape') closeAllPopovers();
+        });
+
+        var searchTimer;
+        searchInput.addEventListener('input', function () {
+            apply();
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(function () {
+                history.replaceState(null, '', buildQueryString());
+            }, 150);
+        });
+
+        clearBtn.addEventListener('click', function () {
+            searchInput.value = '';
+            setChecked(monthCell, []);
+            setChecked(committeeCell, []);
+            history.pushState(null, '', window.location.pathname);
+            apply();
+        });
+
+        window.addEventListener('popstate', function () {
+            readURL();
+            apply();
+        });
+
+        readURL();
+        apply();
+    })();
+</script>
 {% endblock %}
