@@ -918,6 +918,105 @@ body.desktop {
     }
 }
 
+/* ---------- Pagination ---------- */
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    margin-top: 1rem;
+}
+
+.pagination[hidden] {
+    display: none;
+}
+
+.pagination__pages {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    justify-content: center;
+}
+
+.pagination__btn,
+.pagination__page {
+    appearance: none;
+    background: var(--chrome-gray);
+    color: var(--text);
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    padding: 4px 12px;
+    cursor: pointer;
+    border-top: 2px solid var(--bevel-light);
+    border-left: 2px solid var(--bevel-light);
+    border-right: 2px solid var(--bevel-darker);
+    border-bottom: 2px solid var(--bevel-darker);
+    transition: background 0.1s ease, color 0.1s ease;
+}
+
+.pagination__page {
+    min-width: 2rem;
+    text-align: center;
+}
+
+.pagination--top {
+    margin-top: 0;
+    gap: 0.3rem;
+    order: 2;
+}
+
+.pagination--top .pagination__btn {
+    padding: 2px 8px;
+    font-size: 11px;
+}
+
+.pagination__btn:hover:not(:disabled),
+.pagination__page:hover:not(.is-current) {
+    background: var(--bevel-mid);
+    color: var(--accent);
+}
+
+.pagination__btn:active:not(:disabled),
+.pagination__page:active:not(.is-current),
+.pagination__page.is-current {
+    border-top: 2px solid var(--bevel-darker);
+    border-left: 2px solid var(--bevel-darker);
+    border-right: 2px solid var(--bevel-light);
+    border-bottom: 2px solid var(--bevel-light);
+    background: #ece9de;
+}
+
+.pagination__page.is-current {
+    color: var(--accent);
+    font-weight: 600;
+    cursor: default;
+}
+
+.pagination__btn:disabled {
+    color: var(--text-muted);
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.pagination__btn:focus-visible,
+.pagination__page:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: -2px;
+}
+
+@media (max-width: 640px) {
+    .pagination {
+        gap: 0.3rem;
+    }
+    .pagination__btn,
+    .pagination__page {
+        padding: 4px 10px;
+    }
+}
+
 /* ---------- Subscribe panel ---------- */
 .sr-only {
     position: absolute;

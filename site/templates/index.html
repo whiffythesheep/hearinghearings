@@ -165,6 +165,10 @@
             <span id="hearing-count" aria-live="polite">Showing {{ hearings|length }} of {{ hearings|length }}</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
+        <nav class="pagination pagination--top" aria-label="Pages" hidden>
+            <button type="button" class="pagination__btn" data-page-rel="prev" aria-label="Previous page">‹ Prev</button>
+            <button type="button" class="pagination__btn" data-page-rel="next" aria-label="Next page">Next ›</button>
+        </nav>
     </header>
     <div class="listing-well">
         <ol class="hearing-index">
@@ -218,21 +222,32 @@
             <li class="hearing-empty" hidden>No hearings match.</li>
         </ol>
     </div>
+    <nav class="pagination" id="pagination" aria-label="Pages" hidden>
+        <button type="button" class="pagination__btn" data-page-rel="prev" aria-label="Previous page">‹ Prev</button>
+        <span class="pagination__pages" id="pagination-pages"></span>
+        <button type="button" class="pagination__btn" data-page-rel="next" aria-label="Next page">Next ›</button>
+    </nav>
 </section>
 {% endblock %}
 
 {% block extra_scripts %}
 <script>
     (function () {
+        var PAGE_SIZE = 20;
         var totalHearings = {{ hearings|length }};
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
         var emptyEl = document.querySelector('.hearing-empty');
+        var paginationEls = Array.prototype.slice.call(document.querySelectorAll('.pagination'));
+        var paginationPagesEl = document.getElementById('pagination-pages');
+        var prevBtns = Array.prototype.slice.call(document.querySelectorAll('.pagination [data-page-rel="prev"]'));
+        var nextBtns = Array.prototype.slice.call(document.querySelectorAll('.pagination [data-page-rel="next"]'));
         var rows = Array.prototype.slice.call(document.querySelectorAll('.hearing-row'));
         var filterCells = Array.prototype.slice.call(document.querySelectorAll('.colheader-filter'));
         var monthCell = document.querySelector('.colheader-filter[data-filter-key="month"]');
         var committeeCell = document.querySelector('.colheader-filter[data-filter-key="committee"]');
+        var currentPage = 1;
 
         var rowCommittees = rows.map(function (row) {
             try { return JSON.parse(row.dataset.committees) || []; }
@@ -258,6 +273,8 @@
             searchInput.value = params.get('q') || '';
             setChecked(monthCell, (params.get('month') || '').split(',').filter(Boolean));
             setChecked(committeeCell, (params.get('committee') || '').split(',').filter(Boolean));
+            var pageParam = parseInt(params.get('page'), 10);
+            currentPage = (pageParam && pageParam > 0) ? pageParam : 1;
         }
 
         function buildQueryString() {
@@ -267,15 +284,35 @@
             if (months.length) params.set('month', months.join(','));
             var committees = getChecked(committeeCell);
             if (committees.length) params.set('committee', committees.join(','));
+            if (currentPage > 1) params.set('page', String(currentPage));
             var qs = params.toString();
             return qs ? ('?' + qs) : window.location.pathname;
+        }
+
+        function renderPagination(totalFiltered, pageCount) {
+            if (totalFiltered <= PAGE_SIZE) {
+                paginationEls.forEach(function (el) { el.hidden = true; });
+                paginationPagesEl.innerHTML = '';
+                return;
+            }
+            paginationEls.forEach(function (el) { el.hidden = false; });
+            prevBtns.forEach(function (b) { b.disabled = currentPage <= 1; });
+            nextBtns.forEach(function (b) { b.disabled = currentPage >= pageCount; });
+            var html = '';
+            for (var p = 1; p <= pageCount; p++) {
+                var classes = 'pagination__page' + (p === currentPage ? ' is-current' : '');
+                var ariaCurrent = p === currentPage ? ' aria-current="page"' : '';
+                html += '<button type="button" class="' + classes + '" data-page="' + p + '" aria-label="Page ' + p + '"' + ariaCurrent + '>' + p + '</button>';
+            }
+            paginationPagesEl.innerHTML = html;
         }
 
         function apply() {
             var q = searchInput.value.trim().toLowerCase();
             var selectedMonths = getChecked(monthCell);
             var selectedCommittees = getChecked(committeeCell);
-            var visible = 0;
+            var filterMatches = new Array(rows.length);
+            var totalFiltered = 0;
             rows.forEach(function (row, i) {
                 var show = true;
                 if (selectedMonths.length && selectedMonths.indexOf(row.dataset.month) === -1) show = false;
@@ -290,10 +327,34 @@
                     var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ')).toLowerCase();
                     if (hay.indexOf(q) === -1) show = false;
                 }
-                row.hidden = !show;
-                if (show) visible++;
+                filterMatches[i] = show;
+                if (show) totalFiltered++;
             });
-            emptyEl.hidden = visible !== 0;
+
+            var pageCount = Math.max(1, Math.ceil(totalFiltered / PAGE_SIZE));
+            var clamped = false;
+            if (currentPage > pageCount) { currentPage = pageCount; clamped = true; }
+            if (currentPage < 1) { currentPage = 1; clamped = true; }
+
+            var startIdx = (currentPage - 1) * PAGE_SIZE;
+            var endIdx = startIdx + PAGE_SIZE;
+            var matchedSeen = 0;
+            var firstShown = null;
+            var lastShown = null;
+            rows.forEach(function (row, i) {
+                var inPage = false;
+                if (filterMatches[i]) {
+                    if (matchedSeen >= startIdx && matchedSeen < endIdx) {
+                        inPage = true;
+                        if (firstShown === null) firstShown = matchedSeen + 1;
+                        lastShown = matchedSeen + 1;
+                    }
+                    matchedSeen++;
+                }
+                row.hidden = !inPage;
+            });
+
+            emptyEl.hidden = totalFiltered !== 0;
             monthCell.classList.toggle('is-active', selectedMonths.length > 0);
             committeeCell.classList.toggle('is-active', selectedCommittees.length > 0);
             filterCells.forEach(function (cell) {
@@ -302,7 +363,31 @@
             });
             var anyFilter = q || selectedMonths.length || selectedCommittees.length;
             clearBtn.hidden = !anyFilter;
-            countEl.textContent = 'Showing ' + visible + ' of ' + totalHearings;
+
+            if (totalFiltered === 0) {
+                countEl.textContent = 'Showing 0 of ' + totalHearings;
+            } else if (totalFiltered <= PAGE_SIZE) {
+                countEl.textContent = 'Showing ' + totalFiltered + ' of ' + totalHearings;
+            } else {
+                countEl.textContent = 'Showing ' + firstShown + '–' + lastShown + ' of ' + totalFiltered;
+            }
+
+            renderPagination(totalFiltered, pageCount);
+
+            if (clamped) {
+                history.replaceState(null, '', buildQueryString());
+            }
+        }
+
+        function gotoPage(p) {
+            currentPage = p;
+            history.pushState(null, '', buildQueryString());
+            apply();
+            var well = document.querySelector('.listing-well');
+            if (well) {
+                var top = well.getBoundingClientRect().top + window.pageYOffset - 16;
+                window.scrollTo(0, top);
+            }
         }
 
         function closeAllPopovers() {
@@ -328,6 +413,7 @@
                 ev.stopPropagation();
             });
             popover.addEventListener('change', function () {
+                currentPage = 1;
                 history.pushState(null, '', buildQueryString());
                 apply();
             });
@@ -336,6 +422,7 @@
                 popoverClear.addEventListener('click', function (ev) {
                     ev.stopPropagation();
                     setChecked(cell, []);
+                    currentPage = 1;
                     history.pushState(null, '', buildQueryString());
                     apply();
                 });
@@ -349,6 +436,7 @@
 
         var searchTimer;
         searchInput.addEventListener('input', function () {
+            currentPage = 1;
             apply();
             clearTimeout(searchTimer);
             searchTimer = setTimeout(function () {
@@ -360,8 +448,24 @@
             searchInput.value = '';
             setChecked(monthCell, []);
             setChecked(committeeCell, []);
-            history.pushState(null, '', window.location.pathname);
+            currentPage = 1;
+            history.pushState(null, '', buildQueryString());
             apply();
+        });
+
+        paginationEls.forEach(function (el) {
+            el.addEventListener('click', function (ev) {
+                var target = ev.target.closest && ev.target.closest('button');
+                if (!target || target.disabled) return;
+                if (target.dataset.pageRel === 'prev') {
+                    if (currentPage > 1) gotoPage(currentPage - 1);
+                } else if (target.dataset.pageRel === 'next') {
+                    gotoPage(currentPage + 1);
+                } else if (target.dataset.page) {
+                    var p = parseInt(target.dataset.page, 10);
+                    if (p && p !== currentPage) gotoPage(p);
+                }
+            });
         });
 
         window.addEventListener('popstate', function () {
