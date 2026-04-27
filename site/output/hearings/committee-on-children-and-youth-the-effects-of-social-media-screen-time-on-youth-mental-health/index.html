@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Children and Youth, jointly with the Committees on Mental Health and Substance Use and on Oversight and Investigations, held an oversight hearing on the effects of social media and screen time on youth mental health, alongside consideration of four bills. Testimony came primarily from the Department of Health and Mental Hygiene (DOHMH) and the Department of Youth and Community Development (DYCD).</p>
 <p>The health testimony was substantive and, by government standards, relatively candid. DOHMH officials walked through survey data showing that over 73% of NYC public middle school students and 76% of high school students use social media several times a day. They drew a careful distinction between active, goal-directed social media use, which is associated with more positive mental health outcomes, and passive, feed-scrolling consumption, which correlates with depression, anxiety, and body image disorders. They were notably careful to resist the language of addiction in favor of "problematic use," while acknowledging that the clinical field has not yet developed a formal diagnostic category or widespread screening infrastructure for this issue. A 2023 longitudinal study was cited showing that habitual social media checking measurably altered adolescent brain development, increasing amygdala reactivity and reducing self-regulation. The hearing also surfaced the platform design dynamic driving these harms: variable reward schedules, infinite scroll, and algorithmically curated idealized content are explicitly engineered to exploit adolescent neurodevelopment. DOHMH was asked directly why social media companies would want to hook children who are not primary consumers, and wisely declined to speculate beyond their public health remit.</p>
 <p>On the legislative agenda, Int 0450-2026, which would restrict youth under 17 to one hour per day of social media, drew skepticism from DOHMH, which acknowledged there is no clinical study specifically validating the one-hour threshold. Int 0451-2026, requiring a report on social media's mental health impacts co-produced by DYCD and DOH, was endorsed by both agencies with caveats about capacity, prompting Chair Stevens to translate the diplomatic hedging as support and announce she would add ACS and DOE to the bill's scope. Int 0660-2026, requiring a study of youth altercations and their associated online activity, was the most contested bill of the hearing. CM Caban raised serious concerns that it would create a mass surveillance database reaching over 400,000 youth across 1,000-plus DYCD programs and several hundred ONS programs, with inadequate privacy protections, undefined data retention and access rules, and a real risk that prosecutors or immigration enforcement could exploit the data. DYCD estimated implementation costs at roughly $5 million, expressed clear opposition, and the chair noted that the bill's sponsor, Deputy Speaker Williams, was open to significant amendments. Int 0801-2026, on creating early childhood education apprenticeships within summer youth employment, was broadly supported by DYCD but raised concerns about the six-week SYP timeframe as a vehicle for meaningful career pathways, with DYCD advocating for the year-round Work, Learn and Grow model instead. Chair Stevens used DYCD's own testimony as an argument for full-year youth employment programming.</p>
@@ -120,10 +123,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=u4eW5OzzLfQ&amp;t=2288s"><strong>(00:38:08)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=u4eW5OzzLfQ&amp;t=2288s"><strong>(00:38:08)</strong></a></p>
 <p>Amount of time on screens is how youth are using their time on screens. So what type of activities they are engaged in, and whether those are more active or more passive activities, really can have an impact on whether it is affecting their mental health.</p>
 <blockquote>
 <blockquote>
@@ -413,8 +418,9 @@
 <p>Absolutely. Do you have any questions? Okay. Do you have any more?</p>
 <p><a href="https://www.youtube.com/watch?v=u4eW5OzzLfQ&amp;t=7609s"><strong>(02:06:49)</strong></a></p>
 <p>Nope.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -442,7 +448,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -487,5 +493,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - The Effects of Social Media Screen Time on Youth Mental Health";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

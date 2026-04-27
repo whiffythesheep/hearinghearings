@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Public Housing Committee held an oversight hearing on security measures for NYCHA's vacant apartments, focusing on a Department of Investigation report that found over 600 units had been illegally occupied by squatters due to inadequate security protocols. Chair Chris Banks opened with familiar themes of NYCHA dysfunction, noting that 6,000+ vacant units sit empty while 165,000 families languish on waiting lists and 74 senior executives collectively earn nearly $15 million annually.</p>
 <p>NYCHA officials arrived with their usual mix of defensive statistics and promises of improvement. They claimed progress on turnover times (down from 425 days to 340 days) and move-ins (up 76% since 2023), while maintaining their 4.7% vacancy rate beats the national average. The agency accepted all five DOI recommendations, including monthly inspections of vacant units, though their implementation timeline remained characteristically vague beyond "end of year" for IT system improvements. Officials blamed environmental abatement requirements for delays, noting that 80% of vacant apartments contain asbestos and require costly remediation averaging $25,000 per unit.</p>
 <p>The most substantive debate emerged around NYCHA's collaboration with NYPD to remove unauthorized occupants from 548 apartments since 2022. Legal advocates argued this process circumvents proper eviction procedures and violates due process rights, while NYCHA maintained that 61% of cases resulted in no arrests and most involved clear trespassers rather than residents with legitimate claims. The discussion revealed concerning gaps in oversight of RAD-converted developments, where 1,700 vacant units exist under private management with unclear security protocols.</p>
@@ -161,10 +164,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=drXDV4vo8IU&amp;t=8s"><strong>(00:00:08)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=drXDV4vo8IU&amp;t=8s"><strong>(00:00:08)</strong></a></p>
 <p>At this point in time, is anybody ready to approach the front desk? Is chair ready when you are?</p>
 <p><a href="https://www.youtube.com/watch?v=drXDV4vo8IU&amp;t=18s"><strong>(00:00:18)</strong></a></p>
 <p>Good morning and welcome to today's committee hearing on public housing. I am CM Chris Banks, chair of the Public Housing Committee, and I am joined by my colleagues CM Marte and CM Elsie Encarnación. We are here today to conduct an oversight hearing on NYCHA's security practices for vacant apartments and to examine the authority's failure to properly secure those units. That failure has had real consequences, putting residents' safety at risk, delaying access to housing and undermining public trust.</p>
@@ -823,8 +828,9 @@
 </blockquote>
 <p>At that time, they had a law that said you want to be a city worker, you have to be a city resident. They changed that law under Mayor Wagner. We suggested that concept right there when we made the presentation more than 40 years ago because the only reason why the City is not privatizing NYCHA yet is they do not know what to do with the workforce. We said straight up front we the tenants, a number of people agree with me, take it over and run ourselves. That management office will become our bank and insurance company. Every apartment becomes a share which will eliminate the homeless situation. You will own all the businesses because every housing development has a laundromat which is now closed. I used to manage a laundromat and I know the kind of money that flows through that laundromat which will take care of a whole lot of expenses. Not only that, everybody who works there will live there. You will establish your own school to train your own workforce. The money will stay there and circulate because I look around and see all these job businesses opening up and none of them invest in a public housing development. I say unto you the best thing you can do with public housing right now is turn it over to the tenants to run themselves and the money will stay there and will eliminate a whole lot of homelessness. Why is that? How the heck are you going to build a jail &gt;&gt; 30 seconds to wrap it up, sir.</p>
 <p>three blocks from two elementary schools in the midst of at least four public housing developments in the Bronx. You allowed that to materialize. I am glad that vote is gone. But the money needs to be invested in public housing because if the United States or North America can rebuild Europe and Japan after World War II, charity begins at home. They definitely could take that same money under what they call the Marshall Plan and put it right here in New York City because Wall Street is right down the block. You all have a blessed day because the money</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -852,7 +858,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -897,5 +903,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Oversight - Security Measures for NYCHA\u2019s Vacant Apartments";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

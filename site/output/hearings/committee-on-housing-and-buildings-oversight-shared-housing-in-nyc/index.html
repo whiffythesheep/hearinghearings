@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Housing and Buildings Committee held an oversight hearing on shared housing in NYC and reviewed six pieces of legislation addressing various housing and building issues. The centerpiece was Int 0066, sponsored by CM Maloney, which would legalize shared housing arrangements - essentially modern rooming houses where tenants rent individual bedrooms with shared common areas. HPD's Michael Sandler testified that this addresses the housing shortage by creating more affordable options than traditional studios, which now cost around $4,000 monthly in Manhattan. The legislation only applies to new construction and office conversions, not existing apartment buildings, and requires proper safety measures including sprinkler systems and professional management.</p>
 <p>Chair Sanchez pressed HPD on enforcement mechanisms and tenant protections, with officials confirming that shared housing tenants would have individual leases, access to right to counsel in evictions, and rent stabilization protections where applicable. HPD anticipates the units will primarily serve young professionals and new New Yorkers, though they emphasized this won't replace family-sized housing since existing apartments cannot be converted. The committee also examined Int 0071 requiring property owners to replace city trees damaged by scaffolding, with Parks Department representative Matt Doyle noting that tree replacement costs several thousand dollars and incidents affect roughly 100-150 trees annually out of 670,000 citywide.</p>
 <p>A significant portion focused on Int 0271, which would require HPD to initiate Article 7-A proceedings for properties with vacate orders. This stemmed from Chair Sanchez's frustration with a recent fire response in her district at 2264 Grand Avenue, where communication breakdowns left displaced tenants in sub-zero temperatures without clear guidance. HPD Deputy Commissioner pushed back against mandatory 7-A proceedings, arguing they're excessive for most cases where owners comply reasonably, though acknowledging stronger tools are needed for bad actors like those behind the Wallace Avenue and Heath Avenue building disasters.</p>
@@ -98,10 +101,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=S4lWF_p0gwE&amp;t=0s"><strong>(00:00:00)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=S4lWF_p0gwE&amp;t=0s"><strong>(00:00:00)</strong></a></p>
 <p>Senior Legislative Council analyst Spencer and data scientist. Before I turn to my committee, I also just want to take a moment because you are two of the agencies that are working the hardest for everything that you are doing. Thank you for everything that you are doing to respond to the heat complaints that I know have skyrocketed over time. We appreciate all of the overtime.</p>
 <p>We are joined today by my committee members. Sorry, Carolyn. Sorry. It is babies. Sorry. Blame the babies, right? Poor babies. Always blame the babies. CM Hudson. Oh my gosh, I am sorry. Oh my gosh. CM Salaam. He goes right before me on the out. My apologies. I love you colleagues. You are all the best.</p>
 <p>Before we turn to the administration's testimony, we are going to turn it to her leg. Who is going to speak on her legislation.</p>
@@ -240,8 +245,9 @@
 <p>Thank you chair.</p>
 <p><a href="https://www.youtube.com/watch?v=S4lWF_p0gwE&amp;t=3758s"><strong>(01:02:38)</strong></a></p>
 <p>Thank you.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -269,7 +275,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -314,5 +320,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Oversight - Shared Housing in NYC";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

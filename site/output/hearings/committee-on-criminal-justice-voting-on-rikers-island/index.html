@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Criminal Justice, jointly with the Committee on Governmental Operations, State and Federal Legislation, held an oversight hearing on voting access for incarcerated individuals on Rikers Island, alongside consideration of two bills. Int 0786-2026, sponsored by Chair Brooks-Powers and co-sponsored by Public Advocate Jumaane Williams, would require the Department of Correction to work with the Board of Elections to establish ballot curing procedures and report on outcomes. Int 0797-2026, sponsored by Williams, would mandate annual reporting on voter registration and voting activity inside city jails. Neither bill was voted on; the hearing was investigative and legislative groundwork.</p>
 <p>The core problem, which nobody disputed, is straightforward and damning: of roughly 6,700 people currently held on Rikers, the vast majority are legally eligible to vote, yet in the 2025 general election only 621 ballots were requested and 335 were counted. Pre-trial detainees and those serving misdemeanor sentences retain full voting rights under New York law, but the combination of a cumbersome absentee-only process, slow mail, a single DOC staff member historically responsible for ballot logistics, volunteer access restrictions, fluid population turnover, and inadequate coordination between DOC and the Board of Elections has produced what amounts to functional disenfranchisement. Public Advocate Williams drew the Jim Crow parallel explicitly and made the point that if any other group of New Yorkers were systematically unable to exercise a legal right, the response would be immediate.</p>
 <p>DOC Deputy Commissioner Nell Cologne and Assistant Commissioner Valerie Grayock described a facilitation-focused operation: 16 voter registration drives per year, quarterly educational sessions by counseling staff, tablet-based access to registration forms and voter guides, and hand-delivery of completed ballots to the Board of Elections in Queens. They announced a new twice-weekly partnership with the EAC Network intended to increase facility coverage. However, under questioning, they acknowledged that volunteers only reach a subset of housing units per visit, that each facility likely receives volunteer visits roughly twice a year, and that DOC does not receive ballot deficiency notices and therefore cannot realistically implement the curing procedures contemplated in Int 0786-2026 without significant changes to state law and inter-agency systems. They also confirmed that historically a single person held primary responsibility for courier logistics, and that tracking of special elections and rapidly discharged voters remains underdeveloped.</p>
@@ -112,10 +115,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=8uJnF1JUBAM&amp;t=10s"><strong>(00:00:10)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=8uJnF1JUBAM&amp;t=10s"><strong>(00:00:10)</strong></a></p>
 <p>Heat.</p>
 <p><a href="https://www.youtube.com/watch?v=8uJnF1JUBAM&amp;t=711s"><strong>(00:11:51)</strong></a></p>
 <p>Good morning. Welcome to the New York City Council hearing on the Committee on Governmental Operations, State &amp; Federal Legislation joint with Criminal Justice. At this time, please silence all electronics and do not approach the dais. If you need to testify, please see a sergeant-at-arms. Any other questions or concerns, you may reach a sergeant-at-arms. Thank you for your cooperation. Chairs, you may begin.</p>
@@ -454,8 +459,9 @@
 <p>Have a good day, all.</p>
 </blockquote>
 </blockquote>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -483,7 +489,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -528,5 +534,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Voting on Rikers Island";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

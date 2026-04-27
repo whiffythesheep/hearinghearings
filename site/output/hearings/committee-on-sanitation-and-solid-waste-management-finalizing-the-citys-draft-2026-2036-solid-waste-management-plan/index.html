@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Sanitation and Solid Waste Management held an extensive oversight hearing on finalizing the City's Draft 2026-2036 Solid Waste Management Plan, along with consideration of two related pieces of legislation. Commissioner Gregory Anderson and later Commissioner Tisch provided testimony, while the Independent Budget Office presented analysis that should give pause to anyone tracking the city's waste diversion ambitions versus reality.</p>
 <p>The hearing revealed the familiar gap between New York's environmental aspirations and operational execution. While Commissioner Anderson touted an extensive public comment process generating over 800 individual comments, the fundamental challenge remains stark: the city achieves only a 2.4% organics diversion rate despite organics comprising 36% of residential waste. More tellingly, when the city briefly implemented serious enforcement of composting requirements in April 2025, weekly tonnage tripled—but when enforcement was scaled back, collections dropped 43% through year-end. This suggests the program's main constraint isn't infrastructure or public awareness, but political will to enforce compliance.</p>
 <p>The discussion of commercial waste zones demonstrated more promise, with implementation of all 20 zones by end of 2027 and GPS tracking of individual trucks—a rare example of the city embracing modern monitoring technology. Environmental justice concerns dominated much of the discussion, particularly around the southwest Brooklyn marine transfer station's impacts on immigrant communities, with Commissioner Anderson committing to a site visit. The IBO's analysis revealed concerning budget trends, with organics processing funding actually decreasing from $24 million to $19 million baseline despite expected program growth—a classic example of the city setting ambitious goals while quietly defunding their implementation.</p>
@@ -111,10 +114,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=46BTku-kaUA&amp;t=24s"><strong>(00:00:24)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=46BTku-kaUA&amp;t=24s"><strong>(00:00:24)</strong></a></p>
 <p>Heat. Hey, hey, hey.</p>
 <p><a href="https://www.youtube.com/watch?v=46BTku-kaUA&amp;t=167s"><strong>(00:02:47)</strong></a></p>
 <p>DSNY has submitted its proposed draft Solid Waste Management Plan to the state Department of Environmental Conservation for initial review. The Council was permitted to have a copy of this revised proposed draft Solid Waste Management Plan. Thank you. And in doing so, we were able to review public comments on the draft. We have read and analyzed these comments and referenced some of the most apparent concerns in our committee report. </p>
@@ -628,8 +633,9 @@
 <p>ask you? I think that the hearing before this was very informative and I think a lot of my questions that I had were answered. Do you have anything you want to add? No, that was great. Thank you.</p>
 <p><a href="https://www.youtube.com/watch?v=46BTku-kaUA&amp;t=10123s"><strong>(02:48:43)</strong></a></p>
 <p>Well, thank you. I appreciate it. Thank you. And you guys can... What is a proper way to say this? I do not want to... This panel is dismissed. Get out of here. Sashay away. I am sorry, my dears. Great.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -657,7 +663,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -702,5 +708,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Finalizing the City\u0027s Draft 2026-2036 Solid Waste Management Plan";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

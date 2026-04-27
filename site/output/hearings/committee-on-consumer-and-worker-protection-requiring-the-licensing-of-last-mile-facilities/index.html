@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Consumer and Worker Protection held a full-day hearing on Int 0518-2026, the proposed Delivery Protection Act, which would require operators of last-mile delivery facilities to obtain a business license from DCWP, directly employ their core delivery and warehouse workers, and meet training and safety standards. The bill, sponsored by CM Cabán and backed by 31 council co-sponsors plus the public advocate and Brooklyn borough president, is one of the more consequential pieces of labor legislation before the Council in years, targeting an industry that has roughly doubled its daily package volume in New York City since 2017 and produces injury rates three times the national private sector average.</p>
 <p>The case for the bill rested on a straightforward structural argument: Amazon and similar companies use the delivery service partner subcontracting model to dictate every meaningful aspect of workers' jobs — routes, quotas, schedules, surveillance — while disclaiming employer status and its associated legal responsibilities. DCWP, the Comptroller's office, the Brooklyn Borough President, the Strategic Organizing Center, major labor unions, and multiple delivery drivers themselves testified in support. The evidentiary record was substantial: more than 2,000 injuries at last-mile facilities between 2022 and 2024, injury rates nearly five times the national average for serious incidents at Amazon DSPs, a 137 percent rise in truck-related injuries near facilities, and seven ongoing DCWP investigations. Worker testimony included accounts of broken vehicles pressed into service, suppressed injury reporting, retaliation against organizers, a worker losing her job after her DSP's contract was terminated following a union election, and Amazon refusing to bargain four years after a historic union vote at its Staten Island facility. DCWP drew an explicit analogy to the Safe Hotels Act, which has now covered over 760 hotels, arguing that direct employment is the only durable enforcement mechanism.</p>
 <p>The opposition was large, vocal, and more nuanced than a simple corporate lobbying effort. Chambers of commerce argued the bill adds a thirteenth regulatory layer to an already heavily regulated industry and would consolidate delivery into a handful of large corporations. More compellingly, dozens of DSP owners — many of them immigrants, veterans, or first-generation entrepreneurs who built businesses from scratch using SBA loans and personal savings — testified that the bill would destroy genuinely independent small businesses and eliminate jobs with real benefits for workers who had few other options. Their employees, some of whom had exited homelessness or incarceration through DSP employment, testified to W2 wages, healthcare, 401k matching, and tuition reimbursement that they feared losing. The DSP owners also complicated the hearing's regulatory theory by describing a tangled ownership structure — Amazon owns or manages the facilities, DSPs use them without leasing, vehicles are variously owned, financed, or rented, some Amazon-branded — that raises genuine jurisdictional questions the bill does not fully resolve. One former DSP owner testified he exited the business because it was impossible to remain profitable while maintaining safety standards, which rather cut against the industry's own safety claims.</p>
@@ -133,10 +136,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=ja2C5yDXoYQ&amp;t=25s"><strong>(00:00:25)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=ja2C5yDXoYQ&amp;t=25s"><strong>(00:00:25)</strong></a></p>
 <p>Please quiet down. At this time you will be asked to leave the room. Moving forward, no one is to approach the dais. The chair is ready to begin.</p>
 <p><a href="https://www.youtube.com/watch?v=ja2C5yDXoYQ&amp;t=292s"><strong>(00:04:52)</strong></a></p>
 <p>Good morning. Welcome to today's Committee on Consumer and Worker Protection hearing on Int 0518-2026, sponsored by CM Cabán, requiring the last mile facilities. My name is Harvey Epstein, the chair of the committee. I am joined by my colleagues CM Aldebol and CM Cabán. Each weekday approximately 7,800 vehicles travel throughout the five boroughs to transport more than 2.4 million packages to consumers. These vehicles generally pick up packages from the last mile facilities, warehouses and transfer stations where parcels are sorted and loaded on vehicles for delivery and delivered to consumers. In January 2024, there were approximately 50 last mile facilities greater than 50,000 square feet in New York City. The high volume of last mile delivery combined with the demand for speed creates conditions for street safety and worker health and safety issues. A published report from the office of the New York State Comptroller in November of 2025 found that the arrival of last mile facilities in an area is correlated with increased traffic incidents, increased injuries and crashes. The Comptroller's office also found that workers in last mile facilities were injured more frequently and more seriously than those in courier industries generally.</p>
@@ -1850,8 +1855,9 @@
 <p>Thank you very much and thank you everyone for being here for a very long day. This hearing is adjourned.</p>
 </blockquote>
 </blockquote>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -1879,7 +1885,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -1924,5 +1930,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Requiring the Licensing of Last-Mile Facilities";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

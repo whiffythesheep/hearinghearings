@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The City Council Land Use Committee held budget hearings on the Department of City Planning's fiscal 2027 preliminary budget and capital plan. Commissioner Dan Garodnick, in his sixth day on the job, testified alongside Executive Director Su Chen and COO David Parish about DCP's $51.4 million budget, which represents a $5.3 million decrease from the prior year due to the expiration of temporary funding for completed environmental impact statements. The agency gained 12 new positions for census, city mapping, and capital planning work while losing 6 temporary positions, resulting in a net increase of 6 positions to 370 total staff.</p>
 <p>Chair Riley pressed hard on staffing shortages, particularly in borough offices, arguing that DCP lacks sufficient planners to handle neighborhood rezonings essential to addressing the housing crisis. The Bronx borough office, serving 1.4 million residents, has only 16 budgeted staff. Riley questioned whether the agency can handle more than one neighborhood rezoning at a time and demanded greater resources for ambitious housing production goals. The agency has a 16.3% vacancy rate, over triple the citywide average, though officials claimed the adjusted rate is closer to 12% when accounting for unfunded positions and active recruitment.</p>
 <p>Council members raised concerns about several policy initiatives. The administration is developing a new citywide housing agenda and fair housing plan, but officials provided few specifics about neighborhood rezoning commitments or the controversial $14 billion Sunnyside Yards proposal that Mayor Mamdani pitched to President Trump. Members questioned the governor's proposal to exempt residential projects up to 500 units from environmental review, with some worried about reduced community investments in schools, parks, and infrastructure that typically accompany large developments.</p>
@@ -113,10 +116,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=N_ZdcPKyEtM&amp;t=36s"><strong>(00:00:36)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=N_ZdcPKyEtM&amp;t=36s"><strong>(00:00:36)</strong></a></p>
 <p>Hey, hey, hey. I do not think... Hey, hey, hey.</p>
 <p><a href="https://www.youtube.com/watch?v=N_ZdcPKyEtM&amp;t=744s"><strong>(00:12:24)</strong></a></p>
 <p>Our 56.8 million FY26 adopted budget allocated 35.9 million or 63% to personnel services which include part-time staff, interns, and members of the city planning commission. The remaining 20.9 million went to other than personnel services. Now, the FY27 preliminary budget in comparison to the FY26 adopted budget represents a net $5.3 million decrease. This is almost entirely due to the expiration of 7 million in temporary funding, either grants or funding granted for environmental impact statements for projects that have since been approved by the Council.</p>
@@ -580,8 +585,9 @@
 <p>Thank you very much, Council members.</p>
 <p><a href="https://www.youtube.com/watch?v=N_ZdcPKyEtM&amp;t=6743s"><strong>(01:52:23)</strong></a></p>
 <p>Thank you.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -609,7 +615,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -654,5 +660,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

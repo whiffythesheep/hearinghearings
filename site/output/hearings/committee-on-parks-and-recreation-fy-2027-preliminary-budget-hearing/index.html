@@ -61,8 +61,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Parks and Recreation held its FY2027 preliminary budget hearing, lasting roughly five hours, with Commissioner Trisha Shimamura testifying alongside senior parks staff before an extended public session featuring union representatives, conservancy leaders, park advocates, workers, and community gardeners. The central tension throughout was simple and unresolved: Mayor Mamdani campaigned on allocating 1% of the city budget to parks, but the preliminary budget proposes $654 million for parks operations, a $33.7 million decrease from the FY26 adopted budget of $687.6 million. Of that gap, roughly $22 million reflects the routine expiration of one-shot funding and $6 million reflects Council discretionary funding, both of which must be renegotiated each budget cycle. Advocates, unions, and multiple council members made clear that this annual dance over one-shot positions covering roughly 276 workers is damaging morale, causing turnover, and undermining program planning. The commissioner acknowledged all of this, expressed enthusiasm for conversations with OMB, and offered no commitments.</p>
 <p>The hearing covered a wide range of operational matters. Commissioner Shimamura, appointed two months ago by Mayor Mamdani, gave a broadly competent overview of agency priorities: the opening of Shirley Chisholm Recreation Center in East Flatbush, the Community Parks Initiative with $50 million in new capital investment for 10 parks, the neighborhood tree planting program now operating on a data-driven nine-year cycle, and progress on lifeguard recruitment with 1,082 guards last summer and a $1.66 million state grant for recruitment bonuses. She was candid about problem areas including a contractor death disrupting the block pruning program, the long-running capital project backlog, the difficulty of building public restrooms at $3 to 5 million per facility, and the ongoing challenge of filling gardener and forestry positions. On the question of baselineing one-shot positions, she was supportive in tone but non-committal in substance, correctly noting that one-shots are a product of Council-administration negotiations rather than agency decisions. On the 1% campaign promise, she cited budget pressures and called the preliminary budget an early stage in negotiations, which is accurate but also the answer every commissioner gives at every preliminary budget hearing.</p>
 <p>Council members pressed hard on capital project delays, with CM Narcisse raising Marine Park playground at six years and counting, CM Banks raising Brownsville Recreation Center where $160 million is allocated but no design has been completed, and CM Sanchez raising multiple Bronx parks funded but not breaking ground. CM Morano raised Staten Island's high parkland-per-capita but questioned whether staffing is proportional. CM Krishnan, appearing in passing, was referenced for legislation on the capital process. CM Lynch raised Forest Park accessibility, funded but stalled due to staffing shortages in the design pipeline. The capital deputy commissioner confirmed 500 projects currently in design, procurement, or construction, with 91 slated to start this fiscal year and 24 of those likely to slip. The commissioner committed to shortening timelines but offered no specific mechanisms beyond noting that a DEP staffer now sits in the parks office to ease inter-agency coordination.</p>
@@ -130,10 +133,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=QRLl-gVj7GI&amp;t=17s"><strong>(00:00:17)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=QRLl-gVj7GI&amp;t=17s"><strong>(00:00:17)</strong></a></p>
 <p>Hey, hey, hey.</p>
 <p><a href="https://www.youtube.com/watch?v=QRLl-gVj7GI&amp;t=518s"><strong>(00:08:38)</strong></a></p>
 <p>The message to workers and families is that standard care is still negotiable. Public safety still leans on temporary funding. Fully funded capital projects are still waiting because the staffing capacity needed for review is not there. We are now just trying to recover from the Adams administration's two-for-one hiring reduction. Too many neighborhoods still go through hotter summers with less shade and less relief because the tree canopy remains uneven. And as we head into summer, beaches and pools will again depend on lifeguards and other seasonal staff to open strong and to stay safe. Routine expiration does not make the impact routine. If these services are essential every year, then the funding should be there every year. Our workers, our parkies need stable jobs, better pay, and real protections. Our communities need a park system that serves every borough with the same standard of care.</p>
@@ -964,8 +969,9 @@
 <p>Thank you, Kasha. Thank you for your service to our city. The FY27 preliminary budget hearing for the Committee on Parks and Recreation is now adjourned.</p>
 </blockquote>
 </blockquote>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -993,7 +999,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -1038,5 +1044,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

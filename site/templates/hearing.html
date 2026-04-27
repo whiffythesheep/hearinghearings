@@ -29,16 +29,34 @@
     </header>
 
     <section class="hearing-summary">
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
         {{ hearing.summary_html | safe }}
     </section>
 
     {% if hearing.transcript_html %}
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            {{ hearing.transcript_html | safe }}
-        </div>
-    </details>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                {{ hearing.transcript_html | safe }}
+            </div>
+        </details>
+    </div>
     {% endif %}
 </article>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = {{ ('Summary - ' + hearing.title) | tojson }};
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
 {% endblock %}

@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Consumer and Worker Protection held its preliminary budget hearing for fiscal year 2027, with Commissioner Sam Lavine, only two months into his tenure, presenting alongside General Counsel Mike Tiger, Chief of Staff Carlos Ortiz, and Deputy Commissioner for Labor Policy and Standards Elizabeth Wagner. The central tension running through the entire hearing was straightforward: the Council has passed a wave of ambitious worker and consumer protection legislation in recent years, the administration has publicly committed to doubling DCWP's budget, and yet the preliminary budget actually cuts funding slightly from FY26 levels while imposing a two-for-one hiring freeze. Everyone in the room agreed this was a problem. The commissioner acknowledged it candidly. The chair called it disappointing. Advocates called it a crisis. What remained unresolved was when and whether the executive budget would correct it.</p>
 <p>The commissioner's testimony laid out an agency that is, by any reasonable measure, punching well above its weight. With roughly 387 staff actually dedicated to DCWP's own work, the agency conducted over 52,000 inspections and 1,230 investigations last year, secured $47.5 million in economic relief for New Yorkers, completed over 110,000 free tax returns, and served nearly 10,000 clients through financial empowerment centers. The landmark $38.9 million Starbucks settlement under the Fair Work Week law was the largest worker protection case in city history. New enforcement actions against Radiant Solar (seeking $20 million), Extraspace (seeking $5 million), and delivery app MotoClip (securing nearly $5 million) were highlighted. The agency also implemented the FARE Act, the Safe Hotels Act, the Shield debt collection rule, and the hotel junk fee rule, and is co-chairing a new citywide junk fee task force. The commissioner was keen to project ambition. Committee members were keen to point out that ambition without staffing is just a press release.</p>
 <p>Council members drilled into the staffing situation with increasing frustration as the hearing progressed. Chair Epstein focused on the gap between authorized headcount (484), active headcount (425), and the 387 actually working on DCWP's own mandate, with 58 lines funded by and dedicated to DOH licensing work. Of the enforcement lawyers, the agency has roughly 20-25 handling consumer protection and 18 on worker protection — around 40 total — for a city of 8.5 million people. Chair Epstein, a former lawyer himself, noted drily that the FARE Act alone might require 20-25 attorneys just to handle enforcement. Council Member Ossé pressed the commissioner on the specific resource needs OMB had identified for the laws the Council passed: 302 new lines in total across multiple bills, including 170 lines for for-hire vehicle deactivation protections at $4.2 million in FY27 and $23 million in out years, 34 lines for delivery worker deactivation, and 26 lines for street vendor license expansion. All of this sits unresolved in the preliminary budget while a two-for-one hiring freeze remains in place. The commissioner confirmed there are candidates awaiting OMB clearance to be hired right now. Council Member Krishnan focused particularly on the for-hire vehicle and delivery worker deactivation laws, which he helped pass over a mayoral veto, noting these require robust enforcement infrastructure that does not yet exist. Council Member Brewer raised concerns about tobacco enforcement, FIFA visitor protections, senior scam fraud (now 20 times what it was a decade ago by FTC complaint data), and fair work week scheduling compliance. Council Member Lee asked about AI and technology adoption for enforcement efficiency and about the Summer student loan platform, on which the agency's answers were vague enough to prompt a request for a full evaluation of the program's efficacy.</p>
@@ -135,10 +138,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=p0zqCs4f7Gk&amp;t=29s"><strong>(00:00:29)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=p0zqCs4f7Gk&amp;t=29s"><strong>(00:00:29)</strong></a></p>
 <p>Little finger. Heat. Hey. Heat.</p>
 <p><a href="https://www.youtube.com/watch?v=p0zqCs4f7Gk&amp;t=355s"><strong>(00:05:55)</strong></a></p>
 <p>Good morning, ladies and gentlemen. Welcome to the New York City Council hearing for the Committee on Consumer and Worker Protection. At this time, I would like to remind everyone to please silence all devices and at no point may you approach the dais. If you want to testify at today's hearing, please see a sergeant-at-arms at the back of the room to fill out a testimony slip. Chair, we are ready to begin.</p>
@@ -817,8 +822,9 @@
 <p>Thank you. My colleague Marissa Centino just gave the testimony and thank you so much.</p>
 <p><a href="https://www.youtube.com/watch?v=p0zqCs4f7Gk&amp;t=14047s"><strong>(03:54:07)</strong></a></p>
 <p>All right. Thank you. Are there any other witnesses in person or online who want to testify?</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -846,7 +852,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -891,5 +897,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

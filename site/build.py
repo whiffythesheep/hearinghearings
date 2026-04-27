@@ -39,26 +39,46 @@ def parse_front_matter(text):
     return meta, match.group(2).strip()
 
 
-SECTION_LABELS_H2 = {"Summary"}
+SECTION_LABELS_STRIP = {"Summary"}
 SECTION_LABELS_H3 = {"Meeting Overview", "Numbers", "Action Points"}
 
 
 def promote_section_headings(md_text):
-    """Convert bare section-label lines (e.g. 'Summary', 'Numbers') to markdown headings.
+    """Convert bare section-label lines (e.g. 'Numbers') to markdown headings.
 
-    The summarizer currently emits these as plain paragraphs. Promote them so
-    templates can style them as a proper heading hierarchy.
+    The summarizer emits these as plain paragraphs. Promote subsection labels
+    to h3 so templates can style them. The literal 'Summary' line is dropped —
+    the template renders the Summary heading itself (so it can pair with a
+    download button alongside).
     """
     out_lines = []
     for line in md_text.split("\n"):
         stripped = line.strip()
-        if stripped in SECTION_LABELS_H2:
-            out_lines.append(f"## {stripped}")
-        elif stripped in SECTION_LABELS_H3:
+        if stripped in SECTION_LABELS_STRIP:
+            continue
+        if stripped in SECTION_LABELS_H3:
             out_lines.append(f"### {stripped}")
         else:
             out_lines.append(line)
     return "\n".join(out_lines)
+
+
+def markdown_to_text(md):
+    """Strip markdown formatting for plain-text download output."""
+    # Links: [text](url) → text url
+    md = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1 \2", md)
+    # Bold/italic
+    md = re.sub(r"\*\*([^*]+)\*\*", r"\1", md)
+    md = re.sub(r"\*([^*]+)\*", r"\1", md)
+    md = re.sub(r"__([^_]+)__", r"\1", md)
+    md = re.sub(r"_([^_]+)_", r"\1", md)
+    # Inline code
+    md = re.sub(r"`([^`]+)`", r"\1", md)
+    # Headings: drop the leading hashes
+    md = re.sub(r"^#{1,6}\s+(.+)$", r"\1", md, flags=re.MULTILINE)
+    # Collapse runs of 3+ blank lines
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    return md.strip() + "\n"
 
 
 def split_summary_transcript(body):
@@ -122,6 +142,7 @@ def load_content():
                 "transcript_html": markdown.markdown(transcript_md)
                 if transcript_md
                 else "",
+                "transcript_md": transcript_md,
             }
         )
 
@@ -193,6 +214,24 @@ def build():
         with open(os.path.join(hearing_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(html)
         print(f"Built: hearings/{hearing['slug']}/index.html")
+
+        if hearing["transcript_md"]:
+            header_lines = [hearing["title"]]
+            meta_bits = [b for b in (hearing["committee"], hearing["date_display"], hearing["duration"]) if b]
+            if meta_bits:
+                header_lines.append(" · ".join(meta_bits))
+            header_lines.append(f"Source: {SITE_URL}/hearings/{hearing['slug']}/")
+            if hearing["youtube_url"]:
+                header_lines.append(f"Video: {hearing['youtube_url']}")
+            transcript_txt = (
+                "\n".join(header_lines)
+                + "\n\n"
+                + ("=" * 64)
+                + "\n\n"
+                + markdown_to_text(hearing["transcript_md"])
+            )
+            with open(os.path.join(hearing_dir, "transcript.txt"), "w", encoding="utf-8") as f:
+                f.write(transcript_txt)
 
     # Build 404 page
     four04_template = env.get_template("404.html")

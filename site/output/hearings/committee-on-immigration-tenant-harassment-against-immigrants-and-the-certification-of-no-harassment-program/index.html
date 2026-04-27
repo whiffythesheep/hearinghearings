@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Immigration, jointly with the Committee on Housing and Buildings, held an oversight hearing on tenant harassment targeting immigrants and the Certification of No Harassment (CONH) program, alongside consideration of T2026-1639, a local law that would make the CONH pilot program permanent and expand criteria for building inclusion.</p>
 <p>The transcript captures only a fragment of the hearing, focused on an exchange between Council Members Joseph and Maloney, Avilés, and HPD and MOIA representatives. HPD explained the CONH program's basic mechanics: buildings are flagged based on criteria including housing code violations, emergency repair charges, placement in the Alternative Enforcement Program or Article 7-A, vacate orders, and existing court findings of harassment. Once listed, owners seeking permits for covered categories of work must obtain HPD sign-off confirming no harassment occurred in the prior five years. The program is framed explicitly as a deterrence tool rather than a punitive one.</p>
 <p>CM Joseph raised the case of 75 Lennox Road in her district, where building management reportedly deployed security personnel to intimidate tenants before ICE arrived at the building within two days — a pattern she characterized as coordinated harassment of undocumented residents. HPD acknowledged it could not confirm whether the building is on the CONH list in the hearing but offered to follow up. On the question of what HPD field staff should do if they encounter ICE on site, HPD stated that no such encounter has occurred to its knowledge, but that the protocol would be to escalate internally.</p>
@@ -88,10 +91,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=iDCrAAA-1WY&amp;t=3540s"><strong>(00:59:00)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=iDCrAAA-1WY&amp;t=3540s"><strong>(00:59:00)</strong></a></p>
 <p>building, they just moved. They are scared to live there anymore. Like every single one does not have documents in that area. Everyone moved because they are afraid. Thank you. Thank you, CM Joseph, followed by CM Maloney, then Avilés.</p>
 <p>Thank you. Good morning. A couple of questions. Said a couple of great things, right? So, the... to file the harassment complaint, the Certification of No Harassment, how long does it take? And what are the criteria for the buildings to get on? And if they do want to apply, language access and language barriers are usually one of the main things that our communities of immigrants face. Can you walk us through the process?</p>
 <p>Certainly. Thank you. So, the Certification of No Harassment Program, as we are explaining, is a program of deterrence. The idea is that identifying buildings that have certain characteristics, and just in general, those characteristics include violations, emergency repair charges, the building is in an alternative enforcement program, or the Article 7-A program. There has been a vacate order, although not a fire vacate. I may have missed one. And a harassment finding. So, if there has been a finding of harassment against the property already in a court, those buildings are included. I am not the data person, so if you really want to drill down, I can bring the assistant commissioner back up. But the idea is that those characteristics are weighed against other similar buildings at the time that the list is run.</p>
@@ -102,8 +107,9 @@
 <p>At 75 Lennox Road? I am talking about if they were to encounter ICE. And MOIA, what is in place for you to work with HPD and DOB if these situations occur? What resources are out there or community engagement for communities to know that these programs exist? Sometimes we do great work, but no one knows it exists.</p>
 <p>Yeah, thank you for that. We have developed several pieces of guidance that we put out that include our MOIA one-pager, and that includes also information for New Yorkers. It is available in over 50 languages on tenant rights. We have collaborated with CCHR to put together "Immigrants in New York City: Human Rights at Work and at Housing." HPD also mentioned this other flyer that we put together with immigrants knowing your rights in housing. We also supported them in putting together a know-your-rights resource that they have available at their portal of information and rights that they have regardless of status, as well as the tenant bill of rights.</p>
 <p>Is this information also located inside a housing court? I do not have the answer. I think that would be a great place to start as well. I would also say, and hearing that listing of all those documents reminded me, when our inspectors do any inspection, we give out a pamphlet about a host of housing issues. One of them is harassment. It is not currently specific to immigration harassment, but it gives them a referral to CCHR and provides some information on contacts on who they can go to if they feel they are being harassed, and the definition of what harassment is. That pamphlet is available in 10 languages. We have a QR code on the back for people to scan, and it says in the 10 languages, "If you want a copy of this in Spanish, scan the QR code," and it takes them to our website where they can... in a very coordinated way, working towards making this information...</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -131,7 +137,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -176,5 +182,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Tenant Harassment against Immigrants and the Certification of No Harassment Program";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

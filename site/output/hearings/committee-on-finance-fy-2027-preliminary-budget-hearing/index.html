@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Finance Committee held its preliminary budget hearing for fiscal year 2027, with OMB Director Solomon defending a $127 billion budget that includes a controversial 9.5% property tax increase and draws down half the city's rainy day fund. The administration argued these measures were necessary after inheriting $14 billion in chronic underbudgeting across six major areas including shelter costs, rental assistance, and MTA subsidies. The Council pushed back hard on both the tax hike and reserve drawdown, arguing they would harm affordability and the city's credit rating while insisting additional savings could be found through efficiency improvements and better revenue collection.</p>
 <p>Much of the hearing focused on the administration's claims of identifying $1.7 billion in savings through chief savings officers, though only $200 million has been validated so far. Council members expressed skepticism about these projections while criticizing continued hiring restrictions despite promises to lift the "two-for-one" hiring limit. Lengthy discussions covered funding cuts to libraries, parks, and consumer protection agencies, with members arguing these reductions would hurt essential services. The administration maintained that agencies were previously underfunded rather than being cut, creating confusion about baseline funding levels.</p>
 <p>Revenue generation dominated much of the debate, with Council members warning that property and income tax increases would drive wealthy residents away - citing a 31% decline in NYC's millionaire population since 2010. The administration acknowledged the mobility of high earners but defended revenue proposals as necessary for affordability programs. Extensive time was spent on the city's poor collection of outstanding fines and fees totaling $2 billion, with OMB proposing an ECB amnesty program and AI-enhanced collection efforts.</p>
@@ -156,10 +159,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=2soPrZWS754&amp;t=0s"><strong>(00:00:00)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=2soPrZWS754&amp;t=0s"><strong>(00:00:00)</strong></a></p>
 <p>CM Linda Lee, chair of finance. Today we have from Mayor's Office of Management and Budget OMB. At this time I would like to introduce my colleagues who are present this morning. We have CM Aldebol, CM Marte, CM Avilés, CM Hankerson, and CM Wong. I know more are coming. So thank you for being here.</p>
 <p>As we conclude this preliminary budget season, I would also like to extend my sincere gratitude to the dedicated staff of the City Council finance division for their tireless and I will emphasize tireless efforts in preparing for today's hearing. This work does not happen on its own and I want to acknowledge the amazing team of dedicated professionals who make it all possible. Our new finance director Nathan Toth who is over there busy. Managing director Jonathan Rosenberg. Deputy directors Amra Endev, Chima Obisher, Paul Simone, and Isa Wright. Chief Economists Delar Dimniku. Assistant directors Aliyia Ali, Julia Haramus, Florentine Kabor, Daniel Kroo, James Reyes, Jack Story, Paul Sturm, and Andrew Wilbur. Finance Council Nicholas Connell, my committee council Brian Saro, senior adviser Athena Se, and many many of the finance analysts, economists, and support staff who have worked behind the scenes to bring everything together.</p>
 <p>Before I go any further, I would like to invite our leader, speaker Julie Menon, to share her opening remarks.</p>
@@ -1343,8 +1348,9 @@
 <p>And with that, I am closing out today's hearing.</p>
 </blockquote>
 </blockquote>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -1372,7 +1378,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -1417,5 +1423,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

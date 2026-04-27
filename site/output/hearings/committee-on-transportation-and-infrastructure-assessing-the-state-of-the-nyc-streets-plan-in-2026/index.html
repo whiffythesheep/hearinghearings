@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Transportation and Infrastructure Committee held its oversight hearing on the Streets Plan, revealing a sobering pattern of the city's failure to meet legally mandated infrastructure targets. Commissioner Mike Flynn, representing Mayor Mamdani's new administration, acknowledged that DOT had fallen dramatically short of its requirements under Local Law 195 of 2019, completing only 18.2 miles of protected bike lanes against a 50-mile mandate and 20.8 miles of bus lanes against a 30-mile requirement. Flynn attributed these failures to the previous Adams administration's lack of prioritization and capacity constraints, while promising a more ambitious approach under the new mayor.</p>
 <p>The hearing featured emotional testimony from advocates, including Lizzy Raman, whose son was killed on Queens Boulevard in 2008, and transit organizers from Riders Alliance who described the daily frustrations of bus riders stuck in traffic. Their message was clear: the city knows what works to save lives and improve mobility, but has lacked the political will to implement it at scale. Chair Shaun Abreu pressed Flynn repeatedly on whether the Streets Plan requirements were legal mandates rather than suggestions, with Flynn confirming they were binding obligations.</p>
 <p>The committee also considered multiple pieces of legislation, including CM Marte's bill (Int 0310-2026) requiring bilingual street signs citywide, CM Restler's package to restore year-round outdoor dining (Int 0655-2026 and Int 0628-2026), and CM Brewer's proposal to expand bicycle parking stations (Int 0093-2026). Flynn's testimony revealed mixed support for these proposals, with particular concerns about solar-powered crosswalks lacking proven efficacy and outdoor dining clear-path requirements potentially compromising pedestrian accessibility.</p>
@@ -119,10 +122,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=1NTWvr6fhV0&amp;t=26s"><strong>(00:00:26)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=1NTWvr6fhV0&amp;t=26s"><strong>(00:00:26)</strong></a></p>
 <p>I do not think so. Heat. Hey. Heat. Hey. Heat.</p>
 <p><a href="https://www.youtube.com/watch?v=1NTWvr6fhV0&amp;t=282s"><strong>(00:04:42)</strong></a></p>
 <p>We are here for the Committee on Transportation and Infrastructure. At this time, we ask you to silence all electronic devices and at no time is anybody to approach the dais. Chair, you may begin.</p>
@@ -822,8 +827,9 @@
 </blockquote>
 <p><a href="https://www.youtube.com/watch?v=1NTWvr6fhV0&amp;t=10917s"><strong>(03:01:57)</strong></a></p>
 <p>Thank you, chair.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -851,7 +857,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -896,5 +902,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Assessing the State of the NYC Streets Plan in 2026";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>
