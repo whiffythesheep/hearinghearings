@@ -61,8 +61,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Council's Committee on Immigration held a preliminary budget hearing for FY2027, examining the Mayor's Office of Immigrant Affairs (MOYA) and the City's broader immigrant services infrastructure. The hearing took place against the backdrop of sharply escalating federal immigration enforcement, including a 212% increase in ICE street arrests in New York City in the first six months of the Trump administration, and growing anxiety in immigrant communities about accessing even basic city services. Commissioner Faiza Ali, barely a month into the job, testified alongside her deputy commissioners and faced detailed questioning from Chair Encarnación and colleagues on staffing, contracting, inter-agency coordination, and service delivery.</p>
 <p>The central structural tension running through the entire hearing is MOYA's absurd mismatch between mandate and capacity. The office formally controls a budget of just $782,000 covering five staff positions, two of which are currently filled. The actual operating budget is $42.3 million in FY26, with 64 staff lines spread across other agencies including DSS, DYCD, and H+H, and over 70 nonprofit contracts. Chair Encarnación directly called this arrangement unacceptable and advocated for creating a standalone city immigration agency, a position echoed by former Council Speaker Melissa Mark-Viverito in invited testimony. The commissioner, to her credit, did not pretend this architecture is ideal, but offered the honest answer of a new official: she is still figuring out where things stand. The preliminary budget does add $6.1 million in new baseline funding, comprising $4.6 million for rapid response and legal support centers and $1.5 million for English learning centers, which is at least a real commitment rather than one-shot funding.</p>
 <p>Questioning covered a wide range of operational programs. The immigration legal support hotline received over 14,700 calls so far this year and operates with seven counselors across limited hours, with no after-hours connection option beyond a voicemail callback, which council members found inadequate. The legal support centers network, rebranded from Action NYC, now comprises 29 unique providers across 38 contracts, and has conducted nearly 9,000 legal screenings since launching in July 2025. The rapid response legal collaborative received a $3 million increase this fiscal year, and preliminary plan figures show a substantial multi-year funding commitment for legal services overall. Concerns were raised about specific vulnerable populations including Haitian TPS holders facing Supreme Court uncertainty, unaccompanied minors, LGBTQ immigrants, survivors of domestic violence, and mixed-status families in NYCHA housing threatened by a proposed HUD rule change requiring immigration status verification for all household members. The committee also pressed on inter-agency coordination, sanctuary city compliance training following Executive Order 13, airport safety advisories, language access, 311 integration, and plans around the closure of the last remaining migrant shelter and associated mail center in the South Bronx.</p>
@@ -121,10 +124,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=PGagE0cKXJ0&amp;t=10s"><strong>(00:00:10)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=PGagE0cKXJ0&amp;t=10s"><strong>(00:00:10)</strong></a></p>
 <p>New York City Council testimony.</p>
 <p><a href="https://www.youtube.com/watch?v=PGagE0cKXJ0&amp;t=507s"><strong>(00:08:27)</strong></a></p>
 <p>Good afternoon and thank you all for being here today. I am CM Elsie Encarnación, chair of the Committee on Immigration. Welcome to today's hearing on the City's fiscal 2027 preliminary budget. Before we begin, I would like to thank those who have joined us and acknowledge that I am joined here by CM Schulman. Thank you.</p>
@@ -442,8 +447,9 @@
 <p>Thank you, and thank you for coming. Obviously, for those of you who do not know, I served under her when she was a council member — not as speaker — for six years, and saw her do this work day in and day out from the day she stepped into office to the day I left her office. I am proud to be here as one of the people that she has really grown into this space, and I hope that I make her proud in the work that I do here today and that I carry on. So all of you will witness that this is mentorship. This is what happens when you really do the work, not just for the whole city, but when you really look at your community and look at people who can take on the work and champion it moving forward, because the work never stops and we need good people at the forefront. So thank you so much for that.</p>
 <p><a href="https://www.youtube.com/watch?v=PGagE0cKXJ0&amp;t=8442s"><strong>(02:20:42)</strong></a></p>
 <p>I just want to say to the people in this room: it is the work that you do that gives us the ability to be successful in the work that we accomplish. The detainer laws that we talk about that we have in the City of New York, getting ICE out of Rikers — that only came out of the advocacy of some of the groups who, when they met with me, said, "This is happening in our city. We need to respond." So please, I know the times are tough and things get difficult, but the work that you do does make a difference and it impacts people's lives. So thank you for that.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -471,7 +477,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -516,5 +522,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

@@ -316,22 +316,26 @@ body.desktop {
     color: var(--text);
 }
 
-/* "Summary" — top-level section title, dominant */
+/* "Summary" — top-level section title, dominant.
+   Lives inside .section-header which provides the rule and spacing. */
 .hearing-summary h2 {
     font-family: var(--font-body);
     font-size: 1.4rem;
     font-weight: 700;
     line-height: 1.22;
     letter-spacing: -0.008em;
-    margin-top: 2.25rem;
-    margin-bottom: 0.85rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 2px solid var(--text);
+    margin: 0;
     color: var(--text);
 }
 
-.hearing-summary h2:first-child {
-    margin-top: 0;
+.hearing-summary .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--text);
 }
 
 .hearing-summary p {
@@ -365,8 +369,12 @@ body.desktop {
 }
 
 /* ---------- Transcript well (sunken bevel) ---------- */
-.hearing-transcript {
+.hearing-transcript-wrapper {
     margin-top: 2.5rem;
+    position: relative;
+}
+
+.hearing-transcript {
     background: transparent;
     padding: 0;
     border: none;
@@ -1031,6 +1039,150 @@ body.desktop {
 
     .subscribe-button {
         width: 100%;
+    }
+}
+
+/* ---------- Download buttons (summary PDF + transcript .txt) ---------- */
+.download-button {
+    appearance: none;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    text-decoration: none;
+    padding: 3px 6px;
+    transition: color 0.12s ease, background 0.12s ease;
+    white-space: nowrap;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+    color: var(--accent);
+    background: #f3f1e9;
+    outline: none;
+}
+
+.download-button:active {
+    color: var(--accent-hover);
+}
+
+.download-button--transcript {
+    position: absolute;
+    top: 0.45rem;
+    right: 0;
+}
+
+/* ---------- Print: summary-only, plain typography (used by Download PDF) ---------- */
+@media print {
+    @page { margin: 0.75in; }
+
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+    }
+
+    .window-titlebar,
+    .window-statusbar,
+    .back-link,
+    .hearing-transcript-wrapper,
+    .subscribe,
+    .ai-disclosure,
+    .download-button,
+    #aesthetic-tooltip {
+        display: none !important;
+    }
+
+    /* Hide YouTube + council links in the meta row, plus the · separator
+       that immediately precedes them. Date and duration stay. */
+    .hearing-meta .youtube-link,
+    .hearing-meta .council-link,
+    .meta-sep:has(+ .youtube-link),
+    .meta-sep:has(+ .council-link) {
+        display: none !important;
+    }
+
+    .window,
+    .window-body {
+        border: none !important;
+        background: #fff !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        box-shadow: none !important;
+    }
+
+    body {
+        font-family: var(--font-body);
+    }
+
+    .hearing-header::before {
+        content: 'hearinghearings.nyc';
+        display: block;
+        font-family: var(--font-chrome);
+        font-size: 9pt;
+        color: #555;
+        margin-bottom: 0.75em;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+    }
+
+    .hearing h1 {
+        font-size: 18pt;
+        line-height: 1.2;
+        color: #000;
+        margin: 0.2em 0 0.4em;
+    }
+
+    .hearing-committee {
+        font-size: 10pt;
+        color: #333;
+        margin: 0;
+    }
+
+    .hearing-meta {
+        font-size: 9pt;
+        color: #333;
+        margin-bottom: 1em;
+    }
+
+    .hearing-summary {
+        color: #000;
+    }
+
+    .hearing-summary .section-header {
+        border-bottom: 1px solid #000 !important;
+        margin-top: 0.6em;
+    }
+
+    .hearing-summary h2 {
+        font-size: 13pt;
+        color: #000;
+    }
+
+    .hearing-summary h3 {
+        font-size: 11pt;
+        color: #000;
+        margin-top: 1em;
+    }
+
+    .hearing-summary p,
+    .hearing-summary li {
+        font-size: 10pt;
+        line-height: 1.45;
+        color: #000;
+    }
+
+    .hearing-summary a {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+
+    .hearing-summary li {
+        page-break-inside: avoid;
     }
 }
 

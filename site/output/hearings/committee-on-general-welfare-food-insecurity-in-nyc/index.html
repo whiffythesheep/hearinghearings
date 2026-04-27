@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The General Welfare Committee held a comprehensive hearing on food insecurity and related legislation, revealing the persistent challenge of feeding New Yorkers despite the city's wealth. Chair Crystal Hudson opened with stark statistics showing 62% of New Yorkers can't meet the true cost of living, with particularly severe disparities affecting Hispanic (77.6%) and Black (65.6%) families. The hearing covered four bills addressing warming center reporting (Int 0790), SNAP fraud prevention, and federal food assistance reform.</p>
 <p>HRA Administrator Scott French defended the city's food assistance programs while acknowledging serious challenges. The administration touted NYC's 95.7% SNAP participation rate compared to 80% nationally, but faced tough questions about EBT card skimming that resulted in $9.4 million stolen in benefits in just one quarter. French supported federal chip card technology as the solution while expressing frustration with federal limitations on the city's ability to replace stolen benefits. The administration also revealed plans for an AI tool to streamline SNAP processing and a novel food pantry plus pilot program offering vouchers for both food and non-food necessities.</p>
 <p>The most contentious debate centered on CM Susan Zhuang's proposal for a dedicated SNAP anti-fraud officer. Zhuang argued the scale of fraud - 25,000 approved theft claims representing millions in losses - demanded specialized attention, particularly given vulnerabilities among seniors and immigrants. The administration pushed back, arguing their existing accountability office already handles fraud and that federal/state limitations restrict the city's authority over SNAP issues. French agreed to a separate meeting with Zhuang to discuss the proposal further.</p>
@@ -120,10 +123,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=ffoU0uBkCoo&amp;t=25s"><strong>(00:00:25)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=ffoU0uBkCoo&amp;t=25s"><strong>(00:00:25)</strong></a></p>
 <p>Heat. There is no heat. Heat. Hey. Heat. I am getting heat. Heat. Hey, hey, hey. I do not think heat. Heat. You got heat. Heat.</p>
 <p><a href="https://www.youtube.com/watch?v=ffoU0uBkCoo&amp;t=554s"><strong>(00:09:14)</strong></a></p>
 <p>We are hearing for the Committee on General Welfare. At this time I would like to remind everyone to please silence all devices and at no point during the hearing may you approach the dais. If you want to testify at today's hearing please see a sergeant at the back to fill out a testimony slip. Chair, we are ready to begin. Thank you so much.</p>
@@ -524,8 +529,9 @@
 <p>Okay. Excellent. I am just confirming, CM Stevens, that you do not have any questions. All righty. That is it for me. Thank you all so very much. I appreciate your time.</p>
 <p><a href="https://www.youtube.com/watch?v=ffoU0uBkCoo&amp;t=7841s"><strong>(02:10:41)</strong></a></p>
 <p>Great. Thank you so much.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -553,7 +559,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -598,5 +604,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Food Insecurity in NYC";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

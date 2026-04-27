@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Criminal Justice held a lengthy preliminary budget hearing covering the Department of Probation, Department of Correction, Board of Correction, and public testimony, focused on fiscal year 2027 budget proposals and the fiscal 2026 preliminary Mayor's Management Report. The hearing ran from morning into late afternoon and drew testimony from agency commissioners, union leaders, legal advocates, formerly incarcerated individuals, and service providers.</p>
 <p>At Probation, Commissioner Chiron Goodwin's team described a department under genuine stress: a 23% vacancy rate, a 50% spike in juvenile re-arrests, and a drop in on-time pre-sentencing investigations from 98.4% to 94.4% despite higher volume. The department is transitioning from a mixed caseload model to a single risk-level model, expanding use of credible messengers with youth, and launching the LIGHT program at Lehman College for education and vocational support. The union, represented by UPOA president Dy Powell, was blunt: the agency is hemorrhaging officers to NYPD, parole, and neighboring departments because salaries are dramatically below comparable agencies, and pay equity litigation has been running since 2019. One Queens unit was said to have no probation officers at all as of the following week.</p>
 <p>At Correction, new Commissioner Stanley Richards, a formerly incarcerated person who has spent decades as an advocate and practitioner, gave testimony that was notably different in tone from his predecessors. He acknowledged the department is in serious difficulty: population up nearly 43% since FY21, facilities at 92% capacity, uniform staffing down roughly 20% since January 2022, over 800 officers currently retirement-eligible, and overtime on track to hit $370 million in FY26 against a budgeted figure that will last less than six months. His core message was that safety, population reduction, and putting people first are interconnected, and that punishing the way to compliance does not work. He was direct about the need to close Rikers and explicit that borough-based jails are necessary, not optional. Significant scrutiny fell on cell door replacements: roughly 2,889 doors need upgrading across the island, only about a third are done, current expense funding covers only 141 doors per year, and at that pace full replacement would take ten to twelve years. The remediation manager appointed by Judge Swain, Nicholas Demo, starts officially on March 30 and will be physically based on the island. The department acknowledged it has not yet reviewed prior Board of Correction reports but committed to a forward-looking plan; a 90-day action plan from the remediation manager is required under the court order. Significant gaps emerged around mental health: roughly 20% of people in custody have a serious mental illness, 180 to 200 people at any one time are awaiting state psychiatric beds, and a deadlocking investigation remains open at the Department of Investigation. Questions about bail facilitators, staffing analysis procurement, and captain vacancy numbers all resulted in follow-up commitments rather than immediate answers. Council Member Restler pressed hard on 6A authority and the city-sentenced population, now around 8% of the total versus 3% in 2022, and on sustained investment in supervised release, ATI, and justice-involved supportive housing, noting that only 14 of 109 people approved for supportive housing from Rikers were actually placed last year despite over 4,000 vacant supportive housing units citywide.</p>
@@ -129,10 +132,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=bjZFk_1_pD0&amp;t=1696s"><strong>(00:28:16)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=bjZFk_1_pD0&amp;t=1696s"><strong>(00:28:16)</strong></a></p>
 <p>Forward. One of the things that we are focusing on is bringing forward our probation officer trainees, because their requirements are a little different. They just have to have a college degree and then we give them the casework experience. So we have been doing a huge recruitment for probation officer trainees that are coming out of the universities. Thus far, since our recruitment efforts, about 526 have applied. We are in the process of actually interviewing the candidates. So far we have done 80 interviews of qualified probation officer trainees.</p>
 <p>Thank you. When is the next officer's exam scheduled for?</p>
 <p>Thank you for the question, chair. We have the date scheduled, and we have 591 applicants so far for the upcoming exam. The date is June 11th.</p>
@@ -1105,8 +1110,9 @@
 <p>Time expired.</p>
 <p><a href="https://www.youtube.com/watch?v=bjZFk_1_pD0&amp;t=19763s"><strong>(05:29:23)</strong></a></p>
 <p>Thank you to everyone who came out and testified today. If there is anyone in the room who wishes to testify that we may have inadvertently missed, we just ask that you fill out one of the cards and give it to the sergeant-at-arms. Hearing none, I just want to thank the agencies, the advocates, and everyone in between for coming out today and lending your voice to the start of this budget season. Thank you everyone.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -1134,7 +1140,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -1179,5 +1185,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The New York City Council Committee on Sanitation and Solid Waste Management held its preliminary budget hearing for fiscal year 2027 on March 16, 2026, examining the Department of Sanitation's approximately 3.1 billion dollar budget. Acting Commissioner Javier Lohan led the department's testimony, joined by deputies covering budget and public affairs. The hearing covered the department's three core functions — collection, cleaning and snow removal — with extended questioning on overtime structure, containerization expansion, waste export costs, commercial waste zones, street vending enforcement, and borough-level resource allocation. No legislation was voted on; this was an oversight and budget review hearing.</p>
 <p>On the structural questions that have dogged DSNY for years, the overtime discussion was more procedural than revelatory. The department acknowledged that overtime runs at roughly 19 percent of the personal services budget when snow is included, with actual fiscal year 2025 spending at 204.7 million against a budgeted 185 million baseline, and fiscal year 2027 budgeted at 257.9 million including a 160 million snow allowance. The acting commissioner described weekly reviews of top overtime earners and bureau-level justifications, but could not point to a formal remediation plan submitted to OMB, nor provide a cost-benefit analysis comparing overtime to additional full-time hiring. The honest answer lurking beneath the testimony is that much DSNY overtime is structurally embedded — seasonal operations, stadium cleaning, blockades, snow — and not easily replaced by headcount. The department is targeting 1.5 percent savings in fiscal year 2026 and 2.5 percent in fiscal year 2027 per standard agency guidance, but had not yet finalized specific initiatives as of the March 20 deadline.</p>
 <p>Containerization and the Manhattan Community District 9 Empire bin pilot drew sustained interest. The pilot, covering roughly 1,100 Empire bins in West Harlem at a cost of approximately 2.1 million, is showing about 70 percent broad compliance among buildings and has not yet produced measurable overtime savings given its pilot scale. June 2026 is the deadline by which one-to-nine unit residential properties citywide must use the official New York City bin exclusively. A citywide expansion cost estimate for the Empire bin model is still being developed. The commercial waste zone rollout — now operational in five of twenty zones with full citywide implementation targeted by end of 2027 — drew advocacy from public witnesses urging faster diversion investment and use of underutilized marine transfer stations for commercial waste. The waste export budget of nearly 600 million annually, representing roughly a quarter of DSNY's total spend, was flagged by multiple public witnesses as an environmental justice issue as well as a fiscal one, with the department and advocates aligned in support of state extended producer responsibility legislation that could return as much as 150 million annually to the city.</p>
@@ -129,10 +132,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=u1f_c8-Jcos&amp;t=52s"><strong>(00:00:52)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=u1f_c8-Jcos&amp;t=52s"><strong>(00:00:52)</strong></a></p>
 <p><a href="https://www.youtube.com/watch?v=u1f_c8-Jcos&amp;t=512s"><strong>(00:08:32)</strong></a></p>
 <p>Good morning and welcome to today's New York City Council hearing for the Committee on Sanitation and Solid Waste Management. At this time, I would like to remind everyone to silence all electronic devices. Also, at this point, going forward, no one is to approach the chair. We are ready to begin.</p>
 <p><a href="https://www.youtube.com/watch?v=u1f_c8-Jcos&amp;t=529s"><strong>(00:08:49)</strong></a></p>
@@ -697,8 +702,9 @@
 <p>Thank you for your testimony.</p>
 <p><a href="https://www.youtube.com/watch?v=u1f_c8-Jcos&amp;t=12003s"><strong>(03:20:03)</strong></a></p>
 <p>And with that, the preliminary budget hearing for the Committee on Sanitation and Solid Waste Management is officially closed.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -726,7 +732,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -771,5 +777,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

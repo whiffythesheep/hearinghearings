@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Subcommittee on Early Childhood Education held a joint hearing with the committees on Workforce Development and Higher Education to examine NYC's early childhood educator workforce crisis and consider T2026-1656, legislation establishing a child care workforce grant program. The hearing revealed a system in genuine crisis: NYC needs 5,000 new early childhood educators annually just to maintain current capacity, with over 40% of the workforce nearing retirement and more than half of new teachers leaving within five years. The fundamental problem is straightforward - the city requires educators to accumulate over $200,000 in education debt and pay more than $1,000 in certification fees to earn a median wage of $69,000, well below NYC's median salary.</p>
 <p>Administration officials from the Mayor's Office of Child Care, CUNY, and other agencies outlined expansion plans including 2,000 new 2K seats and 1,000 additional 3K seats, while acknowledging the workforce pipeline cannot support these goals under current conditions. The testimony exposed stark compensation inequities between community-based organization teachers and their DOE counterparts - wage gaps that create lifetime earnings differences of $700,000 for teachers and $1.7 million for directors. CUNY representatives detailed extensive programming serving 3,600 students across multiple degree levels, including an oversubscribed apprenticeship program that received 400 applications for 30 slots.</p>
 <p>Public testimony from providers, educators, and advocacy organizations consistently identified wage parity as the core solution, with several witnesses proposing that CBO staff be allowed to unionize with the UFT. Family childcare providers described earning as little as $6-7 per hour after expenses, while program directors detailed operating on 2021 budget levels amid rising costs. The hearing also highlighted systemic inefficiencies, including 3-6 month background check delays that lose qualified candidates to other sectors and fragmented data systems that prevent coherent workforce planning across the mixed public-private system.</p>
@@ -127,10 +130,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=c2C1cWDvyHA&amp;t=21s"><strong>(00:00:21)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=c2C1cWDvyHA&amp;t=21s"><strong>(00:00:21)</strong></a></p>
 <p>Good morning. Good morning. Good morning. Good morning. Good morning. Good morning. Good morning. Good morning. Good morning. Good morning. Good morning.</p>
 <p><a href="https://www.youtube.com/watch?v=c2C1cWDvyHA&amp;t=862s"><strong>(00:14:22)</strong></a></p>
 <p>Thank you, Chair Gutiérrez. As a longtime public school educator, the topic of developing and recruiting qualified teachers to work with our youngest children is important to me. As chair of the Committee on Higher Education, I want to know more about how CUNY plays such a significant role in ensuring that our youngest New Yorkers get a good start on their education path. I also want to ensure that any New Yorkers who have interests in or experience with early childhood education as a career path are able to get the credentials they need to enter or to advance that workforce. I am happy to say that CUNY is playing a very active part in preparing these workers. Currently, approximately 3,600 CUNY students are working towards a degree in early childhood education. A great variety of certificates, advanced certificates, associates degrees, bachelor's degrees, masters and other credentials in early childhood education, including with bilingual and special education focuses are offered at various CUNY community college and senior college campuses. In addition, the New York Early Childhood Professional Development Institution which is a public private partnership at CUNY works to provide comprehensive support for early childhood professionals at every stage of their career journey. As CUNY Chancellor Felix Matos Rodriguez recently noted, this is a moment where we need to meet the City's demand for their workforce. I look forward to this discussion.</p>
@@ -923,8 +928,9 @@
 <p>And it has underwritten critical program components like coaching, supervision, and wraparound supports like tutoring that make it possible for non-traditional teacher candidates to actually balance work, school, and life. Currently employ more than 30 apprentices, which as far as I know may make us the largest sponsor of education apprentices in New York State at this point. So KCC is living proof that the grow your own model works, but it needs ongoing sustainable funding to reach its full potential, not just one time startup investments. So, I want to urge the City to invest in scaling models like ours, and we would love to partner even more closely with you to do so that we can really build a strong, diverse early childhood workforce. Thank you.</p>
 <p><a href="https://www.youtube.com/watch?v=c2C1cWDvyHA&amp;t=15041s"><strong>(04:10:41)</strong></a></p>
 <p>Thank you so much. And before we conclude, I just want to make sure that we did not accidentally miss any panelists on Zoom. No hands up. We are good. All right. I want to thank my illustrious co-chairs, Chair Rita C. Joseph, Chair Julie Won, and of course the staff and all the people that came to testify. Thank you all so much. Good night.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -952,7 +958,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -997,5 +1003,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Early Childhood Educator Workforce Development and Pipeline";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

@@ -61,8 +61,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Housing and Buildings Committee held its preliminary budget hearing for fiscal year 2027, covering the Department of Buildings (DOB, $317.7 million proposed budget) and the Department of Housing Preservation and Development (HPD, $1.08 billion proposed budget). The hearing ran roughly six hours and included testimony from both agencies' new commissioners, the public advocate, and a lengthy public session featuring legal services providers, housing advocacy groups, tenant organizers, homeownership counselors, and community land trust representatives. The backdrop throughout was the Mamdani administration's first budget cycle, with both commissioners newly appointed and under visible scrutiny about whether they can execute meaningfully differently from their predecessors.</p>
 <p>DOB Commissioner Ahmed Tani, just two months into the role, presented a relatively steady-state budget but pointed to several genuine operational improvements: proactive inspections now account for roughly 35% of all enforcement inspections (up from near zero a few years ago), construction-related injuries dropped 42% between fiscal years 2024 and 2025, and sidewalk sheds citywide have been reduced by about 15% since 2023. Tani also flagged worsening service metrics — plan review times up from 3.5 to 5 days, complaint response for priority B violations up from 15 to 21 days — attributing the increases to vacancies and reduced overtime. On Local Law 97, DOB reported over 91% compliance with Phase 1 reporting requirements, though acknowledged the harder work of actually cutting emissions toward the 2030 targets remains ahead. Council members pressed hard on elevator outages (13,166 complaints in 2025 against just 28 active inspectors with 4 vacancies), SRO tenant harassment, stalled construction sites, and the $310 million in uncollected DOB fines. The contractor licensing suspension of Yakov Eisenbach of Hexagon Industries following a wall collapse near an elementary school was cited approvingly as an example of proactive enforcement working.</p>
 <p>HPD Commissioner Dena Levy (returning to city government after stints at UHAB and elsewhere) faced tougher questioning, partly because HPD's budget shows a nominal $500 million reduction from the fiscal 2026 modified budget, though much of that reflects the wind-down of asylum seeker shelter contracts and changes in pass-through funding rather than direct service cuts. Key substantive concerns: section 8 voucher utilization is falling (now 87%) partly because HPD is in shortfall and cannot issue new vouchers while HUD has swept reserves; CityFHEPS is funded at $1.64 billion against what advocates say is an $800 million structural undercount; the Alternative Enforcement and Emergency Repair Programs show very low fine collection rates (30% and 13% respectively), though Levy argued compliance matters more than collections; and new construction permitted under 421A is showing elevated violation rates per unit. Council members pushed on the HPD capital cliff — the five-year plan drops sharply after fiscal 2026, and the New York Housing Conference testified that HPD needs roughly $4 billion per year to maintain historical production, against a budget that falls well below $3 billion in fiscal 2027 and below $2 billion in the outer years. The 94 positions funded through City of Yes are still being hired into, with 22% vacancy in the project manager series and 19% vacancy among inspectors.</p>
@@ -130,10 +133,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=aPrlRrwWsaU&amp;t=10s"><strong>(00:00:10)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=aPrlRrwWsaU&amp;t=10s"><strong>(00:00:10)</strong></a></p>
 <p><a href="https://www.youtube.com/watch?v=aPrlRrwWsaU&amp;t=1057s"><strong>(00:17:37)</strong></a></p>
 <p>New York City Council hearing from the Committee on Housing and Buildings. At this time, I would like to remind everyone to please silence their electronic devices and at no point is anyone to approach the dais. Additionally, no one is to approach the witness table unless invited to testify. If you have not signed up to testify and would like to, you can fill out a slip located on the table in the hallway outside with the sergeant-at-arms chair. We are ready to begin.</p>
 <p><a href="https://www.youtube.com/watch?v=aPrlRrwWsaU&amp;t=1079s"><strong>(00:17:59)</strong></a></p>
@@ -1456,8 +1461,9 @@
 </blockquote>
 <p><a href="https://www.youtube.com/watch?v=aPrlRrwWsaU&amp;t=23443s"><strong>(06:30:43)</strong></a></p>
 <p>If we have inadvertently missed anyone that has registered to testify today and has yet to be called, please use the Zoom raise hand function. If you are testifying remotely, you will be called in the order that your hand has been raised. If you are testifying in person, please come to the dais. Seeing none, I will now close today's hearing. Thank you to the members of the administration and the members of the public who have joined us today. This hearing is adjourned.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -1485,7 +1491,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -1530,5 +1536,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

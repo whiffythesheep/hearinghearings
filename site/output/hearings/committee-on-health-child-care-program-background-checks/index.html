@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Health Committee, jointly with the Subcommittee on Early Childhood Education and the Committee on Oversight and Investigations, held an oversight hearing on child care background checks in the context of the Mamdani administration's ambitious push toward universal child care, including the imminent launch of 2K for two-year-olds. The hearing examined how a system that was demonstrably broken as recently as 2023 has improved, what structural problems remain, and what legislation might help. It also heard bills on unrelated health topics: organ donation leave, vaccine insurance reimbursement, and drug manufacturing costs.</p>
 <p>The administration sent Emmy Liss from the Mayor's Office of Child Care, digital strategist Arin Yarro, and DOH Deputy Commissioner Karen Schiff. Their testimony was broadly reassuring on process improvements: median background check processing time is now around 30 days against a 45-day federal mandate, down from a catastrophic backlog in 2019. Yarro demoed a new online permitting portal, launched in March 2026, that replaces a chaotic mix of emails, PDFs and in-person visits with milestone-based workflows, real-time scheduling, document upload, chat with assigned DOH staff, and a background check dashboard. The portal has 43 applicants so far and covers new center-based providers only, with renewals planned for a future release. Schiff confirmed DOH now has 60 staff dedicated to background checks, a private fingerprinting contractor (IdentoGO) with broad hours and locations replacing the old DOI-only model, and portability for educators changing employers within the field without needing a full new check, provided they have been continuously employed and cleared within the past five years.</p>
 <p>Council Members pressed on several gaps. CM Gutierrez raised the persistent disconnect between the official 30-day median and the three-months-plus experiences providers are actually reporting to her office, the lack of coordination between city and state systems, and the resource demands of a significant expansion. Chair Schulman questioned the capacity to handle background check volume as 2K scales from 2,000 seats this fall to every two-year-old by end of term. CM Krishnan highlighted the cost burden of fingerprinting on workers. CM Brewer asked about demographic planning and whether the City is seriously trying to reverse family out-migration. The administration's answers were generally competent but somewhat circular on the demand question: they said they would grow staff as demand grows but had not set hard staffing targets or timelines.</p>
@@ -113,10 +116,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=s95htCcRQUc&amp;t=25s"><strong>(00:00:25)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=s95htCcRQUc&amp;t=25s"><strong>(00:00:25)</strong></a></p>
 <p><a href="https://www.youtube.com/watch?v=s95htCcRQUc&amp;t=405s"><strong>(00:06:45)</strong></a></p>
 <p>With the Subcommittee on Early Childhood Education and joined with the Committee on Oversight and Investigations. If you would like to testify, you must fill out a testimony slip with one of the sergeants-at-arms in the back of the room. You may also submit testimony at testimony@council.nyc.gov. At this time, please silence all electronic devices and no one may approach the dais. Chairs, we are ready to begin.</p>
 <p><a href="https://www.youtube.com/watch?v=s95htCcRQUc&amp;t=428s"><strong>(00:07:08)</strong></a></p>
@@ -444,8 +449,9 @@
 <p>You have to read a whole script now.</p>
 <p><a href="https://www.youtube.com/watch?v=s95htCcRQUc&amp;t=6119s"><strong>(01:41:59)</strong></a></p>
 <p>I have to read. Yes, I have to read.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -473,7 +479,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -518,5 +524,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - Child Care Program Background checks";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>

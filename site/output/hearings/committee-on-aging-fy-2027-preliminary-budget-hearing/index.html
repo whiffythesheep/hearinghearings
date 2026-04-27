@@ -64,8 +64,11 @@
     </header>
 
     <section class="hearing-summary">
-        <h2>Summary</h2>
-<h3>Meeting Overview</h3>
+        <div class="section-header">
+            <h2>Summary</h2>
+            <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
+        </div>
+        <h3>Meeting Overview</h3>
 <p>The Committee on Aging held its preliminary budget hearing for FY2027, featuring a new 9-day Commissioner Dr. Lisa Scott McKenzie defending a $573.5 million budget that represents less than 1% of the city's total spending despite serving 20% of New York's population. Chair Susan Zhuang introduced a pointed new tradition of displaying photos of deteriorating senior centers, forcing visual accountability for infrastructure failures that plague the system.</p>
 <p>The hearing revealed the fundamental mismatch between demographics and resources: while the senior population is projected to grow 40% by 2040, the preliminary budget actually decreased by $32 million from the previous year. McKenzie walked through core programs including $240.8 million for Older Adult Centers, $78 million for home-delivered meals, and $47.4 million for case management, but Council members pressed on systemic problems that money alone won't fix. The dysfunction extends beyond DFTA's control — senior centers housed in NYCHA buildings suffer from the authority's legendary maintenance failures, requiring complex interagency coordination that rarely materializes effectively.</p>
 <p>Several issues highlighted the government's struggles with modern challenges. SNAP benefit theft through card skimming has become a significant problem for seniors, with solutions requiring federal action while victims wait for relief. The department's upcoming $27.1 million move to 14 Wall Street drew skeptical questioning about costs, while a successful $5 million capital program for senior center improvements generated requests for expansion. Technology training remains limited despite digital literacy being essential for accessing services.</p>
@@ -155,10 +158,12 @@
     </section>
 
     
-    <details class="hearing-transcript">
-        <summary>▸ Full Transcript</summary>
-        <div class="transcript-body">
-            <p><a href="https://www.youtube.com/watch?v=t3VwzDMRYHg&amp;t=421s"><strong>(00:07:01)</strong></a></p>
+    <div class="hearing-transcript-wrapper">
+        <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
+        <details class="hearing-transcript">
+            <summary>▸ Full Transcript</summary>
+            <div class="transcript-body">
+                <p><a href="https://www.youtube.com/watch?v=t3VwzDMRYHg&amp;t=421s"><strong>(00:07:01)</strong></a></p>
 <p>Good afternoon and welcome to today's New York City Council hearing for the Committee on Aging. If you would like to testify, you must fill out a witness slip with one of the sergeant-at-arms, even if you signed up already. At this time, please silence all electronic devices and no one may approach. Chair, we are ready to begin.</p>
 <p><a href="https://www.youtube.com/watch?v=t3VwzDMRYHg&amp;t=442s"><strong>(00:07:22)</strong></a></p>
 <p>Thank you. Good afternoon. I am CM Susan Zhuang. I serve as chair of the Committee on Aging. It is an honor to be chairing my first budget hearing on the fiscal 2027 preliminary budget for the New York City Department for the Aging, also known as NYC Aging. Thank you to DFTA's newly appointed commissioner. Welcome Lisa Scott McKenzie for joining us. We are joined by CM Shirley Aldebol. That is it right now. Following testimony and questions with NYC Aging, we will hear testimony from the public at approximately 2:30. Thank you to the older adults advocates who joined us today. I will keep my comments here brief and I request the commissioner keep your oral testimony brief too so we can move on to questions from council members.</p>
@@ -473,8 +478,9 @@
 <p>stamp scammed, they can call 311 and the DFTA and the HRA require HRA to send</p>
 <p><a href="https://www.youtube.com/watch?v=t3VwzDMRYHg&amp;t=7728s"><strong>(02:08:48)</strong></a></p>
 <p>them information where the nearby food pantry... or... but they will not get their money back at all. Yeah. Well, I cannot say that. I know the money they do not get back. That is federal though. I am going to talk to the congress person. Thank you.</p>
-        </div>
-    </details>
+            </div>
+        </details>
+    </div>
     
 </article>
 
@@ -502,7 +508,7 @@
                     </div>
                 </div>
             </aside>
-            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Please verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
+            <p class="ai-disclosure">AI-generated summaries and transcripts. Errors are possible.<br>Verify against the linked video and send corrections via <a href="mailto:email@hearinghearings.nyc">email</a>.</p>
             
 
         </main>
@@ -547,5 +553,14 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    function downloadSummaryPdf() {
+        var original = document.title;
+        document.title = "Summary - FY 2027 Preliminary Budget Hearing";
+        window.print();
+        setTimeout(function () { document.title = original; }, 1000);
+    }
+</script>
+
 </body>
 </html>
