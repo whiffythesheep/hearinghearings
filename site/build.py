@@ -15,6 +15,7 @@ TEMPLATE_DIR = os.path.join(ROOT, "templates")
 STATIC_DIR = os.path.join(ROOT, "static")
 OUTPUT_DIR = os.path.join(ROOT, "output")
 SITE_URL = "https://hearinghearings.nyc"
+META_IMAGE = f"{SITE_URL}/static/og-image.png"
 
 
 def truncate_text(text, max_len):
@@ -187,6 +188,7 @@ def build():
         meta_title="Hearing Hearings",
         meta_description="Summaries and transcripts of New York City Council hearings.",
         meta_url=f"{SITE_URL}/",
+        meta_image=META_IMAGE,
     )
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
@@ -210,6 +212,7 @@ def build():
             meta_title=combined_title,
             meta_description=hearing["summary_snippet"],
             meta_url=f"{SITE_URL}/hearings/{hearing['slug']}/",
+            meta_image=META_IMAGE,
         )
         with open(os.path.join(hearing_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(html)
@@ -239,6 +242,7 @@ def build():
         meta_title="404 — Page Not Found | Hearing Hearings",
         meta_description="Page not found.",
         meta_url=f"{SITE_URL}/",
+        meta_image=META_IMAGE,
     )
     with open(os.path.join(OUTPUT_DIR, "404.html"), "w", encoding="utf-8") as f:
         f.write(four04_html)
