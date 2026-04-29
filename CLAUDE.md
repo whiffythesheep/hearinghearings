@@ -117,6 +117,26 @@ Raw YouTube segments, speaker turns, and cleaned utterances are all cached as a 
 - Form styling is in `site/static/site.css` under `.subscribe-*` selectors to inherit the Win95 palette
 - MailerLite account must have `hearinghearings.nyc` added as an allowed domain for embed submissions to succeed in production
 
+### Preview-then-broadcast email flow
+
+By default the pipeline sends a `[PREVIEW]` campaign to a one-member Preview group first, prompts at the terminal, and only sends to all subscribers after you press Enter.
+
+One-time setup:
+1. In MailerLite → Subscribers → Groups → create a group named `Preview`.
+2. Add `seaneke@outlook.com` (or whichever address is the preview recipient) as the only subscriber in that group.
+3. Copy the group ID (visible in the dashboard URL or via `GET /api/groups`).
+4. Add to `.env`:
+   ```
+   MAILERLITE_PREVIEW_GROUP_ID=<id>
+   ```
+
+Flags:
+- Default (no flag) — preview campaign first, then prompt, then broadcast.
+- `--skip-preview` — broadcast directly to all subscribers, no preview, no prompt.
+- `--no-email` — skip the email step entirely.
+
+If `MAILERLITE_PREVIEW_GROUP_ID` is unset and `--skip-preview` is not passed, the email step aborts with a setup-hint message and no campaign is created.
+
 ## Inherited standards
 
 - Excel naming (`YY.MM descriptive name`), formatting (Aptos Narrow 11, Notes/Raw tabs) from `~/.claude/CLAUDE.md` still apply for any spreadsheet outputs
