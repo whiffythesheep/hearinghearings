@@ -117,6 +117,11 @@ def parse_args():
         "--no-email", action="store_true",
         help="Skip sending subscriber email after deploy."
     )
+    parser.add_argument(
+        "--skip-preview", action="store_true",
+        help="Skip the preview-then-confirm step and broadcast to all "
+             "subscribers directly (matches the pre-2026-04-29 behaviour)."
+    )
     return parser.parse_args()
 
 
@@ -1296,6 +1301,7 @@ def build_web_content(summary, utterances, agenda_text, title, committee,
 MAILERLITE_API_URL = "https://connect.mailerlite.com/api"
 MAILERLITE_FROM_NAME = "Hearing Hearings"
 MAILERLITE_FROM_EMAIL = "email@hearinghearings.nyc"
+PREVIEW_SUBJECT_PREFIX = "[PREVIEW] "
 SITE_URL = "https://hearinghearings.nyc"
 
 
@@ -1458,13 +1464,11 @@ _SKYLINE_SVG = '''\
 </svg>'''
 
 
-def send_subscriber_email(web_content, slug, title):
-    """Send an email to all MailerLite subscribers with the hearing summary."""
-    api_key = os.environ.get("MAILERLITE_API_KEY")
-    if not api_key:
-        logger.warning("MAILERLITE_API_KEY not set, skipping subscriber email.")
-        return
+def _render_email_html(web_content, slug, title):
+    """Compose the HTML body for a hearing campaign email.
 
+    Returns (subject, html_body). Subject is the combined committee+title.
+    """
     fields, summary_body = _parse_email_front_matter(web_content)
     summary_body = _truncate_bullet_sections(summary_body)
     summary_html = _inline_summary_html(markdown.markdown(summary_body))
@@ -1579,49 +1583,136 @@ def send_subscriber_email(web_content, slug, title):
 </body>
 </html>"""
 
-    headers = {
+    return title, html_body
+
+
+def _mailerlite_headers(api_key):
+    return {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
 
-    # Create campaign
-    campaign_data = {
-        "name": title,
-        "type": "regular",
-        "emails": [{
-            "subject": title,
-            "from_name": MAILERLITE_FROM_NAME,
-            "from": MAILERLITE_FROM_EMAIL,
-            "content": html_body,
-        }],
+
+def _create_campaign(api_key, *, name, subject, html_body, groups=None):
+    """Create a MailerLite campaign. Returns campaign_id, or None on failure.
+
+    If `groups` is provided (list of group ID strings), the campaign is
+    targeted at those groups; otherwise it goes to all subscribers.
+    """
+    email_obj = {
+        "subject": subject,
+        "from_name": MAILERLITE_FROM_NAME,
+        "from": MAILERLITE_FROM_EMAIL,
+        "content": html_body,
     }
+    campaign_data = {
+        "name": name,
+        "type": "regular",
+        "emails": [email_obj],
+    }
+    if groups:
+        campaign_data["groups"] = list(groups)
+
     resp = http_requests.post(
         f"{MAILERLITE_API_URL}/campaigns",
         json=campaign_data,
-        headers=headers,
+        headers=_mailerlite_headers(api_key),
         timeout=30,
     )
     if resp.status_code not in (200, 201):
         logger.error(f"MailerLite create campaign failed ({resp.status_code}): {resp.text}")
-        return
-    campaign_id = resp.json()["data"]["id"]
-    logger.info(f"MailerLite campaign created: {campaign_id}")
+        return None
+    return resp.json()["data"]["id"]
 
-    # Send immediately
+
+def _schedule_campaign_instant(api_key, campaign_id):
+    """Schedule a campaign for instant delivery. Returns True on success."""
     resp = http_requests.post(
         f"{MAILERLITE_API_URL}/campaigns/{campaign_id}/schedule",
         json={"delivery": "instant"},
-        headers=headers,
+        headers=_mailerlite_headers(api_key),
         timeout=30,
     )
     if resp.status_code not in (200, 201):
         logger.error(f"MailerLite schedule failed ({resp.status_code}): {resp.text}")
+        return False
+    return True
+
+
+def send_subscriber_email(web_content, slug, title, *, skip_preview=False):
+    """Send a hearing campaign via MailerLite, gated on a preview by default.
+
+    Default flow: send a [PREVIEW] campaign to the Preview group, prompt the
+    user at the terminal, then (on confirmation) send the broadcast campaign
+    to all subscribers. Pass `skip_preview=True` to bypass the preview.
+    """
+    api_key = os.environ.get("MAILERLITE_API_KEY")
+    if not api_key:
+        logger.warning("MAILERLITE_API_KEY not set, skipping subscriber email.")
         return
-    logger.info(f"Subscriber email sent for: {title}")
+
+    preview_group_id = os.environ.get("MAILERLITE_PREVIEW_GROUP_ID")
+    if not skip_preview and not preview_group_id:
+        logger.error(
+            "MAILERLITE_PREVIEW_GROUP_ID not set. Create a Preview group in "
+            "MailerLite with your personal email and add the group ID to .env, "
+            "or pass --skip-preview to broadcast directly."
+        )
+        return
+
+    subject, html_body = _render_email_html(web_content, slug, title)
+
+    if skip_preview:
+        broadcast_id = _create_campaign(
+            api_key, name=title, subject=subject, html_body=html_body, groups=None
+        )
+        if not broadcast_id:
+            return
+        logger.info(f"MailerLite broadcast campaign created: {broadcast_id}")
+        if _schedule_campaign_instant(api_key, broadcast_id):
+            logger.info(f"Subscriber email sent for: {title}")
+        return
+
+    # Preview-first flow
+    preview_id = _create_campaign(
+        api_key,
+        name=f"{PREVIEW_SUBJECT_PREFIX}{title}",
+        subject=f"{PREVIEW_SUBJECT_PREFIX}{subject}",
+        html_body=html_body,
+        groups=[preview_group_id],
+    )
+    if not preview_id:
+        return
+    logger.info(f"MailerLite preview campaign created: {preview_id}")
+    if not _schedule_campaign_instant(api_key, preview_id):
+        return
+    logger.info(f"Preview email sent (campaign {preview_id}).")
+
+    try:
+        choice = input(
+            "Preview sent to the Preview group. "
+            "Broadcast to all subscribers? [Y/n] "
+        ).strip().lower()
+    except (EOFError, KeyboardInterrupt):
+        logger.info(f"Broadcast skipped after preview (campaign {preview_id} kept).")
+        return
+
+    if choice and choice not in ("y", "yes"):
+        logger.info(f"Broadcast skipped after preview (campaign {preview_id} kept).")
+        return
+
+    broadcast_id = _create_campaign(
+        api_key, name=title, subject=subject, html_body=html_body, groups=None
+    )
+    if not broadcast_id:
+        return
+    logger.info(f"MailerLite broadcast campaign created: {broadcast_id}")
+    if _schedule_campaign_instant(api_key, broadcast_id):
+        logger.info(f"Subscriber email sent for: {title}")
 
 
 def publish_to_website(web_content, slug, title, committee="",
-                       deploy=True, send_email=True):
+                       deploy=True, send_email=True, skip_preview=False):
     """Save markdown to the website content dir, build the site, and push."""
     if not WEBSITE_CONTENT_DIR.exists():
         logger.error(f"Website content directory not found: {WEBSITE_CONTENT_DIR}")
@@ -1669,7 +1760,8 @@ def publish_to_website(web_content, slug, title, committee="",
     logger.info(f"Pushed to remote. Cloudflare will deploy shortly.")
 
     if send_email:
-        send_subscriber_email(web_content, slug, combined_title)
+        send_subscriber_email(web_content, slug, combined_title,
+                              skip_preview=skip_preview)
 
 
 def main():
@@ -1923,7 +2015,8 @@ def main():
             duration, council_url=args.council_url or ""
         )
     publish_to_website(web_content, slug, title, committee=committee,
-                       deploy=not args.no_deploy, send_email=not args.no_email)
+                       deploy=not args.no_deploy, send_email=not args.no_email,
+                       skip_preview=args.skip_preview)
 
     logger.info("Done!")
 
