@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 23 of 23</span>
+            <span id="hearing-count" aria-live="polite">Showing 24 of 24</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -359,6 +359,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Consumer and Worker Protection"]'
+                data-title="Insurance Accountability, Wage Theft and Emerging Consumer Scams"
+                data-month="2026-04">
+                <a href="/hearings/committee-on-consumer-and-worker-protection-insurance-accountability-wage-theft-and-emerging-consumer-scams/">
+                    <time class="hearing-row__date" datetime="2026-04-29">
+                        April 29, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Consumer and Worker Protection</span>
+                    <span class="hearing-row__title">Insurance Accountability, Wage Theft and Emerging Consumer Scams</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -742,7 +755,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 23;
+        var totalHearings = 24;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
