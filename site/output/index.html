@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 24 of 24</span>
+            <span id="hearing-count" aria-live="polite">Showing 25 of 25</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -220,6 +220,11 @@
                     </button>
                     <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
                         <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-05">
+                            <span>May 2026</span>
+                        </label>
                     
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="2026-04">
@@ -342,6 +347,11 @@
                         </label>
                     
                         <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Small Business">
+                            <span>Committee on Small Business</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
                             <input type="checkbox" value="Committee on Transportation and Infrastructure">
                             <span>Committee on Transportation and Infrastructure</span>
                         </label>
@@ -359,6 +369,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Small Business", "Committee on Immigration"]'
+                data-title="Economic Impacts of Federal Immigration Policy Changes"
+                data-month="2026-05">
+                <a href="/hearings/committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes/">
+                    <time class="hearing-row__date" datetime="2026-05-06">
+                        May 6, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Small Business | Committee on Immigration</span>
+                    <span class="hearing-row__title">Economic Impacts of Federal Immigration Policy Changes</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -755,7 +778,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 24;
+        var totalHearings = 25;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
