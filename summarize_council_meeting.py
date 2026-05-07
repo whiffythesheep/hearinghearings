@@ -126,6 +126,12 @@ def parse_args():
         help="Skip the preview-then-confirm step and broadcast to all "
              "subscribers directly (matches the pre-2026-04-29 behaviour)."
     )
+    parser.add_argument(
+        "--keep-public-testimony", action="store_true",
+        help="Do not strip the public-testimony section even when the chair "
+             "uses an explicit trigger phrase. Use when public testimony "
+             "contains substantive expert content worth preserving."
+    )
     return parser.parse_args()
 
 
@@ -779,8 +785,12 @@ def format_speakers(utterances, speaker_map):
             u["speaker"] = "Witness"
 
 
-def remove_sections(utterances):
-    """Remove oath (swearing in) and public testimony sections from transcript."""
+def remove_sections(utterances, keep_public_testimony=False):
+    """Remove oath (swearing in) and public testimony sections from transcript.
+
+    Pass keep_public_testimony=True to preserve public testimony even when
+    the chair uses an explicit trigger phrase (oath is still stripped).
+    """
     oath_pattern = re.compile(
         r"do you (swear|affirm).*(truth|honest)", re.IGNORECASE
     )
@@ -813,19 +823,20 @@ def remove_sections(utterances):
     # Only match when the phrase appears in a short utterance (transition
     # announcement) or near the start of the text, to avoid false positives
     # from passing mentions in longer speeches.
-    public_start = None
-    for i, u in enumerate(utterances):
-        m = public_testimony_pattern.search(u["text"])
-        if m and m.start() < 120:
-            public_start = i
-            logger.info(
-                f"  Removing public testimony from {ms_to_timestamp(u['start'])} onward "
-                f"({len(utterances) - i} utterances)"
-            )
-            break
+    if not keep_public_testimony:
+        public_start = None
+        for i, u in enumerate(utterances):
+            m = public_testimony_pattern.search(u["text"])
+            if m and m.start() < 120:
+                public_start = i
+                logger.info(
+                    f"  Removing public testimony from {ms_to_timestamp(u['start'])} onward "
+                    f"({len(utterances) - i} utterances)"
+                )
+                break
 
-    if public_start is not None:
-        indices_to_remove.update(range(public_start, len(utterances)))
+        if public_start is not None:
+            indices_to_remove.update(range(public_start, len(utterances)))
 
     if not indices_to_remove:
         logger.info("  No oath or public testimony sections found to remove.")
@@ -1328,7 +1339,7 @@ def build_web_content(summary, utterances, agenda_text, title, committee,
         "---",
         f'committee: "{committee}"',
         f"committee_slug: {committee_slug_val}",
-        f'title: "{title}"',
+        f'title: "{title.strip(chr(34))}"',
         f"date: {date_str}",
         f"slug: {slug}",
         f'duration: "{duration}"',
@@ -1988,7 +1999,7 @@ def main():
         format_speakers(utterances, speaker_map)
 
     # Step 6: Remove oath and public testimony.
-    utterances = remove_sections(utterances)
+    utterances = remove_sections(utterances, keep_public_testimony=args.keep_public_testimony)
 
     # Step 7: Strip residual [VERIFY:] markers.
     verify_pattern = re.compile(r"\s*\[VERIFY:[^\]]*\]")

@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Small Business | Committee on Immigration"
 committee_slug: committee-on-small-business
-title: ""Economic Impacts of Federal Immigration Policy Changes""
+title: "Economic Impacts of Federal Immigration Policy Changes"
 date: 2026-05-06
 slug: committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes
 duration: "2hrs 55m"
@@ -12,62 +12,68 @@ Summary
 
 Meeting Overview
 
-The Committee on Small Business and Committee on Immigration held a joint oversight hearing on the economic impacts of federal immigration policy changes on New York City's small business community. Chair Shanel Thomas-Henry and co-chair Elsie Encarnación led the hearing, receiving testimony from the Department of Small Business Services (represented by Chief of Staff Harris Khan), the Mayor's Office of Immigrant Affairs (MOIA), and Manhattan Borough President Brad Lander. No legislation was voted on; the hearing was purely oversight in nature, aimed at understanding how federal enforcement actions and policy changes are affecting immigrant entrepreneurs, workers, and commercial corridors.
+The joint hearing of the Committees on Small Business and Immigration, held on May 6, 2026, examined the economic impacts of federal immigration policy changes on New York City's small businesses and immigrant communities. The hearing was framed around a stark baseline: immigrants own more than half of the city's approximately 180,000 small businesses, make up nearly 40% of the city's population, and are the backbone of hospitality, construction, healthcare, and food service. Against that backdrop, the Trump administration's immigration enforcement posture — aggressive ICE activity, termination or suspension of TPS and humanitarian parole, and a new SBA rule barring lawful permanent residents from federally backed loans — is inflicting measurable harm on commercial corridors, workforce participation, and consumer confidence in immigrant neighborhoods.
 
-The administration's testimony was competent but revealed the uncomfortable gap between the scale of the problem and the city's resources to address it. SBS's citywide outreach team consists of five or six people covering 180,000 small businesses. MOIA's broader office has around 60 staff. The agencies cited multilingual outreach, know-your-rights materials, seven business solution centers, a hotline, and FIFA World Cup programming as their primary responses. The most candid moment came when SBS acknowledged that its main proxy for business health — storefront occupancy rates, tracked by quarterly street canvassing — tells you almost nothing about whether businesses are actually thriving. If a business stays open but loses half its customers, the city has no systematic way of knowing. Council Member Thomas-Henry put it plainly: businesses may be suffering in silence, and the city is measuring the wrong thing. SBS agreed but noted that small businesses would not willingly share sales data with government, leaving a genuine data gap that no one had a clear plan to fill.
+Administration testimony came from Harris Khan, Chief of Staff at the Department of Small Business Services, and a representative of the Mayor's Office of Immigrant Affairs (MOIA). SBS described its outreach operation, which reaches businesses in eight languages through seven borough-based Business Solution Centers, a hotline (888-SBS-4NYC), and a six-person citywide field team that has conducted over 1,000 events and engaged more than 70,000 New Yorkers since launch. SBS also highlighted the newly revamped NYC Future Fund (reduced interest rates, lower loan minimums) as a partial substitute for the now-restricted SBA loans, and the upcoming FIFA World Cup as an economic opportunity, with mobile outreach events scheduled across all five boroughs in May and June. MOIA noted that 90% of its funding goes to legal services, reflecting the reality that legal status — and fear of enforcement — is the dominant concern among immigrant New Yorkers, with the agency having received only ten calls specifically related to small business issues via its hotline.
 
-The hearing surfaced several concrete policy concerns beyond general enforcement fear. The Trump administration's recent SBA rule change now bars all non-citizens except US citizens and nationals from accessing SBA-guaranteed loans, cutting off a major capital channel for a community that makes up more than half of the city's small business owners. MOIA flagged that the IRS-ICE data sharing agreement, finalized in April 2025, risks suppressing tax filing by undocumented immigrants who collectively paid $3.1 billion in New York State and local taxes in 2022, with the American Immigration Council estimating potential nationwide losses of $14.4 billion in total taxes and $6.5 billion in Social Security and Medicare contributions. SBS also noted that its workforce services system is federally funded and therefore largely inaccessible to undocumented workers, limiting the city's ability to address labor force disruption in the hospitality, construction, healthcare, and agricultural sectors. Council Member Salaam pressed on sector-specific workforce stabilization strategies; the answer was essentially that the city has no good tool for this population given federal funding restrictions.
+Council members pressed hard on two systemic weaknesses. The first was the near-total absence of reliable economic data: SBS tracks storefront occupancy rates via quarterly street canvassing, but has no mechanism for tracking revenue, foot traffic, or the lived financial stress of businesses whose doors are technically still open. The Chair noted that vacancy rates may look stable citywide while individual corridors — including her own district in Corona — are visibly deteriorating. The second was capacity. A six-person outreach team for 180,000 small businesses is, as Chair Encarnacion drily noted, obviously not enough. MOIA's outreach budget provides for five staff for a sixty-person office. Members also flagged a significant gap in I-9 compliance guidance and employer education, the weaponization of IRS tax data against undocumented workers, and the practical inaccessibility of services for businesses whose owners are offline, speak indigenous languages, or are too afraid to engage with anything that looks like government.
 
-Manhattan Borough President Brad Lander gave the sharpest and most policy-dense testimony of the hearing, extending the frame well beyond small business to the cascading fiscal consequences of federal policy across housing, food assistance, healthcare, and public administration. He flagged HUD's proposed rule forcing mixed-status families from federally assisted housing, which could displace 11,000 New Yorkers and cost New York housing authorities $48 to $57 million in annual revenue, while potentially adding $330 million to $1.27 billion in shelter costs. He also noted SNAP disenrollment affecting up to 500,000 children, downstream effects on bodegas and grocery stores, and the corrosive chilling effect of the IRS-ICE data agreement on tax compliance. His four-point recommendation — audit total impacts, coordinate multilingual benefit outreach, expand legal services investment, and build data-sharing firewalls between city agencies and federal enforcement — was well-received but left unanswered the question of who owns implementation. His office is opening an immigrant welcome center at 125th Street and Amsterdam in Manhattan. The hearing ended without any formal commitments or legislative action, though members flagged a clear appetite for better data collection, more resources for SBS and MOIA, and a push to bring small business programming, including the SBS expo, to outer-borough and uptown neighborhoods rather than concentrating it in Midtown.
+Manhattan Borough President Brad Lander offered the most comprehensive analytical testimony, quantifying downstream costs that the administration witnesses were unable or unwilling to put numbers to: the proposed HUD mixed-status housing rule could displace 11,000 New Yorkers including 5,000 children citywide, cost housing authorities between $48 million and $57 million in annual revenue, and impose shelter costs of between $330 million and $1.27 billion on the city with no federal reimbursement. He called for a full audit of immigration policy impacts, expanded legal services, multilingual outreach reassuring eligible residents that benefit use will not trigger enforcement, and data-sharing protections between city agencies and federal immigration authorities.
+
+Public testimony reinforced the ground-level picture. The Queens Economic Development Corporation reported that 79% of businesses surveyed in Jackson Heights and Corona reported decreased sales and foot traffic since ICE activity accelerated, with 84% of affected businesses losing more than $1,000. The Brooklyn Chamber of Commerce found 30% of Brooklyn small businesses reported negative immigration enforcement impacts, rising to 79% in Sunset Park. The Street Vendor Project and affiliated vendors testified about the Canal Street raid, the closure of Corona Plaza Market three times over the winter due to ICE fear, and the urgent need for city funding to expand multilingual know-your-rights outreach. The Asian-American Federation and the Chinese-American Planning Council (CPC) requested an increase in legal services funding from $2 million to $3.5 million for fiscal year 2027, pointing to delinquency rates on small business loans rising to COVID-era levels. The Legal Aid Society flagged civil immigration fines of up to $1.8 million per person, warrantless arrests litigation, and the practical impossibility of advising businesses about work permit validity given the daily shifts in federal policy. A recurring and urgent secondary concern throughout the hearing was Local Law 75, the 2009 requirement that businesses replace solid security roll gates with 70% visibility gates by July 1, 2026 — a cost that small business owners and chamber representatives argued is devastating and poorly communicated, particularly in immigrant neighborhoods, and that multiple Council members indicated they are actively working to repeal or delay.
 
 Numbers
 
-- Immigrants own nearly half, and by some SBS figures more than half, of New York City's approximately 180,000 small businesses.
-- 56% of all storefront businesses in New York City are immigrant-owned, per SBS.
+- Immigrants own more than half of New York City's approximately 180,000 small businesses, including 56% of all storefront businesses.
 - Nearly 40% of New York City's population was born outside the United States.
 - 49% of New Yorkers speak a language other than English at home; 23% are limited English proficient.
-- SBS's citywide outreach team consists of five to six people covering 180,000 small businesses across all five boroughs.
-- MOIA's total office staff is approximately 60 people; its budget provides for five outreach staffers.
-- SBS has engaged more than 70,000 New Yorkers through over 1,000 outreach events since launching its outreach team.
-- SBS reached 56,000 New Yorkers within two weeks of launching FIFA World Cup outreach materials, including all DOH-registered food service establishments with an email on file.
-- SBS received 9,780 hotline calls in FY25; is on pace to exceed that in FY26 with 8,930 calls logged year-to-date.
-- SBS operates seven business solution centers, one per borough, plus a hotline at 888-SBS-4NYC.
-- The SBA rule change barring non-US citizens and nationals from SBA-guaranteed loans represents a gap SBS estimates in the tens of millions of dollars for New York City and billions of dollars nationally.
+- SBS has an outreach team of approximately five to six people for citywide small business outreach.
+- MOIA's outreach budget funds five staff positions, within an overall office of approximately 60 people.
+- SBS has engaged more than 70,000 New Yorkers through over 1,000 outreach events in all five boroughs since the launch of its outreach team.
+- SBS has already reached over 500 street vendors in 2026 through its new Office of Street Vendor Services.
+- SBS received 9,780 calls to its business hotline in FY2025; FY2026 call volume is already at 8,930, on pace to exceed the prior year.
+- SBS's NYC Future Fund was revamped to reduce interest rates, reduce the minimum loan size, and reduce monthly repayment rates.
+- The SBA loan rule change excluding non-US-citizens is estimated to represent a gap of tens of millions of dollars for New York City and billions of dollars nationally.
+- 56,000 New Yorkers were reached within one week of SBS distributing FIFA World Cup business engagement materials, including all DOH-registered food service establishment permit holders with an email on file.
+- Undocumented immigrants earn an average of approximately $36,000 compared to approximately $50,000 for naturalized non-citizens.
 - Undocumented immigrants paid $3.1 billion in New York State and local taxes in 2022.
-- The American Immigration Council estimates $14.4 billion in total taxes and $6.5 billion in Social Security and Medicare contributions could be lost nationwide if undocumented immigrants stop filing due to IRS-ICE data sharing.
-- Undocumented immigrants earn an average of approximately $36,000 annually, compared to approximately $50,000 for naturalized non-citizens.
-- HUD's proposed rule on mixed-status families could displace approximately 11,000 New Yorkers citywide, including around 5,000 children; hundreds of families and more than 1,000 children in Manhattan alone.
-- The proposed HUD rule is projected to cost New York housing authorities $48 million to $57 million in annual revenue.
-- Shelter costs resulting from the HUD rule could impose $330 million to $1.27 billion in additional costs on New York City with no federal reimbursement.
+- Nationwide, approximately $14.4 billion in total taxes, including $6.5 billion in Social Security and Medicare taxes, could be lost if undocumented immigrants stop filing due to fear of the IRS-ICE data-sharing agreement, according to the American Immigration Council.
+- 90% of MOIA's funding is directed to legal services.
+- MOIA received only ten calls related specifically to small businesses via its hotline.
+- The proposed HUD mixed-status family housing rule could displace approximately 11,000 New Yorkers, including approximately 5,000 children, citywide; in Manhattan alone, hundreds of families and more than 1,000 children could be affected.
+- The HUD rule is projected to cost New York housing authorities between $48 million and $57 million in annual revenue.
 - NYCHA faces an $80 billion capital deficit and a $791 million operating gap.
-- Manhattan's average asking rent has reached approximately $5,348 per month.
-- More than 1.8 million New Yorkers rely on SNAP, including roughly 500,000 children; New York State began removing SNAP eligibility from certain legally present non-citizens as of April 1, 2026.
-- Council District 8 current storefront vacancy rate is approximately 12.72%, down from 13.16% in the prior quarter.
-- Over 300 bodegas received panic buttons through a program administered by EDC in partnership with the United Bodegas of America under the prior administration.
-- The SBS NYC Future Fund was revised to reduce interest rates, minimum loan sizes, and monthly repayment rates to expand access for seasonal and growing small businesses.
-- SBS's Small Business Month Expo is scheduled for May 28, 2026, and is expected to draw 2,500 or more attendees.
-- The Haitian Response Initiative at MOIA comprises seven community-based organizations embedded in Little Haiti; a clinic is scheduled for May 28, 2026 in partnership with the Brooklyn Borough President.
-- MOIA's hotline received only ten calls specifically connected to small business concerns, mostly about accessing legal services.
-- Approximately 90% of MOIA's funding goes to legal services.
+- Shelter costs from displaced mixed-status families could impose additional costs of between $330 million and $1.27 billion on New York City with no federal reimbursement.
+- More than 1.8 million New Yorkers rely on SNAP, including approximately 500,000 children.
+- Queens Economic Development Corporation survey: 79% of businesses in Jackson Heights and Corona reported decreased sales and foot traffic; 39% described the decrease as major; 22% reported employee absenteeism due to ICE fear; 84% of affected businesses lost more than $1,000; 7% lost more than $10,000.
+- Brooklyn Chamber of Commerce survey: 65% of Brooklyn small business respondents reported being affected by tariffs; 56% raised prices; approximately 30% reported negative impacts from immigration enforcement or fear thereof; 79% in Sunset Park; 45% in Bay Ridge.
+- 96% of New York City street vendors are immigrants; 81% vend as their primary source of income; 65% live in a household with one or more children; total street vendor workforce estimated at more than 23,000.
+- The Asian-American Federation and CPC are requesting an increase in legal services funding for AAPI communities from approximately $2 million to $3.5 million in fiscal year 2027.
+- Civil immigration fines under the Trump administration can reach up to $1.8 million per person for failure to depart after a removal order.
+- Council District 8 (Chair Encarnacion's district) has a current storefront vacancy rate of approximately 12.72%, down from 13.16% the prior quarter.
+- Corona Plaza Market was closed three times during winter 2025-2026 due to ICE activity fear.
+- Roll gate replacement costs for a small storefront are estimated at approximately $3,500 to $5,000; Local Law 75 compliance deadline is July 1, 2026.
+- Over 300 bodegas received panic buttons through an EDC program administered in partnership with the United Bodegas of America.
 
 Action Points
 
-- SBS to share FIFA World Cup outreach flyers and event details with all Council member offices once finalized.
-- SBS to coordinate with NYC Tourism to proactively feature DOH-registered food businesses on the tourism website for FIFA, rather than only notifying businesses of how to self-submit for inclusion.
-- SBS to follow up with Council Member Brooks-Powers on storefront occupancy data for Southeast Queens, broken down by Council district and community board.
-- SBS and Chair Thomas-Henry to explore bringing SBS Small Business Month Expo programming uptown and to the Bronx, with the chair's office identifying potential venues.
-- SBS to update Council when FIFA outreach tour event flyers for all five borough stops are finalized and to invite Council members to co-present at those events.
-- SBS to explore with Chair Thomas-Henry an innovative metrics framework to better track small business economic health beyond storefront occupancy rates.
-- MOIA to provide Committee with projected fiscal impact on New York City's tax base if undocumented immigrants reduce tax filing in response to IRS-ICE data sharing agreement.
-- MOIA to clarify whether language translation inaccuracies during regulatory inspections could expose businesses to liability, and whether MOIA has addressed this with enforcement agencies under Local Law 30.
-- MOIA and the new Office of Street Vendor Services Executive Director Karina Kaufman Gutierrez to schedule a coordination meeting on joint outreach to street vendors.
-- SBS to provide Committee with preliminary analysis of the dollar-value capital access gap created by the SBA rule change barring non-citizens from SBA-guaranteed loans, including New York City-specific figures.
-- SBS to work with DCWP on referral pathways for small business owners needing tax compliance guidance given the IRS-ICE data sharing agreement.
-- Manhattan Borough President Lander to share his four written recommendations with Chair Thomas-Henry's office following the hearing.
-- SBS to brief Council on finalized Small Business Month borough-based event schedule, including all six borough events, once partner confirmations are complete.
-- SBS to publish FIFA World Cup business toolkit and five-borough tournament sign-up information at nyc.gov/smallbizmonth and to ensure information is accessible to businesses without websites through hotline and in-person outreach.
-- MOIA to continue monitoring TPS developments at the Supreme Court and provide updates to relevant Council committees as decisions emerge.
-- SBS to report back to Council on the scope, staffing plan, and budget request for the Office of Street Vendor Services ahead of the August legislative implementation deadline.
+- SBS to share FIFA World Cup business engagement materials and outreach event details with all Council member offices as they are finalized.
+- SBS to follow up with CM Brooks-Powers on storefront occupancy rates in Southeast Queens, including by Council district and community board.
+- SBS to explore proactively sharing its database of registered food and beverage businesses with NYC Tourism to feature those businesses on the tourism website, rather than waiting for individual businesses to submit for inclusion.
+- SBS to work with Chair Thomas-Henry to identify neighborhood-based venues in uptown Manhattan and other outer-borough locations to bring Small Business Month programming and the Expo format to those communities.
+- SBS to notify Council member offices in advance when its outreach team is operating in their districts.
+- MOIA to provide CM Salaam with a projected fiscal impact figure on New York City's tax base if undocumented immigrants reduce or cease filing taxes in response to the IRS-ICE data-sharing agreement.
+- MOIA and SBS to hold a meeting with new Office of Street Vendor Services Executive Director Karina Kaufman Gutierrez to establish collaboration protocols, particularly on outreach to street vendors.
+- SBS to follow up with Council members on analysis of the capital access gap created by the SBA loan rule change, including updated dollar estimates for New York City.
+- Brooklyn Chamber of Commerce to share its survey data on immigration enforcement impacts on Brooklyn small businesses with SBS.
+- Chair Thomas-Henry to work with SBS on developing more robust and innovative metrics for tracking the actual economic health of small businesses, beyond storefront occupancy rates.
+- Manhattan Borough President Brad Lander to provide the committees with a written copy of his four policy recommendations, including on data audits, multilingual benefit outreach, legal services investment, and data-transfer protections.
+- Legal Aid Society to continue litigation on warrantless arrests (with NYCLU and Make the Road New York) and civil immigration fines (in the District of Massachusetts), with a preliminary injunction sought in the fines case by approximately mid-May 2026.
+- SBS to advise CM Hanif's office on where business owners can receive in-person, multilingual assistance with I-9 compliance and employment documentation.
+- Council members co-sponsoring Local Law 75 repeal or amendment legislation to finalize bill language and publish as soon as possible, given the July 1, 2026 compliance deadline.
+- Chair Thomas-Henry to direct businesses asking about the FIFA World Cup to the SBS hotline (888-SBS-4NYC) and the seven Business Solution Centers as primary contact points, and to flag offline businesses to SBS for direct outreach.
+- Street vendor testifier Martha (La Sonas) to submit written questions and English-language testimony translation to testimony@council.nyc.gov within 72 hours of the hearing.
+- SBS to provide the Council with updated information on the six borough-based Small Business Month engagement events, including dates and partner organizations, as those events are finalized on the nyc.gov/smallbizmonth website.
 
 ## Full Transcript
 
@@ -1294,3 +1300,697 @@ I am pleased to share that my office is opening an immigrant welcome center at o
 
 
 >> I appreciate it. Thank you for coming. Have a good one.
+
+[**(01:45:40)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6340s)
+
+
+
+>> I now open the hearing for public testimony. I remind members of the public that this is a government proceeding and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the Sergeant-at-Arms for inclusion in the hearing record.
+
+If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant-at-Arms and wait to be recognized. When recognized, you will have two minutes to speak on today's oversight hearing topic: economic impacts of federal immigration policy changes. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant-at-Arms. You may also email written testimony to testimony@council.nyc.gov within 72 hours of the close of this hearing. Audio and video recordings will not be accepted.
+
+For in-person panelists, please come up to the table once your name has been called. Now I will call our first in-person panel: Mark Caserta, Van Zyo, Arlette Zapata, and Ben Gutman. We can begin with Mark.
+
+[**(01:47:46)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6466s)
+
+
+
+>> Hello. Good afternoon. My name is Mark Caserta and I am vice president of small business support at the Brooklyn Chamber of Commerce. Thank you for the opportunity. In the interest of time, I want to skip past anything about the struggles of small businesses. I think we all know that. But I do want to tell you that since October of 2020, the Brooklyn Chamber of Commerce, in partnership with four other borough chambers, has conducted extensive door-to-door outreach to small businesses throughout the city through the New York City Small Business Resource Network. SBRN staff have visited more than 58,000 small businesses citywide and provided individualized no-cost assistance to over 18,000 businesses. We have a direct, on-the-ground perspective of the challenges facing small businesses across the city.
+
+Earlier this year, our SBRN team conducted a door-to-door survey of Brooklyn small businesses. Among respondents, 65% reported being affected by tariffs and 56% indicated they had raised prices as a direct result of these increased costs. In addition to the tariff question, we asked business owners whether immigration enforcement or the fear of such enforcement had impacted their operations. Across Brooklyn, approximately 30% of respondents reported experiencing negative effects related to immigration enforcement or
+
+[**(01:49:19)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6559s)
+
+
+
+fear thereof. However, this figure varies significantly by neighborhood. In Sunset Park, 79% of the surveyed businesses reported being affected and in Bay Ridge the figure was 45%, which reflects a mix of businesses, both Arab and non-Arab owned. I also want to note that nearly all the Arab-owned businesses that we spoke with reported significant tariff increases and expressed that they could not pass these costs on to customers who themselves are facing financial strain.
+
+Beyond our survey data, our team has gathered anecdotal evidence during outreach. Business owners have reported difficulty retaining immigrant employees. I also want to add that
+
+[**(01:50:04)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6604s)
+
+
+
+>> you may continue.
+
+[**(01:50:05)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6605s)
+
+
+
+>> Thank you. Additionally, many businesses have experienced declines in foot traffic and sales. In several instances earlier in the current administration, our staff visited immigrant-owned businesses and, upon asking for the owner, observed employees retreating and hiding out of fear that we were immigration enforcement officials. So it feels very real. None of this is happening in a vacuum. Business owners are already navigating exceptionally challenging times. I also want to add something that CM Ayala had said. We are calling for the repeal of Local Law 75. There are thousands and thousands of small businesses who have illegal roll gates. This is a ticking time bomb and we really need to repeal the law as soon as possible. Thank you.
+
+[**(01:50:55)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6655s)
+
+
+
+>> Thank you for your testimony. Next.
+
+[**(01:50:58)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6658s)
+
+
+
+>> Good afternoon, Council members. Thank you for the time to testify today. My name is Van. I am the community organizer at MXCA, a community-based organization in Central Brooklyn that has served immigrant, Latin and indigenous communities for over 25 years. As an organization that provides direct services to the immigrant community, we have seen the effects that these federal policy changes have created. Last year, MXCA was able to serve over a thousand community members in legal services, and over a third of those services were on completing work authorization applications.
+
+With the recent federal changes that this current administration has created, we see how it has greatly impacted the working-class immigrant community. Having to now pay a $12 fee to maintain an asylum application pending, while the federal government is slowing down the review of applications, is unjust. On top of these policy changes around asylum, the large presence of ICE in immigrant communities has created an immense amount of fear where our community members feel immobilized to the point that they do not feel safe enough to go to work. We have seen areas like Sunset Park, which used to be busy with pedestrians going shopping at local and nearby businesses, start to become more empty.
+
+After talking to some local street vendors and food trucks, they have mentioned how business has also drastically decreased because of all this recent fear. There needs to be continuous protection and support for immigrant communities to access their work safely, to access unemployment support — which is something they are often not eligible for despite being a huge backbone of our local economy — and more access to legal services where they do not have to pay absurd fees to merely survive in the city. Thank you so much for your time and consideration.
+
+[**(01:52:40)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6760s)
+
+
+
+>> Thank you for your testimony. Next.
+
+[**(01:52:44)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6764s)
+
+
+
+Good morning. My name is Ben Gutman. I am the executive director of the Queens Economic Development Corporation. We are in the business of making Queens thrive and every year we work to support more than 3,000 entrepreneurs and small businesses in various capacities across the borough. Despite being the birthplace of the leader of our federal government, Queens finds itself squarely in the crosshairs of this administration's harsh and ill-conceived immigration policy. Queens is the most diverse urban community on the globe. 48% of the population is foreign born. 55% speak a language other than English at home. By most estimates, the number of those languages spoken reaches well into the triple digits. This diversity is the reason we have the most vibrant neighborhoods in the world and of course why we have the most delicious culinary scene anywhere to be found. But federal immigration policy is quieting those neighborhoods and devastating the restaurants and other street-level businesses that call Queens home.
+
+Since ICE activity began to accelerate this past fall, nearly every business owner I have spoken to in our most heavily immigrant communities has reported an anecdotal decrease in foot traffic and accompanying revenue. Last November, we sent our team into the field in Jackson Heights and Corona to survey local businesses on this effect. The results were striking. 79% of businesses have reported a decrease in sales and foot traffic. 39% described it as a major decrease. 22% reported that employees have missed work or expressed fear of coming in because of ICE activity. 18% of businesses have changed hours, canceled events, or altered operations. A further 11% are considering doing so. Of those who reported a loss of revenue, 84% have lost more than $1,000. 7% have reported a loss greater than $10,000.
+
+$1,000 may not seem like that much to a business at first, but many of these businesses are street vendors. $1,000 in lost revenue can be their share of that month's rent. It is the supplies needed to staff up for the next big catering opportunity or the flight home to visit family. While New York has been spared the disturbing, heavy-handed enforcement that so deeply scarred a city like Minneapolis, the fear alone...
+
+[**(01:54:47)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6887s)
+
+
+
+You can continue.
+
+[**(01:54:48)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6888s)
+
+
+
+Thank you. ...is often enough to take its toll. An ICE agent is spotted in the community, or sometimes not even. Then rumors begin to swirl. From Instagram to churches, WhatsApp groups to apartment hallways, the fear grounds the neighborhood to a halt. Nobody is shopping. People are staying home from work. Street vendors and storefronts close. Hundreds of thousands of dollars in immediate economic damage and countless more in lost opportunities and lost sleep.
+
+QEDC operates Corona Plaza Market, a leading model for safe, community-focused street vending. I saw a few of the vendors here earlier. Due to the fear of ICE activity, we shut down the market three times this past winter. It was painful and it was not always popular with every vendor, but we refused to facilitate creating a target for ICE agents who may want to harass this community. When combined with the literal ice from our frigid winter, this was a very challenging season for our vendors. Not every business made it through these down months. And this is just one market in one neighborhood in one borough. To our knowledge, thankfully, no one has been raided in Corona Plaza yet. But the fear is enough. And unfortunately, with this administration, fear seems to be the point. Thank you to the chair and her staff for the leadership on this issue in their own backyard and thank you everybody for your time.
+
+[**(01:55:59)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6959s)
+
+
+
+Thank you. Next.
+
+[**(01:56:01)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=6961s)
+
+
+
+Hello. Good afternoon. Good afternoon, chairs and members of the committee. My name is Arlet Sepeda and I am the interim executive director of La Colmena in Staten Island. Colmena is a nonprofit community-based organization that works with day laborers, domestic workers, and other low-wage immigrant workers. Our mission is to empower them through organizing, education, culture and equitable economic development. Across our community, we are seeing a growing level of fear. Many immigrant families are afraid to leave their homes, whether it is to go to work, to shop at local businesses, or participate in daily life. They are instead sending their children to get essential supplies, putting them at risk. This fear is not abstract. It has real economic consequences. Small businesses in our neighborhoods are experiencing a decline in customers. When community members stay home, local restaurants, shops and service providers lose vital income. These are businesses that often operate on thin margins, and even a small drop in revenue can be devastating. At the same time, small businesses are losing workers. Immigrant workers are essential to the functioning of many industries such as hospitality and construction. When workers feel unsafe or are forced to stay home, businesses struggle...
+
+[**(01:57:35)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7055s)
+
+
+
+...to operate, reduce hours or even close. It is also important to recognize that immigrants are not only workers, they are business owners. Many of them are entrepreneurs and are facing the same fears and instabilities, forcing them to scale back or close their doors. This leads to the loss of income not only for them but for their employees and families. As a result, we are seeing increased economic instability across our communities. Families are struggling to pay rent, afford food and meet basic needs. We urge the Council to recognize the harmful impacts of the federal immigration policy changes and continue to invest in protections and resources that support our immigrant community and small businesses. Thank you for the opportunity to testify on behalf of Staten Island.
+
+[**(01:58:28)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7108s)
+
+
+
+Oh, thank you. Thank you for coming in from Staten Island.
+
+[**(01:58:33)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7113s)
+
+
+
+I just have one thing to say. I think every borough is the most diverse and cultural and has the best food. We all say it. So I am going to say it for the Bronx and for Manhattan.
+
+[**(01:58:44)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7124s)
+
+
+
+Queens is the world's borough, though. I am just saying.
+
+[**(01:58:47)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7127s)
+
+
+
+We will see. We will see.
+
+[**(01:58:49)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7129s)
+
+
+
+But I do have one quick question for the entire panel. Thank you for the work that you do. You are really at the front lines. Do you coordinate with MOIA or SBS in any way to help give them your on-the-ground actual survey work and share what you are hearing? How has that coordination or collaboration been?
+
+[**(01:59:14)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7154s)
+
+
+
+We work under contract. The Small Business Resource Network is under contract with SBS. So we do on-the-ground small business work and we share that. They see our metrics all the time. I do not know whether we have shared the results of that survey or not, but...
+
+[**(01:59:32)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7172s)
+
+
+
+I would recommend sharing it with...
+
+[**(01:59:34)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7174s)
+
+
+
+Yeah. Yeah.
+
+[**(01:59:35)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7175s)
+
+
+
+With MOIA, we work closely, giving know-your-rights workshops. Also, we have done a couple of small business know-your-rights workshops around what businesses can do if an ICE raid were to occur, explaining and giving more information around public versus private spaces and additional resources. We also try to do policy updates as often as we can because there are so many ongoing changes and there are different ways that they can impact businesses. That is sort of how we have been going about it.
+
+[**(02:00:08)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7208s)
+
+
+
+Yeah, and SBS has been a wonderful partner of ours in both Jackson Heights and Corona. I would love to do more work with MOIA as well.
+
+[**(02:00:15)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7215s)
+
+
+
+La Colmena is the grantee of the Neighborhood 360 grant by SBS and we have an amazing corridor invigoration program which included the launch of a fellowship that focuses on a marketing campaign for the corridor. So we are very close with Small Business Services and the team at SBS has done numerous tours of the corridor. They are really connected to small businesses and we are breaking down that barrier. With MOIA, we are one of their immigrant resource providers.
+
+[**(02:00:48)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7248s)
+
+
+
+How do you think we on the city level can help our specifically immigrant-owned small businesses survive these tumultuous times? What can we be doing?
+
+[**(02:01:02)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7262s)
+
+
+
+The problem is in Washington for the most part. That is the biggest piece. I will say I have been very... I do not know if "pleased" is the right word, but very heartwarmed, I guess, to see the response from local electeds. Both on the City Council level and the borough president's team, as we have been dealing with some of these closures at Corona Plaza, they have been incredible partners. I just wanted to add that I was here for the sanctuary laws. That is another way that we can protect our businesses, by enforcing the sanctuary laws and making people feel safe, ensuring there is due process and not colluding with federal agents, making sure that there are accountability measures and that rights and due process are respected.
+
+[**(02:01:49)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7309s)
+
+
+
+Okay.
+
+[**(02:01:52)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7312s)
+
+
+
+I will just add what you would expect to hear from the Chamber of Commerce, and that is to reduce costs and regulations for small businesses...
+
+[**(02:01:58)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7318s)
+
+
+
+...especially those immigrant-owned businesses. And again, roll gates. Roll gates.
+
+[**(02:02:03)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7323s)
+
+
+
+We are on the roller gates. We are working it out. We are trying to roll it out before it gets implemented, but we are on it.
+
+[**(02:02:12)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7332s)
+
+
+
+Thank you.
+
+[**(02:02:13)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7333s)
+
+
+
+Thank you.
+
+[**(02:02:13)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7333s)
+
+
+
+You are welcome.
+
+[**(02:02:15)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7335s)
+
+
+
+The next panel: Rosario Troncoso, Isabel Rosario, Martha Hera and Sally Weathers. You can begin.
+
+[**(02:02:57)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7377s)
+
+
+
+Oh, you are waiting. Okay. I am practicing. She knows me. I am trying. Thank you. You may begin.
+
+[**(02:03:57)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7437s)
+
+
+
+Good morning. I am sorry. Good morning. My name is Rosario Troncoso. I am a member of the board of directors of the Street Vendor Project. I have been a street vendor in the City of New York for the last six years, living and working in Queens, New York. Due to the pandemic, being a street vendor was my only option in order for me to survive. I lost my job. I used to clean houses. I used to clean the homes of families and people. Due to my immigration status, I do not have a US work permit or a green card to work legally in the US. My immigration situation is difficult. That is why it is very hard for me to obtain a job.
+
+[**(02:05:27)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7527s)
+
+
+
+Street vendors are very small businesses here in New York City and every day street vendors interact with different government agencies. Some of these government agencies are local municipal agencies that are supported by the federal government, and also the federal government itself.
+
+[**(02:06:02)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7562s)
+
+
+
+Okay. Street...
+
+[**(02:06:34)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7594s)
+
+
+
+I just want to clarify something. Yes.
+
+[**(02:06:45)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7605s)
+
+
+
+We have seen immigration raids especially on Canal Street and also in other parts of New York City. The federal authorities and immigration enforcement are looking at us. They have their eyes on us all the time. Not only me but also my workmates. We need to be prepared to face the stress that immigration enforcement is causing us. That is what we are requesting from the City Council: that you approve and secure the Street Vendor Project so we can have the necessary resources to continue our work, to continue with education and to reach other street vendors who need this information in New York City to protect themselves and to know their rights. This is taking place right now.
+
+[**(02:07:54)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7674s)
+
+
+
+As a street vendor, we are receiving these folders that you see here. The folders have the name of the Street Vendor Project and the Urban Justice Center. They are written in different languages. Some of those languages are English, Spanish, Arabic, Chinese, Bengali, the language spoken in Bangladesh, and French. They also teach how to manage your business.
+
+[**(02:08:56)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7736s)
+
+
+
+Just one second.
+
+[**(02:09:30)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7770s)
+
+
+
+They teach us how to administer a business and how to understand the rights of immigrant New Yorkers who are here. The municipal agencies are not providing these resources to us or to others and they are not providing information on how to protect ourselves from different situations, for example illegal registrations. What she means is that a lot of people are selling fake permits. They are not real. So with those permits, you cannot do anything. They just care about taking money. The Street Vendor Project is the agency that is providing this information to us.
+
+[**(02:10:29)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7829s)
+
+
+
+Reform package. Thank you.
+
+[**(02:10:43)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7843s)
+
+
+
+Okay. Thank you. We are also here to request from all of you to invest in the implementation of the street vendor reform package. Please be sure that DCWP and SBS have the necessary resources to implement this package, because this package should be approved and implemented in an effective way. Thank you very much for...
+
+[**(02:11:12)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7872s)
+
+
+
+...your time. I would like to ask for your help because not all street vendors have the benefit of a work permit in the United States or a green card. So it is very hard for all of us to work without those documents. We have faced difficulties with police and other government agencies and we never know when ICE may come to us at any moment. I would really like to appreciate all your help and cooperation so that you can approve this package.
+
+[**(02:12:18)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7938s)
+
+
+
+Thank you for your help. Thank you.
+
+[**(02:12:34)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7954s)
+
+
+
+Miss Thomas, I am not sure you want me to translate again, but it is the same information that was written by her.
+
+[**(02:12:41)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7961s)
+
+
+
+Okay. Or she can say what she thinks. It is up to her. Okay.
+
+[**(02:12:58)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=7978s)
+
+
+
+...
+
+[**(02:13:41)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8021s)
+
+
+
+Okay. My name is Isabel Rosario and I am a...
+
+[**(02:13:44)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8024s)
+
+
+
+...member of the board of directors of the Street Vendor Project. I have been working as a street vendor in the City of New York for the last 18 years, living in Brooklyn and working on 50th Street and Fifth Avenue. I have been working as a street vendor since I came from the Dominican Republic to the United States. I remember the first day when I was selling things. I was selling something in Dominican Spanish called piragua, which is like shaved ice with flavored water. I sold around $247 worth and I was really happy. I got a little excited about that.
+
+I am a street vendor with a very long and experienced history and I have been a member of the Street Vendor Project since the year 2012. I really need your help and cooperation with this situation. I have been working for many years in this kind of work and I am very experienced, but we also need your help and support. Me and my colleagues, including my colleague here and other street vendors, go together to different parts of New York including Sunset Park and 50th Street and Fifth Avenue and we are sharing these flyers with other street vendors and people who need them, because we can use them to provide information that people may not know and they can learn what is happening with the Street Vendor Project.
+
+I wanted to say thank you to all of you for your support. I am a Dominican woman and very proud of my country and of who I am. I am also thankful to be here at the New York City Council hearing with all of you. I am grateful for what you do for us and what you are going to do in the future. Thank you so much for everything. Thank you.
+
+[**(02:17:36)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8256s)
+
+
+
+Okay.
+
+[**(02:18:25)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8305s)
+
+
+
+Good morning. My name is Marta and I am an organizer for a community organization called La Sonas. This is a network of immigrant women from different Spanish-speaking countries and other countries. Some of them are very hard workers and they are owners and CEOs of small businesses and they also work as street vendors.
+
+[**(02:19:35)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8375s)
+
+
+
+I wanted to be clear about something. All of these immigration tactics used by the federal government and President Trump are not only affecting the immigrant community, they are also affecting the economy. Our city, New York City, is being affected very badly at its economic base. Almost half of the small businesses in this city are owned by immigrants, around 48%. This is not a minor data point. It means that immigrants are not in an isolated sector. They are a structural part of the local economy. That is why I want to express this and say it right now.
+
+[**(02:21:06)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8466s)
+
+
+
+Okay. And we were talking before about the business owners who were street vendors. But if we are talking about the street vendors themselves, they even more than that. Around 90% of immigrants are street vendors here. They are feeding people. They are feeding their families. They are supporting their families and they are giving light to our streets in the City of New York. However, these workers and these small business owners are operating under constant fear. What I mean by constant fear is they are very scared of these immigration raids and ICE, and this is really terrible to live like this.
+
+[**(02:22:09)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8529s)
+
+
+
+Okay, they are afraid to go to work. They are afraid to use public transportation. They are even afraid to use their own cell phones. They are afraid to be detained and they are afraid to be criminalized. This fear is not abstract. Okay. When a person is living in constant fear, the person cannot have stability in their work. Right? If the person does not work, the person does not get any earnings. If the person does not have any earnings, the person does not consume anything. If they do not consume anything, do you know what this will cause? It will cause businesses to close because they are not consuming anything. This is very simple and it is very serious what is happening. This is what is happening to us. It is a very big fear. It is a very big effect.
+
+[**(02:23:50)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8630s)
+
+
+
+And this will mean less trust and less economic participation. We will be more isolated. This will also cause more businesses, even small businesses, to close. And I am going to say with all clarity, this is not only an immigration problem. This is a problem of public health. It is a problem of economic stability. It is a problem of economic stability for all of New York City. The small businesses are not failing on their own. They are being pushed away and they are failing because of the structural conditions that are there, because of the fear they are living in and because of the uncertainty. When half of the economy of these small businesses in this city is dependent on immigrants, risking this group is affecting the entire City of New York.
+
+[**(02:25:33)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8733s)
+
+
+
+Okay. If New York City wants to sustain its economy, it should not sustain the economy by criminalizing the people who are supporting this economy, building this economy, or the ones who want to construct and build the economy every day. We need political help to protect this stability. We do not need people who will destroy it. We need security. We need safety in order to work. Okay? We do not need constant fear. Okay. And we need to recognize something very important. It is also very essential. New York without immigrants will not work. It is very simple. New York City without immigrants will not work. Thank you for your help.
+
+[**(02:26:39)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8799s)
+
+
+
+New York without immigrants would not exist.
+
+[**(02:26:42)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8802s)
+
+
+
+Yes. Yes. Exactly.
+
+[**(02:26:43)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8803s)
+
+
+
+Translate.
+
+[**(02:26:44)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8804s)
+
+
+
+Yes. Thank you.
+
+[**(02:26:54)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8814s)
+
+
+
+She was wondering if she can ask a question about something that she heard about the street vendors. Can she ask a question?
+
+[**(02:27:15)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8835s)
+
+
+
+I will come back around. I am going to let the last panelist come and then she can ask a question.
+
+[**(02:27:20)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8840s)
+
+
+
+Okay. You are the last panelist, right? The last one, right? Okay. So after you finish, we can ask the question for her.
+
+[**(02:27:33)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8853s)
+
+
+
+You may begin.
+
+[**(02:27:34)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8854s)
+
+
+
+Okay.
+
+[**(02:27:35)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8855s)
+
+
+
+Hello.
+
+[**(02:27:37)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8857s)
+
+
+
+Good afternoon. My name is Sally Weathers and I am the lead organizer of the Street Vendor Project. I would like to thank Chair Encarnación and Chair Thomas-Henry and the committee members for the opportunity to testify today. As the only organization that exclusively serves street vendors in New York City, SVP is the centralized hub for this underserved population, providing critical small business and legal services to vendors since 2001. We respectfully request support from the New York City Council to sustain and expand our essential know your rights education for immigrant street vendors. A growing workforce of more than 23,000 entrepreneurs makes a living from the streets and sidewalks of New York City. According to a 2024 report by Immigration Research Initiative in collaboration with SVP, 96% of street vendors are immigrants. 81% vend as their main source of income and 65% live in a household with one or more
+
+[**(02:28:38)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=8918s)
+
+
+
+children. Vendors are at an increased risk in the current political environment because they work in public spaces. Many lack access to licenses and permits and are in urgent need of outreach and advocacy to make sure they know their rights, in languages that they know and from people that they trust. This dramatically increases the need for SVP services as the organization provides accessible multilingual outreach and education to vendors. From July 1st, 2025 to March 1st, 2026, just from support from this Council initiative alone, SVP has engaged 392 individual vendors, provided know your rights trainings attended by 161 immigrant vendors, and trained 184 volunteers to support with outreach. We are a small team, only six outreach staff, but collectively we speak seven languages on staff to ensure we meet street vendor needs.
+
+With the Council's support, we have created vendor-specific immigration know your rights materials in seven languages: Spanish, Arabic, Mandarin, Bangla, Wolof, French and English. Our multilingual team distributes these resources to immigrant vendors through weekly street outreach to vendor carts and trucks, commissary garages, and the places where vendors work directly, in order to equip vendors with the tools they need to protect themselves while vending in public space should they have an interaction with immigration enforcement. We also connect them to legal resources and emergency planning kits. We distribute whistles so vendors can warn each other when ICE is in the area and we add vendors to our language-based text chats so they can share and receive on-the-ground updates. Our outreach model prioritizes one-on-one conversations with vendors, empowering vendors to become community ambassadors who share knowledge with their customers as they have deep connections themselves in their neighborhoods. Additionally, because we are membership-based, when we engage with vendors, we are engaging them in our community and collecting emergency contact information should a situation arise. Thank you for this opportunity to testify.
+
+[**(02:30:52)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9052s)
+
+
+
+Thank you.
+
+[**(02:30:58)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9058s)
+
+
+
+Miss Thomas, she does not have the question written. Is it possible to send it by email?
+
+[**(02:31:04)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9064s)
+
+
+
+Yes, please.
+
+[**(02:31:05)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9065s)
+
+
+
+A member of my staff will be here shortly so I can direct her to the staff to help address it.
+
+[**(02:31:10)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9070s)
+
+
+
+Oh, Miss Thomas, something else. She has an English translation of her testimony, the one she read in Spanish, so she can also send it to all of you. The translation was done very well in English.
+
+[**(02:31:23)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9083s)
+
+
+
+Yes, she can submit it to testimony@council.nyc.gov. Gracias.
+
+[**(02:31:35)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9095s)
+
+
+
+Thank you very much. Thank you for everything she is saying.
+
+[**(02:31:47)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9107s)
+
+
+
+Thank you. Our next panel: Ayan Kim, Carolyn Cohen, Jackie Harrington and Hassan Shafiquilla. Thank you. You may begin.
+
+[**(02:32:36)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9156s)
+
+
+
+My name is Ayan Kim. I serve as the director of programs at the Asian-American Federation. We are a citywide umbrella organization working with 70 member partner organizations. For many Asian immigrant-owned businesses, for all immigrant-owned businesses, these immigration policy changes compounded with enforcement anxiety, misinformation and lack of trusted legal guidance are affecting workforce participation, business operations, consumer behavior and overall the health of neighborhood commercial corridors. Across immigrant commercial corridors, declining foot traffic is weakening daily revenue. When families are afraid to leave their home, access benefits or seek services because of concerns for their own safety, local businesses are feeling the impact through empty sidewalks and reduced spending.
+
+We are also seeing financial warning signs in the macroeconomy. One of our partners, Renaissance EDC, has told me that their delinquency rates for small business loans have risen back to levels seen during the COVID pandemic period. Although the macroeconomy on paper says the stock market is going well and the economy is going well, that is not the lives of immigrant business owners or our neighbors today. Last year, the Asian-American Federation and our partners heard significant concern regarding I-9 audits. There was no outreach, no in-language information, no clarification about what exactly the business owner's responsibilities are and how to resolve issues if they have not had I-9s ready. In lieu of this reliable information and outreach, business organizations organized seminars on their own to help their members, and those who could not even do that reached out to the Asian-American Federation for legal guidance.
+
+In addition, many longtime skilled workers left the workforce or self-deported last year. This is especially significant in the Asian community where a lot of business owners are working with employees who may have entered the US legally or with documentation but later fell out of status and did not really see an opportunity to correct themselves or know where to seek help. This kind of anxiety and fear in our community can only be mediated through a trusted community infrastructure. Through our Rapid Immigrant Support and Empowerment Network, which is also called the RISE network, the Asian-American Federation is coordinating rapid response with Asian-led organizations to provide immigration legal referrals, know your rights education and case management in the language and settings our communities trust. We request the Council to sustain this work and support us by increasing funding for the legal services for AAPI communities initiative that funds the RISE network. Last year it was at around $2 million. This year we are asking for $3.5 million in fiscal year 2027. This will be a targeted investment from the Council in trusted legal access, accurate information and rapid response capacity that helps stabilize Asian immigrant families, workers, small businesses and the commercial corridors that they anchor. Thank you so much.
+
+[**(02:35:33)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9333s)
+
+
+
+Thank you.
+
+[**(02:35:39)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9339s)
+
+
+
+Good afternoon. I am Hassan Shafiquilla from the Legal Aid Society. I am a supervising attorney in our law reform unit and I used to be the head of our immigration practice during the first Trump administration. Thank you for the opportunity to speak with you today. My written testimony will address work permits, civil immigration fines, H-1B fees, fees under the One Big Beautiful Bill Act, the Small Business Administration loan forms and warrantless arrests. But in my two minutes, I will focus on just a few things.
+
+On I-9 audits, we are concerned about the difficulty in advising people about what is happening with their work permit given the termination of Temporary Protected Status, but then litigation bringing TPS back into play, stays from the Supreme Court, the back and forth termination of humanitarian parole, reduced validity periods for work permits and the elimination of extensions. I think it will be really important for the City to provide guidance to small businesses around each of these categories, like TPS countries and humanitarian parole, and at any given moment what is happening with work permit validity.
+
+The second thing, and I am flagging this in particular for the Council members' constituent liaisons: there are civil immigration fines that the Trump administration is assessing against people. These are fines that have been on the books since 1996 but no president other than Trump has used them. They used them during the first administration and now this one. Up to $1.8 million per person for failure to depart after a removal order, which is significant because it only applies if you are willfully failing to depart. But some people have a reason to be here. Someone might be here with an order of supervision from ICE, seeking relief, or have deferred action as a special immigrant juvenile. Many of these fines are unlawful but people are getting hit with them anyway. We are litigating this with some national partners in the District of Massachusetts, hoping to get a preliminary injunction next week. You might be getting questions from constituents. I just want to let you know we put together a website, noimmigrationfines.org, where people can get practice advisories and sample opposition briefs both for unrepresented people and for attorneys. I know I am out of time but I will just flag two more things. We are hearing a
+
+[**(02:37:50)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9470s)
+
+
+
+lot about the fear in communities in terms of the warrantless arrests that are going on and people are afraid to go to stores and walk to their jobs. We are litigating that together with the New York Civil Liberties Union and Make the Road New York, hoping to get a preliminary injunction in that case hopefully next month. And then finally, I wanted to flag... I think that was all. My last thing before I stop is I work part-time in a bakery as a baker and we have a roll gate, so we are also very keen on local law 75. So anything you can do, thank you.
+
+[**(02:38:23)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9503s)
+
+
+
+Thank you so much. Please do not change your roll gate. We are working on it.
+
+[**(02:38:29)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9509s)
+
+
+
+You may proceed.
+
+[**(02:38:30)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9510s)
+
+
+
+Good afternoon. Thank you so much, Chair Thomas-Henry and Chair Encarnación for the opportunity to testify today. Carlen Cowan, pronouns they/them. I am the chief policy and public affairs officer at CPC, the Chinese-American Planning Council. We serve 80,000 Asian-American and immigrant New Yorkers in all five boroughs each year. We are proud members of the Asian-American Federation as well as the RISE network. Our written testimony covers a number of the issues that have already been brought up today. But with the time I have, I want to tell you a quick story about one of our community members.
+
+One of our kids in our afterschool program, a six-year-old. We learned that her father, a deliverista, had been detained by ICE. He had missed a routine check-in because he had been hit by a car while on his delivery route and ICE came to his house and detained him afterwards. Through the RISE network, we were able to actually represent him with our own in-house attorney who is Mandarin and Spanish trilingual and we were able to offer wraparound support to the entire family, because as you can imagine it was incredibly traumatizing for our kiddo and for her mom who has her own immigration case. In addition to filing a habeas for the dad, working with ICE to get the appointments in language and going back and forth, we were also able to offer mental health support, support with extra child care, food and clothing for the mom and our kiddo. The kiddo recently wrote a letter to the judge that said, "Please let my dad out of jail." You can only imagine the mental health impact of that.
+
+We are also really pleased to share that we won his release and the right to remain in the United States very recently and that is only possible through the RISE network. The need is so much greater than what we can offer, so that is why we are standing with the Asian-American Federation asking for an increase to $3.5 million this year. I also want to mention that the trans and queer network is putting out a new initiative asking for immigrant LGBTQ legal services specifically, which we are also supporting. Thank you for the work that you are doing and thank you for your support of immigrant New Yorkers.
+
+[**(02:40:48)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9648s)
+
+
+
+Thank you. You may begin.
+
+[**(02:40:53)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9653s)
+
+
+
+This is my first time using this, so I apologize. First and foremost, I want to say I am very transparent and I hope that I do not offend anybody with the language that I use, but this is the language that I am going to use. I think one of the issues that we have here in New York City that I have experienced so far is pertaining to people not knowing their immigration statuses. Unfortunately, the federal government has sealed records from some immigrants who do not know that they are immigrants, especially when they are adopted into American families, which of course causes a lot of problems and confusion for when they believe that they are actually a citizen when they are classified federally or state-wise as not.
+
+In my experience, now knowing personally that I was an immigrant but all my life for 40 years believing that I was a United States citizen, there have been a lot of issues with my employment, my housing and my community in general. In that particular instance, I came to New York City hoping for a better opportunity and also a better understanding, which I have gotten. Unfortunately, during that time, I have been human trafficked. I have been raped. I have had directed energy weapons used against me, which are listed in US patents on the United Nations website if you want to look them up. I have had a very horrible experience and it has trickled down not just from the federal government but into the Department of Education, the Department of Social Services, and the nonprofit organizations that are supposed to be here to help immigrants and United States citizens. In housing and public assistance in general, there has been a lot of fraud on my name since I have gotten here through the Department of Social Services.
+
+People like to throw somebody's name around. Yusef — I do not know him and I am not speaking as if he is an issue in this. However, unfortunately, some of the staff members in social services have mentioned his name when I felt that they were doing abuses of their authority. That is an issue for me considering that they are not handling their conduct properly in that particular aspect.
+
+As my last name being Harrington, I really was hoping that my experience here — since it was founded by Harringtons — would be a better experience. Unfortunately, I have not had that experience here and I am still continuing not to have that experience here. However, I am learning the intricacies of this particular area and I just wanted to put that in as my testimony. I will educate myself better on the language that I should be using here and I will definitely be emailing my interpretation of that to the testimony email that you gave us. Thank you.
+
+[**(02:44:06)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9846s)
+
+
+
+No problem. Thank you for your testimony today. Behind you, I have a staffer if you would like to speak with someone about what you are going through that can help you. Appreciate you.
+
+[**(02:44:18)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9858s)
+
+
+
+Any questions?
+
+[**(02:44:19)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9859s)
+
+
+
+I just want to thank you all for really supporting the folks that are going through this on the ground. I know we are trying to get as many resources out there and trying to increase as much as we can. Unfortunately, this budget season has been a little bit tricky for us as a city. I know that my colleagues have all been kind of threading the needle when it comes to immigration and small businesses and housing and how we do our workforce development and all of these things, and understanding how interconnected these issues are and really speaking on it during this budget process. So I am hoping that we can get some relief for you all and for the people that you serve.
+
+[**(02:45:05)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9905s)
+
+
+
+Yes. Thank you. And I like when people ask for what they want. Thank you.
+
+[**(02:45:16)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9916s)
+
+
+
+We have one more in-person testifier. Roberto Bear. Roberto, you may begin when you are ready.
+
+[**(02:45:43)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=9943s)
+
+
+
+Hi, good afternoon, Council members. My name is Roberto Beltree. I am the son of two immigrants from Costa Rica and the Dominican Republic. My parents started businesses in our neighborhood and now I have the great honor of having my own business in Sunset Park. I came out today to advocate for the reversal of Local Law 75 of 2009, which states businesses in New York have to change our security gates from solid gates to ones with 70% visibility by July 1st. That is just 55 days away. This ruling was proposed in 2009 when I was a junior in high school. I was not paying attention to the City Council. I went through a full year of finalizing architectural drawings, having the Department of Buildings inspect my spot, pass us — all that stuff. Nobody ever mentioned it at all. It was my neighbor who told me about it just six weeks ago.
+
+My neighborhood is majority immigrant, a community right now that is hurting. An estimate for my small storefront was $3,500. My neighbor, who is a Mexican immigrant, had an estimate of $5,000. As you said, half of our businesses are led by immigrants. The city is asking thousands of immigrants like my neighbors to pay these gate companies thousands — that is millions of dollars — out of our communities in just 55 days. This ruling is going to affect thousands of businesses all over the five boroughs like me who are just trying to survive. I have only made it to my second year because I have the privilege of operating my business out of a home that my family owns. If it were not for that, I would be gone. A cost this high will cause some to close. These are all people who have
+
+[**(02:47:43)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10063s)
+
+
+
+invested in their communities and their city. Every day a reversal of this ruling is not announced, other businesses are deciding to waste thousands of dollars because of the anxiety that this is creating. This is not just a financial loss though. This is a cultural loss as well. Because if we just grandfather these existing gates, we are also killing future murals. I spent thousands of dollars commissioning an artist to create a mural on my gate. If we just grandfather these gates, that is going to stop any murals from happening in the future. So please reverse Local Law 75. Thank you.
+
+[**(02:48:25)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10105s)
+
+
+
+We hear you. We hear you.
+
+[**(02:48:27)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10107s)
+
+
+
+Yes. I texted my co-sponsors — there are three of us that share this legislation that we are proposing, four now. We are working out the language and putting it out. We also put out some information, an op-ed, trying to get it picked up by as many news outlets as possible. We are trying to go through some of the BIDs, which was the catalyst for us even understanding that this was now being communicated to our businesses. We are hoping to get it passed soon.
+
+[**(02:49:01)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10141s)
+
+
+
+Great. Thank you for your time and I will let my neighbors know what you told me.
+
+[**(02:49:06)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10146s)
+
+
+
+Yes, please. Pause on the changes right now. Thank you.
+
+[**(02:49:18)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10158s)
+
+
+
+We will now turn to virtual panelists. For virtual panelists, once your name is called, a member of our staff will unmute you and the sergeant-at-arms will set the timer and give you the go-ahead to begin. Please wait for the sergeant to announce that you may begin before delivering your testimony. Now, I will call the first virtual panelist, Christopher Johnson. Are you on?
+
+[**(02:49:44)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10184s)
+
+
+
+Starting time.
+
+[**(02:49:46)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10186s)
+
+
+
+Yeah. Hello. Hello. My name is Christopher Leon Johnson. I just got back from John McCarthy — you can see the video later on about the MTA making bus fast and free. But I am going to say this right now that I just got back from another nonprofit event outside City Hall which is working towards that project. I am going to say this right now that they need to step up and really call for more legal services for the liberistas. They need to step up to the plate.
+
+I will say this right now — shout out to the City Council for helping out with the NYPD and stop criminalizing immigrants. But the MTA and the City Council need to step up when it comes to stopping the criminalization of immigrants when it comes to fare evasion. Remove the NYPD from the eagle team. That is how you really make sure immigrants do not get harassed more by the NYPD when it comes to this immigration problem in New York City.
+
+Going forward, the City Council has to make sure that street vendors — I am at City Hall right now — street vendors do not stop being arrested by the NYPD. I understand that the City Council was instrumental in implementing a law to where the NYPD is not criminalizing migrants when it comes to street vending. But I am calling on the City Council to introduce a bill to where the Sanitation Police Department cannot be criminalizing street vendors. Once that happens, I believe that the City Council will really show that they care about standing for migrants. I hope you introduce a bill for this in the future. That is all I have to say.
+
+[**(02:51:50)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10310s)
+
+
+
+I have another hearing so take care. Enjoy. Thank you. Next up we have Melissa Chua.
+
+[**(02:51:57)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10317s)
+
+
+
+Starting time.
+
+[**(02:52:04)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10324s)
+
+
+
+Hi, good afternoon, Chair, Council members and staff. Good afternoon and thank you for the opportunity to speak today. My name is Melissa. I am the director of the Immigrant Protection Unit at the New York Legal Assistance Group, NYLAG. You have already heard a lot today about the devastating impact of the fear sowed by widespread unconstitutional and illegal ICE detentions in our community. NYLAG is part of the Rapid Response Legal Collaborative, through which we provide legal services to non-citizens who are detained or at risk for detention, and the pro se plus project, through which we provide advocacy in and out of court for non-citizens who are facing the process alone.
+
+As we have also heard about today, the evisceration of protections like TPS for thousands of New Yorkers, the deprivation of due process rights for asylum seekers and prolonged waiting times for affirmative benefits have had devastating economic impacts. What I also wanted to talk about today was the effect of truncated asylum hearings in which non-citizens are hurriedly ordered removed without the protections of due process, which has resulted in immigrant New Yorkers being deprived of long-term stability and relief and employment authorization in the short term. The need to support pro se immigrant New Yorkers in appeals to keep their cases alive and potentially continue their employment authorization has never been higher. These cases are complex and require real advocacy but are necessary to provide basic protections in immigration court and keep the promises of stability alive.
+
+Through our legal services, NYLAG has sought to provide full legal services and screenings for individuals who may be losing employment authorization because of the end of protections like TPS. We have also provided habeas petitions, appeals and motions for individuals who face enforcement, detention as well as economic instability. For these reasons, the city can support immigrant communities enduring the harmful effects of these changes by supporting community-based organizations directly assisting immigrant communities and legal services agencies. The assaults on the livelihoods of working immigrant New Yorkers only increase the need for high quality legal services.
+
+[**(02:54:10)**](https://www.youtube.com/watch?v=FsHfAudT7_M&t=10450s)
+
+
+
+Thank you for your ongoing commitment to our work and our communities. We look forward to working with you in the future. Thank you for your testimony. We have now heard from everyone who has signed up to testify. If we inadvertently missed anyone who would like to testify in person, please visit the sergeant's table and complete a witness slip. If we inadvertently missed anyone who would like to testify virtually, please use the raise hand function in Zoom and a member of our staff will call on you in the order of your hand raised. Seeing no one else, I would like to note again that written testimony, which will be reviewed in full by committee staff, may be submitted to testimony@council.nyc.gov up to 72 hours after the close of this hearing.
