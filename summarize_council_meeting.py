@@ -60,7 +60,11 @@ ANTHROPIC_MODEL = "claude-sonnet-4-6"
 # Max characters to send in a single Anthropic API call (~4 chars per token).
 # 300K chars ≈ 75K tokens; Sonnet's 200K context leaves room for prompt + 8K response.
 MAX_TRANSCRIPT_CHARS = 300_000
-MAX_SEGMENT_CHARS = 30_000  # Max characters per speaker segmentation API call
+# Max characters per speaker segmentation API call. Kept relatively small so
+# each chunk is short enough for the model to track frequent speaker changes
+# in dense Q&A — larger chunks (~30K) caused multi-speaker stretches to
+# collapse into single ~20-min turns on Sonnet 4.6.
+MAX_SEGMENT_CHARS = 12_000
 
 
 def clean_youtube_title(title):
@@ -347,12 +351,53 @@ def build_transcript_text(utterances):
 
 # Bump this when changing the segmentation contract so old caches are
 # invalidated and re-segmented on the next run.
-SEGMENTATION_VERSION = 2
+SEGMENTATION_VERSION = 3
 
 
 def _format_seg_line(local_idx, seg):
     ts = ms_to_timestamp(seg["start_ms"])
     return f"{local_idx}\t[{ts}] {seg['text']}"
+
+
+def _extract_json_object(text):
+    """Pull the outermost JSON object out of an LLM response.
+
+    Handles ```json fences, prose preamble, and trailing content by walking
+    the brace stack. Returns the JSON substring (or the original text if no
+    balanced object is found, so json.loads can raise its own error).
+    """
+    s = text.strip()
+    # Strip leading ```json / ``` fence if the response starts with one
+    if s.startswith("```"):
+        s = re.sub(r"^```(?:json)?\s*", "", s)
+        s = re.sub(r"\s*```\s*$", "", s)
+
+    start = s.find("{")
+    if start == -1:
+        return s
+
+    depth = 0
+    in_string = False
+    escape = False
+    for i in range(start, len(s)):
+        ch = s[i]
+        if in_string:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_string = False
+        else:
+            if ch == '"':
+                in_string = True
+            elif ch == "{":
+                depth += 1
+            elif ch == "}":
+                depth -= 1
+                if depth == 0:
+                    return s[start:i + 1]
+    return s[start:]
 
 
 def segment_into_utterances(segments, agenda_text, client):
@@ -405,12 +450,16 @@ Your task:
 1. Identify speaker changes based on context clues:
    - Self-introductions ("I am...", "My name is...", "Good morning, I'm...")
    - Addresses to others ("Thank you Council Member X", "Thank you Commissioner Y")
-   - Chair announcements ("The chair recognizes...")
+   - Chair announcements ("The chair recognizes...", "I will now turn it over to...")
    - Roll calls
-   - Changes in topic, tone or conversational turn-taking
+   - Question-answer flips: a segment ending with a question mark is almost always followed by a new speaker answering
+   - Short acknowledgments ("Thank you.", "Yes.", "Right.", "Got it.", "Sure.", "Okay.") inserted between longer passages — these are typically the OTHER party (questioner) briefly reacting before the answer continues, or the original speaker handing off
+   - Changes in topic, register, or tone
    - The agenda listing who was invited to testify
 2. Group consecutive segments belonging to the same speaker into a single turn.
 3. Identify each speaker by their real name and role where you are at least 90% confident. Use "Speaker" for anyone you cannot confidently identify.
+
+IMPORTANT — Council hearings are predominantly Q&A. Most speaker turns are 30 seconds to 3 minutes; very long uninterrupted monologues are rare and usually limited to scripted opening statements or witness testimony. If you find yourself about to assign more than roughly 60 consecutive segments to a single turn, STOP and re-read that stretch carefully — there is almost always at least one Council member interjection, follow-up question, or witness handoff you missed. It is much better to err on the side of more turns (occasionally splitting one speaker into two) than fewer (collapsing multiple speakers into one).
 
 Return a JSON object with two keys:
 
@@ -426,7 +475,7 @@ The turns must cover EVERY segment from index 0 to {n - 1} with no gaps and no o
 
 Use "Speaker" (not "Speaker A" or "Unknown") for anyone you cannot identify with high confidence.
 
-Return ONLY valid JSON, no other text."""
+Output format: your response must be the raw JSON object only. No preamble, no explanation, no markdown fences, no analysis prose. Begin your response with `{{` and end with `}}`."""
 
     logger.info(f"  Segmenting {n} segments into speaker turns...")
     response = client.messages.create(
@@ -437,16 +486,17 @@ Return ONLY valid JSON, no other text."""
     )
 
     response_text = response.content[0].text.strip()
-    if response_text.startswith("```"):
-        response_text = re.sub(r"^```(?:json)?\s*", "", response_text)
-        response_text = re.sub(r"\s*```$", "", response_text)
+    json_text = _extract_json_object(response_text)
 
     try:
-        result = json.loads(response_text)
+        result = json.loads(json_text)
         turns = result["turns"]
         speaker_map = result.get("speaker_map", {})
     except (json.JSONDecodeError, KeyError) as e:
         logger.error(f"Could not parse speaker segmentation response: {e}")
+        logger.error(f"  stop_reason: {response.stop_reason}")
+        logger.error(f"  raw text (first 300 chars): {response_text[:300]!r}")
+        logger.error(f"  raw text (last 300 chars): {response_text[-300:]!r}")
         logger.error("Falling back to single-speaker turn for this chunk.")
         turns = [{"speaker": "A", "first": 0, "last": n - 1}]
         speaker_map = {"A": "Speaker"}
