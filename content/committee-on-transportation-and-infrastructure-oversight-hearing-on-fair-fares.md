@@ -1,0 +1,2313 @@
+---
+committee: "Committee on Transportation and Infrastructure | Committee on General Welfare"
+committee_slug: committee-on-transportation-and-infrastructure
+title: "Oversight Hearing on Fair Fares"
+date: 2026-05-06
+slug: committee-on-transportation-and-infrastructure-oversight-hearing-on-fair-fares
+duration: "4hrs 5m"
+youtube_url: "https://www.youtube.com/watch?v=UHxhK_BPoHs"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403955&GUID=EC219E3C-F23C-4581-B198-4B33B5966522&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Council's committees on Transportation and Infrastructure and General Welfare held a joint oversight hearing on Fair Fares, the city program that provides 50% transit discounts to low-income New Yorkers. The hearing also considered two local bills and two resolutions: Int 0248-2026 (automatic enrollment in city benefit programs, sponsored by Chair Hudson), Int 0825-2026 (replacement transit benefit cards, sponsored by CM Marte), Res 0052-2026 (calling on the state to expand Fair Fares discounts to 200% of the federal poverty level and to commuter rail, sponsored by CM Brooks-Powers), and Res 0143-2026 (calling on the state to allow unlimited transfers within the two-hour fare window). The administration was represented by HRA/DSS Chief Program Officer Rebecca Chu and colleagues; the MTA by Chief of Policy and External Relations John McCarthy, Chief Customer Officer Sheneifa Riera, and policy staff.
+
+The central fact of the hearing was this: only 39.9% of eligible New Yorkers are enrolled in Fair Fares. HRA confirmed that approximately 575,000 eligible New Yorkers are not enrolled, while about 380,000 are. The administration testified at length about its outreach efforts — $2 million in advertising in 2025, multilingual campaigns, transit talks with the MTA, text messages to 568,000 people, door hangers, bodega ads, and 36 CBO partners — but struggled to demonstrate that any of it is working at scale. Speaker Menin was visibly irritated, noting that the application runs to 13-15 pages, offices are only open 9 to 5 on weekdays, and that despite all the activity, more eligible New Yorkers are not enrolled than are. She was also pointedly displeased that neither the HRA commissioner nor the DSS administrator appeared at the hearing, which the Council had flagged as a top priority in its April 1 budget response.
+
+On Int 0248-2026 (automatic enrollment), DSS raised privacy concerns, data-sharing restrictions, and questions about consent, arguing that automatically enrolling people without their knowledge could expose sensitive information. Members pushed back hard, with CM Morano noting that DSS already auto-enrolls SNAP and cash assistance clients into HEAP and fast-tracks two-thirds of Fair Fares applicants in minutes. Speaker Menin pointed to NYC Kids Rise — a universal college savings program she created that successfully enrolled undocumented kindergarteners — as proof that the privacy and data obstacles are solvable with creativity. DSS declined to support or oppose the bill, defaulting to "the administration is reviewing the proposals," which was the answer to nearly every substantive policy question. On Int 0825-2026 (replacement cards), DSS testified that it already provides free replacement cards in extenuating circumstances beyond the formal one-per-year policy, and that participants can also link their discount to a debit card, credit card, or phone. CM Marte and CM Morano questioned whether those alternatives are realistic for low-income New Yorkers without stable banking or smartphones.
+
+The MTA testimony was more substantive and less defensive. McCarthy noted that at minimum wage, a worker already exceeds the 150% federal poverty level income threshold — meaning the program by design excludes many of the working poor it is presumably meant to serve. The MTA released a new policy brief this week showing that Fair Fares riders use both subway and bus frequently, are twice as likely as other riders to hit the weekly $17.50 fare cap, and that around 40% of enrolled participants are not actively using the discount in any given month. The MTA broadly supported raising the income threshold and expanding eligibility, framing it as a choice between going deeper (cheaper fares for existing enrollees) versus going wider (more people eligible). On Res 0143-2026 (unlimited transfers), the MTA explained that implementing unlimited trips within two hours is technically and financially complicated: the subway has no tap-out system, and unlimited trips rather than transfers carry real revenue consequences. A Queens bus network pilot is testing time-limited universal transfers on buses. The hearing ended with both HRA and the MTA conceding that the transition from Fair Fares to the MTA's reduced fare program when participants turn 65 is not seamless and needs improvement.
+
+Numbers
+
+- As of March 31, 2026, there were 379,910 active Fair Fares enrollees.
+- As of April 2024, there were 332,034 enrollees, representing approximately 6% annual growth.
+- Since late 2022, Fair Fares enrollment has grown by approximately 106,000 people.
+- Only 39.9% of eligible New Yorkers are currently enrolled in Fair Fares, per a September 2025 Regional Plan Association report confirmed by HRA.
+- Approximately 575,000 eligible New Yorkers are not enrolled in Fair Fares.
+- 67.3% of Fair Fares clients enroll via the fast-track process (existing HRA clients); 32.7% via open enrollment.
+- 67.4% of fast-track eligible clients (those on SNAP or cash assistance) are not enrolled in Fair Fares.
+- The City spent more than $2 million on targeted Fair Fares advertising in 2025.
+- Since summer 2022, the Public Engagement Unit has done outreach to approximately 568,000 people about Fair Fares; approximately 87,000 of those enrolled via the fast-track process.
+- QR code clicks from Fair Fares advertisements totaled approximately 27,000; website impressions in FY25 totaled approximately 14 million.
+- In FY2025, 231,270 Fair Fares applications were initiated; 118,090 approved; 51,018 denied; 62,071 incomplete; 168 cancelled by clients.
+- In FY2026 to date, 191,224 applications initiated; 99,083 approved; 38,660 denied; 45,520 incomplete; 99 cancelled.
+- Approximately 1,500 applications are currently pending; none pending more than 30 days.
+- Average application processing time is approximately 4 days; applicants are notified of incompleteness within 10 days before the application expires.
+- Approximately 50% of enrollees do not renew each year; approximately 19% of those who lapse return within 120 days.
+- In FY2025, HRA issued approximately 95,000 replacement Fair Fares cards; approximately 60,000 have been issued in FY2026 to date.
+- Replacement cards are mailed and take up to two weeks to arrive.
+- HRA received 826 Fair Fares-related complaints in FY2026 to date, most related to the MetroCard-to-Omni transition.
+- Fair Fares program usage (active riders as a share of enrollees) has risen from approximately 50% historically to 56% in FY2026 following the Omni transition.
+- The MTA estimates approximately 225,000 to 250,000 unique Fair Fares accounts tap at least once per month, out of roughly 380,000 enrolled.
+- Fair Fares participants are twice as likely as non-Fair Fares riders to hit the weekly fare cap of $17.50.
+- The MTA's reduced fare program (for those 65 and older or with qualifying disabilities) has approximately 1.5 million enrolled customers.
+- Fair Fares Omni transition is approximately 98.5% complete across the program.
+- The MTA has 30 customer service centers in the subway system where Fair Fares applications can be started via iPad kiosk; outreach events are held monthly at 58 locations.
+- 5,000 Access-A-Ride customers are currently enrolled in Fair Fares.
+- Bronx Fair Fares office sees approximately 500 visits per month; each other borough office sees approximately 450 visits per month.
+- Bronx enrollment: 99,570; Brooklyn: 125,891; Manhattan: 65,296; Queens: 77,451; Staten Island: 11,720 (as of March 31, 2026).
+
+Action Points
+
+- HRA to provide committee with breakdown of advertising spending allocated to minority contractors and local/ethnic press outlets.
+- HRA to provide data on average income and age of current active Fair Fares enrollees.
+- HRA to provide data on Fair Fares enrollment rates broken down by borough, including eligibility estimates by borough where available.
+- HRA to investigate and report on the share of fast-track eligible clients (SNAP/cash assistance) not enrolled in Fair Fares, to help identify how many could be auto-enrolled.
+- HRA to provide data on how many Fair Fares applicants received assistance from Council offices or external partners, using the existing "where did you receive support" field in the application.
+- HRA to report on how many HRA clients qualify for other transit subsidy programs and therefore do not need Fair Fares.
+- HRA to provide data on how many people cited for fare evasion (for whom HRA already receives monthly NYPD files) have been mailed Fair Fares information and how many subsequently enrolled.
+- HRA to follow up with CM Sanchez on fare evasion summons data and the possibility of a cross-agency analysis with NYPD.
+- HRA to consider extending Fair Fares office hours, including weekend access, and report back to the committee.
+- HRA to work with CM Wong's office on a pop-up enrollment event for seniors and digitally limited constituents in his district.
+- HRA to work with CM Stevens on multilingual, ground-level outreach and a pop-up enrollment event in the Bronx.
+- HRA to work with CM Sanchez (Justin) on a pop-up enrollment event in the Northwest Bronx.
+- HRA to consider extending the incomplete application window from 10 days to 30 days, and report back to the committee.
+- HRA to consider automatic renewal for Fair Fares participants who remain eligible, and report back to the committee with feasibility assessment.
+- HRA to engage with the NYC Kids Rise team (referenced by Speaker Menin) to explore how privacy and data obstacles to automatic enrollment were addressed in that program.
+- MTA to provide committee with data on how many lost, stolen, or damaged Fair Fares Omni cards have been reported to the MTA.
+- MTA to provide committee with data on how many Access-A-Ride customers are enrolled in Fair Fares and how long the verification process typically takes.
+- MTA to provide committee with data on the share of New Yorkers living below the federal poverty line who use public transit.
+- MTA to provide committee with granular station-level data on Fair Fares rider tapping patterns by time of day to help understand trip purpose.
+- MTA and HRA to develop a coordinated process for transitioning Fair Fares participants to the MTA reduced fare program when they turn 65, and report back to the committee with a plan.
+
+## Full Transcript
+
+[**(00:00:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=0s)
+
+
+
+Mass transit can literally be the difference between what is a meaningful avenue to achieve economic resilience and mobility. When there are vast inequities across zip codes and income in New York City, programs like Fair Fares can serve to close them. I am hopeful that today's hearing will serve as a platform for us to strategize on ways we can strengthen accessibility and availability of the Fair Fares programs. To that end, we look forward to the testimony. And in closing, I just want to be clear. This has been one of the Council's top priorities, which is why we included it in our April 1 budget response to insist on an expansion of Fair Fares to include bus, subway, and paratransit as well as automatic enrollment. I will now turn it back over to Chair Hudson. Thank you.
+
+[**(00:00:50)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=50s)
+
+
+
+Thank you so much, Speaker Menin. Fair Fares was first launched in New York City in 2019 and the New York City Human Resources Administration, or HRA, administers the program. Fair Fares offers eligible low-income New Yorkers a 50% discount on subway and eligible bus fares as well as Access-A-Ride trips. As of February 2026, there were 379,354 Fair Fares enrollees. Currently, New York City residents between the ages of 18 and 64 with incomes up to 150% of the federal poverty level may qualify to participate in Fair Fares. Even though enrollment in Fair Fares has steadily increased since the program's inception, that increase is nowhere close to where it should be. According to a 2020 survey conducted by Community Service Society of New York, 54% of eligible Fair Fares respondents reported that they had little to no knowledge of the program.
+
+We know that the City has made efforts to conduct outreach and promote awareness about Fair Fares, but more can always be done. I introduced Int 0248-2026 with the goal of ensuring that all of those who are eligible for Fair Fares can access the program. When it comes to promoting equity and economic mobility for vulnerable New Yorkers, accessible transportation is key. For too many low-income residents, the cost of getting around is a daily barrier to accessing jobs, education, health care, and a sense of community. Programs like Fair Fares are so critical. The program helps to ensure that individuals and families are not forced to choose between paying for a subway ride and meeting their basic needs like food or housing.
+
+As elected officials, we have a responsibility to find ways to improve access to programs like Fair Fares. We hope that today's hearing will inform an assessment of how we can improve access to this program to better support the New Yorkers who need it most. We look forward to receiving testimony from the administration, advocacy groups, and other interested members of the public to learn more about the City's successes, areas for improvement, and ideas for greater access to Fair Fares. I want to conclude by thanking the committee staff for their work on this hearing: Ama Kilawan, Panina Rosenberg, Justin Campos and Elizabeth Childers Garcia. I would also like to thank my staff, Andrew Wright and Ellie Ruentan. I will now pass it over to Chair Abreu.
+
+[**(00:03:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=188s)
+
+
+
+Thank you, Chair. Good morning and welcome to today's joint hearing of the New York City Council's committees on General Welfare and Transportation and Infrastructure. I am CM Shaun Abreu, Majority Leader and Chair of the Committee on Transportation and Infrastructure. I would like to thank Speaker Menin, Chair Hudson, and the staff of both committees for their work in preparing for this hearing and the agencies and members of the public for joining us today.
+
+Fair Fares was launched in 2019 after important advocacy from the Council and community partners. The program provides eligible New Yorkers with a 50% discount on subway and eligible bus fares as well as Access-A-Ride trips. The program is administered by the New York City Human Resources Administration, HRA, but the MTA plays a key operational role in ensuring that Fair Fares Omni cards and Omni readers apply the discount properly across the transit system. This program matters because transit affordability is a central issue in New York City and determines whether people can get to work, school, medical appointments, child care, and other essential services. For many New Yorkers, especially those with lower incomes, public transportation is a lifeline to access the City.
+
+Over the years, the Council has worked to expand Fair Fares eligibility. Most recently, eligibility was expanded to include New Yorkers earning up to 150% of the federal poverty line. As of February 2026, there were more than 379,000 Fair Fares enrollees. That is meaningful progress, but we also know that a lot of eligible New Yorkers are still not enrolled. A September 2025 report by the Regional Plan Association found that only 39.9% of eligible New Yorkers are enrolled in the program. That gap raises important questions for today's hearing. Are eligible New Yorkers aware of the program? Is the application process simple enough? Are outreach efforts reaching the people who need this benefit most? Are language access, digital access, and documentation requirements creating unnecessary barriers? And what more can the City do to connect people automatically to benefits for which they already qualify?
+
+The legislation we are hearing today seeks to improve affordability and equity across the City's public transportation systems. Int 0248-2026 would remove obstacles to enrollment by requiring the City to automatically enroll eligible individuals in Fair Fares and other city-created benefit programs. And I thank my co-chair for sponsoring such important legislation. Similarly, Int 0825-2026 addresses the issue of replacement transit benefit cards. Losing a card, having a card stolen, or having a card damaged should not prevent someone from getting to work, school, or a medical appointment. This Bill would require HRA to issue duplicate Fair Fares transit benefit cards when a card is damaged, destroyed, stolen, or lost, with one free replacement and subsequent fee-based replacements.
+
+Finally, the two resolutions we are hearing today call on the state to increase access to public transit by expanding fare discounts and allowing for unlimited transfers. These proposals recognize that the current fare structure does not always match the way New Yorkers actually travel. Transportation costs continue to rise and those costs fall hardest on lower-income households. When transit becomes unaffordable, the consequences are real: missed appointments, fewer jobs, longer commutes, and greater isolation from services and communities people depend on.
+
+I look forward to hearing from the administration, the MTA, advocates, and members of the public about the current state of Fair Fares, the barriers to higher enrollment, the transition to Omni, replacement card challenges, Access-A-Ride participation, and what steps are needed to make the program more accessible, effective, and equitable. Before we begin, I would like to thank my staff and the committee staff for their hard work in preparing for today's hearing: Jalisa Quickley, my deputy chief; Theodore Miller, counsel to the committee; Sierra Townsen, counsel to the committee; Kevin Katowski, senior policy analyst of the committee; John Bazil, senior policy analyst of the committee; and Adrian Japal, principal financial analyst of the committee. I would also like to thank the staff of the Committee on General Welfare for their work on today's hearing. I will now pass it over to my co-chair, Chair Crystal Hudson.
+
+[**(00:07:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=446s)
+
+
+
+Thank you so much, Chair. And I am going to call on a couple of our colleagues with bills before the committee. And before that, I would like to acknowledge that we have been joined by CM Pierina Ana Sanchez and CM Justin E. Sanchez, not related. CM Brooks-Powers.
+
+[**(00:07:43)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=463s)
+
+
+
+Thank you, Chair Hudson and Chair Abreu for holding this important hearing. Public transit is essential to how New Yorkers live, work, and move throughout our City. But for too many families, the rising cost of transit continues to create real barriers to opportunity. That is why I introduced Res 0052-2026 in support of state legislation sponsored by State Senator Leroy Comrie to expand Fair Fares and ensure that more New Yorkers can access affordable transit. This proposal would expand the Fair Fares program to those earning up to 200% of the federal poverty level across our broader transit system, including subways, buses, paratransit, the Long Island Rail Road and Metro-North. Because, of course, as New Yorkers, we are multimodal. We know that the cost of living in New York City far exceeds federal poverty thresholds. Families who may not qualify today are still struggling to afford daily commutes to work, school, and essential services. When we make transit more affordable, we connect people to opportunity and strengthen our entire City. I look forward to working with my colleagues in government to advance this proposal and deliver meaningful relief to New Yorkers. Thank you.
+
+[**(00:09:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=543s)
+
+
+
+Thank you so much, CM Brooks-Powers. And now I will turn it over to CM Marte.
+
+[**(00:09:10)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=550s)
+
+
+
+Good morning everyone. I would like to thank Majority Leader Abreu and Chair Hudson for holding today's hearing. I also want to thank the Speaker for being in attendance today. I am here today to discuss Int 0825-2026, a Bill that requires DSS to provide more than one replacement Fair Fares card for those who may have lost their card. My office has had a number of constituents come to us for help because they lost their replacement card and they were told by HRA that they cannot receive an additional replacement for the remainder of the year. Now that is not right. Int 0825-2026 is a simple way to make sure Fair Fares is accessible for all who need it and that nobody who loses their card also loses their benefits. I look forward to hearing from DSS on this issue and how we can work together to ensure everyone can receive replacement cards for the remainder of their benefit allotment. Thank you.
+
+[**(00:10:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=604s)
+
+
+
+Thank you so much. And now I will turn it over to the committee counsel to administer the oath to the administration.
+
+[**(00:10:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=646s)
+
+
+
+Good morning. You can hear me, right? My name is Rebecca Chu and I serve as Chief Program Officer of the Human Resources Administration, HRA, within the Department of Social Services, DSS. I would like to thank Speaker Menin, Chair Hudson, Chair Abreu, the members of the Committee on General Welfare, and the members of the Committee on Transportation and Infrastructure for convening today's hearing on Fair Fares. I am joined today by Monica Elely, Deputy Commissioner for Fair Fares, Home Energy Assistance Program, HEAP, and IDNYC, and by Christopher Gonzalez, DSS Chief Strategy Officer.
+
+HRA's mission is fighting poverty and income inequality by providing New Yorkers in need with essential benefits. We understand the importance of transit access and affordability. We share the view that public transportation is an integral part of our City. Reducing transportation costs for low-income households means access to family and friends, healthcare and education, and the ability to more fully participate in the life of our shared communities. Transportation is a daily necessity that impacts the geography of opportunity low-income New Yorkers face. Access to transportation is transformative, and we want New Yorkers to be able to benefit from our outstanding transit system. Fair Fares serves as a crucial component of driving those values forward.
+
+Since Fair Fares' inception, City Hall, the City Council, and DSS have worked tirelessly to expand its reach. Over the last six years, income eligibility has grown from 100% of the federal poverty level to 150%. The eligible population has expanded from those receiving cash assistance and SNAP to open enrollment to all eligible New York City residents through an online application portal. Fair Fares links low-income households with the 50% discount on subway and eligible bus fares or 50% off Access-A-Ride paratransit trips. For more information about this program, we encourage New Yorkers to visit nyc.gov/fairfares, call 311, or visit one of the five Fair Fares NYC locations.
+
+New York City residents may be eligible for Fair Fares if they are between the ages of 18 and 64, or in a household that meets the income guidelines for the program, are not receiving funds to pay for the full cost of a subway or bus ride from the Department of Social Services, Human Resources Administration, or any other New York City agency, and if choosing the subway and bus discount, they are not currently participating in or eligible to participate in any other transportation discount program. For instance, if an individual is eligible for or already participating in the MTA reduced fare program, they are not eligible for the Fair Fares subway and bus discount. Note also that Access-A-Ride customers may request the Fair Fares discount be applied to their Access-A-Ride fare. People should visit the MTA's website, mta.info, for more information about their reduced fare program and how to apply.
+
+Briefly, the MTA highlights that their reduced fare program is available to any person aged 65 or over, or any person with a qualifying disability receiving Medicare benefits for any reason other than age, serious mental illness and receiving Supplemental Security Income, SSI, blindness, deafness or hearing loss, ambulatory disability, cognitive disability, or other physical disability.
+
+At present, Fair Fares has approximately 380,000 participants. Community-minded partners have served as an invaluable resource in pursuing our Fair Fares outreach strategy in government. For instance, DSS and MTA's long-standing partnership includes participating in transit talk events in subway stations to promote Fair Fares and help people apply, DSS provision of outreach and enrollment assistance at transit talks, and the MTA partnering to promote Fair Fares online. Also in government, DSS has partnered with the Department of Youth and Community Development, DYCD, Administration for Children's Services, ACS, Department of Education, DOE, CUNY, Department of Probation, Small Business Services, SBS, New York City Health and Hospitals, the Public Engagement Unit, Community Boards, and elected officials. We have engaged community-based organizations in promoting Fair Fares, including VNS Health Community Center and the Street Vendor Project. Whether through training partner staff, community events, or pop-ups, outreach remains an in-community endeavor for us, consistently meeting New Yorkers where they are.
+
+In addition to engaging with partners, we have engaged in advertising campaigns to raise the public's awareness about Fair Fares. In 2025, the City invested more than two million dollars in targeted advertising. In 2026, we have an ongoing advertising campaign that began in March and runs through various channels through June. That campaign includes ethnic and community newspapers, TV and radio spots in multiple languages such as English, Spanish, Chinese, Haitian Creole, Bengali and Russian, social media, search engine keyword marketing, outdoor advertising, LinkNYC kiosks, bus shelters, subways, ferries and ferry terminals. We continually look for ways to expand our outreach and educate the public about Fair Fares, raising the program's visibility and connecting people to this important resource.
+
+I will now turn to the legislation on the agenda for today's hearing. Int 0248-2026 proposes that the commissioner of social services create a system to automatically enroll individuals in city-created benefit programs like Fair Fares NYC. As the administrator of major benefits programs, DSS understands that public benefits do not exist in isolation. An individual who may be eligible for public benefit X may also qualify for public benefit Y. To the extent possible, DSS seeks to connect clients with benefits they are eligible for. For instance, when an individual is determined eligible for cash assistance, CA, or the Supplemental Nutrition Assistance Program, SNAP, they are automatically evaluated for eligibility for the Home Energy Assistance Program, HEAP, and where eligible placed on an auto-enrollment file, autopay, for the annual HEAP grant. Another example: during the course of case management for households in shelter, the client will be informed about options to pursue public benefits for which they may be eligible, like CA, SNAP or rental assistance. With respect to Fair Fares, DSS currently employs a...
+
+[**(00:18:20)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1100s)
+
+
+
+Fast-track component process whereby Access HRA, CA and SNAP clients can click a button to agree to the terms and conditions of the program, acknowledge the program's roles, and enroll. The process is quick and easy, taking only a few minutes at most. As of March 2026, roughly two-thirds of Fair Fares clients are fast-tracked when counting as a share of overall enrollment volume: 67.3% fast-track, 32.7% open enrollment.
+
+Altogether, DSS understands the importance of outreach to potentially eligible applicants and efforts to reduce the administrative burden on applicants during the course of the benefits application process. That said, informed consent and client privacy remain critically important components of the benefits application process. Benefits applications require access to personal information and clients authorizing review of their confidential information. Such information is a requirement to proceed with most, if not all, benefits applications. An eligibility assessment for a benefit may interact with an array of protected information like residential history, household composition, income, documentation status, veteran status, pregnancy status, HIV diagnosis, or status as a survivor of intimate partner violence. DSS must be conscious of the fact that such sensitive information is subject to numerous privacy regulations and laws. Furthermore, were DSS to create a single repository for such information for the purposes of auto-enrollment, that database could pose risk to prospective automatic enrollees in benefits programs.
+
+I would also want to highlight the concerns around the feasibility of this legislation as currently written for prospective auto-enrollees DSS does not have an existing relationship with. It is important to note that other agencies and levels of government have restrictions on how we can use their data. The outcomes of discussion with those other stewards of government data are not a foregone conclusion. For prospective auto-enrollees DSS does not already have a relationship with, alongside consent to obtain and use their data for the purposes of auto-enrollment, it is unclear how DSS would obtain independently and without permission or prior authorization sufficient information to enroll them. As highlighted before, City benefits may include assessing income information, housing information, medical information, or status as a survivor of domestic violence.
+
+To be clear, we want to connect New Yorkers to the public benefits they are eligible for. We would want to have further discussions with the sponsor around what is possible in this domain, to include consideration of respecting clients' agency and privacy, obtaining requisite assurances on the current accuracy of the information and efforts to connect clients to the public benefits that best meet their needs.
+
+Turning to the second introduction on the agenda today, Int 0825-2026, sponsored by CM Marte, would require HRA to issue duplicate transit benefit cards under the Fair Fares program where a participant's card was damaged, destroyed, stolen, or lost. HRA would be required to provide one replacement card free of charge and would charge $15 for subsequent replacement cards. We want the Fair Fares program to be client-centered and user-friendly. We understand that the unexpected happens and that a mode of payment can be lost, damaged or stolen. That is precisely why we offer a free first replacement card via Access HRA. We would want to have further discussions with the sponsor about this proposal and why our policy is that after replacing one enrollment card each enrollment year, program participants can buy their own Omni card or add the discount to a credit or debit card. That operational consideration allows program participants some flexibility here. Again, Fair Fares program participants can use their Fair Fares discount via one of the following: a debit card, credit card, cell phone, or Omni card. Thus, there are alternatives if their current mode of payment is lost, damaged, or stolen. In limited cases, because our understanding is the MTA has a limited number of Omni cards, we are able to take extenuating circumstances into consideration.
+
+I would like to close by expressing our gratitude for the partnerships that make Fair Fares work, including our partners in government like elected officials, policymakers, our sister agencies and the MTA, and partners in our communities like our transit advocates, our on-the-ground community-based organizations, and engaged community partners committed to outreach, raising awareness and enrollment. We take the responsibility of guiding the Fair Fares program into the future seriously and appreciate your thoughtful contributions to this ongoing dialogue. With that, I welcome your questions.
+
+[**(00:23:53)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1433s)
+
+
+
+Thank you so much. And I am going to kick it over to Speaker Menin for her questions.
+
+[**(00:23:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1437s)
+
+
+
+Great. Thank you. I first of all just want to say I am very disappointed that the commissioner did not come. I think that this topic is so incredibly important to working families all across the City. The Council included this in our budget response on April 1st. We did request that the commissioner or the administrator, either of them, come and neither did. So I would be remiss if I did not express our deep disappointment in that.
+
+Moving forward. You testified about the $2 million in targeted advertising that was spent in 2025.
+
+[**(00:24:36)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1476s)
+
+
+
+The fact that you have got a 40% uptake rate — only 40% of New Yorkers who are eligible for Fair Fares are utilizing it. So what do you attribute that low usage to?
+
+[**(00:24:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1494s)
+
+
+
+Sure. Thank you, Speaker Menin, for your question. So as of the end of March 2026, we had approximately 380,000 program participants. Our enrollment numbers have steadily increased over the years. I would say since the end of 2022 the program has actually grown by approximately 106,000 people. As part of our outreach campaign we have worked with a network of our community partners, sister agencies and the MTA. So for instance with the MTA, we participate in transit talks. At the MTA customer service centers there are iPads where people can enroll in Fair Fares. For existing HRA clients we do a campaign of sending out robocalls and text messages and emails to encourage people to apply. We work with partner agencies such as ACS. We have trained over 100 DOE staff members. We also work with NYCHA, DCAS, Health and Hospitals, the public engagement unit and a number of other agencies, and also local community partners such as the Street Vendor Project and VNS community health centers. We offer trainings and social media kits to promote the availability of Fair Fares. We have ads in print media, video in bus shelters, at all subway stations, at the ferry terminals. NYCHA has included information about Fair Fares in their rent receipts.
+
+So we are very committed to promoting it as much as possible in the community and realize there is more we can do. I certainly appreciate what you are saying, but I think there has to be a recognition that the system is broken, that it is not working when more New Yorkers who are eligible for it are not utilizing it than are utilizing it.
+
+[**(00:27:05)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1625s)
+
+
+
+And that is really one of the many reasons we wanted to have this hearing today. We need to fix the system. The way to fix the system in our opinion is to make it free for bus, for subway, for paratransit, as was indicated in our proposal, up to 150% of the poverty level. The Council is strongly pushing for that. We believe very much in the need for this and in the automatic enrollment.
+
+Thank you, Speaker Menin. The administration is reviewing the Council's proposal. We are going to continue to encourage eligible residents to enroll in Fair Fares and work with City and state partners to make transit more affordable for all New Yorkers.
+
+[**(00:27:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1669s)
+
+
+
+Let us talk about the enrollment. If you try to enroll for Fair Fares, you first need to download an app. What is the point of downloading the app, which again I think really creates a barrier to usage?
+
+[**(00:28:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1683s)
+
+
+
+Sure. So there are two ways people can enroll. For existing HRA clients, they can log in to Access HRA. There is a banner that appears that
+
+[**(00:28:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1694s)
+
+
+
+says "enroll now." Through a handful of clicks, people can confirm that they want to enroll, agree to the program terms and conditions, validate their mailing address so we will know where to mail the card if they would like the card, and select the mode of payment that they want to put the discount on. For those in the community, they can create an account through Access HRA by creating a login account and then also upload documents directly through using the app to apply. We also have brick-and-mortar Fair Fares locations in each of the five boroughs to provide in-person support. There is also the option to apply by calling 311.
+
+[**(00:29:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1741s)
+
+
+
+Once you get through the app and then go onto the application, it is 13 to 15 pages. What is the reason for this level of bureaucracy and these bureaucratic barriers and hurdles? Obviously it is a hurdle if people who are eligible are not utilizing it.
+
+[**(00:29:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1765s)
+
+
+
+Yes. Thank you, Speaker Menin, for your question. For Fair Fares eligibility, we look at identity, New York City residency and income requirements. The questions are designed around those areas. We have worked hard to streamline the process and identify efficiencies. It is something we are continuously looking at to improve and refine.
+
+I mean, I do have to say I do not think 13 to 15 pages is streamlining it. I think when only 40% of New Yorkers who are eligible are utilizing it, that is a failing grade and that is very problematic, which is again why we are urging for this change.
+
+Moving on, I do have a question on Int 0248-2026 and your testimony because I am concerned that the agency seems to be relying on issues — in saying that you are somewhat opposed to the Bill, which is how I read this testimony — that are eminently solvable. I do want to point you to a program that I created about a decade ago called NYC Kids Rise, which is a college savings account. We were able to make it universal to cover every public school kindergartener, including undocumented kindergarteners. I mention that because some of what I am reading in the objections to the Bill, I think are eminently solvable in terms of the benefits question, the data privacy question and certainly ensuring that undocumented individuals are covered. So I would really urge you to work with the team over at NYC Kids Rise who worked with the DOE and how we were able to create that.
+
+[**(00:31:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1869s)
+
+
+
+Okay. Thank you, Speaker Menin.
+
+[**(00:31:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1871s)
+
+
+
+Okay. I am going to pass it back over to
+
+[**(00:31:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1873s)
+
+
+
+Chair Hudson. Thank you. Thank you so much, Speaker Menin. So despite outreach efforts, enrollment in Fair Fares remains low as we have heard. A September 2025 report by the Regional Plan Association found that only 39.9% of eligible New Yorkers were enrolled in the program. Reported barriers include lack of public awareness, a burdensome application process, and the exclusion of reduced fares on commuter railroads. Fair Fares eligibility was recently expanded. How was the information about new eligibility made available?
+
+[**(00:31:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=1909s)
+
+
+
+Yes. Thank you, Chair Hudson. We made the information available by promoting it through partnerships with the MTA. They promoted the information at various transit talks. We have also partnered with a variety of our sister agencies such as NYCHA, Health and Hospitals, ACS, DOE, DCAS, IDNYC — one of our other programs at HRA — to inform the public around the increase and expanded eligibility criteria. We also have advertisements through social media. We are on LinkNYC kiosks. We also have print ads in subways, buses and ferry terminals. We also sent out information to existing HRA clients to raise awareness. We also target our outreach through community partners such as VNS community health centers and the Street Vendor Project. We have also put door hangers outside of apartment buildings in zip codes with the highest concentration of eligible enrollees. We have also put ads in local bodegas and convenience stores, check cashing places and laundromats, again in neighborhoods that have concentrations of people that could benefit from our program.
+
+Do you have a
+
+[**(00:33:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2006s)
+
+
+
+system to track who is applying for benefits from any of those advertisements? So for example, if somebody is applying, are they saying "I received something on my doorknob and therefore that is how I learned about it and that is how I am applying"? Is there any way to track that?
+
+[**(00:33:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2025s)
+
+
+
+Thank you for your question, Chair Hudson. I believe we are able to track the number of scans on the QR codes. I will see if my colleague has additional insight.
+
+[**(00:33:58)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2038s)
+
+
+
+We do track the number of impressions from the clicks on to the website. We believe that in FY25 we had about 14 million. The number of clicks for the advertisements done from the QR code were about 27,000.
+
+[**(00:34:21)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2061s)
+
+
+
+And sorry, can you repeat where the QR codes are appearing?
+
+[**(00:34:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2066s)
+
+
+
+They are appearing on the bus shelters. All of the advertisements have a QR code on them because they say Fair Fares has expanded. So that is anywhere on the subway, on bodega
+
+[**(00:34:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2078s)
+
+
+
+storefronts, and all of the places where you see the advertisement.
+
+[**(00:34:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2082s)
+
+
+
+Okay. So you have reportedly sent over 550,000 text messages since the summer of 2022 to New Yorkers about Fair Fares as well. Do you know how many enrollments resulted from that outreach?
+
+[**(00:34:55)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2095s)
+
+
+
+Thank you, Chair Hudson. Understanding that correlation is not causation, of the approximately 568,000 people the public engagement unit has done outreach for regarding Fair Fares since 2022, approximately 87,000 got enrolled via the fast-track process. Some people may have also enrolled via open application.
+
+[**(00:35:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2124s)
+
+
+
+Okay. Thank you. And do you agree with the estimate that only 39.9% of eligible New Yorkers are enrolled?
+
+[**(00:35:35)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2135s)
+
+
+
+Yes, that is accurate.
+
+[**(00:35:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2138s)
+
+
+
+Okay. And how do you measure whether Fair Fares advertising and outreach campaigns are successful? What specific efforts have been most effective in increasing enrollment? I am going to do some quick math to figure out the percentage of that.
+
+[**(00:35:53)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2153s)
+
+
+
+So we continuously monitor our enrollment uptick. We are leaning into our current advertising and marketing campaign. We believe in the value of Fair Fares and we are always looking for ways to strengthen the program and increase our outreach.
+
+[**(00:36:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2173s)
+
+
+
+Okay. So if I am correct in my quick math, that is 15% of the text messages that have been sent that have resulted in enrollees. So is that considered a successful outreach method, would you say, or not so much? I do not know. I am just trying to figure out what your threshold is. 15% is not nothing.
+
+[**(00:36:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2200s)
+
+
+
+So I think, certainly a good question. What we kind of look to is the larger number of enrollees. We absolutely understand there could always be more done. We will continue to lean into not only our marketing campaign but also working with our partners. We work through our CBO networks to make sure that, for those who may find more trusted voices than government more persuasive, we are sharing and providing access to the program. The fact that the trajectory of the program is going up we do consider a success, but we can always and are always in pursuit of doing more.
+
+[**(00:37:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2246s)
+
+
+
+Okay. How many people visit the five Fair Fares offices each month? And are you able to disaggregate that by office?
+
+[**(00:37:33)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2253s)
+
+
+
+Yes. Thank you, Chair Hudson. For the Bronx office, our monthly traffic is approximately 500 people.
+
+[**(00:37:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2265s)
+
+
+
+Yes.
+
+[**(00:37:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2265s)
+
+
+
+Annually?
+
+[**(00:37:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2266s)
+
+
+
+Monthly.
+
+[**(00:37:47)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2267s)
+
+
+
+Monthly. And for the other boroughs — Brooklyn, Manhattan, Queens and Staten Island — the monthly traffic is approximately 450 people per month
+
+[**(00:37:59)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2279s)
+
+
+
+for each of those.
+
+[**(00:38:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2281s)
+
+
+
+Yes, for each site.
+
+[**(00:38:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2284s)
+
+
+
+Each site experiences about 450 visits
+
+[**(00:38:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2288s)
+
+
+
+or engagements per month.
+
+[**(00:38:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2291s)
+
+
+
+Okay. Are the current office locations and hours sufficient to meet demand?
+
+[**(00:38:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2297s)
+
+
+
+We believe so. It is business hours Monday through
+
+[**(00:38:21)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2301s)
+
+
+
+Friday, 8:30 to 5.
+
+[**(00:38:23)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2303s)
+
+
+
+8:30 to 5. Okay. Might you consider extending or shifting hours so that if people have jobs, they are able to actually visit these sites to enroll in the program?
+
+[**(00:38:41)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2321s)
+
+
+
+So I think we can certainly consider that, but I think what we look at is not just obviously the in-person visits but also the other types of engagement. So it is something we could certainly consider. I mean, it is my critique of government, which I recognize I am a part of, but we always make everything available 9 to 5 and we are talking about people who are struggling to afford to pay for their bus fare and subway fare who are often working people. So to make something available only during business hours just makes it really hard. Somebody has to take off work, which means they might not be getting paid for that day, have to drop their kids off at school, et cetera. So sometimes a little bit more flexibility, staying open a little bit later, maybe opening on a Saturday a month, something like that is something I think worthy of consideration.
+
+[**(00:39:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2374s)
+
+
+
+Do you have plans to open additional Fair Fares enrollment sites or provide more mobile enrollment assistance?
+
+[**(00:39:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2382s)
+
+
+
+At this time, no.
+
+[**(00:39:43)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2383s)
+
+
+
+Okay. And how is HRA assisting Fair Fares participants with the transition from MetroCard to Omni?
+
+[**(00:39:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2392s)
+
+
+
+Thank you, Chair Hudson, for your question. We are fully transitioned to Omni for all of our clients. We began that process in February 2025 by providing Omni cards to all new and renewing enrollments, or existing clients who wanted to transition to Omni. In November 2025, the Fair Fares program mailed over 60,000 Omni cards to all enrollees who had not yet transitioned, to help ensure everyone had access to their discount before the sunset of the MetroCard.
+
+[**(00:40:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2427s)
+
+
+
+Okay, great. That is good news. Thank you. I am going to ask a handful more questions and then I am going to turn it over to some of my colleagues for their questions. Public transit is essential for New Yorkers' access to jobs, schools, healthcare, child care and other services. Lower-income New Yorkers are more dependent on public transportation than higher-income households and transportation costs have continued to rise over time. Does HRA collect data on how Fair Fares affects participants' access to work, school, medical care, food benefits or other essential services?
+
+[**(00:41:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2460s)
+
+
+
+We do not.
+
+[**(00:41:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2462s)
+
+
+
+And has the administration studied whether Fair Fares improves economic mobility, employment access or household stability?
+
+[**(00:41:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2469s)
+
+
+
+We have administered surveys to participants in the past to kind of gauge client satisfaction and the benefits of the program. So we have done that before.
+
+[**(00:41:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2484s)
+
+
+
+Okay. And do you have information available on Fair Fares participants to understand their work patterns? Like, there are a lot of eligible New Yorkers who are not actually working for various reasons. So I am wondering if you have that data specifically about work patterns, or if you could make a summary of that information available without the personal identifying information.
+
+[**(00:41:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2512s)
+
+
+
+Right. So employment is not something we track. It is not part of the application process. So we do not collect information about employment. We ask about identity, New York City residency and income. So we do not collect that precise data point.
+
+[**(00:42:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2532s)
+
+
+
+Okay. And Fair Fares was launched in 2019 and is administered by HRA. The program provides eligible low-income New Yorkers with a 50% discount on subway and eligible bus fares, including the Staten Island Railway, Roosevelt Island Tram, Hudson Rail Link and Access-A-Ride trips. As of February 2026, there were 379,354 Fair Fares enrollees. Overall, how would you characterize the current state of
+
+[**(00:42:43)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2563s)
+
+
+
+the Fair Fares program? Sure. So we would say that we believe in the value of Fair Fares and we are always looking for ways to strengthen our program. We believe in our mission. We believe we have built a good infrastructure around our program to provide the benefit in an efficient and expeditious manner. Having said that, the program can grow. We understand that there are challenges in reaching everyone who can take advantage of the program. We are going to continue to lean into our marketing campaign and we look forward to working with Council advocates and CBOs so we can leave no stone unturned in reaching folks in need of the program.
+
+[**(00:43:28)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2608s)
+
+
+
+Thank you for that. And you mentioned in your testimony that there are approximately 380,000 participants. Do you have an exact number?
+
+[**(00:43:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2618s)
+
+
+
+Yes, it is 379...
+
+[**(00:43:48)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2628s)
+
+
+
+It is 379,910 as of March 31st, 2026.
+
+[**(00:44:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2641s)
+
+
+
+Thank you. And do you know how that enrollment compares to prior years?
+
+[**(00:44:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2648s)
+
+
+
+How much of an increase we have seen. Sure. So that has increased from 332,034 in April 2024.
+
+[**(00:44:22)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2662s)
+
+
+
+Sorry, 332,034?
+
+[**(00:44:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2665s)
+
+
+
+Yes, 332,034 as of April 2024.
+
+[**(00:44:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2674s)
+
+
+
+Okay.
+
+[**(00:44:35)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2675s)
+
+
+
+So that is an increase of roughly 6% each year. Another data point is that since the end of 2022, our program has grown by approximately 106,000 people.
+
+[**(00:44:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2697s)
+
+
+
+Okay. Do you have an estimate of how many people are currently eligible but not enrolled in the program?
+
+[**(00:45:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2708s)
+
+
+
+Yes. Approximately 575,000 people are eligible and not enrolled.
+
+[**(00:45:18)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2718s)
+
+
+
+And how does HRA expect enrollment to change should Fair Fares change to a 100% discount for those who are currently eligible or qualified?
+
+[**(00:45:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2729s)
+
+
+
+Sure. So the administration is reviewing that proposal.
+
+[**(00:45:33)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2733s)
+
+
+
+Okay. And do you have any stated goals for Fair Fares enrollment in fiscal year 2026 and fiscal year 2027?
+
+[**(00:45:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2742s)
+
+
+
+Yes. Our goal is to continue to partner with our network of partners to reach as many eligible people as possible and to really support as many people as possible benefiting from the program, and to continue to find creative ways to reach more people.
+
+[**(00:46:05)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2765s)
+
+
+
+So no specific metrics you are trying to achieve or reach?
+
+[**(00:46:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2771s)
+
+
+
+So at this point, one of the challenges with projecting those types of metrics is that there are varying circumstances as to why people might or might not want to take advantage of the program. So at this point, as Chief Chu said, we are going to continue to lean into our marketing program and work through partners, and hope to grow the program that way.
+
+[**(00:46:39)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2799s)
+
+
+
+And do you know how many CBO partners you currently have or are working with?
+
+[**(00:46:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2806s)
+
+
+
+So as part of our New York City benefits program, we have, I believe, 36 CBOs that we work with.
+
+[**(00:46:56)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2816s)
+
+
+
+Okay. So they are not specifically for Fair Fares.
+
+[**(00:46:58)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2818s)
+
+
+
+No, it is for benefits access altogether, but with that group and also with our community outreach team, we do a lot of tabling events in communities and the CBOs partner with us on that as well. And then you
+
+[**(00:47:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2833s)
+
+
+
+mentioned just now that there could be a variety of reasons why people are not enrolling. Do you know what, or can you identify, some of the most significant barriers preventing eligible New Yorkers from enrolling in Fair Fares?
+
+[**(00:47:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2850s)
+
+
+
+I would thank you for your question, Chair. I would say New Yorkers have a variety of travel patterns and modes of transportation preferences, and kind of personal family planning around commutes and travel.
+
+[**(00:47:47)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2867s)
+
+
+
+Okay. Thank you. I would like to acknowledge that we are joined by CM Hanif and CM Louis on Zoom and also by CM Dinowitz, CM Mealy and CM Morano here. I am going to go to colleagues for a few questions and then I will come back. CM Mealy, followed by CM Wong.
+
+[**(00:48:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2892s)
+
+
+
+Thank you. I would definitely like to know what was the outcome of what the Speaker just asked you about the 15 pages that our constituents have to go through in order to get this.
+
+[**(00:48:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2909s)
+
+
+
+Right. So thank you, CM Mealy, for your question. So...
+
+[**(00:48:33)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2913s)
+
+
+
+Is there a plan to maybe simplify that application so that it could be more
+
+[**(00:48:39)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2919s)
+
+
+
+user-friendly? Because remember, a lot of us do not have time, and seniors are involved as well.
+
+[**(00:48:47)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2927s)
+
+
+
+Sure. Thank you. So as part of the online application, someone would log in and create a login account for Fair Fares. They would be asked information about their identity.
+
+[**(00:49:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2943s)
+
+
+
+We went through that. I am just asking, are you considering streamlining the application, as the Speaker asked?
+
+[**(00:49:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2951s)
+
+
+
+To answer your question, CM, I think it is a valid question. What I can say is that with all of our benefits programs we are constantly reviewing to see if we can find efficiencies to make sure that accessibility is as easy as possible. So if you are not
+
+[**(00:49:28)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2968s)
+
+
+
+asking people for all their information like their Social Security number, why could it not be compressed to three pages?
+
+[**(00:49:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2980s)
+
+
+
+So I think if there are ways that we can streamline the process as much as possible, those are important questions and
+
+[**(00:49:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=2989s)
+
+
+
+their family history, why could it not be cut down to just three? So let me move on. Please think about that. And you say you are no longer using the mobile enrollment assistance trucks.
+
+[**(00:50:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3007s)
+
+
+
+What?
+
+[**(00:50:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3009s)
+
+
+
+Fair Fares has never had any mobile enrollments. Are you speaking of the MTA? That is the MTA and I am sure that they are still using that. I am not aware that Fair Fares has a mobile enrollment truck.
+
+[**(00:50:22)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3022s)
+
+
+
+The MTA will be here to testify in a little bit. Yeah, this is HRA. Can I have one more question? How much advertising are you doing with the local newsletters? What percentage is that?
+
+[**(00:50:37)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3037s)
+
+
+
+We would have to get back to you on the percentage, but I know that we are advertising.
+
+[**(00:50:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3040s)
+
+
+
+So what is your budget for advertising?
+
+[**(00:50:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3042s)
+
+
+
+It is $2 million.
+
+[**(00:50:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3044s)
+
+
+
+So how much is going to minority contractors? You all should have that.
+
+[**(00:50:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3049s)
+
+
+
+Most all of it. I think that is part of the mayor's office contracts on advertisements.
+
+[**(00:50:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3054s)
+
+
+
+So you do not have the percentage?
+
+[**(00:50:55)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3055s)
+
+
+
+I do not have the percentage with me right now.
+
+[**(00:50:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3057s)
+
+
+
+You do not have one that you know of, like our local press from Bed-Stuy?
+
+[**(00:51:05)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3065s)
+
+
+
+We can get back to you on that.
+
+[**(00:51:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3067s)
+
+
+
+Please do, Chair, because
+
+[**(00:51:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3068s)
+
+
+
+yes, we can follow up with that.
+
+[**(00:51:10)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3070s)
+
+
+
+They say that, but we need to see it also locally.
+
+[**(00:51:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3074s)
+
+
+
+Thank you for your questions. CM Wong.
+
+[**(00:51:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3077s)
+
+
+
+Yes. Thank you, Chair. My office deals with a lot of seniors, seniors that either do not know how to scan documents or upload to an application like Fair Fares NYC, or they simply do not know how to apply because it is such a complicated process. I did not count the number of pages, but it is just not easy for anybody that has never scanned documents before in their life, or where the only thing they know to do with a cell phone is to make phone calls. They just do not know how to upload documents to a portal.
+
+So what I want to know is, do you have a paper option where someone can actually do it the old-fashioned way, make copies of their documents and send it in? Because I think a lot of seniors, at least in my district, would be able to do that, but they would have a very difficult time navigating the website and applying online to Fair Fares NYC. Can you talk about that? Would a paper option be possible?
+
+[**(00:52:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3150s)
+
+
+
+Thank you, CM, for your question. Fair Fares eligibility is up to age 64. The senior population is covered by the MTA. So that question should be directed to the MTA, as you said they will be here later.
+
+[**(00:52:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3169s)
+
+
+
+But just to add to that, I would just want to reiterate that yes, we understand that there might be digital barriers to access. That is why we have the five in-person centers and it is also really why we lean heavily into our CBO partners, because they can actually help in that process by walking people through the application.
+
+[**(00:53:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3195s)
+
+
+
+Yeah. And I also want to say that due to language barriers, they may have difficulty reading or understanding the application in English. So you have to make sure that it is available in several languages. I think that is also another barrier that you have to overcome. I mean, 550,000 people eligible but not enrolled — that is 60% of the people out there that we can service but either do not bother because it is complicated or just do not know about it.
+
+[**(00:53:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3232s)
+
+
+
+I will say, CM, if there are constituencies that you feel need more accessibility, we are happy to work with you and anyone else up here to make sure that we are paying attention.
+
+[**(00:54:06)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3246s)
+
+
+
+Perhaps you can send us a portal and one of my staff will upload all the applications in one batch rather than making them apply individually.
+
+[**(00:54:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3255s)
+
+
+
+That is something we can definitely work on. We can absolutely work with your office, CM, on a pop-up or any way to support.
+
+[**(00:54:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3264s)
+
+
+
+Thank you. CM Morano.
+
+[**(00:54:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3266s)
+
+
+
+Thank you, Chair. Thank you, Ms. Chu, for your testimony and everybody else. Your testimony says DSS already auto-enrolls people into HEAP when they are receiving SNAP or cash assistance and that those cases are fast-tracked in roughly 2 to 3 minutes.
+
+[**(00:54:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3284s)
+
+
+
+So if the infrastructure already exists, why has Fair Fares remained a separate bureaucratic process for so long? Thank you, CM Morano, for your question. So for HEAP, in order to have reciprocity with HEAP, we had to work very closely with our state oversight agencies — OTDA — because of the confidential nature of the information and connections with people's public benefits applications for cash assistance and SNAP, in order to be able to have the auto-pay file through HEAP.
+
+[**(00:55:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3327s)
+
+
+
+You spent a great deal of time in your testimony talking about privacy concerns, and I appreciate the privacy concerns you raised, but millions of New Yorkers already give the City extremely sensitive information for taxes, SNAP, Medicaid, housing assistance and public schools. So where exactly is the line? At what point does privacy become an excuse for maintaining unnecessary bureaucracy?
+
+[**(00:55:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3354s)
+
+
+
+Right. Thank you.
+
+[**(00:55:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3357s)
+
+
+
+Thank you for your question. So we very much believe in people's right to free agency and to privacy in their personal information. So when they are applying for a public benefit, we have to protect that information, whether it is about their domestic violence status, health information or income information. All of that is highly protected information governed by state and federal laws and regulations. There are boundaries even within our own social services agency that we cannot just share that information without the client's express consent and permission, and also in consultation with our oversight agencies.
+
+[**(00:56:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3400s)
+
+
+
+And, Chair, if you permit me one final question on the replacement card bill. I am proud to be a sponsor of the replacement card bill and your testimony says participants can already switch the discount to a debit card, credit card, phone or Omni card. But if we are being realistic, a lot of low-income New Yorkers do not always have stable banking access, smartphones or reliable technology. Is that not exactly why physical replacement cards still matter?
+
+[**(00:57:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3431s)
+
+
+
+Thank you, CM, for your question. So yes, when someone is eligible for the Fair Fares program, they can elect to have us mail the physical Omni card. They can also elect to use their smartphone or link it to a credit card, debit card or their own Omni card. So there are multiple options there, including, like you said, the physical card. And for HRA, if someone needs a replacement card for their lost Omni card, again, even though there are now multiple ways to access the Fair Fares discount through all those different types of options, we can also mail out a replacement Omni card if that is the primary way that people are participating in the program. Thank you.
+
+[**(00:58:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3488s)
+
+
+
+Thank you so much. HRA administers Fair Fares applications through ACCESS HRA and through five Fair Fares offices. Enrollment lasts for one year and may be renewed as long as the participant continues to meet eligibility requirements. Applicants are notified by mail after review, which may take up to 30 days. How long does it currently take on average for an eligible applicant to be approved for Fair Fares?
+
+[**(00:58:32)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3512s)
+
+
+
+Thank you, Chair Hudson, for your question. It takes approximately four days.
+
+[**(00:58:37)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3517s)
+
+
+
+Four.
+
+[**(00:58:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3518s)
+
+
+
+Yes.
+
+[**(00:58:43)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3523s)
+
+
+
+How many Fair Fares applications are currently pending?
+
+[**(00:58:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3526s)
+
+
+
+Approximately 1,500 are currently pending and none of them are over 30 days pending.
+
+[**(00:58:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3534s)
+
+
+
+Okay. So there are none pending for more than 30 days currently. Okay. And what are some of the most common reasons applications are denied, delayed or abandoned? We heard from one person this morning at the rally that she was $1,000 over the eligibility requirement. So I am curious to know, is it income? Is it residency?
+
+[**(00:59:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3567s)
+
+
+
+Thank you for the question, Council Chair. Generally it is for income, or sometimes it is incorrect documents. Income eligibility is of course the major reason why people are denied.
+
+[**(00:59:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3584s)
+
+
+
+And what is the process if somebody — if the reason is for the paperwork, right, that you just mentioned? What is the process for helping folks to correct that paperwork? There is a notice that goes out to the individual that allows them to know what the issue was and they have that ability to correct it within 30 days. And how do they receive that notice? In the mail. Okay. How many Fair Fares applications were submitted in fiscal year 2025 and fiscal year 2026 to date?
+
+[**(01:00:19)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3619s)
+
+
+
+Yes. 231,270 applications were initiated in fiscal year 25. 118,09 were approved. 51,018 were denied. 116...
+
+[**(01:00:43)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3643s)
+
+
+
+Wait, I am sorry. You are still talking about fiscal year 25. Yes. Okay. So 118,09 were approved. Yes. And how many did you say were denied? 50...?
+
+[**(01:00:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3652s)
+
+
+
+51,018 were denied. 168 were cancelled.
+
+[**(01:01:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3662s)
+
+
+
+Um...
+
+[**(01:01:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3663s)
+
+
+
+Cancelled by HR.
+
+[**(01:01:05)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3665s)
+
+
+
+No, by the client. Oh, by the client. Okay.
+
+[**(01:01:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3668s)
+
+
+
+And 62,071 were incomplete. That was for fiscal year 25. I can go over it again or we can send it after.
+
+[**(01:01:20)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3680s)
+
+
+
+No, that is perfect. Do you have the numbers to date on fiscal year 26?
+
+[**(01:01:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3684s)
+
+
+
+Yes.
+
+[**(01:01:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3684s)
+
+
+
+The same stats?
+
+[**(01:01:28)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3688s)
+
+
+
+191,224 applications have been initiated so far in fiscal year 26. 99,083 have been approved. 38,66 were denied, 99 were cancelled and 45,52 have been incomplete.
+
+[**(01:02:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3721s)
+
+
+
+And so for the incomplete applications, those are the ones where people are notified by mail that their applications were incomplete and have an opportunity to then resubmit paperwork?
+
+[**(01:02:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3737s)
+
+
+
+No, the denials are the ones that receive a notification in the mail. For incomplete, they have emails and text messages that say, "Hey, your application is incomplete. You need to upload documents," and for whatever reason they are not uploading the document.
+
+[**(01:02:31)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3751s)
+
+
+
+And then maybe you have this for fiscal year 2025, but I am just curious to know of those incomplete applications, how many are then within a certain amount of time or ultimately approved.
+
+[**(01:02:47)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3767s)
+
+
+
+We do not have that statistic. What happens is that an incomplete application expires after 10 days and so they would have to restart the application. So once they have been notified of incompletion, they have 10 days to correct it and after that they would have to reapply.
+
+[**(01:03:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3784s)
+
+
+
+Start a new application. Yes. Okay. I think that is just another example of where we can create an efficiency and maybe not limit ourselves or limit clients or potential enrollees to just 10 days to complete an application and maybe even extend it to 30 days. I personally do not understand why there would need to be a time limit anyway, but if there must be one, maybe 30 days so that people can have the time to resubmit rather than just 10 days, which feels a little tight. But thank you for those numbers. We appreciate the data. Are applicants able to submit all necessary documents through Access HRA and the mobile app or are there some that have to be submitted another way?
+
+[**(01:03:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3834s)
+
+
+
+Yes. Applicants are able to submit all necessary documents through Access HRA, the mobile app, and the vast majority of applicants do apply and renew online.
+
+[**(01:04:05)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3845s)
+
+
+
+They do apply and also renew online. Okay. And what percentage of Fair Fares participants successfully renew their enrollment each year?
+
+[**(01:04:18)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3858s)
+
+
+
+Over the past two years, approximately 50% of clients have not renewed.
+
+[**(01:04:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3865s)
+
+
+
+So 50% have renewed and 50% have not renewed. Yes. And does that mean 50% of the people lose their benefits because they do not complete the renewal on time?
+
+[**(01:04:39)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3879s)
+
+
+
+Well, roughly 50% fall out of the program. Fall out of the program, meaning they are no longer eligible? Well, they have not renewed for the program, so they have fallen out of the program, but about 19% of the clients who dropped off because of failing to renew do return to the program within 120 days.
+
+[**(01:05:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3902s)
+
+
+
+Okay. I think this is another opportunity for efficiency where if we know people are eligible, I mean, why are we even asking them to renew? If they are eligible, they are eligible and should we not just automatically renew their applications? I think this is one of the things that is kind of core to why we want to take a look at what is being proposed here. The threshold of consent is still there for clients that for some reason might not necessarily want to be in the program. I think we could certainly look at ways we can increase interaction and make sure that we are creating maybe another layer of interaction to make sure people do not fall off. But...
+
+[**(01:06:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3962s)
+
+
+
+Yeah, I mean I think the consent — I am with you on that. But I think it is one thing to ask people if they consent to being re-enrolled in the program. It is another thing to ask people to re-enroll in the program. If half of the people who are enrolled in the program are then falling out of the program simply because they have to re-enroll or renew, I think we are failing. So we are happy to continue taking a look at that and figuring out what efficiencies can...
+
+[**(01:06:36)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=3996s)
+
+
+
+Okay. It also just seems like, you know, a hamster on a wheel — we still have not gotten to 100% enrollment for every eligible New Yorker we know exists and then we are losing people because we are asking them to renew and then we are trying to get them back and it is just this continuous cycle and we are still not getting to as many people enrolled in the program as possible. I would love to be a partner to you all in thinking about how do we create efficiencies in the application process specifically to guarantee greater enrollment and easier access throughout the process. Absolutely. We are happy to continue that conversation.
+
+[**(01:07:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4046s)
+
+
+
+Do you send renewal reminders?
+
+[**(01:07:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4049s)
+
+
+
+Yes. We send out letters, text messages and emails to remind enrollees to renew. We send out a letter 90 days prior to the renewal period and then another round 30 days prior and also text messages 3 days prior to the renewal expiration.
+
+[**(01:07:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4072s)
+
+
+
+And what about the emails?
+
+[**(01:07:55)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4075s)
+
+
+
+Emails are sent 30 days before the expiration of renewal.
+
+[**(01:07:59)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4079s)
+
+
+
+Okay. So letters 90 days and then 30 days, text message 3 days and emails 30 days.
+
+[**(01:08:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4087s)
+
+
+
+Okay. I wanted to ask a question. In your testimony, Chief Chu, you mentioned that two-thirds of Fair Fares clients enroll via the FastTrack program. I am just curious to know the difference between those who are currently in — if you have this information of the eligible New Yorkers — how many are already in the HRA system versus not. What I am trying to get at is if two-thirds of the clients are using this system, perhaps the remaining third could be or would be using the system. I am wondering if it is because they may not be receiving cash assistance or SNAP, or if they are, how can we...
+
+[**(01:09:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4167s)
+
+
+
+...get to that last third of people. Yeah, let us dig into that and we will get back to you. Okay. Sure.
+
+[**(01:09:35)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4175s)
+
+
+
+Okay. So the Council needs reliable data to evaluate whether Fair Fares is reaching eligible New Yorkers, reducing transportation hardship and operating efficiently. We would like to get a better understanding of the current enrollees of Fair Fares, and forgive me if some of these questions are redundant — if we have already gone over them, we can skip them. Do you have the breakout by borough for active enrollees?
+
+[**(01:10:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4203s)
+
+
+
+Yes. So enrollment by borough as of March 31st, 2026 — the enrollment in each borough is: for the Bronx, 99,570; for Brooklyn, 125,891; for Manhattan, 65,296; for Queens, 77,451; for Staten Island, 11,72.
+
+[**(01:10:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4242s)
+
+
+
+You may not have this, but do you have eligibility based on borough? So of the total number of eligible New Yorkers, do you know the borough breakdown?
+
+[**(01:11:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4262s)
+
+
+
+We do not have that. We will have to dig into seeing whether that is something that...
+
+[**(01:11:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4267s)
+
+
+
+Okay. What I would like to figure out is the percentage of people in each borough and if perhaps we need to work a little bit more with certain CBOs or think about the Fair Fares offices. I would guess, because the five poorest council districts are all in the Bronx — one straddles the Bronx and Manhattan, CM Cornegy's district — and Bronx enrollment is lower than Brooklyn enrollment. My guess is that there are more people who are eligible and not enrolled in the Bronx perhaps than in other boroughs. I am just trying to figure out the delta between how many eligible New Yorkers are in the Bronx versus how many are actually enrolled and proportionately allocating our resources and investments into each of the boroughs based on that.
+
+[**(01:12:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4328s)
+
+
+
+Yeah, I think that is a good question. I mean, we would only know the folks that are already within our HRA world, but that is something we can dig into.
+
+[**(01:12:19)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4339s)
+
+
+
+Yeah. I mean, even knowing how many are in the Bronx that are eligible versus that are enrolled for each borough would still be helpful, I think, if not the total universe. What is the percent of unduplicated Fair Fares eligible households in the current HRA benefits universe that are not enrolled?
+
+[**(01:12:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4360s)
+
+
+
+We do not have the percent of unduplicated Fair Fares eligible households that are not enrolled. However, I think we said it a little earlier, but 67.4% of FastTrack eligible clients — those are those enrolled in SNAP or cash assistance — are unenrolled in the Fair Fares program.
+
+[**(01:13:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4383s)
+
+
+
+Okay, thank you. Helpful. And how often is the total enrollment data updated on HRA's website? It is updated monthly. Monthly?
+
+[**(01:13:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4394s)
+
+
+
+Yes. Okay.
+
+[**(01:13:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4396s)
+
+
+
+And...
+
+[**(01:13:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4396s)
+
+
+
+Sorry, I am so sorry. Weekly. Thank you.
+
+[**(01:13:18)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4398s)
+
+
+
+Weekly. Even better. Does that number include currently enrolled and active users or something else? Current enrollees. Current enrollees. Okay. And how many HRA clients qualify for other transit subsidy programs and thus do not need Fair Fares?
+
+[**(01:13:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4425s)
+
+
+
+We do not have that information.
+
+[**(01:13:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4429s)
+
+
+
+Okay. It would be good to get that if you... Yeah, let us... look into it. Let us see what we can pull together.
+
+[**(01:13:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4437s)
+
+
+
+Okay. Thank you. What is the average income and age for current active Fair Fares enrollees?
+
+[**(01:14:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4443s)
+
+
+
+We will have to get back to you on that.
+
+[**(01:14:06)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4446s)
+
+
+
+Okay. And you do not collect employment status, right? So you would not be able to provide a breakdown of the current active Fair Fares enrollees by employment status. Yes, Chair. We do not collect employment information for Fair Fares.
+
+[**(01:14:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4464s)
+
+
+
+Okay. And do you track Fair Fares usage after enrollment? Yes, we do. And do you have numbers on that or how often are enrolled participants actually using the discount?
+
+[**(01:14:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4480s)
+
+
+
+Sure. Historically, usage has been around 50%. Since the expansion to Omni, program usage has risen, averaging now 56% in fiscal year 26. Okay. And how do you collect feedback from participants about outreach efforts and the program itself? Sure. We mentioned before that we have had a few surveys to check for client satisfaction. We also may receive calls through our 311 system to get feedback from Fair Fares participants.
+
+[**(01:15:21)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4521s)
+
+
+
+Okay. Thank you. And how many Fair Fares related complaints has HRA received in fiscal year 2026 to date? We have received 826. And what are the most common reasons for complaint? So during fiscal year 2026, this was the transition to Omni. So many of those calls were related to not having access to reload their MetroCard and that vending machines were no longer available at their stations. So we took those opportunities to transition those clients over into Omni so that they had access to their discount.
+
+[**(01:16:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4560s)
+
+
+
+Okay. Thank you. I would like to acknowledge that we have been joined by CM Stevens and CM Krishnan. And then what assessments have you undertaken related to the impact of Fair Fares? Are there plans to undertake any assessments in the future? We have conducted various Fair Fares studies and surveys to get feedback and going forward we do plan to continue this work. The focus of future assessments is under discussion.
+
+[**(01:16:36)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4596s)
+
+
+
+Okay. Thank you. I just want to get into the legislation and I think we are going to move on to the MTA in a few. Actually, before I do that, I do want to ask — you have questions? Okay. I do want to ask a question for CM Brooks-Powers who had to leave. Two questions from her. Given the high cost of living in New York City, how is the administration evaluating the need to expand Fair Fares eligibility beyond current thresholds? And what data are you using to assess how many additional New Yorkers would benefit from an expansion to 200% of the federal poverty level and beyond?
+
+[**(01:17:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4637s)
+
+
+
+So that is, as with the other Council and advocate proposals, still being reviewed right now. Once we have more to share, we will certainly share with this group.
+
+[**(01:17:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4650s)
+
+
+
+Okay. And then she also wants to know — thousands of eligible New Yorkers are still not enrolled in Fair Fares. Can you walk us through where the biggest drop-offs are in the enrollment process and what concrete steps your agency is taking to ensure eligible individuals, particularly those already receiving public benefits, are automatically connected to this program? Sure. We will continue to review those proposals and examine and encourage eligible New Yorkers who qualify for Fair Fares to apply for Fair Fares and better understand — factoring in that there are things out of our control such as personal preferences or modes of transportation preferences as well.
+
+[**(01:18:21)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4701s)
+
+
+
+Okay. Thank you. I am going to turn it over to CM Sanchez who has a couple of questions, then I will come back with some questions specific to the legislation and then we will move on to the MTA. Thank you.
+
+[**(01:18:32)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4712s)
+
+
+
+Thank you. Thank you so much, Chair, and good morning. Just echoing support for the legislation that is being considered today. I represent the Northwest Bronx, Kingsbridge, Fordham, University Heights, and I think, as Chair Hudson pointed out when she was speaking about the four lowest income districts being in the Bronx, probably no other council members understand as deeply as we do how difficult it is to reach low-income New Yorkers. In my office, we served like 15,000 constituents in the first four years and all of that was people who walked into our office or we met them on the street or something like that. It is really tough to reach people. So my first question is regarding the relatively low rates of eligible folks that are enrolled — that 39.9% — in your estimation, where do you think we are losing folks in the pipeline? Is it awareness? Is it the application completion? Is it documentation requirements? Recertification? Approval delays? Where do you think the problem is?
+
+[**(01:19:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4780s)
+
+
+
+So thank you for that question. I think it is probably a variety of things, including some of the things you...
+
+[**(01:19:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4789s)
+
+
+
+...just listed off, but there is also people's appetite to take advantage of this benefit, which also varies depending on personal situations. I think if you are seeing a particular constituency that seems to be less connected with our outreach efforts, we are happy to follow up and set up a pop-up event in your community just to make sure that we are reaching as many folks as possible. As we said previously, we are assessing the program every day. Where we can find efficiencies and make sure that we are actually reaching folks that are not hearing from us, we are open to all opportunities to do that.
+
+[**(01:20:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4834s)
+
+
+
+Chair, if I may just ask my second question.
+
+[**(01:20:36)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4836s)
+
+
+
+You may.
+
+[**(01:20:37)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4837s)
+
+
+
+Thank you, Chair. Well, first just welcoming you all to partner with us. We do a lot of town halls and events in our parks. We try to program a lot in the district because that draws people out and then we can offer them services. So Jamar, I am looking at you to help me get the team to do applications live more often in our district. My second question — I want to echo CM Hudson's request for data on, by income band, by age, by employment — you said you do not have employment status, but by the demographics that you do have, what the enrollment rates are for eligible New Yorkers. My last question is whether the agency has analyzed how many low-income New Yorkers who received fare evasion summonses from the NYPD, or arrests or anything like that, were eligible for Fair Fares but not enrolled. If this is not something that you have looked at or analysis that has been completed before, is this something you can work on with the NYPD since we know the correlation is high?
+
+[**(01:21:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4900s)
+
+
+
+Yeah, HRA does not have any information about fare evasion. There is a local law that we do comply with where we get files — I think it is monthly — from the NYPD on summonses or something issued for fare evasion and we will mail Fair Fares information out to those addresses to make sure we raise awareness about the availability of our program to people cited for fare evasion.
+
+[**(01:22:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4929s)
+
+
+
+Got it. But you do not have numbers? Or can you get back to us? Because if you are getting addresses then you should...
+
+[**(01:22:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4933s)
+
+
+
+...have numbers, right? Yes, we can get...
+
+[**(01:22:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4936s)
+
+
+
+...back to you. Okay, great. Thank you so much. Thank you, Chair Hudson.
+
+[**(01:22:20)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4940s)
+
+
+
+Thank you. Okay, a couple of questions about the legislation. So for Int 0248-2026, it would require DSS to create a system to automatically enroll individuals in city created benefits programs using information such as tax and social services enrollment roles. Int 0248-2026 also requires the inclusion of a conspicuously communicated opt-out mechanism as part of the notice for this program. DSS shared concerns that it would be inappropriate to enroll clients in benefits they do not wish to receive. Can you provide further information about this concern?
+
+[**(01:22:57)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=4977s)
+
+
+
+Sure. We very much value people's right to privacy and protecting the confidentiality of information for people, particularly those who are applying for public assistance benefits. Our concerns are around clients' consent to where their information is being used. There are also state and federal laws and regulations governing and limiting the use of information collected for specific public assistance benefits, that prohibit and set boundaries for not sharing that information outside of the intended purpose.
+
+[**(01:23:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5018s)
+
+
+
+Okay. Does DSS anticipate any cost associated with the Bill?
+
+[**(01:23:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5025s)
+
+
+
+The administration is reviewing the proposals at this time, including budget considerations, and would have to involve OMB.
+
+[**(01:23:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5034s)
+
+
+
+Okay. Do you know whether or not the expenses would be fully from the expense budget, or may some be capital eligible?
+
+[**(01:24:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5048s)
+
+
+
+Thank you for your question. Again, we are reviewing the proposals.
+
+[**(01:24:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5052s)
+
+
+
+Okay. Does the administration support automatic enrollment in Fair Fares and other city created benefit programs?
+
+[**(01:24:19)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5059s)
+
+
+
+The administration is reviewing the proposals at this time and we remain committed to partnering with city and state partners to make transit more affordable.
+
+[**(01:24:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5070s)
+
+
+
+That was a good answer, by the way — not a yes nor a no. Are there any concerns that the administration has outside of the privacy concerns you have just outlined?
+
+[**(01:24:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5084s)
+
+
+
+It would be privacy and also clients' consent and agency to decide what programs to enroll in.
+
+[**(01:24:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5092s)
+
+
+
+Okay. And what city records could currently be used to identify individuals who are likely eligible for Fair Fares?
+
+[**(01:25:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5101s)
+
+
+
+Again, there are so many state and federal rules and regulations guarding and safeguarding the privacy of clients' information. Looking at the open enrollment aspect, for instance, that is people's personal income information, which I imagine would be governed by a set of rules governing tax records and financial information.
+
+[**(01:25:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5125s)
+
+
+
+Okay. So you have sort of addressed already the privacy, consent and data sharing issues that would need to be addressed before implementing automatic enrollment. Is there anything else that you feel like we should know?
+
+[**(01:25:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5140s)
+
+
+
+I think that mainly covers it, and then obviously we will continue with our analysis on the operational and budgetary implications.
+
+[**(01:25:48)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5148s)
+
+
+
+Okay. And just to be clear, I am trying to help you help New Yorkers. So hopefully we can all work together. I know we all want to do the right thing. Bureaucracy often makes it incredibly difficult. But I think with a little creativity and imagination and perhaps some investments, we can make it happen. So, do you know how many current... let me ask this differently. How many current Fair Fares clients does DSS estimate could be automatically enrolled in Fair Fares?
+
+[**(01:26:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5185s)
+
+
+
+If we are thinking specifically about automatic enrollment, so those maybe the two-thirds that are using the fast track... or I guess you said earlier you do not necessarily know whether all of the eligible New Yorkers are in your system. Correct.
+
+[**(01:26:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5204s)
+
+
+
+Correct. Yeah. So that that would be... I guess I am trying. Yeah.
+
+[**(01:26:50)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5210s)
+
+
+
+I am inadvertently helping you avoid answering my question.
+
+[**(01:26:56)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5216s)
+
+
+
+We can look into that further.
+
+[**(01:26:58)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5218s)
+
+
+
+Fair. Okay. Int 0825-2026, for replacement...
+
+[**(01:27:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5224s)
+
+
+
+transit benefit cards. What is DSS's current policy for replacing lost, stolen, damaged or destroyed Fair Fares cards?
+
+[**(01:27:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5232s)
+
+
+
+Yes, thank you, Chair, for your question. So currently clients can request and receive a free replacement card within the one year of their enrollment period. For subsequent cards, they can purchase a new card, or if there is a special circumstance — understanding that things happen and people can experience a lost card, a stolen card or a damaged card for a variety of reasons — we can also accommodate and send out more than one replacement card within the enrollment period at no cost.
+
+[**(01:27:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5269s)
+
+
+
+You send out one replacement card and then after that it is $15. Is that correct?
+
+[**(01:27:53)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5273s)
+
+
+
+No, we do not charge at all for any replacement card. So for the first one... the second one, the third one — all are no charge.
+
+[**(01:28:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5281s)
+
+
+
+We do not charge.
+
+[**(01:28:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5283s)
+
+
+
+Okay. So is there a limit on how many replacement cards one can receive? By program rules it is typically one replacement per enrollment period, but... so one per year? One per enrollment period. The enrollment period is for a year, you renew after a year. Right. But if something happens and there is an extenuating circumstance where someone needs a second card, we will grant that request and there is no charge to the client.
+
+[**(01:28:32)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5312s)
+
+
+
+Okay. And how many Fair Fares replacement cards were requested in fiscal year 2025 and to date in fiscal year 2026?
+
+[**(01:28:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5322s)
+
+
+
+Yeah, you can go ahead.
+
+[**(01:28:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5324s)
+
+
+
+In fiscal year 2025, we issued almost 95,000 replacement cards. And to date, as of fiscal year 2026, it is almost 60,000.
+
+[**(01:28:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5334s)
+
+
+
+60,000?
+
+[**(01:28:55)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5335s)
+
+
+
+60,000. Yes.
+
+[**(01:28:56)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5336s)
+
+
+
+95,000 is a lot of replacement cards. What are the main reasons? Lost, stolen?
+
+[**(01:29:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5344s)
+
+
+
+Lost, stolen. Yes.
+
+[**(01:29:06)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5346s)
+
+
+
+But I mean, people are literally just losing their cards. 95,000 people are just losing their cards like that.
+
+[**(01:29:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5351s)
+
+
+
+Yes.
+
+[**(01:29:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5352s)
+
+
+
+Yes.
+
+[**(01:29:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5353s)
+
+
+
+If they are lost or stolen, you shut that card off before you send them a new one?
+
+[**(01:29:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5357s)
+
+
+
+Correct. The discount is removed from the card and we send a replacement card and add the discount to the new card.
+
+[**(01:29:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5365s)
+
+
+
+Okay. How long does it currently take for a participant to receive a replacement card?
+
+[**(01:29:31)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5371s)
+
+
+
+Replacement cards are sent via mail, so it takes up to two weeks. Generally they get it sooner, but it is up to two weeks.
+
+[**(01:29:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5380s)
+
+
+
+And does DSS anticipate any costs associated with this Bill, Int 0825-2026?
+
+[**(01:29:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5389s)
+
+
+
+We are still reviewing the fiscal impact of this Bill.
+
+[**(01:29:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5394s)
+
+
+
+Okay. Res 0052-2026, state legislation expanding 50% fare discounts. Does the administration support state legislation to expand 50% fare discounts to people with incomes up to 200% of the federal poverty level?
+
+[**(01:30:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5407s)
+
+
+
+The administration is currently reviewing the proposal.
+
+[**(01:30:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5413s)
+
+
+
+Okay. Res 0143-2026, unlimited transfers within two hours. Does the administration support unlimited subway and bus transfers within the two-hour fare window? I am almost certain we used to have free transfers.
+
+[**(01:30:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5429s)
+
+
+
+We will have to defer to our transportation policy folks on that, but we can get back to you on where the administration stands.
+
+[**(01:30:38)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5438s)
+
+
+
+Okay. But I mean, I am talking about like back in the day.
+
+[**(01:30:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5440s)
+
+
+
+I think we did, but we are speaking as DSS...
+
+[**(01:30:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5445s)
+
+
+
+and you just... yeah. Okay. Two hours. This is for two hours. Yeah. Does MTA have... well, this is for MTA. Okay. So could unlimited transfers be implemented through OMNY without major changes? That is also MTA. Okay.
+
+[**(01:31:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5467s)
+
+
+
+Okay.
+
+[**(01:31:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5469s)
+
+
+
+All right. Any other questions for DSS from my colleagues? Yes. My apologies. CM Stevens.
+
+[**(01:31:18)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5478s)
+
+
+
+Hi. Good afternoon. I will be very brief, because I just want to second some of the stuff CM Sanchez was saying. Obviously, I am in the Bronx. I am one of those districts that unfortunately has a very low income. I know Ride Alliance gave us some information to my office around the low enrollment of Fair Fares. My question to you is, and forgive me if I missed this, what supports do you give folks when they need help with applications and things like that? Because I know specifically in my office we do a lot of support for folks for all DSS stuff. People have to make copies and all the things. My office — we used to be next door to you guys, so we were kind of the default DSS. But now I am just trying to understand: what supports are available if someone needs help filling out this information? What do you do around that?
+
+[**(01:32:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5534s)
+
+
+
+Sure. We have offices in all five boroughs, and we are happy to also partner with you, CM Stevens, to do a popup and have in-person support at the office, at any kind of events or community events, to really help support and provide in-person facilitation of the application process.
+
+[**(01:32:35)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5555s)
+
+
+
+Yeah. Because I am texting my office right now because we have seen a high number of Spanish speakers coming into our office who need help and support getting enrolled. So I would definitely love to do a popup, but I think we also have to think about what does the outreach look like. Are we doing it in multiple languages? They are also sending folks to some of the CBOs in our community to support with some of the follow-up stuff that we sometimes just do not have time to do. I would absolutely love to partner, but I think we also need to be creative about how we are doing outreach in the Bronx specifically. One in four or one in five folks do not even have internet or broadband. So what does that look like? And anybody who knows what going to a DSS office is like knows it is very difficult and not always a friendly place to be. So just to go there for an application — I am not sure that is the best support. If I need to just fill this application out, I do not know if I would go there. So we should really talk about that and what does that look like, and are there other places that people can go to get the support they need? Because my office is now becoming the default and we want to figure out — we love it, we will do it — but we also want to have additional support. So thank you.
+
+[**(01:33:50)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5630s)
+
+
+
+Yes. Our advertising campaign is multilingual and also targeting local, community and ethnic newspapers and outlets and social media to really reach hard-to-reach communities in people's familiar languages.
+
+[**(01:34:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5649s)
+
+
+
+But just like CM Sanchez said, a lot of folks in our district — you have to be on the ground with them. They might see an advertisement but not understand what that looks like or how to go through that process. So I would love to do the popup, but we also need to think about what the other strategies are so that it can be a continuous thing.
+
+[**(01:34:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5664s)
+
+
+
+Great. We would welcome working with you, Council Member.
+
+[**(01:34:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5667s)
+
+
+
+Absolutely. Thank you.
+
+[**(01:34:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5667s)
+
+
+
+Great. Thank you so much, CM Stevens. CM Sanchez has a couple more questions.
+
+[**(01:34:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5674s)
+
+
+
+Just a quick follow-up. Thank you, Chair. A lot of folks come to our districts. We help people all the time with the Fair Fares application. It would be really helpful if there was a field that we could mark that said that we helped them do that. My question is, do you track when it is not somebody going to the Fair Fares office, but folks getting external help with the Fair Fares application?
+
+[**(01:35:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5701s)
+
+
+
+Thank you for the question, Council Member. Yes, we have a field at the end of the application that says where did you receive support, and you can put "other" and say your district, and allow us to know that you are helping your constituents.
+
+[**(01:35:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5715s)
+
+
+
+So do you have numbers on how many folks are submitting online but receiving help? Do you have that information?
+
+[**(01:35:22)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5722s)
+
+
+
+We can get back to you with that information.
+
+[**(01:35:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5724s)
+
+
+
+Thank you.
+
+[**(01:35:26)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5726s)
+
+
+
+Thank you. I think that is just proof that we are eager to be partners with you all in trying to get our constituents and all New Yorkers enrolled in the Fair Fares program. Okay. I believe you all are off the hook for now. Thank you so much for your testimony and for answering all of our questions. We look forward to continuing our work with you. I am going to ask John McCarthy, Dara Goldberg and Sheneifa Riera to come up. Our general counsel will administer your oath and I am going to kick it over to Chair Abreu. Thank you.
+
+[**(01:37:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5849s)
+
+
+
+Thank you, Chairs, for the invitation to appear. My name is John McCarthy. I am the Chief of Policy and External Relations at the MTA. I am joined by Chief Customer Officer Sheneifa Riera to my right and Policy Director Dara Goldberg to my left. We are very glad to be here to talk about Fair Fares. Mass transit is one of the things that makes New York City affordable. Thanks to our vast transit network, New Yorkers pay less for transportation than almost anywhere else in the country. No need to spend thousands of dollars buying, insuring and maintaining a car. A single tap is all you need to get around New York City. But we know many people still need help paying the fare. And that is where Fair Fares comes in. At $1.50 a ride, participants are paying about 45% less per trip today than they did a decade ago before Fair Fares started. That is a rare cost in the City that has gotten cheaper over time.
+
+Since the program started, we have learned a lot about how participants use this benefit. We actually published a policy brief — Dara's team did — with our findings this week. It is available on our website and I think we have sent it to the members. Let me run through a few of the headlines quickly.
+
+[**(01:38:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=5929s)
+
+
+
+First, enrollment has steadily grown over the life of the program and ticks up each time the City raises the eligibility threshold. But recently, enrollment growth has slowed as those increases have been more modest. Next, in our report, we found that Fair Fares riders are frequently subway and bus riders, so they are using both modes. Over one-third of customers ride five days or more per week and they are twice as likely as non-Fair Fares riders to hit their weekly fare cap of $17.50. Third, many rely on the subway and they are more likely to transfer between the subway and bus compared to non-Fair Fares riders. And finally, over 30% of Fair Fares riders' first tap of the day is in Brooklyn, followed closely by Queens and the Bronx. But Manhattan has the highest Fair Fares usage throughout the day, obviously from people coming back from work.
+
+We believe more can be done. We know that many low-income New Yorkers earn too much to qualify for Fair Fares today. Even with a minimum wage job, you are maxed out. That is why we support raising the income threshold so that more people can get this benefit. Now, importantly, as decision makers like yourself weigh the next steps, there are tradeoffs between making the cost of transit even lower for the existing eligible population and expanding eligibility to make transit affordable for even more New Yorkers. Broadening access would ensure Fair Fares reaches more people who need it most. We know that Fair Fares can change lives and we look forward to working closely with you on this important initiative. Before we take some questions, I will turn it over to Sheneifa for an update on our marketing and outreach efforts.
+
+[**(01:40:41)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6041s)
+
+
+
+Sheneifa. >> Thanks, John. No question that there are hundreds of thousands of New Yorkers who qualify for Fair Fares but have not signed up yet. We have been working to close that gap. For a few years now, we have been mobilizing the MTA's own marketing and outreach resources across all five boroughs to spread the word and support the City to enroll more customers. Here are just some of the samples of our efforts that we have undertaken so far. As mentioned earlier, self-serve iPad kiosks are now available in our subway system 24/7 at 30 customer service centers in subways, the mobile vans and at 58 locations. We do monthly events and engagements. We also have a kiosk at Three Stone Street and the Transit Adjudication Bureau office in downtown Brooklyn, which we also refer to as the TAB office. There, customers can check their eligibility and start the application process. Every month we host four Fair Fares outreach events in our stations and customer service centers with HRA at Coney Island, Jackson Heights, Roosevelt Avenue, 125th Street and Lexington Avenue and 161st Street Yankee Stadium. Monthly, we hold transit talks and bus talks where MTA staff shares information about fares and enrolls customers on site. So far, we have completed 40 subway and bus locations.
+
+As of yesterday, we launched a refreshed Fair Fares marketing campaign that is directed to customers to check their eligibility and start the application. You will see these ads across our 10,000 digital screens in the subway and on buses. Customer service reps will have handouts available for distribution. We will also give your offices a toolkit so you can help us get the information out to your constituents. We believe there is still room for improvement when it comes to outreach and advertising. As John had said, we know that there are many working New Yorkers who would stand to benefit from the Fair Fares program. Addressing these needs is a worthy goal and we stand ready to support the City in raising awareness and keeping New Yorkers informed. We are now happy to take any questions you may have.
+
+[**(01:43:23)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6203s)
+
+
+
+>> Thank you so much. I would like to thank the MTA for joining us today. Fair Fares NYC was launched in 2019 and is administered by HRA. The program provides eligible low-income New Yorkers with a 50% discount on subway and eligible bus fares, including the Staten Island Railway, Roosevelt Island Tram, Hudson Rail Link and Access-A-Ride trips. As of February 2026, there were 379,354 Fair Fares enrollees. Overall, how would the MTA characterize the current state of the Fair Fares program?
+
+[**(01:44:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6241s)
+
+
+
+Yeah, I will take that. So look, Fair Fares compared to what we were dealing with before it came into existence, that is a success. Not that long ago, people were paying the full fare in 2019, which I think at the time was $2.75. So we have a 45% discount. Where it is not working is the amount of people who either do not know about it, are not signing up for whatever reason, and are just not using this very important program. The reason we look at this and say if you raise the eligibility number you would have a big impact is because that working person who is at minimum wage is now above the eligibility. Think about that. That is a person who would be riding ten times a day. That is the person who is looking for this, who is going to your office, going to our offices, signing up for this. They are very motivated. So we are missing that. I do not want to lose sight of where we were and where we are today. That is a big jump, but there is definitely more that could be done.
+
+[**(01:45:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6308s)
+
+
+
+>> What are MTA's goals for Fair Fares implementation and enrollment in fiscal year 2026 and fiscal year 2027?
+
+[**(01:45:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6317s)
+
+
+
+As Chairman Lieber has mentioned several times, we tackled and meet about the affordability concerns that our riders face all the time. When it comes to Fair Fares, you have heard through the partnerships with HRA, we have really doubled down and amplified our efforts, using the resourcing in addition to the paid ad buys that the City runs, supplementing that and really making sure that it is widely seen across our buses and within our subway cars, bringing Fair Fares representatives within the system weekly to do signups at the three locations that I mentioned, but arming our customer service agents who are outside of the booth with information about the Fair Fares program and getting them to enroll, but also bringing out members of our team to do these transit talks and bus talks in the system as well as above at high-traffic locations. Bringing the Fair Fares team again into the system and having people not only learn about the program but start the application process or enroll on site if they see our ads, to bring the qualifying materials and documents.
+
+[**(01:46:50)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6410s)
+
+
+
+>> In the MTA's view, and I think you were getting into this, John, what are the most significant barriers preventing eligible New Yorkers from enrolling in Fair Fares? You mentioned a lot of folks do not know about the program, but can you speak to that?
+
+[**(01:47:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6427s)
+
+
+
+>> Yeah, I mean... do you want to go ahead?
+
+[**(01:47:10)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6430s)
+
+
+
+>> So, you know, we obviously defer to our HRA colleagues who are more closely tied to administering the program and can directly interact with folks who are applying. But when we survey our riders and our customers in our annual survey and we ask them about their income and their household size, which determines eligibility, we try to understand people who are eligible but not enrolled. I think language barrier comes up frequently, and then not really understanding the income levels and not qualifying even though... you know, we put this in the brief that we shared with you: a two-parent household earning the minimum wage with children does not qualify under this program. So we think that the threshold being low is also another barrier. But I think as far as when folks go to enroll and what they are encountering, that is something that HRA would have a closer understanding of.
+
+[**(01:48:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6488s)
+
+
+
+>> How many dedicated staff does MTA currently have for Fair Fares
+
+[**(01:48:13)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6493s)
+
+
+
+administration? >> So I mean it would be the entire customer team. That is my mandate and my mission, really leaning in on our customer service department, which I would say is about 175 people.
+
+[**(01:48:29)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6509s)
+
+
+
+>> And should there be an expansion of fares, do you believe that the current capacity you have would be sufficient? >> You are talking about the eligibility levels?
+
+[**(01:48:40)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6520s)
+
+
+
+>> I am talking about if we were to expand eligibility for
+
+[**(01:48:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6524s)
+
+
+
+fares. At the Council, through budget negotiations, I would imagine there would be a lot more folks who would be able to qualify for Fair Fares and I guess I am trying to figure out if that impacts whether or not MTA would have sufficient staff to administer the Fair Fares program.
+
+[**(01:49:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6542s)
+
+
+
+>> I mean, so we do not administer the fares, as you know. It is a City program. We help amplify and advertise and promote and get the word out.
+
+[**(01:49:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6551s)
+
+
+
+>> All right. While HRA primarily manages Fair Fares, the MTA ensures that Omni cards and Omni readers provide access to the subway and bus system. The City provides funding to the MTA for several programs including Fair Fares, Access-A-Ride, school fares, reduced fares for seniors and disabled riders and other transit subsidies. How do HRA and MTA coordinate Fair Fares implementation?
+
+[**(01:49:39)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6579s)
+
+
+
+So, as mentioned earlier, when we set out to retire the MetroCard there was a lot of conversation and planning in ensuring that Fair Fares customers were very much part of that. So they were part of the first constituency group that was part of the pilot in transitioning them over to the Omni card, and that level of support has remained high, as expressed in previous testimonies.
+
+[**(01:50:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6612s)
+
+
+
+>> Is there a formal agreement governing the roles of HRA and MTA?
+
+[**(01:50:18)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6618s)
+
+
+
+>> As far as a formal agreement, again, our focus is about getting the word out. We do not have the ability to do the actual enrollment. We create opportunities for people to start the enrollment process at our kiosks and our customer service centers, but ultimately HRA is the one that has to verify and complete the process as well as disseminate the cards.
+
+[**(01:50:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6644s)
+
+
+
+>> Fair. But just so you know, we educate even beyond Sheneifa's staff and the customer office. Our frontline employees are educated on the program: station agents and others. This is something that, you know, we talk about a lot with our team so that they can reach the customer and explain to the customer what opportunities are available. So we will always look to do more in that area because we have the people and they are ready to talk more about this and get it into the hands of more people.
+
+[**(01:51:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6676s)
+
+
+
+>> I believe in HRA's testimony they mentioned that there are meetings that happen once a month with the MTA. Do you think that is enough frequency? >> While we have a standing monthly meeting, there is no shortage of other conversation and interaction, especially as we plan and prepare and strategize for these different programmatic events and activities within the systems and in the community. >> What data do HRA and the MTA share with each other regarding enrollment and eligibility?
+
+[**(01:51:56)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6716s)
+
+
+
+So the enrollment data is maintained entirely by HRA. If we are interested in receiving it, we can put in a one-off request to get some of the information, typically shared by zip code. How we track, and in some of the research that we put out this week, the program is on the usage side. So we look at the actual transactions and the taps of the Fair Fares cards to understand how riders are using it. Just to the point earlier on eligibility and use, even though there are 380,000 enrolled today, on average we are only seeing about 60% of those people active each month. So around 250,000 to 225,000 unique accounts are tapping with those Fair Fares cards at least once a month.
+
+[**(01:52:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6766s)
+
+
+
+>> Thank you for that. How are customer service responsibilities divided when a participant has a problem with enrollment eligibility, a card, an Omni account or a fare charge?
+
+[**(01:53:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6780s)
+
+
+
+>> So they can reach out to our customer service centers, but then ultimately we work closely with HRA to help remedy and resolve the matter.
+
+[**(01:53:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6795s)
+
+
+
+>> Thank you. Now I am going to transition to Omni and Fair Fares Omni cards. Upon approval, Fair Fares participants may receive a Fair Fares Omni card through the mail or apply the discount directly to an existing Omni card, bank card or mobile wallet. When money is added to a Fair Fares Omni card, half of the current fare is deducted each time the card is tapped. If a Fair Fares enrollee takes 12 paid trips within a 7-day period with the same card, they automatically receive free rides for the rest of the week. How many Fair Fares participants currently use Fair Fares Omni cards?
+
+[**(01:53:56)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6836s)
+
+
+
+>> I would believe that all of them do. The latest I checked, in the transition to tap and ride, is that we are close to 98.5%, and the remaining payments are coins on bus where we have not retired that as a payment form, and a very small percentage of employees that still have MetroCards. But I believe — I would have to check — that the entire Fair Fares program has transitioned to Omni cards.
+
+[**(01:54:22)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6862s)
+
+
+
+>> Thanks for answering that question. On average, how long does it take for Fair Fares Omni cards to be mailed to participants?
+
+[**(01:54:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6870s)
+
+
+
+>> That is administered through HRA.
+
+[**(01:54:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6874s)
+
+
+
+>> Got it. >> So it is not done through MTA. Is that fair to say? All right. How is MTA assisting Fair Fares participants with the transition from MetroCard to Omni?
+
+[**(01:54:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6886s)
+
+
+
+Well, that exercise was done aggressively last fall into the winter as we were sunsetting the MetroCard and switched over to tap and ride, and there was a lot of correspondence, lots of customer-facing campaigns and lots of information sent to the riders in partnership with HRA to get the word out.
+
+[**(01:55:12)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6912s)
+
+
+
+>> It sounds like it is going well at 98%.
+
+[**(01:55:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6914s)
+
+
+
+>> Yes. Yeah. And it is similar to a senior half-fare card. Yeah, reduced fare. They have also transitioned over to >> to Omni.
+
+[**(01:55:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6924s)
+
+
+
+>> How many reports of lost, stolen or damaged Fair Fares Omni cards has MTA received? >> And how does MTA handle those reports?
+
+[**(01:55:32)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6932s)
+
+
+
+I will have to get back to you on the exact number, but when we receive any of those calls we work with HRA or refer them to HRA, who will start the process of getting and issuing new cards to the riders.
+
+[**(01:55:48)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6948s)
+
+
+
+>> Great. Yeah, if you could just email us when you can, that would be great. Has the MTA identified any technical issues with applying Fair Fares discounts through Omni readers?
+
+[**(01:55:58)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6958s)
+
+
+
+>> None that I am aware of.
+
+[**(01:56:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6960s)
+
+
+
+>> No. How does MTA coordinate its customer service response with HRA when participants experience problems with Fair Fares Omni cards?
+
+[**(01:56:10)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6970s)
+
+
+
+>> So again, whether it is through the weekly standing meeting we have, but then also our ongoing daily engagement through our customer service centers, if there are calls there is constant dialogue and exchange and an effort to resolve the customer's issues.
+
+[**(01:56:30)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=6990s)
+
+
+
+>> Great. I am now going to ask a few questions on Access-A-Ride and fares. Access-A-Ride is an MTA-administered paratransit service for customers with disabilities who are unable to use public buses and subways. Access-A-Ride customers may also enroll in Fair Fares and apply the 50% discount to Access-A-Ride trips. However, Fair Fares participants may only use the discount on one transportation method at a time, although they may request a switch through HRA. How many Access-A-Ride customers are currently enrolled in Fair Fares?
+
+[**(01:57:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7024s)
+
+
+
+>> Chair, I would have to get back to you with that. I do not have an exact number.
+
+[**(01:57:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7027s)
+
+
+
+>> If you could get us that, that would be great. How does MTA verify a Fair Fares applicant's Access-A-Ride status?
+
+[**(01:57:25)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7045s)
+
+
+
+So, Chair, that is done the same way we verify for reduced fare. So we would >> that is my understanding. Yeah. So it is the same as we do for reduced fare >> verification.
+
+[**(01:57:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7062s)
+
+
+
+And how long does the verification process typically take? Do you have an answer to that? I do not know the
+
+[**(01:57:49)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7069s)
+
+
+
+exact time. I will get back to you on that.
+
+[**(01:57:54)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7074s)
+
+
+
+>> All right. I am now going to move on to MTA's reduced fare program. Fair Fares is not the only program that offers half-price transit fares to qualifying City residents. The other program is the MTA's reduced fare program, which is a separate program that offers a 50% discount to New Yorkers that are 65 years or older or that have a qualifying disability. How often do MTA and HRA hear from New Yorkers who are confused about the differences between the City's Fair Fares program and the MTA's separate reduced fare program?
+
+[**(01:58:31)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7111s)
+
+
+
+As far as confusion, with reduced fare we have about 1.5 million customers enrolled in that program and they can visit our various 30 customer service centers as well as Stone Street and our mobile units to get information and sign up. That is a distinct program, you know, that has been marketed to those who are 65 or older or with a disability. As far as Fair Fares, as we
+
+[**(01:59:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7144s)
+
+
+
+know, and for the purposes of why we are here today, this is a program that needs more robust engagement and program awareness, given that there are far more people eligible for the program but far fewer people enrolled.
+
+[**(01:59:24)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7164s)
+
+
+
+>> What happens if someone comes to a Fair Fares office to enroll in the program but HRA determines that the person only qualifies for the MTA's reduced fare program?
+
+[**(01:59:34)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7174s)
+
+
+
+>> So I can only speak about our programmatic engagement that happens within the system. On average when we do these events, if it is an in-station transit talk, we sign up on average about 25 or up to 50 participants. If someone is not eligible, whether it is because their income is over the threshold or they do not have the information, we have a team member who follows up with them. Likewise for the MTA, what happens if someone comes to an MTA customer service center to apply for the reduced fare program but is only eligible to participate in Fair Fares? So, as I mentioned, we arm our customer service reps with lots of handouts and information and we have the kiosks that are literally next to the customer service centers and we encourage them to sign up and start the application.
+
+[**(02:00:46)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7246s)
+
+
+
+Public transit is essential for New Yorkers' access to jobs, schools, healthcare, childcare and other services. Lower-income New Yorkers are more dependent on public transportation than higher-income households, and transportation costs have continued to rise over time. How does the MTA evaluate the role of Fair Fares in addressing transportation affordability?
+
+[**(02:01:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7267s)
+
+
+
+Well, it is part of a bigger equation, which is the overall affordability of the transit system. As I said at the start, it is very much what makes New York affordable. You can come to the City, you are not buying a car and you have access to the entire City. What we have done over the last few years on student Omni, expanding it from a couple of times a day during the school year to four times a day, seven days a week throughout the year. City Ticket, which was a weekend-only product for twenty-some years, is now available all week long. It has completely changed what is available to people. So yes, this is front and center — the affordability of transit. We are always looking to find more affordable products, getting this product and making it available to New Yorkers. So Fair Fares is a part of that.
+
+But what we see and what we found in our study is that if you have 60% of the people who have signed up — or only 60% are active — these are the people who have gone out of their way to sign up and they are the ones. So talking about the people who have not signed up, I think we get an idea. It means that the people who are signed up are not using the system as much as they need to, or they are just not making those trips. If you change the eligibility threshold and bring in those folks who are going to minimum wage plus jobs, I think you are going to really hit affordability and get more people into this program and word will spread. If I could just
+
+[**(02:02:48)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7368s)
+
+
+
+add to John's response — I think what we are really focused on is widening the net for this tool to reach even more New Yorkers. I think one of the decisions the Council is considering is whether you go deeper on affordability in a world of limited resources and funding — deeper for a smaller number of people — or increase affordability to a wider number of people as you have those budget negotiations with the administration. I think we are very supportive of trying to make this tool as accessible to as many people as possible.
+
+[**(02:03:23)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7403s)
+
+
+
+Thank you. Does the MTA collect data on how Fair Fares affects participants' access to work, school, medical care, food, benefits, or other essential services?
+
+[**(02:03:32)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7412s)
+
+
+
+Yeah. I think we are happy to continue exploring this in more detailed ways, but some of the preliminary research that we shared with you is looking at where people are tapping first thing in the morning and where they are tapping at the PM peak. We can really try to break that down and understand those locations in a granular way. It really helps us understand the purpose of travel, or we can make some assumptions about the purpose of travel based on these locations, without directly speaking to the people who are enrolled through the program.
+
+[**(02:04:03)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7443s)
+
+
+
+Yeah, it would be interesting to see that data for sure at a granular level.
+
+[**(02:04:07)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7447s)
+
+
+
+Yeah, happy to work with you on that. That would be great. Does the MTA target its outreach to neighborhoods with high poverty rates and high transit dependence? If so, how?
+
+[**(02:04:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7456s)
+
+
+
+Yeah, absolutely. Working with the policy team, with lots of data gathering, and also with engagement from our government relations team and working with electeds and community stakeholders, we identify locations where there are large pockets of eligibility. We go out into the system, doing lots of effort to get the word out by way of the electeds, the community boards, trusted CBOs and community partners, to let them know that we are in the neighborhood or in the community to sign up and enroll folks.
+
+[**(02:05:01)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7501s)
+
+
+
+Thank you for that. I am now going to turn it over to my co-chair, Council Member Crystal. Thank you so much,
+
+[**(02:05:08)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7508s)
+
+
+
+Chair. Upon approval, Fair Fares participants may receive a Fair Fares Omni card through the mail or apply the discount directly to an existing Omni card, bank card, or mobile wallet. When money is added to a Fair Fares Omni card, half of the current fare is deducted each time the card is tapped. If a Fair Fares enrollee takes 12 paid trips within a 7-day period with the same card, they automatically receive free rides for the rest of the week. How many Fair Fares participants currently use Fair Fares Omni cards?
+
+[**(02:05:41)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7541s)
+
+
+
+Thank you for the question. I think we addressed this while you were in the room, but we are now at close to 98.5% transition to tap and ride. That covers all of our physical fare media programs. Essentially what is left is around 2% for people who are paying with coins on the bus and a very small number of our own employees who still have MetroCards. So all of these programs have already transitioned to physical Omni fare media.
+
+[**(02:06:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7571s)
+
+
+
+And to Chair Abreu's previous question, we have 5,000 Access-A-Ride customers that are currently enrolled in Fair Fares.
+
+[**(02:06:23)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7583s)
+
+
+
+Thank you. Forgive me, just one second. Thank you. We are just comparing notes here. Okay. The Council needs reliable data to evaluate whether Fair Fares is reaching eligible New Yorkers, reducing transportation hardship, and
+
+[**(02:06:42)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7602s)
+
+
+
+operating efficiently. Do you have an understanding of MTA ridership at different income levels? I would just generally characterize the ways we understand our riders by speaking with them in our surveys, where they can tell us information about themselves and demographic characteristics. The other way we track folks, or try to understand their travel patterns, is through the way they pay and where they are paying and what time of day. With transactions, we do not know anything about people's demographics or their income levels other than those who are already in income-restricted programs like Fair Fares. But we do have information about the demographics and travel patterns of our riders through survey data.
+
+[**(02:07:28)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7648s)
+
+
+
+Okay, that is helpful. Thank you. What does the MTA expect the difference in ridership to be between someone making 150 to 200% of the federal poverty level and someone below 150%? Do you have any idea?
+
+[**(02:07:45)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7665s)
+
+
+
+Yeah, I do not think we have an exact projection. I just think that we would expect you would reach more people who would ride more frequently. In the brief that we shared with you all, you can see that the travel patterns of Fair Fares enrollees today already mimic the AM and PM peak of the broader system, with slightly more off-peak travel. I think you are just reaching more working New Yorkers because the income threshold today is so low. And Chair, I would just add that the reality of the way our system works — when you see weekday ridership versus Saturday and Sunday — you have a
+
+[**(02:08:17)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7697s)
+
+
+
+significant drop-off in students and people who are coming to and going from work. So the higher the threshold, I think you are capturing people who are going to jobs more so than you do today, where it would either be someone who is working part-time, or maybe they are not working, or they are doing some local neighborhood travel. So yeah, I think you would see the sort of growth that you would see whenever you pull in people who are coming to and going from work.
+
+[**(02:08:50)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7730s)
+
+
+
+Thank you for that. Do you know on average what percent of New Yorkers living below the federal poverty line use public transit?
+
+[**(02:08:59)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7739s)
+
+
+
+We see the need. I mean, I think the census statistics are mostly about how you commute to and from work. We have some of that in our survey data that includes leisure and other forms of travel. So we can get back to you on the specific share relative to the poverty line.
+
+[**(02:09:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7755s)
+
+
+
+That would be helpful. Thank you.
+
+[**(02:09:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7756s)
+
+
+
+The MTA's data on Fair Fares rides by station shows that subway ridership is almost twice that of bus ridership. Do you know why this might be the case? And is this consistent with public transit ridership for non-Fair Fares users?
+
+Yes, that is generally consistent. I would say there is a slightly higher share of Fair Fares users than the rest of the system who use the bus and make bus-to-subway transfers, but it is not a big differential, which is in one of the charts or graphs that we shared with you.
+
+[**(02:09:47)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7787s)
+
+
+
+Okay. Thank you. How does the MTA expect the weekly ridership of those on the Fair Fares program to change if Fair Fares changes to a 100% discount for those who qualify?
+
+[**(02:10:00)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7800s)
+
+
+
+I do not think we know that. Going back to how I responded a couple of questions ago, we do not know how much usage is possible with somebody who is earning below 100% of the federal poverty level. We already know that at the rate it is today, at 150%, there is 40% who are not active among those who have enrolled. So it suggests that that is a factor, and that getting people who are going to and from work will make that number grow more than — as Darius sort of went through — the tradeoff that elected officials and policy makers face.
+
+[**(02:10:48)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7848s)
+
+
+
+Thank you. And then just a couple of questions about legislation. So for Res 0143-2026, unlimited transfers within two hours — does the MTA have an estimate of how many riders would benefit from this policy?
+
+[**(02:11:04)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7864s)
+
+
+
+No. But I would say there are a couple of different elements to that. On the subway system, you can already make unlimited transfers as long as you are within the system. So if the question is whether you do unlimited travel within two hours as part of transfers, we would need a way for folks to be able to tap out in order to register that as a transfer if you were going to make some kind of out-of-system transfer, and we do not have that validator technology installed today. So that would be a pretty significant change to the way the subway system operates. On the bus, we are piloting this on the Queens bus network redesign, which is a time-limited window of a universal transfer. For that, I think the bus is a little more feasible because of the technology and directionality that allows us to understand when people tap onto those modes. But we are still trying to understand how people are using that and what the broader implication would be for the full system.
+
+[**(02:12:02)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7922s)
+
+
+
+Okay. And then could unlimited transfers be implemented through Omni without major changes, you think?
+
+[**(02:12:09)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7929s)
+
+
+
+It would require a lot of programming to understand this. In addition to complicated programming, there is complicated budgeting attached to that. With unlimited, it is not necessarily an unlimited transfer — it is unlimited trips. That is a different thing altogether, where you have real budgetary consequences that would have to be addressed if that policy decision were to be advanced. That is why we have always done it with the transfer that you can get within the system — obviously the one we are all familiar with — and then the bus-to-subway transfer that did not always exist. Looking back in time, it is amazing that there was a time when people paid two fares. So I would just caution that there are a number of different issues related to that that
+
+[**(02:12:59)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=7979s)
+
+
+
+we have to deal with. And I guess one example that I can think of that is specific to my district is one of my biggest gripes with the Barclays Center. When that whole development came about — Atlantic Yards, not specifically the Barclays Center — with Atlantic Yards, they invested all of this money into redesigning the subway station directly underneath the Barclays Center. But we have within just a few blocks a G train station and a C train station, and there was no tunnel created to connect people within that system. That walk I would estimate to be similar to or shorter than the walk you have to do at Times Square to move through.
+
+So I guess thinking about it, I would think about trips as transfers — not necessarily saying you are taking the train to go to work and then spending the day at work and then having an unlimited ride to go somewhere else or for lunch or whatever, but really more so if there is not a direct connection available between different train routes, thinking about transfers being available.
+
+[**(02:14:10)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8050s)
+
+
+
+Yeah. And so
+
+[**(02:14:11)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8051s)
+
+
+
+maybe there is a way to geo-target, so that within a certain area you can
+
+[**(02:14:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8055s)
+
+
+
+Yeah. So as opposed to a universal untimed transfer period.
+
+[**(02:14:20)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8060s)
+
+
+
+Yeah. And this is just my own personal question. I do not want to — this is not my bill, it is not my legislation. I do not want to speak on behalf of the sponsor, but I am just, you know...
+
+[**(02:14:27)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8067s)
+
+
+
+Yeah. So the good news is with tap and ride there is so much more possible, and Chair, that is something that we are aware of and we have people who are looking at exactly that sort of thing, so we should talk more about it.
+
+[**(02:14:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8084s)
+
+
+
+I look forward to it. I will turn it back over to Chair Abreu and also want to acknowledge that we have been joined by Council Member Nurse. Thank you.
+
+[**(02:14:52)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8092s)
+
+
+
+These are my last set of questions. What happens when someone who is part of the Fair Fares program hits 65 and transitions out of the Fair Fares program? How does DSS or the MTA coordinate, if at all, to ensure a seamless and timely transition from the Fair Fares program to the reduced fare program?
+
+[**(02:15:14)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8114s)
+
+
+
+It is seamless.
+
+[**(02:15:16)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8116s)
+
+
+
+I would not say it is seamless. Again, there can and should be better coordination as Fair Fares participants are aging out of the program, and introducing, promoting and encouraging folks to transition over to Fair Fares — and that is something that we can all collectively do a better job of coordinating.
+
+[**(02:15:44)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8144s)
+
+
+
+Yeah. And it is about getting information. It is a date and time, so people know when they are turning. Getting that information into the hands of people who are in Fair Fares and who are coming up on that age — we do that with seniors. We are always asking them to start preparing and planning, and so many of them are so aware of it. It is like, I am going to have that on day one. So that window of somebody turning 64 and then 65 and going on to reduced fare — we have got to all be better there. That is
+
+[**(02:16:21)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8181s)
+
+
+
+I really appreciate you all just being straight-up honest about that, because I remember when I was at the rally this morning, one of the advocates — I think she is here in the audience with the red hair back there. Deborah... what is your name? Deborah. Thank you. She mentioned to me that it does not make sense that when you are 64 years old as part of Fair Fares and you turn 65, you have to enter an entirely new different program. I know it is a state-run program, but for these folks who benefit from this, they should just be able to have a seamless transition. I would even argue it should just be automatic. If you are part of Fair
+
+[**(02:16:55)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8215s)
+
+
+
+Fares and you turn 65, you should be automatically enrolled into the reduced fare program. But if we cannot do that, we need to find a way to coordinate better from DSS to the MTA. I am glad that there is a sense of urgency here already and I think it would improve the quality of life and also increase access to our mass transit system for those who really need it. So thank you so much for testifying.
+
+[**(02:17:15)**](https://www.youtube.com/watch?v=UHxhK_BPoHs&t=8235s)
+
+
+
+So there are complications with that and there is litigation involved. But we will get back to you on that transition and making sure it is smooth.
