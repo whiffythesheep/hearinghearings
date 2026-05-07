@@ -118,13 +118,15 @@ def parse_args():
              "Use when batch-processing multiple meetings to defer build/push."
     )
     parser.add_argument(
-        "--no-email", action="store_true",
-        help="Skip sending subscriber email after deploy."
+        "--send-email", action="store_true",
+        help="Attempt to send the subscriber email after deploy. Off by "
+             "default because MailerLite's free-tier API rejects custom "
+             "HTML campaigns since 2026-05-06; manual dashboard sends only."
     )
     parser.add_argument(
         "--skip-preview", action="store_true",
-        help="Skip the preview-then-confirm step and broadcast to all "
-             "subscribers directly (matches the pre-2026-04-29 behaviour)."
+        help="When --send-email is set, skip the preview-then-confirm step "
+             "and broadcast to all subscribers directly."
     )
     parser.add_argument(
         "--keep-public-testimony", action="store_true",
@@ -1773,7 +1775,7 @@ def send_subscriber_email(web_content, slug, title, *, skip_preview=False):
 
 
 def publish_to_website(web_content, slug, title, committee="",
-                       deploy=True, send_email=True, skip_preview=False):
+                       deploy=True, send_email=False, skip_preview=False):
     """Save markdown to the website content dir, build the site, and push."""
     if not WEBSITE_CONTENT_DIR.exists():
         logger.error(f"Website content directory not found: {WEBSITE_CONTENT_DIR}")
@@ -2076,7 +2078,7 @@ def main():
             duration, council_url=args.council_url or ""
         )
     publish_to_website(web_content, slug, title, committee=committee,
-                       deploy=not args.no_deploy, send_email=not args.no_email,
+                       deploy=not args.no_deploy, send_email=args.send_email,
                        skip_preview=args.skip_preview)
 
     logger.info("Done!")
