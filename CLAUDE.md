@@ -117,25 +117,24 @@ Raw YouTube segments, speaker turns, and cleaned utterances are all cached as a 
 - Form styling is in `site/static/site.css` under `.subscribe-*` selectors to inherit the Win95 palette
 - MailerLite account must have `hearinghearings.nyc` added as an allowed domain for embed submissions to succeed in production
 
-### Preview-then-broadcast email flow
+### Email step (currently manual)
 
-By default the pipeline sends a `[PREVIEW]` campaign to a one-member Preview group first, prompts at the terminal, and only sends to all subscribers after you press Enter.
+As of 2026-05-07 the pipeline does **not** send subscriber emails by default. MailerLite's free-tier API rejects custom HTML campaigns (422 since 2026-05-06), and a Buttondown migration was investigated but rejected — Buttondown's free tier wraps custom HTML in template chrome that can't be removed without paid tier. Subscriber notifications are now sent manually via a weekly digest the user composes in the MailerLite dashboard.
 
-One-time setup:
+The email-rendering and -sending code is preserved for when the user upgrades or migrates:
+
+Flags:
+- Default (no flag) — pipeline skips the email step entirely.
+- `--send-email` — attempt to send via MailerLite API (will 422 on free tier until upgrade).
+- `--skip-preview` — when used with `--send-email`, broadcasts directly to all subscribers without preview prompt.
+
+Preview group setup (still required if/when `--send-email` is used):
 1. In MailerLite → Subscribers → Groups → create a group named `Preview`.
 2. Add `seaneke@outlook.com` (or whichever address is the preview recipient) as the only subscriber in that group.
-3. Copy the group ID (visible in the dashboard URL or via `GET /api/groups`).
-4. Add to `.env`:
+3. Copy the group ID and add to `.env`:
    ```
    MAILERLITE_PREVIEW_GROUP_ID=<id>
    ```
-
-Flags:
-- Default (no flag) — preview campaign first, then prompt, then broadcast.
-- `--skip-preview` — broadcast directly to all subscribers, no preview, no prompt.
-- `--no-email` — skip the email step entirely.
-
-If `MAILERLITE_PREVIEW_GROUP_ID` is unset and `--skip-preview` is not passed, the email step aborts with a setup-hint message and no campaign is created.
 
 ## Inherited standards
 
