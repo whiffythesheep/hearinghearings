@@ -32,7 +32,10 @@ import anthropic
 import markdown
 import pdfplumber
 import requests as http_requests
+import webvtt
 import yt_dlp
+from collections import deque
+from io import StringIO
 from youtube_transcript_api import YouTubeTranscriptApi
 
 # --- Logging ---
@@ -81,16 +84,22 @@ def parse_args():
         description="Summarize a NYC Council meeting from YouTube + PDF agenda."
     )
     parser.add_argument("youtube_url", nargs="?", default=None,
-                        help="YouTube URL of the meeting (optional if --transcript-json is given)")
+                        help="YouTube URL of the meeting (optional if --viebit-url or --transcript-json is given)")
     parser.add_argument("agenda_pdf", nargs="?", default=None,
                         help="Path to the PDF agenda file")
+    parser.add_argument(
+        "--viebit-url", type=str, default=None,
+        help="Viebit watch URL for hearings not on YouTube "
+             "(e.g. 'https://councilnyc.viebit.com/watch?hash=...'). "
+             "Requires --title since the page exposes no clean meeting title."
+    )
     parser.add_argument(
         "--transcript-json", type=str, default=None,
         help="Path to cached transcript JSON file (skips fetch and URL requirement)"
     )
     parser.add_argument(
         "--skip-fetch", action="store_true",
-        help="Skip YouTube transcript fetch (use cached JSON in Input/)"
+        help="Skip transcript fetch (use cached JSON in Input/)"
     )
     parser.add_argument(
         "--skip-clean", action="store_true",
@@ -225,6 +234,151 @@ def fetch_youtube_transcript(url, video_info, skip=False):
     logger.info(f"Transcript cached: {json_path.name}")
 
     return segments, json_path
+
+
+VIEBIT_BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,*/*",
+}
+
+
+def is_viebit_url(url):
+    return bool(url) and "viebit.com" in url
+
+
+def extract_viebit_hash(url):
+    """Extract the Viebit ?hash=... identifier from a watch/player URL."""
+    m = re.search(r"[?&]hash=([A-Za-z0-9_-]+)", url)
+    if not m:
+        logger.error(f"Could not extract Viebit hash from URL: {url}")
+        sys.exit(1)
+    return m.group(1)
+
+
+def fetch_viebit_player_metadata(watch_url):
+    """Fetch the Viebit watch page and extract caption URL + asset filename.
+
+    Returns a dict with keys: caption_url, asset_stem (e.g.
+    'NYCC-250-8-1_260505-102041'), or raises SystemExit on failure.
+    """
+    logger.info(f"Fetching Viebit watch page...")
+    r = http_requests.get(watch_url, headers=VIEBIT_BROWSER_HEADERS, timeout=30)
+    if r.status_code != 200:
+        logger.error(f"Viebit watch page returned HTTP {r.status_code}")
+        sys.exit(1)
+    body = r.text
+
+    cap_match = re.search(
+        r'"src"\s*:\s*"(https://[^"]+\.vtt[^"]*)"', body
+    )
+    if not cap_match:
+        logger.error("No caption URL found on Viebit watch page. "
+                     "This hearing may not have captions yet.")
+        sys.exit(1)
+    caption_url = cap_match.group(1)
+
+    asset_stem = re.sub(r"\.vtt.*$", "", caption_url.rsplit("/", 1)[-1])
+
+    return {"caption_url": caption_url, "asset_stem": asset_stem}
+
+
+def _normalize_vtt_line(text):
+    """Strip CEA-608 markers and collapse whitespace for dedupe comparison."""
+    text = text.strip()
+    text = re.sub(r"^>\s*", "", text)
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+
+def _parse_viebit_vtt(vtt_text):
+    """Parse a Viebit WebVTT and aggressively dedupe rolling caption frames.
+
+    NYC Council's Viebit captions use CEA-608-style dual-line rolling
+    captions: each timestamp range emits two cues (top/bottom of the
+    on-screen display) and consecutive ranges share the line that just
+    scrolled up. A sliding-window dedupe over the last few normalized
+    lines collapses this into one segment per unique utterance.
+    """
+    cues = list(webvtt.from_buffer(StringIO(vtt_text)))
+    cues.sort(key=lambda c: c.start_in_seconds)
+
+    segments = []
+    recent = deque(maxlen=6)
+    for c in cues:
+        text = _normalize_vtt_line(c.text)
+        if not text:
+            continue
+        if text in recent:
+            continue
+        recent.append(text)
+        segments.append({
+            "text": text,
+            "start_ms": round(c.start_in_seconds * 1000),
+            "end_ms": round(c.end_in_seconds * 1000),
+        })
+    return segments
+
+
+def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
+    """Fetch transcript from a Viebit watch URL.
+
+    Returns (segments, json_path, video_info) where video_info is a dict
+    with 'title' and 'duration' keys (mirroring yt-dlp's shape so main()
+    can treat both sources identically downstream).
+    """
+    viebit_hash = extract_viebit_hash(watch_url)
+    title = override_title or f"Viebit hearing {viebit_hash}"
+    safe_title = re.sub(r'[\\/*?:"<>|]', "", title)[:80].strip()
+    json_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title}.json"
+
+    if skip or json_path.exists():
+        if json_path.exists():
+            logger.info(f"Transcript already cached: {json_path.name}")
+            with open(json_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict) and "raw_segments" in data:
+                segments = data["raw_segments"]
+                duration_s = segments[-1]["end_ms"] // 1000 if segments else 0
+                video_info = {
+                    "title": data.get("title", title),
+                    "duration": duration_s,
+                }
+                return segments, json_path, video_info
+        if skip:
+            logger.error("--skip-fetch specified but no cached transcript found.")
+            sys.exit(1)
+
+    meta = fetch_viebit_player_metadata(watch_url)
+    caption_url = meta["caption_url"]
+    logger.info(f"Fetching Viebit captions: {caption_url}")
+    r = http_requests.get(caption_url, headers=VIEBIT_BROWSER_HEADERS, timeout=60)
+    if r.status_code != 200:
+        logger.error(f"Caption fetch returned HTTP {r.status_code}")
+        sys.exit(1)
+
+    segments = _parse_viebit_vtt(r.text)
+    logger.info(f"Parsed {len(segments)} segments from Viebit captions.")
+
+    duration_s = segments[-1]["end_ms"] // 1000 if segments else 0
+    video_info = {"title": title, "duration": duration_s}
+
+    cache_obj = {
+        "title": title,
+        "source": "viebit",
+        "viebit_hash": viebit_hash,
+        "viebit_url": watch_url,
+        "caption_url": caption_url,
+        "asset_stem": meta["asset_stem"],
+        "raw_segments": segments,
+    }
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(cache_obj, f, indent=2, ensure_ascii=False)
+    logger.info(f"Transcript cached: {json_path.name}")
+
+    return segments, json_path, video_info
 
 
 def parse_agenda(pdf_path):
@@ -1316,7 +1470,8 @@ def align_agenda_items(utterances, agenda_text):
 
 def build_web_content(summary, utterances, agenda_text, title, committee,
                       committee_slug_val, slug, date_str,
-                      youtube_url="", duration="", council_url=""):
+                      youtube_url="", duration="", council_url="",
+                      viebit_url=""):
     """Build a markdown file with YAML front matter for the website."""
     # Summary section
     summary_lines = [summary]
@@ -1347,6 +1502,8 @@ def build_web_content(summary, utterances, agenda_text, title, committee,
         f'duration: "{duration}"',
         f'youtube_url: "{youtube_url}"',
     ]
+    if viebit_url:
+        lines.append(f'viebit_url: "{viebit_url}"')
     if council_url:
         lines.append(f'council_url: "{council_url}"')
     lines += [
@@ -1830,9 +1987,11 @@ def publish_to_website(web_content, slug, title, committee="",
 def main():
     args = parse_args()
 
-    # When --transcript-json is used, argparse assigns the single positional to youtube_url.
-    # Shift it to agenda_pdf if needed.
-    if not args.agenda_pdf and args.youtube_url:
+    # When --transcript-json or --viebit-url is used, argparse assigns the
+    # single positional to youtube_url. Shift it to agenda_pdf if needed.
+    if not args.agenda_pdf and args.youtube_url and (
+        args.transcript_json or args.viebit_url
+    ):
         args.agenda_pdf = args.youtube_url
         args.youtube_url = None
 
@@ -1848,7 +2007,7 @@ def main():
     # Ensure directories exist.
     INPUT_DIR.mkdir(exist_ok=True)
 
-    # Step 1: Fetch YouTube transcript.
+    # Step 1: Fetch transcript (YouTube, Viebit, or cached JSON).
     if args.transcript_json:
         json_path = Path(args.transcript_json)
         if not json_path.exists():
@@ -1859,20 +2018,35 @@ def main():
             cached_data = json.load(f)
         segments = cached_data.get("raw_segments", [])
         video_info = {"title": cached_data.get("title", json_path.stem)}
-        # Reconstruct youtube_url and fetch duration from cached video_id.
-        video_id = cached_data.get("video_id")
-        if video_id:
-            if not args.youtube_url:
-                args.youtube_url = f"https://www.youtube.com/watch?v={video_id}"
-            try:
-                with yt_dlp.YoutubeDL({"quiet": True}) as ydl:
-                    info = ydl.extract_info(args.youtube_url, download=False)
-                    video_info["duration"] = info.get("duration", 0)
-            except Exception as e:
-                logger.warning(f"Could not fetch video duration: {e}")
+        if cached_data.get("source") == "viebit":
+            if not args.viebit_url:
+                args.viebit_url = cached_data.get("viebit_url", "")
+            video_info["duration"] = (
+                segments[-1]["end_ms"] // 1000 if segments else 0
+            )
+        else:
+            # Reconstruct youtube_url and fetch duration from cached video_id.
+            video_id = cached_data.get("video_id")
+            if video_id:
+                if not args.youtube_url:
+                    args.youtube_url = f"https://www.youtube.com/watch?v={video_id}"
+                try:
+                    with yt_dlp.YoutubeDL({"quiet": True}) as ydl:
+                        info = ydl.extract_info(args.youtube_url, download=False)
+                        video_info["duration"] = info.get("duration", 0)
+                except Exception as e:
+                    logger.warning(f"Could not fetch video duration: {e}")
+    elif args.viebit_url:
+        if not args.title:
+            logger.error("--title is required when using --viebit-url "
+                         "(the Viebit page exposes no clean meeting title).")
+            sys.exit(1)
+        segments, json_path, video_info = fetch_viebit_transcript(
+            args.viebit_url, override_title=args.title, skip=args.skip_fetch
+        )
     else:
         if not args.youtube_url:
-            logger.error("Either youtube_url or --transcript-json is required.")
+            logger.error("One of youtube_url, --viebit-url, or --transcript-json is required.")
             sys.exit(1)
         video_info = fetch_video_info(args.youtube_url)
         # Fetch transcript.
@@ -1891,20 +2065,24 @@ def main():
 
     committee_name, meeting_date = extract_agenda_metadata(agenda_text, client)
 
-    video_title = (video_info.get("title") or "").lower()
-    primary_for_check = committee_name.split(" | ")[0] if committee_name else ""
-    committee_words = [w for w in primary_for_check.lower().split() if len(w) > 3]
-    committee_match = any(w in video_title for w in committee_words)
-    date_match = meeting_date in video_title or (
-        meeting_date and meeting_date.replace("-", "") in video_title.replace("/", "").replace("-", "")
-    )
-    if not committee_match and not date_match:
-        logger.warning(f"Possible mismatch — agenda says '{committee_name}' on {meeting_date}, "
-                       f"but video title is '{video_info.get('title', '')}'")
-        response = input("Agenda and video may not match. Continue? [y/N] ").strip()
-        if response.lower() != "y":
-            logger.info("Aborted.")
-            sys.exit(0)
+    # Skip mismatch check for Viebit — the user types the title themselves,
+    # so the heuristic word-overlap test against a YouTube-style title doesn't
+    # apply and produces false positives.
+    if not args.viebit_url:
+        video_title = (video_info.get("title") or "").lower()
+        primary_for_check = committee_name.split(" | ")[0] if committee_name else ""
+        committee_words = [w for w in primary_for_check.lower().split() if len(w) > 3]
+        committee_match = any(w in video_title for w in committee_words)
+        date_match = meeting_date in video_title or (
+            meeting_date and meeting_date.replace("-", "") in video_title.replace("/", "").replace("-", "")
+        )
+        if not committee_match and not date_match:
+            logger.warning(f"Possible mismatch — agenda says '{committee_name}' on {meeting_date}, "
+                           f"but video title is '{video_info.get('title', '')}'")
+            response = input("Agenda and video may not match. Continue? [y/N] ").strip()
+            if response.lower() != "y":
+                logger.info("Aborted.")
+                sys.exit(0)
 
     # Step 3: Segment into speaker turns.
     # Check if utterances are cached in the JSON transcript file.
@@ -2070,12 +2248,14 @@ def main():
         slug = slugify(combined_for_slug)
         date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
         youtube_url = args.youtube_url or ""
+        viebit_url = args.viebit_url or ""
         duration = format_duration(video_info.get("duration", 0))
 
         web_content = build_web_content(
             summary, utterances, agenda_text, title, committee,
             committee_slug_val, slug, date_str, youtube_url,
-            duration, council_url=args.council_url or ""
+            duration, council_url=args.council_url or "",
+            viebit_url=viebit_url,
         )
     publish_to_website(web_content, slug, title, committee=committee,
                        deploy=not args.no_deploy, send_email=args.send_email,
