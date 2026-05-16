@@ -53,14 +53,18 @@ Local preview **must** be via a served URL (`http://127.0.0.1:8001`), not `file:
 ## Summarizer pipeline
 
 ```bash
-# Full run
+# Full run (YouTube)
 python summarize_council_meeting.py <youtube_url> "Input/<agenda.pdf>" --title "Meeting Name"
 
-# Use cached transcript JSON (no YouTube fetch)
+# Viebit run (for hearings not uploaded to YouTube)
+python summarize_council_meeting.py --viebit-url "<https://councilnyc.viebit.com/watch?hash=...>" "Input/<agenda.pdf>" --title "Meeting Name"
+
+# Use cached transcript JSON (no fetch)
 python summarize_council_meeting.py --transcript-json "Input/<cached.json>" "Input/<agenda.pdf>"
 
 # Common flags
---skip-fetch          reuse cached YouTube transcript
+--viebit-url <url>    Viebit watch URL; use when the hearing isn't on YouTube. Requires --title.
+--skip-fetch          reuse cached transcript
 --skip-clean          bypass the cleanup step
 --skip-summary SLUG   reuse existing page, update only transcript
 --no-deploy           write markdown but skip build + git push (for batch mode)
@@ -68,17 +72,21 @@ python summarize_council_meeting.py --transcript-json "Input/<cached.json>" "Inp
 ```
 
 Pipeline steps:
-1. Fetch video metadata (title, duration) via yt-dlp
-2. Fetch auto-generated YouTube transcript (youtube-transcript-api)
+1. Fetch video metadata (title, duration) via yt-dlp (or skip when `--viebit-url`)
+2. Fetch transcript — auto-generated YouTube captions (youtube-transcript-api) OR Viebit WebVTT sidecar (see "Viebit caption fetch" below)
 3. Extract agenda metadata via Claude (committee, date)
 4. Segment transcript into speaker turns via Claude (index-based, not text/timestamp)
 5. Clean transcript via Claude (style rules: expanded contractions, no Oxford commas, no comma splices, periods over semicolons, ellipses for pauses, `CM` for Councilmember, capitalised Council/City/Bill)
 6. Format speaker headers (Chair/CM/witness conventions)
 7. Remove oath and public testimony sections
 8. Generate structured summary via Claude Sonnet
-9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `council_url`)
+9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `viebit_url`, optional `council_url`)
 10. Run `site/build.py` to regenerate `site/output/`
 11. `git add/commit/push` → Cloudflare Pages redeploys
+
+### Viebit caption fetch
+
+`fetch_viebit_transcript()` covers hearings that don't get uploaded to YouTube. It GETs the watch page, regexes the WebVTT URL out of the embedded player config (`"src": "https://vbfast-vod.viebit.com/counciln/<hash>/<asset>.vtt"`), fetches the VTT (no auth), and parses cues. Viebit captions are CEA-608-style ALL-CAPS rolling captions with heavy dual-position duplication, so the parser keeps a sliding window of the last 6 normalized lines and drops repeats — collapsing ~24K raw cues to ~6K clean segments for a 3.5-hour hearing. Output shape matches YouTube exactly (`text`/`start_ms`/`end_ms`), so everything downstream is source-agnostic. Duration is derived from the last segment's `end_ms`. Per-utterance timestamps render as plain `(HH:MM:SS)` in the transcript (no Viebit deep-link param is known).
 
 Cost: ~$0.15–0.40 per meeting (Anthropic only, no external transcription).
 

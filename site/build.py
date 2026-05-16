@@ -137,6 +137,7 @@ def load_content():
                 "slug": meta.get("slug", filename.replace(".md", "")),
                 "duration": meta.get("duration", ""),
                 "youtube_url": meta.get("youtube_url", ""),
+                "viebit_url": meta.get("viebit_url", ""),
                 "council_url": meta.get("council_url", ""),
                 "summary_html": markdown.markdown(summary_md),
                 "summary_snippet": truncate_text(summary_plain, 160),
