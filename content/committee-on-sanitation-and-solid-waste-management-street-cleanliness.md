@@ -1,0 +1,1665 @@
+---
+committee: "Committee on Sanitation and Solid Waste Management"
+committee_slug: committee-on-sanitation-and-solid-waste-management
+title: "Street Cleanliness"
+date: 2026-05-19
+slug: committee-on-sanitation-and-solid-waste-management-street-cleanliness
+duration: "2hrs 30m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/watch?hash=ettnx2abbbucYpFE"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1410785&GUID=9FE49BC2-83B8-4C3E-A2D8-AEA86A04CE69&Options=info|&Search="
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Sanitation and Solid Waste Management held an oversight hearing on street cleanliness in New York City, combined with consideration of eight bills covering dog waste, commercial organics, street event waste, construction debris, sidewalk cafe sanitation, and the restoration of alternate-side parking stickers. Commissioner Gregory Anderson led testimony for DSNY, accompanied by Chief of Department Anthony Pendolino and Assistant Commissioner Rebecca Kriegman. The hearing was substantive and at times candid, with the Commissioner using notably blunt language to describe the current state of alternate-side parking compliance as "broken" and dog waste non-compliance as "disgusting, despicable, deplorable."
+
+The dominant operational concern was alternate-side parking enforcement. Anderson presented survey data showing nearly 500 illegally parked vehicles on each of 1,200 weekly cleaning routes, leaving over 3,000 streets effectively uncleaned. He described a street sweeper operator in Manhattan who was threatened with a firearm that morning after honking at a non-compliant driver, using the incident to argue forcefully for the state-level street sweeper camera enforcement bill that has passed the Senate but stalled in the Assembly. The administration positioned Int 0092-2026, CM Brewer's bill to restore adhesive stickers on non-compliant vehicles, as a useful local complement to the state legislation, and Anderson confirmed the department would issue fines alongside stickers, targeting persistent violators rather than resuming the prior indiscriminate use that led to the original 2012 ban.
+
+Several bills on dog waste generated detailed but somewhat circular discussion. Anderson confirmed that enforcement via the canine unit is largely ineffective: a three-day stakeout in Mott Haven in 2024 yielded one summons, and a week-long patrol across four neighborhoods in 2025 yielded zero. The department expressed support in principle for Int 0031-2026 (dog waste bag dispensers on litter baskets) and Int 0872-2026 (public education campaign) while flagging resource constraints in both cases, noting the current pilot relies on community partners for restocking. Chair Sanchez's Int 0857-2026, which would require DSNY to act on blocks receiving three dog waste complaints within seven days, drew cautious support, with Anderson noting that only 63 blocks would currently qualify but worrying that a 311 incentive could balloon that number rapidly. CM Hanif pressed for data on the geographic distribution of complaints and their correlation with rat populations, which the department could not provide in real time.
+
+On containerization and the broader trash modernisation agenda, the Commissioner gave detailed updates on the Empire Bin pilot in Manhattan Community Board 9, expansion to a Brooklyn community district in fall 2026, and the June 1 deadline for 1-to-9 unit buildings to use official NYC bins. He confirmed a warning period will be announced imminently given bin supply shortages at Home Depot. He acknowledged that truck bodies are currently manufactured in Italy and flagged preliminary discussions about onshoring production. The $55-per-unit fee authorised by the Council has not yet been imposed. CM Brewer and others pushed back on the potential expansion of shared stationary containers to smaller buildings, making clear that residents who have already purchased individual bins are unlikely to accept a forced transition. The hearing also touched on fleet mechanic vacancies (out-of-service rates now regularly exceeding 26-30%, against a target of under 20%), highway cleaning operations, the precision cleaning initiative and its role in homeless encampment cleanups, and the forthcoming public-facing block-face cleanliness data from the Mayor's Office of Operations, which the Commissioner hopes to release around the start of the next fiscal year. Int 0031-2026 (commercial organics expansion to all food businesses) and the construction and demolition waste management bill from CM Hankerson were also discussed, with the department supportive of the former and cautiously engaged on the latter, noting it needs to better understand implications for the construction industry before fully endorsing it.
+
+Numbers
+
+- On a survey of 35 street cleaning routes last month, an average of nearly 500 vehicles were found parked illegally on each route.
+- Across more than 1,200 cleaning routes each week, an estimated 500,000 cars violate street cleaning regulations, preventing cleaning of over 3,000 New York City streets.
+- In calendar year 2025, NYPD issued approximately 1.3 million alternate-side parking summonses; DSNY issued approximately 500,000.
+- In fiscal year 2026 to date, alternate-side parking was suspended for approximately 43-44 holidays and upwards of 50 days for winter weather, totalling close to a quarter of the full year.
+- So far in calendar year 2026, 2,354 dog waste complaints have been filed via 311.
+- Manhattan District 12 leads dog waste 311 complaints with 165 so far this calendar year, more than 50 ahead of the next highest district.
+- Under Chair Sanchez's Int 0857-2026, only 63 blocks citywide would currently meet the threshold of three complaints within a seven-day period.
+- A three-day DSNY canine enforcement stakeout in Mott Haven in 2024 yielded one summons; a week-long patrol across four neighborhoods in 2025 yielded zero summonses.
+- Rat complaints are down over 30% citywide year over year, on top of improvements from prior years.
+- Of DSNY's approximately 23,000 litter baskets, around 6,000 of the newer Better Bin models can accommodate dog waste bag dispensers; wire baskets cannot.
+- The department estimates approximately 3,000 litter baskets are currently missing or misplaced citywide.
+- Approximately 1,300-1,400 replacement litter baskets have been installed so far in calendar year 2026.
+- A Better Bin litter basket costs approximately $1,200; a traditional wire litter basket costs just over $200.
+- DSNY currently has Empire Bins deployed in Manhattan Community Board 9 only, with Brooklyn Community Board expansion planned for fall 2026.
+- The City Council has authorised DSNY to charge fees of up to $55 per residential unit for the provision and maintenance of Empire Bins; no fees have been imposed yet.
+- Fleet out-of-service rates have increased substantially, with the department now reporting 26-27% on a good day, regularly exceeding 30% and sometimes reaching 40% for certain equipment types, against a prior target of under 20%.
+- The department's Targeted Neighbourhood Task Force currently cleans 1,786 sites on a regular basis.
+- The Precision Cleaning Initiative currently funds 21 dedicated sanitation workers.
+- The official NYC wheelie bin costs approximately $51 at retail, roughly $20-30 less than comparable off-the-shelf alternatives.
+- Under the commercial organics expansion (Int 0031-2026), fewer than 3% of businesses in existing commercial waste zones have signed up for organics collection with a hauler.
+- The Cycle New York City e-waste programme serves approximately 19,000 buildings with 10 or more units, funded by manufacturers and retailers rather than taxpayers.
+- Projected citywide containerisation impact on parking is estimated at less than 4% of available street parking spaces.
+
+Action Points
+
+- DSNY Commissioner to meet with fifth-grade students at PS 19 in CM Thomas-Henry's district to discuss street cleanliness.
+- DSNY to announce details of the warning period for the June 1 wheelie bin containerisation requirement for 1-to-9 unit buildings within the coming days.
+- DSNY Commissioner to work with the new Director of the Mayor's Office of Operations to establish regular public-facing block-face cleanliness reporting, targeting the beginning of the next fiscal year.
+- DSNY to provide the committee with the number of unplanned alternate-side parking suspension days in fiscal year 2026.
+- DSNY to conduct further analysis on the geographical correlation between dog waste 311 complaints and rat 311 complaints and report findings to the committee.
+- DSNY to test adhesive sticker samples to balance visibility against avoiding damage to vehicles, and to include removal instructions on the sticker itself.
+- DSNY to work with BIC and partner agencies to assess the full implications of CM Hankerson's construction and demolition waste management bill before taking a formal position.
+- DSNY to incorporate construction and demolition waste management into the ongoing Solid Waste Management Plan stakeholder process.
+- DSNY to continue daily phone calls with the bin manufacturer and Home Depot to resolve wheelie bin supply shortages, targeting 20,000 bins produced this week and 25,000 next week.
+- DSNY to explore hosting local community bin-sale events for residents without easy access to Home Depot, in partnership with interested Council members including CM Hankerson in the South Bronx.
+- DSNY to publish a cleanliness rule establishing responsibilities for property owners hosting Empire Bins, including snow removal and litter maintenance, in advance of the Brooklyn Community Board rollout.
+- DSNY to develop guidance on steps homeowners should take if their official NYC bin is stolen, to defend against notices of violation during the enforcement rollout.
+- DSNY to conduct outreach to all Council members requesting that they contact State Assembly members to support the street sweeper camera enforcement bill.
+- DSNY Commissioner to follow up with CM Hankerson's office and the Mayor's Office on continuing the supplemental sanitation service at the Hub in the South Bronx beyond the current fiscal year funding.
+- DSNY to flag the location of missing litter baskets at Junction Boulevard (raised by Chair Sanchez) for prioritised replacement.
+- DSNY to work with the Mayor's Office to identify additional cleanliness requirements and potential regulations for sidewalk and roadway dining setups as the year-round expansion of outdoor dining is considered.
+- DSNY to advocate with State counterparts for City enforcement authority over the battery take-back law and the plastic bag ban.
+- DSNY to provide CM Hanif with geographic data on dog waste 311 complaints cross-referenced against rat sightings data.
+
+## Full Transcript
+
+**(00:00:06)**
+
+
+
+Please silence all electronic devices. Good afternoon and welcome to today's New York City Council hearing for the Committee on Sanitation and Solid Waste Management. If you would like to testify, you must fill out a witness slip with one of the Sergeants at Arms in the back of the room, even if you signed up already online. You may submit testimony at testimony.council.gov. At this time please silence all electronic devices.
+
+**(00:00:30)**
+
+
+
+Good afternoon, everyone. It is a lovely day to be inside, I think. I am funny. OK, well, welcome to the Committee on Sanitation and Solid Waste Management. My name is Justin Sanchez. I am Council Member and Chair of this Committee. I want to thank all of my members of the Committee and the representatives from the administration for joining us today. I would also like to thank all the members of the public who are here to testify. Again, to minimize disruption, please place your electronic devices on vibrate or silent.
+
+I would like to start by acknowledging the Council Members who are here with us today. In no particular order, we have CM Maloney, we have CM Ung, we have CM Zhuang, we have CM Hankerson, and for his first committee meeting ever, we have CM Wilson — you can clap for that. Thank you. We also have CM Brewer, CM Kenneth and CM Thomas-Henry.
+
+So when I ran for City Council, I ran on four simple words: clean the damn streets. So what are we here today to talk about? Street cleanliness. Today we are going to be learning all about the Department of Sanitation's current work to keep the City's streets and sidewalks clean. Street cleanliness affects all of us — our quality of life, urban aesthetics, public safety, physical and mental health, stormwater management, economic development, tourism and community dignity. Where cleanliness lacks, there are higher risks for disease transmission and exacerbated tension. New Yorkers deserve sound physical and mental health and access to a wide range of opportunities available in this City. One thing necessary to realize this promise is to ensure a high level of cleanliness.
+
+In addition to oversight, we will be hearing eight bills today, two of which I am sponsoring. First, Int 0883-2026 would require the Commissioner to establish an Office of Sidewalk and Roadway Cafes. The office would receive service requests relating to sidewalk and roadway cleanliness, such as debris, trash, foul odors and food scraps. Using this information, the office would establish lists of sidewalk and roadway cafes that receive a certain number of violations or service requests and share such lists with the Department of Transportation. The office would also be required to report to the Council and the Mayor and to conduct outreach to sidewalk and roadway cafe operators about cleanliness standards.
+
+The other Bill I am sponsoring is Int 0857-2026, which would establish procedures for DSNY once it receives at least three complaints of dog waste on the same block within seven days. DSNY would be required to either remove the waste on that block or to inform property owners of their obligation to remove the waste and issue violations to those who do not remove the waste.
+
+Next up is Int 0031-2026, sponsored by Council Member Menin, our Speaker, which would require DSNY to install and regularly fill dog waste bag dispensers on or next to all public litter baskets on City streets. This Bill would also require DSNY to work with the Department of Health and Mental Hygiene to conduct a public awareness campaign to educate the public on the negative public health consequences associated with dog waste.
+
+Next up we have Int 0031-2026, sponsored by Council Majority Leader Shahana Hanif, which would expand the categories of businesses that can be designated by DSNY to be subject to requirements regarding separation and disposal of organic waste and require DSNY to designate additional covered establishments. Any covered establishment so designated would be required to comply with requirements regarding separation and disposal of organic waste when the commercial waste zone in which the establishment is located goes into effect, or within six months of DSNY's designation if the commercial waste zone is already in effect.
+
+I will speak briefly on Int 0031-2026 on behalf of our Majority Leader. This Bill will help ensure more establishments participate in our organics recycling system and practice responsible waste management. The Bill also builds on the growing success of our City's organics waste system, helping reduce strain on landfills and supporting our environmental goals. Households are now required to separate their organic waste and we believe businesses should be held to the same standard. It is important to note that Int 0031-2026 will be good for businesses' bottom lines by reducing waste disposal costs. Under the City's current commercial waste zone rules, carters that collect commercial waste are required to charge less for organic waste collection than general refuse collection. By requiring new types of establishments to separate out their organic waste, Int 0031-2026 will help save these businesses money as more of their waste is collected at the mandated lower rates for organic waste collection.
+
+**(00:05:31)**
+
+
+
+Ultimately, it will cost businesses less to do the right thing for our environment. A more sustainable, environmentally friendly commercial waste system in our City.
+
+**(00:05:41)**
+
+
+
+Thank you, Majority Leader. Moving on, we have Int 0872-2026, sponsored by CM Shahana Hanif. This Bill will require the Commissioner of Health and Mental Hygiene, in consultation with the Commissioner, to develop and conduct a public education and outreach campaign in all designated citywide languages to inform the public about dog waste removal and the dangers of failing to remove dog waste. I am sure you are tired of hearing my voice, so I will gladly pass it over to CM Hanif to discuss her Bill.
+
+**(00:06:11)**
+
+
+
+Thank you, Chair Sanchez. Good afternoon. I am CM Hanif. Thank you, Chair Sanchez, excuse me, for convening today's hearing and for including my Bill, Int 0872-2026, creating a citywide dog waste education campaign. Thank you to Speaker Menin for her commitment to this issue.
+
+New York City has a dog poop problem. We have all seen it and unfortunately many of us have stepped in it. But this is not just a quality of life issue. Dog waste is a serious public health and environmental hazard. According to the research, pet waste can pollute waterways and spread harmful bacteria and parasites, including E. coli, salmonella and roundworm. New Yorkers simply do not know the risks. That is where Int 0872-2026 comes in. This Bill would require a multilingual public education campaign so dog owners understand the health impacts of failing to scoop the poop and the shared responsibility we all have to keep our City clean and safe. Every New Yorker deserves sidewalks that are safe, accessible and poop free. I urge my colleagues to support Int 0872-2026 because New Yorkers are tired of this crap.
+
+**(00:07:37)**
+
+
+
+Next is Int 0736-2026, sponsored by CM Gennaro. This Bill would codify a requirement that a sponsor of any street activity permitted by the Street Activity Permit Office perform solid waste disposal and recycling practices. The sponsor would also have to ensure that food vendors at street activities, not including food service establishments, provide beverage cups, plastic straws, eating utensils, eating containers, condiment packets and napkins only upon request. The items would have to be compostable, except for straws and condiment packets as applicable. Sponsors would be
+
+**(00:08:15)**
+
+
+
+required to maintain a sufficient supply of single-use plastic beverage straws that are not compostable and display signs indicating straw availability. DSNY would have enforcement power. Sponsors would have to submit compliance plans to DSNY and DSNY would have to inform sponsors of their responsibilities and include on their websites information about permissible items.
+
+**(00:08:38)**
+
+
+
+I would be passing the floor over to CM Gennaro. However, we are sending our thoughts and prayers as he is dealing with a horrific shooting that just happened in his district, so he had to turn around. As such, he will not be joining us today. But we will continue to discuss his Bill.
+
+Moving on, Int 0092-2026, sponsored by CM Ty Hankerson, is another Bill on today's agenda. This Bill would require the applicants for permits related to the construction of new buildings and the alteration or demolition of existing buildings to submit to the Department of Buildings a construction waste management and disposal plan. In conjunction with DSNY, the Department of Environmental Protection would be required to verify the permit holder's compliance with their plan and could issue a civil penalty of $1,000 for failing to comply with the plan. The Department of Consumer and Worker Protection also could suspend or revoke contractor licenses for repeated failure to adhere to the Bill's requirements. I now pass the floor to CM Hankerson to discuss his Bill.
+
+**(00:09:43)**
+
+
+
+Thank you, Chair. Illegal dumping is a quality of life issue across New York City. Construction debris left near homes, parks, green spaces, transit corridors, waterways and beaches creates eyesores, brings down the value of the surrounding area and harms the environment. Construction waste should not leave a job site without a clear plan for where it will go or who will handle it. Before a permit is granted, contractors should be able to show that debris will be taken to an appropriate disposal location by a licensed or properly authorized hauler, disposer or disposal company.
+
+When disposal records are not required, contractors can cut corners, use unauthorized or unreliable disposers, avoid proper disposal costs and leave communities to deal with a mess. A permit should not be approved on trust alone, especially when construction debris can end up in communities. This legislation requires applicants for certain permits to submit a construction waste disposal plan before the permit is actually granted. It also requires proof that the waste was taken to a lawful disposal site before the permit can be closed. That proof includes receipts, transportation records, disposal facility records, hauling records or other documents showing where the material went and who handled it. Requiring disposal planning before permit approval and verification before permit close-out helps prevent illegal dumping, protect public spaces and hold contractors accountable. Thank you, Chair Sanchez, for allowing me to share about this Bill. Thank you.
+
+**(00:11:12)**
+
+
+
+Thank you, CM Hankerson. I look forward to the dialogue today and I would like to thank everyone on my team, especially our Council Committee counsel, for their work on this legislation and oversight, and to the entire Sanitation and Solid Waste Management team. Let me... actually, I accidentally skipped over a Council Member. Before I give closing remarks and get to our administration witnesses, I would like to turn the mic over to CM Brewer to speak on her Bill.
+
+**(00:12:01)**
+
+
+
+Thank you very much. It is Int 0092-2026 and it has to do with restoring notification stickers to enforce alternate side parking regulations. I think we know that street cleaning only works when cars move. When they do not, sweepers cannot properly clean the curb lane. The litter, the debris, the dog waste and grime builds up. That is why I introduced Int 0092-2026, which would restore the Department of Sanitation's ability to place warning stickers on vehicles that failed to move for alternate side parking.
+
+**(00:12:33)**
+
+
+
+The Sanitation Department used these stickers in the past.
+
+**(00:12:34)**
+
+
+
+I remember I voted for it a hundred years ago. They were a practical tool to improve compliance and help keep the streets clean. In 2011, I voted with my colleagues to limit — I must admit — the use of these stickers in what became Local Law 20 of 2012. Now, 14 years later, many of us have noticed a significant change in alternate side compliance as well as the overall cleanliness of our streets. I do not know if it was the pandemic, but people do not move their cars. Constituents voice frustration upon seeing the street sweepers weaving around parked cars, some with drivers in them. I do not know what they think they are doing except they are holding on to a parking place in case nobody gives them a ticket, so they just stay there.
+
+Thank you to the Department of Sanitation for their support of this legislation. New York City's strongest — thank you for your efforts day in and day out and evening to keep our streets and sidewalks clean. I want to thank Chair Sanchez for including this Bill in the hearing and for caring about street cleanliness. I do think it is time to restore this practical tool that has proven effective at keeping our streets clean. And if in Albany there is a camera on a street sweeper, I think you still need to have the ability to do a sticker for those
+
+**(00:13:56)**
+
+
+
+transient individuals who refused to move. They would get the sticker and not be able to get the adhesive to come off their car, so they would have that for the rest of their natural lives. Thank you very much.
+
+**(00:14:09)**
+
+
+
+Thank you, CM Brewer. I have to agree — let us put a sticker on it. And if you get that reference, thank you. If you did not, I am sorry for you. So now, finally, we will start by hearing testimony from DSNY, followed by some questions to the agency, and then we will hear testimony from members of the public. I will now turn it over to our Committee counsel to administer the oath. Please raise your right hands.
+
+**(00:14:50)**
+
+
+
+Great. Good afternoon, Chair Sanchez and members of the Committee on Sanitation and Solid Waste Management. I am Gregory Anderson, Commissioner of the New York City Department of Sanitation, and I am joined today by Chief of Department Anthony Pendolino and Rebecca Kriegman, Assistant Commissioner for Policy and Planning.
+
+Every New Yorker deserves not just a clean street but a clean City. For decades, public space cleaning programs have been a bureaucratic patchwork, confusing responsibilities that facilitated finger-pointing and inaction. As with so many other issues, the administration is rejecting the status quo. As part of the new era for New York City, the Department of Sanitation is taking an expansive view of what it means to keep the City clean. It is not just about emptying litter baskets more frequently or clearing jump-outs more quickly or enforcing our rules more effectively. It is about understanding that every part of this City is impacted by sanitation issues and services, from street sweeping to enforcement to public education. In the coming years, the members of this Council and the people of your districts will see that change, will feel it, will smell it, as we bring equitable cleaning resources to every part of the five boroughs.
+
+We need New Yorkers to be our partners in this effort — to keep their properties clean, to pick up after their dogs, to throw their trash in the litter basket. Largely they do. However, I have to address one area where many New Yorkers
+
+**(00:16:23)**
+
+
+
+often do not do their part and where our hands are very much tied. The street sweeper, or mechanical broom, is among our most effective tools for keeping streets clean, picking up as much as 1,500 pounds of trash, leaves and street debris in a single shift. They are out across our City six days a week.
+
+Street cleaning regulations, known as alternate side parking, exist to give our street sweepers access to the curb for 90 minutes, once or twice a week. Regulations require drivers to move their cars to allow our street sweepers to do their jobs. If you take a look around neighborhoods across the City, you will see unfortunately far too many New Yorkers who own cars have become accustomed to disregarding basic rules and leaving their personal property occupying valuable public space, creating dirty streets in the process.
+
+Simply put, the current system is broken. The risk of enforcement, done manually by our sanitation supervisors and by traffic enforcement agents, is minimal. The price of noncompliance combined with the low risk of getting caught is a cheaper option for drivers than the opportunity cost of moving their car or the cost of paying for off-street parking. Meanwhile, good neighbors who sweep their properties and who obey regulations are left angry, frustrated, even irate when fellow drivers leave their cars on the street with no concern for the cleanliness of the neighborhood.
+
+During a survey last month of 35 street cleaning routes, we found that on average nearly 500 vehicles remain parked illegally on each route. That means that on over 1,200 routes each week, nearly 500,000 cars violate street cleaning regulations and prevent us from cleaning more than 3,000 of New York City's streets. But do not just take my word for it. Watch this video. Let us see if we can pull it up. Do we have the video? Thank you.
+
+**(00:18:41)**
+
+
+
+Thank you, Commissioner. I have just let the administrator of the video know that we are ready.
+
+**(00:18:55)**
+
+
+
+That video showed a mechanical broom struggling to maneuver around parked cars on its assigned route, leaving behind dirty streets in the process. To clean your neighborhoods and change the culture of filth on our streets, that must change. Last week I was in Albany, asking legislators to give New York City the authority to enforce against this practice via automated enforcement. A street sweeper camera enforcement program has passed the State Senate for multiple years in a row, but has stalled in the Assembly. Our message to Albany is clear: let us clean.
+
+Just this morning, a mechanical broom operator in Manhattan District 10 was working her route when she encountered a parked car blocking the broom at 119th Street and Moore Avenue. Without the benefit of automated enforcement to issue a ticket, and without a supervisor in the immediate vicinity to write a ticket manually, she did what many broom operators do every day. She honked the horn to encourage the driver to move so she could do her job and clean the street. Instead of moving, the occupant of the vehicle reached into the back seat of the car and grabbed a firearm. He waved it in the air and the sanitation worker, fearing for her life, quickly left the scene before calling for supervision and NYPD assistance. That would not have happened if we had automated enforcement. So I say again, let us clean safely.
+
+Authorizing automated enforcement by sweepers will lead to more reliable and consistent enforcement without the need for conflict or manual intervention. This will encourage compliance and improved access to the curb, ensuring cleaner neighborhoods. And that is not to say that we want to issue more summonses. I would be thrilled if we issued none at all. With this new program, New Yorkers will only receive a summons if they actually block a sweeper, preventing it from cleaning our streets. As we get better compliance and cleaner streets in the process, we will be able to re-evaluate the current street cleaning regulations, potentially reducing the frequency and duration of those regulations. This will lead to cleaner streets and a more convenient way of life for New Yorkers who do their part, benefiting all New Yorkers from Jamaica to Jackson Heights and from Eastchester to the East Village.
+
+I ask every City Council member who wants cleaner streets to put their strong vocal support behind this Bill. Call your colleagues in the State Legislature. Tell them to let us clean. We thank you for your advocacy and support of this important state legislation.
+
+This hearing also includes several pieces of City legislation that touch on a number of topics related to street cleanliness. Several bills address the fact that far too many New Yorkers with dogs simply fail to pick up after them. This practice is disgusting. It is despicable. It is deplorable. And to New Yorkers I say this: if you fail to pick up after your dog, you are showing the utmost disrespect for your neighbors and for the community you live in.
+
+Speaker Menin's Bill Int 0736-2026 would require DSNY to install and fill dog waste bag dispensers on all public litter baskets. I am proud to share that our pilot of these dispensers is going quite well, with the dispensers now on baskets in parts of the Bronx, Manhattan and Brooklyn. In all cases, though, DSNY has a maintenance partner — an elected official, business improvement district or a community group — that is committed to refilling bags when they run out. DSNY simply does not have the resources at this time to routinely restock bags at any kind of scale. And what could be worse than walking your dog, expecting to find bags available, and finding an empty dispenser, forcing you to leave the waste on the ground.
+
+Int 0872-2026, sponsored by CM Vernikov, would require Sanitation and the Department of Health to implement a public education campaign around dog waste. We are eager to work with the Council to increase awareness about this issue and again do not have resources for a broad marketing and outreach campaign at this time. On Chair Sanchez's Bill Int 0883-2026 regarding the removal of dog waste, we understand the Council's frustration with repeat offenders who make certain blocks entirely unworkable. We do have concerns about the practical application of this requirement if complaint volumes were to increase substantially, but we look forward to discussing this further.
+
+Int 0031-2026, also sponsored by Chair Sanchez, would establish an Office of Sidewalk and Roadway Cafe Sanitation at the Department of Sanitation. We agree with the Council on the importance of upholding cleanliness standards for outdoor dining setups. I am happy to say that Sanitation today has a collaborative relationship with the Department of Transportation on this topic and the outdoor dining program has clear requirements regarding cleanliness and sanitation, which I will say the COVID-era temporary program did not. As the Council considers expanding this program year-round, we are working with the Mayor's Office to identify additional requirements and potentially regulations that will ensure that sidewalk and roadway dining setups do not create cleanliness conditions in our commercial corridors.
+
+On CM Hankerson's Bill Int 0857-2026 regarding construction and demolition waste, we strongly feel that this industry needs more and better regulation. Shady contractors often dump waste illegally in our parks and our neighborhoods, and those who do should be severely punished. However, this is a very complicated issue and we want to better understand the implications that new requirements will have for all construction projects, including for badly needed affordable housing. We see this Bill as the beginning of a very robust discussion.
+
+**(00:25:45)**
+
+
+
+Around this important topic and we look forward to working with the Council, our partner agencies and the contractor community to develop appropriate regulations. CM Bottcher's Bill Int 0736-2026 builds on the Skip the Stuff program that the Council passed several years ago. We support efforts to reduce unnecessary waste whenever and wherever possible and we are happy to support this Bill.
+
+The last two bills have very strong support. Int 0031-2026, sponsored by CM Ung, and Int 0092-2026, sponsored by CM Brewer. Int 0031-2026 would authorize the requirement to separate compostable material to all businesses that produce food waste, fighting rats and keeping food waste out of landfills. This Bill is a critical step in reducing the amount of food waste that we dispose of. It will save businesses money as the commercial waste zones program requires carters to provide organics collection at a reduced rate compared to trash collection. We also want to make sure that the Bill prioritizes the overall reduction of food waste and the donation of edible food to food pantries and those in need.
+
+Int 0092-2026 undoes a grave mistake made by a prior City Council in prohibiting the use of stickers to deter drivers from blocking street sweepers. We welcome any tool that will help us ensure our sweepers can effectively clean the City's streets. This Bill is a great local counterpart to the state legislation I discussed earlier, which remains our main focus and priority.
+
+So thank you for the opportunity to testify before you today. I am now happy to answer any questions you have about specific cleanliness programs or needs in your district. Together, we really can have a cleaner City. We just need to have the will to get it done.
+
+**(00:27:29)**
+
+
+
+Thank you so much, Commissioner. I do want to be mindful of my colleagues, so I am going to make sure that they can ask questions about their bills. I really appreciate you going into detail about how the department currently feels about many of the bills, especially with the dog waste bills. I just want to make sure that we are understanding that more families are having dogs now than they are babies, a lot of the time. So we need to make sure that our street sanitation is transforming itself in a way that is being responsive to our new families of today and in the future, which seems to be even more dogs. We should be leading and finding ways to address the resource concerns to make sure that we are modernizing the department in a way that addresses the fact that our four-legged friends are now a bigger part of our City than ever before.
+
+Having said that, I absolutely love the street ballet video and I think there was no better way to transition into the need for our sticker program than that video. So I want to turn it over to the Council member on her bill.
+
+**(00:28:43)**
+
+
+
+Thank you very much. I appreciate your support. Let me ask again — we do not know what is going to happen in Albany. You may have a better sense than I do. But say, for instance, it does not pass, or even if it does, how will you decide which road users — obviously those who are not moving — but how would you decide when a sticker would go on a car? I do not know, I should remember, because I remember seeing cars in the past where they had the sticker adhesive still on the car. We all know what that meant. So my question is, how would you decide which car would get the sticker?
+
+**(00:29:19)**
+
+
+
+Thank you, CM, and I do think I understand where the Council, including yourself as a member in 2011, was coming from, because the department was, I think, quite profligate in its use of the stickers in the past. I think if we use David Greenfield... I can tell you that the Bill did pass unanimously at the time. I will say our approach now would be to use this mechanism where absolutely necessary. Everyone knows these cars in their district that just do not ever move. You can see the litter and the leaves piled up underneath. Those are the kinds of places where we would find the repeat violators. We would use the sticker as a tool to not only tell those people that they have an obligation to move their car, but also to tell their neighbors that there is someone on this block who is disrespecting your quality of life day in and day out. So I think that is how we would focus our efforts — on those who either have a substantial number of adjudicated complaints or who, from just looking at the street, you can tell they have not moved their car for quite a long time.
+
+**(00:30:30)**
+
+
+
+Okay. And that would be the same whether Albany passes the camera bill or not — it would be the same proposed approach. Okay.
+
+**(00:30:40)**
+
+
+
+Yeah. If Albany were to pass the camera bill, we probably need the stickers a little bit less. If they do not, the sticker is just another tool in the toolbox and if we are allowed to use them, we certainly will.
+
+**(00:30:50)**
+
+
+
+Okay. And then the other question — would you use the same adhesive? Because people are wondering about that. I do not know the answer. I mean, I cannot remember what adhesive you used before, so I do not know if it would be the same adhesive.
+
+**(00:31:02)**
+
+
+
+Yeah, that was quite some time ago. So I do not know if the same product necessarily still exists. It was 14 years ago, so that was quite a bit of time. Adhesive technology has come a long way in that period of time. I think we definitely need to balance the interests of having very visible stickers on the car with, you know, we do not want to damage people's personal property. So we will probably test out a few samples.
+
+**(00:31:34)**
+
+
+
+Okay. My other question is — and I should know this — but is it accompanied by a fine or is it just a sticker? I mean, obviously with the camera, with the police officer or sanitation giving you a ticket for not moving, that is the fine. Is this sanitation sticker also accompanied by a fine?
+
+**(00:31:50)**
+
+
+
+So we would write a ticket alongside it. It would be the same as one would get as a normal ticket for not moving for alternate side of the street parking. Correct.
+
+**(00:31:57)**
+
+
+
+Okay. The other question I have finally is — do you know, I think correctly there were about a certain number of summonses given last year, I think in the fiscal year, for lack of moving for alternate side of the street parking. Do you think that having the sticker would hopefully limit — we all want less people to get fines, you just want them to move their car — do you think that would reduce the number of people who get summonses?
+
+**(00:32:25)**
+
+
+
+Obviously there are so many times when there is no police, there is no sanitation, so that is probably a low number compared to the number of people who do not move. Yeah. So based on at least calendar year 2025, it is actually about 1.3 million summonses — NYPD about 1.3 million, we issued about 500,000. I do think that both the camera enforcement bill and the sticker bill would increase compliance and so we would hope to see those numbers come down pretty substantially.
+
+**(00:32:51)**
+
+
+
+Okay. Thank you. I think CM Bottcher has some more questions on Int 0092-2026. Will the department distribute educational materials to road users about the re-implementation of parking stickers and will this material include ways to safely remove the adhesive without damaging their vehicle?
+
+**(00:33:12)**
+
+
+
+We will put something on the sticker itself that includes some instructions on removal.
+
+**(00:33:16)**
+
+
+
+Okay, cool. Thank you so much, CM Brewer. I am going to go into a few questions about street cleanliness before I turn it over to another Council member. So the 2023 Mayor's Management Report announced the suspension of the street cleanliness grading program administered by the Mayor's Office of Operations and promised a successor program. At the last street cleanliness hearing in September 2025, the administration testified that field block inspections of block faces had resumed and that public-facing data would be forthcoming sometime in 2026. Could you please provide a date when this public-facing data should become available?
+
+**(00:33:57)**
+
+
+
+So they have been conducting the block face surveys in the background for quite some time and they are sharing that data with Sanitation right now. I think our hope — and I have yet to sit down with the new Director of the Mayor's Office of Operations, a good friend of mine, to discuss this formally — but my hope would be maybe at the beginning of the fiscal year we would be able to stand up regular reporting. Awesome. Thank you. Could you also please describe, to the extent that you can already, the differences between the upcoming successor program and the earlier scorecard program?
+
+**(00:34:32)**
+
+
+
+Yeah, so a number of the
+
+**(00:34:33)**
+
+
+
+changes were actually made in response to an audit done of the scorecard program that showed that it was really inconsistently applied. Some blocks that were a hundred feet long were getting rated with the same weight as a block that is a thousand feet long, which just skews the numbers and does not create an accurate picture of how clean a neighborhood is. In addition to that, the ratings were all aggregated up to the sanitation section or sanitation district level, which is dozens of blocks.
+
+What we are doing right now, and what I would hope we can do when we start to share the data publicly, is actually go to a granular detail of the specific block face. So say, on Twelfth Street — and I am going to get my avenues wrong because I do not really hang out on Twelfth Street — from Sixth Avenue to Seventh Avenue, that street got this grade. And it was rated on that date. We know that is a snapshot in time. We know that may not be representative of how that block looks today. It does give more data about how blocks actually look.
+
+They have also sort of changed the way that they do the rating a little bit. I think the rating initially came out of something done by, I think maybe the Abney study or something like that, back in the 1970s. Our standards of cleanliness today are much, much higher than they were in the 1970s. What was considered filthy in the 1970s would be absolutely unacceptable today. What was considered clean in the 1970s would be considered dirty today. So they have done some updates to how those ratings are calculated.
+
+**(00:36:20)**
+
+
+
+And we look forward to hopefully rolling something out soon. Thank you. And just for your own personal knowledge, Twelfth Street between Sixth and Seventh is a real place, so you are all good — you are not fired yet. In fiscal year 2026, how many days were met with an unplanned suspension in alternate side parking regulations?
+
+**(00:36:46)**
+
+
+
+We do not have that number in front of us right now, but I think there is something like 43 or 44 holidays. Plus we, I think, had upwards of 50 suspension days for winter weather, so
+
+**(00:36:58)**
+
+
+
+far this year. So together that is close to a quarter of the full year. What would you say would be — and I think you kind of answered, but maybe there is more — about the most common reasons for these unplanned
+
+**(00:37:14)**
+
+
+
+suspensions? The most common reason is winter weather. That is in part because we do not want folks unnecessarily driving and in part because we need all the resources we can operating our plows and salt spreaders. Even in a smaller storm where we do not need the full contingent of plows and salt spreaders, we want to make sure we can keep up with the trash collection. So we put whatever resources we can on that.
+
+**(00:37:36)**
+
+
+
+Thank you. And we would not be talking about street cleanliness if we were not talking about dog poop. So with that, I turn it over to CM Vernikov. Thank you.
+
+**(00:37:47)**
+
+
+
+Thank you, Chair. Okay, well, first I just want to thank Frank. We are really grateful. The Kensington community has been a part of the pilot of the dog waste bag dispenser and certainly it has been a little challenging to coordinate and make sure that once one roll is done, we have got people seeing and changing and making sure that we have enough bags. But I do think that this is an important initiative and I look forward to seeing its expansion. So on my Bill, you mentioned that you do not have resources for outreach. What actions is the department taking or has taken around educating residents about the hazards of dog waste and other animal waste?
+
+**(00:38:45)**
+
+
+
+So first, thank you for your partnership on the pilot of the dispensers. I do want to say that the dispenser model that we have out there on some bins right now is something that is off the shelf from a large on-demand delivery company that we are all familiar with. What we are doing is we are trying to identify if there is a better model out there. If there are bag rolls of bags that we could use or something like that in order to not have to replace the bags as often and to just make it easier for New Yorkers. So that is something that we are working through and I think if we were to advance some version of the Speaker's Bill, we want to be able to take into account the timeline for identifying the right product to be able to use our litter baskets in doing so.
+
+**(00:39:32)**
+
+
+
+All right, because we do not
+
+**(00:39:35)**
+
+
+
+want people hoarding our bags. We do not want people hoarding our bags, but we also do not want people... and you know, as a dog owner myself, I can identify with the fear when you look down at the leash and you see, oh, I do not have any bags on me. I really hope my dog does not take a crap right now. You do not want to get to a litter basket, think there is going to be a bag there, your dog has already done its business and then you are like, oh, crap.
+
+**(00:40:00)**
+
+
+
+So you are reaching into the litter basket for a piece of newspaper and you are trying to pick it up as best you can, and that is a terrible situation. No one wants to be in that situation. On your actual question around public education, I think the dispensers and the press that we have done around them has been effective. I do think this winter, given the extended two-and-a-half-plus week period of deep, deep cold weather, made it particularly problematic. New Yorkers just, I think, thought if it is on the ice, if it is on the snow, it just goes away. When it all melted, we saw that it does not. I do agree that we can do more on the public awareness side of things. I do not think there is anyone out there... I mean, I do not think I have seen what could be a very fun campaign about picking up your dog's waste. Do you know how many 311 complaints came in?
+
+**(00:41:04)**
+
+
+
+That is in front of you.
+
+**(00:41:05)**
+
+
+
+Okay, so so far this calendar year, 2,354. And what is the geographical pattern here?
+
+**(00:41:15)**
+
+
+
+I mean, it is a lot of upper Manhattan. Manhattan District 12 has 165 total out of that number, which beats the next one by over 50. Then it is parts of, you know, denser parts of Brooklyn. Central and South Bronx are the biggest districts there.
+
+**(00:41:36)**
+
+
+
+And then what do you all do with that data?
+
+**(00:41:41)**
+
+
+
+We use it to do enforcement when we can. The enforcement we assign enforcement resources, they are not productive because we have to witness the action happening. We have to witness the dog pooping and the person failing to pick up the poop. We have to then stop them, get them to give us their actual name, which they are not compelled to do because they are officers or peace officers. They are not NYPD police officers. We are not going to arrest someone for...
+
+**(00:42:13)**
+
+
+
+Totally understand that it is...
+
+**(00:42:15)**
+
+
+
+So we do that enforcement, but it is not particularly productive in situations where... and I know, I know.
+
+**(00:42:23)**
+
+
+
+You do not... my time... I am sorry. Go ahead.
+
+**(00:42:26)**
+
+
+
+Are there times when a sanitation worker picks up dog poop? There are times, yes,
+
+**(00:42:35)**
+
+
+
+but in general sanitation workers do not sweep the sidewalk. That is the responsibility of the property owner and so the property...
+
+**(00:42:42)**
+
+
+
+Then how does the presence of dog waste affect other animal populations in our City?
+
+**(00:42:52)**
+
+
+
+Dog waste certainly does attract rats. That is something that we have seen in the past and I think there is a good correlation between places that have higher rat populations and higher dog waste complaints. I will come back in a second. You can continue your questioning.
+
+**(00:43:07)**
+
+
+
+Thank you. So rats — is that something that the Department of Sanitation and maybe DOHMH are collaborating on in terms of the effects, and you know, we are trying to get rid of rats, but here you are out here not picking up your dog's crap.
+
+**(00:43:32)**
+
+
+
+Yes, it is something that we definitely collaborate with them on. I think that the bigger food source for rats is trash and so containerizing trash is making a huge impact on the rat population and rat sightings. Year over year, rat complaints are down over 30% citywide. That is on top of improvements made in the past several years. So we are making good progress there, but certainly there is more to do.
+
+**(00:44:01)**
+
+
+
+Are you seeing any geographical correlation between dog waste 311 complaints and rat 311 complaints?
+
+**(00:44:11)**
+
+
+
+We would have to look at that more
+
+**(00:44:12)**
+
+
+
+specifically. Yeah, I mean, I would like to understand just how dog waste is truly negatively affecting our City. As much as I sympathize with the Department of Sanitation not having the resources to tackle this issue, I do think this is one of the issues that will continue to grow. The population of dogs in Carroll Gardens is outrageous. It is just getting... I mean, it is a positive thing, I love dogs, but the population is at an all-time high and I think the City really needs to take this issue very, very seriously and plan for something more public, in your face, on the bus, on the trains, so that we are constantly reminded that this is not okay.
+
+**(00:45:13)**
+
+
+
+Does the Department of Sanitation communicate regularly with DOHMH on issues related to dog waste or other animal waste and vermin?
+
+**(00:45:32)**
+
+
+
+Yeah, we are in regular communication with them on a number of topics, predominantly on rodents and rats, but we do coordinate on dog waste as well. Obviously they run the licensing program for which we do some very limited enforcement.
+
+**(00:45:50)**
+
+
+
+Wonderful. And I just want to... is my time up? No, no, no, I am sorry. I wanted to ask a few questions about not my Bill. I wanted to understand how the Department of Sanitation is responding to litter baskets which are repeatedly found overflowing.
+
+**(00:46:14)**
+
+
+
+So I think the occurrence of that, luckily, has diminished because we are at the highest level of baseline litter basket service in New York City history, or at least since we have been recording our level of litter basket service, which goes back several decades. I think litter baskets are one of the most visible things that are out there that are markers of street cleanliness and so that is something that we take very, very seriously. If we identify that increased service is necessary or that a specific location needs to be on multiple routes, we will do so. We will also work with... if it is outside of a business, for example, our dear friend Assistant Chief Frank Otero was just doing this yesterday with a pizza shop on the Lower East Side. If a litter basket is full of trash from just one business, maybe that business should be responsible for managing the trash.
+
+That is what we did with the pizza shop yesterday. We said, you know, maybe you should put out some of your own trash cans for when you are open so that your patrons who are buying your pizza can use your trash can and not have to make the streets around the Lower East Side filthy. They were very receptive to that because they saw that it was a real impact.
+
+**(00:47:35)**
+
+
+
+And how often are you all updating the litter basket routes generally and in response to complaints?
+
+**(00:47:44)**
+
+
+
+We are looking at them on a regular basis. I would not say it is something that we are doing in real time or on a dynamic level, but we look at needs along certain commercial corridors and if we identify that there are recurring complaints along the corridor, we will take action both through changing service, increasing service, as well as, if necessary, taking enforcement action where baskets are being misused.
+
+**(00:48:12)**
+
+
+
+And for areas that have scaffolding and no lighting, how do you all respond to trash-related complaints in those parts of our City? I have just witnessed the Nevins Street and Baltic Street corridor — it looks like a dump. It is an industrial area and also has construction going on. There is just a sort of no-life-in-that-area situation, but it is also adjacent to public housing. In other parts of my district we do not have to speak about these kinds of hot spots. The hot spots we have had in Kensington, we have had great work thanks to Frank and just strategy through talking through what is working, what is not working and then revising, but...
+
+**(00:49:21)**
+
+
+
+I would love to understand just how the hot spots that we know exist — how do you all address those sections? Yeah, so it remains the property owner's responsibility to clean the sidewalk. If there is a dump-out or a large accumulation of trash, we will assign one of our crews to go through and clean it. I think one of the areas that I would love to work with the Council on is how we hold either vacant properties or sites that are under construction accountable, because right now it is very difficult. I live in Long Island City where there are probably seven or eight new giant apartment buildings going up within a two-block radius of my building and some of them maintain their sidewalks and curb lines, but many of them do not. We would love to have better tools to be able to hold those buildings accountable.
+
+**(00:50:18)**
+
+
+
+And finally, with the trash bin deadline, bins have been appearing to be out of stock at many retail locations. What is your plan to increase the availability and distribution of bins
+
+**(00:50:35)**
+
+
+
+citywide? So we are on phone calls every day with the bin manufacturer, with Home Depot, to try to make sure that they are making enough bins to keep up with demand. This week they are making 20,000 bins, next week 25,000 bins, so they are producing bins and getting them to Home Depot as quickly as possible. I was hoping to make a video with the Chair and a certain Council member from Staten Island to make some news on a warning period there, so more to come. I think in the next couple of days on what we plan to do as far as enforcement. Great.
+
+**(00:51:15)**
+
+
+
+Thank you. Thank you so much. Council member, just picking up one last thing on
+
+**(00:51:17)**
+
+
+
+the litter baskets. So in the Fiscal Year 26 Executive Budget, litter basket service was given an enhancement increasing in fiscal year 29 and the out years. Which litter basket service operations or programs has the department allocated these
+
+**(00:51:36)**
+
+
+
+resources to? Yes, that is for our core basket service operations. That is across all 59 districts. It includes both regular service Monday to Saturday as well as
+
+**(00:51:48)**
+
+
+
+overtime service on Sundays. It is the highest level of service on both weekdays and weekends that we have had in history. We did an exercise as we were expanding that service and baselining it where we made sure that we were properly allocating the service across all five boroughs, rather than the sort of historical practice that the Department of Sanitation had of really concentrating litter basket service here in Manhattan. So we do have a record level of service in parts of the Bronx, in parts of central Brooklyn, out in Flushing, Queens, that we historically did not have. So we have done that.
+
+**(00:52:27)**
+
+
+
+Speaking of record levels of service...
+
+**(00:52:32)**
+
+
+
+I cannot speak to record levels of service in the South Bronx currently. Until the end of the fiscal year, as mentioned before, we have an additional 21 workers that have been working and making sure that they are doing everything possible to keep our streets clean given the history of the area. I am curious to know if we will continue to see that level of service in and around the Hub by the department, or if there are any updates there.
+
+**(00:53:03)**
+
+
+
+We are continuing to have conversations around that additional service, the supplemental service in the Hub, as part of the budget process. We are not currently funded for it, but I would hate to see it go away. So conversations with your office, with the BID, with the Mayor's Office on how we can continue
+
+**(00:53:19)**
+
+
+
+that... I am looking directly at the camera. We would very much hate to see this go away, so you can put that on video anywhere that needs to be seen, because the South Bronx needs our sanitation workers. Also, again, huge shoutout to Franklin here for everything that he has done. Okay, moving on.
+
+**(00:53:36)**
+
+
+
+Let us bring it over to our Council member. Thank you, Chair, and hello Commissioner, it is great to see you. This is my first hearing, my first questioning, so I am very excited about this. But as we were saying earlier, we have had a great relationship with the district and I am looking forward to that continuing. I had a couple of questions regarding street cleanliness and also wanted to pick up on some questions around the corner basket. So in our district I have received complaints about them going away, disappearing and not being replaced. For example, recently just at the corner of West 21st and Ninth Avenue, West 23rd Street and Tenth Avenue. It happens a lot in Chelsea. So I am just curious, what is the process for the removal of a bin? How is that decided and how long before that can be replaced in good time?
+
+**(00:54:34)**
+
+
+
+In the past, the department had a practice where if bins were routinely being misused or if we did not have the appropriate level of service for a bin, we would consider taking them away to avoid creating something that would draw additional trash. We no longer have that practice. I think it just sent the wrong message to New Yorkers that the department did not care about their neighborhoods and would not provide service to their neighborhoods. We do have, I think, somewhere on the order of 3,000 litter baskets that are currently missing or misplaced, based on where we think we are supposed to have litter baskets and the inventories that we do on a regular basis to see if they are actually there. There are a number of reasons they can go missing. Sometimes they grow legs, they get stolen, they get taken by a business and used for their own personal use. Sometimes they just get broken and our sanitation workers will recycle them, and it takes some time before we can have a new bin to put out.
+
+On very rare instances we will either remove or, more often, relocate a bin. So if there is a bin on one corner of an intersection, we move it to the opposite corner or to somewhere nearby where we think it will be more effective, particularly if it is being used... like in the pizza shop example that I used earlier, if there is a particular business that all of the trash in that bin seems to be coming from, maybe that business should have their own trash can instead of the public providing that service for them. So those are the situations. We know that we have a number of locations where trash cans are missing. I know we have put out, I think, on the order of 1,300 or 1,400 replacement baskets just so far this calendar year to replace baskets that have been missing. So we are working our way through that and hope to make a significant dent in it over the summer, especially as we get new OTPS funding at the beginning of the fiscal year.
+
+**(00:56:39)**
+
+
+
+If I notice a basket is missing and I call 311, how long does it take for that basket to get replaced?
+
+**(00:56:47)**
+
+
+
+If we have baskets in stock at that district, we can replace it same day. We are also going through systematically across districts, saying let us look at this entire corridor and make sure that all the baskets are there. So we are doing both of those. We do have to order more baskets in order to replace the full 3,000 or so that are missing, but we do plan to do that as soon as the new fiscal year starts this summer. Thank you.
+
+**(00:57:14)**
+
+
+
+And I have a question about the Big Belly bins.
+
+**(00:57:18)**
+
+
+
+Yes, and that rollout — very excited to see that it is going to be coming to the community board which is in my district in Manhattan. There was an article and an op-ed in the Daily News on the
+
+**(00:57:29)**
+
+
+
+eighteenth that was asking about... complaining about the fact that smaller buildings cannot use the Big Belly bins. That is a lot of the building makeup in the community board — smaller homes and brownstones. Those are taxpayers paying into a system that they cannot use. Is there a plan for smaller buildings to be able to have access to Big Belly bins in due
+
+**(00:57:51)**
+
+
+
+Of course. Absolutely. So we are rolling out the Empire Bins in Brooklyn community this fall and we intend to do just that. As we have allowed, there are two tests of shared stationary on-street containers, or Empire Bins, with smaller 1-to-9 unit buildings there.
+
+I think there are a few factors that we want to make sure we are considering. One is that someone has to maintain the bin. They have to keep the area around it clean. Sanitation comes through and our contractor comes through four times a year and does a deep clean of the bin, cleans the inside, cleans the outside, takes off any graffiti. But someone has to just pick up the litter that can accumulate.
+
+So we need that first and foremost. Second, someone needs to agree to have it in front of their property. I think you can imagine a beautiful brownstone block in the West Village where everyone wants to be able to put their trash somewhere, but no one wants trash right in front of their house. We want to make sure we have a way of determining where that should go.
+
+Then third, I think we do have to think through, if there are some buildings on that block that want to continue using their New York City bin, the smaller bins available at Home Depot, can we allow them to do that while also having the Empire Bins? What is the right scale that makes an Empire Bin actually an effective way to manage waste?
+
+But we are thinking through all of that and look forward to working with you next year when we roll out to Manhattan Community Board 2. All right, thank you. Great.
+
+**(00:59:27)**
+
+
+
+Okay. So I am going back to the removal of dog waste. I am going to go to my Bill 906 and then I will turn it over to CM Thomas-Henry. Are there instances where the Department removed reported animal waste and if so, what are the likely circumstances in those
+
+**(00:59:49)**
+
+
+
+situations? I would say generally no. I think our crews in the course of their business generally do not. If we get a dog waste complaint, that is considered an enforcement complaint, not a cleaning complaint. It is the property owner's responsibility to clean the sidewalk in front of their property. So if it is on their sidewalk, they have to clean it.
+
+**(01:00:13)**
+
+
+
+Would the Department require additional operational or personnel support to comply with the proposed legislation?
+
+**(01:00:21)**
+
+
+
+I think there are two things there. One, the current volume of blocks that would be covered by the legislation is relatively small. So far this calendar year, 63 blocks would meet the three complaints within a seven-day period as outlined in the Bill. That is a relatively reasonable number of blocks considering we have, who knows how many, across the City's 200,000 plus. Once you create an incentive for people to call 311 over and over and over again, they will do so. I worry that that 63 could turn into 6,000 pretty quickly, and that would be challenging for our current resources.
+
+The Bill also does allow for us to either clean the waste or do enforcement on the property owner, which I think is a good optionality for us. So as long as that remains the case, I think we would be able to handle it with a reasonable increase in the number of blocks under the current circumstances.
+
+How are complaints for animal waste handled? We have a canine unit within our sanitation enforcement agents that will go out and see if they can catch someone failing to pick up their dog waste. I will say we did a three-day stakeout in Mott Haven in 2024 that yielded one summons. We did in 2025 a week-long patrol in Washington Heights, Harlem, Crown Heights and Flatbush, all in response to 311, and got zero summonses out of that week-long patrol. So it is very challenging. Once someone sees someone in green walking down the block, all of a sudden they remember the right thing to do. It is when they think no one is watching that they do not.
+
+**(01:02:14)**
+
+
+
+And now, before CM Thomas-Henry, I also want to give a huge shout out to Junction Boulevard and their need for trash cans, please. And with that, I turn it over to CM Shanel Thomas-Henry.
+
+**(01:02:31)**
+
+
+
+Thank you. And thank you for plugging more trash cans in my district. I have a question first about alternate side street parking. Predominantly in my district we have one-sided street cleaning per day, but I have noticed throughout the City there are various days for the same side of the street. How does the Department determine which areas warrant additional cleaning on the same side for multiple days?
+
+**(01:02:56)**
+
+
+
+Yeah, so predominantly denser and more commercial areas have multiple days of cleaning on each side. The common setup is you have one side that is Monday and Thursday, the other side is Tuesday and Friday, which then means that there are four potential times that you have to move your car if you park on that block. I will say, if we can, as I mentioned in my testimony, substantially increase compliance, we are committed to reducing the frequency of alternate side parking down to just one day a week, at least on residential blocks citywide. That is something that I would really be excited about doing.
+
+**(01:03:38)**
+
+
+
+Next question. As Frank has been shouted out numerous times today, I want to shout him out as well for always being responsive, the entire team, to our needs. I have one situation that is particularly present in my district and I can imagine probably throughout the City. Households are becoming larger and larger, so there is a lot more trash and individuals are either taking their household garbage and putting it in the nearest litter basket, or the bins at that particular residence are just overwhelming. Have you looked at how to mitigate or help with this increased
+
+**(01:04:19)**
+
+
+
+trash? Yeah, we do a lot of enforcement in that area. Buildings with 1-to-9 units are responsible right now for containerizing their trash. The trash has to fit in the bin, not next to the bin, not on top of the bin, not exploding out of the bin. It has to be in the bin and the lid has to close. We have done a tremendous amount of enforcement on that as that requirement has been in effect over the last 16 months or so and we will continue to do so. We also have increased the enforcement that we are doing of misuse of litter baskets. We had a Bill that the City Council enacted a few years ago that allows us to use identifying information on an Amazon box or a piece of mail that is in a trash bag in a litter basket to issue an improper disposal summons, and we have really dramatically increased the amount of that enforcement that we are doing.
+
+**(01:05:14)**
+
+
+
+Okay. My last thing is more of a comment on behalf of some young constituents. Students in the fifth grade at PS 19 are working towards earning a certificate of civic readiness. Part of the process involves each class getting involved in a take action project. Each class was tasked with identifying a community problem and selecting a community leader to contact about it as part of their take action initiative. Their work regards the topic of garbage in their community. I did receive approximately 50 letters from fifth graders, including some photos.
+
+I do want to read one of them. "Did you know a lot of garbage gets thrown away in the street? I do not really like that because it could sometimes smell. So I think we need more sanitation police and they should give a lot of tickets to people that throw garbage. You can help us make the community better and healthier. Thanks a lot. P.S. Have a good day and I hope you make the streets cleaner."
+
+So approximately 50 letters from fifth grade students at PS 19, sent letters, sent photos. This is a photo with less police and a lot of trash, flies, rats and cleaner streets. That is on behalf of some of my younger constituents to the Department of Sanitation.
+
+**(01:06:41)**
+
+
+
+Great. Well, I would love to come out and meet with those fifth graders myself and
+
+**(01:06:44)**
+
+
+
+share my strong interest in cleaner streets
+
+**(01:06:48)**
+
+
+
+with them. Thank you. Thank
+
+**(01:06:53)**
+
+
+
+you. CM Thomas-Henry, I do want to echo that I have also had a number of students come and visit our office, all on dog waste initiatives. So as many schools as you want to visit and talk about street cleanliness, that would be awesome. Going back to the canine enforcement unit, and the sidewalk cafe initiative, places like Paris have tried things like poop scoopers and poop machines. Are there any thoughts on transitioning to an actual office of dog poop planning? Would
+
+**(01:07:36)**
+
+
+
+that be something that the Department would be open or curious about? I think that because of the challenge with enforcement in that area generally, as I have discussed before, it is a challenging place to try to dedicate our limited resources. We can get a lot more enforcement done on other areas of cleanliness in a much more productive and impactful way that leads to cleaner streets than assigning a sanitation enforcement agent to patrolling for dog waste violators and issuing maybe one ticket every couple of days. I want to make sure that you are not hearing me saying that I do not think this is an important issue, because it certainly is. But it is one that I think really demands creative solutions and accountability
+
+**(01:08:41)**
+
+
+
+from their fellow New Yorkers. It is not something that the Sanitation Department can do a lot about.
+
+**(01:08:46)**
+
+
+
+I appreciate that. I do want to flag that we do have other uniformed officers that patrol our subways and patrol our other places. So maybe we should transition from subway patrols to poop patrols, and even if we do not have tickets, our streets would be cleaner. I cannot speak for those
+
+**(01:09:07)**
+
+
+
+other guys. Moving on, I want to make sure that I touch on Speaker Menin's Int 0857. I just want to ask quickly: what would be required to install dog waste bag dispensers on all waste receptacles, and are there some baskets that are easier than others to act as better scaffolds for these dog waste bags?
+
+**(01:09:38)**
+
+
+
+The dispensers that we have right now only really work with the Better Bin litter baskets that we have been rolling out for the last few years. So that is around 6,000 of the 23,000 litter baskets that could host dog waste bag dispensers. We cannot put them on the wire litter baskets because the sanitation workers actually just pick up the entire basket and dump it in the truck, and having something on the outside would be dangerous for them.
+
+There obviously would be an upfront cost for purchasing and installing the dispensers. That is a one-time cost. I think where the bigger resource need is, and this gets into the conversation around having community partners, is in having someone checking the dispenser on a very regular basis to make sure that there are bags in there, that the bags are accessible, that the bags are not tied up and clogged and whatever. Because we do not want to be in a situation where we are telling people they do not need to take a bag with them and then there are no bags available. That is where the greater resource need is, and I think having community partners has been a tremendous help in the early pilot.
+
+**(01:10:48)**
+
+
+
+Absolutely. Speaking of sanitation vehicles, in terms of repairing and maintaining the vehicles, what obstacles stand in the way of promptly repairing out-of-service vehicles, how many fleet mechanic vacancies exist, and what is the Department doing to hire and retain these mechanics?
+
+**(01:11:16)**
+
+
+
+I would say mechanic staffing is one of the most important issues that we face right now. In the last administration, with the recurring hiring freezes and restrictions on civilian hiring, we really lost a lot of mechanics to retirement and were not able to replace them. So our fleet out-of-service rates have increased substantially. Our target used to be less than 20% out of service on a given day. Today we are happy if we get 26 or 27%, and often we will see certain types of equipment go over 30%, even as high as 40% out of service. That is a big challenge because it means that we cannot assign the resources we need to do the job that the public expects of us. It is an issue that we are having regular conversations with the Mayor's office about. That is yet another example of the previous administration leaving something behind that we are trying to grapple with.
+
+**(01:12:16)**
+
+
+
+I am going to hold myself back on that one. Can you talk about the fact that our sanitation trucks do not have any brooms or anything hanging off the sides to help potentially with any of the trash juice or trash debris that spills from the collection trucks? Are the sanitation workers required to sweep glass or debris from the street that results from collections, and what are the trucks equipped with to collect juice that results from refuse or recycling collection?
+
+**(01:13:00)**
+
+
+
+Absolutely, yes, they are required to have brooms and they are required to use them to sweep up spillage. I will let Chief of Department Anthony talk a little bit more about how specifically we enforce that with the sanitation workers. Obviously we need to balance them being able to do their job effectively while also keeping the streets clean and not causing a mess themselves. But let Anthony speak.
+
+**(01:13:25)**
+
+
+
+Thank you, Commissioner. Yes, absolutely. Every sanitation crew that goes out is required to have a broom and shovel equipped on the truck. They are required to pick up any spillage that is caused by them when they do service. Any material liquid, however, is a little tougher to sweep and shovel into a truck, and that just happens from time to time. But we do have hopper plugs that are supposed to be on the truck so that the juice stays within the truck. If you do have any instances where you did not see a spill being cleaned up, I would love to know those locations and look into it personally. Thank you so much.
+
+**(01:14:02)**
+
+
+
+Thanks. Let us talk about e-waste. What is the current state of residential curbside pickup, and if there is none, when could residents expect this service
+
+**(01:14:15)**
+
+
+
+to resume? There is currently no residential curbside e-waste collection. I think it is unlikely that we would restore that service in the future. It was created in response to the initial implementation of the New York State disposal ban, which I know Councilmember Brewer is going to say was 11 years ago and was not that long ago. But if you think about the way that TVs have changed over the last 11 years, at the time people were throwing out 40-inch TVs that weighed 250 pounds. Now you have a 65-inch and it weighs 25 pounds. So it is much easier for New Yorkers to take advantage of the disposal options that are available to them under New York State law on e-waste recycling.
+
+I will say, if there are improvements that we want to make to the options available to us, the convenience standards for e-waste recycling, that is another great conversation to have with our State counterparts around whether or not that program is actually working for New Yorkers.
+
+**(01:15:27)**
+
+
+
+Okay. And how does the Department currently manage batteries that enter the waste stream?
+
+**(01:15:34)**
+
+
+
+I will add, just as an aside, going back to e-waste, we have a program for larger apartment buildings called Cycle New York City that is actually run through the State take-back program. It serves around 19,000 buildings with 10 or more units, so that is available for larger buildings. E-waste manufacturers and retailers pay for that, so it is not something that taxpayers are paying for, and that has been really productive, with tens of thousands of tons of waste diverted over the life of that program.
+
+For batteries, our number one goal is: if you have a lithium-ion battery, do not throw it out in the trash. Every week we have 2, 3, 4, 5 trucks that catch fire because batteries are in the back of the truck and they explode. That is really, really dangerous. I ask every New Yorker: if you have something that contains a lithium-ion battery, which is basically anything that you can charge, do not throw it in the trash.
+
+The State has a battery recycling law where retailers that sell products that contain batteries or that sell rechargeable batteries are required to take back many of those battery products. Unfortunately, right now the State is the only entity that can enforce that law. I think that is somewhere that we have done advocacy in the past around giving the City the ability, because we have tremendous enforcement resources, to enforce take-back and recycling requirements around things
+
+**(01:17:19)**
+
+
+
+like battery waste. While we are naming things that we could enforce, the plastic bag ban, which we know a lot of businesses are not complying with right now, but we have no power to do anything about that. So I think those are all places where we could do more. Sounds like an intro to me. Let us go into Shahana's questions. Let us turn it over.
+
+**(01:17:59)**
+
+
+
+Thank you, Council
+
+**(01:17:59)**
+
+
+
+CM Brewer: Thank you very much. I just want to address the litter basket situation we have on the street. Obviously there are the ones that are the mesh, and then you have the new ones that you can pull out. The trouble with the newer ones that people complain about is they put stickers all over them. This is ironic that I am just talking about stickers, but they are still all over them. So I am getting complaints — you know, can you imagine people saying they want to go back to the mesh ones. So how are we dealing with the cleanliness of the ones that can take stickers? They all have stickers on them. I have more sticker questions, but have you thought about what to do about that issue? It does give... it is not a trash issue, but it gives an unkept image to the trash receptacles.
+
+**(01:18:44)**
+
+
+
+Yeah, I fully agree with you and we are looking at where we have the better bins and trying to put them in places where we think they will attract fewer stickers. We know, for example, we put some of the early models out along Bedford Avenue in Williamsburg and those things got totally trashed.
+
+**(01:19:02)**
+
+
+
+With stickers, yes — stickers, marker graffiti, everything, all kinds of stuff. So I think we have learned that there are some places where those better bins work really well. There are some places where a traditional wire litter basket is just fine. As we work to replace the roughly 3,000 or so missing litter baskets this summer, we are going to mostly do that with wire litter baskets, just because they are more cost effective. We could get one of those for just over $200. One of the better bins costs $1,200. So we can get more bang for our buck.
+
+CM Brewer: Okay. The other thing is — now maybe I should know this — but is the Department of Sanitation responsible for getting stickers off of street lights et cetera, or is that the Department of Transportation?
+
+**(01:19:47)**
+
+
+
+That is DOT's duty. So if it is on a receptacle of any kind, they would be responsible for getting it off.
+
+**(01:19:55)**
+
+
+
+That is correct.
+
+CM Brewer: Okay. But so your sanitation workers would only give a summons, but that is what is necessary if it was on sanitation infrastructure, so to speak.
+
+**(01:20:10)**
+
+
+
+Because it is complicated for them. I was out cleaning this weekend with people who pick up trash — the volunteers — and we were with our little receptacles and we were trying to figure out being the number one clean up. So there is a real concern. What can we do? We are talking about dog waste. Now we have got cigarette butt waste. Is there anything we can do for that? But the stickers were everywhere. The kids were trying to get them off the infrastructure. You would only be responsible for, you know, somebody who is advertising real estate — this is growing, throwing their stickers all over your trash bins — that would be you.
+
+**(01:20:46)**
+
+
+
+Yeah, and not only getting it off — somebody should go after that person. And we can do enforcement if there is identifying information in the sticker, like a phone number, a business name or address. We can then do posting enforcement, and it was on your receptacles or on any public infrastructure.
+
+**(01:21:07)**
+
+
+
+We need more of that. You can do enforcement, but you do not take it off.
+
+**(01:21:09)**
+
+
+
+Yeah, if it is a paper posting we can take it off.
+
+**(01:21:13)**
+
+
+
+These are ones with the vinyl. These are ones with the adhesive pieces, unfortunately.
+
+**(01:21:17)**
+
+
+
+Yes. And those are difficult to remove, and so our enforcement agents are not able to do that. It is the responsibility of the maintaining agency.
+
+**(01:21:26)**
+
+
+
+So you would give the ticket to the offending persons who are putting up the stickers, but you would not take it off. You know, it would be helpful for us. We have a huge need to understand the programs you just talked about for the larger buildings — for e-waste et cetera, recycling.
+
+**(01:21:48)**
+
+
+
+Yeah, to make it clear as to what it is. It is not clear to the public who is responsible for what, or even that these programs exist. So what are you going to do with the cigarette butts? There are thousands of them.
+
+**(01:21:59)**
+
+
+
+Yes, the cigarette butts are another issue that is very challenging for us. If they are on the sidewalk they are the responsibility of the property owner. If they are in the street they do get picked up often by mechanical brooms. You would be surprised if you saw what is dumped from a mechanical broom — what kind of stuff we can pick up with those brooms. But at the end of the day, if it is on the sidewalk it is the property owner's responsibility.
+
+**(01:22:26)**
+
+
+
+Okay. All right, thank you.
+
+**(01:22:29)**
+
+
+
+I wanted to ask a question briefly about the Precision Cleaning Initiative that remains active. Can you please describe the intent and the impact of this initiative under our current mayoral administration?
+
+**(01:22:44)**
+
+
+
+So the Precision Cleaning Initiative was funded back in 2021 to fill general cleaning resource gaps. This was in the wake of really bad budget cuts during the COVID pandemic. The Precision Cleaning Initiative was sort of a bucket of additional resources that we could assign where problems arose. As we heard from elected officials and others that there were issues in their districts, in the last administration those resources were predominantly used for addressing homeless conditions and encampments in partnership with the Police Department.
+
+This administration has changed its approach. Those cleanups are still happening, but there is a sustained amount of outreach and engagement that happens ahead of any cleanup. We are still using those resources to address those conditions as our partner agencies request them.
+
+**(01:23:44)**
+
+
+
+Okay, great. Actually, let us stay on this topic. We are going to be talking about the interagency homeless encampment task force. Can you please describe the department's present role in the interagency homeless encampment task force? Specifically, if you could go into how many department staff are dedicated to this task force, what the approximate cost is for the department's involvement in the task force, what the process is by which the task force determines where to conduct its operations — and then we will have some more questions after, but let us start there.
+
+**(01:24:18)**
+
+
+
+Yes. I will start with cost and resources. We have 21 sanitation workers that are funded through the Precision Cleaning Initiative. Not all of those are on homeless encampments. If there are no homeless encampment cleanings scheduled for a given day, they are sent out to do other productive work, either sweeping along commercial corridors or emptying additional litter baskets or whatever work there is to do in those districts.
+
+The department's current role is that when the task force identifies a location that is ready to be cleaned — after sustained engagement over the course of several days with the individuals and clients that are present — they will call us and we will do a joint engagement where we will help to get the client to housing if we can, or at least get them to identify what is trash amongst the stuff that is on premises, and we will take that material that is identified as trash.
+
+**(01:25:24)**
+
+
+
+Is the department staff permitted to issue a notice of violation when performing task force operations, or are they only present for cleanup purposes? If they are permitted, what are the most common violations cited during these operations?
+
+**(01:25:43)**
+
+
+
+They are generally present for cleanup purposes only.
+
+**(01:25:45)**
+
+
+
+Great. And then if you can talk about this: how does the department balance its interests in cleanliness with awareness that the City is dealing with an affordability crisis and the impact on individuals who are experiencing housing insecurity?
+
+So again, we only participate in these kinds of cleanups when the task force calls us in and after they have done sustained engagement over the course of several days. We want to treat individuals experiencing homelessness as real people who have real — sometimes often serious — issues that they need to deal with, and we are not the best agency to be able to address those. We do come in to...
+
+**(01:26:35)**
+
+
+
+...clear any material that is identified as trash. Thank you.
+
+**(01:26:41)**
+
+
+
+And I heard the magic number — 21 workers in this Precision Cleaning Initiative. Just 21 workers. That also sounds very notable. So speaking of workers, there is also the Targeted Neighborhood Task Force, which remains active. Can you please describe the intent and the impact of this task force under the current mayoral administration?
+
+**(01:27:05)**
+
+
+
+Yeah, it is a great program. For a bit of a history lesson, there was a Deputy Mayor back in the 1980s — Leventhal — who wrote a very boring but now somewhat notorious memo that basically said DOT does this, Parks does this, Sanitation does this, and everything else is kind of no one's job. For three decades the City followed that memo to a T. So there were lots and lots of places across New York City that had no agency that was responsible for maintaining them or cleaning them on a regular basis.
+
+**(01:27:52)**
+
+
+
+The Targeted Neighborhood Task Force seeks to solve that problem. Particularly over the course of the last decade, we have created new public spaces and new public infrastructure — things like plazas and daylighting bulbs at the end of the street, all kinds of things that are built on a regular basis that someone needs to maintain. So the task force exists to be able to clean those locations on a regular basis. We have some 1,786 sites that we clean on a regular basis through that program. We are happy to add more locations to that list if you have identified any in your district that should be on it.
+
+**(01:28:34)**
+
+
+
+And it is, I think, a really productive and really effective use of resources.
+
+**(01:28:39)**
+
+
+
+How does the department's illegal dumping prevention and enforcement work?
+
+**(01:28:46)**
+
+
+
+So many times those locations that were previously no man's land were also subject to illegal dumping. So you will find a lot of the places where we have crews assigned also now have our illegal dumping cameras where we are doing illegal dumping enforcement on a regular basis. If a crew encounters illegally dumped material or piles of trash or a couch, it gets cleaned up.
+
+**(01:29:14)**
+
+
+
+Speaking of piles of trash, let us just address these questions real quick about CM Hankerson's legislation. Does the department track the proper disposal of waste, and what percentage of improperly disposed of...
+
+**(01:29:31)**
+
+
+
+We do not track improper disposal or differentiate when we are responding to illegal dumping what kind of trash it is. I think by and large most construction and demolition waste in New York City is managed through a BIC-registered hauler. I think a lot of what you see as illegally dumped material comes from smaller renovation jobs or contractors that are not licensed by BIC. And so I think that is...
+
+**(01:30:05)**
+
+
+
+...definitely an area where we think greater coordination is possible, and I think additional regulation and lawmaking is probably needed. Our concern about this Bill is not about the approach that it takes, but just that we do not necessarily understand the industry well enough as the Department of Sanitation to be able to weigh in fully on how this would impact construction. So we want to make sure that we are working with BIC and others to understand the full impact here and make sure we are taking the right...
+
+**(01:30:41)**
+
+
+
+...action. Given that you do not fully understand this, I can understand if you cannot answer this next question, but...
+
+**(01:30:50)**
+
+
+
+...in your opinion, is there a correlation between unpermitted construction and demolition waste and the illegal dumping of this kind of waste, or is that something that you need more information on?
+
+**(01:31:00)**
+
+
+
+I think there is likely a correlation there, but we have not done any data...
+
+**(01:31:03)**
+
+
+
+...analysis to confirm that. Okay. So...
+
+**(01:31:07)**
+
+
+
+I could just briefly add on that topic: as you will recall from our last hearing on the Solid Waste Management Plan, one of the eight subject areas that we are focused on in the Solid Waste Management Plan for the first time is the construction and demolition industry, from a holistic waste management perspective. So I think at a minimum, as we do that work and engage with stakeholders and explore the potential for more sustainable, less impactful construction and demolition facilities across the City, I think this is an issue that we should certainly bring into that conversation.
+
+**(01:31:46)**
+
+
+
+Thank you for that. Just to give a road map of where we are going to go for the rest of the Council members: we are going to go into the questions, we will go into CM Brewer's legislation on commercial organic waste, then we will go into the containerization legislation in general, and then end with highway cleaning. We are almost there.
+
+Okay. So for Empire Bins: the department has begun installation of containers, also known as the Empire Bins, to hold residential trash and recycling between collection days. How does the department intend to enforce cleanliness standards to keep the areas around them clean? The white bollards that are installed around the Empire Bins to increase visibility to cars are occasionally knocked off or, you know, maybe not intentionally severely damaged — who knows. Has the department developed any strategy yet to minimize this occurrence?
+
+**(01:32:54)**
+
+
+
+Absolutely. Right now we have Empire Bins in Manhattan Community District Nine alone and we are doing enforcement up there, particularly around parking either obstructing the bin or parking too close to the bin, which prohibits us from collecting it. We do need a few inches on either side in order to safely get the truck in there, because we do not want to drop a bin on someone's car and then it becomes our problem. So we are doing that enforcement today and expect to scale that up in the future. The cleanliness — that is something that we actually have a rule that we published, I think last week, as we expand the program to Brooklyn Community District.
+
+**(01:33:38)**
+
+
+
+...that more clearly establishes the cleanliness responsibilities of the property owners that host the bin, in terms of keeping the bins themselves clean, keeping the area immediately around the bins clean, and also removing snow, particularly from the tops of the bins, so that we can collect them following a snowstorm.
+
+Has the department observed any issues making the Empire Bins accessible to the building's waste management staff, and if so, what can staff members do or who can they contact to regain access to these bins?
+
+**(01:34:13)**
+
+
+
+We have not actually identified very many issues at all in that regard. The biggest challenge that we have had in Community District Nine is that DOT has a really ambitious milling and paving schedule, particularly after this last winter. So as they have had to mill streets in order to repave...
+
+**(01:34:33)**
+
+
+
+...them, we have had to relocate some bins temporarily. While those bins are relocated, we do lock them so that people are not using them while we cannot service them.
+
+**(01:34:43)**
+
+
+
+So that is a temporary change. During that change, people are putting their trash out in bags as they historically have.
+
+**(01:34:50)**
+
+
+
+Can you also go into any recurring maintenance issues that the Empire Bins have faced?
+
+**(01:34:58)**
+
+
+
+I think — I mean, you can go up to Manhattan Community District Nine today and walk around and see them. I think they look great and they stay relatively clean. We have our contractor cleaning them four times a year, and I think we are looking to refine whether that is the right number of cleanings. It might be that we have to do it more frequently in some parts of the City and less frequently in others. But they have been out there for a year, they look really good, and I think we are really pleased with them.
+
+**(01:35:26)**
+
+
+
+I was excited to see the new bins at Belmont. I was sad I was not there to help open them up, but they look really lovely. So speaking of Manhattan Community District Nine, can you describe lessons learned from that pilot and how the department is taking that information into the areas where the program is expanding?
+
+**(01:35:47)**
+
+
+
+So I think the great thing about Manhattan Community District Nine, and one of the reasons that we started there, is that they have two things that make it really easy to test a program like this. They have really straight streets and a really rectangular grid, and they have relatively consistent building typologies across individual blocks. So instead of solving for every potential variable, we were just testing...
+
+**(01:36:16)**
+
+
+
+...do the bins work, can the trucks pick them up, do people use them. And on those three...
+
+**(01:36:23)**
+
+
+
+...factors, I think it has been a wild success. As we expand to Brooklyn Community Board this fall, we will get to a much more varied streetscape. We will get to a much more complicated set of streets that have one-ways, two-ways, more left and right side trucks that we have to take into account. We will also have some very large buildings for the first time in this program that will require three, four or five bins to set out their waste appropriately.
+
+So I think we are looking forward to testing how those different factors affect the bins. Do we need to change the frequency of collection in order to reduce the number of bins that we are putting out? Can we use, as we discussed before, the shared stationary on-street containers for smaller buildings — either the one-to-nine unit buildings that are currently required to use bins, or the ten-to-thirty unit buildings that have a choice between bins and Empire Bins? Those are all things that we are looking forward to testing this fall.
+
+**(01:37:32)**
+
+
+
+So in the test pilot, curious because all of the waste needs to be containerized. How are residents expected to deal with bulk materials like mattresses, and what happens when they are in the finalized containerization?
+
+**(01:37:51)**
+
+
+
+They can set their bulk material out for rear loader collection. So we do not collect them in the container trucks. We collect them with a separate rear loader truck that continues to service every single street in the neighborhood.
+
+**(01:38:02)**
+
+
+
+Awesome. And then do enforcement agents have discretion when it comes to summonsing the uncontainerized trash?
+
+**(01:38:16)**
+
+
+
+Enforcement agents always have discretion. We encourage them to try to be as consistent in their application of the law as they can be, because enforcement is only effective if it is consistent and expected.
+
+**(01:38:29)**
+
+
+
+And so that is what we try to achieve.
+
+**(01:38:32)**
+
+
+
+Is the department aware of
+
+**(01:38:33)**
+
+
+
+any expansion of the rat contraceptive pilot program in areas where containerized bins will be installed over the next year, and if so, is there anything you can share with us about the rat pilot program to date?
+
+**(01:38:48)**
+
+
+
+I think we have to defer to the Department of Health and Mental Hygiene on that one.
+
+**(01:38:53)**
+
+
+
+Thank you. Has the department made any further determinations as to the assignment of containerized bins to multiple residential buildings as opposed to a one-to-one assignment?
+
+**(01:39:14)**
+
+
+
+Yes, that is what I was referring to earlier on the shared bins. You know, you could see a case where you have two buildings next to each other that are in the 10-to-30 unit category. They do not necessarily each need their own bin if one building is willing to host and maintain the bin for both. There are a lot of situations where you have smaller buildings like that where they already have shared building maintenance staff or a shared super across multiple buildings. That is a great example of where you would have one bin serving multiple buildings.
+
+**(01:39:44)**
+
+
+
+We also are looking forward to testing
+
+**(01:39:47)**
+
+
+
+containerized bins for blocks that have smaller buildings, so long as we can, as I discussed before, find someone who is willing to have it in front of their property, someone who is willing to maintain it, and get the right number of people on board to use the bin so that it makes sense. Excited to see that in the Bronx community board where we have a lot of our smaller houses where the bins will be coming next spring.
+
+**(01:40:14)**
+
+
+
+Very exciting. Has the department begun to administer any fees to the owners of residential buildings for the City's installation and maintenance of these bins, and if so, where are these fees being administered, or when does the department expect to begin doing that?
+
+**(01:40:30)**
+
+
+
+So the City Council has authorized us to assess fees up to $55 per unit for the provision and maintenance of the bins. We have not at this time imposed any of those fees. Right now we are just in one community district. We are expanding the pilot to another community district this fall. I think we will have that conversation
+
+**(01:40:47)**
+
+
+
+as we get to the larger citywide rollout in the future. How nice of you. Can you speak to what the current status is of our sanitation trucks that accommodate the containerized bins? What is the procurement method to acquire these trucks, and what is the timeline for when a US supplier might be able to establish the manufacturing process, and does that align with the department's goals of citywide containerization by 2032?
+
+**(01:41:16)**
+
+
+
+So the trucks are currently built in the US. The chassis is built at a factory about 10 minutes away from where I grew up. I was out there at the factory a couple of weeks ago. It is really cool. I encourage you to go out there if you can. The bodies are made right now in Italy and they are shipped over and assembled into the final truck out on Long Island. So much of the work is happening in the United States. We would love to have the bodies manufactured here in the US — one, because we believe in the power of American labor, and two, because we like to have our suppliers close so that we can really hold them accountable. So we have
+
+**(01:41:59)**
+
+
+
+had some preliminary discussions with the Italian body manufacturer about potentially onshoring either individual component assembly or the full manufacturing process here in the US, and are excited about the prospect of doing that.
+
+**(01:42:15)**
+
+
+
+Who would know that our sanitation trucks are Italian? And the bins are Spanish. Wow, we are quite
+
+**(01:42:24)**
+
+
+
+European here. Looks like we need a vacation. On this lovely summer day. Now let us talk about the wheelie bins. The Department of Sanitation dictates that buildings with up to nine residential units use an official bin starting next month. What can owners of these buildings expect in terms of outreach, education and enforcement after June 1?
+
+**(01:42:47)**
+
+
+
+So we have done a tremendous amount of outreach and education. We are, I think as we do with any new program, going to start with a warning period. We are hoping to announce the details of that warning period in the coming days. But you know, we have heard from people who have said they went to Home Depot and could not find the bins. What can they do? And we absolutely want to give them the opportunity to buy the bin and use it properly. They should not be responsible for the fact that there are shortages of bins, so we plan to be very flexible with that warning period. Will the department issue notices to buildings which use a bin that is not official but otherwise meets the size requirements for such containers? The department will at some point in the future do that. Yes.
+
+**(01:43:42)**
+
+
+
+Are there any City resources available for homeowners who do not have immediate access to disposable income for replacing their unofficial wheelie bins with official New York City bins?
+
+**(01:43:52)**
+
+
+
+Yeah, the City Council did authorize a program for certain homeowners that meet certain eligibility criteria for some affordability programs to have reimbursement for their bins, and the uptake on that program has been very positive. Lots of folks have bought their bins and gotten reimbursed through the Department of Finance. How will... so people buy these new bins and they have to throw away their old ones. How is the department handling the disposal of old bins, and how are building owners required to recycle their old containers? So if they set their old bin out on the recycling day, put it in the recycling bin.
+
+**(01:44:36)**
+
+
+
+You hear that? Just put it out on the trash and recycling day.
+
+**(01:44:39)**
+
+
+
+That is specifically on the recycling
+
+**(01:44:41)**
+
+
+
+day. On recycling day it might go in the trash. Okay.
+
+**(01:44:44)**
+
+
+
+Okay. Are there any specific reasons outside of the last administration that we are just using the officially branded wheelie bins exclusively? Are the side-loading trucks unable to accommodate similar bins of different brands?
+
+**(01:44:59)**
+
+
+
+So the bins are not collected with side-loading trucks. They are collected on the back of our rear loader trucks, which we are adding to every new truck that gets delivered to us going forward. So at some point, probably three or four years from now, we will have tippers on every truck and we intend to use them to collect the bins. I think the model that the last administration pursued was an exclusive concession to one company as a way to keep the cost of the bins low. The cost is, I would say, $20 or $30 less than the equivalent off-the-shelf retail bin. But one of the things that we have seen over the last six months in particular is that having only one supplier means that you have to deal with the whims of that supplier and whether or not they want to make bins on a given day. So there is one supplier that is making the New York City bins and we do not intend to change that in the immediate future.
+
+**(01:46:11)**
+
+
+
+And has the supplier fully cleared its backlog of orders and deliveries on wheelie
+
+**(01:46:16)**
+
+
+
+bins? Yeah, every order that was placed online was delivered by April 1 of this year. So right now the only way to purchase a New York City bin is by either going to a Home Depot or by ordering them through one of Home Depot's online delivery partners — Instacart and DoorDash, I think. So you can get a bin through one of those mechanisms. I think one of the things that we would like to explore further, and we have heard interest from several Council members on, is can we do a local event where we are offering bins for sale in the community, so that people who maybe do not live near a Home Depot and do not have a car and cannot drive to Home Depot can just go to their local park or green market and buy one. I think we have to think through the logistics of how that works and how the department can staff that, but it is something that I would like to explore. That would be great. Plus one to that. More than happy to help host one in the South Bronx.
+
+**(01:47:14)**
+
+
+
+What strategies do you believe could be implemented in neighborhoods where buildings have limited frontage and very narrow sidewalks, like those in the South Bronx, causing compliance with containerization requirements by low-density buildings to create pedestrian obstructions? Specifically, has the department performed any analysis of how containerization-caused pedestrian obstructions impact the likelihood of hazardous sidewalk conditions?
+
+**(01:47:41)**
+
+
+
+We have not done specific analysis of that. We do understand that the sidewalks are a constrained environment, and particularly on streets where you have commercial ground floors and residential second and third floors, you can have a lot out there because the business has to have a bin and the residential property has to have a bin. There are just bins everywhere. So that is a place where I think the shared stationary on-street containers or shared containerized bins could be really effective. You could have all of the residents on one block put their trash in a containerized bin and reduce the number of wheelie bins that are floating around. But we just need to make sure that we can do that effectively and that we have a maintenance agreement in place for the
+
+**(01:48:29)**
+
+
+
+containers. Great. With that, I love my wheelie bin. But when you get to Manhattan you have got a different group of people. So we purchased our wheelies. We like our wheelies. So we have to give them up and do the stationary? That is not going to make people happy. In other words, we want to keep the smaller buildings all having the wheelies.
+
+**(01:48:54)**
+
+
+
+The only... yeah, I appreciate that. I love my wheelie too. The only buildings where we are saying that you have to use the containerized bins are 30-plus unit buildings, which generally do not have
+
+**(01:49:05)**
+
+
+
+... I understand that. But you were saying earlier that maybe you would have more shared... I do not know what you called them, the containerized bins.
+
+**(01:49:15)**
+
+
+
+That was not clear what you were saying, because you were saying that maybe in the future everybody on the block could share the stationary. What I was trying to say was that we would need enough people on the block to opt into using the containerized bin in order for that to make sense.
+
+**(01:49:32)**
+
+
+
+When you get to Manhattan, can you be a little bit clearer, because people who already bought their $51 bin are not going to want to give it up even for $51 to use the one that is stationary. We appreciate that. All right. And then secondly, I guess they are going to start charging because they love it in District 9 — they do not pay a thing for it. Okay, I am just being clear.
+
+**(01:49:52)**
+
+
+
+Now when you get to
+
+**(01:49:52)**
+
+
+
+Manhattan, then you have people who are being charged and they are not going to like it so much. You said the building that has the bin has to clean it, but I thought we were suggesting that we pay the sanitation department so that the sanitation department cleans that bin. Who is cleaning the bin?
+
+**(01:50:09)**
+
+
+
+The sanitation department and our contractor do maintenance and four times a year cleaning. What the property owner is responsible for is cleaning any litter or debris that accumulates around the vicinity of the bin.
+
+**(01:50:22)**
+
+
+
+Okay, so that $55 — which I voted against on a regular basis — that is what you are paying. The co-op and condo people are going to be paying for sanitation to clean it four times a year. We have not at this time actually moved to
+
+**(01:50:37)**
+
+
+
+implement the $55. I think we should get rid of that $55. It was authorized by the City Council
+
+**(01:50:40)**
+
+
+
+and I did not agree with that. Thank you. Talk about a notice and comment period. I want to actually go further into the containerized bins — the new boo-boos of New York City residents. How is sanitation taking measures to ensure that enforcement does not unfairly penalize homeowners who have had their trash can lid or bin stolen from them as they have gone through the process? They paid the $51, then someone steals their bin because it is worth $51. How do we make sure that we are not unfairly penalizing those homeowners if they are in the process of getting a new bin?
+
+**(01:51:30)**
+
+
+
+So I think the first thing is right now we are not enforcing the requirement to use a New York City bin, and we expect to have an extensive warning period in place. We have not seen a tremendous amount of theft. If there are specific locations where Council members or community members are seeing that there is a lot of theft occurring of New York City bins, we would love to hear about it to try to talk through what the potential solutions could be. Just flagging for you, there is a community board where it is coming up a lot — regular trash cans are being stolen from their homes.
+
+**(01:52:08)**
+
+
+
+So just imagine once we have required trash cans, understanding what will happen. That is a huge concern in the district as it rolls out. They are excited but also they are like, what happens when they steal our trash cans again, and this time it is a $51 New York City trash can. So making sure that if there is any guidance you could provide in terms of what happens if there is a notice of violation, and what steps homeowners should take so that they can defend against a notice of violation when their bin was just stolen.
+
+**(01:52:48)**
+
+
+
+Okay, we have to work on that. Thank you so much. Moving on — has the department considered implementing temporary property-specific exceptions to waste containerization requirements for when building owners need to manage a surplus? Can you speak to whether the department still offers pre-scheduled bulk collections from residential buildings, and what property owners should do if they are experiencing atypical waste volumes and having to choose between putting themselves at risk of attracting rodents by storing excessive waste until container volume becomes available, or receiving a citation for placing waste directly on the curb?
+
+**(01:53:33)**
+
+
+
+So bulky waste should not go in the containers. That will just cause the containers to overflow. Bulky waste can be set out on the curb as it normally would on the appropriate day for bulk waste collection. In many parts of the city that are denser, they receive bulk waste collection multiple times a week. In less dense areas they receive bulk waste collection just once a week. You can go on our website, put in your address and find out your collection schedule for bulk waste, trash, recycling and
+
+**(01:54:08)**
+
+
+
+compost. Thank you. Can you share any findings regarding the time required to complete collection routes in fully containerized areas? Have you seen that it typically takes more or less time than when the same area had not been containerized?
+
+**(01:54:23)**
+
+
+
+Right now we only have Manhattan Community District 9 to work from, and in general they are completing the routes as we have designed them within target. So we are very pleased with the effectiveness of the collection. I will say the fact that we have to run left-side trucks, right-side trucks
+
+**(01:54:43)**
+
+
+
+and rear loader trucks all on trash collection all in the same district on the same day does mean that it is not more efficient at this moment than just running rear loaders. But we think that the benefit of containerization outweighs the small additional cost of that collection resource.
+
+**(01:55:03)**
+
+
+
+What analysis, if any, has the department undertaken to determine an acceptable loss of parking space caused by containerization? I do not see it as a loss of parking spaces. I see it as an allocation of public space. When we released the Future of Trash report several years ago we did an assessment of all of the available street parking and projected what containers would take up. It is a relatively small number — I think less than 4% citywide. As we continue to expand the program, we will continue to refine our approach. If we can use more shared containers, that is less impact on parking. We know that there are some places where there will not be a parking lane at all.
+
+**(01:55:50)**
+
+
+
+So we have to look at whether the sidewalk is wide enough that we could put containers on the sidewalk versus in the street. There will be some places where there is not enough sidewalk space and there is no parking lane, so we need to find alternative means to containerize those buildings. We are sort of taking an all-of-the-above approach.
+
+**(01:56:09)**
+
+
+
+Speaking about adjustments — is there any conversation at all... I understand that the tippers are being added to the back of the trucks, but for routes where cars are densely parked along the curb and it might not be practical, is there any conversation about
+
+**(01:56:22)**
+
+
+
+The potential of using side-loading tippers — not at this time, in part because the rear-loader trucks are so flexible because they can collect material from the containers, they can also collect loose bag material, they can collect litter baskets, they can collect bulk material.
+
+**(01:56:42)**
+
+
+
+So there really is a sort of Swiss Army knife of a truck, and a dedicated side loader for just New York City bins, I think, would be a little too specific.
+
+**(01:56:52)**
+
+
+
+Okay. Let us move on. Let us finish up the bills and then highway cleaning, and we will have wrapped up. So talking about a litter and recycling bill, Int 0031-2026 — how does the Department determine which establishments are designated as covered under existing commercial organic waste source separation requirements?
+
+**(01:57:17)**
+
+
+
+So part of the challenge with the existing law is that it is very difficult to determine which businesses are covered because there are thresholds in the law around square footage, around the number of patrons a business serves, around the number of rooms in a hotel, and our enforcement officers do not have access to that specific information at the time they are doing an inspection or as they are going by a building or business. So we think that with the rollout of commercial waste zones, and the fact that commercial waste zones requires carters to offer composting at or below the cost of refuse collection, that this is the perfect time to expand that requirement to all food-related businesses, make enforcement much more straightforward, and also make it so much easier to communicate with businesses about what they are required to do.
+
+**(01:58:03)**
+
+
+
+Given that, approximately how many businesses does the Department expect will fall into the new definition of covered establishment? Do you think it is then everyone?
+
+**(01:58:14)**
+
+
+
+Yeah, it will be every food-related business. So every business that makes or sells food will be covered because there is just inherently some amount of waste that comes along with that. So about, you know, delis, bodegas, restaurants, grocery stores, food manufacturers of all sizes would be covered, but they will all receive their compost collection at or below the cost of their trash collection.
+
+**(01:58:37)**
+
+
+
+Oh, what enforcement issues, if any, does the Department foresee when considering the impact of this Bill? I really do not see enforcement challenges.
+
+**(01:58:46)**
+
+
+
+I think the fact that it will roll out as commercial waste zones are rolling out across the City makes the outreach and education component much easier, because we will already be talking to every business in the zones as they roll out. Multiple times we will have to go back to those zones that have already rolled out. We know that right now the adoption of organics collection is quite low — less than 3% among businesses that have signed up for a hauler in one of the existing six commercial waste zones. So there is a lot more work to do there. But we are certainly happy to go back to those zones and do more outreach and education.
+
+**(01:59:22)**
+
+
+
+Thank you. Let us switch gears and speak about a bill, Int 0736-2026. How many street activity permits has SAPO issued in the last three fiscal years? I do not have that number. I would also note you do not know if SAPO has the staffing needed to comply with this. We cannot speak for them, but we know that the administration does not want this Bill. Is DSNY responsible for waste removal from street activities, or do those responsibilities fall to private carters?
+
+**(02:00:01)**
+
+
+
+It is either... private events can either pay for our service. Practice today and going forward is that we send trucks for refuse, paper, metal, glass, plastic and organics collection. So we send dual-bin trucks to collect four streams, or they can pay for a private carter to haul the material.
+
+**(02:00:25)**
+
+
+
+Are the City's composting facilities capable of processing plastics marked as compostable? If so, how are these materials dealt with? If not, have such plastics in the waste stream caused any issues for our municipal composting facilities?
+
+**(02:00:38)**
+
+
+
+I would not say that they have caused issues. I will say that the screens that separate out non-compostable plastics from the compost also do separate out compostable plastics from the compost. That is a screen that just determines how big something is and cannot tell what kind of material it is made out of. That said, if a compostable material does make it through the initial screening process and through the composting process, it is much more likely to break down into the actual compost than a traditional plastic, which then gets screened out again at the end of the process. So it is more likely that they actually get composted, but generally they probably are not. Okay, moving on to my bill...
+
+**(02:01:24)**
+
+
+
+Int 0883-2026, about sidewalk cafe sanitation. Within the Department, how many sanitation violations has the Department issued to sidewalk and roadway cafes in the last year? So we do not actually have a separate violations code for sidewalk and roadway cafes, so that would just be in a dirty area or dirty sidewalk. Okay. And how do roadway cafes impact the Department's trash collection service or street sweeping operations?
+
+**(02:01:56)**
+
+
+
+I would say during the pandemic, when we had the pandemic-era program which had much broader adoption, there was greater impact. Right now I think that the Department of Transportation has done a really good job of thinking through the siting requirements and the regulations around where these things should be and how they should be set up and maintained. So the impact on our operations is relatively minimal. Thank you.
+
+**(02:02:24)**
+
+
+
+And we cannot talk about street cleanliness without talking about our highways. Thank you. Over each of the last several fiscal years, the Department's highway unit has increased the number of highway miles cleaned. Can you please describe these expanded operations, which highways have been impacted by the expansion, and are there any areas that have not been previously covered by the unit, or is the increase due to repeated cleanings in the same area?
+
+**(02:02:50)**
+
+
+
+I think largely the increase is due to repeated cleanings in the same area, in part because as we have been able to clean highways, we are sort of starting from a better place and we can move faster. We are also just learning as we go. When we first started this effort back in early 2023, it was something that we had never done before and we were — I think rightfully so — very, very cautious about putting our crews on highways, and the amount of supervision and safety and additional support that we needed to feel comfortable doing that. Now we have, you know, this is routine business for us. So we know how to set up a safe work area very quickly, we know how to operate within the safe work area, and we are able to cover more ground more quickly.
+
+Since the Department officially took over highway cleaning in 2023, how often has the Department had to call on outside equipment or personnel to complete highway cleaning? I will note...
+
+**(02:03:48)**
+
+
+
+...that our highway cleaning service is a supplemental service. The primary responsibility for cleaning and maintenance of highways still rests with New York City DOT, and they do still do that. We are predominantly out there cleaning litter and other trash, whereas they will send crews that do a more comprehensive maintenance of the highway all at the same time — they might fix some signage, they might fix a guardrail while they are also cleaning. So our crews are dedicated to just cleaning the highways. As this program has grown and matured, we have our own fleet of highway-specific equipment, so we are less reliant on equipment like attenuators and heavy-duty mechanical brooms than we have been in the past.
+
+**(02:04:35)**
+
+
+
+From the actions thus far since 2023, does the Department have any insight as to whether it would be cleaner if the Department of Sanitation had sole control of cleanliness of the highways, as opposed to the dual licensure, if you will?
+
+**(02:04:55)**
+
+
+
+Yeah, I think the highways today are much cleaner than they were three years ago. I think we are in a very good spot on highway cleanliness and this shared responsibility, I think, works. DOT is doing more general maintenance. We are specifically cleaning the trash and litter. We know what we are good at, which is trash and litter. They are good at infrastructure maintenance and sort of more general upkeep, and we know how to split that between the two agencies. Great. And what...
+
+**(02:05:26)**
+
+
+
+...highways were cleaned most frequently over the last 12 months, and is there a criteria or process that is used to decide which highways to clean?
+
+**(02:05:34)**
+
+
+
+We have them all on a rotating schedule, and we are out there every day of the week. At some locations, you know, if we have to do lane closures or things like that, we try to go in at times where it will not impact traffic as much, but we are out there cleaning every highway on a regular...
+
+**(02:05:53)**
+
+
+
+...basis. And how do highway cleaning operations shift across seasons? Does snowfall impact these operations?
+
+**(02:06:01)**
+
+
+
+It absolutely does, both in terms of our resource availability if we have to divert cleaning crews to snow removal, as well as just our ability to access parts of the highway. If there are piles of snow on the side, we can certainly get to the litter. I think the best time for us to clean is sort of, you know, through the beginning — before the grass starts to really grow — we can get in there and we can really get the litter that is underneath all of the roadside plants and landscaping.
+
+**(02:06:38)**
+
+
+
+And last but not least, are there any questions that I have not asked over these last three hours that I should have asked?
+
+**(02:06:42)**
+
+
+
+It has been pretty comprehensive. Thank you so...
+
+**(02:06:46)**
+
+
+
+...much. I appreciate it. And to all of my colleagues that have still joined us here today, I appreciate you spending time with me. Thank you. And now we will — I want to make sure I say the words right...
+
+**(02:07:01)**
+
+
+
+We are going to take a five-minute break and then when we come back we will begin with in-person testimony. Stay tuned. If everyone can just please find their seats, we are getting ready to begin. Thank you. We will be restarting. Can I first bring up... Justin?
