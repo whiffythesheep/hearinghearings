@@ -7,7 +7,7 @@ slug: committee-on-criminal-justice-voting-on-rikers-island
 duration: "3hrs 18m"
 youtube_url: "https://www.youtube.com/watch?v=8uJnF1JUBAM"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402154&GUID=1BB4B79F-23B1-4C97-94F0-1960B9585F2B&Options=info|&Search="
-chairs: "Selvena N. Brooks-Powers"
+chairs: "Selvena N. Brooks-Powers | Gale A. Brewer"
 members: "Gale A. Brewer, Tiffany L. Cabán, Oswald J. Feliz, Frank Morano, Mercedes Narcisse, Yusef Salaam"
 ---
 

@@ -452,6 +452,11 @@ def build_committee_chair_lookup(content_dir):
     in co-committee chairs on joint hearings, we use the fact that those same
     committees often appear as the lead in their own standalone hearings — so their
     chair is already in our archive.
+
+    Also merges in entries from committee_chairs_supplement.json at the repo root
+    for committees that have never appeared as a lead here (those would otherwise
+    be missing). Manual entries override extracted ones (intentional — the user
+    edits the JSON when they want to correct a stale extraction).
     """
     from pathlib import Path
     lookup = {}
@@ -474,6 +479,19 @@ def build_committee_chair_lookup(content_dir):
         for committee, chair in zip(committees, chair_field):
             if committee and chair:
                 lookup[committee] = chair
+
+    supplement_path = Path(content_dir).resolve().parent / "committee_chairs_supplement.json"
+    if supplement_path.exists():
+        try:
+            with open(supplement_path, "r", encoding="utf-8") as f:
+                supplement = json.load(f)
+            for committee, chair in supplement.items():
+                if committee.startswith("_") or not isinstance(chair, str):
+                    continue
+                lookup[committee] = chair
+        except (json.JSONDecodeError, OSError) as e:
+            logger.warning(f"Could not load {supplement_path}: {e}")
+
     return lookup
 
 
