@@ -261,9 +261,9 @@ body.desktop {
     font-family: var(--font-chrome);
     font-size: 12px;
     font-weight: 600;
-    text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--text-muted);
+    line-height: 1.5;
     margin: 0 0 0.3rem 0;
 }
 
@@ -284,11 +284,12 @@ body.desktop {
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--text-muted);
+    line-height: 1.5;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: baseline;
     gap: 0.5rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0;
 }
 
 .hearing-meta time,
@@ -316,33 +317,33 @@ body.desktop {
 .hearing-leadership {
     font-family: var(--font-chrome);
     font-size: 12px;
-    text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--text-muted);
+    line-height: 1.5;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: baseline;
     gap: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.3rem;
 }
 
 .hearing-leadership .leadership-members {
     display: inline-flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: baseline;
     gap: 0.5rem;
 }
 
 .hearing-leadership .leadership-members summary {
     cursor: pointer;
     list-style: none;
-    color: var(--accent);
+    color: var(--text-muted);
     border-bottom: 1px solid transparent;
 }
 
 .hearing-leadership .leadership-members summary:hover {
-    border-bottom-color: var(--accent);
-    color: var(--accent-hover);
+    border-bottom-color: var(--text-muted);
+    color: var(--text);
 }
 
 .hearing-leadership .leadership-members summary::-webkit-details-marker {
