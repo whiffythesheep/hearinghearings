@@ -261,7 +261,7 @@ body.desktop {
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    gap: 0.5rem;
+    gap: 0.35rem 1.25rem;
     margin-bottom: 0.5rem;
 }
 
@@ -269,7 +269,7 @@ body.desktop {
     font-family: var(--font-chrome);
     font-size: 12px;
     font-weight: 600;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.08em;
     color: var(--text-muted);
     margin-bottom: 0;
 }
