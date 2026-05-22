@@ -397,11 +397,13 @@ def parse_agenda(pdf_path):
 
 
 def extract_agenda_metadata(agenda_text, client):
-    """Extract committee name and meeting date from agenda text using Claude."""
+    """Extract committee, date, chairs, and members from agenda text using Claude."""
     prompt = f"""Extract the following from this NYC Council meeting agenda:
 
 1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation")
 2. The meeting date
+3. The chair of each committee. If joint, list each chair separated by " | " in the SAME ORDER as the committees above (e.g. "Jane Doe | John Smith"). Use the chair's full name as it appears in the agenda.
+4. The members of each committee, with each committee's members comma-separated, and committees separated by " | " (e.g. "A, B, C | D, E, F"). Convert "X, Y and Z" to "X, Y, Z" (no Oxford comma, drop the word "and" before the final name). Do NOT include the chair in the members list. Use full names as they appear in the agenda.
 
 <agenda>
 {agenda_text[:3000]}
@@ -409,25 +411,33 @@ def extract_agenda_metadata(agenda_text, client):
 
 Respond in exactly this format, nothing else:
 COMMITTEE: [committee name(s)]
-DATE: YYYY-MM-DD"""
+DATE: YYYY-MM-DD
+CHAIRS: [chair name(s)]
+MEMBERS: [member names]"""
 
     response = client.messages.create(
         model=ANTHROPIC_MODEL,
-        max_tokens=200,
+        max_tokens=400,
         messages=[{"role": "user", "content": prompt}],
     )
     text = response.content[0].text.strip()
 
     committee = ""
     date_str = ""
+    chairs = ""
+    members = ""
     for line in text.splitlines():
         if line.startswith("COMMITTEE:"):
             committee = line.split(":", 1)[1].strip()
         elif line.startswith("DATE:"):
             date_str = line.split(":", 1)[1].strip()
+        elif line.startswith("CHAIRS:"):
+            chairs = line.split(":", 1)[1].strip()
+        elif line.startswith("MEMBERS:"):
+            members = line.split(":", 1)[1].strip()
 
-    logger.info(f"  Agenda metadata — committee: {committee}, date: {date_str}")
-    return committee, date_str
+    logger.info(f"  Agenda metadata — committee: {committee}, date: {date_str}, chairs: {chairs}")
+    return committee, date_str, chairs, members
 
 
 def format_duration(duration_s):
@@ -1471,7 +1481,7 @@ def align_agenda_items(utterances, agenda_text):
 def build_web_content(summary, utterances, agenda_text, title, committee,
                       committee_slug_val, slug, date_str,
                       youtube_url="", duration="", council_url="",
-                      viebit_url=""):
+                      viebit_url="", chairs="", members=""):
     """Build a markdown file with YAML front matter for the website."""
     # Summary section
     summary_lines = [summary]
@@ -1506,6 +1516,10 @@ def build_web_content(summary, utterances, agenda_text, title, committee,
         lines.append(f'viebit_url: "{viebit_url}"')
     if council_url:
         lines.append(f'council_url: "{council_url}"')
+    if chairs:
+        lines.append(f'chairs: "{chairs}"')
+    if members:
+        lines.append(f'members: "{members}"')
     lines += [
         "---",
         "",
@@ -2063,7 +2077,7 @@ def main():
         sys.exit(1)
     client = anthropic.Anthropic(api_key=api_key)
 
-    committee_name, meeting_date = extract_agenda_metadata(agenda_text, client)
+    committee_name, meeting_date, chairs, members = extract_agenda_metadata(agenda_text, client)
 
     # Skip mismatch check for Viebit — the user types the title themselves,
     # so the heuristic word-overlap test against a YouTube-style title doesn't
@@ -2256,6 +2270,7 @@ def main():
             committee_slug_val, slug, date_str, youtube_url,
             duration, council_url=args.council_url or "",
             viebit_url=viebit_url,
+            chairs=chairs, members=members,
         )
     publish_to_website(web_content, slug, title, committee=committee,
                        deploy=not args.no_deploy, send_email=args.send_email,

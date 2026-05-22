@@ -120,6 +120,21 @@ def load_content():
         committee_str = meta.get("committee", "")
         committee_list = [c.strip() for c in committee_str.split(" | ") if c.strip()]
 
+        chairs_str = meta.get("chairs", "")
+        members_str = meta.get("members", "")
+        chairs_list = [c.strip() for c in chairs_str.split(" | ") if c.strip()]
+        members_by_committee = [
+            [m.strip() for m in segment.split(",") if m.strip()]
+            for segment in members_str.split(" | ")
+        ] if members_str else []
+        seen = set(chairs_list)
+        members_flat = []
+        for sub in members_by_committee:
+            for m in sub:
+                if m and m not in seen:
+                    seen.add(m)
+                    members_flat.append(m)
+
         summary_plain = re.sub(r"^#{1,6}\s+.*$", "", summary_md, flags=re.MULTILINE)
         summary_plain = re.sub(r"[*_\[\]\(\)`>]", "", summary_plain)
         summary_plain = " ".join(summary_plain.split())
@@ -129,6 +144,9 @@ def load_content():
                 "committee": committee_str,
                 "committee_list": committee_list,
                 "committee_slug": meta.get("committee_slug", ""),
+                "chairs": chairs_list,
+                "members_by_committee": members_by_committee,
+                "members_flat": members_flat,
                 "title": meta.get("title", filename),
                 "date": date_str,
                 "date_display": date_display,

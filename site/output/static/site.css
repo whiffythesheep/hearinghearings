@@ -311,6 +311,60 @@ body.desktop {
     color: var(--accent-hover);
 }
 
+.hearing-leadership {
+    margin-top: 0.55rem;
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+}
+
+.hearing-leadership .leadership-label {
+    color: var(--text-muted);
+}
+
+.hearing-leadership .leadership-names {
+    color: var(--text);
+    text-transform: none;
+    letter-spacing: 0;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+}
+
+.hearing-leadership .leadership-members {
+    display: inline;
+}
+
+.hearing-leadership .leadership-members summary {
+    cursor: pointer;
+    color: var(--accent);
+    list-style: none;
+}
+
+.hearing-leadership .leadership-members summary::-webkit-details-marker {
+    display: none;
+}
+
+.hearing-leadership .leadership-members summary::before {
+    content: "▸ ";
+}
+
+.hearing-leadership .leadership-members[open] summary::before {
+    content: "▾ ";
+}
+
+.hearing-leadership .leadership-members[open] .leadership-members-list {
+    display: block;
+    margin-top: 0.35rem;
+    margin-left: 0;
+    flex-basis: 100%;
+}
+
 /* ---------- Summary body ---------- */
 .hearing-summary {
     color: var(--text);
