@@ -7,25 +7,6 @@
 
 <article class="hearing">
     <header class="hearing-header">
-        {% if hearing.committee or hearing.chairs %}
-        <div class="hearing-committee-row">
-            {% if hearing.committee %}
-            <p class="hearing-committee">{{ hearing.committee }}</p>
-            {% endif %}
-            {% if hearing.chairs %}
-            <div class="hearing-leadership">
-                <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
-                {% if hearing.members_flat %}
-                <span class="meta-sep">·</span>
-                <details class="leadership-members">
-                    <summary>Members ({{ hearing.members_flat|length }})</summary>
-                    <span>{{ hearing.members_flat | join(', ') }}</span>
-                </details>
-                {% endif %}
-            </div>
-            {% endif %}
-        </div>
-        {% endif %}
         <h1>{{ hearing.title }}</h1>
         <div class="hearing-meta">
             <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
@@ -45,6 +26,21 @@
             <a href="{{ hearing.council_url }}" class="council-link">View on council.nyc.gov ↗</a>
             {% endif %}
         </div>
+        {% if hearing.committee %}
+        <p class="hearing-committee">{{ hearing.committee }}</p>
+        {% endif %}
+        {% if hearing.chairs %}
+        <div class="hearing-leadership">
+            <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
+            {% if hearing.members_flat %}
+            <span class="meta-sep">·</span>
+            <details class="leadership-members">
+                <summary>Members ({{ hearing.members_flat|length }})</summary>
+                <span>{{ hearing.members_flat | join(', ') }}</span>
+            </details>
+            {% endif %}
+        </div>
+        {% endif %}
     </header>
 
     <section class="hearing-summary">

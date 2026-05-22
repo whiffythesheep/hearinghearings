@@ -257,21 +257,14 @@ body.desktop {
     border-bottom: 1px solid var(--rule);
 }
 
-.hearing-committee-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.35rem 1.25rem;
-    margin-bottom: 0.5rem;
-}
-
 .hearing-committee {
     font-family: var(--font-chrome);
     font-size: 12px;
     font-weight: 600;
+    text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--text-muted);
-    margin-bottom: 0;
+    margin: 0 0 0.3rem 0;
 }
 
 .hearing-header h1 {
@@ -281,7 +274,7 @@ body.desktop {
     line-height: 1.22;
     letter-spacing: -0.012em;
     color: var(--text);
-    margin-bottom: 0.85rem;
+    margin: 0 0 1rem 0;
     max-width: 42ch;
 }
 
@@ -295,6 +288,7 @@ body.desktop {
     flex-wrap: wrap;
     align-items: center;
     gap: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 
 .hearing-meta time,
@@ -329,6 +323,7 @@ body.desktop {
     flex-wrap: wrap;
     align-items: center;
     gap: 0.5rem;
+    margin-bottom: 0;
 }
 
 .hearing-leadership .leadership-members {
