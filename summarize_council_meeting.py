@@ -445,6 +445,63 @@ MEMBERS: [member names]"""
     return committee, date_str, chairs, members
 
 
+def build_committee_chair_lookup(content_dir):
+    """Scan content/*.md and return {committee_name: chair_name} from prior extractions.
+
+    NYC Council joint-hearing agendas only list the lead committee's chair. To fill
+    in co-committee chairs on joint hearings, we use the fact that those same
+    committees often appear as the lead in their own standalone hearings — so their
+    chair is already in our archive.
+    """
+    from pathlib import Path
+    lookup = {}
+    for path in Path(content_dir).glob("*.md"):
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        m = re.match(r"^---\s*\n(.*?)\n---", text, re.DOTALL)
+        if not m:
+            continue
+        meta = {}
+        for line in m.group(1).split("\n"):
+            key, _, value = line.partition(":")
+            meta[key.strip()] = value.strip().strip('"')
+        committees = [c.strip() for c in meta.get("committee", "").split(" | ") if c.strip()]
+        # Preserve empty slots so positional alignment with committees is correct
+        # (a middle empty means "no chair known for that committee in this hearing").
+        chair_field = [c.strip() for c in meta.get("chairs", "").split(" | ")] if meta.get("chairs") else []
+        for committee, chair in zip(committees, chair_field):
+            if committee and chair:
+                lookup[committee] = chair
+    return lookup
+
+
+def supplement_chairs_via_lookup(committees_str, chairs_str, lookup):
+    """Fill in missing co-committee chairs on joint hearings using the lookup.
+
+    Preserves positional alignment: slot i in chairs corresponds to committee i.
+    Empty slots are filled if a chair is found in the lookup; otherwise left empty.
+    Trailing empties are stripped from the output.
+    """
+    committees = [c.strip() for c in committees_str.split(" | ") if c.strip()]
+    chairs = [c.strip() for c in chairs_str.split(" | ")] if chairs_str else []
+    while len(chairs) < len(committees):
+        chairs.append("")
+    changed = False
+    for i, committee in enumerate(committees):
+        if not chairs[i]:
+            chair = lookup.get(committee, "")
+            if chair:
+                chairs[i] = chair
+                changed = True
+    while chairs and not chairs[-1]:
+        chairs.pop()
+    if not changed:
+        return chairs_str
+    return " | ".join(chairs)
+
+
 def format_duration(duration_s):
     """Format a duration in seconds as a human-readable string."""
     if not duration_s:

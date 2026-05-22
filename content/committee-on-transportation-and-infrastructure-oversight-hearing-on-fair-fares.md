@@ -7,7 +7,7 @@ slug: committee-on-transportation-and-infrastructure-oversight-hearing-on-fair-f
 duration: "4hrs 5m"
 youtube_url: "https://www.youtube.com/watch?v=UHxhK_BPoHs"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403955&GUID=EC219E3C-F23C-4581-B198-4B33B5966522&Options=info|&Search="
-chairs: "Shaun Abreu"
+chairs: "Shaun Abreu | Crystal Hudson"
 members: "Selvena N. Brooks-Powers, Eric Dinowitz, Shahana K. Hanif, Shekar Krishnan, Farah N. Louis, Christopher Marte, Justin E. Sanchez, Pierina Ana Sanchez, Julie Won, Phil Wong"
 ---
 

@@ -26,6 +26,8 @@ from dotenv import load_dotenv
 from summarize_council_meeting import (
     parse_agenda,
     extract_agenda_metadata,
+    build_committee_chair_lookup,
+    supplement_chairs_via_lookup,
 )
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -173,6 +175,25 @@ def deploy_site():
     return True
 
 
+def supplement_one_from_lookup(md_path, lookup, dry_run=False):
+    """Phase 2: fill in missing co-committee chairs on joint hearings via lookup."""
+    md_text = md_path.read_text(encoding="utf-8")
+    meta, _, _ = parse_front_matter(md_text)
+    committees_str = meta.get("committee", "")
+    chairs_str = meta.get("chairs", "")
+    if not chairs_str:
+        return "no_chairs"
+    new_chairs_str = supplement_chairs_via_lookup(committees_str, chairs_str, lookup)
+    if new_chairs_str == chairs_str:
+        return "complete_or_unsupplementable"
+    logger.info(f"  Supplemented {md_path.stem}: {chairs_str!r} -> {new_chairs_str!r}")
+    if dry_run:
+        return "would_supplement"
+    new_text = patch_front_matter(md_text, new_chairs_str, meta.get("members", ""))
+    md_path.write_text(new_text, encoding="utf-8")
+    return "supplemented"
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true")
@@ -180,14 +201,17 @@ def main():
                         help="Backfill only the meeting with this slug.")
     parser.add_argument("--no-deploy", action="store_true",
                         help="Skip the build + git push step at the end.")
+    parser.add_argument("--supplement-only", action="store_true",
+                        help="Skip extraction phase; only run lookup-based "
+                             "supplementation of joint-hearing chairs.")
     args = parser.parse_args()
 
     load_dotenv()
     api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
+    if not api_key and not args.supplement_only:
         logger.error("ANTHROPIC_API_KEY not set.")
         sys.exit(1)
-    client = anthropic.Anthropic(api_key=api_key)
+    client = anthropic.Anthropic(api_key=api_key) if api_key else None
 
     md_paths = sorted(CONTENT_DIR.glob("*.md"))
     if args.only:
@@ -197,21 +221,37 @@ def main():
             sys.exit(1)
 
     counts = {}
-    patched_any = False
+    changed_any = False
+
+    if not args.supplement_only:
+        logger.info("=== Phase 1: extract chairs/members from agenda PDFs ===")
+        for path in md_paths:
+            logger.info(f"--- {path.name} ---")
+            try:
+                outcome = backfill_one(path, client, dry_run=args.dry_run)
+            except Exception as e:
+                logger.exception(f"  Error processing {path.name}: {e}")
+                outcome = "error"
+            counts[outcome] = counts.get(outcome, 0) + 1
+            if outcome == "patched":
+                changed_any = True
+
+    logger.info("=== Phase 2: supplement joint-hearing chairs from prior extractions ===")
+    lookup = build_committee_chair_lookup(CONTENT_DIR)
+    logger.info(f"  Lookup has {len(lookup)} known committee -> chair entries.")
     for path in md_paths:
-        logger.info(f"--- {path.name} ---")
         try:
-            outcome = backfill_one(path, client, dry_run=args.dry_run)
+            outcome = supplement_one_from_lookup(path, lookup, dry_run=args.dry_run)
         except Exception as e:
-            logger.exception(f"  Error processing {path.name}: {e}")
-            outcome = "error"
+            logger.exception(f"  Error supplementing {path.name}: {e}")
+            outcome = "supplement_error"
         counts[outcome] = counts.get(outcome, 0) + 1
-        if outcome == "patched":
-            patched_any = True
+        if outcome == "supplemented":
+            changed_any = True
 
     logger.info(f"Summary: {counts}")
 
-    if patched_any and not args.dry_run and not args.no_deploy:
+    if changed_any and not args.dry_run and not args.no_deploy:
         deploy_site()
 
 

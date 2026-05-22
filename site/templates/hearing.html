@@ -31,12 +31,12 @@
         </div>
         {% if hearing.chairs %}
         <div class="hearing-leadership">
-            <span class="leadership-label">{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}:</span>
-            <span class="leadership-names">{{ hearing.chairs | join(', ') }}</span>
+            <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
             {% if hearing.members_flat %}
+            <span class="meta-sep">·</span>
             <details class="leadership-members">
                 <summary>Members ({{ hearing.members_flat|length }})</summary>
-                <span class="leadership-names leadership-members-list">{{ hearing.members_flat | join(', ') }}</span>
+                <span>{{ hearing.members_flat | join(', ') }}</span>
             </details>
             {% endif %}
         </div>

@@ -7,7 +7,7 @@ slug: committee-on-immigration-tenant-harassment-against-immigrants-and-the-cert
 duration: "1hr 7m"
 youtube_url: "https://www.youtube.com/watch?v=iDCrAAA-1WY"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402792&GUID=F7CF93BB-CDA8-4C16-AD87-D056ED19EFC2&Options=info|&Search="
-chairs: "Elsie Encarnación"
+chairs: "Elsie Encarnación | Pierina Ana Sanchez"
 members: "Alexa Avilés, Gale A. Brewer, Kamillah Hanks, Rita C. Joseph"
 ---
 
