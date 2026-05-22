@@ -7,6 +7,8 @@ slug: committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-dr
 duration: "3hrs 47m"
 youtube_url: "https://www.youtube.com/watch?v=46BTku-kaUA"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403109&GUID=6947A0A0-A8FF-429E-AA58-641B9E31F273&Options=info|&Search="
+chairs: "Justin E. Sanchez"
+members: "Shahana K. Hanif, Ty Hankerson, Virginia Maloney, Kayla Santosuosso, Shanel Thomas-Henry, Sandra Ung, Inna Vernikov, Susan Zhuang"
 ---
 
 Summary

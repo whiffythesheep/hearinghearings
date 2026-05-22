@@ -7,6 +7,8 @@ slug: committee-on-housing-and-buildings-preserving-affordable-housing-in-distre
 duration: "1hr 26m"
 youtube_url: "https://www.youtube.com/watch?v=C-BrQ1vvaKs"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397505&GUID=4B47D16B-DB8A-421C-B8AC-0AB3C5C2121B&Options=info|&Search="
+chairs: "Pierina Ana Sanchez"
+members: "Shaun Abreu, Oswald J. Feliz, Crystal Hudson, Rita C. Joseph, Virginia Maloney, Kevin C. Riley, Yusef Salaam, Nantasha M. Williams, Susan Zhuang"
 ---
 
 Summary

@@ -7,6 +7,8 @@ slug: committee-on-general-welfare-food-insecurity-in-nyc
 duration: "4hrs 2m"
 youtube_url: "https://www.youtube.com/watch?v=ffoU0uBkCoo"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403709&GUID=96286328-BDD6-4F60-92B9-2D93E0CDFAE2&Options=info|&Search="
+chairs: "Crystal Hudson"
+members: "Alexa Avilés, Darlene Mealy, Frank Morano, Sandy Nurse, Althea V. Stevens, Sandra Ung"
 ---
 
 Summary

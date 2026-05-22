@@ -6,6 +6,8 @@ date: 2026-05-06
 slug: committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes
 duration: "2hrs 55m"
 youtube_url: "https://www.youtube.com/watch?v=FsHfAudT7_M"
+chairs: "Shanel Thomas-Henry"
+members: "Selvena N. Brooks-Powers, Shahana K. Hanif, Virginia Maloney, Frank Morano, Yusef Salaam, Kayla Santosuosso"
 ---
 
 Summary

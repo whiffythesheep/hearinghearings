@@ -7,6 +7,8 @@ slug: committee-on-land-use-fy-2027-preliminary-budget-hearing
 duration: "3hrs 4m"
 youtube_url: "https://www.youtube.com/watch?v=N_ZdcPKyEtM"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399770&GUID=4E1F16BD-DF86-4ABE-AE3E-3A1BBBBF58DF&Options=info|&Search="
+chairs: "Kevin C. Riley"
+members: "Shaun Abreu, Chris Banks, Selvena Brooks-Powers, Tiffany L. Cabán, David M. Carr, Elsie Encarnación, Farah N. Louis, Chi A. Ossé, Yusef Salaam, Justin E. Sanchez, Shanel Thomas-Henry, Susan Zhuang"
 ---
 
 Summary

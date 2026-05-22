@@ -7,6 +7,8 @@ slug: committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-bud
 duration: "3hrs 29m"
 youtube_url: "https://www.youtube.com/watch?v=u1f_c8-Jcos"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397707&GUID=068E5EEB-9819-4ADA-8709-BF8191F5EA03&Options=info|&Search="
+chairs: "Justin E. Sanchez"
+members: "Shahana K. Hanif, Ty Hankerson, Virginia Maloney, Kayla Santosuosso, Shanel Thomas-Henry, Sandra Ung, Inna Vernikov, Susan Zhuang"
 ---
 
 Summary

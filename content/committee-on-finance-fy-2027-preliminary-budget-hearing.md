@@ -7,6 +7,8 @@ slug: committee-on-finance-fy-2027-preliminary-budget-hearing
 duration: "5hrs 17m"
 youtube_url: "https://www.youtube.com/watch?v=2soPrZWS754"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399772&GUID=9F4A2B53-4327-4F93-AE73-5D27A341A590&Options=info|&Search="
+chairs: "Linda Lee"
+members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
 ---
 
 Summary

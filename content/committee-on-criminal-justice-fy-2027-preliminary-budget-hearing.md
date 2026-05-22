@@ -7,6 +7,8 @@ slug: committee-on-criminal-justice-fy-2027-preliminary-budget-hearing
 duration: "5hrs 34m"
 youtube_url: "https://www.youtube.com/watch?v=bjZFk_1_pD0"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397977&GUID=701DC6C0-814D-442A-B70F-EF99C79BA6EA&Options=info|&Search="
+chairs: "Selvena N. Brooks-Powers"
+members: "Gale A. Brewer, Tiffany L. Cabán, Oswald J. Feliz, Frank Morano, Mercedes Narcisse, Yusef Salaam"
 ---
 
 Summary

@@ -8,6 +8,8 @@ duration: "2hrs 30m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/watch?hash=ettnx2abbbucYpFE"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1410785&GUID=9FE49BC2-83B8-4C3E-A2D8-AEA86A04CE69&Options=info|&Search="
+chairs: "Justin E. Sanchez"
+members: "Shahana K. Hanif, Ty Hankerson, Virginia Maloney, Kayla Santosuosso, Shanel Thomas-Henry, Sandra Ung, Inna Vernikov, Susan Zhuang"
 ---
 
 Summary

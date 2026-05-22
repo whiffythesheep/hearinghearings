@@ -6,6 +6,8 @@ date: 2026-03-25
 slug: committee-on-immigration-fy27-preliminary-budget-hearing
 duration: "5hrs 33m"
 youtube_url: "https://www.youtube.com/watch?v=PGagE0cKXJ0"
+chairs: "Elsie Encarnación"
+members: "Alexa Avilés, Gale A. Brewer, Kamillah Hanks, Rita C. Joseph"
 ---
 
 Summary
