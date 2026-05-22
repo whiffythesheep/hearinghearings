@@ -7,6 +7,8 @@ slug: subcommittee-on-early-childhood-education-early-childhood-educator-workfor
 duration: "4hrs 21m"
 youtube_url: "https://www.youtube.com/watch?v=c2C1cWDvyHA"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1401019&GUID=FD66D12B-438F-48D2-9FBD-6432F894FFB3&Options=info|&Search="
+chairs: "Jennifer Gutiérrez"
+members: "Gale A. Brewer, Simcha Felder, Rita C. Joseph, Kevin C. Riley, Kayla Santosuosso, Julie Won"
 ---
 
 Summary

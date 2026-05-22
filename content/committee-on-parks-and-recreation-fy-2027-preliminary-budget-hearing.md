@@ -6,6 +6,8 @@ date: 2026-03-23
 slug: committee-on-parks-and-recreation-fy-2027-preliminary-budget-hearing
 duration: "5hrs 47m"
 youtube_url: "https://www.youtube.com/watch?v=QRLl-gVj7GI"
+chairs: "Ty Hankerson"
+members: "Shekar Krishnan, Linda Lee, Christopher Marte, Frank Morano, Mercedes Narcisse, Sandy Nurse, Yusef Salaam, Pierina Ana Sanchez, Kayla Santosuosso, Sandra Ung"
 ---
 
 Summary

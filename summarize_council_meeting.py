@@ -402,8 +402,8 @@ def extract_agenda_metadata(agenda_text, client):
 
 1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation")
 2. The meeting date
-3. The chair of each committee. If joint, list each chair separated by " | " in the SAME ORDER as the committees above (e.g. "Jane Doe | John Smith"). Use the chair's full name as it appears in the agenda.
-4. The members of each committee, with each committee's members comma-separated, and committees separated by " | " (e.g. "A, B, C | D, E, F"). Convert "X, Y and Z" to "X, Y, Z" (no Oxford comma, drop the word "and" before the final name). Do NOT include the chair in the members list. Use full names as they appear in the agenda.
+3. The chair of each committee for which a chair is listed in the agenda. List chairs separated by " | " in the SAME ORDER as the committees above (e.g. "Jane Doe | John Smith"). Use the chair's full name as it appears in the agenda. If a co-committee is only mentioned as "Jointly with..." with no chair listed, OMIT it rather than emitting an empty slot — do not produce trailing " | " separators.
+4. The members of each committee for which members are listed. Each committee's members are comma-separated, and committees are separated by " | " (e.g. "A, B, C | D, E, F"). Convert "X, Y and Z" to "X, Y, Z" (no Oxford comma, drop the word "and" before the final name). Do NOT include the chair in the members list. Use full names as they appear in the agenda. If a co-committee has no members listed in the agenda, OMIT it — do not emit empty " | " segments.
 
 <agenda>
 {agenda_text[:3000]}
@@ -435,6 +435,11 @@ MEMBERS: [member names]"""
             chairs = line.split(":", 1)[1].strip()
         elif line.startswith("MEMBERS:"):
             members = line.split(":", 1)[1].strip()
+
+    # Strip any empty pipe-delimited segments Claude may have emitted anyway —
+    # joint agendas often list chair/members only for the lead committee.
+    chairs = " | ".join(p.strip() for p in chairs.split(" | ") if p.strip())
+    members = " | ".join(p.strip() for p in members.split(" | ") if p.strip())
 
     logger.info(f"  Agenda metadata — committee: {committee}, date: {date_str}, chairs: {chairs}")
     return committee, date_str, chairs, members

@@ -7,6 +7,8 @@ slug: committee-on-consumer-and-worker-protection-insurance-accountability-wage-
 duration: "4hrs 1m"
 youtube_url: "https://www.youtube.com/watch?v=d5aNuu0pL14"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402422&GUID=964F09BA-83D4-4205-9B6A-6E18E584A3A6&Search="
+chairs: "Harvey D. Epstein"
+members: "Shirley Aldebol, Joann Ariola, Chris Banks, Gale A. Brewer, Carmen N. De La Rosa, Kamillah Hanks, Shekar Krishnan, Chi A. Ossé"
 ---
 
 Summary

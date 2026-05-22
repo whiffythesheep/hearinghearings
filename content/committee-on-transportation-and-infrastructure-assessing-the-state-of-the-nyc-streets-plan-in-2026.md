@@ -7,6 +7,8 @@ slug: committee-on-transportation-and-infrastructure-assessing-the-state-of-the-
 duration: "6hrs 56m"
 youtube_url: "https://www.youtube.com/watch?v=1NTWvr6fhV0"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1389328&GUID=33E1C59E-B248-40E3-8900-29034F073024&Options=info|&Search="
+chairs: "Shaun Abreu"
+members: "Selvena N. Brooks-Powers, Eric Dinowitz, Shahana K. Hanif, Shekar Krishnan, Farah N. Louis, Christopher Marte, Justin E. Sanchez, Pierina Ana Sanchez, Julie Won, Phil Wong"
 ---
 
 Summary

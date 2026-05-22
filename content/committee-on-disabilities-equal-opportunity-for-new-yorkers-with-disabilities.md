@@ -8,6 +8,8 @@ duration: "3hrs 29m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/watch?hash=fqqzkazwAvbVX5NJ"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1408507&GUID=AF52D35D-73DF-4D98-90BA-F5849CF518D7&Options=info|&Search="
+chairs: "Shahana K. Hanif"
+members: "Tiffany L. Cabán, Carmen N. De La Rosa, Rita C. Joseph, Sandy Nurse"
 ---
 
 Summary

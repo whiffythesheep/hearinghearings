@@ -7,6 +7,8 @@ slug: committee-on-civil-and-human-rights-fair-chance-act-challenges-and-success
 duration: "2hrs 57m"
 youtube_url: "https://www.youtube.com/watch?v=t5_s5S9r1Lo"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1404773&GUID=798B4136-5641-4707-858E-9ECBEE8319AC&Search="
+chairs: "Sandy Nurse"
+members: "Shaun Abreu, Oswald J. Feliz, Shahana K. Hanif, Lynn C. Schulman, Althea V. Stevens"
 ---
 
 Summary

@@ -7,6 +7,8 @@ slug: committee-on-health-child-care-program-background-checks
 duration: "2hrs 6m"
 youtube_url: "https://www.youtube.com/watch?v=s95htCcRQUc"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1401809&GUID=F54E8F20-8633-4A46-8223-354F6304A87E&Options=info|&Search="
+chairs: "Lynn C. Schulman"
+members: "Joann Ariola, Harvey D. Epstein, Simcha Felder, James F. Gennaro, Christopher Marte, Mercedes Narcisse"
 ---
 
 Summary

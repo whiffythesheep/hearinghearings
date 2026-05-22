@@ -8,6 +8,8 @@ duration: "2hrs 3m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/watch?hash=RLiVpR3XN6oBNv3T"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1409638&GUID=A4BD345E-13EC-446C-A009-9AD5F3B5806D&Options=info|&Search="
+chairs: "Nantasha M. Williams"
+members: "Crystal Hudson, Farah N. Louis, Virginia Maloney, Chi A. Ossé, Althea V. Stevens, Sandra Ung"
 ---
 
 Summary

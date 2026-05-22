@@ -7,6 +7,8 @@ slug: committee-on-consumer-and-worker-protection-fy-2027-preliminary-budget-hea
 duration: "3hrs 55m"
 youtube_url: "https://www.youtube.com/watch?v=p0zqCs4f7Gk"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397872&GUID=FCE9B5CA-B804-419B-892C-9C69F3170A53&Options=info|&Search="
+chairs: "Harvey D. Epstein"
+members: "Shirley Aldebol, Joann Ariola, Chris Banks, Gale A. Brewer, Carmen N. De La Rosa, Kamillah Hanks, Shekar Krishnan, Chi A. Ossé"
 ---
 
 Summary

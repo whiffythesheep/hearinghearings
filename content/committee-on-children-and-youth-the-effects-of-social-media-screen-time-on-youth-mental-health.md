@@ -7,6 +7,8 @@ slug: committee-on-children-and-youth-the-effects-of-social-media-screen-time-on
 duration: "2hrs 52m"
 youtube_url: "https://www.youtube.com/watch?v=u4eW5OzzLfQ"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402432&GUID=65F409DA-EB78-4DCF-AF86-DCE91805AEEF&Options=info|&Search="
+chairs: "Althea V. Stevens"
+members: "Simcha Felder, Rita C. Joseph, Chi A. Ossé, Nantasha M. Williams"
 ---
 
 Summary

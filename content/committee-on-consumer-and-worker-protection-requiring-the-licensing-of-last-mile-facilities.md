@@ -7,6 +7,8 @@ slug: committee-on-consumer-and-worker-protection-requiring-the-licensing-of-las
 duration: "6hrs 42m"
 youtube_url: "https://www.youtube.com/watch?v=ja2C5yDXoYQ"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397517&GUID=B26A9F7C-6F7A-40C3-A0EF-652DE7FC0C34&Options=info|&Search="
+chairs: "Harvey D. Epstein"
+members: "Shirley Aldebol, Joann Ariola, Chris Banks, Gale A. Brewer, Carmen N. De La Rosa, Kamillah Hanks, Shekar Krishnan, Chi A. Ossé"
 ---
 
 Summary
