@@ -13,7 +13,6 @@
             <p class="hearing-committee">{{ hearing.committee }}</p>
             {% endif %}
             {% if hearing.chairs %}
-            {% if hearing.committee %}<span class="meta-sep">·</span>{% endif %}
             <div class="hearing-leadership">
                 <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
                 {% if hearing.members_flat %}
