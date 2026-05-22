@@ -2141,6 +2141,16 @@ def main():
 
     committee_name, meeting_date, chairs, members = extract_agenda_metadata(agenda_text, client)
 
+    # For joint hearings, the agenda only lists the lead committee's chair. Fill in
+    # co-committee chairs from prior single-committee hearings in our archive.
+    content_dir = Path(__file__).resolve().parent / "content"
+    if content_dir.is_dir():
+        chair_lookup = build_committee_chair_lookup(content_dir)
+        supplemented = supplement_chairs_via_lookup(committee_name, chairs, chair_lookup)
+        if supplemented != chairs:
+            logger.info(f"  Supplemented chairs from lookup: {chairs!r} -> {supplemented!r}")
+            chairs = supplemented
+
     # Skip mismatch check for Viebit — the user types the title themselves,
     # so the heuristic word-overlap test against a YouTube-style title doesn't
     # apply and produces false positives.
