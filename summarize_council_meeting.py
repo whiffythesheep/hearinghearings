@@ -116,6 +116,14 @@ def parse_args():
              "(e.g. 'https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=...&GUID=...&Search=')."
     )
     parser.add_argument(
+        "--legistar-url", type=str, default=None,
+        help="Legistar MeetingDetail URL. When set, the agenda PDF, "
+             "--council-url, and (for Viebit hearings) --viebit-url are "
+             "auto-filled by scraping the council.nyc.gov page. Explicit "
+             "flags still override the scraped values. For non-YouTube "
+             "hearings you also need --title."
+    )
+    parser.add_argument(
         "--skip-summary", type=str, default=None, metavar="SLUG",
         help="Skip summary generation and reuse existing published page. "
              "Only updates the transcript section. Pass the existing slug "
@@ -250,12 +258,20 @@ def is_viebit_url(url):
 
 
 def extract_viebit_hash(url):
-    """Extract the Viebit ?hash=... identifier from a watch/player URL."""
+    """Extract a Viebit identifier from a watch or /vod/ URL.
+
+    `/watch?hash=ABC` returns "ABC"; `/vod/?s=true&v=NYCC-...mp4` returns
+    the asset stem (filename without extension). Both serve as stable
+    cache keys downstream.
+    """
     m = re.search(r"[?&]hash=([A-Za-z0-9_-]+)", url)
-    if not m:
-        logger.error(f"Could not extract Viebit hash from URL: {url}")
-        sys.exit(1)
-    return m.group(1)
+    if m:
+        return m.group(1)
+    m = re.search(r"[?&]v=([A-Za-z0-9_.-]+?)\.mp4", url)
+    if m:
+        return m.group(1)
+    logger.error(f"Could not extract Viebit identifier from URL: {url}")
+    sys.exit(1)
 
 
 def fetch_viebit_player_metadata(watch_url):
@@ -2080,6 +2096,35 @@ def publish_to_website(web_content, slug, title, committee="",
 
 def main():
     args = parse_args()
+
+    # --legistar-url scrapes council.nyc.gov to auto-fill the manual
+    # inputs. Explicit flags still win — we only fill what's empty.
+    if args.legistar_url:
+        from council_scraper import scrape_event
+        INPUT_DIR.mkdir(exist_ok=True)
+        event = scrape_event(
+            args.legistar_url,
+            agenda_cache_dir=INPUT_DIR / "legistar",
+        )
+        if not args.agenda_pdf:
+            args.agenda_pdf = str(event["agenda_path"])
+        if not args.council_url:
+            args.council_url = event["council_url"]
+        if (
+            not args.viebit_url
+            and not args.youtube_url
+            and not args.transcript_json
+        ):
+            if event["video_url"]:
+                args.viebit_url = event["video_url"]
+                logger.info(f"Auto-resolved Viebit URL: {event['video_url']}")
+            else:
+                logger.error(
+                    f"No video archived yet for event {event['event_id']}. "
+                    "Wait for the council archive to populate, or pass "
+                    "--youtube-url / --viebit-url manually."
+                )
+                sys.exit(1)
 
     # When --transcript-json or --viebit-url is used, argparse assigns the
     # single positional to youtube_url. Shift it to agenda_pdf if needed.
