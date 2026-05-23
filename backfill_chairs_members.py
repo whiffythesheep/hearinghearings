@@ -130,7 +130,7 @@ def backfill_one(md_path, client, dry_run=False):
 
     logger.info(f"  {slug} -> {agenda_name}")
     agenda_text = parse_agenda(agenda_path)
-    _, _, chairs, members = extract_agenda_metadata(agenda_text, client)
+    _, _, chairs, members, _ = extract_agenda_metadata(agenda_text, client)
     logger.info(f"    chairs={chairs!r}")
     logger.info(f"    members={members!r}")
 

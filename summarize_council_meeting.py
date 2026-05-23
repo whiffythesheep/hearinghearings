@@ -118,10 +118,10 @@ def parse_args():
     parser.add_argument(
         "--legistar-url", type=str, default=None,
         help="Legistar MeetingDetail URL. When set, the agenda PDF, "
-             "--council-url, and (for Viebit hearings) --viebit-url are "
-             "auto-filled by scraping the council.nyc.gov page. Explicit "
-             "flags still override the scraped values. For non-YouTube "
-             "hearings you also need --title."
+             "--council-url, video URL (YouTube /streams match preferred "
+             "over Viebit when available), and --title are all auto-filled "
+             "from the council.nyc.gov page and the agenda. Explicit flags "
+             "still override the auto-resolved values."
     )
     parser.add_argument(
         "--skip-summary", type=str, default=None, metavar="SLUG",
@@ -413,13 +413,19 @@ def parse_agenda(pdf_path):
 
 
 def extract_agenda_metadata(agenda_text, client):
-    """Extract committee, date, chairs, and members from agenda text using Claude."""
+    """Extract committee, date, chairs, members, and topic from agenda text using Claude."""
     prompt = f"""Extract the following from this NYC Council meeting agenda:
 
 1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation")
 2. The meeting date
 3. The chair of each committee for which a chair is listed in the agenda. List chairs separated by " | " in the SAME ORDER as the committees above (e.g. "Jane Doe | John Smith"). Use the chair's full name as it appears in the agenda. If a co-committee is only mentioned as "Jointly with..." with no chair listed, OMIT it rather than emitting an empty slot — do not produce trailing " | " separators.
 4. The members of each committee for which members are listed. Each committee's members are comma-separated, and committees are separated by " | " (e.g. "A, B, C | D, E, F"). Convert "X, Y and Z" to "X, Y, Z" (no Oxford comma, drop the word "and" before the final name). Do NOT include the chair in the members list. Use full names as they appear in the agenda. If a co-committee has no members listed in the agenda, OMIT it — do not emit empty " | " segments.
+5. The topical title of the hearing — what someone would call this meeting on a listing page, expressed in Title Case. Do NOT include the committee name. Do NOT include the prefix "Oversight –" or "Oversight Hearing on" — just the subject itself. Patterns:
+   - Oversight hearing: use the subject — "Engagement with Community Organizations and Volunteers", "Shared Housing in NYC", "Fair Fares".
+   - Mayoral appointment / nomination: "Appointment of <Name> to <Body>" (e.g. "Appointment of Lisa Kersavage to the Landmarks Preservation Commission"). For multiple appointments to the same body, "Appointments to <Body>". For appointments to different bodies, "Mayoral Appointments".
+   - Bill / resolution-focused: name the most prominent matter (e.g. "Local Law to Require the Licensing of Last-Mile Facilities").
+   - Stated meeting / general legislative business with no single focal matter: output NONE.
+   - Preliminary / executive budget hearings: "Preliminary Budget Hearing" or "Executive Budget Hearing".
 
 <agenda>
 {agenda_text[:3000]}
@@ -429,11 +435,12 @@ Respond in exactly this format, nothing else:
 COMMITTEE: [committee name(s)]
 DATE: YYYY-MM-DD
 CHAIRS: [chair name(s)]
-MEMBERS: [member names]"""
+MEMBERS: [member names]
+TOPIC: [topical title or NONE]"""
 
     response = client.messages.create(
         model=ANTHROPIC_MODEL,
-        max_tokens=400,
+        max_tokens=500,
         messages=[{"role": "user", "content": prompt}],
     )
     text = response.content[0].text.strip()
@@ -442,6 +449,7 @@ MEMBERS: [member names]"""
     date_str = ""
     chairs = ""
     members = ""
+    topic = ""
     for line in text.splitlines():
         if line.startswith("COMMITTEE:"):
             committee = line.split(":", 1)[1].strip()
@@ -451,14 +459,19 @@ MEMBERS: [member names]"""
             chairs = line.split(":", 1)[1].strip()
         elif line.startswith("MEMBERS:"):
             members = line.split(":", 1)[1].strip()
+        elif line.startswith("TOPIC:"):
+            topic = line.split(":", 1)[1].strip()
 
     # Strip any empty pipe-delimited segments Claude may have emitted anyway —
     # joint agendas often list chair/members only for the lead committee.
     chairs = " | ".join(p.strip() for p in chairs.split(" | ") if p.strip())
     members = " | ".join(p.strip() for p in members.split(" | ") if p.strip())
+    if topic.upper() == "NONE":
+        topic = ""
 
-    logger.info(f"  Agenda metadata — committee: {committee}, date: {date_str}, chairs: {chairs}")
-    return committee, date_str, chairs, members
+    logger.info(f"  Agenda metadata — committee: {committee}, date: {date_str}, "
+                f"chairs: {chairs}, topic: {topic!r}")
+    return committee, date_str, chairs, members, topic
 
 
 def build_committee_chair_lookup(content_dir):
@@ -2097,10 +2110,21 @@ def publish_to_website(web_content, slug, title, committee="",
 def main():
     args = parse_args()
 
+    # State the --legistar-url branch may pre-populate. When set, the later
+    # metadata-extraction site reuses these instead of re-calling Claude.
+    agenda_text = None
+    client = None
+    committee_name = ""
+    meeting_date = ""
+    chairs = ""
+    members = ""
+    agenda_topic = ""
+
     # --legistar-url scrapes council.nyc.gov to auto-fill the manual
     # inputs. Explicit flags still win — we only fill what's empty.
     if args.legistar_url:
         from council_scraper import scrape_event
+        from video_resolver import find_youtube_match
         INPUT_DIR.mkdir(exist_ok=True)
         event = scrape_event(
             args.legistar_url,
@@ -2115,14 +2139,56 @@ def main():
             and not args.youtube_url
             and not args.transcript_json
         ):
-            if event["video_url"]:
+            # Need committee + date to query YouTube. Pre-extract agenda
+            # metadata now; the cached values are reused downstream.
+            api_key = os.environ.get("ANTHROPIC_API_KEY")
+            if not api_key:
+                logger.error("ANTHROPIC_API_KEY environment variable not set.")
+                sys.exit(1)
+            client = anthropic.Anthropic(api_key=api_key)
+            agenda_text = parse_agenda(Path(args.agenda_pdf))
+            (committee_name, meeting_date, chairs, members,
+             agenda_topic) = extract_agenda_metadata(agenda_text, client)
+            primary_committee = (
+                committee_name.split(" | ")[0] if committee_name else ""
+            )
+            yt_match = None
+            if meeting_date and primary_committee:
+                yt_match = find_youtube_match(
+                    meeting_date, primary_committee, topic=agenda_topic,
+                )
+            if yt_match:
+                args.youtube_url = yt_match["url"]
+                logger.info(
+                    f"Upgraded to YouTube /streams (score "
+                    f"{yt_match['score']:.2f}): {yt_match['url']} — "
+                    f"{yt_match['title']!r}"
+                )
+            elif event["video_url"]:
                 args.viebit_url = event["video_url"]
-                logger.info(f"Auto-resolved Viebit URL: {event['video_url']}")
+                logger.info(
+                    f"Using Viebit (no /streams match): {event['video_url']}"
+                )
             else:
                 logger.error(
                     f"No video archived yet for event {event['event_id']}. "
                     "Wait for the council archive to populate, or pass "
                     "--youtube-url / --viebit-url manually."
+                )
+                sys.exit(1)
+            if not args.title and agenda_topic:
+                args.title = agenda_topic
+                logger.info(
+                    f"Auto-discovered title from agenda: {args.title!r}"
+                )
+            elif not args.title and not args.youtube_url:
+                # Viebit fallback hit and no agenda topic — bail out now
+                # rather than letting the downstream Viebit check raise a
+                # less helpful error.
+                logger.error(
+                    "Could not auto-discover a title from the agenda "
+                    "(likely a stated meeting or general legislative "
+                    "business). Re-run with --title \"Your chosen title\"."
                 )
                 sys.exit(1)
 
@@ -2194,15 +2260,18 @@ def main():
         )
 
     # Step 2: Parse agenda and extract metadata.
-    agenda_text = parse_agenda(agenda_path)
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        logger.error("ANTHROPIC_API_KEY environment variable not set.")
-        sys.exit(1)
-    client = anthropic.Anthropic(api_key=api_key)
-
-    committee_name, meeting_date, chairs, members = extract_agenda_metadata(agenda_text, client)
+    # If the --legistar-url branch pre-extracted these, skip the second call.
+    if agenda_text is None:
+        agenda_text = parse_agenda(agenda_path)
+    if client is None:
+        api_key = os.environ.get("ANTHROPIC_API_KEY")
+        if not api_key:
+            logger.error("ANTHROPIC_API_KEY environment variable not set.")
+            sys.exit(1)
+        client = anthropic.Anthropic(api_key=api_key)
+        committee_name, meeting_date, chairs, members, agenda_topic = (
+            extract_agenda_metadata(agenda_text, client)
+        )
 
     # For joint hearings, the agenda only lists the lead committee's chair. Fill in
     # co-committee chairs from prior single-committee hearings in our archive.
