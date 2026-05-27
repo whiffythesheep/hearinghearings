@@ -5,3 +5,7 @@ __pycache__/
 *.log
 Input/
 word_bank.json
+# Ad-hoc screenshots dropped in the repo root for debugging
+/*.jpeg
+/*.jpg
+/*.png
