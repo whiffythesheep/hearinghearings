@@ -1,0 +1,1206 @@
+---
+committee: "Committee on Finance"
+committee_slug: committee-on-finance
+title: "Executive Budget Hearing"
+date: 2026-05-26
+slug: committee-on-finance-executive-budget-hearing
+duration: "2hrs 0m"
+youtube_url: "https://www.youtube.com/watch?v=fT2fj2fBvX8"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415339&GUID=006338CA-B624-4AAF-91C0-A09562189568&Search="
+chairs: "Linda Lee"
+members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
+---
+
+Summary
+
+Meeting Overview
+
+The Finance Committee and Committee on Cultural Affairs, Libraries, and International Relations held a joint FY27 executive budget hearing on New York City's three public library systems: New York Public Library (NYPL), Brooklyn Public Library (BPL), and Queens Public Library (QPL). Testimony was provided by Tony Marx (NYPL), Karen Shien (BPL), and Dennis Walcott (QPL). The hearing covered operating budgets, capital needs, staffing vacancies, technology, procurement reform, and the newly baselined funding.
+
+The headline good news: Mayor Mamdani's FY27 executive budget baselines $31.7 million in library operating support, ending what the library leaders repeatedly called "the budget dance" — the annual cycle of threatened cuts, advocacy, and last-minute restorations that made planning nearly impossible and forced hiring freezes each spring. The Council had secured $30.7 million as one-time funding in FY26 and demanded it be baselined; the administration complied, with a small increase. Library leaders were notably and genuinely grateful, though they were equally clear that this represents a floor, not progress. After years of flat budgets, rising costs mean the baseline effectively represents a real-terms cut. Combined additional unmet operating needs across the three systems total roughly $33.5 million. There is also a collective capital backlog approaching a billion dollars against roughly half that in the current capital plan.
+
+The hearing surfaced several substantive issues beyond the headline numbers. An unfunded prescription drug mandate (the PIKA/PAH benefit, negotiated between the city and DC37 without library involvement) is costing libraries $1.2 million to $1.7 million each, per system, with no compensating funding — a concrete example of how city labor negotiations can impose unbudgeted costs on semi-independent institutions. Capital procurement dysfunction received sustained attention: DDC projects routinely come in at double the cost and double the time of alternatives. NYPL's five Carnegie renovations, managed through EDC rather than DDC, came in on time and on budget. BPL's self-managed capital construction grant program shows similar efficiencies but is reimbursement-based, requiring libraries to front costs and wait months or years — a model that limits how much they can take on. Council Member Restler and BPL raised the possibility of allowing libraries to submit direct payment claims for standardized repair work (HVAC, roofs) rather than routing everything through DDC. QPL's Walcott publicly called out DDC's new commissioner for announcing a design-build initiative at a QPL branch via social media without notifying or consulting QPL leadership — a small but telling indicator of interagency coordination failures. Chair Lee noted a roundtable with DDC, libraries, and cultural institutions is planned.
+
+Vacancies remain a structural concern: 8.1% system-wide as of March 2026, with 113 vacancies at NYPL, 87 at BPL, and approximately 80 at QPL, across librarian, custodial, security, and maintenance titles. The budget dance directly worsened this — libraries deliberately held positions open each spring to prepare for potential cuts. The baselining should end that dynamic, but salary competitiveness and the cost of living in New York remain underlying constraints. All three systems run internal pipeline programs to grow librarians from existing staff, including BPL's Pathways to Leadership program (six cohorts, roughly 30 new librarians) and QPL's partnership with Queens College's library school. Wi-Fi demand continues to grow significantly — QPL reports 51% increase in usage, NYPL a 12% increase in wireless sessions from FY24 to FY25 — and QPL's Wi-Fi stays on 24/7 and reaches 150 yards from library buildings, providing connectivity to nearby residents even when branches are closed.
+
+Numbers
+
+- FY27 proposed library budget: $526.6 million, up $35.2 million (7.2%) from the $491.4 million in the preliminary plan.
+- $31.7 million baselined in FY27 for library operating support across all three systems; BPL's share is $8.8 million.
+- NYPL's additional unmet operating need: $15.2 million, comprising $5.1 million for collections, $1.3 million for emergency facility repairs, and $8.8 million for operating costs including unfunded mandates and cybersecurity.
+- BPL's remaining operating gap after the executive budget restoration: $8.7 million, down from $17.5 million.
+- QPL's additional unmet operating need: $9.62 million, comprising $2.7 million for deferred maintenance and OTPS, $2.1 million for unfunded wage growth, $1.2 million for library materials, and $1.2 million for the PAH prescription drug benefit.
+- Combined additional unmet operating needs across all three systems: approximately $33.5 million.
+- PAH/PIKA unfunded mandate cost per system: $1.7 million for NYPL, $1.2 million for BPL, $1.2 million for QPL — imposed without compensating funding after a city-DC37 contract negotiation in which libraries were not included.
+- BPL capital backlog: $400 million to bring all 62 branches to state of good repair, of which $130 million is classified as critical infrastructure (roofs, HVAC, life safety).
+- NYPL unfunded capital needs: $330 million over five years, including $125 million for comprehensive renovations, $80 million for state of good repair, and $70 million for critical maintenance.
+- QPL total capital need: $252.5 million, with $35 million in shortfalls already filled this fiscal year.
+- Combined capital backlog across all three systems: approximately $983 million; current capital plan funds roughly half.
+- All three systems are each requesting a $150 million transformational capital investment from the city (total $450 million), and each requesting $10 million in Council lump-sum capital allocation.
+- BPL received $15 million in the executive budget for the Sheepshead Bay Library; QPL received $18.5 million for Broad Channel; NYPL received $21.3 million including $16.5 million for Great Kills in Staten Island.
+- BPL: $12.8 million in DDC project shortfalls currently blocking projects from proceeding.
+- Mayor has committed to a goal of funding libraries at 0.5% of the city budget; libraries currently receive approximately 0.42%, with a gap of roughly $43 million across all three systems.
+- NYPL funding mix: approximately 60% city, balance from state formula ($20 million), earmarks, endowment returns, and private fundraising of approximately $80 million per year.
+- BPL funding mix: 85% city, approximately 10% state and federal, balance private.
+- QPL funding mix: approximately 95% city.
+- System-wide full-time vacancy rate as of March 2026: 8.1%, representing over 378 unfilled budgeted positions; NYPL has 113 vacancies, BPL has 87, QPL has approximately 80.
+- BPL lost 177 hours of branch service in the last calendar year due to staff shortages; QPL lost 442 public service hours due to unplanned building-related closures.
+- BPL recorded over 6 million visits, 10 million circulations, and 841,000 program attendees in the last calendar year; over 1,100 adult literacy learners and 16,000 workforce development participants served.
+- NYPL high school after-school program attendance: 68,000 last year, a 31% increase over the prior year.
+- QPL Wi-Fi usage up 51%; 90% of QPL branches have extended Wi-Fi reaching 150 yards from the building, operating 24/7.
+- NYPL wireless sessions: 2.7 million in FY25, up 12% from FY24; BPL wireless sessions approximately 1.7 million in last full year.
+- QPL fleet: replacing entire vehicle fleet; first new delivery received, several more on order.
+- Richmond Hill Library (QPL): total funding obligation $24.2 million; design complete; bid packaging expected by end of FY26; construction notice to proceed forecast for early 2027; substantial completion forecast winter 2029.
+- BPL Pathways to Leadership program: six cohorts completed, approximately 30 new librarians grown from existing non-librarian staff.
+
+Action Points
+
+- All three library systems to provide the Finance Committee with a detailed breakdown of vacancies by title (librarian, custodial, security, maintenance).
+- BPL to provide a breakdown of the $130 million in critical infrastructure capital needs by specific project.
+- QPL to provide a detailed breakdown of its $252.5 million capital needs, including priority rankings and emergency items, to the Council.
+- QPL to confirm and provide details to Chair Lee on MOIA English Language/ESOL funding received by QPL.
+- All three library systems to submit fleet inventory data to the Finance Committee, including number of vehicles, types, average age, and percentage beyond useful life.
+- QPL to continue addressing AC and heating issues in fleet vehicles and maintain ongoing dialogue with union partners on this issue.
+- Chair Lee to follow up with OMB regarding the PAH/PIKA prescription drug unfunded mandate and seek resolution so that cost does not come out of baselined library operating funds.
+- Chair Lee to host a roundtable with DDC commissioner, library systems, and cultural institutions to address capital procurement dysfunction, cost overruns, and delays.
+- Council to continue advocacy for libraries to be funded at 0.5% of the city budget, up from the current 0.42%.
+- Council to consider expanding MOIA ESOL/English Learning funding to ensure equitable coverage across all three library systems and boroughs.
+- Council to examine whether a direct payment model (rather than reimbursement-based capital construction grants) could be extended to standardized library repair work such as HVAC and roofing, as raised by BPL and QPL.
+- QPL (Walcott) to follow up directly with DDC regarding the design-build announcement and establish a proper collaborative communication channel with DDC leadership.
+- NYPL to continue working with DCAS and Congressman Torres on the neighborhood internet/Wi-Fi expansion program to provide home broadband access near library locations.
+- All three library systems to provide the Finance Committee with details on state operating aid received in FY26 as a baseline for FY27 comparisons once the state budget passes.
+- Council members to ensure constituents are aware that public testimony on all agencies' FY27 executive budgets will be taken on Wednesday, June 10th beginning at 9:30 a.m.
+
+## Full Transcript
+
+[**(00:00:11)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=11s)
+
+
+
+Sorry, we are just waiting for them to adjust the camera angles because we know angles are important. Sorry, I never know yet if I am supposed to gavel in if we have continuance. Okay, just in case. All right, so good afternoon and welcome to the second FY27 executive budget hearing for the day, focusing on our city's library systems. This is going to be a fun one. I am CM Linda Lee, chair of the Finance Committee, and I am pleased to be joined by Deputy Speaker Dr. Nantasha Williams, chair of the Committee on Cultural Affairs, Libraries, and International Relations. I have been joined by my colleagues CM Hudson, CM Maloney on Zoom, CM Brooks-Powers, CM Restler, CM Schulman, CM Sanchez and CM Ossé. Welcome Tony Marx, president and CEO of New York Public Library. Dennis Walcott, yay, president and CEO of Queens Public Library. Sorry, I just had to, you know, Queens. Karen Shien, vice president and CFO of Brooklyn Public Library, and your respective teams. Thank you all for joining us today to answer our questions.
+
+On May 12th, 2026, the administration released the executive financial plan for FY26 to 2030 with a proposed FY27 budget of 124.7 billion. The library's proposed fiscal year 2027 budget of 526.6 million represents an increase of 35.2 million or 7.2% from the 491.4 million originally budgeted in the FY27 preliminary plan. This increase results from several actions, mostly the 31.7 million baseline funding starting in FY27 for subsidy to libraries for operational support. In the Council's preliminary budget response, we called on the mayor to add 30.7 million to our three library systems to support their critical operations and resources as a third space for New Yorkers. We were pleased to see that 31.7 million was included in the plan.
+
+The combined unfunded capital backlog across the three library systems represents a significant deferred maintenance need to the city's public portfolio. The distribution of capital needs is deeply inequitable and branches in historically underserved neighborhoods are disproportionately represented among the most deteriorated facilities. Further, during the preliminary budget hearings, there were design-build and broad application concerns and procurement issues identified.
+
+As New York continues to face an unprecedented housing affordability crisis, the Council remains interested in opportunities to maximize public assets, including the thoughtful development of affordable housing on top of public library facilities where appropriate. These projects represent a unique opportunity to modernize aging library infrastructure, expand community space, and create much-needed affordable housing while ensuring libraries continue to serve as vibrant and accessible centers for New Yorkers. I will now turn it over to my co-chair for this hearing, Deputy Speaker Dr. Nantasha Williams, for her opening statement.
+
+[**(00:07:18)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=438s)
+
+
+
+Thank you. Good afternoon and thank you to everyone joining us today for the Committee on Finance jointly with the Committee on Cultural Affairs, Libraries, and International Relations fiscal year 2027 executive budget hearing. I would like to welcome the representatives from the three public library systems and my colleagues in the Council. New York City's three library systems — the New York Public Library, the Brooklyn Public Library, and of course the Queens Public Library — together operate 220 branches across all five boroughs, making them one of the largest public library networks in the country. These institutions are central community anchors, supporting literacy, workforce development, and lifelong learning for millions of New Yorkers every single day.
+
+I am pleased to report that the fiscal year 2027 executive budget includes $526.6 million for our three library systems, a $35.2 million increase from what was proposed in the preliminary plan. This is a meaningful step forward and it reflects the sustained advocacy of this committee, our colleagues in the Council and library supporters across the five boroughs. Of particular significance is the executive plan's decision to baseline $31.7 million in additional city funding for library operating expenses beginning in fiscal year 2027. In fiscal year 2026, the Council fought hard to secure 30.7 million in one-time funding for these same purposes. We made clear in our fiscal year 2027 preliminary budget response that these funds needed to be baselined, not treated as a one-year fix, and the administration has responded. This is a victory for our libraries and for the communities they serve.
+
+While today's hearing focuses on the executive budget, I want to be clear that our work is not finished. The Council will continue to examine whether the staffing levels, program funding, and capital commitments in this budget are sufficient to meet the needs of all New Yorkers. As of March 2026, the libraries carry a full-time vacancy rate of 8.1% with over 378 budgeted positions unfilled. We will be asking our library partners about their plans to address those vacancies and what additional support they need from the city. I also want each system to tell us about their capital needs in fiscal year 2027, active capital projects and any recent groundbreakings. I want to hear about any branches that need comprehensive renovations and about your most urgent projects across the boroughs.
+
+Before we begin, I would like to acknowledge my colleagues who are present: CM Sanchez, CM Ossé, CM Brooks-Powers, CM Brewer, CM Lewis and CM Hudson. I would also like to thank Finance staff Karolina and Aaliyah for their work on this hearing, as well as committee staff Alejandro and Regina for their support. Finally, I would also like to thank my staff Priyanka and Shaki. I am going to ask my colleagues to limit their questions and comments to three minutes. I will now turn it over to committee counsel to administer the oath to members of the administration, but this is not the administration, so I do not think you get sworn in. So with that, I turn it over to you.
+
+[**(00:10:45)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=645s)
+
+
+
+Okay, one quick thing before that. Just as a reminder, for this year's executive budget joint hearings, we will take public testimony on all agencies' executive budgets on Wednesday, June 10th, beginning at 9:30 a.m. So please let your folks know that it is going to be on June 10th, Wednesday, beginning at 9:30 a.m. Okay. Sorry. Now you can go.
+
+[**(00:11:29)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=689s)
+
+
+
+Good afternoon. My name is Tony Marx and I am the president of the New York Public Library. It is a particular pleasure to be with you all today. I want to thank City Council Speaker Menin, Deputy Speaker and Committee Chair Dr. Williams, Finance Committee Chair Lee, and all the members of the committee for this opportunity to testify on the mayor's fiscal year 2027 executive budget.
+
+As we all painfully know, for many years all the library systems, including NYPL, faced at this juncture significant cuts to our operating budget. Each year started with those deficits, with advocacy just to get back to even. Last year, at the last minute, we were held harmless and achieved additional funding. We are hugely grateful to the Council for leading the fight to make us whole. But that total of 32.7 million in restored and increased funds, as we all know, was one time and not baselined. So that was still the budget dance, as we lovingly call it. The budget dance is laborious. It is costly. It diverts resources and our attention and efforts from where they belong.
+
+But this year, we are so pleased to say, is different. Mayor Mamdani has delivered on his promise to end the budget dance with an executive budget that restores and baselines the libraries at 31.7 million, plus an additional 2 million for the Council's efforts to expand Sunday service in his FY27 preliminary budget. We are incredibly grateful to the mayor for that effort and of course we recognize and celebrate the City Council's ongoing essential advocacy and support. It is so refreshing to spend May and June doing the work of the libraries instead of the advocacy to keep us whole, so we can focus on our Sunday service, our after-schools, our summer learning and so much more.
+
+[**(00:13:47)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=827s)
+
+
+
+But that is the foundation that brings us again to steady state, and it is a foundation that, with your help and with the mayor's help, we would like to build on further. The mayor has indeed acknowledged that his move in terms of bringing us up to baseline is intended to ease the upcoming negotiations with the City Council and we hope those go very well.
+
+We ask you for increased expense funding, which stems from operating on a mostly flat budget for several years. New York Public Library alone has 52 million in unmet needs, particularly from rising costs of operations, because we know costs are going up for everything. Collections the same, and continued emergency repairs. We are also looking for a transformational capital investment from the city of $150 million for each of the systems. We hope that you will consider a $10 million request in capital funding from the Speaker and the borough delegations to address unexpected shortfalls and new projects.
+
+Let me dive in for just a minute. On the expense side, as I have mentioned and has already been mentioned by the chair, rising costs of operations, including technology, cybersecurity and compliance with unfunded mandates, require us to fit the bill. We have to fit the bill for maintenance, equipment and healthcare coverage without any increase in funding. Collections are so essential to what we have and what we can offer to our community, and we know the costs of those have risen alongside increased demand. We should celebrate that increased demand, given that that is not the case in terms of reading across the nation. Let us not be stingy in giving the people of New York the books that they are eager to read so that they will continue to read more. We cannot be hamstrung in our efforts to meet the diverse needs of our community, including diverse collections in every neighborhood.
+
+We of course need a budget for emergency repairs to help us reduce unplanned closings. When we are closed, we cannot provide any of our services or access to our collections. Given that our buildings are small and often aging structures, they face real maintenance challenges. With additional funding, we can also do more. The mayor himself has said he is committed to working with the Council to eventually get to 0.5% of the city's budget for libraries. That would be most welcome. In fact, it would be fabulous. With that additional $28 million for NYPL alone, we could expand hours and days of services. We could continue to expand, for instance, our high school after-school program, where attendance last year was 68,000 — a 31% increase over the previous year. We can continue, again as an example, to host career fairs at a time when it is increasingly hard for our teens to find jobs. We had 1,600 attendees in the past. We would like to do much more.
+
+The PMRR continues to show steady increase in all of our program attendance, library card holders, computer and wireless sessions. The New York Times, in its survey of 35,000 New Yorkers, showed "more funding for libraries" as the top choice of our citizenry.
+
+On the capital side, our services are of course of little value if they do not happen in places that feel safe, welcoming and modern, let alone open. Many of our locations are in need of long-term structural upgrades and renovations. Continued progress is challenging for many reasons, as we have discussed for many years. That includes a city process that often results in wildly increased costs and shortfalls, and significant delays. We know that the Council is very aware of this situation. The mayor is very aware of this situation. In his commitment to excellence in government, he has talked about the need to enact reforms. Meanwhile, we are so delighted to be working with the deputy mayors who are focused on this effort. We have a great new head of DDC who we are also looking forward to working with. We look forward to any partnership that will create creative approaches to avoid cost overruns and delays so that we can use the funds made possible by the citizens of New York more effectively.
+
+We also look for a transformational investment of $150 million for each system. You will recall in 2016 we got $100 million. We used that to do complete renovations of five century-old Carnegie libraries in some of the most high-needs neighborhoods of the Bronx, Manhattan and Staten Island, as has already been mentioned by the chair. Another area is our colocation projects, where we use the air rights on top of libraries for affordable housing. We have discussed these with Speaker Menin, with the administration, with respective City Council members. We are eager to do these colocation projects wherever that is possible going forward.
+
+Alongside that, we also have $10 million in undesignated funds from the Speaker and borough delegations that would really be essential for us. They give us the flexibility to address unexpected shortfalls and new work that could be done in time for Council members to celebrate during their terms those completed projects with their constituents.
+
+As the mayor has recently noted, the budget dance kept libraries on the perpetual back foot, desperately trying to keep the same floor year after year instead of being able to advocate for more. We are so grateful to the mayor for getting us here, and here we are advocating for more. The libraries have always faced significant cuts in previous years. It is so wonderful not to be facing that this year, and it was always the City Council who joined us and championed our efforts. We are relieved not to be fighting to get back to even at this juncture. But we are doing more. We want to do more. Costs have gone up. So we need your help so that we can continue to do the great work that New Yorkers depend upon us for. We are the most visited civic institutions in this town. We are in every neighborhood, including the poorest, and we are proud of our efforts to meet the needs of New Yorkers, whatever they are, and to work with you to make that possible. Thank you so much for this opportunity to testify.
+
+[**(00:21:34)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=1294s)
+
+
+
+Good afternoon and thank you Speaker Menin, Finance Chair Lee, Deputy Speaker and Library Chair Dr. Williams, members of the committees, our Brooklyn delegation and the entire City Council. I am Karen Shien, Chief Financial Officer and Executive Vice President for Finance and Administration at Brooklyn Public Library. Brooklyn Public Library is grateful for your steadfast support. Your commitment makes it possible for our dedicated library workers, the over 1,000 members of DC37 Local 1482, to deliver the programs, services and resources New Yorkers count on every day. We also appreciate the Council's response to the FY27 preliminary budget calling for full restoration and baseline of library funding.
+
+For too long, the budget process has been defined by an unstable cycle where critical operating funds were granted temporarily only to be stripped away in the next budget proposal. This made planning impossible, drained staff morale, and ultimately harmed the very communities who rely on consistent library services. Thanks to our collective advocacy, the Council's leadership and the mayor's action, the FY27 executive budget restores and baselines $31.7 million in operating support to the library systems, of which our share is 8.8 million. We are deeply grateful to Mayor Mamdani and the City Council for working to make this crucial funding permanent and welcome additional conversations about funding libraries at 0.5% of the city budget. City support is vital and it has been far too long since we have had this level of stability. Ensuring our operating funds will be available in future years is a major relief and demonstrates that public libraries are a priority for this city. We appreciate the end of the annual budget dance.
+
+However, we cannot rely on this restoration alone. As it stands now, the library's budget is flat without additional funding to address our remaining operating gap. After years of fighting back cuts, we have struggled to provide service as funding has not kept pace with the growing demand and the increased cost of doing business. Patrons have felt these effects, whether through longer wait times for books or more frequent service disruptions. In the last calendar year, Brooklyn neighborhoods lost 177 hours in unplanned delays and closures at their libraries due to staff shortages. The restoration proposed in the executive...
+
+[**(00:24:11)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=1451s)
+
+
+
+budget will reduce our operating gap from 17.5 million to 8.7 million. While this is extremely helpful, a significant shortfall remains that will continue to erode service across our system if further steps to address it are not taken this year. Libraries are vital to the fabric of this city. Brooklyn Public Library and our dedicated employees are serving more patrons, protecting intellectual freedom, encouraging civic participation, and helping New Yorkers thrive. Across our 62 locations, the need for our services is only growing. In the last calendar year, Brooklyn Public Library recorded over 6 million visits, circulated books and digital materials over 10 million times, and welcomed 841,000 attendees to our public programs. Adult literacy and education programs enrolled over 1,100 learners pursuing high school equivalency diplomas and career certifications. The workforce development team hosted over 1,600 career workshops and one-on-one counseling sessions helping close to 16,000 individuals looking to advance in the job market. And just last month, we partnered with the Department of Labor and six elected officials to host a job fair that filled our lobby of the central library with more than 1,200 job seekers. While it is heartening to provide this opportunity, it just underscores the growing need for these vital services. We cannot keep doing more with less.
+
+As I mentioned earlier, Brooklyn Public Library must contend with 8.7 million in unavoidable costs in the upcoming fiscal year. A significant driver of this shortfall comes from mandatory non-discretionary expenses. This year, general health insurance costs grew by $2.7 million, including a $1.2 million unfunded mandate for the PIKA prescription drug benefit. Our staff deserves great benefits. However, this benefit was negotiated and implemented by the City without the corresponding funding allocated to the libraries. Every dollar we must redirect to cover unfunded mandates like this impacts our ability to provide core public services. Beyond health care, the cost of basic library operations continues to climb. Our buying power is diminished as the price of books and materials is up 5%. Book costs increased $2.5 million this year, including $400,000 just to maintain our current digital collection. Books are the lifeblood of the library. Ideally, we should be expanding our collection. Instead, we are spending more just to keep it steady.
+
+Keeping our doors open and our facilities safe also requires us to dip into precious operating dollars. Our branches periodically encounter emergencies requiring immediate attention that cannot be addressed through a traditional capital project. The heavy rains that flooded the City last Wednesday flooded three of our branches. During an extreme cold snap just a few months ago, a sprinkler failure caused flooding that left $100,000 worth of damage at the Sunset Park Library and kept the community out of the branch's lower levels for weeks. And at the Leonard Library, water infiltration in the building required an immediate infusion of $800,000 to waterproof the lower level and make the building safe for staff and patrons. The cost of this emergency work and rising maintenance contracts has cost us $4 million this year.
+
+We are grateful as we are for restored and baseline funding. We have a significant deficit to manage. The Council has traditionally championed a library initiative, crucial expense funding that has helped fund library operations, including staff positions, collections, and building maintenance. For the past several years, that subsidy was $15.7 million for all three systems. The Council's support has been instrumental in maintaining consistent library services for the City and we hope we can count on it again this year.
+
+Brooklyn Public Library is the steward of more than 1 million square feet of City-owned buildings with a burden of over $400 million to bring them up to a state of good repair. Roughly one-third, or about $130 million, are considered emergency needs: heating and cooling systems, roof replacement, and safety enhancements. Our infrastructure is aging. Brooklyn's library buildings average 74 years old and 20 of them are over a century old. It is no wonder that we lost over a thousand hours of public service due to system failures last year. It is difficult to overcome this capital crisis without adequate funding. Lacking a source of recurring capital dollars, our team cannot effectively address emerging problems or plan for preventative maintenance through the capital process.
+
+With your partnership, Brooklyn Public Library has made progress over the years. The Council's lump-sum capital allocation for libraries has been a lifeline, allowing us to address urgent repairs and fill shortfalls in stalled capital projects across the borough. We have $12.8 million in DDC project shortfalls and the Council's capital funding has been instrumental in helping us keep projects moving forward. We are very grateful for your support and this year, once again, we have requested $10 million in capital funding from the Council through our Brooklyn delegation. BPL has also submitted a 10-year capital plan request to the administration for $276 million to care for our physical plant, address shortfalls, and upgrade our technology. Like our fellow library systems, our request also includes a transformational $150 million investment that would enable five comprehensive branch overhauls in Brooklyn. An investment of this scale has only happened once, more than a decade ago, and the results are paying dividends. Comprehensive branch renovations address multiple improvements in a single project, saving time and money and reducing interruptions in neighborhood library service.
+
+We are thankful that the administration has added $15 million in the executive budget towards one of our capital projects and we urge City Hall to allocate additional capital funding to the library. We thank the Council for your long-standing borough-wide capital support and our members who have generously funded library projects in their districts. In a poll at the start of the new year, the New York Times asked readers, "How can we make the City a better, more livable place for all?" and New Yorkers overwhelmingly ranked funding libraries as their top priority. Libraries are a beloved public good. And as a library user named Kentney wrote to us this spring, Brooklyn Public Library made it possible for a shy, introverted little immigrant girl to travel the world, explore magical lands and fantastical creatures. From those pages, she learned to be open-minded, fearless, and become a lifelong learner, a bookworm committed to social justice. Brooklyn Public Library is grateful for the relationship we have with all of our patrons, our staff, and all of our City's leaders. We look forward to continuing to work together serving our communities with the investment that they deserve. Thank you so much.
+
+[**(00:31:50)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=1910s)
+
+
+
+Thank you, Tony and Karen. Good afternoon, Speaker Menin, Chair Lee, Deputy Speaker, Chair Dr. Williams and the esteemed members of the City Council and the various committees that are represented today. My folks always have an over-under on how long it will take before I deviate from the script. So for those who have under 15 seconds, they will be the winners today, because I just want to take this personal note to thank each of you for your support, but more importantly your advocacy both at the full City Council level but also in visiting our individual libraries as well. It makes a tremendous difference to our staff members, to the people who work day in and day out. Before I came down here, I was at Central. I always try to be at Central when possible at 10:00 in the morning when we open our doors, because it really just reinforces the value of who we are as a library. Walking through our doors, we had two classes from PS 95. We had people who were coming to a teen librarian training program. We had people who were coming for job guidance, for ESOL classes, and of course to read the books and to receive the various program services that we offer. That is who we are as a library and all of you know that, and your advocacy allows us to continue that. So I just wanted to add that in, because you guys are always there for us. You are there in so many different ways, both from a collective point of view, but also when you are getting on our case as far as making sure
+
+[**(00:33:34)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2014s)
+
+
+
+we are providing the appropriate services to the community. What Tony and Karen had to say, I basically say ditto. I am not going to read all my remarks, but quite frankly, how it pertains to Queens, I look forward to your questions as well. Our budget for fiscal year 27 and beyond allows us to plan effectively for the out-years. We are always reacting based on the cuts and this gives us a foundation to really take a look at moving forward and what it means. But I would not be honest if I did not say we are not satisfied. The reason we are not satisfied is because, as Karen indicated and as Tony indicated, we have basically stayed flat, if not even gone further back. Costs have been shifted to us. That is buried deep inside the budget. Karen talked about the additional expense that we have to absorb and that was not there before — that is $1.2 million. We have contractual insurance premiums that are going through the roof. We have mandated expenses which means that we are forced to spend less on books, ebooks and other library materials and defer branch maintenance and repairs and forego other key operational needs. Each of us can cite the number of hours we have lost as a result of those needs. As Karen also indicated and Tony mentioned, as a result of the recent flooding, we only had one library that we could not open for the day. In the past, we have had library after library after library that has suffered as a result of deferred maintenance.
+
+Having our unmet needs addressed would enable us to provide the public with more efficient service. Meanwhile, last fiscal year we lost 442 public service hours due to unplanned closures resulting from building issues. With the planning that the baselining of the money allows us to do, and we thank the mayor for that, it allows us to take a look at what we can plan for this coming fiscal year and moving ahead as well. But the needs are still there.
+
+We need more books and materials, as Tony and Karen have indicated, in our collections, which would improve wait times. The ability to hire branch and support staff resulting in enhanced public service and programming — that is so important. Our HR team at Queens has done a masterful job over the last year in working collectively with all the departments within the Queens Public Library to make sure we are bringing people on. But having that money there allows us to do that in a better way. We also need upgraded public IT networks to ensure safe and updated systems for internal and external use and to reinforce our buildings to address the infrastructure issues and unplanned closures. We know the City Council recognizes this and the tremendous impact that libraries have on the lives of New Yorkers. I am extremely blessed to have the Queens delegation, and I look at each of you — you have been outstanding for us. You are there for us on a regular basis. We have that type of relationship with each other when we see each other at parades like yesterday and we are able to interact when we see each other at our libraries and when you are walking down the street in front of one of your libraries and I happen to be visiting there. Each of us has that unique relationship and Queens, you guys are really on the money for us and we appreciate all the money you have put in place. That has been baselined this year for our Sunday initiative as well.
+
+The Sunday initiative has benefited libraries throughout the borough as well as throughout the City and we thank you for that.
+
+Our buildings function, as you know, as vital social infrastructure — spaces where the public can go to learn and connect with others with no barriers to entry. I call it our community living rooms. People are able to come in, network with each other, sit down, see people from various diverse backgrounds and religions, and just be in a library and feel the safety that goes along with that. Our fiscal year 27 system-wide capital needs is $252.5 million, comprised of major projects such as renovations and infrastructure projects. To Chair Lee, the library that you walked by yesterday, Douglas Library — when Little Neck Douglas has their Memorial Day parade next year, that library will not be open because we will be moving from that building from a 7,500 square foot building to roughly a 16,000 square foot building. So we will be expanding our infrastructure, not just there, but in a number of your districts as well. That is why libraries are requesting from the administration $450 million — $150 million for each system — to renovate at least 12 buildings throughout the City. For Queens, we are looking at Hollis right now, which is under renovation. Storer, our Carnegie Library, is under renovation. Baisley Park is under full renovation as well. We will soon be opening a brand new location for our Left Rack City Library on the opposite side, because that building had been flooding the Left Rack Library and now we will have a brand new Left Rack Library.
+
+I have to give you that definition: summer technically goes to December 23rd or so, but we will be opening it this summer and before December 23rd when it is actually nice out — summer and not the cold part of summer.
+
+We have these buildings currently under construction, and Arverne as well. I look right over there because Arverne — you can see the tangible results of the construction because it has been closed off, not the library itself, but we are lucky to have a lot where we are building an extension onto Arverne. We also have branches in the DDC pipeline that will undergo major comprehensive renovations, including South Jamaica, including Briarwood, including Maspeth, and including Jackson Heights. Some of these are very complex projects, but we look forward to working with DDC around the development of these projects as well. It is essential that we keep the momentum going in modernizing our aging buildings, but it requires capital investment. This fiscal year, we have already filled the gap of shortfalls by $35 million. What Tony and Karen indicated about that $10 million from the City Council has been instrumental in us filling those shortfalls. At the same time, we need to make sure we continue that because shortfalls will pop up. As you well know better than I do, when those shortfalls pop up, if we are not able to fill them, then the project stops altogether. We cannot afford that to happen. So that is why we are requesting continued capital support in the amount of $10 million.
+
+Speaking of DDC, you have heard me talk about DDC in a very positive way. But I must say here, for the first time, I am just extremely disappointed with DDC. I am an old guy. I am not into social media at all — that is just way above my understanding in life. But someone shared with me a social media clip of the DDC commissioner in front of one of our libraries talking about what he is going to do around design-build. Yet at the same time, we did not get the courtesy of someone standing in front of our library talking about design-build. I did not get the courtesy as the president and CEO of the Queens Public Library of someone saying, "Hey, this is happening," even before we sat down one-on-one and talked about the future of our collaboration. That does not help with collaboration and working together. So I feel it is important just to say we want to collaborate. We are here to collaborate with DDC, but it takes two to collaborate, not just one.
+
+In March, I spoke optimistically about the future of libraries under the City's new leadership. I give my big compliments to the mayor. I also give my big compliments to Deputy Mayor Sue. We have had a fantastic relationship. She is always available. She calls, she texts, she meets in person, we meet online virtually. I cannot say enough positive things about the deputy mayor and her relationship with the libraries and we look forward to continuing that relationship. You all understand our libraries are the centers for learning, connection, and opportunity where our trusted and dedicated staff are here for everyone, whatever their circumstances, whatever the issue. The chair knows last month, Cambria Heights Teen Center hosted its annual
+
+[**(00:43:09)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2589s)
+
+
+
+Prom attire giveaway where young people browsed through 1,600 donated dresses, shoes, ties, suits, and accessories and attended workshops to ensure a fun and safe prom night. Matter of fact, one of the mothers there had two children there. She went up to one of our team members and said, "I just want you to know you saved me close to $3,000 with the amount of attire, the shoes, and the bling I was able to get today, and we thank you for that."
+
+Our job and business academy recently held a job fair at the Flushing Library, connecting more than 600 job seekers with prospective employers. Our outstanding staff are planning activities for summer at the library, including a summer reading initiative in partnership with the New York City public schools. I always look forward to that. We get together with the chancellor, normally the deputy mayor and other folks, talking about the summer in the city and what it actually means for our children and the partnership we have as a city working in conjunction with the school system and our public libraries.
+
+And next month, we are going to be celebrating individuals who completed the library's professional child care and home health aide certification trainings with a graduation ceremony. We love being here to serve the public. We really do. We are here to be public servants on a regular basis. And with the investment that you have provided, with hopefully increased investment that you will provide, we will be able to continue to expand our services to build an informed and equitable and livable city for all.
+
+As I close, again I want to say a big thank you to all of you for your advocacy and support, and also thank the mayor for his advocacy, his support, his money, and his baselining of dollars, which has benefited us tremendously in our planning efforts. Thank you for the opportunity to testify.
+
+[**(00:45:12)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2712s)
+
+
+
+Thank you so much. In the interest of time, I am going to breeze through a few questions I had, because I am sure my other colleagues will be asking very similar questions. And also before I start, I just want to recognize we have also been joined by CM Stevens.
+
+So, as we know, and we just heard from you all, the budget is not enough. And the baseline, as great as it is, is really bringing us closer to what it probably should have been in previous years and is helping with the planning and the staffing. Yes. But just curious to hear from each of you what additional expense funding is needed for, among other things, maintaining 7-day service where applicable, evening hours, weekend programming, all of the things that you all need to do. What is the sort of delta, if you will, of what is in the budget versus what
+
+[**(00:46:08)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2768s)
+
+
+
+is needed? Thank you, Madam Chair. So the New York Public Library requests $15.2 million in additional expense funding to address unmet needs and rising costs. Those include library collections, $5.1 million. Non-capital eligible emergency facilities repairs to keep our doors open, $1.3 million. Operating costs of $8.8 million, which include the new unfunded mandates that we have already heard about, as well as cyber security, core technology costs, incremental services program and costs of recently opened locations.
+
+[**(00:46:49)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2809s)
+
+
+
+Thank you. BPL requires an additional $8.7 million to close our operating gap. I had briefly mentioned $2.7 million in increased health care costs. In addition to that, we have unreimbursed wage growth among our union employees. We also have increased minimum wage for part-time employees. We also have an increase in the number of service points due to — which is a great problem to have — larger libraries. Our libraries are now built to serve our public and have teen centers as well as children's libraries and adult spaces. These libraries are larger and have more service points and we do not actually have enough staff to properly meet the demands of those libraries. Our collection — we require another $2.5 million to meet the rising costs of our collection, and of course our building maintenance contracts continue to increase.
+
+[**(00:48:02)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2882s)
+
+
+
+With Queens, it is $9,620,700, of which $2,700,000 is for deferred maintenance and increased costs, OTPS $2,700,000, unfunded wage growth $2,100,000, library materials $1,200,000, PAH expense $1,200,000, and that will come to $9,620,700.
+
+[**(00:48:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2913s)
+
+
+
+Okay. And then for all of your budgets, is it 100% city funding or is some of it privately raised? I am assuming donations, all of those things. But...
+
+[**(00:48:42)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2922s)
+
+
+
+I think we are probably the heaviest on the city-funded portion percentage-wise. It is roughly 95% for the Queens Public Library.
+
+[**(00:48:51)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2931s)
+
+
+
+We rely on 85% from the city and about 10% from state and federal, and then the balance is from private.
+
+[**(00:48:59)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2939s)
+
+
+
+So the New York Public Library is slightly different. About 60% of our funding systemwide comes from the city, for which we are hugely grateful and dependent. But we do get some state funding, partly by formula — $20 million — and some earmarks beyond that. Beyond that, it is private funding, return on an endowment, as well as my job to raise somewhere around $80 million a year, which funds the research library for all five boroughs and for all comers from anywhere around the world.
+
+[**(00:49:31)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=2971s)
+
+
+
+Perfect. So I am just going to go really quickly into the Mayor's Office of Immigrant Affairs English Language ESOL funding. I have to bring this up because — okay, so we know that $500,000 for NYPL goes for this service, $300,000 to BPL in FY26, but QPL has nothing. Am I reading this wrong? You know, we have the largest number of immigrants in Queens. So just wanting to know how this funding will expand access to English learning services and how many additional New Yorkers are expected to be served. Because especially in a city like New York City and especially in a borough like Queens, there are so many different languages spoken. I would love to see if there is a way for us to help advocate for that for Queens Public Library as well.
+
+[**(00:50:25)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3025s)
+
+
+
+By all means. We do get support and I will get you — maybe I missed that. Yeah, let me get it in a couple of minutes and then let you know.
+
+[**(00:50:34)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3034s)
+
+
+
+Okay. So I will be a little less angry then. No, no — if there is money going to QPL. Okay. But if you all could just talk about those programs and services and if there is an additional need to expand that and how many folks you are serving with that.
+
+[**(00:50:50)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3050s)
+
+
+
+Great. I can jump in. Since July 1st, 2025 to present, BPL has delivered 78 classes across 32 branches, including three virtual sites, and we have served 1,488 patrons. Continued funding of $500,000 would support, in next year, the We Speak NYC classes and multilingual immigrant navigation. We do this work in collaboration with our adult learning and outreach services. Of course we would greatly appreciate any additional support for this program. It is very well attended and the demand is high.
+
+[**(00:51:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3096s)
+
+
+
+At the New York Public Library, back in FY25 we received $350,000 to establish English learning and support centers in 20 branches. In FY26, we got an additional $500,000 which allowed us to add 10 more branches. This is all part of a collection of works aimed at the immigrant community, those who need help with English. This is a moment in history where not everyone in this country is being as respectful of the immigrant community. It is in our lifeblood. It is basic to us. We are the first stop for most immigrants. We respect everyone. We serve everyone. We do not ask for any papers from anyone. Everything we do is free. These are essential resources for our new New Yorkers. And we have all been new New Yorkers at some point.
+
+[**(00:52:31)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3151s)
+
+
+
+So for us, it is $500,000 as well. We have hosted classes at 28 branches. We can break down the 28 locations, but those locations are in many of your respective districts within the Borough of Queens as well.
+
+[**(00:52:47)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3167s)
+
+
+
+No, thank you. And of course, as we know, a lot of those services and folks who come to your library systems are receiving a lot of other social services, and I know you all partner with our offices as well. So thank you for that.
+
+My last question is just around the capital funding, which we know is not enough. There is an additional $212 million in the capital commitment plan, which is great, in FY27. I just wanted to know what the limitations are in the $212 million. If you could each walk us through what specifically the increase in the capital plan from the preliminary to executive plan includes for each of the branches, and whether this is driven by new projects, rescoped existing projects, or reestimated costs.
+
+[**(00:53:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3216s)
+
+
+
+Sure, I can jump in. I am actually not familiar with the $212 million number, but I can share with you that BPL has received $15 million from the administration in the executive budget, and that will support our Sheepshead Bay Library project. We are seeking for FY27, I believe, a total of about $48 million in order to meet our full needs in FY27.
+
+[**(00:54:10)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3250s)
+
+
+
+So with Queens, we received — and we are very appreciative — $18.5 million for Broad Channel, and Broad Channel is our smallest library. But again, internally what we do is we have a ranked priority order as far as those libraries that have capital needs, especially emergency capital needs, and so any new monies would go to those particular libraries in our ranked order as far as priorities. We have submitted it to OMB in a variety of different ways and we would be glad to have it reinforced as well by the City Council.
+
+[**(00:54:48)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3288s)
+
+
+
+The New York Public Library's active capital portfolio is roughly $332 million with 30 projects. Our current executive budget is $21.3 million for capital improvements. The mayor provided $16.5 million as well as funding from the Bronx Borough President for Soundview and City Island, and the Manhattan Borough President for Hamilton Grange, Washington Heights and Shamberg. We are grateful for all of that and there is so much more work to be done.
+
+[**(00:55:21)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3321s)
+
+
+
+And then the projects that are currently being looked at — do any of the facilities have they been flagged for critical infrastructure, health, safety, or ADA compliance needs? And if so, can you identify them for the record?
+
+[**(00:55:45)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3345s)
+
+
+
+I can say that we have only four branches that are not yet fully ADA compliant. We have plans, I believe, on two of those. One of those is really hard for us. We have been working with city agencies — just the physical realities, landmarks, et cetera. So we currently have 37 active projects with the Department of Design and Construction, and part of that includes some ADA work as well. We have one in your district, Chair, that is several years off — that is Queens Village, which has ADA compliance issues as well — and so that is on our drawing board. There are a number of projects that we are looking at as far as moving forward with our capital infrastructure work.
+
+[**(00:56:37)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3397s)
+
+
+
+BPL has $40 million in critical infrastructure needs going forward. I do not actually have that broken down by specific projects, but we can get that to you.
+
+[**(00:56:49)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3409s)
+
+
+
+Perfect. And I am going to pass it on to our deputy speaker.
+
+[**(00:56:54)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3414s)
+
+
+
+Thank you so much, Chair. I just want to talk a little bit about state funding. What did libraries get in total in state operating aid and what did each system get?
+
+[**(00:57:14)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3434s)
+
+
+
+BPL received $8.7 million in this fiscal year in operating dollars and $3.5 million in state capital dollars last year in FY26.
+
+[**(00:57:27)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3447s)
+
+
+
+The FY27 budget has not passed yet, right? I guess you can tell us what you got last year.
+
+[**(00:57:37)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3457s)
+
+
+
+Queens is roughly the same.
+
+[**(00:57:40)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3460s)
+
+
+
+Total state expense and capital funding in FY25 was $21.9 million. And we know that the governor has proposed a budget with a very small increase in expenses for us, as well as capital aid, which is currently being proposed at a slightly lower amount.
+
+[**(00:58:04)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3484s)
+
+
+
+Thank you. Because the budget did not pass, I guess you could share what you got last year in total in state construction aid. Is this the same thing as capital? Yes. Okay, so we can skip that. The fiscal 2027 executive plan includes a total of $3.8 million in other adjustments in fiscal 2026 and $3.5 million in the out years. The adjustment in fiscal 2026 for heat, light and power is $1.5 million. Can you tell us which branches needed this adjustment?
+
+[**(00:58:38)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3518s)
+
+
+
+So heat, light and power is centrally managed by the city. They budget for it in our budgets so that they can track where usage is. But the needs are managed citywide and so we do not really have insight into which branches, but it is actually probably just the rate increase and it is applied equally to all of the libraries. Just to add to that, I know that we are also working with DCAS to make sure we are more efficient as well. They have a couple of special projects with us as far as managing the heat and the power. So there has been a lot of collaboration back and forth with DCAS and some special grants to help us manage it, but as Karen indicated, it is centrally managed by the city itself.
+
+[**(00:59:39)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3579s)
+
+
+
+So I will just say the same is true for the New York Public Library. OMB makes adjustments. They do not give us the exact details on that. I am pleased that we are also continuing to address sustainability on our branches, working with DCAS — the Bronx Library Center, solar photovoltaic at at least five branch locations — and we hope to do more of that. I would say the more that I ask questions year after year, it is
+
+[**(01:00:10)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3610s)
+
+
+
+like the more I really realize I do not know anything at all. Which is, you know, an old saying, because I am like, what? They manage it? DCAS. Okay. So that said, you all have no idea on utility invoices — all of that gets managed by DCAS. Okay, good to know. Thank you for the enlightenment. Okay, new needs.
+
+[**(01:00:30)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3630s)
+
+
+
+Please describe any new needs submitted to OMB for FY27 that were not funded in the executive budget. So we had a $17.5 million operating gap — we are looking at a $7.5 million operating gap going into FY27. We are grateful that we received the $8.8 million in the executive budget, or we hope through adoption. That leaves us with $8.7 million. And the need basically for us breaks down to increasing health care costs, as well as increased minimum wage for part-time workers, an increased number of service points in our libraries, our building maintenance needs continue to grow, and our collection — the cost of buying our collection continues to increase year over year.
+
+[**(01:01:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3696s)
+
+
+
+NYPL requests $15.2 million to meet additional expense funding and to address unmet needs. As I mentioned, that includes library collections, $5.1 million. Costs of books have gone up and we need to make sure that we have more diverse books in all of our neighborhoods. Non-capital eligible emergency facilities repairs, $1.3 million, that allows us to ensure that we do not have emergency closings. When we are closed, we cannot provide any of our services. As well as, most importantly, operating costs, new unfunded mandates, cyber security, core technology costs and incremental services.
+
+I do want to add that we hope to continue to work with the mayor and with you all to get to his goal of 0.5% of the city's budget. We are now at 0.42%. So we are only talking about 0.08% of the budget. That $43 million for the systems would get us expanded services, more branch hours, services for all ages. Research hours would expand, education programs would expand, more library materials, and additional Sunday locations that have been so important to the City Council.
+
+On the capital front, we have nearly $330 million in capital needs over the next five years. That includes $125 million for comprehensive renovations of libraries, as we have done with our five Carnegies previously, $80 million in state of good repair projects and $70 million for prioritized critical maintenance. We are accordingly requesting $150 million of transformational investment so that, as Dennis said, we can plan and we can execute. We can work with the city, get this done on time, without delays, and really provide what the citizens of New York need and deserve.
+
+[**(01:03:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3816s)
+
+
+
+And ours is $9.6 million, and it goes to again the deferred work around IT and other areas that are important around our critical services, our unfunded wage growth, the library materials, the PAH spend — again reinforcing that it is $1.2 million — and that will come to $9.6 million. And Chair, if I may just pick up on a point that I wanted to mention in response to Chair Lee's question before. We have to always remind ourselves that
+
+[**(01:04:06)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3846s)
+
+
+
+the library systems got a peg on the capital side that was never restored, and that has impacted us as well. That peg was two years ago. And as a result of that, we have had to really adjust accordingly with our capital work, because that peg is catching up with us each year that we move further into our capital planning. So I just wanted to reinforce the point on the capital side that while we have some capital money, that money is getting shorter and shorter as a result of that peg that was never restored.
+
+[**(01:04:41)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3881s)
+
+
+
+The PAH expense that you all have been talking about today — is this a newer expense that you all did not intend to have to pay? Because this is the first time I am hearing about it, so I just want to understand a little bit more.
+
+[**(01:04:57)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3897s)
+
+
+
+The PAH expense.
+
+[**(01:04:58)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3898s)
+
+
+
+>> So this is basically an enhanced prescription drug benefit for the union employees and historically the libraries were not required to cover this monthly expense. We received notification in December from OLR that starting January 1st, we would have to pay, I believe it is about $120 per union employee per month to cover this benefit. As I said in my testimony, our staff deserves excellent benefits. We have no concern about this benefit being offered to our employees. It is that the requisite funding to support this unfunded new need has yet to be provided to the libraries. We are in conversation with OMB and we hope that potentially those funds will be made available to us in adoption. It was shifted to us quite frankly. As a result of that, while we appreciate the money that we have received and the baselining, it is an added expense to us. As a result of that added expense, it has to come from somewhere else. That is the key part of this. It has everything to do with the expense absorption, not what we want to provide to our staff.
+
+[**(01:06:30)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3990s)
+
+
+
+>> Correct.
+
+[**(01:06:31)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=3991s)
+
+
+
+>> So let me just put this in context. We would love — I think we would all love — to see our colleagues who do amazing work be paid more. That is not within our control. Those are negotiations between the City and the union. We really hope for great results there. The good news is when the City comes to a contract agreement on wages, we get the funding to cover that. This is an example that does not work in the same way for us. $1.7 million of PAH coverage, which again we are delighted that our employees and colleagues are getting, is simply required of us without any funding for it. That of course creates shortfalls.
+
+[**(01:07:16)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4036s)
+
+
+
+>> Understandable. And what was the amount for BPL? >> 1.2 million. >> Oh, so everyone — 1.2 is different.
+
+[**(01:07:25)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4045s)
+
+
+
+>> We are 1.7.
+
+[**(01:07:28)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4048s)
+
+
+
+Thank you. New York is always taking notes because we want to be able to ask OMB about this when they come before us as well. Okay. What are the current vacancies across each system, particularly for librarians, custodial staff, security personnel and maintenance workers?
+
+[**(01:07:52)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4072s)
+
+
+
+>> BPL currently has 87 vacancies. I would have to get back to you on the breakdown among the titles. I will say that with all of those librarian titles, public safety officers and custodians, they are actually difficult positions to recruit for. It is a very competitive market, and of course there is the salary that we are offering. So we are constantly recruiting for those positions. I would say we need quality candidates in each one of those areas.
+
+[**(01:08:28)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4108s)
+
+
+
+>> Similar to Brooklyn, I do not have a breakdown. We can get that to you, but our vacancy right now is around 80 individuals. Those are union employees. With that being said, I do know without giving you the specifics that they are all across the board, from librarians to custodians to customer service individuals. We have been doing a really better job. The marketplace has been very kind to us but I think our team has also been great in the collaboration, both in internal promotions as well as the recruitment of others.
+
+I will give you one quick example for my Queens Council members. We have a strong partnership with the Queens College Library Program and one of the professors there is also a full-time employee at Queens Public Library. What she has been doing is holding her classes at the library itself, and it has really provided a great opportunity for them to be up close and personal. It allows all of us to go to Queens College but also, when they come to the library, to talk to them directly. She just had her in-class presentation around a week and a half to two weeks ago, and that has allowed us to draw from both the graduates and the trainees.
+
+[**(01:09:57)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4197s)
+
+
+
+>> New York Public Library's current vacancies are a total of 113, though I should note that 54 of those are in the branches and 59 are in the research library, which is somewhat different. Hats off particularly to our HR function, which does incredible work. I also want to say that in years past, when we have been doing the budget dance and did not have certainty as to funding, we could not hire reliably because we did not know if we would have the funding. That put everything off and increased vacancies. They were part of how we filled the gap until we knew what was coming. The fact that we do not have to do this this year means we can continue to fill the vacant positions to meet the needs of every branch and all New Yorkers.
+
+[**(01:10:46)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4246s)
+
+
+
+>> Thank you. That was a really important point. Dennis, you started to talk about some of the recruitment tactics, which is super awesome that you all are doing that. Do you have any other challenges you want to share? I know you said it is a competitive market.
+
+[**(01:11:00)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4260s)
+
+
+
+I am interested in where librarians are going if not to libraries, but I am guessing other institutions too.
+
+[**(01:11:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4267s)
+
+
+
+>> Oh, I was
+
+[**(01:11:09)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4269s)
+
+
+
+>> going to say the same thing.
+
+[**(01:11:10)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4270s)
+
+
+
+>> Oh, the competition is between the
+
+[**(01:11:12)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4272s)
+
+
+
+systems,
+
+[**(01:11:13)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4273s)
+
+
+
+>> right? >> Gotcha. But yeah, any other challenges you want to share on recruitment or retaining staff?
+
+[**(01:11:20)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4280s)
+
+
+
+>> Sure. I would like to highlight a response to that challenge, which is our Pathways to Leadership program. That is a program where we identify existing staff who are not in librarian titles — so maybe they are clericals or custodians or basically anyone who has not received the credentials to be a librarian. We support, I think, five staff each year to pursue their masters in library services. We provide them with tuition support but also wraparound services, because we know that working and going to school at the same time and raising families is very challenging and a lot of people fall out of their goal attainment because of those stressors.
+
+We have privately fundraised in order to provide those staff the support that they need in order to complete their degree. I believe we are in the sixth cohort. So that is roughly 30 new librarians added to BPL and they are sort of homegrown. We are hoping that this is something we can expand upon going forward, because these are people who love libraries and love urban librarianship. They want to do it. Being able to invest in them has been really gratifying for the community.
+
+[**(01:13:01)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4381s)
+
+
+
+So, Chair, I want to take this opportunity to personally thank you for representing us a week ago Friday at the gathering at the Brooklyn Public Library with the mayor. I say that now because we had roughly a thousand of our team members at a location in Queens for both staff development and also an opportunity to see each other, which they have not done in a while. I mention that in the context of your question because it was a great team building opportunity but also a morale building opportunity for people to get together, enjoy themselves and take part in professional development.
+
+In addition to that, we have employed e-recruitment, which makes it a little more transparent and also increases the timeliness of our hiring. We have a tuition support program in place as well. We also have it as a part of our strategic plan as far as our visioning and the recruitment and involving our team in that process as
+
+[**(01:14:09)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4449s)
+
+
+
+well. So all the things that Karen talked about — I think we all somewhat model each other in that regard — but trying to just create an environment of being a true public servant to the public at large.
+
+[**(01:14:23)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4463s)
+
+
+
+>> The simple answer to your question is the cost of living in New York is the major constraint that we all face. That is the reality. Which is why we hope that the City, together with the unions, will find a way to increase the salaries for our wonderful colleagues. One of the other examples of ways in which we assist our colleagues is tuition assistance, as you have heard from others. We have, I think, roughly 70 staff every semester. That is about $160,000 per semester, with almost all of those going for MLS degrees.
+
+There are places where we are seeing if there is a way, working within the constraints of the union, to find some private support to expand tuition assistance, because we know that there is even more interest and demand, which is fabulous. We also celebrate our page program, which provides incredible opportunities for anyone who is currently in high school or in college to work in the branches. It is often their first employment and so many of those pages, I am delighted to say, continue on to be regular employees of the system. So that is part of our pipeline efforts.
+
+[**(01:15:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4536s)
+
+
+
+>> Thank you. Just a few more questions on capital funding and then I will turn it to my colleagues who I know have additional questions for you. Everyone's favorite topic: capital funding and capital commitment plans. The executive capital commitment plan includes an additional $212 million when compared to the fiscal 2027 preliminary capital commitment plan. Does this increase address any facilities that have been flagged for critical infrastructure, health, safety or ADA compliance needs? If so, can you identify them for the record? I know you did talk about some new needs and things that were not funded in the exact plan, so if you could just give us more details on that.
+
+[**(01:16:25)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4585s)
+
+
+
+BPL received $15 million for our Sheepshead Bay Library in the executive budget. Looking at next fiscal year, we have just under $13 million in DDC shortfalls. Those are projects that are in the DDC pipeline that cannot move forward because we are lacking enough funding to meet the current DDC estimates. Those would be the most urgent need going into next fiscal year on our capital side. We did ask for $276 million in the 10-year plan. That money would go towards new projects that would be initiated, not projects that are currently in progress.
+
+The New York Public Library received $21.3 million in funding in the FY27 executive budget capital funding. The largest single item is, as the mayor has provided, $16.5 million for the comprehensive renovation of the Great Kills Library in Staten Island. We are excited about that. We are also excited about the projects that are currently in planning, and that includes Hamilton Fish, Huguenot, Westchester Square, a longtime project, Woodlawn Heights, Castle Hill, Edenwald, Seward Park, Tompkins Square, West New Brighton and, as I say, a total renovation for Great Kills, which is fabulous.
+
+[**(01:18:03)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4683s)
+
+
+
+>> For Queens Public Library, $18.4 million for Broad Channel. Our total capital need is roughly $253 million. The capital piece is so important and I am glad it gets so much attention because it allows us to provide critical services. Without the capital investment that has been made by the Council as well as others, meaning the mayor's office, it just allows us to grow our libraries and deal with the needs that we have. I just want to reinforce Karen's point around the value of what you bring to us with your allocation to help us meet our shortfalls. That way we do not have to stop our projects and that helps us tremendously.
+
+[**(01:18:55)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4735s)
+
+
+
+Can I just reiterate Dennis's point? To the degree we get investments in capital in the 10-year plan, that is great. Any of those investments allows us to plan so that we can do the great work — I mean our team does amazing work in capital improvements — but we have to know what we have to work with. That is step number one. Step number two, as I have already signaled, is we need to work with the administration. I know they are interested in this. I know the City Council is interested in this in making sure that we do not face the delays and the additional funding issues that have come out of our DDC work. I know that DDC is eager to find some solutions as well. We want to work together so that there is funding that is set, that we can plan on, and then we can find systems to spend that money that provide the best outcome for those dollars.
+
+[**(01:19:56)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4796s)
+
+
+
+>> Thank you. Yes, I look forward to hosting the round table that the commissioner said he would host with both the libraries and the cultural institutions to get into the weeds and try to come up with some solutions for the issues that have been raised for quite some time. So the three library systems requested significant capital funding — is this the $150 million? Okay, great. If you could share what is the current estimated backlog of state of good repair needs across your systems, including roofs, HVAC, ADA accessibility, elevators, facades and mechanical systems.
+
+[**(01:20:45)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4845s)
+
+
+
+>> Hold on one sec.
+
+[**(01:20:50)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4850s)
+
+
+
+Okay. So for BPL, we require $400 million in additional funding to bring all 62 branches up to a state of good repair. Of that, $130 million is for critical infrastructure — so that is failing roofs, heating and cooling systems and life safety and fire safety enhancements. I can give you a breakdown of the $130 million as a followup.
+
+[**(01:21:23)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4883s)
+
+
+
+>> Just to go back to a point that I made earlier, excuse me, ours is $253 million. We have a very detailed breakdown of all the capital work moving forward and critical capital work. We will be able to provide that information to you. I think it is a really excellent educational tool because it shows the hard work of our respective capital teams and our library teams in doing the analysis and having the backdrop of why these issues are being raised from a capital point of view. We would love to participate in that because I think there is a lot of rich material there that would be extremely informative to the Council.
+
+[**(01:22:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4927s)
+
+
+
+So again, the New York Public Library's unfunded capital needs total $330 million over five years. I just want to be clear that that includes $125 million for comprehensive renovations, particularly at Francis Martin, Soundview and Hudson Park. I just want to be clear: we are asking for $150 million in a transformative capital investment so that we can plan and find a better way to get the results of that investment, working with DDC or whatever reforms are necessary that can be agreed on. We are asking the City Council for a $10 million capital ask per system, which enables us to move forward and not have branches closed.
+
+[**(01:22:56)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4976s)
+
+
+
+>> Thank you. Can each library system provide an overview of its current vehicle fleet, including the number of vehicles, vehicle types, average age and the percentage of the fleet that is beyond its useful life?
+
+[**(01:23:13)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4993s)
+
+
+
+I think we may need to get back to you on that one.
+
+[**(01:23:15)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=4995s)
+
+
+
+>> I know there have been a number of questions about our fleet and I would be glad to share the exact details, but I can say that we are replacing our entire fleet. We have a number of our book transportation vehicles on order. We have had one new delivery — as a matter of fact, I saw it just before I left to come here — and we have several on order as well. So we are constantly trying to upgrade our fleet so our drivers are in vehicles that represent the newest fleet.
+
+[**(01:23:59)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5039s)
+
+
+
+>> Thank you. That is good to know. I had a conversation — I know I spoke to you, Dennis — but I did text Dennis that the unions, when I had a meeting with them last week, mentioned that some of the fleet vehicles did not have proper AC and heating. So I just wanted to ask that question, but I am happy to know that you all are getting a completely new fleet. This is the purpose — to be transparent. This
+
+[**(01:24:30)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5070s)
+
+
+
+is the purpose of the question. We want to make sure that you have up-to-date and good-condition vehicles so that the workers can have proper AC and heating when they are using the vehicles.
+
+[**(01:24:44)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5084s)
+
+
+
+>> Just to reinforce the point, we have budgeted the replacement of our vehicles for the drivers that I think the union was representing. We have one in and several that will be in in a couple of months. Several are going through the procurement process now. So we are very conscious of that. The AC works and if the AC should break down then we will have those vehicles repaired as far as the AC systems are concerned. We have been in ongoing discussions with our union partners around this issue and we look forward to continuing that discussion.
+
+[**(01:25:22)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5122s)
+
+
+
+>> Thank you. I will turn it back over to the chair before going to members.
+
+[**(01:25:27)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5127s)
+
+
+
+>> Yeah. Sorry, I just had a really quick followup. So with PA...
+
+[**(01:25:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5133s)
+
+
+
+So my understanding, and correct me if I am wrong, I think it might actually be higher than $120 per month per member, but either way it is an unfunded mandate. My question and understanding, and please correct me if I am wrong, is that when the City was contracting and working with DC37 to renegotiate the contracts, they worked on the health insurance piece first and then said okay, for the injectables and psychiatric, we are going to wait for that the following year. So we are halfway through the year. Have you heard anything? I know that this was an issue brought up also by Henry Greo and he had had a conversation, so he is advocating on the culturals and the libraries' behalf for the staff. I just wanted to know, have there been any conversations or have you heard anything about whether that RFP is going to be on time and if we are going to have that done so that you are not having to pay this out of pocket every year. Do you know where it is in the process?
+
+[**(01:26:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5193s)
+
+
+
+>> I have to say information has been significantly limited. We raised this mostly with OMB, hoping that they would be able to provide us more information and of course provide us with funding. But we have not really received much context, and so actually you are providing me with more context right now and I really appreciate it. I would love to hear more from you.
+
+[**(01:27:01)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5221s)
+
+
+
+>> Yeah, the same with me. Like you, I have not heard anything. It is very limited.
+
+[**(01:27:06)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5226s)
+
+
+
+>> Right. And the thing is...
+
+[**(01:27:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5227s)
+
+
+
+>> I think we have, you know, look, we have a great relationship with DC37 and we need that relationship to be strong so that our colleagues, their members, continue to get what they need and even more. I will just say that we were not part of the discussions, which is why we were surprised to find ourselves with an unfunded mandate.
+
+[**(01:27:27)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5247s)
+
+
+
+>> Got it. Okay. And I believe the totals across the board between libraries and culturals will be a decent amount, and so we need to figure out how we are going to get that covered so that it does not come out from your baseline amount that we fought so hard to get. So okay, thank you for the clarification and of course we will be following up on this as well.
+
+[**(01:27:49)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5269s)
+
+
+
+>> Sorry. So next we have CM Brooks-Powers followed by CM Schulman.
+
+[**(01:28:00)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5280s)
+
+
+
+Thank you, Chair, and thank you to the leaders of our amazing public library systems. The first question I have is, the administration has announced that $31.7 million in library funding will now be permanently baselined. Can you speak to how this long-term stability will change staffing, branch operations, and program planning across the library systems, particularly in historically underserved communities like Southeast Queens and the Rockaways?
+
+[**(01:28:34)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5314s)
+
+
+
+>> So as Tony indicated in his testimony, or in response to a question, it allows us to plan properly knowing that the money is baselined for hiring. So we are not always on edge as far as what the budget will look like. Now that we know that, it allows us to do even more active recruitment so we have fully staffed libraries. Again, I think it is important that we are not necessarily moving ahead per se, that it has basically been baselined at a level that is basically the same, but at least it is a constant. I think that is critical for us because as a result of having it as a constant, we know what we are working on and we know, as Karen and Tony have talked about, how our HR folks and our team members are able to do active recruitment and recruiting people for the jobs. That impacts those areas that you identified in Southeast Queens, but for us the entire library system where there is a need.
+
+[**(01:29:38)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5378s)
+
+
+
+>> That is the same for BPL. It gives us stability. It allows us to plan for hiring from year to year. Just to further expand on Dennis's point, without the funding in place for FY2027, we would have started to restrict hiring. So in April, May and June, our HR folks would have started to pull back because they would have had to start planning for the lack of funding in the following fiscal year. This year, we are able to continue recruiting and filling those vacancies. So from a service perspective, we are going to have people in those positions in July when we were unable to before. That should translate into more programming systemwide.
+
+[**(01:30:30)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5430s)
+
+
+
+>> So I think Karen has said it well. Remember, this is not an increase. This is keeping us steady, but it is also not the threatened decrease that in other years has meant we could not hire during these months. So vacancies increase because that was the way we were trying to prepare responsibly for the possibility of the cut. We do not need to do that this year. So we can continue to hire. We can continue in particular to meet the challenges of hiring in higher needs neighborhoods, whether it is in the Bronx or elsewhere. We are eager to do that. We can now do that. But it is not the additional funding we are requesting your help on so that we can do more hiring and more services.
+
+[**(01:31:14)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5474s)
+
+
+
+>> Thank you, Chair. Can I just ask one final question? While I believe I know the answer to this, I just want to have it on the record. The administration highlighted that more than 30 branches will now be able to maintain Sunday service because of this investment. Can you discuss how expanded hours and more consistent service impact working families, students, seniors and residents who rely on libraries as one of the few free and accessible public spaces in their neighborhoods?
+
+[**(01:31:47)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5507s)
+
+
+
+So I love looking at our Sunday numbers. We also added one Saturday at Queens Gardens Hills because Queens Gardens Hills was six days a week, but out of respect for the observant population in Queens Gardens Hills, we did not have it open on Saturday. Now it is open Saturday, so that is seven days. And why I love looking at our Sunday numbers is because I love to see how people are flowing into our libraries on Sunday, in addition to those libraries that already had Sunday service as well. Right now, with all due respect to Chair Lee, while Glen Oaks is one of them, Jackson Heights and Hunter Point are really battling right now for who has the highest Sunday service. We take that very seriously as far as making sure both the actual library is open and we have program services there as well, which has benefited the community. We have obviously children's programs and adult programs. Just as a reminder, and I think this applies to Brooklyn and New York as well, Sunday is a day where people are able to make time and a half. So for our staff it is a tremendous benefit as well. There is a term we use called volunteer. It is not that they are volunteering, but we put out a call for people who want to work on that particular Sunday, they step forward and then they get selected for that. So it has been both beneficial to the community and the people that we serve, but it has also been very beneficial to our staff and the union members who are benefiting from that.
+
+[**(01:33:25)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5605s)
+
+
+
+I will just say again, we love having more facilities open on Sundays. That is when so many New Yorkers have time to come to the library. We also acknowledge the reality, which is it requires overtime spending on Sundays. That is part of our union contract. So there is some tension there, but we are so grateful to the City Council. I know Gail has been
+
+[**(01:33:48)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5628s)
+
+
+
+working on this for years. >> 20 years. >> 20 years, Gail. And you know, so
+
+[**(01:33:54)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5634s)
+
+
+
+last year we added five more locations: Bester, Kingsbridge, Mott Haven, Harlem and St. George. We made those selections based on where there were existing Sunday services close by, public transit, number of visits and school proximity. Again, we would love to do more. As Dennis also said, we also depend on our great staff — this is voluntary for them — to do the Sunday work.
+
+[**(01:34:21)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5661s)
+
+
+
+>> Thank you. Thank you, Chairs. >> Great. Thank you. CM Schulman, followed by CM Brewer.
+
+[**(01:34:28)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5668s)
+
+
+
+>> Thank you. And I want to thank all of you, the library, particularly Dennis because I am a Queens girl. >> Thank you. >> And Louisa, who I am going to wave to over there, who many of us work with on a regular basis. The public library system has been very instrumental in my career and in my learning and in my growing up and all of that. Dennis, what I did not hear was the update on what is happening with the Richmond Hill Library. That is a very important library for the South Asian community in my district and there have been off and on issues with it over the years in terms of the construction and all of that. So can you give an update?
+
+[**(01:35:20)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5720s)
+
+
+
+>> Richmond Hill is a joint project between QPL and DDC and we have been working collaboratively around that. I know there have been some stops and starts with Richmond Hill, but we are very pleased that it is definitely moving forward. Let me just make sure I give you all the detailed information about Richmond Hill because Richmond Hill is a gorgeous library that obviously needs significant improvement as well. So it will be a full renovation, and I was told page 16, so give me a second. I want to give you accurate information about Richmond Hill. The comprehensive renovation building and site total funding obligation is $24.2 million. Design documents are now complete. We are at bid packaging, which is expected to be completed by the end of this fiscal year, fiscal year 26. The key DDC forecasted construction notice to proceed is in early 2027. So it is finally moving along.
+
+[**(01:36:43)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5803s)
+
+
+
+>> Please keep us posted on that. I am very much looking forward to that. I just want to put it into the record because DDC is forecasting substantial construction completion in winter of 2029. So for the community, for the community board, and again you will thank her as well, Louisa and our team — I know they have been very important in working with your office as well as the local community board specifically. >> No, I appreciate that and we will light a fire on the DDC as well. So okay. >> Thank you very much for that. That is all the questions I have. Thank you.
+
+[**(01:37:22)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5842s)
+
+
+
+>> Great. CM Brewer.
+
+[**(01:37:24)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5844s)
+
+
+
+>> Thank you very much. So in terms of technology, I know that is about five years per device maybe that you can last. So what are your technology budgets? Maybe you talked about this a little bit. I know it is under capital. And then how much more do you think you need? Is that something that you are asking for? I know when we did participatory budgeting, people in the community put that in as one of their high choices. So we will be adding that to the amount for New York Public Library, but technology seems to be a challenge.
+
+[**(01:38:00)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5880s)
+
+
+
+>> Thank you, CM Brewer. Yes, technology is always a challenge. We always have to keep them up to date. We have more than 5,000 desktops and 4,000 laptops. We have 1,200 Wi-Fi access points. We get E-rate funding that is from the federal government, but that is by formula, thank goodness. But we know in addition to the ongoing requirements, there is still something like a million and a half New Yorkers who do not have broadband at home. They come to the library. They know they can rely on the library. But we are working very hard to change that. We have a new neighborhood internet program with $3.5 million dollars for our NYPL wireless. We have also gotten an additional $2 million appropriation through Representative Richie Torres. Representative Torres and the mayor celebrated this combined effort. In effect, what we are trying to do is find a way to see whether the library's provision of Wi-Fi can be made available in people's homes so that we can provide ideally a free, utility-level Wi-Fi for everyone in New York in this day and age.
+
+[**(01:39:14)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5954s)
+
+
+
+>> Think about the pandemic. If you had been home without Wi-Fi, you could not go to school, you could not do your work, you could not do anything. That is crazy. New York deserves better than that. Sorry. >> So you are trying to do that in different areas to basically be the place where it bleeds out so they do not have to sit outside. And
+
+[**(01:39:37)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5977s)
+
+
+
+>> you have heard that story, right? We do not want people having to sit outside our doors. They should be in the comfort of their homes.
+
+[**(01:39:44)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5984s)
+
+
+
+>> Doing their school work, their required school work. Gail, I am sorry, I missed that. We have $15.1 million in capital projects for tech at the moment. >> All right. And then...
+
+[**(01:39:59)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=5999s)
+
+
+
+I know you have to find other funding. >> And we are finding other funding
+
+[**(01:40:02)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6002s)
+
+
+
+>> okay.
+
+[**(01:40:03)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6003s)
+
+
+
+>> And we are grateful to the mayor and to Representative Torres for that funding as well.
+
+[**(01:40:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6007s)
+
+
+
+>> $2 million...
+
+[**(01:40:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6007s)
+
+
+
+>> and HPD.
+
+[**(01:40:09)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6009s)
+
+
+
+>> The issue of how many branches in New York Public Library have Sunday service out of the total — what is the amount that does have Sunday service?
+
+[**(01:40:21)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6021s)
+
+
+
+>> Hold on one second. >> Getting that for you.
+
+[**(01:40:23)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6023s)
+
+
+
+>> I am not bothering with Queens or Brooklyn. >> Where are you at? >> Right. No. >> I do not love the outer boroughs. No, I like Manhattan.
+
+[**(01:40:35)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6035s)
+
+
+
+>> We are...
+
+[**(01:40:36)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6036s)
+
+
+
+>> They know that already. Everybody knows.
+
+[**(01:40:38)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6038s)
+
+
+
+>> Wait, wait, wait, wait. >> You can ask your own questions. Go ahead. You know that already.
+
+[**(01:40:43)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6043s)
+
+
+
+>> Definitely Dennis knows that. Go ahead.
+
+[**(01:40:45)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6045s)
+
+
+
+I am sorry. Seven. I totally missed that. The... I was looking for the answer.
+
+[**(01:40:50)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6050s)
+
+
+
+>> We were giving you time, Tony, to look. >> We are currently at 13 branches open on Sundays. We added five last year with the essential support and encouragement of the City Council.
+
+[**(01:41:02)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6062s)
+
+
+
+>> Okay. One other question. So I went to the garage warehouse of DCAS. It is huge and there are a lot of... I just do not know where the libraries... do you have storage in addition to the buildings that you warehouse and pay for, or is everything covered in your current libraries? In other words, do you have storage other than the libraries?
+
+[**(01:41:26)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6086s)
+
+
+
+>> We do not have storage other than the libraries, though the research library has off-site storage.
+
+[**(01:41:32)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6092s)
+
+
+
+>> Right.
+
+[**(01:41:32)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6092s)
+
+
+
+>> That is the only one that does.
+
+[**(01:41:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6093s)
+
+
+
+>> Okay. All right. Thank you very much. Thank you.
+
+[**(01:41:37)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6097s)
+
+
+
+>> Great. Thank you. CM Restler.
+
+[**(01:41:40)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6100s)
+
+
+
+>> Thank you so much, Chair Lee and Deputy Speaker Williams for your great leadership. It is great to see each of you. I firstly just want to wish Elizabeth Gilroy a happy birthday, much to her chagrin. Happy birthday. I hope all the NYPL team has also done the same. I wanted to apologize because we had a hearing on capital project reform a month or so ago and we were a little rushed on the library panel, not because we do not deeply care about capital project reform at the libraries. Your testimony was very insightful and it was really helpful. So thank you for each of your library systems coming before us and sharing your insights. If I heard you all right, I heard that BPL has $400 million in outstanding unfunded capital needs, that NYPL has $330 million and QPL has $253 million. Did I get those numbers right?
+
+[**(01:42:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6153s)
+
+
+
+>> That is mine, right? Yep. So I am not
+
+[**(01:42:35)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6155s)
+
+
+
+great at math, but together that is just shy of a billion dollars.
+
+[**(01:42:40)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6160s)
+
+
+
+>> A billion.
+
+[**(01:42:41)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6161s)
+
+
+
+>> A billion. Yeah. >> A billion. No, I said the billion part right. I am not overstating my math skills, but I got the B number. So we are talking about $983 million to be precise. In the current capital plan, there is only $943 million of funding. So what we are really saying is that half of your capital needs — for every failing library, for every failing
+
+[**(01:43:07)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6187s)
+
+
+
+HVAC system and roof — one out of two is funded. Is that right?
+
+[**(01:43:12)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6192s)
+
+
+
+>> A fair analysis.
+
+[**(01:43:14)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6194s)
+
+
+
+>> That is correct, though it also includes the major renovations, not just the HVAC repairs, etc. All of it.
+
+[**(01:43:21)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6201s)
+
+
+
+>> Yes, of course. Were you going to add something? >> No. So I think it is just really important for us to note that when we wildly underfund the capital programs at your three library systems, it really means that our clients suffer and that our libraries close. My district is a couple blocks from the Leonard Street branch in Williamsburg where we have dealt with extended closures because of flooding and different challenges. When we fail to maintain our capital infrastructure, the buildings deteriorate, the libraries close and our communities suffer. When we know that we are funding one out of every two dollars, one out of every two roofs that is leaking, one out of every two air conditioners that is broken, one out of every two failing libraries, we are failing our library systems. So we have to look at ways that we both expand resources and capital investments in our libraries, but also how do we make these resources go further? Karen, I was particularly impressed by your testimony a few weeks ago when you highlighted that when BPL is self-managing projects rather than DDC doing it, you are able to get those projects done faster and for less cost. So I just wanted to ask the question — I know that our library systems are not in a position to take over the entirety of your capital needs and you cannot do all these projects — but could the library systems do more in leading more of your capital projects to help get them done faster and maybe stretch those dollars further?
+
+[**(01:44:51)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6291s)
+
+
+
+Thank you so much, Councilmember. I would say BPL is currently at our capacity for the capital construction grant program, because the capital construction grant program requires the cultural institution and the library to have additional funding on hand in addition to the City capital dollars. It is also on a reimbursement basis. So the cultural institution and the libraries that participate in that program need to basically front every single bill and wait for reimbursement, and that reimbursement can take several months and years potentially.
+
+So for BPL I believe we have five projects in the works and we are really proud of them and we hope as one of them gets completed we are going to bring on another one, and it is something that we are very committed to doing. We are likely at our capacity to take on more capital construction grants. That being said, if there was a way... if it was not a reimbursement-based model... well, that is what I was just going to suggest. If there was a way for the libraries to directly bill the capital budget for smaller projects, like we do when we buy technology and when we buy furniture for the libraries and when we initially outfit them, we actually can submit all of that as a direct payment from the City. So if there was a way for the libraries to apply that model to HVAC repairs and roofs, then that would really open the door.
+
+[**(01:46:45)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6405s)
+
+
+
+Not for whole library reconstruction, but for very specific standardized repair work that is needed in your branches and that you all do time and again across the diversity of your system.
+
+[**(01:46:55)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6415s)
+
+
+
+That is correct. And there is some appetite. Of course, the devil is in the details and there is a tremendous amount of oversight that would be required. Sure.
+
+[**(01:47:06)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6426s)
+
+
+
+And I think we are still in the early stages of those conversations. That is very helpful. Anything you want to add?
+
+[**(01:47:13)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6433s)
+
+
+
+I will just reiterate — thank you, Karen. Look, it is pretty straightforward. We need additional capital allocations and commitments so that we can plan and then we can deliver. We have stretched ourselves to do more of this ourselves. The New York Foundation Public Library at 40th Street is an example of that. But that was a big financial stretch for us that we could do. We cannot do a systemwide version of that. That means we need additional funding from the City allocated so that we can plan. It also means that we need partners that will deliver on time and on budget. That has not been the case with DDC in the past. Those projects typically cost twice as much and took twice as long, sometimes more than that.
+
+We worked to find other partners. EDC is what we did. The five Carnegies came in on budget and on time. So there is clearly an example that we can do better. We welcome both the City Council and the mayor, and the deputy mayors are open to this conversation. It is something we have raised in all the years I have been at the library and yet we have never gotten to what seems like a pretty straightforward reform of the system so that New Yorkers are not spending twice as much to get the same delivery. That just seems crazy for everyone. We should not only pay twice as much for our parks and our schools and every other project.
+
+[**(01:48:51)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6531s)
+
+
+
+Well, let us fix it for the libraries.
+
+[**(01:48:56)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6536s)
+
+
+
+We also get creative, which is the collocation project. So we try to be helpful to the City. We know the City needs more housing generally and affordable housing. We never used the air above us before. Now we are doing that. So we are also happy to be innovative and we are happy to continue to be innovative working in partnership with the City Council and the mayor.
+
+[**(01:49:20)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6560s)
+
+
+
+I just want to add one small point if I may. I always use this example when I am testifying before the City Council: we had a boiler go down and if we had to rely on DDC and using capital dollars, it would have taken so long that the library would have been shut for a long period of time, which was unacceptable. So we had to use our expense dollars to do that project and we did it quicker and we were able to open the library sooner. But at the same time that took money away from our expense budget. As a result of having a great team and also the monies that you provide, it allows us to have some of that flexibility. But at the same time, as Karen indicated, we are at capacity as far as the projects that we self-manage. The flipping of expense dollars to the capital side takes care of something that really should be capital-eligible. What it requires is something that is just unacceptable to us and to the public at large, because we cannot afford to have our libraries shut for those long periods of time.
+
+[**(01:50:29)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6629s)
+
+
+
+Thank you and thanks for the extra time.
+
+[**(01:50:31)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6631s)
+
+
+
+Thank you. Oh my gosh, every time I hear about capital projects I get trauma because I had to live through it myself as a former executive director. I think our organization got funded in 2018 and they just got their CP certificate to proceed from EDC like last month, this month actually. So it takes so long and again costs increase. So you have no choice but to decrease the scope, or we were just constantly fundraising extra dollars to cover those costs. So I hear your pain when it comes to that process.
+
+Thank you, Chair Restler, for your work on contracts because I know that is something that we would desperately love to try to reform. And I remember what you had said, Dennis, and also to the other library chairs about when it comes to design-build and capital projects — yes, it works better on new projects, new builds, but not necessarily on current infrastructure projects. So I did remember that from the preliminary budget hearing. Thanks for making that point. And lastly, I am throwing it back to the deputy speaker for a couple of follow-up questions before we close. Yes, just two
+
+[**(01:51:42)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6702s)
+
+
+
+quick questions. We just wanted to know if any of the libraries that flooded last week had to close, and if so, for how long? And then just a general question for the three library systems: do you still see an elevated demand for Wi-Fi access, device lending and digital learning support?
+
+[**(01:52:00)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6720s)
+
+
+
+So only one library in Queens closed for just one day, and that was Ozone Park. Other than that, we had leaks and our folks were running around addressing that. But we were able
+
+[**(01:52:12)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6732s)
+
+
+
+to keep just about all of our libraries open. The one that closed was only for one day.
+
+[**(01:52:16)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6736s)
+
+
+
+We were fortunate. We were able to open our three libraries. They were actually sort of the usual suspects — they were the ones that every time we get a deluge we are going to have an issue, and we were able to respond very quickly the next day.
+
+[**(01:52:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6753s)
+
+
+
+Do you want to go on the wireless, or do you want to... I am sorry, do you want to go?
+
+[**(01:52:39)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6759s)
+
+
+
+I can say that New York Public Library did not have any flooding issues, thank goodness. We would like to keep it that way. We need the funding to keep it that way. We did see from FY24 to FY25 a 12% increase in wireless sessions in the libraries. Computer sessions and Wi-Fi sessions continue to grow. We continue to try to meet those needs but as I said we are also trying to get creative so that people are not always at the libraries. Sometimes in the evenings or nights or Sundays, libraries are closed. That is why we are working innovatively to see if we can ensure more Wi-Fi services for folks, particularly in the high-needs neighborhoods, at home.
+
+[**(01:53:24)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6804s)
+
+
+
+Our Wi-Fi is 24/7. We have seen a 51% increase and 90% of our libraries have extended Wi-Fi services and people are taking advantage. But I hear loud and clear what Tony and Karen are saying as well. People have been taking advantage,
+
+[**(01:53:42)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6822s)
+
+
+
+in our wireless sessions. Our last full year of numbers was about 1.7 million. We are on track this year and it is a program that we are constantly looking for ways to further support those needs. Sorry, I should have pulled out the Wi-Fi sessions — at New York Public Library in FY25 they were 2.7 million and continue to grow.
+
+[**(01:54:15)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6855s)
+
+
+
+Do you hand out hotspots? You said 24 hours. Was that
+
+[**(01:54:19)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6859s)
+
+
+
+what you said? I am sorry.
+
+[**(01:54:20)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6860s)
+
+
+
+You said that your Wi-Fi is 24 hours.
+
+[**(01:54:22)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6862s)
+
+
+
+Yeah, we do not turn ours off.
+
+[**(01:54:24)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6864s)
+
+
+
+Right. So you would be able, if you were in proximity to any library, you would be able to access the Wi-Fi even if we are closed.
+
+[**(01:54:33)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6873s)
+
+
+
+Yep, seven days a week.
+
+[**(01:54:34)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6874s)
+
+
+
+Right. How far does it go?
+
+[**(01:54:37)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6877s)
+
+
+
+Ours extends to 150 yards.
+
+[**(01:54:40)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6880s)
+
+
+
+So within 150 yards of the 90% of libraries that have the extended Wi-Fi networks, people are able to take advantage.
+
+[**(01:54:48)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6888s)
+
+
+
+Wow. Same.
+
+[**(01:54:49)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6889s)
+
+
+
+Thank you so much. And thank you for all you do for our library system.
+
+[**(01:54:54)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6894s)
+
+
+
+Thank you.
+
+[**(01:54:55)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6895s)
+
+
+
+Thank you.
+
+[**(01:54:56)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6896s)
+
+
+
+Thank you, chairs. Thank you, Council members. Appreciate it. All right. Thank you so much.
+
+[**(01:55:13)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6913s)
+
+
+
+Okay, quick five-minute recess while we switch over to culturals.
+
+[**(01:55:28)**](https://www.youtube.com/watch?v=fT2fj2fBvX8&t=6928s)
+
+
+
+So good to see you. Doing great.
