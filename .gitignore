@@ -9,3 +9,7 @@ word_bank.json
 /*.jpeg
 /*.jpg
 /*.png
+
+# Local X/Twitter brand assets (HTML sources for the gitignored PNGs)
+/cover.html
+/profile.html
