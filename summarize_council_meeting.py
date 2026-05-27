@@ -118,10 +118,10 @@ def parse_args():
     parser.add_argument(
         "--legistar-url", type=str, default=None,
         help="Legistar MeetingDetail URL. When set, the agenda PDF, "
-             "--council-url, video URL (YouTube /streams match preferred "
-             "over Viebit when available), and --title are all auto-filled "
-             "from the council.nyc.gov page and the agenda. Explicit flags "
-             "still override the auto-resolved values."
+             "--council-url, video URL (Viebit from the council calendar "
+             "preferred over YouTube /streams), and --title are all "
+             "auto-filled from the council.nyc.gov page and the agenda. "
+             "Explicit flags still override the auto-resolved values."
     )
     parser.add_argument(
         "--skip-summary", type=str, default=None, metavar="SLUG",
@@ -416,7 +416,10 @@ def extract_agenda_metadata(agenda_text, client):
     """Extract committee, date, chairs, members, and topic from agenda text using Claude."""
     prompt = f"""Extract the following from this NYC Council meeting agenda:
 
-1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation")
+1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation"). The lead committee appears in the agenda header; co-committees may be signalled in any of these ways and you must include them all:
+   - An explicit "Jointly with the Committee on X" line at the top of the agenda
+   - Asterisk-footnote markers — e.g. an agenda item like "*10:00 a.m. - Department for the Aging" with a corresponding footnote "*Jointly with the Committee on Aging" further down. Each distinct asterisk run (*, **, ***) introduces a separate co-committee. Multi-session executive/preliminary budget agendas frequently use this pattern.
+   - Phrases like "Joint hearing with..." or "Held jointly with..." in the location or header area.
 2. The meeting date
 3. The chair of each committee for which a chair is listed in the agenda. List chairs separated by " | " in the SAME ORDER as the committees above (e.g. "Jane Doe | John Smith"). Use the chair's full name as it appears in the agenda. If a co-committee is only mentioned as "Jointly with..." with no chair listed, OMIT it rather than emitting an empty slot — do not produce trailing " | " separators.
 4. The members of each committee for which members are listed. Each committee's members are comma-separated, and committees are separated by " | " (e.g. "A, B, C | D, E, F"). Convert "X, Y and Z" to "X, Y, Z" (no Oxford comma, drop the word "and" before the final name). Do NOT include the chair in the members list. Use full names as they appear in the agenda. If a co-committee has no members listed in the agenda, OMIT it — do not emit empty " | " segments.
@@ -466,6 +469,13 @@ TOPIC: [topical title or NONE]"""
     # joint agendas often list chair/members only for the lead committee.
     chairs = " | ".join(p.strip() for p in chairs.split(" | ") if p.strip())
     members = " | ".join(p.strip() for p in members.split(" | ") if p.strip())
+    # Canonical committee names in this archive drop the Oxford comma
+    # (e.g. "Cultural Affairs, Libraries and International Relations").
+    # Agendas sometimes include it; normalise so chair-lookup matches.
+    committee = " | ".join(
+        re.sub(r", and ", " and ", c.strip())
+        for c in committee.split(" | ") if c.strip()
+    )
     if topic.upper() == "NONE":
         topic = ""
 
@@ -2139,8 +2149,8 @@ def main():
             and not args.youtube_url
             and not args.transcript_json
         ):
-            # Need committee + date to query YouTube. Pre-extract agenda
-            # metadata now; the cached values are reused downstream.
+            # Always need agenda metadata for the title; also for the
+            # YouTube fallback path.
             api_key = os.environ.get("ANTHROPIC_API_KEY")
             if not api_key:
                 logger.error("ANTHROPIC_API_KEY environment variable not set.")
@@ -2149,42 +2159,48 @@ def main():
             agenda_text = parse_agenda(Path(args.agenda_pdf))
             (committee_name, meeting_date, chairs, members,
              agenda_topic) = extract_agenda_metadata(agenda_text, client)
-            primary_committee = (
-                committee_name.split(" | ")[0] if committee_name else ""
-            )
-            yt_match = None
-            if meeting_date and primary_committee:
-                yt_match = find_youtube_match(
-                    meeting_date, primary_committee, topic=agenda_topic,
-                )
-            if yt_match:
-                args.youtube_url = yt_match["url"]
-                logger.info(
-                    f"Upgraded to YouTube /streams (score "
-                    f"{yt_match['score']:.2f}): {yt_match['url']} — "
-                    f"{yt_match['title']!r}"
-                )
-            elif event["video_url"]:
+
+            # Prefer Viebit from the council calendar: it's the full
+            # gavel-to-gavel recording, where YouTube /streams uploads
+            # are sometimes split per sub-session and only cover a
+            # portion of joint multi-committee hearings.
+            if event["video_url"]:
                 args.viebit_url = event["video_url"]
                 logger.info(
-                    f"Using Viebit (no /streams match): {event['video_url']}"
+                    f"Using Viebit from council calendar: {event['video_url']}"
                 )
             else:
-                logger.error(
-                    f"No video archived yet for event {event['event_id']}. "
-                    "Wait for the council archive to populate, or pass "
-                    "--youtube-url / --viebit-url manually."
+                primary_committee = (
+                    committee_name.split(" | ")[0] if committee_name else ""
                 )
-                sys.exit(1)
+                yt_match = None
+                if meeting_date and primary_committee:
+                    yt_match = find_youtube_match(
+                        meeting_date, primary_committee, topic=agenda_topic,
+                    )
+                if yt_match:
+                    args.youtube_url = yt_match["url"]
+                    logger.info(
+                        f"No Viebit URL on calendar; fell back to YouTube "
+                        f"/streams (score {yt_match['score']:.2f}): "
+                        f"{yt_match['url']} — {yt_match['title']!r}"
+                    )
+                else:
+                    logger.error(
+                        f"No video archived yet for event {event['event_id']}. "
+                        "Wait for the council archive to populate, or pass "
+                        "--youtube-url / --viebit-url manually."
+                    )
+                    sys.exit(1)
             if not args.title and agenda_topic:
                 args.title = agenda_topic
                 logger.info(
                     f"Auto-discovered title from agenda: {args.title!r}"
                 )
             elif not args.title and not args.youtube_url:
-                # Viebit fallback hit and no agenda topic — bail out now
-                # rather than letting the downstream Viebit check raise a
-                # less helpful error.
+                # Viebit path with no agenda topic — bail out now rather
+                # than letting the downstream Viebit check raise a less
+                # helpful error.
                 logger.error(
                     "Could not auto-discover a title from the agenda "
                     "(likely a stated meeting or general legislative "
