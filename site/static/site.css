@@ -541,11 +541,11 @@ body.desktop {
 }
 
 .intro-block .intro-subtitle {
-    font-family: var(--font-body);
-    font-size: 1rem;
+    font-family: var(--font-chrome);
+    font-size: 0.9rem;
     color: var(--text-muted);
     line-height: 1.4;
-    max-width: 58ch;
+    max-width: 62ch;
     margin-top: 0.25rem;
 }
 
