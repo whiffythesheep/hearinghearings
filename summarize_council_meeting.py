@@ -185,6 +185,39 @@ def extract_video_id(url):
     sys.exit(1)
 
 
+def _resolve_legacy_cache(new_path, legacy_path, *, source_field, source_value):
+    """Pick a cache file for a fetch, migrating non-unique legacy filenames.
+
+    Returns the path to use (already exists on disk) or None if no usable
+    cache was found. Behaviour:
+      - If ``new_path`` exists, use it as-is.
+      - Else if ``legacy_path`` exists and its ``source_field`` matches
+        ``source_value``, rename it to ``new_path`` and return that.
+      - Else if ``legacy_path`` exists but the source doesn't match,
+        ignore it (a different hearing was cached under the same title;
+        the caller will re-fetch and write to the new path).
+    """
+    if new_path.exists():
+        return new_path
+    if not legacy_path.exists():
+        return None
+    try:
+        with open(legacy_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return None
+    cached_value = data.get(source_field) if isinstance(data, dict) else None
+    if cached_value == source_value:
+        legacy_path.rename(new_path)
+        logger.info(f"Migrated legacy cache: {legacy_path.name} -> {new_path.name}")
+        return new_path
+    logger.warning(
+        f"Ignoring legacy cache {legacy_path.name}: "
+        f"{source_field}={cached_value!r} does not match requested {source_value!r}."
+    )
+    return None
+
+
 def fetch_youtube_transcript(url, video_info, skip=False):
     """Fetch auto-generated transcript from YouTube.
 
@@ -193,21 +226,27 @@ def fetch_youtube_transcript(url, video_info, skip=False):
     """
     title = video_info.get("title", "council_meeting")
     safe_title = re.sub(r'[\\/*?:"<>|]', "", title)[:80].strip()
-    json_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title}.json"
-
-    # Check cache
-    if skip or json_path.exists():
-        if json_path.exists():
-            logger.info(f"Transcript already cached: {json_path.name}")
-            with open(json_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if isinstance(data, dict) and "raw_segments" in data:
-                return data["raw_segments"], json_path
-        if skip:
-            logger.error("--skip-fetch specified but no cached transcript found.")
-            sys.exit(1)
-
     video_id = extract_video_id(url)
+    # Cache filename embeds video_id so different videos sharing a title
+    # (e.g. multiple committees' "Executive Budget Hearing") don't collide.
+    json_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title} [{video_id}].json"
+    legacy_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title}.json"
+
+    cached_path = _resolve_legacy_cache(
+        json_path, legacy_path, source_field="video_id", source_value=video_id,
+    )
+
+    if cached_path:
+        logger.info(f"Transcript already cached: {cached_path.name}")
+        with open(cached_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict) and "raw_segments" in data:
+            return data["raw_segments"], cached_path
+
+    if skip:
+        logger.error("--skip-fetch specified but no cached transcript found.")
+        sys.exit(1)
+
     logger.info(f"Fetching YouTube transcript for video {video_id}...")
 
     try:
@@ -348,24 +387,32 @@ def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
     viebit_hash = extract_viebit_hash(watch_url)
     title = override_title or f"Viebit hearing {viebit_hash}"
     safe_title = re.sub(r'[\\/*?:"<>|]', "", title)[:80].strip()
-    json_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title}.json"
+    # Cache filename embeds viebit_hash so different recordings sharing a
+    # title (e.g. multiple committees' "Executive Budget Hearing") don't
+    # collide.
+    json_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title} [{viebit_hash}].json"
+    legacy_path = INPUT_DIR / f"{DATE_PREFIX}- {safe_title}.json"
 
-    if skip or json_path.exists():
-        if json_path.exists():
-            logger.info(f"Transcript already cached: {json_path.name}")
-            with open(json_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if isinstance(data, dict) and "raw_segments" in data:
-                segments = data["raw_segments"]
-                duration_s = segments[-1]["end_ms"] // 1000 if segments else 0
-                video_info = {
-                    "title": data.get("title", title),
-                    "duration": duration_s,
-                }
-                return segments, json_path, video_info
-        if skip:
-            logger.error("--skip-fetch specified but no cached transcript found.")
-            sys.exit(1)
+    cached_path = _resolve_legacy_cache(
+        json_path, legacy_path, source_field="viebit_hash", source_value=viebit_hash,
+    )
+
+    if cached_path:
+        logger.info(f"Transcript already cached: {cached_path.name}")
+        with open(cached_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict) and "raw_segments" in data:
+            segments = data["raw_segments"]
+            duration_s = segments[-1]["end_ms"] // 1000 if segments else 0
+            video_info = {
+                "title": data.get("title", title),
+                "duration": duration_s,
+            }
+            return segments, cached_path, video_info
+
+    if skip:
+        logger.error("--skip-fetch specified but no cached transcript found.")
+        sys.exit(1)
 
     meta = fetch_viebit_player_metadata(watch_url)
     caption_url = meta["caption_url"]
