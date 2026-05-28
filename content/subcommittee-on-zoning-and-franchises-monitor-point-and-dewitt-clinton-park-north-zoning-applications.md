@@ -1,9 +1,9 @@
 ---
 committee: "Subcommittee on Zoning and Franchises"
 committee_slug: subcommittee-on-zoning-and-franchises
-title: "Monitor Point Zoning Applications"
+title: "Monitor Point and Dewitt Clinton Park North Zoning Applications"
 date: 2026-05-27
-slug: subcommittee-on-zoning-and-franchises-monitor-point-zoning-applications
+slug: subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications
 duration: "4hrs 59m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260527-110020.mp4"
