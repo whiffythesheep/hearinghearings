@@ -1,9 +1,9 @@
 ---
 committee: "Committee on Parks and Recreation | Committee on Finance"
 committee_slug: committee-on-parks-and-recreation
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-05-27
-slug: committee-on-parks-and-recreation-executive-budget-hearing
+slug: committee-on-parks-and-recreation-fy-2027-executive-budget-hearing
 duration: "4hrs 7m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260527-101125.mp4"
