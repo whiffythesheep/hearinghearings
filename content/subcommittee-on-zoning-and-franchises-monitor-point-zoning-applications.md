@@ -1,0 +1,3345 @@
+---
+committee: "Subcommittee on Zoning and Franchises"
+committee_slug: subcommittee-on-zoning-and-franchises
+title: "Monitor Point Zoning Applications"
+date: 2026-05-27
+slug: subcommittee-on-zoning-and-franchises-monitor-point-zoning-applications
+duration: "4hrs 59m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260527-110020.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1404689&GUID=4465A321-7F6D-4536-8142-A59709AE9454&Search="
+chairs: "Farah N. Louis"
+members: "David M. Carr, Elsie Encarnación, Amanda C. Farías, Simcha Felder, Yusef Salaam, Justin E. Sanchez, Lynn C. Schulman, Shanel Thomas-Henry"
+---
+
+Summary
+
+Meeting Overview
+
+The Subcommittee on Zoning and Franchises held a lengthy public hearing on two major development proposals: the Dewitt Clinton Park North projects at 801 Eleventh Avenue and 629 West 54th Street in Midtown West Manhattan (LU 0072-0077), and the Monitor Point project in Greenpoint, Brooklyn (LU 0067-0071). Both sets of applications involve zoning map amendments, zoning text amendments and special permits. Both were laid over after testimony without a vote, which is standard at this stage of the land use review process.
+
+The Dewitt Clinton Park North proposals, in CM Gale Brewer's district, would produce approximately 1,094 units across two buildings on sites already identified by Community Board 4 as appropriate for high-density development. The buildings, at 44 and 38 stories respectively, would transfer air rights from Hudson River Park piers, generating at least $29.7 million for park infrastructure, principally the reconstruction of Pier 76. Community Board 4 recommended disapproval unless conditions were met, a rare stance for a board known as unusually pro-housing. Outstanding issues include building height (the board wants 450 feet, the applicant offered 510), affordability percentage (the board wants 30%, the applicant offers the MIH standard of 25%), affordability measured by square footage rather than unit count, a higher share of family-sized units and financial contributions to DeWitt Clinton Park itself. The applicant, represented by Fried Frank and Hill West Architects on behalf of Friedland Properties and the Chapman Group, confirmed 32BJ labor agreements and that affordable units will be integrated throughout both buildings. Hudson River Park Trust president Noreen Doyle testified in support, noting the trust has generated approximately $151 million from prior air rights transfers. Brewer made clear that negotiations are ongoing and she intends to press for movement on all outstanding conditions.
+
+Monitor Point is the more consequential and contentious of the two proposals. Gotham Organization, co-applicant with the MTA and the Greenpoint Monitor Museum, proposes two towers up to 640 feet tall on MTA-owned land at the edge of Bushwick Inlet Park, producing approximately 1,150 units with 40% affordability across an income-restricted building and mandatory inclusionary housing in the mixed-income tower. The MTA's involvement stems from a need to relocate its mobile wash unit and emergency response unit from the site, something the MTA committed to doing as part of the 2005 Greenpoint-Williamsburg rezoning and has not done in the two decades since. CM Lincoln Restler was pointed in his opposition to the project as currently structured, arguing that public land demands a clear majority of affordable housing, that towers of this scale immediately adjacent to a newly opened public park are inappropriate, that flood risk is inadequately addressed, and that the developer had rejected his suggestion to wait two weeks for the incoming Mamdani administration before certifying the application. He cited average two-bedroom rents of $7,000 in Greenpoint, with new waterfront units expected to reach $9,500 for a three-bedroom, as evidence that market-rate units in this building will be unaffordable to virtually everyone in the community. Restler also noted that the 2005 rezoning produced 30,000 new units and almost none of the promised open space, and that only 15% of affordable units will be set aside for residents of the local community boards.
+
+Supporters of Monitor Point included unions 32BJ and Local 79, St. Nick's Alliance, Southside United, the New York Building Congress, the New York City Housing Partnership, the Community Preservation Corporation, the Fifth Avenue Committee, former Chief Housing Officer Jessica Katz and the Greenpoint Monitor Museum, all of whom argued the project delivers genuine deep affordability, union jobs, environmental remediation, waterfront access and a permanent museum home that would not otherwise be achievable. Opponents, including Friends of Bushwick Inlet Park, Save the Inlet, community gardeners, environmental advocates and many longtime residents, argued the project is primarily a luxury development on public waterfront land in a flood zone, that the open space provided falls far short of what was promised in 2005, that the towers' proximity to the park will effectively privatise the park edge, and that the community has already absorbed more density than any other district in the city. Howard Slatkin, who managed the 2005 rezoning for the City, testified in support but was challenged by Restler on the broken promises of that rezoning. The developer acknowledged it is evaluating options to increase affordability over the coming weeks and committed to $300,000 annually toward Bushwick Inlet Park operating costs for the term of the ground lease, but made no concrete concessions on unit count or height during the hearing.
+
+Numbers
+
+- Dewitt Clinton Park North, 629 West 54th Street: 44-story building, maximum roof height 550 feet (applicant offered to reduce to 510 feet), approximately 617 residential units of which approximately 154 affordable under MIH.
+- Dewitt Clinton Park North, 801 Eleventh Avenue: 38-story building, maximum roof height 485 feet, approximately 477 residential units of which approximately 119 affordable under MIH.
+- Combined Dewitt Clinton Park North total: approximately 1,094 residential units, of which approximately 273 permanently affordable.
+- Air rights transfer to 629 West 54th Street: approximately 84,000 square feet from Hudson River Park piers.
+- Air rights transfer to 801 Eleventh Avenue: approximately 64,000 square feet from Hudson River Park piers.
+- Minimum payment to Hudson River Park Trust from both Dewitt Clinton transfers: $29.7 million, anticipated to fund Pier 76 reconstruction.
+- Prior Hudson River Park air rights transfers totalled approximately $151 million across three transactions, including Saint John's Terminal, Douglaston and Lalezarian.
+- Community Board 4 requested affordability at 30% of units; applicant committed to MIH standard of 25%.
+- Community Board 4 requested maximum height of 450 feet for the 54th Street building; applicant offered 510 feet, consistent with the Borough President's recommendation.
+- Prior air rights at Block 675 sold at $300 per square foot; current Dewitt Clinton transfer priced at $200 per square foot, per community board testimony.
+- Monitor Point: approximately 1,150 total units, 40% affordable (approximately 460 units), across two buildings up to 640 feet tall in Greenpoint, Brooklyn.
+- Monitor Point affordable unit income bands: 40%, 60% and 80% AMI for the majority of units; no more than 20% of the all-affordable building at 81-100% AMI.
+- Sample Monitor Point affordable rents: two-bedroom at 40% AMI approximately $1,458/month; one-bedroom at 60% AMI approximately $1,822/month; three-bedroom at 40% AMI approximately $1,685/month.
+- Monitor Point anticipated market-rate rents: studios just under $4,000/month, one-bedrooms $5,000-$6,000, two-bedrooms $7,500-$7,800, three-bedrooms $8,500-$9,500.
+- Average two-bedroom rent in Greenpoint: $7,000/month; a two-bedroom across from 40 Quay Street currently listed at $14,420/month.
+- Monitor Point developer pre-construction costs before any housing unit can be built: estimated at approximately $130 million, including approximately $60 million to build replacement MTA facilities (mobile wash unit, material control storage and emergency response unit) and approximately $20 million for shoreline remediation and waterfront construction.
+- Net present value of MTA ground lease payments from Gotham over first 25 years: approximately $39 million; lease term is 99 years with escalations of at least 10-20% per 25-year period.
+- Monitor Point projected total economic impact: approximately $1 billion in construction-related economic activity.
+- Monitor Point publicly accessible open space: 44,500 square feet out of 51,500 square feet total; legal minimum requirement is approximately 33,000 square feet.
+- Gotham commitment to Bushwick Inlet Park operating expenses: $300,000 per year, inflation-adjusted, for the duration of the 99-year ground lease.
+- Council District 33 has produced approximately 30,000 new housing units since the 2005 Greenpoint-Williamsburg rezoning, the most of any Council district in New York City.
+- Only 15% of Monitor Point affordable units will be set aside for residents of Community Districts 33 and 34 combined; 85% will be available citywide.
+- Open space per thousand residents in Council District 33: 0.6 acres against a City planning goal of 2.5 acres; the project's Environmental Impact Statement acknowledges open space per resident will decline from 1.072 to 0.98 acres per thousand.
+- Citywide residential vacancy rate: 1.4%; Brooklyn vacancy rate: 1.27%.
+- Rents in Greenpoint have increased approximately 60% since the pandemic and roughly doubled since 2005.
+- City of Yes projected to produce approximately 82,000 homes over 15 years, fewer than 5,500 units per year.
+- Box Street Park breaking ground this summer on 85% of the planned site; the MTA emergency response unit continues to occupy the remaining 15%.
+
+Action Points
+
+- Dewitt Clinton Park North applicants to provide updated documentation to the Subcommittee confirming whether a reduction to 510 feet eliminates any residential floor area.
+- Dewitt Clinton Park North applicants to confirm in writing that affordable units will be spread across no fewer than 65% of floors in both buildings, consistent with MIH requirements.
+- Dewitt Clinton Park North applicants and CM Brewer to continue negotiations on height reduction, affordability percentage, affordability measured by square footage, family-sized unit minimum above 15%, and financial contribution to DeWitt Clinton Park.
+- Community Board 4 land use committee and applicants to resume discussions on massing and setback alternatives that might allow height reduction without floor area loss.
+- 32BJ to bring back to leadership CM Brewer's request that the union formally support increased workforce housing (up to 125% AMI) in the Dewitt Clinton Park North buildings.
+- Dewitt Clinton Park North applicants to provide Subcommittee with a summary of financial analysis demonstrating why affordability cannot exceed MIH Option One requirements under current economic conditions.
+- Monitor Point applicants (Gotham and MTA) to provide the Subcommittee in writing with a breakdown of ground lease compensation for the first 25-year period of the 99-year lease, correcting or clarifying the $39 million figure cited at the hearing.
+- Monitor Point applicants to provide updated capital cost documentation for the MTA facility relocation, reconciling the $27 million figure in submitted documents with the $60 million figure stated at the hearing.
+- Monitor Point applicants to provide the Subcommittee in writing within one week with examples of prior transactions in which development rights were transferred from land subject to a deed restriction similar to the Greenpoint Monitor Museum deed, addressing whether the air rights purchase violates that restriction.
+- Monitor Point applicants to confirm in writing the exact setback distances between the base and upper floors of the towers and the Bushwick Inlet Park boundary.
+- Monitor Point applicants to confirm in writing whether they are withdrawing the request for a waiver of the 40-foot waterfront esplanade requirement, following the statement at the hearing that they are receptive to adhering to it.
+- Monitor Point applicants to evaluate and present within three to four weeks concrete options for increasing the share of affordable housing beyond 40%, including lower-cost capital sources, tax credits, bonds and potential reductions in museum footprint.
+- MTA to follow up with CM Thomas-Henry in writing with a summary of total ground lease compensation across the full 99-year term, to the extent determinable, within a timeframe to be agreed.
+- MTA to provide CM Restler with updated information on the status of conversations with the City and State administrations regarding completion of Bushwick Inlet Park and the remaining unfunded portion of Box Street Park.
+- Gotham to work with the Greenpoint Monitor Museum on finalising the right-sized museum program at 18,000 to 22,000 square feet and to provide the Subcommittee with an updated development agreement and endowment plan for the museum.
+- Gotham to follow up with CM Restler and the Subcommittee on the community garden at 61 Franklin Street regarding shadow impact analysis from the proposed towers.
+- Monitor Point applicants to provide a more detailed breakdown of the $20 million-plus waterfront resiliency and shoreline restoration budget, including itemisation of the park portal costs ($5-7 million) and waterfront bulkhead costs ($12-14 million), to CM Sanchez in writing.
+- Monitor Point applicants to provide written analysis of projected changes in stormwater flow and flood risk to inland areas resulting from the development, in response to CM Sanchez's question.
+- Monitor Point applicants to provide written detail on wildlife and ecological habitat protection measures, including invasive species removal, native planting plan and any commitments regarding the Billion Oyster Project.
+- Gotham to confirm in writing the binding mechanism ensuring the 100% affordable eastern building is constructed, including the restrictive declaration or equivalent document tying the eastern parcel to affordable use only.
+
+## Full Transcript
+
+### 6.
+The New York City Council Page 3 Printed on 5/ 21/26
+
+**(00:00:15)**
+
+
+
+Cooperation — no, quiet please. Thank you. Good morning and welcome to the New York City hybrid hearing of the Subcommittee on Zoning and Franchises. Please silence all electronic devices at this time. Also, please do not approach the dais. If you have any questions, please raise your hand and one of the Sergeants at Arms will assist you. Thank you very much for coming and for your kind cooperation. Chair, you may begin.
+
+**(00:00:43)**
+
+
+
+Good morning and welcome to a meeting of the Subcommittee on Zoning and Franchises. I am CM Farah N. Louis, Chair of the Subcommittee. This morning we are joined by CM Brewer, Minority Leader David M. Carr, CM Farías and CM Felder. Today we are holding public hearings related to three proposals. The first hearing concerns two projects for proposed mixed use residential developments known as the Dewitt Clinton Park North proposals in CM Brewer's district. The second hearing concerns another proposed residential mixed use development known as Monitor Point in CM Bottcher's district.
+
+This meeting is being held in a hybrid format. Members of the public who wish to testify may do so in person or via Zoom. Members of the public wishing to testify remotely must register by visiting the New York City Council website at www.council.nyc.gov/landuse. To sign up for those testifying in person, please see one of the Sergeants at Arms to prepare and submit a speaker card. Members of the public may also view a live stream broadcast of the meeting at the Council's website. When you are called to testify before the Subcommittee, if you are joining us remotely you will remain muted until recognized by myself to speak. When you are recognized, your microphone will be unmuted.
+
+We will limit public testimony to two minutes per witness. If you have additional testimony that you would like the Subcommittee to consider, or if you have written testimony to submit instead of appearing in person, please email it to landusetestimony@council.nyc.gov. Written testimony may be submitted up to three days after the hearing is closed. Please indicate the LU number and/or project name in the subject line of your email. We request that witnesses joining us remotely remain in the meeting until you are excused, as Council members may have questions.
+
+Lastly, for everyone attending today's meeting, this is a government proceeding and decorum must be observed at all times. Members of the public are asked not to speak during the meeting unless you are testifying. The witness table is reserved for people who are called to testify and no video recording or photography is allowed from the witness table. Further, members of the public not present may submit audio or video recordings as testimony, but you must submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record.
+
+I will now open a combined public hearing on LU 0072-2026 and LU 0075-2026, at 801 Eleventh Avenue and 629 West 54th Street, each proposing a mixed use residential building in the Midtown West section of Manhattan in CM Brewer's district. Each proposal requires the same set of actions: a zoning map amendment, a zoning text amendment and a special permit. The special permits would allow the transfer of air rights from piers within Hudson River Park. The site located at 629 West 54th Street will have between 617 and 701 apartments, of which 154 to 210 will be permanently affordable, by mapping a Mandatory Inclusionary Housing Area on site. The site at 801 Eleventh Avenue will have between 475 and 541 apartments, of which 119 to 162 will be permanently affordable, by mapping a second Mandatory Inclusionary Housing Area on the site.
+
+For anyone wishing to testify regarding these proposals remotely, if you have not already done so you must register online by visiting the Council's website at council.nyc.gov/landuse. For anyone with us in person, please see one of the Sergeants at Arms to submit a speaker card. If you would prefer to submit written testimony you can always do so by emailing landusetestimony@council.nyc.gov.
+
+**(00:04:52)**
+
+
+
+Thank you very much, Madam Chair. I am Gale Brewer, City Council Member, and we look forward to hearing from the applicants. I will say that in this particular case, the community board — and I know Paul Devlin is here representing them — mostly says yes with conditions, but in this case they said no with conditions. To be honest with you, there were several outstanding issues that have not been addressed, and so I think that we should hear from the individuals who are presenting and then hear what the conditions that were troubling are.
+
+I will say that this is unusual in the sense that the Hudson River Park, which is in the river, has the ability to sell floor area ratio, allowing buildings to go higher. That is a good thing for the park because they will then get the money and the building gets to go higher. However, we are concerned about how it goes higher. We are concerned about the number of affordable units we want. We also have some concerns about the park that is nearby, which does need some support — not Hudson River Park, but Dewitt Clinton Park.
+
+So we look forward to hearing from the applicants and then I will have questions afterwards. But that is the general notion. Generally, Community Board 4 and I support the idea of housing at this location. However, we have certain conditions that have not been addressed. Thank you very much.
+
+**(00:07:02)**
+
+
+
+Yes. Good morning, Chair Louis. Good morning, Council Members. Wesley O'Brien of Fried Frank — I am land use counsel to both applicants. David West of Hill West Architects, also representing both applicants. Next slide please.
+
+The applicants are owners of two sites shown here in red. An affiliate of Friedland Properties owns the site to the west along Twelfth Avenue and an affiliate of Chapman Group owns the site to the east along Eleventh Avenue. Both of these applications are for rezoning of the sites from manufacturing to general commercial districts. This would facilitate the development of two mixed use, predominantly residential buildings on sites that were identified by Community Board 4 for high density development. As the Chair noted, we are also seeking special permits to allow for the purchase of unused floor area from Hudson River Park to be transferred to the sites for development. Next slide please.
+
+So focusing first on the Twelfth Avenue site, which is in the block north of Dewitt Clinton Park, images are provided for reference with the bottom left image looking northeast towards the site across Twelfth Avenue. We will reference this angle again later in the presentation. Next slide please. The proposed building at this site is a 44-story mixed use development with 84,394 square feet of commercial auto showroom in the three-story base and 421,304 to 435 square feet of residential use above. This would yield approximately 617 residential units, of which approximately 154 would be affordable in accordance with the Mandatory Inclusionary Housing program. Next slide please. The building is...
+
+**(00:08:57)**
+
+
+
+...shown here in section, rising up to a maximum roof height of 550 feet, with a three-story commercial base shown in pink and the residential tower above that. Next slide please.
+
+This slide shows the building's ground floor layout, with the residential lobby located to the east along 54th Street facing the park and the auto dealership fronting along Twelfth Avenue. Loading would be located on the north of the site, facing the facility across 55th Street. Next slide. Here in the center is a rendering of the building shown in an axonometric view. Next slide please. And we have another rendering at ground level, looking northeast across Twelfth Avenue, with the three-story commercial base shown at the bottom and the residential units located above that. Next slide please.
+
+Now turning to the Eleventh Avenue site, outlined in red, it is located two blocks north of Dewitt Clinton Park. The view at the upper left, which looks northwest to the site from the intersection of Eleventh Avenue and 55th Street, will be referenced. Next slide. And here is a site plan of the proposed 38-story mixed use building, which would include 64,392 square feet of auto use in the base and 321,958 square feet of residential use above that. This would yield approximately 477 units, of which 358 would be market rate and 119 would be affordable units in accordance with the Mandatory Inclusionary Housing program. Next slide please.
+
+And here is this building — the Eleventh Avenue building — shown in section, rising up to a maximum roof height of 485 feet, with a three-story commercial base shown in pink and the residential tower above it. Next slide please. And here is the Eleventh Avenue building's ground floor layout, with a residential lobby located at the corner of 55th Street and Eleventh Avenue. It is set back slightly at that intersection to provide more pedestrian circulation space. The auto dealership use is located, shown in pink, at the north end of the site. Next slide please.
+
+Here in the center is a rendering of the Eleventh Avenue building, and this is shown without the Twelfth Avenue building. Next slide please. And here is a rendering of the building at ground level, again looking northwest from the intersection of Eleventh Avenue and 55th Street. The corner recess is clearly visible at street level in the foreground. Next slide please. And then here we have axonometric views of the two buildings shown in the surrounding context, to the north of Dewitt Clinton Park. Next slide.
+
+The zoning actions are essentially the same for the two projects. I will note a couple of minor differences between them. Both of these applications are seeking zoning map amendments from M2 districts to C4-7 districts, and also we are seeking to map these within the Special Hudson River Park District. We are also seeking zoning text amendments to allow for the proposed projects and, importantly, to require Mandatory Inclusionary Housing at these sites. We are also seeking special permits: first, to allow for the transfer of approximately 84,000 square feet from Hudson River Park to the Twelfth Avenue site, and then 64,000 square feet from Hudson River Park to the Eleventh Avenue site. Finally, we are seeking bulk modifications to allow for each of these projects. Next slide please.
+
+So the transfers would shift unused floor area from Hudson River Park, and we have identified the piers here from which the floor area could come. It would be from Chelsea Piers, Circle Line piers at Piers 81 and 83, and/or the Con Ed pier at Pier 98. These would be the transfers to the development sites for a total of not less than $29.7 million. This amount may be increased based on later appraisals and inflation. It is anticipated that the funds given to Hudson River Park in conjunction with the transfer of floor area would be used for Pier 76, for a new pile-supported pier, landscaping, utilities, planting, new pavement and railings at that location. Some portion of the funds could also be set aside for maintenance at Hudson River Park Trust's discretion. Next slide please.
+
+There we are. So we have the two sites and the renderings of the two sites here. In conclusion, I will just note again that the applicants are seeking to facilitate a total of 1,094 new residential units on sites that have been identified by Community Board 4 for high density development. Approximately 273 units would be permanently affordable pursuant to the Mandatory Inclusionary Housing program. We have committed to a construction task force to work with the community board during the construction process. The project would facilitate good service worker jobs pursuant to an agreement with 32BJ, as well as including good auto repair jobs in the commercial spaces. This is all in conjunction with the payment of not less than $29.7 million to Hudson River Park. With that, we would be happy to take any questions.
+
+**(00:15:20)**
+
+
+
+Thank you. I have a few questions before I hand it over to the Council Member. I just want to announce we have also been joined by CM Sanchez and CM Thomas-Henry. So there are two large developments moving forward together. Can you clarify how the two sites are linked from a development standpoint and the plan for construction — will both be built at the same time?
+
+**(00:15:45)**
+
+
+
+They are separately owned and will be separately constructed. We have presented them together because they are using the same consultants and the actions are essentially the same, so we are on the same timeline. We anticipate that they would both be constructed in overlapping time frames and we have planned for that. We would work with the community board and the construction task force jointly, but they are separate applications and applicants.
+
+**(00:16:13)**
+
+
+
+These applications would allow high density commercial and residential buildings. Is there a precedent in this area for such density and height?
+
+**(00:16:25)**
+
+
+
+That density is located further to the north at the Durst Via building, and also the Cornerstone building in the blocks directly to the north. Riverside Center, further north of that, also has similar high density development. This proposal includes a substantial transfer of development rights from Hudson River Park. Have there been such large transfers in the past from the park?
+
+**(00:16:53)**
+
+
+
+There have been three transfers to date to the park that totaled, I believe, approximately $150 million to the park. These were to facilitate the Saint John's Terminal project as well as the Douglaston and Lalezarian projects at Block 675. All right. I now recognize CM Brewer for questions.
+
+**(00:17:18)**
+
+
+
+I guess I have been around a long time because I signed off on the ones just mentioned and I can give you the details. Every inch of it. So the community board recommended disapproval — and I have to say this is very unusual for Community Board 4 — unless several key conditions are met, particularly around building height, affordability and family-sized units. So can you walk us through those requests and what you have agreed to? Obviously we are concerned, as you know, about the height and also the bulk, the affordability and the family-sized units. I know you have your position on these, but if you could begin to walk people through them — I think I know the answers and I think we do not agree so far, but I would love to hear your response.
+
+**(00:18:03)**
+
+
+
+Sure. So with respect to the height — this comment was focused on the Twelfth Avenue building — the roof height as proposed in the application was at 550 feet. We have been asked by the community board to reduce that to 450 feet. We have studied and confirmed that we can reduce it to 510 feet without losing any floor area, which is...
+
+**(00:18:27)**
+
+
+
+...the height that is consistent with the Borough President's recommendation for the site.
+
+**(00:18:32)**
+
+
+
+Okay, that is your response and what we may or may not agree on, but I appreciate the response. In terms of affordability — this is the issue — we want to count not just the number of units but the square footage. I think again Community Board 4 is unusual because they also believe in workforce housing, which is at a higher income level. So we would like to see the delta between those income levels in our units and the square footage to be workforce housing. What is your response?
+
+**(00:19:04)**
+
+
+
+Yes. So in New York City, when you are developing Mandatory Inclusionary Housing pursuant to the New York City programs, there is Option One or Option Two. We have provided for both of those in the application. Option One is the one that aligns with 485-X. While we would like the flexibility in case the program changes later and accommodates Option Two better, at this time in order to construct these buildings we would need to build pursuant to Option One. I will note that between MIH and 485-X, New York City has the most ambitious and rigorous affordable housing program in the country for any large city, and we are committed to meeting that. But that is a reach and we are committed to it.
+
+**(00:19:52)**
+
+
+
+All right. So you are not basing it on the number of square feet — you are still going by units. It would be based on a percentage of the residential floor area. Okay. All right, we will have a further discussion about that. And what about family-sized units? We prefer family-sized units. What is your response to that?
+
+**(00:20:13)**
+
+
+
+Yes. The applicant has not settled on the exact unit sizes and unit layouts, but has committed that we could provide not less than 15% family-sized units.
+
+**(00:20:24)**
+
+
+
+We have again to be discussed in terms of the step down toward the waterfront. We talked about reducing the height, but how have you modified the design to better reflect the neighborhood context concerns, particularly the step down at the waterfront? So the project includes a deep setback from the waterfront, so the height would come down to 510 according to your proposal, correct. And then it sets down to the base at 60 feet, and then the tower is set back from Twelfth Avenue approximately 60 feet there. And I think the community board wanted more. My understanding is you are not willing to go even further in terms of the setback.
+
+**(00:21:08)**
+
+
+
+The setback — the issue was not with the setback on that side. The issue was with the setback on the other side. They were focused on height on that side. If we go further, there is a likelihood that we will have to reduce the amount of floor area and thereby housing, both market rate and affordable, that would be constructed at the site.
+
+**(00:21:25)**
+
+
+
+Okay, again, further discussion. Yes. Well, the other issue is — and maybe this is already decided — but the units would be spread around the buildings, or would they be in one location? We prefer that they be integrated.
+
+**(00:21:39)**
+
+
+
+The units would be integrated. So as part of the Mandatory Inclusionary Housing program, when it was initially proposed by the City, it would have been required that they be spread on 50% of the floors throughout the building. The City Council pushed it to 65% of the floors throughout the building. We would absolutely comply with that. Okay, we just need more units.
+
+**(00:22:00)**
+
+
+
+There is dissent. We do not want to look too much like a glass building. We want to be more representative of the neighborhood. So what are your finishes? How are you making it — and I think you have agreed to some of this — but how do you make it more representative of what the rest of the neighborhood looks like in terms of the finishes? The rendering you see of the Twelfth Avenue building has
+
+**(00:22:30)**
+
+
+
+actually been changed from when we initially presented it to the community board. It is a more masonry facade with a more contextual base. The base of the building relates very nicely, I think, with the industrial buildings that fill out the rest of the block. The tower is not a glass tower at this point. The initial design was far glassier and had a more vertical emphasis. This is shown in slide 14 if you would like to see it. So the image you see here is actually a response to the community board's
+
+**(00:23:06)**
+
+
+
+request. Okay, well it looks like a lot of glass to me, but I am willing to work with the community board, to be honest with you. I hate glass. I like brick.
+
+**(00:23:16)**
+
+
+
+And preservation. If I am a Council member... just one second. Could we please go to slide 14? It is more clearly shown at the street level. I would preserve the whole city if I could. Yes.
+
+**(00:23:39)**
+
+
+
+It is not 14. No, it is not 14.
+
+**(00:23:42)**
+
+
+
+Okay, if you could just direct them — slide 8. Slide 8. Thank you. Yeah.
+
+**(00:23:59)**
+
+
+
+I have seen it, so I hear you. I am just letting you know what we want as much as possible. We will have to have more discussions. Within the building, I know the 65% integrated units have the same finishes in all the apartments — the affordable and the market rate are equivalent in terms of appliances. And what about the amenities? In every one of these buildings — I do not believe in gyms and day care centers and all that stuff — but would the affordable units have the same opportunity to use them as the market rate, or would there be a discount? It would be subject to equal access. So free amenities throughout the building would be open to everybody. If it is a gym that requires a membership fee, that would be for everybody. So there would not be any discount for the affordable. I am just asking.
+
+**(00:24:54)**
+
+
+
+The other question, of course, is every single one of your
+
+**(00:25:00)**
+
+
+
+larger slides shows that great green space looking out, and it is in bad shape in many cases. So it needs bathrooms and it needs a playground — both around six million dollars. How much are you going to donate to the park? Because that will be a park used by your thousand-plus units and households. So as part of this project we are paying 29.8 million. And that is for you going higher. That does not count in my
+
+**(00:25:31)**
+
+
+
+book. I am just saying that is not a donation. That is like paying for development rights to go higher. Councilmember, I think this is an area we look forward to discussing with you further.
+
+**(00:25:41)**
+
+
+
+Okay, now we have ongoing discussions. All right, so those are basically my questions. I appreciate the discussion. Who are the actual developers for the two different buildings? The names of the companies. That is Freedland Properties, and then Chapman Group. Okay.
+
+**(00:25:58)**
+
+
+
+So those are the two, just for the record.
+
+**(00:26:00)**
+
+
+
+All right, so I am done with my questions. I have to say that these issues that I brought up still need to be addressed, working with the community board. No other community board, with all due respect, has the expertise in land use that this one does. I do not care who you are. So it is a pleasure to work with them and I will do so, and we will continue the discussion. But we really do need some of the issues that I brought up today to be realized. Having done 250 land use applications in my past, we will be talking. Thank you very much. Thank you.
+
+**(00:26:34)**
+
+
+
+Thank you, Council members. There being no Council member with questions, this panel is now excused. Thank you for your time. Counsel, are there any members of the public who wish to testify remotely or in person regarding this proposal? Yes, Chair, we have a few people in person and also a couple of people online. We will start with the in-person testimony. For members of the public here to testify, please note that witnesses will generally be called in panels of three. If you are a member of the
+
+**(00:27:01)**
+
+
+
+public signed up to testify, please stand by when you hear your name being called and be prepared to speak when indicated. Once all panelists in your group have completed their testimony, you will be removed from the meeting as a group and the next group of speakers will be introduced. Once removed, participants may continue to view the live stream broadcast of this hearing on the Council website. You will be given two minutes to speak. Please do not begin until the sergeant at arms has started the clock. The following individuals who signed up to testify should now come to the witness table. We will start with Paul Dalven, Theo Perez and Shante... sorry for butchering your name. And we will start with Paul Dalven. Okay, you may begin.
+
+**(00:28:24)**
+
+
+
+Okay, all right. My apologies. I am Paul Devlin. I am the co-chair of the Clinton Hell's Kitchen Land Use Committee of the Manhattan Community Board. Thank you all very much for the opportunity to testify today. CM Brewer, thank you very much for your kind comments.
+
+This developer has put our board in a very awkward position. We are known as a pro-housing board. We are the largest housing producer in all of the district, in all of Manhattan — the highest producer. We are the only ones with an affordable housing plan. We supported the removal of the 12 FAR cap from the MIH. We are pro-housing. We work with our developers to make sure that the housing fits into our community. As our land use committee met, we actually voted to approve this with conditions. But the fact that the developer is not willing to meet our conditions led our committee to vote to deny unless these conditions are met. We are making some very standard requests that we make of all of our developers.
+
+We want to have a higher, increased percentage of affordability — 25% MIH Option One is not sufficient. We need to have 30% affordability. We want to do this by MIH and we also want to do this by decreasing the height. We can maintain the bulk — we contend we can maintain it but shift the massing. There is no reason for this height adjacent to the Hudson River. We want to make sure that this percentage of affordability is reflective of every other development that we have. We are working with other developers who are working at 18 FAR, higher density buildings that are lower height and a higher percentage of affordability. For this development team to say they cannot do it does not make sense in a district where we actually are successful at doing that with other developers. So we urge you to work with this development team to make sure that we increase this percentage.
+
+I also want to have a comment about the contribution to the Hudson River Park. They are purchasing development rights at $200 a square foot. The gentleman compared this to Block 605, and I had been involved in the Douglas Elliman negotiations and was part of that negotiation. Those development rights sold at $300 a square foot. They are now purchasing these development rights at $200 a square foot and saying that $30 million is a sufficient contribution. They need to make a greater contribution to the park across the street from them. Thank you.
+
+**(00:30:43)**
+
+
+
+Now we are going to hear from Theo Perez.
+
+**(00:30:46)**
+
+
+
+Good morning, Chair Louis, CM Brewer and the rest of the Council members. My name is Theo Perez. I am here today representing SEIU Local 32BJ. 32BJ is the largest union of property service workers in the country. We represent over 175,000 members across the East Coast, including tens of thousands of commercial property service workers, residential workers and security officers here in New York City.
+
+At 32BJ we support responsible developers who invest in the communities where they build. I am happy to report that the developers behind these proposed projects, including the Chapman Group, have made credible commitments to creating good jobs for the workers who will permanently fill them. Good jobs mean meaningful wages, they mean meaningful benefits, they mean a pathway to the middle class for the community members who fill them. Beyond this, at 32BJ we believe that we need housing to be built in every neighborhood of New York City to ensure working families are not displaced by dwindling supply and skyrocketing rents. The proposed development, which will include roughly a thousand residential units, hundreds of which will be permanently income-restricted for low to middle income New Yorkers, addresses that need. As the cost of living rises and working New Yorkers struggle to stay in their homes, it is important to support those projects that create both affordable housing and good jobs which uphold the industry standard. For these reasons, 32BJ supports both 801 Eleventh Avenue and 629 West 54th Street. Thank you for your time.
+
+**(00:32:10)**
+
+
+
+Thank you, Theo. And next, if you could please... hey, how are you?
+
+**(00:32:21)**
+
+
+
+Good afternoon. My name is Shang Abad from the New York Building Congress. The New York Building Congress represents over 500 constituent organizations and more than 250,000 skilled trades people and professionals dedicated to the growth and prosperity of New York City. We write to express strong support for these projects.
+
+As New York City continues to confront a severe housing shortage, projects like Dewitt Clinton Park North are essential in expanding the City's housing supply while generating substantial economic and community benefits. Together, these developments would deliver more than 1,000 new residential units, including 25% permanently affordable homes, in a transit-rich neighborhood on Manhattan's West Side. These projects represent the type of thoughtful, high-density development New York City needs to address affordability and support long-term economic growth. In addition to creating much-needed housing, the developments will generate hundreds of construction jobs and permanent building operations and maintenance positions, supporting local businesses and economic activity in a thriving community.
+
+Importantly, the projects will also preserve auto showroom uses that have long been part of the neighborhood's economic character, helping retain quality jobs and commercial activity in the area. In addition, the projects' significant air rights purchased from Hudson River Park Trust will help fund critically needed infrastructure improvements within Hudson River Park, benefiting residents and visitors alike.
+
+The New York Building Congress believes that Dewitt Clinton Park North represents a strong example of how New York can responsibly advance new housing production, support economic opportunity and invest in critical public infrastructure simultaneously. We respectfully urge the Council and the Zoning Subcommittee to support these applications. Thank you.
+
+**(00:34:05)**
+
+
+
+Thank you. I have a quick question before I hand it over to the Council member. This is specifically for you, Paul. Thank you for testifying today. In your testimony you mentioned that you would like to see a decrease in height. I wanted to know if you could elaborate on your concerns about the height. The applicant testified today and shared that they would be willing to go down and decrease from 510, but we wanted you to elaborate a little bit more about your concerns regarding the height.
+
+**(00:34:28)**
+
+
+
+The concerns we have are that we try to taper the height from inland down towards the river, so that as you are on the river the experience is not a wall of housing. So we have asked for them to taper it down as you approach the river. The massing that they currently have has a significant setback away from Twelfth Avenue. We truly believe that if they increased the massing at the base and extended the base closer to Twelfth Avenue, they can cut some of the top off and push the units out closer
+
+**(00:35:02)**
+
+
+
+to the river. When we presented that option to them, they complained about the noise levels from Twelfth Avenue as the reason why they wanted to be further set back from Twelfth Avenue. I do not know about you, but noise 50 feet away and 10 feet away is the same noise unless there is something between you. So that argument did not hold water with us.
+
+**(00:35:20)**
+
+
+
+And one other additional point: we have a proposed development now on 57th Street at 18 FAR, and their height is at 385 feet.
+
+**(00:35:28)**
+
+
+
+So it is possible to have high density without high height. Thank you. And I will call on the Council member. Thank you.
+
+**(00:35:36)**
+
+
+
+I hope you will all talk to us a little bit about the difference between 25 and 30 percent, how it was determined, and the importance of workforce housing. With all due respect to 32BJ, who are supportive, and I am glad to hear from the building trades — your workers would be able to get into this building with that extra 5 to 10%. So if you could talk about the importance of it, and other developments have done it — the one on 57th Street, TJ Cornerstone, as an example, did so.
+
+**(00:36:05)**
+
+
+
+This is not unusual. No, it is not unusual at all. We have had many developers come through with a higher percentage of affordability and we have worked with different development teams to figure out if the Option One formula aligns best with 45 FAR. Maybe there is a way to introduce some additional housing — as we are now using the term, workforce housing. We are not looking for affordability at the 60% AMI or lower. We have a lot of that and we can accommodate it in our community. AMI bands that are higher — we can go up to 125% AMI — will generate enough rental income to support the finances of a building like this. If you can figure the math on the extra 5% at a higher percentage of AMI,
+
+**(00:36:51)**
+
+
+
+we are not looking for an additional 5% at 60% AMI or even 80% AMI.
+
+**(00:36:56)**
+
+
+
+We are looking for workforce housing, and that can be at 125% AMI. It will generate enough rental income for the developer, I think.
+
+**(00:37:05)**
+
+
+
+A real issue is... I think we will continue the discussion about Dewitt Clinton Park, perhaps offline. I would love 32BJ to help us with this extra affordability that would generate workforce housing. I know you are supportive. I am glad you are supportive. Do you think you could bring that back to Manny and company and see if they will support the extra... I mean, I think we support the project as it stands and will continue to follow the conversations you have with the
+
+**(00:37:36)**
+
+
+
+developers. Okay, that is not an answer, but I will take it. I am low level — Manny asked me to give you that answer. I would love to see him support it because it is for your members, to be honest with you. What is the average salary of the 32BJ employees? It is above the 60
+
+**(00:37:54)**
+
+
+
+percent. Exactly. So we would love to see your members in this building. So you could bring that back.
+
+**(00:37:57)**
+
+
+
+All right, I do not have any other questions. I would say that we have a lot of negotiations still to do. Thank you very much.
+
+**(00:38:04)**
+
+
+
+Thank you all very much. Switching to in-person testimony, I will now call on the next panel of individuals who will testify in person. I will now call on Noreen Doyle and Daniel Kurtz. Noreen Doyle and Daniel Kurtz, can you... sorry. Nora... all right, Doreen, you may begin.
+
+**(00:38:34)**
+
+
+
+Thank you. Good morning. My name is Noreen Doyle. I am the President of the Hudson River Park Trust and I am speaking today on behalf of both the Dewitt Clinton Park North projects at 801 Eleventh Avenue and 629 West 54th Street.
+
+As you know, the Trust is a legislatively created partnership between New York State and New York City. We were created for the purpose of designing, building and operating Hudson River Park along four miles of the Manhattan shoreline and doing so on a financially self-supporting basis to the extent practicable.
+
+The Special Hudson River Park District is a valuable tool that has to date generated approximately $151 million for park infrastructure and we have used these funds to perform essential structural repairs at Pier 40, to build new public restrooms in Chelsea, to help build a new public park here at Pier 97 in Hell's Kitchen and to advance park improvements that are currently in design between West 29th and West 44th Streets.
+
+In consultation with Community Board 4, the Trust has identified as the priority use for the contemplated development rights proceeds: Pier 76 is located opposite the Javits Convention Center in an area that has very little public open space and until 2021, when it became part of the park, Pier 76 was used by NYPD as Manhattan's tow pound. Today that swath of asphalt measures more than five and a half acres and is supported by 6,500 wooden piles that are deteriorating as I speak. It is going to need to be rebuilt completely which, given its scale, will be very costly.
+
+The Trust has secured a commitment of $85 million from New York State towards this goal and we are working towards an eventual match from New York City as well as funding provided by the Trust, including hopefully the proceeds from these two transactions. At present, the Trust cannot conduct our own legislatively required public significant action process concurrently with the ULURP, as the developers do not yet have a committed closing or construction schedule for their projects. For this reason, and with the cooperation of the developers as well, we built certain protections into our agreements including minimum price expiration dates. Thank you.
+
+**(00:40:42)**
+
+
+
+We are going to hear from Daniel Kurtz. Daniel Kurtz, you may begin. Daniel Kurtz, can you hear me? We can hear you. You may begin.
+
+**(00:40:59)**
+
+
+
+Just speaking up on where President Doyle left off. Yes, the Trust has entered into a number of protective agreements with the developer, as the commencement of the project will likely extend well beyond the approval date of the ULURP. Included among them is an agreement by the developer that, notwithstanding other opportunities to secure additional development rights for the site, they will always use these development rights to be purchased from Hudson River Park.
+
+In the rather unlikely event, as President Doyle indicated, that we have sufficient funds to pay for the extremely expensive Pier 76 renovation and reconstruction, Hudson River Park has committed to Community Board 4 and the City Planning Commission to consult with Community Board 4 with regard to alternate uses for the development proceeds from the air rights, and that the improvements to be funded would be primarily within the Hell's Kitchen area of Community Board 4. Obviously the sale of development rights will be subject to the ULURP which is presently before the Council here.
+
+**(00:42:27)**
+
+
+
+That is all I have unless you have a question. Thank you, Daniel. If there are any members of the public who wish to testify regarding this proposal remotely, please press the raise hand button now. If you are in person, please identify yourself to one of the sergeants at arms. This is the last call. Being that there are no members of the public who wish to testify... oh, we do have someone outside. Come on down. Thank you. Did you fill a speaker's card? Okay. When you come to the panel table, if you could please just restate your name.
+
+**(00:43:11)**
+
+
+
+Thank you. Hello, good morning. My name is Jack Connors. Good morning. I am Jack Connors, the City Legislative Manager at Open New York, a statewide grassroots advocacy group that advocates for abundant homes and lower rents. Thank you to Chair Louis and members of the Committee for the opportunity to speak in support of Land Use items 67 through 77 — the Dewitt Clinton and Monitor Point proposals. Combined, these projects would construct more than 2,100 new homes, over 700 of them affordable. In the seven years since talks around Monitor Point began...
+
+**(00:43:59)**
+
+
+
+...the Dewitt Clinton project would address our housing crisis, which has only worsened. New Yorkers have made it clear that they are tired of the financial stress placed on them by ever-increasing rents and tired of seeing friends, family and neighbors displaced because of rising housing costs and tired...
+
+**(00:44:16)**
+
+
+
+Sorry, Jack, you can only testify right now on the first project, not on Monitor Point. Okay. You can continue your testimony for the first project but not the second.
+
+**(00:44:28)**
+
+
+
+Got it. Okay. Tired of seeing friends, families and neighbors displaced because of rising housing costs and tired of being unable to see a future for themselves and their families in a city they love because it does not seem to love them back. That is why this past year New Yorkers went to the polls in an unprecedented way and said yes to affordable housing. In a city where disagreement is a way of life, New Yorkers handed these questions the highest yes vote of any odd-year ballot proposition this millennium.
+
+The message is clear: voters want a lot more homes built quickly. Sites like Dewitt Clinton are exactly the places we need to be building housing all across the City — close to transit, in a high-amenity area with good jobs, on underutilized land that currently houses no housing. Further delay of this project will leave it walled off to the community and will delay badly needed park improvements for residents. I urge you to vote yes on these proposals — yes to housing, yes to green space and yes...
+
+**(00:45:28)**
+
+
+
+If there are any... oh yeah, I just want to share that we have been joined by CM Restler. CM Restler has a question. Thank you.
+
+**(00:45:41)**
+
+
+
+So much, I appreciate it. So Open New York does advocacy in support of housing projects across the City of New York, correct? That is correct, yeah. And you engage with Council Members on those projects in their districts? Yes. Have you reached out to the Council Member about the Dewitt Clinton project? No.
+
+**(00:45:58)**
+
+
+
+Have you been in contact... well, okay. Has Open New York been in contact... well, I am not supposed to ask about Monitor Point, but you can see where this is going. So thank you for joining us today and for sharing your insight. Thanks. We would welcome the opportunity to meet with either of your offices and discuss this project and the homes New York needs.
+
+**(00:46:14)**
+
+
+
+Thank you. This panel is now... excuse me, we have another person online who wants to testify. Leo Guttman. Leo Guttman, Leo Guttman, you are online. You may begin, Leo. Thank you. You may begin your testimony.
+
+**(00:46:44)**
+
+
+
+Yes. I am Leo Guttman. I am a member of a community board — Queens Community Board — but speaking on my own behalf. I am here to speak today in favor of the Dewitt Clinton Park project.
+
+I just want to say, first of all, in terms of connection to the area, I do live in Long Island City but my father worked in the neighborhood for many years at one of the car dealerships — not on the site but a couple blocks away. And actually that is my one kind of quibble with this project: I would really like to see better ground floor usage than car dealerships. This is a place with lots of active transit options and public transit. I do not think it is great for the fabric of the City to continue to support such an auto-centric usage there.
+
+Everything else about the project I really like. I really love seeing... the housing crisis is really out of control and we need tons of new units going up in every neighborhood, and so this project I think supports that goal. I support the deepest affordability possible, sticking with option one. I also like seeing the park funding that comes out of this and seeing our parks do better. So overall, yeah, I support the project. I just wish the ground floor usage ended up being something different.
+
+**(00:48:20)**
+
+
+
+Thank you, Leo. If there are any other members of the public who wish to testify regarding this proposal remotely or in person — if you are remote, please press the raise hand button; if you are in person, please identify yourself to one of the sergeants at arms. This is the final last call. Being that there are no members of the public who wish to testify regarding Land Use numbers 72 through 77 relating to either the Dewitt Clinton Park North development proposals, the combined public hearing is now closed and items are now laid over.
+
+Next, we will now hear Monitor Point. I will now open the public hearing on Land Use numbers 67 through 71 regarding the Monitor Point proposal, a mixed-use residential proposal in Greenpoint, Brooklyn in CM Restler's district. The proposal involves multiple actions: a zoning map amendment, two special permits including the establishment of a large-scale development, and a zoning text amendment. The applicant is seeking to redevelop a site on the Greenpoint waterfront owned by the MTA and build two buildings and a museum space. The development would contain approximately 1,150 apartments of which approximately 40% would be affordable units. The affordable apartments would consist of permanently affordable units required by the mapping of a Mandatory Inclusionary Housing Area over the development site and a building dedicated to affordable housing on the eastern portion of the development site.
+
+If anyone wishing to testify regarding the proposal remotely and has not already done so, you must register online by visiting the Council's website at council.nyc.gov/landuse. For anyone with us in person, please see one of the sergeants at arms to submit a speaker card. If you prefer to submit written testimony, you can always do so by emailing it to landusetestimony@council.nyc.gov. I will now recognize the Council Member for remarks.
+
+**(00:53:34)**
+
+
+
+Thank you so much, Chair Louis. I really appreciate it. Thank you for your leadership and thanks to all my colleagues who are in attendance today. I am very grateful for the feedback that I have received on this proposal from many thousands of community members over the last several years. I just want to thank all the neighbors and the local advocacy groups who are with us today, including a couple of students from PS 34.
+
+This proposal at Monitor Point is to build giant residential towers as high as 56 stories of primarily luxury housing just feet from the long-promised Bushwick Inlet Park on publicly owned land. When I was first approached about this project almost five years ago, before I was even sworn in as a Council Member, I made clear that I was strongly opposed — but in much more colorful language. There was hardly any affordable housing included in the proposal at that time, not even Mandatory Inclusionary Housing or any additional benefit to our community.
+
+Our City is facing a severe housing crisis and we need to continue to add housing across the five boroughs. My district, Council District 33, has built more new housing over the past 15-plus years than any other Council district in the City of New York, including 30,000 units since the Greenpoint-Williamsburg rezoning was passed 20 years ago. That is about 18,000 units on the waterfront within the rezoning area and an additional 12,000 units inland. We remain committed to doing our part to build more housing in our transit-rich district.
+
+However, development on publicly owned land demands a much higher level of affordability. Indeed, development on public land must be primarily for the public good. There are some individuals here today that think we should take whatever crumbs this developer is willing to offer and say thank you. I am not one of them. We can stand up and say we are not willing to sell out our extremely valuable public land for primarily luxury housing.
+
+New market-rate housing in Greenpoint is quite simply unaffordable. The average rent for a two-bedroom apartment in Greenpoint today is $7,000. There is currently a two-bedroom for rent right across the street from 40 Quay Street for $14,420 a month. You would need an income of over half a million dollars to afford that apartment. Furthermore, in the more than 20 years since the Greenpoint-Williamsburg waterfront was rezoned, the City has failed to deliver on the central promise of that rezoning: a new 28-acre park, the Bushwick Inlet Park. That land has sat derelict for decades across four mayoral administrations — from Bloomberg to de Blasio, from Adams to Mamdani. We have seen more and more towers go up and our park remain fenced off from our community.
+
+To earn my support, any proposal for this publicly owned land would have to guarantee true affordability in a clear majority of the housing units and an ironclad commitment with a crisp timeline and full funding for the completion of the long-promised Bushwick Inlet Park. I would like to thank the Council Land Use team, particularly Brian, Paul and Lina, and William for their expert counsel throughout this process, and my excellent staff — Director Hanna Aida and my Chief of Staff Molly Haley — for their always terrific work. I will leave it at that for now.
+
+**(00:57:51)**
+
+
+
+Thank you. You may begin your testimony, which is limited to 10 minutes. We will ask you to start wrapping up your presentation within eight minutes. When you begin your presentation, please restate your name and organization. You may begin.
+
+**(00:58:07)**
+
+
+
+Brian Kelly with Gotham. Gotham Organization is leading this project, which I believe is the definition of a public-private partnership in Greenpoint. As co-applicants, we have the experienced team to execute upon this plan and to work with CM Restler to close the gap here on the housing. The proof is in the pudding.
+
+From rezoning, we built the Suffolk on the Lower East Side with the Chinese-American Planning Council — that was a ULURP with more than 40% affordable. We built Home in the West Side and the innovative urban village in East New York, which within two years of rezoning resulted in 900 units in the ground. So we are here to testify that we are ready to execute.
+
+Next slide please. The site is two properties. One is publicly owned land which is owned by the MTA. It has hindrances to development. It has been zoned for housing since 2005 but it has not been developed. The other parcel is owned by the Greenpoint Monitor Museum. It is an irregular-shaped lot which, although the Museum has fought resiliently to try and preserve it, is subject to erosion. Next slide please. Next slide please. Next slide please.
+
+The existing conditions are a hindrance. There is environmental disrepair. The facility is a wall to the waterfront. There is industrial traffic, no public access or improvement and no shoreline. Next slide please.
+
+In summary: 1,150 homes of which 40% would be permanently affordable to lower-income households; 51,500 square feet of public waterfront access; unlocking Box Street Park by removing the Emergency Response Unit from that location; a new facility for the mobile wash unit; critical funding for park resiliency and native habitat investment through a ground lease — we are not buying the land, we do not own the land, it will be under a lease; and a permanent home for the Greenpoint Monitor Museum. This is not a mutually exclusive proposal on just housing or open space, it is cumulative.
+
+What do new lower-income homes mean? On the next slide: it means 40% — 460 homes, nearly 500 people today who cannot imagine they would have a home on the waterfront, a roof over their head, at real deep affordability: 40%, 60% and 80% AMI. We have also cross-subsidized a large portion of the site to unlock an all-affordable building as well, working with HPD. That is homes focused on two- and three-bedrooms with a target of 40% of those homes being family-oriented. Abundance in housing production is the case for the Greenpoint area. However, according to HPD, only 11% of those homes have been for lower-income households. This project as a single standalone project will nearly quadruple that. Next slide. What does affordability mean in terms of rent?
+
+**(01:01:04)**
+
+
+
+At 40% AMI, a two bedroom for $1,458 — that is a massive discount to the market. 60% AMI for a one bedroom, $1,822. This is based on the 2025 AMI published. Next slide.
+
+What does that mean? Case study: a warehouse manager, married with two children, making nearly $60,000, could have a three bedroom for $1,685. Or a mental health counselor, single person making $67,000, at 60% AMI, a one bedroom for $1,822. Next slide.
+
+What does the zoning change mean? Density unlocks affordability. This site today is zoned for only market rate condos. The zoning change does add a tremendous amount of density in light of a housing crisis, but 50% of the new floor area will go to deep affordability.
+
+Hello, I am Simeon... from Gotham Organization. Monitor Point and its open space is made possible only through the construction of the new facility, on-site remediation and investment in resilient infrastructure. The project creates a singular opportunity to open the waterfront here to the public. The project will deliver and exceed the goals of the 2005 rezoning through the delivery of 51,000 square feet of publicly accessible open space. Next slide please.
+
+West Street will end in a wide park portal connecting the public from the street to the Bushwick Inlet. The design includes pathways, benches, elevated grove seating areas, an interactive water feature and native plantings. Next slide please.
+
+A dry creek bed will help mitigate against stormwater, in addition to on-site retention tanks and permeable ground surfaces. Next slide.
+
+The south end of the park portal will be raised in elevation to connect with the new Bushwick Inlet Park. The open space is not just hard paved surfaces. Rather, it includes landscaped planted areas and trees specified to create a continuous landscape with the new Bushwick Inlet Park. Next slide please.
+
+**(01:03:18)**
+
+
+
+The waterfront is made available through the installation of a new bulkhead that will allow for the grade to be raised across the two sites, protecting against future flooding and storm surge. Additionally, the bulkhead will stem on-site erosion, helping to improve the inlet's water quality. The design here includes industrial materials and signage speaking to the site's maritime history, pathways, benches and seating areas, including a picnic area overlooking the Bushwick Inlet.
+
+At the south end, the landscape steps down to connect to Bushwick Inlet Park, providing accessibility for all visitors. In addition to the on-site open space, the relocation of the MTA's emergency response unit from Box Street in north Greenpoint to the new facility that we will be constructing will provide for the full realization of an additional 25,000 square feet of open space at the new Box Street Park's front door. Next slide please.
+
+Good... Kaplan, Senior Partner, FX Collaborative Architects. Starting with the East River skyline from Hunter's Point South to River Ring and Domino, the project is appropriate, especially given its considerable public benefits.
+
+**(01:04:38)**
+
+
+
+Next slide please. Moving from skyline to street, we are amplifying the benefits of the public open space that Simeon just described by framing them with community and cultural uses, bringing people and activity to the waterfront. On the right is a park-related use with public toilet rooms, and on the left is the home of the Greenpoint Monitor Museum, with pride of place, 270-degree exposures, views of the East River, and at the site of the historic launching of the U.S. Monitor. Next slide please.
+
+The massing has been pushed away from Bushwick Inlet and opened up to the upland. Next slide. We have provided three orientations to avoid a wall to the waterfront. Next slide. We have stepped down to the community, tapered the buildings and given them a profile. Final next slide please.
+
+Finally, we have avoided the all-glass formulation of the towers, providing color, texture, depth and materiality that will complement the neighborhood. As mentioned earlier, the museum retains land ownership. Gotham will build out the waterfront. The waterfront areas will be publicly accessible and maintained and funded by the Gotham affiliate. Next slide please.
+
+We will work with the museum to purpose-build the facility, right-sizing it as well, and building it concurrently with the housing to make it a year-round cultural and educational space.
+
+**(01:06:16)**
+
+
+
+Their land will serve a double bottom line: open space and culture. Next slide please. As mentioned, the site has been a housing site for 20 years that does not require affordability. In order to unlock that and turn potential into reality, we have to construct for them a new mobile wash unit. The material control storage unit and the emergency response unit are nearly a combined $60 million investment before we can put a shovel in the ground. Next slide please.
+
+**(01:06:48)**
+
+
+
+This development will lead to direct and indirect benefits exceeding $1 billion — jobs, income taxes, property taxes, local spending — versus today, with no housing units, no solution for the site, nowhere to move them. We have worked arduously to identify the site to relocate them.
+
+**(01:07:09)**
+
+
+
+Before we can pour one ounce of concrete to go vertical, we have to spend $130 million to get to that point in time. It is a lot of work, a lot of risk, a lot of energy, but also resulting from community and collaborative efforts. Next slide please.
+
+**(01:07:25)**
+
+
+
+We did not get here today, six years later, by accident. We have heard constituents loud and clear: affordability, real affordability.
+
+**(01:07:34)**
+
+
+
+We have 4,300 project supporters on a petition. Although with conditions, the project was approved by the community board, the Borough President and then it was approved by the Commission. We take every condition very seriously. We can meet many, and others we will work together through this process to try and adhere to as well. Next slide please.
+
+Just to reinforce the actions that were mentioned by Chair Louis, I thank you, Council Members, so much for the opportunity. I realize there are a lot of moving parts and thank you for your open ear. Thank you. I have a few...
+
+**(01:08:15)**
+
+
+
+...questions before I hand it over to Council Member... My first question is for the MTA component of this project: what are the main goals when it considers the redevelopment of properties it oversees, and how does this proposal meet those goals? Thank...
+
+**(01:08:32)**
+
+
+
+...you. I am Sean Fitzpatrick of Construction and Development. We have a robust transit-oriented development group that looks to identify opportunities where we can both meet operational needs — first and foremost in this case, unlocking a new purpose-built facility for critical functions like our mobile wash unit and the emergency response unit, to replace outdated and at this point inappropriate locations in Greenpoint — and also to meet our fiduciary responsibility to create revenue for reinvestment in the transit system.
+
+We have a robust, ambitious capital plan that has funding gaps that need to be met, and one of the ways we have been charged with meeting that, in addition to efficiencies on our spending side, is through public-private partnerships like the one we have identified here. So that was the process by which this site was identified as being a potential opportunity. It took a robust public-private partnership with a group like Gotham in order to actually unlock it for us, and we are excited to continue to work both to meet the two goals of the MTA and also figure out how we can best meet other public goals in partnership with the Council and City. Thank you.
+
+**(01:09:46)**
+
+
+
+Second question... This question is both for the MTA and the applicant: what happens to the property if this application is not approved? Does the mobile wash unit stay...
+
+**(01:09:59)**
+
+
+
+...in place? Yes. Until there is an identified other location — and the only way we have come up with that is through this process — the mobile wash unit would remain in that building. We will eventually reach a point... the building is from the 1970s, it has some state of good repair needs. We would eventually reach the point where we need to make additional investments to make sure it continues to function.
+
+**(01:10:19)**
+
+
+
+But to answer further on that: it is not what Gotham does, it is not our objective. We are in the business of building inclusive mixed-income housing and appreciate the charge to try and do more. It is at the heart of what we do. The highest and best use without the zoning changes would be market rate housing on the site. Thank you. Please explain...
+
+**(01:10:36)**
+
+
+
+...the agreement you have between you and the Greenpoint Monitor Museum. How will you be supporting the development of the museum? Does the organization have the means to manage a museum of over 30,000 square feet, which will make for quite a large museum?
+
+**(01:10:55)**
+
+
+
+I can start, and Jean Travers representing the museum can answer in furtherance. We are actually revisiting the size of the museum to right-size it to make it about 18,000 to 22,000 square feet. That program would focus on inclusion of artifacts or certain replications of the Monitor, classrooms, program space and a way to really make it an inviting cultural hub.
+
+In terms of executing upon that, the business plan development rights purchased by the Gotham Organization affiliate from the museum would establish the proof of concept, meaning there would be the funds to do it. For example, when we built Covenant House's new facility on the West Side, we bought land from them and the dollars from the land was what enabled us to build their purpose-built facility. It is important that when we come in front of the public we propose things that we can actually effectuate, so that establishes the proof of concept.
+
+Moreover, by right-sizing the facility, it will enable and add endowment to the museum to have sufficient capital for operations. As one can imagine, both Gotham and the board members of the museum are not going to be the ticket collectors or vendors. Running the museum — we will run a process, just like with the design consultants, run an RFP, working with the museum and their representatives to find an entity or a group that can sufficiently run the museum and make sure that programming is reflective not only of the history of the Civil War and the Monitor, but moreover other functions and community events which the community could benefit from. That is part and parcel to the fact that two thirds of their land will be for public open space accessible by the community.
+
+**(01:12:30)**
+
+
+
+Thanks, Brian. Eugene Travers, Greenpoint Monitor Museum. I do not have too much to add to Brian's response. Obviously this is a significant undertaking for a small nonprofit. To get to the starting point we need to get through this approval. We have been working with a collaborative, world-renowned architect to right-size the museum, and our agreement with...
+
+**(01:12:54)**
+
+
+
+...Gotham will give us the funding necessary to construct the museum, construct the museum's share of the waterfront open space, and have an endowment to make sure the ongoing viability of the museum. Gotham is responsible for the maintenance and insurance of the waterfront open space in perpetuity, so there will not be a financial drag on the museum. So we are really excited about this. We think it is going to be a local and regional destination and really the crown jewel of the Brooklyn waterfront.
+
+**(01:13:20)**
+
+
+
+Thank you. The project as proposed would have 40% of the apartments as affordable housing. By developing one of the buildings as 100% affordable with HPD, what assurance do you have that this HPD-financed building will actually happen?
+
+**(01:13:46)**
+
+
+
+It starts with setting aside the land to do that. Gotham, working with HPD, has essentially navigated and pushed all the significant costs of the development — which includes the waterfront costs, building the replacement facility, the vast majority of the development rights being purchased from the museum, the demolition of the existing facility and the ongoing ground rent — so there is essentially, comparative to the overall project, a nominal amount of land costs that would be allocated to the east side. So it is very accretive to develop housing on that site.
+
+A variety of mechanisms, including a large-scale restrictive declaration or some other form of binding document, includes the fact that we have binding documents with the MTA. In terms of the reality of it happening: the first is the land and the cost of the land, because that establishes the amount of subsidy that an all-affordable building needs. This administration, just like past ones, has programmatically allocated dollars to the new construction program for deep affordability. HPD has issued us what they call a soft commitment letter, just like they did on Urban Village as well as the Broome Street development.
+
+So key one: having the land at a price that works within programmed term sheets. That establishes strings attached that we are obligated to do it, meaning we do not develop that site in the future as market rate. Three is having the administration on board. We think we have all three components.
+
+**(01:15:22)**
+
+
+
+I would say proof is also in concept. Proof strength development, which we did at 44% affordable, working with CM Brewer who was the Borough President at the time, as well as Margaret Chen — we closed the building in 2020 and in 2021 we closed on the all-affordable building. It is a case study in fact. Thank you.
+
+**(01:15:45)**
+
+
+
+We are going to now hear from Council Member... After that, CM Thomas-Henry. I mean, I have got a lot of questions. If she wants to go first, I am fine.
+
+**(01:15:54)**
+
+
+
+Do you want to go first, CM Thomas-Henry? Let me... for the next hour and a half. Oh wow, appreciate you. The first one is a clarifying question: is it 40% or 50% affordable? In the mixed-use building, in the aggregate it is 40% affordable inclusive of the existing zoning development rights. The increment — meaning the amount of up-zoning development rights — is 50%.
+
+**(01:16:18)**
+
+
+
+Okay.
+
+**(01:16:18)**
+
+
+
+What do you anticipate...
+
+**(01:16:21)**
+
+
+
+...for the commercial space? What kind of businesses, and what would those anticipated lease terms or rent amounts be? Would those be affordable for small businesses? We view retail and commercial spaces as amenities to our tenants — whether that is grocery, a place for personal care, whether that is daycare. Those are the kind of users we would be targeting, and that would include local purveyors. Okay.
+
+**(01:16:47)**
+
+
+
+And just to clarify, is the museum responsible for building its site and the museum with funds from Gotham, or how is that working? Are you building...
+
+**(01:16:56)**
+
+
+
+Gotham is building it as part of the overall development. The important distinction is that in order to get to the development site — to build the museum, the housing and the open space, the three primary components of Monitor Point — Gotham has to substantially and privately fund the construction of the mobile wash, material control storage and emergency response units.
+
+So if we were to obtain land, what we must do for the lease to be put in place for Monitor Point is turnkey deliver to the MTA, as part of our consideration, that new home. Once they move — and there are very specific timelines by which we must do that — if we do that, then they turn over the site and say go ahead, start paying rent and build housing.
+
+**(01:17:47)**
+
+
+
+Now, with that rent that you are paying to the MTA, does the MTA anticipate targeting support of operations for that local area and any type of community benefit?
+
+**(01:17:59)**
+
+
+
+So the money will go into our 2025 to 2029 capital plan of investments to rebuild, improve and expand our transit network. That being said, we are very open to conversations. There has been a lot of investment that has happened in this neighborhood and we are happy to continue to fortify the G train and all the other services that run through this area.
+
+**(01:18:19)**
+
+
+
+And my last question: for the east building at 100% affordable, what does that look like in terms...
+
+**(01:18:27)**
+
+
+
+...of rent? At the moment, the commitment on those homes, in alignment with the term sheet from HPD, allows for income averaging. But the vast majority — at least 80% of them — would be at 40 to 80% AMI. No more than 20%, as currently proposed today, would be between 81% and 100% AMI. The vast majority would be...
+
+**(01:18:51)**
+
+
+
+...at really lower income bands: 40, 50 and 60% of AMI. Okay.
+
+**(01:19:00)**
+
+
+
+Thank you. Okay, who wants to take their lumps first — the MTA or Gotham? I do not care, your call. It is up to you guys, whoever wants to go first. You want to go, Sean? You volunteered. Sure enough.
+
+So it took a little courage for you to show up on the day that you announced that you are making no adjustments to the G train shutdown — worth 40% of the weekends this year the G train will be shut down in our community. But I guess... it is what it is.
+
+So could you confirm for us the net payment that Gotham is making to the MTA over the next 25 years?
+
+**(01:19:37)**
+
+
+
+I do not have it over the next 25 years, but I am happy to follow up with you on that. In dollars, correct. What was the number you gave? $39 million — is that correct? Well, $39 million is the net present value over the next... hundred years? No, 25 years.
+
+**(01:19:52)**
+
+
+
+Okay, we will have to clarify that. But then somebody want to correct that on the record? I...
+
+**(01:19:56)**
+
+
+
+...have a... Council Member, I have a summary of the entire compensation for the 99-year lease. I can give you a copy to determine the compensation for the hundred-year lease, because the lease renewals after 25 years have not yet been determined. So how could you possibly have that number?
+
+**(01:20:11)**
+
+
+
+We can summarize for you as a follow-up. You could provide...
+
+**(01:20:14)**
+
+
+
+...a range, but you do not know the exact number because the leases have not been determined for the amount of years — 26 through 50, or 51 through 75, or 76 through 99.
+
+**(01:20:23)**
+
+
+
+It is collared, so every five years it is no less than 10%, and then this re...
+
+**(01:20:29)**
+
+
+
+...resets recently at a 10% increase to a 20% increase for each of the ensuing 25-year periods. But you do not know...
+
+**(01:20:34)**
+
+
+
+What that amount will be at this time. So for the next 25 years, which we do know the receiving is, we did not summarize that. We can follow up in writing. That is the amount that is determined. You can... if $39 million is the
+
+**(01:20:50)**
+
+
+
+amount... That is the equivalent of over 25 years, $39 million of operating expenses for about one half hour of one day out of those 25 years. That is just what we are talking about in terms of the money that is directly going to this project. OK, now that that is
+
+**(01:21:07)**
+
+
+
+clear, I would like to
+
+**(01:21:09)**
+
+
+
+respond that we are spending nearly $60 million up front to build a replacement. You mentioned the MTA capital plan. We just had the most recent capital plan approved last year. There was a
+
+**(01:21:30)**
+
+
+
+substantial increase in the capital plan. Is that right?
+
+**(01:21:33)**
+
+
+
+On sort of inflation-adjusted dollars it was 4% lower than the prior capital plan. It is a 25% increase overall but on inflation-adjusted... 25% increase, you are saying that inflation-adjusted... And if you compare that, that is right. Yes, in real dollars it was a 4% decrease.
+
+**(01:21:48)**
+
+
+
+The relocation of the bus facility — the estimated cost is almost $27 million. Is that right?
+
+**(01:21:53)**
+
+
+
+No, as I mentioned, including soft costs it is nearly $60 million. The capital costs in your documents that you submitted were $27 million. That is inaccurate. The facility is 140,000 square feet and in today's dollars, including soft cost and hard cost to build a 140,000 square foot facility, it is upwards of $60 million. OK, I mean, in the documents that have been submitted, the numbers are dramatically different than
+
+**(01:22:19)**
+
+
+
+that. So we welcome any updated documentation that you can provide that backs up that price. In the information that was submitted, the relocation of the bus facility was estimated to cost $27 million. Just to give context on that, that is 0.038% of the capital plan — so an almost infinitesimal number added to the broader $64 billion-plus MTA capital plan over these five years.
+
+**(01:22:44)**
+
+
+
+CM, I suspect that did not include the emergency response unit, which was your response unit at a different cost, which is... so that was that
+
+**(01:22:50)**
+
+
+
+was added. OK. So the emergency response unit was a commitment that was made to my community 20 years ago in the Greenpoint-Williamsburg rezoning, committed in 2005 in writing to relocate that facility. Still it sits. We are breaking ground this summer to finally build Box Street Park. We are only building on 85% of the park because the MTA has refused to relocate the unit from our promised park space.
+
+So if you are telling me that you are doing me some sort of favor, I am confused. 20 years ago this was promised to us. There is a letter sent to my community, sent to the elected officials in my community, 15 to 20 years ago, that they were relocating the emergency response unit facility, and we have seen no movement from the MTA, no cooperation from the MTA. The MTA has been a bad partner for my neighborhood and my community in failing to follow through on the promises you made to us in the Greenpoint-Williamsburg rezoning. So if you are going to tell me that you are doing me some sort of favor, you are
+
+**(01:23:41)**
+
+
+
+confused. CM, I respect your sense of the... you obviously know the history better than anyone. I think there is a lot of things that went wrong over the course of that period of time and the attempts at partnership with the City and with other actors of responsibility. From our perspective we identified this as a way to meet that responsibility, to meet that commitment, and that is why we were excited to find a way to finally fulfill it. So I hear your frustration that it has taken us this long. This is our opportunity to do that.
+
+**(01:24:13)**
+
+
+
+There have been many many opportunities over many years to fulfill that obligation. To tell us that we need to build predominantly housing on privately... on publicly owned land to fulfill commitments made about our community — they would have moved, they would have said we are going to cooperate, we are going to work together, we are going to see this park move forward. We recognize that there have been 30,000 additional units of housing built in our community and essentially none of the new park spaces have opened since this rezoning 20 years ago.
+
+And the MTA has said we do not care. That has been your loud and clear message to everybody in Williamsburg and Greenpoint: we do not care. So with that... we know the MTA's goal is to use its real estate to raise revenue for the citywide capital plan. How does the MTA balance that goal with making sure that a project on this land actually benefits the local community?
+
+**(01:25:02)**
+
+
+
+Yes, so we work very closely to try to make sure that we are achieving both the public goals. So the way that we typically do that is through public-private partnerships. We like to see — especially in a city with a housing crisis like New York City faces — we like to see opportunities to build housing on land that could be better utilized than existing uses. In this case, as Brian outlined earlier, our agreement with Gotham to enable the construction of — in addition to the value being created by the Mandatory Inclusionary Housing building — to enable the construction with support from HPD and with partnership, a 100% affordable building. This is somewhat similar — in fact
+
+in many ways it has a great analogy — with a similar agreement that we reached with Council Members Hudson and Ossé as part of the Atlantic Avenue rezoning, where we had a site that was not the right location anymore, had some structural issues, a sort of similar situation. We were able to work with the City and with the Council Members to enable the construction of a 100% affordable building on one portion of the site and enable the MTA to meet our fiduciary responsibilities through a market-rate building on the other portion. So that is a model that we have turned to in the past where, obviously, every site is different. We are very happy to work with you to figure out how to maximize the benefits on both sides of the ledger as much as we possibly can. But that has been our MO both in the City and across the region where we have done transit-oriented development projects on Long Island and Westchester. When the MTA put this RFP out back
+
+**(01:26:42)**
+
+
+
+in 2019, is that right? Yes.
+
+**(01:26:45)**
+
+
+
+Um...
+
+**(01:26:46)**
+
+
+
+The plan was less than even...
+
+**(01:26:48)**
+
+
+
+The way that we structured the RFP — so there is existing pre-MIH housing zoning in place, the R6 zone designation that is there today — we sort of asked for responses both in terms of what somebody could do if they were to build an as-of-right project. That was to set a baseline, as well as we encouraged and got responses, and other applicants came in with proposals that would have rezoned the site. In fact Gotham's proposal, including MIH, was ultimately the one that we chose. So yes, it was something that we solicited responses on. That being said, we always anticipated that there would be a better and higher use to go through a rezoning process and have applied
+
+**(01:27:40)**
+
+
+
+through a rezoning. But the proposal that you put out — the request for proposals that you put out — was focused on maximizing revenue for the MTA.
+
+**(01:27:51)**
+
+
+
+That... that is... I mean, that is the... we always... and I think there was language in the RFP related to other needs and other balances, as well as the revenue for our capital program. Remember, can I...
+
+**(01:28:04)**
+
+
+
+So specifically, the MTA does have a requirement to maximize revenue when disposing of land to a private property owner. Right? Yes. But there is an expressed exception in state law, specifically Section 2897 of the New York Public Authorities Act, that provides an exemption if that land is being provided to the City of New York — whether HPD or the Parks Department. Disposal of property for less than fair market value is permitted when no asset is owned, leased or otherwise in the control of the public authority to be sold, leased or alienated for less than fair market value, except if the transfer is to a government or other public entity and the terms and conditions of the transfer require that the ownership and use of that asset would remain with the government or any other public entity, and the purpose of that transfer is within the purpose, mission or governing statute of the public authority.
+
+So I guess my question is: the City is a public entity. You could have worked with our community to transfer some of this property to the City or the Parks Department, to work with us on a plan that actually met the needs of our
+
+**(01:29:13)**
+
+
+
+community. That would have been beneficial to Greenpoint and Williamsburg, which as I stated earlier in my comments, Council...
+
+**(01:29:20)**
+
+
+
+I am going to let you finish this question. I just want to give you a heads up because we gave 10 minutes for you to ask questions. After this, about 10 minutes, right?
+
+**(01:29:27)**
+
+
+
+After you ask this question we could give you an extra five minutes. Because we have 90 people signed up to testify, I just wanted to give you a heads up. What are we doing? OK, all right. Nobody informed me of any time restrictions, so I guess that is a new policy. However you all want to handle it, it is your hearing. So the MTA... but it is not helpful to be told about it at this stage in the process. So why did the MTA not work with our community on a plan that would actually benefit our community and meet our
+
+**(01:29:59)**
+
+
+
+priorities? I sort of... I hear you on the legal point. There are instances in which the MTA is legally permitted... I think we have a desire and a policy set by our board to try to meet both fiscal
+
+needs and other public needs at the same time. So from our perspective, when we put this RFP out and especially in the negotiations and changes that have happened to the proposal over the intervening years, we think we have put ourselves in a position — again, understanding there is more conversation to be had between now and the end of this process — we think we have put ourselves in a position to be delivering both on the MTA fiscal needs and on other public needs. OK. Since it seems like we have got some time restrictions,
+
+**(01:30:50)**
+
+
+
+what is the distance between your property and Bushwick Inlet Park?
+
+**(01:30:53)**
+
+
+
+Between where the building will be constructed and the park.
+
+**(01:30:56)**
+
+
+
+I think the setback is up to a hundred feet. There is a hundred feet between where your building will be located and the park. That is totally inaccurate. Could you please correct that on the record?
+
+**(01:31:05)**
+
+
+
+From the towers to the Bushwick Inlet Park shore, I believe it is approximately... from the border of the beginning of where the park begins and your building, what is the difference? What is the
+
+**(01:31:14)**
+
+
+
+distance? In some places it is set on the property line and in other places it is set back. OK, so as
+
+**(01:31:19)**
+
+
+
+much as zero. This is just the podium. The setback will be as much as 15 to 20 feet. Go ahead. As much as...
+
+**(01:31:30)**
+
+
+
+There are various amounts of setbacks from the property line to the south side of the towers. It varies and it averages approximately 30 feet. We can get you the exact dimensions in
+
+**(01:31:46)**
+
+
+
+writing. OK, so between zero and as much as, in a couple of spots, 30 feet? No, no, no. We will get you the plan.
+
+**(01:31:52)**
+
+
+
+OK. My review of the plan was that it is about 20 feet — 10 feet separation and then 10 to 15 feet setback — about the distance from me to the wall of this building, between the park and where your building is located. Approximately accurate? Approximately accurate. But just for the base of the building. The building sets back from the base of the building. That is what we are talking about.
+
+**(01:32:12)**
+
+
+
+You proposed... so I just want everyone to understand on the record that the distance between the parkland and the building is the distance between me and the wall in this room, just to give a sense of proximity. You informed me of your plans to move forward on the ULURP process. Once certified, there are limited changes that can be imposed by the City Planning Commission or the City Council. I encouraged you to wait until the Mamdani administration took office so that we could all meet together, work together, try to find a path forward, see if there were any opportunities for this to be a more sensible proposal. You rejected that. Could you explain why you rejected that on the record?
+
+Yes, CM. We have been at this for six years now. Obviously we have received a lot of feedback from you as well. We have deadlines in our agreements with the MTA. We have made substantial investments to undertake this. We have done over 150 community meetings and although I know there is resistance from some community members, I would like to highlight that the form and the scope and the substance of these buildings was majority-approved by the community board, 24 to 9.
+
+We have also expressed a firm commitment to work with you continually on the affordable housing. We are not abstinent from trying to accomplish that. But we have a housing crisis, we have made an investment, we have collaborated, we have heard the community and we have made changes, and we think stopping the project in its tracks would be a negative. But we want to work with you.
+
+**(01:33:39)**
+
+
+
+Together. To be clear, what I suggested was that you wait two weeks to talk to the new Mayor who was about to take office, so that we could see if there was an alternative proposal that might work for all of the parties involved, and you said no. So are you concerned that with the short distance between the base of the tower and the parkland, the parkland will be a front yard or an exclusive space for the people in your buildings?
+
+**(01:34:02)**
+
+
+
+Not at all. We think the nearly hundred-foot-wide park portal, which connects to West Street and the public esplanade that is created through the museum, is an invitation and connectivity for the community, and we have received quite a lot of positive feedback on the public esplanade. You indicated... are you committed to supporting the 40-foot esplanade that is required as part of the Greenpoint waterfront
+
+**(01:34:31)**
+
+
+
+rezoning? Yeah, well, within more detailed discussions that we know we have to have with you, we very much are. So you are no longer seeking any waiver or reduction — the waiver to 30 feet?
+
+**(01:34:40)**
+
+
+
+There is... the MTA is receptive to adhering to... we heard the community's feedback on it. That was an important item. We heard the community board's goals of having public bathrooms and including that in the plan. Like I said, we take every condition from every entity very seriously and aim to try to achieve as many of them as possible. What are you expecting the market rate rents will go for in the private units, the market rate units?
+
+**(01:35:10)**
+
+
+
+Now, as I mentioned in my testimony, the market units cross-subsidize and pay for a lot of things. Sorry, just a direct answer to the question please.
+
+**(01:35:17)**
+
+
+
+And so market rents... I am just trying to pull up some data here. You are looking at studios that would be just short of $4,000, one bedrooms between $5,000 and $6,000, two bedrooms could go up to $7,500 to $7,800, three bedrooms north of... three bedrooms would be — again these are averages, there are lower prices in the lower part of the building and higher prices — could be $8,500 to $9,500. OK, just want to make sure that that is understood on the record. The community board recommended a majority affordable housing development. The Borough President recommended a majority affordable housing development. I have been clear that a clear majority affordable housing development is essential for my being open to this. Are you actively evaluating ways to add more affordable housing and what
+
+**(01:36:16)**
+
+
+
+options are you evaluating? We are looking at and trying to identify ways to either find lower-cost capital, credits, bonds, maybe using some floor area from a reduced size of the museum. CM, you have got our commitment to spend the next three to four weeks to try and tick that number upward. But to be clear, from our perspective, developers are executing upon a business plan. Banks, ultimately endowment investors, institutional pension funds that invest the equity, tax credit investors — with the support of the City, if we can move the needle we will move the needle. And I mentioned the projects earlier we have done — not to say we are greater than thou, but more to show you the flexibility of what we have accomplished in the
+
+**(01:37:04)**
+
+
+
+past. We are proud to try and work with you. My understanding is that you have made some sort of commitment to operating expenses for Bushwick Inlet Park. Can you articulate what that commitment is and for what period of time?
+
+**(01:37:16)**
+
+
+
+Yes, it is $300,000 starting upon the completion of our first... it is memorialized and enforceable and would be in the agreement called the restrictive declaration, and it would grow with inflation. For how long?
+
+**(01:37:29)**
+
+
+
+For the entire term of the ground lease, which is nearly a hundred
+
+**(01:37:34)**
+
+
+
+years. The Greenpoint Monitor Museum's deed says they cannot sell this land or transfer it to a for-profit entity. Can you explain whether purchasing the air rights for this property violates that deed? Yeah, thank
+
+**(01:37:44)**
+
+
+
+you, CM. So the deed restriction was imposed on the museum's land when Motiva donated it to the museum. It does limit the use of the land itself for the establishment of a museum to honor the memory of the Civil War battleship Monitor. The deed restriction, again, is specific to the land. It does not attach to the development rights. This has been reviewed. It has been done before. We can follow up
+
+**(01:38:10)**
+
+
+
+specifically, providing in writing examples of that. Absolutely. To be able to do that by next week.
+
+**(01:38:17)**
+
+
+
+Absolutely.
+
+**(01:38:17)**
+
+
+
+CM, on open space: your proposal includes 51,500 square feet of open space, 44,500 of which is publicly accessible. You are required to include 41,000 square feet by law. Is that correct? I think the number works out to about
+
+**(01:38:32)**
+
+
+
+approximately 33,000, so increasing the number provided by about 17,000.
+
+**(01:38:39)**
+
+
+
+The requirement by law is 33,000. 17,000 is what you are adding. Is that your analysis? And that 33,000 is with the 40-foot esplanade?
+
+**(01:38:47)**
+
+
+
+That is excluding the 40-foot esplanade. The additional 40-foot esplanade would add another thousand on top of the 51,000 square feet. OK, and of the thousand that you are adding, 7,000 is private and 10,000 is publicly...
+
+**(01:39:01)**
+
+
+
+accessible. I would not necessarily characterize it as private, given that it is accessory to the museum and also landscape spaces accessory to the public access areas and the waterfront. According to what we saw, the proposed development would provide 51,000 square feet of open space, 44,000 square feet of which would be publicly accessible, including 34,200 square feet of required waterfront public access area space and 10,300 square feet of public access area. So the remaining 7,000 square feet of open space would be for museum visitors as well as landscaping and planting. So I just want to make sure that I understand — is what I just read correct? That is correct.
+
+**(01:39:40)**
+
+
+
+There is no separation between the waterfront public access area spaces and non-waterfront public access area spaces. The waterfront public access areas are dictated by the Zoning Resolution, so those are the areas identified within the land use drawings. The additional spaces are adjacent to and not separated from the other open space. So this area is in a level of risk for flooding, potentially as high as 12 feet. Do you think it is sensible to build 600-foot towers for thousands of residents in such a severe floodplain?
+
+**(01:40:12)**
+
+
+
+I think the infrastructure proposed contemplates that flood zone and considers it to ensure the protection of the residents. All of the residential lobbies and all infrastructure will be raised above the 2080 floodplain, so that is either at a higher lobby elevation or a mezzanine above that. There will be no critical infrastructure in the basements of any of the buildings, protecting the residents throughout the two buildings.
+
+**(01:40:36)**
+
+
+
+Will the affordable housing buildings have the same flood protections as the mixed-income buildings? Absolutely.
+
+**(01:40:41)**
+
+
+
+Like the CM gave an example, Gotham Point is also in a very similar floodplain, designed with the same constraints, so it is a good example. So all of the same design features that will protect the mixed-income buildings will be in place for the affordable building.
+
+**(01:40:57)**
+
+
+
+Absolutely. What new water flow patterns will your development cause? I know there is concern that these towers will lead to significant amounts of flooding inland. Is there something you have analyzed?
+
+**(01:41:07)**
+
+
+
+We have worked with the City to develop a waterfront revitalization plan.
+
+**(01:41:14)**
+
+
+
+I would add to Simeon's point: today the warehouse is 80,000 square feet of impervious full lot coverage. We will be reducing lot coverage, increasing stormwater management, increasing above design flood elevation and creating bulkheads and riprap for the museum site. So it should reduce, not exacerbate. And then lastly...
+
+**(01:41:37)**
+
+
+
+This is for everyone. Can you speak on the record to the conversations that you have had with the administration about the future of Bushwick Inlet Park and the...
+
+**(01:41:48)**
+
+
+
+CM, I think our objective is to try and solve a housing crisis. With that said, we have been proponents — we would be developing and building next to the park. We are friends to the park. We are going to support the park and yes, we have advocated for the park. But our objective on a housing site is trying to solve the housing issue at hand. With that said, we are advocates for the park. It is sensible, it is needed and it is long awaited.
+
+**(01:42:19)**
+
+
+
+Understood. That was not exactly my question though. My question was: what conversations have you had to date with the administration on the park and what updates can you share on the record?
+
+**(01:42:27)**
+
+
+
+My understanding from conversations with City and State government is that there is continued testing being done on the site. I am not aware that construction is imminently planned. I would say the City spent north of $300 million to acquire those properties, so I think it is critical that it move forward. I do not have much to add beyond that.
+
+**(01:42:49)**
+
+
+
+As a State entity, we have had, I think, positive conversations expressing the ability for the City to continue to make the investment that it needs to make. We have also tried to play a coordinating role on some of those things with the testing and the process, but I do not have anything beyond that that I can add today.
+
+**(01:43:07)**
+
+
+
+Well, do you mind if I...
+
+**(01:43:09)**
+
+
+
+I would add one point, because I acknowledge what you talk about with public land and we have developed a lot of HPD sites at dollar land. The critical difference here from Monitor Point — set aside opinions on what should be done with the money — is when we developed Gotham Point, when we developed the Ashland, when we developed Gotham West, the land was given for a dollar as a clean, flat and ready site. At Gotham Point all the waterfront work was done. In this case we are dealt with a hindrance. We have to move three facilities off the site. Nobody is paying for that — we are. We are substantially paying for it. We have to buy the museum development rights. Well, they own the land and they have a decision on what to do with it, so we have to convince them to make a deal. We have to demolish the warehouse. We cannot get a single housing unit until every piece of the waterfront is done under the restrictive declaration.
+
+So I just want to say that there is a difference between land that is subsidized at a dollar versus — even if we did not pay a dollar of ground rent — we have got a $130 million ticket just to get to the site. I just ask that that be acknowledged as a differential point, although we fight for affordability. That is the main...
+
+**(01:44:26)**
+
+
+
+difference. To be clear, if there were not costs associated with it, this would be a 100% affordable housing development, or we would not even be having a conversation. Recognizing there are some costs here, we are trying to figure out a path toward a healthy majority affordable housing that actually meets the needs of our community. The developer has, as far as I can tell, made no concessions and is just looking to generate as much revenue for themselves as possible in this process. So we hope that that will change in the weeks to come. We hope the administration will step up in...
+
+**(01:44:53)**
+
+
+
+the weeks to come and we hope that you will figure out some creative and flexible strategies in the weeks to come that make this a less terrible project. But as of today I remain uncomfortable and opposed to what has been proposed. I do not think this makes sense and we are going to have to see significant improvement for my position to change.
+
+**(01:45:10)**
+
+
+
+Thank you all for your testimony.
+
+**(01:45:12)**
+
+
+
+And CM, I just want to share with you — I did not try to silence you because I understand your frustration and I understand the complexities with this project. That is why we gave you extra time. We appreciate it. Given that we have 90 people signed up to testify from your district, we wanted to make sure that everybody had time because we want to make sure that the public gets their say, especially the young people who are online waiting. So thank you for your questions. We have a question from CM number one.
+
+**(01:45:38)**
+
+
+
+I just want to first acknowledge all of the hard work and the advocacy of CM Restler. Thank you so much. And also, thank you — a little bit more on resiliency. We hear a lot of frustration on the environmental impacts of this and the concerns about Bushwick Inlet Park as is, as well as the long-promised waterfront park access and also the fears that people have for all of the wildlife and ecology that currently exists in that park.
+
+So right now we are spending billions of dollars on coastal resiliency in Lower Manhattan and Battery Park, especially in South Street and Brookfield Place, while in this ULURP process we are not really seeing that. I would like to know — because I do not currently see it in your presentation — what is the investment that we are going to see from the government as well as from you in the private sector on waterfront resiliency? Because this is indeed a floodplain. Why build only flood walls in Lower Manhattan and then build towers just across the river, 50 feet from the East River shoreline, where rising floodwaters will not have anywhere else to go? We have seen so much flooding all across the waterfront.
+
+So right now I see an easement zone about 15 feet offset from the outside of the utilities, no trees within the easement, and I want to see more. I am looking through your presentation but I am not seeing anything substantial on waterfront resiliency. So can you help me understand a little bit more — in addition to just setbacks and separations — how you are going to guarantee resiliency infrastructure, what that looks like for you, what the dollar amount for resiliency funding is, and also what steps you are going to take to protect the wildlife and the nature that lives in Inlet Park and Bushwick Inlet Park as well as the Bushwick waterfront overall?
+
+**(01:47:34)**
+
+
+
+CM, thank you for the questions. I can fully understand your appreciation for these issues, given the Hunters Point South waterfront. To start with, we are not receiving any money from City and State government for our resiliency work, which is one of the points that I shared. In order to turn a potential development site into housing, open space and the other myriad of uses including the museum, we need to spend north of $20 million to restore a decaying shoreline that the museum owns, as well as to come up to the edge of Inlet Park. So that is $20 million plus which we have to invest and fulfill in order to do it.
+
+We have been working with DEP over the years and through iterations to make sure that our heights, sea walls, plantings and other items are workable within those objectives. At the same time, for example, the pier that goes out has a CSL in it, so the reason you do not see a lot of trees in that area is because there is a CSL within that easement area. But there is a very strong hard barrier from inundation. Simeon, do you want to add any more points? But it is a process we are taking seriously and working with all the agencies that oversee it, including the Army Corps as well.
+
+**(01:48:58)**
+
+
+
+Right. I would just add, beyond the coordination with all the agencies to determine the best solution, that this is a missing link in the shoreline public...
+
+**(01:49:06)**
+
+
+
+walkway from North Greenpoint all the way down to the Williamsburg Bridge. So we are making connections to the adjacent sites in order to ensure that visitors can travel along the waterfront from north to south. We are working within those confines to deliver the bulkhead and the other resilience infrastructure, in addition to on-site stormwater retention and so on, in order to ensure long-term longevity of the site and the buildings. Moreover, the MTA parcel, which looks beautiful and is just finished, comes up and connects to where the gate is. When the gate comes down, the elevations meet to complement one another.
+
+**(01:49:43)**
+
+
+
+I still did not get an answer for what steps you are going to take for the nature and the ecology and all of the wildlife that currently lives on that waterfront.
+
+**(01:49:53)**
+
+
+
+Yeah, to reiterate — I think Brian just touched upon it — currently on site there is on-site erosion, the soils need to be remediated. We have submitted for the site, both the east and the west building, into the Brownfield Cleanup Program and both have been accepted. So we will be remediating the soils, removing invasive species that do not support the local habitat and planting native plantings, landscaped areas and others that support the habitat, in addition to aligning with what is being planted at Bushwick Inlet Park. So we believe that post-construction — and this is included in the FEIS — the habitat will be restored and it will support the local fauna. Moreover, including trying to collaborate with entities, if they were interested, like the Billion Oyster Project, post-completion of the waterfront, for that kind of habitat use and to be encouraging of that kind of use.
+
+**(01:50:46)**
+
+
+
+I believe that one of the...
+
+**(01:50:49)**
+
+
+
+points of concern is also for the wild birds that migrate towards that area, and there is a big concern about those birds being displaced and not having a place to land while they are migrating. In addition to that, for the funding of $20 million, can you break down exactly what that cost will be allocated for and why it is that you have not received any government funding to build out the waterfront...
+
+**(01:51:14)**
+
+
+
+resiliency? We could seek it, but in terms of a public-private partnership, the dollars we sought have been to build incrementally more affordable housing. In terms of site preparation, it is a cost that we have undertaken as part of our return over cost. In terms of how much — ballpark — the park portal is about $5 to $7 million in range and the waterfront portion is about $12 to $14 million. There are significant costs in terms of creating the bulkhead. The sites need environmental repair, much like any other Greenpoint-Williamsburg site. It is not only the warehouse to come down — it is going to be removing soils that have contaminants in them.
+
+**(01:52:00)**
+
+
+
+So can you just guarantee me that they are not going to be losing — are they going to be gaining any acres of open waterfront space...
+
+**(01:52:08)**
+
+
+
+compared to what is currently available now, even if it is fenced off? That is correct. Right now the site is 100% lot coverage on the entire site. The park portal, which goes from the west and creates a public connection to Bushwick Inlet Park, is part of our plan. So that is new open space.
+
+**(01:52:28)**
+
+
+
+Then the rest of the museum's land, short of its footprint, is going to become publicly accessible except for some events from time to time that the museum has on its land. It is not publicly accessible now. This project unlocks that property for the greater community. We felt strongly that one of the benefits of this plan, aside from enhanced...
+
+**(01:52:47)**
+
+
+
+affordability, was the public and equitable access for the larger community to come to this area.
+
+**(01:52:52)**
+
+
+
+I do not feel reassured that this is enough investment for resiliency, especially when I compare it to the Lower Manhattan waterfront and how much resiliency infrastructure funding was put in to build up that waterfront and the amount of green space that we gained. To make sure that there was a certain number of feet between the buildings and the waterfront, to make sure that we were not within the flood risk. So I still have a lot of concerns, but...
+
+**(01:53:14)**
+
+
+
+I believe my time is up. I am happy to follow up in writing with more details and information to try and create a resolution, CM.
+
+**(01:53:24)**
+
+
+
+Is that the last call for questions from Council Members? The panel is now excused. Thank you for your time. Thank you. Are there then members of the public who wish to testify remotely or in person regarding this proposal? Yes, Chair. So we have a lot of people signed up. In fact, as you said, we have 60 people in person and then we have another about 30 people online. For the online people, we are going to first hear the in-person testimony, so 60 times two is about 120 minutes — it will be a good hour and a half, I would say, before we get to the online, but we will try to keep you updated.
+
+Thank you. For members of the public here to testify, please note that witnesses will generally be called in panels of four. If you are a member of the public signed up to testify, please stand by when you hear your name being called and be prepared to speak when I indicate that you may begin. Please also note that once all panelists in your group have completed their testimony, if testifying remotely you will be removed from the meeting as a group and the next group of speakers will be introduced. Once removed, participants may continue to view the live stream broadcast of this hearing on the Council website. Members of the public will be given two minutes to speak. Please do not begin until the Sergeant at Arms has started the clock.
+
+The following individuals who are signed up to testify are some of our youngest New Yorkers from CM Restler's district and we are happy to have two young people with us. We have Coco and Isumi. Come on down. All right, we are going to start with Coco and then go with Isumi. If you could press the little button on the microphone there. We have a speech.
+
+**(01:55:23)**
+
+
+
+Together? Yes. Sergeant, if you could get the microphone to go on the other side of her, please.
+
+**(01:55:39)**
+
+
+
+Good morning. My name is Coco Boon Parm and my name is Isumi...
+
+**(01:55:44)**
+
+
+
+Ratcliffe. We are fifth graders. Bushwick Inlet Park should not be replaced by luxury condos no one can afford. Bushwick Inlet Park is vital to the New York City harbor. Replacing it with high-rises can affect the ecosystem in negative ways.
+
+**(01:56:09)**
+
+
+
+This will affect human life.
+
+**(01:56:12)**
+
+
+
+We were born and raised in Brooklyn, New York. Bushwick Inlet Park is extremely important to us. Every time we go to the park we cherish its natural wildlife. This park has created amazing memories for people. It makes life more joyful. Also, we have more than enough buildings that would withstand a very long time.
+
+**(01:56:35)**
+
+
+
+I cannot imagine life without Bushwick Inlet Park. Vote against Monitor Point.
+
+**(01:56:43)**
+
+
+
+Do not replace public space. Thank you for your time and...
+
+**(01:56:48)**
+
+
+
+consideration. Thank you. We appreciate you both making time. CM Restler, do you have...
+
+**(01:56:56)**
+
+
+
+I just want to thank you both for coming and for sharing your insightful testimony. I am a big fan of the PS 34 debate team. You guys do an amazing job and I really appreciate you showing off those skills today at this hearing. It is really appreciated. Thank you for making the effort. Thank you.
+
+**(01:57:11)**
+
+
+
+Do any members of the Committee have questions for this panel? OK. Now I am sorry it took so long to get to you guys. All right, now we are going to have Steven and Jerry. Steven, Jerry Mirage, if you could...
+
+**(01:57:44)**
+
+
+
+State your name for the record.
+
+Steven Chesler: Hello, Chair Lewis, Council members. I am a 24-year resident of Greenpoint who lives 10 minutes from Bushwick Inlet Park and the 40 Quay site. I am Vice President of Friends of Bushwick Inlet Park and a member of the Community Board, a member of its Land Use committee.
+
+First, let us just say, just for the point of accuracy, please refer to the Community Board report. I am not testifying on behalf of them but as a witness. The Land Use Committee voted unanimously no, with 75% affordable housing, and then the full board opted to vote yes but also with a strong condition of a healthy majority of affordable housing.
+
+I urge CM Restler and his committee to recommend no without conditions for this rezoning application. There are viable and superior alternatives to constructing the tallest residential buildings in Greenpoint abutting Bushwick Inlet Park, that would overwhelm the park and the neighborhood and its infrastructure. At the very least there could be no action. A low-rise brick building framing the park would be very much a part of the historic architectural landscape of Greenpoint. Also, building as of right at 40 Quay would be more reasonable, with adherence to the original thought of the lower-density zoning designated for the site in 2005.
+
+But the best alternative would be for the City to dispose of the 40 Quay property to a state or city agency for the purpose of transforming the site into resilient public space that would expand Bushwick Inlet Park, per the Community Board's recommended condition in their response to the 2005 waterfront rezoning, rebalancing open space and infrastructure to meet the incredible influx of new local residents while also mitigating future storm surges in a more meaningful way. State law allows for this type of transfer.
+
+The good news along with this is the incredible amount of mixed-income housing this community has created for the last 15 years, the most in New York City, with thousands of mixed-income units in the pipeline on nearby West Street alone. With no action, this rezoning is unnecessary. Public land for public use is just the alternative to the plan for an impressive private for-profit development on public land. Thank you.
+
+**(01:59:57)**
+
+
+
+We appreciate it. Jerry, you could press the button in the middle of the microphone and then begin.
+
+**(02:00:06)**
+
+
+
+I will keep it short. I just think this project should be majority affordable or else it stinks as proposed. It is an eyesore and there are already way too many rich people in the neighborhood. Make it 100% affordable or bust. That is all I have got to say. Thanks.
+
+**(02:00:38)**
+
+
+
+Thank you, Jerry. This panel is now excused. Thank you for making time to be here.
+
+Now we will call Maya Morales, Theo Perez, Teddy Hanks and Justin Lashley Maloney. I will repeat the names, so the panel we are looking for now is Maya, Theo, Teddy and Justin. They are probably in the other room.
+
+After this panel will be Victoria Alexander, Sara... Deborah Funkhouser and Marisa Bock. You can have a seat, turn on your microphone and you begin.
+
+**(02:01:37)**
+
+
+
+Good afternoon, Council members. My name is Maya Morales, Chairwoman of Southside United Housing Organization, founded and created by the Puerto Rican and Black community in Williamsburg. As someone who leads an organization that not only organizes tenants but also develops and manages real affordable housing in our community, I know what it takes to make affordability a reality.
+
+I am writing — well, it is in a letter — I am writing to express my support for Monitor Point and to challenge all of us to step up. At the start of this process, some opponents used offensive language, even with racial undertones. For some, this was never about affordability or housing. Many openly stated they did not care whether affordable housing was built or whether this site remains stalled for years. Their focus was solely on securing funding for Bushwick Inlet Park.
+
+**(02:02:45)**
+
+
+
+Let me be clear: I support Bushwick Inlet Park. Our community deserves quality parks and fully funded completion of the park.
+
+However, affordable housing should not be sacrificed in the process. The funding of Bushwick Inlet Park is the responsibility of the City and should be addressed separately from this project. For transparency, many of the same voices now raising affordability concerns were not advocating for deeper affordability at the beginning of this process. Meanwhile, organizations like St. Nick's and Los Sures and community members have been fighting from the beginning to secure as much permanent affordability as possible.
+
+For North Brooklyn families, this project is an opportunity for meaningful affordability on City land that belongs to the people. If the project fails, we risk proceeding with something far worse: luxury condos with no affordability, leaving our community behind. You have a copy and you can read the rest. Thank you so much.
+
+**(02:03:51)**
+
+
+
+Thank you. Now Theo, hello again.
+
+**(02:03:56)**
+
+
+
+Chair Louis, CM Restler and to the rest of the Council members here today: my name is Theo Perez. I am here today representing SEIU Local 32BJ along with some of my union brothers and sisters you will be hearing from shortly. We are the largest union of property service workers in the country. We represent over 180,000 members across 13 states, including tens of thousands of commercial workers, security officers and residential building staff here in New York City.
+
+At 32BJ our two main priorities are good jobs and good housing, and we support developers who invest in communities and commit to making that happen. I am happy to report that the developers of this proposed project, Gotham Organization, have made a credible commitment to creating good jobs for the workers who will permanently staff these buildings. These good jobs mean prevailing wages, meaningful benefits and a pathway to the middle class for community members.
+
+Beyond this, we believe this development would align with the Borough President's comprehensive plan for housing in Brooklyn. The plan identified the neighborhood as a priority area for new capacity and this is the perfect place for a heavily affordable development like the proposed project, which will bring 460 affordable units to the neighborhood. So as the cost of living rises and working New Yorkers struggle to stay in their homes, it is more important now than ever to create both affordable housing and good jobs which uphold the industry standard in the City.
+
+For those reasons, 32BJ is in strong support of Monitor Point. Thank you for your time.
+
+**(02:05:22)**
+
+
+
+Thank you. Justin, hello.
+
+**(02:05:27)**
+
+
+
+Council members, my name is Justin Lashley Maloney of the International Union. I consider myself very fortunate. While many of my friends and the people I grew up with have been priced out of Brooklyn, I have a good union job, benefits and an affordable apartment that have allowed me to raise my kids here.
+
+But my kids are getting older and my oldest is 17 and getting ready for college, and once he graduates I am worried about how he will be able to afford to stay. Behind this affordability crisis are young people, seniors and our families, who all need places they can afford to live. Because it will create close to 500 affordable homes for families like mine to stay in Brooklyn, and because it will create good jobs like the one I have that allowed me to raise my family here in New York City, I hope the Council will vote to approve this project. Thank you.
+
+**(02:06:32)**
+
+
+
+We are going to hear from Teddy next. At ease — the Council member has a question for you, Teddy. Hello, Council...
+
+**(02:06:40)**
+
+
+
+Members, my name is Teddy Francis. I am a concierge at Downtown Brooklyn DUMBO Heights. I am a Brooklyn native and a proud 32BJ member for the last 16 years. For me, my union job has given me the resources to support my three kids and I am grateful for that, in addition to supporting a mother and grandparents and aunts and uncles, because it is a community.
+
+But what a lot of people do not realize is that my union has not just helped me financially, but through classes and programs it has given me the resources to educate myself and learn more about the world around me, including political processes like this, which actually gave me more engagement in our political life through my union and its programming. Every worker deserves the opportunity to take care of their family and to improve themselves.
+
+Unfortunately, good jobs like mine are hard to find. So when we have the opportunity to create good jobs with strong wages, meaningful benefits, opportunities to learn and a pathway to the middle class, we need to take them. This project would bring new jobs to Brooklyn so more workers can benefit from the types of experiences I have had. That is why me, my union brothers and sisters and our president Kevin support Monitor Point. Thank you very much.
+
+**(02:08:15)**
+
+
+
+Thank you. CM Restler, thank you so much. And thank you all for your testimony today. Miss Morales, since we did not get a chance to hear it fully, I just wanted to get on the record: do you support increasing the amount of affordable housing in this project?
+
+Absolutely. We would — would you press that?
+
+**(02:08:35)**
+
+
+
+Absolutely, we do support that. But we must realize that even at 40% right now sets a precedent. Of course we want more — that is what we do at Los Sures. But we also understand that money just does not come out of anywhere, and so I am asking you, if you read in the letter, our government needs to step up to make this happen.
+
+You know, let us see how far we can go. If we can get to 50, if we can get over 50, by all means. But if you expect us — and you know me, Lincoln, I am not a fan of developers, okay — but I do know what is right, and so let us make this happen. That is what I am asking. And at the same time, the City should fund the park.
+
+**(02:09:17)**
+
+
+
+Thank you. I really appreciate that. And I think my recollection is that the other public site that was developed along the waterfront was the one at 440 Kent, just south of the bridge, and that was probably 20% affordable housing on that public land.
+
+And 20 years later, I think we should be doing better. I think we should have higher standards. We have seen what has happened in the Greenpoint rezoning where we did not have that in place. We had voluntary inclusionary housing, 0-plus percent affordable housing, and it ended up being about 16% of the units are affordable. It has been totally inadequate and we need to organize together to demand what was promised to us.
+
+But I think Two Trees... we still have not seen the Schafer Landing site, which I think they are actually — their affordability deal is expiring soon, which we need to worry about.
+
+**(02:10:07)**
+
+
+
+And does 32BJ have a position on public land pushing for more affordable housing, or no position on affordable housing?
+
+Yeah, I mean, I think we always support affordable housing. We think this project is in a really exciting place and we want to see it move forward. Obviously you and the developers will continue to have your conversations but we support this project as it stands at the moment.
+
+Okay, so I am...
+
+**(02:10:29)**
+
+
+
+So I am just surprised, considering that 32BJ's workers struggle so hard to afford housing, as was noted in the testimony today. It is so hard to get by. On public land, is there anything more you want to say about pushing for more affordable housing? The union does not have a position on that?
+
+**(02:10:42)**
+
+
+
+I think we understand the constraints on this site and we appreciate the commitments the developer has made over the course of this project to improve over the initial 25%.
+
+**(02:10:53)**
+
+
+
+You know, we have seen tens of thousands of Latinos in Williamsburg displaced. We have seen the Black population in Brooklyn decline for the first time since the Great Migration. Our communities can no longer afford to live here. And on public land, that is where we can really maximize affordable housing. I am surprised that the union does not have a position on that.
+
+But I just want to say thank you for your work in the district. I was at 77 Sands two Fridays ago and I met one of your colleagues, a really nice guy. That is a great building. Conquered Village loves you too. Oh, you are Concord too?
+
+**(02:11:20)**
+
+
+
+I love that. Thank you for the work there. That is a great team over there. We are grateful for the 32BJ workers across our district and hope we will be adding more across our community in the months and years to come.
+
+**(02:11:29)**
+
+
+
+Thank you. Thank you, CM. This panel is now excused. Thank you for your testimony.
+
+We will now hear from Victoria Alexander, Sarah... Deborah Funkhouser and Marissa Funk. After that panel will be Louise Carroll, Nico Carter, Arthur Kim and Marla Silver. We will start with Victoria. You turn on your mic and we can begin. Victoria? Are you Victoria? Yeah, that is right. You begin.
+
+**(02:12:09)**
+
+
+
+Hi, great. Hi. My name is Victoria Alexander and I am the Chair of an organization in Red Hook called Gowanus and Red Hook, and we are an environmental justice organization. I am here to speak up against this project as it is framed right now. The framing really has been manufactured consent. We have been told this is a debate between NIMBY and YIMBY and it is not. It is a false choice engineered by an industry that has spent decades creating the very housing crisis it now claims to be solving.
+
+The real estate industry restricted supply, converted rentals to luxury condos, bought up affordable stock and lobbied against every serious public intervention. Now it uses the urgency of a self-created crisis to push projects like this one onto public waterfront land, built above historic wetlands. Housing is not a commodity and a neighborhood is not a container for buildings. The financialization of housing — treating homes as investment vehicles rather than as places where people live — is what has produced this crisis and this project deepens it. It converts irreplaceable public waterfront into a return on investment for private capital.
+
+The question is never simply what can fit more units on the site. The question is whether this place can actually support the people who would live there, and the answer here is no: inadequate open space, significant flood risk, environmental burdens, overburdened infrastructure. Affordability in this proposal is a Trojan horse, and we must maximize it if we are doing it on public land. Conditions should serve the people of New York. This is the only resource, the only commodity that the people own, and we are handing that commodity over to real estate investors. We have done this for decades and that is why we are in this situation — because we have financialized housing. Housing is a human right, like water, and we need to start treating it that way. Thank you.
+
+**(02:14:11)**
+
+
+
+Thank you. Now we will hear...
+
+**(02:14:16)**
+
+
+
+...from Sarah.
+
+Good afternoon. I am a resident of Williamsburg and Greenpoint for the past 20 years and I have seen the density of the neighborhood grow and expand, but the lack of green space is not keeping up with the immense construction that is apparent and relentless. I am here to support more parks and protect the waterfront and its precious ecosystem.
+
+As a local resident, I see the expansion of the parks as an improvement to the neighborhood, not hindering housing — which, let us be honest, is barely what we would call affordable, and it sounds like the affordable housing is still being negotiated based on this panel. I do think that parks are for everyday New Yorkers. The City was promised to the neighborhood years ago. Parks give back to the City and improve the quality of life for local communities and future generations.
+
+To me, there needs to be an equal amount of greenery and nature and marine landscape to the immense construction. We have plenty of luxury looming towers but what we really need is parks that everyone can enjoy. Thank you so much.
+
+**(02:15:19)**
+
+
+
+Thank you. Now we will hear from Deborah. Good afternoon, Council...
+
+**(02:15:24)**
+
+
+
+Opportunity. My name is Debra Funkhouser and I have lived on the south side of Williamsburg for 30 years. I am also a volunteer gardener at the Bushwick Inlet Park. I oppose the rezoning of Monitor Point so that the Gotham Organization can build a luxury tower on public waterfront. The height of the building will threaten our promised park and the majority of market rate apartments will create a new threshold for what a one bedroom goes for in our neighborhood. Currently there is a one bedroom on the waterfront for $8,000 a month. To me that is not affordable.
+
+The Brooklyn Borough President's comprehensive plan reports that Brooklyn is ill-prepared to face sea level rises and extreme weather events. Our storm water system is built to handle 1.75 inches of rain per hour. Hurricane Ida saw 3.5 inches of rain per hour. Basements are flooding, our subway stations and our streets are compromised. A New York Times piece called "The Future of New York" offered three solutions. The first suggests that the City increase its ability to absorb water by leveraging the City's natural landscape. The Bushwick Inlet is already doing this, and though our zoning distinguishes the land on the northern edges, nature knows no boundaries. Historically this land has been a waterway all the way through McCarren Park. The third option is to retreat, which means that we relocate people out of hazardous areas. So why at this moment would we choose to put our affordable housing in such a vulnerable place? It seems irresponsible.
+
+Bushwick Inlet is a rarity in our City. If you have not come, it is open now. I would encourage you to come visit it before making this decision. It is on the East River and it supports a variety of life. I worry how an additional 3,000 residents will affect the two combined sewer outlets that empty into the inlet. The developers claim to be adding open space, but we should have 300 square feet of space to increase density. Now, just as we have opened access to the public, we are being asked to remove park designation on Lot 25. This land should stay a buffer zone per the 2005 agreement. Thank you.
+
+**(02:17:30)**
+
+
+
+Now we will hear from Marissa.
+
+**(02:17:33)**
+
+
+
+Thank you. I am a born and raised New Yorker and I live in Williamsburg. In my opinion, Williamsburg and Greenpoint have been single-handedly tackling the housing crisis and it is the City's opportunity now to acknowledge that by voting no on this upzoning. In 2005 the City of New York decided to respond to our community's needs and created a 27 to 28 acre park. 26,000 new units have been built in Williamsburg and Greenpoint since 2010. That means almost 50,000 new residents have been welcomed into our community.
+
+Bushwick Inlet Park is a direct response to the influx of neighbors we have taken on. Our neighborhood is critically underserved for green space. We have 0.6 acres for every thousand people. The City recommends 2.5 acres for every thousand people. That is a huge difference. Our Council District 33 is one of the most densely populated in New York City, squeezing over 170,000 residents into five square miles. The Bushwick Inlet Park was created to support our housing developments. This was never going to be housing and it should not be — not in a flood zone. Building 60 stories in a flood zone only a couple of steps away from the East River disregards human life by rejecting climate science. Furthermore, as per a 2023 Johns Hopkins study by Louis Quintero, homebuilding monopolies are the reason for the housing crisis.
+
+**(02:19:12)**
+
+
+
+Not the residents who live there. Thank you.
+
+**(02:19:16)**
+
+
+
+Council Member, do you have questions for this panel? I just want to thank you for your thoughtful testimony and for taking the time to share your expertise and your insight into what makes sense in our community. Thank you.
+
+**(02:19:25)**
+
+
+
+This panel is now excused. Thank you for your testimony. We will now hear from David Marker, Andrew Badeford, Catherine Thompson and Veronica Zapp. Oh, sorry, I missed one. So why do we not start with David Marker, Andrew Badeford, Catherine Thompson and Veronica Zapp. And the next panel will be Louise Carroll, Nico Carter, Arthur Kims and Marla Silver.
+
+**(02:20:16)**
+
+
+
+We will start with David. If you could please turn on your mike and begin. Thank you. My name is David Marker. I have been a resident of Williamsburg for 12 years. It is my home. Publicly held community assets are under assault in America by private interests. Moneyed interests are attempting to privatize more and more of our public goods. This is especially true when it comes to our public lands. There has been much news recently about the exploitation and attempted sell-off of our public lands across America. Most of these news stories focused on federal lands out west such as our national parks, forests and monuments. Unfortunately this is also happening in New York City. Our last vestige of public land along the East River is at threat of being privatized in a corporate giveaway for luxury high-rise towers. We as New Yorkers should reject this corporate land grab. New York City should be leading the country and setting an example of protecting public lands for the public good, not exploitation by private capital. Monitor Point has deceptively been framed as an affordable housing issue. This is not an affordable housing issue. The real issue at stake here is the privatization of public land that benefits a corporate interest to build luxury skyscrapers in a flood zone. Vote no on Monitor Point to protect our flood zone and tidal inlet from private development, and vote no to send a message to the rest of America that New York City does not give away its public land for private profit.
+
+**(02:22:05)**
+
+
+
+Thank you. Now we will hear from Andrew. Good afternoon.
+
+**(02:22:09)**
+
+
+
+To the Council. My name is Andrew Badeford. I am a candidate for New York State Assembly District 50. This would be in my constituency if I were to be elected. First of all I would like to say that there is maybe one thing that Gotham got correct, which is that we have a housing crisis. The problem is that Gotham is going to make this crisis significantly worse for many of the reasons which we have already heard today, particularly because so many of the units which they are proposing to build would be not just unaffordable but astronomically unaffordable — up to $10,000 a month for rent, which no ordinary person in New York City can afford.
+
+**(02:22:50)**
+
+
+
+And the effects of this are going to spread way beyond just the building itself. It is going to affect the character of the neighborhood. As CM Restler has said himself, we have had a 60% rise
+
+**(02:23:03)**
+
+
+
+in the rent in Greenpoint over the last year since the coronavirus pandemic. This development would only make the problems associated with this much worse. We desperately need affordable housing. This is the greatest problem that we face in Greenpoint and Williamsburg and in New York City overall. The problem is that this development is not going to make it better. It is going to make it worse. I think that we need a threshold of 100% guaranteed affordable units for buildings that are going to be built on this site. The Willis Point Commons building in Queens achieved this, and for any deviation from this we need to have some sort of justification that actually makes sense for why it should be less than 100%. 100% should be the baseline and anything less than that without justification should be rejected.
+
+**(02:23:49)**
+
+
+
+Thank you. We will now hear...
+
+**(02:23:56)**
+
+
+
+Thank you for letting me speak. My name is Catherine Thompson. I am the President of the Friends of Bushwick Inlet Park and a member of Save the Inlet, a coalition fighting to protect the Bushwick Inlet waterfront. Save the Inlet represents more than 5,000 community members who have signed their petition and submitted hundreds of letters opposing the Monitor Point rezoning proposal. This is broad grassroots opposition shared by residents, environmental advocates and our local CM Lincoln Restler.
+
+Our opposition is grounded in many compelling concerns. First, Monitor Point is the next existential threat to Bushwick Inlet Park. After decades of public effort and investment, this waterfront is finally becoming accessible to New Yorkers. Public land must serve the public good, not private luxury development. Let us get real. This proposal is roughly 120 stories of mostly luxury housing built for private profit, not community need. This will not help solve the housing crisis for the thousands of rent-burdened New Yorkers.
+
+Second, the weight of climate science is clear. Climate change is real. Building massive towers 60 feet from the water's edge in a FEMA-designated flood zone on a historic wetland and vulnerable shoreline is reckless planning that puts thousands of people at risk while undermining resiliency. Third, affordable housing cannot justify destroying one of North Brooklyn's most important public open spaces, especially when Williamsburg and Greenpoint have already added tens of thousands of new residents over the past 15 years. The 2005 rezoning has ushered in over 42,000 new neighbors. Our community has fought for Bushwick Inlet Park for more than 25 years. We have opposed this project from day one and we will continue fighting until it is defeated.
+
+Thank you, and with my last few seconds I want to invite everybody here, all the Council Members, to come and see — just come and visit before you vote. Come and have a look at this new park that just opened. It is extraordinary. It is so special.
+
+**(02:26:02)**
+
+
+
+Thank you so much. Now we will hear from Veronica.
+
+**(02:26:05)**
+
+
+
+Yes, just press that middle button there. Hi, my name is Veronica Zipoznik. I am a Greenpoint resident. I have 35 years of history in the neighborhood. I am also a Polish immigrant. I submitted an 18-page written testimony together with a 70-page appendix analyzing major flaws in the developer's Environmental Impact Statement. Please read that. It is the culmination of five months of rigorous independent research comparing the developer's Environmental Impact Statement against the City's Environmental Quality Review. I spent nearly 20 years in financial research, including 11 years at the Federal Reserve Bank of New York. I am now a small business owner.
+
+What I found is that the developer's marketing presentations are very different from what is buried in the full public record. More broadly, luxury towers roughly 60 stories tall built directly at the park edge would have major impacts on neighborhood character, natural resources, open space and affordability. I ask the Council to reject this proposal. The developer's own statement shows that the project fails to meet numerous criteria, including the failure to seriously analyze viable alternatives with lower height and bulk. Moreover, the MTA's own materials indicate that the wash facility relocation could still proceed whether or not this upzoning is approved. We are being presented with a false choice on public land. There is a very weak financial return, as confirmed at the Brooklyn Borough President's hearing. The net present value of $50 million over a 99-year lease is equivalent to one month of congestion pricing revenue earned today. So it is an extremely small benefit. The open space deficit gets explicitly worse — it is written in the Environmental Impact Statement that it will be reduced from 1.072 to 0.98 acres per thousand residents.
+
+**(02:27:53)**
+
+
+
+This is below the City's two-acre planning goal. There are real natural resources which the developer claims in its Environmental Impact Statement do not exist nearby. The public open space benefits are overstated. The applicants use an existing deficiency to excuse making it even worse. There is a lot more in my 18-page testimony that I emailed. Thank you so much. We appreciate everybody's testimony. Council Member, you have...
+
+**(02:28:20)**
+
+
+
+I just want to thank you for your testimony and I promise I will read the 18 pages. Thank you all. This panel is now excused. We will now hear from Louise Carroll, Nico Carter, Arthur Kims and Marla Silva.
+
+**(02:28:35)**
+
+
+
+Arthur Kims, hi.
+
+**(02:28:42)**
+
+
+
+The next panel will be Lou Rosario, Rolanda Guzman, Matthew Trump and Natasha Benn. We will now start with Louise. Louise...
+
+**(02:28:55)**
+
+
+
+Carroll. Good afternoon, Council Members. Thank you so much for having me. I am Louise Carroll, former Commissioner and lead of the team who wrote the Mandatory Inclusionary Housing program. In all my years of public service I have learned that the City cannot build its way out of a housing crisis on its own. We spend over a billion dollars a year in housing capital, more than any other municipality in the country, and yet our public dollars do not go far enough. They do not go fast enough and they do not go to all the places that we need them to go.
+
+Despite many successful housing plans of past mayors — and I have been part of that — homelessness in New York City roughly doubled over the past decade. The groundbreaking City of Yes passed by the Council in December 2024 is projected to produce about 82,000 new homes over 15 years. That is fewer than 5,500 units a year in a City of 8 million people in a housing crisis.
+
+I think we should not be playing a hunger games of parks versus people. We should try to have a plan, as it seems is presented here for Monitor Point, that serves a range of different interests. It does not have to be perfect. The perfect should not be the enemy of the good. The Mandatory Inclusionary Housing program — the analysis that underpins it — is that the people who have money and can pay rent should pay to cover the shortfall of their neighbors. That is why you need market rate housing to cover the cost of the low-income units. If you have 100% affordable housing, those rents do not cover the operation of the building. They do not cover the replacement of boilers. They do not cover the porters. They do not cover anything. So that means you need a permanent...
+
+**(02:30:58)**
+
+
+
+Now we will hear from Nico Carter. Good afternoon, Council. I am Nico Carter. I am a proud union member of Local 32BJ. I am supportive of this project because I am worried about access to housing for working people. When your job is in Brooklyn, more Brooklyn families can actually afford to live here. Existing landlords and people who bought real estate in Greenpoint might be concerned about the views and the changes that come to their neighborhood, but if you are lucky enough to live in Brooklyn you should know the value of coexisting together, sharing our parks, sharing community space and welcoming more people. That is City life. We do not keep people out. Thank you for your time and have a good day.
+
+**(02:31:53)**
+
+
+
+Thank you. Now Arthur Kims.
+
+**(02:31:57)**
+
+
+
+My name is Arthur Kims from East New York and I have been involved with the Greenpoint Monitor Museum for many years. I support the Monitor Point proposal because it will give the museum a permanent home where it can continue and expand its mission. The USS Monitor was a successful defender of the Union fleet against the Confederate ironclad Merrimack during their epic battle of 1862. The Monitor was constructed at Greenpoint's Continental Iron Works and docked along the Bushwick Creek in Greenpoint during the Civil War. Through the Greenpoint Monitor Museum's traveling roadshow I have been sharing the story of the Monitor with local schools since 2001. I have participated in the museum's roadshow as an instructor and musician. My entire formal education from high school to graduate school was in the arts and music. The museum's school programming has allowed me to introduce Civil War music to students through my piccolo, recorder and guitar, as well as Civil War songs.
+
+Over the years the roadshow has presented comprehensive educational programs under the direction of President Janice Lawetta Wineman and Vice President George Weinman. These programs have included live concerts and major public events which have attracted interest and support from the local community as well as from state and national historic groups. The museum requires a building to continue and expand its work. Where better to found this museum than in the building on land donated to the museum by Motiva Enterprises in 2003, which is located at the construction launch site. The museum has wanted to construct this building for many years and this proposal will finally allow us to do so. We do not want this opportunity to pass us by. The Greenpoint Monitor Museum will stand up to show New York, our nation and visitors from every land just what our people can do. With the support we have gained, we ask that the City Council help us achieve this goal. Thank you.
+
+**(02:34:05)**
+
+
+
+Thank you, Arthur. Now Maria. Good...
+
+**(02:34:07)**
+
+
+
+Afternoon, Council Members. My name is Maria. I am a concierge at a Downtown Brooklyn residential building and for the last 17 years a proud member of 32BJ. For the last 30-plus years I have lived in Brooklyn. I raised my kids in Brooklyn and I imagined spending the rest of my life in Brooklyn. Unfortunately, like many New Yorkers, I was priced out of the City. I still come here to Brooklyn to work and I am trying my hardest to come back to this City. This is why I support the project, because it will create 406 affordable homes for families like mine.
+
+I am trying to stay in this City and come back to the borough that we love. We need to create affordable homes all across the City to be sure that those of us who work every day to keep the City safe, clean and secure can afford to live and stay here. Thank you for your time and on behalf of all my union members and brothers and sisters, we urge you to support this project. Thank you.
+
+**(02:35:16)**
+
+
+
+Thank you so much. Thanks so much to the gentleman from the District Council of Carpenters and Maria from 32BJ. Thank you both for your testimony. From Laborers — do I have that wrong? You are from Laborers? Sorry. Oh, Mason Tenders District. I am sorry. Even with my glasses on I am useless. Thank you for being here. I appreciate you.
+
+**(02:35:40)**
+
+
+
+I appreciate both of your testimony, and Maria, thank you for your work in downtown Brooklyn. We really appreciate that. You both spoke to just the challenges of affording to live in Brooklyn today, which as somebody born and raised in Brooklyn, I fully see and appreciate just how much we have seen the neighborhood change, our community change, over the course of my lifetime. If we were able to secure more affordable housing in this project, is that something that you would both like to see?
+
+**(02:36:07)**
+
+
+
+I stand behind the development of Monitor Point. The history here — we have about almost two centuries here in New York. Humble Brooklyn, born and raised. So it is beautiful. Absolutely. It will bring me back home. That is what I am talking about.
+
+**(02:36:25)**
+
+
+
+And Carol, you testified to the dynamics that the market rate units cross-subsidize the affordable units. The developer testified earlier that he was anticipating units renting as high as $9,500 a month. When we see these extreme rents, these astronomical rents, for the market rate units, does that help allow us to further subsidize affordable housing above and beyond what is required?
+
+**(02:36:54)**
+
+
+
+So when we did the financial...
+
+**(02:36:56)**
+
+
+
+...analysis, and we worked with a financial adviser for over a year, we found that at a certain point it does not matter how high you go — you cannot increase the affordability because the cost of the low income housing cannot be cross-subsidized after a certain point. And so 30% of the floor area was the most that it would support.
+
+**(02:37:20)**
+
+
+
+Is it getting to 40%? No, there are 25% in the...
+
+**(02:37:25)**
+
+
+
+...building. They have a separate affordable building that is...
+
+**(02:37:28)**
+
+
+
+...just clarifying the record. But there is a toggle to 30% — you had to increase the...
+
+**(02:37:35)**
+
+
+
+...there is a toggle between how low you can go with the floor area ratio. So if the lower is the least floor area you can afford and the higher they understand in towers two and three...
+
+**(02:37:50)**
+
+
+
+...the point is slightly different though. Just to make sure that I understand — the analysis that you conducted was some years ago, under different conditions, with different tax incentives. $3,000 a month versus $9,500 a month has no...
+
+**(02:38:08)**
+
+
+
+That is not what I am saying. I just want to make sure — that is not what I am saying. OK. First of all, the tax exemption that was in existence back then is better than it is now, so in fact buildings are less...
+
+**(02:38:19)**
+
+
+
+And that is why...
+
+**(02:38:20)**
+
+
+
+...interest rates are worse. So buildings are less well off. Insurance and other expenses are increasing. So when we did this analysis we were in — our analysis was pre-dated — we were in a perfect economic world, which we are not in right now. So putting that aside, what we are saying is when you look at the cost of producing a unit per square foot, you need a certain rent to cover that cost. If you are going to lower the rent, as you lower the rent there is a gap in the cost of operating...
+
+**(02:38:52)**
+
+
+
+...that per square foot. So you have to make it up on the other side. You are going to do a rent study and bring it to a bank. In the intervening years — you mentioned some of the changes that we have seen — in Greenpoint and Williamsburg we have seen rents increase by over 60% just since the pandemic. They have gone up even higher since then, more than doubled. So we have also seen significant changes on the other side. There is an apartment renting across the street for $14,420 a month for a two bedroom. The average rent for a two bedroom in Greenpoint is $7,000. In a waterfront luxury new building like this one it will be higher. As the developer testified — I just want to be clear — that helps cross-subsidize more affordable housing so people like the people sitting to your right will be able to look at the numbers. When you — so I am not the lender on...
+
+**(02:39:35)**
+
+
+
+...this. I understand you are testifying and offering your expertise. But I am telling you, corresponding rents and the affordability have to be able to work together or else the building will not be financed. So what I am saying — I am not disagreeing, I am just trying to say that if the apartments are rented for $9,500 a month then we should ask the developer for more. That is not...
+
+**(02:39:55)**
+
+
+
+...correct. What you have to do is you have to look at the math. You have to put in the amount of rent you are getting on the affordable side, the amount you are getting on the market side, the cost of financing, the cost of materials — you have to do a whole analysis. That is too simple a statement to make. It sounds good to the people here but that is not how this works. Thank you, Carol. Do you...
+
+**(02:40:16)**
+
+
+
+...have any more questions? Thank you so much for your testimony. All right, this panel is now excused. Thank you.
+
+**(02:40:21)**
+
+
+
+Now we will hear from Luz Rosero, Rolando Guzman, Matthew Trump and Natasha Bent. After this panel will be Sean Cahill, Tina McKeever, Baruch Stern and Sarah Roberts.
+
+**(02:40:50)**
+
+
+
+Lucero already had to leave.
+
+**(02:40:54)**
+
+
+
+No problem. So we will start with Rolando Guzman. You can turn on your mic to start.
+
+**(02:41:00)**
+
+
+
+Good afternoon. CM Louis, CM Restler, thank you so much for having me here. I am the Deputy Director for Community Preservation at St. Nick's Alliance. My department works in North Brooklyn preventing the displacement of low income families from their units. We provide one-on-one counseling and we organize tenant associations and fight against displacement.
+
+A big shout out to CM Restler for fighting shoulder to shoulder with us and working with so many tenant associations in North Brooklyn that are facing displacement. We really appreciate you and your commitment. I am here today though because many have come to our office who are being displaced or their family members grew up here and are trying to find affordable housing and they cannot afford being in North Brooklyn anymore, as everybody has stated.
+
+Monitor Point is the first project in my 20-plus years of experience working in North Brooklyn that came to the community — especially to a partner organization called United Neighbors Organization, a grassroots group — and they presented about this project. They were very receptive. They heard about two issues: one is that we need deeper affordable housing, inclusive affordable housing, and a higher percentage of housing. This project, despite differences with other projects, is providing 40% of inclusive affordable housing on site. No poor-door — tenants will receive the same type of amenities. The larger thing is that we cannot wait any longer. We need this affordable housing right now. Thank you all for your...
+
+**(02:43:05)**
+
+
+
+...time. Thank you. We will now hear...
+
+**(02:43:06)**
+
+
+
+...from Matthew. My name is Matthew Trump and I am a New York City resident. I am here speaking on behalf of no one but myself. I thank the Council for giving me this chance to speak in favor of the proposed Monitor Point housing project. Our city is in the midst of a housing crisis.
+
+Often we speak of the housing crisis as though the problem is that rents are too high. This is wrong. The problem is that there are not enough homes. If we lived in the Soviet Union we would experience this as long waitlists and rationing. In medieval England we might experience it as only the politically favored of the local nobility being able to find housing. But we live in a market economy and so we experience the housing crisis in the form of high prices. The underlying problem is very simple and it does not depend on our economic system — there are too many people to house and not enough homes for them. If we do not build more homes then some of these people will go without.
+
+Some are concerned about how high the market rate rents will be in this building. I think it needs to be clarified that what determines market rate rents is the market. The price of housing is high because there is not enough supply. Why is there not enough supply? Perhaps it has to do with the fact that it takes over six years and a thousand concessions before a project like this can be built. We live in a world of madness. We have people desperate for housing — we can tell they are desperate for housing because they are willing to spend $6,000 a month for a one bedroom apartment. We have developers desperate to build housing — we can tell they are desperate to build housing because they are willing to spend six years in rooms like this. And yet between them stands this Council. If this Council truly wants to make housing affordable there is a simple solution and I beg you to consider it: get out of the way.
+
+**(02:44:30)**
+
+
+
+Now we will hear from Natasha...
+
+**(02:44:33)**
+
+
+
+...Bent. Good afternoon. My name is Natasha Bent and I am a proud member of Local 79 and 32BJ. I just want to say I do support the vision for Monitor Point for two reasons — for the simple reason that I work in that community and my son will be going to school in that community. Right now me and my son are facing displacement from that community.
+
+**(02:45:10)**
+
+
+
+Out of that community. Where I work — I do not want to be displaced out of there because if I am displaced out of my community that means I have to leave my job. I do not know where they are going to put me. They could put me in the Bronx, I do not know. So to me, the affordable numbers that were being spoken about — that looks like me all the way. I cannot pay $7,500. Me and my kid, we cannot do that. I can definitely pay $1,400. As far as the listing that he had with all the jobs that we do, I can definitely afford that. But $7,000 or $8,000 I cannot afford that. With me not being able to afford that, I do not want my son to be displaced and not go to school in Brooklyn. This is where we are at. This is where we live. Over 35-plus years, this is where we have been. I just see how it is so difficult for my son to say, "Ma, where are we going to end up next?" This is the school he loved, these are the friends, these are the teachers — they do not just know my son by a number, they know him by his name. And that is what community is. I think you guys should really support this and just go back and see what community is. I think Gotham is trying to get us back into community. Guys, please — just for me and my son. My son is young. Move forward with this project for everybody. There is some common ground so you all will not lose us as residents of Brooklyn.
+
+**(02:46:42)**
+
+
+
+Thank you, Natasha. Mr. Neil Sheinin, you can begin now.
+
+**(02:47:01)**
+
+
+
+My name is Neil Sheinin. I am a lifelong resident of Greenpoint, the founder of the Pete McGuinness Senior Center, the co-founder of the North Brooklyn Angels and the president of the St. Vincent de Paul Society. I was going to come and give my regular testimony but I am going to take a chance and do something different.
+
+**(02:47:24)**
+
+
+
+This community needs to come together. We have real needs and two different places to address them. One of them is in our parks. For 20 years I have watched my neighbors — good people behind me — fight to see their park fixed. I have watched the councilmembers step up and work real hard for them. What I know is that most of the people who need affordable housing also want that park. We need to get both things done. We need everything done. Luckily we have a councilmember who we are going to ask to do everything, and you know what, if anyone can do it it will be him.
+
+But the community needs to come together. People need to understand that we are losing people every day — all kinds of people. Young people, longtime community people who are growing up and cannot leave their families. Other people whose wonderful landlord dies and then they are gone. We need Gotham to sit down. We are in the endgame. They have got to sit down with the community. And guess what — yesterday I read this wonderful report called the New York City Affordable Housing Report, put out by this administration. There are smart people around here. We need to get together. We need to up our game. The people in the park need to understand that we want that park done, but you cannot simply say you want the park and you do not want people to have a future in their community. We need to get together. And Lincoln — Lincoln will take this. This is not about crumbs.
+
+**(02:49:11)**
+
+
+
+Thank you, Neil. This is about people. Thank you. He will do his best for us. Thank you. Any questions?
+
+**(02:49:17)**
+
+
+
+Questions for the panel? CM... Natasha, where is your son going to school? He goes to Unity — he is going to be going to Unity High...
+
+**(02:49:27)**
+
+
+
+...School on Bedford Avenue. Well, congratulations. I hope it is a great experience for you in high school. I really appreciate your thoughtful testimony and the need for more affordable housing to keep Brooklynites in Brooklyn. Just want to underscore — if we could secure more affordable housing in this project, is that something that you would want to see? Yes, sir. And Rolando, same question to you.
+
+**(02:49:48)**
+
+
+
+If we could secure more affordable housing in this project, is that something you would want? We need as much more affordable housing as we can get.
+
+**(02:49:53)**
+
+
+
+And Matthew, is that something that you would support as well? No, but I am...
+
+**(02:49:58)**
+
+
+
+...a bit of an outlier, so...
+
+**(02:49:59)**
+
+
+
+OK. And Neal, is that something you would support? OK, good. I thank you all for your testimony. This panel is excused.
+
+**(02:50:05)**
+
+
+
+I also want to say — definitely union jobs.
+
+**(02:50:07)**
+
+
+
+And union jobs, absolutely. To the developer's credit, that has been proposed in their proposal. That is an important thing to note. Thank you. This panel is...
+
+**(02:50:16)**
+
+
+
+...excused. Thank you all for making time to be here. Now we will hear from Sean Cahill, Tina McKeever, Baruch Stern and Sarah Roberts. The next panel after this will be Bianca Medina and Jonathan Jackson. We will start with Sean. You can turn on your microphone.
+
+Good afternoon. My name is Shawn Cahill. I live in Greenpoint. I am a small business owner and an active member of the community, and I am here on behalf of Brooklyn Community Kitchen at St. John's Lutheran Church. I will just say I have a lot of social anxiety so this is quite a lot. After attending the meetings about Monitor Point since 2026 and listening carefully and observing both sides, I can unequivocally say no to Monitor Point without conditions. What is being proposed here is the wrong vision for Greenpoint. Greenpoint historian Jeffrey Cobb wrote that after the 2005 rezoning the question facing the neighborhood was whether it would preserve its working class waterfront character or become what he called "Dubai on the East River." In 2005, Jane Jacobs, legendary urban scholar, warned Mayor Bloomberg a couple of months before she died: "Successful city revitalization does not result from gigantic plans and show-off projects. It builds up gradually and authentically from diverse human communities." This waterfront carries real history. This history deserves to be honored in a way that communities can experience together beside a beautiful park — not a massive museum in the belly of a sterile luxury tower. What Monitor Point currently offers is not soul. It is a real estate project. Gotham is polished suits and $300 shoes, scrolling on their phones, telling us they are listening.
+
+**(02:52:29)**
+
+
+
+I do not believe luxury towers casting shadows over our streets and parks for generations to come honors the spirit of the community. CM, I was relieved to hear you state publicly your opposition to Monitor Point. Thank you.
+
+**(02:52:46)**
+
+
+
+Thank you, Sean. Now we will hear from Tina.
+
+**(02:52:50)**
+
+
+
+Good afternoon. My name is Trina McKeever and I have lived in Greenpoint for over 35 years. I have served for over a decade on the Parks, Land Use and Environmental Committees. I am also a co-founder of the Friends of Bushwick Inlet Park and I stand with the over 5,000 petition signatories from Greenpoint and Williamsburg to oppose the Monitor Point project. Monitor Point is a rezoning in which the developer is asking to build four times the current R6 zoning. The intention is to build the third tallest building in Brooklyn. The tallest tower will rise 640 feet — a height surpassed only by Brooklyn Tower at 9 DeKalb and Brooklyn Point at 138 Willoughby, both in downtown Brooklyn — not at the edge of a public park with no setback. The 2005 rezoning mandates that residential developments along the East River — buildings that rise 40 stories, not 60 stories — include a setback of a 40-foot public esplanade, a waterfront access zone. Monitor Point is on the Bushwick Inlet, not the East River, and does not include a setback. The park in essence becomes the public esplanade for the luxury...
+
+**(02:54:01)**
+
+
+
+...development. The thin, magnificent 50-foot sliver of the park, which just last month opened to the public — to the west, the towers where the developers are offering open space, they are asking the city to reduce the public access from 42 to 30 feet. The adjacent acre of land included in the Gotham proposal was donated in 2003 by the Motiva Corporation to a nonprofit monitor museum, and with that gift imposed significant deed restrictions — basically that the land be used for the public good. Instead, Gotham plans to massively upzone the museum's land, both creating and transferring 340,000 square feet from the rezoned lot to the largely luxury development, allowing for the towers to rise 20 feet over the other East River developments. Furthermore, the contaminated...
+
+**(02:54:55)**
+
+
+
+Thank you, Tina. We will now hear from...
+
+**(02:54:57)**
+
+
+
+Good afternoon. My name is Baruch Stern. I am a lifelong Brooklyn resident, living in Greenpoint for about three years now. Greenpoint has one of the least amount of green spaces in the entirety of New York City per capita. I represent a small community garden that is located around the proposed building site, and with the size of the towers, the shadow that this building will cast will cover our garden and limit the availability for us to educate and grow.
+
+This building can be built in other places. This is a very contentious piece of land, just because of the history that comes with it. The only reason they do not want to build in other places is because you can get the most return on investment on a waterfront property. I understand people's want for affordable housing, and I want affordable housing. I actually live in an affordable housing unit. I live in a building that is segregated — the entire affordable housing is segregated from the actual building that it is blended with. I will say that that is a fault of developers, because I am not able to share in any of the amenities that people in the other buildings are able to share in.
+
+If they wanted to truly represent that, they would blend the affordable housing more into the other buildings and create a more even and diverse space so that people can share in that. Also, so people that are paying $1,100 to $2,000 — sorry, $1,100 to $12,000 — for their units could share in the perspective of people who are not as well off as them, people that do not have the benefits that they do, so that it can educate and expand their perspective on what it is to come from places that are of less privilege. I would love to see a blend of more affordable housing with the regular units and maybe a decrease in the size of the building. Thank you.
+
+**(02:57:00)**
+
+
+
+We will now hear from Sarah Good.
+
+**(02:57:04)**
+
+
+
+Good afternoon. My name is Sarah Roberts and I am a five-year resident of Greenpoint, where I live with my partner who is a fifth-generation resident. I am also a licensed rehabilitator and a part of the group Save the Inlet. Before my career in education and wildlife conservation, I worked for an affordable housing project where deeply affordable housing can actually thrive. I am also one of — as of an hour ago — 5,674 individuals who oppose this project for many reasons. However, for my oral testimony I am opting to share a part of Jeff Cobb's book that Sean had mentioned, and that is a letter that was actually written 21 years ago. I am hoping to inspire the City Council to make right of what happened with the 197-A plans.
+
+"The proposal before you by the City staff is an ambush containing all those destructive consequences, packaged very sneakily with visually tiresome, unimaginative and imitative luxury project towers. How weird and sad that New York, which has demonstrated successes and lighting to so much of the world, seems unable to learn lessons from itself. I will make two predictions of utter consequence" — again, this was 21 years ago — "one: if you follow this community's plan, you will harvest a success. Two: if you follow the proposal before you today, you will enrich a few heedless and ignorant developers, but at the cost of an ugly and irretrievable mistake. Even the presumed beneficiaries of the misuse of governmental powers — the developers and the financiers of luxury towers — will not benefit. Misused environments are not good long-term economic bets. Come on, do the right thing. The community really does know what is best. Sincerely, Jane Jacobs."
+
+This was penned 21 years ago. City Council, respectfully, we cannot undo what has happened after that letter was written and built upon during a climate emergency. Thank you.
+
+**(02:59:11)**
+
+
+
+Thank you. Thank you all for your testimony today.
+
+**(02:59:15)**
+
+
+
+Yeah, okay. Thank you Sara, Baruch, Trina and Shawn for your testimony. Trina, if you would like to share your written testimony with me, I am happy to read it. Baruch, you mentioned you are with the community garden at 61 Franklin — we both are — and so we will take a look at the shadow impacts and circle back with you on that. Thank you for raising it.
+
+**(02:59:30)**
+
+
+
+Thank you. This panel is excused. We will now hear from Bianca Medina, Jonathan Jackson, Shashank Sham... and after that panel will be Juan Ramos, William Wilkins, Chuck Brass and Kirk Goodrich.
+
+**(02:59:53)**
+
+
+
+You know, and then I just got back. Can you begin?
+
+**(02:59:59)**
+
+
+
+Hi. Jonathan Jackson, Greenpoint resident, Local 52 union member and recently a public schools substitute teacher. Lived in Greenpoint for 25 years. I have to keep my finger on this, but when you watch a car commercial you see a sleek, fast-moving car driving through the Rocky Mountains or down a clean city street. But one thing you do not see is another car or a traffic jam. That is the context of my opposition to this development.
+
+This is not about one development but the accumulated effects of all the other residential towers that have already been built along the waterfront as part of the 2005 rezoning. There have been over nine high-rises, 26 units built on the Greenpoint waterfront in the last 15 years. In fact, there is one tower going up as we speak that is less than a hundred feet from where Monitor Point is proposed. There has been plenty of affordable housing built along the waterfront within this time, even buildings with geothermal innovation, but not on state land that I know of, none that have extended air rights that I know of, and none on a promised City park.
+
+To be honest, whether it is Monitor Point or some other development, building so close to the Bushwick Inlet — a unique piece of shoreland shaped by the tides of the East River — is a big no for me and a tipping point for the area. I suggest that before you decide on the fate of this building, you go and visit the park for yourself. It was recently opened for the first time — as far as I know, in 20 years — last month, and offers a totally new vision for the City. Building another residential tower the size of Godzilla not only compromises the ecology of the inlet but will continue the downward trend of the open space enjoyed by all the residents that live in the area. To my point, we are being sold the new car but not the traffic jam. Thank you, Jonathan. Thanks.
+
+**(03:02:10)**
+
+
+
+Good afternoon. My name is Shashank Sham... from the New York Building Congress. The New York Building Congress represents more than 500 constituent organizations and 250,000 skilled tradespeople and professionals dedicated to the growth and prosperity of our City. We are in support of the Monitor Point project and urge its approval. Monitor Point is precisely the kind of forward-looking investment New York needs at this time. The $700 million proposal would transform an underutilized, nonconforming warehouse into a vibrant mixed-use waterfront, unlocking public access, delivering much-needed housing and creating a pipeline of well-paying jobs during its construction phase. The project
+
+**(03:02:48)**
+
+
+
+will generate hundreds of union construction jobs. Once complete, it will create permanent positions in building operations, retail and community services. Housing is at the heart of the Monitor Point project. Its plan calls for approximately 1,100 new apartments and is an essential contribution at a moment when the City's housing shortage is at crisis levels. We need approximately half a million homes by 2030 and this project helps us get there step by step. The units will provide Greenpoint residents with safe, modern homes near transit and new open space. The project also delivers meaningful environmental resiliency benefits.
+
+**(03:03:23)**
+
+
+
+By remediating contaminated land threatening the shoreline and incorporating on-site energy systems, Monitor Point sets a high bar for sustainability, climate-ready development and much more.
+
+**(03:03:34)**
+
+
+
+Moving the existing warehouse to an appropriately zoned industrial area further reduces conflict between industrial activity and residential life while opening the waterfront for public enjoyment.
+
+**(03:03:46)**
+
+
+
+At the Building Congress, we believe good jobs and strong communities are needed for a good city. Monitor Point exemplifies that principle, marrying economic growth with affordable housing, public space and environmental stewardship. It is a win for Brooklyn and a win for New York City. Thank you so much.
+
+**(03:04:02)**
+
+
+
+Thank you. Is Bianca Medina here? Okay. Council Member, do you have any questions for this panel? All right, this panel is now
+
+**(03:04:10)**
+
+
+
+excused. We will now hear from Juan Ramos, William Wilkins, Chuck Brass and Kirk Goodrich. Thank you. You may begin. Greetings, Chair Louis, and my Council Member. Greetings, CM Restler — always good to see you both. I am here today to testify in support of Monitor Point and the Gotham Organization. The development, I think, is the kind of development that we ought to be supporting in this City. It is really large. I know, CM Restler, the conversation about the level of affordability is ongoing. I think you are doing what you ought to do as a steward and representative of folks in the community. I would like those conversations to happen and be concluded more quickly so we could get this underway. But I think, in good faith, I believe in the Gotham Organization. I partner with them. I believe that the project creates the kind of scale that we need to deliver housing and the amenities that are really important. I always say housing is a bundle of goods and services — it includes not only the spatial element but essential amenities to make the community livable, and I think you need scale to deliver that. I think Monitor Point does it. I also think that the questions about affordability, while the right questions, I think often can slow projects down. In this case, the need to deliver affordable housing faster in the midst of a crisis really should take precedence. So I will stop there.
+
+**(03:06:23)**
+
+
+
+Thank you. We will now hear from... Good afternoon, Council Members, Chair Louis. Thank you for having us today.
+
+**(03:06:34)**
+
+
+
+I am here as the Executive Director of Southside United. You have heard from my colleagues, you have heard from some of my neighbors, you have heard from some of my friends in the community on why they support this project in the same way we do as an organization. The reason we support this project is because of the many nuances to the project that we believe are going to take us to a place where we have not seen something like this on the waterfront in our community — which is achieving 40% affordability. But even more so, the income bands that are skewed at 40%, 50%, 60% and 80% AMI. All those income bands are going to make sure that people in our community have a real chance at achieving an apartment in those units.
+
+The reason we also support this project is because countless times, countless days, countless hours, I sit in my office and I see many people walk through the doors of our office. Every day I hear someone saying how they have been displaced. I hear families tell me they want to come back to the community they love, but I have seen a lot of those families also say they cannot afford to go back there. We have an opportunity here on the waterfront to really stay present and present an option that says any development after this has to start at 40% or higher if we can get there. I want to set that precedent as an organization. I want to set that precedent as a community member. I want to ensure that the people that we countless times fight for have an opportunity to stay in their homes. Many things could be true at the same time — we need parks, we need green space, but we also need affordable housing.
+
+**(03:08:14)**
+
+
+
+In our 53 to 54-year history, we have seen people in our community displaced. We have seen people in our community come from the very beginning, playing in lots filled with garbage, syringes and things of that nature. They could not afford a park. They could not have a park. But they wanted housing, and that is why they continued to fight in order for us to create the affordability we have today. We appreciate your testimony.
+
+**(03:08:37)**
+
+
+
+William, once again... Zulu time. Zulu time is a geographical measure of time across all time zones. Today we do not need military police — we need Monitor Point. My name is Bill Wilkins. I consider myself Brooklyn royalty, having been conceived in Kings County and of course born and raised in Crown Heights. I am the Executive Director for a not-for-profit BID and two... with 700 units of housing in our portfolio. Every day my team and I go to work for three reasons: grow businesses, change lives and strengthen communities. This project aligns perfectly in those three buckets.
+
+**(03:09:27)**
+
+
+
+I am an expert in economic development and housing, which gives me a keen interpretation and perspective on a lot of the different variables. Normally I can challenge, exploit and poke holes in a project, but today I cannot. Monitor Point checks all of the boxes simply because it incorporates the ideas, suggestions and opinions of numerous stakeholders. Gotham's proven willingness to work with local assets will create a $1 billion development in Greenpoint by recycling dollars locally. This is a micro-stimulus. Today you have the authority to support waterfront development that will create an urban oasis and will be studied and replicated in the years to come. I yield the rest of my time to
+
+**(03:10:24)**
+
+
+
+CM Restler. Chuck, it is on. Hi, my name is Chuck Brass. I recently retired after 45 years of devoting my professional life to the creation of housing in New York City, during which I helped to structure the financing of approximately 50,000 units of housing in the City while at HPD, the Housing Development Corporation, where I helped establish HTC as the leading financier of affordable housing in the country, Community Preservation Corporation, and as a consultant at Forsyth Street Affordable Housing, where I assisted clients in the creation of more than 600 units of affordable housing on the Greenpoint waterfront over the past decade.
+
+I am here today to support the Monitor Point project. It is the most ambitious development proposed for Greenpoint, which will create more than 1,100 units of housing, 40% of which will be affordable to low and moderate income households. That is, the project will create 450 or more units of affordable housing. It is truly remarkable that the Gotham Organization, one of the oldest and most respected builders in the City's history, is able to achieve this level of unprecedented affordability, which far exceeds the requirements of MIH. Only 18 and a half percent of the total units are being directly subsidized by HPD and HTC. Gotham will do so with minimum scarce public subsidies on land for which they are paying, while also agreeing to fund the creation and maintenance of badly needed publicly available
+
+**(03:11:55)**
+
+
+
+open space. These costs, along with relocating the current facility, are being borne almost entirely by the mixed-income building. To require additional affordability will require large amounts of public subsidies so badly needed to support affordable housing developments in other areas of Brooklyn and the City, which cannot support the creation of affordable housing through cross-subsidization of market-rate units — which, I might add, the City also desperately needs, as they have lost tens of thousands of taxpaying residents since COVID started. So that is why I support this project.
+
+**(03:12:35)**
+
+
+
+Thank you so much. Council Member, do you have questions for this panel? Thank you all. This panel is excused. We will now hear from Zoe Raphael, Kate York and Christopher Leon Johnson. That is Zoe Raphael, Kate... and Christopher Leon Johnson. Kate, wait, sorry. Yeah, we will start with Kate.
+
+**(03:13:07)**
+
+
+
+...in Williamsburg for over 40 years, during which time I helped design and implement the process for Williamsburg and Greenpoint's 197-A plans for the waterfront, fought garbage transfer stations to create a waterfront park, served on the steering committee for the coalition that stopped the power plant at Bushwick Inlet, and took on many battles for environmental justice, public education and affordable housing, working closely with some of the same community organizations that support this Monitor Point project.
+
+The 2005 rezoning's success in elevating Williamsburg real estate to an instrument of international investment has turbocharged a luxurification of what was once a brownfield, low-income community. What remains was secured by our local nonprofits years before developers were clamoring for property along the East River. We worked to free this waterfront from the burden of noxious industry while disinvestment left us to serve the needs of our community with our own hard work. Now that the area is swimming in investment dollars, we are expected to cheer this massive overdevelopment as the only route to affordable housing. This leads me to the question: how many luxury towers will it take to make a housing...
+
+I am writing to express my profound disappointment that this unique parcel of publicly owned waterfront could become three enormous luxury towers — and not two, because I think there is some kind of misrepresentation that two towers are actually one so they do not have to comply with your... legislation, but I am not sure about that. Anyway, so yes, three luxury towers and a block of flashy retail. Gotham's presentation minimizes the scale of this development. It is massive, accelerating and exceeding the area's ongoing overdevelopment. A partially dredged inlet on the East River in Brooklyn, part of a tidal strait where high tides often exceed five feet — the East River currently regularly exceeds five knots. The intersection of these dynamic systems is where Gotham is proposing to build their massive development. The majority of the area is in the hundreds...
+
+**(03:15:17)**
+
+
+
+Thank you so much.
+
+**(03:15:19)**
+
+
+
+Hi, my name is Zoe. I live on West Street in Greenpoint in a housing lottery unit that I can barely afford, where the landlords segregate us, gave us subpar finishes, zero amenities and ignore resident and building issues. The proposed project, Monitor Point, is egregious. The fact that they are incentivizing people who already work for them to come from other neighborhoods to rally for them, sending them to speak even during other projects' testimony time, is shady at best. They are taking advantage of the fact that they do not live in North Brooklyn and do not care about the current residents or what we actually need.
+
+I am a member of the community garden at 161 Franklin Street. This proposed building complex's height would cast shadows all over Greenpoint, specifically putting our small garden at major risk of losing all its sunlight, when Greenpoint has already starved for more green space. This construction project would not only make living on West Street uncomfortable for the next ten years, but it would also seriously impede the Inlet, the newly finally opened public green space. The photos I saw show them building a wall quite literally into the Inlet, completely disturbing the natural life there and delaying again the use of a park that North Brooklyn has been rallying for for over twenty years. Not to mention it will cause more flooding, which is already an issue in the area. With 67 West and 90 West now sold, the whole waterfront will become unrecognizable soon if we do not act. Many small businesses are being pushed out and the little architectural detail and history that we have left are already in jeopardy of being bulldozed away by people who do not care about this neighborhood or its current residents.
+
+They claim that we need more housing, but they just want to capitalize on the popularity of North Brooklyn, like all the other landlords who built huge towers on the waterfront. This project will only serve to raise rent prices for everyone, kicking residents out of their homes. Most of the affordable housing units should be the whole building if they want to take public land. They should have to open the rest of the unopened park and invest in the unopened green space that we have been fighting for. Prices around us have already increased exponentially and this will make it worse. This would also add a bunch of construction noise and hazards.
+
+**(03:17:25)**
+
+
+
+Thank you so much. Christopher, speak up. Hello, my...
+
+**(03:17:30)**
+
+
+
+...name is Christopher Leon Johnson. I oppose this project. I want to make this clear. I used to be a 1330 shop steward and I would say this now: my union is getting paid by this developer and their consultants to push this project through. All these unions, all they care about is their little $20-an-hour jobs, which ain't nothing to sustain in New York. I want to say this right now that these nonprofits like Southside United do nothing for the communities at all and they are getting paid by that development to push this project and to pull at the heartstrings of the community, making it seem like it is about displacement. But these nonprofits do not do nothing but hurt people anyway.
+
+I will make this clear: this project is disgusting. It is the most disgusting thing. You put it by the waterfront, which destroys the view of Greenpoint. I love Greenpoint. It is a disastrous idea. I am going to say about the park: I love Bushwick Inlet Park. We need to save that park. This is nothing but a land grab by these corrupt developers to line their pockets, and all these nonprofits and all these organizations open their wallets. All these organizations and unions, all they care about is lining their pockets at the expense of the communities. Look, I understand that Local 79 and all the building trades want their jobs, but what is the point of having these jobs when you cannot afford to live in what you are building? They will sell their own community for $20 an hour. It is disgusting.
+
+I say this right now: I oppose this project one hundred percent. And Reynoso, let it be on the record that you stand hand in hand with Southside United and you need to be on the record with that. I know you oppose the project but you need to be on the record saying that you stand with them from time to time, especially at those nonsense rallies outside City Hall Park when they said "stop displacement," but these are the same nonprofits that were silent about the City of Yes plan. These are the same nonprofits that are for COPA, which is another land grab opportunity for the developers. So I made that clear: I oppose this project. Save Bushwick Inlet Park. Thank you.
+
+**(03:19:32)**
+
+
+
+Thank you. This panel is now excused. We will now hear from Frank Lang and Robert Brunet.
+
+**(03:19:40)**
+
+
+
+Hi, my name is Frank Lange. I am the Director of Affordable Housing Policy and Advocacy for St. Nick's Alliance. Despite some of the recent comments from others, I think what Neil Sheehan said is right: it is not parks versus housing. We can have both. There are more than 4,200 signatures in support of this project, so this project has got a lot of support. St. Nick's Alliance has been fighting for the residents of this community and we are not getting any big payoff from this project. We are working very hard because the residents have been pushing for this. It is unique to be able to have 40% low-income housing here. Many of the speakers in support of the park — we support them and we work closely together, like with Kate York. So we want the City Council to support this project. We think that this can work. To the Council member who has asked repeatedly whether we want more affordable housing: yes, we would like to have that. But we understand the constraints of what is being asked here. If the City, which has the tools to be able to help make that project even more affordable, steps in, we would welcome that. Thank you.
+
+**(03:21:44)**
+
+
+
+Good afternoon, Council. First of all, my name is Robert Bernard from Local 79. I am a lifelong Brooklyn resident. None of us from Local 79 are being paid to be here. Neither myself nor any of my laborers or journey members are being paid to be here. I just want to set that record straight.
+
+I have lived in Brooklyn most of my life and we urge you to vote yes on the Monitor Point project. The project meets the Mayor's affordability agenda and the Brooklyn Borough President's comprehensive plan's first objective: to build new housing of all types at affordability levels while not displacing any existing residents. Greenpoint was identified in this plan as a new capacity priority area. The Borough President also found that building only parkland or affordable housing are not viable development alternatives for this site, given the site's constraints, development costs and the need to relocate. Projects like Monitor Point help make sure the people who build and keep the City running can still afford to live here, especially those who have lived here their entire lives and watched it change over the years.
+
+Construction workers are community members. We need development that serves New York families, not just wealthy ones. This project gets polluting trucks and truck traffic off our streets and replaces it with housing and an accessible waterfront that will create union jobs for people of the neighborhood, by the neighborhood. In this process, for those of us who are already here and are lucky enough to have a roof over our heads, we cannot be exclusionary and pull up the ladder behind us. We have to build a community for everyone. Blocking housing in the name of the environment without offering real alternatives is just NIMBYism with better branding. Thank you. I urge you to support the Monitor Point project. Thank you.
+
+**(03:23:33)**
+
+
+
+Thank you, Justin.
+
+**(03:23:36)**
+
+
+
+My name is Jason. I was born, raised and live in Brooklyn, New York. I am a proud Local 79 member. I attended and graduated from Automotive High School. I support the Monitor Point project. Right now there is a huge industrial building blocking people from getting to the East River. This project will actually open up the waterfront and increase the amount of green space, while the museum will continue to own the land. I am excited to bring my family here. People need housing and open space right now. We cannot wait another twenty years. Thank you.
+
+**(03:24:16)**
+
+
+
+Good afternoon, Councilors. My name is Roxanne. I live in Brooklyn on Bedford Avenue. I was a participant of the St. Nick's Alliance community-based organization in the district. I worked all around Brooklyn during construction, including the Domino Sugar Factory on the waterfront. This was before I became a proud Local 79 union member. I have seen the difference between a dead-end job and a union career. This project will offer good wages and benefits for workers, which means more people can afford to live in their communities. The best way to prevent displacement is to build more housing. Change is a part of life in New York. Everyone should be able to share in what makes Brooklyn special, not just existing homeowners. This is why I support Monitor Point. Thank you.
+
+**(03:25:05)**
+
+
+
+Thank you all for testifying. This panel is now excused. I will now call Iraq Rivas... I am sorry for butchering your name... Uletta, and Randy Pierre. Also, just a point of reference: we have 17 speakers remaining here in person before we switch to online. We will start with Iraq.
+
+**(03:25:35)**
+
+
+
+Hello, thank you so much. Thank you, Chair Louis, CM Restler and members of the Subcommittee on Zoning and Franchises for the opportunity to testify today. My name is Gerard Shehan-ski Rivas, New York City Director of Policy of the New York State Association for Affordable Housing. We represent for-profit and not-for-profit affordable housing industry stakeholders. NYSAFAH strongly supports the Monitor Point application before you today. This proposal delivers approximately 460 units of affordable housing — 40% of the residential space — for families earning an average of 60% of AMI. That level of affordability goes far beyond mandatory requirements and is a genuine and important commitment at a time when construction costs remain challenging. For Council District 33, these units will make a meaningful difference for working families.
+
+The Monitor Point proposal uses the right amount of cited resources by bundling affordable housing with waterfront improvements, open space and a cultural museum, all in one site. We avoid the need for multiple separate investments across different locations. That means more public benefit for every dollar authorized here. Monitor Point is a model of coordinated public benefit. These applications allow the City to tackle housing, transit and cultural preservation together at a time when this type of investment is critical, rather than waiting until these issues have become too large. This is exactly the kind of smart, multi-benefit project our City needs to address its housing crisis while strengthening infrastructure assets. We respectfully urge you to vote yes on these applications and move this vital project forward. Thank you.
+
+**(03:27:23)**
+
+
+
+Thank you. Donato, hello. My...
+
+**(03:27:26)**
+
+
+
+...name is Donato and I am born and raised in Brooklyn for over 30 years. My family is now a third generation of residents in the Williamsburg and Greenpoint area. I am a proud card-carrying member of Local 79. I am here on my own, not by paycheck. I am here to show support for the Monitor Point project. Since the beginning I have been here since the first Zoom meetings. This project from the start will offer many of my brothers and sisters from Local 79 the chance to make a paycheck to support their families and also a way to build a place to call home for new generations. This is a project that will house many present and future residents of this great borough at a reasonable cost. The housing crisis is real. More and more New Yorkers are finding it hard to keep up with the cost of living. I understand there may be minor concerns when it comes to this project. I say minor because frankly that is what they are. Maybe some people have fear for the new look of the neighborhood. Some people want change but will not allow change in their own neighborhood. They are sitting in a rocking chair expecting to move forward by squeaking back and forth. We can work out the minor disagreements but we cannot afford to say no to hundreds of new homes. If Gotham is offering us an umbrella in a rainstorm, we cannot sit there...
+
+**(03:28:48)**
+
+
+
+...and complain that we do not have a tent. I believe this project is the right decision to go forward with. I believe that this project will help bring a brighter future to many of those who have only seen darkness while struggling to live here. Thank you for giving me time to speak. I hope you will consider the transformational potential of the Monitor Point project.
+
+**(03:29:06)**
+
+
+
+...and the working class of Brooklyn.
+
+**(03:29:09)**
+
+
+
+Thank you. We will now hear from...
+
+**(03:29:12)**
+
+
+
+Jonathan. Hi, my name is Jonathan McKenna. I am a Williamsburg resident since 2020 — much better than my hometown of Boston, so happy to be here — and my rent has gone up in an uncontrolled manner, as have my neighbors', many of whom have been forced out of my neighborhood. I am not speaking in any official capacity, but I am a board member of the North Brooklyn Angels. Our mission is to help ease the challenges of gentrification and help those fighting food insecurity. Our volunteers have felt these pressures of out-of-control rents so that they cannot live or serve the community they love. Then they move to other neighborhoods that fit their budget, raising the rents and pricing out the residents there and causing a negative cascading effect of gentrification.
+
+Now I am not here to carry water for developers. I am also an ambassador for the Billion Oyster Project and not speaking on their behalf either. I want as much remediation, flood protection and waterfront park access as possible. I support as much affordable housing as possible, especially at compelling annual median income levels, and I want to be realistic in that way. We can keep the stewards of their communities in the places they belong and allow our neighbors to help our neighbors. As such, I support the Monitor Point development. Thank you.
+
+**(03:30:40)**
+
+
+
+Good afternoon, Council members. My name is Janice Oleta Wineman. I am President and Co-Founder of the Greenpoint Monitor Museum. I retired from the U.S. Army Corps of Engineers in 2023 after 35 years of service as a civil structural engineer. For the past 30 years the museum has educated Greenpointers about the Monitor and how the people of Greenpoint helped save the Union during the Civil War. Our members are actually building a monitor. We teach students history, engineering and pride in their community through the story of the Monitor. I also have a master's degree in education. Since 2001 I have served as an instructor for the museum's school program. We now have our own classroom at 126 John Ericsson Middle School, which is named for the Monitor's designer and engineer.
+
+The museum has owned its land since 2003, when Motiva Enterprises donated the land to be the site of a future Greenpoint Monitor Museum building at the launch of the Monitor. Since then we have been fighting to make that goal a reality. In 2005 we learned that the City planned to acquire the museum's land by eminent domain. The museum spent the next 12 years fighting the condemnation action. Today the Parks Department has confirmed in three separate letters that the City has no intention of taking the Monitor's property. But we are tired of fighting off threats to the museum's land. We want to focus on our educational mission. This is a critical moment for the museum. Help us secure a permanent home for the museum on its land. Please vote yes for Monitor Point and the Greenpoint Monitor Museum. Thank you.
+
+**(03:32:29)**
+
+
+
+We are going to call Randi Pierre. Last call for Randy Pierre. Go ahead... we will ask her... all right. And if you are not here, Randy, your testimony is online. CM Restler?
+
+**(03:32:41)**
+
+
+
+Restler: Thanks so much. To the gentleman from NYSAFAH: you testified that this would be significant additional housing for residents in District 33, right? Correct. So this project — do you know what the percentage of the units will be for people who live in District 33?
+
+**(03:32:56)**
+
+
+
+Three percent... of the affordable units. Of those affordable units, what percentage will be for residents of District 33? Ah, no...
+
+**(03:33:03)**
+
+
+
+15% of the affordable units will be for people who live in District 33 or District 34 — in Greenpoint and Williamsburg. So 85% of the affordable housing will go to people who live across the City of New York. 15% of the affordable housing constructed...
+
+**(03:33:17)**
+
+
+
+...would be for this community. I just want to correct your statement for the record. This is not a significant amount of housing for the residents of District 33. Significant amount of affordable housing, yes, but not for the people who live in our community today who are being priced out and displaced, who are facing enormous pressures of gentrification. I am surprised. Does NYSAFAH support additional affordable housing in this project?
+
+**(03:33:38)**
+
+
+
+Definitely, we will support that. But I have to say, with the caveat here: as a Borough President, I think all these conversations should be grounded in the public funding availability and also by acknowledging that when you take those public funds to a particular site, you are actively taking those funds away — excuse me, you are taking those funds away from another project, and you could be just protecting that project in the City elsewhere. I would presume that NYSAFAH would agree that on public land there should be a different threshold and expectation for affordability than on a private application. The economics... okay. Thank you, Allen.
+
+**(03:34:20)**
+
+
+
+For your testimony, and Janice, thank you for your years of advocacy and work with the Monitor Museum. We appreciate you and George very much.
+
+**(03:34:24)**
+
+
+
+Thank you. This panel is excused. Point of reference: we have 15 people left to testify before we go online. Now we will hear from Eduardo Medina, Israel Rodriguez and Erwin Denny. Eduardo Medina, Israel Rodriguez and Erwin Denny, you could... okay, you turn on your mike and begin.
+
+**(03:34:49)**
+
+
+
+Good afternoon, Council. My name is Erwin Denny. I am a North Brooklyn resident and Local 79 labor. I support Monitor Point because I believe new housing and union jobs for local workers will help the community. I have seen this area change from when I was growing up. I have seen decades of people being pushed out and towers going up with no local workers or community benefit. But now that there is finally a project where workers like me and low income families can actually be part of it, now all the new people who moved to this neighborhood are saying no.
+
+I bring this up because, if you look at the bus depot, that alone — people are talking about birds and trees, and you have people who work three shifts in a depot that is pretty much a piece of crap, but nobody is mentioning it. Just to have this project taken off will help a lot of people, including the workers who sit there three shifts a day. This is what the community needs. This project can provide stability for workers who look like me and families who are getting pushed out. Please say yes to this project. Thank you.
+
+**(03:36:07)**
+
+
+
+Eduardo Medina? Last call. Okay, at ease a minute. All right, now we will hear from Jason Thomas, Charles Lee... sorry, I am reading from a computer. George Wellman? Okay, he went already. So these before... okay, okay. Let us go check on him. And Jack Connors. Jack Connors? All right, we are going to start with Jason.
+
+**(03:37:48)**
+
+
+
+Thompson. Okay, can you hear me? Jason Thompson. I work for Green Cedar Management. I am the leasing manager of the Jamaica portfolio. I just want to say I am writing to express my strong support for Monitor Point development and its meaningful...
+
+**(03:39:13)**
+
+
+
+There we go, we are back online. We are standing at ease. For those online, we are standing at ease. All right, we are back. All right, so Jason Thompson, you could begin. You can start from the top. Let us restart his time. Thank you.
+
+**(03:39:29)**
+
+
+
+Again, my name is Jason Thompson. I work for Green Cedar Management. I am the leasing manager for the Jamaica portfolio. I am writing to express strong
+
+**(03:39:38)**
+
+
+
+support for Monitor Point development and its meaningful investment in Brooklyn and the Brooklyn community. I have seen many efforts of businesses to support the neighborhood where they operate. This proposal stands out because it goes beyond economic development. It creates real opportunity for the very workforce that keeps Brooklyn running, to maintain it in the community they know and love.
+
+The project is expected to generate nearly one billion dollars in construction-related economic activity, creating hundreds of well-paying union construction jobs over several years. Once completed, it will also provide approximately 70 permanent onsite jobs across retail, restaurants, property management and the service sector, further driving the local economy. Equally important is the project's commitment to affordability and stability. The inclusion of housing for residents earning 40 and 60% of the area median income, with 40% of the units designated as affordable, will help ensure that essential workers can live near where they work at a time when many long-term residents are forced out due to rising costs.
+
+This level of affordability is crucial. Brooklyn continues to face a severe housing shortage, with a citywide residential vacancy rate of just 1.4%. Monitor Point directly addresses this crisis by delivering 1,150 homes, including 460 permanently affordable units. This is the moment. The project also plays an important role in preventing displacement. By increasing the supply of housing, particularly affordable housing, it helps stabilize... Thank you. And we will hear from Charles.
+
+**(03:41:45)**
+
+
+
+You could start. My name is Charles Salario. I support the Monitor Point application because I am a long-time supporter of The Greenpoint Monitor Museum. I am excited for the museum to finally have a permanent home on its land. As a former United States Army Reserve member and son of a World War Navy veteran, I am passionate about United States military history, particularly the history of the Civil War. I am an associate member of the Sons of Union Veterans of the Civil War and used to be a Civil War reenactor. My love of history drew me to The Greenpoint Monitor Museum. Over the years I have helped with the museum's annual awards ceremony and assisted with special events at the museum's land, often while wearing my Civil War reenactor's uniform. I am also a former employee.
+
+I appreciate how this application will move the mobile watch unit for storage to a proper industrial area. Once the facility is moved, the land at Monitor Point can be transformed into homes for thousands of New Yorkers. These New Yorkers will be the neighbors of the museum. Their children will grow up in a place named Monitor. They will live and breathe its history. I ask the honorable Council members to remember Memorial Day. Thank you. Please, we appreciate your testimony.
+
+**(03:43:54)**
+
+
+
+Charles, you could submit the rest of your testimony for the record. We will now hear from George.
+
+**(03:43:58)**
+
+
+
+Okay, thank you. George, good afternoon. Thank you, Council Member. I am the Vice President of The Greenpoint Monitor Museum. I was born and raised in Greenpoint, where my family has lived since the 1840s. Many of my ancestors fought for the Union during the Civil War, and one served on the Monitor as assistant surgeon, Grenville Weeks. I am proud to be part of Greenpoint and even prouder to help carry forward the legacy of the Monitor.
+
+Over the years we have worked very hard to care for the museum's land on Bushwick Inlet and to share the Monitor story with the community. Since 2001 we have toured thousands of children, and those children and grandchildren attend our classroom. They see me and Janice on the street and remember us as the Monitor people, and they ask us when will the museum be built. We have told them that we are going to build a museum on the land that shares the launch site of the Monitor, and we do not want to let them down.
+
+If we do not vote yes, there would be no museum building and no open space on the museum's land. Under the current zoning on the MTA site, a developer could build a luxury building with no or very little affordable housing, but the museum would get nothing. Its land will remain closed off. A no vote does not create anything for the community. But a yes vote will create affordable housing, open space and a home for the museum.
+
+After the Monitor sank, my ancestor, assistant surgeon Grenville Weeks, wrote: "So long will the work of the men that manned her be remembered and her story told to our children's children." That is what we do. Please help us keep telling that story to the people going forward in the world. Please vote yes for Monitor Point.
+
+**(03:46:09)**
+
+
+
+You can submit the rest on the record. Thank you. And last call for Jack Connors. If you are not here, you can submit your testimony online. Council members, do we have questions for this panel? All right, this panel is excused. Thank you for your time. We will now hear from Deborah McAllister, Eugene Travers, Jim Sue and Howard Slatkin. Last call for Deborah McAllister, Eugene Travers...
+
+**(03:46:40)**
+
+
+
+Which one is he? Oh, okay. Let them know you can begin.
+
+**(03:46:52)**
+
+
+
+Good afternoon, Council members. I am McAllister, Vice President at the New York City Housing Partnership. I am here on behalf of the Housing Partnership in support of the Monitor Point project. The Housing Partnership is a nonprofit organization that has been in existence for 43 years. It was founded by David Rockefeller and Mayor Edward Koch to advance middle class housing throughout New York City. Today the Partnership's mission remains the same, and for that reason we are thrilled to partner with Gotham on the Monitor Point project, which will create much needed affordable housing for working class families who are being driven out of the Greenpoint neighborhood because they can no longer afford to live in it. The rents are too high in North Brooklyn, and there is a shortage.
+
+This project would contain over 1,150 new homes, including 460 permanently income-restricted units. The project is considered the largest investment in affordable housing on the North Brooklyn waterfront. With this project there are several benefits to the community: over 45,000 square feet of public access to waterfront open space, a new home for The Greenpoint Monitor Museum, street-level neighborhood retail spaces and jobs. One of the benefits is that no one will be displaced from the site, because currently the site has no housing units. As a matter of fact, public safety would improve with the relocation of the MTA, resulting in a residential neighborhood.
+
+We can all agree that there is a housing crisis in New York City. The Monitor Point project would increase the housing supply. Families making minimum wages would be able to afford an apartment at Monitor Point, resulting in economic diversity. As stated in Mayor Mamdani's newly released plan, let us build a city where working class people... Thank you. You could submit the rest
+
+**(03:49:07)**
+
+
+
+online. You may begin.
+
+**(03:49:08)**
+
+
+
+Hi, I am Jim Sue. I am an architectural interior designer. My proposal, which includes several drawings which I will show you later, rejects the high-rise proposal and takes advantage of the linear acreage by proposing clusters of low-rises that cascade down into housing units. The upper 13 to 14 floors will be co-ops and condos with expansive roof decks that have various amenities like pools, jacuzzis and restaurants. The housing below will provide every residence outdoor patios with solar panels. All of this housing has a series of indoor and outdoor skywalks and tubes that will connect the housing units to the proposed Makers Park, which is the new park that we would like to build, and have it spoke with its inner circle to look like cogs in a wheel,
+
+**(03:50:20)**
+
+
+
+sort of a maker's mark in steampunk material. The future phase would also include bio-domes that look out into tower hexagonal platforms that would jut out, forming a future of floating miniature cities. I kind of proposed to have hexagonal floating cities, which is also maybe being used in Tokyo Bay. I see this project as a city of the future in the area. I have drawings here, and the idea is to show how one area would connect to the other area — Greenpoint as well as Williamsburg. The floating city would be the future area where the water is.
+
+**(03:51:15)**
+
+
+
+Thank you. Thank you.
+
+**(03:51:16)**
+
+
+
+We will hear from Howard Slatkin. Good afternoon, Council member. My name is Howard Slatkin. I am a planning and housing professional, today testifying in my personal capacity. 21 years ago, in 2005, I was the project manager for the City Planning initiative that rezoned this waterfront and the adjacent neighborhoods — and a story for another time, I actually named Bushwick Inlet Park. I have a keen appreciation for the deep frustration within the Greenpoint-Williamsburg community about the extended delays in achieving the full open space objectives of that plan.
+
+This is what makes the Monitor Point proposal such an important one: relocating multiple facilities, environmental cleanup and build-out of public open space to the park in Greenpoint, adding over 400 more affordable homes and creating a home for the Monitor Museum. This is the first proposal in all these years that can actually achieve all these things. The idea of making the project even more affordable is an obviously appealing one. But I urge the Council, as it considers this issue, to adopt an eyes-open approach to the tradeoffs of adding public subsidy to a proposed development. More subsidy for one project directly reduces the amount of subsidy the City can use in other members' districts, particularly in lower income communities where public subsidy is the main source of new housing. This proposal reflects a pragmatic effort to address numerous long-standing public policy objectives, and I encourage the Council to approve it. Thank you.
+
+**(03:52:51)**
+
+
+
+Council member. Mister Slatkin, if you were to go back 21 years ago, when you were the project manager on this fateful rezoning, and realize that the vast overwhelming majority of the open space had not been realized over 20 years later, how would you... would you still have supported the rezoning? I appreciate the question, Council member. I am not going to speculate on time-travel-based hypotheticals. It is a great question. And actually, adding 30,000 units of housing, being promised 40-odd acres of parks, seeing almost none of it constructed — would you have supported that rezoning if you were told that the deal the community was getting was totally an empty promise and that none of the core commitments of the rezoning were achieved? So again, not just the time travel aspect, but I will reject the premise of the question
+
+**(03:53:33)**
+
+
+
+because it is not a choice between whether to do something or not, but it is how to do it right. And I think there are certainly many ways in which it was not done right. I am sorry, I am trying to speak. Thank you. There are certainly many ways in which the implementation of the open space plan has not gone as planned, and there are incredibly dismaying aspects of that. In particular, the condemnation costs for the acquisition of the park were dramatically underestimated, and adverse court proceedings inflated that cost substantially. This is something that has deep history, and you are aware of all these issues. The ability to implement the plan on an ongoing basis depends on the ability to adapt and make new decisions and bring more resources.
+
+**(03:54:14)**
+
+
+
+There have not been enough resources to achieve full implementation of that, and this is an opportunity to bring some of the resources that are necessary. There are not other opportunities that I am aware of to bring the resources necessary to achieve it. Your testimony was that this would knit together promises of previous open spaces and achieve the initial plans of the rezoning, and I just think that is pretty wildly misleading. This would address 15% of Brock Street Park being available for design and construction. It is unfunded at this point, but it would allow for that 15% of that park. It would have no other impact on promises made from the 2005 rezoning on open space. So we are talking about a small portion of one park that this would facilitate construction of, and that is it in terms of the 2005 promises. There is no commitment to anything beyond that at this stage.
+
+**(03:55:04)**
+
+
+
+I appreciate your... I think it was a question. I appreciate your point, your question. I think that the implementation of the continuous open space objectives of the plan is completely consistent with that, and that achievement of the additional connections to the waterfront and the open access is part of moving forward, as with any development along the waterfront. But overall, this does nothing to actually follow through on... we have no commitment from the current mayor to actually make happen the promises that you shepherded through with this failed rezoning. So yes, we got the housing. We did not get any of the promises that were made to our communities. 16% of the units are affordable, and many of those units are totally unaffordable to the people who lived in and were displaced from Greenpoint at the time of the rezoning. And none of the open space, except for the stamp of a park at WNYC Transmitter, which is about the size of this room, has been achieved. So you will have to forgive me for the level of frustration on the broken promises of this rezoning. If I can just respond briefly: I do appreciate the frustration, and I think that is all valid and important. I think figuring out the most important way to go forward to enact the elements of the plan is the answer. Thank you. This panel is
+
+**(03:56:22)**
+
+
+
+excused. These are our last two in-person public testimonies. If you would like to testify, please identify one of the sergeants-at-arms to submit a card before we transition online. So this is the last call: Francisco Zarate and Steve Flack.
+
+**(03:56:48)**
+
+
+
+You may begin. My name is Francisco. I am from Williamsburg and I am a proud Local 79 member. I support the Monitor Point proposal. Growing up here, it was difficult to find a good job and opportunities to keep up with the cost of living. I used to work on Fulton, off of Bedford Avenue, Lincoln Market on Box Street. But it was difficult to survive. It was a Local 79 apprenticeship program that led me to a middle class career. Apprenticeship programs are a lifeline to low income communities of color. This project is more than just a building. It is an engine for economic growth and community investment. This project will bring housing and union opportunities that actually sustain families and help us stay in the neighborhood. Empty lots do not support families and empty lots do not fix the shoreline. This project does. Thank you.
+
+**(03:58:00)**
+
+
+
+Thank you. Steve. Hello, my
+
+**(03:58:04)**
+
+
+
+My name is Steve Black. I am a fourth generation New Yorker, born and raised in Williamsburg. Growing up, the north Brooklyn waterfront was a wasteland of closing factories. The fact that it is currently a place that people want to live is still shocking to my family, who fled to the suburbs in the 80s. Currently New York City has a 1.4% vacancy rate, which is unsustainable. We have people so desperate for homes they are bidding up on rents — something I saw a friend fall victim to in a sketchy one-bed in Crown Heights this weekend. When I told my friends that I was going to be here today, I was contacted by multiple friends asking if I had a connection that would help get
+
+**(03:58:38)**
+
+
+
+them an apartment. Otherwise they are on the verge of leaving the City. These are people who wanted to raise families here. We need a city that welcomes them and the only way to do that is with more housing. Turning a waterfront warehouse into hundreds of affordable homes is a boon to the City. New York City is in a housing crisis. Decades of disinvestment has led to a missing middle class — the missing middle that will not come around until we build it. I was lucky to be born here but New York City is not a place just for natives. It is a place built by and for people who want to live here and want to put roots down in the greatest city in the world. Monitor Point helps get that done.
+
+**(03:59:15)**
+
+
+
+Thank you, Steve. We are now going to transition online. I am going to step out for a few minutes and I am going to turn to CM Restler. We will start the online panel in just a minute. The first panel will be Barbara Hotelr, Ida Max, Andrea Orzinka and Rob Solano from Churches United for Fair Housing.
+
+**(04:00:18)**
+
+
+
+The sergeant will unmute you.
+
+**(04:00:20)**
+
+
+
+You begin, Barbara. You will be up first. Hopefully... oh, she is okay. Oh great, Barbara.
+
+**(04:00:44)**
+
+
+
+Can you hear? Okay, I hear you.
+
+**(04:00:47)**
+
+
+
+Good. I will get my picture up there somehow. You feel free to get started. We can hear you. Okay, yeah. Nice to see you, Barbara.
+
+**(04:01:00)**
+
+
+
+Good to see you too. All right. So Bushwick Inlet Park should not be used for luxury housing. It is a good project but not for the Inlet. It is a delicate area in the park. The State and City and others should build the Monitor Museum. Also, the rezoning is not correct. The MTA should talk to the Parks Department about their land. So please say no to this project.
+
+**(04:01:32)**
+
+
+
+Thank you, thank you. Next up, we will hear from Ida.
+
+**(04:01:45)**
+
+
+
+Sorry. Good afternoon. My name is Ida Marx and I am a Greenpoint resident and a lifelong New Yorker. I am strongly opposed to the Monitor Point project. In the past seven years, over ten new oversized towers have been built in Greenpoint, mostly on the waterfront. That does not count dozens of other developments all over Greenpoint, all favoring the wealthy. The working people of Greenpoint are being falsely portrayed by those on the developer's payroll who give testimonials claiming the local community is trying to prevent affordable housing. This is untrue. The Greenpoint community is trying to prevent displacement. Our rents and overall cost of living have risen over 60% since 2020 due to the massive redevelopment we have experienced. And to be clear, the units Gotham proposes are not specifically for local residents. This is not a way to keep people in the neighborhood who are being pushed out. The housing lottery pulls from all boroughs and you do not necessarily have a choice of where you end up. Working people, senior citizens and those of us who are not wealthy are being pushed out of Greenpoint in droves. The claim that the affordable housing — which is not even affordable to many of us — will help is untrue. Actually the opposite is true, as you can see from the data, that this additional luxury housing will continue to drive up rents in the neighborhood.
+
+How can anyone responsible for City planning approve yet another structure without considering the effects on our transportation, gas, electric and our daily quality of life, by adding hundreds of thousands of people into a relatively small area? And now Gotham proposes an even bigger structure with even more negative impact on the environment, cost of living and quality of life for Greenpoint.
+
+**(04:03:40)**
+
+
+
+This neighborhood has become a playground for the wealthy and unfortunately this means many of us who are working people, senior citizens and lifelong residents are being forced out. Please oppose the Monitor Point project. Thank you. Thank you, Ida. Next up we will hear from Andrea Orzinka. I am sorry, Andrea, I think I butchered your name.
+
+**(04:04:02)**
+
+
+
+You are on mute. Hello. Good afternoon. I am also a long-time Greenpoint resident and I was here for the fights in 2005 when we were beating back the power plants away from the waterfront. Thank you, CM Restler, for standing up for us. I must say it is a bit disheartening to see that the rest of the Subcommittee is sort of not there. I do not know whether they will watch the testimony later.
+
+It was also incredibly disheartening when the Borough President left before that last meeting even started at City Council. Hardscape circular driveways of luxury towers and hardscape esplanades are not open space. They are not a park. They do not feel the same when you walk through them. It is simply just not open green space. I recently went to Bushwick Inlet and my whole family went. It was amazing to be there. You could feel the energy. The entire neighborhood is just... it is a palpable thrill that that has finally opened. There were horseshoe crabs, various exotic birds and waterfowl. The fact that a luxury tower that is incredibly tall would be in certain places about ten feet away is just wrong. It is kind of an outrage, really, that there is no other place that that can be built. As somebody else mentioned, we are completely underserved for open space. It is a flood zone and we have already accepted 30,000 new residents. So I am really hoping that, although I know where the rest of them are, this Subcommittee has more pointed questions beyond facts and figures. Over and over again there was one person on the Subcommittee that asked about flood mitigation and then obviously some pointed questions. Thank you, CM Restler. But it is just amazing that time expired.
+
+**(04:06:21)**
+
+
+
+Now we are going to hear from Eric Biederman, Michelle de la Luz and Jasmine Smarr, as well as Kendra Choo. You begin.
+
+**(04:06:38)**
+
+
+
+Was I wrapping up that panel? Am I ready to go or should I wait for the others to speak?
+
+**(04:06:43)**
+
+
+
+Oh, you go ahead. Okay. Chair and the City Council, my name is Rob Solano. I am the co-founder and executive director of Churches United for Fair Housing. We represent 20,000 working class families across Brooklyn, fighting every single day just to stay in the neighborhoods they have helped build. I am here today to talk about the Monitor Point proposal but more importantly I am here to talk about political accountability. We hear a lot today in these chambers about building housing.
+
+But let us be clear. The history of District 33 has already shouldered the burden of the City's growth for the last two decades. The neighborhood has generated and absorbed more housing density than any other district in the entire City. We have done our part. When the people of north Brooklyn elected and reelected CM Lincoln Restler, who did not vote the status quo, we gave him a clear explicit mandate. The era of rubber-stamping 600-foot luxury towers on our waterfront is over. Protect our communities from displacement and defend our public land. CM Restler is doing exactly what his constituents hired him to do — holding the line against this project.
+
+But this is not a local issue. This is a City turning point. New Yorkers just recently overwhelmingly rejected the Bloomberg-era playbook of trading away public assets — public land — for a tiny fraction of affordable housing while handing 60% of profit to luxury developers. The citywide mandate is now to deliver deep, systematic affordability and put the public good first. This brings us to the double mandate that faces the City Council today. Locally, the community has said no to more likely displacement on the waterfront. Citywide, the voters have demanded a radical shift toward true housing equality. With these two mandates combined, the City Council has zero room to hide.
+
+**(04:08:32)**
+
+
+
+On Monitor Point, this is the first major land use test of the new political era. If this Council chooses to override a local member, ignore the community and approve a project that is 60% luxury market rate on land that belongs to the public, it is not just making a bad zoning deal. You are actively voting against the explicit democratic will of the people who put you in office. Thank you.
+
+**(04:08:53)**
+
+
+
+Thank you. You can submit the rest of your testimony online. We appreciate you. This panel is now dismissed.
+
+**(04:09:01)**
+
+
+
+The next panel is Eric Biederman, Michelle de la Luz, Jasmine Smarr and Kendra Choo. We will start with Eric Biederman.
+
+**(04:09:12)**
+
+
+
+You begin. Oh, thank you. I am Eric Biederman, Vice President at the Community Preservation Corporation, a nonprofit affordable housing finance company that was formed in the 70s to help New York City and State end disinvestment. Since our founding we have invested over $16 billion to finance the creation and preservation of more than 276,000 units of affordable workforce housing. Now, at a time when New York City faces a historic housing shortage, the Monitor Point development proposes to address a unique mix of housing, environmental and waterfront concerns with intention and resourcefulness. Monitor Point will deliver much needed new housing, new open space with waterfront access, environmental protection and resiliency. This project is informed by a public-private partnership between Gotham Development and the Greenpoint Monitor Museum. Critically, the project will bring 1,150 new homes to Greenpoint, 460 of which will be permanently and deeply affordable. This is creating much needed new housing at rents that working families can afford. On behalf of the development team at Gotham and their partners, in addition to the hundreds of community members who have worked tirelessly to develop a new vision for Monitor Point, I respectfully urge the Committee and the members of the Council to support this project, approve the land use applications and help deliver affordable housing, open space and a resilient waterfront to the Brooklyn community.
+
+Thank you again for your time and consideration.
+
+**(04:10:53)**
+
+
+
+Now we will hear from Michelle. You begin.
+
+**(04:10:58)**
+
+
+
+Good afternoon, Chair Louis and CM Restler. My name is Michelle Della Hoese and I am the executive director of the Fifth Avenue Committee, a nonprofit comprehensive community development corporation whose mission is to advance economic, social and racial justice in New York City. I am testifying in support of Monitor Point because the housing crisis is urgent. Gowanus is where I was yesterday, with Mayor Mamdani, touring the neighborhood and seeing new affordable housing, preservation of existing affordable housing, investment in nature, mixed income projects and investment in other infrastructure projects, all within a short distance of one another. We can see what it looks like to have community-wide solutions to some of our City's challenges.
+
+While I deeply appreciate and support CM Restler's comments about the need for true housing affordability on a publicly owned site, this project is delivering multiple public benefits beyond the 40% affordable housing at deeper AMIs. It includes critical funding for public transit and the Greenpoint Monitor Museum. Monitor Point would deliver 460 permanently affordable units along with publicly accessible waterfront improvements, environmental remediation and major privately funded infrastructure investments. This is a mixed income development that uses market rate housing to help cross-subsidize affordable homes and unlock public benefits that the community would not otherwise receive and that the City does not have sufficient taxpayer dollars to fund on its own. From a community development perspective, this is what equitable growth should look like — transforming an underutilized site into mixed income housing, public waterfront access, safer infrastructure and long-term neighborhood investment. Adding 460 permanent homes where none exist today is a concrete equitable growth strategy and investment in a more inclusive future. I urge the Council to approve Monitor Point. We need this project and all that it brings, without needing to use additional taxpayer subsidy. Thank you.
+
+**(04:13:00)**
+
+
+
+Thank you, Michelle. Now we will hear from Jasmine. You begin.
+
+**(04:13:06)**
+
+
+
+Good afternoon to the Subcommittee on Zoning. I am Jasmine Smarr. I am the president of the New York City Housing Partnership. I speak in support of Monitor Point on behalf of the New York City Housing Partnership, an organization founded by Mayor Ed Koch in 1983. We have spent more than four decades working to expand access to true middle class housing across New York City, representing over 100,000 affordable units created or preserved. The north Brooklyn waterfront has changed substantially over the past three decades. What was once an industrial corridor has become one of the most desirable stretches of real estate in the five boroughs. But that transformation has not come without cost. The net vacancy rate in Brooklyn sits at 1.27%, below the City average of 1.4%. The middle class families who built and sustained north Brooklyn into what it is today are increasingly unable to stay. Now, one development project cannot solve the housing shortage that we face, but 460 permanently affordable homes with units reaching as low as minimum wage affordability is a meaningful contribution to true middle class housing in an area that needs it. What is more, the financing structure behind this project is the kind of creative, disciplined work that does not happen without genuine commitment from the development team and its public partners. The proposed cross-subsidy model, which uses market rate units to finance deep affordability, is not new but it is hard to execute very well.
+
+It requires a developer like Gotham with the experience and frankly the willingness to structure a deal that prioritizes community benefit over seeking maximum return. Gotham's record in East New York and the Lower East Side in this City demonstrates that they have done exactly that. Thank you.
+
+**(04:15:15)**
+
+
+
+You can submit the rest of your testimony online. Now we will hear from Kendra. You begin.
+
+**(04:15:21)**
+
+
+
+Good afternoon and thank you, CM Restler and all here, for the opportunity. My name is Kendra Choo and I am a director for the North Brooklyn Chamber of Commerce. We are a hyper-local nonprofit business organization that serves Greenpoint and Williamsburg. On behalf of the Chamber, I would like to express our strong support for the Monitor Point project. We view this innovative mixed-use project as a significant opportunity for north Brooklyn that is positioned to bring lasting benefits to our business community and our neighborhood in general. In addition to providing much needed housing opportunities in a high-demand market, it will also deliver considerable economic benefits through job creation and small business growth. We see the conversion of a dated and underutilized industrial site — which currently blocks waterfront access and brings heavy truck traffic through residential streets — into a dynamic new development which includes housing, both affordable and market rate, small businesses hopefully with local ownership, remediation, flood mitigation and open space, as a compelling model for the revitalization of underutilized sites into productive properties. Monitor Point reflects the kind of multifaceted development north Brooklyn deserves and the Gotham organization is to be commended for the professionalism and thoughtfulness they have exhibited throughout the process. We recognize that no project of this scale is without its
+
+**(04:16:55)**
+
+
+
+complexity and we respect the integrity of the necessary review processes. But we ask that you consider the full scope of its economic contributions — for the workers who build it, the families who will call it home and the businesses that will serve it. Thank you again for this opportunity.
+
+**(04:17:11)**
+
+
+
+Thank you. CM, you have a question? Thank you so much. I just wanted to
+
+**(04:17:15)**
+
+
+
+ask Chair Louis a question. You had been such an important champion on the Gowanus rezoning. There was one large public lot in the Gowanus rezoning — a public place. What is the percentage of affordable housing on that public lot?
+
+**(04:17:29)**
+
+
+
+It is 100% affordable.
+
+**(04:17:30)**
+
+
+
+Okay, thank you so much. I appreciate your testimony. The next panel: Maria Clara Golfo, Lauren Rapper, Catherine... I am going to need your last name... and Sandra.
+
+**(04:17:44)**
+
+
+
+Baptista. You begin.
+
+**(04:17:46)**
+
+
+
+We will start with Maria Clara.
+
+**(04:17:49)**
+
+
+
+Good afternoon, City Council. My name is Maria Clara Galef, born and raised in the Bronx with my family that relies on affordable housing. I currently live in Greenpoint and I am speaking on behalf of Save the Inlet. Thank you so much for the time to speak and also to the Council Member for holding the line. I appreciate you.
+
+Greenpoint is a community. Greenpoint is not Gotham City. But this is rapidly changing. Greenpoint has become completely unaffordable, with every luxury tower walling off the coastline of an incredibly densely populated corner of Brooklyn that has access to one incredibly inconsistent subway line, the G, the ghost line.
+
+People need access to parks and open spaces in order to thrive. This land can be used as park space for the people. Developers like Gotham's luxury towers have led to the displacement of people like me and my family. Since these towers have gone up in Greenpoint, rents in the community have risen. They doubled since 2005 and are up over 75 percent since 2015, making it one of the fastest rising rental markets in the entire country.
+
+Furthermore, Gotham's proposal touts 40% affordable housing but only 25% are actually Mandatory Inclusionary Housing. My family cannot afford the units that are available in that building. For what it is worth, Gotham and the... are bending the rules to construct an enormous building for a 99-year lease. What happens in year 101?
+
+This is a land grab. This is pure private greed and corruption winning. There are warehouses and lots across Greenpoint that could be used for affordable housing, and I hope that it is for 100% affordable housing. To the union members who are made to be here: you can work for affordable housing units on other lots that are not literally upending an irreplaceable ecological ecosystem on a flood zone.
+
+And this is during a climate crisis. Please do not be shortsighted. All of this is setting a precedent that the rich will always win against communities. This community has been passionately against this. Thank you.
+
+**(04:19:55)**
+
+
+
+Thank you so much. Now we will hear from Lauren. Lauren Roper? Lauren Roper? All right, we will hear from Katherine. Catherine? All right, we will hear from Sandra Baptista.
+
+**(04:20:27)**
+
+
+
+Hi, my name is Sandra Baptiste and I strongly oppose the Monitor Point project. I am a local resident here in Williamsburg.
+
+My ability to live in Williamsburg has not been an easy one. I lived here from 2010 to 2013 and then got priced out. Interestingly enough, I moved to Greenpoint, but I was only able to do that because of a personal connection to a Polish couple with a building that they then sold. So I moved out of the area for seven years. I moved back to Williamsburg in 2022 because the love of my life invited me to move in with him. That was serendipitous and I truly appreciate how lucky I am. I never saw myself as a Williamsburg resident again. In those intermittent years away, I never left Williamsburg though. I worked at restaurants on Metropolitan and Berry Street. I worked at Teddy's Bar and Grill. I do remember the New Kings Democrats, of which Lincoln Restler is a proud founding member, using the back room of Teddy's for meetings. We the workers never did engage in discourse with the New Kings though, which I wish we had.
+
+I would have said to them, as I say now, that the argumentation back and forth about a baseline income of nearly 80K and a baseline number of affordable units within a luxury building is bogus. These quantitative questions do not answer the question of how to effectively pull at the root of the housing crisis.
+
+Gotham and other developers are the root of the housing crisis themselves. I want to see more social housing owned by the City, akin to the programs in Vienna, Austria as well as Singapore. In Singapore, it turns renters into homeowners. I cannot go too much into it, so I ask all workers to turn into working class heroes by reading up on successful social housing programs that provide a quality of life we do not see currently with the public housing program provided by New York City.
+
+It is not impossible for a government to truly take care of you and your housing and see housing as your human right. I urge you, Lincoln Restler, to defend and promote progressive housing practices exclusively. If not now, when? Let us stop prioritizing private developers. Thank you.
+
+**(04:22:06)**
+
+
+
+Sandra, you beat the clock. All right, last call for Catherine. I believe your last name is... or Lauren, last call. All right, this panel is now excused. We are going to call the next panel: Angela Howard, Jessica Katz, Anissa Pugh and Alice Huang. The next panel is Angela Howard, Jessica Katz, Anissa Pugh and Alice Huang. We will start with Angela Howard.
+
+**(04:22:37)**
+
+
+
+Good afternoon, Madam Chair. I am here in support of Monitor Point and I am here from the perspective of a not-for-profit partner. I spent five years at Covenant House International where, as Senior Vice President of Real Estate and Facilities, my work centered on one thing: ensuring that young people experiencing homelessness had safe, stable, dignified places to live.
+
+From a real estate perspective, that work required partners who understood that mission was not negotiable, and that when timelines got tight and the budgets got tight, the people being served could not be the ones who absorbed the loss.
+
+The Gotham Organization was that partner for us. Our collaboration on the new Covenant House New York West 41st Street project delivered 120 new housing beds. They operate when the work is genuinely difficult. We had a team that stayed focused on the project's intended outcomes, found solutions and delivered. They never quietly walked back on any of their commitments.
+
+That experience shaped how I look at developer promises. When I look at what Gotham is proposing at Monitor Point — 400 permanently affordable homes, units as low as 40% AMI and 50,000 square feet of public waterfront open space — I recognize the same orientation towards public purpose that we experienced in our project.
+
+Responsible waterfront development is not just about what can be built, but how the public realm is treated, how environmental obligations are taken seriously and whether the long-term stewardship commitment is real. Monitor Point as structured reflects those standards. The open space is publicly accessible and maintained by the developer, the environmental work is substantive and the... gets a modern facility and long-term revenue.
+
+These are not performative commitments. I have seen Gotham deliver for some of the most vulnerable people in the City and I am confident they will deliver for Greenpoint. I urge your support.
+
+**(04:24:47)**
+
+
+
+Now we are going to hear from Jessica Katz.
+
+**(04:24:50)**
+
+
+
+You begin, Jessica Katz.
+
+**(04:24:53)**
+
+
+
+Hello everybody. Good afternoon. Thank you to all the members of the Subcommittee for the opportunity to speak to you today. My name is Jessica Katz. I previously served as New York City's Chief Housing Officer and I also spent more than a decade at HPD working on affordable housing.
+
+I have had the privilege of working with the City Council to help solve our ongoing housing crisis and I want to thank you all for your service to the City. Some of you will remember me from these hearings in my HPD and City Hall days, but I have not been back since I left government. I am coming out of retirement today because this project is just that important.
+
+I am here today to speak in support of Monitor Point. New York has a housing shortage that falls hardest on working class families. People who grew up here, work here and are being priced out of neighborhoods that they have lived in for generations. Monitor Point delivers approximately 460 affordable apartments out of roughly 1,150 total homes, with a substantial share targeted to households at 40 to 60% of AMI, on a waterfront site in north Brooklyn. That level of affordability is genuinely hard to achieve.
+
+What also distinguishes Monitor Point is that it does not ask the City to choose between housing and other priorities. It combines deeply affordable homes with climate resiliency, environmental remediation, new public waterfront access, transit infrastructure development and the full realization of Box Street Park, all on a site that is currently a truck depot.
+
+No project solves the housing crisis all on its own, but when a proposal delivers this level of affordability and public investment, I urge the Council to support Monitor Point. Thank you for your time.
+
+**(04:26:33)**
+
+
+
+Thank you so much. Anissa, you begin.
+
+**(04:26:37)**
+
+
+
+Good afternoon, Chair Louis, Subcommittee members. My name is Anissa Pugh and I represent Dr. A.R. Bernard and Christian Cultural Center. I am also a proud member of Christian Cultural Center. I am here to express my strong support for the Monitor Point development.
+
+Our church has deep roots in this part of Brooklyn. Long before the skyline began to change, our congregation was serving families right here, providing spiritual guidance for generations of New Yorkers. We witnessed firsthand the transformation that followed the 2005 rezoning. While it brought investment and growth, many long-standing residents were left behind as housing costs surged beyond their reach.
+
+This is why Monitor Point matters. This project represents a meaningful step towards restoring balance. It will deliver deeply affordable housing for families who have been priced out or pushed to the margins — people who deserve the opportunity to remain in the community they helped build. This is not just about housing units. It is about equity, dignity and inclusion.
+
+We are particularly encouraged by the Gotham Organization's track record. Through their urban village approach, they have demonstrated that it is possible to create developments that are not only financially viable but also socially impactful — places where mixed-income communities can thrive together, where residents have access to amenities, open spaces and supportive services.
+
+Monitor Point reflects many of these same values, from its commitment to affordability to its integration with the waterfront to the creation of public spaces that can be shared by the broader community. This is the kind of thoughtful, inclusive development our City needs more of.
+
+I also want to highlight the importance of diversity along the waterfront. For too long, access to these spaces has not reflected the full diversity of our borough. Monitor Point helps change that, creating a place where families from all backgrounds can live...
+
+**(04:28:42)**
+
+
+
+Thank you, Anissa. Now we will hear from Alice.
+
+**(04:28:45)**
+
+
+
+You begin. Good afternoon. My name is Alice Song and I am the Chief of Staff at Chinese American Planning Council. Every year we support over 80,000 community members across every zip code in the City.
+
+A decade ago, our Board of Directors decided to develop a parking lot we own in Lower Manhattan where the organization was founded. Our Board of Directors chose the Gotham Organization as a developer and they have been a steadfast partner. As someone who was born and raised in the Lower East Side in affordable housing, their presence has been a community benefit to our neighborhood.
+
+Our engagement with the community during our development project stretched a year before the ULURP process started and continued with monthly updates during our construction period. Feedback from both the community and our elected official partners was incorporated into the project. Together we created over 200 affordable housing apartments, a cultural space for the... synagogue and a permanent home for...
+
+Gotham worked with the Lower East Side Employment Network to employ people from our community during our construction period and hosted one of our interns in their office. Communities can be strengthened when government, communities and the private sector work together. We support the Monitor Point project. Thank you.
+
+**(04:30:00)**
+
+
+
+Any questions for this panel? All right, this panel is now excused. We will now hear from Leo Guttman, Mark Graziano, Ryan McCain and Erin Drinkwater. We will start with Leo Guttman.
+
+**(04:30:18)**
+
+
+
+You begin. Thanks for having me speak today. I am here to speak in support of Monitor Point. This is an area I visit very regularly — I live in Long Island City — and I would say there are a lot...
+
+**(04:30:38)**
+
+
+
+Leo, sorry to interrupt you. Did you testify already? Not for this one. I spoke...
+
+**(04:30:45)**
+
+
+
+earlier for the other one. Okay, my apologies. Yeah. So, I visit the waterfront area regularly and to me there are a lot of, you know, favorable points to this project. I like having waterfront access and new public spaces. I like that this helps support and create a permanent home for the museum, and most importantly that it delivers affordable housing in a transit-accessible area. To me those are all really positive points, and the fact that you can achieve that at deep affordability levels for many of the units is also a huge win.
+
+I really appreciate the expert testimony today that spoke to the track record on projects like this and explained why some of the questions about affordability levels can be too simplistic. If we are able to negotiate higher levels of affordability I support it, but I also support it as it stands today. To me this is a great project and I want to see it happen. Thank you.
+
+**(04:32:03)**
+
+
+
+Thank you, Leo. Now we will hear from Mark. You begin.
+
+**(04:32:07)**
+
+
+
+Good afternoon. My name is Mark Graziano and I am here today in support of the Monitor Point project. I know what it takes to deliver real benefits... Mark, we cannot really hear you. Can you put up the volume if you can? I will start you over again. How is that? Sorry. Can you hear me?
+
+**(04:32:30)**
+
+
+
+If you could maybe put up the volume either in your headphones or your computer... it is still... How is that? That is perfect.
+
+**(04:32:45)**
+
+
+
+You begin. Good afternoon, sorry about that. Good afternoon. My name is Mark Graziano and I am here today in support of the Monitor Point project. I know what it takes to invest in the community and this proposal stands out because it delivers real benefits for Brooklyn residents and local businesses alike. At a time when New York's housing crisis is pushing people out of the neighborhoods they serve, Monitor Point creates approximately 1,150 new homes...
+
+**(04:33:12)**
+
+
+
+...including around 460 permanently affordable units for working families earning 40 to 60% AMI. This will strengthen the local economy. It will generate nearly one billion dollars in construction-related economic activity, create hundreds of union jobs in construction and support permanent jobs in retail, restaurants and property management once it is complete.
+
+Just as importantly, the project transforms an outdated industrial site into publicly accessible waterfront space that reconnects Greenpoint and Williamsburg and brings more foot traffic to local businesses. The reality is simple: if we want to prevent displacement and support a thriving Brooklyn economy, we need to build more housing, especially affordable housing. I urge the City Council to approve Monitor Point. Thank you.
+
+**(04:33:53)**
+
+
+
+Thank you. We will now hear from Ryan. Ryan McCain? All right, now we will hear from Erin Drinkwater. You begin.
+
+**(04:34:14)**
+
+
+
+Hi, good afternoon. My name is Erin Drinkwater. I am here today to support the Monitor Point application. I want to just raise some numbers. I know the committee has heard a lot of testimony today. I was a former Deputy Commissioner at the Department of Homeless Services under the de Blasio administration and I saw firsthand the impacts of our housing crisis.
+
+Greenpoint is a neighborhood of broken promises since the 2005 rezoning, and while this project is not perfect, it certainly is a step in the right direction to address some of the concerns with displacement and affordable housing in the City. Last night, thousands spent their night in shelter for the first time. A hundred families went to PATH seeking shelter, and that number of 100 families is pretty regular, day over day.
+
+I appreciate the long-standing fight that the Council Member put forward and fully agree that we need to continue to press for more affordable units. But to delay this project or for the Council to vote this project down would be a huge disservice to New Yorkers. The Mayor released a housing plan yesterday. Hopefully we will be able to take advantage of some of those new tools, but we have an opportunity here to take advantage of land that was otherwise not used for housing, in the same way that the 2005 rezoning produced housing, except now we have many more tools at our disposal to increase the number of affordable units in the project.
+
+I urge the Council to support the project. I have submitted testimony for your review and look forward to working on this project. Thank you.
+
+**(04:36:12)**
+
+
+
+Ryan, if you can hear me, please press star six so you can testify. That is for Ryan McCain. If you can hear us, please press star six so you can testify.
+
+**(04:36:29)**
+
+
+
+Yeah, well, I am sorry about that.
+
+**(04:36:31)**
+
+
+
+There you go. You begin.
+
+**(04:36:33)**
+
+
+
+Great. Yeah, I just wanted to call in and submit my support for this development. You know, there is a great need for units in the area. Rents have been ridiculous the last five years and 400 to 500 affordable units is, in my opinion, a good addition to the community. Thank you. Thank you. This panel is now excused.
+
+**(04:36:57)**
+
+
+
+We will now hear from John Murs, Andrew Mandelbaum, Stephanie Andrews and Dan Merlo. John Murs, Andrew Mandelbaum, Stephanie Andrews and Dan Merlo. We will start with John Murs. You begin.
+
+**(04:37:16)**
+
+
+
+Hello. Thank you, Chair Lewis and CM Restler. I am the priest of the oldest church in Greenpoint, Brooklyn — the Church of the Ascension, founded in 1846, which was incidentally actually built by the owner of the Monitor. I am here today to voice my support for the Monitor Point project. I support achieving the most significant number of affordable housing units possible, particularly at AMI levels that would allow ordinary working people a real chance to remain in the community of which they are already a part. I hope that the developer, the Council and the Mayor's office can work together to in fact reach the highest possible threshold of units at the lowest possible AMI bands.
+
+As priest of this church for 17 years, I have watched this happen again and again. Young people in the community fall in love with the neighborhood, or they are in the neighborhood, they find partners, they have children, they want to remain here, and then they discover that despite working hard and contributing to the community, they cannot afford to stay. We all know there is a serious affordability crisis in New York City. In our local area, affordability was one of the defining issues in the last mayoral election because people feel this pressure on their everyday lives. In some ways the issue took on almost theological significance, raising the question of whether there would continue to be room at the inn in this city, and for whom, and what kind of people that room would be available.
+
+What stands out to me about this project is not only the number of affordable units but the fact that lower bands would make these apartments accessible to ordinary working families. That means hundreds of people having the opportunity to grow their roots, raise children, remain connected to schools, churches, friendships and the wider life of the neighborhood. As the pastor of a local congregation, I believe that community stability and coherence, together with a diversity of incomes, stories, backgrounds and experiences, contribute to the vitality and richness of the tapestry of this neighborhood. The first sermon I ever preached in this church went from "why we can" to "how we can do."
+
+**(04:39:24)**
+
+
+
+You can submit the rest of your testimony online. Now we will hear from Andrew Mandelbaum. You may begin.
+
+**(04:39:29)**
+
+
+
+Hi, my name is Andrew Mandelbaum. Can you hear me? Yes.
+
+**(04:39:34)**
+
+
+
+You may begin, sorry.
+
+**(04:39:36)**
+
+
+
+My name is Andrew Mandelbaum. I am a third-generation New Yorker. Both of my parents and all four of my grandparents grew up in Brooklyn, and I care deeply about the community. Today I am here to support the Monitor Point project. The project will bring nearly a billion dollars in construction-related economic activity alone. It is hundreds of well-paying union jobs over the multi-year build, and once the project is complete, approximately 70 permanent on-site jobs in retail, restaurants, property management and the service sector.
+
+Monitor Point brings 1,100-plus homes, including 460 permanently affordable homes, which strengthens the entire business ecosystem. The project adds 50,000-plus square feet of new public waterfront space, finally connecting Greenpoint to Williamsburg, and it does so by removing an outdated facility that walls off the waterfront. More people will be walking, biking and spending time in Brooklyn, and that is good for the borough's economy.
+
+The site has been zoned for residential use since 2005. It is past time to make this project happen. Mayor Mamdani is committed to maximizing affordable housing production across the five boroughs, and I think Monitor Point is exactly the kind of project that delivers on that promise. If we pass on projects like this, we are not protecting the neighborhood — we are just making it more expensive, paving the way for another developer to put in less affordable housing. I urge the City Council to approve Monitor Point.
+
+**(04:40:46)**
+
+
+
+Thank you. We will now hear from Stephanie Andrews. You may begin.
+
+**(04:40:50)**
+
+
+
+Hi, my name is Stephanie Andrews. I am a current resident of Williamsburg and I am here to support Monitor Point. Affordable housing has been a very important topic among senior Council members, and I wanted to expand on that as it pertains to the income levels and rents of families in the current market. What is deemed as affordable is not actually affordable for many. The new units the market has traditionally come with an income requirement of earning 130% AMI. As an example, for a three-person household in a two-bedroom apartment, this is an adult income of about $190,000 and a monthly rent starting at $4,700, which is not realistic for many families.
+
+**(04:41:29)**
+
+
+
+Monitor Point is 460 permanently affordable homes. So the bulk of the units — actually at the AMI level that I was mentioning — are out of reach for many families. Using that same three-person household in a two-bedroom apartment example, the current income requirement falls to $87,000 at the 60% AMI bracket and $58,000 at the 40% AMI bracket, with rents of $2,200 and $1,400 respectively, which are actually realistic amounts that will benefit many families.
+
+Additionally, the number of affordable units that will be added by Monitor Point is 40% of the total unit count, compared to the 22 to 25% that buildings in the area have traditionally included, which is a substantial addition to the affordable housing market. So for these points alone I give my support to Monitor Point, and I hope that you can move forward to approve the proposal. Thank you for your time.
+
+**(04:42:23)**
+
+
+
+Miller.
+
+**(04:42:23)**
+
+
+
+We will begin with Dan Miller. Hi, my name is Dan Miller. I am a resident of Astoria and I am in the neighborhood regularly, and I fully support the Monitor Point project. In particular, I just want to raise the issue of who these units are for.
+
+CM Restler spoke earlier and he sounded dismayed that only 15% of the units are preserved for district residents. I say that 100% of these units will go to people who will be residents of the district after they move in. I am not sure why the Council member is being so hostile to his future constituents. I think it is bad form. I think it is unfortunate and I think it is frankly anti-New York. We are a city that has been a haven, a city that has been a place where anyone who wants to live here can. If you want to move to New York, you are a New Yorker, and we are doing a terrible job living up to that reputation by failing to build enough housing for the people who want to live here. We are the greatest city in the world and people want to live here, and we are not building enough to make room for them.
+
+That is shameful. We can do better, and I think that building Monitor Point is one step towards doing better on that. We can make this city and the world a better place by just giving people a place to live in the place where they want to live. Do not condemn people to having to move outside of New York. Let us make room for everyone who wants to be a New Yorker and let us build this project. Thank you.
+
+**(04:44:15)**
+
+
+
+Thank you, Dan. This panel is now excused. The next panel is Luke Levanway, Lindsay McCormick, Jonathan Suarez and Remi Ziff. Luke Levanway, Lindsay McCormick, Jonathan Suarez and Remi Ziff. We will now hear from Luke. You may begin.
+
+**(04:44:36)**
+
+
+
+My name is Luke Levanway. I have lived in New York City for 14 years. Currently I live in Fort Greene, Brooklyn. I believe it is very clear that what is right for the borough and the City is to approve the Monitor Point proposal. The proposal would deliver more than 400 affordable homes where today there are zero, plus additional public waterfront park space where today there is only a dilapidated industrial facility. It is hard to imagine another way of realizing this level of community benefit at this location without drawing upon the severely limited public funds available.
+
+We should keep in mind that to vote against a proposal is to vote in favor of the status quo. In this case, the status quo is zero homes and a waterfront which is closed to the public. The Monitor Point location is currently occupied by an industrial facility. What other proposal for this location delivers the millions of dollars of funding needed to move the facility? To deny this proposal in the middle of a housing crisis without a credible plan for something better would be a huge disappointment.
+
+To CM Lincoln Restler: if you vote against the proposal, I hope the Mayor, Borough President and Speaker of the Council will overturn your vote using the new appeals process established by the ballot proposals which were passed by voters last year. This is exactly the scenario the appeals process was meant for — a proposal that is clearly right for the borough and the City but resisted by local neighborhood residents who have secured housing for themselves and therefore do not personally feel the brunt of the housing crisis. I urge CM Restler to say yes to this housing and yes to this public waterfront space. To those who do not like tall towers, I urge you to join me in organizing to legalize apartment buildings of 6 to 8 storeys in every neighborhood of the City so we can solve the housing crisis for this generation and end the years-long grind of approval processes such as this one. Thank you.
+
+**(04:46:35)**
+
+
+
+Thank you. We will now hear from Lindsay. You may begin.
+
+**(04:46:38)**
+
+
+
+Good afternoon. Thanks so much for hearing all of us. I know it is not easy to sit through these long hearings. My name is Lindsay. I live in Jackson Heights, Queens. Unlike other panelists, I am not sure where I was conceived, but that is besides the point.
+
+I just wanted to express my support for this project. My family spends a lot of time on the Brooklyn-Queens waterfront. I want to echo what another speaker said today — this is an example of the kind of project that we can develop in other parts of the City. I recognize the waterfront has had a lot of development. We need development in central Queens and where I live. I think the 40% affordability is wonderful.
+
+I will close by saying I have heard wonderful things about the neighborhood that make me excited to come visit even more — the museum, the Inlet Park, which I think will thrive with more people being able to visit it and love it. Once you have checked the math on making sure you can maximize affordability while making the project sustainable, please do not delay this any further. Housing delayed is housing denied. Thank you so much.
+
+**(04:47:43)**
+
+
+
+We will now hear from Jonathan Suarez. You may begin.
+
+**(04:47:47)**
+
+
+
+Good afternoon, Chair and members of the Greenpoint community. My name is Jonathan Suarez. I am a proud lifelong New Yorker, born and raised in Queens — Elmhurst, Queens — almost 41 years ago now. I currently live in a 50% AMI affordable unit in Long Island City with my wife and our two teens, and I work in Brooklyn Community District 1, just a short bike ride away from the planned site of the Monitor Point project.
+
+I am speaking to you today in favor of the development on behalf of not just myself but on behalf of future residents who do not even know they are future residents yet. There are hundreds of low-income individuals and families who will qualify for and move into affordable units at Monitor Point who have no idea that this development is even being planned right now. Hundreds of thousands of New York City residents will read about Monitor Point for the first time when they are looking through Housing Connect and trying desperately to find buildings that accommodate their 50% AMI income level, like mine. They do not have a voice here, but I guarantee that with the deeply affordable units available, there are going to be tens of thousands if not hundreds of thousands of applicants on Housing Connect, and those voices speak louder to me than a petition with — I think it was mentioned — 5,000 to 6,000 signatures.
+
+I will never forget my log number for my building. It was just over 46,000. It means a great deal to me that we would put the wishes of 5,000 to 6,000 people ahead of the almost hundred thousand that are almost guaranteed to be applying for this building. I know that before we moved to Long Island City in 2023, we spent 14 years underhoused and rent-burdened, and I cannot overstate how much of a life-changing experience it has been to move into an affordable unit. The last thing I want to do is pull the ladder up behind me. I want as many people to be able to have the same experience that we have, living on the
+
+**(04:49:45)**
+
+
+
+waterfront and being able to afford to do so. So I strongly urge you to move ahead with this.
+
+**(04:49:50)**
+
+
+
+Time expired. Thank you. We will now hear from Remi Ziff. You may begin.
+
+**(04:49:54)**
+
+
+
+Hi, can you hear me?
+
+**(04:49:56)**
+
+
+
+Yes. You may begin.
+
+**(04:49:58)**
+
+
+
+Good afternoon. My name is Remi Ziff and I am here in strong support of the Monitor Point project. This project is a rare opportunity to deliver real public benefits for Greenpoint. It would create approximately 1,100 new homes, with about 40% — roughly 460 units — permanently affordable. That is a meaningful level of affordability, including homes for working families and households at a range of income levels, at a time when Brooklyn urgently needs more housing that people can actually afford.
+
+The project also brings major neighborhood investments beyond housing. It would create more than 50,000 square feet of publicly accessible waterfront, deliver shoreline resiliency, and provide a permanent home for The Greenpoint Monitor Museum, helping preserve and celebrate the area's maritime history. Monitor Point is the kind of project New York should be advancing — more affordable housing, more open space, cultural investment, infrastructure improvements and a stronger future for Greenpoint. Please vote yes on Monitor Point.
+
+**(04:51:03)**
+
+
+
+Thank you. This panel is now excused. We will now hear from Daniel Donovan. You may begin.
+
+**(04:52:00)**
+
+
+
+Thank you, everyone. My name is Daniel Donovan and I live in the neighborhood surrounding the proposed Monitor Point development. One of my favorite aspects of the neighborhood is the well-developed Williamsburg waterfront. Domino Park is a compelling example of how thoughtful redevelopment can activate a residential corridor while also generating broader economic benefits for the community. I am very excited by the project's potential to deliver 50,000 square feet of waterfront access, finally connecting Williamsburg and Greenpoint. The waterfront is a beloved amenity among local residents, and redevelopment of an obsolete building to expand this amenity would greatly enhance the neighborhood. Thank you.
+
+**(04:52:40)**
+
+
+
+Thank you. We will now hear from Lauren Mezzanotte, Andrew B. and N. Pinkett. You may begin.
+
+**(04:52:50)**
+
+
+
+So Lauren will go first. You may begin.
+
+**(04:53:02)**
+
+
+
+Lauren Mezzanotte. All right, now we will hear from Andrew B. You may begin.
+
+**(04:53:21)**
+
+
+
+Hey. You may begin.
+
+**(04:53:21)**
+
+
+
+My name is Andrew Barrocas and I am in favor of Monitor Point. I have been operating my business in Williamsburg for 25 years. We are at the base of the Edge in Williamsburg, and the idea of bringing more housing — both market rate and affordable — to the area is very needed. We definitely have a crisis on both sides. This project is currently planned as a condo project and will have $2 million one-bedrooms and $3 million two-bedrooms. That is not what we need. We need more rentals. Both market rate and affordable are impacted by the lack of inventory. It is straight supply and demand. The amount of affordable housing here at rents of $1,500 to $2,000 a month is exactly what the City needs to keep the diversity that makes New York what it is. So for all those reasons, both myself and everybody in my business definitely want Monitor Point to happen. Thank you.
+
+**(04:54:41)**
+
+
+
+Thank you. Lauren Mezzanotte, your time... All right, now we are going to hear from the next speaker. If you could please identify yourself. It seems someone dropped off. Hello, what is your name?
+
+**(04:55:08)**
+
+
+
+Darren Lippman. I am not sure why it did not populate something like that. Anyway, as a 2...
+
+**(04:55:16)**
+
+
+
+7-year resident of Brooklyn. Hold on one second. Can you please restate your name and then you can begin?
+
+**(04:55:22)**
+
+
+
+Yeah, Darren Lippman. Can you hear me?
+
+**(04:55:24)**
+
+
+
+We can hear you. It just says "iPhone." You may begin.
+
+**(04:55:29)**
+
+
+
+As a 27-year resident and North Brooklyn Community Boathouse member, I witnessed the 2005 rezoning process from its beginning to now. As a reminder, the rezoning was about increased heightened population density in exchange for community benefits: waterfront access, affordable housing and most importantly parks. 21 years later, we still do not have the already developer-funded, City-promised Box Street Park. The community should not be held hostage by this project for an already agreed-upon full park.
+
+As much as I disagree with many aspects of this project, I am here to fight for what I believe community organizations truly need: a boat ramp, one that is solely reserved for community organizations and volunteers who work on and support our waterways, from environmental remediation oversight, oyster repopulation, providing the public with human-powered boating opportunities and arts performances. The closest usable motorboat ramp is around eight miles away. We cannot miss this opportunity, especially because this inlet is one of the safe places to launch a boat. The inlet belongs to the community.
+
+This luxury building will become an ugly wall against the community's park and frankly should not be built on public land. It will stand beside a park that exists only because of the incredible hard work of the community, and that park will be apparently blighted by this monstrosity. I understand you are under intense pressure not to strike this project down, but the least you can do is secure a concession for a community organization boat ramp: a $1 million donation from the North Brooklyn Community Boathouse, along with stiff penalties. If agreed upon... I want the community boathouse written into this thing. A $1 million donation to the North Brooklyn Community Boathouse, along with stiff penalties, like all these promises these guys make. All these other developers did not finish all their obligations. This time we appreciate it.
+
+**(04:57:34)**
+
+
+
+We will now hear from N. Pinkett. We begin... okay, I think it dropped off. We will now hear from... you begin, Catherine G. Do not call. Okay, all right. If there are any members of the public who wish to testify regarding this proposal remotely, please press the raise hand button now. If you are in person, please identify yourself to one of the sergeants at arms. This is the last call. All right, that being... okay, give it 30 seconds.
+
+There being no members of the public who wish to testify regarding LU 0067 through 71 relating to the Monitor, the hearing is now closed and the items are now laid over. That concludes today's business. I would like to thank members of the public, my colleagues, and thank you CM Restler for sticking around to the end and doing a great job. You do not kill me in the press and say, "Oh, she was against me." Subcommittee counsel, land use counsel, staff and sergeant at arms.
