@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Parks and Recreation | Committee on Civil and Human Rights"
+committee: "Committee on Parks and Recreation | Committee on Finance | Committee on Civil and Human Rights"
 committee_slug: committee-on-parks-and-recreation
 title: "FY 2027 Executive Budget Hearing"
 date: 2026-05-27
