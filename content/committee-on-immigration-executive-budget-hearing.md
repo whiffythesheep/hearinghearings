@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Immigration | Committee on Children and Youth | Committee on Finance"
 committee_slug: committee-on-immigration
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-05-28
 slug: committee-on-immigration-executive-budget-hearing
 duration: "5hrs 51m"
