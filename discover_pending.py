@@ -11,10 +11,13 @@ already published or queued, the poller:
    ``gh``. Cloudflare Pages's branch-preview deployment becomes the
    review surface; merging the PR is the publish step.
 
-Idempotency: an event is "handled" iff its Legistar ID appears in any
-``content/*.md``'s ``council_url`` field on master, or an open PR
-already exists for ``pending/<event_id>``. The script reads both
-sources before queuing work.
+Idempotency: an event is "handled" iff (a) its Legistar ID appears in
+any ``content/*.md``'s ``council_url`` field on master, (b) an open PR
+already exists for ``pending/<event_id>``, or (c) it is another
+committee of an already-handled joint hearing — recognised by a shared
+recording fingerprint or a matching date+duration. Case (c) keeps joint
+hearings (one published page, several Legistar IDs) from re-queuing
+under their sibling committees' IDs.
 
 CLI:
 
@@ -118,6 +121,67 @@ def published_event_ids() -> set[str]:
         for m in _PUBLISHED_ID_RE.finditer(text):
             ids.add(m.group(1))
     return ids
+
+
+def _video_fingerprint(url: str | None) -> str | None:
+    """Shape-tolerant identity for a Viebit recording.
+
+    A joint hearing's committee events are separate Legistar records
+    (distinct IDs) that all link the same recording. The watch URL
+    surfaces in two shapes — ``/watch?hash=<hash>`` and
+    ``/vod/?...v=<file>.mp4`` — so we key on whichever is present. The
+    two shapes are not interconvertible without a network lookup, so a
+    hearing published under one shape won't match a calendar row in the
+    other; ``published_signatures`` also returns a date+duration set as
+    the backstop for that case.
+    """
+    if not url:
+        return None
+    m = re.search(r"[?&]hash=([A-Za-z0-9]+)", url)
+    if m:
+        return f"hash:{m.group(1)}"
+    m = re.search(r"[?&]v=([^&]+?\.mp4)", url)
+    if m:
+        return f"file:{m.group(1)}"
+    return None
+
+
+def _duration_to_minutes(text: str) -> int | None:
+    """Parse a stored ``duration`` like ``"5hrs 56m"`` into whole minutes."""
+    if not text:
+        return None
+    h = re.search(r"(\d+)\s*hr", text)
+    m = re.search(r"(\d+)\s*m(?:in)?\b", text)
+    if not h and not m:
+        return None
+    return (int(h.group(1)) if h else 0) * 60 + (int(m.group(1)) if m else 0)
+
+
+def published_signatures() -> tuple[set[str], set[tuple[str, int]]]:
+    """Recording fingerprints and (date, duration-minute) pairs already published.
+
+    Complements ``published_event_ids``: a joint hearing is published
+    under one committee's Legistar ID, so its *sibling* committees keep
+    re-appearing on the calendar under their own IDs. They share the
+    recording, so they share a video fingerprint and a date+duration.
+    """
+    fps: set[str] = set()
+    date_durs: set[tuple[str, int]] = set()
+    if not CONTENT_DIR.is_dir():
+        return fps, date_durs
+    for md in CONTENT_DIR.glob("*.md"):
+        try:
+            fm = parse_front_matter(md)
+        except OSError:
+            continue
+        fp = _video_fingerprint(fm.get("viebit_url", ""))
+        if fp:
+            fps.add(fp)
+        d = fm.get("date", "")
+        mins = _duration_to_minutes(fm.get("duration", ""))
+        if d and mins is not None:
+            date_durs.add((d, mins))
+    return fps, date_durs
 
 
 _PENDING_BRANCH_RE = re.compile(r"^pending/(\d+)\b")
@@ -370,8 +434,8 @@ def parse_args() -> argparse.Namespace:
              "beyond reading the calendar and duration probes.",
     )
     p.add_argument(
-        "--limit", type=int, default=1,
-        help="Maximum events to process this run (default: 1). Each event "
+        "--limit", type=int, default=3,
+        help="Maximum events to process this run (default: 3). Each event "
              "costs ~$0.30 and takes ~5–10 minutes.",
     )
     p.add_argument(
@@ -388,8 +452,17 @@ def main() -> None:
 
     events = list_calendar_events()
     published = published_event_ids()
+    pub_fps, pub_date_durs = published_signatures()
     pr_open = open_pr_event_ids()
     local_pending = local_pending_branch_event_ids()
+
+    # Recording fingerprint per calendar row, for joint-hearing sibling
+    # dedup: events already queued (open PR / local branch) and other
+    # survivors in this same run that share a recording must collapse to
+    # one, since each carries a distinct Legistar ID.
+    fp_by_id = {e["event_id"]: _video_fingerprint(e["video_url"]) for e in events}
+    pending_fps = {fp_by_id.get(i) for i in (pr_open | local_pending)}
+    pending_fps.discard(None)
 
     logger.info(
         "Calendar=%d | published=%d | open PRs=%d | local pending branches=%d",
@@ -398,6 +471,7 @@ def main() -> None:
 
     candidates: list[dict] = []
     skipped: dict[str, int] = {}
+    seen_fps: set[str] = set()
     for e in events:
         if e["event_id"] in published:
             skipped["already-published"] = skipped.get("already-published", 0) + 1
@@ -412,6 +486,18 @@ def main() -> None:
         if reason:
             skipped[reason] = skipped.get(reason, 0) + 1
             continue
+        fp = fp_by_id.get(e["event_id"])
+        if fp and fp in pub_fps:
+            skipped["sibling-published"] = skipped.get("sibling-published", 0) + 1
+            continue
+        if fp and fp in pending_fps:
+            skipped["sibling-queued"] = skipped.get("sibling-queued", 0) + 1
+            continue
+        if fp and fp in seen_fps:
+            skipped["sibling-same-run"] = skipped.get("sibling-same-run", 0) + 1
+            continue
+        if fp:
+            seen_fps.add(fp)
         candidates.append(e)
 
     # Duration check (slow-ish; do after cheap filters).
@@ -432,6 +518,18 @@ def main() -> None:
                     "  drop %s (%s) — duration %d:%02d under threshold",
                     e["event_id"], e["body_name"][:40],
                     secs // 60, secs % 60,
+                )
+                continue
+            mins = round(secs / 60)
+            if any((e["event_date"], mins + d) in pub_date_durs
+                   for d in (-1, 0, 1)):
+                skipped["sibling-published-dur"] = (
+                    skipped.get("sibling-published-dur", 0) + 1
+                )
+                logger.info(
+                    "  drop %s (%s) — date+duration matches a published "
+                    "hearing (joint-hearing sibling)",
+                    e["event_id"], e["body_name"][:40],
                 )
                 continue
             e["_duration_s"] = secs
