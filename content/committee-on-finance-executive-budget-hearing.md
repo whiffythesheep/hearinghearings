@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance | Committee on Public Safety | Committee on Fire and Emergency Management"
 committee_slug: committee-on-finance
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-01
 slug: committee-on-finance-executive-budget-hearing
 duration: "7hrs 15m"
