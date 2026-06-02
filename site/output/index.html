@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 36 of 36</span>
+            <span id="hearing-count" aria-live="polite">Showing 37 of 37</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -220,6 +220,11 @@
                     </button>
                     <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
                         <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-06">
+                            <span>June 2026</span>
+                        </label>
                     
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="2026-05">
@@ -297,6 +302,11 @@
                         </label>
                     
                         <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Fire and Emergency Management">
+                            <span>Committee on Fire and Emergency Management</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
                             <input type="checkbox" value="Committee on General Welfare">
                             <span>Committee on General Welfare</span>
                         </label>
@@ -357,6 +367,11 @@
                         </label>
                     
                         <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Public Safety">
+                            <span>Committee on Public Safety</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
                             <input type="checkbox" value="Committee on Rules, Privileges, Elections, Standards and Ethics">
                             <span>Committee on Rules, Privileges, Elections, Standards and Ethics</span>
                         </label>
@@ -394,6 +409,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Finance", "Committee on Public Safety", "Committee on Fire and Emergency Management"]'
+                data-title="Executive Budget Hearing"
+                data-month="2026-06">
+                <a href="/hearings/committee-on-finance-executive-budget-hearing/">
+                    <time class="hearing-row__date" datetime="2026-06-01">
+                        June 1, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Finance | Committee on Public Safety | Committee on Fire and Emergency Management</span>
+                    <span class="hearing-row__title">Executive Budget Hearing</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -946,7 +974,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 36;
+        var totalHearings = 37;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
