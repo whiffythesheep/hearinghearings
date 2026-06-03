@@ -2525,9 +2525,11 @@ def main():
             title = video_info.get("title", "council_meeting")
             title = clean_youtube_title(title)
 
-        combined_for_slug = f"{primary_committee}, {title}" if primary_committee else title
-        slug = slugify(combined_for_slug)
         date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
+        combined_for_slug = f"{primary_committee}, {title}" if primary_committee else title
+        # Fold the meeting date into the slug so two same-committee, same-title
+        # hearings (common during budget season) don't collide and overwrite.
+        slug = f"{slugify(combined_for_slug)}-{date_str}"
         youtube_url = args.youtube_url or ""
         viebit_url = args.viebit_url or ""
         duration = format_duration(video_info.get("duration", 0))
