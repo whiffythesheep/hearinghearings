@@ -2122,6 +2122,25 @@ def publish_to_website(web_content, slug, title, committee="",
     combined_title = f"{primary}, {title}" if primary else title
 
     web_path = WEBSITE_CONTENT_DIR / f"{slug}.md"
+
+    # Guard against silently clobbering a different hearing that happens to
+    # share this slug. With the date folded into the slug this should never
+    # fire, but if it does the two hearings have different dates and one would
+    # be lost, so abort rather than overwrite.
+    if web_path.exists():
+        def _slug_date(text):
+            m = re.search(r"^date:\s*(\S+)", text, re.MULTILINE)
+            return m.group(1) if m else None
+        existing_date = _slug_date(web_path.read_text(encoding="utf-8"))
+        new_date = _slug_date(web_content)
+        if existing_date and new_date and existing_date != new_date:
+            logger.error(
+                f"Slug collision: {web_path.name} already exists for "
+                f"{existing_date} but this hearing is dated {new_date}. "
+                f"Refusing to overwrite. Re-slug one of them before publishing."
+            )
+            sys.exit(1)
+
     with open(web_path, "w", encoding="utf-8") as f:
         f.write(web_content)
     logger.info(f"Markdown saved to: {web_path}")
