@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Oversight and Investigations | Committee on Finance"
 committee_slug: committee-on-oversight-and-investigations
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-02
 slug: committee-on-oversight-and-investigations-executive-budget-hearing-2026-06-02
 duration: "1hr 14m"
