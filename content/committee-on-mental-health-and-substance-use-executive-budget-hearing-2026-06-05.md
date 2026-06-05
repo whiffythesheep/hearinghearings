@@ -1,0 +1,4801 @@
+---
+committee: "Committee on Mental Health and Substance Use | Committee on Finance"
+committee_slug: committee-on-mental-health-and-substance-use
+title: "Executive Budget Hearing"
+date: 2026-06-05
+slug: committee-on-mental-health-and-substance-use-executive-budget-hearing-2026-06-05
+duration: "6hrs 23m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260605-101221.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415403&GUID=74897BCE-B25F-4889-A3CB-9893D70E80FB&Search="
+chairs: "Tiffany L. Cabán | Linda Lee"
+members: "Shirley Aldebol, Joann Ariola, Simcha Felder, Ty Hankerson, Linda Lee, Althea V. Stevens"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Mental Health and Substance Use, chaired by Tiffany Cabán, held a joint FY2027 Executive Budget hearing with the Committee on Finance on June 5, 2026, covering the Department of Health and Mental Hygiene and NYC Health and Hospitals. The hearing ran for what was effectively a full-day session, with testimony from DOHMH Commissioner Dr. Alistair Martin and H+H President Dr. Mitch Katz. The backdrop was grim: federal funding retractions under HR One and expiring COVID-era grants are carving significant holes in both agencies' revenue bases, and hundreds of thousands of New Yorkers face imminent loss of Medicaid or Essential Plan coverage. Against this, the City is making targeted new investments, but the sums involved are modest relative to the exposure.
+
+Commissioner Martin framed DOHMH's priorities around stabilizing core services, positioning public health as an affordability issue, and making the department's work more visible to the public. Notable new investments include a $20 million childhood asthma initiative concentrated in the Bronx, a $20 million expansion of the Nurse-Family Partnership, a new gender-affirming hormone therapy clinic at Corona, and the baselining of the syringe redemption pilot, which collected over a million syringes in its first year. The restoration of New York State's Article 6 matching rate to 36 percent for NYC — reversing a long-standing inequity — was described as a major fiscal win worth tens to hundreds of millions of dollars over time. On the federal threat side, the expiration of COVID-19 and ELC grants by July 31 prompted a $17.6 million city investment in disease outbreak resilience, though Council Members pressed hard on whether this truly replaces what is being lost. Roughly 230,000 New Yorkers are expected to lose Essential Plan coverage by July 1, with up to 500,000 more at risk under new Medicaid work requirements starting January 2027. DOHMH's response — 30 community health workers, 10 enrollment specialists, and a $500,000 advertising campaign — is real but plainly undersized relative to the crisis.
+
+On mental hygiene, the hearing surfaced persistent structural frustrations. Waitlists for Assertive Community Treatment and related mobile treatment teams total around 600 people, yet the executive budget does not expand capacity, only baselines existing funding. The future of the Office of Community Safety — absorbing $269.6 million and 126 positions beginning FY28, and taking over the Office of Community Mental Health — drew sharp scrutiny from Council Members who found the operational model vague and the relationship between coordinating agencies unclear. B-HEARD, the co-responder mental health program, remains in organizational limbo: originally intended to move fully to H+H, that plan was dropped, and no new permanent home has been determined. Dr. Katz candidly identified the core operational problem — the program requires two ambulances per call, straining paramedic capacity — which at least explains why it has been so hard to scale. The Teen Space telehealth psychiatry program, with 45,000-plus registrations over three years, is heading for reprocurement as its current contract expires; DOHMH confirmed it will bridge the gap while a new contract is developed.
+
+Dr. Katz offered a financially stable picture for FY2026 but was candid about the cliff edge ahead: H+H projects operating losses in FY2028 through 2030 driven by Medicaid cuts, with 52,000 to 60,000 of its own patients at risk of losing coverage. The Maimonides merger remains stuck in regulatory process, costing $9 million per month in lost upper payment limit funding. The Bellevue outpost therapeutic unit for incarcerated patients was presented as a genuine success story, running at over 90 percent occupancy with reduced transport costs. The long-deferred Far Rockaway trauma center ($200 million capital cost) was reaffirmed by Dr. Katz, who noted the average travel time to the nearest Level 1 or 2 trauma center from the Rockaways is around 40 minutes in normal traffic — an unambiguous case for investment that has nonetheless not moved to construction.
+
+Numbers
+
+- $2.64 billion: DOHMH total FY2027 Executive Budget, representing 2.1 percent of the City's total proposed budget.
+- 3.9 percent: increase in DOHMH Public Health budget from the Preliminary to the Executive Plan.
+- $500 million: total federal funding in DOHMH's budget, approximately 20 percent of its total.
+- $23.8 million: reduction in federal funding already reflected in the FY2027 executive plan.
+- $17.6 million: City investment in disease outbreak resilience to replace expiring COVID-19 and ELC federal grants, of which $11.3 million is the City-funded portion.
+- 233,000: NYC residents expected to lose Essential Plan coverage by July 1, 2026, due to federal eligibility changes.
+- 500,000: additional NYC residents at risk of losing Medicaid under new work requirements and six-month recertification rules beginning January 2027.
+- $4.6 million: investment in 30 community health workers and 10 insurance enrollment specialists to assist with Medicaid and Essential Plan re-enrollment.
+- $20 million: investment in childhood asthma programs in the Bronx, including $8.9 million for the Bronx Asthma Program and Center and $11.1 million to expand school-based case management to 15 additional schools.
+- $20 million: investment expanding the Nurse-Family Partnership to include all pregnant people, not just first-time mothers; the program currently serves 2,000-plus people annually with zero pregnancy-related deaths among participants.
+- $5 million: annual baseline funding for abortion access services, including $1 million for the Abortion Access Hub (which has answered approximately 10,000 calls and referred 8,000 patients, with roughly 25 percent of callers from outside New York City) and approximately $4 million for medication abortion at public health clinics.
+- $4 million: investment in sexual health clinics, including a new QuickiExpress rapid testing clinic at Morrisania.
+- 17 percent: increase in new HIV diagnoses in 2024 compared to 2023, reversing pre-pandemic declines; 86 percent of new diagnoses were among Black or Latino individuals.
+- 600: approximate total waitlist for mobile treatment teams (ACT, FACT, and First FACT combined), with no new capacity funded in the executive budget.
+- $12 million: opioid settlement funds to support peer workforce development, targeting 500 additional peers employed over four years.
+- $269.6 million and 126 positions: Office of Community Safety budget beginning FY2028, which will absorb the Office of Community Mental Health.
+- $26 million over three years: expiring contract for Teen Space telehealth psychiatry program, which has had 45,000-plus registrations since inception.
+- 120: current operational Justice-Involved Supportive Housing units, against a target of 350.
+- $784 million: H+H projected cash on hand at close of FY2026 (22 days of cash), with a positive operating margin of $130 million.
+- 52,000 to 60,000: H+H patients projected to lose Essential Plan coverage due to federal changes, against a citywide estimate of approximately 200,000 by July 1.
+- $9 million per month: lost upper payment limit funding due to delay in the Maimonides merger, with $4 billion in total State money contingent on the merger's completion.
+- $200 million: confirmed capital cost estimate for the Far Rockaway trauma center; average travel time to the nearest Level 1 or 2 trauma center from the Rockaways is approximately 40 minutes.
+- 7,000-plus: incarcerated patients currently served by H+H correctional health, up roughly 15 percent year-over-year from approximately 6,000.
+- 95 patients at over 90 percent occupancy: Bellevue outpost therapeutic unit, which opened April 8, 2026, with an $8 million annual budget.
+- 130,000: NYC Care enrollees, up approximately 10,000 year-over-year, with 10,000 additional enrollees anticipated due to coverage displacement.
+
+Action Points
+
+- DOHMH to provide the total budget figure for the 13 baselined clubhouses as a follow-up to the committee.
+- DOHMH to share the link to the State Office of Mental Health's dynamic dashboard on Kendra's Law data broken down by borough.
+- DOHMH Commissioner to explore whether funding can be secured for smaller clubhouses previously supported by City Council discretionary funds, ahead of budget adoption.
+- DOHMH to provide follow-up on the timeline for reopening the Crown Heights sexual health clinic, identified by the Commissioner as a top priority.
+- DOHMH to release the Office of Health Care Accountability annual report by August 1, 2026.
+- DOHMH to release a new Teen Space procurement concept paper and issue a new contract before end of year, bridging with an extension of the current contract.
+- DOHMH to begin new data collection on eviction filings in supportive housing starting July 2026.
+- DOHMH Executive Deputy Commissioner to engage with the Council on the outpatient competency restoration pilot and review available evidence.
+- DOHMH to share findings from the opioid settlement listening tour with the committee.
+- H+H to share its financial model projecting the impact of Medicaid and Essential Plan coverage losses with the Council.
+- H+H to invest in expanded navigator staffing to assist patients with Medicaid re-enrollment during the recertification process.
+- H+H to provide the committee with information on which H+H sites will operate the new maternal health programs funded by the $513,000 allocation.
+- H+H to pursue completion of the Maimonides equity assessment so the merger can proceed to the State Public Health Planning Committee.
+- H+H to open a psychiatry residency at Kings County Hospital and a family practice residency at Metropolitan Hospital.
+- H+H to follow up with capital planning staff on the nearly three-year outage of the pediatric X-ray room at Jacobi Hospital and provide the committee with a resolution timeline.
+- Fire Department to be asked separately to answer questions on B-HEARD team locations, dispatch and triage criteria, and operational structure, as it was not present at the hearing.
+- Dr. Katz to invite Council Members to visit the Bellevue outpost therapeutic unit.
+
+## Full Transcript
+
+**(00:00:22)**
+
+
+
+Good morning. Good morning. On Finance, joint with the Committee on Health, Committee on Mental Health and Substance Use and the Committee on Hospitals. At this time, please silence electronics and do not approach the dais. Again, please do not approach the dais. If you need assistance, please contact the Sergeant at Arms. Thank you for your cooperation. Chairs, you may begin.
+
+**(00:00:56)**
+
+
+
+All right. Good morning, everyone and welcome to the eighth day of the Fiscal Year 2027 Executive Budget Hearings. I am a Council Member and today we will be hearing from the Department of Health and Mental Hygiene, Public Health section, followed by the Department of Health and Mental Hygiene for Mental Hygiene. I am pleased to be joined by our Speaker, Speaker Menin, and my colleague, Chair of the Committee on Health, CM Lynn Schulman. We have been joined today by CM Narcisse, CM Ariola and CM Felder, who are on Zoom, as well as CM Marte, CM Won, CM Cabán and CM De La Rosa. Welcome to our Commissioner, Dr. Alistair Martin.
+
+So welcome, Commissioner, to you and your team for being with us this morning and thank you all for answering our questions today. On May 12, 2026, the administration released the Executive Financial Plan for Fiscal Year 2027 through 2030. The proposed Fiscal Year 2027 budget for the Department of Health and Mental Hygiene's Public Health section represents 2.1% of the administration's proposed budget in the Executive Plan. This is an increase of 3.9% from what was originally budgeted in the Preliminary Plan. This increase results from several actions, mostly tied to an additional $17.6 million for disease outbreak resilience, $12 million for the Mobile Food Vending expansion, $7.2 million for waste management and $4 million for sexual health clinics. As of April 2026, the Public Health section head count was 202 less than their Fiscal Year 2026 budget head count. In the Fiscal Year 2027 Preliminary Budget hearing we raised concerns regarding disease prevention and treatment, chronic disease prevention, health equity and immunization programs.
+
+We were pleased to see that many of these priorities were reflected in the Executive Plan. At the same time, this budget hearing comes at a period of significant uncertainty for public health agencies across the country. Federal funding that supported critical disease surveillance, laboratory capacity and emergency preparedness efforts is beginning to expire, while public health departments are simultaneously being asked to respond to emerging infectious diseases, rising chronic disease burdens and increasing health care access challenges. That is why I am encouraged to see investments in disease outbreak resilience, prevention and childhood asthma initiatives in health care access programs. However, it is also important that these investments are supported by a workforce that can successfully implement them.
+
+With the agency still operating at a low budget head count and at the same time eliminating long-term vacant positions, we must ensure that staffing capacity keeps pace with the growing responsibilities being assigned to the department. I look forward to hearing from the Commissioner today about how the department plans to sustain critical public health services, address federal funding uncertainty, advance healthy goals and continue to protect the health of all New Yorkers in the years ahead. I now want to turn it over to my co-chair for this hearing, Chair Schulman, for her opening statement.
+
+**(00:04:18)**
+
+
+
+Thank you. Good morning, everyone. I am CM Lynn Schulman, Chair of the New York City Council's Committee on Health. Thank you all for joining us at the Fiscal Year 2027 Executive Budget Hearing for the Department of Health and Mental Hygiene. I want to thank our Finance Chair for co-chairing this hearing and I also want to thank Speaker Julie Menin for attending as well. I would also like to thank the Commissioner, Dr. Alistair Martin, his staff and everyone who is with us today.
+
+DOHMH's Fiscal Year 2027 Executive Budget totals $2.64 billion, which represents approximately 2.1% of the City's budget. Funding for Public Health services totals a net increase compared to last year's adopted budget. Of this amount, $526 million is for personal services and $1.1 billion for other than personal services. Today's hearing comes at a critical moment for public health in New York City. While the City has made meaningful progress in improving health outcomes and strengthening disease prevention efforts, we continue to face serious challenges that require sustained investment, thoughtful planning and strong public trust in our health institutions.
+
+This hearing will examine how the department's Fiscal Year 2027 Executive Budget aligns with the City's broader public health goals, including the health initiative to increase life expectancy, which the Council codified into law. Healthy NYC established ambitious targets to address the long-standing inequities that continue to shape health outcomes across our communities. These goals cannot exist solely as aspirational benchmarks. They must be reflected both in spirit and in funding decisions throughout this budget.
+
+At the same time, the City is preparing for the impacts of significant federal health care policy changes. Approximately 233,000 New York City residents are expected to lose health insurance coverage due to upcoming Essential Plan eligibility changes taking effect on July 1. These Medicaid-related disruptions could increase the number of uninsured New Yorkers and interrupt continuity of care. We will discuss how the department plans to respond to support vulnerable communities during this transition. We will also examine investments in programs that directly address food insecurity, environmental health, infectious and chronic disease prevention, sexual health services, public health emergencies and childhood asthma.
+
+Apart from responding to crises, public health is also about preventing illness before it occurs and ensuring that all New Yorkers have equitable access to the resources they need to live healthy lives. This hearing will also focus on the City's response to Legionnaire's disease following recent outbreaks and the implementation of strengthened cooling tower regulations, which I championed last year. The 2025 central Harlem Legionnaire's disease cluster showed the devastating consequences of delayed detection and insufficient prevention measures. As warmer temperatures increase the risk of Legionella growth, it is essential that the City fully supports inspection capacity, outbreak response, environmental monitoring and community engagement efforts to protect public health.
+
+We will also discuss investments in tuberculosis prevention, the City's ongoing mpox response and the growing importance of combating health misinformation through effective public health communications. Additionally, we will examine pest mitigation efforts as emerging public health threats continue to evolve. Before we begin, I would like to thank the Finance staff, Maria Lazaro Rodriguez, Florentine Cab and Anisha Wright for their work on this hearing, and Committee staff Chris Pepe, Elizabeth Thoughts and Joshua Neuman for their support. Finally, I would also like to thank my staff, Jonathan Boucher, Kevin McHale, Leah and Sammy. With that, I will now pass it to...
+
+**(00:08:05)**
+
+
+
+Charlie. Great. Thank you. So before we get into the swearing in, I just wanted to make some quick announcements. We are having our public testimony hearing all day, so instead of doing it on multiple days, we are bringing it into one day on Wednesday, June 10, next week at 9:30 a.m. So if you are here from the public and want
+
+**(00:09:02)**
+
+
+
+Fantastic. Thank you very much, Chair Schulman. Thank you, Charlie. Thank you, Chair Cabán and thank you, Madam Speaker, and to all of the Council Members who joined us today. My name is Dr. Alistair Martin, Commissioner of Health of the New York City Health Department, and I am joined today by our Chief Financial Officer Aaron Anderson and members of my senior leadership team. Thank you for the opportunity to testify today on our Executive Budget as it relates to public health.
+
+In the midst of this year's budget season, City Hall released a study that found 62% of New Yorkers cannot meet their basic needs. That is 5 million people, most of whom are missed by federal poverty measures. This budget season, the Mamdani administration is putting forward a blueprint for how to care for our City and lift some of the financial weight from New Yorkers' shoulders. We cannot talk about affordability without talking about health. We are facing devastating cuts to public health and health care at the federal level and we are bracing for the impacts of HR One. Millions of New Yorkers who rely on Medicaid will soon become vulnerable to losing their coverage. That impacts nearly half of our City. We have both the responsibility and an opportunity to intervene.
+
+Our mission for the Health Department is centered around three main priorities. The first is to solidify the foundation of our core public and mental health work as we face an increasingly hostile federal environment. We are dedicated to ensuring our core local services are operating efficiently. The second is to make clear that public health is an affordability issue. Key components of this work include enrolling New Yorkers in Medicaid and keeping them covered, especially the hundreds of thousands of residents at risk under new federal work requirements; connecting families to cash assistance benefit programs like SNAP, WIC and other benefits they have already earned but have not claimed; eliminating medical debt both by erasing it once it accrues and preventing it before it accumulates; and screening for housing instability at health visits and linking patients to eviction prevention services. The third priority is to make public health visible. We have called it an invisible shield, but that metaphor does us a disservice. If something is hidden, it is easy to take for granted. We cannot afford to be taken for granted, especially not right now.
+
+We are building a healthier, more affordable New York City every single day. In the past three months alone, we have made extraordinary commitments to deliver for New Yorkers. That includes a $20 million investment in perinatal and early childhood mental health services as well as expansion of our Nurse Family Partnership program, a program in which my own mother served as a Nurse Family Partnership nurse. Another $20 million towards community-based asthma programming in the Bronx. A $12 million investment in youth substance use recovery programs across New York City. And a Board of Health resolution condemning federal attacks on public health insurance and resolving to fight back. Each of these is both an accomplishment and also a promise of more to come. I am proud to share them with you today.
+
+Most recently, the Board of Health unanimously approved a resolution responding to looming cuts to Medicaid and changes to public health insurance options more broadly. That resolution also calls on New York City and state government to mitigate the harms of federal actions and educate the public about their options. That very same day we launched a $500,000 campaign advertising our free services that help New Yorkers enroll in low and no-cost health insurance. That campaign runs through the end of this month on social media and newspapers, translated into 13 different languages. The ads point New Yorkers directly to our health insurance enrollment team. These services are free of charge and available regardless of someone's immigration status or ability to pay. Our enrollment counselors offer guidance on coverage options and help navigating government bureaucracy. They help meet the needs of the whole person by recommending other benefit applications, including SNAP. They will also enroll people in care if that is their only health care option. These are critical services that connect New Yorkers to programs that most of our City relies on.
+
+Right now, more than 5 million New Yorkers are enrolled in low or no-cost insurance plans, including Medicaid and the Essential Plan. Medicaid work requirements will go into effect at the end of this year, January 2027. Additional changes like frequent eligibility redeterminations will make it harder for people to stay covered. Upcoming federal changes that impact the Essential Plan are projected to cause an estimated 230,000 New York City residents to lose their coverage as well. At the department, we are determined to intervene and keep as many New Yorkers insured as possible. I have heard some of the conversations unfold around how we keep people enrolled in these insurance benefit options and it is those moments that crystallize the impact of our work. We are meeting people where they are and helping them navigate some of the most consequential moments of their lives, and we are doing it by the thousands.
+
+Our direct, one-on-one services reach more people every single year. The Citywide Doula Initiative serves roughly a thousand people each year. We have reached more than 3,900 people since the program launched in 2022 and there have been zero pregnancy-related deaths among participants. Behind the numbers are New Yorkers like Masada Abdula. I joined a visit with a young woman who left an abusive partnership during her second pregnancy. She welcomed her son into this world with Masada by her side.
+
+Our Nurse Family Partnership program serves more than 2,000 people every year and that number will go up thanks to a $20 million investment in the Foundations Initiative. I learned of that program's impact by watching my mom, who served as a nurse for nearly 15 years. It is her example of public service I seek to emulate at this agency. Our Newborn Home Visiting program serves more than 7,000 families every year. We dispatch community health workers to support families in the early days of parenthood. People like Wanda, who recounted what it felt like to hold a client's hand the day they came home from the NICU. In the richest city in the richest country in the world, no family should lose a loved one to pregnancy-related causes. All of these programs are built on trust. All of them are free of charge and all of them are making pregnancy and parenthood safer and more supported in New York City.
+
+At the Health Department, we are committed to driving our resources according to need, no matter the subject area. The administration announced a $20 million investment to improve childhood asthma outcomes in the Bronx. Half of that money will go towards community-based programming and the other half will support asthma case management resources in schools. That investment would not be possible without... it is part of a larger $100 million commitment to New York City government. The money was generated by congestion pricing revenue and will go...
+
+**(00:16:33)**
+
+
+
+Towards mitigation projects in environmental justice communities, including your asthma work. Every day we are building on a legacy of more than 220 years of public health where we are positioned to meet and anticipate the needs of community members, and we will continue to do so. I am encouraged to see increased support for our community health programming in the City's executive budget, and that includes a $3 million investment to establish the Health and Affordability Core. That funding will support 46 employees dedicated to working with New Yorkers across our City to facilitate access to benefits, health insurance enrollment and referral to low and no cost services. We are grateful for a $12 million investment in our mobile food vending program, and I am also reassured by the dedication of $10 million to continue Groceries to Go, which provides food insecure New Yorkers enrolled in Health and Hospitals care programs with monthly credits to purchase groceries.
+
+At the state level, the Fiscal Year 2027 budget provides crucial support for public health. I am very grateful to Governor Kathy Hochul and the New York State Legislature for restoring Article Six matching funds of 36% to New York City. This reverses several years of cuts where New York City was the only jurisdiction in the state receiving a lower state reimbursement for core public health services. Thank you, Speaker Menin, CM Schulman and the entire Council for their continued advocacy on this issue. Also, please see a permanent carve out of school based health centers for Medicaid managed care in this year's budget. Our school based health centers provide free primary care, including mental health and dental services, to approximately 143,000 New York City students. We are grateful to see these services supported in the state budget, and I appreciate this Council's advocacy on that issue.
+
+Lastly, let me speak to the federal budget. About 20% of our budget is federally funded. That amounts to approximately $500 million. As mentioned, the majority of that funding goes towards emergency preparedness and infectious disease control. While we expect the federal government to honor its commitment and maintain that funding, the reality is we cannot rely on Washington, D.C. The writing is on the wall for the year ahead. This will be a uniquely challenging one for public health. But in New York City, I am approaching that year with a whole lot of hope. I believe in the leadership we have across the government, including this Council. I believe in the 7,000 people who carry out our work at the Department every day, and I believe in our City. If there is anyone that can turn tribulation into transformation, it is here. Thank you for your attention. We are happy to take questions.
+
+**(00:19:20)**
+
+
+
+Thank you. I appreciate the citations in your opening statement. Very awesome. Okay, so I am going to ask a few questions and when the Speaker comes back, I will turn it over to her. So really quickly, for the executive plan, what was the process for your Chief Savings Officer to conduct the required review of spending and operations within the 45 day time frame, and what are the top line items that were identified and submitted?
+
+**(00:19:51)**
+
+
+
+Yeah, first of all, let me just start by saying we are in a very good position with this executive budget thanks to the work of OMB, this administration, but also thanks to your support in this Council. You put us in a good position to execute with regard to all of the services that we need to keep people safe in the City. With regard to the Chief Savings Officer role, we were managing to very specific things and trying to make sure that we were doing both complying with and aligning with the Mayor's vision, and at the same time finding places with savings that did not affect core services. We were able to do that throughout the entire budget, and I will let Aaron talk a little bit more about the specifics.
+
+**(00:20:45)**
+
+
+
+Yeah, thanks, Commissioner. And thanks for the question, Chair. These savings exercises are never easy, they are never fun, but I think we were absolutely able to meet both the mission and the charge of the administration to find savings while also minimizing, or actually not having any impact at all, on New Yorkers' lives. So in sum, the savings items that touch the public health side of the budget are: Legionella, which is just a re-estimate for the current year only for spending based on less spending than expected, so that is a simple one. The World Trade Center Health Program is really a program run by the federal government where the City pays 10%, so we were able to identify savings in the current year to the extent that the feds spend less. The City is obligated to spend less, and that was sort of an easy one to recognize as well. Early intervention of $500,000 in fiscal year 2027 and in the out years — that one is really about eliminating unnecessary procedures and aligning our practices with a recent state regulation. We found some space savings as well. We have a large real estate footprint across the City, so we are always thinking about ways to consolidate and think about the best ways to use space. We have made some progress there. I think all of those taken together on the health side are really an example of finding savings without having any impact on services, and certainly nothing that would be reflected...
+
+**(00:22:19)**
+
+
+
+Right. We were very clear about that on the Council side too, that we do not want services to get cut or anything to be sacrificed. So I am glad to hear that you were able to do that. Were there any consulting contracts or outside contracts that were re-evaluated? Because I know that a bunch of different agencies have been looking at those costs as well, more on the outside spending side.
+
+**(00:22:39)**
+
+
+
+Yeah, I mean, as part of the 45 day process we certainly looked exhaustively. Consultants are a natural place to look. Over the past two or three years of the prior administration, we had rounds and rounds of PEGs and budget cuts. We did a lot of work on that front, so there was not much left to do. But we are always looking at those areas for potential efficiencies.
+
+**(00:23:03)**
+
+
+
+Okay, thank you. And then in terms of vacancy reductions, the fiscal year 2027 executive plan includes baseline savings in City and state funding from the elimination of 76 long term vacant positions across the agency. Just to clarify, these are positions that were never filled. And so which program areas are impacted by the elimination of the 76 vacant positions? Were they across multiple programs?
+
+**(00:23:34)**
+
+
+
+Thanks for the question. I think the top line here is certainly that this did not target current staff. These are not only vacancies, but long term vacancies. We have had challenges filling these for years. It is really spread across the agency. The same approach we took to the savings initiatives we took to the vacancies. Not easy, but we looked for the things that were the hardest to fill, the longest vacant, and of course the overriding principle was no impact to the public or to services. To answer that, it is really spread across the agency. There is not a single area where they are concentrated.
+
+**(00:24:14)**
+
+
+
+What was the average length of time the positions had remained vacant prior to being removed, and what other factors contributed to the Department's inability to fill the positions originally?
+
+**(00:24:27)**
+
+
+
+I mean, there is no single answer. As you know, our agency does so many different things. The hiring issues in environmental health are very different than the hiring issues in school health, so it is just not really...
+
+**(00:24:37)**
+
+
+
+...a one size fits all answer. But in general, we are looking at positions that were vacant for upwards of two years. Okay, two years or more. And although the administration states there will be no programmatic impact, how will responsibilities previously associated with the positions be absorbed or redistributed, and how would that look given that the positions were never filled?
+
+**(00:25:04)**
+
+
+
+Yeah, it is a good question, it is a natural question. I think we are doing our best to absorb, as we have. Every agency has had a lot of experience with this over the past few years. This vacancy reduction was not nearly as painful, at least, as the one several years ago. So I think we have some experience in how to absorb those. It is always easier to absorb and redirect that work when it is not public facing.
+
+**(00:25:28)**
+
+
+
+And also, there is no current staff member there, so it is...
+
+**(00:25:30)**
+
+
+
+Exactly right. And I know the answer to the next question, but just for the record, I am assuming that among the eliminated positions, none of them were connected to public health emergency preparedness, data modernization, health equity initiatives or federally funded programs? Generally, no. I mean, we certainly made every effort to focus on things that were more back office functions, if we have to group them together. Things like data analysts, program specialists, office support. Okay.
+
+**(00:26:08)**
+
+
+
+So in terms of recruitment and retention, what are some of the strategies that you are implementing to improve some of the harder to fill positions around public health programming?
+
+**(00:26:20)**
+
+
+
+Just right off the bat, Chair, this is one of my top priorities and it is something that is top of mind. We are applying every single tool we can to make sure we get the right people in this building. If Council has individuals that we should be looking at, we would love to see resumes and get people in the door. We are pushing on all fronts — on social media, on communications — and also doing the work that we can do in communities to recruit people as well. So this is a top priority, making sure we get the right people and then also keeping them here.
+
+**(00:27:07)**
+
+
+
+Have you been partnering with other provider organizations as well as, maybe, the City's own programs, either through CUNY or workforce development programs? Have you been plugging into those?
+
+**(00:27:18)**
+
+
+
+Yeah, actually, I recently just met with Commissioner Kenny Marian and began doing some work on how we might collaborate. They are doing really incredible work at the workforce centers. Yes, they have a...
+
+**(00:27:31)**
+
+
+
+Workforce1 Healthcare Career Center, and I think there is a ton that we can do there. We are not going to reinvent the wheel in terms of resume writing and job searching, but I do think that we have a role to play in helping to attract candidates and then working with Workforce1 to get them ready for hiring.
+
+**(00:27:51)**
+
+
+
+Okay. And then I am assuming the positions you have open could be for multiple different types of degrees, right?
+
+**(00:27:58)**
+
+
+
+I just mean in terms of levels of degrees. Absolutely. They span from roles that do not require a college degree to some of the roles that we will talk about today, which are highly specialized medical and economist roles. So the bottom line is we are hiring and we are looking for candidates.
+
+**(00:28:18)**
+
+
+
+Great. And then just really quickly, going into some of your conversations with OMB — how have your conversations actually been going in terms of things that maybe did not get put in the executive plan that perhaps can be added before the adoption of the budget? Are there any resources that you are looking at in addition to what was put into the executive plan?
+
+**(00:28:40)**
+
+
+
+Yeah, I can say a few words. At this stage that we are in now, we have what we need to be able to carry out both the core public health and mental health services that New Yorkers count on us to deliver. But we will continue working with OMB and we are going to continue our conversations with you all at City Council to figure out how we push even more and continue to deliver the services that New Yorkers rely on. I will pass it to Aaron to see if he has anything else to add.
+
+**(00:29:11)**
+
+
+
+Yeah, I think that sums it up well. I mean, I am in almost daily conversation with OMB, so they are very well aware of our needs and our evolving considerations as an agency.
+
+**(00:29:21)**
+
+
+
+Yeah, okay, perfect. Can we add to your list, actually? Because I know that there are some things I would love for you to take more funding on, especially related to mental health and health programs. I am sure you would agree with that, right? So if you need — there is no shortage of things that we have on our end that we would love to see in the budget, but we would love to work with you and OMB on that as well. We will have our pens ready to write the list now. Okay, great. So it seems like most of the requests you submitted were approved. What funding or policy priorities did you advocate for during the state budget process, and where do those stand? Do you have any confirmation? I know the state budget is winding down and not yet finalized, but if you could speak a little bit to that in terms of your state priorities.
+
+**(00:30:12)**
+
+
+
+Well, I will just say the one that is really important, and just to say thank you to this Council, to Chair Schulman, to you all for helping to fight for the Article Six restoration — that is a big, big, big deal. It was tens of millions, if not hundreds of millions of dollars that we were being blocked from receiving because of the disparity in terms of our match rate. So thank you for that advocacy and for the commitment to that. I will hand it to Aaron to see if...
+
+**(00:30:45)**
+
+
+
+...there are any other pieces he would like to lift up. Yeah, not much else to add, just that the Article Six restoration is a huge deal for the City and a huge deal for this agency. Okay.
+
+**(00:30:57)**
+
+
+
+The state budget agreement reportedly includes, I believe, $706 million for hospitals, $480 million for nursing homes, $20 million for assisted living programs and $80 million for federally qualified health centers. How will recent state health care investments impact New York City's public...
+
+**(00:31:20)**
+
+
+
+...health system? Well, I will tell you another piece that is related to what you have mentioned that we are really excited about is the carve out for school based health centers. For many of the students who are receiving care from school based health centers, they do not have another primary care doctor or another place to go to get care. So being able to co-locate those services in the school is incredibly important. The challenge has been that the school based health centers were facing the prospect of having to do a bunch of administrative work, billing, documentation and things that would have made it more challenging for them to receive funding for the work had they not been carved out and had to enter managed care contracts. So that carve out is a huge, huge benefit to the City in terms of protecting our public health and then some.
+
+**(00:32:18)**
+
+
+
+In terms of the school based health centers, are there additional resources or capital needs that are needed? Is that in the budget as well? Are there new community health centers or school based health centers that are going to be put online?
+
+**(00:32:34)**
+
+
+
+Yeah, so let me say a few words there, and then I will let Aaron talk budget. Our school based health center program helps to serve about 140,000 students across the City. That is throughout 139 school based health centers.
+
+**(00:32:53)**
+
+
+
+And so again, this is no cost primary care for students, and it is something that I think, given the place where we are heading and where we are now with the federal environment, when a family is concerned about going to a hospital or primary care clinic, knowing that their school can offer the services that that child might get somewhere else — and also not ask questions about immigration status — I think this is going to serve an even more important role moving forward. So we are really excited to lean into the school based health center program. Let me hand it over to Aaron to talk about the budget.
+
+**(00:33:37)**
+
+
+
+Sure. Yeah. So just to underscore the City's commitment to school based health centers, it is about $9 million a year that supports 34 sites of the 139 across the City. The only thing I would add is just to underscore the importance of the carve out. I mean, I think that itself will go a long way towards stabilizing the resources for the many sites that the City does not support. So I think that goes a long way. There is certainly a larger question about what the right number is, but we are certainly happy to be part of those...
+
+**(00:34:05)**
+
+
+
+...conversations. Okay. Do you look at zip codes and areas where there is a higher prevalence of chronic disease to figure out where to place them?
+
+**(00:34:14)**
+
+
+
+Yeah, so we are working with partners across the City and across the agencies to make sure that we identify the right places for the school based health centers. That is always a part of the conversation when it comes to deploying these resources.
+
+**(00:34:30)**
+
+
+
+Okay. And just really quickly going back to your testimony, because I know you were talking about connecting families to SNAP and enrolling New Yorkers in Medicaid and keeping them covered. Yesterday we just had a long hearing with HRA, so I am just wondering if you could speak a little bit about what the conversations are, the collaboration and partnership with HRA on that. And then I had a second part to that question.
+
+**(00:34:57)**
+
+
+
+Yes, we love our colleagues and our co-agency partners. At DSS, I meet regularly with them. We have an interagency task force on this very issue that brings together some of the senior leaders in our agency and in their agency, and we are working this problem together. We are trying to identify what are the ways that we can leverage the place-based nature of our work. We see hundreds of thousands of people in our clinics, in our vital records shop, in our neighborhood health centers. So the question becomes: while people are in those facilities and they are waiting, can we do more? Can we enroll them? We need the Health Department to step up and to really lean in there, and we are grateful to have DSS there to have our back as we develop this new muscle. And then in terms of what is happening with HR One and the potential loss of families' access to benefits, because one of the big issues I know that we are facing is around the resource navigators and folks that are able
+
+**(00:36:15)**
+
+
+
+to help people to enroll. So just wondering if any of your agency contracts incorporate any of those positions that may also need more support.
+
+**(00:36:30)**
+
+
+
+This is a key priority for us. I think it is not just about pushing people to a website or giving them a handout or a pamphlet or a poster. We have to sit with people and help them through what in many cases are really opaque bureaucratic forms, and so we take that charge very seriously as part of our new needs. In this exact budget we got dozens and dozens of new staff to do just that — community health workers who can do this work in a place-based way, as well as new certified application counselors, basically people who have the certification to be able to directly enroll you in health insurance. So we are committed to this. I will also highlight the Access Health program, which, as you know, is a really important program that coordinates community-based organizations to do this kind of navigation and certified application counseling. So the future is bright when it comes to this. We have very big challenges because of HR One, but we are not sitting on our hands. We are stepping in and stepping up and trying to make sure that New Yorkers have what they need to succeed.
+
+**(00:37:40)**
+
+
+
+Yeah, and how many new staff were hired for that, and also what is the dollar amount?
+
+**(00:37:47)**
+
+
+
+It is 30 community health workers. 30. Okay. And 10 specialized insurance enrollers. The total is $4.6 million for that. There is also other funding in that to help support the technology and stuff like that, but those are the people that we are going to be pushing out to our Health Department facilities. We also have the ability to leverage volunteers, because for people who are needing to keep their Medicaid they have to submit to work hour requirements, and one of the ways that you can meet those work hour requirements is through volunteering. So we think that there is an opportunity to basically recruit people, have them volunteer with us, but then also potentially give them the first steps in a health care career, because this work is a lot like community health worker work. So that core base of about 40 staff will help us then build out to a much larger contingency of people.
+
+**(00:38:58)**
+
+
+
+Yes, I totally one thousand percent agree. This is the time where we need to really beef up those staffers for that during this time. And then my last question related to your testimony: you had mentioned that there is a $20 million investment in perinatal and early childhood mental health services as well as the expansion of the Nurse-Family Partnership program. So I just wanted to know if you could go a little bit more into detail about what that $20 million is
+
+**(00:39:22)**
+
+
+
+actually going towards. Really good question. I am going to give some high-level points on this and then I want to have Deputy Commissioner Lydia Lesnik join us to get into the details a little bit. So first of all, this is an expansion of the program. It essentially increases the eligibility window for families who can leverage this service. We thought that, of course, we do not want to mess with the secret sauce of the program. However, we thought it was important to try and increase the aperture of who could be included in the program, so increase eligibility. And then the second component is increasing resources for perinatal mental health issues. We know that one of the things that is killing Black and Brown women in this City who are recently postpartum is actually not things like hemorrhage or pulmonary embolism. It is actually mental health issues and some substance use issues. So we are surging resources in that capacity. I am going to hand it to Lydia to
+
+**(00:40:43)**
+
+
+
+So thank you for your questions. The Nurse-Family Partnership program is a program that pairs pregnant people and new parents with a nurse until the child's second birthday. So traditionally the eligibility criteria for that program was first-time pregnant people up to the third trimester. With this expansion, we are broadening the eligibility criteria to include any pregnant person, even with a prior birth, up until the birth of the child. And we know from research that has been done in this area that parents who have multiple children have additional stressors. And so we are excited about offering this intervention to additional families ultimately
+
+**(00:41:36)**
+
+
+
+through this expansion. This is an expansion of the eligibility criteria across all of our 15 teams that are delivering the Nurse-Family Partnership program. In addition, as part of the perinatal and early childhood mental health expansion, we are going to be increasing capacity at our perinatal mental health clinics and also investing in professional development as well as working with academic institutions, because we know one of the findings of our Maternal Mortality Review Committee is that there is a workforce shortage in this area. So this is another way that we are listening to the recommendations that are being made to us and expanding services in these key areas.
+
+**(00:42:29)**
+
+
+
+That is actually great to hear because, as you know, a lot of immigrant communities and Black and Brown communities are either not believed when they say certain things that they are experiencing, or they do not feel that they want to cause trouble and so therefore do not report to the doctors. Shortly after she gave birth. So I am glad to hear that it is not just the first pregnancy, because as we know each pregnancy is very different, and so it is great that you are expanding to any pregnancy. I am happy to hear about that. And then just lastly, around early childhood mental health services, is that through the Article 31 clinics or is that through community-based models, or anything else you could
+
+**(00:43:10)**
+
+
+
+speak to? It is through existing clinic contracts that we already
+
+**(00:43:16)**
+
+
+
+have. Okay. Which contracts? I am sorry. Clinic contracts. Okay. And what is
+
+**(00:43:20)**
+
+
+
+the age range? So it is perinatal and early childhood. Okay, up through probably 13.
+
+**(00:43:30)**
+
+
+
+Or I think it is early childhood, so it is like through... okay, we can get back to you on
+
+**(00:43:35)**
+
+
+
+the exact age range on that. Okay, perfect. And then I have more questions which I will save for later on capital projects, but I will go into more of that later. I wanted to pass it off to Chair Kalman. Thank you. Before I begin, I want to mention we have been joined by CM Aldebol as well as CM Maloney and Deputy Speaker Williams.
+
+**(00:43:58)**
+
+
+
+Okay. And CM Sanchez. Okay.
+
+**(00:44:04)**
+
+
+
+The Fiscal Year 2027 Executive Plan reflects a $23.8 million reduction in federal funding. We know that much of this decreased funding is tied to the expiration of the federal Epidemiology and Laboratory Capacity and COVID-19 grants by July 31, 2026. In anticipation, the Executive Plan includes a baseline of $17.6 million, of which $11.3 million, as you mentioned in your testimony, is City funding, and 70 positions for disease outbreak resilience to help sustain core surveillance and disease control activities previously funded through these temporary federal grants. At a time when public health agencies are responding to emerging infectious disease threats and monitoring outbreaks around the world, such as Hantavirus and Ebola, it is important to understand whether this investment is sufficient to maintain the City's disease surveillance, laboratory and preparedness infrastructure in the face of declining federal support. Will the $17.6 million investment fully replace the funding previously provided through the expiring COVID-19 grants? If not, what funding gap remains?
+
+**(00:45:16)**
+
+
+
+Thank you for that question, Chair. Let me just step back and share a little bit about the environment that we are operating in. The funding that you are referring to was sort of this really large one-time investment from the federal government, and I think it is the same story of how public health has been funded for decades, which is these boom-bust cycles. The reality is that this administration gets it. This Mayor gets it. He understands that that is not how you can fund public health. You have to be able to have stable funding to provide the services that people need, and this investment is what we need. We have the services now to be able to deliver what New Yorkers require of us. The $17.6 million is going to allow us to, number one, deploy staff in places like congregate settings where we see a lot of outbreaks and clusters form. This is like shelters and nursing homes. So having these disease investigation specialists for that. It also gives us the ability to shore up the systems that our staff use, the platforms and the technology. So I think, look, there is always more work to do, but at the present moment we have what we need.
+
+**(00:46:48)**
+
+
+
+What programs, services or positions previously supported by the COVID-19 grants will be sustained with this funding? We do not really expect any service disruptions or cuts to programming moving forward because of this investment that we have.
+
+**(00:47:06)**
+
+
+
+Are any public health services, surveillance activities, laboratory functions or preparedness efforts expected to be reduced as a result of expiring federal funding beyond
+
+**(00:47:19)**
+
+
+
+the COVID-19 grants? Are there other federal funding streams that are at risk of being reduced or eliminated in future years? Loaded
+
+**(00:47:31)**
+
+
+
+question. Yeah, you know how much time we have. I think, you know, this is one of the things that keeps me up at night, the idea that the federal government can just sort of decide on a Tuesday that they want to remove our funding. And this is what happened about a year ago — about a hundred million dollars. We were able to fight back. We went to court, got an injunction, thanks to the advocacy of this Council and thanks to the advocacy of Letitia James. We got that money back. But there is nothing specific that we are concerned about right now, other than just the general climate of concern, and that is why it is important for City government to stabilize this funding. And that is what we are seeing here in this exact budget.
+
+**(00:48:20)**
+
+
+
+No, and I am very glad to see it. I am going to switch gears because I am going to ask you about childhood asthma in the Bronx. Mayor Mamdani announced a $20 million investment from the program to improve childhood asthma outcomes in the Bronx. The investment will support two major initiatives, including $8.9 million for the Bronx Asthma Program, including the establishment of a new Bronx Asthma Center, and $11.1 million to expand the asthma case management program in Bronx schools. The school-based expansion will provide intensive asthma support services, including in-school medication administration, self-management education for students and families and the addition of up to 15 schools to the program. While asthma-related emergency department visits among children ages 5 to 18 declined by 38% citywide and 25% in the Bronx between 2009 and 2024, rates in parts of the Bronx remain disproportionately high due to long-standing inequities, environmental burdens and gaps in access to care. How will the $8.9 million allocated for the Bronx Asthma Program and Bronx Asthma Center be utilized?
+
+**(00:49:33)**
+
+
+
+Thank you, Chair, for this question. Look, as an ER doctor, what I have seen in my own experience is that too often asthma presentations are not dictated by structural racism... are dictated by, you know, lack of access to health care, dictated by things like being surrounded by mold or pests. And so we are extremely grateful for the opportunity to say that this new $20 million investment will be actualized in a targeted way in some of the very communities that are most impacted by asthma. So there are two things that we are doing here with this funding. Number one, we are increasing our footprint when it comes to our targeted asthma case management program
+
+**(00:50:30)**
+
+
+
+in schools. The reason why we are doing that is because it is incredibly important to meet people where they are at and meet students where they are at. They are spending hours and hours a day at school, so let us go there. The second is it allows us to surge resources to what we call community-based asthma interventions. What this allows us to do is to go literally to the source of the problem in people's homes, do the home remediation work that needs to happen, pest mitigation, address the mold, et cetera. And so this is not funding a new physical space, because we already have a physical space in the Bronx at our Tremont Neighborhood Health Action Center. This is going a step further in saying that we need to further target our resources and meet people where they are.
+
+**(00:51:26)**
+
+
+
+An expansion of the Tremont Center. Is that what you said?
+
+**(00:51:29)**
+
+
+
+So it is not a new structure. We have our space in the Tremont Health Action Center and now we have more resources to deploy for what we call community-based interventions as well as in the schools. How will the Bronx Asthma Center coordinate with hospitals, primary care providers, schools and community-based organizations in the Bronx?
+
+**(00:51:55)**
+
+
+
+Yeah, I am going to say a few words about this and then I am going to turn it over to... so you asked about the asthma center. Sorry, did you ask about the schools? I said, how will the Bronx Asthma Center coordinate with hospitals, primary care providers, schools and
+
+**(00:52:56)**
+
+
+
+Good morning and thank you for the question. We are excited to be able to talk about the Bronx Asthma Initiative, and you are correct, there is a lot of collaboration that is and will be taking place across the South Bronx. The work that we do with federally qualified health centers, community-based organizations and faith-based organizations, as well as the asthma network, helps us to be able to implement the kinds of programs that the Commissioner described, but also create an ecosystem that makes it easier for community members and families and their children to navigate asthma care within this environment.
+
+In addition to some of the examples you heard from the Commissioner, this funding will also be supporting our technical assistance to primary care practices in the South Bronx. So we will be working with dozens of primary care practices around how they improve the quality of care for children with asthma. And so this is really an opportunity for a defined ecosystem where work is happening in schools, it is happening in your primary care sites, it is happening in your home and it is also happening in the actual center that the Commissioner described. Thanks so much for the question.
+
+**(00:54:12)**
+
+
+
+What metrics will... oh, I have a number of questions about the Asthma Center, so
+
+**(00:54:16)**
+
+
+
+What metrics will be used to evaluate the success in reducing asthma-related emergency room visits and hospitalizations? Thank you so much for the question. So the Bronx Asthma Initiative will utilize a comprehensive process and outcome evaluation approach for this work. The primary outcome metrics that we focus on are reducing asthma-related emergency department visits and reducing asthma-related hospitalizations for children to measure population-level impact. We are also analyzing trends for children residing in the Bronx and in the neighborhoods that we are serving through this work, in comparison to children residing in other parts of the Bronx. So this analysis helps us understand over time how the intervention is impacting the kids who are going through the services of the Bronx Asthma Initiative. Additionally, we are also assessing the feasibility of leveraging a local health information exchange, which helps us with pre- and post-analysis of these same emergency department utilization as well as hospital admissions. Thanks so much.
+
+**(00:55:22)**
+
+
+
+Okay, you answered this a little bit. How will the $11.1 million expansion of the asthma case management program be implemented in Bronx schools, and I am going to ask what criteria will be used to select the additional 15 schools participating in the program? I am going to turn it over to Deputy Commissioner Lydia Lesniak for more on that.
+
+**(00:55:44)**
+
+
+
+Thank you for the question. So the asthma case management program will be expanding to an additional 15 schools in the Bronx. The overall goal, just like with the current asthma case management program, is to control asthma, which is to prevent asthma exacerbations, to reduce hospitalizations and to ultimately reduce the number of days missed at school. A structured approach was utilized to select the schools, and what we are looking for is a general education K through eighth grade school where there is an Office of School Health doctor and nurse on site, where there is a large population in that school with poorly controlled asthma, where the population is at risk of poor asthma outcomes, as well as the school being identified in the Bronx.
+
+**(00:56:56)**
+
+
+
+Okay, that is great. How many students and families are expected to be served annually through the expansion?
+
+**(00:57:00)**
+
+
+
+Currently with the current asthma case management program, which operates in 14 schools, we serve over 2,200 every year. With this expansion, we are aiming to reach an additional 750 children. However, because of the intensive asthma case management model and the training that is done in the entire school and in those school communities, we are expecting to reach about 6,000 people through this asthma case management program expansion.
+
+**(00:57:35)**
+
+
+
+What specific services will students and families receive through the asthma case management program?
+
+**(00:57:41)**
+
+
+
+So the asthma case management program is a partnership through the Office of School Health between the Department of Health and New York City public schools, who provide intensive case management services to students, which includes medication administration, medication distribution, education around self-management and ultimately education to the entire school community about asthma and prevention.
+
+**(00:58:10)**
+
+
+
+Okay. How will case managers coordinate with school nurses, pediatricians, hospitals and community providers to improve medication adherence and asthma control?
+
+**(00:58:20)**
+
+
+
+Thank you for the question. So we are planning — as you know, the key to getting school-based medication administration is through the medication administration form. Right now that process is entirely manual. People fill out pieces of paper. It is manual and tedious. The family has to bring it to the nurse in the school. So as part of this initiative, we are transforming that digitally. We are going to build the asthma case management form into the citywide immunization registry platform for families to fill out, and it will be seamlessly delivered to our Office of School Health, thereby significantly improving the timeline and ensuring that students are getting all the medications that they need.
+
+**(00:59:15)**
+
+
+
+Will schools receive additional nursing, social worker and administrative support as part of the expansion?
+
+**(00:59:21)**
+
+
+
+Yes, they will. In addition to the additional asthma case managers, we are also going to be taking on
+
+**(00:59:28)**
+
+
+
+social workers who are going to be working with families to provide additional education and support. With the new digital system, what safeguards will be implemented to protect student health information — because you know that is a big issue now — and ensure compliance with privacy requirements?
+
+**(00:59:46)**
+
+
+
+This is a really important issue that we have been thinking a lot about and how we are operationalizing this, and that is why we have selected to utilize already existing New York City infrastructure that is over a decade old — the citywide immunization registry — to build out this portal. Because that system is fully secure and compliant with all confidentiality and HIPAA requirements. Will there be reports or dashboards on program outcomes and asthma trends in participating communities and schools? Yes, absolutely. We will be publishing reports that go along with what my colleague Dr. McNatt just talked about, which is that we are going to be looking at asthma rates in schools, number of hospitalizations, reductions in days missed in school, et cetera.
+
+**(01:00:41)**
+
+
+
+How will the department measure whether congestion pricing mitigation investments are contributing to improved respiratory health outcomes in the Bronx? Which is actually a good study to have, as a matter of fact, around congestion pricing.
+
+**(01:00:53)**
+
+
+
+Going to pass it to the doctor. Thank you so much for the question. The department will measure respiratory outcomes with air quality monitoring, which has already started. Early findings from this work show that congestion pricing tolling is not changing the level of exhaust in environmental justice designated neighborhoods, but the monitoring will continue and we will evaluate the impact of the programming on — as my colleagues shared — asthma-related visits, hospitalizations, asthma control, school days missed, et cetera.
+
+**(01:01:25)**
+
+
+
+Thanks so much. You know, the Department of Transportation announced yesterday or today that they are going to be using sensors in terms of traffic and all of that kind of stuff, because truck traffic really causes a lot of the asthma issues. Is there a way for you to work with them and see how that configures with this?
+
+**(01:01:43)**
+
+
+
+Yes, thank you so much for the question. We work very closely with DOT and so we are looking forward to being able to utilize the data that they identify.
+
+**(01:01:55)**
+
+
+
+Can the administration confirm that this initiative funds nine positions in fiscal year 2026 and 26 positions beginning in fiscal year 2027 and in the out years? Going to pass it to Aaron to share a little bit more about
+
+**(01:02:08)**
+
+
+
+that. Yep, confirmed.
+
+**(01:02:11)**
+
+
+
+Great. What titles and functions will these positions serve within the Bronx Asthma Center and the school-based asthma case management program? And also give me the hiring timeline.
+
+**(01:02:21)**
+
+
+
+There are a number of key positions that we are looking to hire for this, including program directors, a case manager, an evaluation manager, a community engagement coordinator and a data analyst. We are looking to bring folks in in the next few weeks and the goal is to bring as many of them as we can before the 2027 school year begins.
+
+**(01:02:51)**
+
+
+
+Great. And I presume that with all of this you are working with the Bronx Borough President and the Bronx elected officials on this. Okay, great. By the way, I wanted to acknowledge that we have been joined by Majority Leader Shaun Abreu. All right, I am going to thank you. This looks really promising. In a previous life I worked at Woodhull Hospital, which was considered Asthma Alley because of all the truck traffic and commercial traffic around there, and the nearby housing. So I am going to talk about sexual health now. DOHMH sexual health clinics
+
+**(01:03:32)**
+
+
+
+provide low to no cost sexually transmitted infection testing, treatment, prevention and related services. The fiscal year 2027 executive plan includes $4 million in additional City and State funding beginning in fiscal year 2027 to support rapid testing at Chelsea. How will the additional $4 million for rapid testing be allocated across the clinic sites and what services will the funding support?
+
+**(01:04:02)**
+
+
+
+Thank you for this question, Chair. This is an integral part of our public health fabric here in the City. The ability to offer these low to no cost services across our network of public health clinics — our sexual health clinics in particular — provides a safety net function for this City. Folks do not have to worry about immigration status. There is no means test towards payment. We are able to at this point say that we are going to be opening up a third QuickiExpress clinic in Morrisania. That is not by accident. We look at the data and the data tells us that there are rising rates in this area, so we are going to meet the demand and the need and get the resources that we need in that specific area.
+
+The funding is supporting renovations at Morrisania as well as Corona and gives us the ability to really shore up our lab equipment, our testing kits and the specialized reagents that we need. I am going to bring up — I brought it up at the preliminary budget hearing — the Crown Heights clinic. There are still no plans to do anything there. We are getting a lot of incoming calls from people that live in that district and others. This is a top priority for us to get that clinic back online. At the moment it is really a question of funding and staff, but this is certainly something that we hear. We hear you, Chair. We hear the Council and we hear the community as well, and we are trying to meet that need. The Fort Greene clinic is open and so we hope to be able to say that both those clinics will be operational soon.
+
+**(01:06:07)**
+
+
+
+Just keeping it current. What trends is the department currently observing in STI rates citywide, including demographic or geographic disparities?
+
+**(01:06:22)**
+
+
+
+I am going to call up Dr. Sarah Bronstein to join me on this, but just to give you a very high level overview — what we see from our last recorded data set is that most reported STI rates either decreased or remain stable, and so this is generally good. I think there is much more work that we can do, but this is encouraging. So I am going to hand it over to
+
+**(01:07:01)**
+
+
+
+Yes. Thank you for this question, Chair Schulman. As our Commissioner mentioned, we do see concerning trends. As we have mentioned before, in 2024 we saw the fourth consecutive year in which new HIV diagnoses increased in the City or remained stable, and that really is in contrast to marked declines that we observed prior to 2020. We also mentioned at the preliminary hearing that in 2024 we saw an estimated 17% increase in estimated new HIV infections compared with 2023, and really persistent disparities across all the factors we measure, including race and ethnicity and gender. For example, 86% of people newly diagnosed with HIV in 2024 were Black or Latino and 42% of people with new diagnoses lived in high or very high poverty areas of the City.
+
+In some ways we see something a bit different. As the Commissioner mentioned, in 2024 we did actually see rates of most reported STIs remain relatively stable compared to 2023, and that is a promising trend that differs from previous years. But we do see persistent disparities by race and
+
+**(01:08:26)**
+
+
+
+ethnicity and other factors for STIs. For example, the primary and secondary syphilis rate among Black women in 2024 was nine times higher than the rate among white women. This is of course concerning in and of itself, and also because congenital syphilis is something that we are very actively monitoring and working to prevent. Chlamydia and gonorrhea rates among people living in very high poverty neighborhoods in the City were eight times higher than rates among people living in lower poverty
+
+**(01:08:56)**
+
+
+
+neighborhoods. Okay, do not go anywhere. During a recent Council roundtable run by myself and CM Charlie, we heard from multiple community-based organizations that older adult sexual health is often overlooked. What are the HIV rates among older adults and what outreach or education efforts are underway for this population? I will pass it to Dr. Bronstein.
+
+**(01:09:21)**
+
+
+
+Thank you for this question. I am actually quite glad to see this because this is an area that we have been interested in and actively pursuing for a while. So just in terms of your question, Chair Schulman, about the rates: in 2024, 2,882 people ages 50 and older were newly diagnosed with HIV in New York City, and that was an increase of 18% from the prior year, 2023. However, that was a bit of an aberrant trend in that from 2019 to 2024 we did observe an 8% decrease in the number of HIV diagnoses among this group.
+
+Nonetheless, we also know that older people constitute a majority of people living with HIV in the City, so not just being newly affected by HIV but in terms of current burden. In terms of other STIs, I will just mention that from 2019 to 2024, case rates of chlamydia, gonorrhea, primary and secondary syphilis and early latent syphilis among people ages 60 and older remained stable.
+
+The Health Department does a lot of work to both prevent this and to educate the population about available services and risk. For example, we are preparing to release a request for proposals for a new Sexual Health and Aging Resources and Training for clinical providers — what we are calling the SHARP program — and this is to fund an organization that will develop and offer clinical trainings to increase care providers' capacity to initiate sexual health conversations, take sexual health histories and implement routine opt-out screening among patients 50 and older. We anticipate funding that organization, which will be successfully awarded in the fall.
+
+We also have our Be Into Health program that supports clinics around the City to do evidence-based interventions to promote retention in care, and we expect to fund four clinics in this program to focus specifically on Black HIV-positive people ages 50 and older and address their needs. Our Ryan White program also has an outpatient ambulatory services program, and within that there is a focus on the needs of people living with HIV who are older. Our housing services program — our Housing Opportunities for People with AIDS — also funds three organizations to provide housing assistance and supportive services to income-eligible people who are ages 55 and older. So as you can see we have a lot of programming in this area and continue to invest so that our older New Yorkers can be sexually
+
+**(01:12:10)**
+
+
+
+healthy. What I wanted to ask is: am I understanding from the Commissioner for the Department for the Aging that they want to work with you on this? So I presume that you are going to be doing that.
+
+**(01:12:19)**
+
+
+
+Absolutely. We have met several times with Commissioner
+
+**(01:12:24)**
+
+
+
+Kate Mackenzie. Good. How are you promoting this? What kind of marketing are you doing?
+
+**(01:12:30)**
+
+
+
+Marketing the services that you
+
+**(01:12:32)**
+
+
+
+have? Well, we work very,
+
+**(01:12:34)**
+
+
+
+very closely with our wide array of community partners. This programming is really going out into the community to support those service providers — clinical and non-clinical providers — who know the needs of these communities and work closely with them to provide services directly. So we do a lot of work through our planning bodies and advisory groups to ensure that all of our community partners are aware of current and upcoming programming so that they can take advantage. Okay,
+
+**(01:13:04)**
+
+
+
+I have a lot more questions but I want to give my colleagues an opportunity to ask questions, so I will come back on the second round. Okay, great.
+
+**(01:13:14)**
+
+
+
+Okay, we will start with the Majority Leader, followed by CM Narcisse. Thank you.
+
+**(01:13:19)**
+
+
+
+Chair, and thank you, Commissioner, for testifying today. The Supplemental Nutrition Assistance Program Education — SNAP-Ed — program provides nutrition education, healthy eating support and food budgeting resources to low-income individuals and families across New York City. SNAP-Ed programming has historically supported neighborhoods experiencing high rates of food insecurity and diet-related illness. With minimal remaining SNAP-Ed funding expected to expire in 2026, how does the department plan to sustain these services and prevent disruptions for vulnerable New Yorkers who rely on nutrition education and food access? My question is: how is DOHMH preparing to prevent disruptions to nutrition education and healthy eating programs serving low-income New Yorkers?
+
+**(01:14:05)**
+
+
+
+That is a great question. First of all, we know that food is medicine for some of our most vulnerable patients. The challenge that many of them are having is that they are having to choose between paying for medications or putting more food in their fridge, and so SNAP is one of the key interventions that can help address that. Now with regard to SNAP-Ed, we are working closely with our colleagues at the State to identify what the funding needs would be. I am going to hand it over to Aaron to share a bit more about this.
+
+**(01:14:41)**
+
+
+
+Yeah, thanks for the question. SNAP ED is, you know, we receive a relatively small amount of money. It is a little bit less than 2 million. I think it funds about 17 staff. We are currently onboard. This is one that we all across the nation learned about with the HR One passage last year, that was going to be phased out. So yes, the natural expiration of this funding is coming up.
+
+**(01:15:02)**
+
+
+
+And given the relatively small size, do you think this is something that the administration will be able to cover? I mean, this is...
+
+**(01:15:10)**
+
+
+
+Another good example. First of all, I think the deadline was already extended through conversations with the State, which was great. So this is funding that we receive through the New York State Department of Health. So we are continuing conversations with the State. We are certainly continuing conversations with the City and the administration.
+
+**(01:15:25)**
+
+
+
+About what populations... sorry, you asked, responding to what populations, neighborhoods and community based organizations would be most impacted if SNAP ED funding is not renewed or replaced. I am going to call up...
+
+**(01:15:37)**
+
+
+
+Dr. McNatt to share a little more about the details on the specific neighborhoods. Thank you. Can you present? Thank you so much for the question. You know, we are deeply concerned about access to SNAP ED and to SNAP benefits generally. We know that often the hardest hit neighborhoods include, not solely but include, places like the South Bronx, East Harlem and Central Brooklyn. We are investing in other aspects of food related programming, and while we wait to understand the landscape, in those three locations we have action centers that make food related programming available both for folks who have SNAP and folks who do not have SNAP. That includes programming like Get the Good Stuff, Groceries to Go, Health Bucks, the More Veggies program and the food voucher program. So we are heavily focused on food affordability and food security in the City, but understand the concerns that you shared. Thank you so much.
+
+**(01:16:40)**
+
+
+
+Thank you all for your service. Great. And we have been...
+
+**(01:16:44)**
+
+
+
+Joined by CM Mealy, and then I will go ahead to CM Nurse, followed by CM Wong.
+
+**(01:16:53)**
+
+
+
+Thank you. Good morning. Thank you for being here, Commissioner, and the team. During the Council Women's Caucus meeting we had last month, we discussed cancer related services provided to New Yorkers. As we know, one of the Healthy New York goals is to reduce deaths due to screenable cancers, including lung, breast and colon cancer, cervical cancer and prostate, by 20% by 2030. Is any of the funding contracted out? What efforts are you putting in place to reduce cancer related deaths, including the programming and marketing campaigns?
+
+**(01:17:38)**
+
+
+
+Yeah, thank you very much for that question, Council Member. As part of Healthy NYC, as you have stated, we have a goal to reduce the deaths of folks who have screenable cancers. One of the things that we are actively exploring is not just where the deaths are happening and identifying the, let us call them, hot spot areas, but now also trying to identify where the resources that we are deploying are, to make sure that we are doing more of this targeted resource delivery. We are really excited about this new phase of Healthy NYC, which will be really a focus on and a doubling down on each one of those drivers, but also making sure that the resource targeting a driver like, in this case, screenable cancers is really targeted at the areas where we are seeing the most need and the highest number of deaths. To your question about the advertising campaigns, yes, we actually just ran a very successful advertising campaign over the course of the last month, focusing on the intersection between alcohol and its impact on an increase in cancer risk, which many individuals do not know. So we are trying to make sure that individuals have the information and the education they need to make the right decisions in their lives.
+
+**(01:19:03)**
+
+
+
+Thank you. And one of my concerns is colon cancer. This is one of the preventable cancers. We should not be having people dying from colon cancer. Constituents come to my office very often to ask about birth and death certificates and other vital records. What are the current processing times and is the department clearing the backlog? Because we have been having a backlog on that.
+
+**(01:19:33)**
+
+
+
+We are aware of the issue and looking to make an impact on this. As you know, the birth certificate process through our vital records office is something that we are responsible for, and we take pride in our ability to do this vital service for New Yorkers. The backlog is top of mind for us and we are working to shorten it as much as possible.
+
+**(01:20:02)**
+
+
+
+Thank you. I see in the statement here from you a $12 million investment in the peer worker workforce at substance use recovery programs. Of course, in New York City we have an increase in our kids using drugs that is over the top right now, and I am sure you have seen it too. Do you have a breakdown of how you spend and which areas you are targeting the most when it comes to drug use? And if we can collaborate with you to help out, because every time I see a young person under the influence of drugs it just hurts my heart.
+
+**(01:20:39)**
+
+
+
+Yeah, and these are young, young people. First of all, yes, absolutely, let us work together on this. We have an incredible team in our mental hygiene division that is eager to sit down and do some problem solving with you. Specifically when it comes to the piece that you mentioned around $12 million, that is, I think, one of the things I am most proud of in these first 90 days, quite frankly. This investment puts money into an intervention that has a lot of data behind it, but it is underused throughout the country. These are peer specialists. To put it simply, these are individuals who themselves have struggled with substance use and they are walking their own journey towards recovery, and they can go and help other individuals start their journeys. As an ER doctor, I have to tell you this is like a dream come true kind of program, because many of the people who I see in my emergency department were on the verge of maybe thinking about starting their journey to recovery. Me saying something is not as powerful as someone who has been in their seat. This $12 million will help to put 500 more of those people out there in the City, and we are really proud about that.
+
+**(01:21:59)**
+
+
+
+Okay, Chair, one more question on climate. You know, climate health and climate change preparedness. We had a study released earlier this year that outlined the department's efforts to address the public health impacts of climate change, including extreme heat. We know that flooding, air quality and energy insecurity as climate related health risks continue to grow. Under the department's priorities, preparedness efforts remain critical. What is the DOHMH budget for climate health initiatives and how is it allocated across key priorities? What are the department's primary climate health initiatives and how does it...
+
+**(01:22:46)**
+
+
+
+Measure success. Yeah, thank you for that question. Climate change is a public health issue, absolutely. Whether it is heat related events or the air quality challenges, we know that the climate affects people's health in a very powerful way. We have a whole team dedicated to this intersection of climate change and public health as part of our environmental health division. The work that we do on this is not easily contained to just that division, though. This is really woven throughout the whole agency. So we can get back to you with regard to the specific budget items. Let me turn it to our deputy commissioner to see if he has anything to add.
+
+**(01:23:33)**
+
+
+
+Yeah, thanks, Commissioner. And thanks. So there is this...
+
+**(01:23:37)**
+
+
+
+Yeah, the one thing I would add is that there is a process, actually, for new needs, whether it is on the expense side or the capital side, to take into consideration climate impacts. So that has actually been built in as part of the review process with OMB and with City Hall. So that is a consideration that comes up regularly whenever we are thinking about new resources.
+
+**(01:23:56)**
+
+
+
+Thank you. Thank you, Chair.
+
+**(01:23:57)**
+
+
+
+Thank you. CM Wong, followed by Wilson.
+
+**(01:23:58)**
+
+
+
+Okay, thank you, Chair. Thank you, Doctor, for coming today. I have three questions regarding supervisory licenses on street vendors. Starting July 1, the City begins issuing 2,200 new supervisory licenses, the first wave of 11,000 new permits over five years. My constituents, especially those in Elmhurst and Rego Park, already live with congested sidewalks, blocked storefronts and sanitation problems from vendors. I support legal pathways for vendors, but the number of new licenses is dramatically outpacing inspection capacity. This budget funds 133 new inspection positions by FY30. My questions: one, how many are coming online in FY27 specifically and how many will be in place by July 1? What is the current number of inspectors covering Queens Community Boards 4, 5 and 6? Thank you very much.
+
+**(01:25:09)**
+
+
+
+Council Member, first of all, as a Queens kid and as a Rego Park resident, this is an issue that hits close to home. We are trying to balance a lot of different priorities here. I am going to hand it to Deputy Commissioner Schiff to share more on this, but the idea is we are trying to focus on food safety compliance, vendor education and also building the inspection and enforcement capacity so we can do this right and really get this balance right. So I am going to hand it over to the Deputy Commissioner.
+
+**(01:25:52)**
+
+
+
+Environmental Health. Our mobile food vending program is in my division. We are preparing to implement the Council's...
+
+**(01:26:00)**
+
+
+
+Significant, as you say, expansion of mobile food vending in the City. We will be issuing, starting each fiscal year beginning this July, 2,200 supervisory license applications. Those applications would then, if they are turned in to us, be turned into supervisory licenses, and that gives the licensee the opportunity to apply for supervisory license permits. So just to let you know how this will roll out, they will not immediately become permits for vendors to be operating out on the street. These are not designated for specific areas. There is a permit available to work anywhere in the City and there is a permit available to work in the boroughs outside of Manhattan. We were very pleased, as the Commissioner said in his testimony, to receive the resources that we will need to be able to monitor the food safety aspects of these newly permitted units. The issues that you have expressed concerns about and that your constituents are concerned about are handled not only by us. We really focus on the food safety aspect of mobile food vending. Sanitation very much focuses on some of these other issues that you are describing.
+
+**(01:27:23)**
+
+
+
+Okay, thank you. Thank you, Chair. I will have questions for round two. Thank you. Okay, Council Member, followed by...
+
+**(01:27:29)**
+
+
+
+Carbon. Thank you, Chair. Good morning, Commissioner. I have a couple of questions related to LGBTQ health care. So, you know, PrEP and PEP have been amazing developments in preventing the spread of AIDS. How does the budget ensure affordable PrEP and PEP access, as well as public information on the effectiveness of the drugs and how to use them effectively and safely?
+
+**(01:27:55)**
+
+
+
+Yeah, thank you for that question, Council Member. As I mentioned at the top, our ability to provide medications for sexual health and STDs is a core priority of ours at the public health department. We have six sexual health clinics. All of them are low cost or no cost, so individuals can always walk in and get the medications they need from us. That will remain true. There is also no consideration of someone's immigration status or ability to pay. So we look forward to continuing to provide any and all medications that are needed for both PrEP and PEP. And then pivoting to gender...
+
+**(01:28:47)**
+
+
+
+Affirming care. So it is a particular concern to this body. You know, we passed a package of bills, the Protect Trans Futures package, last year on this. How is the department addressing health care disparities between transgender, nonconforming and gender conforming patients, reminding them of their rights and helping to make gender affirming care affordable in private...
+
+**(01:29:09)**
+
+
+
+Yeah, that is a really good question. So a couple of things. The first is we have a trans nonconforming and non-binary advisory committee. I actually was just there two weeks ago where we had an honest conversation that, you know, this federal government is trying to erase their existence from public record. So they are counting on cities like New York to not say anything and to step back from its role in protecting health for this population, and we will not stop protecting trans, nonconforming and non-binary people. So from our perspective, that advisory committee is what helps us keep ourselves honest and make sure that the services that we are delivering keep them top of mind. We also select and give funding through the GNC Empowerment Fund, which gives us the ability to not just do the work internally but also to identify the community based organizations that are really good at this and to fund them to be able to do what they do.
+
+**(01:30:27)**
+
+
+
+Thank you. That commitment is so important now more than ever. And then finally, in my district, organizations like SAGE ensure the health and well-being of LGBT seniors. How does your budget ensure that LGBT seniors receive the services they need, including health screenings, vaccinations and medications? And how is the department ensuring that isolated seniors especially are aware of the...
+
+**(01:30:53)**
+
+
+
+Services for them. Yeah, that is a really good question. I think there is certainly a lot we can do with you on this and we are looking forward to partnering with you to make sure we get this right. You know, at all of our sexual health clinics we are in a position to help anybody who walks in those doors, whether it is youth or seniors. But targeted interventions, I think we can do a lot more. So we are looking forward to working with you on that. Okay, thank...
+
+**(01:31:27)**
+
+
+
+You. I look forward to that too. All right, thank you. Councilmember stepping in for the Finance Chair. Before I start my own questioning, I just wanted to welcome and thank the advocates who are up in the balcony today. Appreciate you all being here.
+
+You know, I want to pick up, I think, where the Council Member just left off in terms of support for our transgender, nonconforming and gender expansive community. Commissioner, you said it really well when you said that there is this concerted effort to erase folks from existence, and I just want to put this in the context of the past because this has happened before and it is also the reason why our communities struggle to this day.
+
+So for folks who do not know this, before 1933, Germany was the center of LGBT+ community and culture, and they had a number of renowned organizations serving and supporting trans and gender nonconforming people. It was under Hitler's Nazi government that they were targeted, and it is the same argument of like, we have to protect youth and raise healthy families, and they used that as a mechanism for genocide. That included decimating the Institute for Sexual Research, which was founded by a Jewish doctor, and that was where the first modern gender affirmation surgeries were done. They stormed the institute, they burnt over 20,000 books, and it was irreversible. It set back the progress of the work, not just medically but socially, a long ways. So here we find ourselves today, and I just want to root it in how important it is and how it is not that different.
+
+So you said that you have launched the Trans Rights Are Human Rights public awareness campaign in partnership with the Office of LGBTQ+ Affairs, and I just want to know what the total budget allocation is for the campaign, what funding sources are being used, how the City is going to measure whether the campaign leads to increased awareness of legal protections and increased reporting of discrimination. What are the things that you are looking at in that?
+
+**(01:33:42)**
+
+
+
+Got it. Well, first I am going to turn to... let me first share that it is incredibly important that we get the messaging right here and that we lean into the communications and the campaign, but it is also important to deliver for people and to provide the services they need. We are excited to say that pretty soon we are going to be able to offer gender affirming care directly at our clinics. We have a clinic that will be opening up in Corona, which will offer gender affirming hormone therapy for adults. It is like one of the first times a public health department has ever taken that step and we are proud to not just stop there. We will continue moving forward with this.
+
+**(01:34:27)**
+
+
+
+Can I ask a follow up on that? Particularly because that is a really big deal, but also, you know, we are seeing this devastating decrease in services for youth, and especially youth under 13 or 12. There are almost no providers who provide that care, and the one or two that do...
+
+**(01:34:47)**
+
+
+
+is obviously under attack from the federal government. So are you thinking about an expansion in that youth care? Because I am talking to parents all the time and they do not know where to take their children. Yeah, as you can see, the balance that we have to strike is we are committed to this issue and want to make sure that we provide the services and resources for youth, as well as making sure that we do not expose ourselves to clawbacks from the federal government, which disrupt the rest of the care that we can provide. So there is much more to come on this, trying to sort of figure out that right balance. We are eager to work with you on this, but rest assured, we are working on this. We are trying to figure out how to do this. Let me hand it over.
+
+**(01:35:41)**
+
+
+
+Yes, let us put some numbers on this. Yeah, thanks, Chair Cabán. Thanks, Commissioner. So just to put some numbers on a couple of things we have talked about. As the Commissioner mentioned, there are 20 community based organizations that are receiving funding. That is through the TGNC Empowerment Fund and that is a $2 million investment. There is also the trans equity programming, so there are 726 City Council discretionary contracts across five vendors totaling... that supports primary care, surgical care, mental health care, education programs and a whole host of other resources.
+
+**(01:36:15)**
+
+
+
+I will say that the investments on the trans equity front, we want to see them higher. Right, last year the LGBT+ caucus, along with community advocates like — shout out to the Trans Equity Coalition who did incredible work — were able to secure in initiative funding a historic investment, almost $13.25 million for gender-affirming care. There is a greater need today than there was even last year, and I know that the advocates are asking for a bigger investment from the administration. I know it is something that the Mayor ran on when he was running for office. So while we see that investment there, there is a lot of room between that commitment that was made and what we see right now in the executive budget. So do you anticipate us seeing differences when it comes to the adopted budget, or what are we looking at there?
+
+**(01:37:14)**
+
+
+
+We hear you. We are on the exact same page and I cannot get in front of this, but there is more to come on this exact issue. Looking forward, we want to be partners in this. So whatever we can do to help on that front is a big deal. And then before I pass it over to Chair Schulman, I just have one more question for you.
+
+**(01:37:44)**
+
+
+
+Gender identity discrimination complaints are at a five year high, while transgender New Yorkers are obviously continuing to face harassment, violence and barriers to care. What investments, particularly, are being made to address the mental health impacts of discrimination and anti-trans violence? Like, how much is being specifically earmarked for culturally competent mental health services for transgender, gender non-conforming and non-binary New Yorkers? I realize that question could fall under public health, it could be in the...
+
+**(01:38:14)**
+
+
+
+Yeah, well, I will start the conversation and we can continue with some of our experts. Look, from our standpoint on our mental health side, our services are available to all New Yorkers, including LGBT+ New Yorkers. Now, that being said, there are specific carve-outs that help to allow us to do our work even more focused in that community. I want to not jump out ahead of our mental hygiene team, who can give you a little bit more specifics on that. But yeah, absolutely, we do see an opportunity not just for the LGBT community at large with regard to mental health, but also the youth component is incredibly important. Thank you. Thank you, CM Restler. Thank you very much.
+
+**(01:39:12)**
+
+
+
+Congratulations on your appointment, Commissioner. When people are new to City government, one of the quickest ways to judge them is based on the people you hire and put around you. I was very pleased by your chief of staff appointment, somebody who I worked with for a long time. Shout out to Jill Krause. Okay, a few things from me. I will try to go fast because I like to cover a fair bit. So, according to the report we received earlier this year from legislation we passed last year, there are currently 465 vacant supportive housing units that are contracted by the Department of Health and Mental Hygiene. They are offline with no referral in process. So that is nearly 500 units of housing offline with no referral in process — supportive housing, the most urgently needed kind of single type of housing in all of New York City. Do you have a breakdown of why those units are vacant? Do they need significant repairs? And if, as the City Council's Progressive Caucus has advocated for in the Rentals Within Reach campaign, we were to provide additional funding to fix those units up, would you take it to help connect more residents who need supportive housing?
+
+**(01:40:23)**
+
+
+
+Yeah. Let me say, first of all, you are exactly right. We see the same picture you do. At the end of the day, sometimes home is the most important intervention for individuals. We are proud to contract over 13,300 units in total. Our vacancy rate is somewhere in the 5 to 6% range. There are some details here that I want to hold off on until our mental hygiene team can come back on, but I will say it is a little complicated when we are trying to move folks through the process. There are natural things that happen — people, you know, or there are other complications that make it challenging to quickly get people in and out. It is also important to make sure you get the right person in the right unit.
+
+Without a doubt, all of that is true. There is a separate conversation we have to have about how we do a better job of getting somebody through the application process and into housing more quickly. But the thing that we have focused on, for both transitional and supportive housing, is that we have a thousand City units that we fund that are vacant and have no referral in process. In my opinion, that is offensive. It is disgraceful. We have thousands of people sleeping on the streets and in our subways who are suffering from chronic mental illness and have no place to go. The number one, evidence-based, cost-effective solution is supportive housing, and the fact that we have so many vacant units with no referral in process is, I think, mismanagement that we cannot defend or accept. So we want to put the resources in place to get those fixed up and work together on it. We will follow up with the team this afternoon further on that.
+
+**(01:42:01)**
+
+
+
+I was really pleased by the article in Crain's this morning about the additional community health workers. So I just wanted to run through this a little bit. Our current estimates are that 233,000 people are going to lose access to health care and will no longer be eligible for the Essential Plan after the changes that were made in Albany. Just to give a sense and have this on the record for everyone to understand, that is a single person who is earning between $31,920 and $39,900. So somebody making 30-something thousand dollars a year, living in poverty in New York City, between 200 and 250% of the poverty line, has lost their health care as a result of the changes that had been made. So could you — I think there are two things I would like you to speak to, because I am out of time and I do not want Chair Cabán to kill me because she has got 16 more hearings today.
+
+**(01:42:56)**
+
+
+
+Firstly, what are the health care options, health insurance options, that these community health workers are going to be able to connect these very low income New Yorkers to, now that they are no longer eligible for the Essential Plan? And then secondly, I am profoundly concerned about the 500,000 people that are going to lose access to Medicaid as a result of the new bureaucracy that is being imposed around recertification every six months. I know that we do not have the terms yet from Albany, from the State Department of Health, on exactly what that process is going to look like. But how can those community health workers do more to proactively engage New Yorkers and try to make that process as easy as possible? Is that part of the purview of the 46 individuals that you are hiring with that $3 million?
+
+**(01:43:37)**
+
+
+
+We could talk for hours on this, and I know I tried to go fast, but these are big questions. We will follow up with you. It is clear that you understand this issue and really are committed to helping to address it. So we are eager to work with you on this. Let us talk one at a time. So first, with the Essential Plan, your data is exactly right — 230-something thousand individuals are going to end up losing coverage. So what do we do about it? First, we pulled the Board of Health together just about two weeks ago to pass a resolution that calls this what it is. Number one, these are attacks on public health insurance by the federal government. Number two, it commits us to creating a plan to address these coverage loss scenarios, and we immediately put money behind it. We launched a campaign to help individuals who lose their Essential Plan enroll in other coverage options, including Care, which is another type of coverage — a safety net of the safety net type of coverage option. But third, helping these individuals also recognize that they can always come to us. We have 11 clinics across the City and folks can come to us to get their care.
+
+With regard to Medicaid, yes, we have 46 new staff coming in to help us do this work. That is the baseline, that is sort of a floor. On top of that, we can bring in navigators and people who are looking for either volunteer work or looking to do workforce development. We can add many, many more layers on top of that. We have a huge community of community based organizations as part of the Axes Health program. So the bottom line is this is us as a health department putting our hand up and saying we are committed to this fight. We are going to work with other organizations, we are going to work with other agencies and we are going to work to get this done on behalf of New Yorkers.
+
+**(01:45:40)**
+
+
+
+I really appreciate that. I think we cannot just underscore how devastating the federal policies have been that are going to lead to one in 11 New Yorkers losing their health care. 9% of New York City residents are going to lose their health insurance as a result of changes to Medicaid and eligibility changes to the Essential Plan. When we are shifting what is billions of dollars onto Health and Hospitals as a result of so many newly uninsured people going in for care — Care is a good model, I helped to launch it, but it is not insurance. Frankly, the wait times on primary care and secondary care are not what we want them to be. So we have limited options here. I appreciate your creativity in trying to step up and saying we want to do our best to connect people to care and preventative care as much as possible. I think we all need to be much...
+
+**(01:46:35)**
+
+
+
+more focused on this issue and immediately. I appreciate your leadership and thank you. We are looking forward to working with you. As I can say as an ear doctor who is part of the Health and Hospitals system, I think we are going to see a much larger volume of folks coming through. The bottom line is we as a health department need to do our job to help providers like myself, so that we can take care of people but also not have to worry about helping them get in. So thank you.
+
+**(01:47:07)**
+
+
+
+I just want to recognize we have been joined by CM Morano on Zoom. In the interest of time, there were a couple of questions that the Deputy Speaker wanted to ask about the racial equity plan, which we will forward to you and hopefully you can get back to us on those. I will pass it off to Chair Schulman.
+
+**(01:47:25)**
+
+
+
+Apologies. I had to step out to take an important phone call, so I apologize. Okay, so the Speaker had to be called away. She asked me to ask the questions that she wanted to ask, so I am going to ask on her behalf. The Office of Health Care Accountability was established in June 2024 through the Health Care Accountability and Consumer Protection Act, which the Speaker spearheaded while serving as Chair of the Committee on Consumer and Worker Protection. The office was created to examine health care costs across New York City, improve transparency in health care pricing and spending and identify strategies to reduce costs for patients and the health care system overall. The Fiscal Year 2025 adopted budget added $2 million and 15 positions to do this, but no additional funding was added to support the office in the preliminary and executive plans. Pursuant to Local Law 78, the office is required to publish an annual report detailing its findings, analyses and recommendations, which is required to be released by August 1. What progress has the Office of Health Care Accountability made since it was established?
+
+**(01:48:35)**
+
+
+
+Yes. First of all, I want to thank the Speaker for her leadership on this issue. We do not think you can have a conversation about affordability in this City without talking about health care, and we do not think you can hold health care systems accountable without a body like this — the Office of Health Care Accountability. The thing that I would say right up front is the tool that we were able to release last year, the price comparison tool, offers New Yorkers the ability to check the price of 30-something common procedures and services. This gives New Yorkers the insight that they need to make decisions about where they should go for their care. Secondly, yes, we are hard at work on the annual report. We have an agreed-upon deadline with the Speaker to make sure that we get that out the door by August 1, and so we will be working with her team and with counsel to make sure that we get the information that we need to do it. With regard to that report, let me pause...
+
+**(01:49:41)**
+
+
+
+There is much more I could say on the office, but I know you have questions. The portal that you were talking about — do we know how many people have used it? I know we asked during the preliminary budget hearings. How many people have used it? How are we marketing it? That kind of stuff.
+
+**(01:49:58)**
+
+
+
+15,000 people have used it. Yes, we are absolutely singing the praises of this site from the rooftops. I think it is an incredibly effective tool and folks should go online and just Google search "price transparency tool, New York City Health Department."
+
+**(01:50:20)**
+
+
+
+You should put it out in one of your wonderful tweets.
+
+**(01:50:22)**
+
+
+
+Honestly, that is not a bad idea. Has the office...
+
+**(01:50:29)**
+
+
+
+identified opportunities to reduce health care costs or improve affordability for New Yorkers? Yeah, we are hard...
+
+**(01:50:34)**
+
+
+
+at work trying to identify the intersection between the four key areas that we are trying to address with affordability and this office. So area one is Medicaid coverage and helping individuals who are at risk of losing their Medicaid stay covered. Number two is benefit enrollment...
+
+**(01:50:51)**
+
+
+
+This is benefits like SNAP, helping individuals get those benefits. The third is medical debt, trying to erase or prevent as much of it as possible. And the fourth is eviction prevention. So we are looking right now at this sort of intersection between what the office has done and what the office can do to address these four areas. I am personally very excited about the ability to leverage this entity to accomplish many of our goals for affordability.
+
+**(01:51:24)**
+
+
+
+How many of the 15 budgeted positions are currently filled?
+
+**(01:51:29)**
+
+
+
+Currently we have 12 of the 15 filled. We have three remaining slots. These are some of the slots that I mentioned earlier — highly technical medical economist slots — and so we are looking not just to fill the roles, we want to have the right person in each of those roles. So if Council has quality candidates, we would be looking to interview them and potentially bring them on board.
+
+**(01:51:53)**
+
+
+
+How is the office coordinating with other City agencies and health care stakeholders?
+
+**(01:51:58)**
+
+
+
+Yeah, we are working across City Hall to do the work of holding health care systems and payers accountable. I will give you just one concrete example. We are working closely with our... on an upcoming report looking at the NYC Care plan and making sure that that shift to this new model is done in a way that is not limiting access to care and is also decreasing costs, given the ongoing reimbursement rate negotiations between...
+
+**(01:52:34)**
+
+
+
+New York-Presbyterian and Emblem Health. What role has the Office of Health Care Accountability played in assessing the impact of provider reimbursement rates on City health care costs?
+
+**(01:52:45)**
+
+
+
+Yeah, another really good question. Our team of health care economists and policy analysts are ingesting that data and analyzing it to assess what the impacts are going to be for New Yorkers. At the present moment we do not have a final analysis to share on that, but we can circle back when...
+
+**(01:53:05)**
+
+
+
+you have an estimate of when the report will be ready. Yeah...
+
+**(01:53:10)**
+
+
+
+We are aiming to get that by August 1. Okay. I am sure some of these questions will be answered in the report. I want to ask you about...
+
+**(01:53:30)**
+
+
+
+Hello. Second, sorry...
+
+**(01:53:39)**
+
+
+
+Just a couple of quick questions. One is about the to-go groceries program. Every year it is financed at $10 million and I want to know if there is any move by you all to push on and baseline it, because every year it is at $10 million and then we have to keep pushing and pushing and pushing. It should just be baselined at this point.
+
+**(01:54:06)**
+
+
+
+Huge fan of this program. This is a really important program for some individuals throughout the City who need access to fresh fruit, produce and food that keeps them healthy. We have been able to help about 4,200 people over the course of calendar year 2025. We are constantly in communication with them to figure out how to meet the needs of the people that we serve and are looking to continue those as we build out. Okay, we are going to...
+
+**(01:54:47)**
+
+
+
+In the interest of time, I think we are going to send you a bunch of questions and ask you to answer those. We are not going to... One question I do want to ask: you know that last year the City Council provided a $500,000 discretionary award to Flatbush Cats to support our services. We wanted to see if the administration would consider baselining or expanding City support for low-cost spay-neuter services in future fiscal years. So what...
+
+**(01:55:20)**
+
+
+
+As a proud cat dad, that is...
+
+**(01:55:23)**
+
+
+
+Good to know. I am just laughing because I have four cats now. My two normal cats... that explains it. My fiancé surprised me with two new foster kittens this weekend, so we will...
+
+**(01:55:40)**
+
+
+
+We will circle...
+
+**(01:55:42)**
+
+
+
+Back. Yeah, it is important because it goes back to... we had questions too about when they are all going to be finished. When is the Brooklyn Animal Care Center project going to be done? Because the other thing too is that the overcapacity is based on that, and everything goes hand in hand.
+
+**(01:56:03)**
+
+
+
+I can just speak to... sorry, regained composure here. Yes. We can say that the Bronx shelter is going to be targeted for opening in early 2027. We have work going on in the Brooklyn shelter right now. When is that? How is that going? Thinking about late 2027 for that one.
+
+**(01:56:24)**
+
+
+
+All right, we will ask you... like I said, we will send you a bunch of questions and I am going to hand it over to the chair to close out the session. Yes. Okay.
+
+**(01:56:33)**
+
+
+
+One more question, though, from CM Nurse. Thank you again, Chair. Recent federal court rulings surrounding access to mifepristone and medication abortion have brought back national attention on reproductive health and access to abortion services. DOHMH operates the Abortion Access Hub, which connects individuals to abortion providers and reproductive health resources. Medication abortion services are currently available at four sexual health...
+
+**(01:57:16)**
+
+
+
+clinics. The executive plan includes $5 million baseline starting in fiscal year 2027 for abortion access services. How will the $5 million baseline funding be used to support abortion access and reproductive health services?
+
+Thank you very much for this question, Council Member. We take seriously our responsibility to provide access to safe abortion services, and that means not just providing those services ourselves, as you have said, but we also make sure to provide a network of providers that patients can call. This is funded through our Abortion Access Hub. We have been able to answer nearly 10,000 calls and refer over 8,000 patients to a whole network of providers who can help them if they need. We are not going to stop providing these services no matter what we hear from the federal administration. I am going to pass it over to Aaron to share more.
+
+**(01:58:31)**
+
+
+
+CM Nurse, right. So just to reiterate, the $5 million baseline funding actually came a couple of years ago. This helped us stand up the Abortion Access Hub work. Of the $5 million, it includes a million dollars for the Abortion Access Hub itself and then...
+
+**(01:58:43)**
+
+
+
+about $4 million of that is for our public health clinics to provide medication abortion services.
+
+**(01:58:50)**
+
+
+
+Why is abortion medication currently available at only four of the City's six sexual health clinics and are there plans to expand access citywide?
+
+**(01:59:02)**
+
+
+
+Yes, a really good question. You are right. Four out of the six currently have the capabilities to do this. We are working on a fifth. I will say that the challenges are mostly with space. Some of these services need more than just a simple room — you need to be able to do the care right by the patient. We are working through some of the challenges with regard to space and logistics, but it is our hope that we will be able to expand these services.
+
+**(01:59:39)**
+
+
+
+What trends has DOHMH seen in...
+
+**(01:59:43)**
+
+
+
+use of the Abortion Access Hub? So far, what we know from our data is that we have been able to answer about 9,400 calls and refer about 8,000 patients. Interestingly, what we see is that a pretty sizable portion of the people calling into the hub are from places like Georgia and Texas and others. The service that we are providing is of course primarily focused for New York City residents, but we are identifying that others across the country are using it as well.
+
+**(02:00:27)**
+
+
+
+But somewhere I heard that some of the folks from here are traveling to other states to get...
+
+**(02:00:35)**
+
+
+
+abortion medication. Or here? Hmm...
+
+**(02:00:40)**
+
+
+
+When I heard it, I was wondering how come we are living in the City of New York and going to other states to get abortions.
+
+**(02:00:47)**
+
+
+
+Supports whatever. Yeah, I...
+
+**(02:00:48)**
+
+
+
+have not heard that. We will circle back on that and have a conversation with you. It seems like that is...
+
+**(02:00:55)**
+
+
+
+Sure. Okay. Has demand for reproductive health services changed in recent years? I know you knew, but what can you share from the data?
+
+Yes, it is a good question. We will have to get back to you on exactly what the trend looks like. I will say that we expect it to increase because of some of the data that I have just mentioned — that 25% of the people who are calling our lines are not even from New York City. As we see the abortion access landscape across the country change, I think we are going to end up seeing more intake from our own city.
+
+**(02:01:40)**
+
+
+
+Okay. How does DOHMH ensure short, timely reimbursement for community-based providers delivering those services? And quickly: Black and Latino mothers continue to experience higher rates of morbidity and mortality than others. What is DOHMH doing to reduce these...
+
+**(02:02:02)**
+
+
+
+disparities? Great. We are going to take those one at a time. I am going to kick it to Aaron on the reimbursement and I will take the second part of the question.
+
+Thanks for the question. We certainly aim to ensure timely reimbursement for all of our providers, including these folks. If there are issues, we are always happy to work with them directly. Our chief nonprofit officer position is there for exactly that type of work. So we are happy...
+
+**(02:02:22)**
+
+
+
+to have that conversation. And you can see that the timing things...
+
+**(02:02:30)**
+
+
+
+even though we wanted to continue with the...
+
+**(02:02:33)**
+
+
+
+hearing. Should I continue?
+
+**(02:02:34)**
+
+
+
+No, finish. Yes. So, you are right. Black and Latina women face up to four to five times the likelihood of dying from pregnancy-related causes in the City, and that is unacceptable. We have a number of concrete initiatives that we leverage in a targeted way. The first one that I am most proud of is the citywide doula initiative. This is a program that pairs at-risk pregnant people with doulas to help them basically walk through the whole process of pregnancy with someone by their side. We have had thousands of people who have been served by this program and we have had zero maternal deaths as part of this program.
+
+**(02:03:16)**
+
+
+
+That is an astounding improvement. I love that.
+
+**(02:03:19)**
+
+
+
+All right. The Chair seems like she wants to keep the time, so I am going to pass it back...
+
+**(02:03:24)**
+
+
+
+to... yeah, we will definitely follow up for the rest of the questions that were not asked. And then, CM Wong, yes.
+
+**(02:03:32)**
+
+
+
+Final question. Thank you. In this budget over here, it says that highlights of the fiscal year 2027 to 2034 plan include a new Animal Care Center in the Bronx, upgrades to the Animal Care Center in Brooklyn and other animal welfare investments. Now the Queens Animal Care Center opened on August 23, 2024. Looks great — 50,000 square feet, beautiful. The problem was the Brooklyn Animal Care Center was closed within the same week and the Brooklyn animals were moved into the Queens facility. I know because the Queens Animal Care Center is within walking distance from my district office. What happened? The Queens animals got displaced and many of them were sent away or even euthanized.
+
+So what I would like to know is: do you have a plan? Because if you are going to build the Bronx one, the Brooklyn animals are going to go to the Bronx. When the Brooklyn one is finished, the Bronx animals are moved to Brooklyn, and then this is going to happen again. My question is: do you have a plan B on what to do with the animals while these animal centers are being renovated, rather than just pushing them into the other boroughs? That is my question.
+
+**(02:04:54)**
+
+
+
+Yeah, it is a really good question. First of all, we have had an increase in our budget specifically for animal care, as you have talked about. The Bronx shelter is going to be opening in 2027 and the Brooklyn renovation is coming at the end of 2027. We are certainly aware of the increased surge and the capacity challenges here. I am going to pass it over to Deputy Commissioner Karim...
+
+**(02:05:21)**
+
+
+
+to share a bit more here. Thank you. The Queens Animal Care Center is, as you say, a beautiful state-of-the-art facility. When we opened that facility, we were able to actually align the full renovation of the Brooklyn site at the same time as we were opening the Queens site. What that let us do is move more rapidly to finish the Brooklyn site. What we had been concerned about was that the alternative was to do the renovation at the Brooklyn site while staging those renovations, so the animals and the staff would have to be on site. That was going to slow us down, but it was also going to leave the animals and the staff essentially in a construction zone, which would have been very stressful for the animals.
+
+So we managed to align the two projects and we moved the animals that were in Brooklyn to the Queens Animal Care Center before it opened. That let us maintain the same number of full-service shelters that we had operating in New York City. As the Commissioner just said, and as the Chair had mentioned, we will be opening a full-service shelter for the first time in the Bronx and we will be opening a full-service shelter in Brooklyn, which is going to expand our capacity across the...
+
+**(02:06:41)**
+
+
+
+Okay. My final comment is that there is room for improvement on animal adoption, because what I see is that if we can do better on that, then far fewer animals will get euthanized. I get calls every other day about an animal that is going to get euthanized. What are you doing to promote adoption? I cannot answer them because I am not the one planning these things.
+
+**(02:07:03)**
+
+
+
+Let me just say that at the Animal Care Centers, no animals are euthanized for space. We do have animals available for adoption. We also have a facility in Manhattan that is solely dedicated to animal adoption. There are wonderful animals available for adoption from Animal Care Centers. We welcome your help in getting the word out about adopting and fostering. These are New York City's animals and we welcome your support in getting the word out to New Yorkers.
+
+**(02:07:39)**
+
+
+
+Thank you. Thank you, Kamillah. Thank you, Joe.
+
+**(02:07:42)**
+
+
+
+Thank you. Okay, we are going to take a really quick break. I am going to say five minutes, knowing it is probably going to be a little longer, but definitely want to make sure that we are starting at 12:30 at the latest. Thank you so much.
+
+**(02:08:25)**
+
+
+
+How are you? Do you have a second? I have a good question. It is not there. This is actually restoring what was a temporary one-time federal... so it is not... it is not. Okay. Yeah, sorry.
+
+**(02:08:55)**
+
+
+
+No, I am okay. I think we are ready to begin. Good afternoon and welcome to the second fiscal year 2027 Executive Budget hearing for the day, focusing on the Department of Health and Mental Hygiene, on the mental health portion. I am Council Member Linda Lee and I am pleased to be joined by my colleague and co-chair, CM Cabán, Chair of the Committee on Mental Health and Substance Use. We have been joined by the Deputy Speaker on Zoom, CM Aldebol, and CM Felder and CM Ariola on Zoom, and CM Restler. And I think that is it, and CM Wong. Oh, yeah, because you were Chair of the other one. Sorry about that.
+
+So welcome again to Commissioner Dr. Alistair Martin and your team, and thank you so much for joining us today to answer our questions. On May 12, 2026, the administration released the Executive Financial Plan for fiscal years 2027 to 2030 with a proposed fiscal year 2027 budget. The Department of Health and Mental Hygiene's mental health proposed fiscal year 2027 budget represents 0.7% of the administration's proposed fiscal year 2027 budget and the...
+
+**(02:24:07)**
+
+
+
+executive plan. This is an increase of 7.9% from what was originally budgeted in the preliminary plan. This increase results from several actions, mostly involving mobile treatment teams, mental health clubhouses, the Office of Community Mental Health and an array of savings measures. As of April 2026, DOHMH was less than their fiscal year 2026 budget. In the Council's preliminary budget response, we called on the Mayor to add $18 million to DOHMH's mental health portfolio to invest in Intensive Mobile Treatment, Assertive Community Treatment and crisis respite centers.
+
+We also raised concerns regarding mental health programs, one-shot funding, Mental Health NYC, 988 to ensure free suicide prevention counseling is available to all New Yorkers in crisis, peer specialists and to ensure we are adequately funding clubhouses. Although our request was not included in the plan, I look forward to hearing from the Commissioner and staff about their plan to sustain critical mental health programs and what steps are being taken to ensure these vital programs remain available to New Yorkers who rely on them. I now want to turn it over to my co-chair for this hearing, Chair Cabán, for her opening statement. Thank you very much.
+
+**(02:25:27)**
+
+
+
+Good afternoon, everyone. I am CM Tiffany Cabán, Chair of the New York City Council's Committee on Mental Health and Substance Use. Thank you for attending today's hearing on the City's fiscal year 2027 Executive Budget for the mental hygiene portion of the Department of Health and Mental Hygiene, or DOHMH. I would like to thank the Committee on Finance Chair Aldebol for holding this Executive Budget hearing with my committee and also Dr. Martin and your team for testifying today.
+
+In the fiscal year 2027 Executive Budget, the mental hygiene proposed operating budget includes spending on personnel services for 563 budgeted positions. The budget also includes nearly $860 million for other than personnel services, most of which covers 377 mental health and mental hygiene contracts. The net change in the mental hygiene fiscal year 2027 Executive Budget compared to the fiscal year 2027 preliminary budget is mainly due to a baseline funding cliff for mobile treatment teams, and I think that is important to point out and be clear about. It also includes one-time funding to support the Office of Community Mental Health and the newly created Office of Community Safety, as well as additional opioid settlement funding that the department received.
+
+The Executive Budget also includes an array of new savings measures focused on contract renegotiations, vacancy reductions and anticipated underspending. I am interested in hearing from Dr. Martin and your team your testimony on how these savings were achieved and whether they would impact operations. One thing is clear: New Yorkers with mental health and substance use issues rely on all of us to advocate for them and provide them with adequate resources to continue receiving the services and care that they need. I do want to ensure that the City does not cut funding that will impact critical services.
+
+The committee is going to focus on the following topics for questions today: the mobile treatment teams, the opioid settlement funding, the City supportive housing program, as well as the justice-involved supportive housing and related programs, and headcount changes. I know that our Chair, who is well versed in this area, is also going to focus on some other related areas. But before we begin, I would like to thank the finance staff — Amman Mahadevan, we have got to put respect on our names, you know — and Assistant Director Florentine Gabor and Deputy Director for preparing this hearing, and the committee staff Sarah and Justin Campos for their work. I would also like to thank my staff, Jonah Birch...
+
+**(02:28:20)**
+
+
+
+So I am going to turn it over to the Chair now. Okay, great. Same announcement as I made before: we are having public testimony hearings all day Wednesday, June 10. I feel like I am promoting a party, but I hope you all are going to join us and listen in. Yes, June 10, starting at 9:30, is going to be an all-day public testimony hearing day. Please join us for that. Without further ado, I will pass it off to Brian Scarfo, our...
+
+**(02:29:15)**
+
+
+
+Oh, sorry. One thing really quickly. We have been joined by CM Aldebol. Sorry, go ahead.
+
+**(02:29:22)**
+
+
+
+Fantastic. Thank you very much. Chair, Council members who are here with us today. My name is Dr. Alistair Martin. I am the Commissioner of Health of the New York City Department of Health and Mental Hygiene. I am joined today by our Chief Financial Officer Aaron Anderson, Executive Deputy Commissioner of Mental Hygiene Dr. George Pettit, Assistant Commissioner Jamie Nichols and Dr. Rebecca Lynn Walton. Thank you for the opportunity to testify today on our executive budget as it relates to mental health. Our mental health work is a core component of our larger vision for the Health Department and the City. We offer a wide range of free services for justice-involved populations and New Yorkers struggling with mental illness or substance use. Some of those services are delivered directly by Health Department employees. In addition, we work with more than 200 community providers to deliver more than 500 programs. These programs offer crisis intervention, housing, clinical support and many other mental health programming. We build on that work every day.
+
+For example, in my first 90 days at the agency I was proud to announce a $12 million investment in the workforce at substance use recovery programs across New York City, a $20 million investment in perinatal and early childhood mental health services as well as the expansion of our Nurse-Family Partnership program, and a new campaign that encourages New Yorkers to order and carry our free naloxone kits. Last year alone we distributed more than 285,000 naloxone kits and more than 100,000 fentanyl test strips. Across every service we are focused on harm reduction, accessibility and honoring every person's humanity. That is perhaps best exemplified by our peer workforce programs.
+
+Last month the Mamdani administration announced a $12 million investment of opioid settlement funds. That money will go towards peer workforce development programs for substance use recovery, including things like internships, scholarships and direct hiring opportunities over the next four years. This money will ultimately help employ 500 more peers across New York City. The peer model honors the fact that people in recovery have a story no one else can tell. There is no substitute for lived experience. The recent investment in this workforce will help equip 500 more people to retrace their steps on the road to recovery and bring someone back with them.
+
+Whether New Yorkers are struggling with substance use, mental illness or transitioning out of incarceration, they need the same things we do: to know that they are not alone and to have a safe place to come home to. We recognize that affordable, stable housing is a starting point for recovery, and so we are determined to get as many New Yorkers as possible housed and connected to resources. We remain committed to the goal of the 15 over 15 program to develop 15,000 units of supportive housing.
+
+**(02:32:25)**
+
+
+
+Which provides affordable, independent and permanent homes to New Yorkers who are unhoused and either have or are at risk of having a serious mental illness or a substance use disorder. This year we surpassed 13,000 units of both 15 over 15 units and State-City Partnership Program units. We are well on our way to meeting or exceeding our goal. Approximately 13% of our supportive housing units serve families with children and about 5% serve young adults. In aggregate that is more than 2,000 units that are providing New Yorkers with stability early in their lives. All 13,000 of these apartments provide long-term solutions. Our data shows that for people moving out of supportive housing the average length of stay is 7.6 years. These units are a lifeline for thousands of our neighbors, especially in one of the most expensive cities in the world.
+
+In this year's executive budget I am particularly proud to see the necessary funding to turn our community syringe redemption pilot program into a mainstay initiative. That program offers payment for the collection and safe disposal of used syringes in public spaces. Participants receive guidance on how to safely dispose of syringes and are paid 20 cents per syringe for up to $10 a day. In the first year alone that program was responsible for the collection of more than one million syringes and enrolled over 1,800 participants. That is syringes safely discarded away from public reach. By every metric it was a remarkable success. That is reflected in the testimonials of participants. One of our earliest adopters said this program gave him a reason to not reuse needles. While removing litter is one small piece of a larger ecosystem for harm reduction and recovery, it is making a tangible difference in our communities.
+
+The syringe redemption program is complemented by the ongoing work of our outreach and syringe litter programs, who also offer naloxone and services for New Yorkers who frequent high-use areas. Each of our outreach and syringe litter teams partners with a syringe service program. These SSPs provide overdose prevention, education and hepatitis C testing and referrals to a range of health and social services. There are 14 SSPs across the City and they provide services at walk-in locations and through mobile vehicles. Their work reaches approximately 22,000 people a year.
+
+I am grateful to see the value of the syringe redemption program and larger harm reduction work recognized in our City budget. While mental health care is integral programming across our health work, the Mental Hygiene division employs about 600 people with an operating budget of over $900 million for fiscal year 2027. There are several components of this year's City budget that support our mental health programs in particular. There are longstanding funding cliffs that have been structurally solved in the budget. We are grateful to see our work receive the long-term stability it deserves and break out of the pattern of year-to-year funding. That includes our mobile treatment programming, which encompasses Intensive Mobile Treatment and Assisted Outpatient Treatment teams. IMT teams serve New Yorkers whose needs are not being met in traditional health care settings. They serve some of our hardest-to-reach neighbors and meet them wherever they are: at home, in the shelter, on the street corner. Many of these teams include both clinicians and peers and are equipped to support New Yorkers through mental health and substance use disorder treatment. Services are individualized and courses of treatment are expected to last several years. That program reached more than 1,000 people a year.
+
+In parallel, our Assisted Outpatient Treatment teams support adults with a history of multiple hospitalizations or harm caused by non-adherence to mental health treatment plans. AOT reinforces recovery by monitoring the progress of a court-ordered treatment plan and supporting New Yorkers through care coordination across multiple service providers. That work supports more than 2,000 people a year. We are also encouraged to see funding stabilized for clubhouses, which provide New Yorkers living with serious mental illness with help accessing benefits, employment opportunities and community. There are 13 clubhouses across all five boroughs. Each of these physical sites houses a community stronghold for New Yorkers with mental illness. 40% of members have been enrolled for more than five years. Here, participants are not clients, they are not patients, they are members. Each clubhouse is designed by and for the members it serves. New Yorkers deserve reliable, stable access to these services and we are reassured that this Council and this administration are dedicating resources to sustain them.
+
+Finally, at the federal level we are watching this administration's actions very closely. National mental health infrastructure has consistently been under attack as far as we have seen under this administration. Harm reduction work in particular has come under unwarranted scrutiny. At the New York City Health Department our federal funding is concentrated in our disease control and our emergency preparedness divisions. Our Mental Hygiene division is not heavily reliant on federal funding, but every part of our agency is impacted by the rapidly changing public health landscape we live in. We continue to monitor changes in federal funding, infrastructure and policy.
+
+In many ways this year ahead is sure to be a challenging one, but I have every confidence that we will meet the moment. That confidence is not derived from any one person, but it is derived from the many public servants committed to showing up for our City every day. Early in my tenure as Health Commissioner I spoke with one of our public servants working in substance use recovery. Her name is Beth. When I asked her what keeps you going every day, she told me something I will never forget. She told me this was not a job. It was a calling. I am grateful to lead an agency of people who took a job and made it a calling. I have every confidence my agency will continue to answer the call for our City. Thank you for your attention. We are happy to answer your questions.
+
+**(02:38:58)**
+
+
+
+Great, thank you. I am going to quickly try to go through these so that I can pass it off to my colleagues. So in terms of, similarly to the last portion, a question about state funding: the executive plan includes state funding of... in FY26 and $414 million for FY27. Because the executive plan was released before the enactment of the state fiscal year 2027 budget, what was added in the executive budget that was previously proposed in the state's executive budget, and is there new mental health and substance use funding in the state's adopted budget flowing to DOHMH?
+
+Well, first of all we are happy to partner with our state colleagues on this work. The Office of Mental Health and OASAS, and we are always in conversation with our partners at the state to define how we can better intervene as co-partners in this. The state Department of Mental Health is spearheading a couple of expansions that we are aware of. The first is an expansion of the ACT programs statewide, and so we are going to be closely monitoring this expansion so that we can see in what ways this impacts our City's program with regard to ACT. Ultimately, from our perspective, we continue to advocate strongly for sustained state investment. We need the state to be part of this work and be our partners here in the City. So far we have had a really great working relationship with the state.
+
+**(02:40:36)**
+
+
+
+That is good. Especially, you know, thanks to, of course, also on the substance use side, the opioid settlement funds. Some of that is now finally being realized and spending down as well.
+
+**(02:40:48)**
+
+
+
+And good to hear about the ACT programs being expanded. Do you know how much was included for the expansion?
+
+**(02:40:53)**
+
+
+
+Included for the expansion.
+
+**(02:40:54)**
+
+
+
+For the state Department of Mental Health, right? Yeah, we are going to have to get back to you.
+
+**(02:40:58)**
+
+
+
+Okay, perfect. Let me...
+
+**(02:41:04)**
+
+
+
+In terms of contracts or savings, DOHMH is one that has a really large number of contracts. I just wanted to know how often does DOHMH assess the effectiveness of its programs run by contracted providers.
+
+**(02:41:25)**
+
+
+
+Let me ask, Chair, is this related to the savings initiative? We are...
+
+**(02:41:29)**
+
+
+
+Just broadly speaking, our contract re-evaluation. I think in general, but yes, I mean the savings portion, yes it is related to that but also in general.
+
+**(02:41:37)**
+
+
+
+I think for best practices, yeah. So let me start on the savings piece and then hand it over to Aaron to share a little more here. So similar to our mandate with regard to public health, we are trying to balance these two priorities. The first is really aligning with the Mayor's vision on the Chief Savings Officer initiative. At the same time we are making sure not to cut any services with regard to our Mental Hygiene portfolio. I am proud to say that we have come through this process and I can stand firmly here and say that no programs were cut and no services were degraded as part of that experience.
+
+As a general matter, all of our contracts are reviewed at least annually at the point of contract renewal. Even if it is a three- or five-year contract, they still sort of have the annual review. Yeah, I mean, aside from that, I would certainly defer to my programmatic colleagues beyond this, but I think we are always thinking about metrics and how we can do it better and how they are doing and all of that.
+
+**(02:42:44)**
+
+
+
+Okay, perfect. And are there service or program areas, based on what you have done with the assessment, that would function better if they were delivered by DOHMH directly? And this is not just specifically related to the contracts, but in general. I guess you are asking the question of whether or not it is better for us to bring services in-house versus contracting out, right? Yeah.
+
+**(02:43:08)**
+
+
+
+Yeah, it is a really good question. I am going to pass it over to Dr. Pettit in a second, but I think this is the core tension not just on the mental health side, but also on the public health side, right? What do we keep in-house and what do we sort of contract out and find a service delivery partner for? Getting that right is something that we are constantly trying to improve on. So let me hand it over to Dr. Pettit.
+
+**(02:43:37)**
+
+
+
+Commissioner, thank you for that question. You know, as a public sector psychiatrist doing this for 30 years, it is an interesting question to be thinking about where the role of the division is vis-à-vis the providers. But I do have to say, you know, the way that the entire system has been built up over the last many decades is really relying on contracted providers who are deeply embedded in their communities, who know their communities in ways that it is harder for us essentially to be as attuned to some of those needs, even though we are aware of them. It really is important for these niche providers to be able to deliver an array of services in their communities to their constituents a little bit differently than we could. There are things that we could do that are more overarching and that really speak to the system as a whole, but I am a big believer that a lot of our programs that exist in these communities are best served by community-based providers.
+
+**(02:44:32)**
+
+
+
+And as a former provider I fully subscribe to that, especially in communities that have very specific language needs and cultural needs. So yes. Okay, so DOHMH has a three-year contract accounting for $26 million with a company called Something's for a telehealth psychiatry service program for teens, and the contract is set to expire at the end of FY26. So just wondering, what is the update you can provide for this specific contract and can you elaborate more about the service?
+
+**(02:45:03)**
+
+
+
+Yeah. So first of all the service that we are providing here is one that we take very seriously. Teen mental health is important and for teens you have to be able to meet them wherever they are. In this case we are trying to meet them digitally and so that is what you are seeing with the work that we are doing on Teen Space. The contract that we are talking about here is one that we are trying to re-procure and do it in a fair way, in a transparent way, and also we are making sure that we can continue to deliver the service so that there is no service disruption for teens that are involved. I am going to hand it to Dr. Pettit for a bit more on the details here.
+
+**(02:45:42)**
+
+
+
+Yeah, thank you. So this contract was actually a demonstration project, and we are going through the process of a concept paper and ultimately a re-procurement of it. I think what is really important is that there was an evaluation tied to this so that we can actually determine not just lessons learned over the last three years, but where things are at currently.
+
+**(02:46:04)**
+
+
+
+Where we are today is different than where we were three years ago, especially with a lot of this technology. So Teen Space, regardless of zip code, location or wherever an individual kid aged 13 to 17 can actually access it, you know, talk, text, chat in a free way. So it has been incredibly helpful and impactful. We have had over 45,000 registrations since inception. I think we can do more with this and that is why we are looking at a procurement process that will help us shape this going forward.
+
+**(02:46:41)**
+
+
+
+Okay, and it is kind of crazy to think that in three years the technology has advanced so much in that short time as well. Okay, so just to confirm, because I think we had heard that DOHMH was not considering renewing the grant starting at FY27, but you are saying that you are going to look at issuing a new procurement and putting that out. Yeah.
+
+**(02:47:01)**
+
+
+
+So we will extend the contract until a procurement is out on the...
+
+**(02:47:07)**
+
+
+
+Street. Okay. And you are saying that should be around October 2027, right?
+
+**(02:47:12)**
+
+
+
+Or... so the contract is up now, right? It is terminating now.
+
+**(02:47:17)**
+
+
+
+We will be extending the contract as we are going through the process of the concept paper, and the extension will be until the next contract...
+
+**(02:47:28)**
+
+
+
+Is able... until we are able to procure the next contract.
+
+**(02:47:30)**
+
+
+
+Okay. And then when do you think that would be? The new procurement to be...
+
+**(02:47:34)**
+
+
+
+Released? Before the end of the year we will have an...
+
+**(02:47:36)**
+
+
+
+Okay, perfect. Just wanted to check. Okay, let us see — in terms of contract renegotiations really quickly, the executive plan includes a baseline reduction starting in fiscal year 27 as part of contract renegotiations. I just wanted to know: were these contract reductions associated with the Chief Savings Officer findings, or was it something separate?
+
+**(02:48:00)**
+
+
+
+Yeah, let me hand it over to Aaron to share more. Okay? Yeah. Thanks, Charlie. So yes, that line item was part of the savings reduction initial.
+
+**(02:48:08)**
+
+
+
+Okay. Yep. And then how many contracts and what type of contracts are
+
+**(02:48:11)**
+
+
+
+being renegotiated? Yeah. So we are still in the process of looking at that. I think we know this was based on a pretty reasonable, even maybe conservative, assumption. So we are in conversations right now with several different contracted vendors.
+
+**(02:48:25)**
+
+
+
+Okay. And how will the services provided through these contracts be impacted by the
+
+**(02:48:34)**
+
+
+
+renegotiations? No impact. I mean, our guiding premise for this entire exercise, as we testified earlier, is really minimizing or making sure there are no service impacts to the public. So these contract renegotiations are
+
+**(02:48:49)**
+
+
+
+also happening through that lens, and so there will be no service impacts.
+
+**(02:48:52)**
+
+
+
+Okay, and sorry, can you... I do not know if you can answer this part, but what type of
+
+**(02:48:56)**
+
+
+
+contracts? I mean, we are looking across the board. As you know, Mental Hygiene has an enormous portfolio, so there is a handful at least that we are looking at specifically.
+
+**(02:49:04)**
+
+
+
+Okay, obviously we cannot talk about
+
+**(02:49:05)**
+
+
+
+them. Okay. Yeah, if you could let us know in a follow-up, also happy to. Yep. Okay.
+
+**(02:49:12)**
+
+
+
+So the executive plan also includes a reduction starting in fiscal year 27 for the Naloxone contract. Are the Naloxone contract renegotiations also related to a reduction of services due to underutilization, or why was that scheduled reduction
+
+**(02:49:35)**
+
+
+
+to the baseline? Yeah. So this is an incredibly important topic and one that I have to say the data is moving in the right direction. When it comes to overdose deaths, we were down 28% as you know, in terms of our last recorded year on file. A lot of that is due to programs like this one. I just want to plug one more time the program that I mentioned in my testimony — any New Yorker can get online, put their information in and get multiple units of Naloxone shipped to them completely for free. We have been able to reach about 185,000 people over the course of the last year. Let me hand it over to Aaron to share a little more about the budget piece.
+
+**(02:50:21)**
+
+
+
+Thanks, Commissioner. So I think this is actually a great example of how you can be creative when doing these savings exercises that are often pretty painful. The story with this one is just that Naloxone has come down in cost considerably over the past few years and it continues to. We have seen it already come down in our world quite a bit, but we have seen other states — California, for example — hit record lows. So we are watching very carefully what other states are doing around the country, what other municipalities are doing, and I think we are very confident that we are going to see additional savings here.
+
+**(02:50:53)**
+
+
+
+Okay. That is a bit of good news. Yeah, we will take it. Okay. Moving quickly to the clubhouses, which is a topic that is very near and dear to me. When we saw that there was a baseline addition of several million dollars in fiscal year 27, I was like, yes, it includes the smaller clubhouses — and then I realized
+
+**(02:51:08)**
+
+
+
+no, that is not what it is for. It is to address a stimulus funding cliff for existing funded clubhouses. So what is the total budget for the funded clubhouses for fiscal year 27? Thank you for that question, Chair. I have to say I agree with you in terms of how miraculous these programs are. I visited my first clubhouse just a couple of weeks ago — it was Fountain House. You know, the idea that individuals there are getting care and support, but also dignity, by being a member of the clubhouse and being involved in the daily work of taking care of the clubhouse is just a beautiful experience. So let me hand it over to the doctor to talk a little bit more about the model.
+
+**(02:51:56)**
+
+
+
+Thank you, Commissioner and Charlie. So clubhouses are truly an incredible system of care that exists within our City. They are member-led. They are really about creating community. They have been a mainstay for the last 50-plus years, really being able to offer employment, education, socialization and just a sense of purpose and belonging. We had not looked at this portfolio for over 30 years. So in 2024 we really underwent a serious consideration and got a lot of input from stakeholders to reprocure the whole portfolio. So now we have 13 clubhouses. Membership has been growing, which is what we wanted. We really want to expand the capacity and it is growing month over month and there is still capacity. So this is one of those programs that we have where there is room to continue to grow, so we certainly encourage any of you with constituents that need these types of services to send them our way. We really want to continue to increase capacity.
+
+So again, it is an incredibly effective model. It is part of this continuum of care. It serves obviously our particular population and we are looking at continued expansion. The State Office is procuring for youth clubhouses. We support one from the LGBT Center — a youth house that serves youth, which is really important, ages 13 to 22 — and we provide a lot of technical assistance and support to them. So there is definitely an expansion that is underway.
+
+**(02:53:23)**
+
+
+
+And sorry, so what is the total budget amount for fiscal year 27? I will hand it to Aaron on the
+
+**(02:53:29)**
+
+
+
+short. Yeah, it is... okay, so around the...
+
+**(02:53:33)**
+
+
+
+And I will say, my next question is around the reprocurement to include some of the smaller clubhouses that was funded by the City Council, because we put extra funding for that. At the time when the concept paper for the new procurement was out there, there were a lot of us, including myself, that spoke to the former Commissioner about the fact that a lot of these smaller clubhouses — and I know I am preaching to the choir — even if they are smaller, a lot of times people have been going there 15 to 20 years. It is a family. It is their support network, their system. So to disrupt that and say, hey, now you have to go here and this is not going to be open — that is why I think on the Council side we felt very strongly that we want to support with our funding to make them whole.
+
+Ideas like a spoke model or subcontracting, or allowing them to exist and then maybe be part of the larger clubhouse organizations and maybe include those numbers in there — there were a lot of suggestions we had made at the time. So I just wanted to know if there is a consideration to do the reprocurement for the
+
+**(02:54:41)**
+
+
+
+smaller ones. Yeah, I can start this off. As you referenced, I was not here when those conversations were happening. I absolutely am committed to exploring this and figuring out if there are ways to do this in coordination with you and with Council Members across the hall to make sure we get this right.
+
+**(02:55:02)**
+
+
+
+And will you be able to pick up the funding? That is the thing. That is probably a question for you. I mean, I think we are
+
+**(02:55:13)**
+
+
+
+always in conversations with our partners at City Hall, and it would be... okay. We have got to advocate to do well. I mean, obviously we will do our part, and I know the Council Member is very passionate about this as well, so we will continue to advocate on our
+
+**(02:55:25)**
+
+
+
+part. And will the Office of Community Safety have any role in the oversight of the mental health clubhouses? If so, what will that role be?
+
+**(02:55:34)**
+
+
+
+Yeah. Thank you for that question. You know, we have been at the work of community mental health for the last several decades here at the Department. From our standpoint, we are eager to work with anyone who comes to the table with a plan and resources, and to work with the Office of Community Safety. I just spoke with the Commissioner this week and we have begun the process of laying the foundation of that work. I will share that at present there is no plan to shift any of our current mental health services to the Office of Community Safety. Okay, I will go back to that in one second,
+
+**(02:56:17)**
+
+
+
+but to your point — going really quickly to the youth clubhouses — because the State is going to be overseeing or managing some of those 15 clubhouses, will any of those come under your purview?
+
+**(02:56:34)**
+
+
+
+I do not think so. We typically do not. We have the clubhouses that are sort of our responsibility, but let us circle back to you with the details on that. Okay.
+
+**(02:56:50)**
+
+
+
+And then just staying on the topic of the Office of Community Safety — there is a total funding of $269.6 million and 126 budgeted positions were added starting in fiscal year 28 for the newly created Office of Community
+
+**(02:57:07)**
+
+
+
+Safety. Are you anticipating any further funding transfers and program shifts? Because my understanding is that these are not new monies, so to speak, but already existing programs that are just sort of being restructured and reorganized. So if you could speak to the budget for that,
+
+**(02:57:20)**
+
+
+
+that would be great. Yeah, I can speak to the component that is reflected within our work. So the Office of Community Mental Health is moving completely over to the Office of Community Safety. This is an office that on paper the budget lines were associated with DOHMH, but we have controlled those programs and those services at the Office of Community Mental Health. So that whole structure will now shift over. Let me hand it over to Aaron.
+
+**(02:57:52)**
+
+
+
+Yeah, and just to add — so in terms of numbers, that means $3.2 million and 17 positions are moving as of fiscal year 28. But again, that is just related to the Office of Community Mental Health.
+
+**(02:58:03)**
+
+
+
+Yeah, okay. And how is this looking? Because I think a lot of us are still... I do not know if we have gotten mixed feedback, but it seems like most people are still sort of not 100% clear on how the Office of Community Safety is going to be coexisting with a lot of the other City agencies that have pieces of the different portfolios that are now under them. So just wondering if you anticipate any funding transfers or, you know, how it would support some of the programs and how you would work with them.
+
+**(02:58:40)**
+
+
+
+How it is going is we are eager to do this work with them. Ultimately we see that office and my counterpart Commissioner as allies in doing this work together, and we are ready to roll up our sleeves and get to work. Specifically with regard to the mental health services, there is no plan to move those services to the Office of Community Safety
+
+**(02:59:03)**
+
+
+
+that we currently run. Okay, so we will keep tabs on that as well. And if obviously you hear anything, if you could let us know as well, that would be great. Okay, so I will stop. I will have one last question around school-based health clinics and then pass it on to our Chair. So for school-based health clinics, what was the fiscal year 26 and 27 budgets, respectively?
+
+**(02:59:26)**
+
+
+
+Yeah. Thank you very much for this question. The reality is that we are proud of our work that we do to help on technical assistance and quality. Ultimately these are State-licensed and State-funded programs, and so we will have to defer some of the specifics around the funding to the State. Unless... yeah, just to add, as the Commissioner said, the funding for these does not flow through our budget, but the budgeting contracts for some of them at least are administered through New York City Public Schools.
+
+**(03:00:07)**
+
+
+
+Because I know when it first started, a lot of the feedback we had heard from the community and especially the Article 31 clinics that are partnering with the schools was that the startup funding costs were so little — I think it was maybe $25,000, if I remember correctly — for them to get started and running. So if you have heard any feedback from the providers on how it is going, that would be great if you could share that with us. And I know that a lot of it is from Medicaid dollars through the reimbursement system. So how is that going to be impacted, or have you had conversations about what that is going to look like on the school side? Because obviously the clinics are operated under the State, but how that impacts the families if the State Medicaid money starts drying up or if it gets cut — yeah, or if people lose coverage.
+
+**(03:01:00)**
+
+
+
+Yeah, exactly. We can certainly follow up on that. I personally have not had those conversations yet with the State, but it is certainly something that we are happy to partner with them on to try and mitigate the impact of that.
+
+**(03:01:13)**
+
+
+
+Okay, perfect. Okay, I am going to pass it on to... thank you. I am going to
+
+**(03:01:19)**
+
+
+
+follow up on a couple of the things that you asked about, Chair. I have so many questions but I am going to try to be brief. I am going to ask you all to be as concise as you can. Going back to the clubhouses — in terms of, you know, I appreciate the really eager and sincere sort of response, like we want to work with you to make sure that we are keeping these smaller clubhouses running. But I want to know what that means. Like, have you asked for the biggest role that you are able to do here, saying hey, we need this funding included in the adopted budget? So have you asked about that particularly?
+
+**(03:02:06)**
+
+
+
+Yeah. So let me share what we have done and then I will kick it to the doctor to see if there is anything else to add. We have reprocured, as you know, the 13 clubhouses to make sure that we raise the standards and capacity. That was done back in 2024. All 13 of those are now fully operational. The conversations are ongoing with regard to what we can do with the remaining smaller clubhouses, but I will pass it to the doctor if there is anything else to add here.
+
+**(03:02:36)**
+
+
+
+Yeah. Thank you, Commissioner. I do want to reiterate that the whole purpose of the reprocurement was to really take all of the feedback that we had, along with our own understanding of how these clubhouses have been functioning up until that date, and really commit to the national clubhouse model and really wanting to invest in the types of services that we truly believe in, which are really grounded in quality of care and looking at metrics a little bit differently through some of these outcome measures like quality of life, loneliness and employment. What we are seeing is that we have made a significant impact on some of those measures and we can definitely find ways of having
+
+**(03:03:17)**
+
+
+
+further conversation. And I hear that, I get that the model is working. What I also want to make sure is that the most important thing we could do is listen to our participants saying that they want to stay where they are. I want to move on just because I know that you put this on the record already and colleagues want to ask questions too. But
+
+**(03:03:38)**
+
+
+
+the other follow-up I had — two more follow-ups on the Chair's question — is on the clubhouses. Can you tell us... I know it is 13 that the City funds. Is 15 the number that the State just added money for? Yeah, 15. Do you know how much money that is, and also is the City asking for a portion of that money to come directly to the City? I am going to pass
+
+**(03:04:09)**
+
+
+
+to Jamie Nichols to talk about the program a little bit more. In terms of the budget, we can circle back on that. I am going to pass it again because someone just whispered to me. Yes,
+
+**(03:04:21)**
+
+
+
+these are OASIS clubhouses, so it is a great model. What has been done is across the State there are nine recovery clubhouses in New York City — that is where the funding went for additional peers. They are expanding it so that now clubhouses or recovery centers will be able to serve youth as well. So really excited about it. I worked really closely with the OASIS folks. It is not a City investment, but it will definitely benefit so many New Yorkers.
+
+**(03:04:49)**
+
+
+
+So it is not a City investment — we are not going to see any of that City funding for New York City residents. It is going to be from the State, but all nine clubhouses in New York City are going to be eligible for those dollars so that they can expand services. Yeah, I guess that is my question — how much of that money will we see? We can follow up with the details.
+
+**(03:05:07)**
+
+
+
+Okay, it is on the OASIS website, but yeah, we could
+
+**(03:05:10)**
+
+
+
+share. And then on the Office of Community Safety — you mentioned that the Office of Community Mental Health is going to be under this office. What I want to know is, oftentimes we do hearings and the Office of
+
+**(03:05:24)**
+
+
+
+Community Mental Health does not want to come because they say we are just the coordinating agency and we cannot really speak to a lot of these different things. So if this coordinating office or coordinating body is coming into the Office of Community Safety, are they going to be tasked with expanding their coordination? Like, will they be designated the coordinating office for everything that is put under the Office of Community Safety? Because we are all
+
+**(03:05:54)**
+
+
+
+super unclear on what the organizational structure is. And if the Office of Community Mental Health is just a coordinating agency, what role are they playing being put into this? Is the coordinating agency going to be coordinating with another coordinating agency? What are we doing here?
+
+**(03:06:13)**
+
+
+
+Let me simplify it for the parts that we own. So we are the local governmental unit, which is decreed by state law. That means that we coordinate mental health activities and mental health treatment for the City. So that part is clear and that part is not changing. In terms of what the Office of Community Safety will do, we are going to have to get back to you with some details on that. As you know, things are still very much in the early stages. So at the moment, you can expect us to continue to be the coordinating body with regard to mental health care in the City.
+
+**(03:06:46)**
+
+
+
+Another question I have is, you know, we did not see this in the briefings that we got on the Office, but one glaring thing being considered as sort of within the scope of work of this Office was harm reduction, and it did not really make sense to me that that was something that was not being included in the Office. So I would like to know what those conversations have been like. Are you all pushing to have harm reduction work integrated into the Office of Community Safety?
+
+**(03:07:18)**
+
+
+
+Yeah, I can maybe just kick things off and add a bit of perspective. You know, the work of harm reduction is a key core function of what we do at the Department of Health and Mental Hygiene, and that is not going to change. We do not have any current plans to stop doing that harm reduction work.
+
+**(03:07:39)**
+
+
+
+Okay, yeah. Thank you for that. That is what I find concerning, because it is literally not in the model that has been proposed to us. So I just want to put a finer point on it. Our role as a local governmental unit — we have responsibility for overseeing, planning and funding mental health, substance use and some developmental disabilities through State Mental Hygiene Law 19.41. So our true...
+
+**(03:07:58)**
+
+
+
+...responsibility is to ensure that in New York City all those services are coordinated and planned for accordingly based on need. So we will continue to do that. As the Executive Deputy Commissioner, that is my primary responsibility to make sure that...
+
+**(03:08:10)**
+
+
+
+Yeah, I mean, I would hope to see some updated sort of metrics and goals that include harm reduction, because those metrics and goals have been with us and exist across these different areas, but not on that front. So that is hopefully lasting. I will say the Office of Community Safety is — I think we are all really a little bit concerned about how it is coming together. We found out, I think earlier in the week or last week, that they had their first conversation with this division and, you know, talking to offices around the country — those first conversations, those are the first ones. It is only successful when they are at the table in the beginning. So I am just hoping that there can be more coordination on that front, and I know that that is not you guys.
+
+But I want to go to mobile treatment teams. The executive plan includes baseline funding starting in the school year 2027 to address a funding cliff for mobile treatment teams. So my understanding, my reading of the proposed executive budget, is that there are not operational expansions or associated funding. It is just addressing federal cuts. So it is not like an investment above what we have been doing. Obviously we are interested in seeing the administration expand mobile treatment teams because there is a growing need, but also there has been an existing waitlist that we would like to clear. So is there any planning for operational expansions for mobile treatment teams?
+
+**(03:09:45)**
+
+
+
+Yeah, thank you again, Chair, for that question. It is incredibly important we get this right. We have been doing mobile treatment since 2016, so about 10 years now. We have doubled the mobile treatment capacity in this City. We know that that is just, you know, scratching the surface — there is much more work to do on this. I am going to hand it to Aaron to talk a little bit more about the...
+
+**(03:10:08)**
+
+
+
+...budget here. Yeah, I just wanted to echo Chair Cabán — that is correct. Your reading is correct about the...
+
+**(03:10:13)**
+
+
+
+...funding points. And just to interject for a second — we have doubled the capacity, but also we are seeing, and this is why there should be coordination, we are also seeing a vast increase in what we call broken windows policing or low level offenses. People are picked up on those kinds of offenses and then find their way to Rikers Island — people living with a mental health diagnosis. So we have some cross-competing outcomes where we are expanding capacity, but then we are doing harm on the other end. So yeah, if you could...
+
+**(03:10:46)**
+
+
+
+...continue. Yeah, I will leave it to others to talk about any potential future plans, but just to say yes, it stabilizes the funding that had been covered by expired federal stimulus dollars.
+
+**(03:10:56)**
+
+
+
+And are you looking at adding on top of that?
+
+**(03:10:59)**
+
+
+
+I mean, I think we are always thinking about what the resource needs are for the agency, but from a programmatic perspective I will probably defer to others, so...
+
+**(03:11:09)**
+
+
+
+In terms of what is the total funding allocated for ACT in the executive budget, and just to break that down a little bit — what is coming in from the State, and will that State funding get used towards new contracts, or is that just to keep the status quo of what we have got right now? I will hand it to Aaron to talk about the...
+
+**(03:11:29)**
+
+
+
+...question. Yeah, so thanks. So putting aside the one-time funding from FY26 — this is the partnership between the administration and the Council — the budget is baselined at 20 point... which we should probably baseline...
+
+**(03:11:42)**
+
+
+
+I think the current total budget, aside from that, is $20.5 million for ACT, $4 million for FACT and $44.3 million for... Okay. And how much of that is coming in from the State? I can get back to you probably shortly with the specific breakdown. Okay.
+
+**(03:12:02)**
+
+
+
+Thank you. How many people are currently on the citywide ACT and FACT waitlists? Let me hand it to Assistant Commissioner Eric Nichols for that.
+
+**(03:12:14)**
+
+
+
+Thanks. So we get about 5,000 referrals a year to our adult single point of access. Everybody who is referred is offered a care coordinator. I am happy to say that we have capacity for care coordination. Those folks go out and visit with people proactively, wherever they are in the community, help them find or stay connected to treatment and benefits, and address housing and things like that. For some people that is sufficient — the care coordination is what they want, and then they stay there and they go to clinics or other places to get their treatment. And I know we got...
+
+**(03:12:45)**
+
+
+
+...this information at the preliminary budget. Again, I just want to move to what currently is the waitlist. I understand also some people qualify for both, and so that kind of complicates the numbers, but again I just want...
+
+**(03:12:59)**
+
+
+
+...to — yeah, I am trying to help our team stay on time. Yep, yep. We have got 600 people waiting for... 100 for FACT, 367 for ACT and 87 for first FACT. Okay, right. Those change...
+
+**(03:13:12)**
+
+
+
+...daily. Yeah, I should mention that people are connected — probably, you know, 80 to 90 people a week are connected to these programs newly as other people transition off, so it is a very dynamic situation. Yeah.
+
+**(03:13:23)**
+
+
+
+But still, even with the dynamic nature of it, that is a significant need. What are the resources needed to clear the waitlist?
+
+**(03:13:33)**
+
+
+
+Yeah, so I think as the Commissioner mentioned, we have doubled mobile treatment capacity over the last 10 years and yet waitlists have persisted in that time. So obviously it is not simply straightforward — just adding teams and eliminating the waitlist — because there are other pressures on the system. We are focused on offering additional resources for people to step down from these services into other...
+
+**(03:13:59)**
+
+
+
+...longer term treatment arrangements. So we have our Connect Clinic Enhancement Model, which as a demonstration project has been going really well handling step-downs. We have Flex ACT teams which provide a larger capacity caseload. Those are funded by the State but those services flow through us. So we think those step-down resources can allow us to use the existing mobile treatment capacity more efficiently. And I am going to apologize — are we not here? Okay.
+
+**(03:14:29)**
+
+
+
+So I am not taking his question, but to that point though — on the mobile treatment teams, the City approved $4.5 million to create the STEPS pilot and $11 million for the providers in FY26, but those funding streams have not been released. So I guess my question, even Dr. ..., is, you know, as of now providers have not been able to apply for that funding. So is that funding approved? When is that approval going to come through so that they can do that work?
+
+**(03:14:58)**
+
+
+
+Yeah, so first just to circle back on your question about the funding — for mobile treatment it is about $12 million from the State. And just pointing out that ACT is funded...
+
+**(03:15:07)**
+
+
+
+...okay, that is right, because it is not Medicaid reimbursable.
+
+**(03:15:10)**
+
+
+
+Right, right.
+
+**(03:15:11)**
+
+
+
+Yeah, in terms of the one-time funding — the $4.5 million for ACT, the $11 million — you know, the administration I know is continuing the conversations with the Council. So on that piece we have to defer to say...
+
+**(03:15:21)**
+
+
+
+...well, no. I mean, the funding is only as good as it is if it gets out the door or not. So yeah, yeah, yeah.
+
+**(03:15:31)**
+
+
+
+Okay. You know, again, I would love to see a push to add — there is definitely a need to clear these waitlists, again at a time where we are seeing more and more people being criminalized under the same environment and administration who are living with mental health diagnoses and do not have a good continuum of care in place. Will the Office of Community Safety have any role in the oversight of the mobile treatment teams?
+
+**(03:15:59)**
+
+
+
+At present there are no plans for them to have oversight of that.
+
+**(03:16:04)**
+
+
+
+Okay. And also I just want to go back for a second — would you guys consider publishing the waitlist data? You said it is dynamic, it changes, but would you guys be willing to publish that? I think we are open to having a conversation with you and exploring what is possible there.
+
+**(03:16:28)**
+
+
+
+And does anybody want to add to that? I think it is important to think about — we are also concerned that referral sources might not make referrals if they see the waitlist. The truth is we are reviewing every application for a variety of clinical risk factors and so we are prioritizing higher risk applicants, and we do not want to discourage people. I mean...
+
+**(03:16:50)**
+
+
+
+I do not know — is that a direct conversation you have had with referring organizations? Because I do not know that that is the approach that they would take. I think just everybody having this information is super helpful. I mean, it also would make it so that, you know, one of us does not have to call you guys and then get follow-up from somebody else to get the information. If we know that we can just access it in a place and talk to our partners about it. So I might suggest maybe rethinking that, especially if organizations have not said that that is how they would respond. The waitlist is there — believe me, they know. They just want to know how deep it is because it helps them in their advocacy. They want to be able to make accurate asks of us, of you guys, and I think that information is helpful.
+
+Okay, I am going to move on to one more piece here and then I will go to colleagues. I have more questions but I want colleagues to have a chance to ask questions. So the Campaign to Close Rikers requested $17 million to establish an outpatient competency restoration pilot for 52 to 75 people who might otherwise be waiting at Rikers for transfer to a state hospital. So is DOHMH working with the State Office of Mental Health to develop an outpatient competency restoration program, and has the City committed any funding for a program like that?
+
+**(03:18:23)**
+
+
+
+Great. I am going to pass to Dr. Petit for more on that.
+
+**(03:18:27)**
+
+
+
+Yeah, thank you for that question. We have not had conversations on that specifically, but certainly competency restoration is a significant issue that needs to be addressed head on. I have seen this across the country in terms of individuals that sometimes languish in prisons and jails waiting. So you know, even though we have not had those conversations, I am more than eager to engage and have further deliberations around what or how we deal with this issue.
+
+**(03:18:53)**
+
+
+
+I will say that I represent — I mean, this is just one example, but I saw it all the time as a public defender. I represented an individual that was charged with — the accusation of stealing a piece of luggage from an apartment building lobby is considered a violent felony because it is in a dwelling technically. So he was facing prison time, was found to be incompetent, and because it is a felony and not a misdemeanor they would not make him an offer because, of course, his mental health issues meant that he had a long rap sheet. It was several years before he was found competent to go to trial, just to get an acquittal at trial. So just to put this into context about how important this is — people who have been found not competent to stand trial are obviously most in need of mental health treatment. That is just one example of somebody languishing at Rikers awaiting a bed. So what specifically with competency restoration is... yes, so...
+
+**(03:20:03)**
+
+
+
+Yeah, I mean, again I am not a hundred percent sure of everything that we do within the division, but certainly within our Bureau of Justice Impacted Populations we have a number of initiatives. We have a Health Justice Network that sort of coordinates peer-to-peer activities for individuals that are coming out of prisons. I can certainly look into this a little bit more and get back to you on what in particular we are doing around competency restoration, but certainly it is an area that I am well aware of as being something that we probably should be focusing more attention on. Thank...
+
+**(03:20:38)**
+
+
+
+...you. Yeah, we have a lot more questions, but...
+
+**(03:20:42)**
+
+
+
+Okay, we are going to start with CM Wong, followed by CM Restler. Thank you.
+
+**(03:20:54)**
+
+
+
+My predecessor, CM Robert Holden, spent years asking for basic transparency on Kendra's Law petitions and I intend to continue that work. The question is simple: how many assisted outpatient treatment petitions were filed in New York City in FY25? How many were approved? How many were denied? And what are the numbers for Queens specifically, broken down by borough? There is a Queens-specific question I want to know...
+
+**(03:21:28)**
+
+
+
+...whether it is being used, by whom, how often and with what results. Are City agencies and NYPD actually doing so, and how often? Please answer that.
+
+**(03:21:46)**
+
+
+
+Thank you, CM. First of all, I absolutely agree. The service that we provide promotes engagement with mental health services for individuals who have had histories of multiple hospitalizations due to harm and who have had treatment non-adherence, and so it provides an extra level of care. To your question directly — in FY25 we monitored about 2,800, so 2,834 individuals. To go a little bit deeper, I am going to hand it over to Assistant Commissioner Jamie Necklace. Yeah, thanks.
+
+**(03:22:27)**
+
+
+
+We have got a lot of experience in assisted outpatient treatment. We have been doing it since 1999 and use it, I think, more than every other state in the country in terms of the scope of our program here in New York City. The lawyers who do the petitions are really experienced and very rarely is a petition ever denied.
+
+**(03:22:40)**
+
+
+
+I do not have the numbers now but I can tell you it is a very infrequent occurrence. Thank...
+
+**(03:22:52)**
+
+
+
+...you. This data should not be hard to produce and I do not understand why it has not been consistently reported to the Council. Did you want to say something? Could you do that in the future?
+
+**(03:23:02)**
+
+
+
+Yeah, we can point you to the State Office of Mental Health, which has a dynamic dashboard on their website with all of the petitions and court orders that have ever been filed since the program's inception. We can point you to that information and it is broken down...
+
+**(03:23:15)**
+
+
+
+...by borough. Okay, send my contact info later. Great. And you can reach that...
+
+**(03:23:19)**
+
+
+
+...send that to me. Thank you.
+
+**(03:23:22)**
+
+
+
+Thank you. And we have been joined by CM Felder and CM Sanchez on Zoom. I wanted to pass it on to a Council member. Thank you very much, Chair Lee and Chair Cabán. You know, I have been giving barely shout-outs at every one of these hearings for her endurance, but I feel like Brian does not get enough attention and love, so I want to thank Brian for being here at every single one of these hearings too. It has been a marathon. Okay.
+
+**(03:23:50)**
+
+
+
+Commissioner, you already heard my first question but I am going to repeat it again briefly. There are 465 vacant supportive housing units without a referral process that are under your purview, according to the most recent report that was provided to our office earlier this year. Recognizing that others are doing a far worse job — I will just say that you are not the worst actor out there — but it is still too many vacant units and it is unacceptable. So can you give us a breakdown of why these units are vacant without a referral process? Do they need significant repairs? What are the investments that we can make that will see more of those units activated over the course of FY27? Thank...
+
+**(03:24:27)**
+
+
+
+Thank you for the question. Let me hand it over to... This is over 13,300 units of permanent affordable supportive housing in our contract portfolio. The last quarterly report from Local 135 showed that we had 104 of those units vacant with no referral, so that is a bit lower than the number you cited. 523 are vacant with a referral in process. That means a person has seen the apartment and said yes, I want to move in, and they are in the process of getting tax credit documentation and the move-in right, which takes a little bit of time. So I think our vacancy rate is pretty good.
+
+**(03:25:10)**
+
+
+
+There are some offline units — 376 as of that last quarterly report are offline. Typically there are two main drivers of that. One is that serious repairs are needed, so those are being done. The second is that a prior tenant deceased in the unit and it is sealed. That is a really challenging issue.
+
+**(03:25:29)**
+
+
+
+We are really glad the Mayor's housing plan identified a number of initiatives to improve housing and reduce vacancies, and they are really going to be helping us focus on the sealed unit issue.
+
+**(03:25:44)**
+
+
+
+Okay. So of the 370-odd that are offline, is there a resource need on the repairs to see those units brought back online? Do you have an estimate of what that would cost to see those units brought back into your portfolio and activated?
+
+**(03:26:01)**
+
+
+
+I do not have an estimate at this point. That is changing all the time — new units, every day the numbers are a little bit different. So a unit that is being repaired today will be available for move-in tomorrow. Those are not long-term same units vacant. The providers do have some money in their budgets for repairs and, you know, the landlords as well will pay for those repairs. So that is not a budget number that is visible to us.
+
+**(03:26:27)**
+
+
+
+Okay. I mean, I am looking at the last report that I am seeing, which is listing 465 that are either offline plus no referral. So I do want to dig into this data — we will follow up with you directly. We are concerned about just making sure we have the correct understanding of where we are.
+
+And then I just want to take a moment to also ask about our challenges in coordinating with the Department of Health and Mental Hygiene regarding constituents with severe mental health issues. When we reach out, I would describe it as a very limited response — we are told to call for a mobile crisis team, which tries to visit once, then there is no follow-up. The Department of Health will not engage with us or provide any updates or solutions that have been provided to the individual who we are calling about. The individuals continue to endanger their own safety and the safety of members of our community. It happens again and again and again.
+
+I just... at this point I do not even think it is worth calling the Department of Health. It does not help. It makes no difference. So I am just trying to figure out how can we partner more effectively. We have an individual with severe mental health challenges screaming in a park for hours every day for now two years. It has been a daily — almost probably five days a week, hours on end — often drunk, screaming nasty and threatening things at neighbors. What are we saying we are able to do to help on a situation like that? Because we have not gotten any help yet.
+
+**(03:28:03)**
+
+
+
+Let me ask you just a follow-up question. Does this come from individuals who are slotted for supportive housing, or are these individuals... no, no, these are just...
+
+**(03:28:11)**
+
+
+
+...people with mental illness around my community who are causing serious issues. I get no help. I try, I call everyone I can in the agency, it does not make a difference. I get no help. And this has been the case for years. I am just so frustrated and disappointed. It feels like I have to take the Health Department off the list of resources to go to because it does not lead to outcomes. It does not actually make a difference. And I certainly get no updates — nothing is shared with me. So it is just deeply, deeply frustrating. Is there anything the Health Department can do to help in that example?
+
+**(03:28:47)**
+
+
+
+Yeah. First of all, I hear you. We hear you and thank you for flagging this. Moving forward, this is the kind of work that we are trying to address in an interagency way, and so we are eager to try to do some problem solving around this.
+
+**(03:29:06)**
+
+
+
+Let me see if... Yeah, I am sorry you feel that way. It is frustrating on our side too, because there is a lot that we do, but we cannot share a person's protected health information back with you. So we really appreciate the referrals and the situations that you bring to our attention.
+
+**(03:29:26)**
+
+
+
+We act on them. I know that. I see the information.
+
+**(03:29:34)**
+
+
+
+But we cannot talk about a person's treatment plan with a third party.
+
+**(03:29:40)**
+
+
+
+I totally understand there are HIPAA restrictions, but we do not see any improvement on the ground. We do not see change.
+
+**(03:29:46)**
+
+
+
+And without getting into specifics about somebody's exact treatment plan — I do not need to know that information — I do want to know: we are actively engaging with this person, we have been connecting them to help, we are involved, we are making a difference, we are in a sustained way continuing to engage here. Anything so that we can come back to our constituents and say, hey, we are trying, the Health Department is engaged, we are doing something. I just get a brick wall and I see no difference in the outcomes. So it just feels like nothing is happening and I cannot see the result. So I do not advocate for these things. I do not even call anymore because, honestly, I feel like what is the point?
+
+**(03:30:23)**
+
+
+
+Last point — you just spoke to the issue of coordination with the Office of Community Safety. Have you met with the Deputy Mayor? I met with my counterpart, with the Commissioner. Yeah.
+
+**(03:30:34)**
+
+
+
+Commissioner... there is the Deputy Mayor... there is a Deputy Mayor and then there is a focal point — Commissioner. Do any drums fill?
+
+**(03:30:41)**
+
+
+
+You okay? Great. Yeah. Our Deputy Mayors have met — so at a level higher than mine — my Deputy Mayor has met with that Deputy Mayor, but I...
+
+**(03:30:52)**
+
+
+
+...corresponded just after the public safety hearing at the beginning of the week. We wanted to make sure that somebody is talking to... oh yeah, exactly. So thank you.
+
+**(03:31:01)**
+
+
+
+Thank you. I just want to kind of reiterate the CM's concerns again. As somebody who has actively worked navigating the space between confidentiality, HIPAA and all those things, I think there is information that could be shared about progress that does not violate HIPAA that would be helpful to our offices.
+
+**(03:31:19)**
+
+
+
+Also, that came to my attention. I wanted to give you a quick opportunity if you had any other questions on supportive housing vacancies — you can ask them because I was going to ask them anyway. If you want to take a second to do that. Yeah.
+
+**(03:31:32)**
+
+
+
+Okay. I guess it will go over to CM... well then, thank you, Chairs, and thank you, Commissioner. I do have a question about headcount — your reduction of 33 vacant positions. How long have these positions been vacant and are they tied to specific mental health programs? Thank you for that question.
+
+**(03:32:05)**
+
+
+
+Counsel, overall the headcount targets that we identified were targets that were not highly... were not necessary for executing the functions that we have across our agency. So those headcount reductions are not affecting any of our ability to do the work that we do in the Division of Mental Hygiene. I will let Aaron say more. Yeah.
+
+**(03:32:36)**
+
+
+
+Thank you for the question. As I said before, these are always difficult exercises to do when you are trying to find savings, as we and every other City agency was asked to do. But our guiding principle was really that it certainly not impact services, and also that we look at the longest vacancies — the ones that have been out there the longest — to ensure they do not impact direct services. It is hard to do, but the types of positions we ended up looking at for this were things like back-office functions — like a data analyst or an office manager. So it is spread across the agency. There is not a single area where it is clustered. We looked across the whole agency, including within Mental Hygiene across the division.
+
+**(03:33:17)**
+
+
+
+Were any of the positions hard-to-fill positions? And what has been your strategy, or what is your strategy moving forward, to fill positions that have been historically hard to fill or where there is high turnover?
+
+**(03:33:35)**
+
+
+
+I can speak a little bit to that. So we are doing many different things to try to get folks through the door and also to retain them once they are part of the Health Department team. A couple of things that we are doing are really targeted interventions on social media — believe it or not — to really get some of these job postings in front of individuals. I in fact recently was part of a social media push to help people come into the Health Department to fill some of the hardest-to-fill roles.
+
+Another example: we are currently exploring partnerships with academic institutions and universities to be able to provide a sort of foot in the door for some of these hard-to-fill roles, so that a student can come into the Health Department as an intern and then potentially be brought on as a full-time staffer. So we are trying to be creative about this. We also want to continue to shout it from the rooftops — we are hiring and we want folks to apply.
+
+**(03:34:41)**
+
+
+
+And how often do you look at your vacancies and turnover rates, and how is that impacting the services that you are providing?
+
+**(03:34:53)**
+
+
+
+I will hand it to... yeah. I mean, I think we are continually looking at them — that is the short answer. We have really re-upped recruitment efforts. All these creative ways, in addition to the usual ways — partnering with DCAS, joining career fairs, things like that. I think one positive statistic is that starting in 2024, it was actually the first time since the height of the pandemic where we actually saw more people coming to the agency than leaving. That trend has continued for the last couple of years, so I think we are making headway for sure. We are additionally applying these creative ways and continuing to see progress.
+
+**(03:35:28)**
+
+
+
+The Instagram campaigns right now — I think there has long been sort of a reluctance for young folks to apply for work in City government. I think we are beginning to see a change. People are understanding that City services and City government can work for people and make an impact on their lives, and we are hoping to see that the hiring patterns change in accordance with that.
+
+Thank you. Okay, great. Sorry, I keep saying Commissioner — sorry, Chair. I want to follow up on some of the CM's questions. The Mayor recently released the Block by Block housing report, and it details some things around the administration convening an internal working group to improve the application and placement process for supportive housing, with the goal of reducing the supportive housing vacancy rate to 5% by the end of 2026. Can you tell me what the agency's major contribution to that working group is, how many employees are dedicated to this group, and what specifics are being discussed to improve and expedite the application and placement process for supportive housing?
+
+**(03:36:47)**
+
+
+
+Yeah, thank you for this question, Chair. So we are part of this interagency working group with DSS, and you are exactly right — targeting a 5% vacancy rate by the end of this year. The two things that we are trying to do together across these three agencies are: number one, faster unsealing, and the second is to try to reduce the documentation burden. We should not let paperwork stand in the way of somebody getting into a home that is available for them. Let me hand it over to Jamie to share a little more about the work.
+
+**(03:37:20)**
+
+
+
+Yeah, I would love to know what the personnel allocation is.
+
+**(03:37:25)**
+
+
+
+Yeah, we have got three staff in the work group. Okay.
+
+**(03:37:32)**
+
+
+
+Do you think that the City is on track, based on what you are seeing so far, to reduce the supportive housing vacancy rate to that 5% by the end of the year? Yes, I do. That is great. Will additional funding be allocated to supportive housing in fiscal years 2027 and 2028, and if so, how much?
+
+**(03:37:54)**
+
+
+
+Obviously we are talking about getting that vacancy rate down to 5% by the end of the year, but I am assuming the goal is to get to a zero vacancy rate.
+
+**(03:38:03)**
+
+
+
+So what are the plans for beyond 2026? For 2027 and 2028, are you anticipating extra funding there?
+
+**(03:38:11)**
+
+
+
+Yeah, so I do not think the vacancy work is necessarily a funding question.
+
+**(03:38:15)**
+
+
+
+Otherwise I will turn to Erin here to answer. I think it is really about the things that the Commissioner mentioned — unsealing apartments, reducing paperwork burden. There is no new cost associated with that. We are adding supportive housing units all the time. We added up to 14,000 by next fiscal year, so the budget is always growing because we are always adding new units.
+
+I just want to make a point about the vacancy rate. I think a healthy system has vacancies as people are moving out and moving in — not everybody stays forever. So the goal is not to get it to zero. I think a better way to say it is: the goal is to get anybody who is eligible for and needs supportive housing into a unit. And I think that is a development question. We also want to make good use of vacancies, but we need more apartments.
+
+**(03:39:15)**
+
+
+
+So I want to talk a little bit about the supportive housing space. You oversee thousands of these units — can you estimate the number of eviction cases brought against supportive housing tenants in funded units every year? Let me just say a few words at the top, and that is that we are focused in this agency on helping to address the challenge of eviction in this City and making sure that any individual who is facing an eviction has the right to counsel, as we are — the right to counsel City that we became when we passed that legislation in 2017. We need more money for that too.
+
+**(03:39:54)**
+
+
+
+That is right. Yeah.
+
+**(03:39:59)**
+
+
+
+So we remain committed to the work of this process in a fair and comprehensive way. Let me hand it to Jamie to share a little bit more.
+
+**(03:40:12)**
+
+
+
+I think we are committed to limiting evictions from supportive housing — getting as close to zero as possible. The purpose is to house people and that is our goal. We track the discharges that are related to evictions.
+
+**(03:40:24)**
+
+
+
+We track the discharges that are related to evictions.
+
+**(03:40:25)**
+
+
+
+We have always tracked that. The number is very low. There were 55 last fiscal year out of, at that time, 12,800 units at the end of last fiscal year. So we will keep an eye on that. We issued some housing stability and eviction prevention guidance earlier this year, and part of that was adding new data elements to our data system to track the filing of cases — which I think is what you asked about — which we did not have a data point on before. So we have been training providers on that since, and the data collection will begin in July for the next period.
+
+I noted that you are ramping up the data collection. Of the 55 units — estimating per year — do you have any numbers on how many have been non-payment cases and how many have been holdovers, for example? So that is something we do not have now but we will have. That is one of the pieces of information we are now capturing. Understood.
+
+**(03:41:29)**
+
+
+
+This is a process question. So when you find out that a supportive housing tenant is being evicted on a non-payment case, what is the agency response? What are the steps?
+
+**(03:41:41)**
+
+
+
+Yes. So I think this is outlined in our eviction prevention guidance, which sets out to service providers the steps we expect them to take to help tenants — to understand whether it is a benefit issue, a budgeting issue or a behavioral health issue. What are the matters? So our service providers are...
+
+**(03:41:58)**
+
+
+
+...contracted to help tenants meet their responsibilities and know and assert their rights as tenants. So it depends on the individual situation and what is driving the arrears.
+
+**(03:42:12)**
+
+
+
+So would it be correct to say, just looking at each specific role in terms of the guidance — as you helped put together and inform what went into the guidance — obviously you have housing lawyers and things also contributing to the guidance? Is that more or less accurate?
+
+**(03:42:31)**
+
+
+
+So our guidance is to the service providers. There is housing court and... Laurie, we are not... yeah, but...
+
+**(03:42:36)**
+
+
+
+I mean, obviously the guidance includes basic housing tenant law in it, and I am just wondering what the agency's guidance is about — is it about the service provision and what can help somebody get back on track if they are in arrears? What is the involvement?
+
+**(03:42:55)**
+
+
+
+So we wrote the guidance. It is our guidance. It is 100% us and the...
+
+**(03:42:58)**
+
+
+
+Guidance, right? Yes, I should — I could have asked that a lot more simply, I apologize. We have been doing a lot of these hearings, but thank you. Thank you for bearing with me. I want to move to the RELAY program. The executive plan included a baseline reduction of $2 million starting in FY26 for the RELAY program, to eliminate spending on phones and monetary incentives for participation like gift cards and things. I am concerned about this. I want to know what the rationale is for choosing this area for savings and why this is a benefit that is being cut off. I will give an example again — I come from the public defense world. This is the easiest example: when they provided clients with cell phones, the warrant rates dropped exponentially by simply sending a text message to our clients when they had to come back to court. I think this is a really, really critical thing. Cell phones keep people engaged. They allow service providers to be proactively connected with clients. So I am just wondering what the rationale was for that $2 million cut.
+
+**(03:44:11)**
+
+
+
+Yeah, thank you for that question, Chair. First of all, let me just say a few words about the RELAY program. This is a program that is a wonder, really. Meeting a patient who wakes up from a non-fatal overdose, having appeared there to help them track the course to recovery, is just an incredible intervention. We have been able to contract with over a dozen hospitals and emergency departments. The savings that you are seeing is not a cut to the staff or any of the people that are involved. We thought it was important to make sure that no staff that provide the services were part of that savings, but there are tools...
+
+**(03:44:58)**
+
+
+
+...that are critical. I understand that you are not cutting any staff, but it is eliminating spending on, like I said, phones or other things that have been shown to help with participation and continuity of care. So just again, hoping for the rationale behind the decision to cut back on that.
+
+**(03:45:18)**
+
+
+
+Yeah, maybe I can kick it over to Dr. Watkins.
+
+**(03:45:23)**
+
+
+
+Sure. Yes, the cut was to an enhancement to existing services. We certainly do do gift cards. We have amazing systems that have come through in terms of how to find participants.
+
+**(03:45:33)**
+
+
+
+We certainly absolutely support it. We do work with people on their phones and how to follow up with them and make sure that we have ways to connect with them. If they are already talking to, like, homeless services, how do we engage their case manager there. So this was just something that was supposed to...
+
+**(03:45:53)**
+
+
+
+...start and has not yet. Okay. So how much do you currently spend on phones for participants in the RELAY program?
+
+**(03:46:01)**
+
+
+
+We do not have phones, but we do do the gift cards. Two...
+
+**(03:46:05)**
+
+
+
+...people being able to talk. I got it.
+
+**(03:46:07)**
+
+
+
+So basically, yes, you are 100% on the evidence. We have not — we are not taking away the phones. We would have started the phone program, but we chose not to. Sorry.
+
+**(03:46:19)**
+
+
+
+So I think we should — I think we should be doing it.
+
+**(03:46:22)**
+
+
+
+And probably, you know, giving phones to people is also probably cheaper than having more people sent out to go find them, not quite knowing where to locate them, for example. So I am a little concerned about that. What is the contracted budget for the RELAY program? I think that was mentioned, but how many contracts does it fund and who are the service providers under those contracts?
+
+**(03:46:50)**
+
+
+
+Yeah, thank you for that question, Chair. We have a total of 13 emergency departments that we are currently contracting with. We can get you a full list in a follow-up. All right, thank you. I am going to move over to JISH. What is the total budget for JISH for FY27? The FY26 total budget — what is it in FY27? This is an incredibly important program, as you know, Chair. Being able to provide this service for someone who is recently incarcerated could literally mean the difference between life and death. So it is a program we take very seriously.
+
+**(03:47:33)**
+
+
+
+How many units are currently in operation and do you have the breakdown by borough?
+
+**(03:47:41)**
+
+
+
+We currently have 120 operational now. I am going to hand it over to Jamie Nichols for more. Yeah.
+
+**(03:47:46)**
+
+
+
+Those 120 units are spread across the Bronx, Brooklyn and Manhattan. They are all scattered site units so the exact locations change a little bit. I do not have the split between each borough.
+
+**(03:47:59)**
+
+
+
+Okay, I would love to know what the split is between each borough. And then, you know, the goal that you all have stated is to reach 350 units eventually. So what is the timeline for reaching that, do you think? And how much money do you need to reach it? Let me hand it to...
+
+**(03:48:16)**
+
+
+
+Yeah.
+
+**(03:48:17)**
+
+
+
+So just this past period we amended the RFP to add additional funding, so thank you. We are excited about that. The proposals are coming in. We opened it up for scattered site as well as congregate, so we will not know the timeline for construction until we have reviewed the proposals, made the awards and it moves further along in the process. We have been working on this for a while now. Yeah, got it.
+
+**(03:48:48)**
+
+
+
+Do the contract savings in the executive plan include any JISH contracts that you are aware of? Not to my knowledge. The question was: are there any cuts to JISH contracts? Yeah, like, you know, there are a bunch of contract savings in the executive budget and I am just wondering if any of those include any JISH contracts. Oh, no. JISH is not a part...
+
+**(03:49:10)**
+
+
+
+...of our savings. Okay, got it.
+
+**(03:49:15)**
+
+
+
+Thank you. Just give me a moment here. I just want to see if I have anything left on this. Oh, so you mentioned — and I was excited that it was reissued — the RFP for 190 units. And some of that will be for the Just Home project, right? Like I think it is 58 of the 83 for Just Home. That is still...
+
+**(03:49:42)**
+
+
+
+Yeah, the math — I guess I am a little bit confused about the math. If we understand some of the JISH funding will be used for 58 of the 83 units that are part of Just Home, that would still seem to leave funding available for 322 units, which is 132 units more than the RFP included. So can you clarify why the unit count was reduced and was any of the portion of the originally allocated JISH funding redirected for other purposes? I will hand it to Jamie for more.
+
+**(03:50:12)**
+
+
+
+No funds were redirected by the health department. All of the available funds went into raising the rates for the existing under-contract units as well as any new units awarded through the amended RFP. So the higher rates per unit is the reason why we have fewer units. Okay, so that has to do with, sort of like, the fair market rate — this has to do with the market. Yeah. Okay, got it.
+
+**(03:50:36)**
+
+
+
+Will the Office of Community Safety have any role in the administration of JISH? That is my last question on that piece. At present, there...
+
+**(03:50:41)**
+
+
+
+...are no plans to have the Office of Community Safety involved. Okay. I just want...
+
+**(03:50:46)**
+
+
+
+...to look here to see. And yeah, I think I am done on the mental health section. So, Council Member, do you have questions? I would love Ricky Wong — number...
+
+**(03:50:59)**
+
+
+
+One! Oh my God, we have called up Ricky Wong. I like him better than I like everybody...
+
+**(03:51:09)**
+
+
+
+...else.
+
+**(03:51:09)**
+
+
+
+We will not take it personally. No.
+
+**(03:51:10)**
+
+
+
+You have got some fans.
+
+**(03:51:12)**
+
+
+
+My question is just on child care, and I am late — I was on a walking tour for the 72nd Street bike lane. My question is: when you close a child care center for legitimate reasons, because of whatever reason, does it depend on how long the situation will take — I suppose how long it takes to reopen? Hopefully they are responsive to the criteria that the department brought to their attention. But meanwhile, of course, the parents are not able to find other child care. So what is a general time frame? Could it be sped up? What are some of the hindrances to reopening a child care center, depending — I know — on the issues? I understand that.
+
+**(03:51:56)**
+
+
+
+Yeah, thank you so much for that question, Council Member. You know, it is a balance, right? We are trying to do two things at once. One is to keep kids safe and if a child care center is out of compliance, we do need to take action. The second is, you know, not to disrupt the community of families that depend on that center. And so, you know, this is sometimes more art than science. We are aware of the fact that sometimes it does take longer than parents would like. So we are going to work hard on trying to balance those two needs and get that wait time to be as short as possible.
+
+**(03:52:38)**
+
+
+
+Okay. I mean, that would also be helpful — that would perhaps be improved. I am doing it, but I think it will be good to do it.
+
+**(03:52:47)**
+
+
+
+Also, yeah, right. Thank you.
+
+**(03:52:49)**
+
+
+
+You have got Ricky, so you have got no problems. Sorry. We have been joined by CM Nurse as well as CM Rivera, and I think for round two quickly we are going to go with CM Wong followed by CM Restler. Thank you, Chair.
+
+**(03:53:14)**
+
+
+
+Regarding the Office of Community Safety — okay, the executive plan includes a baseline transfer of City funding for 17 budgeted positions starting in fiscal year 28 from DOHMH. But my question is: the Office of Community Safety launched in FY19 with $260 million and 2 staffers, and the FY27 executive plan brings that to $270 million. My question is, what has the Office of Community Safety actually done since FY19? Can you answer that? Thank you very much for that question, Council Member. I am going to defer questions on the Office of Community Safety with regard to what they have been doing and their actions to that office. What I can tell you is from our standpoint, we have already begun doing the work of talking with them and figuring out how to synergize our efforts. We know that they are hard at work trying to figure this out behind the scenes. What programs are operating under it today that were not operating before and how is it different from Thrive? So much money was spent and then so little was accomplished. Please answer it. Do you mean for the Office of Mental Health or for the Office of Community Safety?
+
+**(03:54:36)**
+
+
+
+Office of Community Safety. Yeah, okay, got it. You know, the details and sort of programming — I am going to have to leave that to that office and leadership there. However, we do know a couple of very important things. The B-HEARD program will be completely operated by that office and we look forward to working with the leadership of that office to make sure that program is as successful as it can be.
+
+**(03:55:04)**
+
+
+
+Yes. Okay, well, I am not opposed to the concept, but $270 million with no defining operational model is not a mental health program — it is just a press release. Thank you.
+
+**(03:55:18)**
+
+
+
+Thank you. Okay, CM Restler. Great. Thank you so much. I want to apologize. I...
+
+**(03:55:25)**
+
+
+
+...was looking at the report and in fact the most recent report is from April 30. So just to go through it: there were a combined 465 units that were offline or online with no referral in process as of April 30. There are 486 units that are either offline — supportive housing units under control — that are either offline or with no referral in process. So let us try again on those. For the 381 that are currently offline, do you have an average cost of repair to bring that unit back online? I recognize it is a fluid dynamic. I recognize that things are changing, but just so that we could try to ballpark some resources to invest to help bring those units online, because I think we all want to see every one of those units online, right?
+
+**(03:56:12)**
+
+
+
+Sure. Thank you. Jerry, do you have a ballpark estimate per unit for the renovation costs?
+
+**(03:56:16)**
+
+
+
+I do not have that information. I can tell you the majority — I do not know if I can say the majority — of repair costs will be borne by the landlord. Our relationship is with the service provider. Sometimes those are the same entity, but oftentimes they are not. So we are not seeing those costs. Those are for scattered site units. For congregate, I think the landlord and the provider are the same, right? Not always.
+
+**(03:56:44)**
+
+
+
+So you do not have a contractual model through the provider to be able to do repairs or upgrades when units are offline?
+
+**(03:56:49)**
+
+
+
+There is a small amount of money in our contracts with the service providers to address minor repairs. If there are units that are offline, they likely have much more significant repairs and that is why they are offline. So routine painting and stuff — that is covered in our contract, sure.
+
+**(03:57:04)**
+
+
+
+Could amendments be made to those contracts to put additional resources in to fix up the units, or are we just stuck?
+
+**(03:57:09)**
+
+
+
+With major repairs — I mean, I think this is a... how can we get this right? Maybe ask the question differently: how do you want to fix up the offline units? What is your proposal to do it? I think that is less of a health question. I think we would really want to talk to the construction people on that.
+
+**(03:57:28)**
+
+
+
+But these are units within your control that are empty and offline, and that we desperately need people living in. From April 30 to November 30, just a six-month period, the number of offline units did not change from 387 to 381. We do not want to just be getting the next report in six months that there are 379 offline units and that we have not done anything either. So any ideas that you can share with us at this hearing — where resources could be brought to bear to bring those units back online?
+
+I think, Council Member, we are eager to do some problem solving with you on this. Clearly there are tools on the table for us to do this. We look forward to bringing those tools to bear to solve this problem. The Progressive Caucus is actively discussing with City Hall the resources that we want to invest in the budget to bring these units online. It is, in my opinion, disgraceful that we are funding thousands of City supportive housing units that are not filled with people when we have thousands of folks sleeping on the streets with serious mental illness who desperately need help. We know this is the evidence-based approach and the cost-effective approach to making a difference in people's lives. We want to put resources in this budget that activate every one of these units so that at the next budget hearing a year from now, when we are doing this all over again, we are talking about how we got that number dramatically down. There are two weeks left — three weeks, three weeks and change — before we are voting on a budget. There is not a lot of time. So if you have suggestions you want to share with us, let us know. But we are pushing for resources and we will push for our best ideas unless you want to share anything with us. Thank you.
+
+**(03:59:06)**
+
+
+
+Thank you, Council Member.
+
+**(03:59:08)**
+
+
+
+Great, back over to Chair Cabán. Thank you. I want to ask a little bit about harm reduction and the opioid settlement funding. How is it determined how much funding will flow to... yeah, thank you.
+
+**(03:59:27)**
+
+
+
+Thank you for that question. Just to say right at the top: this is a considerable opportunity for us to redress some of the harms that were caused by the opioid manufacturers — a once-in-a-generation funding opportunity. As you know, other agencies are involved, as is H+H, and so we have control and oversight over the portions that we have access to. We can defer questions about the higher-level decisions — how much is given to which agency — to OMB.
+
+**(04:00:08)**
+
+
+
+Can you talk a little bit about — I guess specifically for DOHMH — how much you are eligible to receive and what the timeline is for receiving it, and when you anticipate not receiving any more? When does the funding stop?
+
+**(04:00:24)**
+
+
+
+The timeline — let me hand it over to Dr. Lynn Watkins.
+
+**(04:00:28)**
+
+
+
+Thank you. Yeah, how it happens is that City Hall determines it in four-year increments and as we approach the end, we keep talking about more. I was part of the early discussions and they were looking at sort of a 10-to-20-year timeline for all these funds, but conversations are ongoing about it. Every dollar we have been given — just to be clear — is out the door into communities. Organizations have received funding across the full continuum, in every borough, really focusing on both populations and communities hardest hit by the opioid crisis. All of those dollars are out the door and we just posted an updated report with all of those organizations, and then as they ramp up, metrics get out as well.
+
+So the overarching question you asked was how are decisions made. We regularly meet with City Hall and our other partners and community members. We are about to launch a listening tour as well — that is what we did last time — to figure out from community members how they want dollars spent. So at all moments we are really talking about how to do it: do we need to speed up, do we need to slow down efforts?
+
+**(04:01:42)**
+
+
+
+And will any of the funding — will the Office of Community Safety be eligible to receive any of the opioid settlement funding? And are you planning to transfer any opioid settlement funding to the Office of Community Safety? We currently...
+
+**(04:02:00)**
+
+
+
+...are not in any discussions about transferring any of those dollars over to the Office of Community Safety.
+
+**(04:02:05)**
+
+
+
+And are you considering — I just want to go to the naloxone introduction pilot for a second. Are you considering transitioning it from a pilot into a permanent program? The strings...
+
+**(04:02:17)**
+
+
+
+The Redemption Pilot Program was a simple and huge success. As you know, over syringes were picked up. We are not just doing community safety in that action. We are also paying people up to $10 a day, and the majority of those folks are using that money to pay for food and other basic necessities. So from our standpoint, this is a huge, huge success. Let me hand it over to Aaron to talk about
+
+**(04:02:41)**
+
+
+
+the funding piece. Yeah, this is something we are really excited about from this executive budget, which is baseline funding for the syringe introduction program.
+
+**(04:02:50)**
+
+
+
+Straight. And then I am assuming that there is no information around whether you are considering transferring that pilot or that program to the Office of Community Safety. So just to put it on the record, that is an outstanding question. My last question has to do with the updated guidance on funding for harm reduction. In this past guidance, it basically eliminated
+
+**(04:03:15)**
+
+
+
+federal funding eligibility for fentanyl test strips, overdose hotlines and other harm reduction supplies that obviously many providers rely on. Have you assessed how much federal funding New York City supported providers stand to lose as a result of those changes? Does the executive budget include any City funds to backfill those losses and maintain that part of the harm reduction prevention service?
+
+**(04:03:40)**
+
+
+
+Thanks for that question. Going to hand it to Dr. Rebecca Lynn Walton.
+
+**(04:03:45)**
+
+
+
+Yeah, so this was one way in which people were somewhat protected in that they were not using SAMSA funding for this. I know the state has decided to use opioid settlement funds to fund test strips. Our providers are using our funding that we are giving them for test strips, and so we have been working with our providers so that we can figure out how to help them shift, because we do not want anyone to need a test strip and not have access to it. We also provide them as part of our... okay, great. Thank you and thank you.
+
+**(04:04:13)**
+
+
+
+We have also been joined by CM Brooks-Powers. CM Brooks-Powers has questions.
+
+**(04:04:22)**
+
+
+
+Thank you, Chair, and thank you for the testimony. How does DOHMH target mental health services for formerly incarcerated individuals? In particular, what strategies has the agency found to be effective in reducing recidivism, and how is the agency prioritizing these strategies and working with the Department of Correction and other agencies to ensure we are able to reduce the incarcerated population in light of the closure of Rikers Island?
+
+**(04:04:55)**
+
+
+
+Yeah, thank you for that question, Council Member. You know, it is incredibly important that we get this right for this impacted population. From our standpoint, it is not only important to treat these individuals with dignity, but it is also important to provide these resources to break the cycle of reincarceration and recidivism. Let me hand it over to Dr... for a little more
+
+**(04:05:22)**
+
+
+
+on this. Yeah, thank you for that question. Certainly this is a critically important population that we want to make sure we are offering the full array of services across the continuum. Within our division, there is a bureau specifically focused on concerns around through the Health Justice Network, and a lot of interagency collaboration. We do actually also have what I consider a really remarkable program. There is a co-response team, which pairs clinicians with police officers to be able to address some of the higher acuity calls that come in and make sure that when there is an individual who is in crisis, who might have justice involvement or a level of violence or agitation, that we are addressing it in a clinically specific manner. It has been incredibly successful in terms of really making sure that folks are not going back into jail. There are multiple programs that we either support or are part of that are really addressing some of the issues around diversion and reentry into the community.
+
+**(04:06:27)**
+
+
+
+Thanks. I have two final questions. One: this executive plan includes a reduction of $10 million in fiscal year 2026 for supportive housing. Can the department explain the rationale for this reduction and what impact it will have on housing projects? Earlier this year, the department released an updated plan to define new supportive housing for people with behavioral health needs who have histories of incarceration and homelessness. Can you provide an update on the status of this and when we can expect to see the expansion of justice-involved supportive housing in our
+
+**(04:07:11)**
+
+
+
+City? Yeah, thank you for that question, Council Member. The $10 million reflects basically a one-time adjustment from anticipated underspending. This is not a reduction in services. This is not taking away units. It is not taking down housing. Let me hand it to Assistant Commissioner Jamie... to talk about that in particular.
+
+**(04:07:37)**
+
+
+
+Thank you. We released an amendment to the justice-involved supportive housing RFP that raised the rates that we paid per unit and added both congregate options as well as scattered site. So those proposals are rolling in and will be reviewed. Depending on what the proposals are and what is awarded, that will determine the timeline for those units to become available. Scattered site is available sooner as you are just releasing on the open market, but congregate units take time to construct and we do not yet know those construction timelines. Thank you.
+
+**(04:08:15)**
+
+
+
+Thank you, Chair. Thank you. Okay, great. I think that is it for this portion. We thank you so much, Commissioner, and it is great to see all of your team members here, Deputy Commissioner. Thank you so much and we will send follow-up questions. Thank you.
+
+Okay, so we are going to roll right into H+H. We are a little bit behind, so hang tight, everyone. Alright, so good afternoon, everyone. Welcome to the final fiscal year 2027 budget hearing for today, focusing on New York City Health and Hospitals. I am Council Member Linda Lee and I am proud to be joined by my colleague CM Mercedes Narcisse, who is the Chair of the Committee on Hospitals. We have been joined by Council Members Wang, Brewer, Restler, Aldebol and Brooks-Powers. I think that is it for now.
+
+So welcome, President Dr. Katz and your team, and thank you all for joining us today to answer our questions. On May 12, 2026, the administration released the executive plan for fiscal years 2027 to 2030 with a proposed fiscal year 2027 budget of $124.7 billion. Health and Hospitals' proposed fiscal year 2027 budget represents 1.5% of the administration's proposed fiscal year 2027 budget in the executive plan, and this is an increase of 0.4% from what was originally budgeted in the fiscal year 2027 preliminary plan. This increase results from several actions, mostly a Medicaid initiative adjustment to support the system's cash flow, federal reimbursement funding for costs incurred during the COVID-19 pandemic, increased correctional health services expenses and an array of new savings. As of fiscal year 2026 quarter three, Health and Hospitals headcount was 43,580. In the Council's preliminary budget response, we called on the Mayor to add $36 million to H+H to invest in the mental health continuum, and we also raised concerns regarding BHERD restructuring, Medicaid restrictions and the state directed plan. Although our request was not included in the plan, I look forward to hearing from the director today about your commitment to strengthening H+H's mental health services, addressing the challenges posed by BHERD and Medicaid restrictions, and ensuring these programs remain a reliable resource for New Yorkers who rely on them.
+
+I now want to turn it over to my co-chair for this hearing, CM Mercedes Narcisse, for her
+
+**(04:20:33)**
+
+
+
+opening statement. Good afternoon and thank you for being here. Dr. Katz, we are happy to have you here. I am Council Member Mercedes Narcisse, Chair of the Committee on Hospitals. Thank you for attending this hearing for New York City Health and Hospitals Corporation. I would like to thank Chair Lee for holding this executive budget hearing with me and, of course, thank you to all the leadership for coming here to testify today. The proposed operating budget for the fiscal year 2027 executive budget totals $1.75 billion and is higher than the fiscal year 2027 preliminary budget. The main changes included an increase of $32.6 million to support correctional health services expenses, savings of $25.8 million to reduce reliance on temporary staffing, reducing overtime and improving revenue collections and
+
+**(04:21:41)**
+
+
+
+contract rebates, and lastly a reduction of $4.8 million for BHERD, a transfer of funding. We will also review the executive capital commitment plan, which includes funding for the correctional health outpost unit and critical health care expansion on the
+
+**(04:22:05)**
+
+
+
+Zachary Peninsula. My top line topics for questions at this hearing will focus on Bridge to Home and
+
+**(04:22:14)**
+
+
+
+correctional health services, medical malpractice defense contracts, Maimonides Health merger, maternal health services, H+H headcount changes, the Elmhurst Hospital emergency renovation capital project and BHERD. Before we begin, I would like to thank financial analyst Aman Mahadevan, Assistant Director Florentine Carberry and Deputy Director Isha Y for preparing this hearing, as well as my committee staff. I will also like to thank my staff Frank, Jade, Justin, Courtney Lee and all my staff for keeping up the work in the district office. I will now turn it back over to my colleague
+
+**(04:23:05)**
+
+
+
+Shelley. Great. Thank you. I have been announcing this at every hearing: we are doing one full long day of public testimony on Wednesday, June 10, starting at 9:30, so please make sure to sign up. Wednesday, June 10, beginning at 9:30 for our public testimony session. We have also been joined by the Public Advocate, who is very appropriately dressed for tonight's game. Okay, perfect. So while we are trying to do that, let me just make sure... hold on one second. Sorry. Okay, after... okay. Oh, no, we...
+
+**(04:24:00)**
+
+
+
+So I will hand it off to our committee counsel Brian Scarfo to administer the oath for witnesses.
+
+**(04:24:34)**
+
+
+
+Chair Lee and members of the Committee on Hospitals and Finance, I am Dr. Mitch Katz. I am a primary care doctor and the proud president of New York City Health and Hospitals. I have my great team here: John Allbright and Dr. Yang, who does an amazing job for correctional health.
+
+Our executive plan builds on the plan. I am happy to say we are doing very well. We are going to close the fiscal year with a closing cash balance of $784 million, or 22 days of cash on hand, and a positive operating margin of $130 million, all in line with our historic performance.
+
+Some financial good news: our patient care revenue, which comes strictly from insurance, is $60 million higher than in the same period in fiscal year 2025. Our financial initiatives remain on track to achieve $472 million of gain, and we put all that money into hiring nurses, which I know our Chair is a huge supporter of. The nurses keep our patients safe and take care of them. We are now up to 10,800 full and part-time nurses and we have reduced our use of registry to only what it is meant to be: when someone has a maternity leave, a paternity leave or disability leave and you are holding their job but not using it as a staffing method.
+
+We are grateful that the executive budget gave us funding for correctional health and maternal morbidity and mortality. This Council knows that there are headwinds ahead. HR One is a very mean-spirited piece of legislation. I am sure you have discussed the parts of it that involve the different ways that people are going to be pushed off our services, whether it is for food or whether it is for health insurance, and it will certainly affect our bottom line because we will still take care of them whether or not we get paid. That is not going to change. That explains why we do show operating losses in fiscal years 2028 and 2030. I am an optimist. I hope that there will be changes after the next election, but we are going to make sure that we do everything possible to maintain the care to our patients, regardless of whether or not they have health insurance. So I look forward to your suggestions, your comments, your questions and appreciate the amazing support that we have enjoyed from the City Council. Thank you.
+
+Great. Thank you so much. We have also been joined by Council Member Zoom.
+
+**(04:27:48)**
+
+
+
+Off to a chair and our... So in terms of the executive plan, the savings included starting in fiscal year 2026 and baseline to reach $27 million by fiscal year 2028, and we were told that these savings would be achieved by reducing reliance on temporary staffing, which you just mentioned, and reducing overtime. So how has this impacted, or hopefully not impacted, the reliance on temporary staffing as part of the savings exercise?
+
+**(04:28:26)**
+
+
+
+I am happy to say that it has not affected us. These were cuts that we can do without any impact because we have been so successful in hiring. We have been able to eliminate the temporary lines, so there is no decrease in service associated with that decrease of $14 million.
+
+**(04:28:48)**
+
+
+
+Perfect. As we have been seeing on the Council, it is definitely great to hear that services are not going to be impacted, because obviously that is not what we want to see. So thank you for that. Were H+H medical staff part of the discussions on reducing overtime?
+
+**(04:29:06)**
+
+
+
+Correct. We always work to try to make sure they are. Physician overtime is a symptom of not being able to hire enough full-time physicians, and we have had a very successful year of hiring physicians, so the amount of overtime we need to use has decreased dramatically. Okay, perfect.
+
+**(04:29:27)**
+
+
+
+And then in terms of revenue collection, because I know it is probably a combination of insurance reimbursements along with philanthropy grants and such, could you break down how the revenue collection improvements break down in terms of those
+
+**(04:29:47)**
+
+
+
+categories? The revenue improvements have really been building since eight years ago when we first began this journey of learning how to bill insurance. We are not interested in billing people. We are interested in billing insurance. We are not interested in giving for-profit insurance a free ride by providing care for free and not billing them. So each year we have gotten better at it. It is a complicated issue. It involves things like making sure the documentation supports the bill, making sure that the prior authorization is done, making sure that some of the contracts that I inherited when I came were poorly negotiated. They might give an overall amount per visit that was less than the cost of the vaccination that you gave during the visit, because the overall amount included the vaccination. So each year we look at the contracts, we improve the contracts, our documentation is much better, and all of those things contribute to year over year increases that are higher than inflation, which is how I view it. If
+
+**(04:30:56)**
+
+
+
+there is just 3% more, well, then that would just say I was just getting
+
+**(04:31:01)**
+
+
+
+inflation. But the fact that each year we have done better than 3% says that we are getting better and better at billing, and that is great.
+
+**(04:31:10)**
+
+
+
+And I know that, obviously on a much, much smaller scale when I was running an Article 31 clinic, it almost felt like we were constantly trying to justify and get funding and reimbursements from the insurance companies, including Medicaid. So I appreciate your efforts in that area for sure. And then speaking of contracts, which contracts were part of the savings exercises, and in general how often does H+H look into contracts for funding efficiencies? John?
+
+**(04:31:37)**
+
+
+
+Yeah, I would have to...
+
+**(04:31:40)**
+
+
+
+Good afternoon. Yes, this is also, as Richard mentioned, just part of our normal course of business to make sure that the contracts that we have with a wide variety of vendors are giving us a fair price. So we frequently, as the contracts expire, will go back, and that could be a host of supplies and services that are delivered at Health and Hospitals by outside vendors.
+
+**(04:32:03)**
+
+
+
+Okay. And then how often do you look at them, and are there areas where maybe it would make more sense to bring them in-house versus doing it
+
+**(04:32:12)**
+
+
+
+Externally? Yes, we are always looking for the cost benefit of doing something in-house first versus hiring it out. We also take advantage of — you know, we are almost a $13 billion enterprise, and I think as we have learned over the years is that we have a certain amount of leverage in terms of how we purchase, right? So we take advantage of that. Contracts are different. Some, when they expire, give us the opportunity to go back and renegotiate. There could be a situation where we say we are not satisfied with this price. So it is an ongoing effort, especially with our larger vendors, and we have been pretty successful at that. We are actually trying to line up... you know, looking forward to this year and the following year because, as I mentioned, we have a pretty sizable difference in those out years. But we have targeted a hundred million dollars in savings.
+
+**(04:33:02)**
+
+
+
+On top of what we have done here. That is amazing. Yeah, because I brought this up in other hearings as well. As a City we have tremendous buying power and so we can leverage that in any way we should definitely look into. Has technology helped at all with that in terms of streamlining and cutting costs in those types of things?
+
+**(04:33:21)**
+
+
+
+Certainly we are always looking for that opportunity. The world of AI is a whole other new environment for us, which we are looking at in terms of ways to maybe more effectively deliver care. And as you know, Mitch mentioned denials — we are starting to explore perhaps using AI with that.
+
+**(04:33:42)**
+
+
+
+I know on the clinical notes and all of those things, yes, a lot of folks can be more efficient, so that is great. Okay, perfect. And just in terms of the federal funding risks — obviously you know those are set to take effect this summer and fall — what steps are you taking to prepare for some of these changes to Medicaid eligibility?
+
+**(04:34:04)**
+
+
+
+Right. So the analogy I always think of with the government changes is... it is so dangerous. It is the true scientific experiment that if you have water and drop a frog into it, the frog will jump out. But if you put the frog in the water and you just slowly heat it, the frog will die. I feel this Bill was really created with that in mind — that changes are very incremental, so that you never have that moment when you say, "Oh my God." But as they accumulate... right now we have the first people, for example, not getting food. So far everybody is still unsure. But then there are going to be people who accommodated the first shift, so they will all fall off at once.
+
+The most important thing that we do is to constantly remind people we are here. Whatever insurance — or no insurance — you have, that does not affect your care. We are the only provider who can do the full range of services for people who do not have insurance. The others are great but do not have the specialty services, right? So when someone needs a breast biopsy, they are going to come to us.
+
+**(04:35:32)**
+
+
+
+So beyond that, we just need to think about how — given that there will be fewer dollars because more of the people that we care for will be uninsured — exactly, so it has...
+
+**(04:35:42)**
+
+
+
+We have to figure out the model of how to do it. As you were already asked, John, we do think that in the coming months there are going to be opportunities for AI to help us do certain administrative tasks more efficiently. That helps a bit. We are constantly looking to see what care models are the most efficient and deliver the greatest benefit. We will work with you and share any information. We are certainly working hard to re-enroll everybody we can and to help people learn that there are exemptions, including for volunteer work.
+
+I know the public health department has a great initiative for volunteering to help other people get benefits. We are always trying to get people to work in our skilled nursing facilities, where the only skill you need is the willingness to sit next to somebody and watch a baseball game and talk to them about it, or sit with someone and play cards. They are always...
+
+**(04:36:55)**
+
+
+
+Looking for a fourth hand, right? And that would qualify as volunteer experience. There is nothing wrong with work. There is something wrong with taking away people's fundamental health care. We want to try to figure out as much as possible how we...
+
+**(04:37:14)**
+
+
+
+Maintain people's benefits. No, definitely.
+
+**(04:37:16)**
+
+
+
+And I think that was brought up in quite a few of the hearings we have had so far, especially when it comes to making sure that the health benefits — and also just in general things like SNAP and food stamps — the resource navigators remain funded. Do you have staff that are going to be impacted by this within the hospital setting or within some of your other...
+
+**(04:37:43)**
+
+
+
+Program areas? So far, no. I mean, nobody is affected yet. Again, that is this very slow-moving thing. Even to the end of this year we are fiscally okay. And 22 days of cash on hand is very good. Yeah, it is only as you get into the outer years when you start adding up all the incremental things. But again, we have reason to hope that there is an election before there are the final cuts and that there is some opportunity to protect the benefits that people need.
+
+**(04:38:17)**
+
+
+
+And then in terms of that, and the subsidy amount that could potentially increase as the eligibility gets stricter in the long term — do you have any sort of... I know you are saying it should be okay in the near term, but in the out years, have you done calculations of how much extra funding you would need?
+
+**(04:38:35)**
+
+
+
+Well, in a sense the shortfall is the lost revenue. The question is how much can we make up without harming services.
+
+**(04:38:45)**
+
+
+
+Right. Whatever that delta...
+
+**(04:38:46)**
+
+
+
+Is, right. And if it all happens, we will need to come up with alternative models. But maybe sometimes bad times cause you to have creative thoughts and come up with new ways. The City learned a whole new set of things through COVID that we never knew before, never used before. I hope it is not going to come to that, but we will certainly look for other opportunities to figure out how to protect services. That will be our bottom line.
+
+**(04:39:18)**
+
+
+
+Yes, definitely. Mental health continuum — obviously we are huge fans of it. It is an interagency partnership between H+H and your agency to provide mental health care in the schools. The program is typically funded for $5 million. We have been pushing every year to see if it could be baselined. The $5 million for the mental health continuum is allocated at adoption — do you know if you have been having these conversations with them?
+
+**(04:39:48)**
+
+
+
+We have been talking with them and it is in process. I have actually visited them and they are amazing. I particularly like that part of the model is to mentor teachers on how to care for someone in the classroom, because most of the time it is going to be spent in the classroom, not with the...
+
+**(04:40:07)**
+
+
+
+Therapist. So the model of saying yes, we provide therapy, but we also teach the teachers how to take care of kids who are in distress — because that is where most of the time they are going to be, in the classroom. So those discussions are ongoing and I feel very hopeful.
+
+**(04:40:29)**
+
+
+
+Does the funding of $5 million keep programming at current levels?
+
+**(04:40:34)**
+
+
+
+Okay. And how many centers have been opened since this initiative began, and will there be any new clinics opening in 2026?
+
+**(04:40:41)**
+
+
+
+There are no new clinics opening. Do you know the number? Yeah, I think...
+
+**(04:40:45)**
+
+
+
+16 clinics.
+
+**(04:40:45)**
+
+
+
+16. Okay, that is right. Okay. And then just really quickly, because this has also come up as a topic in a few of the hearings we have had so far — the Office of Community Safety. The executive plan includes a baseline transfer of $3.3 million to the Office of Community Safety starting in FY28. Is the...
+
+**(04:41:07)**
+
+
+
+Administration planning to transfer any other H+H programs or services, that you know of?
+
+**(04:41:18)**
+
+
+
+Not at the current time. Okay. H+H's hospital-based violence interruption program seeks to break cycles of violence by providing interruption, prevention and community engagement services. I assume that it would make sense for the Office of Community Safety to be involved with this program if the program is effective. Is this something that you are looking at, or that the administration is looking into, that you know of?
+
+**(04:41:41)**
+
+
+
+They have not said anything. Yesterday I was at a really great retreat for all of the programs. It is one of our initiatives from last year. These programs — there was a doctor at Kings County in Brooklyn who had started a program. What we have now done is we have programs at all of the hospitals. As we said, you can have different brands, but we all want to learn from one another, so let us figure out a strategy. Yesterday was their first all-H+H retreat together, where they spent the whole day figuring out how they can learn from one another. We are very excited. We want to respect the traditions but we also want to figure out what we can learn from each other.
+
+**(04:42:32)**
+
+
+
+That is perfect. Thank you.
+
+**(04:42:33)**
+
+
+
+I feel like that is the best way to learn sometimes — it is just from your own peers.
+
+**(04:42:37)**
+
+
+
+Absolutely. And what is the total budget for the program for FY26 and FY27, as well as the total headcount?
+
+**(04:42:48)**
+
+
+
+I will have to get back to you on that. Okay, perfect.
+
+**(04:42:52)**
+
+
+
+Let me pass it off to Chair...
+
+**(04:42:56)**
+
+
+
+Thank you. Thank you. One of the interesting things I love about that — did you actually increase the staffing in the billing department, or...
+
+**(04:43:06)**
+
+
+
+You used technology to help you build? Because without good billing you can collapse. We definitely hired up. We have not had to hire recently. We got to a certain level that was appropriate. But when we first learned how to do it, we were using a contractor, and then once we learned how to do it we said bye-bye to the contractor and we hired all the people to do it in-house. It has been working very effectively.
+
+**(04:43:30)**
+
+
+
+Yeah, I like that. And I have to give you credit because ever since you took over, we have not really been in the red. And I — if anybody tells you that — that is one of the reasons I appreciate you a lot, because I know we have been struggling with H+H in the City of New York and you have shown us a new vision. That is the reason I want to say thank you.
+
+**(04:43:54)**
+
+
+
+Thank you. You are quite welcome.
+
+**(04:43:57)**
+
+
+
+Based on your testimony, roughly about 450,000 New Yorkers are going to lose their essential coverage by July 1. How many are current H+H patients and what is the projected uncompensated care increase?
+
+**(04:44:20)**
+
+
+
+Yeah, it is... you know, we are talking about what we call the "five group." It is the group of about 1,255,000 people statewide who are in the process of losing their coverage. For us, that number is about 52,000 to 60,000 people. I think New York City-wide this is somewhere around 200,000. So it is pretty devastating, but we are prepared. We will obviously still serve those individuals and we will use disproportionate share funding as the vehicle to pay for their services.
+
+**(04:44:59)**
+
+
+
+Thank you.
+
+**(04:45:02)**
+
+
+
+We would tell them all to continue to come for care — we are here for you whether you have insurance or do not have insurance. Twenty days cash on hand is in line with historical performance, you know that. But...
+
+**(04:45:18)**
+
+
+
+22 days appears thin for a system about to absorb a federal shock. A healthy system targets are far larger. The question is: what is the floor...
+
+**(04:45:33)**
+
+
+
+Before it threatens our operations? Well, I think the reason we do not operate the same as people do in the private sector is that we have the advantage of the City and the State. So how much cash we have on hand has some relationship to how much the State owes us at any one moment, and sometimes how much the federal government owes us through the State, and how much the City owes us with different things — the ability to move payments. So we are always around that number, 28 days.
+
+Now, ultimately, if there were markedly fewer insured people and we were providing the same level of services, that will open a hole. That hole can only be filled either by the City, by the State, or by us figuring out more efficient models. We will never back off on providing services, but we could in a bad scenario have to look at — for example — maybe we cannot provide every service at every hospital. That could happen. Would the service still be available? Yes. Would it be available at every hospital? Potentially no. I mean, that is... I am very firm in all of the government systems that I have run: you spend what your leaders give you. You do not get to spend more than...
+
+**(04:47:11)**
+
+
+
+That. Yeah, that is how it works. It is like our checking accounts — you might want to buy something more, but if you do not have the money, you do not. We will always prioritize services over administration. We do not have the high salaries that exist in the private sector. But I think what we would have to do is look at the places we provide services and probably decrease them. If you look at the other systems — whether we are talking about Mount Sinai, for example — they do not do it...
+
+**(04:47:48)**
+
+
+
+They do not have every service at every hospital. They have a hospital for birthing and that is where you have to go. Our hospitals have a different tradition because our hospitals really grew up around taking care of the...
+
+**(04:48:03)**
+
+
+
+Neighborhoods, right? So Harlem takes care of the world of Harlem — that is more our tradition. So all our hospitals do, okay, and that is a good thing. Pretty much all our hospitals do a pretty full spectrum of services. I think in a scenario where there were fewer dollars and you were prioritizing services, you would probably have to provide the services at fewer sites and people would have to travel for those services. But at least the service would be available. It would not be cut.
+
+**(04:48:41)**
+
+
+
+You are talking about enrollment. I ask because I know we are going to have...
+
+**(04:48:48)**
+
+
+
+Some complex moments to get people re-enrolled, because of the fact that we are dealing with so much. So as we are talking...
+
+**(04:48:59)**
+
+
+
+About enrollment, I know we have a strategy to recruit volunteers and such. I am pretty confident that since New York City is a great place, despite everything going on over our heads, a lot of people will be recruited to help address that enrollment. And you said you are going to have a kind of how-to for that, so thank you. And absolutely, thank you. Great news that we have hired...
+
+**(04:49:25)**
+
+
+
+200 nurses. You know, that brings me joy — I am very happy. We forecast operating losses in FY28, FY29 and FY30 from the HR One ramp-up. How optimistic are we that this staffing increase will not get squeezed to make ends meet at the end of the day?
+
+**(04:49:51)**
+
+
+
+When I look at our system, I am not cutting nurses. Because the way we are structured, five medical-surgical patients equals one nurse, and that is the appropriate model. I do not think there is any value in running hospitals that are understaffed.
+
+**(04:50:16)**
+
+
+
+So you have to maintain the basic staff levels. Right. Again, that is why — if one had to do something — it would probably be to look at the 11 hospitals and say what is each borough going to have. Maybe each borough is not going to have every service at every hospital. But I do not want to ever run hospitals with too few nurses or doctors. I do not see any value in that. That will only lead to bad care and I do not want to ever provide bad care. I would rather say something is not available than do something poorly. I appreciate that, Dr. Katz.
+
+**(04:50:57)**
+
+
+
+Your testimony notes that you are still evaluating the impact of the newly enacted State budget and that you anticipate operating losses in the out years from HR One. Can you walk the committee through the challenges you see ahead, both from the State budget and the federal cuts, and how H+H is planning to meet...
+
+**(04:51:20)**
+
+
+
+Them. Yeah, I think I addressed some of them. John can do a better job than I on the cuts themselves.
+
+**(04:51:27)**
+
+
+
+I think first on the State budget — we think for Health and Hospitals it should be very favorable. We are still trying to understand the details, but for hospitals in general, the Governor and the Legislature added over a billion dollars, and that was $600 million for hospitals, $100 million for outpatient, and then there was a quality pool. We are still trying to better understand the value of those additional resources. They are not yet reflected in our plan because we did not have enough time to budget — it came in late. So that should improve our out-year situation.
+
+As Mitch had said, we were always forecasting years ahead. The five-year operating deficit is $3.2 to $350 million. We will need to attack that deficit and we have seen good success thus far in that approach. It was a year ago when we were here together and HR One had just been released. Our plan today is about $500 million stronger than it was then, and that is because we try to find opportunity in the midst of the turmoil and we have managed to do that. You have heard us talk about the average commercial rate — it is a rate enhancement, and we take advantage of that. That has benefited us rather significantly. But...
+
+**(04:52:48)**
+
+
+
+Yeah, we are today trying to figure out...
+
+**(04:52:53)**
+
+
+
+A path for the fifth year of the plan to avoid those cuts that Mitch had mentioned.
+
+**(04:53:00)**
+
+
+
+Thank you. And like I said again, I trust Dr. Katz is going to do the best he can and I am comfortable with the time we have with Dr. Katz.
+
+**(04:53:13)**
+
+
+
+Is NYCH+H's fiscal year 2026 budget for emergency weather services $5 million? The full $5 million was allocated in the preliminary plan to retroactively cover emergency warming center services during extreme cold stretches this past winter. With that $5 million, will it be NYCH+H's full fiscal year 2026 budget for emergency weather services, or do you anticipate additional funding being added at adoption?
+
+**(04:53:47)**
+
+
+
+I think we are very grateful. The warming center was a significant problem and we had to come up with a very rapid solution. The arrangement that we have with Health and Hospitals to address the situation is that they will cover those expenses for us, and we anticipate in the future, if we unfortunately meet with a similar situation, that they will help us financially.
+
+Does NYCH+H offer services during extreme heat emergencies as well? If so, how much do you anticipate spending on these services this coming summer? Yes, we do offer cooling at all of our facilities for people who do not have it. I think when it comes to cooling, the City has more resources and we are just one part of the response. I think in the cold spell, everybody was staying home and the big thing that Health and Hospitals was able to do was go and find the people, and I think that is what changed. The City has always had warming centers, but people were not necessarily going to them. We then took vans and went out and found the people and brought them in. So I think on keeping people cool through the summer, the City has an overall response that we are just part of. We do not have separate funding.
+
+**(04:55:30)**
+
+
+
+No separate funding. Okay.
+
+**(04:55:37)**
+
+
+
+The Far Rockaway trauma center — I am going to leave it for my colleagues, as one of them is excited to go through that because she is excited to see you. If she does not ask that question, I am going to come back to it.
+
+Okay, I have one more. There is the Office of Health Care Accountability. The office was established in June 2024 through the Health Care Accountability and Consumer Protection Act, Local Law 78. This is legislation that Speaker Menin was proud to spearhead while serving as chair of the Committee on Consumer and Worker Protection. The office was created to examine health care costs across New York City, improve transparency in health care pricing and spending, and identify strategies to reduce costs for patients and the health care system overall. Is NYCH+H doing any work with this office? If so, what role is NYCH+H playing in improving transparency in their costs?
+
+**(04:56:53)**
+
+
+
+We provide data to the office on all our costs, and that is where you can learn that Health and Hospitals often provides the same care but for a third of the price, because we are a public system that devotes ourselves to services and not to other things. Regarding ongoing reimbursement rates, we talk about it. You are very good at it.
+
+**(04:57:22)**
+
+
+
+Okay. Given the ongoing reimbursement rate negotiations between New York Presbyterian and Emblem Health, what role has NYCH+H and the Office of Health Care Accountability played in assessing the impact of provider reimbursement rates on City health care costs? Have any delays in reaching an agreement affected the City's anticipated health plan savings? If so, by how much?
+
+**(04:57:46)**
+
+
+
+We have not been involved in those negotiations. Those are all done by our... okay.
+
+**(04:57:55)**
+
+
+
+There are many questions but I am trying to wrap up as fast as I can. Some interesting ones I have to ask. In the executive plan, the executive plan includes savings starting in fiscal year 2026 and baseline to reach $27 million by fiscal year 2028. We were told that these savings will be achieved by reducing reliance... wait, please. Sorry. I am going to go back to that one. I was repeating because my mind was on my business, I guess.
+
+**(04:58:32)**
+
+
+
+All right. Did you just... I did not hear the federal... okay. The federal restriction on Medicaid — you did not get to that. So you did answer my question there. Let me see... no, you did not. So we have a comfort here. I am pretty sure somebody was not paying attention. It was probably me. All right, for the sake of the record, I am the one that is not paying attention. Sorry. All good. Oh, good. Thank you. You did this one, you did that one, you did the mental health one. You mixed my questions with... yes, we have to get to Eric's question.
+
+**(04:59:25)**
+
+
+
+There are a few questions she is interested in, so I do not want you to repeat things. Just give me a second. Okay. Okay, so let us move on because I have some questions. On the topic of asylum seekers: the asylum seeker budget in fiscal year 2026 has no funding in fiscal year 2027. How is the remaining asylum seeker funding being spent?
+
+**(05:00:01)**
+
+
+
+So the money that is showing in fiscal year 2026 is all the closeout of the hotels and shelters that we were running for people who were seeking asylum. Now all of those services have been transitioned within the existing shelter system because we are no longer receiving the buses. As you remember, there were days when 1,200 people would arrive to the City without any place to be sheltered, and so in order to help our sister agency we created another system. But now that other system is no longer needed, so there is no ongoing funding for the program. It is all within... so I will go to DHS. The money that is there was already spent. That was money that was spent at the beginning of the fiscal year before the programs closed down.
+
+Does NYCH+H have any employees who are fully dedicated to asylum seeker operations? If so, what will happen to them when NYCH+H fully winds down its asylum seeker operations?
+
+**(05:01:22)**
+
+
+
+Everybody was absorbed into other jobs. Nobody lost their job.
+
+**(05:01:28)**
+
+
+
+Thank you. Good news, especially in this climate. Okay. You know I love Bridge to Home, so I am going to have to follow up on Bridge to Home. Funding was added to the Bridge to Home program in the preliminary budget, bringing the program's budget in fiscal year 2027. This additional funding covers a new site for a total of three sites. During the preliminary budget hearing, you stated that one Bridge to Home site is operational and located in Manhattan. Have the locations for the other two sites been chosen yet, and is there a timeline for the opening of the two remaining sites?
+
+**(05:02:17)**
+
+
+
+So I just want to take a minute to invite everybody — I know you have been there, but if you have not been to Bridge to Home, I am in my 25-year public health career and I do not know that I am prouder of anything more than Bridge to Home. Because I always felt that sending people out of the acute care psychiatric hospital who were homeless made absolutely no sense, and that all of the good work that the nurses and the doctors had done during that period of time to stabilize the person would all be lost when, days later, the medicines would be lost, they would be in the subway. But it is a good deal for the participants. They have been very willing, we have had very high retention rates, very few people have left the existing one in Manhattan, and we have now already placed four people in permanent supportive housing, which was another part of the idea. Yes, we are all in favor of supportive housing, but you cannot actually go from the psychiatric ward to supportive housing. There are all these steps — you have to find an apartment, you have to sign the lease, you have to get furniture, there has to be a first month's payment and you have to be ready to live in that environment on your own.
+
+But we are doing injectables — as a nurse, Chair, you would appreciate — we are giving people injections so that they keep their mental health. We have seen tremendous improvement in people's abilities to have a positive life outlook. The City has generously agreed the second one will be in Brooklyn and will be opened soon, and the third one — I do not know if it will be Queens or the Bronx because I know we are going to do one in each borough. I am not sure.
+
+**(05:04:17)**
+
+
+
+We know exactly.
+
+**(05:04:18)**
+
+
+
+I think we have not yet chosen — the idea is that there will be one in each borough, but I am not sure where number three is going to be, Queens or the Bronx. It will probably depend on finding the right site. We need a site. Another positive thing I would say for all of us who lived through this: the neighbors love us. You have not heard a single complaint. They have actually pointed out how the neighborhood is better. We took down something that people did not like that was right in front of the building. But the key thing is it is 24-hour staffing, so you do not have people sort of hanging out on the outside — the kinds of things that are upsetting to neighbors. So it has been incredibly smooth. I mean, normally when we have a program I get complaints, you know, noise or whatever. Zero complaints about Bridge to Home, and I think it is directly related to the fact that there is 24-hour staffing at the program.
+
+We are talking to our sister agencies about whether there are other shelters for the mentally ill where we could increase the clinical level of services. If we do that it does make the shelter more expensive — you cannot provide nursing without some added expense — but I think it might actually save the City money because people revolve through these shelters without actually getting better. It could be that if we would provide enough structure, people do not need a hospital, but they need something more than a case manager seeing them once a month. They need some structure, they need some activities, they need some nursing, they need someone to hold on to the medicine so it is not lost. People can look remarkably different after three months of good nutrition, positive socialization and medications. People who you would have thought could never go to supportive housing — you give them three months of those things and they look completely different. But they do not look different after two weeks in the hospital. Two weeks in the hospital gets someone from psychosis to not psychosis, and I am so sold on that. You know that I love it.
+
+And one of the things we said was, you know, we have five boroughs. But I am hearing you, Eric. So when is the plan to expand? Well, this is where we hope the City will continue to be generous and we will continue to have that conversation. Are we having the conversation? Because you sold me on this the minute I walked in. You know I am 100% in. So I am going to continue. We think that there is tremendous support for us to do this.
+
+**(05:07:12)**
+
+
+
+Thank you. I will advocate with you.
+
+**(05:07:15)**
+
+
+
+On the SHOW program: it was funded in the fiscal year 2027 preliminary budget. Of the three new SHOW units in operation, where are the three new units located, or where would they be located? So we just got the funding, so they are not yet operational. The funding is for fiscal year 2027, so the money opens with the budget. Once we do that, we are working closely with community-based organizations to figure out what is the best location for them. But they have been very successful at reaching people who are not necessarily going to come first to a hospital or clinic, but who might come after we have engaged with them.
+
+**(05:08:20)**
+
+
+
+Correctional health services: the executive plan includes a baseline of additional funding starting in fiscal year 2026 and increasing to nearly $40 million by fiscal year 2030. The funding will support correctional health services spending related to affiliated costs and pharmaceutical drugs — we know how expensive that can be. How many providers does NYCH+H contract with for the provision of correctional health services? How were these providers chosen?
+
+**(05:09:06)**
+
+
+
+Correctional Health Services has one major professional affiliate, as do our sister facilities in the system. Our affiliate, just like some of the other facilities, is PAGNY — the Physician Affiliate Group of New York — and they hire the individuals who are frontline providers. These are doctors,
+
+**(05:09:29)**
+
+
+
+physicians, physician assistants, health clinicians, mental health treatment aides — 1199 and Doctors Council — primarily because when we came over to Health and Hospitals, a bulk of the staff who were vetted and interviewed and selected from what had been already in Doctors Council and 1199: for those individuals whom we selected to join our new team, we wanted to preserve their benefits. And PAGNY, they are a professional affiliate. It is only frontline providers, patient care providers. All the supervisors and managers are on Health and Hospitals. It is not a typical or traditional contractual relationship. So that is our main contractor. We have two other small professional contracts. One is 18-staff dental — a correctional dental provider, their dentists and dental hygienists and oral surgeons — and then we have eight emergency medicine physicians who are in a group and we contract with them to be on the island. So those are private groups. What is the name of the group?
+
+**(05:10:48)**
+
+
+
+The dental is Correctional Dental Associates. Okay. And the urgent
+
+**(05:10:54)**
+
+
+
+medical is... okay. Are they from New York City or out of state?
+
+**(05:11:01)**
+
+
+
+Correctional Dental is in New Jersey and New York City.
+
+**(05:11:06)**
+
+
+
+And Urgent Medical is in New York City, and I think they might do some work in Westchester as well.
+
+**(05:11:12)**
+
+
+
+We have a lot of doctors in New York City. So...
+
+**(05:11:14)**
+
+
+
+Yeah. Anyway, let us go forward with that. We can always explore and dive into it.
+
+**(05:11:20)**
+
+
+
+What are the lengths of the services contracts like?
+
+**(05:11:32)**
+
+
+
+So our...
+
+**(05:11:33)**
+
+
+
+Contracts, depending on what kind of contracts we are talking about: as part of Health and Hospitals we use the Health and Hospitals contracts as much as possible. Those are basically for laboratory or pharmaceutical and medical supplies like Cardinal Health, and those contracts generally run three to five years depending on the need.
+
+**(05:11:54)**
+
+
+
+How many years do you have them? How long do you usually have the contract? The system contracts run three to five
+
+**(05:11:59)**
+
+
+
+years, five years. At Correctional Health Services we annually re-evaluate the performance of each of our contracts as to whether... you will be evaluating that annually, not automatically on a yearly cycle?
+
+**(05:12:12)**
+
+
+
+Annually. We do this with all of our senior staff.
+
+**(05:12:17)**
+
+
+
+We evaluate whether we are getting what we pay for. How does the evaluation that you do with your contractors work? Is it based on the responses of the staffing people that are dealing with the actual contractors? We have corrective steps with some contractors, we have terminated contracts, and we have performance measures including turnaround time, quality of responses and results.
+
+**(05:12:50)**
+
+
+
+All right. I have some colleagues with different things going on. I would love to ask the questions but my colleagues have to run. CM Brooks-Powers, I know she came directly. Okay, so we know Brooks-Powers. Farah, thank you.
+
+**(05:13:05)**
+
+
+
+Chair, thank you for the testimony today. I am going to go ahead in the interest of time and ask the questions, and then I can repeat any question I need to. Always great to see you, Doc. Great to see you and the full agency team.
+
+So first: you have been a strong partner on the Far Rockaway trauma center efforts and have heard the needs of our community. Based on previous conversations, we have heard that a level one or level two trauma center would cost approximately $200 million in capital to construct. As far as you are aware, is this still a reasonable cost estimate for this facility?
+
+The executive budget includes additional funding in the next few fiscal years for operations and pharmaceutical costs. Can Health and Hospitals explain the reasons for these increases and how they will improve services for patients?
+
+And last: how does New York City Health and Hospitals track and measure trauma cases across the City, and what is the average travel distance and transport time for trauma patients to reach a level one or level two trauma center citywide? How does that compare with the residents of the Rockaways? And I know Dr. Katz had shared in an interview a while back a very profound statistic in terms of the number of trauma centers in the different boroughs. If you could just on the record share, based on the boroughs, where our trauma centers are located and how many they have, I would appreciate it.
+
+**(05:15:01)**
+
+
+
+I will do my best. Let us just deal with the question. The increase really reflects the increase in volume of the number of detainees on Rikers. Rikers has been much more crowded than before, and so some of it is just the per-person cost of their medical care. We are very proud of providing the same level of care at Rikers that we would provide to anyone, and so that means more injectable drugs that are expensive, but that we believe ultimately provide good care. So it is a combination of more people...
+
+**(05:15:44)**
+
+
+
+More expensive pharmaceuticals. I remain with you a big supporter of the Rockaway trauma center. I feel that the fact that it is a 40-minute trip to the nearest level one or level two trauma center, assuming reasonable traffic, which as we know is not always the correct assumption. There are, as you know best, only two ways off the peninsula and both of them can be very congested. It is a very long and thin peninsula, which means that depending upon where exactly on the peninsula it is... so I think that there is a very strong argument that it is wrong for people to have to wait 40 minutes for definitive care and that lives are lost. In terms I can only say that other parts of the City have better coverage. I do not have the... I can certainly give a sense that an island has a... and while it is, if you will, a farther distance, it would be as...
+
+**(05:17:08)**
+
+
+
+Significantly shorter. Manhattan is certainly a place where there are the most trauma centers in a very small area. You would have access to a trauma center in most cases in Manhattan — I would say no more than 10 minutes to the furthest area within Manhattan. Brooklyn has Kings County, Maimonides and Lutheran. I feel like I am missing one, but again for the size, much shorter travel times. When you look at the City as a whole, the Rockaways stand out in terms of the time people would have to travel, and that is why I supported it with you. Thank you. In terms of...
+
+**(05:18:04)**
+
+
+
+The cost — as far as yes, it is correct.
+
+**(05:18:07)**
+
+
+
+Yes, thank you for reminding me. Yes, that is still accurate. I recently verified the number with a group that builds hospitals and they agreed that $200 million is the capital cost.
+
+**(05:18:22)**
+
+
+
+Thank you so much. Thank you. Thank you, Chairs. Okay, great. CM Cabán, followed by Brewer. Thank you.
+
+**(05:18:30)**
+
+
+
+I would like to start with a couple of questions about gender affirming care. I asked this question earlier, but it is probably more appropriate for you all. Obviously we are seeing the federal assault on gender affirming care continue and escalate. I mean, now we are seeing these private hospitals get subpoenas. So is there a plan for increasing access to gender affirming care within H+H, specifically for younger children? There are so few places that provide care for children under the age of 13. Could you speak on that a little bit?
+
+**(05:19:11)**
+
+
+
+Sure. We remain committed to this population and we are not going to stop taking care of them. We believe that this is a health issue that is best dealt with by the person, by their family, and definitely not by the federal government. We have already accommodated families who were in other programs that ended and we continue to do so. We do not maintain any volume cap, so we will care for as many children as need to be cared for.
+
+**(05:19:45)**
+
+
+
+I think one thing that has come up is that we have asked about this before, obviously, because this has been a long-term attack on that particular community and we have not necessarily seen an addition of patients coming to H+H. But what I will say is that I am hearing from more parents that they are having a hard time figuring out where to take their children. So I am wondering also if there are dedicated referral pathways, care coordinators and expedited appointments at H+H available for patients whose treatment has been interrupted. I want to emphasize the care coordinator piece because I think that is what parents have at least indicated would be the most helpful. Because different stages, different ages and different developmental stages require different kinds of care, and not every doctor in every H+H facility has the ability to provide that care.
+
+**(05:20:42)**
+
+
+
+Yeah, we certainly do try to have people come to a place where we have specialized physicians, because as you say, not all physicians — even all good physicians — are culturally competent to deal with the issues of transgender children. I will go back and see more about whether or not we have a sufficient number of care coordinators. We will certainly prioritize that as things get harder and harder. As other providers stop doing this work, we want to stay firm and keep providing it to the children.
+
+**(05:21:22)**
+
+
+
+My last question on this piece is: Langone has received a federal subpoena. Mount Sinai has, except they are lying about it. Has the administration received one? We have not. Okay. Thank you.
+
+**(05:21:37)**
+
+
+
+Chairs. Just a few questions. Can we... okay. Just because it hits the mental health portion and I had to wait for H+H staff. Yeah, thank you. Okay. On Be Heard...
+
+**(05:22:00)**
+
+
+
+Is there a plan? We saw on the website that there is a drop in eligible calls for 2025. Do you have a plan to increase eligibility for those calls? For example, are you open to removing the limitation of evening hours only? We are seeing other responders around the City have a much larger scope of call classifications that are eligible for their alternate responders.
+
+**(05:22:23)**
+
+
+
+So you have to remember that Health and Hospitals does not run Be Heard. We are proud to hire and train the workers and we think our social workers do a great job. But we do not do the operational part of Be Heard. I certainly believe in the model. I think that if you want to de-escalate, you want to send a mental health professional, and therefore I would want to send a mental health professional as often as possible to these situations. I do think that it could be a much larger program, but those operational changes are across the City.
+
+**(05:23:07)**
+
+
+
+So according to you — and there has been confusion about this — is Be Heard moving to Health and Hospitals? If you are going into the department... so it is not going to be... at one time there was a proposal to move it to Health and Hospitals.
+
+**(05:23:19)**
+
+
+
+Right. You know, that was not a negative on anyone. That was just recognizing that it was challenging for the Fire Department to hire enough staff. There were not very many calls, but that plan has changed and I think now the administration is looking at a variety of options. And I think there are a variety of options. Totally.
+
+**(05:23:44)**
+
+
+
+I think which department is not really the issue. The issue is how do you efficiently get people who are not law enforcement — yes, not frightening — but mental health professionals to situations to de-escalate.
+
+**(05:24:02)**
+
+
+
+Here is my very last question. H+H uses peers in a myriad of programs, correct? And that is because you find that peers bring something that nobody else can, correct? There has been an increase in peers in a lot of different places and that gets celebrated. What do you think about peers being on Be Heard teams? People who live with mental illness — the people at the center of those organizations are saying we want peers on these teams.
+
+**(05:24:32)**
+
+
+
+I think it would be great.
+
+Thank you. That is all I have got.
+
+**(05:24:33)**
+
+
+
+Thank you so much. Great. CM Brewer.
+
+**(05:24:37)**
+
+
+
+Thank you very much. I have a question on New York Cares, bike crashes — because you know more about it — and then just mental health on the street, so correctional health.
+
+**(05:24:50)**
+
+
+
+Congratulations. I understand there are 96 people. When Stanley Richards was here the other day, he said it was 96, which is phenomenal. 95 today. 95 today.
+
+**(05:25:02)**
+
+
+
+Congratulations. So that is going well. But then at Rikers or other locations... I know what it costs. This is a budget hearing. What else do you need? It is still challenging at Rikers as opposed to at Bellevue. I am just asking if you could update us on the costs and any other needs that you might have in terms of correctional health. I appreciate it.
+
+**(05:25:25)**
+
+
+
+The additional funding, which is going to make Health Services whole again, really covers the increased costs for pharmaceuticals as Dr. Katz noted. We have more patients and we have sicker patients, and that is really the issue there. It will allow us to make up for the salaries for the people who are good providers and providing the kind of services that we expect them to provide.
+
+The outposts continue. They are funded. We are working very closely with the Department of Correction under Commissioner Richards, which is wonderful, and with the State Commission on Correction to finalize the designs for the Bronx and the Brooklyn sites.
+
+**(05:26:14)**
+
+
+
+Okay, I am really excited about it. Fantastic. They issued those out.
+
+**(05:26:17)**
+
+
+
+Rikers — how much staff is there? Every day when I am there, the clinic seems pretty well outfitted and there never seems like there are a lot of folks in the clinic, but that is just because maybe I am there at the wrong time. Is it hard to recruit? I am just trying to get a sense because...
+
+**(05:26:35)**
+
+
+
+People get sick, obviously, and I was just trying to understand if that is still an issue or if you think you are totally copacetic with correctional health at Rikers.
+
+**(05:26:45)**
+
+
+
+We can always do better and it is a challenging place to work. We have been much more successful in recent years, certainly since COVID, in recruiting and retaining staff. Our vacancy rate is about 8% at this point in time. Part of the reason why we needed to come to you for the budget leveling is because we have basically run out of vacancy savings — dollars that were not spent because of vacancies — because we have reduced that, which is a good thing. We have staff on.
+
+**(05:27:13)**
+
+
+
+All right. I live with people who are asylum seekers and they love New York Cares. I am not sure they use it very much, but they know about it. So I am just wondering what the cost is and whether you are increasing those who are participating, et cetera. Just to get a sense of it.
+
+**(05:27:29)**
+
+
+
+Sure. Remember, when Cares was funded, it was basically a single funding which covers having an 800 number, additional pharmaceuticals and the infrastructure to run the program. But the program really just takes advantage of Health and Hospitals. We do not cap the number — we have always taken care of everybody regardless of their immigration status. The difference is there was never an organized system to enable people to know how to access it, or to get a primary care appointment in two weeks and have that be the center of it. So I am sure the actual costs exceed the amount of money that the City is giving, but...
+
+**(05:28:14)**
+
+
+
+That is okay. These are people we have always, always wanted to take care of.
+
+**(05:28:20)**
+
+
+
+So how many people are there? 130,000. 130,000.
+
+**(05:28:24)**
+
+
+
+And that is pretty steady. It is about 10,000 higher than it was this time last year.
+
+**(05:28:31)**
+
+
+
+Congratulations. Now I have to deal with bike crashes. I know — wait one second. I saw the helmet. Oh wow. Okay. All right, go ahead. Okay, so I have to deal with people who like bikes and people who do not like bikes. That is how it works. And so when you try to build new infrastructure, all hell breaks loose.
+
+**(05:28:56)**
+
+
+
+My question is in the papers — mostly the Post.
+
+**(05:29:00)**
+
+
+
+There is a lot of concern about the number of crashes and accidents. In other words, have you seen more at Bellevue or is it just all the hospitals that are racking up? Give me a sense of where you think we are with this in terms of accidents.
+
+Accidents are up, but I would personally, as a manual bicycle rider — yes — I blame the e-bikes and these electronic scooters because they just go so much faster, and that is what causes the accidents. It is the fact that they are coming at you really quickly. So we have seen a lot more accidents at Bellevue and at all your hospitals. Absolutely all hospitals, and definitely at Bellevue. A lot of scooters, a lot of wrist fractures.
+
+I think the issue of the bike lanes — again, as someone who uses them all the time — is that you are still supposed to follow the law. When the light turns red, you stop. The bike lane is not, you know, a welcome to go through a red light. So everybody needs to pay attention.
+
+**(05:30:19)**
+
+
+
+Sorry, one quick thing. Can we take a quick pause because our public witness, I think, has to go to the airport, and then we will go back to CM Brewer right after. Thank you.
+
+**(05:30:33)**
+
+
+
+I am so sorry, CM Brewer. My wife would be considerably mad if I do not get there. I apologize. Thank you for giving me the opportunity. I do have to say, let us go, Knicks. That is really important. Wait one second — you have a very well-known fear of flying. What are we talking about here? I am just picking up my wife. Okay. I made that very clear. And I might be pretty late anyway, so she will probably be upset.
+
+**(05:31:03)**
+
+
+
+Commissioners. Really quick...
+
+**(05:31:11)**
+
+
+
+I have a question about Be Heard. I think you said you are not prepared to answer questions on Be Heard. No, just that we do not do the operations of Be Heard. Our role is to train the social workers and hire them. But the operations of Be Heard are right now in the Fire Department. Okay. So Adrienne, of the $6 million for Be Heard, is that going to you? It is going to the Fire Department.
+
+**(05:31:37)**
+
+
+
+Okay. I have been concerned about some of the things I have heard. The commissioner basically said there has not been much conversation or coordination. The Fire Department has kind of said something similar. Do we know where it is ultimately going to go? I do not think that decision has been...
+
+**(05:31:56)**
+
+
+
+Made. I think everybody agrees that the goal is to send Be Heard to more calls — I think that is well established. But how to do that, the City does not seem to have figured out yet. There was a proposal in the fall that it would come to Health and Hospitals and we would do it. That proposal is no longer part of the City's idea, but I do not think anybody has articulated yet what it is going to be.
+
+**(05:32:26)**
+
+
+
+Because I know there was a report that discussed the bottleneck, because NYPD answers the call and handles it, but H+H employees are the social workers.
+
+**(05:32:39)**
+
+
+
+So that coordination can be difficult. It sounds like it is something that could be difficult. I do not think anybody objects to us hiring and training the social workers — I think everybody is good with that part. But I think there is an issue that right now, many of these calls the police prioritize and go rapidly to, and the Fire Department, because of shortages of paramedics, takes longer to get there. So in general, you are not achieving the goal of getting the mental health professional in the lead when the police are there first.
+
+**(05:33:22)**
+
+
+
+You probably cannot answer this, but I am going to ask anyway. What do you think should...
+
+**(05:33:25)**
+
+
+
+Happen? I do not think the issue is the department. I think this could run in a variety of ways. I think the issue is the staffing and that the current model of staffing is not sustainable. The current model is that two paramedics or EMTs go out with a social worker in a non-transporting ambulance, and then if the person needs transport, they have to send two more EMTs in a different ambulance. So on a crowded New York City street, you have two ambulances for one social worker, and meanwhile we have a paramedic shortage. So the calls with medical illness do not get handled as quickly.
+
+Also, these calls take a long time. You do not de-escalate somebody by tossing them into the back of your ambulance and driving them to the hospital. So I think that the model — whether it is run by us, by the Fire Department or by the Office of Community Safety — has to come up with a staffing model where there are enough of them. Right now there are not enough paramedics.
+
+**(05:34:38)**
+
+
+
+To respond to the number of calls people want. Okay. I would like to talk about this a lot further offline. Just really quickly for correctional health — we met with the Department of Correction about Local Law 42 and we brought up a Board of Correction memo that talked about prolonged placement in the contagious disease unit at the West Facility on Rikers Island. It also showed that the Board repeatedly raised serious concerns regarding the mental health of individuals on supervision and did not support continued placement. What can be done to support your efforts to avoid these instances and be in compliance with the Board rules? Thanks.
+
+**(05:35:20)**
+
+
+
+The communicable disease unit is unique in the New York City system and in the national system. It has negative pressure rooms for respiratory isolation. When Correctional Health Services places a patient in it, it is for medical isolation or quarantine — to rule out or to get past a period of infectivity after a communicable disease. Those individuals, even when they are in medical isolation and when they have a diagnosis of a communicable disease, are not restricted in that setting. They can still go outside, they can have court. What they cannot do is be with people physically without precautions, but that is for a short period of time, just until they have passed the period of infectivity or until we have got the lab results back that say whether or not they have the disease.
+
+There are other people who are placed in that area because of the physical layout of the area by the Department of Correction for non-medical reasons. Those are not people who we put there.
+
+**(05:36:31)**
+
+
+
+We will probably follow up offline on that as well. Thank you.
+
+**(05:36:34)**
+
+
+
+Much more to tell you. If I said I will have details on... maybe you will be protected when I am late, but we will see how that...
+
+**(05:36:41)**
+
+
+
+Goes. Okay, we have also been joined by Pierina Sanchez on Zoom. Sorry, Pierina. And a continuation with CM Brewer.
+
+**(05:36:51)**
+
+
+
+Thank you very much. So on the bicycles, it is nothing to decide today. We know that the accidents and crashes are up and that we have to do something about it. It is not your problem per se, but since you are a bike rider, as we all are, your input would be helpful. There is a Bill, apparently, that CM Hudson has to limit speed, but they still go through the red light, so I...
+
+**(05:37:13)**
+
+
+
+...mental health. So my office is swamped with people who see people experiencing abuse. Some people who are mentally ill on the street, and so it is the same story. It is nothing new, but do you think the City has some remedy for this or is it just the same old, we just have to deal with it? It does seem to be increasing.
+
+**(05:37:35)**
+
+
+
+Obviously, to the credit of Commissioner Jessica Tisch, numbers are down in terms of violent acts, but mental illness still seems to be up. I know I got ten calls today. What do you say? OK, well, this is the doctor's view.
+
+**(05:37:54)**
+
+
+
+I believe that a lot of the people that you are getting calls about are heavily addicted. I believe that some portion is mental illness, but it is not violent. They are generally the victims. They are not the perpetrators. There is the rare person whose psychosis says the devil says I need to hurt you, but that is by far the minority. The people with schizophrenia typically become withdrawn. They are not the people who are upsetting to people.
+
+I believe that the vast majority of people who are upsetting others are using drugs. They are addicted to the drugs. They also have a mental illness, but it is the drug use that is affecting their behavior. And I personally think that they need treatment and that there needs to be... I do not think sending them to Rikers is going to help them. I think that is going to make things worse. But I think leaving them on the street is also not helping them, and I think that judges in our current system lack alternatives.
+
+**(05:39:16)**
+
+
+
+True. It is either: do you release the person who has just done this crime, but maybe it was not a horrible crime...
+
+**(05:39:26)**
+
+
+
+Do you send them to Rikers?
+
+**(05:39:27)**
+
+
+
+I agree. Do not send them to Rikers. They only learn worse behavior. But on...
+
+**(05:39:30)**
+
+
+
+The other hand, I also do not... Someone has multiple incidents of these kinds of crimes, they are cycling, and good things are not going to happen to them. Bad things are going to happen to them and to the people in the neighborhood. And why can we not, as a society, say: this is the third time you have been arrested. The first time you were stealing potato chips, the second time you pushed somebody. Clearly drug use is hurting you and something bad is going to happen, and therefore we are saying, as a judge, you have got to go to this substance treatment program. Ideally you go voluntarily, but if you do not go, you have got to go.
+
+But that is how I view it. The law is not consistent with that. The law says, as you know well, that you can only be held against your will if you are an imminent danger of hurting yourself or someone else, and it does not address how addiction kills people's lives and the lives of all the people around them. But do...
+
+**(05:40:33)**
+
+
+
+You feel there are enough programs? Because my friends who are judges feel there are not necessarily the right programs for that person to be able to deal with his or her addiction. Do you think that there are enough...
+
+**(05:40:45)**
+
+
+
+...places? I think that if we could all agree that some people are not going to go voluntarily, but that there should be not a first strike, but like the third time you were brought before a judge, that you have to go — that that would be a positive step forward. And we do that with mental illness, so why can we not say on the third time you are arrested for some — again, not a huge — you know, these kinds of things: stealing, pushing people, getting into a fight. Why can we not say, you know, this is not turning out well for you?
+
+We as a society feel you are not following through on the societal contract and you are going to this program. Will it work all the time? No, but at least we are trying. Right now I think the frustration that you have expressed to me is the same as what my friends say: well, you cannot even call the police because the police say there is nothing they can do. My daughter rides the subway home from her supermarket job, and she all the time talks about how frightened she feels as a short girl in the subway. She feels intimidated. And I hate that. Okay.
+
+**(05:42:04)**
+
+
+
+There is a good offline discussion to continue.
+
+**(05:42:07)**
+
+
+
+Thank you, Dr. Katz. Thank you.
+
+**(05:42:09)**
+
+
+
+Thank you. Okay, we have Council Members Wong, Ball and Restler.
+
+**(05:42:15)**
+
+
+
+Thank you. I want to start by acknowledging something positive. The extended care unit that opened at Elmhurst in December 2024 is exactly the kind of investment this community needed — 20 beds, up to 220-day stays, and 50% of patients connecting to permanent housing. That is a real result. My question is about sustainability. What is the annual operating cost of the Elmhurst unit? Is it fully funded? And is there any plan to expand capacity beyond 20 beds?
+
+Yes. I think currently for the extended care units, we do operate those beds at a loss, because we understand how valuable they are. It is a loss measured by the day, but there is a return on the person's care in terms of avoiding future admissions and future costs. That is why we operate the program at a loss, because we think there is a longer-term savings to be had. I can get you those specific numbers. I will provide you those. Okay, thank you. Thank you.
+
+**(05:43:35)**
+
+
+
+Great. Next is CM Restler.
+
+**(05:43:40)**
+
+
+
+Thank you, Dr. Katz. So I have a question about hospitals. The dedicated pediatric X-ray and fluoroscopy rooms — I practiced that all morning today, good job, I could never have done that — are completely out of service. The primary pediatric X-ray room has been out of order for nearly three years and the fluoroscopy unit is now completely offline. That is, you know, obviously leaving pediatric patients at both Jacobi and North Central Bronx with zero dedicated pediatric radiology rooms.
+
+This is, you know, obviously a problem. We need pediatric-specific equipment to adhere to pediatric radiation safety protocols, especially for premature babies. Our office and our Bronx delegation have been advocating for these capital fixes to be prioritized in the budget. However, the urgency and effect on patient care for these needs is very high. Do you have any insight into why this situation has been allowed to get so bad, and what can be done to make these fixes for Jacobi Hospital a priority?
+
+**(05:45:24)**
+
+
+
+For H+H, I will just acknowledge that much of our equipment is past what people would say is its useful life. We are a system that prioritizes services, and sometimes the equipment does not make it to the top of the list because we are so busy trying to take care of everybody. Our overall capital needs are huge and would swamp the City's budget. We have eleven acute and skilled nursing facilities, many of them quite old buildings with leaking roofs and boilers that need to be fixed, and chillers, and we try to do our best to figure out what is the next priority.
+
+Fluoroscopy, thankfully, is not as much of a tool as it was in my generation as a doctor, which I suspect is why it did not get the same level of priority. But there are certain things you can only do with fluoroscopy. You cannot do it with a scan. Mostly the scans have replaced fluoroscopy, which is a good thing for diagnosis because the less radiation to the kid the better, but there are certain procedures that can only be done by fluoroscopy. My understanding is that they would be transferring the kids right now until they get a new fluoroscopy unit. I do not know the equipment schedule. Do you? No.
+
+**(05:46:53)**
+
+
+
+So we will get... I will go back and call Chris Mastromano. I feel he told me what the plan is, but I do not remember it at this moment.
+
+**(05:47:02)**
+
+
+
+Yeah, thank you for raising it. I can sit down with him and figure that out.
+
+**(05:47:06)**
+
+
+
+And I have a question about violence interruption. It has been a phenomenally successful program. I have had the opportunity to meet with dedicated staff at the program at Jacobi Hospital. Are there plans to expand these programs, protect the funding for these programs, and is this program going to go under the Office of...
+
+**(05:47:37)**
+
+
+
+Community Safety?
+
+**(05:47:41)**
+
+
+
+So Guns Down Life Up — we are going to continue to expand them. We have now expanded them at the hospitals, as in the case of Jacobi, but also we are now creating one at Bellevue and there is another new one. Woodhull we stood up last year. I am blocking on... maybe South Brooklyn. I have not heard any intention to take them to a different Office of Community Safety, but we would want to coordinate with them. That is what they are, right? There are ways of preventing violence using peers and violence prevention specialists. I am very supportive of working with other people and that is their tradition.
+
+**(05:48:28)**
+
+
+
+Anyway, thank you so much.
+
+**(05:48:31)**
+
+
+
+Thank you. Okay, CM Restler, thank you so much to the chairs, and congratulations to the chair for making it to your last hearing of an exceedingly long week. And President Katz, sorry — last one for the week, not in general. We have got next week, which will be even more fun. And President Katz, always good to see you. Thank you for your exceptional public service. I think you are now the one person who has been appointed by three mayors in a row. Is that right? That is a hat you wear unto yourself. So congratulations on that well-deserved reappointment. I have a variety of questions for you, but I will do Patsy first for a...
+
+**(05:49:12)**
+
+
+
+...moment. 2029 is the date that Commissioner Richards gave for when Woodhull will be opening their facilities. Is that consistent with your timeline as...
+
+**(05:49:28)**
+
+
+
+...well? It currently still is 2029, but we are all looking at ways that we could push that forward. We now fully have teams in place and our partners are pushing ahead as quickly as possible. Everyone is on the same page and pulling in the same direction. The winds are at our back finally.
+
+**(05:49:45)**
+
+
+
+Yes, good. And if there are obstacles or barriers, you will be sure to let us know? Yes, thank you. Okay, thank you, Dr. Katz. So the Health Department testified earlier that their modeling has us losing about 783,000 New Yorkers losing health insurance as a result of HR One. Mind-boggling to think about — one in eleven New Yorkers losing their health care. But that is what we are imminently facing.
+
+**(05:50:15)**
+
+
+
+And we know that those folks end up on your doorstep. Do you have a financial model of the uncompensated care that will now need to be provided to these three-quarters of a million New Yorkers who have just lost their health insurance? The only real financial mechanism we have is that we can access Disproportionate Share Hospital dollars, which would provide about 50% of the cost of uncompensated care. That will be a major source. 50% is better than zero.
+
+**(05:50:51)**
+
+
+
+And the modeling I have seen is that we are anticipating a $2 billion increase in hospital costs. So you are saying that we would get a billion in federal funding through DSH and be able to cover half, but we are looking at an additional billion in expenses? Rough estimates, right? Big picture — you have got it right. Okay, thank you. And forgive my ignorance, but when do you think that funding will need to be in H+H's budget?
+
+**(05:51:19)**
+
+
+
+Well, again, I do wonder how the midterm elections will affect us, since that is when you start to get some of the biggest cuts. I still remain hopeful that the worst-case scenario will not happen. It also depends a lot on how successful the City is in keeping people on insurance. There are certain people who you cannot keep on insurance — like the people in the Essential Plan between 200% and 400% of the federal poverty level. They are just going to lose. Done.
+
+But the people potentially — if you consider that almost everybody could, you know, either be working or be taking care of children or be in school or volunteer or be disabled — if you could imagine getting to have relatively few people falling off... but the recertification process every six months is intended to create a bureaucratic nightmare that people will not be able to comply with. So I would love... do you mind if I keep going with a...
+
+**(05:52:28)**
+
+
+
+...few more questions? Are you rushing? All right, fast. I have a few more questions. Just on that and then a couple more things — do you have...
+
+**(05:52:39)**
+
+
+
+...any suggested models? I know we do not yet have policies from the State on exactly what the certification process is going to look like, but any suggestions of things we should be doing now to plan for and invest in to help ensure that we are recertifying people and providing that hand...
+
+**(05:52:55)**
+
+
+
+...holding? Already increasing the use of navigators — I think that is the key thing. You cannot just assume that people are going to be able to fax things or scan things or send things through the portals or even get the right documentation. But if we had enough people doing that work, we could in fact do it. I think New York City will need to invest in a large number of people to help people enroll. I do not see any other way around it. We will need that over the course of this fiscal year. Yes. Although the how well or badly we do on food stamps will tell you a lot about the health insurance.
+
+**(05:53:38)**
+
+
+
+Okay, a couple other questions. Does H+H have an estimate on how much you will be losing from federal and state directed payment cuts, and do you believe that those cuts could have an impact on the financial sustainability of the H+H and Maimonides merger?
+
+**(05:53:56)**
+
+
+
+The state directed payment is the one place we have done better, because we got the average commercial rates, and even when that is capped it is still so much better than anything that we had before. I mean, if not for the average commercial rate we would be in a very different picture already. It is the average commercial rate that is protecting us.
+
+**(05:54:23)**
+
+
+
+And do you all have an estimate of how large the financial impact will be from Medicaid and Essential Plan coverage losses? Is there a model that you can share on that, and will the City need to contribute more? I mean, this is what I was getting at before, but I am just asking it again. Will the City need to contribute more to maintain services, or are we just waiting on the elections before we make that determination?
+
+**(05:54:44)**
+
+
+
+No, we have factored into our model in this budget that there will be losses. We have also factored in maybe 10 to 13% of our current patients from Medicaid being disrupted because of the barriers that will be put in place.
+
+**(05:55:01)**
+
+
+
+So we have factored that into our model. And as Dr. Katz mentioned, the average commercial rate, which was part of HR One and was approved, and we have our third year right before approval — that is really our first line of defense because it brings in a lot of money, about $2 billion for us. And as people are being disenrolled from Medicaid, our plan anticipates that they can draw from the federal DSH dollars.
+
+**(05:55:28)**
+
+
+
+Okay, the last question before I get in trouble because I am getting a dirty look. Any update on Care enrollment? Have the federal attacks on immigrants suppressed enrollment, and do we anticipate — are we modeling — increased enrollment because of the 750,000 New Yorkers that...
+
+**(05:55:43)**
+
+
+
+...we think are going to lose their health care? About 10,000 more than previous. Yes.
+
+**(05:55:49)**
+
+
+
+We are assuming more people will come in. And I think anecdotally all of us, including me, note that there are some people who were in the program who just do not seem to be around anymore, and we take that to mean that they have gotten scared of the climate and have returned to their country of origin, or are no longer coming in. I think that with...
+
+**(05:56:17)**
+
+
+
+...the anticipated expansion, making sure that we have the primary and secondary care capacity in place — which costs money for you all — is going to be critically important, because this is the only way that an increasing number of New Yorkers are going to have any access to care. Thank you for your work, and thank you, chairs, for your latitude. I greatly appreciate it.
+
+**(05:56:34)**
+
+
+
+And thank you for coming back. On correctional health care, does H+H receive any insurance reimbursement when providing care for incarcerated individuals? No, we are federally excluded. Oh, yeah.
+
+**(05:56:51)**
+
+
+
+Yeah, you are being...
+
+**(05:56:53)**
+
+
+
+...asked. The Executive Plan has a total correctional health services budget in fiscal year 2027. What specific services are supported with that funding, and how is the funding divided between medical services and mental health services? We do not budget by medical or mental health services. Many of our patients have needs on all sides. We provide care on an individual basis for whoever needs whatever they need. Most of our funding — I think it is 95%, or maybe 94 to 97% — is for patient care, and 84% of that is personnel. How many incarcerated individuals receive services in fiscal year 2026? Has the number of people served increased or decreased in recent years? What are the most common mental health issues incarcerated people deal with?
+
+**(05:58:08)**
+
+
+
+That the number of patients that we have on any given day has definitely increased steadily and dramatically since COVID, which is where we hit the lowest of the low. The number... just in the last year increased about 15% in terms of the number of people we see, from 6,000 to about over 7,000. The most common reasons why people in the mental health service come to us are really adjustment disorders. The most common diagnosis among seriously mentally ill patients is schizophrenia or schizoaffective disorders.
+
+**(05:58:50)**
+
+
+
+How long is the wait time for an in-custody individual to access mental health care?
+
+**(05:58:55)**
+
+
+
+We have at least two basic levels of priority. One is stat, immediate, which is within 24 hours, and the other is priority, which is within 72 hours. Of any referral we receive, we will see that patient and rely on the Department of Correction to bring that patient. For patients who are in our therapeutic housing areas, we see them on a weekly basis.
+
+**(05:59:26)**
+
+
+
+We have been joined online by CM Pierina Sanchez. We have two Sanchezes. I am sorry because she has been waiting. Okay.
+
+**(05:59:41)**
+
+
+
+How much of Correctional Health Services' budget is allocated to facilities on Rikers Island and how does spending differ across their facilities?
+
+**(05:59:56)**
+
+
+
+I am sorry, could you repeat the first part? The first part is...
+
+**(05:59:59)**
+
+
+
+Families? We would not take care of families, but...
+
+**(06:00:03)**
+
+
+
+Your social workers do meet with family members?
+
+**(06:00:06)**
+
+
+
+Social workers and all our staff will meet with family members regarding their loved one in jail under our care. The budget is spread out over all facilities. We are always moving staff around to wherever we need.
+
+**(06:00:22)**
+
+
+
+So you cannot be specific because there is something... you do not like jail. Okay. There is a current funding level and it is dedicated to supporting continuing care for this individual, certainly for the reentry work that we do from day one on admission to jail, and for what we provide on Rikers Island. I really appreciate you making us hold this time. Thank you.
+
+**(06:00:51)**
+
+
+
+Yeah, like you said, the funding is the same complexity. Correct. Okay.
+
+**(06:00:58)**
+
+
+
+As the City plans for the transition to borough-based jails, how do you anticipate Correctional Health Services' funding needs will change in future fiscal years?
+
+**(06:01:15)**
+
+
+
+You cannot predict that far ahead in years, but we will go wherever our patients are. The prediction at that point in time... a big focus on the part of the City under this administration is to see how people can be safely not in jail. I am in agreement — people should not be jailed, especially those that do not need to be in jail. I think Dr. Katz has been talking about it and I am totally in agreement. I was hearing you when you were talking about it with my colleagues.
+
+**(06:01:44)**
+
+
+
+On the Bellevue outpost therapeutic unit opening — this is something we spoke about earlier. What update information do you have to share on the operation of the new...
+
+**(06:01:53)**
+
+
+
+The unit is opening. It is going really well, thank you. April 8 we brought on our first group of patients. The first group were people who had both mental health and medical issues. We are over 90% at this point in time in occupancy and people are still coming in. The staff are responding really well and the patient services are going very, very well. It has made a big difference on all fronts.
+
+**(06:02:26)**
+
+
+
+Do you save money? I think you save more money by actually putting people where they are supposed to be.
+
+**(06:02:31)**
+
+
+
+Definitely. We think there are savings because for one thing you do not have the transport costs. People who need specialty care have to come on a bus and they need deputies to escort them. I think I hope all members of the City Council will come and visit the outpost unit because it really shows you that you can have correctional health done in a humane setting. Having an inhumane setting is not needed — that is not the point of a correctional setting. This is ideally to rehabilitate people, but if you are making a decision that this person at this moment has to be punished in this way, that does not mean that they have to be in cages. You can really see the difference, and I think the difference has affected the behavior of the detainees as well as the staff. Thank you.
+
+**(06:03:35)**
+
+
+
+How many individuals are currently being housed in the unit right now? As of this moment, 95 people. The budget for the unit is 8 million in fiscal 2026 and 8 million in fiscal 2027. Do you anticipate any funding increase for the unit?
+
+**(06:03:58)**
+
+
+
+We have some funding designated for Bellevue where we reimburse the hospital for basic services and some of the custodial, laundry and food — things like that that we buy from Bellevue — as well as to reimburse Bellevue for the specialty services provided on the unit.
+
+**(06:04:18)**
+
+
+
+So that the hospital is not affected badly. Thank you. Okay. In medical malpractice, the executive plan includes additional baseline funding starting in fiscal 2026, increasing to 5 million by fiscal 2030, for expenses associated with medical malpractice.
+
+**(06:04:46)**
+
+
+
+Defense contracts — is it H+H contracting with 12 to 15 different law firms for medical malpractice?
+
+**(06:04:57)**
+
+
+
+Defense? Yes. So the budget...
+
+**(06:04:59)**
+
+
+
+Just corrects to what the existing use has been, and the 20 million represents a major decrease from what it historically was before we started working so hard to handle these cases well. We actually work with 17 firms, and it is because medical malpractice is very specialized. You need a different firm if it is...
+
+**(06:05:24)**
+
+
+
+An orthopedic injury versus a pediatric injury or an obstetric case. So the total budget for fiscal 2026 and 2027 — 2026 is 21.3 million and 2027 is 21.4 million, essentially the same.
+
+**(06:05:57)**
+
+
+
+Does this funding only cover payments to law firms or does it also cover payments and settlements?
+
+**(06:06:03)**
+
+
+
+Only to lawyers, to law firms. It is not for payouts.
+
+**(06:06:09)**
+
+
+
+So there is separate money for the settlements. That is correct.
+
+**(06:06:14)**
+
+
+
+Are the contracts with the law firms? What is the timeline for a contract? How did H+H choose which firms to contract with? Contracts are 5 to 6 years. We do bids, but we also pay attention to how responsive the law firm is to us, and often you can do a better settlement if you are very responsive as opposed to leaving it for a long period of time. We also try to make sure that we have the right firms for the right kinds of cases because they are so different. I am assuming they are from...
+
+**(06:07:01)**
+
+
+
+Our city? Yes, 100%. Okay. How do you evaluate the law firms and how often do you? I think you just need to... yeah, you got that already. In finding savings, did you assess the medical malpractice contracts to find efficiencies?
+
+**(06:07:21)**
+
+
+
+Yes. Well, the biggest efficiency is that we have our own lawyers, and so that has made a huge difference. We only have to bring in outside help when we need specialty help, or when a case is unusual or requires a lot of expert witnesses.
+
+**(06:07:42)**
+
+
+
+How many medical malpractice suits were filed against H+H in 2025? How does the number compare to past years? Which H+H locations or service areas received the most medical malpractice complaints?
+
+**(06:07:56)**
+
+
+
+The closed-out cases total 450. Most of them, as you would expect, come from the large hospitals. The highest number involved the emergency department. The lowest number comes from the long-term care settings. About half of the cases we settled before trial. Settled before trial, yes.
+
+**(06:08:24)**
+
+
+
+That is the goal, actually, because otherwise you just rack up lawyer fees and it is not going to the person.
+
+**(06:08:34)**
+
+
+
+And many years... okay. Have you looked into the possibility of hiring in-house counsel instead of relying on outside firms for medical malpractice? We mostly have in-house.
+
+**(06:08:51)**
+
+
+
+We only use contracts for the very specific kinds of cases that require that type of expertise. Okay. And they are very good inside counsel.
+
+**(06:09:06)**
+
+
+
+Yeah. Maimonides — we started talking about this earlier. Maimonides was said to...
+
+**(06:09:12)**
+
+
+
+Merge with H+H on April 1, but right now it is still not going through. If I am correct, it will go through eventually, but yes, it has taken a lot longer than any of us had hoped. Okay.
+
+**(06:09:27)**
+
+
+
+So what steps are you taking to push the merger through? Is there a new date set? We have not set a date...
+
+**(06:09:35)**
+
+
+
+Because it is all dependent on going before the State's Public Health Planning Committee, and we learned just yesterday that in order to go before that committee there needs to be another kind of assessment — an equity assessment. So we are now working on the equity assessment, and when the equity assessment is complete we will go to the committee. We believe that the committee will support this because everybody recognizes that this is a critical hospital and there is no other choice, and no one else has offered to help. So this is a 660-bed hospital with a trauma center, the only children's hospital in Brooklyn, and the hospital needs to survive. We have always said throughout this process that if somebody else can do it, we are fine with that. We did not get involved to take on more hospitals — we got involved to preserve a critical resource, and that is what we are doing. If somebody else has another idea and they want to put together a proposal, that would be fine. But this has now gone on for months, and while we have some opposition, there is no other proposal. I keep saying it is fine to oppose something but you need to tell us what you are going to suggest instead, and so far we have not made any progress on that conversation, and that is...
+
+**(06:11:11)**
+
+
+
+What I have been asking folks. What is the solution? Come up with a plan. If you have a better plan... and I have not heard any.
+
+**(06:11:19)**
+
+
+
+There is no money there. Is there a possibility that the terms of the merger will change after the resolution of...
+
+**(06:11:26)**
+
+
+
+The process that we are going through? It is always possible, but we — I mean, the State has provided generous support. Once it goes through, we have $4 billion of State money to help save that hospital. But that money cannot flow to the hospital unless...
+
+**(06:11:44)**
+
+
+
+The merger actually happens. And it is a ticking clock now because the more we delay, the more money we are losing. We could be giving them through the upper payment limit $9 million more per month doing exactly the same thing they are doing now. But as long as there is opposition the process will be slow. I am going to leave it there. I had more questions but since we have to go... I do not understand why all this, but anyway...
+
+**(06:12:18)**
+
+
+
+Maternal health services. There is in the H+H fiscal 2027 executive budget for maternal home services, including an additional $513,000 baseline added to this plan for maternal morbidity and mortality reduction. What specific maternity-related programs does the additional $513,000 funding support and which H+H sites does it...
+
+**(06:12:48)**
+
+
+
+Operate out of? So we are very excited about this funding and very appreciative. It will pay for two additional social workers, a fetal heart monitoring program, and car seats and portable cribs for new mothers. Really valuable, valuable...
+
+**(06:13:13)**
+
+
+
+Services. And a portable crib — that is good. That can help maternal health-related programs...
+
+**(06:13:23)**
+
+
+
+Are successful at H+H. Well, I think in general our overall numbers...
+
+**(06:13:29)**
+
+
+
+Are better than the overall New York City numbers. We do well. I mean, OB is a very different issue than what I do in internal medicine, because with OB each time you expect a healthy baby.
+
+**(06:13:48)**
+
+
+
+When you are taking care of people who are sick, you understand that sometimes things do not go well. But OB is meant to be a happy event, and so any time either the mother or the baby is hurt, for us it is very serious and very negative. On the other hand, it is always known that a certain number of outcomes will not be what we wanted. Our job is to make it as good as we possibly can. A lot of the morbidity — we have been teaching people about maternal morbidity and mortality, and they think that means the woman is hurt or loses her life while delivering, when really it is in the year after.
+
+**(06:14:34)**
+
+
+
+It is a very complicated dynamic that undoubtedly has to do with depression and stress and the difficulties of being a new mom, and in some cases there are also mental health issues or substance use issues. It is a complicated, difficult time and our job is to do as good a job supporting those moms and their families as we possibly can. Thank you. While we say the year...
+
+**(06:15:08)**
+
+
+
+After delivery is the most crucial moment when you should have support. So what kinds of programs does H+H have to offer to help those mothers during that period?
+
+**(06:15:18)**
+
+
+
+We do everything from follow-up with social workers through mental health practice. We are also doing a lot of work on trying to arrange joint visits for the mom and the baby together, because we know mothers prioritize the health care of their babies but do not always prioritize their own health care. So we are creating...
+
+**(06:15:45)**
+
+
+
+At all the hospitals, joint visits to do a better job of bringing the women in. Very nice. And how often do they receive those...
+
+**(06:15:57)**
+
+
+
+Visits? As often as necessary. We are always — as a system, because it has come up in several of the questions — we never cap volume. Our view is that there are things we do and there might be things we do not do, but if we do them, we do them for everybody who needs it. If we provide mental health services, we will see you as often as you need. All services should be guided by clinical need, not by...
+
+**(06:16:23)**
+
+
+
+Protocol. Okay, so there is no cap, there is no visit limit. Okay. Have you identified a need to increase resources for maternal health and mental health programs at H+H? Yeah, well again, this new funding will really help us quite a lot. It is going to enable us — we are going to have a new obstetrics program that looks at the fetal monitors and alerts us when there is an issue with the baby, and I think that is going to make a big difference for the actual deliveries. I appreciate that. On head count changes — the number of licensed private nurses at H+H has continued to decrease since the first quarter of fiscal 2025, from 3,532 to now 306 in the third quarter of fiscal 2026. It is pleasing that H+H is working on reducing its reliance on private nurses. However, the number of physicians continued to decrease from 199 in fiscal 2025 to 178 in Q3 of fiscal 2026. Have these 21 positions been moved to an affiliated payroll or were they simply eliminated?
+
+**(06:17:47)**
+
+
+
+You have it right — they moved to an affiliate payroll. So the physicians were not eliminated. It is just a better way for them and for us to employ them. Okay. And the registered nurse...
+
+**(06:18:07)**
+
+
+
+Let me go to that. The registered nurse head count increased by 223 in Q3 of fiscal 2026 compared to... which H+H locations are the newly hired nurses staffed at?
+
+**(06:18:26)**
+
+
+
+It is throughout the acute care hospitals throughout. Yes.
+
+**(06:18:35)**
+
+
+
+And is there any plan to increase the number of residents going...
+
+**(06:18:39)**
+
+
+
+Forward? Yes, we are actually increasing the number. We have opened up a psychiatry residency at Kings County. We are going to open up a family practice residency at Metropolitan and we are looking right now at growing some of the other residencies as well.
+
+**(06:19:02)**
+
+
+
+Very good, thank you.
+
+**(06:19:05)**
+
+
+
+On Elmhurst Hospital — I am interested in the ER, which we spoke about. The executive capital commitment plan includes $2.6 million for renovation of the adult emergency room. What is the status update of this renovation and what is the completion timeline? Okay, so the completion timeline is March 2029, currently in procurement.
+
+**(06:19:36)**
+
+
+
+March 2029, thank you.
+
+**(06:19:38)**
+
+
+
+Okay. We spoke about that too. Is this renovation using available street space around Elmhurst Hospital for any expansion of the emergency room?
+
+**(06:19:49)**
+
+
+
+Yes.
+
+**(06:19:53)**
+
+
+
+Oh, yes. So sorry, because I work in that ER and I know how bad it is. The nurses must be very happy and I am happy for them. I am so happy for them. All right, let me count down. The executive budget includes a baseline transfer of B-HEARD funding from H+H of $2 million in fiscal 2026, increasing by fiscal 2029. Where will these 10 B-HEARD teams be located? Do you know by any...
+
+**(06:20:33)**
+
+
+
+Chance? I do not — that is a Fire Department question.
+
+**(06:20:36)**
+
+
+
+Okay. All right, but you do not know, even though you train them. All right, we do not get to decide the operations. All of them.
+
+**(06:20:44)**
+
+
+
+Okay, I love that. I respect that.
+
+**(06:20:47)**
+
+
+
+What will the structure of the B-HEARD teams be going forward? Would you know that?
+
+**(06:20:52)**
+
+
+
+I know, and I think the answer is unknown at this moment. I think the City is genuinely interested in trying to figure out a way for B-HEARD to handle more...
+
+**(06:21:06)**
+
+
+
+Calls. Okay. How are B-HEARD calls currently dispatched and triaged, and can you clarify whether calls would be routed through the NYPD 911 system? Right now they are running through the 911 system. Okay. What are the specific criteria that determine whether a call qualifies as a B-HEARD...
+
+**(06:21:35)**
+
+
+
+Response versus a traditional police response? That is a Fire Department question. I know you were going...
+
+**(06:21:41)**
+
+
+
+To say that. I knew you were going to say that.
+
+**(06:21:43)**
+
+
+
+All right, so you do not know and you are not... okay, I am going to...
+
+**(06:21:52)**
+
+
+
+I am in a good place with you. Let me see... I think I ran through all the things that were important to me except... my colleague has a question and now I think I am pretty much in a good place with you. But they love going back to Elmhurst Hospital. So we got them. We got back to the street. We got the part of it to the...
+
+**(06:22:28)**
+
+
+
+Extension, right? We are working on the extension. That is still in...
+
+**(06:22:32)**
+
+
+
+Process, all right. Whatever you need, I think we will be... and actually we have always tried to put money in and push everyone to put capital money in, to get the habit of money to get it. So thank you. We really appreciate your help. Yeah, they are from Queens. I am from Brooklyn, but I work out there. I have my... so that the Council and the whole team, I want to say thank you for your time. Thank you for your leadership and I am looking forward to amazing things in New York City. Despite what is going on, we know things are going to change. Things have got to change.
+
+**(06:23:04)**
+
+
+
+Looks like... so delighted to be here. Thank you. Thank you. Thank you so much. I love you guys, okay? And with that, we are...
+
+**(06:23:12)**
+
+
+
+Going to say thank you to everyone. But I have got to go, right? Yes, I have got to go. Thank you, everyone. You did all the work. I am...
