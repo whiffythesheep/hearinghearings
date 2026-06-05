@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance | Committee on General Welfare | Committee on Sanitation and Solid Waste Management | Committee on Governmental Operations, State & Federal Legislation"
 committee_slug: committee-on-finance
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-04
 slug: committee-on-finance-executive-budget-hearing-2026-06-04
 duration: "7hrs 17m"
