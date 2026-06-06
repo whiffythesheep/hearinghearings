@@ -8,7 +8,7 @@ duration: "6hrs 23m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260605-101221.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415403&GUID=74897BCE-B25F-4889-A3CB-9893D70E80FB&Search="
-chairs: "Tiffany L. Cabán | Shirley Aldebol | Lynn Schulman | Linda Lee"
+chairs: "Tiffany L. Cabán | Linda Lee | Lynn Schulman | Mercedes Narcisse"
 members: "Shirley Aldebol, Joann Ariola, Simcha Felder, Ty Hankerson, Linda Lee, Althea V. Stevens"
 ---
 
