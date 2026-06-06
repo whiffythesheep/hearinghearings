@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Mental Health and Substance Use | Committee on Finance"
 committee_slug: committee-on-mental-health-and-substance-use
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-05
 slug: committee-on-mental-health-and-substance-use-executive-budget-hearing-2026-06-05
 duration: "6hrs 23m"
