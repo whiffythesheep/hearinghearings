@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Mental Health and Substance Use | Committee on Finance"
+committee: "Committee on Mental Health and Substance Use | Committee on Finance | Committee on Health | Committee on Hospitals"
 committee_slug: committee-on-mental-health-and-substance-use
 title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-05
@@ -8,7 +8,7 @@ duration: "6hrs 23m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260605-101221.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415403&GUID=74897BCE-B25F-4889-A3CB-9893D70E80FB&Search="
-chairs: "Tiffany L. Cabán | Linda Lee"
+chairs: "Tiffany L. Cabán | Shirley Aldebol | Lynn Schulman | Linda Lee"
 members: "Shirley Aldebol, Joann Ariola, Simcha Felder, Ty Hankerson, Linda Lee, Althea V. Stevens"
 ---
 
@@ -16,7 +16,7 @@ Summary
 
 Meeting Overview
 
-The Committee on Mental Health and Substance Use, chaired by Tiffany Cabán, held a joint FY2027 Executive Budget hearing with the Committee on Finance on June 5, 2026, covering the Department of Health and Mental Hygiene and NYC Health and Hospitals. The hearing ran for what was effectively a full-day session, with testimony from DOHMH Commissioner Dr. Alistair Martin and H+H President Dr. Mitch Katz. The backdrop was grim: federal funding retractions under HR One and expiring COVID-era grants are carving significant holes in both agencies' revenue bases, and hundreds of thousands of New Yorkers face imminent loss of Medicaid or Essential Plan coverage. Against this, the City is making targeted new investments, but the sums involved are modest relative to the exposure.
+The Committee on Mental Health and Substance Use, chaired by Tiffany Cabán, held a joint FY2027 Executive Budget hearing with the Committee on Finance, the Committee on Health and the Committee on Hospitals on June 5, 2026, covering the Department of Health and Mental Hygiene and NYC Health and Hospitals. The hearing ran for what was effectively a full-day session, with testimony from DOHMH Commissioner Dr. Alistair Martin and H+H President Dr. Mitch Katz. The backdrop was grim: federal funding retractions under HR One and expiring COVID-era grants are carving significant holes in both agencies' revenue bases, and hundreds of thousands of New Yorkers face imminent loss of Medicaid or Essential Plan coverage. Against this, the City is making targeted new investments, but the sums involved are modest relative to the exposure.
 
 Commissioner Martin framed DOHMH's priorities around stabilizing core services, positioning public health as an affordability issue, and making the department's work more visible to the public. Notable new investments include a $20 million childhood asthma initiative concentrated in the Bronx, a $20 million expansion of the Nurse-Family Partnership, a new gender-affirming hormone therapy clinic at Corona, and the baselining of the syringe redemption pilot, which collected over a million syringes in its first year. The restoration of New York State's Article 6 matching rate to 36 percent for NYC — reversing a long-standing inequity — was described as a major fiscal win worth tens to hundreds of millions of dollars over time. On the federal threat side, the expiration of COVID-19 and ELC grants by July 31 prompted a $17.6 million city investment in disease outbreak resilience, though Council Members pressed hard on whether this truly replaces what is being lost. Roughly 230,000 New Yorkers are expected to lose Essential Plan coverage by July 1, with up to 500,000 more at risk under new Medicaid work requirements starting January 2027. DOHMH's response — 30 community health workers, 10 enrollment specialists, and a $500,000 advertising campaign — is real but plainly undersized relative to the crisis.
 
