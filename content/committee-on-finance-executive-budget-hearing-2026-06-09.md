@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance"
 committee_slug: committee-on-finance
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing (Department of Finance & IBO)"
 date: 2026-06-09
 slug: committee-on-finance-executive-budget-hearing-2026-06-09
 duration: "1hr 34m"

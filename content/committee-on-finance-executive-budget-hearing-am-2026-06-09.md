@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance"
 committee_slug: committee-on-finance
-title: "Executive Budget Hearing (AM)"
+title: "FY 2027 Executive Budget Hearing (OMB & Comptroller)"
 date: 2026-06-09
 slug: committee-on-finance-executive-budget-hearing-am-2026-06-09
 duration: "5hrs 36m"
