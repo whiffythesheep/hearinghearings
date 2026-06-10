@@ -1,9 +1,9 @@
 ---
 committee: "Committee on Small Business"
 committee_slug: committee-on-small-business
-title: "Legislation to Support Small Businesses"
+title: "Reducing Barriers for Small Businesses"
 date: 2026-06-08
-slug: committee-on-small-business-legislation-to-support-small-businesses-2026-06-08
+slug: committee-on-small-business-reducing-barriers-for-small-businesses-2026-06-08
 duration: "1hr 49m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260608-131206.mp4"
