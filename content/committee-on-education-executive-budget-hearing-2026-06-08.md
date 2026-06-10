@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Education | Committee on Finance"
 committee_slug: committee-on-education
-title: "Executive Budget Hearing"
+title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-08
 slug: committee-on-education-executive-budget-hearing-2026-06-08
 duration: "6hrs 37m"
