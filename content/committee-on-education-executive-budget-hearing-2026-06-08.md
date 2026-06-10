@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Education | Committee on Finance"
+committee: "Committee on Education | Committee on Higher Education | Committee on Finance"
 committee_slug: committee-on-education
 title: "FY 2027 Executive Budget Hearing"
 date: 2026-06-08
@@ -8,7 +8,7 @@ duration: "6hrs 37m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260608-100634.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415396&GUID=91E9A0BB-939D-4ACD-A0BC-BE58A646C990&Search="
-chairs: "Eric Dinowitz | Linda Lee"
+chairs: "Eric Dinowitz | Rita C. Joseph | Linda Lee"
 members: "Gale A. Brewer, Carmen N. De La Rosa, Amanda C. Farías, Jennifer Gutiérrez, Rita C. Joseph, Shekar Krishnan, Linda Lee, Farah N. Louis, Mercedes Narcisse, Lynn C. Schulman, Phil Wong, Susan Zhuang"
 ---
 
@@ -16,7 +16,7 @@ Summary
 
 Meeting Overview
 
-The NYC Council Committee on Education, jointly with the Committee on Finance, held its FY2027 Executive Budget hearing covering both the City University of New York and the Department of Education. The hearing ran long and covered a substantial amount of ground, with Chancellor Felix Matos Rodriguez testifying for CUNY and Schools Chancellor Melissa Aviles-Ramos (referred to throughout as Chancellor Kumari) testifying for DOE alongside senior leadership including First Deputy Chancellor Daniel Gente and CFO Rita Scott. Speaker Julie Menin and Speaker Menin both participated actively on the DOE side, with Chair Eric Dinowitz driving much of the questioning on both.
+The NYC Council Committee on Education and Committee on Higher Education, jointly with the Committee on Finance, held its FY2027 Executive Budget hearing covering both the City University of New York and the Department of Education. The hearing ran long and covered a substantial amount of ground, with Chancellor Felix Matos Rodriguez testifying for CUNY and Schools Chancellor Melissa Aviles-Ramos (referred to throughout as Chancellor Kumari) testifying for DOE alongside senior leadership including First Deputy Chancellor Daniel Gente and CFO Rita Scott. Speaker Julie Menin and Speaker Menin both participated actively on the DOE side, with Chair Eric Dinowitz driving much of the questioning on both.
 
 The CUNY portion was substantive and, by the standards of these hearings, reasonably collegial. The headline win was the baselining of $15 million in City operating support for community colleges starting in FY2027 — a genuine structural improvement over the one-time funding that has historically made long-term planning, staffing, and multi-year contracts nearly impossible. The downside is that three high-performing programs — CUNY Reconnect ($7.8M), ACE ($10.1M), and SAP ($4.6M) — were not funded in the Executive Plan, and neither CUNY leadership nor OMB could offer a coherent explanation for why. Council Members Joseph and Lee were particularly pointed on this. CUNY's enrollment story is good: three consecutive years of growth, up 9% since fall 2022, with community colleges leading the way at 18% growth and a 37% surge in part-time enrollment. ASAP continues to perform well, with a one-year retention rate of 65.6% roughly double that of non-ASAP students. Capital needs remain a chronic problem: the five-year need is $9.4 billion, CUNY gets roughly $2 billion, and 60% of its buildings are over 50 years old. The $50M City contribution in FY2027 for state-of-good-repair work, matched by the State for $100M total, is better than nothing but represents a fraction of what is actually required.
 
