@@ -16,7 +16,7 @@ Summary
 
 Meeting Overview
 
-The New York City Council Finance Committee held its final day of agency executive budget hearings on June 9, 2026, covering the FY2027 Executive Budget. The main witnesses were OMB Director Sherif Soliman and his team (morning and early afternoon), followed by Comptroller Brad Lander. The session was long, substantive and occasionally contentious, covering everything from the headline fiscal gap closure to highly specific district-level capital funding disputes.
+The New York City Council Finance Committee held its final day of agency executive budget hearings on June 9, 2026, covering the FY2027 Executive Budget. The main witnesses were OMB Director Sherif Soliman and his team (morning and early afternoon), followed by Comptroller Mark Levine. The session was long, substantive and occasionally contentious, covering everything from the headline fiscal gap closure to highly specific district-level capital funding disputes.
 
 OMB's central argument was that the administration inherited a $12 billion gap across FY2026 and FY2027 resulting from chronic under-budgeting by the prior administration, and closed it without raising property taxes, raiding reserves or cutting services. The tools used included $1.77 billion in savings from Chief Savings Officers and vacancy alignment, significant new State aid (roughly $4 billion in total including pension restructuring authorization, foundation aid, pied-a-terre tax revenue and reversal of various cost shifts), and pension liability re-amortization generating $652 million in near-term savings. The administration also baselined previously one-shot funding for libraries, Fair Fares, parks and cultural organisations. Council members pushed back repeatedly on what they characterised as inadequate funding for DCWP, restorative justice, K-12 special education, gender-affirming care, ACT mental health teams, the Rockaway trauma center, NYCHA vacant units, child care vouchers, parks staffing towards the mayor's 1% commitment, and the DOE immigrant family outreach program, among many other items. OMB's consistent response was a variant of "we look forward to discussing this in the next few weeks," which at times drew visible frustration from members.
 
@@ -3627,7 +3627,7 @@ Okay, great. CM Morano, followed by...
 
 
 
-Brewer. Thank you, Jim. Thank you, Lander. Good to see you, Carson.
+Brewer. Thank you, Jim. Thank you, Levine. Good to see you, Carson.
 
 **(05:11:34)**
 
