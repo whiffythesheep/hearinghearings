@@ -1,0 +1,4669 @@
+---
+committee: "Committee on Education | Committee on Finance"
+committee_slug: committee-on-education
+title: "Executive Budget Hearing"
+date: 2026-06-08
+slug: committee-on-education-executive-budget-hearing-2026-06-08
+duration: "6hrs 37m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260608-100634.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415396&GUID=91E9A0BB-939D-4ACD-A0BC-BE58A646C990&Search="
+chairs: "Eric Dinowitz | Linda Lee"
+members: "Gale A. Brewer, Carmen N. De La Rosa, Amanda C. Farías, Jennifer Gutiérrez, Rita C. Joseph, Shekar Krishnan, Linda Lee, Farah N. Louis, Mercedes Narcisse, Lynn C. Schulman, Phil Wong, Susan Zhuang"
+---
+
+Summary
+
+Meeting Overview
+
+The NYC Council Committee on Education, jointly with the Committee on Finance, held its FY2027 Executive Budget hearing covering both the City University of New York and the Department of Education. The hearing ran long and covered a substantial amount of ground, with Chancellor Felix Matos Rodriguez testifying for CUNY and Schools Chancellor Melissa Aviles-Ramos (referred to throughout as Chancellor Kumari) testifying for DOE alongside senior leadership including First Deputy Chancellor Daniel Gente and CFO Rita Scott. Speaker Julie Menin and Speaker Menin both participated actively on the DOE side, with Chair Eric Dinowitz driving much of the questioning on both.
+
+The CUNY portion was substantive and, by the standards of these hearings, reasonably collegial. The headline win was the baselining of $15 million in City operating support for community colleges starting in FY2027 — a genuine structural improvement over the one-time funding that has historically made long-term planning, staffing, and multi-year contracts nearly impossible. The downside is that three high-performing programs — CUNY Reconnect ($7.8M), ACE ($10.1M), and SAP ($4.6M) — were not funded in the Executive Plan, and neither CUNY leadership nor OMB could offer a coherent explanation for why. Council Members Joseph and Lee were particularly pointed on this. CUNY's enrollment story is good: three consecutive years of growth, up 9% since fall 2022, with community colleges leading the way at 18% growth and a 37% surge in part-time enrollment. ASAP continues to perform well, with a one-year retention rate of 65.6% roughly double that of non-ASAP students. Capital needs remain a chronic problem: the five-year need is $9.4 billion, CUNY gets roughly $2 billion, and 60% of its buildings are over 50 years old. The $50M City contribution in FY2027 for state-of-good-repair work, matched by the State for $100M total, is better than nothing but represents a fraction of what is actually required.
+
+The DOE portion was more contentious. Speaker Menin opened with pointed criticism over the DOE's failure to hand over contract data requested since March — a bad look for an agency with a $12.9 billion contract budget. The Council's analysis of Checkbook NYC data found roughly 40% of contract spending by dollar value was non-competitively bid; the DOE had been citing 12%, but that figure referred to the number of contracts rather than dollars spent. The DOE's procurement reform agenda — centralisation, technology modernisation, better training — sounds reasonable in outline but came without firm timelines. Chair Dinowitz raised a specific SCI report on a district superintendent who allegedly split contracts to avoid the $25,000 threshold and received only a two-week suspension; the DOE General Counsel declined to discuss details, citing possible law enforcement interest, while confirming it was a policy rather than criminal matter. The absence of mandatory procurement training for principals, which apparently requires union negotiation, is the kind of detail that makes government competence sceptics reach for a drink.
+
+On programmatic matters, the DOE hearing covered a remarkable amount of territory. Several significant funding gaps are heading into adoption negotiations: $6M for restorative justice programming (affecting roughly 250 schools), $5M for the Mental Health Continuum at 50 high-need high schools, $3.3M for Student Success Centers, and funding for the SEED sensory program currently serving 3,450 students. The DOE's due process numbers are genuinely impressive — cases down from 26,000 to under 16,000, pending cases from 18,000 to under 7,000 — and the OATH tribunal achieving resolution in under 70 days is real progress. But the specialised autism programmes (AIMS, NEST, Horizon) remain drastically oversubscribed: over 2,000 applicants for 510 AIMS seats, and 1,410 applications for 560 NEST and Horizon kindergarten seats. DOE acknowledged it submitted a request to OMB for expansion beyond the 675 seats being added, but it did not make the executive budget. Dinowitz's argument — that expanding these programmes is both morally necessary and fiscally rational given average due process costs of $105,000 per student per year — is one of the cleaner analytical arguments made in the hearing. The New Visions portal contract (approximately $8 million, used by virtually every school in the system plus ACS, CUNY, and DHS) was flagged for cuts as allegedly duplicative; the Chancellor expressed personal support for it while declining to make a commitment. Cutting a genuinely useful cross-agency data tool to save $8 million in a $40 billion budget is the kind of decision that tends to age poorly.
+
+Class size compliance is advancing, with grades K-3 showing a 28.7% increase in compliant classes, aided by a two-year state extension. The after-school procurement — the first since 2015 — added 20,000 new seats but generated significant friction as familiar providers lost contracts. Early childhood expansion is progressing, with 85% utilisation of 3-K seats and a 2-K pilot launching, though pay parity for ECE workers remains unresolved. The hearing did not produce firm budget commitments on most contested items; the real decisions will happen at adoption.
+
+Numbers
+
+- $40 billion: total DOE budget.
+- $12.9 billion: DOE contract budget.
+- 40%: share of DOE contract spending by dollar value that is non-competitively bid, per Council analysis of Checkbook NYC data (DOE had cited 12%, which referred to number of contracts, not dollars spent).
+- $9.4 billion: CUNY's five-year capital need.
+- ~$2 billion: approximate five-year capital allocation CUNY actually receives.
+- 60%: share of CUNY buildings over 50 years old.
+- $50 million: City contribution to community college state-of-good-repair capital work in FY2027, matched by State for a total of $100 million.
+- $15 million: baselined City operating support for CUNY community colleges starting FY2027.
+- $22.5 million: Council's call to add and baseline for CUNY Reconnect and ACE programs.
+- $7.8 million: unfunded cost of CUNY Reconnect program; $10.1 million for ACE; $4.6 million for SAP.
+- 9%: CUNY enrollment growth since fall 2022; 18% growth at community colleges over the same period; 37% surge in part-time community college enrollment.
+- 39,299: students enrolled in CUNY ASAP; one-year retention rate of 65.6%, roughly double non-ASAP students; three-year graduation rate of 34.6%.
+- 72%: share of CUNY students attending tuition-free; 77% graduating without debt.
+- $105,000: average annual cost per student in a due process case; $145,000 for autism-specific due process cases; $8.5 billion spent on due process since 2000.
+- $1.5 billion: estimated annual funds flowing to Carter case private providers, with no outcome data required.
+- 26,000 to under 16,000: reduction in due process cases over two years; pending cases reduced from 18,000 to under 7,000; OATH tribunal resolving cases in under 70 days.
+- 2,070: applicants for 510 AIMS autism programme seats; 1,410 applications for 560 NEST and Horizon kindergarten seats; 675 additional autism programme seats being added, largely through cohort progression rather than true expansion.
+- 1,542: schools logged into the New Visions portal this year out of approximately 1,600 total; 44,600 users rely on it multiple times per week; contract costs approximately $8 million.
+- $6 million: restorative justice funding not included in FY2027 executive budget, affecting approximately 250 schools.
+- $5 million: Mental Health Continuum funding not included in FY2027, serving 2,330 clinical cases at 50 high-need high schools.
+- $3.3 million: Student Success Centers funding gap; schools with these centres show a 7-11% increase in post-secondary enrollment.
+- 3,450: students currently enrolled in the SEED sensory programme, which faces discontinuation without restored funding.
+- 28.7%: increase in compliant class sizes in grades K-3 under the class size law; $8,500 maximum differential payment for teachers in exempted classes.
+- 85%: utilisation rate for 3-K seats (~52,000 seats); 80% for pre-K (~69,000 seats); 2-K pilot launched June 2, 2026, with 10,000 additional seats planned for next year.
+- 47 out of 657: elementary schools with a certified school librarian.
+
+Action Points
+
+- DOE to provide an apples-to-apples comparison of competitive versus non-competitive contract spending by dollar value, matching the methodology used in the Council's Checkbook NYC analysis.
+- DOE General Counsel to confirm whether mandatory procurement training for principals can be implemented and to advance union negotiations required to make it possible.
+- DOE to provide a timeline for centralisation of procurement function and modernisation of procurement technology.
+- DOE Special Education team to calculate the per-pupil cost of specialised autism programme seats and the total cost of offering a seat to every eligible applicant across AIMS, NEST, and Horizon.
+- DOE to provide the specific dollar amount of the specialised autism programme expansion request submitted to OMB that did not make the executive budget.
+- DOE to pursue all available avenues to restore SEED sensory programme funding in the adopted budget.
+- DOE to provide final cost figures for the hold harmless school funding policy once school budgets are released.
+- DOE to follow up on which agencies beyond ACS, CUNY, and DHS use the New Visions portal, and to report on options for central funding, interagency cost-sharing, or school-level funding before a final contract decision is made.
+- DOE to extend the Student Success Centre at the Kennedy campus for one additional year and continue conversations with principals there.
+- DOE class size team to develop and share implementation guidance on the $8,500 differential payment for teachers in exempted class size classes.
+- DOE to report back on progress toward compliance with Local Law 16 on the digital divide biannual report and confirm ability to meet the January 2027 deadline.
+- DOE to engage school principals and teachers directly as part of the contract cost-savings review process, not only programme offices.
+- CUNY to share building accessibility assessment data and capital prioritisation timelines with the Committee.
+- CUNY to provide data on the apprenticeship programme duration and graduate outcomes.
+- CUNY Chancellor to provide the Committee with finalised MOU with DOE under Local Law 18 of 2023 on data-sharing for students with disabilities once executed.
+
+## Full Transcript
+
+**(00:00:04)**
+
+
+
+We okay? Yeah, quiet down, quiet down, please. Good morning and welcome to today's New York City Council hearing — Executive Budget Hearing from the Committees on Finance jointly with the Committees on Higher Education and the Committee on Education. At this point, I would like to remind everyone to silence electronic devices and at no point is anyone to approach the dais. Chairs, we are ready to begin.
+
+**(00:00:38)**
+
+
+
+Good morning, everyone and welcome to the ninth day of the Fiscal Year 2027 Executive Budget Hearings. I am CM Linda Lee. Today's hearing will begin with the City University of New York, followed by the Department of Education. I am very pleased to be joined by my colleague and Chair of the Committee on Higher Education, CM Rita C. Joseph. We have been joined by Council Members Wong, Louis, Murano and Marty. Welcome Chancellor Felix Matos Rodriguez and team. Thank you all for joining us today to answer our questions.
+
+On May 12, 2026, the administration released the Executive Financial Plan for Fiscal Years 2026 to 2030, with a proposed Fiscal Year 2027 budget. The City University of New York's proposed Fiscal Year 2027 budget represents 1.3% of the administration's proposed budget in the Executive Plan. This is an increase of $21.1 million, or 1.4%, from what was originally budgeted in the Fiscal Year 2027 Preliminary Plan. This increase is mainly the result of $15 million in City funding for operating support that was restored and baselined starting in Fiscal Year 2027. As of April 2026, pedagogical headcount was the same as their Fiscal Year 2026 budgeted count and their non-pedagogical headcount was four positions fewer than their Fiscal Year 2026 budgeted headcount.
+
+In the Council's Preliminary Budget response, we called on the Mayor to add and baseline a total of $22.5 million to CUNY's budget to invest in essential programs that ensure student retention, such as CUNY Reconnect and CUNY ACE, so that they remain in place. While we so often look at recruitment, CUNY college programs that encourage students to return to and stay in higher education must be fully funded and baselined. We were disappointed to see that these programs were not included in the plan.
+
+While we are happy to see the administration baseline operating support for CUNY, we urge the administration to go further. CUNY is New York's gateway to affordable higher education, but this opportunity is only as strong as the supports that allow students to reach the finish line. The evidence-based programs at stake have demonstrated clear, measurable impact on retention and graduation rates and students are counting on them. I look forward to hearing more from the Chancellor today about where that funding stands and what is needed to protect it. At this time I want to now turn it over to my co-chair for this hearing, CM Joseph, for her opening statement. Thank you.
+
+**(00:03:21)**
+
+
+
+Good morning, everyone. I am CM and Chair of the Committee on Higher Education. Welcome to today's hearing on the City's Fiscal Year 2027 Executive Budget for the City University of New York. CUNY's Fiscal Year 2027 Executive Budget totals include personal service to support 4,289 pedagogical positions and 3,500 non-pedagogical positions. The university's budget includes $455 million in other personnel service spending. In this Executive Plan, a one-time spending saving was added in Fiscal Year 2027 from spending reductions on supplies and other materials at community colleges, of which CUNY is still determining exactly how to allocate these savings across community colleges.
+
+Although the Executive Plan also includes baseline funding of $15 million to support academic advisement, mental health and wellness, career readiness and workforce preparation programs, it is disappointing that the plan did not restore any of the essential programs like CUNY Reconnect, baseline, and ACE. There is no doubt that these programs have proven to be effective and bring individuals back to completing a degree as well as providing financial and academic support to unlock higher education. It is unacceptable that we have to fight every year for the administration to restore funding for these programs. We are eager to hear why CUNY Reconnect and ACE are not funded beyond Fiscal Year 2026 and whether CUNY has included them in their Fiscal Year 2027 budget priorities to OMB.
+
+As we are moving closer to adopting the Fiscal Year 2027 budget, we must remember that many students continue to face barriers such as food and housing insecurities, child care and the cost of transportation. I said it at our Preliminary Budget Hearing and I will emphasize it again: we must invest in programs that clear pathways to increase graduation rates. We must also find disparities that exist in programs between campuses and work to address them. The Executive Capital Commitment Plan includes an additional $50 million in Fiscal Year 2027 to help bring CUNY community colleges back into a state of good repair. We are interested to learn about the university's plan to address critical capital repairs at community colleges. It is well recorded that many CUNY buildings are in desperate need of maintenance and repair for leaking roofs and non-working elevators. It is my hope that CUNY prioritizes capital projects to ensure equity, as there are so many needed repairs across the CUNY system.
+
+Lastly, it was brought to my attention that CUNY needs to improve its internal process to respond in a timely manner to the Committee's budget-related follow-up questions. I should say that it is unacceptable that staff has to wait over three weeks to receive answers on budget inquiries. Information is key in keeping this Committee informed and this timeline to respond to follow-up questions must improve, as we do want to remain good partners.
+
+Before I begin, I would like to thank the Finance staff Ali Stouffer, Florentine Cabaret and Caitlyn Oh for preparing this hearing, as well as Committee staff Julia Goldsmith-Pinkham and Regina Paul for their support. Finally, I would like to thank my staff, including my Chief of Staff Giovanni Piquant and my Legislative and Budget Director Benjamin Atkinson. I will now turn it
+
+**(00:06:50)**
+
+
+
+back over to CM Lee. Thank you, Chair Joseph. Just before we begin, another reminder — I have been saying this at all the hearings — that we are going to have all of our public testimonies on June 10, Wednesday, 9:30 a.m. So if you know folks that would like to testify for the public hearing portion, please make sure that they sign up and we look forward to hearing from the public on their feedback. And with that, I will turn it over to Brian Scarfo, our Committee Counsel, to swear in the witnesses.
+
+**(00:08:01)**
+
+
+
+Thank you. Good morning, CM Lee, CM Joseph and the members of the Committees on Finance and Higher Education. I am Felix Matos Rodriguez, Chancellor of the City University of New York, and I am joined by the CUNY team of University Provost Varo, CEO... and Vice Chancellor Garner. I want to thank the City Council for your steadfast commitment to CUNY. Your sustained investment has long defined this university's broad access to affordable, high quality education for one of the most diverse student bodies in the nation and a pathway to social and economic mobility for generations of New Yorkers. Your support has been essential to the robust and strong returns for the more than 400,000 degree and continuing education students we serve, allowing 72% of CUNY students to attend tuition free and 77% to graduate without debt. I just want to give you a warning that I am
+
+**(00:09:00)**
+
+
+
+going to be reading a shorter version of the submitted testimony that you have a copy of, and I assume that you will be happy about that. Our affordable tuition and diverse offerings and support systems have helped fuel enrollment gains this fall. Enrollment grew nearly 4% over last fall — the third consecutive year of growth since the fall of 2022 — and enrollment has jumped 9%, nearly 21,000 additional students. This increase is most evident in our community colleges. Enrollment at CUNY's seven community colleges has rebounded from the pandemic with an additional 9,500 students welcomed over the last three years, an 18% increase. Notably, during the same period, part-time enrollment surged 37% at our community colleges. This growth is driven by the expansion of the state's TAP and by the Reconnect initiative launched to bring adult learners back to college. Community colleges have also seen the highest retention rate increase — 7% — since we began tracking this in 1990.
+
+This growth has also been fueled by our ongoing efforts to actively recruit the next generation of CUNY students from the New York City public schools. For the past three years, we have sent personalized letters to all graduating seniors and more recently to their caregivers, offering admission and waiving application fees. Once a student has earned their degree, we are committed to making sure it opens doors to a career. Last year we launched CUNY Beyond, an ambitious plan that weaves career readiness into every aspect of the undergraduate experience and smooths the transition from classroom to the workplace. The program aims to triple the number of students in paid internships and increase employer recruitment by 20%, driving a projected future wage growth that translates into increased tax revenue and greater economic mobility. We started CUNY Beyond at two campuses with state support and next year's budget. We are expanding it to five more this summer. We are looking to the Council for support for two more community colleges in the next phase.
+
+This effort is built on one of CUNY's defining roles: serving as New York's primary talent engine for many of the essential sectors that keep the City running. We prepare more than one third of all new New York City public school teachers each year and more than 40% of the students of color in New York State. I am proud that City teachers from CUNY have a 7% higher five-year retention rate than those from other institutions. This community-to-pipeline is essential to addressing the statewide teacher shortage and this year, for example, we tripled the number of CUNY students in the Teaching Fellows program. More than 15,000 students have participated in the program since its inception, including the current Schools Chancellor Kamar Samuels.
+
+A critical priority for Mayor Mamdani, Speaker Menin and this Council is the shared goal of universal child care. CUNY is uniquely positioned to meet the moment. The university already enrolls more than 3,600 early childhood education students across 50 academic programs, making us the primary engine for training the educators needed to make this effort successful. We expanded that pipeline through the statewide New York Early Childhood Professional Development Institute and we are also launching new programs in early childhood leadership and administration, addressing a critical shortage in the field.
+
+Turning to another vital area: research does not simply advance knowledge — it has a real impact on the quality of life for millions of New Yorkers. For example, faculty research at City College working with Memorial Sloan Kettering have developed a groundbreaking AI model that can detect breast cancer earlier and more accurately. Products like the New York City Urban Heat Portal at Hunter College and our partnership with the City on the FloodNet real-time flood monitoring program are helping address climate emergencies.
+
+At a time of increasing polarization and division, CUNY is helping members of our community to develop the skills to engage across differences with empathy and respect. Through a trailblazing collaboration with the Constructive Dialogue Institute, largely funded by this City Council, we represent the largest deployment of the CDI model and the first initiative of its kind at a university system. Complementing this work is our Center for Inclusivity and Equal Opportunity, which ensures that reports of discrimination and harassment are addressed promptly and fairly and that all members of our community have access to the support that they need. That commitment to safety, dignity and inclusion extends beyond our campuses and into the communities CUNY serves. At a time of heightened uncertainty for immigrant communities, the Council's support for CUNY Citizenship Now is more important than ever, so that we can continue serving the thousands of New Yorkers who depend on us.
+
+Our proven models of student success continue to set national standards. The ACE program more than doubles three-year completion rates for degree students, while ACE participants have achieved four-year graduation rates 12% higher than non-participant peers. We are also leveraging technology to improve accessibility. Accommodate has streamlined disability services, leading to a 25% increase in enrollment for these services, now reaching a record 13,800 students. The CUNY Cares model in the Bronx — in its first two years — has helped over 1,000 Bronx students enroll in SNAP, collectively bringing an estimated amount into their household budgets to combat food insecurity. This work is complemented by CUNY's system-wide network of campus food pantries, supported in part by the City Council's food insecurity program.
+
+Over the past year, CUNY brought 42 capital projects to completion. We have also spent a total of $555 million towards both completed and ongoing projects, representing meaningful progress in the ongoing effort to modernize and preserve critical infrastructure across the university. In my submitted testimony you will find a list of notable projects brought to completion this year.
+
+I will now turn to the Mayor's Executive Budget for Fiscal Year 2027. Let me begin by thanking Mayor Mamdani for fully funding the cost of the many labor contracts and completing the funding for health insurance in the Preliminary Budget. Additionally, I would like to thank the Mayor for providing baselined funding for the $50 million originally included in last year's Executive Budget on the capital side. We are thankful for the until-needed state of good repair work. In addition to the from the Preliminary Budget, we ask your support for the inclusion of the priorities listed in this submitted testimony and in our green sheet on the capital side.
+
+Community colleges continue to face significant infrastructure challenges that directly impact student learning environments, operational continuity and sustainability. The Fiscal Year 2026-2027 capital requests reflect the urgency of these needs and the necessity of sustaining investments in aging facilities across the system. The requests in the Fiscal Year 2026-2027 capital plan include approximately $384 million for community colleges to support critical asset preservation initiatives and strategic growth and building renewal projects. These investments are essential to maintaining facilities capable of meeting the evolving needs of students, faculty and workforce programs. We ask for your support for the remaining amount from our $100 million ask for capital funds for community colleges. To conclude: CUNY's success is New York City's success. We have seen the impact that targeted investments have on enrollment, student success and career readiness. With your continued support, CUNY will
+
+**(00:18:25)**
+
+
+
+remain the nation's greatest engine of social mobility and a national model for public higher education. Thank you for the chance to testify and I look forward to your questions.
+
+**(00:18:36)**
+
+
+
+Thank you so much and I definitely appreciate the abbreviated version — that is so funny, I love it — and we have it all here, which is good too. We have been joined by CM Brewer and CM Epstein as well as CM Ariola. So really quickly, I am going to try to go through these so I can pass it on to the Chair and our members. For the Fiscal Year 2027 Executive Budget, there is a restoration and baselining, as we mentioned, of $15 million starting in Fiscal Year 2027. The funding is a restoration from Fiscal Year 2026. How is the funding used in Fiscal Year 2026 and what was the college campus allocation breakdown, if you have that? And will the funding be split between campuses in the same way for Fiscal Year 2027?
+
+**(00:19:18)**
+
+
+
+Let me refer that question to our CFO for the answer.
+
+**(00:19:22)**
+
+
+
+Sure. Thank you for that question. The $15 million was spread out among the community colleges. Would you like me to read out the numbers? Yes, no problem. BMC — Bronx Community College — $1.4 million. Guttman, about $270,000. Hostos, $1 million. Kingsborough, $2.5 million. LaGuardia, $3 million. And Queens, $2 million.
+
+**(00:20:05)**
+
+
+
+I am rounding those numbers. I am sorry, I am rounding those numbers. Okay, got it. Perfect. Thank you. And then, with this funding now baselined, how will it allow you to actually expand, perhaps, on other programs and free up that funding?
+
+**(00:20:20)**
+
+
+
+Well, I mean, one of the main things — and this is a recurring theme you hear from most every hearing — is that baselining allows predictability and the ability to make investments, particularly on the personnel side, that are not just one year. So planning for many programs... and we will be talking about this. You talked about Reconnect and ACE and all those programs. Our capacity to bring in individuals who are going to be able to be there for the long term allows us to plan better and to be more effective in the services. Also, if we need to procure contracts, you know, you cannot do that with money that is only going to be there for one year. So baselining would be extremely helpful to us as we move forward.
+
+**(00:20:57)**
+
+
+
+So more for planning purposes, which hopefully will help you plan better and then also figure out staffing and all of the other operational needs. Okay. For funding as a new need for the City governance program with the Campaign Finance Board, the program will support fellows gaining work experience in civic engagement, which is great. How many fellows will be selected and what will be the selection process for that? What are the numbers for that?
+
+**(00:21:31)**
+
+
+
+We need to get back to you on that. I mean, the great thing about the program too is that it is consistent with our approach to give students a lot more paid earn opportunities, right? It is money in their pockets and they are also advancing their education while serving the City, but we can get you the numbers.
+
+**(00:21:47)**
+
+
+
+Okay. And for the host organizations, do you know approximately how many you are going to be partnering with and if you are going to also anticipate extra funding in the out years for this program?
+
+**(00:21:59)**
+
+
+
+Again, the more funding that we have, the more students that we can include and the more that we can partner with other groups. I can get you a list of the organizations to be precise.
+
+**(00:22:07)**
+
+
+
+Okay. And I do not know if you break it down this way, but if you could sort of give us an average of how much the cost would be per student, and let us know how much you would want to expand it to, which would also include the budget. Okay, perfect. There is also a $25 million reduction in FY26 only for tuition adjustment related to student enrollment. What was the projected student enrollment versus the actual for FY25, which I know is going back a little bit, and FY26? Can you have those? And then also just whether you anticipate an increase or decrease in FY27?
+
+**(00:22:52)**
+
+
+
+So the FY26 enrollment at the senior colleges is 128,000 and at the community colleges it is 51,000, for a total of 179,000. That is about 4,400 above the FY25 level. That is on a full-time equivalent basis. On a total basis, those numbers are 264,000 at the senior colleges and 75,000 at the community colleges, for a total of 239,000, which is 1,700 higher than the enrollment in FY25. Okay, great.
+
+**(00:23:43)**
+
+
+
+So the trends are increasing. Just good to see the enrollment trend is ticking upward.
+
+**(00:23:48)**
+
+
+
+Yes, that is great.
+
+**(00:23:51)**
+
+
+
+Are there any particular community colleges that are, in comparison, struggling more than others in terms of recruitment and enrollment? And are there resources that are needed for those schools?
+
+**(00:24:04)**
+
+
+
+Thank you for that question. I mean, we are still looking at how the full FY26 is going to shape up, but the main enrollment growth was driven by the community colleges, which is good for us because a lot of those students are going to end up transferring to the four-year schools. So that is a good trend and it is going to be a good trend moving forward. Going from memory, I think last year all of the schools experienced enrollment growth with the exception of Queens College, and I know that they put together a strategy to advance enrollment. We have also from the central office been working with some of the schools that have enrollment challenges and tighter fiscal scenarios to support them with investments, because clearly enrollment is the main driver of fiscal health for all of our campuses.
+
+**(00:25:04)**
+
+
+
+Okay, perfect. And the executive budget includes a one-time reduction of $21.5 million for a revenue re-estimate. Was this part of the exercise that you went through as part of the Chief Savings Officer exercise? And how was the amount determined? Those questions are going to Ken. Okay.
+
+**(00:25:28)**
+
+
+
+So the $21 million in savings relates to the savings program that we were asked to identify, and that is the way that savings is structured. Are the same things taking place in FY27? I am sorry, was there more to your question?
+
+**(00:26:05)**
+
+
+
+Just how it was determined, how the reductions were determined, and what categories you used for where those reductions are.
+
+**(00:26:16)**
+
+
+
+We are working through the details on how this will play out, but the additional state resources that we expect to receive... this reduction was very purposely designed so that we would not impact the campuses. Okay.
+
+**(00:26:36)**
+
+
+
+Yes, that is definitely a goal that we wanted to push on the Council side — that there be no cuts to services. And some of them probably came from vacancies. But were there any proposals that you submitted for the savings plan that were rejected or not accepted? No. Okay. Moving to ASAP. So the CUNY ASAP program and the EASE program is great and I am glad you included more details in the testimony. How many students are currently enrolled in CUNY ASAP and what is the retention rate?
+
+**(00:27:14)**
+
+
+
+I am going to get our provost to answer that. So the finalized numbers for academic year 2024-25 were 39,299 students and the one-year retention rate was 65.6%. 65.6%, correct.
+
+**(00:27:36)**
+
+
+
+Okay. And how does the retention rate differ for students not enrolled in CUNY ASAP?
+
+**(00:27:44)**
+
+
+
+That is about twice as high compared to non-ASAP students. Oh, wow. Okay.
+
+**(00:27:52)**
+
+
+
+And the graduation rate versus similar students not enrolled?
+
+**(00:27:57)**
+
+
+
+The two-year graduation rate is 16.5% and the three-year graduation rate, which is the key metric, is 34.6%. 34.6%. Okay.
+
+**(00:28:10)**
+
+
+
+And I know that this uncertainty impacts the ability to sort of plan for a new cohort of students, and so when
+
+**(00:28:20)**
+
+
+
+do
+
+**(00:28:21)**
+
+
+
+you usually recruit for that program? In terms of enrollment, we are usually recruiting right at the very point of admission, so students apply in the fall and receive decisions throughout the spring semester, and as they are receiving admission letters that is when the recruitment starts. Okay.
+
+**(00:28:44)**
+
+
+
+And to your point here, the recurring funds — it is not just the obvious personnel. You are making a commitment to bring students in for two to three years, right? So we need to make sure that we have the funding to be able to support them at that point when they come in. That is another reason why the baselining on ASAP and also on EASE is so important.
+
+**(00:29:08)**
+
+
+
+Definitely. Okay. Yes, for planning purposes for sure.
+
+**(00:29:13)**
+
+
+
+What is the current funding level for CUNY Beyond in FY26 and FY27 and what are the funding sources for the program?
+
+**(00:29:34)**
+
+
+
+I can just jump in. The budget level for CUNY Beyond is about $10 million in FY26 and about $12.5 million in FY27. Okay, $12.5 million in FY27. And that is a combination of state and City funding. We also, similarly to the strategy that we have with ASAP — if you remember, they had a history of using a lot of philanthropic dollars to establish the model, establish the success of the model, and then make the case to you and to the State that it was worthy of the investment — so we are doing similarly, aggressively recruiting philanthropic funds to be able to support that work, particularly some of the work that we do at the central office, hoping that we can prove that this is the right thing to do for our students and then hopefully make that case. So we are sort of following a similar strategy of how ASAP was supported, structured and validated.
+
+**(00:30:36)**
+
+
+
+How many... because I know that you said there was extra funding in FY27 for CUNY Beyond which would allow you to expand to five schools. So can you list which schools are included in CUNY Beyond? So the first four were Lehman, Hunter and LaGuardia. We are expanding to Queensborough, Kingsborough and York, and those are the ones. And Bronx...
+
+**(00:31:11)**
+
+
+
+Bronx Community College. Yeah.
+
+**(00:31:12)**
+
+
+
+Yeah. So then it was City, Bronx, York, Queensborough and...
+
+**(00:31:22)**
+
+
+
+Okay, perfect. And we would love additional support to be able to bring in two more community colleges from the Council. That would be great. We have got to look at that. Okay. And how many students does the program currently impact?
+
+**(00:31:36)**
+
+
+
+And then I guess with the additional five, what does it expand to? So we have the numbers: it is 15,126 at Hunter, 12,194 at LaGuardia, 8,936 at Lehman and 7,990. And the projections for Bronx are 4,094, York 3,259, Queensborough 1,969 and... I am sorry, Kingsborough. Kingsborough is 1,969 and Queensborough is 2,070. Thank you. And then York is on the next page. York has 1,062. Perfect.
+
+**(00:32:38)**
+
+
+
+Okay, great.
+
+**(00:32:42)**
+
+
+
+Okay, perfect. And then just lastly, on head count vacancies: the vacancy rate as of now is 0.7% for pedagogical positions and 16.4% for non-pedagogical positions.
+
+**(00:32:53)**
+
+
+
+Which colleges are facing the highest vacancy rates?
+
+**(00:33:05)**
+
+
+
+Give me a moment. Okay.
+
+**(00:33:12)**
+
+
+
+And just while you are looking for that, if you could let us know how the changes in student enrollment have impacted the head count as well. How did the head count...
+
+**(00:33:24)**
+
+
+
+How the changes in faculty vacancy rate... from the positions, I mean, the most immediate impact tends to be initially the employment of either full-time faculty or adjuncts, depending on the group, opening more sections. And that would be the most immediate case of that. We would have to get you that.
+
+**(00:33:48)**
+
+
+
+Okay. Yes, if you could let us know which colleges are facing the highest vacancy rates and then also just in terms of the current vacancies and how they are impacting, or if at all they are impacting, course offerings for the students, that would be great if you could let us know as well.
+
+**(00:34:05)**
+
+
+
+Okay. We have also been joined by Council Members Wilson and J. Sanchez, and with that I am going to pass it off to CM Joseph. Thank you.
+
+**(00:34:15)**
+
+
+
+Good to see you, Chancellor. In your testimony you mentioned that enrollment grew nearly 4% over the last fall, mostly in community colleges, and post-COVID enrollment jumped up to 9%. Can you further explain the adjustment of the reduced $25 million if enrollment is increasing?
+
+**(00:34:34)**
+
+
+
+Do you want to take that? I mean, because those are projections the City makes, right, based on enrollment. So do you want to go?
+
+**(00:34:49)**
+
+
+
+No, it is fine. I mean, this is just to match the actuals to the budget levels, right? So we have to adjust the budget for the actual expenditure on that category. Okay. Thank you.
+
+**(00:35:05)**
+
+
+
+The fiscal 2026 to 2030 capital commitment plan includes $50 million in fiscal 2027 only for community college repair. The $50 million would be matched by the State for a total of $100 million. We spoke at the preliminary budget hearing about how CUNY assessed the campuses that need immediate repairs. Now that the funding has been allocated, will you be performing any additional assessments and what colleges will be allocated funding for repairs? Students and staff have rallied for the need for repairs, citing issues such as broken elevators, mold and flooding among others. How will you ensure these problems are addressed quickly?
+
+**(00:35:45)**
+
+
+
+Sure. Thank you for the question. Let me first start out by saying, obviously we are very happy with the $50 million match. As you recall, we asked for $100 million as the Chancellor alluded to in his testimony. Our community colleges are struggling from the issue of deferred maintenance and state of good repair. As I stated at our hearing, there are multiple ways we look at how to prioritize: first, the campus size and physical infrastructure; the age and condition of the facilities; the critical repair and deferred maintenance; and then campus needs and strategic priorities.
+
+All of that is really grounded around a couple of areas. Number one, it is grounded around the fact that we have done what we call a facility assessment of our facilities and we know exactly what our systems are going to come off line at a certain time, beyond six months or a year, and based on those known factors we allocate resources to make sure that we do not have any problems in the winter months by a system going off line because it was not properly maintained at the time that we needed to do that.
+
+Furthermore, what we also try to do is really focus on tackling what we call a comprehensive approach — dealing with bathrooms and making sure that we are not just trying to patch everything together, so we can get the whole issue of economy of scale and trying to do a lot more with less.
+
+Then lastly, I think it is really important to focus on which vital systems we know need our most immediate attention, and those are the ones that we prioritize. Then we try to distribute those funds across all the schools so every school at least gets something, though some schools get more than others based on the infrastructure needs.
+
+**(00:37:44)**
+
+
+
+When you do that assessment, would you be able to share with the committee what that looks like and what the timeline is? I know that, for example, City Tech — their library ceiling fell. Is that one of your priorities? It was on the news. So when you do decide on and assess those needs and how you plan on addressing those issues, would you share with the committee what your timeline is and what schools you prioritized and put first?
+
+**(00:38:13)**
+
+
+
+Sure. I am not sure what was on the news is actually what happened, but let us...
+
+**(00:38:18)**
+
+
+
+I cannot play the clip for you. Well, yeah. No, I understand that, and not everything we hear in the news is actually factual. But the fact is that we will definitely be able to provide you that. So the news is lying on CUNY? Excuse me, is the news lying on you? It has not been the first time.
+
+**(00:38:40)**
+
+
+
+We have also heard from many students about the need for elevator repairs at CUNY's campuses. Elevators are essential for accessibility, as is updating adaptive technology. How does CUNY ensure accessibility across campuses, especially in older buildings? If a building cannot be made accessible due to historic landmark status, what steps does CUNY take to ensure students can receive accessibility modifications and take full advantage of coming to your university despite mobility issues?
+
+**(00:39:09)**
+
+
+
+Well, first of all, we prioritize anything that has to do with accessibility and compliance. That is one of the criteria that was mentioned in his comments. That is one of the things that we prioritize in determining what critical maintenance might be required. And then the second part is we work with the campuses, particularly the ones that might be older buildings where it might be unfeasible to do that, and then they work with their campuses to make sure that the classes taught for students who might require accommodations do not need to be in that building. In our vision of the world we would love to have all the buildings be fully accessible, but the campuses work very hard to make sure that if we do have some that are not, nobody is missing out because of that. The scheduling of classes and the scheduling of offices... having been president of two campuses, one of the things that you figure out is how to work on the things where you can actually change the conditions and build the ramps and do the changes that are needed.
+
+**(00:40:24)**
+
+
+
+Thank you for that. And how does CUNY leverage adaptive technology to ensure accessibility as well?
+
+**(00:40:32)**
+
+
+
+I am going to turn it over to our provost. One of the big items that you will see in our green sheet is additional support for all the work that we are doing with disability services, which goes to the heart of that question. But I will let her talk
+
+**(00:40:44)**
+
+
+
+about what CUNY is doing with some of the things that we have been doing. Thank you for the question. We leverage and are exploring — and actually having quite a lot of fun with — the adaptive technologies. The new technologies are pretty sophisticated now. At each of the campuses there are glasses that have an interpreter for those who are hard of hearing and we are exploring virtual reality headsets. We constantly meet the needs of every single student through accommodations. As we have mentioned before, we have been able to expedite from the moment of request to accommodation granted. Our goal was two weeks and we met the goal and exceeded it within two weeks because we have access to some adaptive technology. We are able to provide that for students and if we do not have it we immediately meet that need and find the resources that are available. So the wait is two weeks and you can borrow among the university system across campuses in case you do not have it. Okay.
+
+**(00:41:51)**
+
+
+
+New York City public schools developed a building accessibility rating system to determine how accessible a building is and where they could improve. Does CUNY have a similar model to determine accessibility needs? We do not think we do. You do not? So we would love to learn more. But you would eventually probably develop one. I mean, we would love to look at the model and see if it makes sense for us. It is really good.
+
+**(00:42:19)**
+
+
+
+Let us talk about our favorite
+
+**(00:42:21)**
+
+
+
+topic: early childhood education. That is everybody's favorite topic. Yes. CUNY is requesting an additional $6.2 million to fund early childhood education programs, including the apprenticeship program, the Child Development Associate program and the B to Teach program. CUNY is requesting $3 million over three years to expand the childhood apprenticeship program to recruit 200 new professionals. What is the current budget of the program for fiscal 2026 and 2027 and how many apprentices do you have currently
+
+**(00:42:56)**
+
+
+
+enrolled? Which program? The apprenticeship program.
+
+**(00:43:07)**
+
+
+
+Yes, this is
+
+**(00:43:10)**
+
+
+
+I know we have this number. I mean, the call for funding is $1 million in what we have projected, so I assume that we are using that criteria for the numbers that we have now.
+
+**(00:43:25)**
+
+
+
+And how many apprentices are currently enrolled in your program? And how do apprentices apply? What type of outreach does CUNY perform
+
+**(00:43:41)**
+
+
+
+For this program, we use a number of things. First, we have the state network, which is, you know, sort of the Cadillac of working with all the individuals that are working in early childhood. That is a key method for us to be able to recruit. We use our own network of the students on the campuses. I think I mentioned in the testimony we have about 3,600 graduate students studying. We have good relationships also with a lot of the nonprofits and some of the providers that work with us. And we have all 17 child centers. There are hubs of talented people spreading the word, so plenty of ways to get good people.
+
+**(00:44:21)**
+
+
+
+And how long is the apprenticeship? How long is the program? I need to get back
+
+**(00:44:32)**
+
+
+
+to you on that. Let me see. And while the students are in your program, what type of support do students receive? How many... I need to get back to you on the duration of the program. Okay, okay. And
+
+**(00:44:48)**
+
+
+
+what support do you provide once a student is enrolled in the program?
+
+**(00:44:53)**
+
+
+
+Well, one of the great things that the program has to do is that they are immediately paired with a provider, right? So you are building up first networks for the students in terms of employability, getting a sense of what that experience in the workplace is. And then, you know, I think that we are becoming the go-to place for people seeking talent.
+
+**(00:45:18)**
+
+
+
+And we provide specific pre-service job training and we assist with job matches as well. The program was launched in 2025. How is CUNY assessing the success of the program and can you share any preliminary outcomes? So I do not have an answer for that, and I think the best thing to know is that there is wide demand for the program. I will get back to you. It is a one-year program, so I have to find out more about the evaluation component of it.
+
+**(00:45:52)**
+
+
+
+Absolutely, because that is how we are going to measure success, whether we should expand and how the further investment is going to work.
+
+**(00:45:57)**
+
+
+
+Part of the program includes the Child Development Associate certificate and it is fully funded and all of the apprentices enroll. So we can get you the completion data as a metric because all of them enroll in that credential and all of the credits in the program articulate to associate's or bachelor's degrees if they then choose to go beyond for teaching. And do you provide placements
+
+**(00:46:27)**
+
+
+
+for students who are in the program once they are done, or are some of them already working
+
+**(00:46:31)**
+
+
+
+in centers? Some of them are already working, but we do do job matches and job placements. Great. Thank
+
+**(00:46:38)**
+
+
+
+you. CUNY is also requesting two million over two years for the Child Development Associate credit-bearing program, which is a bilingual credit-bearing program that provides 12 credits to participants. What is the cost per student to enroll in the program? The funds also allow certification to be provided for free. The answer to the second part of that question is yes. And the department
+
+**(00:47:03)**
+
+
+
+— that is the idea of
+
+**(00:47:05)**
+
+
+
+the funding of the program, to be able to have them participate and get those credentials. It is run through the School of Professional Studies and there has been, you know, wide demand for it.
+
+**(00:47:21)**
+
+
+
+So it is $9,000 per student. That includes tuition fees and the credential exam fees as well as career advisement. The cost is also dependent on the number of students that are enrolled. There were 105 students in fiscal year 26 in the program. I do want to say that last year 110 students graduated from the certificate program and of that, 19 were from the Spanish language cohort that we recently offered. That cohort was just started in fall 2025 and already 19 graduated from that program.
+
+**(00:48:03)**
+
+
+
+Wonderful. Thank you. The credits transfer to six associate's and bachelor's degree programs. What are the six programs? Sure. So we have seven CUNY programs: Borough of Manhattan Community College, CUNY School of Professional Studies and Bronx Community College. Thank you
+
+**(00:48:32)**
+
+
+
+for that. The fiscal year 2027 executive budget did not include restoration of $10.1 million for CUNY Accelerated, Complete and Engaged, the ACE program. CUNY provides bachelor's degree-seeking students with additional financial and academic support to ensure higher education is accessible. Is the fiscal year 2026 funding level able to support eligible students? If not, how much additional funding is needed and what is the average cost per student in the ACE program?
+
+**(00:49:04)**
+
+
+
+I am going to defer to Rose Alito, who is looking for that information. The cost per student is the thing that I am trying to find. I cannot seem to find the cost per student for ACE, but I will tell you there are 5,603 students in academic year 2024-25 and I can get you the cost per student. I will find it at some point.
+
+**(00:49:54)**
+
+
+
+No worries. Are there any supports not currently offered in CUNY ACE that students have requested? Other than changes to the program, what changes is CUNY considering based on feedback from students? Are you considering any changes to the
+
+**(00:50:08)**
+
+
+
+program? What we are changing, not necessarily based on feedback from students, is with the utilization and acceleration of technology and AI. I am embedding that into some of the tools and technologies for the career advisement piece. That is something that we are doing holistically, as well as identifying the right major and the match for the major and providing more strategic advisement. The tools and technologies nowadays help to alleviate some of the burden and the workload of the advisers and provide more personalized advisement. That is something that we are implementing, not necessarily based off of student feedback. Students really appreciate having a dedicated adviser and the high-touch approach. But that is a change that we are exploring.
+
+**(00:50:59)**
+
+
+
+Thank you. In the executive budget, you also did not include restoration for $4.6 million for CUNY SAP. CUNY provides associate degree-seeking students with intensive academic support as well as financial support such as free transportation and textbooks. What are the current funding levels in fiscal year 2026 and 2027 for CUNY SAP?
+
+**(00:51:23)**
+
+
+
+So I think under the funding for fiscal year 2026, it is about $92 million. As of now, without the recurring funding, it would drop to $88 million.
+
+**(00:51:46)**
+
+
+
+And what is the support in fiscal year 2026? How would it impact programming if funding is not
+
+**(00:51:53)**
+
+
+
+restored? So in terms of impact, we were able to increase enrollment. We actually utilized upwards of 98% of our allocation. We were able to increase enrollment by 2,000 students as a result of the additional funding.
+
+**(00:52:09)**
+
+
+
+So we know the program works. And I know we have this here — the approximate enrollment in both programs is 3,440. Thank you. Thank you so much for being so detailed today. It has shown the importance of funding evidence-based programs that dramatically improve student outcomes, such as SAP. In conversations with OMB, is CUNY keenly aware of any rationale for why the funding of these programs was not included in the baseline? And how can this Council support CUNY's need for this funding?
+
+**(00:52:46)**
+
+
+
+So as to part of the question about rationale, no, we do not know that rationale. Both programs are replicated in nine states. CUNY is actually building up an entire ACE component, doing the work that we are doing. So we think that the results are fairly obvious in terms of the impact that it has. So if they work, we must continue to fund them to bring people through the doors. Absolutely.
+
+**(00:53:15)**
+
+
+
+The fiscal year 2027 executive budget also did not restore $7.8 million for CUNY Reconnect, which aims to bring working-age adults with some college credit back to CUNY. How many students are currently enrolled in CUNY Reconnect and how many credits does the average student come back with?
+
+**(00:53:30)**
+
+
+
+So in 2025-26 we had 25,342 students. We do not have the average number of credits that they have come back with, but we have asked for that analysis. I can add some additional details: $1.2 million was used for debt forgiveness for the students and to clear their balances. One of the things that I would love to highlight is that 14,597 students have graduated from the program since the program's inception across associate's, bachelor's and master's degrees. So we know it works. We have to make sure it is baselined in our budget.
+
+**(00:54:22)**
+
+
+
+CUNY's Opportunity Programs include College Discovery and the Percy Ellis Sutton Search for Education, Elevation and Knowledge programs. These programs support students in their academic and professional goals by providing additional academic, financial and advising support at the two- and four-year colleges. What are the budgets for fiscal year 2026 and 2027 for College Discovery and SEEK, and how many students are currently enrolled in each of those programs? So the number of students enrolling in this program is 1,537 for the 2024-25 headcount for College Discovery and 6,141 for the full 2025 headcount for SEEK. I defer to the Chancellor that there was an additional increment in the SEEK budget in the state budget, but that is the only additional support that we have received for either program. The budget for College Discovery in fiscal year 2026 was about $6 million. Are any of these programs that I mentioned earlier going to be baselined? Are you planning... you are asking if the City is going to baseline funding for these programs.
+
+**(00:56:01)**
+
+
+
+That works — they are evidence-based. Well, the SEEK funding is mostly coming from the state. And so, again, from our perspective, any funding for students in this program that is regular allows us to plan and deliver the services to the students. In any form of education, if you know your funding is there, you are better able to plan — you know how to hire your educators and how many seats you have and all of that. So that is true across the board.
+
+**(00:56:33)**
+
+
+
+Agreed. I know the committee has reportedly heard from the student senate regarding the barrier of transportation costs causing many students to miss class, lose out on internships and campus activities, or risk not being able to afford their fare. The students have put forward a request for $1.4 million for a free MetroCard pilot program, which provides free transportation to over 3,000 students. Which CUNY programs currently provide MetroCards to students and what are the limitations of the MetroCards?
+
+**(00:57:06)**
+
+
+
+The programs that currently provide free MetroCards are SAP, ACE — which is at Medgar Evers — and the SEEK program.
+
+**(00:57:18)**
+
+
+
+I do not want to add a charge. I want to add another component. I know that students talk about getting to class as one of the key essentials, right? As we
+
+**(00:57:28)**
+
+
+
+move to providing more opportunities for students to do paid internships and all that, they also need to be able to cover the cost of getting there. But if we want to be exposing them to a lot more experiential things, they also need to be able to get there. So I also want to say that I have always supported the idea of the pilot. The obvious thing that we all think about is getting to class, right? That is basic and important. But in addition to that, if we want them to be out there taking advantage of paid internships and apprenticeships, the cost of transportation can be a barrier.
+
+**(00:58:03)**
+
+
+
+Okay. Thank you for that. The proposal includes students who were in foster care. Do the existing programs for foster care youth include transportation costs? I can check and get a breakdown of the funding received. I know they receive a stipend and I am not sure if it is specifically allocated. They do not receive an actual MetroCard, but in some programs, for example SEEK, we give a transportation stipend for that utilization and I can look to see if the stipend is for transportation costs specifically. Thank you.
+
+**(00:58:54)**
+
+
+
+The state budget includes $18.8 million for the state's Reconnect program, which covers the cost of tuition, fees and books for community college students age 25 to 55 pursuing select associate degrees in high-demand occupations, including nursing, pathways into teaching, technology and engineering. The state budget also includes a new Reconnect for Foster Scholars program. How much funding was allocated to that program? $250,000.
+
+**(00:59:25)**
+
+
+
+Will the Reconnect for Foster Scholars program also have a limited age range? If so, what are they?
+
+**(00:59:32)**
+
+
+
+We are in active conversations with the state on the details of the program.
+
+**(00:59:38)**
+
+
+
+And this will be an incredible opportunity. I know that you have been a big advocate about this. So it is an opportunity to create something meaningful. Suggestions about the best way to use our funding will be welcomed.
+
+**(00:59:50)**
+
+
+
+I would love to do that. Thank you. Many people who have aged out of foster care are not aware of the options available to them. We want to make sure people are aware of this new program. We work with a number of community groups that serve those students and getting the word out. Again, I welcome any suggestions on what other strategies we might be able to pursue. I would love that.
+
+**(01:00:18)**
+
+
+
+Thank you very much. I am going to pass it back to the chair. Okay, great. We have also been joined by CM Dinowitz and we are going to start with CM Wong, followed by CM Louis. Thank you.
+
+**(01:00:37)**
+
+
+
+Chancellor Rodriguez, thank you for coming today. I have a question concerning Hunter College. In the executive budget, CUNY's four-year plan now includes $121.8 million for new school construction at the Hunter College Brookdale Campus. The funds would build two million square feet of modern academic, health care and life sciences space. I am interested in this because I hear from students that the experience in the Hunter College building has not been good. We are talking about water mains and sewer lines that rupture. Instead of looking at the new spaces, is anything being addressed to fix the current problems, the current infrastructure? How can students go to class with the water or sewer problems that I have been hearing about? Please talk about it.
+
+**(01:01:35)**
+
+
+
+Thank you for your question. I will let our team address some of that on the capital side with more specificity. Two things: clearly the Hunter main campus requires — and you know, it is part of the conversation that we had before — an allocation for critical maintenance to be able to make sure that we get to systems before they collapse or break down. That is what we want additional funding for: critical maintenance. But you were talking about the Brookdale Campus, where we also have the renovation of the nursing facility. Construction has already begun on that.
+
+**(01:02:26)**
+
+
+
+Brookdale — let me explain what happened there. As you know, that was part of a large announcement made by the previous administration around building a life sciences hub. CUNY was going to have its own building that would have the nursing school, as the Chancellor alluded to, the School of Public Health and some additional labs. That project right now, as I understand it, is going through the demolition phase. They are getting ready so they can begin the demolition phase of it. We have now moved out of that facility and the nursing school is in a really wonderful facility at 40 Broad Street, where we retrofitted the facility to accommodate the nursing school. So the nursing school is fine.
+
+As part of the deferred maintenance and state of good repair, we allocate funding to colleges and focus on those vital systems that could come offline for a particular college at a time. The last time you raised the concern, that was a pipe that was frozen and it was fixed immediately after that. So the issue has been taken care of.
+
+As you probably know, our infrastructure is aging. Most of our buildings — 60% of them — are over 50 years old. On a five-year capital plan, our need is about $9.4 billion and we get about $2-something billion dollars in a five-year plan. So the need is higher than what we get and we try to be very targeted. We have done an assessment of all our facilities and really try to provide a real targeted approach. Obviously, we are here advocating to make sure that you help us get funding. But I would be happy to discuss anything specific to Hunter College. I actually think that facility is one of the facilities that is really well run and they really stay on top of things. But always, like anything else, things do fall through the cracks and we would love to hear more about it and be able to address it. I know our chair of your committee has really been laser-focused and I really do welcome the partnership because we do not have that partnership without the Council. So that is really welcome. Thank you.
+
+**(01:05:18)**
+
+
+
+Thank you. My questions are around
+
+**(01:05:21)**
+
+
+
+two. Perfect. CM Louis, followed by CM Morano.
+
+**(01:05:26)**
+
+
+
+Thank you, Chair. Good to see you, Chancellor, and all on the panel. Good morning. I have three questions. I am going to try to barrel them out.
+
+The Executive Budget includes $15 million in baseline operational support beginning in fiscal 2027 for academic advisement, mental health services, career readiness, workforce preparation and tutoring programs. What enrollment, growth, retention and graduation outcomes does CUNY expect to achieve from this investment, and how will success be measured over the next several years?
+
+My second question: we know that graduate students, doctoral candidates and students involved in research often depend heavily on federally funded grants and fellowships. Has CUNY assessed whether potential federal cuts would disproportionately impact graduate education, research opportunities and workforce pipelines, and what investments would be necessary to maintain those programs if federal support continues to decline?
+
+My last question — I am taking notes, all right. You mentioned earlier to the Chair that the Chancellor had spoken to you about enrollment, so I wanted to know how enrollment has significantly grown over the last few years. And I wanted to know, for constituents that are watching this
+
+**(01:06:56)**
+
+
+
+hearing today, how do you think the CUNY Reconnect program can open opportunities for them if they are thinking about college, and how could it help? So those are the three questions.
+
+**(01:07:10)**
+
+
+
+Thank you for the questions. Let me begin by responding to them in the inverse order, and I am sure you will correct me if there is something missing.
+
+So we have intensified, on the enrollment side, our partnership with the New York City public schools, which is our main source of students. We have gone deep in working with them, sending personalized letters beginning of senior year, working with their parents — even earlier than senior year — to make sure that they know that CUNY is ready for them and that it is an opportunity. For example, one of the things that I am very proud of this year is the welcome letter. We have been doing this now for about three years. This year it went electronically. My old-fashioned self wanted a piece of paper, but the electronic version allows us to tell students if they have been taking College Now courses. It can tell you, "You already have 15 credits of courses banked in and you will be saving this much money." So we are going to the questions that the caregivers and the students have. We are trying to individualize that as much as we can to make it personal and bring people in.
+
+Reconnect: three quarters of a million New Yorkers — some college, no degree. Reconnect has been a way to bring all those people back who have some credit and need to finish their program to get to their next job. So Reconnect has been critical for us to do that and to listen to what it was that led someone to drop out in the first place so that we can prevent that.
+
+On your question about graduate students: clearly the main concern is that people talk about funding being cut by the federal government in this attack on higher education and research funding. Innovation is being targeted, but the other part — the real tragedy — is the pipeline of talent that we need to keep the research infrastructure going, and that is getting decimated. In our case at CUNY, I will be happy to provide you with a breakdown of some of the programs that got canceled by the administration. Many were pipeline programs for students of color and other groups to be able to get postdoctoral awards. We have lost a number of those, and that is really going to have an impact on the diversity and the number of graduate students we are going to be able to have, which is the teaching force and the research force of the future. I am happy to provide you with some more information, because one of the things we are very concerned about — and I know that locally we have incredible leadership at the Graduate Center with Dr. Bromberg — is working very closely to see how we can be supportive. Thank you, Chair.
+
+**(01:10:28)**
+
+
+
+Followed by Brewer. Thank you, Chancellor. Thank you for your testimony. Thank you for keeping it on the brief side but chock-full of information. We have heard from a lot of other folks in these hearings who had much longer testimony but, shockingly, much less information. So my compliments.
+
+Your testimony highlights enrollment growth, retention gains, internship expansion, workforce development initiatives and several requests for additional funding. If we come back here three years from now, what are the three metrics you would want taxpayers to judge CUNY by?
+
+**(01:11:03)**
+
+
+
+Thank you. Thank you for that question. Enrollment growth and retention are vital to the fiscal health of the university, and we are in a budget hearing, so I will highlight that. There are also human people with degrees and human capital going to make our City great, so I think that is a key one and that is what we lead with on enrollment.
+
+We are really focused on rethinking, from the very beginning, the way we work with our students. Having them be exposed to and thinking about careers is not about forcing anybody to do anything they do not want to do. It is about opening the doors of opportunity and having curriculum, courses and opportunities that allow you to be exploring things earlier and then transitioning in an easier way into the workforce. The nation is asking all of us to be doing that for students, and we need your partnership on the capital side to do so.
+
+With those three metrics you mentioned — retention, enrollment and career success — would you support publishing those metrics annually in a simple public dashboard so taxpayers can see whether the investments they are making are actually producing the outcomes that
+
+**(01:12:31)**
+
+
+
+are promised? I will
+
+**(01:12:33)**
+
+
+
+say that many of those metrics are publicly available on our website now. Maybe there is a way in which we can be more direct and focused. I think, if I am getting the gist of your question, that would be the direction. Enrollment, graduation and retention data — making sure those are available on the website. We are actually working on what the right metrics are to be thinking about career success. We will welcome feedback on that, and information on the capital projects is also available on the website. We are open to thinking about how to do that differently.
+
+**(01:13:12)**
+
+
+
+Always welcome. You spent a lot of time on AI, which is great. Which degree programs currently produce the strongest employment outcomes and highest earnings for graduates, and which programs consistently struggle to connect graduates to jobs — particularly keeping in mind the AI era that we are going into and that we are in?
+
+**(01:13:35)**
+
+
+
+Your question is really about perspective. That is a crystal ball question about how things are going to look. We do have data on some of the metrics you mentioned in your question and would be happy to engage with the Committee on those and provide them. They are also becoming part of some of the things we are being asked for by the state and federal government. So happy to provide that to you. Thanks very much.
+
+**(01:14:10)**
+
+
+
+Thank you. CM Brewer, followed by Epstein. Thank you, sir. I always end up asking about the North Building. I wanted it to be affordable housing. John Jay — what is going on with the North Building? They always give me the same answer, which I do not like.
+
+**(01:14:26)**
+
+
+
+It is all...
+
+**(01:14:27)**
+
+
+
+Council... go ahead. Go ahead.
+
+**(01:14:32)**
+
+
+
+About that. Thank you for your question. We are obviously still analyzing. As you know, there is active litigation, and based on the active litigation that is going on with the government foundation, you cannot really talk about what the plan is for the future of the school. But our goal is to continue to assess what the needs of that school are and to make sure that those needs are being met. With regards to North Hall, we are analyzing to see what the best use is and what is in the best interest of the university.
+
+**(01:15:12)**
+
+
+
+Okay. I still want affordable housing there. It seems to me that that would be a priority, so we will keep working on that. The other question I have is about mental health services. Just generally, how many mental health professionals are employed?
+
+**(01:15:29)**
+
+
+
+How many more would you
+
+**(01:15:30)**
+
+
+
+like to hire? I must admit I was a little disappointed in the number because I thought it should be higher in terms of staffing, and I think that these services are helpful to get people through. So how many sessions is a student provided with — just generally, in terms of mental
+
+**(01:15:50)**
+
+
+
+health services — what do you need and what do you think is working?
+
+**(01:16:02)**
+
+
+
+So the number of mental health counselors that could be hired with the requested $8 million: we currently employ 120 full-time and would like to have two more per community college, for a total of 14 additional mental health clinicians.
+
+**(01:16:27)**
+
+
+
+Okay. And if those students have to leave campus because they are not able to be dealt with locally, do they have insurance? Is that an issue that you have to address? If a student has to go outside of the campus for help, is there always the ability to get insurance, or is that an issue?
+
+**(01:16:50)**
+
+
+
+I can say that we provide some free services. We have partnerships with other entities and organizations, a hotline that is available 24/7, and chats that are available. So we make as many free services available to our students as possible, should insurance be an issue if they were referred out.
+
+**(01:17:10)**
+
+
+
+Okay. In terms of the new enrollment program with public schools, how many more students came in through that program that I think you initiated with CUNY a few years ago? Do you have some sense of the numbers of public school students who came in?
+
+**(01:17:28)**
+
+
+
+Well, I think that one metric is not the only one. The 3 to 4% increase that we have received in enrollment — the bulk of our enrollment comes from the New York City public schools. That is the rough estimation of that investment.
+
+**(01:17:44)**
+
+
+
+So there is no new number? It was an inquiry. I thought there would be a large increase as you did the letters and made extra effort. I can get you the exact figures for that.
+
+**(01:17:55)**
+
+
+
+Okay. I would love a second round if possible. Thank you. Okay, CM Epstein, followed by Wilson.
+
+**(01:18:04)**
+
+
+
+Hi. How are you doing, Chancellor? This is new. I used to see you in Albany. It is good seeing you here as well. Can we just check in about the OMNI cards for students? What will $700,000 get you? How many additional students will you give the cards to with that funding? Give me — you had a pilot and you are asking for another $700,000. I will get you that number. Okay. Give me your next question. Yeah. So I am concerned about students who cannot continue at school. What are the top three reasons
+
+**(01:18:53)**
+
+
+
+you hear that students are leaving school? Is it transportation? Is it housing? What are we hearing from students about the reasons they are not able to finish their degree?
+
+So the most common reasons tend to be non-academic. They have to do with either medical emergencies in their families, which is a big category, or situations about employment. Many of our students work part time and full time, and that impacts their capacity to stay focused. Those tend to be the highest categories. Food insecurity and housing insecurity are also big categories for students. So economics plays a role in the percentage of students who are dropping out. Absolutely.
+
+**(01:19:42)**
+
+
+
+And so just on the economic side — OMNI cards is one. I know you are doing well with getting food pantries on campuses. On the housing insecurity side, for CUNY and other programs and potential funding, do you see that as a bucket where we could solve for housing insecurity?
+
+**(01:20:02)**
+
+
+
+Well, I think one of the main models is the Community Cares model. That is just a pilot with a school in the Bronx. What we have learned there is that we can be good providers and navigators of information to students about what their options are. Sometimes they are not aware of housing options that might be available to them. So that would be a model for us, since we do not have a large housing stock or a huge number of dorms. We need to rely on partnerships, and the Community Cares model has been a way in which we have seen many students referred and dealt with on those issues.
+
+**(01:20:42)**
+
+
+
+I know two years ago we talked about tracking students who had dropped out of community college and then following up with them to try to get them back in the program. How successful has that been in the last two
+
+**(01:20:52)**
+
+
+
+years? We can get you some numbers from the Reconnect program. I do not have those with me, but for us it is not only the joy of having them back and seeing them being tracked to succeed — it is also learning about what led them to leave so we can prevent it in the future.
+
+**(01:21:07)**
+
+
+
+Yeah. I mean, we have talked a lot about that, especially for these students. Obviously, as you said from the beginning, CUNY is the pathway out of poverty for many New Yorkers. This is a pathway to get people to a successful education, and if we can really target our energy toward people who wanted to get into CUNY but had to drop out and figure out where those economic barriers are, we can really protect and support them in that process. I think that is what we are trying to get to.
+
+**(01:21:32)**
+
+
+
+And the baseline of Reconnect will be indispensable to get that done, and the demand is clearly
+
+**(01:21:37)**
+
+
+
+there. Yeah. And the data — I would love to be able to share that data so we can look at it. Thank you, Chair.
+
+**(01:21:43)**
+
+
+
+Thank you. We have also been joined by CM Maloney as well as CM Mealy, who I saw there. Next we have CM Wilson, followed by...
+
+**(01:21:53)**
+
+
+
+Thank you, Chair. Hi there, Chancellor. How are you? I have a couple of questions. The first one is regarding the fact that next year, New York City public school graduates will be evaluated under a new framework — the Portrait of a Graduate framework — which is great in showing that there are other ways to get a diploma other than Regents testing. But the standards are a little vague at the moment. So I am curious what resources are being applied to ensure that New York City public school graduates who enter CUNY — which is a huge number — are going to be fully prepared to meet the demands and reap the rewards of a college education.
+
+**(01:22:36)**
+
+
+
+Well, thank you for that question. First, we have a number of members of our faculty and administration who were part of the conversations and really signed on along with our friends in the New York City public schools. So we are really part of the conversation to be as ready as possible. Whenever that is finalized, we can then adapt and address those things. The other great component that we have is our deep investment in College Now and Early College. We are providing those courses and doing those things along with the New York City public schools, so we are getting all that feedback early to be in the best position to be ready for whatever that new Portrait framework brings — which will probably have more options and more flexibility — for us to be able to be ready for those students.
+
+**(01:23:32)**
+
+
+
+So you have been a collaborative partner in building the process. That is great. We know that the Trump administration has made really devastating and arbitrary cuts to humanities, sciences and medicine. How does this budget reflect steps you are taking to ensure that research being done
+
+**(01:23:56)**
+
+
+
+here is saved? Thank you for that question. I have to commend the approach taken when we faced some of the first cuts to some of the federal grants. We later found ways to fight some of those and get some of that money back. I can give you the breakdown of what we lost, but we initiated our own funding program to be able to support some of the researchers. We could not make up the entire amount of the grant for every person, but enough to keep things going and moving forward. As I mentioned in response to the question from CM Louis, I am also very worried
+
+**(01:24:38)**
+
+
+
+about the pipeline programs that many of our schools had — the Graduate Center and other campuses — to bring the next generation of scholars. Those were decimated, and that is going to affect our human capital in terms of teachers and researchers. Thank you for the question.
+
+**(01:24:59)**
+
+
+
+But more, yes, it will be quick. So just about capital needs. We talk a lot about that across the university system, but at the same time in my district, Hunter College owns a vacant building at 50 West 41st Street in Hell's Kitchen that has been unused for a decade. It is a huge source of strain in the community. So how are you evaluating underutilized properties when determining your capital strategy? I am specifically wondering how you balance generating revenue from assets that could have a public benefit like affordable housing, community facility or future educational uses. So you have addressed our dilemma in terms of that, but I will let you answer that question.
+
+**(01:25:43)**
+
+
+
+So you are talking about the building. Yes. So as you know, we have been in conversations with the community board and with your predecessor, now the Senator, around what the possibilities are with our site. We have always been open to partnerships and thoughts around that side. The one thing that I have really been focused on, as you know, we had a situation where we had squatters in there. We went in and removed those squatters and tried to seal up the space. We tried to do things to address some of the concerns the community has raised. I am always open to hear your concerns so we could together address them. It is a property that we are analyzing to determine what is the best use. Obviously my main concern is always to make sure that we are using the property in the best interest of the university first, and then obviously how can we provide what the university needs, what the colleges need, and also work on the sort of community greater good. So we are always open to those discussions.
+
+**(01:26:51)**
+
+
+
+The current use is in the best interest of no one, and I would really value a sit-down to talk about the future because it has been a real problem for a long time. Absolutely, happy to have that conversation. Thank you.
+
+**(01:27:06)**
+
+
+
+Thank you. We have also been joined by Majority Leader Berry as well as Deputy Speaker Williams, and we have CM Maloney to follow.
+
+**(01:27:14)**
+
+
+
+And we have been joined by CM Restler. Thank you so much. First and foremost, I just want to thank the whole CUNY team for being here and for the work that you do shepherding New York City's prized institutions. We deeply appreciate it. I wondered if you could — I know in your testimony, which I was not here to hear — could you elaborate a little bit more on the Constructive Dialogue Institute? Can you tell us a little bit about how long this initiative has been in play, how much funding the program currently supports, and what would be the funding needed in order to appropriately expand it throughout the campuses? Thank you.
+
+**(01:28:10)**
+
+
+
+Thank you for your question. The funding for the CDI, which began about a year and a half ago, depends on funding from the City Council. We are asking for additional funding for that. I think we are asking for three-quarters of a million for the year in order to continue the work that we have been doing. We also got some grants from two foundations initially to do a pilot and get it going. One of the things that is really wonderful about that program is that we have the work of the trainers from the CDI team, but they are working to adapt that to however campuses are doing different kinds of initiatives. So some campuses are including engagement with constructive dialogue and dealing with difficult conversations in freshman seminars, so they are working with the faculty who are doing that to bring that component in. In some other cases they are working with student groups to be able to work with those student groups as they get ready to face the programming that they do. So it has been a very, very adaptable program. Again, I am really proud that we are the only institution in the country that is doing this system-wide. It is not just one campus. The funding from the City Council on this will be crucial to keep it going. Does the current level cover the entire system? So we did that by combining the past funding from the Council, which was some million that we received. You know, funders like to give you money for a couple of years and then they say somebody else should pick it up.
+
+So we are hoping that in that case it is the Council that does that. So we will need that to continue to be system-wide.
+
+**(01:30:02)**
+
+
+
+Right, it definitely is something within our interest. Thank you. To baseline it as an important program... Can I just dig a little bit into — you know, immigrants make New York City the beautiful city that it is. Can you talk to us a little bit about — yeah, I know you host CUNY Citizenship Now, which we have been big supporters of. They do fantastic work. Thank you for that. Can you tell us a little bit more about how you are feeling about our current environment...
+
+**(01:30:39)**
+
+
+
+...and plans on keeping New York City immigrant college students safe? Well, thanks for the question and thanks to the Council for the great support of Citizenship Now throughout many, many years. I was at a JAA event about a month ago, and you know, 300 people — I think CM Brewer and some of you were there too — 300 people trying to get that last step, moving from permanent status to full citizenship. So the demand is there. We have also, in order to support our students, raised independent funding from the Petrie Foundation that helps us provide triage legal services for students who might be in need. In many cases, individuals go to places that basically take their money and do not provide any real legal services. So we provide a service — we cannot take them on as a client, but at least at that first triage we can point out and say, here is somebody with legitimate lawyers, here are legitimate nonprofits that will work with you. We can stabilize them, and that has been, I think, very well received by the community. We have an office at the central office dealing with how we can support our students, and campuses do that in different ways. It is very, very much owing. Thank you to the Council for the support of Citizenship Now.
+
+**(01:32:13)**
+
+
+
+Just to make a last comment, Chair. You know, New York City public school educators and parents have asked the public school system to provide revised protocols around how to keep their students safe and their staff safe, because the protocol within the building is one thing but right outside the building is a whole other thing. I would also like to deposit that challenge to CUNY around how it makes sure that everyone from the security guard to the groundskeeper to all the staff are very clear about their obligations under New York City sanctuary city policy and also their moral obligations to keep each other safe during such a dark time. So thank you. Would love to talk to you more. Thank you for that. Yes, thank you. Thank you, CM Maloney.
+
+**(01:33:00)**
+
+
+
+Followed by Majority Leader. Thank you so much.
+
+**(01:33:06)**
+
+
+
+I wanted to ask more about CUNY Beyond. You mentioned that you are asking for $2.7 million for that program with the plan to expand to 19 undergraduate campuses by 2030. I want to hear more about how investments in CUNY Beyond, in particular the AI component, are meeting the City's workforce needs and how you evaluate where you should be investing more with matching...
+
+**(01:33:34)**
+
+
+
+...with employers. Well, well...
+
+**(01:33:35)**
+
+
+
+Thank you for the questions. You know, CUNY is really going strong. When you take into account that 77 percent of graduates — almost an equal number — do not pay any tuition, it is incredibly affordable, a great asset with great faculty. So what we want is to build more on the human capital of our students as they think about careers. CUNY Beyond is about making sure that our students are thinking about and being exposed to careers from day one when they get onto a campus, and they can then contribute more. We think that differentiator, when we get to do that well, is going to be a driver of enrollment. Parents and students are asking for places that are giving them a way to connect with careers by the time of graduation. So we really see it as what we owe to our students and a great tool to beef up and to be responsive to the community of employers out there.
+
+The five pillars of CUNY Beyond include more career-oriented curriculum. The AI component will be part of that because we will be looking at all the different careers and how AI is figuring into the marketplace. That is going to come to us in terms of greater curriculum, more individuals from the street coming to teach as adjuncts for students, and our students also being more active in paid internships and apprenticeships. All of that is to create students that are ready to meet the moment, and that is why we are very bullish on CUNY Beyond as a key strategy for us moving forward.
+
+**(01:35:29)**
+
+
+
+And what are some of the metrics that you can share on job placement and earning potential by different segments like teachers, healthcare workers and technology professionals for the CUNY Beyond program and the benefits that...
+
+**(01:35:42)**
+
+
+
+...come from it? I would be happy to provide you with details on what we have. The other component is that we are trying to figure out what are the right metrics in terms of return on investment. A student comes to CUNY, they participate in this process — how do you really measure that element of success? If you look at what most schools use now, it is very rudimentary data, right? Surveys going out to students. We want to be a lot more scientific, to be able to come back and really measure ourselves to make sure that we are delivering for the students. But I can give you what we have now, which is mostly based on information that comes from the New York State Department of Labor. That is what we use. I would be happy to provide that to you in any way that you are interested in. Could I ask one...
+
+**(01:36:37)**
+
+
+
+...follow-up? Okay, quickly. Yes, okay. And on artificial intelligence, I am wondering if you could paint a picture of how those tools are being used by educators in the classroom and also how you are preparing for AI literacy...
+
+**(01:36:52)**
+
+
+
+...skills. I will not let the provost speak because she will explode. So last year we received some funding from the State and we created an innovation fund, and we allocated $3.2 million across the 25 colleges across four specific areas. One area was AI and literacy — so how faculty created courses and started embedding it within the general education framework. We also have embedded AI tools to support students in academic support, so looking at the academic advisement services and the technologies and the tools. We also had a category on addressing the ethical and social implications of AI, which is just as important as AI literacy. We are getting ready to roll out an AI course that would be available to all students, faculty and staff to ensure literacy. We were very strategic in the funding, welcoming and partnering with the colleges, the faculty and the staff on how to embed AI ethically and make sure that we support this. We are piloting some of this and in the fall everyone will have reports on the outcomes of these pilots so we can assess, evaluate and see what is scalable. Okay, great.
+
+**(01:38:20)**
+
+
+
+Leader Berry, followed by CM Restler. I am just trying to be mindful of time, so if we can keep both questions and responses as concise as possible. Thank you.
+
+**(01:38:29)**
+
+
+
+Okay, thank you, Chair.
+
+**(01:38:30)**
+
+
+
+And thank you, Chancellor. Today there has been a push for CUNY students to receive free Omni Cards to help them get to and from classes. Can you please talk a bit about some of the challenges students face currently and if there has been any discussion with the administration on this?
+
+**(01:38:49)**
+
+
+
+So thank you for that. We actually found the number of 3,100 students. We got that before about the pilot that we put in the green sheet — how many students will benefit. So that is the number. We want to make sure that as many students who need the Omni Cards to get to class — but not just to get to class, but also to be able to go to paid internships, to be out there connecting to the programs that we have so they can be fully participating. We want to try to maximize what programs already exist, like encouraging students to be part of Fair Fares if that is something they qualify for. So we are trying to take a holistic approach to cover as many students as we can with that basic support. And what is the price tag for that? For the pilot, what we are asking the Council for was $750,000.
+
+**(01:39:45)**
+
+
+
+Okay, we would love to see that in the adopted budget. As the chair of the Transportation Committee, this is something that we find very...
+
+**(01:39:52)**
+
+
+
+...very important. Thank you very much, Chancellor.
+
+**(01:39:56)**
+
+
+
+Okay, great. CM Restler, followed by the Deputy Speaker.
+
+**(01:39:58)**
+
+
+
+Thank you, Chair, and Chair Joseph for both of your great leadership. Chancellor, good to see you. I am happy to be here wearing a CUNY hat — on behalf of a lot of pride, not just a hat. Excuse me, but a friendlier response from this side of the dais. It is good to see you all. I really just first and foremost want to thank you for your work. As the point was made, CUNY is the place where social mobility happens. It is the place where we transform people's lives from struggling in poverty to real economic opportunity and being able to provide and sustain support for a family. I did want to ask a couple of questions about hiring at CUNY. My recollection was that we were able to restore, I think, $94 million after six or seven rounds of budget cuts by Eric Adams in last year's budget. Do I have that number right? That is correct. Great.
+
+**(01:40:57)**
+
+
+
+And already the Mayor has...
+
+**(01:40:59)**
+
+
+
+...added and baselined $15 million for CUNY in the executive budget. Is that right as well?
+
+**(01:41:03)**
+
+
+
+Yes. So you guys are...
+
+**(01:41:05)**
+
+
+
+...doing better, still more to go, and we hope to be great champions for CUNY. I was very pleased by some of the suggested investments in the Council's budget response, but I am concerned that we have not seen a restoration in hiring that would match that increase in funding. If I have my numbers right, prior to COVID there were 4,648 pedagogical employees at CUNY and we are now down to 4,257 — almost a 10% decline. With the $94 million that we got restored last year and the additional funding that we have gotten restored this year, are you able to provide any indication to us of the increased headcount that can be anticipated in FY27 on the pedagogical side in particular?
+
+**(01:41:51)**
+
+
+
+So getting an exact number on that gets complicated because hiring of faculty is done on a campus-by-campus basis and those needs are very individualized. I cannot give you a ballpark, not an exact headcount of where we are heading, because I think we want to make sure that when we are investing in CUNY we are also investing in the faculty of CUNY and expanding it. With the 10%-plus decline that we have seen over the last five years, we want to see it reversed. We are on the same page. A couple of notes: even though we have done gains in enrollment, we are still about 10 to 12% less than we were pre-pandemic. So I think that needs to be put in context. The restoration last year in the budget is one year of hiring. Particularly for full-time personnel, it takes about a year to be able to do that. On the $50 million we had to be careful last year because it was not recurring, so you are careful about not putting people on recurring costs. So I think that in next year's budget you will begin to see that shift being corrected in a more precise way, because it takes about a year or so to see those things come into the body because of the way we hire.
+
+**(01:43:03)**
+
+
+
+Can I? One more. We are committed to the same thing. Okay, I am glad to hear it. If you are willing or able, and follow up to this hearing to provide any goals of what you are anticipating on the pedagogical hiring front for the year ahead, I think it would further reinforce the Council's commitment to support for CUNY. And then lastly, I represent City Tech. We regularly get reports coming from the faculty at City Tech about the conditions that staff and students are working in, and I recognize that we have significant outstanding capital needs across the community campuses and we need to do a whole lot more to invest in that capital infrastructure. But at City Tech we get reports of mold in classrooms, leaks and more. I understand CUNY's current goal is to bring about 55% of vital building systems into a state of good repair by 2030. Gosh, I wish we could get that to 100%, but I recognize that it is a lot of resources and work that is needed just to get to over half of our building systems in a state of good repair. What do you think the timeline is to get to 100%? Do we even have that kind of big picture goal of, by 2040, we are going to get 100% of our vital building systems into a state of good repair? Is there a capital need? Do you have a kind of complete physical needs assessment for the CUNY portfolio of what we would need to come up with to be able to get there?
+
+**(01:45:45)**
+
+
+
+By Hudson.
+
+**(01:45:46)**
+
+
+
+Good afternoon. Good afternoon. Your college is an important institution in southeast Queens. Are there any planned investments, program expansions or workforce development specifically impacting New York students and the surrounding
+
+**(01:46:01)**
+
+
+
+community? Well, thank you, Dr. Williams, for your question. I am very happy that in the second wave of CUNY Be Young, which is really our innovative strategy to make sure that our students are thinking about careers and getting ready for careers, York College is one of the schools that are being identified in the second wave. That will mean that York College will be receiving additional funding from the City. It would go to York College for investments. It is also about York's distinction as they seek to talk to employers, so we really feel that that designation is going to be really, really instrumental to York in terms of enrollment and all those
+
+**(01:46:51)**
+
+
+
+factors. Okay. And then last year I asked the question about the $30 million that was supposed to be allocated to York College to address the groundwater flooding issue. Do you have any updates on that? Because last year the answer was not precise. You all talked about it and said that it was going to happen, but there was not a clear timeline.
+
+**(01:47:25)**
+
+
+
+Thank you for the question. We just completed phase one of the work that is being done. That is the grouting work around the plant. Phase two, which is the mechanical design, will be completed by early 2027. The project was originally about $25 million, but based on the work that we have been able to do, it is now down to $10 million. So we have been doing some value engineering that has allowed us to bring that project right on target to be completed. We are also — I know one of the other concerns you have raised — in conversations about the charges that they are charging the college, which over the last couple of years has been about $400,000, to try to really figure out how those charges could be removed, because it is a burden on a college that really needs the resources. So more to come there, but we are right on target to be able to address this. Hopefully by next year when I am in front of you again we will be able to celebrate that we have got this project completed.
+
+**(01:48:42)**
+
+
+
+Okay. Thank you. Thank you.
+
+**(01:48:46)**
+
+
+
+Okay, CM Hudson, followed by...
+
+**(01:48:47)**
+
+
+
+Janowicz. Thank you so much. Hello, Chancellor and team. You mentioned in your testimony the work that you do around CUNY Cares — really important work. We have a Transition Academy at Medgar Evers College, which is in my district, and I am just wondering, you know, given the number of students that are experiencing homelessness, food insecurity, things of that nature, how much in your budget is allocated towards supporting those students?
+
+**(01:49:20)**
+
+
+
+So it varies by campus and depending on the Council support. Thank you for your question. For example, things like the food pantries and that level of support — that is mostly philanthropic dollars that are raised from foundations. The CUNY Foundation has been historically a great partner of ours for decades in some of that work, along with local vendors. So that tends to be a bit more locally housed. In CUNY Cares, for example, one of the things that we learned from that experiment in the Bronx is that we are probably ready to do something as part of the next expansion of CUNY Cares, which is to get students immediately to know whether they qualify for SNAP or not and be able to get all those benefits. We mentioned in the testimony that we got about $3 million back for the students. The other thing that I want to say is that it is also that money that went to the local bodegas and businesses where our students buy their food, right? So this is something that if we do right, it is helping the students, but it is also a little bit of economic development in our neighborhoods.
+
+**(01:50:30)**
+
+
+
+Yeah, I would agree, and I commend you for that work. I think it is really important work. I have legislation trying to make automatic enrollment possible for certain benefits, and I also fund the food pantry specifically at the Transition Academy and provide services. We do resource fairs, all of that. But I am wondering if you can maybe give a ballpark figure — that would be helpful — for what you would need to
+
+**(01:50:56)**
+
+
+
+address the needs of... because the reality is there are so many CUNY students who are struggling to make ends meet. And if you are helping them to bring in millions of dollars in resources and food, let us say, I am trying to figure out how much are you spending? I get that some of the money is philanthropic, but how much are you spending in order to make that happen? And could — I mean, I know you could use more, but what would be an amount that...
+
+**(01:51:28)**
+
+
+
+Well, so in our green sheet, which is our request, we have the Council already has the food insecurity initiative to be able to supplement and expand that. And if you think also about the CUNY Cares component, if we expand the benefits, there is something additional that can help all the campuses. So the request on food insecurity is $2.5 million. Okay. Thank you so much. Thank you, Chairs.
+
+**(01:51:56)**
+
+
+
+Great. CM Eric Dinowitz. Good morning. Good to see you. Good to see you as always, the whole team here. Last hearing I asked the question about Local Law 18 of 2023, which provides a way for CUNY to send data electronically to a college of their choice. Since that time I know we have been working together. We created a memorandum of understanding so that the data will automatically be sent over. I am confirming that this is on path so that all graduating high school students will have their data shared directly with CUNY.
+
+**(01:52:42)**
+
+
+
+Maybe I will let some of the team give you an update. I know they are on this very important initiative.
+
+**(01:52:46)**
+
+
+
+Yes, I can confirm that last week the agreement and the details of the agreement have already been worked out, but last week both sides actually worked and fleshed out a few things. They might have one or two more follow-up meetings before things then proceed to the lawyers for signing, so we are on track by the summer to have everything in place.
+
+**(01:53:17)**
+
+
+
+And one of the goals of that was not just so you have the data, but that you can proactively reach out to students with disabilities. I believe, according to your estimates, you believe half of students with disabilities are not declaring, or do not, for whatever reason — maybe they do not know there are services available to them. So will CUNY reach out directly to students that are now on the radar as having listed a disability? Absolutely, will they be reaching out by phone, by email, by mail? What does the outreach look like?
+
+**(01:53:47)**
+
+
+
+Well, the students indicate and provide contact information, so it would be email, maybe phone, but traditionally students prefer email. But we will try any means that the student has given us permission to do so.
+
+**(01:54:02)**
+
+
+
+Good. Just confirming that CUNY will be reaching out, so it is the expectation that if they leave a phone number and an email, then someone from CUNY will be reaching out by phone and email to make sure they know the services available to them.
+
+**(01:54:16)**
+
+
+
+I can confirm that we will do both. Absolutely, it will be on CUNY to reach out, and that was part of the agreement — that we receive that information so that it enables us to proactively reach out. We have the permission around the information and we would reach out. What we are trying to be careful about here is not to promise something that legally we might not be able to do. But this is the point of the memorandum of understanding — to make it legal — and then the ultimate goal is for CUNY to do the outreach so the students know all the opportunities. We are on the same page on that. Secondly, I would like to follow up on your personalized
+
+**(01:54:54)**
+
+
+
+letters. There was a hearing on this a few years ago. I just want to clarify what personalized letters mean. My understanding is personalized letters means every graduating student gets a letter with their name on it, but do these letters also include things like course recommendations, specific colleges based on the coursework the student is taking? Is there any targeted content in the letter other than the individual student's name? So do not minimize what it took to put together an individualized letter the first time — that did not have some of those things right — but with every iteration of the letter we are better at being able to personalize it more. For example, this year the letter, which goes electronically, included, for
+
+**(01:55:43)**
+
+
+
+example, "Congratulations, Erik." I would look forward to seeing you — I just got admitted to CUNY. Thank you. Since you participated in College Now, you already have, if you come to CUNY, 15 credits, which would mean that you will be saving X amount of money, right? So we have been able to tailor the letters each time more to provide students the most accurate information that they need. We want to continue that level of detail in the letters and we want to continue to do more to provide them — for example, for some of the students that might be part of Future Ready, we might be able to, based on that data, make some suggestions about majors that they can take. So the more that we know, the more we will be able to tailor that letter to them and to their caregivers.
+
+**(01:56:36)**
+
+
+
+That would be the ultimate goal, I think — to make actual recommendations. The addition of College Now, it seems, is very good. Making recommendations for particular colleges and particular majors based on their coursework seems like the ultimate goal and the actual personalization of the letters. Thank you, Chairs. Thank you, Chancellor. Thank you.
+
+**(01:56:56)**
+
+
+
+CM, at our preliminary budget hearing I asked for data on the specific campuses and positions where vacancies exist. Do you have this data? If not, what is your timeline for providing it? How many vacancies currently exist across the whole system and what are some of the challenges you face as folks are retiring? We will get it to you as soon as possible, before we pass the budget. Right? Absolutely, yes. Yes, thank you so much.
+
+**(01:57:25)**
+
+
+
+Thank you so much. And apologies to the Council members — the Chancellor and team have a very important Board of Trustees meeting where they are going to be deciding on a lot of important things, so we will send all of our follow-up questions. We have also been joined by CM Mercedes Narcisse. With that, thank you so much, Chancellor, and your team, and everyone for being here. Thank you.
+
+**(01:57:45)**
+
+
+
+...
+
+**(02:01:27)**
+
+
+
+Oh, good afternoon. We should be moving to Education shortly. As you walk in, please find your seat quietly. Please find your seat. Just a reminder: no food or beverages are allowed in the chambers. Thank you. Quiet down, please. Quiet down. Please find your seats. Please find your seats.
+
+**(02:03:13)**
+
+
+
+...
+
+**(02:03:29)**
+
+
+
+...
+
+**(02:03:37)**
+
+
+
+...
+
+**(02:03:42)**
+
+
+
+...
+
+**(02:03:49)**
+
+
+
+...
+
+**(02:03:55)**
+
+
+
+...
+
+**(02:04:10)**
+
+
+
+...
+
+**(02:10:29)**
+
+
+
+Welcome, everyone. I think we are good to go. Good afternoon and welcome to the second Fiscal Year 2027 Executive Budget hearing for the day, focused on the Department of Education. I am CM Linda Lee. I am pleased to be joined by my colleague CM Dinowitz, who is the Chair of the Committee on Education, and we have been joined by our Speaker, Julie Menin. Speaker Menin, CM Louis, Brewer, Wong, Morano, Felder, Hudson, Restler, Farías, Joseph, Maloney and Schulman. Felder. Okay, and CM... CM De La Rosa. And did I say Millie? I saw her earlier, CM Amelia, just in case. Okay.
+
+So welcome, Chancellor Samuels and your team. Thank you all for joining us today to answer our questions. Special shout out to Daniel Giunta, sorry, and Deputy Chancellor Foti, sorry. All of you guys. Okay, stop. Okay, on me.
+
+Now I am going to get myself in trouble. On May 12, 2026, the administration released the Executive Financial Plan for Fiscal Years 2026 through 2030 with an improved budget of $124.7 billion. The Department of Education's proposed Fiscal 2027 budget represents 30.5% of the administration's proposed Fiscal Year 2027 budget in the Executive Plan. This is a decrease of 0.3% from what was originally budgeted in the Fiscal Year 2027 Preliminary Plan. This decrease results from several actions, mostly in a $922.2 million savings plan, which is offset by increased funding to restore Learning to Work and Early Childhood Education outreach, as well as expansions of Every Child and Family, known special education pre-K and teacher recruitment efforts.
+
+As of April 2026, the Department of Education's pedagogical headcount was 2,936 less than their Fiscal Year 2026 budget had, while their non-pedagogical headcount was 899 more. In the Council's Preliminary Budget response, we called on the Mayor to add $64.6 million to invest in one-time funded educational programs such as Learning to Work, Mental Health Continuum — please, I am making a plug for that — and immigrant family engagement and outreach. We were pleased to see that two programs, Learning to Work and Early Childhood Education outreach, were included in the plan, and we are hoping that the majority of the one-time funded programs will be included in the future before we adopt.
+
+During my time as Chair of the Committee on Mental Health, I have consistently fought for the Mental Health Continuum to be added to the baseline, and this plan does not include the $5 million for this crucial program that brings together DOHMH and the Department of Education to support students with significant mental health needs at 50 high-need high schools. The funding has continually been added for one year only, which creates instability and uncertainty when it comes to planning around the program's future, despite its positive impact in supporting the mental health needs of students at high-need schools. Now I will turn it over to our Speaker for her opening statement. Thank you so much.
+
+**(02:13:54)**
+
+
+
+Thank you. Good afternoon, Chancellor. Good afternoon, First Deputy Chancellor and your entire team. Today we will, of course, as the Chair said, be discussing the Department of Education's Executive Budget for Fiscal 2027. The Executive Plan includes significant investments in our education system as a shared priority between the Council and the Mayor. We are happy to see investments in Early Childhood Education programming for students with disabilities and Learning to Work, among many other crucial services included in the most recent plan. The Executive Plan includes additional funding in Fiscal 2027 for Early Childhood Education on top of the hundreds of millions of dollars included in the Preliminary Plan. These investments are critical as we work towards a universal child care system. We are also pleased to see funding to increase contract rates for providers who have not seen an increase since 2022, despite rising operating costs. Notably, these rate increases do not provide pay parity for the workforce, whose wages vary greatly across sites, experience and union affiliation. For a strong system, we need a strong workforce behind it. The Council is ready to work with the Department of Education to improve recruitment and retention of educators, including increased wages for workers.
+
+While the Executive Plan includes new investments in the education system, it also includes a savings plan of... on Fiscal 2027. This savings plan heavily relies on cost containment strategies for class size and due process cases. The plan recognizes savings of $149 million for due process cases, coupled with investments in pre-K special education as well as services for students in non-public schools. The Council appreciates the due process briefing that you provided last week, and we just want to say that this is in stark contrast to what we feel is a lack of transparency on contracting, which is something we are going to focus on. We look forward to discussing the savings plan with the Department of Education and better understanding how they will realize these savings next school year.
+
+Additionally, the savings plan includes multiple savings in contract spending, most notably $30.3 million for procurement reform as called for in the Council's Fiscal 2027 Preliminary Budget response. While the Council is pleased to see an effort from the Department of Education to reform the Department of Education's $12.8 billion contract budget, there is a concerning lack of transparency in this spending. The Council has continually called on the Department of Education to provide more details on their contract budget, especially the procurement method. However, these calls have largely remained unanswered. The Department of Education's initial response to the Council's Preliminary Budget follow-up on contracts was, quote, "This is being reviewed and we will get back to the Council," end quote. A response that
+
+**(02:17:06)**
+
+
+
+was provided weeks after our request. A follow-up response similarly avoided answering the Council's questions about contracts, suggesting the Department of Education would separately follow up with specific information. While the Department of Education did share information on contracts with the Council just late last week, the lack of transparency on contract spending — a significant portion of not only the Department of Education's budget but the whole citywide budget — is very concerning. The Council continues to seek additional information to fully evaluate the procurement method, scope, purpose and cost of contracts. So we very much look forward to a robust discussion today on Department of Education contracts and the savings plan. I will now pass it back to the Chair. Great. And I will pass it to Chair Dinowitz for his opening.
+
+**(02:17:54)**
+
+
+
+Thank you, Speaker. Thank you. Good afternoon and welcome to the Fiscal 2027 Executive Budget hearing for the Committee on Education, joint with the Committee on Finance. My name is Eric Dinowitz. I am the Chair of the Committee on Education. I am honored to be here as a proud Department of Education public school alum and a forever educator. Today we will be discussing the Department of Education's Fiscal 2027 budget as presented in the Executive Financial Plan. Thank you, Chancellor Samuels and your team for joining us today.
+
+The Department of Education has the largest budget among all City agencies, around one third of the City's overall Fiscal 2027 budget. It also has the largest headcount among City agencies, with 141,400 budgeted positions — 46% of the entire City's budgeted headcount. As Chair of this Committee, I will continue to push for accountability, efficiency and transparency. The budget for the largest school system in the country should reflect the needs and interests of its students, its educators, its faculty and its families.
+
+The Executive Plan includes major investments in programming for students with disabilities and District 75 students, as well as the expansion of New York City Reads and Solves, which provides standardized curriculum. I am particularly happy to see the inclusion of Learning to Work and Early Childhood Education outreach funding, both of which were called for in the Council's Fiscal 2027 Preliminary Budget response. However, there are multiple Council priorities that were not included in the Executive Plan. Restorative justice is funded at only half of its current budget in Fiscal 2027. Many mental health clinics are in jeopardy of closing because of the gap in Mental Health Continuum funding. Student Success Centers face an uncertain future. Funding for immigrant family engagement is missing from this plan despite being critically important given the current climate for immigrant communities. All these services and programs are facing funding cliffs because they were not funded in the Executive Plan, and both I and the Council will continue to push for these programs.
+
+Between the Preliminary and Executive plans, the plan also includes two major programs for students with disabilities through an additional $137.5 million for pre-K special education and $86 million for ISP support for students with disabilities in non-public schools. However, beyond a small expansion of District 75 classes in the Preliminary Plan, this budget does not include any additional special education support for grades K through 12. With a financial plan that hopes to reduce due process costs, it is disappointing to see that there was no expansion of K through 12 programs for students with autism. Next Horizon and AIMS — the Department of Education reports getting thousands of applications for these programs, though they are only able to offer a few hundred seats. These programs are not only popular but effective, producing high graduation rates, yet they remain elusive for many students and families.
+
+The Executive Plan also does not fill the funding gap for Sensory Exploration, Education and Discovery, or SEED programming, for students with autism. The Department of Education must expand support for students with disabilities across the entire school system, including training for teachers in general education classes. When we set our teachers up for success, they can address the needs of all of our students. In a due process briefing that staff attended last week, it is clear the Department of Education is taking these escalating costs seriously. Not only is due process spending a huge financial burden for the City, it also does not always solve the important underlying goal, which is getting students with disabilities their much-needed services right here in our public school system. We are glad to see that the Department of Education is making progress on curbing costs and look forward to further discussing how they will realize the $149 million in savings the Executive Plan recognizes starting in Fiscal 2027. However, truly tackling due process case costs is going to require greater investment in K to 12 special education. It is what is best for the City and it is what is best for our students.
+
+While the plan includes investments in many areas, it also falls short on school safety and restorative justice programming. School safety agents and restorative justice, while often pitted against each other in policy debates, are complementary investments. Both make our students and school communities safe. Yet both are cut in the Executive Plan. The savings plan includes a vacancy reduction of 264 school safety agents, meaning that schools would not be able to fully staff if desired. Additionally, restorative justice programming faces a $6 million cut. If you are a person who views these two things as not complementary, as in opposition — wherever you fall on that debate, between asking for more school safety officers or transitioning completely to restorative justice — there is a reason to be concerned. Both school safety and restorative justice must be fully funded to keep our students, our teachers and families safe across the system.
+
+While the administration and the Department of Education strive to meet universal programming across New York City Reads and Solves and other supports, I want to emphasize that inclusion and efficacy programs are only universal if everyone can participate fully and meaningfully. I look forward to hearing more from the Department of Education on how they will ensure that District 75 students will be identified for early intervention services. I am interested in learning more about the expansion of New York City Reads and Solves. The Department of Education should use this expansion to promote cultural competency and develop teachers' capacity to lead professional development for their colleagues on these curricula. In the wake of yet another school bus contract extension, I look forward to a discussion on how to ensure students in temporary housing and foster care get to school, despite relying on decades-old school bus contracts that do not adequately consider their needs.
+
+As the Department of Education reconfigures its class size plan with a two-year extension for full compliance, the City needs to not only invest in teacher recruitment, which increases by $17 million in Fiscal 2027 in this plan, but also in teacher retention. While most of the Department of Education's savings rely on the state's extension for class size implementation, there are still many outstanding questions on the new class size plan and expectations for the 2026-27 school year. The Department of Education must get to 100% class size compliance in a way that is equitable. We cannot prioritize funding for schools that need help reaching compliance at the expense of schools that meet the class size mandate but have other needs.
+
+It is the Council's responsibility to ensure that the City's budget is fair, transparent and accountable to all New Yorkers. It is essential that the budget that we adopt this year is also reflective of the priorities and interests of the Council and the people that we represent. This hearing is a vital part of this process, and I expect that the
+
+**(02:25:43)**
+
+
+
+Department of Education will be responsive to the questions and concerns of Council Members. I look forward to active engagement with the administration over the next few months to ensure the Fiscal 2027 adopted budget meets the goals the Council has set out. I would also like to take a moment to thank my Chief of Staff, Jen Klaus, my Legislative and Budget Director Andrew Lawless, and Grace Amato, the Committee's financial analyst, Alejandro Carbajal, the Committee's counsel, and Chloe Rivera and Katie Selina, the Committee's policy analysts. I now turn it back to the Chair.
+
+**(02:26:18)**
+
+
+
+Great. Okay, we have also been joined by CM Brooks-Powers. And before we pass it off to the Chancellor and his team for swearing in, I have to do this announcement that I have been doing before every hearing, which is that our public testimony — because I see a lot of our community advocates and leaders in the audience — we are doing public testimony on one full day, on Wednesday, June 10. That is all my brain has. Wednesday, June 10, this Wednesday, starting at 9:30 in the morning. So please make sure to sign up for public testimony if you have not done so. We will try to make it as amazing and entertaining as possible. So I am going to hand it off to our amazing Committee counsel, Brian, sorry...
+
+**(02:27:43)**
+
+
+
+Good afternoon, Speaker. You have to push the button. Good afternoon. Speaker Menin, Education Chair Dinowitz, Finance Chair Lee, Early Childhood Chair Gutiérrez. The Committee on Education and Finance and the Subcommittee on Early Childhood Education, thank you for inviting me to testify on the Fiscal Year 2027 Executive Budget. I am New York City Public Schools Chancellor Kumari, and I am joined by my First Deputy Chancellor Daniel Gente, Chief Financial Officer Rita Scott and other members of my senior leadership team.
+
+The Mayor's Fiscal Year 2027 Executive Budget for public schools, which totals $44.9 billion, will sustain critical programming and enable us to enact a new vision for our schools, one shaped directly by our communities and aligned to the administration's plan for a vibrant, equitable and affordable New York City. Since my last testimony I have continued to engage deeply with our students, families and staff. I visited all 45 superintendent districts and completed a 10-stop Chancellor Conversation Tour. We will soon publish a report detailing what we heard on that tour and how those insights will inform our work. We have gathered extensive community feedback on high priority topics. I held listening sessions specifically with students and families residing in shelters and more.
+
+These conversations have continued to shape my educational vision, one focused on safety, academic rigor and true integration with a clear line of family empowerment. I am proud to share that we are already hitting the ground running. We are launching and expanding early childhood programs, both incredibly exciting milestones towards child care and a more livable City. We are opening five new schools in the Bronx and Queens, offering unique, high quality models focused on the arts, STEM and more.
+
+We are growing New York City Reads and New York City Solves, including bringing New York City Solves to elementary schools where many math habits and mindsets are formed. We have released our first ever bus vendor scorecards to strengthen transparency and accountability around school transportation. We have published a "Know Your Rights" comic book to teach immigrant students and all students about their legal rights. We have hosted new celebrations to uplift communities, from the New York State Seal of Biliteracy Convocation to our recently concluded Parent Coordinator Appreciation Week.
+
+This is just the start and I am eager to continue listening and partnering as we advance our vision. The Mayor's Fiscal Year 2027 Executive Budget also furthers this vision, investing deeply in the next generation of New Yorkers. That starts with a focus on our most vulnerable, including our students in temporary housing. This budget will expand support, resources and access to caring adults via Every Child and Families, thanks to a $7.2 million investment in Fiscal Year 2027 that grows to $10 million in Fiscal Year 2030. This work will promote attendance, physical and emotional safety, mental health and a sense of belonging.
+
+The Executive Budget also invests in our youngest. The administration's commitment to early childhood at $81 million annually is momentous and game changing. This is especially true for our students with disabilities. In addition to the overall early childhood investment, the administration has committed $67.5 million growing to $82 million by Fiscal Year 2032, expanding special education services. This investment gives our students with disabilities a strong start and allows us to better serve them within schools.
+
+Additionally, this budget bolsters rigorous academics via New York City Reads and New York City Solves with a $17.3 million investment that will transform reading instruction for an additional 104,000 students and math instruction for an additional 102,000 students. This funding includes $6 million to improve culturally responsive practices for teacher preparation, building on this Council's support for the Black Studies Curriculum, the Latina Dad Curriculum and the Hidden Voices resources. We are bringing high quality, truly integrated instruction to classrooms across our City.
+
+Our focus on student support extends to college and career pathways as well. In partnership with community providers, we are preparing over-age and under-credited students for economic mobility through Learning to Work, which will now be funded with an additional $31 million in baseline funding. I also want to address a topic that I know is on many principals' minds: hold harmless. Providing schools with stability and predictability is a top priority. To that end, as we prepare to release schools' initial budgets, which will be released next week, schools will continue to be held harmless.
+
+As I mentioned, engagement is a critical function of my vision and I look forward to opportunities to engage schools, communities, this Council and others about how our school budgets work to ensure that long-term fiscal stability and comprehensive support is available. Finally, this budget also reinforces the essential operations that undergird our programs, are priorities and keep our 1,600 schools open, safe and running smoothly, with over $390 million in baseline funding towards school cleaning, leases, utilities and facility maintenance.
+
+While we are extremely grateful for these tremendous investments, this budget also saves in line with the Mayor's Executive Order 12. The Fiscal Year 2027 Executive Budget advances a comprehensive savings strategy that streamlines work efforts, strengthens fiscal discipline and better aligns resources with student needs, generating significant savings of nearly $1 billion. Today I would also like to speak to budgetary and legislative decisions from the State that impact foundation aid. We deeply appreciate the increase in weights for students in temporary housing and foster care. We will continue to advocate and partner with the State for further changes to the formula,
+
+**(02:35:41)**
+
+
+
+including a regional cost index increase and an increased weight for students with disabilities. The extension of the implementation timeline will also allow us to execute our capital and hiring strategies sustainably and with fidelity, building on the progress we have made since my last testimony.
+
+Specifically, we have worked shoulder to shoulder with the State to create a multiyear plan for all schools with class size related space needs. This work, which strategically blends capital and non-capital strategies, will be detailed in the Class Size Reduction Plan, which will be released next week. Additionally, we are continuing to hire staff to meet the mandate. This includes allocating funding to hire more teachers and investing nearly $17 million in Fiscal Year 2027 for teacher recruitment, enabling us to expand programs like New York City Teaching Fellows, the same pathway I took to become an educator.
+
+I also want to thank the State for its extension of mayoral control, an essential ingredient for equitable transformation of the leadership of our schools. Let me be clear: the other critical component is family partnership. The Mayor's Executive Budget reflects that with $3.2 million allocated in Fiscal Year 2027 towards family empowerment initiatives. Engagement is central to who I am as a leader and I believe mayoral control and local decision making are both vital to effective governance and must complement each other here in New York City.
+
+I want to thank this Council for your continued partnership and support of our schools. I have had the privilege of meeting so many of you and seeing you at schools and community events. Your dedication is making a positive impact every single day. I want to especially thank Chair Dinowitz for his leadership of the Education Committee. Thank you all for your commitment to young people and I look forward to answering your questions. Thank you.
+
+**(02:38:12)**
+
+
+
+Great. Thank you. Passing it off to Speaker Menin to ask her questions.
+
+**(02:38:20)**
+
+
+
+Okay. Thank you so much, Chancellor. I have got a number of questions and I know my colleagues do as well, so thank you very much for your testimony. I want to begin with some questions around contracts. Since we had the first preliminary budget hearing, the Council has repeatedly requested additional information about contract spending. As you know, we did not receive a reply to our questions until late last week and the limited analysis that was provided was very short on detail and not responsive to all of the questions that the Council had. So my first question is, why is it taking so long for the Council to get answers on this and when can the Council expect answers to our remaining questions about the contracts?
+
+**(02:39:08)**
+
+
+
+First of all, thank you so much for this question and I deeply understand and hear your frustration. The initial read of the question was, you know, we were looking at what it would take to supply more than 600 contracts in detail to the Council. It was initially set up as a very laborious process that our team was looking into and did not necessarily have the resources to get to right away. So I am going to turn it over to Alicia to talk a little bit more about that and then I will come back to share some of the plans we have going forward.
+
+**(02:39:53)**
+
+
+
+All right. Thank you, Chancellor, and good morning, Speaker. As the Chancellor stated, I think there were about 600 plus contracts requested and each of those contracts are like hundreds of pages long. The challenge that we have in a very resource constrained environment is that it would require dedicated resources and would take months for us to pull, because we are pulling it from a secure system that very few people have access to. So as an alternative we offered to provide requests for authorizations because they are pretty much a concise summarization of each of the contracts. It includes the pertinent contract terms, including the contract value, and we were hoping that the Council would accept that and choose a subset of those contracts that we could pull and we would be able to turn it around much more quickly.
+
+**(02:40:45)**
+
+
+
+I mean, I just find this troubling. Of the 600 contracts, we are not asking for a printed copy, we are asking for a file of the contracts. I mean, this should take like an hour of work to do and it has been months since we asked to get a copy of the online file that has the contracts in it. This should not... I mean, I just find it astounding that this has taken months and that we still do not have these answers.
+
+**(02:41:12)**
+
+
+
+I completely understand, but it actually does take time. We have to download the contracts from a secure system and not very many people have access to that system, so it would not take hours, it would actually take months.
+
+**(02:41:23)**
+
+
+
+But the fact that not a lot of people have access to the system in and of itself also raises a concern. As I mentioned in the hearing, I asked if there had been any auditing of these contracts and I know your response was there had not, and that is, I guess, what is concerning me. That is why it is very hard for us to do our Charter-mandated oversight function if we cannot even have...
+
+**(02:41:48)**
+
+
+
+I am completely committed to doing, as we have offered, really making sure that we have consistent briefings with you on this and rolling over time so that we can do sections of the big ask that you have. That is where I am committed, and that we have an ongoing conversation, a rolling conversation, with all of the data that you have requested. That is in addition to the briefing that we offered earlier.
+
+**(02:42:29)**
+
+
+
+Okay, with all due respect, Chancellor, I think you know we are not interested in a rolling conversation. We are specifically asking for the contracts, which numerous councils have asked for data about other contracts in the past. This is not some kind of new idea. This is again basic, rudimentary data that should be provided to the Council and I am not sure why we are getting stonewalled.
+
+Well, I can assure you we are not stonewalling. I think that as you said we did provide more recently a summary of a lot of the terms of those contracts and if that does not suffice, we will definitely... And it sounds like it does not suffice. I mean, again, we are asking as we asked in March for the contracts. I do not think this is in any way unreasonable. This is a very reasonable ask and it is concerning that we are not getting this data. We do not want a summary of what the terms said, we actually want...
+
+**(02:43:27)**
+
+
+
+...the contracts. Okay.
+
+**(02:43:29)**
+
+
+
+Okay. Thank you very much. The Department of Education's contract budget, as you know, totals $12.9 billion, and that is one of the reasons why we are interested in it. It is a very significant number, so we want to be able to see some of these contracts so we can understand what is happening. We know that in contract spending for charter schools and contract spending for due process cases, the Council's analysis of Fiscal Year 2025 contract spending from Checkbook suggests that at least 40% of contract spending was through non-competitively bid contracts. We know that Checkbook is not a one-to-one comparison, of course, but this analysis was limited to contract spending for which a procurement method was available. The Council's estimate of 40% differs significantly from what was indicated, which was that only 10% of contract spending is through contracts that are not competitively bid and only 12% of contracts are not competitively bid. So how do...
+
+**(02:44:36)**
+
+
+
+...you explain this large discrepancy?
+
+**(02:44:41)**
+
+
+
+So I will address that. I believe it was 12% that we had reported, and I will address that.
+
+**(02:44:47)**
+
+
+
+I had addressed that at the last hearing. It was only referencing that it was 12% of the total contracts and I was not necessarily addressing contract spend. So without seeing the data that was pulled from Checkbook, I am unable to really assess whether or not...
+
+**(02:45:05)**
+
+
+
+...what? Sorry, I am not understanding the distinction between the 40% that the Council is finding from Checkbook versus the 12%. Is that 40% of spend or 40% of the contracts?
+
+**(02:45:17)**
+
+
+
+So that is contract spending. So you are saying your 12% figure was related to the actual number of contracts?
+
+**(02:45:25)**
+
+
+
+Got it. Okay. Could we get the contract spend number so that we have an apples-to-apples comparison? Okay. Could we please get that in the next couple of days? We would like to see it. We want to get that information expeditiously. Yes. Okay.
+
+**(02:45:46)**
+
+
+
+So the fundamental question is, why is some contract spending that is clearly not competitively bid not included in the Department of Education's accounting? The $13 billion that you quoted does include, as you stated, due process cases and charter schools, but in both of those areas they do not actually go through our procurement process. So what we tend to do is just parse it out because those are mandates that we have to meet.
+
+**(02:46:20)**
+
+
+
+Okay. The Council's analysis of Checkbook data found that in Fiscal Year 2025, another 21% of contract spending came from contracts that were renewed. Again, considering only contracts for which there was data on the procurement method, does the Department of Education track the portion of renewal contract spending that is competitively bid? Do you think... sorry, can you repeat that?
+
+**(02:46:44)**
+
+
+
+Does the Department of Education track the portion of renewal contract spending...
+
+**(02:46:50)**
+
+
+
+...that is competitively bid? I do not necessarily know that we report out on it, but we do keep track of it. Okay.
+
+**(02:47:01)**
+
+
+
+Can you also then provide to the Committee that statistic?
+
+**(02:47:06)**
+
+
+
+So you want the spend on contract renewals?
+
+**(02:47:10)**
+
+
+
+Yes, exactly. Okay. I want to move on to the New Visions portal contract. The savings plan includes a reduction of $0.9 million in Fiscal Year 2027 and the out years for contract reduction. We have heard that this cut is targeting the New Visions data portal. Former Chancellor Ross Porter wrote an impassioned op-ed, that I assume you probably saw, about the value of the New Visions data portal in schools, which integrates data across agencies in support of student planning, program management and analytics. The Council would obviously be extremely disappointed if this contract was cut next year. Can you confirm if the savings is cutting the contract for the New Visions portal?
+
+**(02:47:53)**
+
+
+
+Yeah, so I can confirm that that was the recommendation on behalf of the cost savings team. I will say that we have since had significant conversations across agencies as well as with New Visions to really think about opportunities for moving forward in a way that would be sustainable and advantageous, first of all to us. Because despite the fact that it is used across agencies, all of the cost sits with the Department of Education. So we want to have a conversation with the vendor as well as with our agency partners about how to move forward. We are involved in those discussions and we are hopeful that we can get to something that does not involve the disruption of it being cut.
+
+**(02:48:57)**
+
+
+
+We are not exactly there yet. I know it will not be cut, but we are having significant conversations. I will tell you that I value the New Visions portal. One of the reasons it was put up as a potentially reducible resource is because it is used by administrators in schools and by central, but not necessarily as much by teachers in schools. But I recognize the great utility of the New Visions portal. Okay, moving to...
+
+**(02:49:39)**
+
+
+
+Parity for early childhood education workers. What is the average salary and working hours for the workforce by setting, including contracted home-based providers, contracted providers and NYCHA surrounding programs? Yeah, first...
+
+**(02:49:55)**
+
+
+
+Of all, thank you for the question. We recognize the need in this area, the great need. These are some of our most vulnerable employees and that is moving as a really important issue. So I am going to turn it over to the Chancellor to talk a little bit more about
+
+**(02:50:19)**
+
+
+
+this. Thank you, Chancellor. Thank you, Speaker. So we are working really closely with the Mayor's Office of Child Care and Early Childhood Education, Speaker, to get that data set. I want to be clear that there is a subset of the provider universe that lives within and partners with New York City public schools. We do not manage the full gamut and so it is difficult to understand what that average true cost is across the settings. We are working with the Mayor's Office.
+
+What we can say is that it does vary, to your point. We have a subset of a provider base that are contracted and center-based programs. Those that are unionized with DC 37 have one rate, those that are non-union have a different rate, and then our colleagues in New York City public schools working in schools have a separate rate of pay which is dictated by the collective bargaining agreement. The hours vary across these settings, so I cannot give you that number, but we are going to work to provide more consolidated data. I also want to reinforce that we are in full support of compensation parity, going beyond that of pay, but understanding that some of our provider partners do not even have select insurance to support their staff. We are in active discussions with the Mayor's
+
+**(02:51:39)**
+
+
+
+Office. I am very concerned about the collection of this data. It has to be collected. We have to understand this issue because if we ever want to get to universal child care... this Council has worked for years. We passed a whole package of bills back in 2022 mandating universal child care. So this is not a new issue for us. We have been hammering on this issue of pay parity for many, many years. So I am concerned that we do not have that data. Do you intend to collect data either through a survey, the contracting process, perhaps in partnership with... Speaker,
+
+**(02:52:19)**
+
+
+
+that data would not live with New York City public schools because we are talking about the entire system of early care and education. So we are very excited that the Mayor's Office of Child Care and Early Childhood Education is really interested in leading this effort. So yes, we will be pursuing that.
+
+**(02:52:35)**
+
+
+
+Data. Okay. I am going to move on to other topics and then turn it over to my colleagues and come back in a second round. So, Chancellor, thank you for coming to our District 29 conference for Kids Rise and for what you have done as superintendent in District 13 to support the program. We believe it is so important to expand upon this program and we want to understand what can we do to better support schools to work with families to view and activate their New York City Kids Rise
+
+**(02:53:13)**
+
+
+
+accounts. Thank you, Speaker. As you know, the last five months have seen the largest increase in activation for New York City Kids Rise accounts and the red cards that they keep. So I am committed to the program and we have done significant work with our superintendents and worked with our partners at Kids Rise to ensure that our schools are continuing to give the necessary resources to parents that they need to be able to
+
+**(02:53:48)**
+
+
+
+sign up and activate their accounts, specifically in our most marginalized populations. So we are absolutely working on that and committed to doing more.
+
+**(02:53:59)**
+
+
+
+Okay. I want to shift gears. It was reported last week that former District Eric Deputy Superintendent Mariela Gray Graham split contracts with the same vendor to bypass the typical financial oversight of the contracts. The contract with this vendor resulted in the placement of a former employee with substantiated charges of sexual misconduct in a Manhattan school. So this incident, of course, raises concern that there may be a more widespread practice of contracts being broken up to avoid appropriate spending scrutiny. In fact, a SCI report on the matter noted that schools are systemically plagued by vendor check splitting and other procurement problems. The report concluded, quote, violations of procurement rules often resulted in financial losses, led to state and federal prosecutions, and prevented the department from working with the most qualified vendors at fair market prices. Can you describe your typical procurement protocols and how that differs for contracts over and under $25,000?
+
+**(02:55:03)**
+
+
+
+Thank you for the question. Before I turn it over, I want to address the specifics of the question you raise. You know, I have devoted my career to expanding opportunities for young people across the City. I want to focus on building a public school system for families that does not sacrifice the education of our children for bureaucracy. But having said that, I do regret the lapses in policy and procedures that took place when I was a superintendent in District Eric. The actions in question were undertaken in pursuit of educational opportunity for children, not to benefit the district. While our current system in New York City public schools tries to strike a balance between system-wide purchasing and ensuring that schools and districts have a level of autonomy to handle day-to-day transactions as well as their vision, we have a critical need to strengthen and improve purchasing practices across our system. As a Chancellor, this is something I am really going to be deeply focused on. I am working to make sure that it is easier to truly deliver for students with training and oversight that is enhanced but supportive, not punitive. So I want to turn it over to Alicia to talk a little bit more about the procurement process and the $25,000 threshold.
+
+**(02:56:50)**
+
+
+
+Good morning. Alicia Maloney. I forgot to state that earlier, so let me state that now. You know, schools have autonomy because it is seen as a way to allow schools to get the goods and services that they need as quickly as possible. With that, schools have what we would call a non-contractual spend threshold of $15,000 for goods and $25,000 for services with an individual vendor, provided that they follow the proper standard operating procedures for purchasing.
+
+For any spend above that $15,000/$25,000 cap, there are specific types of procurement methods that they are supposed to initiate when they know that they have a need for a good or service. So I would say at the simplest form, up to $100,000, schools are allowed to initiate what we call a simplified procurement process. It is probably the simplest and the fastest. It does not require going to PEP and it also does not require controller registration. Anything above that has to go through a formal procurement process. Primarily the preferred process would be a competitive bid, but we also have negotiated services and we have multiple task award contracts. The multiple task award contracts are the contracts that are primarily used at the school level. It is a competitive process, but when it is initiated and a vendor is awarded a contract, it serves as a kind of pre-qualified list of vendors who can provide a good or service. So a lot of times you will see contracts in that category that are for professional development, for assessments and things of that nature.
+
+Schools also leverage what we call a listing application, which is essentially a sole source contract. It is used for textbooks and educational software because those items tend to be proprietary and you cannot purchase them anywhere else. Once a procurement action is initiated by a program office, they work closely with my team to go through all of the necessary steps and processes that are outlined in our procurement policy. That would mean releasing the bid, receiving and analyzing those responses, evaluating them and then moving toward award.
+
+Once the contract is awarded, we go through another due diligence process where we are doing background checks to ensure that the vendor is responsible. All vendors are required to go through a data privacy protocol and they have to sign data privacy agreements. Once they are done with that, we present those contracts to the Panel for Educational Policy. We meet with the Panel before the actual Panel vote to give them an overview of each of the contract items that they are going to vote on. Once we are done with that, we hold the public Panel meeting and they vote on it there. Once it is approved by the Panel, we enter into the contracting stage. Once we get to the contracting stage, that is where additional negotiations occur. Once we have finalized that, it gets submitted to the Comptroller for registration.
+
+**(03:00:28)**
+
+
+
+Okay, that is just the cliff notes. Yeah, I mean, that is a very cliff notes version of it. Sure. A couple of follow-ups on that. You mentioned textbooks as an example and you mentioned that they are proprietary. Why would textbooks be a proprietary sole source? That seems kind of commonplace. Why would they be proprietary?
+
+**(03:00:45)**
+
+
+
+Because oftentimes textbooks are proprietary to the actual publisher and oftentimes you can only purchase those items from the publisher. That is the definition of a sole source. If I cannot purchase it anywhere else but with that particular vendor, then that is a sole source. It is not competitive.
+
+**(03:01:04)**
+
+
+
+Then how do we ensure that the staff with the authority to sign contracts that are not competitively bid are not improperly splitting payments to avoid standard procurement protocols? Repeat the question again, I am sorry. So it goes into the questions that I was formally asking the Chancellor, which is how do we ensure that the staff with the authority to sign contracts that are not competitively bid are not improperly splitting the payments to avoid the standard procurement process? So...
+
+**(03:01:35)**
+
+
+
+I think you are referencing the non-contractual procurement violations. So we provide training to staff who have the authority to initiate procurement actions. In addition to that, we also have standard operating procedures. Now what I will say is that, you know, clearly if these things are happening then there is always room for improvement. As a part of the procurement reform initiative that was recently launched in New York City public schools, we are looking at ways to strengthen oversight of the practices at the school level and, you know, in order to identify those inefficiencies. We are also seeking to strengthen our training, primarily focusing on ensuring that training is occurring on an annual basis and that it is certified, and also strengthening the training around what we deem
+
+**(03:02:25)**
+
+
+
+as non-contractual purchasing. In addition to that, we are also looking at ways to modernize our procurement infrastructure. We are looking at ways to centralize and also making upgrades to our existing procurement technology.
+
+**(03:02:43)**
+
+
+
+So just building on what you just said, there is currently an effort underway to review the existing procurement protocols. You mentioned an annual training, but is there more to the procurement process to prevent these things from happening in the future? Yes, we are in the preliminary stages of developing that. Yes, it does not yet exist, but there is...
+
+**(03:03:09)**
+
+
+
+there is an actual procurement reform that is focused on these things to increase transparency, primarily at the school level. We also think that centralizing the procurement function itself will increase transparency and accountability and
+
+**(03:03:23)**
+
+
+
+visibility. Okay. So just in closing, I would just say you mentioned you are in the preliminary process of reviewing that. I would like to get an update on that, so an update to my office directly and to this Committee on exactly what is happening to reform the process. I have more questions but want to pass it over to our chairs now.
+
+**(03:03:42)**
+
+
+
+Great. Actually, I wanted to just piggyback off the Speaker's questions on the procurement because I love talking about this topic. But have you also looked at... because I know it is a separate system from what MOX has with Passport and all of that, right? Have you gotten feedback from providers and different folks who maybe use both systems, who can then look at it and say, here are some best practices from either that would actually help us to streamline things so that we are not spending so much time working on this? I think that would be helpful to maybe go back to the community groups that use the system and try to get their feedback if you are in the preliminary stages. I am just wondering what the input is from that side.
+
+**(03:04:23)**
+
+
+
+We have not gotten to that stage yet. I mean, right now we are really invested in trying to find a replacement system. The way that Passport is configured to date, it is not really functional for our use. Yeah, nor would I suggest it. So we are engaged in conversations with City Hall's innovation team and the Mayor's Office of Contract Services to develop a plan or a pathway for replacing our procurement system because I think that is one of the biggest challenges. It is one of the reasons why we do not have as much transparency and visibility as we would
+
+**(03:04:57)**
+
+
+
+like. The only reason why I suggest that is because I know that oftentimes the providers are using both systems and so I would be curious to see what overlap there could be to streamline things. Then also on that note, I think you had mentioned, if I heard you correctly, that at some point in terms of the process the PEP needs to vote on it, but before it gets to that point where they have to vote on it, I am assuming, and correct me if I am wrong, that they have already gotten a download and have been prepped beforehand on the different groups that are part of it. In other words, they are part of the process so that it is not a surprise.
+
+**(03:05:33)**
+
+
+
+Right, correct. So we do hold briefings at least one week prior to the actual Panel session and the actual agenda is posted publicly 10 days before the actual meeting, so it gives them time to read through the proposals and ask as many questions. After we have the briefings, we often follow up with additional responses to questions that arise during those meetings.
+
+**(03:06:01)**
+
+
+
+Okay, so one week before actually seems like a pretty short period. The only reason I am saying that is because it seems like you all on your end have to go through all these arduous steps before you get to that point. So I am just wondering if there could be that input beforehand, because then the last thing you want is to go through this entire thing and then have them not like the final bidders or
+
+**(03:06:23)**
+
+
+
+whoever. I completely understand what you are saying. But I mean, it takes about a year for us to even get to the point where we can present it to the Panel and we are generally scrambling. But again, we are looking at ways to streamline our processes. So maybe it is something that we could incorporate that would allow us to do it, but I cannot make that promise.
+
+**(03:06:42)**
+
+
+
+Right. No, I get it. And why does it take so much longer versus other City agencies? I mean, just to simply ask.
+
+**(03:06:49)**
+
+
+
+Well, the process is relatively long.
+
+**(03:06:54)**
+
+
+
+Right, you know, releasing
+
+**(03:06:56)**
+
+
+
+bids, awarding them and then, you know, oftentimes when we release a bid we are awarding contracts to multiple vendors and that in itself can take some time. So you have to ensure that once we award a contract, we have to do negotiation on pricing. We also have to do background checks that can be pretty extensive. Even if something comes up in that background check process, we have to do our due diligence by going back into the investigation to ensure that when we deem a vendor responsible and responsive, we have taken all of the necessary steps that we are required to take to ensure that these vendors can actually work with our students and in our schools.
+
+**(03:07:40)**
+
+
+
+Right. I will say, I think in terms of this, plus the purchasing power that the DOE has in the procurement process, I wonder if this is an area where technology can maybe play a part. Understanding that legally there are certain mandated steps you need to take, but maybe truncating the amount of time that it takes in between each step would be great to look at. We would love
+
+**(03:07:59)**
+
+
+
+to be able to do that, but we would have to make sure we are leveraging it responsibly. Of course.
+
+**(03:08:06)**
+
+
+
+First of all, General Counsel, I swear to tell the truth and all the things. Thank you for letting me add to this, because my office has actually, for a variety of reasons, been pretty deeply engaged in our procurement processes and school and district level purchasing over the last few years. We have actually been doing kind of a healthy assessment, so to speak, to see how strong and robust our practices are in terms of protecting against fraud, but not only for that purpose. Also for the purposes that you are identifying, which is to help communities understand better how our procurement process works, to level the playing field for vendors so that we are expanding opportunities for businesses around the City and organizations around the City to work with us, to make sure that bad actor vendors who we may be able to identify but would not necessarily be visible to a school are identified and referred where appropriate.
+
+So all of the things that you and the Speaker are pointing to are elements of this very complex and vibrant ecosystem. I think I have a certain amount of pride in the core soundness of the apparatus given the size and scale of what we are doing. It is so complex. But at the same time, just to echo the Chancellor's point about trying to find that balance between efficiencies, oversight, central visibility and consistency across the system versus schools and districts knowing their individualized needs better than anyone else, the reforms and oversight that you and the Speaker and Alicia have referred to are all part of that. Thank
+
+**(03:10:07)**
+
+
+
+you. And also, sorry, we have been joined by CM Epstein, who I forgot to mention earlier. Sorry about that, as well as CM Gutiérrez and Marty. So I am just going to quickly shift to mental health, both on the continuum as well as the school-based
+
+**(03:10:22)**
+
+
+
+mental health clinics. So what are your thoughts on the importance of extending funding for the mental health continuum and what would happen if the $5 million funding is not restored, which I know we talk about this every year. But I love this program and I know you all do too. So I wanted to know if you could
+
+**(03:10:38)**
+
+
+
+speak to that. Well, the idea of mental health and what our young people need on that continuum is really critical and something that, as I have become Chancellor, is even more profound as I see firsthand how our young people are doing. We are deeply committed to it. We have resources that we have dedicated to mental health within our system and I want to turn it over to Deputy Chancellor... to talk a little bit more about this.
+
+**(03:11:22)**
+
+
+
+Good afternoon, and members of the Council who are here today. We do agree and value the City Council's commitments and partnership to this work. I want to emphasize again that this specific program is a shared support, so it is a combination of resources that go into Health and Hospitals, the Department of Health and New York City Public Schools, and only a smaller percentage of the funding comes to New York City Public Schools because the clinical services are actually residing within Health and Hospitals. So we believe in and value the partnership. We understand that our young people are navigating challenges and making sure that they get the help that they need quickly is critical. For those 50 schools that have benefited from this program, not only have we been able to onboard 16 Article 31 clinics in addition to the other clinics that reside in New York City Public Schools, we are servicing over 400 schools in total.
+
+**(03:12:30)**
+
+
+
+And then actually, that is a perfect segue to the school-based health clinic question I had, which is you said 400 — wait, 400 schools was for the overall continuum of support, and 50 schools, right, primarily in the... bill, and those 50 schools are supported in two ways. For clinical support they are supported
+
+**(03:12:52)**
+
+
+
+by the expansion of clinicians in some of the hospitals, which are Lincoln Hospital, Morrisania, Kings County, Woodhull and East New York. So the students who did not get access to the clinical support there, we then embedded 16 school mental health clinics into the schools. That is separate and apart from the other plethora of clinics that already exist within the school system, and then
+
+**(03:13:19)**
+
+
+
+for the school-based mental health clinics, how many students have been served so far in fiscal year 2026 in terms of the
+
+**(03:13:26)**
+
+
+
+continuum? If that is what you are speaking to, the mental health overall clinics are under my colleague here, but the continuum itself — we have a total of 2,330 clinical services that have been provided this year and that includes a range. Perfect, and
+
+**(03:13:44)**
+
+
+
+then for the school-based mental health clinics, how many have been provided?
+
+**(03:13:51)**
+
+
+
+I do not know how we can look into that and how that is tracked. What I can say is that out of the 250 clinics that we have, they service approximately 400 schools and around 180,000 students and staff, in addition to our social workers and our school counselors that are also part of our ecosystem of mental health and wellness support. Because I do want to echo that those services are tiered — not every student will necessarily need a clinical intervention. But when we need it, we have, I think, a very robust footprint. We need to continue to do more so that our parents know all of the supports that exist within the system and children are getting those direct services from our
+
+**(03:14:38)**
+
+
+
+schools. Great. And then, at least for the school-based mental health clinics, they are mostly Medicaid reimbursement. So what are the services that are not covered under the Medicaid funding? Sorry, let me re-ask. So the school-based health clinic services that are excluded —
+
+**(03:15:08)**
+
+
+
+how many are excluded from the Medicaid reimbursement? But that is what the Article 31 covers, right? Correct.
+
+**(03:15:13)**
+
+
+
+Okay, so the Article 31 reimbursement — and what is the gap, if any, for services in the school-based health clinics that may not be covered by the reimbursement?
+
+**(03:15:24)**
+
+
+
+We can get back to you on specific questions about the reimbursement. What I do want to note is that we also have an ecosystem of social workers across our school system that are working in-house, and that is another layer of support that can get things done. If you want more specific details about the reimbursement, we can definitely get back to you on that. Okay, perfect.
+
+**(03:15:49)**
+
+
+
+Especially with a lot of the Medicaid cuts coming down the line. For the savings plan, how many of the 97 filled central pedagogical positions are affected and which divisions are impacted or excluded?
+
+**(03:16:06)**
+
+
+
+What initiative are you referencing? Sorry.
+
+**(03:16:13)**
+
+
+
+Well, based on the savings plan — hold on, let me just bring up more detail on the question. Hold on, let me just read this. Okay, trying to keep this... yeah, the items under consideration for reductions. Okay. So actually let me just go through this. The plan includes — correct me if I am wrong — savings in fiscal year 2027 which grows in the out years, and the majority of the savings plan relies on cost containment in class size, due process cases, spending reductions and other spending efficiencies. So out of this large savings plan, which items were identified by the Chief Savings Officer and were any of these savings identified by... how did you and OMB work together on the savings plan? So all savings proposals were submitted by New York City Public Schools in collaboration with City Hall and OMB. Okay. And they were all accepted? Yes, they made it into the plan. I am happy
+
+**(03:17:31)**
+
+
+
+to continue. There is a $2 million savings for a reduction in central headcount, which would move some pedagogical positions out of central administration into unfilled school-based positions. So according to DOE data, there are currently — this is what I meant, sorry —
+
+**(03:17:46)**
+
+
+
+so according to DOE data, there are currently 97 filled pedagogical positions in central across multiple divisions. So how many of these positions are they planning to move and
+
+**(03:17:56)**
+
+
+
+eliminate? Yes, thank you for the question. You know, one of our values is to make sure that we are really supporting schools with our human resources and getting our teachers and all of the pedagogical staff closer and closer to schools. I think, Michael, you might need to be sworn in, but I am going to turn it over to Michael to talk about
+
+**(03:18:23)**
+
+
+
+this some more. Good morning. I do solemnly swear to tell the truth. Thank you. But yes, on the reduction — are you talking about the reduction of central staff or are you talking about just the
+
+**(03:18:38)**
+
+
+
+— I want to clarify because there are multiple. So according to the data, there are currently 97 filled pedagogical positions in central across multiple divisions. So how many of these positions are we planning to move
+
+**(03:18:48)**
+
+
+
+and eliminate? We will look at various titles, so we are going to work with our program offices to achieve the savings
+
+**(03:18:55)**
+
+
+
+target. So you are saying 97 pedagogical positions? Yes, currently 97 filled pedagogical positions in central across multiple divisions. I am not familiar with that data that I am not
+
+**(03:19:10)**
+
+
+
+familiar with on the...
+
+**(03:19:11)**
+
+
+
+part. Okay. So which divisions potentially could see a reduction in pedagogical headcount? Well,
+
+**(03:19:17)**
+
+
+
+this is going to
+
+**(03:19:18)**
+
+
+
+work with the divisions across all teams to make sure that they identify — it is going to cross various titles. Vacancies that have not been filled for some time are going to be the first ones that we prioritize. Okay.
+
+**(03:19:28)**
+
+
+
+So this has not been finalized yet?
+
+**(03:19:32)**
+
+
+
+The central groups are working with teams on that now, to roll it out in the next fiscal year.
+
+**(03:19:36)**
+
+
+
+Okay. And I know that it is often helpful to have the pedagogical staff in central, which is something you all were talking about, I think, at the meeting last time, in our district when crafting the programming for specific student populations. So how do you ensure that the savings plan will not negatively impact that work? So throughout our process of looking through savings, even proposing and submitting them,
+
+**(03:20:04)**
+
+
+
+we wanted to make sure — one of the key things the Chancellor wanted to make sure — that there was no disruption to the schools whatsoever.
+
+**(03:20:13)**
+
+
+
+Okay, so no disruption to the programming or services. Great. Okay, which is what we wanted. That is correct.
+
+**(03:20:18)**
+
+
+
+Okay. Also, the plan includes a vacancy reduction plan, which includes cuts in the school support unit, and this savings is associated with 197 civilian positions set to be cut from the school support unit. So what types of positions are being eliminated there? I think this goes to the earlier question — we are working with the program teams across various titles, prioritizing positions that have been unfilled for some time, and working our way through
+
+**(03:20:48)**
+
+
+
+that process. Okay. To be clear, these are positions that were never filled, or
+
+**(03:20:54)**
+
+
+
+yes, that is where we are prioritizing and starting to work through, and then
+
+**(03:20:58)**
+
+
+
+if you could — so this will not reduce the budget headcount for social workers, guidance counselors or other similar positions in the schools? No. Okay, so
+
+**(03:21:10)**
+
+
+
+what is the current vacancy rate for social workers and guidance counselors, or any of these vacant positions identified for the savings plan? We can get back to you on that number.
+
+**(03:21:22)**
+
+
+
+Okay. Can you confirm that none of — great, we can confirm that that is not a part of the savings plan — okay, guidance counselors and social workers in schools. Perfect. Okay,
+
+**(03:21:33)**
+
+
+
+and the fiscal year 2027 budget includes a reduction which grows in the out years due to transportation route optimization. How is this being done without disrupting service, which is something the Council is constantly fighting to improve? This came up in the last hearing as well. So
+
+**(03:21:59)**
+
+
+
+thank you for this question. I think about our bus routes and our bus contracts — we have, obviously, decades-old contracts, as the Chair talks about. We have over 9,000 routes that we do every day for 150,000 students. This is something that I have probably learned the most about of all topics since becoming Chancellor. Thinking about the modernization that we need to do and how we make our bus routes actually more efficient, I am going to turn it over to Deputy Chancellor Kevin Moran to speak a little bit
+
+**(03:22:38)**
+
+
+
+more about that. Good afternoon, everyone. I want to thank you very much for that question. The modernization began here in this chamber in 2018 with a series of local laws. In 2019 it was Local Law 233 and 34, bringing in other pieces of information that were not adequately transparent and where we could not see accountabilities. So over the past many years we implemented this modernization effort, one of which is actually having drivers log in each day when they drive the bus — that is up to 95%. I want to thank our drivers across all our companies who are logging in, where parents can now see in their New York City School Bus app where their children are at any given time.
+
+Nine hundred bus routes this school year started what is known as ridership tracking, where students can actually badge on the yellow school bus and badge off, so we can determine time traveled. What happens this fall as we start our routing optimization is all predicated on our STRIDES program, which is our modernization program that took all 39 legacy systems and put them into one system, so you can actually do something with the data that we are collecting that was not spread across disparate systems.
+
+So now for this effort, we are actually going to, for all of our curb-to-school — which is door-to-door bussing — do the routing optimization. What that will do is allow us to reduce routes and travel times. Our students have 37% more time to get to school than their general education peers, and so what we want the routing algorithms to do is to reduce travel time and find efficiencies. But I think it is important to realize our standard operating procedures may not be driving this at the school level. What relates to this specific issue is that by default, a student with transportation needs is defaulted into the smaller bus settings rather than being exposed to a continuum of least restrictive environments. So students could get on a smaller bus at age four and graduate high school at 22 years old in the same small passenger bus. So what this effort is to do is introduce,
+
+**(03:24:54)**
+
+
+
+where appropriate and where comfortable, more of a less restrictive mode of traveling, so that is ultimately cheaper. We do anticipate cost savings and ultimately we believe it is the right thing to
+
+**(03:25:05)**
+
+
+
+do. Thank you. I have a bunch of questions on pre-K and 3-K, which I am going to forgo because I have a feeling a lot of my colleagues are going to ask about 3-K and pre-K programming. I will play cleanup at the end if there are any other questions that have not been asked. But I want to just mention that it would be great if we could — as you mentioned, Chancellor, and Deputy Chancellor, sorry, Deputy
+
+**(03:25:31)**
+
+
+
+Chancellor — achieve pay parity across all the different systems. I also have a Bill in the Council about that, comparing the school-based and the center-based 3-K programs. So whatever we can do to bring it as close to similar as possible would be great. And then my last question is just on the Black Studies and Latinx curriculum, which I know has been an effort over the last couple of years that the Council has made. So over the last three fiscal years, the Council has invested a lot of money into the Education Equity Action Plan initiative and the Black Studies curriculum. This curriculum is now in over 400 schools and the curriculum has been fully developed. The Council's funding supports work to update this living curriculum as well as professional development for educators. So how does DOE plan to support the expansion of the Black Studies curriculum to additional schools and how many schools does DOE expect will be using the Black Studies curriculum next school year?
+
+**(03:26:35)**
+
+
+
+Yeah, thank you so much for this question. We are deeply committed to the Black Studies curriculum and the Latinx curriculum, bringing all of the hidden voices and resources together. What we are doing now is ensuring that at the superintendent and principal level there is a pathway for seamless implementation, and the person leading that initiative is sitting right next to me — First Deputy Chancellor Daniel... at the top
+
+**(03:27:05)**
+
+
+
+— more specifically about how we are going to make sure that that happens.
+
+**(03:27:11)**
+
+
+
+Good afternoon and thank you for asking. Since our last time here for the preliminary budget, we have made a lot of progress around the work that we are doing getting our schools and our communities ready for a deeper implementation of these resources. We discussed last time that we have had these resources and we have been building these resources over time, but we needed to get better at helping our district teams and our schools make strong connections so that
+
+**(03:27:37)**
+
+
+
+They are an embedded fabric of the tier one curriculum and not just resources that were being used unevenly. So we have spent the better part of spring deeply involved in professional learning about using these resources. We have also selected some pilot districts to learn deeper about implementation, starting with five. They are coming to an end this month and growing to nine to launch next year.
+
+One of the things that we have done that is really exciting — and this is more like a hot off the press kind of example — is how we can use these resources against the districts chosen here. An example that came out of the work of the social studies team and the literacy teams at central, with the district teams and hitting our schools, is for example in grade four, the question of what makes someone a hero. They were able to bring in from Hidden Voices the story of Sylvia Mendez and her family's fight for desegregation and use that to complement the curriculum and go deeper to help children really understand heroism, standing up for rights, and deepening their engagement in the knowledge-building curriculum with really strong historical figures.
+
+We have been seeing those kinds of stories where we can literally intersect this resource right into the curriculum. We are also doing that with our social studies curriculum. The vast majority of that curriculum is our in-house Passport curriculum. As part of some of the outgrowth of when Chancellor Samuels came in and the transition of the cabinet, we really did survey and talk with our superintendents about the depth with which they were using these resources to help sort of drive these next steps that we are already seeing some outcomes from.
+
+**(03:29:49)**
+
+
+
+And just to add — this idea of how do you integrate New York City Reads with the culturally responsive work that we are doing as part of our implementation process for New York City Reads — we do have implementation checklists that our superintendents use. We are now infusing the Black Studies curriculum, the Latinx curriculum and Hidden Voices into that implementation checklist so that superintendents have an option to be able to see what is happening in their schools and report on that.
+
+**(03:30:26)**
+
+
+
+Okay, that is actually good to know because I know part of the challenge is that it is opt-in, and so the question is how do we get as many principals to offer this curriculum to the students as possible. That is good to hear. And just in terms of how much money would be needed to expand the program and how the Latin studies curriculum can learn lessons in terms of how to get more schools to offer this...
+
+**(03:30:53)**
+
+
+
+In terms of the funding that would be needed, we can get back to you on that. But an interdisciplinary approach to learning experiences for young people, and how do we put the wind beneath the wings around that happening — I think that is a systemic responsibility for us, working with our superintendents and working with our principals to create those experiences for young people. I think there is a desire to actually do this work on the part of our superintendents and on the part of our schools.
+
+I think we have heard that if there is one criticism of New York City Reads, it is really meant for a vast number of people around the nation. The desire for us to get curriculum that really connects with young people in the classroom, that is culturally responsive, is an area that we are really serious about working towards.
+
+**(03:32:06)**
+
+
+
+Great. Okay, I am going to pass it to Chair Dinowitz. Thank you, Chair.
+
+**(03:32:08)**
+
+
+
+Thank you, Chancellor. I have a few questions about a few different topics, but I want to start where Speaker Menin left off. One of the things Speaker Menin brought up is the stories that have come out recently about the procurement contracts and Mariela Graham when you were superintendent.
+
+Of course, I think you have shown time and again over the past few months your ability to confront an issue and say, hey, there are mistakes made. That is exactly what we want students to do, but we also want students and adults alike to be held accountable and know that moving forward changes are going to be made, and also to look back and actually discuss what actually happened.
+
+This is the largest school system in the country. This is the largest agency in the City. It is about a third of our budget. Parents throughout the City — there is a deep level of trust, whether you are a parent or a taxpayer, that we must have in our school system. Parents send their kids to school every day and trust that the teachers in the school system are going to do right by their kids. We pay taxes and we trust that those tax dollars are going to go to where they need to go.
+
+So this is a question about accountability at the top, because it is critical that people are held accountable and that the culture of accountability is set from the very top. Because all the safeguards are all well and good, but they are meaningless unless they are instituted and demonstrated at the top.
+
+Just to make sure everyone knows what we are talking about: according to the report, $386 million in fiscal year 25 were from individual contracts that were below $25,000, which do not hold the same scrutiny as those above that amount. That is a significant sum of money. Over the years there have been investigations, and this is all online for anyone to see, about how people have circumvented these rules in order to be below that $25,000 mark.
+
+In 2024, a principal knowingly approved multiple purchase orders below $25,000 provided by two separate companies that had common ownership. Another principal circumvented the procurement process by approving purchases split into $5,000 increments for two vendors. There were manipulations of bids and artificial competing bids. Another principal circumvented procurement policy. And of course in the case of Mariela Graham, we all saw the articles — she violated several rules by improperly entering into a non-bid negotiated services contract valued at $180,000 with a non-contracted vendor for the purpose of circumventing bid thresholds and the multiple task award contract processes. So there are a lot of layers to this, but I first...
+
+**(03:35:19)**
+
+
+
+If you could tell the committee and the public what your role was during that time.
+
+**(03:35:29)**
+
+
+
+I regret the lapses in policy and procedure that took place while I was the superintendent, and the actions in question were all in the pursuit of educational opportunity. Chair Dinowitz, I think you and I can appreciate that when there is active speculation going on in the press about past investigations and prospective investigations, as counsel it is unfortunately sometimes my job to curb the instincts of our very open and forthcoming Chancellor and to counsel and advise that we are not going to comment on questions involving law enforcement — of course, as a law enforcement matter that is actively open and stirring in the press.
+
+**(03:36:27)**
+
+
+
+Okay, so someone...
+
+**(03:36:28)**
+
+
+
+If I could just finish, because I do want to speak to the broader points that you made. Again, I think you have some of the answer to your question embedded in the question itself. When you talk about $386 million in non-contracted spending, that is across 1,600 schools and however many — 35 district offices — and all of the staff and superintendents. So it is critically important that we identify when someone has engaged in criminal activity or misconduct. We work closely with law enforcement, as I mentioned earlier, when those things happen. But it is unfortunately the case that...
+
+**(03:37:12)**
+
+
+
+There are bad actors out in the world who see our budget and see an opportunity. I do not just want to talk about bad actors. There are systemic problems that I am going to ask about.
+
+**(03:37:24)**
+
+
+
+Agreed. But I think what I am trying to say is it is important to make those distinctions — that there is a very important difference between some of the examples in the report you are referring to, where people were indicted and went to jail, and examples where we discover at the central level that we need to strengthen training, we need to recalibrate how much discretion or decision making about spending happens at the school or the district level as opposed to at central.
+
+**(03:37:54)**
+
+
+
+Thank you for that. I want to talk about accountability. It sounds like this may currently still be under investigation, so I will not ask about that. But I want to ask about Mariela Graham and the decision to promote her, because the recommendation was for her immediate termination due to lapses in judgment. My understanding is she was given a two-week suspension under the previous administration.
+
+**(03:38:23)**
+
+
+
+That is correct. And once again, I apologize, Chancellor, but I am just going to say that is a fact connected to an active — I do not know if there is an active investigation — but I do read the press carefully. What I will say is it is not uncommon. It is my office that receives not only the report but the evidence, the investigative file that comes along with the report, and then makes a recommendation about proper disciplinary action.
+
+**(03:38:56)**
+
+
+
+Is it your office that recommended not to go by the recommendation of...
+
+**(03:39:01)**
+
+
+
+I am not going to comment on what happened in this case. What I will say is that it is not uncommon...
+
+**(03:39:05)**
+
+
+
+I am asking about a closed investigation. My understanding is it is a closed investigation. The recommendation was made. This is outside of any current investigation that may be going on. I am asking about a personnel decision. It is important for this City and this committee to understand that when there is what appears to be illegal activity, we understand why the decisions that were made were in conflict or in contrast to what the recommendations were. So it is a matter of trust and accountability. Thank you.
+
+**(03:39:40)**
+
+
+
+Certainly, Chair. I totally understand the challenge that I face at the moment as counsel is that there is active and, to my mind, somewhat wild speculation going on in the press about whether the closed investigation should be reopened and whether the investigating agency properly fulfilled its obligations. With all of that open, I hope very much that at some point in the future we will be able to return and get into more detail about this situation. But I think it is just too dynamic right now, with too many moving pieces, for me to counsel my client to be as open as I know he would like to be and as I know you would wish him to be.
+
+**(03:40:23)**
+
+
+
+Okay, but just to be clear, I am not the press. I am not asking about press stories. I am asking about the closed investigation that is public. This was from their public website. I did not acquire some secret documentation. This is on their website. Anyone can go to their website and download this. They list a number of things that I want to go through. But it is a question, I think, of judgment and accountability. I think the committee deserves to understand that if the office makes recommendations, what the thought process is — or what it is not — in this case for not abiding by those recommendations, and why this person gets a promotion when it was recommended they be terminated. I think we deserve to understand those thought processes.
+
+**(03:41:06)**
+
+
+
+I agree. I do not disagree. But what I am saying is the matters that you are describing as closed are being discussed in the press as possibly not closed, or possibly something that law enforcement is being encouraged to reopen. You are a lawyer. There could be exposure.
+
+**(03:41:26)**
+
+
+
+It is closed, yes. But my job is not just to look back but to look forward and assess risk and have a duty of care. So looking forward then — looking forward, will the Department of Education make any commitment that if an employee of the Department of Education engages in impropriety and breaks the law but does not go to jail, can they commit that there will be accountability for that person? Because these are our tax dollars. These are our children.
+
+**(03:41:53)**
+
+
+
+Certainly, let us look forward. Chair Dinowitz, an important distinction: the finding did not find that anyone broke the law in this report. The finding was that there was a violation of New York City public schools policy. That is not breaking the law. "Broke the law" suggests illegal activity that could be criminally chargeable. That is not anywhere in or near...
+
+**(03:42:23)**
+
+
+
+This report. Thank you for the clarification. So in the case that someone violates policy which resulted in an adult being in a classroom with children who should not have been there — this adult presented serious lapses in judgment and the recommendation was termination — looking forward, how seriously does the Department of Education take the recommendations of the office? Or are they just recommendations that the Department of Education will not abide by?
+
+**(03:42:55)**
+
+
+
+We always take them seriously. We also have an obligation to have fidelity to the idiosyncrasies of any given case. While I cannot sit here and discuss the evidence that we reviewed that was developed in support of their report, I can tell you that my team and I — I personally signed off on the disciplinary decision that was made in this case.
+
+**(03:43:22)**
+
+
+
+That was your decision? You signed off and that was your recommendation as well? Are you just...
+
+**(03:43:26)**
+
+
+
+I am not going to discuss internal deliberations. I am willing to share the outcome, and that is what it was.
+
+**(03:43:35)**
+
+
+
+I will say it is a very lawyer answer and I understand it, but it is very disappointing. I do not want to belabor this one employee, but this is indicative of problems that do exist. I believe they are more systemic than any investigation will let on, because any professional who works in a school understands a lot of the nonsense that they have seen some principals spend money on. I have been sent on professional developments where thousands of dollars were spent under that $25,000 cap, which deserved a lot more scrutiny than would ever be done under the $25,000 threshold.
+
+Given that, I understand you do not take recommendations for individual employees. They did make recommendations for improving the systems, and that is not under litigation right now. That is not under investigation. So I would like to talk about each of those. You mentioned enhanced training. Currently that training is not required for principals. Is that the policy? Is the Department of Education going to make that training required for principals who deal with millions of dollars in their budgets?
+
+**(03:44:55)**
+
+
+
+This is of course something we have to discuss with our union partners. But in my view, we should, and I hope we will be able to negotiate to that outcome.
+
+**(03:45:05)**
+
+
+
+That is the view that we should. Okay. The office also recommended increased oversight of non-contracted vendors. In what ways has the Department of Education implemented or is attempting to implement this recommendation?
+
+**(03:45:24)**
+
+
+
+Thank you for that. Those recommendations also implied that we would need an influx of resources, and we do not necessarily have that at the moment. This is why, at the top of the discussion when we were talking about procurement reform, one of the ways that we think we could address that is by centralizing the procurement function.
+
+**(03:45:45)**
+
+
+
+Because what centralizing procurement for those sub-$25,000 contracts would do is...
+
+**(03:45:50)**
+
+
+
+Because we will have more... well, you know, that would make me a very busy Chief Procurement Officer.
+
+**(03:45:56)**
+
+
+
+Maybe, maybe not, given some of these answers. I do not know. Well, to some...
+
+**(03:46:00)**
+
+
+
+Extent, right? Because when you decentralize things, it creates pockets of vulnerabilities. I think that is probably the best term — it creates vulnerabilities, because you just do not have the oversight. So I think centralizing the procurement function itself will solve for that to some extent. Now, nothing is going to solve it all, because like I said, we are 1,600 schools. But it creates — it will allow us to standardize processes and internal procedures. It will allow us to strengthen our standard operating procedures and also ensure that we are looking at our policy to ensure that we can tighten things up to minimize these occurrences in the future.
+
+**(03:46:49)**
+
+
+
+Yeah, in an ideal world, right?
+
+**(03:46:51)**
+
+
+
+Because the Chancellor mentioned the autonomy of these schools, and for I think most all of them, that is very important.
+
+**(03:47:01)**
+
+
+
+In an ideal world you want to raise that $25,000 threshold. CM Dr. Nantasha Williams held a roundtable of providers and one of the concerns they raised was that it is hard for them to compete, especially for these sub-$25,000 contracts. My response to them is what I will share on the record now, which is I think it would be great if your companies could more easily do business with the Department of Education. However, we do have this systemic problem of these under-$25,000 contracts, which has not to date been truly addressed.
+
+Unfortunately, we cannot just rely on principals or school leaders volunteering to take training. I think they should be required to take this training and be held accountable. If the office makes recommendations, it is still a puzzle as to why someone who exercised serious lapses in judgment, which resulted in an adult being in a room with children who should not have been there, would continue and be promoted. Has the Department of Education implemented the recommended safeguards to ensure the integrity of bids and procurement documentation?
+
+**(03:48:19)**
+
+
+
+We have implemented a lot of recommendations because, as I stated earlier, it is going to require some structural changes and also some changes to policy. These things take time. So where it is under advisement, we are currently working internally to figure out how we could roll that out.
+
+**(03:48:41)**
+
+
+
+What is a timeline? I mean, you have the best lawyer in New York City sitting right there. What is your timeline?
+
+**(03:48:47)**
+
+
+
+Unfortunately, I do not have a timeline at the moment, but it is all a part of the broader procurement reform strategy. So I will say it is under advisement. They recommended increased scrutiny of sole source procurements, and they made a recommendation that we absolutely agree with, and that is something that I am working with my team on — in terms of ensuring that schools are seeking proper approvals for those items. What does proper approval look like for a sole source? There are instances where vendors will say that they are the sole provider of this good or service, but the truth of the matter is, if an item is not considered sole source — if I can purchase it elsewhere — then it is not sole source.
+
+**(03:49:46)**
+
+
+
+Well, just to be clear, I understand it as: if you are a vendor and you tell me that it is sole source, that is good enough to get in?
+
+**(03:49:53)**
+
+
+
+That is not the case.
+
+**(03:49:56)**
+
+
+
+Okay, please explain.
+
+**(03:49:57)**
+
+
+
+Yeah, vendors tell you that, right? The point is: check Amazon. If you say that you are the only person that sells this pen, it is my team's or the school's responsibility to actually do proper due diligence to ensure that they cannot purchase it elsewhere. If you can purchase it elsewhere, then you can bid it out competitively, because the goal is to ensure that you are getting the best pricing for this item. Just a vendor stating in a letter that they are the sole provider of that good or service — to me, that is not sufficient. I could save you millions of dollars. The most expensive place to buy pens is the most expensive place to shop.
+
+**(03:50:42)**
+
+
+
+Yeah, you do not go to that shop. That is like the website you are supposed to use — one pen, $15. It looks awful. You know, as a former educator, if you want to save millions of dollars, go on that website and watch your eyes bulge out. We are not even allowed to use coupons. No coupons, no discounts, and I cannot go to Staples.
+
+**(03:51:12)**
+
+
+
+You seriously do not know about this? Are you asking me if I do not know about the shop? Of course I know about it. My God. We do not go to a city agency — they have all their free swag. You can go to...
+
+**(03:51:37)**
+
+
+
+Okay, I do want to move on. This is certainly an issue that is of great importance and great concern that we can continue with as time goes on. I hope all the legal issues are worked out so that information can be shared publicly, but also getting a timeline on what those changes are. Three hundred million dollars is no small target to change. If there are ways to improve upon that, and also ideally someday to benefit our schools, that would be the ideal scenario. I want to
+
+**(03:52:17)**
+
+
+
+ask about restorative justice. This is a program that — you talk to any educator, any principal — they love it. It works. Our students love it. It works. It is important. It is important for the social-emotional health and academics of our students. It provides an alternative response to conflicts at schools, including interventions when harm has happened, as well as practices that help to prevent harm and conflict by building a sense of belonging, safety and social responsibility in the school community. This is something I implemented in my own classroom. I not only saw greater community in my classroom, but my test scores went up and engagement in the classroom went up.
+
+The Fiscal Year 2027 budget includes a cut of $6 million for restorative justice, and I want to say that again: a cut of $6 million for a program that works and one that I believe the Mayor believes in and actually campaigned on. What would be the programmatic result if the $6 million in funding in the budget for Fiscal Year 2026 is not added for Fiscal Year 2027?
+
+**(03:53:26)**
+
+
+
+Thank you for your question. I also believe deeply in restorative practices, and I believe that in order to do it well, there has to be significant capacity building, which we have been working on over the last number of years within schools. So there is significant capacity to do this work, and I want to turn it over to Chief Mark to talk a little bit more about that.
+
+**(03:53:51)**
+
+
+
+I swear to tell the truth, the whole truth and nothing but the truth. Thank you for the question, and I appreciate the sentiments from a schoolteacher — from one educator to another — talking about the importance of restorative practices. What you shared is exactly what would be missing if we are not able to continue to restore those funds.
+
+One of the things about the whole notion of restorative work is that the work that goes into it is to really build muscle so that the work can continue. So we do not need to continue to bring in vendors to provide services when we have strengthened all of our adults to continue to apply those practices. You talked...
+
+**(03:54:45)**
+
+
+
+Sorry, I just want to be clear on what you are saying. Are you saying a $6 million cut will not result in any service reductions — that we already have the professionals there to do the work?
+
+**(03:54:54)**
+
+
+
+That is not what I said. What I am saying to you is that the work is important and the foundation of the work is to build the muscle of our staff to continue that work. Yes, it will be painful if the $6 million is not restored. It will not allow us to continue to provide the services to the level that we provide today and continue to strengthen more schools to be able to carry out these practices, change mindsets and do all the things that you just described.
+
+**(03:55:32)**
+
+
+
+It will result in a cut to services to schools. How many schools will lose restorative justice programming if a $6 million cut is implemented?
+
+**(03:55:42)**
+
+
+
+Approximately 250 or so schools will lose access to restorative justice programming if the $6 million is cut. How many schools total receive restorative justice programming? About 960 or so at various levels. So you are talking about over 25% of our schools which rely on these services and these programs losing access to those services.
+
+**(03:56:08)**
+
+
+
+The previous administration began Project Pivot, which provides similar programming to restorative justice. However, the Council is unclear on the details of this program and how it differs from restorative justice. Families and students seem to prefer restorative justice programs. Would the Department be open to combining the resources for these programs to expand restorative justice programming?
+
+**(03:56:31)**
+
+
+
+Let me be clear. The programs provide two different services. Restorative justice is a mindset shift. Project Pivot is bringing in vendors to support schools in the areas where they are struggling. So if there is a safe passage issue, they are bringing in vendors to be outside of the schools to allow young people to travel safely to and from school. That is the vendor direct provision of resources. What restorative justice is doing is changing the mindset and teaching our staff to be more mindful of the why around students' actions. They are two totally different things, and interestingly enough, they do both exist in some of the same schools, providing different services but for the same outcomes — and that is for the better of our young people.
+
+**(03:57:23)**
+
+
+
+Okay, so there is no two ways about it. There is no shifting money around. There is no two ways about it: for restorative justice, the administration proposed cutting it by $6 million. Over 25% of schools will lose this service. This is a critically important service and program for our students — for the safety and emotional well-being of our students — and as so many of us know, the academic benefits of restorative justice are significant. I am going to pause there and turn it over for questioning, and we are going to start with CM Schulman. Time to get to her seat.
+
+**(03:58:07)**
+
+
+
+CM Schulman, thank you very much. Thank you. It is very good to see you and thank you for all the things you have done in my district and coming out and all of that. So I have two things. One is I wanted to do a quick follow-up on the New Visions tool from the Speaker. The New Visions tool has a lot of support from principals, particularly in my district. Many claim it has been instrumental in monitoring and improving student performance, graduation rates and attendance. So at a time when the Department is working across agencies to support every child and family, I just want you to keep that in mind while the Division of Instruction and Informational Technology has not really shown a record of success yet in building tools in schools.
+
+**(03:58:51)**
+
+
+
+Absolutely, for the record.
+
+**(03:58:54)**
+
+
+
+Okay. The other question, which is sort of simple but not simple: what percentage of schools do not have air conditioning in communal spaces such as gymnasiums, auditoriums and cafeterias? Are schools expected to secure Reso A funding for these spaces if they do not have it? Every year, and particularly this year, I am getting calls about this. In addition to which, you saw that we have had a number of 90-degree days even before we got to — it is only the second week in, and it is supposed to get worse. Climate change is going to make it warmer and everything else.
+
+**(03:59:34)**
+
+
+
+Yes, totally. You know, if you have ever had to sit in a graduation in a school gymnasium — and yes, we are in graduation season — we have been really working on this. A lot of our schools have used Reso A to fund air conditioning in these common areas. I just want to turn it over to
+
+**(03:59:54)**
+
+
+
+Kevin Miranda to talk more about our plans there. Yes, thank you for the question. Certainly, as it relates to air conditioning, we benefit greatly from the AC for All initiative that covers all of our classrooms and all our instructional spaces. We have taken the heat law and put it on our informational help for all principals, and I want to thank all the principals and administrators that do this work on a daily basis to make sure students are not in spaces that exceed 88 degrees. At 82 degrees you need to take action according to state law, and at 88 degrees you need to stop using that space.
+
+So we are thankful for the support of the Council for AC for All in instructional spaces, and that brings us to your question about how we handle public assembly spaces. Right now we are hovering at about 5,705 public assembly spaces. Many of those spaces you have all helped us fund through Reso A grants. Schools have figured out ways to fund them. Our Division of School Facilities has done work on cafeterias and gymnasiums. We are working with our tax levy base. It is not a capitally funded category right now, so maybe that is the next step. But currently, to answer your question, the number of spaces with AC is at about 2,300. So about 60% of our public assembly spaces do not currently have air conditioning.
+
+**(04:01:16)**
+
+
+
+Okay, we will talk about that at some other point. I am going to stop my questioning, but what I will ask the Chair is if we can send written questions that we do not get to ask to the Department of Education so that they can answer them. Okay. Thank you so much. Thank you very much.
+
+**(04:01:31)**
+
+
+
+Okay. Next we have Deputy Speaker Williams, followed by CM Joseph. Thank you so much. So the Mayor's
+
+**(04:01:36)**
+
+
+
+Office of Equity and Racial Justice released its first preliminary racial equity plans. This plan, of course, includes many goals from New York City public schools. Can you speak to what you submitted and if any of these goals have any fiscal implications for this year's budget?
+
+**(04:01:55)**
+
+
+
+Thank you so much for this question. As you know, we are truly committed to equity and racial justice, and certainly school integration, and I am going to turn it over to talk a little bit more about this. But first, make sure you are sworn in. Good afternoon, everybody. I swear to tell the whole truth, the whole truth and nothing but the truth, so help me God.
+
+**(04:02:27)**
+
+
+
+I think she is putting you out of a job.
+
+**(04:02:34)**
+
+
+
+So as it relates to what is in the plan, I will give you a quick overview of some of the priorities that we have established. Beginning with early childhood: leading equity initiatives impacting early childhood programs and services. Pathways is a huge priority — leading equity-focused career, college and work readiness initiatives with the vision of inclusive access. Leading inclusive and accessibility-focused racial equity programs, including supports for
+
+**(04:03:10)**
+
+
+
+students with disabilities and multilingual learners. Minority and women-owned businesses: leading supplier diversity and contracting and procurement related to equity commitments. With the First Deputy Chancellor's office leading instructional equity initiatives, including New York City Reads and New York City Solves. In addition to that, working with the different departments within the school system to ensure strong implementation, tracking and accountability around that work.
+
+**(04:03:39)**
+
+
+
+And are any of these goals — do they have any fiscal implications? Are there any budgetary items that are attached to achieving those goals?
+
+**(04:03:50)**
+
+
+
+As it relates to the funding, most of this is designed around existing fiscal initiatives.
+
+**(04:03:58)**
+
+
+
+And so what we are doing is leveraging the existing dollars while making sure that we are
+
+**(04:04:04)**
+
+
+
+prioritizing across existing budgets and operational decisions. We are embedding racial equity into how we allocate resources, set priorities and also make policy and programmatic decisions across the system. In a system as diverse as New York City public schools, I think the racial equity plan reinforces this work by making sure that every decision that is made and every implementation and accountability measure is tied to this work.
+
+**(04:04:32)**
+
+
+
+Yes. We have been asking all the agencies very similar questions, and I feel like there is a trend of many agencies saying that they are going to reallocate or look at existing budgets, which is great. I know that some of these programs may be duplicative based on what you recently submitted, but I do hope that in future fiscal years, where there are budgetary implications to actually do the work, you do not just use existing money but that there are dedicated funding streams to support many of the goals within your agency.
+
+So just a question about equity in school budgets: fair student funding, created and implemented in the 2007 to 2008 school year, is the main funding source for traditional city public schools. This formula sets school budgets based on a school's student population and student needs. This formula is meant to promote equity in school budgets and schools are funded based on need. Has there been any recent analysis of the ability to promote equity, and what are some of the limitations of this funding model?
+
+**(04:05:41)**
+
+
+
+There are some significant limitations, but the weights that we have used over the past have led to more equity in our school budget system, and I will turn it over to our Chief Financial Officer to talk more about that.
+
+**(04:05:59)**
+
+
+
+Thank you. So as you may be aware, about three years ago we actually added new weights. We added two new weights to our formula — one for students in temporary housing and one to capture concentration of high need at schools. There are ongoing analyses, and that was based on work from a working group. I know there has been a call to reestablish it, and I know the Chancellor has already committed to having the necessary conversations around it. So while we did not make any updates for this upcoming year, it is a conversation that we are prepared to have.
+
+**(04:06:43)**
+
+
+
+The current class size funding distribution model allocates significant funding towards lower-need schools, as they are typically the schools struggling with class size compliance. Has New York City public schools done any analysis on how class size funding affects the equity of funding across schools, and are there any considerations on how to distribute class size funding more equitably?
+
+**(04:07:09)**
+
+
+
+Yeah, thank you for that. Absolutely, we have been thinking about how to prioritize schools and areas that have high economic need in the process around showing a reduction in class size, and I am going to turn it over to Erin to talk a little bit more.
+
+**(04:07:35)**
+
+
+
+About need. Hi, Erin. I swear to tell the truth, the whole truth and nothing but the truth about class sizes.
+
+**(04:07:46)**
+
+
+
+Okay, so I think again last year's approach was schools opted into the funding, right? So that was mainly driven by schools that were in, you know, maybe had a greater gap in terms of where they were and where they needed to get to decrease class size. Because again, it was driven by this: schools in wealthier communities might have larger class sizes. So again, I think the process last year where it was opting in from the school's end probably led to some of the funding outcomes last year. I think what we are looking at this year, right, acknowledging that equity is a critical priority of the Chancellor, we are looking at prioritizing higher-need schools this year in the funding distribution, which we are working on right now. But that is a core part of our work, looking at higher-need schools alongside schools that have space to comply.
+
+**(04:08:49)**
+
+
+
+I think it is also important to distinguish how we think about what a high-need school is. If you just go by percentages, then some schools look like they are low-need and some schools look obviously like they are high-need. If you have a school with 200 kids that is 90% free and reduced lunch, then that is going to be a number that is about 180 students. But if you look at a school that has 3,000 students and there are 50%, that might look like it is a lot lower, but that would be 1,500 students, right. So the way we are looking at it, we want to really focus on the numbers so that we are getting to address a large number of students rather than only the percentages, which can obscure the actual number of students that you are impacting.
+
+**(04:09:51)**
+
+
+
+Okay, in the interest of time, and I will make sure we send the questions, but I just wanted to talk about these topics really quickly, still under the theme of equity in school budgets. I know this has come up many times. I feel like it is coming up a lot more recently. Wealthier districts have reported raising over a million dollars while other schools report no additional funding. So again, we would love to see how New York City Public Schools is addressing this particular issue when it comes to school resources.
+
+On another topic, teacher recruitment and retention. We know that there has been a considerable focus on workforce diversity. 53% of educators are White and the majority of public school students are not. I love White teachers. I love my teacher Peterson. He is literally the only person that has ever made me love math in my entire academic career. However, New York City is a very diverse school district. So just wanting to understand, as you all are increasing the funding for recruitment this year to comply with class size mandates, are you using this as an opportunity to continue your efforts to hire a diverse workforce? We know you have New York City Men Teach to recruit Black, Latino and Asian men. So we would love to just understand how you all are using your additional funds to continue to increase diversity amongst school educators.
+
+**(04:11:19)**
+
+
+
+Equity and due process cases. So we have information that the Council has received from New York City Public Schools showing the demographic makeup of the student population with due process cases settled or closed in fiscal year 2025, which is significantly different than the demographic makeup of public school student enrollment in the 2024-2025 school year. So just want to understand your thoughts on this difference and what it means for the question of equity and who is actually receiving these services when our school systems are failing children who have learning differences, as I like to say.
+
+**(04:11:58)**
+
+
+
+Questions related to things in my district. So New York City Public Schools has consistently talked about preparing students for jobs of the future, yet access to high-quality programs remains uneven across schools and communities. So I just want to understand what investments New York City Public Schools is making to expand dedicated STEAM centers citywide. How many currently exist, where are they located, do you have any timelines?
+
+And just to make it a loaded question, I would love to get your answer on this and then I am done. Students like mine in southeast Queens are surrounded by a major economic engine, which is the airport, yet many students lack direct access to specialized STEAM facilities that connect learning to careers in aviation, engineering and cybersecurity. So also just wanting to understand your plan to ensure equitable distribution and whatever other resources could be included in this budget to align with the many goals that New York City Public Schools has.
+
+**(04:13:05)**
+
+
+
+Yeah, so that was a lot. So I should focus on the STEAM centers. How many do you have and where are they? The perfect person to answer the question on the record about New York City Public Schools STEAM centers.
+
+**(04:13:25)**
+
+
+
+So, in thinking about our STEAM centers, we have the Brooklyn STEAM Center. We have the Bronx STEAM Center that we are working on as well. And I know we have plans and conversations about a Queens one. Now, when it comes to aviation, I do have to shout out a high school that I visited in Queens. It is in Long Island City and it is like an hour and a half to get there. We do have Martin Luther King. They have an aviation program, so shout out to Martin, but...
+
+**(04:13:59)**
+
+
+
+It is not... as the person who worked really closely with Martin, the kids were not in the cockpit for a decade and I was able to help get outside funding to get the kids in the cockpit. So I understand we do have that, but that program is not specialized in the ways in which the STEAM center is, and it is not connected to industry in the ways in which the centers are.
+
+**(04:14:18)**
+
+
+
+Totally. And so we are beginning to have real conversations about the sustainability of the STEAM centers that are in place right now. Each year we dedicate funding specifically to those that are currently in existence and are expanding their programs, planning to expand their programs into next year. And so I am going to turn it over to Jane to talk a little bit more about what we are doing regarding STEAM centers.
+
+**(04:14:51)**
+
+
+
+Thank you for the question, Deputy Chancellor. So with our STEAM centers, as you correctly say, they are an incredible innovation. We have our innovation center at the Brooklyn Navy Yard, which is now not as new as the other ones. And then this year we have really focused on ensuring that our Bronx STEAM Center, which is focusing on our partnership with Montefiore around health care access, is beginning to grow. As you know, you have been an incredible part of the feasibility work that is happening in Queens to ensure that we have that same kind of opportunity in the aviation industry for our Queens folks. It is an incredible investment that we think is very important to very carefully think through. So we are working all year with the aviation folks and with several potential anchor partners to ensure that we can actually have this not just be an innovation, but a real sustainable model that we can replicate in the Queens context.
+
+**(04:16:00)**
+
+
+
+Thank you. And yes, I would love for it to be included in the budget so it truly does look like a sustainability model. I mean, yes, there is one in Brooklyn, one coming to the Bronx. Hopefully we have one in Queens, but there are two other boroughs missing from that. So we would love to see it reflected in your budgets because, as far as I am concerned, I think you only have the $15 million that I negotiated. So I do not necessarily see a legitimate commitment from New York City Public Schools because you have not committed any funds outside of the ones that were negotiated from the previous administration for Queens. So we would love to see that reflected in your budget. Thank you. Okay, great.
+
+**(04:16:38)**
+
+
+
+We have CM Joseph, followed by Wong.
+
+**(04:16:43)**
+
+
+
+Thank you, Chair. Good to see you, Chancellor. We continue to struggle to provide students with disabilities the necessary services. Meeting needs earlier should reduce the number of due process cases at a later stage in a child's education. As we begin to educate younger and younger New Yorkers, how is New York City Public Schools coordinating with DOHMH and other agencies to ensure a child's needs are met as early and as practically as possible?
+
+**(04:17:15)**
+
+
+
+That is something that is very, very important to me, which is why, when thinking about a restructuring, really thinking about putting foster care, open arms, all of those in the same environment and making sure that we have very seamless communication between the Office of the Deputy Chancellor for Community Partnerships and DIAL. So I am going to turn it over to Christina, as well as Flavia, to talk a little bit more about that.
+
+**(04:17:55)**
+
+
+
+To talk about how they are coming into the system and how they are getting services. Remember, they come in before early intervention. Let us talk about that.
+
+**(04:18:02)**
+
+
+
+In a minute. Yeah, get your stuff together, but I am going to talk to the voting because Hawkins and the team are throwing it out here. Yes, thank you.
+
+**(04:18:13)**
+
+
+
+Thank you, Chancellor. Thank you, Councilmember. What you raise is a really important point, especially as we shift down the entry point into our school system. So we have been very deliberate in partnering, and we have already partnered with DIAL, specifically the Bureau of Early Intervention. So what we have been doing specifically on pre-K is creating a very intentional accommodations process. We have some universal supports that we do as a through line, right, and that is what we should be doing not just for two-year-olds but for all of our little ones no matter how old they are. That is really around appropriate coaching, making sure that educators and school leaders differentiate based on the needs of our little ones.
+
+But then we also know we need some more targeted interventions. So we have a referral process and we are creating a more thoughtful referral process with our colleagues and also with the Office of School Health, because what we understand is early intervention meets a very specific purpose, but some of our little ones might need something different. So we are partnering with the Office of School Health. DIAL is working side by side with our team to make sure we are coordinated, that there is proper redundancy but not unnecessary duplication, and that our little ones and their families are having a seamless experience through and through. And if the services are not being provided, we are stepping in and filling in that gap as well.
+
+**(04:19:42)**
+
+
+
+Yeah, as Hawkins said, we are going to work side by side to make sure that students have what they need to access the program.
+
+**(04:19:49)**
+
+
+
+And real quick, thank you, Chair. Our students in temporary housing, attendance and absenteeism rates. The last time we spoke here, the absenteeism rate was 63%. I always want to know how are you working with different agencies to combine that effort. How are you combining that effort to make sure that we are bringing down the absenteeism rate and also academics, right? Not only for students in temporary housing, but are we providing academic support for students in temporary housing?
+
+**(04:20:21)**
+
+
+
+Thank you for that question. As part of our conversations earlier, we have really spent the last five months in concentrated effort to meet with our families in shelters. Flavia has led that effort and some of it has stuck, and she should talk more about that.
+
+**(04:20:41)**
+
+
+
+Thank you, Chancellor. Thank you, Councilmember Joseph. I want to just first begin. I know that you are well versed in the definition, but just so that we all understand: when we say chronically absent, it means that a student at any given point has missed 10% of the school year, so 89% attendance means you are chronically absent. We know that for vulnerable student populations there are always disproportionate rates of chronic absenteeism. I want to call that out because counting today we have 14 days of the school year remaining for all students and about five days for our high school students who take Regents. So if you are out 18 days of the year you are chronically absent. It is not just an arbitrary number. It is a national standard because at that point we begin to see a connection between academic achievement and attendance, and that is why that number is so critical for all of us.
+
+With that, I want to say that the support that we are doing both for attendance and for students who are English language learners and for students who are in temporary housing varies from looking at central support. For example, this year we recruited 32 attendance teachers who are part of a total attendance pool to provide dedicated home visits during holidays, during weekends and after work hours to try to make it more easily accessible to reach those families for students who have been out. I can say that in total 4,327 visits were done for these students, particularly targeting students in shelters. An immediate result that we saw following those home visits is that those students then came into school.
+
+Similarly, I think when we look at what are the ingredients and what are the things that the central team led by Dr. Leon and the many leaders have been doing, it is working with our schools to ensure that the Title One funding the schools are receiving in their budget is really used with fidelity to look at how we mitigate the challenges for these students. In 2022, there were $72 million that were provided to schools across the system to support that. In the 2025-2026 school year, that is $125 million, and that is money that is sitting in each of our school budgets across the City specifically dedicated to support the needs of students in shelters. So one of the things that we are working on is not just that the money is spent, but that it is spent with fidelity and it is spent on things that are not commodities, but things like counseling support services, things like interventions, looking at college and career readiness programs, tutoring. For example, one of the things that we are doing is working with shelters where we have weekend programs that we do in those sites to meet the needs of those students.
+
+So I think the idea is looking at the whole infrastructure that exists for attendance, like the work that we do to deploy attendance teachers to superintendents, the work that we have done that has allowed us in fact to reduce chronic absenteeism by 9% for students in shelters as an example. But there is still so much more that we need to do. That is also another example of why initiatives like community schools matter. In our second wave of community schools that we are expanding, one of the indicators that we were looking at were schools that had a high concentration of students in shelters, because we know that wraparound supports, the notion of a caring adult, the notion that you are going to have schools that are looking at data on a daily basis, making calls, not waiting for a 407 which is the indicator that you get when a kid is 10 days out. This is an everyday strategy: making sure that you are making calls, making sure that you are making connections, making sure that you understand the reason why students are out and that you are creating individualized plans, particularly for students that we know are vulnerable.
+
+In addition to that, we are also working with the Department of Homeless Services to make sure that we come up with strategies that allow us to get ahead of shelter movements that are happening so that we can plan thoughtfully and make sure that we are helping families navigate any changes that affect their whole living situation. There is an implication for schools because at the end of the day we know that when we look at these students and their families that have been impacted by homelessness throughout the years, school stability and access to high-quality education is what is going to make a difference so that they do not end up in another situation like that and have a different future for the generations to come.
+
+**(04:25:41)**
+
+
+
+Great. Thank you. CM Wong, followed by Lewis.
+
+**(04:25:45)**
+
+
+
+Thank you, Chair. Chancellor, thank you for coming today. I want to talk about a situation in my district. A energy company has proposed a lithium battery energy storage system to be built at 6430 69th Place in Middle Village. That is directly across from School 128. Right next to it is the annex of the building. Facing the lot to the left is the annex of School 128. To the right is a day care center, a preschool and the children's play area. The project is as-of-right but has not been built yet. We know, and I watch YouTube and I am sure everyone watches YouTube, that lithium-ion battery fires are extremely difficult to suppress. At a fire in Warwick, New York, the fire burned for more than three days in December 2025.
+
+Here is my question. It is a policy question. When a developer proposes a lithium-ion battery storage facility directly across the street from a school, before it is built, while there is still time to act, does the Department of Education have any written protocol requiring school leadership or the parent coordinator to notify families that this proposal exists? Because this is happening right now and there are a lot of parents, even teachers, who say they know nothing about it. I would appreciate your answers.
+
+**(04:27:19)**
+
+
+
+Over to Kevin Moran to see if there are any policies there, but that is something we can look into as well. Yeah. First,
+
+**(04:27:29)**
+
+
+
+I would like to thank you, CM Wong, for your passion, advocacy and support on this issue. Keeping our school community safe is foundational. I understand your concerns. We watched carefully the fire and work in New York by the bus depot and by their school, and it did burn for three days. Our schools do not get involved in land acquisition engagement activities in and around a school for a lot of good reasons. As a lawmaker, again, I thank you for your advocacy. I would also reinforce that there is no law that would prevent battery storage from sensitive locations like libraries, schools, charging stations and gas stations. So at current, battery storage facilities — battery farms, as it is being called — can be built within 10 feet of an adjacent property. To the point that you make, it is lawfully and legally permitted and the regulatory authority here is the Department of Buildings. They will go ahead with the paperwork. There are advancements in fire suppression, surveillance and close scrutiny from the fire department. So to the extent we could be helpful in this, we will be. But no, there is not a role for a principal or anyone in the school community to play as it relates to land acquisition in and around the school. Okay, well, thank you.
+
+**(04:28:48)**
+
+
+
+For the answer, because right now we still have teachers and parents coming to me saying they are unaware of this project and there is a big
+
+**(04:28:58)**
+
+
+
+gap, with the whole community unaware of this proposal, and that is across the street from where the children go to school every day. That is a problem. I will have to talk to legislators in Albany to get this patched up, because there clearly is not... it is not safe, it is not the right place.
+
+**(04:29:15)**
+
+
+
+Well, I would say that it is an emerging industry in the City. It is meant to relieve the strain placed on the grid. Right now in my neighborhood I have one right across from a library, right next to a gas station. I see them growing. So to the extent we can partner on ways to make sure this is done safely for our community, I would appreciate it. Thank you.
+
+**(04:29:37)**
+
+
+
+Thank you. Okay, CM Louis, followed by Brewer. Thank you, Chair. Good afternoon. Shoutout to you and your whole team — you guys look like the Avengers. Thank you for being here.
+
+**(04:29:47)**
+
+
+
+Two quick questions. Families of students receiving District 75 services continue to report that some elementary school students are not consistently receiving specialized support and related services outlined in their programs. The Executive Budget includes significant investments in special education services, including funding for special education pre-K expansion and court-ordered special education compliance. Despite these investments, many families still report service gaps. How will you measure whether these new investments are actually resulting in improved service delivery, and what percentage of students currently receive all mandated services without interruption?
+
+I am going to quickly go into my second question because I do not have time. Families have expressed frustration with limited assistance provided by the Family Welcome Centers — you hear about it all the time. The Executive Budget includes additional funding for family empowerment initiatives. Yet families continue to report challenges navigating the admissions process. What is the current staffing level and budget allocation for Family Welcome Centers, and how have response times and case resolution metrics changed over time? Are there plans to increase staffing in the new budget?
+
+**(04:31:09)**
+
+
+
+Great question, and I am going to start with the first one. When it comes to services, we have done as a City a much better job over the last number of years. However, when one child does not get the services they need, it feels to us like it is a hundred percent. So I am going to turn it over to Christina, who is going to talk more specifically about services both to students with disabilities in District 75 and throughout as well.
+
+**(04:31:47)**
+
+
+
+Thank you, CM Louis. It is so nice to see you. Regarding District 75, there are a few things that we are doing. So the first is, to date across the board, 468 providers have been hired this school year. We have also improved our contracting rates where we are working to provide incentives to high-need areas. Additionally, we have expanded our ninth session work, which means that our OTs and PTs can be paid to conduct a ninth session of therapy, which is also helping fill that gap. To date, we are at almost 92% compliance. But as the Chancellor said, that is not a hundred percent, so we will keep going until then. You also know about our SETT and weekend academies. As of this past Saturday, our SETT sites served 15,000 students in related services, which is pretty remarkable, including in sensory gyms. So we are doing a lot, and the numbers keep growing. The mandates also keep growing, and that is why the investments are so, so important. If I can get a response on the Family Welcome Centers — thank you for that question. I do not have the data with me right now, but I am going to follow up with you. If I have it before the end of today, I will share that with you.
+
+**(04:33:02)**
+
+
+
+Thank you. Thank you, Chair. CM Brewer, followed by Narcisse.
+
+**(04:33:06)**
+
+
+
+I have questions about menstrual products, class size, playgrounds, arts education and affinity schools. So starting with menstrual products — we did not have a lot of interns, but they talked to a lot of schools. Six percent of schools said that those period products are almost never available. Eighty percent said they do not know if a student does not know how to report an empty dispenser. So my question is, for the young women in the school system, how much is included in the budget for menstrual products and how are you dealing with some of these
+
+**(04:33:40)**
+
+
+
+issues? So for those we are going to have to take a look and get back to you on that. I do not know if... do you want to add anything?
+
+**(04:33:52)**
+
+
+
+Thank you, CM Brewer. I regret hearing that. We do survey our schools and work with our principals and custodians on a daily basis. I will absolutely follow up. If this is not working, we are going to follow up with a message to custodians to make sure that they are fully stocked in all locations. Apologies.
+
+**(04:34:08)**
+
+
+
+Playgrounds. So I passed a Bill that said a certain percentage of playgrounds have to be open within the next 10 years. Obviously, custodians have to be paid. What are we doing on that program of opening up
+
+**(04:34:27)**
+
+
+
+playgrounds? Well, specifically, we are supportive, when funded, of opening up our parks and having our custodians there to make sure they are open and available. If there are any specific cases that are not opening in your district...
+
+**(04:34:37)**
+
+
+
+It is all my district. It is the law. Yeah, we passed a law, and within a certain time period we must open more playgrounds. By law, we are committed to that. Okay, so you are going to make that happen. On arts education, can you give me a sense of whether every single school has an art teacher, and then how many have arts programs, and are pre-K and even zero-to-two going to have arts programs?
+
+**(04:35:02)**
+
+
+
+Yes. Thank you for that question. We have been doing really good work around arts programming over the last two years, including at the principal level, having principals who are now involved in pilots for arts programming. So I am going to turn it over to First Deputy Chancellor Jones to add some more.
+
+**(04:35:24)**
+
+
+
+All right. So we have a great number of schools that are mixed between licensed, certified art teachers, and then in our elementary schools you do not necessarily have to be a certified art teacher. We also have lots of schools that are partnering with cultural organizations to provide the arts.
+
+**(04:35:45)**
+
+
+
+Get back to me with the number of certified art teachers, how many schools have cultural organizations and how you evaluate them. Can you, before...
+
+**(04:35:54)**
+
+
+
+The first one: we have about 16% of schools that currently lack a certified arts teacher. Those include 168 elementary schools, 23 middle schools, 37 high schools and 25 multi-grade schools. So conversely, the vast majority do have one.
+
+**(04:36:13)**
+
+
+
+Okay, but we still need to address that 16%.
+
+**(04:36:15)**
+
+
+
+Yes, we certainly do. Okay.
+
+**(04:36:18)**
+
+
+
+And then on the affinity schools — I think we talked about this a little bit before — what is the funding situation with them?
+
+**(04:36:26)**
+
+
+
+So for affinity schools overall, we have not had any issues with the funding mechanism for affinity schools. Specifically, we have been talking about the New Visions portfolio, but overall for affinity schools, their funding is in
+
+**(04:36:43)**
+
+
+
+place. Okay, because they feel differently. And just... I love your comic books. I hate comics, but I like your books. Congratulations on hold harmless. Just in terms of
+
+**(04:36:56)**
+
+
+
+class size — I understand we have two years and will have more time — but do you have some sense of how many class sizes have already been reduced to the target number and how many have not? So one of the things about the class size law that is interesting is that it is not about reducing class size necessarily. It is about getting to the actual compliance numbers. So, for example, you could have a kindergarten class that started off at 25 students and is now at 22. It is not at 20, so it does not get counted as compliant, but it has been reduced. So I am going to turn it over to Aaron to talk a little bit more about the progress that we have made. Just to say, you have to hit the mark to get credit. You cannot just reduce somewhat. I think you all know this, but when somebody gets to 20, it is ecstatic — just like getting gold.
+
+**(04:37:55)**
+
+
+
+And you can tell the private schools to go
+
+**(04:37:59)**
+
+
+
+... well, I can
+
+**(04:38:00)**
+
+
+
+share the data that we have. So for grades K through 2 and 3, we saw a 28.7% increase. Grades 4 through 5 saw a 23% increase. Middle school grew 20%. High school grew 16%. To the Chancellor's point and to your point about overall progress towards class size reduction, about a third of the non-compliant classes are only one to three students over the new caps. We reduced the number of classes that were six students or more above the cap, and that rate declined 12 points. So 29% of classes in 2025 had six or more above the caps and now it is down to 17%. And it will not slip in the next couple of years, right?
+
+**(04:38:49)**
+
+
+
+I mean, what we are doing now is we are working to look at funding for schools to make sure that teachers are available in line with the new caps, to make sure that class sizes are maintained. Okay.
+
+**(04:39:01)**
+
+
+
+I just think you should keep going because it makes a huge difference. Thank you.
+
+**(04:39:06)**
+
+
+
+Thank you. Thank you, Chairs. Thank you, Chancellor and all your team. I have to say thank you to Kevin Moran. He has been very nice and supportive. The District 46 school nurse funding is baselined in this budget. Does that put a full-time nurse in every school building citywide this coming year, or are schools still sharing one nurse across multiple buildings? How much of that health funding relies on federal Medicaid reimbursement that is now at risk?
+
+The second one: the budget adds new funding for preschool special education, a chronic shortage. How many new seats will land in Brooklyn, where parents are still waiting months for placement? How many community schools operate in Brooklyn and are any of them at risk of closing or scaling back services this year?
+
+I have another quick thing I want to bring to your attention, and that is after-school programs. The shifting of those... people apply for them, and there was a big rally in my district where the community organizations that have been taking care of the schools suddenly find themselves across New York City losing the contract, while they have somebody new or some other organization from somewhere else, not even in Brooklyn. So I want to know what can parents and schools do, because they have been sending emails and we were out rallying. I want to have your input on that.
+
+**(04:41:03)**
+
+
+
+Thank you. On the issue of school nurses, I know a lot of the work is done, but going back to the beginning of your question: we have done a lot of work to ensure our schools have nurses, and I am going to turn it over to Kevin Moran to add anything there, and on special education to Christina, and then finally to close out. On your question, we meet all legal mandates as it relates to staffing nurses in all of our school buildings.
+
+**(04:41:46)**
+
+
+
+What do you mean, so...
+
+**(04:41:49)**
+
+
+
+Yes. Wherever there is a legal mandate to support a student or school community, a nurse is provided.
+
+**(04:41:58)**
+
+
+
+No, I just want to know that we are not sharing nurses. Are we still sharing nurses? Yes. Yeah, I would rather
+
+**(04:42:08)**
+
+
+
+they have the nurses. I really understand. On the budget, and especially the preschool piece — that is something that we are really committed to, given the history of not necessarily having those services in pre-K. So I am going to turn it over to the team to talk about it.
+
+**(04:42:30)**
+
+
+
+Thank you, CM Narcisse. You are having me open up CM Joseph's section of my binder, because usually this is her area. So...
+
+**(04:42:38)**
+
+
+
+In terms of that, we are so excited and grateful for it. I am going to ask you to bear with me on the details on that in Brooklyn. That is...
+
+**(04:42:47)**
+
+
+
+Right. Here is what I can say: Brooklyn will be benefiting as well. I hate opening with that. I can say that in the last round of funding we had 75 seats open in Brooklyn, including the Flatbush Early Childhood Center, which is a very exciting addition, and more to come on that front.
+
+**(04:43:08)**
+
+
+
+So for the community schools — they are not going to close.
+
+**(04:43:11)**
+
+
+
+No, we are not planning to.
+
+**(04:43:17)**
+
+
+
+Good afternoon, CM Narcisse. I think your question was asking how many community schools are currently in Brooklyn. The answer is 146, and 146 are remaining. The only instance recently where there has been any change is if there is a school consolidating. Since we refilled the schools that were previously funded with stimulus funding, we have retained the number of community schools, which is a total of 419 still there. That is the largest community school investment of any district in the country, and hopefully we can continue to look for ways to amplify that, because we know that those wraparound support services are so critical. We have specific data that shows the linkage between the long-term impact of community schools and all of the metrics that we are talking about, including student achievement and reduction in chronic absenteeism. But to answer your question: 146, and there will be 146 next school year. I have principals coming to my office tomorrow sending emails — they are very much interested. They feel like they should be part of it and they want to become one. Yes, it is a little different.
+
+**(04:44:24)**
+
+
+
+Now... no, I am saying, like, we are going to talk about it more. Okay, but community
+
+**(04:44:27)**
+
+
+
+schools in my district. And the last one — yeah, so just to
+
+**(04:44:35)**
+
+
+
+be clear, there are contract nuances about how the DOE does their procurement for their contracts. I know the Council recently had a hearing. We do not manage their contracts, and I cannot speak to all of the details of their contracts. What I can say is that since 2015 we had not done a procurement for after-school. So many of our principals, which I think you know, in our system have never had to go through this experience. What we did do in partnership with the DOE was that as part of their process, we made sure that there was a principal ranking, and a large proportion of the principals did get the provider that they ranked first or second. There were multiple schools that did not get it. I will say that leadership, including the Commissioner, has been directly meeting with some of the providers. We have held meetings with multiple community parent councils to make sure that they are clear. The one thing that I want us all to walk away with is — yes, as a former principal, if I had a partnership in the South Bronx with one of the providers and there was a change to a provider that I felt was more aligned, that is going to be a big shift. It is something that we are going to have to work with our principals on, and work in partnership with the DOE to make sure that we are resetting those relationships and doing our best to make sure that the service that kids are getting continues. But what I want to be clear about is that we have not had any reduction in seats.
+
+The opposite — they added 20,000 seats for after-school. That has not happened before. So if you have a
+
+**(04:46:30)**
+
+
+
+particular partner with a particular concern, you tell me and we can work on it. My time is up. You went into my colleagues' time and they are waiting. But it is not only me — I have Selvena Brooks-Powers who has the same issue.
+
+**(04:46:43)**
+
+
+
+I have principals out. I have teachers out. I have parents out. Is it... continue the level of care and the services at the same time. We could work with the ones you need to work on. I appreciate your time. I appreciate you. Thank you. That was actually a large focus of our meeting. It was good and we have expressed our concerns. The Commissioner is great. She has been working with us on that.
+
+**(04:47:06)**
+
+
+
+Thanks. We have been joined by CM Krishnan, and we have CM Epstein, followed by Restler.
+
+**(04:47:13)**
+
+
+
+Thank you all. Thank you for your time to talk about after school. We have about 250,000 students who get Title One funding and without 184,000 after school slots. What we are especially seeing is racial segregation and economic segregation because we do not have free after school. Chancellor, how are we going to solve this? Can we resolve this soon?
+
+**(04:47:32)**
+
+
+
+Look, I think we see this issue around the City and it is certainly an issue where it is also an issue of the type of after school provider and what we are actually getting in terms of quality. I think schools also work with providers to make sure that those that are not funded by Title One have scholarships for young people and all of that. But it is a very difficult thing for a school by itself to ensure equity in after school programs. That is when we have a responsibility to make sure that our schools are racially and economically integrated, and after school is a critical component to that. Can we get a commitment from you that all families have access to a free after school program within some period of time? Because that is what we really need. So I think this is certainly a partnership between us, and I know we have some expansion plans and so on, but I am going to turn it over to talk a little bit more.
+
+**(04:48:47)**
+
+
+
+Thank you for the question, Council Member. I do want to flag that there was a commission assembled towards the end of the prior administration. It was really a cross-sector commission on this notion of universal after school. We know that the vast majority of funding for after school for the whole comes through Title One, and the rest of it is funded through community schools. A lot of the community schools that I mentioned have the capacity to do that work. We also have LEAPS, which is a state fund where the grant goes directly to those that can do that work.
+
+As a parent who benefits from after school myself, because I have a child at a New York City public school, I know that this is something that all communities, especially in areas of need, welcome. This is something that I welcome the opportunity to partner with you and all of the agencies and CEOs that were part of this discussion, so that we could actually look at that report that was published less than a year ago and some of the first steps to getting to universal after school, the funding that it will take and the collaboration between the agencies. DOHMH, who offers the license, because it is a multilayered step, but it is the right effort to pursue and push.
+
+**(04:50:06)**
+
+
+
+I am happy to work with Chair Dinowitz and Stevens to kind of move this forward. This is something we see as a racial justice issue and an economic justice issue. If I can just get another minute or so — I know at the preliminary budget hearings we talked a lot about literacy issues and making sure that young people, when they get to their grade level, still are not reading and writing and are not getting support. We see this in the school-to-prison pipeline and talked a lot about trying to get people support earlier in their education. You mentioned the literacy academy, which does a lot of great work, and the two literacy schools that were started in the prior administration. I have not seen anything in this budget that would advance the issues we are trying to ensure — that our young people are getting the support that they need. I want to just stress that we really need that because, honestly, if a kid by the third grade is not learning to read, the chance of them unfortunately failing later in life just goes up exponentially. We would love to see some commitments here. I am happy to provide whatever support I possibly can to make sure that happens and to ensure those young people get the support that they need.
+
+**(04:51:18)**
+
+
+
+We are completely committed to ensuring that all of our young people are able to read, and if they are not able to do so by a certain grade, that we have systems in place that we are developing and have developed to get them on track. The main thing that we are doing is our multi-tiered system of support. I will turn it over to our first deputy chancellor to speak in more detail about that, but this is an opportunity for every school across the City to be able to implement this.
+
+**(04:51:52)**
+
+
+
+Well, thank you for your question. As a passionate literacy fan, building off of the Chancellor's comments, our commitment to expanding New York City Reads is one such step. We have expanded our reach now into middle schools, so New York City Reads lives across all of our elementary schools and most of our middle schools at this point. We are layering that in with a multi-tiered system of support, which he just mentioned, which is the use of screeners to really catch where kids are missing key concepts in Tier One and to be able to pinpoint what it is that is getting in their way and align high-quality intervention to help catch them up. But it does not just live there. It is also a close partnership with Deputy Chancellor Foti and the specialized programs that she is seeking to grow, and the work of universal child care, because we all know and agree that the sooner we get our kids in literacy-rich environments with a thriving approach and then supports when they need them is the critical difference.
+
+**(04:52:59)**
+
+
+
+As it relates to the literacy academies that you spoke of, I have recently been able to meet with the team and learned so much more about their work. Yes, we are in very early conversations around expanding those schools, and I know they are very interested in bringing one to Queens. I look forward to whatever help I can provide on that, because those six-week intensive programs really work.
+
+The last thing I will just flag is I am glad that we are doing more internships. I have 175 schools where kids are thriving through internships. They were denied this year to get those internships. Is there anything we can do to create more opportunities? I have schools where the kids have been in the country less than two years and those young people want internships but are not able to get them. We need as many resources as we can get, because we are going to keep those kids in school if we get them those internship opportunities. Otherwise we see high dropout rates in those schools.
+
+**(04:53:57)**
+
+
+
+Yeah, absolutely, Council Member. If you could send me the details on those, I am very curious to know why that was the case — if it was perhaps travel that was in the way. I do want to say that we are deeply interested in expanding our travel training programs. That is often a barrier for why kids in District 75 have struggled to get their work-based...
+
+**(04:54:17)**
+
+
+
+...learning opportunities, and we have seen incredible results from our travel training. So I will definitely dig in and yes, looking...
+
+**(04:54:23)**
+
+
+
+...to expand that. We would love to follow up and I will have my team reach out to you directly. Thank you.
+
+**(04:54:29)**
+
+
+
+Thank you. CM Restler, followed by... Thank you. Chair's team, good to see you all. I know you are all not...
+
+**(04:54:39)**
+
+
+
+...going to comment on that oddly timed New York Post article. But briefly, could you just elaborate — we have experienced an extreme shortage in Spanish language teachers over the last few years, especially with the migrant crisis, which exacerbated it. Could you just briefly elaborate in some detail on the breadth of the shortage that we have been facing across the schools in...
+
+**(04:55:04)**
+
+
+
+...New York City? Yeah, we have had a significant shortage in Spanish language and ELL teachers in general prior to the arrival of new New Yorkers, and it was certainly exacerbated by that. It continues to be a shortage that we have. Our team here can speak more to that. I am not kidding — 15 seconds. Okay.
+
+**(04:55:40)**
+
+
+
+It is a big topic, I know. Executive Director for Teacher Recruitment and Quality — world languages is an extreme shortage area. What we are doing is on two fronts. Someone is — I was not asking that.
+
+**(04:55:58)**
+
+
+
+I appreciate it. I was just asking for the data on what the shortage was over the last two years. But if you want to offer that, I did not follow up with you on that. We can send it. On hold harmless funding, I just want to reiterate your testimony.
+
+**(04:56:12)**
+
+
+
+No impacts on hold harmless funding in the budgets that will be released for every school early next week in the initial budget. That is...
+
+**(04:56:18)**
+
+
+
+...correct, but mid-year adjustments TBD. Yes, okay. And any insight that you can offer on your approach to hold harmless funding — a gradual step-down or anything to that effect if we do see mid-year adjustments?
+
+**(04:56:30)**
+
+
+
+Right now we have held the initial budget, and we are going to continue to have conversations about the sustainability of schools. But no decisions on the mid-year. I just...
+
+**(04:56:46)**
+
+
+
+...appreciate the policy. I think that, you know, I welcome a conversation on how we navigate this over time. I appreciate that it is being released by early next week because I think the Council is sometimes put in an impossible situation where we do not know the budgets of our individual schools and are expected to adopt the budget for the City of New York as a whole. There is no budget that is more important to me than the 40-odd schools that are in my district, so we want to make sure that we are doing everything we can to protect them and fill gaps for them. But we can only do that once we know the budget, so thank you for getting that out by early next week.
+
+Three-K and Pre-K — nice to see you, Deputy Chancellor. I appreciate all your work. I am very grateful for the significant expansion of 3K that we have seen across our district. We have been told that additional seats are being added in Greenpoint. Can you quantify the 110-seat swap of a classroom there? How many additional seats are being added in the 11222 zip code?
+
+**(04:57:40)**
+
+
+
+I will get that to you.
+
+**(04:57:40)**
+
+
+
+Council Member, we have heard the number 42 and we would love to confirm that. I also just want to flag PS 31, also in Greenpoint. We have had many families — zoned families for kindergarten — that cannot be accommodated at the school, which we are concerned about. We have had families that applied for Pre-K that have been assigned to locations as far as 11 blocks away. We can send you all the details on those families, but we really hope to be able to work together to add a Pre-K classroom and a kindergarten classroom at PS 31 to try to make sure that local families are accommodated.
+
+Since I have gone over time, my last question is: last year we passed a law with the DOE to report on the presence of school librarians in our schools. It showed that there are only 47 out of 657 elementary schools that have a certified librarian, which is just far too few. I am a big believer in librarians and the impact they have on literacy outcomes. The first annual report was due on June 1. Do we have any status update on that report? Now that we are a week late, has it been submitted?
+
+**(04:58:56)**
+
+
+
+Submitted today. Great...
+
+**(04:58:57)**
+
+
+
+...news. I look forward to reading it. Thank you very much, Chancellor and team. I appreciate your partnership and look forward to working together. Awesome. Thank you.
+
+**(04:59:06)**
+
+
+
+CM Avilés, followed by... Thank you so much. Hello, everyone. Thank you so much for being here and for all the work you do. I wanted to ask a couple of questions. I am sorry, it is likely going to be quick because we have all got to go. On restorative justice — our understanding is that this year the DOE is funding 81 core cohorts, which is down from 13 last year, down from 32 two years ago. This seems to be going in a very wrong direction. Can you talk to us about what is happening with restorative justice work? Then I would love to hear a little bit more — in 2025 the Comptroller put out a report that noted 53% of New York City schools did not meet the recommended number of guidance counselors in the buildings. In terms of guidance counselor ratios, have we made any progress in making sure there are enough guidance counselors for students? Yeah, oh, I am...
+
+**(05:00:07)**
+
+
+
+...sorry. Good afternoon. I will start. I will get back to you with those cohort numbers in particular. Can you just repeat the question?
+
+**(05:00:15)**
+
+
+
+My understanding is that there are eight...
+
+**(05:00:19)**
+
+
+
+...this year, down from 13 last year, down from 32 two years ago.
+
+**(05:00:25)**
+
+
+
+Very wrong direction. I will try to have that for you. Thank you. In terms of...
+
+**(05:00:37)**
+
+
+
+...guidance counselors, I can...
+
+**(05:00:39)**
+
+
+
+...speak to that. How are you? I can speak to the guidance counselor numbers. In total, New York City public schools, as per the public report that was shared, we have a total of 3,296 guidance counselors in the school system — 3,255 of them are full time and 41 are part time. In terms of the ratios specifically, I want to be clear that a few years ago the state changed the requirement for guidance counselors at the elementary school level, making it just a notion of access but not necessarily with a requirement of a full-time counselor. The current ratio is 1 to 259 for schools with old school grades. When we look at historically what were the high school grades, where a full-time person was mandated in the past, it is 1 to 182 for schools with high school grades to have a school counselor. Now when you add the total of both — when we look at school counselors and social workers — those ratios change. The ratio then becomes 1 to 164 for all schools when you look at the combined numbers and 1 to 120 for schools with high school grades. Okay, better, but still not...
+
+**(05:02:08)**
+
+
+
+...good. We need to do much better and I know we are working to get there. In terms of my last question — in the budget we saw $3.7 billion to charter schools. How much of that is for rent? Is there any oversight in terms of those rental payments or any negotiating power in leases?
+
+**(05:02:35)**
+
+
+
+Solely for rent for charter schools it is over $200 million of that total amount that you just quoted, and it is all governed by state law.
+
+**(05:02:45)**
+
+
+
+And what are the major categories? So $200 million is rental assistance and then what is the breakdown of the other major categories?
+
+**(05:02:53)**
+
+
+
+Most of it is tuition and rental payments.
+
+**(05:02:57)**
+
+
+
+The rental payments should be captured in the lease cost that I just provided to you, but the bulk of it is tuition.
+
+**(05:03:04)**
+
+
+
+For general and specialized students in charter schools. Got it. And then there is no negotiating power that the DOE engages in in terms of rental assistance or negotiating leases for schools in new buildings?
+
+**(05:03:20)**
+
+
+
+Just a correction — rental assistance is over $300 million. Thank you for that. I think there is very little negotiating power there, again because it is all governed by state law, but...
+
+**(05:03:30)**
+
+
+
+...I will defer to Moran if there is a correction needed there. Yes, so exactly — on the budget side it includes $340 million in rental assistance. In terms of rental assistance, we are just following the set policies by law to reimburse. So when a school is placed in an industrial building in an industrial zone on a truck route, the DOE does not engage in any conversations about whether an educational institution should not be placed there.
+
+**(05:04:08)**
+
+
+
+We are not the charter authorizer in many cases, and so they will be going through the state or otherwise to get...
+
+**(05:04:13)**
+
+
+
+...Thank you. Thank you so much. Thank you. Thank you, Council Members. CM Wong, followed by CM Krishnan. Thank...
+
+**(05:04:21)**
+
+
+
+...you, Chair. First of all, not only as a Council Member of our City, I would love to thank Deputy Chancellor Kevin — thank you so much for putting the 18 while my school. This has been a struggle for a long time. I also realized that in general, when our principal worked to make sure that no one used the auditorium during service, and then they told them all we are going to do the work there in the summer. After the principal reached out, others saw the school and told them, oh, we cannot do the construction at the school anymore. It really costs a lot of trouble to parents and the school, and I hope that part needs to be improved.
+
+I also have another question about immigrant family services. Over 40% of New York City public school families speak a language other than English at home. The Immigration Family Communication and Outreach Initiative is a $4 million program that helps immigrant families get important information about their child's education through strategies such as sending paper notices, calling or texting families and collaborating with immigrant-facing CBOs. The executive plan does not include this funding in fiscal year 2027 or the out years. Can you please talk about how this funding has been used and how this funding may be used going forward?
+
+**(05:06:05)**
+
+
+
+What types of services will schools speak to, and what should the school do if they need help? Thank you for the question and I am happy to jump in. So it is correct, we have received $4 million in support from the Council to be able to support our immigrant language efforts. That includes, when you ask how it has been used: we have been able to develop the Hello, which allows for automatic language assistance designated to provide real time interpretation in New York City's core languages to support in-print translation when needed. We also have extended a pilot for five districts to be able to obtain free professional interpretation services for families. So far, 500 families have attended those events that we have used this funding for. We also, as you mentioned, have partnered with 16 different local community organizations that have language expertise to make sure that those supports are expanded. We also have worked on the training of our language access coordinators. So this is relatively new. Each school now has a designated language access coordinator and our office works to bring them together to share resources. And to your last question, I am looking forward to continuing to partner with the City Council in these areas because without that, those funds, there will be limitations to providing all of those supports that I just mentioned and more.
+
+**(05:07:48)**
+
+
+
+I also have a follow-up question. Has there been a conversation with OMB on extending this funding?
+
+**(05:07:57)**
+
+
+
+I know that I will leave my colleague the Chief Financial Officer to speak a little bit more on funding, but there have been multiple instances where we have highlighted some of the needs around language access and the need for funding from my end. Yes, I can confirm it is a part of our ongoing conversations with OMB.
+
+**(05:08:15)**
+
+
+
+Okay. I also want to share something that happened in my area in 2023. Actually, it is an ongoing issue still in my area. There are multiple — not only just one high school. Multiple high school principals have reached out to me. They need assistance to communicate with some newer incoming families. Some languages are not easy to access. The schools also, because they are high school students, think that the students do not need the school to communicate with the parents. The kids know both languages but the kids do not want to translate for the family and the school. So it is very hard for schools to communicate with parents. I have an instance from 2023 where one kid actually got shot. In my district, I do not want this type of thing to happen. I want the schools to have communication with, especially, the immigrant parents who do not speak the language and do not know how to navigate the system. As an immigrant myself and somebody who started going to New York City public schools as a high school student, I know that in different countries the education system is very different.
+
+**(05:09:41)**
+
+
+
+I would also say that schools receive funding and if you look at some locations, they receive money in their budgets that they can also use to enhance the supports beyond the things that I mentioned. But if you want to share with me the specific high schools, I am happy to engage and work with the team to make sure that our parents get access to that information that you are saying is much needed, beyond the required language supports. Anything that I can do — I understand, you know, just from a policy and educational perspective, I understand the lived experience.
+
+**(05:10:14)**
+
+
+
+Okay, thank you. Well, definitely follow up on anything that you need. I am here. Thank you.
+
+**(05:10:18)**
+
+
+
+Thank you. Thank you, Councilmember. Followed by...
+
+**(05:10:23)**
+
+
+
+Good afternoon, everyone. Good to see you all, Chancellor and the bilingual education team. I want to thank you all for coming out with me to one of our programs at a school in Jackson Heights and I appreciate the Department's commitment to bilingual education. I have a couple of questions on a couple of different topics. The first one is, I know we talked a lot about class size and the class size reduction plan and getting there eventually. I just had one question. I know in December 2023 the class size working group came out with some recommendations on ways to find and figure out smaller class size spaces in different ways. Has the Department looked at that? Are you all considering those recommendations? How is that going?
+
+**(05:11:05)**
+
+
+
+Yeah, absolutely. We took a look at that both in practice and in consideration. Most recently, as we said, we are looking at non-capital as well as capital investment. Those non-capital approaches consider the use of our current buildings and where that stands, and those are recommendations that came from the working group that you are talking about. So yes, we have definitely looked closely at it and worked shoulder to shoulder with partners across the system to consider some of the factors there. Erin, I do not know if you want to add anything there.
+
+**(05:11:43)**
+
+
+
+Yes, thank you, Chancellor. Thank you for the question. We are considering that. As the Chancellor said, our capital plan and approach to finding more space takes into account some things including, for example, looking at shared space in buildings and these non-capital approaches that were identified by the class size working group in 2023. I think we are continuing to reflect on what they shared then and again, as we release the class size reduction plan, I think we will see that there is evidence of our consideration in the plan.
+
+**(05:12:22)**
+
+
+
+Great, thank you. And then shifting gears completely to another topic that is more and more of concern on my mind: the presence and reliance of screens in schools, especially for elementary school students. I know, Chancellor, you and I had a conversation about that and we are both committed to working together to address
+
+**(05:12:40)**
+
+
+
+that issue. It is just, you know, a number of things and I want to focus on what is happening with young kids in particular. Obviously there are discussions that we have about middle school and high school, but between the Chromebooks and programs like SABA or iReady tests and things like that, there is just a lot going on. It is a City issue but it is also a national issue — the amount of screen time, especially since the pandemic, that kids are spending in the classroom and at home on screens. I am already negotiating with my kids over PlayStation time and everything, and this is not one more thing I wanted to add to the negotiation list with them. So there are a lot of contracts that the Department has with ed tech vendors, I guess I would call them, and I am just curious how the Department looks at those contracts and the effectiveness of funding those contracts at those levels and how you all keep an eye on those things.
+
+**(05:13:35)**
+
+
+
+Just such a great question, and as someone who has young kids as well, this is something I am super concerned about and thinking about — screen time and what that means for our school system. We are having those discussions as we continue to hear feedback on our policies when we think about ed tech resources and tech tools that are being used in schools. We recently did a survey of our principals to kind of get a sense of what is happening. We are looking at multiple opportunities to think through how we can begin to or accelerate assessing the effectiveness of those tools as part of our broader technology strategy in general. I think there is more to come on that, but it is something we are looking at really seriously. I am glad to hear it and look forward to continued conversation on those issues. Thank you.
+
+**(05:14:39)**
+
+
+
+Thank you, Anthony.
+
+**(05:14:40)**
+
+
+
+Chairs, great. Councilmember, thank you. Good to see everyone. What time is it? 1:20. Oh, it is early, everybody.
+
+**(05:14:54)**
+
+
+
+Okay, I have a few questions. I am going to focus obviously on early childhood education, although I do have maybe like two other questions for everybody else. So first I just want to start — I just wanted to see if Deputy Chancellor, you wanted to expand. I know Speaker Menin had asked about pay parity. I felt really encouraged by referring to it as compensation parity and really wanting to look at benefits. Is there anything else that you can expand on that? I know we have spoken at length every time we have a hearing. We have a number of people come and testify and it still seems to be the biggest issue for folks to really buy into and expand to get to universal child care. As you know, we are working really hard on trying to get more people to want to pursue a career in this. So is there anything that you can expand on right now in terms of how you are looking at or how you are even thinking about beginning those conversations?
+
+**(05:15:47)**
+
+
+
+Because I understand it is layered. I appreciate that, Councilmember, and you know, there is nothing to share that would be anything more than a non-update and I really want to be thoughtful about giving you something with substance. But please know, as a Black woman and knowing that this specific sector is comprised of underpaid women of color, this is something we take very seriously. The administration and the Mayor himself has been very clear about taking this on firsthand. So we are looking at the pay structure. We need to clearly define what equity is, understanding the nuances across the sector, and then the part around health coverage and insurance. So nothing substantial to share right now, but it is something we are taking very seriously.
+
+**(05:16:42)**
+
+
+
+Excellent, excellent. And is there any kind of timeframe where you think you will be able to come back and just share anything on it? Again, I get that it is layered. I get that it is complicated. I get that getting data even is difficult. So kind of what is your timeline?
+
+**(05:17:04)**
+
+
+
+Yesterday would have been nice, right? And I think we all want that. But what I can agree to is we will confer with our colleagues because that is something we have to do and develop together and we will get back to you on what the timeline could be.
+
+**(05:17:18)**
+
+
+
+Okay, well I look forward to continuing those conversations and encourage folks that are here and will be testifying this week to just continue to hold us all accountable because we do not want to fall short. Okay, I am going to ask some questions about 3-K that I think at the preliminary hearing were not shared. Is there a current 3-K utilization rate that you all have that you can share?
+
+**(05:17:40)**
+
+
+
+Yes. So the utilization for 3-K is 85% and that is for about 52,000 seats. And then do you have one for pre-K as well? Yes, that is 80% for about 69,000
+
+**(05:17:54)**
+
+
+
+seats. 69,000, okay. And can you share at this time current enrollment for 3-K and pre-K?
+
+**(05:18:07)**
+
+
+
+So it is that utilization rate...
+
+**(05:18:08)**
+
+
+
+So that is what the current enrollment is. Yeah, okay, exactly. Okay. And then I
+
+**(05:18:16)**
+
+
+
+wanted to ask — I know all of the assignments went out. That is not the right word, but you know what I mean — the offers. The offers, I got you. Okay.
+
+**(05:18:25)**
+
+
+
+All right, I am in the trenches too. Can you share a little bit
+
+**(05:18:30)**
+
+
+
+about — I do not know if it is okay for you to share kind of the amount of families that were able to get their first, second or third pick? Any of that data that you can share now?
+
+**(05:18:39)**
+
+
+
+I know it is recent, but for 3-K and pre-K we got approval from our colleagues in the Office of Student Enrollment. One thing we are very proud about — we did it last year for this current school year and we are doing it now for the upcoming school year — as you know, any family who did apply by the application deadline received an offer. So 100% of offers were given to families who applied. So across 3-K and pre-K there are about 100,000 applications with about 57,000... actually let me take a step back. There were about 100,000 applications and then offers exceed the number of applicants because sometimes we manually place students. So for 3-K it was about 57,056 offers and then for pre-K we extended 43,083 offers. And of those, specifically for
+
+**(05:19:42)**
+
+
+
+I think this is 3-K specifically, and I will get back to you, Councilmember, on the
+
+**(05:19:46)**
+
+
+
+second and third choice for pre-K. But for 3-K, you know, we are trying to get to universal. So those numbers around priority placement are based on priority and preferences. So 70% of families received their top choice, 84% received one of their top three choices and
+
+**(05:20:07)**
+
+
+
+88% received a choice on their application. And for the 12% that maybe received an offer that they had never heard of — what recourse do they have? I know your office was super helpful. We encourage people to sign up to the waiting list at their nearest site. But how are you moving along that 12%? Because I think those parents are often the most vocal. They are like, I live in Crown Heights, I do not know why I am expected to go to — I am making this up — Bushwick. Let us just say yeah,
+
+**(05:20:40)**
+
+
+
+for whatever reason. How are you all working through those placements? So a few things. Thanks to, you know, the motivating factor that you all have in encouraging us and holding us accountable, the investments from the administration and the Governor around just creating new seats — that is helpful in creating placements closer to home or work, wherever the preferences of that family are. So we have gotten the distance down significantly for the upcoming year, about 0.8 miles. We
+
+**(05:21:10)**
+
+
+
+actually decreased the distance of placement and I think that is worth celebrating. Now, this might be a provocative statement around the 12%.
+
+**(05:21:20)**
+
+
+
+There is no part of our system where 100% of families get their choice. I am a parent who just went through the high school application process and I had to wipe some tears and give some hugs because she did not necessarily get into one of her top choices. So I really want to be clear that we have to level-set expectations. But we always want families to be within a reasonable distance of travel. So again, it is going back to investing and placing seats and creating a more flexible system where our community members — be they family child care homes — can offer care based on community need and not be limited. Families should not be limited in where care is placed. So we are trying to infuse the system in ways that are thoughtful to create that flexibility. It does take some investment but it also takes some nimbleness in the contracts.
+
+**(05:22:10)**
+
+
+
+And I understand that. I think the instances that are being brought up to us and to my colleagues are ones where, you know, 3-K and pre-K do not work the same way as K through 12. We have zoned schools and we have schools that we know will take us. These are instances where parents are like, the school is a train ride away. These are the extreme cases that I am referring to. In those instances, no parent is flexible because they realize they have engaged in a process that is for the most part still kind of up in the air. It is those specific instances that I am referring to where people are having to travel a lot further than 0.8 miles, which I think is wonderful. So I want to give you your flowers. I think that is important. But I am talking about these extreme situations, which are common to... okay, great. And then if we can move to 2-K — so exciting! Applications went live last week. Yes, last week.
+
+**(05:23:03)**
+
+
+
+June 2nd. Yeah, really exciting stuff. Are you able to share at this point the proposed contractual seat cost for each? Dr. Casey: we can give that to the Council afterwards. It is a bit complex and I do not want to take up too much of your time, but we can definitely share that afterwards. Okay.
+
+**(05:23:20)**
+
+
+
+And just to confirm, the 2-K pilot applications went live last week. The enrollment for the fall is extended day, extended year — that is the primary seat model, expanded day, full year. But there are some providers who... okay, excellent. That is exciting. Okay. I want to move to the home-based providers under this model. It does appear in the 2-K pilot rollout that a large number of the home-based providers will be participating. Can you share what costs, what other costs do the family child care network contracts cover at this point?
+
+**(05:24:05)**
+
+
+
+So the family child care network structure — and just for everyone to have awareness — we contract with the network that then affiliates with a family child care home. So through that cost-per-child rate, the network retains a portion to support that kind of administrative oversight and support. So they provide coaching and training. They have education specialists, as we call them, to provide that coaching and training in addition to what we provide within the Division of Early Childhood Education. But they also support the administrative oversight and support, so they actually remit the payment to the family child care home and provide any other additional supports that they need to maintain compliance with the Office of Children and Family Services.
+
+**(05:24:50)**
+
+
+
+Do the contracts include any liability insurance costs or certification costs? That is an electable cost...
+
+**(05:24:57)**
+
+
+
+And so they can — the network can bill us for that. Okay. Is there any role
+
+**(05:25:11)**
+
+
+
+that home-based providers who are not affiliated with the network currently play under this 2-K rollout or will play, to the best of your foreshadowing ability?
+
+**(05:25:21)**
+
+
+
+So one thing we were very thoughtful about is we do not want to over-saturate communities, because we know that some of our family child care partners want to remain independent, and they are part of a healthy ecosystem of care that centers family and parent choice. And so we did not really look at an expanded data set to determine their placement. We worked on that really closely with them. But what we hope to do is we hope they do consider partnering with us and affiliating, and what we created as an opportunity in this process that we released to encourage new 2K and pre-K providers was that a group family day care organization can actually serve as a network, and that is a new model. And so it is really exciting. A previously independent family home-based provider or family... sorry, just to make sure the termination of the... who is not within a network right now can serve as their own network if they applied through the process and received... and they were selected. Their proposal was selected for this pilot, for this initial year, correct.
+
+**(05:26:26)**
+
+
+
+And we plan to do that moving forward. And is there... and we should, we will, I think, expand a little bit more because I think people are very curious and we want to be very careful. I know you all share in that, that, you know, under the administration's rollout of pre-K a few years ago, I think there were a lot of folks that ultimately had to close their doors because they were not in the process, and we want to be really careful. We do not want to be a part of something that is going to force these women — majority women — to shut down the shop. So for any of these home-based providers that are seeking to join a network or be their own network, what is the process? Let us say they are not one of these in the 2K pilot for this year, for this round. What is the best way for them to remain engaged? What is the best way for them to just not fall through the cracks?
+
+**(05:27:16)**
+
+
+
+So for the latter, if they wanted to operate specifically group family, not family day care programs, if they wanted to operate as a network, that opportunity has since passed. There was a process they had to apply through, and so I will say that there are future opportunities and we will note that on our web page. But for those who are interested in affiliating for 2K or not 2K, we offer infant care, we offer pre-K care through family child care. They have the opportunity to reach out to us to determine if they want to affiliate with any of our existing — about two dozen — networks that already exist across about 48 contracts, and we have at least one in each borough. And so they can reach out to us. There is a process to make sure it is the right fit. We want the affiliated provider to choose the network that they want to partner with. Language is a real important aspect of that. Cultural responsiveness is at the core, but we also want the network to have some say in the affiliated provider, and so...
+
+**(05:28:16)**
+
+
+
+I am sorry. No, it is okay. Does every network that is affiliated have the capacity to take on
+
+**(05:28:22)**
+
+
+
+providers at this point? That is a fantastic question. Not every single one of them has the capacity. Some of them are at their max target, but we are having conversations with those networks now and with the UFT to determine if we can have some wiggle room in shifting that
+
+**(05:28:38)**
+
+
+
+target threshold. Yeah, I think that is a concern. I think especially the ones that have reached out to me have said like, we tried and there there...
+
+**(05:28:47)**
+
+
+
+...capacity. Okay. I want to
+
+**(05:28:49)**
+
+
+
+just switch gears to the birth-to-two pilots. Sorry, Chancellor. I got you. Do not worry about it. I am in the zone. But it is only a couple more and then I will ask the questions. So the Council was able to fund this $10 million — thank you — and it is really
+
+**(05:29:08)**
+
+
+
+encouraging to hear that the administration is going to fund it to kind of roll it over into next year, which is really exciting. Can you share — are these the same providers from last year? Okay, the same, exactly the same, the 160 seats, and excitingly enough all of those 160 seats are full and filled. Okay. And...
+
+**(05:29:28)**
+
+
+
+this is just a new crop of two-year-olds with the same providers. Correct, or younger than two.
+
+**(05:29:34)**
+
+
+
+Or... can you share why? Because I think the allocation was for 246, and I know that there were several issues as to why it was not for this year. However, why are we sticking to the same 160 and not shooting for the 240?
+
+**(05:29:53)**
+
+
+
+I appreciate that question. So what we wanted to do is make sure that the existing seats that are already up and running can sustain for the upcoming school year. And so we focused the funding on that. We also are focusing on making sure that those two-year-olds in the districts that were once a part of the birth-to-two initiative, but are now part of a 2K district, will be converted to 2K and can support that. Do you know what districts? I do not have it right now, but I can get back to you. It is very small. Okay. Can we
+
+**(05:30:24)**
+
+
+
+receive a list of the providers for FY27, including the school district and number of seats for birth-to-two? Yes, birth-to-two. Excellent. Thank you. And then can you share why that funding was...
+
+**(05:30:34)**
+
+
+
+It is very creative, you know. I used to work at... and so is my friend, but we worked together. It is really... determined through all of it. We got these investments for 2K, pre-K and pre-K. We want to make sure that we take this opportunity to optimize. And so some of our existing partners, specifically in certain districts, decided to age down or age up. Moving that allowed us to free up some City tax levy that allowed us to support the birth-to-two initiative for another
+
+**(05:31:10)**
+
+
+
+year. Okay. And do you know if there is... will it go beyond FY27? I cannot speak to that right now, CM. Okay. Are you feeling good about it, you know?
+
+**(05:31:22)**
+
+
+
+Yes, I am always feeling good. I am feeling very hopeful about early care and education. I think... I mean, I think I do not want to say... I think it is exciting and I think, especially for communities that are not in this 2K rollout, I think it is an opportunity to expose them to what it is like to contract with the City under this program. And you know there are rumors. I am sure when the applications went live last week, I am sure there were a number of parents who were like, oh man, I am not in this zone. And so I think this is... I think it would be great to continue it on. I would love to keep the conversation going about making that happen. Okay. I want to just talk about my last question under early childhood. I promise.
+
+**(05:31:59)**
+
+
+
+Chancellor, I just... the concern... I know you are like, I need a break.
+
+**(05:32:01)**
+
+
+
+I love the topic, it is fine by me.
+
+**(05:32:03)**
+
+
+
+I think a lot of advocates and parents, to be completely honest, have trauma — not from this administration, but just trauma from not feeling like the pre-K seats or pre-K seats were guaranteed for their child if their child had a disability. And I do not mean the need for early intervention, but a disability. As you know, we fought tooth and nail to get funding to make sure that we were following the law. And so I think that there is this bad taste in the mouths of so many families. And now with 2K again, which is very exciting, it would be really great if there was something very explicit or something concrete that was shared with these families who are now looking for a seat for their two-year-old who has a disability. If there was something concrete that we could share that said we have a plan, we are working on a plan. I know the site says that there will be accommodations, but we do not know what those are. And again, in a time when we have so much work to do to clean up from the past, what can you share today about the specificity of those accommodations that are going to meet the needs of kids who have disabilities that are not going to be resolved with early intervention resources?
+
+**(05:33:23)**
+
+
+
+I appreciate that. And I know we have heard our Mayor say, we have heard our Chancellor say, this is for all of our children. And one thing we are not doing — I would say we are not belittling this process — every child counts. We are caring about the quality of seats and the care that each little one will get in that seat. And so that means we have to be thoughtful about how we
+
+**(05:33:47)**
+
+
+
+create inclusive environments but also ensure that we provide the right interventions and placements where appropriate. And so I cannot provide any specificity because what I never do — and I hope this is on brand — is over-promise and under-deliver. But please know that this is something we are being very thoughtful about. And once we have those specifics, and again we are not doing this just within the doors of 2K, we are doing this with our partners at the Health Department because they too are part of this and they are the experts as well. And so we are creating what that array of supports will look like — maybe a third teacher, specific sensory tools and materials, whatever it is. We are creating a very clear process to have money in the coffers to provide that, a referral process, a place where folks can go — the family or the educator — where they can go and tap into that resource and make sure that that is clear and accessible. And we will be updating our website with that information once it is finalized. Okay. And do
+
+**(05:34:48)**
+
+
+
+you... thank you. Thank you for that. And do you think that that will happen before the deadline to apply for 2K?
+
+**(05:34:53)**
+
+
+
+We have currently on the website that it is open to all children with disabilities. I cannot commit to the accommodations details, but again it will not be an exhaustive list because the needs will vary. And so we do not know what the full scope of needs is yet exactly. I think that when we do not
+
+**(05:35:12)**
+
+
+
+meet the potential for a need is when parents start to feel like this is not for me, so I am not even going to bother. I agree. And again, kind of undoing the trauma of years and budgets past, I think that we do have a responsibility. I think it is great. I saw it on the website and that is why I want to take the time today to kind of hear that from you, that you are committed — absolutely committed. Okay. Thank you. And then I have one question for the Chancellor. I just want to second what my colleague CM Krishnan had raised about AI in schools. We have gotten a ton of feedback, especially from parents of K through five, that are deeply concerned with the guidance. So I know we are going to continue that conversation. I know Chair Dinowitz is on top of that. I wanted to ask about the funding for restorative justice. What can you share? I know we are not... yeah, I was expecting the question and it was fine. No, that was it. We could be here all day. I do not mind. I like it. Okay, I think I glossed over my concern, but I am not going to ask about it. About restorative justice — can you share a little bit about the issue with the vacancies? Because as I understand it, that is where the cuts are being proposed, because there are vacancies. Or am I misunderstanding?
+
+**(05:36:26)**
+
+
+
+No. So first of all, you know, again we are committed to ensuring that we have high quality programs. Restorative justice is a huge part of what we do. Our response to discipline is the discipline code, and so I am going to turn it over to our chief to talk a little bit more, but I am not exactly sure about the vacancy
+
+**(05:36:47)**
+
+
+
+issue. Well, just... and I am sorry, I
+
+**(05:36:50)**
+
+
+
+misspoke. So it is cuts to restorative justice and then vacancies related to social services, so two different things.
+
+**(05:36:57)**
+
+
+
+Okay, so what is the... so you want us to just... cuts to... cuts to our...
+
+**(05:37:02)**
+
+
+
+I want to understand why there are cuts to restorative justice. Kind of what happened there?
+
+**(05:37:08)**
+
+
+
+I do not see that. I mean, the cuts would... cuts to show you...
+
+**(05:37:11)**
+
+
+
+Were there no cuts to restorative justice training proposed in the executive budget?
+
+**(05:37:16)**
+
+
+
+Cuts to the training? Yes. No. What do you... I mean, the last Council member — I apologize, I forgot the name — the question that she asked, it was about cohorts. Is that what you are referring to as well? No.
+
+**(05:37:32)**
+
+
+
+Okay, it is referring to the cut in the budget, the budgetary cuts.
+
+**(05:37:37)**
+
+
+
+In the savings... yeah, were there cuts to restorative justice training there?
+
+**(05:37:45)**
+
+
+
+There was no cut in our savings that was submitted related to restorative justice. I think what folks have been talking about is the $6 million that is not in fiscal year 27 as of yet. I know that typically the funding, the allocation for that, happens through the adopted budget negotiation process. So I think that is what folks are referring to, but there are no specific cuts that we have taken for restorative justice. And the six... thank you. Thank you for clarifying. And the $6 million that you are referring to...
+
+**(05:38:15)**
+
+
+
+that, you know, we will see at adoption — can you share specifically, is that being invested in specific programs that you can highlight, or is it any of the social services, or is that separate? So I will turn it over to Mark. I do not know if you want to talk about specifics about restorative justice, but in terms of
+
+**(05:38:31)**
+
+
+
+the work that we are doing now and that we hope to continue to do in fiscal year 27 once the funding is allocated...
+
+**(05:38:39)**
+
+
+
+Yeah, once the funding is put into the budget, the intention is to continue the work that we are doing around restorative justice, to expand it to more schools around the City.
+
+**(05:38:48)**
+
+
+
+Okay. And there is nothing that you can say about... so this $6 million, is it a new allocation? No, the $6 million is not in the allocation. What
+
+**(05:38:57)**
+
+
+
+you are... what is getting confused here is we are talking about $6 million that is not baseline. And that is what you are referring to. So without the baseline funding, obviously restorative justice is going to take some change in the way that it is modeled and offered to schools. So if in fact the $6 million is restored — I will say restored — we will continue to be able to provide the existing programs. Yes, ma'am.
+
+**(05:39:23)**
+
+
+
+Okay. And is there any intention for... or is there any need, in your opinion, for additional funding to meet this
+
+**(05:39:32)**
+
+
+
+need? Because I think there are a lot of advocates that are saying they would love to see more investments in restorative justice, obviously. So I think that is kind of where my line of questioning wants to get to. I get that $6 million is not nothing, but I think is there an opportunity, or kind of what is the assessment on the need for more, to expand on this, to reach more schools? I think at the preliminary budget we had some feedback from Council members who had engaged with their communities about specific programming. Kind of where is the line of thinking or priority for that specific area where people want to see more of it, maybe stronger programs or expanded programs?
+
+**(05:40:10)**
+
+
+
+So everyone has a vision around what they would like to see as it relates to restorative justice. What we would like to see in New York City public schools is a program that continues to evolve — evolve in this sense that more people are trained, the mindset is shifting. What we need to be able to do is continue to have more people invest in the overall work. So we continue to offer cohorts where people are not showing up, and so the real conversation is around getting more people to buy in to the notion of restorative justice and then create our internal muscle where our staff can train our staff and we can continue to grow and grow and grow. It is not necessarily about more money. It is about more people investing in the notion of restorative practices. Okay, thank you. Thank you.
+
+**(05:40:57)**
+
+
+
+Thank you. Okay, so one quick question about the state funding. Because I know that the state passed the budget for FY27, which I know we were waiting on for a while, and they are going to provide school aid to New York City, including $1.1 billion in foundation aid. So I just wanted to know how much additional foundation aid funding is left to be recognized at adoption over what was included in the executive plan.
+
+**(05:41:27)**
+
+
+
+We estimate about... is left to be allocated at the adopted budget.
+
+**(05:41:33)**
+
+
+
+Perfect. And then can you also discuss the importance of getting the English language learner weight increased and a new weight for students in temporary housing and foster care, which I know we
+
+**(05:41:41)**
+
+
+
+talked about. We are extremely excited that those two things happened within the state budget — something that we have been advocating for for a very long time. I know that while we are happy and grateful that those things actually made it in, we are going to continue to advocate for a regional cost index and increased funding for our students with disabilities. Happy to see that we are on the right track with having the sound foundation aid formula updated, and we will continue to partner with our City and state partners for more funding from the state to New York City.
+
+**(05:42:21)**
+
+
+
+And then given that, would you be able to... would you support the call for $3 million in funding to provide interim transportation for students in foster care that are awaiting school bus service? I think that was the ask we were looking at — $3 million from the funding that we received. Yes. So
+
+**(05:42:43)**
+
+
+
+unfortunately, any increases above 3% that we received from state aid are actually directed toward or shifted to CFE, which is a restricted funding source. Got it. Okay.
+
+**(05:42:58)**
+
+
+
+And then just in terms of the three key under-budgeting items — and then I promise I will be done with my questions — at least in the preliminary plan, the administration had significant under-budgeting in the pre-K budget, including reversing the $170 million PEG from the previous administration. So can you speak to the budget and what factors led to this issue?
+
+**(05:43:24)**
+
+
+
+So I think I want to pivot to the fact that their funding was actually put up in the preliminary plan. What you did also reverse the $170 million in cuts. So I think what this administration has come in and done is show the importance of investing in sustaining the system again. Prior to that we had $170 million worth of cuts related to seats that never actually did anything. So happy to see that that was restored and then the acknowledgement of our contractual obligations. So just again want to point out that the preliminary budget, which is this first budget, addressed all of those things.
+
+**(05:44:07)**
+
+
+
+Okay. Yeah, because it included the reversal of the $170 million PEG.
+
+**(05:44:11)**
+
+
+
+Yes. And then what was the gap in FY27 prior to the preliminary plan? Can I get back to you on that.
+
+**(05:44:22)**
+
+
+
+Okay. And then for the $205 million and $30 million for pre-K, how are you utilizing the additional funds, recognizing the preliminary plan from the...
+
+**(05:44:34)**
+
+
+
+State executive budget for FY27. So those funds are doing two things: the new seats I mentioned earlier, but also sustaining that existing portfolio. Okay.
+
+**(05:44:52)**
+
+
+
+And then how much of this new state funding will be utilized for the 2,000 new 3-K seats? So $73 million is dedicated to that.
+
+**(05:45:02)**
+
+
+
+Okay. And then what...
+
+**(05:45:03)**
+
+
+
+Other programming has this funding been allocated towards for early care and education, specifically for New York City public schools? I believe you covered that here. Okay, perfect. Are you ready? Okay.
+
+**(05:45:21)**
+
+
+
+Perfect, go ahead. Yes, yes. What of what?
+
+**(05:45:30)**
+
+
+
+Go ahead, go first. I do want to make a correction. Math is not your friend. Math is everyone's friend. Okay. I said it is my friend. It is actually my best...
+
+**(05:45:45)**
+
+
+
+Well, everyone's. I appreciate that.
+
+**(05:45:48)**
+
+
+
+Sorry, I just wanted to clarify one thing. The 2,000 3-K seats... I am sorry, because I know. So it is a bit of a combination, but I think primarily $35 million is intended to support the development of the new 3-K seats.
+
+**(05:46:06)**
+
+
+
+Perfect. Okay. Thank you. Now I can go. All right, thank you. Thank you, Charlie. Special...
+
+**(05:46:21)**
+
+
+
+Education. As I mentioned in my opener, we are interested in discussing what the investments actually are, because it seemed to be focused only on early childhood, or most centrally early childhood. The plan includes additional funding for pre-K special education and support at nonpublic schools. This plan does not include an expansion of AIMS, NEST, Horizon or other effective programs for students with disabilities in grades K through 12.
+
+Chancellor, you have both spoken about these programs. What metrics do you use to track the success of these programs that you could say they are wildly successful? Thank you for the question and, you know, we are deeply committed to creating high quality programs for families close to home. All the programs you mentioned — what we find is that when we do open these programs, they are immensely popular and families really try to make use of them. Okay.
+
+**(05:47:21)**
+
+
+
+Because I just want to ask, what does popular look like? If you could say how many of these seats exist...
+
+**(05:47:29)**
+
+
+
+I think the last time I looked, 80% of families accepted the offers to these programs. And then also, when you think of metrics, you know, we look at graduates and where we see significant levels of progress. In fact, sometimes our students who are in general education. So I am going to turn it over to Christina to talk more about it, but to be clear, this is a huge part of our strategy as we move forward in not only resolving our due process cases or getting them down, but also investing in high quality programs close to home. So, Christina.
+
+**(05:48:18)**
+
+
+
+Thank you, Chancellor. I think a couple of other data points: we are seeing our students in our specialized programs coming to school more often than their peers. In our AIMS program it is 88%, which is at least seven points above their peers.
+
+**(05:48:34)**
+
+
+
+When you say their peers, you mean students with autism in the general population in a community school?
+
+**(05:48:40)**
+
+
+
+Students with significant autism in District 75, our community school. NEST and Horizon: 92%, again that is about six percentage points higher than their peers. Our special classes in NEST are 50% more likely to be proficient and Horizon are two times more likely to be proficient in math and ELA. We also do parent satisfaction surveys where 9 in 10 parents say that they would recommend their specialized programs to other families.
+
+I think you also asked about seats, Chair. Just to the beginning of your question: are we expanding K to 12? Yes, we are. We are going to be expanding our autism programs by more than 675 seats. This is an increase. We are going to be grading up our existing programs, which is exciting. I do want to say yes, we have been focusing in terms of the early childhood investment, but we are six months into this administration and we are seeing an additional 675 seats coming our way. The investment is significant and another example of this administration's commitment in the past six months. That investment, if we are able to continue to hire those providers — we are all sharing the same resources — so an investment in workforce is an investment in the overall infrastructure of special education.
+
+I am hugely appreciative. I also just want to thank you, Chair, for so deeply diving into this work. You know, this is the first time we have been asked to provide our counsel on a briefing on due process. It is a difficult topic, but you all have spent so much time digging in and thank you for that. And also the briefing requested on specialized programs — the fact that you all are able to... I mean, your testimony, you did my job for me. So thank you. And I really think all of us in the community recognize how much you care about this matter.
+
+**(05:50:49)**
+
+
+
+Thank you. And as I say, I think we all agree this is a moral imperative but also a fiscal one. So I am going to get to the IEP and I want to thank you for that briefing, it was very informative. As I said, you should be a teacher. I mean, you are also good lawyers. So you should do both. The 975 seats that...
+
+**(05:51:12)**
+
+
+
+You cited — are those in District 75 schools or are those part of Horizon, NEST and AIMS programs? Right, they are part of Horizon, NEST and AIMS programs. We are grading up. So the kids that are in...
+
+**(05:51:25)**
+
+
+
+Currently in the programs, we of course want them to continue next year. So this is not so much... I mean, would you define that as an expansion or would you define that as just keeping pace with the current class? For K to 12, the last thing we want to do is pull kids out of existing program seats. So not a new program, but we are making sure that the...
+
+**(05:51:52)**
+
+
+
+Program continues. So maybe "expansion" is another word for "sustaining." Okay. And how many students were not offered a seat, or rejected — whatever words you want to use — because there were not enough seats?
+
+**(05:52:06)**
+
+
+
+Yeah, I mean, those numbers are staggering, right?
+
+**(05:52:09)**
+
+
+
+So for the AIMS program, which we were onto something — we thought that the AIMS program was exactly what our kids need — 510 seats, 510 kids in those seats, 2,070 applicants. For Horizon, we currently have an enrollment of 2,203 kids, with 1,410 applications to NEST and Horizon for kindergarten. Those 1,410 applications were for 560 seats. So wildly popular.
+
+**(05:52:57)**
+
+
+
+Do you think that that demand... do you think that that is appropriate? Yeah. So...
+
+**(05:53:01)**
+
+
+
+We have here and I want to...
+
+**(05:53:03)**
+
+
+
+Highlight something you said, Chancellor, that these seats are part of resolving due process cases, right? Making the investment in our public system helps resolve the due process claims where families feel the need to seek out private school education. And I also just want to add that we see a reduction in the travel time that kids experience. This also solves parts of the bus issue in some cases.
+
+So what I am trying to understand is why there is not greater investment in something that is a moral obligation and a fiscal obligation. Where is the investment in this? And to ask a specific question: what would it cost to provide a seat to every student who applied and was deemed eligible? I think that is something I would have to get back to you on. I am not sure. Yeah.
+
+**(05:54:10)**
+
+
+
+Yes, we can definitely provide the per-pupil cost and we can definitely send those over to you. In terms of the overall budget, I think, Chair, you know, this is something that we continue to talk about, right? We talked about a lot of priorities today, a lot of things that people want, a lot of things that kids need. One in four kids have a disability. We are seeing those numbers rise significantly and the needs of our students coming into the system rising significantly. That is true nationally, but this is very much a local issue as well, of course.
+
+**(05:54:43)**
+
+
+
+So the demand is going to continue to grow, but I would argue that every time we have an investment we have...
+
+**(05:54:50)**
+
+
+
+Shown enormous return on investment in terms of the outcomes you have just heard about. We also talked earlier in this hearing about the due process infrastructure and a lot of private benefit from public funds. And that is why we are glad to have the best lawyers in the city here helping us come up with the strategy.
+
+**(05:55:07)**
+
+
+
+So you agree with me. I agree with you on most things, especially with Charlie on...
+
+**(05:55:16)**
+
+
+
+Maybe. Okay, I will stop. But most people do. The point is, though, we have had right since 2000 over a decade of $8.5 billion going to due process. And that is not just the cost of what it takes to educate the child alone. That is the entire economic infrastructure that is built around due process. Every dollar that goes to entities that are not the child themselves is a dollar that could have been invested in our public school systems to make our kids whole here.
+
+**(05:55:49)**
+
+
+
+Great. So we agree that the programs are successful and popular, and in part because they are successful. You have demonstrated that with data. You agree that they are part of solving the due process crisis. Did you submit a new needs request for these specialized programs and how much funding would you like to add to these programs in fiscal year 2027?
+
+**(05:56:13)**
+
+
+
+Yes. So the funding to support these programs is a part of our conversations that have been submitted and I feel optimistic that we continue to have good conversations. As you noticed, the administration has made significant investments in special education, recognizing that we need to capture students early. And so I think that shows that the administration is fully invested in what the needs are for special education, starting with pre-K. But we will continue to have those discussions around what the K to 12 needs are.
+
+So I just want to make sure that I am answering clearly. The investments in pre-K are wonderful. And then look at you. Yeah.
+
+**(05:56:59)**
+
+
+
+The investments in pre-K are wonderful. I often say, you know, I wish so many more of my students had gone to pre-K or that they had been identified as having a need much earlier on. I think they would find a much easier life, particularly in school. And at the same time we have the needs as kids are in K to 12. And I just want to be clear in your testimony that you did submit the needs, but OMB rejected the increase. And how much additional funding did you request from OMB?
+
+**(05:57:29)**
+
+
+
+I do not know if I would necessarily categorize it as rejecting it. And I can get back to you on the number. I am sorry, I do not have it right in front of me, but I can let you know what it was.
+
+**(05:57:41)**
+
+
+
+Okay. Not to split hairs, but you made a request and they said sorry. The reason I said I am not categorizing it as rejecting is because the budget process is iterative, right? And so we have ongoing conversations with them throughout the year about what our needs are and are always hopeful that we will see those needs reflected in upcoming budgets. And so when you say rejected, that means it is rejected, never talk about it again. That is not the case, right? And so we have submitted it, will continue to, and we will continue to have the conversations. For this budget, from the executive budget, there are 675 additional seats to sustain the program. You have made a request to expand NEST, AIMS and Horizon even more and OMB came back and said, not right now.
+
+**(05:58:33)**
+
+
+
+It did not make it into the executive budget.
+
+**(05:58:34)**
+
+
+
+It did not make it into the executive budget. Okay, so that is the message. So the administration... so the budget. Okay. How can we support them? Because I think there is wholesale agreement on the importance of these programs morally and fiscally. How can the Council support expanding these crucial and successful programs? The joke is always that the lawyers are no good at...
+
+**(05:59:09)**
+
+
+
+Math, but I am going to give it a try. Math is everyone's best friend. Math is everyone's best...
+
+**(05:59:15)**
+
+
+
+Friend. So you know, the last time we were here we talked about how we have got to think of the ecosystem of special education as not just the... And I think when we talk about the impact of these programs and when we talk about the comparative cost to develop more seats versus a due process case, it is really worth expanding on that a little. We are in a bigger world. Autism diagnoses are exploding all over the country. I really highly recommend to everyone: the New York Times has begun a series of coverage on the explosion in the provision of quote "services" — autism behavioral... what is the...
+
+**(06:00:08)**
+
+
+
+Applied Behavioral Analysis. Thank you. Services...
+
+**(06:00:12)**
+
+
+
+Because guess what — these services are Medicaid reimbursable. And so the New York Times has begun a series looking at how this has become a new cash cow for some well-intentioned people and plenty of bad actors. Guess what else? More and more due process cases have autism components to them. And when we talk about average cost per student of a due process case, $105,000 a year — that is head and shoulders above what we are spending, except if we are talking about autism cases specifically, we are already up at $145,000 a year.
+
+And in addition to the other broad points that my colleagues have made, unlike these programs, all of the Carter schools that receive this funding — $100,000, $150,000, $300,000 a year — there is no accountability. They do not have to demonstrate to anyone what outcomes they are getting. Because as you hear from our leadership and our Chancellor, first and foremost we are not just talking about a fiscal crisis. It is a moral crisis. And the moral part of that is we want all of our students to be set up to succeed. We have no idea what is happening to students once they become Carter cases.
+
+There are certain legal eccentricities here that mean once they are a Carter case in kindergarten, first grade, second grade, they are never coming back to public school. More and more we have kids who are Carter cases who have never come to public school in the first place. There is an industry of folks who are, you know, living large on these dollars and there is no... setting aside the lack of academic transparency and accountability, there is also no visibility into where the school's funding is coming from. How could they exist without Carter dollars? What are they providing to students and families? Is everybody certified? So the money that is moving around in this space, some of which gets tracked up to the due process budget, it is going somewhere. And unlike the dollars in this budget, we have no accounting for what that $1.5 billion is accomplishing.
+
+**(06:02:30)**
+
+
+
+So it sounds like you are saying how the Council can support this is by holding accountable some of these institutions with transparency for outcomes. Yes, absolutely.
+
+**(06:02:43)**
+
+
+
+And we are not shirking our duty. We are going to end the year with the number of due process cases down from 26,000 two years ago to under 16,000 this year. We are going to end the year having gone from 18,000 cases two years ago to under 7,000 cases. These are huge...
+
+**(06:03:06)**
+
+
+
+Huge. And those will generate savings. Some of the strategies that we have used to bring those numbers down will generate further savings.
+
+**(06:03:13)**
+
+
+
+Can you talk about some of those strategies that you have used to bring the number of due process claims down?
+
+**(06:03:20)**
+
+
+
+Absolutely. So I think first and foremost, what was referred to and what the Mayor has clearly prioritized is making sure we are serving students with IEPs directly. This is not a thing that used to exist, but now we have hundreds of staff who are devoted to this — whether they are psychologists, social workers, teachers, administrators or providers — to engaging directly with families and ensuring that they have providers who are qualified to...
+
+**(06:03:52)**
+
+
+
+Provide the services that they need, exercising some actual oversight so that we can be sure that the services are of an adequate quality. We have also been working to engage with private schools where students have IEPs, because the law does not envision school districts having the same extent of responsibility for students who opt out of public school as we have for students who want a public school education. In order to make those dollars make sense in those cases, we should be working with schools to determine where we can scale services. I wish we were getting a better reception from those schools. We are finding success. We have raised rates. There was a valid complaint for a while that rates had not been raised in a long time. We did a fair market rate study for certain services because that is a unique service that only in New York City do we provide. So we had to really get into the weeds of what it actually costs us to provide this, and that has helped us lower the cost of these services.
+
+We have adopted and continue to implement and enforce fraud controls and strategic litigation. Meaning what? Meaning, you know, all of these 16,000 cases, most of them go to a hearing at an independent tribunal. We are cross-examining witnesses. We are demanding documents. We are insisting on a demonstration that parents actually know there is a case on their family's behalf, and we are starting to look at moving to recoup some of the funds that go out the door. Because the legal process itself is not very well thought out where we win the case in the end, but it has taken long enough to get there that we have made all these payments. So there are lots of things that we are doing that we are very optimistic about.
+
+**(06:05:54)**
+
+
+
+At the last preliminary budget hearing, you went over, as a teacher would, the history of the due process claims and the change that happened under the de Blasio administration whereby cases would be automatically settled. Is that policy changing now, and are you contesting a lot of these due process claims?
+
+**(06:06:16)**
+
+
+
+That policy changed. We changed that policy several years ago, but we did not do that in isolation. The first thing that we did was we said, okay, we have cases here and tuition matters over here and service gaps over here. We put all of the pieces of machinery that due process requires in one place. We rationalized it. We streamlined it and we got strategic about how we manage the cases. Meaning what?
+
+Meaning we spent a lot of time — and thank you to Comptroller Lander and Comptroller Levin because they have helped us identify the cases that should be settled quickly, where we did not make a good faith offer and the student has a placement that works for them and there is no need for us to fight it and we can just get that off the docket for everybody's sake. But we have also developed screening tools to identify what are the cases that need to be scrutinized much more closely, and so we treat different kinds of cases differently. Having stood up this tribunal, because it used to take more than a year to get a case from filing to completion, now that we have set up this tribunal at OATH it is taking us, I think, under 70 days from start to finish. So we are no longer settling every case without distinction. We do not settle every case without distinction anymore. We settle the cases that should be settled. We litigate the cases that should be litigated.
+
+**(06:07:47)**
+
+
+
+Thank you. I want to turn over to the New Visions portal. This is a small contract, but it was asked about before and I think you would testify that not many schools are using it — only some people in the schools are using it. We were told 99% of schools used the New Visions portal this year. I do not think I said not a lot of schools. Okay. I would more say it is used as more of an administrative tool. A lot of schools do use the New Visions portal, but maybe not a lot of people in the schools are using it, so not necessarily enough teachers. But it is a widely used tool. It is a very popular tool from my perspective for the purpose that it serves, and we are continuing to talk to our partners. I think the opportunity that we see within the tool is also across agencies, which we have not necessarily bolstered yet, but that is an opportunity that we are thinking about. We are continuing to talk to our partners about what are the options going forward and possibilities for not disrupting this.
+
+**(06:09:03)**
+
+
+
+Do you know how many schools are using the New Visions portal, even if it is just the administration? How many schools are using it? So we have seen at least a login for over 1,500 schools within the system. How many schools are in the system? About 1,600. So it is almost all of them. So it was almost all of them.
+
+**(06:09:24)**
+
+
+
+I have some data on how many have logged in, or how many log in monthly. Do you have usage statistics? I do have them, yeah. I do not have them here. Can you share those? Sorry. All right. You will have to let him know. Yeah, I mean, so...
+
+**(06:09:38)**
+
+
+
+I do not mean like out of 59 — like how many of them are using it once, twice, three times a month, or using it for instruction or for whatever it is used for. Yeah, I can...
+
+**(06:09:46)**
+
+
+
+I can get you some of that.
+
+**(06:09:49)**
+
+
+
+Okay, well, why do I not have...
+
+**(06:09:50)**
+
+
+
+Other questions. So yeah, you can ask someone else to get it and then they will give you the little Post-it note that they always do. And you had mentioned...
+
+**(06:09:57)**
+
+
+
+...that other agencies use the tool as well. What other agencies, to your knowledge, are using this tool? From my understanding, ACS is wanting to use it for sure. Yeah, and I can follow up further.
+
+**(06:10:15)**
+
+
+
+Because from my side of the work, we are working on building enhancements to the tools. OECD typically uses it for their STEM program, which our colleague can speak to, and then the Department of Homeless Services mostly leverages it around shelter data.
+
+**(06:10:43)**
+
+
+
+And CUNY uses it as well.
+
+**(06:10:51)**
+
+
+
+CUNY, I believe so. I know definitely the community schools data shows that community school directors leverage the tool as well.
+
+**(06:11:00)**
+
+
+
+So it just sounds to me — I mean, it is weird to quibble over a little over $8 million — but it sounds like it is a tool that is used by almost all the schools, a tool that is used in an interagency fashion. Can you explain the thought process behind the consideration of cutting this contract that seems to be used a lot?
+
+**(06:11:20)**
+
+
+
+Yeah, so first I will say 1,542 schools have logged on this year, 18,500 monthly users, 9,000 weekly users — 9,000 weekly users — and 44,600 users rely on the New Visions portal multiple times per week. And at the superintendent level, I use it significantly. There are 49 superintendent team members who logged on in 15 days this year, on average for 40 days of use. So I will say, in thinking about why this was proposed: all of the New Visions data that is in New Visions exists within another place as well, and so from that perspective it was viewed as duplicative. But I will say that for some schools and for some administrators, going to many different areas is difficult and often clunky. What New Visions does is act like a one-stop shop portal for many different administrative uses. So I think it was viewed as potentially duplicative, but in terms of how the system actually works, I understand the value of the portal and that is why we are continuing to have a conversation.
+
+**(06:13:04)**
+
+
+
+Yeah, I mean, it just sounds like — you know, say that in the context of an almost $40 billion budget — a small amount, although $8 million here, $6 million there... not a small amount of money, but in the scheme of an almost $40 billion budget, when you talk about $6 million or $7 million or $8 million for a...
+
+**(06:13:25)**
+
+
+
+...New Visions portal, and these are actually tools that, according to your testimony, are used to a significant degree and used in an interagency fashion, it seems like it is a very necessary tool. Because if it goes away, the contract goes away and it sounds like everyone from administrators to the Department of Social Services to CUNY to community-based organizations would be left in the lurch and would not have the data that they need. Well, there are other options without having the program go away. This was a discussion of central spend. There is also the option of having schools that use it — schools that have hold harmless funds — pay for the service themselves. There are schools for which it is less than $25,000, and there are other options within our system. New Visions is a vendor as well. So there are other options that we could talk about for how to continue to access it rather than central spending. But like I said, I think we are having really meaningful conversations throughout the system as well as with other agencies about how to continue to avoid any disruption.
+
+**(06:14:45)**
+
+
+
+No interruption, right? I mean, the worthwhile goal is to look at every contract and to make sure everything from a $1,000 contract to a $200 million contract is actually providing services to the students, to the teachers, to the faculty. That is very important. You have heard from this Council that $12 billion of the dollars are spent on contracting. We really, really do have to look at those contracts, and I think that is to the point of the cost savings teams. I think that is what they did here. With the eye of looking at just contracts, maybe objectively you might not be able to see the way that it is used at a school level, but you could see that the same data that the school has exists in other places and there are teachers using other tools that they use a lot more. So you might feel like this program is potentially duplicative without seeing the context of how it is used across agencies and so on. So we are again having discussions to really think about what the best way forward is. Yeah, and I hope — I am going to assume this of you, but I hope — that these discussions with the cost savings team include teachers, include discussions with teachers and principals who are the ones actually using the tools. You know, it is one thing to sit in an office and look at a spreadsheet and look at a one-pager as to what different contracts do. It is another thing to go into the school and know what is actually happening in the...
+
+**(06:16:27)**
+
+
+
+...classroom. Absolutely. We have had the chance to start having conversations with different program offices and specifically school-facing teams. We did a preliminary review of their contracts and now the next step in that process will be for them to engage with school leaders and teachers to have those conversations.
+
+**(06:16:51)**
+
+
+
+...about quality and usage levels. Good. Okay, you know me. I think evaluating all of your tools is very important. Evaluating your curriculum is very important. Evaluating everything is very important. I want to ask about New York City Reads and Solves. The plan includes $17.3 million in fiscal year 2027 and the out years for Reads and Solves curricula. Next school year, New York City Reads will expand to additional middle schools and New York City Solves will expand to elementary schools for the first time. What are the current total funding levels for New York City Reads and Solves? I will weigh in, but I would like your confirmation first.
+
+**(06:17:34)**
+
+
+
+Would I? All right. We have a baseline budget of $53 million for Reads and Solves and an additional $17.3 million to support expansion.
+
+**(06:17:47)**
+
+
+
+Good, yes, correct. Yes. You got it. Winning. Good. This is self-assessment, Eric. I understand that both New York City Reads and New York City Solves have been self-funded and do not have a dedicated budget line. Can you confirm this? Yes. Prior to us getting the dedicated funding for the expansion, we have been self-funding. It was mentioned before about screen time and AI. I do want to note that the hearing will be on June 24, so everyone mark your calendars. I reference this because, as a matter of personal privilege, regarding New York City Solves, I will just note that I do not think most elementary school kids need calculators. So do away with those calculators for those kids and let them use pencil and paper rather for math. Thank you. What math is...
+
+**(06:18:55)**
+
+
+
+...our friend Chair. The Student Success Centers funding has been added one year at a time since stimulus funding expired. This programming is a unique peer support model for college and career readiness in high schools. The executive plan does not include the $3.3 million gap in Student Success Center funding. Are you supportive of restoring and baselining the $3.3 million for Student Success Centers? Yeah. So I would say, obviously Student Success Centers are valuable to us, and I am going to turn it over to Jane to talk a little bit more about them, as well as Sarita Todd. Hello...
+
+**(06:19:44)**
+
+
+
+...Chair. I would say unequivocally we are very supportive. We have had a 7 to 11% increase in post-secondary enrollment in the schools where we have had Student Success Centers. Okay. And...
+
+**(06:20:07)**
+
+
+
+Are you planning to release a new RFP for Student Success Centers? If so, what is the timeline and process for this?
+
+**(06:20:14)**
+
+
+
+So we work in tandem with the coalition and our next meeting is June 16. We would really like to do that, but we actually really need the funding — the $3.3 million that you all provided last year — again this year in order to even begin those conversations. Okay, I am going to turn it...
+
+**(06:20:38)**
+
+
+
+...over to — I believe CM Wong had some questions. I will turn it over to him. Same question. One question.
+
+**(06:20:44)**
+
+
+
+Thank you, Chair. In your statement you mentioned that schools will continue to be held harmless. Now, as I recall, the hold harmless policy was introduced during the COVID lockdown because so many students left public schools and instead of having the funding leave with the kids, they wanted to keep the money and keep the funding in place. But the COVID lockdown has been lifted since February 2023. My question to you is: why are we still holding schools harmless? Why are we funding even empty schools? Can you answer that?
+
+**(06:21:29)**
+
+
+
+Yeah. Thank you for your question. Constant turmoil... I think, you know, stability in schools is very important and I think we need to ensure that our schools are well funded despite the fact that we have seen enrollment declines. If we actually remove the hold harmless funding, it would have a huge whiplash effect on schools that would have to really contend with a lot of budget concerns, and in some of our most vulnerable communities they would feel the brunt of the issues. So I think we are proud to, this year, be able to hold our schools harmless to make sure that they are stable, and we will have an ongoing conversation about how we get to sustainability over time, including what we are able to do. I admit that this year I get that...
+
+**(06:22:44)**
+
+
+
+...Chancellor, but what is the estimated cost of holding school budgets harmless, and do you expect this additional funding to be reflected at adoption? Because I can see that if we can free up so much funding and use it elsewhere rather than keeping schools open that are mostly empty... So we are...
+
+**(06:23:03)**
+
+
+
+...doing our final quality checks on the numbers. Once it is final, we can provide it to you. Yes, we can provide it to you. It is fine.
+
+**(06:23:15)**
+
+
+
+Look, I have visited some of these schools and I can see that we can definitely do something...
+
+**(06:23:21)**
+
+
+
+...rather than keeping them empty. My follow-up is: how can we not know the cost of this policy, especially given that fiscal year 2026-2027 enrollment projections have been available since early May? Council Finance has estimated that this policy would cost at least $110 million, if not more. Does this sound correct?
+
+**(06:23:43)**
+
+
+
+I would not say we do not know the number. Like I said, we are doing our final checks on the numbers, especially since school budgets are going to be released next week. So as soon as that is final, we can provide the number. I just do not want to give you something and then have it change. But yes, on par with over hundreds of millions — basically hundreds of millions in value.
+
+**(06:24:03)**
+
+
+
+And I have visited some of these schools, and common sense tells me that we can do a better job. Just combine them and free up the funding. That is where I am coming from. Thank you. And in the future, will you be engaged? Absolutely. Thank you.
+
+**(06:24:18)**
+
+
+
+Thank you. All right. I just want to ask a couple of questions on behalf of CM Brooks-Powers because she could not stay earlier. Last year, the Council passed her Bill, Local Law 16, that requires a biannual report on students' access to the internet and electronic devices as well as providing recommendations for how to close the digital divide. The first report is due by January 2027. What progress can the Department report on this study, and can you confirm that you will be able to meet the January 2027 deadline? We will have to get back to you on that. I am not sure. Yeah. Okay, perfect. And then her second question was: we continue to hear concerns from parents with special needs children about how their kids enroll in charter schools and are forced to transition to public school after one month of enrollment because their charter school cannot provide the relevant services. What is the Department doing to ensure parents are aware of their rights regarding student transfers and services? Yeah, obviously...
+
+**(06:25:26)**
+
+
+
+We want to serve our students with disabilities in public schools, of course. When our charter school colleagues... I do not mean that or have concerns. We do have a mechanism for ensuring charter schools are paid for students that are served, but I want to turn it over to Christina Tough.
+
+**(06:25:52)**
+
+
+
+Yeah, so as the... we are responsible for special education provisions. So when that is not happening at a school and the child... the school is saying that the child cannot remain or they cannot meet the child's needs, first of all we look to partner with the school to see how we can work together to get those needs met. And if a family would like to leave, we walk the parent individually through the process of offering a public school placement. So you would walk the parents through their rights. Okay, that is good.
+
+**(06:26:27)**
+
+
+
+Okay. Her last question was: School District 27 in Queens is among the first districts to receive free two-K cases, which she is very excited about. How does the administration plan to build on this pilot, expanding access across more districts? What was the pilot? Oh, for the two-K in her district. Yes. So how do you plan to build on the pilot, expanding access across...
+
+**(06:26:53)**
+
+
+
+This is the beginning first year. We have 2,000 seats and we will be expanding next year to 12 months. And Chancellor, would you like to share more? That is precisely right. Thank you, Chancellor. We will be adding another 10,000 seats next year. We have not confirmed where and who will be providing those, but we are in active conversations planning out those specifics. Perfect. Thank you.
+
+**(06:27:30)**
+
+
+
+Okay, thank you. Class size — our understanding is that the timeline extension includes a deal with the union which will provide differential payments of up to $8,500 for teachers whose classes receive approved space or hard-to-staff exemptions. Can you provide more details on the deal?
+
+**(06:27:52)**
+
+
+
+Yeah, so let us specifically speak to what this is. So yes, there was an adjustment, and for example, we are now to get to at least 70%, and now there is a two-year extension to the law. The process of exemptions now includes differentials, specifically as they relate to any exemption that we have that gets us to 70%. So it is not as though you are going to exempt everyone — you are going to give everyone an exemption who is teaching in a class that is out of compliance. It is only in the event that you need that exemption to get to 70%. That is when the differential applies. I want to turn it over to Erin.
+
+**(06:28:46)**
+
+
+
+I think the only thing we would add is we are working to develop guidance on the approach to implementation and then we will share more details when we can. There are currently four exemption types for class size. However, only two have been identified for differentials: teachers in schools defined as over-enrolled, in economic distress, or special classes, also included in the policy. In terms of determining the exemptions, we would prioritize students in schools that are of high economic need. So the way it works is first you have to decide — and we do this collaboratively with our partners — which classes will receive which exemptions you are going to use. Then when you apply the exemptions, apply them prioritizing our students who are in economic need. Then you get to apply the differential after that. We do have space exemptions and we have several hundred other exemptions.
+
+**(06:30:07)**
+
+
+
+Yeah, and so we have the space exemption and the over-enrolled exemption, which we had agreement with the unions on and was published in our plan in 2026. The differential is applying to the space and hard-to-staff, which is a third. The economic distress exemption is something we have not utilized and I think is more applicable not to the individual schools but to the system at large. We have discussed it, but again the three that we have and are talking about are the space, the hard-to-staff and the over-enrolled.
+
+**(06:30:45)**
+
+
+
+And this is a differential of up to $8,500. So what is going to determine how much the differential is?
+
+**(06:30:55)**
+
+
+
+Actually, the differential — if you are teaching, for example, for the entire year, you would get $8,500. If you teach in a class for half of that year and then you are re-programmed and it is different, you would get half of the differential. I think this is where we need to look a little bit more deeply and go into the data. Conceptually, we are looking at it applying to the over-enrolled classes that the teacher is teaching — one class above the statutory caps. So at a high school level it could be, say, two out of the five, and then there is a pro-rating that we would do. Thank you.
+
+**(06:31:38)**
+
+
+
+It was asked about the SEED sensory program. I think you testified that 15,000 students use this weekend program. It has been funded through a state grant for the past years. In your written response to our questions following the preliminary budget, you had said, quote, without continued investment the SEED program will be discontinued in the 2026-27 school year, and the loss of SEED would significantly impact students with intensive sensory needs and their families. What would be the programmatic impact if this funding is not restored in Fiscal Year 27? And just to clarify, it is over the past five years — the 15,000 number — so 15,000 kids have been served over the past five...
+
+**(06:32:32)**
+
+
+
+...years. I just want to correct that. Thank you for the clarification.
+
+**(06:32:35)**
+
+
+
+Yeah, and as of currently 3,450 are... as of today, we are going to pursue every avenue to try to get this funding. Yes, initially this was funded through COVID stimulus funds, and then we were able to get the state grant for the past couple of years, but we are still in the process of having conversations and obviously want to sustain the program. And you have made the request with the City as well? Those conversations are going to happen through the adopted budget.
+
+**(06:33:07)**
+
+
+
+Okay, so similar to before, you have made the request and...
+
+**(06:33:13)**
+
+
+
+Well, I will use the word rejected. For now they said no, and until they say yes the answer is no. I think that is right.
+
+**(06:33:24)**
+
+
+
+No, the campus is a little... I am now — local CM Eric Dinowitz — at risk of losing their Student Success Centers. I was asking about our Student Success Centers before. Now, to remind you, this campus is one where a young boy was murdered just a few short months ago. They faced the first... a student at one of their schools on campus was ICE'd, and the Student Success Center funding is critical and they are at risk of losing that funding. What assurances can we provide that the Student Success Center will not be cut?
+
+**(06:34:19)**
+
+
+
+Thank you, Chair. As you know, the Student Success Centers are really a partnership between our office, the Office of Student Pathways, the Student Success Coalition, and particularly with our principals and school leaders. The campus — which is one of the Board of Kennedy campuses — the principal actually made the decision that they did not think that a Student Success Center was effective, and so we have been following their lead. However, given that the other principals also did not want to continue with the program, that is the reason why it was going to leave that campus. But given the late timing and when it has been happening, we are going to extend it for one more year. The principals there — because this is a program that is really driven by school leaders — have actually said that it is not something they are interested in keeping, so we should continue having conversations with them at that particular campus. The good news is that the funding actually does not go away for the campus that is involved. As you know, the funds that Kennedy does not use can actually be transferred over to the Walton campus, where the folks also work with my favorite schools.
+
+**(06:35:39)**
+
+
+
+In our favorite...
+
+**(06:35:41)**
+
+
+
+District. That is right.
+
+**(06:35:44)**
+
+
+
+I hear they have good people who used to work in those campuses. I would note the information that I have is that it is not all of the principals who want that — whether the programming does or not — but that there is a cost. This is a financial question. But we will continue the conversation. Just know that this was the organization that was there for the students after the murder of that young boy, and that they were there to organize the town hall around school safety where we had a hearing here about it, and they are there for our students. I would like to continue that conversation, but this is of importance to the students and my understanding is that it is of importance to the principals on the campus. Yes, I visited that campus — both when that incident happened and also visited with the...
+
+**(06:36:40)**
+
+
+
+With the return... I would say we will look into it and see what we can do. Thank you.
+
+**(06:36:51)**
+
+
+
+Thank you. One moment. Okay, so I think that is it. I can still see clearly...
+
+**(06:37:13)**
+
+
+
+Sort of somewhat. I just want to thank you all for...
+
+**(06:37:15)**
+
+
+
+Spending... I know we went over time, but...
+
+**(06:37:18)**
+
+
+
+We really appreciate the fact that you all stayed and answered all our questions, so really thank you so much for being such great partners with...
+
+**(06:37:26)**
+
+
+
+Us. Yes, well, thank you very much for having us. I think we all can agree that there are orange and blue skies outside — go Knicks!
+
+**(06:37:35)**
+
+
+
+Yes, that is right. Thank you all so much. Thank you. Oh, holy smokes, go...
