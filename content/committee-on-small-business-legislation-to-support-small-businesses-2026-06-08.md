@@ -1,9 +1,9 @@
 ---
 committee: "Committee on Small Business"
 committee_slug: committee-on-small-business
-title: "Local Law to Amend the Administrative Code of the City of New York, in Relation to Establishing a Support Fund for Small Businesses Affected by Roadway Construction"
+title: "Legislation to Support Small Businesses"
 date: 2026-06-08
-slug: committee-on-small-business-local-law-to-amend-the-administrative-code-of-the-city-of-new-york-in-2026-06-08
+slug: committee-on-small-business-legislation-to-support-small-businesses-2026-06-08
 duration: "1hr 49m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260608-131206.mp4"
