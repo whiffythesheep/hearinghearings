@@ -621,10 +621,19 @@ def format_duration(duration_s):
         return f"{hours}hrs {minutes}m"
 
 
-def slugify(text):
-    """Convert text to a URL-friendly slug."""
+def slugify(text, max_length=None):
+    """Convert text to a URL-friendly slug.
+
+    When `max_length` is given, cap the slug at that many characters,
+    truncating at a hyphen boundary so whole words are kept. This keeps
+    on-disk output paths under the Windows 260-char MAX_PATH limit for
+    hearings with very long titles (e.g. full local-law names).
+    """
     s = re.sub(r"[^\w\s-]", "", text.lower())
-    return re.sub(r"[-\s]+", "-", s).strip("-")
+    s = re.sub(r"[-\s]+", "-", s).strip("-")
+    if max_length and len(s) > max_length:
+        s = s[:max_length].rsplit("-", 1)[0].strip("-")
+    return s
 
 
 def ms_to_timestamp(ms):
@@ -2548,7 +2557,7 @@ def main():
         combined_for_slug = f"{primary_committee}, {title}" if primary_committee else title
         # Fold the meeting date into the slug so two same-committee, same-title
         # hearings (common during budget season) don't collide and overwrite.
-        slug = f"{slugify(combined_for_slug)}-{date_str}"
+        slug = f"{slugify(combined_for_slug, max_length=100)}-{date_str}"
         youtube_url = args.youtube_url or ""
         viebit_url = args.viebit_url or ""
         duration = format_duration(video_info.get("duration", 0))
