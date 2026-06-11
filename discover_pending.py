@@ -13,9 +13,11 @@ already published or queued, the poller:
 
 Idempotency: an event is "handled" iff (a) its Legistar ID appears in
 any ``content/*.md``'s ``council_url`` field on master, (b) an open PR
-already exists for ``pending/<event_id>``, or (c) it is another
+already exists for ``pending/<event_id>``, (c) it is another
 committee of an already-handled joint hearing — recognised by a shared
-recording fingerprint or a matching date+duration. Case (c) keeps joint
+recording fingerprint or a matching date+duration — or (d) its ID is
+listed in ``discover_skiplist.txt`` (events deliberately rejected, e.g.
+a closed-without-merge PR that should stay dead). Case (c) keeps joint
 hearings (one published page, several Legistar IDs) from re-queuing
 under their sibling committees' IDs.
 
@@ -44,6 +46,7 @@ from council_scraper import (
 
 REPO_ROOT = Path(__file__).resolve().parent
 CONTENT_DIR = REPO_ROOT / "content"
+SKIPLIST_PATH = REPO_ROOT / "discover_skiplist.txt"
 SITE_BUILD_PY = REPO_ROOT / "site" / "build.py"
 SUMMARIZER_PY = REPO_ROOT / "summarize_council_meeting.py"
 
@@ -106,6 +109,23 @@ def check_preconditions(dry_run: bool) -> None:
 _PUBLISHED_ID_RE = re.compile(
     r"^council_url:.*[?&]ID=(\d+)", re.MULTILINE | re.IGNORECASE,
 )
+
+
+def skiplisted_event_ids() -> set[str]:
+    """Event IDs deliberately rejected, from ``discover_skiplist.txt``.
+
+    One Legistar event ID per line; ``#`` starts a comment. Used for
+    hearings we decided not to publish (e.g. a pending PR closed
+    without merging), so the poller never re-queues them.
+    """
+    ids: set[str] = set()
+    if not SKIPLIST_PATH.is_file():
+        return ids
+    for line in SKIPLIST_PATH.read_text(encoding="utf-8").splitlines():
+        entry = line.split("#", 1)[0].strip()
+        if entry.isdigit():
+            ids.add(entry)
+    return ids
 
 
 def published_event_ids() -> set[str]:
@@ -451,17 +471,18 @@ def main() -> None:
     check_preconditions(args.dry_run)
 
     events = list_calendar_events()
+    skiplisted = skiplisted_event_ids()
     published = published_event_ids()
     pub_fps, pub_date_durs = published_signatures()
     pr_open = open_pr_event_ids()
     local_pending = local_pending_branch_event_ids()
 
     # Recording fingerprint per calendar row, for joint-hearing sibling
-    # dedup: events already queued (open PR / local branch) and other
-    # survivors in this same run that share a recording must collapse to
-    # one, since each carries a distinct Legistar ID.
+    # dedup: events already queued (open PR / local branch), skiplisted,
+    # or surviving earlier in this same run that share a recording must
+    # collapse to one, since each carries a distinct Legistar ID.
     fp_by_id = {e["event_id"]: _video_fingerprint(e["video_url"]) for e in events}
-    pending_fps = {fp_by_id.get(i) for i in (pr_open | local_pending)}
+    pending_fps = {fp_by_id.get(i) for i in (pr_open | local_pending | skiplisted)}
     pending_fps.discard(None)
 
     logger.info(
@@ -473,6 +494,9 @@ def main() -> None:
     skipped: dict[str, int] = {}
     seen_fps: set[str] = set()
     for e in events:
+        if e["event_id"] in skiplisted:
+            skipped["skiplisted"] = skipped.get("skiplisted", 0) + 1
+            continue
         if e["event_id"] in published:
             skipped["already-published"] = skipped.get("already-published", 0) + 1
             continue
