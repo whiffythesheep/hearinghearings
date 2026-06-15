@@ -1,0 +1,1890 @@
+---
+committee: "Committee on Health | Committee on Disabilities | Committee on Hospitals"
+committee_slug: committee-on-health
+title: "Access to Reproductive Health Care for New Yorkers with Disabilities"
+date: 2026-06-15
+slug: committee-on-health-access-to-reproductive-health-care-for-new-yorkers-with-disabilities-2026-06-15
+duration: "2hrs 53m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260615-100847.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416937&GUID=0E04B702-2B6C-4364-834B-355AD425CF36&Search="
+chairs: "Lynn C. Schulman | Shahana K. Hanif | Mercedes Narcisse"
+members: "Joann Ariola, Carmen N. De La Rosa, Harvey D. Epstein, Simcha Felder, James F. Gennaro, Christopher Marte, Mercedes Narcisse, Carl Wilson"
+---
+
+Summary
+
+Meeting Overview
+
+The New York City Council's Committees on Health, Hospitals, and Disabilities held a joint oversight hearing on access to reproductive health care for New Yorkers with disabilities, alongside consideration of a package of nine bills and resolutions. Administration witnesses included Commissioner Nick Agarwal of the Mayor's Office for People with Disabilities, Assistant Commissioner Joaquin Farah-Xena of DOHMH's Bureau of Public Health Clinics, and Dr. Wendy Wilcox, Chief Women's Health Officer of NYC Health and Hospitals. The hearing was chaired in person by CM Shahana Hanif, with CM Lynn Schulman (Health Committee Chair) participating via written statement and CM Mercedes Narcisse representing the Hospitals Committee before departing early.
+
+The oversight portion focused on a stark set of documented disparities: women with disabilities are more than twice as likely to develop severe preeclampsia, six times more likely to experience thromboembolism, and eleven times more likely to die in pregnancy compared to women without disabilities. Physical and training barriers in health care settings underlie these outcomes. A federal deadline of August 9, 2026 requires covered facilities to have at least one accessible exam table and one accessible weight scale, and members spent considerable time trying to pin down whether City facilities actually meet this standard. Health and Hospitals gave assurances of general ADA compliance without being able to confirm specific accessible scale availability across all sites. DOHMH acknowledged it has no accessible weight scales at its sexual health clinics, justifying this on the basis that its services do not require weight assessment — a position Chair Schulman challenged given that emergency contraception and birth control efficacy can be weight-dependent. Neither agency currently tracks health outcomes by disability status, an omission that drew pointed questioning given that one in six New Yorkers lives with a disability.
+
+On the legislative package: T2026-2088, requiring medication abortion at no cost at all DOHMH sexual health clinics (currently available at four of six), drew a cautious response from the department, which cited concerns about cost, physical space, and staffing, and confirmed it has no current plans to expand. Int 0200-2026 on doula resources and Int 0941 on disability competency training received general support in principle from DOHMH, though the department flagged that it lacks regulatory authority over health care providers and does not have internal subject matter expertise for developing clinical training curricula. Int 0211-2026 on fertility treatment information met resistance from DOHMH, which argued it lacks expertise in fertility care — a position Chair Schulman directly contested by pointing to the bill's intent to formalize an already-existing but entirely informal referral process. Health and Hospitals confirmed it has no plans to offer fertility treatment and produces no pre-made patient information on fertility options. CM Morano's Res 0108-2026 calling on Albany to create a refundable IVF tax credit attracted support across ideological lines. Res 0447-2026 on insurance coverage for preimplantation genetic testing for aneuploidies and the emergency contraception vending machine resolution (Res 0089-2026) were noted without significant debate.
+
+Training emerged as a significant gap. Health and Hospitals uses an external vendor for disability awareness training offered every two to three months, but attendance is not mandatory. A separate low-vision simulation training is held twice a year, in person, at rotating facilities, also non-mandatory. DOHMH, by contrast, requires mandatory annual disability justice training for clinical staff, though the next session is not until later in the summer. The two agencies have not coordinated or exchanged their training materials. Neither agency audits reproductive health encounters for the documented bias of assuming patients with disabilities are not sexually active. On the more positive side, Health and Hospitals' Virtual ExpressCare Abortion Access telehealth program has prescribed medication abortion to over 20,300 people since October 2023, and DOHMH's abortion access hub has served over 12,000 people since November 2022 — including patients from states where abortion is restricted. The hearing's broader subtext was the looming federal Medicaid cuts, which threaten the safety net hospitals that people with disabilities disproportionately rely on.
+
+Numbers
+
+- Women with disabilities are more than twice as likely to develop severe preeclampsia than women without disabilities, based on a study of over 220,000 deliveries across 19 hospitals nationwide.
+- Women with disabilities are more than six times as likely to experience thromboembolism during pregnancy compared to women without disabilities.
+- Women with disabilities are 11 times as likely to die during pregnancy compared to women without disabilities.
+- Approximately 40% of medical offices nationally have an accessible examination table and a wheelchair-accessible weight scale.
+- Only 17% of OB-GYNs nationally report having received training on caring for patients with disabilities.
+- Only 41% of practicing physicians feel confident they can provide the same quality of care to a patient with a disability as to one without.
+- 81% of women without disabilities aged 18 or older received cervical screening within three years, compared to 67% of women with chronic mobility limitations.
+- Women with disabilities were 70% less likely than other women to be asked about contraception during routine office visits.
+- One in six New Yorkers lives with a disability.
+- 15 of NYC Health and Hospitals' Gotham Health clinics are fully ADA accessible; seven offer additional accommodations for patients who are blind, deaf or hard of hearing.
+- The accessible radiology suite at H+H's Morrisania site cost $850,000, funded by City Council capital funding.
+- DOHMH operates eight sexual health clinics and provides medication abortion at four of them.
+- DOHMH provided abortion care to 1,253 patients in 2025, a 24% increase over the prior year.
+- DOHMH's abortion access hub has served over 12,000 people since its launch in November 2022.
+- H+H's Virtual ExpressCare Abortion Access telehealth program has had over 7,500 encounters and prescribed medication abortion to over 20,300 people since its October 2023 launch.
+- A single IVF cycle costs $15,000 to $20,000; the state legislation supported by Res 0108-2026 would create a refundable tax credit covering up to 75% of eligible out-of-pocket expenses for up to three IVF cycles not covered by insurance.
+- Federal Medicaid cuts are projected to eliminate coverage for an estimated number of New Yorkers and cost roughly 34,000 hospital jobs statewide.
+- The federal ADA Section 504 deadline for accessible exam tables and weight scales at covered facilities is August 9, 2026, approximately eight weeks from the hearing date.
+- DOHMH has contracts with Propio for interpreter services covering over 353 languages, 24 hours a day, seven days a week, with usage running into millions of minutes per month.
+- Over two-thirds of patients seen at DOHMH sexual health clinics in 2025 were uninsured; over half reside in high-need neighborhoods; nearly three-quarters were persons of color.
+- Three of four required rapid STI testing sites under Local Law 84 of 2024 were operational by the February 15, 2026 deadline; the fourth is planned for 2027.
+
+Action Points
+
+- H+H to provide committees with specific data on how many facilities have ADA-compliant accessible weight scales and which do not, ahead of the August 9, 2026 federal deadline.
+- DOHMH to provide committees with its rationale for not having accessible weight scales, and to assess whether self-reported weight is an adequate clinical basis for prescribing emergency contraception and birth control.
+- H+H to provide committees with data on how many staff received disability awareness training and the low-vision simulation training in 2025 and the first half of 2026.
+- H+H to explore making disability awareness training mandatory for all staff and to report back to the committee.
+- DOHMH to provide committees with data on how many clinical staff have received mandatory disability justice training to date.
+- DOHMH and H+H to explore exchanging and coordinating their respective disability training materials and curricula.
+- Mayor's Office for People with Disabilities to share agency accessibility progress reports and observations with the Health, Hospitals, and Disabilities Committees once available.
+- Mayor's Office for People with Disabilities to follow up with H+H and DOHMH specifically on compliance with the August 9, 2026 medical diagnostic equipment deadline.
+- Mayor's Office for People with Disabilities to invite Chair Hanif to join the planned roundtable on reproductive health care for women with disabilities.
+- H+H to invite Chair Schulman to observe an upcoming disability awareness or low-vision simulation training, beginning with the Jacobi Medical Center session.
+- DOHMH to invite Chair Schulman to observe an upcoming mandatory disability justice training session.
+- H+H to provide the committee with registration and attendance figures for the upcoming Jacobi low-vision simulation training, and retrospective attendance data for sessions held in the past six months.
+- DOHMH to provide committees with sterilization data drawn from its annual family planning site submissions.
+- H+H to provide committees with sterilization data.
+- DOHMH to share the fertility treatment information and referral materials currently used by social workers at its sexual health clinics with the committee, as part of ongoing discussion of Int 0211-2026.
+- DOHMH to provide the committee with the name of the fifth top language used in its materials once confirmed internally.
+- H+H to assess and report back on which disability communities are and are not accommodated by its current range of weight scale equipment.
+- Mayor's Office for People with Disabilities to explore connecting employment and health care workforce pipelines, including use of Section 55-a, to increase hiring of people with disabilities at H+H and DOHMH.
+- DOHMH to share its annual doula report with the committee upon its release at the end of June 2026.
+- H+H to confirm to the committee the timeline for the Far Rockaway Gotham Health center opening and its planned reproductive health service offerings.
+
+## Full Transcript
+
+**(00:00:08)**
+
+
+
+Good morning. Welcome to the New York City Council hearing for the Committee on Health, Hospitals and Disabilities. Please silence all electronic devices and as a friendly reminder, do not approach the dais. If you wish to testify today, please fill out a participant card with the sergeant at arms. For the co-chairs, we are ready to
+
+**(00:00:26)**
+
+
+
+begin. Good morning, everyone. I am CM Shahana Hanif of the Committee on Disabilities. I am a woman in my mid-30s and my hair is tied up today. I am wearing black glasses and a white button-down and I am seated behind a dais. Welcome to this joint oversight hearing with the Committee on Disabilities, Health and Hospitals on access to reproductive care for New Yorkers with disabilities. We are also hearing a package of legislation, which I will describe shortly.
+
+**(00:00:57)**
+
+
+
+Nearly one in six New Yorkers lives with a disability. People with disabilities are sexually active at rates comparable to people without disabilities, and yet they are less likely to receive preventive reproductive health services and comprehensive sexual health education, and they experience higher rates of unintended pregnancy, pregnancy complications and intimate partner violence during the perinatal period. These are not differences in choices. They are differences in access. The consequences are measurable and they are severe.
+
+In a study of more than 220,000 deliveries across 19 hospitals nationwide, researchers at the National Institutes of Health found that compared with women without disabilities, women with disabilities were more than twice as likely to develop severe preeclampsia, more than six times as likely to experience thromboembolism and 11 times as likely to die. Pregnancy should not carry those odds for any New Yorker because of a disability. Some of
+
+**(00:02:07)**
+
+
+
+the barriers behind those numbers are physical.
+
+**(00:02:10)**
+
+
+
+Nationally, only about 40% of medical offices have an accessible examination table and a wheelchair accessible weight scale. When the equipment does not adjust, people with mobility disabilities are examined in their wheelchairs or not fully examined at all. Some of the barriers are about training. In one survey, only about 17% of obstetrician-gynecologists reported having received training on caring for patients with disabilities. In a separate survey of practicing physicians, only 41% felt confident they could provide the same quality of care to a patient with a disability as to a patient without.
+
+**(00:02:53)**
+
+
+
+The City has taken real steps and the agencies in this room deserve recognition for them.
+
+**(00:02:59)**
+
+
+
+The Mayor's Office for People with Disabilities serves as the City's central disability compliance authority and has delivered health equity trainings to medical residents and convened health care leaders specifically on barriers facing women with disabilities.
+
+**(00:03:16)**
+
+
+
+New York City Health and Hospitals reports that 15 of its Gotham Health clinics are fully ADA accessible. Seven offer additional accommodations for patients who are blind, deaf or hard of hearing and its Morrisania site houses a fully accessible radiology suite, an $850,000 project built with City Council capital funding. The Department of Health and Mental Hygiene operates eight sexual health clinics, provides medication abortion at four of them and provided abortion care to 1,253 patients in 2025, a 24% increase over the prior year. Its abortion access hub has served more than 12,000 people since November 2022, including callers from states where abortion is banned or restricted. This work matters.
+
+**(00:04:13)**
+
+
+
+But now we must contend with federal Medicaid cuts, which are projected to eliminate coverage for an estimated number of New Yorkers and to cost roughly 34,000 hospital jobs statewide. The State Comptroller has warned that the harm will be most acute at the safety net hospitals. New York City Health and Hospitals is the nation's largest public health system and the primary safety net provider for low-income and Medicaid-dependent New Yorkers. New Yorkers with disabilities rely on that system disproportionately. When the safety net is weakened, they are among the first to feel it.
+
+There is also a federal deadline bearing down on the City's own facilities. Under a 2024 rule, by August 9, 2026 — less than two months from today — state and local government entities that use examination tables and weight scales must have at least one accessible example of each that meets enforceable federal standards. That deadline applies directly to City-operated health facilities, including Health and Hospitals and DOHMH sexual health clinics.
+
+We cannot talk about reproductive access for people with disabilities without addressing the history of reproductive control exercised over them, from a documented history of coerced sterilization to present-day questions about guardianship, informed consent and decision-making authority.
+
+**(00:05:47)**
+
+
+
+People with disabilities continue to experience higher rates of sterilization than people without, and pending state legislation would bar the presumption that a person with a disability lacks the capacity to consent. Autonomy is part of access.
+
+So today we are asking straightforward questions. With the August 9 federal deadline almost here, are the City's own health facilities equipped with accessible diagnostic equipment and where are the remaining gaps? DOHMH, Health and Hospitals and the Mayor's Office for People with Disabilities have acknowledged in their own accessibility planning barriers around inaccessible exam spaces, equipment and communication. Are these agencies coordinating to close them and on what timeline? What disability-specific clinical training are providers in the City's reproductive and sexual health settings actually receiving and how is it being measured? Are the sexual health clinics and the abortion access hub reaching New Yorkers with intellectual, developmental, sensory and psychiatric disabilities?
+
+**(00:07:01)**
+
+
+
+As federal Medicaid cuts move through the safety net system that these New Yorkers depend on, what is the City's plan to protect their access to reproductive and sexual health care?
+
+We are also hearing legislation today and we look forward to the administration's and the public's feedback on it. Int 0200-2026, sponsored by CM Jennifer Gutiérrez, in relation to creating resources for reproductive health. Int 0211-2026, sponsored by myself, in relation to requiring the Department of Health and Mental Hygiene to provide information regarding fertility treatment, including insurance coverage of fertility treatment. Int 0840-2026, sponsored by CM Kayla Santosuosso, also in relation to requiring health insurance coverage for Preimplantation Genetic Testing for Aneuploidies for City employees. Int 0941, sponsored by CM Linda Lee, in relation to requiring the Department of Health and Mental Hygiene to develop and offer resources, clinical guidance and training on disability and accessibility in health care settings. Int 0953, sponsored by Deputy Speaker Dr. Nantasha Williams, in relation to requiring the Department of Health and Mental Hygiene to make medication abortion available at no cost to a patient at all of its sexual health clinics.
+
+We are also considering Proposed Int. No. 89-A, sponsored by CM Gutiérrez, calling on the New York State Assembly to pass A.9175 and the Governor to sign S.2058/A.9175, legislation to require each institution within the State University of New York and the City University of New York to have at least one vending machine making emergency contraception available for purchase. Proposed Int. No. 108-A, sponsored by CM Frank Morano, calling on the New York State Legislature to pass and the Governor to sign S.5262/A.3051, legislation creating a refundable tax credit for up to three cycles of in vitro fertilization not covered by insurance. And Res 0447-2026, sponsored by CM
+
+**(00:09:25)**
+
+
+
+Santosuosso, calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation to ensure insurance companies cover the cost of Preimplantation Genetic Testing for Aneuploidies. It is a medical term that...
+
+**(00:09:45)**
+
+
+
+well, I will need to learn how to pronounce.
+
+**(00:09:47)**
+
+
+
+I will now read Health Committee Chair Lynn Schulman's
+
+**(00:09:56)**
+
+
+
+statement. Good morning. I am CM Lynn Schulman of the New York City Council's Committee on Health. I want to thank you all for being here today at our oversight hearing on access to reproductive health care for New Yorkers with disabilities. I apologize that I could not be here in person and I want to thank Chair Hanif for holding this important oversight hearing and for reading the statement on my behalf.
+
+New York City is a beacon in the United States and across the globe for providing comprehensive access to high quality reproductive health care. As the federal government and other states try to roll back the right to bodily autonomy and restrict access to comprehensive and inclusive care, our City has taken a stand to ensure that anyone, no matter who they are, where they come from and how much they can afford, can access high quality care for the full range of reproductive health services they need.
+
+The Department of Health and Mental Hygiene has been instrumental in this area, providing information and resources for those seeking care and directly providing such care at little to no cost at the Department's sexual health clinics located around the City. These clinics provide essential services, including medical evaluations, testing and treatment, PrEP consultations, pregnancy tests, emergency contraception and, at some locations, medication abortion.
+
+Today's oversight hearing focuses on meaningful access to care, particularly for the disability community.
+
+**(00:11:27)**
+
+
+
+Pursuant to Local Law 12 of 2023, DOHMH developed a five-year accessibility plan to improve accessibility to its facilities and services across five areas: physical access, digital access, effective communication, programmatic access and workplace inclusion. The plan identifies ongoing accessibility challenges across facilities, including inaccessible examination spaces, narrow doorways, insufficient accessible medical equipment and signage, and barriers associated with aging infrastructure that predates the Americans with Disabilities Act.
+
+As we look to combat rampant misinformation and disinformation in the public health space, we must also ensure that DOHMH reaches as many New Yorkers as possible. I look forward to a robust discussion of how DOHMH plans to improve accessibility across its resources and services, including at its sexual health clinics, and how it is more broadly directing resources toward realizing the accessibility goals laid out in the five-year plan.
+
+I also look forward to receiving feedback on the legislation being considered today, the majority of which is in the Health Committee. These include proposals to reduce the costs of care, expand access to medication abortion and emergency contraception, and improve citywide doula coverage options. All of these bills share the common goal of strengthening and expanding access to the full suite of reproductive and family planning services for all, regardless of ability, income or gender, and to help build a New York City where families are healthier and feel empowered to make informed decisions about their futures.
+
+As I often say at these hearings, health care is a human right. But a right is only as meaningful as the ability to act on that right. While I am proud that New York City seeks to protect the rights and dignity of all people to make their own decisions about their health care, we must keep fighting to eliminate barriers and to ensure meaningful access to that care. I will conclude by thanking Chair Hanif again for holding this hearing and by thanking the representatives from DOHMH and the administration for being here today. Now I will pass it to Chair Narcisse for her opening
+
+**(00:14:08)**
+
+
+
+statement. Good morning and thank you, Chair. I am CM Mercedes Narcisse, a Black woman wearing reddish hair and a green dress. I am happy to be here this morning and talking about something that is very important to all of us and for folks that really need our assistance in New York City to improve their lives.
+
+**(00:14:35)**
+
+
+
+Whenever I can, I will be present today. I was not supposed to be here, but when I have the opportunity, I am here with you. Thank you to Chair Hanif for convening this important oversight hearing on reproductive health care for New Yorkers with disabilities and for inviting me and Chair Schulman to talk about this issue.
+
+Before I get deep into the issue, I know you all are New Yorkers. We are very proud of the team. Yes, the Knicks did it for over 50 years, so as New Yorkers I want to bring that up. Congratulations to the team and all the supporting fans who have been dying to see this moment, so I am very happy. I had to add that in.
+
+Access to reproductive health care remains a critical issue for New Yorkers with disabilities, who often face persistent barriers such as inaccessible medical equipment — and I know how important that is as a registered nurse and as a provider of health care and medical equipment for many decades — limited communication supports, which are very important, and a lack of disability-informed care. We need to have our disabled population feel part of this important world and I am so happy. We have to make sure that every support that we can, we give it, and support and inform our population. That is very important to our community.
+
+New York City Health and Hospitals, as the City's public health system, plays a central role in addressing these challenges by providing comprehensive reproductive and sexual health services across its
+
+**(00:16:27)**
+
+
+
+hospital, Gotham Health clinics and community health centers. These services include contraception and family planning, pregnancy-related care, abortion counseling and services, and prevention and treatment. They are provided regardless of a patient's ability to pay. Over the years, great progress has been made.
+
+**(00:16:57)**
+
+
+
+In improving accessibility and reporting compliance across its facilities, with ongoing efforts to bring newly acquired sites into full compliance. Several Gotham Health clinics are fully accessible and offer additional accommodations for patients who are blind, deaf or hard of hearing.
+
+**(00:17:21)**
+
+
+
+Alongside investment in infrastructure, assistive technologies and staff training, these initiatives position Health and Hospitals as a key provider at the intersection of disability access and reproductive health care in New York City. However, despite these advances, many individuals with disabilities continue to face barriers in finding adequate reproductive and sexual health care due to the limited availability of accessible equipment and specialized disability-specific care from providers who have received comprehensive training on best practices for treating patients with disabilities.
+
+**(00:18:08)**
+
+
+
+These ongoing barriers underscore the need for more targeted
+
+**(00:18:13)**
+
+
+
+disability-informed approaches within reproductive health services so that all New Yorkers can receive the best care possible. Before I conclude, I would like to thank the committee staff for their work in preparing today's hearing. While I unfortunately cannot stay for the entire hearing, I believe Chair Hanif will do an amazing job and make sure that we are addressing all the issues that need to be addressed. With your support we will do that. I am committed to this. This is not just for now. I am committed to ensuring credible access to reproductive health care.
+
+**(00:19:01)**
+
+
+
+I am committed to ensuring health care for New Yorkers with disabilities remains a priority for me and, like I said, as a registered nurse, I appreciate every
+
+**(00:19:10)**
+
+
+
+aspect that we can address while I am here, to meet the needs that I have seen over decades.
+
+**(00:19:17)**
+
+
+
+I look forward to reviewing the hearing and debriefing with my staff to further examine these issues and identify ways to improve
+
+**(00:19:28)**
+
+
+
+everyone's lives in New York City. We are part of the City. So thank you, Chair. Thank you, Chair. And now I will pass it to CM Morano for his opening statement.
+
+**(00:19:39)**
+
+
+
+Thank you, Chair Hanif. Thank you, Chair Ariola and all my colleagues on the Committees on Disabilities, Hospitals and Health for hearing Res 0108-2026 today. At its core, this resolution is about something very simple: whether the opportunity to become a parent should depend on the size of your bank account.
+
+For millions of people, infertility is a medical condition. It is a source of stress. It is a source of heartbreak, uncertainty and disappointment. For many, in vitro fertilization offers hope. It offers a chance to build the family they have dreamed about for years. But the fact is, that hope is very expensive. A single cycle can cost $15,000 to $20,000. For many families, one cycle is not enough. Some require two, three or even more attempts before they are successful. By the time medications, testing and other associated costs are included, families can find themselves spending tens of thousands of dollars. I have spoken with New Yorkers who have emptied their savings accounts, taken on second jobs, accumulated debt, delayed buying a home or postponed other major life decisions simply to pursue the possibility of having a child. Many never get that opportunity at all.
+
+The reality is that access to fertility treatment often depends on where you work, what insurance plan you have or how much money you have available. That is especially true for working and middle class families, for LGBTQ New Yorkers, for cancer survivors pursuing fertility preservation and for countless others trying to navigate an already difficult journey. This resolution supports legislation pending in Albany that would establish a refundable tax credit covering up to 75% of eligible out-of-pocket expenses for up to three cycles not covered by insurance. That word "refundable" is important. This is not a benefit reserved for the wealthy. This is designed to provide meaningful relief to the families who need it most.
+
+I am proud that this resolution has attracted support from members across the ideological spectrum in all five boroughs. Looking at the sponsor list, you will find conservatives, progressives, moderates, Democrats and Republicans. That is because the desire to have a child is not partisan in the least. The desire to build a family is not partisan. This is about recognizing that family formation remains one of the most important goals many people will ever pursue and that government should not stand idly by while financial barriers place that goal out of reach.
+
+Today the Committee has an opportunity to send a message to Albany that New York should do more to support people who want to become parents. I want to thank all the co-sponsors, including the folks behind me, the committee staff and everyone who shared their personal stories with us. These stories are the reason this resolution matters so much. I respectfully urge the Committee to support Res 0108-2026 and help more New Yorkers realize the dream of building a family. Thank you.
+
+**(00:22:59)**
+
+
+
+CM Narcisse, I will now be reading Deputy Speaker Nantasha Williams' statement on her Bill. Thank you.
+
+**(00:23:06)**
+
+
+
+Thank you, Chair Schulman, Chair Narcisse and Chair Hanif for convening today's oversight hearing on access to reproductive health care for New Yorkers with disabilities and for hearing Int 0840-2026. I regret that I am unable to be present today but I appreciate the opportunity to submit this statement in support of my Bill.
+
+Int 0840-2026 would require the New York City Department of Health and Mental Hygiene to make medication abortion available at no cost at all of its sexual health clinics. While current law requires this medication to be available at certain clinics, this Bill would ensure consistent access across all Department of Health and Mental Hygiene sexual health clinic locations. This Bill is about access, equity and consistency in care.
+
+Reproductive health care, including abortion care, is essential health care. At a time when reproductive rights continue to be challenged across the country, New York City must remain committed to protecting and expanding access to care. Even small barriers, such as confusion about available services, transportation challenges or delays in care, can have serious consequences, especially when care is time sensitive. No one should walk into a City-operated sexual health clinic unsure whether they will be able to access the care they need. Int 0840-2026 helps close that gap. It ensures that regardless of which Department of Health and Mental Hygiene sexual health clinic a patient visits, they can expect the same standard of care. Every New Yorker deserves access to safe, timely and affordable reproductive health care. This legislation helps move us closer to that goal.
+
+Reproductive health care is not optional care. For New Yorkers with disabilities, equitable access to it touches bodily autonomy, equal treatment under the law and the ability to participate fully in their own lives. We will not get this right by treating it as a clinical problem alone. We have to be honest about the physical barriers that remain, the training gaps that persist, the federal threats bearing down on the safety net and the gap between what is promised and what is delivered.
+
+Thank you to the administration for being here today and to the disability advocates, service providers, health care workers and members of the public who have traveled to testify or submitted written testimony. Your presence here is an act of self-advocacy and we do not take it for granted. Thank you to all of the staff who made today's hearing possible, including Disabilities Committee staff, Senior Legislative Counsel Sarah Sayeed, Senior Legislative Policy Analyst Chloe Rivera, my Chief of Staff Matt and our Legislative Fellow Ana.
+
+I also want to recognize the Council Members joining us in person and remotely: CM De La Rosa, CM Morano, CM Marte, CM Epstein, CM Ariola, CM Brooks-Powers, CM Felder and CM Nurse. I will now pass the mic to the Committee Counsel to administer the oath to members of the administration prior to their testimony.
+
+**(00:26:37)**
+
+
+
+Good morning. Good morning, Chair Narcisse and Chair Schulman and the members of the Committee. My name is Nick Agarwal. I am the Commissioner of the Mayor's Office for People with Disabilities. I have short black hair and brown skin and I am wearing a black top and slacks. I have aphasia and I have my handy cane by my side. Thank you for your care for women with disabilities. This impacts me professionally and personally.
+
+New York City has made significant investments in reproductive health care and values this incredible progress. Yet women with disabilities continue to face barriers in accessing these services, including inaccessible facilities and equipment in the health care setting, challenges with accessible communications and segregated health care.
+
+First, I will share some of the laws that are meant to assist women with disabilities. In 2020, the U.S. Department of Health and Human Services updated rules for state and local health care settings that provide federal financial assistance, with the goal to improve health care settings and civil rights protections for people with disabilities.
+
+**(00:28:20)**
+
+
+
+For example, the federal rule requires health care settings to provide appropriate auxiliary aids and qualified interpreters, real-time captions, qualified readers, audio recordings and Braille materials, among other supports. In addition, the rules also ask for a timeline for states and localities to provide medical diagnostic equipment such as exam tables, mammogram equipment, weight scales and radiology equipment that will assist people with disabilities, especially women. These changes are intended to ensure that all people receive equitable health care compared to others.
+
+However, many health care settings have yet to reach this standard of care. In practice, women with disabilities face barriers in reproductive health outcomes. For example, research by a distinguished professor on women with disabilities reported that 81% of women aged 18 years or older without disabilities received a cervical screening within three years, compared to only 67% of women with chronic mobility limitations. In another study on reproductive health by the same author, women with disabilities were 70% less likely than other women to be asked about contraception during routine office visits, because physicians erroneously assumed that they were not sexually active.
+
+Accessible equipment and communications alone will not ensure that women with disabilities have equitable health care. Anti-bias training from the health community is critical as well.
+
+I would like to now share how the Mayor's Office for People with Disabilities is supporting and leading this effort in concert with women with disabilities. Last Friday, the Deputy Mayor of Health and Human Services visited the Initiative for Women with Disabilities in Manhattan. This is a health care setting focused primarily on gynecological care and wellness services for women with disabilities, and I went to this institution for many years after my stroke. We toured the hospital setting where they had exam tables, mammography equipment and weight scales designed for women with disabilities. The director shared that it takes women with disabilities more time to get into their robes, onto the exam table and through the mammogram procedure, but in the end it was better for patients and for the hospital. Women received good health care and the hospital reduced misdiagnosis for women with disabilities.
+
+Equally compelling was the internal process in procurement. For example, the hospital has a checklist on disabilities for potential vendors to ensure accessibility and the hospital is now in the process of adding data fields for people with disabilities alongside race, gender and so on. The goal is person-centered design, but it also helps the bottom line. If you do it well, people will come.
+
+We are also planning a roundtable with women with disabilities on health care, with a portion focusing on the problems that women face in health care settings and a larger discussion on solutions with hospitals, clinics and providers to ensure that health institutions broadly are more inclusive and accessible. We would love for you, Chair Hanif, to join the roundtable as well.
+
+Finally, I will end with some personal reflections. It was a long road to recovery for me, but it was through my family, friends, doctors, therapists, co-workers and an immense community that I can now walk and talk and argue and dance. This is also my privilege as a Commissioner. I got access to every doctor and people at the highest level to help me recover. But as I talked to people, women with cancer and stroke, the difference was palpable. The place that you live, the employment that you had, the hospital that you went to, the color of your skin all played a factor in how well you recovered and thrived. In the end, it was the access that you had, not the medical condition, that mattered. Our goal is to change that outcome.
+
+Thank you so much for the opportunity to speak today. I deeply appreciate the Council's attention to this important issue and I look forward to answering your questions and continuing to work together.
+
+**(00:35:27)**
+
+
+
+Good morning. Good morning, Chair Schulman, Chair Narcisse, Chair Hanif and members of the Committee. I am Joaquin Fara Xena. I am the Assistant Commissioner for the Bureau of Public Health Clinics at the New York City Department of Health and Mental Hygiene. I am a Hispanic male with short hair, wearing a blue suit with a pink and blue polka dot tie and a blue pocket square. Joining me today is Amanda Alvarado, the Health Department Director of Accessibility and Disability Services. She is wearing a pink suit with a white shirt, has short hair and also wears glasses.
+
+Thank you for the opportunity to testify today on access to reproductive health care for New Yorkers with disabilities. The New York City Health Department is a leader in the country in offering cutting-edge sexual and reproductive health care. Our six sexual health clinics offer a suite of low-to-no-cost sexual and reproductive health services to people ages 12 and older, regardless of ability-to-pay status or insurance status. To expand access to care, we also offer telemedicine services through our sexual health clinics hotline. Our sexual health services include testing and treatment for chlamydia, gonorrhea, syphilis and mpox, vaccination for Hepatitis A and B, meningitis and mpox, and preventative care like pre-exposure prophylaxis. Our reproductive health services encompass contraception, including intrauterine contraception and medication abortion.
+
+Most of our services are available without an appointment. We are always working to improve and expand our clinic services to better meet our patients' needs. Recognizing that our clinics are a gateway to health care for many New Yorkers, we also offer linkage to health care providers and other resources, including through on-site licensed social workers. Our sexual health clinics are the safety net of the safety net, reaching many people who have been historically disenfranchised by the health care system. Of patients seen in 2025, over half reside in high-need neighborhoods, over two thirds reported being uninsured and nearly three quarters were persons of color.
+
+The Department is unwavering in our commitment to providing low-to-no-cost services and creating safe, affirming spaces for all New Yorkers. Everyone deserves access to compassionate care without barriers. Over the past several years, the New York City Health Department has made significant progress towards improving accessibility of our services to the public as well as internal reforms to make the agency more accessible to staff members with disabilities. While we have much to accomplish, we are proud to be leading these efforts, which include evaluating signage at Health Department facilities and implementing accessible signage, developing and implementing disability justice trainings and renovating buildings for enhanced accessibility. Our sexual health clinic buildings are physically accessible and we are making them compliant with the ADA as we renovate and retrofit spaces.
+
+Turning to legislation under consideration today: Int 0200-2026 would require us to develop a doula bill of rights as well as a submission form to receive feedback from doulas. The Bill would also establish a doula advisory council to study the work of doulas in the City. We support the intent of this legislation and share the Council's goals. We are still assessing the implementation needed for this legislation and its
+
+**(00:38:59)**
+
+
+
+operational impact. We look forward to continuing the conversation.
+
+Int 0211-2026 would require us to conduct a public education and outreach campaign on fertility treatment, including insurance coverage. The New York City Health Department is committed to ensuring that New Yorkers have access to accurate, timely information and services that support their sexual and reproductive health. While the Department plays an important role in connecting New Yorkers to reproductive care, services are primarily delivered through external health care providers, health systems and insurance plans. The Department does not provide fertility services nor have the expertise to provide information to the public. Additionally, insurance coverage and eligibility requirements can vary significantly across Medicaid managed care plans and private insurers, creating challenges in providing information to the public. We are happy to discuss this further after the hearing.
+
+Next, Int 0840-2026 would require us to create a disability competency and accessibility training program as well as educational resources for health care providers and patients regarding disability-related health care rights and resources. The Department supports the intent of this legislation. However, we have no oversight role over health care providers in New York City as they are regulated by the State. Further, the development of comprehensive, evidence-informed training curriculum, stakeholder engagement processes and ongoing program administration would require subject matter experts that we do not have.
+
+Lastly, T2026-2088 would require us to provide medication abortion at no cost to patients at all of our sexual health clinics. We support expanding access to medication abortion for New Yorkers alongside our full suite of sexual and reproductive health services. We do have operational concerns that we hope to discuss with the Council, including hiring challenges and constraints on physical space. We thank the Council for your commitment to supporting and improving reproductive health care for New Yorkers with disabilities.
+
+**(00:41:07)**
+
+
+
+Thank you for your attention. We welcome your questions. Good morning.
+
+**(00:41:19)**
+
+
+
+Good morning, Chair Hanif, Nurse and members of the Committee on Hospitals, Disabilities and Health. I am Dr. Wendy Wilcox, Chief Women's Health Officer of New York City Health and Hospitals System, Chief of Obstetrics and Gynecology, and Chief of OB at New York City Health and Hospitals Woodhull Hospital. I am a Black woman wearing black-rimmed glasses and a red suit. I have been with New York City Health and Hospitals for over 15 years, working at acute care centers which include Jacobi, North Central Bronx and Kings County. I am also joined by New York City Health and Hospitals Chief Diversity, Equity and Inclusion Officer Dr. Illes Mendez. She is a light-skinned Hispanic female wearing a blue suit and orange shirt.
+
+At New York City Health and Hospitals, also known as H+H, or referred to as the System, our commitment is to excellence in health care built on a foundation of social and racial equity. H+H is led by standards known as I CARE, which stands for Integrity, Compassion, Accountability, Respect and Excellence. With this ethos as a guidepost, clinical and non-clinical staff strive to ensure that all New Yorkers who walk through our system's doors are treated with dignity throughout their care experience, no exceptions.
+
+Historically, people with disabilities have faced elevated stigma and bias across health care systems, including in sexual and reproductive health. H+H is a leader in providing culturally responsive health care services and continuously strives to remove barriers for special populations experiencing a disproportionate burden of illness. This commitment also extends to sexual and reproductive health conditions that have consistently faced delays in diagnosis and treatment, such as endometriosis and chronic pelvic pain. H+H offers a multitude of diagnostic tools, medical therapies and surgical procedures as well as treatment plans to address all patients' health care concerns.
+
+Patients who seek sexual and reproductive health care are met with a robust team of clinical staff, including specialized physicians, surgeons, nurses, mental health providers and social workers, to meet patients where they are in their sexual and reproductive health care journey. H+H's women's health clinical programs are designed to prioritize listening, validate the patient experience and provide equitable, comprehensive, coordinated care across the care continuum. H+H has a comprehensive obstetrics and gynecology program that provides evidence-based, compassionate care to help patients achieve their sexual and reproductive health goals. The System accomplishes this in part through an expansive network of physicians that includes sub-specialty trained providers in sexual and reproductive health.
+
+Whether a patient with complex medical conditions is seeking counseling on contraceptive options, prenatal care, adoption or abortion care, H+H staff provide care consistent with New York City's Sexual and Reproductive Health Care Bill of Rights as well as New York State's Hospital Patient Bill of Rights. In addition to providing these clinical services, H+H maintains a Reproductive Health Working Group comprised of family planning directors, which are located at each acute care facility and offsite locations. This working group focuses on troubleshooting everyday clinical issues to develop system-wide standards and guidance, allowing for challenges noted at one facility to be brought to the group to proactively address them across the system.
+
+In its ongoing efforts to find innovative ways to reduce barriers to care, H+H became the first public health system in the nation to launch telehealth abortion care through Virtual ExpressCare in October 2023. The Virtual ExpressCare Abortion Access, also known as the VECA program, provides patients the opportunity to access reproductive health care where and when it best meets their needs, and to receive medication abortion at their New York City address within a few days, if clinically appropriate. The service is available seven days a week between 9 a.m. and 9 p.m. and can be accessed online or by telephone. Since the program's launch, H+H has had over 7,500 encounters and prescribed over 20,300 people in New York City a medication abortion packet, which was then mailed to their home. VECA expands access to care without compromising the patient experience, offering the same compassionate, judgment-free care as in-person visits and supporting all patients in reaching their health care goals.
+
+Treating patients with disabilities goes beyond the clinical services provided by H+H staff. In addition to the programs described, H+H prioritizes accessibility across its facilities and services to ensure individuals of all abilities can access care across the system. Facilities have tables to make transfers easier for patients with mobility limitations. Facilities are also designed with accessibility in mind, including door frames and hallways that have been constructed to accommodate individuals who use wheelchairs and other mobility devices. To strengthen staff capacity, H+H has partnered with the Helen Keller National Center and the Lighthouse Guild to conduct blind and low vision simulation training to help staff better support patients navigating facilities. To further support all patients seeking reproductive health
+
+**(00:48:34)**
+
+
+
+care, H+H's reproductive health navigators assist patients who need extra support accessing services, including transportation, escorts after receiving anesthesia and other forms of care coordination. The system also ensures that patients can access information and resources in their preferred format and language through the Accessible Format Directory. Through this directory, staff across H+H can provide patients' consent forms in large print, Braille and audio files in English and the other top five languages at their respective facilities.
+
+New York City Health and Hospitals remains committed to ensuring that all New Yorkers with disabilities seeking sexual and reproductive health care feel seen, heard and respected during their visit to our facilities and system. Through ongoing innovation and a commitment to culturally competent care, we will continue to provide health care services that uphold the dignity and unique needs of every patient. Thank you again for the opportunity to testify today on this critical topic. I am happy to answer any
+
+**(00:49:56)**
+
+
+
+questions. Thank you. We have been joined by CM Farías, CM Sanchez and I want to pass it to Chair Narcisse for her questions.
+
+**(00:50:03)**
+
+
+
+Thank you, Chair. One of the things I was... and CM Joseph... one other thing I want to quickly ask: what are the top five languages that we are talking about?
+
+**(00:50:18)**
+
+
+
+The top five languages that we provide care in at H+H are Spanish, French, Bangla and Mandarin.
+
+**(00:50:32)**
+
+
+
+One of the things I want to know is: is it still going on that medical providers are not talking about sexuality with folks with disabilities? For me, that is old news. I mean, before I used to hear it, but is it still going
+
+**(00:50:51)**
+
+
+
+on? Well, this is research at the national level also, but this was, I think, 2022, so it is still current.
+
+**(00:51:05)**
+
+
+
+I cannot understand that. I am thinking, like, it is a human being. The former Commissioner of the Mayor's Office for People with Disabilities testified in April 2025 that inaccessible exam rooms, equipment, communication barriers and lack of culturally competent care remain works in progress. Fourteen months later, which of those have been resolved? What relevant data can you share with these committees?
+
+**(00:51:42)**
+
+
+
+So I will defer to the Health Department and H+H for specific facility-related questions, but the Mamdani administration takes this very seriously and is committed to the progress. As I mentioned in my testimony, the Deputy Mayor and I visited to see good models and we held a roundtable with women with disabilities to continue this conversation with community partners with lived experience, and that is our next
+
+**(00:52:17)**
+
+
+
+follow-up from that. It is all great when you talk about it, but how truly is it a reflection of the delivery of care for all of New York City? Because we know that in Black and Brown communities that is not possible, and I am not blaming them, because if reimbursement is stuck — Medicaid reimbursement and all the cuts — we have more trouble to deal with. So thank you for your advocacy and everyone here to continue fighting for that. As of today, how many H+H facilities and how many sites meet the requirement, and how many
+
+**(00:53:00)**
+
+
+
+facilities and sites do not currently meet that requirement? I can speak on behalf of the Health Department. All of our sexual health clinics that are currently operating do have ADA-compliant beds and ADA-compliant bottom chairs. So we are meeting that requirement. Regarding the services we are providing, as for the scales, all of the services that we do provide do not require assessing for weight, so we currently do not have any accessible scales for some services that we are currently providing.
+
+**(00:53:36)**
+
+
+
+H+H, Dr. Wilcox... this is my card. Sorry.
+
+**(00:53:41)**
+
+
+
+Thank you. Health and Hospitals complies with all state, local and federal requirements related to... we are a public agency that is governed by federal and state Department of Health and New York City Department of Buildings, all of which outline the needs of people with disabilities. H+H is constantly assessing our equipment and policies to address any gaps in care as legislation and regulatory requirements are updated, and we can dive into it a little deeper, but for now
+
+**(00:54:19)**
+
+
+
+I will defer to you. To your knowledge, what capital investment has H+H committed specifically for accessibility fixes
+
+**(00:54:32)**
+
+
+
+such as doorway width and examining rooms? So H+H, as stated previously, complies with all state, local and federal requirements. As I said previously, we are a public agency governed by federal and state Department of Health and New York City Department of Buildings, all of which outline the needs of people with disabilities. All H+H facilities have hallways that are large enough and do not restrict travel with wheelchairs. All H+H hallways have handrails to assist people who need more stability when walking. All H+H bathrooms have accommodations such as wider doors, insulated piping below sinks. Access ramps are installed in all H+H buildings to facilitate movement throughout. Elevators are easily operated and have ADA-compliant controls. There are also instances where we make accommodations for people with additional needs that are not addressed by building code, such as ergonomic furniture, lighting and automatic doors.
+
+**(00:55:49)**
+
+
+
+You are talking about all the buildings. I will share that not all of them are accessible, because there are some older structures where you have been limited. So I am going to leave it at this because the Chair will probably dive into those more. Since I have to run, I hope... accessible medical diagnostic equipment, or MDE, is a critical component for credible reproductive and maternal health care. Do any H+H labor and delivery units and prenatal clinics have accessible MDE and accessible birth rooms?
+
+**(00:56:39)**
+
+
+
+So yes, we have accessible MDE and accessible birth rooms across our system. Our birthing beds are designed for safe, flexible childbirth care and they do allow for height adjustment for easy transfer. Across the MDE, from the bed to other modalities, there are also built-in grips and a labor bar for additional comfort and leverage during delivery. So we have tried to accommodate for that.
+
+**(00:57:26)**
+
+
+
+What specific accommodations exist for patients who use wheelchairs or have limited mobility during labor? I am sorry, please repeat: what specific accommodations exist for patients who use wheelchairs or have limited mobility during labor? You started talking about it, but I just want to be specific.
+
+**(00:57:50)**
+
+
+
+Okay, thank you. So are you talking about, like, transfer from the wheelchair to the bed? The bed is height-adjustable to allow for easier transfer.
+
+**(00:58:02)**
+
+
+
+Like, for instance... so if a patient with a disability — and sometimes it is not all disabilities, there are a lot of different things — maybe the limb can be something else, it can be the back where the person cannot move. So do you have all the equipment required to assist that person in transferring, even to be in that bed or on that stretcher?
+
+**(00:58:31)**
+
+
+
+So our staff is highly trained and would absolutely assist the patient in the transfer.
+
+**(00:58:37)**
+
+
+
+Okay. And one of the things — because I used to be a provider — one of the things that always came across is that some chairs are limited in size. You do not have all sizes. Your doors are restrictive. I have been there, done it, registered and selling, so that is the reason I am going with that question with you.
+
+**(00:58:59)**
+
+
+
+Are those chairs provided really suitable for all sizes? Do you have all sizes?
+
+**(00:59:09)**
+
+
+
+Absolutely. This was taken care of a while ago. We have wheelchairs that are able to accommodate certainly higher weights, as well as the birthing beds and tables that are able to... alright. H+H obstetrics staff — you said they are all trained, so I do not have to ask. They are all trained and able to provide care for any disability that a person has. So all H+H staff are provided with disability awareness training. In addition to that, we offer the low vision and blind patient experience, which provides training on navigating difficult spaces, both for the patient and for the staff. So when a patient walks in with a disability on any floor, staff are trained and will give them enough knowledge for that stay in the hospital to give them some comfort.
+
+**(01:00:19)**
+
+
+
+Because they say a person who is blind — are you aware of what is going on? What is that from the get-go? It is not a person with a disability, not a person that is just walking in. They have different things. They have a lot of fear going on, especially when we come... we talked about even somebody who is pregnant coming to deliver, knowing that they have a limited ability to do everything that they want to do. Do you provide all that
+
+**(01:00:44)**
+
+
+
+from the get-go, with the instruction? So from the very beginning, we provide training to all staff. We also provide staff with disability ally training so that individuals with disabilities — and as we know, not all disabilities are visible — the patient is able to approach any staff member and ask them about any special accommodations that they need.
+
+**(01:01:07)**
+
+
+
+Do you have something like a doula so you can partner that within the structure to make that person comfortable? Because that is a lot going on
+
+**(01:01:14)**
+
+
+
+for somebody with a disability delivering. So we are open to partnering with all of the staff.
+
+**(01:01:23)**
+
+
+
+I could have a lot of questions, but I have got to run. Okay, though. The U.S. Department of
+
+**(01:01:28)**
+
+
+
+Justice filed a final rule requiring that by August 19, 2026 — roughly eight weeks from this hearing — every covered facility that uses exam tables and weight scales have at least one accessible exam table and one accessible weight scale. As of today, how many H+H facilities and how many H+H sites meet the requirements and how many do not, if you are aware?
+
+I will go to the Health Department. All of our clinics are compliant in regards to the beds and, as I mentioned previously, we do not have scales because weight... the last time I heard, the scales are expensive. You do not know how many, but how many... but now let us go back. How many folks with disabilities gave birth within a year at H+H or in the City of New York? If you are not buying the scale, it is because how many are you delivering? Do you have the statistics? Say, okay, you have one and the scale costs two million. I am just giving an
+
+**(01:02:43)**
+
+
+
+example. Well, we do not provide delivery services, so I will defer to Health and Hospitals.
+
+**(01:02:48)**
+
+
+
+So do you know that they are providing it? Because if you are the Department of Health...
+
+**(01:02:50)**
+
+
+
+Well, we do work closely with our partners, Health and Hospitals and many other institutions across New York City. So you do not have it.
+
+**(01:02:57)**
+
+
+
+So I am going to turn back to... I am sorry, what was your... please repeat, for the hospital.
+
+**(01:03:05)**
+
+
+
+Yeah, so I am unaware of any facilities that are not compliant. So you have scales for all of your patients? You do not have...
+
+**(01:03:16)**
+
+
+
+You know, at this point, we would have to...
+
+**(01:03:18)**
+
+
+
+I would say we have scales that are compliant, though we may not at this point be able to confirm all
+
+**(01:03:24)**
+
+
+
+of them. I would have to get back to you.
+
+**(01:03:25)**
+
+
+
+Okay, no problem. Because H+H and the Health Department receive federal funds, they are covered not only by ADA Title II but also by Section 504 rules, which have required every MDE acquired since July 2024 to be accessible and sets a deadline of one accessible exam table and one accessible weight scale. So then I am going to go to the next one. Are the agencies tracking compliance against both rules and is the Section 504 deadline reflected in procurement timelines?
+
+**(01:04:23)**
+
+
+
+So I do know that we are tracking compliance against both rules and that we are complying with them.
+
+**(01:04:33)**
+
+
+
+H+H is constantly assessing our equipment and policies to address any gaps in care as legislation and regulatory requirements are updated.
+
+**(01:04:41)**
+
+
+
+My last point: women and other birthing people with disabilities are five times more likely to experience intimate partner violence in the year before and during pregnancy, yet it is routinely missed in screening among this population. Is accessible screening built into well-women and prenatal visits at Health and Hospitals and the sexual health clinics?
+
+Yes, for Health and Hospitals, intimate partner violence screening is built in.
+
+Okay, thank you. In what ways do you work with the Mayor's Office to end domestic and gender-based violence, to track and reduce it among women and other birthing people with disabilities?
+
+Health and Hospitals has many different representatives that serve on committees to track and reduce it across all populations, including women and other birthing people with disabilities, and I am going to leave it with that. Thank you for your work. I appreciate all of you, and I am passing back to...
+
+**(01:06:12)**
+
+
+
+Thank you, Chair. I would now like to turn to CM Selvena Brooks-Powers while we have a quorum. All right.
+
+**(01:06:58)**
+
+
+
+Hi, good morning, Chair. Can you hear me? Yes. Thank you, and thank you for the testimonies from the agency representatives. I just want to ask three quick questions, and in the interest of time I will just ask them all at once.
+
+The first is: many New Yorkers with disabilities continue to report barriers when accessing reproductive health care, including inaccessible facilities, medical equipment and provider training. What specific steps are Health and Hospitals and DOHMH taking to ensure that reproductive health services, including prenatal care, fertility treatment and abortion care, are fully accessible to patients with disabilities?
+
+Next: Black women in New York City continue to experience disproportionately high rates of maternal mortality and severe maternal morbidity. How are the City's reproductive health initiatives, including the doula services, fertility programs and sexual health clinics, being targeted towards communities experiencing the greatest maternal health disparities, and how will success be measured?
+
+And lastly: residents of geographically isolated communities, including the Rockaway Peninsula, often face significant barriers to accessing specialty health care services. How are Health and Hospitals and DOHMH evaluating whether reproductive health care services, including abortion care, fertility services and maternal health support, are equitably accessible across all boroughs and neighborhoods, and what gaps have been identified in Southeast Queens and the Rockaways in terms of services from your agencies? Thank you, Chairs. Were you all able to get that?
+
+**(01:08:56)**
+
+
+
+I think it would be easier to answer them one by one.
+
+**(01:08:59)**
+
+
+
+One at a time. Go for it. Absolutely.
+
+**(01:09:01)**
+
+
+
+Yeah, but if you could just ask it once and then we will get to it. That is okay. Please.
+
+**(01:09:09)**
+
+
+
+Sorry. So the first one is: many New Yorkers with disabilities continue to report barriers when accessing reproductive health care, including provider training. What specific steps are Health and Hospitals and DOHMH taking to ensure that
+
+**(01:09:30)**
+
+
+
+reproductive health services, including prenatal care, fertility treatment and abortion care, are fully accessible to patients with disabilities?
+
+So for Health and Hospitals, we provide patient care to all patients irrespective of ability to pay, and certainly I thought we had earlier outlined how we have telehealth abortion services. We have services for patients with limited sight, we have services for patients with limited mobility, we have people participating with us on our reproductive health work to identify site-specific issues and then bring them across the system. We abide by our I-CARE values, we have trainings that people have to do on an annual basis in terms of anti-bias training. So I would say that all of that would work toward ensuring that we are offering care to all patients, including people with disabilities. Thank you.
+
+**(01:10:46)**
+
+
+
+And Black women in New York City continue to experience disproportionately high rates of maternal mortality and severe maternal morbidity. How are the City's reproductive health initiatives, including doula services, fertility programs and sexual health clinics, being targeted toward communities experiencing the greatest maternal health disparities, and how will success be measured?
+
+For the Health Department, the priorities are to reduce the maternal mortality rates in New York City, and we are addressing that through a range of programs, services and resources we are offering, including our doula programming. We definitely support the intent of that work and our partners. So we are continuing to assess, and we do conduct trainings of our staff as well. We do have greeters along our clinics to really assess those needs, but most importantly we collaborate with our partners as well for those additional services when
+
+**(01:11:57)**
+
+
+
+required. For Health and Hospitals, I will say that we have long been aware of the disparities in maternal mortality and severe maternal morbidity. All of our acute care facilities for prenatal patients have something called the Maternal Home, which really offers wraparound services to patients with identified needs for either behavioral health issues, complex clinical care issues or identified social determinants of health. Through that care navigation, Health and Hospitals is the largest referral source for the City's doula program, the Nurse-Family Partnership and other community-based organizations that help patients. Thank you for that.
+
+**(01:13:01)**
+
+
+
+And then lastly, residents of geographically isolated communities, including the Rockaways, often face significant barriers to accessing specialty health care services. How are Health and Hospitals and DOHMH evaluating whether reproductive health care services, including abortion care, fertility services and maternal health support, are equitably accessible across all boroughs and neighborhoods, and what gaps have been identified in the Rockaways and Southeast Queens?
+
+I will just say, Chair, from a personal experience, I myself have gone through fertility treatment and also just through prenatal care. I often found myself having to go to Manhattan for certain treatments and Long Island for care, as opposed to being able to go locally in the neighborhood, and those were even with largely private medical institutions because there was not really a presence from the City health institutions. So I am just interested in terms of how these two entities are evaluating whether reproductive health care services — you know, what those look like, what gaps have been identified and what the plan of action is
+
+**(01:14:26)**
+
+
+
+to address those. I can go first for our department. So reproductive health and abortion are cornerstones of basic health care, and access to those services is a public health priority. We are committed to protecting abortion and reproductive health care services for everyone who needs them. We do have our hub, which is a confidential hotline that connects callers to abortion care and related services.
+
+**(01:14:49)**
+
+
+
+treatments as well as for fertility treatment. We do not provide... I could defer to Health and Hospitals as it requires fertility treatment.
+
+**(01:15:01)**
+
+
+
+So for Health and Hospitals... and I am sorry, when you talk about the abortion services and the hotline, could you tell me what the nearest location would be for someone who needed that type of care out of Southeast Queens and the Rockaways? Would they have to go into Manhattan, would they have to go to northern Queens or Brooklyn? Where would they have to go to actually get these services?
+
+**(01:15:23)**
+
+
+
+Well, through the abortion access hub, we connect them through various partners, not just the sexual health clinics. So we also depend on Health and Hospitals as well, and many times when needed we utilize their telehealth express for a medication abortion as well. So at times they may not have to come in to the City, depending on the type of services that they are seeking. So we do coordinate based on their needs.
+
+**(01:15:47)**
+
+
+
+But if someone is seeking an abortion, they likely would have to...
+
+**(01:15:50)**
+
+
+
+Because as part of Health and Hospitals, we have a Gotham Health center in Springfield Gardens and we have a Gotham Health center that is being built in Far Rockaway, which I do not believe is in service as of right now. It is going to be one of those administered sites. So where would...
+
+**(01:16:08)**
+
+
+
+And CM, if you could wrap up. Yes, I am sorry, Chair. So as I mentioned, I do not have a list of all the sites, but we can assess them throughout the City, including in Queens, and again for those who necessarily cannot travel, we heavily depend on Health and Hospitals for the telehealth medication abortion
+
+**(01:16:35)**
+
+
+
+option. Thank you. Look, I am the chair here. Can Health and Hospitals answer? Go for it.
+
+**(01:16:44)**
+
+
+
+Yeah, sure. Thank you. So telehealth abortion is available all over the City and we certainly receive referrals from the abortion health help line. I will say that all of our acute care facilities — we have two in Queens, Elmhurst and Queens Hospital — do offer procedural abortions if that is the need. In terms of fertility treatments, Health and Hospitals has the ability to diagnose and treat conditions related to hormone dysfunction. However, we do not offer any assisted reproductive technologies such as...
+
+**(01:17:34)**
+
+
+
+IVF. Thank you. Okay, well, good morning again. Thank you so much for coming, and thank you each of you for your incredible service to our City. I know you all have been a part of the health care work and supporting people with disabilities for many years now, and I am really deeply appreciative of your advocacy. Commissioner Agarwal, thank you so much for sharing your personal experience with the system and acknowledging the privilege that you and I have in accessing the health care needs and resources associated with our chronic conditions, and really highlighting the inequities that exist and which we are, of course, trying to address and solve for.
+
+So I want to first get a better understanding of how each agency is working together. How are the three of you working together to inform the conversation on reproductive health care access for people with
+
+**(01:18:56)**
+
+
+
+disabilities? Maybe I will start. So thank you for raising that question. We are in constant communication with the Health Department and Health and Hospitals and the Mayor's Office for People with Disabilities, and we continue this conversation on a range of issues. For example, we have disability service facilitators at each agency who are responsible for compliance, and we have regular meetings every month. We do office hours if they have questions or concerns, and we have
+
+**(01:19:48)**
+
+
+
+convenings two times a year, and we even arrange a field trip because we are moving from theoretical to real-world experience on disability and health care. So we are always looking to strengthen our partnerships and look forward to working with Health and Hospitals.
+
+**(01:20:18)**
+
+
+
+More specifically, in terms of the day-to-day — you mentioned, given the data on how many New Yorkers are living with a disability, what kind of convening has happened specifically on New Yorkers with disabilities? And if there has not been one, that is totally okay. I am just trying to understand the function of how agencies that should be working in collaboration are doing so, and if not, why not.
+
+Yeah, so if a person who has questions or concerns about different issues can reach out to the Mayor's Office for People with Disabilities, we can help in resolving that question. That is one way of partnering with both Health and Hospitals and the Health Department, and we do it with many other agencies as well. I think that is very helpful because if a person has a question they can just call us. We have expertise, they have the expertise on the department that they work on, and so we collaborate well and it has been very effective.
+
+**(01:21:52)**
+
+
+
+So for the Health Department, we view the Mayor's Office for People with Disabilities as a valued partner in our efforts to make our facilities and our services more accessible. Through their five-year accessibility plan process, my office — which is the Office of Access and Disability Justice at the Health Department — has collaborated with them to provide physical and digital accessibility training. I am the staff lead and I also attend the regular monthly meetings as well as community meetings in collaboration with the Mayor's Office for People with Disabilities. We have a digital inclusion officer and members of our communications team who have participated in digital accessibility training that was provided by the Mayor's Office for People with Disabilities. I will come back once I hear from Dr. Wilcox.
+
+**(01:22:42)**
+
+
+
+I would just say that we collaborate as has previously
+
+**(01:22:45)**
+
+
+
+been described. Okay, so I would like to better understand — Amanda, you mentioned that you are the ADA coordinator. What are your responsibilities? Sure.
+
+**(01:22:59)**
+
+
+
+So my responsibilities are to ensure that the agency is in compliance with local, City and federal ADA compliance laws, as well as to be a point of contact for the public whenever there is a concern or a complaint regarding our accessibility, and to escalate those concerns to the appropriate parties within the agency.
+
+**(01:23:20)**
+
+
+
+And are those complaints accessible through
+
+**(01:23:26)**
+
+
+
+you? So they can come through 311 as well as an email address, mail or phone, and that is specifically about complaints or concerns about access.
+
+**(01:23:38)**
+
+
+
+Correct. Got it. And then what about for Health and Hospitals? Oh, sorry. We have
+
+**(01:23:47)**
+
+
+
+an individual as well who is responsible for looking at any accessibility issues. We also have a collaboration with the Office of Disabilities. But in addition to that we also have a patient grievance mechanism. So any patient that comes in, according to the bill of rights, they are able to register a complaint or request for accommodation. That information is posted at all of the facilities and we have a dedicated email for individuals to submit complaints. And are you all tracking
+
+**(01:24:21)**
+
+
+
+these complaints that are coming in? Are you able to share any data with me on how many over the last year? So to date we have had no
+
+**(01:24:31)**
+
+
+
+accessibility complaints coming in through our email.
+
+**(01:24:33)**
+
+
+
+Got it. And then for DOHMH, same question — how many in the last 12 months? And how would a patient know about the patient
+
+**(01:24:43)**
+
+
+
+grievance process? Sure. So the information is posted at all of the facilities in a clearly marked area via posters. It is also available through our digital services and our external-facing websites. Got it. So it is not
+
+**(01:25:01)**
+
+
+
+such that a doctor interfacing with a patient would be sharing, "Here is how you can access..." If a patient is admitted, the information is also included in their admissions package. Got it. I want to come to the meat of my bill on fertility treatment information for New Yorkers. You mentioned that DOHMH does not have expertise in the area. Could you just elaborate?
+
+**(01:25:59)**
+
+
+
+So the primary barriers for us in fertility care are the limitations in access and outcomes through outward referrals and diagnosis. So it is something that, despite New Yorkers' coverage requirements, we are working with necessary partners. We do referrals through our social workers to better understand patients' needs. So when someone does come into the clinic with fertility care as a service they are seeking, we try to work with collaborating partners on what that access looks like, what that cost looks like, and then kind of inform the patient on that process. So there is some in-house interaction available.
+
+**(01:26:51)**
+
+
+
+It is more of us being the referral pathway. So we are the entry point for individuals and we try to be the referral pathway on what is available throughout the City.
+
+**(01:27:02)**
+
+
+
+And it is not necessarily giving a referral, but rather listing out the options available. Correct.
+
+**(01:27:14)**
+
+
+
+Got it. And is anything distributed during that communication?
+
+**(01:27:20)**
+
+
+
+No, it is more that we try to make a warm handoff via phone. The social worker tries to assess the capability or ability to make those referrals based on what is
+
+**(01:27:29)**
+
+
+
+available. I mean, I think this is exactly the reason why we need something that is more formalized, so that our City is continuing to lead on fertility care and treatment, especially as many of us go through that process. Knowing that there have been conversations and there is a referral system, I think that really speaks to why I have introduced my legislation. Now, when you talk about referral, are you referring out to a Health and Hospitals site, or are there private facilities you are also partnered with and referring to as well?
+
+**(01:28:27)**
+
+
+
+We partner with private facilities as well. So it is really assessing... I think the biggest barrier that we are seeing is coverage, because the patient population that we do serve within our clinics predominantly tends to be uninsured. Got it. And you...
+
+**(01:28:44)**
+
+
+
+My Bill does not say that we test to cover the process. However, I think that is an important distinction as well, that many New Yorkers who are approaching reproductive age are uninsured. Again, I think that speaks to why this awareness and education is important on our City's resources on fertility care.
+
+So again, when there are referrals being shared, this is like just spoken conversation, not a written one. Correct. Got it. Okay, so back to me. I also visited recently for fertility care and received a similar conversation and took down notes. It is very overwhelming, first of all, to receive information, particularly if the patient is unable to give birth and then considering a process that is so expensive. There is so little about fertility care just in general that the onus falls on the patient to fully understand what to expect during this process, or to talk to others who have already gone through the process to better understand.
+
+Partnership with the two other agencies here on fertility care available, and giving some attention to people with disabilities, is incredibly important and I think absolutely urgent. I think your response really speaks to exactly why we need to pass my Bill. I want to pass the mic to CM Sanchez. Oh, she left. Okay, she is going to send me questions. I want to pass it to CM Epstein. Thank you. Thank you.
+
+**(01:31:06)**
+
+
+
+Thank you all for being here. Congratulations. I want to talk about how we grapple with these issues. Obviously this is an important agency. We see issues around health care related to people with disabilities across the board, really being worse, especially for women of color. What is the agency doing to try to get in front of it? How do we kind of system-wide change the process? I think there is a really good package of legislation here, but we have underlying problems that are really hurting women of color and women coupled with disabilities, and I am not sure we are getting to that.
+
+So this matters for me personally. The first thing is we do not want to just comply. We want to be the best in the country and in the world.
+
+**(01:31:56)**
+
+
+
+And so, like best practices at Health and Hospitals, the Health Department and other agencies — it was really remarkable to see that any woman could walk in and get the care they needed, and it affects the bottom line. I think that is very important. We are sharing the best practices and then doing a roundtable with women with disabilities, primarily people of color, to explain some of the problems. We want to focus on the solutions for hospitals, doctors and facilitators at every level. The next steps at the end of that are: how are we going to move this problem forward? It takes time, it is organizing, but we are trying to create a system where it is not just compliance, but world-class.
+
+**(01:33:05)**
+
+
+
+Is part of the plan to encourage people to be hiring, or setting requirements for hiring people with disabilities, so they are more sensitive to those issues? What gets us over this? I appreciate the roundtable and I appreciate the work there, but hopefully the roundtable comes up with real concrete solutions about how we broach this problem.
+
+**(01:33:25)**
+
+
+
+Yeah, and I think also we do employment and we do that for job seekers and employers. Recognizing that people with disabilities want employment, having that connected work for health care and employment, for example, is a great strategy to move forward.
+
+**(01:33:51)**
+
+
+
+Do you think that could include requiring or having set-asides for people of color with disabilities, or people with disabilities, to make sure those entry roads are into our government jobs?
+
+**(01:34:05)**
+
+
+
+Yeah, so we work with Section 55-a, which is a program for people with disabilities that does not require an exam. All of that can be used in employment to have people get employment. We will work with Health and Hospitals and the Health Department to have staff who are disabled and work in there.
+
+**(01:34:42)**
+
+
+
+And is there a procurement piece? Because obviously part of our government dollars is not just about hiring but around procurement as well.
+
+**(01:34:49)**
+
+
+
+Yeah. So we are not involved in the procurement, so I cannot share that information, but we can talk to OMB on that.
+
+**(01:35:01)**
+
+
+
+Because obviously that is a really good opportunity as well. Not just in our hiring, but whatever procuring allows this to be infused within our network. In some ways, getting to these issues requires a real sensitivity that unfortunately our current system does not have.
+
+**(01:35:19)**
+
+
+
+Yeah, and I mean, I think like in your district there are Tanya Towers, where there is a huge amount of people with disabilities. Working with City members is crucial to partnering our agencies.
+
+**(01:35:41)**
+
+
+
+Yeah, well, I would love to go there with you. I have been working with that building dealing with issues over the years. I would love that partnership, but also expanded opportunities on these kinds of reproductive health issues to be a partner in that as well.
+
+**(01:35:55)**
+
+
+
+Thank you very much. Thank you, Chair. With Local Law 12 of 2023, every agency needs to publish an annual accessibility progress report and then submit it to the Mayor's Office for People with Disabilities. With the August 9th medical diagnostic equipment deadline looming, is the Mayor's Office for People with Disabilities specifically tracking health agencies' compliance through that reporting framework, and would they share that reporting with these committees?
+
+So we do not get the report directly, but we work with Health and Hospitals and the Health Department all the time and we will continue that progress. So you are saying the accessibility progress report is not supposed to be submitted to the Mayor's Office for People with Disabilities? It is not. Got it.
+
+**(01:37:00)**
+
+
+
+Do you know where it is being submitted?
+
+**(01:37:09)**
+
+
+
+This is a question for Health and Hospitals. So there is a site — we publish our plans on our own public-facing websites. The plans and the progress reports are on our public-facing websites with the accessibility plans on them.
+
+**(01:37:32)**
+
+
+
+Got it. And how are you all doing with the deadline coming up?
+
+**(01:37:47)**
+
+
+
+I will add that we are continuing to work with Health and Hospitals and the Health Department to ensure that it will be done. After this meeting, certainly, we are going to continue to meet this deadline. But it is not just about meeting the deadline. It is about moving forward to make our City more accessible for women with disabilities. Once the reports are available, we will share our observations, concerns or comments with the agencies. We can share that with you because, again, it is very important to me that we are not just compliant but getting better. Everything from the roundtable to this work — we will get more involved with my leadership.
+
+**(01:38:52)**
+
+
+
+From the Department of Health and Mental Hygiene — what is informing the accessibility progress report?
+
+**(01:39:03)**
+
+
+
+So we developed an accessibility committee that has representatives from all across the agency. Those representatives helped to inform the progress that we have made and any gaps that remain. We also work in collaboration with any concerns or complaints that come through my office to ensure that they get incorporated into our accessibility plan.
+
+**(01:39:27)**
+
+
+
+That is great. So there is an additional committee working with representatives from within the agency. Wonderful. And then what about for Health and Hospitals?
+
+**(01:39:45)**
+
+
+
+Yeah. Can you turn your mic on. We are also in the process of putting together a Disability Advisory Council that is currently working. It is not official as of yet. However, we are also partnering with a disability index company and we are in the process of assessing all of the areas of disability, whether it is external, digital, internal, facilities and anything else that we may be able to address.
+
+**(01:40:09)**
+
+
+
+And do you know the timeline for that disability index?
+
+**(01:40:14)**
+
+
+
+In the next three months, in the next few months. And then the advisory...
+
+**(01:40:17)**
+
+
+
+Oh, that is the advisory. Got it. And are those folks from the agency or is this a contracted partner?
+
+**(01:40:29)**
+
+
+
+It is from the agency, so all of our partners — for example, hospital police, facilities, anyone that has a piece in the game. Understood.
+
+**(01:40:45)**
+
+
+
+Does the Department of Health and Mental Hygiene or the Mayor's Office for People with Disabilities coordinate with the Department of Education to ensure sexual health education curricula developed or delivered in schools are accessible to students with disabilities, including those with IEP and 504 plans?
+
+**(01:41:08)**
+
+
+
+I can start. So we were working with schools on a range of issues, including District 74 and 75 schools, and a range of issues — not just sexual health. We are discussing ways that we can work together on that and my hope is we will also include children in the plan. Do you know if currently there is something that the...
+
+**(01:41:47)**
+
+
+
+Department of Education is doing? I do not know. I think you would have to refer that to the Department of Education.
+
+**(01:41:53)**
+
+
+
+And does the Department of Education also participate in the... did you say it was a monthly convening?
+
+**(01:42:02)**
+
+
+
+Yes, and they do, but I do not know the name.
+
+**(01:42:05)**
+
+
+
+Okay. And each agency has one... also has that digital...
+
+**(01:42:17)**
+
+
+
+accessibility facilitator. Again, really bad with the acronyms. But there is a disability accessibility training and they have the same rhythm. So in this instance, once the conversation...
+
+**(01:42:35)**
+
+
+
+is teased out with the New York City public schools, would the Mayor's Office for People with Disabilities play a role in supporting them with the sex ed delivery in school settings? Again, we are discussing a range of issues and we will see what we focus on first, but this is always a consideration. It is important. I would love to hear from the Department of Education, which means... so the Health Department is responsible for the development and distribution of materials. The Health Department coordinates with the Department of Education to contribute to the development of their sex ed materials.
+
+Okay, so there is a collaborative, ongoing partnership it seems. Are you able to share the materials that have been developed for the Department of Education specifically? So we provide the sexual health content for their education delivery, but I do not have that today. That is great. And do you know — is it developed in combination? Because, you know, third through fifth grade versus fifth through eighth grade versus high school — what sort of breakdown of information is available to the diverse age groups? I am sorry, I believe the Department of Education would have to answer that. They are responsible for the development and distribution. We just contribute and coordinate with them on materials.
+
+Okay, Commissioner, can you share a little bit more about the initiative for women with disabilities and share what you observed, saw and how you think our City should be replicating for our services? So as they mentioned in the testimony, it is like external exam tables — wait, the tables were accessible. All of that was fantastic and seeing it in person helps a lot. Then internal data sharing, including disabilities, including procurement — doing all of that stuff was huge. I think the director said they would love to have some other hospitals or clinics replicate their findings. They also mentioned that the director of Rusk, which I spent a lot of time with, works with another hospital, another physician who does trainings for providers in health care settings. It is a huge volume, but it is like — we can do this. It is simple. You just take that training and you share it with other hospitals in this City and in other cities as well. Those are some ideas that we learned in this conversation and we are going to continue to take that up.
+
+Great. And then for the training that is available for staff and health care workers, could you share what is included in that training with regards to how to accommodate people with disabilities and how to work with people with disabilities?
+
+**(01:46:50)**
+
+
+
+So we work with internal partners as well as external vendors in the disability training. Basically what it does is allow providers and all staff to be able to identify different types of disabilities. In addition to that, how to be more inclusive of individuals with disabilities, how to create an inclusive environment, how to communicate with individuals. In our low-vision blind patient experience trainings, individuals are taught the experience that a patient has navigating a hospital system. The clinicians or anyone who attends is fitted with accessories to have them feel and actually navigate a world where a patient may not be able to see or has challenges seeing adequately. That is done with the effort that clinical and non-clinical staff will be able to assist an individual by experiencing what they are experiencing.
+
+**(01:47:54)**
+
+
+
+And you said that this training comes from an external vendor. Who is facilitating the training?
+
+**(01:48:01)**
+
+
+
+The external vendor. The external vendor. Got it. And do you know how long Health and Hospitals has been working with the external vendor?
+
+**(01:48:06)**
+
+
+
+Approximately two to three years.
+
+**(01:48:12)**
+
+
+
+Got it. So somewhat new. Yes. And is the training updated?
+
+**(01:48:18)**
+
+
+
+All of our trainings are consistently monitored to ensure that they are up to date with any recent legislation and also with the content. And how frequently are employees getting the training?
+
+**(01:48:35)**
+
+
+
+The disability training is being offered, I want to say, every two to three months. The low-vision blind patient experience, because that is heavily resourced and it is an in-person training, is held twice a year. We are now getting ready to do one at Jacobi Medical Center and it is open to all staff.
+
+**(01:49:01)**
+
+
+
+Okay, so is the disability training mandatory? The disability training is not...
+
+**(01:49:06)**
+
+
+
+mandatory at this time. Got it. So how would...
+
+**(01:49:13)**
+
+
+
+one decide to do this training?
+
+**(01:49:16)**
+
+
+
+So we try, first of all, to make them accommodating to all. We try to do them during lunchtime and we try to make them short so that they are not two to three hours. We cannot take hospital care staff away from patients, so they average about 45 minutes to one and a half hours. We make them during times that people are able to attend them.
+
+**(01:49:39)**
+
+
+
+And then we publicize them through our website, through individual flyers. We also do town halls where we go to all of the facilities and market all of the programs. Why is it not...
+
+**(01:49:53)**
+
+
+
+mandatory at this point? It is not mandatory. We can definitely explore...
+
+**(01:49:57)**
+
+
+
+that. And can you share how many staff have received this training in 2025, or just the first six months of this year?
+
+**(01:50:09)**
+
+
+
+I do not have that information readily available, but I will be happy to provide it.
+
+**(01:50:12)**
+
+
+
+That would be great. And then what about for the Department of Health and Mental Hygiene? Before that, I have to go on. Yes, thank you so much, Commissioner. Really appreciate you and good...
+
+**(01:50:27)**
+
+
+
+luck.
+
+**(01:50:27)**
+
+
+
+So we currently have two disability justice trainings that are available to all staff, including staff at our clinics.
+
+**(01:50:35)**
+
+
+
+And is that coming from an external vendor? No, it is not.
+
+**(01:50:39)**
+
+
+
+That is internally created. And has there been an exchange between the two agencies...
+
+**(01:50:49)**
+
+
+
+about the training that your staff are receiving, given that Health and Hospitals has a private external vendor and the Department of Health and Mental Hygiene has an in-house created training? So we are...
+
+**(01:51:07)**
+
+
+
+happy to partner. We have participated in the past with trainings. We like to offer a variety of training, so we would keep the variety available to all staff. We are happy to partner. Got it. Okay, so good. But currently it is not as if you have exchanged the materials. Is the training for the Department of Health and Mental Hygiene...
+
+**(01:51:36)**
+
+
+
+mandatory? It is being required for clinic staff. We have sessions planned at the end of the summer. And if you are saying that it takes place during the summer months, how frequently are these trainings offered?
+
+**(01:51:53)**
+
+
+
+The next one would be coming up later this summer and all of...
+
+**(01:51:56)**
+
+
+
+our trainings are mandatory for staff on an annual basis. So we do keep track of those individuals, especially as new individuals come on. How do we necessarily accommodate those trainings?
+
+**(01:52:08)**
+
+
+
+Okay, so just to be clear, the Department of Health and Mental Hygiene does require its staff to receive this disability-related training. Correct.
+
+**(01:52:19)**
+
+
+
+Clinical staff. Clinical staff. Okay.
+
+**(01:52:21)**
+
+
+
+So then, and you said that it is happening throughout the year. Correct. And would I be able to attend one of these trainings?
+
+**(01:52:39)**
+
+
+
+Trainings?
+
+**(01:52:40)**
+
+
+
+Sure, I actually facilitate the...
+
+**(01:52:42)**
+
+
+
+training, so I am happy to have you join one of them.
+
+**(01:52:43)**
+
+
+
+Perfect. Thank you. And then I would also love to attend a Health and Hospitals training.
+
+**(01:52:50)**
+
+
+
+Absolutely.
+
+**(01:52:53)**
+
+
+
+We will extend the invitation. Thank you. Okay, so...
+
+**(01:53:00)**
+
+
+
+Could you just speak a little bit more about why the training is being provided at that location?
+
+**(01:53:20)**
+
+
+
+Is the training rotating to different sites? Yes, we are currently working our way through all of our facilities. Our last training was in Queens at one of the hospitals and now we will be at...
+
+**(01:53:32)**
+
+
+
+The goal is to go through all of our different Health and Hospitals facilities. Right now we are doing them upon request, so when an individual facility offers their site up, then we will go over to that site. That particular training — the low-vision experience — is in person, so it requires us to have ample space to train because we do set it up as a clinical environment while going on.
+
+**(01:53:57)**
+
+
+
+It is just a program. Understood. And I would like to receive just the numbers on how many individuals are participating in this training at the upcoming Jacobi training.
+
+**(01:54:14)**
+
+
+
+We do not have that as of yet. Registration is still ongoing. We can provide that.
+
+**(01:54:18)**
+
+
+
+What has already taken place over the last
+
+**(01:54:21)**
+
+
+
+six months. Over the assessed six months we have had the Let's Talk Disability, which is the awareness program that is a virtual instructional program and so that is held on an ongoing basis. And then we have the low vision program, which takes place at every different facility and our doctors are participating in this. What is the breakdown of
+
+**(01:54:44)**
+
+
+
+who... I just do not have the exact numbers in front of me, but we have all disciplines participating.
+
+**(01:54:49)**
+
+
+
+All disciplines. Okay, and again it is not mandatory. Correct. Got it. Earlier in the hearing, Joaquin, you mentioned that weight scales are not in your facilities.
+
+**(01:55:34)**
+
+
+
+Correct. And so I am curious about that because emergency contraception and birth control, which you do provide, can very much be impacted by
+
+**(01:55:49)**
+
+
+
+weight. Yeah. So we do assess by... so we do have two options based on that self-report. The clinician would make that medical indication on which option.
+
+**(01:56:02)**
+
+
+
+So self-reported. Correct. And why does the agency think that that is okay? I think it is something that we are assessing, so we can definitely circle back. Got it. Because I mean, that seems... I mean, of course we want to trust patients, but it also seems sort of counterintuitive and I would like to better understand why the agency does not see having accessible weight scales as a need.
+
+**(01:56:46)**
+
+
+
+I have a couple of questions from CM Sanchez that I would like to read out. For the Corona sexual health clinic, could you elaborate on the renovations that have been completed and specifically the accessibility features?
+
+**(01:57:06)**
+
+
+
+Sure. So the exterior and interior lobbies were renovated to enhance accessibility. The location's ramp and main lobby are also compliant. I am sorry, I
+
+**(01:57:17)**
+
+
+
+missed the first part. Oh, no problem. So the exterior and interior lobbies were renovated to enhance accessibility.
+
+**(01:57:26)**
+
+
+
+Got it. And so is there any other work remaining on accessibility for that particular location? Not at this time, I do not believe.
+
+**(01:57:37)**
+
+
+
+Okay. And also these questions are from the committee. For accessible weight scales, and this is at NYC Health and Hospitals, what is the process for ensuring that those with disabilities who may not be able to use standard weight scales are weighed accurately? We offer a variety of scales that would be able to most likely accommodate most disabilities, although I am not at this point willing to say all, but we would offer a variety of
+
+**(01:58:22)**
+
+
+
+scales. Okay. I would love to come check out the weight scales and want a better, more accurate response on which disability communities are covered in
+
+**(01:58:47)**
+
+
+
+the current equipment.
+
+**(01:58:55)**
+
+
+
+And then for CM Sanchez, Council Member passed Int 0435-2024, now Local Law 84 of 2024, to expand same-day rapid testing for chlamydia, gonorrhea and syphilis across New York City, especially for communities that continue to experience deep inequities in rates of infection and face disproportionate barriers to sexual health care, including Black and Latino New Yorkers, LGBT+ New Yorkers, immigrants, low-income New Yorkers, young people and people with disabilities. The law requires three sites to be operational by February 15, 2026 and a fourth by February 15, 2027. Were three additional rapid testing sites operational by the February 15 deadline? That is the Health Department. So we currently do have Chelsea and Fort Greene operational. Myrtle Avenue is to open later this week. It did require some construction retrofitting to support that, and we already have plans for a Corona rapid testing site in 2027.
+
+**(02:00:15)**
+
+
+
+Got it. Okay, so then by the 2027 deadline you will have four sites. That is correct.
+
+**(02:00:20)**
+
+
+
+And then which community
+
+**(02:00:23)**
+
+
+
+based organizations did the Department of Health contract with for the required outreach campaign, and how were those partners selected to ensure outreach reaches the communities most impacted? So currently we are contracted with Mujeres Latinas out in Queens to focus on a lot of the work within that space, and that was done through a bid.
+
+**(02:00:55)**
+
+
+
+So just that
+
+**(02:00:56)**
+
+
+
+one. That is the current one that we currently have.
+
+**(02:00:58)**
+
+
+
+Got it. And are they doing citywide outreach specifically, or is it geographically confined?
+
+**(02:01:07)**
+
+
+
+Specifically Queens, but we also work with other partners. That is not the only partner, but that partner we fund to do a lot of the work, and it was really focusing at that time, you know, three years ago when we launched, on Latino communities to really engage those individuals within that community about our services because they were the greatest at risk that we were seeing in that neighborhood.
+
+**(02:01:36)**
+
+
+
+Have your agencies audited reproductive health encounters for the bias that exists that disproportionately assumes people with disabilities are not sexually active? Can you repeat that? Sure.
+
+**(02:01:57)**
+
+
+
+I wanted to better understand if patients with disabilities are receiving any counter information about their access to contraceptive counseling and screening at the same rate that patients without disabilities are
+
+**(02:02:22)**
+
+
+
+receiving. Yeah, for our sexual health clinics we have screeners upfront to really assess what their needs are when they are coming in, regardless of their ability, and then we would accommodate accordingly for the services they are seeking. Got it. And
+
+**(02:02:40)**
+
+
+
+for sterilization, are you able to share data with us on how many patients have been sterilized over the last year? Is that data that you all are tracking? We can
+
+**(02:03:02)**
+
+
+
+get that data because all of our care sites are family planning sites and so we submit that data on an annual basis. Okay, yeah.
+
+**(02:03:13)**
+
+
+
+And so off the top of your head you would not know the specific sterilization data.
+
+**(02:03:17)**
+
+
+
+No, but I will say in general with long-acting reversible contraception, having been introduced probably now a decade ago and big pushes from DOHMH as well as ACOG and other entities into the reproductive care world, sterilization numbers have probably come down a little bit because you do have access to this long-acting reversible contraception.
+
+**(02:03:47)**
+
+
+
+Well, really love long-acting contraception. I will say.
+
+**(02:04:02)**
+
+
+
+Earlier in the hearing, Doctor, a colleague asked about the five languages. You had only shared four. It was Mandarin, Spanish, Bangla and French. What is the fifth language?
+
+**(02:04:18)**
+
+
+
+Oh, there was a change. So one of them was bumped off and I cannot recall the fifth one just to be accurate, so I can get back to you. That would be great. Our digital top five, the last one changed and
+
+**(02:04:29)**
+
+
+
+then for these materials, how... do you know if
+
+**(02:04:40)**
+
+
+
+the translation or the interpretation is through community feedback or if the interpreter is a medical interpreter? Could you share a little bit more about the language access? Absolutely.
+
+**(02:04:55)**
+
+
+
+So we have 24-hour, seven-day services for interpreter access. We contract that with Propio. We offer three modalities: we have video remote interpretation, in-person live interpretation, and we also have telephone. In addition to that we offer bilingual skills classes. So for interpreter skills training, that is for staff who speak a second language where we then assess them in terms of their competency in that language and then we train them to be able to provide qualified interpretation. I do not have that number but I can get back to you.
+
+**(02:05:41)**
+
+
+
+And how frequently are staff getting trained?
+
+**(02:05:44)**
+
+
+
+We offer the training every year.
+
+**(02:05:48)**
+
+
+
+Every year. Okay, so like once annually. Yes. And what does the training include and what are the responsibilities for that staff member? Because I am assuming that that staff member has a full portfolio already. Correct. And then they are providing their language access expertise as well.
+
+**(02:06:07)**
+
+
+
+Give me one second. So one of the things that we find, and we actually promote the program as part of their onboarding, so when they come to the system orientation we let them know that this program is available to them. When staff speak a second language we find that they are very proud to help other individuals, so at that moment in time immediately we start receiving requests for individuals to participate in the training. In addition to that, once they complete the training they are able to then volunteer their time if they wish to do so as a supplement to our interpreter skills that we have. So we have our vendor partners, we also have internal individuals that would be trained, and then I will pass it over to get back to work on that.
+
+**(02:06:49)**
+
+
+
+Thanks, I appreciate that. I am just going to say that I think the majority of translation is done through the vendor partners, probably out of necessity, but the video access is actually really amazing. It is like the patient can see the person doing the interpretation and the translation, and so can the provider, and it is actually a very well-working modality. I think that is really wonderful.
+
+Eighteen years ago when I was diagnosed with lupus, I really struggled to explain to my parents, who are limited English proficient, exactly what was going on. The hospital, which I will not name right now, had limited resources when it came to being able to talk to family members about degenerative autoimmune conditions like lupus. So knowing that we have this modernized tool and access for those who require interpretation services, so that the medical language is understood by the family, is just so so important and I am really grateful to know that that exists. Do you know how often or how many times the service is getting used?
+
+**(02:08:33)**
+
+
+
+So we provide over 353 languages, 24 hours, seven days a week, and I can tell you that every month I monitor the data it is in the millions of minutes provided. Oh, wow. Yes.
+
+**(02:08:45)**
+
+
+
+Yeah, well we are grateful for that. And that is only interpretation. Translation too. Got it. And then for the translated materials, are the staff who were trained who speak a second language providing feedback on those materials? We use a vendor for translation materials. Got it.
+
+**(02:09:08)**
+
+
+
+So the vendor creates the materials. Is there no sort of advisory committee that reviews for jargon? We create the materials, but sometimes even material created in house is then sent to our vendor. The vendor then sends it back, at which point we also do a final review before actually putting it out.
+
+**(02:09:28)**
+
+
+
+Understood. Wait, I am sorry, it is not just for language. It is also for grade level reading ability. Yes, excellent. And then
+
+**(02:09:34)**
+
+
+
+what about for your agency? We do all of our translation in house through the Office of External Affairs and we work with partners as regards to language access. We have Language Line, we also have interpreters and video as well. For our staff we do have competency tests. In order for them to be able to translate they do need to pass that test before they are allowed to translate. And how frequently is that being offered? We are continuously assessing because we are continuously getting new staff coming into the clinic space, identifying if that is something of their interest, if they have that as a second language, and then we work with our internal folks on getting them scheduled for that test.
+
+**(02:10:20)**
+
+
+
+And do you know how many staff members have taken this competency test? I can get back to you on that number. It does range throughout clinicians, nurses and registrars. I think that is great.
+
+**(02:10:35)**
+
+
+
+I think it is transformative that we have made such progress in the language access field. And our staff members who have this expertise and are now also providing this extra service at times, are they getting paid more than someone who is of their same title but is not an interpreter? I cannot really speak on the pay. I do not believe so, but that is something that we can assess and get back to you.
+
+**(02:11:16)**
+
+
+
+What about for your agency? Our contracts are collectively bargained, so they are currently paid the same amount. Got it.
+
+**(02:11:34)**
+
+
+
+I would like to know from each agency what your understanding of disability justice is. So I can speak for the Health Department. Disability justice is an intersectional framework that recognizes that people with disabilities do not experience that identity in isolation, and so we are working to really embed disability justice principles into our daily operations. Thank you.
+
+**(02:12:10)**
+
+
+
+And how would you rate the City in being one that is disability just? New York City is definitely a leader. I can speak more closely to what the Department is doing. We have been recognized as a leader in this space and we continue to embed disability justice into our work and transform our workplace.
+
+**(02:12:44)**
+
+
+
+And then when it comes to other pieces related to access to health care, like transportation, or when a patient is discharged and their home is not accessible, how is that interaction taking place? So when an individual is discharged... yeah, I am trying to understand. I think both agencies have disability trainings and are equipped, it seems, for the most part to be able to provide any patient with inclusive service. However, there are other barriers that make our City inaccessible. How is that conversation happening with patients? And I would also love to hear from your agency on the
+
+**(02:13:44)**
+
+
+
+disability justice piece. On whether that conversation is being had, on the social work level, really assessing those needs, and if there are needs, any support... our social workers are equipped on working with various partners to address some of those needs. So I will start off with
+
+**(02:14:11)**
+
+
+
+the disability justice piece. Our view of it is that all individuals that have a visible or invisible disability are treated with equity, with respect, and treated in an environment where they feel included. In terms of the latter, that is part of the patient's care plan, so it is usually addressed by the social work team. Got
+
+**(02:14:29)**
+
+
+
+it. And then do our services allow for materials or equipment to be sent home with patients? Or is that coming from the health insurance? Like let us say a walker, crutches,
+
+**(02:14:48)**
+
+
+
+a wheelchair. Those are durable medical equipment and would need to be prescribed.
+
+**(02:15:02)**
+
+
+
+Got it. And so that is approved by the health
+
+**(02:15:06)**
+
+
+
+insurance. And if a patient does request any medical equipment, how do you all go about that? We would write a
+
+**(02:15:19)**
+
+
+
+prescription. Okay.
+
+**(02:15:20)**
+
+
+
+Got it. So essentially what I am trying to get at is, like, if somebody needs a cane,
+
+**(02:15:29)**
+
+
+
+they... yeah. I mean, I think that is also the difference between inpatient and outpatient, right? If it is someone who is inpatient, generally before their discharge you order a consult, a physical therapy consult. They come, they assess, they would give the patient what they need and they would work with the patient to use it prior to discharge. I mean, that is usually how that works.
+
+**(02:15:55)**
+
+
+
+Okay.
+
+**(02:15:55)**
+
+
+
+I want to come to some of the legislation. Deputy Speaker Williams has a Bill on access to medication abortion. Could you share with the agencies what the plans are for expanding to more clinics, and are you able to provide specifics on which clinics and when they will begin offering the
+
+**(02:16:25)**
+
+
+
+service? Yeah, so I can start off by saying that we are extremely proud of the success of our medication abortion program at the New York City sexual health clinics. We are providing high quality, highly accessible care to equity priority groups. We do have walk-ins available and we do have our telehealth pathway where patients can be pre-screened for clinical eligibility. As for expansion, we heavily rely on our abortion access hub, which really helps assess the individual's needs, which location is convenient for them, and really works with our partners on linking them to those clinics if our existing clinics are not accessible.
+
+We currently do not have any plans to expand medication abortion services. We are currently focusing on expanding and enhancing other clinical services, including gender-affirming hormone therapy, a pilot that we are going to be conducting at the Corona clinic, and we are planning on the expansion of the rapid testing sites as well. As has been discussed today, we will continue the important work to make sure all the sexual health clinics are accessible to people with disabilities. Just to add to that, there are current barriers that are preventing us from expanding. So while we support expanding medication abortion, we do have some concerns regarding cost, capacity and clinic space.
+
+**(02:18:01)**
+
+
+
+Got it. Okay. And does NYC Health and Hospitals have sufficient medication supply if you were to expand to all clinics? We currently do not, so we would have to reassess that as well. And you said cost, capacity and clinic space. Okay.
+
+**(02:18:27)**
+
+
+
+It is critical. Are your agencies tracking disparities in health outcomes for people with disabilities? We do not currently track disabilities. The same for the Health
+
+**(02:18:54)**
+
+
+
+Department. We do not currently track that. Would you consider doing so?
+
+**(02:19:17)**
+
+
+
+Sorry, just give me one second. I mean, I would take it back to my site and it would have to be
+
+**(02:19:20)**
+
+
+
+a group effort. Got it. So right now we do not have a way to classify individuals as having a disability, so we do not track that information for people who are coming to our clinics.
+
+**(02:19:35)**
+
+
+
+And could you elaborate on what disability means
+
+**(02:19:56)**
+
+
+
+from your standpoint? There are so many different types of disabilities and it would really encompass a wide array of things, including vision, hearing, mobility and intellectual. I mean, it could be... it is a very wide open arena.
+
+**(02:20:22)**
+
+
+
+Similarly, since disability can be an important factor in understanding a person's health needs, it encompasses a wide range of conditions which may not be visible or disclosed by individuals. Given the complexity of defining and consistently capturing disability status across programs, the Health Department does not routinely collect comprehensive disability data for all services.
+
+**(02:20:45)**
+
+
+
+Got it. Coming back to the fact that one in six New Yorkers live with a disability, I think it is tremendously important that we figure this out. I do not want to keep you longer. I will ask my final questions. For CM Gutiérrez, on the doula Bill of Rights...
+
+**(02:21:19)**
+
+
+
+Is there currently an advisory body or other advisory component of the citywide initiative or newborn home visiting program, and how does it function? For the Health Department: there are no advisory bodies. However, staff work closely with communities to understand the needs of the community and challenges to expanding access. Insights received as part of our community engagement informed recommendations listed in our annual doula report, and we will be happy to discuss the latest recommendations the Council wants. The annual doula report will be released at the end of the month.
+
+**(02:22:10)**
+
+
+
+Excellent. I know I asked about fertility treatment education. Does H+H provide any materials on fertility care or have anything available?
+
+**(02:22:35)**
+
+
+
+When patients come in with certain health conditions and discuss it with their clinician, they do receive a discharge summary that goes along with what was discussed. Got it.
+
+**(02:22:51)**
+
+
+
+And so does that mean that if I am having a conversation about treatment with my doctor, that H+H has not produced... we do not have pre-produced information on that. Okay.
+
+**(02:23:14)**
+
+
+
+And then what about just generally, how is H+H providing information about fertility treatment and options?
+
+**(02:23:31)**
+
+
+
+If someone came in and had a hormonal or other medical condition that needed to be treated, we would certainly be able to draw the appropriate labs and be able to address certain parts of infertility. But again, we do not provide any of the like in vitro fertilization or any of the procedural things. Those are not provided. Certainly a clinician can go over what those procedures are about, and our electronic medical record has the ability to go in from the provider view, cover different topics and then print them out for the patient and give it to them.
+
+**(02:24:29)**
+
+
+
+Does H+H have plans to offer fertility treatment? H+H does not have plans to offer fertility treatment.
+
+**(02:24:44)**
+
+
+
+And then, just from both of you as doctors, what are you seeing as the largest barriers to accessing fertility treatment? One word: cost. And so currently there is no formalized guidance on navigating insurance coverage for reproductive health care or fertility care that each of the agencies have, like a pamphlet. That is correct. Okay. No. Understood.
+
+**(02:25:41)**
+
+
+
+Okay, I am going to do one final review and if you will just bear with me for a minute. Okay. How does H+H ensure real time communication accommodations, such as CART services, are available for reproductive health encounters, including prenatal visits, labor and delivery and postpartum care?
+
+**(02:26:53)**
+
+
+
+We have CART services available. We also have American Sign Language interpreters available, and they are available 24 hours, seven days a week.
+
+**(02:27:03)**
+
+
+
+We have language access coordinators at each site that are responsible for being the liaison between the patients, the interpreters and any departments that may be requesting the services of the interpreter. Excellent.
+
+**(02:27:18)**
+
+
+
+And is that through video or
+
+**(02:27:20)**
+
+
+
+in person? We offer both.
+
+**(02:27:28)**
+
+
+
+And for the question around young people with disabilities: they are more likely to have a parent or caregiver present throughout their visits, which suppresses private, patient-centered conversations about sexual health. Do the sexual health clinics have an explicit protocol for offering all patients 12 and older confidential one-on-one time with the provider, consistent with the clinics' stated policy of serving anyone 12 and over?
+
+**(02:28:03)**
+
+
+
+Yes. We would assess that at the beginning with the greeter and also during triage, and inform the parent that they would be waiting in the waiting area for confidential services for that individual within that clinical space.
+
+**(02:28:25)**
+
+
+
+Excellent. Well, thank you, Doctors Mendez, Wilcox and... I heard Mandy? Yes. Really, really grateful again for your service and for the depth of knowledge shared today. I look forward to continuing our partnership. Thank you so much. Thank you. Take care.
