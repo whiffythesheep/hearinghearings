@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Parks and Recreation"
 committee_slug: committee-on-parks-and-recreation
-title: "Local Law to Require the Department of Parks and Recreation to Publish Tree Maintenance Prioritization Ratings"
+title: "Legislation on Tree Maintenance, Dog Waste and Park Naming"
 date: 2026-06-16
 slug: committee-on-parks-and-recreation-local-law-to-require-the-department-of-parks-and-recreation-to-2026-06-16
 duration: "1hr 10m"
