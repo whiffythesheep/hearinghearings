@@ -103,6 +103,31 @@ def check_preconditions(dry_run: bool) -> None:
         )
 
 
+def sync_master() -> None:
+    """Fast-forward local master to ``origin/master`` before scanning.
+
+    PRs are merged remotely on GitHub, which never touches this local
+    repo. The idempotency sets (``published_event_ids``,
+    ``published_signatures``) glob the local ``content/`` directory, so a
+    stale master makes every hearing merged via GitHub since the last
+    local pull invisible to dedup — it gets re-queued as a duplicate. It
+    also leaves pending branches cut from a stale base, which then
+    conflict on merge. The working tree is already verified clean by
+    ``check_preconditions``, so a hard reset to ``origin/master`` is safe.
+    """
+    fetch = git("fetch", "origin", "master", check=False)
+    if fetch.returncode != 0:
+        logger.warning("git fetch failed, scanning local master as-is: %s",
+                       fetch.stderr.strip())
+        return
+    before = git("rev-parse", "HEAD").stdout.strip()
+    git("reset", "--hard", "origin/master")
+    after = git("rev-parse", "HEAD").stdout.strip()
+    if before != after:
+        logger.info("Synced master to origin: %s -> %s",
+                    before[:9], after[:9])
+
+
 # --- idempotency sources ------------------------------------------------
 
 
@@ -469,6 +494,8 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     check_preconditions(args.dry_run)
+    if not args.dry_run:
+        sync_master()
 
     events = list_calendar_events()
     skiplisted = skiplisted_event_ids()
