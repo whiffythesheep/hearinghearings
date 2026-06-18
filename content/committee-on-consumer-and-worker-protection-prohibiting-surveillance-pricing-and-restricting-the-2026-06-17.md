@@ -1,0 +1,1104 @@
+---
+committee: "Committee on Consumer and Worker Protection"
+committee_slug: committee-on-consumer-and-worker-protection
+title: "Prohibiting Surveillance Pricing and Restricting the Frequency of Price Increases in Grocery Stores"
+date: 2026-06-17
+slug: committee-on-consumer-and-worker-protection-prohibiting-surveillance-pricing-and-restricting-the-2026-06-17
+duration: "1hr 57m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260617-100106.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417024&GUID=7749C1B4-9E50-4140-BFBD-3CB7F8073D4C&Search="
+chairs: "Harvey D. Epstein"
+members: "Shirley Aldebol, Joann Ariola, Chris Banks, Gale A. Brewer, Carmen N. De La Rosa, Kamillah Hanks, Shekar Krishnan, Chi A. Ossé, Lynn C. Schulman, Carl Wilson"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Consumer and Worker Protection held a legislative hearing on two bills: Int 0891-2026, which would prohibit surveillance pricing (setting prices based on consumers' personal data), and Int 0892-2026, which would restrict grocery stores from increasing the price of any item more than once in a 24-hour period. Speaker Julie Menin, who sponsors Int 0891-2026, opened with a detailed account of how surveillance and dynamic pricing already operate in New York City, citing the Council's own investigation using ten accounts across approximately 370 pricing checks on rideshare platforms, as well as grocery delivery platforms, airlines and retailers. Public Advocate Jumaane Williams testified in support of both bills, emphasising the discriminatory dimension of surveillance pricing, noting documented cases where pricing systems produced outcomes that disadvantaged lower-income and majority-minority communities in a manner analogous to redlining. The Department of Consumer and Worker Protection, represented by Commissioner Sam Levine, supported both bills and pledged to work with the Council on strengthening them, including adding a private right of action and stronger record-keeping requirements. The New York State Attorney General's office also testified in support, noting the recent passage of the state-level One Fair Price Act and committing to coordinated enforcement with DCWP if both the city and state laws are enacted.
+
+Industry witnesses, including representatives from the Retail Council of New York State, Chamber of Progress, TechNet and the Hotel Association of New York City, broadly supported banning surveillance pricing where it results in higher prices but raised concerns that the current bill's language is broad enough to inadvertently prohibit legitimate loyalty programs, tiered rewards programs, registry completion discounts, cart abandonment discounts and other personalised promotions. They urged the Council to align the city bill with the state law, particularly around the concept of a "reference price" as a baseline against which discounts are measured, and to avoid creating a patchwork of conflicting municipal and state requirements. The Retail Council and TechNet also pointed to Colorado's governor recently vetoing a similar bill on the grounds it would harm consumers by eliminating beneficial discounts.
+
+Labour unions representing retail and grocery workers, including Local 338 RWDSU, UFCW and the NYC Central Labor Council, supported the bills but argued they do not go far enough. Their top priority was an outright ban on electronic shelf labels, which they argued are the enabling infrastructure for both surveillance and dynamic pricing, allow prices to be changed up to 2,000 times per day, and will allow large chains to circumvent whatever pricing restrictions are enacted. They also raised worker protection concerns, noting that frontline workers bear the brunt of consumer frustration when prices change rapidly and should be protected from retaliation if they report violations. Privacy advocates from EPIC and the American Economic Liberties Project testified in support of the bills, with the latter warning that exempting "personalized discounts" from surveillance pricing bans is a Trojan horse that renders the prohibition meaningless, since any price in a market of differentiated pricing can be framed as a discount relative to some other price.
+
+The hearing surfaced broad consensus that using personal data to raise prices is wrong and should be prohibited, but left significant unresolved questions about how to define and protect legitimate discounts, whether to ban electronic shelf labels outright, how to define a "reference price," whether to add a private right of action, and how to align the city bill with the state law now awaiting the Governor's signature. Commissioner Levine confirmed that DCWP has received no consumer complaints about surveillance pricing to date, which he attributed to the inherent invisibility of the practice, and noted that the agency would need eight additional staff lines, four per bill, not currently budgeted, to enforce the legislation.
+
+Numbers
+
+- Council investigators used 10 different rideshare accounts to conduct approximately 370 pricing checks across three standard routes, finding consistent variation in discounts between accounts.
+- A grocery delivery platform investigation published in December 2025 found price differences of up to 23% for the same products from the same store at the same time across different accounts.
+- Grocery stores with electronic shelf labels report the ability to change the price of items up to 2,000 times per day.
+- The price of a television at a major chain retailer increased from $499.99 to $599.99 when a consumer entered the store's parking lot, based on proximity to a competitor.
+- An airline ticket price increased by $230 within one day, with the airline's own accountant indicating personal browsing data was being used to set flight prices.
+- DCWP has received zero consumer complaints about surveillance or dynamic pricing to date.
+- DCWP would require four additional staff lines to enforce Int 0891-2026 and four additional staff lines to enforce Int 0892-2026, totalling eight lines not currently in the agency's budget.
+- DCWP licenses more than 45,000 businesses across more than 45 industries.
+- DCWP's community outreach team has conducted approximately 600 outreach events with New Yorkers in the current year.
+- DCWP staff speak over 40 languages, with close to half the agency speaking a language other than English.
+- A Federal Trade Commission study on surveillance pricing found eight pricing consultancies offering surveillance pricing services to more than 250 companies across a wide range of industries.
+- More than 20 US states now have comprehensive consumer privacy laws; New York State does not.
+- Over the past 10 years, the number of older adults in New York City living at or below the poverty line has increased by 50%.
+- Local 338 RWDSU represents more than 13,000 workers across New York State in food retail and related industries.
+- UFCW represents 45,000 members across the five boroughs of New York City.
+- RWDSU nationally represents over 40,000 workers in New York State.
+- Maryland recently enacted a Protection from Predatory Pricing Act banning personalised price increases based on consumer data; Colorado's governor recently vetoed a similar surveillance pricing ban.
+- A 2022 investigation found internet providers using surveillance pricing charged higher prices to customers in areas that were less white and lower income.
+
+Action Points
+
+- DCWP to work with the Council on adding a private right of action to Int 0891-2026.
+- DCWP to work with the Council on ensuring that personal data collected for discount programmes under Int 0891-2026 cannot be used to increase prices, sold to third-party data brokers, or used to facilitate fake or fictitious discounts.
+- DCWP to share additional record-keeping requirement recommendations with the Council to strengthen Int 0892-2026.
+- DCWP to coordinate with the New York State Attorney General's office on enforcement of both the city bills and the state One Fair Price Act once signed by the Governor.
+- DCWP to explore adding whistleblower protections or complaint facilitation mechanisms for workers who observe surveillance or dynamic pricing violations at their place of employment.
+- DCWP to explore requiring stores to post information about pricing rights and how to file complaints, as suggested by CM Brewer.
+- DCWP Commissioner to follow up with CM De La Rosa and the tech committee on the regulatory and jurisdictional questions raised by electronic shelf label companies operating in the city.
+- Council sponsors to review the bill's definition of "reference price" in light of testimony from industry witnesses and the Attorney General's office about its importance in distinguishing real from fictitious discounts.
+- Council sponsors to review the alignment of Int 0891-2026 with the state One Fair Price Act, particularly regarding which discounts are exempted, to avoid creating conflicting obligations.
+- Council sponsors to consider whether to add an outright ban on electronic shelf labels to Int 0892-2026, identified by union witnesses as their top priority.
+- Council sponsors to tighten definitions around personal data, discount programmes and loyalty programmes in Int 0891-2026 in light of concerns raised by EPIC, the American Economic Liberties Project and labour union witnesses.
+- DCWP to develop a public education and outreach campaign on consumer rights under the new bills, in partnership with community-based organisations and using the agency's multilingual capacity.
+- DCWP to request additional budget allocation for eight new staff lines (four per bill) in the next fiscal year to support enforcement of the legislation if enacted.
+- Attorney General's office to coordinate with DCWP on enforcement strategy and to explore creative, non-complaint-driven investigative approaches given the difficulty consumers face in detecting surveillance pricing.
+- Council to consider whether Int 0892-2026 should include exceptions for legitimate cost changes driven by supply chain disruptions, weather events or other external factors, as raised by TechNet and consistent with existing New York State price gouging regulations.
+
+## Full Transcript
+
+**(00:00:31)**
+
+
+
+Good morning. Welcome to the New York City Council hearing on the Committee on Consumer and Worker Protection. Please silence all electronics and do not approach the dais. If you are testifying or have any other questions or concerns, please contact a sergeant at arms. Thank you for your cooperation.
+
+**(00:05:33)**
+
+
+
+Thank you. Good morning, everyone. My name is Dahlia. Thank you for joining the legislative hearing today of the Council's Committee on Consumer and Worker Protection on Int 0891-2026 and Int 0892-2026. I want to thank the Majority Leader and the Speaker for advancing this legislation. I will recognize my colleagues who are here: CM Ariola and CM Hanks, who was here but I think she is going to be coming back. I would like to turn it over to the Speaker for her opening statement.
+
+**(00:06:15)**
+
+
+
+Great, thank you so much. First of all, I want to thank Chair Epstein for holding today's hearing. I am Julie Menin, Speaker of the New York City Council. I want to thank the administration for testifying today. I am here today to discuss a Bill in relation to prohibiting surveillance pricing, and it is also one that I am proud to sponsor. That is Int 0891-2026. I am also proud to support Int 0892-2026 by Majority Leader Shaun Abreu, in relation to restricting the frequency of price increases in grocery stores.
+
+So first of all, I want to start by defining some of these terms because I think this will be useful. Surveillance pricing is a practice of setting a price that utilizes a consumer's personal data collected through surveillance technology, where the price, fee or discount that is set for one consumer or group of consumers differs from the price, fee or discount that is set for another consumer or group of consumers based on that use of personal data. This personal data can be gathered, purchased or acquired from a third party. Dynamic pricing is the practice of changing the price for a consumer good or service literally in real time, sometimes instantaneously, sometimes multiple times a day. Dynamic pricing utilizes data that analyzes minute-to-minute market forces to optimize revenue.
+
+As a former small business owner and former Commissioner of the Department of Consumer Affairs, I have really seen this issue from all perspectives. New York City consumers deserve price transparency and price predictability, and they need to be able to understand the prices of their goods in order to make informed, reasonable purchase decisions. However, that is not the experience that consumers are having, or are about to have, in light of advancements in technology, which should be utilized to benefit consumers. Many shoppers are noticing a troubling trend. For example, perhaps someone searches online for the perfect Knicks jersey to wear to the parade tomorrow. They find the ideal one and it is priced at $50. When they show their friend their purchase, they discover that their friend bought literally the exact same jersey from the exact same retailer at the exact same time but paid only $30.
+
+Or another example: many New Yorkers have had the experience where they are leaving a bar after a night out and a group of roommates all order a for-hire vehicle at the exact same time, only to discover that each one of them is quoted a different price to be taken on the exact same route. Or perhaps most troubling of all, there is technology that supermarkets could potentially utilize where if you place a bunch of bananas listed at $3 into your cart, after you get to the checkout counter that price is now scanning at $7 for those bananas. New Yorkers should be protected from this type of price inconsistency and unpredictability, and more importantly, they deserve to understand how and why it is happening.
+
+In our research — and I want to be clear, we sent investigators out to look at this issue — the Council has discovered the following examples of surveillance and dynamic pricing. This is, by the way, not an exhaustive list. I am just going to highlight some of the examples we found. Major grocery chains are beginning to roll out digital shelf labels that enable stores to easily update prices. Grocery stores that have implemented them report that they can change the price of items up to 2,000 times per day. Investigations have found that major chain retailers set different prices based on a consumer's proximity to a competitor store, with the price of a television at one store increasing from $499.99 to $599.99 when the consumer pulled into that store's parking lot. A behavioral economist who worked at a rideshare company revealed that the application increases prices when a consumer's phone battery is low, because they might not otherwise be able to get home if they do not accept the high offer. An outside investigation published in December 2025 found that a grocery delivery platform was engaging in algorithmic pricing experiments that resulted in consumers paying different amounts for the same products from the same store at the same time, with differences as high as 23% for certain products.
+
+On April 18th, an airline's accountant suggested a customer try clearing their account and their cookies or booking with an incognito window after the customer complained about a $230 increase in their ticket price within one day, indicating that the company is using personal browsing data to set flight prices.
+
+And finally, from our own investigation, using 10 different rideshare accounts to conduct approximately 370 pricing checks that our investigators did across three standard routes, our investigation found consistent variation in discounts across accounts. Some accounts repeatedly received automatically applied discounts that other accounts viewing the same route at the same moment did not, so that otherwise identical riders were quoted different final prices. At least one account received no discounts at all. It is crucial that government acts now to prevent this predatory behavior from becoming any more common. I just want to say, having practiced consumer protection law for a very long time, the issue with dynamic and surveillance pricing is that it is insidious — the consumer sometimes cannot even detect it. So for example, we know that if you are doing online shopping and you have a cart and you leave that cart open and do not purchase the goods, we know that some companies are mining that personal data and utilizing it to know that you might be willing to pay that price, and then to jack up the price accordingly.
+
+We were thrilled to see that our State colleagues passed the One Fair Price Act, and I am grateful to the Attorney General for her leadership in getting this Bill across the finish line. We are looking forward to the Governor signing the Bill and I am proud to be sponsoring this companion legislation to protect consumers here in New York City. As a former Commissioner of the Department of Consumer Affairs, I know how robust our local protections are for New York City residents, and our efforts to partner with the State will strengthen them. I also look forward to hearing from the Department of Consumer and Worker Protection today to learn about how we can work together to further protect New Yorkers.
+
+The legislation we will discuss today is rooted in a vision of New York that is more affordable for everyone who calls our great City home. It brings transparency and equity to pricing, it gives New Yorkers more predictability and affordability in their purchases, and it empowers them to make more educated consumer decisions. Ultimately, we hope we can play a role in driving down the costs of various types of consumer goods in our City. I look
+
+**(00:13:51)**
+
+
+
+forward to hearing the administration's testimony today. Thank you, Chair.
+
+Thank you, Speaker Menin. I really appreciate your effort and your attention to this really critical issue. When New Yorkers go to the store, we look at a price tag and we expect that to be the price and that is what we expect to pay. That is the history of our lives and our childhood, and it benefits consumers because a consumer can go from one store to another and say, "I can compare prices from this store to the other." That is a system that has been built up in this country and it has been fair. Today we see a very different system arising. As the Speaker mentioned, if you get in a cab, there is a set price. But if two people take an Uber, they are going to have a really wide variety of prices. This technology is changing the system and we can no longer expect that the price of goods will remain the same for two people buying the same items.
+
+The Bills we are hearing today will seek to address these practices that leverage data to change prices in real time. Surveillance pricing and dynamic pricing — as the Speaker said, surveillance pricing uses consumer personal information for individualized pricing, meaning consumers buying the same product at the same time may pay different prices. Dynamic pricing refers to real-time adjustments in prices based on demand or other factors not tied to personal data. The Bills we are hearing today address both issues. I look forward to a robust conversation with the administration and with the people testifying today. I am going to have the
+
+**(00:15:57)**
+
+
+
+Commissioner, I just want to ask who is at the table with you today and who will
+
+**(00:16:04)**
+
+
+
+be testifying? Sure. I am Sam Levine, Commissioner of Consumer and Worker Protection. I am joined by Carlos Ortiz, our Chief of Staff and Deputy Commissioner for External Affairs, and Andy Frank, our Associate General Counsel.
+
+**(00:16:15)**
+
+
+
+Shall I proceed? Please do, Commissioner.
+
+**(00:16:20)**
+
+
+
+Good morning, Madam Speaker, Chair Epstein and members of the Committee on Consumer and Worker Protection. As I mentioned, I am Sam Levine, Commissioner. I am joined by my two colleagues. Thank you for the opportunity to testify before the Committee today on these Bills.
+
+The Department of Consumer and Worker Protection is the nation's leading municipal enforcement agency charged with delivering economic justice. It leverages its authority to bring New Yorkers real economic relief and protect them from predatory, deceptive and unfair practices that violate their rights as consumers and workers. This includes pioneering cutting-edge protections such as the City's Consumer Protection Law, the Fair Workweek Law and delivery worker laws, including the minimum pay raise for delivery workers. By licensing more than 45,000 businesses in over 45 industries, it ensures fair competition and a level playing field for responsible small businesses that are integral to New York City's vibrant communities. It also provides essential services such as free tax preparation and financial counseling to help New Yorkers keep more of what they earn and plan for their futures. The Department is committed to making sure New York City is a fairer, more affordable place to live.
+
+Let me now turn to the subject of today's hearing: dynamic and surveillance pricing. I commend the Speaker and Majority Leader for these bold steps to ensure New York remains a leader when it comes to protecting consumers from emerging pricing abuses. This is an issue I care about deeply. Over the last two years I have launched federal studies, published reports and testified before the United States Senate about the threat these practices pose. As with many issues facing American consumers today, the federal government is asleep at the wheel. That is why these Bills, which would give New Yorkers the strongest safeguards in the United States, are so critical.
+
+The fact is large corporations are getting ever better at ripping us off. If you listen carefully to what executives are telling investors on recent earnings calls, they are often boasting about their ability to jack up prices to the maximum each consumer is willing to pay — what some investors are calling the "holy grail" of pricing. It is wrong. It is deeply unpopular. Thanks to the work of this body, it can soon be illegal in the City of New York.
+
+Let us be clear: surveillance and dynamic pricing practices are not only a threat to affordability. Companies today are collecting vast amounts of data on consumers — not only our purchases, but our internet searches, our location, our ethnicity and even data to infer our intelligence. This data can then be sold to data brokers and placed on the market for anyone to purchase. Last month I was deeply concerned to learn that commercial data was being purchased to track our immigrant neighbors. It is becoming clearer and clearer that reforms are necessary, not only to protect fair pricing but also our privacy and our civil rights.
+
+Finally, these practices also undermine small businesses, many of whom are already struggling. Surveillance and dynamic pricing create a race to the bottom where firms compete over how much data they can collect from consumers in order to maximize their profits. Small businesses, in contrast, cannot collect vast amounts of data or spend millions to implement dynamic and surveillance pricing systems. This pattern threatens to further undermine small businesses already struggling to compete with corporate giants.
+
+For all these reasons, we applaud the Council's leadership in protecting both New York City consumers and small businesses from these unfair and often unconscionable practices. Turning to the specifics of today's legislation: Int 0891-2026 would prohibit any person that sells, leases or rents goods or services, whether online or offline, from engaging in surveillance pricing. We support Int 0891-2026. Surveillance pricing has no place in New York City. Prices should not be differentiated from one person to the next based on personal data like where they live, work or their online history. We thank the Speaker for this historic and much-needed legislation and we look forward to working to strengthen these protections to prevent predatory and exploitative business practices like surveillance pricing. Specifically, we would like to work with the Council on adding a private right of action to the Bill to ensure that consumers have the proper tools to identify and respond to violations. We also think it is important to ensure that any personal data collected to administer discount programs is used only for such discount programs and not for any harmful purpose, such as to increase prices, to be sold to third-party data brokers or to facilitate fake or fictitious discounts.
+
+Turning now to Int 0892-2026: Int 0892-2026 would prohibit grocery stores from increasing the price of any item more than once in a 24-hour period. Pricing predictability is critical for New Yorkers' affordability, and we need to ensure that we are proactively and effectively anticipating changes in the marketplace to ensure consumers are protected. We also have recommendations that we will share to strengthen the provisions of this Bill with additional record-keeping requirements. We look forward to working with the Council on this legislation. Turning now to
+
+**(00:21:45)**
+
+
+
+Int 0818, which would allow the City to refuse to renew, suspend and revoke a tobacco retail dealer license upon a finding that the licensee violated sections of the New York State Cannabis Law. We support the goal of this Bill and look forward to working with the Council through the legislative process. I want to thank the Council, this Committee and the Speaker for the opportunity to testify on today's legislation. We look forward to working with the Council to consistently advance the strongest consumer and worker protections in the United States. I welcome any questions you have for further discussion. Thank you.
+
+**(00:22:23)**
+
+
+
+Thank you, Commissioner. I want to acknowledge that Public Advocate Jumaane Williams has joined us, as has CM Aldebol. I know the Public Advocate had an opening statement, so I could turn it over to the Public Advocate now to give his opening. I assume it is only about the Knicks, right? The Knicks are the only thing that matters. Thank you.
+
+**(00:22:45)**
+
+
+
+You, Chair? Yes, I have to open up with saying the Knicks did it five. That is really, really important. But thank you very much. I am getting my voice back slowly and I wanted to use it for this hearing. As mentioned, my name... I am the Public Advocate of the City of New York. I would like to thank both Speaker Menin and Chair Epstein and the members of the Committee on Consumer and Worker Protection for holding this important hearing.
+
+It has happened to me and it has probably happened to you. You look up the price of a cab, groceries or a train or plane ticket, only to see that price increase after refreshing the page. As surveillance technology has gotten more sophisticated over the last decade, companies increasingly adjust their prices based on our personal data. This practice is well documented in sales of groceries, ride shares, vacuums, airline tickets, internet service and many other goods and services. We can see surveillance pricing in real time when it happens online. But as companies collect data on every aspect of our lives, there is a real risk of this happening when shopping in person too.
+
+Surveillance pricing is wrong for many reasons, but I particularly want to highlight the way it discriminates against people of color, low income people and other groups. For example, a 2022 investigation found that many internet providers using surveillance pricing gave higher prices to customers in areas that were less white and lower income. Companies of all kinds that use this pricing do not need to directly collect data about their customers' race or income to infer it through the vast amounts of other information they collect. Even though overt discrimination is illegal, at least for now, these companies can use their enormous amounts of data to discriminate in effect, even if they can bypass intent by blaming algorithms and proxy data. As with internet service providers, they can also discriminate broadly by charging more for products sold in majority Black and Brown areas, even if not specifically to Black or Brown individuals. Much like redlining of years past, there is not much data available on whether surveillance pricing has been used to discriminate against more groups, as the technology and its uses are still rapidly evolving. From the existing research, it is extremely plausible that corporations are using or could use it to discriminate by gender, sexuality, education level and other characteristics, in addition to race and income.
+
+We cannot allow New Yorkers to be taken advantage of or discriminated against by corporations pursuing profit with no regard for the spirit or letter of decades of anti-discrimination statutes. For that reason, I am proud to support Int 0891-2026 and Int 0892-2026, banning surveillance pricing and multiple price grocery pricing increases in a single day. These important Bills would make New York City safer and more affordable, while complementing the recently passed statewide surveillance ban. I want to thank the Council for the leadership they have shown on this. The City Bills would go even further. They are important first steps in reining in unchecked corporate power and preventing emerging technologies from worsening racial and economic discrimination. I encourage this committee and the City Council to vote in support of this vital legislation, and I thank the Speaker and the Council for their leadership, as well as the Chair. And again, most importantly, the Knicks did it. Thank you.
+
+**(00:25:57)**
+
+
+
+And we all look forward to seeing you proudly there tomorrow. So you bring the Knicks to this building. I do not want to turn over two bills to the Speaker. I...
+
+**(00:26:10)**
+
+
+
+Thank you so much, Commissioner, for your testimony. We appreciate it and we very much appreciate the partnership and are excited to work with you on these two Bills. So a number of different questions. As we know, surveillance pricing is oftentimes invisible to consumers. How do you envision enforcing this legislation?
+
+**(00:26:30)**
+
+
+
+I think it is an excellent question, Madam Speaker. It is a real problem for exactly the reason you said. I think a key partner in enforcement are the groups like Consumer Reports. I think you cited some of their work on Instacart. They released a report this week on Uber and Lyft. The Council's own investigative team, I understand, is doing work as well that is identifying certainly circumstantial evidence that surveillance pricing is underway. That, in turn, could create a predicate for us to investigate further, whether it is through a subpoena or conversations with the company. So I do think this will require an all hands on deck effort, and that is one reason, by the way, we support adding a private right of action to the Bill.
+
+**(00:27:12)**
+
+
+
+Absolutely. Do you feel the agency has the tools and resources required to enforce both the surveillance pricing and dynamic pricing Bills? I believe there would be some additional needs. We have identified about four lines for the surveillance pricing Bill, Int 0891-2026, and four lines for Int 0892-2026. You know, fair pricing is something we have done for a long time, as you well know, but given the complexity of this issue, we do think we would need some additional lines.
+
+**(00:27:41)**
+
+
+
+And as you know, the State Legislature recently passed legislation, which I talked about, prohibiting surveillance pricing, which is currently on the Governor's desk for signature. How do you propose working with the Attorney General's office to coordinate enforcement on that State Bill? I am confident that we would be very much aligned on enforcement of these Bills. The Bills are clearly drafted with knowledge of the other. We have a long history of working closely with the New York Attorney General's office. I have met with the office on this very issue. I think it would be a really good, important partnership for the benefit of the people of New York.
+
+**(00:28:16)**
+
+
+
+Currently, has your agency received any complaints about surveillance or dynamic pricing?
+
+**(00:28:22)**
+
+
+
+I do not believe we have, and I think that is exactly for the reason you said. By almost definition, initially, consumers do not know whether they are being surveillance priced.
+
+**(00:28:29)**
+
+
+
+Exactly. I mean, I do want to state for the record that is my concern. My concern is that this practice is insidious. It is very, very hard to detect, particularly the surveillance pricing. How can a consumer know if their personal data is being mined to charge them a higher price? So that one in particular, and dynamic pricing as well, can be hard to detect.
+
+**(00:28:51)**
+
+
+
+To add to that, if I may, Speaker, I mean, Consumer Reports, and probably this is what your team did too, literally had to sit a bunch of consumers in a room and request an Uber at the same time. Ordinary people are not doing that when they are shopping.
+
+**(00:29:05)**
+
+
+
+Right. In terms of dynamic pricing and the grocery stores, we are very concerned about the high price of groceries. How do you feel the dynamic pricing Bill will affect the price of groceries? Because one of the impetuses for doing both Bills, the surveillance pricing which can for online shopping we can see can have real problems, and the dynamic pricing Bill, we believe both of these Bills can really lower the prices of groceries here in the City. I think that is right, and I think this is all about, especially Int 0892-2026, but both Bills, about preventing, for example, a situation where grocery shops know that people are getting off of work at 6 o'clock and jacking up prices for eggs right when people are getting off of work. I think that is exactly the kind of practice both of these Bills, particularly the dynamic pricing Bill, are intended to prevent, and I do think that would result in lower prices for New Yorkers. Okay, a couple of other questions before I turn it back over to the Chair. In terms of a public education campaign around these practices, how do you think is the best way...
+
+**(00:30:20)**
+
+
+
+I am confident we are going to move these Bills through. So how do you think is the best way to educate consumers on both of these Bills? Candidly, I think it is a challenge for all the reasons you said. Consumers do not always know they are being surveillance priced. But what I would suggest is, if people are seeing, as the Chair referenced, a different price on the label than what they see at checkout, or if they are seeing, as you referenced, prices go up once they have items in their cart, which I have seen, what I would say to New Yorkers is: if you see something, say something. And of course you are not going to be certain what data companies are using, but tell us about it. If we detect a pattern, we will take action.
+
+**(00:31:05)**
+
+
+
+And, Speaker, I would also add to that as well that I think our partnership on this legislation, not only through the legislative process, is important but also at the point of implementation. We can work closely with your offices, using hopefully our new staff dedicated to community affairs, to get out there to the community and talk to folks about these new protections and rights they have as New Yorkers.
+
+**(00:31:25)**
+
+
+
+Yeah, and in closing, I will just say I believe the surveillance pricing and dynamic pricing Bills that we are hearing today are going to be transformative for consumers. Certainly in an affordability crisis, they will be one of the best ways that we can actually bring down prices, whether it is groceries, whether it is airline tickets, whether it is other consumer goods that people are purchasing online, or ride shares, across the board. So we are very excited about these two Bills. Thank you for your testimony.
+
+**(00:31:58)**
+
+
+
+Today, as are we. Thank you, Madam Speaker. And thank you to the Speaker.
+
+**(00:32:04)**
+
+
+
+You mentioned the private right of action. I want to dig in a little. Do you think there is going to be enough in the private legal market to do the investigations? Like, what tools do you think they bring to the table? Why is this important to you?
+
+**(00:32:16)**
+
+
+
+I think this is a legitimate challenge. I have heard this from the private bar. But as an example, Chair, the Washington Post, thanks to, I believe, New York State law, disclosed recently that it was engaged in surveillance pricing of its subscription prices. A class action followed shortly thereafter. I do think the private bar and ordinary consumers will find, for example, maybe through other states' disclosure laws or otherwise, maybe through requesting people's data, which you can do under many state laws, requesting data from retailers, that companies are engaged in this practice. I do think that would allow consumers to protect their own interests through private litigation.
+
+**(00:33:00)**
+
+
+
+So in a sense, you think this will amplify the resources. As you mentioned, like Uber and Lyft, they could do investigations and have ten people in a room to investigate it. Yeah.
+
+**(00:33:18)**
+
+
+
+That is a great way of putting it. These investigations are somewhat resource intensive. I mean, they require you to do some experimentation. I think that is right. We can do it, but I think as a general matter, if you really want to ensure not only that consumers can get redress but that companies take their legal obligations seriously, it is important to buttress administrative enforcement with private enforcement. And overall, you said four lines for surveillance pricing. Yeah. And just to be clear, how many for dynamic pricing, and in total? So eight in total. And is that currently in your budget for the upcoming fiscal year? It is not. So in addition to what you have already been allocated, you would think if this legislation was passed and the Mayor were to sign it in the next fiscal year, you would need these additional resources. That is what I would anticipate, yes. That is helpful.
+
+**(00:34:21)**
+
+
+
+So have you, and do you think there is a reason beyond what you have told the Speaker that you have not heard from consumers? Do you think consumers just assume that this is just the way it is and you just have to pay what you have to pay? I think many consumers have become resigned to a world where I get a different price than Carlos, my chief of staff, because of who we are and when we are purchasing a good or service. Maybe they just think that that is how the modern economy works. But I really believe strongly that the people should decide how the economy works. The people should decide what kind of practices they want to see. Nobody asked for surveillance pricing. Nobody wants this. Nobody is looking for it. There is polling on this. Everyone hates it: Democrats, Republicans, whoever. New York City has an opportunity to say no to it and I think we should.
+
+Let me come and dig into the discount issue. You will probably hear from companies or organizations that represent industry that they use discounts as a tool. Some people might get a discount and other people might not get a discount, and so that might be related to surveillance or dynamic pricing. Because if someone is using Uber all the time, maybe they get a discount for using it versus someone else who never uses it, or the other way around. How do you manage the discount issue in the context of surveillance or dynamic pricing?
+
+**(00:35:45)**
+
+
+
+Certainly. I will start by saying the Speaker's Bill clearly protects discounts. I think very clearly it protects discounts. I think one thing we would want to make sure of is that if companies are using data to set discounts, the data should only be used to set discounts. Research I did last year when I was working with Berkeley found that companies like McDonald's and Macy's were using discount data to make inferences about intelligence or ethnicity and more. I do not think we want a world like that. I do not think we want a world where these companies are selling data, for example, on ethnicity or intelligence to data brokers that are in turn potentially selling that data to others. So I think it is very serious that we protect data while still allowing for discounts. I would also just point out that Consumer Reports did a study this week that found, according to them, that Uber and Lyft were essentially engaging in fake discounting. That you and I would be calling a ride from the same place, same point A to the same point B, and we get the same price. Only I am told I am getting a 40% discount and you are not told that. What does a 40% discount mean if you and I are getting the same price for...
+
+**(00:36:55)**
+
+
+
+...the same ride? So we have to be on guard that we are protecting real discounts and not the kind of fake discounts so many companies are turning to. Okay, I know my colleagues are here, so I will turn it over to CM De La Rosa.
+
+**(00:37:11)**
+
+
+
+Thank you, Chair, and Commissioner and team. Thank you for being here and thank you for bringing up the important conversations around data brokers. It is an important issue for our communities. I am the tech chair here in the Council and so all things data are an important conversation for us to have in this moment. I wanted to specifically ask you about electronic shelf labels in relation to surveillance pricing and the impact, if any, you all have seen on consumers.
+
+**(00:37:40)**
+
+
+
+Yes. When I started this job six months ago, I asked that our inspectors add to their checklist whether grocery stores are using electronic shelf labels. In fact, we have found that a number of chains, let me just pull this out in case it is of interest, including Key Food, ShopRite and Food Bazaar, not at all their locations, but we are seeing the use of electronic shelf displays at these establishments in the City. We do have significant concerns around this. We have significant concerns around the ability to change prices rapidly. We have significant concerns, and I know this is a big issue on your committee, about the ability for companies to combine electronic shelf labels with biometric surveillance to set individualized prices. We have concerns about what this will mean for our grocery workers. So we are seeing this practice grow in the City and I think it merits more scrutiny.
+
+**(00:38:38)**
+
+
+
+Is there, like, what is the conversation, if any, and maybe it is not on this agency to do, but are there any conversations with some of the chain owners? For example, some of these supermarkets you mentioned could be chains or franchises. Has there been any conversation about the impact of the labels on their consumer base?
+
+**(00:38:57)**
+
+
+
+I have had some conversations, just asking when I am in meetings with grocery stores. Most of the local groceries in New York, we do not think, are using these labels. One thing I do hear all the time, though, is that smaller grocery stores feel severely disadvantaged relative to the big ones. And guess what? It is the big stores, the big chains, that are going to be able to implement these very sophisticated electronic shelf labels, not the corner bodegas. I think that is going to further disadvantage small businesses in the City. The labels are, I imagine, produced by companies that are selling these products to these big names.
+
+**(00:39:44)**
+
+
+
+What is the relation, or what...
+
+**(00:39:46)**
+
+
+
+Is our jurisdiction in terms of the City on these companies that are selling these products? Well, I think you raised an excellent point and this is exactly one of the areas that I think does require more scrutiny. Who are these companies? Are they handling the installation of these products? Are they collecting real-time data and what prices are companies setting, which by the way could also facilitate collusion potentially among competitors? Electronic shelf labels raise a lot of concerns. Your question on jurisdiction — I am confident that if they are being used in the City of New York, regardless of where these companies are based, we would have jurisdiction. But I think you are raising very important questions about the downstream impacts these labels could have.
+
+**(00:40:28)**
+
+
+
+Yeah, I am certainly... as our City is confronting an affordability crisis, this is where consumers are headed. So I am certainly interested in continuing this conversation with you and your team. Thank you.
+
+**(00:40:38)**
+
+
+
+Me as well. We would be very pleased to do that.
+
+**(00:40:40)**
+
+
+
+Thank you. Thank you, CM. Just a quick question. So I am really concerned about educating the public once we pass these bills. So you are talking about having four lines — I assume that is for investigations. Now outreach and education, those two, four lines? No, actually we do have one line, I believe, for both bills: the community coordinator.
+
+**(00:41:09)**
+
+
+
+And what kind of... yeah, I mean, what would the outreach look like to be able to... I mean, eight and a half million people. How are we educating them on this?
+
+**(00:41:19)**
+
+
+
+Thank you very much for the question. Sure. I think there are different types of techniques. I think we want to try and use this. There is always the in-person, on-the-ground boots. We have — and this is one line for each bill — what supplements our existing team as well, that does a lot of great work. I think already this year they have done 600 or so signature-plus events with New Yorkers. I think we have also dynamically expanded our use of social media to engage with folks and to capture for New Yorkers what government can do for them. I think there is always a conversation to have about outreach and marketing campaigns. And yeah, I think there are a lot of different tools in the toolbox we can use for this. Obviously we have a large immigrant population in New York, so you worry about how you have access to talking to them, explaining to them these issues. Obviously every New Yorker is impacted by this.
+
+**(00:42:14)**
+
+
+
+Yeah, I am very happy that our community first team — I think we speak over six languages. The agency itself has a vast language capacity, over 40 languages. I think close to half of our agency speaks a language other than English. So it is a lot of these resources that we always pull into for our outreach events and likewise our literature. We are very proactive about updating everything to be in more than the top ten languages of the City. And then my question — that I will turn over to the CM — is: do you envision bringing community-based organizations who might have the community connections and ties to be a partner in doing this outreach?
+
+**(00:42:57)**
+
+
+
+I think our outreach model requires close ties with our community-based organization partners. We do not have the capacity or ability to set up and inspire ourselves every weekend day. What we do is build ties with folks, build trust, go to their meetings, go to their neighborhoods and then talk to folks where they are. That is our model. That is what has brought us success so far. Thank you.
+
+**(00:43:20)**
+
+
+
+CM, thank you, Chair. You answered part of my question, but have you thought about possibly requiring these stores to post information about pricing and, if they have a concern or an issue, that they should reach out to...
+
+**(00:43:44)**
+
+
+
+I think that is a very reasonable suggestion. We can take that back and look at it.
+
+**(00:43:48)**
+
+
+
+Yeah, and I kind of disagree with you that people are resigned to having different pricing. I have seen folks at the checkout line and they say the price says this and you are charging me that — it is like, I do not think so. I think there is just a lack of education. A lot of people, as you said, do not have the ability to sit in a room and ask for an Uber or stand next to somebody and ask for an Uber that is going to go to the same location and understand that the pricing is different for a variety of reasons. How do we educate consumers...
+
+**(00:44:31)**
+
+
+
+...that this is happening, so that... because it is hard to know, right? I think...
+
+**(00:44:39)**
+
+
+
+I think you are right.
+
+**(00:44:39)**
+
+
+
+CM, I think the idea of putting up signs so that people know where to file complaints is a good one. I will say, though, that I remember a year and a half ago when the Federal Trade Commission released a study on surveillance pricing. Hardly anyone had heard of the term or the concept and now you have bills all over the country advancing to ban this practice. New York State, of course, has a bill.
+
+**(00:45:00)**
+
+
+
+Now we have it in New York City. There has been a ton of media coverage of this issue. I think it is generating a lot of grassroots frustration. So to your point, actually, I think I am cautiously optimistic that this issue is resonating so much. I think the reason — because I think people are upset about prices and maybe they have lost some faith in the government's ability to address it — I think this could be a really good antidote to that and help restore confidence that the government does have their back.
+
+**(00:45:29)**
+
+
+
+And I think to the commissioner's point earlier about perhaps a resignation that consumers might feel, I think that is also tied into, perhaps in my experience, the difference between consumers and workers in terms of solidarity. When you are in a workspace, workers are able to live and experience a lot of the same moments together and build solidarity through that. Consumers at times can be very isolated from those moments. You can be in a checkout line and see the prices change on you, or that your coupon is not the same price at the checkout, and it is a very individual experience in that moment, although with deep frustration, to your point, CM. So I think part of the popular imagination of surveillance pricing coming up now and dramatically moving the conversation to this point signifies a frustration from consumers to address this issue, and that we as government are ready to do so as well.
+
+**(00:46:22)**
+
+
+
+I am really concerned about protecting workers who either observe that this is happening in their place of employment, and just ensuring that if they report it they are not retaliated against, and that they are able to work with consumers to ensure that the pricing is fair without getting blowback from the...
+
+**(00:46:56)**
+
+
+
+...employers. I think that is an excellent point and we should have a role in this. I think Chair Epstein brought up how do we learn about violations — whistleblowers from inside the company are a great source of information. We can explore how to facilitate that. I would also just add: if someone is in the store and they see the price changing rapidly, who are they going to yell at? They are going to yell at the workers on the floor, when they are not the ones making the decisions about that price. That is another issue that Int 0892-2026 would address.
+
+**(00:47:31)**
+
+
+
+I think that is exactly right, Commissioner. I would just add that we would always love to hear from any workers who want to file a complaint with us. We will always be happy to accept anonymous complaints and those are the types of tips we can take in that lead to an investigation or lead to further scrutiny, so it is always very valuable to us. Thank you. We are joined by CM Wilson and I will turn it over to him for questioning. Thank you.
+
+**(00:47:57)**
+
+
+
+Chair. Hi there. Good afternoon. To what extent — you were speaking earlier about this happening at the bigger stores and bigger retailers — but to what extent is dynamic and surveillance pricing already happening or being implemented outside of the big guys? It is a very good...
+
+**(00:48:16)**
+
+
+
+...question, CM. For us the best source of data we have is based on our inspections. We are not seeing electronic shelf labels at the smaller stores. We have seen them at some of the big chains. As for surveillance pricing, it is possible, but I highly doubt it. Why? We have all been to bodegas and corner stores — they are not collecting vast amounts of personal data on us. They are not retaining McKinsey to set their pricing strategy. It is just a very different shopping experience when you are at a corner store than when you are at Walmart.
+
+And the companies that do have these practices — are they hiring third parties to facilitate this or are they being facilitated in-house? My understanding — and I do not want to be definitive about this, but based on my observations — let me put it to you this way. There are a lot of third-party companies, consultancies, marketing and pricing strategy services to companies. The study we did looked at eight of these pricing consultancies and found that they were offering surveillance pricing services to more than 250 companies across a wide range of industries. So yes, there is an industry developing around helping companies develop these pricing strategies.
+
+**(00:49:37)**
+
+
+
+So then what privacy rights do consumers currently have when it comes to protections against the aspects of their identity — or rather the activities that are being used towards dynamic pricing, especially if it is with another third-party company? I am sorry, come from...
+
+**(00:49:53)**
+
+
+
+...privacy rights or risks? Rights. I am very concerned about that. New York State does not have a comprehensive privacy law, unlike many — I think more than 20 states right now. Companies I have researched are collecting vast amounts of data on us. They are making inferences about our family dynamics, our income, our ethnicity, our intelligence. There are virtually no restrictions that I know of in the state around the ability of these firms to sell data to data brokers. I think there are huge privacy concerns, and that is why I said in my opening remarks that this testimony is very much about affordability — because this legislation is very much about affordability, but it is also about protecting privacy.
+
+**(00:50:36)**
+
+
+
+And we know there is the New York State law. Are there other examples across the country that have been successful in tackling dynamic pricing? Have there been other bans to look at?
+
+**(00:50:49)**
+
+
+
+Andy can jump in if I am missing anything. Maryland just passed a ban on dynamic pricing in grocery stores. I think that bill is very... I would not recommend it for New York City. The Governor of Colorado recently vetoed a surveillance pricing ban, regrettably in my opinion. But I think New York City would be the first city to take on these practices.
+
+**(00:51:12)**
+
+
+
+I think that is right. Just to add to that, I think Connecticut has also moved some bills into law on surveillance pricing. I think we are hopeful to work with the Council on making sure that this law is the best out there. We think the New York approach is also really great and think that we can work to have those two bills work very harmoniously together. Okay.
+
+**(00:51:38)**
+
+
+
+Thank you. Not hearing any other questions. Thank you for your time. We look forward to your edits on the Bill and look forward to further collaboration. Thank you, Chair. Thank you very much. Have a lovely day and we will see you tomorrow watching the game, watching the parade, right? Absolutely. All right. Now I will bring up Jared Hogan from the New York State Attorney General's office, Nikki Capeman who is in person, and then we have two people on Zoom: Debbie, right, and Jeremy Espinoza, his mother coming up. So now I am opening the hearing for public testimony. I remind the public that this is a formal government procedure and we ask that people maintain decorum. The witness table is reserved for witnesses. There should be no video recording or other people at the witness table. All who wish to testify, please fill out the form with the sergeant at arms and wait to be recognized. You have three minutes to speak today and we are talking about Bills Int 0891-2026 and Int 0892-2026. We are having a hearing later in the day on another bill and it starts at 1 o'clock. If you have testimony you want to admit, please submit it in writing. We will start with the people before us. Jared, I will start with you. Thank you, Chair Epstein. Good morning. I have seen members of...
+
+**(00:53:04)**
+
+
+
+...the Committee on Consumer and Worker Protection. My name is Jarod Hogan. I am a senior adviser to Attorney General James in the Office of the Attorney General. On behalf of Attorney General James, I would like to thank Speaker Menin, Chair Epstein and this Committee for inviting our office to testify at today's hearing. On a personal note, Chair Epstein, it is great to see you and work with you again. Apologies if I accidentally call you Assemblyman.
+
+So I am going to start very quickly because I do not want to waste too much time. Just speaking briefly about the AG: one of our most significant responsibilities is our work protecting consumers from fraud in the physical and online marketplaces. That work is conducted through two bureaus: the Consumer Frauds Bureau and the Bureau of Internet and Technology. Together these bureaus enforce New York State's prohibition on unfair, deceptive and abusive acts and practices and safeguard consumer privacy. Since Attorney General James took office, these bureaus have put billions of dollars back into the pockets of hardworking New York consumers and small businesses.
+
+I would like to move to the agency primarily responsible for protecting New York consumers. As a direct and meaningful threat to the affordability crisis facing New Yorkers today, we support the state's current law requiring companies to disclose to consumers if and when they use surveillance pricing. That said, we have serious concerns about the practice and believe that an outright ban on the practice is the best way to protect consumers and lower prices. As Speaker Menin indicated earlier, one of the challenges about a simple disclosure law is that consumers do not actually know if they are being subject to surveillance pricing and so the law has limited utility. We support Int 0891-2026 and the Council's efforts to ban surveillance pricing in the City of New York. To start, it is helpful to define the practice of surveillance pricing, which at bottom is the practice of setting or adjusting prices based on an individual's personal information.
+
+I will fast forward to a couple of points that I think we want to emphasize based on our experience working on legislation at the state level that, as you have already heard, we were successful in passing. So I am going to fast forward to page three of the testimony. I want to emphasize the importance of engaging with stakeholders because I think those conversations have been extraordinarily enriching in learning about where concerns exist and holding the bill up against those concerns. Because in many cases — I have said this to a lot of folks — the discounts that we are hearing about existed before the internet allowed us to accumulate immense amounts of data on individual consumers. They can continue to exist without us using those immense numbers of data points, and there is no reason why a bill that prohibits surveillance pricing cannot also allow the same discounts that we have all come to expect before and during the age of the internet.
+
+I want to talk a little bit about the use of the term "discount." If we are not careful, the term "discount" can be hollowed out and misleading. When consumers each pay a different price for a product while all being told that their unique, individualized price is a discount, then the term "discount" loses its meaning and many of those companies' customers are being misled. This is especially true when companies adjust their nominally discounted pricing based on consumers' personal information. One of the things that we know companies are able to do is to identify folks who are more impulsive and more likely to pay a higher rate, and so in doing that, what you can do is set a higher rate for a product than maybe even what you thought you were going to charge across the board, and then anything below that amount can be considered a discount, irrespective of whether or not it is actually discounted from what the company had intended to charge.
+
+The second point that I want to make is that the vast majority of the discounts that consumers know and expect from retailers and others do not constitute surveillance pricing. In collaboration with the bill's sponsors, we met with dozens of businesses and industry groups. Those meetings were instructive in helping us to understand the specific conduct that different industries were concerned might be impacted by a surveillance pricing ban. These conversations underscored that a significant number of discounts would not be impacted by the state law, or that we could fine-tune the bill to address those concerns while preserving the central goal of the legislation. We greatly appreciate the opportunity to share our input with this Committee and I would be happy to answer any questions at this time. Thank you.
+
+**(00:58:09)**
+
+
+
+Good morning, Chair Epstein and the members of the Committee on Consumer and Worker Protection. My name is Nikki Kate and I am with Local 338 RWDSU. We represent more than 13,000 working people across New York State employed in a wide range of industries including food retail, retail drugstores, healthcare, human services, cannabis, agriculture and transportation. Our members experience the impact of rising grocery prices every day, not only as consumers themselves, but also as the workers who interact directly with shoppers and witness firsthand the challenges families face when trying to afford basic necessities. On behalf of Local 338 members, I am here today to discuss our concerns regarding Int 0891-2026 and Int 0892-2026.
+
+We believe both Bills are a positive step towards strengthening consumer protection and increasing price transparency. However, in their current forms the Bills contain loopholes that could undermine their intent. Before discussing these concerns, I would like to thank Speaker Menin, Chair Epstein and CM Brady. You and your respective staffs for meeting with us prior to today, listening to our feedback and reviewing the amendments we have shared.
+
+Regarding Int 0891-2026, one of our primary concerns is that the Bill does not address the collection and use of customer data. As drafted, the legislation is silent on the consumer protection issues that can arise from loyalty programs and the extensive data collection that often accompanies them. While loyalty programs can provide legitimate discounts, they can also serve as a backdoor to surveillance pricing when retailers use customer data to price to individual shoppers. This addition is essential to ensure that loyalty programs remain transparent and fair while preventing the use of personal data to create individualized pricing that undermines consumer protections. Even without advanced surveillance tools, businesses already have extensive ability to analyze consumer behavior, including spending habit patterns tied to benefit cycles, seasonal demand and external factors. This legislation should be structured to minimize pathways towards surveillance-based pricing. I promise I will be quick.
+
+Regarding Int 0892-2026, we believe it is important to address technology that can facilitate these pricing practices in brick and mortar stores. Electronic shelf tags make it significantly easier to change prices quickly and often. Traditional shelf labels serve as a safeguard by creating friction around constant price changes and helping ensure prices remain consistent for consumers. Businesses already know consumer shopping patterns, including when pension checks hit, when SNAP benefits are replenished and when demand spikes due to predicted weather patterns like snowstorms. The goal should be
+
+**(01:00:48)**
+
+
+
+to minimize pathways to price inflation and limit opportunities for rapid and data-driven price increases that harm consumers. This is a worker protection component of both Bills. When consumers experience unexpected price changes, their anger and frustration is often directed at frontline retail workers. Our members appreciate you all so much for your time and your willingness to continue the conversations on this, and I look forward to your questions.
+
+**(01:01:10)**
+
+
+
+Thank you. And I know on timing I will start with Debbie. You may begin. Good morning.
+
+**(01:01:20)**
+
+
+
+Good morning, everyone. My name is Deborah and I am the National Political Director for the Retail, Wholesale and Department Store Union. RWDSU. In New York State alone we represent over 40,000 workers. First, I want to commend the New York City Council for recognizing the serious risks that surveillance and dynamic pricing pose to consumers.
+
+These introductions are an important first step in addressing these issues at a time when the affordability crisis facing New Yorkers and families across the state continues to worsen. With stronger and more carefully drafted legislation, New York City can become the first major municipality in the United States to protect consumers from deceptive and harmful practices. I submitted lengthy testimony and I will do my best to summarize it very quickly.
+
+First, Int 0891-2026 addresses individualized pricing but not the data collection practices that make it possible. As I have noted, supporting retailers collect an enormous amount of consumer information through loyalty programs, mobile apps, digital coupons, purchase histories and third-party data brokers. If the Council wants to stop surveillance pricing, it must address the collection and use of consumer data that enables it.
+
+Second, loyalty programs should not become a loophole. Consumers expect loyalty discounts that are uniform and available to everyone who participates. What consumers do not expect is for retailers to use personal data to determine different prices for different shoppers. The Bill should clearly preserve legitimate loyalty discounts while prohibiting individualized pricing based on consumer data.
+
+Third, the Council should prohibit the use of electronic shelf labels. As the speaker mentioned, they allow retailers to change prices instantaneously across entire stores through centralized digitalized systems. They create the infrastructure necessary for dynamic and surveillance pricing in brick and mortar stores. Without banning them, it could undermine the consumer protections these Bills are intended to provide.
+
+What also cannot be mentioned enough is the worker impact, which should not be overlooked. Frontline retail workers will bear the burden of customer frustration over confusing or rapidly changing prices. Finally, we also support stronger enforcement and transparency measures as needed. We would also support adding a private right of action. We thank the Council for meeting with us ahead of the hearing to listen to our concerns and also for giving us the chance to provide amendments to this Bill. We look forward to continuing to work with the Council to ensure these Bills provide meaningful protections for consumers and workers alike.
+
+**(01:04:04)**
+
+
+
+Thank you. And I will now welcome any questions that you have. Thank you. And let me turn it over to Jeremy Espinoza. Jeremy, you are on mute.
+
+**(01:04:16)**
+
+
+
+Perfect. Thank you, Vanessa. I am a legislative representative for UFCW International. UFCW represents 45,000 hardworking members across the five boroughs of the City. We appreciate the intent of these proposals and believe they represent a positive step towards strengthening consumer protections. I certainly want to thank Speaker Menin and Chair Epstein and CM Brad for their engagement and responsiveness so far throughout this process.
+
+Just a couple of considerations for Int 0891-2026 that could strengthen it, particularly around loyalty programs. These can be a tool for corporate abuse because they can be a backdoor to surveillance pricing through their ability to collect data on consumers. We believe that this Bill should clearly state that differential pricing through loyalty programs is only permissible when discounts are uniform and available equally to all program members, rather than tailoring them to individuals based on personal data or purchasing history.
+
+Like the commissioner mentioned on coupons, these can be troubling for consumer protection because a company could artificially inflate the price of an item and then offer a coupon that sets the price higher than where it was originally set. We would encourage everyone to take a look at this language.
+
+On Int 0892-2026, we believe this Bill is too permissive and it must be amended to ban electronic shelf labels, because laws that prohibit the practice of price gouging but not the technology that makes it possible create loopholes that companies can easily exploit. Electronic shelf labels are the infrastructure that allows for predatory and surge pricing. Even with a ban on surveillance pricing and dynamic pricing, you can still surge prices on a day when you know SNAP benefits get distributed or on a day when you know your competitors' prices have expired. I will wrap it up then. I would just thank everyone for their time and support working with the Council on Int 0891-2026 and hope that we can make the needed corrections for consumers and workers. Thank you.
+
+**(01:06:37)**
+
+
+
+Thank you for your testimony. Just to the Attorney General's office, just some of the private right of action we have heard a little bit about today. I am wondering kind of where your office stands on that. Would you support amending the Bill to include a private right of action?
+
+**(01:06:57)**
+
+
+
+I mean, as far as we are concerned, we would not object to it. We understand that there are complicated politics associated with it. And you know, it certainly would not affect our authority and we would not have any concerns with it, but we also understand that there are challenges associated with it.
+
+**(01:07:11)**
+
+
+
+Thank you. And we heard from the commissioner and from the Attorney General's side, are there other concerns around coordination between your office and their office?
+
+**(01:07:24)**
+
+
+
+No, I actually think that there is a lot of synergy between our offices. I think that, you know, if you look at the number of enforcement officers that they have and the types of inspections that they do, I think that is an area where the AG's office does not necessarily have staff and is not able to necessarily do that level of enforcement. So I think that coordination between the two agencies could work really well. We already speak with a lot of frequency, have a lot of common goals, and so I think that that would work really well.
+
+**(01:07:53)**
+
+
+
+Finally, just so I am clear about how you are going to be able to do investigations on the state law if the Governor signs it, what resources do you have? We have heard from a lot of people that there are no complaints, people do not know it is a problem. And even if the state law gets signed and we pass these Bills, what is the role of the Attorney General? Is it consumer education or...
+
+**(01:08:22)**
+
+
+
+Enforcement. I would start with education because you have to have a case to enforce. And yeah, maybe we could do both. I mean, in terms of consumer education, I think we would have to be creative about it and, you know, make use of maybe non-traditional means of connecting with consumers and making sure that they are aware of what their rights are. I also think to some extent, you know, that we might have to, because of the inability generally of consumers to recognize when they are being subject to surveillance pricing, I think that in all likelihood we would have to rely on different means for
+
+**(01:08:55)**
+
+
+
+determining when it is or is not happening. And I think that, you know, the office has some tools to address that, although generally we are an office that is based on consumer complaints. We follow cases based on where we get complaints. I think in circumstances where they are harder to detect or track, I think we have got tools that can address that.
+
+**(01:09:18)**
+
+
+
+Great. Thank you. And just, you know, I have now heard from a bunch of unions about strengthening the Bill and better coordination. I know we have talked and I know you have spoken to both of those sponsors. What is your highest priority in terms of changes? What would be the most important thing you would want to see? We talked a little bit about private right of action. Is that the top priority? I know we have heard about loopholes in Int 0892-2026. I just do not know where your folks land. Whatever Adrienne wants to respond.
+
+**(01:09:54)**
+
+
+
+I do not want to speak on behalf of my colleagues, but I think for Local 338 as an organization, I think banning electronic shelf labels is probably our top priority, both in terms of consumer fairness, because again, you remove surveillance pricing and data collection. Businesses know consumer trends. If you have been a store manager for five minutes, you know that if it is going to be a heat wave, people are going to buy certain things, right. So I think for us, electronic shelf labels would be it, both in terms of consumer protection but also what we have already heard about worker protections in terms of what they are experiencing interacting with consumers, and also recognizing that these are jobs that people do.
+
+**(01:10:43)**
+
+
+
+Currently. Yeah, I mean, I would just echo what my colleague just said about electronic shelf labels. We cannot stress enough that they are the conduit through which anything surrounding surveillance pricing, dynamic pricing and surge pricing will be possible. Even if you try to regulate it, if you have electronic shelf labels in stores they will get around it. This is why the bigger corporations, even some of your smaller grocery stores now too, but the bigger corporations are investing millions, even filing patents at this point, in terms of not only the hardware themselves but also software applications to basically get around any type of law that is put in place to try and stop surveillance pricing or dynamic pricing. That hardware allows them to instantly change those prices store-wide on everything and all items that they are selling, not even just once but multiple times per day. They will still be able to do this.
+
+The other thing we do want to stress is that we worked hard with the Attorney General's office on the package of bills that were introduced in the State Legislature last session. We worked very hard in making sure that the definitions, especially around personal data, the discount programs, the loyalty programs and bona fide discount programs, were as strong as possible. I think that is also the second priority here for these Bills, to make sure that consumers are actually protected in the way that the Council intends. Without actually strengthening those definitions and adding in the additional ban for electronic shelf labels, unfortunately these Bills are not going to do what you are intending them
+
+**(01:12:34)**
+
+
+
+to do. No, thank you all. And I want to thank you all for testifying and I look forward to following up with you all on these important pieces of legislation. Thank you, Chair. Thank you very much. All right, we will turn to... I want to acknowledge CM Morales' presence. He had to run in and run out. The next panel is Jabari Cooper, Kelsey Dorado, Bob Borski, Matt Henning. Welcome.
+
+**(01:13:12)**
+
+
+
+And on Zoom we have Nikki Frenzel and Lisa Soren.
+
+**(01:13:28)**
+
+
+
+Fine. I guess Jabari, would you start. Good afternoon, Chair Epstein and members of the Committee. My name is Cooper, Director of State and Local Government Relations for the Northeast at Chamber of Progress, a tech industry association supporting public policies to build a more affordable and inclusive society in which all people benefit from technology advances. Thank you for the opportunity to testify today.
+
+We share the Council and Mayor's concern about affordability and agree that consumers should never be charged higher prices based on their personal data. However, Int 0891-2026 goes a little bit further beyond preventing that practice and would instead eliminate many discounts, coupons, rewards and targeted promotions already received by New Yorkers. We believe that the Bill's definitions are too broad and this is why some personalized discounts would be banned. Specifically, the Bill does not distinguish between using data to raise prices and using data to lower prices through discounts. Both would be treated the same.
+
+The elimination of discounts feels incongruent with the lives led by everyday New Yorkers where wages are stagnating but prices continue to rise. In addition, Albany recently passed a similar surveillance pricing bill that now awaits action by the Governor. Confusingly, though, the two measures are already divergent in meaningful ways, including which discounts they exempt. So the same promotion could be lawful under one and prohibited under another.
+
+The benefit of the City passing a law on this issue after the state finalizes its own includes not just reducing regulatory confusion but providing the City the opportunity to add stronger protections than the state's Bill that the Council believes could benefit consumers. Again, the Chamber of Progress supports banning the use of personal data to increase prices and argues against eliminating the use of personal data to allow individual New Yorkers to save money from bona fide discounts offered by e-commerce retailers. We look forward to the opportunity to testify today. Thank you very much.
+
+**(01:15:30)**
+
+
+
+Kelsey.
+
+**(01:15:31)**
+
+
+
+Good afternoon, Chair Epstein and honorable committee members. My name is Kelsey Jerad Obarski and I am the Director of State and Local Government Relations for the Retail Council of New York State. Our organization is the state's leading trade group for the retail industry, representing member stores in New York City and across the state, ranging from the smallest independent merchants to national and international brands.
+
+Thank you for the opportunity to speak today on Int 0891-2026, which would prohibit retailers and other sellers of goods and services from engaging in surveillance pricing, defined in the Bill as setting a price or discount for a specific consumer or group of consumers that differs from what is made available to other consumers, where that difference is based in whole or in part on personal data collected through surveillance technology.
+
+The Retail Council of New York State would support legislation prohibiting the use of surveillance pricing to automatically increase the cost of products for specific consumers. We are, however, opposed to the current Bill, which would effectively limit a retailer's ability to offer popular discounts, promotions and savings. Specific examples of discounts that would be prohibited include, but are not limited to, discounts based on purchase history, discounts based on a wish list or registry and cart abandonment discounts.
+
+For the discounts that are expressly permitted, merchants would be required to clearly and prominently disclose pricing policies in a manner that an ordinary consumer would notice and understand. In practice, this means publicly posting sensitive business information that would then be available to competitors. To be clear, our position on the Bill does not distract from the valid affordability concerns in New York. While businesses large...
+
+**(01:17:03)**
+
+
+
+...and small continue to compete fairly, recent price increases are a direct result of several external factors, including tariffs, inflation, shipping and raw material costs. An outright prohibition on certain price discounts, coupons and promotions would exacerbate the affordability challenges facing New York residents rather than provide meaningful solutions.
+
+Shoppers today have considerable tools and data at their disposal. They are now able to compare prices in real time and make an informed purchase based on price, quality, brand loyalty and service. As a result, there are far more incentives for retailers to reduce prices as they compete for each customer.
+
+Finally, I do want to echo the progress that has been made at the state level. We believe that enacting a local law in advance of finalized legislation at the state level risks creating a patchwork of conflicting obligations for retailers that invest in New York City and in New York State. We urge the City Council to allow the state process to proceed before adopting a local standard and we pledge to remain constructive throughout the legislative process. Thank you.
+
+**(01:18:01)**
+
+
+
+So much for your time.
+
+**(01:18:08)**
+
+
+
+Thank you, Chair Epstein and committee members, for having me today. My name is Matt Henning and I am the Director of Government Affairs at TechNet. While TechNet agrees there is a need to protect consumers from predatory or discriminatory price increases resulting from the use of personal data, we respectfully express concerns on Int 0891-2026 and Int 0892-2026 as currently drafted.
+
+As a fair price act has been advanced at the state level, TechNet recommends the Council review that Bill's final provisions before advancing Int 0891-2026, as that Bill directly addresses the same core concern: the use of personal data to manipulate prices charged to individual consumers. We believe the Council risks creating a patchwork of conflicting regulations that businesses must comply with by potentially enacting a different law than the state.
+
+TechNet's core concern is that Int 0891-2026 captures not only instances where personal data is used to charge a higher price, but also captures instances where data is used to charge a consumer less. While Int 0891-2026 does include some carve-outs for loyalty programs and publicly disclosed discounts, the Bill and these provisions as currently drafted would still prohibit certain personalized discounts and targeted promotions that New Yorkers benefit from.
+
+Colorado's Governor, a Democrat, recently vetoed a nearly identical Bill, stating that it would result in unintended consequences on lowered prices, not just higher prices. Maryland recently enacted a Protection from Predatory Pricing Act that offers a strong model to follow, banning the practice of setting a personalized price for a good or service that is higher than it would otherwise be based on a consumer's personal data.
+
+Regarding Int 0892-2026, TechNet shares concerns also raised by other stakeholders about the absence of an exception for legitimate cost changes due to supply chain disruptions, weather events or other circumstances outside of retailers' control, all of which are recognized by New York State's existing price gouging regulations. We very much appreciate your consideration and have submitted a longer and more detailed testimony outlining our positions. We are happy to continue working with you and the Council on this. Thank you for your time today.
+
+**(01:20:32)**
+
+
+
+Thank you. So, Nikki, I think you are on Zoom. You may begin.
+
+**(01:20:42)**
+
+
+
+Thank you for holding this hearing today. I am Nikki Frenzy, the Vice President of the Hotel Association of New York City, also known as HANYC. We are here to testify about Int 0891-2026, which bans the use of surveillance pricing. While we respect the Council's desire to protect consumers from predatory practices, this Bill inadvertently prevents consumers from benefiting from major perks provided by hotels.
+
+The primary issue is that the exemptions are contingent upon being uniformly made available to all consumers. This effectively makes rewards programs illegal. Benefits for rewards program members increase as those members show greater loyalty to a particular brand. By their very nature, rewards programs are not uniformly made available. As currently written, consumers would be unable to accrue or use rewards program benefits in New York City. The results of this would be catastrophic for the hotel industry, as many travelers will avoid traveling to our City if they cannot use their rewards program benefits.
+
+Aside from rewards programs, the "uniformly made available" provision also prevents consumers from benefiting from personalized discounts. These types of discounts require knowing a customer's voluntarily provided personal information. For instance, hotels often provide guests with discounts for occasions such as birthdays. Since not every guest shares the same birthday, this type of discount would be illegal.
+
+This Bill fails to take into account the nature of loyalty programs existing in the hotel industry. In addition to the requirement to provide uniform discounts to all customers, the legislation does not provide the ability to offer tailored discounts based on a particular customer's profile. We appreciate that the Speaker's staff has been very receptive to addressing these unintended consequences. In our written testimony we provided specific language changes to address these issues. As this Bill is amended, HANYC will continue to be a resource for the Council. Again, thank you for your time and for the opportunity to testify today.
+
+**(01:22:46)**
+
+
+
+Great. And I think Lisa Zornberg is on Zoom as well. You may begin.
+
+**(01:22:50)**
+
+
+
+I am here. Good afternoon, Chair Epstein and members of the Committee on Consumer and Worker Protection. My name is Lisa Sarin and I am the President of the Bronx Chamber of Commerce. Thank you for your continuous engagement with our small business community. I am here today on behalf of the Bronx small business owners who lacked the time and staff resources to testify here today but whose livelihoods depend on the decisions made here.
+
+In speaking with them about Int 0891-2026 and Int 0892-2026, a major consistent concern is emerging regarding the future of discounts, rewards and loyalty programs. While the legislation intends to exclude these programs, the requirement that discounts be offered uniformly to all consumers is deeply problematic and open to broad interpretation. For small businesses, tiered loyalty programs are essential survival tools to retain customers and stay competitive. If uniform pricing rules force businesses to give the exact same discounts to first-time walk-ins as to lifetime loyal customers, these vital reward models become unworkable.
+
+This ultimately hurts both the shopper and the shopkeeper. The Chamber urges the Council to amend this language to explicitly protect all forms of loyalty and reward programs. We want to work collaboratively with you to ensure clear guidance that avoids costly compliance challenges. Thank you for your continued partnership and the opportunity to testify today.
+
+**(01:24:30)**
+
+
+
+Can I ask... we heard earlier examples of, like, ten people sitting in a room, all ordering an Uber or Lyft at the same time and having ten different prices. Do you all think that process should continue? Is that an inappropriate loyalty or just a counter approach? Or do you feel like that is something we should be regulating or legislating around?
+
+**(01:25:02)**
+
+
+
+I think it is important to draw a distinction between dynamic pricing and surveillance pricing. Dynamic pricing can take into account, you know, location fees or tolls for an Uber trip. All those are factors that are...
+
+**(01:25:18)**
+
+
+
+...valid reasons that a price differs, whereas surveillance pricing — what we are thinking of — is using personal data to increase the price based on factors that are not necessarily impacting the cost of the service to the consumer. So I think in certain instances what you described in your ride-sharing example does need to be addressed. But there is also some conflation between appropriate dynamic pricing that is necessary for these ride-sharing companies and the inappropriate use of surveillance pricing.
+
+**(01:25:53)**
+
+
+
+So if it is a rainy day, prices could be higher, but prices could be higher for everyone. But if you are saying the individualized person — we are all, you know, four of us sitting in a room, we are all ordering an Uber to the same location from the same location — is there value in having uniformity in the price that people are being offered? Or do you feel like it is okay for everyone to be offered a different price in that moment, from the same location to the same location?
+
+I think in the example of multiple people sitting in the exact same location looking for the exact same ride, there is value in what you described. However, in a lot of these instances, and the ride-sharing example specifically as I mentioned, there are a lot of factors that do increase the cost of a ride uniformly to all consumers that need to be accounted for. Sure, like if you are going through the congestion zone, or if you are going further distances. But under my fact pattern, we are all doing the same thing at the same time — we are all, you know, taking that cab. So it sounds like you feel like there is some regulation that should happen in that context. Does anyone disagree with that statement?
+
+**(01:27:10)**
+
+
+
+I will reiterate what I said in my testimony: we would certainly support legislation that prohibits using surveillance pricing to increase the price for certain consumers based on their personal data. So, you know, I do not want to speak too much on the ride-share example because I do not represent retailers, so I will not opine on that. But we would certainly support legislation specific to price increases. Our concern comes down to the discounts.
+
+So from a retail perspective, I want to focus on the past purchase history a little bit, because that is probably one of the most beneficial discounts that consumers are going to receive, because it is based on things that they have actually bought previously. If you take the example...
+
+**(01:27:51)**
+
+
+
+...I always give the shampoo example: if you buy the exact shampoo...
+
+**(01:27:54)**
+
+
+
+...once a month and I give you a discount for that, I do not want to give you a discount for a different shampoo because this is the one that you always buy. So I think in that specific example, with the ride-shares, I guess if you are always going to the exact same location, if you are always doing the same thing over and over again, a discount for that type of behavior — I do not think, we do not think, should be covered by this type of legislation. I think that is an important distinction to make.
+
+**(01:28:17)**
+
+
+
+So in the retail context, the discount example — I live across the street from a Key Food. They have, you know, one of those loyalty cards. You go in, you spend $300 in a month, you get some discount of 10% off. For $500 you get another percentage discount. You want to preserve that opportunity for that individual? Yes. A little sour who never shops there gets the price on the shelf, but the price that we are both paying on the shelves is the same price. I might just get $10 off because I am a repeat customer. That is what you are trying to preserve?
+
+Yes. We are not looking to change the reference price. To kind of go with...
+
+**(01:29:05)**
+
+
+
+...the New York State language, they use "reference price"...
+
+**(01:29:06)**
+
+
+
+...when we are talking about discounts. Everyone is looking at the exact same reference price. The discount that you receive could be based on a variety of things. It could be a uniformly offered discount. It could be a personalized discount. But if we are lowering the price correctly... if the reference price remains the same for everyone and certain people are getting a discount based on voluntarily provided data or behavior, we believe that should be preserved under this Bill.
+
+**(01:29:41)**
+
+
+
+So assuming none of us signed up for a loyalty program, we should all be paying the same price. Because I do not want... there is no loyalty... because I am not signing up for the loyalty program. I am not, you know... I do not stay at a Hilton Hotel, I am not getting the rewards. I am just a regular Joe Schmo coming off the street wanting to go to a store and buy something. Assuming that that price should always be the same for everyone walking in — the only question is, because of some loyalty program, you would like to individualize that discount based on usage and volume?
+
+**(01:30:18)**
+
+
+
+I do not want to be specific to loyalty programs, because there are discounts that exist and they are...
+
+**(01:30:22)**
+
+
+
+...not in this Bill, but...
+
+**(01:30:24)**
+
+
+
+...for veterans, teachers, students — there are other discounts that exist. So I do not want to...
+
+**(01:30:29)**
+
+
+
+...specifically say the only exemption should be loyalty...
+
+**(01:30:32)**
+
+
+
+...programs. So it could be that all veterans get a 10% discount, or all... my district has... every student gets a 10% off...
+
+**(01:30:41)**
+
+
+
+...if they show their ID. There is that piece, but it goes to everyone who uses it.
+
+**(01:30:47)**
+
+
+
+Correct. Those are exempt under...
+
+**(01:30:49)**
+
+
+
+...this Bill. Yeah, so that is what we want — those as well. And assuming there is a floor where everyone sees the same price, it is not changing. I am not paying $8.99 and she walks in ten minutes later at $9.99 for the same item without a discount. Correct?
+
+**(01:31:07)**
+
+
+
+So is that what everyone is saying here?
+
+**(01:31:13)**
+
+
+
+I do just want to reiterate our support of what was mentioned — that we would be supportive of a Bill that does ban inappropriate price increases resulting from surveillance pricing. Further, in Maryland they did take that approach. With the surveillance pricing bills, it seems like a lot of people have the same intent about surveillance pricing. The devil is in the details with the language. So if the language and the provisions are correct and do not unfairly eliminate discounts and harm the affordability agenda, I think a lot of industry opposition would be removed. So do you think...
+
+**(01:31:56)**
+
+
+
+...a discount based on some loyalty program versus a discount based on surveillance — do you see those as different?
+
+**(01:32:06)**
+
+
+
+Like, because you could be using surveillance to determine... you know, the example where your battery is low and your price might change for that, or a discount might be applied because your heart rate goes up and they are evaluating your condition, or your anxiety — you come back three times so the price or discount changes because of that. In that scenario, are you looking at a discount that could be put into place based on surveillance versus a discount placed on some other criteria?
+
+**(01:32:41)**
+
+
+
+I think I would want to differentiate a little bit between surveillance and voluntarily provided data.
+
+**(01:32:49)**
+
+
+
+Okay. I think that is important, because one of the other discounts that we have talked about in the state conversation is a browsing discount. I want to be very clear when I am talking about a discount based on browsing history — I am talking about somebody's personal website, a personal website, not general internet browsing history. Similar to that is a cart abandonment discount. If you are clicking on the same product ten times, if you are putting something in your cart, we offer you a 10% discount to purchase something that is in your cart. That is a pretty standard practice that has existed for a while. It also existed prior to the internet, when a sales associate would see someone browsing and keep...
+
+**(01:33:32)**
+
+
+
+...coming back to the exact same shirt, put it in their physical shopping cart and then put it back. You know, that is kind of the 2026 version of that type of practice, and that is outside of a loyalty program. So, you know, I do want to make sure we differentiate between low batteries and heart rate monitoring versus data that is provided voluntarily by the consumer, because I do think those are two different things.
+
+**(01:34:00)**
+
+
+
+I think I hear that distinction — that if I can go to Home Depot and I am looking at whatever I am looking at and I put it in my cart and I leave it there and I take it out and put it back in, at some point Home Depot is like, they really want to buy this, but maybe it was a hundred dollars cheaper, they might actually buy it. So I am going to offer that to you to buy it for that cheaper price. You are saying that level of surveillance — not through social media or other tools — is something that is important for the business model. Yes. Okay.
+
+Does anybody... I just want to make sure that everyone in the room and people on Zoom do not have a different perspective. I want to turn it over to those on Zoom, making sure that what we are saying here in the room is consistent with what we are hearing. At least I, for the chamber, I do not know if that is what you are hearing is consistent with what we are saying here.
+
+**(01:35:00)**
+
+
+
+Absolutely, coming from the Bronx Chamber. That is exactly what we are saying. The word "uniformly" actually harms the whole process, but it is exactly what we are saying. Reward programs, loyalty programs, all of...
+
+**(01:35:12)**
+
+
+
+That needs to be protected. Not only for the consumers, but most importantly for our small businesses. So thank you for that. I would now turn it over to CM Ariola. I think she has got some questions.
+
+**(01:35:28)**
+
+
+
+Yeah, I think... I just... I hear what you are saying, that there is a difference between — I mean, there is a difference between using purchasing data, purchasing habits, to provide discounts versus using personal data to either raise or lower prices. I think that is the concern here. The use of personal data — race, gender, income, all of that — to then determine different pricing for different people. So how can we ensure that these programs are fair and are not using that level of personal data?
+
+**(01:36:36)**
+
+
+
+So I would first like to say that there are federal and state laws that prohibit companies from charging individuals different prices based on protected class data. In New York State, just to give one example, it is illegal to charge someone a different price based on their gender. That was something that happened a couple of years ago. So there is already activity and settled law in that type of space based on protected class data — race, gender, sexual orientation, et cetera. So I think we do have some things in statute already.
+
+I do want to give another example of a discount that would be impacted by this Bill that combines personal data and purchase history, because I do think this goes further than just purchase history. I mentioned in my testimony: registries. In full disclosure, I am currently pregnant. I have about 30 baby registries that people have bought things for me on. Thank you. I did not mention it for the congratulations, but I appreciate it.
+
+Those types of registries — you typically are going to get a completion discount. So you are going to get 10, 15, 20% off whatever is left unpurchased on that registry. That is not only based on my purchase history. It is based on the history of anyone who has purchased from my list. It is also based on my due date, which is personal data that I voluntarily provided to the retailer to get that type of discount, because you get it 6 to 8 weeks prior to your due date.
+
+So when we are talking about this type of surveillance pricing, it is really important that we do not try to nitpick or differentiate discounts in particular, because we are always going to leave some out and we are always going to forget some. Which I think is why the folks here with me really want to focus on a Bill that is going to prohibit using surveillance pricing to increase a price for a specific consumer based on their personal data.
+
+**(01:38:38)**
+
+
+
+How do we prevent... so I go on — I do not know whether it is a hotel or a store — how do we prevent the price when I go in on day one, I am looking at it, it is $400, but then I go back two days later and it is $450, and then it is $500, and then allegedly I am getting a discount because it goes back down to $400. How do we avoid that behavior? Because I think what we are worried about is consumers showing interest in something, which could result in a change in price and then an alleged discount later, which is in some ways not a real discount.
+
+**(01:39:23)**
+
+
+
+I think what is important there — which we have seen in some other bills across the country and at the state level — is getting the definition and concept of a reference price correct, so that you can base what is a higher price and what is a lower price off that reference price. Because without a baseline price, the baseline price could be artificially increased to offer a misleading discount. But if in state or City law there is a clear and solid definition of reference price, you can use that reference price to determine what is a higher price, what is a lower price and what is a misleading discount.
+
+**(01:40:05)**
+
+
+
+I would also add that there are existing guidelines on misleading discounts that would address this type of...
+
+**(01:40:14)**
+
+
+
+All right. Thank you. I think we have no further questions. Thank you all for your time, really appreciate it. I will bring up the next panel, which is Alexander Gleason here in person and Kristen McManus and Lee Hepner both on Zoom. As we settle in, we will start with Gleason.
+
+**(01:41:00)**
+
+
+
+Good morning. My name is Alexander Gleason. I am the Policy and Campaigns Director at the New York City Central Labor Council. The New York City Central Labor Council appreciates the Council's attention to surveillance pricing and electronic pricing systems. Working families are already dealing with rapidly rising costs of living. They should not also have to worry about their personal data influencing the price they pay for a loaf of bread or a jug of milk at a time like this. The government has an important role to play in taking decisive action to ensure transparency and consumer protection.
+
+We are here in solidarity with our affiliates in the retail and grocery industry. Their members work every day in pharmacies, grocery stores and retail shops. As reported in the media, members in the retail trade see firsthand how new technologies affect stores, workers and shopping patterns. Too often when introduced, these technologies reduce staffing, shift risks onto frontline workers and weaken accountability for large corporations, while the promised savings and consumer protections fail to materialize.
+
+Int 0891-2026 and Int 0892-2026 identify real problems. We believe changes should be made to strengthen these Bills and align them with the broader statewide approach advanced in the Protecting Consumers and Jobs from Discriminatory Pricing Act, championed by our affiliates. Grocery chains, pharmacy chains, online platforms and major retailers operate across municipal lines and rules should be clear and consistent across New York State so consumers are protected everywhere. The state legislation recognizes a critical point: that it is not only a consumer protection issue, it is a worker protection issue. Surveillance pricing, dynamic...
+
+**(01:42:45)**
+
+
+
+...pricing, electric shelf labels — they are all part of a broad industry transformation. Left unchecked, they can lead to a context where rapid automation is falsely marketed as the only logical solution to the problems facing the industry. The Council should also consider using this time to examine the broader impact of technological shifts and self-checkout more specifically. Marketed as convenience, that technology also means fewer staff, reduced hours, more customer conflict and more theft. Given such challenges, a policy response to retail pricing technology that also addresses the growth of self-checkout would be a tool in fighting the cost of living crisis.
+
+The Central Labor Council respectfully asks the Council to collaborate with Int 0891-2026 and Int 0892-2026 to align the legislation with the statewide Protecting Consumers and Jobs from Discriminatory Pricing Act, or defer entirely to the state on this matter. Given the challenges related to automation and the expectation of displacement, we encourage working closely with the broader labor movement to keep workers at the center of the solution-making process in this industry. Thank you.
+
+**(01:44:00)**
+
+
+
+Good morning, Chair Epstein and members of the Committee. My name is Mayo... and I am an attorney at the Electronic Privacy Information Center, or EPIC. EPIC is an independent nonprofit that was established in 1994 to secure the right to privacy in a digital age. I am here today to testify in support of Int 0891-2026, a Bill that will protect New Yorkers from the unfair and predatory practice of surveillance pricing.
+
+The exploitation of New Yorkers' personal information to set prices is unfair and should be banned. As many have already testified, through surveillance pricing, companies can charge customers a different amount for the same exact product based on the customer's personal data. Today, retailers have access to enormous amounts of data on their customers, labeling us with hyper-specific and often intimate inferences such as our financial status, interests, politics, health conditions and more, that can be proxies for protected characteristics. Companies engaged in surveillance pricing use those inferences to adjust prices. This is happening both online and in brick-and-mortar stores. It might be disguised as personalized discounts.
+
+As a result, you might pay more than your neighbor for the same exact product — from flights to short trips and groceries — based on your personal data. This is unfair and deeply unpopular. EPIC urges the Committee to advance this Bill to protect New Yorkers from the unfair practice of surveillance pricing while exempting discounts that do not harm consumers. We do recommend that the Council further strengthen the Bill by removing unnecessary references to surveillance technology and adding a private right of action, which will ensure that this crucial legislation can be enforced. A more detailed explanation of our suggestions can be found in my written testimony. Thank you for the opportunity to testify today. EPIC is happy to be a resource on this issue.
+
+**(01:45:56)**
+
+
+
+Thank you. Kristen, you are on Zoom.
+
+**(01:46:02)**
+
+
+
+Hi, good morning. Thank you, Chair Epstein. I am Kristen McManus and I am the Director of Government Affairs and Advocacy for... I am here to testify in support of Int 0891-2026, which we see as a really crucial consumer protection and data privacy measure. Surveillance pricing, as referenced in this Bill, happens mostly online, which makes it particularly harmful to older adults who are already on fixed and limited incomes. In New York City in particular, we have seen a 50% increase over the past 10 years in older adults who are living at or below the poverty line. We think that this surveillance pricing practice also unfairly targets people with mobility issues or transportation challenges who are more likely to rely on online shopping and already have limited ability to go store to store to comparison shop. We do not want that to also impact their online shopping. So in short, we see surveillance pricing as a rip-off to consumers, and particularly to consumers who are already more vulnerable. I am happy to continue to work with the City Council on any future amendments to this Bill, but we stand in strong support. Thank you. We look forward to the City Council passing the Bill.
+
+**(01:47:21)**
+
+
+
+Thank you. Thank you. And Lee...
+
+**(01:47:27)**
+
+
+
+Good morning, Chair Epstein and Committee members. My name is Lee Hepner. I am Senior Counsel at the American Economic Liberties Project. I am going to start by thanking this Committee for taking up this issue this morning, and the Council members who have brought these bills forward.
+
+I want to provide a little context here, which is that I think this is perhaps the defining consumer protection issue of our time. Complex technologies have certainly delivered remarkable benefits to society. I think this is one where you will find that most consumers are frankly fed up with feeling that they are constantly being scanned. I do think that it is further driving a crisis of inequality and economic division at a very perilous time for our democracy.
+
+Just on the details of Int 0891-2026, I will be submitting written comments as well. I want to play a little defense because most of my affirmative comments have been made by prior panelists. I want to impress on this Council that personalized discounts, or a prohibition only on surveillance pricing if it results in a higher price, is a sleight of hand. There is no such thing as a personalized discount that is not just ubiquitous price discrimination. For the same reason, prohibiting surveillance pricing only where it results in a higher price, or allowing surveillance pricing if it results in a lower price, does not make sense when every price in the market is different. Every single price will be higher or lower than another price in the market and therefore exempt. This is a Trojan horse that we have seen in jurisdictions where we have worked, where a personalized discount is the thing used as a veil for exactly the discrimination this legislation seeks to prohibit.
+
+I think the imperative before this Council, as other panelists have noted, is to protect loyalty memberships and rewards programs from being exploited as vectors for abuse. That is the data and those are the examples we are looking at. This is exactly what is happening. We can acknowledge these programs... time is expired. But I do think it is imperative on this Committee to tighten up those definitions, to insert a private right of action, and I am happy to submit more fulsome written comments to this Committee.
+
+**(01:49:39)**
+
+
+
+Thank you so much. Thank you all for flagging that. I want to turn back to the last panel and see if you could respond to some of their statements around loyalty and discounts and trying to protect those as they framed it. I am wondering how... I mean, do the EPIC folks or folks on Zoom feel about those loyalty programs and what we heard from the last panel about the need to preserve those versus, you know, the honest concern that we have around not really having a real price and discounts really not existing through those programs? Go ahead.
+
+**(01:50:27)**
+
+
+
+And thank you for that question. So I think... I think that the current language of the Bill does protect discounts that are offered uniformly to everyone, which means birthday discounts — if it is stated publicly and everyone knows — just because everyone's birthday is on a different day, it does not mean that it is not uniformly offered. So I think the Bill language protects that. I think the issue with presenting loyalty discounts as something... can I ask you a question? Do you think if it is offered widely — like if you...
+
+**(01:51:03)**
+
+
+
+...spend $300 to get a 10% discount — is that offered widely? Is that the same as the birthday discount in your mind?
+
+**(01:51:10)**
+
+
+
+I would think so, because the terms are known to everyone and it is offered widely to anyone who can claim it.
+
+**(01:51:17)**
+
+
+
+I guess the same thing — if you get a reward program like, say, you sign up for Hilton's rewards and if you stay 20 nights at the Hilton you get a discount, and if you have stayed 70 nights at the Hilton then you get a bigger discount. You see, that is offered widely because everyone can have access to that?
+
+**(01:51:33)**
+
+
+
+I think the language of the Bill does allow for that, if those conditions are clearly stated and uniformly available to anyone who meets that criteria.
+
+**(01:51:44)**
+
+
+
+And I think the bigger issue with just broadly exempting loyalty programs is that if they are used to offer discounts, that means everyone is going to want to sign up for the loyalty programs because they do not want to pay more for things. But then the end result is everyone is giving up their personal data. Again, there is no comprehensive data protection in New York yet, and so that data can be used for other purposes and that can lead to more privacy issues — like the data being sold to data brokers, as was brought up earlier.
+
+**(01:52:16)**
+
+
+
+Earlier. Yeah. And folks on Zoom — I do not know, Alex, do you have a sense? Do you feel the same way? I do not want to wade into an expertise I do not have. It is out of my lane, Council member. But I guess intuitively my thought is, and aligned with our testimony, is that if you start breaking down at the municipal level these sorts of dynamic pricing laws and they are different in every locality, how then will businesses be able to administer programs across many different regulatory frameworks to provide loyalty perks? It feels like when we start passing these types of laws at the most local level, it is going to be a disincentive to want to continue this at a broader level. But I am not an expert and that is not my lane.
+
+**(01:53:02)**
+
+
+
+Thank you. And I am focused on Zoom. I want to give Lee or Kristen a chance to respond if you feel differently.
+
+**(01:53:10)**
+
+
+
+I just want to say that there is no imperative for businesses to engage in individualized price discrimination, surveillance pricing or hyper-dynamic pricing. Most small businesses you will find do not do this and would not be affected by this type of legislation. In fact, oftentimes what we have observed is that they feel like online platforms are controlling their ability to set their own prices, and it is the online delivery platform that is creating the confusion around what the price of a good or service is that is offered by the third party seller. So I think that, relative to there being a patchwork of regulation, the default position of this committee and our organization is that there is no need for corporations to engage in this discriminatory behavior in the first place.
+
+**(01:54:00)**
+
+
+
+And I will just add from our end: we believe this Bill protects the discounts that many older adults enjoy.
+
+**(01:54:10)**
+
+
+
+That was really helpful. Thank you all for your testimony today. There are two final registrants on Zoom. I think it is Jessica Walker and Camora... okay, Korea Faria, are you on? We can take you. Not here. Okay, so then we have another person in person, Christopher Leon Johnson. I think he is our last person. So if anyone else is here who wanted to testify, this is your last moment to sign up. Yes, ready. Thank you.
+
+**(01:54:57)**
+
+
+
+Chair, my name is Christopher Leon Johnson. I support both Int 0891-2026 and Int 0892-2026. I want to say right now that what the City Council has to be aware of is that we have a lot of special interests — like certain advocacy organizations and street blogs and open platforms — that get money from DoorDash and Uber, and that are largely complicit when it comes to surveillance pricing, including those people outside that delivery hub. There is a worker justice project that gets money from DoorDash and Lyft and Uber, and they are going to be against this Bill. Because what is going to happen down the line is that they are going to come to you and lobby against this Bill. Because if this Bill becomes law, especially Int 0891-2026 with surveillance pricing, that hurts the pockets of the apps. And when their pockets get affected, it hurts the nonprofits' money because they get money from those apps. So do not be surprised when they start coming out and opposing these Bills, and street blogs start making up articles saying why this Bill is a flawed Bill, and they start intimidating you into not supporting this Bill or even shelving these Bills.
+
+I want to say right now that going forward, I think the Council — like I said, I support it 100% — but we have got to be careful about these nonprofits, especially when it comes to Debbie Almontaser, because she gets money from DoorDash. And when I found out from people last night that she signed up people within her community to DoorDash, and they are opposed to that... I hope that going forward you start to understand that these nonprofits, including Debbie Almontaser, are connected to people who will start coming to your office and telling you that you cannot support this Bill because they already get money from the apps. Especially DoorDash, Lyft and Uber. Because like I said, when their money gets affected first, they are going to hurt their pockets. So the bottom line is that is what matters most. Thank you so much and enjoy your day.
+
+**(01:56:59)**
+
+
+
+Thank you very much. Hearing no other testimonies, this hearing is closed.
