@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 51 of 51</span>
+            <span id="hearing-count" aria-live="polite">Showing 52 of 52</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -449,6 +449,19 @@
                     </time>
                     <span class="hearing-row__committee">Committee on Contracts</span>
                     <span class="hearing-row__title">Transparency and Accountability in the City&#39;s Use of Master Agreements</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Higher Education"]'
+                data-title="Racial Equity at CUNY"
+                data-month="2026-06">
+                <a href="/hearings/committee-on-higher-education-racial-equity-at-cuny-2026-06-17/">
+                    <time class="hearing-row__date" datetime="2026-06-17">
+                        June 17, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Higher Education</span>
+                    <span class="hearing-row__title">Racial Equity at CUNY</span>
                 </a>
             </li>
         
@@ -1171,7 +1184,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 51;
+        var totalHearings = 52;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
