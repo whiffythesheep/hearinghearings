@@ -5,6 +5,8 @@ __pycache__/
 *.log
 Input/
 word_bank.json
+# Assembled weekly digest HTML (ephemeral, pasted into MailerLite by hand)
+weekly_digests/
 # Ad-hoc screenshots dropped in the repo root for debugging
 /*.jpeg
 /*.jpg

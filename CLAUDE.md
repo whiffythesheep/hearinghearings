@@ -144,6 +144,20 @@ Preview group setup (still required if/when `--send-email` is used):
    MAILERLITE_PREVIEW_GROUP_ID=<id>
    ```
 
+### Weekly digest (`weekly_digest.py`)
+
+`weekly_digest.py` assembles a ready-to-send **weekly** digest email — the replacement for the old per-hearing automated send. It is standalone (no API key) and decoupled from the pipeline: it reuses the pure helpers in `site/build.py` (`parse_front_matter`, `split_summary_transcript`, `truncate_text`, `SITE_URL`, `CONTENT_DIR`) and mirrors the Win95 chrome of `_render_email_html()`.
+
+```bash
+python weekly_digest.py                                   # trailing 7 days
+python weekly_digest.py --since 2026-06-15 --until 2026-06-21
+python weekly_digest.py --sentences 3 --output digest.html
+```
+
+It collects every hearing in the date window (default: trailing 7 days, overridable with `--since`/`--until`), pulls the **first 2-3 sentences of each Meeting Overview verbatim** as a brief (sentence splitter guards against ellipsis/abbreviation false breaks), and writes a self-contained HTML file to `weekly_digests/weekly-digest-<until>.html` (gitignored). It prints the matched hearings and a suggested subject line. The HTML has a clearly marked `<!-- COMMENTARY -->` block for the hand-written opening; the user fills that in, sets the subject, and sends.
+
+**Send route:** MailerLite's **Custom HTML editor is gated to paid plans until 2026-07-01**, when the user's free account transitions and gains it (Create Campaign → Custom HTML editor → paste). The script's output is built for that editor. **Caveat:** the same 2026-07-01 free-plan update drops limits to **250 active subscribers / 2,500 emails per month** (the "1,000 subscribers" figure above is now stale) — migrate ESPs before the list approaches 250.
+
 ## Inherited standards
 
 - Excel naming (`YY.MM descriptive name`), formatting (Aptos Narrow 11, Notes/Raw tabs) from `~/.claude/CLAUDE.md` still apply for any spreadsheet outputs
