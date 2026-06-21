@@ -14,13 +14,6 @@
         {% if hearing.chairs %}
         <div class="hearing-leadership">
             <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
-            {% if hearing.members_flat %}
-            <span class="meta-sep">·</span>
-            <details class="leadership-members">
-                <summary>Members ({{ hearing.members_flat|length }})</summary>
-                <span>{{ hearing.members_flat | join(', ') }}</span>
-            </details>
-            {% endif %}
         </div>
         {% endif %}
         <div class="hearing-meta">
