@@ -1,0 +1,927 @@
+Evaluation of DYCD's Beacon and Cornerstone Programs
+Committee on Children and Youth · June 23, 2026 · 2hrs 6m
+Source: https://hearinghearings.nyc/hearings/committee-on-children-and-youth-evaluation-of-dycds-beacon-and-cornerstone-programs-2026-06-23/
+
+================================================================
+
+(00:00:16)
+
+Good afternoon. Welcome to today's New York City Council hearing for the Committee on Children and Youth. At this time please silence all phones and electronic devices. If you wish to speak in today's hearing please fill out an appearance card with one of the sergeants. Moving forward, no one is to approach the dais.
+
+(00:00:41)
+
+Good afternoon. Welcome to today's hearing on the Committee on Children and Youth. I am CM Althea V. Stevens, Chair of the Committee. Thank you for joining us here today. This Committee will be evaluating DYCD's Beacon and Cornerstone programs.
+
+In addition to the oversight topic, we will also be hearing the following resolutions. Res 0032-2026, sponsored by a Council member, setting aside a portion of revenue from state betting to support youth sports programs, upgrade communities to support infrastructure and expand access to recreational activities for young people. Res 0142-2026, by a Council member, calling for the establishment of the Center for Fatherhood Initiatives under the Office of Children and Family Services. Res 0161-2026, by Deputy Speaker Williams, calling for the establishment of a baby bond pilot program for foster youth. Res 0217-2026, sponsored by a Council member, calling for the regulation of false or misleading advertising related to food products to protect children. Res 0276-2026, sponsored by Deputy Speaker Williams, which will create a targeted, means-tested guaranteed income program for low income individuals, young adults and foster youth. Res 0277-2026, by Deputy Speaker Williams, calling for the creation of a federally funded savings account for every child. And Res 0278-2026, also sponsored by Deputy Speaker Williams, calling for the management of funds in eligible child care bank accounts by the State Comptroller.
+
+Those are all the resolutions we are hearing. So now we will actually get to what we are really here for.
+
+For decades, Beacon and Cornerstone have been trusted neighborhood institutions. They provided young people and adults with safe spaces to learn, build relationships, develop skills, access support services and engage with their communities. Today there are 92 Beacon programs and 100 Cornerstone programs operating throughout the City that serve tens of thousands of New Yorkers each year. This number reflects the significant demand for accessible community-based programming and the critical role that those programs play.
+
+Those programs are particularly important at a time when many young people continue to face significant challenges, as young people are experiencing extraordinarily high rates of loneliness, anxiety and social isolation. Research consistently demonstrates that participation in structured community-based programs improves educational outcomes, strengthens social connection, supports mental health and promotes positive youth development.
+
+At the same time, today's hearing provides an opportunity to assess whether our investments have kept pace with the expectations we have placed on these programs. The last comprehensive Beacon procurement was issued in 2017 and the last Cornerstone procurement was issued in 2015. We have continued to deliver services through contract renewals and extensions, but providers have consistently raised concerns regarding funding levels, staffing challenges, security costs and conditions of the facilities. Many providers report that they are absorbing substantial costs beyond their contract awards to continue operating these vital programs.
+
+As we look at the future, it is important that we evaluate whether providers have the resources necessary to meet the needs of the communities they serve. We look forward to discussing DYCD's plan for future procurement, youth programming expansion and opportunities to strengthen community-based programs citywide. Their testimony and testimony from community members will help inform how the City can continue to support these critical community institutions.
+
+Before we begin I would like to thank Committee staff including our Senior Policy Analyst Elizabeth Artz, our Senior Committee Counsel and our hard-working staff back at District 16. I will now turn it over to Committee counsel to swear in the administration.
+
+I do have another statement to read. This is from CM Nantasha M. Williams. As a member of the Committee on Children and Youth, I am submitting a statement on Res 0161-2026, Res 0276-2026, Res 0277-2026 and Res 0278-2026.
+
+Wealth inequalities have often been described as one of the defining issues of our time. However, while the wealth gap in our country and our City has reached alarming levels, we know those disparities are the result of deep-rooted historical and systematic discrimination against some of the most marginalized communities, particularly Black and Brown families. The median household net worth for Black families is 14 times lower than that of white families in New York. This reality is again underscored by the fact that state, City and federal government have long known about and at times failed to adequately address those who have been historically disadvantaged. They have also been systematically denied meaningful opportunities to build financial security for themselves and future generations, despite longstanding barriers that continue to perpetuate the cycle of poverty.
+
+Lawmakers at every level of government have introduced legislation aimed at narrowing the wealth gap. One proposal that has gained significant attention is the creation of a so-called baby bond program. These programs establish government-managed savings accounts for newborns, helping create long-term financial assets that can be accessed in adulthood.
+
+Res 0161-2026 will call on the New York State Legislature to pass Assembly Bill A.7415, sponsored by Assembly Member Khalil Anderson, which would establish a baby bond pilot program for foster youth who disproportionately face financial instability in adulthood. Res 0277-2026 will call on Congress to pass S.441/HR 1041, also known as the American Opportunity Accounts Act, sponsored by Senator Cory Booker and Congresswoman Pressley. Res 0278-2026 will call on New York State to pass Senate Bill S7487C and an Assembly Bill introduced by Senator Jamal Bailey and Assembly Member Michael Benedetto. These will require the State to deposit a thousand dollar allocation into accounts managed by the Comptroller. Additionally, Res 0276-2026 will call on Congress to pass legislation creating a means-tested guaranteed income program for low income individuals, young adults and foster care youth.
+
+Research also shows that even small amounts of savings can have long-term impacts, including reducing future student loan debt, lowering financial stress and increasing household wealth, with particularly significant gains for Black and Latino families. These findings make it clear that even modest investments in financial security can create meaningful generational change. We must continue to advance serious conversations and bold policies that help close the wealth gap and expand opportunities for our young people. Thank you.
+
+I would like to acknowledge CM Felder and CM...
+
+(00:02:16)
+
+Borough... oh, thank you for being here, Council member. Brewer, only the two of you are here. I know, I know. We are so blessed. And let me tell you, get ready because CM Brewer is serious about the community centers. So we will now hear testimony from the administration. Before we begin I will administer the...
+
+(00:08:52)
+
+Good afternoon, Chair Stevens and members of the Children and Youth Committee. Let me bring it closer. Good afternoon, Chair Stevens and members of the Children and Youth Committee. I am Wanda Ash-Ral, Associate Commissioner of the New York City Department of Youth and Community Development. I am joined by my colleague, Assistant Commissioner for Community Centers. Thank you for the opportunity to discuss the Beacon and Cornerstone community centers.
+
+DYCD's community centers include 92 Beacon programs located in public schools across New York City and 100 Cornerstone programs operating in New York City Housing Authority developments during non-school hours on weekdays, weekends and in the summer. Each center transforms its host location into a resource for the whole community by offering an integrated range of programming tailored to local needs. For all participants, especially youth, community centers offer a safe place to engage in recreational activities, discover new interests, acquire skills and find opportunities to contribute to the community. Guided and supported by program staff, centers provide activities and services for school-aged youth, families and adults ages 20 years and older, including seniors. In keeping with the original concept, programs make special efforts to engage hard-to-recruit youth and young adults in activities that foster positive youth development, social-emotional learning and leadership skills.
+
+DYCD community centers have a broad reach. In fiscal year 2025, programs served more than 62,000 youth and 17,000 adults. Cornerstone programs range in size from smaller centers to large multipurpose community spaces. In fiscal year 2025, Cornerstone community centers served over 21,000 young people and 6,700 adults.
+
+DYCD monitors program performance and provides technical assistance to help programs reach their contract and community goals. DYCD program managers make periodic onsite visits to programs to ensure that sites are welcoming, properly staffed, engaging the community and operating at full capacity. DYCD program managers also monitor whether enrollment and attendance are consistent with contracted levels and program goals. DYCD's evaluation and monitoring system, DC Connect, documents detailed program evaluations in four key sections: program practice, program compliance, administration and outcomes and outputs. If a program does not meet the established standards, DYCD may issue a strategic action plan or a corrective action plan and provides onsite coaching and capacity building resources if there are issues or indicators that need serious and formal correction. This includes but is not limited to contract compliance, program quality and outcomes and safety violations.
+
+Beacon and Cornerstone community centers host specialized activities and participate in various citywide initiatives to support and enhance offerings to the community. These include Saturday Night Lights, which is a sports program that has enhanced community center programming by offering young people year-round free sports and enrichment activities on Saturday evenings. The Saturday Night Lights program provides basketball, soccer, dance and other sports and arts services in community centers and schools, most of which are co-located with Beacon and Cornerstone programs. There are 141 programs throughout the City, of which 46 are located in Beacon and 50 are located in Cornerstone community centers. In fiscal year 2025, programs served 4,424 participants.
+
+We also offer mental health support services. DYCD participated in a pilot initiative in partnership with the Mayor's Office of Community Mental Health to introduce new skills for program staff on mental health coping strategies they can use to work with young people. In partnership with the New School Center for Global Mental Health, DYCD facilitated the first adaptation and implementation of Early Adolescent Skills for Emotions, referred to as EASE, in the United States. The intervention was specifically developed to provide a scalable, culturally adaptable and preventive model of care for youth experiencing symptoms of anxiety, stress, depression and other forms of psychological distress. The EASE initiative focused on Beacon and Cornerstone community centers by training center staff to support children in identifying and understanding their emotions, building on their strengths and practicing a host of social and emotional learning skills. EASE also supported caregivers in practicing active listening, positive discipline, spending quality time with their children and practicing self-care.
+
+My New York Story is an intergenerational storytelling initiative developed in partnership with the New York City Department of Aging that brings together older adults and young people to build meaningful relationships through shared experiences, dialogue and creative expression. Over the course of a six-week program, participants engaged in guided storytelling workshops that encouraged them to explore themes of identity, resilience, community and belonging while learning from one another's lived experiences. The program culminated in a citywide celebration where young people and older adults showcased their stories and reflected on the connections they formed across generations. In 2026, the program paired four DYCD Cornerstone sites with neighboring older adult centers including East Chester Community Center, Cypress Hills Pink Arm Community Center and Grand Street Settlement Roosevelt Community Center. Through weekly workshops, participants strengthened intergenerational understanding, developed communication and leadership skills and created a shared space where personal histories could be preserved and celebrated. The culminating event highlighted the power of these connections and demonstrated how intergenerational programming can foster empathy, civic engagement and stronger communities across New York City.
+
+Step It Up — our annual Step It Up program was a huge success. Step It Up is the City's premier youth and social impact initiative, empowering young people to use dance, storytelling and expression as tools for advocacy and community change. More than a competition, Step It Up challenges youth teams to develop original performances and accompanying social campaigns that address issues affecting their communities. On June 4, 2026, 10 finalist teams representing DYCD-funded Beacon and Cornerstone and Compass programs across New York City took the stage at the historic United Palace before a crowd of 1,100 attendees to raise awareness about critical topics including teen violence, domestic violence, incarceration, peer pressure, discrimination and cyberbullying. Through months of preparation, participants strengthened leadership, teamwork, public speaking and civic engagement skills while amplifying youth voices on issues that matter most to them. The 2026 Step It Up Championship was awarded to two Beacon and two Cornerstone community centers.
+
+DYCD and community center providers are busily preparing for summer programming, which will include summer camps, swimming and expanded summer programming hours in Cornerstone community centers. Thank you. We look forward to answering your questions.
+
+(00:09:49)
+
+It is not only my favorite topic — they have a special place in my heart. Because if you come to the many hearings that I have had, I have always talked about spending a lot of time running community centers. I just feel like we did all the work.
+
+Let us jump into some of these questions. DYCD has not had a new Beacon RFP since 2017. What is the agency's timeline for releasing a new concept paper or RFP for Beacon community centers and what factors contributed to the delay? I also want to put out there that we are still in the middle of the after-school RFP, but I have to ask the questions because this is important. That is a long timeline and I think part of the issue and confusion around this RFP is because they have had them so long that people are like, "Wait, I do not want to change." So not having our RFP does not work either.
+
+So I would really love to hear — is there a plan? Are there talks? Is that in the works? I am trying to figure out where we are at with that. Because Beacon is one of the things I actually love, because when you think about it, we cannot build that many community centers. So this allows us to activate the schools in our community to now be community centers. I think that in spaces that do not have community centers we should be looking at using more schools. I remember the last mayor had talked about that but it never came to be, but whatever.
+
+(00:19:02)
+
+>IT'S NOT ONLY MY FAVORITE TOPIC IT'S THEY HAVE A SPECIAL PLACE IN MY HEART BECAUSE IF YOU COME TO THE MANY HEARINGS THAT I'VE HAD I'VE ALWAYS TALKED ABOUT I SPENT A LOT OF TIMES RUNNING COMMUNITY CENTERS AND I JUST FEEL LIKE WE DID ALL THE WORK BUT .>>YOU KNOW I THOUGHT THAT WAS THE BEST PLACE BUT UM. >LET'S JUMP INTO SOME OF THESE QUESTIONS UM THE OCD HASN'T HAD A NEW UM BEACON R OF PEACE SINCE 20 17 .>>WHAT IS THE AGENCY'S TIMELINE FOR LEASING A NEW CONCEPT PAPER RFP FOR BEACON COMMUNITY CENTERS AND WHAT FACTORS CONTRIBUTED TO THE DELAY I ALSO WANT TO PUT OUT THERE WE'RE STILL IN THE MIDDLE OF THE AFTER SCHOOL R P P .>>BUT I GOT TO ASK THE QUESTIONS BECAUSE THIS IS IMPORTANT BECAUSE THAT IS A LONG TIME LINE AND I THINK THAT LIKE PART OF THE ISSUE AND CONFUSION AROUND THIS RFP IS BECAUSE THEY HAVE THEM SO LONG PEOPLE ARE LIKE WAIT I DON'T WANT TO CHANGE AND SO US HAVE NOT HAVING OUR PIECE DOESN'T WORK EITHER. >SO I WOULD REALLY LOVE T OHEAR LIKE WHAT'S IS THERE A PLAN ARE THERE TALKS IS THAT IN THE WORKS AND TRYING T OFIGURE OUT WHERE WE'RE AT WITH THAT .>>BECAUSE BEACON'S IS ONE OF THE THINGS I ACTUALLY LOVE BECAUSE WHEN YOU THINK ABOUT WE CAN'T BUILD WE DON'T HAVE THAT MANY COMMUNITY CENTERS .>>SO THIS ALLOWS US T OACTIVATE THE SCHOOLS IN OUR COMMUNITY TO NOW BE COMMUNITY CENTER SO I THINK THAT IN SPACES THAT DON'T HAVE COMMUNITY CENTERS WE SHOULD BE LOOKING AT USING MORE SCHOOLS AND I REMEMBER THE LAST MAYOR WE HAD TALKED ABOUT THAT BUT I NEVER CAME TO BUT WHATEVER.
+
+(00:20:38)
+
+I appreciate the question, and Beacons are dear to my heart. I have been working with Beacons for over 20 years, so definitely dear to my heart. Community centers are incredibly important to the neighborhoods they serve. They operate as a true community hub, serving young people and families. You have seen the increase in young people's engagement in the PMR and the MMR, and adult engagement. That is a testament to the need for these services in this community.
+
+Our commissioner has testified before, but we are committed to releasing a concept paper at some point to really realign the model. We want to be intentional about what the services are currently, the model itself, and we are going to take deeper dives on that. We are really going to look at the funding and be intentional about what is the funding, what is the cost of operating a robust, holistic community center that not only serves young people but is also serving adults and seniors and the larger community. We really want to look at what does it take to operate, what are the staffing needs, what is that structure. We are looking across our entire footprint, including the fatherhood work. We are looking at all of those different pieces and really looking at the funding and figuring out what does that look like in the community center.
+
+I think a lot of the work that is being done needs to be connected. In your testimony you spoke about one of the programs that I do not like as much, which is the Lights On program, which I have never been shy to explain my feelings about. Can you explain that? That has been in both the Beacons and in the Cornerstones, and one of the reasons why I do not like it is because it is a standalone program and it does not make sense. So my
+
+(00:22:46)
+
+question is: are you guys looking to roll that just into the model moving forward, and why was that not done originally, to not just have that become part of the program model when you did one of these contract extensions or something like that? Just so the green light means it is on, so turn it back. Yeah, okay, great.
+
+(00:23:07)
+
+Thank you. I cannot speak to how the timing and how it all rolled out, but what I can say is that we are not planning to have an RFP for that, but we are looking at ways to realign it and think about whether or not, to your point, it makes more sense to integrate it into a future concept paper and RFP. So that is the exercise that we are doing internally, to discuss how this lives within the fabric of our community centers.
+
+(00:23:47)
+
+The programming in itself makes sense, but it does not make sense to me as it stands alone. I think that it should be a part of the program. I think some of it started out as a separate program, and what happens is people hear things when it is good and then everybody wants it. So I think that it was one of those moments where we should have stepped back and said, wait a minute, we could just expand this throughout all of the portfolio as opposed to having the touch points in the way we do. So I am happy to hear that that is something that is being considered.
+
+In 2017, DYCD issued two Beacon RFPs. The first RFP was for 76 weekend standalone programs. The second was for 15 Beacons with programs which provided community-based prevention programs for families with youth at risk of foster care placement. Those RFPs were set to expire in 2020 with the option for renewal for an additional three years. Given that this is now six years past the initial end date, can you please give me an update on whether those 76 Beacon standalone programs and 15 Beacons with programs are still available, what the level of funding available for them is, and whether there have been adjustments that have or will be made
+
+(00:25:00)
+
+to those programs? So when we issued the RFP for Beacons back in 2017, yes, we did have a preventive component. Since then, we no longer have the preventive piece attached to a Cornerstone. We have since moved those services, and those services are under ACS supervision now. Yes, the funding and monitoring of those programs is done directly. So that piece was pulled out and Beacons were left. Yes, yes, that is the case.
+
+(00:25:48)
+
+Well, I was looking so shocked because my brother in government, Assembly Member Landon Dance, just walked in the room. Love that. Since the 2017 procurement, how have Beacon contracts' budgets changed to account for inflation, wages and rising operational costs?
+
+(00:26:17)
+
+So over the years we have worked with indirect costs. Wages and indirect expenses have been allocated to the budgets for non-federally funded programs. DYCD has honored the City's approved indirect cost rate for any of the contracts, and then for federally funded programs we complied with the regulations and negotiated indirect cost rates if they exist. We have been able to address those pieces in that way.
+
+But again, we are looking at this — it is a 10-year-old contract and budget — so we are intentionally looking at the funding allocations and the true cost of operating a program. We hope to continue those conversations and have stakeholder engagement, working with our oversight organizations and City Hall and the Council to help inform what the allocation should look like. Because Beacon programs operate within public schools, strong coordination with school leadership is essential.
+
+(00:27:34)
+
+What challenges exist in maintaining partnerships between Beacon providers and host schools, and what support does the agency provide when conflicts arise regarding space, scheduling and program operations? I mean, especially because they have been around for so long, a lot of those partnerships are like 20 years in at this point. So I think it looks a lot different, but I guess can you talk a little bit about what those challenges still might be that you are having? Because I remember when I was in school and there was a Beacon there,
+
+(00:28:05)
+
+there would just be a lot of issues around the opening of the building and who was going to be there and all those things. I will say that Beacons are part of the fabric of the school and the community and they serve as a critical hub. Making services available to families and making sure that it is quality services is important. We work very closely with the Department of Education, both at the central level but also at the ground level. My team operates on two tiers. On the ground level, our partners work very closely with the principals to have access to space. The schools allocate space, the Beacons have access to office locations, and then we work closely with the Department of Education where we cover the expenses for extended use, including evening use of the space. We work with our CBOs on ensuring that they have a standing meeting with their principals to go over school safety. At the end of the day, we want to make sure that young people, the participants and the staff are safe, so they are required to work closely with the school on safety and putting systems in place.
+
+(00:29:23)
+
+Providers have raised concerns that school administration restricts community access to buildings outside of school hours. How does DYCD ensure that Beacon sites remain accessible to community members outside of school hours? Has the agency received complaints regarding restricted access to the facility? It is a dance, it is a
+
+(00:29:45)
+
+dance. I think that principals and school administrators and public schools in general know the value and the importance of community engagement. One of the things that they have highlighted before is that our Beacon programs are really good at engaging families and engaging the larger communities. So the principals are now figuring out how to leverage that resource and that opportunity to expand their reach to families and community members. We are seeing an uptick in more collaborative engagement and dialog to ensure that families outside of the school are being served. We support the CBOs in making sure that those things are
+
+(00:30:38)
+
+addressed. I mean, I think it is always a work in progress, but again, I know that because Beacons have been around for so long they have a very different relationship. The RFP requires each Beacon program to maintain at least three community partnerships and operate an advisory council. How does DYCD assess the quality and effectiveness of those partnerships, and are providers receiving sufficient resources to support that community work and engagement?
+
+(00:31:08)
+
+So all of our providers in the contract, yes, they have partners but they also have co-locators. The idea is to be able to leverage those resources so that it is not an additional cost to them. So if there is a co-locator able to provide dance and they are unable to do so, that co-locator can expand their services and their reach to the participants of the Beacon as well as clients that they are bringing into the school. The idea is to ensure that our CBOs reach out to their local organizations and communities to bring in those resources. How we support them is that sometimes we send them resources, sometimes someone will reach out to us directly, and oftentimes we will say, okay, we have a potential partner that provides services in your community, can you meet with them? It is usually a win-win conversation. The incoming smaller organization has been able to use the space at no cost to them. So we
+
+(00:32:16)
+
+do it in that way where they can kind of partner on the ground. The RFP in 2017 required Beacons to conduct targeted outreach to reach chronically absent youth and encouraged providers to employ dedicated outreach coordinators. What feedback has been collected on the effectiveness of those outreach requirements? As far as having dedicated personnel to do outreach, it allows the program to have that individual alleviate the work of a director or assistant director. This dedicated person is able to bring in and make connections to hard-to-reach young people. How do you use that work? I am also thinking about how to educate not only those speaking to programs but across the spectrum, because there are so many programs that are working with young people. We definitely want to take a deeper dive because that was part of the 2017 model.
+
+(00:33:31)
+
+So as we are looking at and unpacking all the different components of the current model, that is going to be one area that we are going to take a deeper dive on and see what has been working, what has not been working and the effectiveness. To your point, however, we have been able to strategically target those outreach coordinators to provide them with technical assistance on how to engage a young person and how to engage families. We have hosted meetings specifically for the outreach coordinators and we have also made intentional connections on the ground with our local Cornerstone programs and also our Cure Violence groups in the neighborhood.
+
+(00:34:21)
+
+The 2017 Beacon RFP significantly expanded expectations for providers by requiring them to function as youth development programs, family support centers, community hubs, referral networks and outreach organizations. Nearly a decade later, what aspects of those models has the agency concluded are working well, and what aspects would the agency redesign if they were issuing a new RFP today?
+
+(00:34:50)
+
+Again, that is one of the things that we were planning to look at more closely to determine the effectiveness and figure out the program moving forward. So there is no one piece that none of these
+
+(00:35:05)
+
+are, like, something we should be moving on from, or...
+
+(00:35:09)
+
+You are still evaluating it.
+
+(00:35:13)
+
+I am just making sure. Can I be the answer to every question? Where were the total enrollment numbers for Beacon sites in fiscal year 2025? Can you break this down by youth and adults? Are there any sites that struggle to meet enrollment targets? If so, what factors contributed to those challenges? Okay, so in fiscal year 2025, to break it down: for Beacons in fiscal year 2025, we served 62,000 youth and 17,000 adults. How that breaks down by grade level — elementary, middle and high — so for fiscal year 2025, elementary, rounding up, about 18,000 young people; middle school, 17,000; high school, 11,000; and the adult population, over 17,000. Community events always have a large number, and over 126,000 community members have attended or accessed these services. That was it.
+
+(00:37:19)
+
+Did you want something for that? It was not for the Cornerstones, right? Specific to the Beacons? Those would be just specifically Beacons.
+
+(00:37:27)
+
+I am going to get into Cornerstones now.
+
+(00:37:31)
+
+I just want to say before we transition into Cornerstones, one of the things we were going to do was invite NYCHA to have a conversation about it, but then I felt like if we invited NYCHA then this whole hearing would be about the repairs, because that is such a real thing and that is probably the biggest issue. When I was in the community it just drove me the craziest. I had one center that had a roof that
+
+(00:37:58)
+
+leaked, and another center where every time it rained, it rained in the community center.
+
+(00:38:01)
+
+All those issues are prevalent in a lot of community centers, and then we have been hearing even issues around developments that turn people away. There is a lot. So we did not bring them in because we did not want the whole hearing to be about that, but we are looking to plan on having a deeper conversation with NYCHA ourselves to see if we can have a more comprehensive hearing, because I do think we are at the point where there is not a lot of clarity about moving forward.
+
+I say all that to say there are obviously going to be some questions about it, and I know what you are going to say, so I will just thank you in advance for the questions we are going to ask. I guess the first question I am going to ask is: Cornerstone providers have repeatedly raised concerns regarding facility maintenance, security issues and access to community center space within NYCHA developments. How does DYCD coordinate with NYCHA to address those issues? When providers report maintenance or safety concerns, what is the process for resolving them, and how does DYCD ensure that communication between providers and NYCHA is timely and effective? I will say this: since I have left, which was four years ago... wait, I have been gone five years.
+
+(00:39:12)
+
+Since I have not been at NYCHA, I have heard that it is a little bit better. I did hear that it was a little bit better.
+
+(00:39:22)
+
+Like a little bit. I will take it.
+
+(00:39:24)
+
+I will take that little bit. I will say this: we have had a really good relationship over the years. When we started back in 2010, there were obviously growing pains. But I think since then, 15 years later — we just celebrated 15 years — we do have a really good working relationship with NYCHA. We have standing meetings, monthly meetings and weekly meetings to speak specifically about facilities-related items. We have a team, and they have folks that are dedicated to addressing any facility-related items. We have also been very proactive in developing a centralized system that allows our CBOs to enter tickets into the system, and then we work towards resolving them. You guys are also tracking the tickets now. Yeah, we have.
+
+(00:40:24)
+
+Yeah, that is what I heard, that you guys are tracking tickets. Yeah, we were not doing that before. Yes, yes. So we are tracking that, and we
+
+(00:40:32)
+
+also have been able to procure, I think, about three vendors that are dedicated to triaging anything that comes through for us. They dispatch them out and then the work can get addressed.
+
+(00:40:47)
+
+There are whenever there is a structural issue... related to your point, like I have
+
+(00:40:53)
+
+leaks. I had a room with leaks and I had a building upstairs and it could have been somebody leaving on the dishwasher.
+
+(00:40:58)
+
+In those instances we work really closely with NYCHA, and those weekly meetings are really critical in addressing those facilities-related issues that our vendors cannot address. So we work in tandem with NYCHA on those things. One of my challenges had always been, even when I was in the community center, there are residents who are also waiting to get their apartment fixed who live there, and then it is like I am worried about the community center. So it is also a challenge of how do they prioritize and what does that look like.
+
+So my next question is: DYCD has not issued a new concept paper since 2015. What is the agency's timeline for releasing a new concept paper for Cornerstone centers? Would that be something you would do in conjunction with Beacons or would that be separate? What is the thinking? I love that.
+
+(00:41:57)
+
+Our goal is to release, as I mentioned earlier... our Commissioner really wants to be intentional about what is the right timeline to release those apps. We are, as I mentioned earlier, examining the cost, the funding needs, stakeholder feedback and then just the overall structure needed to support strong programming moving forward. We want to allow that time to also be intentional about engaging the Council and engaging all of our other partners as we develop that. But to answer your question, right now we are exploring the idea of a community center RFP so that it would be inclusive of Beacon and Cornerstone. But we also want to, as we are digging into that, we want to see whether or not that makes sense to do, such as to release two solicitations within one RFP. So those are the things that we are still kind of digging into a little bit more as far as what that RFP could potentially be.
+
+(00:43:03)
+
+According to 2022 testimony before the Committee, Cornerstone providers reported losing money on their contracts, which often only cover little more than their staffing and are insufficient to support other expenses for activities, trips and partnerships. What considerations have been given to redesigning the Cornerstone funding formula?
+
+(00:43:26)
+
+So we are in that process right now, looking at how do we stabilize these programs. I am interchanging Beacons and Cornerstones because they were both issued a long time ago. But we are looking at what is the funding need and what is the realistic cost to determine where there is an opportunity to do any stabilization. So we are in conversations with City Hall to determine what that is while we wait for a potential concept paper and...
+
+(00:44:04)
+
+Ultimately, with Cornerstone specifically, I think I am most frustrated at the staffing model and how there is typically one full-time director and everyone else is kind of part-time. Anybody who knows about running a program knows you need multiple people there for different times. When you are thinking about the expectation around Cornerstone, because I think people forget that Cornerstone sites are open like all the time, because if you are a good Cornerstone you are being responsive to the community. Only having one full-time person becomes very difficult, and then because the budget is already tight, if anyone comes in they then have to use hours and it just never works out and it just does not make sense. So as we are thinking about the concept paper and thinking about how do we move forward, that is one of the things I will definitely be looking at, because I just never understood how that model was supposed to work.
+
+Cornerstone programs are intended to serve as community hubs within public housing developments. Given that NYCHA reports more than 600,000 open work orders and average repair complaint completion is around 444 days, what assessment has DYCD conducted of the physical conditions of Cornerstone facilities? Do you do evaluations of all the Cornerstones and have a record of all the repairs?
+
+(00:45:35)
+
+So we just developed that centralized system, it has been about a year or so. We are planning to look at what are the trends on the timeliness for those facility-related issues. So we are looking at that currently just to see what are the trends and what are the things that we are seeing come up for programs on site.
+
+(00:46:06)
+
+I just have a couple more questions and I will pass it off to my colleagues. If you have questions let me know so we can put you on. CM Joseph has joined. She is not going anywhere. I am going to move on. DYCD has previously discussed...
+
+(00:46:30)
+
+...establishing a formal division of responsibilities that would allow Cornerstone providers to address basic maintenance and repair needs rather than relying on NYCHA's untenable wait times.
+
+(00:46:44)
+
+Provided that DYCD did ratify this division of responsibility and modify their budget to ensure that they are not forced to secure resources from programming to cover basic maintenance... what is the... repeat that question. Okay, if you need me to read it...
+
+(00:47:10)
+
+NYCHA and DYCD have previously discussed establishing a formal division of responsibility that would allow Cornerstone providers to address basic maintenance and repair needs rather than relying on NYCHA's long wait times. So I guess that is what you were talking about with the database that you guys are using and trying to assess. Where are you guys at with trying to have folks being able to get their issues fixed without going to...
+
+(00:47:37)
+
+NYCHA? Yeah, we have a program manager and our providers have us on speed dial, so they do reach out to us regularly if there is something that needs to be addressed or it is impacting programming. We try to be intentional and strategic about that. If I miss anything, Teresa, please... We try to be intentional and strategic. If there is a facility repair or issue that is affecting programming, we quickly activate and work with our other partners, our New York City public schools, to secure a neighboring school in the area so that families can relocate to minimize disruption of services, depending on the severity. Our CBOs regularly communicate with us. We have monthly director meetings and we use those spaces for them to share any feedback. We have also implemented not only a customer service satisfaction survey but surveys to assess feedback from programs. Is there anything I am missing? Yeah, something like that.
+
+(00:49:01)
+
+Okay, it is on. No, no, no, no, no.
+
+(00:49:05)
+
+Okay, we should turn that back off. You will have a heart attack.
+
+(00:49:10)
+
+All right, I am going to pause and pass it over to my colleagues. CM Felder, do you have questions?
+
+(00:49:20)
+
+You pass? Okay. Well, there you go. CM Williams.
+
+(00:49:24)
+
+Thank you very much for all your good questions. My question is on Beacons. I was Richard Murphy's best friend and I am very supportive. I was there when they started. So in my situation on the Upper West Side with Goddard, there is a waiting list and it has been a whole year. I must have 20 friends who have kids who go to work with them after school literally because they cannot get into the Beacon. So I complained to the Chair and that does not do any good. I do not understand why... Murphy would fix this. You have got to fix it. You cannot have these kids after school... I literally have 20 friends who would like to go to that Beacon.
+
+So do we have to wait years for an RFP? How does this work? I mean it is just beyond question. They do not have the money... they want to go to the Beacon, people love the Beacon but they cannot get in. I will say that Goddard definitely has a long wait list, you know, there is very high demand. There is a high demand, you know, the wait list, yes, and...
+
+(00:50:35)
+
+The team at Goddard reaches out to us and we try to problem-solve, to be as creative as possible, and think about how do we expand our reach for these families. There are definitely some pockets across all of our centers where there is a huge and high demand. As we are looking and doing a geographical assessment to determine where there is need, we want to see where we can potentially expand. So that is part of our deeper dive and doing an assessment of community need.
+
+(00:51:16)
+
+I am patient, but I have a question. Is this a matter of more money or more space? What is the hold-up? If you have to do an RFP and you have been talking about it... I get that.
+
+(00:51:23)
+
+But in the interim, is it more money? Because there must be others that have high demand too. I do not want to say here is the dollar amount that we would need because we have to do...
+
+(00:51:36)
+
+I think we want to make sure that we look at what is the funding need, what do we need in order to properly fund these programs and potentially expand. So that is the deeper dive that we need to do now, so that when we do determine whether or not additional dollars are needed or there is an actual need in this community, it is intentional and we have data. Do you have some sense of how many have this kind of wait list? Is it like half or a third or something like that?
+
+(00:52:06)
+
+We would have to get back to you. Okay, all right. But I...
+
+(00:52:10)
+
+Do not... this could be years, what you are saying.
+
+(00:52:13)
+
+I mean I am just saying years for this... and no, our Commissioner is... I know she is on it. But meanwhile, literally 20 friends, I am not kidding when I say 20, are taking their kids...
+
+(00:52:27)
+
+...after school to work with them because there is no other place for them to go.
+
+(00:52:30)
+
+I just have a question too, because even to counter my colleague's question, I know that there are times where even when there are contracts out and then there is an RFP, if they see that it is a long wait list they add slots to programs and places. So my question is, especially if you are even saying that you are getting calls and you know the need, why has there not been a consideration to add additional slots? Is that a capacity thing? I am trying to get an understanding because I do not feel like the question that CM Brewer is asking is being answered.
+
+(00:53:03)
+
+No, and I apologize if it has not been answered. We want to make sure that it is equitable across the board and so we do need to do an assessment to determine where these pockets are and determine where we do need to add more dollars. We want to make sure that it is a stabilized funding structure and that it is equitable across the board. We want to be intentional, and that is the primary reason why we would not necessarily say okay, get additional dollars, because then we will be... yeah, no, I know...
+
+(00:53:36)
+
+...but like, so in the last 20 years when we are doing the evaluation, have there been evaluations to kind of see where there might be some programs that have fewer seats or who are not filling their enrollment and things like that? Because there has been shifting of contracts. I know you are saying we are doing an evaluation, but I have...
+
+(00:53:54)
+
+...run these programs. There have been times where it was like, okay, we are shifting seats. And so CM Brewer has actually spoken to me about this for the last four years endlessly. So I am just trying to get an understanding of how we are evaluating even when we are still in the middle of a contract.
+
+(00:54:18)
+
+Yeah, I think that these are really good questions and I will definitely bring it back and we can have internal conversations and engage the Council. I am going to bring Murphy down from heaven...
+
+(00:54:30)
+
+My... literally... my thought though is, where are we? This is what I am concerned about.
+
+(00:54:37)
+
+They will be okay, you know, but they will be a lot better if they were at a Beacon.
+
+(00:54:42)
+
+So then I wonder about all the other kids that are on the wait list that would be better off if they were at a Beacon.
+
+(00:54:48)
+
+And I am just thinking, you know, so while we are doing the RFP and figuring out what is next, they are sitting in not a great situation. I am worried about them. So I would love to see some interim measure for the sites that are overcrowded or have a wait list.
+
+(00:55:09)
+
+I know it does not make sense to me. We are all focused on youth development, right? This is... I mean, I know the Chair is, as am I.
+
+(00:55:17)
+
+And yeah, I am definitely focused on their wellbeing, but I am just saying it does not make sense not to have some interim plan for this wait list. So will you really look at it? Because this has been going on for a couple of years. This is not a new thing. It is not like it is a new wait list.
+
+(00:55:37)
+
+We will definitely take that under advisement, especially as we are doing this assessment to determine...
+
+(00:55:45)
+
+...where we are not good on.
+
+(00:55:46)
+
+Assessments... I just want to make it happen.
+
+(00:55:49)
+
+So if it is more funding... I do not even think it is a space issue, I think it is a funding issue. I even go over there and say, excuse me, can you move the wait list? Because these parents are upset. So anyway, I do not want to belabor it. I just want it fixed. How are you... also, my other question quickly is...
+
+(00:56:09)
+
+How are you dealing with benchmarks for the future? Are there different benchmarks about what is the right mixture of academics and fun and so on? How are you measuring those sorts of things and is it changing for the future?
+
+Well, the unique thing, as you know, about Beacon community centers is that we designed the previous RFP in 2017 so that the CBOs could be flexible in their services because every community is different and every need is different. So we are intentional about that. We want to look at all the different... what are the common activities that are being offered, where do we see a high demand across the board, so that when we are starting to think about and engage our stakeholders and our partners we can have data that says we are seeing a high demand for workforce. We can then think about strategically infusing language in the RFP that speaks specifically to workforce because there is data that shows across the system that workforce is one area of need. So we are taking that time now to look at all of the services. Every activity is different and every provider provides different types of services, but we are looking at those pieces currently.
+
+(00:57:27)
+
+All right, thank you, Madam Chair. So I really will... will you get back to the Chair about interim possibilities for those that are overcrowded? I am sure there are others. I do not think we are the only one that is going to ask. I really, really am... we cannot wait another year. I am just saying they cannot be in people's offices for another...
+
+(00:57:45)
+
+...year. I would really like to see some interim measure. I was going to say if we can work with you guys, maybe we can get a list of all the sites across the City that have a wait list and try to start to look at that, because there are also some funding questions for both Beacon and Cornerstone. Yes, yes. CM Joseph, thank you.
+
+(00:58:06)
+
+Beyond participation, how are Beacon and Cornerstone programs achieving their goals of improving academic outcomes, workforce readiness, civic engagement and community wellbeing? Thank you for the question.
+
+(00:58:25)
+
+What metrics do you have in place to measure that?
+
+(00:58:36)
+
+Let me make sure that I have the right information for you. So currently what we do is we have a team of folks on the ground that conduct site visits. We have a comprehensive monitoring tool that allows us to determine program quality, outcomes and outputs. We also look at administrative practices, and I am sure I am missing one more. But we go out there, we have a rubric, we have specific indicators attached to that comprehensive evaluation tool to determine outcomes and to determine progress. We also have our system where the providers enter their attendance and we are able to generate reports on rate of participation and overall engagement in programming.
+
+(00:59:31)
+
+Let us talk about academic outcomes. When a young person comes to you, how do you measure if they reached their goals academically? Is there tutoring, is there support, is there homework help? Are they doing better? When they came to you they were reading on a J level, have you moved their reading level? Those are the things that I would like to hear.
+
+(00:59:49)
+
+Thank you for that clarity. We do not necessarily look at academic improvement per se, but each provider on the ground has their own assessment to determine whether there has been some form of improvement. But we do not necessarily look at whether their math scores have improved or their reading level. The providers can tell whether or not a young person, from a youth development perspective, is no longer shy, is now more outspoken, is able to do public speaking. That is kind of where it is, but we do not necessarily measure academic improvement per se.
+
+(01:00:25)
+
+How come you do not? Because I think you provide an academic component to this program.
+
+(01:00:30)
+
+Right, right, right. We provide homework help, STEM activities and so on. But we do not necessarily measure a young person's improvement. We do offer those pieces, we do offer academic enrichment in our services.
+
+(01:00:46)
+
+What about workforce readiness? Have you placed young people in work, or people who come to the program?
+
+(01:00:55)
+
+So our providers on the ground that offer... and every program is different, not all of them provide workforce services. But with the ones that do offer it, they do have a system on site. So if a young person was unemployed and now they are employed, they have their resume building, they are able to do some of that, and they measure it on their own.
+
+(01:01:17)
+
+Civic engagement, what does that look like? How many folks do you register to vote? How many folks do you get to the polls? How does that work?
+
+(01:01:24)
+
+So again, I hate to repeat myself, but yes, each provider... we offer those opportunities for civic engagement and we offer exposure for our providers to take advantage of these things. But the providers on their own are the ones that actually implement it and they invite us into those spaces.
+
+(01:01:40)
+
+I do not know if partnering with the Board of Elections is enough.
+
+(01:01:45)
+
+Please put on your mics so I can hear you. Cornerstones, there is also access provided by partnering with the Board of Elections and making sure that our polling sites are available to residents and seniors. And also young people, outside of their regular schools. So that is another way that we infuse it, or through themes, and just coaching our providers to make civic engagement part of, like, a youth council advisory board — that kind of thing.
+
+(01:02:14)
+
+Thank you. How does DYCD evaluate the effectiveness of the adult programming, including GED preparation, ESL classes, parenting workshops and workforce development activities?
+
+(01:02:27)
+
+The programs that offer services have communicated to us that their adults have, you know, graduated or received their... I have even had the pleasure of visiting some of our programs firsthand.
+
+(01:02:43)
+
+How many have graduated?
+
+(01:02:47)
+
+I would need to get back to you on that. We need to...
+
+(01:02:50)
+
+...definitely do an assessment across all of our providers, because that is also part of the economic mobility, right? They can now apply for college, they can go to trade school, they can move on to the next step. Those are wins, right? But if you do not have data, that does not drive your policy. It does not help drive your policy, and even your funding, because you need more funding, you need more seats — you need more ESL seats and parenting workshops. Can you talk to me a little bit about that?
+
+(01:03:24)
+
+Family and adult engagement is a core piece of the community centers, and so our programs provide, you know, workshops for families. They do kind of like mommy-and-me workshops. Sometimes they have done — I do not want to call it sip and paint, but, you know...
+
+(01:03:44)
+
+Community... I know you give out apple cider, right? Thank you so much. And painting. We have also offered to some of our programs opportunities for them to receive additional resources, like a case locator to come in and do a family engagement component. And I am going to pass it on over to my colleague.
+
+(01:04:10)
+
+She can share some more insight.
+
+(01:04:12)
+
+Well, also we partner with... in the Cornerstones at least, we use family engagement to bring the community baby showers, to bring some of the morning services. Although we open in the afternoon, we do offer, where needed, parenting workshops in the mornings. Beacons on Saturdays also engage families in that way.
+
+(01:04:38)
+
+Is there any literacy aspect to it where parents are encouraged to read with their children?
+
+(01:04:47)
+
+I am not going to say it is a requirement, but we have seen...
+
+(01:04:49)
+
+...the reading programs. Libraries will come in. There is that partnership with the New York Public Library to get your library card, or to bring in characters and do that kind of family engagement. And with literacy, we have also done book-rich environments, and there are thousands of books given across...
+
+(01:05:15)
+
+...the network. We also partnered with Cornerstones and Compass programs to make sure young people have... there is an author event where the authors are literally signing, and young people are coming in with their parents or without, and they leave with books. So literacy has been infused in different ways through different partners.
+
+(01:05:36)
+
+Okay. Thank you. How do you — what performance metrics are you using now to measure the providers? How often are providers reviewed for contract compliance and program quality? At a minimum...
+
+(01:05:54)
+
+Three times a year, scored evaluation. In the summer we look at the fall, the spring, and then we do...
+
+(01:06:03)
+
+...other assessments in between, additional coaching or support. We are measuring their contractual requirements in terms of stats and numbers, but also in terms of just the quality of moving from one place to the other, the number of families they are engaging — that kind of thing. So they are assessed. I can get you a specific stat, but right now...
+
+(01:06:27)
+
+And I want to add to that — in addition to those various touch points, there is also frequent on-site coaching. Depending on what is happening on the ground, there are some providers that could use some improvement, so we implement a strategic action plan or corrective action plan. We are really intentional about looking at that plan and following it in a way to see progress. We are really detailed in that way. We also have our capacity building team, which has vendors that can do either on-site one-on-one consultation at the site level or at the agency level. That is in addition to whatever workshops are being made available for anyone to attend — any leader, yes, support...
+
+(01:07:25)
+
+...the nonprofit as a provider. I have one last question for you. What specific milestones should providers and the Council expect over the next 12 months regarding the future procurement of Beacon and Cornerstone community centers? What should we expect? What you should expect is definitely more intentionality about really looking at what is a realistic timeline...
+
+(01:07:47)
+
+...to release. In our view, we are still wrapping up our Compass procurement, and so we are really looking at an intentional timeline to release an RFP. We want to be really intentional about stakeholder engagement. One of the lessons that we have learned is around family engagement in schools and things like that. It is a huge footprint, but we want to make sure that we allow the time and the grace to look at what the trends are, what people are saying, and how we infuse it and make everybody happy. At least we can be intentional about having data, making sure that we have engaged all of our partners, and then being able to be transparent about what we are planning to put out there. That will be the concept paper and ultimately an RFP.
+
+(01:08:47)
+
+Miss Harris, you wanted to say something? Thank you so much, Chair. Thank you. I am happy to hear about some of the lessons that you have learned. I was about to ask what some of the lessons were that you are learning from this current process that we are still in the middle of. I am happy to hear that the parent engagement piece — how it was kind of lacking — and thinking about moving forward, how do we make sure that we have more of a holistic view around what that process looks like. My next question is: how does DYCD engage night residents — and this is mostly for the Cornerstones — school and other large community stakeholders in the evaluation process and the procurement going forward?
+
+(01:09:38)
+
+Yeah, we need to... it is something that I am even trying to figure out, because what would that look like for young people who want to have a say? What I can say is this: the last time we issued an RFP for our Cornerstone, we did have intentional engagement. What did that look like? That looked like they were readers — we asked them to be part of the selection process. We had, I think, a hundred at the time, or maybe less than that — maybe 75. Out of the 75 potential RFPs that could have had responses, we only had a handful of respondents who were willing to commit to being an evaluator for an RFP. So...
+
+(01:10:30)
+
+We still need to figure out what that touch point is. We also issued a survey to get feedback from them, because to your point, we have been there for a while. We did issue a survey to get their input on what they are seeing, what they want to see more of or less of. That information — I am hoping it will help inform, you know, the...
+
+(01:10:58)
+
+...direction. I think we have to be at a place where we are doing better at getting feedback from community members and key stakeholders like parents and principals and things like that, so that it can be used as part of things moving forward. Even when we are doing a new procurement, we have to make sure that we are getting people's feedback. I think that is important. I was going to mention the missteps and hiccups that we had with the after school procurement, but I think that was totally different because you do not even have that much time. But I do want us to be thinking about, moving forward, how do we make sure that different voices are heard in these conversations?
+
+(01:11:38)
+
+Providers reported that they received last-minute requests to host watch parties for Game Three — which I am sure Dave is excited about — for the final series. But again, this becomes an issue. Does DYCD have a formal protocol or best practices around how much prior notice they give providers before making requests for these special events? And is there additional compensation for these groups that have to get staffed? Because it goes back to my staffing concern — when you only have one full-time person, that person is typically the only one opening up these places. So just trying to get a better understanding of those types of things. You know, the Knicks won, and we worked closely with our partners at New York City Public Schools to collaborate on leveraging the fact that...
+
+(01:12:37)
+
+...our Cornerstones and Beacons are already open, extended during the school year. They were there in the building, really providing services. We kind of leaned in on that ability to do that, so they already had their staff. The thing that was unique and beneficial for us was that it was just one location. We helped with security, making sure security was there. They helped us secure custodial staff to make sure that the space and the school building was readily available for instruction the next day. It was a collaborative approach to make sure that our communities had access — as true Beacons and Cornerstones, they created that space. The win for me is that the school administration and New York City Public Schools saw this as, "Oh wow, look at our Beacons — they are a core part of our community, and here is what they did for our community." I think the timeline... we worked aggressively in identifying schools and we gave the providers a choice. We basically said, "Hey, this is an opportunity — are you interested?" I hate when a funder comes and asks a provider to do something, because some do say no. But that is not often, and the person saying no typically is not the person opening the program either.
+
+(01:14:10)
+
+So I think it is kind of hard. I just remember those situations... opening up on a shoestring.
+
+(01:14:20)
+
+So it just becomes hard, and again this goes back to my issue around staffing. My next question: providers at both Cornerstones and Beacons report that they need at least three leadership positions to balance out the need to have management on site at all times and to prevent burnout. However, most sites are not able to support those leadership positions due to budget constraints, meaning that program directors are often stretched thin, working excessive hours. Has DYCD evaluated the staffing structures in regards to the responsibilities and hours of these programs? Will DYCD...
+
+(01:14:57)
+
+...be increasing program budgets to address this issue and ensure adequate program staff? That is going to be part of the assessment that we are hoping will capture the funding needs and staffing needs.
+
+(01:15:15)
+
+To sustain... what I said earlier about community centers is that they do not just do after school.
+
+(01:15:21)
+
+And I know that — I always say that our Beacon and Cornerstone directors are like mayors. I often say that. Not only are they directors, they are also the janitor, the cook, the repairman, the plumber — all the things.
+
+(01:15:42)
+
+And so when we start doing our assessment and our focus group conversations and our surveys, those are the kinds of things that we are going to be looking for and asking about.
+
+(01:15:53)
+
+This is another one that happened when I was in the community centers — it was nice, but this is what burnt me out. In the last few years, the evening hours for both Cornerstones and Beacons have been extended to as late as 11 PM to provide safe space for community members, specifically in the summer. Many programs report that those late hours see underutilization by the community. There is also an expectation of sites that have gym facilities. Has DYCD evaluated the impact or utilization of program sites during late night hours? Again, this was something that I remember when I was running a program — we got love for it and it was important, but because of the staffing model, most directors, even if you have other people in the building, want to be there because it is your building.
+
+(01:16:40)
+
+We develop unhealthy attachments and end up being there from eight in the morning when you have summer camp until 11 o'clock at night, and then starting all over again. When we got the extended weekends, we were there on the weekends. I remember basically living in a community center — and three community centers for three summers. So just trying to understand: how do you evaluate that, and how do you make sure that these programs are being utilized and that the staff is not being totally burnt out?
+
+(01:17:11)
+
+Yeah, we try to work with our providers in offering strategies to avoid burnout.
+
+(01:17:22)
+
+And so we do that and we offer information sessions on those pieces. What I will say is that we started looking at attendance data and looking at it from different time slots to determine what is realistic. I think, to CM Brewer's point, thinking about where we are seeing a lot of traffic after a certain timeframe and where we are seeing less traffic, to determine what that sweet spot is. So we started looking at the data, and I think we are going to be able to take a deeper dive once we start really looking at the holistic design. The summer hours are longer than the school year, so we are looking at the summer component and the school year component and trying to figure out what the attendance is telling us to determine what is that realistic timeframe. Those summer hours are long, but I will say those were the best summers I had.
+
+(01:18:33)
+
+I do not think I could do it again though. How does DYCD collaborate with DOE to support students with disabilities? I will say this: although I am not a fan of Summer Rising — everybody knows that, I have never made a secret of it — I think one of the things that we really did benefit from Summer Rising is just seeing how students with disabilities should be serviced and being able to provide those services. It was not necessarily reflected in after school, which I am a little disappointed by. But thinking about Cornerstones and Beacons moving forward, how do we make sure that we are including ACS in this conversation and making sure that they are prioritized when we are thinking about these RFPs and rollouts? Because it gets really hard for parents of students with disabilities — they typically do not have programs to put their kids in.
+
+(01:19:24)
+
+Well, thank you. That is definitely something that is at the core of our work — the Commissioner is looking across the spectrum. The goal is to make every reasonable accommodation that ensures that every participant has an opportunity to engage. All of our programs are dedicated to working with young people of various disabilities, and we recognize the importance of addressing the unique needs of each individual to foster their growth and participation. To your point about Summer Rising — the win for me has been just the menu of offerings, workshops and information sessions that DYCD has made available. Although our Cornerstone programs are not part of Summer Rising, we make sure we try to create spaces for our Cornerstone directors and staff to receive that information and learn about best practices and strategies for being and creating an inclusive environment during after school and evening hours. That is something we are definitely committed to ensuring we infuse in our work.
+
+(01:20:40)
+
+Another question I got from providers was that they are required to do workforce development, but we do not allow state stipends as an allowable cost. I am trying to get an understanding of why that would be. Why is that not something that we are encouraging and trying to do more of, where there is workforce development happening in these programs and young people are...
+
+(01:21:02)
+
+...interning, you know, getting specific skills? Why can they not allow stipends? I unfortunately do not have that response. I will definitely get back to you on that.
+
+(01:21:13)
+
+Please do. Andrew, write that down. I want to know why — I do not want to mess it up, so that is the reason I am holding off.
+
+(01:21:22)
+
+I think that is important. When we are looking at the unemployment rates for young people, specifically between the ages of 16 and 24, they are at the highest since COVID and have not come down. So especially for these programs, we should be looking at encouraging young people, and sometimes those young people...
+
+(01:21:39)
+
+Who do not come into the program is because they are trying to make money, and so we should be encouraging it. I do not know how to have money after these Beacon budgets because they are so tiny. So they got the money. But if they can, they should be able to eke out and be able to give the young people some stipends. And I know we also work closely with Valerie and her team to try to create... with the device, right? So we would definitely try to work closely with our workforce team to see where there are opportunities for workforce centers or any other stipends-related work.
+
+(01:22:18)
+
+But I feel like especially when we have got the kids, we have got to keep them, because sometimes when you train different programs within a program... I am going to tap into it.
+
+(01:22:27)
+
+...to give you more practice. Some of our programs as well, not directly through devices or providers, but the out-of-school providers sometimes have the ability to infuse stipends for young people 16 to 24.
+
+(01:22:43)
+
+I know, but it is not enough. Not at all. We always need...
+
+(01:22:47)
+
+More. No, it is not even that we need more. It is just not enough. Those stipends sometimes are a hundred dollars, and do not get me...
+
+(01:22:52)
+
+But those are the things that I think... that is the feedback that we want to hear. If we want to, I think that when we go back and we look at our policy and be able to kind of get back to you on that, I think that will help. I mean, again, I have been yelling from the rooftop about how we need more employment opportunities for young people.
+
+And again, I will also be clear: when I am talking to young people, they do not want stipends anymore. They said they want jobs. They said they want to be able to have hours. They are actually annoyed with the stipends because it is like less, or whatever. But we should be responsive to that. I think even if there are programs where they are doing workforce development and they are like, "Hey, I want to give them a hundred dollar stipend for coming to these five workshops," that should be allowable. Allowing them to have that flexibility with their budget. The question I have, which I did not know...
+
+(01:23:40)
+
+...providers: why is there a requirement for participants to participate three days before being considered enrolled, when there is no similar requirement for Cornerstone or Compass? Apparently that is happening in the Beacon programs. Yes, that is true. It is in the current program design. That had... that was, you know, 2017. And so that is...
+
+(01:24:00)
+
+...one of the things that we are looking at. I do not know how that is so random. I do not know. I cannot remember how we got to that space. We can definitely dig... no, you had your light on.
+
+(01:24:14)
+
+Do not turn it off. Can I... I just wanted to ask: you said three days of participation? Yeah, so remember, three days after... before they are considered enrolled? The Beacon... not okay. Okay. So yeah, we cannot speak to the logic of how we got to that space, but I will say that that is one of the areas that...
+
+(01:24:41)
+
+Well, so add that to the list of things we want to change. I think those are all the questions that I have. I will now call on CM Felder.
+
+(01:24:55)
+
+Okay, well...
+
+(01:24:56)
+
+Just thank you very much. But again, I know we are talking about the overcrowding, but just in general, the data and support for youth development that is not targeting, as this Chair knows, those young people that are not in programs... I do not think we are making them accessible enough. I know you are trying and you have got many other agencies that you are working with, particularly around youth development. We need to have just robust youth development. I know you are working on it, but I do not feel this imminent, you know, emergency need. That is what I am looking at. That is what I would like to see. So thank you. Thank you. I do not have any more questions for you guys. I think pretty painless. I do not have any more questions for this panel, so thank you so much.
+
+(01:25:52)
+
+Look, you did great. I was nice, right? And I told you I would be fast. Andrew texted me saying I am set on my movie. He said wrap it up. So thank you guys. Thank you. I am now opening the floor for public testimony. Before I begin, I remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No radio recordings or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but they may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you are wishing to speak today, please fill out an appearance card with the Sergeant at Arms and wait for your name to be called. Once your name is recognized, you will have two minutes to speak about the oversight topic or the resolutions listed on today's agenda. If you have written testimony or additional written testimony you wish to submit for the record, please provide a copy of the testimony to the Sergeant at Arms. You may also email your written testimony to testimony at council.nyc.gov within 72 hours of this hearing. Please note that audio and video recordings will not be accepted. When you hear your name, please come to the witness table.
+
+For the first panel, I believe the first panelist is Assembly Member Davis, who will be talking about a resolution we have today. Thank you.
+
+(01:27:31)
+
+He is from Harlem. I just want to let you know. No, no, no. Ron claims him. He is from Harlem. I just wanted you to know. I know his parents very well. I am from Harlem too, but the...
+
+(01:27:43)
+
+Bronx. Bronx. You know, us Harlem people are in the Bronx. I appreciate it.
+
+(01:27:49)
+
+We are. I did just come from Harlem.
+
+(01:27:51)
+
+So, enough of that. First off, good afternoon to the Council. I want to say thank you for having me here. I am speaking on behalf of CM Riley's resolution, Res 0217-2026, which is for the Fatherhood Initiative, which is in support of a bill that we have in Albany, which is Assembly Bill A.7415, which is the Fatherhood Initiative Bill. Myself and Senator Jamal Bailey have it in the Senate. Being a father is one of the greatest gifts I have ever had. My two boys are actually with my father right now, visiting. They just arrived in Atlanta to visit my older brother, their uncle Larry, and my father. My older brother were two great examples that I have had in my life of what it means to be a father. I am a very wealthy man because I have two great parents and a father that came from very little but had a foundation of love from my grandmother, and he bestowed that upon us. But I do know the young men in New York do not have that same wealth that I have when it comes to that.
+
+The Fatherhood Initiative is to create a resource center for the young men or young fathers within the State of New York who need access. Even with all the resources I have within my own family, I will be the first to say I did not know about postpartum depression. I did not know about preeclampsia. Where, if not for...
+
+(01:29:21)
+
+...for example, Hall of Fame tennis player Serena Williams' husband intervening when she was giving birth, we might have lost the greatest tennis player of all time, because her pleas of pain were not being heard and the father of her children had to step in. So I want to make sure that the young fathers within the State of New York have this knowledge, that they understand what a woman goes through in those situations and how they could be a better partner and a better father. Even if they are not together, co-parenting is still key.
+
+When it comes to New York, we want to make sure about the young people and the children, the future of New York, having parents that have as many resources as possible. As you heard in the previous testimony, it is not just about fatherhood but also making sure that they have workforce development programs and making sure that these young fathers have apprenticeship programs that can get them into programs so they can provide for their children, so that they can have housing and education and Beacon programs and after-school programs.
+
+I would be the first to say that the Senate passed the Fatherhood Initiative and I am still kind of dismayed as to why we could not get it done in the Assembly, and I will go at it again. I have also had conversations with Commissioner Harris at the Office of Children and Family Services and she is in full support of it. It also addresses the fact that there are young fathers who are currently in juvenile centers that still need to be within their children's lives, and these resources could be used to help.
+
+To the Chairwoman, I know her advocacy for young people is ever-present. She works her tail off in our district in the Bronx where we overlap, and for all New York City families. I think the Fatherhood Initiative and this resolution is key. I want to thank CM Riley for bringing this to the table, but more importantly I really hope that we can create a broad coalition across the political spectrum, across the boroughs, religions, or whatever, to embrace this. Because I think strengthening young fathers across this state and New York City is how we create... that is how we make New York better and stronger. I want to thank the Council for hearing my testimony and I hope that we can count on you all in creating a coalition to support our bill. I want to thank you again for passing this resolution. Thank you kindly.
+
+(01:31:25)
+
+Thank you so much, Assembly Member, for being here. I guess my question is: are you... I spoke to the Office of Children and Family Services Commissioner as well and she is also talking about rolling this out statewide before the office is up and running. She definitely believes in this. But my question to you is: how are you working with the Center for Fatherhood Initiatives at the City level? I know DYCD did it this year, where I believe it is like 17 additional sites, and really trying to do this. Have you been working with them? Is that something that you have not been connected with? If not, I would love to connect you. Have you heard about the work that they have been...
+
+(01:32:00)
+
+...doing? So please connect me. What we have done is a barbershop series with Senator Bailey and CM Riley. We did one right near River Park Towers, which we overlap, and it was very successful. We had over 50 young men show up and it was great dialog, talking about co-parenting and other legal rights that they have as fathers. Like, if they are traveling nationally, why you need a notarized letter. You know, if you have an issue of child support, what can we do. I have also been working as a lawyer with legal services to make sure that young fathers have legal representation when they go to family court, because sometimes the judicial interference in families... it is a conversation I know you have had with oversight and have been pushing for. I think that conversation has been tremendously helpful and it is at least getting some legitimate and tangible results in that short period. By expanding it, to your point, I think it will only do more for our City.
+
+Yeah, the additional 17 across the City... the two in the Bronx I believe closest to you is Claremont Center and then also I think it is Metropolitan College. So I will make sure I connect you with them as well. I will make sure that I connect you. I do apologize but I would love to do a full review and maybe...
+
+(01:33:13)
+
+...with Kevin. Yeah, Kevin had the Dad Gang. I had the Brunch of Dads, and there are other dad programs that have been blooming across the City, and I would love to connect them and really create some momentum.
+
+(01:33:25)
+
+Yeah, I think there are some resources there. Even like I said, the conversation I had with the Office of Children and Family Services Commissioner, she was really excited about it. Also, how do we connect it? Because a lot of times all these things are happening and then it is like, how do we connect the dots to have the biggest impact for all of it? Because there is a lot of movement around fatherhood initiatives. For me it is like, well, how are we all not working together? So I will make sure that we have a conversation. I will bring everyone from DYCD together so we can start talking about what it looks like holistically. And I know CM Riley is also trying to get an Office of Fatherhood opened up in the City as well. I think that is one of his priorities this year as well.
+
+(01:34:05)
+
+So I will be diligent and make sure I connect, because I know where to find you.
+
+(01:34:09)
+
+Thank you so much.
+
+(01:34:10)
+
+And I will support CM Riley on that. The one big thing I would like to just put on the record is, more important than what has sometimes been perpetuated on social media, we are trying to counteract that in reality. Fathers today are one of the most interactive fathers of any generation. My kids will tell you they love when I cook. Well, cooking also...
+
+(01:34:38)
+
+But I love his cooking. Thank you. That is all out there. Hating on my cooking. But we have changed the plan. That is what this is. On the record, ma'am. We have this. We have...
+
+(01:34:48)
+
+People, I am sorry, people are watching. Behave. But more importantly, we are changing the narrative on what fatherhood looks like. There are different examples, right? I think that when they see that you might fit into a different mode of what it is, but at the end of the day, love, empathy and caring for your children — I think that is what needs to be magnified. I think you are doing it. I think Gale has always been doing it. I know the senators talk about family values also. Like, Councilman... I am sorry, I am just used to calling him Senator. But this is something I am very passionate about. Thank you so much.
+
+(01:35:24)
+
+Yeah, there was a father advocate that was here. I think he left already. He comes to a lot of my hearings too. If he comes back I will make sure I connect you, because he has come to talk about his struggles as well and trying to bring fathers together as well.
+
+(01:35:35)
+
+And he was here but he left.
+
+(01:35:36)
+
+So I will definitely connect you with him as well. Thank you so much for being here today. Oh, CM Williams has some questions. Thank you very much, Assembly Member. Are you working with CUNY? Because they had a horrible situation with the federal government cutting some of their funding for this issue and I do not know where they are at.
+
+(01:35:54)
+
+I was wondering if you also worked with some of the fathers there.
+
+(01:35:58)
+
+I will. We had conversations trying to put back funding for CUNY. Obviously SUNY and CUNY took a hit, and we did our best in this current state budget. You know, we did get our budget done, unlike the Council yet. But that is true, you do pass yours on time, unlike us. Our education facilities — I think putting this as a part of it is key. Also making sure that single fathers or single mothers or single parents in general also have child care...
+
+(01:36:30)
+
+...opportunities at those places so they can further their education and their jobs. But I also think there is something amazing about the same schools, even starting in high school, and bringing back home economics to a small degree — on how to change a diaper, how to swaddle, how to prepare a bottle. I think all those things are life lessons that we all need to learn, regardless of whether you plan to have a family or not, because you might be an uncle or an aunt or a godmother or godfather or godparents. I think all of those skills help us as a village to come together. So I will work with the colleges and the CUNY system, and thank you for bringing that to my attention.
+
+(01:37:04)
+
+And the Times did have an article the other day about how much more fathers are involved than they were when I was growing up. So yes, I think you are obviously on the right track. You just need to make sure that people have the support.
+
+(01:37:15)
+
+Yes, and further to that knowledge, one thing that I want to also make sure that we make public knowledge is not only that they have actually shown that Black and Brown fathers are actually one of the most proactive in changing the public perception of the absent Black and Brown father, but we actually know that is not true. We need to make sure that we echo that from coast to coast, from city to the farms, because we need to let people know that fathers are very active in 2026 and we need to continue that.
+
+(01:37:44)
+
+Thank you very much, Assembly Member. Thank you, Councilman. Thank you. I do not have any more questions for this panel, so thank you for joining us. CM Felder...
+
+(01:37:56)
+
+I will be calling the next panel: Kristy Mansell, David Garcia, Pedro Paez, Kate Coddle. Oh, oh, oh. Let us get...
+
+(01:38:49)
+
+...started. Whoever wants to go, that is all good. Good afternoon and thank you, Chair Stevens and members of the New York City Council, for the opportunity to provide testimony today. My name is Kristy Mansell and I am a Division Director for School Based Programs for the Center for Family Life in Sunset Park.
+
+(01:39:07)
+
+I am here to speak about the critical role that Beacon and Cornerstone programs play in our communities, about the need for the City to protect and adequately fund these models as true community building programs.
+
+I have been working in or overseeing Beacon programs for the Center for Family Life since 2003. We operate two weekend programs in Sunset Park and they are vital resources to our neighborhood. Our Beacon programs are anchors in the community, serving people across age groups and building trust over many years. Our Beacon programs are places where many people find belonging and connection with their community, which combats isolation in these challenging times. Community members not only learn about and access resources from the Beacon staff, they also become resources for each other, strengthening the fabric of our neighborhood.
+
+The Beacon model allows providers to create unique community spaces that are both reflective of and responsive to the community we serve. They are welcoming spaces for new New Yorkers, longtime residents, young people, families and older adults. They are not solely after-school programs. From instruction and know-your-rights to soccer leagues, dance troupes and family cooking classes, there is something for every member of the community. And if there is not, there is flexibility to create, host or partner with neighborhood groups to bring new programming to life as new needs emerge.
+
+Our programs are being asked to meet real community needs while operating within funding structures that do not reflect the current cost of the work. Rates need to reflect what it actually takes to run high quality, safe, responsive programs today. This means investing in the workforce that makes this work possible. The jobs are hard, with late nights and weekend hours, and programs are often asked to extend hours, pivot quickly and respond to urgent community needs. Staff, the majority of whom are community members and former participants in the Beacons themselves, rise to those requests. So the City must recognize what is being asked of these programs and invest resources to support them.
+
+The City should also support the leadership pipeline within Beacons. Many participants volunteer their time as counselors in training or as youth coaches because the program has been meaningful in their lives and they want to contribute to the community. That commitment is powerful, but they should not have to work for free. We should be able to provide stipends for interns and create paid career readiness pathways for young people who want to give back to their communities.
+
+Finally, community voice should be central in any new Beacon design process. Families, participants and school partners should have a real voice in describing the value of their Beacon and shaping its future. Thank you.
+
+(01:41:45)
+
+Good afternoon. Thank you for the opportunity to speak today. My name is David Garcia. I am here to talk about the importance and impact of Beacon programs in New York City under DYCD. I did not just learn about Beacon programs — I lived them. Growing up, I was a participant in a Beacon program. It was not just a place to go to for after school. It was a safe space where I could be myself, build relationships and stay engaged in positive activities during critical hours of the day.
+
+The after-school program gave me more than structure. It gave me opportunity. I had access to academic support that helped me stay on track in school, but also creative outlets where I could explore the arts and discover my interests. Whether it was theater, music or other activities, I was encouraged to try new things and express myself. In the evenings, the neighborhood center programming extended that support. As a teenager I had a place to channel my energy in a positive way. From playing basketball to participating in performances and community events, I stayed involved and connected. The program kept me engaged, active and surrounded by mentors and peers who helped shape my future.
+
+Beacon programs do more than fill time. They build community. They create safe, supportive environments for young people and families, particularly in neighborhoods where those opportunities might otherwise be limited. Now more than 20 years later, I have come full circle. Today I have the privilege of serving as a co-director of a Beacon program. I help lead the same kind of programming that once supported me. The full circle of these programs is not just in helping young people succeed in the moment, but in shaping future leaders who give back to their communities.
+
+When you invest in Beacon programs, you are investing in safety and opportunity and the potential of young people in New York City. They are supportive spaces where youth can learn, grow and thrive, just like I did. I am living proof of the value of this work. Thank you.
+
+(01:43:43)
+
+Good evening. I am truly honored to have the opportunity to speak today and express my gratitude for the Beacon program, a program that has had a tremendous impact on my life and my family's journey. Growing up in a single-parent household, I watched my mother work tirelessly to provide for our family. Like many families, we faced challenges. There were many times where resources were limited and opportunities seemed out of reach. Despite those hardships, my mother never stopped encouraging us to work hard, stay positive and make the most of every opportunity that came our way. A mother of four, she put each of us to our best. All four of her kids grew up in Beacon, which speaks to just how important the program was to our family. Beacon was not just a place for us to go after school. It became a second home.
+
+(01:44:34)
+
+It was a support system and a community that helped shape who we are. One of the greatest opportunities I was given was becoming part of Beacon. While the activities and programs were valuable, some of the most meaningful things I gained were the relationships and connections along the way. I met friends who became family and mentors who guided me through some of the most important stages of my life. Those relationships taught me how to communicate, collaborate and build genuine connections with others. As I grew older, I realized that the lessons I learned there extended far beyond the walls of the program. They helped prepare me for school and work, and gave me confidence in myself, taught me responsibility and encouraged me to believe that I could achieve more than I ever imagined. Today I have the privilege and honor of working for the very same program that once supported me as a participant.
+
+(01:45:23)
+
+It is a true full circle moment. To go from receiving guidance and encouragement to now being in a position where I can support young people who are walking a path similar to mine is something I never take for granted. Every day I take the opportunity to give back to a place that gave so much to me and my family. There is no greater feeling than being able to help a child discover their potential, build confidence and create memories that stay with them for a lifetime, just as the program did for me. The impact you make reaches far beyond what you see each day. So to everyone in this room, I ask that you keep believing in these young people involved in this program, encourage them to embrace every opportunity, to build meaningful relationships and believe in their own potential. You never know where those experiences lead them. Thank you.
+
+(01:46:16)
+
+Thank you to the Committee on Children and Youth and the New York City Council for the opportunity to present testimony today. My name is Anne Nelson and I am a policy analyst at Children's Aid. For over 170 years, Children's Aid has worked to ensure that young people face no limits to their aspirations or potential. In service of this mission, we operate more than 50 DYCD contracts across New York City, centered on a school campus in the Bronx that serves over 600 children, youth and adults as a year-round community hub. As a provider operating multiple youth programs, we see the value of a comprehensive model like Beacon. Our site operates late evenings, weekends and throughout the summer because community need does not end when the school day ends. At our Beacon, community members of all ages can participate in sports and arts programming, academic enrichment, workforce development, adult education, financial empowerment services and community events and partnerships with other local organizations.
+
+Yet despite strong community demand, these programs are reimbursed at lower levels than other after-school and summer initiatives, creating persistent and growing strains on providers. At the same time, we know contracts have not been comprehensively updated in almost a decade and many requirements and payment structures no longer reflect operational reality. We really appreciate that City leaders like Chair Stevens are considering the future of Beacon and Cornerstone programs, and we see this as an important opportunity to issue a new RFP that aligns funding and program design with the reality of these community-based centers.
+
+At a high level, we urge the next RFP: first, to be developed through early, structured engagement with providers and families, including concept papers before release, to ensure program design and fiscal assumptions reflect on-the-ground realities; second, to establish base contract rates that reflect the true cost of operating extended-hour, multi-generational community centers, including staffing, security, facilities and the full range of services these sites provide. This should include dedicated support for programs we know have demonstrated high demand, like adult workforce development initiatives, financial empowerment programming and food access initiatives. And finally, include cost-of-living adjustments in all contracts to stabilize the workforce and sustain service delivery over time. Without these updates, providers remain stretched to meet expectations that no longer match funding structures. Thank you for the opportunity to testify and we look forward to our continued partnership.
+
+(01:48:38)
+
+Hello and thank you for the opportunity to testify. My name is Kate Connelly and I am a senior policy analyst for United Neighborhood Houses, an umbrella organization that represents settlement houses across New York State. Settlement houses within our network operate one third of all Beacon programs and half of all Cornerstone programs. I just want to start by saying thank you to the Chair for hosting this oversight hearing. These programs are long overdue for attention, and despite the benefits of these programs that you have heard all throughout today's hearing, both programs are chronically underfunded and have not seen new RFPs in years.
+
+As DYCD and the City plan for the future of these programs with a new RFP or with other updates, they must meaningfully engage community members, families and staff early and often to ensure that their needs and priorities are shaping decision making. In the meantime, it is critical that the City invest in our City's community centers by increasing overall funding for Cornerstones and Beacons to respond to the pressures from minimum wage increases and inflation and to address the changing needs of the community. Alongside increasing overall rates, the City must permit intern and counselor-in-training stipends as an eligible budget expense to strengthen the workforce opportunities for our youth.
+
+And then while funding increases should be the top priority, there are a lot of other challenges that these community centers face. For example, many providers cite growing mental health needs among their communities. At current funding levels, hiring qualified mental health staff is often unrealistic, leaving many providers reliant on referrals to external clinics that have long wait lists.
+
+(01:50:07)
+
+Programs should have the flexibility and funding to offer onsite services directly or through partnerships with community-based mental health providers.
+
+(01:50:13)
+
+And then regarding infrastructure, as you detailed today, there are significant challenges due to long but slow response times to emergency repairs, and they also receive fines from DOE and FDNY for issues already reported to DYCD. As these programs evolve, agencies must establish clear communication and accountability so that providers and participants are not bearing the costs of delayed repairs, fines or administrative failures. We appreciate that DYCD has already started taking some steps but they need to do more. And then as you heard earlier, Beacons and Cornerstones are so much more than after-school programs.
+
+(01:50:52)
+
+And as the City continues to work towards a vision of universal after-school, they need to think about how Beacons and Cornerstones can play a role in this, and especially in serving communities that would benefit from more comprehensive services. Thank you very much.
+
+(01:51:07)
+
+Yeah, I just want to flag the universal after-school thing always stands out to me because I feel like we need to fix so much before we get there. I appreciate your testimony and I do not have any questions for this panel. I will be calling our next panel: Vincent Price, Chris Pena, Leonardo Richards, Vinny Dong... I am sorry, I mispronounced your name. Please say it for me.
+
+(01:51:40)
+
+I apologize. Okay. My name is Vincent Price and I am here with the Father Speaks Up movement. We are trying to rise above our own values and viewpoints, and for us being fathers... I am basically here today to see if I could get a chance to be in my kids' lives. Their mother...
+
+(01:52:34)
+
+picked up and left in 2020. She moved to another state and I went to the court to advise them of that. I did find out where she moved to and I filed paperwork, but that is as far as it went. I did not really get any help from the courts. So I am here today seeking advice on what to do next. Yes, I am finished.
+
+(01:53:13)
+
+Hello, good afternoon. My name is Leonard Richards. I am a part of the Father Speaks Up movement. I reached out to the founder of the movement because I am going through a joint custody situation with my kids. I won joint custody in 2017. Everything was going good, everything was going smooth. Then next thing you know, she just snapped on me, made it hard for me to see my kids. When I was trying to go to one of my visitations, I went there and she did not open the door for me to see my kids. I called the police. The police came and they said there was nothing they could do. I had to go back to court. So I had to go back through the whole runaround with the court system. I felt it was not fair to me and I feel like they want us as dads to snap and put our hands on the woman, which in my case I am not going to do, because I know that is what some of the mothers want. Not all mothers are like that, but with my ex-wife I know that is what she wants me to do. And ever since winning the joint custody, I have never argued with her, never threatened her, never scared her, anything like that.
+
+I also should mention that I was picking my kids up from the home, then next thing you know she snapped and said she feels unsafe with me coming into the building to pick up the kids. I do not go upstairs to the door. I just meet in the lobby, text her that I am here and she is supposed to come down.
+
+(01:54:49)
+
+So then she went back to the court and told them she feels threatened, she feels scared. So now for the past three years I have been picking my kids up from the police station. I do not want my kids going through that, but you know, they are going through it now. There is only so much I can do. My son recently just graduated college from Auburn University upstate New York. My daughter is 10 years old. My kids love me like they love the ground I walk on, and the fact that she is trying to paint this narrative that I am not a good father, a good dad... I have proof. I have pictures. I have everything. I do everything with my kids when I have the time. When I have my weekends with them, I go get them, we do things, we go out of state, we just enjoy. And I am just trying to be in my kids' lives and that is about it. I want to thank you so much.
+
+(01:55:37)
+
+I am a birth doula and journalism student at CUNY Kingsborough Community College, and an emergency medical technician. I want to speak to why we need these Beacons for the youth. When I witnessed their high suicide rate, their high pregnancy rate and their high STD rate due to not having any guidance from broken families, I became a survivor of domestic violence and a parentally alienated father of two, for 10 years and 15 birthdays. I began advocating for maternal care and against parental alienation and to keep families together. Now CUNY Kingsborough Community College is helping me build my freestanding birthing center. So in order to get these Beacons ready to go, I believe we should keep advocating against parental alienation to better guide these youths, the way we do through our annual movements like the Bride Smart initiative, to bring femicide rates down and keep guiding these youth. Because now all the youth around me all want birthing centers, so it works. Thank you for having me.
+
+(01:56:52)
+
+Sorry, I just felt a little different but yeah, of course. Thank you so much, Chair and Committee members, for the opportunity to speak in front of you. My name is Ola Cho, a New York City resident and also a representative of an international civic platform called Al Atr, which is registered in the United States as an organization. Al Atr brings together scientists, experts and professionals. Our main goal — we are united by a commitment to advance science and public awareness to help build a safe and sustainable future for all of us. Under our legal framework we also have an established think tank, the Electra Global Research Center, which advances our mission — our educational and scientific mission — through independent and volunteer-driven research and analysis. Today I would like to draw your attention to an issue that concerns the health and future of New York City's children: the exposure to micro and nano plastics, which is one of the areas that we work on.
+
+(01:58:07)
+
+Micro and nano plastics are tiny plastic particles. I am sorry — how does this connect to the topic, which is about Cornerstone and Beacon programs? I do not know why I was put in this line. This is the hearing on that topic. I am just trying to get an understanding — is it connected to those programs?
+
+(01:58:30)
+
+The hearings are about Black youth and children, and I am going to talk about how micro and nano plastics are impacting the health of children. I do not know if it is specific to Cornerstone and...
+
+(01:58:41)
+
+Beacon programs. Yeah, I am sorry about that. This hearing is specific to Cornerstone and Beacon programs, or some of the different resolutions that we heard — one of them being the fatherhood initiative, and some baby bonds and some other ones around investments. I am sorry, we have to keep you on topic. I can speak with you afterwards and we can have a conversation if...
+
+(01:59:05)
+
+That is okay. Yeah, I would love that. Thank you so much.
+
+(01:59:12)
+
+Good afternoon. My name is Benny Dong and I am a sophomore at Queens High School for the Sciences. I am here to talk about the importance of youth sports, and this regards Res 0032-2026. It is beyond essential in this day and age for youth to be able to participate in a quality sports program, whether that is through public schools or through programs like Saturday Night Lights. I believe it is essential for the City Council and the City to advance youth sports. As a current student in the New York City public school system, it is consistently underfunded. That is one of the only ways we could get into varsity or junior varsity sports, and the way that the organization funds teams — in regards to big schools, small schools and where they are located within the boroughs — is extremely inequitable. Often small schools or neighborhoods with smaller student counts are not able to offer a diverse range of sports teams or any sports teams at all, and that is very inequitable within New York City.
+
+On the other part, with programs and specifically Saturday Night Lights, there is a huge disparity in the amount, location and type of programming offered by this program within New York City. For example, I go to the Saturday Night Lights program at our local recreational facility. The facility gymnasium is very apparently run down, we are very overcrowded, and it is very clear that immediate action or more programs should be opened up to help this effort. Thank you.
+
+(02:01:12)
+
+Thank you so much. I know we were talking about the fatherhood initiative and some issues you were having with that. My staff — he came up, you can give him your contact information so we can connect you to some of the resources. Assembly Member Davis, who was here, has been working with some legal organizations as well. So just be able to take your information and share our information so we can stay in contact. Those are the only questions I have at this time. Thank you for talking about the sports program — that is a good initiative to get that money from the State so it can be distributed throughout the City.
+
+(02:01:54)
+
+I have no more questions for this panel. Thank you so much. We will go back to the open testimony stage.
+
+(02:02:09)
+
+Thank you to everyone who came here to share your thoughts and experiences today. If there is anyone else left in the room who wished to speak but has not yet had the opportunity to do so, please raise your hand and fill out an appearance card with the Sergeant at Arms in the back of the room. Seeing no hands, we will now shift to Zoom testimony. When your name is called, please wait until the member of our team unmutes you and the Sergeant at Arms indicates that you should begin.
+
+(02:02:50)
+
+The first Zoom registrant is Amanda Wilkinson.
+
+(02:02:52)
+
+You may begin. Hi, good afternoon everyone, and thank you Chair Stevens and the Committee on Children and Youth. I am a single mother, I am a healthcare provider and mandated reporter in the City of New York. I am here in West Harlem. As a mother and as an advocate for my own child but also in the community, I have brought more awareness — and I have heard more awareness from other parents who have had the unfortunate experience of immense and intense bullying, physical assault and harm, where their children were not safe. When these reports were being made with school staff by the students or the parents, those reports were ignored. They were not addressed in any way. Recording has to go above school leadership, which is just...
+
+(02:03:53)
+
+Does this have to do with Cornerstone or Beacon or any of the resolutions? Otherwise we need you to stay on topic. Understood. Okay, thank you.
+
+(02:04:02)
+
+My proposal — and I actually do have some comments, and I am actually very happy to hear about the Cornerstone and the fatherhood initiatives. Being a single mother, it is nice and refreshing to hear that fathers do want to take the initiative, because unfortunately there are also children like myself who are not being able to afford legal representation or any advocacy when the fathers are absent, and they do not have the ability to receive child support or any services that their children do deserve and need by State law. So I would love to also support mothers in that way somehow, with community help. But I would also somehow like to support the fathers who are taking the initiative too, because it is a community — it is a collaborative community, there are two sides of it as well.
+
+(02:05:07)
+
+Thank you, your time has expired. Thank you.
+
+(02:05:10)
+
+The next Zoom registrant is... we are making a final...
+
+(02:05:39)
+
+...call for Zoom participants who have not yet spoken. If you are currently on Zoom and wish to speak but have not yet had the opportunity to do so, please raise your hand using the raise hand function and a staff member will unmute you. I would like to note that everyone can submit written testimony at council.nyc.gov within 72 hours of this hearing. I would like to extend my thanks to my dedicated community members who offered their testimony today, to the folks who run these excellent community-based programs and to the staff who helped organize this hearing. With that, I will adjourn this hearing.
