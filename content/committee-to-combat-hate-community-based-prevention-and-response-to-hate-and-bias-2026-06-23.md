@@ -1,0 +1,1340 @@
+---
+committee: "Committee to Combat Hate"
+committee_slug: committee-to-combat-hate
+title: "Community-Based Prevention and Response to Hate and Bias"
+date: 2026-06-23
+slug: committee-to-combat-hate-community-based-prevention-and-response-to-hate-and-bias-2026-06-23
+duration: "2hrs 9m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260623-130832.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416405&GUID=F4663592-940A-4F5A-8A7B-624633869B5B&Search="
+chairs: "Yusef Salaam"
+members: "Shekar Krishnan, Darlene Mealy, Pierina Ana Sanchez, Lynn C. Schulman, Carl Wilson, Julie Won"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee to Combat Hate held an oversight hearing on community-based prevention and response to hate and bias in New York City. The hearing featured testimony from three city offices — the Office for the Prevention of Hate Crimes (OPHC), the Mayor's Office to Combat Anti-Semitism (MOCHA), and the Mayor's Office of Faith-Based and Community Partnerships — followed by public testimony from the ADL, Hispanic Federation, Sikh Coalition, Federation of New York, CAIR New York, Simon Wiesenthal Center, American Jewish Committee, and the NYC Anti-Violence Project. The headline news from the administration side was the Mamdani administration's decision to increase OPHC's annual funding from roughly $3 million to $29 million, an increase of over 800%, framed as a foundational investment in prevention rather than reaction.
+
+Chair Yusef Salaam opened by noting that citywide hate crime complaints fell 20% in 2025 compared to the prior year across all four major bias categories, while flagging that aggregate progress masked real spikes in specific communities, notably anti-Buddhist hate crimes and hate crimes against women. OPHC Executive Director Jeremy outlined the office's main programmatic infrastructure: the PATH initiative (Partners Against Hate), which channels funding through six anchor organizations and over 40 sub-grantees to deliver programming in more than 20 languages across all five boroughs; the Seven on Seven corridor engagement initiative along Roosevelt Avenue in Queens; and the Youth Ambassador Leadership Program (YELP) targeting ages 8-18. He described pre- and post-survey data showing measurable gains in student understanding of hate, bias and discrimination following school programming. The office currently has three staff members, which the administration acknowledged is inadequate given the scope of the mission, with plans to expand significantly using the new funding.
+
+MOCHA Executive Director Felisa Wisdom described an office that grew from a single employee under the previous administration to a current staff of two, with plans to reach three or four pending budget finalization. She is conducting a listening tour across all five boroughs and plans to release what she described as the first municipal strategy to combat antisemitism in the United States by end of summer 2026. She noted that anti-Jewish hate crimes represent over 50% of all hate crimes in New York City, and that nearly every visibly Jewish person the office has spoken to reported personally experiencing an antisemitic incident. Chair Salaam used his questioning time to raise a substantive definitional argument — that Arabic and Muslim communities are also Semitic peoples and could reasonably fall under an expanded definition of antisemitism — which Wisdom politely declined, noting that the term is universally understood to refer to anti-Jewish hatred and that other offices hold the broader portfolio. The exchange was notable as a preview of ongoing tensions around how the city categorizes and prioritizes different communities experiencing hate.
+
+CM Darlene Mealy raised important operational gaps, questioning whether OPHC's anchor organizations were actually reaching communities in East Flatbush, Brownsville, East New York and Ocean Hill — areas she represents. She pointed out that the 67th Precinct Clergy Council, listed as a key anchor, does not meaningfully operate in the middle of East Flatbush. She also challenged the administration on Local Law 49 of 2020, which requires OPHC to notify community boards, elected officials and community-based organizations of violent hate crimes within 24 hours, stating that she was not receiving those notifications and only learned of hate crimes in her district when the precinct texted her personally. OPHC acknowledged this and committed to ensuring she is on the distribution list. Public testimony reinforced recurring themes: chronic and severe underreporting across Muslim, Sikh, Latino, LGBTQ and Orthodox Jewish communities; language access barriers; the need to expand community-rooted organizations as the delivery mechanism for prevention; and growing concern about online radicalization targeting younger and younger children. The Anti-Violence Project, testifying via Zoom, reported a 35% increase in hotline calls and extensive wait lists for legal services, signaling that demand for survivor support is outpacing current capacity even before the new funding is deployed.
+
+Numbers
+
+- Citywide hate crime complaints fell 20% in 2025 compared to the prior year, across all four major bias categories: religion, race and ethnicity, gender and sexual orientation.
+- Anti-Jewish hate crimes represent over 50% of all hate crimes reported in New York City.
+- OPHC annual funding increased from approximately $3 million to $29 million under the Mamdani administration, an increase of over 800%.
+- In fiscal year 2025, OPHC conducted nearly 700 events through PATH and OPHC-led programming.
+- In fiscal year 2025, OPHC engaged more than 62,000 participants across New York City.
+- OPHC worked alongside over 240 partners in more than 20 languages in fiscal year 2025.
+- PATH operates through six anchor organizations and more than 40 sub-grantees.
+- OPHC community project grants provide $10,000 each to organizations or individuals aged 14 and older, with approximately 12 seed grants awarded in 2025 and 14 in the following cycle.
+- Seven Unity Grants of $20,000 each are awarded annually to LGBTQ+ community groups through a program run in collaboration with the Mayor's Office of LGBT+ Affairs.
+- OPHC youth programming pre- and post-surveys showed that more than 18% of students gained an understanding of the difference between hate, bias and discrimination, and more than 20% became aware that engaging in hate, bias or discrimination carries consequences.
+- MOCHA currently has two staff members, with plans to expand to three or four pending the executive budget.
+- MOCHA is expanding 300-400% relative to the previous administration in staffing terms.
+- OPHC currently has three staff members: an Executive Director, Deputy Executive Director, and Senior Programs Manager.
+- The Interagency Committee on Hate Crimes convenes more than 20 agencies and meets quarterly.
+- ADL recorded 1,160 antisemitic incidents in New York State in 2025, the highest of any state in the nation, accounting for nearly one in five of all incidents recorded across the United States.
+- 74% of New York State antisemitic incidents recorded by ADL in 2025 occurred within the five boroughs.
+- 2025 was the third highest year for antisemitic incidents since ADL began tracking data in 1979, nearly double pre-October 7 record highs.
+- Jewish Americans are harassed, assaulted or targeted an average of 17 times per day nationally according to ADL data.
+- 56% of Jewish New Yorkers reported changing their behavior out of fear of antisemitism, per the 2025 State of Antisemitism in America report.
+- ADL's No Place for Hate initiative reaches over 300 schools and over 200,000 students across New York and New Jersey.
+- Hispanic Federation's 2023 community canvassing surveyed more than 10,000 New Yorkers; 31% did not know what legally constituted a hate crime, and 78% of those who had experienced one had never reported it.
+- CAIR New York reported that 64% of Muslims surveyed had experienced a hate crime, a bias incident or both, yet only 4% of those who experienced a hate crime reported it to law enforcement.
+- 75% of Muslim women surveyed by CAIR New York had experienced a hate crime, a bias incident or both.
+- Hate crimes against Muslims rose 130% nationally between 2020 and 2025 according to CAIR New York data, and 106% in New York State between 2018 and 2023 according to the New York State Comptroller.
+- NYPD recorded only 43 anti-Muslim hate crimes in New York City in 2024, a figure CAIR New York argues significantly undercounts actual incidents.
+- NYC Anti-Violence Project hotline calls are up 35%, with extensive wait lists for legal services.
+- OPHC community project grant applications increased by 300% in their most recent cycle, and by 600% over the first year of the program.
+- The Office of Faith-Based and Community Partnerships currently has four staff members including the Executive Director, with a fifth position actively being hired.
+- OPHC's PATH programming reached communities in 26 of New York City's 51 Council districts.
+
+Action Points
+
+- OPHC to verify that CM Mealy and her office are included on the Local Law 49 hate crime notification distribution list and ensure notifications are sent to all required recipients within 24 hours of receiving NYPD reports.
+- OPHC Executive Director to schedule a meeting with CM Mealy's office to discuss programming gaps in East Flatbush, Brownsville, East New York and Ocean Hill and identify how expanded funding can address underserved areas in those communities.
+- OPHC to provide CM Mealy with information on which community project grant recipients are operating in her district, including the New Red Lotus in Brownsville as an example.
+- OPHC to expand the Seven on Seven transit corridor model from Roosevelt Avenue to additional subway lines citywide, with the 4, 5, 2, 3, A, C, E, J and M lines specifically named as priorities.
+- OPHC to use expanded funding to increase PATH anchor organizations and sub-grantees beyond the current 60-plus, with Bed-Stuy and other underserved neighborhoods cited as explicit targets.
+- OPHC to develop a restorative justice pathway for individuals who have committed hate crimes, as part of expanded youth and community programming, prioritized for scaling if FY2027 budget funding is confirmed.
+- OPHC to expand Youth Moving Forward Against Hate and YELP programming to additional schools, including lower grade levels and college campuses, using new funding.
+- MOCHA to release the first municipal antisemitism strategy in the United States by end of summer 2026, drawing on its ongoing listening tour.
+- MOCHA to develop and formalize communications practices and continue updating its public website at nyc.gov/combatantisemitism to improve public accessibility.
+- MOCHA to convene the inter-agency task force on antisemitism on a regular basis, having revived a group that previously met only once under the prior administration.
+- ADL to work with OPHC and the City Council to expand uptake of the No Place for Hate program in New York City public schools.
+- ADL to continue and expand its Google Aura AI-powered education assistant for K-12 use in New York City.
+- Simon Wiesenthal Center to seek expanded City Council district partnerships to bring its Combating Hate in Digital Spaces workshops and Mobile Museums of Tolerance to more public schools across all five boroughs.
+- Simon Wiesenthal Center education team to develop age-appropriate digital literacy curriculum for students younger than seventh grade, targeting elementary school age children.
+- CAIR New York to follow up with CM Mealy's office with New York City-specific data on anti-Muslim hate crime reporting and incident rates.
+- ADL to follow up with CM Mealy's office with available data on hate crimes affecting Black Jewish communities and African diaspora communities.
+- NYC Anti-Violence Project to submit written testimony to testimony@council.nyc.gov given inability to complete oral testimony due to illness.
+- OPHC to report to the committee on how it determines which neighborhoods are underserved and provide detail on its geographic targeting methodology for PATH sub-grantees and seed grants in Staten Island and the Bronx.
+
+## Full Transcript
+
+**(00:00:15)**
+
+
+
+Good afternoon, everyone, and welcome to today's New York City Council hearing for the Committee to Combat Hate. If you would like to testify, you must fill out a testimony slip with one of the Sergeants at Arms. You can also submit testimony at testimony.council.nyc.gov. At this time, please silence all of your devices and no one should approach the dais at any time during this hearing.
+
+**(00:00:39)**
+
+
+
+We are ready to begin. Good afternoon, everyone. My name is Yusef Salaam and I serve as the Chair of the Committee to Combat Hate. I would like to first start off by thanking everyone for joining us here today and I would also like to recognize my colleagues as they come into the room.
+
+Today's oversight hearing examines the role of community engagement in preventing and responding to hate and bias. New York City is one of the most diverse places on Earth. That diversity is our greatest strength and it is a source of great pride and unity for New Yorkers. Hate crimes strike at the very heart of this strength by seeking to divide, seeking to pit us against each other as opposed to uniting one another. They target not just the individual but all of our communities, sending a message of fear and exclusion to all who share the victim's faith, the victim's race, the victim's gender identity or the victim's background. That harm is immediate but it can reverberate throughout generations.
+
+At our last hearing we examined some very concerning multi-year trends of increasing hate crime and bias. Yet in 2025 we also saw some encouraging trends. Last year New York City recorded a 20% citywide reduction in hate crime complaints across the board compared to the prior year. This includes decreases across all four major categories of bias: religion, race and ethnicity, gender and sexual orientation and of course each.
+
+Much of this progress reflects sustained investments in prevention and youth leadership and community outreach and in coordinated citywide action. We are here to learn more about this work and how it can be supported and expanded in the coming years. At the same time, we must also take an honest look at where the fight against hate is falling short. Even in a year of overall progress, some communities still suffered spikes in hate and bias violence. Buddhist communities, for example, saw a dramatic increase in reported hate crimes and anti-female crimes rose as well. These variations remind us that aggregate data can obscure real challenges and harms.
+
+We must ensure that no community is left behind, that no community is ignored. We also know that hate crimes are chronically underreported, not necessarily because of distrust in the government, although that can be a part of it. Instead, many turn to their communities for trusted support when they have been the target of hate and bias. This is why it is crucial that we partner with community-based organizations to build trust, to encourage reporting and to connect affected individuals and communities with the resources and support they need.
+
+Today we will hear from three offices whose work reflects this principle: the Office for the Prevention of Hate Crimes, the Mayor's Office to Combat Anti-Semitism and the Mayor's Office of Faith-Based and Community Partnerships. I look forward to a thoughtful discussion surrounding these issues as well as feedback and testimony from the administration and, of course, members of our public.
+
+**(00:04:32)**
+
+
+
+I would now like to pass it to our committee counsel to administer the oath. Good afternoon, everyone. Thank you for being here. If you could raise your right hand, please, and repeat after me. I swear to tell the truth, the whole truth and nothing but the truth before this committee. Thank you.
+
+**(00:04:56)**
+
+
+
+Good afternoon, Chair Salaam, members of the Committee to Combat Hate and all members of the New York City Council. My name is Jeremy, and I am the Executive Director for the New York City Office for the Prevention of Hate Crimes, also known as OPHC, which under Mayor Mamdani's leadership is now proudly part of the City's new Office of Community Safety.
+
+Before I begin, I want to thank Mayor Mamdani, the Deputy Mayor of Community Safety, Deputy Mayor Francois and the Commissioner of the Office of Community Safety, Dr. Brahms, for their bold vision and for making the prevention of hate a genuine priority of this administration. The decision to bring OPHC into the Office of Community Safety was not a routine reorganization. It was a clear statement of values. Preventing hate before it ever takes hold is not peripheral to public safety but rather it is central to it. That commitment has finally given offices like ours the mandates, the partners and the support to do the work. No longer an afterthought expected to solve growing challenges without the resources necessary to meet the moment, this administration has made a different choice. The Mamdani administration has made an unprecedented commitment to hate prevention by increasing funding to OPHC by $26 million, an increase of more than 800%. This historic investment recognizes that preventing hate is not simply about responding after incidents occur. It is about building resilient communities where hate cannot take root in the first place. For the first time OPHC is being resourced at a scale that matches both the urgency of this mission and the diversity of the City it serves.
+
+That investment will allow us to expand programming, deepen partnerships, reach more communities, hire more staff and build a citywide prevention infrastructure. It is an investment worthy of our City, the most diverse in the world. That diversity is one of our greatest strengths, but it also requires intentional investments to keep those bonds strong: investments in relationship building, investments in education, investments in community trust. Today I would like to highlight how OPHC, with the backing of the Mamdani administration, fulfills its mission to prevent hate, strengthen communities and foster belonging across our City. No New Yorker should ever feel unsafe because of their identity, their beliefs, their appearance or their background. This administration has made that principle a foundation of its community safety agenda and OPHC is proud to help carry it forward.
+
+One of the primary ways we accomplish this work is through the Partners Against Hate initiative, or PATH. PATH is the backbone of New York City's community-based hate prevention infrastructure. Through six anchor organizations and more than 40 sub-vendors, PATH provides culturally responsive programming in more than 20 languages and reaches communities across all five boroughs. Because we believe hate prevention is not only about responding after harm occurs, PATH helps build resilient communities by creating opportunities for New Yorkers to connect, learn from one another and recognize the common humanity that binds us all.
+
+In fiscal year 2025 alone, through PATH and OPHC-led programming, we conducted nearly 700 events, engaged more than 62,000 participants across New York City, worked alongside over 240 partners and in over 20 different languages. These efforts include anti-hate education, victim support services, conflict de-escalation training, youth programming and outreach to communities that have historically faced barriers to reporting hate incidents. What makes PATH successful is that it is led by trusted organizations deeply rooted in the communities they serve. These organizations are often the first residents turn to for support, information and healing after experiencing bias or hate. Our PATH
+
+**(00:10:11)**
+
+
+
+partners, including the 67% Clergy Council, the Jewish Community Relations Council, the Anti-Violence Project, the American Association of New York, the Asian American Federation and the Hispanic Federation, work together to combat anti-Semitism, anti-LGBT+ hate, Islamophobia, anti-Asian hate, anti-Arab hate, anti-Black racism and other forms of bias while fostering inclusion, solidarity and safety for all New Yorkers.
+
+The impact extends beyond any single event. When communities have trusted relationships, know where to seek help and feel connected to one another, they are better equipped to prevent conflicts from escalating, support victims when incidents occur and build resilience against hate and bias.
+
+Another way we accomplish this work is by bringing communities together through initiatives such as Unity in the Community: Seven on Seven. This initiative emerged during a period of heightened concern along Roosevelt Avenue in Queens. Public conversations about street vending, quality of life concerns and changing conditions in the corridor were creating tension among residents and community groups, threatening to erode trust and deepen division. Rather than allowing communities to retreat further into silos, OPHC sought to create spaces for dialogue and connection. OPHC and its partners brought together communities connected by the 7 train corridor — Seven on Seven — including East Asian, South Asian and Southeast Asian communities, Latino communities, LGBTQ+ and other diverse communities. We partnered with City agencies to bring resources directly to neighborhoods while creating opportunities for residents to share experiences, learn about one another's cultures and identify common concerns. The goal was simple: to remind New Yorkers that there is more in common that unites us.
+
+This initiative demonstrated the power of bringing communities together by creating opportunities for residents to connect, share experiences and build relationships. It helped strengthen trust, deepen understanding and reinforce the sense of belonging that makes communities resilient. These connections are the foundation of community cohesion, helping neighbors see one another not as strangers but as partners in building a stronger and more connected community.
+
+Finally, a critical part of our long-term prevention strategy is investing in young people through the Youth Ambassador Leadership Program, or YELP. Launched in October 2025 in partnership with New York City public schools, the Youth Ambassador Leadership Program empowers young people between the ages of 8 and 18 to become ambassadors of inclusion, respect and belonging. The program brings together participants from all five boroughs who receive training in leadership development, civic engagement, public speaking, community organizing and restorative practices. What makes YELP particularly powerful is that young people are not simply learning about leadership. They are practicing it. Participants in the program return to their schools and communities to lead projects, facilitate discussions and serve as positive role models for their peers. At a time when many young people are exposed to misinformation, division and online hate, YELP provides an opportunity to equip the next generation with the tools necessary to build more inclusive communities. The young people we engage today will become the community leaders, educators, public servants, business owners and parents of tomorrow. By teaching empathy, leadership, civic engagement and respect for differences, we are investing in the long-term prevention of hate and bias before it takes root.
+
+All told, our programming at OPHC, which includes interfaith engagement, youth art projects, community dialogues, anti-hate education and victim support services, helps build trust, strengthen relationships across communities, support victims and create opportunities for New Yorkers to engage across differences before conflicts occur. As part of the Office of Community Safety and with the support of Mayor Mamdani, Deputy Mayor Francois and newly appointed Commissioner Dr. Delaney Brahms, OPHC is working closely with our partner offices to strengthen coordination, share data and best practices and identify new opportunities to advance community safety together. We are helping shape a coordinated approach to prevention that recognizes the important role community engagement, education and relationship building play in keeping New Yorkers safe.
+
+Mayor Mamdani's historic investment in OPHC will allow us to expand and enhance our work. We are exploring ways to deepen engagement with emerging community-based hate prevention efforts, broaden access to culturally responsive programming and build upon successful initiatives such as the PATH program, the YELP program and community project grants.
+
+Finally, I want to emphasize that preventing hate is not the responsibility of any one agency. It requires collaborative effort across government, schools, faith communities, nonprofit organizations, community leaders and everyday New Yorkers. We are fortunate to do this work under an administration that shares that belief and has backed it with real attention and investment. OPHC is proud to serve as a convener in that work. Every day we witness communities choosing understanding over division, dialogue over conflict and unity over hate. Those moments do not always make the headlines but they are the foundation of a safer and stronger New York City. Under Mayor Mamdani's leadership, we have a true opportunity to build a City where identity is strengthened, communities are connected and neighbors see one another as partners in a shared future. By investing in prevention, we can address the conditions that allow hate to take root and create communities that are more resilient, inclusive and safe. Thank you for your continued partnership and support. I look forward to answering any questions you have.
+
+**(00:17:39)**
+
+
+
+Thank you. Thank you for your testimony. I would like to recognize that we have been joined by CM Darlene Mealy. Thank you.
+
+**(00:17:51)**
+
+
+
+Chair Salaam and all esteemed members of the Committee to Combat Hate, my name is Felisa Wisdom and I am the Executive Director of the Mayor's Office to Combat Anti-Semitism. The Mamdani administration is deeply grateful to all of you for the work that you do both in this committee and outside of it to ensure that our City remains safe and welcoming for every single New Yorker, regardless of their background.
+
+Our City is in a delicate moment. Even amidst the joy that so many of us have felt this summer, while hate crimes as a whole are on the decline, we see a distressing trend of rising hate crimes targeting the Jewish community, making up over 50% of the sum total. The Mayor's Office to Combat Anti-Semitism is in the midst of a listening tour with members of the Jewish community across all five boroughs. While we have heard universal appreciation for the diversity of this City and its rich Jewish culture, we have also heard some distressing anecdotes. Nearly every single visibly Jewish person we have spoken to — for example, someone who wears a kippah or other religious garment — has said that they have personally been the victim of an anti-Semitic incident. These incidents have left entire communities shaken, afraid to proudly do what they have done for years, to simply be who they are in the greatest city in the world. Other New Yorkers who wear religious garments understand this fear. Whether or not these rise...
+
+**(00:19:09)**
+
+
+
+To the level of crimes they represent, a tear in the fabric of our City. It is wrong, it is unacceptable. And it is something that my office, in collaboration with the NYPD, OECD, City Commission on Human Rights, and the Office of Mass Engagement, and many other offices up to and including the Mayor himself, is working day in and day out to chip away at.
+
+When this administration entered City Hall, the Mayor's Office to Combat Antisemitism was a six-month-old office consisting of a single employee. The work was not yet designed to stand the test of time beyond any one administration.
+
+The Mayor and our team have set out to remedy that. I am joined in this work by Deputy Director Josh Benderman, and we are in the midst of growing our staff to at least one or two others. This office will be equipped to advance meaningful and proactive policy, programming and messaging with a goal to stand the test of time. We have revitalized this office. I have been meeting individually with nearly every single member of the interagency task force on antisemitism, while also convening an initial group meeting to discuss how antisemitism arises in the context of various agencies. Previously, this task force had a single meeting, and members are enthusiastic about working together in pursuit of our shared goals.
+
+We maintain strong, consistent, open lines of communication with NYPD and other offices. This office serves as a facilitator for conversations on these issues with a variety of agencies. Our office has developed and retained close relationships with clergy organizations and other community leaders to understand how antisemitism impacts their day-to-day work and the New Yorkers they serve. Moreover, our office, along with the Office of Mass Engagement, plays a critical role in constituent services, ensuring that Jewish communities around New York City are able to access functions of government while also ensuring cultural competency across agencies.
+
+Our office seeks to combat antisemitism with a robust, full, whole-of-government approach with education on the front end and on the back end. As I mentioned at the beginning of my testimony, our office is deep in the throes of our listening tour, having met with scores of Jewish New Yorkers from across the religious and political spectrum. We are using these sessions in part to develop what will be the first municipal strategy to combat antisemitism in the United States. We are tracking to have this released by the end of the summer.
+
+Any New Yorker who is interested in joining a listening session or otherwise connecting with our office can reach out via the contact form on our website, which is at nyc.gov/combatantisemitism. On this note, the administration strongly believes that government should be accessible. Under the previous iteration of this office, there was not a website or way to contact the office unless you had an existing connection. Therefore, it was a priority for us to develop a website where New Yorkers could get in touch with us, while also demonstrating details of some of the day-to-day work of our office. The website will continue to be updated over the coming months and years, and we look forward to further developing and formalizing all of our communications practices.
+
+Finally, I would be remiss if I did not mention what my colleague just mentioned, which is one of the most exciting priorities and accomplishments of the Mamdani administration thus far: the massive influx of funding into OPHA. OPHA funding has dramatically increased under this administration from $3 million annually to $29 million annually, an increase of 886 percent. We are in close communication with OPHA and the Office of Community Safety broadly regarding how to best use this increased funding to meaningfully combat antisemitism alongside our administration's work to combat all other forms of hate.
+
+Thank you again for inviting my colleagues and I to testify before this critical Committee. I look forward to answering your questions and continuing our shared work. Thank you.
+
+**(00:24:12)**
+
+
+
+All right. I am going to start. Thank you for your testimony. I would also like to acknowledge that we have been joined by CM Carl Wilson. I am going to start with some questions, starting with the Office of the Prevention of Hate Crimes. OPHA prides itself on its work with community partners. Could you speak to some of the long-term partnerships that you have in this space and the selection process for these partnerships?
+
+**(00:24:53)**
+
+
+
+Yeah, thank you so much. Obviously the SEEPATH program is the vehicle where we work with over 60 plus organizations, but we have six major anchor organizations who we work with directly and then they have some vendors on each of the portfolios. Namely, we have the God Squad, the Jewish Community Relations Council, the Arab American Association of New York, the Hispanic Federation, the New York City Anti-Violence Project and the Asian American Federation. If I missed that one... Those are the six anchor organizations that we have worked with since the inception of this office in 2019. Those groups are the broader groups who can take on a load of the work, but also do the grassroots work on a grassroots level across New York City's diverse communities, and they have the bandwidth to do so across all five boroughs. Thank you.
+
+**(00:25:47)**
+
+
+
+How does OPHA allocate funds to organizations that it works with? And are there some neighborhoods that are prioritized when it comes to funding, and if so, what is that prioritization based on?
+
+**(00:26:06)**
+
+
+
+Yes. So before my time in the office, in 2019 when this office was founded, those were organizations that were selected for programming. After coming into this role, I realized the great work they were doing and also the diversity of portfolios they have under each of the organizations. The way we allocate the funding is historically each organization receives the same amount of funding across the $3 million, and then they sub-grant to vendors across New York City to reach most of our neighborhoods. Of course, with the prior funding, we could not reach every single community. That is why we welcome that this administration has expanded funding by 800% to make sure that we are going to meet most communities in New York City going forward. In fiscal year 2025, we worked towards reaching communities that are typically underserved by prevention services. For example, through the PATH program in 2025, we reported engaging with five grassroots organizations in underserved areas of Queens, Brooklyn and Manhattan.
+
+**(00:27:18)**
+
+
+
+Which areas in Queens, Brooklyn and Manhattan were targeted? How does OPHA determine whether an area is underserved? And are there plans to target areas in Staten Island and the Bronx?
+
+**(00:27:30)**
+
+
+
+So I am happy to report that, aside from the PATH program, OPHA also works in partnership with the City Commission on Human Rights. We have a program called the Community Project Grants, where we sought to fund 10 organizations across New York City, or individuals, anyone 14 years old or older, with $10,000 each year to meet those needs that you mentioned before — the pockets that we feel are missing out on community grassroots work. Also, in the past two months, we worked with a group called Queens Against Hate because of the rise in hate crimes in Queens, specifically in the Forest Hills area, Rego Park area, Kew Gardens area, and we pivoted to make sure we give out seed grants as well. So this past year in 2025, we funded...
+
+**(00:28:21)**
+
+
+
+Approximately 12 different seed grant opportunities, and this year we gave out 14 seed grants to different community members across the City to meet their needs as hate crimes happen.
+
+**(00:28:36)**
+
+
+
+And can you tell us more about the Roosevelt Island Seven on Seven series, and any initial feedback that you have received from the communities that are being served? Has this project concluded or is engagement with these communities ongoing? And are there plans to replicate the Seven on Seven model by working with any other transit corridors or by replicating any other successful aspects of this particular series?
+
+**(00:29:03)**
+
+
+
+Yeah, thank you. I am very proud of the Seven on Seven programming. The name is catchy, right — Seven on Seven. So we want to do five on the ones and ten on the tens, and you know, one of the strengths of New York City is its diversity. I think if you go into any train car in New York City, you will find the wealth of New York City's diversity on any car. Sadly, no one speaks to each other. So we have used the veins of the natural existing subway lines and bus routes to use those as connectors of communities, but more so to highlight that diversity and also to bring those communities together.
+
+The Seven on Seven project came about at a time when we saw heightened community disharmony along Roosevelt Avenue, with different communities blaming each other for street vending or whatever activities were happening. So we saw this as an opportunity to bring these communities together. But more importantly, we want to bring communities who belong to one part of the world into the same room to build unity within that community. For example, we brought together 12 South and Southeast Asian communities in one room. We brought together six different nations in one room for the East Asian community. We brought together people from about 10 different countries for the South Asian community, breaking bread and building bonds. These programs bring these communities together first and foremost to build belonging — to say, here we see you, we appreciate you, and we value what you bring to New York City.
+
+This program is ongoing. We have completed six of the seven sessions, and the final one is going to bring all the communities together, and we want to say we are one Roosevelt Avenue. We have heard positive things about this program in the sense that communities felt seen, they felt respected, they felt heard, and more importantly, City government as a whole is coming to their doors, bringing resources and saying, how can we serve you, how can we make sure you feel respected exactly as you are. This is one of the priorities of this administration, to make sure every New Yorker is served. And again, I am thankful and grateful for the Mamdani administration's expansion of 800% in our office to make sure we can expand this program, of course with staff as well, to every borough. So we have five of these sessions happening all the time across all five boroughs. Staten Island only has one train, but we find other routes as well.
+
+**(00:31:29)**
+
+
+
+OPHA emphasizes the importance of working with our City's youth as key components in hate prevention. Which of your youth-based initiatives have seen particular success and what do you attribute that to? In addition to that, what feedback have you received from the young people that participate in your programs and events, and how is this feedback incorporated into future planning?
+
+**(00:31:55)**
+
+
+
+Thank you for that. So we have a young lady, her name is Zoe. We started a program called Youth Moving Forward Against Hate. This initiative started in January of 2025 when I came into this role. At that time we saw a lot of college campuses experiencing heightened hate, bias and discrimination. My thought was that at some point these college campus students were youths. And I truly believe that the first time a child or person encounters what a hate crime is should not be when they commit one or when one is committed towards them. They should know the difference between bias, discrimination and hate. And more importantly, they should know that there are consequences for these actions, but also to build unity and alliance among these students at a very tender age.
+
+So the Youth Moving Forward Against Hate program — we are in schools. It was groundbreaking because before, people said it could not be done because parents would rally against it. And we found a way to work with principals and school districts to say, how can we come to your schools and speak to the fourth and fifth graders, so they leave with that knowledge going into middle school about hate, bias and discrimination. How can we speak to students in the seventh and eighth grade and high school students in the eleventh and twelfth grade, and extend this programming also to colleges? And I am proud to say we have worked with City College of Technology in Brooklyn to also bring this knowledge there.
+
+What we are doing is talking about hate, bias and discrimination — the difference between these things, how to recognize it, but more importantly how we can build allyship, how we can appreciate the differences in our class. And what we have seen at this point is that more than 35% of our students — and we do a pre and post survey for this programming — we leave each student with one of these brochures that we have printed out. We have an elementary school brochure, we have a high school brochure, we have a middle school brochure, an adult version. And at the back of these brochures there is a part to sign: "I pledge to help create a community where everyone is safe and accepted, and I pledge to defend my peers if they are being targeted based on who they are, and I pledge to help New York City move forward against hate." Each student gets one of these to sign and they make an informal pledge. They pledge to tell the truth. And they say they are going to be a part of the solution to hate crimes. The point is, this work cannot be done from my office sitting where I am. It has to be done at every single level — on the grassroots level, at the schools, at the mosques, at the synagogues, on the streets. Wherever we can go, we go. And we ask each student to sign the pledge, keep the flyer and keep it with them.
+
+**(00:34:32)**
+
+
+
+Lastly, I will say that we have seen that more than 18% of students now understand the difference between hate, bias and discrimination — what resources are available at school — and more than 20% of them now know they can get in trouble if they continue to engage in hate, bias and discrimination. Listen, that is really, really excellent. Young people are often, unfortunately, exposed to hate right in their very own schools, one of the places that they should feel the safest. So my question is, how does OPHA track the impacts of its work in schools, whether it be bullying, hateful graffiti, property damage or hate-motivated violence? Has any school reported improvements as a result of the OPHA programming that has been conducted? And also, has OPHA ever been contacted for guidance or education specifically in response to an...
+
+**(00:35:31)**
+
+
+
+...incident at a school? Yeah, thank you for that question. So again, OPHA's work is not enforcement in nature. We are preventative. So we do not want anyone calling the NYPD Hate Crimes Task Force in the first place. But we do get our reports from the NYPD Hate Crimes Task Force, who gives us a report quarterly and monthly. As I asked them to, they let me know which schools are seeing increased reported bias incidents happening on their premises, and then we reach out to those schools. I would say, hey, here is what we can do to help you do this programming, and we go...
+
+**(00:36:05)**
+
+
+
+...to the schools and we meet them. This program has been successful as we have received a lot of incoming requests to go to schools. We have also gone beyond the New York City public schools. This past year we went to the largest imam training school in Richmond Hill on Hillside Avenue, where we educated all the students who were part of that school. So we go beyond the New York City public schools. Anywhere students are learning, we want to be there, teaching about hate, bias and discrimination.
+
+The good thing is, I am super excited about the administration's investment in our office, because while these are all programs we tested out to see if they were working and what the impact is, now we have the real backing, we have the real funding and a commitment from this administration to make sure we expand these successes across the City. Thank you for that.
+
+**(00:36:53)**
+
+
+
+I want to move towards the Mayor's Office to Combat Antisemitism.
+
+**(00:36:59)**
+
+
+
+Could you provide an overview of the work combating antisemitism covers?
+
+**(00:37:04)**
+
+
+
+Sure, thank you for that question. So, like my colleague, my office is not an enforcement office, but rather focused by executive order on prevention, policy and programming to prevent antisemitic incidents and also to increase social cohesion across groups, talking as a diverse City. I am concerned about antisemitism broadly, and of course, Arabs are ethnically Semitic — Aramaic and Arabic are Semitic languages, of course — and what we have seen is that Judaism, Christianity and Islam all were born in the Semitic region. Considering that scholarly studies have shown that hate against Muslims is often categorized...
+
+**(00:38:10)**
+
+
+
+Under race-based bias. We do not know the true numbers of anti-Muslim hate. On top of that, anti-Muslim hate is often not reported due to 9/11-related fear. In parallel, Arabs are often an ethnic, linguistic or ethnolinguistic group. What I find interesting is that considering the rise in hatred against Arabs, Muslims and Jews, despite underreporting of such incidents — specifically with regards to Arabs and Muslims — they continue to be miscategorized and thrown into a bucket of broader race-based hate incidents instead of being considered equally as antisemitic, despite being of Semitic origin. Can we expect that MOCHA will incorporate these groups under the umbrella of antisemitism and then sub-categorize them based on origin, such as antisemitism against Jews, antisemitism against Muslims and antisemitism against Arabs, et cetera?
+
+**(00:39:22)**
+
+
+
+So I agree with you that there are lots of forms of hate that are scary and rising and deserve an enormous amount of attention from our City government. Antisemitism is widely understood across countries and academic contexts to be prejudice, hatred and violence against Jews because they are Jewish. I understand what you are saying about "Semitic" and what that word means, but the term antisemitism is widely understood to refer to hatred against Jewish people because they are Jewish.
+
+So in terms of how this administration combats the serious crises of anti-Arab and Islamophobic hate and bias incidents, that is across other agencies. This office is focused on antisemitism and the safety and thriving of the Jewish community. Across all of our offices and across City Hall, there is certainly focus on those other communities, but I would defer those questions to my colleagues who work on a broader hate and bias portfolio.
+
+**(00:40:23)**
+
+
+
+No, I definitely appreciate that. I think that, especially in a place like New York City — the most diverse place in the world — there is definitely an opportunity for us to be able to pull that reality into the broader meaning of antisemitism. Because of course, those folks who are here are saying to themselves, "I am of Semitic origin as well. I speak Semitic languages. How come I am not included?" I think that to exclude them causes greater division, especially when we want to be able to... I am looking at what is going on around the world and the fact that countries have been able to begin tolerance exercises. I do not want to say "experiments," but they have been doing tolerance exercises and it has been really, really great. I think America, specifically New York City, has an opportunity to really be a leader in that particular space.
+
+**(00:41:22)**
+
+
+
+Thank you. I have colleagues in the room who I am sure will talk when it is time. Around colleagues and community organizations, I am sure we will talk about the definitions of those terms when it comes time for public testimony.
+
+**(00:41:34)**
+
+
+
+The Mamdani administration does understand the Jewish community but also sees a responsibility to combat all forms of hate in solidarity with each other. No form of hate is privileged above another when it comes to the focus and investment. As you heard, there is $26 million in additional dollars to the Office for Prevention of Hate Crimes, which is charged with prevention and combating hate across all identities in New York City. We are very excited to be partnering with them and with the Office of Faith Partnerships, NYPD and anyone who has a very broad purview and portfolio to combat hate, and that work is ongoing and taken very seriously.
+
+Well, I can say this as the chair of the Committee to Combat Hate: I do know that initially when we first started our hearings, the overwhelming sentiment was that this was specifically only going to be talking about antisemitism as understood by the broader definition of anti-Jewish. And of course, as the chair, I am supremely aware of my responsibility in also being able to have the melting pot — that kaleidoscope of the human family — really being represented here, especially in the City Council.
+
+**(00:43:01)**
+
+
+
+Maybe there is more to do and more to include as well. How many people are currently on staff at the Mayor's Office to Combat Antisemitism?
+
+**(00:43:13)**
+
+
+
+Currently there are two staff members and we, depending on the outcomes of the executive budget, will grow to three or four. Given that religion-based hate crimes generally, and antisemitic hate crimes specifically, are consistently among the most reported hate crimes, are there currently any plans to expand MOCHA?
+
+**(00:43:37)**
+
+
+
+MOCHA is experiencing an expansion of 300 to 400 percent from the previous administration, so yes, we are expanding. We have heard from some of our constituents. Okay, gotcha.
+
+**(00:43:57)**
+
+
+
+Could you tell us about MOCHA's outreach and community engagement efforts? What does MOCHA's on-the-ground work look like? Do you partner with any community-based organizations and are there any efforts being made towards interfaith cooperation and engagement?
+
+**(00:44:15)**
+
+
+
+Thank you for the question. To the last part, yes, there is interfaith work. We believe strongly in the Mamdani administration that combating hate is a group project. While each form of hate — Islamophobia, antisemitism — is unique, we are all impacted by hate in our City and need to be thinking about combating hate across all identities.
+
+In terms of community organizations, as you heard in my testimony, this office is really very new. So in terms of the norms of our day-to-day work, we are building those right now. The first order of business is a listening tour where we are talking with Jewish New Yorkers and people who work in the space to combat antisemitism across the religious and political spectrum across all five boroughs, to understand the work that they do, what the people that they serve are experiencing, and then we will make a first round of recommendations in our report...
+
+**(00:45:07)**
+
+
+
+...coming out at the end of the summer, and we will continue to iterate on that report going forward.
+
+**(00:45:14)**
+
+
+
+New York City is home to the largest Jewish population outside of Israel, and Jewish New Yorkers are not just one community but many. What kind of work is MOCHA doing in relation to increasing dialogue and understanding amongst the different Jewish communities inside of New York City itself?
+
+**(00:45:31)**
+
+
+
+Thank you for that question. It is true that there is both the work to increase intergroup understanding between groups, as well as — in the moment we find ourselves in — the Jewish community is quite divided and there is work to be done to increase cohesion among the Jewish community. The role of the Mayor's Office to Combat Antisemitism in that work, as opposed to communal organizations who do communal work, is to ensure that every single group has a seat at the table, has a relationship with the administration, has their voices heard and their experiences as Jews seen as legitimate and taken seriously.
+
+**(00:46:13)**
+
+
+
+There is a follow-up. Has MOCHA done any work in the restorative justice space and how much does MOCHA focus on education as a tool for rehabilitation?
+
+**(00:46:23)**
+
+
+
+MOCHA thus far has not — again, we are sort of picking up a very new office and looking at what that work will look like throughout the administration. I know that our colleagues, particularly in the Department of Education but also the entire administration and New York City public schools and other agencies, are thinking very seriously about how to infuse restorative justice practices into their work and we will support them in that.
+
+**(00:46:49)**
+
+
+
+Can you describe for us in more detail how MOCHA collaborates with other offices or agencies? What portion of MOCHA's work focuses on interagency collaboration and coordination versus direct engagement with communities?
+
+**(00:47:05)**
+
+
+
+So one of the things that we are tasked with doing by executive order is to convene an inter-agency task force on antisemitism. That task force, which we have picked up again, had previously met once, so there was not an enormous set of norms to follow through with. We are meeting with representatives from each agency and ensuring that there is a cohesive working group on this topic that is regularly meeting, sharing best practices with each other and infusing this work into the rest of the work the agency is doing to combat hate of all forms. And MOCHA is a relatively new office — are there any startup challenges or questions still facing it?
+
+**(00:47:48)**
+
+
+
+Thank you for that question. I think in a new administration in general, we are all figuring out what our offices look like. This office in particular, as you noted, is just over a year old and so we are really building its work in some ways from scratch, taking the report that was left by the previous administration but really building up policies and practices that make sense within the Mamdani administration. So I do not think we are seeing it as a challenge — we are seeing it as an opportunity to be really thoughtful and deliberate about what kinds of policies, programs and budget allocations would best serve our diverse communities. I think after year one, when we have been through a budget and we are fully staffed, we will just continue to see this work growing and evolving.
+
+**(00:48:34)**
+
+
+
+Absolutely. I am going to move towards the Mayor's Office of Faith-Based and Community Partnerships, which was established in 2022 by the previous administration with the purpose of connecting City agencies with faith communities throughout New York City. However, there is little public information about your work. The office's previous website was very minimal to begin with and it was recently taken down. My questions are: does the Office of Faith-Based and Community Partnerships plan to establish a more public presence, and how does the office currently engage with communities without having a public website?
+
+**(00:49:23)**
+
+
+
+Thank you so much, Chair Salaam, and thank you to the entire committee for allowing me to participate on this panel with my colleagues. My name is Ali Hadith. I am the Executive Director at the Office of Faith-Based Partnerships. Thank you for that question. The Office of Faith-Based Partnerships is under the auspices of the Office of Mass Engagement, so every New Yorker can get in contact with our office through the Office of Mass Engagement's website. The office generally works to support policies and programs related to social welfare, public safety and community engagement.
+
+**(00:50:05)**
+
+
+
+Could you give us some examples of such policies and programs and the groups the Office of Faith-Based and Community Partnerships has worked to support?
+
+**(00:50:11)**
+
+
+
+Thank you for that question. We work very closely with local congregations and nonprofits across the five boroughs. We have the capacity to liaise with all communities across ideological spectrums and it is really important to us that everyone has access to government and that there is proper follow-up. So we are big tent and welcome anyone who might want to work with us or who needs services. We have a policy of "come as you are" and we will meet our communities where they are.
+
+Specifically in terms of programs and partnerships, we want to integrate faith partnerships in every aspect of this administration. To that end, we have worked closely with the Mayor's Office of Immigrant Affairs to give out more than 30,000 flyers on how to protect yourself during interactions with federal agents. At our first event, which was our interfaith breakfast attended by more than 400 faith leaders, we hosted an information session with faith leaders from two childcare districts with the Office of Child Care and Early Childhood Education to seek their partnership in helping connect families to free, high-quality early childhood education opportunities in their communities.
+
+In collaboration with the Interfaith Center of New York and Union Theological Seminary, we coordinated a preliminary briefing on the City's racial equity plan with the Mayor's Office of Equity and Racial Justice for faith leaders to give their input on that plan. We shared New York City Emergency Management's request to hundreds of houses of worship to consider serving as cooling centers in moments of heat emergencies. We have hosted roundtables and meetings with faith partners as part of a listening tour to better understand their issues as well.
+
+**(00:52:16)**
+
+
+
+Some anti-religious bias comes not from other religious groups but rather from non-religious communities that have a negative view of one religion or of religion broadly. Nearly a third of New Yorkers do not affiliate with any religion. Does the Office of Faith-Based and Community Partnerships work with or have any plans to engage with unaffiliated New Yorkers to promote interfaith understanding?
+
+**(00:52:47)**
+
+
+
+Thank you so much for that question. We define faith leaders broadly. There are individuals who we are engaging with across ideological spectrums who may be unaffiliated with a house of worship but still identify and leverage their faith-based values for social good. We welcome everyone who wants to partner with us.
+
+**(00:53:13)**
+
+
+
+Lastly, are there any special projects on the horizon for the Office of Faith-Based and Community Partnerships? Yes.
+
+**(00:53:20)**
+
+
+
+Thank you so much for that question as well. As I mentioned, we are currently on a listening tour. We want to make sure that we include community. We have gone across the City visiting houses of worship and faith leaders and we look forward to those partnerships. Actually, that was second to last...
+
+**(00:53:41)**
+
+
+
+...so here is the last part. Okay. Have there been any changes to your office's structure since the start of the current administration and how many...
+
+**(00:53:51)**
+
+
+
+...dedicated staff does the Office of Faith-Based and Community Partnerships have? Are you currently hiring and do you feel your resources are adequate in order to successfully complete your goals?
+
+**(00:54:03)**
+
+
+
+Thank you so much for those questions. I hope I answered all of them and if I did not, please let me know. We currently have three staff members, four including myself. We are looking to have a fourth by the summer and we are actively hiring for a fifth. Could you ask the follow-up...
+
+**(00:54:24)**
+
+
+
+...question? Yes. Well, you did say you are currently hiring, so that is probably a yes. Do you feel your resources are adequate in order to successfully complete your goals?
+
+**(00:54:34)**
+
+
+
+Yes, we are really excited to be part of the Office of Mass Engagement. The office is incredibly committed to faith partnerships. This office is something that the Mayor has prioritized and as the Executive Director of this office, I am dedicated to making sure that faith partnerships is part of every aspect of this administration.
+
+**(00:55:02)**
+
+
+
+Thank you. I am going to pass it to my colleagues for their questions if they have any. I want to start with CM Mealy.
+
+**(00:55:14)**
+
+
+
+Yes, thank you. I am glad that we have this committee because so many things are going on right now. What is very alarming to me — could you explain: do you think Christians do not get harassed? They get harassed on Facebook and I have not heard anything about African American Christians. I am dealing with that crime also. Could anyone explain that to me? Where do African American clergy fit into this hate crime picture? Because Catholics get it too. I hear everything else. I just want to make sure that we put faith-based communities into this scenario as well. Do not everybody answer at one time.
+
+**(00:56:20)**
+
+
+
+Sure, I can. I would like to give the Council Members one of these books, if I may. I appreciate this...
+
+**(00:56:26)**
+
+
+
+This has a report with a very good, deep description of all programming and our partners that we work with. One of the partners that we work with is specifically the 67th Precinct Clergy Council, which is based in Brooklyn, New York, and they work with the clergy specifically and run a lot of programs in Brooklyn where they amplify programming into communities with faith-based partnerships as well. Our office also has what is called the Interfaith Council on Symbols of Peace and Hate, where we have diverse faith leaders in that space and we work with them specifically to provide programming. We give resources to anyone who comes to us and says, "Hey, we are experiencing bias or desecration of our church or our faith," and we give them programming funding to do tools in that space.
+
+**(00:57:11)**
+
+
+
+I cover 67...
+
+**(00:57:14)**
+
+
+
+Percent? Pardon me. I cover the 67th precinct — the beautiful God Squad.
+
+**(00:57:19)**
+
+
+
+But that is in Crown Heights, East Flatbush. I have a big part of East Flatbush, Brownsville, East New York, Ocean Hill. Half of those programs do not come into that area.
+
+**(00:57:33)**
+
+
+
+The God Squad does not really talk...
+
+**(00:57:34)**
+
+
+
+...to the pastors there. They have had one or two meetings and that is it. So I hope going forward I definitely want to know where these programs come from. You said 67 — where is the one in the middle of East Flatbush? No, no.
+
+**(00:57:53)**
+
+
+
+What are your six anchor organizations?
+
+**(00:57:56)**
+
+
+
+We have the God Squad, which is the 67th Precinct Clergy Council. We have the American Federation. We have the Arab American Association of New York. We have the Hispanic Federation, the Anti-Violence Project and the Jewish Community Relations Council.
+
+**(00:58:10)**
+
+
+
+Which one of them are in... like Bedford-Stuyvesant?
+
+**(00:58:17)**
+
+
+
+Of the 51 Council Districts in the City, we are in half of them across the...
+
+**(00:58:21)**
+
+
+
+...City. We are in half of them across the City and we have a lot of our programs...
+
+**(00:58:26)**
+
+
+
+...in Brooklyn. The 67th Precinct Clergy Council covers practically all of East Flatbush, Brownsville, East New York, Crown Heights. They really do cover Canarsie, Bushwick. That is what you are...
+
+**(00:58:40)**
+
+
+
+...saying? Yes, so they are the anchor...
+
+**(00:58:42)**
+
+
+
+...and one more point: they have sub-vendors, right? So they have different sub-vendors that are citywide. So while they are based in Brooklyn, the programming takes place across the City in all five boroughs, regardless of where they are based. The same is true for all the other organizations as well — the programming takes place across the City in all five boroughs, regardless of where they are based.
+
+**(00:59:01)**
+
+
+
+There are requests for each of these organizations. Make sure the programming is not only centered in the community but also make sure that there is diversity within the portfolio as well.
+
+**(00:59:12)**
+
+
+
+So I would love to dig into this because somehow it is not being done across the board and we cannot leave anyone out. One thing I wanted to ask you about was your program under Local Law 49 of 2020. OPH is also required to create a hate crime notification system, which notifies the community board, community based organizations and elected officials of violent hate crimes in the area. How often do you use that? Because the only time I have found out about a hate crime in my community is if the precinct texts me.
+
+**(00:59:58)**
+
+
+
+Okay, so what outlet do you all have that you give to the community board, then it trickles down to the elected officials and community based organizations? Yes, thank you.
+
+**(01:00:10)**
+
+
+
+For that question.
+
+**(01:00:10)**
+
+
+
+Instead of the web page, I am sure. So we went...
+
+**(01:00:14)**
+
+
+
+Over... We receive notifications from NYPD when a crime has happened. We then go ahead and within 24 hours of receiving that notification, we send out a notification to all the groups she just mentioned. We will triple check and double check to make sure that you are on that list to make sure you get those notifications. Also, if there is anyone else you want us to include, we will be happy to include them.
+
+**(01:00:36)**
+
+
+
+But I am just saying, if you say you will do this, it should automatically come to our City Council emails.
+
+**(01:00:44)**
+
+
+
+If you are not receiving it, it is supposed to be coming there and it should be. So I will triple check to make sure that it is.
+
+**(01:00:50)**
+
+
+
+Please. Added. Can I just ask one more question, please?
+
+**(01:00:55)**
+
+
+
+Chair, I have a question. Okay.
+
+**(01:00:59)**
+
+
+
+Can you explain to me the seven on seven series? In terms of initial feedback, you say it is seven on seven and it is closest to the train stations. How did you pick these seven on seven locations? Why is Roosevelt Island different? Why not other locations? Do you think the 2 or 3 train does not have issues? Do you think the A or the C train does not have issues? Or do you just feel it more on Roosevelt Island? Because I had on Eastern Parkway, 4 and 5 vendors were everywhere, the community was mad, the vendors were mad, everyone trying to make money. So why was the 4 and 5 line not considered?
+
+**(01:01:44)**
+
+
+
+Yeah, thank you for that question. I want to highlight two things. Within capacity, we can only do what we can now. With increased funding coming to our office, our goal is... this administration has made it very clear that the investment they are going to give to us is going to expand these programs that have been working across the City. We piloted that program last year just to get feedback, to learn what works and what does not work. Specifically Roosevelt Avenue, because we have seen a heightened sense of community division within that community. Our PATH program partners do work across New York City already. So now that this program has been successful, we do have intentions to follow the whole of the 4 train, the whole of the 5 train and go through each of the lines on the subway trains.
+
+**(01:02:28)**
+
+
+
+The 2, 3, 5, A, 1, C, E — all of them. We are going to be doing all of them over time. The J and M lines have hate crimes happening there that should have been the first ones and you will...
+
+**(01:02:39)**
+
+
+
+Be happy to know that those lines are included as well.
+
+**(01:02:41)**
+
+
+
+The point is this: we are going to use the networks we have already created, where people connect, to bring them even closer together in the room, but also to bring that diversity into one room and say, "Hey..."
+
+**(01:02:57)**
+
+
+
+We are all New Yorkers, please remember that. So I would definitely be looking forward to it because there are so many different hate crimes, and I do not know how I was just...
+
+**(01:03:09)**
+
+
+
+Picked for Queens and Brooklyn, which is like the epicenter. So I would look forward to making sure I get those...
+
+**(01:03:16)**
+
+
+
+Notices. And I will schedule a meeting with your office to make sure we can learn more about you and tell you about the work that we are doing as well.
+
+**(01:03:22)**
+
+
+
+Thank you. And how will we find out who got those community grants?
+
+**(01:03:26)**
+
+
+
+So let me just discuss the community project grants. Their applications go out every year. This past year, we had applications increase by 300% from the previous year. To name one example, in Brownsville, the New Red Lotus — we have Christina Blacken. These are all African American individuals who lead new organizations, because the idea is innovative. We are not replacing the old with the new — absolutely not. When anyone applies, we will meet, we will talk more, and we want to expand this program to make sure that we are giving every New Yorker with an idea the opportunity to be part of the solution. Thank you. I will be...
+
+**(01:04:10)**
+
+
+
+Part of that. Thank you.
+
+**(01:04:11)**
+
+
+
+Thank you for that.
+
+**(01:04:11)**
+
+
+
+Thank you. And in that time, but I...
+
+**(01:04:12)**
+
+
+
+Do not know... my pleasure. I think that this is important too, because oftentimes what we have been finding — and I think this is probably true throughout all of our districts — is that there has been a little bit of mystification of how to get through the process. So we want to make sure that those organizations that have been doing the work without being funded at least get the education that allows them to be able to apply and participate in regards to City funding.
+
+**(01:04:40)**
+
+
+
+I mean, not to go too quickly, but just by the mere fact that after the first year we had a 600% increase in applications, that means that we are making sure that every New Yorker we meet everywhere knows how to apply for these grants. Our office takes an extra role to make sure we educate even those who do not know how to apply. We have info sessions to help cut through the red tape and explain how you can apply for these grants and also the community project grants. So it is ongoing every year. Thank you, Council Member. Thank you.
+
+**(01:05:11)**
+
+
+
+Chair, I have a couple of questions also for the Office of Prevention of Hate Crimes. Thank you for the report. I look forward to digging into that a bit more. But if you would not mind just elaborating — you spoke in your testimony about efforts in the LGBT community. I am wondering if you could elaborate a little bit more specifically about what efforts are being made to combat hate in that community specifically.
+
+**(01:05:37)**
+
+
+
+Yeah, thank you for that question. The LGBT community, we know, has historically been the group that has always faced hate crimes. While we have seen hate crimes for other groups fluctuate based on geopolitical activities et cetera, one category we have seen consistently over time as the second highest reported hate crimes is anti-male homosexual hate crimes. But we also know, Council Member, that not all hate crimes are reported, so we have to go to places where we think they are happening.
+
+I always say that 99% of my job is to listen to the community. We work very closely with the Anti-Violence Project of New York City. They have been doing incredible work with partners across New York City to make sure that we are educating New Yorkers about the needs and the lives of this community, but also about resources. Hate prevention is not only about standing up and saying we stand with you, but also about providing care and resources so that New Yorkers feel heard and supported.
+
+**(01:06:42)**
+
+
+
+In addition to the PATH program and these different partners, we also work closely by giving out seed grants to a bunch of different community partners to make sure that the LGBT community is part of the seven on seven initiative. When we work with the LGBT plus community, we highlight the trans community because we know that community has been at the forefront recently. This program was centered on Roosevelt Avenue, exactly where a lot of profiling was happening towards the LGBT plus community. We have a lot of programming in Manhattan right now for the Pride Parade and we are going to be amplifying that again with the new funding coming in. This mayor's commitment to prevention has been very clear, and he has made it very clear not just by words but by actions, saying we are going to invest with an 800% increase in your office to ensure that we can serve many more partners across New York City.
+
+**(01:07:39)**
+
+
+
+You said you have to go where you think they are happening, and you mentioned Roosevelt Avenue as an example. How are you figuring out where they are happening? Is it data driven? Is it by data reporting or just by hearing about it?
+
+**(01:07:55)**
+
+
+
+How does that work? So the fact that we know — and let us underscore this — not all hate crimes are reported. So if we go by the data alone, we are missing half of the whole picture. So we go with the data reporting and look at where hate crimes are happening most. For particular communities, a lot of hate crimes are happening on the trains, on public transportation, and we have programs across the City where we are on the trains and in the streets. But we also see them in schools as well. So part of the youth program that we have is working with communities in schools to share about diversity, inclusion and equity. But also, we are listening to the community.
+
+We have programs in schools, we have programs in community centers. Just this past week, we had a member who called in and asked, "Hey, I am part of the Deaf community. How can I support your office? We are seeing crimes." So my two interns are working with him directly to plan a Breaking Bread, Building Bonds initiative. The point is that we listen to the community, hear what they tell us and go to where they need us to be in the City.
+
+**(01:08:57)**
+
+
+
+Oftentimes, you know, homophobia and transphobia can manifest in people's homes, not in public places, among family members. So I am wondering how you are thinking about combating that type of hate or violence or discrimination that is happening in folks' homes and not in public places.
+
+**(01:09:19)**
+
+
+
+So we would not know what happens in the homes unless it is reported, and once it is reported, we work with partners like the Anti-Violence Project of New York very closely to find the programming and the relevant partners within that community to do outreach and go in there and work with them. We have a community group called Voces, under the Hispanic Federation. So even though we have the Anti-Violence Project in New York, this portfolio is not only them. There is also a group that does LGBT plus work and works specifically with LGBT individuals in Queens and across the City to ensure that their concerns are heard and that services are provided to support them as they need them.
+
+**(01:10:02)**
+
+
+
+Next year, we have a new group where we have LGBT plus youth that we are working with who may be experiencing fears and distress at home, but finding a way to overcome that through education as well. And I just have one more quick question.
+
+**(01:10:16)**
+
+
+
+Sure. I am just curious if there is any collaboration, particularly on LGBT hate prevention, with the mayor's new Office of LGBT Plus...
+
+**(01:10:27)**
+
+
+
+Affairs. Absolutely, we have...
+
+**(01:10:28)**
+
+
+
+A project called Unity Grants that we work very closely with. Through this office, we work to identify seven different LGBT plus groups where we give $20,000 each, and this program has been ongoing for the past...
+
+**(01:10:42)**
+
+
+
+Three or four years now, and every year we have many groups and many applications coming in to do this work in the community. Again, I want to reiterate that with the expanded funding, we can do more. Thank you. I am glad for that. Okay, thank you. Thank you.
+
+**(01:10:59)**
+
+
+
+Thank you. I just have a few more questions before we open it up to public testimony. We know that the FY 2027 budget has not yet been finalized. The administration proposed that historic increase as you mentioned. My question is: what OPH programming up until now has been the most successful that might be prioritized for scaling up if more resources in fact do become available?
+
+**(01:11:32)**
+
+
+
+I would say all of our programs have been successful because they all reach different New Yorkers at different points in their lives and across the City. However, I would say the PATH initiative — we have trusted partners, again these six anchor organizations and most of the volunteer vendors who are doing this work — is definitely a priority. So we have to continue to support these trusted partners on the ground to make sure we increase their funding and give them the resources to serve New Yorkers in the most appropriate way, but also to expand this outreach. I do not think the PATH program should only have 60 organizations. New Yorkers need to have an expanded program where we reach communities in Bed-Stuy and have more than one organization to meet the needs of New Yorkers across New York City. So that is one program.
+
+We also want to expand our youth initiatives by making sure we have the appropriate staff to mobilize and to include more programming for youth in schools, but also to include programming that involves individuals who have committed crimes, to have a pathway where they can be rehabilitated and understand the harm they have caused through a sort of restorative justice process before they reenter the community.
+
+**(01:12:42)**
+
+
+
+Amidst an overall decrease in hate crimes across the City last year, we did see spikes in crimes against certain communities, including anti-Buddhist crimes and hate crimes against women. How does OPH respond to this type of trend, and what does your work with community groups look like? How does OPH engage with other agencies?
+
+**(01:13:03)**
+
+
+
+Thank you for that question. Part of our initiative is exactly those seed grants that I mentioned to you before. Those grants are specifically geared to meet the moment when we do see spikes of hate crimes across New York City. Just this past year and in the first quarter of this year, we saw an increase in hate crimes against Muslim women, but interestingly committed by women against women. We immediately went into action and we worked with a group called Bridging Cultures Inc., led by Dr. Debbie Almontaser. This program brings diverse females and female-identifying persons into one room where we are building allyship, learning about leadership skills and also including equity. These programs, such as this one, are how we meet the moment when hate crimes do fluctuate across communities.
+
+Additionally, as mentioned before, we are working with a group called Central Queens Against Hate where we are providing community access and resources to meet the moment in the rise of hate crimes in Queens as well.
+
+**(01:14:03)**
+
+
+
+Moving to interagency collaborations and coordination: OPH was recently relocated from the Mayor's Office of Criminal Justice to the Office of Community Safety. Does OPH foresee any corresponding shifts in its approach to hate prevention? For example, does that move reflect a shift in focus to engage with communities in a different way or strengthen your relationship with any particular City agencies?
+
+**(01:14:35)**
+
+
+
+There is no shift. The point is that this work has always been central to the New York City Office of Prevention of Hate Crimes, where we are focusing on all New Yorkers. Moving into this office enables us to do more as a whole-City approach, where now we are working with other agencies to bring a holistic approach to hate crime prevention. Moving into this office now gives us much more lateral overview to make sure no communities are being missed, but also we have governance structures to make sure that we are using resources wisely to support New Yorkers. Gotcha.
+
+**(01:15:14)**
+
+
+
+OPH oversees the Interagency Committee on Hate Crimes. Part of this work is advising the mayor and implementing a unified citywide approach to hate crime prevention, awareness, investigations, prosecution and community impact. How often does the committee meet and what are the primary topics addressed?
+
+**(01:15:38)**
+
+
+
+So the Interagency Committee on Hate Crimes, which I am proud to say our two partner agencies are part of, we meet on a quarterly basis and we have over 20 plus agencies who are part of that committee. When we meet together, we talk about hate, bias, discrimination and where it is happening, but also collectively as a City, how we can respond to them.
+
+**(01:16:00)**
+
+
+
+And also, how often is the mayor directly involved in the interagency committee's work? The mayor and his staff — different staff members from agencies come to our meetings, different commissioners come to the meetings, they share what their offices are doing but also listen to what work is being done by OPH as well.
+
+**(01:16:19)**
+
+
+
+Moving to resources: we heard in the budget hearing that OPH currently has three staffers. While there are plans to increase that number of staff, I know you probably answered that before, but I want to ask — how much... I want to emphasize this. We can only do so much with what we have. I again want to reiterate that with the increased funding to our office and the commitment of this mayor and this administration to hate crime prevention, we can do this work in the most coherent way. Yes.
+
+**(01:16:56)**
+
+
+
+What are the civil service titles of OPH's current staff and are there any you are looking to have added?
+
+**(01:17:06)**
+
+
+
+I have myself, who is Executive Director. You have a Deputy Executive Director and you have a Senior Programs Manager. We do plan to, in collaboration and discussion with the new Office of Community Safety, to have more... basically a presence, and to have... Because again, this work cannot be done from my office. It has to be done on the ground in the community, so we feel having more eyes and ears on the ground in each borough we can meet the needs of New York City.
+
+**(01:17:36)**
+
+
+
+Are staff dedicated to specific initiatives or do they work across multiple programs? For example, are there dedicated staffers for the Path Forward that are different than those for Seven on Seven or the Youth Leadership Ambassador program?
+
+**(01:17:50)**
+
+
+
+Yes. So the way we are organized to work in the office is, the staff members have a portfolio of different programs, but again it is a holistic approach, so all of us know what is happening at all times across different programs.
+
+**(01:18:12)**
+
+
+
+Lastly, who from OPHC sits on the inter-agency committee on hate crimes?
+
+**(01:18:16)**
+
+
+
+And what are their titles? So interestingly, all my staff sit on that. We all sit there. Of course I lead the meetings. My Deputy Director Erica is also the one organizing the meetings and having different speakers come to different meetings, but all our staff are part of those meetings.
+
+**(01:18:39)**
+
+
+
+I will pass it back to CM Mealy. OK, I have just...
+
+**(01:18:43)**
+
+
+
+Two questions. Has OPHC ever been contacted for guidance or education specifically in response to an incident at a school? Could you give me an example? Because I know one already. I will just...
+
+**(01:19:05)**
+
+
+
+I was stopping into my precinct and I went in and I saw some young kids sitting there and I said hi. I did not know them that well. I found out they were my staff's children and they were there because they were bullied and the mother was on her way there to press charges. So for an incident like that, how would your program work with the police department to give that data that we desperately need? You say that you work with the police department. So could you give me how it trickles down, or...
+
+**(01:19:42)**
+
+
+
+Do they call you? I would love to know how that works. So on our website we have links where anyone who wants to can request our office. But that is not the only way. We are also at the schools, where we share out information across the whole city via the respectful liaisons, to guidance counselors, to the district leaderships, to all the school offices. We also have the Heart Work Against Hate programs, so we try to make sure that a lot of schools and all schools know all the programs our office offers and how they get in touch with us. Again, we are doing this work based on capacity and we plan to increase and continue to do this across the City in a larger, more direct way. But I want to answer your question: any school can reach out to our office and we can get involved. So how hard are you working with the Board of Education to let them know that principals should be reporting...
+
+**(01:20:41)**
+
+
+
+...to NYPD? Yes. But sometimes the principals do not. If my staff had not followed through with it, it would never have been our case. So it is up to the principals now to report it. So are you working with the Board of Education to make sure? Or maybe we have got to put some legislation in place that it is a mandate that they report it, because we need this information on bullying and other things that are harmful. That is something I have got to think about. And you know, there is kind of a tension between people who have been living here all this time with gentrification, so do you think you could start doing anything in regards to that? Because a lot of people feel they are being displaced. That is the issue and you never know how many people feel put aside, upset and sometimes biased. So therefore, have you ever thought about that hatred or putting something in place for that?
+
+**(01:21:54)**
+
+
+
+Absolutely. We are... All right. Not specific to gentrification, but again we are in partnership with over 20 plus agencies across New York City. We have the hate crimes notification system. We have the Party Against Hate. We have many programs across different levels. And again, 90% of my job is to listen to the community. If we hear something and we are called upon, we will go there and we will provide resources, we will provide a way to listen, but also to say here is how we can support you. We work with park organizations and go to the communities. We will meet. I would love to hear more from you. Do you have... I will definitely make that...
+
+**(01:22:33)**
+
+
+
+...happen. Thank you. I would just like to note that we have been joined by CM Sanchez as well. I would like to thank the administration for your testimony. It has been informative. Thank you.
+
+I now open this hearing for public testimony and I want to remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Furthermore, members of the public may not present audio or visual video recordings as testimony, but they may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait to be recognized. When you are recognized, you will have exactly three minutes to speak. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant at Arms and you may email written testimony to testimony at council.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+For the first panel we would like to call Julio Cesar Herrera, Scott Richmond and... I will spell the last name: L-A-K-H. You may begin in any order you like. You have exactly... sorry, three minutes.
+
+**(01:25:22)**
+
+
+
+Chair Salaam and members of the Committee to Combat Hate, thank you for the opportunity to testify today. My name is Scott Richmond and I am honored to serve as the Regional Director for the New York region. ADL is the leading anti-hate organization in the world, dedicated since 1913 to fighting antisemitism and securing justice and fair treatment for all.
+
+It is incumbent upon all of us to address and speak out on how we can collectively prevent and respond to hate in New York City. As an example of such hate, let me paint the picture when it comes to fighting hate against the Jewish community. For nearly five decades, ADL has compiled an annual audit of antisemitic incidents. The audit is drawn from reports submitted by victims, community leaders, law enforcement partners and media documentation. ADL tracks, verifies and in many cases responds to these incidents. 2025 was the third highest year for antisemitic incidents since we began tracking data in 1979, nearly double pre-October 7 record highs. The reality is that Jewish Americans continue to be harassed, assaulted and targeted an average of 17 times every day across this country. New York State is the epicenter of this crisis. In 2025, New York recorded 1,160 antisemitic incidents, more than any other state in the nation, accounting for nearly one in five of all incidents recorded across the United States, and 74% of those incidents occurred within the five boroughs of New York City.
+
+To respond to this surge in antisemitism and to all forms of hate and bias, ADL urges the Council to promote community-based education programs that ensure the safety, inclusion and support of the Jewish community and all communities. Programs like ADL's No Place for Hate initiative offer such tools. No Place for Hate provides a framework for over 300 schools and over 200,000 students across New York and New Jersey to promote safe and inclusive school communities where every student can thrive. The program is free for schools, dozens of which are currently using it in New York City, but we need help to get the word out about this effective means for combating hate and bias.
+
+We also urge the Council to support educator training and resources that empower teachers to address antisemitism and all forms of hate with confidence and accuracy in their classrooms. To support this critical work, ADL has developed innovative tools like Google Aura, an artificial intelligence-powered education assistant that provides K-to-12 and community members with instant access to trusted, expert-vetted lesson plans and teaching strategies on Jewish identity, antisemitism and the Holocaust. ADL looks forward to continuing our partnership with this committee, the New York City Council and with the communities it serves. We are deeply grateful for your attention to this issue and stand ready to assist with data, resources, programs and recommendations. Thank you.
+
+**(01:28:54)**
+
+
+
+Good afternoon. I would like to extend my thanks to Chair Salaam and to the...
+
+**(01:29:01)**
+
+
+
+...Committee to Combat Hate. My name is Julio Cesar, the Government Operations Director for Hispanic Federation, a nonprofit dedicated to empowering Latino communities through programs and advocacy. Our testimony reflects the collective insights and experiences of more than 100 of New York City's community-based partners involved in the City's Partners Against Hate Path Forward initiative. Hispanic Federation proudly serves as an anchor organization for Path Forward in partnership with the Mayor's Office for the Prevention of Hate Crimes since 2021. This initiative has allowed us to fund, convene and work alongside trusted organizations helping New Yorkers understand, report and prevent hate crimes and bias incidents.
+
+Through Path Forward, Hispanic Federation and its partners have reached out to residents who are too often vulnerable to harassment, discrimination and targeted violence. Our partners consist of organizations that intimately engage their own communities through culturally responsive anti-bias, anti-discrimination, anti-hate education across the five boroughs. Today, through this work, Hispanic Federation and our sub-grantees have reached millions of individuals across New York City, and that reach reflects thousands of moments where community members were able to learn their rights, ask questions, better understand available resources and feel less alone.
+
+Despite the reach and measured deliverables of the Path initiative, this work remains deeply vulnerable without sustained investment. If support is reduced or eliminated, many of our sub-grantees will be forced to scale back programming, limit outreach or suspend services altogether. For those organizations, the consequences are already significant. Hispanic Federation adamantly believes that combating hate is both a public safety responsibility and a statement of who we are as a City. We are deeply grateful to the Council for its continued leadership and for understanding how imperative Path is to bolstering the voices of the most marginalized members of our communities. We urge the Council to continue supporting this critical initiative and the community-based organizations who are the bedrock of this initiative and are on the front line of preventing hate, supporting victims and building a safer, more inclusive New York City. Thank you for this opportunity to testify and for your ongoing commitment. Thank you as well.
+
+**(01:31:36)**
+
+
+
+Good afternoon. My name is Anne Lakhe and I am speaking on behalf of the Sikh Coalition in support of meaningful, sustained investments in hate crime and violence prevention in New York City. The Sikh Coalition was founded in the aftermath of 9/11, when Sikh Americans, especially those who wear turbans and maintain articles of faith, were targeted with violence, discrimination and profiling. National data continues to indicate Sikhs as the most targeted religious group, with many incidents remaining unreported, misclassified or misunderstood.
+
+That is why the Sikh Coalition supports the proposed investments from the Office for the Prevention of Hate Crimes and the Office of Community Safety. These priorities should include community-based and better reporting pathways so people who experience hate, harassment or bias can seek support without being forced into unfamiliar systems, especially for immigrants, workers, elders and those with limited English proficiency. It should include additional funding for community organizations that have established trust and culturally competent ways, such as the Path Forward initiative organizations. They need full-time capacity and multilingual materials to respond to what impacted communities are experiencing. It should include proactive relationship building to fund and expand the programs that promote mutual understanding in communities before tensions escalate. It should include anti-bias prevention education that accurately reflects the community's articles of faith and our history, because lack of understanding can have real safety consequences. It should include rapid response and survivor support so when a gurdwara, a small business, taxi drivers, students or families are targeted, they can receive language-accessible resources, legal referrals, mental health support and clear communication from City agencies.
+
+We believe that all New Yorkers deserve to live without the fear of being targeted because of who they are or how they are perceived. We urge this committee to utilize this budget increase to support these investments in partnership with communities that are impacted the most. Thank you for your time.
+
+**(01:33:43)**
+
+
+
+Thank you for your testimony.
+
+**(01:33:59)**
+
+
+
+Thank you, Chair. I just want to say thank you for your testimony to all the witnesses, but a special shout out to Hispanic Federation for your partnership. This weekend there was a beautiful event that we held. I think that is a big part of the work, just bringing the positive to our communities and bringing people together like that, so thank you for your partnership on the Bodega Festival. Thank you. And also I just have a question for Hispanic Federation. Your work to reduce underreporting of hate crimes...
+
+**(01:34:31)**
+
+
+
+What has your experience been in terms of... I am sorry, if you could elaborate a little further.
+
+**(01:34:41)**
+
+
+
+So the work, specifically your work to reduce underreporting of the hate crimes that have been happening... I just wanted to know what your experience has been.
+
+**(01:34:50)**
+
+
+
+So there are two approaches to that. The first is through our outreach partners who intimately pack a lot of anti-bias work into a lot of the already ongoing curriculum that they employ in their communities. Of course, even as an institution such as ours, everyone has blinders on, so we defer best to the organizations that are already based in the communities that we are looking to serve. From that standpoint, we have also reached out through several outreach campaigns, bilingual campaigns, spoken in English and Spanish in key population junctions, as well as had several mentions of anti-bias, anti-discriminatory campaigns over the radio.
+
+Just to reference from 2023 — I apologize — in 2023 when we deployed 10 community canvassers and surveyed more than 10,000 New Yorkers, we saw that 31% did not know what legally constituted a hate crime, and then after identifying that, 78% already experienced... they had experienced one and never reported it. So with that, a lot of... I apologize, I am just trying to bring the members together because it is a multi-approach. With that, we have seen that in the communities and the different populations that we affect, be that from different sexuality, race or creed, a lot of them start to realize the fact that they had already experienced a hate crime that they never really understood because of the banality of it, how profound and how pervasive it can be on a day-to-day basis. So that was something that from our experience is something far too prevalent. I hope that better answers your question.
+
+**(01:36:58)**
+
+
+
+No, it definitely does. And thank you for describing it, because I know oftentimes those who have been close to the pain, if they have a seat at the table, they really do the best work, especially when it comes to fixing the issue. I just have one more question, and this is a question for all three of you about your work with different language communities. What are the challenges that you have been encountering in working across different language communities?
+
+**(01:37:47)**
+
+
+
+Go ahead.
+
+**(01:37:48)**
+
+
+
+I think it goes back to outreach. We are spread out across the five boroughs, and a lot of that includes areas in Queens that might not be our specific demographic. But for example...
+
+**(01:38:09)**
+
+
+
+We need a center where, before they not only employ and identify safe spaces for LGBT and other groups, such as New Immigrant Community Empowerment, which focuses on training undocumented day laborers on workplace discrimination. This is packed into already existing "know your rights" trainings that cut across different languages and different ethnicities. So something that we rely heavily on is the coalition of partners that we have, which cuts across different sectors of identities and better represents the mosaic of this City.
+
+From the work that I do as well, we work with the Sikh community. Our community really needs bilingual materials and resources to effectively communicate their needs and to help understand what is going on within our community. So we heavily work with a lot of Sikh houses of worship, who predominantly also speak Punjabi as well. So we do our best to provide "know your rights" resources, provide presentations and make sure that they have all the information they need to know how to access resources, legal referrals, mental health support and various other components as well. So we really take pride in the fact that we do our best to make sure that our community's needs are being heard while using our own capacity to translate their needs effectively.
+
+**(01:39:44)**
+
+
+
+Well, I would just add that in terms of our community, the Jewish community, the language that is a little bit more difficult to manage is Yiddish. There is a significant Yiddish-speaking population here in New York. Many of them speak English, but not all, or not so well, and reaching them in that language is important.
+
+I can actually relate to the other question that you asked of my colleague here. The issue of underreporting — a major way to combat underreporting is to build those relationships. So what we have done is we actually hired two people who are members of the Orthodox community. That was relatively new for us a few years ago and it has been very, very important — very important both for reaching them because they are Yiddish speakers, but also for making sure that there is a trust that is developed. And when there is a trust that is developed, people report. So we were receiving very few reports from the Orthodox community just a few years ago and that has changed tremendously, and it has changed tremendously because of that trust and the language barrier being broken. Very, very important to have that.
+
+I would just add that Orthodox Jews in the City are disproportionately affected by such incidents because they are what we call visibly identifiable Jews. So very, very important, and that is why the organization made the commitment to hire people that could build that kind of trust and have those language skills. Thank you.
+
+**(01:41:24)**
+
+
+
+Thank you. Thank you for your testimony. I appreciate it. I would now like to call the second panel, which consists of Sofia Tovia Gauge and Hillary Stitching. You each have three minutes. Begin in whichever order you would like.
+
+**(01:42:08)**
+
+
+
+All right. Hi there. Chair Salaam, members of the Committee, thank you so much for hosting this hearing today. I am Hillary, here on behalf of Federation New York, and thank you so much for providing the opportunity to testify.
+
+We have hundreds of nonprofit partners that serve New Yorkers of all backgrounds. We serve adults, children, families, immigrants, survivors of trauma, people with disabilities, individuals facing poverty and food insecurity as well as isolation. We also work to strengthen Jewish life, combat antisemitism and build bridges across communities throughout the five boroughs.
+
+We appreciate the Council's continued attention to the alarming rise in hate and bias incidents in the City, which affect more than just the targeted individual. These events send a message to communities that they may not be safe in their neighborhoods, schools, houses of worship, workplaces or public spaces. For Jewish New Yorkers in particular, this fear is not abstract. Antisemitic incidents, as you have heard, continue to represent a disproportionate share of reported hate crimes in New York City, and Jewish institutions have operated at heightened vigilance since October 2023.
+
+Community-based organizations in this space are essential partners in both the prevention, education and response to hate and bias. They are trusted by the communities they serve and can help people navigate trauma, access mental health support, social services and understand the reporting options that they have to build a sense of safety.
+
+We ask the Council to prioritize the following steps and actions. We appreciate the proposed $29 million for the Office for the Prevention of Hate Crimes and we urge the administration to invest those resources in effective programming that addresses the underlying causes of hate and bias, including antisemitism. The City should continue to improve reporting systems and outreach so New Yorkers know the difference between what a hate crime is, a bias incident, discrimination complaints and emergencies, and know where to go for help in their preferred language. We also believe that the City should continue to invest in education and bias prevention, where schools and youth-serving programs are critical settings for addressing bias before it escalates to harm.
+
+It is similarly important to make sure that teachers are aware and informed so they can recognize these incidents, and we encourage the City to view educator preparedness as an essential component of this prevention strategy. Community-based prevention should include partnerships with organizations that equip teachers and schools with the resources and support necessary to foster understanding of our differences. I see I have 23 seconds left, so I will just say thank you for the opportunity to testify and I will submit written testimony.
+
+**(01:44:50)**
+
+
+
+Good afternoon. The Council on American-Islamic Relations New York would like to thank Chair Yusef Salaam and the entire Committee to Combat Hate for the opportunity to provide testimony here today. My name is Sofia Tovia Gauge and I am speaking on behalf of CAIR New York. CAIR New York is the largest Muslim civil rights and advocacy organization in New York State. Our mission is to protect civil liberties, promote justice and empower Muslim New Yorkers. We serve the 800,000 to 1 million Muslim New Yorkers from extremely diverse backgrounds, racial and ethnic origins, as well as non-Muslim communities that have long been among the primary targets of hate crimes in this City.
+
+As many of you know, Mayor Mamdani invested $26 million into the Department of Community Safety, which includes the Office for the Prevention of Hate Crimes. This investment is a meaningful step toward addressing the persistent and deeply harmful patterns of hate and violence our communities have faced, ensuring the City flourishes as a place for all who live here.
+
+We urge the City Council to match the mayor's commitment and to ensure these resources reach community-based organizations like CAIR New York that are on the front lines of this work. Since October 2023, CAIR New York has witnessed a dramatic surge in reports of bias-related incidents in the subway, in schools, workplaces and neighborhoods where community is meant to gather and feel safe. These trends reveal that we are not dealing with isolated incidents of discrimination, violence or harassment, but rather this is a true reflection of the broader climate of dehumanization of vulnerable communities. This requires urgency and coordination between the City and community organizations.
+
+The numbers speak for themselves. Based on...
+
+**(01:46:32)**
+
+
+
+...figures CAIR New York has carefully collected, hate crimes against Muslims have risen an alarming 130% between 2020 and 2025 nationally. This represents a small fraction of actual incidents as our communities consistently underreport due to fear, distrust and a lack of accessible resources. In our "Feeling the Hate" report, we found that 64% of Muslims have experienced a hate crime, a bias incident or both, yet only 4% of those who experienced a hate crime reported it to law enforcement because they either did not trust that it would be productive or did not feel it was a productive action to report to such agencies.
+
+And lastly, 75% of Muslim women have experienced a hate crime, a bias incident or both. In 2024, the NYPD only recorded 43 anti-Muslim hate crimes in New York City, yet as CAIR New York has demonstrated, we received significantly more reports from our community that same year.
+
+**(01:47:33)**
+
+
+
+We are capturing more incidents than the official police data reflects, which means there is a persistent and troubling gap between official City data and the reality on the ground. On a statewide level, the New York State Comptroller reports that hate crimes against Muslim New Yorkers rose 106% between 2018 and 2023. These are not abstract data points. These are people. These are our entire communities.
+
+**(01:47:58)**
+
+
+
+Community-based organizations have been leading hate violence prevention efforts for years, fighting identity-based violence and providing trauma-informed support to hate crime survivors long before dedicated City funding existed for this purpose. CAIR New York is committed to...
+
+**(01:48:13)**
+
+
+
+I do have a question. Your time expired, but I do have a question. You said something about — I just wanted to get the year right — up 130% nationally. Between which years was that?
+
+**(01:48:26)**
+
+
+
+The years 2020 and 2025.
+
+**(01:48:44)**
+
+
+
+Okay. Any drill-down for New York City itself?
+
+**(01:48:46)**
+
+
+
+Say it one more time. Any data that specifically deals with New York City itself? I know that is nationally, but...
+
+**(01:48:54)**
+
+
+
+Yes. So CAIR New York — not just New York City, but also New York State — the data that we reflected in our "Feeling the Hate" report reflects on the entire state. But in that report... sorry, give me one second. We have seen... yeah, I think so.
+
+**(01:49:18)**
+
+
+
+Sorry, I do not have the data specifically on the amount of reports, but that can be reflected in our larger...
+
+**(01:49:28)**
+
+
+
+...request for assistance in case files and documents, but yeah, the...
+
+**(01:49:39)**
+
+
+
+The previous panel we discussed and asked them about also the underreporting based on language barriers and things of that nature. So I really want to ask that same question to both of you. Has there been any experience that you all have had as it relates to underreporting? CAIR mentioned the data that they have collected, which is not — trying to find a better word — equal to what the NYPD has been collecting. But really I just want to know from both of you, and we can start with you, what has the experience been in terms of the language barriers and underreporting and things of that nature?
+
+**(01:50:22)**
+
+
+
+Sure. So we work with a citywide group of over a hundred nonprofits, close to a hundred nonprofits, dealing with all sorts of communities. But I will say, in addition to the Yiddish-speaking community, which is prominent within Brooklyn and elsewhere, also in South Brooklyn, the Russian-speaking community often needs resources in order to access various supports and understand where they can go should a bias incident or hate incident occur.
+
+**(01:50:52)**
+
+
+
+At CAIR New York, many of the members of our education staff are bilingual. Arabic and English are the main languages that our constituents are speaking. And then additionally, with the partner organizations that we work with, there are often translators available as well.
+
+**(01:51:17)**
+
+
+
+That has not been an issue. I am also curious to know — I am trying to figure out how to state this. What I am curious to know is whether any of your data has captured, for the Jewish community, the Black Jewish community and any hate reporting. Because in my district, District 9 in Harlem, we do have a Jewish community that is Black. And we have a whole Little Africa community that involves all kinds of folks from the African diaspora. I am just wondering, has there been any information as it relates to people of — I do not want to just say African American descent because they have been categorized differently if they are, you know, from Ethiopia or Côte d'Ivoire or something like that.
+
+**(01:52:26)**
+
+
+
+I personally do not have any information available right now, but we are more than happy to follow up with your office and provide answers to any of these questions. I will say, you know, we go back to the underreporting of it all. So what data is available I will look back and get to you. I will happily get that information for you.
+
+**(01:52:46)**
+
+
+
+I am also happy to get that information and send it at a later time. But I will say that the African and African American Muslim communities are a large majority of our constituents and groups that we work with often. Okay. Thank you. Thank you for your testimony. Thank you. And now we have the...
+
+**(01:53:13)**
+
+
+
+...third panel: Madison Mountie and Marissa Barack and also Claire Allen. Thank you. Begin in any order you like. You each have three minutes.
+
+**(01:54:10)**
+
+
+
+Good afternoon, Chair Salaam and members of the Committee. Thank you for convening this critical hearing. My name is Madison Mountie and I am the Director of Government Relations and Advocacy for the Simon Wiesenthal Center.
+
+For decades, the SWC has fought antisemitism, hate and bias by focusing on the most powerful tool for long-term prevention: education. We are at a defining moment in New York City. The data shows a sobering, persistent rise in identity-based harassment and hate crimes. While reactive measures are necessary, true safety begins with proactive community prevention. We must reach people before bias takes root, especially our youth.
+
+I am here to highlight the important work that we are doing locally across the five boroughs through two vital community-based initiatives. First, our "Combating Hate in Digital Spaces" workshops. In a long-standing partnership with the City Council, SWC's experienced educators have reached thousands of New York City public school students. Our educational work, "Combating Hate in Digital Spaces," is a learning experience designed for grades seven through twelve and offered in classrooms across the five boroughs with a focus on digital identity and civic responsibility. These workshops provide students with an identity Venn diagram that supports reflection on how their digital selves are shaped, as well as the responsibilities and real-world consequences that accompany their online presence.
+
+**(01:55:31)**
+
+
+
+Learners explore the formation of online identities and examine how the algorithm influences and manipulates individual actions in digital spaces. Second, our Mobile Museums of Tolerance. We know that access to high-quality, immersive education should not depend on a school's budget or zip code. Our MOT is our state-of-the-art traveling classroom that brings world-class human rights and anti-bias education directly to New York City neighborhoods. Through the support of New York State, our two MOTs bring immersive tolerance education directly to schools and communities across New York. We use cutting-edge digital storytelling to engage audiences in learning about the Holocaust, civil rights...
+
+**(01:56:10)**
+
+
+
+...movement, digital literacy, antisemitism, racism, bullying and social justice. These programs are not just concepts. They are operational blueprints for community-based prevention that build empathy and resilience directly inside our neighborhoods. To scale these efforts and meet the current and growing need, we cannot do it alone. We urge the City Council to prioritize sustained investments in mobile, accessible education so the SWC can reach every public school and community center in this City. Safety and dignity cannot be selective. We must protect every single New Yorker. We applaud this Committee's ongoing leadership and stand ready to partner with you to expand these vital educational resources. Thank you.
+
+**(01:56:58)**
+
+
+
+Good afternoon, Chair Salaam. Thank you so much for your...
+
+**(01:57:01)**
+
+
+
+My name is Marissa and I am the Assistant Director of the New York City Regional Office of the American Jewish Committee, the global advocacy organization for the Jewish people since 1906. Before I begin, I want to provide a historical point regarding the definition of antisemitism.
+
+The term "antisemitism" was invented in 1879, specifically as a term for anti-Jewish hatred by a racist German pseudo-scientist, to legitimize hatred against Jews. Using it to cover other groups can accidentally erase the unique history of anti-Jewish bigotry and make it harder to precisely address.
+
+According to the 2025 State of Antisemitism in America report, 56% of Jewish New Yorkers reported changing their behavior out of fear of antisemitism. More than half of Jewish New Yorkers are not merely worried about antisemitism — they are changing how they live because of it. That is what fear looks like in practice. If more than half of Jewish New Yorkers are changing their behavior because they are afraid, we should be asking whether the City's current approach to preventing hidden bias is adequately protecting a community that remains the target of more than half of all reported hate crimes in our city.
+
+If the City is serious about prevention, it has to acknowledge that antisemitism is not fueled only by extremists. It is also fueled when public figures normalize rhetoric that casts Jews, Jewish institutions or core aspects of Jewish identity as suspect, unwelcome or uniquely deserving of scrutiny. As the Council evaluates the City's approach to hate and bias, the priorities outlined in our combating antisemitism playbook — including strengthening relationships between government and communities, improving education about contemporary manifestations of antisemitism, increasing coordination across institutions and ensuring that policymakers have the tools to act effectively — are essential. Thank you so much for your time and your consideration.
+
+**(01:59:04)**
+
+
+
+Thank you both for your testimony. I do have a question for SWC. It feels like the internet and social media continue to grow as the epicenter of so much hate. Can you talk a bit more about SWC's experience in combating discrimination in digital spaces and how that work has been growing?
+
+**(01:59:27)**
+
+
+
+Something that our education team is constantly evaluating is updating our digital literacy workshops and meeting students where they are and meeting the moment. Something new for this year that we incorporated is background on the algorithm. What we find is that a lot of students walk away from our workshops having a better understanding of what hate speech and bias online looks like. They do not recognize a lot of these things initially and that is something that we help them educate themselves on. We also help them learn how what they interact with online can further perpetuate what they see around them — misinformation, disinformation, hate speech and bias — and how sometimes what they interact with constitutes bullying or a hate crime.
+
+I think we start as young as we can and we are looking to start even younger than seventh grade, as early as third grade in elementary school. We are also looking to expand into college campuses so that we can really reach students from the beginning and give them a better informed sense of an ethical online presence and really help promote tolerance and mutual respect over division and hate speech.
+
+**(02:00:38)**
+
+
+
+One of the things that I have noticed as well — I mean, I have ten children myself, the youngest is ten — is that oftentimes as parents, educators and loved ones, and this is really for both of you, we can be engaged in activities like cooking or cleaning or something of that nature, and oftentimes our children might be on those digital spaces doing things like watching YouTube or whatever. I am just wondering what that experience has been, because of course we know that seventh grade is really great, but we have been seeing trends that are going even further down, meaning targeting younger and younger individuals in order to try to make them into people who actually hate. Because hate is taught. So I am wondering what both of your experiences have been as it relates to really pulling this conversation towards younger individuals.
+
+**(02:01:45)**
+
+
+
+Yeah, we are definitely seeing a greater need, like you said, for starting even younger than we currently do. It is something that our education team is working on developing because we have to modify the workshops that we provide based on the age group. What works for a seventh grader or a fifth grader is not necessarily going to work for a second or third grader. So we have to make the curriculum and the topics that we are discussing equally as impactful and effective, but also understandable for the age that they are at. Part of that is learning and adapting how we deliver that through digital literacy.
+
+We are not trying to promote increased usage of social media platforms or increase their time online even more than it already is, because that is already growing. But it is about which platforms they are already on, what they are being introduced to, and making that the forefront — helping them recognize again what is hate speech online and helping them be upstanders rather than bystanders in those efforts. Thank you for your question.
+
+**(02:02:51)**
+
+
+
+It is of course important for parents to have honest conversations with their children about different manifestations of hate. Speaking specifically about hatred against Jews and about antisemitism, it is such a nuanced form of hate because of its history. There are different manifestations of antisemitism. Understanding Jewish peoplehood and Jewish history, Jewish American history, is of course an important part of being able to understand and then counter and prevent antisemitism.
+
+Another aspect, however, is also the social media space as you spoke of. Parents, I am sure, would love to be able to limit as much of their children's time on social media as possible. That is not always the reality and we need to be able to hold social media and tech companies accountable for the hate that proliferates across their platforms.
+
+**(02:04:10)**
+
+
+
+Regarding intergovernmental coordination, do you have anything that you want to elaborate on regarding that space — regarding concerns about working with them, what you would like to see more of in terms of preventing hate and things of that nature?
+
+**(02:04:27)**
+
+
+
+Certainly there should be more coordination amongst the different government agencies and institutions. We specifically would like to see them working more closely together on prevention and things like policy and education. I think that is a core piece that is important for a city like New York that has a mayoral administration and a co-equal branch that is the City Council. Our classroom programs are supported through a long-standing partnership through
+
+**(02:05:06)**
+
+
+
+the City Council and our mobile museums of tolerance are supported through the State. As it relates to our classroom programming, we would love to be able to partner with more Council districts and bring our programs to as many public schools across the five boroughs as we possibly can. Thank you.
+
+**(02:05:29)**
+
+
+
+Thank you for your testimony.
+
+**(02:05:41)**
+
+
+
+On Zoom, if you are available: Leslie, Alan.
+
+**(02:05:46)**
+
+
+
+Can everyone hear me?
+
+**(02:06:05)**
+
+
+
+Yes. Thank you. First, I want to apologize for not being there in person. As you can hear from my voice, I am very sick and I did not want to get anyone else sick. My name is Leslie Allen. I use pronouns she/her and I am the Director of Legal Services at the New York City Anti-Violence Project. The New York City Anti-Violence Project is one of the PATH chairs. I am really struggling today. We have been proudly working with PATH for the past five years and I believe that our work is extremely meaningful in helping prevent LGBTQ communities from facing extreme violence. But as part of both the prevention of hate violence, there also has to be the structure there to help survivors of violence where hate has not been stopped and they have actually been harmed. The New York City Anti-Violence Project proudly has a 24-hour, seven-day-a-week crisis hotline where survivors can call who may be uninterested in calling the police, may have attempted to call the police and did not get the response that they wanted, or simply do not really understand how to put context around whatever hate violence they experienced and do not know what they want to do.
+
+**(02:07:33)**
+
+
+
+Working with the City Council to stop violence towards LGBT people is something that we are extremely proud of.
+
+**(02:07:42)**
+
+
+
+We believe that new investment from the administration and what we hope will be seen from the City Council will usher in a new era for New York City that really allows us to be a beacon of hope, while nationally we are seeing an unprecedented rise of anti-LGBT sentiment, especially towards trans communities and towards LGBT immigrants. Our hotline calls are up 35%, which is very significant because we already thought our hotline was reaching maximum volume. It is becoming harder and harder to meet the needs. We have an extensive wait list for legal services and we really need to see future investment into organizations like ours in order to help meet the needs of people who are experiencing hate. I am so sorry. I am going to let you go if I have trouble talking, but thank you so much.
+
+**(02:08:47)**
+
+
+
+Thank you for your testimony and hopefully you will have a speedy recovery. If you need to reach out to us to provide written testimony, that is definitely available to you. Testimony can be submitted to testimony@council.nyc.gov. Thank you.
+
+I would now like to call the last panel on Zoom: Glenn Belovski, Jennifer Nicole Almeida and Christopher Leon Johnson. Okay, I do not see them on Zoom. We will do a last call in the room. If anyone else wishes to testify, you may do so by filling out an appearance form with the Sergeant at Arms. Seeing none, that concludes today's business. Thank you.
