@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Governmental Operations, State & Federal Legislation"
 committee_slug: committee-on-governmental-operations-state-federal-legislation
-title: "Community Board Resources and Structure"
+title: "Community Boards, AI Disclosure, Prediction Markets and the Staten Island Flag"
 date: 2026-06-22
 slug: committee-on-governmental-operations-state-federal-legislation-community-board-resources-and-2026-06-22
 duration: "2hrs 45m"
