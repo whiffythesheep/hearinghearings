@@ -1,0 +1,1652 @@
+---
+committee: "Committee on Criminal Justice"
+committee_slug: committee-on-criminal-justice
+title: "Improving Court Operations to Reduce the Jail Population"
+date: 2026-06-25
+slug: committee-on-criminal-justice-improving-court-operations-to-reduce-the-jail-population-2026-06-25
+duration: "3hrs 5m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260625-100539.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416091&GUID=1039BD48-81F8-42E8-924A-7D76372281B5&Search="
+chairs: "Selvena N. Brooks-Powers"
+members: "Gale A. Brewer, Tiffany L. Cabán, Oswald J. Feliz, Frank Morano, Mercedes Narcisse, Yusef Salaam"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Criminal Justice held an oversight hearing on improving court operations to reduce the jail population, with an eye toward the legal mandate to close Rikers Island and transition to borough-based jails holding roughly 4,000 people. The current jail population sits at approximately 6,000, and the trajectory remains a subject of dispute. The hearing drew testimony from Chief Administrative Judge Joseph Zayas, the Mayor's Office of Criminal Justice (MOCJ), the NYPD, all five of the city's major public defender organizations, advocacy groups, and members of the public including formerly incarcerated individuals.
+
+Judge Zayas gave the most substantive testimony of the day. He detailed a range of court-side reforms including scheduling orders with discovery deadlines, dedicated conference attorneys in each borough to manage complex cases, expanded problem-solving court staffing (up 30%), and the rollout of electronic filing in Supreme Courts. He reported that citywide dispositions in Supreme Court were up 10% in 2025 and 11% year-to-date in 2026, with a clearance rate of 125%, meaning the courts are resolving cases faster than new ones are being filed. The backlog of cases over two years old with incarcerated defendants has fallen from 7,781 at the end of 2021 to under 500. Despite these genuine gains, Zayas was candid about what the courts cannot control: district attorneys are not meeting statutory discovery deadlines (the Bronx averages 112 days versus the 20-day statutory requirement for detained defendants); private defense attorneys are overloaded and under-supported; the 730 competency process leaves mentally unfit defendants waiting an average of 5.4 months just to reach an OMH hospital after a commitment order is signed; and judges lack the legal authority to force cases to trial over party objections, constrained by appellate precedent as much as by statute. He specifically called out MOCJ for failing to draw down over $50 million in state-allocated funds for the Assigned Counsel Plan since 2018, and called for earlier and more aggressive plea offers from prosecutors, noting that 98% of convictions result from guilty pleas and that cases rarely improve with age.
+
+The MOCJ panel, led by Director Deanna Logan, offered a somewhat defensive account of the $50 million gap, attributing it to the lack of dedicated agency infrastructure prior to 2022 and ongoing budget-matching constraints. MOCJ's First Deputy described one concrete improvement: the 730 evaluation report is now shared with both prosecution and defense within 24 hours of court receipt, eliminating one or two adjournments per case. MOCJ also described its role as a system-wide logjam clearer, citing an example of using overtime funds to speed up OCME autopsy report review. On the technology side, MOCJ acknowledged that a vendor procured to build a unified discovery management system across all five DA offices had badly overestimated its ability to replicate work done for one borough across the others, leaving each office to build its own workarounds. The NYPD representative described the structure of the Discovery Liaison Unit (one lieutenant, five sergeants, 25 officers across the five DA offices), outlined three primary digital transfer mechanisms for evidence, and confirmed that the unit is at its highest-ever staffing level. However, under questioning he was unable to state definitively that NYPD is transmitting all evidence within the statutory windows, conceding that some materials are inaccessible within those timeframes. He declined to answer questions about desk appearance ticket denial policies or the operational instructions for a summer surge of 2,600 extra officers, which council members found unacceptable given the direct link between arrest decisions and jail population.
+
+The public defender panel was the most pointed of the day. Representatives from Legal Aid Society, Brooklyn Defender Services, Bronx Defenders, Neighborhood Defender Services of Harlem, and New York County Defenders converged on several themes: the DA's absence from the hearing was itself revealing and unacceptable; low-level arrests are surging (up 193% from 2021 lows, with subway-related arrests up 3,000% in 2025 alone), directly driving jail population; discovery non-compliance by prosecutors is not merely a resource problem but reflects a lack of urgency and in some cases an active disregard for the law; the 730 outpatient restoration option is being blocked by DA refusal to consent; Manhattan Supreme Court is being hampered by a shortage of available trial parts, not just cases; and public defender offices are hemorrhaging experienced attorneys due to noncompetitive salaries, with one office reporting the loss of five of its thirty felony attorneys within two months. Brooklyn Defender Services flagged that of 1,400 bail cases it handled in the past year, over half resulted in dismissals and nearly 45% in non-custodial outcomes, a damning indictment of bail overuse. Advocacy and community witnesses pressed for the Treatment Court Expansion Act (which would remove DAs as gatekeepers for diversion), more funding for Assertive Community Treatment and Intensive Mobile Treatment teams, supportive housing, crisis respite centers, and capital funding for Harbor House, the only residential treatment program in the city that accepts clients rejected by other providers. One direct-testimony witness described spending three years on Rikers without ever receiving her discovery, unable to view evidence against her because a request for a laptop was denied.
+
+Numbers
+
+- Current Rikers Island jail population: approximately 6,000.
+- Legal target for borough-based jail system: approximately 4,000 people.
+- Cases over two years old with incarcerated defendants: fell from 7,781 at end of 2021 to below 500 earlier in 2026, with approximately 460 individual defendants.
+- Citywide Supreme Court dispositions up 10% in 2025 and 11% year-to-date in 2026.
+- Current citywide clearance rate (dispositions as a percentage of new filings): 125%.
+- Problem-solving court programmatic staff increased by nearly 100 positions, a 30% increase, over the past two years.
+- Problem-solving courts in NYC Supreme served over 3,100 New Yorkers in 2025, nearly 1,000 more than in 2022.
+- Brooklyn pilot of scheduling orders contributed to a nearly 100% increase in dispositions in two court parts in 2025.
+- Statutory discovery deadline for incarcerated defendants: 20 days post-arraignment; for defendants at liberty: 35 days.
+- Actual average days to file certificate of discovery compliance: Bronx 112 days average / 100 days median; Kings County 74 days average / 56 days median; Queens 60 days average / 44 days median; Richmond 46 days average / 28 days median.
+- MOCJ has failed to access over $50 million allocated by Indigent Legal Services for the NYC Assigned Counsel Plan since 2018.
+- Average time from 730 commitment order to placement in OMH hospital: approximately 5.4 months, rising to roughly 7-8 months when factoring in the evaluation process.
+- Discovery Liaison Unit staffing: 1 lieutenant, 5 sergeants, 25 police officers and detectives, split across five DA offices.
+- Low-level arrests in 2025 up approximately 16.2% from 2024, approximately 55% from 2019, and approximately 193% from 2021 lows.
+- Subway-related arrests (lying down or taking multiple seats) up approximately 3,000% in 2025 compared to 2024.
+- Drug possession arraignments up over 200% citywide from 2021 to 2025; up 339% in the Bronx.
+- Petit larceny arrests in 2025 up approximately 35% from 2022 and the highest since 2014.
+- Of 1,400 bail cases handled by Brooklyn Defender Services in the past year, over half resulted in dismissals and close to 45% in non-custodial outcomes.
+- More than 50% of people on supervised release are charged with non-qualifying offenses.
+- National Center for State Courts standard: 75% of felony cases disposed within 90 days, 90% within 180 days, 98% within 365 days (NYC does not meet these benchmarks).
+- Independent Rikers Commission estimate: speeding up cases by a reasonable amount would reduce the Rikers population by approximately 1,417 people on any given day.
+- NYPD overtime budget is approaching $1 billion and has nearly hit that figure four years in a row.
+- Harbor House capital funding request: $3 million to renovate a building and add 60 residential treatment beds.
+- 64% of cases from Manhattan sent to Rikers involve misdemeanors and nonviolent felonies.
+- Manhattan Supreme Court tried 230 cases last year; Kings County handles 37% more cases annually.
+- 68% of people currently in custody with a mental health concern are reportedly not receiving adequate treatment.
+- Deaths at Rikers in 2025 were three times the rate of 2024; four people have died in 2026, three with mental health concerns.
+- Nearly 80 people have died on Rikers since the City Council passed the closure plan in 2019.
+
+Action Points
+
+- Chief Administrative Judge Zayas to provide committee with county-by-county data on DA compliance with statutory discovery deadlines.
+- Chief Administrative Judge Zayas to provide data on frequency of judicial sanctions imposed for late-produced discovery.
+- Chief Administrative Judge Zayas to provide data on defendant production rates from Rikers to court, including times of production and delivery to holding areas.
+- Chief Administrative Judge Zayas to provide data on whether pretrial suppression hearings are occurring earlier in the life of cases and at what rate.
+- Chief Administrative Judge Zayas to provide data on measurable changes in adjournment rates and time to disposition since the citywide calendar-in and off-calendar conference system was implemented in 2024.
+- Court system to implement a policy requiring clerks to process partially secured bonds on nights, weekends, and holidays, with clerk training underway across all counties.
+- Court system to provide data to committee on how often judges are releasing defendants on out-of-state fugitive warrants, particularly from New Jersey and Pennsylvania.
+- MOCJ to provide committee with the current full budget for the Assigned Counsel Plan and an explanation of how much of the $50 million allocation remains inaccessible and why.
+- MOCJ to provide data on implementation status and turnaround times under Local Law 139 of 2025 requiring alternative-to-incarceration assessments within six weeks of attorney request.
+- MOCJ to continue working with stakeholders on a unified or improved technological solution for discovery management across all five DA offices and defender organizations.
+- NYPD to provide committee with data on the most common reasons desk appearance tickets are denied, including a breakdown of whether open warrants cited as disqualifying reasons involve low-level summons warrants.
+- NYPD to provide committee with information on whether officers deployed in the summer surge of 2,600 are being instructed to refer people to services rather than make arrests for quality-of-life offenses.
+- NYPD senior leadership to be briefed on DA requests for additional Discovery Liaison Unit staffing and to provide a response to the committee.
+- NYPD to report back on the agency's position on giving district attorneys direct access to NYPD databases for evidence retrieval purposes.
+- Committee staff to capture case details for Damien Grimes Fuller (DOC booking number 113-2200739), incarcerated pretrial for eight years, for follow-up investigation.
+- MOCJ and court stakeholders to pursue outpatient competency restoration pilots as an alternative to OMH hospitalization for defendants found unfit to stand trial.
+- Council to press DA offices to consent to outpatient restoration in suitable 730 cases rather than applying a blanket refusal policy.
+- Council to press all five DA offices to appear at future oversight hearings on court operations, given their non-attendance at this hearing.
+- MOCJ to explore with OMH the use of its statutory authority to place 730-committed individuals in additional suitable psychiatric facilities beyond dedicated OMH hospitals.
+
+## Full Transcript
+
+**(00:06:02)**
+
+
+
+All right, good morning, Chair, and the other members of this committee, for organizing today's hearing on a truly important subject: the processing of criminal cases in New York City. As you said in your opening remarks, which I really appreciated, the efficient management of criminal cases is something that I care deeply about, having served for many years as a trial judge and an administrative judge. Now, as the Chief Administrative Judge overseeing the operations of all of New York State's trial courts, one of my highest priorities is the implementation of policies and procedures that help minimize the delays that often impede the swift resolution of criminal cases.
+
+Let me start by explaining why this issue is so important. For our criminal justice system to be effective and credible, serious criminal cases cannot routinely languish in the courts. Allowing criminal cases to proceed at a pace that lacks an appropriate sense of urgency results in a loss of confidence in the court system's ability to do its job. When, for example, there is a murder in one of our communities and someone is arrested, it should not take two or three years for the case to be resolved. Witnesses, affected neighborhoods and the families of victims deserve better. So too do the individuals who are charged.
+
+Efficiency is not just essential for cases that are resolved in the traditional ways — either with a plea bargain or a trial. It is also essential for our problem-solving courts, which provide diversion opportunities for individuals with substance use disorders, mental health issues, victims of human trafficking, adolescents and emerging adults, veterans and others. It should go without saying that the faster we engage these individuals with the services and treatments they need, the more likely these interventions are to be effective.
+
+This morning I am excited to highlight all of the things the court system is doing to address these case delays. But just as importantly, I am going to suggest several ways in which other justice system stakeholders must step up if we are going to achieve the goal that is so important to this Council — reducing the jail population to around 4,000 so that it can be accommodated by the borough-based jails.
+
+The bottom line is this: improving case processing efficiency in high-volume courts is not easy. It requires an all-hands-on-deck approach. The simplest reason is that while we would like to believe that judges have the authority to make criminal cases proceed at whatever pace they choose, in actuality there are many factors that affect case processing that are beyond the court's control. To list just a few: cases get delayed when it takes the prosecution months upon months to provide all of the discovery that the defense is entitled to under New York's robust discovery law, which sometimes results from the lack of effective coordination between prosecutors and the NYPD. Cases get delayed because defense attorneys have a constitutional obligation to carefully review the discovery they receive — hundreds or even thousands of pages of police reports and medical records, along with hours of body camera footage recorded by the officers who responded to the scene.
+
+Cases get delayed when a defendant who has been found unfit to proceed must wait months before they can begin receiving competency restoration services at an OMH hospital. And perhaps most frustrating of all, cases are delayed when private defense attorneys have dozens of paying clients from across the City — far more than a solo practitioner can reasonably manage — but choose not to hire associates to handle their caseload.
+
+These are not excuses. They are facts. If we are going to improve case processing in a long-term, sustainable way, we need to be clear-eyed about the myriad challenges. So what is the system doing about case processing? For starters, we are urging judges and court...
+
+**(00:10:51)**
+
+
+
+...attorneys to take a more proactive approach to case management and giving them the tools and resources to do so effectively. Throughout New York City's Supreme Courts, where indicted felonies are handled, judges are now issuing scheduling orders that set clear timelines for getting through a case's preliminary stages. These orders establish deadlines for the production of discovery by the prosecution as well as for the defense to raise issues with the people's discovery compliance, and they mandate court attorney-led conferences with the parties, which provide a forum for discovery disputes to be resolved efficiently — hopefully without the need for time-consuming motion practice. These conferences also encourage early discussions about case resolutions.
+
+In Brooklyn, where we first began issuing these orders at the end of 2024, an executive assistant district attorney attends every conference and makes a plea offer, which helped contribute in 2025 to a nearly 100% increase in the number of dispositions in the two court parts that were part of the pilot. Perhaps this scheduling order initiative does not sound that groundbreaking, but it is. When I was a public defender for nine years, and also when I was a judge, it was basically unheard of for judges in New York City's criminal courts to issue scheduling orders. But for reasons that almost go without saying, it is best practice for judges at the beginning of every case to set clear scheduling expectations so that the parties understand that the case is going to proceed on the court's timeline, not theirs.
+
+We have also set up infrastructure in each borough to help ensure that homicides, felony sex crimes, multiple-defendant gang prosecutions and other complex matters, which tend to be difficult to resolve, move towards disposition. There are many reasons these cases get delayed: the discovery can be voluminous, plea bargaining is more fraught, and scheduling is complicated because even in New York City we have too few lawyers on both sides handling the most serious criminal cases. This is why we have hired experienced court attorneys in each of our Supreme Courts to aggressively conference these cases, identify barriers to progress and develop firm plans for moving forward.
+
+In addition, over the past two years we have significantly ramped up the number of non-judicial personnel serving in our problem-solving courts statewide. We have added nearly 100 project directors, case managers and resource coordinators, amounting to a 30% increase in programmatic staff, which has allowed us to reduce caseloads in some of our busiest courts — particularly in New York City — and open new ones. In fact, last year the City's Supreme Courts served over 3,100 New Yorkers, nearly 1,000 more than we served in 2022. Credit for that must be shared with our district attorneys and our defense bar, who have demonstrated a laudable commitment to alternative forms of accountability in criminal cases.
+
+We are indeed focused on improving case processing efficiency from every conceivable angle. We have established dedicated positions in each borough to coordinate with the New York City Department of Correction on issues related to the production of defendants that can stall cases, and we are now meeting regularly with representatives from City Hall on a range of issues of mutual concern, with case processing at the very top of the list, as well as with members of this committee.
+
+We were also successful at getting the State Legislature this year to pass one of our program bills — which we hope the Governor will sign — that will give judges the authority, with the parties' consent, to dispense with recidivist sentencing provisions and plea bargaining restrictions that can make the resolution of certain cases very difficult. Finally, over the last year we have begun to roll out electronic filing in the City's Supreme Courts.
+
+I am pleased to report that the early results of these efforts are quite promising. Every borough in New York City had more dispositions last year than it did in 2024. Brooklyn, where we first piloted this work in late 2024, saw a significant percentage increase, and City-wide dispositions increased by 10%. That positive trend is continuing: so far this year, dispositions in our Supreme Courts are up 11% and we are resolving cases significantly faster than new filings are coming in, which is important. Our year-to-date clearance rate — which reflects the percentage of cases that have been disposed compared to how many were filed — is now 125%.
+
+Another positive data point: at the end of 2021, as we began to emerge from the pandemic, we had 7,781 cases that were over two years old with incarcerated defendants. Earlier this year, that number dipped below 500 for the first time since 2020.
+
+We can do better, though. As I said, we need the help of other justice system stakeholders to continue to move the needle. Let me start with discovery. New York's discovery statute says that in cases in which the defendant is incarcerated, discovery must be provided within 20 days of arraignment. In New York City, this deadline largely remains an aspiration. I am not unsympathetic to the fact that our discovery laws are extremely onerous, and I know that this City's district attorneys take their discovery obligations seriously. But we need to have a serious conversation about when compliance with the discovery deadlines — that were a key component of the 2020 criminal justice reforms — will become the norm. Because the fact of the matter is this: cases are rarely resolved before discovery is complete. If discovery were routinely produced in 20 or 25 days rather than 60 or 90 days, cases would move significantly faster. Put simply, if one of the central selling points of discovery reform — namely, that earlier, broader discovery of case information will facilitate earlier case resolutions — is going to be realized, we need to actually have earlier disclosure.
+
+This brings me to the next point. In New York, 98% of criminal convictions are the result of guilty pleas, not trials. Whatever the downsides of this state of affairs, the fact is that a very small percentage of criminal cases are tried. Nevertheless, in many cases in New York City — including many relatively straightforward cases — prosecutors do not make plea offers in a timely manner. While there may be strategic reasons for the defense to tolerate or even encourage delay, that is almost never true for prosecutors. From the perspective of prosecutors, criminal cases typically do not get better with age. But judges do not control plea bargaining — prosecutors do. So another issue that I hope will be discussed today is whether our district attorneys will commit to engaging in plea bargaining earlier in most cases.
+
+The defense bar too is essential to improving case processing efficiency. Private attorneys assigned as counsel to represent criminal defendants pursuant to County Law — basically, we are talking about 18-B attorneys — consistently litigate around 50% of the cases that go to trial in New York City. But as a recent report from the New York City Bar Association highlighted, the New York City assigned counsel plan administration is understaffed and under-resourced, and is thus unable to provide panel attorneys with the support that they need. In fact, the association's report found that since 2018, the Office of Criminal Justice has failed to access over $50 million that indigent legal services has allocated to the New York City assigned counsel plan under two separate contracts. I hope and I expect that the new mayoral administration will work quickly to address these issues. I also want to encourage the public defender organizations to give fair consideration to case processing initiatives when we propose them. Obviously we need them there as well...
+
+**(00:20:34)**
+
+
+
+...to make progress in this area. Finally, the City can help too, by among other things adequately funding the programs and services to which our problem-solving courts refer defendants. We are committed to continuing to expand these courts, but that expansion will only be impactful if there is a corresponding increase in service provider capacity.
+
+Despite the challenges I have just laid out, I am genuinely optimistic that we can continue to make significant improvements to case processing efficiency in New York City. The court system is deeply committed to this work. We now have a mayoral administration that shares this commitment and a City Council that desperately wants to see the jails on Rikers Island closed. We are all fortunate at this moment to have five forward-thinking district attorneys and a sophisticated, passionate defense bar. For all of these reasons, I believe the time is ripe for a renewed commitment by all stakeholders to efficient case processing that does not sacrifice fairness to either prosecutors or defendants. Working together, I honestly believe that we can do this, and I am happy to answer any questions that the Chair or...
+
+**(00:21:57)**
+
+
+
+Thank you so much, Judge, and we have been joined by CM Salaam.
+
+Before I start questioning, I will read brief remarks from CM Althea Stevens, who serves as the Chair for the Committee on Children and Youth. Good morning. As Chair of the Committee on Children and Youth, I want to emphasize that any conversation about reducing incarceration must include young people.
+
+Following the recent incident at Horizon Juvenile Center, it is clear that we cannot examine challenges within our justice system in isolation. We must look at the entire continuum from youth facilities to adult detention and understand how each part impacts the other. If we focus on adult facilities such as Rikers Island without addressing what is happening within our youth justice system, we will not solve the problem in its entirety. The young people in our care today are the adults who will enter our criminal legal system tomorrow. If we fail to intervene with meaningful support, effective programming, timely court processing and opportunities for rehabilitation, reducing the jail population is not just about moving cases faster. It is about ensuring that every person, especially every young person, has access to justice, services and the resources needed to prevent deeper involvement in the criminal justice system.
+
+If we do not invest in youth, the numbers at Rikers will grow again in the years ahead. Today is an opportunity to examine how our courts can operate more efficiently while ensuring fairness, accountability and better outcomes for New Yorkers of all ages. I look forward to working to develop a plan to reduce the census population in the juvenile detention center in the near future.
+
+To questions... one moment please. Sorry about that. A little bit of technical difficulties over here.
+
+You mentioned that judges are now issuing scheduling orders to set deadlines and prioritize the discovery process. In general, would you say discovery materials are being served to the defense counsel in accordance with the time frames established in state law?
+
+**(00:25:26)**
+
+
+
+Well, I think it is very clear that they are not. As I indicated, the discovery statute calls for really accelerated disclosure. I think it is 20 days for defendants who are being detained and 35 days for defendants who are not. We will get you the numbers on each of those. We do keep track of the times in which they file a certificate of compliance with discovery. I do not want to be critical of my partners in government, the District Attorney's Office, but I think it is clear, and I think they would admit, that they are not complying with the letter of the law in the discovery statute.
+
+**(00:26:24)**
+
+
+
+Maybe twice the time is probably more like it. Can you provide a county by county breakdown on adherence to the discovery deadlines? If there are variations between counties, what do you think the root cause could be? Is it a resource issue, or is it that they just have a higher concentration...
+
+**(00:26:46)**
+
+
+
+Yeah, I mean, I want to try to stay in my lane here in terms of my neutral role. But I think that is a very good question to ask them. I will say the discovery statute has been required for six years now. This discovery reform statute took effect six years ago. It does impose extremely onerous burdens on the District Attorney's Office. As I said in my opening statement, I do think that they are working hard to take it seriously. But the voluminous nature of the discovery, and maybe the need for some technological solution to make it happen — which I know there were efforts toward — would surely help. Maybe some coordination with the NYPD in terms of collaboration with them to get that discovery directly to the office so that they can categorize it, because what the DA's office needs to do is present it to the defense in a way that makes it easy to use, so that they are not just dumped on with a thousand pages, but that it is categorized by witness, by body cam, by the person whose body cam it was. I do not think there is any question that they have been having a really hard time complying with the strict deadlines that have been imposed by the statute.
+
+**(00:28:34)**
+
+
+
+Thank you for that. Just kind of going back to the beginning of the question, which does not necessarily require you to opine on why they are not complying — because to your point, we are going to follow up with them. The District Attorneys all submitted testimony because they have a conference today and as a result they were unable to be here. But I would like to know if you would be able to provide a breakdown by county of adherence to the discovery deadlines.
+
+**(00:29:06)**
+
+
+
+County by county — we do keep track of that, so I believe, I am pretty sure, we will be able to give you that.
+
+**(00:29:12)**
+
+
+
+OK, so do you have it now? I have it somewhere. It might take me a minute to find it in my paperwork.
+
+**(00:29:22)**
+
+
+
+We will move on, but if you could get it to us that would be great. Oh, I think I do have it here. So these are the days it takes them to file the certificate of compliance. In the Bronx it is 112 average days and 100 median days. In Kings County it is 74 average days and 56 median days. In Queens — which is where I was the Administrative Judge, and Chair, I know you are from Queens too — they are probably doing the best. It is 60 average days and 44 median days. And in Richmond it is 46 average days and 28 median days. That does not include the more complex cases such as homicides. These are just your other serious felonies, but not homicides.
+
+**(00:31:08)**
+
+
+
+Thank you for that, Judge. One issue raised by defense providers is that after the 2020 amendments to the discovery laws, they have seen an increase in circumstances where the prosecution files a certificate of compliance with discovery obligations months into the life of a case, but without actually turning over all of the relevant material, and then relying on their ability to serve supplemental discovery at a later date. Is this something you have also identified as problematic and as a cause of case delays?
+
+**(00:31:44)**
+
+
+
+Yes. I mean, I am not trying to come to the defense of the prosecutors in this case, but sometimes prosecutors do not come across this information until later on. So yes, I think the defense is right about that. There are...
+
+**(00:32:00)**
+
+
+
+It is sort of a continuing process, and we have been encouraging the District Attorney's Offices to actually start giving over discovery that they have right away. Like, forget about the deadlines — if you have discovery that you think is clearly discoverable, why not just start providing it to them without certifying that you have completed it? Because that gives the defense sort of a head start and they are not dumped on at the deadline. That is not a criticism, but the statute gives a date and then it could be hundreds of documents that they have given at the last minute. So if there could be a piecemeal approach where it is being given over earlier... we have been encouraging that. Sometimes documents take a little longer, disclosure has to happen, and of course that causes delays.
+
+**(00:33:08)**
+
+
+
+The question is whether the supplemental documents that were later turned over — whether there was good cause or good reason why they did not have them at the time that it was required.
+
+**(00:33:20)**
+
+
+
+Under the statute.
+
+**(00:33:20)**
+
+
+
+And how often are judges imposing sanctions for late-produced discovery?
+
+**(00:33:29)**
+
+
+
+I am not sure we are keeping track of that. If we are, we will send that to you.
+
+**(00:33:34)**
+
+
+
+Thank you. I just want to acknowledge we have been joined by CM Cabán.
+
+**(00:33:39)**
+
+
+
+So the standard set by the National Center for State Courts is that 75% of felony cases should reach a disposition within 90 days, 90% should reach a disposition within 180 days, and 98% within 365 days. How does New York City compare to these national standards?
+
+**(00:34:02)**
+
+
+
+We could get to those numbers as well. We clearly do not meet them. Maybe in the first part of that there is more compliance, but when you are talking about these more serious cases, New York is different in all sorts of ways from other smaller states. I mean, our caseloads are...
+
+**(00:34:31)**
+
+
+
+20, 30, 40, 50 times the caseloads that they might have in these small jurisdictions in Utah and...
+
+**(00:34:40)**
+
+
+
+So that is what they are comparing it to. New York also has a very robust defense bar, so I am not...
+
+**(00:34:53)**
+
+
+
+I do not think that we are aspiring to meet the National Center for State Courts timeline, because New York is so different.
+
+**(00:35:08)**
+
+
+
+Given that judges are independent actors, how is the court working to change behavior on case processing?
+
+**(00:35:17)**
+
+
+
+So yes, we are strongly encouraging our judges...
+
+**(00:35:23)**
+
+
+
+...to be more proactive in resolving discovery disputes. What was happening early on was we had these old cases, and then we had this whole sort of middle area — a bucket of cases that were getting bottled up with discovery disputes. Motions were being filed and it took many, many months. It was causing all sorts of delay. So that was the reason that we began the scheduling order initiative, to prevent those cases from becoming the really old cases. We hired clerks in each of the counties to meet off-calendar with the lawyers to resolve these discovery disputes.
+
+**(00:36:19)**
+
+
+
+There is a discovery dispute in almost every case. So the lawyers have an independent obligation to meet together and try to resolve the dispute among themselves, and sometimes that happens. But sometimes we need to step in, so we have devoted a lot of resources...
+
+**(00:36:38)**
+
+
+
+...to get those issues resolved. Thank you for that, Judge.
+
+**(00:36:44)**
+
+
+
+In terms of the system actors necessary to make your new protocols effective, are there specific steps that the District Attorneys and the defense bar can take right now to improve the speed at which cases reach a disposition?
+
+**(00:37:02)**
+
+
+
+Sure. I mean, being active participants in those discovery conferences. With respect to the old cases, we have an old case conferencing process, so for any of the old cases, having the District Attorney's Offices provide a high-level executive available for those conferences — a high-level executive who has the authority to resolve cases, to see whether a higher-level District Attorney will approve an offer that is made. Those are some of the things that will be helpful, and the District Attorney's Offices are doing that.
+
+**(00:37:54)**
+
+
+
+In the piece you published in the New York Law Journal, you emphasized the importance of conducting pretrial suppression hearings early in the proceedings because they bring information to light that spurs settlement talks. What specific steps have you taken to ensure that pretrial hearings happen earlier in the life of a case, and do you have data on whether these hearings are actually occurring earlier?
+
+**(00:38:19)**
+
+
+
+So the example that showed that this was a very helpful way of resolving cases early was what they did in Queens. Queens was the only county, when I was the Administrative Judge there, which did not wait until the trial date to do suppression hearings. We used that example because what happens in those hearings is the judge gets an opportunity to hear the police testify, to get a real sense of what the case is about. So it is a really important and fertile opportunity for the judge to see the case, for the District Attorneys to see the case, for the defense attorney to see the case. Oftentimes after a hearing a case might get resolved. So we always thought, why wait until right before trial? Let us start this litigation right then.
+
+As part of the initiative, we have admonished, directed, cajoled and pushed the Administrative Judges to get their judges to hold hearings well before trial. As for the stats we received — can we have them? I have them here. I do not want to waste two minutes looking for them.
+
+**(00:39:42)**
+
+
+
+But I will say that I think probably the number of hearings in most of the counties has doubled from the time that the initiative started.
+
+**(00:39:55)**
+
+
+
+And we think that is important because those hearings are also probably responsible for the increase in the dispositions that we are receiving.
+
+**(00:40:06)**
+
+
+
+And when you receive a disposition, that is one less defendant on Rikers Island, one less accused on Rikers Island. Thank you, Judge. I am going to yield myself to allow my colleagues to ask some questions. I am going to first hear from CM Morano, followed by CM...
+
+**(00:40:24)**
+
+
+
+Thank you, Chair, and thank you for convening this hearing on such an important topic. Judge, as the Council member that represents the only borough that routinely elects both Democrat and Republican judges, I can attest to how widely respected you are by jurists on both sides of the aisle, and hearing your testimony it is easy to understand why. I had a couple of quick questions based on your...
+
+**(00:40:48)**
+
+
+
+...testimony. You stated that one of the goals is reducing the jail population to around 4,000 so that it can be accommodated by the borough-based jails, and when we questioned the Correction Commissioner he indicated the same thing. Shouldn't the criminal justice system be focused on administering justice in a way that is fair and in a way that protects public safety, rather than achieving a predetermined jail population? Are we at risk of allowing the capacity of our jail system to dictate criminal justice policy instead of the other way around?
+
+**(00:41:23)**
+
+
+
+Yeah, I mean, I do not think we are at risk for that because it is an aspirational goal. And you know, what is that phrase — if you do not have a goal you are never going to meet it. I do not think that is... you probably say it better than...
+
+**(00:41:39)**
+
+
+
+...me. But the 4,000 number, I will concede, does not adequately take into account spikes or increases in violent crime. I think it is a reasonable thing...
+
+**(00:42:03)**
+
+
+
+...for folks to do, to have a goal of 4,000 and let us see how we are able to get there. I do not think justice is being short-circuited or jeopardized by it.
+
+**(00:42:19)**
+
+
+
+I think we can have a goal and also make sure that justice is done. If you are suggesting that we would just start releasing people from jail just to reach the 4,000 number, then I completely take your point. But otherwise I think we can do both things at the same time.
+
+**(00:42:41)**
+
+
+
+One thing that I think Staten Islanders and Manhattanites, for instance, share the same objection to is that someone who is elected as a civil court judge on Staten Island because of their expertise in civil court issues ends up deciding cases in Manhattan. The Manhattanites do not want them deciding cases, and the Staten Islander who elected a civil court judge does not want that person hearing criminal...
+
+**(00:43:13)**
+
+
+
+...concerns. One concern I hear from practitioners is that not every judge assigned to criminal court has substantial criminal law experience or even sought that assignment. How does the court determine who serves in criminal court, particularly in arraignment parts where judges make critical release decisions? Should criminal law experience receive greater weight in those...
+
+**(00:43:36)**
+
+
+
+...assignments? Yes, absolutely.
+
+**(00:43:38)**
+
+
+
+So yes, and they do. But the question is, what do we do when we do not have enough criminal law experienced lower court judges to sit in those parts?
+
+**(00:43:50)**
+
+
+
+So I think most recently a civil court judge in Staten Island was elected, but that civil court judge had criminal law experience, was a former prosecutor or defense attorney, and naturally that is where we put him — not in civil court but in criminal court.
+
+**(00:44:09)**
+
+
+
+I will say this: I was a practitioner for nine years doing exclusively criminal cases, and I then got hired as a law clerk and then did exclusively civil cases. Smart lawyers can make that adjustment. I am not saying criminal law is rocket science — any lawyer who can practice law...
+
+**(00:44:39)**
+
+
+
+...can make that adjustment. We typically would assign a mentor to those judges, and it is only done as a last resort. We would only put a civil court judge who has no criminal law experience in a criminal part when there is no other option. For example, in these transition years when a new mayor comes into office, there is a shortage of judges because the new mayor has to create a new committee and vet the applicants. So there is always this sort of one-year delay where we are short on judges.
+
+**(00:45:23)**
+
+
+
+And so that might happen mostly in those transition years after a new mayor is elected.
+
+**(00:45:32)**
+
+
+
+You identified discovery compliance, competency restoration, plea negotiations, defense counsel resources and prosecutorial practices as major causes of delay, and I agree with you on everything, many of which, as you pointed out, are outside the judiciary's control. If you could change just one thing outside the courts tomorrow, what single reform would have the greatest impact on...
+
+**(00:45:57)**
+
+
+
+...reducing delays? That is a good question. I mean, judges need to be empowered to move a case to trial, and to allow a judge to move a case to trial even though the parties have requested a continuance. That, for me, is the answer. To give judges more power to move a case to trial over the objection of a prosecutor or of a defense attorney. We are sometimes reticent to do that because of the reasons that people give for requesting an adjournment. But especially with respect to prosecutors, once a prosecutor is ready, unless the prosecutor has been warned numerous times that they have got to start on a certain date, giving judges some more power to do that.
+
+**(00:47:00)**
+
+
+
+I have other questions in the second round if possible. Thank you.
+
+**(00:47:04)**
+
+
+
+Chair: Thank you for that, and I just want it on the record to clarify a statement that was made. Because the purpose of this conversation also helps the victims as well, and I think we can all agree that Rikers Island is not designed to be a prison. By moving along the court process, it allows for those who are in custody to either be released or go on to a state facility. I just wanted to clarify that these should not be competing issues, and I will make sure my colleague understands the purpose of this conversation. With that, we will hear from CM Brewer, followed by CM Cabán.
+
+**(00:47:49)**
+
+
+
+Thank you very much. You obviously are the star of this discussion, so thank you very much. Judge, I have been talking about this for a long time. I was previously chair of Oversight and Investigations and we actually had staff that got on the buses at Rikers and went to the courts. This was pre my friend Stanley Richards, but it was always the case that 99% of folks do not get to court from Rikers. So I guess my question is, should that not be something that the courts track? Because you have to get up at 5 o'clock in the morning, wait until you get breakfast, you do not necessarily get food when you get there that you want to eat. Before Stanley Richards, I do not know what the situation is now, but individuals who were supposed to get on the buses — detainees were blamed for not getting on, and that is why the court numbers were not great, et cetera. The buses seem to be a problem. I do not know if that is something that you track or if you have any anecdotal information, but it seems to me that that is a slowing up of the process also.
+
+**(00:48:57)**
+
+
+
+I have to say about that — sure. First of all, very happy to have known Stanley Richards for a long time. Very happy. With him about 40 years, like me.
+
+**(00:49:09)**
+
+
+
+So I did not hear the statistics you mentioned. Well, you know, they are there — not in other words, oh, they all get on, you know. 99% of folks get to court. But it does not always work out like that, so I am just wondering what...
+
+**(00:49:26)**
+
+
+
+You have experienced... I think that number is probably inflated. I mean, a lot of defendants are alleged to have refused to go to court, so we do not know. But we do keep track — we definitely keep track of the number of defendants who are being delivered to court every day. We also have increased collaboration, so in every county we have a liaison with the folks at DOC, and there are discussions all day long about what is happening with this defendant. Why is that communication going on? If a defendant is, for example, on trial, or is supposed to be doing significant litigation during a hearing, et cetera, the liaison is all over that. There are now ways of determining not only whether they were produced, but the time they were produced, the time the bus pulled into the sally port, the time the accused has been checked into the holding area that the defendants are in. I do think we have stats that we could share with the Committee.
+
+**(00:50:52)**
+
+
+
+OK. And do you think that this needs improvement? I guess that is my question. I am like you — I think everything will be improved under Stanley Richards — but do you think the liaisons are doing enough to have the kind of accountability you want from the buses and the...
+
+**(00:51:13)**
+
+
+
+Transportation. I mean, no system is perfect, so I think we are always going to be striving to improve all of the systems that we put in place, including the court system. There are things we can improve as...
+
+**(00:51:29)**
+
+
+
+Well, on that front, when I would go — mostly to family court, not criminal — technology was always an issue. You mentioned it in your statement about the increasing use of it. But generally, is the technology something that is up to par? Do you find that that is an issue, or is that something that you find...
+
+**(00:51:47)**
+
+
+
+Is satisfactory? Yeah, well, it took us too long to get e-filing into the criminal side of things. That is now completely done.
+
+**(00:51:56)**
+
+
+
+It is not completely done, but it is getting there. Manhattan is next, or something like that. Yeah.
+
+**(00:52:00)**
+
+
+
+Yeah. I mean, look, the original e-filing statute required us to get permission from the legislature every time we wanted to add another court. So we got a bill passed that essentially allowed the chief administrative judge to decide wholesale what courts should be done next. We are doing that in Supreme Court and we are going to do it in lower criminal court as well.
+
+**(00:52:27)**
+
+
+
+I think three of the counties now in Supreme Court in the City are either in the process or have been done already.
+
+**(00:52:35)**
+
+
+
+OK. Are there other technology issues that are helpful, or is that the main one?
+
+**(00:52:40)**
+
+
+
+No, there are all sorts of technological issues that...
+
+**(00:52:44)**
+
+
+
+We are considering that will speed along the calendar call. So there are things that we are exploring. There are things that we are doing even with DOC that will tell us — that is what I am wondering. Go ahead.
+
+**(00:53:03)**
+
+
+
+What DOC said — it will tell us, for example, if a defendant says they are not coming to court, they immediately begin a process, especially if the appearance is really important because they are in the middle of a trial and a jury is waiting for them. There is a videotape that is taken and sent immediately to the judge, and whether or not that person voluntarily refused to come to...
+
+**(00:53:30)**
+
+
+
+Court gets disclosed to the judge. And then also, are there other video possibilities between Rikers and the courts that are used? Or is that something that — because I have to say, not you, but in family court I was there and every time just about something would happen with the video, we would have to stop and fix it, et cetera. So I do not know if that is the situation with you, but it was...
+
+**(00:53:52)**
+
+
+
+Constant. Yeah. I mean, typically DOC has been working on it. This is going to sound like I am blaming them for everything, but our computer systems are all up to...
+
+**(00:54:05)**
+
+
+
+Par. OK. There was some work that needed to be done with the computer systems at Rikers because we would often be in the middle of — these are virtual proceedings right now...
+
+**(00:54:18)**
+
+
+
+And sometimes they would just shut off, or they would bring the wrong defendant to the wrong computer, and things like that would...
+
+**(00:54:26)**
+
+
+
+Happen. All of that slows down the system. That is what I am asking. OK, thank you, Madam Chair. Thank you. Next we will hear from CM Cabán.
+
+**(00:54:36)**
+
+
+
+Thank you. Before asking questions I just want to state that it is shameful, but also really clarifying, to see that the prosecutors are not here. Because the subject of this oversight hearing is improving court operations, and you would think that the prosecutors would have a vested interest in improving court operations, especially to reduce jail populations. You would think that they have experiences to bring to the table, to talk about, to be a partner in doing this work. So it is unacceptable that they are not here.
+
+Judge, thank you for being here. The last sort of preamble thing I will say is we are both lawyers. Lawyers like to be verbose. I am going to try to be succinct because I have a lot of questions, but I am going to ask you to try to be succinct too. Thank you.
+
+Judge, something I saw when I was practicing, and it is still continuing today: we are seeing that at Supreme Court arraignment, a client who was either released or made bail shows up to their Supreme Court arraignment to get charged post-indictment, and either at the request of the DA or based on the arraignment charges, the judge there increases or sets additional bail conditions. Now, bail is simply to ensure that somebody shows up to court. The best proof of that is that they showed up to the Supreme Court arraignment. What are you doing to stop judges from abusing their power in that scenario? They should not be increasing bail when the defendant showed up to court.
+
+**(00:56:00)**
+
+
+
+I mean, I think it is a good question. Let me try to succinctly answer parts of it. The first is, you know, the system we have is — I do not tell judges what to do in their particular cases. They are given discretion. Judicial discretion is...
+
+**(00:56:21)**
+
+
+
+Important. But you give guidance on the law, and the bail statute is clear. That is actually not really gray in that sense.
+
+**(00:56:30)**
+
+
+
+You do not tell them how to make these hard decisions, but the legal, codified purpose of bail is to ensure somebody shows up to court, and there they are standing. There are some judges who believe that once there are just criminal charges in a felony complaint, that — I mean, I do not know the cases you are talking about. We do not know the...
+
+**(00:56:54)**
+
+
+
+Details. But sometimes when a defendant gets indicted, that defendant is now getting indicted for more serious charges, and the original bail that was set two dates ago — so there might have been...
+
+**(00:57:13)**
+
+
+
+Listen, I am saying they did not pick up any new cases. It is an indictment based on the original facts that they were arraigned on in criminal court. What I am taking away from here is that you are not holding your responsibility to not just advise but lead the judges to follow the bail statute. I am going to move on to another question, but I do think that is pretty unacceptable. They are showing up to court.
+
+Another common problem that we are seeing is that families are unable to pay partially secured bonds on nights and weekends, which means people who could be released after bail is set, or really soon after that, have to wait for a clerk to swear out the bond during the day or during the week. Will you commit to remedying that? Will you commit to making sure that we can do these things on nights and weekends? Because we should be able to. So what is the plan for that?
+
+**(00:58:10)**
+
+
+
+We have a plan in place. We met with some of the advocates recently who brought that up to our attention, and we are going to make that...
+
+**(00:58:18)**
+
+
+
+Happen. What is the...
+
+**(00:58:18)**
+
+
+
+Can you share what the plan is? The plan is to make sure that on weekends and holidays, clerks are required to take those bonds. I mean, especially for like a three-day weekend — why should someone stay in jail for three more days?
+
+**(00:58:37)**
+
+
+
+I agree. That this was...
+
+**(00:58:39)**
+
+
+
+Recently brought to our attention, and the plan is to make it happen. We are training the clerks to make it happen, and it will happen in each of the counties. Now I am trying to...
+
+**(00:58:49)**
+
+
+
+Be selective here. I do not have a ton of time. I want to ask you about out-of-state fugitive warrants. I want to know what the current training is for judges on out-of-state fugitive...
+
+**(00:59:08)**
+
+
+
+Warrants. Because I, for example, would seek to release clients on fugitive warrants from at least the neighboring states like Pennsylvania and New Jersey, because they take oftentimes around a month, sometimes more, to resolve, even when there is no local hold. It is totally unnecessary, and those clients, when they are not remanded, are almost always going back to those neighboring states — New Jersey and Pennsylvania — to clear those warrants. So can you talk about the current training and advising on how you handle particularly fugitive warrants from New Jersey and Pennsylvania...
+
+**(00:59:49)**
+
+
+
+Considering the data that shows that these folks, when they are released, are going to clear those warrants?
+
+**(00:59:54)**
+
+
+
+I mean, the training is that there did not used to be the right to release in those cases. So the training is that they should be exercising their discretion...
+
+**(01:00:05)**
+
+
+
+Based on all of the facts and circumstances in the case, to consider their options, one of which is...
+
+**(01:00:11)**
+
+
+
+Release. Do you have data on how often that is happening? And then I will hand it back to the Chair. I am not sure we do have...
+
+**(01:00:16)**
+
+
+
+Data, but we will get back to you on it. Great, thank you. Thank you, Chair.
+
+**(01:00:17)**
+
+
+
+Thank you. We have questions from CM... Yes, thank you. Thank you for your testimony so far.
+
+**(01:00:25)**
+
+
+
+Judge, just a few questions. DOC projects that the jail population could reach 8,800 by June 2027, while the borough jails can hold roughly 4,160 persons. Given your case management reforms, what specific reduction in length of stay or population do you project by the August 2027 deadline, and what is that projection based...
+
+**(01:00:54)**
+
+
+
+On? Yeah. Did you say 8,000? No, I am sorry, I said 8,800. Where are you getting that number from? Right now it is 6,000. We have not projected that it is going to be 8,000.
+
+**(01:01:09)**
+
+
+
+So it is going down, if this is — if it does not...
+
+**(01:01:12)**
+
+
+
+Close. So, you know, we are kind of looking at the data and saying — in the report...
+
+**(01:01:22)**
+
+
+
+They are basically saying that by 2027 we would reach a population of 8,800 persons. I am a little surprised at that because right now it is 6,000. That would be an incredible increase from a report in 2025 that they were projecting...
+
+**(01:01:43)**
+
+
+
+OK. Yeah. I mean, I doubt the premise of that. But the more that the courts collaborate with all of the stakeholders, as well as the defense bar, and if the trends are continuing where there are consistently more dispositions than filings — filings have been down — if that trend continues, you know, whether we are going to reach 4,000, I cannot guarantee that. But the...
+
+**(01:02:22)**
+
+
+
+You should also know that it is not just the cases that should get counted — it is the number of the accused that are actually in jail. Because some people who are on Rikers have multiple cases. So for example, right now, defendants with cases over two years old — I think the number is around 502 — but the number of actual defendants is around 460 something. That is the number that we think should really be looked at, because those are the number of people in Rikers Island.
+
+**(01:03:03)**
+
+
+
+I wish I could give you more information about what our prediction is with respect to that. All I can say is that we are working hard to reduce the number of days that it takes to resolve a case, and the trends in every area are that we are doing that. The clearance rate — what is called a clearance rate — is getting better, which means that the difference between filings and dispositions...
+
+**(01:03:36)**
+
+
+
+Every time we have a case where dispositions are way greater than filings, that means that we have just reduced the caseload. That has been happening. It happened this year, it is happening in 2026, and it happened in 2025 in a bigger way than we expected.
+
+**(01:03:58)**
+
+
+
+Thank you for that. The data shows reducing the interval between court appearances for long-stayers by seven days on average. What is your target? And I do not have my glasses...
+
+**(01:04:20)**
+
+
+
+On.
+
+**(01:04:21)**
+
+
+
+And what concretely is preventing courts from achieving it today? I could give you mine if you...
+
+**(01:04:27)**
+
+
+
+Like. Sure. So on that, you know, every time a case is on the calendar there might be a different reason for an adjournment. I have never bought into the idea that if you reduce the adjournment time that will have any effect on anything. It really depends on what stage the case is in. Are we trying to finish discovery? Are we trying to get a decision on a motion? Or are we at a point now where everything has been done and we are trying to get a case tried?
+
+In those cases, I prefer — and we encourage our judges to set — shorter dates. But sometimes a lawyer will come in and say, because we have got all these programs going on and we have already committed this very busy lawyer to try a case in Brooklyn, and we know that case is going to be a four or five week case, it does not make sense to set the case in the other county to a 30-day period when we know that lawyer is going to be on trial. If we find out that lawyer is not on trial, we can then advance the case, get that lawyer over, and get that case tried.
+
+So really, there are moments that really matter. One is: has discovery been completed? Have the hearings been done? Is this case really ready for trial? That is when the 30-day adjournments really matter. We have been encouraging judges to do that. But there are so many reasons — let us say a defendant is waiting for results and the prosecutor is saying we are not getting those for 45 days or 60 days, which is too long. One of the things that I think would be helpful is a bigger investment in the forensic units of New York City to more speedily resolve these things. But if a doctor is telling the judge you are not getting these results for 60 days, why adjourn a case for 30 days when everybody knows that evidence is going to be very important and it is going to have an impact on how the case gets resolved?
+
+**(01:07:02)**
+
+
+
+I am not sure if — just one last one. The citywide calendar-in system and off-calendar conference were announced in 2024. What measurable change in adjournment rates or time to disposition have you seen since implementation, and how many courtrooms or parts are actually using those...
+
+**(01:07:21)**
+
+
+
+Protocols? Yeah. So the time has been reduced from... the time to disposition... could you share those numbers? OK, thank you.
+
+**(01:07:32)**
+
+
+
+Thank you, Councilmember. Judge, are you taking any steps to establish firm trial dates or some other backstop to ensure cases do not linger on indefinitely? Sure...
+
+**(01:07:51)**
+
+
+
+They do not establish a trial date until discovery is complete. That is why we have been focusing a lot upon the completion of discovery and then the hearings. But judges are scheduling trial dates as soon as you can say the case is now ready for trial. Not ready in the sense that it is going to go to trial right away, but all the things that needed to get done before trial have gotten done, and so that is happening and our judges are doing that.
+
+The other thing that gets considered is coordinating between busy prosecutors and busy defense attorneys. So even though all of those things have happened — the discovery is complete, the hearings are done — lawyers' schedules can also adversely affect the ability of a judge to set a date, because the lawyer has an older case. So a lawyer in Queens where the judge wants that person to go to trial might have an older case in Brooklyn where the defendant is in. We have this coordination happening. We have an initiative which basically makes sure that the oldest case where the defendant is incarcerated gets the priority. So we have the authority to say, wait a minute, that defendant, that lawyer needs to go to trial, because we want this older case — this way older case — to go to trial. So there is even that sort of cross-county collaboration that is happening.
+
+**(01:09:37)**
+
+
+
+No, it is good to know. Would you advocate for any changes to state law that would give judges more latitude to manage their calendar effectively and hold parties to deadlines?
+
+**(01:09:51)**
+
+
+
+I mean, it would not really be... I mean, I would advocate for the appellate courts to give judges more discretion. Because there is precedent which precludes a trial court from, if a prosecutor is not ready, moving the case to trial over the objection of a prosecutor. So it is more along the lines of decisions or law by our appellate courts that have sort of boxed in the judge's ability. I do not think that is something that... there could be a statutory change too. It is clear from the data that homicide cases are often particularly hard to resolve swiftly. Would you support a change to state law that would put a...
+
+**(01:10:41)**
+
+
+
+...speedy trial clock on homicide cases?
+
+**(01:10:43)**
+
+
+
+You know, I have not thought about that. But when it comes to the homicide cases, what I would love to see is the district attorney's offices have more lawyers trained to do those cases, because that is also one of the issues. You know, if a district attorney's office has five specialized homicide prosecutors...
+
+**(01:11:07)**
+
+
+
+...but there are six or seven or eight homicide cases, everybody else might be ready.
+
+**(01:11:16)**
+
+
+
+One of the things I have been saying since day one when I was appointed Chief Administrative Judge is that the court will always be ready. So if the parties come to us and both sides answer ready, you better believe that case is going to get tried. It is only when one side or the other insists that they be ready for one reason or another...
+
+**(01:11:46)**
+
+
+
+...and oftentimes it is related to important matters. When it...
+
+**(01:11:49)**
+
+
+
+...comes from the defense, it is some investigation that has to happen or some other issue, and judges really loathe to force lawyers to move the case to trial when there are good reasons to not do that.
+
+**(01:12:08)**
+
+
+
+Thank you for that, Judge. My last question for you is: you have indicated that one of the issues standing in the way of reducing the jail population is a lack of suitable community programming available to judges when they are inclined to agree to an alternative to incarceration and detention. I just want to say on the record I really appreciate our private conversation about that, just knowing that there is someone in your role that looks at that as part of the solutions to resolve some of these matters. Do you believe it would be advantageous if certain community programs expanded capacity to help accommodate court referrals?
+
+**(01:12:51)**
+
+
+
+Yes, absolutely. There are, and it would reduce the number of people on Rikers Island waiting for those beds. So once those beds get opened, once they are able to send someone to a program, they leave Rikers and that leaves another spot for someone else.
+
+**(01:13:10)**
+
+
+
+So absolutely, and to the extent the City could increase funding for those programs, that will definitely move the needle on the Rikers population.
+
+We are still hearing that there are delays associated with cases being referred to treatment courts. In particular, the delays are related to getting the necessary assessment completed to determine if people are suitable. On a City level, what can be done to make treatment courts run more efficiently and effectively?
+
+**(01:13:44)**
+
+
+
+So there are clinicians that sometimes do these reports, especially in mental health court, which makes recommendations, and sometimes there are just not enough clinicians to do that. On our end we have been hiring resource coordinators and all of the necessary parties so that we are ready — we have all of our staff in place, ready to take on more cases. But the folks who do the psychosocial assessments and the recommendations for eligibility for treatment are not provided by either district attorneys' offices or other nonprofits. So increasing the number of those groups would be helpful as well.
+
+**(01:14:37)**
+
+
+
+Thank you. We are done with this panel. Thank you for your candid responses today. I think it was thoughtful and helpful for the conversation.
+
+**(01:14:46)**
+
+
+
+Thanks for having me. Thank you.
+
+**(01:17:47)**
+
+
+
+I am not sure if you all were able to listen in to the judge's testimony and questioning, but I want to give a few moments to see if you had any reactions to any of the things that were discussed in that panel. I thought it was a great, robust panel and we are looking forward to the questions about what is happening with case processing. Thank you.
+
+**(01:18:19)**
+
+
+
+Well, I am going to start with a question that came to mind as he was reading his testimony. One was that — and I will just read the line from the testimony — as a recent report from the New York City Bar Association highlighted, the New York City Assigned Counsel Plan administration is understaffed and under-resourced and is thus unable to provide panel attorneys with the support that they need. In fact, according to the Bar Association's report, since 2018 the Mayor's Office of Criminal Justice has failed to access over $50 million that Indigent Legal Services has allocated to the people.
+
+**(01:19:08)**
+
+
+
+I would just like to get an understanding as to why MOCJ has failed to draw down that $50 million.
+
+So I think we have to step a little bit back. The Assigned Counsel Plan is the supervisory portion that sits in MOCJ and has two administrators that are appointed by the courts, and then has supervising attorneys that support the individual counsel that are appointed to the 18-B panel. So the actual attorneys that provide indigent legal services to clients are not in the Assigned Counsel Plan — they are the ones that are appointed. Back in 2018, the Assigned Counsel Plan was part of the Mayor's Office of Criminal Justice, which was also within City Hall. The ability to pull down funds for City Hall was hampered by not having a dedicated infrastructure. The change to that infrastructure that needed to happen started in 2022, when MOCJ decided that if it was going to meet the needs that the Council and our constituents identified — which was not only making sure that the Assigned Counsel Plan had resources but also that we were able to pay our partner providers on time — we needed to build infrastructure.
+
+Since 2022, as the Council remembers, we have been in this work of building the infrastructure and moving the Mayor's Office of Criminal Justice into its own agency to be able to access the funds that are necessary to do the things that need to happen for not only the Assigned Counsel Plan but also for the partners that provide some of the most critical essential services in the City. In terms of now accessing those funds as an agency, the Mayor's Office of Criminal Justice in its budget code can access the funds that now come from the state, because that is where much of the funding comes into the Mayor's Office. However, those funds have to then be put into the budget exactly, and so the budget is then accessible. Much of the funds cannot be drawn down into our budget, so we spend what is actually in our budget to support the Assigned Counsel Plan.
+
+**(01:21:37)**
+
+
+
+And we work with Indigent Legal Services as well as bar associations to really think about what the evolution of the Assigned Counsel Plan should be and how it should be operating and working.
+
+**(01:21:48)**
+
+
+
+So how much of the $50 million is there to be spent now? The Assigned Counsel Plan budget is approximately... give me one second.
+
+**(01:22:04)**
+
+
+
+Sorry, I am looking here and I just wanted to make sure, because those numbers have changed. But I will get you the full budget for them. We are pulling down from the funds that are available. And why is it not the...
+
+**(01:22:18)**
+
+
+
+...complete $50 million? The allocated budget has to match what is...
+
+**(01:22:26)**
+
+
+
+...the actual approved and assigned budget. So each budget has the budget line of the personnel and then the OTPS budget that can be spent. So we will draw down from that budget and spend it. Things like training are now added in so that the Assigned Counsel Plan can conduct trainings with the 18-B plan attorneys so that they can understand the needs and also deliver training. So we started making sure that the Assigned Counsel Plan could deliver their own trainings, as well as working with indigent defense providers in the portfolio where they are able to have plan members attend trainings that are being offered by other provider organizations as well.
+
+**(01:23:13)**
+
+
+
+Thank you. Next question. Can you please describe the process for officers to upload evidence so it can be transferred to prosecutors?
+
+Sure. Good morning, Chair, Council members. NYPD is grateful for the opportunity to be here today. So I will start on the personnel front and then segue into the technological or production front.
+
+NYPD policy, foundationally, is that the arresting officer is primarily responsible for the transmission of material at the arrest arraignment processing window. They are the ones conferring with the Early Case Assessment Bureau — that is on the district attorney's side — for the screening of that case, the strength of the prosecution, the weakness of the prosecution and whatever additional materials may be needed by the prosecution at that time. It is an open dialog.
+
+Outside of that, for discovery subsequent to that arraignment window, NYPD has dedicated personnel in every command citywide. There is a primary contact and a secondary contact that each of our local prosecuting agencies have a full and exhaustive list of, and they are to be contacted if there are any issues with discovery or contacting the arresting officer for any number of reasons — vacation, or they are just not available or not answering the phone. Then on top of that, to a higher level of escalation, there is a centralized Discovery Liaison Unit that operates out of the Office of the Chief of Department. They are embedded and also work hand in hand with the district attorneys on two types of cases, or two buckets.
+
+So staying on the same track of escalation: there is the arraignment, there is that initial conference between NYPD and their respective screening ADA in the Early Case Assessment Bureau in the district attorney's office. Subsequent to arraignment, if they do not have the ability to reach or are not having success for whatever reason with the dedicated command-level personnel, they would reach out to the Discovery Liaison Unit. That would be the first bucket — that could be a particular request on any case, that could be a request because there is a 180-day concern trying to meet grand jury requirements, that could be a speedy trial concern, or any reason why any ADA citywide needs assistance.
+
+The second bucket of cases that the Discovery Liaison Unit assists with — and this is a larger bucket — is automatic or proactive cases. The Discovery Liaison Unit is embedded in each of our five local district attorney offices. Those members of service are constantly monitoring the live arrest feed, and there are certain arrest types or crime classifications that the Discovery Liaison Unit will assist with automatically. They are the more complex types of arrests that have more voluminous discovery. Primarily speaking, the Discovery Liaison Units assist the district attorneys proactively with homicides, attempted murders, attempted homicides, shootings, nonfatal shootings or confirmed shots fired, criminal possession of a weapon in the second degree — which coincides with the 2022 initiative that launched with the Supreme Court specialized gun parts — and robbery in the first degree. So that pretty much sums up the second bucket.
+
+There is also a technological aspect of materials being transmitted to the district attorney's offices. There are some outliers, but there are three primary transfer mediums or points of workflow where NYPD has established bridges with the local prosecuting agencies. Most foundational is the DA Portal, because it has the underlying initial arrest documents that are absolutely needed for comprehensive screening by the district attorneys. That transfer mechanism receives the complaint report from NYPD — the most basic report that contains the pedigree identifying information of the incident, the time, the location, the occurrence, the crime, the allegations and so on. The accompanying arrest report corresponds with that complaint — which individual has been arrested pursuant to that complaint. Property clerk invoices: when there is an arrest there is sometimes an extensive amount, sometimes not so much, of property or evidence that is inventoried by the police department. Activity logs, and there are also any number of types of materials that can be transferred — scratch paperwork in that arrest processing arraignment window. The policy, the guidance and the technology dictate that it is automatically shared with the district attorney's office.
+
+The second mechanism is called the Enterprise Case Management System, which is for cases that have an investigative nature. Sometimes there is just a patrol arrest and it is very simple, but a lot of times NYPD has detective investigators, Intelligence Bureau field intelligence officers and other investigatory support units, and that is where their casework is documented. Summaries of the work that they do, attachments to those notes — or fives, as NYPD and the district attorneys refer to them — attachments that may be photographs, they may be videos, they may be additional documents in PDF form for photos. That is automatically shared with the district attorney's office upon the investigator sharing it.
+
+Now I just want to touch on the first two mediums I just spoke about — the DA Portal and the Enterprise Case Management System. Over the years we have worked collaboratively with the DAs, not only to build the medium that both sides are speaking to each other for integration into the case management system, but also for automation reform to where we are currently now. As the materials hit the system they are automatically pushed or sent to the respective DA office. The DA is notified of that, and the ADA, the paralegal, the discovery and the support staff get notification. They are able to review it and then obviously turn that over subsequently to counsel.
+
+The last primary mechanism or method of transfer is Evidence.com. Evidence.com houses body-worn camera footage of all of our members of service and fleet camera as well. Some of our members of service have docked dashcams, as they are often referred to, and that again is sent to the district attorney's offices automatically as the case continues. So that is the general overview.
+
+**(01:32:26)**
+
+
+
+No, thank you, that was very helpful. Does the department track whether officers are timely in uploading their evidence? So as I mentioned, in that arrest arraignment window there is that dialog.
+
+**(01:32:45)**
+
+
+
+There are thresholds of what the DA has set as necessary to properly screen a case. That may be contingent on a crime classification, it may be contingent on what actually occurred in the...
+
+**(01:33:04)**
+
+
+
+...complaint incident or the arrest incident. But there is a dialog there. As we look post-arraignment, there are obstacles in the ability to do that after that arraignment.
+
+**(01:33:23)**
+
+
+
+If it is arraigned, we assume it is not declined or deferred. So we...
+
+**(01:33:27)**
+
+
+
+Have we seen into that? We know in a case when it is not arraigned, we know when it is declined. When we speak about speedy trial issues, there are a number of reasons or scenarios that could alter the clock. Could the case be subsequently dismissed? Are there waivers of time? Where are we exactly in that? I do not think it is linear — 90 days for a misdemeanor, 180 days for a felony — on where that is. Because of that, the district attorneys have been great partners in utilizing the personnel that have been designated and are responsible for discovery. What I mean is, when discovery materials are outstanding, or they want to ascertain or verify if there are additional materials outside of the arresting officer subsequent to arraignment, they do utilize the command-specific personnel and then also the Discovery Liaison Unit to meet the deadlines that are defined statutorily. Thank you.
+
+**(01:34:53)**
+
+
+
+For that clarification. Just in the event that an officer does not disclose the evidence in a timely way, what happens? Are there supervisors? Are there any other actions taken at all?
+
+**(01:35:09)**
+
+
+
+We speak with the district attorneys at a higher level than the arresting officer, and if something is brought to light we look into the case.
+
+**(01:35:21)**
+
+
+
+Are there times where there is an undue delay?
+
+**(01:35:28)**
+
+
+
+Unfortunately there are times where that occurs. However, are there scenarios where it is extremely voluminous on the police department side to gather the materials that cause a speedy trial issue? Yes. Are there times where it is taking the district attorney's office time to review a voluminous case file and they are exercising due diligence in doing so? Yes. I think though there are times where the material does not exist yet. A complex report — he alluded to that in his testimony. There are times where the materials are not readily accessible. The mechanisms in place transfer the materials as soon as they exist and are accessible, and if the department does find something then it is dealt with in accordance with the severity of the issue.
+
+**(01:36:45)**
+
+
+
+Okay. I am sure you are aware that state law considers material in the possession of law enforcement to also be in the possession of the prosecution. Can you definitively say that the NYPD is transmitting evidence to the district attorneys within a time frame that enables them to meet the disclosure deadlines imposed by state law, including for incarcerated defendants?
+
+**(01:37:13)**
+
+
+
+Sure, thank you. If you could just start with a yes or no and then go into it.
+
+**(01:37:22)**
+
+
+
+Sure, thank you. Okay, this is an important question that I really want to know the answer to. As I am sure you are aware, state law considers any material in the possession of law enforcement to also be in the possession of the prosecution. Can you definitively say that the NYPD is transmitting evidence to district attorneys within a time frame that enables them to meet the disclosure deadlines imposed by state law for incarcerated defendants? I ask that you start with a yes or no.
+
+**(01:37:59)**
+
+
+
+First, and I will, and I appreciate the question — yes, with the caveat that the material needs to be accessible. So I explained materials such as the complaint report and the arrest report and vouchers and body-worn camera and dash cam and case enterprise case management fives and attachments that exist. Unfortunately, right, there are two things at play here. There is accessibility, meaning certain materials are more difficult to retrieve, review and produce than other materials that relate to the arrest. That is the first thing.
+
+Second, when you look at the discovery statute and this arraignment window — 20 days for an incarcerated defendant and 35 days for an at-liberty defendant — discovery and evidence is not static, meaning that there are cases where individuals, including those that are at liberty and incarcerated, it is dynamic, meaning that there is subsequent discovery as the criminal prosecution progresses. So the systems that we have in place, with the automation that was discussed, are designed to send that to the DA as materials come into existence, as they are made final, as they are made whole — they go directly to the DA.
+
+A laboratory report on the NYPD side is signed off on and finalized at day 10 or even outside of those windows. That gets uploaded into the case and automatically shared. Sometimes the materials do not exist or do not have the ability to go to the DA in that time frame. There are other materials that take longer. I know MOCJ is in on this effort with the district attorneys as well. There is an open dialog here — for instance, 911 records. There is a lot on that and we take it very seriously. I cannot speak further on that, but I cannot say affirmatively that we are producing every single material related to the case in the time frame. Thank you.
+
+**(01:40:37)**
+
+
+
+For that. How many officers are assigned to the Discovery Liaison Units in the district attorneys' offices within each borough? Are there any civilians assigned to those units? Are there limits in place as to what types of cases those liaisons can work on, and if so, why are those limitations established? Are there differences between the boroughs? Okay, I am going to do my best to hit a few of those, and if I miss anything please just...
+
+**(01:41:10)**
+
+
+
+Tell me. Thank you. So it is a strictly uniform position — there are no civilians assigned to the Discovery Liaison Unit. There is one lieutenant who oversees the unit from a central position. That lieutenant is based in One Police Plaza, and then there are five sergeants also assigned to the Discovery Liaison Unit. Five sergeants — one in each respective county district attorney's office. Then there are 25 additional uniformed members in the rank of police officer and detective, which varies a little bit on the head count for each of those ranks, and those 25 are split amongst the DA offices.
+
+Now, I think you asked about the case types. I touched on it a little earlier, so I think it is easiest to think about it in two primary buckets. There is proactive or automatic case assistance that is contingent upon the arrest type and the arrest charge — murders, attempted murders, shootings, shots fired, criminal possession of a weapon in the second degree and robbery in the first degree. Then there are the requests. There are times where the prosecution has difficulty obtaining materials relating to arrests that are not in those proactive categories. This is a request — so the arresting officer is maybe not available, or there is a speedy trial issue, or a grand jury need to get that material as soon as possible. So they also work on DA requests. The district attorneys' offices have guidance, they are great partners, they utilize them whenever needed. Then there is direct case assistance embedded in each of the DA offices when they need assistance.
+
+**(01:43:29)**
+
+
+
+We understand that district attorneys have requested additional NYPD staff in those units. Have those requests been met?
+
+**(01:43:38)**
+
+
+
+What I can say is the Discovery Liaison Unit at this juncture is at the highest staffing level of all time. The DLU has been in existence since 2021. The NYPD implemented it of its own volition, preemptively, to essentially assist and facilitate with — as the chief judge said — onerous discovery laws, with the hopes of facilitating compliance and assisting with a more expeditious case processing mechanism. The police department is grateful for the district attorneys' acknowledgement of just how beneficial the DLUs are. The DLU staffing right now is contingent — or rather, the caseload is contingent on staffing — and the police department balances the operational needs with the resources that they currently have allocated. I am more than happy to bring back to the upper-level executives the sentiment that...
+
+**(01:44:53)**
+
+
+
+You stated regarding the DA. Do you support giving district attorneys access to NYPD databases so they can secure the evidence they need to move prosecutions forward? I cannot speak to the overall agency position. I can speak to what the department has implemented in tandem and in collaboration. I can speak about the enhancements that have been implemented. The automation of the DA portal and Evidence.com has drastically improved the discovery workflow. I would just like to give an example. The chief judge mentioned in his testimony that in 2025 dispositions were up between 10 and 11% — I forget the exact number he cited. Simultaneously, we worked with the district attorneys' offices on two main projects, including with MOCJ as well. The Evidence.com environment — meaning prior to this, officers had to manually search for video. On patrol response, let us say there is a violent incident where it touches precinct boundaries. That arresting officer is now responsible to gather dozens if not hundreds of body-worn camera recordings. So we leveraged the vendor with Evidence.com to automate that. We also automated the arrest portal. I want to speak about the NYPD and MOCJ and the DA commitment to continuing to enhance this workflow. It may be telling that dispositions are up in the same time frame.
+
+**(01:47:19)**
+
+
+
+The clarification — in terms of why you would not be able to speak on behalf of the agency's position on that — is it that there is not a position that has been established, or is it a legal issue or a large decision? What I can say up front is that is a little bit above my level and my pay grade, but there are mechanisms in place that are giving the DAs direct access already to the case...
+
+**(01:48:11)**
+
+
+
+File. Thank you for that. I am going to pass this to CM Qabbani. Thank you.
+
+**(01:48:19)**
+
+
+
+My questions are for the NYPD. I will start by addressing the role that the NYPD has in relation to the reduction of people that are in the system. Just like the DAs have a lot of control in this area, so does the NYPD. Unfortunately we are seeing what can unequivocally be described as a drastic increase in broken windows policing, which again has well over two decades of research that says this does not bear any progress on public safety.
+
+But I want to know about the NYPD's current policy on documenting the reason a desk appearance ticket is denied. My understanding is that you may not be using DAT investigation forms anymore, which are the documents that include a lot of the exceptions that are not in the statute. But based on the information that I have been getting from folks who work with people in the system, and from my questioning at previous hearings, this does not seem to be what is actually happening. So can you lay out exactly what the policy is around the documentation of the reason a DAT or an appearance ticket was denied?
+
+**(01:49:45)**
+
+
+
+I appreciate that. Unfortunately I think you are discussing an operational decision that is essentially occurring in a command by a uniform member of service. I think it is a little outside of the scope that I am able to...
+
+**(01:50:06)**
+
+
+
+Attest to here today. I mean, how many people are going before a judge and how many people are being processed rather than getting an appearance ticket — I think that falls under the scope of an oversight hearing on the efficiency of the courts and reducing the jail population. You cannot get into jail without an arrest being precipitous, so I do not know why you are not able to testify...
+
+**(01:50:36)**
+
+
+
+On that. Sure, and I will be more than happy to follow up with you with respect to the reasoning behind that question, and I will try to get you data on reasons why DATs are being disqualified, if we are able to capture that metric. I would have to — and just a reminder from the testimony from the...
+
+**(01:50:58)**
+
+
+
+Executive budget hearing around this — the court decision at the state level says when a DAT or an appearance ticket must be given in the field, and well over 90% of the time the NYPD is finding a reason, or just flouting the law, and taking people to the precinct to process them there. It is causing a lot of problems. It is not just backing up the system — devastating things happen to people while they are in police custody.
+
+The reason that was given was that there are other open warrants, but what failed to be disclosed is the data around how many times those open warrants were for the same kind of nonsense. Were those open warrants actually SAP warrants — summons warrants for taking up an extra seat on the subway, for having an open container — things that should not justify somebody being processed? Quite frankly, categorizing them as "we had to process them because they had these open warrants" amounts to misleading fear-mongering. So I would like the data on that. Can you tell me the most common reason why an otherwise eligible DAT is denied?
+
+**(01:52:15)**
+
+
+
+I am going to have to get back to you on that. Okay. It has been reported that the NYPD is surging its presence with 2,600 extra officers on late-night and early-morning foot patrols this summer. Will officers be instructed to make arrests on those foot patrols for quality-of-life crimes — like, again, listing some of these things like loitering, disorderly conduct, parks violations...
+
+**(01:52:37)**
+
+
+
+CM, that is very operational in nature. I cannot speak to that.
+
+**(01:52:41)**
+
+
+
+So you also cannot speak...
+
+**(01:52:43)**
+
+
+
+To whether these officers will be instructed on how to refer people to services rather than make an arrest?
+
+**(01:52:49)**
+
+
+
+I can go back and speak to the upper-level executives, find out if there is any such messaging, and get back to you.
+
+**(01:52:59)**
+
+
+
+I mean, again — you do not get into the courthouse without an arrest, and so not having information about who we are subjecting to a criminal court proceeding I think is unacceptable. You prepared for this hearing. Everybody has their role to play, right? You are making the arrest. There is a lot of declining to prosecute to move cases along quicker. The judge has the things that they can do. Defense attorneys need more resources so that they can help move their cases along more speedily. But I will say, to show up here and not be able to speak about how, when and why arrests are being made, and whether you are being judicious with that really big responsibility, means that you did not show up here prepared. Thank you, Chair. Thank you.
+
+**(01:53:55)**
+
+
+
+We are going to pivot now to MOCJ. Under Mayor de Blasio, when discovery reform was passed, MOCJ took on the role of coordinating the acquisition and installation of new data management systems for DAs and defenders. Why is it the case that over six years later we do not have functioning systems implemented?
+
+**(01:54:36)**
+
+
+
+Data management systems have been a challenge to the criminal legal system. We, along with all of the stakeholders, worked to determine and identify components that would be able to integrate with the current system. As MOCJ, we pursued a vendor not only for the district attorneys but also for the defense bar, in order to actually have the infrastructure that would ingest the information from the NYPD and then categorize and save the information, and then allow for the prosecutors to transmit that information to the defense bar, and then for the defense bar to receive that information in a coherent fashion. Because one of the things that MOCJ heard was that discovery material was very disaggregated and not cataloged in a way that made it usable. Unfortunately, with the vendor...
+
+**(01:55:43)**
+
+
+
+That was chosen, it seems that there was a capacity challenge. One of the DA offices was able to get the very targeted work that needed to happen. However, the vendor overestimated the ability to essentially copy the work that it was doing with the first DA office and go across the system. Having five DA offices that have very distinct styles as well as distinct systems that they had originally created on their own, the vendor took on more than they could chew in terms of being able to do the same very targeted work that they did for one borough and replicate that in a timely fashion for all the other boroughs.
+
+What we now have are offices that have in the interim built their own internal systems, such that they are using the funding that we have advocated for to add personnel and do their own forms of workarounds to be able to meet their burden of providing discovery. We still are talking to all of the stakeholders about ways to move forward and where there are opportunities for technological advancements that will move us to a more one-city, seamless approach to getting the information not only from the NYPD to the DAs but appropriately to the defense bar, so that we can more...
+
+**(01:57:14)**
+
+
+
+Effectively handle... thank you. Have in ensuring that NYPD and other City agencies are providing discovery in a timely way to the DA, MOCJ serves kind of as the logjam clearer, as it were. We will get information about a challenge and then we will specifically work with the stakeholders to move that logjam.
+
+For example, we know that the Office of the Chief Medical Examiner is critical in getting evidence and reports on various categories of cases. There is some slowdown in getting those reports, so our team will go in and we will talk to the Office of the Chief Medical Examiner and we said, "What is going on here?" We realize that they have senior people that have to review the reports before they go out to the various DA offices. Well, why are they not being reviewed? Because they have so many personnel and they do not have enough hours in the day to do that.
+
+So then for us we are like, "Okay, how do we solve this problem?" We go and we talk to our partners at the Office of Labor Relations and we say, "Here is a challenge that is glutting the system and we need to alleviate it. What do you think about being able to access funds that allow for overtime and making sure that the contracts allow for that in that category of employees?" Together with the stakeholders we work out the way to get that done, so that now the supervisors are able to have the time in the day to review those documents and they are more timely being provided to the DAs and then the cases can move. That is an example of how we start to move and look at what the challenges are in the system.
+
+**(01:59:03)**
+
+
+
+Thank you for that. What steps, if any, has MOCJ taken to speed up and reform...
+
+**(01:59:12)**
+
+
+
+...the 730 process, the 730 process for people who may not be competent to stand trial. The 730 is definitely a challenge and we have worked with stakeholders. I would actually like the First Deputy of our office, since she is the one who helped facilitate this one, to have the opportunity to take her flowers for being able to work through one of the challenges. She has come to the dais. We just needed to swear her in. Can you state your name for the...
+
+**(01:59:46)**
+
+
+
+...record? Jill Starchefski.
+
+**(01:59:57)**
+
+
+
+Thank you for the question. The issue is that when someone is found unfit for trial, as you know, the process is the person needs to be transferred to an OMH facility for restoration. There is currently a backlog in that process in the fact that there are not enough beds for the transfer.
+
+What we have been trying to do is to assess different ways to ease... we have been trying to develop a robust... we have been exploring outpatient restoration models with our partners and with the DA and the defenders to try to figure out what we could do there. Perhaps most importantly, what we have done is we have worked with our partners to take certain steps to make it so that when the 730 evaluation report is given to the court, there used to be a delay where the court received the report and then there was an adjournment where the report was given to the prosecutor and then the defense attorney would be given it in court. That would then require another adjournment because the defense attorney had to have the opportunity to review the evaluation report.
+
+Working with our partners, we were able to make it so that now the way it works is when the 730 evaluation report is given to the court, the court clerk is required within 24 hours to share that report with both the prosecutor and the defense. That really alleviates sometimes one, sometimes two adjournments, and so that helps to expedite the court process. Thank you.
+
+**(02:01:43)**
+
+
+
+Last session the Council passed Local Law 139 of 2025 to expedite access to court-based alternatives to incarceration programs by requiring that within six weeks of an attorney's request an assessment would be conducted to determine if a person is suitable for a program. Can you give us an update on where things stand with the implementation of this law? Are attorneys requesting assessments? Have you been able to meet the statutory timeline and turn those assessments around within six weeks? That portion of the law was passed last year and I believe it...
+
+**(02:02:32)**
+
+
+
+...the operational date was this spring, and so we have operationalized it within the program. We do not have the data on that yet but we will have the data on it shortly. But we can share it with you once it becomes available. Do you have an idea of the timeline on it? I am not sure of the timing but we can get it back to you. Okay, well thank you...
+
+**(02:02:54)**
+
+
+
+...to the panel. This panel is relieved. Thank you. Thank you.
+
+**(02:02:58)**
+
+
+
+Next we will have the public defenders, and that will include... before I call them up I will just read this script real quick. I now open the hearing for public testimony. I remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record.
+
+If you wish to speak at today's hearing please fill out an appearance card with the Sergeant at Arms and wait to be recognized. If you have a written statement or additional written testimony you wish to submit for the record please provide a copy of that testimony to the Sergeant at Arms. Also email written testimony to testimony at council dot nyc dot gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+And now we will call our first panel which includes Young Me with Brooklyn Defenders, West Keynes with Bronx Defenders, Elizabeth Fisher with Neighborhood Defender Services of Harlem, Stan German with New York County Defenders and Tina with the Legal Aid Society. I know you all have given statements and the clock is set for five minutes for each of you. You can begin when you are ready, whatever order you are all...
+
+**(02:05:01)**
+
+
+
+Have you... I will go. I am right... okay, move over. Okay.
+
+**(02:05:08)**
+
+
+
+I am Tina Longo. I am the Chief Attorney at the Legal Aid Society's Criminal Defense Practice. We are the citywide provider of trial, appellate, parole and post-conviction work. We have a trial office in each borough of New York City and we are celebrating our 150 years serving the City and have been...
+
+**(02:05:33)**
+
+
+
+...the public defender for the City before Gideon v. Wainwright. I have served as the public defender and began my career in the New York City office of the Legal Aid Society for over 25 years.
+
+I wanted to start... my colleagues are each going to take specific issues to address. I sort of wanted to step back and set the groundwork. First and foremost, thank you for this hearing. It is critically important, particularly right now. But it is also telling, I think, a little bit about who is not at this table and who has not come before you as the chair and this Council. Who is not here to answer questions about desk appearance tickets and over-policing? Because I think what it says is that people, the district attorneys and the police department, see this as a very narrow issue that you are trying to address, when in fact it is not. It is actually a systemic problem.
+
+What we are trying to address and what we are talking about here and what we are trying to get to is: what are the problems and what are the solutions that are driving court delay? But you cannot have that conversation, you cannot have solutions, without identifying the problems and with each stakeholder coming forward to say, "Here is what we see, here is the role we play, here are the solutions we implement." But you are not really getting all of that.
+
+You have the court come, and we really do appreciate Judge Zayas, our Chief Judge, for taking proactive steps. We appreciate that MOCJ was here to provide some context. We appreciate that you heard a lot about discovery technology. I certainly appreciate our colleagues who come as public defenders and every single day right now in courts across this City our staff are dealing with those delays. More importantly, the people we represent, those impacted, are suffering those delays.
+
+It is not really about court delay. It is about intentional decisions made about where we are going to, as a City, invest our time and money. So as we are hearing from the judge and as my colleagues will talk about, we need programs and services. We need mental health services. Our clients need housing. Our public defenders need higher salaries. We have offices right now negotiating contracts. Some of them... our union has said that they will strike. We have lost felony attorneys at astronomical rates. I want to say I will give them this: the district attorneys also lose felony assistant DAs that are ready to try serious cases at high rates because of the lack of pay, because of the lack of keeping up with the cost of living in New York City for people who have dedicated themselves to public service.
+
+At the same time, the NYPD overtime budget is nearing a billion dollars and has almost hit a billion dollars four years in a row. At the same time we are looking at the attrition of our staff, our social workers, our investigators, our litigation assistants. NYPD and the City is set to bring on a brand new class. Those are intentional decisions about where we are placing our resources. So it is hard for us to think through how do we fund all the solutions we need within the court system and within our offices that must have the staff to meet the challenges that are brought by what is real justice.
+
+So I say that to set the framework that the problem does not start at the courthouse door and the solution will never be found in tinkering around the edges. And with that I will turn it over to my colleagues.
+
+**(02:10:31)**
+
+
+
+Good afternoon, Council Members who have taken part in this important hearing this morning. To piggyback off what Tina just said, if the City is really committed to closing Rikers Island it has to build meaningful alternative pathways away from Rikers, which ultimately means far more investment in the community-based services that address root causes and break the insidious cycle of criminalization, incarceration and recidivism.
+
+With that being said, I really want to get focused on real issues and offer some real solutions, because I do not think we really heard solutions from prior testimony. Madam Chair, you spoke about the 730 crisis. Right now it is taking someone who has been found unfit and committed to OMH custody about 5.4 months to make it to an OMH hospital, and that is from the time that the commitment order is signed. If you tack on about another two or three months in order to get the 730 exam, if one party or the other is going to controvert that, we are probably looking at closer to seven or eight months that somebody who is mentally unfit is sitting on Rikers Island not getting the services they need.
+
+There are two things that can absolutely happen right now to help alleviate this problem. She alluded to one of them, which is outpatient restoration. Outpatient restoration can be ordered by a court in particular and suitable cases but it requires DA consent. The reality is that we worked with our partners to identify cases that we thought would be suitable for outpatient restoration. We sent that list to the District Attorney's office in Manhattan and it was dead on arrival. There was no discussion, there was no consideration. The word back was simply they will not consent to outpatient restoration for somebody who is found unfit, regardless of the circumstances.
+
+The other tool in the toolbox is OMH. Now OMH has a capacity problem, we all understand that. There are not enough beds. But OMH also has statutory authority to send folks to other hospitals and other facilities as long as they have the proper psychiatric care that that person can provide. We are in a crisis right now with mental health and Rikers Island serving essentially as a mental health hospital, which it is not. So it is going to take creative solutions and creative thinking in order to solve those issues.
+
+Those are just two of the matters. With regard to trial capacity, after Judge Zayas said what he said about the court always being ready, I ran out and I told the judge, "Well Judge, what we have seen in Manhattan over the last several months is that cases are being what we in the courthouse know as 'parted out.'" What that means is the DA is ready to try the case, we are ready to try the case, we show up in the courtroom and there are no parts available. That means there is nowhere to send this case to be tried. The reality is that in Supreme Court, New York County, last year tried 230 cases. We have always outperformed the other boroughs when it comes to the number of trials we do in New York County. We simply need more judges and more resources so we can try these cases, because when a case is not parted it does not just get adjourned for a day or for two days. It can be adjourned for a month, it could be adjourned for two months. Vacation, witness availability changes, which is adding to the delay.
+
+The trial practice in Manhattan... Kings County does 37% more cases than we do on a yearly basis, yet New York County sends... and the reality is that 64% of the cases that are being sent to Rikers Island in Manhattan are misdemeanors and nonviolent felonies. If we are truly going to get that jail population down we need leadership from MOCJ and the City and this chamber and the DA to figure out how do we divert the people who are charged with misdemeanors and nonviolent felonies so that we are not sending them to Rikers Island and adding to an increased jail population.
+
+The last issue I want to address is the courtrooms. We have seen increased numbers of individuals who are being accepted into alternative to incarceration programs in Manhattan but the process that the DA Bragg's office uses to screen individuals is simply onerous and it is something we...
+
+**(02:15:24)**
+
+
+
+...do not see in any other borough. Spending months having to supply medical records to non-doctors, requiring proffers, something no other borough does. Every single person, we have to prepare them, we have to go in, we have to have a meeting, you have to tell your life story, and if the answer is no we could have spent eight, nine, ten months trying to advocate for somebody to get in only to be told at the end it is not going to happen.
+
+**(02:15:53)**
+
+
+
+And so, you know, the Treatment Court Expansion Act... I know that is an Albany issue but the fact is we have to take mental health away from the DA being the gatekeeper. Let the judges, the courts, administrate the same way we did with drug diversion about 15 years ago. Good afternoon.
+
+**(02:16:14)**
+
+
+
+Thank you, Madam Chair and committee members, for the opportunity to testify before you today. My name is Wesley Keynes and I am the Deputy Executive Director at the Bronx Defenders and a formerly incarcerated member of the Bronx community. The Bronx Defenders is a public defender nonprofit that is radically transforming how low income people in the Bronx are represented in the legal system. Each year, holistic defense teams defend more than 20,000 low income Bronx residents in criminal, civil, child welfare and immigration cases.
+
+We appear before this Council to testify on how the City can effectively reduce the jail population. While discussions about court operations are important, we cannot meaningfully address the jail population without first acknowledging what drives people into the system in the first place. The population at Rikers is driven by arrests, over-policing and decades of underinvestment in the communities most impacted by our criminal legal system. If the City is serious about reducing the jail population and closing Rikers, it must invest in communities and reduce unnecessary contact with the legal system before people ever reach a courtroom or a jail cell.
+
+First, the City must end the continued and in fact renewed reliance on broken windows policing that we know does not make communities safer. Far too many New Yorkers continue to be arrested and funneled into our criminal legal system for conduct that poses little to no threat to public safety. Custodial arrest for offenses such as fare evasion and occupying multiple subway seats do not make communities safer. After falling approximately 16% on average year over year from 2014 until a record low in 2020, low level policing has been growing steadily ever since. Low level arrests in 2025 were up approximately 16.2% from 2024, approximately 55% from where they were in 2019 and a staggering 193% from where they were in 2021, totaling the most arrests in a year since 2017.
+
+Recent reports show that the number of people arrested for lying down or taking up more than one seat on the subway went up 3,000% in 2025 compared to 2024. 2025 arrests for the possession of controlled substances were up 136% from 2022 totals. Petit larceny arrests in 2025 were up approximately 35% from 2022 totals and 2025 had the most petit larceny arrests since 2014 and the second most since 2006. These numbers make clear that New York City is moving backwards, increasingly relying on police to respond to poverty, homelessness, treatment and behavioral health needs. Every one of these arrests represents a person whose life was further destabilized by criminal legal system involvement, often for conduct that poses little threat to public safety but carries lasting consequences for employment, housing, family stability and health.
+
+We know firsthand from our experiences in arraignment courtrooms across the City. For instance, arraignments for cases where the most serious charge is low level drug possession have steadily increased every year since 2021, when this data first became available, and are up over 200% citywide from 2021 to 2025 — a 339% increase in the Bronx, the borough with the highest increase. A majority of these low level drug offenses are ultimately dismissed, which highlights that these are cases that should never have been prosecuted in the first place. Prosecutions that disrupt lives, congest courtrooms and divert resources from communities.
+
+What is more, the negative impact of increased law enforcement focused on low level drug offenses is felt most harshly in Black and Brown communities. Almost 80% of people arraigned for low level drug possession are... The City must reduce NYPD's headcount and instead invest in housing, education, youth opportunity, mental health services and violence prevention programs. I know I am at time so I am going to...
+
+**(02:21:47)**
+
+
+
+...conclude. You are wrapping it up?
+
+**(02:21:48)**
+
+
+
+Yes, I am wrapping up. Ultimately, the most effective way to reduce the jail population is to reduce the number of people entering the system to begin with. That requires ending unnecessary low level policing, expanding access to community based services and ensuring that support is available before a person reaches a courtroom or a jail cell.
+
+**(02:22:15)**
+
+
+
+Thank you. Thank you.
+
+**(02:22:16)**
+
+
+
+I want to echo my colleagues in thanking the Chair for holding this hearing. Some of the efforts that we have heard about today will reduce the amount of time that certain individuals spend on Rikers Island, but I want to be clear: we are simply rearranging deck chairs on the Titanic without the District Attorneys of this City here to take accountability for the decisions that they can make that could solve our case processing problems.
+
+If the DAs keep requesting bail on too many New Yorkers, if they keep delaying providing discovery, if they keep delaying making plea offers that actually reflect the merits of the cases, then no amount of procedural efficiency is ever going to allow us to close Rikers Island. The only real solution to cases moving faster is to have fewer cases to move — fewer arrests, fewer arraignments, fewer people cycling through a system that never should have touched them. Only then can our offices direct our limited resources toward the cases where legal system involvement is genuinely warranted and move those cases swiftly.
+
+I want to turn directly to discovery because there was a lot of discussion about efforts to comply with the discovery law in the testimony today. But I want to talk about what is actually happening in our courtrooms and in our cases. The more the State Legislature chips away at the defense's right to full and speedy discovery, the slower prosecutors become about providing it. It is not too onerous — that is not the issue. The law is not too onerous on the prosecution, because when they fear the consequences of not providing discovery in a timely manner, we see that they do provide it.
+
+We have cases in Manhattan where DAs are saying on the record that they are refusing to turn over surveillance video that they have had for three or four months into a case, despite the statutory requirements. There is a blatant disregard for the timelines in the statute. We are also seeing DAs file certificates of compliance while simultaneously acknowledging that they have not obtained materials central to the case from the NYPD. I myself have handled a case recently where the prosecutor filed a certificate of compliance while failing to turn over the lead detective's entire enterprise case management system file that the NYPD testified about earlier. Their explanation was that despite due diligence they had been unable to obtain that case file. The detective in that case happened to be a member of a task force embedded within the DA's office.
+
+If what the NYPD representative here today was saying is true about the automatic access that the DA does have to these files, then why are we not receiving them five or six months, sometimes, into a case? The DA's office's inability to obtain discovery from the NYPD cannot be the reason for delaying a case. They could solve this problem tomorrow by simply giving the DA's access to the NYPD files. They simply...
+
+**(02:26:02)**
+
+
+
+...refused to do so, and that refusal is having a human cost. Cases are stalling, people are waiting and Rikers is staying full.
+
+**(02:26:12)**
+
+
+
+I want to go back to the fundamental problem of volume.
+
+**(02:26:16)**
+
+
+
+Despite a steady decrease in major crimes, arrests are up from pre-pandemic levels and more people are entering the system at every point. But prosecutions are also up and that matters just as much.
+
+**(02:26:29)**
+
+
+
+Arraignments in our office have risen steadily since 2023. By 2025 we were handling 15% more cases than two years prior. While our numbers this year are approximately the same as they were in 2023, levels of attrition in our office due to underfunding and high caseloads mean I am losing five experienced felony attorneys. That might not seem like a lot, but I have an office of 30 felony attorneys. In two months I am losing one sixth of my attorney staff.
+
+**(02:27:11)**
+
+
+
+People working in our offices can no longer afford to work and have families in this City at the pay that we are able to give them, and that does affect our ability to handle cases. The District Attorneys have the ability to address this volume problem and the City Council has the ability to demand better of them.
+
+**(02:27:35)**
+
+
+
+None of this — none of the choices that they have the ability to make — requires money or legislation. It does not require new ideas. It requires them to just make different choices. They have the tools, they have the discretion. What they have lacked is sufficient pressure to use those tools and use that discretion. We are asking you to use what is within your power to apply that pressure. Thank you.
+
+**(02:28:07)**
+
+
+
+So much for having this hearing today, which we — all of us in New York City, all five public defender offices — felt was crucial to appear at and to give testimony. My name is Jung Mi Lee. I am the Director of Law and Appeals at Brooklyn Defender Services, where I have worked for more than 28 years. I also monitor our clients who are incarcerated at Rikers Island.
+
+I just want to throw out a BDS piece of data that is somewhat surprising. In the past year we represented more than 1,400 people who had bail set. Most of them had bail set in criminal court arraignments. Of those 1,400 cases, more than half of them resulted in dismissals, with close to 45% receiving non-custodial outcomes. So what does this number tell you? It tells us that bail is overused by judges.
+
+I know that the courts have been making efforts and I was very glad to see them come and give City Council testimony, because I do believe they are making an effort to really look at the jail population at Rikers Island. But when it comes to individual judges — and I think this is citywide, probably statewide, but definitely in Brooklyn — we see judges setting very high bail on cases that should not have bail set at all. We see judges circumventing the third bail form requirement that was part of the 2019 bail reforms, that is the partially secured bond or the unsecured bond. In the more than 1,400 cases that I reviewed, not a single one had an unsecured bond. All of them had partially secured bond at the 10% level, even though judges can set it from 1% to 10%.
+
+We have also seen — and I know Legal Aid recently did a writ on this — we have seen judges, when a surety appears who has a work history and pay stubs and goes to court to bail someone out on a partially secured bond, judges will either chastise the surety for trying to bail out a loved one and not follow the script that has been given to them, but also find that they are not approved just based on their income alone and disapprove them.
+
+These are individual cases where, when bail can be posted, judges — even after setting unnecessary bail — are now denying sureties from posting bail in the partially secured bond context. These also include a huge portion of the dismissed cases. Two hundred and forty-seven cases of those 1,400 bail cases had a much higher partially secured bond amount than the commercial insurance company bond. We had one case where bond was set at $2,500 cash and partially secured bond at $10,000 — a clear indication of that particular judge circumventing the partially secured bail amount that is required in all bail setting cases.
+
+Just in terms of reducing the jail population, even if it is a little bit at a time: the Department of Correction — and they have not come here to testify — had suddenly, I want to say in the past two years, removed the credit card bail online option without explanation. This was a method where sureties who lived out of state, who had credit cards, who had other family members, could post bail online. That method has been completely removed. Credit card bail is still an option, but when people post bail with their credit cards at a DOC facility — which is Rikers Island right now — a lot of people do not realize that there is a fee charged, which is the same fee that is charged by commercial insurance company bond companies.
+
+Just to wrap up: the City Council — can I ask for transparency, just in terms of asking the courts to provide data on the bail amounts that are set, the three different forms that are required to be set, when bail is posted, when partially secured bonds are disapproved by individual judges? Finally, I just want to highlight that this is a problem citywide. Supervised release is overused by judges. More than 50% of people who are on supervised release are charged with non-qualifying offenses.
+
+**(02:33:56)**
+
+
+
+Sure. I am just going to wrap it up. There are many cases, whether their qualifying offenses or not, where many people who are sitting at Rikers Island should be on supervised release. But there are too many misdemeanor cases, too many nonviolent cases, that are receiving over-programming through the supervised release program. Thank you and I will end it with that. Thank you.
+
+**(02:34:27)**
+
+
+
+Since the discovery reforms were passed seven years ago, your offices have received tens of millions of dollars for implementation needs. Can you describe how you have spent your share of this money and what is the status of purchasing and fully implementing use of a discovery data management system?
+
+**(02:34:51)**
+
+
+
+I will start. My colleagues might have additional information. First and foremost, let us recognize that the initial discovery changes in the law went into effect a month before COVID hit, and then Governor Cuomo suspended all criminal procedure law statewide for over a year and a half. During that time, however, we kept pressuring the City, the State and the District Attorneys, saying we need to be prepared. You are not sending us discovery during the pendency of these cases. At some point the courts are going to open up. At some point we are going to need to have electronic flow of discovery. We did not get that until three years later. By that time the backlog had already been set and still to this day we have serious cases that still have to be tried based on that backlog.
+
+That said, you heard the earlier testimony when you asked this question about the technology — that each of our offices had to figure out how to stand up brand new systems. Just to set the level here: before COVID, the entire City of New York court system operated on paper only. We never had electronic filing. We did during COVID. They have now removed that and we are back to paper in many ways. New York State, particularly a city like New York, was far behind the rest of the nation and we still are.
+
+So where are we right now? We still do not have a good vendor to provide electronic discovery monitoring systems. It was referenced earlier today. Each of us engaged — many of us engaged in our offices — with that company and it has been a problem. That said, we have also been suggesting to the City and State that this should not be...
+
+**(02:37:12)**
+
+
+
+...an individual office's responsibility. New York City has an enormous IT investment that looks at systems all the time, and yet there is nobody building out an infrastructure that would allow us to simply not have to conduct one-on-one contract negotiations with vendors. There was a systemic way to do this. The City and the State failed to do it. So now we are picking up the pieces.
+
+What have we done at Legal Aid Society in lieu of that? We have hired litigation assistance staff. We utilized our money to bring in a brand new role at Legal Aid Society of people who are trained specifically on categorizing, analyzing, reviewing and helping attorneys prepare for hearings and trials. The problem is our budgets have been flat. I now have those same folks going to law school, which is a really great success story for those individuals. But I know my budget is tight and I cannot rehire them right now without additional funds. So I am going to be behind the eight ball again. That is just one example. Each of us has had to go out on our own to try to figure this out, but it has not been easy. If everyone could be really tight with their responses, because we do...
+
+**(02:38:41)**
+
+
+
+...have a couple more panels after this.
+
+**(02:38:43)**
+
+
+
+I will be very brief. We increased our paralegal staff by 400% over the last four years and all of that works through the increased capacity that our paralegals have.
+
+**(02:38:59)**
+
+
+
+At BDS we have obviously increased our discovery paralegals who receive, download and then upload our discovery into our computer system so that we can store all of that discovery and ensure that everything is maintained for a number of years, even after a conviction, a dismissal or an acquittal. The computer technology to store that data and the cloud storage that is required is costly, but we have a system in place now. Is it fully up and running? It is.
+
+**(02:39:37)**
+
+
+
+At Neighborhood Defender Service we similarly have had to improve our technology and our computer systems for being able to store that discovery, but also to invest in the security around it. There have been major concerns around attacks on our systems, hackers in our systems, and so we have had to invest a lot of resources into making sure that our clients' information is safe and secure. At the Bronx Defenders we have invested in discovery administrators. We also had the challenge of engaging with the vendor who was very problematic in being able to address these unique office and borough dynamics. We have invested a lot in cloud storage as well.
+
+**(02:40:34)**
+
+
+
+Are you fully up and running and functional?
+
+**(02:40:37)**
+
+
+
+We are up and running. I would not say it is ideal. No, it is not.
+
+**(02:40:42)**
+
+
+
+Thank you to the panel. We are going to call the next panel: Helen Skipper, Zachary Katzenborn, Jennifer Parish and Noah... Thanks. I have got two minutes and I have got time on it.
+
+**(02:42:07)**
+
+
+
+Good afternoon, Chair and members of the Committee. Thank you for the opportunity to testify today. My name is Helen Skipper. I serve as the Executive Director of the New York City Justice Peer Initiative and I come before you as a directly impacted woman, a lived experience advocate, a scholar-activist and a practitioner-academic who studies these systems while working inside the community to change them. I also served this City in corrections.
+
+I offer this testimony from a place where these roles meet: lived experience, public accountability, community expertise and a deep belief that people closest to the problem are closest to the solution.
+
+I already know that the jail population has been cited at over 6,600 people but the direction of the crisis is clear. If New York City is serious about closing Rikers Island and moving to a smaller borough-based jail system as required by law, this population must come down. Let me say that plainly. We do not close Rikers by managing harm more efficiently. We close Rikers by refusing to send people to jail when they are in need of care. We do not get to the borough-based system by polishing the machinery of detention. We do not get anywhere by continuing the criminalization of those with behavioral health concerns.
+
+I speak to this point out of experience. Even though I am the Vice Chair of the New York City Board of Correction, I need to say that I grew up on Rikers Island. I spent 25 years going in and out of Rikers. Every time I appeared before a judge I was suffering from a drug addiction and unchecked mental illness. At no point did I receive support or treatment. I was always given jail. Because of that I spent 25 years of my life going in and out. The Treatment Court Expansion Act, if it had been around at that time, would have stopped that.
+
+So I want to push for that. I would also like to respectfully ask that those of us who are in service, those of us who are pushing to do the right thing, push for the Treatment Court Expansion Act, which can also lower the population. We push to utilize the 6.8 program more and we push for more funding for alternatives to incarceration and detention with lived experience. We have been through the fire but we do not smell like smoke. Thank you. I am sure if you have been following our work we have been pushing on the 6A and a number of things that you have mentioned. Thank you for your advocacy. Thank you so much.
+
+**(02:45:03)**
+
+
+
+I am Zachary Katznelson with the Independent Rikers Commission. Thanks for the opportunity to testify. Thank you especially for holding this hearing. It is a little-known area but with profound ramifications. Research has estimated that by speeding up cases just a reasonable amount — as you mentioned — you would have 1,417 fewer people in Rikers on a given day. Imagine what that would mean for Rikers, for the ability to manage the population, keep people safe. Imagine what that would mean for crime victims to actually get answers and accountability that much sooner. No harm to public safety. It is just reaching the conclusion of a case sooner.
+
+I want to talk about six things briefly where I think the Council could act to help. One is requiring the NYPD to give DAs — making it mandatory to require NYPD officers and their supervisors to upload evidence within 48 hours, given an explicit deadline. Make sure supervisors have 48 hours to approve things and move them out the door. Three: require NYPD to fully staff the discovery liaison unit. What we heard today is that the requests have been made and they have not been granted by the DA's office. Fourth: set a deadline by which those data management systems will actually be implemented. We have had years of no implementation. A deadline whereby it actually happens. Five: for DAs and defenders, set reasonable deadlines for the officers, for the OCME, for the medical examiner, so they will actually turn around forensic testing. We have been hearing that it takes up to nine months, for instance, to get autopsy reports. These hold up cases. It is not acceptable. Find out what is reasonable and get the resources there to make sure it happens. Last: require Correctional Health Services to finish competency assessments for people who may be so mentally ill they cannot stand trial, and have that happen within 14 calendar days. These are reasonable steps that will make a major difference. Thank you so much. I will be happy to share them directly with you.
+
+**(02:47:05)**
+
+
+
+Of course, thank you. Good afternoon. My name is Jennifer Parrish. I am a member of the Jails Action Coalition, Treatment Not Jail, the HALT Solitary Campaign and I work at the Urban Justice Center Mental Health Project. Thank you for convening this hearing.
+
+**(02:47:21)**
+
+
+
+About the court delays that contribute to over-incarceration at Rikers: people are suffering because of these delays and no one is suffering more than people with mental health concerns. In fact, we know that people with mental health concerns spend more time in jail than those who do not. We should all be ashamed that the New York City jail population overwhelmingly includes people with mental health treatment needs and those who have been diagnosed with serious mental illnesses like schizophrenia, bipolar disorder, major depression and PTSD. We are relegating them to a place that actually exacerbates their mental health needs and we are doing this mostly pre-trial.
+
+I join my colleagues in encouraging the Council and the Mayor to encourage the state government to adopt the Treatment Court Expansion Act. In New York City this would speed the process for diversion by taking away the power from the prosecutors to be the gatekeepers and actually allowing a fair court system where they are arguing their position about diversion and not being the ones who control it.
+
+But the Mayor and the Council have an important role in this process. As the Chief Judge said during his testimony, if we had more community resources to provide for diversion we would be able to get people out much quicker. We know that there are people who are sitting on Rikers Island right now who qualify for Assertive Community Treatment teams and Intensive Mobile Treatment teams. They are not assigned because the Department of Health and Mental Hygiene will not assign them to a team because we simply do not have enough and we should be funding these programs adequately.
+
+We also know that they qualify for supportive housing and that people who are in jail are the least likely to be able to be placed in supportive housing. In fact, oftentimes people have a supportive housing application that has been approved. Correctional Health Services is required to do these applications for people with serious mental health concerns. Defenders do not even realize that. So we need a level of coordination by the Mayor's office to ensure that all the agencies are working together to try to move people with serious mental illness off of Rikers Island. Thank you.
+
+**(02:49:31)**
+
+
+
+Good afternoon. My name is Ryan Aquino. I work with Freedom Agenda, a member-led project at the Urban Justice Center. Prior to my work at Freedom Agenda I spent several years in criminal court for an alternative to incarceration program at the Fortune Society. When the district attorney in court would allow me to, we helped people find housing and jobs, reunite with their families, get connected to treatment and so much more. Our program regularly did amazing things for the people in the community.
+
+But to be completely honest, the courts frequently did not allow me to work with most of the people that I interviewed who were detained on Rikers Island. Sometimes the DA would refuse to consider an alternative solely based on the nature of the charge, despite the evidence that ATIs are much more effective at preventing arrests than time at Rikers. Given that our City budget funds the DAs, the City should be doing more to ensure that they are not creating unnecessary obstacles to diversion.
+
+But honestly, most often the obstacle was that I could not piece together an adequate treatment plan for someone with serious behavioral health needs. I would make referral after referral to programs across the five boroughs and beyond, but if someone had a dual diagnosis or a serious mental illness that was not currently being medicated, or any kind of history of violence, each program would reject the application in turn. They would tell me that the person needed a higher level of care, a level of care that no facility seemed to offer. So people with serious mental illness are being failed by the jails and by the court system, often even when a judge and DA are willing to release someone to a treatment program, because so many of our programs are at capacity and the wait lists are too long. People languish on Rikers and sink deeper into crisis, which harms everyone there and ultimately drags cases out for years.
+
+So the City needs to ensure that we are adequately funding the programs that get people off Rikers at scale. That means funding enough mobile treatment teams to eliminate the long wait lists for those services. Funding enough crisis respite centers to comply with Local Law 118 of 2023. It means helping Harbor House, the only residential treatment program in the five boroughs that will work with the people no one else will, get the $3 million in capital funding they need to renovate a building and bring online 60 more beds. It means funding outpatient competency restoration pilots so that New York City can catch up with the dozens of other states and municipalities that are already doing it. It means funding MOCJ programs and reentry services at a scale where they both grow what is working well and also pilot new programs and initiatives that will better serve the people that existing programs do not. I have linked to all of those budget demands in my written testimony and outlined several other things that the Council can do to address this issue. Thank you so much.
+
+**(02:52:00)**
+
+
+
+Thank you. Thank you to the panel. You will send us the written testimony, right? Okay, thank you. I will call the next panel: Jonah Seitz, Michelle Evans, Michael Tucker, Blake Walker. I am going to give another call for Chaplain Phillips. You can begin in any order.
+
+**(02:52:40)**
+
+
+
+Just take your mic off mute. Turn on your mic. Yep, all right, there we go. Hi, I am Michelle Evans. I am an independent journalist, formerly incarcerated at Rikers Island and author of "Rikers Island: Criminalized Survivor." I am here today listening to the testimony and I have concerns. I have 20 years of experience as a software engineer and so when I hear the complaints about vendors and blaming vendors for the lack of sharing information and valid systems, I do not find that to be a valid excuse. I find that hard to believe. I worked for ESPN, I worked for Time Warner, I worked for very big systems. I did ESPN's website, I worked on Tiger Woods, I worked on very high-scale systems. The fact that they are blaming vendors for not being able to share information and not being able to get access to this information so that it can be handled swiftly, so defendants are not languishing on Rikers Island, is a little disconcerting. I would ask that the City look at their vendor policy and maybe ways to bring it in-house to develop these systems in-house. That was very concerning for me.
+
+The discovery issue: I was denied discovery while I was in there. I languished from 2019 to 2022 when it was finally settled. Of course it was during the COVID pandemic, but I was denied access to discovery. My lawyer requested a laptop so that I could watch the discovery — they had videos and things of that nature — and I was denied that. So that is another issue that concerns me. Defendants are unable to make decisions that are informed because they are being denied access to discovery. If you are out in the community you can get on your computer and look at this discovery. On Rikers there is nothing you can do. They deny it and you are a sitting duck.
+
+Also, they highlighted how — what was it — 90-some high percentage of cases do not go to trial, and that is due to the lengthy minimum sentences. They scare inmates into taking pleas. I was facing 5 to 25 years and when you are facing 25 years you stop...
+
+**(02:55:39)**
+
+
+
+...caring about whether you are guilty or innocent. You care about not spending 25 years for something you did not do. Just a follow-up question.
+
+**(02:55:49)**
+
+
+
+When you say that you were denied your discovery, what were the reasons that they...
+
+**(02:55:54)**
+
+
+
+Gave? My lawyer did not tell me. She said she requested...
+
+**(02:55:57)**
+
+
+
+...a laptop so that I could view my discovery and that they denied it. That was all the information I was given. So it delayed you... did you eventually get the discovery? No. Never? Never. I had to make decisions blindly.
+
+**(02:56:13)**
+
+
+
+And so that is a big concern for me. Why, if a system wants to be fair, would you prevent a defendant from being able to see that evidence, that discovery that has been gathered against you? So that was a concern.
+
+**(02:56:36)**
+
+
+
+Thank you. Thank you, Chairperson Brooks-Powers. My name is Jonah Seitz and I am the Advocacy Director at the... Our members are from across the City and include people who have been formerly incarcerated and families and loved ones. Many members know how horrific Rikers is and they are incredibly troubled by the closure plan being off track.
+
+This year's executive budget takes some steps in the right direction and we will definitely acknowledge that, but it ultimately falls short in making significant investments to reduce the jail population and it leaves the closure plan in limbo. Reducing the jail population will require decisive and large-scale action by the Adams administration, the City Council and the courts. The increased funding for and the expansion of the NYPD means that the Mayor is not meeting his commitments to sustainably fund investments in things that will reduce the jail population and essential services that New Yorkers rely on.
+
+The solutions to reduce the City's jail population and advance the closure of Rikers have been thoroughly documented and at this point it is a matter of political will. The Mayor and the City Council can no longer continue approving the budget without more details on the borough-based timelines. The City clearly has no intention to meet the legal closure deadline of 2027 but it has not reconfigured the plan to close Rikers and provided a definitive timeline. I urge this Committee and the full Council to hold up the budgeting process until the administration puts forward a measurable and funded plan to shut down Rikers. The City Council must use its legislative and budgetary powers to reduce the jail population, advance the closure of Rikers and hold the Mayor accountable to the closure plan. Lives are at stake. Since the City Council passed the closure plan in 2019, nearly 80 people have died on Rikers. Thank you.
+
+**(02:58:34)**
+
+
+
+For the time. Thank you. Oh, sorry. Thank you, Chairperson Brooks-Powers. My name is Mike Tucker. I am here representing the Grimes Fuller family. You cannot say criminal justice reform and look into all of these agencies without talking about Damien Grimes Fuller, an inmate at Rikers, booking case number 113-2200739. This man has been incarcerated in a pretrial setting for eight years — 2,920 days. I went and spoke on June 10th at the City executive budget hearing and I asked that you use your subpoena power to subpoena the Department of Corrections head as well as CHS. These organizations are getting millions of dollars. This man has a severe mental health issue and he has been denied access. The only reason that this case has been looked into is because I reached out, starting with the Public Advocate's office as well as... sitting right next to me, the Mayor's office, anybody that I can get to look into this man's case. There is no reason why a person should be sitting in a pretrial hearing setting with mental health issues and being denied...
+
+**(03:00:12)**
+
+
+
+...services. His civil rights are being violated and...
+
+**(03:00:16)**
+
+
+
+...they are asking for more money. What are you doing with the money that you already have? Why has this man not been taken to trial? This extends to the DA, the Legal Aid Society as well. You have 18-B lawyers that are representing this man that are not speaking up for this man. I am here pleading with you and begging you to please look into this with a full investigation because questions need to be answered.
+
+**(03:00:49)**
+
+
+
+A member from the Committee staff will just capture the information of the gentleman you are talking about. Thank you for that. Sorry, we are waiting for you. There you go. Peace and blessings, everyone. Thank you.
+
+**(03:01:03)**
+
+
+
+I am Chaplain Doctor Victoria — everyone calls me Doctor V. I am the founder of Visionary Ministries and co-founder of the Action Coalition. I would like to say we actually formed in 2011 because of the barbaric conditions on Rikers Island. Over the last two decades I have worked on Rikers teaching classes in nursing, cognitive behavioral therapy, monitoring those with serious mental illness and some forms of chaplaincy. I say that because all of those areas have afforded me different access to the island in different ways, so I have been able to see far more things than anyone in a civilian manner probably would.
+
+There are a lot of things I have testified on the record about for the last 15 years regarding Rikers, and I just want to highlight a few of them that go along with the testimonies that were shared today. It was mentioned today that there is a reason why people are not produced for court. As I was sitting here listening, it reminded me of a time several years ago when I testified before the City Council and raised the concerns of officers who directly told a detainee in front of me, "We are going to write you up as a refusal," after he was so upset that no one came to get him for court. The officer that was in the unit said, "Well, what do you want me to do? We will write you up as a refusal." I want to remind this Council that those things very much do occur and that it should not be ignored because the truth comes from someone formerly incarcerated. I want to remind this Council of that.
+
+I also want to remind this Council that it was just released and said that we would actually be starting a pilot for implementing Local Law 42 in the fall for December. Can I get a few more...
+
+**(03:03:09)**
+
+
+
+Thank you. Anything you do not get to, you can put in writing.
+
+**(03:03:12)**
+
+
+
+But there are no dates for that, and I want to highlight that. I will finish by highlighting that this continues to be a lie, and I want you to really understand what that means for someone in custody who does not get care. So 68% of those in custody right now with a mental health concern will not get adequate treatment. I want to put names on it, because there is someone who has cycled throughout all of our systems that this City is responsible for adequately funding, and they failed him, and then he ended up on Rikers when he should have never been there.
+
+Over the last two decades I have seen countless people who should not be there decompensate. I have seen wardens reach out to me because they do not know what to do with them or where to put them. I am the one who reaches out to parents and loved ones and sisters and brothers and helps them with their grief and funeral arrangements every time somebody dies. Four people died this year. Three of them had mental health concerns. Last year in 2025, the rates of deaths were three times what they were in 2024, and most of those deaths were around medical access or care.
+
+So I will just close by saying I am happy to have a mayor of hope, but we are still not bringing true change. When we say that money needs to be allocated into the community, the community is what prevents people from coming into the system. If the resources are not there, we are still failing ourselves on domestic soil, and that is not acceptable to me, with a mother buried in a military cemetery. Happy blessed day.
+
+**(03:04:45)**
+
+
+
+Thank you. Thank you to this panel. We are going to see if anybody else is in the room.
+
+**(03:04:51)**
+
+
+
+If there is anyone in the room who wishes to testify, please come forward. That was also seen — not online.
+
+**(03:05:05)**
+
+
+
+I am seeing none online, but I also want to check the room to see if Hae Kyung Kwon or Ramona Fairva is here. Not hearing anything. OK, so we are going to close out this hearing. I do thank everyone for their time and their contribution to such an important conversation today.
