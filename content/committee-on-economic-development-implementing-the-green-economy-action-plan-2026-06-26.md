@@ -1,0 +1,1494 @@
+---
+committee: "Committee on Economic Development | Committee on Workforce Development"
+committee_slug: committee-on-economic-development
+title: "Implementing the Green Economy Action Plan"
+date: 2026-06-26
+slug: committee-on-economic-development-implementing-the-green-economy-action-plan-2026-06-26
+duration: "2hrs 22m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260626-130751.mp4"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1421781&GUID=F55EA37B-EFE6-4CC0-ACE9-4DFC011A2801&Search="
+chairs: "Virginia Maloney | Julie Won"
+members: "Alexa Avilés, Chris Banks, Amanda C. Farías, Jennifer Gutiérrez, Kevin C. Riley, Shanel Thomas-Henry"
+---
+
+Summary
+
+Meeting Overview
+
+The joint Committee on Economic Development and Committee on Workforce Development held an oversight hearing on June 26, 2026, examining the state of the Green Economy Action Plan (GEAP), originally released in February 2024 under the Adams administration. The core question was whether the plan remains viable given a change in mayoral administration, the rollback of federal clean energy funding under the Trump administration, and the near-collapse of the offshore wind pipeline. Committee Chairs Virginia Maloney and Julie Won led the questioning, and were joined by Council Members Farias, Thomas-Henry, and others. Testimony came from Sam Young, Senior Vice President of the Green Economy Team at the NYC Economic Development Corporation (EDC), and Dougal Perry, Executive Director of NYC Talent and Workforce Development, followed by a robust public testimony session from nonprofit workforce providers and intermediaries.
+
+The central tension of the hearing was between the administration's aspirational framing and the Council's demand for hard numbers. The GEAP projected 400,000 green jobs by 2040, up from 133,000 at the plan's release, but the Center for an Urban Future found only around 2,184 net new green jobs added between 2022 and 2023. When pressed to explain how the 400,000 figure was derived, what share was net new versus transitioning jobs (answer: 70% transitioning), how much federal funding underpinned it, and when a revised forecast reflecting current conditions would be issued, EDC and Talent repeatedly could not answer with specificity. The administration's position was that the 400,000 was a projection rather than a commitment, that meaningful assessment should wait until around 2030, and that the methodology did not easily lend itself to year-by-year tracking. Chair Maloney pushed back hard on this, arguing that the public and the Council cannot hold the administration accountable without updated projections and a clear funding picture. The administration could not commit to an annual update or revised projection, and could not confirm that the $600 million cited in the plan for green career pathways for young people would be fully funded in fiscal year 2027, nor provide a breakdown of how much of that figure was actually green-specific rather than general youth workforce spending.
+
+On offshore wind, EDC offered a relatively positive account of the South Brooklyn Marine Terminal, noting construction is 98% complete, that 2,500 union workers have worked on site, and that the City's lease protections include a $20 million penalty clause if Equinor walks away. However, Council Members pressed on the diminished economic case: the original 2022 justification assumed three offshore projects totalling over 3,000 megawatts; Empire Wind 2 has been cancelled and Beacon Wind has no active construction, leaving an 810-megawatt project as the sole anchor tenant. EDC acknowledged the future pipeline is challenged and said it is working with NYSERDA on pre-development activities to position the industry for a more favorable federal administration. On workforce development specifically, Talent reported roughly 2,300 adults and 750 young people served since the GEAP's release, against a plan target of 12,000 trained by 2040 through apprenticeship and pre-apprenticeship programs. Only one of the five promised borough-based green collar training centers is currently open (Solar One's Environmental Education Center in Manhattan), with the Brooklyn Army Terminal facility not expected until late 2028. The $4.5 million GROW pilot launched by the Mamdani administration was clarified as a genuinely new investment rather than a relabeling of prior funding, focused on training participants to manage rain gardens in East New York and South Ozone Park.
+
+Public testimony was substantive and largely constructive. Greg Morris of the NYC Employment and Training Coalition called for a permanent EDC president and noted the systemic difficulty of getting clean budget data for workforce programs across any sector. Carrie Fall Haber of Jobs First, whose Green Economy Network has trained over 7,000 New Yorkers since 2023, called for a dedicated workforce authority within City Hall, stronger school-to-workforce-to-industry alignment, and treating employers as full partners rather than compliance targets. Angelina Nerese of Green Launchpad argued the City should reframe workforce development as a business competitiveness tool, not a social obligation. Dr. Christopher Malone of the Consortium for Worker Education called for a public-facing green workforce dashboard, a near-term training surge strategy, and explicit linkage of workforce investments to Local Law 97 implementation. Representatives from the Whole Program, Andromeda Community Initiative, Green City Force, Southwest Brooklyn IDC, Fordham University, and Solar One each testified to the importance of community-based providers, wraparound services, and intentional hiring pathways. A 15-year-old student from Princess School for the Sciences closed with a reminder that today's decisions will shape what the city looks like when her generation enters the workforce.
+
+Numbers
+
+- The GEAP projected 400,000 green jobs in New York City by 2040, up from 133,000 at the time of the plan's release in February 2024.
+- 70% of the 400,000 projected jobs are transitioning jobs (existing jobs adapting to green practices), not net new positions.
+- The Center for an Urban Future found approximately 2,184 net new green jobs were added between 2022 and 2023, implying the City is on pace to miss the 2040 target by decades.
+- Clean energy generation, transmission, distribution, storage, and energy efficiency occupations employed approximately 68,000 workers in 2021, growing to 75,000 as of 2024.
+- In 21 focus occupations within the GEAP (building efficiency and electrification), job growth from 2021 to 2024 was 8.6%.
+- The GEAP set a workforce target of training more than 12,000 New Yorkers for green jobs through apprenticeships and pre-apprenticeship programs by 2043.
+- Since the GEAP's release, Talent estimates approximately 2,300 adults and 750 young people have been served through green economy workforce programs.
+- Approximately 1,500 participants in the Pathways to Industrial and Construction Careers (PICC) program have been placed into union or prevailing wage careers since 2024.
+- Approximately 375 people have been connected to pre-apprenticeship programs since the GEAP's release.
+- 17 youth apprentices are currently working at City agencies in green economy roles, with 12 more starting in the upcoming school year.
+- The plan cited a $600 million investment in green career pathways for young people; administration testimony clarified this figure derives from the 2023 Pathways to an Inclusive Economy plan and covers broad youth workforce programming, not exclusively green jobs.
+- The Summer Youth Employment Program alone accounted for over $200 million of the $600 million in the fiscal year referenced.
+- Talent reported driving more than $13 million to green economy work since 2024, comprising staff costs, private funding, some federal funding, and some capital funding.
+- EDC awarded $7 million in community green workforce infrastructure investment, including a $3 million grant plus a $1.1 million Council Member contribution to Fordham University's Bronx Green Job Center (12,000 square feet, opening by end of 2026).
+- EDC is making a $100 million capital investment in the Brooklyn Army Terminal climate innovation hub, including a 30,000 square foot green workforce training facility opening in late 2028.
+- EDC made a $10 million investment into CUNY campuses for green development facilities, including energy education centers in Queens and Staten Island.
+- Over 275 community hiring procurements have been released with a combined projected contract value of approximately $14 billion.
+- New project labor agreements signed in 2024 and 2025 cover cumulative capital project value of approximately $9 billion.
+- South Brooklyn Marine Terminal construction is 98% complete; 2,500 unique union workers have worked on site, with 200 assembly jobs and 60 permanent operations and maintenance jobs expected from Empire Wind 1.
+- Empire Wind 1 will supply 810 megawatts of clean energy to New York City's grid.
+- The state-locked price for Empire Wind 1 power is $155 per megawatt-hour, estimated to increase monthly electricity bills for New Yorkers by approximately $1 to $2.
+- Equinor's sublease at the South Brooklyn Marine Terminal runs from 2026 to 2054, with a $20 million penalty if they abandon the lease.
+- The Mamdani administration launched a separate $4.5 million GROW pilot with the DOE Fund, training approximately 20 participants to manage over 1,000 rain gardens in East New York and South Ozone Park.
+- EDC awarded 2.6 megawatts of roof and carport solar to developers at Bronx sites it manages.
+- Over 500 megawatts of clean technology has been deployed across the City, mitigating peak grid demand particularly in summer months.
+- Solar One graduates approximately 800 individuals annually from green workforce training, each receiving approximately three professional certifications.
+- Jobs First's Green Economy Network has trained more than 7,000 New Yorkers for green jobs since 2023.
+- Only one of five promised borough-based green collar workforce training centers is currently open.
+- New York City's unemployment rate as of the most recent economic snapshot is 5.4%, down for the third consecutive month.
+- The City has added 44,500 private sector jobs over the past year, a 1.1% increase, outpacing national growth of 0.5%.
+- CUNY campuses, once green facilities are open, are expected to train 6,000 students annually in green economy fields.
+
+Action Points
+
+- EDC to provide the Council with a breakdown of how the 400,000 job projection was derived, including which industries, policy assumptions, and federal funding levels underpinned the forecast.
+- EDC and Talent to provide a revised or updated green jobs forecast reflecting current federal funding losses and policy rollbacks, with a timeline for when such a revision will be issued.
+- Talent to provide the Council with a specific breakdown of how much of the $600 million cited in the GEAP for green career pathways for young people is actually allocated to green-specific programming versus general youth workforce spending.
+- Talent to report back to the Council by end of July 2026 on the green-specific breakdown of the $600 million.
+- Talent to confirm which programs comprising the $600 million are funded in the fiscal year 2027 budget and at what levels.
+- EDC and Talent to commit to providing the Council with annual updates on total funding committed to GEAP goals and progress against targets; both agencies declined to commit at the hearing but were asked to consult internally and respond.
+- Talent to provide an updated participant count and job placement data for the Night Shift Clean Energy Academy, beyond the December 2023 figure of 39 residents.
+- Talent to provide updated figures on job placements (internships and full-time roles at City agencies) resulting from green workforce training programs, including completion-to-placement rates.
+- Talent to report back on the number of green economy jobs available within City agencies and current vacancy rates in those positions.
+- Talent to track and report data on green economy job placements specifically for people with disabilities, and to consult with the Mayor's Office for People with Disabilities on their involvement in GEAP implementation.
+- Talent to provide a list of the 11 high schools offering the HVAC and building decarbonization Future Ready pathway, broken down by borough.
+- EDC to provide specific capital funding amounts allocated to each of the five borough green workforce training facilities, including exact figures for the Solar One Environmental Education Center and the two CUNY campuses.
+- EDC to provide timelines for when the Queens (Queensborough Community College) and Staten Island (College of Staten Island) CUNY green facility centers will open.
+- EDC to provide the number of people trained to date at the Solar One Environmental Education Center.
+- EDC to provide the number of businesses currently qualified and participating in green jobs initiatives, and to report on capacity-building and mentorship programs available to businesses not yet ready to participate.
+- EDC and Talent to walk through each of the seven marquee GEAP initiatives with original targets, current status, timelines to completion, and any revised metrics, and to provide this in writing to the Council.
+- EDC to confirm the current excess capacity and alternative uses plan for the South Brooklyn Marine Terminal if Empire Wind 1 does not occupy the full site in future years, and to report on Equinor's progress in securing sub-tenants.
+- EDC and Talent to provide a reconciliation of GEAP job projections against the Center for an Urban Future figure of 2,184 net new green jobs added in 2022-2023, and to explain methodological differences if the figure is disputed.
+- Chair Maloney urged the administration publicly to appoint a permanent president of the NYC Economic Development Corporation.
+- Talent to report on the number of apprentices placed through the PICC program who are specifically in green economy occupations, separate from the total 1,500 figure.
+
+## Full Transcript
+
+**(00:00:30)**
+
+
+
+Can I jump in? Good afternoon. Welcome to today's New York City Council hearing for the Committee on Economic Development, joint with the Committee on Workforce Development. There is a sergeant at arms moving forward and no one is to approach the dais. Chair, we are
+
+**(00:00:53)**
+
+
+
+ready to begin. All right, good afternoon everyone and welcome to the joint hearing of the Committees on Economic Development and Workforce Development. Today is Friday, June 26. I am Virginia Maloney and I chair the Economic Development Committee. Joining me is CM Julie Won, Chair of the Committee on Workforce Development.
+
+Today we are here to ask about the state of the Green Economy Action Plan and if it remains the City's strategy to generate green jobs. The plan was drafted together by EDC and was released in February 2024 under the last administration. It identified 130,000 jobs that exist in the City and set a target for creating nearly 400,000 green jobs by 2040.
+
+Since no permanent leader has been appointed, we are unclear about what the progress is, if any has been made regarding the plan. The new administration was not involved in developing the plan and has not stated whether or not it intends to preserve or advance it. Additionally, Congress has stripped away much of the federal funding that the plan was built around. So given the change in circumstances, the committees want to explore whether or not the Green Economy Action Plan remains viable and whether or not it has the resources necessary to implement.
+
+Beginning with jobs, the City projected 400,000 green jobs by 2040, and that means we would have to create 267,000 green jobs over the next 14 years. However, the Center for an Urban Future found that the City added roughly 2,000 jobs since 2023. At that rate, we would not hit the target until well into the next century. So today we want to understand how the administration reconciles these numbers and whether or not the goal still remains, and how it is publicly tracking against progress.
+
+Second, we want to dig into the offshore wind project, which is the most visible component of this plan. The City made significant investments in South Brooklyn Marine Terminal to serve as the assembly hub for Empire Wind, projecting the creation of 13,000 jobs across the City by 2035. Empire Wind was intended to demonstrate the core premise of the Green Economy Action Plan, proving that climate investments can create good-paying local jobs. But the project faces uncertainty, with the federal government issuing a stop order on Empire Wind, and construction has only continued because the court intervened. So the committees are seeking a clear answer on what the City's oversight is at the South Brooklyn Marine Terminal and how it is preparing for the possibility that construction there might be halted again.
+
+Unfortunately, the federal government's actions undercut much of the intentions of the plan. Last summer, Congress rolled back the clean energy tax credits that much of this plan relied on. So when the administration says certain commitments are still on track, we are thrilled to hear that, but want to understand a bit more about where the funding is coming from.
+
+Lastly, building decarbonization, or lowering a building's carbon footprint, accounts for more than half of the green jobs that are projected in this plan and depends on the successful implementation of Local Law 97. By setting carbon emissions limits for large buildings, Local Law 97 creates the demand for retrofits and the workforce needed to complete them. Meeting the employment targets outlined in the plan assumes that Local Law 97 is being enforced and implemented on schedule, and we want to discuss the progress of those building retrofits to date, how many jobs are currently in the pipeline, and how we are supporting decarbonization across the City.
+
+Before we hear from the administration, I want to thank the committee's staff for their hard work, starting with Senior Counsel Alex Paulinoff, Senior Policy Analyst William Honeck and Financial Analyst Spencer Coon. With that I will turn to Chair Won for her opening remarks.
+
+**(00:05:12)**
+
+
+
+Thank you so much, Chair Maloney. I want to acknowledge that we have been joined by CM Amanda Farías as well as CM Shanel Thomas-Henry. My name is Julie Won and I have the privilege of chairing the Committee on Workforce Development. Chair Maloney has laid out the economic development side of this plan. I want to talk about the parts that matter the most to the workers themselves, which is whether the City is actually building a path for New Yorkers into these jobs. A plan that promises 400,000 green jobs by 2040 means very little if the people who need these jobs cannot get trained for them.
+
+The plan made three major workforce promises: first, a green collar training center in every single borough; second, more than 12,000 New Yorkers trained for green jobs through apprenticeships and pre-apprenticeship programs by 2043; and what the plan calls a $600 million investment in green career pathways for young people. I want to know how many of these promises have been kept and the numbers behind them, broken down by fiscal year.
+
+I also want to be precise about the $600 million, since it does not come from the Green Economy Action Plan. It is our understanding that it comes from the City's 2023 Pathways to an Inclusive Economy plan and it has been spread across public schools and CUNY to serve about 250,000 young people across the entire economy, not just green jobs. So how much of that $600 million actually funds green training, and is there any green-specific money in this plan at all, or are we just relabeling spending that was already happening?
+
+Federal funding is another problem. The Workforce Innovation and Opportunity Act has been reauthorized and the federal budget for next year would fold workforce programs into a block grant and cut more than existing programs. A lot of the City's trainings run on those federal dollars, so we want to know how much of the green training in this plan depends on federal dollars that are now at risk, and what is the administration's plan for prioritizing to keep this money if it disappears.
+
+Separately, the Mamdani administration just launched its own $4.5 million green workforce program as a pilot with the DOE Fund. We do not object to the pilot, but we want to know how the pilot is going to impact the Green Economy Action Plan, because it sends a signal when a new administration launches its own green jobs program instead of funding the work already on the books. We want to know whether the plan is being quietly shelved, and if not, we want to know who is making sure that they work in tandem with each other and how the responsibilities or portfolios are divided up.
+
+What we will be looking for today is evidence from New York City Talent that the New Yorkers this plan was written for are actually getting trained and hired into good-paying, stable green jobs.
+
+**(00:08:01)**
+
+
+
+Before we turn over to the administration, I would like to thank the Workforce Development Committee staff: Senior Counsel Alice Paulinoff, Senior Policy Analyst William Honeck and Financial Analyst Spencer Coon. With that I will turn over to the committee counsel to administer the oath. I also want to acknowledge that we have been joined by CM Cabán and CM... Thank you, Chair Won.
+
+**(00:08:45)**
+
+
+
+the Economic Development and Workforce Development Committees. My name is Sam Young and I serve as Senior Vice President of the Green Economy Team at the New York City Economic Development Corporation. I am here today with Michelle Lamberti, Vice President of Government and Community Relations. I am excited to share the progress we have made on the Green Economy Action Plan, or GEAP for short, which was released in spring of 2024 in partnership with New York City Talent.
+
+We think in terms of decades and generational change. Under Mayor Mamdani, the deputy mayor is approaching the green economy not only as a climate imperative but as a pathway to economic justice, delivering good-paying jobs and expanding opportunity for working people. New York City is surrounded by 520 miles of water and shoreline, with the risk of rising seawater on our doorstep. We have seen a hurricane leave our City dark and underwater. Heavy rain and flooding have disrupted our transportation and infrastructure. Urban wildfires have turned our skyline red and filled our air with ash. Extreme weather has driven up power bills and insurance costs for working people. We cannot treat climate change as something we can put off until tomorrow. It requires action today.
+
+The Green Economy Action Plan provides a roadmap to tackle these challenges and invest in the sectors and jobs that will help the City combat climate change while providing a pathway to stronger communities and shared prosperity. The opportunity ahead is significant. The GEAP projected that the green economy could transition and create approximately 400,000 jobs by 2040 — jobs across construction, engineering, clean energy, building retrofits, advanced manufacturing, design, operations, maintenance and emerging industries.
+
+**(00:10:20)**
+
+
+
+All right, could you put the mike closer to your mouth? Thank you.
+
+**(00:10:25)**
+
+
+
+I want to be clear: realizing the 2040 projections will take decades. Seventy percent of the 400,000 jobs projected are what we call transitioning jobs, which we will not be able to track until years down the road. These jobs do not appear automatically or overnight. They require planning. The GEAP is a projection of the long-term transformation of our economy, the result of sustained public investment from every level of government — City, state and federal — as well as private investment, industrial development and workforce growth.
+
+Yet we are continuing to face real challenges from federal headwinds. Like the rest of the nation, job growth is slowing and aggressive federal rollbacks of key green economy policies are having an impact. Despite this, we take a forward-looking approach to growth, development and the green economy. In the two years since its release, EDC has been focused on meeting key commitments from the GEAP, advancing major green infrastructure investments and activating workforce partners across the City to prepare New Yorkers for the economy of the future. Today I will use my time to share a handful of updates on this work.
+
+New Yorkers have always used innovation and ingenuity to respond to whatever challenges come our way, and we have flourished because we have invested in our people. A just and equitable transition to the green economy means creating accessible career pathways for working people. We are supercharging our efforts to educate, train and position New Yorkers of all backgrounds to benefit from the green economy. Earlier this year we announced a $7 million investment into community green workforce infrastructure. This $7 million investment will ensure students graduate into a job market with the skills to change the world for the better, get a good-paying job and cement New York City as a leader in climate action.
+
+In July 2025 we awarded $3 million from a Green Light Innovation Fund, alongside a $1.1 million grant from CM Oswald Feliz, to Fordham University to create the Bronx Green Job Center — the first of its kind workforce and entrepreneurship hub that will build an equitable green jobs pipeline in the heart of the Bronx. And last month we joined Solar One to cut the ribbon on a new state-of-the-art environmental education center in Stuyvesant Cove Park. A decade in the making, this education center will be a model for future urban coastal resiliency while also creating an immersive, hands-on environmental learning experience for New Yorkers of all ages.
+
+We are also creating career paths for young people. Through a Maritime Career and Aviation Awareness Fair, we hosted the seventh annual fair this year and connected more than 500 high school students with industry experts on potential future careers. We are making significant investments to prepare local workers, New Yorkers from all backgrounds and businesses for the transition to the green economy.
+
+Our Waterfront Pathways Program is helping address disparities in public procurement by expanding opportunities in waterfront industries. Through Be Sourced, we are supporting local small and medium-sized industrial businesses to capture contract opportunities in the offshore wind supply chain. The first year of the program saw eight local companies secure over $13 million in offshore wind contracts. The second year of this program is focused on supporting local general, mechanical, electrical and plumbing contractors to expand within the growing building electrification sector. Our Economic Mobility Networks in Sunset Park and Hunts Point, as well as the East Brooklyn Workforce Development Fund and the Staten Island North Shore Workforce Fund, are helping more New Yorkers in waterfront communities get on a pathway to a good-paying career.
+
+Over the past two years we have also advanced coastal resiliency projects to protect waterfront communities, residents, workers and businesses, including the Lower Manhattan Coastal Resilience Project and the East Coast Resilience Project, among countless others throughout the City. The Green Economy Action Plan is both a climate strategy and an economic blueprint for equitable growth. It is a framework for ensuring that the technologies, companies and workers driving the clean energy transition can thrive in the decades to come. We want to ensure that the next great climate technologies are not only being invented in New York City but that they are built, tested, deployed and scaled here.
+
+That work is being shaped at places like the Brooklyn Army Terminal, where we are building a world-class climate innovation hub. Climate challenges are not solved by one sector alone. They require collaboration between government, businesses, workers and communities. At Brooklyn Army Terminal we are embarking on a new historic chapter, bringing industrial manufacturers and thousands of employees who currently call it home together with a growing ecosystem of new climate technologists and entrepreneurs working on solutions to combat climate change. The terminal will also be home to the largest green workforce training facility in New York City, connecting New Yorkers including residents in the Sunset Park community to real economic opportunity while supporting green industrial growth.
+
+This former military campus is now on the front lines of the next fight of our lives, leading the way on climate innovation. Earlier this year we launched the BAT Works temporary space, creating an on-the-ground presence. Today we are bringing the Sunset Park community and industry together to connect, learn and help shape BAT Works activities ahead of the permanent hub's completion in 2028, and accelerating the City's $100 million investment to ensure its benefits and jobs reach more New Yorkers and more communities. Small businesses and startups are the future of the green economy, and at BAT Works we are supporting that growth through programs like Pilots at BAT and our offshore wind innovation programming. We are also advancing the GEAP through
+
+**(00:15:51)**
+
+
+
+The Harvard Climate Collaborative, a joint initiative with the Trust for Governors Island and Brooklyn Navy Yard Development Corporation, that sense that park at the Brooklyn Navy Yard and Governors Island is supporting emerging businesses and companies, helping existing businesses scale, preparing New Yorkers for good paying jobs and training our students for the future jobs in the green economy.
+
+The Green Economy Action Plan goes far beyond education and job training. It also lays out how we can deliver more sustainable infrastructure for New Yorkers today. Transportation makes up about 25% of New York City's emissions. We are building public goods for the public good, working to deliver more sustainable alternatives in transportation that not only make our city more livable but deliver good paying jobs for working people.
+
+New York City has always been a maritime city. We are charting a new course for our economic future, using our historic waterways to create sustainable infrastructure that moves goods off the streets and onto our waterways, reducing pollution and making our city cleaner, healthier and more sustainable. We are advancing transformative projects at the Brooklyn Marine Terminal, which will become a critical hub for New York's Blue Highways waterborne freight network. Last year we released the plan for Hunts Point Marine Terminal, another critical link in the Blue Highways network. This year we took transportation and sustainability to new heights with the first ever point-to-point electric vertical takeoff and landing air taxi demonstration flights in New York City's history, at the Downtown Skyport in Manhattan.
+
+We are building a low carbon multimodal working waterfront where freight will move goods off our roads and onto our waterways, creating green jobs while leading the world on the adoption of safe electrified flights in an urban environment. The buildout of this infrastructure is moving ahead on time and we expect construction to begin this year. We are keeping our city moving by expanding our charging infrastructure. Last year we unveiled New York City's first community-driven, freight-focused charging depot at Hunts Point Distribution Center, advancing the City's transition to cleaner and more efficient ground transportation of goods.
+
+Construction has historically been one of the largest contributors to emissions and waste, with 70% of emissions coming from our buildings. But buildings of tomorrow cannot be built with the assumptions of yesterday. We are shifting how we think about construction, moving from extractive systems towards regenerative ones. A great example of this work is our Mass Timber Studio initiative, which is advancing the use of low carbon construction. This year we are launching the third cohort of our Mass Timber Studio as part of the mayor's block-to-block housing plan to deliver more affordable housing to New Yorkers. This work will support a pipeline of new housing projects that will be delivered more efficiently and sustainably. The Studio will train and support project development teams in the technical components and project delivery and provide regulatory support in partnership with the Fire Department.
+
+The promise of mass timber is connected to a promise of economic, environmental and housing justice, creating homes that teachers, workers, young families and longtime residents can actually afford and expanding opportunities for architects, engineers, contractors and skilled trades workers. But we know that this innovation must be paired with standards. That is why we have supported the development of circular design and construction guidelines, a framework that encourages reuse, material recovery and designing buildings with their entire life cycle in mind.
+
+We see this future taking shape in projects like Sunnyside Yard, where we are transforming an entire New York City block into a state-of-the-art, one-of-its-kind education, job and innovation hub focused on life sciences and health tech. Last year we began construction on the site and we are on track to divert an unprecedented 95% of project waste from landfills. So far we have salvaged and diverted 76 tons of waste, repurposing hundreds of light fixtures, masonry block, wood paneling, bluestone pavers, historic relief sculptures and iron gates.
+
+In Queens at Willets Point, we are pairing affordability and economic justice with sustainability so housing and new businesses can take root. Located within a floodplain, we have said goodbye to the valley of ashes, to the pollution, decay and neglect that has defined this area for generations. In its place we have built a brand new neighborhood with 2,500 new affordable homes, with residential buildings seeking to achieve high standards of environmental sustainability including green roofs. We have built new infrastructure like sewers and stormwater drains and we have raised new streets and buildings out of the flood plain to protect residents from future storms. The first residents moved into their new affordable homes and soon the world's sport will come to the world's borough, with a fully electric, privately financed stadium ready to welcome fans for the 2027 season and open to the world for the 2028 Olympics. This is a model of a green neighborhood.
+
+Last year we took another major step forward in realizing what the future of our city can be. We advanced the redevelopment of the Hunts Point Produce Market, an investment in the people who keep the city running every single day. This transformation will create a first-of-its-kind fully electric facility, one that delivers affordable healthy food to working families while building a cleaner, more sustainable future for the Bronx. For too long, communities in the Bronx have borne the burden of pollution and poor air quality while receiving too little of what they deserve. This project is about changing that reality.
+
+We know that we must build a green future where the benefits are shared, where clean energy means cleaner air in our neighborhoods, good paying jobs for our workers and a stronger city for everyone. At the South Brooklyn Marine Terminal, we are building that future with the largest offshore wind hub in the nation, in the heart of our Sunset Park district, a critical focal point in the City's efforts to grow a just green economy. More than 2,500 union workers have been revitalizing this port into the clean energy center of New York City. This is where waterfront history meets our climate and innovation future. Construction is 98% complete and they expect the first power to reach the grid soon.
+
+It takes ambition and boldness. The Green Economy Action Plan is about choosing a future where cleaner air comes with better jobs, where climate resilience comes with economic security, where public investment creates public goods and where the benefits of a greener city are shared by the many. The green economy is not a distant promise. It is being built now, on our waterfronts, in our neighborhoods and by our working people. We are proud to work in partnership with the City Council to improve the lives of our neighbors, expand opportunity, combat climate change and ensure New York City remains a global hub of culture and innovation. I want to thank you for the opportunity to speak with you today and we welcome any questions that you
+
+**(00:22:35)**
+
+
+
+have. Good afternoon. My name is Dougal Perry and I am the Executive Director of the New York City Office of Talent and Workforce Development. I am joined today by Stephanie Cokie, the Executive Director of our Industry Partnership for the Sustainable Infrastructure sector. Thank you to the members of the New York City Council Committees on Workforce Development and Economic Development, Workforce Development Chair Juan and Economic Development Chair Maloney, for inviting us to
+
+**(00:23:00)**
+
+
+
+testify today. Thank you to our colleagues at SBS, Sam Young and Michelle Lombardi, for your partnership.
+
+Talent's mission is to ensure that the City's workforce system connects New Yorkers to good jobs and helps employers access local talent. The public workforce ecosystem in New York City is made up of over 120 programs administered by 28 different city agencies and their contracted providers. This includes the City's core workforce agencies like the Department of Small Business Services, the Human Resources Administration, the Department of Youth and Community Development, the City University of New York and New York City Public Schools.
+
+While each of these agencies focuses on its own core mission and service delivery, Talent works across all partners so that the City's workforce development strategy is aligned with job seeker needs, employer demand and a changing economy. Investments in sustainability and climate change resiliency have been building for decades, but in 2021 and 2022, former President Biden allocated the largest investment in climate action in U.S. history by signing the Bipartisan Infrastructure Law and the Inflation Reduction Act. Between the two bills, billions of dollars were allocated to infrastructure projects and numerous tax incentives were developed to encourage electrification, electric vehicle use, clean and renewable energy generation and energy storage.
+
+In the wake of these planned investments, Talent developed the Green Economy Action Plan, which outlined the current and projected size and scope of the green economy in New York City and offered actions City stakeholders could take to support the equitable growth of this sector. Our role in the report's development focused on ensuring that all stakeholders, including our partners in government and in the private sector, are proactively thinking about workforce development as a tool to connect New Yorkers to opportunity. Talent knows that workforce development services and systems constitute essential opportunity infrastructure that is needed to equitably achieve our climate and economic goals. Just like physical infrastructure, workforce pathways are not built overnight.
+
+We worked closely with the team to develop this report by informing recommendations, facilitating conversations with industry stakeholders and helping to identify the good jobs that are key to building toward a decarbonized future. The federal policy landscape has shifted considerably since the Green Economy Action Plan's original release in February 2024. Reckless, cruel and short-sighted policy changes, including House Resolution One, executive orders and tariffs, have rescinded tax incentives for electric vehicles, accelerated the phase-out of tax credits for wind and solar projects, reprioritized fossil fuels and created an atmosphere of economic uncertainty for workers, businesses and other stakeholders active in the green economy and beyond.
+
+Despite these headwinds, this administration and Talent believes strongly in climate action and are committed to ensuring the growth of the green economy benefits all New Yorkers, particularly communities disproportionately impacted by environmental injustices. With this unwavering vision, since the report's release, Talent has launched a new industry partnership focused on resilient infrastructure, taken significant steps to increase equitable access to careers in the construction industry, supported green public sector pathways and developed new opportunities for the City's young people to learn about and gain skills relevant to the green economy. We also continue to support agencies across the public workforce system as well as private partners in aligning workforce strategies to meet the demand of the green economy.
+
+In 2025, Talent launched a new industry partnership to expand and lead our office's work in the green economy: the Resiliency, Manufacturing, Industrial and Infrastructure Council, or REMAKE for short. REMAKE works to support equitable growth within the sustainable infrastructure field by bringing together stakeholders across sectors including manufacturing, industrial, construction, transportation, utilities, decarbonization, supply chain, waste and materials management, building operations and water systems to coordinate workforce development strategies and solutions.
+
+As outlined in the plan and mentioned in testimony, some industries in the green economy will see the creation of entirely new jobs while many others will adapt by changing the skills required within existing occupations. For example, electricians install building electrification systems and charging infrastructure and energy efficiency retrofits. Plumbers and pipefitters work on high efficiency building systems and construction managers oversee projects that must meet evolving climate and energy performance requirements.
+
+To monitor these adaptations and understand ongoing employer demand, REMAKE engages businesses across New York City's green economy to better understand emerging hiring trends. REMAKE has hosted seven industry roundtables with more than 35 businesses and continues to conduct site visits with small manufacturers to hear directly about recruitment and retention challenges. We also actively engage climate tech startups as they begin planning for future workforce growth. These engagements help REMAKE to provide guidance to businesses interested in developing on-the-job training opportunities and have informed the launch of a labor market intelligence webinar series designed to connect the workforce field directly with businesses. We recently hosted our first webinar, which focused on labor market trends relating to certified energy auditors and certified energy managers.
+
+This session attracted representatives from training providers, CUNY and city agencies, underscoring the importance of translating employer demand into actionable workforce development strategies. Talent is also helping more New Yorkers enter fields that are critical to the development of a climate resilient future, including the building trades, facility managers and more. The City's Pathways to Industrial and Construction Careers, or PICC program, which is managed in partnership with our office, provides expansive supportive services including funding for transportation costs associated with starting a job, like uniforms, tools and driver's licenses, so that low income individuals can successfully start and retain a job. Since 2024, nearly 1,500 PICC participants have been placed into union or prevailing wage careers in sectors including construction and building services.
+
+Another example of expanding equitable pathways into quality careers is our community hiring initiative, which leverages the City's purchasing power to connect city vendors to talent and job seekers to career opportunities. Through community hiring, city agencies set workforce goals in their contracts for vendors to provide employment and apprenticeship opportunities to low income individuals and those who live in low income communities, including public housing. Community hiring covers green economy-related investments including construction and professional services.
+
+This initiative, which was made possible by state legislation, was operationalized by Talent in 2025. To date, more than 275 procurements have been released with community hiring goals, which represents $14 billion in projected contract value. I also lead the City's negotiations for project labor agreements, or PLAs, which are specific types of collective bargaining agreements that the City negotiates with the building trades for certain types of construction projects. PLAs are a great tool to ensure cost effective, efficient and safe capital project delivery while ensuring labor harmony.
+
+**(00:29:52)**
+
+
+
+Fair wages and benefits for workers and opportunities for other workforce development efforts. The City has signed new agreements across 2024 and 2025 that cover cumulative project value of approximately $9 billion, including many resilient infrastructure investments like the construction of new parks and buildings, installation and renovation of wastewater filtration plants and more. While the City has had these agreements since 2009, the recent agreements have covered the most amount of capital construction work ever and also include community hiring goals directly in them. This increases access to quality union careers for more New Yorkers, which will set them on a path to contribute to and benefit from the sector's green transition.
+
+To make these apprenticeship goals more equitable and impactful, Talent worked to secure $1 million in baseline funding for construction pre-apprenticeship programming starting in fiscal year 2025. Our partners also continue to support green workforce programming via training in construction site safety, cable installation and cool roofs. Talent has directly supported the expansion of cool roofs, which provide New Yorkers with paid training and work experience installing energy-saving reflective rooftops by steering investments from New York State's Office of Just Energy Transition. More than $550,000 in new state grant funding from this office has gone to the cool roofs program. We also partnered with the Department of Citywide Administrative Services to upskill the public sector fleet workforce. The first-of-its-kind foundational training increases safety awareness for incumbent City employees working around electric vehicles and their high voltage systems, particularly for non-technicians and support personnel, and is on track to serve more than 300 City workers.
+
+Talent is also preparing the City's next generation of public sector workers for the growth of the green economy through our expanding youth apprenticeships. Funded by a grant from the Robin Hood Foundation, Talent is working with DCAS and City agencies to leverage the City's new youth apprentice civil service title to expand access to in-demand green occupations at City agencies. Talent's support for youth employment continues beyond public sector careers. Leveraging our industry expertise, we contributed to NYC Public Schools' expansion of Future Ready, which now includes an HVAC and building carbon pathway that was launched in 2024 and expands career-connected learning opportunities in green economy sectors.
+
+This pathway is currently available at 11 high schools and serves nearly 400 students in grades 10 through 12. To date, NYC Public Schools has committed $6 million in capital funding to support their green economy workforce initiatives. Additionally, Talent launched Inside Industrial, a career exploration initiative that brings NYC Public School students to employer work sites so that students can experience a career in the green economy and employers can build connections with New York City's talented young people. To date, Talent has held 13 tours for more than 350 students across seven schools. We recently partnered to bring on cohorts of middle school students through their Exploring Futures program and are looking forward to identifying additional opportunities to grow and scale Inside Industrial.
+
+There is no doubt that the impacts of the federal cuts are significant and growth of some occupations within the green economy may be slowed, but the need for a more sustainable and climate-resilient future is undeniable. This administration is committed to meeting this challenge through actions, policies and strategies that center working people. We are proud of the City's progress to date and we will continue to develop more equitable pathways into the careers that power the green economy's growth. By strengthening pathways into these industries now, we are ensuring that New Yorkers across the five boroughs can benefit from New York City's transition to a more climate-resilient future. Thank you and we look forward to
+
+**(00:33:39)**
+
+
+
+your questions. Thank you so much for that testimony and thank you for the update. It is great to hear that many steps are being taken to pursue the goals of the Green Economy Action Plan. Just to start off, since this plan was first released we have shifted presidents and we also have a new mayor. So can you just speak to the administration's goals and plans to continue to pursue the plan, and if so, which of the plan's commitments are going to be funded in the upcoming budget? Thank you.
+
+**(00:34:21)**
+
+
+
+Thank you, Chair, for the question. As you know, one of the core mandates of the New York City Economic Development Corporation is to grow innovation-based sectors with a focus on equity. To that end, we view our work more as generational investments and commitments. So although the plan was released under a previous mayor's administration, the Green Economy Action Plan really should be thought about as a generational and ongoing commitment, particularly given that the urgency of addressing the climate crisis is only deepening.
+
+I think a good example of this is the South Brooklyn Marine Terminal. In the previous administration, that was when the site was put forward for solicitation. That solicitation was then successful in enabling a port facility. Construction started in the prior administration and that site will be completed in the Mamdani administration. I will note, like I said in my testimony, that project in particular has afforded 2,500 union workers to come to the site and work there. It will yield 200 assembly jobs for the assembly of the large wind turbine components and 60 permanent jobs, which are enduring and really well-paying.
+
+We were also able to extract some community benefits, which includes a wind-themed green space located at Industry City. We also extracted $5 million of investments for local workforce and business development organizations including UPROSE, and they funded the first three years of the offshore wind innovation hub to support our innovation work in the offshore wind sector. So that project really exemplifies commitment to working at the intersection of climate and economic justice, particularly given that that project will facilitate 810 megawatts of clean energy into New York City's grid, largely eliminating our reliance on fossil fuels in the grid-based system here.
+
+**(00:36:34)**
+
+
+
+And just speaking towards the upcoming budget and the funding commitments — do we expect any shifts, or what components of the plan are going to be supported?
+
+**(00:36:46)**
+
+
+
+Currently many of our initiatives are funded through existing allocations. We will work closely within the plan process for any resources that we need for net new initiatives, but generally we have coverage for those initiatives in the plan as far as existing funding is concerned.
+
+**(00:37:06)**
+
+
+
+The Mamdani administration has framed the green economy around the integration of climate and labor policy. My question is whether that has shifted any of the focus of the Green Economy Action Plan or the framing of any of the strategies outlined in 2024, particularly in the interests of workforce development.
+
+**(00:37:26)**
+
+
+
+Workforce development takes an all-of-the-above approach. We think supporting the creation of good quality jobs is the imperative, which includes union jobs and non-union jobs. So we welcome the Mamdani administration's emphasis on union jobs and we will do all that we can to continue our good work to enable union jobs, particularly at construction sites. We will continue our all-of-the-above strategy for workforce development.
+
+**(00:37:56)**
+
+
+
+I will just note that the Pathways to Industrial and Construction Careers program that I mentioned has placed nearly
+
+**(00:38:05)**
+
+
+
+1,500 people into union and prevailing wage careers. So that is a really exciting opportunity, not just to connect people to any old job, but to pathways which we know are the pathway to the middle class. All right, digging into the numbers — the plan set the goal of 400,000 jobs, up from 133,000 at the time of release. So what is the current estimate of green jobs in the City today and what is the growth rate that you have seen?
+
+**(00:38:35)**
+
+
+
+Yeah, thank you, Chair, for the question. I wanted to first start by emphasizing some key takeaways from today's economic snapshot that was just released. Three key takeaways: unemployment is down for the third straight month to 5.4%, New York City has added 44,500 private sector jobs over the past year, a 1.1% increase which is faster than the national growth of 0.5% over the same period, and the broader New York City metro area added about 17,300 jobs and leads all US metros with 40,600 jobs added over the past year. So I think those stats really underscore the importance of having worked to diversify the economy and give some good light about the strength of our local economy in particular.
+
+Now, like I mentioned before, the just transition creates a big opportunity for us to advance economic justice and create economic opportunities for everyday New Yorkers. To seize the economic opportunities afforded through the Green Economy Action Plan, we did a couple of things. The first was to define what the green economy actually is. It may be surprising, but there is not a national consensus on what constitutes the green economy. So we defined it as consisting of eight sectors and 21 subsectors. Relatedly, we used the plan to size and forecast what might be the potential for New York City to host 400,000 green jobs by 2040, which I will say is not a commitment but a projection, a forecast.
+
+**(00:40:18)**
+
+
+
+Sorry, could you repeat the number? About 400,000 jobs?
+
+**(00:40:22)**
+
+
+
+Yeah, that is right. That 400,000 jobs figure is contingent on four key factors. One is local, state and federal climate policies. The second is public investments, particularly from the federal government. Three is private investments. Four is shifting consumer preferences. So as you stated in your opening remarks, when we released the plan there were 133,000 green jobs, and 70% of those jobs are transitioning into the green economy. I mention that in particular because the data does not lend itself to year-by-year tracking. It is difficult, for example, to understand when a financing consultant will do more green economy work, and so the nature of the projections takes that into account.
+
+We have a methodology in place but given the time frame that we have had we cannot replicate that right now. I will note that in the clean energy generation and transmission, distribution and storage, and energy efficiency occupations for which we have numbers, there were about 68,000 jobs in those occupations in 2021 and now there are about 75,000 as of 2024, which is the latest data that we have access to currently. Within the occupations that we discussed in the Green Economy Action Plan, there are 21 focus occupations. Those are jobs largely within the building efficiency and electrification space where we feel there are lower barriers to entry for everyday New Yorkers, that pay family-sustaining wages of $31 per hour and are largely accessible. We have seen growth from 2021 to 2024 at a rate of 8.6%.
+
+So we see promising job growth figures there. Like I mentioned in my testimony, we see this as generational work. The jobs will not be created overnight. We are confident that we will continue to see job growth and that the green economy itself, given the nature of the crisis, will only continue to heighten the need to be addressed, thereby creating economic opportunities. I will say that our work has not stopped. Like I mentioned in my remarks, we have various capital projects like the Willets Point development, which includes an all-electric soccer stadium, which in totality will generate more for the City, which I can speak to you a little bit more later, but which includes a 30,000 square foot workforce development facility at Bathworks in the Brooklyn Army Terminal, the Bronx Green Jobs Center, and we made a $10 million investment into the CUNY central campuses. So we are happy to share that news and continue the good work ahead.
+
+**(00:43:21)**
+
+
+
+I have some follow-up questions. On Local Law 97 compliance compared to the targets, can you help me understand how you are still moving forward? Right now there is no funding from the federal, state or City government for Local Law 97 or any southern implications or implementation. So how does this affect the green jobs that we were promised and what is the plan there?
+
+**(00:43:46)**
+
+
+
+Thank you for the question, Chair. As we noted in our testimony earlier, buildings are one of the biggest emitters of carbon dioxide and also create the biggest opportunity for jobs in the green economy. So we have a shared understanding of the importance of enabling Local Law 97 implementation. We have heard from our agency partners that they are making great strides. DEP has ensured that there has been over 90% compliance with their first milestone for private building owners. I will say that as the implementation and enforcement agency, we have supplemented their efforts by supporting workforce development.
+
+**(00:44:29)**
+
+
+
+And do you know how many jobs are being created by Local Law 97 implementation?
+
+**(00:44:33)**
+
+
+
+Like I mentioned before, in the 21 focus occupations that we have tracked, we have seen about 8.6% growth. A lot of those are from those occupations.
+
+**(00:44:43)**
+
+
+
+How many jobs is 8.6%?
+
+**(00:44:46)**
+
+
+
+I do not have the exact figure and I do not want to misspeak. We are happy to come
+
+**(00:44:50)**
+
+
+
+back. Okay, can your team look it up right now so that we can understand how many jobs that is? And can you help me break down the 400,000 jobs? You are saying that it is going to be 400,000 jobs by 2040, up from 133,000. Even so, you cannot tell me and the other Chair how many jobs that is going to be in year two. Help me understand what your vision was when you set the number 400,000 for the next... I guess until 2040. So how are you looking to increase those jobs by 2040? What is the breakdown that you made in that forecast?
+
+**(00:45:30)**
+
+
+
+Thanks for the question, Chair. Like I said before, there are certain data limitations given the availability of data sets, so we are...
+
+**(00:45:38)**
+
+
+
+Right, what I am saying is: why did you forecast 400,000? How did you get to that number? That is what I am asking.
+
+**(00:45:48)**
+
+
+
+The 400,000 number was a projection based on the information at the time the report was developed, which included the enormous amount of investments from the federal
+
+**(00:45:57)**
+
+
+
+government. Unfortunately, all of that investment did not follow through. Let us break down that investment. Can you help me understand for which level of funding and how many jobs per funding you are estimating, so that we got to the 400,000? Because then we should recalculate how many jobs we are really expecting by 2040 and break that down. We are trying to be realistic here. We want to understand where we are and what we are actually dealing with. We cannot just be projecting numbers to people with false hopes.
+
+**(00:46:27)**
+
+
+
+I think the point is well taken, Chair. I will underscore what I said before: that 400,000 job number is a projection based on four different factors — local, state and federal policy, public
+
+**(00:46:41)**
+
+
+
+investments. Which policies? How much money are we talking about so that we can break down to the 400,000
+
+**(00:46:46)**
+
+
+
+jobs? We are unable to do that at this point because the methodology does not lend itself to a clear answer.
+
+**(00:46:51)**
+
+
+
+Okay, so then help me understand how you got to the
+
+**(00:46:56)**
+
+
+
+400,000 to begin with. So we took a wide-ranging methodology that incorporates analysis of the various four factors that I just mentioned to you. We did an analysis that accounted for the different peaks and valleys of different industry growth cycles, public policy milestones, and which industries — which is a cumulative figure — that is 400,000 jobs by 2040.
+
+**(00:47:22)**
+
+
+
+But which industries and which cycles are you referring to? The public deserves to know how you forecast the 400,000 so that we can make up for the delta and come to a realistic number of what that actually will be for job creation given our realities today.
+
+**(00:47:41)**
+
+
+
+I definitely appreciate the question. I want to step back a little bit because I think we share both your goals and concerns, and want to be transparent with the public about where numbers are and where we are heading. I think what my colleagues are alluding to, and I will try to be a little clear about it, is that it clearly was a projection. The 400,000 was a projection based on what we knew at the time. That said, I think from our perspective it still feels a little too early to know whether or not we are on track.
+
+I understand the desire for concrete numbers. The way that the projections were based was really over longer cycles. So while we are... when the plan rolled out, obviously we were under the Biden administration, which had really robust investments in many of these sectors. I think we have definitely seen a rollback under the Trump administration, and so we need to wait a little bit longer to see what future administrative policies look like. That said, we are continuing to move our pillars of the plan forward. I think it is important to note that many of the things that were in the plan — and I know we have said this before, and I know when I first read the plan I wanted to understand it a little bit better — is that many of the jobs are transitioning. So there are jobs that currently exist. That is your track person who is doing something that... my colleagues will help me on the correct terminology, but they are doing the work in ways that do not necessarily employ green technology or the latest green practices. Those jobs are not completely new. Those are what we consider transitioning jobs. So there is a subset of jobs that will transition from jobs that exist today. It is not 400,000 net new. It is a projection of 400,000 green jobs, so some of those would be net new and some of those will be transitioning. So what percentage of the 400,000 are transition jobs? We have to get better on that — 70%.
+
+**(00:49:33)**
+
+
+
+Percent are transitioning jobs. So 70% of 400,000 are existing transition jobs.
+
+**(00:49:38)**
+
+
+
+Yes. I think that is a really important clarification for the public to know. I think to be clear, I think that was clear in the Green Economy Action Plan, and it is true that 70% of those jobs are transitioning jobs. With the administration now, have you not made a correction in the forecast for 400,000?
+
+**(00:50:00)**
+
+
+
+I think the plan forecasts 400,000, and in the plan it makes reference to the fact that those are both net new and transitioning jobs, so that is clear in the plan. When are you going to make a correction to your forecast, knowing that there are federal and state cuts to all of the green new jobs?
+
+**(00:50:18)**
+
+
+
+I think there is a benchmark in there where we recommend looking to 2030. I think we are two years in. In terms of understanding what the real effects within the cycle will be, it will take a little bit of time. So I would say as we get closer to the 2030 period, it might be a more realistic time to look back and see where we are in terms of the economic cycle, and where we are in terms of whether we still have the administration like the one we have currently, or whether we have shifted back to an administration that is more closely aligned with the Biden administration that is really prioritizing the work we are doing around the green economy. So when is the next time... are you saying that we are not going to get an update for the public until 2030 for the job forecast? I think what I can say is that because the 400,000 was a projection and the methodology, as my colleagues alluded to, is difficult, the most appropriate time to perhaps revisit — and I would have to consult with my colleagues — would be closer to that 2030 date, but not just two years into the plan.
+
+**(00:51:21)**
+
+
+
+Can you give us a clear breakdown — through both testimonies from talent and from what we heard, we heard snippets of small amounts of money under $10 million spent here and there — can you give us a clear breakdown of the $600 million that has been allocated for the Green Economy Action Plan and where that money is going? So to clarify, the $600 million as you mentioned earlier is a reflection of the investment from the City, state, federal and private funding for the implementation of the youth and young adult action plan, and that was released in December 2023 and was reflective of the 2024 funding. Now that funding was to support all sorts of youth workforce development programming, which includes but is not exclusively limited to investments in the green economy. So that $600 million was tied to youth workforce, but that includes things like the Summer Youth Employment Program. So what is the breakdown of the $600 million that is specifically for green workforce?
+
+**(00:52:24)**
+
+
+
+Development? We do not have the specific numbers because some of the programming — like SYEP for example, for that fiscal year — is over $200 million, and...
+
+**(00:52:35)**
+
+
+
+We just worked with the painters union to have a program, and the union will be hosting about 30 different young people this summer. So that is one example where we are having young people get exposure to and learn from a job that is contributing to the green economy, but because it is part of that broader program we do not have that...
+
+**(00:52:58)**
+
+
+
+Specific breakdown. So with all of those different overlaps that you have, how much of the $600 million is for green jobs? We would have to get back to you on some of the specifics if we can break it down.
+
+**(00:53:10)**
+
+
+
+To that. Someone on your team...
+
+**(00:53:11)**
+
+
+
+Please do that. Right now I am going to pass it back to Chair Maloney.
+
+**(00:53:17)**
+
+
+
+Thank you, Chair. Echoing the sentiment, the original report had four growth drivers that have considerably shifted since the original report was published: public policy and targets, citing state and federal laws; government spending and incentives, primarily citing federal funding that was directed towards the green economy; and then consumer preferences, which have also probably shifted in an increasingly difficult affordability crisis. So I echo Chair's sentiment of needing to revise the numbers to be more realistic. When the Center for the Urban Future was citing that there have been 2,000 net new green jobs in 2023, and that delta... thanks for that line of questioning. I wanted to jump over to the South Brooklyn Marine Terminal and ask what the status is of the current construction at the terminal, how many jobs have been created there, and what could you do so?
+
+**(00:54:27)**
+
+
+
+The top lines that I will say about the South Brooklyn Marine Terminal and Empire Wind One and the future pipeline include: one, the City's interests are protected at the South Brooklyn Marine Terminal; Empire Wind One has faced federal obstruction but is unlikely to face it in the future; and the future pipeline of new offshore wind projects is challenged. For context, I will just briefly go over the different roles that each level of government plays with offshore wind. First, at the federal level, they are responsible for giving site control to offshore wind developers in what they call wind lease areas in federal waters, and also to...
+
+**(00:55:10)**
+
+
+
+Permit the offshore construction. So Empire Wind, as an offshore wind project, is subject to federal jurisdiction in that regard. New York State in particular creates a market for offshore wind. They solicit and procure offshore wind renewable energy credits, which enable offshore wind developers to get the financing that they need to finance the overall onshore and offshore projects.
+
+**(00:55:35)**
+
+
+
+The local government provides site and infrastructure to different onshore components of the offshore wind farm, which includes the South Brooklyn Marine Terminal. So I just wanted to get that clear from the start. At the South Brooklyn Marine Terminal, like I mentioned before, it is 98% complete. Just to speak to the ways in which we protected the City's interests through the lease: we had a construction guarantee. First and foremost, we wanted to ensure that if there was going to be federal obstruction, Equinor could not walk away from the project and that we as a City are made whole with a complete, world-class offshore wind port, which we are on track to complete very soon. We also have the lease guarantee — the term of Equinor's sublease, which is from 2026 to 2054 — so they ultimately are on the hook for rent payments to the City, and there is a $20 million penalty if they renege on their lease.
+
+Then we have invested into the South Brooklyn Marine Terminal with our City capital, which as you probably know is reimbursement-based, and so we will not pay out those resources until the work is completed. Given that Equinor has to pay out of pocket first, we will repay once that is completed. In terms of jobs, as I mentioned before, there have been over 2,500 unique union workers on site working there. There will be 200 workers that will assemble the large wind turbine components, and then there will be 60 permanent jobs for operations and maintenance for the offshore portion of Empire Wind One.
+
+I think I will just speak a little bit to the future pipeline. We know that given federal obstruction, there have been aggressive tactics implemented that have halted all new permitting for federal wind lease areas. So we do see the future being challenged there, but we are working hand in glove with New York State and NYSERDA, which still has a nine-gigawatt goal for offshore wind, to ensure that we are doing all that we can to sustain the offshore wind development industry if and when a new federal administration arrives. For example, we have been supporting NYSERDA on what they call pre-development activities, so the state is looking to the broader industry and local government partners for ideas on how to support pre-development activities that offshore wind developers will need so that they can jump-start when there is a friendlier administration in place.
+
+I will close by saying that moving forward we see offshore wind as a critical component of our clean energy future, but we are also taking an all-of-the-above approach to ensuring we address the transition to renewables, which includes supporting projects like the Champlain Hudson Power Express, which we supported with some incentives. That is bringing 1,250 megawatts of clean hydropower from Canada to New York City.
+
+**(00:58:50)**
+
+
+
+And just to clarify, what is the contingency plan if the injunction is lifted or the federal court of appeals prevails? If we are at 98% complete, what is the timeline?
+
+**(00:59:03)**
+
+
+
+Yeah, I will clarify. Just given, like I mentioned before, the jurisdiction of the federal government only really pertains to federal offshore construction. There were two stop-work orders that did not stop construction at both times, and we have never had to comply with a stop-work order given its onshore nature and given that it is City land.
+
+**(00:59:28)**
+
+
+
+To that line of questioning: the 2022 agreement was justified as a staging and assembly hub because there were three offshore projects that were in the pipeline — Empire Wind One, Empire Wind Two and Beacon Wind One — which together would have generated more than 3,000 megawatts. Empire Wind Two was canceled, Beacon Wind has no active construction, and the terminal now has an 810-megawatt project. So how does the economic case for the City's investment in the terminal hold when the scope of work has been reduced down to one project, and have you reassessed the return on investment expected?
+
+**(01:00:12)**
+
+
+
+Yeah, I think that is where the lease guarantee of rent is really important here. We are of course supportive of Equinor finding multiple uses so that they are able to meet the rent, but that onus is on them to ensure that they have sub-tenants or activate the site with uses that will generate that income to provide the City with rent. I will note that we have actively partnered with Equinor to promote the South Brooklyn Marine Terminal for other maritime-dependent uses, which could include the storage and transportation of construction materials, et cetera. So we are actively at the table trying to shape and ensure that they are successful, but ultimately I will underscore that it is their responsibility to provide the City with rent payments.
+
+**(01:01:03)**
+
+
+
+And what is the excess capacity at the site being used for? Currently there is no excess capacity in terms of staging and assembly, given that Empire Wind One is going to be using the totality of that site. Like I mentioned before, I will have to get back to you on the exact acreage, but we are actively supporting Equinor to find other uses for that site. And one other question: in June 2024, the state locked in the price for Empire Wind One's power at $155 per megawatt-hour, up from $118 that was proposed in the original award. Who bears the cost of that? How much of the City's investment was premised on the other two sites proceeding? The power purchase agreements between NYSERDA and Equinor for their offshore project, Empire Wind One — that cost burden is shared across all New Yorkers and it will increase their...
+
+**(01:02:09)**
+
+
+
+Monthly electricity rates by about a dollar to $2. So that was a prime consideration for NYSERDA in their solicitation. Their evaluation criteria was 70% price, 20% local content — meaning the economic impact for talent, workers and businesses across the state — and then 10% on feasibility. So we were tending closely to ensure that the state knows that affordability, particularly energy burden, is addressed through any solicitations, and so we are happy that they have minimized the costs through the competitive procurement.
+
+**(01:02:48)**
+
+
+
+And I think, Chair, I just want to circle back a little bit to the economics and importance of the site and the return on the City's investment with respect to the site and where we are right now. This was the largest infrastructure investment in the City in really like 50 years. And so while there are current federal headwinds with respect to offshore wind, and our current president for his own reasons does not seem to see it as a source of power that we think is a great way to fuel the transition, this infrastructure is going to be in place for the next 50-plus years. So we look forward to a future in which wind will be a significant part of the City's infrastructure. It may not happen today but it will happen in the future.
+
+That said, I think as my colleague alluded to, the site is 100% being used right now and that is anticipated for the next couple of years. So we are fully functional, using that site for offshore wind and more than supporting the investment the City has made. One of my colleagues back at the office wanted me to also report that we have the largest crane in the United States at this site, so it is a huge infrastructure investment. It is something, and while I understand what the federal administration has said about wind, we are...
+
+**(01:04:06)**
+
+
+
+We are bullish on wind in the long term, and that could fully support the City. I am now going to pass to my colleague CM Shanel Thomas-Henry. Thank you, Chair. I will...
+
+**(01:04:21)**
+
+
+
+Begin with talent. Your community hiring initiative program — I see that you mentioned that workforce goals have been added into contracts. How are you tracking those hiring goals currently?
+
+**(01:04:38)**
+
+
+
+Yeah, so as I mentioned in the testimony, we have over 275 procurements out on the street that are valued at over $14 billion, and so not all of those procurements have yet resulted in contracts as they have to go through the procurement process. But we do have a handful of contracts that have come online, and so in terms of tracking, it depends actually on the type of contract. For construction contracts, we are implementing a digital labor compliance tool that will collect workforce data, being able to understand who is working on those projects, how much they are being paid, the trade classifications, where they are from, as well as the progress towards the community hiring goals.
+
+For other types of contracts on the professional services side and human services side, we are working with the City's Workforce1 system and our partners at Business Link and others to be able to collect and track that data directly from the contractors who have those goals, and so they will be submitting that information to the City. So this digital labor tool will be something in-house to your agency, and the contractor would be responsible for sending you data? It will be a citywide tool used for all capital construction agencies. So all the construction agencies that are doing construction right now have a paper-based process, and we are helping digitize that process. City vendors who are working with Parks or Transportation — those contractors will use this tool, and it will allow our office to track community hiring and workforce commitments, as well as allow City agencies to conduct more robust prevailing wage oversight and payment processing.
+
+**(01:06:16)**
+
+
+
+And how are you identifying which low-income communities or residents for these contractors to target? Are you doing it by zip code, project area? How is that...
+
+**(01:06:25)**
+
+
+
+Working? Yeah, so community hiring is rooted in state legislation, and the state legislation has pretty prescriptive requirements. So for a construction contract, it is zip codes in which 15% or more of the population is below the federal poverty guidelines, and so we published a list of all of those zip codes. It also includes NYCHA housing as well. So the goals on construction projects are based on those low-income regions, both on the zip code level as well as NYCHA housing.
+
+**(01:06:53)**
+
+
+
+With the youth pathways to a green economy, you said there are 11 schools in the program. Where are those schools located, how many per borough, and... the last part of the question, how many...
+
+**(01:07:03)**
+
+
+
+I would have... I know that the New York City Public Schools future at the HVAC and building decarbonization pathway is offered at 11 schools, serving over 400 students. We would have to get back to you on the specific list of schools that it is at, but there are 11 schools in total using that pathway.
+
+**(01:07:25)**
+
+
+
+A green collar workforce training... The plan said that there will be five, one in each borough. How many of those are currently open? I am happy to give an overview of those facilities, Council Member. The first one is in Brooklyn. The largest workforce development training facility across the five boroughs will be at Bat Works, and that is going to be 30,000 square feet. We are going to be opening that in late 2028. In the Bronx, we are happy to invest in Fordham's Bronx Green Job Center. That is going to be 12,000 square feet and opened by the end of the year. In Manhattan, there is only one environmental education center in Midtown East at 6,500 square feet that is already open. Then, like I mentioned before, we collectively have made a $10 million investment into various CUNY campuses for green development facilities, which includes one in Queens at Queens Community College for an energy education center and one in Staten Island at the College of Staten Island for a sustainable business financing and entrepreneurship center. We are actively working with the communities capital team in particular to understand the timelines for when they will be open and are happy to get you that information.
+
+**(01:08:46)**
+
+
+
+Okay. In the interest of time I must skip to the end. Business initiatives — do you have the number of businesses that are currently qualified and participating in the green opportunities construction... wow.
+
+**(01:09:04)**
+
+
+
+Thank you for that question. I think we will need to get back to you to get that number. But can you just repeat the question again just in case I am able to
+
+**(01:09:12)**
+
+
+
+answer it? How many businesses are there in the City that are currently qualified to participate in these green jobs initiatives?
+
+**(01:09:23)**
+
+
+
+That is not information that I know right now, but I am happy to bring that back and work with the administration and follow up.
+
+**(01:09:30)**
+
+
+
+One more question. Just to piggyback on that, is there anything in the plan to help these businesses — like any mentorship or protégé programs to help them build capacity so if they are not currently capable of performing this work, that they will be?
+
+**(01:09:46)**
+
+
+
+Thanks for the question, Council Member. We have a shared value of supporting access to opportunities within the green economy. We have longstanding programs called Construct and a newer program called Waterfront Pathways, both of which we run in-house. Construct is our premier, best-in-class construction business technical assistance and capacity building program. We are proud to say that we have graduated multiple cohorts. We have designed on-ramps onto projects in particular for those companies to ensure that once they get those skills, they are able to work — they are able to get first offers on any procurements that we put out to bid, particularly for construction work.
+
+Waterfront Pathways was also a program that was invested in as well. That program was specifically created to address the disparities in waterfront construction and services work, to enable businesses to enter but also to grow their capacities in contracting opportunities in waterfront construction, given the nature of how many assets are along our 520 miles of coastline. So we are happy to follow up, and kudos to our team for running
+
+**(01:11:06)**
+
+
+
+those. Thank you. Thank you to both chairs. Council Member, your questions.
+
+**(01:11:23)**
+
+
+
+Hi, thanks for being here this afternoon. I will start with some questions about the inclusion of people with disabilities in the Green Economy Action Plan. The plan emphasizes creating an equitable workforce. How has the City ensured that people with disabilities are included in that vision, and are there any specific goals or benchmarks for their participation in green economy jobs?
+
+**(01:11:55)**
+
+
+
+Thanks, Council Member, for the question. I am happy to answer first and pass it to my colleague. As I mentioned before, we are pretty bullish about enabling workers to enter into well-paying jobs in the green economy. That starts with career awareness, and so the education center that we built in partnership with economic development — that is at Industry City — was developed in partnership with disability advocates to ensure that all of the materials are accessible to a broad variety of individuals, both across language but also across ability. But that does not cover the jobs part, and so we do not have any codified goals for that. It is part and parcel of our approach to inclusive and equitable workforce development, but I will pass it
+
+**(01:12:40)**
+
+
+
+on. If there are not benchmarks, how are you all — how
+
+**(01:12:42)**
+
+
+
+do you know that this is equitable?
+
+**(01:12:47)**
+
+
+
+So, as my colleague said, we do not have specific benchmarks tied to goals for jobs for people with disabilities. But at Talent, we are home to the Center for Workplace Accessibility and Inclusion, and the way that we think about workforce success is making sure that all types of jobs are available and accessible to people with disabilities. So we work across all types of sectors, and particularly with the green economy — as was noted earlier in the testimony and in the report itself — there is a broad spectrum of jobs that contribute to the green economy. Part of the work of our team is to work with our partners across the City, whether that is City agencies or partners external, to make sure that there are opportunities open for people with disabilities. But at this moment, you are not evaluating whether people with disabilities have been connected to a job?
+
+**(01:13:44)**
+
+
+
+We are tracking — we actually do track towards connecting people with disabilities to jobs. We have yet to slice that specifically in the green economy, but we are happy to take that back and happy to also work with you, Council Member, on ways that we can better track that. We do work towards tracking across the various City programming
+
+**(01:14:04)**
+
+
+
+and connecting people with... I mean, with all the federal cuts, economic insecurity continues to be on the rise for people with disabilities, and our City has opportunities that should be reaching — as is said in the vision of the plan — people with disabilities. Has the Mayor's Office for People with Disabilities played a role in advising around outreach or engagement with people with disabilities?
+
+**(01:14:42)**
+
+
+
+So our office works very closely with the Mayor's Office for People with Disabilities. Specifically on the green economy, I would have to get back to you on their specific involvement with the development of the Green
+
+**(01:14:54)**
+
+
+
+Economy Action Plan. I mean, it is okay if you do not — I am just trying to know.
+
+**(01:14:58)**
+
+
+
+Yeah, I am not sure specifically about their involvement with the development of the plan, but we work very closely with them across all of our work tied to people with disabilities. We also work very closely with that team, and the City collaborates quite a bit on that.
+
+**(01:15:13)**
+
+
+
+Yeah, I would recommend that the Mayor's Office for People with Disabilities be brought in. I think this is certainly an area that we should have far more clarity around. The plan shares that there is a priority focus on occupations in construction and installation, engineering and architecture, management and business, with the target of 12,000 New Yorkers connected to green economy occupations. How many have been connected to date?
+
+So at Talent, we work across the entire system. As I mentioned in the testimony, we had approximately 1,500 people through the program connected to union and prevailing wage jobs. We also work very closely with our colleagues who have funding for pre-apprenticeship programming, and I think to date over 350 people since the release of the plan have been connected to apprenticeships. Are these numbers available publicly? We have reported on it — we just celebrated an exciting milestone of 1,300 for the program, and so we have reported on that publicly through a press release. It is now closer to 1,500. Some of the other numbers, through community hiring for example, those numbers will be reported publicly.
+
+And where could I ask for some follow-ups? Yes, thank you. So 1,300 to 1,500 — these numbers are nowhere near 12,000. So how are you all thinking about how you reach 12,000 New Yorkers?
+
+**(01:17:07)**
+
+
+
+So the timeline in the plan itself was to 2040. Obviously there have also been the impacts, as we have been noting, of the federal government. However, we are laying the
+
+**(01:17:16)**
+
+
+
+groundwork for a lot of that work as well, really increasing equitable opportunities. Through the negotiation of our project labor agreements, which cover tens of billions of dollars of construction work over the next many years across the City, making sure that there are pathways there for New Yorkers to get connected to jobs in the construction sector — through community hiring and setting goals on those projects — that is a really strong opportunity to maximize connecting New Yorkers.
+
+I would be very interested to see a better breakdown. I think the 1,300 number is very low. I do not know if that is a 2026 number or if that is a since-2023 number. It would be great to know how you are assessing and evaluating the placements. I think having a number allows us to ask how you got there and how you are going to get there. I will move on. The plan also mentions the Clean Energy Academy as a tool for creating economic mobility for low-income New Yorkers. As of December 2023, 239 residents had completed the 16-week program. Does Talent have an updated figure on the number of participants in this program? Could you just clarify which program specifically? The Clean Energy Academy. I do not think I have those numbers. We are happy to work with our colleagues and get back to you on that. We deeply appreciate that. Thank you, Chairs.
+
+**(01:19:22)**
+
+
+
+Thank you so much. I want to go back to what we were talking about earlier. Does your team have updates on the numbers that we asked for as follow-up? We did look into it. Unfortunately we will have to work more closely with our colleagues across the various agencies. As I mentioned, that $600 million is a reflection of the fiscal year 2024 budget, which goes into a variety of programs that serve a broad scope of young people for a broad scope of jobs. Take for example Advance and Earn and Learn — those serve out-of-school, out-of-work youth. There are specific parts of those programs and pathways for jobs in the green economy, but it is not exclusively for that. So we will have to go back and work with our partner City agencies to get you a more clarified
+
+**(01:20:10)**
+
+
+
+number. But it is supposed to be $600 million in green career pathways, correct? So it has to be for green career pathways because that is what your plan said.
+
+**(01:20:18)**
+
+
+
+This $600 million was specifically tied to the Youth Action Plan and was not exclusively tied to green pathways. So we are happy to work with our partners to try to figure out what portion of that $600 million is specific to the green economy, but not all of the $600 million was tied specifically to the green economy.
+
+**(01:20:38)**
+
+
+
+Okay, so when do you think you will have that follow-up for us?
+
+**(01:20:42)**
+
+
+
+We will work as soon as we can. We worked with our colleagues on getting some of the data — we did not get that particular piece. We are happy to go back and work with them and try to get that as soon as possible.
+
+**(01:20:52)**
+
+
+
+So when is "as soon as possible"? Like end of this month? Next month? I am
+
+**(01:20:59)**
+
+
+
+happy to work... I do not want to speak on behalf of — some of the complexity is that it is a big number and there are a lot of different programs that go into it. So I am happy to work and get you an answer as soon
+
+**(01:21:06)**
+
+
+
+as possible. $600 million is a very significant amount of taxpayer dollars, so I think the public deserves to know. I hope by end of next month you will get us those numbers of exactly where the $600 million is being spent. Can you also help us understand the difference between the $4.5 million green workforce program pilot? How does that overlap with the $600 million for the existing green career pathways for young people versus the green workforce program pilot by this administration?
+
+**(01:21:38)**
+
+
+
+So, just to clarify, you are referring to the GROW program, correct?
+
+**(01:21:44)**
+
+
+
+Yes. So I would say that is a reflection of this administration's commitment to following through on what we have outlined already in the Green Economy Action Plan. That investment is a reflection of the belief that climate change is real and we need to continue to invest in the Green Economy Action Plan. That investment was not at the time of the Green Economy Action Plan explicitly outlined, but as we know the plan was based on projections and information available at the time. This administration continues to adapt and, as seen here, invest in good opportunities to connect people working with the DOE Fund.
+
+**(01:22:25)**
+
+
+
+So am I understanding you correctly? You are saying that the $4.5 million is not net new as far as the existing program?
+
+**(01:22:32)**
+
+
+
+This was a new $4.5 million pilot. So that was a new investment by the
+
+**(01:22:41)**
+
+
+
+administration. Okay, and what is different?
+
+**(01:22:45)**
+
+
+
+You are saying that it is a completely different set of funding and it is being used for different
+
+**(01:22:49)**
+
+
+
+purposes. It is being used to help train 20 participants in managing over a thousand different rain gardens in East New York and South Ozone Park. Okay, so it is not overlapping with the $600 million. This is a completely separate program from what the previous administration already had. So again,
+
+**(01:23:07)**
+
+
+
+just to clarify, the $600 million — this is not part of the $600 million because it is not part of the funding that was outlined in the Youth Action Plan. So this is a separate $4.5 million investment that was made just recently.
+
+**(01:23:26)**
+
+
+
+Okay, so this is not a new relabeling under the $600 million plan. This is not part of the Youth Action Plan money. This is additional funding in addition to that $600 million that is part of the Youth Action Plan, but
+
+**(01:23:37)**
+
+
+
+the $600 million is going to continue to get funded under this administration in the upcoming budget, so the...
+
+**(01:23:44)**
+
+
+
+$600 million was a point-in-time reflection of what was then fiscal year 2024. Again, we would have to work more closely with our partners. So you are not sure if this is going to continue to get funded?
+
+**(01:24:00)**
+
+
+
+I know many of these programs are continuing to get funded. For example, as part of that... it is a robust program. There are many other programs that go into it. I do not have all of that data in front of me, so I... programs are part of the $600 million. I would have to get back to you on how many. It probably includes New York City Public Schools, CUNY and maybe some others as well. I have some examples of it but I do not have a full accounting of every single program. It was a full roundup of prior years' youth funding.
+
+**(01:24:38)**
+
+
+
+Are you not concerned that it may not be fully funded by next fiscal year, which starts at the end of this month? I just want to
+
+**(01:24:44)**
+
+
+
+clarify. For me it is not a question of whether it will or will not be. I just do not know specifically each line item program and what programs have continued. I do know though that
+
+**(01:25:00)**
+
+
+
+the programs are ongoing. So can you guarantee the public that all $600 million starting July 1 will be funded?
+
+**(01:25:08)**
+
+
+
+I cannot make that commitment. I would need to talk to my colleagues across all of these agencies to figure out — again, this was a few fiscal years ago — where these programs are. Maybe some of them have wrapped up, maybe some of them are more enhanced. I do not have the specific number that would sort of be an analog to that $600 million point in time. The agencies have been keeping up with this program for the last few fiscal years. Our partner agencies on the youth side — we are incredibly proud of the work that they do and the work that we do to partner with them, and they do a lot of work.
+
+**(01:25:42)**
+
+
+
+But because we do not have this data specifically on all of the Youth Action Plan — because again the Youth Action Plan is an important plan, however it was not tied exclusively to the Green Economy Action Plan — I do not have all of the data tied to all of the youth work that the City has done. But the City does quite a lot.
+
+So is the overall Green Economy Action Plan going to be funded in the next fiscal year? The budget is still not yet finalized, so I do not have all the details. We are happy to work with our partners on what the green economy investments look like and how we at Talent can help support them. We are expecting on the Talent side stable funding related to our green economy portions, but we will have to work with our partners. So what is the portion on the Talent side for the Green Economy Action Plan?
+
+**(01:26:31)**
+
+
+
+So since 2024 we have driven more than $13 million to work in the green economy, and that includes both staff costs and private funding, some federal funding and some capital
+
+**(01:26:43)**
+
+
+
+funding. So how much of the $13 million is City funding?
+
+**(01:26:49)**
+
+
+
+I do not have the exact number on that $13 million, but again most of the work that Talent does is actually supporting other agencies and their investments. Once the budget is finalized and announced, we work closely with all of our partners across the City to see how we can support those investments, and when there are green economy investments of course we
+
+**(01:27:10)**
+
+
+
+prioritize those. Is the Green Economy Action Plan a priority of the Mayor?
+
+**(01:27:15)**
+
+
+
+Like I said in our testimony, this administration is deeply committed to environmental justice. We are excited about the leadership of Deputy Mayor Julie Su and being the first ever Deputy Mayor for Economic Justice. And I think economic...
+
+**(01:27:29)**
+
+
+
+Justice. If it is a priority, what is the total amount of funding that is going to be promised this year that is going to be voted on next week on Tuesday at the latest for the Green Economy Action Plan?
+
+**(01:27:41)**
+
+
+
+So the City's investment across all sorts of things in that economy is quite large, so we would have to work with OMB and our numerous agencies to get a detailed accounting of all of the investments that are tied to the green economy for fiscal year 2027. Is this a priority of the Mayor?
+
+Like I said, we are absolutely committed to the green economy and to making sure that we are growing it equitably and making sure that we are supporting New Yorkers and connecting them to jobs, despite the loss of the federal funding that has come through. As both of us have testified today, there is still work happening to make sure that we have a good foundation to support all of the jobs that are...
+
+**(01:28:27)**
+
+
+
+Still around. And I am just surprised, because we have had this plan for weeks and the Council has been very up front about this hearing, but every single question that I have asked, you do not have any of the numbers for. You tell me that this is a priority of the Mayor, but we do not know any of the data that we need to make sure that the public understands this truly is a priority of the Mayor.
+
+So the plan commits to developing a green collar workforce training facility in every single borough. How many of these facilities are open today and what is the timeline for the rest that are unopened? I will pass it to my colleague.
+
+**(01:29:00)**
+
+
+
+So I can go over this again. In Brooklyn at BAT Works at the Brooklyn Army Terminal, there is going to be the largest workforce development training facility, amounting to 30,000 square feet, that is going to be opening late 2028. In the Bronx, we have invested $3 million into Fordham's Bronx Green Jobs Center, which is going to be 12,000 square feet. That is on track to open by the end of the calendar year. In Manhattan, the Solar One Environmental Education Center at Stuyvesant Cove in Midtown East, 6,500 square feet, is already open.
+
+**(01:29:34)**
+
+
+
+One is open.
+
+**(01:29:37)**
+
+
+
+The Solar One Environmental Education Center. What borough?
+
+**(01:29:45)**
+
+
+
+Manhattan. Okay. We have made...
+
+**(01:29:47)**
+
+
+
+$10 million investments into various CUNY campuses. The one in Queens will be at Queensboro Community College. They are developing an Energy Education Center. In Staten Island, at the college... what...
+
+**(01:29:58)**
+
+
+
+Year will the Queens one be open? So both for the Queens and College of Staten Island center, which will be focused on sustainable business, finance and entrepreneurship, we are actively working with the CUNY Central capital team to get a firmer answer on when they will be able to develop the centers at those campuses, and we are happy to get back to you on those timelines.
+
+**(01:30:18)**
+
+
+
+Okay, so currently there is only one open.
+
+**(01:30:22)**
+
+
+
+That is correct. And this has all been done within the past two years. So given the nature of construction and development cycles, we are proud to say that that has been open and...
+
+**(01:30:31)**
+
+
+
+How much capital funding has been allocated to all five boroughs and for each site?
+
+**(01:30:40)**
+
+
+
+We have not had a strategic budget allocation. We have opportunistically invested in these different workforce facilities as the opportunities come up, with our eye on developing a center in each borough. I will say that the BAT Works overall project is going to receive a hundred million dollars of investment. Like I mentioned before, the Bronx Fordham Green Jobs Center has received $3 million from us. We supported the Solar One Environmental Education Center with their development. I do not have the exact figure on hand but I am happy to share that figure at a later time. And like I mentioned before, the $10 million of investment went into CUNY-wide, and we are very happy to get you the discrete figures for which are associated with those campuses in the...
+
+**(01:31:23)**
+
+
+
+Future. How many people have been trained at Solar One?
+
+**(01:31:28)**
+
+
+
+I do not have that discrete number but I am happy to get back to you at a later point in time. For the CUNY campuses, once all of those are opened, they are expected to train 6,000 students annually.
+
+**(01:31:38)**
+
+
+
+Okay, because the plan was setting a target of more than 12,000 New Yorkers for green occupations through the partnership. It seems that only one is currently open and the number of people trained is unknown. And the Center for an Urban Future, as you heard from the Chair, only added roughly 2,184 net new green jobs in 2022 to 2023. Do you accept this figure and if not, what is your current count?
+
+**(01:32:06)**
+
+
+
+We have not seen that figure. It does not seem to align with the methodology that we have deployed, so we are happy to come back to you once we consult with our data team. That has not been able to produce a number at this point in time, two years...
+
+**(01:32:27)**
+
+
+
+You do not have any figure of how many people you have trained for net new green jobs?
+
+**(01:32:34)**
+
+
+
+It depends on different programs. Specifically for the ones that we have been leading, we have trained about 300 overall across various programs that we have invested in. But I will let my colleague Doug speak if you have any other data on your programs.
+
+**(01:32:49)**
+
+
+
+And so like I mentioned in the testimony, we estimate that since the Green Economy Action Plan was released, about 2,300 adult workers and 750 young adults have been served through the green economy. So that is almost 1,500 through that PINK program that I mentioned as being connected to union and prevailing wage careers through their Cool Roofs program, which I mentioned has helped secure funding for. They have connected over 150 people as well as their investment in their pre-apprenticeship program, over 375 people.
+
+We have also trained, as I mentioned in the testimony, or rather DCAS has trained through funding we helped secure for them, 300 City employees to learn safety around electric vehicles. And then on the young people side, we have our Industrial program, which we were grateful for you to come visit as we had a tour at Local 3 a few months back. That is a career exposure program for New York City public school students and that is a program through which we have trained about 350 young people.
+
+We also have our Youth Apprentice civil service title, which Talent worked closely with our partners at DCAS to secure a brand new civil service title, which is a really exciting opportunity for young people. So we have 17 apprentices at City agencies that are working in the green economy, like DOT et cetera. And so we estimate, like I said today, roughly 2,300 adults and 750 young people that have already been connected. Are we on pace towards a 12,000 apprenticeship target? And what is our current count against the 500 million baseline reported in the plan and what is the current induced storage capacity of 200 megawatts? So...
+
+**(01:34:56)**
+
+
+
+Of that PINK number that I mentioned, about 1,500, approximately 900 of them are apprentices that were connected through PINK. And like I said, we have 17 young people working in the green economy at Sanitation, DOT, Parks. We have another 12 young people starting apprenticeships this upcoming school year and we are looking to continue that. And as I mentioned as well, we have our community hiring initiative which is just coming online with contracts just beginning and there will be apprenticeship goals on those contracts.
+
+So as we look towards that 2040 horizon, we are really excited about the opportunity of community hiring and our project labor agreements to increase the opportunities for low income New Yorkers, including our neighbors in NYCHA, to be connected to apprenticeships in the construction trades.
+
+**(01:35:47)**
+
+
+
+My last question is: the Green Economy Action Plan named seven marquee initiatives, one per strategic goal. So for community hiring and place-based workforce strategies, tax incentives for battery storage, public sites for charging, Harbor Climate Collaborative, Climate Innovation Hub at Brooklyn Army Terminal, green training facilities in every borough, and implementing Local Law 97. I think I already know the answer to this, but for the record, can you walk through each of these seven marquee initiatives identified in the plan and provide: A, an original target and metric in which you put out these forecasts and these goals; B, current status against that target; C, timelines to completion; and any metric that has been revised since publication and why? So I want to make...
+
+**(01:36:37)**
+
+
+
+Sure I am responding to all of the initiatives as best we can. I would say with community hiring, like I said, back in 2024 when this plan was released we were still in the rulemaking process of community hiring. So these rules went into effect in January 2025 and at that point we worked across all of our City agency partners to start setting goals on those community hiring contracts. So we are proud that over 280 procurements have been released, valued at approximately $14 billion. These are applicable to all sorts of contracts but including green economy related investments such as construction of bio swales, resiliency infrastructure, building services, and consulting services like engineering and design, which are really opening up opportunities in sectors that traditionally have not been common sectors served by the workforce system. So we are excited about community hiring being able to do that. There were not specific goals tied to community hiring...
+
+**(01:37:41)**
+
+
+
+Numbers in the Green Economy Action Plan. But like was mentioned, the plan was a projection based on information at the time. We are excited still today about making sure that we are continuing to connect New Yorkers to jobs in the green economy and want to make sure that all New Yorkers have access and opportunity. So a lot of the work that we have done, whether it is through our outreach team who is conducting webinars and learning from both employers big and small, our work of putting community hiring out there, and then a lot of the programming that we have already touched on today, is making sure that we are setting New Yorkers up...
+
+**(01:38:17)**
+
+
+
+There seems to be a lot of lack of clarity in today's hearing. Can New York City Talent commit to outlining...
+
+**(01:38:24)**
+
+
+
+Total funding committed towards the goals of the Green Economy Action Plan and updated projections of green economy jobs by 2040, every single year? And if every year is not achievable, what do you think is a reasonable timeline for the public to have accountability and transparency?
+
+**(01:38:42)**
+
+
+
+So we are happy to try to share as much data as we can. Like I mentioned, at the time the report was published it was based on projections, right? So it was not a goal necessarily. It was based on information, a lot of which unfortunately is not there because of the federal investment that was lost. And so...
+
+**(01:39:01)**
+
+
+
+We are excited to make sure that we are maximizing the investments that we do have and that are continuing to connect New Yorkers to jobs. We are also working with the Chief Climate Officer and there will be a climate plan coming out, as legislatively mandated, next year. So this administration is definitely committed to continuing to really make sure that there is economic justice, environmental justice, and that from Talent we are really making sure that we are making all of these investments available to New Yorkers where there are job opportunities.
+
+So is that a no? You are not going to commit to a timeline to give us new projections? Because if it is a projection and there have been changes on the policy level at every single level of government, there should be a new projection, especially if it is a priority of the Mamdani administration.
+
+**(01:39:50)**
+
+
+
+So I know that, as my colleague mentioned, there is a specific methodology that was used. I am not sure of the level of effort associated with updating that on a regular basis. I think the most important part for us is making sure that we are maximizing all investments to connect New Yorkers to good jobs that we have. So we are happy to work with you, Chair, on getting you more data to help make clear any questions that you have. And you know, this administration is absolutely committed to following through on connecting New Yorkers to jobs in the green economy.
+
+**(01:40:27)**
+
+
+
+So will you commit to giving us an annual update? Because that is what the question was.
+
+**(01:40:33)**
+
+
+
+We would have to work back with our colleagues at Talent and a lot of this data that we are using. All of the commitments are spread broadly across the City, so we are happy to work with our colleagues and our partner agencies and City Hall to try to get you as much data as we possibly...
+
+**(01:40:50)**
+
+
+
+Can. I want to reiterate that the only number we have is 2,184 net new green jobs, so that is pretty abysmal for $600 million being spent.
+
+I had a follow-up question on the Talent pipeline and economic justice and inclusion initiatives, specifically the Night Shift Clean Energy Academy, which was mentioned as a key tool for creating economic mobility and green economy jobs for low income New Yorkers. Our data is from December 2023, saying 39 residents had gone through the program. I am wondering if you have an updated figure on the...
+
+**(01:41:29)**
+
+
+
+Number of participants from the program. As I mentioned earlier, we do not have the updated figure but we are happy to go back and work with our partners to try to get you that.
+
+**(01:41:41)**
+
+
+
+And the placements, in terms of number of people that were placed in internships or full time roles within City agencies, do you have any of that data as well?
+
+**(01:41:51)**
+
+
+
+Specifically with internships at City agencies, I do not have all of that data in front of me. But as I mentioned, our Youth Apprentice title, which is connecting New York City public school students to apprenticeships and paid on-the-job training at various City agencies... I think right now we have over a hundred active apprentices at City agencies. We have had even more come through the program and right now we have 17 who are at agencies that do work in the green economy, like DEP, with another 12 joining for this upcoming fall cohort. I have to get back to you on all of them. There is a whole suite of programs of internships and fellowships that happen to connect young New Yorkers to job opportunities with the City, and so we do not have that full number but we are happy to work and try to get that to you.
+
+**(01:42:44)**
+
+
+
+And with the training programs, not just completion rates of the program but then job placements that came afterwards, is that something you can follow up...
+
+**(01:42:52)**
+
+
+
+With as well? We will follow up with you on that.
+
+**(01:42:55)**
+
+
+
+And do you have a sense of how many green economy jobs are available in our own City agencies and what the vacancy rate is with those positions?
+
+**(01:43:10)**
+
+
+
+I do not have that data in front of me. But we are definitely interested in maximizing the opportunities for City agencies. I have said this before and I always make a plug: I love working for the City, and so trying to get more young people into the City is really important to us. So we are happy to work with our partners at DCAS and at the agencies that do work in the green economy, which spans many many agencies as we know, to get you that data.
+
+**(01:43:35)**
+
+
+
+One other question is around the rise of AI and tech industries that pose a threat to green economy jobs. The demands on our energy needs are expected to double by 2030 and I am wondering if you could give us an update on any concerns around the action plan or shifts in the action plan related to the increase in...
+
+**(01:44:02)**
+
+
+
+Yes, we share your concerns, Chair, on the environmental impacts of data centers. The Mayor's Office of Climate and Environmental Justice is in active coordination with various state entities including the Public Service Commission on some of the comments around large loads, which incorporate demand from data centers among other infrastructure projects. So we take our direction from a policy perspective from that team.
+
+In terms of data centers within the City, given real estate constraints, data centers at the scale which hyperscalers are trying to develop are not common here. There are some that support different financial institutions and computing at various sites across the City, but they are not at the scale that would create significant environmental and energy burdens or job displacement impacts for local New Yorkers. But we are keeping an active pulse on what that means for jobs more broadly, including those potentially within the green economy.
+
+Given that 70% of the green economy jobs that we forecast will be realized are transitioning jobs — those are accountants, those in the trades — the nature of green economy work often involves physical work, remaking our infrastructure et cetera. So we are quite confident that those cannot be replaced or displaced wholesale by AI. We are happy to keep you apprised of any analysis and different insights that we get as it becomes more of a clarifying focus for us.
+
+**(01:45:33)**
+
+
+
+How do you think of the strength of the City's infrastructure and the electric grid in the face of these increased demands?
+
+**(01:45:41)**
+
+
+
+NYSERDA put out a reliability report a little bit ago. It outlined that the reliability margins are narrowing, and so we do see a potential challenge with securing reliable and low-cost energy for New Yorkers. So I do share your concern about that potential becoming a larger challenge. I think for us we will alleviate burden, make the grid more resilient and make energy more affordable. So we are happy to share that in particular has supported more than 400 megawatts of clean technology deployment across the City. Those have actively mitigated demands particularly during the summer months. As we all know, there are 500 New Yorkers that die every summer from extreme heat, and so we see batteries as a viable technology to address not only the reliability needs that we see coming down the pike but also to solve immediate
+
+**(01:46:46)**
+
+
+
+concerns, particularly around extreme heat in the here and now, to not only save New Yorkers' lives but also create economic opportunities for our green economy industries today. And the initiatives around modernization of that electric grid, as there continues to be more pressure...
+
+**(01:47:03)**
+
+
+
+on it, can you speak to how you are coordinating the City agencies on that work, especially as this problem gets increasingly urgent?
+
+**(01:47:12)**
+
+
+
+Yeah, thanks for that question, Chair. We are an active participant in MOCEJ-led interagency working groups that are tackling this challenge, and so we come to the table with a keen eye towards our larger infrastructure development projects, including the large loads that they will require, and are in conversation with other policy objectives that MOCEJ is trying to solve. But we are equally concerned about the issues that you shared and are coming to the table as problem solvers. Chair, do you have any
+
+**(01:47:46)**
+
+
+
+other questions? Okay. My last set of questions is for... we are now nearing... do you have a permanent president of the New York City Economic Development Corporation?
+
+**(01:48:03)**
+
+
+
+We currently do not have a permanent president, as you know. But I will say, and as you are intimately familiar with, the talent there are some of the brightest minds really driven to make public impact. Our interim president Jeanne Park has harnessed that commitment to ensure that we are as an organization laser focused on delivery, including delivering on initiatives within the Green Economy Action Plan.
+
+For example, we just opened the BAT Works temporary space at the Brooklyn Army Terminal, which has hosted more than 20 events so far. We have also awarded about 2.6 megawatts of roof and carport solar to developers at sites that we manage in the Bronx. We also issued a microgrid RFI to solicit from industry what a viable microgrid might look like at the Brooklyn Army Terminal to advance climate innovation, technology piloting and testing. And I will note that interim president Jeanene Park has been closely collaborating with Deputy Mayor Sue on broader administrative priorities, which includes issuing the modular bathrooms, making sure that we are leading the charge on public groceries, and we are moving full steam ahead and the work has not slowed.
+
+**(01:49:21)**
+
+
+
+Do you have a sense of the timeline of when a new president will be put in
+
+**(01:49:24)**
+
+
+
+place? I unfortunately do not.
+
+**(01:49:28)**
+
+
+
+Do you have a sense of how many people have been interviewed or where they are in that
+
+**(01:49:33)**
+
+
+
+process? I unfortunately am not privy to that information.
+
+**(01:49:36)**
+
+
+
+How is the lack of a permanent president impacting day-to-day morale of employees at
+
+**(01:49:46)**
+
+
+
+That is a good question. Thanks for sharing. I think generally, obviously, people are curious about what will happen. But like I mentioned before, we are driven to create economic opportunities for everyday New Yorkers. I think we as staff are lucky that that is our nine-to-five, that we can do every single day. And so we are motivated by the higher purpose of supporting and serving New Yorkers and realizing economic opportunities for everybody. And so I think that is our laser focus now, implementing the key commitments that we have, including in the Green Economy Action Plan. But otherwise, I am sorry...
+
+**(01:50:21)**
+
+
+
+The only thing that I would add, Chair Maloney, is we love our interim president Pak. We think that she is doing an amazing job and so we have not really felt a lack of any direction. As my colleague said, we are in constant contact with her team in the administration, and President Pak has really driven us forward. She is an EDC veteran. She knows our work. So in some ways it has been a great transition for us in that we have someone who is fully on board and ready to move forward. And we are just excited, I think, about the new things that the administration is giving us to do. We have never been busier, which is a good thing. But no additional information, but we are really happy with President
+
+**(01:51:02)**
+
+
+
+Pak. I agree the interim president has done a fantastic job of leading the organization. Do you believe there has been any hindrance on the ability to have a long-term vision or long-term plan when the title
+
+**(01:51:18)**
+
+
+
+is interim president? I do not think so. I mean, we have really been moving ahead full steam. We are moving full steam ahead, at least from the work that I have seen. We have not stopped. It has not prohibited us from working closely with the administration as we roll out things like public grocery, things like the insurance captive, which did really require a lot of long-term vision, and we have been able to execute on that with interim president Pak. And so from an operational perspective, no, we still continue to look broadly into the future and work closely with the administration to
+
+**(01:51:50)**
+
+
+
+do that. Thank you for your testimony. And for anyone listening, I think it is more of a very important and crucial moment at this juncture to install a permanent president with the full authority to set the direction for our economic development. Thank you. I now conclude that part of the testimony and want to open up to public testimony. Thank you very much. Thank you.
+
+**(01:52:16)**
+
+
+
+I want to remind members of the public that this is a formal government proceeding and that decorum should be observed at all times. So please remain silent during testimony. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table, and members of the public may not present audio or video recordings. If you wish to speak today, please fill out an appearance card with the Sergeant at Arms and wait to be recognized. We all have three minutes per speaker on the Green Economy Action Plan topic. If you have a written statement, please provide a copy of that to the Sergeant at Arms as well, and you may email written testimony to testimony@council.nyc.gov within 72 hours of this hearing. Audio or video recordings will not be accepted. First up, Fall Haber and Christopher Maloney — same last name — you can start whenever you are ready.
+
+**(01:53:51)**
+
+
+
+Good afternoon, Chairs. My name is Greg Morris from the Employment and Training Coalition. I do have some prepared remarks and recommendations as well. I will put those to the side and offer those to the Chairs separately. What I wanted to say at this point is my responsibility. The New York City Employment and Training Coalition is to lead the coalition of providers and entities in New York City that are focused on workforce development, and the green space is critically important to these providers — 220 organizations within our network serving as many as a couple hundred thousand New Yorkers.
+
+Many of those providers have a hand in how it is that the City should be, could be and is thinking about the green economy. I am very proud today to have invited a bunch of them to come to this space and they are going to speak during the public session and tell their story as to what innovation looks like and what impact looks like and how it is that our City can transform in all the right ways to be able to find success in facilitating access to green jobs. And I look forward to them sharing their stories, and those are critical.
+
+I just want to say a few things in relation to what we just heard. I suspect if you did a hearing on healthcare initiatives related to jobs in New York City or the tech space career pathways, a lot of what you just put forward in terms of your questions about how much is something costing and are we on track to meet the expectations that we set and how is it that communities are benefiting — I suspect you would have a difficult time getting answers to those. We in the workforce development space understand that our work is challenging and meets the needs of New Yorkers with a variety of challenges and vulnerabilities and pathways to success. The complexity of not being able to say what our
+
+**(01:55:36)**
+
+
+
+City budget is to solve that problem is tremendously impactful and puts us at a disadvantage to be able to ensure that we are making sure that folks work towards careers and opportunities that lead to good jobs. Last but not least, I will just reinforce the message that I have offered and will continue to offer. Chair Maloney, thank you for putting this forward. We need to have a president in place to ensure that economic development and economic mobility is moving forward in New York City. And again, CM Adrienne, thank you very much for championing the Workforce Development Committee. It is the first of its kind. I know that it has lots of opportunities and challenges associated with it. This is the group that is ready to work with you to make that possible.
+
+**(01:56:18)**
+
+
+
+"CM" does not have the same ring to it, nor does "interim president." Good afternoon, Chairs and members of the Committees on Workforce Development and Economic Development. Thank you for the opportunity to testify today on the implementation of the Green Economy Action Plan. My name is Carrie Fall Haber. I am the Senior Vice President of Jobs First. Jobs First creates and advances solutions that strengthen education and workforce systems and expand economic opportunity. We work alongside hundreds of partners across all five boroughs.
+
+Through our Green Economy Network, more than 200 nonprofit workforce organizations, employers, City agencies, educational institutions and intermediaries have collaborated since 2019 to prepare New Yorkers for careers in the green economy. Since 2023 alone, the network has trained more than 7,000 New Yorkers for green jobs. The Green Economy Action Plan presents an incredible opportunity with a projected 400,000 green jobs by 2040. But those jobs will not exist simply because they are projected. They will exist only if the City treats workforce development as core infrastructure by aligning public investment, education, workforce strategy and industry.
+
+To realize this vision, we offer three recommendations on top of recommendations that we put out earlier this year. First, establish a workforce authority within City Hall with the authority to align agencies, coordinate workforce strategy and embed workforce outcomes into climate, procurement and capital investments. Second, strengthen coordination between schools, workforce providers and industry so education, training and work-based learning are aligned with the skills needed to meet current and emerging labor market demand. Third, make industry a full partner in implementing the Green Economy Action Plan. Employers create demand, define emerging skill needs and determine whether the City's workforce investments translate into jobs. Industry partners can validate emerging occupations, anticipate hiring needs and keep workforce investments aligned with real market demand.
+
+The Green Economy Action Plan is an economic strategy as much as it is a climate strategy. Success will be measured not by plans written or programs launched but by whether New Yorkers are hired into quality careers. With stronger coordination, clear accountability and sustained industry partnership, New York City can build the workforce needed to power a greener economy while expanding access to family-sustaining careers. Thank you.
+
+**(01:58:59)**
+
+
+
+Thank you.
+
+**(01:58:59)**
+
+
+
+Good afternoon. Thank you for the opportunity to testify. My name is Angelina Neresson. I am founder of the Green Launchpad and we co-lead the Energy Efficiency Employer-Led Workforce Coalition — long name — bringing together employers who represent over 2,400 clean energy professionals. Together we design practical employer-driven workforce solutions. So as the City advances the Green Economy Action Plan, I encourage you to treat workforce not just as a pipeline issue but actually as a business competitiveness issue. The challenge is not that employers do not want to hire. It is really that we too frequently ask them to engage in workforce development as a social obligation, a box to check, rather than offering it as a solution to a problem that they already have.
+
+We have to remember that companies engage when it matters and when it makes their business stronger. And it does. Most of our green economy actually runs on small and mid-size contractors with no recruiters. For them, a coordinated workforce provider is not a charity. It is an asset that prepares them for actual work and supports retention after hiring, that actually saves them time, reduces turnover and lets them focus on growing. So the plan should treat workforce providers as part of the City's business support infrastructure alongside financing and procurement.
+
+Specifically, we ask the City to invest in sustained employer-provider partnerships, not just one-off programs. Fund intermediaries that translate clear need into training. Incentivize employers to co-design curricula and work-based learning. And actually measure success by retention and advancement, not just enrollment. So I think if we can strengthen that coordination, workforce development stops being an ask. It becomes a competitive advantage for businesses in New York City. Thank you.
+
+**(02:01:12)**
+
+
+
+Good afternoon, Chair Juan, Chair Maloney and the members of the Committee. My name is Dr. Christopher Malone and I serve as the Deputy Executive Director of Policy and Education Innovation at the Consortium for Worker Education, CWE. Working on the ground, one thing is clear: Local Law 97 is already driving urgent workforce demand and our current pipeline has not yet scaled or aligned to meet it. So to meet this moment and in the implementation of the Green Economy Action Plan, we are submitting for the record a 10-point Green Workforce Acceleration Strategy. For the sake of time I just want to focus on six of those items.
+
+First, scale the pipeline. The City must invest not just in apprenticeships but in tens of thousands of pre-apprenticeship opportunities to meet demand. Second, align the system to meet real demand. Workforce investments must be explicitly tied to Local Law 97 implementation, including tracking placements into priority occupations like electricians, HVAC technicians and building operators. Third, create accountability through data. We recommend a public-facing green workforce dashboard to track outcomes, placements, apprenticeship entry and retention so progress can be measured in real time. We do this with our Jobs to Build On program and would be happy to connect to discuss the requisite information the Council should mandate the City provide through a reporting bill.
+
+Number four, strengthen the front door. Workforce One centers should implement clear apprenticeship readiness standards and referral pathways aligned with union entry requirements. Fifth, invest in workers' ability to complete training. Scaling childcare, housing and other supports is essential to ensuring New Yorkers can actually access these careers. And lastly, advance a near-term workforce surge strategy to rapidly expand training capacity over the next two to three years. As I said, we are submitting in writing a 10-point plan. I do not have time to go through all of those but I would be happy to work with the Council and your committees to put these ideas into actual policy. Thanks so much. Thank you for your
+
+**(02:03:26)**
+
+
+
+testimony. Next up we have Jonathan Spooner, Sandri Manazen, Aaron Sajak, Douglas Boren and Sophia Oliveira.
+
+**(02:03:51)**
+
+
+
+Okay.
+
+**(02:03:51)**
+
+
+
+Please begin. Are you ready? You can begin. Yeah.
+
+**(02:04:13)**
+
+
+
+Jobs... hold on... ha ha ha... oh, now we go. Good afternoon, Council Members. Thank you for the opportunity to testify. I am Jonathan Spooner, co-founder of Stack and Jules. We work at the intersection of building technology and community impact in New York City, in partnership with Henry Street Settlement, CTC and the Green Economy Network. Nonprofits across this City quietly operate a major portfolio of real estate — shelters, health
+
+**(02:04:53)**
+
+
+
+clinics, community centers, affordable housing. Their mission-driven but they are also building operators, and that role carries real cost. Energy is often a nonprofit's second largest expense after staffing. For an organization running a domestic violence shelter or mental health clinic, every dollar lost to an inefficient boiler is a dollar not reaching the people walking through the door.
+
+Add Local Law 97 penalties and the financial pressure competes directly with their mission. But building automation — smart controls, sensors, energy management — can cut energy use by 30%. But the upfront cost and complexity put it out of reach for most nonprofits without public support. Here is the opportunity for the community: a coordinated funding program for building automation does two things at once. First, it creates a durable workforce pipeline. Installing and maintaining these systems is a skilled, well-paying job that cannot be offshored, and we can train New Yorkers from the very communities these nonprofits serve. Second, the energy savings can be redirected back into those social services, meaningfully replacing operating budget and restoring resources to mission.
+
+This needs three things: a capital funding mechanism, a workforce training partner and a champion in this chamber. We are asking this committee to be that champion. Thank you
+
+**(02:06:24)**
+
+
+
+very much. Thank you. Between
+
+**(02:06:30)**
+
+
+
+Good afternoon. My name is Cindy Manzanares. I am the Chief Operating Officer of Green City Force. Green City Force runs an AmeriCorps program for young adults 16 to 24 who live in public housing and highly affordable housing, and we train them for careers in the green economy. Green City Force has proposed a New York City Climate Corps as a practical framework for linking ambitious climate goals with workforce development.
+
+Union construction careers are critical, but so are entry points in maintenance operations, stormwater management, urban agriculture, composting, clean energy building systems, energy efficiency, solar operations and resilience. Many of these apprenticeships, civil service, union pathways and good jobs... We would like to offer the following recommendations. Fund holistic green workforce pathways, not only technical training. City investments should include outreach, recruitment, paid service, mental health support, case management, professional development, sector exposure, technical training, placement and retention support.
+
+Prioritize NYCHA residents and frontline communities. Community hiring and place-based strategies should intentionally connect public climate investments to residents of communities facing the greatest burdens from heat, flooding, pollution and disinvestment. Fund bridge programs into apprenticeships, civil service and advanced training. Young adults need supported on-ramps that help them move from readiness and exposure into rigorous credentials, union pathways and full-time employment. Use public sites as workforce training sites. Schools, NYCHA campuses, City-owned buildings, public green infrastructure and resilience projects should include funded roles for community-based workforce partners. Track equity outcomes. The City should measure NYCHA resident participation, credential attainment, work hours and placement. Thank you.
+
+**(02:08:38)**
+
+
+
+Good afternoon. My name is Jack O. Douglas, Workforce Program Officer at Whole Foods, a 40-year-old workforce development organization in Hunts Point and Downtown Brooklyn. We train New Yorkers overcoming the steepest barriers — homelessness, domestic violence, long-term unemployment — especially from neighborhoods and communities facing compounding environmental harm. We prepare them for careers in green construction, building operations and maintenance, horticulture and cool roofs. We are a founding member of the Green Economy Network.
+
+New York City has a jobs problem and a climate problem. The solution to one can help solve the other, but only if you are intentional about whose jobs we mean. Green jobs have something essential going for them: they are here, they are accessible and they pay. They cannot be outsourced overseas. They do not require years of credentialing, and they are rooted in the same communities our participants come from. That is good climate policy and also a lifeline for New York City residents.
+
+The infrastructure for this work already exists in community-based organizations, workforce training providers and labor partnerships that have spent decades proving it out. We should be front and center in delivering this plan, not competing at the margins of large public contracts. Social enterprise is one powerful proof of that model. Social enterprises generate revenue, hire program graduates directly and meet real in-the-street demands all at once. It is a self-reinforcing cycle that does not depend on the next grant cycle. The City should be actively investing in this model.
+
+We also ask that every developer, property owner and contractor that benefits from City subsidy, tax incentives, capital funding or free services should be required to partner with and hire from community-based training programs — not as a suggestion, as a condition. The coalitions are organized. The people we serve are already here. The City has begun to lay the groundwork. Now it is time to go deeper. Thank you.
+
+**(02:10:54)**
+
+
+
+Short.
+
+**(02:10:54)**
+
+
+
+Good afternoon, chairs and members of the Committee. My name is Sofia Oliveira Richie and I am the Director of Development and Communications for the Andromeda Community Initiative. We are a nonprofit workforce development organization that provides free construction and reconstruction training to New Yorkers facing barriers to employment. Since our founding, we have trained more than 1,200 individuals for careers in the construction industry. This includes folks returning home from incarceration, experiencing homelessness, navigating long-term unemployment and underemployment, and living in chronic poverty. Through industry-recognized certifications, hands-on training and comprehensive workforce development services, we help participants access family-sustaining careers and long-term economic mobility.
+
+I am here today to highlight the critical role workforce development organizations play as New York City advances its energy efficiency, sustainability and climate goals. The demand for skilled workers who can support building retrofits, energy-efficient construction, electrification projects and climate-focused infrastructure continues to grow. Through a green training program developed with industry partners and aligned with emerging workforce needs, we are preparing New Yorkers with the technical knowledge and workplace readiness to enter these growing sectors sustainably.
+
+However, training alone is not enough. Workforce providers need stronger connections to employers, developers, labor partners and public sector projects to ensure that graduates can transition successfully. We currently have job-ready graduates who are eager to contribute to New York City's energy future, yet intentional hiring pathways are needed to connect trained workers to available opportunities. We encourage the City not only to continue investing in workforce development but also to expand dedicated funding for green construction and workforce training programs. We are already building the talent pipeline needed to support these objectives, but greater investment is needed to meet the scale of demand. We encourage the City to continue collecting, publishing and sharing current labor information relevant to the green economy, including projections, anticipated hiring needs, wage data and emerging industry trends. Thank you.
+
+**(02:13:06)**
+
+
+
+Again, thank you for the opportunity to testify. Thank you very much. Next up: Travis Proven, Michaela Crater and Stephen Levin from District Council. If anyone else is planning on testifying, please let the sergeant at arms know.
+
+**(02:13:41)**
+
+
+
+Thank you. Thank you. Chair Maloney, Chair Adrienne, good to see you. I am Travis Proven, Vice President for External Affairs at Fordham University. I have had the privilege of creating and ultimately launching what is going to be the Bronx Green Job Center, which you heard a little bit about today. This is a really important conversation right now, especially in light of the federal and state setbacks that you mentioned, Chair. Environmental justice is a moral imperative core to our Jesuit values at Fordham University, and for us the mission is deeply local. Our Rose Hill campus is anchored in a community that has historically faced some of the highest poverty rates in the nation, as well as borne the brunt of disproportionate and severe environmental harm.
+
+Growth is bypassing the Bronx and many of the communities in the outer boroughs. The disconnect is striking in the Bronx because we are the greenest borough, we are the youngest borough, and we have a legacy of community leaders who have driven citywide environmental action for decades. Yet the borough lags significantly in solar and electric vehicle infrastructure. Our community gardens remain constrained by lack of scaling and support. The real crisis, however, is the lack of investment in people.
+
+Fordham bears a responsibility to convene stakeholders around a shared vision and strategy for environmental justice. With the partnership and guidance of our collaborators, over the last year and a half we have developed a collaborative public-private blueprint known as the Bronx Green Job Center, which is a partner-based model across three key areas. The first is educational partners, bringing in CUNY and SUNY to join with us in the delivery of curriculum. The second is connecting to public agencies so that we ensure there are actual hiring pathways for trainees once they leave our program. The third is the community-based organizations that we know are trusted in the community to drive enrollment and provide the wraparound services that folks need to succeed.
+
+Within my testimony there are three specific areas that we identified as part of this process that we urge action on. One is implementing a citywide investment strategy that requires collaboration. Another is establishing a centralized workforce authority within the Mayor's Office. I would be happy to answer any additional questions that you have.
+
+**(02:15:59)**
+
+
+
+Good afternoon, Chairs Maloney and Juan. My name is Michaela Crater and I am speaking on behalf of the Southwest Brooklyn Industrial Development Corporation. Thank you, chairs and members of the committees, for the opportunity to share our thoughts. We have served industrial companies and workers of Sunset Park, Red Hook and Gowanus for over 40 years. Each year we provide direct technical assistance and advocacy to approximately 250 businesses, and since 2017 we have helped place over 2,000 New Yorkers in quality, family-sustaining jobs.
+
+Today we urge the committees to use their authority to ensure that the next chapter of the Green Economy Action Plan is implemented through the City's existing industrial infrastructure. The businesses that make, move and maintain New York must be part of this. To ensure climate solutions are homegrown, the City must build on existing industrial assets. Our partners across the five boroughs have block-by-block knowledge of industrial business areas built over decades. We help businesses navigate City agencies and utilities, address quality-of-life concerns, connect companies to workforce and training resources, and serve as the trusted intermediary when agencies need our help.
+
+Across our green economy programs, we have engaged more than 500 to 5,500 businesses and referred 140 businesses to offshore wind contractors. Seventy percent of those participating businesses are small businesses, and we have demonstrated that targeted industrial support can advance climate-inclusive economic development goals. We urgently encourage the committees to continue and expand green economy investments, modernize industrial financing and business support tools, and coordinate City policy around industrial implementation. New York City's industrial companies have operated through recessions, superstorms, pandemics and waves of displacement. The City should use this existing infrastructure to meet the climate challenge, create quality jobs and ensure that the green economy is built by and for New Yorkers. Thank you.
+
+**(02:18:02)**
+
+
+
+Good afternoon, Chairs Maloney and Juan. My name is Stephen Levin. I am with Adrienne, a nonprofit organization which focuses on addressing the climate crisis through K-to-12 environmental education, green workforce development, renewable energy technical assistance for affordable housing, and the stewardship of Stale Cove Park in CM Maloney's district, where we just opened our new Environmental Education Center. Our offices are in CM Maloney's district as well. In my own capacity, I have been honored to serve on the Green Economy Advisory Council for the last two years, which has helped to guide the beginning phase of the implementation of the Green Economy Action Plan.
+
+Members of the Advisory Council came to the process with the goal of increasing our understanding of the challenges and opportunities that the clean energy transition provides. As you can imagine, having first met in late 2024, the landscape for clean energy has been ever-shifting nationally since then, and not in a good way. The Trump administration's singular focus on thwarting renewable energy has been tragically self-defeating for our country, and it continues to set us back in our fight to save our futures every day. That said, I commend the City for continuing to focus on what we can do here in New York City, with projects like the Blue Highway Action Plan and advancing the plan for the Brooklyn Marine Terminal.
+
+In addition, the Advisory Council focused on an issue that is a core part of Solar One's mission: readying the green workforce of tomorrow with the skills that they need today. Along with our partner organizations who are or have been represented here today, like TC Solar, Adrienne has made great strides in the field of green workforce development. At our Long Island City Green Workforce Training Center, we have dedicated classrooms where we are teaching adults who are facing barriers to employment in green building operations and maintenance, green construction, plumbing, electrical, solar installation, building decarbonization, HVAC installation and maintenance. Each year we graduate around 800 individuals from our program, and each of those individuals carries with them approximately three professional certifications.
+
+There are many initiatives underway that you have heard about, but if I were to propose one City focus, it would be engaging with the universe of building management firms in a robust and sustained way with green workforce development providers. This would both ensure that the skills we are teaching in an ever-evolving environment are meeting the needs of employers, including with building automation technologies, and foster an ongoing partnership with green workforce providers and unions like Local 30 and Local 32 to ensure that there is a pipeline of candidates for the tens of thousands of jobs in New York City in the green economy over the next decades. Thank you very much.
+
+**(02:20:24)**
+
+
+
+Thank you for that testimony. Lastly, we have written testimony over Zoom. Vinnie Dong... met out... yeah.
+
+**(02:20:38)**
+
+
+
+Thank you. Good afternoon, Committee on Economic Development and Workforce Development. My name is Finney Thought and I am a current student at Princess School for the Sciences. I am here to testify about the Green Economy Action Plan. I was a student... it is essential that the City Council focuses on youth internships and jobs. Specifically, it is essential that New York City public schools be considered...
+
+**(02:21:12)**
+
+
+
+...sustainable, clean initiatives and implementing sustainability projects within the department. It is essential to sustain future-ready programs and expand these programs to all schools across public schools. As a student, we are the future of your city, and it is essential that student voice and student engagement are heard throughout this process. I am currently 15 years old, and in about 20 years, when I receive the full effect of the Green Economy Action Plan, I will be around my 30s. It is essential that the youth of today are considered, as the changes we make today need to assure that what we build is sustainable. That will be all. Thank you.
+
+**(02:22:09)**
+
+
+
+Thank you very much. There are two folks who registered but are unable to testify: Andy Ensign and Ramona Faria. That concludes our hearing. Thank you very much.
