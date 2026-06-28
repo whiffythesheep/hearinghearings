@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 62 of 62</span>
+            <span id="hearing-count" aria-live="polite">Showing 63 of 63</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -444,6 +444,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Economic Development", "Committee on Workforce Development"]'
+                data-title="Implementing the Green Economy Action Plan"
+                data-month="2026-06">
+                <a href="/hearings/committee-on-economic-development-implementing-the-green-economy-action-plan-2026-06-26/">
+                    <time class="hearing-row__date" datetime="2026-06-26">
+                        June 26, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Economic Development | Committee on Workforce Development</span>
+                    <span class="hearing-row__title">Implementing the Green Economy Action Plan</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1334,7 +1347,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 62;
+        var totalHearings = 63;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
