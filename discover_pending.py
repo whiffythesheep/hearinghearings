@@ -36,6 +36,7 @@ import logging
 import re
 import subprocess
 import sys
+import time
 from datetime import date, datetime
 from pathlib import Path
 
@@ -59,6 +60,19 @@ BODY_SKIP_PATTERNS = ("stated meeting", "executive session")
 VOTE_EM_PREFIX = "VOTE"
 
 MIN_DURATION_SECONDS = 60 * 60  # 1 hour
+
+# The `anthropic` SDK's native `jiter` dependency is intermittently blocked at
+# import time by a Windows Application Control (Smart App Control / WDAC)
+# policy. The block is transient — a re-run seconds later succeeds — but it
+# aborts the pipeline before any work, so the nightly run would otherwise
+# silently drop the hearing. Retry only on this signature; genuine pipeline
+# failures must not be retried (a full re-run is expensive).
+IMPORT_FAILURE_SIGNATURES = (
+    "DLL load failed while importing",
+    "Application Control policy has blocked",
+)
+PIPELINE_IMPORT_RETRIES = 2  # extra attempts after the first (3 total)
+PIPELINE_RETRY_DELAY_SECONDS = 5
 
 logging.basicConfig(
     level=logging.INFO,
@@ -293,12 +307,51 @@ def should_skip(event: dict) -> str | None:
 # --- pipeline drive -----------------------------------------------------
 
 
-def run_pipeline(legistar_url: str) -> bool:
-    """Invoke summarize_council_meeting.py for one event.
+def _run_pipeline_once(cmd: list[str]) -> tuple[int, str]:
+    """Run the pipeline once, streaming combined output live while capturing it.
 
     Pipes ``y\\n`` to stdin so the optional agenda/video mismatch prompt
     auto-accepts — the YouTube resolver already gates on a Jaccard
     score and only the rare false positive trips that prompt.
+
+    The summarizer logs progress to stderr, so we merge stderr into stdout
+    and tee each line to our own stderr (preserving live progress in
+    discover.log) while buffering it for import-failure signature matching.
+    Returns ``(returncode, combined_output)``.
+    """
+    proc = subprocess.Popen(
+        cmd, cwd=REPO_ROOT, text=True,
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+    )
+    # Pre-answer the single-line mismatch prompt (if any) and close stdin.
+    try:
+        assert proc.stdin is not None
+        proc.stdin.write("y\n")
+        proc.stdin.close()
+    except (BrokenPipeError, OSError):
+        pass
+    captured: list[str] = []
+    assert proc.stdout is not None
+    for line in proc.stdout:
+        sys.stderr.write(line)
+        captured.append(line)
+    proc.wait()
+    return proc.returncode, "".join(captured)
+
+
+def _is_import_failure(output: str) -> bool:
+    """True when the pipeline aborted on the transient jiter/AppControl block."""
+    return any(sig in output for sig in IMPORT_FAILURE_SIGNATURES)
+
+
+def run_pipeline(legistar_url: str) -> bool:
+    """Invoke summarize_council_meeting.py for one event.
+
+    Retries only when the run aborts on the transient jiter/AppControl DLL
+    block at import time (see IMPORT_FAILURE_SIGNATURES); any other nonzero
+    exit is a real failure and returned immediately.
     """
     cmd = [
         sys.executable, str(SUMMARIZER_PY),
@@ -306,13 +359,31 @@ def run_pipeline(legistar_url: str) -> bool:
         "--no-deploy",
     ]
     logger.info("Running pipeline: %s", " ".join(cmd[1:]))
-    res = subprocess.run(
-        cmd, cwd=REPO_ROOT, input="y\n", text=True,
-    )
-    if res.returncode != 0:
-        logger.error("Pipeline exited with code %s", res.returncode)
+    attempts = 1 + PIPELINE_IMPORT_RETRIES
+    for attempt in range(1, attempts + 1):
+        rc, output = _run_pipeline_once(cmd)
+        if rc == 0:
+            return True
+        if _is_import_failure(output) and attempt < attempts:
+            logger.warning(
+                "Pipeline aborted at import on attempt %d/%d (transient "
+                "jiter/AppControl DLL block); retrying in %ds.",
+                attempt, attempts, PIPELINE_RETRY_DELAY_SECONDS,
+            )
+            time.sleep(PIPELINE_RETRY_DELAY_SECONDS)
+            continue
+        if _is_import_failure(output):
+            logger.error(
+                "Pipeline STILL failing at import after %d attempts "
+                "(jiter/AppControl DLL block). Hearing dropped — a manual "
+                "re-run usually succeeds. Consider allowlisting the jiter "
+                ".pyd in the Application Control policy.",
+                attempts,
+            )
+        else:
+            logger.error("Pipeline exited with code %s", rc)
         return False
-    return True
+    return False
 
 
 def build_site() -> bool:
