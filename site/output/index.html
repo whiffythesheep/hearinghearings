@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 63 of 63</span>
+            <span id="hearing-count" aria-live="polite">Showing 64 of 64</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -255,6 +255,11 @@
                     </button>
                     <div class="colheader-filter__popover" role="group" aria-label="Filter by committee" hidden>
                         <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="City Council">
+                            <span>City Council</span>
+                        </label>
                     
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="Committee on Aging">
@@ -444,6 +449,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["City Council"]'
+                data-title="FY 2027 Budget Adoption"
+                data-month="2026-06">
+                <a href="/hearings/city-council-fy-2027-budget-adoption-2026-06-30/">
+                    <time class="hearing-row__date" datetime="2026-06-30">
+                        June 30, 2026
+                    </time>
+                    <span class="hearing-row__committee">City Council</span>
+                    <span class="hearing-row__title">FY 2027 Budget Adoption</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1347,7 +1365,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 63;
+        var totalHearings = 64;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
