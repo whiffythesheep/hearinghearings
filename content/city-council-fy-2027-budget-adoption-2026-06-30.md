@@ -105,7 +105,6 @@ Majority Leader, it is all yours. Good afternoon and welcome to the Stated Meeti
 
 Aldebol here. Ariola. Avilés. Banks here. Brewer. Brooks-Powers present. Cabán present. De La Rosa here. Dinowitz here. Encarnación present. Epstein present. Farías present. Felder. Feliz here. Gennaro here. Ariola present. Gutiérrez. Hanif here. Hankerson here. Hanks present. Hudson present. Joseph here. Krishnan here. Lee here. Louis present. Maloney present. Marte present. Mealy. Morano here. Narcisse present. Nurse. Ossé here. Paladino here. Restler here. Riley present. Salaam present. Sanchez. Justin Sanchez. Santosuosso here. Schulman here. Stevens here. Thomas-Henry present. Ung present. Vernikov. Williams present. Wilson here. Won here. Wong here. Brooks-Powers. Carr present. Held here. Zhuang here. Speaker Menin.
 
-### 6.
 Approved with Modifications and Referred to the City Planning
 
 **(00:05:05)**
@@ -460,11 +459,8 @@ Thank you, colleagues. Today I am proud to bring several street namings to a vot
 
 Thank you. CM Thomas-Henry, followed by CM Won.
 
-### V. Lawrence Way, Borough of Queens, Honorable Jimmy
 
-### V. Lawrence Way, Borough of Queens, Honorable Jimmy
 
-### V. Lawrence Way, Borough of Queens, Honorable Jimmy
 
 **(00:53:58)**
 
