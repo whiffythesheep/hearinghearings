@@ -2,3 +2,4 @@
 # "#" starts a comment. See skiplisted_event_ids() in discover_pending.py.
 1415407  # Finance Executive Budget Hearing 2026-06-10 — 12.5hr public testimony day, not publishing (PR #13 closed)
 1415372  # Public Housing + Finance Executive Budget 2026-06-02 — duplicate Viebit re-upload ("- join" suffix) of already-published joint hearing (event 1415370)
+1423288  # Zoning & Franchises 2026-07-01 — four private spot rezonings (Ocean Queen Coney Island etc.); not publishing, will cover at later decisive hearings a la Monitor Point
