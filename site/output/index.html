@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 65 of 65</span>
+            <span id="hearing-count" aria-live="polite">Showing 66 of 66</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -454,6 +454,19 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation"]'
+                data-title="Local Law to Amend the New York City Charter and the Administrative Code of the City of New York, in Relation to Compensation of the Mayor, Public Advocate, Members of the City Council, Borough Presidents, Comptroller, and District Attorneys"
+                data-month="2026-07">
+                <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-local-law-to-amend-the-new-york-city-2026-07-07/">
+                    <time class="hearing-row__date" datetime="2026-07-07">
+                        July 7, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Governmental Operations, State &amp; Federal Legislation</span>
+                    <span class="hearing-row__title">Local Law to Amend the New York City Charter and the Administrative Code of the City of New York, in Relation to Compensation of the Mayor, Public Advocate, Members of the City Council, Borough Presidents, Comptroller, and District Attorneys</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1383,7 +1396,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 65;
+        var totalHearings = 66;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
