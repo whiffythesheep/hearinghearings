@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Finance"
+committee: "Committee on Finance | Committee on Housing and Buildings"
 committee_slug: committee-on-finance
 title: "Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing"
 date: 2026-07-15
@@ -8,7 +8,7 @@ duration: "3hrs 22m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260715-131259.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1427736&GUID=7D9A6E1D-B212-49CE-8C74-01BB06C71AD9&Search="
-chairs: "Linda Lee"
+chairs: "Linda Lee | Pierina Ana Sanchez"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
 ---
 
