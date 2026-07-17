@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 67 of 67</span>
+            <span id="hearing-count" aria-live="polite">Showing 68 of 68</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -466,6 +466,19 @@
                     </time>
                     <span class="hearing-row__committee">Committee on Finance | Committee on Housing and Buildings</span>
                     <span class="hearing-row__title">Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Health"]'
+                data-title="Local Law to Prohibit the Operation of Horse Drawn Cabs"
+                data-month="2026-07">
+                <a href="/hearings/committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cabs-2026-07-15/">
+                    <time class="hearing-row__date" datetime="2026-07-15">
+                        July 15, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Health</span>
+                    <span class="hearing-row__title">Local Law to Prohibit the Operation of Horse Drawn Cabs</span>
                 </a>
             </li>
         
@@ -1409,7 +1422,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 67;
+        var totalHearings = 68;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
