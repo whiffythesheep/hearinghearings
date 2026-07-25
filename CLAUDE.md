@@ -111,7 +111,19 @@ It prints a `CHANGED District N: old -> new` line for any seat that moved, so sp
 
 `validate_member_names()` in `summarize_council_meeting.py` runs inside `publish_to_website()` on every run (including `--no-deploy`, so the nightly discover flow gets it). It scans the finished markdown for title-prefixed names — `CM X`, `Chair X`, `Council Members A, B and C`, `Speaker X` — and logs a WARNING for any not on the roster.
 
-It is **advisory, never blocking**: witnesses, agency staff, state officials and genuinely former members all legitimately appear with a title. Expect ~1–2 flags per hearing. When one fires, check the name against the **district numbers printed in the agenda PDF** (authoritative — the transcript is not), and confirm what was actually said in `Input/<meeting>.json` → `raw_segments`. Then add a correction to `word_bank.json`, keeping it **prefixed** (`"Speaker Menon"`, not bare `"Menon"`) — bare surnames over-match, and "phenomenon" contains "menon".
+**The roster also feeds chair lookup.** `build_committee_chair_lookup()` resolves co-committee chairs on joint hearings (agendas only name the *lead* committee's chair) from three layers, lowest precedence first:
+
+1. `council_roster.json` — every committee and subcommittee, broad coverage.
+2. This archive's own `content/*.md` front matter — agenda-derived, so it preserves the name forms used elsewhere on the site (middle initials: "Rita C. Joseph", not the roster's "Rita Joseph"). Wins over the roster for that reason.
+3. `committee_chairs_supplement.json` — manual overrides, highest precedence.
+
+Keys are matched through `normalize_committee_name()` (folds case, spells out `&`, drops punctuation), because agendas write "Committee on Oversight **&** Investigations" while council.nyc.gov writes "**and**" — an exact-match lookup silently missed it.
+
+Since layer 1 landed (2026-07-25) the supplement is a **pure override file and is empty**. Its five entries were verified redundant — removing them changed no lookup result — and adding the roster layer filled in 6 previously-blank co-committee chairs across published hearings. Only add to it to override what the roster and archive already produce.
+
+**`chairs` is positional** — slot *i* corresponds to committee *i* in the pipe-delimited `committee` field. A chair in the wrong slot is a real bug; the roster makes it detectable (one was found and fixed on 2026-07-25, where Finance's chair sat in the Consumer and Worker Protection slot).
+
+The name validator is **advisory, never blocking**: witnesses, agency staff, state officials and genuinely former members all legitimately appear with a title. Expect ~1–2 flags per hearing. When one fires, check the name against the **district numbers printed in the agenda PDF** (authoritative — the transcript is not), and confirm what was actually said in `Input/<meeting>.json` → `raw_segments`. Then add a correction to `word_bank.json`, keeping it **prefixed** (`"Speaker Menon"`, not bare `"Menon"`) — bare surnames over-match, and "phenomenon" contains "menon".
 
 ### Config constants (top of `summarize_council_meeting.py`)
 - `ANTHROPIC_MODEL`
