@@ -15,3 +15,7 @@ weekly_digests/
 # Local X/Twitter brand assets (HTML sources for the gitignored PNGs)
 /cover.html
 /profile.html
+
+# Claude Code local state (machine-specific: session ids, pids)
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
