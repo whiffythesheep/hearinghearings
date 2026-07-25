@@ -1,0 +1,818 @@
+{
+  "scraped_at": "2026-07-25",
+  "sources": {
+    "districts": "https://council.nyc.gov/districts/",
+    "committees": "https://council.nyc.gov/committees/"
+  },
+  "districts": {
+    "1": {
+      "name": "Christopher Marte",
+      "role": null
+    },
+    "2": {
+      "name": "Harvey Epstein",
+      "role": null
+    },
+    "3": {
+      "name": "Carl Wilson",
+      "role": null
+    },
+    "4": {
+      "name": "Virginia Maloney",
+      "role": null
+    },
+    "5": {
+      "name": "Julie Menin",
+      "role": "Speaker"
+    },
+    "6": {
+      "name": "Gale A. Brewer",
+      "role": null
+    },
+    "7": {
+      "name": "Shaun Abreu",
+      "role": "Majority Leader"
+    },
+    "8": {
+      "name": "Elsie Encarnacion",
+      "role": null
+    },
+    "9": {
+      "name": "Yusef Salaam",
+      "role": null
+    },
+    "10": {
+      "name": "Carmen De La Rosa",
+      "role": null
+    },
+    "11": {
+      "name": "Eric Dinowitz",
+      "role": null
+    },
+    "12": {
+      "name": "Kevin C. Riley",
+      "role": null
+    },
+    "13": {
+      "name": "Shirley Aldebol",
+      "role": null
+    },
+    "14": {
+      "name": "Pierina Ana Sanchez",
+      "role": null
+    },
+    "15": {
+      "name": "Oswald Feliz",
+      "role": null
+    },
+    "16": {
+      "name": "Althea Stevens",
+      "role": null
+    },
+    "17": {
+      "name": "Justin Sanchez",
+      "role": null
+    },
+    "18": {
+      "name": "Amanda Farías",
+      "role": null
+    },
+    "19": {
+      "name": "Vickie Paladino",
+      "role": null
+    },
+    "20": {
+      "name": "Sandra Ung",
+      "role": null
+    },
+    "21": {
+      "name": "Shanel Thomas-Henry",
+      "role": null
+    },
+    "22": {
+      "name": "Tiffany Cabán",
+      "role": null
+    },
+    "23": {
+      "name": "Linda Lee",
+      "role": null
+    },
+    "24": {
+      "name": "James F. Gennaro",
+      "role": null
+    },
+    "25": {
+      "name": "Shekar Krishnan",
+      "role": null
+    },
+    "26": {
+      "name": "Julie Won",
+      "role": null
+    },
+    "27": {
+      "name": "Nantasha Williams",
+      "role": "Deputy Speaker"
+    },
+    "28": {
+      "name": "Ty Hankerson",
+      "role": null
+    },
+    "29": {
+      "name": "Lynn Schulman",
+      "role": null
+    },
+    "30": {
+      "name": "Phil Wong",
+      "role": null
+    },
+    "31": {
+      "name": "Selvena N. Brooks-Powers",
+      "role": null
+    },
+    "32": {
+      "name": "Joann Ariola",
+      "role": null
+    },
+    "33": {
+      "name": "Lincoln Restler",
+      "role": null
+    },
+    "34": {
+      "name": "Jennifer Gutiérrez",
+      "role": null
+    },
+    "35": {
+      "name": "Crystal Hudson",
+      "role": null
+    },
+    "36": {
+      "name": "Chi Ossé",
+      "role": null
+    },
+    "37": {
+      "name": "Sandy Nurse",
+      "role": null
+    },
+    "38": {
+      "name": "Alexa Avilés",
+      "role": null
+    },
+    "39": {
+      "name": "Shahana Hanif",
+      "role": null
+    },
+    "40": {
+      "name": "Rita Joseph",
+      "role": null
+    },
+    "41": {
+      "name": "Darlene Mealy",
+      "role": null
+    },
+    "42": {
+      "name": "Chris Banks",
+      "role": null
+    },
+    "43": {
+      "name": "Susan Zhuang",
+      "role": null
+    },
+    "44": {
+      "name": "Simcha Felder",
+      "role": null
+    },
+    "45": {
+      "name": "Farah N. Louis",
+      "role": null
+    },
+    "46": {
+      "name": "Mercedes Narcisse",
+      "role": null
+    },
+    "47": {
+      "name": "Kayla Santosuosso",
+      "role": null
+    },
+    "48": {
+      "name": "Inna Vernikov",
+      "role": "Minority Whip"
+    },
+    "49": {
+      "name": "Kamillah M. Hanks",
+      "role": "Majority Whip"
+    },
+    "50": {
+      "name": "David Carr",
+      "role": "Minority Leader"
+    },
+    "51": {
+      "name": "Frank Morano",
+      "role": null
+    }
+  },
+  "members": [
+    "Alexa Avilés",
+    "Althea Stevens",
+    "Amanda Farías",
+    "Carl Wilson",
+    "Carmen De La Rosa",
+    "Chi Ossé",
+    "Chris Banks",
+    "Christopher Marte",
+    "Crystal Hudson",
+    "Darlene Mealy",
+    "David Carr",
+    "Elsie Encarnacion",
+    "Eric Dinowitz",
+    "Farah N. Louis",
+    "Frank Morano",
+    "Gale A. Brewer",
+    "Harvey Epstein",
+    "Inna Vernikov",
+    "James F. Gennaro",
+    "Jennifer Gutiérrez",
+    "Joann Ariola",
+    "Julie Menin",
+    "Julie Won",
+    "Justin Sanchez",
+    "Kamillah M. Hanks",
+    "Kayla Santosuosso",
+    "Kevin C. Riley",
+    "Lincoln Restler",
+    "Linda Lee",
+    "Lynn Schulman",
+    "Mercedes Narcisse",
+    "Nantasha Williams",
+    "Oswald Feliz",
+    "Phil Wong",
+    "Pierina Ana Sanchez",
+    "Rita Joseph",
+    "Sandra Ung",
+    "Sandy Nurse",
+    "Selvena N. Brooks-Powers",
+    "Shahana Hanif",
+    "Shanel Thomas-Henry",
+    "Shaun Abreu",
+    "Shekar Krishnan",
+    "Shirley Aldebol",
+    "Simcha Felder",
+    "Susan Zhuang",
+    "Tiffany Cabán",
+    "Ty Hankerson",
+    "Vickie Paladino",
+    "Virginia Maloney",
+    "Yusef Salaam"
+  ],
+  "committees": {
+    "Committee on Aging": {
+      "chair": "Susan Zhuang",
+      "members": [
+        "Susan Zhuang",
+        "Gale A. Brewer",
+        "Eric Dinowitz",
+        "Shirley Aldebol",
+        "Lynn Schulman",
+        "Crystal Hudson",
+        "Darlene Mealy"
+      ],
+      "url": "https://council.nyc.gov/committees/aging/"
+    },
+    "Committee on Children and Youth": {
+      "chair": "Althea Stevens",
+      "members": [
+        "Nantasha Williams",
+        "Althea Stevens",
+        "Chi Ossé",
+        "Rita Joseph",
+        "Simcha Felder"
+      ],
+      "url": "https://council.nyc.gov/committees/children-and-youth/"
+    },
+    "Committee on Civil Service and Labor": {
+      "chair": "Shirley Aldebol",
+      "members": [
+        "Shirley Aldebol",
+        "Tiffany Cabán",
+        "James F. Gennaro",
+        "Ty Hankerson",
+        "Crystal Hudson",
+        "Mercedes Narcisse",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/civil-service-and-labor/"
+    },
+    "Committee on Civil and Human Rights": {
+      "chair": "Sandy Nurse",
+      "members": [
+        "Sandy Nurse",
+        "Shaun Abreu",
+        "Oswald Feliz",
+        "Althea Stevens",
+        "Shahana Hanif"
+      ],
+      "url": "https://council.nyc.gov/committees/civil-and-human-rights/"
+    },
+    "Committee on Consumer and Worker Protection": {
+      "chair": "Harvey Epstein",
+      "members": [
+        "Harvey Epstein",
+        "Carl Wilson",
+        "Gale A. Brewer",
+        "Carmen De La Rosa",
+        "Shirley Aldebol",
+        "Shekar Krishnan",
+        "Lynn Schulman",
+        "Joann Ariola",
+        "Chi Ossé",
+        "Chris Banks",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/consumer-and-worker-protection/"
+    },
+    "Committee on Contracts": {
+      "chair": "Lincoln Restler",
+      "members": [
+        "Lincoln Restler",
+        "Gale A. Brewer",
+        "Althea Stevens",
+        "James F. Gennaro",
+        "Julie Won",
+        "Inna Vernikov",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/contracts/"
+    },
+    "Committee on Criminal Justice": {
+      "chair": "Selvena N. Brooks-Powers",
+      "members": [
+        "Selvena N. Brooks-Powers",
+        "Gale A. Brewer",
+        "Yusef Salaam",
+        "Oswald Feliz",
+        "Tiffany Cabán",
+        "Mercedes Narcisse",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/criminal-justice/"
+    },
+    "Committee on Cultural Affairs, Libraries and International Relations": {
+      "chair": "Nantasha Williams",
+      "members": [
+        "Nantasha Williams",
+        "Virginia Maloney",
+        "Althea Stevens",
+        "Sandra Ung",
+        "Crystal Hudson",
+        "Chi Ossé",
+        "Farah N. Louis"
+      ],
+      "url": "https://council.nyc.gov/committees/cultural-affairs-libraries-and-international-relations/"
+    },
+    "Committee on Disabilities": {
+      "chair": "Shahana Hanif",
+      "members": [
+        "Shahana Hanif",
+        "Harvey Epstein",
+        "Tiffany Cabán",
+        "Sandy Nurse",
+        "Rita Joseph"
+      ],
+      "url": "https://council.nyc.gov/committees/disabilities/"
+    },
+    "Committee on Economic Development": {
+      "chair": "Virginia Maloney",
+      "members": [
+        "Virginia Maloney",
+        "Kevin C. Riley",
+        "Amanda Farías",
+        "Shanel Thomas-Henry",
+        "Jennifer Gutiérrez",
+        "Alexa Avilés",
+        "Chris Banks"
+      ],
+      "url": "https://council.nyc.gov/committees/economic-development/"
+    },
+    "Committee on Education": {
+      "chair": "Eric Dinowitz",
+      "members": [
+        "Eric Dinowitz",
+        "Gale A. Brewer",
+        "Carmen De La Rosa",
+        "Amanda Farías",
+        "Linda Lee",
+        "Shekar Krishnan",
+        "Lynn Schulman",
+        "Phil Wong",
+        "Jennifer Gutiérrez",
+        "Rita Joseph",
+        "Susan Zhuang",
+        "Farah N. Louis",
+        "Mercedes Narcisse"
+      ],
+      "url": "https://council.nyc.gov/committees/education/"
+    },
+    "Committee on Environmental Protection and Waterfronts": {
+      "chair": "James F. Gennaro",
+      "members": [
+        "James F. Gennaro",
+        "Harvey Epstein",
+        "Justin Sanchez",
+        "Lincoln Restler",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/environmental-protection-and-waterfronts/"
+    },
+    "Committee on Finance": {
+      "chair": "Linda Lee",
+      "members": [
+        "Nantasha Williams",
+        "Linda Lee",
+        "Christopher Marte",
+        "Virginia Maloney",
+        "Shaun Abreu",
+        "Shirley Aldebol",
+        "Oswald Feliz",
+        "Justin Sanchez",
+        "James F. Gennaro",
+        "Phil Wong",
+        "Selvena N. Brooks-Powers",
+        "Lincoln Restler",
+        "Crystal Hudson",
+        "Alexa Avilés",
+        "Darlene Mealy",
+        "Mercedes Narcisse",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/finance/"
+    },
+    "Committee on Fire and Emergency Management": {
+      "chair": "Joann Ariola",
+      "members": [
+        "Joann Ariola",
+        "Virginia Maloney",
+        "Carmen De La Rosa",
+        "Pierina Ana Sanchez",
+        "Vickie Paladino",
+        "Lynn Schulman",
+        "Phil Wong"
+      ],
+      "url": "https://council.nyc.gov/committees/fire-and-emergency-management/"
+    },
+    "Committee on General Welfare": {
+      "chair": "Crystal Hudson",
+      "members": [
+        "Crystal Hudson",
+        "Carl Wilson",
+        "Sandra Ung",
+        "Sandy Nurse",
+        "Alexa Avilés",
+        "Darlene Mealy",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/general-welfare/"
+    },
+    "Committee on Governmental Operations, State & Federal Legislation": {
+      "chair": "Gale A. Brewer",
+      "members": [
+        "Gale A. Brewer",
+        "Carl Wilson",
+        "Eric Dinowitz",
+        "Oswald Feliz",
+        "Althea Stevens",
+        "Susan Zhuang",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/governmental-operations/"
+    },
+    "Committee on Health": {
+      "chair": "Lynn Schulman",
+      "members": [
+        "Lynn Schulman",
+        "Christopher Marte",
+        "Harvey Epstein",
+        "Carl Wilson",
+        "Carmen De La Rosa",
+        "James F. Gennaro",
+        "Joann Ariola",
+        "Simcha Felder",
+        "Mercedes Narcisse"
+      ],
+      "url": "https://council.nyc.gov/committees/health/"
+    },
+    "Committee on Higher Education": {
+      "chair": "Rita Joseph",
+      "members": [
+        "Rita Joseph",
+        "Harvey Epstein",
+        "Carl Wilson",
+        "Virginia Maloney",
+        "Eric Dinowitz",
+        "Joann Ariola",
+        "Lincoln Restler"
+      ],
+      "url": "https://council.nyc.gov/committees/higher-education/"
+    },
+    "Committee on Hospitals": {
+      "chair": "Mercedes Narcisse",
+      "members": [
+        "Mercedes Narcisse",
+        "Harvey Epstein",
+        "Shirley Aldebol",
+        "Pierina Ana Sanchez",
+        "Amanda Farías",
+        "Selvena N. Brooks-Powers",
+        "Jennifer Gutiérrez"
+      ],
+      "url": "https://council.nyc.gov/committees/hospitals/"
+    },
+    "Committee on Housing and Buildings": {
+      "chair": "Pierina Ana Sanchez",
+      "members": [
+        "Nantasha Williams",
+        "Pierina Ana Sanchez",
+        "Carl Wilson",
+        "Virginia Maloney",
+        "Shaun Abreu",
+        "Yusef Salaam",
+        "Kevin C. Riley",
+        "Oswald Feliz",
+        "Crystal Hudson",
+        "Rita Joseph",
+        "Susan Zhuang"
+      ],
+      "url": "https://council.nyc.gov/committees/housing-and-buildings/"
+    },
+    "Committee on Immigration": {
+      "chair": "Elsie Encarnacion",
+      "members": [
+        "Elsie Encarnacion",
+        "Gale A. Brewer",
+        "Alexa Avilés",
+        "Rita Joseph",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/immigration/"
+    },
+    "Committee on Land Use": {
+      "chair": "Kevin C. Riley",
+      "members": [
+        "Kevin C. Riley",
+        "Shaun Abreu",
+        "Elsie Encarnacion",
+        "Yusef Salaam",
+        "Justin Sanchez",
+        "Shanel Thomas-Henry",
+        "Tiffany Cabán",
+        "Selvena N. Brooks-Powers",
+        "Chi Ossé",
+        "Chris Banks",
+        "Susan Zhuang",
+        "Farah N. Louis",
+        "David Carr"
+      ],
+      "url": "https://council.nyc.gov/committees/land-use/"
+    },
+    "Committee on Mental Health and Substance Use": {
+      "chair": "Tiffany Cabán",
+      "members": [
+        "Tiffany Cabán",
+        "Carl Wilson",
+        "Shirley Aldebol",
+        "Linda Lee",
+        "Ty Hankerson",
+        "Joann Ariola",
+        "Simcha Felder"
+      ],
+      "url": "https://council.nyc.gov/committees/mental-health-and-addictions/"
+    },
+    "Committee on Oversight and Investigations": {
+      "chair": "Shekar Krishnan",
+      "members": [
+        "Nantasha Williams",
+        "Shekar Krishnan",
+        "Kevin C. Riley",
+        "Sandra Ung",
+        "Linda Lee",
+        "Susan Zhuang",
+        "David Carr"
+      ],
+      "url": "https://council.nyc.gov/committees/oversight-and-investigation/"
+    },
+    "Committee on Parks and Recreation": {
+      "chair": "Ty Hankerson",
+      "members": [
+        "Ty Hankerson",
+        "Christopher Marte",
+        "Yusef Salaam",
+        "Pierina Ana Sanchez",
+        "Sandra Ung",
+        "Linda Lee",
+        "Shekar Krishnan",
+        "Sandy Nurse",
+        "Mercedes Narcisse",
+        "Kayla Santosuosso",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/parks-and-recreation/"
+    },
+    "Committee on Public Housing": {
+      "chair": "Chris Banks",
+      "members": [
+        "Chris Banks",
+        "Christopher Marte",
+        "Elsie Encarnacion",
+        "Julie Won",
+        "Lincoln Restler",
+        "Chi Ossé",
+        "Darlene Mealy"
+      ],
+      "url": "https://council.nyc.gov/committees/public-housing/"
+    },
+    "Committee on Public Safety": {
+      "chair": "Oswald Feliz",
+      "members": [
+        "Oswald Feliz",
+        "Justin Sanchez",
+        "Ty Hankerson",
+        "Phil Wong",
+        "Joann Ariola",
+        "Jennifer Gutiérrez",
+        "Sandy Nurse",
+        "Chris Banks",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/public-safety/"
+    },
+    "Committee on Rules, Privileges, Elections, Standards and Ethics": {
+      "chair": "Sandra Ung",
+      "members": [
+        "Nantasha Williams",
+        "Sandra Ung",
+        "Shaun Abreu",
+        "Elsie Encarnacion",
+        "Kevin C. Riley",
+        "Linda Lee",
+        "Shekar Krishnan",
+        "Chris Banks",
+        "David Carr"
+      ],
+      "url": "https://council.nyc.gov/committees/rules-privileges-standards-ethics-and-elections/"
+    },
+    "Committee on Sanitation and Solid Waste Management": {
+      "chair": "Justin Sanchez",
+      "members": [
+        "Justin Sanchez",
+        "Carl Wilson",
+        "Virginia Maloney",
+        "Sandra Ung",
+        "Shanel Thomas-Henry",
+        "Ty Hankerson",
+        "Shahana Hanif",
+        "Susan Zhuang",
+        "Farah N. Louis",
+        "Kayla Santosuosso",
+        "Inna Vernikov"
+      ],
+      "url": "https://council.nyc.gov/committees/sanitation-and-solid-waste-management/"
+    },
+    "Committee on Small Business": {
+      "chair": "Shanel Thomas-Henry",
+      "members": [
+        "Shanel Thomas-Henry",
+        "Virginia Maloney",
+        "Yusef Salaam",
+        "Selvena N. Brooks-Powers",
+        "Shahana Hanif",
+        "Kayla Santosuosso",
+        "Frank Morano"
+      ],
+      "url": "https://council.nyc.gov/committees/small-business/"
+    },
+    "Committee on Technology": {
+      "chair": "Carmen De La Rosa",
+      "members": [
+        "Carmen De La Rosa",
+        "Kevin C. Riley",
+        "Julie Won",
+        "Jennifer Gutiérrez",
+        "Shahana Hanif"
+      ],
+      "url": "https://council.nyc.gov/committees/technology/"
+    },
+    "Committee on Transportation and Infrastructure": {
+      "chair": "Shaun Abreu",
+      "members": [
+        "Shaun Abreu",
+        "Christopher Marte",
+        "Eric Dinowitz",
+        "Pierina Ana Sanchez",
+        "Justin Sanchez",
+        "Shekar Krishnan",
+        "Julie Won",
+        "Phil Wong",
+        "Selvena N. Brooks-Powers",
+        "Shahana Hanif",
+        "Farah N. Louis"
+      ],
+      "url": "https://council.nyc.gov/committees/transportation/"
+    },
+    "Committee on Veterans": {
+      "chair": "Frank Morano",
+      "members": [
+        "Frank Morano",
+        "Carmen De La Rosa",
+        "Vickie Paladino",
+        "James F. Gennaro",
+        "Phil Wong"
+      ],
+      "url": "https://council.nyc.gov/committees/veterans/"
+    },
+    "Committee on Women and Gender Equity": {
+      "chair": "Amanda Farías",
+      "members": [
+        "Amanda Farías",
+        "Shirley Aldebol",
+        "Lynn Schulman",
+        "Jennifer Gutiérrez",
+        "Kayla Santosuosso"
+      ],
+      "url": "https://council.nyc.gov/committees/women-and-gender-equality/"
+    },
+    "Committee on Workforce Development": {
+      "chair": "Julie Won",
+      "members": [
+        "Julie Won",
+        "Harvey Epstein",
+        "Tiffany Cabán",
+        "Phil Wong",
+        "Shahana Hanif"
+      ],
+      "url": "https://council.nyc.gov/committees/committee-on-workforce-development/"
+    },
+    "Committee to Combat Hate": {
+      "chair": "Yusef Salaam",
+      "members": [
+        "Yusef Salaam",
+        "Carl Wilson",
+        "Pierina Ana Sanchez",
+        "Shekar Krishnan",
+        "Julie Won",
+        "Lynn Schulman",
+        "Darlene Mealy"
+      ],
+      "url": "https://council.nyc.gov/committees/combat-hate/"
+    },
+    "Subcommittee on Early Childhood Education": {
+      "chair": "Jennifer Gutiérrez",
+      "members": [
+        "Jennifer Gutiérrez",
+        "Gale A. Brewer",
+        "Kevin C. Riley",
+        "Julie Won",
+        "Rita Joseph",
+        "Simcha Felder",
+        "Kayla Santosuosso"
+      ],
+      "url": "https://council.nyc.gov/committees/education/subcommittee-on-early-childhood-education/"
+    },
+    "Subcommittee on Landmarks, Public Sitings, Resiliency, and Dispositions": {
+      "chair": "Christopher Marte",
+      "members": [
+        "Christopher Marte",
+        "Oswald Feliz",
+        "Shanel Thomas-Henry",
+        "Chi Ossé",
+        "Sandy Nurse",
+        "Alexa Avilés",
+        "Kamillah M. Hanks"
+      ],
+      "url": "https://council.nyc.gov/committees/land-use/subcommittee-on-landmarks-public-siting-resiliency-and-dispositions/"
+    },
+    "Subcommittee on Senior Centers and Food Security": {
+      "chair": "Darlene Mealy",
+      "members": [
+        "Darlene Mealy",
+        "Harvey Epstein",
+        "Gale A. Brewer",
+        "Shanel Thomas-Henry",
+        "James F. Gennaro"
+      ],
+      "url": "https://council.nyc.gov/committees/aging/subcommittee-on-senior-centers-and-food-security/"
+    },
+    "Subcommittee on Zoning and Franchises": {
+      "chair": "Farah N. Louis",
+      "members": [
+        "Farah N. Louis",
+        "Elsie Encarnacion",
+        "Yusef Salaam",
+        "Justin Sanchez",
+        "Amanda Farías",
+        "Shanel Thomas-Henry",
+        "Lynn Schulman",
+        "Simcha Felder",
+        "David Carr"
+      ],
+      "url": "https://council.nyc.gov/committees/land-use/subcommittee-on-zoning-and-franchises/"
+    }
+  }
+}

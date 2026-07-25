@@ -20,6 +20,7 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
@@ -1292,6 +1293,94 @@ def _accumulate_proper_nouns(proper_nouns_text):
         logger.info(f"  Added {len(new_terms)} new terms to word bank.")
 
 
+def _load_council_roster():
+    """Load council_roster.json (see refresh_council_roster.py)."""
+    path = Path(__file__).parent / "council_roster.json"
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _fold(s):
+    """Lowercase, strip accents and possessives, for lenient name matching."""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = s.lower().replace("’", "'")
+    return re.sub(r"'s\b", "", s).strip()
+
+
+# Titles that introduce a council member's name in a transcript.
+_NAME_TITLE = (
+    r"(?:CMs?|Chairs?|Council ?[Mm]embers?|Councilmembers?|Speaker|"
+    r"Deputy Speaker|Majority Leader|Minority Leader)"
+)
+_NAME_TOKEN = r"(?:[A-Z]\.\s*)?[A-Z][\w'À-ɏ-]+"
+_NAME_ONE = rf"(?:{_NAME_TOKEN}(?:\s+{_NAME_TOKEN})?)"
+# Roll calls list several members off one title ("Council Members Wong,
+# Bottcher, Restler and Brewer"), and a wrong name is most likely to hide
+# mid-list, so capture the whole run and split it.
+_NAME_RE = re.compile(
+    rf"\b{_NAME_TITLE}\s+({_NAME_ONE}"
+    rf"(?:\s*,\s*{_NAME_ONE})*"
+    rf"(?:\s*,?\s+and\s+{_NAME_ONE})?)"
+)
+_SPLIT_RE = re.compile(r"\s*,\s*|\s+and\s+")
+# Words that follow a title but are not names.
+_NAME_STOPWORDS = {
+    "and", "the", "of", "for", "to", "in", "on", "we", "you", "who", "that",
+    "from", "my", "our", "their", "this", "these", "also", "now", "yes", "no",
+    "questions", "question", "thank", "thanks", "members", "member", "will",
+    "can", "has", "have", "is", "are", "was", "were", "if", "i",
+    # Titles stack ("Chair Deputy Speaker Williams"), so a captured name
+    # that is itself a title word is noise, not a person.
+    "chair", "chairs", "chairman", "chairwoman", "speaker", "deputy",
+    "majority", "minority", "leader", "whip", "council", "committee",
+    "subcommittee", "finance", "madam", "mister", "vice",
+}
+
+
+def validate_member_names(text):
+    """Flag title-prefixed names that are not on the current Council roster.
+
+    The cleaning pass will resolve a garbled caption into a plausible but
+    wrong member (e.g. raw "COUNCIL MEMBER OF WRESTLERS" -> "CM Bottcher"
+    instead of "CM Restler"), so every published name gets checked against
+    council_roster.json. Advisory only: witnesses, agency staff, state
+    officials and genuinely former members all legitimately appear with a
+    title, so this warns rather than blocks.
+
+    Returns {name: count} for names not found on the roster.
+    """
+    roster = _load_council_roster()
+    if not roster:
+        logger.warning(
+            "  council_roster.json not found — skipping name validation. "
+            "Run: python refresh_council_roster.py"
+        )
+        return {}
+
+    known = _fold(" ; ".join(roster.get("members", [])))
+    unknown = {}
+    for m in _NAME_RE.finditer(text):
+        for candidate in _SPLIT_RE.split(m.group(1)):
+            candidate = candidate.strip().rstrip(".,")
+            if not candidate:
+                continue
+            first = candidate.split()[0]
+            if _fold(first) in _NAME_STOPWORDS or len(first) < 3:
+                continue
+            # Match on the full name or on either token, so "Virginia
+            # Maloney", "Maloney" and "CM Virginia" all resolve.
+            tokens = [t for t in candidate.split() if len(t) > 2]
+            if _fold(candidate) in known or any(
+                _fold(t) in known for t in tokens
+            ):
+                continue
+            unknown[candidate] = unknown.get(candidate, 0) + 1
+    return unknown
+
+
 def clean_transcript(utterances, proper_nouns, client):
     """Clean transcript utterances: fix punctuation, remove fillers, correct proper nouns.
 
@@ -2149,6 +2238,20 @@ def publish_to_website(web_content, slug, title, committee="",
                 f"Refusing to overwrite. Re-slug one of them before publishing."
             )
             sys.exit(1)
+
+    # Advisory check: names the cleaning pass may have invented. Runs
+    # before the write so the warning sits next to this hearing in the log.
+    unknown_names = validate_member_names(web_content)
+    if unknown_names:
+        logger.warning(
+            "  %d title-prefixed name(s) not on the Council roster — verify "
+            "against the agenda's district numbers before publishing:",
+            len(unknown_names),
+        )
+        for name, count in sorted(
+            unknown_names.items(), key=lambda kv: -kv[1]
+        ):
+            logger.warning("    %-28s %dx", name, count)
 
     with open(web_path, "w", encoding="utf-8") as f:
         f.write(web_content)
