@@ -1771,7 +1771,7 @@ Sorry. I never know if I am supposed to gavel in if we have a continuous hearing
 
 
 
-Nantasha Williams of the Committee on Cultural Affairs, Libraries and International Relations. We have been joined by my colleagues CM Hudson, CM Lewis, CM Maloney on Zoom, CM Powers, CM Restler, CM Sanchez and CM Ossé. Welcome. Tony Marx, President of the New York Public Library, Dennis Walcott, President of Queens Public Library — sorry, I just had to, you know, Queens — Karen Sheehan, Vice President of Brooklyn Public Library, and yes, and your respective teams. Thank you all for joining us today.
+Nantasha Williams of the Committee on Cultural Affairs, Libraries and International Relations. We have been joined by my colleagues CM Hudson, CM Louis, CM Maloney on Zoom, CM Powers, CM Restler, CM Sanchez and CM Ossé. Welcome. Tony Marx, President of the New York Public Library, Dennis Walcott, President of Queens Public Library — sorry, I just had to, you know, Queens — Karen Sheehan, Vice President of Brooklyn Public Library, and yes, and your respective teams. Thank you all for joining us today.
 
 To answer questions: on May 1, 2026, the administration released the Executive Financial Plan for Fiscal Years 2026 to 2030 with a proposed City budget of $104.7 billion. The libraries' proposed Fiscal Year 2027 budget represents an increase of 7.2% from the amount originally budgeted in the Fiscal Year 2027 preliminary plan. This increase results from several actions, mostly the baseline funding starting in Fiscal Year 2027 for subsidies to libraries for operational support.
 
@@ -1791,7 +1791,7 @@ While today's hearing focuses on the Executive Budget, I want to be clear that o
 
 I also want each system to tell us about their capital needs in Fiscal Year 2027, active capital projects and any recent groundbreakings. I want to hear about any branches that need comprehensive renovations and about your most urgent projects across the boroughs.
 
-Before we begin, I would like to acknowledge my colleagues who are present: CM Sanchez, CM Brooks-Powers, Brewer, Lewis and... I would also like to thank Finance staff Carolina and Aaliyah for their work on this hearing as well as committee staff for their support. Finally, I would also like to thank my staff Priyanka and Shockey. I am going to ask my colleagues to limit their questions and comments to three minutes.
+Before we begin, I would like to acknowledge my colleagues who are present: CM Sanchez, CM Brooks-Powers, Brewer, Louis and... I would also like to thank Finance staff Carolina and Aaliyah for their work on this hearing as well as committee staff for their support. Finally, I would also like to thank my staff Priyanka and Shockey. I am going to ask my colleagues to limit their questions and comments to three minutes.
 
 I will now turn it over to the committee counsel to administer the oath. In terms of the administration — but this is not the administration, so I do not think you get sworn in. So with that, I will turn it over to you. Okay. One quick thing before that: as a reminder, for this year's Executive Budget joint hearings, we will take public testimony on all agencies' Executive Budget on Wednesday, June 10, beginning at 9:30 a.m. So please let your folks know that it is going to be on Wednesday, June 10, beginning at 9:30 a.m. Okay. Sorry. Now...
 

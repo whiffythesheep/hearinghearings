@@ -94,7 +94,7 @@ Action Points
 - OMB will follow up with Council Member Banks on NYCHA revenue generation and capital needs questions.
 - OMB will evaluate CORE funding needs for executive budget.
 - OMB will send Deputy Speaker Williams specific criteria used to evaluate agency cost savings proposals.
-- OMB will follow up with Council Member Lewis on the specific Trauma Recovery Center location for East Flatbush.
+- OMB will follow up with CM Louis on the specific Trauma Recovery Center location for East Flatbush.
 - OMB will evaluate street vending implementation needs for the executive budget.
 - OMB will follow up with Council Member Sanchez on Kingsbridge Armory commitments, Jerome rezoning commitments, and DCP staff lines.
 - OMB will look into sanitation budget allocation by garage as requested by Council Member Brewer and Deputy Speaker.
@@ -158,7 +158,7 @@ Despite these proposals, the budget still falls short in how the City will build
 
 Our responsibility is to deliver a budget that protects the economic safety of our City and meets the needs of all New Yorkers. We remain committed to funding early childhood education, public safety, and investments that make life more affordable while ensuring transparency in management. Balancing the budget cannot come at the expense of our children, seniors, working families, or essential workers. An honest, transparent budget will help us protect those services, address affordability, and uphold our responsibility as fiscal stewards.
 
-Also I just wanted to recognize a few more of my colleagues that have joined us. CM Virginia Maloney, CM Brewer, CM Felder, Deputy Speaker Williams, CM Lewis, CM Epstein, and CM Hudson.
+Also I just wanted to recognize a few more of my colleagues that have joined us. CM Virginia Maloney, CM Brewer, CM Felder, Deputy Speaker Williams, CM Louis, CM Epstein, and CM Hudson.
 
 At this time I will turn it over to committee council to swear in our witnesses.
 
@@ -1048,7 +1048,7 @@ That is something that we are looking at as part of the executive budget. Again,
 
 
 
-miles. So, Speaker Menon and Minority Leader Carr and myself wrote a letter to DOT last week. From basically back in under 2017 under Mayor de Blasio, he had funded enough to accomplish 1300 miles in resurfaced lane miles. It seems that the new targets are 1150. I would like to see DOT get back to resurfacing 1300 lane miles a year. DOT stated during our preliminary hearing that to achieve this they would need increased headcount and resources. Would you like for this administration to commit the 1300 lane miles per year? We would always like to do more the fiscal challenges that we have. We have to evaluate how we could make room for that in addition to all the other priorities that we have. And I will just close with a statement. I would like to see OMB commit more additional staff and resources needed so that the City can get back to resurfacing 1300 million miles per year. And of course that we have additional resources for addressing potholes, more resources to address the contracts with street light repairs which have seen increased timing to getting basic street lights getting done and of course the funding that we need for the streets plan. Thank you so much, Madam Chair.
+miles. So, Speaker Menin and Minority Leader Carr and myself wrote a letter to DOT last week. From basically back in under 2017 under Mayor de Blasio, he had funded enough to accomplish 1300 miles in resurfaced lane miles. It seems that the new targets are 1150. I would like to see DOT get back to resurfacing 1300 lane miles a year. DOT stated during our preliminary hearing that to achieve this they would need increased headcount and resources. Would you like for this administration to commit the 1300 lane miles per year? We would always like to do more the fiscal challenges that we have. We have to evaluate how we could make room for that in addition to all the other priorities that we have. And I will just close with a statement. I would like to see OMB commit more additional staff and resources needed so that the City can get back to resurfacing 1300 million miles per year. And of course that we have additional resources for addressing potholes, more resources to address the contracts with street light repairs which have seen increased timing to getting basic street lights getting done and of course the funding that we need for the streets plan. Thank you so much, Madam Chair.
 
 [**(01:39:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=5977s)
 
@@ -1602,7 +1602,7 @@ Because that is a few more followup. So, I will be in contact. Thank you. Two we
 
 
 
-Okay, awesome. CM Banks, followed by CM Lewis.
+Okay, awesome. CM Banks, followed by CM Louis.
 
 [**(03:09:37)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11377s)
 
@@ -1640,7 +1640,7 @@ Hopefully, we get some more clarity. When it comes to the NYCHA developments tha
 
 
 
-Thank you. Okay. So now we have CM Lewis followed by Narcisse and then
+Thank you. Okay. So now we have CM Louis followed by Narcisse and then
 
 [**(03:15:21)**](https://www.youtube.com/watch?v=2soPrZWS754&t=11721s)
 
