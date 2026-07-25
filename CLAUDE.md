@@ -97,6 +97,22 @@ Raw YouTube segments, speaker turns, and cleaned utterances are all cached as a 
 - Delete `cleaned_utterances` key → re-clean transcript
 - Keep everything → pipeline skips straight to summary
 
+### Council roster + name validation
+
+`council_roster.json` (repo root, **tracked**) is the definitive list of who currently sits on the Council: all 51 districts, plus every committee/subcommittee with its chair and membership. Refresh it whenever membership changes:
+
+```bash
+python refresh_council_roster.py    # scrapes council.nyc.gov, ~40 requests, ~30s
+```
+
+It prints a `CHANGED District N: old -> new` line for any seat that moved, so special elections show up in the diff. Because the file is tracked, a membership change is visible in the PR.
+
+**Why it exists.** The Claude cleaning pass (step 5) does not just fix garbled captions — when a surname is badly mangled it substitutes a *plausible but wrong* member, including members who have left office, and the summary then propagates that into Action Points as fact. Real case (2026-07-21, event 1416200): raw Viebit caption `COUNCIL MEMBER OF WRESTLERS` → cleaned to "CM Bottcher's district", when the Chair had said **Restler** and Bottcher had left for the State Senate five months earlier.
+
+`validate_member_names()` in `summarize_council_meeting.py` runs inside `publish_to_website()` on every run (including `--no-deploy`, so the nightly discover flow gets it). It scans the finished markdown for title-prefixed names — `CM X`, `Chair X`, `Council Members A, B and C`, `Speaker X` — and logs a WARNING for any not on the roster.
+
+It is **advisory, never blocking**: witnesses, agency staff, state officials and genuinely former members all legitimately appear with a title. Expect ~1–2 flags per hearing. When one fires, check the name against the **district numbers printed in the agenda PDF** (authoritative — the transcript is not), and confirm what was actually said in `Input/<meeting>.json` → `raw_segments`. Then add a correction to `word_bank.json`, keeping it **prefixed** (`"Speaker Menon"`, not bare `"Menon"`) — bare surnames over-match, and "phenomenon" contains "menon".
+
 ### Config constants (top of `summarize_council_meeting.py`)
 - `ANTHROPIC_MODEL`
 - `MAX_TRANSCRIPT_CHARS` (summary chunking)
