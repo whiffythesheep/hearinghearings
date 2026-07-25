@@ -8,7 +8,7 @@ duration: "5hrs 9m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260624-130421.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1421969&GUID=A5F0EBEC-3119-44ED-95B0-2027EDFDD22D&Search="
-chairs: "Eric Dinowitz"
+chairs: "Eric Dinowitz | Carmen De La Rosa"
 members: "Gale A. Brewer, Carmen N. De La Rosa, Amanda C. Farías, Jennifer Gutiérrez, Rita C. Joseph, Shekar Krishnan, Linda Lee, Farah N. Louis, Mercedes Narcisse, Lynn C. Schulman, Phil Wong, Susan Zhuang"
 ---
 

@@ -8,7 +8,7 @@ duration: "5hrs 45m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260602-100509.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415370&GUID=8F2ED0F7-E7E2-44C7-87FB-70B3437A185A&Search="
-chairs: "Linda Lee | Selvena N. Brooks-Powers | Pierina Ana Sanchez | Chris Banks"
+chairs: "Linda Lee | Selvena N. Brooks-Powers | Pierina Ana Sanchez | Chris Banks | Shekar Krishnan"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
 ---
 
