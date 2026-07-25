@@ -152,7 +152,7 @@ Thank you. Thank you, CM Marte.
 
 
 
-I would now like to recognize that we have been joined by CM Bottcher, CM Narcisse and CM Felder. Did I miss anybody? Okay. Before we hear testimony from the administration, we will hear directly from Roman's family, who have joined us here in chambers and online to provide testimony. First we will hear from Priya Mahajan and Deepak Mahajan. Do we have them here?
+I would now like to recognize that we have been joined by CM Narcisse and CM Felder. Did I miss anybody? Okay. Before we hear testimony from the administration, we will hear directly from Roman's family, who have joined us here in chambers and online to provide testimony. First we will hear from Priya Mahajan and Deepak Mahajan. Do we have them here?
 
 **(00:18:00)**
 
