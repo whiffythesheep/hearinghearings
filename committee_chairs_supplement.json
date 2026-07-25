@@ -1,8 +1,3 @@
 {
-  "_comment": "Manual chair entries for committees that have never appeared as the lead committee in our archive. NYC Council joint-hearing agendas only list the lead committee's chair, so co-committee chairs are unknown unless we've seen them elsewhere. Add entries here as new joint hearings reveal gaps.",
-  "Committee on Mental Health and Substance Use": "Tiffany L. Cabán",
-  "Committee on Oversight & Investigations": "Shekar Krishnan",
-  "Committee on Governmental Operations, State & Federal Legislation": "Gale A. Brewer",
-  "Committee on Workforce Development": "Julie Won",
-  "Committee on Higher Education": "Rita C. Joseph"
+  "_comment": "Manual chair overrides — highest precedence in build_committee_chair_lookup(). This file used to carry committees that had never appeared as a lead in our archive, because joint-hearing agendas only name the lead committee's chair. council_roster.json now covers every committee and subcommittee straight from council.nyc.gov, so those five entries became redundant and were removed on 2026-07-25 (verified: removing them changed no lookup result). Add an entry here only to override what the roster and archive already produce — e.g. a chair who changes mid-cycle before you have refreshed the roster, or a name form you want rendered differently. Keys are matched loosely, so '&' vs 'and', casing and punctuation do not matter."
 }

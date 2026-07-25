@@ -8,7 +8,7 @@ duration: "7hrs 15m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260601-100540.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415364&GUID=F486F68A-9E95-405D-8260-F80B46125853&Search="
-chairs: "Linda Lee"
+chairs: "Linda Lee | Oswald J. Feliz | Joann Ariola"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
 ---
 

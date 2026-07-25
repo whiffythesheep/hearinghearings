@@ -8,7 +8,7 @@ duration: "4hrs 7m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260527-101125.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415906&GUID=2E67AE4E-3CD1-4AAD-B822-329FD81E6583&Search="
-chairs: "Ty Hankerson | Linda Lee"
+chairs: "Ty Hankerson | Linda Lee | Sandy Nurse"
 members: "Shekar Krishnan, Linda Lee, Christopher Marte, Frank Morano, Mercedes Narcisse, Sandy Nurse, Yusef Salaam, Pierina Ana Sanchez, Kayla Santosuosso, Sandra Ung"
 ---
 

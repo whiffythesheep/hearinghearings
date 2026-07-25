@@ -8,7 +8,7 @@ duration: "2hrs 41m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260624-101357.mp4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1411046&GUID=7CE14248-098A-4E86-830F-29643FD126C2&Search="
-chairs: "Crystal Hudson"
+chairs: "Crystal Hudson | Amanda Farías"
 members: "Alexa Avilés, Darlene Mealy, Frank Morano, Sandy Nurse, Sandra Ung, Carl Wilson"
 ---
 

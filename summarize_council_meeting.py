@@ -532,21 +532,54 @@ TOPIC: [topical title or NONE]"""
     return committee, date_str, chairs, members, topic
 
 
+def normalize_committee_name(name):
+    """Canonical key for matching committee names across sources.
+
+    Agendas write "Committee on Oversight & Investigations" while
+    council.nyc.gov writes "... and Investigations", so an exact-match
+    lookup silently misses. Fold case, spell out the ampersand, drop
+    punctuation and collapse whitespace.
+    """
+    key = name.lower().replace("&", " and ")
+    key = re.sub(r"[^a-z0-9 ]+", " ", key)
+    return re.sub(r"\s+", " ", key).strip()
+
+
 def build_committee_chair_lookup(content_dir):
-    """Scan content/*.md and return {committee_name: chair_name} from prior extractions.
+    """Return {normalized_committee_name: chair_name} for filling in chairs.
 
-    NYC Council joint-hearing agendas only list the lead committee's chair. To fill
-    in co-committee chairs on joint hearings, we use the fact that those same
-    committees often appear as the lead in their own standalone hearings — so their
-    chair is already in our archive.
+    NYC Council joint-hearing agendas only list the lead committee's chair, so
+    co-committee chairs have to come from somewhere else. Three layers, lowest
+    precedence first:
 
-    Also merges in entries from committee_chairs_supplement.json at the repo root
-    for committees that have never appeared as a lead here (those would otherwise
-    be missing). Manual entries override extracted ones (intentional — the user
-    edits the JSON when they want to correct a stale extraction).
+      1. council_roster.json — every committee and subcommittee, straight from
+         council.nyc.gov. Broad coverage, refreshed by refresh_council_roster.py.
+      2. This archive's own content/*.md front matter — agenda-derived, so it
+         matches how the site writes names elsewhere (middle initials included,
+         e.g. "Rita C. Joseph" rather than the roster's "Rita Joseph"). Preferred
+         over the roster for exactly that reason.
+      3. committee_chairs_supplement.json — manual overrides, highest precedence.
+         Since layer 1 landed this is a pure override file: it no longer has to
+         carry a committee just because we have never seen it as a lead.
+
+    Keys are normalized (see normalize_committee_name) so the three sources match
+    despite differing punctuation.
     """
     from pathlib import Path
     lookup = {}
+
+    # Layer 1: the scraped roster.
+    roster = _load_council_roster()
+    if roster:
+        for committee, info in roster.get("committees", {}).items():
+            chair = info.get("chair")
+            if chair:
+                lookup[normalize_committee_name(committee)] = chair
+    else:
+        logger.warning(
+            "  council_roster.json not found — chair lookup falls back to the "
+            "archive alone. Run: python refresh_council_roster.py"
+        )
     for path in Path(content_dir).glob("*.md"):
         try:
             text = path.read_text(encoding="utf-8")
@@ -565,7 +598,7 @@ def build_committee_chair_lookup(content_dir):
         chair_field = [c.strip() for c in meta.get("chairs", "").split(" | ")] if meta.get("chairs") else []
         for committee, chair in zip(committees, chair_field):
             if committee and chair:
-                lookup[committee] = chair
+                lookup[normalize_committee_name(committee)] = chair
 
     supplement_path = Path(content_dir).resolve().parent / "committee_chairs_supplement.json"
     if supplement_path.exists():
@@ -575,7 +608,7 @@ def build_committee_chair_lookup(content_dir):
             for committee, chair in supplement.items():
                 if committee.startswith("_") or not isinstance(chair, str):
                     continue
-                lookup[committee] = chair
+                lookup[normalize_committee_name(committee)] = chair
         except (json.JSONDecodeError, OSError) as e:
             logger.warning(f"Could not load {supplement_path}: {e}")
 
@@ -596,7 +629,7 @@ def supplement_chairs_via_lookup(committees_str, chairs_str, lookup):
     changed = False
     for i, committee in enumerate(committees):
         if not chairs[i]:
-            chair = lookup.get(committee, "")
+            chair = lookup.get(normalize_committee_name(committee), "")
             if chair:
                 chairs[i] = chair
                 changed = True

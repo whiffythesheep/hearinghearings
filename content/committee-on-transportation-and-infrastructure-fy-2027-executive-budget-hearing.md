@@ -8,7 +8,7 @@ duration: "5hrs 56m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/watch?hash=0FZ8ecMFz5aDikob"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415358&GUID=A07180EB-B446-4346-912F-2088D9C31978&Search="
-chairs: "Shaun Abreu | Linda Lee"
+chairs: "Shaun Abreu | Harvey Epstein | Virginia Maloney | Linda Lee"
 members: "Selvena N. Brooks-Powers, Eric Dinowitz, Shahana K. Hanif, Shekar Krishnan, Farah N. Louis, Christopher Marte, Justin E. Sanchez, Pierina Ana Sanchez, Julie Won, Phil Wong"
 ---
 
