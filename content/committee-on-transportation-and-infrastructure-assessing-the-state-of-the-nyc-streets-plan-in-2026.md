@@ -265,7 +265,7 @@ I want the agency to go big and be bold, but ambition alone is not strategy. The
 
 We will expand proven tools, designs, and treatments across the City while introducing new programs and commitments to transform our streets into vibrant, dynamic public spaces. And we look forward to working with the City Council to deliver these results in every district with shovels in the ground building protected bus lanes, expanding pedestrian space, building protected bike lanes, and delivering life saving street safety projects. No New Yorker deserves lesser results based on their Council district.
 
-Turning to the legislation before the Council today, first Int 0013-2026 sponsored by Speaker Menon. This Bill would require DOT to install at least 100 illuminated solar powered traffic control devices at crosswalks annually over the next five years and to study the efficacy of these devices in comparison to regular crosswalks. DOT frequently tests new materials to enhance safety on our streets and we are always open to testing new technologies to increase safety. However, we have done some preliminary studies on the types of technologies envisioned in the Bill and we have some concerns about their efficacy. Our previous tests found no notable difference in compliance compared to regular stop signs and crashes did not significantly change at the five pilot locations when testing rectangular rapid flashing beacons or RRFBs.
+Turning to the legislation before the Council today, first Int 0013-2026 sponsored by Speaker Menin. This Bill would require DOT to install at least 100 illuminated solar powered traffic control devices at crosswalks annually over the next five years and to study the efficacy of these devices in comparison to regular crosswalks. DOT frequently tests new materials to enhance safety on our streets and we are always open to testing new technologies to increase safety. However, we have done some preliminary studies on the types of technologies envisioned in the Bill and we have some concerns about their efficacy. Our previous tests found no notable difference in compliance compared to regular stop signs and crashes did not significantly change at the five pilot locations when testing rectangular rapid flashing beacons or RRFBs.
 
 Additionally, MUTCD guidelines would only allow for a limited universe of intersections since in roadway warning lights cannot be used at intersections controlled by traffic signals, stop signs, or yield signs. Analysis from other jurisdictions across the country identifies greater benefits in higher speed, lower traffic streets, which are typically in non urban settings. Research also indicates a flashing light fatigue effect in which the more widespread the treatment, the less effective it is. Finally, this Bill would require DOT to install a large number of devices, significantly more than is needed to determine their efficacy. We look forward to discussions with the Council and appropriate stakeholders on this legislation and the best strategies to explore new technologies.
 
@@ -287,7 +287,7 @@ Turning to Int 0655-2026, sponsored by CM Restler. This Bill would expand the Ci
 
 Next, Int 0628-2026, sponsored by CM Restler. This Bill would require DOT to issue and receive applications to operate a sidewalk cafe and roadway cafe online and at a physical location accessible to the public. This Bill would also allow applicants to save partially filled out online applications in order to complete the application at a later date. Our Dining Out NYC team works diligently with applicants to provide support on the outdoor dining application process both virtually and in person based on applicant preference. We already offer robust resources in partnership with sister agencies to provide free services for applicants to submit applications in person and applicants already have the opportunity to apply online or in person. We are continuously exploring how to improve our online application process and are pleased to announce that the function to save in progress applications is available for applicants. We look forward to continuing the ongoing work of enhancing our application process by working with the sponsor on this Bill.
 
-Turning to preconsidered Bill T2026-1336 sponsored by Speaker Menon. This Bill would limit the clear path requirement...
+Turning to preconsidered Bill T2026-1336 sponsored by Speaker Menin. This Bill would limit the clear path requirement...
 
 [**(00:51:14)**](https://www.youtube.com/watch?v=1NTWvr6fhV0&t=3074s)
 
@@ -1225,7 +1225,7 @@ Yeah. So I do not think it is actually the 260 signs that we feel like is a burd
 
 
 
->> Okay. It does not seem like an administrative burden. Just in my view, I would like to see... I do not think the argument is compelling. I mean, that is just my opinion on that, but I am happy to move on to the second round. CM Wrestler.
+>> Okay. It does not seem like an administrative burden. Just in my view, I would like to see... I do not think the argument is compelling. I mean, that is just my opinion on that, but I am happy to move on to the second round. CM Restler.
 
 [**(02:23:01)**](https://www.youtube.com/watch?v=1NTWvr6fhV0&t=8581s)
 
@@ -1305,7 +1305,7 @@ today. Thank you.
 
 
 
-Hello. Commissioner Flynn, two issues. One, CM Wrestler mentioned that he would like, this Bill T2026-1338 wants 1 million square feet per year of pedestrian space for the next 5 years. Do you feel that is a realistic figure or that is too ambitious of a goal?
+Hello. Commissioner Flynn, two issues. One, CM Restler mentioned that he would like, this Bill T2026-1338 wants 1 million square feet per year of pedestrian space for the next 5 years. Do you feel that is a realistic figure or that is too ambitious of a goal?
 
 [**(02:30:30)**](https://www.youtube.com/watch?v=1NTWvr6fhV0&t=9030s)
 
@@ -1753,7 +1753,7 @@ on intro 13 regarding the installation of solar powered crosswalks. DOT stated i
 
 
 
->> Thank you. My last question is, Speaker Menon's preconsidered bill has been amended since DOT last heard it to set a maximum clear path of 8 feet or 50% of the width of the sidewalk, bringing sidewalk dining back to its roots. Sidewalk dining worked well in the past using a standard like this. Why could it not return to the standard?
+>> Thank you. My last question is, Speaker Menin's preconsidered bill has been amended since DOT last heard it to set a maximum clear path of 8 feet or 50% of the width of the sidewalk, bringing sidewalk dining back to its roots. Sidewalk dining worked well in the past using a standard like this. Why could it not return to the standard?
 
 [**(03:01:01)**](https://www.youtube.com/watch?v=1NTWvr6fhV0&t=10861s)
 

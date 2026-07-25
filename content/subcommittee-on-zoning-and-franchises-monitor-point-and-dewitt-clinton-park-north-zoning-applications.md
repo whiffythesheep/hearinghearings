@@ -1500,7 +1500,7 @@ Do any members of the Committee have questions for this panel? OK. Now I am sorr
 
 State your name for the record.
 
-Steven Chesler: Hello, Chair Lewis, Council members. I am a 24-year resident of Greenpoint who lives 10 minutes from Bushwick Inlet Park and the 40 Quay site. I am Vice President of Friends of Bushwick Inlet Park and a member of the Community Board, a member of its Land Use committee.
+Steven Chesler: Hello, Chair Louis, Council members. I am a 24-year resident of Greenpoint who lives 10 minutes from Bushwick Inlet Park and the 40 Quay site. I am Vice President of Friends of Bushwick Inlet Park and a member of the Community Board, a member of its Land Use committee.
 
 First, let us just say, just for the point of accuracy, please refer to the Community Board report. I am not testifying on behalf of them but as a witness. The Land Use Committee voted unanimously no, with 75% affordable housing, and then the full board opted to vote yes but also with a strong condition of a healthy majority of affordable housing.
 
@@ -3104,7 +3104,7 @@ We will now hear from John Murs, Andrew Mandelbaum, Stephanie Andrews and Dan Me
 
 
 
-Hello. Thank you, Chair Lewis and CM Restler. I am the priest of the oldest church in Greenpoint, Brooklyn — the Church of the Ascension, founded in 1846, which was incidentally actually built by the owner of the Monitor. I am here today to voice my support for the Monitor Point project. I support achieving the most significant number of affordable housing units possible, particularly at AMI levels that would allow ordinary working people a real chance to remain in the community of which they are already a part. I hope that the developer, the Council and the Mayor's office can work together to in fact reach the highest possible threshold of units at the lowest possible AMI bands.
+Hello. Thank you, Chair Louis and CM Restler. I am the priest of the oldest church in Greenpoint, Brooklyn — the Church of the Ascension, founded in 1846, which was incidentally actually built by the owner of the Monitor. I am here today to voice my support for the Monitor Point project. I support achieving the most significant number of affordable housing units possible, particularly at AMI levels that would allow ordinary working people a real chance to remain in the community of which they are already a part. I hope that the developer, the Council and the Mayor's office can work together to in fact reach the highest possible threshold of units at the lowest possible AMI bands.
 
 As priest of this church for 17 years, I have watched this happen again and again. Young people in the community fall in love with the neighborhood, or they are in the neighborhood, they find partners, they have children, they want to remain here, and then they discover that despite working hard and contributing to the community, they cannot afford to stay. We all know there is a serious affordability crisis in New York City. In our local area, affordability was one of the defining issues in the last mayoral election because people feel this pressure on their everyday lives. In some ways the issue took on almost theological significance, raising the question of whether there would continue to be room at the inn in this city, and for whom, and what kind of people that room would be available.
 
