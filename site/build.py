@@ -1,11 +1,13 @@
 """Build static HTML site from markdown content files."""
 
 import html as html_mod
+import json
 import os
 import re
 import shutil
 import markdown
 
+from collections import Counter
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
@@ -16,6 +18,28 @@ STATIC_DIR = os.path.join(ROOT, "static")
 OUTPUT_DIR = os.path.join(ROOT, "output")
 SITE_URL = "https://hearinghearings.nyc"
 META_IMAGE = f"{SITE_URL}/static/og-image.png"
+
+# Tokenizer contract shared with the search JS in index.html — must match exactly.
+SEARCH_TOKEN_RE = re.compile(r"[a-z0-9']+")
+
+# Candidate rotating search-bar examples. Only phrases that actually occur in a
+# published transcript are shipped, so an example never returns zero results.
+SEARCH_EXAMPLE_CANDIDATES = [
+    "congestion pricing",
+    "e-bikes",
+    "CityFHEPS",
+    "outdoor dining",
+    "trash containerization",
+    "artificial intelligence",
+    "asylum seekers",
+    "property tax",
+    "school buses",
+    "street vendors",
+    "child care",
+    "composting",
+    "rats",
+    "affordable housing",
+]
 
 
 def truncate_text(text, max_len):
@@ -93,6 +117,55 @@ def split_summary_transcript(body):
     return body, ""
 
 
+def search_tokenize(text):
+    return SEARCH_TOKEN_RE.findall(text.lower())
+
+
+def search_phrase_pattern(phrase):
+    """Regex matching the phrase's tokens separated by up to 3 non-token chars."""
+    core = r"[^a-z0-9']{1,3}".join(re.escape(t) for t in search_tokenize(phrase))
+    return re.compile(r"(?<![a-z0-9'])" + core + r"(?![a-z0-9'])")
+
+
+def select_search_examples(hearings):
+    texts = [h["transcript_text"].lower() for h in hearings if h["transcript_text"]]
+    examples = []
+    for candidate in SEARCH_EXAMPLE_CANDIDATES:
+        pattern = search_phrase_pattern(candidate)
+        if any(pattern.search(t) for t in texts):
+            examples.append(candidate)
+    return examples
+
+
+def build_search_index(hearings):
+    """Write the inverted index consumed by the transcript search JS.
+
+    docs.json is sorted date ascending (tiebreak: slug) so a new hearing
+    appends at the end and existing doc indices never shift between builds.
+    """
+    docs = sorted(
+        (h for h in hearings if h["transcript_text"]),
+        key=lambda h: (h["date"], h["slug"]),
+    )
+    search_dir = os.path.join(OUTPUT_DIR, "search")
+    os.makedirs(search_dir)
+    with open(os.path.join(search_dir, "docs.json"), "w", encoding="utf-8") as f:
+        json.dump([h["slug"] for h in docs], f, separators=(",", ":"))
+
+    shards = {}
+    for i, hearing in enumerate(docs):
+        for token, count in Counter(search_tokenize(hearing["transcript_text"])).items():
+            first = token[0]
+            shard_key = first if first.isalpha() else "0"
+            shards.setdefault(shard_key, {}).setdefault(token, []).append([i, count])
+
+    for shard_key in sorted(shards):
+        tokens = shards[shard_key]
+        with open(os.path.join(search_dir, f"idx-{shard_key}.json"), "w", encoding="utf-8") as f:
+            json.dump({t: tokens[t] for t in sorted(tokens)}, f, separators=(",", ":"))
+    print(f"Built: search/ ({len(docs)} docs, {len(shards)} shards)")
+
+
 def load_content():
     """Load all markdown content files."""
     hearings = []
@@ -163,6 +236,9 @@ def load_content():
                 if transcript_md
                 else "",
                 "transcript_md": transcript_md,
+                "transcript_text": markdown_to_text(transcript_md)
+                if transcript_md
+                else "",
             }
         )
 
@@ -198,12 +274,15 @@ def build():
         for v in sorted(seen_months.keys(), reverse=True)
     ]
 
+    search_examples = select_search_examples(hearings)
+
     # Build index page
     index_template = env.get_template("index.html")
     index_html = index_template.render(
         hearings=hearings,
         committees=all_committees,
         months=all_months,
+        search_examples=search_examples,
         meta_title="Hearing Hearings",
         meta_description="Summaries and transcripts of New York City Council hearings.",
         meta_url=f"{SITE_URL}/",
@@ -211,7 +290,7 @@ def build():
     )
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
-    print(f"Built: index.html ({len(hearings)} hearings)")
+    print(f"Built: index.html ({len(hearings)} hearings, {len(search_examples)} search examples)")
 
     # Build individual hearing pages
     hearing_template = env.get_template("hearing.html")
@@ -250,10 +329,12 @@ def build():
                 + "\n\n"
                 + ("=" * 64)
                 + "\n\n"
-                + markdown_to_text(hearing["transcript_md"])
+                + hearing["transcript_text"]
             )
             with open(os.path.join(hearing_dir, "transcript.txt"), "w", encoding="utf-8") as f:
                 f.write(transcript_txt)
+
+    build_search_index(hearings)
 
     # Build 404 page
     four04_template = env.get_template("404.html")

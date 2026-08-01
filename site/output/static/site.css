@@ -671,6 +671,29 @@ body.desktop {
     color: var(--accent);
 }
 
+/* Transcript-search excerpt — full-width line under the row's columns */
+.hearing-row__excerpt {
+    grid-column: 1 / -1;
+    margin: 0.1rem 0 0;
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--text-muted);
+    min-width: 0;
+    overflow-wrap: break-word;
+}
+
+.hearing-row__excerpt mark {
+    background: var(--bevel-darker);
+    color: var(--bevel-light);
+    padding: 0 1px;
+}
+
+.excerpt-count {
+    font-weight: 600;
+    white-space: nowrap;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
     body.desktop {
