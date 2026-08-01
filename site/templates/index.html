@@ -500,7 +500,7 @@
 
         function countBadge(count) {
             if (count === null || count === undefined) return '';
-            return '<span class="excerpt-count">· ' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
+            return '<span class="excerpt-count">' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
         }
 
         /* Rows and count badges update on every keystroke; the transcript.txt
@@ -561,7 +561,7 @@
                     }
                     var badge = built.isPhrase
                         ? countBadge(m.count !== null ? m.count : built.count)
-                        : '<span class="excerpt-count">· matches all search words</span>';
+                        : '<span class="excerpt-count">matches all search words</span>';
                     elNow.innerHTML = '<span class="excerpt-text">' + built.html + '</span>' + badge;
                 });
             });
