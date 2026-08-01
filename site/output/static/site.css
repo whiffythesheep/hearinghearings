@@ -704,6 +704,11 @@ body.desktop {
     white-space: nowrap;
 }
 
+.hearing-row__count strong {
+    font-weight: 700;
+    color: var(--text);
+}
+
 /* Keep long titles clear of the pinned count */
 .hearing-row--matched .hearing-row__title {
     padding-right: 8rem;
