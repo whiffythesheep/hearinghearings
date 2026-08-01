@@ -500,12 +500,12 @@
 
         function countText(count) {
             if (count === null || count === undefined) return null;
-            return count + (count === 1 ? ' mention' : ' mentions');
+            return '<strong>' + count + '</strong>' + (count === 1 ? ' mention' : ' mentions');
         }
 
-        function setRowCount(row, text) {
+        function setRowCount(row, html) {
             var el = row.querySelector('.hearing-row__count');
-            if (!text) {
+            if (!html) {
                 if (el) el.parentNode.removeChild(el);
                 row.classList.remove('hearing-row--matched');
                 return;
@@ -515,7 +515,7 @@
                 el.className = 'hearing-row__count';
                 row.querySelector('a').appendChild(el);
             }
-            el.textContent = text;
+            el.innerHTML = html;
             row.classList.add('hearing-row--matched');
         }
 

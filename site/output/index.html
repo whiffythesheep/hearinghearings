@@ -6,7 +6,7 @@
     <title>Hearing Hearings</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
     <link rel="stylesheet" href="/static/site.css">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
@@ -1769,12 +1769,12 @@
 
         function countText(count) {
             if (count === null || count === undefined) return null;
-            return count + (count === 1 ? ' mention' : ' mentions');
+            return '<strong>' + count + '</strong>' + (count === 1 ? ' mention' : ' mentions');
         }
 
-        function setRowCount(row, text) {
+        function setRowCount(row, html) {
             var el = row.querySelector('.hearing-row__count');
-            if (!text) {
+            if (!html) {
                 if (el) el.parentNode.removeChild(el);
                 row.classList.remove('hearing-row--matched');
                 return;
@@ -1784,7 +1784,7 @@
                 el.className = 'hearing-row__count';
                 row.querySelector('a').appendChild(el);
             }
-            el.textContent = text;
+            el.innerHTML = html;
             row.classList.add('hearing-row--matched');
         }
 
