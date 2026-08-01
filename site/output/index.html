@@ -1529,12 +1529,15 @@
            ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
         var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing"];
-        /* Decimal/comma/dollar aware, mirroring SEARCH_TOKEN_RE in build.py:
-           "." or "," continues a token only when a digit follows ("12,000"
-           is one token, "2026, 300" splits); "$" attaches only when a digit
-           follows. "$"- and digit-initial tokens share the "0" shard (see
-           shardLetter). */
-        var TOKEN_RE = /\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*|[a-z0-9']+/g;
+        /* Decimal/comma/dollar/percent aware, mirroring SEARCH_TOKEN_RE in
+           build.py: "." or "," continues a token only when a digit follows
+           ("12,000" is one token, "2026, 300" splits); "$" attaches only
+           when a digit follows; a trailing "%" attaches to digit-led tokens
+           ("50%"). "$"- and digit-initial tokens share the "0" shard (see
+           shardLetter). Numeric tokens are dual-indexed at build time under
+           alternate spellings ("$12,000" also as "12,000"/"12000"; "50%"
+           also as "50"; "0943" also as "943"). */
+        var TOKEN_RE = /\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*%?|[a-z0-9']+/g;
         var transcriptState = { key: null, tokens: [], prefixFinal: false, matches: null, pending: false };
         var shardCache = {};
         var docsPromise = null;
@@ -1567,20 +1570,30 @@
             return (c >= 'a' && c <= 'z') ? c : '0';
         }
 
-        function loadJSON(url, fallback) {
+        function loadJSON(url, fallback, evict) {
             return fetch(url).then(function (r) {
+                if (r.status === 404) return fallback; // legitimately absent: keep cached
                 if (!r.ok) throw new Error(r.status);
                 return r.json();
-            }).catch(function () { return fallback; });
+            }).catch(function () {
+                evict(); // transient failure: drop from cache so the next query retries
+                return fallback;
+            });
         }
 
         function loadShard(letter) {
-            if (!shardCache[letter]) shardCache[letter] = loadJSON('/search/idx-' + letter + '.json', {});
+            if (!shardCache[letter]) {
+                shardCache[letter] = loadJSON('/search/idx-' + letter + '.json', {},
+                    function () { delete shardCache[letter]; });
+            }
             return shardCache[letter];
         }
 
         function loadDocs() {
-            if (!docsPromise) docsPromise = loadJSON('/search/docs.json', []);
+            if (!docsPromise) {
+                docsPromise = loadJSON('/search/docs.json', [],
+                    function () { docsPromise = null; });
+            }
             return docsPromise;
         }
 
@@ -1602,9 +1615,18 @@
                     var m = {};
                     if (prefixFinal && i === tokens.length - 1) {
                         // Merge postings of every indexed token starting with t;
-                        // counts sum across the matched tokens per doc.
+                        // counts sum across the matched tokens per doc. A
+                        // comma/percent spelling is skipped when its stripped
+                        // twin also matches the prefix — the twin already
+                        // carries those counts (dual indexing), so summing
+                        // both would double-count.
+                        var hits = {};
                         Object.keys(shard).forEach(function (tok) {
-                            if (tok.lastIndexOf(t, 0) !== 0) return;
+                            if (tok.lastIndexOf(t, 0) === 0) hits[tok] = true;
+                        });
+                        Object.keys(hits).forEach(function (tok) {
+                            var norm = tok.replace(/[,%]/g, '');
+                            if (norm !== tok && hits[norm]) return;
                             shard[tok].forEach(function (p) { m[p[0]] = (m[p[0]] || 0) + p[1]; });
                         });
                     } else {
@@ -1639,10 +1661,23 @@
             return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         }
 
+        function tokenPattern(token) {
+            // Numeric tokens match any indexed spelling: optional thousands
+            // commas and leading zeros ("12000" highlights "12,000"; "943"
+            // highlights "0943"), while "$" and "%" stay literal when the
+            // query includes them. Everything else is escaped verbatim.
+            var m = /^(\$?)(\d[\d,]*(?:\.\d+)?)(%?)$/.exec(token);
+            if (!m) return escapeRegExp(token);
+            var flex = m[2].replace(/,/g, '')
+                .replace(/\./g, '\\.')
+                .replace(/(\d)(?=\d)/g, '$1,?');
+            return (m[1] ? '\\$' : '') + '0*' + flex + (m[3] ? '%' : '');
+        }
+
         function phraseRegExp(tokens, prefixFinal) {
-            // Tokens are escaped, so "." and "$" in decimal/dollar tokens are
-            // literal ("12.7" cannot match "12x7"; "$12" cannot anchor).
-            var parts = tokens.map(escapeRegExp);
+            // Tokens pass through tokenPattern/escapeRegExp, so "." and "$"
+            // are literal ("12.7" cannot match "12x7"; "$12" cannot anchor).
+            var parts = tokens.map(tokenPattern);
             var pre = "(?<![a-z0-9'])";
             if (/^[$\d]/.test(tokens[0])) pre += "(?<!\\d[.,])";
             var post = "(?![a-z0-9'])";
@@ -1661,13 +1696,19 @@
         function loadTranscript(slug) {
             if (!transcriptCache[slug]) {
                 transcriptCache[slug] = fetch('/hearings/' + slug + '/transcript.txt')
-                    .then(function (r) { return r.ok ? r.text() : ''; })
+                    .then(function (r) {
+                        if (!r.ok) throw new Error(r.status);
+                        return r.text();
+                    })
                     .then(function (t) {
                         // Strip the title/meta header; the file is CRLF-terminated.
                         var sep = t.match(/\r?\n={16,}\r?\n\s*/);
                         return sep ? t.slice(sep.index + sep[0].length) : t;
                     })
-                    .catch(function () { return ''; });
+                    .catch(function () {
+                        delete transcriptCache[slug]; // retry on the next query
+                        return '';
+                    });
             }
             return transcriptCache[slug];
         }
@@ -1776,7 +1817,13 @@
                     }
                     var elNow = row.querySelector('.hearing-row__excerpt');
                     if (!elNow) return;
-                    var built = text ? buildExcerpt(text, tokens, prefixFinal, m) : null;
+                    var built = null;
+                    if (text) {
+                        // Guard: phraseRegExp uses lookbehind, which old
+                        // engines reject at RegExp construction time.
+                        try { built = buildExcerpt(text, tokens, prefixFinal, m); }
+                        catch (e) { built = null; }
+                    }
                     if (!built) {
                         elNow.parentNode.removeChild(elNow);
                         return;
