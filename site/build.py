@@ -218,8 +218,12 @@ def build_search_index(hearings):
 
     for shard_key in sorted(shards):
         tokens = shards[shard_key]
-        with open(os.path.join(search_dir, f"idx-{shard_key}.json"), "w", encoding="utf-8") as f:
+        path = os.path.join(search_dir, f"idx-{shard_key}.json")
+        with open(path, "w", encoding="utf-8") as f:
             json.dump({t: tokens[t] for t in sorted(tokens)}, f, separators=(",", ":"))
+        size_kb = os.path.getsize(path) // 1024
+        if size_kb > 500:
+            print(f"WARNING: search shard idx-{shard_key}.json is {size_kb} KB (>500 KB raw) — consider sub-sharding")
     print(f"Built: search/ ({len(docs)} docs, {len(shards)} shards)")
 
 
