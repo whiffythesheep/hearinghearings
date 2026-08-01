@@ -621,7 +621,9 @@ body.desktop {
 
 .hearing-row { margin: 0; }
 
-.hearing-row + .hearing-row {
+/* Separator only between two *visible* rows — hidden (filtered/paged-out)
+   siblings would otherwise leave a stray dashed line under the header */
+.hearing-row:not([hidden]) ~ .hearing-row:not([hidden]) {
     border-top: 1px dashed var(--bevel-dark);
 }
 
