@@ -20,11 +20,12 @@ SITE_URL = "https://hearinghearings.nyc"
 META_IMAGE = f"{SITE_URL}/static/og-image.png"
 
 # Tokenizer contract shared with the search JS in index.html — must match exactly.
-# Decimal/comma/dollar aware: "." or "," continues a token only when a digit
-# follows ("12.7" and "12,000" are single tokens; "12." and "e.g." split, and
-# "2026, 300" splits at the comma-space); "$" attaches only when a digit
-# follows ("$3.5" is one token, a lone "$" is a separator).
-SEARCH_TOKEN_RE = re.compile(r"\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*|[a-z0-9']+")
+# Decimal/comma/dollar/percent aware: "." or "," continues a token only when a
+# digit follows ("12.7" and "12,000" are single tokens; "12." and "e.g." split,
+# and "2026, 300" splits at the comma-space); "$" attaches only when a digit
+# follows ("$3.5" is one token, a lone "$" is a separator); a trailing "%"
+# attaches to digit-led tokens ("50%" is one token).
+SEARCH_TOKEN_RE = re.compile(r"\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*%?|[a-z0-9']+")
 
 # Candidate rotating search-bar examples. Only phrases that actually occur in a
 # published transcript are shipped, so an example never returns zero results.
@@ -143,6 +144,38 @@ def search_phrase_pattern(phrase):
     return re.compile(pre + core + post)
 
 
+def search_token_variants(token):
+    """Closure of alternate spellings a numeric token is dual-indexed under.
+
+    "$12,000" -> {"$12,000", "12,000", "$12000", "12000"}; "50%" -> {"50%",
+    "50"}; "12000" -> {"12000", "12,000"}; "0943" -> {"0943", "943"}. Bare
+    number queries then surface every spelling, while "$"/"%"-qualified
+    queries match only the qualified occurrences. Non-numeric tokens return
+    just themselves.
+    """
+    seen = set()
+    stack = [token]
+    while stack:
+        t = stack.pop()
+        if t in seen:
+            continue
+        seen.add(t)
+        if t.startswith("$"):
+            stack.append(t[1:])
+        if t.endswith("%"):
+            stack.append(t[:-1])
+        if "," in t:
+            stack.append(t.replace(",", ""))
+        else:
+            m = re.fullmatch(r"(\$?)([1-9]\d{3,})((?:\.\d+)?%?)", t)
+            if m:
+                sign, digits, rest = m.groups()
+                stack.append(f"{sign}{int(digits):,}{rest}")
+        if re.fullmatch(r"0\d+", t):
+            stack.append(t.lstrip("0") or "0")
+    return seen
+
+
 def select_search_examples(hearings):
     texts = [h["transcript_text"].lower() for h in hearings if h["transcript_text"]]
     examples = []
@@ -170,12 +203,14 @@ def build_search_index(hearings):
 
     shards = {}
     for i, hearing in enumerate(docs):
-        counts = Counter(search_tokenize(hearing["transcript_text"]))
-        # Dollar tokens are indexed under both forms: "$12.7" also counts
-        # toward "12.7", so bare-number queries surface dollar figures while
-        # "$"-prefixed queries match only actual dollar amounts.
-        for token in [t for t in counts if t.startswith("$")]:
-            counts[token[1:]] += counts[token]
+        raw_counts = Counter(search_tokenize(hearing["transcript_text"]))
+        # Dual indexing: every alternate spelling of a numeric token also
+        # counts toward its twins (see search_token_variants), so a query in
+        # any spelling surfaces every spelling.
+        counts = Counter()
+        for token, count in raw_counts.items():
+            for variant in search_token_variants(token):
+                counts[variant] += count
         for token, count in counts.items():
             first = token[0]
             shard_key = first if first.isalpha() else "0"
