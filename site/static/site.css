@@ -690,8 +690,20 @@ body.desktop {
     padding: 0 1px;
 }
 
+/* Mention count — a sunken Win95 status-bar pane, distinct from the excerpt */
 .excerpt-count {
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0 5px;
+    font-size: 11px;
     font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text);
+    background: var(--chrome-gray);
+    border-top: 1px solid var(--bevel-dark);
+    border-left: 1px solid var(--bevel-dark);
+    border-right: 1px solid var(--bevel-light);
+    border-bottom: 1px solid var(--bevel-light);
     white-space: nowrap;
 }
 

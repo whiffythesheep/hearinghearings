@@ -1528,7 +1528,7 @@
            Prebuilt inverted index under /search/: docs.json (slugs, date
            ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
-        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing"];
+        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing", "Mamdani", "Speaker Menin", "Restler", "NYPD", "NYCHA", "OMB", "DOT", "HPD", "Health and Hospitals", "CUNY", "MTA"];
         /* Decimal/comma/dollar/percent aware, mirroring SEARCH_TOKEN_RE in
            build.py: "." or "," continues a token only when a digit follows
            ("12,000" is one token, "2026, 300" splits); "$" attaches only
@@ -1769,7 +1769,7 @@
 
         function countBadge(count) {
             if (count === null || count === undefined) return '';
-            return '<span class="excerpt-count">· ' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
+            return '<span class="excerpt-count">' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
         }
 
         /* Rows and count badges update on every keystroke; the transcript.txt
@@ -1830,7 +1830,7 @@
                     }
                     var badge = built.isPhrase
                         ? countBadge(m.count !== null ? m.count : built.count)
-                        : '<span class="excerpt-count">· matches all search words</span>';
+                        : '<span class="excerpt-count">matches all search words</span>';
                     elNow.innerHTML = '<span class="excerpt-text">' + built.html + '</span>' + badge;
                 });
             });
