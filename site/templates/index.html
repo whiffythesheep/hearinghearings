@@ -731,6 +731,9 @@
             mentionSortBtn.hidden = !searching;
             mentionSortBtn.classList.toggle('is-active', searching && transcriptState.sortByMentions);
             mentionSortBtn.setAttribute('aria-pressed', searching && transcriptState.sortByMentions ? 'true' : 'false');
+            // When the user flips back to date order mid-search, light the
+            // Date triangle so the active sort is obvious
+            monthCell.classList.toggle('is-sorting', searching && !transcriptState.sortByMentions);
             var useMentionSort = searching && transcriptState.sortByMentions && transcriptState.matches;
 
             var order = rows.map(function (_, i) { return i; });
