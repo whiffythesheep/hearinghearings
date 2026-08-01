@@ -1530,27 +1530,28 @@
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
         var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing"];
         var TOKEN_RE = /[a-z0-9']+/g;
-        var transcriptState = { key: null, matches: null, pending: false };
+        var transcriptState = { key: null, tokens: [], prefixFinal: false, matches: null, pending: false };
         var shardCache = {};
         var docsPromise = null;
         var transcriptCache = {};
-        var transcriptTimer;
+        var excerptTimer;
 
         function tokenizeQuery(q) {
             return q.toLowerCase().match(TOKEN_RE) || [];
         }
 
-        function currentSearchKey() {
-            var q = searchInput.value.trim();
-            if (q.length < 2) return null;
-            var tokens = tokenizeQuery(q);
-            return tokens.length ? tokens.join(' ') : null;
-        }
-
         function syncTranscriptState() {
-            var key = currentSearchKey();
+            var q = searchInput.value.trim();
+            var tokens = q.length >= 2 ? tokenizeQuery(q) : [];
+            // Mid-word typing: the final token matches any indexed token that
+            // starts with it ("jul" hits "julie" and "july"). A trailing
+            // space/punctuation marks the final word complete, so all exact.
+            var prefixFinal = tokens.length > 0 && /[a-z0-9']$/i.test(searchInput.value);
+            var key = tokens.length ? tokens.join(' ') + (prefixFinal ? '*' : '') : null;
             if (transcriptState.key !== key) {
                 transcriptState.key = key;
+                transcriptState.tokens = tokens;
+                transcriptState.prefixFinal = prefixFinal;
                 transcriptState.matches = null;
                 transcriptState.pending = !!key;
             }
@@ -1581,7 +1582,8 @@
         function runTranscriptSearch() {
             var key = transcriptState.key;
             if (!key || transcriptState.matches) return;
-            var tokens = key.split(' ');
+            var tokens = transcriptState.tokens;
+            var prefixFinal = transcriptState.prefixFinal;
             var letters = tokens.map(shardLetter);
             var wanted = [];
             letters.forEach(function (l) { if (wanted.indexOf(l) === -1) wanted.push(l); });
@@ -1591,9 +1593,18 @@
                 var shardsByLetter = {};
                 wanted.forEach(function (l, i) { shardsByLetter[l] = results[i + 1]; });
                 var maps = tokens.map(function (t, i) {
-                    var postings = shardsByLetter[letters[i]][t] || [];
+                    var shard = shardsByLetter[letters[i]];
                     var m = {};
-                    postings.forEach(function (p) { m[p[0]] = p[1]; });
+                    if (prefixFinal && i === tokens.length - 1) {
+                        // Merge postings of every indexed token starting with t;
+                        // counts sum across the matched tokens per doc.
+                        Object.keys(shard).forEach(function (tok) {
+                            if (tok.lastIndexOf(t, 0) !== 0) return;
+                            shard[tok].forEach(function (p) { m[p[0]] = (m[p[0]] || 0) + p[1]; });
+                        });
+                    } else {
+                        (shard[t] || []).forEach(function (p) { m[p[0]] = p[1]; });
+                    }
                     return m;
                 });
                 var matches = {};
@@ -1623,8 +1634,10 @@
             return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         }
 
-        function phraseRegExp(tokens) {
-            var core = tokens.map(escapeRegExp).join("[^a-z0-9']{1,3}");
+        function phraseRegExp(tokens, prefixFinal) {
+            var parts = tokens.map(escapeRegExp);
+            if (prefixFinal) parts[parts.length - 1] += "[a-z0-9']*";
+            var core = parts.join("[^a-z0-9']{1,3}");
             return new RegExp("(?<![a-z0-9'])" + core + "(?![a-z0-9'])", 'g');
         }
 
@@ -1642,9 +1655,9 @@
             return transcriptCache[slug];
         }
 
-        function buildExcerpt(text, tokens, match) {
+        function buildExcerpt(text, tokens, prefixFinal, match) {
             var lower = text.toLowerCase();
-            var re = phraseRegExp(tokens);
+            var re = phraseRegExp(tokens, prefixFinal);
             var count = 0, first = -1, firstLen = 0, mm;
             while ((mm = re.exec(lower)) !== null) {
                 if (first === -1) { first = mm.index; firstLen = mm[0].length; }
@@ -1659,7 +1672,7 @@
                 for (var i = 1; i < tokens.length; i++) {
                     if (match.tokenCounts[i] < match.tokenCounts[rarest]) rarest = i;
                 }
-                highlightRe = phraseRegExp([tokens[rarest]]);
+                highlightRe = phraseRegExp([tokens[rarest]], prefixFinal && rarest === tokens.length - 1);
                 mm = highlightRe.exec(lower);
                 if (!mm) return null;
                 first = mm.index;
@@ -1701,8 +1714,12 @@
             return '<span class="excerpt-count">· ' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
         }
 
+        /* Rows and count badges update on every keystroke; the transcript.txt
+           fetch + excerpt fill sits behind a 150ms debounce. data-excerpt-key
+           marks a row whose fill has been claimed for that search key. */
         function updateExcerpts() {
             var key = transcriptState.key;
+            var needsFill = false;
             rows.forEach(function (row) {
                 var m = (!row.hidden && key && transcriptState.matches)
                     ? transcriptState.matches[row.dataset.slug] : null;
@@ -1713,22 +1730,38 @@
                     return;
                 }
                 if (row.getAttribute('data-excerpt-key') === key) return;
-                row.setAttribute('data-excerpt-key', key);
+                needsFill = true;
                 if (!el) {
                     el = document.createElement('p');
                     el.className = 'hearing-row__excerpt';
                     row.querySelector('a').appendChild(el);
                 }
                 el.innerHTML = '<span class="excerpt-text">…</span>' + countBadge(m.count);
-                var tokens = key.split(' ');
+            });
+            clearTimeout(excerptTimer);
+            if (needsFill) excerptTimer = setTimeout(fillExcerpts, 150);
+        }
+
+        function fillExcerpts() {
+            var key = transcriptState.key;
+            if (!key || !transcriptState.matches) return;
+            var tokens = transcriptState.tokens;
+            var prefixFinal = transcriptState.prefixFinal;
+            rows.forEach(function (row) {
+                var m = !row.hidden ? transcriptState.matches[row.dataset.slug] : null;
+                if (!m || row.getAttribute('data-excerpt-key') === key) return;
+                row.setAttribute('data-excerpt-key', key);
                 loadTranscript(row.dataset.slug).then(function (text) {
-                    if (transcriptState.key !== key || row.getAttribute('data-excerpt-key') !== key) return;
+                    if (row.getAttribute('data-excerpt-key') !== key) return;
+                    if (transcriptState.key !== key) {
+                        row.removeAttribute('data-excerpt-key');
+                        return;
+                    }
                     var elNow = row.querySelector('.hearing-row__excerpt');
                     if (!elNow) return;
-                    var built = text ? buildExcerpt(text, tokens, m) : null;
+                    var built = text ? buildExcerpt(text, tokens, prefixFinal, m) : null;
                     if (!built) {
                         elNow.parentNode.removeChild(elNow);
-                        row.removeAttribute('data-excerpt-key');
                         return;
                     }
                     var badge = built.isPhrase
@@ -1937,12 +1970,11 @@
             currentPage = 1;
             syncTranscriptState();
             apply();
+            runTranscriptSearch();
             clearTimeout(searchTimer);
             searchTimer = setTimeout(function () {
                 history.replaceState(null, '', buildQueryString());
             }, 150);
-            clearTimeout(transcriptTimer);
-            transcriptTimer = setTimeout(runTranscriptSearch, 250);
         });
 
         clearBtn.addEventListener('click', function () {
