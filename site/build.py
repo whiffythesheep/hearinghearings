@@ -44,18 +44,18 @@ SEARCH_EXAMPLE_CANDIDATES = [
     "composting",
     "rats",
     "affordable housing",
-    # People (verified widespread in the corpus, 2026-08-01)
+    # People (verified present in the corpus, 2026-08-01; order is
+    # irrelevant — the client shuffles before rotating)
     "Mamdani",
-    "Speaker Menin",
-    "Restler",
+    "Julie Menin",
+    "Hochul",
+    "Trump",
     # Agencies / departments (same)
     "NYPD",
     "NYCHA",
     "OMB",
     "DOT",
     "HPD",
-    "Health and Hospitals",
-    "CUNY",
     "MTA",
 ]
 

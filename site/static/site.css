@@ -625,6 +625,7 @@ body.desktop {
 }
 
 .hearing-row a {
+    position: relative;
     display: grid;
     grid-template-columns: 9rem minmax(10rem, 20rem) 1fr;
     gap: 1.25rem;
@@ -690,21 +691,22 @@ body.desktop {
     padding: 0 1px;
 }
 
-/* Mention count — a sunken Win95 status-bar pane, distinct from the excerpt */
-.excerpt-count {
-    display: inline-block;
-    margin-left: 0.4rem;
-    padding: 0 5px;
+/* Mention count — pinned to the top right of the hearing's box */
+.hearing-row__count {
+    position: absolute;
+    top: 0.7rem;
+    right: 1rem;
+    font-family: var(--font-chrome);
     font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.04em;
-    color: var(--text);
-    background: var(--chrome-gray);
-    border-top: 1px solid var(--bevel-dark);
-    border-left: 1px solid var(--bevel-dark);
-    border-right: 1px solid var(--bevel-light);
-    border-bottom: 1px solid var(--bevel-light);
+    color: var(--text-muted);
     white-space: nowrap;
+}
+
+/* Keep long titles clear of the pinned count */
+.hearing-row--matched .hearing-row__title {
+    padding-right: 8rem;
 }
 
 /* ---------- Responsive ---------- */
@@ -1001,6 +1003,13 @@ body.desktop {
     .hearing-controls__status {
         margin-left: auto;
         order: 2;
+    }
+    .hearing-row__count {
+        top: 0.75rem;
+    }
+    /* Single-column rows: the count sits beside the short date line */
+    .hearing-row--matched .hearing-row__title {
+        padding-right: 0;
     }
     /* Keep column headers visible on mobile so filters remain reachable */
     .hearing-colheaders {

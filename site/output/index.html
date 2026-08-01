@@ -1528,7 +1528,7 @@
            Prebuilt inverted index under /search/: docs.json (slugs, date
            ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
-        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing", "Mamdani", "Speaker Menin", "Restler", "NYPD", "NYCHA", "OMB", "DOT", "HPD", "Health and Hospitals", "CUNY", "MTA"];
+        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing", "Mamdani", "Julie Menin", "Hochul", "Trump", "NYPD", "NYCHA", "OMB", "DOT", "HPD", "MTA"];
         /* Decimal/comma/dollar/percent aware, mirroring SEARCH_TOKEN_RE in
            build.py: "." or "," continues a token only when a digit follows
            ("12,000" is one token, "2026, 300" splits); "$" attaches only
@@ -1767,9 +1767,25 @@
             };
         }
 
-        function countBadge(count) {
-            if (count === null || count === undefined) return '';
-            return '<span class="excerpt-count">' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
+        function countText(count) {
+            if (count === null || count === undefined) return null;
+            return count + (count === 1 ? ' mention' : ' mentions');
+        }
+
+        function setRowCount(row, text) {
+            var el = row.querySelector('.hearing-row__count');
+            if (!text) {
+                if (el) el.parentNode.removeChild(el);
+                row.classList.remove('hearing-row--matched');
+                return;
+            }
+            if (!el) {
+                el = document.createElement('span');
+                el.className = 'hearing-row__count';
+                row.querySelector('a').appendChild(el);
+            }
+            el.textContent = text;
+            row.classList.add('hearing-row--matched');
         }
 
         /* Rows and count badges update on every keystroke; the transcript.txt
@@ -1784,6 +1800,7 @@
                 var el = row.querySelector('.hearing-row__excerpt');
                 if (!m) {
                     if (el) el.parentNode.removeChild(el);
+                    setRowCount(row, null);
                     row.removeAttribute('data-excerpt-key');
                     return;
                 }
@@ -1794,7 +1811,8 @@
                     el.className = 'hearing-row__excerpt';
                     row.querySelector('a').appendChild(el);
                 }
-                el.innerHTML = '<span class="excerpt-text">…</span>' + countBadge(m.count);
+                el.innerHTML = '<span class="excerpt-text">"…"</span>';
+                setRowCount(row, countText(m.count));
             });
             clearTimeout(excerptTimer);
             if (needsFill) excerptTimer = setTimeout(fillExcerpts, 150);
@@ -1826,12 +1844,13 @@
                     }
                     if (!built) {
                         elNow.parentNode.removeChild(elNow);
+                        setRowCount(row, null);
                         return;
                     }
-                    var badge = built.isPhrase
-                        ? countBadge(m.count !== null ? m.count : built.count)
-                        : '<span class="excerpt-count">matches all search words</span>';
-                    elNow.innerHTML = '<span class="excerpt-text">' + built.html + '</span>' + badge;
+                    elNow.innerHTML = '<span class="excerpt-text">"' + built.html + '"</span>';
+                    setRowCount(row, built.isPhrase
+                        ? countText(m.count !== null ? m.count : built.count)
+                        : 'matches all words');
                 });
             });
         }
@@ -2075,10 +2094,18 @@
 
         /* ---------- Rotating search-bar examples ---------- */
         if (SEARCH_EXAMPLES.length) {
-            var exampleIdx = Math.floor(Math.random() * SEARCH_EXAMPLES.length);
+            // Fisher-Yates shuffle per visit so people, agencies and phrases mix
+            var examples = SEARCH_EXAMPLES.slice();
+            for (var si = examples.length - 1; si > 0; si--) {
+                var sj = Math.floor(Math.random() * (si + 1));
+                var stmp = examples[si];
+                examples[si] = examples[sj];
+                examples[sj] = stmp;
+            }
+            var exampleIdx = 0;
             var FADE_MS = 240; // keep in sync with the ::placeholder transition
             var setExample = function () {
-                searchInput.placeholder = 'try "' + SEARCH_EXAMPLES[exampleIdx % SEARCH_EXAMPLES.length] + '"';
+                searchInput.placeholder = 'try "' + examples[exampleIdx % examples.length] + '"';
                 exampleIdx++;
             };
             setExample();
