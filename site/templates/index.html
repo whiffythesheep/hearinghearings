@@ -158,7 +158,7 @@
 <section class="index-section">
     <header class="index-section__header">
         <h2 class="section-heading">Hearings</h2>
-        <label class="sr-only" for="hearing-search">Search hearings</label>
+        <label class="sr-only" for="hearing-search">Search hearings and transcripts</label>
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
@@ -209,7 +209,8 @@
             <li class="hearing-row"
                 data-committees='{{ hearing.committee_list|tojson }}'
                 data-title="{{ hearing.title }}"
-                data-month="{{ hearing.month }}">
+                data-month="{{ hearing.month }}"
+                data-slug="{{ hearing.slug }}">
                 <a href="/hearings/{{ hearing.slug }}/">
                     <time class="hearing-row__date" datetime="{{ hearing.date }}">
                         {{ hearing.date_display }}
@@ -253,6 +254,221 @@
             try { return JSON.parse(row.dataset.committees) || []; }
             catch (e) { return []; }
         });
+
+        /* ---------- Full-text transcript search ----------
+           Prebuilt inverted index under /search/: docs.json (slugs, date
+           ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
+           Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
+        var SEARCH_EXAMPLES = {{ search_examples|tojson }};
+        var TOKEN_RE = /[a-z0-9']+/g;
+        var transcriptState = { key: null, matches: null, pending: false };
+        var shardCache = {};
+        var docsPromise = null;
+        var transcriptCache = {};
+        var transcriptTimer;
+
+        function tokenizeQuery(q) {
+            return q.toLowerCase().match(TOKEN_RE) || [];
+        }
+
+        function currentSearchKey() {
+            var q = searchInput.value.trim();
+            if (q.length < 2) return null;
+            var tokens = tokenizeQuery(q);
+            return tokens.length ? tokens.join(' ') : null;
+        }
+
+        function syncTranscriptState() {
+            var key = currentSearchKey();
+            if (transcriptState.key !== key) {
+                transcriptState.key = key;
+                transcriptState.matches = null;
+                transcriptState.pending = !!key;
+            }
+        }
+
+        function shardLetter(token) {
+            var c = token.charAt(0);
+            return (c >= 'a' && c <= 'z') ? c : '0';
+        }
+
+        function loadJSON(url, fallback) {
+            return fetch(url).then(function (r) {
+                if (!r.ok) throw new Error(r.status);
+                return r.json();
+            }).catch(function () { return fallback; });
+        }
+
+        function loadShard(letter) {
+            if (!shardCache[letter]) shardCache[letter] = loadJSON('/search/idx-' + letter + '.json', {});
+            return shardCache[letter];
+        }
+
+        function loadDocs() {
+            if (!docsPromise) docsPromise = loadJSON('/search/docs.json', []);
+            return docsPromise;
+        }
+
+        function runTranscriptSearch() {
+            var key = transcriptState.key;
+            if (!key || transcriptState.matches) return;
+            var tokens = key.split(' ');
+            var letters = tokens.map(shardLetter);
+            var wanted = [];
+            letters.forEach(function (l) { if (wanted.indexOf(l) === -1) wanted.push(l); });
+            Promise.all([loadDocs()].concat(wanted.map(loadShard))).then(function (results) {
+                if (transcriptState.key !== key) return;
+                var slugs = results[0];
+                var shardsByLetter = {};
+                wanted.forEach(function (l, i) { shardsByLetter[l] = results[i + 1]; });
+                var maps = tokens.map(function (t, i) {
+                    var postings = shardsByLetter[letters[i]][t] || [];
+                    var m = {};
+                    postings.forEach(function (p) { m[p[0]] = p[1]; });
+                    return m;
+                });
+                var matches = {};
+                Object.keys(maps[0]).forEach(function (di) {
+                    for (var j = 1; j < maps.length; j++) {
+                        if (!(di in maps[j])) return;
+                    }
+                    var slug = slugs[di];
+                    if (!slug) return;
+                    matches[slug] = {
+                        count: tokens.length === 1 ? maps[0][di] : null,
+                        tokenCounts: maps.map(function (m) { return m[di]; })
+                    };
+                });
+                transcriptState.matches = matches;
+                transcriptState.pending = false;
+                apply();
+            });
+        }
+
+        /* ---------- Excerpts ---------- */
+        function escapeHTML(s) {
+            return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+
+        function escapeRegExp(s) {
+            return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        function phraseRegExp(tokens) {
+            var core = tokens.map(escapeRegExp).join("[^a-z0-9']{1,3}");
+            return new RegExp("(?<![a-z0-9'])" + core + "(?![a-z0-9'])", 'g');
+        }
+
+        function loadTranscript(slug) {
+            if (!transcriptCache[slug]) {
+                transcriptCache[slug] = fetch('/hearings/' + slug + '/transcript.txt')
+                    .then(function (r) { return r.ok ? r.text() : ''; })
+                    .then(function (t) {
+                        // Strip the title/meta header; the file is CRLF-terminated.
+                        var sep = t.match(/\r?\n={16,}\r?\n\s*/);
+                        return sep ? t.slice(sep.index + sep[0].length) : t;
+                    })
+                    .catch(function () { return ''; });
+            }
+            return transcriptCache[slug];
+        }
+
+        function buildExcerpt(text, tokens, match) {
+            var lower = text.toLowerCase();
+            var re = phraseRegExp(tokens);
+            var count = 0, first = -1, firstLen = 0, mm;
+            while ((mm = re.exec(lower)) !== null) {
+                if (first === -1) { first = mm.index; firstLen = mm[0].length; }
+                count++;
+                if (mm.index === re.lastIndex) re.lastIndex++;
+            }
+            var isPhrase = first !== -1;
+            var highlightRe = re;
+            if (!isPhrase) {
+                // All words present but never adjacent: anchor on the rarest word.
+                var rarest = 0;
+                for (var i = 1; i < tokens.length; i++) {
+                    if (match.tokenCounts[i] < match.tokenCounts[rarest]) rarest = i;
+                }
+                highlightRe = phraseRegExp([tokens[rarest]]);
+                mm = highlightRe.exec(lower);
+                if (!mm) return null;
+                first = mm.index;
+                firstLen = mm[0].length;
+            }
+            var start = Math.max(0, first - 140);
+            var end = Math.min(text.length, first + firstLen + 140);
+            if (start > 0) {
+                var sp = lower.indexOf(' ', start);
+                if (sp !== -1 && sp < first) start = sp + 1;
+            }
+            if (end < text.length) {
+                var ep = lower.lastIndexOf(' ', end);
+                if (ep > first + firstLen) end = ep;
+            }
+            var snippet = text.slice(start, end)
+                .replace(/\(\d{1,2}:\d{2}:\d{2}\)/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+            var snipLower = snippet.toLowerCase();
+            highlightRe.lastIndex = 0;
+            var out = '', last = 0;
+            while ((mm = highlightRe.exec(snipLower)) !== null) {
+                out += escapeHTML(snippet.slice(last, mm.index))
+                    + '<mark>' + escapeHTML(snippet.substr(mm.index, mm[0].length)) + '</mark>';
+                last = mm.index + mm[0].length;
+                if (mm.index === highlightRe.lastIndex) highlightRe.lastIndex++;
+            }
+            out += escapeHTML(snippet.slice(last));
+            return {
+                html: (start > 0 ? '… ' : '') + out + (end < text.length ? ' …' : ''),
+                count: isPhrase ? count : null,
+                isPhrase: isPhrase
+            };
+        }
+
+        function countBadge(count) {
+            if (count === null || count === undefined) return '';
+            return '<span class="excerpt-count">· ' + count + (count === 1 ? ' mention' : ' mentions') + '</span>';
+        }
+
+        function updateExcerpts() {
+            var key = transcriptState.key;
+            rows.forEach(function (row) {
+                var m = (!row.hidden && key && transcriptState.matches)
+                    ? transcriptState.matches[row.dataset.slug] : null;
+                var el = row.querySelector('.hearing-row__excerpt');
+                if (!m) {
+                    if (el) el.parentNode.removeChild(el);
+                    row.removeAttribute('data-excerpt-key');
+                    return;
+                }
+                if (row.getAttribute('data-excerpt-key') === key) return;
+                row.setAttribute('data-excerpt-key', key);
+                if (!el) {
+                    el = document.createElement('p');
+                    el.className = 'hearing-row__excerpt';
+                    row.querySelector('a').appendChild(el);
+                }
+                el.innerHTML = '<span class="excerpt-text">…</span>' + countBadge(m.count);
+                var tokens = key.split(' ');
+                loadTranscript(row.dataset.slug).then(function (text) {
+                    if (transcriptState.key !== key || row.getAttribute('data-excerpt-key') !== key) return;
+                    var elNow = row.querySelector('.hearing-row__excerpt');
+                    if (!elNow) return;
+                    var built = text ? buildExcerpt(text, tokens, m) : null;
+                    if (!built) {
+                        elNow.parentNode.removeChild(elNow);
+                        row.removeAttribute('data-excerpt-key');
+                        return;
+                    }
+                    var badge = built.isPhrase
+                        ? countBadge(m.count !== null ? m.count : built.count)
+                        : '<span class="excerpt-count">· matches all search words</span>';
+                    elNow.innerHTML = '<span class="excerpt-text">' + built.html + '</span>' + badge;
+                });
+            });
+        }
 
         function getChecked(cell) {
             return Array.prototype.slice.call(
@@ -311,6 +527,13 @@
             var q = searchInput.value.trim().toLowerCase();
             var selectedMonths = getChecked(monthCell);
             var selectedCommittees = getChecked(committeeCell);
+            // Word-boundary-prefixed title match: "ai" hits "AI Disclosure",
+            // not "Maintaining"; prefix typing ("sanit") still matches.
+            var titleRe = null;
+            if (q) {
+                try { titleRe = new RegExp("(?<![a-z0-9'])" + escapeRegExp(q)); }
+                catch (e) { titleRe = null; }
+            }
             var filterMatches = new Array(rows.length);
             var totalFiltered = 0;
             rows.forEach(function (row, i) {
@@ -325,7 +548,10 @@
                 }
                 if (show && q) {
                     var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ')).toLowerCase();
-                    if (hay.indexOf(q) === -1) show = false;
+                    var titleMatch = titleRe ? titleRe.test(hay) : hay.indexOf(q) !== -1;
+                    var transcriptMatch = transcriptState.matches
+                        && Object.prototype.hasOwnProperty.call(transcriptState.matches, row.dataset.slug);
+                    if (!titleMatch && !transcriptMatch) show = false;
                 }
                 filterMatches[i] = show;
                 if (show) totalFiltered++;
@@ -364,7 +590,9 @@
             var anyFilter = q || selectedMonths.length || selectedCommittees.length;
             clearBtn.hidden = !anyFilter;
 
-            if (totalFiltered === 0) {
+            if (transcriptState.pending) {
+                countEl.textContent = 'Searching transcripts…';
+            } else if (totalFiltered === 0) {
                 countEl.textContent = 'Showing 0 of ' + totalHearings;
             } else if (totalFiltered <= PAGE_SIZE) {
                 countEl.textContent = 'Showing ' + totalFiltered + ' of ' + totalHearings;
@@ -373,6 +601,7 @@
             }
 
             renderPagination(totalFiltered, pageCount);
+            updateExcerpts();
 
             if (clamped) {
                 history.replaceState(null, '', buildQueryString());
@@ -437,11 +666,14 @@
         var searchTimer;
         searchInput.addEventListener('input', function () {
             currentPage = 1;
+            syncTranscriptState();
             apply();
             clearTimeout(searchTimer);
             searchTimer = setTimeout(function () {
                 history.replaceState(null, '', buildQueryString());
             }, 150);
+            clearTimeout(transcriptTimer);
+            transcriptTimer = setTimeout(runTranscriptSearch, 250);
         });
 
         clearBtn.addEventListener('click', function () {
@@ -449,6 +681,7 @@
             setChecked(monthCell, []);
             setChecked(committeeCell, []);
             currentPage = 1;
+            syncTranscriptState();
             history.pushState(null, '', buildQueryString());
             apply();
         });
@@ -470,11 +703,27 @@
 
         window.addEventListener('popstate', function () {
             readURL();
+            syncTranscriptState();
             apply();
+            runTranscriptSearch();
         });
 
+        /* ---------- Rotating search-bar examples ---------- */
+        if (SEARCH_EXAMPLES.length) {
+            var exampleIdx = Math.floor(Math.random() * SEARCH_EXAMPLES.length);
+            var rotatePlaceholder = function () {
+                if (document.activeElement === searchInput || searchInput.value) return;
+                searchInput.placeholder = 'try "' + SEARCH_EXAMPLES[exampleIdx % SEARCH_EXAMPLES.length] + '"';
+                exampleIdx++;
+            };
+            rotatePlaceholder();
+            setInterval(rotatePlaceholder, 3500);
+        }
+
         readURL();
+        syncTranscriptState();
         apply();
+        runTranscriptSearch();
     })();
 </script>
 {% endblock %}
