@@ -204,6 +204,10 @@
                     </div>
                 </span>
                 <span class="hearing-row__title">Hearing</span>
+                <button type="button" class="colheader-sort" id="mention-sort" hidden aria-pressed="false">
+                    Mentions
+                    <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                </button>
             </li>
         {% for hearing in hearings %}
             <li class="hearing-row"
@@ -240,6 +244,8 @@
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
         var emptyEl = document.querySelector('.hearing-empty');
+        var mentionSortBtn = document.getElementById('mention-sort');
+        var domReordered = false;
         var paginationEls = Array.prototype.slice.call(document.querySelectorAll('.pagination'));
         var paginationPagesEl = document.getElementById('pagination-pages');
         var prevBtns = Array.prototype.slice.call(document.querySelectorAll('.pagination [data-page-rel="prev"]'));
@@ -269,7 +275,7 @@
            alternate spellings ("$12,000" also as "12,000"/"12000"; "50%"
            also as "50"; "0943" also as "943"). */
         var TOKEN_RE = /\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*%?|[a-z0-9']+/g;
-        var transcriptState = { key: null, tokens: [], prefixFinal: false, matches: null, pending: false };
+        var transcriptState = { key: null, tokens: [], prefixFinal: false, matches: null, pending: false, sortByMentions: true };
         var shardCache = {};
         var docsPromise = null;
         var transcriptCache = {};
@@ -288,6 +294,8 @@
             var prefixFinal = tokens.length > 0 && /[a-z0-9']$/i.test(searchInput.value);
             var key = tokens.length ? tokens.join(' ') + (prefixFinal ? '*' : '') : null;
             if (transcriptState.key !== key) {
+                // A fresh search session defaults back to the mentions sort
+                if (!transcriptState.key && key) transcriptState.sortByMentions = true;
                 transcriptState.key = key;
                 transcriptState.tokens = tokens;
                 transcriptState.prefixFinal = prefixFinal;
@@ -374,13 +382,51 @@
                     if (!slug) return;
                     matches[slug] = {
                         count: tokens.length === 1 ? maps[0][di] : null,
+                        isPhrase: tokens.length === 1 ? true : null,
                         tokenCounts: maps.map(function (m) { return m[di]; })
                     };
                 });
-                transcriptState.matches = matches;
-                transcriptState.pending = false;
-                apply();
+                if (tokens.length === 1) {
+                    transcriptState.matches = matches;
+                    transcriptState.pending = false;
+                    apply();
+                    return;
+                }
+                // Multi-word: resolve exact phrase counts for every matched
+                // hearing up front — the mentions sort needs them all, not
+                // just the visible page.
+                var slugsToVerify = Object.keys(matches);
+                Promise.all(slugsToVerify.map(loadTranscript)).then(function (texts) {
+                    if (transcriptState.key !== key) return;
+                    slugsToVerify.forEach(function (slug, vi) {
+                        var res = countPhrase(texts[vi], tokens, prefixFinal, matches[slug]);
+                        matches[slug].count = res.count;
+                        matches[slug].isPhrase = res.isPhrase;
+                    });
+                    transcriptState.matches = matches;
+                    transcriptState.pending = false;
+                    apply();
+                });
             });
+        }
+
+        function countPhrase(text, tokens, prefixFinal, match) {
+            // Fallback when the text is unavailable or the engine lacks
+            // lookbehind: assume a phrase with the index's minimum count.
+            var approx = { count: Math.min.apply(null, match.tokenCounts), isPhrase: true };
+            if (!text) return approx;
+            try {
+                var re = phraseRegExp(tokens, prefixFinal);
+                var lower = text.toLowerCase();
+                var n = 0, mm;
+                while ((mm = re.exec(lower)) !== null) {
+                    n++;
+                    if (mm.index === re.lastIndex) re.lastIndex++;
+                }
+                return n > 0 ? { count: n, isPhrase: true } : { count: null, isPhrase: false };
+            } catch (e) {
+                return approx;
+            }
         }
 
         /* ---------- Excerpts ---------- */
@@ -500,12 +546,12 @@
 
         function countText(count) {
             if (count === null || count === undefined) return null;
-            return '<strong>' + count + '</strong>' + (count === 1 ? ' mention' : ' mentions');
+            return count + (count === 1 ? ' mention' : ' mentions');
         }
 
-        function setRowCount(row, html) {
+        function setRowCount(row, text) {
             var el = row.querySelector('.hearing-row__count');
-            if (!html) {
+            if (!text) {
                 if (el) el.parentNode.removeChild(el);
                 row.classList.remove('hearing-row--matched');
                 return;
@@ -515,7 +561,7 @@
                 el.className = 'hearing-row__count';
                 row.querySelector('a').appendChild(el);
             }
-            el.innerHTML = html;
+            el.textContent = text;
             row.classList.add('hearing-row--matched');
         }
 
@@ -543,7 +589,7 @@
                     row.querySelector('a').appendChild(el);
                 }
                 el.innerHTML = '<span class="excerpt-text">"…"</span>';
-                setRowCount(row, countText(m.count));
+                setRowCount(row, m.isPhrase === false ? 'matches all words' : countText(m.count));
             });
             clearTimeout(excerptTimer);
             if (needsFill) excerptTimer = setTimeout(fillExcerpts, 150);
@@ -678,12 +724,47 @@
             if (currentPage > pageCount) { currentPage = pageCount; clamped = true; }
             if (currentPage < 1) { currentPage = 1; clamped = true; }
 
+            // Mentions sort: active by default while searching. Phrase-counted
+            // rows first (count desc), then title-only matches, then
+            // "matches all words" rows at the end; date order breaks ties.
+            var searching = !!transcriptState.key;
+            mentionSortBtn.hidden = !searching;
+            mentionSortBtn.classList.toggle('is-active', searching && transcriptState.sortByMentions);
+            mentionSortBtn.setAttribute('aria-pressed', searching && transcriptState.sortByMentions ? 'true' : 'false');
+            var useMentionSort = searching && transcriptState.sortByMentions && transcriptState.matches;
+
+            var order = rows.map(function (_, i) { return i; });
+            if (useMentionSort) {
+                var rank = rows.map(function (row) {
+                    var m = transcriptState.matches[row.dataset.slug];
+                    if (m && m.isPhrase !== false) return { g: 0, c: m.count || 0 };
+                    if (m) return { g: 2, c: 0 }; // matches all words → end
+                    return { g: 1, c: 0 };        // title/committee-only match
+                });
+                order.sort(function (ia, ib) {
+                    if (rank[ia].g !== rank[ib].g) return rank[ia].g - rank[ib].g;
+                    if (rank[ia].c !== rank[ib].c) return rank[ib].c - rank[ia].c;
+                    return ia - ib;
+                });
+            }
+            var listEl = emptyEl.parentNode;
+            if (useMentionSort) {
+                order.forEach(function (i) { listEl.appendChild(rows[i]); });
+                listEl.appendChild(emptyEl);
+                domReordered = true;
+            } else if (domReordered) {
+                rows.forEach(function (row) { listEl.appendChild(row); });
+                listEl.appendChild(emptyEl);
+                domReordered = false;
+            }
+
             var startIdx = (currentPage - 1) * PAGE_SIZE;
             var endIdx = startIdx + PAGE_SIZE;
             var matchedSeen = 0;
             var firstShown = null;
             var lastShown = null;
-            rows.forEach(function (row, i) {
+            order.forEach(function (i) {
+                var row = rows[i];
                 var inPage = false;
                 if (filterMatches[i]) {
                     if (matchedSeen >= startIdx && matchedSeen < endIdx) {
@@ -789,6 +870,12 @@
             searchTimer = setTimeout(function () {
                 history.replaceState(null, '', buildQueryString());
             }, 150);
+        });
+
+        mentionSortBtn.addEventListener('click', function () {
+            transcriptState.sortByMentions = !transcriptState.sortByMentions;
+            currentPage = 1;
+            apply();
         });
 
         clearBtn.addEventListener('click', function () {
