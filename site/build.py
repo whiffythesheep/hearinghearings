@@ -20,10 +20,11 @@ SITE_URL = "https://hearinghearings.nyc"
 META_IMAGE = f"{SITE_URL}/static/og-image.png"
 
 # Tokenizer contract shared with the search JS in index.html — must match exactly.
-# Decimal/dollar aware: "." continues a token only when a digit follows
-# ("12.7" is one token, "12." and "e.g." split); "$" attaches only when a
-# digit follows ("$3.5" is one token, a lone "$" is a separator).
-SEARCH_TOKEN_RE = re.compile(r"\$?\d[a-z0-9']*(?:\.\d[a-z0-9']*)*|[a-z0-9']+")
+# Decimal/comma/dollar aware: "." or "," continues a token only when a digit
+# follows ("12.7" and "12,000" are single tokens; "12." and "e.g." split, and
+# "2026, 300" splits at the comma-space); "$" attaches only when a digit
+# follows ("$3.5" is one token, a lone "$" is a separator).
+SEARCH_TOKEN_RE = re.compile(r"\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*|[a-z0-9']+")
 
 # Candidate rotating search-bar examples. Only phrases that actually occur in a
 # published transcript are shipped, so an example never returns zero results.
@@ -135,10 +136,10 @@ def search_phrase_pattern(phrase):
     core = r"[^a-z0-9']{1,3}".join(re.escape(t) for t in tokens)
     pre = r"(?<![a-z0-9'])"
     if tokens and tokens[0][0] in "$0123456789":
-        pre += r"(?<!\d\.)"
+        pre += r"(?<!\d[.,])"
     post = r"(?![a-z0-9'])"
     if tokens and tokens[-1][-1].isdigit():
-        post = r"(?![a-z0-9']|\.\d)"
+        post = r"(?![a-z0-9']|[.,]\d)"
     return re.compile(pre + core + post)
 
 

@@ -1529,11 +1529,12 @@
            ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
         var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing"];
-        /* Decimal/dollar aware, mirroring SEARCH_TOKEN_RE in build.py:
-           "." continues a token only when a digit follows; "$" attaches
-           only when a digit follows. "$"- and digit-initial tokens share
-           the "0" shard (see shardLetter). */
-        var TOKEN_RE = /\$?\d[a-z0-9']*(?:\.\d[a-z0-9']*)*|[a-z0-9']+/g;
+        /* Decimal/comma/dollar aware, mirroring SEARCH_TOKEN_RE in build.py:
+           "." or "," continues a token only when a digit follows ("12,000"
+           is one token, "2026, 300" splits); "$" attaches only when a digit
+           follows. "$"- and digit-initial tokens share the "0" shard (see
+           shardLetter). */
+        var TOKEN_RE = /\$?\d[a-z0-9']*(?:[.,]\d[a-z0-9']*)*|[a-z0-9']+/g;
         var transcriptState = { key: null, tokens: [], prefixFinal: false, matches: null, pending: false };
         var shardCache = {};
         var docsPromise = null;
@@ -1643,14 +1644,15 @@
             // literal ("12.7" cannot match "12x7"; "$12" cannot anchor).
             var parts = tokens.map(escapeRegExp);
             var pre = "(?<![a-z0-9'])";
-            if (/^[$\d]/.test(tokens[0])) pre += "(?<!\\d\\.)";
+            if (/^[$\d]/.test(tokens[0])) pre += "(?<!\\d[.,])";
             var post = "(?![a-z0-9'])";
             if (prefixFinal) {
-                // Continue through the rest of the word, including decimals,
-                // so "12" highlights all of "12.7" and "$3" all of "$3.5".
-                parts[parts.length - 1] += "[a-z0-9']*(?:\\.\\d[a-z0-9']*)*";
+                // Continue through the rest of the word, including decimals
+                // and comma groups, so "12" highlights all of "12.7" and
+                // "$3" all of "$3,500".
+                parts[parts.length - 1] += "[a-z0-9']*(?:[.,]\\d[a-z0-9']*)*";
             } else if (/\d$/.test(tokens[tokens.length - 1])) {
-                post = "(?![a-z0-9']|\\.\\d)";
+                post = "(?![a-z0-9']|[.,]\\d)";
             }
             var core = parts.join("[^a-z0-9']{1,3}");
             return new RegExp(pre + core + post, 'g');
