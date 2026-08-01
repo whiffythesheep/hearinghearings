@@ -50,6 +50,16 @@ python -m http.server --bind 127.0.0.1 8001
 
 Local preview **must** be via a served URL (`http://127.0.0.1:8001`), not `file://` — templates reference `/static/site.css` as an absolute path that only resolves under a served root.
 
+## Full-text transcript search
+
+The index-page search box queries a prebuilt inverted index that `build_search_index()` in `site/build.py` writes to `site/output/search/`: `docs.json` (slugs sorted date ascending + slug tiebreak — **do not change the ordering**; it keeps doc indices stable so adding a hearing only appends) and `idx-<a-z|0>.json` shards mapping token → `[[docIdx, count]]`. The client JS in `site/templates/index.html` lazy-loads only the shards a query needs, shows exact mention counts, and fetches matching `transcript.txt` files to render a highlighted excerpt (with exact-phrase verification for multi-word queries).
+
+Two invariants shared between Python and JS — keep them in sync if either changes:
+- **Tokenizer**: lowercase runs of `[a-z0-9']` (`SEARCH_TOKEN_RE` in build.py, `TOKEN_RE` in index.html).
+- **transcript.txt header strip**: the files are CRLF; the JS separator regex must stay CRLF-tolerant (`\r?\n={16,}\r?\n`).
+
+Rotating search-bar examples come from `SEARCH_EXAMPLE_CANDIDATES` in `build.py`, filtered at build time to phrases that actually occur in a published transcript.
+
 ## Summarizer pipeline
 
 ```bash
