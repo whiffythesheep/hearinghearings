@@ -2076,13 +2076,20 @@
         /* ---------- Rotating search-bar examples ---------- */
         if (SEARCH_EXAMPLES.length) {
             var exampleIdx = Math.floor(Math.random() * SEARCH_EXAMPLES.length);
-            var rotatePlaceholder = function () {
-                if (document.activeElement === searchInput || searchInput.value) return;
+            var FADE_MS = 240; // keep in sync with the ::placeholder transition
+            var setExample = function () {
                 searchInput.placeholder = 'try "' + SEARCH_EXAMPLES[exampleIdx % SEARCH_EXAMPLES.length] + '"';
                 exampleIdx++;
             };
-            rotatePlaceholder();
-            setInterval(rotatePlaceholder, 3500);
+            setExample();
+            setInterval(function () {
+                if (document.activeElement === searchInput || searchInput.value) return;
+                searchInput.classList.add('placeholder-fade');
+                setTimeout(function () {
+                    if (document.activeElement !== searchInput && !searchInput.value) setExample();
+                    searchInput.classList.remove('placeholder-fade');
+                }, FADE_MS);
+            }, 3500);
         }
 
         readURL();
