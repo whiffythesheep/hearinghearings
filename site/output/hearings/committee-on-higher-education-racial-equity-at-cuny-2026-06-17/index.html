@@ -83,7 +83,7 @@
 <p>CUNY presented a broadly positive picture of its diversity record. Its student body is 78% students of color, and 45% of its nearly 19,000 faculty members are from minority groups, well above the national average of roughly 28%. Over the past academic year, 61% of new full-time faculty hires were from minority groups. Senior leadership has also diversified substantially since 2019, with 62% of the 26 college presidents and deans now from minority groups. On the student side, CUNY reported it has already met its 2030 goal of closing the racial gap in graduate school enrollment from CUNY baccalaureate programs, ahead of schedule.</p>
 <p>Chair Joseph pressed consistently on the gap between student demographics and faculty demographics, particularly the underrepresentation of Black and Hispanic faculty relative to the student body, and the higher whiteness of part-time adjunct faculty and graduate-level students. She asked pointed questions about whether CUNY has specific numeric targets for diversity. The honest answer, given repeatedly and somewhat awkwardly, is that it does not: CUNY relies on broad recruitment, diverse search committees, Chief Diversity Officer sign-off and feedback loops rather than quotas or measurable demographic goals. A council member followed up on this directly, noting that without defined goals it is hard to assess whether anything is actually improving beyond good intentions and busy committees. The provost's responses on metrics were notably vague, though she cited the COACHE biennial faculty survey and exit surveys as key tools.</p>
 <p>Several substantive program updates emerged. The SEEK program guidelines, which have not been updated in 30 years, are apparently finally on the verge of a revision, with SEEK directors having recently completed draft changes headed for board review. CUNY is rolling out COEUS, a new centralized grant management system, which for the first time will allow the system to identify faculty struggling with grant applications and connect them with more successful peers across campuses. A research program called AI Corps was highlighted as a successful pilot within SEEK focused on STEM research mentorship. BCC's president described an unusually comprehensive wraparound services model, including a food pantry serving 2,000 families a month and an early childhood center, reflecting the acute socioeconomic pressures on the Bronx student population. Chair Joseph closed by pushing CUNY on outreach to middle schools and guidance counselors, and on the stagnation of SEEK enrollment despite growing need, receiving commitments to more strategic K-12 partnership work and a five-year enrollment growth plan.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>CUNY enrolls nearly 247,000 students across 26 campuses as of fall 2025.</li>
 <li>CUNY student body composition in fall 2025: 22.7% Asian or Pacific Islander, 27.5% Black, 27.6% Hispanic, 21.9% White.</li>
@@ -114,7 +114,7 @@
 <li>CUNY's COACHE faculty satisfaction survey is conducted every two years.</li>
 <li>Tenure and promotion at CUNY is a seven-year process.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>CUNY to provide the Committee with a breakdown of faculty retention rates by race and ethnicity.</li>
 <li>CUNY to provide the Committee with gender breakdown of Chancellor-level and senior leadership positions.</li>
@@ -131,7 +131,7 @@
 <li>CUNY central office to ensure SEEK enrollment strategy and five-year plan is formally shared with the Committee.</li>
 <li>CUNY to use the new COEUS grant management system to identify and mentor faculty struggling with grant applications, particularly in STEM, and to report outcomes to the Committee.</li>
 <li>CUNY to invite Chair Joseph to the AI Corps SEEK research showcase event.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -595,6 +595,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

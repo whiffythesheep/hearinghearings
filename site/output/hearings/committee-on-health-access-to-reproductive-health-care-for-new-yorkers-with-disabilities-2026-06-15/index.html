@@ -83,7 +83,7 @@
 <p>The oversight portion focused on a stark set of documented disparities: women with disabilities are more than twice as likely to develop severe preeclampsia, six times more likely to experience thromboembolism, and eleven times more likely to die in pregnancy compared to women without disabilities. Physical and training barriers in health care settings underlie these outcomes. A federal deadline of August 9, 2026 requires covered facilities to have at least one accessible exam table and one accessible weight scale, and members spent considerable time trying to pin down whether City facilities actually meet this standard. Health and Hospitals gave assurances of general ADA compliance without being able to confirm specific accessible scale availability across all sites. DOHMH acknowledged it has no accessible weight scales at its sexual health clinics, justifying this on the basis that its services do not require weight assessment — a position Chair Schulman challenged given that emergency contraception and birth control efficacy can be weight-dependent. Neither agency currently tracks health outcomes by disability status, an omission that drew pointed questioning given that one in six New Yorkers lives with a disability.</p>
 <p>On the legislative package: T2026-2088, requiring medication abortion at no cost at all DOHMH sexual health clinics (currently available at four of six), drew a cautious response from the department, which cited concerns about cost, physical space, and staffing, and confirmed it has no current plans to expand. Int 0200-2026 on doula resources and Int 0941 on disability competency training received general support in principle from DOHMH, though the department flagged that it lacks regulatory authority over health care providers and does not have internal subject matter expertise for developing clinical training curricula. Int 0211-2026 on fertility treatment information met resistance from DOHMH, which argued it lacks expertise in fertility care — a position Chair Schulman directly contested by pointing to the bill's intent to formalize an already-existing but entirely informal referral process. Health and Hospitals confirmed it has no plans to offer fertility treatment and produces no pre-made patient information on fertility options. CM Morano's Res 0108-2026 calling on Albany to create a refundable IVF tax credit attracted support across ideological lines. Res 0447-2026 on insurance coverage for preimplantation genetic testing for aneuploidies and the emergency contraception vending machine resolution (Res 0089-2026) were noted without significant debate.</p>
 <p>Training emerged as a significant gap. Health and Hospitals uses an external vendor for disability awareness training offered every two to three months, but attendance is not mandatory. A separate low-vision simulation training is held twice a year, in person, at rotating facilities, also non-mandatory. DOHMH, by contrast, requires mandatory annual disability justice training for clinical staff, though the next session is not until later in the summer. The two agencies have not coordinated or exchanged their training materials. Neither agency audits reproductive health encounters for the documented bias of assuming patients with disabilities are not sexually active. On the more positive side, Health and Hospitals' Virtual ExpressCare Abortion Access telehealth program has prescribed medication abortion to over 20,300 people since October 2023, and DOHMH's abortion access hub has served over 12,000 people since November 2022 — including patients from states where abortion is restricted. The hearing's broader subtext was the looming federal Medicaid cuts, which threaten the safety net hospitals that people with disabilities disproportionately rely on.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Women with disabilities are more than twice as likely to develop severe preeclampsia than women without disabilities, based on a study of over 220,000 deliveries across 19 hospitals nationwide.</li>
 <li>Women with disabilities are more than six times as likely to experience thromboembolism during pregnancy compared to women without disabilities.</li>
@@ -107,7 +107,7 @@
 <li>Over two-thirds of patients seen at DOHMH sexual health clinics in 2025 were uninsured; over half reside in high-need neighborhoods; nearly three-quarters were persons of color.</li>
 <li>Three of four required rapid STI testing sites under Local Law 84 of 2024 were operational by the February 15, 2026 deadline; the fourth is planned for 2027.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>H+H to provide committees with specific data on how many facilities have ADA-compliant accessible weight scales and which do not, ahead of the August 9, 2026 federal deadline.</li>
 <li>DOHMH to provide committees with its rationale for not having accessible weight scales, and to assess whether self-reported weight is an adequate clinical basis for prescribing emergency contraception and birth control.</li>
@@ -129,7 +129,7 @@
 <li>Mayor's Office for People with Disabilities to explore connecting employment and health care workforce pipelines, including use of Section 55-a, to increase hiring of people with disabilities at H+H and DOHMH.</li>
 <li>DOHMH to share its annual doula report with the committee upon its release at the end of June 2026.</li>
 <li>H+H to confirm to the committee the timeline for the Far Rockaway Gotham Health center opening and its planned reproductive health service offerings.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -848,6 +848,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

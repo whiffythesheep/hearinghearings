@@ -83,7 +83,7 @@
 <p>Commission Chair Carl Weisbrod testified in support of the bill, explaining the 18.2% figure as reflecting the increase in the cost of living since January 2022, when most current elected officials took office, rather than from 2016 when the last raise was enacted. He acknowledged the actual inflation since 2016 has been considerably higher but argued officials accepted their salaries knowingly when they took office. He defended the retroactive effective date of January 2026, noting the commission considered July 2026 but deferred to the law as written. He also defended the commission model over automatic adjustments, arguing commissions can account for fiscal context, crises, and institutional reform in ways that a formula cannot.</p>
 <p>Good government groups Citizens Union and Reinvent Albany both supported the core salary increase and process reforms but opposed the automatic inflation-adjustment backstop, the one point of substantive disagreement in the hearing. Both argued the backstop would perversely eliminate the political incentive for mayors to convene commissions at all, since automatic raises are the path of least resistance. Both also suggested distributing commission appointment power among multiple elected officials, such as the Comptroller, rather than leaving it solely with the Mayor, as a more durable structural fix. Reinvent Albany additionally urged the Council to accompany the pay raise with ethics and transparency reforms, specifically making financial disclosure forms available in open data format, removing the notification requirement triggered when disclosure forms are requested, and requiring that the Council formally explain in writing any departures from commission recommendations. Citizens Union flagged a possible drafting error in the bill that could cause the automatic adjustment to trigger even when a commission is convened.</p>
 <p>The hearing was brief and uncontentious at the Council level. One member of the public, Christopher Leon Johnson, testified in favour but also called for repealing the ban on outside earned income and raising Council salaries further to at least $200,000. Chair Brewer noted the ten-year gap since the last raise is the longest in the forty years the commission framework has existed, and observed that de Blasio failed to convene a commission in 2020 and Adams failed to do so in 2024. The bill is expected to pass.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Proposed salary increase for all covered elected officials: 18.2%.</li>
 <li>Last salary increase for New York City elected officials: 2016, making the gap ten years as of 2026.</li>
@@ -101,7 +101,7 @@
 <li>New York City Council members represent more constituents than Council members in any comparable US city except Los Angeles.</li>
 <li>Citizens Union has operated as a nonpartisan good government group in New York for nearly 130 years.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Council to review and correct potential drafting error in T2026-2196 that may cause automatic inflation adjustment to trigger even when a Quadrennial Commission is convened, as flagged by Citizens Union.</li>
 <li>Council to consider amending T2026-2196 to allow an alternative elected official, such as the Comptroller, to appoint a Quadrennial Advisory Commission if the Mayor fails to do so by the statutory deadline.</li>
@@ -112,7 +112,7 @@
 <li>Council to consider removing references to stipends from the Charter as a vestige no longer reflecting current practice, as flagged by the Quadrennial Commission and supported by Reinvent Albany.</li>
 <li>Comptroller to publish a table of all covered elected officials' salaries, with Council to specify this be published on the Comptroller's website.</li>
 <li>Mayor to convene the next Quadrennial Advisory Commission in 2028, per the schedule codified in the bill.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -319,6 +319,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

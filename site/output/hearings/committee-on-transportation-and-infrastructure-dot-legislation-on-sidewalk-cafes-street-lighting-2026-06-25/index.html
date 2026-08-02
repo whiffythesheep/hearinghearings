@@ -83,7 +83,7 @@
 <p>The administration's testimony, delivered by DOT's Commissioner of Traffic Operations and colleagues, was cautiously resistant across the board. On Int 0845-2026 (lighting under elevated train lines), DOT raised legitimate technical concerns about vibration, pole height restrictions, and the elevated structures not being engineered for additional loads, while also noting that the bill's specific requirement for "distinctive" lighting rather than standard lighting would paradoxically slow down installation. This is a real drafting problem the Council should fix. CM Krishnan pressed DOT on whether lighting under elevated lines is systematically assessed or only addressed on complaint — it is the latter, which is the core policy failure the bill is trying to correct. CM Pierina Ana Sanchez asked the interesting question of whether the existing power infrastructure on elevated rail lines could be used to power lighting underneath; DOT said it had not been studied. On Int 0866-2026 (advance notice signs for disruptive work), CM Epstein's office had already pre-negotiated a key amendment shifting the signage obligation from DOT to the permit-holder, and DOT acknowledged that the bill's current definition of "disruptive work" is too broad. On Int 0918-2026 (quarterly fee payments), DOT's objection that it has not heard restaurants requesting this option prompted a sharp and credible rebuttal from CM Thomas Henry, who described direct feedback from business owners across the city. DOT's counter-argument — that the fees are now low enough that quarterly payment is unnecessary — is debatable and somewhat condescending to small businesses managing cash flow.</p>
 <p>The New York City Hospitality Alliance, represented by Executive Director Andrew Rigie, testified in support of all three outdoor dining bills. His strongest point was on Int 0918-2026: he noted that restaurants already pay a stack of upfront costs including licensing fees, security deposits, architecture fees, and expediter fees, potentially running to tens of thousands of dollars, making the lump-sum consent fee one burden too many. On Int 0894-2026 (seasonal enclosures), DOT was broadly supportive but wants to align sidewalk cafe winterization rules with a parallel and apparently ongoing negotiation about roadway cafe winterization, which suggests a more comprehensive outdoor dining winterization framework may be in the works. On Int 0917-2026 (cleanliness standards), DOT and the Hospitality Alliance both essentially said the rules already achieve what the bill requires; the main substantive debate was over the proposed fine structure, with the Alliance asking for a warning period before penalties are issued for first violations, consistent with broader small business reform efforts under Executive Order 11.</p>
 <p>Public testimony was brief. A high school student testified compellingly about the safety implications of poor lighting under elevated transit infrastructure for students traveling early and late. A Brooklyn resident made an earnest and specific pitch for better cycling signage connecting Prospect Park, Coney Island and Bay Ridge — a reasonable idea but off-topic for the bills on the agenda. CM Wong raised the useful point that inadequate lighting is not just a subway-elevated issue but also affects areas under Long Island Rail Road trestles, which DOT confirmed falls within its jurisdiction to address.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DOT is responsible for nearly 400,000 streetlights citywide.</li>
 <li>DOT enhanced lighting at nearly 2,500 locations across the city in 2025.</li>
@@ -100,7 +100,7 @@
 <li>The Hospitality Alliance noted total upfront costs for outdoor dining setup can run to tens of thousands of dollars when combining consent fees, licensing fees, security deposits, architecture fees, and expediter fees.</li>
 <li>Blake Walker cited $150 billion per year in bicycle tourism nationally as context for his signage proposal.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOT to report back to the committee on how many of the approximately 2,500 lighting upgrades made in 2025 were located under elevated train lines.</li>
 <li>DOT to report back to CM Krishnan's office specifically on what assessments have been conducted and what determinations were made for lighting along Roosevelt Avenue under the 7 train.</li>
@@ -118,7 +118,7 @@
 <li>DOT to engage directly with CM Thomas Henry's office and specific restaurant contacts identified through her district tours to gather firsthand input on the quarterly payment proposal.</li>
 <li>DOT to brief CM Wong's office on which street ambassador deployments have occurred or are planned in his district and to ensure ambassador presence at upcoming major projects there.</li>
 <li>Council drafters to amend Int 0845-2026 to remove the restriction to "distinctive" lighting, allowing DOT to use standard lighting where appropriate to accelerate installation under elevated train lines.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -449,6 +449,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

@@ -83,7 +83,7 @@
 <p>The NYC Commission on Human Rights, represented by Deputy Commissioner Joanne Kth Ward and Director of Policy Hillary Scravani, provided the main agency testimony. Their account was broadly positive in framing but thin on hard enforcement numbers, particularly for fair chance housing. The commission acknowledged it received no budget increase when the Fair Chance Housing Law passed, ran a public awareness campaign at roughly $90,000 against a fiscal impact estimate of $600,000, and has eight staff on its info line — unchanged despite inquiries rising from roughly 9,000 in FY21 to nearly 16,000 in FY26. On fair chance housing specifically, there were zero recorded inquiries or claims in FY25, which the commission attributed to its deliberate first-year focus on education and outreach rather than enforcement, though community advocates testified that violations are already widespread and going unaddressed.</p>
 <p>The pattern that emerged across all testimony was a law that works when enforced but is severely under-enforced due to resource constraints, slow case timelines, and inadequate penalties. Legal Aid Society, Brooklyn Defender Services, Legal Action Center, Community Service Society, and the Fair Housing Justice Center all testified to the same structural problem: CCHR is chronically underfunded, cases drag on for years, and large employers — ride-share companies, Amazon, Grubhub, home health aide agencies — calculate that continued non-compliance is cheaper than compliance, especially when civil penalties have not been updated in roughly 20 years. Brooklyn Defender Services flagged near-universal non-compliance among home health aide employers, a sector critical to their client base. Legal Aid's Worker Justice Project reported assisting over 2,400 workers and achieving reinstatement or compensation for over 720 since the 2021 amendment, but noted that DOE employees and contractors remain entirely outside Fair Chance Act protections in practice, suspended automatically upon arrest regardless of job role or charge, with no meaningful appeal process. Community Service Society's Paul Keefe, who helped draft the original law and then enforced it at the commission for seven years, argued for $25 million in consistent CCHR funding and noted the commission's underused power to impose systemic policy changes on large employers nationwide as part of settlements — including getting national employers to ban the box across the country.</p>
 <p>The hearing surfaced several specific gaps requiring follow-up: why fair chance employment pre-complaint interventions dropped to zero after 2021, why testing dropped sharply in FY24, whether CCHR has ever engaged in targeted compliance training with the large repeat-violator companies advocates identified, how to address the DOE worker exclusion, and whether the commission will publish official rules for expedited handling and a penalty schedule for fair chance housing. The commission's closing ask — that the Council work with it to raise civil penalties that have not changed in two decades — was one of the most concrete policy proposals to emerge from the hearing.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>An estimated 750,000 New York City residents carry a criminal conviction.</li>
 <li>One in three Americans carries a criminal record nationally.</li>
@@ -112,7 +112,7 @@
 <li>Advocates from Community Service Society called for $25 million in consistent annual funding for CCHR.</li>
 <li>CCHR civil penalties have not been updated in approximately 20 years.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>CCHR to provide the committee with training and outreach participant numbers for fair chance employment for FY22 through FY25 broken down by fiscal year.</li>
 <li>CCHR to investigate and report back to the committee on why fair chance employment pre-complaint interventions dropped to zero after 2021, including whether the shift reflects the changing nature of complaints from facial ad violations to process violations.</li>
@@ -129,7 +129,7 @@
 <li>Council to advocate for adequate CCHR budget funding in the FY27 budget process, including for the info line, enforcement staffing, and the new hotline required under Intro 380, which will add workload without currently adding staff.</li>
 <li>Administration and Council to follow through on the five-year fair chance housing education commitment embedded in HPD's Where We Live plan, and to attach real funding to that commitment.</li>
 <li>Paul Keefe and Community Service Society to continue advocacy for the City itself to act as a model fair chance employer, including applying Clean Slate-style look-back limits to public employment, building on the 2011 Bloomberg executive order banning the box for city jobs.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -449,6 +449,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

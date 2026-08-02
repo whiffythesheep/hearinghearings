@@ -83,7 +83,7 @@
 <p>Three of the six bills concerned street trees. Int 0089-2026 (CM Brewer) would require Parks to map all tree pits, occupied or vacant, on the City's online tree map and note why empty ones are unused. Parks opposed it, arguing the data does not currently exist in a usable form, that collecting it would be a massive logistical undertaking diverting staff from actual planting, and that their new Neighborhood Tree Planting Program already addresses the underlying problem by systematically surveying and replanting entire blocks. CM Morano and CM Brewer pushed back, arguing that if Parks already has partial data then withholding it from residents is indefensible, and that volunteers could help collect what is missing. Int 0576-2026 would require certified arborist credentials for tree removal permit applicants and annual reporting on removals. Parks worried — somewhat implausibly — that adding this requirement might push some people to skip the permit process entirely, and distinguished between arborist credentials (suited to care decisions) and the physical act of removal. They were more open to the reporting aspect. Int 0666-2026 would require Parks to publish its internal maintenance prioritization ratings for individual trees on its public tree map. Parks expressed support in principle, objecting only to a 30-day compliance window they called unrealistic for website development work.</p>
 <p>The two dog waste bills generated the liveliest exchange. Int 0880-2026 (CM Narcisse) would require signs at all park entrances and relevant facilities stating the rules and penalties for leaving dog waste, and mandate signage responses to 311 complaints. Parks said it already posts consolidated rules at entrances and specific signage at dog runs, and was broadly supportive in principle but flagged that the 311-triggered signage requirement, which technically falls partly on the Department of Transportation, would be unworkable at scale — potentially mandating thousands of signs for complaints that may already be resolved by the time installation happens. The numbers from the hearing were telling: Parks issued roughly 20 to 22 dog waste summonses over the past several years citywide, against approximately 1,400 to 1,500 dog waste complaints on park properties annually and 25,000 to 26,000 dog waste complaints citywide. CM Narcisse's dry conclusion — that the near-zero enforcement rate explains why residents are still stepping in the stuff — was hard to argue with. Int 0864-2026, requiring a two-year composting pilot for dog waste collected at dog runs, was the bill Parks most clearly opposed, calling it outside the agency's mission and resource-intensive given that Parks employees do not currently enter dog runs for routine cleaning.</p>
 <p>Int 0859-2026 (CM Brewer) was the least contested item. It provides a legislative pathway for DORIS to post independently researched biographical information about honorees when none exists in the Council's legislative record — primarily addressing the 9/11 first responder street namings from 2002 and 2003 where signs went up faster than biographies could be compiled. New DORIS Commissioner Sean Smith (one month in the job) testified that the agency has already built an interactive map of over 4,200 street co-namings dating back to 1902, researched 393 biographies connected to the 9/11 namings, and is down to one unidentified honoree on Staten Island. Parks noted its own practices already largely align with the bill's intent and expressed willingness to work with DORIS on implementation. CM Morano used the DORIS testimony to make a pointed broader argument: if a 50-person agency can build a map of 4,200 historical records with full biographies, larger agencies cannot credibly claim it is too hard to publish data they already hold.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Over 2,500 storm-related tree service requests received by Parks following multiple storms including the June 6, 2026 event.</li>
 <li>Over 3,500 tree inspections conducted as a result of those storm-related service requests.</li>
@@ -106,7 +106,7 @@
 <li>Approximately 175 storm-related tree service requests came from Staten Island during the recent storms, meaning Staten Island was largely spared.</li>
 <li>The bill requiring publication of tree maintenance prioritization ratings (Int 0666-2026) as drafted allows only 30 days for Parks to comply, which Parks described as unworkable given website development timelines.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Parks (Matt Jury or designee) to investigate the status of the outstanding written authorisation for ridge route restoration work in CM Narcisse's district and provide an update to the Council member.</li>
 <li>Parks to revert to CM Nurse with an escalated response on rat abatement, trash removal and landscaping at Kelly Callahan Playground given ongoing construction disruption at Broadway Junction station.</li>
@@ -121,7 +121,7 @@
 <li>DORIS to assess whether there are gaps in the historical record disproportionately affecting Staten Island veterans, first responders, civic leaders or community figures, and report back to CM Morano.</li>
 <li>DORIS to continue working with CM Brewer and Parks to finalise Int 0859-2026 and ensure the biographical research process and legal authorisation are aligned.</li>
 <li>Parks to continue the Neighbourhood Tree Planting Program and update the public-facing map so residents can see when their block is scheduled for survey and planting.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -399,6 +399,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

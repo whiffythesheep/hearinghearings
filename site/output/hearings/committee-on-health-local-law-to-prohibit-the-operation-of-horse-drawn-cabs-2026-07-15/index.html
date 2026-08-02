@@ -83,7 +83,7 @@
 <p>The case for the ban rested on three interlocking arguments. On public safety, supporters documented 96 serious incidents and 40 horse deaths since 1982, noted that the annual incident rate has more than quadrupled, and cited a Columbia University forecast projecting 16 to 30 more incidents and up to 11 more horse deaths by 2030 if the industry continues. Critically, multiple equine veterinarians testified that a horse's prey-animal flight response cannot be eliminated through training or regulation, making the urban environment irreducibly dangerous regardless of rules on paper. CM Marte noted that 128 accidents and 30 horse deaths over 34 years have not produced effective reform, and that after Roman's death, new driver safety protocols were immediately ignored. Former CM Bob Holden observed that his predecessor bill would have taken effect on June 1, 2026 — sixteen days before Roman died — but was blocked for four years by then-Speaker Adams. On animal welfare, veterinarians and sanctuary operators described horses confined to stalls as small as 60 square feet, denied pasture access, found lame and with untreated injuries, and documented an average of 71 horses per year disappearing from the NYC carriage roll with uncertain fates. An independent veterinarian commissioned by DOHMH found that owners refused blood testing and full lameness evaluations, and that two owners did not present their horses at all. On workforce transition, supporters argued the Bill's retraining program, though needing strengthening, offers workers a better deal than an industry with no employer-provided health insurance, no workers' compensation, and a structural dependence on independent contractor status.</p>
 <p>Opposition came principally from TWU Local 100, carriage drivers, stable owners, and the equine surgeon who cares for the horses. Union president John Chiarello called the hearing a kangaroo court, argued the industry's safety record compares favorably to other transport modes, and said the workforce transition language in the Bill is vague and inadequate. Industry defenders argued that regulation and enforcement — not elimination — is the right response, and that the ban will strand horses in underfunded sanctuaries or send them to slaughter. Equine surgeon Dr. Gabriel Cook warned that available sanctuary capacity is insufficient and that the industry's failures are almost entirely attributable to regulatory breakdown rather than any inherent incompatibility between horses and city life. Several opposition speakers alleged, without Council rebuttal, that the Bill is driven by real estate developers coveting the stable properties on 52nd and 30th Streets, and one alleged a conflict of interest involving the Speaker's husband. CM James Gennaro was the most vocal Council opponent, pressing the administration for data it could not provide on the spot and arguing that his own reform bill, Int 0937, which includes hitching posts and other safety measures, deserved a fair hearing rather than predetermined dismissal.</p>
 <p>Several significant threads were left unresolved. The administration acknowledged it cannot fully account for how many violations have been issued, which horses are working for which drivers, or how many horses have been removed from service — an indictment of the regulatory infrastructure that both sides, in their different ways, cited as central to their case. No formal mechanism was established during the hearing to verify that horses will be placed in permanent accredited sanctuaries rather than sold or auctioned. Friends of Animals proposed that the Bill be amended to create a City fund to buy out horses from willing owners and cover placement fees, which was not acted on. The industry's primary veterinarian was alleged to have been sanctioned seven times by the State Gaming Commission, banned from horse tracks twice, and found guilty of professional misconduct by the State Veterinary Board, without any Council response on the record. No vote was scheduled during the hearing; the record will be compiled and reviewed before the committee proceeds.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>128 documented horse-drawn carriage accidents over 34 years in New York City.</li>
 <li>40 horse deaths between 1982 and 2026 documented by the Manhattan Borough President's office.</li>
@@ -108,7 +108,7 @@
 <li>June 1, 2026 was the date the predecessor bill would have taken effect — 16 days before Roman Mahajan died on June 17, 2026.</li>
 <li>Industry veterinarian Dr. Sierra was alleged to have been sanctioned 7 times by the NY State Gaming Commission, banned from horse tracks twice, and received a 2-year suspended license stay from the NY State Board for Veterinary Medicine in 2020.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>CM Marte and the Council to work with the administration to strengthen workforce transition and worker protection language in Int 0943-2026 before it advances, as requested by the NYC Department of Consumer Affairs and Worker Protection.</li>
 <li>NYC Department of Health and Mental Hygiene to compile and submit to the committee enforcement data it could not provide at the hearing, including violation counts, stable inspection outcomes, horses removed from service, and specifics of the driver training program including language access provisions.</li>
@@ -120,7 +120,7 @@
 <li>Coalition for Responsible Carriage Horse Retirement to continue coordinating sanctuary placement agreements, including retaining attorneys to develop lifelong placement contracts, in anticipation of a potential ban.</li>
 <li>Animal Legal Defense Fund committed to contributing to horse transport costs in the event the Bill passes; to be formalized if legislation advances.</li>
 <li>Chair Schulman to compile the full hearing record for committee review prior to any vote being scheduled.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -2213,6 +2213,22 @@ You are killing me. Let me be.</p>
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

@@ -83,7 +83,7 @@
 <p>The Flatiron NoMad application, presented by the NYC Department of Transportation alongside the Flatiron NoMad Partnership BID, seeks a major concession to formalize and expand the BID's management authority over a significantly enlarged stretch of Broadway and Fifth Avenue between 19th and 31st Streets. The existing concession area of 38,500 square feet would grow to 162,345 square feet, triggering the major concession review threshold. DOT presented the application as part of the broader Broadway Vision initiative, which has pedestrianized several blocks and expanded cycling infrastructure. Questions from CMs Wilson and Epstein focused on environmental standards for concessionaires, public seating access and signage, the proposed 50 percent maximum concession seating allowance for major concessions, pedestrian-cycling separation in the capital redesign, Citi Bike station placement, and commitments from the Midtown South Mixed Use rezoning regarding a kid-first district and additional car-free blocks. DOT confirmed that drinking fountains and water bottle filling stations are being integrated into the capital design and that public restroom provision is under inter-agency discussion, without committing to a timeline. CM Felder used the hearing to register longstanding frustrations about unused Citi Bike docking stations citywide and the absence of a mandatory helmet requirement for cyclists using city streets, a question DOT diplomatically deflected. The concession structure would allow the BID to derive revenue from commercial events, sponsorships and sub-concessions including food kiosks and outdoor dining, with revenues reinvested into maintenance and operations. Financial reporting is required quarterly and annually under the concession agreement, though DOT confirmed this is not published online.</p>
 <p>The 108th Street rezoning in Corona, Queens, presented by Ackerman on behalf of 108 Realty Group, proposes upzoning a single block front from R6B to R7X with a C2-4 commercial overlay to facilitate a 13-story, 119-unit mixed use building on a site currently occupied by non-conforming auto-related uses. The R7X designation was selected in preference to R7A, which was used for an approval three blocks south the prior week, on the basis of the site's transit orientation, wider street context and proximity to existing higher-density residential uses on the block front. The building would be all-electric and is proposed under MIH Option 1, yielding 30 permanently affordable units at a weighted average of 60 percent AMI with 10 percent at 40 percent AMI. CM Thomas-Henry pressed on unit mix, noting that the area has families and asking whether three-bedroom units and deeper affordability under MIH Option 3 had been considered; the applicant had not considered either but agreed to explore both. The community board was not in favor of the project, and one Council member noted that no direct neighborhood engagement had occurred outside the formal ULURP process, a notable gap the applicant acknowledged. The applicant confirmed willingness to accept conditions including 30 percent MWBE hiring with quarterly reporting, bioswales and rain gardens, and to continue discussions on community facility tenancy, where initial conversations have been held with CommonPoint. The height of the building, which would be roughly twice that of surrounding structures, remains an open negotiating point, with the applicant indicating design alternatives are being developed.</p>
 <p>The 200 Kent Avenue rezoning in Williamsburg, Brooklyn, presented by Fried Frank on behalf of 206 Kent LLC and Kent Investor LLC, proposes converting a largely vacant commercial building with an active Trader Joe's ground floor into a 143-unit mixed use residential building through a partial conversion and a nine-story addition atop the existing five-story structure. The rezoning from M1-4 to M1-4A/R7X would establish Special Mixed Use District MX-8. Between 29 and 43 units would be affordable depending on the MIH option selected, with the applicant indicating openness to Option 1 following conversations with the Council Member. The existing building was structurally designed to support a future enlargement, which simplifies construction; Trader Joe's is expected to remain open throughout. Construction is targeted for 2027 commencement with a 12-to-15-month build timeline. The applicant confirmed commitments to reach out to Evergreen, North Brooklyn Business Exchange and Greenpoint Manufacturing and Design Center to identify light manufacturing tenants for commercial space, consistent with the MX-8 district's intended flexibility. No members of the public testified on either the Williamsburg or Queens applications.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Existing Flatiron NoMad concession area: 38,500 square feet.</li>
 <li>Proposed expanded Flatiron NoMad concession area: 162,345 square feet.</li>
@@ -114,7 +114,7 @@
 <li>Target construction commencement for 200 Kent Avenue: 2027.</li>
 <li>Greenpoint-Williamsburg rezoning that established original M1-4 zoning context at 200 Kent Avenue: 2005.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOT to provide CM Felder with data on Citi Bike dock utilisation rates and connect him with the relevant team.</li>
 <li>DOT to connect CM Felder with helmet distribution programme team, though Felder made clear his interest is mandatory helmet requirements, not free helmet distribution.</li>
@@ -138,7 +138,7 @@
 <li>200 Kent Avenue applicant to proactively reach out to Evergreen, North Brooklyn Business Exchange and Greenpoint Manufacturing and Design Center to identify light manufacturing tenants for commercial space.</li>
 <li>200 Kent Avenue applicant to finalise MIH option selection in consultation with the local Council Member's office, with Option 1 the preferred direction.</li>
 <li>200 Kent Avenue applicant to determine applicability of 485-X tax abatement programme given the partial conversion structure of the project.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -473,6 +473,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

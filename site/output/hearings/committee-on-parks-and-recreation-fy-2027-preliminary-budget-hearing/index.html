@@ -80,7 +80,7 @@
 <p>The hearing covered a wide range of operational matters. Commissioner Shimamura, appointed two months ago by Mayor Mamdani, gave a broadly competent overview of agency priorities: the opening of Shirley Chisholm Recreation Center in East Flatbush, the Community Parks Initiative with $50 million in new capital investment for 10 parks, the neighborhood tree planting program now operating on a data-driven nine-year cycle, and progress on lifeguard recruitment with 1,082 guards last summer and a $1.66 million state grant for recruitment bonuses. She was candid about problem areas including a contractor death disrupting the block pruning program, the long-running capital project backlog, the difficulty of building public restrooms at $3 to 5 million per facility, and the ongoing challenge of filling gardener and forestry positions. On the question of baselineing one-shot positions, she was supportive in tone but non-committal in substance, correctly noting that one-shots are a product of Council-administration negotiations rather than agency decisions. On the 1% campaign promise, she cited budget pressures and called the preliminary budget an early stage in negotiations, which is accurate but also the answer every commissioner gives at every preliminary budget hearing.</p>
 <p>Council members pressed hard on capital project delays, with CM Narcisse raising Marine Park playground at six years and counting, CM Banks raising Brownsville Recreation Center where $160 million is allocated but no design has been completed, and CM Sanchez raising multiple Bronx parks funded but not breaking ground. CM Morano raised Staten Island's high parkland-per-capita but questioned whether staffing is proportional. CM Krishnan, appearing in passing, was referenced for legislation on the capital process. CM Lynch raised Forest Park accessibility, funded but stalled due to staffing shortages in the design pipeline. The capital deputy commissioner confirmed 500 projects currently in design, procurement, or construction, with 91 slated to start this fiscal year and 24 of those likely to slip. The commissioner committed to shortening timelines but offered no specific mechanisms beyond noting that a DEP staffer now sits in the parks office to ease inter-agency coordination.</p>
 <p>The public session brought strong testimony from union locals representing park workers, park rangers, PEP officers, and forestry staff, all emphasizing the structural problem of Playfair-funded positions: workers doing the same jobs as baseline employees without equivalent benefits, unable to accrue pension rights for 18 months, unable to apply for internal postings, and facing annual existential uncertainty every April. DC37 Local 983 representative Ralph Bonelis noted that one-third of PEP officers and roughly half of park rangers are one-shot funded, calling it no way to run an agency. Raina, a forestry worker and DC37 Local 375 chapter president, highlighted a team of roughly 20 people managing tree planting contracts across the entire city, with workers regularly covering multiple multi-million dollar contracts due to vacancies. Marshall Lee Wymer, Manhattan Borough Forester, argued that in-house forestry costs approximately two-thirds of contracted work and that Chicago manages in-house block pruning, suggesting New York could do the same. Conservancy representatives from Prospect Park Alliance, Riverside Park Conservancy, and City Parks Foundation echoed the agency testimony but with greater bluntness, noting the maintenance gap that causes capital assets to degrade faster than their useful lifespan and warning that private fundraising cannot substitute for public investment. The Natural Areas Conservancy flagged that only 569 of 12,000-plus natural area acres received care in FY25 and that a 2024 ecological assessment found decline in over 90% of forest plots, a striking figure given the city is simultaneously launching an urban forest plan targeting 30% canopy coverage.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>FY2027 preliminary operating budget for NYC Parks: $654 million, a decrease of $33.7 million from the FY26 adopted budget of $687.6 million.</li>
 <li>Approximately $22 million of the $33.7 million gap reflects expiration of one-shot funding; approximately $6 million reflects Council discretionary funding.</li>
@@ -117,7 +117,7 @@
 <li>NYC Parks' share of the total city budget: approximately 0.6%, compared to 2 to 5% in most major US cities.</li>
 <li>According to the Arbor Day Foundation, every dollar invested in street and park trees in New York City returns $5.60.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Commissioner Shimamura to provide CM Lynch with a specific update on the status of the Forest Park accessible pathways capital project and steps being taken to shorten the design timeline.</li>
 <li>Commissioner Shimamura to follow up with CM Banks on the timeline for Brownsville Recreation Center, coordinating with DDC for a tighter schedule given the design-build approach being used.</li>
@@ -139,7 +139,7 @@
 <li>Parks Department to follow up with Elsie Sto and advocate groups on expanding Hart Island family visitation to include weekday slots and on extending the existing shuttle service to connect visitors from Pelham train station to the Hart Island ferry.</li>
 <li>Parks Department to provide the committee with a formal update on progress toward compliance with tree maintenance legislation, including digital tools being built to record inspection results, before the May effective date.</li>
 <li>CM Hankerson to follow up with the Parks Department regarding the London plane trees at 550 West 125th Street, Grant Shade Garden, which require pruning to allow food growing.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1061,6 +1061,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

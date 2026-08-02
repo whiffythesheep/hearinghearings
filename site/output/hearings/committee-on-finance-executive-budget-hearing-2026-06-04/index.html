@@ -83,7 +83,7 @@
 <p>The HRA/DHS hearing was dominated by the cascading consequences of federal policy changes under HR One. The administration described a scramble to protect roughly 342,000 SNAP recipients facing new federal work requirements, with about 220,000 exempted through data-matching and most of the remainder now in compliance. The first month of actual benefit cuts is June 2026, and roughly 42,500 people remain at genuine risk. Beyond work requirements, the bill shifts SNAP administrative costs from 50% to 25% federal reimbursement starting October 2026, costing New York City an estimated $111 million, with a further potential cost shift of up to $12 billion statewide starting in October 2027 tied to payment error rates. The Council pressed hard on contractor spending, service provider payment delays, and the continued cost growth of City FHEPS, which now serves 150,000 people at a cost that has more than tripled over three fiscal years. Officials pushed back on framing this as inefficiency, arguing it reflects the program serving far more people. The shelter census stands at 82,640, with families-with-children declining and single adults rising. Roughly 13,000 households obtained permanent housing through City-funded vouchers through late April, a 24% year-over-year increase. The hearing also surfaced persistent structural problems: nonprofit provider pay parity with City workers, DHS's on-time contracting payment rate of only 41%, approximately 590 offline supportive housing units with no active referral, and serious questions about whether $450 million in annual street outreach spending is producing measurable outcomes. The Bellevue Men's Shelter closure, the relocation of its residents to hotel sites, and one specific case involving inadequate notice and deteriorating mental health after transfer drew pointed questioning from Council Member Marte.</p>
 <p>The DSNY hearing was more operationally focused but raised substantive policy questions. Containerization — the administration's signature cleanliness initiative — continues its phased rollout, now reaching 70% of trash by volume, with Brooklyn North next in fall 2026 and citywide completion targeted for 2031. The lot-cleaning unit was revealed to have collapsed from 94 uniform positions to 15, with a backlog of 1,100 lots, a quiet casualty of prior-administration cuts that drew visible frustration from the Commissioner himself. The street sweeping camera enforcement bill remains stuck in Albany, which functionally blocks the alternate side parking reform the administration and many members want. A disparity was also aired: some neighborhoods require cars to move four times weekly for street cleaning versus once elsewhere, a burden the administration acknowledged falls disproportionately on lower-income communities of color, but acknowledged it cannot fix without the camera bill. Community composting received no dedicated administration funding in FY2027, again relying on Council-allocated funds from the prior year. Roughly 6,200 emergency snow shovelers from the winter storms were discussed, with about 100 still unpaid; the Commissioner committed to resolving all outstanding cases and eliminating chaotic day-of sign-ups going forward.</p>
 <p>The COIB hearing, brief but striking, painted a portrait of an oversight agency that has been allowed to atrophy for three decades. The board has 22 staff today, one more than in 1991, despite the City workforce it oversees growing from 240,000 to over 300,000. Key staff are paid 20 to 30 percent below comparable City positions, a $4,000 raise for the sole paralegal was denied, and two critical IT systems — one dating to the early 2000s — remain modernization projects without committed funding. The board has no investigators of its own, leaving roughly 120 cases waiting in a queue at the Department of Investigation. Director Miller was measured but direct about what this means: an ethics oversight body that cannot run its own database queries, cannot publish its disclosure data in a structured format, has never conducted the biennial audit of the Legal Defense Trust as required by law, and notifies public officials when someone requests their financial disclosures — including the requester's identity — a practice that effectively undermines the point of public disclosure. Chair Brewer committed to working with the Council to find funding for salary adjustments, technology infrastructure, and an additional attorney, though none of this is in the current budget.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$124.7 billion: proposed FY2027 City budget.</li>
 <li>$111 million: estimated cost shift to New York City from federal reduction in SNAP administrative reimbursement, dropping from 50% to 25% starting October 2026.</li>
@@ -111,7 +111,7 @@
 <li>120: cases currently awaiting investigation reports from the Department of Investigation on COIB referrals.</li>
 <li>$150,000: current salary for COIB Deputy General Counsel, versus $215,000 for a comparable role at the Law Department.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DSS to produce analysis of the cost of expanding Fair Fares eligibility to 200%, 250%, and 275% of the federal poverty level and provide it to the Council.</li>
 <li>DSS to explore a unified SNAP and housing assistance application in consultation with providers, subject to federal SNAP regulatory constraints.</li>
@@ -131,7 +131,7 @@
 <li>Chair Brewer committed to working with the Council to secure funding for COIB salary adjustments totaling $300,000, capital IT funding through OTI for the disclosure filing application and case management system, outside auditor funding for the Legal Defense Trust biennial audit, and an additional attorney staff line.</li>
 <li>COIB to investigate contracting an outside professional auditor to conduct the legally required biennial Legal Defense Trust audit.</li>
 <li>COIB Director to connect with CM Maloney regarding the case management system annual reauthorization cycle.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -2040,6 +2040,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

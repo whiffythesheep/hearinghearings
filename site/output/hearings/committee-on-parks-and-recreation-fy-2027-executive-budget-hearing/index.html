@@ -83,7 +83,7 @@
 <p>On CCHR, the central tension was straightforward: the agency is absorbing a roughly $2 million reduction compared to the prior year, including a 6% cut from the FY27 Preliminary Plan driven by vacancy reductions and unrestored OTPS funding, even as federal civil rights enforcement has collapsed under the Trump administration and New York's human rights law continues to expand in scope. Commissioner Christine Clark, newly appointed under Mayor Mamdani, testified that she has restructured the agency to squeeze more enforcement out of fewer resources, including shifting community relations staff into investigative roles as non-attorney case specialists, building out a pre-complaint intervention team, and leaning on partner agencies like the Mayor's Office of Civic Engagement for outreach rather than duplicating those functions internally. Council members were broadly supportive of Clark personally but skeptical that the restructuring fully substitutes for the lost funding, and several pushed hard on specific gaps: the agency's ancient case management system that can take 20 minutes to run a search, a 22% vacancy rate, salaries that are too low to retain attorneys once they gain litigation experience, and a CORE racial equity score of 24 out of 100 that the agency disputed on rubric grounds. The Council had asked the Mayor to restore $410,000 in general operating support and baseline it; he did not. Several members noted the political irony of a mayor who campaigned on expanding CCHR cutting it more than almost any other agency.</p>
 <p>On Parks and Recreation, the headline was genuinely positive by the standards of this department: $15 million in staff lines that were previously funded one year at a time have been baselined in the Executive Budget before adoption, covering rangers and maintenance workers, which Commissioner Tricia Shimamura described as unprecedented in recent memory. The FY27 budget stands at $685.4 million, up $31.4 million from the preliminary figure, and includes $2.1 million for an in-house tree planting pilot, $3.7 million to cover snow removal overtime from the winter blizzards, and $17 million for 200 additional seasonal positions tied to FIFA World Cup activity. However, 100 Parks Enforcement Patrol officers remain on one-shot funding expiring June 30, as do 15 Green Thumb positions and approximately $2 million for stump removal, meaning those workers face real uncertainty. The Mayor had campaigned on getting Parks to 1% of the City budget; it remains well below that. Chair Hankerson and Commissioner Shimamura both acknowledged the conversation with City Hall is ongoing and optimistic, but nothing is committed. Council members raised a range of district-level concerns including PEP officer deployment in Southeast Queens, capital project delays running years beyond promises, broken bathrooms at Juniper Valley Park, lack of playground associates in underserved areas, an unimplemented local law on swimming pool surveys, menstrual products cut from a pilot program before it launched, and the ongoing challenge of extending the pool and beach season as climate patterns shift.</p>
 <p>Across both hearings, a few themes recurred. First, the value of public investment is being undersold: CCHR has generated over $2 million in damages and restitution this fiscal year and saved an estimated $3 million in avoided shelter costs, yet is being cut; Parks is the City's cheapest public amenity and is absorbing vacancy reductions after years of advocacy to reverse them. Second, technology and data infrastructure are limiting government effectiveness in ways that are fixable but unfunded: CCHR's database takes 20 minutes to run queries and cannot disaggregate complaint data by subgroup; Parks' capital tracker is never updated and misleads constituents. Third, both agencies are managing genuine workforce equity issues, from CCHR's below-market attorney salaries to Parks' demographic data gaps by job title, with commissioners more willing than their predecessors to name the problems but constrained in what they can fix without budget.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>CCHR proposed FY27 budget represents 0.01% of the City's $124.7 billion proposed FY27 budget.</li>
 <li>CCHR FY27 budget decreased by $900,000, or 6%, from the FY27 Preliminary Plan figure.</li>
@@ -120,7 +120,7 @@
 <li>Wildlife Conservation Society shortfall covered by $10 million in FY26 new City funding.</li>
 <li>Parks employed 73 playground associates last summer; there are roughly 5,000 additional seasonal employees and 5,141 full-time budgeted positions in FY27.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>CCHR to provide Council with the annual cost of its current case management database subscription.</li>
 <li>CCHR to continue conversations with OTI regarding capital funding for a new case management system.</li>
@@ -143,7 +143,7 @@
 <li>Parks to provide updated capital tracker information for projects in Council members' districts and commit to keeping tracker timelines as accurate as possible.</li>
 <li>Parks to work with CM Ung's office offline to ensure adequate temporary sanitation facilities at Juniper Valley Park during events and to provide a confirmed completion date for the station house bathroom capital project.</li>
 <li>Parks to look into the mowing schedule and bathroom maintenance situation at Irving Square Park and Bushwick Campus Playground in CM Nurse's district and report back.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1067,6 +1067,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

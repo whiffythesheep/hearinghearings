@@ -83,7 +83,7 @@
 <p>HRA Administrator Scott French defended the city's food assistance programs while acknowledging serious challenges. The administration touted NYC's 95.7% SNAP participation rate compared to 80% nationally, but faced tough questions about EBT card skimming that resulted in $9.4 million stolen in benefits in just one quarter. French supported federal chip card technology as the solution while expressing frustration with federal limitations on the city's ability to replace stolen benefits. The administration also revealed plans for an AI tool to streamline SNAP processing and a novel food pantry plus pilot program offering vouchers for both food and non-food necessities.</p>
 <p>The most contentious debate centered on CM Susan Zhuang's proposal for a dedicated SNAP anti-fraud officer. Zhuang argued the scale of fraud - 25,000 approved theft claims representing millions in losses - demanded specialized attention, particularly given vulnerabilities among seniors and immigrants. The administration pushed back, arguing their existing accountability office already handles fraud and that federal/state limitations restrict the city's authority over SNAP issues. French agreed to a separate meeting with Zhuang to discuss the proposal further.</p>
 <p>The hearing also addressed new federal work requirements affecting 122,000-123,000 SNAP recipients and ongoing concerns about food quality in shelters. Hudson pressed for detailed data on warming center operations and the city's upcoming AI deployment, reflecting broader concerns about algorithmic accountability in government services. The administration's responses revealed a system under strain from federal policy changes while trying to innovate with limited resources.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>62% of New Yorkers do not meet the True Cost of Living threshold.</li>
 <li>77.6% of Hispanic families don't meet the True Cost of Living threshold.</li>
@@ -118,7 +118,7 @@
 <li>16 warming/cooling buses operated by DHS.</li>
 <li>$1 million first year funding for food pantry plus pilot program.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DSS will provide data on how many Community Food Connection agencies requested more food in FY 2026 and whether all requests were fulfilled.</li>
 <li>DSS will confirm what languages are used for work requirement communications.</li>
@@ -129,7 +129,7 @@
 <li>DSS will provide voucher amount levels from DOH's program using Mercato vendor.</li>
 <li>DSS will provide data on individuals who used DHS warming centers and warming buses during recent cold spell.</li>
 <li>DSS to fix timeliness reporting system issues expected later in the month.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -621,6 +621,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

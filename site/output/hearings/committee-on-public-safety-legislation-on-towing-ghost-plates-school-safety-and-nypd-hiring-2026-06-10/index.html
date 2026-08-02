@@ -83,7 +83,7 @@
 <p>The security perimeter bill, sponsored by CM Encarnacion, dominated the hearing and generated the most public testimony. The bill would require NYPD to develop and publish a plan for how it uses frozen zones near childcare and elementary, middle, and junior high schools during protests. The NYPD said it did not object in principle, characterizing the bill as requiring it to put existing practice on paper without changing operations. However, multiple civil liberties and community advocacy groups, including the NYCLU, Legal Aid Society, Neighborhood Defender Service, and several youth and immigrant rights organizations, opposed the bill, arguing it was not a genuine transparency measure but rather a mandate to create new operational plans that would expand police authority near schools. Opponents consistently noted that neither NYPD nor bill sponsors could identify a single documented incident of protesters blocking access to a K-12 school. Supporters, including the ADL, JCRC, Catholic Community Relations Council, and 92nd Street Y, argued the bill was necessary given rising hate crimes and the need for transparent protocols protecting school access. The political context was notable: a previous version of the bill passed the Council but was vetoed by the Mayor, and opponents accused Council leadership of scheduling the hearing to compete with the budget testimony hearing happening simultaneously across the street.</p>
 <p>On the towing bills, Int 0489 and Int 0552, NYPD revealed that a centralized tow database called CSTOPS already exists and feeds into the 311 system, covering NYPD violation tows, Sheriff tows, and Marshal tows, but not private tows or evidence tows. The NYPD opposed creating a duplicative database and instead suggested expanding the existing 311 system to incorporate private tow operator data directly. CM Brewer pressed the NYPD on the ongoing absence of a Manhattan tow pound, closed since January 2021, and received no firm commitment that one would be found. On the fraudulent plates bill, Int 0551, NYPD supported the legislation and provided enforcement data showing 104,000 summonses for obstructed plates in 2026 to date and 247,000 in all of 2025.</p>
 <p>On the shots fired bill, T2026-2058, NYPD broadly accepted the principle but raised three objections: the 120-day implementation window is too short and should be a year; reporting should be quarterly rather than weekly; and a requirement to describe each incident individually is too burdensome. NYPD candidly acknowledged it does not currently have a systematic internal data system for confirmed firearm discharges, even though individual complaint reports include a checkbox for confirmed discharge. The ShotSpotter contract runs through end of 2027. On the police officer age limit bill, Int 0913, NYPD expressed full support, noting roughly 80 candidates per year have been lost due to aging out under the current 35-year cap, not counting those who never apply.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>NYPD Bronx tow pound authorized capacity: 350 regular vehicles plus 28 heavy-duty trucks; current inventory as of May 31, 2026: 414 regular and 23 heavy-duty.</li>
 <li>NYPD Brooklyn tow pound authorized capacity: 392 regular vehicles plus 15 heavy-duty; current inventory: 852 including mopeds and motorcycles, of which 443 are motorcycles and mopeds.</li>
@@ -107,7 +107,7 @@
 <li>Restorative justice funding at risk of expiring: $6 million; mental health continuum at risk: $5 million.</li>
 <li>Estimated annual NYPD overtime cost: hundreds of millions of dollars, cited by opponents of the security perimeter bill.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYPD to provide Committee with total number of ShotSpotter activations to date.</li>
 <li>NYPD to provide Committee with data on the process by which a 311 complaint for illegal parking leads to a tow, from initial report through enforcement action.</li>
@@ -121,7 +121,7 @@
 <li>NYPD to direct private tow operators to report tow data directly to the 311 system rather than through NYPD, per suggestion made during hearing.</li>
 <li>Council to consider whether T2026-2052 should be amended to extend coverage to high schools, given current exclusion and the inconsistency noted by the Legal Aid Society.</li>
 <li>NYPD community affairs division to engage civic associations and Cure Violence groups on available reporting tools and enforcement programs, including Q teams and the 311 tow system, per request from CM Hanks.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -931,6 +931,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

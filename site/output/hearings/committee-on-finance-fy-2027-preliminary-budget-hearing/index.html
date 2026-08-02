@@ -83,7 +83,7 @@
 <p>Much of the hearing focused on the administration's claims of identifying $1.7 billion in savings through chief savings officers, though only $200 million has been validated so far. Council members expressed skepticism about these projections while criticizing continued hiring restrictions despite promises to lift the "two-for-one" hiring limit. Lengthy discussions covered funding cuts to libraries, parks, and consumer protection agencies, with members arguing these reductions would hurt essential services. The administration maintained that agencies were previously underfunded rather than being cut, creating confusion about baseline funding levels.</p>
 <p>Revenue generation dominated much of the debate, with Council members warning that property and income tax increases would drive wealthy residents away - citing a 31% decline in NYC's millionaire population since 2010. The administration acknowledged the mobility of high earners but defended revenue proposals as necessary for affordability programs. Extensive time was spent on the city's poor collection of outstanding fines and fees totaling $2 billion, with OMB proposing an ECB amnesty program and AI-enhanced collection efforts.</p>
 <p>The hearing revealed ongoing structural problems across multiple agencies, from 600-day wait times at the Commission on Human Rights to 23% vacancy rates at Small Business Services. Council members pressed on pay equity issues for EMTs earning $18 per hour and paraprofessionals making $30,000 annually, while the administration deferred to collective bargaining processes. CUNY's capital needs, youth program funding, and technology modernization were also discussed, with the administration citing debt capacity limits and competing priorities. The session ended with unresolved questions about federal funding impacts, property tax reform timeline, and whether promised state assistance would actually materialize.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$127 billion preliminary budget for fiscal year 2027.</li>
 <li>$14 billion in agency expense changes over two fiscal years due to underbudgeting.</li>
@@ -134,7 +134,7 @@
 <li>$200 million estimated fiscal year 2026 payroll tax overbudget amount.</li>
 <li>$250 million estimated fiscal year 2027 payroll tax overbudget amount.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>OMB will share the full list of $1.7 billion in savings in the executive budget and provide updates as more savings are identified.</li>
 <li>OMB will work with Council on providing a report of DOE's 3,000 outside contracts and analysis of duplicative services.</li>
@@ -165,7 +165,7 @@
 <li>OMB will provide methodology and assumption tables for revenue forecasting.</li>
 <li>Council will provide OMB with specific instances of salary cap issues when employees move agencies.</li>
 <li>Council Member Stevens to follow up in one week on Raise the Age waiver decision timeline.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1440,6 +1440,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

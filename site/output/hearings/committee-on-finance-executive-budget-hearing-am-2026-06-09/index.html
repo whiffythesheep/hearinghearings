@@ -83,7 +83,7 @@
 <p>OMB's central argument was that the administration inherited a $12 billion gap across FY2026 and FY2027 resulting from chronic under-budgeting by the prior administration, and closed it without raising property taxes, raiding reserves or cutting services. The tools used included $1.77 billion in savings from Chief Savings Officers and vacancy alignment, significant new State aid (roughly $4 billion in total including pension restructuring authorization, foundation aid, pied-a-terre tax revenue and reversal of various cost shifts), and pension liability re-amortization generating $652 million in near-term savings. The administration also baselined previously one-shot funding for libraries, Fair Fares, parks and cultural organisations. Council members pushed back repeatedly on what they characterised as inadequate funding for DCWP, restorative justice, K-12 special education, gender-affirming care, ACT mental health teams, the Rockaway trauma center, NYCHA vacant units, child care vouchers, parks staffing towards the mayor's 1% commitment, and the DOE immigrant family outreach program, among many other items. OMB's consistent response was a variant of "we look forward to discussing this in the next few weeks," which at times drew visible frustration from members.</p>
 <p>Comptroller Levine offered a more cautious reading of the same budget. He acknowledged the progress and credited the revenue surge (driven largely by a strong Wall Street) and Albany support, but characterised the budget as reliant on roughly $6.1 billion in one-time measures in FY2027 that will not be available the following year. His office estimates the FY2028 gap at $8.8 billion once under-budgeted costs and unmet needs are accounted for, versus the administration's $7.1 billion. He was particularly pointed about the inadequacy of reserves, noting that the City's rainy day fund at $2 billion represents roughly 1.7% of revenue, ranking ninth among the ten largest US cities. He called for a Charter amendment to formalise a rainy day fund target of 16% of tax revenue with deposit and withdrawal rules, and warned that the budget's near-term balance depends heavily on Wall Street continuing its bull run. His office also released a scenario-based AI economic impact report projecting potential budget hits of $9-14 billion over the financial plan period in adverse scenarios.</p>
 <p>Several specific policy disputes were notable. The BRAGS Home Care situation drew sharp questioning from Chair Lee: the administration is renewing $186 million in contracts with a nonprofit whose leaders face federal bribery and embezzlement charges, relying on a DOI-supervised corrective action plan rather than terminating the relationship. OMB could not immediately identify the independent monitor or their cost. The NYCHA capital funding debate was substantive, with Council Member Banks pressing on the balance between Section 9 preservation and RAD/PACT privatisation, and OMB staff providing figures showing $801 million going to Section 9 versus $1 billion to PACT and the Trust in FY2027. Council Member Brooks-Powers had an unusually direct confrontation with the OMB Director over the Rockaway trauma center and Brookville Park Recreation Center, noting she had previewed her questions the day before and still received no committed answers. Council Member Restler pressed on child care vouchers, arguing that slower-than-expected take-up on mandated vouchers creates room to offer one-year vouchers to families on the 25,600-child waiting list. The Comptroller endorsed more investment in city tourism promotion, CUNY AI workforce development and formalising rainy day fund rules, and announced a $4 billion pension fund investment programme to finance affordable and workforce housing in the five boroughs.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>FY2027 Executive Budget total: $124.7 billion.</li>
 <li>Inherited budget gap across FY2026 and FY2027: $12 billion ($2.2 billion in FY2026, $10.4 billion in FY2027).</li>
@@ -116,7 +116,7 @@
 <li>DOI operating budget: after fixed costs such as rent, approximately $175,000 in discretionary public funds remaining; OMB director committed to a well-resourced DOI by adoption.</li>
 <li>Comptroller's office estimates hold-harmless school budget policy costs approximately $260 million annually; approximately 200 schools in NYC have under 200 students.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>OMB to provide timely responses to Council budget follow-up letters going forward, committing not to repeat the nearly two-month delay that occurred after the preliminary budget hearing.</li>
 <li>OMB to provide the identity of the independent monitor overseeing BRAGS Home Care, how they were selected, and any associated contract and cost, by the end of the week.</li>
@@ -143,7 +143,7 @@
 <li>Comptroller's office to partner with Council members to educate constituents about the claims process for flooding-related damages, led by Deputy Comptroller Alan's team.</li>
 <li>Comptroller to work with Council Member Morano on an audit of how water rental payments have been used.</li>
 <li>Comptroller to file a Charter amendment in coming days to establish formal rainy day fund rules with deposit formula, target of 16% of tax revenues and narrow withdrawal criteria.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1534,6 +1534,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

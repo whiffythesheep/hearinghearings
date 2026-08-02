@@ -83,7 +83,7 @@
 <p>At the Department of Correction hearing, Commissioner Stanley Richards testified on a proposed FY27 budget of approximately $1.3 billion, down 0.4% from the preliminary plan, driven largely by vacancy reductions and overtime savings. The headline tension was straightforward: the department is cutting 586 budgeted uniform positions at the same time it is struggling with chronic staffing shortages, a jail population of roughly 6,700 people, and projected overtime spending of around $364 million. Richards argued, not entirely convincingly, that eliminating vacant budget lines that were never going to be filled anyway does not impair hiring. The more substantive concerns were around population management, mental health needs (60% of those in custody carry a behavioral health designation, 20% have serious mental illness), and the borough-based jail capital plan, which now totals nearly $11.8 billion and is nowhere near shovel-ready for Manhattan, Queens, or the Bronx. Brooklyn has topped off. The Bellevue Therapeutic Housing Unit received bipartisan praise as a genuine innovation, though Council Member Restler pointedly noted that two similar facilities at Woodhall and a central site, fully funded under the de Blasio administration, were allowed to stall for four years and are now not expected to open until around 2029. The Securus communications contract drew scrutiny over privacy and data security concerns from public defenders, with DOC indicating it is reviewing compliance but not reconsidering the contract. Council Member Morano raised the legal question of whether the current borough-based jail plan violates state correction law requiring Rikers to remain operational until successor facilities are funded and open, which the Commissioner declined to answer and punted to the Law Department. The hearing ended without any firm commitments on population reduction strategies, though Richards was notably more holistic in his framing than the NYPD Commissioner who testified the day before, explicitly agreeing that NYPD and prosecutors need to be partners in decarceration.</p>
 <p>The HPD hearing featured Commissioner Dina Levy testifying on a proposed FY27 budget of $1.14 billion, a 5.6% increase from the preliminary plan, and an ambitious ten-year housing plan called Block by Block targeting 400,000 units created or preserved. The plan commits to financing approximately 16,000 affordable units over the next two years, with 50% serving extremely low and very low income households, and a 57% expansion of supportive housing funding with a dedicated $1 billion over two years. Preservation commitments include hundreds of millions for Mitchell-Lama buildings, a new Our Home program converting rental buildings to affordable co-ops, an increased HomeFix loan cap from $60,000 to $100,000, and the relaunch of the Mortgage Assistance Program. The central challenge, raised repeatedly by Chair Sanchez, is whether the budget's staffing levels are adequate to deliver on this ambition: only 41 new positions are being added net, and the agency has over 300 vacancies it is only now being freed to fill following completion of a 56-position vacancy reduction. The hearing also surfaced concerns about the proliferation of fires in the Bronx and Queens, with Sanchez noting fires have doubled in the last two years. Levy acknowledged the problem but said the agency does not yet know the cause, which prompted an immediate pushback from Sanchez noting that FDNY testified the day before that electrical systems are the primary driver. Questions on 485-X tax exemption compliance, potential gaming of the 99-unit threshold to avoid wage requirements, 421-a expiration and tenant displacement risk, and the loss of $485 million in federal funding rounded out a substantive exchange. Manhattan Borough President Mark Levine also testified in support of the housing plan, calling for at least $350 million in additional right-to-counsel funding and noting that tenant representation in housing court has dropped from 71% to 42% since 2021.</p>
 <p>The NYCHA hearing featured CEO Lisa Bova-Hiatt testifying on a portfolio facing an $80 billion capital need, a $493 million rent arrears balance, a 14% cut in federal operating subsidy worth up to $158 million in lost funding, and approximately 6,122 vacant apartments. The City's response in this budget is the largest capital commitment to NYCHA in recent history: $500 million in new PACT conversion funding, $78 million in new capital for vacant unit readiness, and $76 million in new expense funding for mold, elevators, and vacant apartments. Total City support increased by $650 million for FY26-30. Council Member Banks and others pushed back on the administration's continued emphasis on PACT conversions at the expense of Section 9 investment, a tension that remained unresolved. Council Member Marte was the most blunt, calling the PACT-heavy approach a moral stain and arguing the City is giving developers a sweet deal. Council Member Restler focused extensively on vacancies, pressing NYCHA on what realistic reduction targets look like, with NYCHA acknowledging a functional floor of around 3,600 vacancies given natural turnover rates, but declining to commit to how quickly the current 6,122 figure could be reduced. The Emergency Housing Voucher crisis featured prominently: with federal EHV funding expiring by end of 2026, NYCHA has received only 1,275 public housing applications from the 5,200 affected households, matched 310 to units, and is relying on $80 million in HOME funding as a bridge, leaving a significant gap against the $124 million annual cost of the program.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DOC proposed FY27 budget: approximately $1.3 billion, a decrease of 0.4% from the preliminary plan.</li>
 <li>DOC budget is 82% personnel services and 18% other than personal services.</li>
@@ -125,7 +125,7 @@
 <li>Manhattan average rent hit $5,711 per month in January 2026, an all-time high; median monthly rent exceeded $5,000 for the first time; nearly half of Manhattan households are rent-burdened.</li>
 <li>Right-to-counsel tenant representation in housing court dropped from 71% in 2021 to 42% in 2024; Borough President Levine called for at least $350 million in additional funding to restore coverage.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOC to provide the Council with a specific timeline for submission of the overdue population forecast report covering July 1 to December 31, 2025, originally due January 15, 2026.</li>
 <li>DOC to keep the Council updated on its review of the Securus communications contract, including any data privacy compliance measures or contract modifications.</li>
@@ -152,7 +152,7 @@
 <li>NYCHA to investigate and fix the broken grievance and termination of tenancy procedures page on the NYCHA website, and report back to Council Member Narcisse.</li>
 <li>NYCHA to get back to Chair Lee on reasonable accommodation law training requirements for both managerial and frontline staff as committed in the agency's racial equity plan.</li>
 <li>NYCHA to update the Council on the development partnership opportunities RFP results, including which of the 57 proposals have been selected.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1636,6 +1636,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

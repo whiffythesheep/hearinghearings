@@ -83,7 +83,7 @@
 <p>On Int 0230-2026, the commissioner offered qualified support, endorsing the intent while flagging unresolved questions about operationalization. Council Member Hudson, who introduced the bill, made the case on affordability grounds: the median income for a senior living alone is $22,900, one-third of older adults have a functional disability, and falls and mobility barriers are primary drivers of institutionalization. Public testimony from the Legal Aid Society's Director of Elderly Practice broadly supported the bill but raised substantive implementation concerns, including the risk of eviction for tenants who modify rent-stabilized apartments without landlord approval, the absence of a fair hearing right for denied applicants, and the difficulty older adults face proving disability eligibility once past 67 and no longer covered by Social Security Disability rather than retirement benefits. These are real design problems that will need to be resolved before the bill can function as intended.</p>
 <p>The hearing surfaced persistent, structural problems with interagency coordination that the cabinet has not visibly addressed. Council Member Zhuang pressed on the one-stop-shop question, noting that seniors routinely end up in her district office because they cannot navigate which agency handles which issue. The commissioner's answer, pointing to the Aging Connect phone line and its warm handoff model, was met skeptically given testimony from United Neighborhood Houses and LiveOn NY that providers cannot identify the NYCHA-DFTA liaison, tickets for facility repairs get closed without resolution, and center directors have been personally threatened with arrest due to safety violations that neither NYCHA nor DFTA would take responsibility for fixing. Council Member Brewer pushed on whether the cabinet was duplicating rather than building on two decades of Age Friendly New York work, and on Mitchell-Lama housing, flagging that Local Law 44 of 2024 requiring HPD to send pre-filled SCRIE applications to Mitchell-Lama residents may not be being complied with. The commissioner committed to adding this to the June 25 cabinet agenda. Council Member Zhuang also highlighted the LGBTQ plus older adult commission required under Local Law 170 of 2023, which has been seated only partially and has produced no output more than two years after passage, drawing pointed frustration. The commissioner, three months into the role, could offer little beyond a commitment to do better.</p>
 <p>External testimony reinforced the pattern of coordination failure. LiveOn NY called for opening cabinet meetings to the public, expanding membership to include providers and academics, and having the cabinet issue large-scale recommendations to HPD and HRA rather than confining itself to internal interagency logistics. A Bronx resident presented a data tracker of chronic elevator offender buildings, noting that 33 single-elevator buildings in New York City sit within a quarter mile of DFTA-funded sites and that the cabinet has no data bridge to connect elevator failure patterns to aging services outreach. A tenant advocate testified against NYCHA's PACT privatization program, arguing it threatens the aging-in-place infrastructure of public housing communities. On food security and elder abuse, Council Member Zhuang described a constituent case of overnight SNAP fraud that NYPD refused to take a report on, and a separate sexual abuse case involving a non-English-speaking senior that was similarly mishandled until her office intervened, illustrating the gap between the commissioner's description of coordination mechanisms and what actually happens at street level.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>New York City's older adult population currently represents approximately 20% of the total city population.</li>
 <li>The number of older adults in New York City is expected to increase by 40% by 2040.</li>
@@ -110,7 +110,7 @@
 <li>A senior in Council Member Zhuang's district had approximately $3,050 in SNAP benefits stolen overnight in a single fraud incident.</li>
 <li>The proposed NYCHA capital budget includes $1 billion directed toward capital repairs, which tenant advocates argue will be channeled toward PACT privatization rather than Section 9 improvements.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYC Aging to add Mitchell-Lama housing and compliance with Local Law 44 of 2024 on pre-filled SCRIE applications to the June 25 Cabinet for Older New Yorkers agenda.</li>
 <li>NYC Aging to provide the Committee with a list of intergovernmental liaisons at each cabinet member agency, not just commissioner names, and to share this list with contracted service providers.</li>
@@ -130,7 +130,7 @@
 <li>Committee on Aging to schedule a hearing with Council Member Banks on NYCHA PACT privatization and its impact on older adults.</li>
 <li>NYC Aging to provide the committee with the full attendance record and initiative list from all Cabinet for Older New Yorkers meetings to date, as required under Local Law 64, and to share an updated report later in summer 2026.</li>
 <li>LiveOn NY to submit a recommended list of provider and academic candidates for potential expanded cabinet membership to Council Member Zhuang.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -757,6 +757,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

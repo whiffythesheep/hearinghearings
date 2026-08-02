@@ -83,7 +83,7 @@
 <p>At Probation, Commissioner Chiron Goodwin's team described a department under genuine stress: a 23% vacancy rate, a 50% spike in juvenile re-arrests, and a drop in on-time pre-sentencing investigations from 98.4% to 94.4% despite higher volume. The department is transitioning from a mixed caseload model to a single risk-level model, expanding use of credible messengers with youth, and launching the LIGHT program at Lehman College for education and vocational support. The union, represented by UPOA president Dy Powell, was blunt: the agency is hemorrhaging officers to NYPD, parole, and neighboring departments because salaries are dramatically below comparable agencies, and pay equity litigation has been running since 2019. One Queens unit was said to have no probation officers at all as of the following week.</p>
 <p>At Correction, new Commissioner Stanley Richards, a formerly incarcerated person who has spent decades as an advocate and practitioner, gave testimony that was notably different in tone from his predecessors. He acknowledged the department is in serious difficulty: population up nearly 43% since FY21, facilities at 92% capacity, uniform staffing down roughly 20% since January 2022, over 800 officers currently retirement-eligible, and overtime on track to hit $370 million in FY26 against a budgeted figure that will last less than six months. His core message was that safety, population reduction, and putting people first are interconnected, and that punishing the way to compliance does not work. He was direct about the need to close Rikers and explicit that borough-based jails are necessary, not optional. Significant scrutiny fell on cell door replacements: roughly 2,889 doors need upgrading across the island, only about a third are done, current expense funding covers only 141 doors per year, and at that pace full replacement would take ten to twelve years. The remediation manager appointed by Judge Swain, Nicholas Demo, starts officially on March 30 and will be physically based on the island. The department acknowledged it has not yet reviewed prior Board of Correction reports but committed to a forward-looking plan; a 90-day action plan from the remediation manager is required under the court order. Significant gaps emerged around mental health: roughly 20% of people in custody have a serious mental illness, 180 to 200 people at any one time are awaiting state psychiatric beds, and a deadlocking investigation remains open at the Department of Investigation. Questions about bail facilitators, staffing analysis procurement, and captain vacancy numbers all resulted in follow-up commitments rather than immediate answers. Council Member Restler pressed hard on 6A authority and the city-sentenced population, now around 8% of the total versus 3% in 2022, and on sustained investment in supervised release, ATI, and justice-involved supportive housing, noting that only 14 of 109 people approved for supportive housing from Rikers were actually placed last year despite over 4,000 vacant supportive housing units citywide.</p>
 <p>The public session brought a clear and consistent message from advocates, service providers, and directly impacted individuals: the preliminary budget is inadequate, ATI and re-entry programs face a $4.6 million cut that must be reversed and expanded by $20 million, the Board of Correction is chronically underfunded and needs $3 million more and technology investment of $2.1 million, and DOC's authorized headcount of 7,600 uniform officers is far above what the borough-based jails will require, with roughly 1,300 vacancies that could save $174 million annually if eliminated. The Vera Institute, Freedom Agenda, the NYC ATI Coalition, Worth Rises, the NYC Bar Association, and others all made variations of the same argument: at roughly $500,000 per person per year on Rikers, the math is indefensible compared to community-based programs that serve 50 people for the cost of one incarceration. Worth Rises raised a specific and pointed issue about the jail telecom vendor Securus potentially sharing call data with federal immigration enforcement agencies in violation of sanctuary laws, and urged passage of Intro 96. Brooklyn Defenders urged passage of Intro 134 on housing transgender people in accordance with their gender identity. The union representing correction officers, COBA president Benny Bosio, pushed back on the direction of the conversation, citing 660 officer assaults in the prior year, 140 in the first three months of the current year, and arguing that eliminating punitive segregation without viable deterrents leaves officers without protection.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Department of Correction FY27 preliminary budget: $1.4 billion, up from $1.34 billion in FY26, a $58 million increase.</li>
 <li>DOC budget including fringe benefits, pension contributions and debt service: $2.99 billion, a 5% increase compared to the FY26 adopted budget.</li>
@@ -110,7 +110,7 @@
 <li>DOC external rehabilitative programming budget: $14 million out of the total $2.99 billion budget including fringe and debt service.</li>
 <li>Osborne Association Court Advocacy Services: in FY25, prevented 1,674 years of incarceration, generating estimated cost savings to city and state of $227 million.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOC to provide committee with a list of expense-funded infrastructure projects completed since 2022.</li>
 <li>DOC to confirm total cost of replacing all remaining cell doors and provide that figure to the committee.</li>
@@ -138,7 +138,7 @@
 <li>DOC to assess programming funding needs and report on plans for more robust programming capacity across facilities.</li>
 <li>Department of Probation to provide committee with data on what specifically drove the $18.8 million at-risk youth funding shift from city to non-city sources and its effect on program enrollment.</li>
 <li>HRA and CHS to be engaged by the committee on improving the supportive housing referral pipeline for people leaving Rikers, including mandating referral timelines.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1202,6 +1202,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

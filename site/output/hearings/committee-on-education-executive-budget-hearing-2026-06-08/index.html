@@ -84,7 +84,7 @@
 <p>The DOE portion was more contentious. Speaker Menin opened with pointed criticism over the DOE's failure to hand over contract data requested since March — a bad look for an agency with a $12.9 billion contract budget. The Council's analysis of Checkbook NYC data found roughly 40% of contract spending by dollar value was non-competitively bid; the DOE had been citing 12%, but that figure referred to the number of contracts rather than dollars spent. The DOE's procurement reform agenda — centralisation, technology modernisation, better training — sounds reasonable in outline but came without firm timelines. Chair Dinowitz raised a specific SCI report on a district superintendent who allegedly split contracts to avoid the $25,000 threshold and received only a two-week suspension; the DOE General Counsel declined to discuss details, citing possible law enforcement interest, while confirming it was a policy rather than criminal matter. The absence of mandatory procurement training for principals, which apparently requires union negotiation, is the kind of detail that makes government competence sceptics reach for a drink.</p>
 <p>On programmatic matters, the DOE hearing covered a remarkable amount of territory. Several significant funding gaps are heading into adoption negotiations: $6M for restorative justice programming (affecting roughly 250 schools), $5M for the Mental Health Continuum at 50 high-need high schools, $3.3M for Student Success Centers, and funding for the SEED sensory program currently serving 3,450 students. The DOE's due process numbers are genuinely impressive — cases down from 26,000 to under 16,000, pending cases from 18,000 to under 7,000 — and the OATH tribunal achieving resolution in under 70 days is real progress. But the specialised autism programmes (AIMS, NEST, Horizon) remain drastically oversubscribed: over 2,000 applicants for 510 AIMS seats, and 1,410 applications for 560 NEST and Horizon kindergarten seats. DOE acknowledged it submitted a request to OMB for expansion beyond the 675 seats being added, but it did not make the executive budget. Dinowitz's argument — that expanding these programmes is both morally necessary and fiscally rational given average due process costs of $105,000 per student per year — is one of the cleaner analytical arguments made in the hearing. The New Visions portal contract (approximately $8 million, used by virtually every school in the system plus ACS, CUNY, and DHS) was flagged for cuts as allegedly duplicative; the Chancellor expressed personal support for it while declining to make a commitment. Cutting a genuinely useful cross-agency data tool to save $8 million in a $40 billion budget is the kind of decision that tends to age poorly.</p>
 <p>Class size compliance is advancing, with grades K-3 showing a 28.7% increase in compliant classes, aided by a two-year state extension. The after-school procurement — the first since 2015 — added 20,000 new seats but generated significant friction as familiar providers lost contracts. Early childhood expansion is progressing, with 85% utilisation of 3-K seats and a 2-K pilot launching, though pay parity for ECE workers remains unresolved. The hearing did not produce firm budget commitments on most contested items; the real decisions will happen at adoption.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$40 billion: total DOE budget.</li>
 <li>$12.9 billion: DOE contract budget.</li>
@@ -112,7 +112,7 @@
 <li>85%: utilisation rate for 3-K seats (~52,000 seats); 80% for pre-K (~69,000 seats); 2-K pilot launched June 2, 2026, with 10,000 additional seats planned for next year.</li>
 <li>47 out of 657: elementary schools with a certified school librarian.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOE to provide an apples-to-apples comparison of competitive versus non-competitive contract spending by dollar value, matching the methodology used in the Council's Checkbook NYC analysis.</li>
 <li>DOE General Counsel to confirm whether mandatory procurement training for principals can be implemented and to advance union negotiations required to make it possible.</li>
@@ -129,7 +129,7 @@
 <li>CUNY to share building accessibility assessment data and capital prioritisation timelines with the Committee.</li>
 <li>CUNY to provide data on the apprenticeship programme duration and graduate outcomes.</li>
 <li>CUNY Chancellor to provide the Committee with finalised MOU with DOE under Local Law 18 of 2023 on data-sharing for students with disabilities once executed.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1787,6 +1787,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

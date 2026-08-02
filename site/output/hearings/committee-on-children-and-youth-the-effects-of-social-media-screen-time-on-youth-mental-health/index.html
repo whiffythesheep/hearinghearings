@@ -83,7 +83,7 @@
 <p>The health testimony was substantive and, by government standards, relatively candid. DOHMH officials walked through survey data showing that over 73% of NYC public middle school students and 76% of high school students use social media several times a day. They drew a careful distinction between active, goal-directed social media use, which is associated with more positive mental health outcomes, and passive, feed-scrolling consumption, which correlates with depression, anxiety, and body image disorders. They were notably careful to resist the language of addiction in favor of "problematic use," while acknowledging that the clinical field has not yet developed a formal diagnostic category or widespread screening infrastructure for this issue. A 2023 longitudinal study was cited showing that habitual social media checking measurably altered adolescent brain development, increasing amygdala reactivity and reducing self-regulation. The hearing also surfaced the platform design dynamic driving these harms: variable reward schedules, infinite scroll, and algorithmically curated idealized content are explicitly engineered to exploit adolescent neurodevelopment. DOHMH was asked directly why social media companies would want to hook children who are not primary consumers, and wisely declined to speculate beyond their public health remit.</p>
 <p>On the legislative agenda, Int 0450-2026, which would restrict youth under 17 to one hour per day of social media, drew skepticism from DOHMH, which acknowledged there is no clinical study specifically validating the one-hour threshold. Int 0451-2026, requiring a report on social media's mental health impacts co-produced by DYCD and DOH, was endorsed by both agencies with caveats about capacity, prompting Chair Stevens to translate the diplomatic hedging as support and announce she would add ACS and DOE to the bill's scope. Int 0660-2026, requiring a study of youth altercations and their associated online activity, was the most contested bill of the hearing. CM Caban raised serious concerns that it would create a mass surveillance database reaching over 400,000 youth across 1,000-plus DYCD programs and several hundred ONS programs, with inadequate privacy protections, undefined data retention and access rules, and a real risk that prosecutors or immigration enforcement could exploit the data. DYCD estimated implementation costs at roughly $5 million, expressed clear opposition, and the chair noted that the bill's sponsor, Deputy Speaker Williams, was open to significant amendments. Int 0801-2026, on creating early childhood education apprenticeships within summer youth employment, was broadly supported by DYCD but raised concerns about the six-week SYP timeframe as a vehicle for meaningful career pathways, with DYCD advocating for the year-round Work, Learn and Grow model instead. Chair Stevens used DYCD's own testimony as an argument for full-year youth employment programming.</p>
 <p>The hearing also surfaced some structural gaps worth noting. The EASE mental health curriculum, piloted at 15 community centers and reaching roughly 200 youth, lost its funding in 2025 without any expansion plan in place, a fairly typical outcome for NYC pilots that work. The Teen Space program has registered 36,000 youth in its first two years with 80% identifying as BIPOC, and is still operational as a demonstration project. DOHMH acknowledged it has no New York-specific prevalence data on body image disorders disaggregated by social media use, no clinical guidance addressing identity-based stress for LGBTQIA+, Black, Latino, or immigrant youth, and that school-based mental health clinicians have no specific social media screening protocols. The government is, in other words, running considerably behind the platforms it is attempting to regulate.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>73% of New York City public middle school students use social media several times a day, per 2022 YRBS data.</li>
 <li>76% of New York City public high school students use social media several times a day or more, per 2023 YRBS data.</li>
@@ -110,7 +110,7 @@
 <li>DYCD funds over 1,000 contracted CBOs serving over 400,000 youth; ONS adds several hundred additional programs.</li>
 <li>The DOHMH youth committee on mental health includes 23 young people aged 15 to 24 from across the five boroughs.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOHMH to provide follow-up data on differences in social media use and mental health outcomes between youth and adults from existing YRBS survey data.</li>
 <li>DOHMH to provide data on equitable access to school-based mental health clinicians across income levels and council districts.</li>
@@ -129,7 +129,7 @@
 <li>Council to continue discussions with DOHMH on amending Int 0451-2026 to ensure it is actionable and grounded in existing data infrastructure.</li>
 <li>Council and DYCD to discuss how summer youth employment sector diversification can be incentivised through the next RFP process to support Int 0801-2026 goals.</li>
 <li>DYCD to brief Chair Stevens further offline on ONS monitoring practices and what indicators are used to track youth violence risk, in context of Int 0660-2026.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -510,6 +510,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

@@ -83,7 +83,7 @@
 <p>Before agency testimony, the committee heard from a pre-panel of directly impacted residents and advocates. Stephanie M., a domestic violence survivor and single mother of three neurodivergent children, described how it took ten years to be rehoused and how the voucher provided her first period of genuine safety. Gina Capucci of New Destiny Housing, which navigated housing for over 700 EHV survivors, called on the City to extend City FHEPS eligibility to NYCHA EHV participants and fund it in the FY2027 budget, warning that without it survivors face eviction proceedings, shelter, and the risk of returning to abusers. A family member of a 62-year-old domestic violence survivor testified to the complete lack of guidance from NYCHA when funding termination was announced, describing hours on hold with no actionable information. Kenny Burgos of the New York Apartment Association offered the unexpected position that landlord groups support voucher expansion, arguing that vouchers mean stable tenancies and reliable payments, and endorsing the state resolution on both its prioritization and inspection streamlining provisions. He used his testimony to name the mayor, not landlords, as the obstacle to voucher expansion.</p>
 <p>NYCHA's Lakisha Milanes and HPD's Adam Phillips laid out their respective transition strategies in agency testimony. NYCHA's original plan to convert EHV holders directly to Section 8 was blocked when HUD denied a waiver request in January 2026, after having first granted permission in principle, citing a Section 8 funding shortfall. NYCHA is now matching households to vacant project-based Section 8 units within its PACT portfolio, targeting 1,700 households for transition to a HOME-TBRA program to be administered by HPD, and using a small number of mainstream vouchers for in-place conversions. As of the hearing date, 3,400 of 5,100 NYCHA EHV households (roughly 67%) had returned public housing applications, 568 had been matched to units, and just 14 had physically moved. HPD, by contrast, had a stronger operational footing: all roughly 2,000 of its EHV households had received pre-filled HOME-TBRA applications and nearly 80% had returned them. HPD projects its EHV funding runs out by September 2026; NYCHA's by mid-November 2026.</p>
 <p>The hearing exposed a significant gap. NYCHA acknowledged it does not have 5,200 units available and that roughly 3,500 additional project-based units would be needed to house everyone not routed through HOME-TBRA. The HOME-TBRA bridge is explicitly temporary, estimated to last about two years before that funding too runs dry. NYCHA was repeatedly pressed on whether any household would face eviction or homelessness and would not commit to a zero-displacement guarantee, noting that NYCHA is not the landlord for voucher holders and cannot control private-market landlord behavior. The administration declined to adopt City FHEPS as an additional tool, arguing it preferred to exhaust existing federal HOME resources first. Council members, particularly Restler and the Public Advocate, pressed on NYCHA's high vacancy rates, slow unit turnover, and the mismatch between the urgency of the housing cliff and the pace of placements: 14 households moved in a program affecting more than 5,000 families with a deadline less than five months away.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>EHV program originally funded through September 2030 under the American Rescue Plan Act; HUD announced in March 2025 that funding would run out by end of calendar year 2026, four years early.</li>
 <li>Approximately 70,000 EHV vouchers were issued nationwide across 626 public housing authorities.</li>
@@ -112,7 +112,7 @@
 <li>Placements from shelter into NYCHA housing have fallen by over 80% since fiscal year 2015 and now account for less than 5% of total exits from shelter.</li>
 <li>Coalition for the Homeless data cited by the Public Advocate: longer-term shelter users in the DHS system grew 12% between 2023 and 2024, an increase of over 7,500 people.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYCHA to report monthly to the Committee on the number of EHV households matched to units, moved into units, and transitioned to alternative programs, through the funding expiration deadline.</li>
 <li>NYCHA to provide the Committee with a breakdown of matched units by bedroom size and by development following the hearing.</li>
@@ -129,7 +129,7 @@
 <li>City Council Progressive Caucus and Chair Banks to continue budget negotiations with NYCHA over funding for vacant unit readiness and maintenance staffing under the Rentals Within Reach campaign.</li>
 <li>New Destiny Housing to deliver its letter signed by approximately 350 organizations and impacted residents to City Hall calling on the Mayor to extend City FHEPS eligibility to EHV participants.</li>
 <li>Albany to be pressed via T2026-2091 to pass A.10992/S.9430-A, which would prioritize EHV households in the state housing access voucher pilot program and standardize local inspection requirements.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -785,6 +785,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

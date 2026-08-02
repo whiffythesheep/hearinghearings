@@ -83,7 +83,7 @@
 <p>Administration officials from the Mayor's Office of Child Care, CUNY, and other agencies outlined expansion plans including 2,000 new 2K seats and 1,000 additional 3K seats, while acknowledging the workforce pipeline cannot support these goals under current conditions. The testimony exposed stark compensation inequities between community-based organization teachers and their DOE counterparts - wage gaps that create lifetime earnings differences of $700,000 for teachers and $1.7 million for directors. CUNY representatives detailed extensive programming serving 3,600 students across multiple degree levels, including an oversubscribed apprenticeship program that received 400 applications for 30 slots.</p>
 <p>Public testimony from providers, educators, and advocacy organizations consistently identified wage parity as the core solution, with several witnesses proposing that CBO staff be allowed to unionize with the UFT. Family childcare providers described earning as little as $6-7 per hour after expenses, while program directors detailed operating on 2021 budget levels amid rising costs. The hearing also highlighted systemic inefficiencies, including 3-6 month background check delays that lose qualified candidates to other sectors and fragmented data systems that prevent coherent workforce planning across the mixed public-private system.</p>
 <p>Despite extensive testimony about successful "grow your own" workforce development models and specific funding requests, the administration provided no concrete budget commitments for fiscal year 2027. The hearing underscored a familiar New York story: ambitious policy goals undermined by chronic underinvestment in implementation, with a predominantly female, immigrant workforce bearing the costs of the city's failure to adequately fund essential services.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>36,000 early childhood educators currently working in NYC.</li>
 <li>5,000 new educators needed annually to maintain current capacity.</li>
@@ -118,7 +118,7 @@
 <li>9,000 children served annually by Saint Nick Alliance programs.</li>
 <li>107,000 K-5 students supervised by 12,000 DYCD Compass Elementary program staff.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Emmy Liss to provide average DOHMH clearance wait times and processing time ranges.</li>
 <li>CUNY representatives to provide data on students enrolled in special education programs across all degree levels.</li>
@@ -136,7 +136,7 @@
 <li>Administration to confirm if 350 new positions from $70 million allocation have been filled.</li>
 <li>Administration to confirm any hiring challenges for funded positions.</li>
 <li>Witnesses who have not submitted written testimony to email materials to the committee.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1020,6 +1020,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

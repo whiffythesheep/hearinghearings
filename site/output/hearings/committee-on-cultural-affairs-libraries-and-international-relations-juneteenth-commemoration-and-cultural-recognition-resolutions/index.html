@@ -84,7 +84,7 @@
 <p>The Department of Cultural Affairs testimony was, diplomatically speaking, underwhelming. The Deputy Commissioner confirmed the agency had not been sent questions in advance, had not thought through whether the Bill should authorise contracts and grants, had no update on the status of the Freedom Trail Task Force created under prior Juneteenth legislation, and acknowledged that Juneteenth programming and burial site recognition are not currently connected within any coherent commemorative framework. Chair Williams noted, drily, that this was the second hearing at which the agency appeared unprepared, and committed to sharing questions in advance in future. The agency's core defence -- that it is primarily a funder, not a heritage manager, and that this work needs more deliberate inter-agency planning -- was reasonable as far as it went, but not quite adequate as a substitute for having thought about it before arriving.</p>
 <p>CM Banks offered a detailed account of the New Lots Library in East New York, which is being rebuilt on and around the East New York African Burial Ground, with design elements intended to honour the site's history. The Brooklyn Public Library and its design team testified about the project, which represents one of the more considered examples of how a civic institution can confront this history in practice rather than in principle. Public Advocate Jumaane Williams testified in support of the Bill and connected it explicitly to the national context of efforts to suppress Black history education, describing the removal of Black history from curricula as a deliberate political objective rather than an incidental one. Chair Williams used her closing questions to link the hearing to the Council's broader reparations and truth and reconciliation work, including a current open grant application from the Commission on Racial Equity.</p>
 <p>The resolutions on the agenda -- celebrating the Feast of San Gennaro, declaring Kappa Alpha Psi Day, Willie Colon Day and Maria Antonia Cay Day -- received brief introductory remarks but were not the focus of substantive testimony or debate.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Juneteenth has been celebrated in the African American community for more than 150 years.</li>
 <li>The African Burial Ground National Monument at 290 Broadway contains the remains of up to 15,000 enslaved and free Africans.</li>
@@ -106,7 +106,7 @@
 <li>Institute for the Exploration of Seneca Village History conducted archaeological excavations in Seneca Village in summer 2011 following more than a decade of prior documentary research.</li>
 <li>Local Law 4 of 2024, championed by the Public Advocate, placed an informational sign marking the site of New York's first slave market.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Chair Williams to establish a practice of sharing questions with agency witnesses in advance of committee hearings.</li>
 <li>Chair Williams to connect expert panel witnesses with Linda Danny at the Commission on Racial Equity regarding the current open researcher grant application.</li>
@@ -123,7 +123,7 @@
 <li>Chair Williams to meet with CUNY pipeline of students pursuing archaeology and African diaspora studies to explore Council support for workforce development in the field.</li>
 <li>Department of Cultural Affairs to provide written response to committee on whether the Bill should be amended to include explicit authorisation for contracts and grants.</li>
 <li>Brooklyn Public Library to invite committee members to ribbon cutting for the New Lots Branch library and burial ground commemoration once construction is complete.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -486,6 +486,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

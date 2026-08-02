@@ -83,7 +83,7 @@
 <p>The central tension of the hearing was between the administration's aspirational framing and the Council's demand for hard numbers. The GEAP projected 400,000 green jobs by 2040, up from 133,000 at the plan's release, but the Center for an Urban Future found only around 2,184 net new green jobs added between 2022 and 2023. When pressed to explain how the 400,000 figure was derived, what share was net new versus transitioning jobs (answer: 70% transitioning), how much federal funding underpinned it, and when a revised forecast reflecting current conditions would be issued, EDC and Talent repeatedly could not answer with specificity. The administration's position was that the 400,000 was a projection rather than a commitment, that meaningful assessment should wait until around 2030, and that the methodology did not easily lend itself to year-by-year tracking. Chair Maloney pushed back hard on this, arguing that the public and the Council cannot hold the administration accountable without updated projections and a clear funding picture. The administration could not commit to an annual update or revised projection, and could not confirm that the $600 million cited in the plan for green career pathways for young people would be fully funded in fiscal year 2027, nor provide a breakdown of how much of that figure was actually green-specific rather than general youth workforce spending.</p>
 <p>On offshore wind, EDC offered a relatively positive account of the South Brooklyn Marine Terminal, noting construction is 98% complete, that 2,500 union workers have worked on site, and that the City's lease protections include a $20 million penalty clause if Equinor walks away. However, Council Members pressed on the diminished economic case: the original 2022 justification assumed three offshore projects totalling over 3,000 megawatts; Empire Wind 2 has been cancelled and Beacon Wind has no active construction, leaving an 810-megawatt project as the sole anchor tenant. EDC acknowledged the future pipeline is challenged and said it is working with NYSERDA on pre-development activities to position the industry for a more favorable federal administration. On workforce development specifically, Talent reported roughly 2,300 adults and 750 young people served since the GEAP's release, against a plan target of 12,000 trained by 2040 through apprenticeship and pre-apprenticeship programs. Only one of the five promised borough-based green collar training centers is currently open (Solar One's Environmental Education Center in Manhattan), with the Brooklyn Army Terminal facility not expected until late 2028. The $4.5 million GROW pilot launched by the Mamdani administration was clarified as a genuinely new investment rather than a relabeling of prior funding, focused on training participants to manage rain gardens in East New York and South Ozone Park.</p>
 <p>Public testimony was substantive and largely constructive. Greg Morris of the NYC Employment and Training Coalition called for a permanent EDC president and noted the systemic difficulty of getting clean budget data for workforce programs across any sector. Carrie Fall Haber of Jobs First, whose Green Economy Network has trained over 7,000 New Yorkers since 2023, called for a dedicated workforce authority within City Hall, stronger school-to-workforce-to-industry alignment, and treating employers as full partners rather than compliance targets. Angelina Nerese of Green Launchpad argued the City should reframe workforce development as a business competitiveness tool, not a social obligation. Dr. Christopher Malone of the Consortium for Worker Education called for a public-facing green workforce dashboard, a near-term training surge strategy, and explicit linkage of workforce investments to Local Law 97 implementation. Representatives from the Whole Program, Andromeda Community Initiative, Green City Force, Southwest Brooklyn IDC, Fordham University, and Solar One each testified to the importance of community-based providers, wraparound services, and intentional hiring pathways. A 15-year-old student from Princess School for the Sciences closed with a reminder that today's decisions will shape what the city looks like when her generation enters the workforce.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>The GEAP projected 400,000 green jobs in New York City by 2040, up from 133,000 at the time of the plan's release in February 2024.</li>
 <li>70% of the 400,000 projected jobs are transitioning jobs (existing jobs adapting to green practices), not net new positions.</li>
@@ -117,7 +117,7 @@
 <li>The City has added 44,500 private sector jobs over the past year, a 1.1% increase, outpacing national growth of 0.5%.</li>
 <li>CUNY campuses, once green facilities are open, are expected to train 6,000 students annually in green economy fields.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>EDC to provide the Council with a breakdown of how the 400,000 job projection was derived, including which industries, policy assumptions, and federal funding levels underpinned the forecast.</li>
 <li>EDC and Talent to provide a revised or updated green jobs forecast reflecting current federal funding losses and policy rollbacks, with a timeline for when such a revision will be issued.</li>
@@ -139,7 +139,7 @@
 <li>EDC and Talent to provide a reconciliation of GEAP job projections against the Center for an Urban Future figure of 2,184 net new green jobs added in 2022-2023, and to explain methodological differences if the figure is disputed.</li>
 <li>Chair Maloney urged the administration publicly to appoint a permanent president of the NYC Economic Development Corporation.</li>
 <li>Talent to report on the number of apprentices placed through the PICC program who are specifically in green economy occupations, separate from the total 1,500 figure.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -733,6 +733,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

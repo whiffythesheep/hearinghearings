@@ -80,7 +80,7 @@
 <p>The central structural tension running through the entire hearing is MOYA's absurd mismatch between mandate and capacity. The office formally controls a budget of just $782,000 covering five staff positions, two of which are currently filled. The actual operating budget is $42.3 million in FY26, with 64 staff lines spread across other agencies including DSS, DYCD, and H+H, and over 70 nonprofit contracts. Chair Encarnación directly called this arrangement unacceptable and advocated for creating a standalone city immigration agency, a position echoed by former Council Speaker Melissa Mark-Viverito in invited testimony. The commissioner, to her credit, did not pretend this architecture is ideal, but offered the honest answer of a new official: she is still figuring out where things stand. The preliminary budget does add $6.1 million in new baseline funding, comprising $4.6 million for rapid response and legal support centers and $1.5 million for English learning centers, which is at least a real commitment rather than one-shot funding.</p>
 <p>Questioning covered a wide range of operational programs. The immigration legal support hotline received over 14,700 calls so far this year and operates with seven counselors across limited hours, with no after-hours connection option beyond a voicemail callback, which council members found inadequate. The legal support centers network, rebranded from Action NYC, now comprises 29 unique providers across 38 contracts, and has conducted nearly 9,000 legal screenings since launching in July 2025. The rapid response legal collaborative received a $3 million increase this fiscal year, and preliminary plan figures show a substantial multi-year funding commitment for legal services overall. Concerns were raised about specific vulnerable populations including Haitian TPS holders facing Supreme Court uncertainty, unaccompanied minors, LGBTQ immigrants, survivors of domestic violence, and mixed-status families in NYCHA housing threatened by a proposed HUD rule change requiring immigration status verification for all household members. The committee also pressed on inter-agency coordination, sanctuary city compliance training following Executive Order 13, airport safety advisories, language access, 311 integration, and plans around the closure of the last remaining migrant shelter and associated mail center in the South Bronx.</p>
 <p>Former Speaker Mark-Viverito's testimony was substantive and pointed. She framed the current federal enforcement environment as part of a broader authoritarian project, catalogued the sanctuary legislation passed during her tenure including detainer laws and the ban on ICE at Rikers, and made the case for a standalone city immigration agency as both an organizational and political necessity. She also called for passage of the New York for All Act at the state level. Her testimony reinforced what the committee was already arguing: the patchwork of MOYA contracts and embedded agency staff is too fragile and too opaque for the moment the city is actually in.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>MOYA's formal preliminary budget for FY2027 is $782,000, covering five staff positions.</li>
 <li>Two of those five positions are currently filled: the commissioner and the director of communications.</li>
@@ -108,7 +108,7 @@
 <li>Between 34% and 50% of immigrant women in the US have experienced domestic violence; this rises to 77% for women whose immigration status is dependent on their spouse.</li>
 <li>The last remaining migrant shelter, housing roughly 2,000-plus people, is planned to close by end of 2026.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>MOYA to provide committee with a detailed breakdown of the 64 staff lines across agencies, including titles and responsibilities.</li>
 <li>MOYA to follow up with committee on the languages in which the airport travel safety advisory was published and when remaining translations will be available.</li>
@@ -130,7 +130,7 @@
 <li>MOYA to conduct trainings across all relevant city agencies on sanctuary city compliance under Executive Order 13, following agency self-audit reports due May 7, and post recommendations publicly on MOYA's website.</li>
 <li>MOYA to pursue paid and unpaid know-your-rights media campaign citywide and report back to committee on rollout.</li>
 <li>MOYA to assess gaps in services for transgender, non-conforming, and non-binary immigrant New Yorkers in consultation with the Office of Equity and Justice, as required by recent local law.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -539,6 +539,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>
