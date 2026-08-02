@@ -83,7 +83,7 @@
 <p>NYCHA officials arrived with their usual mix of defensive statistics and promises of improvement. They claimed progress on turnover times (down from 425 days to 340 days) and move-ins (up 76% since 2023), while maintaining their 4.7% vacancy rate beats the national average. The agency accepted all five DOI recommendations, including monthly inspections of vacant units, though their implementation timeline remained characteristically vague beyond "end of year" for IT system improvements. Officials blamed environmental abatement requirements for delays, noting that 80% of vacant apartments contain asbestos and require costly remediation averaging $25,000 per unit.</p>
 <p>The most substantive debate emerged around NYCHA's collaboration with NYPD to remove unauthorized occupants from 548 apartments since 2022. Legal advocates argued this process circumvents proper eviction procedures and violates due process rights, while NYCHA maintained that 61% of cases resulted in no arrests and most involved clear trespassers rather than residents with legitimate claims. The discussion revealed concerning gaps in oversight of RAD-converted developments, where 1,700 vacant units exist under private management with unclear security protocols.</p>
 <p>Resident testimony painted the usual picture of NYCHA's operational failures: universal keys creating security vulnerabilities, weapons found in buildings, displaced residents unable to return due to funding shortages, and ongoing safety concerns. Chelsea Houses residents specifically challenged NYCHA's demolition plans, arguing the agency misled the public about structural conditions and costs. The hearing concluded with the typical laundry list of information requests and promises of follow-up, though given NYCHA's track record, meaningful change remains to be seen.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>6,294 current vacant apartments across NYCHA's portfolio.</li>
 <li>165,000 families on NYCHA waiting list.</li>
@@ -146,7 +146,7 @@
 <li>$40 million of expense funding proposed specifically for NYCHA operations.</li>
 <li>$25 million allocated by NY state for environmental work.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYCHA to provide accurate accounting of reduced capital needs following RAD/PACT conversions at next public hearing.</li>
 <li>NYCHA to provide breakdown of "other program centers" category for off-rent-roll units.</li>
@@ -170,7 +170,7 @@
 <li>NYCHA to provide information on resident watch numbers and training in RAD developments.</li>
 <li>Committee to advocate for restoration of CEO work crews at NYCHA properties.</li>
 <li>NYCHA to respond to committee on extending monthly inspections to RAD and trust developments.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -920,6 +920,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

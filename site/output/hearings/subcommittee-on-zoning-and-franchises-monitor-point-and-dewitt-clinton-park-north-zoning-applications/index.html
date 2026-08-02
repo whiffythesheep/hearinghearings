@@ -83,7 +83,7 @@
 <p>The Dewitt Clinton Park North proposals, in CM Gale Brewer's district, would produce approximately 1,094 units across two buildings on sites already identified by Community Board 4 as appropriate for high-density development. The buildings, at 44 and 38 stories respectively, would transfer air rights from Hudson River Park piers, generating at least $29.7 million for park infrastructure, principally the reconstruction of Pier 76. Community Board 4 recommended disapproval unless conditions were met, a rare stance for a board known as unusually pro-housing. Outstanding issues include building height (the board wants 450 feet, the applicant offered 510), affordability percentage (the board wants 30%, the applicant offers the MIH standard of 25%), affordability measured by square footage rather than unit count, a higher share of family-sized units and financial contributions to DeWitt Clinton Park itself. The applicant, represented by Fried Frank and Hill West Architects on behalf of Friedland Properties and the Chapman Group, confirmed 32BJ labor agreements and that affordable units will be integrated throughout both buildings. Hudson River Park Trust president Noreen Doyle testified in support, noting the trust has generated approximately $151 million from prior air rights transfers. Brewer made clear that negotiations are ongoing and she intends to press for movement on all outstanding conditions.</p>
 <p>Monitor Point is the more consequential and contentious of the two proposals. Gotham Organization, co-applicant with the MTA and the Greenpoint Monitor Museum, proposes two towers up to 640 feet tall on MTA-owned land at the edge of Bushwick Inlet Park, producing approximately 1,150 units with 40% affordability across an income-restricted building and mandatory inclusionary housing in the mixed-income tower. The MTA's involvement stems from a need to relocate its mobile wash unit and emergency response unit from the site, something the MTA committed to doing as part of the 2005 Greenpoint-Williamsburg rezoning and has not done in the two decades since. CM Lincoln Restler was pointed in his opposition to the project as currently structured, arguing that public land demands a clear majority of affordable housing, that towers of this scale immediately adjacent to a newly opened public park are inappropriate, that flood risk is inadequately addressed, and that the developer had rejected his suggestion to wait two weeks for the incoming Mamdani administration before certifying the application. He cited average two-bedroom rents of $7,000 in Greenpoint, with new waterfront units expected to reach $9,500 for a three-bedroom, as evidence that market-rate units in this building will be unaffordable to virtually everyone in the community. Restler also noted that the 2005 rezoning produced 30,000 new units and almost none of the promised open space, and that only 15% of affordable units will be set aside for residents of the local community boards.</p>
 <p>Supporters of Monitor Point included unions 32BJ and Local 79, St. Nick's Alliance, Southside United, the New York Building Congress, the New York City Housing Partnership, the Community Preservation Corporation, the Fifth Avenue Committee, former Chief Housing Officer Jessica Katz and the Greenpoint Monitor Museum, all of whom argued the project delivers genuine deep affordability, union jobs, environmental remediation, waterfront access and a permanent museum home that would not otherwise be achievable. Opponents, including Friends of Bushwick Inlet Park, Save the Inlet, community gardeners, environmental advocates and many longtime residents, argued the project is primarily a luxury development on public waterfront land in a flood zone, that the open space provided falls far short of what was promised in 2005, that the towers' proximity to the park will effectively privatise the park edge, and that the community has already absorbed more density than any other district in the city. Howard Slatkin, who managed the 2005 rezoning for the City, testified in support but was challenged by Restler on the broken promises of that rezoning. The developer acknowledged it is evaluating options to increase affordability over the coming weeks and committed to $300,000 annually toward Bushwick Inlet Park operating costs for the term of the ground lease, but made no concrete concessions on unit count or height during the hearing.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Dewitt Clinton Park North, 629 West 54th Street: 44-story building, maximum roof height 550 feet (applicant offered to reduce to 510 feet), approximately 617 residential units of which approximately 154 affordable under MIH.</li>
 <li>Dewitt Clinton Park North, 801 Eleventh Avenue: 38-story building, maximum roof height 485 feet, approximately 477 residential units of which approximately 119 affordable under MIH.</li>
@@ -113,7 +113,7 @@
 <li>City of Yes projected to produce approximately 82,000 homes over 15 years, fewer than 5,500 units per year.</li>
 <li>Box Street Park breaking ground this summer on 85% of the planned site; the MTA emergency response unit continues to occupy the remaining 15%.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Dewitt Clinton Park North applicants to provide updated documentation to the Subcommittee confirming whether a reduction to 510 feet eliminates any residential floor area.</li>
 <li>Dewitt Clinton Park North applicants to confirm in writing that affordable units will be spread across no fewer than 65% of floors in both buildings, consistent with MIH requirements.</li>
@@ -135,7 +135,7 @@
 <li>Monitor Point applicants to provide written analysis of projected changes in stormwater flow and flood risk to inland areas resulting from the development, in response to CM Sanchez's question.</li>
 <li>Monitor Point applicants to provide written detail on wildlife and ecological habitat protection measures, including invasive species removal, native planting plan and any commitments regarding the Billion Oyster Project.</li>
 <li>Gotham to confirm in writing the binding mechanism ensuring the 100% affordable eastern building is constructed, including the restrictive declaration or equivalent document tying the eastern parcel to affordable use only.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1384,6 +1384,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

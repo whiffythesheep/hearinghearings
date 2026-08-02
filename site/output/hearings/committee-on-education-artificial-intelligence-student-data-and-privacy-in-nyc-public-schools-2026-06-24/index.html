@@ -84,7 +84,7 @@
 <p>The May 2026 State Comptroller audit featured heavily. It found that NYC Public Schools lacks a formal written data classification policy, does not maintain a comprehensive list of all applications used by each school, and that of 141 data breach incidents reviewed, 67 were reported late. The DOE's Chief Privacy Officer acknowledged the findings, said the department disagrees with some of them but has accepted the recommendations, and described incremental improvements including updating Chancellor's Regulation A-820 in fall 2025. He confirmed that annual privacy training is required of all 160,000 employees but that only around 138,000 completed it in the most recent year, and that the DOE cannot verify which incomplete cases involved employees with actual access to personally identifiable information. Council members found this deeply unsatisfying, particularly given that the Illuminate Education breach from around 2022 resulted in 380,000 families not being notified until 2024. The DOE confirmed it no longer uses Illuminate, and said it is now exploring adding financial penalties to data processing agreements with vendors who fail to report breaches promptly.</p>
 <p>On the bills before the committee: the DOE expressed general support for the intent of the two preconsidered bills sponsored by Chair Dinowitz requiring annual reporting on approved algorithmic tools (T2026-2129) and quarterly reporting on data breaches involving those tools (T2026-2130), while noting overlap with existing Local Law 35 obligations and requesting coordination on implementation. On Int 0412-2026 requiring disclosure of school admissions policies, the DOE argued most of the information is already publicly available via the MySchools directory and InfoHub. On CM Zhuang's two equity bills, Int 0684-2026 and Int 0853-2026 requiring studies on how language access, income and geography affect access to gifted and talented and special education programs respectively, the DOE did not appear with officials prepared to address the substantive data questions CM Wong raised, drawing a direct rebuke from the chair and CM Wong, who noted that families from Black, Brown and immigrant communities are being systematically underserved and that nobody seemed to know whose responsibility it was to show up and answer for it.</p>
 <p>Public testimony was overwhelmingly skeptical of the DOE's handling of AI in schools. Student witnesses from the NYCLU Teen Activist Project spoke compellingly about cognitive offloading, the hollowness of AI-generated work and the chilling effect of AI grading on their confidence. A researcher from the Collaborative Research Center for Resilience flagged that most ed tech vendors are legally designated as school officials under FERPA, allowing data sharing without parental consent, a point the DOE did not foreground in its own testimony. The Parent Coalition for Student Privacy alleged that Google Gemini is installed on thousands of elementary school Chromebooks contrary to the DOE's characterization. TechNYC supported the intent of the two transparency bills while suggesting the definition of algorithmic tool be narrowed and the October 31 quarterly reporting deadline be reviewed. A professor from Fordham University and representatives from MOUSE and Urban Assembly argued that thoughtful, teacher-guided AI literacy education has genuine value and that a blanket moratorium would leave students less prepared. The overall weight of public testimony, however, supported a moratorium, with multiple speakers arguing that the DOE has allowed vendors to run ahead of policy, that parents are not meaningfully informed about what tools their children use, and that data privacy protections are inadequate.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>6,491 survey responses were received during the 45-day public feedback period on the DOE's preliminary AI guidance, representing less than 1% of parents in the system.</li>
 <li>Approximately 35 high schools have requested access to Google Gemini for students as of spring 2026, according to DOE testimony.</li>
@@ -111,7 +111,7 @@
 <li>Only 28% of English language learners with IEPs receive special education services in another language, per NYLPI testimony.</li>
 <li>95% of English-speaking students are fully receiving recommended special education services, compared to 47% of Spanish-speaking students.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOE to make the 6,491 public feedback responses from the 45-day AI guidance period publicly available, per commitment made during hearing.</li>
 <li>DOE to correct the AI guidance website to remove the inaccurate claim that the legal and compliance team reviews tools for algorithmic bias.</li>
@@ -132,7 +132,7 @@
 <li>DOE to notify New York City families of their eligibility for the $17.25 million Naviance data breach settlement, per the Parent Coalition for Student Privacy's allegation that no notification has been issued.</li>
 <li>DOE officials who testified to return before leaving the hearing to provide CM Wong with data on gifted and talented program demographics and special education access, per Chair Dinowitz's instruction.</li>
 <li>Council committees to submit additional follow-up questions to the DOE in writing following the hearing.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1354,6 +1354,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

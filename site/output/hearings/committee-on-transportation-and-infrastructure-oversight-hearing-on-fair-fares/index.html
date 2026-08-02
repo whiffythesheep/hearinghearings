@@ -83,7 +83,7 @@
 <p>The central fact of the hearing was this: only 39.9% of eligible New Yorkers are enrolled in Fair Fares. HRA confirmed that approximately 575,000 eligible New Yorkers are not enrolled, while about 380,000 are. The administration testified at length about its outreach efforts — $2 million in advertising in 2025, multilingual campaigns, transit talks with the MTA, text messages to 568,000 people, door hangers, bodega ads, and 36 CBO partners — but struggled to demonstrate that any of it is working at scale. Speaker Menin was visibly irritated, noting that the application runs to 13-15 pages, offices are only open 9 to 5 on weekdays, and that despite all the activity, more eligible New Yorkers are not enrolled than are. She was also pointedly displeased that neither the HRA commissioner nor the DSS administrator appeared at the hearing, which the Council had flagged as a top priority in its April 1 budget response.</p>
 <p>On Int 0248-2026 (automatic enrollment), DSS raised privacy concerns, data-sharing restrictions, and questions about consent, arguing that automatically enrolling people without their knowledge could expose sensitive information. Members pushed back hard, with CM Morano noting that DSS already auto-enrolls SNAP and cash assistance clients into HEAP and fast-tracks two-thirds of Fair Fares applicants in minutes. Speaker Menin pointed to NYC Kids Rise — a universal college savings program she created that successfully enrolled undocumented kindergarteners — as proof that the privacy and data obstacles are solvable with creativity. DSS declined to support or oppose the bill, defaulting to "the administration is reviewing the proposals," which was the answer to nearly every substantive policy question. On Int 0825-2026 (replacement cards), DSS testified that it already provides free replacement cards in extenuating circumstances beyond the formal one-per-year policy, and that participants can also link their discount to a debit card, credit card, or phone. CM Marte and CM Morano questioned whether those alternatives are realistic for low-income New Yorkers without stable banking or smartphones.</p>
 <p>The MTA testimony was more substantive and less defensive. McCarthy noted that at minimum wage, a worker already exceeds the 150% federal poverty level income threshold — meaning the program by design excludes many of the working poor it is presumably meant to serve. The MTA released a new policy brief this week showing that Fair Fares riders use both subway and bus frequently, are twice as likely as other riders to hit the weekly $17.50 fare cap, and that around 40% of enrolled participants are not actively using the discount in any given month. The MTA broadly supported raising the income threshold and expanding eligibility, framing it as a choice between going deeper (cheaper fares for existing enrollees) versus going wider (more people eligible). On Res 0143-2026 (unlimited transfers), the MTA explained that implementing unlimited trips within two hours is technically and financially complicated: the subway has no tap-out system, and unlimited trips rather than transfers carry real revenue consequences. A Queens bus network pilot is testing time-limited universal transfers on buses. The hearing ended with both HRA and the MTA conceding that the transition from Fair Fares to the MTA's reduced fare program when participants turn 65 is not seamless and needs improvement.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>As of March 31, 2026, there were 379,910 active Fair Fares enrollees.</li>
 <li>As of April 2024, there were 332,034 enrollees, representing approximately 6% annual growth.</li>
@@ -113,7 +113,7 @@
 <li>Bronx Fair Fares office sees approximately 500 visits per month; each other borough office sees approximately 450 visits per month.</li>
 <li>Bronx enrollment: 99,570; Brooklyn: 125,891; Manhattan: 65,296; Queens: 77,451; Staten Island: 11,720 (as of March 31, 2026).</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>HRA to provide committee with breakdown of advertising spending allocated to minority contractors and local/ethnic press outlets.</li>
 <li>HRA to provide data on average income and age of current active Fair Fares enrollees.</li>
@@ -135,7 +135,7 @@
 <li>MTA to provide committee with data on the share of New Yorkers living below the federal poverty line who use public transit.</li>
 <li>MTA to provide committee with granular station-level data on Fair Fares rider tapping patterns by time of day to help understand trip purpose.</li>
 <li>MTA and HRA to develop a coordinated process for transitioning Fair Fares participants to the MTA reduced fare program when they turn 65, and report back to the committee with a plan.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1118,6 +1118,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

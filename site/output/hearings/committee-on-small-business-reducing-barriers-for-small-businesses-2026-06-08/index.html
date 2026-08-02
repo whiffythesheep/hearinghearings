@@ -83,7 +83,7 @@
 <p>Int 0799-2026, sponsored by CM Yusef Salaam, would create a City-funded support program of loans and grants administered through SBS to compensate small businesses financially harmed by roadway construction. SBS said it supports the intent but flagged operational concerns, particularly around the bill's tight disbursement timelines and the difficulty of establishing eligibility criteria that are both objective and inclusive. A companion resolution, Res 0328-2026, calls on the state legislature and governor to enact a parallel tax credit. Salaam and the Chair used their questioning rounds to probe the bill's fiscal architecture, including whether per-business caps should be scaled down proportionately in low-appropriation years, whether basic creditworthiness criteria should attach to the loan component, and how to distinguish construction-attributable losses from general economic headwinds. SBS's answers were generally supportive in spirit but cautious in operational detail, noting that programs of this type are typically run through community development financial institutions rather than directly by the agency, which complicates externally imposed timelines.</p>
 <p>Int 0910-2026, brought forward by CM Stevens's office in his absence, addresses a fiasco that reflects poorly on both the Council and the administration. Local Law 75, passed in 2009, requires businesses in certain occupancy categories to replace opaque security grilles with ones that are 70% see-through by July 1, 2026. With that deadline a matter of weeks away, it emerged that virtually no meaningful outreach had been conducted to affected businesses between 2010 and late 2025. The Department of Buildings could not confirm it had done anything beyond a service notice at the time of passage. The bill would repeal the retroactive compliance requirement, limiting the 70% visibility standard to future replacements only, and mandate a six-month DOB outreach campaign. SBS said it fully supports the bill. CM Salaam, who disclosed that he had owned a business with a non-compliant security grille between 2019 and 2025 and still did not know about the law, pressed DOB on how to prevent recurrence. DOB said it would look at adding security grille prompts into the plan examination workflow. DOB also confirmed it is currently not enforcing the July 1 deadline, effectively creating a grace period while the legislation advances, which is a sensible call given the circumstances.</p>
 <p>The Preconsidered Introduction from CM Linda Lee Long, known as the Red Tape Relief Act, would require the mayor to establish a permanent interagency inspection coordination program to reduce the time it takes to open a new business. Long cited a previous administration program that cut restaurant permitting timelines from six months to four months and helped over 1,500 businesses open two to three months faster, before being quietly discontinued. The bill would restore and codify that program, prioritise restaurants and childcare businesses, require an online application portal and mandate annual reporting from December 2027. SBS expressed support and noted its existing BEST team and Executive Order 11 process as complementary efforts, though it acknowledged that the formal recommendations under that executive order had not yet been delivered to the Deputy Mayor. Committee members raised recurring frustrations about the lack of baseline data on completion rates, the absence of borough-level or business-type-level compliance data, and the difficulty of measuring outcomes rather than activity. The SBS commissioner could not give a single average time-to-open figure, could not say how many entrepreneurs abandon the process before opening, and acknowledged that the $6 million in savings attributed to the BEST team is a fines-avoided estimate rather than a direct cost saving. These are real limitations and the committee was right to push on them.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>There are over 126,000 storefronts in New York City as reported by SBS.</li>
 <li>Approximately 20% of new businesses fail in their first year.</li>
@@ -107,7 +107,7 @@
 <li>Businesses in Sunset Park were reported to be down 30 to 40% due to immigration enforcement and tariff impacts.</li>
 <li>Annual reporting on the Red Tape Relief Act program would begin in December 2027.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOB to explore adding a security grille prompt to the plan examination workflow so examiners flag the issue regardless of whether it appears in submitted plans.</li>
 <li>DOB to revise its construction advisory to explicitly state that a permit is required for new security grille installations and that the grille must meet current code, and to work with SBS and Council members to distribute printed versions to affected businesses.</li>
@@ -124,7 +124,7 @@
 <li>SBS to explore with CM Brooks-Powers's office the possibility of establishing a construction-linked business relief fund tied to specific development projects, modelled on approaches seen in Downtown Far Rockaway.</li>
 <li>DOB to confirm with the committee whether its electronic system can produce borough-level or business-type-level data on security grille permit applications.</li>
 <li>DOB to report back on progress toward integrating a security grille compliance check into the plan examination process and provide a timeline for implementation.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -558,6 +558,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

@@ -56,7 +56,7 @@ SEARCH_EXAMPLE_CANDIDATES = [
     # irrelevant — the client shuffles before rotating)
     "Mamdani",
     "Julie Menin",
-    "Kathy Hochul",
+    "Governor Hochul",
     "Trump",
     # Agencies / departments (same)
     "NYPD",
@@ -92,6 +92,7 @@ def parse_front_matter(text):
 
 SECTION_LABELS_STRIP = {"Summary"}
 SECTION_LABELS_H3 = {"Meeting Overview", "Numbers", "Action Points"}
+SECTION_LABELS_COLLAPSE = {"Numbers", "Action Points"}
 
 
 def promote_section_headings(md_text):
@@ -112,6 +113,34 @@ def promote_section_headings(md_text):
         else:
             out_lines.append(line)
     return "\n".join(out_lines)
+
+
+def collapse_summary_sections(html):
+    """Wrap Numbers / Action Points sections in closed <details> dropdowns.
+
+    Runs on rendered summary HTML: each target <h3> plus the content up to
+    the next <h3> (or the end) becomes a <details> styled like the Full
+    Transcript toggle. The caret lives in a span so print CSS can hide it;
+    hearing.html opens closed sections on beforeprint so the PDF is complete.
+    """
+    parts = re.split(r"(<h3>[^<]*</h3>)", html)
+    out = []
+    i = 0
+    while i < len(parts):
+        match = re.fullmatch(r"<h3>([^<]*)</h3>", parts[i])
+        if match and match.group(1) in SECTION_LABELS_COLLAPSE:
+            body = parts[i + 1] if i + 1 < len(parts) else ""
+            out.append(
+                '<details class="summary-section">'
+                f'<summary><span class="summary-caret" aria-hidden="true">▸ </span>{match.group(1)}</summary>'
+                f'<div class="summary-section-body">{body}</div>'
+                "</details>"
+            )
+            i += 2
+        else:
+            out.append(parts[i])
+            i += 1
+    return "".join(out)
 
 
 def markdown_to_text(md):
@@ -312,7 +341,7 @@ def load_content():
                 "youtube_url": meta.get("youtube_url", ""),
                 "viebit_url": meta.get("viebit_url", ""),
                 "council_url": meta.get("council_url", ""),
-                "summary_html": markdown.markdown(summary_md),
+                "summary_html": collapse_summary_sections(markdown.markdown(summary_md)),
                 "summary_snippet": truncate_text(summary_plain, 160),
                 "transcript_html": markdown.markdown(transcript_md)
                 if transcript_md

@@ -83,7 +83,7 @@
 <p>Int 0285-2026, expanding the Office of the Utility Advocate's outreach duties, was discussed by Louise Young, the city's Chief Climate Officer, who testified that 42% of New Yorkers have fallen behind on utility payments in the past five years and 1.9 million have experienced shutoffs. Young confirmed the city is in the process of appointing a new utility advocate and requested four additional staff and $1.37 million to implement the bill. The parallel between the utility advocacy role and the proposed insurance accountability role was explicitly noted by Chair Epstein: in both cases the city lacks direct regulatory authority but can represent New Yorkers in state proceedings, publish data, and pressure the relevant state regulator. Three resolutions calling on Albany to act on property and auto insurance costs were also introduced, with Council Member Brewer noting that a West Side co-op's insurance went from $93,000 to $33,000 in a year for the same policy, illustrating both the volatility and the opacity of the market.</p>
 <p>Public testimony sharpened the picture considerably. The Staten Island Chamber of Commerce and a commercial insurance broker both supported Int 0685-2026 while urging that the office account for the role of brokers and avoid oversimplified guidance that could cause small businesses to misconfigure their coverage. The National Supermarket Association testified that general liability premiums for independent grocery operators have risen 50 to 150% in recent years, with coverage outright denied in parts of the Bronx, threatening food access in underserved communities. A representative of the Building Trade Employers Association pointed to New York's absolute liability framework in construction as a root cause of elevated insurance costs across the economy. Most striking was testimony from John Crowy of the Milford Street Association, an affordable housing insurance captive, who presented AI-assisted analysis of the full New York State court database overlaid with affordable housing addresses, finding that 41,000 affordable housing buildings face 15,000 active lawsuits versus 12,000 lawsuits across the remaining 150,000 residential buildings. His conclusion: the litigation environment is systematically extracting wealth from affordable housing, the state Department of Insurance has failed to engage with this data, and meaningful reform requires both aggregating affordable housing insurance risk on a shared platform and reforming liability law in Albany.</p>
 <p>The remaining bills received lighter treatment. Int 0286-2026 on cryptocurrency scam education drew a practical exchange about DCWP's current lack of expertise but willingness to develop it, at an estimated cost of two staff and $120,000 in materials. Int 0417-2026 on wage theft posting at construction sites was supported with a recommendation to use the existing workers' bill of rights poster with QR code rather than a new redundant notice. Int 0837-2026 on Hajj-related scams and Int 0847-2026 on tourist scams were both supported in intent, with DCWP noting only two Hajj-related complaints since 2021 and flagging that implementing tourist protections in time for the 2026 World Cup is not realistic. No votes were taken at the hearing.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>New York homeowners have experienced average insurance premium increases of over $1,000 since 2020.</li>
 <li>Homeowners insurance premiums in New York State have been increasing by 26% annually.</li>
@@ -115,7 +115,7 @@
 <li>DCWP has secured more than $9.3 million for New Yorkers since the start of the Mamdani administration.</li>
 <li>Since 2021, DCWP has received only two complaints related to Hajj scams.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DCWP Commissioner Lavine to work with Speaker Menin and Committee Chair Epstein to redraft Int 0685-2026 so that DCWP's role is clearly defined as transparency, data collection, pattern analysis, and consumer education rather than complaint mediation that could displace DFS action.</li>
 <li>DCWP to explore mechanisms for dual or coordinated complaint intake with DFS so insurance complaints reaching the city are also seen by the state regulator without consumers being bounced between agencies.</li>
@@ -133,7 +133,7 @@
 <li>John Crowy of the Milford Street Association to share AI-assisted affordable housing lawsuit data and presentation with committee members for use in informing future insurance policy discussions.</li>
 <li>Council and administration to consider advocating in Albany for liability law reform affecting the construction and affordable housing sectors, informed by Milford Street Association litigation data.</li>
 <li>DCWP Commissioner to initiate conversations with state legislators on insurance affordability, notwithstanding the imbalance in lobbying resources between the city and insurance industry.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -455,6 +455,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

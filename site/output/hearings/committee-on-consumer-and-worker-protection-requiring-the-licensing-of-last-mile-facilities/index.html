@@ -83,7 +83,7 @@
 <p>The case for the bill rested on a straightforward structural argument: Amazon and similar companies use the delivery service partner subcontracting model to dictate every meaningful aspect of workers' jobs — routes, quotas, schedules, surveillance — while disclaiming employer status and its associated legal responsibilities. DCWP, the Comptroller's office, the Brooklyn Borough President, the Strategic Organizing Center, major labor unions, and multiple delivery drivers themselves testified in support. The evidentiary record was substantial: more than 2,000 injuries at last-mile facilities between 2022 and 2024, injury rates nearly five times the national average for serious incidents at Amazon DSPs, a 137 percent rise in truck-related injuries near facilities, and seven ongoing DCWP investigations. Worker testimony included accounts of broken vehicles pressed into service, suppressed injury reporting, retaliation against organizers, a worker losing her job after her DSP's contract was terminated following a union election, and Amazon refusing to bargain four years after a historic union vote at its Staten Island facility. DCWP drew an explicit analogy to the Safe Hotels Act, which has now covered over 760 hotels, arguing that direct employment is the only durable enforcement mechanism.</p>
 <p>The opposition was large, vocal, and more nuanced than a simple corporate lobbying effort. Chambers of commerce argued the bill adds a thirteenth regulatory layer to an already heavily regulated industry and would consolidate delivery into a handful of large corporations. More compellingly, dozens of DSP owners — many of them immigrants, veterans, or first-generation entrepreneurs who built businesses from scratch using SBA loans and personal savings — testified that the bill would destroy genuinely independent small businesses and eliminate jobs with real benefits for workers who had few other options. Their employees, some of whom had exited homelessness or incarceration through DSP employment, testified to W2 wages, healthcare, 401k matching, and tuition reimbursement that they feared losing. The DSP owners also complicated the hearing's regulatory theory by describing a tangled ownership structure — Amazon owns or manages the facilities, DSPs use them without leasing, vehicles are variously owned, financed, or rented, some Amazon-branded — that raises genuine jurisdictional questions the bill does not fully resolve. One former DSP owner testified he exited the business because it was impossible to remain profitable while maintaining safety standards, which rather cut against the industry's own safety claims.</p>
 <p>Council members raised several unresolved concerns that will shape the bill's path. CM Banks pressed on whether parent companies could genuinely be compelled to hire all displaced DSP workers, and received no satisfying legal answer. CM Aldebol noted the bill lacks just cause termination protections, leaving directly employed workers potentially vulnerable in a different way. CM Brewer flagged that newspaper delivery companies might inadvertently fall within the bill's scope. CM Ossé raised the absence of evidence that large last-mile facilities receiving public subsidies are generating meaningful local hiring. A former DSP owner on Zoom warned that unlike Uber or DoorDash, Amazon does not depend on NYC operations for survival and could simply exit the market in retaliation, a scenario the committee did not address. The hearing concluded without a vote, a markup timeline, or a clear signal of the bill's next steps. DCWP estimated a 270 to 360-day implementation timeline and approximately 19 new staff lines at a first-year cost of around two million dollars. Given the bill's broad council support, the question is less whether it advances than how it will be amended — particularly around small business protections, the definition of covered facilities, and the employee retention mechanism — before it does.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Approximately 7,800 delivery vehicles travel the five boroughs each weekday.</li>
 <li>2.5 million packages are delivered daily in New York City as of 2024, up from 1.1 million per day in 2017.</li>
@@ -128,7 +128,7 @@
 <li>April 2025: death of Leonor Chaveal at JFK8, struck by a reversing box truck.</li>
 <li>87 families left without work when one DSP was closed in September 2024.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DCWP to liaise with NYPD and DOT to provide traffic crash and injury data aligned with the Comptroller's findings, as requested by Chair Epstein.</li>
 <li>DCWP to provide data from DCP on the subset of delivery workers versus total facility workers among the approximately 45,000 figure, as requested by CM Ossé.</li>
@@ -142,7 +142,7 @@
 <li>CM Aldebol to conduct legal research on whether parent companies such as Amazon could be classified as joint employers under existing law.</li>
 <li>DSP owner to provide specific employee turnover data to the committee, as requested by Chair Epstein.</li>
 <li>All witnesses wishing to submit additional written testimony to send it to testimonies@council.nyc.gov within 72 hours of the hearing.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1947,6 +1947,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

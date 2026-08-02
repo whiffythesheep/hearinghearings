@@ -83,7 +83,7 @@
 <p>HPD First Deputy Commissioner Adam Phillips led the agency testimony, joined by colleagues from housing supervision and asset management. HPD's core argument was structural: Mitchell-Lama rents and carrying charges are not set by the Rent Guidelines Board but by what is needed to balance each development's budget; state law requires HPD to approve increases sufficient to cover costs; decades of deferred maintenance combined with skyrocketing insurance, labor and utility costs have produced a wave of large, infrequent increases rather than steady annual ones; and the portfolio faces billions in capital needs over the next decade. Phillips acknowledged Tracy Towers is not exceptional — 37 developments saw increases averaging roughly 26-29% in 2025 alone, and five more have already filed for increases in 2026. HPD's stated toolkit includes the recently reduced shelter rent tax (from 10% to 5% of shelter rent), SCRIE enrollment (about 6,000 households currently enrolled, with roughly 5,500 Section 8 vouchers also in the portfolio), proposed J-51 reauthorization, $1.32 billion in total preservation budget for FY2027, and exploratory land sales on underutilized Mitchell-Lama parcels to generate capital. HPD also confirmed Tracy Towers has now closed on phase one of its construction financing.</p>
 <p>Council members across the board expressed frustration with what they characterised as a reactive rather than proactive oversight model. The recurring theme was that gradual annual increases of 1-2% would be far less disruptive than decade-long freezes followed by 30-50% jumps, and that HPD should be pushing boards toward regular increases rather than waiting for a crisis. CM Restler pressed hard on Tracy Towers specifically, noting a nearly 50% jump in security costs in two years that he said should have been flagged in routine financial reviews, and questioned whether HPD had ever actually rejected or meaningfully modified a proposed increase. CM Brewer raised the specific cases of Clinton Towers and 110 West End Avenue and proposed a roundtable involving city, state and council members with Mitchell-Lama portfolios. CM Marte questioned why city capital is structured as loans rather than grants, asked about getting shelter rent tax to zero, and pushed for forgivable loan structures. CM Feliz asked about cross-portfolio accountability for management companies with patterns of neglect. CM Avilés noted the resolution being heard calls for independent state oversight. A recurring concern across members was that construction funded years ago — including a 2016 loan for Tracy Towers elevators — has not produced lasting improvements, and that monthly requisition sign-offs may not ensure quality or durability of completed work.</p>
 <p>The hearing produced no formal votes or enacted legislation, but several substantive commitments were extracted from HPD, including provision of comprehensive rent-increase histories, per-development capital needs data, violation profiles, and the list of developments with pending increase applications. There was broad consensus that a roundtable convening city and state agencies, council members and advocates is needed. The hearing also clarified several structural issues that have policy implications: the statutory bar on income-tiered surcharges within Mitchell-Lama means cross-subsidisation is unavailable; SCRIE income eligibility was raised at state level to $75,000 but requires parallel local action; Article 5 co-ops like Penn South are eligible for city capital preservation financing but apparently did not know it; and 65 developments citywide have already left the Mitchell-Lama program, with exits triggered when balloon loans come due.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Approximately 90,000 Mitchell-Lama apartments across 134 developments in New York City, roughly half supervised by the city through HPD and half by the state.</li>
 <li>Two thirds of the city Mitchell-Lama portfolio are co-ops; one third are rentals.</li>
@@ -111,7 +111,7 @@
 <li>Mitchell-Lamas are exempt from Local Law 97 carbon emissions penalties until 2035.</li>
 <li>Penn South in CM Epstein's district comprises nearly 3,000 units and is an Article 5 co-op previously believed by its board to be ineligible for city capital preservation financing.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>HPD to provide the Finance and Housing committees with a comprehensive list of all city-supervised Mitchell-Lama developments and their rent and carrying charge increases over the past 10 years, plus all pending proposed increases, within days of the hearing.</li>
 <li>HPD to provide both committees with a development-by-development assessment of the financial condition of all city-supervised Mitchell-Lama developments, including which are in financial stress and which face significant increases within the next five years.</li>
@@ -134,7 +134,7 @@
 <li>HPD to provide both committees with the Local Law 97 penalty schedule applicable to Mitchell-Lama developments after the 2035 exemption expires.</li>
 <li>HPD to clarify whether any Mitchell-Lama development will pay less than 5% shelter rent tax based on prior Board of Estimate resolutions, including a comparison of exemption values against the cap for each development.</li>
 <li>Council to pursue local legislation to implement the SCRIE income threshold increase from $50,000 to $75,000, as requested by HPD.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -960,6 +960,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

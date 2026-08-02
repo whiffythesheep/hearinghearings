@@ -83,7 +83,7 @@
 <p>The structural picture Shehata laid out is genuinely alarming for anyone who cares about accountability in a city spending $124.7 billion a year. DOI's funded headcount has fallen from 588 in FY2020 to 275 positions working on DOI matters today — roughly half the 585 positions the agency itself estimates as ideal. After the lease on 180 Maiden Lane and a pass-through integrity monitorship are paid, the agency is left with somewhere between $175,000 and $400,000 in discretionary operating funds. Everything else — computers, vehicles, training, case management systems — has been covered by drawing down forfeiture funds from a years-old City Time case. At the current rate of spend, those forfeiture reserves will be exhausted in roughly two years, at which point the agency would be left functionally insolvent on its current budget. The Commissioner was careful to note that federal DOJ rules prohibit the City from deliberately treating forfeiture funds as a budget offset, meaning the current arrangement is not just unsustainable but arguably improper.</p>
 <p>Chair Krishnan used his questioning to establish the full scope of the damage inflicted during the Adams years: a 28% workforce reduction, baseline funding roughly $12.8 million below FY2020 levels, no merit-based promotion pathway approved by OMB, and an agency forced to poach funds from vacant lines to give raises to retain trained investigators who then get hired away by federal and state agencies anyway. The irony that Adams cut the budget of the very agency investigating his administration was noted pointedly and did not receive any rebuttal. On a more forward-looking note, Shehata and several Council members expressed support for a Charter amendment that would give DOI a guaranteed percentage of the citywide budget and direct control over its own hiring, removing the annual dependency on mayoral goodwill that creates an obvious structural conflict of interest.</p>
 <p>A separately significant thread concerned the Council-mandated investigation into what prior mayoral administrations knew about air quality and toxin exposure following the September 11, 2001 attacks. CM Brewer detailed how an Article 78 proceeding brought by the 9/11 Health Watch resulted in an unusual court-ordered discovery against the City after the Law Department's FOIL office claimed to have no relevant records — a claim Brewer plainly did not believe. DOI says it knows where the relevant records should be, has received agency responses, and is ready to begin work as soon as $4 million in funding is secured. Without it, the investigation cannot proceed. A separate $4.5 million figure had been discussed publicly by Speaker Menin and CM Brewer earlier the same day; the Commissioner indicated $4 million is the vendor's best and final price.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>FY2027 proposed DOI budget: $53.7 million.</li>
 <li>FY2026 adopted DOI budget: $55.8 million (implied; the FY2027 figure is $2.1 million less).</li>
@@ -113,7 +113,7 @@
 <li>Citywide FY2027 Executive Budget: $124.7 billion.</li>
 <li>DOI budget as a share of the citywide budget: 0.04%.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOI Commissioner to provide Committee on Finance and Committee on Oversight and Investigations with additional examples of investigations that generated financial savings or recoveries for the City.</li>
 <li>DOI Commissioner to produce a list of staff titles that contribute to City savings, to support the Council's case for exempting those positions from headcount reduction mandates.</li>
@@ -127,7 +127,7 @@
 <li>OMB to be engaged by DOI on seeking approval for merit-based promotions and salary increases for investigative staff under the new administration, given OMB's refusal to approve such requests during the Adams years.</li>
 <li>Council members to advocate collectively for inclusion of the $4 million 9/11 investigation funding and the $6 million stabilization package in the FY2027 adopted budget, in coordination with Speaker Menin.</li>
 <li>Public testimony on this and related budget matters scheduled for Wednesday, June 10, starting at 9:30 a.m.; Council members to direct interested constituents to register ahead of time.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -471,6 +471,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

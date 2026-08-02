@@ -83,7 +83,7 @@
 <p>The two bills under consideration were Int 0914-2026, introduced by Morano, which would require a feasibility study on a pilot program for reconsolidation of traumatic memories therapy for veterans, and Int 0928-2026, introduced by Minority Leader Carr, which would codify an LGBTQ+ liaison position within the Department of Veterans Services and require annual reporting on LGBTQ+ veteran assistance. DVS indicated it already has two designated liaisons in place, making the Carr bill largely a codification of existing practice, but noted the reporting requirements would be genuinely new and valuable. On the Morano bill, DVS was diplomatically skeptical, noting the department is not a health care provider and suggesting Health and Hospitals would be better suited to run such a pilot. Morano signalled openness to amending the bill accordingly.</p>
 <p>The dominant theme throughout the hearing was the severe lack of data on LGBTQ+ veterans. DVS does not currently collect gender identity information during intake, meaning the agency cannot say how many LGBTQ+ veterans it serves. National estimates suggest around one million LGBTQ+ veterans exist, with perhaps 70,000 in New York State, most concentrated in New York City, but these figures are rough. Nearly 89% of VA records lack gender identity data entirely. DVS outlined plans to redesign its intake process to capture demographic information more holistically, including sexual orientation and gender identity, and said it wants to involve LGBTQ+ advocates in designing the relevant questions. The agency also disclosed it is developing a certificate of eligibility for LGBTQ+ veterans discharged under discriminatory policies, which would allow them to access four categories of City benefits without having to present a discharge record documenting the basis for their separation. This program is expected to launch by mid-2027 at the latest and is grounded in existing Charter authority.</p>
 <p>The discharge upgrade program, known as DUELS, was discussed at length. In fiscal year 2026, 38 LGBTQ+ veterans sought assistance through the program, with around 20 cases still pending and eight successful upgrades recorded across the last two fiscal years. The agency flagged that the trans ban introduced in January 2025 is already generating new cases and is being actively tracked. The hearing also touched on military sexual trauma, mental health disparities, outreach to surviving spouses, borough-level partnership networks, and coordination with agencies including the Mayor's Office to End Gender-Based Violence, the Department of Social Services, and Health and Hospitals. DVS identified sustained legal services funding as the most urgent near-term need, given that discharge upgrade cases can only realistically be handled by lawyers and caseloads are expected to grow.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Between 1980 and 1993, over 19,000 LGBTQ+ service members were discharged from the US military, many with other than honorable status.</li>
 <li>Under Don't Ask, Don't Tell, more than 13,000 service members were denied benefits, recognition and dignity.</li>
@@ -106,7 +106,7 @@
 <li>Local Law 4 of 2022 was passed unanimously by the City Council and extended City veteran benefits to those discharged because of sexual orientation.</li>
 <li>DVS reported it is unaware of any surviving spouses of LGBTQ+ veterans who have been denied benefits.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DVS to redesign its veteran intake process to collect demographic data including gender identity and sexual orientation, in consultation with LGBTQ+ advocates who will help shape the relevant questions.</li>
 <li>DVS to finalise and implement the certificate of eligibility for LGBTQ+ veterans, targeting a launch by mid-2027 or earlier, following active conversations with the Mayor's Office and relevant City agencies.</li>
@@ -123,7 +123,7 @@
 <li>DVS to monitor developments related to proposed federal MISSION Act changes that could cut veteran benefits over ten years and report back to the Committee on implications for New York City veterans.</li>
 <li>CM Wong's office to connect DVS with relevant nonprofits working on LGBTQ+ outreach, as DVS explicitly requested this assistance.</li>
 <li>DVS to report back to the Committee in approximately one year with concrete data on how many LGBTQ+ veterans were served, to assess progress against commitments made at this hearing.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -545,6 +545,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

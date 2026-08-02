@@ -83,7 +83,7 @@
 <p>The substantive testimony came from Margaret Nelson, Deputy Commissioner for Public Programs and Community Engagement at NYC Parks, and Heather Lupo, Executive Director of City Parks Foundation, which runs the private side of Partnership for Parks. Both painted a broadly positive picture of a system that supports over 490 active community groups, distributes more than $900,000 in grants annually, and claims over one million volunteers engaging with parks in 2025. The hearing's animating tension, however, was the gap between those impressive headline numbers and the real-world friction that smaller and less-resourced community groups face when trying to engage with the Parks system — particularly around permitting, digital access barriers, inequitable distribution of private philanthropic dollars, and the unresolved question of what it actually means to count a volunteer.</p>
 <p>Chair Hankerson and committee members pressed on several recurring themes. The special events permitting process emerged as a genuine pain point: it can require coordination with NYPD for sound permits, proof of insurance, lead times of 21 days or more, and interaction with multiple agencies, none of which is intuitive for a small community group trying to hold a family day. Parks acknowledged this, pointing to nine public input sessions held last year, an updated website, and a forthcoming multilingual how-to pamphlet. CM Morano probed a statistical discrepancy between the volunteer numbers cited in testimony and a declining trend in the Mayor's Management Report; Parks' answer — that the MMR captures only a subset of volunteer activity — was technically defensible but unsatisfying, raising legitimate questions about whether the department's counting methodology is consistent or meaningful. CM Salaam flagged a 25% decline in volunteer turnout in the first four months of FY2026, attributed to the pausing of "It's My Park Day" events, and received reassurance that the program has resumed. CM Ung raised a pattern of permitting denials and difficulties in Queens, which Parks professed surprise at and offered to investigate. CM Narcisse asked pointed questions about volunteer liability, the risk that volunteer labor substitutes for paid staff, salary competitiveness for parks gardeners, and the criteria for license agreements — all areas where Parks' answers were reasonable but somewhat vague.</p>
 <p>The equity dimension ran throughout. City Parks Foundation's Catalyst program deliberately embeds organizers in a small number of historically underinvested parks to build civic infrastructure from scratch, and the Green Fund's current grant round directs 71% of funds to environmental justice areas with 80% of grants led by majority BIPOC leaders. These are real commitments, though the scale — $325,000 in new grants across 49 recipients citywide — is modest relative to the size of the problem. The structural concern raised by CM Salaam, that parks in wealthier neighborhoods benefit disproportionately from private conservancy money while the public-private model is asked to compensate for that inequity, received an honest but not entirely convincing response. The hearing was generally collegial and substantive, with Hankerson running it deliberately informally to encourage dialogue. No votes were taken.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Over 400,000 volunteers engaged with parks following the June 2023 launch of "Let's Green NYC.".</li>
 <li>Over one million volunteers engaged with parks in July 2025, resulting in more than 200 million volunteer hours documented.</li>
@@ -109,7 +109,7 @@
 <li>More than 8,000 New Yorkers participated in public engagement for the Urban Forest Plan, generating over 20,000 unique comments.</li>
 <li>The New York City Green Fund has 20 current supporters; City Parks Foundation is seeking to double that number.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Parks Department to provide CM Morano with a detailed written explanation of how volunteer numbers in departmental reports reconcile with the declining volunteer trend shown in the Mayor's Management Report, including a description of counting methodology.</li>
 <li>Parks Department to follow up with CM Ung's office to review specific cases of permitting denials and difficulties in Queens and identify process improvements.</li>
@@ -124,7 +124,7 @@
 <li>City Parks Foundation to continue expanding the New York City Green Fund donor base with a target of doubling from 20 to at least 40 supporters.</li>
 <li>Parks Department to ensure "It's My Park Day" programming continues at full capacity following its recent resumption and to report on restored volunteer numbers in future MMR cycles.</li>
 <li>Partnership for Parks and Parks Department forestry team to develop and launch neighbourhood tree stewardship training and technical assistance programme in connection with the Urban Forest Plan, using Partnerships Academy resources.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -468,6 +468,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

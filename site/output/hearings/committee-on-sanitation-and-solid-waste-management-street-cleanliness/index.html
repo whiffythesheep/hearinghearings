@@ -83,7 +83,7 @@
 <p>The dominant operational concern was alternate-side parking enforcement. Anderson presented survey data showing nearly 500 illegally parked vehicles on each of 1,200 weekly cleaning routes, leaving over 3,000 streets effectively uncleaned. He described a street sweeper operator in Manhattan who was threatened with a firearm that morning after honking at a non-compliant driver, using the incident to argue forcefully for the state-level street sweeper camera enforcement bill that has passed the Senate but stalled in the Assembly. The administration positioned Int 0092-2026, CM Brewer's bill to restore adhesive stickers on non-compliant vehicles, as a useful local complement to the state legislation, and Anderson confirmed the department would issue fines alongside stickers, targeting persistent violators rather than resuming the prior indiscriminate use that led to the original 2012 ban.</p>
 <p>Several bills on dog waste generated detailed but somewhat circular discussion. Anderson confirmed that enforcement via the canine unit is largely ineffective: a three-day stakeout in Mott Haven in 2024 yielded one summons, and a week-long patrol across four neighborhoods in 2025 yielded zero. The department expressed support in principle for Int 0031-2026 (dog waste bag dispensers on litter baskets) and Int 0872-2026 (public education campaign) while flagging resource constraints in both cases, noting the current pilot relies on community partners for restocking. Chair Sanchez's Int 0857-2026, which would require DSNY to act on blocks receiving three dog waste complaints within seven days, drew cautious support, with Anderson noting that only 63 blocks would currently qualify but worrying that a 311 incentive could balloon that number rapidly. CM Hanif pressed for data on the geographic distribution of complaints and their correlation with rat populations, which the department could not provide in real time.</p>
 <p>On containerization and the broader trash modernisation agenda, the Commissioner gave detailed updates on the Empire Bin pilot in Manhattan Community Board 9, expansion to a Brooklyn community district in fall 2026, and the June 1 deadline for 1-to-9 unit buildings to use official NYC bins. He confirmed a warning period will be announced imminently given bin supply shortages at Home Depot. He acknowledged that truck bodies are currently manufactured in Italy and flagged preliminary discussions about onshoring production. The $55-per-unit fee authorised by the Council has not yet been imposed. CM Brewer and others pushed back on the potential expansion of shared stationary containers to smaller buildings, making clear that residents who have already purchased individual bins are unlikely to accept a forced transition. The hearing also touched on fleet mechanic vacancies (out-of-service rates now regularly exceeding 26-30%, against a target of under 20%), highway cleaning operations, the precision cleaning initiative and its role in homeless encampment cleanups, and the forthcoming public-facing block-face cleanliness data from the Mayor's Office of Operations, which the Commissioner hopes to release around the start of the next fiscal year. Int 0031-2026 (commercial organics expansion to all food businesses) and the construction and demolition waste management bill from CM Hankerson were also discussed, with the department supportive of the former and cautiously engaged on the latter, noting it needs to better understand implications for the construction industry before fully endorsing it.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>On a survey of 35 street cleaning routes last month, an average of nearly 500 vehicles were found parked illegally on each route.</li>
 <li>Across more than 1,200 cleaning routes each week, an estimated 500,000 cars violate street cleaning regulations, preventing cleaning of over 3,000 New York City streets.</li>
@@ -108,7 +108,7 @@
 <li>The Cycle New York City e-waste programme serves approximately 19,000 buildings with 10 or more units, funded by manufacturers and retailers rather than taxpayers.</li>
 <li>Projected citywide containerisation impact on parking is estimated at less than 4% of available street parking spaces.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DSNY Commissioner to meet with fifth-grade students at PS 19 in CM Thomas-Henry's district to discuss street cleanliness.</li>
 <li>DSNY to announce details of the warning period for the June 1 wheelie bin containerisation requirement for 1-to-9 unit buildings within the coming days.</li>
@@ -128,7 +128,7 @@
 <li>DSNY to work with the Mayor's Office to identify additional cleanliness requirements and potential regulations for sidewalk and roadway dining setups as the year-round expansion of outdoor dining is considered.</li>
 <li>DSNY to advocate with State counterparts for City enforcement authority over the battery take-back law and the plastic bag ban.</li>
 <li>DSNY to provide CM Hanif with geographic data on dog waste 311 complaints cross-referenced against rat sightings data.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -768,6 +768,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

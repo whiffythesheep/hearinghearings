@@ -83,7 +83,7 @@
 <p>The headline finding was that the City has surpassed its original 2,500 placement goal, with 3,800 people with disabilities connected to jobs by the end of 2025. Officials were visibly pleased about this and cited the co-design pilot program, the embedding of MOPD's At Work team within the Brooklyn Workforce One center, and inter-agency partnerships as drivers of progress. The retention story was also reasonably encouraging: At Work reported a 65% retention rate at 12 months, with the proportion of participants engaging in retention support rising from 25% to 65% over three years. The hearing revealed that six staff and a budget of roughly $584,000 per year underpins the At Work program, which serves around 700 to 800 individuals annually and maintains ongoing relationships with about 200 participants at any time.</p>
 <p>The most substantive friction in the hearing concerned data and accountability. Chair Hanif pressed repeatedly on the absence of standardised tracking across the nine programs spanning five agencies, the lack of cost-per-placement data segmented by disability type, and the inability of several agencies to say clearly how outcomes differ by disability category, age, or sector. Officials acknowledged these gaps but offered explanations rather than solutions: programs operate differently, federal funding streams impose their own reporting requirements, and the workforce system serves 100,000 New Yorkers across 150-plus programs in 30 agencies. The honest answer embedded in much of the testimony is that coordination exists largely as a counting exercise toward a headline number rather than as a unified management system. The 55-A program, which allows people with disabilities to bypass civil service exams for competitive City positions, is running at about half its 700-position statutory ceiling with 360 participants across 36 agencies, and net growth is slow because attrition through retirement, promotion, and departure roughly offsets new hires.</p>
 <p>The hearing also addressed the looming threat of federal cuts. The City Controller estimates 725,000 Medicaid enrollees could lose coverage under the One Big Beautiful Bill Act, and officials acknowledged that some people with disabilities will not be exempt from new work requirements. MOPD confirmed it had not yet taken a formal public position on a newly reported Trump administration rule that could reduce SSI payments for disabled adults living with family members who receive SNAP, but the commissioner said she was unaware of the rule before the hearing and would pursue it. The overall picture on federal threats was one of agencies monitoring the situation and hoping the disability community gets carved out, rather than having contingency plans in place. Chair Hanif urged earlier action on public communications. Council Member Rita Joseph used her time to press on transportation accessibility, the benefit cliff, language access for non-English-speaking people with disabilities, and transition pathways from school to employment for young people with disabilities, including those in foster care and special education.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>40% of working-age New Yorkers with disabilities are employed, compared to 73% of the overall working-age population.</li>
 <li>The unemployment rate for people with disabilities in the labor force is nearly 13%, compared to 7% citywide.</li>
@@ -115,7 +115,7 @@
 <li>23,000 additional New Yorkers are projected to lose planned coverage effective July 1, 2026.</li>
 <li>A proposed Trump administration rule could reduce SSI payments for disabled adults living with SNAP-recipient family members by up to one third, approximately $330 per month.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>MOPD to research and share data on the breakdown of At Work participants and placements by disability type, age group, and sector with the committee.</li>
 <li>Talent and SBS to provide the committee with wage level data for placements made under the broader plan.</li>
@@ -136,7 +136,7 @@
 <li>MOPD to engage more comprehensively with the Department of Education on transition planning for students with disabilities moving from high school to employment or further education.</li>
 <li>At Work to assess capacity to expand skills-building and digital literacy support for participants rather than relying solely on referrals to Workforce One.</li>
 <li>DCAS to follow up with the committee on which large City agencies have little to no 55-A representation and what steps are being taken to increase their participation.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -814,6 +814,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

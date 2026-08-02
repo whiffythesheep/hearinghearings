@@ -83,7 +83,7 @@
 <p>The most contentious bill was Proposed Int. No. 911-A, sponsored by Minority Leader David Carr, which would increase the number of permitted carters in the Staten Island commercial waste zone from three to six and delay zone implementation until February 1, 2028. The hearing's timing was almost comically on-the-nose: Commissioner Anderson opened by noting that July 1, 2026 was the first day Staten Island businesses could sign up with their assigned zone carters. DSNY opposed the bill flatly, arguing it would undermine a seven-year implementation process, set a precedent for borough-by-borough carve-outs, and expose the City to litigation from already-awarded carters. Carr's counter-argument — that Staten Island never had the truck traffic and congestion problems that justified commercial waste zones elsewhere, and that 21% of businesses now have to switch carters involuntarily — was not without merit, but DSNY's point that this conversation was seven years too late landed harder. CM Carl Wilson raised a more technically substantive concern: a third Staten Island zone award was transferred via acquisition to Century Waste (which had bought Priority), rather than re-bid. Wilson argued this structure creates perverse incentives for companies to game the queue through acquisitions. Anderson acknowledged DSNY retains discretion to conduct new RFPs in appropriate circumstances but defended the current process as legally sound and consistent with standard contract assignment practice across City contracts.</p>
 <p>On composting infrastructure, Int 0369-2026 would require DSNY to establish composting facilities in each borough capable of processing 100,000 to 180,000 wet tons annually. DSNY opposed it as physically and fiscally impossible — their existing Staten Island compost facility processes 40,000 wet tons per year, and finding five-times-that-scale sites in, say, Manhattan is a fantasy. However, the public testimony from NRDC, community composting operators, the Solid Waste Advisory Boards, and groups like Cafeteria Culture and Big Reuse strongly supported the bill's intent and argued the bill should be refined rather than abandoned. There was a notable undercurrent of frustration with co-digestion as the default organic waste pathway: multiple witnesses flagged that mixing food waste with sewage sludge produces PFAS-contaminated biosolids that are increasingly unwanted for land application, making aerobic composting a superior end-use. DSNY floated the possibility of using transferred Rikers Island properties for a large composting facility, which is worth watching. Int 0356-2026, allowing community composters to charge for organic waste drop-offs and sell compost, drew broad support; DSNY's position was essentially that existing rules already permit this and the bill may be unnecessary, though they committed to working with the Council on intent.</p>
 <p>Int 0367-2026, requiring DSNY to accept commercial solid waste at City-owned marine and rail transfer stations, drew strong support from environmental justice advocates and the Solid Waste Advisory Boards as a long-overdue measure to redistribute waste processing burdens away from overburdened outer-borough communities. DSNY's position was supportive in principle but deferred implementation until after full commercial waste zone rollout by end of 2027, and noted there is currently only one rail transfer station, which is not permitted for commercial waste. The private waste industry, represented by the National Waste and Recycling Association, supported the goal but flagged concerns about mandatory participation, since companies built their pricing models under existing rules. Int 0353-2026, creating a commercial waste zones working group, was the closest thing to a consensus bill in the room — DSNY, the private industry, labor allies, and advocacy groups all supported it, and Anderson said DSNY would pursue a working group with or without legislation. Int 0075-2026, expanding sidewalk cleanliness enforcement to full business hours rather than one-hour daily windows, also drew no opposition and DSNY's strong support.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>79% of Staten Island businesses already used one of the three awarded commercial waste zone carters prior to zone implementation.</li>
 <li>21% of Staten Island businesses must switch to a new carter under the commercial waste zone program.</li>
@@ -103,7 +103,7 @@
 <li>The commercial waste zone program has been in development for approximately seven years since Local Law 199 passed in 2019.</li>
 <li>DSNY has been conducting new RFPs for open zone slots in two zones where awardee mergers created vacancies; responses received a few weeks prior to the hearing.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DSNY to begin outreach to Brooklyn Community District 2 businesses and residential buildings immediately following the hearing to support Empire Bin sign-ups.</li>
 <li>DSNY to publish and schedule a hearing on the final scope of work for the containerization program's draft environmental impact statement.</li>
@@ -119,7 +119,7 @@
 <li>DSNY to make public the findings from the commercial waste zone RFP process regarding commercial hauler interest in using City marine transfer stations, as requested by the Manhattan Solid Waste Advisory Board.</li>
 <li>CM Wilson to work with the Council on potential amendments to Local Law 199 to address merger and acquisition incentive problems identified during testimony, including protocols for pre-implementation awardee changes.</li>
 <li>Proponents of Int 0369-2026, including NRDC, Solid Waste Advisory Boards and community composting operators, to work with CM Nurse to revise the bill into an enactable form addressing DSNY's siting and capacity objections.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -419,6 +419,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

@@ -83,7 +83,7 @@
 <p>The hearing featured emotional testimony from advocates, including Lizzy Raman, whose son was killed on Queens Boulevard in 2008, and transit organizers from Riders Alliance who described the daily frustrations of bus riders stuck in traffic. Their message was clear: the city knows what works to save lives and improve mobility, but has lacked the political will to implement it at scale. Chair Shaun Abreu pressed Flynn repeatedly on whether the Streets Plan requirements were legal mandates rather than suggestions, with Flynn confirming they were binding obligations.</p>
 <p>The committee also considered multiple pieces of legislation, including CM Marte's bill (Int 0310-2026) requiring bilingual street signs citywide, CM Restler's package to restore year-round outdoor dining (Int 0655-2026 and Int 0628-2026), and CM Brewer's proposal to expand bicycle parking stations (Int 0093-2026). Flynn's testimony revealed mixed support for these proposals, with particular concerns about solar-powered crosswalks lacking proven efficacy and outdoor dining clear-path requirements potentially compromising pedestrian accessibility.</p>
 <p>The administration's struggle to provide concrete commitments became apparent when Abreu demanded specific budget numbers and staffing requirements to meet Streets Plan targets. Flynn and his team repeatedly deflected to upcoming budget hearings, unable to specify the resources needed despite acknowledging the legal obligations. This tension highlighted a broader challenge: while the new administration expressed enthusiasm for transportation improvements, it has yet to translate that rhetoric into the concrete planning and resource allocation needed to catch up on years of underperformance.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>18.2 miles of protected bike lanes completed in 2025 against a 50-mile legal requirement.</li>
 <li>20.8 miles of bus lanes completed in 2025 against a 30-mile legal requirement.</li>
@@ -117,7 +117,7 @@
 <li>450 restaurants secured full outdoor dining permits for spring season.</li>
 <li>6,000-8,000 restaurants had roadway dining permits during pandemic.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOT to provide specific headcount and budget requirements needed to meet Streets Plan mandates at preliminary budget hearing.</li>
 <li>DOT to provide breakdown of response times for different types of traffic calming requests to the committee.</li>
@@ -128,7 +128,7 @@
 <li>DOT to clarify uniform policy on 5-foot building entrance setbacks for outdoor dining.</li>
 <li>DOT to expedite bike corral installations in CM Epstein's district.</li>
 <li>DOT to address bike corral needs in front of grocery stores with high delivery activity.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -919,6 +919,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

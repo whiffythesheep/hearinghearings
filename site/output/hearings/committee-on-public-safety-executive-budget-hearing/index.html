@@ -83,7 +83,7 @@
 <p>On the NYPD side, the headline story is genuine crime progress — murders down 25%, shootings down 8-10%, retail theft down more than 19%, and broad declines across most major crime categories — achieved during a period of record hiring and improved patrol strength. Commissioner Tisch was in a relatively strong position at the table and showed it. The more uncomfortable territory involved the B-HEARD mental health diversion program, which responded to just 1,411 of 17,961 eligible calls in the first four months of FY26, a 7.9% response rate that Council Member Restler correctly identified as rendering the program functionally marginal. The newly announced Office of Community Safety received significant scrutiny, with the Commissioner confirming that no programs have been transferred from NYPD and that no strategic conversations about doing so have even occurred — raising reasonable questions about what OCS actually does. Federal funding cuts were flagged as a slow-moving crisis: Homeland Security grant funding dropped 40% to $53 million, and while the department is currently drawing on prior-year balances, the Commissioner warned counterterrorism capabilities face an existential funding gap within one to two fiscal years. On overtime, projected FY26 uniform overtime of $1.13 billion drew persistent questions about whether record hiring was actually reducing overtime reliance — the answer, in practice, is somewhat but not dramatically. The Quality of Life Division debate — essentially a proxy war over broken windows policing — produced the hearing's most pointed exchange, with Council Member Cabán citing a 3,000% increase in arrests for low-level offenses and a 20-year meta-study undermining the model's evidence base. Response times, still at roughly 9 minutes 10 seconds versus 6 minutes 44 seconds pre-pandemic, remain an unresolved operational problem.</p>
 <p>The FDNY hearing had two dominant themes: pay parity for EMS workers and the condition of the City's firehouses. On EMS pay, the gap is stark — EMS workers average $57,494 base salary versus $109,930 for firefighters, producing a 10.9% annual attrition rate that spikes to 14.3% in firefighter promotion years, when roughly a quarter of the EMS workforce simply converts to fire. Training a replacement EMT costs $41,000; a paramedic costs $130,000. Commissioner Bonsignore expressed strong personal support for pay parity but acknowledged it sits in union contract negotiations with no specific FY27 funding attached. The Council has cited cost estimates ranging from $80 million to over $200 million. The arithmetic of this problem — burning through expensive trained workers to save money on salaries — is obvious and has apparently been obvious for years. On the fifth firefighter, the Council pushed hard, citing 27 multiple-alarm fires in the Bronx by mid-May 2026 against 16 at the same point in 2025 and nearly 15 Bronx fire deaths this year. FDNY acknowledged the operational benefits — faster hose deployment, reduced fatigue, improved capacity in taller buildings requiring standpipe connections — but the Commissioner declined to formally advocate for the $180 million citywide cost in budget negotiations, and no funding was committed.</p>
 <p>The facilities portion of the FDNY hearing was frankly dispiriting, in a way that is structurally familiar to anyone who watches city capital budgeting. Chair Ariola presented photos and videos of firehouses with buckling floors, water damage, leaking pipes draining onto oil burners, and holes patched with metal plates. The average FDNY firehouse is approaching 100 years old. The department receives approximately 300 facilities work orders per week; some have been open for 25 years. The administration has increased the facilities share of FDNY's capital budget from 37% to 52% over five years, which sounds like progress until you see the photos. Total capital facilities funding across FY26-35 is $994 million, covering an estimated 25-30% of actual need. The session produced a notable moment of institutional frustration when Chair Lee rebuked FDNY facilities staff for failing to bring a laptop computer to the hearing despite an explicit prior request — a small thing that captured a larger dynamic about whether agencies treat Council oversight as something to be managed or engaged with.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>NYPD FY2027 proposed budget: approximately $6.59 billion, representing 5.3% of the City's $124.7 billion total budget.</li>
 <li>NYPD uniform budgeted headcount for FY27: 35,555, up 580 from the prior budgeted figure, against an actual deployed headcount of 34,497 as of April 2026.</li>
@@ -109,7 +109,7 @@
 <li>FDNY fleet: approximately 600 ambulances total, maximum 340 deployed at any time, average age approximately two years, replaced at five to six years, with an average out-of-service rate of approximately 30%.</li>
 <li>20,607 passers on the most recent firefighter exam: 22% Black, 28% Hispanic, 40% White, 6-7% women.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYPD to provide the Council with updated data on the B-HEARD response rate and an assessment of whether the program's current structure is operationally viable at scale.</li>
 <li>NYPD to brief the Council on the outcomes of the 90-day department-wide narcotics operations review covering policies, procedures, equipment, compliance systems, and supervisory oversight.</li>
@@ -126,7 +126,7 @@
 <li>Chair Lee directed FDNY liaison to ensure that when the committee requests facilities staff bring a computer to a hearing, that request is fulfilled or the committee is notified in advance if it cannot be.</li>
 <li>FDNY to provide the Council with a formal cost estimate and operational assessment of EMS pay parity to support budget negotiations, given the absence of any specific FY27 funding.</li>
 <li>FDNY to provide updated information on the timeline for delivery and deployment of outstanding apparatus orders, including the 23 rear-mount apparatus approximately one year from delivery and the impact of the arbitration ruling restricting relocation of aged equipment.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1962,6 +1962,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

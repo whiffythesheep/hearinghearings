@@ -83,7 +83,7 @@
 <p>Industry witnesses, including representatives from the Retail Council of New York State, Chamber of Progress, TechNet and the Hotel Association of New York City, broadly supported banning surveillance pricing where it results in higher prices but raised concerns that the current bill's language is broad enough to inadvertently prohibit legitimate loyalty programs, tiered rewards programs, registry completion discounts, cart abandonment discounts and other personalised promotions. They urged the Council to align the city bill with the state law, particularly around the concept of a "reference price" as a baseline against which discounts are measured, and to avoid creating a patchwork of conflicting municipal and state requirements. The Retail Council and TechNet also pointed to Colorado's governor recently vetoing a similar bill on the grounds it would harm consumers by eliminating beneficial discounts.</p>
 <p>Labour unions representing retail and grocery workers, including Local 338 RWDSU, UFCW and the NYC Central Labor Council, supported the bills but argued they do not go far enough. Their top priority was an outright ban on electronic shelf labels, which they argued are the enabling infrastructure for both surveillance and dynamic pricing, allow prices to be changed up to 2,000 times per day, and will allow large chains to circumvent whatever pricing restrictions are enacted. They also raised worker protection concerns, noting that frontline workers bear the brunt of consumer frustration when prices change rapidly and should be protected from retaliation if they report violations. Privacy advocates from EPIC and the American Economic Liberties Project testified in support of the bills, with the latter warning that exempting "personalized discounts" from surveillance pricing bans is a Trojan horse that renders the prohibition meaningless, since any price in a market of differentiated pricing can be framed as a discount relative to some other price.</p>
 <p>The hearing surfaced broad consensus that using personal data to raise prices is wrong and should be prohibited, but left significant unresolved questions about how to define and protect legitimate discounts, whether to ban electronic shelf labels outright, how to define a "reference price," whether to add a private right of action, and how to align the city bill with the state law now awaiting the Governor's signature. Commissioner Levine confirmed that DCWP has received no consumer complaints about surveillance pricing to date, which he attributed to the inherent invisibility of the practice, and noted that the agency would need eight additional staff lines, four per bill, not currently budgeted, to enforce the legislation.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Council investigators used 10 different rideshare accounts to conduct approximately 370 pricing checks across three standard routes, finding consistent variation in discounts between accounts.</li>
 <li>A grocery delivery platform investigation published in December 2025 found price differences of up to 23% for the same products from the same store at the same time across different accounts.</li>
@@ -104,7 +104,7 @@
 <li>Maryland recently enacted a Protection from Predatory Pricing Act banning personalised price increases based on consumer data; Colorado's governor recently vetoed a similar surveillance pricing ban.</li>
 <li>A 2022 investigation found internet providers using surveillance pricing charged higher prices to customers in areas that were less white and lower income.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DCWP to work with the Council on adding a private right of action to Int 0891-2026.</li>
 <li>DCWP to work with the Council on ensuring that personal data collected for discount programmes under Int 0891-2026 cannot be used to increase prices, sold to third-party data brokers, or used to facilitate fake or fictitious discounts.</li>
@@ -121,7 +121,7 @@
 <li>DCWP to request additional budget allocation for eight new staff lines (four per bill) in the next fiscal year to support enforcement of the legislation if enacted.</li>
 <li>Attorney General's office to coordinate with DCWP on enforcement strategy and to explore creative, non-complaint-driven investigative approaches given the difficulty consumers face in detecting surveillance pricing.</li>
 <li>Council to consider whether Int 0892-2026 should include exceptions for legitimate cost changes driven by supply chain disruptions, weather events or other external factors, as raised by TechNet and consistent with existing New York State price gouging regulations.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -582,6 +582,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

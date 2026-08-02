@@ -83,7 +83,7 @@
 <p>Chair Riley pressed hard on staffing shortages, particularly in borough offices, arguing that DCP lacks sufficient planners to handle neighborhood rezonings essential to addressing the housing crisis. The Bronx borough office, serving 1.4 million residents, has only 16 budgeted staff. Riley questioned whether the agency can handle more than one neighborhood rezoning at a time and demanded greater resources for ambitious housing production goals. The agency has a 16.3% vacancy rate, over triple the citywide average, though officials claimed the adjusted rate is closer to 12% when accounting for unfunded positions and active recruitment.</p>
 <p>Council members raised concerns about several policy initiatives. The administration is developing a new citywide housing agenda and fair housing plan, but officials provided few specifics about neighborhood rezoning commitments or the controversial $14 billion Sunnyside Yards proposal that Mayor Mamdani pitched to President Trump. Members questioned the governor's proposal to exempt residential projects up to 500 units from environmental review, with some worried about reduced community investments in schools, parks, and infrastructure that typically accompany large developments.</p>
 <p>Implementation of the City of Yes reforms showed mixed results. Officials reported over 150 ADU applications in the pipeline, led by Queens and Staten Island, and 150 applications for the universal affordability preference program. Office conversions are creating a pipeline of 12,000 new homes, with a quarter being permanently affordable. However, processing times for zoning applications continue to increase, with simple actions taking 308 days to enter public review and environmental review projects taking 731 days, representing significant delays from the prior year.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DCP's FY27 preliminary budget totals $51.4 million, a $5.3 million decrease from FY26.</li>
 <li>Personnel services account for $35.9 million or 63% of the FY26 adopted budget.</li>
@@ -109,7 +109,7 @@
 <li>Land use actions declined 61.9% in the first four months of fiscal year 2026.</li>
 <li>99.6% of projects qualifying for the governor's environmental review exemption had no impacts over the past 10 years.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DCP to provide borough-by-borough staff breakdown to the committee.</li>
 <li>DCP to share specific data on the 99.6% analysis of projects with no environmental impacts.</li>
@@ -122,7 +122,7 @@
 <li>DCP to get back to CM Thomas-Henry on Willets Point environmental studies and remaining acreage development.</li>
 <li>DCP to provide economic impact data from past rezonings like East New York and Inwood.</li>
 <li>DCP to compile filing permits data for TOD and town center proposals with DOB.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -677,6 +677,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

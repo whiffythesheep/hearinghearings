@@ -82,7 +82,7 @@
 <p>The Housing and Buildings Committee held an oversight hearing on preserving affordable housing in distress and Int 0657-2026, known as the Safer Homes Act, which would overhaul the Third-Party Transfer Program. Chair Sanchez opened with historical context about New York's 1970s housing crisis, when 350,000 units were lost to abandonment and disinvestment, leading to the creation of the original in rem foreclosure program in 1976 and TPT in 1996. The program was suspended in 2019 after Round 10 revealed serious problems, including over 50% of selected properties not actually being in distress and disproportionate impacts on communities of color and owner-occupied homes.</p>
 <p>HPD testified through Chief of Staff Rosa Kelly and deputies, presenting their "critical eligible" model that would replace the current "statutory distress" definition. This new approach eliminates the problematic block pickup provision and uses an indexing system combining municipal debt and recent housing violations to target only the worst properties. Under their proposal, tax class one properties would need to owe three times their annual tax liability, HDFC rentals two times, and other rentals one time to be eligible. HPD's analysis suggests this would produce larger buildings averaging 30 units versus 10 under the old system, with more even geographic distribution across boroughs.</p>
 <p>Council members pressed HPD on several concerns. CM Epstein challenged the weak tenant ownership provisions, noting that historically only 47 of 73 buildings that petitioned for cooperative conversion actually completed the process, with some tenants waiting over a decade. Chair Sanchez and CM Salaam raised questions about adequate notice to property owners, particularly seniors and communities of color who reported never receiving proper notification in Round 10. HPD proposed enhanced outreach including multilingual materials, community partnerships, and agency liaisons, but resisted Council proposals for an ombudsperson position. The testimony revealed ongoing tensions between HPD's desire for administrative flexibility and the Council's push for statutory guarantees protecting both tenants and small property owners from the program's documented failures.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>350,000 private housing units lost to abandonment and disinvestment in the 1960s and 70s.</li>
 <li>3,000 units per month were being lost to abandonment by 1975.</li>
@@ -105,7 +105,7 @@
 <li>10 buildings are pending conversion post-construction.</li>
 <li>3 properties are currently in construction and pre-development.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>HPD to provide copy of contractual relationship with Neighborhood Restore to the committee.</li>
 <li>HPD to provide number of HDFC cooperatives remaining in the City of New York.</li>
@@ -113,7 +113,7 @@
 <li>HPD to discuss offline with CM Epstein and Chair Sanchez specific details about tenant ownership guarantees and timelines.</li>
 <li>HPD to continue negotiations with Council on final legislation details including notice requirements and exemptions.</li>
 <li>Committee to accept public testimony within 72 hours for the official record.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -495,6 +495,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

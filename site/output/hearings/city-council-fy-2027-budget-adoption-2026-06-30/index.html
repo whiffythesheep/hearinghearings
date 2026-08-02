@@ -83,7 +83,7 @@
 <p>The dominant policy story of the meeting was the resolution of the City FHEPS litigation. The Council and the Adams — now Mamdani — administration reached a settlement in which the Mayor dropped the lawsuit against the Council and agreed to restructure the voucher program through new legislation, Int 0966-2026, sponsored by CM Pierina Sanchez. The new rental assistance voucher program, passed with a Message of Necessity, commits $300 million across FY27 and FY28 and extends eligibility beyond the original City FHEPS to include households in non-traditional shelter, homeless youth, people displaced by fires or vacate orders, justice-involved individuals, and income-eligible tenants in rent-stabilized apartments facing eviction. Sanchez and other Progressive Caucus members framed this as fiscally rational — $54 per day for a voucher versus $270 per day for a family shelter bed — as well as morally necessary given that 70% of shelter residents are families with children. Other significant budget wins highlighted by the Speaker and members included: the largest-ever expansion of Fair Fares, extending eligibility to 200% of the federal poverty level; the New York City Kids Rise program, which will now provide a $1,000 college savings account to every public school kindergartener citywide; baseline funding for parks workers, worth $29.1 million; $20 million in additional funding for cultural institutions; full restoration of library funding at record levels; and $350 million added to the rainy day fund.</p>
 <p>The main source of dissent came from the right and, in a different key, from the left. CMs Morano, Ariola, Paladino, Vernikov, and Stevens voted against the expense budget. Morano and Ariola both focused their no votes on the last-minute removal of funding for 580 NYPD officers from the budget — a commitment they said had been made formally by the Police Commissioner and Budget Director during testimony, then quietly stripped before the final vote. Morano was particularly pointed, calling Mayor Mamdani "a totally dishonest broker" on this issue. Paladino argued more broadly that the budget was fiscally irresponsible, dependent on Albany revenue, pension deferrals, and optimistic projections, and amounted to "a budget by bailout." From the left, CM Althea Stevens voted no on the expense budget, citing what she described as entirely inadequate district allocations for District 16, one of the City's poorest. CMs Avilés, Cabán, Nurse, and others in the Progressive Caucus voted aye overall but flagged disappointment that the Rentals Within Reach campaign — aimed at filling NYCHA and supportive housing vacancies — did not receive meaningful investment, and that paraprofessional pay parity was absent.</p>
 <p>Beyond the budget, the Council passed Int 0580-2026-A, establishing a new Mayor's Office of Child Care and Early Childhood Education within the Charter, sponsored by CM Jennifer Gutiérrez — the culmination of a multi-year effort. Int 0015-2026-A tightened background check rules for child care workers. Int 0031-2026-A expanded commercial organic waste requirements to additional categories of establishments. Int 0092-2026-A, sponsored by CM Brewer, reinstated the use of adhesive stickers on vehicles to enforce alternate side parking rules, reversing a 2012 Council decision, on the basis that non-compliance had reached 500,000 violations per week across 1,200 routes. Int 0910-2026-A, sponsored by CM Stevens, repealed the Local Law 75 of 2009 mandate requiring businesses to replace security grilles with 70%-visibility models by July 2026, citing costs exceeding $10,000 per business. Int 0553-2026-A established a small retail business security technology assistance program, though it drew no votes from Cabán and Avilés who argued an underutilized state program already covers this. Int 0929-2026-A required NYPD transparency reporting on security perimeters near schools, passing 39-10 but attracting notable no votes from progressive members including Avilés, Cabán, De La Rosa, Hudson, Nurse, and Sanchez, who expressed concern about its implications for First Amendment rights near educational facilities. The Council also advanced several major land use items, including the Monitor Point development in Greenpoint (Brooklyn CD1) — a mixed-use rezoning submitted jointly by GoQuay LLC and the MTA — and a cluster of Hudson River Park District rezonings related to the Dewitt Clinton Park North sites at 801 Eleventh Avenue and 629 West 54th Street in Manhattan. The Council also named 103 thoroughfares and public places, and passed a companion bill (Int 0859-2026-A) digitizing biographical records for historical street co-namings, including over 400 post-9/11 renamings that had lacked biographical documentation.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$125.8 billion: total FY2027 budget adopted by the City Council.</li>
 <li>$300 million: committed across FY27 and FY28 for the new rental assistance voucher program (Int 0966-2026) replacing City FHEPS.</li>
@@ -121,7 +121,7 @@
 <li>103: number of thoroughfares and public places renamed under Int 0956-2026.</li>
 <li>400: approximate number of post-9/11 street renamings that lacked biographical documentation, addressed by Int 0859-2026-A.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>City Council and administration to implement the new rental assistance voucher program (Int 0966-2026) with $300 million in committed funding across FY27 and FY28, covering shelter exits and eviction prevention for newly eligible populations including homeless youth, fire-displaced households, justice-involved individuals, and income-eligible rent-stabilized tenants.</li>
 <li>Office of Child Care and Early Childhood Education to be established within the Mayor's office pursuant to Int 0580-2026-A, and to begin planning and implementing universal child care for all NYC children at no cost to families, regardless of immigration status or income.</li>
@@ -143,7 +143,7 @@
 <li>Speaker Menin committed to continued advocacy for 100% affordable housing on public library sites, building on a recently announced initiative.</li>
 <li>CM Brooks-Powers committed to continue pressing the administration for a capital investment commitment to District 31, following no capital funding appearing in the Mayor's executive capital budget for that district.</li>
 <li>CM Hankerson committed to continue advocacy for parks funding reaching 1% of the total City budget.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -750,6 +750,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

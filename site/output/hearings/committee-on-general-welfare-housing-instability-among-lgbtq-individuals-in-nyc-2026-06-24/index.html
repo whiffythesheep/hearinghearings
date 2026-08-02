@@ -84,7 +84,7 @@
 <p>DYCD reported that 38% of youth entering its programs identify as LGBTQ+, representing serious overrepresentation relative to the general population. However, data limitations pervade the system: youth are not required to disclose sexual orientation or gender identity, the 40,000 annual figure includes outreach contacts and duplicates, and long-term housing outcome data beyond one year is not readily available. The hearing surfaced a significant structural problem in the youth homelessness system: the gap between the city's reimbursement rate of $50,000 per bed per year and the actual cost of $80,000, which is causing providers to decline new bed allocations even when they are offered. Ali Forney Center testified that 400 youth are currently on its waitlist for a crisis bed, up from 300 the prior year, and that the waitlist fell below 100 when housing vouchers were available.</p>
 <p>Public testimony was often the most substantive part of the hearing. Advocates from Ali Forney, SAGE, Point Source Youth, Legal Aid Society, Manhattan Legal Services, New York Trans Juggle and others described specific systemic failures: the IDNYC caretaker list excluding DHS, leaving shelter clients unable to obtain ID to access housing programs; HASA clients losing apartments because nobody informed them the rent ceiling was too low; trans and queer migrants facing shelter violence and police interaction with no interpretation access; and a foster care to homelessness pipeline for LGBTQ+ youth with no systematic transition planning. SAGE flagged a 250% increase in adults 55 and older in shelter between 2004 and 2017, with LGBTQ+ seniors at particular risk given lifetime employment and housing discrimination. The Point Source Youth testimony was the most emotionally direct, presenting the Targeted Housing Assistance Program's cash assistance model, which a Johns Hopkins evaluation found resulted in 98% of participants having no shelter contact in six months at an average cost of $3,700 per person.</p>
 <p>The hearing reflects a genuine and well-documented policy problem without a clear near-term resolution. The new mayoral office is still finding its feet; bed capacity for LGBTQ+ youth is structurally underfunded; data collection is voluntary and produces serious undercounts; and the federal threat to the Equal Access Rule adds external pressure. The council members, particularly Hudson, Nurse and Wilson, asked pointed and informed questions, pushed back appropriately on vague answers and identified the gap between stated policy and practice — most notably Hudson's challenge on whether staff or residents are moved in response to harassment complaints, and Wilson's call for post-training assessment rather than mere compliance tracking.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Approximately 40% of unhoused youth in New York City identify as LGBTQ+, though they represent approximately 5-10% of the general youth population.</li>
 <li>55% of LGBTQ+ youth clients and over 67% of trans clients served by homeless youth providers became homeless primarily due to family rejection based on sexual orientation, gender identity or expression.</li>
@@ -116,7 +116,7 @@
 <li>Housing instability raises suicide attempt rates among LGBTQ+ youth by 3.7 times; up to 20% of homeless LGBTQ+ youth are living with HIV.</li>
 <li>In a 16-month period at Borden Avenue Veterans Residence, there were 136 emergency calls, approximately one every nine hours, at an estimated cost to the City of around $20,000 per person per year.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DHS to provide committee with full FY2025 and current-year data on priority-one shelter incidents involving LGBTQ+ and TGNC residents.</li>
 <li>DHS to follow up with committee on breakdown of how youth enter crisis shelters by pathway (street outreach, self-referral, drop-in center referral).</li>
@@ -135,7 +135,7 @@
 <li>Council members to raise conditions at Borden Avenue Veterans Residence with the DHS Commissioner and with the Veterans Committee chair.</li>
 <li>Committee to follow up with interACT regarding Int 0231, which would make anti-discrimination protections for intersex people explicit under the City Human Rights Law.</li>
 <li>Council to consider pressing the administration to end its lawsuit against the 2023 voucher expansion and to expand the state housing access voucher program budget allocation, per advocate requests.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -783,6 +783,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

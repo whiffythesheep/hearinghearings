@@ -81,7 +81,7 @@
 <p>Council members pressed hard on two systemic weaknesses. The first was the near-total absence of reliable economic data: SBS tracks storefront occupancy rates via quarterly street canvassing, but has no mechanism for tracking revenue, foot traffic, or the lived financial stress of businesses whose doors are technically still open. The Chair noted that vacancy rates may look stable citywide while individual corridors — including her own district in Corona — are visibly deteriorating. The second was capacity. A six-person outreach team for 180,000 small businesses is, as Chair Encarnacion drily noted, obviously not enough. MOIA's outreach budget provides for five staff for a sixty-person office. Members also flagged a significant gap in I-9 compliance guidance and employer education, the weaponization of IRS tax data against undocumented workers, and the practical inaccessibility of services for businesses whose owners are offline, speak indigenous languages, or are too afraid to engage with anything that looks like government.</p>
 <p>Manhattan Borough President Brad Hoylman-Sigal offered the most comprehensive analytical testimony, quantifying downstream costs that the administration witnesses were unable or unwilling to put numbers to: the proposed HUD mixed-status housing rule could displace 11,000 New Yorkers including 5,000 children citywide, cost housing authorities between $48 million and $57 million in annual revenue, and impose shelter costs of between $330 million and $1.27 billion on the city with no federal reimbursement. He called for a full audit of immigration policy impacts, expanded legal services, multilingual outreach reassuring eligible residents that benefit use will not trigger enforcement, and data-sharing protections between city agencies and federal immigration authorities.</p>
 <p>Public testimony reinforced the ground-level picture. The Queens Economic Development Corporation reported that 79% of businesses surveyed in Jackson Heights and Corona reported decreased sales and foot traffic since ICE activity accelerated, with 84% of affected businesses losing more than $1,000. The Brooklyn Chamber of Commerce found 30% of Brooklyn small businesses reported negative immigration enforcement impacts, rising to 79% in Sunset Park. The Street Vendor Project and affiliated vendors testified about the Canal Street raid, the closure of Corona Plaza Market three times over the winter due to ICE fear, and the urgent need for city funding to expand multilingual know-your-rights outreach. The Asian-American Federation and the Chinese-American Planning Council (CPC) requested an increase in legal services funding from $2 million to $3.5 million for fiscal year 2027, pointing to delinquency rates on small business loans rising to COVID-era levels. The Legal Aid Society flagged civil immigration fines of up to $1.8 million per person, warrantless arrests litigation, and the practical impossibility of advising businesses about work permit validity given the daily shifts in federal policy. A recurring and urgent secondary concern throughout the hearing was Local Law 75, the 2009 requirement that businesses replace solid security roll gates with 70% visibility gates by July 1, 2026 — a cost that small business owners and chamber representatives argued is devastating and poorly communicated, particularly in immigrant neighborhoods, and that multiple Council members indicated they are actively working to repeal or delay.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Immigrants own more than half of New York City's approximately 180,000 small businesses, including 56% of all storefront businesses.</li>
 <li>Nearly 40% of New York City's population was born outside the United States.</li>
@@ -114,7 +114,7 @@
 <li>Roll gate replacement costs for a small storefront are estimated at approximately $3,500 to $5,000; Local Law 75 compliance deadline is July 1, 2026.</li>
 <li>Over 300 bodegas received panic buttons through an EDC program administered in partnership with the United Bodegas of America.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>SBS to share FIFA World Cup business engagement materials and outreach event details with all Council member offices as they are finalized.</li>
 <li>SBS to follow up with CM Brooks-Powers on storefront occupancy rates in Southeast Queens, including by Council district and community board.</li>
@@ -133,7 +133,7 @@
 <li>Chair Thomas-Henry to direct businesses asking about the FIFA World Cup to the SBS hotline (888-SBS-4NYC) and the seven Business Solution Centers as primary contact points, and to flag offline businesses to SBS for direct outreach.</li>
 <li>Street vendor testifier Martha (La Sonas) to submit written questions and English-language testimony translation to testimony@council.nyc.gov within 72 hours of the hearing.</li>
 <li>SBS to provide the Council with updated information on the six borough-based Small Business Month engagement events, including dates and partner organizations, as those events are finalized on the nyc.gov/smallbizmonth website.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1192,6 +1192,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

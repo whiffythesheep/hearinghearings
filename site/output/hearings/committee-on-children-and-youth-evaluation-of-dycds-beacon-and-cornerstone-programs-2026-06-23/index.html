@@ -83,7 +83,7 @@
 <p>The substantive work of the hearing concerned the chronic underfunding and procurement stagnation of Beacon and Cornerstone programs. The last Beacon RFP was issued in 2017 and the last Cornerstone concept paper in 2015; both programs have been running on extensions ever since. DYCD Associate Commissioner Wanda Ash-Ral confirmed that the agency is conducting an internal assessment of funding needs, staffing structures and program design, with an eventual goal of releasing a combined community center RFP covering both Beacons and Cornerstones, though no timeline was offered. The committee was not satisfied with this answer. CM Felder pressed hard on the specific problem of oversubscribed Beacons — citing a persistent wait list at the Goddard Riverside Beacon on the Upper West Side, with parents reportedly bringing children to work because no slots are available — and asked directly whether the fix was a money problem or a space problem. DYCD acknowledged the issue but declined to quantify funding needs without completing their assessment first, which the Chair pointedly noted could take years while children go unserved. Stevens called for an interim measure to address sites with wait lists now, rather than waiting for a full procurement cycle.</p>
 <p>CM Joseph probed the gaps in DYCD's outcome measurement, establishing that the agency does not formally track academic improvement, workforce placement numbers, voter registration figures or adult education graduation rates at Beacon or Cornerstone sites. Providers measure some of these things themselves, but there is no centralized data collection. Joseph argued — correctly, and without much pushback — that without outcome data, the programs cannot make a strong case for expanded funding or additional seats. Other issues raised included: the absurdity of a three-day attendance requirement before Beacon participants are counted as enrolled (unique to Beacons, with no equivalent in Cornerstone or Compass); the fact that state stipends are not allowable budget line items for workforce development activities; the late-night hours extending to 11 PM that are underutilized and contribute to staff burnout; and the long-standing structural problem that most Cornerstone sites have only one full-time employee, making any expanded expectation functionally unworkable.</p>
 <p>Provider testimony from the Center for Family Life, Children's Aid and United Neighborhood Houses reinforced the committee's concerns, calling for new RFPs with base rates reflecting true operational costs, cost-of-living adjustments in all contracts, stipends for interns and counselors-in-training as allowable budget expenses, and early structured engagement of families and providers in the procurement design process. United Neighborhood Houses noted that settlement houses operate one-third of all Beacons and half of all Cornerstones. Assembly Member Dais testified in support of Res 0142-2026 calling for a Center for Fatherhood Initiatives under the state Office of Children and Family Services, noting the Senate has already passed the bill but the Assembly has not. Two members of the Father Speaks Up movement testified about their personal experiences navigating family court and custody obstacles. A student from Queens High School for the Sciences testified in support of Res 0032-2026, describing inequitable access to youth sports programs and overcrowded Saturday Night Lights facilities.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>There are 92 Beacon programs located in New York City public schools.</li>
 <li>There are 100 Cornerstone programs operating in NYCHA developments.</li>
@@ -106,7 +106,7 @@
 <li>DYCD fatherhood programming expanded to 17 additional sites in the current year, including sites at Claremont Center and Metropolitan College in the Bronx.</li>
 <li>Workforce development stipends available through some out-of-school providers were characterized as approximately $100 per participant, described by the Chair as insufficient.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DYCD to provide the committee with a list of all Beacon and Cornerstone sites currently operating with wait lists or oversubscription, to inform potential interim measures.</li>
 <li>DYCD to explore and report back to the committee on interim options to expand capacity or add slots at oversubscribed Beacon sites without waiting for a new RFP.</li>
@@ -123,7 +123,7 @@
 <li>CM Stevens to connect Assembly Member Dais with DYCD fatherhood programming staff, including contacts at Claremont Center and Metropolitan College, and with the City Council's fatherhood-related initiatives.</li>
 <li>Assembly Member Dais to engage with CUNY on incorporating fatherhood and parenting resources into college programming, following the suggestion raised in testimony.</li>
 <li>DYCD to confirm with the committee whether the preventive family services component previously attached to the 15 specialized Beacons has been fully transitioned to ACS supervision and what the current funding level for those services is.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -677,6 +677,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

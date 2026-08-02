@@ -80,7 +80,7 @@
 <p>DOB Commissioner Ahmed Tani, just two months into the role, presented a relatively steady-state budget but pointed to several genuine operational improvements: proactive inspections now account for roughly 35% of all enforcement inspections (up from near zero a few years ago), construction-related injuries dropped 42% between fiscal years 2024 and 2025, and sidewalk sheds citywide have been reduced by about 15% since 2023. Tani also flagged worsening service metrics — plan review times up from 3.5 to 5 days, complaint response for priority B violations up from 15 to 21 days — attributing the increases to vacancies and reduced overtime. On Local Law 97, DOB reported over 91% compliance with Phase 1 reporting requirements, though acknowledged the harder work of actually cutting emissions toward the 2030 targets remains ahead. Council members pressed hard on elevator outages (13,166 complaints in 2025 against just 28 active inspectors with 4 vacancies), SRO tenant harassment, stalled construction sites, and the $310 million in uncollected DOB fines. The contractor licensing suspension of Yakov Eisenbach of Hexagon Industries following a wall collapse near an elementary school was cited approvingly as an example of proactive enforcement working.</p>
 <p>HPD Commissioner Dena Levy (returning to city government after stints at UHAB and elsewhere) faced tougher questioning, partly because HPD's budget shows a nominal $500 million reduction from the fiscal 2026 modified budget, though much of that reflects the wind-down of asylum seeker shelter contracts and changes in pass-through funding rather than direct service cuts. Key substantive concerns: section 8 voucher utilization is falling (now 87%) partly because HPD is in shortfall and cannot issue new vouchers while HUD has swept reserves; CityFHEPS is funded at $1.64 billion against what advocates say is an $800 million structural undercount; the Alternative Enforcement and Emergency Repair Programs show very low fine collection rates (30% and 13% respectively), though Levy argued compliance matters more than collections; and new construction permitted under 421A is showing elevated violation rates per unit. Council members pushed on the HPD capital cliff — the five-year plan drops sharply after fiscal 2026, and the New York Housing Conference testified that HPD needs roughly $4 billion per year to maintain historical production, against a budget that falls well below $3 billion in fiscal 2027 and below $2 billion in the outer years. The 94 positions funded through City of Yes are still being hired into, with 22% vacancy in the project manager series and 19% vacancy among inspectors.</p>
 <p>Public testimony was largely consistent and cumulative: legal services providers (Legal Services NYC, Legal Aid, Mobilization for Justice, Buildup Justice NYC) reported catastrophic contract payment delays — Legal Services NYC alone is owed $40 million — and called for structural fixes to right-to-counsel contracting terms, including restoring the ability to roll cases across years and removing punitive withholding penalties. Homeownership groups (NHS network, Center for New York City Neighborhoods) requested $1 million for a property management pilot for low-to-moderate income senior homeowners and $9.7 million for foreclosure prevention and home repair, noting that 4,000 homeowners apply annually for HomeFix but only about 100 are served. Community land trust advocates called for $3 million in expense funding for 23 organizations and a $50 million CLT capital fund that Mayor Mamdani had committed to during his campaign. Coalition for the Homeless and allies pushed for 12,000 units per year of housing reserved for extremely low income and homeless households, noting that the city financed the equivalent of only 21% of affordable units for extremely low income households over the entire decade 2014 to 2024. Supportive housing providers asked for $65.3 million for SRO preservation and stressed that aging first-generation supportive housing stock — some of it 40 years old in buildings over 100 years old — faces closure without capital intervention. The hearing ended without votes or formal decisions; it functions as a precursor to the executive budget negotiations.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DOB proposed fiscal year 2027 expense budget: $317.7 million, of which $181 million (85%) is personnel services supporting 1,864 budgeted positions.</li>
 <li>HPD proposed fiscal year 2027 expense budget: $1.08 billion; HPD's fiscal 2026-2030 capital plan totals $12.16 billion plus $2.27 billion in Section 8 conversion pass-through, for a total of $14.65 billion.</li>
@@ -112,7 +112,7 @@
 <li>NHS network requested $1 million for a citywide property management pilot targeting low-to-moderate income senior homeowners of 1-4 unit homes, projected to serve at least 95 units in year one.</li>
 <li>HomeFix program: approximately 4,000 homeowners apply annually; only approximately 100 are served per year.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOB to provide committee with copies of all job recruitment advertisements and social media influencer campaign materials.</li>
 <li>DOB to provide an update on the NYCHA Bronx building collapse investigation (vendor: IAQ Consulting Engineering) by end of 2026.</li>
@@ -139,7 +139,7 @@
 <li>DOB to present to committee the building risk-score maps and machine learning algorithm outputs used by the proactive enforcement analytics team.</li>
 <li>Stabilizing NYC coalition and Take Root Justice to continue escalating contract payment delays to committee; committee chair committed to pursuing further pressure on OMB regarding the backlog of unregistered and unfunded discretionary contracts.</li>
 <li>HPD to finalize numbers on what compliance with Local Law 57 of 2026 (4% homeownership set-aside in new construction) will require in capital terms and report back to committee during executive budget process.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1553,6 +1553,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

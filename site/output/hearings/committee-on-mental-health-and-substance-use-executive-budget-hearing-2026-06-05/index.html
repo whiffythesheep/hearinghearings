@@ -83,7 +83,7 @@
 <p>Commissioner Martin framed DOHMH's priorities around stabilizing core services, positioning public health as an affordability issue, and making the department's work more visible to the public. Notable new investments include a $20 million childhood asthma initiative concentrated in the Bronx, a $20 million expansion of the Nurse-Family Partnership, a new gender-affirming hormone therapy clinic at Corona, and the baselining of the syringe redemption pilot, which collected over a million syringes in its first year. The restoration of New York State's Article 6 matching rate to 36 percent for NYC — reversing a long-standing inequity — was described as a major fiscal win worth tens to hundreds of millions of dollars over time. On the federal threat side, the expiration of COVID-19 and ELC grants by July 31 prompted a $17.6 million city investment in disease outbreak resilience, though Council Members pressed hard on whether this truly replaces what is being lost. Roughly 230,000 New Yorkers are expected to lose Essential Plan coverage by July 1, with up to 500,000 more at risk under new Medicaid work requirements starting January 2027. DOHMH's response — 30 community health workers, 10 enrollment specialists, and a $500,000 advertising campaign — is real but plainly undersized relative to the crisis.</p>
 <p>On mental hygiene, the hearing surfaced persistent structural frustrations. Waitlists for Assertive Community Treatment and related mobile treatment teams total around 600 people, yet the executive budget does not expand capacity, only baselines existing funding. The future of the Office of Community Safety — absorbing $269.6 million and 126 positions beginning FY28, and taking over the Office of Community Mental Health — drew sharp scrutiny from Council Members who found the operational model vague and the relationship between coordinating agencies unclear. B-HEARD, the co-responder mental health program, remains in organizational limbo: originally intended to move fully to H+H, that plan was dropped, and no new permanent home has been determined. Dr. Katz candidly identified the core operational problem — the program requires two ambulances per call, straining paramedic capacity — which at least explains why it has been so hard to scale. The Teen Space telehealth psychiatry program, with 45,000-plus registrations over three years, is heading for reprocurement as its current contract expires; DOHMH confirmed it will bridge the gap while a new contract is developed.</p>
 <p>Dr. Katz offered a financially stable picture for FY2026 but was candid about the cliff edge ahead: H+H projects operating losses in FY2028 through 2030 driven by Medicaid cuts, with 52,000 to 60,000 of its own patients at risk of losing coverage. The Maimonides merger remains stuck in regulatory process, costing $9 million per month in lost upper payment limit funding. The Bellevue outpost therapeutic unit for incarcerated patients was presented as a genuine success story, running at over 90 percent occupancy with reduced transport costs. The long-deferred Far Rockaway trauma center ($200 million capital cost) was reaffirmed by Dr. Katz, who noted the average travel time to the nearest Level 1 or 2 trauma center from the Rockaways is around 40 minutes in normal traffic — an unambiguous case for investment that has nonetheless not moved to construction.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$2.64 billion: DOHMH total FY2027 Executive Budget, representing 2.1 percent of the City's total proposed budget.</li>
 <li>3.9 percent: increase in DOHMH Public Health budget from the Preliminary to the Executive Plan.</li>
@@ -111,7 +111,7 @@
 <li>95 patients at over 90 percent occupancy: Bellevue outpost therapeutic unit, which opened April 8, 2026, with an $8 million annual budget.</li>
 <li>130,000: NYC Care enrollees, up approximately 10,000 year-over-year, with 10,000 additional enrollees anticipated due to coverage displacement.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>DOHMH to provide the total budget figure for the 13 baselined clubhouses as a follow-up to the committee.</li>
 <li>DOHMH to share the link to the State Office of Mental Health's dynamic dashboard on Kendra's Law data broken down by borough.</li>
@@ -130,7 +130,7 @@
 <li>H+H to follow up with capital planning staff on the nearly three-year outage of the pediatric X-ray room at Jacobi Hospital and provide the committee with a resolution timeline.</li>
 <li>Fire Department to be asked separately to answer questions on B-HEARD team locations, dispatch and triage criteria, and operational structure, as it was not present at the hearing.</li>
 <li>Dr. Katz to invite Council Members to visit the Bellevue outpost therapeutic unit.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1830,6 +1830,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

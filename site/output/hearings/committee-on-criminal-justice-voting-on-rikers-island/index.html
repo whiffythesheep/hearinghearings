@@ -84,7 +84,7 @@
 <p>DOC Deputy Commissioner Nell Cologne and Assistant Commissioner Valerie Grayock described a facilitation-focused operation: 16 voter registration drives per year, quarterly educational sessions by counseling staff, tablet-based access to registration forms and voter guides, and hand-delivery of completed ballots to the Board of Elections in Queens. They announced a new twice-weekly partnership with the EAC Network intended to increase facility coverage. However, under questioning, they acknowledged that volunteers only reach a subset of housing units per visit, that each facility likely receives volunteer visits roughly twice a year, and that DOC does not receive ballot deficiency notices and therefore cannot realistically implement the curing procedures contemplated in Int 0786-2026 without significant changes to state law and inter-agency systems. They also confirmed that historically a single person held primary responsibility for courier logistics, and that tracking of special elections and rapidly discharged voters remains underdeveloped.</p>
 <p>Board of Elections Executive Director Michael Ryan, testifying remotely, was consistent on one point to the point of stonewalling: New York State Election Law Section 8-400 designates absentee voting as the only legally permissible method for incarcerated voters, a position confirmed by the State Board of Elections, and the city board will not deviate from that. Ryan was firm that establishing a polling place on Rikers, a goal both chairs clearly want, is legally impossible without state legislation. He noted some operational progress, including centralising ballot pickup to the Queens BOE office. Under pressure from Chair Brewer, he committed to sending BOE staff to Rikers to assess the process ahead of upcoming elections, and acknowledged the city board has never compared Rikers voting participation to other jurisdictions or had conversations with counties that have implemented jail-based polling. The nursing home voting model, where bipartisan BOE teams visit facilities above a population threshold, was discussed as a possible analogue, with Ryan acknowledging the transition to borough-based jails would make coordination more straightforward.</p>
 <p>The hearing exposed a consistent pattern: both agencies are doing something, both can point to incremental improvements, but the system is structurally inadequate and neither agency has the authority, appetite, or apparently the urgency to fix it unilaterally. The legislative pathway is clear but requires Albany. The Council's most actionable near-term levers are the reporting bills, tightened inter-agency coordination, and pressure on the state legislature to enable polling places and streamlined curing procedures. Chairs Brewer and Brooks-Powers were not subtle about the direction of travel.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Approximately 6,700 people are currently held on Rikers Island.</li>
 <li>Over 80% of the Rikers population is held pre-trial and retains the right to vote.</li>
@@ -107,7 +107,7 @@
 <li>DOC has approximately 60 counseling staff members who support civic engagement activities among other duties.</li>
 <li>Missing signatures are the most common reason absentee ballots from Rikers are rejected.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Board of Elections to provide the committee with data on how many of the rejected ballots from the June 2024 primary had curable defects and how many were successfully cured by voters still in DOC custody.</li>
 <li>Board of Elections Executive Director Ryan to assess the feasibility of sending BOE staff to Rikers Island ahead of upcoming elections, coordinate with DOC, and report back to the committee with an initial assessment.</li>
@@ -121,7 +121,7 @@
 <li>DOC to provide committee with all written testimony no less than 24 hours in advance of future hearings, as requested publicly by Chair Brooks-Powers for the second time.</li>
 <li>DOC and Board of Elections to explore feasibility of a nursing home style bipartisan in-person voting program for Rikers, with particular reference to the transition to borough-based jails as a structural opportunity to streamline coordination.</li>
 <li>Board of Elections to review whether comparisons with other jurisdictions implementing jail-based voting, such as Ulster County, Cook County, Washington DC and Colorado, could inform improvements to the New York City process.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -551,6 +551,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

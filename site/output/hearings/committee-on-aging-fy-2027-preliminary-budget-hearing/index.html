@@ -80,7 +80,7 @@
 <p>The budget picture is not encouraging. NYC Aging's FY27 preliminary budget is approximately $32 million less than the FY26 adopted budget, with discretionary Council funding not yet included. Despite older adults constituting nearly 20 percent of the city's population — a figure projected to grow 40 percent by 2040 — the agency's budget remains below one percent of the city's total. The preliminary budget adds no new direct service funding, only minor adjustments to more accurately budget for indirect cost rates and cost-of-living adjustments for human service contracts. The commissioner acknowledged the constraints while pledging innovative approaches, which at this stage remain largely aspirational given her tenure. Council members across the board expressed concern that budgetary growth is not remotely keeping pace with demographic reality.</p>
 <p>Infrastructure at older adult centers dominated much of the early discussion. Chair Zhuang introduced what she said would be a standing tradition of displaying photographs of deteriorating senior center conditions at every hearing, beginning with images of a NYCHA-based senior center with a large hole in the wall and interior flooding during rain. The commissioner acknowledged the problem and pledged to personally visit all 308 centers, prioritizing the worst-condition sites first. CM Mealy raised the specific case of the Throggs Neck senior center, closed for nearly two years due to HVAC and roof failures in a NYCHA building undergoing a PACT transition, leaving seniors temporarily displaced to a Boys and Girls Club they cannot use during summer. The commissioner acknowledged the need for hard decisions about swing space but offered no timeline. The broader structural problem — that NYC Aging is not a capital agency, that its capital projects are managed by DDC, HPD, EDC, and NYCHA, and that the agency has limited leverage over facilities it does not own — was a recurring theme throughout the hearing.</p>
 <p>Several substantive policy issues received detailed attention. CM Dinowitz pressed on the seven-day home-delivered meals program under Intro 280, with the cost figure corrected during the hearing from a mistakenly cited $300 million to the actual $27.7 million, prompting CM Hudson to note on the record that this should make funding more achievable. CM Hudson also raised concern about the proliferation of private for-profit social adult daycare centers drawing Medicaid-eligible older adults away from city-funded centers. CM Brewer focused on case management, establishing that the current caseload ratio is 164 cases per worker against a Council-recommended target of 65, with 455 people on the waiting list for full case management services. She also raised SCRIE enrollment gaps, with Chair Zhuang noting that only 42 percent of eligible older adults have applied for the benefit. The issue of seniors not knowing that meals at older adult centers are voluntary contributions rather than required payments surfaced as an embarrassingly basic communications failure that the commissioner acknowledged should be addressed. CM Aldebol raised homelessness among older adults as a growing crisis. Chair Zhuang raised SNAP benefit theft via skimming as a severe and recurring problem disproportionately affecting seniors, particularly those with limited English and limited technology skills, with the state budget's proposed chip card transition noted approvingly by the committee. The RFP for OAC contracts, originally expected by end of calendar year 2025, will now be released in fall 2027 with contracts starting July 2027, and currently does not include expansion capacity, though the commissioner indicated she would review this.</p>
-<h3>Action Points</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>NYC Aging Commissioner to personally visit all 308 older adult centers, prioritizing worst-condition sites, and to invite Chair Zhuang to accompany her on those visits.</li>
 <li>NYC Aging to provide committee with documentation on the $27.1 million cost and procurement process for the agency's headquarters relocation to 14 Wall Street.</li>
@@ -102,7 +102,7 @@
 <li>NYC Aging to evaluate the OAC RFP currently scheduled for fall 2027 release for potential expansion of capacity, particularly in underserved areas lacking senior centers.</li>
 <li>NYC Aging to support state-level advocacy for SNAP chip card technology transition and a victim compensation fund for benefit theft, and to report back to committee on its formal position.</li>
 <li>NYC Aging to bring back new needs funding requests not included in the FY27 preliminary budget for committee review once the commissioner has had adequate time to assess the agency.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -1071,6 +1071,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

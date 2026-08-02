@@ -83,7 +83,7 @@
 <p>Chair Sanchez pressed HPD on enforcement mechanisms and tenant protections, with officials confirming that shared housing tenants would have individual leases, access to right to counsel in evictions, and rent stabilization protections where applicable. HPD anticipates the units will primarily serve young professionals and new New Yorkers, though they emphasized this won't replace family-sized housing since existing apartments cannot be converted. The committee also examined Int 0071 requiring property owners to replace city trees damaged by scaffolding, with Parks Department representative Matt Doyle noting that tree replacement costs several thousand dollars and incidents affect roughly 100-150 trees annually out of 670,000 citywide.</p>
 <p>A significant portion focused on Int 0271, which would require HPD to initiate Article 7-A proceedings for properties with vacate orders. This stemmed from Chair Sanchez's frustration with a recent fire response in her district at 2264 Grand Avenue, where communication breakdowns left displaced tenants in sub-zero temperatures without clear guidance. HPD Deputy Commissioner pushed back against mandatory 7-A proceedings, arguing they're excessive for most cases where owners comply reasonably, though acknowledging stronger tools are needed for bad actors like those behind the Wallace Avenue and Heath Avenue building disasters.</p>
 <p>The committee also reviewed three other bills: Int 0271 expanding tenant relocation services after vacate orders, Int 0418 creating in-person housing portal assistance programs, and Int 0427 addressing affordable housing re-rentals. HPD indicated they're actively reviewing stakeholder feedback on re-rental processes as a temporary waiver expires in April, while acknowledging overwhelming demand for housing ambassador services that currently have six-month wait lists in some council offices.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Shared housing can reduce development costs by more than 40% per bedroom compared to traditional apartment conversions.</li>
 <li>Studio apartments in Manhattan cost approximately $4,000 per month.</li>
@@ -99,7 +99,7 @@
 <li>HPD's temporary re-rental waiver expires in April 2026.</li>
 <li>The shared housing law would take effect January 1, 2027.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>HPD to follow up with committee on how shared housing units count toward good cause protection thresholds.</li>
 <li>HPD to clarify whether shared housing units qualify as individual units for good cause calculations.</li>
@@ -107,7 +107,7 @@
 <li>DOB to follow up with enforcement team details on compliance tracking for buildings with frequent safety violations.</li>
 <li>HPD and Chair Sanchez to continue discussions about the Grand Avenue fire response breakdown.</li>
 <li>Parks Department and DOB to work with City Council on tree protection measures for scaffolding projects.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -337,6 +337,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

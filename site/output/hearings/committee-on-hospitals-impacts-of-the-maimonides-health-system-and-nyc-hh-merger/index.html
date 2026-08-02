@@ -82,7 +82,7 @@
 <p>The Committee on Hospitals held an oversight hearing on the proposed merger between NYC Health + Hospitals (H+H) and Maimonides Health System, scheduled to close April 1, 2026. Dr. Mitchell Katz, CEO of H+H, testified that the merger is driven by Maimonides' financial distress and the immediate $9 million monthly benefit from higher Medicaid reimbursement rates available only to public hospitals. The state is providing $2.2 billion over five years: $500 million for capital improvements (with the maternity ward as top priority), $1.5 billion for operations, and $200 million in loan forgiveness.</p>
 <p>Katz emphasized this is not a "takeover" but a partnership to fix two core problems: Maimonides' deficit and their antiquated record-keeping system using five different electronic health records plus paper charts. H+H will implement Epic across Maimonides over 15 months, giving patients real-time access to their medical information through MyChart. The hospital will retain the Maimonides name and cultural identity, including kosher food and Orthodox Jewish accommodations that serve the diverse Brooklyn community.</p>
 <p>Employment structures will remain largely unchanged. Unionized staff will continue with their current employer entity, while only top leadership positions (CEO, CMO, CNO) will transfer to H+H employment. Svetlana Lekaya will become the new CEO. Seven board members have filed a lawsuit challenging the merger, though no restraining order exists. Committee members pressed on cultural sensitivity, staffing impacts, and service continuity, with Katz repeatedly assuring that successful operations won't be changed and that H+H operates as a federation respecting each hospital's community character.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>H+H eliminated a $2 billion deficit over 8 years under Katz's leadership.</li>
 <li>Maimonides will gain $9 million monthly in additional Medicaid reimbursements immediately upon merger.</li>
@@ -96,7 +96,7 @@
 <li>H+H serves 360,000 primary care patients system-wide.</li>
 <li>Maimonides currently uses more than 5 different electronic health record systems.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>H+H to extend Epic electronic health record system to all Maimonides patients and providers.</li>
 <li>H+H to prioritize maternity ward renovation as the top capital project using state funding.</li>
@@ -106,7 +106,7 @@
 <li>H+H to follow City MWBE contracting rules for all future Maimonides contracts.</li>
 <li>H+H to provide language interpretation services and translated materials consistent with H+H standards.</li>
 <li>Maimonides board to complete required paperwork submissions to Attorney General and State Department of Health for asset transfer approval.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -512,6 +512,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

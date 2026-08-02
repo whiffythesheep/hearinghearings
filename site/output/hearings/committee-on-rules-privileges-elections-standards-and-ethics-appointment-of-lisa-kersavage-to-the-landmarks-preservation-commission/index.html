@@ -83,7 +83,7 @@
 <p>Kersavage's opening statement framed her priorities as: balancing housing production with historic preservation, advancing equitable representation in designations, improving sustainability permitting, supporting small property owners, and modernizing agency technology. Her tone throughout was notably pro-housing for an LPC nominee, repeatedly emphasizing that the Commission has decades of experience approving new buildings and adaptive reuse within historic districts, and that housing and preservation are not inherently in conflict. She expressed enthusiasm for LPC's new permitting software, Portico, and flagged a broader technology overhaul underway. On the contested West Park Presbyterian Church hardship application, she declined to comment substantively given she may vote on it as chair, but confirmed it is undergoing extensive review.</p>
 <p>Council Members raised a range of substantive concerns. Deputy Speaker Williams pressed Kersavage on the Merchants House case, where adjacent development risks damaging a building now believed to have been an Underground Railroad stop, and on the broader erasure of Black history. Kersavage acknowledged the significance, noted LPC had required ten protective conditions on the prior approval, and pointed to a Brooklyn abolition trail LPC developed. CM Carr raised the Ernest Flagg Estate as an example of development compromising a landmark site whose significance extended beyond just the designated structures, and questioned whether LPC has adequate tools for that situation. Kersavage was candid that LPC is legally constrained to regulating only what is designated. CM Banks focused on NYCHA, East New York and Brownsville, asking whether LPC could play a broader role in preserving public housing and working-class neighborhood character; Kersavage said two NYCHA complexes are already designated and that the National Register is the more appropriate tool for broader public housing documentation. A somewhat comic exchange occurred around a Thomas Jefferson statue inside Thomas Jefferson High School, which DOE has apparently told students is landmarked and therefore cannot be removed; Kersavage expressed uncertainty about whether LPC actually regulates it at all, since interior landmarks are rare and she was not aware of any designated school interiors. CM Brewer, who originally landmarked West Park Presbyterian, gave an energetic if digressive contribution on the need for creative financing for religious institutions and for LPC to proactively identify new historic districts without requiring communities to fund their own research. Kersavage agreed communities should not have to fund designation research and said LPC's own research department can and does lead that work.</p>
 <p>Public testimony was uniformly supportive of the nomination. The Historic Districts Council, Landmark West, the New York Landmarks Conservancy, Friends of the Upper East Side, and two individual preservation professionals all endorsed Kersavage. Recurring themes in public testimony included: the dramatic drop in designations under the Adams administration and the loss of significant sites like the Pennsylvania Hotel and 270 Park Avenue; the need for faster and more responsive evaluation processes before at-risk sites are demolished; the importance of covering underrepresented neighborhoods including East Harlem, East New York, Parkchester, Astoria and the Lower East Side; and the argument that historic districts cover less than 5% of the City's land area and therefore are not a meaningful constraint on housing production citywide. Landmark West raised the vulnerability of Lincoln Center and Amsterdam Houses as unprotected significant sites on the Upper West Side.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>LPC issues approximately 12,000 permits per year.</li>
 <li>Approximately 95% of LPC permits are approved at staff level without a public hearing.</li>
@@ -106,7 +106,7 @@
 <li>CM Brewer's office landmarked approximately 850 buildings along West End Avenue.</li>
 <li>Individual landmark designations currently take approximately three to six months from calendaring to designation; historic district designations take approximately four months to one year.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>Kersavage to provide CM Banks with a complete list of designated NYCHA developments once confirmed as chair.</li>
 <li>LPC to investigate and confirm to CM Banks whether the Thomas Jefferson statue at Thomas Jefferson High School is actually subject to LPC regulation, and to report back with accurate information.</li>
@@ -123,7 +123,7 @@
 <li>LPC to consider rule amendments to streamline permitting for ADUs in historic districts as applications begin to come in, anticipating work on ancillary structures such as garages.</li>
 <li>LPC to consider rule amendments to expedite permit review for small property owners undertaking routine maintenance and repair work on landmarked buildings.</li>
 <li>LPC to continue and expand district-by-district outreach sessions on permits and financial assistance, in partnership with the Landmarks Conservancy and other nonprofits.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -555,6 +555,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>

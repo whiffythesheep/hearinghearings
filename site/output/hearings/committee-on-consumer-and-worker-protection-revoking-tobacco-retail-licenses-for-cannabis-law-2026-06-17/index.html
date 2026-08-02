@@ -83,7 +83,7 @@
 <p>All public testimony was supportive of the Bill, coming exclusively from licensed cannabis retailers and cannabis community advocates. The witnesses painted a consistent and damning picture: they had spent years and significant capital navigating a demanding licensing process — in several cases as part of the social equity program explicitly designed to benefit people with prior cannabis convictions — only to find themselves competing against illegal operators who face essentially no meaningful consequences. These operators use tobacco, vape, and CBD/cannabinoid hemp licenses as legal cover to sell unlicensed cannabis products in plain sight, often with better signage and lower prices than their licensed competitors, and sometimes directly across the street from schools or licensed dispensaries.</p>
 <p>Several themes dominated the discussion beyond the narrow scope of the Bill itself. Witnesses repeatedly flagged that the Bill as drafted covers only tobacco retail licenses and urged its expansion to also cover electronic cigarette and cannabinoid hemp retail license categories, which are being used in the same way. There was also extensive discussion of the "whack-a-mole" problem: even when enforcement actions succeed, illegal shops reopen quickly, sometimes in the same location, by transferring licenses to family members or obtaining new ones. Witnesses and the chair both identified landlord accountability as an underused lever — landlords profit from higher rents paid in cash by illegal operators and currently face no real penalty, despite an existing but apparently unenforced initiative to hold them responsible. Witnesses also described illegal operators gaming enforcement by adjusting their hours to avoid raids, then getting cases dismissed in court on technicalities. One witness noted that a successful enforcement sweep produced an immediate spike in legal dispensary sales, suggesting enforcement works when sustained — the frustration being that it rarely is.</p>
 <p>The most substantively useful testimony came from operators including Vanessa Chang of the Cannabis Retail Alliance of New York, Roland and Patricia Connor of Smack Village, and Cosmo Mart of the Cannabis Retailers Association of New York, all of whom combined first-hand operational experience with specific policy suggestions. One witness's testimony descended into racialised generalisations about crime that the chair did not engage with substantively, which was probably the right call. No votes were taken; this was a legislative hearing to build the record for the Bill.</p>
-<h3>Numbers</h3>
+<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>New York City capped tobacco retail dealer licenses in 2018 and is reducing the total number by 50% of licenses previously issued to distributors citywide.</li>
 <li>Chair Epstein's office worked with the sheriff two years ago to shut down 72 illegal cannabis shops in his district.</li>
@@ -102,7 +102,7 @@
 <li>The Cannabis Retailers Association of New York represents approximately 50 retailers across New York State.</li>
 <li>Licensed dispensaries are subject to federal 280E tax treatment, a significant financial burden not faced by illegal operators.</li>
 </ul>
-<h3>Action Points</h3>
+</div></details><details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Action Points</summary><div class="summary-section-body">
 <ul>
 <li>CM Epstein to explore amending Int 0813-2026 to extend license revocation and suspension powers to electronic cigarette and cannabinoid hemp retail license categories, in addition to tobacco retail licenses.</li>
 <li>CM Epstein to receive specific location information from Smack Village (Roland and Patricia Connor) regarding illegal cannabis shops near their dispensary, including one reported to be directly across the street from an elementary school.</li>
@@ -111,7 +111,7 @@
 <li>CM Epstein to look into strengthening or activating existing but unenforced landlord accountability provisions as a complement to Int 0813-2026.</li>
 <li>Committee to consider whether the Bill or related legislation should address license transfer mechanisms that allow illicit operators to reopen quickly after closure by transferring licenses to family members.</li>
 <li>Committee to consider enhanced education efforts to help both store owners and the public understand what cannabis-related licenses authorise, given testimony that some operators genuinely do not understand the limits of their CBD or hemp licenses.</li>
-</ul>
+</ul></div></details>
     </section>
 
     
@@ -355,6 +355,22 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Closed <details> render empty in print; open the summary sections
+    // for the PDF and restore them afterwards. Covers Ctrl+P too.
+    var openedForPrint = [];
+    window.addEventListener('beforeprint', function () {
+        openedForPrint = [];
+        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        for (var i = 0; i < closed.length; i++) {
+            closed[i].open = true;
+            openedForPrint.push(closed[i]);
+        }
+    });
+    window.addEventListener('afterprint', function () {
+        for (var i = 0; i < openedForPrint.length; i++) openedForPrint[i].open = false;
+        openedForPrint = [];
+    });
 </script>
 
 </body>
