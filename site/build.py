@@ -90,8 +90,8 @@ def parse_front_matter(text):
     return meta, match.group(2).strip()
 
 
-SECTION_LABELS_STRIP = {"Summary"}
-SECTION_LABELS_H3 = {"Meeting Overview", "Numbers", "Action Points"}
+SECTION_LABELS_STRIP = {"Summary", "Meeting Overview"}
+SECTION_LABELS_H3 = {"Numbers", "Action Points"}
 SECTION_LABELS_COLLAPSE = {"Numbers", "Action Points"}
 
 
@@ -99,9 +99,11 @@ def promote_section_headings(md_text):
     """Convert bare section-label lines (e.g. 'Numbers') to markdown headings.
 
     The summarizer emits these as plain paragraphs. Promote subsection labels
-    to h3 so templates can style them. The literal 'Summary' line is dropped —
-    the template renders the Summary heading itself (so it can pair with a
-    download button alongside).
+    to h3 so templates can style them. 'Summary' and 'Meeting Overview' are
+    dropped instead — the template's own "Meeting overview" heading covers
+    both (and pairs with the download button alongside), leaving the overview
+    prose directly beneath it. The bare labels stay in the source markdown,
+    which is what weekly_digest.py parses.
     """
     out_lines = []
     for line in md_text.split("\n"):
