@@ -44,6 +44,14 @@ SEARCH_EXAMPLE_CANDIDATES = [
     "composting",
     "rats",
     "affordable housing",
+    "Local Law 97",
+    "Rikers",
+    "Fair Fares",
+    "City of Yes",
+    "sidewalk sheds",
+    "Coney Island",
+    # Curiosities (verified present, 2026-08-02)
+    "animals are people",
     # People (verified present in the corpus, 2026-08-01; order is
     # irrelevant — the client shuffles before rotating)
     "Mamdani",

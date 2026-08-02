@@ -1534,7 +1534,7 @@
            Prebuilt inverted index under /search/: docs.json (slugs, date
            ascending) + idx-<a-z|0>.json shards of {token: [[docIdx, count]]}.
            Tokenizer must match SEARCH_TOKEN_RE in site/build.py. */
-        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing", "Mamdani", "Julie Menin", "Hochul", "Trump", "NYPD", "NYCHA", "OMB", "DOT", "HPD", "MTA"];
+        var SEARCH_EXAMPLES = ["congestion pricing", "e-bikes", "CityFHEPS", "outdoor dining", "trash containerization", "artificial intelligence", "asylum seekers", "property tax", "school buses", "street vendors", "child care", "composting", "rats", "affordable housing", "Local Law 97", "Rikers", "Fair Fares", "City of Yes", "sidewalk sheds", "Coney Island", "animals are people", "Mamdani", "Julie Menin", "Hochul", "Trump", "NYPD", "NYCHA", "OMB", "DOT", "HPD", "MTA"];
         /* Decimal/comma/dollar/percent aware, mirroring SEARCH_TOKEN_RE in
            build.py: "." or "," continues a token only when a digit follows
            ("12,000" is one token, "2026, 300" splits); "$" attaches only
@@ -2193,7 +2193,7 @@
                 examples[sj] = stmp;
             }
             var exampleIdx = 0;
-            var FADE_MS = 240; // keep in sync with the ::placeholder transition
+            var FADE_MS = 140; // keep in sync with the ::placeholder transition
             var setExample = function () {
                 searchInput.placeholder = 'try "' + examples[exampleIdx % examples.length] + '"';
                 exampleIdx++;
@@ -2206,7 +2206,7 @@
                     if (document.activeElement !== searchInput && !searchInput.value) setExample();
                     searchInput.classList.remove('placeholder-fade');
                 }, FADE_MS);
-            }, 3500);
+            }, 2000);
         }
 
         readURL();

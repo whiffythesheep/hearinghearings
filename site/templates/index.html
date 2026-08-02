@@ -924,7 +924,7 @@
                 examples[sj] = stmp;
             }
             var exampleIdx = 0;
-            var FADE_MS = 240; // keep in sync with the ::placeholder transition
+            var FADE_MS = 140; // keep in sync with the ::placeholder transition
             var setExample = function () {
                 searchInput.placeholder = 'try "' + examples[exampleIdx % examples.length] + '"';
                 exampleIdx++;
@@ -937,7 +937,7 @@
                     if (document.activeElement !== searchInput && !searchInput.value) setExample();
                     searchInput.classList.remove('placeholder-fade');
                 }, FADE_MS);
-            }, 3500);
+            }, 2000);
         }
 
         readURL();
