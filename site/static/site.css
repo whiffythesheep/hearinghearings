@@ -811,7 +811,7 @@ body.desktop {
 .hearing-controls__search::placeholder {
     color: var(--text-muted);
     opacity: 1;
-    transition: color 240ms steps(4, end);
+    transition: color 140ms steps(4, end);
 }
 
 .hearing-controls__search.placeholder-fade::placeholder {
