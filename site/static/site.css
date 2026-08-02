@@ -540,6 +540,17 @@ body.desktop {
     margin-bottom: 0.5rem;
 }
 
+/* The title is a home link that resets search, filters and pagination.
+   Looks identical to plain text; accent on hover matches .back-link. */
+.intro-block h1 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.intro-block h1 a:hover {
+    color: var(--accent);
+}
+
 .intro-block .intro-subtitle {
     font-family: var(--font-chrome);
     font-size: 0.9rem;
