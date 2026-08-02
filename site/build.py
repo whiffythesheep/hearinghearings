@@ -56,7 +56,7 @@ SEARCH_EXAMPLE_CANDIDATES = [
     # irrelevant — the client shuffles before rotating)
     "Mamdani",
     "Julie Menin",
-    "Hochul",
+    "Kathy Hochul",
     "Trump",
     # Agencies / departments (same)
     "NYPD",
