@@ -7,6 +7,7 @@ slug: committee-on-sanitation-and-solid-waste-management-legislation-on-commerci
 duration: "1hr 17m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260701-104102.mp4"
+viebit_hash: "fPK6nvl1TSE5w5nA"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1425982&GUID=1BD0C5DF-EB76-4E53-A1AA-1E852B28E581&Search="
 chairs: "Justin E. Sanchez"
 members: "Shahana K. Hanif, Ty Hankerson, Farah N. Louis, Virginia Maloney, Kayla Santosuosso, Shanel Thomas-Henry, Sandra Ung, Inna Vernikov, Carl Wilson, Susan Zhuang"

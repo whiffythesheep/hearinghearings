@@ -7,6 +7,7 @@ slug: committee-on-finance-fy-2027-executive-budget-hearing
 duration: "5hrs 56m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260526-100341.mp4"
+viebit_hash: "PLhac7DaQHAEZuU0"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415339&GUID=006338CA-B624-4AAF-91C0-A09562189568&Search="
 chairs: "Linda Lee | Susan Zhuang | Nantasha M. Williams"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"

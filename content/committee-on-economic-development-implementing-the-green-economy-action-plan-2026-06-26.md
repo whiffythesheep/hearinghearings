@@ -7,6 +7,7 @@ slug: committee-on-economic-development-implementing-the-green-economy-action-pl
 duration: "2hrs 22m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260626-130751.mp4"
+viebit_hash: "W6p7TiBbmtfV7iQb"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1421781&GUID=F55EA37B-EFE6-4CC0-ACE9-4DFC011A2801&Search="
 chairs: "Virginia Maloney | Julie Won"
 members: "Alexa Avilés, Chris Banks, Amanda C. Farías, Jennifer Gutiérrez, Kevin C. Riley, Shanel Thomas-Henry"

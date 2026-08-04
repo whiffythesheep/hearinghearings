@@ -7,6 +7,7 @@ slug: committee-on-governmental-operations-state-federal-legislation-pay-raises-
 duration: "41m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260707-101359.mp4"
+viebit_hash: "3RvZaxiXTzK9B2bp"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1426436&GUID=1F80833C-787E-48AA-BFF6-C1498830A89B&Search="
 chairs: "Gale A. Brewer"
 members: "Eric Dinowitz, Oswald J. Feliz, Frank Morano, Althea V. Stevens, Carl Wilson, Susan Zhuang"

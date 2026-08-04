@@ -7,6 +7,7 @@ slug: committee-on-finance-executive-budget-hearing-2026-06-09
 duration: "1hr 34m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260609-154856.mp4"
+viebit_hash: "mubSMRM4CL3XWL59"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415399&GUID=0A2A6C43-DA15-4DC0-B441-70A881A4A9EA&Search="
 chairs: "Linda Lee"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"

@@ -7,6 +7,7 @@ slug: committee-on-consumer-and-worker-protection-prohibiting-surveillance-prici
 duration: "1hr 57m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260617-100106.mp4"
+viebit_hash: "bfp7mdQ1bftaUVvP"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417024&GUID=7749C1B4-9E50-4140-BFBD-3CB7F8073D4C&Search="
 chairs: "Harvey D. Epstein"
 members: "Shirley Aldebol, Joann Ariola, Chris Banks, Gale A. Brewer, Carmen N. De La Rosa, Kamillah Hanks, Shekar Krishnan, Chi A. Ossé, Lynn C. Schulman, Carl Wilson"

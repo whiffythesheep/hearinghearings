@@ -7,6 +7,7 @@ slug: committee-on-rules-privileges-elections-standards-and-ethics-appointment-o
 duration: "1hr 35m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260506-103429.mp4"
+viebit_hash: "WWGJO7z1HgjnpDNk"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1409385&GUID=638BE2F1-EC0A-4675-951B-929EFD4209E1&Search="
 chairs: "Sandra Ung"
 members: "Shaun Abreu, Chris Banks, David M. Carr, Elsie Encarnación, Shekar Krishnan, Linda Lee, Kevin C. Riley, Nantasha M. Williams"

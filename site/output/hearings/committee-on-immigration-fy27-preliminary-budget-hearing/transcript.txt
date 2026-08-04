@@ -5,11 +5,11 @@ Video: https://www.youtube.com/watch?v=PGagE0cKXJ0
 
 ================================================================
 
-(00:00:10) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=10s
+(00:00:10)
 
 New York City Council testimony.
 
-(00:08:27) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=507s
+(00:08:27)
 
 Good afternoon and thank you all for being here today. I am CM Elsie Encarnación, chair of the Committee on Immigration. Welcome to today's hearing on the City's fiscal 2027 preliminary budget. Before we begin, I would like to thank those who have joined us and acknowledge that I am joined here by CM Schulman. Thank you.
 
@@ -25,7 +25,7 @@ I also want to take the opportunity to say that the committee and I are looking 
 
 Lastly, I would like to thank the committee staff — the dream team here — Florentine Kabor, Na'vi Baines, Nicole Kata, Rebecca Baha, as well as my staff Stephanie Herrera and Adam Bernstein for their commitment and hard work. And as always, the amazing sergeant-at-arms that help us get through the day. Before we hear from Faiza Ali, the commissioner of the Mayor's Office of Immigrant Affairs and her team, the committee will swear you in.
 
-(00:14:13) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=853s
+(00:14:13)
 
 Good afternoon. Thank you to Chair Encarnación, members of the immigration committee, as well as chairs Lee and Deputy Speaker Nantasha Williams, who I know are diligently across the street talking to our colleagues at OMB. I also want to extend my thanks and gratitude to the Committee on Finance for the opportunity to testify today.
 
@@ -55,11 +55,11 @@ Finally, MOYA's community engagement work creates pathways for immigrants to nav
 
 Finally, I wish to thank the City's hard-working public servants who have responded to the needs of both recently arrived and long-standing immigrant New Yorkers. And thank you, of course, to our chair Encarnación, members of the Committee on Immigration and Finance for calling today's hearing. I look forward to working with the Council to fund and strengthen the programs that serve our immigrant communities, who are indeed the backbone of our City. Thank you.
 
-(00:27:09) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=1629s
+(00:27:09)
 
 Thank you, Commissioner. I would like to acknowledge CM Gale Brewer for joining us and give the opportunity for our public advocate to say a few words.
 
-(00:27:20) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=1640s
+(00:27:20)
 
 Thank you, Madam Chair. As mentioned, my name is Jamani Williams, Public Advocate of the City of New York. I would like to thank Chair Encarnación and Lee and the members of the committees for holding this important hearing. Chair Lee, it is always great to see you. It makes me smile, as well as having an administration that will actually let you do your job. So I am very excited about that.
 
@@ -75,7 +75,7 @@ Last year, Mayor Adams and the City Council nearly doubled the amount budgeted f
 
 MOIA also offers connections to a range of services for immigrant New Yorkers that are now more critical than ever, including English classes, mental and medical health care, food and housing assistance, and IDNYC cards. This is crucial in ensuring that immigrant New Yorkers can support themselves and their families and integrate into their new communities, as many have done before them. With many avenues for federal assistance cut off or too risky to apply for, City support can fill those gaps. A budget is a moral document. We have to step up where the federal government has stepped back. City agencies are for the people who live and work in New York.
 
-(00:30:38) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=1838s
+(00:30:38)
 
 City not to serve dubiously legal, dangerous and wasteful immigration enforcement operations. Every person in our city and in our country has an inalienable human civil right. We cannot let the inhumanity of the president erode our own humanity. Now we are even more concerned with ICE agents at our airports trying to take over from TSA agents who have not been paid in a while. All this is only getting increasingly terrifying and I am hoping the city can do even more to address that fear. Thank you.
 
@@ -177,7 +177,7 @@ I am going to go to one last topic before I open up to my colleagues who are her
 
 >> So our sanctuary city laws are limited to city agencies and how we cooperate with immigration enforcement and the limitations around that. I will say that we are concerned with the reports that we are hearing of ICE agents that have been confirmed at airports. In fact, MOYA did release an advisory just yesterday to inform travelers on what to expect and to provide tips on how to travel safely if they are at the airports.
 
-(00:53:58) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=3238s
+(00:53:58)
 
 And I would like to see community based organizations that know about some of these people who were traveling or having plans to or whatever, because we do not want people to fall through the cracks.
 
@@ -319,7 +319,7 @@ Well, thank you very much for this. Chair, thank you so much.
 
 Of course. Thank you. I know that a lot of the conversation has been around those inter-agency conversations and task force conversations. Is there a quality check that MOYA does to see that that information has trickled down to the people that are on the ground and that those conversations...
 
-(01:17:01) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=4621s
+(01:17:01)
 
 And the things that those agencies have said that they are going to give information on — that that is actually reaching the people that are facing our immigrant communities.
 
@@ -445,7 +445,7 @@ So it is $500,000 per library system. $200,000 is what we started out with and t
 
 Yeah. So this is for FY26. For FY27, as I mentioned earlier, we did get an additional $1.5 million that has been baselined for this program. So for FY27 we are looking at about $2.1 million baseline for English learning and support centers. We are still in the process of figuring out how all of that funding will be allocated. And just very briefly, to go back to your question about the RFP: the libraries were designated this funding when we first launched this program because we had already had a partnership with them to provide programming. This also allowed us to meet the demand for the asylum seeker community that...
 
-(01:40:22) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=6022s
+(01:40:22)
 
 That was asking for all of these classes to be readily available throughout the city. So it did allow us as an office to meet that demand. Now that we have baseline funding, we are going to be evaluating all of our programs and then making an assessment, short-term and long-term, in terms of allocations.
 
@@ -581,7 +581,7 @@ There is no denying that a year and a half into Trump's second term, his adminis
 
 In recognition of this, sanctuary protections have been embedded into the fabric of our city since the 1980s. Both Republican and Democratic mayors have recognized that communities are safer when immigrants do not fear reporting crime to the police. Similarly, communities are healthier when all who reside within them can access health care, and financially sound when there are diverse job opportunities and strong worker protections. With over 3...
 
-(02:15:45) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=8145s
+(02:15:45)
 
 With millions of immigrants calling New York City home and many more living in mixed status households, the City must ensure immigrants feel safe accessing city services. The Council has an exemplary record of taking strong legislative action to protect their rights and ensure that city agencies and law enforcement can focus on their primary duty: ensuring the safety and well-being of our City. To that end, the Council under the leadership of the previous Council speaker passed legislation that prohibits local law enforcement from entering into 287G agreements, which would allow them to cooperate with ICE on civil immigration enforcement. Additional laws ensure that city resources and time are not used in support of federal immigration enforcement, including by prohibiting ICE access to Rikers Island. We also passed detainer laws that protect immigrants' due process rights by ensuring that the NYPD, Department of Correction and Department of Probation only honor detainer requests when they are accompanied by a judicial warrant. And we set a national standard by investing millions to fund legal and other services that provide a critical safety net, one which has only expanded since then, thanks to the leadership of our New York City Council.
 
@@ -593,10 +593,10 @@ So to meet this moment with the urgency it demands — something that many advoc
 
 We know that New York City is going to be on the front lines of that. At a time when immigrant communities are being targeted and tested at every level, our response must be equally intentional. We have led before and we must continue to lead now, not only by defending our policies but by strengthening the systems that make them real in people's lives. So gracias, thank you for inviting me here today, and I appreciate the opportunity.
 
-(02:19:48) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=8388s
+(02:19:48)
 
 Thank you, and thank you for coming. Obviously, for those of you who do not know, I served under her when she was a council member — not as speaker — for six years, and saw her do this work day in and day out from the day she stepped into office to the day I left her office. I am proud to be here as one of the people that she has really grown into this space, and I hope that I make her proud in the work that I do here today and that I carry on. So all of you will witness that this is mentorship. This is what happens when you really do the work, not just for the whole city, but when you really look at your community and look at people who can take on the work and champion it moving forward, because the work never stops and we need good people at the forefront. So thank you so much for that.
 
-(02:20:42) https://www.youtube.com/watch?v=PGagE0cKXJ0&t=8442s
+(02:20:42)
 
 I just want to say to the people in this room: it is the work that you do that gives us the ability to be successful in the work that we accomplish. The detainer laws that we talk about that we have in the City of New York, getting ICE out of Rikers — that only came out of the advocacy of some of the groups who, when they met with me, said, "This is happening in our city. We need to respond." So please, I know the times are tough and things get difficult, but the work that you do does make a difference and it impacts people's lives. So thank you for that.

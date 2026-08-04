@@ -5,17 +5,17 @@ Video: https://www.youtube.com/watch?v=ja2C5yDXoYQ
 
 ================================================================
 
-(00:00:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=25s
+(00:00:25)
 
 Please quiet down. At this time you will be asked to leave the room. Moving forward, no one is to approach the dais. The chair is ready to begin.
 
-(00:04:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=292s
+(00:04:52)
 
 Good morning. Welcome to today's Committee on Consumer and Worker Protection hearing on Int 0518-2026, sponsored by CM Cabán, requiring the last mile facilities. My name is Harvey Epstein, the chair of the committee. I am joined by my colleagues CM Aldebol and CM Cabán. Each weekday approximately 7,800 vehicles travel throughout the five boroughs to transport more than 2.4 million packages to consumers. These vehicles generally pick up packages from the last mile facilities, warehouses and transfer stations where parcels are sorted and loaded on vehicles for delivery and delivered to consumers. In January 2024, there were approximately 50 last mile facilities greater than 50,000 square feet in New York City. The high volume of last mile delivery combined with the demand for speed creates conditions for street safety and worker health and safety issues. A published report from the office of the New York State Comptroller in November of 2025 found that the arrival of last mile facilities in an area is correlated with increased traffic incidents, increased injuries and crashes. The Comptroller's office also found that workers in last mile facilities were injured more frequently and more seriously than those in courier industries generally.
 
 The street safety and worker health and safety issues in last mile facilities are impacted by a high rate of turnover among last mile workers and subcontracting employment models used by some last mile facilities, such as Amazon delivery service partner programs. A high turnover industry means workers have less training and on the job experience. The Comptroller's office found that the Amazon delivery service partners operating in the city have higher rates of both injuries and injuries that result in time away from work or modified work duties than other last mile facilities in general. Int 0518-2026 would require operators of last mile facilities to obtain a business license from the Department of Consumer and Worker Protection. License holders would be required to directly employ core delivery and warehouse workers and meet training and safety requirements. I look forward to feedback on this legislation from the Department of Consumer and Worker Protection, last mile operators, delivery service companies, as well as the public at large. I would like to give over to CM Cabán for an introduction.
 
-(00:07:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=439s
+(00:07:19)
 
 Thank you, Chair. Good morning. Our lives, our workplaces, and our streets have been fundamentally transformed by e-commerce and the ability to order virtually anything and have it on our doorsteps within hours. And in many ways, it has made our life easier. I can order food for my dog or dish soap or a new pair of shoes without needing to leave my apartment. And it is a godsend for folks who, for a variety of reasons, cannot make the journey to a store. All of us have had how we buy things transformed by this change. And this year alone, we expect over a billion packages to be delivered within New York City. And yet our regulations have not kept up with the shift in how goods get to us.
 
@@ -25,11 +25,11 @@ So as the lead sponsor of the Bill, I also get communications from folks impacte
 
 I am concerned that drivers face retaliation unless they participate in opposition to this Bill. And I am here with a simple proposition. New Yorkers need good jobs where they are treated with respect. New Yorkers deserve safe streets. And my Bill would make New Yorkers, including workers, safer. It would require licensing for last mile facilities, direct employment of drivers, protection against unfair termination and retaliation, and real worker training. We have an outpouring of support from workers, unions, environmental groups, and traffic safety organizations. I look forward to hearing from those most directly impacted by this industry during today's hearing as we move toward passing this essential legislation. Thank you, Chair.
 
-(00:11:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=677s
+(00:11:17)
 
 Thank you, CM Cabán. Now I would like to welcome the administration for being here and we will be hearing directly from them. Carlos Ortiz, Michael Tiger, and Emily Hoffman. Could the council swear them in.
 
-(00:11:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=704s
+(00:11:44)
 
 Good morning, Chair Epstein and members of the Committee on Consumer and Worker Protection. My name is Carlos Ortiz, and I am the chief of staff and deputy commissioner of external affairs at the Department of Consumer and Worker Protection. I am joined by our general counsel, Michael Tiger, and director of litigation in our office of labor policy and standards, Emily Hoffman. Thank you for the opportunity to testify before the committee today on Int 0518-2026. The New York City Department of Consumer and Worker Protection is the nation's leading municipal enforcement agency charged with delivering economic justice. DCWP leverages its authority to bring New Yorkers real economic relief and protect them from predatory, deceptive, and unfair practices that violate their rights as consumers and workers. This includes pioneering cutting edge protections such as the City's consumer protection law, Paid Time Off law, Fair Work Week law, and delivery worker laws, including the minimum pay rate for delivery workers. Through licensing more than 45,000 businesses in over 45 industries, DCWP ensures fair competition and a level playing field for responsible small businesses that are integral to New York City's vibrant communities. DCWP also provides essential services such as free tax preparation and financial counseling to ensure New Yorkers keep more of what they earn and can plan for their futures. DCWP is committed to making sure New York City is a fairer, more affordable place to live.
 
@@ -41,103 +41,103 @@ Even though last mile facilities subcontract work, they still maintain significa
 
 While we have concerns with certain provisions of the Bill, ultimately we believe this Bill will empower the agency to address these core economic justice issues on behalf of thousands of workers. We look forward to working with the Council for passage of this legislation. Thank you for the opportunity to testify before the committee on today's legislation. As always, we are eager to partner with the Council on legislation to improve protections for workers and prioritize economic justice in our City. I welcome any questions you may have for further discussion.
 
-(00:16:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=966s
+(00:16:06)
 
 Thank you. I want to recognize my colleagues CM Ossé and CM Avilés who have joined us today. I want to thank the administration for their testimony and the work they have done. Really, just in a few months, $9.3 million — just over three months into the year. So congratulations on that achievement. Thank you, Chair. I want to start by focusing on the Comptroller's report from the end of last year. I want to get a sense of whether you read it and what your assessment was of the fact-finding the Comptroller did around last mile facilities.
 
-(00:16:41) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1001s
+(00:16:41)
 
 Thank you for the question, Chair. Yes, we are familiar with the report and have reviewed it. I would start by saying perhaps that the agency does not necessarily have our own in-house expertise on certain traffic safety or workplace safety issues. But we were certainly concerned about the issues that were raised in the Comptroller's report. Certainly, I think from a holistic perspective of the administration, worker safety is important to consider in these situations.
 
-(00:17:07) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1027s
+(00:17:07)
 
 And they talked a lot about increased injuries, fatalities and increased traffic accidents. What is your assessment of that determination made by the Comptroller?
 
-(00:17:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1040s
+(00:17:20)
 
 Well, unfortunately, we at the Department of Consumer and Worker Protection do not have the data that aligns with that information, but we are happy to work with our partners in the police department and transportation to get you that information.
 
-(00:17:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1052s
+(00:17:32)
 
 Do you think that data is reliable based on the report that you have reviewed?
 
-(00:17:36) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1056s
+(00:17:36)
 
 I think from an administration perspective, we would like to rely on the data that DOT and NYPD might have, but I am sure there will be consistencies that we can find. Certainly it raises concerns that we should be looking into those safety issues as well as a city.
 
-(00:17:50) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1070s
+(00:17:50)
 
 Has this issue been flagged to you before around safety around DSP workers and these last mile facilities in general? With respect to industries and the subcontracting model, we are familiar with how that model can lend itself to workplace violations, lack of responsibility and appropriate liability for parent companies. Just last year we worked particularly under the Safe Hotels Act to address some similar issues that were arising because of the subcontracting model. So I think ultimately there are analogous issues arising there because of subcontracting, which is why I think this is a good Bill. Can you remind me and my colleagues of some of those issues that were brought up during the Safe Hotels Act and how they aligned with this legislation?
 
-(00:18:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1123s
+(00:18:43)
 
 Yes, thank you, Chair. I think at the time we had similar issues coming up with working conditions that were lagging behind what laws and rules were in place to protect workers, and that came from workers not knowing exactly who their employer was because the subcontracting model kind of shielded some of that responsibility and liability. And so I think we worked in that instance to also have a similar framework as this Bill to remove subcontracting in certain instances.
 
-(00:19:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1157s
+(00:19:17)
 
 And so you feel like the passage of the Safe Hotels Act has fixed some of the problems you were concerned about?
 
-(00:19:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1165s
+(00:19:25)
 
 I think the Safe Hotels Act is a strong piece of legislation. I see this as building off of that. Yes, I do.
 
-(00:19:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1175s
+(00:19:35)
 
 Do you think some of the problems we are experiencing today could be fixed through this legislative change?
 
-(00:19:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1182s
+(00:19:42)
 
 Yes, I think again the DCWP administration supports this legislation. We have seen and heard reports directly from workers and other stakeholders in the space. So the issues that are arising, we see this as a good step forward.
 
-(00:19:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1195s
+(00:19:55)
 
 Yeah. And I think just to add to that, I think generally as a matter of policy, as the worker protection agency in the City, we see it is generally important across industries to make sure the well-being, the pay, and the dignity of workers is protected. It is important that as much as possible the entity that is controlling their workplace environment is directly employing them. We find that preventing the severing of that connection is what is very important for workplace safety, workplace pay, workplace conditions and the general dignity of workers. So I think as a general cross-industry matter, this is something that is of great interest to the agency.
 
-(00:20:36) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1236s
+(00:20:36)
 
 Can I turn to workforce turnover and how that connects to safety? In the report by the Comptroller, it talked about how high worker turnover resulted in more injuries and more accidents. Do you have any information or data that supports that statement?
 
-(00:21:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1260s
+(00:21:00)
 
 I do not believe we have particular data on turnover in this industry. However, speaking about other industries, I think we have seen in fast food, security guards and delivery workers how turnover can be detrimental to making sure that the workforce itself is educated on their protections, educated on their job duties, and that they are gaining experience. I think the more turnover that happens, the less experience workers have, and that is a detrimental effect. And in this industry specifically, based on that Comptroller's report, there was discussion of high worker turnover. Based on that report and that information, is there anything that you have that contradicts that report?
 
-(00:21:51) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1311s
+(00:21:51)
 
 No. With respect to that, we do not have information that contradicts that report at this time. Great. I know we have colleagues here. I want to give some time. So I will turn to CM Cabán and then I want to recognize that CM Ariola is on Zoom with us.
 
-(00:22:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1329s
+(00:22:09)
 
 Great. Thank you. Thank you for being here today. Can you all talk in general terms about how the department sees the purpose of licensing an industry?
 
-(00:22:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1342s
+(00:22:22)
 
 Thank you for the question, Council Member. I do not necessarily... we certainly do not believe always that licensing is a panacea to every issue. Licensing, I think, has to be very intentional as a tool that we can utilize to address a particular activity and to give us the right resources that we need to address an issue that is arising. So I think we are very thoughtful about how we approach licensing. That said, I see this issue and this industry as a place where licensing is a key tool that we can utilize to ensure that other protections outlined in the Bill are enhanced. Let me throw to my colleague if he has anything to add.
 
-(00:23:02) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1382s
+(00:23:02)
 
 No, I think that is a very apt description of how we think about licensing in general, Council Member. As Carlos said, it does not necessarily work in every situation.
 
-(00:23:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1394s
+(00:23:14)
 
 But where there is an issue that the Council has identified that is affecting a large swath of the stakeholders that this agency is intended to protect, and there are specific regulations that can be put in place to advance important interests to protect workers or consumers, then using the licensing model as a way to make sure that there is compliance with regulations and that there is a stick behind the regulations — those are important considerations. But I want to underscore that we license 45,000 businesses and individuals in a whole host of different types of industries. So we have experience making this a process that works for businesses as well as the stakeholders we are intending to protect.
 
-(00:24:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1440s
+(00:24:00)
 
 Great. Thank you. By DCWP's read of the Bill, by your read of the Bill and based on your experience, are the application requirements for the license unusually or particularly onerous for companies? Because you just said you do this for 45,000 different entities, so comparing those licensing requirements with what is laid out in the Bill and your understanding of the Bill — what is your take?
 
-(00:24:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1465s
+(00:24:25)
 
 Thank you for the question, Council Member. We have not identified anything that is particularly onerous in the application process outlined in the Bill.
 
-(00:24:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1475s
+(00:24:35)
 
 That said, to my colleague's point, we do have a lot of expertise as it relates to standing up licensing regimes. We certainly could provide suggestions to make sure that we are creating an efficient and effective licensing process through streamlining of anything we can identify. We do take the feedback from industry seriously as bills advance towards adoption, to figure out a way that works for the agency operationally while not undermining the goals of the licensing scheme. So we do take that seriously and I think we can all collaborate
 
-(00:25:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1512s
+(00:25:12)
 
 with the Council and then hear from stakeholders about the best way to stand up that license. So, just to reiterate what you guys
 
-(00:25:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=1521s
+(00:25:21)
 
 Bring to the table is being able to say, "Hey, our goal is to maintain and encourage business in the city while also creating a regulatory scheme that protects people and finding that balance. Is that a fair description of what you guys just said?"
 
@@ -291,7 +291,7 @@ I think...
 
 Like I said, I am the last one in the...
 
-(00:48:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=2884s
+(00:48:04)
 
 I think this is a point of collaboration between the administration and the Council in terms of the definition that we are trying to capture, the activity that we are trying to address. Certainly some of the other companies that I have mentioned that are covered in that DCP report — my understanding is it did not include newspaper companies.
 
@@ -409,7 +409,7 @@ Okay, great. I think one of the things that we have seen is that while obviously
 
 I am sorry, Council Member. I do not believe we have that information on what local hiring practices are required of companies. I think this is one of the arguments that you will hear against...
 
-(01:10:15) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=4215s
+(01:10:15)
 
 Wanting to raise and improve conditions for workers is that there is going to be giant job losses in local communities that are directly impacted by these facilities. I just need to remind for the record there is no evidence of how much hiring has happened in communities, particularly in directly impacted communities that house a good number of these facilities. It has been a point of contention over many years. So it is important to be clear in the facts of the matter.
 
@@ -501,7 +501,7 @@ And what do you assess as the reason why you would see such a high injury ratio 
 
 Again, we did not do a causal analysis, but from our depth of experience I would say it is the pressure — the production pressure, the pressure to fill the trucks as fast as you can in these facilities and on the drivers to deliver as fast as you can. And you heard reference earlier to delivery...
 
-(01:32:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=5574s
+(01:32:54)
 
 Drivers peeing in bottles and taking shortcuts, as we all would do when we are under intense time pressure. But in this instance, that impacts our communities' traffic. It impacts obviously traffic violations and it burdens the workers who have to work at an incredibly fast clip to even try to make their quota, which puts their bodies at risk.
 
@@ -633,271 +633,271 @@ He can wrap it up soon if you know — I want to...
 
 In closing, I would like to just share a
 
-(01:58:37) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7117s
+(01:58:37)
 
 I noticed this week a story about Amazon work. Can we have a quorum here?
 
-(01:58:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7123s
+(01:58:43)
 
 Can you have everyone in the back just maintain decorum? You cannot stay in the room. I want to respect the speaker. Just finish it up, please.
 
-(01:58:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7132s
+(01:58:52)
 
 I have witnessed an Amazon delivery driver the same age as my daughter operating the vehicle with packages in the cab area, no seat belts on, side doors open. This is a recipe for disaster. It is absolutely indispensable for this bill to be passed for the sake of the quality of life for all of us. Thank you.
 
-(01:59:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7152s
+(01:59:12)
 
 Thank you. I have questions for this panel. CM Cabán.
 
-(01:59:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7156s
+(01:59:16)
 
 Yes. Thank you. David, you still with us online?
 
-(01:59:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7159s
+(01:59:19)
 
 Yes, I am.
 
-(01:59:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7160s
+(01:59:20)
 
 Amazing. My first questions are for you. So you are a DSP owner. Based on your understanding of the program, what kind of capital is needed to join the program?
 
-(01:59:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7171s
+(01:59:31)
 
 I would like to start by saying all DSP owners are required to sign an NDA and I will need to be careful about how I answer my questions, but I think they publicize that you need to show evidence of $30,000 in cash.
 
-(01:59:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7184s
+(01:59:44)
 
 Okay, understood. So, NDA, the $30,000 in cash. Is there a preference given to well-capitalized people or companies?
 
-(01:59:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7194s
+(01:59:54)
 
 That was not my experience based on the other DSPs I worked with. Is there a preference given to people or companies who already own a fleet?
 
-(02:00:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7204s
+(02:00:04)
 
 Also, that was not my experience.
 
-(02:00:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7206s
+(02:00:06)
 
 Most of the DSP owners that I have worked with were not former fleet owners.
 
-(02:00:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7214s
+(02:00:14)
 
 And is there a preference given to people with a lot of experience in the logistics industry?
 
-(02:00:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7219s
+(02:00:19)
 
 Certainly it was a plus in my opinion. But the DSP owners that I worked with had a wide range of backgrounds.
 
-(02:00:29) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7229s
+(02:00:29)
 
 Okay. So it might be a fleet of carriers who have a lot of experience. It might be a fleet of carriers where there might not be a demonstrated safety record.
 
-(02:00:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7240s
+(02:00:40)
 
 Most of the DSPs I interfaced with were entrepreneurs with a wide range of backgrounds.
 
-(02:00:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7246s
+(02:00:46)
 
 Got it. I want to understand the revenue and incentive structure. What is the relationship between the number of routes or the territory you were given and the revenue and profit you make?
 
-(02:00:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7259s
+(02:00:59)
 
 I am not sure I completely understand the question.
 
-(02:01:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7264s
+(02:01:04)
 
 Like, is there... I guess we will ask some different questions to draw it out. Is there bidding over routes between the DSPs? Are there preferable and less preferable territories in terms of revenue?
 
-(02:01:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7276s
+(02:01:16)
 
 I happen to be in a rural delivery station. I would say that some of your metro areas where you have higher package density tend to be more profitable. But as a DSP owner, you really have no sway in where you are assigned and what routes you are given.
 
-(02:01:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7304s
+(02:01:44)
 
 And I guess, let us say, is the profit directly related to the number of routes? What does it mean if a vehicle has to be grounded for a safety maintenance reason?
 
-(02:01:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7319s
+(02:01:59)
 
 I would say most of the profit comes from the number of packages that are delivered per route. So if you have high package density in your route, you are going to make a higher profit. It was very bonus-driven as well.
 
-(02:02:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7339s
+(02:02:19)
 
 Okay. So essentially, if you ground a van regularly for safety maintenance, you end up losing twice, right? Like the revenue from the route because you are not doing the route that day, and then the cost of the maintenance because you bear the cost of maintaining the vehicle. Is that correct?
 
-(02:02:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7359s
+(02:02:39)
 
 The pay structure gets a little complicated, especially when it comes to the fleet. It will probably take more time than we have to answer that question.
 
-(02:02:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7368s
+(02:02:48)
 
 I mean, is that right?
 
-(02:02:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7372s
+(02:02:52)
 
 Again, I have got to be careful about what I share based on my NDA.
 
-(02:02:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7375s
+(02:02:55)
 
 Got it. Okay. Can you walk us through selling your business? If you want to sell your business, does anyone besides you and the buyer have a say in whether the sale can go forward?
 
-(02:03:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7386s
+(02:03:06)
 
 I did not sell my business. I simply closed it. I think that is most often the case. I have heard of other DSPs who tried to sell their business and whoever buys that business still needs to be vetted by Amazon. It is difficult to sell a DSP.
 
-(02:03:27) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7407s
+(02:03:27)
 
 Interesting. Who issues credentials for the employees? Can you independently issue credentials for a driver to access the facility?
 
-(02:03:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7418s
+(02:03:38)
 
 ...
 
-(02:03:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7419s
+(02:03:39)
 
 The last mile facility.
 
-(02:03:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7420s
+(02:03:40)
 
 I recruited, hired and onboarded all my drivers. The background check was coordinated through Amazon and they held the criteria for those background checks. They could deny based on the background check results. Drivers were also drug tested. If everything passed the background check and drug test, that is when credentials were given by Amazon, where they could be entered into the Amazon portal.
 
-(02:04:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7454s
+(02:04:14)
 
 Okay. So if you hired somebody and then Amazon denied the credentials, would you continue employing the driver?
 
-(02:04:27) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7467s
+(02:04:27)
 
 If they did not pass the background check or drug test, I could not hire them.
 
-(02:04:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7474s
+(02:04:34)
 
 And could you credential a driver to access the Flex app without Amazon?
 
-(02:04:41) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7481s
+(02:04:41)
 
 ...
 
-(02:04:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7482s
+(02:04:42)
 
 Not without Amazon approving it.
 
-(02:04:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7486s
+(02:04:46)
 
 Okay. I have more questions, but
 
-(02:04:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7488s
+(02:04:48)
 
 I will save it for a second round. I have questions for the panel. Thank you so much, David.
 
-(02:04:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7493s
+(02:04:53)
 
 Yeah.
 
-(02:04:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7494s
+(02:04:54)
 
 So, you work directly with Amazon?
 
-(02:04:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7499s
+(02:04:59)
 
 Yeah, I worked at DBK1 in Woodside and DBK4 in Maspeth, inside the warehouse as a
 
-(02:05:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7504s
+(02:05:04)
 
 direct employee. And so what was that hiring process
 
-(02:05:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7509s
+(02:05:09)
 
 like for you? I did not apply. I signed up to work at Amazon.
 
-(02:05:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7516s
+(02:05:16)
 
 Yeah. Did you know people who worked for a DSP?
 
-(02:05:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7519s
+(02:05:19)
 
 Yes. Yes.
 
-(02:05:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7520s
+(02:05:20)
 
 And what did their hiring process look like?
 
-(02:05:23) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7523s
+(02:05:23)
 
 They have got to apply to the DSP. Then they have got to have the DSP put them into the Amazon credentialing process,
 
-(02:05:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7533s
+(02:05:33)
 
 right?
 
-(02:05:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7534s
+(02:05:34)
 
 And if it is approved by Amazon and the DSP wants to hire them, then they can get hired.
 
-(02:05:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7538s
+(02:05:38)
 
 And what were the training requirements for people being hired?
 
-(02:05:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7544s
+(02:05:44)
 
 It varies by DSP, but generally — and I was not a driver myself — of the dozens and dozens of drivers I know, sometimes they get a ride-along from a manager, or they get a ride-along from a more experienced driver, or they get a ride-along from a trainer. It might last longer for some than others. Again, I am not a driver, so I have not been privy to all of that, but
 
-(02:06:18) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7578s
+(02:06:18)
 
 So you said it depended on the DSP. There would be different training per DSP.
 
-(02:06:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7584s
+(02:06:24)
 
 I have never been involved in the DSP trainings. I just know from people I have talked to, so I am not an expert.
 
-(02:06:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7591s
+(02:06:31)
 
 So they have told you about the different levels of training.
 
-(02:06:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7595s
+(02:06:35)
 
 There is an Amazon-employed driver trainer that works with drivers, but basically they get put out on the road and then it is up to the DSPs to take it from there.
 
-(02:06:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7605s
+(02:06:45)
 
 Right. All right. Thank you.
 
-(02:06:49) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7609s
+(02:06:49)
 
 Go ahead. I want to see what I want to hit here.
 
-(02:07:03) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7623s
+(02:07:03)
 
 Actually, I will wait for another panel. Thank you.
 
-(02:07:10) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7630s
+(02:07:10)
 
 Great. Thank you for your testimony. I want to bring up the next panel. Randy Pierce from the Brooklyn Chamber, Jessica Walker from the Manhattan Chamber, Lisa Swordon from the Bronx Chamber, and Zach Miller from the Trucking Association of New York.
 
-(02:07:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7651s
+(02:07:31)
 
 And then Sarah Witfung is on Zoom.
 
-(02:07:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7654s
+(02:07:34)
 
 So Sarah, if you are here, can you join us first? Oh, Sarah is not with us.
 
-(02:07:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7662s
+(02:07:42)
 
 Okay. Well, then when you all get
 
-(02:07:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7664s
+(02:07:44)
 
 settled, since I am a Manhattanite, I will ask the Manhattan Chamber to go first. Why do you not sit? I do not want to put pressure on you, but
 
-(02:08:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7680s
+(02:08:00)
 
 not to be biased here. Jessica Walker is the best.
 
-(02:08:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7684s
+(02:08:04)
 
 Thank you. I have to stand up for my borough, you know. Hey, we have more Manhattanites here
 
-(02:08:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7689s
+(02:08:09)
 
 finally. There we go, Gale. Good afternoon, Chair Epstein, members of the committee, and CM Cabán. I am Jessica Walker, president and CEO of the Manhattan Chamber of Commerce, representing more than 125,000 businesses across this borough. The Manhattan Chamber opposes Int 0518-2026 in its entirety. Let me be clear about why, because it is not the reason that sponsors might expect. I support every goal this bill claims to address. I want delivery workers to be safe. I want them paid fairly. I want our streets safer. I want real accountability. Those goals are not in dispute. What I oppose is the mechanism, because the mechanism does not achieve any of them and it imposes serious collateral damage on small businesses and consumers in the process.
 
@@ -905,47 +905,47 @@ New York City's last mile delivery industry is already regulated by 12 regulator
 
 This is the equivalent of putting a New York City tariff on every package that is brought into our city. 2.5 million packages a day. Everyone would pay more. These costs would be borne by the family in East Harlem ordering diapers and the senior on the Lower East Side waiting on medications. So this is at odds with an affordability agenda. If this Council is serious about safety, fund DCWP. I have other ideas if you would like me to continue, but okay, I will wrap up. I want to get to the other panelists too.
 
-(02:09:03) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7743s
+(02:09:03)
 
 industry is already regulated by 12
 
-(02:09:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7746s
+(02:09:06)
 
 regulatory regimes from DCWP and the
 
-(02:09:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7749s
+(02:09:09)
 
 Department of Buildings to OSHA and the
 
-(02:09:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7751s
+(02:09:11)
 
 NLRB. This bill adds a 13th without retiring any of the others. The right question isn't should there be regulation. It's are the existing 12 failing? And if so, why is the answer to create a 13th instead of bolstering those we already have? Meanwhile, this bill would eliminate many small businesses in New York City that employ thousands of people, totally put them out of business. It would force operators to either absorb workers on terms they never negotiated, or relocate across the Hudson, exporting jobs and tax revenue while the trucks still roll through the same neighborhoods. This is the equivalent of putting a New York City tariff on every package that is brought into our city. 2.5 million packages a day. everyone would be more expensive. These are that would be paid for by the family in East Harlem ordering diapers and the senior on the Lower East Side waiting on medications. So, this is at odds with an affordability agenda. If this council is serious about safety, fund DCWP, I have other ideas um if you'd like me to continue, but um >> Okay. You want to just wrap up? I want to I want to get to the other panelists, too. Okay, I'm saying she can wrap up. I'm not sure where the outrage was there.
 
-(02:10:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7832s
+(02:10:32)
 
 So just chill out, folks. We were not going to testify. I will submit my written testimony. I do have some real solutions for some of the things that this bill aims to address. I will leave it there.
 
-(02:10:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7843s
+(02:10:43)
 
 Did you give us written copies? I did not, but I will.
 
-(02:10:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7846s
+(02:10:46)
 
 Okay. Do you want to just give us a couple of points since we do not have it in writing?
 
-(02:10:49) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7849s
+(02:10:49)
 
 Sure. I will be very quick. As I said, fund DCWP, regulate worker quotas directly, mandate vehicle safety technology, fix the streets around these facilities — which was highlighted in the comptroller's report — require public reporting of injury and crash data by facility. None of those are in this bill. None of those would require decimating the small businesses that are
 
-(02:11:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7871s
+(02:11:11)
 
 Thank you. I do not know how many times people... It is really not helpful. You are allowed to have your opinion. We want to get testimony in. Just doing that is going to take away from the hearing. Go ahead.
 
-(02:11:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7894s
+(02:11:34)
 
 I do not know who is next.
 
-(02:11:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=7900s
+(02:11:40)
 
 Good afternoon, Chair Epstein and members of the committee. My name is Lisa Sa and I am the president of the Bronx Chamber of Commerce. The Bronx Chamber of Commerce is dedicated to supporting and advocating for 27,000 local businesses in our beautiful borough, especially micro businesses. I am here on behalf of over 10,000 employees who will be severely impacted by this legislation, especially those in the Bronx whom I have had the opportunity to speak with.
 
@@ -953,11 +953,11 @@ There is a strong misconception that the direct service providers mistreat their
 
 These DSP owners offer tuition reimbursement and workforce development. Many also provide loans, financial mentorship and housing assistance, often helping individuals transition out of shelters. Like many small businesses, they offer something that large companies cannot replicate through direct employment: deeply personal, community-rooted relationships. This bill is premised on the idea that these business owners and their employees would be better off working directly for large corporations. Taking away one's freedom to apply and accept a job of their choice is not only wrong on the policy level, but on the moral one. I know the supporters of this bill believe they are doing good. I ask Council members to more strongly consider the desires of these workers whose livelihood will be impacted by this legislation. Thank you for the opportunity to testify and for your ongoing commitment to micro businesses.
 
-(02:14:13) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8053s
+(02:14:13)
 
 Thank you. I will just remind people that if you continue to make noise, we are going to remove you from the chamber. This is the last warning. If people continue to make noise, we will have you removed and then you will have the opportunity to testify. Go ahead.
 
-(02:14:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8070s
+(02:14:30)
 
 Good afternoon. My name is Zach Miller. I am the vice president of government affairs at the Trucking Association of New York. TANY is proud to represent a diverse group of fleets throughout the state of New York. We have fleet members as small as a single-unit owner-operator all the way up to large national carriers. The bulk of our fleet membership are small to midsize fleets, still family-owned and operated. That is why we strongly oppose Int 0518-2026.
 
@@ -965,57 +965,57 @@ We are seeing real growth in key areas such as warehousing, logistics and transp
 
 In a city like New York, last mile delivery is about far more than small packages. Furniture, appliances and specialty goods are routinely delivered directly to homes, due in part to shifting consumer behavior and in part because retailers simply do not have enough space to store inventory on site. This system is essential to how the city functions. We do believe that given the level of investment we are seeing and the projected growth in freight demand over the next 20 years, the city should take a closer look at segment-specific training and education requirements as well as a thoughtful facility licensing framework. We commend the Council for raising these important considerations and look forward to working collaboratively with both the City Council and the Department of Consumer and Worker Protection to bring these ideas to life.
 
-(02:16:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8198s
+(02:16:38)
 
 Randy. Yeah.
 
-(02:16:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8200s
+(02:16:40)
 
 Randy Pierce, president of Brooklyn Chamber of Commerce. So, the licensing requirement is a red herring. Let us be real about that. This is not about the proliferation of these facilities in our communities, because you could address that through capping them or through proximity laws like we do with liquor licenses. This is not about large trucks, because we actually have these facilities closer to consumers. So when any of these facilities shut down, you are going to have larger trucks coming in from longer distances in order to deliver these products. So it is really not about that either. It is really about the direct hire mandate. That is really what this comes down to. At the end of the day, this direct hire mandate puts a whole subsector of our economy out of business. This is a fact.
 
 Now, if you are comfortable doing that, that is fine. We keep using this term "rehire." DCWP used this term. Oh, but the workers will be rehired. They are not rehired. No court in the United States is going to force a company to hire a particular classification of workers. So I do not think that holds water. You need to think about that long term. The reality here is people are going to lose their jobs. The reality is we are cutting an entire subsector of our economy of small businesses. Last year was the first year since COVID that we had more businesses close than open in the City of New York. Last month, labor data showed that in 2025 we lost 20,000 jobs in this city. Do you really want to shut down a whole other subsector of our economy? Do you really want to hurt entrepreneurs who have put their blood, their sweat, their tears and their own capital into making these businesses a success? I really hope not. But that is what we are talking about. Thank you.
 
-(02:18:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8318s
+(02:18:38)
 
 >> Thank you all. I am happy to ask any of the panelists about the safety data we saw on the control report. Did anyone here look at that control report from the end of last year? Does anyone dispute the findings of the report found around traffic incidents and increase in injuries to workers?
 
-(02:18:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8339s
+(02:18:59)
 
 >> No, of course you cannot dispute it. I mean, that is the facts, but I think...
 
-(02:19:03) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8343s
+(02:19:03)
 
 >> So, just not to be whatever, but we agree with that foundational issue. There is an increase in accidents and an increase in worker injuries. I think foundationally that sounds like there is consensus on that, right? So the next question is how we fix those problems, and I think that is what you were trying to address earlier. But if those foundational issues are real, we have to address those. Is that right?
 
-(02:19:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8370s
+(02:19:30)
 
 Does everyone agree that we have to...
 
-(02:19:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8371s
+(02:19:31)
 
 address the increase in accidents and increase in worker injuries? We have to manage those issues, right?
 
-(02:19:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8379s
+(02:19:39)
 
 >> Yes.
 
-(02:19:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8384s
+(02:19:44)
 
 I do not believe that by putting Int 0518-2026 forward we will resolve those issues, because I think there is accountability from the 13 agencies that Jessica had addressed, and the DSP owners are not looking to harm their employees. So I really think mandating a company to hire or unionize will not make any difference. It is really about the owners. It is about the employees, and you have 10,000 employees who decide that is where they want to be. Why should they have to be forced to work where they do not want to? I do not know of any other legislation that addresses safety concerns by shutting down an entire industry. So if you can show me one, then I would be happy to respond to that.
 
-(02:20:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8430s
+(02:20:30)
 
 >> So it sounds like there is an agreement that worker safety issues are important. There is an agreement that we need to deal with the issues of additional crashes that are happening in our City. So the questions are how do you resolve those problems? I think this legislation is at its core trying to help us resolve those problems. It sounds like you may disagree that it will resolve those problems, but we need tools to be able to resolve these issues in our City. We can see comparable data from other related industries and we do not see those kinds of injuries and traffic accidents happening, even though they are similarly situated companies and similarly situated situations that are direct hire. So we see it very differently if you look at the correlates. Do you see that data?
 
-(02:21:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8482s
+(02:21:22)
 
 >> You go. Go ahead.
 
-(02:21:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8485s
+(02:21:25)
 
 >> No, we actually see the industry making incredible improvements in safety, training, education and the incorporation of technology. The trucking industry is operating safer than it ever has and we have the data to prove it. Not only that, but in the state of New York, we are the safest large state when it comes to commercial transportation. These are facts. In addition, we are seeing the success. So...
 
-(02:21:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=8508s
+(02:21:48)
 
 "Say the facts" — you are saying that the controller's report, those are... I question why that came from the controller and not DOT. The truth is we are seeing the success of Vision Zero on the streets in New York City. Not only that, the industry has adopted a Vision Zero mentality where the culture of compliance is we find the serious crashes and fatalities unacceptable in the industry. We are making the investments we need to make to continue to grow and become as safe as possible. We all operate on these streets. Our employees operate on these streets. Our families operate on these streets. Nobody is more incentivized to operate safely than the trucking industry.
 
@@ -1127,7 +1127,7 @@ That is right. But there will be fewer last mile facilities here.
 
 So your concern is that people will have a last mile facility outside of the five boroughs and bring bigger trucks in to do that delivery. There will still be trucks in neighborhoods and there will still be people dropping off those packages. They might be off bigger trucks — is that your concern?
 
-(02:44:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=9892s
+(02:44:52)
 
 There would be bigger trucks for sure, and less competition. I mean, we want small companies, localized companies to make as many New York City deliveries as possible. This will really hurt the competition. And part of what we are seeing... you are saying because there will be all Amazon, there will be less competition through the DSPs, through small businesses in general. I mean, I think the risk is that we would create a system where only a couple of companies would deliver all the freight in the city, because they would be all direct hires from Amazon. You are saying because there is no opportunity for somebody to start a trucking company. Like we say, our members start one person, one truck, one route. That used to be farms, that used to be factories. Now a lot of it is e-commerce. We want that competition. We want that pathway to entrepreneurship. We do not want one or two companies delivering all the freight. And we are still just talking about small parcel. New Yorkers are getting everything delivered to their home. That means smaller companies doing it or larger companies on larger trucks from further out with more vehicle miles traveled, less economic opportunity to have electric trucks, to have cargo bikes, to have quads, to have the things that we want to see New York City scaling up. But is not Amazon buying those electric bikes? Are they not the ones putting them in facilities? I believe most of them belong to the small companies. I do not believe most of them are Amazon.
 
@@ -1207,133 +1207,133 @@ So it is only Amazon and the other parent companies that we have been discussing
 
 That was great, right to the second. That was perfect. Can I talk about the worker turnover issue? We have spent a lot of time today talking about it. How do you see us being able to reduce that?
 
-(03:08:08) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11288s
+(03:08:08)
 
 kind of turnover? What tools we have in our tool belt? And do you feel like this legislation will advance reducing worker turnover?
 
-(03:08:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11296s
+(03:08:16)
 
 Yeah, I will answer for you. One thing that throughout the whole hearing, what I am seeing is this bill is about the worker, not about the contractor or subcontractor. Joint Council 16. We have over thousands of employers and I have been doing this for 30 years. I have never once seen a company that has their name on everything, gives direction, hires and gives their daily routines to everybody, where the worker cannot go to them with a problem of wage theft, of overwork, labor law violations, anything. They are in the middle. And the one thing I did not hear today from the other side was that they did not mention the worker once. The worker was never mentioned once about how they are going to protect that worker when you heard all the testimony from Amazon workers of what went on.
 
 Does the subcontractor have the ability to go to Amazon and say, "Whoa, wait a minute. My worker, you overloaded him. You did this. You did that. You have got to stop that." I do not think that ever happened. They are subcontractors, but they are really payroll agents, and that is a great thing. There is nothing wrong with that. But the bottom line is the worker, who we are here for, has no protection. He has nobody to go to. The fingers get pointed in different directions, and that is what this bill is all about in my opinion.
 
-(03:09:47) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11387s
+(03:09:47)
 
 Great. I do not know if anyone else wants to comment on that, otherwise I will go to my next question.
 
-(03:09:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11394s
+(03:09:54)
 
 Just chiming in from the hotel workers perspective. Again, not our industry, so I do not want to overstep my bounds here, but certainly we saw a very common pattern where if there were issues with the workforce, whether they are talking to DCWP, a lawyer, the union or whatever, because you have this intermediary between them, instead of firing the workforce, you can fire the contractor. So you are not violating labor law and retaliating against employees who are seeking their rights. Instead, you are making a business decision for your own bottom line. Maintaining a workforce requires a strong relationship between the employee and the employer and having that intermediary will only drive further turnover. Because you have this intermediary, you have seen this in the hotel industry where the intermediary really forces the turnover, because by their own existence they mean that worker dissatisfaction will result in higher turnover.
 
-(03:10:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11452s
+(03:10:52)
 
 Right. And if there is a workplace injury or some other incident, the hotel in this situation is not liable and does not have any responsibility because they do not have the employer-employee relationship. We have successfully organized subcontracted hotel workers in the past. I think most famously at the Margaritaville in Midtown, if anybody has been. But yeah, it becomes a real difficult prospect for workers to express their needs and concerns in a fair way with their employer when their employer is not really their employer, so to speak.
 
-(03:11:28) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11488s
+(03:11:28)
 
 Yes. It feels like they have two employers. They have the DSP and they have the parent company. So when issues come up, it is hard to distinguish between the two. It sounds like that is what you are saying.
 
-(03:11:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11498s
+(03:11:38)
 
 Yeah.
 
-(03:11:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11499s
+(03:11:39)
 
 Right. And how about safety? Besides this, when we talk about workplace safety and anti-retaliation, how does this work where there is this middle entity? How do you see this playing out in this industry or in other industries?
 
-(03:11:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11519s
+(03:11:59)
 
 Just going back to Dan's points before, if the entity that calls the shots and controls the conditions, has quotas, has time pressure on people, if they are not accountable under the labor law to the workers, then there is no way of addressing those issues meaningfully by going through the entity that does not have that control.
 
-(03:12:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11544s
+(03:12:24)
 
 And I was going to chime in regarding the safe hotels act. There was a training component particular to human trafficking recognition. Precisely because when there is, again, you need to have that employer-employee relationship to even know what is correct in the workplace. If the parent company does not have that same investment in the day-to-day life of that worker, they are not going to care about injuries or what have you. Workplace safety requires that relationship. That just does not exist in a subcontracted relationship.
 
-(03:12:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11575s
+(03:12:55)
 
 That is helpful. Thank you. I want to turn to my colleagues. CM Cabán, you are good. Anyone else for this panel? CM Shanel Thomas-Henry. Sorry, I do not know what is going on with my brain today.
 
-(03:13:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11601s
+(03:13:21)
 
 I am sorry. Go ahead. Ask your questions and welcome, and I apologize.
 
-(03:13:26) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11606s
+(03:13:26)
 
 No worries. Thank you, chair. So I just want clarity on the last couple of statements. Are you saying that as a worker for a subcontractor, the employees do not have the same labor protections?
 
-(03:13:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11619s
+(03:13:39)
 
 We are saying that the entity that actually is responsible for the problem is not answerable under those laws. In other words, take Amazon since we have been talking about Amazon. If Amazon is putting pressure on workers to require things to be done at a pace that causes worker injury or accidents, Amazon, if it is not the employer, is not accountable to those workers for the conditions that created those accidents and those other injuries under the labor law. If it is not the employer, it is only the employer that is responsible. So you can say to the DSP, you know, you should not have caused these problems, but if it is not the DSP that is actually creating the conditions and requirements that cause the problem, you are not getting anywhere with that. That is the problem with subcontracting.
 
-(03:14:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11674s
+(03:14:34)
 
 But the employees themselves still have the right to those protections. Correct. So you are not eliminating the protections for the employee. It is just harder for them to go ahead.
 
-(03:14:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11684s
+(03:14:44)
 
 Yeah. I am sorry.
 
-(03:14:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11685s
+(03:14:45)
 
 No.
 
-(03:14:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11686s
+(03:14:46)
 
 They have the right to protections vis-à-vis an entity that does not have any control over the situation.
 
-(03:15:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11700s
+(03:15:00)
 
 I do not see any more comments. I want to thank this panel for being here. Let us bring up the next panel.
 
-(03:15:05) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11705s
+(03:15:05)
 
 Alan Abraham on Zoom, Drew Weber, Damon Gilbert, Theodore Moore and Brian.
 
-(03:15:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11719s
+(03:15:19)
 
 Brian Kalachi.
 
-(03:15:26) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11726s
+(03:15:26)
 
 And if Alan is on Zoom, we can just start with you while the panel gets seated.
 
-(03:15:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11732s
+(03:15:32)
 
 Great. Thank you. Good morning, Chair and members of the Committee on Consumer and Worker Protection. Thank you for the opportunity to testify. My name is Alan Abraham and I am the director of organizing and advocacy with the People's Plan. I am here today to support the Council's passage of the Delivery Protection Act and last mile bill and also to support the future enforcement of this bill by advocating for the Make and Pay campaign, which pushes to double the budget of DCWP. First and foremost, this is a public safety bill that will benefit all New Yorkers. Right now, the City is not able to adequately hold Amazon, a multi-billion dollar company, accountable for flagrant labor violations, because they operate on a web of third party contractors working in underpaid, unsafe and unstable conditions. The provisions of this bill, including licensing last mile facilities, requiring direct employment and structuring protections against retaliation, will reduce traffic violence, improve workplace conditions and begin to hold companies accountable, including for millions in unpaid fees. While Amazon is a key example, this bill is ultimately about setting standards for an entire fast-growing industry.
 
 But passing strong laws is only half the equation. They must also be enforced. Right now, New York City is owed at least 1.5 billion in unpaid penalties from large corporations and bad actors. Agencies like DCWP are tasked with enforcing critical worker and consumer protections, but they are under-resourced relative to the scale of violations they face. When enforcement is weak, corporate bad actors treat penalties as optional, just as the cost of doing business. Our streets become less safe due to these violations. Workers lose wages, consumers are exploited and responsible businesses are undercut. That is why we are calling on the Council to invest in DCWP's enforcement capacity, including doubling its budget and adding inspectors. This is about making sure the last mile bill and the Delivery Protection Act actually work in practice. It is about deterrence, fairness and protecting New Yorkers. It is a key part of the broader Make and Pay strategy to ensure corporate law breakers are held accountable across the board. Last mile drivers and workers deserve to be free from unsafe employment practices. Thank you.
 
-(03:17:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11863s
+(03:17:43)
 
 Thank you. We will go to the panelists in front of us.
 
-(03:17:47) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11867s
+(03:17:47)
 
 Good morning, Chair Epstein, CM Cabán and members of the committee. My name is Drew Weber and I am testifying on behalf of the Consortium for Worker Education, or CWE. CWE serves as the workforce development arm of the New York City Central Labor Council, partnering with 33 unions and their respective locals on training, education and child care programs. We are testifying today in strong support of the Delivery Protection Act. Amazon's DSP program has allowed the company to sidestep its obligations to workers, denying them the rights and protections they are entitled to. This bill addresses that directly through the establishment of licensing standards, direct employment requirements and a robust independent training mandate. We are particularly encouraged by the bill's requirement that DCWP designate nonprofit training providers to educate workers on safety and their rights, and that those providers retain ultimate discretion over training content. This is essential for workers to exercise their rights. They must first know what they are. When training is offered only by the employer, there is an inherent misalignment between what the company wants workers to know and what they are entitled to know under the law.
 
 CWE has seen this firsthand. Our program, the Astoria Worker Project, is partnering with organizers from Amazon Labor Union Local 1 to educate their members through a peer-to-peer model on their rights under the Warehouse Worker Protection Act. We are doing this precisely because it is that type of independent, worker-centered education that cannot come from the employer itself. To strengthen this provision, we recommend that the Council add an explicit requirement that designated training organizations have demonstrated experience in know-your-rights education covering worker protections under labor and employment law. The bill's training framework is strong. Adding this requirement would ensure that the organizations trusted to implement it are equipped to meet all the expectations set out under the law. CWE looks forward to supporting the passage and ultimate implementation of this bill. Thank you.
 
-(03:19:41) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=11981s
+(03:19:41)
 
 All right. Good afternoon. Thank you to the chair and the committee. My name is Theo Moore. I am with Align, the Alliance for Greater New York. Align expresses strong support for the Delivery Protection Act because the rapid expansion of last mile delivery has created an urgent public safety, worker protection and environmental crisis across the five boroughs. The Delivery Protection Act is a necessary step towards restoring accountability and protecting New Yorkers. While this legislation applies to all last mile operators, it is impossible to discuss this industry without addressing Amazon's outsized role. As an industry leader, Amazon has fundamentally reshaped consumer expectations around delivery speed, driving the entire sector toward increasingly dangerous and unsustainable practices.
 
 Central to Amazon's role is its delivery service partner program. This structure allows Amazon to shift risk and responsibility away from the wealthiest corporation in the world onto small contractors and individual workers. Under this system, drivers are pushed to meet extreme quotas without adequate protections while Amazon maintains control over routes, performance standards and delivery timelines. This arrangement does not represent genuine small business empowerment. Rather, it represents the outsourcing of risk and liability. Exemplifying this contradiction, Amazon recently held a contest offering thousand-dollar prizes to DSP drivers — those very people Amazon claims are another business's employees — to say they love their job at Amazon. The ills of the current system listed here are based on well-documented fact. Reports from the New York City Controller and federal investigations have highlighted the links between rapid delivery demands, unsafe working conditions and increased traffic violence. These findings make clear that without intervention, the situation will continue to worsen. Thank you.
 
-(03:21:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12106s
+(03:21:46)
 
 Thank you. Go ahead.
 
-(03:21:51) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12111s
+(03:21:51)
 
 Good afternoon. Thank you, committee members, for the opportunity to testify. My name is Damon Gilbert and I am with New York Lawyers for the Public Interest. I am here in strong support of the Delivery Protection Act. The expansion of last mile delivery facilities across New York City has created a system where the harms of our modern convenience economy are disproportionately borne by the same communities that have long faced environmental burdens and disinvestment. As e-commerce has grown, so too has the infrastructure needed to sustain it, resulting in millions of daily package deliveries, thousands of additional truck trips and the proliferation of last mile warehouses embedded within dense residential neighborhoods.
 
 According to the recent Controller report, these facilities are overwhelmingly concentrated in environmental justice communities where residents are already exposed to higher levels of air pollution and industrial activity, which causes higher rates of respiratory disease and other serious health issues. The result is a compounding of harm: more truck traffic, worse air quality and heightened safety risks layered onto communities that can least afford it. These harms are a direct consequence of an industry model that prioritizes profit margins over safety, health and accountability. For too long, this industry has expanded without meaningful oversight, leaving workers and their communities to absorb the consequences. This bill would begin to close the gap by tying the right to operate to basic standards of safety and accountability and shifting responsibility back to where it belongs, onto the parent companies that profit most from this system. For these reasons, we ask that you vote yes to pass the Delivery Protection Act. Thank you.
 
-(03:23:26) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12206s
+(03:23:26)
 
 Go ahead.
 
-(03:23:28) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12208s
+(03:23:28)
 
 All right. Good morning. My name is Brian Kachi. I am the chief economist at the Open Markets Institute. We are an economic policy think tank based in Washington DC, although I live here. What I do for a living is research workplace fissuring. I have heard David Weil mentioned a couple of times, and what I call control-without-responsibility business models. I just wrote a book on franchising. We have heard about some of the similarities between this industry and that.
 
@@ -1341,49 +1341,49 @@ Among the most dramatic changes anyone with eyes can see on New York City street
 
 The problem here is that it can be extra challenging to hold last mile delivery companies accountable for safety problems because of the way that Amazon in particular, though not alone, has structured its delivery network. In terms of economic realities, Amazon operates a single integrated delivery network. The drivers wear Amazon uniforms. They drive trucks and vans emblazoned with the Amazon logo and they follow precise routes and schedules prescribed and enforced by intense digital surveillance by Amazon. And yet despite all this, Amazon disclaims any responsibility as the employer of these workers under liability or labor laws. The paychecks for these workers technically come from nominally independent delivery service partners operating under the tight control of Amazon. I think the idea that these are independent businesses in any meaningful sense is a bit of a farce. By using DSPs instead of its own drivers, Amazon has managed to avoid all of these laws. What this legislation would do is bring back accountability to the business model.
 
-(03:25:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12339s
+(03:25:39)
 
 Thank you all. So can we talk about franchises? This seems like it is similar, as you are claiming, to a franchise model. I want to hear more about some of the downsides here. We will hear soon from some of the DSPs. What do you think the overall concern is around that franchise model as it relates to worker safety and traffic issues?
 
-(03:26:02) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12362s
+(03:26:02)
 
 So I think the issue is that, as other people have said before, the entity that is in control of the conduct — whether Amazon — is very hard. They cannot be held accountable. They will disclaim liability under vicarious liability doctrines, things like that. Workers are not able to access the company that is in control of their working conditions, that is in control of their discipline, that is in control of the pace of work. All that stuff is not under the discretion of the DSP to fix. That has to come from Amazon.
 
-(03:26:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12400s
+(03:26:40)
 
 I want to turn to my colleagues to see if anyone has questions for this panel. All right. Thank you all for being here and testifying. Really appreciate it. Next panel: Andrew Setlight, Rudy Cesarez, Dwayne Ronin and Joe Artus.
 
-(03:27:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12437s
+(03:27:17)
 
 And if you guys are settled in, one of you can start. We have two other people joining.
 
-(03:27:27) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12447s
+(03:27:27)
 
 Go ahead.
 
-(03:27:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12453s
+(03:27:33)
 
 Good morning. My name is Rudy.
 
-(03:27:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12455s
+(03:27:35)
 
 Turn the mic on.
 
-(03:27:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12460s
+(03:27:40)
 
 My name is Rudy Kazeres. I am a Marine Corps veteran, a New York City small business owner, and I am here in opposition to Int 0518-2026 because of its impact on jobs, small businesses and our community. I was raised in Elmhurst, Queens by immigrant parents from Mexico. After serving 15 years in the Marine Corps, including three combat tours in Iraq, I came home and built my business in the communities I grew up in. Today I operate Kazar Logistics, an Amazon delivery service partner, and Joint Ops Logistics, a FedEx independent service provider. Since 2020, our team has delivered over 20 million packages across New York City, helping keep this city running during COVID and beyond. Through Kazar Logistics, we have also made a weekly commitment since July of 2023 through a public-private partnership with the New York City Department of Veteran Services, HelloFresh, the Campaign Against Hunger and Amazon, delivering over 140,000 meals to military families, veterans and community members at no cost to this city. We employ over 100 New Yorkers and have hired over 500 through Workforce One. Those are facts.
 
 I have heard statements suggesting protections like guaranteed rehire between small business owners and parent companies. But any bill is only as good as its execution. There is no guarantee that workers displaced from one company will be absorbed by another. I came here today to give testimony, but what I am witnessing is alarming. I do not know about anyone being forced to be here, but I do know there are hundreds of small business owners and drivers who volunteered to show up, and many of them are being kept outside at the gates of City Hall today. I will finish by saying: when small businesses like mine are pushed out, the workers we employ do not win. They lose their jobs. That is a fact. I urge this Council to consider the real impact on jobs and communities before moving forward. Thank you.
 
-(03:30:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12612s
+(03:30:12)
 
 Thank you. Go ahead.
 
-(03:30:15) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12615s
+(03:30:15)
 
 Good afternoon. My name is Andrew Setlight. I own and operate a small package delivery business serving New York City. What started as a business has become something much more personal to me, because behind every package delivered is a real person. My company employs...
 
-(03:30:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=12634s
+(03:30:34)
 
 Around 180 people. And our delivery associates come to work every day to support their families, pay rent, pursue educations, and build a future. We have associates who started with no experience and are now leading teams, training others, and growing into management roles. This is not just package delivery. This is economic opportunity. As a business owner, I carry that responsibility fully. I am responsible for hiring, payroll, compliance, safety, and making sure every delivery associate gets home safely. Their well-being is not theoretical. It is on me every single day. We have built systems around safety, accountability, compliance, and growth because we care about our people and our community. This business is also how I support my family. It provides for my household, my three children, and our future. Like many small business owners, everything I have built is tied to this. It is not just what I do, it is how we live.
 
@@ -1703,7 +1703,7 @@ And then, for whatever reason, if they fall short of expectations, our managers 
 
 >> In the City we have to deal with density. We have to deal with doorman buildings. Although a lot of times we are called last-mile delivery, we are not in those types of buildings, right? Because those...
 
-(03:51:13) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=13873s
+(03:51:13)
 
 Buildings have their own mail room and processes that they have to go through. On the FedEx side in upstate New York, we are similar to what Rudy has in the van model. It is one van per route and those drivers decide — we decide on the routing the night before on how to maximize productivity. At the end of the day, everyone is held to a standard of performance. How we decide that performance is how we build our business.
 
@@ -1881,15 +1881,15 @@ In upper Manhattan, our operation in Washington Heights supports about 100 emplo
 
 I take pride in being an active member of the New York City DOT freight advisory committee, New York Vision Zero, the Urban Freight Lab, and numerous other industry and community associations and charities. Just as important, this model creates real career pathways. Nearly every one of our dispatchers, supervisors and managers started out as couriers. We are not just moving goods more sustainably. We are building opportunity within the communities we serve. I support safer streets. Can I continue, Chair?
 
-(04:13:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15226s
+(04:13:46)
 
 Can I continue? Thank you. I support safer streets, stronger worker protection and sustainability. But this bill is not the way to get there. Int 0518-2026 will eliminate small businesses like mine, cost local jobs, and make it harder to invest in the very solutions that are reducing congestion. I urge the Council to reconsider this legislation and work with the stakeholders on solutions that protect workers without eliminating small business and local jobs that we have worked so tirelessly to create. I also urge the Council to please take a look at the copy of the New York State Department of Labor guidelines for determining worker status for the courier industry. It clearly states on page 10 of the guidelines that within the messenger industry, it is a standard practice that bike and foot messengers are considered to be employees of the
 
-(04:14:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15279s
+(04:14:39)
 
 I will give you more time if you can just quickly wrap it up. I know we have a lot of other people. I highly urge you to look at the guidelines that I have left a copy of. There are more than 60,000 improperly classified bikers in New York City being deemed to be independent contractors when they should be employees like what we employ in our businesses here. Thank you. And just to remind people, I know we have a bunch of panels left. We may get kicked out of here between 3:30 and 4 and have to go across the street. So if people can try to keep to their two minutes, I want to not make us all get up and try to keep going. There is an event here in the chamber tonight.
 
-(04:15:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15317s
+(04:15:17)
 
 Good afternoon. Thank you very much for allowing us the opportunity to testify today. My name is Bashar Yazgi and I am here in opposition to this bill. I am a first generation American raised by a Palestinian family. My parents came to this country 36 years ago with nothing, not even a dollar, chasing the American dream. I grew up watching them struggle, making ends meet. That struggle built me into who I am today. Three years ago, I started my company, Logistics Express, and today we employ 150 people. I am not just the owner. I know my team very well. We hire people from all backgrounds, including people who faced real challenges and just need an opportunity to get back on their feet. I have seen employees go from living in shelters to having their own apartments, their own cars, and continuing their education through our tuition reimbursement. We offer real opportunities: health, vision, dental, 401k, and that is because we care.
 
@@ -1897,11 +1897,11 @@ I want to address a few things directly. First, the idea that our employees are 
 
 I am almost done. But this bill puts pressure on small businesses that we cannot absorb. And when small businesses get pushed out, it is not the big companies that suffer. It is my 150 employees and their families. This is personal. Please do not take this opportunity away from us, hardworking people who have built their lives around this. Thank you.
 
-(04:17:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15459s
+(04:17:39)
 
 Good afternoon.
 
-(04:17:41) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15461s
+(04:17:41)
 
 Good afternoon. My name is Juan Martinez. I am a small business owner that operates out of Brooklyn, New York. Dear members of the New York City Council, I am here as a small business owner that operates in New York City to express serious concern regarding the proposed Delivery Protection Act and its potential impact on companies like mine, our employees and the communities we serve. Let me be clear: we support smart, fair regulation. Government has an important role to play in establishing guidelines that ensure safety, accountability and equitable treatment of workers. In fact, those principles are core to how we operate every day. We prioritize safety above all else, provide strong wages and benefits, and actively create opportunities for growth and advancement for our team members, all of whom are New Yorkers building careers and supporting their families.
 
@@ -1909,11 +1909,11 @@ However, this legislation goes far beyond setting reasonable standards. It risks
 
 New York City thrives because of its small businesses. In the delivery and logistics sector alone, hundreds if not thousands of local companies provide stable employment. We have strong benefits. I am almost done. And real career pathways for New Yorkers. These businesses are not the problem. They are part of the solution. We urge the Council to reconsider the current approach, focus on setting clear enforceable standards for safety, wages and accountability, but allow businesses the flexibility to meet those standards without imposing. Thank you for your time and consideration.
 
-(04:20:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15606s
+(04:20:06)
 
 Thank you. Okay.
 
-(04:20:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15612s
+(04:20:12)
 
 Good afternoon, chair and members of the committee. Thank you for the opportunity to speak today. My name is Chris Bazme and I own a delivery company that employs over 150 employees across Manhattan. These are not just numbers to me. These are people I know. Some of them are in the room with me today by choice. They are people who rely on this work to support their families. I have seen that firsthand. I am part of the Walker program from the panel that you spoke to previously. We have literally taken people out of homeless shelters and given them the opportunity to walk around and deliver. They rely on this to support their families and we have built something with them over time. The two individuals in the room have been with me since I started three years ago.
 
@@ -1921,115 +1921,115 @@ I want to start by saying I support the goal of protecting delivery workers. In 
 
 What I would ask the Council to consider is how this bill will work in practice across the current delivery system as it stands. This is a complex, high volume network. As you have seen from the questions you have asked these panels, small changes can have massive impacts on this industry. Small businesses would be impacted the most and how deliveries actually get completed every day would fundamentally change. My concern is making sure that in trying to solve one problem, we do not unintentionally create others. Whether that is disrupting existing jobs, limiting opportunities for entrepreneurship, or making the system harder to operate effectively, I would respectfully ask the Council, and I am almost done, to take a close look at how this would be implemented so that the final version of the bill truly protects workers while also reflecting how the system currently operates. Thank you.
 
-(04:22:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15741s
+(04:22:21)
 
 Thank you all. Just a quick question. From the last panel, does everyone function basically in the same model as the last panel talked about? Whether you are walkers or drivers, do you have the same structure?
 
-(04:22:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15755s
+(04:22:35)
 
 Yes, but I am a bit of an anomaly. As I said, I have been in this industry 40 years. I have been in logistics well before Amazon hit the streets in New York City.
 
-(04:22:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15764s
+(04:22:44)
 
 Right.
 
-(04:22:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15765s
+(04:22:45)
 
 I am a bit different. I have got operations in warehouses in Connecticut. I serve thousands of clients. And this would affect not just Amazon. I am curious, I would like to ask the Council...
 
-(04:23:04) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15784s
+(04:23:04)
 
 Let us take someone like Best Buy. Can I just suggest, maybe, I know we have limited time, but it sounds like you are different because you are a bigger company. I do want to make sure we get to the other 15 panels of people who want to speak. Understood.
 
-(04:23:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15800s
+(04:23:20)
 
 I operate a little bit differently. I was a pilot program that started the larger ebike program for Amazon, which is something that Amazon is putting together to address urban delivery in a more...
 
-(04:23:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15811s
+(04:23:31)
 
 So you are an ebike based?
 
-(04:23:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15813s
+(04:23:33)
 
 Ebike based.
 
-(04:23:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15814s
+(04:23:34)
 
 Okay.
 
-(04:23:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15814s
+(04:23:34)
 
 Yeah. And my company, we utilize cargo vans and electric vehicles, as I mentioned before, to deliver packages to the consumers.
 
-(04:23:44) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15824s
+(04:23:44)
 
 Not walkers.
 
-(04:23:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15825s
+(04:23:45)
 
 No, we do not do the Walker model.
 
-(04:23:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15826s
+(04:23:46)
 
 Same.
 
-(04:23:47) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15827s
+(04:23:47)
 
 I am in the Walker model.
 
-(04:23:49) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15829s
+(04:23:49)
 
 I do not think we have other questions from my colleagues. So thank you all for being here and staying so long. I want to bring up the next panel. Maria Montel Dagante, LSE Alberto Renee and Latrice Johnson. When you are ready, do we need Spanish? Okay, I do think we have an interpreter coming in. Whoever is ready can just start. Whoever on this panel is ready, if you want to just start. I know we do have an interpreter here. You can start, ma'am. You can start and we will collect your testimony. You want to just go ahead and start? That would be great.
 
-(04:25:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15911s
+(04:25:11)
 
 Hi, my name is
 
-(04:25:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15914s
+(04:25:14)
 
 Latrice, your mic. And everyone can be quiet in the back. We are trying to hear.
 
-(04:25:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=15920s
+(04:25:20)
 
 Hi, my name is Latrice and I worked as a driver at DBK4 for about two years. Us drivers, we drive Amazon vans, we wear Amazon vests and we deliver Amazon packages. We all work for Amazon. Yet they constantly tell us we do not. One day, while I was at work delivering those packages, my brother's life was taken. When I found out later that night, I let my DSP management know. The next morning, I was with family grieving when I got a call from the manager asking, "Where are you at?" I came into the station to express to everyone what I had just experienced. An Amazon manager got involved. They told me that they wanted to help and gave me some phone numbers to call so I could get access to services they had offered to workers. When I called, they connected me to a grief counselor. Later, someone else reached out to let me know that I did not qualify for any of the services Amazon offered me because I did not work for Amazon.
 
 So after some time, I had to return to work because I could not afford to take more time off. At times I cried delivering packages to doors because I was still grieving. Amazon is the one that pays the DSP. And because the DSP needed me there at work, they did not care at the moment what I was going through. They just wanted the packages delivered. And when we all decided to stand up for ourselves and unionize, that is when Amazon wanted to retaliate against us. I lost my job along with all my co-workers when Amazon illegally cut my DSP's contract. We got no warning, even though under the WARN Act, we are supposed to get at least 60 days of advanced notice. The next day, I had no job and I had to figure out how to get another income. I have a daughter who depends on me to put food on the table. Amazon keeps getting away with this because they can put all the blame on the DSP. Amazon will continue to break the law until we hold them accountable. That is why we need to pass the Delivery Protection Act. Thank you for your time.
 
-(04:27:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16052s
+(04:27:32)
 
 Thank you. And I am so sorry to hear about your loss.
 
-(04:27:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16055s
+(04:27:35)
 
 Thank you.
 
-(04:27:36) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16056s
+(04:27:36)
 
 Go ahead, sir.
 
-(04:27:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16068s
+(04:27:48)
 
 Good afternoon. My name is Luke Albert Renee. I live in Jamaica, Queens and I have been an Amazon driver for three years. Amazon does not care about our safety or anyone's safety on the road. Amazon only cares about Amazon's profits. When I started working for Amazon, I did not get any real training. It was my first day and they gave me a van full of packages and put me on the road. I did not know what I was doing, but somehow I made it through without hurting myself or someone else. It did not take too long for Amazon's total disregard for our safety to catch up with me. One day I was delivering in the pouring rain. The sidewalk was slick and I slipped and fell hard on my knees. I could barely walk. But when I called back to the station to tell them about my injuries, their only response was, "Can you finish your route?" And you know what I did? I walked through the pain because I knew that if I brought those packages back, there might not be a route for me the next day. I have seen that happen to too many drivers. If we say a van is not safe to drive and we put our own health first, then all of a sudden there is not a route for us. I want to be able to make a career in this industry. I want to be able to put my safety and the public's safety first. That is why we need the City Council to act. That is why we need you to pass the Delivery Protection Act. Protect us so we can protect all of you and all of us. Thank you.
 
-(04:31:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16295s
+(04:31:35)
 
 Thank you.
 
-(04:31:36) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16296s
+(04:31:36)
 
 Good.
 
-(04:31:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16298s
+(04:31:38)
 
 Hello. My name is Jerome Sllos. I live in Brooklyn and have worked as an Amazon delivery driver at DBK1 for almost two years. When I arrive at our lot, many of the vans I am expected to use are consistently lacking basic safety features. I have had to reverse into busy streets with vans that do not have functional backup cameras, so I cannot see behind me. Sometimes they cut out halfway through a maneuver. It is anxiety-inducing and it poses a grave danger to my safety as well as the public. I also frequently have to use vans that lack three points of contact, with no runner step or handlebar, which requires me to strain my body, basically having to jump in and out of the van with each package. I have asked my manager to perform this very same maneuver and he has been unable to do so. This repetitive strain leaves my knees and lower back throbbing after work and pain pills do not help. This eventually led me to the emergency room with a work-related injury. I woke up with my thighs soaked in blood and the doctor confirmed it was due to stress from heavy lifting and continuous movement on the job. I have grounded these vans to get them repaired, but I would still see them on the lot and in use the same week. My managers would remind us that we were responsible for our vans. There was also consistent pressure to not report van issues, and that we had enough vans to fulfill our heavy routes as assigned.
 
 Sometimes I feel like I have to choose between the lesser of two evils: get a van with a functional runner step or one that is lacking a functional backup camera. It is mentally and physically exhausting to complete these routes determined by Amazon algorithms. Neither we nor the supposedly independent DSPs we work for have any say over this arrangement. This is not safe for me or the public. This is why we need to pass the Delivery Protection Act, because Amazon refuses to take responsibility for these vans and the strenuous routes that risk drivers' wellbeing. Thank you.
 
-(04:33:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16410s
+(04:33:30)
 
 And besides, Queens...
 
-(04:34:01) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16441s
+(04:34:01)
 
 My name is Maria Montiel. I am a resident of Oakland Gardens, New York. I am driving for the company Amazon for two years and three months at DBK4 in Maspeth, Queens. I was wearing the Amazon uniform. I was driving their vans. I was also delivering packages for Amazon. And even with all these things, Amazon keeps saying that I was not working for them or I was not a worker for them. I consider myself an Amazon worker, also working for the DSP as a champion, and previously I was an employee of a DSP as well.
 
@@ -2039,71 +2039,71 @@ Every time a DSP was closing, I noticed that my big efforts and my work dedicati
 
 All this caused me very big stress because it was a lot of uncertainty. I did not know how I was going to pay my monthly bills and I did not know how I was going to feed my family. I have three daughters and my three daughters are depending on me 100%. But Amazon is using a shield to protect themselves, saying that workers like us are not direct workers for them but are independent workers, and they are trying to avoid dealing with the responsibility they have toward us.
 
-(04:38:10) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16690s
+(04:38:10)
 
 I think we have gone... I do not know if you can just finish up.
 
-(04:38:15) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16695s
+(04:38:15)
 
 It is only two paragraphs.
 
-(04:38:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16697s
+(04:38:17)
 
 How many more paragraphs? Only two small paragraphs.
 
-(04:38:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16700s
+(04:38:20)
 
 Paragraphs only.
 
-(04:38:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16701s
+(04:38:21)
 
 Okay, if you can just wrap it up. Sure.
 
-(04:38:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16704s
+(04:38:24)
 
 Okay. I received training for two days but this was just a video training where I was watching videos on a platform and we did not have any examination or test, and also they provided us with the answers to those questions that they were giving us. I consider that if this Bill is approved, the families will benefit from this and we will not have to deal with the terrible stress we are dealing with and the terrible situations we are facing. We need at least two weeks to be able to reorganize our lives and to obtain a new job or new employment. And now it is the last paragraph.
 
-(04:39:28) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16768s
+(04:39:28)
 
 Okay. Thank you. Thank you very much.
 
-(04:39:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16770s
+(04:39:30)
 
 It is just one more. The last one now. It is coming.
 
-(04:39:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16773s
+(04:39:33)
 
 I think she can submit it in writing. We have gone well over time, so I want to be respectful of everyone.
 
-(04:39:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16779s
+(04:39:39)
 
 Chairman, they have the email address in order to send it, right?
 
-(04:39:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16782s
+(04:39:42)
 
 Yes, they do. All right. I go to members. Do you have questions?
 
-(04:39:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16792s
+(04:39:52)
 
 CM Cabán.
 
-(04:39:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16794s
+(04:39:54)
 
 Yes. Thank you.
 
-(04:39:56) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16796s
+(04:39:56)
 
 ...
 
-(04:39:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16799s
+(04:39:59)
 
 So, just anyone can chime in here, but can you talk about what some of the problems are that you are regularly seeing with the vehicles? And also, how frequently do you or your workers find a problem like the ones you might describe?
 
-(04:40:18) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16818s
+(04:40:18)
 
 Yes. The problems that I just described — the malfunctioning backup cameras, not being able to see what you are backing up to — is a really big danger, not only for people's property but for their own body. You do not want to hit people in the street when you are backing up. There are also issues of the vans cutting off while we are on route. That has been a consistent issue since I have taken this job. They do not properly maintain these vehicles, which is why they are grounded so very often. They just stop running while you are in the middle of driving. It is not so much that they are cutting off because they lack proper battery, but like if you leave your hazards on for too long they cut off, just like that.
 
-(04:40:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=16855s
+(04:40:55)
 
 You are on route and it slows you down, which is a big issue because the routes are so heavy to begin with.
 
@@ -2281,133 +2281,133 @@ Done. Yeah.
 
 You do...
 
-(05:03:56) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18236s
+(05:03:56)
 
 CM Thomas-Henry.
 
-(05:03:57) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18237s
+(05:03:57)
 
 So, Logistics Express it is. Is this the only DSP you have all ever worked for or have you worked for other DSPs?
 
-(05:04:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18246s
+(05:04:06)
 
 Everyone is different, but I have only worked for this.
 
-(05:04:08) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18248s
+(05:04:08)
 
 My only DSP.
 
-(05:04:10) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18250s
+(05:04:10)
 
 And it is the best.
 
-(05:04:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18251s
+(05:04:11)
 
 It is my only DSP, too. I see the love in the room. So when you are loading up these trucks, are there other DSPs?
 
-(05:04:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18259s
+(05:04:19)
 
 Correct.
 
-(05:04:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18260s
+(05:04:20)
 
 Companies, and do you see a difference between those DSP workers and yourselves? Well, we cannot speak for other DSPs and how they run their companies.
 
-(05:04:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18271s
+(05:04:31)
 
 Not how they run their companies, but...
 
-(05:04:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18273s
+(05:04:33)
 
 You guys said you have the nice t-shirts, you have the hand warmers, you have the trucks, you have everything. What I am trying to understand is if the services that you receive... I understand you are all very happy with Logistics. Are they consistent from what you see at the warehouse with other DSPs, or are you guys kind of like the crème de la crème and other people want to work for Logistics? Like, is it consistent that your counterparts that work for another DSP have the same? They are consistent. They are the same. So it is not DSP specific. So are those things being provided by Amazon or your individual DSPs?
 
-(05:05:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18312s
+(05:05:12)
 
 Individual DSP.
 
-(05:05:13) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18313s
+(05:05:13)
 
 Individual DSPs. And I just want to make it clear that One Dream Logistics — I am with One Dream Logistics in the Bronx at Morris Park. Okay. We are for sure guaranteed everything is there every day, whether it is toe warmers, hand warmers, we have everything no matter what. And that is with all throughout. And if not, we are supposed to vouch for ourselves. This is our job. If we have to go in the morning, I come in to work and my battery pack is not working — that is on me, and I did not check it. My phone is dead and I did not check it. These are things that affect me and me only. I was supposed to check it at the beginning of my day so that they can fix it, whatever that is. Do you have any vehicle issues when you are out on your routes?
 
-(05:05:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18355s
+(05:05:55)
 
 Usually no.
 
-(05:05:58) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18358s
+(05:05:58)
 
 If we do have any issues, it is supposed to be up to us, the driver, to make sure. I do understand that a lot of people in other DSPs maybe just click through the checklist and just go to get done quickly, but we do not. We actually look around and if there is anything wrong with the vehicle, a flat tire or anything, or some of the lights do not work, then we either get it fixed if it is possible there, or we change to a van that is in good condition. As well as that, at least once a week, coming back to the station, the Amazon employees will check the vans as well for lights and if the step on the step van or anything, to make sure it is all up to code and stuff.
 
-(05:06:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18402s
+(05:06:42)
 
 Thank you. Can I ask just two questions? Has anyone here been involved in an accident? No?
 
-(05:06:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18413s
+(05:06:53)
 
 No. Not yet.
 
-(05:06:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18414s
+(05:06:54)
 
 Great. Good drivers. I appreciate that. Unfortunately, I have in my life. But turnover — we have heard a lot about turnover. Where you work, are there new people coming in regularly? Is the workforce pretty consistent?
 
-(05:07:08) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18428s
+(05:07:08)
 
 It is a pretty consistent thing. We have a lot of people being hired.
 
-(05:07:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18432s
+(05:07:12)
 
 You still have new people coming in regularly. Absolutely. On a regular basis.
 
-(05:07:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18436s
+(05:07:16)
 
 Okay. People need their packages, you know.
 
-(05:07:18) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18438s
+(05:07:18)
 
 Yeah. More people, right?
 
-(05:07:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18442s
+(05:07:22)
 
 And everybody is supposed to work 40 hours. In Logistics, our job is so much. Most people work six days, some people work five days, you know, just to be out here. I will be honest.
 
-(05:07:41) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18461s
+(05:07:41)
 
 I am from the Caribbean, right? All my family live in the Caribbean. My boss, he is like a father to us. He looks for us outside of the job, inside the job. You understand?
 
-(05:07:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18473s
+(05:07:53)
 
 Yeah, I would love to hear that. That is great. That is amazing.
 
-(05:07:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18475s
+(05:07:55)
 
 And to add on to what he was saying, if I come into work and I have anything personal going on, if I do not feel like I am in the right headspace, they will not even put you on route. They will make sure that there is always a replacement. So if you are not in that right headspace, if something is going on, they will take you off without hesitation.
 
-(05:08:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18494s
+(05:08:14)
 
 All right. Thanks for sharing that. They will always make sure you are good to go on the road, mentally and physically.
 
-(05:08:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18501s
+(05:08:21)
 
 Good. All right. Thank you
 
-(05:08:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18504s
+(05:08:24)
 
 very much for this panel. Anyone else has questions? I appreciate you all. Thanks, panel. Jesus Reyes, Cole Stallone, Michael LeBron, Christian Tromboli and Manuel Martinez. Good afternoon. I do not know which order you want to go — right to left, left to right.
 
-(05:09:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18573s
+(05:09:33)
 
 I am happy to start.
 
-(05:09:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18574s
+(05:09:34)
 
 Thank you.
 
-(05:09:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18575s
+(05:09:35)
 
 My name is Cole Stallone. I was born and raised in lower Manhattan. I have worked at UPS since 2023 and was an ebike delivery driver for most of 2025. You may have seen these new vehicles around, but ironically enough, Amazon does not consider them vehicles, nor us drivers, to avoid DOT regulations. This is just one way Amazon has manipulated the law to avoid regulations and failed to provide protections for those that make Amazon the second largest company by revenue in the world. Ebike training was run at an Amazon facility in New Jersey by Amazon employees with minimal experience doing the job we do in New York. The process was more like onboarding rather than something designed to create safe couriers. Actual driving time consisted of less than 15 minutes on the bike, driving and reversing in an empty parking lot. Many of the unsafe events I have witnessed during my time can be blamed on Amazon's failure to directly employ us and properly train us.
 
 I witnessed my DSP owner get hit by a new rider at a slow speed and they allowed that rider to continue their route due to low staffing and pressure from Amazon. A majority of on-road accidents were caused by sending new hires out alone on their first day, again due to low staffing and pressure from Amazon. After complaining to Amazon and our DSPs about broken carts filled with the packages we deliver, I witnessed a cart fall off a truck and injure a young worker with no formal training in the task. That worker was later disciplined and fired. Only Amazon benefits from the current arrangement — not the DSP owners caught in the liability trap, nor the workers risking their lives on new equipment with limited training. Amazon does this to maximize their profits at the cost of a city that is less safe than it should be. This is why we need the Delivery Protection Act to hold Amazon accountable as the employers they really are and to create real consequences for their failure to provide meaningful safety training and protections from all kinds of retaliation. Thank you for your time.
 
-(05:11:36) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18696s
+(05:11:36)
 
 Hi, my name is Christian Tromboli. I am from Fresh Meadows, Queens, and I was an Amazon delivery driver for about a year and a half. While working at Amazon, I was employee of the month and the front runner of my DSP within the year. I would anxiously follow rules and always try my best. I took pride in my work. One of the many reasons I decided to organize a union at my workplace was because I felt like drivers had no real job security. Even when you worked hard and did everything right, your schedule could still be cut, your route changed, or worse, your job taken away. The idea that we have any job security under the DSP model is laughable.
 
@@ -2415,11 +2415,11 @@ The day before Thanksgiving, I noticed my manager surveilling me while I was hav
 
 Even when I applied for unemployment, my application was denied based on this reason, which I know is thanks to my DSP owner and Amazon trying to avoid responsibility. I felt really frustrated and personally disrespected that this company went out of its way to deny me a basic benefit after all the time I had worked for them. I could not believe it. We are the face of this company and we give Amazon its good name and we should not be retaliated against for trying to make this a safe and sustainable career. This is why the Delivery Protection Act needs to be passed, because it is clear that Amazon cares so little about the hardworking men and women who work for Amazon for the bills they have to pay and the families they are trying to support. Thank you.
 
-(05:13:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18811s
+(05:13:31)
 
 Thank you. Go ahead.
 
-(05:13:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18814s
+(05:13:34)
 
 Hi, how are you doing? My name is Jesus. I was born and raised in the Bronx. I am here representing One Dream Logistics. I just want to say that I honestly have had an amazing experience. I have been there for about a year now — I make a year in about two weeks — and I honestly have had an amazing experience. I learned so much from my manager and my co-workers. I also learned a couple of things that I could take with me in life as well. Every morning we do a standup. So basically the owner of One Dream Logistics will come in, talk to all the drivers that are going out on the road today, give us a motivating quote, and basically talk us through the day, tell us how the weather is, and basically give the drivers a pat on the back for the top performing drivers from the previous day.
 
@@ -2427,11 +2427,11 @@ Also, every week he likes to give out rewards to the top performing drivers, so 
 
 Another thing I can say is that my manager basically did not look at my background. He basically took me in as one of his own. He also basically showed me what it is to be a business owner as well. Hopefully, I do have goals of owning my own DSP as well. I do not know what this situation might mean for the future, but as a small business owner, I see him helping families, helping churches, and he is doing that off of his own free will. That is motivating to me and that is also inspirational to me, and that is why I have hopes of one day owning my own DSP. But that is pretty much it.
 
-(05:15:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18948s
+(05:15:48)
 
 Thank you. Go ahead.
 
-(05:15:51) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=18951s
+(05:15:51)
 
 Good afternoon. My name is Michael LeBron. I work at JFK8, a fulfillment center in Staten Island. But before that, I worked at a delivery station called DYX2. I am here today to speak about the safety violations I witnessed in the last mile facility and the broader lack of accountability at Amazon. At DYX2, there is a process called TDR — trailer docking and release. It is a critical safety role where workers secure those trucks to make sure that it is safe to unload and load the packages, because it is so dangerous at times. If done incorrectly, all workers must be properly trained and certified yearly just to do that role. But in my experience, especially during peak season like Prime Day and the holidays, those safety rules went out the window.
 
@@ -2439,11 +2439,11 @@ When things get busy, management pressured myself and my co-workers who are untr
 
 We have already seen what happens when safety fails. In April 2025, a fellow coworker named Leonor Chaveal was killed during my shift at JFK8 by being struck by a reversing box truck. After his death, Amazon avoided responsibility by saying both him and the driver were contractors. For workers like me, that sends a clear message: even when someone loses their life, the company can avoid accountability. We were never told what happened or whether it was a safety issue. When something that serious happens and workers are left in the dark, it shows how little Amazon really cares about us. That is why the Delivery Protection Act needs to be passed. It would ensure companies like Amazon follow the law and that all workers, no matter how they are classified, are protected by real safety standards and enforcement. Thank you for listening.
 
-(05:18:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19094s
+(05:18:14)
 
 Thank you. Go ahead, Manny. Do you want somebody to read it for you or do you have it?
 
-(05:18:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19100s
+(05:18:20)
 
 Where is it? Oh. Good afternoon. My name is Manuel Martinez. I live in Far Rockaway and I travel all the way to the Staten Island JFK8 warehouse. I have been employed there since 2021. I am a blind employee and there are many like me in the facility. In this facility, there is a green tape — a green thick layer of tape we call the green mile. This green mile helps people who are visually impaired and blind associates to navigate through the facility. With this green tape, there is supposed to be a clean, clear walk pathway for us. A lot of times it is not.
 
@@ -2451,55 +2451,55 @@ I am here to speak on a safety violation that occurred a few months ago. There w
 
 Still to this day, there has been nothing — no kind of accountability from management and leadership. That is why I am in favor of this bill. It will help keep Amazon accountable and make them more proactive instead of reactive, and make sure that management can no longer get away with any kind of violations, even those affecting people who are disabled. I think that we could do better. Thank you and have a good day.
 
-(05:20:08) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19208s
+(05:20:08)
 
 Going to my colleagues, if anyone...
 
-(05:20:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19214s
+(05:20:14)
 
 Okay. So you were fired by your DSP or by Amazon?
 
-(05:20:28) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19228s
+(05:20:28)
 
 I mean, my DSP owner fired me, but being that none of my co-workers and I felt that we were safe to talk about union organizing on the job, I feel it is safe to believe that these DSP owners and managers are briefed on watching out for people like us because we are a threat to them. So I like to think that, big picture, Amazon is also targeting us, but it is the DSP owner.
 
-(05:20:58) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19258s
+(05:20:58)
 
 Were you able to file a complaint, a labor board complaint, like a lawsuit, a labor board complaint, or did you go to worker protection?
 
-(05:21:10) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19270s
+(05:21:10)
 
 Yeah, the Teamsters have my back and they filed an unfair labor practice lawsuit for me on my behalf. Yeah.
 
-(05:21:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19280s
+(05:21:20)
 
 Thank you.
 
-(05:21:23) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19283s
+(05:21:23)
 
 Go ahead.
 
-(05:21:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19284s
+(05:21:24)
 
 Thank you. I have noticed that you guys have been sitting here for the entirety of the hearing. Earlier, we heard testimony where someone said that essentially what some of the normal practices are is that when the workers at a DSP organize and vote to form a union, what they are seeing afterwards is that Amazon then terminates the contract with that DSP. Is that something that you have seen or heard of? Absolutely. I know people personally, including people in this room, who have had their DSP contracts cut as soon as they tried to fight for something better. And I read about this experience on the internet all the time. Yeah, it is very common and it is a very easy way for Amazon to essentially nullify our right to unionize our jobs by just cutting the contract. Got it. Thank you.
 
-(05:22:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19340s
+(05:22:20)
 
 Thank you all for staying and for taking
 
-(05:22:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19342s
+(05:22:22)
 
 the time to be here. Lewis Leandri, Zach McHugh, Joshua Viegas, Gerard Bismagi, Sheris Smith, Matt McGari... Is anyone else on this panel here? Okay, we are just going to call more people then. Matthew Maltari, Christian Martinez, Connor Spence, Kenan Jones and Jeffrey Aras. Okay, next one. Whoever is ready to go, you can please go. Go ahead.
 
-(05:23:47) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19427s
+(05:23:47)
 
 Yeah. When it is red, just make sure it
 
-(05:23:50) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19430s
+(05:23:50)
 
 goes red.
 
-(05:23:50) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19430s
+(05:23:50)
 
 >> Got it. Thank you. My name is Matt Mutari. I live in Astoria and I drive for Amazon at DBK1. So I want to tell a story today. One day on the BQE, I am driving between stops and my van's transmission is shot. I could not accelerate past 25 mph and then the transmission just randomly switches to neutral. So I am stuck on a highway in New York traffic decelerating well below the speed limit because the van is in neutral. I am unable to control my vehicle and I am just trying to make it to the next exit safely. When I pulled over, my heart is racing, my ears are ringing, and I just had this thought that I almost died dressed like a tube of toothpaste. And I am here today to make sure that that does not happen to anybody else.
 
@@ -2509,31 +2509,31 @@ Amazon also dictates how we do our job down to the smallest detail. If we go slo
 
 City Council, please pass the Delivery Protection Act. Let us do our jobs safely with equipment that works and without being forced into dangerous situations by algorithms and people who have never had to lift 100 pounds of fancy mineral water up five flights of stairs. Amazon is a threat to the people of New York, so please put it in check. Thank you.
 
-(05:26:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19603s
+(05:26:43)
 
 >> Thank you. Go ahead.
 
-(05:26:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19606s
+(05:26:46)
 
 >> All right. Good afternoon, Council members. My name is Connor Spence and I am the president of Amazon Labor Union, International Brotherhood of Teamsters Local One. I am here speaking in support of the Delivery Protection Act. As corporations like Amazon become wealthier and more powerful, the more theoretical the law becomes for them. Instead of serving as a tool of justice, the legal system becomes a toy, something to manipulate, a tool that allows companies like Amazon to exist in a state of constant contradiction. I am one of the original organizers of the union campaign at Amazon's JFK facility in Staten Island, the warehouse where we won a historic union election in 2022. Four years later, Amazon still refuses to honor the results of that election. They are illegally refusing to come to the table and negotiate with workers despite being ordered to do so several times, including as recently as last week. In our case, they argue they do not believe the NLRB process was legitimate because it did not reflect the will of a majority of employees. So in response, over 30 units of workers at facilities across the country have unionized through a different process, one that starts with a majority of employees asserting their union status and giving the company every opportunity to
 
-(05:27:56) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19676s
+(05:27:56)
 
 challenge that majority. They claim that process is unfair, too. To Amazon, no process is legitimate when workers win. They went to federal court to argue that the National Labor Relations Act was unconstitutional and that we need to throw out a century of labor law. But when workers sought to have labor violations addressed at the state level, Amazon intervened and said those cases needed to go to the National Labor Relations Board, the same agency they believe should not exist. They always want to have it both ways. This company does not operate on principle. They do not believe in the law. Their only north star is the pursuit of profit and they will do and say whatever it takes to make the most money possible.
 
 So when Amazon tells us delivery drivers are not really their employees even though they wear Amazon uniforms, drive Amazon vans, and work under Amazon's complete control, are we really supposed to believe that? Or are we going to acknowledge that as usual they want to have it both ways? They want to be the boss without being the employer. We need the Delivery Protection Act because we need stronger guardrails around what a company like Amazon is allowed to get away with and how they are able to impact workers and our communities. Thank you.
 
-(05:29:03) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19743s
+(05:29:03)
 
 >> Thank you again.
 
-(05:29:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19746s
+(05:29:06)
 
 >> My name is Jeffrey. I worked at DBK Ford Management for about two years as an Amazon driver. Have you seen Amazon drivers drag a bag-like box across the ground while delivering? This is because we need hand trucks to be able to do our jobs properly. As delivery drivers, these hand trucks are extremely important. They take loads off our body and help us move packages efficiently. One day, I was clocking into work. I picked up my pouch with the Amazon van key and dispatch had a limited amount of hand trucks. I did not get one. I had many heavy oversized packages and my management said, "Amazon will not provide it for you guys, and they do not pay us enough money to buy hand trucks. This is Amazon's fault." However, when I go to Amazon directly about these issues, it is often neglected because Amazon states I do not work for them and tells me to contact my DSP about my issues. So while Amazon gets their way and gets their profits, the DSP is there for no reason, just to take responsibility away from Amazon and exploit us.
 
 As Amazon drivers, we usually are not provided hand trucks. And this is one reason why Amazon drivers are frequently getting injured. I always went home with aches and pains in my back, my shoulders and my legs, and I am still dealing with it to this current day, and I am only 24 years old. You may think a hand truck is not a big deal, but as a delivery driver, this is extremely important for our safety. This was not a one-time occurrence, but one example out of many to show how Amazon hides behind their DSPs to avoid responsibility for our safety. The Amazon drivers that deliver your packages every single day are suffering. How do you expect Amazon drivers to do their job efficiently, save their body from injury, and have a career without the key tools to deliver safely? Please, we need to pass the Delivery Protection Act. Thank you for the opportunity to testify at this hearing.
 
-(05:30:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19852s
+(05:30:52)
 
 Hi, how are you doing? My name is Tristan Martinez. I live in Staten Island and I am a worker at Amazon's JFK8 facility for the last 7 years. I have been organizing with the Amazon Labor Union since before it was formed in 2021. I was part of the campaign that made JFK the first unionized Amazon facility in history. I am here today because I have seen firsthand how Amazon breaks labor law and how they continue to get away with it.
 
@@ -2543,11 +2543,11 @@ In 2024, the National Labor Relations Board ruled that these types of captive au
 
 That is why I support the Delivery Protection Act. This Bill would require companies like Amazon to actually comply with labor laws. And if they want to keep running their last mile delivery operations in this City, if a company is breaking the law, they should not be able to keep doing business as usual. Please pass this Bill. Thank you, City Council, for holding this hearing and allowing workers like myself and everyone in this room to say their piece. Thank you.
 
-(05:32:57) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19977s
+(05:32:57)
 
 >> Go ahead, sir.
 
-(05:32:59) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=19979s
+(05:32:59)
 
 >> Hello, ladies and gentlemen. My name is Kenan Jones. I am an Amazon driver from DBK4 in Maspeth, Queens, who was unfairly and wrongfully terminated in 2024 for simply exercising my right to organize with my union. The truth is we are fed up with the unfair and unsafe conditions we are forced to work under for the sake of productivity and profit. The vans are unsafe for the public and frankly disgusting for drivers. I have been forced to drive vans full of garbage, bottles of urine, and even blood and vomit, when to cut costs they send people home that could at the very least make sure that the vehicles are sanitary. And as an Amazon customer, do you want your packages coming into your home from a van with urine, blood, and vomit?
 
@@ -2555,83 +2555,83 @@ Many of these vans are not safe to be on New York City streets. I have been told
 
 This is not an attack on private enterprise. This is a plea for human dignity serving the public. I am also here on behalf of the 2,000 plus drivers that used to work at CMP Logistics, now known as NetZero, owned by Mark Chioano, who were terminated unfairly and unjustly as well. Stop letting Amazon pass the blame to the delivery service partners who are also cutting corners to maintain their companies. Please pass the Delivery Protection Act to keep you and I safe and hold Amazon accountable for their employees. Thank you.
 
-(05:35:01) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20101s
+(05:35:01)
 
 >> Thank you. CM Aldebol. >> Yeah. So I have a question. Who did the orientation meetings and the captive audience meetings? Was it your DSP or Amazon?
 
-(05:35:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20119s
+(05:35:19)
 
 >> It would be Amazon.
 
-(05:35:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20121s
+(05:35:21)
 
 >> Amazon. Same. Yeah. In our warehouse it was Amazon. They would fly in special people from out of state to come and run these meetings.
 
-(05:35:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20133s
+(05:35:33)
 
 >> Yeah.
 
-(05:35:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20134s
+(05:35:34)
 
 >> Same with us, but the DSP would also participate. Like, the DSP managers would speak in addition to the union buster.
 
-(05:35:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20143s
+(05:35:43)
 
 >> Thank you. That is helpful. CM Ossé, but while we have a tour of the balcony from the Scottish Parliament delegation, thank you for being with us and joining us here at City Hall. >> Thank you. I want to ask about the tracking. While you are making deliveries, you are being tracked, right? Can you talk about how you are being tracked? What the app does, what
 
-(05:36:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20169s
+(05:36:09)
 
 kind of system it is, whether it tells you if you are on pace — just describe what it does every day. >> So they have an algorithm when you deliver packages. It might say you are a certain number of stops behind or a certain number of stops ahead. And everywhere you go, whenever you are logged into the Flex app or the Mentor app, you get tracked
 
-(05:36:29) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20189s
+(05:36:29)
 
 anywhere you go. And if you forget to log out of it, and if you use your personal phone — because often the phones die — you may have to log into your personal phone to deliver packages because the phone may not work or may not be charging or they cannot get a charger to you. So you may log on to your personal phone and then forget to log out of the Flex app because you are delivering packages on your personal phone. And then they can track you at your house or wherever you go after work. Even after you clock out, they can see from the computer at the dispatch table.
 
-(05:37:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20220s
+(05:37:00)
 
 >> Does anybody else have other information to add about the app and how it tracks or what it tracks?
 
-(05:37:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20229s
+(05:37:09)
 
 >> Yeah, go ahead.
 
-(05:37:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20231s
+(05:37:11)
 
 >> It tells you how many stops are in your route in total. And then you see it is like a bar and it goes down as you deliver. Same thing with the number of packages. And then you have a map which is your itinerary. So you see where the stops are on the map. As you are doing it, they tell you sometimes if you ask a manager about the pace, but you mostly learn just from other drivers and experience. Usually it is around between 10 to 20 stops an hour. Sometimes maybe a little bit faster, maybe a little bit slower depending on the route volume. But if you are way below, like five stops an hour or something, and you have not done a certain number of stops in an hour, they will probably call you.
 
-(05:37:47) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20267s
+(05:37:47)
 
 >> Got it. And who calls you, your DSP or somebody else? >> Yeah, like your dispatcher.
 
-(05:37:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20275s
+(05:37:55)
 
 >> Okay, got it. Because we heard
 
-(05:37:57) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20277s
+(05:37:57)
 
 earlier that Amazon is sending it to the DSP and then the DSP is sending it to you, the driver. But do you know if your DSP designed the app that you use, or could they turn off the app for you if they wanted to? >> No, this is designed by Amazon. It is
 
-(05:38:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20294s
+(05:38:14)
 
 Amazon Flex.
 
-(05:38:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20296s
+(05:38:16)
 
 >> Got it. Okay. Yeah. And Amazon can ban your account. So it would not have anything to do with the DSP. If Amazon sees something they do not like or somebody reports something, you can get your account banned directly from Amazon and then no DSP will ever be able to hire you again.
 
-(05:38:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20311s
+(05:38:31)
 
 >> Got it. Thank you. Thanks, Chair.
 
-(05:38:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20314s
+(05:38:34)
 
 >> Thank you. And thank you for your time and for staying this long on this panel. I want to bring up the next panel: Amit Chararma, Dan Brooks, Lou Ahmed, Mark Fashini, Joseph Watson and Charlie U.
 
-(05:39:18) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20358s
+(05:39:18)
 
 All right. Go ahead. We can just start, sir. Yeah. >> Good morning. My name is Denon Brooks
 
-(05:39:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20365s
+(05:39:25)
 
 and I am a representative for Kaizen. I do not work for Amazon. First and foremost, if you flip this bill, it would diminish a lot of the small businesses that help other people grow and who are interested in making their lives much better. For myself, I am 53, I have a senior citizen mother, and I was homeless. Kaizen gave me the opportunity to make my living arrangements much better instead of trying to be inside a shelter and depending on the City or the state to help us. So the dependency is upon me and my senior citizen mother. Right now I live in an Airbnb. I do not have a home. So basically I am still homeless. But I work with Kaizen and they gave me the encouragement to do better, to take care of my mom and find a home for us. I just came back to New York about a year ago. So being with them has given me more inspiration to do good for a business that is not for everybody else. Being independent and growing gives me inspiration to do better for the company.
 
@@ -2639,11 +2639,11 @@ and I am a representative for Kaizen. I do not work for Amazon. First and foremo
 
 >> And my co-workers. I have been put in a position to teach about safety, reliability, responsibility and being held accountable for all your responsibilities on the job. So I enforce that for all the younger people that work with me. And if you pass this bill, you are just taking away from us that are struggling, trying to make it, trying to keep our head above water. That is all that I have to say. And really, basically the issue here is Amazon. So I am quite sure there are other ways to work around this and help enforce safety for those with these smaller companies, but the main character is Amazon. They need to be held accountable and not be giving money under the table to politicians.
 
-(05:41:31) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20491s
+(05:41:31)
 
 >> Thank you. Go ahead, ma'am.
 
-(05:41:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20494s
+(05:41:34)
 
 >> My name is Sarah Thompson and I am here in opposition of this bill. The true and immediate effect of passing this type of bill is thousands of people, including myself and the hundred-plus people I employ, would be quickly out of a job and for many more people out of purpose. I am an ebike business owner here in New York City, which I am passionate about for so many reasons, including because it is a great operation and a visible part of the one and only New York City community. Our method is a new wave that is great for the environment. We are green and lean but mighty and already a visible niche in the city, delivering smiles safely to every corner.
 
@@ -2653,7 +2653,7 @@ I do not subcontract anyone. I directly employ every person that joins my team a
 
 This bill and so much of this conversation dehumanizes the true touch and impact my company and others like it have on everyday people. This bill does not protect workers. In plain English, in my opinion, it is a war on mom and pop logistics shops. It is literally trying to eradicate small businesses that, in a world and society where conglomerations have a monopoly on almost everything, have resiliently and in partnership etched a way into existence. Also, a comment made by a Council member earlier about the attention that Amazon is giving this bill: Amazon is taking a major hands-off approach here because they are not interested in battling City Council. All the attention and chatter you are experiencing is from company owners and people on the ground. I shudder at so much of this conversation that seems more like political agenda and war against one or two corporations, with a full understanding that small business is left in the dust and the worker is even more exposed to job insecurity. >> Thank you.
 
-(05:45:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20700s
+(05:45:00)
 
 >> Hello, my name is Mark Fisheen. I was born and raised in Queens and have lived there my whole life. I own a small package delivery service company and I vehemently oppose the Delivery Protection Act. I started my first shipping company in April 2013 by purchasing a route which serviced Midtown Manhattan that employed one full-time driver and four full-time helpers. Later in 2013, I purchased another route adjacent to the first that employed one full-time driver and three additional full-time helpers. The drivers that were running and managing those routes are still employees of mine 13 years later. From there, I grew our logistics business and as of today we currently have 225 delivery associates, 25 field managers and 10 dispatchers.
 
@@ -2663,21 +2663,21 @@ The reason I got into this business is because I saw the emerging growth of e-co
 
 I will just finish with this. I own and operate a completely legal business in the state of New York with our own DOT number, carry every mandatory insurance, only have W2 full-time employees and pay all of our taxes as required by New York City, New York State and the federal government. What City Council is proposing is to make a draconian law that will force my legal entity to shut down.
 
-(05:47:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=20860s
+(05:47:40)
 
 >> Good afternoon, Council member. I am Ahmed Sharma. I am another small business owner. I am from New York. I operate out of the Bronx. The reason I got into business is that I came from a corporate world, but over there I felt like another drop in a big ocean. I took a pay cut, a salary cut, because I felt like I could do more with the community if I were a small business owner. The entire fabric of this country... New York City provides an environment for people like us to create opportunity. People like you provide us the power, give us the platform so that we can thrive on that platform and create an ecosystem. So this small business ownership is because of you, because of New York City, and that is how I was able to build this small business from scratch.
 
 We have almost 125 plus employees and they are my team members. I have a role as an owner-operator. I have responsibilities, and each and every employee of my team has their roles and responsibilities. With this bill, it will entirely scrap that fabric. I will lose that connection. My employees will lose that connection. I humbly request that you please look into the technicalities. There are definitely areas of improvement and I am all for that, but please do not look through one lens. There are so many spectrums. It is one ecosystem of small businesses supporting so many other ecosystems of small businesses. In the Bronx, there is a shop, there is a mechanic who is tied to us, and there are so many people who are relying on us. So please, I humbly request you to look into the bill and the technicalities of that. I am hoping for the best. Thank you.
 
-(05:50:05) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21005s
+(05:50:05)
 
 >> Thank you. Go ahead.
 
-(05:50:07) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21007s
+(05:50:07)
 
 >> Okay. All right. Good afternoon. My position is opposing the bill. My name is Jordan Rodriguez. I am a Dominican kid born and raised in the Bronx by immigrant parents. I grew up in Section 8 housing in a household where my parents struggled to make ends meet. In 2020, during COVID, I started off as a delivery driver for a DSP. After a year I worked my way up to a manager position. By 2024 I was given the opportunity to start my own DSP in the Bronx. Today I employ 180 drivers, including my own father. My company is not just about delivering packages. We give back to our community, from back-to-school supply drives for
 
-(05:50:57) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21057s
+(05:50:57)
 
 local schools to turkey giveaways to partnerships with organizations like Robin Hood and L'Oreal to donate hygiene products to homeless shelters. We also invest in our employees through Amazon's Next Mile program, helping them pursue higher education, and we open doors for those who need it most. I actively hire from workforce programs and homeless shelters, giving people a real second chance at stable employment.
 
@@ -2685,11 +2685,11 @@ And I want to be clear about something. Safety is not just a policy for my compa
 
 If the allegations being made about unsafe conditions were true, companies like mine would not even be in business. Our insurance, our ability to operate and our revenue are all directly tied to our safety scores and the condition of our vehicles. We are held accountable every single day. And let me say this: these employees need and appreciate having direct access to an owner, someone they call a brother, a mentor, someone who shows up. That is what we provide. This bill puts small business owners like me at risk. It threatens the livelihoods of nearly 45,000 workers across the five boroughs. I am living proof that this program creates opportunity, real opportunity for people from communities like mine. Thank you.
 
-(05:53:02) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21182s
+(05:53:02)
 
 Thank you. And I just want to be mindful that we are going to get kicked out of here at 4:30. So we may be able to go across the street and get a room, but I would like to try to get through everybody if at all possible today. Thank you.
 
-(05:53:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21194s
+(05:53:14)
 
 >> Thank you, Council members. Appreciate you listening to all of our opinions. My name is Ron Shaw and I am a first generation American, born in Queens, New York. I own a small delivery business in the Bronx where I employ over 80 W2 workers and I am here today to speak against the bill.
 
@@ -2699,7 +2699,7 @@ That is why I made the hardest decision of my life in my career. I gave up that 
 
 And just like my drivers, I know these people too, all on a first-name basis. I know all my drivers by name and more importantly, I want to create real opportunities for them, whether that means helping them continue their education through tuition reimbursement, advance their careers or even take steps towards buying their first car. This is who you are voting against: real people, real families and real small businesses deeply connected to the communities they serve. Thank you.
 
-(05:55:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21311s
+(05:55:11)
 
 >> Hello, Council members. Thank you for having us. My name is Lou Ahmed. I am a small business owner, a DSP, an ebike DSP. If Int 0518-2026 passes, small businesses across the city will not slow down or restructure, they will simply close. If we want to have a conversation about how we can move the needle on safety and some of the other topics discussed here, I just do not think it should come at the sacrifice of all these small businesses who have worked so hard.
 
@@ -2707,19 +2707,19 @@ I moved here from Louisville, Kentucky with immigrant parents and a pregnant wif
 
 I think this bill paints with an extraordinarily broad brush. It treats a complex, layered industry as if it were a single problem with a single fix. That thinking will produce consequences no one in this room has fully mapped out yet. Supply chains, employment relationships, community contracts, all of it is disrupted by legislation written as if none of that complexity exists. The damage does not stop at us. Mechanics and all kinds of local vendors, as others have spoken to, depend on DSPs as well. I came to New York with a dream. I thank you for your time today and I hope you oppose this bill.
 
-(05:57:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21437s
+(05:57:17)
 
 >> Thank you, and thank you to this panel. I do not see any of my colleagues with questions so I want to thank you all for spending the time here. I am going to move on to the next panel. Ada Alcantara, Joselyn Vega, Don Cunningham, Don Mosley, Fuj Osam and Christine Chan. I might need more people. These are next. If any of those folks are here, please come up. If not, I want to get additional people on this panel: Timothy Dennis, Dale Gardner, O Lake Sander, Marlua, Tybran Barnes and O'Neal Washington. And one last one, Cosmo and Jen Hill, if you are here, please come up too. Just start with your name so we know who is here from all the names I read. Go ahead.
 
-(05:58:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21514s
+(05:58:34)
 
 >> My name is Christine.
 
-(05:58:37) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21517s
+(05:58:37)
 
 >> Press the button. It is red. Yeah.
 
-(05:58:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21519s
+(05:58:39)
 
 >> I am a delivery service partner owner called Highgate Logistics, based in Harlem, New York. I am feeling very emotional listening to this testimony. I have been in logistics for 20 years. I love local logistics. I started off at 26 years old, not owning my own business but being a courier operations manager, and I kind of fell into the career. Even though I am a girl from Queens with a college degree, I just did not fit into a corporate environment as a gay woman in my twenties some years ago. I will not tell you exactly how long, not to date myself. I felt really out of place in a big corporation and the logistics industry really embraces people like us. I found a place leading and managing delivery teams and doing something I found very fulfilling. I really value my employees and growing and developing them.
 
@@ -2727,11 +2727,11 @@ I have been in this for 20 years and I think, again, I have heard from the testi
 
 I have been doing this for 20 years. I just think it would be a shame because we were here during COVID. I was pulled out as an essential worker managing my team to make sure people got their deliveries. Now you are saying you want to outlaw my business. That is all I have got to say. Thank you.
 
-(06:00:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21643s
+(06:00:43)
 
 Thank you. Go ahead.
 
-(06:00:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21645s
+(06:00:45)
 
 My name is Danielle. I am here today because Int 0518-2026 would take away something I worked hard to build. Before this job, I was bouncing between DoorDash and Uber, logging on whenever I could just to try to scrape together a little money with no real stability. This job changed that. I started out on an ebike making deliveries. I worked my way up to dispatcher, then HR supervisor. That is not luck. That is me showing up every day and proving myself. I have three kids and this job fits my life in a way that most jobs never could. A flexible schedule means that I do not have to choose between a paycheck and being there for my children. Weekly pay means my bills get paid on time and real benefits that matter more than people realize when you are raising a family.
 
@@ -2739,91 +2739,91 @@ Let me tell you, Amazon actually does care about us. I know this firsthand. I ha
 
 This is the longest job I have ever held. Let that sink in. Not because I could not keep a job, but because nothing else worked for my life until this did. And it is not just me. The people I work with every single day, they all come from somewhere. They all have a story. Single parents, immigrants, people rebuilding their lives. We found something here that works for us. And to everyone in this room, without us, you would not be able to get your last minute deliveries. We are out there every single day keeping the city moving. We help run NYC. Int 0518-2026 does not protect workers like me. It disrupts the very thing that is keeping us stable. Do not take the flexible schedules away, the weekly pay, the community and the opportunity to grow. For a lot of us, this is not just a job. This is how we survive.
 
-(06:02:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21773s
+(06:02:53)
 
 Hello. I am here because I am really appreciative of what the DSP program has done for me. I am going to be open — I have autism. I faced a lot of prejudice trying to get a job. No one would believe in me. No matter where I would go, it was five, three months later, that is it. You are out. But these people really believe in me. I feel like they really care about me. I am a driver for Northstar Logistics. I really feel like we are a family. Every single morning, just seeing the same faces — we are not just a number. I am going to be honest: if we worked directly for Amazon, we would just be a number and they would not care about us.
 
 I really feel Northstar Logistics cares about me because even when I was going through something — I was attacked on the job — they really comforted me. I was crying and I really appreciate what they have done for me. I do not even know where I would be. The experience they have provided for me has been a really big blessing. I probably would not have found that anywhere else. I just think they deserve to exist. I just have one thing to say, and that is...
 
-(06:05:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21900s
+(06:05:00)
 
 ...that I think we are painting the DSPs with a broad brush. Not all DSPs are bad. Some of them actually really care about us.
 
-(06:05:09) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21909s
+(06:05:09)
 
 Thank you for sharing that.
 
-(06:05:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21911s
+(06:05:11)
 
 That is all I have to say.
 
-(06:05:12) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21912s
+(06:05:12)
 
 Thank you. Go ahead, sir.
 
-(06:05:16) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21916s
+(06:05:16)
 
 Good afternoon. Excuse me. Good afternoon, chair and Council members. My name is Tyrie Barnes. I am affectionately known as Ty Barnes. I am the owner of Northstar Logistics in the South Bronx and Timothy is one of my employees — actually, one of our favorite employees.
 
-(06:05:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21932s
+(06:05:32)
 
 I am the son of...
 
-(06:05:33) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21933s
+(06:05:33)
 
 What are you going to say? There were other people now. >> Well, I said one of them.
 
-(06:05:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21939s
+(06:05:39)
 
 I am the son of teenage parents who...
 
-(06:05:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21942s
+(06:05:42)
 
 ...struggled in low-income housing. I have been a DSP owner for two years as of today, April 9th. Today is my two-year anniversary.
 
-(06:05:50) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21950s
+(06:05:50)
 
 Congratulations.
 
-(06:05:51) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=21951s
+(06:05:51)
 
 Thank you. Hopefully we will be here indefinitely going forward. I operate a fleet of all-electric Rivian vehicles and have delivered over 4 million packages and smiles to residents of the South Bronx. Safety is our top priority and I employ my father, who is a retired MTA bus driver, to help train my drivers after the initial training with Amazon, as well as my operations manager. I do not support Int 0518-2026 and the delivery protection act. I am from the Bronx and I used my life savings for this opportunity to own and operate my DSP business in the South Bronx. I employ over 120 full-time employees, most of whom were hired through the Workforce One program. I provide health care, dental, vision, PTO, 401k with a 5% match, tuition reimbursement, four-day work weeks, guaranteed hours and bonus hours.
 
 In addition, I am a resource to all my employees who want to apply for any full-time state or City jobs. I fully fund that out of my own pocket, all testing fees included, because I care about all my employees and advancing their careers, whether they are with Northstar or with any City or state agencies. As a DSP owner, I support my community by providing over 500 meals during the holidays. I support children with special needs by donating school supplies to District 75 schools, as they need the most resources. I know this firsthand because my son is a District 75 student. It is important to recognize the value of having a CEO of a small business who came from the same community in which the business operates. Many people cannot say that they have a personal relationship with the owner of a company they work for. I am an inspiration to my community, as they can put a face and name to the company and be inspired to become an entrepreneur as well through direct employment.
 
-(06:08:03) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22083s
+(06:08:03)
 
 If you can wrap it up. Yeah.
 
-(06:08:06) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22086s
+(06:08:06)
 
 I am just trying to do my part and make the City a better place. Thank you.
 
-(06:08:11) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22091s
+(06:08:11)
 
 Thank you. Go ahead, sir.
 
-(06:08:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22099s
+(06:08:19)
 
 Hi. My name is Joseph Gatesy. I live in Manhattan Valley. I work in this city every single day. I am here to tell you that Int 0518-2026 would hurt people like me, not Amazon. I did not start where I am now. I started as a driver. I was behind the bike making those deliveries, learning this industry from the bottom up. Through hard work, real hard work, I worked my way to management. The DSP model made that possible. It gave me a ladder to climb when a lot of people in this city never even get shown where the ladder is. That is not a small thing. That is everything.
 
 This bill would end the delivery service partner model by forcing companies like Amazon to directly hire every driver. When that happens, Amazon does not suffer. They absorb, they automate and they move on. But I am gone. My station is gone. And the next driver out there with the work ethic and the hunger to move up the way I did, that path is gone too. This bill forces last-mile facilities to either make massive operational changes or shut down entirely. I am not a corporation with a legal team. I am a guy from the neighborhood who earned his seat at the table one shift at a time. I am not here defending Amazon. I am defending myself. I am defending every driver who thinks about their future the way I once thought about mine. I am defending my boss, a great owner who has built something real, who does right by her employees and who deserves the right to keep running her business the way she has earned the right to run it. Do not close that door. Vote no on Int 0518-2026.
 
-(06:09:58) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22198s
+(06:09:58)
 
 Go ahead.
 
-(06:10:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22200s
+(06:10:00)
 
 Good afternoon, chairs and members of the panel. My name is O'Neal Washington and I am in opposition of this bill. I am not here today just as an operator. I am here as a voice for the men and women who have their jobs on the line. The same workers who carry this city through the toughest times. The same workers who show up in the rain, snow and heat. The same workers who do not get to work from home. Those are the people whose jobs and pay are on the line. Let me be clear today. This is not just policy. This is people's lives.
 
 Every new restriction, every added cost, every decision made without understanding what happens in the field with DSPs — it does not hurt corporations first. It hurts workers. I have looked my team in the eyes. I have seen the stress. I have heard the questions: how am I still going to have a job? How am I still going to be able to provide for my family? Today, I should not have to stand here without answers for them. That is unacceptable. We as a team are committed to safety. We are committed to compliance. We are committed to doing our part. But we will not stand by while our workforce is squeezed out. So I am asking you directly: stand with the workers, not against them. Protect our jobs. Protect our pay. Because if you do not, real people will pay the price and that responsibility will not be invisible.
 
-(06:11:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22285s
+(06:11:25)
 
 Thank you, sir. Go ahead.
 
-(06:11:29) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22289s
+(06:11:29)
 
 Hi, good day. My name is Kosma Joyel. The name of my company is Chrysler Inc. I am an ISP with FedEx. I have been doing it since 2009. I started with just me and another driver, two trucks. I drove one, he drove the other. We have been doing this for years, delivering and helping so many different people, so many different cultures. There is no culture I can think of that has not worked with me from 2009 until now. Every nation has worked with me. There is no one we have turned away.
 
@@ -2831,43 +2831,43 @@ The beauty of what we do and what I like about our system is that we go into man
 
 Small business people like me, we help a lot of people. The same people who are picking up the garbage, who are driving the MTA buses — they came from us. We trained those people. We taught them how to drive until they moved up the ladder and went somewhere else. They are the ones picking up the garbage. They are the ones driving the grandmas and grandpas on the MTA bus. We are the ones delivering the medicines. We are the ones you can depend on.
 
-(06:13:21) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22401s
+(06:13:21)
 
 Small business owners are needed in New York City. That is it. Thank you.
 
-(06:13:29) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22409s
+(06:13:29)
 
 No questions. All right. Thank you all for being here. We will bring up the next panel: Ariel Mikit, Tyrell Brown, Sean Leverne, Charles Di Maria, Miguel Fcella, David Rodriguez, Isabelle Ayach, Mario Nicolauo and George Barrera. Is anybody else here who is on this list? Okay, you are not on this panel. Go ahead, gentlemen. You can just start, please.
 
-(06:14:23) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22463s
+(06:14:23)
 
 This is it. Last one.
 
-(06:14:25) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22465s
+(06:14:25)
 
 Good afternoon. We have one more panel after this. So you can sit down if you want. You are welcome.
 
-(06:14:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22472s
+(06:14:32)
 
 Yeah, me too.
 
-(06:14:35) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22475s
+(06:14:35)
 
 Go ahead. >> Go ahead.
 
-(06:14:39) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22479s
+(06:14:39)
 
 Okay. Good afternoon.
 
-(06:14:40) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22480s
+(06:14:40)
 
 Hey, put two minutes back up.
 
-(06:14:42) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22482s
+(06:14:42)
 
 Thanks.
 
-(06:14:43) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22483s
+(06:14:43)
 
 Good afternoon. My name is Charles Di Maria. I am the owner of Accelerated Flywheel Logistics. We are an ebike delivery company. We deliver throughout lower Manhattan. We deliver to this immediate area. I am here today in opposition of Int 0518-2026. I do not come from money. My family does not come from money. My father worked three jobs when I was growing up. My mother worked. I started working when I was 14. My path was not linear. I did not graduate college until I was in my 40s. I got my MBA at 46. I know what it feels like when your potential does not fit neatly on a piece of paper.
 
@@ -2875,21 +2875,21 @@ I started this company six months ago and right now I am here fighting for somet
 
 What we are doing is helping people who large corporations will not look at. There was one time I was interviewing somebody. He was 20 years old. The resume said he had never had a job. I asked him, "Well, what do you do to get by?" He is a break dancer on 42nd Street with a troupe. In talking to him, I saw discipline. I saw teamwork. I saw resilience. I saw transferable skills. He works for me today. I hired him in November. Then there are other folks who, when they come in, are looking for predictable schedules. We have predictable schedules. We have PTO. We have benefits. We are hiring people that when they show up for an interview, they are showing up with a cart with everything that they own. Those we hire, we are helping them navigate the paperwork to get in and out of shelters. I also operate ebikes at 3:30 in the morning. They need paperwork to leave the shelter during off hours or to get back in. A large corporation and their email address to HR is not going to help them. They need the help of small business owners to get to that next step.
 
-(06:17:18) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22638s
+(06:17:18)
 
 Thank you. I am trying to get one more panel in before we are kicked out. So I am sorry to be cutting people off, but if we can try to get through this so we can let everyone testify.
 
-(06:17:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22650s
+(06:17:30)
 
 Hello. Thank you for the opportunity to share my voice. My name is Tyel Brown. I hail from Woodside, Queens. I am an operations manager at Accelerated Flywheel. This is my boss, Charles. My journey with the company has been remarkable, spanning from an initial role as a delivery associate to dispatcher and now my current position. Let me take you back to the first week of deliveries in October. There was one day the weather was below my threshold of tolerance and I vowed I would not do any packages past December. However, my first promotion came in November. In my eyes, this bought the company some more time with my services. As the new year approached, I realized I did not have to break the vow because I was no longer delivering packages.
 
 Fast forward to February, when I was offered a salaried position, significantly altering my life's trajectory because now the job is serving me. As an entrepreneur of a micro business, this could be firsthand experience in running and operating a small business from the ground up. But more importantly, what truly captivated me was the community and the culture we had and my ability to make a real impact in mentoring and coaching people to be better workers and hopefully better people in life. I am proud to be a part of aiding in this work culture and inspiring comments like "this feels like family" or "I like learning about the business side of things" or simply "I actually like coming to work." Passing this bill will kill the real-life influence we have in people taking care of their families, gaining housing, staying out of the streets and just giving college kids what my papa would call some pocket change. Do not be the reason why the little guy loses. Protect small businesses, please.
 
-(06:19:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22772s
+(06:19:32)
 
 Thank you. Go ahead.
 
-(06:19:37) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22777s
+(06:19:37)
 
 My name is Ariel Mikett. I operate out of East New York, District 42. I have been doing this for about six years now. We have delivered approximately 15 and a half million packages to East New York, Canary, Howard Beach and our surrounding neighborhoods. The way that I look at my business at this point is it is no longer just my business. My employees are part of me. We are a family by now. I have been a therapist. I have been a pharmacist. I have been a support system. I have been a negotiator for car deals. I have been a negotiator for rent leases. I have helped people find real estate agents. I have bailed people out of trouble financially if they ever need a quick 20 or 40 dollars to get themselves a meal, pay for their cell phone bills, do whatever they have to do. That is the kind of person that I am and that is the kind of support that I give my team.
 
@@ -2897,11 +2897,11 @@ It is hard for me to point out a single moment, but there is never a time that I
 
 Passing this Bill will not give them that opportunity. They will not be able to just call out like that last minute without repercussion. Even if they lied to me and said, "Yeah, I have a doctor's appointment," I still let them go. I do not question it. I give them the benefit of the doubt because that is the kind of relationship I build with my team. I do not question them. I do not need that problem in my life. I do not need that headache. Everyone has enough problems going on. I grew up in low-income housing in Coney Island. I know what it is like. I busted my chops getting to where I am now. Thank you.
 
-(06:21:34) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22894s
+(06:21:34)
 
 Thank you. Go ahead, sir.
 
-(06:21:38) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=22898s
+(06:21:38)
 
 Hi, my name is Mario Nicolau. I own and operate an Amazon DSP here in Manhattan, Upper East Side. I am going to take you back to April 2019. This was a time where, ironically, government shut down a business of mine, put me out of business and wiped out all my life savings. At that time it was very challenging. I hit a lot of financial struggles which led to a divorce and moving forward it just was a big struggle. Just after that, in January 2020, as I was pulling myself out of my depression, COVID hit, and that spiraled down to losing more income and it just became a significant challenge.
 
@@ -2909,27 +2909,27 @@ In March 2020 I applied with Amazon and I was given this opportunity, and this o
 
 To answer the question that was danced around earlier on: would this impact the small business, and is there any protection in there for us? The answer is clearly no. There is no protection. And thank you, Christopher, for caring about us. I heard you care about the small business owner. I really appreciate that.
 
-(06:23:48) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23028s
+(06:23:48)
 
 If you could wrap it up, that would be appreciated.
 
-(06:23:50) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23030s
+(06:23:50)
 
 Sure. For my employees, I offer a pension plan with my company where they get a pension and everybody is entitled to it. 401k matching, health insurance, letters of recommendation, referrals. One of my favorite things to do is help somebody advance, double their income, give them a glowing review. One of the best reviews I gave was...
 
-(06:24:19) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23059s
+(06:24:19)
 
 I just want, if there is something new, I do want to get to the people who are left.
 
-(06:24:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23064s
+(06:24:24)
 
 I will just end with safety. Safety, safety, safety is our priority. Our metrics, our scorecard, is weekly and daily. We are monitoring it. I have a full-time employee that just does safety. 47.5% of our scorecard is safety. Driving the law, not anything extra. So as far as the metrics and the high standards, yes, there are very high metrics on safety. It is all about safety.
 
-(06:24:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23093s
+(06:24:53)
 
 Thank you. Go ahead, sir.
 
-(06:24:54) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23094s
+(06:24:54)
 
 Good afternoon. My name is Sean Lawrence, out of Harlem, launched out of DY in the Bronx, New York. I am a proud representative of my Northstar family, the Northstar Logistics family. I currently serve as an operations manager. I am here to speak from both a professional and personal perspective.
 
@@ -2937,17 +2937,17 @@ Personally, working with Northstar Logistics has helped me take care of my respo
 
 I believe it is important to support companies like Amazon because they create real opportunities that provide jobs, educational support and financial stability for people like me who are working hard to build something better for themselves.
 
-(06:26:20) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23180s
+(06:26:20)
 
 Thank you, sir. Go ahead, ma'am.
 
-(06:26:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23182s
+(06:26:22)
 
 Hi, my name is Melissa Doss and I am the owner of Hems Delivery Inc., a FedEx ISP. Sitting here today, I realized there are many of us that care about our small businesses. Mine, I have had it for almost two decades. Started with my husband. We broke up and I continued it on my own. So, girl power to me, right? The biggest thing for me is making sure that my employees have a job. I want to make sure that they are able to put food on the table and I want to make sure that they are safe every day. We provide all of that. I have spoken in detail. I got the opportunity to speak to CM Cabán about it and I appreciate you taking that time yesterday. That was amazing.
 
 A lot of the FedEx ISPs were here today but they had other responsibilities, childcare and all of that. There are about 111 of us ISPs in the metro. We follow certain protocols. We have obligations. We choose to partner with FedEx. I own all of my vehicles. I take good care of them. I have mechanics. I follow all the compliance requirements. All of my employees are paid wages. We have all of the insurance available to them including workers' comp and all of that. I want to email my testimony because I put a lot of effort into it and I want to give the rest of them an opportunity to speak, but I just want to let you know to consider the small businesses.
 
-(06:27:45) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23265s
+(06:27:45)
 
 Thank you very much. Make sure everyone who wants to submit written testimony can do so at testimony@nyc.gov. If there are no questions, I want to get to our last panel so we can wrap up. Thank you all for waiting so long.
 
@@ -2957,7 +2957,7 @@ That was me.
 
 Oh, that was you. Okay, we got you. Jorge Palada, Gregor, Roman Duckerman, Junior Tavarez, Melissa McCrae, George Cavayas, Michael Roman and Osama El Gabi. All right, these should be everyone who signed up to testify. If you can start, we can roll through this. Go ahead, sir.
 
-(06:28:46) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23326s
+(06:28:46)
 
 Good afternoon, Council members. My name is Gregor Poleri and I stand opposed to this Bill. I came to this country with my family as an Albanian immigrant just a few years ago, carrying the same hopes shared by so many who arrive here: stability, opportunity and a chance to build something meaningful. After a long period of uncertainty and determination, I was given the opportunity in 2020 to become a delivery service partner. That moment changed my life.
 
@@ -2965,31 +2965,31 @@ Since then, I have had the privilege of building a business that has employed ov
 
 This Bill puts all of that at risk. What hangs in the balance is not just a business model. It is the future of hardworking New Yorkers, many of them immigrants striving to achieve their version of the American dream. It is about whether people like me, and those who followed a similar path, will have the chance to build, to grow and to provide for their families. I ask you to please consider the real human impact of this decision. Behind every number is a story like mine, one of sacrifice, resilience and hope. Thank you for your time and consideration. I trust you will make the right decision.
 
-(06:30:24) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23424s
+(06:30:24)
 
 Thank you. Go ahead, sir.
 
-(06:30:30) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23430s
+(06:30:30)
 
 Good afternoon, everyone. Thank you for allowing me to speak today. My name is Jorge Palapa. I am the owner of Palapa Logistics, a new DSP that launched six months ago. I am 27 years old. I am from Sunset Park and I am a DACA recipient. I am here today in opposition to Int 0518-2026 because it will ultimately shut down my company that I just built and essentially deny the opportunities that I was given thanks to the DSP program and my previous DSP owner, Mr. Gregor Poleri.
 
 I also want to say that I am grateful for the DSP program because, just like many New Yorkers who were lost during the 2020 pandemic, I did not know what to do with my life. Thanks to Greg, who gave me the opportunity to start his company with him, I started off as a Walker delivery associate and ultimately climbed and became a general manager and was given the opportunity to start my own third-party company. So I urge you to think about how this could impact many other people's lives.
 
-(06:32:13) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23533s
+(06:32:13)
 
 Thank you very much. Go ahead, sir.
 
-(06:32:17) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23537s
+(06:32:17)
 
 Hello. Hi, my name is Michael Roman. I am 37 years old and I have lived in the Bronx my entire life. I play a meaningful role in my community. I am committed to reducing gun violence in our communities. I believe the best way to help with that is to create opportunities. I am an operations manager for Northstar Logistics DSP and part of my job is the hiring portion. I am extremely blessed to be able to help people prosper in life, not only with a job but with mentorship, as well as tuition reimbursement and the opportunity to grow within the company. I am also truly grateful to be able to take care of my own family as well, not just financially but with time, love and affection. With the flexibility this job offers, we need more jobs like this, not less. Small businesses help people like myself still believe that there is a chance to become something. I hope one day I am able to start my own DSP and follow in the footsteps of my brother Tyrie Barnes.
 
 Passing this Bill will leave thousands and thousands of us jobless and hopeless. I also just wanted to mention before my time is up, I heard there were a lot of questions here on the van situation and the metric situation. A lot of the people up here were not really telling the truth on it. Amazon created a Flex app, and in the case where a van is dirty, not working, or something is broken, you right then at that moment open the Flex app and choose those options so that you can ground the van personally. At that point it will come to a dispatcher and we will switch out the van. So a lot of these things that are raised as safety concerns, the drivers have the power to go ahead and ground a van personally themselves. To me, a lot of these situations are just being thrown out there. I just feel like not everyone is really following the rules of Amazon and Northstar.
 
-(06:34:10) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23650s
+(06:34:10)
 
 Thank you, sir. Go ahead.
 
-(06:34:14) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23654s
+(06:34:14)
 
 Good afternoon, Council members. My name is Roman Derman. I own Falcons Deliveries, a last-mile delivery company in Staten Island. We employ nearly 100 New Yorkers and every day we operate in some of the toughest delivery conditions in the country. I am here because I am strongly against this Bill. I want to be clear: this is not just another regulation for us. This is a direct threat to my business and everybody else's business here.
 
@@ -2999,33 +2999,33 @@ What concerns me is that this Bill feels like a step in the opposite direction. 
 
 I am all for safety and accountability. That is how I run my business today. But this Bill assumes small operators are the problem when in reality we are the ones doing the hard work. If this passes, it will not improve delivery. It will increase costs, reduce efficiency and push small businesses like mine out. I came to this country for an opportunity, not to see it limited by policies like this. I ask you to reconsider this approach and work with business owners like myself for real solutions. Thank you for your time.
 
-(06:36:02) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23762s
+(06:36:02)
 
 Thank you. Go ahead, ma'am.
 
-(06:36:05) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23765s
+(06:36:05)
 
 My name is Katherine. I am an operations manager for Falcons Delivery in Staten Island, operating out of DY6. I began my career as a delivery driver, working for multiple companies, always at a high level of performance. I joined Roman's team when he was operating for just two months. Roman was a delivery driver, operations manager, dispatcher and owner all in one. I have helped build structure and helped make my drivers feel supported and comfortable. We equip them with all their day-to-day equipment.
 
-(06:37:00) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23820s
+(06:37:00)
 
 While I agree Amazon's regulations have room for improvement, I do not believe shutting down the DSP is the solution. If this Bill passes, it will not just affect my company. It will hurt my family, my friends and my drivers. These are real people who depend on their job for stability, income and their future.
 
-(06:37:22) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23842s
+(06:37:22)
 
 Thank you. Go ahead, sir.
 
-(06:37:27) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23847s
+(06:37:27)
 
 Hello. Thank you, Council members, for this opportunity. It is a great honor to stand before you. My speech is not going to be long. My name is Osama and I am a delivery driver. I work for Falcons Delivery. My experience started when I came here to the United States. It was not very easy to find a job. It is not easy to find a job at large companies because of the very long processes. Until I met my company's owner, it was very easy. It was two words: I am looking for a job, and I got it directly. After that I was trying to prove myself. I gave all that I could give to this company.
 
 Even when I was going through a hard time and I was about to lose my job because my performance was declining, I found my company's owner — I call him my brother, not my boss — and he kept pushing me. He even told me that I did not need to give all my energy just to complete my job. He helped me until I reclaimed my energy and as a result of that I received the first professional achievement of my life, which is Driver of the Year. It was thanks to him and I got this opportunity. I did not want to miss this chance to be grateful and to say thank you to him.
 
-(06:39:32) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23972s
+(06:39:32)
 
 Well, thank you all for testifying. I do not see any questions for this panel. Thank you for being here. I think there are a couple of people on Zoom. We need to check. Cassan Sadat and Kahum Robertson, are either of you there on Zoom? All right. And the last one I think on Zoom is Christopher Leon Johnson. If you wanted to start, you can go ahead.
 
-(06:39:52) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=23992s
+(06:39:52)
 
 >> Hello, my name is Christopher Leon Johnson. I am here to show opposition to this bill, and I am going to explain why. Because what is happening here is that this bill is really going to divide the DSP and the rank-and-file worker. You have to understand that the DSP are in the same position as workers because these are just regular people that feel like they want to make a better change for their life. And what is going to happen is that Amazon is going to retaliate. Look at what is happening with the deliveristas and the app drivers with Uber and DoorDash. There were many people that spoke even in support of the bill that used to work for Uber and DoorDash and Lyft, and they know how it feels to log into the apps knowing that they could be deactivated at any time.
 
@@ -3033,14 +3033,14 @@ Now with this bill, what is going to happen is yeah, this bill is going to go th
 
 So as I said, I support the people, the rank-and-file workers for both the DSPs and the rank-and-file workers for the Amazon Teamsters Labor. Shout out to ALU. Shout out to Chris Smalls. Shout out to ALU. But I cannot put my hand on a bill or have any of my people supporting the City Council show support for a bill where the apps are going to retaliate. Amazon is going to retaliate. And everybody knows that Amazon will do what they want. They do not care. They could leave the city and they do not give a crap. They are not like people say, this is not Uber, this is not DoorDash, this is not Lyft. Just remember that. They do not have to do business with the city. They can just leave the city and they will still be a billion dollar company. Unlike Uber and DoorDash and Lyft, if they were to leave the city, they would fall apart.
 
-(06:41:53) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=24113s
+(06:41:53)
 
 >> Time is expired.
 
-(06:41:55) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=24115s
+(06:41:55)
 
 >> Thank you so much. Thank you.
 
-(06:41:56) https://www.youtube.com/watch?v=ja2C5yDXoYQ&t=24116s
+(06:41:56)
 
 >> Thank you very much and thank you everyone for being here for a very long day. This hearing is adjourned.

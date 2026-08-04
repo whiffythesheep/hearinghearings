@@ -5,13 +5,13 @@ Video: https://www.youtube.com/watch?v=s95htCcRQUc
 
 ================================================================
 
-(00:00:25) https://www.youtube.com/watch?v=s95htCcRQUc&t=25s
+(00:00:25)
 
-(00:06:45) https://www.youtube.com/watch?v=s95htCcRQUc&t=405s
+(00:06:45)
 
 With the Subcommittee on Early Childhood Education and joined with the Committee on Oversight and Investigations. If you would like to testify, you must fill out a testimony slip with one of the sergeants-at-arms in the back of the room. You may also submit testimony at testimony@council.nyc.gov. At this time, please silence all electronic devices and no one may approach the dais. Chairs, we are ready to begin.
 
-(00:07:08) https://www.youtube.com/watch?v=s95htCcRQUc&t=428s
+(00:07:08)
 
 Thank you. Good afternoon. I am CM Lynn Schulman, chair of the New York City Council's Committee on Health. I want to thank everyone for being here at today's oversight hearing on child care program background checks. Before we begin, I would like to recognize the following Council members who are here: my co-chair, CM Gutierrez, CM Wong, CM Carr, and that is it for now.
 
@@ -35,7 +35,7 @@ Res 0425-2026 calls on the state assembly to pass and the Governor to sign three
 
 And by the way, I saw that the government is actually withholding a report that came out showing the efficacy of the COVID vaccine. That just happened, I think, yesterday or today. I look forward to discussing the legislation with the administration. I now want to acknowledge we have been joined by CM Epstein, CM Ung and online by CM Morano. I now turn it over to Chair Gutierrez to deliver her opening remarks.
 
-(00:14:09) https://www.youtube.com/watch?v=s95htCcRQUc&t=849s
+(00:14:09)
 
 Thank you, Chair Schulman. It is a delight to co-chair a hearing with you, especially on a topic that you have covered multiple times and that you are such a great advocate for. Good afternoon, everyone. I am CM Gutierrez, chair of the Subcommittee on Early Childhood Education. We are excited to join the Committee on Health and Committee on Oversight and Investigations and their chairs, Chair Schulman and Chair Krishnan, for today's oversight hearing on child care program background checks.
 
@@ -51,25 +51,25 @@ Nonetheless, it is important for the City to work efficiently to take into accou
 
 I also want to acknowledge the Department of Investigation, who could not join us today. While their role may be, in their words, minimal in this process, it is consequential. This committee looks forward to further conversations with them to improve processes. Thank you to the members of the subcommittee who have joined us. I would like to thank the subcommittee staff, Julia Gold, Smith Pinkham, Katie Selena, Grace Amato, Andrew Ling Lewis and Margaret Barnsley, as well as my own staff, Ana Lair, Frank Hulka and Lala for their work on today's hearing. Thank you, Chair Schulman. I turn it back to you.
 
-(00:18:34) https://www.youtube.com/watch?v=s95htCcRQUc&t=1114s
+(00:18:34)
 
 Thank you. Before we go on, I want to acknowledge we have been joined online by CM Ariola and in person by CM Lee, CM Williams, CM Riley and CM Joseph.
 
-(00:18:59) https://www.youtube.com/watch?v=s95htCcRQUc&t=1139s
+(00:18:59)
 
-(00:19:01) https://www.youtube.com/watch?v=s95htCcRQUc&t=1141s
+(00:19:01)
 
 CM Morano, do you want to give brief opening remarks about your legislation? We have quorum in for one of the committees.
 
-(00:19:18) https://www.youtube.com/watch?v=s95htCcRQUc&t=1158s
+(00:19:18)
 
 CM Morano just stepped away. He will be back in about two minutes.
 
-(00:19:23) https://www.youtube.com/watch?v=s95htCcRQUc&t=1163s
+(00:19:23)
 
 We have to move on, so we will get to him in a little bit. I will now turn it over to committee counsel to administer the oath to members of the administration.
 
-(00:19:49) https://www.youtube.com/watch?v=s95htCcRQUc&t=1189s
+(00:19:49)
 
 Thank you. Good afternoon, Chair Gutierrez, Chair Schulman, members of the committees on health and oversight and investigations, and the Subcommittee on Early Childhood Education, and all other Council members. My name is Emmy Liss, and I am the executive director of the mayor's office of child care and early childhood education. I am joined today by members of my team and colleagues from the New York City Health Department. Thank you for giving us the opportunity to testify before you today.
 
@@ -83,7 +83,7 @@ When it comes to staff background checks, we will never waver in our commitment 
 
 Thank you for the time to testify today. I will now pass to my colleague Erin to walk through the permitting portal and then to Deputy Commissioner Greniff, who can speak more to the day-to-day details of the health department's work and the administration's position on the legislation being considered today.
 
-(00:23:10) https://www.youtube.com/watch?v=s95htCcRQUc&t=1390s
+(00:23:10)
 
 Can you hear me? Good afternoon, Council members. Again, my name is Arin Yarro, the chief digital strategist here at the Mayor's Office of Childcare, and I am delighted to walk you through the childcare permitting portal. We have, I believe, if we can bring up the screen here, you also have the good old handouts. We wanted to give you an actual visual of what the providers will see. The providers were very instrumental in designing this. We got our requirements from the Department of Health but we also included the providers in that requirements process because they are one of the users of this portal. Providers also joined us for what we call user acceptance testing to make sure it really was going to meet their needs and give them business value, because that is our goal here: to give the providers and the DOH workers business value.
 
@@ -95,7 +95,7 @@ What we really tried to do in this portal is every time there is an action neede
 
 This is, I think, one of the breakthroughs: we took a complicated process and broke it down into milestones. This is by provider request. They just want to know what the steps are and what they need to do for each step. So you will see here there is site viability inspection, architectural review, NYC Buildings and Fire Department approvals, and program details. We broke it into milestones. Some of these milestones are concurrent, so we do not like to block them if they can work on other things. For example, if they are getting their certificate of occupancy, they may also be able to work on uploading their staff credentials. We try to be very fluid there. This is very much by provider request. They wanted to come in and see what the steps are, where they are in the process, and what they need to do. You will see an example here: one action needed step rejected by caseworker. We are trying to be very good with communication, because that is what we...
 
-(00:26:41) https://www.youtube.com/watch?v=s95htCcRQUc&t=1601s
+(00:26:41)
 
 Heard from DOH workers who are very dedicated to this process, as well as providers, is communication is the hard part, right? When you have a long application process, what do I do next? I need to be very clear about next steps. So we really tried to highlight things. If maybe a document was rejected because it was out of date, we immediately highlight that for the vendor. We alert them. We bring comments over from the DOH worker working on that case so that you have it all in one place and you can move forward. If we can go to the next slide. That is a little blurry. There was better. Again, milestones are broken into steps. So this is, you know, we just break it down step by step, milestone by milestone. So this is a further example of this. Green is the happy path. It has been completed. If something is pending DOHMH approval, maybe the provider has submitted some paperwork or an architectural document and DOH is reviewing it, then that will be apparent here as well in the portal.
 
@@ -149,7 +149,7 @@ Yes, thank you, chair. When we met in 2023, I believe we had only recently launc
 
 So the process is that a person who will be working with children in child care does two things. They enter their information into our portal, which, like the provider portal that Aaron demonstrated, was designed with input from providers and user testing with providers at the time that we launched a couple of years ago. You also go to get your fingerprints taken. Another change that was made a couple of years ago is rather than having to go to DOI to get fingerprints, the City entered into a partnership with a private fingerprint provider which has offices all over the region. They have long hours. They are open on the weekend. So that was a big convenience for people to be able to get those fingerprints taken. Once those fingerprints have been cleared, that person is then able to begin working at the program under the...
 
-(00:48:16) https://www.youtube.com/watch?v=s95htCcRQUc&t=2896s
+(00:48:16)
 
 supervision of a fully cleared person. So they do not have to wait until the entire process has been completed. They can get started working. Meantime, we go through all of the other clearances. You cited those in your opening comments, like the portal that Aaron demonstrated. Providers and the applicant have an identification number they can type in to check the status of the process. Once those clearances come through, we send a letter to them and to the provider and they can begin working without that supervision.
 
@@ -279,7 +279,7 @@ So a date of birth, for example — if you reverse your date of birth, the date 
 
 Okay. I think I have some more, but I think that is it just based on your responses. Thank you so much. I had some questions for the mayor's office and certainly want to hear from you, Erin. Thank you for walking us through this. I think it looks really good. Also, I do not know if you have gotten any credit for just the layout of it. I think sometimes it is hard to put together these new sites and expect everyone to just jump in and fully understand it, but I think the layout is really, really easy, really straightforward, and I really appreciate that you were able to work with providers to
 
-(01:10:46) https://www.youtube.com/watch?v=s95htCcRQUc&t=4246s
+(01:10:46)
 
 Put this together. Just based on this though, can you clarify: are these for new applicants, or new applicants and existing applicants?
 
@@ -457,206 +457,206 @@ I am going to ask Chair Krishnan for any questions he may have.
 
 Thank you so much, Chair Schulman. Just a few...
 
-(01:30:00) https://www.youtube.com/watch?v=s95htCcRQUc&t=5400s
+(01:30:00)
 
 Questions from me. One was how many locations of IdentoGO are in New York City? How does DOI communicate with DOH for updates? Does DOH reach out to IdentoGO directly about issues?
 
-(01:30:18) https://www.youtube.com/watch?v=s95htCcRQUc&t=5418s
+(01:30:18)
 
 I do not know the number of IdentoGO locations. We are in regular touch with DOI. There is a standard email that will come through routinely providing results. And then there is also just regular staff contact troubleshooting issues and so on.
 
-(01:30:40) https://www.youtube.com/watch?v=s95htCcRQUc&t=5440s
+(01:30:40)
 
 Okay. We have also asked DOI for more information to understand their role in the process. What does DOH do when it receives information from DOI about arrests of someone who was already cleared?
 
-(01:30:53) https://www.youtube.com/watch?v=s95htCcRQUc&t=5453s
+(01:30:53)
 
 DOI does share that information with us. Part of why we maintain the records of where people are working is in case we do get information about arrests — we need to be able to identify where that worker is. So the first thing we do is reach out to that program. Frequently that person is no longer employed at that program. But if they are still working in child care, we will then do an assessment of what the arrest was about, similar to the kind of assessment we would do on the front end when someone has first applied to work in child care. It really depends on what that arrest is for. So we will do that assessment to determine whether that means that they can no longer be working in that program.
 
-(01:31:37) https://www.youtube.com/watch?v=s95htCcRQUc&t=5497s
+(01:31:37)
 
 And on to Int 0015-2026, the Bill that is one of the bills being heard today. Does DOH require a subsequent background check for an educator every time they change employment?
 
-(01:31:50) https://www.youtube.com/watch?v=s95htCcRQUc&t=5510s
+(01:31:50)
 
 We do not. When a person — and I think we went over this — a person who is within that five-year period, the background clearance has to be renewed every five years and has not had a break in service of 180 days, and they are changing employers, they just need to let us know. For the reasons we just discussed about arrest, they need to let us know. We will then move their fingerprints over from the prior location in our system. It is all invisible to the child care professional. So as soon as they let us know, they can go work at that new location. In terms of Int 0015-2026, we believe that we are in compliance. We are not conducting repeat background clearances except where the law requires us to do that.
 
-(01:32:42) https://www.youtube.com/watch?v=s95htCcRQUc&t=5562s
+(01:32:42)
 
 I see. And so that has always been the policy, right? Or is that a recent change?
 
-(01:32:45) https://www.youtube.com/watch?v=s95htCcRQUc&t=5565s
+(01:32:45)
 
 There have been some recent changes in what we call portability. So it may be that this Bill was designed during that earlier period. We are not really sure. We would appreciate the opportunity to discuss that.
 
-(01:32:58) https://www.youtube.com/watch?v=s95htCcRQUc&t=5578s
+(01:32:58)
 
 Sure. So is DOH in support of this Bill or not?
 
-(01:33:03) https://www.youtube.com/watch?v=s95htCcRQUc&t=5583s
+(01:33:03)
 
 We do not have any concerns with the Bill. We would like to better understand what the concern is that the Bill is trying to address. As we read it, it says comply with the law, which is what we think we do. Got it. Okay. Thank you.
 
-(01:33:14) https://www.youtube.com/watch?v=s95htCcRQUc&t=5594s
+(01:33:14)
 
 Thank you, Chair Schulman and Chair Gutierrez.
 
-(01:33:17) https://www.youtube.com/watch?v=s95htCcRQUc&t=5597s
+(01:33:17)
 
 Okay. I am going to turn it over to CM Brewer.
 
-(01:33:21) https://www.youtube.com/watch?v=s95htCcRQUc&t=5601s
+(01:33:21)
 
 Thank you very much. On the technology — I mean, a hundred years ago, which is how long I have been around — it was always hard to get some of the providers to be able to access technology. Internet was too slow, did not exist, it was expensive to have a fast connection, et cetera. So is that all addressed now from any of the centers that you are working with? Because, you know, as was said earlier, just getting access in your home — for me, just recently, it cost $1,000 to upgrade a system. That is not inexpensive. So I just want to know, is the technology and hardware there to support what you are trying to do?
 
-(01:34:00) https://www.youtube.com/watch?v=s95htCcRQUc&t=5640s
+(01:34:00)
 
 It is. We did a lot of extensive performance testing — like how fast it is in various environments. I should have pointed out that the portal that I showed you is mobile responsive on your cell phone.
 
-(01:34:12) https://www.youtube.com/watch?v=s95htCcRQUc&t=5652s
+(01:34:12)
 
 So you can — you know, it is a lot to do on your cell phone, but it is possible. A lot of providers did tell us that sometimes it is just a laptop or a tablet. So we did a lot of testing on tablet. It works very well on tablets and we have not heard any extensive issues. If you do not have wireless, you are going to need an internet connection. But we have done extensive testing and so far... you need a fast connection though.
 
-(01:34:35) https://www.youtube.com/watch?v=s95htCcRQUc&t=5675s
+(01:34:35)
 
 You need a connection that is...
 
-(01:34:37) https://www.youtube.com/watch?v=s95htCcRQUc&t=5677s
+(01:34:37)
 
 Well, you need a fast connection for the best
 
-(01:34:39) https://www.youtube.com/watch?v=s95htCcRQUc&t=5679s
+(01:34:39)
 
 experience. Obviously the faster the connection the better. If it takes another three to four seconds to upload a document that is not optimal, but hopefully it is not preventing the providers from moving on to the next step.
 
-(01:34:47) https://www.youtube.com/watch?v=s95htCcRQUc&t=5687s
+(01:34:47)
 
 Okay. And then the next question is just because I have gotten complaints. Obviously, in general, we are trying to get as many young people to be part of the city system, part of the nonprofit system, et cetera. So some of the centers, as I understand it — I have private centers on the Upper West Side — they are now paying you the fee, whatever it is, to be in compliance, because they had private students only in the past. So they want to be part of your system because then they feel that they can serve better and survive. So is that also
 
-(01:35:23) https://www.youtube.com/watch?v=s95htCcRQUc&t=5723s
+(01:35:23)
 
 that would be a brand new center basically. Is that something that you are
 
-(01:35:28) https://www.youtube.com/watch?v=s95htCcRQUc&t=5728s
+(01:35:28)
 
 including or not?
 
-(01:35:31) https://www.youtube.com/watch?v=s95htCcRQUc&t=5731s
+(01:35:31)
 
 Child care providers do not need a separate permit or license to partner with New York City public schools as a contracted 3K or pre-K provider. If they are permitted and licensed in good standing — if they have an active permit with the Department of Health — they do not need a new permit to work with the City.
 
-(01:35:48) https://www.youtube.com/watch?v=s95htCcRQUc&t=5748s
+(01:35:48)
 
 Okay. But are they likely to get students? Because already many
 
-(01:35:52) https://www.youtube.com/watch?v=s95htCcRQUc&t=5752s
+(01:35:52)
 
 students, understandably, because they charge, you know, the usual — I do not know, $6,000 up to $30,000 in the past. So now, of course, they want to become a New York City provider. I thought they had to go through some steps to do that. Yes, they do have to go through some steps. Absolutely. It is not related to the permitting process.
 
-(01:36:11) https://www.youtube.com/watch?v=s95htCcRQUc&t=5771s
+(01:36:11)
 
 Correct. Not to the health process, but to the DOE process.
 
-(01:36:14) https://www.youtube.com/watch?v=s95htCcRQUc&t=5774s
+(01:36:14)
 
 Exactly. Yes. So if the Department of Health has already certified that this is a healthy, safe environment for children, they do not need to go through that again. In order to be awarded a city contract with New York City public schools, they do have to go through an application process in order to demonstrate that they are able to meet the requirements to offer pre-K, 3K and housing.
 
-(01:36:36) https://www.youtube.com/watch?v=s95htCcRQUc&t=5796s
+(01:36:36)
 
 Okay. All right. And then the other question about the health front — in the past, again, how often do your inspectors visit? Is it annual? Is it complaint-based? In the past, people would freak out when they appeared. I assume that may not happen now. So how does that work for any center, not just the new ones?
 
-(01:37:00) https://www.youtube.com/watch?v=s95htCcRQUc&t=5820s
+(01:37:00)
 
 We conduct an annual inspection of every child care program. I did want to just note that the inspections that Aaron showed on the portal that are scheduled — those are preliminary site viability inspections. Our routine operational inspections are unannounced. They are at least annual and we will conduct a follow-up inspection if needed to check on something that we have observed. We also have a complaint-based response.
 
-(01:37:26) https://www.youtube.com/watch?v=s95htCcRQUc&t=5846s
+(01:37:26)
 
 Okay. And that has not changed over the years. You would be looking at everything from the furniture to the quality of health in general.
 
-(01:37:34) https://www.youtube.com/watch?v=s95htCcRQUc&t=5854s
+(01:37:34)
 
 That is right.
 
-(01:37:35) https://www.youtube.com/watch?v=s95htCcRQUc&t=5855s
+(01:37:35)
 
 Okay. The final question I have is — I know you have some applications — how many young people do you think are going to be in the City of New York? What are your demographic projections for the future? Are you looking at those to see if we are going to meet the need?
 
-(01:37:54) https://www.youtube.com/watch?v=s95htCcRQUc&t=5874s
+(01:37:54)
 
 Obviously there is an unfortunate situation with migrants being displaced. So I just want to think — what are your numbers? And I guess you also include Promise NYC in all of this too, right? As we are planning for the future launch of 2K and as we continue to make sure that our 3K and pre-K system is meeting family need, we are looking across all of the city agencies that collect data on birth, migration, neighborhood patterns and how folks move between places to make sure that we are supporting a robust child care system. In parts of the city where we know we do not have enough licensed child care today, we will work with prospective providers to support them as they go through these permitting processes so we can build more capacity.
 
-(01:38:40) https://www.youtube.com/watch?v=s95htCcRQUc&t=5920s
+(01:38:40)
 
 We will continue to work with existing providers, for example, to adjust capacity — whether that be switching some of their classes for three-year-olds to two-year-olds in the future — just to make sure that we are matching family demand as demographics shift. And does Promise NYC factor into all of this?
 
-(01:38:58) https://www.youtube.com/watch?v=s95htCcRQUc&t=5938s
+(01:38:58)
 
 Promise NYC is a separate program managed by ACS. But
 
-(01:39:04) https://www.youtube.com/watch?v=s95htCcRQUc&t=5944s
+(01:39:04)
 
 so you are not part of that at all.
 
-(01:39:06) https://www.youtube.com/watch?v=s95htCcRQUc&t=5946s
+(01:39:06)
 
 We work closely with them and it is part of the broader child care ecosystem. When we think about all of the city's child care programs, we look at all of the different resources for families — whether that is the city's 3K, pre-K and soon-to-be 2K programs, the child care voucher program administered by ACS and HRA, Promise NYC and then
 
-(01:39:24) https://www.youtube.com/watch?v=s95htCcRQUc&t=5964s
+(01:39:24)
 
 other small programs. But again, back to the bigger demographics — obviously 2030 has not happened yet. The Census will give us more information. There are the community surveys in between. The City Planning Commission does them. But do you have any sense of where you are going in the next five or six years with this younger population? Because we hear the bad news that there are fewer young people. That is very bad news. So I am just
 
-(01:39:48) https://www.youtube.com/watch?v=s95htCcRQUc&t=5988s
+(01:39:48)
 
 wondering, are you hearing that? Are you planning for that, or is that not relevant? While we certainly hope that our city's investments in child care will help reverse some of the out-migration of families, we are working closely with City Planning, with demographers at the Department of Health and others, to look at those trends year-over-year to inform our planning.
 
-(01:40:10) https://www.youtube.com/watch?v=s95htCcRQUc&t=6010s
+(01:40:10)
 
 Are you telling the suburbanites to come back?
 
-(01:40:12) https://www.youtube.com/watch?v=s95htCcRQUc&t=6012s
+(01:40:12)
 
 We would be happy to have them.
 
-(01:40:14) https://www.youtube.com/watch?v=s95htCcRQUc&t=6014s
+(01:40:14)
 
 Well, I am serious about some kind of indication of doing that. I think we will
 
-(01:40:20) https://www.youtube.com/watch?v=s95htCcRQUc&t=6020s
+(01:40:20)
 
 be monitoring how our different investments in child care, as part of the mayor's broader affordability agenda, both keep families here and attract families here. In all seriousness, we know that we have lost families in recent years, both because the birth rate in the city has declined and because families with children under six are twice as likely to leave. We know that is driven largely by child care costs as well as housing costs. We are hopeful that as this administration's affordability agenda is implemented, we will see families stay. We hear stories from families all the time who want a second child but are waiting until their first child is eligible for 3K so they only have to pay for one daycare bill. We hope that the city, by easing the cost burden for families, will allow them to make the decisions that are best for them and not feel quite so constrained.
 
-(01:41:09) https://www.youtube.com/watch?v=s95htCcRQUc&t=6069s
+(01:41:09)
 
 All right. Thank you. Did not quite answer the question, but close enough. Thank you. Okay.
 
-(01:41:15) https://www.youtube.com/watch?v=s95htCcRQUc&t=6075s
+(01:41:15)
 
 All right. Thank you. Anybody else? Jen. No.
 
-(01:41:22) https://www.youtube.com/watch?v=s95htCcRQUc&t=6082s
+(01:41:22)
 
 Thank you very much for coming and testifying. Again, thank you for putting together the PowerPoint — on short notice. Really appreciate all the work that you are doing. We will follow back up and we will keep watching. Thank you so much.
 
-(01:41:41) https://www.youtube.com/watch?v=s95htCcRQUc&t=6101s
+(01:41:41)
 
 Thank you. Thank you guys.
 
-(01:41:43) https://www.youtube.com/watch?v=s95htCcRQUc&t=6103s
+(01:41:43)
 
 Okay, now we are going to do public testimony.
 
-(01:41:55) https://www.youtube.com/watch?v=s95htCcRQUc&t=6115s
+(01:41:55)
 
 Read a whole script.
 
-(01:41:57) https://www.youtube.com/watch?v=s95htCcRQUc&t=6117s
+(01:41:57)
 
 What?
 
-(01:41:58) https://www.youtube.com/watch?v=s95htCcRQUc&t=6118s
+(01:41:58)
 
 You have to read a whole script now.
 
-(01:41:59) https://www.youtube.com/watch?v=s95htCcRQUc&t=6119s
+(01:41:59)
 
 I have to read. Yes, I have to read.

@@ -7,6 +7,7 @@ slug: subcommittee-on-zoning-and-franchises-200-kent-avenue-and-47-03-108th-stre
 duration: "1hr 14m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260721-110329.mp4"
+viebit_hash: "KFqJjxeGrCKOGr0P"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416200&GUID=38861E0A-C6DB-4BE8-AE2B-9B9B2BBA8C48&Search="
 chairs: "Farah N. Louis"
 members: "David M. Carr, Elsie Encarnación, Amanda C. Farías, Simcha Felder, Yusef Salaam, Justin E. Sanchez, Lynn C. Schulman, Shanel Thomas-Henry"

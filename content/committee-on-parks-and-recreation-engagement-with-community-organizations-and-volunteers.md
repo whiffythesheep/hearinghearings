@@ -7,6 +7,7 @@ slug: committee-on-parks-and-recreation-engagement-with-community-organizations-
 duration: "2hrs 18m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260506-130857.mp4"
+viebit_hash: "1kX2MdK3QJJWCFDt"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1408769&GUID=2F672982-C5BA-4CC7-8405-945498CA703B&Search="
 chairs: "Ty Hankerson"
 members: "Shekar Krishnan, Linda Lee, Christopher Marte, Frank Morano, Mercedes Narcisse, Sandy Nurse, Yusef Salaam, Pierina Ana Sanchez, Kayla Santosuosso, Sandra Ung"

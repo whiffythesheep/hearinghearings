@@ -90,13 +90,43 @@ Pipeline steps:
 6. Format speaker headers (Chair/CM/witness conventions)
 7. Remove oath and public testimony sections
 8. Generate structured summary via Claude Sonnet
-9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `viebit_url`, optional `council_url`)
+9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `viebit_url`, optional `viebit_hash`, optional `council_url`)
 10. Run `site/build.py` to regenerate `site/output/`
 11. `git add/commit/push` → Cloudflare Pages redeploys
 
 ### Viebit caption fetch
 
-`fetch_viebit_transcript()` covers hearings that don't get uploaded to YouTube. It GETs the watch page, regexes the WebVTT URL out of the embedded player config (`"src": "https://vbfast-vod.viebit.com/counciln/<hash>/<asset>.vtt"`), fetches the VTT (no auth), and parses cues. Viebit captions are CEA-608-style ALL-CAPS rolling captions with heavy dual-position duplication, so the parser keeps a sliding window of the last 6 normalized lines and drops repeats — collapsing ~24K raw cues to ~6K clean segments for a 3.5-hour hearing. Output shape matches YouTube exactly (`text`/`start_ms`/`end_ms`), so everything downstream is source-agnostic. Duration is derived from the last segment's `end_ms`. Per-utterance timestamps render as plain `(HH:MM:SS)` in the transcript (no Viebit deep-link param is known).
+`fetch_viebit_transcript()` covers hearings that don't get uploaded to YouTube. It GETs the watch page, regexes the WebVTT URL out of the embedded player config (`"src": "https://vbfast-vod.viebit.com/counciln/<hash>/<asset>.vtt"`), fetches the VTT (no auth), and parses cues. Viebit captions are CEA-608-style ALL-CAPS rolling captions with heavy dual-position duplication, so the parser keeps a sliding window of the last 6 normalized lines and drops repeats — collapsing ~24K raw cues to ~6K clean segments for a 3.5-hour hearing. Output shape matches YouTube exactly (`text`/`start_ms`/`end_ms`), so everything downstream is source-agnostic. Duration is derived from the last segment's `end_ms`.
+
+### Viebit deep links (timestamp → moment in the video)
+
+Viebit's player is video.js 8.x, and its bundles (`/vb/scripts/vod-*.js`, `vod-embedded-*.js`) read a `t` query param off the page URL and seek to it: `parseInt(t, 10)`, **integer seconds**, ignored unless `> 0`.
+
+**The trap: only one of the two URL shapes can carry it.**
+
+| Shape | `?t=` |
+|---|---|
+| `/watch?hash=<hash>&t=421` | **works** — served directly |
+| `/vod/?s=true&v=<file>.mp4&t=421` | **silently dropped** |
+
+`/vod/?v=<file>.mp4` is a *redirector*: it 302s to `/embed/vod?v=<hash>&s=true&d=false`, **rebuilding the query string from scratch**, so `t` never reaches the player and the video opens at 0:00. Legistar advertises this shape for most hearings (36 of the first 43), so it is the common case, not the edge case. Verifying that a `t` param "reaches the page" on one shape proves nothing about the other — check the *final* URL after redirects.
+
+So timestamps always link to `/watch?hash=`, built from a **`viebit_hash` front-matter field** that sits alongside `viebit_url`.
+
+**Why a separate field rather than normalising `viebit_url`.** `_video_fingerprint()` in `discover_pending.py` keys published hearings on the URL *shape* (`hash:<hash>` vs `file:<name>.mp4`) to dedupe joint-hearing siblings, and the two shapes are not interconvertible without a network lookup. Rewriting `viebit_url` to the `hash:` form would flip every published fingerprint while Legistar keeps advertising `file:`, breaking sibling dedup and risking re-publication. `viebit_url` must stay exactly as recorded.
+
+Where the hash comes from: `player_hash_from_caption_url()` pulls it out of the caption URL (`…/counciln/<hash>/…`), which the pipeline already fetches — **zero extra requests**. `fetch_viebit_player_metadata()` returns it as `player_hash`, it is cached in `Input/<meeting>.json`, and `build_web_content()` writes it to front matter. Older caches without the key fall back to re-deriving it from `caption_url`.
+
+**Linking happens at render time**, unlike the YouTube era where `timestamp_markdown()` baked the link into `content/*.md`. `link_timestamps()` in `site/build.py` rewrites bare `**(HH:MM:SS)**` lines against `viebit_timestamp_base(meta)`. Consequences:
+- The summarizer writes plain `**(HH:MM:SS)**` for Viebit hearings. Nothing in the pipeline builds Viebit links.
+- Legacy YouTube files already carry `[**(HH:MM:SS)**](…)` in their markdown; those lines don't match the bare-timestamp pattern and pass through untouched. The two eras coexist with no migration.
+- The rewrite feeds `transcript_html` **only**. `transcript_text` — which produces both the `.txt` download and the search index — comes from the unlinked markdown, so 13K+ per-utterance URLs never reach either.
+- A hearing with no usable hash renders unlinked timestamps rather than broken links.
+- Fixing a wrong `viebit_hash` re-links every timestamp on the next `python site/build.py` — no content rewrite.
+
+`backfill_viebit_hashes.py` adds `viebit_hash` to published hearings that lack it, reading the hash from the cached transcript JSON's caption URL where possible and otherwise following the `/vod/` redirect. It is idempotent and leaves `viebit_url` alone.
+
+**Known behaviour:** the player binds its seek to the `playing` event, not to load, so the jump happens when playback starts — with autoplay blocked (the norm), the user presses play and it skips to the timestamp. Confirmed working 2026-08-04.
 
 Cost: ~$0.15–0.40 per meeting (Anthropic only, no external transcription).
 

@@ -5,15 +5,15 @@ Video: https://www.youtube.com/watch?v=p0zqCs4f7Gk
 
 ================================================================
 
-(00:00:29) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=29s
+(00:00:29)
 
 Little finger. Heat. Hey. Heat.
 
-(00:05:55) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=355s
+(00:05:55)
 
 Good morning, ladies and gentlemen. Welcome to the New York City Council hearing for the Committee on Consumer and Worker Protection. At this time, I would like to remind everyone to please silence all devices and at no point may you approach the dais. If you want to testify at today's hearing, please see a sergeant-at-arms at the back of the room to fill out a testimony slip. Chair, we are ready to begin.
 
-(00:06:18) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=378s
+(00:06:18)
 
 Good morning everyone and welcome to the 2027 fiscal budget hearing. My name is Harvey Epstein and for folks that do not know me, I am honored and privileged to chair the Committee on Consumer and Worker Protection. I am really glad that I have the commissioner here and the staff. I want to thank my colleagues CM Ossé and CM Hanks for joining us today. We are going to really review the budget process and look over these budget items. The DCWP budget we have seen today is 74.7 million, about 38 million in personnel expenses, supporting 484 budget staffers. A slight decrease from fiscal year 26 budget, which was 75.1 million, and also 38.6 million for other personal expenses.
 
@@ -21,11 +21,11 @@ There are a lot of topics we are going to be discussing today, hopefully with th
 
 I want to thank the work that you have done so far. It has only been a little over two months since you have been in this role and I know the commission has done a lot of work to advance the rights of workers and consumers. I really look forward to robust engagement here on this process. I want to thank the committee staff, the finance division, Glenn Martini, Dan Coupe, Chimo Oboruri, and the legislative division, Sarah Swan and Natalie Meltzer, for their work, as well as my team, to help this hearing happen today. I would like to ask the committee counsel to please swear in the members of the administration.
 
-(00:08:23) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=503s
+(00:08:23)
 
 Good morning.
 
-(00:08:38) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=518s
+(00:08:38)
 
 Thank you, Chair Epstein, and thank you members of the Committee on Consumer and Worker Protection. My name is Sam Lavine, commissioner of the Department of Consumer and Worker Protection. Today I am joined by our general counsel, Mike Tiger, and my chief of staff, Carlos Ortiz, and our deputy commissioner of the Office of Labor Policy and Standards, Elizabeth Wagner. Thank you for the opportunity to be here today before this committee to testify on the critical work of our agency and its budget for fiscal year 2027. DCWP is the nation's leading municipal enforcement agency charged with delivering economic justice. DCWP leverages its authority to bring New Yorkers real economic relief and protect them from predatory, deceptive, and unconscionable practices that violate their rights as consumers and workers. This includes pioneering cutting-edge protections such as the City's consumer protection law, protected time off law, fair work week law, and delivery worker laws, including the minimum pay rate for delivery workers. Through licensing more than 45,000 businesses in over 45 industries, DCWP ensures fair competition and a level playing field for responsible businesses that are an integral part of New York City's vibrant communities.
 
@@ -39,11 +39,11 @@ Since our landmark consumer protection law was passed more than half a century a
 
 In the last year, as the Council knows, our mandate grew and we worked to establish new and innovative protections for consumers across the five boroughs. Last June, we implemented CM Ossé's historic Fair Act, banning costly broker fees and ensuring prospective tenants have clarity on other fees related to the apartment rental.
 
-(00:13:44) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=824s
+(00:13:44)
 
 I agree, Council member.
 
-(00:13:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=827s
+(00:13:47)
 
 We also implemented Speaker Menin's Safe Hotels Act, creating stronger standards for consumers and workers at hotels. This implementation highlighted the efficiency of our licensing customer service, with licenses being approved in only two days and in-person wait times being an average of only four minutes. In support of small businesses, we worked with Speaker Menin on the announcement of a DCWP license reform package which eases regulatory burdens and modernizes requirements for small businesses across the city. We advocated strongly in favor of the passage of the street vendor reform package, allowing more of our city's smallest businesses to operate in compliance with city laws.
 
@@ -73,7 +73,7 @@ Let me conclude with this. The Mamdani administration has made clear that more t
 
 I would like to express my sincere appreciation once again for the opportunity to testify today and for the incredible work that DCWP does every day. We are eager to carry forward the torch of Mayor Mamdani's affordability agenda. We look forward to partnering with you all in this new era of economic justice for the people of New York City. Lastly, I would like to thank my team at my side and behind me for the support they have shown me from the moment I stepped into this role just a couple of months ago. In short order, our team has taken major steps to redouble our efforts to protect workers and consumers from exploitation and to bring economic relief to countless New Yorkers across our city. As the administration moves forward with an ambitious vision for economic justice, I am confident that together we will transform the city into one that is fairer, more affordable and more just. I thank you and I look forward to answering your questions today.
 
-(00:25:37) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=1537s
+(00:25:37)
 
 Thank you very much. I want to acknowledge that CM Brewer and CM Lee have joined us. CM Ariola is on Zoom. All right. Thank you. I know my colleagues have a lot of questions, so I just want to take a few off the top. I have heard from the mayor numerous times over the last three months that we were going to double the budget of DCWP to try to expand its resources and its reach, and I am wondering over what time frame you expect that doubling to happen and when we will see anything in relationship to that.
 
@@ -83,7 +83,7 @@ Thank you very much. I want to acknowledge that CM Brewer and CM Lee have joined
 
 >> Well, it was a preliminary budget as you know, Chair Epstein, and conversations remain ongoing.
 
-(00:27:33) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=1653s
+(00:27:33)
 
 with City Hall, with OMB. When the Council passed new groundbreaking laws like for higher vehicle deactivation, OMB did identify significant new needs for DCWP to make those laws a success. >> You say new needs, you mean additional staffing support. >> Exactly. Additional staffing support. And those conversations remain ongoing for the exec plan to ensure that we can enforce those laws effectively. >> Right. And I know you have listed off 10 or 12 different things where it is going to require additional needs of staffing. I just want to flag that as a large concern that we have, that we are giving you a lot of authority and I am not sure the staffing levels meet those needs based on what I am hearing today. >> I can... go ahead. >> No. So your headcount is 484, but the actual active headcount is 425. Can you explain the difference there? >> Yeah, essentially, Council Member, what is going on is a number of our lines — I believe it is about 58 of our authorized lines, 38 of our active lines and 20 of our vacancies — are actually funded by DOH. We do not control those lines. They work with our licensing centers. But those lines are not in consumer and worker protection. So 387 is your actual in consumer and worker protection, people actually working in your agency. >> I believe the active... Carlos, do you want to fill in right now? >> That is... let me confirm one moment. That is correct. 387 are dedicated to DCWP's work.
 
@@ -119,7 +119,7 @@ The last piece I would mention, because it came to me very directly — your poi
 
 >> Thank you. Now I will turn it to CM Lee. >> Hi. Good afternoon. Okay, it is afternoon. I am so sorry — I was in such a brain fog yesterday when I saw you guys walking in. I did not give you your due flowers. I am very apologetic, but congrats, Commissioner Lavine. And of course, we love Carlos and the rest of the staff. Thank you so much. And just really quickly, because I was going back to the numbers — I was really trying to follow along as Chair Epstein was going through the vacancies and the positions. So on our side, we had 63 vacancies and 421 active as of end of January, but you said the most recent numbers are 4...
 
-(00:47:51) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=2871s
+(00:47:51)
 
 387 active.
 
@@ -315,7 +315,7 @@ In the home improvement contractor space, I think we have done a lot of work ove
 
 Yeah, we have a home improvement contractor trust fund that, as Carlos mentioned, we have revamped the operating rules under. So now we have a more streamlined process where you can get up to $20,000 in relief without having to file a case.
 
-(01:07:59) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=4079s
+(01:07:59)
 
 And we also increase the cap if you do file a case in civil court, how much you can get from the trust fund. We also have a home improvement contractor wall of shame on our website. That is for repeat violators of unlicensed home improvement contracting. It is very important for consumers and we make that an educational point. We really try to get out to consumers that they should check our website, which has a license lookup function to see if the home improvement contractor they are considering hiring is licensed by us, because you get a lot more protections under the law if you hire a licensed home improvement contractor. So if you go to our website, you will see the most recent bad actors as far as unlicensed home improvement contracting. Just sort of responding to your question, Council Member, of like where are the bad actors? That is at least one sliver of the pie where we actually do have something on our website.
 
@@ -427,7 +427,7 @@ Of course.
 
 So I want to figure out if we can break down what the budget for consumer protection is and what is being...
 
-(01:52:34) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=6754s
+(01:52:34)
 
 budgeted for worker protection so we can figure out where the balance is. I hear the 387 is your total lines and I hear that you are having 20 to 25 lawyers, which is a big difference between 20 and 25 and 15 to 20 lawyers. So I am wondering, do they overlap, or how does this break down? Are people specialized in doing this work? Are the lawyers specialized? I know we talked a little bit about the inspectors having some specialization.
 
@@ -579,7 +579,7 @@ We actually brought an action in state court last year that is still ongoing aga
 
 >> In the prelim, 12.6 million, as you referenced earlier I believe.
 
-(02:13:06) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=7986s
+(02:13:06)
 
 Yeah, what I referenced earlier is 12.6, 6 million. Was that from prelim? Just got to make sure. >> That should be approximate. 12.7. >> 12.7 million. And how many young people does that include? >> My understanding of how this works, and someone might have to correct me, is that the budget assumes that every eligible kid is going to open an account. So starting with about $100. So I believe the way it is funded is a hundred times the number of eligible new students. >> Yeah. And I would say that this money is particularly a pass-through contract that we have. A lot of the oversight of it, I believe, sits with the mayor's office of equity and they conduct a lot of the metrics collecting for that program. >> So, just so I am clear, do we know if this is actually happening? Are children getting these $100? Is this happening? How many students is it impacting? >> As the commissioner mentioned, our understanding is the program is an auto-enrollment program, but in terms of the metrics, those are held by the mayor's office of equity. >> So auto enrollment by whom? How does a parent... I do not think it is auto enrollment. I do not know if it is auto enrollment. I think an account in theory is created for every student, and then a parent needs to claim that account on behalf of their child. So do we know if there are unclaimed accounts? >> There are many unclaimed accounts. That is my understanding. What role does DCWP have to... >> I think it is...
 
@@ -609,7 +609,7 @@ Fourth panel, Muhammad Aia, Liia, Gulipe and Gustavo Ai. And fifth is Bobby Desa
 
 I recently testified before this committee on the need for a strong consumer protection law and a DCWP in light of the federal government's complete abdication of its consumer and worker protection mandates. A few highlights from that testimony for today. Complaints from New York City to the federal CFPB rose 63% from 2024 to 2025, for a total of 184,000 complaints. Most of the state, however, saw a rise of over 100% for that same time period. Now, we cannot prove causation, but I would suggest that the reason New York City saw a relatively lower spike is because DCWP fills that gap more so than the rest of our great state. I have included more data in my written testimony that I will submit for today, but I hope we can stipulate for the purpose of this committee and hearing that DCWP's work is critical for all New York City residents and workers. I want to focus today on how successful it is also in...
 
-(02:34:06) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9246s
+(02:34:06)
 
 In addition to everything you have already heard, it is one of the only agencies in the city that brings in significant revenue in the forms of penalties and also puts real money back in New Yorkers' pockets in the form of restitution. We have heard testimony about the millions of dollars returned to workers and consumers, so I will spare you that litany, but it really is impressive, especially relative to the other jurisdictions that my organization works with. DCWP protects us from abusive employers and also from predatory companies that price gouge or cheat us during crises like the current affordability crisis. For this reason, New Yorkers literally cannot afford to underinvest in DCWP.
 
@@ -617,7 +617,7 @@ Unfortunately, the preliminary budget does just that. It is clear from today's t
 
 I would just note too, and I do not know how this works in the budget process versus bargaining or other things, but I think it is really important that the commissioner noted that the salaries are relatively lower. I think for attorneys, and I am an attorney, it is really hard to try to get high-quality attorneys to come work for New York and to live in New York and to pay them $95,000 when they are a decade out of law school or something like that. So I would just appreciate that that point was made. Thank you for the chance to testify. I would be happy to answer any questions.
 
-(02:35:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9347s
+(02:35:47)
 
 Thank you for the opportunity to testify. My name is Lilia Tosen. I am the president and CEO of Access Justice Brooklyn. I am here today to talk about a slightly different issue, which is the access to justice gap that affects consumer defendants and which DCWP does not have the resources to adequately address. AJB serves low-income Brooklyn consumers borough-wide, but most reside in neighborhoods in central and east Brooklyn. One way that we assist those clients is in the consumer legal advice and resource office, which we call Claro. As many as 70 to 80 people seek assistance at Brooklyn Claro on any given day, which is a number that has increased substantially since the pandemic compared to 2019. In 2025, we have handled an increase of nearly 40% in matters for consumer defendants relying on the same level of staff. The increased demand far exceeds the capacity of the Claro program.
 
@@ -625,7 +625,7 @@ To ensure that they are seen, consumers start arriving at the Kings County Civil
 
 Some of these cases would be dismissed easily with even a bit of advice and counsel. These include attempts to collect on income that is exempt such as social security payments, default judgments that resulted from improper service and cases that are filed after the statute of limitations has expired. Without Claro, pro se consumers are largely left unaware of their defenses and rights. For example, while we applaud DCWP's new shield rule against predatory debt collection, we know that most consumers will never be able to know about their rights or how to enforce them without being seen by a legal services nonprofit like us. The same is true for survivors of domestic violence or intimate partner violence who have coerced debt, which now has stronger protections under state law. To improve our capacity to address these challenges, we are requesting the committee's support for our speaker's initiative request in the fiscal year 2027 budget. And of course, we also support the increase in the budget to DCWP.
 
-(02:38:11) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9491s
+(02:38:11)
 
 Good afternoon. My name is Rebecca Cookmack. I am a staff attorney in the Employment Law Project at the Legal Aid Society. Thank you for this afternoon's hearing and for the opportunity to testify. The mayor's preliminary budget cuts DCWP funding and we call on the mayor to reverse course and double the DCWP budget to $130 million as promised during his campaign in the FY27 calendar year. The mayor's vision for economic justice cannot be achieved without fully funding the agencies responsible for enforcing protections for everyday New Yorkers. The preliminary budget cuts funding to the portfolio that falls under the purview of the newly established deputy mayor for economic justice by over $250 million. This is the same amount it proposes increasing the NYPD budget by. So we join the Council in pressing for a budget that reflects the critical enforcement role DCWP plays in building an affordable and just New York City for all.
 
@@ -635,7 +635,7 @@ DCWP is also a partner to the economic equities project at Legal Aid. Solar pane
 
 DCWP is an important partner for everyday New Yorkers. It enforces City laws, and in the absence of federal enforcement due to the dismantlement of the CFPB, it is more essential to the city's consumers than ever. So we need to increase its budget now. DCWP's portfolio has expanded over the past year and it will continue to grow. It needs additional staff to meet the mandates of our groundbreaking, first-in-the-nation laws regarding the deactivation of app-based delivery workers and rideshare drivers. These laws require robust enforcement and regulation and serve as a blueprint for regulating gig economy platforms nationwide. This legislation's success or failure will have national implications. We have a responsibility to workers here in the city and around the country to vigorously enforce these laws. So we join the Council in calling on the mayor to fund DCWP in FY27 at a rate commensurate with its importance and to add those 200-plus lines New York City needs to do the deactivation work properly. Thank you.
 
-(02:41:41) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9701s
+(02:41:41)
 
 Thank you, Chair and members of the committee. I am Paul S. with NELP, the National Employment Law Project. We are a national workers' rights policy organization headquartered here in New York. We work frequently with the Council and with DCWP. We recognize this is a tough budget year. Most agencies are going to need to trim their budgets and not expand them. But despite that overall context, we believe there is a really strong case to treat DCWP differently. We believe it is one of the key places in the city budget where strategic investments make sense even in this environment. You have heard many of the reasons during the excellent hearing that you held before the panel.
 
@@ -649,21 +649,21 @@ Fourth, enforcement of the laws is also crucial for the markets and the kind of 
 
 And finally, DCWP is really a tiny agency. It is 1% the size of the NYPD. The additional $65 million to double its budget is one-twentieth of 1% of the whole city budget. Truly a rounding error. There are a lot of places where those additional revenues could be found, even simply just trimming the proposed growth of the NYPD, but one way or the other, it is essential to find it. We know you agree with us. Your excellent op-ed in the Daily News yesterday really made the case, Chair Epstein. So we hope the speaker and the mayor will find a way to make that happen. Thank you.
 
-(02:44:29) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9869s
+(02:44:29)
 
 I really want to thank you all for all your work. I do not know if you knew this, but I helped start Claro over 20 years ago, so I know how vital that is and how important it is for consumers across the city. So thank you all for your work and I really appreciate it.
 
 We will go to our next panel: Tito Senha, Magdalina Barbosa and Elizabeth Jordan. You want to leave the bag? We can. Is there lunch in there or something? I do not know who wants to go first. You guys want to negotiate?
 
-(02:45:44) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9944s
+(02:45:44)
 
 I will go first. Good afternoon, Chair Epstein... that is so funny.
 
-(02:45:51) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9951s
+(02:45:51)
 
 And the Council committee. My...
 
-(02:45:53) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=9953s
+(02:45:53)
 
 ...name is Tito Senha. I am the director of workers' rights for Take Root Justice. We thank the committee for the opportunity to submit this testimony. We are here as members of the Citywide Immigrant Legal Empowerment Collaborative, SILK, which is a consortium of several New York City legal service providers and CBOs, which Chair, you founded or helped create, and which we appreciate. We appreciated the calls earlier on to support CBOs and workers' rights advocates.
 
@@ -673,11 +673,11 @@ In the last year, SILK legal service providers recovered approximately $6.3 mill
 
 We commend DCWP's robust enforcement of the protected time off law. We commend DCWP's investigators and counsel for working collaboratively with us to bring claims before the agency, because we believe our advocacy helps enforce the law as well and helps improve the agency's enforcement of those laws. So we support robust funding for DCWP. However, this crucial funding has lagged behind other priorities as well as the low-wage worker support, requiring last-minute saves each year to renew this funding. And as the committee knows, cases are not resolved in one year. We need funding that is multi-year. So we respectfully request that this committee and the Council demonstrate its ongoing commitment to the city's low-wage and immigrant workers by renewing and expanding low-wage worker support for employment-related legal services from $2 million in fiscal year 26 to $3 million in fiscal year 27. Thank you so much.
 
-(02:48:41) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10121s
+(02:48:41)
 
 Thank you for giving me credit for doing it. It was a couple of years ago.
 
-(02:48:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10127s
+(02:48:47)
 
 Good afternoon, Chair Epstein. My name is Magdalina Barbosa. I am the director of legal services at Catholic Migration Services. I also really appreciate the testimony about the low-wage worker support initiative. Again, as my colleague Tito mentioned, it is the only dedicated city funding for employment legal services. When low-income workers experience wage theft, when they experience workplace discrimination, denial of paid sick leave, they often turn to trusted legal services organizations like CMS, like Take Root Justice, like Make the Road New York, like Legal Aid Society for free legal assistance. Many low-wage workers cannot afford or access legal representation from private attorneys. And while agencies like the Department of Consumer and Worker Protection enforce many laws, they do not have jurisdiction to address all types of workplace violations that many workers in this city experience.
 
@@ -687,11 +687,11 @@ It cannot go unnoticed that the city's immigrant workers are now in an environme
 
 While we appreciate the Council's continued commitment for this critical initiative, we are requesting increased funding for this initiative at $3 million in fiscal year 27. CMS and our partners have received the same award for this work for nearly a decade. During that time, the cost of carrying out this work, including personnel and operating expenses, has risen significantly. An increase in funding will help ensure that our organizations continue delivering this vital work and have the resources we need to meet the growing costs. Finally, I join my colleagues in the disappointment in the mayor's preliminary budget that does not provide adequate funding for not just the Department of Consumer and Worker Protection but also the City Commission on Human Rights. We need these agencies to be adequately funded in order for the city to be able to advance many of its priorities. Thank you.
 
-(02:52:17) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10337s
+(02:52:17)
 
 Thank you.
 
-(02:52:20) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10340s
+(02:52:20)
 
 Good afternoon and thank you Chair Epstein and committee members. My name is Elizabeth Jordan. I am co-legal director at Make the Road New York. Make the Road is the largest grassroots immigrant organization in the state, serving 30,000 immigrant and working-class New Yorkers each year with community centers in Queens, Brooklyn and Staten Island. We provide legal as well as health access and adult literacy and educational services. The low-wage and immigrant workers we serve across the city face unique legal and workplace challenges exacerbated by the unprecedented attacks we are seeing on immigrants. The Council's support for legal services for low-wage and immigrant workers is more critical than ever in the face of horrifying anti-immigrant attacks and an uptick in immigration-related retaliation. Our legal team represents hundreds of workers each year to recover stolen wages, combat unlawful discrimination, and enforce their rights to paid sick leave and other basic protections. We outreach to thousands of workers across the city and educate them about their rights. Ensuring that New York's low-wage workers have access to free legal services advances the affordability agenda by directly putting money back into the pockets of low-income families, preventing manageable issues from becoming catastrophic and reducing the need for expensive public safety net services.
 
@@ -699,59 +699,59 @@ To share one typical case: Clara is a grocery worker who came to us in 2023 with
 
 Under the legal services for working poor initiative, we also ask the Council to renew $165,900 in funding for Make the Road's free legal services, which includes labor and employment as well. And finally, we request an enhancement of the speaker initiative funding to $300,000 for our wraparound services, which include workplace justice, immigration and housing legal services. The strong enforcement of workers' rights protections by the Department of Consumer and Worker Protection has been essential to our work over the years to protect immigrant workers in New York City. The preliminary budget, if adopted, would reduce DCWP's funding and leave the agency woefully under-resourced and unable to enforce the critical protections for working New Yorkers that it is charged with enforcing. The City should double DCWP's budget, but at the very least must allocate an additional $14 million to DCWP for fiscal year 2027 and a baseline of at least $39 million for out years to ensure their ability to enforce key worker and consumer protections that we heard about earlier today. Without meaningful and adequately resourced enforcement, these protections are not real for immigrant workers in New York.
 
-(02:56:25) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10585s
+(02:56:25)
 
 Thank you very much. Can I ask a quick question? On both the legal services for the working poor and the SILAC money, have you asked the administration to baseline that funding?
 
-(02:56:41) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10601s
+(02:56:41)
 
 I do not think we have had the opportunity. Certainly our agency and others have not.
 
-(02:56:48) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10608s
+(02:56:48)
 
 I would encourage you to, and please do reach out if that could be helpful in that.
 
-(02:56:53) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10613s
+(02:56:53)
 
 Thank you. Thank you all.
 
-(02:56:55) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10615s
+(02:56:55)
 
 Thank you.
 
-(02:56:56) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10616s
+(02:56:56)
 
 And I started with legal services for the working poor too. So Muhammad, Lijia and Gustavo are next.
 
-(02:57:07) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10627s
+(02:57:07)
 
 And then after that we have Aaron, Matthew.
 
-(02:57:14) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10634s
+(02:57:14)
 
 Miriam and Ted more. Okay, whoever is ready to go.
 
-(02:57:32) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10652s
+(02:57:32)
 
 I have to open my computer.
 
-(02:57:34) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10654s
+(02:57:34)
 
 All right, I will take a minute. Good afternoon, Chair Epstein and members of the committee. I am Muhammad Ata. I am the co-director of the Street Vendor Project at the Urban Justice Center. Thank you for the opportunity to testify today. So glad that we do not have the timer so I can get my ten minutes. No, it is not going to work. Okay. The Street Vendor Project is a membership...
 
-(02:57:55) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10675s
+(02:57:55)
 
 I am timing you right here now.
 
-(02:57:57) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10677s
+(02:57:57)
 
 All right, sir. Thank you.
 
-(02:57:59) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10679s
+(02:57:59)
 
 The whole colleagues behind you. I am timing you.
 
-(02:58:01) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10681s
+(02:58:01)
 
 All right. All right. The Street Vendor Project is a membership-based organization with more than 3,300 members. We strive to support street vendors across the five boroughs by providing direct services such as small business consultations, legal representation and access to a wide variety of resources. We also organize to build power in the vendor community across the city and ensure that their voices are heard and they have a seat at the table. The vast majority of our members are immigrants who hail from across the globe. Given the diversity of our membership, our services are offered in seven different languages: Arabic, Bangla, English, French, Mandarin, Spanish and Wolof. Thanks to the diversity of our small team, we respectfully request that the Council considers our funding applications for this fiscal year, since the Street Vendor Project is almost the only entity providing education, outreach and small business services to the street vendor community in New York City.
 
@@ -759,19 +759,19 @@ Street vendors are non-traditional workers running the smallest businesses in ou
 
 We respectfully request that the City Council prioritize creating a new initiative of $5 million to ensure sufficient resources for all non-traditional workers across our city. Street vendors, delivery workers, laundry workers and many others need support from the City to make sure that they are aware of the new systems, protections and laws that the City has created. The laws and reforms are only as good as they are followed, and we have to do our part to ensure workers are aware of the reforms taking place so they can benefit from them. We also urge the City Council to ensure that there is adequate funding to the Department of Consumer and Worker Protection this coming fiscal year so they have the capacity...
 
-(03:00:41) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10841s
+(03:00:41)
 
 Thank you. So they have the capacity...
 
-(03:00:42) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10842s
+(03:00:42)
 
 ...needed to implement the local law. Looking forward to the next steps with the Council. Thank you so much.
 
-(03:00:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10847s
+(03:00:47)
 
 Thank you.
 
-(03:00:51) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=10851s
+(03:00:51)
 
 Okay, good afternoon, Chair Epstein and members of the committee. My name is Gustavo Ch. I am a co-founder of Deliveristas Unidos and a worker organizer with the Worker Justice Project. Thank you for the opportunity to testify today. I am here today to speak about three important issues. First, we are calling on the Council to significantly invest in DCWP's capacity, including doubling its budget to $135 million and adding 400 inspector investigators and legal staff. Second, we are asking for $5 million to fund a workers' rights organizing and education initiative. Third, we are urging the City Council to close loopholes in Local Law 1332, including expanding the definition of deactivation to cover workers who are temporarily locked out or have their hours and job offers limited and punished by apps that prioritize their profit over our safety.
 
@@ -779,37 +779,37 @@ Over the past five years, Deliveristas Unidos and the Worker Justice Project hav
 
 We are asking for $39 million for DCWP in the FY27 budget so it has the staff and funding it needs to protect workers and make sure the labor rights we fought for are truly enforced. Additionally, we are calling for $5 million for a newly launching workers' rights organizing and education initiative led by the Street Vendor Project, DRUM and the Laundry Worker Center and the Worker Justice Project. This initiative will keep...
 
-(03:03:55) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11035s
+(03:03:55)
 
 Time is expired.
 
-(03:03:57) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11037s
+(03:03:57)
 
 ...workers' rights felt and workers empowered by speaking out and organizing. And finally, we ask the City Council to close loopholes in Local Law 1332, the just cause deactivation law passed last year. We urge the City Council to expand the definition of deactivation, including workers who have temporary deactivation and reduced scheduling to limit work offers. This investment will make a real change and help hardworking New Yorkers live and work with dignity. Thanks again.
 
-(03:04:42) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11082s
+(03:04:42)
 
 Thank you so much for the opportunity to testify. I wanted to say first, thank you so much for championing many of our deliverista laws that we have in place right now. I think this amazing committee has been very supportive and we are super excited to be able to work together with the agency. I also want to say thank you so much for highlighting the role of worker organizations in co-enforcement. This past year, we have been working very closely with DCWP to build a co-enforcement model that is a true close partnership with worker organizations. You highlighted something clear: we have a federal government that is terrorizing our communities, creating fear for workers coming forward to stand up for their labor rights. Now more than ever, the role of community organizations like Workers Justice and the Street Vendor Project is so critical to make sure that workers not only know their rights and feel they can trust our city government, but also that they can continue to organize. We strongly support that and agree that DCWP's budget needs to be doubled. They need double the amount of staff. There is probably more than $100 million that would give the agency what it needs. But we are also calling for the City Council to fund worker organizations because at the end of the day it is us who are going to be on the streets and in the field building trust, making sure workers have the power and are accompanied in the organizing process.
 
 I also want to say that while we are so thankful that we passed strong just cause protections for app delivery workers, unfortunately the apps managed to leave a huge loophole in 1332, which is the just cause protection. Right now the law only protects workers who are permanently deactivated, leaving the door open for app delivery companies like Uber and DoorDash to use temporary deactivation and limitation of scheduling and the number of offerings as a main punishment when deliveristas cannot deliver within realistic time frames. We are hoping to pass further legislation to close those loopholes. We are also asking for support to make sure that some of our key funding priorities are funded. One of them is $4.9 million for our day labor workforce initiative that funds a lot of our workforce and workers' rights initiatives throughout the city. I am going to end it there and I just wanted to say thank you so much for being our champion, for standing with the deliveristas, and we are looking forward to continuing to work very closely with the City Council this year.
 
-(03:07:20) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11240s
+(03:07:20)
 
 Thank you. Thank you all for all your work and I appreciate it and for your continued commitment to workers of New York City. Thank you. The next panel: Aaron, Ted, Matthew and Miriam. Thank you.
 
-(03:07:50) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11270s
+(03:07:50)
 
 How are you doing?
 
-(03:07:52) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11272s
+(03:07:52)
 
 You too. It is fine.
 
-(03:07:57) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11277s
+(03:07:57)
 
 Whatever order you guys want to go.
 
-(03:08:02) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11282s
+(03:08:02)
 
 Is this on? Okay. Thank you, Chair Epstein, the Committee on Consumer and Worker Protection and the New York City Council at large for their long-standing support of the legal services for the working poor coalition. My name is Matthew Shedler. I am the supervising attorney in charge of the consumer law project at Campbell Legal Services, one of the five members of the coalition that includes Housing Conservation Coordinators, Mobilization for Justice, Northern Manhattan Improvement Corporation and Take Root Justice. The coalition was created with support from the City Council over 20 years ago to address the civil needs of working poor and other low-income New Yorkers whose income is slightly higher than the poorest New Yorkers, rendering them ineligible for free legal services. The LSWP's services are critical to ensure working New Yorkers maintain financial independence and to help them preserve economic stability in communities across New York.
 
@@ -819,49 +819,49 @@ The impacts of cuts, actions and policy changes at the federal level threaten th
 
 Our legal services organizations represent these New Yorkers across all five boroughs. One example of our work is the case of Mr. G, a client of mine. After a long search in 2022, Mr. G found employment in a job he enjoyed. Unfortunately, this made him ineligible for the public assistance he was receiving. And when his landlord tried to raise his rent, he knew he could no longer afford his apartment. He moved out at the end of the lease, turning in his keys to the rental office. Years later, Mr. G found out he had been sued in New York City civil court.
 
-(03:11:15) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11475s
+(03:11:15)
 
 Time has expired.
 
-(03:11:16) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11476s
+(03:11:16)
 
 You are not going to hear the ending.
 
-(03:11:19) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11479s
+(03:11:19)
 
 You did good.
 
-(03:11:20) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11480s
+(03:11:20)
 
 It is a doozy. But with that said, we would ask you for the enhanced support to the legal services for the working poor coalition. Thank you, Chair Epstein.
 
-(03:11:30) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11490s
+(03:11:30)
 
 Excuse me. Can you move in?
 
-(03:11:32) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11492s
+(03:11:32)
 
 Yeah.
 
-(03:11:33) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11493s
+(03:11:33)
 
 Thank you, Chair. Thank you all, council analysts, everyone. It has been a long hearing and thank you for all your work always. I am here to put into the record, because we have shared this with the mayor, first deputy mayor, chief of staff to the mayor and Deputy Mayor Sue. We delivered a letter last week to them calling for $130 million for DCWP and expansion of DCWP. UAW Region 9A led this letter along with 32BJ, HTC, Teamsters 804, 808, a bunch of other labor siblings, a lot of worker centers. This is not known by the Council, so allowing you all to know this as well.
 
 I do not need to get into the disinvestment of DCWP. CM Abreu actually got into what I wanted to talk about on the 2:1 earlier today — that we need to get rid of the savings officer for DCWP, that DCWP actually brings in far more revenue than it currently does, and if we expand it, it actually could be a revenue generator for the City. Our laws and the affordability agenda that our mayor has championed requires robust enforcement and regulatory efforts. Our success as New York in ensuring that we are a City that people will believe in will have national implications, but also just implications for everything. Increasing this budget as a sound investment in enforcement puts money back into the pockets of working New Yorkers. It makes sure that people have trust in government. For all that, we are calling on the Council to call on the mayor for augmenting DCWP funding to the $130 million level. I will leave it at that. Thank you all.
 
-(03:13:12) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11592s
+(03:13:12)
 
 >> Thank you.
 
-(03:13:16) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11596s
+(03:13:16)
 
 >> Is this on?
 
-(03:13:17) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11597s
+(03:13:17)
 
 >> Yeah, we can hear you.
 
-(03:13:18) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11598s
+(03:13:18)
 
 >> Great. Thank you very much for the opportunity to speak today. I am Miriam Clark, a former president and member of the legislative committee of NELA New York. We are an organization representing lawyers who represent the vindication of employee rights. We have more than 450 members in the state of New York, many of whom practice in the City. I submit this testimony on behalf of NELA New York to call on the administration and City Council to fully invest in the Department of Consumer and Worker Protection to ensure that it is able to fulfill its crucial mission of protecting City workers, especially the most vulnerable.
 
@@ -871,27 +871,27 @@ I am not going to go over the data because you have heard it from the department
 
 >> Your time is expired. >> One sentence. We urge the Council to consider requiring that the civil penalties collected by DCWP stay with DCWP and not go back into the whole City budget. Thank you.
 
-(03:16:46) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11806s
+(03:16:46)
 
 >> Thank you. That last one is going to be a tough one for the City, but I appreciate not wanting that money to roll back in and to encourage the work of DCWP. Thank you, and thank you all for advocating for an increase in funding and for encouraging legal services working to talk about baselining that funding, because I think that might be a long-term, really helpful plan. Thank you all.
 
-(03:17:09) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11829s
+(03:17:09)
 
 >> Thank you.
 
-(03:17:10) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11830s
+(03:17:10)
 
 >> And Aid Desai and Camara Jackson are our next panel.
 
-(03:17:25) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11845s
+(03:17:25)
 
 >> Could be restitution.
 
-(03:17:41) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11861s
+(03:17:41)
 
 >> Thank you.
 
-(03:17:45) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=11865s
+(03:17:45)
 
 Good afternoon, Chair Epstein and members of the committee. My name is Camara Jackson. I am the CEO of Elite Learners, Inc. Thank you for allowing me the opportunity to testify. Elite Learners, Inc. is a New York City based community-based organization with a strong presence in Brooklyn and partnerships that allow us to support families across multiple boroughs. I do not know if CM Banks is still on, but we have two storefronts in his district, so very proud to be here.
 
@@ -901,25 +901,25 @@ It is through our work that we are asking for support through our speaker's requ
 
 >> Thank you.
 
-(03:20:32) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12032s
+(03:20:32)
 
 >> Good afternoon, Chair Epstein. My name
 
-(03:20:34) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12034s
+(03:20:34)
 
 is Bhairavi Desai. I am the executive director of the New York Taxi Workers Alliance. We speak in full support of DCWP's request for a proper budget. Last year and again this year, as we had to override the veto, we won a historic bill, which was the result of the work of a phenomenal champion in CM Krishnan and a lot of blood, sweat and tears from our membership. We won the biggest protections against unfair firings by Uber and Lyft. Uber and Lyft would be considered the largest employers in the City of New York. There are over 200,000 licensed TLC drivers in New York City. About 85% of them work just for these two companies. We serve collectively a million people every day. About 85% of that work is from Uber and Lyft dispatches. These companies have incredible power over the drivers.
 
-(03:21:40) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12100s
+(03:21:40)
 
 They are able to fire you with the click of a button. This is a workforce that spends $60,000 to $80,000 in investments on their vehicle. With the click of a button, when you are fired overnight, it means you are not only left jobless and incomeless, but you are left with a debt that can actually become generational poverty. So when we are talking about the enforcement of this law in particular, it is not just about the model bill on ending unfair firings. It is absolutely a measure to end poverty. I think that is the key thing here in so much of DCWP's work. Services, education, information — these are all critical. Representation is critical. These are all necessary protections for the working class and the poor. But we do not talk enough about how much poverty is created by corporate wrongdoing, whether it is wage theft or unfair firings. A robust DCWP I see as not only a vehicle to right these wrongs, but it is absolutely a stop measure against increased poverty in our City. We need this agency to be properly funded. We need an end to the austerity budget, which has included not only cutting services for the poor but also giving corporations a free hand. Having a robust DCWP is really the anti-austerity budget.
 
 Lastly, I really just want to say to the Council as a whole: we need to tax the rich. All of this that we are talking about is critical money. >> We cannot do it without having the courage and the vision to really make those who are wealthy — both individuals and corporations — finally pay their share. Because the budget holes the mayor has talked about are still not enough. We need a bigger budget, and that can only come when all of New York pays its share, particularly those that can actually afford it.
 
-(03:24:04) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12244s
+(03:24:04)
 
 >> Thank you both. But for Albany, we could do it. So we just need our state legislators — which I know fairly well about — to put the resources in place and allow the City to have more control over our taxing power. Thank you, and thank you for the work that you have done and continue to do for drivers across the City. One quick question: do you get HOP funding for the work you are doing around the... >> No. >> Have you applied for state funding, for the attorney general, for HOP funding? >> Not for HOP. >> Okay. All right. >> But we will. >> All right. Thank you both very much. I appreciate your work. Next we have folks on Zoom. Malot Samore is the first person — you can unmute and begin. I do not know if you are still there. If you cannot unmute, we will move on when you can. But let us move to Zara Nasier.
 
-(03:25:19) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12319s
+(03:25:19)
 
 >> You may begin. Oh, hi. Sorry, just collecting all the things. Hey, everyone. Good morning — good afternoon — Chair and members of the Committee on Consumer and Worker Protection. Thank you for the opportunity to testify. My name is Zara. I am the executive director of People's Plan NYC. We are a citywide coalition advancing a more just and equitable budget. I am here today to speak about the Department of Consumer and Worker Protection and its role in holding corporate actors accountable, as part of a broader campaign that we are running called Make Them Pay, which is starting this year.
 
@@ -929,37 +929,37 @@ It is part of a broader shift that we are pushing for, which is real corporate a
 
 >> The time is expired.
 
-(03:28:20) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12500s
+(03:28:20)
 
 >> Thank you.
 
-(03:28:23) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12503s
+(03:28:23)
 
 >> Thank you very much. And is Malot there?
 
-(03:28:28) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12508s
+(03:28:28)
 
 >> You may begin.
 
-(03:28:32) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12512s
+(03:28:32)
 
 >> Yes. Thank you. Good afternoon, Chairperson and distinguished members of the New York City Council Committee on Consumer and Worker Protection. My name is Milatsu and I am the director of policy advocacy and strategic partnerships at the New York Network of Worker-Owned Cooperatives, also known as NYNYC. We are the member-led trade association representing worker cooperative businesses and democratic workplaces in New York City. I am here alongside my colleagues from the Democracy at Work Institute, Center for Family Life, Workers Justice Project and our Advocacy Council members representing 10 other organizations that make up the Worker Cooperative Business Development Initiative, WCBDI. We are here asking New York City Council to continue supporting the expansion of worker ownership in next year's budget and firmly into the future.
 
 Since the inception of the initiative, we have created over 200 new worker cooperative businesses and over 1,200 new jobs that are not only providing higher hourly wages, but also building wealth and assets for individuals who are overwhelmingly BIPOC women and immigrants. We have seen firsthand how our initiative has served to bolster our sector, strengthening existing cooperative businesses and creating new ones. The initiative partners have collectively worked to create a comprehensive ecosystem of support for worker businesses that not only ensures creation of new worker cooperatives in low-income areas, but also the technical assistance needed to sustain businesses and create jobs, as well as the education and outreach needed for communities, interested entrepreneurs and allied organizations. We did a lot of work during the pandemic and in earlier years and beyond to bring in over $20 million in grants and loans to cooperatives and keep them afloat. We did this with a $3.7 million budget. We are here asking City Council to enhance our funding to $5,970,000 in order for the initiative to double down on the essential long-term economic recovery for worker-owned cooperative businesses that we will need to claw ourselves out of this crisis. We thank the City Council for the opportunity to testify and hope that you will consider our budget priorities and recommendations during this year's budget negotiation process. Thank you.
 
-(03:30:34) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12634s
+(03:30:34)
 
 >> Thank you very much. I really do appreciate the work of building more worker co-ops, something that I was involved with back in my old legal services days when we got that started. Thank you.
 
-(03:30:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12647s
+(03:30:47)
 
 >> Thank you, Council Member.
 
-(03:30:49) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12649s
+(03:30:49)
 
 >> The next person is Katherine Mzek. >> You may begin.
 
-(03:30:56) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12656s
+(03:30:56)
 
 Good afternoon, distinguished council members, and thank you for the opportunity to testify online today. My name is Katherine Mercek and I am a worker owner at two co-ops here in New York City: the Samaya Yoga Back Care and Scoliosis Collective and Oasis Solidarity Collective. We are members of NYNYC. You have already heard from my colleague Meat, which is a partner organization in the WCBDI initiative. Your support of our community of democratically run businesses helps to protect and create jobs for women, immigrant workers and communities of color across the five boroughs in a wide array of industries. Thanks to City Council's support, New York City has more cooperatives than any other city in the US. I am testifying today to urge you to continue to support the great work of WCBDI, enhancing the initiative's funding to 5.09 million, and to also support commercial rent stabilization to protect New York City's workers and small businesses from displacement.
 
@@ -969,15 +969,15 @@ We were also grateful to have access to technical support from WCBDI partners an
 
 Even though both of my small cooperative businesses are surviving, it is incredibly difficult to thrive in this economic environment. It is a myth that the pandemic reset commercial rents for small businesses back to reasonable rates. Commercial tenants have extremely limited protections from being pushed out by exorbitant rent hikes or evictions, even when they have built a community around their space and spent tens of thousands of dollars building it out specific to their needs, as my co-op has. This causes the death of so many small businesses, like two of the yoga studios I used to work for before they sadly had to close because their landlords were not so reasonable. The system should not be based on the luck of the draw and the whims of the particular landlord that you end up with. So all in all, please enhance WCBDI's funding to 5.09 million and please support commercial rent stabilization to protect our beloved small businesses from displacement.
 
-(03:34:24) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12864s
+(03:34:24)
 
 Thank you so much. Thank you for your time and thank you for letting us know how important the work of worker-owned cooperatives is, as well as affordability for our commercial spaces. Maybe more CLTs would help with that. I want to note that CM Sanchez could not be with us today because of other commitments, but I hope she was able to join. Our next speaker is Nilia Coyote.
 
-(03:34:51) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12891s
+(03:34:51)
 
 You may begin.
 
-(03:34:54) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=12894s
+(03:34:54)
 
 Good afternoon, chair and members of the committee. My name is Nila Coyote and I am the executive director of New Immigrant Community Empowerment, NICE, located in Jackson Heights, Queens. I am sorry for the noise — it is literally the 7 train passing. For over 25 years, NICE has been a trusted community organization and frontline responder for New York City immigrant workers during our city's most acute crises. Our deep integration has allowed us to reach hard-to-reach individuals. Currently, NICE's core purpose is to intentionally drive economic mobility and community integration among immigrant families through our empowering model: the pre-apprenticeship for life and work.
 
@@ -985,29 +985,29 @@ Today, we strongly urge the Council to fully fund the New York City Department o
 
 At the same time, we know that enforcement alone is not enough. Workers must also have pathways to economic mobility, dignity and long-term stability. This is why NICE launched the pre-apprenticeship for life and work, a comprehensive workforce development model that equips immigrant workers with job readiness skills, industry-recognized certifications, professional ESOL and critical life skills training. Through our program, participants not only access better job opportunities, but also build the knowledge and confidence to assert their rights in the workplace and navigate systems that have historically excluded them. This is where the work of DCWP and community-based organizations intersects powerfully. When workers are informed, organized and supported, and when there is a strong enforcement agency behind them, real accountability becomes possible. We have seen firsthand how DCWP's enforcement of laws can transform lives, recovering millions of dollars in stolen wages, partnering with CBOs in co-enforcement, and much more. At a time when immigrant communities are facing heightening economic instability, rising cost of living and increasing fear driven by broader immigration enforcement, the city must not retreat from its responsibility. It must lead with courage. Protecting workers is not optional. It is essential to the health and future of our city.
 
-(03:37:58) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13078s
+(03:37:58)
 
 Time has expired.
 
-(03:38:00) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13080s
+(03:38:00)
 
 Thank you. We respectfully call on the Council to fully fund DCWP's enforcement and outreach programs and expand investments in CBOs' worker protection and workforce development initiatives. Thank you for your leadership and the opportunity to testify.
 
-(03:38:17) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13097s
+(03:38:17)
 
 Thank you very much, and thank you for the work that NICE does for New Yorkers all over the city. Genesis Gonzalez, you may begin.
 
-(03:38:29) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13109s
+(03:38:29)
 
 Good afternoon, Chair Epstein and distinguished members of the New York City Council Committee on Consumer and Worker Protection. My name is Genesis Gonzalez and I am an assistant director at the Center for Family Life in Sunset Park, a 48-year-old service organization dedicated to providing vital resources to low-income families in Brooklyn so they can thrive and build sustainable futures. I am here today to respectfully urge the New York City Council to continue supporting the worker cooperative business development initiative by allocating 5.1 million in fiscal year 2027, including 675,000 for the Center for Family Life to continue helping low-income families develop cooperative businesses.
 
 With continued support from the New York City Council in fiscal year 2027, the Center for Family Life will incubate a new worker cooperative in administrative services, creating pathways for young professionals to enter and compete in the service economy while advancing their careers. We will also provide 275 technical assistance services to existing worker cooperatives to help them address administrative challenges and remain operational. In addition, we will offer 20 training sessions in business administration, finance, marketing and industry-specific skills, enabling 400 participants to strengthen their entrepreneurial knowledge. Through these efforts, we also aim to create at least 15 new jobs in cooperative businesses. These achievements would not be possible without the steadfast support of the New York City Council. On behalf of the Center for Family Life, thank you for your time, consideration and commitment to economic equity. We respectfully ask for your continued support in fiscal year 2027. Thank you.
 
-(03:40:13) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13213s
+(03:40:13)
 
 Thank you. I appreciate you and appreciate the work of the Center for Family Life, which I have worked with many times over the years. Zuben Slemani, you may begin.
 
-(03:40:26) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13226s
+(03:40:26)
 
 Hi, good afternoon. My name is Zuben Slemani with the New York Taxi Workers Alliance. I am a senior staff attorney and I just wanted to really impress upon everybody here the need for full funding of DCWP's initiatives, especially with regard to the driver deactivation protections. I think it is important to know just how crucial these protections are. Going beyond what the Council built off of its success with fast food, if you compare what happens to a for-hire vehicle driver when they are deactivated, it is not just a loss of income. It is ongoing significant debts — car payments, insurance — that accumulate and cannot be paid off while they are out of work. We passed what I think is the best driver deactivation protection framework in the country. It is the best one on paper, but it is only going to be as good as its enforcement.
 
@@ -1017,23 +1017,23 @@ It was really important to us as we pushed this Bill with CM Krishnan that there
 
 I think it is important to note that there has never been a problem with the city finding resources when it comes to regulating and punishing driver behavior. The TLC has an army of lawyers who prosecute drivers. They move quickly, and the level of minutia in which they punish drivers has been extraordinary. In one year, I recall searching the database and finding over a hundred violations for drivers using the wrong tone of voice. I am not kidding. I am not making this up. It was a discourteous conduct violation for speaking in the wrong tone of voice. I represented a...
 
-(03:43:24) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13404s
+(03:43:24)
 
 ...a driver once who was charged with an act against the public...
 
-(03:43:28) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13408s
+(03:43:28)
 
 Time has expired.
 
-(03:43:29) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13409s
+(03:43:29)
 
 ...for using a nebulizer so he would not have an asthma attack and would not stop breathing in the car. So we can always find the resources when it comes to punishing this workforce. I challenge everybody here to do the right thing and find the resources to make it so that drivers who have been unfairly deactivated have a stable life, a stable income and can remain at work when they get fired through no fault of their own.
 
-(03:43:50) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13430s
+(03:43:50)
 
 Thank you very much and I appreciate all your work. I know how important this is to all of us. Marissa Centeno, you may begin. I do not know if Marissa is there, but we will go to the next one. Christopher Leon Johnson, you may begin.
 
-(03:44:18) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13458s
+(03:44:18)
 
 Oh, yeah. Hello. My name is Christopher Leon Johnson, deputy chair of the cabinet's pre-budget hearing committee. I want to make this clear: I know that — shout out to Mamdani for being the person who had the order sent up to our commissioner to repeal the criminalization of the e-bikes, but it should have been repealed on January 1st, 2026, when he got sworn in as mayor. The minute after he raised his hand as mayor, he could have done that. We should not have waited three months to do this.
 
@@ -1043,27 +1043,27 @@ I believe that the City Council needs to make a letter openly condemning those w
 
 I think the City Council, like I said, going forward — my goal right now is that Relay needs to be held accountable. They should not be pulling out of the city like this. This is wrong for these workers who are out of a job on April 1st, 2026, with nothing and nowhere to go. This is where workers went when Uber and DoorDash were not an option. This is where they had jobs. So we can talk about worker justice all we want, but my...
 
-(03:47:26) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13646s
+(03:47:26)
 
 Time has expired.
 
-(03:47:27) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13647s
+(03:47:27)
 
 ...goal going forward is to help out the workers with Relay. So thank you so much.
 
-(03:47:31) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13651s
+(03:47:31)
 
 Thank you very much. Next is Christine Hines, you may begin. Okay, if we do not see Christine, maybe CJ Hayes next, you may begin. No CJ. Maybe Brandon Lee Clayton. Okay. Next, maybe Ben Fuller Gogans. Next is Allan — no last name listed. And last that I have listed is Latice Munoz. All right, we are trying to figure out if we can get people unmuted. Just a reminder: if people have not signed up to testify, we are close to the end of the hearing, so we need to know that you are testifying. If you have not signed up and you wanted to, this is kind of the end of the line. I think we see someone raising their hand. We are just trying to figure out what the problem is getting them unmuted. So, for the people who are trying to get unmuted, I think you need to accept being upgraded to a panelist, and then in theory you can be unmuted. So if you have been asked to be upgraded and you have not done it yet... Okay, good. So Latice, do you want to go first? Oh, Marissa is first. Marissa, are you ready?
 
-(03:50:13) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13813s
+(03:50:13)
 
 Yes.
 
-(03:50:14) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13814s
+(03:50:14)
 
 Okay, go ahead.
 
-(03:50:16) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=13816s
+(03:50:16)
 
 Thank you to the members of the Committee on Consumer and Worker Protection for the opportunity to share my testimony. My name is Marissa Centino and I am with the National Domestic Workers Alliance. I am here today to speak on behalf of the New York City Coalition for Domestic Work to urge the City Council to double the Department of Consumer and Worker Protection budget to 135 million to strengthen its enforcement capacity and hire 400 investigators, inspectors and legal staff. The NYC Coalition for Domestic Work represents nearly 250,000 nannies, house cleaners and home care workers who provide essential care and support to New Yorkers. Our coalition comprises Alikar, Carol Gardens Association, Damayan, Hand in Hand, the Domestic Employer Network, LANA and ourselves, the National Domestic Workers Alliance New York Chapter. Organizations with membership throughout the five boroughs, domestic workers organized for decades to win fundamental rights like minimum wage, paid overtime, protections against discrimination and harassment, paid sick leave, amongst other rights. In fact, New York is the first state in the country to pass a domestic worker bill of rights.
 
@@ -1071,22 +1071,22 @@ DCWP is responsible for enforcing some of those protections such as paid sick le
 
 In addition, DCWP launched an innovative project called the mediation program in 2022, which has become a critical resource for domestic workers in New York City, providing fair, accessible and effective pathways to resolving workplace disputes and recovering unpaid wages, including unpaid sick leave and other rightful earnings. We have seen a successful roster of workers who we have been able to usher through this mediation clinic and we have seen success in wages recovered. Many domestic workers have effectively used this program to recover their wages and secure the benefits they are entitled to. It is important to build up the DCWP budget to maintain and grow enforcement programs, something we are very passionate about here at NDWA. With increased funding, more domestic workers will be able to know their rights, employers will comply with their obligations, workers will have access to remedies for labor violations and will be able to use services like the mediation clinic. We have found DCWP and our collaboration to be very innovative and forward thinking and we plan to continue collaborating.
 
-(03:53:45) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=14025s
+(03:53:45)
 
 The time is expired.
 
-(03:53:47) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=14027s
+(03:53:47)
 
 Thank you.
 
-(03:53:48) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=14028s
+(03:53:48)
 
 Thank you very much. I appreciate your testimony. Next witness, you may begin.
 
-(03:53:58) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=14038s
+(03:53:58)
 
 Thank you. My colleague Marissa Centino just gave the testimony and thank you so much.
 
-(03:54:07) https://www.youtube.com/watch?v=p0zqCs4f7Gk&t=14047s
+(03:54:07)
 
 All right. Thank you. Are there any other witnesses in person or online who want to testify?

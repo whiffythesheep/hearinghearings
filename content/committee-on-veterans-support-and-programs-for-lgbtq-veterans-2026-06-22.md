@@ -7,6 +7,7 @@ slug: committee-on-veterans-support-and-programs-for-lgbtq-veterans-2026-06-22
 duration: "2hrs 5m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260622-101735.mp4"
+viebit_hash: "d53fWG4Bp0ylT98e"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415627&GUID=FF740AFB-E857-4084-A990-7BE2A9AABE7A&Search="
 chairs: "Frank Morano"
 members: "Carmen N. De La Rosa, James F. Gennaro, Vickie Paladino, Phil Wong"

@@ -7,6 +7,7 @@ slug: committee-on-children-and-youth-evaluation-of-dycds-beacon-and-cornerstone
 duration: "2hrs 6m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260623-130930.mp4"
+viebit_hash: "C8Qx5w36Gb0lAdUU"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416202&GUID=B9569ED6-8DA4-4C69-8751-BC43C16B3542&Search="
 chairs: "Althea V. Stevens"
 members: "Simcha Felder, Rita C. Joseph, Chi A. Ossé, Nantasha M. Williams"

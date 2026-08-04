@@ -7,6 +7,7 @@ slug: committee-on-criminal-justice-improving-court-operations-to-reduce-the-jai
 duration: "3hrs 5m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260625-100539.mp4"
+viebit_hash: "rBTEg1bDCvBhCTOh"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416091&GUID=1039BD48-81F8-42E8-924A-7D76372281B5&Search="
 chairs: "Selvena N. Brooks-Powers"
 members: "Gale A. Brewer, Tiffany L. Cabán, Oswald J. Feliz, Frank Morano, Mercedes Narcisse, Yusef Salaam"

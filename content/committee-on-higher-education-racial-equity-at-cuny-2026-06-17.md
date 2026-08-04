@@ -7,6 +7,7 @@ slug: committee-on-higher-education-racial-equity-at-cuny-2026-06-17
 duration: "3hrs 19m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260617-130933.mp4"
+viebit_hash: "FpMQtxHb4pcjuaCB"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416051&GUID=1CDFA4AB-8440-4202-A9A8-AE534183C643&Search="
 chairs: "Rita C. Joseph"
 members: "Joann Ariola, Eric Dinowitz, Harvey D. Epstein, Virginia Maloney, Lincoln Restler, Carl Wilson"

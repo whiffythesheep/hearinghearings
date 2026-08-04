@@ -5,13 +5,13 @@ Video: https://www.youtube.com/watch?v=u1f_c8-Jcos
 
 ================================================================
 
-(00:00:52) https://www.youtube.com/watch?v=u1fc8-Jcos&t=52s
+(00:00:52)
 
-(00:08:32) https://www.youtube.com/watch?v=u1fc8-Jcos&t=512s
+(00:08:32)
 
 Good morning and welcome to today's New York City Council hearing for the Committee on Sanitation and Solid Waste Management. At this time, I would like to remind everyone to silence all electronic devices. Also, at this point, going forward, no one is to approach the chair. We are ready to begin.
 
-(00:08:49) https://www.youtube.com/watch?v=u1fc8-Jcos&t=529s
+(00:08:49)
 
 Good morning everyone and welcome to this beautiful sunny Monday morning in the City of New York. Welcome to the fiscal 2027 preliminary budget hearing for the Committee on Sanitation and Solid Waste Management. My name is Justin Sanchez and I am the chair of the Sanitation and Solid Waste Management Committee. Today we will review the Department of Sanitation's fiscal 2027 budget to understand how it addresses the sanitation needs of all New Yorkers. I would like to begin by thanking the men and women of the Department of Sanitation for their hard work keeping our city clean and livable. Whether collecting refuse in the early morning hours, clearing snow from our streets — which we had a lot of this year — or managing the city's growing waste export needs, the work of DSNY's workforce is essential to the daily life of every New Yorker.
 
@@ -19,11 +19,11 @@ The Department of Sanitation's fiscal 2027 preliminary budget totals approximate
 
 Over the past year, the committee has conducted active oversight of sanitation operations, including a hearing on the city's engagement around the 2026 Solid Waste Management Plan. We also anticipate holding a hearing on street cleanliness in the coming months, as maintaining clean streets remains a top priority for our constituents and this committee. I would like to thank our committee staff for their hard work: our senior financial analyst Tanvir Singh, our policy analysts Ricky Chala and Dirk Spencer, and our committee counsel Morgan Barrett and Samia Shell. I would like to thank and welcome Acting Commissioner Lohan and the men and women of the Department of Sanitation for the essential work they do every day. I am looking forward to today's discussion and the committee counsel will now swear you in.
 
-(00:11:37) https://www.youtube.com/watch?v=u1fc8-Jcos&t=697s
+(00:11:37)
 
 I would like to also recognize my colleagues who are joining us here today. We start with CM Morano, CM Wang, CM Hanif, CM De La Rosa and CM Carr. Do we have anyone on Zoom? We have CM Maloney joining us via Zoom. Commissioner, please begin when you are ready.
 
-(00:12:00) https://www.youtube.com/watch?v=u1fc8-Jcos&t=720s
+(00:12:00)
 
 Good morning, Chair Sanchez and members of the Committee on Sanitation and Solid Waste Management. I am Javier Lohan, the acting commissioner of the New York City Department of Sanitation. I am joined today by Joseph Anteneelli, Deputy Commissioner of Management and Budget, and by Joshua Goodman, Deputy Commissioner of Public Affairs and Customer Experience. I have worked at the Department of Sanitation for 27 years, and even with that level of experience, it can still be a challenge to grasp the enormity of our work. The 10,000 members of service at DSNY are responsible for three primary areas, which I will list and then explain in as much detail as time allows, with an emphasis on new innovations and strategic initiatives. Broadly speaking, our three core functions break down to collection, cleaning and snow removal.
 
@@ -63,7 +63,7 @@ I have mentioned different forms of camera technology multiple times today. One 
 
 I know this was a tremendous amount of information. After more than a quarter century at DSNY, I am still amazed at the breadth and depth of our work. We are in every community every day and if the time ever came that we did not show up, people would notice immediately.
 
-(00:28:59) https://www.youtube.com/watch?v=u1fc8-Jcos&t=1739s
+(00:28:59)
 
 Okay, I will try this. Can you hear me now? >> Nope. >> The mic is not... Oh, there it goes. Okay. >> Okay. Fortunately, thanks to the work the Council and the administration do to keep this agency running, they will never come. I will now provide a more detailed budgetary update. The preliminary budget includes 2.25 billion in expense funds in fiscal year 2026 and 2.08 billion in fiscal year 2027, reflecting increases of 261 million and 38 million respectively from the budget adopted last June. The fiscal year 2026 budget includes $1.33 billion for personal services to support a total budgeted headcount of 9,625 full-time positions, including 7,957 uniform positions and 1,668 civilian positions and $95.4 million for other than personal services or OTPS. DSNY's fiscal year 2027 preliminary capital budget includes 3.26 billion in capital funding in the 10-year plan, $1.09 billion of which is for garages and facilities, $2.04 billion for equipment, 59.28 million for IT and 770.22 million for solid waste management infrastructure. The capital budget includes funding for several major facility projects, including 488 million in funding for the construction of a new garage for Bronx districts 9, 10 and 11 with demolition. 284 million in funding for the construction of a new garage for Queens District 1, which is slated to begin design later this year. Upgrades to the facility that serves the Bronx District 12 garage, which has an overall budget of 52.5 million and began construction this year.
 
@@ -183,7 +183,7 @@ Oh, I am sorry. We will have to get back to you on the budget number.
 
 >> So we really do not have those numbers as far as the conviction rate. That is processed through the Office of Administrative Trials and Hearings, OATH. But I can say, as far as illegal dumping cameras, first I want to thank the Council for their partnership because a lot of these are put up with funding from Council member discretionary funds. One of the things that we actually did in my current tenure is we were getting a lot of cameras that had no hits, meaning that we were not getting any impounds or summonses. We had a few Council members where we worked together because it does cost some money to move the cameras. So we moved the cameras and we saw a substantial increase, as you mentioned. But as far as calendar year goes...
 
-(00:51:20) https://www.youtube.com/watch?v=u1fc8-Jcos&t=3080s
+(00:51:20)
 
 From calendar year 24 to calendar year 25, there was a 62% increase in impounds. And then summonses, we had a 49% increase in summonses. So I think that is something that we are exploring. We are working with a vendor right now. It is a little premature, but I am finding it that hopefully it will be successful where we have mobile cameras and we can maybe deploy them in areas. Once we get more details on that, we have to test it first. Obviously I think it would be a great tool in our arsenal to stop some of this illegal dumping.
 
@@ -287,7 +287,7 @@ I appreciate that. And just to put a little bow on this section: if a borough is
 
 So I think that does help us. We have weekly meetings. The chief of department, who is with me today, has weekly meetings with the borough commands. Each of the seven zones — each borough command comes down...
 
-(01:13:24) https://www.youtube.com/watch?v=u1fc8-Jcos&t=4404s
+(01:13:24)
 
 with the district superintendent and they go over stats. We go over 311 stats, we go over those 311 stats from litter baskets, 311 conditions, enforcement stats, things like that, productivity measures. And then the chief of department goes over each borough and looks at where these issues are, why there are chronic complaints, and what is being done to fix them with the existing resources. Sometimes we find that maybe additional resources may be necessary. Obviously we want to try to keep things internal with each borough, and that is where I think the pooled operations approach is definitely effective for us. So if we have an area where we need more resources, at least for a certain amount of time, we will try those out and see if that works. Obviously we do not want to impact any other district. We do not want to take from one district, give it to another, and then have issues. So that is one of the things that we do every week. I think it has proven to be very effective. And I think we learn a lot, obviously, because we are not always on the ground. The district superintendents are, and I think them voicing the concerns and challenges they are having helps us identify the resource needs and where we should allocate them.
 
@@ -367,7 +367,7 @@ Sure. So basically you have thousands and thousands of segments. You may have a 
 
 It is one of the things that I always try to stress: as great as these tools are, and they really are — going back to my time, we did not have anything, we barely had radios when I was a supervisor — it is always about relying on supervisors verifying conditions. I think knowing that a truck traversed the street is just more awareness than anything. But there could be challenges with GPS drift where if a truck is pinging on one segment, it might drift onto another. Those are things that we look for every year. I would be happy to get those locations from you, Council Member, because it is important for us to see why that happened, because that really should not be the case. If it is one of those things, then we have logic that we work with internally to see if we can
 
-(01:35:34) https://www.youtube.com/watch?v=u1fc8-Jcos&t=5734s
+(01:35:34)
 
 Maybe we could refine those and see if there is anything else we can do to make sure that does not happen again, or at very least know that we are looking at that segment for the next time, and we are looking closer to make sure that does not produce a false positive. So I am happy to get that information from you and we can evaluate that and assess that further.
 
@@ -517,7 +517,7 @@ So the budget is $2.7 million for fiscal year 26.
 
 Fiscal year 26. Yeah. Okay. And that is managed — we use the DOE Fund so we are just managing that operation. And we use 311 complaints. That is how we track and remove the graffiti.
 
-(01:58:10) https://www.youtube.com/watch?v=u1fc8-Jcos&t=7090s
+(01:58:10)
 
 complaints that we get.
 
@@ -665,7 +665,7 @@ Yeah, I would love to work with you on what data you are looking for.
 
 Because more specifically, in my district, business owners have consistently been told that enforcement action could not be taken on a vendor that is known to sell non-FDA and USDA approved seafood from a van, because DSNY has to catch the individual in the act. Often times an officer is either unavailable, or when an officer is available, for some reason that particular street that the vendor operates off of every Saturday from 11 to 3 p.m. — they just somehow skip that street. So my hope would be that we can work together on that.
 
-(02:19:53) https://www.youtube.com/watch?v=u1fc8-Jcos&t=8393s
+(02:19:53)
 
 >> Absolutely. I would love to get those particulars and try to set up a focused operation there.
 
@@ -789,7 +789,7 @@ This is a moment for the New York City Council to invest in scaling solutions th
 
 >> Thank you so much for your testimony. Hello. My name is Leon Feineold. In 2017, my late wife Yuan and I co-founded the House of Good Deeds to pay forward the help that we received when she was diagnosed with terminal cancer. We have grown drastically since then. We recently opened our first permanent...
 
-(02:44:05) https://www.youtube.com/watch?v=u1fc8-Jcos&t=9845s
+(02:44:05)
 
 headquarters. We managed four rescue transport vehicles and we serve all five boroughs. Our volunteers partner with businesses and community members alike to rescue and redistribute essential goods at no cost to donors or recipients. And we do it bigger and better than anyone else. In 2025, we rescued five tons every month, more than half of it food. We run Manhattan's largest free store, offer free classes and a volunteer hub, which has trained thousands of community volunteers, including those running our weekly food pantry, which I am missing in order to be here. We also organize blood drives, neighborhood cleanups, electronics recycling, and are limited only by our funding. Based on the numbers we heard earlier today, 60 tons away from the waste stream every year actually makes a dent. Keeping useful items in service is a win-win, and building community and changing attitudes among New Yorkers is the cherry on top.
 
@@ -797,11 +797,11 @@ In 2023, this New York City Council spent $3 million on Grow NYC and its Stop an
 
 I ask this Council and committee, what is left of it, to recognize the massive win-win that House of Good Deeds has in reducing waste, promoting sustainability and building community through volunteerism in each of your districts. Give us the money to replace our ancient vehicles, hire drivers and pay our key people. Maybe figure out a way to exempt us from congestion pricing and we will grow. We have applied for discretionary funds and need support. We are more efficient than anyone else who does what we do. We are New York City's best direct link between those who have and those who need. The bigger and better we can be, the less cost and stress for the amazing people of the DSNY who keep our city running. Thank you.
 
-(02:46:11) https://www.youtube.com/watch?v=u1fc8-Jcos&t=9971s
+(02:46:11)
 
 Thank you for your testimony.
 
-(02:46:16) https://www.youtube.com/watch?v=u1fc8-Jcos&t=9976s
+(02:46:16)
 
 Thank you, Chair Sanchez and committee, for the opportunity to speak today. And thank you for restoring community composting funding for fiscal year 25 and 26 and we are hoping for 27. My name is Ellen Cooper. I am a master composter 2023 through the fantastic Master Composter Academy, a Trash Academy graduate from 2024, member of the Manhattan SWAB Organics Committee and former member of the SWAB.
 
@@ -809,11 +809,11 @@ As a master composter, I had the amazing opportunity to visit many of the commun
 
 There are thousands of dedicated citizens, both paid and volunteer, who make the compost program run, and millions of pounds of high-quality compost that make our parks, gardens, street trees, air and neighborhoods healthier and flood resistant. We should be increasing community composting, not eliminating it. While the whole curbside program is still in its infancy, community compost is the beating heart of the program. They work hand in hand. The citizen outreach and education provided by hundreds of community composters is irreplaceable. This is a volunteer army who support the small staffs and help build the community compost program, providing additional help and expertise to educate and inspire citizens and provide food drop-off places. The more people who learn about composting through community composting, the more likely they are to support the curbside program. Please keep it going. It is non-negotiable. Thank you.
 
-(02:48:37) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10117s
+(02:48:37)
 
 Thank you so much for your testimony and thank you to our first panel. Next we would like to bring up Mary Ellen Sullivan, Eric Goldstein, Justin Wood and Christine Dats Romero. Thank you. We will start with stage left. You may begin.
 
-(02:49:32) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10172s
+(02:49:32)
 
 Good afternoon, Mr. Chairman. Congratulations on taking this important post. I am Eric Goldstein, New York City Environment Director at the Natural Resources Defense Council and we are delighted to be here today. There is a lot to talk about. I will summarize my written testimony.
 
@@ -825,7 +825,7 @@ Second, we strongly urge the Council to provide funding for nonprofit organizati
 
 There is more we have to say about commercial waste zones, containerization, litter basket service and lot cleaning, which are essential and always downplayed in the department's preliminary budget. And finally, we urge you to reaffirm support for the Glick-Carpin packaging reduction and recycling infrastructure act. That is the EPR legislation the commissioner spoke about that could provide as much as $150 million a year, according to the sanitation department, back to the city from manufacturers. We hope the Council will once again let everyone in Albany know of the City Council's strong support for that state legislation. Thank you for your attention.
 
-(02:52:42) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10362s
+(02:52:42)
 
 Good afternoon, Chair Sanchez, and thank you for holding this meeting. My name is Christina Dats Romero. I am the executive director of the Lower East Side Ecology Center and I am here to testify about the need to continue funding community-based programs. The Ecology Center started its compost program in the 1990s to educate New York City residents about composting. Since the 90s, composting has gained in popularity with the implementation obviously of the citywide curbside program in 2024.
 
@@ -833,11 +833,11 @@ While community composting programs have paved the way to implementing a univers
 
 Right here in the city, there is a network of 15 organizations dedicated to turning food waste into finished compost. As a member of the New York City Community Compost Network, we would like to thank the Council for their support in the past and request that this support continue in FY27. Thank you.
 
-(02:54:32) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10472s
+(02:54:32)
 
 So much for your testimony.
 
-(02:54:35) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10475s
+(02:54:35)
 
 Hi, good afternoon, Chair Sanchez. Thank you so much for the opportunity to testify, and thank you to committee staff. My name is Justin Wood, New York Lawyers for the Public Interest and a founding member of the Transform Don't Trash New York Coalition. We will submit written testimony but just wanted to get to three items about the FY27 budget.
 
@@ -847,11 +847,11 @@ Secondly, we urge the Council and the budget to include funding for realizing th
 
 Thirdly, we strongly support robust infrastructure, public education and enforcement of both residential and commercial organics laws. We also hope to see the department roll out plans and have funding to roll out plans for additional large or medium-sized compost facilities that replicate the success of the Fresh Kills facility in Staten Island. Thank you so much.
 
-(02:57:08) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10628s
+(02:57:08)
 
 Thank you so much for your testimony.
 
-(02:57:11) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10631s
+(02:57:11)
 
 Chair Sanchez, committee staff, thank you for the opportunity to testify today. My name is Mary Ellen Sullivan and I am chair of Brooklyn SWAB and I am here to share our all-SWAB testimony.
 
@@ -863,11 +863,11 @@ First, every dollar spent diverting material away from landfill or incineration 
 
 Secondly, diversion directly improves conditions on the street. When recyclable materials and organics are removed from the trash stream, the volume of bagged refuse declines significantly and no longer attracts rats. For this reason, it is extremely important to achieve the targets outlined in the draft solid waste management plan: 30% for residential and 54% for commercial and construction. This is not just a sustainability issue but it is also an environmental justice issue. Thank you.
 
-(02:59:41) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10781s
+(02:59:41)
 
 Thank you for your testimony and we will have the rest of it in the written record. Okay, great. Thank you so much to this panel. We are going to take one of our online testimonies before we move on to our third panel, because they have been patiently waiting. So I would like to bring up our PS15 fourth graders.
 
-(03:01:04) https://www.youtube.com/watch?v=u1fc8-Jcos&t=10864s
+(03:01:04)
 
 Okay. Good morning. Thank you, Chair Sanchez and the sanitation committee for allowing us to speak today. We are fourth graders from PS15 in Red Hook, Brooklyn. We live in an environmental justice zone in Red Hook, Brooklyn, with a lot of traffic. Every culture taught us that there is no "away" for trash. We learned that when our trash leaves our homes or our school, first it goes to the Hamilton Avenue Waste Transfer Station nearby. Then it goes by truck to a barge at the Marine Terminal in Elizabeth, New Jersey. Then it gets trucked to a landfill all the way in Virginia. All that transportation creates pollution and the landfills make kids just like us who live around landfills get asthma for life because of garbage that is not even theirs.
 
@@ -875,11 +875,11 @@ How can the city's zero waste plan be real if we keep hurting other communities?
 
 We hope other schools can reduce their cafeteria food waste too and compost their food scraps locally, to make less waste in all schools in New York City so we can stop hurting kids like us who live near landfills in far away places. We hope the city can support environmental education and local composting.
 
-(03:03:44) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11024s
+(03:03:44)
 
 Thank you to our PS15 fourth graders for your testimony. The kids are all right. Now we will bring up our third panel. Can we please have Justin Green, a lot of Justins in trash, Megan Ortiz, Samir Rush... I hope I pronounced that right. If I did not, my bad. Jir Rush and Sydney Scott.
 
-(03:04:17) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11057s
+(03:04:17)
 
 It does not matter which order you sit. Just know that if you sit on the left, you will be speaking first.
 
@@ -889,23 +889,23 @@ I work in Cafeteria Culture's partner schools to collect food scraps in the cafe
 
 Middle schoolers typically walk up to me and introduce themselves and have regular conversations with me. I am sure my age and who I am makes me seem more approachable to them. In engaging with me, these students who are often hard to reach suddenly are exposed to composting, agriculture, and environmental equity. Through my pilot position as compost coordinator, I am able to bridge school cafeteria food scraps collection with local solutions that directly benefit the community. With further funding, we will be able to begin to scale these local composting pilots in the next year.
 
-(03:06:21) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11181s
+(03:06:21)
 
 Thank you for your testimony.
 
-(03:06:22) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11182s
+(03:06:22)
 
 Of course.
 
-(03:06:25) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11185s
+(03:06:25)
 
 And congrats on your first time.
 
-(03:06:27) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11187s
+(03:06:27)
 
 Appreciate that.
 
-(03:06:29) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11189s
+(03:06:29)
 
 Good afternoon, Chair Sanchez and the sanitation committee. Thank you for this opportunity to speak. I am Megan Ortiz and I work with Cafeteria Culture as a member of the teaching staff as well as mentor and support our compost coordinator with his work in cafeteria food scrap collection. I started as a Cafeteria Culture student in 2020 when I was a junior in high school and I became fully employed by them after working a waste audit in 2024.
 
@@ -915,15 +915,15 @@ I remember meeting one of our current eighth grade students just a year ago when
 
 It is because of the work Cafeteria Culture does that our children believe they are able to make a change. Our work is powered through New York City Council discretionary funding and through your greater investments in Cafeteria Culture. We hope to empower more students. I dream of a day where our work can reach children in all five boroughs, inspiring the hope and the confidence that I have achieved through Cafeteria Culture. Thank you.
 
-(03:08:22) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11302s
+(03:08:22)
 
 Thank you for your testimony.
 
-(03:08:23) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11303s
+(03:08:23)
 
 Hi, good afternoon, Chair Sanchez and members of the committee. I am Justin Green. I am the executive director of Big Reuse, one of the groups that received funding from the City Council. When Mayor Adams cut funding in FY24, programs that had
 
-(03:08:37) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11317s
+(03:08:37)
 
 been in existence for decades got cut at the Department of Sanitation. So there is really no more community-based programming at the Department of Sanitation that is funded through the City Council. That funding that kicked in funded our work and the work of 13 other groups across the city. Cafeteria Culture, which you have heard, is doing amazing work. Earth Matter, Governor's Island, Red Hook Farms, East New York Farms, Compost Power, BK Rot, New York Botanical Gardens, Queens Botanical Gardens, Snug Harbor, Lori Side, GrowNYC and Brotherhood Sister Soul. So it is funding groups across the city, all doing really interesting, innovative composting work that is really needed to educate people on composting.
 
@@ -933,11 +933,11 @@ At Big Reuse, we do a lot of different things. We have a mid-scale composting si
 
 We are here to encourage you to keep funding the speaker initiative for community composting because it has had amazing impacts across the city. Thanks for your time.
 
-(03:10:39) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11439s
+(03:10:39)
 
 Thank you so much for your testimony.
 
-(03:10:41) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11441s
+(03:10:41)
 
 Hi, good afternoon, Chair Sanchez and members of the committee. My name is Sydney Scott. I am a graduate student pursuing a master's in food systems. Thank you for the opportunity to testify and thank you to the City Council for restoring community composting funding in fiscal year 25 and continuing the funding for fiscal year 26. I am speaking today to strongly support ongoing stable funding for community composting through Council initiative funding for community composting.
 
@@ -947,15 +947,15 @@ But it was not the graduate education that taught me the value of composting. Th
 
 Despite what the federal government claims, climate change is real and it impacts us all. Food sent to landfills produces methane, a much more potent greenhouse gas than CO2. Composting can help address this issue by saving tons of greenhouse gas emissions. Let us work together to keep fighting climate change. I urge the Council to continue funding community composting. Thank you.
 
-(03:12:17) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11537s
+(03:12:17)
 
 Thank you so much for your testimony and thank you to everyone on panel 3. Before we head completely to our Zoom testimony, I wanted to make sure there were no last folks in the room that wanted to testify that have not already put in a request with the sergeant-at-arms. Going once, going twice, sold. Now I would like to bring up Mary Arnold on Zoom, please.
 
-(03:13:01) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11581s
+(03:13:01)
 
 I am testifying.
 
-(03:13:04) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11584s
+(03:13:04)
 
 Hi. I am testifying for Civics United for Railroad Environmental Solutions, which formed in Queens in 2009 to address quality of life problems from antiquated freight locomotives and waste export by rail. The Department of Sanitation of New York kind of brags that 85% of waste exported from New York City is hauled at some point by freight rail. This budget supports that business as usual export to disposal. But exporting waste by rail instead of using a different transportation mode does not reduce the tonnage or toxicity of waste. It does not eliminate quality of life, health and environmental problems in neighborhoods within and outside New York City, where all that waste is tipped, processed, hauled, landfilled and incinerated. Using rail to export New York City's waste is nothing much to brag about.
 
@@ -963,27 +963,27 @@ Capturing and diverting waste from export at the increased levels that are in DS
 
 Why do I say filthy and unhealthy? With few exceptions, the locomotives that haul waste are high-polluting 1970s diesel technology. Especially during the warm weather months, municipal solid waste rail containers too often emit the stench rats love, because a third of the material in the black bag trash is organics. Construction and demolition debris can contain heavy metals, PCBs, asbestos and other toxics. Yet it is crushed, dumped and hauled in open-top rail cars with floor drains, resulting in emissions of toxic blowoff, leachate and gas.
 
-(03:15:10) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11710s
+(03:15:10)
 
 Your time is expired.
 
-(03:15:13) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11713s
+(03:15:13)
 
 Thank you. Thank you so much for your
 
-(03:15:14) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11714s
+(03:15:14)
 
 testimony and any of the testimony that you did not get to, you can please submit it and it will be saved in the written record.
 
 I have done so. Thank you.
 
-(03:15:26) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11726s
+(03:15:26)
 
 Thank you so much, Mary. Can we please have Claire Mifflin?
 
 You may begin.
 
-(03:15:34) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11734s
+(03:15:34)
 
 Hi, I am sorry I have lost my voice, but I am going to try and send it in as written as well. I am in support of waste containerization and community composting. But in waste containerization I have ideas of how it could be improved. Our sidewalks are covered in bins and managing them is expensive. Our recent report, the Hidden Cost of Trash, shows that small buildings pay over $100 per apartment per month to manage their waste, often just taking it from bins on the sidewalk across to the street. Our solution of shared on-street containers for trash, recycling and organics used directly by residents could clean up sidewalks, increase diversion rates and reduce operating costs.
 
@@ -993,32 +993,32 @@ Our report Curb Alert also looked at on-street commercial waste containerization
 
 I would also like to ensure community composting continues to be financed. It will have to be through the City Council in the next year or so, but I would love to see it baselined in DSNY once the contract
 
-(03:17:40) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11860s
+(03:17:40)
 
 Your time is expired.
 
-(03:17:42) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11862s
+(03:17:42)
 
 Thank you. I am done. Thank you so much for your testimony.
 
-(03:17:47) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11867s
+(03:17:47)
 
 Next, can we have Alex Stein?
 
-(03:17:54) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11874s
+(03:17:54)
 
 Thank you. Can you hear me? All right. I just want to start off by saying that I love Mayor Mamdani and I voted for him. I support him 100%. I like his wife and one thing — he handled all of the snow incredibly well. But he made a campaign promise that he was going to lower the prices of falafel. And I am going to be honest, I eat falafel every day. I am the plant-based pimp. And I feel like right now the prices are still pretty high because you are giving these people a lot of restrictions. So you need to reduce restrictions. So I wrote a little poem.
 
 Oh, forget that I ran mess. It is just sand and a bunch of stress. I am hyped. Chickpeas clash in a pit of spice delight. Peters pounding hard through the day and night. Mamdani, you are a brown king. Walking around with your anti-sem like a bomb. G Heidi vibes strong. Keep the passion calm. Mom D, you are my mom. Love those terrorists riding on the camel. I do not give a dang because your food truck has a handle to my heart. It makes me fart. If I am being real, I will accidentally... in the Apple Store because I am at the Genius Bar because I cracked my screen because a guy robbed me on the subway train. All I was doing was buying cocaine. Mamdani, you are the man. I am your number one fan.
 
-(03:19:59) https://www.youtube.com/watch?v=u1fc8-Jcos&t=11999s
+(03:19:59)
 
 Thank you.
 
-(03:20:00) https://www.youtube.com/watch?v=u1fc8-Jcos&t=12000s
+(03:20:00)
 
 Thank you for your testimony.
 
-(03:20:03) https://www.youtube.com/watch?v=u1fc8-Jcos&t=12003s
+(03:20:03)
 
 And with that, the preliminary budget hearing for the Committee on Sanitation and Solid Waste Management is officially closed.

@@ -7,6 +7,7 @@ slug: committee-on-governmental-operations-state-federal-legislation-community-b
 duration: "2hrs 45m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260622-100657.mp4"
+viebit_hash: "CM6CubM30ZKtdJqn"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416846&GUID=453F50F0-4DAD-495A-8070-328A47A8F3EE&Search="
 chairs: "Gale A. Brewer"
 members: "Eric Dinowitz, Oswald J. Feliz, Frank Morano, Althea V. Stevens, Carl Wilson, Susan Zhuang"

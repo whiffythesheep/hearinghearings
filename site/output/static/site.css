@@ -490,9 +490,10 @@ body.desktop {
     color: var(--text-muted);
 }
 
-/* Timestamp links — jump to the corresponding moment in the YouTube video.
-   At rest: a thin dotted underline hints at clickability without shouting.
-   On hover: accent color with a subtle warm-beige fill, matching .back-link. */
+/* Timestamp links — jump to the corresponding moment in the video.
+   At rest: indistinguishable from an unlinked timestamp, so the transcript
+   reads quietly. On hover: accent color with a subtle warm-beige fill and an
+   underline, matching .back-link. */
 .transcript-body a {
     text-decoration: none;
     color: inherit;

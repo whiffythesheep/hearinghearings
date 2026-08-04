@@ -5,7 +5,7 @@ Video: https://www.youtube.com/watch?v=t5_s5S9r1Lo
 
 ================================================================
 
-(00:00:04) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=4s
+(00:00:04)
 
 My name is Sandy Nurse and I serve as chair of the Committee on Civil and Human Rights. I would like to start by thanking everyone who is joining us today and thank you to the committee staff who have worked hard to put this hearing together. Today we are hearing about the Fair Chance Act and its challenges and successes since enactment. The Fair Chance Act, first passed in 2015 and later expanded in 2021, prohibits most employers from asking about an applicant's criminal record before making a job offer or from including such inquiries in a job advertisement. It also protects employees from being treated less well than other employees due to a previous arrest or conviction. Local Law 24 of 2024, which took effect in January 2025, created similar fair chance protections for housing. The Fair Chance in Housing Law prohibits landlords, real estate brokers, or their agents from discriminating against renters and buyers because of arrest records, convictions, or other criminal history.
 
@@ -15,7 +15,7 @@ This is the reality in which the Fair Chance Act was built. 750,000 New York Cit
 
 More acutely in New York City, when a person cannot find housing, they are 10 times more likely to become homeless than someone without a record. Families are forced to choose between keeping their loved one under their roof and keeping that roof at all. And those who leave prison homeless are seven times more likely to violate their release terms, beginning a very terrible cycle. The Fair Chance Act in employment and the Fair Chance in Housing Law passed in 2024 are not charity. They are the bare minimum of what justice requires. These laws allow nearly a million of our neighbors to formally end the period of punishment and move on with their lives. And of course, a law means nothing if it is not enforced with the full backing of the City's power, including resources and services. Today we will examine whether these protections are reaching the people that they were written for, what the state of enforcement and investment looks like, and if we are making gains on the fair chance for housing expansion. I look forward to hearing your testimony and getting into the details. I am going to pass it off to committee counsel to administer the oath.
 
-(00:04:33) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=273s
+(00:04:33)
 
 Good morning, Chair Nurse and committee staff. Thanks as well. I know it is a lot of effort behind the scenes that goes into these hearings and we appreciate the partnership with you. It is also fair housing month, so happy fair housing month. Nice to do this in April. My name is Joanne Kth Ward. I am deputy commissioner of policy and external affairs at the New York City Commission on Human Rights and I am joined by Hillary Scravani who is our director of policy and adjudications. The Commission on Human Rights is excited to speak about our ongoing commitment to advancing fair chance protections in employment and housing — amendments the commission has staunchly supported for decades and which are groundbreaking. I will speak about how the commission educates New Yorkers about their expanded rights and works with housing providers and employers so they know and comply with evolving obligations. There is more detail in the written testimony than what I am going to say this morning.
 
@@ -37,17 +37,17 @@ These efforts complement our enforcement. When the commission receives informati
 
 So just in closing, fair chance protections embody a fundamental promise of the City Human Rights Law: that every New Yorker is treated fairly. Access to employment and housing creates the stability that strengthens families, supports re-entry, and advances safety for everyone. We remain committed to pairing vigorous enforcement with proactive education so these rights are meaningful in practice. We thank the committee and members of the Council for their partnership and look forward to continuing this work together. We welcome the opportunity to answer your questions.
 
-(00:13:17) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=797s
+(00:13:17)
 
 Thank you so much. And I want to recognize that CM Shaun Abreu has joined us. So we will start out with talking about the Fair Chance Act regarding employment. I have some questions around outreach, inquiries, and testing and then we will move into some other areas. For the Fair Chance Employment Act, CCHR had reported for the first two years that you conducted outreach to over 18,000 individuals, but you also provided technical assistance to just under 2,000 people. We were wondering what does the technical assistance entail?
 
 So you are talking about now 2016 to
 
-(00:14:09) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=849s
+(00:14:09)
 
 2017,
 
-(00:14:09) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=849s
+(00:14:09)
 
 the first two years. Yeah. So I think technical assistance is not a term we use these days about the way that we engage with members of the public, but I can speak to that about my time since I have joined the commission. What we do in this space — for fair chance employment, we created a citywide campaign, "Criminal Record? You Can Work," that was across subway ads. We created a handbook in partnership with some of the advocates that are in this room so that people know what is permissible during the application process. We developed rules to guide employers and again job applicants on what the law looks like. We conducted many trainings in correctional facilities, with sibling agencies, with service providers, and with re-entry organizations so that individuals would know what their protections in this space are.
 
@@ -55,51 +55,51 @@ We get a lot of questions still about fair chance employment. On my team we moni
 
 Okay. Thank you for that. And you mentioned in your testimony that you include fair chance information in your Human Rights Law 101 training. Can you explain how often that is offered and generally who takes those trainings?
 
-(00:16:11) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=971s
+(00:16:11)
 
 So on the second question, who takes those trainings? It is really a wide array of people doing the Human Rights Law 101. Today one of our colleagues is at Visions, which is a nonprofit serving people with disabilities, doing a Human Rights Law 101. We definitely do them for sibling agencies. We have regular trainings with DOH, for example, and regular trainings with HPD. We offer between 100 and 200 of those a year — and when I say we offer, I mean we are holding that training, not just that we are saying it is on offer. We have 100 to 200 of those a year, reaching several thousand New Yorkers each year. It can really run the gamut of employment agencies, service providers, and CBOs that are often requesting those trainings.
 
 We also have a dedicated fair chance in employment training and a dedicated fair chance in housing training. So the Human Rights Law 101 is sort of a teaser training in that it covers everything under the Human Rights Law. Our goal is always to be engaging longer term so that folks are also taking the deeper dive trainings on topics like fair chance and disability protections.
 
-(00:17:35) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1055s
+(00:17:35)
 
 Were any trainings given as a corrective action for a party that was in violation of the Fair Chance Employment Act?
 
-(00:17:43) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1063s
+(00:17:43)
 
 So I would say almost all of our settlements in the fair chance employment space involve training on the human rights law. That is really larger. For most of our settlements, training is a component of what we order people to do. So in fair chance employment in particular, I think there are a couple of novel things we have done that are worth mentioning. Training is a basic one, and we do respondent trainings on the Fair Chance Employment Act as a standalone. We also require people obviously to fix their ads or applications that are violating the law. And I think if a company is based in New York but they have offices countrywide, that is something that can impact and have a ripple effect past New York City, which I think is really great.
 
 We also can require and have required companies to share their model employment policies with us. I anticipate something very similar in the housing space, where we are looking at what your policies say on a wide range of topics including fair chance. And then the last thing I will say about the fair chance employment space is that also as part of our settlements, we have, depending on the employer, required folks to actually do job fairs and engage with re-entry organizations, again with the idea that we want to not just stop the facial violation. Obviously we want to do that, but really expand the pipeline of opportunity that employers are pulling from so that the demographics of who they are employing changes.
 
-(00:19:20) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1160s
+(00:19:20)
 
 It does not seem like there has been reporting on the number of trainings or technical assistance numbers since the pandemic. Are you all still tracking that?
 
-(00:19:31) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1171s
+(00:19:31)
 
 So again, the technical assistance number is not a number we have tracked in that way.
 
-(00:19:35) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1175s
+(00:19:35)
 
 Trainings, yeah, 100%. We have training numbers. I can talk to you about some of those. Yeah, it would be great, even if you want to list them here or if you want to also send them. Just how many individuals have received training or participated in workshops regarding fair chance for employment in each of the post-pandemic years. So I think that is FY22 through 25. If you are saying technical assistance is not a term you are using, that is fine.
 
-(00:20:09) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1209s
+(00:20:09)
 
 Just so that we can have that for our record. Yeah, and I can say the years I have
 
-(00:20:13) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1213s
+(00:20:13)
 
 with me right now are 23, 24 and 25. So
 
-(00:20:17) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1217s
+(00:20:17)
 
 I can say just for those years for fair chance employment, in fiscal year 24 we did about 30 of those trainings reaching 351 people. That one person is very important. In fiscal year 25 we did 33 trainings reaching 321 people. In fiscal year 26 to date, 46 of those trainings reaching about 500 people. You asked about human rights law 101, so I will just say those numbers as well. In fiscal year 24 we did 150 of those trainings reaching about 4,000 people. In 2025 we did 200 of those trainings reaching 7,000 people. And in fiscal year 26 to date we have done 99 of those trainings reaching about 6,000 people as well. When we add the fair chance specific training, do you want me to speak to that number? Yes, you could.
 
-(00:21:07) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1267s
+(00:21:07)
 
 So that only started in 2025. But as I mentioned, the human rights law 101 trainings that I just covered would introduce fair chance protections. The specific fair chance housing training was offered 16 times in 2025, reaching about 175 people. In fiscal year 26 we have almost doubled that number to date, doing 26 and reaching 350 people. And then I should also say, I think relevant to the fair chance housing space and reaching realtors and housing providers who are very important in the application market, we have developed with the Fordham Real Estate School a partnership where we offer a free training for real estate brokers where they get continuing education credit. We have trained about a thousand brokers in fiscal year 25 on, again, the suite of housing protections in the City human rights law. So it is source of...
 
-(00:22:06) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=1326s
+(00:22:06)
 
 Income, it is disability, it is fair chance. But we think that is a really effective program because people are incentivized to want to do the training and it helps them keep their license.
 
@@ -203,7 +203,7 @@ Formal legal complaints. No. I think when the amendments happened in 2019 there 
 
 I think we were expecting really some similar ideas in the housing space because housing providers were very concerned at the front end while the Bill was being negotiated. That said, some of the things that we saw as repeat violations in the fair chance employment context — which again are ads that are just violative of the law — we have not been seeing in the housing space. We worked pretty closely with REBNY and others when the law was being passed. There was a long window between the passage and the effective date, and so we were talking to all of those folks so that people had the notice that we had created and understood what the law required.
 
-(00:44:15) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=2655s
+(00:44:15)
 
 I think the Fair Chance Housing Act is also written in a fairly clear way and there is kind of less back and forth in the process than there is in employment. So I would say there are just more questions and concerns from employers, if that is the kind of information you are looking for.
 
@@ -299,7 +299,7 @@ Okay. I want to recognize that CM Hanif has joined us. And then for the number o
 
 Yeah. So I think we talked about this at the preliminary budget hearing as well. There were eight people on our info line, working very hard every day. We have hired in the info line space. Again, the numbers I have are since 2024 — we have hired four people into the info line. But those numbers do not necessarily account for attrition, so the number of people on the info line may not have grown, but we have hired into that space and the current number is eight. I think the commissioner has flagged an interest in increasing our ability to move cases faster. That includes from the first conversation with the info line to having a meeting with an attorney and ultimately resolving cases. So we are looking hard at our current number-one resource, which is our people, and thinking about how we...
 
-(01:07:41) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=4061s
+(01:07:41)
 
 Effectively staff up so we can reach New Yorkers.
 
@@ -377,23 +377,23 @@ And where have you seen these cases really brought? Who is bringing the largest 
 
 Within our criminal practice, we work on a lot of the issues that our clients present. We are seeing discrimination against people with vouchers, people because of family composition, and also the issues around criminal history. As far as now, we have been referring those cases to our partners, alerting them about this for investigation and also referring people to pursue their complaints at the commission. That is why we are really concerned about the resources that the commission has and their ability to move these cases forward. We understand we are in the budget season. There has been a lot of discussion about the resources that the commission will receive. So with all the duties that...
 
-(01:38:40) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=5920s
+(01:38:40)
 
 They already have, and this is a little different from source of income discrimination in that it is a multi-step process, as far as the information that an owner has to put forward when they are rejecting an application. We recognize that they are going to require resources to be able to be effective.
 
-(01:39:03) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=5943s
+(01:39:03)
 
 For anyone here on the panel, if there is anything else you want to add, your experience working with CCHR — I know especially for Fair Chance Housing it is still in early stages — but if there is anything else you would like to share on the record, no sweat. No pressure either.
 
-(01:39:28) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=5968s
+(01:39:28)
 
 No, I will just say that in the cases where we have had clients who have met with commission staff about emotional distress interviews and such, they have uniformly been great and professional. They just seem so overworked. Cases are so slow. I do not mean to criticize any individual people at the commission. It is just that the overall process is a really long one.
 
-(01:39:52) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=5992s
+(01:39:52)
 
 Yeah, agreed. Okay. Well, thank you all for coming and for your testimony. I would love to follow up about the universal non-compliance with the home health aides and maybe we could strategize around that. But thank you for coming. The next panel will be Paul Keefe, Ella Neaf — sorry, I am really bad at this — and Evette Chen. Why do we not start with you, Paul, then we will move down, and Evette is on the Zoom.
 
-(01:40:44) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6044s
+(01:40:44)
 
 Okay, great. So my name is Paul Keefe. I am vice president of legal services at Community Service Society of New York. I spent most of my legal career advocating on behalf of people with criminal records. I began at CSS as a staff attorney and was the lead legal advocate behind the Fair Chance Act in 2015, and then I moved to the commission to enforce it for seven years. Now I am back at CSS. I want to spend my time today just talking about what enforcement looks like at the commission when it is very effective.
 
@@ -403,7 +403,7 @@ We also worked with national employers to allow local hiring managers to overrid
 
 I am just going to end by echoing the need for increased funding for the commission. I am part of the group advocating for $25 million and consistent funding to allow the commission to become a credible adversary to employers and reach the point where employers take them seriously when a complaint is brought.
 
-(01:43:57) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6237s
+(01:43:57)
 
 Hi, good morning. My name is Ellen Alpa and I am a staff attorney with the Worker Justice Project, an initiative of the Legal Aid Society's Criminal Defense Practice that fights employment discrimination faced by individuals with criminal records living in New York City. Thank you, Chair Nurse and the committee for the opportunity to provide testimony today.
 
@@ -415,15 +415,15 @@ This leaves DOE workers in prolonged financial hardship and uncertainty even whe
 
 Therefore, we urge the Council to explicitly extend Fair Chance protections to these workers. I go into greater detail about the issues related to Fair Chance Act enforcement and make further suggestions in my written testimony. The Fair Chance Act has been monumental for strengthening workers' rights in New York City. We hope that going forward, the City Council will continue to solicit feedback from legal service providers and continue to make changes to the law to fortify these protections that provide crucial relief for New York City workers. Thanks.
 
-(01:47:10) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6430s
+(01:47:10)
 
 I do have some follow-up questions for you, but I am going to let Evette go. Evette, if you are online, you can begin testifying now.
 
-(01:47:23) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6443s
+(01:47:23)
 
 Great. Thank you.
 
-(01:47:25) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6445s
+(01:47:25)
 
 Hello, my name is Ivet Chen. I am a policy associate at the Fair Housing Justice Center, a civil rights nonprofit organization serving the NYC area. Our mission is to eliminate housing discrimination, promote accessible and inclusive communities, and strengthen the enforcement of fair housing laws. Chair Sandy Nurse and the Committee on Civil and Human Rights, thank you for the opportunity to testify today.
 
@@ -431,34 +431,34 @@ Just to reiterate some of the past testimonies, we ask the committee to ensure t
 
 Anecdotally, the Fair Housing Justice Center has not seen a significant increase in complaints related to the Fair Chance Act, which we suspect is due to the public being unaware of the law. Early investigation of and enforcement of this law by FHJC has demonstrated that providers are either ignoring or uneducated about their obligations under the law and the penalties they may face for violating it. The Fair Chance Act in housing needs institutional capacity to enforce the law effectively, and a well-funded CCHR will ensure that the promise of fair housing is real for all New Yorkers. Thank you for the opportunity to testify.
 
-(01:49:16) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6556s
+(01:49:16)
 
 Thank you. I have a question about the DOE workers. I know that you said you submitted more details, but are you saying that folks are suspended or terminated for any charge after an arrest?
 
-(01:49:34) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6574s
+(01:49:34)
 
 Yeah, that is correct. So basically what happens is, when they are arrested, due to the fact that they were fingerprinted for their employment at DOE, there is an automatic arrest notification sent to the DOE and the Office of Personnel Investigation. They then also almost automatically suspend the employee or the contractor in question. There is virtually no recourse. There is no appeal process. In theory, when you read the regulations, it says that there is a review, but what exactly goes into this review is unclear. What happens in practice is that nearly 100% of individuals with pending cases are just suspended, and OPI will not allow them back to work until the case is resolved and they have a certificate of disposition from the court.
 
-(01:50:26) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6626s
+(01:50:26)
 
 And this is even for folks who might not work at a school? I mean, I could understand the...
 
-(01:50:33) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6633s
+(01:50:33)
 
 ...hysteria. I mean, I do not know if you have been to a Community Council meeting or any of these parent meetings. I do not have children, so I do not have to go to those, but I have been to them and my staff go to them, and it is not fun when situations like that arise. So is this also for people who are not actually working at a school site? I have had clients that are IT personnel who do not interact with children and still completely lose their employment until the case is resolved.
 
-(01:51:04) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6664s
+(01:51:04)
 
 Okay. I think we can look into that. Certainly I think it is worth clarifying the process and making sure that it is actually being used. I think this is a hard-pressed environment to create that. But yeah, we could probably see what we can do and the world will not fall apart. Well, thank you so much for that testimony. If there is anything else you all want to add, please do. Otherwise, thank you for coming today.
 
-(01:51:33) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6693s
+(01:51:33)
 
 Thank you.
 
-(01:51:35) https://www.youtube.com/watch?v=t5s5S9r1Lo&t=6695s
+(01:51:35)
 
 If I may, Chair, I just wanted to add one other thing, which is that the City also should work toward — and this is in my testimony — becoming a fair chance employer itself. Obviously, the City is the largest employer in New York City. I am old enough to remember when Michael Bloomberg issued an executive order in 2011 that banned the box for city employment. So even before the Fair Chance Act came into effect, the mayor was able to do that. The kinds of remedies that I talked about that the commission can impose, and the kinds of limits on looking back at criminal records that the Clean Slate Act imposes, do not apply to public employment. Those can still be implemented affirmatively by the City using the same justifications and rationale of bringing people out of poverty and also just giving them the chance to not have to answer about their record anymore after a certain amount of time has passed.
 
-(01:52:33) https://www.youtube.com/watch?v=t5_s5S9r1Lo&t=6753s
+(01:52:33)
 
 Okay. Thank you so much. I really appreciate it. Is there anyone who wanted to testify today that has not signed up? Going once, going twice, going three times. Okay. Thank you everybody for this hearing. Thank you to the committee staff for all your hard work. Thank you, CM Hanif, for hanging through. Appreciate you, sergeants. I am going to close this hearing.
