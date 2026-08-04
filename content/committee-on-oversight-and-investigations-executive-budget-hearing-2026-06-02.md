@@ -7,6 +7,7 @@ slug: committee-on-oversight-and-investigations-executive-budget-hearing-2026-06
 duration: "1hr 14m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260602-160353.mp4"
+viebit_hash: "1byYbOezXr8EmtDU"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417343&GUID=8D2A1075-917F-4502-948B-03660DF72F88&Search="
 chairs: "Shekar Krishnan | Linda Lee"
 members: "David M. Carr, Linda Lee, Kevin C. Riley, Sandra Ung, Nantasha M. Williams, Susan Zhuang"

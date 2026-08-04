@@ -7,6 +7,7 @@ slug: subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-par
 duration: "4hrs 59m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260527-110020.mp4"
+viebit_hash: "HHxzjyR4DUuayazm"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1404689&GUID=4465A321-7F6D-4536-8142-A59709AE9454&Search="
 chairs: "Farah N. Louis"
 members: "David M. Carr, Elsie Encarnación, Amanda C. Farías, Simcha Felder, Yusef Salaam, Justin E. Sanchez, Lynn C. Schulman, Shanel Thomas-Henry"

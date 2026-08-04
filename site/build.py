@@ -145,10 +145,60 @@ def collapse_summary_sections(html):
     return "".join(out)
 
 
+TIMESTAMP_RE = re.compile(r"^\*\*\((\d{2}):(\d{2}):(\d{2})\)\*\*$", re.MULTILINE)
+VIEBIT_WATCH_URL = "https://councilnyc.viebit.com/watch?hash={}"
+
+
+def viebit_timestamp_base(meta):
+    """Return a Viebit URL that survives having ?t= appended, or "".
+
+    Viebit publishes a recording under two shapes, and only one of them can
+    carry a deep link. ``/vod/?s=true&v=<file>.mp4`` is a *redirector*: it 302s
+    to ``/embed/vod?v=<hash>`` and rebuilds the query string from scratch, so a
+    ``?t=`` never reaches the player and the video opens at 0:00.
+    ``/watch?hash=<hash>`` is served directly and keeps it.
+
+    Front matter stores whichever shape Legistar advertised, and the two are
+    not interconvertible without a network lookup — ``discover_pending.py``
+    fingerprints published hearings on that shape, so ``viebit_url`` must stay
+    exactly as recorded. The hash is therefore carried alongside it in
+    ``viebit_hash``, resolved once at publish time.
+    """
+    url = meta.get("viebit_url", "")
+    if "hash=" in url:
+        return url
+    viebit_hash = meta.get("viebit_hash", "")
+    return VIEBIT_WATCH_URL.format(viebit_hash) if viebit_hash else ""
+
+
+def link_timestamps(transcript_md, video_url):
+    """Turn bare **(HH:MM:SS)** lines into deep links into the recording.
+
+    Viebit's video.js player reads ?t=<integer seconds> off the page URL (see
+    its vod-*.js bundles), so a timestamp can be joined to the hearing's watch
+    URL at render time rather than being baked into content/*.md. The older
+    YouTube-sourced files already carry their links in the markdown; those
+    lines do not match the pattern and pass through untouched.
+    """
+    if not video_url:
+        return transcript_md
+    base, _, query = video_url.partition("?")
+    parts = [p for p in query.split("&") if p and not p.startswith("t=")] if query else []
+
+    def repl(m):
+        h, mins, secs = (int(g) for g in m.groups())
+        joined = "&".join(parts + [f"t={h * 3600 + mins * 60 + secs}"])
+        return f"[{m.group(0)}]({base}?{joined})"
+
+    return TIMESTAMP_RE.sub(repl, transcript_md)
+
+
 def markdown_to_text(md):
     """Strip markdown formatting for plain-text download output."""
-    # Links: [text](url) → text url
-    md = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1 \2", md)
+    # Links: [text](url) → text (the url is dropped; the transcript.txt header
+    # carries the recording's URL once, so inlining it per timestamp only added
+    # noise to the download and junk tokens to the search index)
+    md = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1", md)
     # Bold/italic
     md = re.sub(r"\*\*([^*]+)\*\*", r"\1", md)
     md = re.sub(r"\*([^*]+)\*", r"\1", md)
@@ -345,7 +395,12 @@ def load_content():
                 "council_url": meta.get("council_url", ""),
                 "summary_html": collapse_summary_sections(markdown.markdown(summary_md)),
                 "summary_snippet": truncate_text(summary_plain, 160),
-                "transcript_html": markdown.markdown(transcript_md)
+                # Timestamps are linked for the page only — transcript_md and
+                # transcript_text stay bare, keeping the .txt download and the
+                # search index free of per-utterance URLs.
+                "transcript_html": markdown.markdown(
+                    link_timestamps(transcript_md, viebit_timestamp_base(meta))
+                )
                 if transcript_md
                 else "",
                 "transcript_md": transcript_md,
@@ -437,6 +492,8 @@ def build():
             header_lines.append(f"Source: {SITE_URL}/hearings/{hearing['slug']}/")
             if hearing["youtube_url"]:
                 header_lines.append(f"Video: {hearing['youtube_url']}")
+            elif hearing["viebit_url"]:
+                header_lines.append(f"Video: {hearing['viebit_url']}")
             transcript_txt = (
                 "\n".join(header_lines)
                 + "\n\n"

@@ -5,13 +5,13 @@ Video: https://www.youtube.com/watch?v=aPrlRrwWsaU
 
 ================================================================
 
-(00:00:10) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=10s
+(00:00:10)
 
-(00:17:37) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=1057s
+(00:17:37)
 
 New York City Council hearing from the Committee on Housing and Buildings. At this time, I would like to remind everyone to please silence their electronic devices and at no point is anyone to approach the dais. Additionally, no one is to approach the witness table unless invited to testify. If you have not signed up to testify and would like to, you can fill out a slip located on the table in the hallway outside with the sergeant-at-arms chair. We are ready to begin.
 
-(00:17:59) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=1079s
+(00:17:59)
 
 Thank you, Sergeants, and good morning. Welcome to the March 24th hearing of the New York City Council Committee on Housing and Buildings. Today's hearing covers the fiscal 2027 preliminary budget for two critical agencies, the Department of Buildings and the Department of Housing Preservation and Development. I am CM Pierina Sanchez, chair of the committee. On behalf of the Council, I welcome members of the public and the Mamdani administration who are joining us here today. Commissioner, first congratulations. Glad to be working with you in this capacity again.
 
@@ -31,7 +31,7 @@ I will close with the facts. We know what the housing crisis looks like. We see 
 
 Before we begin, I would like to thank the finance staff: financial analyst Carla Naranjo, assistant director Daniel Kroo, deputy director Chima Oucher, and Percy Sutton fellow Katherine Mahan — sorry, I am saying that wrong — Mahan, for their work on this hearing, as well as legislative committee staff Austin Malone, Billy E, Jose Kund, Derk Spencer, Ree Hiro, Noah Slober and Muhammad Shadid. Finally, I would like to take this opportunity to thank my team: Chief of Staff Maria Valobos, Deputy Chiefs Ben Ratner and Kim Gasos, Gerard Fernandez, Delen Campos, Maria Jose Mises, Brenda Monise and Stephanie Kuzi. I would now like to acknowledge that we are joined by CM Feliz on Zoom, CM Joseph and Maloney here in person, and Public Advocate Williams. Before we turn to administration testimony, we are going to allow a few remarks from our public advocate.
 
-(00:24:38) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=1478s
+(00:24:38)
 
 Thank you, Madam Chair. Good morning everyone. As mentioned, my name is Jumaane Williams, public advocate of the City of New York. I want to thank Chair Sanchez as well as the members of the Committee on Housing and Buildings for holding this hearing today and allowing me the opportunity to give testimony as well. Congratulations to the new commissioner as well.
 
@@ -45,11 +45,11 @@ While I believe we must expand CityFHEPS and move away from costly shelters, I a
 
 Finally, I want to recognize our partners on the federal level, because without their advocacy, New York State and the City at large would be in a much worse fiscal state, with the federal appropriations bill that recently passed funding Section 8 vouchers. In dire times like this, it is critical that City, State and federal officials work together to protect our communities and mitigate the harms being inflicted by the Trump administration. And the harm is not a byproduct. It is the intention. I am also hoping to hear from DOB to make sure that we have the staffing needed for folks who are coming to DOB to do what they need, either in their single family homes or to build additional rental units. Thank you very much. Appreciate it.
 
-(00:27:47) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=1667s
+(00:27:47)
 
 Thank you, Public Advocate. I will now turn it over to our counsel to administer the oath.
 
-(00:28:15) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=1695s
+(00:28:15)
 
 There it goes. Technology. Wow. Good morning, Chair Sanchez, public advocate Williams, esteemed members of the Committee on Housing and Buildings. My name is Ahmed Tani, and I have the great pleasure to serve as the commissioner of the New York City Department of Buildings. I am joined today by Yagal Shamash, our first deputy commissioner, Gina Ugarte, deputy commissioner for finance, Guatino, our deputy commissioner for policy and legal affairs, and other incredible members of the department's leadership team behind me. We are pleased to be here to discuss the fiscal year 2027 preliminary budget as well as the department's performance and priority initiatives.
 
@@ -71,7 +71,7 @@ In fiscal year 2025, the last full fiscal year, approximately 275,000 constructi
 
 The wait time between a construction inspection request and an actual inspection, which occurs after a construction project is completed by a contractor, has remained at 4 days for construction inspection, has remained at about 9 days for an electrical inspection which is down from nearly 13 days from full fiscal year 2025, and has increased by about 2 to 6 days for a plumbing inspection. With respect to electrical inspections, it should be noted that there has been an increased demand for electrical inspections which could be attributed to the electrification projects that we are seeing come online. At the end of last year, the City Council passed a law sponsored by the chair, local law 42 of 2026, which would allow for electrical inspections to be self-certified, which is allowed for other trades. These changes will help improve service levels as it relates to electrical inspections as the demand for inspection from the department will decrease. Overall, there will be an increased demand for development inspections and a reduction in the use of overtime to support such inspections. The department reduced its overtime spending by 5.6 million since
 
-(00:38:40) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=2320s
+(00:38:40)
 
 Fiscal year 2026, which is a 60% reduction. We will continue to identify ways to not only support but also streamline development projects. We are investing in our most important resource, our people. We are working on establishing a plan examination training academy for the first time with a comprehensive curriculum and ongoing training on changes to the vast regulatory landscape we are charged with enforcing, which will be similar to our existing inspector training academy. We are also looking to technology to help support these ideas. We continue to partner with the Partnership Fund for New York City on their buildings tech lab, a public-private initiative to find, evaluate and test innovative technology solutions that will support our work, including to make plan reviews, permitting and inspections more efficient. We will soon be starting a pilot program with five companies which will come at no cost to the department, and are in the process of identifying additional companies to work with in the near future. The department is appreciative of the partnership support with this effort and looks forward to working with the companies that have been selected to incorporate innovative technologies into our work with the goal of working more efficiently. Finally, we are working closely with the mayor's office and our partner agencies on an inter-agency task force, streamlining procedures to expedite equitable development speed to accelerate affordable housing production.
 
@@ -147,7 +147,7 @@ Thank you. According to the mayor's Preliminary Mayor's Management Report, the d
 
 So the increase in stop work orders can be a result of a number of things, but what we are looking at is we are responding to additional complaints and we are doing more proactive inspections. A stop work order can be something that is a short time period where we are working with the owner to make the correction on site, or it could extend for a longer period of time. At this point, as I mentioned earlier, construction injuries are down. We are
 
-(01:01:26) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=3686s
+(01:01:26)
 
 Seeing safer sites, and given that we are several years into our site safety training programs where construction workers have at minimum 40 hours of safety training, we do believe that overall our sites are safer. We are just taking more steps to make sure that as conditions laid out and plans exist, they also reflect what is happening on construction sites.
 
@@ -259,7 +259,7 @@ great. Thank you so much for being here. As a Manhattan council member, I have t
 
 We expect the rules to be out this summer, but we have already started doing the work. We already have the 90-day shed permit rule provision in place at DOB now. So going from a year to 90 days, we are already doing the education with the industry and we are hard at work on all the work streams. So the enforcement piece — we are working through the recommendations on the design piece, so making sure the new shed designs are available for the public as part of...
 
-(01:24:53) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=5093s
+(01:24:53)
 
 those rules. And then last but not least, we are working on the Thorn and Thomasi recommendations which will also make it more flexible but still maintain safety for property owners moving from five to six years and then going from, for new buildings under 40 years old with a safe report already under its belt, moving from one cycle to 12 years, which will also include visual inspections in between. And then last but not least, the radius of sheds will now be reduced to 40 feet, which will increase mobility and access to open space while still maintaining safety.
 
@@ -359,7 +359,7 @@ On the first part, the Office of the Tenant Advocate is a key part of that work,
 
 >> Thank you. And I am going to ask about the sidewalk sheds as well. The $2 million baseline for 23 positions to implement sidewalk shed local laws assumes the positions are revenue-generated. What is the projected penalty revenue from these new positions?
 
-(03:07:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=11243s
+(03:07:23)
 
 So again, just to make sure I am speaking to two different pots of money. So there is the money that was allocated by the state and that money is going to remain with HCR. So it is allocated directly by them into projects, many of which we are co-funding with them in New York City. I think their total allocation breaks out to a number of different categories, but it is for new construction, Mitchell Lama preservation and then I think it is 250 million that they are passing through to NYCHA projects. And then there are other categories which Guardia can sort of break down into smaller numbers.
 
@@ -551,7 +551,7 @@ I would love to see more HDFCs. Chair Sanchez, that is something we should look 
 
 >> So first I want to acknowledge, Council Member, we saw the presentation that John Krauss did about the lawsuits and whether they are showing a disparity in terms of how many lawsuits...
 
-(03:29:32) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=12572s
+(03:29:32)
 
 are being filed in affordable housing versus market rate housing. We just saw it but we are digging into that conversation.
 
@@ -669,7 +669,7 @@ Thank you. And so any increase in the number of vouchers, if we were able to see
 
 That would be an excellent problem. Would it not? Go ahead. No, I was just going to say, now that the program is functioning, I think having more...
 
-(04:12:49) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=15169s
+(04:12:49)
 
 A couple of weeks ago, maybe days ago — what is time. A recent analysis from Gothamist found that nearly 10% of roughly 1,600 residential buildings that have opened since 2016 have at least one housing code violation per apartment. That set of properties averages 2.1 violations per unit compared to 0.8 average per unit citywide. Each building in the analysis received a property tax abatement through the state's 421A program. A lot of these are considered luxury apartments or luxury buildings. What corners are being cut in the new construction that we are seeing? Is it materials? Is it labor? What is happening to lead to this low quality of new buildings?
 
@@ -783,15 +783,15 @@ Bedford Stuyvesant has been designated the first horizontal NORC — naturally o
 
 Navigating New York's very complex housing laws and regulatory systems can be especially challenging for a senior homeowner who most often is unfamiliar with the requirements and understandably intimidated by the process. Many seniors face mobility issues and other age-related challenges that make it very difficult for them to manage routine property responsibilities such as collecting rent, tenant screening, maintenance coordination, responding to tenant inquiries and complaints, preparing lease agreements,
 
-(04:41:00) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=16860s
+(04:41:00)
 
 and advertising vacancies. By strengthening the capacity of both homeowners and community based organizations, this pilot property management program will help to prevent housing instability, protect small homeowners' assets, and promote responsible property management. Thank you.
 
-(04:41:16) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=16876s
+(04:41:16)
 
 >> Thank you.
 
-(04:41:21) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=16881s
+(04:41:21)
 
 Good afternoon, Chair Sanchez and others. My name is Angela Cummings. I am the executive director of Neighborhood Housing Services of Brooklyn. In the landscape of New York City's housing crisis, small residential units are frequently overlooked, yet they are indispensable. In Brooklyn, these properties form the architectural and social fabric of neighborhoods, providing a significant portion of the borough's unsubsidized affordable housing. These buildings are not owned by corporations. They are owned by families. Many of these families have held their properties for generations. Many are low to moderate income individuals who rely on rental income not to build empires, but to maintain stability, pay taxes, and preserve their homes that anchor their communities.
 
@@ -799,15 +799,15 @@ And yet, these small property owners are often left to navigate a complex and un
 
 This property management program helped a single mother and landlord in Brooklyn learn how to manage her property's finances. She was enrolled in a program where she learned how to make small repairs around the house, which helped to save her money. Through this program, she became eligible to receive a grant to hire a contractor to completely repair her bathroom, which had been an ongoing problem for her family. Our organization would like to affirm that small homes matter, that small landlords matter, that families who have kept Brooklyn's neighborhoods vibrant for generations deserve support, not neglect. Programs like NHS Brooklyn's Affordable Property Management Initiative and NHS NYC's Affordable Property Management Initiative are essential tools in the fight for housing stability, racial equity, and community preservation.
 
-(04:43:24) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17004s
+(04:43:24)
 
 >> You may conclude. >> You have concluded. All right. Extra points.
 
-(04:43:29) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17009s
+(04:43:29)
 
 >> Thank you.
 
-(04:43:30) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17010s
+(04:43:30)
 
 >> Thank you. Good afternoon, Chair Sanchez and members of the committee. Thank you for the opportunity to testify. My name is Joseline Heno Estrea and I am the executive director of Neighborhood Housing Services of Queens. For the past 30 years, we have been on the front line working with both low-income homeowners and tenants to keep residents stably housed. But I want to be clear: supporting tenants and supporting homeowners are not mutually exclusive. They are deeply connected. When we stabilize homeowners, we preserve affordable housing. When we support tenants, we prevent displacement. This is one ecosystem.
 
@@ -815,93 +815,93 @@ Today, we are asking for a one million dollar investment in a citywide pilot pro
 
 But this program alone cannot be a standalone program. We urge the Council as well to fully commit to a continuum of housing stability, including providing funds for foreclosure prevention to keep families in their homes, estate planning for protecting generational wealth and resolving title issues, as well as continuing to provide support for emergency repair programs to address urgent conditions before they become a crisis. At NHS, we see every day how unresolved issues such as repair barriers can lead to a spiral of displacement, but with the right support at the right time, the outcome is preventable. The reality is simple. When we lose homeowners, we lose affordable housing. When we fail tenants, we accelerate displacement. Invest in the property management pilot, foreclosure prevention, estate planning and emergency repairs, because keeping New Yorkers in their homes is not just good policy. It is our responsibility.
 
-(04:46:18) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17178s
+(04:46:18)
 
 >> Thank you. You have all testified. Yes. >> Thank you. Okay. What are the eligibility criteria you propose for this pilot?
 
-(04:46:29) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17189s
+(04:46:29)
 
 >> So this is a free service. I am kidding. Okay.
 
-(04:46:34) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17194s
+(04:46:34)
 
 >> So the eligibility is simple. It is one to four units and we do provide a full home assessment and a commitment from the homeowner to work with NHS. It could range from simply maintenance services or a full-blown property management program where we help safeguard the home. And especially for seniors dealing with tenants, collecting rent, maintaining their expenses as it pertains to taxes and insurance, and just monitoring it on a regular basis.
 
-(04:47:14) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17234s
+(04:47:14)
 
 >> Got it. I mean there are just hundreds of thousands of potential owners who might fall into this category. So how do you propose to limit it, or is it just first come, first served?
 
-(04:47:27) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17247s
+(04:47:27)
 
 >> It is low to moderate income.
 
-(04:47:29) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17249s
+(04:47:29)
 
 >> Low to moderate. Okay.
 
-(04:47:30) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17250s
+(04:47:30)
 
 >> Yes.
 
-(04:47:30) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17250s
+(04:47:30)
 
 >> Got it.
 
-(04:47:33) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17253s
+(04:47:33)
 
 >> Yeah, I am wondering about this program with extra emphasis on seniors. I just want to...
 
-(04:47:39) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17259s
+(04:47:39)
 
 >> Seniors. Okay. Low to moderate income seniors.
 
-(04:47:42) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17262s
+(04:47:42)
 
 >> Yes.
 
-(04:47:42) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17262s
+(04:47:42)
 
 >> Okay.
 
-(04:47:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17263s
+(04:47:43)
 
 >> Yeah.
 
-(04:47:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17263s
+(04:47:43)
 
 >> Not just one, but both.
 
-(04:47:45) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17265s
+(04:47:45)
 
 >> Low to moderate income and seniors.
 
-(04:47:47) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17267s
+(04:47:47)
 
 >> And seniors. Okay. What was I going to ask? It has been a great couple of hours, right? Well, with respect to the population you serve, is this an existing program in any of the NHS centers?
 
-(04:48:08) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17288s
+(04:48:08)
 
 >> Yes. I have been with NHS for about two years and I am coming from NHS Brooklyn, which is here. We started the program. Property management is not new. But we have noticed, being on the ground, that many smaller homeowners are in trouble and they need more assistance in dealing with regular regulations, collection of rent, and not really knowing their landlord obligations. So it is a program that is educational and it is also one where we could actually teach someone how to look at their home as a business.
 
-(04:48:51) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17331s
+(04:48:51)
 
 >> And in Brooklyn it has been successful.
 
-(04:48:56) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17336s
+(04:48:56)
 
 >> Great. Yeah. If you can share with the committee just how the program as it exists has worked, how many you have served, and what kind of projects you have helped them with — the case study from Queens was very helpful. I am wondering... I am a client of NHS Bronx. I do not know if you know that — that is where I got my first homeowner education and then went and applied for my mortgage and everything with my husband when we were newlyweds. So I have a special place in my heart for NHS.
 
 One of the programs that NHS Bronx runs — and a question is whether you all run it — is the green energy hub program. I would love information about how that is working, just because related to this problem of property management is finding a contractor, which is so difficult. Finding responsible contractors, finding licensed contractors is just a nightmare. So as you work on green energy hub projects, I am wondering about your experience and the lessons you have, because that is one of the areas that I certainly want to grow in this committee — conversations about how do we help all one to four family homeowners. What resource banks can we create? How much more do we need to be asking HPD to pump into home repair programs and everything else, because it just feels impossible. And even as the chair of Housing and Buildings in the Council, I feel like it is impossible. So thank you for coming to testify about this program and welcome your ideas for all of us who need help as one to four family homeowners.
 
-(04:50:33) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17433s
+(04:50:33)
 
 >> Thank you. Thank you for this opportunity.
 
-(04:50:34) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17434s
+(04:50:34)
 
 >> Thank you. The next panel is going to be Trisha Lendor, Yaniv Kot, Elise Brown, Rosalyn Black, and Sophia Fen. Whoever is ready can begin when ready.
 
-(04:51:30) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17490s
+(04:51:30)
 
 >> Thank you, Chair Sanchez and the committee, for the opportunity to speak. My name is Sophia Fen and I am a housing attorney for the New York Legal Assistance Group, specifically within our Public Housing Justice Project, and I am one of the only attorneys in this city funded to represent NYCHA tenants in standalone HP actions. I want to focus my testimony today on small changes that would make a large difference for NYCHA's tenants.
 
@@ -909,11 +909,11 @@ To start, HPD inspections need to be reformed to be as accessible as possible to
 
 There is a universe of rampant repairs and conditions that are not reflected in HPD data because of the barriers to inspections that only NYCHA's tenants face. Mismanagement plagues NYCHA's repair departments. Repair tickets are ignored or closed without any action being taken to address them. NYCHA's maintenance schedules access dates only to skip them, or shows up with no notice when tenants are unlikely to be home. There is seemingly no centralized project management or oversight for repair work. I want to stress that much more could be done with the resources that NYCHA does have. I also want to stress how little accountability there seems to be when NYCHA fails at its legal and moral obligations to its tenants. Thank you.
 
-(04:53:44) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17624s
+(04:53:44)
 
 >> Thank you.
 
-(04:53:48) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17628s
+(04:53:48)
 
 >> Good afternoon everyone. Hello. Thank you, Chair Sanchez and all the members of the committee, for the opportunity to testify before you today. My name is Trisha Lendor and I am the director of the Preserving Affordable Housing Program at Brooklyn Legal Services Corporation A, doing business as Buildup Justice NYC. We have two preserving affordable housing programs, one in Brooklyn and the other in Queens, using legal representation, brief advice and services, and legal education as well as advocacy to prevent evictions, combat tenant harassment and discrimination, and help organize tenants in buildings in Brooklyn and Queens.
 
@@ -923,11 +923,11 @@ One notable example of our work is with a group of tenants in Brooklyn — we wi
 
 The kinds of injustices that I previously spoke of are all too common, unfortunately, among our clients and across the city. Buildup Justice NYC would like to see the city as a partner with civil legal service providers in working to ensure all New Yorkers have the safe, stable, habitable housing that they deserve. Thank you again for the opportunity to testify.
 
-(04:56:54) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17814s
+(04:56:54)
 
 >> Thank you.
 
-(04:56:57) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17817s
+(04:56:57)
 
 >> Good afternoon, Chair Sanchez. Thank you for the opportunity to be here today. My name is Yaniv Kot. I am a staff attorney with the Legal Aid Society's Housing Justice Group Advocacy Unit. I first want to echo everything Ms. Lendor just said. I work under the same contract and agree with all of that. We work frequently with HPD and DOB towards shared goals of preserving affordable housing and preventing displacement and harassment. I want to acknowledge the new leadership there and say that we are very excited about renewed partnership on a lot of the issues that we are going to put in our written testimony. I just want to highlight a few of the most pressing issues for our clients.
 
@@ -935,19 +935,19 @@ The first issue is around vacate orders. We were really happy to see the mayor's
 
 Second, I want to touch on code enforcement. There is a troubling pattern of tenant complaints being closed without inspection, particularly when it comes to heat and hot water complaints. Just as a quick example, a building that I represent in Flatbush made 65-plus heat and hot water complaints during the most recent cold snap. Only one violation was placed on the building, and it was multiple tenants without heat and hot water — the whole building. We also want tenants to be able to use 311 to schedule and reschedule inspections. Can I finish?
 
-(04:59:01) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17941s
+(04:59:01)
 
 >> You may conclude.
 
-(04:59:02) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=17942s
+(04:59:02)
 
 >> Thank you. And be able to respond to landlord certification of repairs online and not just by mail. When people can only respond by mail, HPD is not hearing from tenants in the way that they should be. Third, we want to see HPD give more support to HDFC co-ops and Mitchell-Lama buildings that are financially stressed and need support. And lastly, we want to partner more with HPD and push for housing court reforms, specifically applying pressure to judges to prioritize decisions in urgent repair cases. Another quick example: in one of my cases, my clients have been waiting for over 100 days on a decision for an unopposed contempt and civil penalties motion in a building with over 150 open violations. So we would love to partner with HPD and DOB to see if we can push the housing court to prioritize those emergency cases. Thank you so much.
 
-(05:00:06) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=18006s
+(05:00:06)
 
 >> Thank you.
 
-(05:00:10) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=18010s
+(05:00:10)
 
 >> Good afternoon. I am Rosalyn Black, the citywide director of housing at Legal Services NYC. Thank you for allowing me to testify today. I am going to speak on behalf of a number of the right to counsel providers about the program, the payment issues that are hobbling our program, and the need to substantially increase funding so that all eligible tenants receive representation in their eviction proceedings. The right to counsel program created by this Council and funded by New York City is in its ninth year, successfully keeping at least 84% of those New York City tenants sued for evictions in their homes, saving the city millions in shelter costs, improving health outcomes for families and reducing eviction filings. While the work we do is highly successful, the contracting implementation and payment process is putting providers on the brink of financial collapse. Our agency is owed at least $26 million by the city and we have already spent $700,000 in interest to cover expenses while we await reimbursement. That is $700,000 unavailable to provide crucial services to low-income New Yorkers.
 
@@ -955,17 +955,17 @@ In addition, our current right to counsel contracts carry harsh financial penalt
 
 I conclude by saying that while we understand the city is in a difficult fiscal situation this year, the city is severely underfunding a successful and money-saving program. We ask that you continue to support the program and increase funding over the next three to five years until every eligible tenant receives representation. Thank you.
 
-(05:02:37) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=18157s
+(05:02:37)
 
 >> Hi, I am Elise Brown. I am the director of housing litigation at Mobilization for Justice. You will be happy to know that Rosalyn said a lot of what I was going to address, so I may get done early. I would just want to reiterate that eviction, I believe, is the largest cause of homelessness and our success in keeping our clients in their homes, their families in their neighborhoods and their children in their schools is a resounding success. It has also financially become extremely difficult because of the way the contracts are structured. For instance, we have a lot of legal tools from the state to defend our clients vigorously. We are lawyers. We litigate. We provide vigorous defenses for our clients. Sometimes our cases last longer than a year, but we are paid for one year for a client. We have cases from 2018 and 2019 that we are still actively litigating because it is our ethical responsibility to provide a defense and get the best result for our clients, but it comes at a huge financial cost for our organizations.
 
 So there are a lot of things that could be fixed in the contracts. That is one that particularly irks me. Previously we were allowed to roll a percentage of our cases from one year to the next. Now we are not allowed to do that and it is just killing us. I will end it with that. Thank you for being here and listening. We are certainly part and parcel of the whole city effort on all sides to try to enhance the conditions and circumstances of tenants and low-income homeowners as well. Thank you.
 
-(05:04:34) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=18274s
+(05:04:34)
 
 >> Thank you. Just a couple of follow-ups on the contracting issues. Your contract is with HPD, correct?
 
-(05:04:40) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=18280s
+(05:04:40)
 
 Office of Civil Justice, right? Yes. And these delays are, I imagine, multi-year. >> We are owed $40 million from fiscal year 25 still and the rest of the money is for this fiscal year. >> Collectively, all of the right to counsel. >> No, just Legal Services NYC alone. I know UJC is... I mean, I do not know if MJ... >> We are behind a few months but it was for a year or so we were carrying a few million dollars of... >> Sorry. How do we get to $40 million? >> It is astounding. Yeah. >> Right. Mayor... >> We are four, just to be clear, four from last year and 20. So I am owed for this year. >> Okay. Got it. So I have not been on the General Welfare Committee, so not as read in. Although... >> Yeah, there was a hearing this morning about contracting issues and delays. I have focused particularly on this. >> Yeah. Got it. Okay. Well, I am certainly a champion for right to counsel. I will continue to be, and these are, you know... for as bad as eviction rates are, they had been and will be exponentially worse without your work. So thank you for your commitment to low-income tenants. It really matters and it really helps our communities.
 
@@ -1019,47 +1019,47 @@ We are urging the Council to dedicate capital funding in the budget for 12,000 u
 
 >> Thank you. Thank you both from Coalition for the Homeless. I am going to say something controversial maybe, but I do not see...
 
-(05:27:31) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19651s
+(05:27:31)
 
 Why, as a city, we could not have a vision of having a right to shelter that means a right to a home and not the right to a bed in a shelter, right? I think, yeah, we it would probably cost a lot less for the City of New York to operate this way. Shelter is not anybody's first choice, right? You want your home, you want your privacy. And so I just encourage us as a city to have a different conversation about what it means to have a right to shelter, especially as we talk about interventions like expanding city FEPS, which this Council legislated and has not been able to come to a conclusion with the previous mayor or the current mayor.
 
-(05:28:10) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19690s
+(05:28:10)
 
 >> You are exactly correct, Chair Sanchez. And if I may just say that it is an expensive program and what we are asking for is a lot of money, but it is a lot of money that has a major impact on the city that we can likely see have years and years and years of positive impact, just by simply putting people into stable and permanent housing. This is not to say that our right to shelter and the shelter system is inappropriate. We absolutely need shelters, but we need housing also.
 
-(05:28:38) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19718s
+(05:28:38)
 
 >> Absolutely. Thank you. Thank you both.
 
-(05:28:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19723s
+(05:28:43)
 
 Hi there, my name is Graham Gail. I am an organizer with Food and Water Watch, which is a national environmental group. We are in coalition with New York Communities for Change, We Act, Triage, the Central Labor Council and the Steamfitters 638 local, to talk to you about this program that we are putting forth called Heat Pumps for All. We have already met with your office and shared some language, so I will just keep it short. It is a program to fund heat pumps for one and two family homeowners while lowering energy bills, reducing air pollution and creating good union jobs in the green energy market. We are asking for $10 million in the city budget as a starter program. We want to build the program year by year, so this small amount of money makes a huge difference.
 
 Just to highlight the difference that this program could make, I want to share a quick story. I have been out petitioning every week in my neighborhood and local neighborhoods. When I met Luis, who is a homeowner in Ridgewood, he shared with me that his gas bill last month was $767 and that his bill this month is over $500. When I told him about our plan, I could see him light up. I could see him picture a future where he could actually afford his energy bills and see a pathway towards a cleaner New York City. Heating our homes should not cost us so significantly, not only from our pockets, but also our health, our city and our planet. Thanks.
 
-(05:30:33) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19833s
+(05:30:33)
 
 >> Thank you. What would the $10 million be used for? Are you covering the cost for certain households?
 
-(05:30:39) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19839s
+(05:30:39)
 
 >> Yes. So the way that we are considering the program would work is to target a geographical area. So it would essentially be a universal program in that neighborhood. It would fund most of the replacement from oil and gas boilers to heat pumps. Heat pumps cost around between $15,000 to $20,000. So we would try to allocate $10,000 to 1,000 homeowners to make that switch. And as was mentioned earlier today, there are a lot of great city and state programs that help to bridge that remaining $10,000. So getting folks most of the way there. We are also attaching this to labor standards so that you are connected with a good contractor to do the work. So yeah, that is the basic idea of the program.
 
-(05:31:39) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19899s
+(05:31:39)
 
 >> Thank you for sharing the proposal here today. I just want to push my friends in advocacy to, in addition to creating programs that would help specific households, even just the question of the labor standards portion of it. It is extreme — as you may have heard me complaining about earlier — as a homeowner of a two family home, it is like impossible to find contractors who think it is worthwhile to work with me, right? With us, right? So even just creating a pool of reputable or trustworthy or willing contractors would go a long way. And of course it is a high price tag for the machines, but then just helping folks navigate through issues that come up, like the house cannot sustain that electrical load and so now there is a lot of electrical work and the house needs a new service line and whatever.
 
 So I am really interested in seeing from advocates suggestions about how we can, just like we are talking about local law 97 compliance, how we can have a local law version for the small homes, right? It is a substantial number of New York City buildings, to really help them, provide them technical assistance and knowhow and resources and everything else so that they can also electrify and become sustainable.
 
-(05:33:03) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=19983s
+(05:33:03)
 
 >> Yeah. Our idea with this program is to make it easy. We want it to be smooth, we want it to be easy. So it is not only that you get the money, but you also get a contractor who knows what they are doing, who is going to do a correct install and who is also there to do the assessment and assist every step of the way. So thank you.
 
-(05:33:27) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20007s
+(05:33:27)
 
 >> Thank you so much. I look forward to talking more about this too. Thank you.
 
-(05:33:32) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20012s
+(05:33:32)
 
 My name is Ustaceious Smith. I am from Westside Federation for Senior and Supportive Housing. Thank you, Chair Sanchez, and the entire committee for the opportunity to testify. We currently house 200 low-income older adults, many who are formerly homeless, across a portfolio of supportive housing and affordable senior housing. Older adults make up 20% of New York City's population. They are the fastest growing age group of people becoming homeless, rising 10% every year for the past 10 years. There were 520,000 seniors on wait lists for affordable senior housing at last count, most of whom were extremely low income. These facts together make it critical that New York City dramatically scale up development of new housing for older adults.
 
@@ -1067,39 +1067,39 @@ Instead, we are facing the fiscal cliff in the coming years that New York Housin
 
 We need preservation funding that would allow us to rehabilitate the entire building, converting it into studio apartments. We ask the city to support the supportive housing network's ask for $65.3 million to be included in FY27 for preservation of supportive housing. The operational costs in affordable senior housing are growing rapidly and revenue is shrinking, putting these buildings at risk. Just this year, we got a 35% increase on our insurance costs. We ask that the city fully fund and support the crisis agenda that New York Housing Conference talked about, that would help reduce operating costs and aid preservation efforts such as expanding the multifamily water assistance program. We have applied to that every single year and we have never received the credit because it runs out of money too soon. Thank you.
 
-(05:36:03) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20163s
+(05:36:03)
 
 Thank you for your testimony. Thank you to this panel. My staff told me I have to ask less questions. I am blaming you. Sorry. Okay, Brianna Stury, Malikica Kalsa, Sarah Newman, Frank Shentaro McMullen, Katie Muy from Shinny and Kevin Wolf. Whoever is ready can begin.
 
-(05:37:15) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20235s
+(05:37:15)
 
 Good afternoon. My name is Brianna Stury. I am a pro bono scholar at New York Lawyers for the Public Interest. This testimony is on behalf of NLPI's disability justice and environmental justice programs. Thank you to the chair and members of the committee for allowing me to testify today. NLPI's disability justice program assists New Yorkers with disabilities in matters involving housing discrimination, including requests for reasonable accommodations such as apartment and common area retrofitting, transfers to accessible apartments and protection for use of service animals. It is imperative that all New York City agencies ensure that housing is accessible and free of discrimination. Although the Federal Fair Housing Act was passed nearly 60 years ago and New York City and New York State's human rights laws have likewise long been in effect, countless people in New York City continue to face discrimination when it comes to their housing needs.
 
 Consistent and aggressive enforcement of anti-discrimination laws allows more people with disabilities to remain in their homes. Enforcement of accessibility requirements of New York City's building code should therefore also be a priority for the city. We urge the City Council to fund aggressive enforcement of the code by the Department of Buildings and the Department of Housing Preservation and Development. Such enforcement will ensure accessible spaces for New York City's disabled residents and senior citizens and allow them to continue to be part of their communities and live independently. We also urge New York City and the public advocate to investigate and track evictions of tenants with disabilities to enforce New York City's anti-discrimination laws in a systemic way and create new causes of action and penalties to aid in enforcement. Tracking evictions will enable New York City to identify and monitor housing providers who routinely evict tenants with disabilities. Treating this as a systemic issue will also help address the root causes of disability discrimination in housing. Because one of the most impactful ways anti-discrimination laws are enforced is through private action, we also advise adding a mechanism for enabling easy public access to records of discrimination patterns in addition to public oversight hearings and reports of general findings. May I continue?
 
-(05:39:21) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20361s
+(05:39:21)
 
 >> You may conclude.
 
-(05:39:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20362s
+(05:39:22)
 
 Building complaints and violations filed with the Department of Buildings are already available on the department's website through the building information search. Discrimination records must similarly be publicly available. NLPI's environmental justice team strives to ensure timely and proper oversight and implementation of the city's landmark building decarbonization law, local law 97. We urge this committee to ensure that local law 97 is fully implemented with the expert assistance from New York City agencies like the mayor's office of climate and environmental justice, which offers an accelerator program to all owners for free, the Department of Housing Preservation and Development and the Department of Buildings. A more detailed written testimony has already been submitted on NLPI's behalf. Thank you for your time and consideration.
 
-(05:40:06) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20406s
+(05:40:06)
 
 Thank you.
 
-(05:40:12) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20412s
+(05:40:12)
 
 >> Good afternoon. My name is Sarah Newman. I am the deputy executive director for the Open Hearts Initiative, an organization that builds solidarity between homeless and housed neighbors and communities throughout the city. I am here alongside colleagues from Coalition for the Homeless and appreciate the opportunity to testify today. I am here because we need more affordable housing for people who are homeless or extremely low income. I am here to say that is something that many housed New Yorkers support as well. New York City must prioritize investing capital in deeply affordable housing specifically for folks who are extremely low income or currently experiencing homelessness. I am asking the city to commit to creating 12,000 units of truly affordable housing each year for the next 5 years, for a total of 60,000 units.
 
 Our members work closely with neighbors experiencing homelessness and see how easily folks can become homeless and how hard it is for folks to get out of shelter and find housing. We know that homelessness is a housing problem. There are not enough available affordable units for extremely low-income folks. We saw that in the housing and vacancy survey a couple years ago, where less than 1% of the units renting for under $1,100 a month were available. The affordable housing that our city is creating is not meeting that need despite record levels of affordable housing production in recent years. Most of that housing created by the city excludes households who are homeless and extremely low income. The homelessness crisis will continue to grow unless the city corrects that misalignment between the greatest need for affordable housing and the priorities for affordable housing production. I urge the administration and this Council to right this wrong and to give homeless and extremely low-income New Yorkers more opportunities to get permanent affordable housing. Thank you.
 
-(05:41:54) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20514s
+(05:41:54)
 
 >> Thank you.
 
-(05:41:58) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20518s
+(05:41:58)
 
 >> Good afternoon, Chair Sanchez. My name is Kevin Wolf and I am here on behalf of the Center for New York City Neighborhoods. The center is one of the largest homeowner service organizations in New York City. And just to help explain the importance of our work protecting homeowners, I did want to share a story of a homeowner that we have served. Her name is Miss V. She was a first-time home buyer who purchased an affordable home in East New York, Brooklyn. She is a Black woman and an immigrant. Although she was a high income earner, she was denied access to a traditional mortgage and steered towards purchasing a home in East New York with a predatory loan. What was supposed to be a dream quickly became a nightmare. Her home was entangled in violations, lawsuits and bureaucracy and a prior illegal construction which put her at risk of losing the home. Miss V told us that the property had two deeds with technical issues and it rendered one of the deeds invalid, and due to an illegal conversion, she was unable to live in the home. Despite this, she had to continue paying legal fees, covering property violations, paying rent to live elsewhere and financing repairs, which led to her financial ruin. She was on the brink of homelessness when she came to the center for help.
 
@@ -1107,67 +1107,67 @@ Miss V's story highlights the challenges that many New Yorkers face in achieving
 
 I did also want to note that we commend the new administration, Mayor Mamdani, for addressing affordability with home ownership, including suspending the tax lien sale this year, which our research shows disproportionately affects Black and brown homeowners. At the same time, homeowners are facing increasing challenges: rising foreclosures — we saw foreclosures rise 8% — increased scams targeting vulnerable residents and homeowners who are unable to meet home repair needs. Programs that the City Council funds like Home Fix are critical to ensuring homeowners can safely remain in their homes. This is why we are requesting $9.7 million from the City Council to continue supporting foreclosure prevention, home repair, outreach and estate planning services. These investments will strengthen the existing programs that homeowners have and bring support to the communities that need it most. With the Council's support, we can protect homeowners, preserve generational wealth and ensure that New York City remains a place working families can stay and thrive. Thank you for your time.
 
-(05:45:19) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20719s
+(05:45:19)
 
 >> Thank you, Kevin. Thank you for your testimony. Your reaction to the number of people we have been able to reach through down payment assistance and Home Fix — I think the numbers were 142 and 50 something.
 
-(05:45:32) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20732s
+(05:45:32)
 
 With both HomeFix and Home First, we definitely need to do more in making sure that the programs are built at scale to the need. There is a huge need for both HomeFix and Home First. We see with HomeFix, 4,000 homeowners apply every year and we are only able to help around 100 homeowners every year. We need to increase the scale. Without the Council's resources, we would not have been able to do as much as we have done with home repair thus far. The Council has stepped up to the plate. We also want to make sure that we have the partnership with the new administration, which we are excited about, in order to provide those services. We do want to scale our down payment assistance as well so that more New Yorkers can access home ownership.
 
-(05:46:28) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20788s
+(05:46:28)
 
 >> Thank you. The down payment assistance is a grant, correct?
 
-(05:46:30) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20790s
+(05:46:30)
 
 >> Yes, that is right.
 
-(05:46:31) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20791s
+(05:46:31)
 
 >> And you said 4,000 applied for which program?
 
-(05:46:34) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20794s
+(05:46:34)
 
 >> This is for HomeFix.
 
-(05:46:35) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20795s
+(05:46:35)
 
 >> For HomeFix. And that is income restricted, right? It is sort of a sliding scale, so it is a zero interest...
 
-(05:46:47) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20807s
+(05:46:47)
 
 Low interest to zero interest forgivable loan.
 
-(05:46:51) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20811s
+(05:46:51)
 
 >> Who gets forgiven?
 
-(05:46:52) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20812s
+(05:46:52)
 
 >> I would have to get back to you on the exact statistic, but it is for those homeowners who are low income, very low income. They would have their loan forgiven, and they would have to remain in their home for a certain period of time. It would be forgiven incrementally year by year.
 
-(05:47:12) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20832s
+(05:47:12)
 
 >> Excellent. Thank you so much for your testimony.
 
-(05:47:13) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20833s
+(05:47:13)
 
 >> Thank you.
 
-(05:47:18) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20838s
+(05:47:18)
 
 >> Good afternoon — good evening — Chair, Council members.
 
-(05:47:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20842s
+(05:47:22)
 
 >> We live here now.
 
-(05:47:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20843s
+(05:47:23)
 
 >> Sorry.
 
-(05:47:24) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20844s
+(05:47:24)
 
 >> Of course. My name is Frank Mullen and I am the communications manager at Live On New York. Our membership includes more than 110 community-based nonprofits that provide core services under the NYC aging portfolio and many other home and community based services in our city. I have submitted our housing needs report alongside this testimony for your review. Thank you for this opportunity to testify.
 
@@ -1177,39 +1177,39 @@ The funding we need to confront this crisis is minuscule. It is nothing in compa
 
 Our recommendations are threefold. One is to develop at minimum a thousand SARA units per year, as we are calling for in the Age Strong New York campaign, with priority given to one-bedroom units without sacrificing unit counts. Two is to commit $250 million to fully fund the Senior Citizen Rent Increase Exemption, or SCRIE. Currently it is funded to 47% utilization. A rent freeze may provide temporary relief, but once that rent freeze inevitably ends, older New Yorkers will be unable to meet their rents and risk homelessness again unless SCRIE is fully funded. And third, we want to ask the city to commit $200 million to HUD 202 residence repairs across New York City. There is not currently funding to repair HUD 202 buildings and they are falling into disrepair and are at risk of condemnation. It is essential that we make sure those buildings get repaired. Thank you for the opportunity to testify.
 
-(05:49:47) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20987s
+(05:49:47)
 
 >> Thank you. For the SCRIE advocacy, the $250 million — can you help me understand how this works? Where would this funding flow through?
 
-(05:49:59) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=20999s
+(05:49:59)
 
 The funding comes through the city. There is a state bill to expand SCRIE, but currently it is funded by the city and right now at current funding levels it is funded to 47% utilization.
 
-(05:50:11) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21011s
+(05:50:11)
 
 >> 47%?
 
-(05:50:12) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21012s
+(05:50:12)
 
 >> 47%. Yes, that is correct.
 
-(05:50:13) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21013s
+(05:50:13)
 
 >> So does that mean that not all eligible households who are submitting an application are being approved?
 
-(05:50:20) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21020s
+(05:50:20)
 
 >> Yes, that is correct.
 
-(05:50:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21022s
+(05:50:22)
 
 >> Good to know. Okay. Thank you.
 
-(05:50:24) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21024s
+(05:50:24)
 
 >> Of course. Thank you.
 
-(05:50:27) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21027s
+(05:50:27)
 
 Good afternoon, Chair and members of the committee. I am Katie Muy, the policy and programs manager at the Network, a membership organization representing over 200 nonprofits that develop and operate supportive housing across the state. As you know, supportive housing is one of the most effective tools to end homelessness and strengthen communities. However, the model faces mounting challenges as ongoing federal uncertainty, rising costs, and workforce challenges place increasing pressure on our providers.
 
@@ -1219,11 +1219,11 @@ On the services side, the units that we have identified are currently operating 
 
 The $44 million in capital funding will support the preservation needs of at least 325 units that are 15 years or older to complete necessary renovations, meet energy efficiency standards, and offset rising maintenance and operating costs. This will also support the conversion of outdated SROs without private bathrooms or kitchenettes into modernized studios that are more functional and desirable for formerly homeless tenants, many of whom are older adults. A speaker on our previous panel highlighted a program facing such challenges. If the state does not address the significant preservation needs, we will have to contend with the reality of programs closing, residences shutting down, and tenants losing their home. Proactive investment in preservation is crucial to the stability of nonprofits and formerly homeless New Yorkers. Thank you for your time.
 
-(05:53:18) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21198s
+(05:53:18)
 
 >> Thank you. Thank you to this panel. We are now moving to our last in-person panel. If you have inadvertently been left off the list after this, please see one of our sergeants: Melanie Reyes, Emily Klein, Vanessa Leang, Pamela Herrera and Greg Roberts. Whoever is ready can begin.
 
-(05:54:28) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21268s
+(05:54:28)
 
 Hi, good evening. Thank you, Chair Sanchez and members of the Council for the opportunity to speak today. My name is Emily Klene and I am the assistant vice president and deputy director of public affairs at the Community Preservation Corporation. As the city works to determine its budget for the next year, we urge prioritizing the increasingly tenuous financial and physical conditions of the city's rent stabilized housing stock.
 
@@ -1233,11 +1233,11 @@ We urgently need to address runaway operating costs that are eroding the financi
 
 Lastly, we encourage the city to work with public agencies and service providers to establish reasonable and reliable cost increases for water, sewer and utility costs, and when needed, to step in to offer relief for the most severely distressed buildings. In addition, our written testimony goes through a number of reforms for existing government systems and administrative programs, including capital subsidy allocations, housing voucher administration and marketing and lease-up. Thank you for the opportunity to testify today. Happy to answer any questions.
 
-(05:57:17) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21437s
+(05:57:17)
 
 >> There is a lot of text. I am reading it.
 
-(05:57:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21443s
+(05:57:23)
 
 >> Good afternoon, Committee Chair Sanchez and members of the housing and buildings committee. Thank you for the opportunity to testify. My name is Pamela Herrera and I am the land justice coordinator at Western Queens Community Land Trust. Since 2022, our organization has received City Council discretionary funding through the citywide CLT initiative. With the support of this funding, our team has grown to include a full-time staffer and a new part-time project manager. We have been engaging with tenants across Queens regarding the need for deep affordability and the role of community land trusts in addressing the housing crisis.
 
@@ -1245,19 +1245,19 @@ Our organization is currently applying for this funding for the first time witho
 
 We urge the City Council to fund the CLT initiative at $3 million for 23 organizations in the FY27 expense budget, up from $1.5 million for 15 groups in FY26. This urgently needed funding will provide essential support not only to CLTs, but will allow us to address the affordability crisis in New York. A recent report by the London School of Economics and Political Science stated that low-wage workers have seen their income stagnant. May I continue?
 
-(05:59:28) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21568s
+(05:59:28)
 
 >> You may conclude.
 
-(05:59:29) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21569s
+(05:59:29)
 
 >> Thank you. Low-wage workers have seen their income stagnant in addition to an overall increase in work precarity. While the city is addressing this supposed housing shortage, the shortcoming is in addressing affordability. By giving CLTs an opportunity to be on the same playing field as big real estate, we can create housing that not only supports New Yorkers, but we can preserve land and communities for generations to come. Thank you for your time and consideration.
 
-(05:59:58) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21598s
+(05:59:58)
 
 >> Thank you.
 
-(06:00:04) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21604s
+(06:00:04)
 
 >> All right. Good afternoon, Chair and committee. My name is Vanessa Leong. I am a homeowner in Long Island City, Queens and a steering committee member of the Western Queens Community Land Trust. I am here with two requests. Please fund the community land trust initiative at $3 million in the fiscal year 27 budget, which is an increase from last year. And two, create a $50 million community land trust capital fund. This is a game-changer that the mayor committed to during his campaign.
 
@@ -1267,15 +1267,15 @@ That is why the Western Queens CLT wants to transform a large city-owned buildin
 
 So please fund the CLT initiative and address delays in our funding. Our CLT has gone three years without receiving the $300K in allocated funds. We need your help to invest in the neighborhoods that make New York New York. Thank you.
 
-(06:02:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21743s
+(06:02:23)
 
 >> Thank you. And bonus points for time.
 
-(06:02:26) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21746s
+(06:02:26)
 
 >> I tried.
 
-(06:02:29) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21749s
+(06:02:29)
 
 >> Good evening, Committee Chair Sanchez and committee. My name is Melanie Reyes and I am the housing organizer at Nos Quedamos in the Bronx. We are also members of the NYC Community Land Initiative. Our organization has received City Council discretionary funding through the citywide community land trust initiative, which has helped catalyze the growth of more than 20 CLTs across the five boroughs in low-income and Black and Brown communities. We urge the City Council to fund the CLT initiative at $3 million for 23 organizations in the fiscal year 27 expense budget, up from $1.5 million for 15 groups last year.
 
@@ -1283,11 +1283,11 @@ Nos Quedamos has an innovative model of community ownership rooted in decades of
 
 Affordable housing preservation is a major priority at Nos Quedamos. Enhanced CLT funding in the city's expense and capital budgets will strengthen these essential grassroots institutions. For decades, the South Bronx has demonstrated that community-led planning can reverse disinvestment and restore stability. Our CLT model can ensure that the next era of development in the South Bronx is rooted in affordable housing preservation, equity and community control. Thank you for the opportunity to testify today.
 
-(06:04:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21863s
+(06:04:23)
 
 >> Thank you. Bronx in the house.
 
-(06:04:25) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=21865s
+(06:04:25)
 
 >> Hi, good afternoon. My name is Greg Roberts on behalf of all of us at SKF Development. We are a fully integrated residential owner and property manager. We currently own and operate 2,300 units across 32 properties in the Bronx. All of our projects include affordable units and we are proud to work extensively with HPD and other city agencies to accept tenants with vouchers who are exiting the city's homeless system. We regularly work with HPD through its inclusionary housing programs and are now seeking to redevelop our first 100% affordable housing project with the department. We are here testifying to urge that the final budget include new funds to allow HPD to carry out its mission of affordable housing preservation and would like to bring to your attention an outrageous delay that is currently destroying our business and will ultimately impact low-income renters of two of our properties.
 
@@ -1295,19 +1295,19 @@ Affordable housing preservation is a major priority at Nos Quedamos. Enhanced CL
 
 Despite every plea we made to the department, they continue to say that they are understaffed and are only prioritizing buildings that are in poor fiscal condition. Should we let our buildings fall into disrepair so that we do not lose them to foreclosure? Should we hand the keys over to the bank? We pride ourselves on being diligent developers and property managers and it breaks our hearts to be treated this way. To conclude, as this committee works with the administration to set HPD's budget, we urge its attention to building owners who are trying to do the right thing but are locked out of the city's tools due to capacity constraints.
 
-(06:06:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22003s
+(06:06:43)
 
 >> Thank you. Thank you for your testimony. Thank you all for your testimony and for staying with me until 5:30. Appreciate you. >> Oh, there are more in person. Jackie, where are you? Jackie Dev and Jesus. And again, if you are here in person and you wanted to testify, please see one of the sergeants and then we are going to be moving to online testimony.
 
-(06:07:12) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22032s
+(06:07:12)
 
 >> Bringing them here is cheaper childcare, so do not tempt me.
 
-(06:07:25) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22045s
+(06:07:25)
 
 >> It is okay. Save the best for last.
 
-(06:07:27) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22047s
+(06:07:27)
 
 >> Sorry. No thanks. Good afternoon, good evening. I guess I should say thank you for having us. My name is Pil Jesus. I am a senior advocacy coordinator at True Justice. I am here with my colleague Jackie. So I am going to let her do a lot of the technical and I am going to submit a lot of my specifics and technical online.
 
@@ -1321,27 +1321,27 @@ And then really quickly on the jobs — I only know this because a friend of min
 
 I did have one more point but I cannot remember, so I will leave it to Jackie. But you know, thank you. I have been doing this work for over 10 years and yes, there have been some amazing wins, but it just feels like Groundhog Day. I would also really like to see the district attorney's office and all the boroughs start working closely with these agencies because I think what the landlords are doing is criminal. And I do think, you know, if we can arrest people for jumping the turnstile for $3, I do not see why we are allowing landlords to have millions of dollars in fines owed to the city. Maybe we should consider that the money they owe should be given back to the tenants. >> Thank you.
 
-(06:12:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22342s
+(06:12:22)
 
 >> Thank you.
 
-(06:12:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22343s
+(06:12:23)
 
 >> Thank you. What was the address your
 
-(06:12:25) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22345s
+(06:12:25)
 
 mother translated for?
 
-(06:12:25) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22345s
+(06:12:25)
 
 >> Oh, yes. 245 East 110th Street. And yes, the building... because of the MTA doing the work, the shaking — it is constantly shaking — the tenants are living in anxiety. The landlord was ordered in our court agreement to file the permits and do the work and here we are as of March 2026 and nothing yet.
 
-(06:12:50) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22370s
+(06:12:50)
 
 >> Thank you. Thank you.
 
-(06:12:53) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22373s
+(06:12:53)
 
 >> Thank you so much for waiting. My name is Jackie Davay and I am the coordinator of Stabilizing NYC at Take Root Justice. We are requesting on behalf of the coalitions that we are a part of: $5.3 million for Stabilizing NYC, which funds Take Root to do legal work and 19 other organizations to do the kind of organizing that the new leadership in HPD is really supportive of; $3 million for community land trusts; and $4.9 million for the community housing preservation strategies initiative.
 
@@ -1351,59 +1351,59 @@ What we recommend is that groups receive an advance of at least 50% of their con
 
 Further, to conclude, I would like to highlight one more number. Thanks to the Make Them Pay campaign, which we are part of, it has been determined that New York City is owed at least $1.5 billion in unpaid penalties from large corporations and bad actor landlords. Much of it is tied to housing and building violations that impact tenant safety and quality of life. So thank you, CM Sanchez, for your leadership and all the members who gave their time, and to our great financial analysts and committee counsel for your time. It has been a really long day.
 
-(06:15:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22523s
+(06:15:23)
 
 >> Thank you. I cannot understand these payment delays, but thank you for highlighting them again and again. Let us know how and when and whatever you know about how we should push further and I will task us with the same. Thank you.
 
-(06:15:39) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22539s
+(06:15:39)
 
 >> Can I make one more point just really fast? HPD should do grants for people who need money for arrears because right now it is only a one-shot deal and that is a loan. If you are a middle-class person and you make a little bit too much, there are not really many options for you to get large amounts of money for arrears. Right now the one-shot deal is really the main thing for most people but that does not always help everybody, especially if you are undocumented. So maybe if there are ways for HPD to give out housing grants. Thank you.
 
-(06:16:09) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22569s
+(06:16:09)
 
 >> We are going to have to print more money. Okay. Thank you so much for your testimony. We are going to move to online. We will now turn to remote testimony. Once your name is called, a member of our staff will unmute you and the sergeant-at-arms will give you the go-ahead to begin. Please wait for the sergeant to announce that you may begin before delivering your testimony. Jonathan Gaffney,
 
-(06:16:38) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22598s
+(06:16:38)
 
 >> you may begin.
 
-(06:16:55) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22615s
+(06:16:55)
 
 >> Tamika Mapp.
 
-(06:16:58) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22618s
+(06:16:58)
 
 >> You may begin.
 
-(06:17:00) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22620s
+(06:17:00)
 
 >> Oh, hi everybody. Thank you so much.
 
-(06:17:03) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22623s
+(06:17:03)
 
 >> Hello.
 
-(06:17:05) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22625s
+(06:17:05)
 
 >> Hi. >> Wait. Hello. Did you guys
 
-(06:17:09) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22629s
+(06:17:09)
 
 >> It is everybody. Hold on. Hold on one second. Okay, guys. One second. Council member, who was the first person that you called?
 
-(06:17:19) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22639s
+(06:17:19)
 
 >> Jonathan Gaffney.
 
-(06:17:21) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22641s
+(06:17:21)
 
 >> Okay, Jonathan Gaffney is here. I am just going to unmute him. Tamika, you can go next because he just responded late. Sometimes the Zoom is a little delayed. Okay.
 
-(06:17:33) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22653s
+(06:17:33)
 
 >> You may begin.
 
-(06:17:36) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22656s
+(06:17:36)
 
 >> Thank you so much. Sorry about the technical difficulties. My name is Jonathan Gaffney. I am the supervisor of the tenant organizing program at Catholic Migration Services. CMS provides free legal services and community education to low-income New Yorkers in immigration, workers' rights and housing. It is our mission to welcome the stranger in our midst by advancing dignity, stability and justice for immigrant and working-class communities. I am here today to speak in strong support of increased funding for Stabilizing NYC and community housing preservation strategies. These programs fund a model that works: deep collaboration between legal services and tenant organizing at CMS. Our attorneys work side by side defending tenants in housing court while also building tenant associations, developing leadership and organizing collective action to preserve affordable housing.
 
@@ -1411,47 +1411,47 @@ Through the Stabilizing NYC and CHPS funding, our team has been able to carry ou
 
 Stabilizing NYC helps us do this amazing work. Something that happened at our tenant association meeting last week was that somebody was going hungry in their home and because of the organizing that I was able to do, that person was able to get fed through collective action. So we strongly support allocating $5.7 million to Stabilizing NYC and allocating $5.37 million to the community housing preservation initiative. These increases are necessary to sustain and expand the work that is already proving effective in stabilizing tenants and preserving affordable housing. Thank you so much for your time and thank you for allowing me to go over.
 
-(06:20:36) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22836s
+(06:20:36)
 
 >> Thank you, Jonathan. Thank you for joining us and for your advocacy. Tamika Mapp,
 
-(06:20:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22843s
+(06:20:43)
 
 >> you may begin.
 
-(06:20:46) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22846s
+(06:20:46)
 
 >> All right. So hi. Thank you so much. Chair, my name is Tamika Mapp and I am a proud co-op owner in East Harlem and a district leader for the 68th Assembly District. I am here today in support of Resolution 009-2026 because our co-ops and affordable homeowners are in crisis and we cannot ignore it any longer. Let me be clear: these buildings are not being neglected by residents. They are being strained by a system that has not provided the resources to keep them stable. One of the biggest drivers of this crisis is expiring tax abatements. For years, these abatements have kept maintenance costs stable for working-class homeowners. But now, as they expire, we are seeing sharp increases in monthly maintenance, buildings unable to fund critical repairs, seniors having to decide between their health or a place to stay and families being pushed closer to displacement.
 
 In East Harlem, these are not investors. These are families, seniors on fixed incomes and first-generation homeowners who were finally given a pathway to stability. Now that stability is being taken away. I support this resolution but it must go further. We must recognize that the co-ops belong to homeowners, not developers. We need fair property tax abatements, extended and reformed taxes, real funding for repairs and consistent support from HPD. Because without intervention, we will just keep losing buildings. We are losing one of the pathways to affordable homeownership in communities like mine. So I ask you today: stand with our residents, protect our homes and act with urgency because East Harlem families cannot wait any longer. Thank you for your time.
 
-(06:22:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22942s
+(06:22:22)
 
 >> Thank you so much. Just highlighting that the Council has no control over DFTA and so I just encourage you to also advocate at the state level. Thank you. I would now like to call James Dill.
 
-(06:22:36) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22956s
+(06:22:36)
 
 >> You may begin.
 
-(06:22:38) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=22958s
+(06:22:38)
 
 >> Hi, I am Jim Dill, executive director of Housing and Services, Inc. We provide permanent supportive housing, the most cost-effective and humane way to end chronic homelessness, to 725 households in Manhattan and the Bronx in both congregate and scattered settings. Like our peer organization that testified before us, we are members of the Supportive Housing Network in New York and echo their testimony about urging the city to allocate $65 million of NY 1515 funding for the preservation of SRO supportive housing. We are proud to have been one of the organizations to pioneer housing first and the first generation of supportive housing, where shared bathrooms and kitchens were the standard. With the success of this first generation, it paved the way for increased expectations for supportive housing, wherein the HPD standard is now studio apartments with full baths and kitchenettes. However, we now have SRO units that have been online for over 40 years in buildings that are over a hundred years old. SRO rents are low and, as you heard before, the state night shift funding for social services contracts has been stagnant for decades. Accordingly, operating revenues are insufficient to fund major repairs and long-term maintenance. Given the low revenues, cash debt service on government or private loans is not an option. The proposed $65 million allocation would greatly and significantly increase crucial SRO preservation opportunities.
 
 During this period of record high homelessness, the city cannot afford to lose any supportive housing units. It is an imperative that the first generation SROs be preserved with NY 1515 funding. We will submit written testimony and on behalf of our tenants and staff I very much am grateful for this opportunity to be able to speak.
 
-(06:24:45) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23085s
+(06:24:45)
 
 >> I am inspired.
 
-(06:24:48) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23088s
+(06:24:48)
 
 >> Thank you so much for your testimony, James, and for paying attention enough to still be with us at 5:54. Appreciate you. Emily Goldstein,
 
-(06:24:58) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23098s
+(06:24:58)
 
 >> you may begin.
 
-(06:25:01) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23101s
+(06:25:01)
 
 Good afternoon. Thank you for the opportunity to testify and I apologize that I was not able to be there in person today. My name is Emily Goldstein and I am the director of organizing and advocacy at the Association for Neighborhood and Housing Development, or ANHD. I will use my time to highlight just a few priorities from our longer written testimony.
 
@@ -1461,15 +1461,15 @@ Second, we are grateful for the Council's long-standing commitment to the Commun
 
 Finally, we encourage increased staffing allocations at HPD for various key areas including development, asset management and code enforcement. I will note that our written testimony includes further information about how improved collection of fees and penalties for code violations could help offset some of these staffing costs, in addition to being good policy to protect tenants. Thank you very much for your time.
 
-(06:27:14) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23234s
+(06:27:14)
 
 >> Thank you so much for joining us, Emily, and for your testimony. Memo Salazar,
 
-(06:27:21) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23241s
+(06:27:21)
 
 >> you may begin.
 
-(06:27:23) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23243s
+(06:27:23)
 
 >> Hi. I hope you can hear me. My name is Memo Salazar. I am the co-chair of the Western Queens Community Land Trust. We have only been around a few years, but already we have managed to make great headway here in New York City, in Queens specifically. We just secured $2.2 million from then-Assembly Member Zohran Mamdani, who is now our mayor, of course, to purchase a building in Astoria that is going to house some families upstairs and downstairs house the Historic Food Pantry, which is a mutual aid organization that is incredibly useful and loved here in the community. That will now give them a home that they do not have to worry about getting booted from or losing. They have a permanent affordable space to work. We are pursuing a couple of other building projects as well this year, so it is a very exciting time for us.
 
@@ -1479,54 +1479,54 @@ However, this is only possible because of our deep roots in the Queens community
 
 >> So anyway, I will stop, but thank you. Both of those points are
 
-(06:29:33) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23373s
+(06:29:33)
 
 incredibly important for us. >> Thank you so much, Memo. Heard, and appreciate you participating today. Todd Baker,
 
-(06:29:44) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23384s
+(06:29:44)
 
 >> you may begin.
 
-(06:29:52) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23392s
+(06:29:52)
 
 Alexis Foot,
 
-(06:29:54) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23394s
+(06:29:54)
 
 >> you may begin.
 
-(06:30:01) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23401s
+(06:30:01)
 
 Dean Rio.
 
-(06:30:06) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23406s
+(06:30:06)
 
 >> You may begin.
 
-(06:30:12) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23412s
+(06:30:12)
 
 Paul Draw.
 
-(06:30:16) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23416s
+(06:30:16)
 
 You may begin.
 
-(06:30:20) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23420s
+(06:30:20)
 
 Zara Nazir,
 
-(06:30:22) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23422s
+(06:30:22)
 
 >> you may begin.
 
-(06:30:28) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23428s
+(06:30:28)
 
 >> And a representative from the Flatbush Tenant Coalition.
 
-(06:30:34) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23434s
+(06:30:34)
 
 >> You may begin.
 
-(06:30:43) https://www.youtube.com/watch?v=aPrlRrwWsaU&t=23443s
+(06:30:43)
 
 If we have inadvertently missed anyone that has registered to testify today and has yet to be called, please use the Zoom raise hand function. If you are testifying remotely, you will be called in the order that your hand has been raised. If you are testifying in person, please come to the dais. Seeing none, I will now close today's hearing. Thank you to the members of the administration and the members of the public who have joined us today. This hearing is adjourned.

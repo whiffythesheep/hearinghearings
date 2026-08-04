@@ -7,6 +7,7 @@ slug: committee-on-public-housing-life-without-emergency-housing-vouchers-presen
 duration: "3hrs 3m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260617-101406.mp4"
+viebit_hash: "wGH0EHQbzO2jcFke"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1410880&GUID=50F85C8F-DEFA-433B-A9D6-4B4CB0DFCFAE&Search="
 chairs: "Chris Banks"
 members: "Elsie Encarnación, Christopher Marte, Darlene Mealy, Chi A. Ossé, Lincoln Restler, Julie Won"

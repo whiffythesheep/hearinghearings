@@ -7,6 +7,7 @@ slug: committee-on-aging-interagency-coordination-for-older-adults-2026-06-16
 duration: "2hrs 17m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260616-100837.mp4"
+viebit_hash: "GpwxjXRuQdDADm4b"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1413206&GUID=366B6C95-6EFA-492B-85A5-07D94ACAC977&Search="
 chairs: "Susan Zhuang"
 members: "Shirley Aldebol, Gale A. Brewer, Eric Dinowitz, Crystal Hudson, Christopher Marte, Darlene Mealy"

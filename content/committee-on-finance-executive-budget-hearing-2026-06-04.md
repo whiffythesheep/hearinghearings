@@ -7,6 +7,7 @@ slug: committee-on-finance-executive-budget-hearing-2026-06-04
 duration: "7hrs 17m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260604-100434.mp4"
+viebit_hash: "xcr4JQ3zUfVstUz9"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415388&GUID=CCC019D1-105C-4D32-B296-490810EECEAF&Search="
 chairs: "Linda Lee | Crystal Hudson | Justin E. Sanchez | Gale A. Brewer"
 members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"

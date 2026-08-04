@@ -7,6 +7,7 @@ slug: committee-on-health-access-to-reproductive-health-care-for-new-yorkers-wit
 duration: "2hrs 53m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260615-100847.mp4"
+viebit_hash: "qFAxOQb56lhjkl8g"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416937&GUID=0E04B702-2B6C-4364-834B-355AD425CF36&Search="
 chairs: "Lynn C. Schulman | Shahana K. Hanif | Mercedes Narcisse"
 members: "Joann Ariola, Carmen N. De La Rosa, Harvey D. Epstein, Simcha Felder, James F. Gennaro, Christopher Marte, Mercedes Narcisse, Carl Wilson"

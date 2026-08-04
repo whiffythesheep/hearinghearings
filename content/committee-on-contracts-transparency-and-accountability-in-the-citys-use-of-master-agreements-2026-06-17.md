@@ -7,6 +7,7 @@ slug: committee-on-contracts-transparency-and-accountability-in-the-citys-use-of
 duration: "1hr 50m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260617-130834.mp4"
+viebit_hash: "5bKpWoGGMjdti0Ca"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415319&GUID=F4EB972D-907F-4AEC-8992-23275AFCD3C4&Search="
 chairs: "Lincoln Restler"
 members: "Gale A. Brewer, James F. Gennaro, Kamillah Hanks, Althea V. Stevens, Inna Vernikov, Julie Won"

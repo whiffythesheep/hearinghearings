@@ -7,6 +7,7 @@ slug: committee-on-transportation-and-infrastructure-dot-legislation-on-sidewalk
 duration: "1hr 5m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260625-101858.mp4"
+viebit_hash: "a5acrR8b5tqtHCEl"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417583&GUID=F15CD456-A38C-4650-B217-15B2FAD44F99&Search="
 chairs: "Shaun Abreu"
 members: "Selvena N. Brooks-Powers, Eric Dinowitz, Shahana K. Hanif, Shekar Krishnan, Farah N. Louis, Christopher Marte, Justin E. Sanchez, Pierina Ana Sanchez, Julie Won, Phil Wong"

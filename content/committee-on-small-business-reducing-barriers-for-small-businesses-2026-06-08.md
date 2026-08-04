@@ -7,6 +7,7 @@ slug: committee-on-small-business-reducing-barriers-for-small-businesses-2026-06
 duration: "1hr 49m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260608-131206.mp4"
+viebit_hash: "1B3VQuLH7ArCubKk"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416334&GUID=51455C8F-01CD-4148-B7B7-8AED98800071&Search="
 chairs: "Shanel Thomas-Henry"
 members: "Selvena N. Brooks-Powers, Shahana K. Hanif, Virginia Maloney, Frank Morano, Yusef Salaam, Kayla Santosuosso"

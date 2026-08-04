@@ -7,6 +7,7 @@ slug: committee-to-combat-hate-community-based-prevention-and-response-to-hate-a
 duration: "2hrs 9m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260623-130832.mp4"
+viebit_hash: "lVnWUxnSUrFCFVL4"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416405&GUID=F4663592-940A-4F5A-8A7B-624633869B5B&Search="
 chairs: "Yusef Salaam"
 members: "Shekar Krishnan, Darlene Mealy, Pierina Ana Sanchez, Lynn C. Schulman, Carl Wilson, Julie Won"

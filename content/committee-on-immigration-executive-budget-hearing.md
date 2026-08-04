@@ -7,6 +7,7 @@ slug: committee-on-immigration-executive-budget-hearing
 duration: "5hrs 51m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260528-100627.mp4"
+viebit_hash: "PuIYbS4NcBVWZkbh"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415907&GUID=E1D5B6BB-1505-4BDD-BE66-E200258D022D&Search="
 chairs: "Elsie Encarnación | Althea V. Stevens | Linda Lee"
 members: "Alexa Avilés, Gale A. Brewer, Kamillah Hanks, Rita C. Joseph | Simcha Felder, Rita C. Joseph, Chi A. Ossé, Nantasha M. Williams"

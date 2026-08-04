@@ -314,11 +314,25 @@ def extract_viebit_hash(url):
     sys.exit(1)
 
 
+def player_hash_from_caption_url(caption_url):
+    """Pull Viebit's own recording hash out of a caption URL.
+
+    Caption URLs look like
+    ``https://vbfast-vod.viebit.com/counciln/<hash>/<asset>.vtt``, so the hash
+    comes free with the metadata fetch — no extra request. It is not always the
+    same as extract_viebit_hash(), which falls back to the asset stem for
+    /vod/?v=<file>.mp4 URLs. This is the real one, and the only value that
+    builds a working /watch?hash= deep link.
+    """
+    m = re.search(r"/counciln/([A-Za-z0-9_-]+)/", caption_url)
+    return m.group(1) if m else ""
+
+
 def fetch_viebit_player_metadata(watch_url):
     """Fetch the Viebit watch page and extract caption URL + asset filename.
 
     Returns a dict with keys: caption_url, asset_stem (e.g.
-    'NYCC-250-8-1_260505-102041'), or raises SystemExit on failure.
+    'NYCC-250-8-1_260505-102041'), player_hash, or raises SystemExit on failure.
     """
     logger.info(f"Fetching Viebit watch page...")
     r = http_requests.get(watch_url, headers=VIEBIT_BROWSER_HEADERS, timeout=30)
@@ -338,7 +352,11 @@ def fetch_viebit_player_metadata(watch_url):
 
     asset_stem = re.sub(r"\.vtt.*$", "", caption_url.rsplit("/", 1)[-1])
 
-    return {"caption_url": caption_url, "asset_stem": asset_stem}
+    return {
+        "caption_url": caption_url,
+        "asset_stem": asset_stem,
+        "player_hash": player_hash_from_caption_url(caption_url),
+    }
 
 
 def _normalize_vtt_line(text):
@@ -383,7 +401,9 @@ def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
 
     Returns (segments, json_path, video_info) where video_info is a dict
     with 'title' and 'duration' keys (mirroring yt-dlp's shape so main()
-    can treat both sources identically downstream).
+    can treat both sources identically downstream), plus 'player_hash' —
+    Viebit's own recording id, which is what builds a working /watch?hash=
+    timestamp deep link.
     """
     viebit_hash = extract_viebit_hash(watch_url)
     title = override_title or f"Viebit hearing {viebit_hash}"
@@ -408,6 +428,10 @@ def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
             video_info = {
                 "title": data.get("title", title),
                 "duration": duration_s,
+                # Caches written before player_hash existed still carry the
+                # caption URL it is derived from.
+                "player_hash": data.get("player_hash")
+                or player_hash_from_caption_url(data.get("caption_url", "")),
             }
             return segments, cached_path, video_info
 
@@ -427,7 +451,11 @@ def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
     logger.info(f"Parsed {len(segments)} segments from Viebit captions.")
 
     duration_s = segments[-1]["end_ms"] // 1000 if segments else 0
-    video_info = {"title": title, "duration": duration_s}
+    video_info = {
+        "title": title,
+        "duration": duration_s,
+        "player_hash": meta["player_hash"],
+    }
 
     cache_obj = {
         "title": title,
@@ -436,6 +464,7 @@ def fetch_viebit_transcript(watch_url, override_title=None, skip=False):
         "viebit_url": watch_url,
         "caption_url": caption_url,
         "asset_stem": meta["asset_stem"],
+        "player_hash": meta["player_hash"],
         "raw_segments": segments,
     }
     with open(json_path, "w", encoding="utf-8") as f:
@@ -1778,7 +1807,7 @@ def align_agenda_items(utterances, agenda_text):
 def build_web_content(summary, utterances, agenda_text, title, committee,
                       committee_slug_val, slug, date_str,
                       youtube_url="", duration="", council_url="",
-                      viebit_url="", chairs="", members=""):
+                      viebit_url="", viebit_hash="", chairs="", members=""):
     """Build a markdown file with YAML front matter for the website."""
     # Summary section
     summary_lines = [summary]
@@ -1811,6 +1840,13 @@ def build_web_content(summary, utterances, agenda_text, title, committee,
     ]
     if viebit_url:
         lines.append(f'viebit_url: "{viebit_url}"')
+    # Viebit's own recording id, kept alongside viebit_url rather than folded
+    # into it: discover_pending.py fingerprints published hearings on the URL
+    # shape Legistar advertised, so rewriting viebit_url would break sibling
+    # dedup. site/build.py uses this to build /watch?hash= timestamp links,
+    # since the /vod/ shape drops ?t= on its redirect.
+    if viebit_hash:
+        lines.append(f'viebit_hash: "{viebit_hash}"')
     if council_url:
         lines.append(f'council_url: "{council_url}"')
     if chairs:
@@ -2456,6 +2492,11 @@ def main():
             video_info["duration"] = (
                 segments[-1]["end_ms"] // 1000 if segments else 0
             )
+            # Caches written before player_hash existed still carry the
+            # caption URL it is derived from.
+            video_info["player_hash"] = cached_data.get(
+                "player_hash"
+            ) or player_hash_from_caption_url(cached_data.get("caption_url", ""))
         else:
             # Reconstruct youtube_url and fetch duration from cached video_id.
             video_id = cached_data.get("video_id")
@@ -2703,6 +2744,7 @@ def main():
             committee_slug_val, slug, date_str, youtube_url,
             duration, council_url=args.council_url or "",
             viebit_url=viebit_url,
+            viebit_hash=video_info.get("player_hash", "") if viebit_url else "",
             chairs=chairs, members=members,
         )
     publish_to_website(web_content, slug, title, committee=committee,

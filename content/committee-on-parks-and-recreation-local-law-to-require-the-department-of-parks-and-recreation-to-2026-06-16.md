@@ -7,6 +7,7 @@ slug: committee-on-parks-and-recreation-local-law-to-require-the-department-of-p
 duration: "1hr 10m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260616-131026.mp4"
+viebit_hash: "9Pe6GBLFY28ZCq2p"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1418015&GUID=F0AB95A5-E2D9-44F7-906F-9A72A624526F&Search="
 chairs: "Ty Hankerson"
 members: "Shekar Krishnan, Linda Lee, Christopher Marte, Frank Morano, Mercedes Narcisse, Sandy Nurse, Yusef Salaam, Pierina Ana Sanchez, Kayla Santosuosso, Sandra Ung"

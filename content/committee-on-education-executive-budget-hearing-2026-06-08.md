@@ -7,6 +7,7 @@ slug: committee-on-education-executive-budget-hearing-2026-06-08
 duration: "6hrs 37m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260608-100634.mp4"
+viebit_hash: "4edWWECTCOnjVX5n"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415396&GUID=91E9A0BB-939D-4ACD-A0BC-BE58A646C990&Search="
 chairs: "Eric Dinowitz | Rita C. Joseph | Linda Lee"
 members: "Gale A. Brewer, Carmen N. De La Rosa, Amanda C. Farías, Jennifer Gutiérrez, Rita C. Joseph, Shekar Krishnan, Linda Lee, Farah N. Louis, Mercedes Narcisse, Lynn C. Schulman, Phil Wong, Susan Zhuang"

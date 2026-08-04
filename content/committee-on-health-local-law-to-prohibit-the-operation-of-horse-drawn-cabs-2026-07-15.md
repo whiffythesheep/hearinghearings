@@ -7,6 +7,7 @@ slug: committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cab
 duration: "9hrs 26m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260715-100545.mp4"
+viebit_hash: "1iXrsUGSSeNuJvQb"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1425278&GUID=E7D597B7-AFD7-4AB0-B21F-8E4F254CA003&Search="
 chairs: "Lynn C. Schulman"
 members: "Joann Ariola, Carmen N. De La Rosa, Harvey D. Epstein, Simcha Felder, James F. Gennaro, Christopher Marte, Mercedes Narcisse, Carl Wilson"

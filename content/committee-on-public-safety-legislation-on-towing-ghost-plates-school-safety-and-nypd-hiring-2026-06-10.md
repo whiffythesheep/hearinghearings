@@ -7,6 +7,7 @@ slug: committee-on-public-safety-legislation-on-towing-ghost-plates-school-safet
 duration: "3hrs 28m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260610-100852.mp4"
+viebit_hash: "fqbk6haULFaz3qfa"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417913&GUID=C5D97CEC-5BFC-4F22-801F-3A275B8191D9&Search="
 chairs: "Oswald J. Feliz"
 members: "Joann Ariola, Chris Banks, Jennifer Gutiérrez, Ty Hankerson, Kamillah Hanks, Sandy Nurse, Justin E. Sanchez, Phil Wong"
