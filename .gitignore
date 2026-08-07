@@ -1,5 +1,8 @@
 .env
 .venv/
+# Written by run_audit.ps1 when the weekly audit finds something fixable;
+# deleted automatically on the next clean run.
+AUDIT-ACTION-REQUIRED.txt
 __pycache__/
 *.pyc
 *.log
