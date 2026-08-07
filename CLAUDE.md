@@ -62,6 +62,19 @@ Everywhere else, plain `pip install -r requirements.txt` is correct and gets a p
 
 Without the constraint, pip resolves `cryptography` to 50.0.0, finds no `win_arm64` wheel (upstream published none after 46.0.3), downloads the sdist and tries to compile it — which needs a Rust toolchain that is not installed. `constraints-win-arm64.txt` caps it at 46.0.3, the last version with a wheel.
 
+### Weekly dependency audit
+
+`audit_dependencies.py` sweeps the **installed venv** against OSV and splits findings into ACTIONABLE (a patched version has a wheel for this platform), BLOCKED (fixed upstream but not installable here — the cryptography cap) and ORPHANS (installed, but nothing requires and no project code imports them).
+
+```bash
+python audit_dependencies.py           # full report
+python audit_dependencies.py --quiet   # print only when actionable
+```
+
+Scheduled locally as Task Scheduler task **`HearingHearingsAudit`**, Mondays 08:00, via `run_audit.ps1` → `audit.log`. When something is actionable it writes `AUDIT-ACTION-REQUIRED.txt` to the repo root (gitignored) and pops a desktop notification; a clean week is silent, and the flag file is deleted automatically once things are clean again. Retime with `Set-ScheduledTask`, **not** `schtasks /Change /ST` (that prompts for a password and hangs).
+
+**Why local and not a cloud routine:** the point is to audit what is *installed*, which drifts independently of what `requirements.txt` declares. On 2026-08-07 the venv had vulnerabilities in seven packages — yt-dlp four months stale, pypdf carrying eight advisories while being entirely unused — while Dependabot reported one, because Dependabot only reads the manifest. A cloud agent gets a fresh checkout and a fresh install, so it structurally cannot see that drift.
+
 **Do not move that pin back into `requirements.txt`, even behind a PEP 508 marker.** Dependabot parses `requirements.txt` and does not evaluate markers, so a marker-guarded `cryptography==46.0.3` still raised all seven cryptography alerts — confirmed against commit `5751134`, which Dependabot rescanned and left at 7 open. `requirements.txt` must never name a vulnerable version. Equally, do not rename the constraints file to anything matching `requirements*.txt`.
 
 ## Full-text transcript search
