@@ -293,10 +293,6 @@ VIEBIT_BROWSER_HEADERS = {
 }
 
 
-def is_viebit_url(url):
-    return bool(url) and "viebit.com" in url
-
-
 def extract_viebit_hash(url):
     """Extract a Viebit identifier from a watch or /vod/ URL.
 
