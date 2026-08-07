@@ -1,0 +1,35 @@
+# pip constraints for Windows ARM64 only. Not a manifest -- do not rename this to
+# anything matching requirements*.txt, or Dependabot will parse it and re-raise the
+# alerts this file exists to keep out of the dependency graph.
+#
+# Usage on Windows ARM64:
+#     pip install -r requirements.txt -c constraints-win-arm64.txt
+# Every other platform just uses requirements.txt and gets a patched cryptography.
+#
+# Why this exists
+# ---------------
+# pdfplumber -> pdfminer.six hard-requires cryptography>=36.0.0 (encrypted-PDF
+# ciphers). requirements.txt asks for >=50.0.0, but that line carries a marker
+# making it inert on Windows ARM64, because:
+#
+#   * 46.0.3 (2025-10-15) is the LAST release upstream published a win_arm64 wheel
+#     for. 46.0.4 onward, including 49.x and 50.x, ship none.
+#   * Building from source needs a Rust toolchain. None is installed, and a prior
+#     attempt failed in the MSVC ARM64 linker ("extra operand" from link.exe).
+#
+# So this platform is capped at the last version that can actually be installed.
+# The constraint caps pdfminer's transitive requirement; it does not conflict with
+# requirements.txt, whose cryptography line does not apply here.
+#
+# Residual risk, assessed 2026-08-07
+# ----------------------------------
+# 46.0.3 carries seven advisories. None is reachable from this project:
+# the vulnerable API is cryptography.x509.verification (certificate chain
+# path-building), and a grep of the entire venv found the only reference inside
+# cryptography's own module. Nothing in the dependency graph calls it. requests
+# and urllib3 validate certificates through stdlib ssl/OpenSSL, not this code.
+# pdfminer.six uses symmetric ciphers only.
+#
+# Revisit if: upstream resumes win_arm64 wheels (check the PyPI JSON API), a Rust
+# toolchain gets installed, or this project starts verifying certificates itself.
+cryptography==46.0.3

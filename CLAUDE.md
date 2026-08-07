@@ -50,6 +50,20 @@ python -m http.server --bind 127.0.0.1 8001
 
 Local preview **must** be via a served URL (`http://127.0.0.1:8001`), not `file://` — templates reference `/static/site.css` as an absolute path that only resolves under a served root.
 
+### Windows ARM64 install
+
+On this machine (Windows 11 ARM64), installing dependencies needs the constraints file:
+
+```bash
+pip install -r requirements.txt -c constraints-win-arm64.txt
+```
+
+Everywhere else, plain `pip install -r requirements.txt` is correct and gets a patched `cryptography`.
+
+Without the constraint, pip resolves `cryptography` to 50.0.0, finds no `win_arm64` wheel (upstream published none after 46.0.3), downloads the sdist and tries to compile it — which needs a Rust toolchain that is not installed. `constraints-win-arm64.txt` caps it at 46.0.3, the last version with a wheel.
+
+**Do not move that pin back into `requirements.txt`, even behind a PEP 508 marker.** Dependabot parses `requirements.txt` and does not evaluate markers, so a marker-guarded `cryptography==46.0.3` still raised all seven cryptography alerts — confirmed against commit `5751134`, which Dependabot rescanned and left at 7 open. `requirements.txt` must never name a vulnerable version. Equally, do not rename the constraints file to anything matching `requirements*.txt`.
+
 ## Full-text transcript search
 
 The index-page search box queries a prebuilt inverted index that `build_search_index()` in `site/build.py` writes to `site/output/search/`: `docs.json` (slugs sorted date ascending + slug tiebreak — **do not change the ordering**; it keeps doc indices stable so adding a hearing only appends) and `idx-<a-z|0>.json` shards mapping token → `[[docIdx, count]]`. The client JS in `site/templates/index.html` lazy-loads only the shards a query needs, shows exact mention counts, and fetches matching `transcript.txt` files to render a highlighted excerpt (with exact-phrase verification for multi-word queries). Search-as-you-type: the index lookup runs on every keystroke (no debounce); the final token matches any indexed token it prefixes ("jul" → "julie", "july") unless the query ends with a space/punctuation, which makes it exact; earlier tokens are always exact. Excerpt fetches sit behind a 150ms debounce.
