@@ -1,14 +1,15 @@
 anthropic
 # cryptography is a transitive dependency (pdfplumber -> pdfminer.six needs it to
-# decrypt encrypted PDFs). Pinned here only to control the version:
-#   the newest open advisory (GHSA-g6cj-pr64-35w5, PKCS#7 Bleichenbacher oracle)
-#   is fixed in 50.0.0; CVE-2026-69249 needed 49.0.0. 50.0.0 clears all seven.
-# Upstream stopped publishing Windows ARM64 wheels after 46.0.3, and building from
-# source there needs a Rust toolchain that fails in the MSVC linker, so that one
-# platform holds at the last release with a wheel. Nothing in this project reaches
-# the vulnerable code path (x509 chain path-building); pdfminer uses only ciphers.
+# decrypt encrypted PDFs). Declared here only to hold a security floor: 50.0.0
+# clears all seven open advisories, the newest being GHSA-g6cj-pr64-35w5 (PKCS#7
+# Bleichenbacher oracle). This file must never name a vulnerable version --
+# Dependabot parses it and does NOT evaluate environment markers, so a marker-
+# guarded old pin still raises alerts. The Windows ARM64 exception (no wheels
+# published after 46.0.3, no Rust toolchain to build from source) therefore lives
+# in constraints-win-arm64.txt, which Dependabot does not read as a manifest.
+# The marker below makes this line inert on ARM64 so that constraint can apply
+# without conflicting. See CLAUDE.md "Windows ARM64 install".
 cryptography>=50.0.0; platform_machine != "ARM64" or sys_platform != "win32"
-cryptography==46.0.3; platform_machine == "ARM64" and sys_platform == "win32"
 Jinja2
 markdown
 pdfplumber
