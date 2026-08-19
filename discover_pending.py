@@ -397,15 +397,26 @@ def build_site() -> bool:
 def new_markdown_files() -> list[Path]:
     """Untracked or modified content/*.md files since master."""
     res = subprocess.run(
-        ["git", "status", "--porcelain", "content/"],
-        cwd=REPO_ROOT, capture_output=True, text=True, check=True,
+        ["git", "status", "--porcelain", "-z", "content/"],
+        cwd=REPO_ROOT, capture_output=True, check=True,
     )
+    # -z is NUL-separated and never quotes, so a non-ASCII slug
+    # ("pied-a-terre" with the accent) arrives intact. Plain --porcelain
+    # octal-escapes it to "pied-\303\240-terre" and the path stops
+    # resolving. Decode explicitly: text=True would use the Windows
+    # locale codepage, not UTF-8.
     paths: list[Path] = []
-    for line in res.stdout.splitlines():
-        # Porcelain v1: two status chars, space, path.
-        if len(line) < 4:
+    skip_next = False
+    for field in res.stdout.decode("utf-8").split("\0"):
+        if skip_next:
+            skip_next = False
             continue
-        path = line[3:].strip().strip('"')
+        # Porcelain v1: two status chars, space, path.
+        if len(field) < 4:
+            continue
+        # A rename emits the old path as a bare trailing field.
+        skip_next = field[0] == "R"
+        path = field[3:]
         if path.endswith(".md"):
             paths.append(REPO_ROOT / path)
     return paths
