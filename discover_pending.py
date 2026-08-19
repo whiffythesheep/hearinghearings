@@ -55,9 +55,19 @@ SUMMARIZER_PY = REPO_ROOT / "summarize_council_meeting.py"
 # never gets a summary page. Case-insensitive substring.
 BODY_SKIP_PATTERNS = ("stated meeting", "executive session")
 
-# Location-cell <em> marker for vote-only sessions on Legistar. Both
-# "VOTE" and "VOTE*" appear in the wild.
-VOTE_EM_PREFIX = "VOTE"
+# Location-cell <em> marker for vote-only sessions on Legistar.
+#
+# The asterisk is load-bearing: "VOTE*" is a vote-only session, while a
+# bare "VOTE" is a meeting that votes on already-heard items AND holds
+# new public hearings. Measured 2026-08-19 over one calendar window --
+# all 24 "VOTE*" sessions ran 2-25 minutes; the single bare "VOTE"
+# (event 1417104, Zoning and Franchises, 2026-08-12) ran 104 minutes and
+# opened with "today we are voting on three proposals and holding four
+# hearings", three of which were not covered anywhere on the site.
+#
+# So match "VOTE*" only. A bare "VOTE" falls through to the duration
+# probe, which still drops it if it really was a short vote session.
+VOTE_ONLY_EM_MARKER = "VOTE*"
 
 MIN_DURATION_SECONDS = 60 * 60  # 1 hour
 
@@ -299,7 +309,7 @@ def should_skip(event: dict) -> str | None:
     body_lower = event["body_name"].lower()
     if any(p in body_lower for p in BODY_SKIP_PATTERNS):
         return "stated/executive"
-    if event["location_em"].upper().startswith(VOTE_EM_PREFIX):
+    if event["location_em"].strip().upper().startswith(VOTE_ONLY_EM_MARKER):
         return "vote-only"
     return None
 
