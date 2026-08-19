@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 70 of 70</span>
+            <span id="hearing-count" aria-live="polite">Showing 71 of 71</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -463,6 +463,20 @@
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation", "Committee on Finance"]'
+                data-title="Implementation of the Pied-à-Terre Tax"
+                data-month="2026-08"
+                data-slug="committee-on-governmental-operations-state-federal-legislation-implementation-of-the-pied-à-terre-2026-08-18">
+                <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-implementation-of-the-pied-à-terre-2026-08-18/">
+                    <time class="hearing-row__date" datetime="2026-08-18">
+                        August 18, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Governmental Operations, State &amp; Federal Legislation | Committee on Finance</span>
+                    <span class="hearing-row__title">Implementation of the Pied-à-Terre Tax</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1527,7 +1541,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 70;
+        var totalHearings = 71;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
