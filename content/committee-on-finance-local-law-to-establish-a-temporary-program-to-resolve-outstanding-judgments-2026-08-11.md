@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance"
 committee_slug: committee-on-finance
-title: "Local Law to Establish a Temporary Program to Resolve Outstanding Judgments Imposed by the Environmental Control Board"
+title: "Amnesty for Unpaid Environmental Control Board Fines"
 date: 2026-08-11
 slug: committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11
 duration: "1hr 0m"
