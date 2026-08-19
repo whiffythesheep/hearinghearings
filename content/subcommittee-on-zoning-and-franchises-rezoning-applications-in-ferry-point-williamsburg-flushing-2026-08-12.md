@@ -1,0 +1,1114 @@
+---
+committee: "Subcommittee on Zoning and Franchises"
+committee_slug: subcommittee-on-zoning-and-franchises
+title: "Rezoning Applications in Ferry Point, Williamsburg, Flushing and Bushwick"
+date: 2026-08-12
+slug: subcommittee-on-zoning-and-franchises-rezoning-applications-in-ferry-point-williamsburg-flushing-2026-08-12
+duration: "1hr 44m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260812-110547.mp4"
+viebit_hash: "rxFkLBrgDxJ0hZsB"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417104&GUID=CD9BCAFC-291A-4B2D-8E46-A4D16260B852&Search="
+chairs: "Farah N. Louis"
+members: "David M. Carr, Elsie Encarnación, Amanda C. Farías, Simcha Felder, Yusef Salaam, Justin E. Sanchez, Lynn C. Schulman, Shanel Thomas-Henry"
+---
+
+Summary
+
+Meeting Overview
+
+The Subcommittee on Zoning and Franchises met on August 12, 2026, with CM Thomas-Henry presiding in place of Chair Louis. The meeting combined three votes on applications ready for full Council referral and four preliminary hearings on preconsidered items. The votes passed unanimously, 7-0.
+
+The three approved items were: the 47-03 108th Street rezoning (LU 0118/0119-2026) in Corona, Queens, modified from the applicant's requested R7X to R7D given the surrounding two-to-three story building context, which will yield approximately 119 apartments with roughly 30 permanently affordable under MIH Option 1; the 200 Kent Avenue rezoning (LU 0115/0116-2026) in Williamsburg, a conversion of an existing commercial building with a Trader Joe's into mixed-use residential with approximately 143 apartments and 36 permanently affordable units, modified to remove MIH Option 2 and cap affordability at an average of 60% AMI; and the Flatiron NoMad Major Concessions application (LU 0117-2026), which expands the Flatiron NoMad Partnership's concession management area along Broadway and Fifth Avenue between 19th and 31st Streets, unlocking revenue for public space improvements, cleaning services, smart compost bins, and potentially public bathrooms and water fountains. CM Restler noted that his Council District 33 has shrunk 18% in redistricting due to absorbing the most new development of any district in the city, a useful piece of context for the volume of land use activity his office processes.
+
+The four hearings covered a range of outer-borough rezonings at varying scales. The 815 Hutchinson River Parkway proposal (T2026-2339) in the Ferry Point neighborhood of the Bronx is a commercial rezoning from M1-2 to C8-3 for an existing shopping center, driven primarily by the desire to attract a supermarket anchor tenant of over 10,000 square feet, currently prohibited under 1961 manufacturing zoning rules that have not kept pace with retail reality. Members pressed the applicant on traffic mitigation, given the site's proximity to the Whitestone Bridge approach and the pending Bally's Casino construction nearby, and on job quality at any prospective grocery tenant. The applicant acknowledged a planned Lafayette Avenue traffic cut-through had been blocked by a DOT bike lane proposal, but indicated willingness to revisit it if that proposal lapses.
+
+The 862-868 Kent Avenue hearing (T2026-2340/2341) in Bed-Stuy was notably brief and collegial. The project will produce 74 apartments heavily weighted toward two-, three-, and four-bedroom units, with a synagogue and mikvah at the cellar level, responding directly to the needs of an overflow congregation nearby. CM Felder confirmed he would insist on MIH Option 1 consistent with his practice on every previous rezoning he has approved, and the developer, who lives around the corner from the site, confirmed the prior commercial tenant (a confectionary business) had been helped to relocate to New Jersey and that Lights Out bar is moving to Kent Street in Greenpoint. The 158-06 Northern Boulevard hearing (T2026-2342/2343) in the Flushing Hill neighborhood of Queens drew the most public engagement, with two neighbors opposing the proposed R7A upzoning as out of scale and inconsistent with Broadway Flushing's century-old restrictive deed covenants and planned garden suburb character, and two local residents supporting it as a necessary response to severe rent burden; Community District 7 has the highest rent-burdened population in Queens at nearly 57%, third highest citywide. The applicant noted comparable R7A and R7X rezonings on Northern Boulevard, though acknowledged the immediate context remains low density. Finally, the 132 Melrose Street hearing (T2026-2344/2345) in Bushwick covered a small 18-unit mixed-use proposal on a former manufacturing site now surrounded largely by residential uses, with the applicant committing to designing ground-floor space specifically for light industrial tenants, including higher floor-to-ceiling heights and increased power capacity, in response to community concerns about preserving industrial jobs. All four hearings closed with items laid over pending further process.
+
+Numbers
+
+- 200 Kent Avenue: approximately 143 total apartments proposed, of which approximately 36 permanently affordable.
+- 47-03 108th Street: approximately 119 total apartments proposed, of which approximately 30 permanently affordable.
+- Flatiron NoMad concession area: approximately 162,345 square feet to be managed by the Flatiron NoMad Partnership.
+- 862-868 Kent Avenue: 74 total apartments, 18 permanently affordable; unit mix of 35 two-bedrooms, 7 three-bedrooms, 4 four-bedrooms, 23 one-bedrooms and 5 studios.
+- 862-868 Kent Avenue: Building A at 9 stories and 50,000 square feet of floor area; Building B at 6 stories and 13,000 square feet; maximum height 90 feet, comparable to adjacent school at approximately 87 feet.
+- 815 Hutchinson River Parkway shopping center: approximately 410,000 square feet of total development with a floor area ratio of only 0.28; approximately 875 parking spaces, 606 on the rooftop or upper floor; approximately 10 loading berths.
+- 815 Hutchinson River Parkway: proposed supermarket approximately 29,500 to 30,000 square feet, requiring a roughly 10,000 square foot addition on the upper floor; net parking reduction of approximately 49 spaces, leaving approximately 800 spaces remaining.
+- Council District 33 (CM Restler): has shrunk approximately 18% in redistricting due to the highest volume of new development of any Council district in the city.
+- 158-06 Northern Boulevard: proposed 10-story mixed-use building with 73 total apartments, 19 permanently affordable under MIH Option 1, with approximately 26 parking spaces (about 35% of total units).
+- 158-06 Northern Boulevard MIH breakdown: 25% of residential floor area set aside at a weighted average of 60% AMI, with 10% at 40% AMI, producing units across the 40%, 60% and 80% AMI range.
+- Community District 7 (Flushing): rent-burdened population of just under 57%, highest in Queens and third highest citywide.
+- Northern Boulevard rezoning context: comparable R7X approval approximately 9 blocks west allowing up to 14-story buildings at FAR of 6; proposed R7A here limited to 10-11 stories.
+- 132 Melrose Street: rezoning area approximately 11,300 square feet; three development lots totaling approximately 6,300 square feet; proposed building at 3.9 FAR, approximately 25,000 square feet total, with approximately 18,000 square feet residential and approximately 6,000 square feet ground-floor light industrial space divided into two units.
+- 132 Melrose Street: 18 total apartments proposed, up to 5 permanently affordable depending on MIH option selected; no studios.
+- Current business at 132 Melrose Street (Conduct Electric) employed 24 workers, substantially drawn from the surrounding neighborhood, and has already relocated.
+- 158-06 Northern Boulevard area: current zoning mapped as R5B established in 2005; rezoning from R2 and R5B to R7A proposed; Northern Boulevard is a 100-foot wide arterial; combined LIRR right-of-way and Station Road on southern edge approximately 130 feet wide.
+- Melrose Street at 132 Melrose: approximately 50 feet wide; when vehicles obstruct both sides, effective travel lane width narrows to approximately 11 feet.
+
+Action Points
+
+- Applicant at 815 Hutchinson River Parkway to follow up with CM Aldebol's office regarding which supermarket chains ownership has held discussions with, given CM Aldebol's concern about job quality.
+- Applicant counsel at 815 Hutchinson River Parkway (Adam Roth/Geoff Klein) to revisit Lafayette Avenue traffic cut-through plan with DOT if the proposed bike lane on Lafayette Avenue does not proceed.
+- Ownership at 815 Hutchinson River Parkway to continue directing tenants to instruct their suppliers to avoid Winterplace and to remain open to further discussions on traffic mitigation with CM Aldebol and neighboring stakeholders including Bally's and PepsiCo.
+- Applicant at 815 Hutchinson River Parkway to keep job quality considerations in mind when evaluating prospective supermarket tenants, per CM Aldebol's instruction.
+- CM Felder to continue discussions with developer Solomon Federer on 862-868 Kent Avenue regarding MIH option selection, with Felder's strong stated preference for Option 1.
+- Developer at 862-868 Kent Avenue to work with CM Restler's office on BID formation effort on the north side of the district, per existing commitment flagged in council member's remarks.
+- Applicant at 158-06 Northern Boulevard to note CM Louis's information about recently displaced local retailers (cleaners and restaurant) on Northern Boulevard as potential commercial tenants, given that the developers are locally based.
+- CM Gutiérrez's office to follow up with land use staff on outstanding questions submitted in advance regarding 132 Melrose Street affordability options, unit composition and applicant's long-term plans as property owners.
+- Applicant at 132 Melrose Street to commit to designing ground-floor light industrial space with higher floor-to-ceiling heights and increased power capacity sufficient for light manufacturing uses.
+- Applicant at 132 Melrose Street to engage with Evergreen Exchange and other local organizations to identify prospective light industrial tenants for ground-floor space.
+- Applicant at 132 Melrose Street to confirm no studios will be included in the building, consistent with commitment made on the record to CM Gutiérrez's question.
+- Applicant at 132 Melrose Street to work with local organizations on unit marketing when the time comes, per CM Gutiérrez's request and applicant's stated openness to doing so.
+- Applicant at 132 Melrose Street to confirm specific green energy systems (heat pumps, green roof, electric appliances, low-flow plumbing) will be incorporated into building design as represented to the subcommittee.
+
+## Full Transcript
+
+**(00:00:06)**
+
+
+
+9:35 zoom check. Oh, webinars.
+
+**(00:00:06)**
+
+
+
+Good morning. Welcome to the New York City Council hearing for the Subcommittee on Zoning and Franchises. Please silence all cell phones and electronic devices. If you wish to testify, please fill out an appearance card with the Sergeant at Arms. Moving forward, no one is to approach this chair.
+
+We are ready to begin. Good morning and welcome to the meeting of the Subcommittee on Zoning and Franchises. Unfortunately, Chair Louis is unable to attend today's meeting. I am CM Thomas-Henry and I will serve as Acting Chair for the Subcommittee today.
+
+This morning I am joined by Minority Leader CM Carr, Deputy Whip Encarnación, CM Farías, CM Salaam and, online, CM Justin Sanchez, as well as in person CM Schulman and CM Wilson.
+
+Today we are voting on three proposals and holding four hearings. The three proposals we will first vote on consist of the 47-03 108th Street mixed use residential rezoning in my district, the 200 Kent Avenue mixed use residential rezoning in CM Restler's district, and the Flatiron NoMad Major Concessions application regarding portions of Broadway and Fifth Avenue in CM Wilson's and Epstein's districts.
+
+We will then hold hearings on the following proposals: the 815 Hutchinson River Parkway rezoning in CM Aldebol's district; the 862-868 Kent Avenue rezoning in CM Restler's district; the 158-06 Northern Boulevard rezoning in CM Ung's district; and the 132 Melrose Street rezoning in CM Gutiérrez's district.
+
+This meeting is being held in hybrid format. Members of the public who wish to testify may do so in person or via Zoom. Members of the public wishing to testify remotely may register by visiting the New York City Council website at council.nyc.gov/landuse to sign up. For those of you in person, please see one of the Sergeants at Arms to prepare and submit a speaker card. Members of the public may also view a live stream broadcast of this meeting on the Council's website.
+
+When you are called to testify before the Subcommittee, if you are joining us remotely, you will remain muted until recognized by myself to speak. When you are recognized, your microphone will be unmuted. We will limit public testimony to two minutes per witness. If you have additional testimony that you would like the Subcommittee to consider, or if you have written testimony that you would like to submit instead of appearing in person, please email it to landusetestimony@council.nyc.gov. Written testimony may be submitted up to three days after the hearing is closed. Please indicate the LU number and/or project name in the subject line of your email.
+
+We request that witnesses joining us remotely remain in the meeting until excused by the Chair, as Council members may have questions.
+
+Lastly, for anyone attending today's meeting, this is a government proceeding and decorum must be observed at all times. Members of the public are asked not to speak during the meeting unless you are testifying. The witness table is reserved for people who are called to testify, and no video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record.
+
+We will now proceed with the three votes. I would also like to add that we have been joined by CM Restler.
+
+The first vote concerns LU 0119-2026 regarding the 47-03 108th Street rezoning proposal in my district. The applicant is seeking to develop a mixed use residential development in Corona, Queens, that would have approximately 119 apartments, of which approximately 30 would be permanently affordable. The proposal involves two actions. The first is a Zoning Map amendment to change the existing residential R6B district to a residential R7X district with a C2-4 commercial overlay. The second action is a zoning text amendment for affordability, which would be limited to MIH Option 1.
+
+We are recommending that the project area be rezoned to R7D rather than R7X, given that the surrounding area consists predominantly of two and three story buildings. I support this application as modified and we will move on to the next.
+
+The second vote concerns LU 0115-2026 and LU 0116-2026 regarding the 200 Kent Avenue mixed use residential rezoning proposal in CM Restler's district. The applicant is seeking to enlarge and convert an existing commercial building into a mixed use residential development in Williamsburg, Brooklyn. The proposed redevelopment would have approximately 143 apartments, of which approximately 36 would be permanently affordable. The proposal involves two actions. The first is a Zoning Map amendment to change the existing manufacturing M1-4 district to a mixed use district consisting of a paired M1-4 district with a residential R7X district. The second action is a zoning text amendment to map a Mandatory Inclusionary Housing Area. We are recommending one modification: to remove MIH Option 2, which will require that the affordable apartments are provided at an average of 60% AMI. CM Restler supports this application as modified. I will now turn it over to the Council member for
+
+**(00:07:18)**
+
+
+
+a statement. Thank you so much, Chair. It is good to see you in the seat. I just wanted to express gratitude to the development team at 200 Kent. The developers and their representatives were really great partners through this process.
+
+This is an existing building — many of you know it. We have a Trader Joe's there on the basement level of a five story building on Kent Avenue that was zoned just for commercial use. This is really an area where we have lots of residential development, and allowing for residential development above the existing commercial space is, I think, a very positive thing for our neighborhood. There will still be more commercial space, multiple stories of it. So hopefully we can maintain and sustain the office space that is there and then build a mixture of market rate and affordable housing above.
+
+I am really pleased by this project. The development team is working closely with my office on the BID formation effort that we have on the north side to help improve cleanliness and quality of life across our commercial corridors, our park spaces and our open streets. I am really grateful for their partnership in that endeavor. So this is, I think, a very sensible project and I am really pleased to support it, and I hope my colleagues will do the same. Thanks so much.
+
+**(00:08:46)**
+
+
+
+Thank you, Councilmember. The third and final vote concerns LU 0117-2026 regarding the Flatiron NoMad Major Concessions application for portions of Broadway and Fifth Avenue in CM Wilson's and Epstein's districts. Over the past few years there have been temporary initiatives to re-envision this corridor between 19th Street and West 31st Street to create a more engaging and safer public realm for pedestrians and cyclists. This application would expand the existing Flatiron District concession area to approximately 162,345 square feet of concession area. The expanded area would be managed by the Flatiron NoMad Partnership. CM Wilson and CM Epstein support this application. I would now turn it over to CM Wilson for remarks. Thank you.
+
+**(00:09:51)**
+
+
+
+Chair, it is a major day to vote on a major concession. Since its genesis 20 years ago, the Flatiron
+
+**(00:09:58)**
+
+
+
+NoMad Partnership has been an excellent steward of the area, now extending from Flatiron to all of NoMad at 20th Street and Sixth Avenue. The Broadway corridor, one of the most highly trafficked areas of the City, grew exponentially in a post-pandemic world as demand for outdoor dining, public space activation and pedestrianized streets amplified, and Flatiron NoMad met and exceeded the expectations of what it could do for the neighborhood.
+
+It is my hope that this committee and then tomorrow the whole Council will vote a resounding yes on this major concession agreement. This agreement will significantly expand the ways the BID can generate revenue that will lead to more beautiful public spaces, expanded cleaning services for the district and additional smart compost bins. It also unlocks the future potential for the installation of public bathrooms and water fountains. I am eager to see the ways this agreement transforms the neighborhood for the better.
+
+I want to first thank my colleague CM Harvey Epstein for his partnership and for taking the lead on getting this process started while the Council seat was vacant. Thank you to the BID for all they do to keep our communities beautiful, safe and prosperous. A big thank you to DOT for their collaboration and willingness to think constructively about how we can maximize our ability to invest in public spaces. A big thank you to the Council land use team — Omar, Chelsea, Arthur and Dana, especially Dana — for supporting this effort, and to my Chief of Staff Hannah Moses and Legislative and Budget Director Jacob Bloomfield for their hard work on this since day one.
+
+It is my hope that the Partnership can continue its work by preserving and beautifying the landscape along Broadway and beyond, and that we can be a meaningful companion in that endeavor. Thank you.
+
+**(00:11:49)**
+
+
+
+Thank you, CM Wilson. Are there any Council members with questions or remarks at this time? Seeing none. Members appearing remotely who have questions or remarks about today's items should use the raise hand button now. Seeing none, I will now call for a vote to approve LU 0117-2026 related to the Flatiron NoMad Major Concessions application, to approve with modifications LU 0116-2026 related to the 200 Kent Avenue rezoning, and LU 0118-2026 and LU 0119-2026 related to the 47-03 108th Street rezoning proposal. Counsel, please call the roll.
+
+**(00:12:48)**
+
+
+
+Acting Chair Thomas-Henry?
+
+**(00:12:54)**
+
+
+
+Aye. I vote aye on all. I would like to congratulate my colleagues on two really great projects, especially CM Wilson — this being your first project that is revenue generation for the City of New York. We appreciate it.
+
+**(00:13:07)**
+
+
+
+CM Schulman? Aye on all.
+
+**(00:13:13)**
+
+
+
+CM Salaam? Aye. Minority...
+
+**(00:13:21)**
+
+
+
+Deputy Minority Whip Encarnación? I vote aye on all. And yes, I... okay, let us start that one over. Deputy Majority Whip, aye.
+
+**(00:13:42)**
+
+
+
+Apologies. CM Sanchez, are you online? Yes, I am. Aye. Thank you.
+
+**(00:13:52)**
+
+
+
+Minority Leader Carr? My delegation is now six again. I vote aye on all.
+
+**(00:14:03)**
+
+
+
+By a vote of seven in the affirmative, zero opposing and zero abstentions, the items are approved as described by the Chair and these items are now referred to the full Land Use Committee. Thank you, members.
+
+### 33.
+Preconsidered
+
+### 20.
+Preconsidered
+
+**(00:14:20)**
+
+
+
+We will now move on to the hearings that are scheduled for today, beginning with the public hearing on Preconsidered LU 0 regarding T2026-2339, C 240161 ZMX, the 815 Hutchinson River Parkway rezoning, a commercial rezoning proposal in the Ferry Point neighborhood of the Bronx in CM Aldebol's district.
+
+The proposal seeks to change an existing manufacturing district to a commercial district to allow large retail establishments of 10,000 square feet and larger at an existing commercial center. Although there is a Target that is larger than 10,000 square feet at the site, it is located below grade and the shops at the street level are limited to stores smaller than 10,000 square feet.
+
+For anyone wishing to testify regarding this proposal remotely, if you have not already done so, you must register online by visiting the Council's website at council.nyc.gov/landuse. For anyone with us in person, please see one of the Sergeants at Arms to submit a speaker card. If you would prefer to submit written testimony, you can always do so by emailing it to landusetestimony@council.nyc.gov.
+
+I now recognize CM Aldebol for
+
+**(00:15:50)**
+
+
+
+remarks. Good morning and thank you all for being here today. First, I just want to say that I am pleased that the proposal's zoning change will not add additional height or changes to the footprint and makeup of the shopping center, and rather it will create and expand the commercial usage of the facility, which will encourage further commercial activity in the district, including a possible food hall.
+
+I do want to acknowledge some of the concerns that my office and the community board had regarding a possible increase in traffic, and in particular concern about one of the existing entrances to the mall, which is on the Hutchinson Parkway extension and proximate to the entrance of the Whitestone Bridge. Additionally, the impact on traffic on this site with the construction of Bally's Hotel and Casino. There are also a number of public institutions — a high school, a charter school, a cemetery next door — and an industrial area that surrounds this particular mall, which has historically created traffic issues in the area.
+
+So I hope that we can continue the conversation after this. I fully support the rezoning but want to continue the conversation to make sure that there could be changes to mitigate the concerns of the surrounding area. Thank you for being here.
+
+**(00:18:13)**
+
+
+
+Thank you, Councilmember. I will now call the applicant panel for this proposal, which consists of Justin Jarboe. Joining him online are Geoff Klein and Michelle Delgado. Counsel, could you please administer the oath. Good morning. Please raise your right hand and state your name for the
+
+**(00:18:46)**
+
+
+
+You may now begin your testimony, which is limited to 10 minutes. You should start to conclude your presentation after eight minutes. When you begin your presentation, please restate your name and organization.
+
+**(00:19:01)**
+
+
+
+Good morning, members of the Subcommittee and CM Aldebol. My name is Justin Jarboe of Roth Crew... I am here today on behalf of MD Hutch Owner, the existing shopping center at 815 Hutchinson River Parkway in Bronx Community District 10. Joining us remotely are Adam Roth, zoning counsel for the applicant, former State Senator Jeffrey Klein along with his associate Michelle Delgado, and possibly also present on behalf of ownership, Danielle Cantillo and Aaron Plees.
+
+We are here in connection with the Zoning Map amendment that would change the zoning of a single block on which the shopping center sits, bounded by Lafayette Avenue to the north, of Avenue to the west and Winer Place to the south and the Hutchinson River Parkway service road to the east, from M1-2 to C8-3. The application is sought primarily to expand the range of permitted uses, including the ability to locate uses in excess of 10,000 square feet to serve as an anchor tenant for the upper
+
+**(00:20:07)**
+
+
+
+Floor of the shopping center. This proposal is not sought for an increase in permitted density and no vertical enlargement is sought. The bulk, height, yard and setback regulations of the proposed C3 district are generally the same as those in the M1-2 district. What we are asking for is that the zoning recognize the commercial character of the shopping center as opposed to a manufacturing use, which restricts certain community commercial uses above 10,000 square feet. Next slide, please.
+
+So, we did not show the location of the site. The blocks to the north is the campus of Bronx Catholic School and Monsignor Scanlan High School. Further north is a Home Depot. The area to the south of Winterplace contains single-family homes interspersed with smaller commercial establishments, and then further south along Westchester Creek is a series of single-story warehouses. To the east, across the Hutchinson River Parkway, is St. Raymond's Cemetery, and of course to the west is Westchester Creek.
+
+The site is just south of the Bruckner Interchange, where the Cross Bronx and the Bruckner Expressway meet, and immediately north of the Whitestone Bridge. It is a regional retail location fronting a limited-access parkway and has functioned as one since the center opened in 2013. Next slide, please.
+
+This slide shows the location of the underlying M1-2 zoning district against Westchester Creek and the residential districts that surround it. Dating back to 1961, the applicable provisions of the zoning resolution have prohibited certain retail uses in excess of 10,000 square feet in M1 districts. The 1961 regulations, which remain in effect today, allow toy, hardware, drug and book office supply stores of any size, while food, furniture, clothing, department stores, variety and floor covering and appliance stores are limited to 10,000 square feet.
+
+The nature of retail development has also changed dramatically since 1961, while the restriction has not. COVID in particular changed retail habits, with online shopping reducing foot traffic for certain retailers. Recognizing the importance of flexibility for a shopping center, importantly, retailers like grocery stores remain quite active as most shopping is still preferred in person and can serve as an active tenant to bring foot traffic to a larger shopping center, which in turn supports the adjacent businesses.
+
+However, based on the current M1-2 zoning, a supermarket cannot be located within the center today — a use that has repeatedly been indicated as needed and would be very desirable for this location. As a matter of background, this block was zoned M1-2 at the inception of the 1961 zoning resolution, when the area had more of an industrial character with warehouses lining Westchester Creek. It subsequently sat vacant until it was developed as the shopping center in 2013, and given the size of the shopping center, there is no plan or reasonable expectation that the property will be used for a manufacturing use. Next slide.
+
+**(00:23:20)**
+
+
+
+Please.
+
+**(00:23:27)**
+
+
+
+Sorry. Here we show the existing M1-2 and the proposed C3 district as well as the boundary of the rezoning area, which is coterminous with the shopping center. Purely, we are not proposing to rezone any property we do not own and no other lots are affected. The C3 district is intended as a bridge between commercial and manufacturing uses for large amounts of land typically required, which describes this nearly eight-acre site. The change to C3 would appropriately allow a wider variety of stores in excess of 10,000 square feet, including a supermarket.
+
+**(00:24:00)**
+
+
+
+You could skip ahead to slide nine, please.
+
+**(00:24:01)**
+
+
+
+So these photographs show the existing conditions along each frontage: Lafayette Avenue, Brush Avenue, Winterplace and the Hutchinson River Parkway service road. The site contains about 410,000 square feet of development, of which only about 100,000 is actually zoning floor area, so it has a floor area ratio of 0.28. The building rises to a maximum height of 37 feet and it provides about 875 parking spaces, 606 of which are located on the rooftop or the upper floor of the structure, and about 10 loading berths. Current tenants include a Target as the anchor tenant on the lower floor, which is located below grade and as a quirk in the zoning does not count as zoning floor area and is therefore permitted as of right. The upper floors are developed with a Pollo, Five Guys, a Starbucks and several smaller retail outlets as well as a location for the New York Blood Center. I think you can go to slide 12, please.
+
+**(00:25:15)**
+
+
+
+So this is an illustrative
+
+**(00:25:16)**
+
+
+
+depiction of development that would take place to facilitate a new grocery store, which would be located on the upper floor. It would involve about a 10,000 square foot addition on that floor to accommodate a 30,000 square foot grocery store, and while it will involve a reduction of about 49 parking spaces, there are about 800 parking spaces that would remain, which would be sufficient to accommodate parking at the shopping center.
+
+I will note that no grocery store operator has been identified at this time, as a specific store will not sign a lease or undertake the large capital investment until the zoning is in place. Also note that no specific stores are being replaced or displaced at this time. When the application commenced, there was a larger Party City store that had gone out of business and that space was identified as a likely location for a supermarket. However, because of the length of the application, during that time that space was leased to the New York Blood Center.
+
+So if and when this application is approved, ownership will explore a location within the center for a supermarket, which is most likely the area shown in red on these plans. In regards to traffic, if you go to the aerial — it is the next slide, please. Right, thanks.
+
+Before I close, I want to address Winterplace, because traffic has been a concern along that roadway. Neighbors on Winterplace have experienced the use of their street by commercial traffic leaving the center and heading to Brush Avenue due to a mandatory right turn out of Lafayette Avenue. So we took that concern seriously and engaged in discussions with the Department of Transportation and retained an engineering firm to prepare plans showing the creation of a new left turn out of Lafayette Avenue across an existing traffic island, thereby redirecting traffic away from Winterplace.
+
+However, upon meeting with the Bronx, we were advised that a cut-through along Lafayette would not be possible because of a proposed safety plan that includes a new bike lane along Lafayette Avenue, which has not yet been finalized. In the event that plan is not implemented, we are happy to revisit the creation of a cut-through, and in the meantime, ownership will continue to notify its tenants to direct their suppliers away from Winterplace and remains open to discussing how to address the ongoing traffic problems.
+
+I should note that based on the extensive traffic studies performed as part of this application, and given the absence of a substantial increase in square footage, the addition of a supermarket is not projected to have a noticeable impact on Winterplace in terms of new traffic. Also, as you mentioned before, Community Board 10 overall voted in favor of the application and the Bronx Borough President also recommended approval. So I think that concludes our presentation and our larger team is available to answer any questions you might have.
+
+**(00:28:19)**
+
+
+
+Thank you. I just have one question about this proposal before I turn it over to CM... So you mentioned the grocery store, which would be approximately 29,500 square feet, but you have not identified a grocer yet. So
+
+**(00:28:34)**
+
+
+
+I am just curious why the applicant is seeking the rezoning now without a
+
+**(00:28:40)**
+
+
+
+grocer identified. Because a grocery store will never sign a lease until we have the zoning in place. So once we have the zoning in place, then we can identify a tenant.
+
+**(00:28:47)**
+
+
+
+OK. And then are there other retailers that are currently there now interested in creating a larger footprint at the site?
+
+**(00:28:57)**
+
+
+
+Not to my knowledge. Perhaps someone from ownership who is online could also answer that — whether it is existing or other potential tenants that would be interested in a larger footprint.
+
+**(00:29:15)**
+
+
+
+As of now, we have not spoken with any tenants who would like a larger footprint. As he stated in his presentation, we did have interest from a supermarket for taking over the Party City space and we have been going through the zoning process for several years now. So over the course of the many years that has gone by, we have filled that space. But there has been a conversation with supermarkets, but no other tenants for that size space.
+
+**(00:29:46)**
+
+
+
+Thank you. I will now recognize the Council Member for questions. Yeah, I do want to press you a little bit on potential tenants, because I assume you have had discussions with potential supermarket chains. Who have you been having discussions with? I have to say that it is in the district's interest to have retailers that are going to create good jobs, and that any development that occurs in the district creates good jobs. So just wondering what retailers have you had discussions with, what supermarket chains have you had discussions with? I think someone is coming on. I am sorry, just before you jump in...
+
+**(00:30:54)**
+
+
+
+Whoever just spoke online, I think I would like to respond to this question. Could you please state your name?
+
+**(00:31:00)**
+
+
+
+I am sorry. My name is Danielle Cantillo. I am one of the owners of the shopping center. Thank you. Unfortunately, Aaron Molinski, who is one of my partners, is the person in conversation with the supermarkets, and he is not on today, I believe. So I am not able to tell you who he is currently speaking to for the space.
+
+**(00:31:26)**
+
+
+
+Okay, so we can follow up on that. Yeah.
+
+**(00:31:29)**
+
+
+
+Hello. Yes, this is Adam Roth, counsel. So at some of the other hearings that we have had before the community board and in other conversations, Mr. Molinski has indicated interest from a wide variety of different supermarkets at all different kinds of levels over the years. But we have heard the Council Member's concern with regard to the types of jobs that will be created, so we will definitely keep that in mind moving forward when we start seeing if there is concrete interest. The community was excited to have a potential supermarket at this location and there definitely is interest from some of the more active supermarket chains.
+
+**(00:32:25)**
+
+
+
+So the Blood Center and everything on that side of the mall are going to remain there. Is that correct? Yes.
+
+**(00:32:35)**
+
+
+
+Any supermarket — we are not looking to obviously lose any existing tenants. As we said, this issue came to the forefront before the Blood Center took over the Party City space, and then we realized that you really need to plan for the future. So any new supermarket or expansion to accommodate additional floor area would involve potentially relocating other tenants within the center and again waiting until there is a suitable space available.
+
+**(00:33:09)**
+
+
+
+And with respect to the entrance to the mall on the Hutchinson River Parkway side that leads to the Whitestone Bridge, that has been a problem in the community for a long time. And if you have more traffic flow, I mean, Lafayette Avenue gets
+
+**(00:33:34)**
+
+
+
+clogged whenever there is a problem on the Whitestone Bridge, and on Lafayette Avenue to get to the mall what should be like a five-minute drive... So that is a huge concern for people who are commuting from the school, taking the bus into Queens. There is a lot going on there, and then adding, you know, Valley's Casino doing construction there, you also have the PepsiCo trucks coming in and out. So it is just a little concerning to me that there is an entrance there to the mall that obstructs the traffic even further. And it is not just about traffic being a nuisance, but fire trucks, ambulances, emergency vehicles cannot get through there. So what plans do you have to mitigate that
+
+**(00:34:43)**
+
+
+
+situation? So a couple of things. One is, as you know, there is a difference in grade on the site, so we cannot get to the upper level from Brush Avenue because there is a significant difference in grade.
+
+**(00:34:59)**
+
+
+
+As indicated, we have been meeting and did meet with DOT. We were trying to open up some better circulation along Lafayette Avenue, and we were actually surprised to hear about their bike lane proposed there because the community had previously indicated opposition to that plan. So that has not been finalized — it has not even been presented to the community yet. So hopefully with Valley's coming and with these concerns, we will be able to work and come up with a better solution, potentially again increasing use of Lafayette Avenue as opposed to the traffic coming from the service road.
+
+**(00:35:46)**
+
+
+
+Yeah, Adam, if I can just also chime in. Geoff Klein, I represent Simone Development. Council Member, yes, we were all prepared and had an engineer that actually did a traffic study and actually did a traffic remediation plan along Lafayette. We were surprised because we were moving ahead with it, as the previous administration had backed away from the bike lane proposal on Lafayette. So we were good to go on that remediation
+
+**(00:36:15)**
+
+
+
+project. Actually, a week before we presented to Community Board 10, I was in touch with the Bronx DOT and that is when they told us they could no longer work on our plan because it would interfere with what they had proposed.
+
+**(00:36:29)**
+
+
+
+Great. So if that project falls by the wayside like it did in the past, we are still open to doing traffic remediation on Lafayette. Okay. Those are my questions. Thank you. I now turn it over to Council Member
+
+**(00:36:49)**
+
+
+
+Farías for questions. Thank you, Chair, and thank you to CM... for her questions. Just to kind of piggyback off of some of those — I do remember from when Party City was open and even from the Blood Center, I recently gave blood there. Is there an elevator that goes down that can bring people down to the bottom parking lot, or is that solely for the use of Target? Is Target the only location on the campus that has an elevator going down to the downstairs parking lot? So it is a separate condo and Target owns their level. OK, got it.
+
+I asked that question just in the same respect of how to facilitate better traffic movement in that area. I do not know if in the construction there is a possibility there, if there is another way to bring people through. I think many of us who go to that mall would like to see a throughway on the Lafayette side, and I am happy to support whatever conversations the Council Member is having. As someone that borders that district, I know plenty of my neighbors and residents shop at that mall.
+
+But additionally, it would be interesting to hear from you folks as to, through construction, what other areas you could have that can reach the bottom parking lot, especially if we are bringing in a commercial space like a supermarket. In my older mall, shoppers can go to the parking lot upstairs or downstairs and that helps facilitate traffic and how people get to access the market itself.
+
+**(00:38:28)**
+
+
+
+So just throwing that out there in case there are ways that we can maneuver around it. I know there are several exits, but it leads to the one pathway where we have to all loop around the entire edifice to get back onto the roadway by the Home Depot and the Target entrance.
+
+Again, I want to also reiterate that there are a bunch of good partners — yourself, the Valley's folks, PepsiCo — that I think all are in that area and could maybe all convene and figure out a way to help put some local investment or some ideas together to help make the traffic in that area better. It is one of the main traffic ways to get onto the Throgs Neck Bridge and we know how busy that bridge is. It causes a lot of traffic.
+
+However I can be helpful there, please let me know. But I just think, to support CM... here, it is a highly utilized space and we obviously would like to see as many businesses as possible that can bring resources to the district, but also not completely forget the main issue there, which is the flow of traffic and how we will be getting more people into that area, especially if we are creating a different resource in this space by bringing in a supermarket. Thank you.
+
+**(00:40:01)**
+
+
+
+Obviously appreciate your offered support. Again, we thought the cut-through on Lafayette was a really good potential solution and we still think that could be a possibility. As indicated, a lot of the time spent on this application was examining potential traffic impacts, and along with the Valleys project, looking at their traffic as well. The end result with regard to our development was that even the addition of the supermarket would not significantly increase the amount of traffic to the site for our customers and our tenants there. Again, due to the limitations of the geography and the changing grade, the Lafayette Avenue solution seemed to be hopefully the most valuable. Again, we are hopeful because the safety plan or bike plan has not gone through yet that maybe it will be reconsidered, and obviously your help, along with everything else, would obviously be helpful, I am sure. And just to utilize my last 35 seconds... I lost my question. It has disappeared from my brain. Okay, if it comes to me, I will follow up with the folks. Thank
+
+**(00:41:27)**
+
+
+
+you. Thank you. Thank you, Councilmember. How are you doing? Okay, I just wanted to know. Apologies. Sure. Thank you. I just wanted to know: have there been any conversations? I know Target, since it is on the main floor and also has a supermarket within its facilities, is there any concern about bringing in a retailer that might have competition between the two, or is that something that you folks are not worried about in bringing a potential new
+
+**(00:41:56)**
+
+
+
+supermarket retailer? And thank you for entertaining my question as I lost it and it came back to me. Sure, so as indicated, Target actually owns their own space as a condominium. Again, there has still been over the years substantial interest by a variety of supermarket chains, and as indicated, as far as the rest of the stores, it really is important to have an anchor for the upstairs too, to draw in that traffic. You know, changes in the retail environment. All right.
+
+**(00:42:37)**
+
+
+
+Thank you, Counsel. Are there any members of the public who wish to testify remotely or in person regarding this proposal? No, Chair, we do not have anybody signed up at this time, in person or online. Okay. I will say if there are any members of the public who wish to testify regarding this proposal remotely, please press the raise hand button now, or if you are in person, please identify yourself to one of the sergeants. Okay. There being no other members of the public who wish to testify regarding the preconsidered LU related to the 815 Hutchinson River Parkway commercial rezoning proposal, the public hearing is now closed and the item is laid over.
+
+**(00:43:31)**
+
+
+
+I will now open the second hearing on the preconsidered items regarding the 862-868 Kent Avenue residential rezoning proposal in Bed-Stuy, Brooklyn, and CM Restler's district. The applicant is seeking to develop a mixed use residential building that would have approximately 74 apartments. Mandatory Inclusionary Housing would be met as part of this application, which would require approximately 19 of the apartments to be permanently affordable. For anyone wishing to testify regarding this proposal remotely, if you have not already done so, you must register online by visiting the Council's website at council.nyc.gov/landuse. For anyone with us in person, please see one of the sergeants at arms to submit a speaker card. If you would prefer to submit written testimony, you can always do so by emailing it to landusetestimony@council.nyc.gov. I will now turn it over to CM Restler for remarks. Thank you so much, Chair. I am getting used to this.
+
+**(00:44:46)**
+
+
+
+I do not know about all that. I was saying that this is a small one, but our district, just for your awareness, Chair, has shrunk the most in redistricting this last time around by, I think, 18%, because we have seen the most development in our district of any in the City.
+
+**(00:45:02)**
+
+
+
+I failed in my previous comments to recognize my colleague Hanif, who worked on the 200 Kent project along with me, and it was her idea to really bring the development team into the BID formation process. I think that was just really helpful and smart on her part, so I just wanted to thank her for her hard work in helping to get that project done so smartly. This is a good project as well. I always love when the development team lives in the neighborhood, and in this instance, one of the two developers does not just live in the neighborhood but lives down the block. So the project that is being built here is really for the community that lives here, that works here, that spends time here. The commitments around community facility space are impressive. The developer has already, I think, dramatically changed the planned unit size breakdown of the project, so we are going to see a lot of two bedrooms, three bedrooms, even four bedroom units in this project. It is not too many projects where we see a majority of the units are multiple bedroom units, but that is what we have here. I am really excited about the shul, the mikvah, the community facilities — they are going to meet the needs of the whole neighborhood. So I think this is a very positive project and I am happy for the development team
+
+**(00:46:32)**
+
+
+
+to share more insights. And thank you, Councilmember.
+
+**(00:47:18)**
+
+
+
+Sure. My name is Eric Pollack. I am here on behalf of the applicant, and Saul Federer, the owner and developer, is on the line as well for any questions. I will be rather brief on this because we have had great communication going on with the Council member and the
+
+**(00:47:33)**
+
+
+
+community board and the Borough President. Everybody has been supportive of the application. If you go to the next page, I will just run through the project very briefly for you. The right hand side of the screen shows an R6A and M1-4/R6A mixed district. It is consistent with the R7B district that is just adjacent to it. It will produce two buildings. Building A will be nine stories tall and will have 50,000 square feet of floor area. Building B will be six stories tall and will have 13,000 square feet of floor area. Overall, the entire development will have 74 total dwelling units, 18 permanently affordable, as the Council member mentioned. It will include 35 two-bedrooms, 7 three-bedrooms, 4 four-bedrooms, 23 one-bedrooms and 5 studios, so it is rather heavy on the multiple bedroom scenario. We are proposing to include a synagogue at the cellar level of Building A. I will stop my testimony there because I do not know if any further speaking is necessary, but you let me know if it is.
+
+**(00:48:39)**
+
+
+
+Well, if Restler says it is not necessary, I guess it is not necessary. I do have two quick questions and I will turn it over to my colleague. Can you explain why the proposed rezoning area excludes the one property along Taaffe Place? Is it only a map change? There is only a map change on page three. I am not
+
+**(00:49:04)**
+
+
+
+quite sure which property you are speaking of. This shows you the zoning map change, so I am not sure which property is being left out that you are referring to. It extends all the way from the rear of the properties that front Myrtle Avenue for a distance of 240 feet down Taaffe, and that is the entire rezoning area on that being redeveloped.
+
+**(00:49:32)**
+
+
+
+No, there are only two properties being redeveloped within that rezoning. Okay, okay. And so why not... so it is two of the three.
+
+**(00:49:40)**
+
+
+
+Yes, two of them. If whoever is controlling the screen could go to slide two, please. So slide two, at the bottom in the middle, if you can make that out, you can see in blue those are the two sites that are being rezoned. The area surrounded by the dots is the entire rezoning area, so not all the properties in the rezoning area are proposed to be redeveloped at this time. Gotcha. And how would the bulk of the proposed building compare to the neighboring school?
+
+**(00:50:11)**
+
+
+
+Oh, that is easy. The neighboring school is very analogous in height to what we are proposing. If you go to slide five...
+
+**(00:50:23)**
+
+
+
+Oh, there you go. Okay, you can see there. The school is on the right hand side of the green box. The school's height is about 87 feet. We are proposed to be at 90 feet, so we are very similar. Okay. Thank you, CM Restler.
+
+**(00:50:39)**
+
+
+
+Thank you so much, Chair. Thank you for the clear and brief presentation. I had a couple of things I wanted to ask about. There has been a change in ownership in this process and we have been discussing this site for a number of years now. I should say on the record, and the Chair will enjoy this, that CM Gutiérrez had her baby shower party at this location five years ago, maybe even longer, before we were in the City Council. It was a great time, so we are going to miss Lights Out. But I did want to check: there are two businesses at this location. One is Lights Out, which again CM Gutiérrez in particular will miss, but so will all of us. Where is Lights Out going, and the confectionary business — what is their status and where are they relocating?
+
+**(00:51:32)**
+
+
+
+The confectionary business has gone already. They have relocated to New Jersey. Lights Out is going to 73 Kent Street, which, until I heard that, I did not know that there was a Kent Street in addition to Kent Avenue. You should come to Greenpoint more. It is still in the district, so okay, so they are going to be in Greenpoint there. Okay. And the business that is relocating to New Jersey — they employ a healthy number of people, so they are in a good position. If we call that business they are going to say they are very happy and that everything is okay. Yeah. So Federer is on the line right now if you want to speak to him about this. You have been in touch with that business owner from Lakewood, or where is he from?
+
+**(00:52:14)**
+
+
+
+Yeah, he is from Lakewood. We actually helped them facilitate the move. Yeah, they invested a lot of money in the production. You know, it used to be a bakery, right, and we helped him a lot with the moving expenses and reproducing all the machinery at that location. Okay, so they are
+
+**(00:52:32)**
+
+
+
+happy. Yes. Good. I appreciate it, Federer. That was something I had been concerned about for a number of years. I am very pleased that that was addressed. And I did want to ask: so the plan is currently for both a shul and a mikvah on site, is that correct? Yes. And I think the other thing I just wanted to check in on is: are you open, if we decide to do option one, is that something you are comfortable with?
+
+**(00:53:19)**
+
+
+
+One versus the other two options. Yeah, that is right.
+
+**(00:53:27)**
+
+
+
+So just before you continue, can you please restate your name for the record so we all know who you are?
+
+**(00:53:33)**
+
+
+
+Sure, I am sorry. My name is Solomon Federer. Thank you. We were looking more to do all three options, not because we are planning to go as high as the options allow — it is more for the banks, the banks would like to see that. But in this neighborhood we have other buildings where we charge even below market, which is, you know, interesting for a developer in the City, but that is what we try to do. We have three buildings in the neighborhood where we still have one-bedrooms in the low thousands.
+
+**(00:54:13)**
+
+
+
+I understand. I know, Federer. I think that in every single rezoning I have approved, I have insisted on option one. So I am not sure that I am prepared to break precedent, because then the next person who comes along might think that they can bully me. That was a joke. But thank you for laughing, William.
+
+**(00:54:28)**
+
+
+
+William was the only one who laughed. But I have to say,
+
+**(00:54:32)**
+
+
+
+Federer, you have a sterling reputation in the community. Many community leaders have gone out of their way to say to me that what you are doing here is really for neighbors and for people who are vulnerable, people in Williamsburg, people who need help. And that is really the spirit of this development. So that is why I am as supportive as I am. We will continue the conversation and we will continue the conversation if there is anything else that we can do to benefit the neighborhood as this proceeds. But more broadly, I think this is a very positive thing and I am really happy that you have already identified good solutions for the local businesses on site and that you are really meeting the needs of our community with new affordable housing, with larger units, with important community facility space in this project. So I really just want to thank you for taking this on and I look forward to working together.
+
+**(00:55:33)**
+
+
+
+Thank you for your kind words. I just want to make the Council aware that the reason why we are doing this project is because we have a synagogue right around the corner on Taaffe Place and basically all the neighbors from the neighborhood — the synagogue has basically grown out of its space. We literally have zero seats available, and the reason why we are doing this development is because of the synagogue. Then as a benefit, we get a lot of housing, and so those are exactly the right things to do in America. So with that, thank you very much and thank you, Chair, for the latitude.
+
+**(00:56:10)**
+
+
+
+No problem. Thank you, Counsel. Are there any members of the public who wish to testify remotely or in person regarding this
+
+**(00:58:33)**
+
+
+
+Yes, yes. Thank you. You may now begin your testimony, which is limited to 10 minutes, and you should start to conclude your presentation after eight minutes. When you begin your presentation, please restate your name and organization.
+
+**(00:58:50)**
+
+
+
+Thank you, CM Thomas-Henry. Again, my name is Frank, talking with Ackerman. I am joined by the applicant in your Esposito and some members of the community. We are here to present a transit-oriented rezoning on Northern Boulevard to facilitate a new development of a 10-story mixed-use building with 73 apartments, 19 of which would be permanently affordable under MIH Option One. Next slide, please.
+
+This is a zoning map that shows that the rezoning area is in the Flushing Hill neighborhood of Queens Community District 7, on the south side of Northern Boulevard between 158th Street and 159th Street. That is currently zoned R5B with a C1-2 along Northern Boulevard and R2 on the southern portion of the block. They are within the outer transit zone, and you can see as indicated on the zoning map on the left-hand side of the screen, along Northern Boulevard there have been several medium-density R6 and R7 districts mapped beginning in 1961 and as recently as spring of 2026, with an R7X at 147-14 Northern Boulevard, about nine blocks to the west.
+
+Also note that there is a large R1-2A zone district mapped on the northern side of Northern Boulevard, north of Northern Boulevard, which was created in 2009 in the North Flushing rezoning to protect the interior blocks, and was distinguished from Northern Boulevard as it is mapped about a hundred feet from Northern Boulevard. Next slide, please.
+
+This land use map shows that along Northern Boulevard it is mostly commercial, shaded in red, and residential shown in yellow along the mid-blocks. There are also several local community facility uses shaded in blue. Northern Boulevard is a major east-west corridor through Queens at 100 feet wide. To the south, the combined width of the Long Island Railroad right-of-way and Station Road is approximately 130 feet, creating a wide street condition on the southern edge of the block where the rezoning area is located. The area is transit-oriented with bus and Long Island Rail Road connecting the subway and mass transit systems. Next slide, please. If we could just go one more slide. Thank you.
+
+The rezoning area is shaded here again on the south side of Northern Boulevard. It is typical of block fronts on both sides of Northern Boulevard, mostly commercial uses with local retail, and then that low-density residential context. It is off on the corner of Northern and 158th Street. The adjacent property that is included in the rezoning area along Northern Boulevard, wrapping 109th Street, is the Galaxy Plaza Shopping Center, a multi-tenant commercial shopping center with, I believe, upwards of two dozen small business tenants. The Taqua Islamic Center is located just to the south of the Galaxy Plaza Shopping Center along 159th Street, which is a community facility use. Next slide, please.
+
+So in this view looking at the opposite side of the street, you can see the clear difference between the Northern Boulevard context and the context off the corridor, again with the commercial non-residential use along Northern Boulevard and then that lower-density residential context at the mid-blocks along 159th Street. As I just noted, it has been historically and currently nonresidential and faces an entirely non-residential block on the opposite, or east, side of 159th Street, which is why the zone district boundary stretches to the south along 159th Street. Next slide, please.
+
+Project details are shown here. The proposed R7A medium-density contextual zoning district, when mapped, facilitates the development of a 10-story mixed-use building with about 73 total apartments, a portion of which would be permanently affordable. The breakdown is shown here. It would also have a cellar parking garage, although no parking is required. The applicant is looking to provide approximately 26 spaces, which is about 35% of the total number of units. About 47% of the standard units would be in an all-electric building. This project aligns with City housing policy by facilitating development on a wide arterial corridor near transit.
+
+Next slide, please. The details of the breakdown are shown here again. This is Option One, which requires 25% of the residential floor area to be set aside at a weighted average of 60%, with 10% at 40% AMI, resulting in 18 units at 40%, 60% and 80% range of incomes. Community District 7 has the highest rent-burdened population in Queens, just under 57%. It is the third highest in the City. That concludes our presentation. We are happy to answer any questions.
+
+**(01:04:40)**
+
+
+
+Thank you. And I have a few questions. Have you engaged with the owners of the two non-applicant sites in the rezoning area?
+
+**(01:04:51)**
+
+
+
+We have had conversations with them, but they are not actively involved in this rezoning effort.
+
+**(01:04:57)**
+
+
+
+What is the plan for the proposed commercial space? It is undetermined at this point.
+
+**(01:05:01)**
+
+
+
+This is a very active local retail corridor. There are some national businesses, but it is generally local retail. So we have not decided, but I think there will be a very good market for local-serving retail.
+
+**(01:05:18)**
+
+
+
+OK, just a point of information. A block away, there were some local retailers that recently had to close down. And I think it is literally across the street from you. It was a cleaners and a restaurant that had to close because the owner was selling the property. So they have been — at least the cleaners has been — a long part of the community for several years. Maybe a consideration.
+
+**(01:05:40)**
+
+
+
+Thanks for that information. I will note the developers are locally based, so we are happy to create connections with retailers seeking new space.
+
+**(01:05:51)**
+
+
+
+And the existing space — you mentioned, I believe, there are businesses in the space commercially now? No, sorry. No, it was previously a dialysis center that has been...
+
+**(01:06:01)**
+
+
+
+...demolished. So the site is currently vacant and cleared for development. Gotcha.
+
+**(01:06:06)**
+
+
+
+Okay, the community board has expressed concern that the proposed development is out of scale with the surrounding neighborhood. Can you explain why R7A is appropriate for this location?
+
+**(01:06:18)**
+
+
+
+Yeah, absolutely. I will note that Community District 7, although they ultimately recommended disapproval, did vote about 26% in favour of the project, so it was not a complete opposition. The R7A has historically been mapped along wide commercial corridors throughout Queens and throughout the City. Northern Boulevard in particular — R7A is intended to be mapped on wide streets like Northern Boulevard, and bulk regulations ensure appropriate massing to protect adjacent lower-density areas. So we believe that this project aligns with City policy. Also note that allowing higher-density development on arterial corridors such as Northern Boulevard serves City housing policy, and the R1-2A to the north of the project protects low-density residential mid-blocks. I would say that these are complementary policies to both protect low density and allow appropriate growth where appropriate, such as on Northern Boulevard.
+
+**(01:07:28)**
+
+
+
+Currently on Northern Boulevard, are there any within a two-to-three block radius, either east or west? Within a two-to-three block radius?
+
+**(01:07:41)**
+
+
+
+This area was zoned R5B in 2005, so just over 20 years ago, and has really remained very low density. Just to the west, about nine blocks away, there is an R6. About nine blocks away, the City Council approved an R7X, which allows a 14-story building at an FAR of six, so a bit higher than the proposed R7A here. There is also an R7-1 and an R6 mapped a little bit farther beyond that R7X, which allow 12-story developments.
+
+**(01:08:17)**
+
+
+
+So the context is not there currently with respect to the R7A, but we believe that the rationale for it is certainly met at this transit-oriented site. What is the intended height of this building?
+
+**(01:08:34)**
+
+
+
+The intended height of this building is only 10 stories. However, the R7A envelope would allow an 11-story building by virtue of a more efficient building design and considerations of some of the 26 parking spaces in the proposed...
+
+**(01:08:58)**
+
+
+
+...rezoning area. It is L-shaped, including two lots on Northern Boulevard and a third lot occupied by the Islamic Center on 159th Street. Unlike Northern Boulevard, 109th Street is a narrow street that terminates at the LIRR right-of-way one block south. Can you explain the planning rationale for including this third site within the rezoning area?
+
+**(01:09:22)**
+
+
+
+Absolutely. Really, the thinking was that again, this eastern portion of the block and then the western side of 159th Street has historically been nonresidential. The Galaxy Plaza Shopping Center wraps a significant portion of the block, and then the Islamic Center — I think that site has historically been a house of worship. It is immediately to the south. The two frontages of roads and the Long Island Railroad effectively create a wide street condition similar to Northern Boulevard on the north side of the block. That side of the block also faces an entirely commercial, or commercial and community facility, block across 159th Street. So the thinking here was that wrapping the zoning, including the commercial overlay, would make the Galaxy Plaza Shopping Center entirely conforming in terms of allowing the commercial use to continue in a conforming manner with zoning. And if the Galaxy Plaza Shopping Center or the Islamic Center were redeveloped, they would be consistent with the rationale for the project that we are here seeking zoning for.
+
+**(01:10:49)**
+
+
+
+Those are my questions. This panel is excused. Thank you.
+
+**(01:10:57)**
+
+
+
+Council, are there any members of the public who wish to testify remotely or in person regarding this proposal? Yes, Chair. So we have four people who signed up in person and then one person online, and we will start with the in-person testimony at this time.
+
+**(01:11:13)**
+
+
+
+I now call... okay. Members of the public here to testify, please note that witnesses will generally be called in panels of two to three people. If you are a member of the public signed up to testify, please stand by when you hear your name being called and prepare to speak when I indicate that you begin. Please also note that once all panelists in your group have completed their testimony, if participating remotely you will be removed from the meeting as a group and the next group of speakers will be introduced. Once removed, participants may continue to view the live stream broadcast of this hearing on the Council website. Members of the public will be given two minutes to speak. Please do not begin until the Sergeant at Arms has started the clock.
+
+**(01:12:08)**
+
+
+
+The following individuals who signed up to testify should now come to the witness table: Ken Morris and Maria Becca.
+
+**(01:12:31)**
+
+
+
+Kevin, you begin. Members of the Council, the site on the corner of 158th Street and Northern Boulevard is a major intersection of northeast Queens. The geography and the Port Washington Branch of the Long Island Railroad are instrumental in making the center section as busy as it has become, because that railroad right-of-way blocks typical north-south traffic on the Queens street grid. This happened because the railroad tracks are sunk below grade at the Murray Hill Station just 10 blocks west. At 258th Street the tracks rise to grade level at 155th Street, and east-west concrete walls block north-south streets at 158th. The tracks carry on a trestle over the street, providing passage along this route. East of 158th, the tracks again are at grade and a concrete wall resumes to another trestle. This makes a funnel of traffic into 108th Street on the north side. On the south side, the situation was so critical that parking was banned from Stanford Avenue. As you know, the COVID crisis made people register cars in great extensive numbers and there are more cars on the streets now. People who buy property in this development will bring their cars with them. What had been a small shopping area became a destination because there are now at least three dining and drinking establishments between 157th and 158th on the south side of Northern Boulevard, right across from St. Andrew's Church.
+
+There is a school between 157th and 158th just north of this project, and there is a mosque, as was indicated, one block south. These community uses will attract traffic for the foreseeable future. The surrounding streets are choked with cars and permitting this building would just exacerbate the problems. We say if you want to develop, go to Flushing Airport. Thank you.
+
+**(01:14:48)**
+
+
+
+Thank you for your testimony. Maria, you begin. Thank you. Good afternoon. My name is Maria Becky. I am a homeowner. I have been a homeowner in the North Flushing neighborhood, or Broadway Flushing, for more than four decades.
+
+**(01:15:05)**
+
+
+
+I stand here opposed to the rezoning application by Northern 158 Holdings LLC. My opposition is neither a zoning nor a market value issue. It is about preserving a lifestyle choice in New York City. I am asking for the support of CM Sandra Ung. Please consider the following. The application is completely out of character and not aligned with the area. The application was voted down by Queens Community Board 7. Yes, they asked for a little more housing, but Community Board 7 has clearly demonstrated that it has exceeded its obligation. Some background: in 1906, the Ricketts-Finley Realty Company...
+
+**(01:15:51)**
+
+
+
+...converted farmland into a planned garden suburb modeled after the Forest Hills Gardens, with an emphasis on uniform beauty, open space and architectural order. To preserve this character permanently, restrictive covenants were embedded directly into the body of every deed. The restriction is perpetual. In 1964, the Broadway Flushing Homeowners Association was incorporated with the purpose of protecting both the Zoning Resolution of 1961 and the covenant. Our association is highly respected for working with all City agencies. Broadway Flushing stands as one of Queens' enduring masterpieces of planned residential design. It is a desirable multicultural enclave for families seeking convenience and serenity. I respectfully request that the Land Use Committee consider all these factors, restore balance and harmony to the community, and please vote no on this rezoning.
+
+**(01:17:01)**
+
+
+
+Doing so would overlook the enforceable deed restrictions. Wrap up. Ignore historical significance and legal precedent. Thank you for the opportunity to provide testimony.
+
+**(01:17:14)**
+
+
+
+Thank you for your testimony. This panel is excused. I will now call the next two speakers up: Cindy Wong and Ming Wang. Cindy, you begin.
+
+**(01:17:43)**
+
+
+
+Hi, glad to meet everyone. My name is Cindy. When I first came to the States years ago, I never believed in a world where a few people paying $3,000 a month for a three-bedroom, three-bathroom in the Flushing area would be considered normal. That rent is totally out of reach, while many people's incomes have been impacted, especially after the pandemic. I can speak for my job, where lots of jobs have been outsourced to another country or impacted by AI. So for many of us, it needs to take a pickup in all areas in order to find another job. Also, I do have friends still living in a basement. Not many people talk about this, but it does exist. This tells us the housing crisis in the Flushing area has changed. It is not like a decade ago.
+
+So my parents live on Casino Boulevard in Flushing by Central Avenue, which is like 15 minutes' walk from this new project, and so I would like to stay in this state and this community to take care of them as they are getting older. I do not want to leave. I am also concerned about my next generation, my children. How can a young person, a new graduate starting out on a normal salary, afford to buy a house? The Flushing one-family to two-family house easily reaches over one million, like across to two millions. So when I grow up, I want them to be able to afford to live in this Asian-American community where they were raised. So I personally think that we need more housing options besides one-family or two-family. I strongly support this housing project with affordable rental units. Please wrap up. Thank you.
+
+**(01:19:56)**
+
+
+
+Thank you.
+
+**(01:19:57)**
+
+
+
+Ming? Yes. Hello. My name is Ming Wang. I have been living in the Flushing area about 10 years. I have two kids and my family are currently renting. Over the years I have seen rent in the area continue to grow, and it is becoming harder and harder for regular working families to afford to stay in the neighborhood. I fully support this housing project at 158-06 Northern Boulevard. I believe we need more affordable housing projects like this in our community. A 10-story building can provide many more families with a chance to find a home they can actually afford. As a member of this community, I see how high rent is affecting middle-class families, especially many Asian families in Flushing. People who were raised here, raised their children here, support local businesses and want to stay in the community, but housing costs are making that more difficult every year. I hope this project can be approved as soon as possible. We need more affordable housing for working and middle-class families, and I believe this project will be a positive step forward for our community. Thank you for listening to the people who live here and considering our families. Thank you.
+
+**(01:21:08)**
+
+
+
+Thank you. This panel is now excused. We do have one person wishing to testify online: Michelle Pharaon. Michel Pharaon?
+
+**(01:21:27)**
+
+
+
+Yes, that is me. Okay, you can now begin. Yes. Thank you.
+
+**(01:21:29)**
+
+
+
+Good afternoon. I just want to thank the panel and everybody for the opportunity once again to give a point of view. I totally support the Broadway Flushing Homeowners Association. It is there for a reason, has been in place for a significant amount of years. It is pretty smart, hardworking people of this community. I think we are all of the mind that we understand change. Change is always welcome, usually brings productivity, it brings jobs, and we all welcome that. My only hope will be to see if we could arrive at something that is mutually beneficial for the community on both sides — for housing and also the homeowners that have worked hard to maintain their property. So I just ask the Council to please consider that. I think that if we can keep something more in the aesthetic of the neighborhood and not something that is completely out of character, I think it would be a welcomed opportunity for both sides. Thank you.
+
+**(01:22:38)**
+
+
+
+Thank you for your testimony. If there are any members of the public who wish to testify regarding this proposal remotely, please press the raise hand button now. Or if you are in person, please identify yourself to one of the sergeants. There being no other members of the public who wish to testify regarding the Preconsidered 158-06 Northern Boulevard residential mixed use rezoning proposal, the public hearing is now closed and the items are laid over. We are back. I will now open the fourth hearing on the Preconsidered 132 Melrose Street residential rezoning proposal in Bushwick, Brooklyn, in CM Gutiérrez's district. The applicant is seeking to develop a mixed use residential building that would have approximately 18 apartments. Mandatory Inclusionary Housing would be mapped as part of this application, which would require that up to five of the apartments be permanently affordable, depending on the affordability options selected.
+
+For anyone wishing to testify regarding this proposal remotely, if you have not already done so, you must register online by visiting the Council's website at council.nyc.gov/land-use. For anyone with us in person, please see one of the sergeants at arms to submit a speaker card. If you would prefer to submit written testimony, you can always do so by emailing it to landusetestimony@council.nyc.gov. I will now turn it over to CM Gutiérrez, who has joined us online for remarks.
+
+**(01:25:28)**
+
+
+
+Thank you, Chair. Good to see you. Thank you to the applicants that are here today. I just want to express that I have met with the applicants at least twice across the span of a few years. They have also met with Community Board 4 in Bushwick. This is a smaller proposal. It was a site of a former manufacturing business. I think as a whole the property owners have been really good partners in wanting to respond to the community's interests in maintaining manufacturing, and we will hear a little bit from them and their plan in their proposal. They are right at the heart of northwest Bushwick, which a little over 13 years ago experienced a massive M2 rezoning in the area that is locally called just the Rheingold area. So this is a business that I think has tried to maintain its jobs and stay open and is now looking to really meet the needs of the community as well as respond to the interest in wanting to maintain manufacturing. So we will hear from them today.
+
+My questions have been sent to the land use staff and I encourage anyone who is here from the community to testify, to ask questions about affordability, about room composition, about their options and the future that they see for themselves as property owners in the district. A concern that I did raise was ensuring that the remaining residential buildings that are on the block are not the victim of speculation that will force any displacement. So that is something that we are going to continue to work on with these property owners and the City. That is all. Thank you so much, Chair.
+
+**(01:27:54)**
+
+
+
+Sure. Hi. Good afternoon. Ron Mandel, Belkin Burden Goldman, on behalf of the applicants, joined by my colleague Frank Noriega. Thank you so much for having us. First, thank you so much to CM Gutiérrez and her staff as well as Community Board 4. They have been tremendous partners in helping to shape this project into what we believe is a real benefit to the community. We look forward to the ongoing dialogue with the Council member's staff and the community board as we move forward with the project. Next slide, please.
+
+**(01:28:33)**
+
+
+
+As shown on the slide, the project area is comprised of three tax lots which are owned by our clients, two families that not only own the site but have been active members of the business community in this neighborhood for at least 17 years. The rezoning area is comprised of actually five tax lots. Three tax lots are proposed to be developed. The two other tax lots are not proposed to be developed. They are occupied by two non-conforming residential uses, two three-story multi-family buildings. The rezoning area measures about 11,300 square feet. As I mentioned, three of the five tax lots are proposed to be redeveloped. Those three tax lots measure about 20 feet in width each, totaling a lot area of about 6,300 square feet. The current zoning is M1-1. Next slide, please.
+
+As Frank mentioned, the proposed rezoning is comprised of five tax lots. In addition to the rezoning from M1-1, we are proposing a rezoning from M1-1 to an M1-2/R6A district, which is a Special Mixed Use district. We are also proposing a zoning text amendment to map all five tax lots as an MX area. As I mentioned before, three of those lots — one lot is occupied by a two-story building which serves as warehouse space with office above. The other two tax lots are used for parking and loading. Next slide, please. The lots are conveniently located within walking distance to mass transit, the J and Z lines as well as New York City bus routes.
+
+**(01:30:23)**
+
+
+
+Next, the purpose of the aerial map depicted on the screen is to demonstrate this unique M1-1 pocket in this Bushwick neighborhood. The site, which is outlined in orange, is on the south side of Melrose Street, right across from the Denizen building, which we will talk about in another few minutes. As you can see from the aerial map, much of the block already is occupied by residential uses. The surrounding uses range from eight to nine-story mixed use residential buildings directly across the street.
+
+**(01:30:58)**
+
+
+
+That is the Denizen building, which is the result of the Rheingold rezoning, and other two to five-story warehousing and commercial buildings as well as two to five-story residential buildings at mid-block. Next. Touching upon the Council member's comments before about the building across the street — that is the building located on the left in the photograph on the screen, referred to as the Denizen building. It is a nine-story residential building which substantially changed the composition and character of this portion of Melrose Street. The building was constructed in 2019 and since then it has proven to be a very difficult challenge for our client to operate their business across the street.
+
+Melrose Street itself measures about 50 feet in width. When vehicles obstruct the sidewalks and parking on both sides, the street is only 11 feet wide. As you can imagine, it is extremely difficult to not only back a trailer in, which they used to do years ago, but also to park a truck along the street to unload goods coming in and out. In addition to that, compounded by substantial traffic, which was expressed by the community board along this portion of Melrose, as well as substantial pedestrian traffic, which again makes it unsafe to have these trucks parked on the street. The client, who has been in the neighborhood now for 17 years operating their business, has relocated with their 24 employees, who are substantially from the surrounding neighborhood, to a warehouse building around the corner. They are really excited about that space. It is actually appropriately configured to allow for unloading, parking, storage alongside a loading berth as well as a freight elevator in that building. Next slide, please.
+
+**(01:32:53)**
+
+
+
+We thought this was interesting. The five plots were actually occupied at one point by residential uses. These are images from the 1940s of those multi-family buildings. On the right side are the two non-conforming buildings which still exist today. Next, by the 1970s, those three buildings were demolished. These are images from the 1980s tax map. Since then, two of the three lots that are controlled by the two families that own the applicant's site have remained undeveloped. Next, some photos of the project site. Upper left is an image of the site. The two lots are used for parking and loading. The two-story building is to the right. Another image shows the two adjacent non-conforming residential uses. On the bottom left is an image of Evergreen Street to the west, occupied by a six-story office building. Next slide, please. Just to reiterate, what we are trying to do here is rezone from the M1-1 district that has been mapped there since 1960.
+
+**(01:34:03)**
+
+
+
+And as Ron pointed out in the prior slides, this really has not been a manufacturing area. It was actually predominantly residential until it was demolished and now it is mostly a vacant site. We propose specifically this district after consulting with the Council member. Originally we were looking at a potential commercial district because it is really difficult to get trucks down to this site now, but after discussing this with the Council member and getting input from the community board, it is desirable to maintain some sort of industrial uses.
+
+**(01:34:40)**
+
+
+
+Here, and as you see we are running out of time, I will just touch briefly on the next slide, please. There have been a couple of different reviews of this area that have noted similarly that they want to maintain industrial uses in this area, but they...
+
+**(01:34:55)**
+
+
+
+...also note that there have been long-standing non-conforming residential uses here that need to be addressed, and there is also a need for affordable housing. So our goal is to balance all of these issues together and propose development that meets all of those needs.
+
+**(01:35:11)**
+
+
+
+Next slide, please. We will skip over this one and just kind of...
+
+**(01:35:16)**
+
+
+
+...touch on what ends up here. Our proposed development site will end up being a 3.9 FAR building, which is effectively just under 25,000 square feet, predominantly residential at 18,000 square feet. Specifically we are looking to...
+
+**(01:35:31)**
+
+
+
+...have some sort of light manufacturing on the ground floor level. Next slide, please. After discussing this with the community board as well as groups like the Evergreen Exchange, we found that there is a need and a desire for some sort of small space. As shown here, we have divided this 6,000 square foot ground floor into two smaller spaces to allow for potential...
+
+**(01:36:02)**
+
+
+
+...light manufacturing. When we say light manufacturing we are talking maker spaces, furniture making stores, coffee roasters or...
+
+**(01:36:12)**
+
+
+
+...something along those lines. We are looking to incorporate that into the ground floor after community feedback. Next slide, please.
+
+**(01:36:23)**
+
+
+
+Another issue that has come up both at the community board as well as with the Council member is the idea of efficiency in the buildings and...
+
+**(01:36:29)**
+
+
+
+...under the new codes, as a new development, we are going to be required to build more efficient buildings. We are proposing green roofs as well as all new appliances in these buildings will be electric, so...
+
+**(01:36:41)**
+
+
+
+...the sustainability profile here is going to be...
+
+**(01:36:43)**
+
+
+
+...much more ideal than what would be the case for a normal manufacturing building that would currently be allowed. I think there we will go to the next slide and a couple of questions.
+
+**(01:37:04)**
+
+
+
+So this application includes only a few lots in an M1-1 block that has existing residential uses on other lots. Why was the zoning lot restricted to only five lots?
+
+**(01:37:20)**
+
+
+
+The rationale for that was that the project site is three tax lots, and we incorporated the two adjacent lots which are occupied residentially just to bring them into conformance. After working with the Council member and City Planning, it was thought appropriate to only rezone the five tax lots so that there is not the potential for other lots to get redeveloped. There will be a better understanding as to what the proposed uses would be on the block. The idea behind it was that in the future, if others want to rezone their property and if the lot itself was wide enough to accommodate a manufacturing use, then they could. And to add to that...
+
+**(01:38:13)**
+
+
+
+...it is particularly closer to Evergreen Street. Studies such as the Bushwick Plan had looked at that site along Evergreen and it is also seen in the Rheingold development that there might be a potential for higher density residential along Evergreen, so the discussion there should be set for a different conversation...
+
+**(01:38:32)**
+
+
+
+...in that it would potentially be a higher density, like an R7A district, which is not what we are proposing here.
+
+**(01:38:38)**
+
+
+
+We are doing a lower density on the side street of an R6A, which would be a smaller...
+
+**(01:38:42)**
+
+
+
+...building. And what are the current industrial uses on the site and will they be offered space in the new building?
+
+**(01:38:51)**
+
+
+
+The families that own the property also operate the business, Conduct Electric, a parts and distribution company. They have already relocated to a more appropriate facility around the block with their 24 employees.
+
+**(01:39:07)**
+
+
+
+Okay, so they will not come back.
+
+**(01:39:08)**
+
+
+
+Correct. They will just use that space.
+
+**(01:39:11)**
+
+
+
+Okay. I have a couple of questions from the Council member.
+
+**(01:39:21)**
+
+
+
+Sure. All right. When a mixed use district is proposed in place of a manufacturing district, it is important that we retain industrial use while introducing residential, as it helps retain jobs that have been an integral part of this community. I appreciate that your current plans include light industrial on the ground floor. What will be your process to secure a light industrial tenant?
+
+**(01:39:50)**
+
+
+
+So our process — I mean, we have been marketing this with brokers to see if there are some sort of light manufacturing tenants. We have been getting some response to that. Particularly with the discussions with the Evergreen Exchange, there has been a strong desire for a space like this, but they need space now. It is similar to what I think other projects have said — we have not committed to a specific tenant yet, but we anticipate that we will. The big discussion, which we intend to commit to, is that...
+
+**(01:40:24)**
+
+
+
+...with the Evergreen Exchange and these industrial uses, the most important thing is that the space is actually designed for industrial use. Because even if we do go forward, if they do not have the height on the ground floor — they need higher floor-to-ceiling heights generally for industrial uses — and the live loads of the floor to support any machinery that needs to come in. We are committing to design it in such a way that those industrial uses can come in and we anticipate that the space will be made available to them and we anticipate that the tenants are...
+
+**(01:40:59)**
+
+
+
+...ready and willing to move in. Okay, that is promising. I know...
+
+**(01:41:02)**
+
+
+
+...you said you have been discussing that. Anything...
+
+**(01:41:04)**
+
+
+
+...promising? Yeah, we are excited to share that ownership was actually surprised to hear that so early in the process, a number of potential uses were identified. Again, it is still too early, but taking into account information we received from these prospective tenants, and to Frank's point, the building has been designed with a higher floor-to-ceiling height on the ground floor with more power coming into the building as well, so that the light manufacturing uses, once they are in, could actually...
+
+**(01:41:30)**
+
+
+
+...thrive in the space. Can you confirm that studios will not be included in this building? Yes, confirming. Okay.
+
+**(01:41:38)**
+
+
+
+How would you market the units and can you commit to working with local organizations to market these units?
+
+**(01:41:45)**
+
+
+
+We are open to it. We have not started speaking to marketing agents yet, but to the extent that there is someone who could be helpful and is with a local organization, that would only make for a better project.
+
+**(01:41:59)**
+
+
+
+Okay. And do you have any plans for solar panels or use of green energy? Not solar panels, but there are energy efficient systems being proposed in the building, which we illustrated on the slides. Which are they?
+
+**(01:42:13)**
+
+
+
+Can you confirm which electric systems you will use?
+
+**(01:42:21)**
+
+
+
+Heat pumps are one of them. I believe heat pumps are required as part of the all-electric appliances, but there are also special green roofs being proposed to absorb stormwater, energy efficient lighting throughout the building, electric appliances and low flow plumbing fixtures. Okay.
+
+**(01:42:47)**
+
+
+
+All right, this panel is excused. Thank you. Thank you so much. Thank you.
+
+**(01:42:59)**
+
+
+
+Council, are there any members of the public who wish to testify remotely or in person regarding this proposal?
+
+**(01:43:08)**
+
+
+
+No, Chair. We do not have anyone signed up, either in person or online. Understood.
+
+**(01:43:15)**
+
+
+
+Thank you again. No problem. Thank you. If there are any members of the public who wish to testify regarding this proposal remotely, please press the raised hand button now. Or if you are in person, please identify yourself to one of the sergeants.
+
+There being no other members of the public who wished to testify regarding the Preconsidered 132 Melrose Street residential mixed use rezoning proposal, the public hearing is now closed and the items are laid over. That concludes today's business. I would like to thank the members of the public and my colleagues on the Subcommittee for participating in today's meeting. This meeting is hereby adjourned.
+
+**(01:44:07)**
+
+
+
+>
