@@ -202,7 +202,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 69 of 69</span>
+            <span id="hearing-count" aria-live="polite">Showing 70 of 70</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -220,6 +220,11 @@
                     </button>
                     <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
                         <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-08">
+                            <span>August 2026</span>
+                        </label>
                     
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="2026-07">
@@ -458,6 +463,20 @@
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Finance"]'
+                data-title="Local Law to Establish a Temporary Program to Resolve Outstanding Judgments Imposed by the Environmental Control Board"
+                data-month="2026-08"
+                data-slug="committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11">
+                <a href="/hearings/committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11/">
+                    <time class="hearing-row__date" datetime="2026-08-11">
+                        August 11, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Finance</span>
+                    <span class="hearing-row__title">Local Law to Establish a Temporary Program to Resolve Outstanding Judgments Imposed by the Environmental Control Board</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1508,7 +1527,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 69;
+        var totalHearings = 70;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
