@@ -1,0 +1,1085 @@
+---
+committee: "Committee on Finance"
+committee_slug: committee-on-finance
+title: "Local Law to Establish a Temporary Program to Resolve Outstanding Judgments Imposed by the Environmental Control Board"
+date: 2026-08-11
+slug: committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11
+duration: "1hr 0m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260811-110235.mp4"
+viebit_hash: "OqYUXoPyin2CTkdi"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1431093&GUID=91B48A2C-A227-4F6C-8685-61897502CBDA&Search="
+chairs: "Linda Lee"
+members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
+---
+
+Summary
+
+Meeting Overview
+
+The Finance Committee held a public hearing on a preconsidered bill (T2026-2303) sponsored by Finance Chair Linda Lee at the request of the Mayor, which would authorise the Department of Finance to run a temporary 90-day amnesty program for outstanding Environmental Control Board judgments, with an optional 90-day extension, during fiscal year 2027. The program would allow respondents with default judgments to pay only the base penalty, waiving default penalties and interest, while those with adjudicated judgments would pay 75% of the imposed penalty with interest waived. Idling violations are explicitly excluded. The bill is modelled on similar programs run in 2009, 2016 and 2021, and the adopted FY2027 budget includes $25 million in anticipated revenue from the effort, as part of a broader $100 million ECB collections target.
+
+Commissioner Richard Lee and Deputy Commissioner Annette Hill testified for the administration. The core tension running through the hearing was one the committee never fully resolved: amnesty programs reward non-compliance. Multiple members, particularly Frank Morano and Phil Wong, pressed on the basic fairness problem — the small business owner who paid on time gets nothing, while the one who waited potentially pays less. The administration's answer was essentially that the program is used sparingly, is not guaranteed to recur, and the primary goal is compliance and correction rather than revenue. That answer satisfied nobody entirely but there was no serious opposition to the bill itself.
+
+A more substantive line of questioning came from CM Wong and Chair Lee on the department's underlying collection capacity. Of roughly $573 million in potentially collectible judgment debt, the department collected $88 million in FY2026, with about a third of that coming through the judgment settlement program. Another $744 million is deemed uncollectible. The department currently has five full-time collection staff, with seven more positions being filled. Commissioner Lee outlined additional strategies being developed — including requiring permit applicants to clear outstanding judgments before issuance, and potentially converting judgments to property tax liens — but acknowledged that revenue estimates for most of these initiatives are preliminary or nonexistent. CM Restler used his time to advocate for a day-fines model, which would scale penalties to income, and found the commissioner at least nominally open to exploring it, though the administration's historical resistance to the concept was noted. The sole public witness, Sue Peters, offered testimony on monetary theory that was tangential to the bill but received politely.
+
+Numbers
+
+- $573 million in outstanding ECB judgment debt currently identified as potentially collectible as of October 2025.
+- $744 million in outstanding ECB judgment debt currently classified as uncollectible, primarily due to unidentifiable or defunct respondents and bankruptcies.
+- $88 million collected by the Department of Finance in FY2026 from ECB judgments.
+- Approximately one-third (33%) of FY2026 collections came through the judgment settlement program.
+- $100 million total ECB collections target for FY2027, inclusive of the amnesty program.
+- $25 million in anticipated revenue from the amnesty program in FY2027, as included in the adopted budget.
+- $47 million total collected during the 2021 amnesty program: approximately $33 million in the first three months and $14 million during the extension period.
+- Approximately 33,000 respondents participated in the 2021 amnesty program over its six-month duration.
+- Approximately $46 million collected during the 2009 amnesty program.
+- 90-day duration for the proposed amnesty program, with an option to extend for a further 90 days.
+- 75% of imposed penalty payable by respondents with adjudicated judgments under the amnesty program; interest waived.
+- 100 days is the general threshold after which an unresolved violation enters judgment status.
+- Approximately 5% of eligible judgments were resolved through prior amnesty programs.
+- 75% of judgments resolved through prior amnesty programs were default judgments; 25% were adjudicated judgments.
+- 5 full-time equivalents currently employed in the department's Account Executive Unit collections team, with 2 vacancies and 5 additional positions being posted, for a projected total of approximately 12.
+- 3 outside collection agencies currently contracted by the Department of Finance to collect ECB judgments.
+- 30 to 60 days is the internal collection cycle before a debt is referred to an outside agency or legal for execution.
+- Preliminary estimate of approximately $10 million in additional annual revenue from requiring permit applicants to clear outstanding judgments before issuance.
+- $75 to $80 million was the department's typical annual ECB collections baseline in recent years prior to FY2026.
+
+Action Points
+
+- Department of Finance to provide the committee with data on the breakdown of eligible judgments by respondent type: individual homeowners versus small businesses versus respondents holding 10 or more judgments.
+- Department of Finance to confirm how many of the three contracted outside collection agencies are minority-owned businesses.
+- Department of Finance to investigate whether repeat participation across prior amnesty programs can be tracked and report findings to the committee.
+- Department of Finance to share the projected participation rate underlying the $25 million FY2027 amnesty revenue estimate with CM Morano and the committee.
+- Department of Finance to provide an estimate of what share of the projected $25 million would have been collected anyway absent the amnesty program.
+- Department of Finance to develop and share with the committee a revenue estimate for lien conversion efforts once scope has been determined with the Department of Buildings.
+- Department of Finance to proactively reach out directly to small businesses with outstanding ECB judgments to notify them of the amnesty program, beyond website and general media outreach.
+- Department of Finance to share projected outreach and notification costs for the amnesty program with the committee once available.
+- Department of Finance to coordinate outreach through partner agency websites including Department of Buildings and Department of Sanitation.
+- Department of Finance to follow up with CM Narcisse's office offline regarding a specific constituent's disabled homeowner exemption renewal dispute pending before the tax commission.
+- Department of Finance to engage with CM Restler and his office to explore the day-fines model legislation and its implementation feasibility.
+- Department of Finance to provide the committee with statistics on in-house versus third-party collection success rates by violation type.
+- Department of Finance to continue discussions with the committee on whether respondents participating in the City's Alternative Enforcement Program should be eligible or excluded from the amnesty.
+- Department of Finance to keep the committee updated on progress toward the permit-clearance enforcement strategy and any associated legislative proposals.
+
+## Full Transcript
+
+**(00:00:39)**
+
+
+
+Thank you. Oh, and welcome to today's New York City Council hearing for the Committee on Finance. At this time, ladies and gentlemen, we ask that you please silence your electronic devices. If you would like to follow testimony, please see one of the sergeants at arms. Approaching the front dais is strictly prohibited. Please do not approach the front dais. Chair, you may begin.
+
+**(00:01:00)**
+
+
+
+Good morning and welcome. I have the privilege of chairing today's Committee hearing in place of Finance Chair Lee. I would like to recognize that we have been joined by CM Phil Wong and CM Frank Morano. Today the Committee will hold a public hearing on a preconsidered Bill sponsored by Finance Chair CM Lee by request of the Mayor. The legislation would require the Commissioner of Finance to establish a temporary program to resolve certain outstanding judgments imposed by the Environmental Control Board. Under the program, eligible judgments resulting from default decisions could be resolved by paying the underlying base penalty without payment of any default penalties or accrued interest, and eligible judgments resulting from adjudications and findings of liability could be resolved by paying 75% of the imposed penalties without payment of accrued interest. The program would last for 90 days during fiscal year 2027 and the Commissioner would be able to extend it for an additional 90-day period.
+
+The Council has authorized similar amnesty programs in the past, including programs in 2019, 2016 and 2021, which resulted in the collection of millions of dollars in outstanding judgment debt. We look forward to hearing more today about the results of those prior programs as well as how this proposed program is expected to increase collections, generate revenue and otherwise benefit the City. We have also been joined by CM Selvena Brooks-Powers, CM Deputy Speaker Williams. Before we turn to testimony from the administration, I would like to thank the staff of the Finance Division for their work in preparing for this hearing: Deputy Director Emma Dev, Chief Economist De Lara De Monaco, analysts Michael Sherman and Owen Kotowski, Chief Counsel Nick Connell, Counsel Nadia Jean-François and Committee Counsel Brian Sorrowful. We will now hear testimony from representatives from the Department of Finance: Commissioner Richard Lee and Deputy Commissioner on that Hill. I will now turn it over to Committee Counsel.
+
+**(00:03:20)**
+
+
+
+Yes, can you hear me? Okay, great. Good morning, Majority Leader Abreu, Deputy Speaker Williams, members of the Finance Committee and members of the City Council. My name is Richard Lee and I am Commissioner of the New York City Department of Finance. I am joined today by Annette Hill, Deputy Commissioner of Customer Operations.
+
+**(00:03:40)**
+
+
+
+Thank you for the opportunity to testify today on the proposed amnesty and compliance program authorization legislation.
+
+**(00:03:48)**
+
+
+
+The goal of the amnesty and compliance program is to encourage the resolution of violations, to increase compliance and collect fines in an area that is difficult for the City to enforce. As a result, Environmental Control Board violations are issued by more than a dozen City agencies and cover a wide range of offenses, including dirty sidewalks, littering, failure to remove ice or snow, working without a permit from the Department of Buildings and many other quality of life and environmental issues. Agencies that issue violations include DOB, DSNY, NYPD, FDNY and Parks. Violation recipients are typically businesses and property owners or other individuals who are issued violations if they have committed an offense.
+
+Debt is referred to the Department of Finance upon docketing of unresolved violations that have been adjudicated by OATH's subdivision. The proposed amnesty program is designed to incentivize resolution and payment by reducing fines for individuals who have violations in judgment. Violations go into judgment where recipients did not pay or dispute them within 100 days generally. Program participants would receive a 25% reduction in the violation amount and will have interest waived. The program would require the resolution of any outstanding violations which require correction.
+
+The amnesty and compliance program was included in the adopted budget for $25 million and is modeled after previous programs administered by the Department of Finance over the past 10 years. Such programs are particularly useful when the City does not have a strong mechanism for enforcement, unlike, for example, our boot and tow program for parking tickets where customers must resolve their debt in order to recover their vehicle. The amnesty program would be open for 90 days with an option to extend. Please note that idling violations will not be eligible for amnesty to ensure that we continue to hold bad actors accountable when they pollute our streets. Additionally, the main recipients of idling violations are logistics companies who are less in need of amnesty. Developing a broad and simple program is the best way to achieve significant participation and ultimately resolve more violations throughout the City. Thank you for your partnership and I look forward to taking your questions.
+
+**(00:06:25)**
+
+
+
+Thank you, Commissioner. I am going to ask a set of questions before I turn it over to my colleagues. But first, let me acknowledge that we have been joined on Zoom by CM Hudson and CM Sanchez. Back to questions: how many outstanding judgments are currently eligible for the program, and what is the amount of debt outstanding that is associated with...
+
+**(00:06:51)**
+
+
+
+Violations. So as of the beginning of fiscal year 2026, we identified $573 million in outstanding debt that is potentially collectible, with an additional $744 million that is currently uncollectible. And what amount of judgment debt does the department expect to collect during fiscal year 2027 through the amnesty program? So as of adoption, currently the budget collection target...
+
+**(00:07:22)**
+
+
+
+Is $100 million, including $25 million from this effort. So that is inclusive of up to $25 million from the amnesty program. Thank you. The preliminary plan included $25 million for fiscal 2027 as anticipated revenue from the amnesty program. Considering the prior amnesty program brought over $43 million in additional revenues back in 2021, why does the department expect less than the prior program revenues?
+
+**(00:07:54)**
+
+
+
+The $25 million was a projection at the time of adoption. As we go through the program we will update the budget as we get along through the fiscal year working...
+
+**(00:08:09)**
+
+
+
+Many violations relate to health concerns associated with building maintenance. Will this amnesty be available to building owners? There will be a large number of violations that are from DOB. The result of this amnesty program is to ensure that we have better corrections and people are actually addressing their violations. We want individuals to correct these violations and this is one way to do so. Will it be available...
+
+**(00:08:40)**
+
+
+
+To all building owners? It should be available to the vast majority of building owners unless it is currently under OATH's system and has been docketed to us. There are some instances where we at the department do not actually get all the violations — it might be because of some criminal activity or such. And what if...
+
+**(00:08:59)**
+
+
+
+They are owners who have a long record of poor building management? That is something...
+
+**(00:09:05)**
+
+
+
+We will discuss with you. Obviously as we roll out the program we are in constant communication with all of our agencies throughout this process and as we start...
+
+**(00:09:16)**
+
+
+
+Beginning the rollout of this amnesty program, would you do...
+
+**(00:09:17)**
+
+
+
+The same as well with buildings related to the City's alternative enforcement programs?
+
+**(00:09:24)**
+
+
+
+Programs? Right now it is the Alternative Enforcement Program.
+
+**(00:09:28)**
+
+
+
+Correct. We are in constant communication with our sister agencies on the rollout of this program and so we are going to be with them...
+
+**(00:09:34)**
+
+
+
+To determine which violations under the program will not be viable. But it is only for...
+
+**(00:09:43)**
+
+
+
+That is what it comes down to. If it is a docketed violation, it should be eligible for the program. If it is a docketed violation from any other agency, it will not necessarily be part of this program. We are only looking at docketed violations from OATH.
+
+**(00:10:02)**
+
+
+
+When does the department plan to implement the program within the year, once the current amnesty Bill is adopted?
+
+**(00:10:08)**
+
+
+
+We are currently working on this right now and I think our anticipated date — Deputy Commissioner Hill, on the facts — is the beginning of...
+
+**(00:10:17)**
+
+
+
+Of this year. I will turn it over to my colleague, CM Morano, followed by CM Wong.
+
+**(00:10:26)**
+
+
+
+Thank you, Majority Leader. Commissioner, it is good to see you again. We have definitely missed you on this side of City Hall most of the time. I know you are somebody who takes these issues seriously, like the ones that we are looking at in this Bill. I want to start with a basic fairness question. Suppose two Staten Island small business owners get the same thousand dollar violation. One pays the thousand dollars because that is what the law requires. The other does not pay, waits long enough and under this program could potentially pay $750 and have the interest waived. What do I tell the first guy?
+
+**(00:11:05)**
+
+
+
+Well, there are going to be respondents in that situation, and that is why we are trying to strike a balance. We want to ensure that those unanswered violations do come into compliance. That is the primary goal. We are going to have better outcomes for the City if more people are in...
+
+**(00:11:25)**
+
+
+
+Compliance. With any judgments that do not... how do we provide a...
+
+**(00:11:29)**
+
+
+
+Second chance without sending the message that the financially smart thing to do is just to wait City Hall out? So this program again is not a program that we run normally or regularly. We come to the City Council for authorization of such. There is also no guarantee we will have another amnesty program in the future.
+
+**(00:11:52)**
+
+
+
+So I would say that this is a program that we administer sparingly, but it is to ensure that we have better outcomes for individuals in the City. If people are addressing their outstanding violations, it is a better...
+
+**(00:12:09)**
+
+
+
+Outcome. There was something in your testimony that really caught my attention. You say...
+
+**(00:12:14)**
+
+
+
+These programs are particularly useful where the City does not have a strong mechanism for enforcement.
+
+**(00:12:23)**
+
+
+
+Is not that really the underlying problem here? Do we not need to look at a stronger enforcement infrastructure?
+
+**(00:12:30)**
+
+
+
+That is one of the things that we are exploring — ways that we can introduce legislation that might give us better tools in enforcement. We are working with several of our sister agencies to identify ways that we could better enforce...
+
+**(00:12:45)**
+
+
+
+Violations. Sure. If you had a recommendation — obviously you are not necessarily a policymaker — but if you had a recommendation, what are we going to do differently after this program so we are not back here in five years passing another amnesty for...
+
+**(00:13:00)**
+
+
+
+Exactly the same reasons? So we are exploring a couple of different policy approaches. I will give you one example: we are looking at convergences between those entities that are, let us say, going in for permits for one reason or another, and looking to see if they have a judgment in existence. We are working on a policy with several agencies to say that if there is a violation in place, then we should have those agencies resolve those before issuing a permit. So we are looking at different ways that we can creatively enforce on the existing population.
+
+**(00:13:38)**
+
+
+
+Thanks very much. CM Wong, followed by...
+
+**(00:13:41)**
+
+
+
+CM Brooks-Powers. Thank you, Majority Leader. A question, Commissioner. You mentioned that the department has figures of $573 million in debt that is collectible. Is that right? Yes. Okay. And you have already written off another $744 million as uncollectible. All right. And that is for this year? Yes. All right. Can you explain what this new amnesty program is fixing that your current...
+
+**(00:14:18)**
+
+
+
+Tools have not been fixing? I mean, a year from now are we going to see the same two figures except with different numbers? What are you fixing? Because as I see it there would still be uncollectible debt. So are you closing that gap? What are you trying to fix? It is addressing a number of different issues. We are trying to get respondents to be responsive to their existing violations and cure them, and pay the violation costs. There will be some in the uncollectible category that might come in and say, okay, we will comply. So we are looking at different ways that we can convert those. Once in a while when we get new information, we find that a business had been uncollectible after previous attempts...
+
+**(00:15:19)**
+
+
+
+To address their violations, and when we find new information we move it from the category of...
+
+**(00:15:25)**
+
+
+
+Uncollectible to collectible. So we are hoping that through not only this effort but the other efforts we are putting in place within the Department of Finance, we will be able to better collect into the future. Okay.
+
+**(00:15:36)**
+
+
+
+I am going to follow up on that. Weekly I deal with constituents whose fines and penalties are now due. Most of my constituents pay the fines on time. Can you explain why we keep rewarding the people that do not pay on time, which seems to be what this is...
+
+**(00:15:56)**
+
+
+
+Doing? It is an opportunity for individuals to cure their existing violations. This is one opportunity to do so. This is not a program that we run every year. It is a program that we come to the Council for authorization because we want to use it sparingly. We do not want to have a situation where we are running this program every single year. That said, it will have better outcomes. People who have violations will now likely be able to address their violations and have a better outcome for the City. That is what...
+
+**(00:16:32)**
+
+
+
+We are hoping to do. Okay, I have a follow-up. Of defendants that default multiple times, it seems to me this program is not addressing those. Or yes, what are you addressing...
+
+**(00:16:51)**
+
+
+
+We are trying to fix those as well. Those like small businesses who have not had the chance to, or were unable to — this might be a way for them to cure their instances. Okay.
+
+**(00:17:02)**
+
+
+
+Thank you. Oh, thank you. We will move to the second round. No problem. CM Brooks-Powers, followed by CM Narcisse.
+
+**(00:17:15)**
+
+
+
+Good morning, Commissioner, and thank you, Chair. I have a question for you. Sometimes I want to know why people did not pay the Bill. So from the data you have right now, I want to know: the Bill gives the most generous treatment to the default judgments, right? Why did those respondents default in the first place and how many of those defaults do you attribute to a notice going to an incorrect or outdated address?
+
+**(00:17:52)**
+
+
+
+So as I indicated earlier, our current uncollectible bucket is about $744 million and there are a number of different reasons why respondents were unable to pay. We also could not — it might be instances where we could not identify respondents, and it could also be because businesses went bankrupt. Those also exist. So there are a...
+
+**(00:18:16)**
+
+
+
+Number of different reasons why people might default. The uncollectible category includes those types of instances where businesses simply do not exist anymore and we cannot collect on an entity that no longer exists because they went bankrupt.
+
+**(00:18:33)**
+
+
+
+Okay. I am going to shift a little bit.
+
+**(00:18:34)**
+
+
+
+Here. Usually I mean, the in-house folks do better in some instances, so I want to know...
+
+**(00:18:46)**
+
+
+
+How many current outside collection agencies are contracted with to collect judgments administered?
+
+**(00:18:56)**
+
+
+
+There are currently three agencies that are currently contracted for enforcement.
+
+**(00:19:05)**
+
+
+
+Any structure — do you use minority-owned businesses in that category? How many do you have?
+
+**(00:19:10)**
+
+
+
+I will let our Deputy Commissioner answer the specifics on the agencies.
+
+**(00:19:15)**
+
+
+
+Yes, for the agency contract we do have to use our minority business requirements. Yes, we do use that. How...
+
+**(00:19:23)**
+
+
+
+Many? We have three collection agencies and we do use minority-owned businesses. Yes.
+
+**(00:19:30)**
+
+
+
+How many do you have? I did not get that part.
+
+**(00:19:33)**
+
+
+
+We have three. Are all three minorities or just one? No, two.
+
+**(00:19:37)**
+
+
+
+I do not have that data right in front of me. If you want to know whether they are all minority-owned I can definitely get back to you on that. Okay.
+
+**(00:19:46)**
+
+
+
+I have some others but they say they are going to take too long because I have direct constituent questions. I am going to give it to you directly. In my district, most Environmental Control Board judgments sit with one- or two-family homeowners and small storefront businesses, not large operators. What share of eligible judgments is held by individual homeowners versus small businesses versus respondents holding 10 or more judgments?
+
+**(00:20:21)**
+
+
+
+We can get back to you on the exact numbers. Again, judgment violations are overseen by a number of different agencies, of which the Department of Finance gets a portion of their OATH-docketed judgments. So we can get you some of those statistics in terms of the Department of Finance side and what type of violations are being held by which entities.
+
+**(00:20:48)**
+
+
+
+I ask for one more. Do you find that in-house staff have a better rate at collecting certain violations? If so, what kind of violations?
+
+**(00:20:57)**
+
+
+
+We are right now trying to increase our in-house efforts. Our internal alternative... not naive, our internal... the APU year. Sorry, the Alternate Enforcement Unit. Increasing our resources for the internal Alternative Enforcement Unit, and what their job is to work directly with companies to get to judgment. This is a strategy we employed, sort of started this year with the idling violations. Earlier this year we did a close one-on-one, sort of like a constituent walkthrough with Amazon on the idling violations. That was sort of a new strategy that we utilize internally for our highest idling violations, and we intend to do some of the similar strategies for our next set of highest violations. We are also increasing our legal resources as well.
+
+**(00:21:57)**
+
+
+
+Well, a few leader reports. Thank you so much, Commissioner. If you can get us the information and statistics that you referenced as soon as you can, it will be greatly appreciated by the committee. Absolutely. Thank you so much, Majority Leader and Commissioner.
+
+**(00:22:16)**
+
+
+
+You mentioned the use of several enforcement tools in the past to collect debt. So it is a little bit of a follow-up from the Councilmember's question. I do not know if you already stated this, so I apologize, but how many employees...
+
+**(00:22:30)**
+
+
+
+...in collection full-time equivalents are on staff currently? So in our Account Executive Unit, currently we have five on staff, two vacancies, and we have five additional lines that we are...
+
+**(00:22:45)**
+
+
+
+...posting to get new employees, so altogether you are looking at around 12. Okay, considering the...
+
+**(00:22:54)**
+
+
+
+...amount of debt outstanding and other resources like the marshals and Sheriff's Office, do you feel you have sufficient collection staff? We are utilizing...
+
+**(00:23:07)**
+
+
+
+...different strategies in order to increase our collections, one of which I explained earlier: working with our partner agencies in terms of permitting and such. So we are working to improve and find new strategies that will help us further collect, and increasing resources on our legal side.
+
+**(00:23:33)**
+
+
+
+Okay, actually, since you mentioned that, I did have a question about the work you are doing to partner with other City agencies. A whole plethora of things: converting issues, requiring license and permit holders to satisfy, implementing targeted outreach. Do you have an estimate of how much additional revenue you expect each of these initiatives to generate in FY27? Some we have general...
+
+**(00:23:57)**
+
+
+
+...estimates for, and some others we do not. That is one of the things that we are working closely on to see if we can introduce legislation for such things, so we do not necessarily have an estimate for that one. But for others we do...
+
+**(00:24:12)**
+
+
+
+...like the partnership that we have with, let us say, the permit interactions where before permits are issued, having them cure all violations. Our initial, very preliminary estimate is something around the ballpark of $10 million.
+
+**(00:24:31)**
+
+
+
+Yeah, okay. Just back to the questions about whether or not you have sufficient staff: on average, how long do you try to use your in-house resources to collect the debt before engaging external entities, whether it be outside agencies, the marshal, or the Sheriff's Office? So how long before you engage outsiders?
+
+**(00:24:54)**
+
+
+
+Deputy Commissioner, okay, so...
+
+**(00:24:55)**
+
+
+
+...that cycles through 30 to 60 days from the start. I am sorry, can you get the mic closer to you? Thank you very much.
+
+**(00:25:06)**
+
+
+
+So the Account Executive Unit gets the debt and it cycles through 30 to 60 days. It is 30 to 60 days because we do not act in the first 30 days if we have made contact with the taxpayer or the individual and have developed a relationship to get payment and get the information. We will keep working with them. If we have not made contact within that 30 to 60 days, it will either move to an outside collection agency or we will send it to legal for...
+
+**(00:25:41)**
+
+
+
+...execution. I would like to acknowledge that we have been joined by CM Maloney, CM Restler and CM Wong on Zoom. I am going to ask now a few questions on the past amnesty programs. Has the department evaluated the results of prior amnesty programs, specifically those from 2009, 2016 and 2021? If so, for each year I have questions. I am sorry, the...
+
+**(00:26:05)**
+
+
+
+...question was: have you evaluated the results of prior amnesty programs? To some extent we have evaluated those...
+
+**(00:26:13)**
+
+
+
+...results. I am not sure exactly what type of evaluations you might be interested in, so let me share what information we have. How...
+
+**(00:26:24)**
+
+
+
+...many respondents participated during the initial 90-day period and, if applicable, during the extension of those prior programs? So in 2021 we had about 33,000 respondents participating during the six-month program. Back then it was also split into three months and three months — six months total — about 32,000 respondents.
+
+**(00:26:47)**
+
+
+
+And for that year, how much revenue was generated during the initial 90-day period and, if applicable, during the extension? So for 2021, it...
+
+**(00:26:56)**
+
+
+
+...was a total — in the first three months it was about $33 million, and then the following three months, the extension period, was $14 million, for a total of $47 million.
+
+**(00:27:12)**
+
+
+
+Is there a reason why 2009 and 2016 were not looked at? In 2009 we collected...
+
+**(00:27:21)**
+
+
+
+...about $46 million. Okay. What percentage of eligible judgments were resolved during each period, and what percentage of those judgments resulted in corrective actions to resolve compliance judgments? I think it is 5%. Let me just double-check right now. The judgments, you...
+
+**(00:27:42)**
+
+
+
+...said, right? Yeah, take your time. I believe it was 5%. What type of violations had the highest success in getting resolved through the prior amnesty programs? Of the judgments resolved through the program, how many were default judgments and how many were adjudicated judgments?
+
+**(00:28:19)**
+
+
+
+It was 75% from default and 25% were adjudicated. Does the department track repeat participation in amnesty programs? Did you ask if there was repeat participation? Repeat participation — we have not tracked that, but we are happy to maybe go back and look at it.
+
+**(00:28:39)**
+
+
+
+Yeah, that would be very helpful. Okay. I do not have that now. A few questions on outreach: how does the department plan to notify the public that the amnesty program is available, and what specific outreach is made to those qualifying for the program, if any?
+
+**(00:28:57)**
+
+
+
+Okay, so right now we are planning how we are going to introduce the program. We are working on a web page. We are also working on training materials. There will be counselor training in-house, and we are also working with our outreach team to bring that information out to the different Council members and their areas.
+
+**(00:29:21)**
+
+
+
+Yeah, the committee is aware that prior amnesty programs included multiple agencies' involvement in the implementation, including the Environmental Control Board, the Mayor's Office of Operations, the Law Department and issuing agencies within the project implementation team. Would there be a similar coordinated project implementation and outreach for this current program?
+
+**(00:29:42)**
+
+
+
+We will use all communication methods — with news outlets, with outreach teams at the different impacted agencies — to ensure that we have success. The program is planning to advertise the amnesty program through other City agencies' websites as well, such as the Department of Buildings, Department of Sanitation, and so on. We will work, and we are constantly working, with our partner agencies and will continue to.
+
+**(00:30:11)**
+
+
+
+Will the department proactively reach out to small businesses with outstanding judgments that could benefit from the program? We can explore that. We can explore ways that we can directly reach out to constituents.
+
+**(00:30:28)**
+
+
+
+Will you provide assistance to respondents in determining whether their judgments are eligible for the program? Yes, that is something we do for all of the customers that come in through the Department of Finance.
+
+**(00:30:38)**
+
+
+
+And at the moment, do you have a projected cost to notify the public of the program? We do not have a projected cost. We are all working internally with our budget figures. Well, whenever you get that information it would be great if you can pass that along to the committee. I will now go to the second round of questions. One second.
+
+**(00:30:56)**
+
+
+
+Beginning with CM Restler.
+
+**(00:31:00)**
+
+
+
+Thank you so much. I am a little nervous to call you Chair, but I will do it anyway. We miss our Finance Chair, but thank you for stepping in, Majority Leader. I just want to say, Commissioner, it is always good to see you. We miss you very much. I miss you guys too, and I have to just say I appreciate how impressively responsive you are. Whenever there is an issue with the Department of Finance, you pick up the phone, you call, you try to work through solutions with us. I know these last couple of weeks have been bumpy, but I am very grateful for your proactive and clear communication and your partnership, and I really just want to commend you for that. Thank you.
+
+Adjacent to that, I am grateful that we are moving forward on the amnesty program and I think it is a noble thing and hopefully a way that we can generate some additional revenue for the City and help people get up to date on what they owe. I have long been a big champion of the day fines model, which won the day — the day fines model — and Council member Brandon and others... I think this actually started as a Corey Johnson idea that the Council member Brandon took over. I think I have the Bill now. Whatever. As always, the administration has hated it and they have always claimed that it is very challenging.
+
+So the premise of the idea is that for some people who are extraordinarily wealthy, a modest fine is a rounding error and they do not care and they will pay it a hundred times over and it does not matter. For some people who are extremely low income, a modest fine causes enormous difficulties in their lives. If we were to create a pilot that looked at income levels to inform what people could pay, it might actually be helpful in the City consistently collecting the revenue that we are owed and in setting fines at a level that might actually deter bad behavior and improve conditions around the City of New York. Is this an idea that you have considered? Have you looked at this legislation previously? Is this something you would be open to exploring together?
+
+**(00:33:19)**
+
+
+
+Yes. So I have not specifically thought about this issue. I have heard about the programmatic model, but we are open to always discussing any new ideas that anybody in the Council or anyone else might have. New policy ideas — we are always open to that. Great.
+
+**(00:33:36)**
+
+
+
+We would love to explore that with you together. It has always been claimed, I guess over multiple administrations — at least de Blasio and Adams — that it would be very challenging to confirm the income levels of the individuals, and that makes the implementation challenging. We have suggested you would just affirm it yourself, what your income level is, when you... but we think it would be — we really think this is an overdue idea. The amnesty program is one approach. We think this is actually a more sustainable model that would work better, not just to collect revenue, but to improve behavior and conditions around the City.
+
+**(00:34:12)**
+
+
+
+More than happy to — we are happy to discuss. Thank...
+
+**(00:34:14)**
+
+
+
+...you very much, and thank you, Chair, for the...
+
+**(00:34:15)**
+
+
+
+...time. Thank you. Charlie, do you have questions? You are on Zoom at the moment. Charlie, are you there? Nina?
+
+**(00:34:31)**
+
+
+
+I am here. Sorry. You are okay. I am good.
+
+**(00:34:34)**
+
+
+
+Yeah, do you have questions? No, no...
+
+**(00:34:38)**
+
+
+
+...no. All right. Oh, you are saying... because do we have quorum? No, no, I am good. Thank...
+
+**(00:34:42)**
+
+
+
+...you. All right, good. I will now go over to CM Morano, followed by CM Wong.
+
+**(00:34:53)**
+
+
+
+Thank you, Majority Leader and Commissioner. One thing that jumped out at me after seeing your testimony is that the adopted budget assumes $25 million from this program. How did you arrive at $25 million? I am just wondering if that is a conservative estimate, a target, or something...
+
+**(00:35:12)**
+
+
+
+...else. I mean, it is an initial projection of what is anticipated from this program. But as we go through the program, those revenue figures will be updated by the time we get through preliminary and executive. So what participation rate does that assumption require? We can get back to you on...
+
+**(00:35:38)**
+
+
+
+...that one, on the participation rate. So one distinction I would like to understand: of that projected $25 million, how much represents money you believe...
+
+**(00:35:46)**
+
+
+
+...the City would have collected anyway without amnesty? We can follow up on those figures...
+
+**(00:35:55)**
+
+
+
+...right now. Besides the $25 million — so including the $25 million — we have currently projected around $100 million. So traditionally we are collecting just around the $75 to $80 million mark. For FY26 we are in line with our past collections — upwards of $88 million for FY26 without the program. So it is above what we would normally collect. I was very pleased to see in your testimony that...
+
+**(00:36:25)**
+
+
+
+...violations requiring correction actually have to be resolved, and I think that is an important safeguard and I am glad that it is in there. How will the Department of Finance verify the correction before granting the financial benefit? Are you relying on the issuing agency to certify the compliance, or is there something else?
+
+**(00:36:42)**
+
+
+
+Yes, it is the issuing agency that we will be working with in terms of compliance, and it is a program where you have to comply in order to receive the benefit. So it is a specific requirement that we have. So could...
+
+**(00:36:56)**
+
+
+
+...you have a situation — and it sounds like the answer is no, but I just want to be clear — where somebody receives the discount first and then fails to complete the correction afterward? Or must compliance occur before the amnesty is granted?
+
+**(00:37:10)**
+
+
+
+Yes, the answer is no. They have to comply first.
+
+**(00:37:14)**
+
+
+
+Gotcha, compliance first. My last question: in your testimony you specifically say that idling violations are excluded because you want to hold bad actors accountable. So you exclude idling violations partly because the recipients tend to be logistics companies that you say are less in need of amnesty. So need is apparently a factor in deciding who gets relief. If that is the case, why not apply that principle more broadly? Why should a multinational corporation and a neighborhood pizzeria receive the same...
+
+**(00:37:56)**
+
+
+
+...percentage reduction? So there are a number of reasons why an entity might not be able to participate in the program: if it was included in an agreement with the City Marshal before Corp Counsel, or an execution has been issued upon the Sheriff's Office, or a violation being converted to a tax lien, or a violation subject to criminal investigation. There are a number of violations that will not be participating in the amnesty program. Idling is one of many that will not be participating in...
+
+**(00:38:42)**
+
+
+
+...the program. CM Wong, thank you, Majority Leader. Commissioner, I believe you just said that in fiscal year 2026 you collected $88 million. Is it fair to say that out of the $573 million that is potentially collectible, you would only be able to collect $88 million in the coming year without this program? We are hopeful that it will be greater than that once we have built in some of our work with the other City agencies that implement additional strategies, but right now as of FY26 we collected $80 million. So when you talk about what contributes to this low rate of collection, what...
+
+**(00:39:37)**
+
+
+
+...let us not talk about the program for a minute. Look at your existing issues. Yes, please talk about why you are only able to collect at such a low rate. Sometimes it is because respondents cannot be identified. Sometimes it is because the respondent no longer exists or the business no longer exists. We have a period in which we reach out to them, and then we have a period in which outside collection agencies reach out to them. But after that it is uncollectible. So we are right now going back into the uncollectible category to see if they could be re-categorized as collectible, and we are trying to increase efforts to do better collections internally by employing new strategies and working with our partner agencies.
+
+**(00:40:25)**
+
+
+
+It seems to me outreach is a big issue. Like, for businesses that you no longer hear from, it could be an outreach issue. Yes, I see. Okay. Here are my questions. How... I am aware of repeated offenders with several default judgments. They are in every district — certainly in my district and I know who they are. So my question is: what is stopping a repeated offender with several default judgments from walking through this program that you are proposing in the exact same way as someone with one honest mistake? I do not see anything in this Bill that...
+
+**(00:41:11)**
+
+
+
+...would distinguish them. We are not differentiating. We want to ensure that all respondents have an opportunity to cure their existing violations. We want better outcomes for individuals and the City, and so we are not specifically separating or doing anything other than implementing a program. If a violation is eligible and they cure the actual violation in hand, then they will be eligible for that amnesty program. Yeah, okay.
+
+**(00:41:39)**
+
+
+
+I want to follow up, you can. I have a follow. Yeah, your time is still going. Okay. Thank you. Yes, you have more time. Good to see. This is what I find disturbing because you are giving people a second chance, all right, fine, but should there not be some kind of a hardship standard, so we are not putting struggling homeowners in the same category as a landlord who is racking up violations for years and just decided not to pay, right? So can you...
+
+**(00:42:04)**
+
+
+
+Talk about it. I mean, we again are producing a program in which if the violation is documented with the Department of Finance, then they have an opportunity to cure those violations and then receive a portion of their fines reduced. Right now we are not separating out between bad actors — you might know bad actors — or ones that are getting their judgments for the first time. We are just implementing a program that is equal across the board. So if you cure your violations, which is the outcome that we are hoping to see here, then you will be able to reduce your findings. Thank you. Thank you.
+
+**(00:42:43)**
+
+
+
+Thank you, Commissioner. Commissioner Lee, thank you. And I have to start by saying thank you. We have a great relationship in my office, your agency has been coming and I appreciate that. So I am just... I am not against it. As a business person I love the idea, but I am thinking about how we can help folks to pay the bills from the get-go instead of reaching a point where we have so much money outstanding. So what really inspired the whole process for us to have that Bill in front of us?
+
+**(00:43:23)**
+
+
+
+Well, so one of the things that we are actually trying to improve is the outreach at the get-go.
+
+**(00:43:30)**
+
+
+
+Right, instead of waiting, let us say, x amount of days, weeks, months, we are trying to increase the outreach to the respondents at a very early stage, because in the past it has been found that once we reach out to them in the early stages, they are more highly likely to actually address their violation because it is still very fresh.
+
+**(00:43:54)**
+
+
+
+That is one of the things that we are going to improve over the next couple of years. That was actually one very specific thing we are doing, and I love it because...
+
+**(00:44:03)**
+
+
+
+Once the person... oh, that is the time to catch them. Yeah, and make a deal with them — whatever. I do not like to use that word, but make an arrangement with them so they can pay the bill. So now we are putting that in. Yeah, I am all for that and I am hoping that we can come to a point too.
+
+For those folks that are driving on our streets and not paying their tickets, and some of them have plates that I cannot even read myself — missing numbers — but that is another story. We should have that conversation because it is ridiculous. Separate from this Bill, an elderly homeowner I am taking into my district... sorry, I mean in my district, a disabled homeowner's exemption renewal. He says he never received it. We have proof of mailing. It is waiting on the tax commission. What is the process for restoring his exemption for 2026-2027 because he really needs it? What can my office do?
+
+**(00:45:09)**
+
+
+
+Yeah. So, if you give me the constituent's information it goes through our tax exemptions unit. And so we are happy if you give us this...
+
+**(00:45:17)**
+
+
+
+information, we are happy to go back and see what communication... our tax exemption unit should be in conversation, and I think what is happening is they are trying to challenge the initial judgment from the exemption, which is what the tax commission is for — to appeal a decision. So we are happy to take a look offline if you give us the constituent's information. Thank you.
+
+**(00:45:41)**
+
+
+
+Being a nurse, you know, whenever I have disabled folks... and I have a few questions. I am not going to keep going because I know... Chair, I want to finish. Your time is up. Thank you so much. Thank you.
+
+**(00:45:52)**
+
+
+
+Thank you so much, Councilwoman. In March 2026, the department announced a 30-day review of its efforts to collect outstanding judgment debt and stated that as of October 2025, approximately $573 million in judgment debt was identified as potentially collectible, while approximately $744 million was deemed uncollectible. It also projected collecting a certain amount in fiscal year 2026 and indicated that additional collection efforts could increase collections beyond that amount. How much did the department collect for fiscal year 2026?
+
+**(00:46:28)**
+
+
+
+So for fiscal year 2026, we ended up collecting $88 million.
+
+**(00:46:33)**
+
+
+
+What percentage of the judgments are collected through the judgment settlement program? Through the judgment settlement program, about a third — 33 percent. Does the department still estimate approximately $573 million in outstanding judgment debt that is potentially collectible and $744 million uncollectible? If not, what is the department's current estimate?
+
+**(00:46:58)**
+
+
+
+So that is the current estimate and, again, that is considered uncollectible for a number of different reasons, including businesses and respondents who were not able to be identified or contacted. Again, it could be because businesses went out of business and we are no longer able to contact them and receive these collections.
+
+**(00:47:19)**
+
+
+
+So about the same still? Yes, that is our current estimate. Actually, I have another question. What are the criteria used to deem the judgments...
+
+**(00:47:31)**
+
+
+
+uncollectible? Our deputy commissioner could answer on the uncollectible categories.
+
+**(00:47:34)**
+
+
+
+Okay, so cases that have gone through three collection agencies — they cycled through all three collection agencies and no collection has been done and no information has been obtained on them. That also involves individuals who are bankrupt and businesses that are no longer operating. Those are what is considered uncollectible.
+
+**(00:47:58)**
+
+
+
+The department indicated it is pursuing innovative and targeted strategies to expand collections, including: partnering with the Department of Buildings and the Department of Transportation to enforce license and permit suspensions requiring licensees and permit holders to satisfy outstanding judgment debt before applying for or renewing credentials; converting issued judgments into property liens to strengthen enforcement and improve recovery rates; and implementing targeted outreach efforts, including specialized mailings to encourage payment and increase compliance.
+
+**(00:48:31)**
+
+
+
+How much additional revenue does the department expect each of these initiatives to generate in fiscal year 2027? So again, we are constantly trying to improve and working with our sister City agencies...
+
+**(00:48:44)**
+
+
+
+in order to improve collections and we have been in constant communication with them. The efforts that we have, in terms of permitting, our earlier estimates are about $10 million. Our increased outreach, at first, we think will yield additional revenue. In terms of the lien conversions, that is something that we are in constant contact on, and there is a legislative route that we are currently seeing if it is a viable option or not, so we do not necessarily have an estimate for that. But we are trying to figure out what could be done right now and what...
+
+**(00:49:22)**
+
+
+
+Do you think you can get an estimate on the lien...
+
+**(00:49:25)**
+
+
+
+conversions? We are working with the Department of Buildings on the scope and once we figure out the scope, I think that will give us a better understanding of what is convertible and what is...
+
+**(00:49:34)**
+
+
+
+not. And once you figure out the scope — what makes sense, what violations make sense, how long, what is docketable and what is not — sort of once we get a little bit more into the details with DOB is when we will figure it...
+
+**(00:49:46)**
+
+
+
+out. And you can share that with us? Yes, yes. Oh, great. That sounds great. The announcement stated that the department intends to prioritize collection of debt from the City's worst offenders. How does the department define "worst offenders"? How many respondents fall into that category and what is the total outstanding judgment debt associated with those respondents?
+
+**(00:50:09)**
+
+
+
+Yeah, so "worst offenders" — we are using that a little generally, but...
+
+**(00:50:13)**
+
+
+
+the idling violations that are going through, let us say, a criminal action, or those going through sheriffs and marshals, will not be eligible. So there are a number of violations that will not be eligible for the amnesty.
+
+**(00:50:29)**
+
+
+
+Are you contemplating additional types of respondents that should not be eligible? At the moment we can look at additional categories and see if there are additional categories that we can include or exclude. I guess from now on we are happy to have...
+
+**(00:50:45)**
+
+
+
+those conversations. And it is fair to say those offenders will not be eligible to participate in the...
+
+**(00:50:48)**
+
+
+
+program. Correct. All right.
+
+**(00:50:55)**
+
+
+
+And my last set of questions are on enforcement tools, and then I will have exhausted my questions unless someone else has any other questions. You mentioned several enforcement tools used in the past to collect on debt. Currently, how many full-time equivalents does the department employ in collections on its own staff? The full-time equivalents — could you give that? The current number is 5 full-time...
+
+**(00:51:22)**
+
+
+
+and not counting the account executive unit. As I mentioned before, we have a position posted, so we expect to have 12 by the end of the year.
+
+**(00:51:30)**
+
+
+
+And would you consider that to be a sufficient...
+
+**(00:51:34)**
+
+
+
+number?
+
+**(00:51:34)**
+
+
+
+You know, we work with the resources we have. It is an increase for us and we are going to use those staff to do the one-on-one expanded outreach, especially for our alternative enforcement unit, that were talked to guide the highest violations.
+
+**(00:51:58)**
+
+
+
+Considering the amount... oh, my volume went up.
+
+**(00:51:59)**
+
+
+
+I know, that is why I called myself — in the middle it kind of surprised me.
+
+**(00:52:03)**
+
+
+
+Considering the amount of debt outstanding and other resources like the marshals and sheriff's office, I guess I am repeating the question: do you feel like you have sufficient collection staff? And you say you work with the resources you have?
+
+**(00:52:17)**
+
+
+
+Yes. You have spoken like a true politician, Commissioner.
+
+**(00:52:19)**
+
+
+
+We believe it is sufficient and we are going to work through and improve all the used collections to make them more responsive, and I am sure...
+
+**(00:52:28)**
+
+
+
+you can do more with more, right? I think everybody would say they can always do more with more. How many outside collection agencies are currently contracted to collect judgments administered by the department? Specifically, we have three outside collection agencies. Can you explain the City Sheriff's and deputies' action plan to enforce...
+
+**(00:52:50)**
+
+
+
+judgments? So their action plan to enforce... I do not have an action plan for them, but I will tell you that when...
+
+**(00:53:00)**
+
+
+
+we have bank account information, we will refer them to the legal department for the marshal's execution on the outstanding judgment.
+
+**(00:53:14)**
+
+
+
+All right. One last question to wrap up this part of the hearing. Councilmember, your memory is remarkable. Yes. My last issue is outreach, because putting this on a website is not enough, especially for people that do not check websites. There are those who automatically get an order mentally deducted from their bank accounts or just get an email. So my question to you is: will the...
+
+**(00:53:37)**
+
+
+
+Department of Finance, if this program gets approved and voted on, will the Department of Finance proactively reach out to small businesses with...
+
+**(00:53:47)**
+
+
+
+these outstanding ECB judgments that could benefit from the program?
+
+**(00:53:52)**
+
+
+
+If we have the means to connect with these individuals in the existing pool of violations, we are more than happy to do that in one form or...
+
+**(00:54:02)**
+
+
+
+another. Yes, because as I see it now, they would never know about it. They might not know about it, right? Right. Yes. So we will again utilize all forms of outreach in order to get respondents to participate. Okay? Thank you.
+
+**(00:54:17)**
+
+
+
+Thank you so much, Councilman. Thank you so much, Commissioner, Deputy Commissioner. This panel is hereby excused. Thank you so much. I now open the hearing to public testimony. Before we begin, I remind members of the public that this is a formal government proceeding and decorum shall be observed at all times. As such, members of the public shall remain silent at all times when not testifying. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public shall not present audio or video recordings as testimony, but may submit transcripts of such to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait for your name to be called. Once you have been recognized, you will have two minutes to speak on the legislation being considered today. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant at Arms. You may also email written testimony to testimony at council.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted. When you hear your name, please come up to the witness panel. I am now calling a first panel of witnesses: Susan Peters. If anyone else is here to testify, please fill out an appearance card. I believe you are my constituent, Ms.
+
+Peters, and you may start whenever you are ready. Can you hear me? I can hear you loud and clear. Great.
+
+**(00:56:13)**
+
+
+
+It is very interesting listening to the position small business people are in. It is very tough out there and I am here to talk about why it is tough and also why people on the City Council need to educate themselves about why it is so tough for our business people. My name is Sue Peters and I am a resident of the Upper West Side. I am glad to be speaking to my local elected officials. In the last 17 years of my long career in data processing, I worked for a Wall Street bank. I discovered through the bookkeeping I was responsible for what the bank does — the power of the bank. Every time a bank makes a loan, all it is doing is simply making a bookkeeping entry in the borrower's account for the amount of the loan. This bookkeeping entry is debt to the borrower and earns interest to the bank, end quote.
+
+In other words, our money... our government does not create it, nor does the bank loan out money from savers — the bank creates it as debt. This fact is not taught in our schools or discussed in our media. Why? Whoever controls the creation of the money of a country controls that nation. Money is power. We all know that. Why do I bring this to your attention? Because you are elected officials and can investigate this and inform the citizens. Are not all of us entitled to the truth of our history and the truth of the world we live in? Only then can we think about how to change our world for the benefit of everybody.
+
+I would like to end with a quote from a New York City businessman and author from 1883: "The most fundamental law in any nation is that which institutes money, for money governs the distribution of property and thus affects in a thousand ways the relations of man to man." Thank you very much and I have actually four different handouts for the committee to read and I have a copy of my testimony.
+
+**(00:58:42)**
+
+
+
+Thank you so much for testifying, Susan Peters. Can the Sergeant please pass along the papers so we can read them? Yeah. Thank you to all of you who came here. You are excused. My apologies. Thank you to all of you who came here to share your testimony today. If there is anyone in the room who wishes to speak but has not yet had the opportunity to do so, please raise your hand and fill out an appearance card with the Sergeant at Arms at the back of the room. Seeing no hands in the committee room, we will shift to virtual testimony by participants on Zoom. Please listen for your name to be called and respond to it. Any participant who wishes to be unmuted may begin their testimony after the Sergeant at Arms starts the clock. I do not believe there is anyone signed up on Zoom. Is that correct? We are making a final call for Zoom registrants who have not yet spoken. Seeing no registrants on Zoom, if you are currently on Zoom and wish to speak but have not yet had the opportunity to do so, please use the raise hand function and our staff will unmute you. Again, seeing no hands. I would like to note that everyone can submit written testimony to testimony@council.nyc.gov within 72 hours of this hearing. That concludes our hearing for today. Thank you, Majority Leader. My pleasure, anytime.
