@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Rules, Privileges, Elections, Standards and Ethics"
 committee_slug: committee-on-rules-privileges-elections-standards-and-ethics
-title: "Mayoral Appointments"
+title: "Appointment of John Mangin to Chair the Board of Standards and Appeals"
 date: 2026-09-01
 slug: committee-on-rules-privileges-elections-standards-and-ethics-mayoral-appointments-2026-09-01
 duration: "4hrs 48m"
