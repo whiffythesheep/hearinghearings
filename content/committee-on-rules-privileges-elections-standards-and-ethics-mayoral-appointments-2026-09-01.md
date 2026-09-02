@@ -285,7 +285,7 @@ Yeah, thank you. So again, my experience is in working on equity, racial equity 
 
 
 
-I also note that CM Blue has joined us today. Seeing no other members with questions, apologies, Counselor, do you have a question?
+I also note that CM Abreu has joined us today. Seeing no other members with questions, apologies, Counselor, do you have a question?
 
 **(00:22:36)**
 
@@ -2165,7 +2165,7 @@ you? Absolutely. I commit to carefully listening to all members of the community
 
 
 
-now I will turn it over to CM Poor.
+now I will turn it over to CM Brewer.
 
 **(03:53:58)**
 
@@ -2561,7 +2561,7 @@ You know, a lot of what happened at the hearing today was taking small bits and 
 
 
 
-Thank you. I believe CM Morales Romero has a question.
+Thank you. I believe the next Council Member has a question.
 
 **(04:38:21)**
 
