@@ -81,7 +81,7 @@ Good afternoon. Welcome to the New York City Council Committee on Small Business
 
 Good afternoon, everyone. I am CM Shanel Thomas-Henry, Chair of the Committee on Small Business. Thank you for joining today's small business hearing. I have been traveling across the City speaking with business owners, and top of mind is outdated regulations and daily disruptions. With the goal of meeting entrepreneurs where they are and being responsive to their unique challenges, this hearing will focus on discussing three bills and a resolution that do just that.
 
-These include Int 0799-2026 from CM Salaam, Int 0910-2026 from CM Stevens, a Preconsidered Introduction from CM Long and Res 0328-2026 from CM Salaam as well.
+These include Int 0799-2026 from CM Salaam, Int 0910-2026 from CM Stevens, a Preconsidered Introduction from CM Zhuang and Res 0328-2026 from CM Salaam as well.
 
 I would like to thank my Council colleagues, representatives from the administration and members of the public for being here, as well as members of the public participating remotely.
 
@@ -97,7 +97,7 @@ Similarly, CM Salaam's Res 0328-2026 would ask the State of New York to provide 
 
 Int 0910-2026 from CM Stevens would repeal the requirement in Local Law 75 that all businesses must have 70% see-through security grilles by July 1. Instead, they would only be required to buy that specific security grille when obtaining a replacement. The Department of Buildings would also be required to perform outreach in the following six months to educate business owners of this requirement. This Bill will also help ensure small businesses are not unfairly penalized by a law that they were never informed about in time.
 
-CM Long is here today and would like to speak to us about her Preconsidered Introduction. This Bill would require the Mayor to establish a program to coordinate inspections and plan reviews among City agencies to speed up the time it takes to open a business. CM Long's Bill would help make things a little bit easier for entrepreneurs.
+CM Zhuang is here today and would like to speak to us about her Preconsidered Introduction. This Bill would require the Mayor to establish a program to coordinate inspections and plan reviews among City agencies to speed up the time it takes to open a business. CM Zhuang's Bill would help make things a little bit easier for entrepreneurs.
 
 The legislation that we hear today will not address all the systematic issues burdening our small businesses, but it is a start and it is timely. I look forward to hearing testimony from the Department of Small Business Services and hearing their positions on these bills. I similarly look forward to hearing from small businesses and advocates. I want to thank Rebecca from central staff for putting the work together for this hearing, as well as my own staff, Franklin Richards, Sierra Smith and Derek Slaughter, and anyone working in the background to help make this hearing possible.
 
@@ -123,7 +123,7 @@ Thank you, and I look forward to your testimony.
 
 
 
-Thank you. In addition to being joined by CM Salaam and CM... apologies. We are also joined online by CM Santosuosso. I will now turn it over to CM Long for opening remarks.
+Thank you. In addition to being joined by CM Salaam and CM... apologies. We are also joined online by CM Santosuosso. I will now turn it over to CM Zhuang for opening remarks.
 
 **(00:09:03)**
 
@@ -187,7 +187,7 @@ Int 0799-2026 would require SBS to establish a program offering loans and grants
 
 Turning my attention to the Preconsidered Introduction: the Preconsidered Introduction would require the Mayor to establish a program that would plan and coordinate agency inspections for businesses to reduce the time needed to open. The administration supports the intent of the Bill and our team is proud of our efforts to reduce opening timelines in New York City. As part of Executive Order 11, we conducted a time-to-open analysis to better understand the status quo and generate insights for reform. SBS delivered those recommendations to the Deputy Mayor for Economic Justice earlier this year.
 
-The administration has also demonstrated its commitment to cutting red tape through the expansion of our SBS BEST team, which gets small businesses to opening day by liaising and advocating with regulatory agencies on behalf of small businesses. Since the start of the administration, our BEST team has helped businesses save over $6 million. As such, we are supportive of the goals of CM Long's Bill and we look forward to partnering with the Council to advance reforms as part of Executive Order 11.
+The administration has also demonstrated its commitment to cutting red tape through the expansion of our SBS BEST team, which gets small businesses to opening day by liaising and advocating with regulatory agencies on behalf of small businesses. Since the start of the administration, our BEST team has helped businesses save over $6 million. As such, we are supportive of the goals of CM Zhuang's Bill and we look forward to partnering with the Council to advance reforms as part of Executive Order 11.
 
 Thank you so much for the opportunity to testify about SBS's work and how we can make it easier to start, operate and grow a small business in New York City. I look forward to our continued partnership to empower small businesses, and I welcome your questions.
 
@@ -623,7 +623,7 @@ Thank you. I will now turn it over
 
 
 
-to CM Long for questions. Thank you, Chair. I also wanted to thank the Commissioner for supporting my bill — thank you so much. I also want to mention my district also needs some love. If you have time, please come to my district as well. I would love that.
+to CM Zhuang for questions. Thank you, Chair. I also wanted to thank the Commissioner for supporting my bill — thank you so much. I also want to mention my district also needs some love. If you have time, please come to my district as well. I would love that.
 
 I have businesses — quite a few in Sunset Park — and a lot of businesses are actually down 30 to 40% because of the immigration issue and also the tariff issue. I actually have a business owner who just texted me with a question. So for Int 0910, about the security gate issue: if they are in the process of opening a business right now and plan to open hopefully at the end of this month, do they still need to comply with the law? Thank you for that question. They are actually in the process and they do not know what to do right now.
 

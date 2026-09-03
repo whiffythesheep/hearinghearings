@@ -1425,7 +1425,7 @@ Furlough — we have 12. I will come back for a second round.
 
 
 
-Okay. Thank you, CM Wang. Thank you.
+Okay. Thank you, CM Wong. Thank you.
 
 **(01:33:19)**
 
@@ -2489,7 +2489,7 @@ So again, as I stated earlier, I do not have the treasury report in front of me.
 
 
 
-Right. Thank you. CM Wang. Yeah, I think it is a fair question -- how many members are dues-paying carriage drivers? So I will answer it exactly as I answered before. I do not have the treasurer's report in front of me. We have 150 members, most of them are here today. If you would like them to stand up, we could do that. I do not see what the correlation is to this Bill. I do not see what they are paying or what their health benefit is. We are looking to preserve their jobs. That is what unions do.
+Right. Thank you. CM Wong. Yeah, I think it is a fair question -- how many members are dues-paying carriage drivers? So I will answer it exactly as I answered before. I do not have the treasurer's report in front of me. We have 150 members, most of them are here today. If you would like them to stand up, we could do that. I do not see what the correlation is to this Bill. I do not see what they are paying or what their health benefit is. We are looking to preserve their jobs. That is what unions do.
 
 **(03:29:31)**
 

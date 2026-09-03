@@ -509,7 +509,7 @@ Good afternoon and congratulations and welcome to DFTA. Thank you and welcome to
 
 
 
-What factors are contributing to that decline and what steps is DFTA taking to ensure that seniors who need meals are receiving meals? And on CM Wang's point, what is the outreach and marketing and education to seniors about the services that are provided for these communities? We have throughout the City and in the Bronx, we have a lot of food deserts. Is DFTA doing anything to service those food desert areas? Have you identified areas that are in greater need? So those are my questions for now. I have a few more but...
+What factors are contributing to that decline and what steps is DFTA taking to ensure that seniors who need meals are receiving meals? And on CM Zhuang's point, what is the outreach and marketing and education to seniors about the services that are provided for these communities? We have throughout the City and in the Bronx, we have a lot of food deserts. Is DFTA doing anything to service those food desert areas? Have you identified areas that are in greater need? So those are my questions for now. I have a few more but...
 
 [**(00:56:41)**](https://www.youtube.com/watch?v=t3VwzDMRYHg&t=3401s)
 
