@@ -2499,7 +2499,7 @@ Thank you. Okay, so I know we are past the Commissioner's hard stop time, so we 
 
 
 
-Good afternoon and welcome to the second Fiscal Year 2027 Executive Budget hearing for the day, focusing on the New York Fire Department. I am pleased to be joined by my colleague, CM Ariola, Chair of the Committee on Fire and Emergency Management. We have been joined by CM Brewer, CM Long, CM Paladino, CM Banks and I believe that is it.
+Good afternoon and welcome to the second Fiscal Year 2027 Executive Budget hearing for the day, focusing on the New York Fire Department. I am pleased to be joined by my colleague, CM Ariola, Chair of the Committee on Fire and Emergency Management. We have been joined by CM Brewer, CM Wong, CM Paladino, CM Banks and I believe that is it.
 
 Okay, so welcome to our amazing Commissioner. On May 20, 2026, the administration released the Executive Financial Plan for Fiscal Year 2027 through 2030, with a proposed Fiscal Year 2027 budget of $124.7 billion. The FDNY's proposed Fiscal Year 2027 budget represents 2.1% of the administration's proposed Fiscal Year 2027 budget in the Executive Plan, and this is an increase of 9.9% from what was originally budgeted in the Fiscal Year 2027 Preliminary Plan.
 

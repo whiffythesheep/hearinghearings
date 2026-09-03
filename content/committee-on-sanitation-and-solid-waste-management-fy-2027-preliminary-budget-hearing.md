@@ -107,7 +107,7 @@ Over the past year, the committee has conducted active oversight of sanitation o
 
 
 
-I would like to also recognize my colleagues who are joining us here today. We start with CM Morano, CM Wang, CM Hanif, CM De La Rosa and CM Carr. Do we have anyone on Zoom? We have CM Maloney joining us via Zoom. Commissioner, please begin when you are ready.
+I would like to also recognize my colleagues who are joining us here today. We start with CM Morano, CM Zhuang, CM Hanif, CM De La Rosa and CM Carr. Do we have anyone on Zoom? We have CM Maloney joining us via Zoom. Commissioner, please begin when you are ready.
 
 [**(00:12:00)**](https://www.youtube.com/watch?v=u1f_c8-Jcos&t=720s)
 
