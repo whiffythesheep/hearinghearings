@@ -154,7 +154,7 @@ This Council remains deeply committed to strengthening our laws and protecting N
 
 
 
-for their commitment to this issue. Before I talk about the Bills, I want to mention that we have been joined today by CM Salaam, CM Epstein, CM Wang, CM Felder, CM Farías, CM Maloney, CM Wilson, CM Aldebol, CM Narcisse, CM Morano and others joining on Zoom.
+for their commitment to this issue. Before I talk about the Bills, I want to mention that we have been joined today by CM Salaam, CM Epstein, CM Wong, CM Felder, CM Farías, CM Maloney, CM Wilson, CM Aldebol, CM Narcisse, CM Morano and others joining on Zoom.
 
 These Bills include Int 1016-2026, sponsored by myself, which would establish a dedicated Legionnaires' Disease hotline for the public to request information about Legionnaires' Disease outbreaks in New York City as well as to provide hotline users with referrals to resources and medical services. Int 0999-2026, by a Council member, in relation to establishing temporary Legionnaires' Disease testing sites and a digital map of testing sites. Int 1005-2026 and Int 1006-2026, by CM Maloney, in relation to education and outreach on Legionnaires' Disease and cleaning requirements for cooling towers. Introductions by CM Thomas-Henry in relation to post-cluster analyses of cooling towers associated with Legionnaires' Disease and establishing a public database of locations affected by Legionella. An introduction by CM Hanks in relation to an annual cooling tower compliance review and increased enforcement. And Int 0181-2026, by a Council member, in relation to requiring building owners to provide shower hoses and information materials on Legionnaires' Disease to tenants.
 
@@ -1304,7 +1304,7 @@ They can call 311. I will say that owners are always welcome to call us and to r
 
 
 
-Thank you. Okay, thank you, CM Wang. Thank you.
+Thank you. Okay, thank you, CM Wong. Thank you.
 
 **(02:12:51)**
 
@@ -1316,7 +1316,7 @@ This is not my first encounter with Legionnaires' outbreaks. This is, in my memo
 
 
 
-Can you talk about that? So first, thank you for the question, CM Wang. When it comes to building investigations where there is a potential Legionella contamination in the potable water supply, it is safe to drink the water, so I want to set that record straight. Absolutely. If there are other areas that you have specifically in mind, we are happy to talk about this.
+Can you talk about that? So first, thank you for the question, CM Wong. When it comes to building investigations where there is a potential Legionella contamination in the potable water supply, it is safe to drink the water, so I want to set that record straight. Absolutely. If there are other areas that you have specifically in mind, we are happy to talk about this.
 
 **(02:13:59)**
 
@@ -1352,7 +1352,7 @@ She was sick for like two weeks. How is she doing now? She is doing okay now. Sh
 
 
 
-CM Long, if you have a question that is fine, but this is not a...
+CM Wong, if you have a question that is fine, but this is not a...
 
 **(02:16:48)**
 
