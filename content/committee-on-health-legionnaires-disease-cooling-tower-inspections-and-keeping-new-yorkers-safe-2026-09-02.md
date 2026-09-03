@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Health"
 committee_slug: committee-on-health
-title: "Legionnaires' Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe"
+title: "The Upper East Side Legionnaires' Outbreak and Cooling Tower Inspections"
 date: 2026-09-02
 slug: committee-on-health-legionnaires-disease-cooling-tower-inspections-and-keeping-new-yorkers-safe-2026-09-02
 duration: "4hrs 33m"
