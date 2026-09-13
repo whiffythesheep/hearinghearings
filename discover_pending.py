@@ -500,6 +500,32 @@ def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
     )
 
 
+def delete_branch_if_empty(branch: str) -> None:
+    """Delete ``branch`` when the run left it identical to master.
+
+    A pipeline that fails before its first commit leaves an empty
+    ``pending/<id>`` branch. Left in place, every later run counts it as
+    ``local-pending`` and skips the event -- suppressing it permanently and
+    silently. A branch carrying real commits, or a dirty tree, is left alone
+    for manual inspection as before.
+    """
+    dirty = git("status", "--porcelain", check=False)
+    if dirty.returncode != 0 or dirty.stdout.strip():
+        logger.warning(
+            "Working tree not clean after %s; leaving the branch in place "
+            "for inspection.", branch,
+        )
+        return
+    ahead = git("rev-list", "--count", f"master..{branch}", check=False)
+    if ahead.returncode != 0 or ahead.stdout.strip() != "0":
+        return
+    if git("branch", "-D", branch, check=False).returncode == 0:
+        logger.info(
+            "Deleted empty branch %s so the event is retried, not "
+            "suppressed.", branch,
+        )
+
+
 def process_event(event: dict) -> str:
     """Run pipeline + open PR for one event. Returns status string."""
     branch = f"pending/{event['event_id']}"
@@ -558,6 +584,8 @@ def process_event(event: dict) -> str:
                 "Could not return to master cleanly (branch %s left in "
                 "place for inspection): %s", branch, co.stderr.strip(),
             )
+        else:
+            delete_branch_if_empty(branch)
 
 
 # --- main ---------------------------------------------------------------
