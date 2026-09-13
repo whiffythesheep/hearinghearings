@@ -489,7 +489,7 @@ def extract_agenda_metadata(agenda_text, client):
     """Extract committee, date, chairs, members, and topic from agenda text using Claude."""
     prompt = f"""Extract the following from this NYC Council meeting agenda:
 
-1. The committee name(s). If this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation"). The lead committee appears in the agenda header; co-committees may be signalled in any of these ways and you must include them all:
+1. The committee name(s). If this agenda is for a **Stated Meeting** of the full Council (it lists business from many committees and names no single one), answer exactly "City Council" and leave CHAIRS and MEMBERS blank — a Stated Meeting has no committee chair. Otherwise: if this is a joint hearing involving multiple committees, list ALL committees separated by " | " (e.g. "Committee on Criminal Justice | Committee on Governmental Operations, State & Federal Legislation"). The lead committee appears in the agenda header; co-committees may be signalled in any of these ways and you must include them all:
    - An explicit "Jointly with the Committee on X" line at the top of the agenda
    - Asterisk-footnote markers — e.g. an agenda item like "*10:00 a.m. - Department for the Aging" with a corresponding footnote "*Jointly with the Committee on Aging" further down. Each distinct asterisk run (*, **, ***) introduces a separate co-committee. Multi-session executive/preliminary budget agendas frequently use this pattern.
    - Phrases like "Joint hearing with..." or "Held jointly with..." in the location or header area.
@@ -537,6 +537,19 @@ TOPIC: [topical title or NONE]"""
             members = line.split(":", 1)[1].strip()
         elif line.startswith("TOPIC:"):
             topic = line.split(":", 1)[1].strip()
+
+    # Drop echoed placeholders. A Stated Meeting agenda names every committee
+    # and no single one, so the model can answer with the response format's
+    # own "[committee name(s)]" literal rather than a value — which then goes
+    # straight into front matter and the slug. Treat a bracketed echo as no
+    # answer. First hit: event 1442554, the 2026-09-10 Stated Meeting.
+    def drop_placeholder(value):
+        return "" if re.fullmatch(r"\[.*\]", value.strip()) else value
+
+    committee = drop_placeholder(committee)
+    chairs = drop_placeholder(chairs)
+    members = drop_placeholder(members)
+    topic = drop_placeholder(topic)
 
     # Strip any empty pipe-delimited segments Claude may have emitted anyway —
     # joint agendas often list chair/members only for the lead committee.
