@@ -25,16 +25,25 @@ hearinghearings/
 ├── README.md
 ├── summarize_council_meeting.py   # pipeline entry point
 ├── reprocess_published.py         # batch rebuild all published hearings
+├── scrape_record.py               # record layer: Legistar → data/ (no LLM, no cost)
+├── data/                          # scraped record, TRACKED (see "Record layer")
+│   ├── meetings/<event_id>.json   #   items, actions, roll calls
+│   └── matters/<file-slug>.json   #   status, sponsors, attachments, fiscal, history
 ├── word_bank.json                 # persistent transcript corrections (reference data, not tracked)
 ├── summarize.log                  # gitignored
 ├── Input/                         # cached agenda PDFs and transcript JSONs (gitignored)
 ├── content/                       # hearing markdown files (YAML front matter + summary + transcript)
 └── site/
     ├── build.py                   # Jinja2 + markdown → static HTML
+    ├── record.py                  # loads data/, derives members + committees
     ├── templates/
-    │   ├── base.html              # shared window chrome + MailerLite subscribe block
+    │   ├── base.html              # shared window chrome, section nav, subscribe block
     │   ├── index.html             # listing page
-    │   └── hearing.html           # single hearing page
+    │   ├── hearing.html           # single hearing page (+ "The record" block)
+    │   ├── meetings.html / meeting.html      # all meetings; vote-session records
+    │   ├── matters.html / matter.html        # matters index + lookup; matter pages
+    │   ├── members.html / member.html        # voting records
+    │   └── committees.html / committee.html  # committee activity
     ├── static/site.css            # design system (Win95/XP palette, Inter + IBM Plex Mono)
     └── output/                    # built site, committed for Cloudflare Pages to serve
 ```
@@ -205,6 +214,62 @@ The name validator is **advisory, never blocking**: witnesses, agency staff, sta
 ### Batch reprocess
 
 `python reprocess_published.py` rebuilds every published hearing from its cached `raw_segments`, then does a single deploy at the end. Use after changing style rules or template logic.
+
+## Record layer
+
+`scrape_record.py` builds a structured record of **what the Council decided**, separate
+from the transcript-derived summaries. Pure scraping — no Anthropic calls, no API key,
+nothing to pay for. Built 2026-09-13 (phases 1–4).
+
+```bash
+python scrape_record.py                 # every meeting in the archive
+python scrape_record.py --since 2026-09-01
+python scrape_record.py --limit 5 --dry-run
+python scrape_record.py --skip-fiscal   # skip the Fiscal Impact downloads
+```
+
+**The model, in one sentence:** a **Matter** has **Actions** taken at **Meetings**, and
+each Action may carry **Votes** by **Members**.
+
+"Bill" is the wrong noun — Legistar's word is **matter**, and Introductions are under
+half of them (204 Int, 115 Res, 58 Oversight, 51 Land Use, 7 Mayor's Message across the
+archive). Land Use is the entire substance of every Zoning hearing.
+
+### Where the data comes from
+
+Everything is scraped; `webapi.legistar.com` returns **403** on every endpoint.
+
+| Fact | Source |
+|---|---|
+| Items on an agenda, action, result | `MeetingDetail.aspx` |
+| Roll call, named, per member | `HistoryDetail.aspx` (linked from an `onclick`, not an href) |
+| Matter status, sponsors, history | `LegislationDetail.aspx` — **410s without its GUID** |
+| Committee reports, fiscal statements, bill text | `View.ashx?M=F` |
+| Official minutes (roll call, canonical spellings) | `View.ashx` — PDF, ~33pp |
+| Recording, duration, deep-link hash | `councilnyc.viebit.com/vb/public/vod` — `id` **is** the watch hash |
+
+Meetings are discovered from published hearings' own `council_url` front matter plus the
+`Calendar.aspx` window, so **no ASP.NET date-range postback is needed**. The calendar
+holds ~100 rows, about a month of past meetings — anything older is unreachable there.
+
+### Gotchas
+
+- **`data/` is tracked on purpose.** One small JSON per entity means a nightly run shows
+  up as a readable diff (`status: Committee → Enacted`) rather than an opaque blob.
+- **Attachments are never committed.** Cached under `Input/legistar_docs/` (gitignored)
+  and linked out to Legistar. 2,831 documents would bloat the repo.
+- Fiscal Impact Statements are mostly `.docx` served as `application/msword` (stdlib
+  `zipfile` reads them); **four are PDFs** and go through `pdfplumber`. 116 of 118 parse;
+  the rest say "[See Below]" and store nothing rather than a guess.
+- **Member names need normalising**, not more data: folding diacritics and middle
+  initials matches all 51 to their district ("Elsie Encarnación"/"Encarnacion",
+  "Kamillah Hanks"/"Kamillah M. Hanks" — the initial sits on either side).
+- **Matter numbers auto-link in summary prose; member names deliberately do not.**
+  Transcript spellings are caption-derived, and a wrong link would point at a real person
+  who was not in the room.
+- Vote sessions get record-only pages at `/meetings/<event_id>/`. A meeting that gains a
+  published hearing loses its record-only page automatically and its items render as the
+  hearing page's "The record" block instead.
 
 ## Deployment
 
