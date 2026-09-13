@@ -695,6 +695,19 @@ def slugify(text, max_length=None):
     return s
 
 
+def long_meeting_date(date_str):
+    """Render an ISO date as "September 9, 2026" for use in a page title.
+
+    Falls back to the raw string if it does not parse, so a malformed
+    agenda date degrades to something readable rather than raising.
+    """
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d")
+    except (ValueError, TypeError):
+        return date_str
+    return f"{d.strftime('%B')} {d.day}, {d.year}"
+
+
 def ms_to_timestamp(ms):
     """Convert milliseconds to HH:MM:SS."""
     s = ms // 1000
@@ -2441,15 +2454,17 @@ def main():
                     f"Auto-discovered title from agenda: {args.title!r}"
                 )
             elif not args.title and not args.youtube_url:
-                # Viebit path with no agenda topic — bail out now rather
-                # than letting the downstream Viebit check raise a less
-                # helpful error.
-                logger.error(
-                    "Could not auto-discover a title from the agenda "
-                    "(likely a stated meeting or general legislative "
-                    "business). Re-run with --title \"Your chosen title\"."
+                # No single topic on the agenda: a stated meeting, a vote
+                # session, or general legislative business. Carry on with a
+                # date-based title rather than exiting. Exiting here used to
+                # strand the event -- the nightly run had already created
+                # pending/<id>, and an abandoned branch suppresses the event
+                # on every later run (see discover_pending.py).
+                logger.warning(
+                    "No single topic on the agenda (likely a stated meeting, "
+                    "vote session or general legislative business). Falling "
+                    "back to a date-based title. Pass --title to override."
                 )
-                sys.exit(1)
 
     # When --transcript-json or --viebit-url is used, argparse assigns the
     # single positional to youtube_url. Shift it to agenda_pdf if needed.
@@ -2507,9 +2522,14 @@ def main():
                     logger.warning(f"Could not fetch video duration: {e}")
     elif args.viebit_url:
         if not args.title:
-            logger.error("--title is required when using --viebit-url "
-                         "(the Viebit page exposes no clean meeting title).")
-            sys.exit(1)
+            # The Viebit page exposes no clean meeting title, so the title
+            # normally comes from the agenda topic or --title. When neither
+            # exists, fall through: committee and date are always available
+            # from the agenda PDF and stand in below.
+            logger.warning(
+                "No --title given with --viebit-url and no agenda topic; "
+                "the hearing will be titled by its date."
+            )
         segments, json_path, video_info = fetch_viebit_transcript(
             args.viebit_url, override_title=args.title, skip=args.skip_fetch
         )
@@ -2720,14 +2740,27 @@ def main():
         primary_committee = committee.split(" | ")[0] if committee else ""
         committee_slug_val = slugify(primary_committee) if primary_committee else ""
 
+        date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
+
+        # `titled` tracks whether the hearing has a real subject. When it
+        # does not, the date carries the heading and is left out of the
+        # slug, which already ends in the date.
+        titled = True
         if args.title:
             title = args.title
+        elif args.viebit_url:
+            titled = False
+            title = f"Meeting of {long_meeting_date(date_str)}"
         else:
             title = video_info.get("title", "council_meeting")
             title = clean_youtube_title(title)
 
-        date_str = meeting_date or datetime.now().strftime("%Y-%m-%d")
-        combined_for_slug = f"{primary_committee}, {title}" if primary_committee else title
+        if not primary_committee:
+            combined_for_slug = title
+        elif titled:
+            combined_for_slug = f"{primary_committee}, {title}"
+        else:
+            combined_for_slug = primary_committee
         # Fold the meeting date into the slug so two same-committee, same-title
         # hearings (common during budget season) don't collide and overwrite.
         slug = f"{slugify(combined_for_slug, max_length=100)}-{date_str}"
