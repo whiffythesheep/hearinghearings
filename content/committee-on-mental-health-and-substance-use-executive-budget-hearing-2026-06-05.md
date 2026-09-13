@@ -3965,7 +3965,7 @@ Commissioners. Really quick...
 
 
 
-I have a question about Be Heard. I think you said you are not prepared to answer questions on Be Heard. No, just that we do not do the operations of Be Heard. Our role is to train the social workers and hire them. But the operations of Be Heard are right now in the Fire Department. Okay. So Adrienne, of the $6 million for Be Heard, is that going to you? It is going to the Fire Department.
+I have a question about Be Heard. I think you said you are not prepared to answer questions on Be Heard. No, just that we do not do the operations of Be Heard. Our role is to train the social workers and hire them. But the operations of Be Heard are right now in the Fire Department. Okay. So, of the $6 million for Be Heard, is that going to you? It is going to the Fire Department.
 
 **(05:31:37)**
 

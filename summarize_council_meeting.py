@@ -1519,6 +1519,7 @@ Proper nouns and known terms:
 - Correct proper nouns ONLY when the transcript version is a clear phonetic misspelling of a name on one of the reference lists below, AND the misspelled version is not itself a real word or name
 - Apply the known corrections from the word bank below — these are definitive and should always be applied
 - Use the known terms list to recognise NYC government terminology that should be preserved as-is
+- The Council's live captioner renders the word "one" as "Adrienne" (a stenographer's dictionary collision). A bare "Adrienne" NOT followed by "Adams" is almost always "one" — including in compounds ("Adrienne shot" = "one-shot", "Adrienne year contract" = "one-year contract") and in proper nouns ("Solar Adrienne" = "Solar One", "Empire Wind Adrienne" = "Empire Wind One"). "Speaker Adrienne Adams" is a real person and must be left alone. Where "one" does not fit the sentence, drop the stray word rather than inventing a name
 
 Style rules:
 - Fix punctuation and sentence boundaries (the transcript often has run-on sentences)

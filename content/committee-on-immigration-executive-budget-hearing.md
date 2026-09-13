@@ -1074,7 +1074,7 @@ Thank you so much. Okay, CM Mealy, followed by CM...
 
 
 
-Yes. Congratulations. Thank you. Cheers for this great hearing. I want to concur with my colleague Adrienne in regards to juvenile justice. You said most of this funding will support administrative and operational costs, including supplies, maintenance and repairs that are not capitally eligible, at the Crossroads Detention Center in Brooklyn. A portion of these funds — a half a million, which is baseline — in FY27 will support three additional beds in non-secure detention facilities. I am glad to hear that the half a million is going here, because I have to say, I put funding in with... to clean all around that detention center.
+Yes. Congratulations. Thank you. Cheers for this great hearing. I want to concur with my colleague in regards to juvenile justice. You said most of this funding will support administrative and operational costs, including supplies, maintenance and repairs that are not capitally eligible, at the Crossroads Detention Center in Brooklyn. A portion of these funds — a half a million, which is baseline — in FY27 will support three additional beds in non-secure detention facilities. I am glad to hear that the half a million is going here, because I have to say, I put funding in with... to clean all around that detention center.
 
 **(01:50:56)**
 
@@ -1644,7 +1644,7 @@ And then what are the roles that really kind of serve as that center point to li
 
 
 
-And I know it is a fast turnaround time, but again, I just want to make sure that we are tapping in the local Council members to be a part of those conversations so that we could all be on the same page. Because it starts to get... this can join it, Adrienne, have parents reached out to the schools and all the things. So I want to make sure that local Council members are part of the conversations and being brought in to be as supportive as possible with these transitions. I think, you know, a lot of folks are not happy and we are in a place where some of these decisions are final. So thinking about how do we work together to get not only the will, but also welcome those coming into their communities.
+And I know it is a fast turnaround time, but again, I just want to make sure that we are tapping in the local Council members to be a part of those conversations so that we could all be on the same page. Because it starts to get... this can join it, have parents reached out to the schools and all the things. So I want to make sure that local Council members are part of the conversations and being brought in to be as supportive as possible with these transitions. I think, you know, a lot of folks are not happy and we are in a place where some of these decisions are final. So thinking about how do we work together to get not only the will, but also welcome those coming into their communities.
 
 **(03:01:45)**
 
