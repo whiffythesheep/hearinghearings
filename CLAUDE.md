@@ -100,7 +100,10 @@ python summarize_council_meeting.py --viebit-url "<https://councilnyc.viebit.com
 python summarize_council_meeting.py --transcript-json "Input/<cached.json>" "Input/<agenda.pdf>"
 
 # Common flags
---viebit-url <url>    Viebit watch URL; use when the hearing isn't on YouTube. Requires --title.
+--viebit-url <url>    Viebit watch URL; use when the hearing isn't on YouTube. --title is
+                      optional: without it, and with no agenda topic, the hearing is titled
+                      by its date ("Meeting of September 9, 2026") and the slug is
+                      committee + date.
 --skip-fetch          reuse cached transcript
 --skip-clean          bypass the cleanup step
 --skip-summary SLUG   reuse existing page, update only transcript
