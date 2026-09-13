@@ -210,7 +210,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 77 of 77</span>
+            <span id="hearing-count" aria-live="polite">Showing 78 of 78</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -476,6 +476,20 @@
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["City Council"]'
+                data-title="Stated Meeting"
+                data-month="2026-09"
+                data-slug="city-council-stated-meeting-2026-09-10">
+                <a href="/hearings/city-council-stated-meeting-2026-09-10/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">City Council</span>
+                    <span class="hearing-row__title">Stated Meeting</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -1638,7 +1652,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 77;
+        var totalHearings = 78;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');

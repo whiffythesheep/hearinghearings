@@ -1,0 +1,1069 @@
+---
+committee: "City Council"
+committee_slug: city-council
+title: "Stated Meeting"
+date: 2026-09-10
+slug: city-council-stated-meeting-2026-09-10
+duration: "1hr 34m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260910-134834.mp4"
+viebit_hash: "G5R7pDU7FTI9i3oQ"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442554&GUID=2D66A46D-BFAC-4F51-8E94-B066F447672B&Search="
+chairs: ""
+members: ""
+---
+
+Summary
+
+Meeting Overview
+
+The September 10, 2026 Stated Meeting of the New York City Council convened the day before the 25th anniversary of the September 11 attacks, and that fact shaped the entire session. The invocation, delivered by FDNY Chaplain Reverend Doctor V. Simpson Turner, framed the day in terms of collective grief and ongoing obligation, explicitly linking the 343 firefighters killed on the day itself to the thousands who have since died of 9/11-related illnesses. Speaker Menin's address covered the anniversary in depth, noting the Council's allocation of funding for 9/11 Memorial and Museum field trips, the recently launched administration portal releasing long-withheld 9/11 environmental toxin records, and the budget provision of several million dollars for the Department of Investigation to complete and release its mandated report on those files. Menin disclosed a personal stake: she lost her mother to a 9/11-related cancer. The session also passed, by voice vote, a resolution commemorating the 25th anniversary and a second resolution calling on Albany to mandate 9/11 curriculum in all New York schools, co-sponsored by Council Member Ariola, who used her floor time to insist the curriculum should state plainly that Al Qaeda hijackers killed nearly 3,000 people, without sanitisation or political framing.
+
+The meeting also produced a significant and contested vote on three mayoral appointments. Dave Chokshi to the Board of Health passed 44-6, and John Mangin as Chair of the Board of Standards and Appeals passed 40-6, with multiple members on both the left and right voting no or abstaining on the Mangin appointment specifically. Council Member Morano delivered the sharpest dissent: she argued that Mangin was one of the principal architects of the 2025 ballot proposals that transferred land use authority away from the Council and local communities, and that confirming him to chair the body that received much of that power was internally inconsistent. Several other members echoed this concern, though Council Members Narcisse and an unnamed colleague voted yes after Mangin visited their districts. The Mangin confirmation encapsulates a real and unresolved tension in the Council between its stated commitment to community land use input and its willingness to confirm a technocrat who helped diminish that input.
+
+General discussion produced a substantive side-debate about anti-Muslim rhetoric in the context of the 9/11 anniversary. Council Members Cabán, Hudson and Epstein each raised concerns about attacks on Mayor Zohran Mamdani and Muslim colleagues, including Council Member Shahana Hanif and Council Member Yusef Salaam, with Hudson calling the conduct Islamophobic and racist and arguing it repeated the pattern of surveillance and suspicion visited on Muslim New Yorkers after 2001. The remarks were pointed and direct, and the subject matter reflects the political character of the city's current mayoralty: Mamdani is New York's first Muslim mayor, and his presence at tomorrow's commemoration has apparently become a source of public controversy among some elected officials.
+
+Legislatively, the Council passed two housing rezonings with Mandatory Inclusionary Housing requirements — 200 Kent Avenue in Williamsburg (143 units, 36 affordable) and 47-03 108th Street in Corona (119 units, 30 affordable), with the latter modified by the Council from R7X to R7D zoning. Other legislation passed included Int 0813-2026-A enabling license revocation for tobacco or e-cigarette retailers selling illegal cannabis; Int 0866-2026-A requiring 48-hour advance notice signs for disruptive street work; Int 0804-2026-A capping illuminance on residential outdoor lighting in low-density districts; updated sodium and added-sugar warning label requirements for food service establishments; Int 0220-2026-A directing the City to map and document historical African American burial sites; and Int 0906-2026-A requiring DSNY to respond to blocks receiving seven or more dog waste complaints in a week. Among the more interesting introductions were a package of contracting reform bills from Council Member Lee addressing chronic late payment to nonprofit service providers; Council Member Banks's bill to allow electronic HPD property registration after repeated complaints about lost paperwork; Council Member Salaam's bill requiring officers to fasten seat belts for individuals in custody; and Council Member Morano's bill to expand property tax exemptions for 100-percent service-connected disabled veterans. Council Member Santosuosso closed general discussion by noting her return from maternity leave, during which her office closed over 1,000 constituent cases.
+
+Numbers
+
+- 25 years since the September 11, 2001 attacks, commemorated the day before this meeting.
+- 2,977 people murdered on September 11, 2001, as cited by Speaker Menin.
+- More than 2,900 souls referenced in the invocation as killed on the day of the attacks.
+- Over 9,000 people have now died from 9/11-related cancers or illnesses, exceeding the number killed on the day itself.
+- 343 FDNY members killed on September 11, 2001.
+- 12 Black New York City firefighters among those killed on September 11, 2001, as noted by Majority Leader Abreu in recognising Chaplain Turner's advocacy.
+- 5,200 design submissions from 63 countries were reviewed to select the 9/11 Memorial design, as recalled by Speaker Menin, who served on the selection jury.
+- Several million dollars allocated in the City budget for the Department of Investigation to complete and release its mandated report on 9/11 environmental toxin files.
+- 200 Kent Avenue Rezoning: 143 housing units total, 36 of which will be affordable.
+- 47-03 108th Street Rezoning: approximately 119 dwelling units total, 30 of which will be permanently affordable under Option 1.
+- John Mangin (Board of Standards and Appeals Chair) confirmed 40-6.
+- Dave Chokshi (Board of Health) confirmed 44-6.
+- Int 0813-2026-A (tobacco/cannabis license revocation) passed 46-2 with one abstention.
+- Int 0906-2026-A (dog waste complaints) passed 47-2 with one abstention.
+- 7 or more dog waste complaints on the same block within a week triggers a DSNY inspection under Int 0906-2026-A.
+- 48 hours minimum advance notice required before disruptive street work under Int 0866-2026-A.
+- 2,300 milligrams of sodium per serving is the threshold for mandatory warning display under Int 0196-2026-C.
+- 100 percent of daily value for added sugars is the threshold for warning labels under Int 0547-2026-B.
+- Little Caesars cited as an example: approximately 11,000 milligrams of sodium in one pizza, nearly five times the recommended daily limit of 2,300 milligrams.
+- 1-hour delay proposed by NYPD for encrypted radio access to credentialed journalists; Council Member Brewer's Int 1025-2026 would cap the delay at 15 minutes.
+- At least 15 pedicab relief stands to be established by DOT under Int 1026-2026.
+- 15 miles per hour is the speed threshold below which electric pedal assist would be permitted on pedicabs under Int 1063-2026.
+- Capital projects costing $10 million and under targeted by Council Member Wilson's cost benchmarking and approval timeline bills, Int 1064-2026 and Int 1065-2026.
+- 10 gigawatts of solar generation potential cited for New York City rooftops at peak production, in support of Res 0622-2026 on automated solar permitting.
+- Over 700 students surveyed in a youth council report on student access to public transportation, released a few weeks before this meeting.
+- Over 1,000 constituent cases closed by Council Member Santosuosso's office during her maternity leave period.
+- Nearly 1,000 signatures from delivery workers submitted to the Council in support of the Delivery Protection Act, referenced by Council Member Cabán.
+- Over 30 co-sponsors on the Delivery Protection Act as of the meeting date.
+
+Action Points
+
+- Administration (via Corporation Counsel Steve Banks's prior commitment) to continue releasing 9/11 environmental toxin records through the newly launched public portal.
+- Department of Investigation to complete and release its Council-mandated report on 9/11 environmental files, funded by several million dollars secured in the City budget.
+- Department of Records and Information Services, in consultation with other City agencies, to maintain a map and list of historical African American burial sites citywide, pursuant to Int 0220-2026-A now passed into law.
+- DCWP to implement the authority to revoke or suspend tobacco and e-cigarette retail dealer licenses upon findings of illegal cannabis sales, pursuant to Int 0813-2026-A now passed.
+- DSNY to dispatch employees to evaluate and enforce dog waste rules on blocks receiving seven or more complaints within a week, pursuant to Int 0906-2026-A now passed.
+- Contractors and City agencies performing disruptive street work to post notification signs at least 48 hours in advance under Int 0866-2026-A now passed.
+- DOHMH to develop rules requiring food service establishments to display sodium warning symbols next to items at or above 2,300 milligrams per serving, and to conduct public outreach to establishments, pursuant to Int 0196-2026-C now passed.
+- DOHMH to implement added-sugar warning icons for items at or above 100 percent of daily added-sugar value, issue warnings for noncompliance and conduct public education campaigns, pursuant to Int 0547-2026-B now passed.
+- DOT to establish at least 15 pedicab relief stands and to determine their locations, if Int 1026-2026 advances through committee.
+- NYPD to cap encrypted radio delays for credentialed journalists at 15 minutes and provide scanning technology, if Int 1025-2026 advances through committee.
+- HPD to implement an electronic property registration system accepting documents, electronic signatures and filing fees online, if Int 1023-2026 advances through committee.
+- Mayor's Office of Media and Entertainment to review its rules on press credential issuance, suspension and revocation, if Int 1024-2026 advances through committee.
+- NYPD and correction officers to fasten seat belts of individuals in custody before transport, except in emergencies, if Int 1054-2026 advances through committee.
+- Parks Department to inspect and water-test public drinking fountains at least twice a year, post results signage and maintain an online map accessible via QR code, if Int 1055-2026 advances through committee.
+- Agencies to publish cost benchmarks for small capital projects and report deviations from actual costs, and to establish approval and change-order timeframes for projects under $10 million, if Int 1064-2026 and Int 1065-2026 advance through committee.
+- New York State Legislature urged to pass and Governor to sign legislation mandating a 9/11 curriculum in all New York schools, pursuant to Res 0007-2026-A now adopted.
+- New York State Legislature urged to pass and Governor to sign S.5781/A.6270 requiring municipalities to adopt an automated solar permitting platform, pursuant to Res 0622-2026 introduced by Council Member Gennaro.
+- John Mangin, newly confirmed Chair of the Board of Standards and Appeals, urged by Council Member Brewer to keep the Upper West Side off the city's environmental remediation priority list.
+- Council members who have not yet visited the 9/11 Memorial Museum urged by Speaker Menin to do so, including through school district field trips now funded in the City budget.
+- Council members not yet co-sponsoring the Delivery Protection Act urged by Council Member Cabán to sign on.
+
+## Full Transcript
+
+**(00:00:02)**
+
+
+
+Please set all electronic devices to vibrate. If you are standing in the back, please have a seat. If you are standing along that wall, please have a seat. Thank you again. If you are standing in the back, please have a seat. Majority Leader, all yours.
+
+### 1. Roll Call
+
+**(00:00:29)**
+
+
+
+Good afternoon and welcome to the Stated Meeting of September 10, 2026. I am Majority Leader Shaun Abreu. Thank you for joining us. As a reminder, decorum must be respected at all times. If you would like to follow along, the agenda for today's meeting is posted on our website. On behalf of the body, I welcome the members of the public who have joined us today. During Stated Meetings, only members of the Council speak. Members of the public shall remain silent. If you wish to express your support of any remarks, you may make the silent approval gesture. Thank you. Please join us for the Pledge of Allegiance, and then we will do roll call.
+
+**(00:01:29)**
+
+
+
+Call. Aldebol? Present. Ariola? Here. Avilés? Banks. Present. Brewer? Brooks-Powers? Cabán? Present. De La Rosa? Here. Dinowitz? Here. Encarnación? Present. Epstein? Present. Farías? Ossé? Present. Felder? Here. Feliz? Gennaro? Here. Gutiérrez? Hanif? Hankerson? Here. Louis? Here. Hanks? Present. Hudson? Joseph? Present. Krishnan? Lee? Louis? Maloney? Present. Mealy? Morano? Here. Narcisse? Here. Nurse? Here. Ossé? Here. Paladino? Restler? Here. Riley? Present. Salaam? Present. Justin Sanchez? Here. Pierina Sanchez? Present. Santosuosso? So happy to be here. Schulman? Here. Stevens? Thomas-Henry? Present. Ung? Present. Vernikov? Yeah. Hudson? Present. Krishnan? Here. Lee? Here. Stevens? Here. Williams? Wilson? Present. Won? Present. Yeah. Zhuang? Yeah. Carr? Abreu? Present. Speaker Menin? Here.
+
+### 2. Invocation
+
+### 3. Adoption of Minutes
+
+### 4. Messages & Papers from the Mayor
+
+### 5. Communications from City, County & Borough
+
+**(00:05:54)**
+
+
+
+Thank you. We will now have the invocation, which will be delivered by Reverend Doctor V. Simpson Turner, the Senior Pastor of Mt. Carmel Baptist Church, which is located at 714 Quincy Street in Brooklyn. Let us bow our heads.
+
+Eternal God, we come before you on this sacred eve, standing in the shadow of a day the City will never forget. 25 years have passed, yet the weight of that morning remains as real to us now as it was then. We remember the 343 members of the FDNY who ran toward danger when every instinct in creation cried out to run away, who climbed when others descended, who gave the whole of their lives in the space of a single morning, and whose names are etched not only in bronze but in the hearts of this City. We remember the more than 2,900 souls taken that day — mothers and fathers, sons and daughters, neighbors and strangers who became family in grief. We hold their memory as a sacred trust. And we remember too the hundreds who did not fall on September 11, but in the years since, who breathed in the poison of those broken towers as they searched, as they served, as they stayed. Their deaths came slower, but their sacrifice was no less complete.
+
+Lord, let this City never separate those names from the 343, nor from the more than 2,900. They are one line of the fallen, written across 25 years instead of a single day. We ask for your comfort upon every family still carrying this loss, that they would feel even now that their loved one's sacrifice is not forgotten by the City, this nation or you. Grant courage to those who still serve in this City's firehouses, precincts, rescue companies, and even those today who serve in City government, who carry forward the same willingness to do what is right, to run toward danger for the sake of a stranger. Grant us the living the resolve to honor these lives, not only in remembrance, but in how we care for one another. May your peace rest and abide with each one of us. We ask this in your holy name. Amen.
+
+Thank you, Reverend Dr. Turner, for today's invocation. I would also like to recognize Mt. Carmel Baptist Church, which is celebrating its centennial anniversary. Congratulations. Reverend Dr. Turner is a graduate of the Samuel DeProctor School of Theology at Virginia Union University and the College of Staten Island. He was appointed by former Mayor Michael Bloomberg as Senior Protestant Chaplain of the New York City Fire Department and has also served as a chaplain with the Department of Correction and the New York City Sheriff's Department. Reverend Dr. Turner has lectured at national and international institutions, including at the United Nations, and has an extensive record of civic and community service. He has been a dedicated advocate for preserving the memory of the 12 Black New York City firefighters who lost their lives on September 11, 2001, participating in annual commemorations honoring their service and sacrifice. As Senior Pastor of Mt. Carmel Baptist Church and Executive Director of the Mount Carmel Housing Corporation, Reverend Dr. Turner has dedicated many years to faith, public service, housing, education and the Brooklyn community. We thank Reverend Dr. Turner for his service, and I ask that his invocation be spread in full upon the record. We will now ask Council Member Justin Sanchez for the adoption of minutes.
+
+### 6. Petitions and Communications
+
+### 7. Land Use Call-Ups
+
+### 8. Communication from the Speaker
+
+**(00:10:41)**
+
+
+
+Motion that the minutes of the City meeting of August 13, 2026 be adopted as printed. Messages and papers from the Mayor: none. Communication from City, County and Borough offices: none. Petitions and communications: none. Land use call-ups: 91.
+
+**(00:11:01)**
+
+
+
+Thank you. I would ask that the Clerk now take a roll call vote on today's land use call-up items.
+
+**(00:11:12)**
+
+
+
+Ariola? Aye. Avilés? Aye. Banks? Aye. Brewer? Yes. Brooks-Powers? Cabán? Aye. Thank you. De La Rosa? All right. Dinowitz? Aye. Encarnación? Aye. Thank you. Brooks-Powers? I ask permission to vote on everything on today's agenda. Permission granted. I vote aye on all. Thank you. Thank you. Epstein? Aye. Farías? Yes. Aye. Feliz? Aye. Gennaro? Aye. Thank you. Gutiérrez? Hanif? Aye. Hankerson? Hanks? Aye. Hudson? Aye. Joseph? Aye. Krishnan? Aye. Lee? Aye. Louis? Aye. Maloney? Aye. Marte? Mealy? Morano? Aye. Narcisse? Aye. Nurse? Ossé? I ask permission... about what? I do not see him today. Denied. Yeah, sorry. In order to vote on all items in the land use, you have to seek the Speaker's permission to do that. And so far you have permission for two individuals. Paladino? Aye. Thank you.
+
+**(00:13:47)**
+
+
+
+Restler? Riley? All right.
+
+**(00:13:52)**
+
+
+
+Salaam? Justin Sanchez? Aye. Pierina Sanchez? Aye. Santosuosso? Whoa! Aye. Schulman? Aye. Stevens? All right. Thomas-Henry? Aye. Ung? Aye. Vernikov? Aye. Thank you. Wilson? Aye. Won? Aye. Zhuang? Aye. Vernikov? Thank you. Carr?
+
+### 15. Resolutions
+
+**(00:15:13)**
+
+
+
+I would like to move for unanimous consent and to vote on all land use call-up items, criminal order calendar items and resolutions. Granted.
+
+**(00:15:21)**
+
+
+
+I am voting no on items 89 with Res 0639-2026 and Res 0640-2026, and aye on the rest. Thank you. All right.
+
+**(00:15:36)**
+
+
+
+Speaker Menin? Hey, Counselor. We would like to vote on the land use call-ups. I do not think we have your vote for that. I vote aye, I think. And now, having permission from the Speaker's office, can you please tell us your vote on the land use call-ups? Aye on all items on today's agenda. Thank you, Madam Speaker. You got it.
+
+**(00:16:36)**
+
+
+
+Thank you. We will now have communication from Speaker Julie Menin. Good afternoon. I have to read the vote. My apologies, Madam Speaker. Okay. Today's land use call-ups are adopted by a vote of 49 in the affirmative and zero in the negative. Okay.
+
+**(00:16:52)**
+
+
+
+All right. Can I just ask everyone to take a seat? Thank you so much. So tomorrow, New York and the nation will, of course, commemorate 25 years since September 11, 2001. Tomorrow we will honor the memories of the 2,977 people who were murdered that day. They were our first responders, our office workers, our fathers, mothers, sisters and brothers. So I am now asking for a moment of silence in their honor. Thank you. The terrorists not only killed those that died on 9/11, they tried to take away our...
+
+**(00:17:59)**
+
+
+
+...freedoms and our way of life. They tried to proliferate fear. But quite frankly, they only made us stronger in our love for our City and our country. We will always remember the tremendous tragedy of that day and the lives we lost, but we will also remember the extraordinary selflessness that we witnessed from the thousands of first responders who rushed into the burning buildings to help people out of them, bridging the gap between human and hero, to the ordinary New Yorkers who showed up as the sun went down, bringing food, drinks and handwritten notes to workers at Ground Zero. Whether it is through the memories we pass down in classes in school or the field trips they take to the 9/11 Memorial Museum, it is imperative that our children who were not born on 9/11 learn about these stories. That is why last week the Council was so proud to announce we allocated dollars for programming at the 9/11 Memorial and Museum to ensure that "Never Forget" is a promise our City's next generation will keep alive. I really want to thank all the members who joined. It was so moving. A lot of the members who were there said that they had never been to the 9/11 Memorial, they had never been to the Museum. For me, this is something that is deeply personal. I served on the jury that selected the Memorial. We went through 5,200 design submissions from 63 countries to select Michael Arad's Reflecting Absence.
+
+And also, when you go into that Museum you get to hear stories from family members who lost loved ones, or you get to hear about the heroic acts of the first responders, or literally the kindness of strangers who carried people down flights and flights of smoke-filled stairs on that day. So I really encourage any member that was not able to come with us to please go to the Memorial Museum. They would be happy to give you a tour, or I would encourage you to go with one of the schools in your district, because we just funded these field trips.
+
+Certainly we do not forget history simply because a chapter is hidden from us, or because chapters are particularly dark. If anything, that is the history we must always remember. As someone who lost my own mother to a 9/11-related cancer, I have long advocated for a full release of the City's 9/11 environmental toxin reports. During the advice and consent hearing of Corporation Counsel Steve Banks, we secured his commitment to release the 9/11 files. I also want to thank Council Member Brewer for her great work on this. She has been a champion on the release of the files as well. So I was extremely pleased that this week the administration launched a new portal so that the public can finally view these records. New Yorkers deserve a full accounting of what the City knew, what might have been withheld from the public and how their actions impacted first responders, downtown residents and survivors. To that end, the Council also secured in the budget several million dollars in funding for the Department of Investigation to complete and release its Council-mandated report on the files, another step towards transparency and accountability. The families of victims have questions. We do as well.
+
+And while the answers alone cannot bring back the lives we lost on that day — and look, I want to say over 9,000 people, more than those who died on 9/11, have now lost their lives to a 9/11-related cancer or illness — this City has an obligation to tell the whole truth, which is exactly what New Yorkers expect and deserve.
+
+Okay, so to transition away from tomorrow's anniversary: today marks a new beginning for hundreds of thousands of public school students. It is the first day of school.
+
+**(00:22:01)**
+
+
+
+Yeah. Okay, let us sort of... tepid applause. Okay, I do not know why. Let us give it up for our kids.
+
+**(00:22:10)**
+
+
+
+This morning, our young people dusted off their backpacks, swiped their student OmniCard and reunited with their friends and their teachers after a long several months. The new academic year is another opportunity for them to learn, to ask questions, to be challenged, which is exactly how they will grow. And we are so excited for the Jewish New Yorkers who are celebrating. Tomorrow is the start of Rosh Hashanah, the Jewish New Year. I will be attending synagogue with my family, reflecting on the past year, and I want to wish Shanah Tovah to all the Jewish New Yorkers who are observing.
+
+Last Monday on Labor Day, we celebrated the incredible contributions of our workers. The first Labor Day actually took place in this City in 1882, when union members marched to Union Square to demand better working conditions. I was proud to join our friends in labor the other day. We all benefit from their activism and continue to honor the steadfast American worker.
+
+September 15 marks the start of Hispanic Heritage Month, which 205 years ago on that day, Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua all gained their independence. Throughout this month we celebrate the contributions and achievements of the Latino residents of our City, and we also recognize the pioneering Latino members of this body who serve our City as well. Other independence days include Mexican Independence Day on the fifteenth, Chilean Independence Day on the eighteenth, and on the twenty-first. So it is clearly a very popular month for birthdays here at the Council. We have a lot of members who have birthdays. Today's birthday belongs to Council Member Virginia Maloney. I also want to wish a happy birthday to Majority Whip Kamillah Hanks, who celebrated on the fourth. Council Member Gale Brewer, who celebrated on the sixth. Council Member Sandra Ung, on the fourteenth. Wait, everyone is switching seats back here and it is like... I am glad. Okay, everyone is having fun. All good.
+
+We also had some special guests with us today. Minister for the Americas, Member of Parliament Chris Elmore, visited the Council from across the pond. And we are also honored — and many of you joined for this — to be joined by the Special Master for the 9/11 Victims Compensation Fund, Alison Lied-to-Cal. Lastly, on a more somber note, I want to offer my deepest condolences to Council Member Darlene Mealy, whose mother sadly passed away. We are keeping her and her family in our thoughts and may her memory be a blessing.
+
+Now we are going to move on to our Stated agenda. First we will vote on the following land use items. The 47-03 108th Street Rezoning will facilitate the development of a new mixed-use building with approximately 119 dwelling units, 30 of which will be permanently affordable under Option one, as well as retail and community facility space, in Council Member Shanel Thomas-Henry's district. The Council has modified this application to rezone to an R7D district rather than an R7X. The 200 Kent Avenue Rezoning will facilitate the conversion and enlargement of an existing five-story commercial building into a mixed use with 143 housing units, 36 of which will be affordable, in Council Member Lincoln Restler's district. The Council has modified this application to strike Option two. Today we are also going to vote on the following pieces of legislation. Res 0007-2026-A, sponsored by Council Member Joann Ariola, myself and Council Member Rita Joseph, calls upon the New York State Legislature to pass and the Governor to sign legislation to incorporate a 9/11 curriculum in all New York schools.
+
+**(00:26:20)**
+
+
+
+Thank you. To Kayla Santosuosso.
+
+**(00:26:22)**
+
+
+
+Res 0006-2026, sponsored by myself, would commemorate the 25th anniversary of the September 11 attacks. Thank you to Regina Paul. Res 0082-2026-A, sponsored by Council Member Farías, would celebrate the Feast of San Gennaro and Ferragosto Festival annually. Thank you to Regina Paul.
+
+**(00:26:41)**
+
+
+
+Res 0429-2026, sponsored by Deputy Speaker Dr. Nantasha Williams, recognizes the life and legacy of Alvin Ailey and honors his contributions to American dance and the founding of the Alvin Ailey American Dance Theater. Thank you to Menorah Boot. Resolution...
+
+**(00:27:00)**
+
+
+
+Speaker Dr. Nantasha Williams declare March 6 as Carmen de Lavallade Day in New York City to celebrate her life and legacy and to honor her groundbreaking contributions to dance and theater. Thank you to Ridge. Res 0237-2026-A, sponsored by Council Member Crystal Hudson, calls on the United States Congress to pass the Performing Artist Tax Parity Act of 2025, a Bill which would increase income limits and would make other modifications to the above-the-line tax deduction for business expenses of qualified performing artists. Thank you to Regina. A preconsidered introduction, sponsored by myself, which would co-name 26 public places with commemorative titles that honor the memory of the September 11 attacks. Thank you to Brad, Reid, Patrick Mulvihill and Lucas Lopez Jensen. Int 0906-2026-A, sponsored by Council Member Justin Sanchez, would require that upon receiving seven or more complaints of dog waste on the same block within a week, to dispatch employees to evaluate the block and enforce local health codes against animal waste in public spaces. Thank you to Deck, Lament Pearson and Morgan Barrett.
+
+Int 0813-2026-A, sponsored by Council Member Harvey Epstein, would allow the Department of Consumer and Worker Protection to refuse to renew, suspend or revoke a tobacco retail dealer license or an electronic cigarette retail dealer license upon a finding that the holder of such license distributed or sold any cannabis or cannabis product without the appropriate registration, license or permit issued by New York State. Thank you to the committee staff. Int 0866-2026-A, also sponsored by CM Harvey Epstein, would require whoever is performing disruptive work to post at least one sign at the end of each block where disruptive work will occur at least 48 hours in advance of the start of said work, containing details as to who is performing the work and the anticipated start and end dates of the work.
+
+Thank you to Elliot Heuser and Thea Miller. Int 0804-2026-A, sponsored by Council Member, would establish a maximum allowable illuminance for residential outdoor lighting fixtures on one and two family homes in low density residential districts. Thank you to Sara Townsend. Int 0547-2026-B, sponsored by Council Member, would require that designated warning symbols and statements be displayed next to listed food items that meet or exceed 100% of the daily value for added sugars. This Bill would also require that DOHMH issue warnings for noncompliance as well as conduct a public education and outreach campaign to educate food establishments about the new requirements. Int 0196-2026-C, also sponsored by Council Member, would require DOHMH to develop rules requiring food service establishments to display warning symbols next to foods that contain 2300 milligrams of sodium or more per serving. This Bill would also require that DOHMH issue warnings for noncompliance as well as conduct a public education and outreach campaign to educate food establishments about the new requirements. Keeping us healthy. Thank you.
+
+Thank you to the staff, Christopher Pepe, Elizabeth Arts and Joshua Neuman. Int 0220-2026-A, sponsored by Majority Whip Kamillah Hanks, would require the Department of Records and Information Services in consultation with other City agencies to maintain a list of all known burial sites historically associated with formerly enslaved persons or historically African American communities citywide. Thank you to Dick McPherson and Alejandro Caravelle. And also, we are going to be voting on the following appointments, which we have advice and consent over: Lisa Garcia to the Land Bank, Dave Chokshi to the Board of Health, and John Mangin to the Board of Standards and Appeals. Thank you.
+
+**(00:31:10)**
+
+
+
+Thank you for your attention. I am now going to hand back over to the Majority Leader.
+
+### 9. Discussion of General Orders
+
+### 12. General Orders Calendar
+
+### 33.
+Coupled on General Orders
+
+### 16. General Discussion
+
+**(00:31:14)**
+
+
+
+Thank you, Madam Speaker. We will now move into the discussion of general orders, beginning first with Deputy... proceed with CM...
+
+**(00:31:32)**
+
+
+
+Today we are voting on the co-naming of the intersection at West 33rd Street and Seventh Avenue. The Knicks championship run this summer was unforgettable. The whole city came together in rapt attention and ultimately joy as Jalen Brunson and his teammates exhibited the New York spirit at its best: collaborative, scrappy and tenacious. Now the Spurs might not be able to hold on to a lead, but New Yorkers can and will hold on to our memories of the Knicks victory. We are immortalizing it by co-naming the intersection of West 33rd Street and Seventh Avenue Champion's Plaza. I wholeheartedly support that endeavor and I am honored that my district is where the Knicks call home.
+
+**(00:32:16)**
+
+
+
+Thank you, CM. CM Epstein, followed by Maloney.
+
+**(00:32:23)**
+
+
+
+Thank you. I am honored to pass two pieces of legislation today. Int 0866-2026-A as well as Int 0813-2026-A. Int 0866-2026-A is a really simple thing. I have heard disability advocates and people in my community talk about crossing a street and getting through an intersection when construction is happening. We all see it, but it is very different for someone who is physically able versus someone who is disabled. When you get to a corner and there is construction, you cannot go into the street. You cannot get around it. It has been a struggle. But there is a group of advocates like... who were able to pass this legislation that says, hey, City agency, you are doing work there, just put notices up. Tell people, tell people who are concerned there are issues going on. A common sense piece of legislation. I want to thank the Speaker and the staff who were able to get this done as well as my team on this legislation.
+
+The second Bill is Int 0813-2026-A, which the Speaker just mentioned as well. When I was in Albany, we worked hard on getting the state to legalize cannabis and talked about why it mattered, talked about the history of discrimination, talked about the history of Black and Brown New Yorkers going to jail and white New Yorkers not, and talked about what we needed to do to rectify that problem. We entered into a process that allowed people who were incarcerated or arrested for cannabis to get licenses and get those licenses first. What happens now is the illegal market is taking over, and we are having people who have a tobacco license or other license selling illegal cannabis, which undermines all the work we did to legalize cannabis and help businesses thrive. This legislation goes a little way toward curbing that back, saying if you are doing this illegal activity, you can lose your other license that you have, specifically your tobacco license. It is an important step to say, hey, let us continue to support the legal market, those who have done the right thing, and penalize groups who do not. I hope my colleagues will support both pieces of legislation.
+
+**(00:34:28)**
+
+
+
+Thank you. CM Maloney, followed by Majority Whip Hanks.
+
+**(00:34:33)**
+
+
+
+I am introducing legislation to co-name the intersection of West 46th Street... CM, this is general orders.
+
+**(00:34:39)**
+
+
+
+You are talking about an introduction. That does not have to be during general discussion. All right.
+
+**(00:34:46)**
+
+
+
+CM Hanks. Thank you, Majority Leader. Today I am proud to pass my Bill, Int 0220-2026-A, which is on today's agenda. It has been a long time coming and I want to thank the scholars, the advocates, the descendants, the community leaders and everyone whose knowledge and persistence brought this forward. Heather Quinlan, the Benjamin family and all the advocates throughout the five boroughs who never rested until New York could tell its complete story of the people that remain unseen. Int 0220-2026-A gives the City the
+
+**(00:35:21)**
+
+
+
+responsibility to locate, document, protect and recognize sites, guided by scholarship, oral histories and community knowledge. This Bill is not the end of that work. It is an important step so that our history is not buried. We will not erase a New Yorker from our shared memory. Today we take a step forward together. We will continue this work until every part of our history is seen, honored and never forgotten. I want to thank Speaker Menin and everyone who helped make this happen. I encourage my colleagues to vote on Int 0220-2026-A.
+
+**(00:35:53)**
+
+
+
+Thank you, Majority Leader. Thank you. So you know, I signed up for general orders. We will now move into the report of special
+
+**(00:35:56)**
+
+
+
+committees.
+
+**(00:36:04)**
+
+
+
+None. Report of standing
+
+**(00:36:07)**
+
+
+
+committees. Reported the Committee on Consumer and Worker Protection: Int 0813-2026-A, cannabis law, amended and coupled on
+
+**(00:36:14)**
+
+
+
+general orders.
+
+**(00:36:15)**
+
+
+
+Reported the Committee on Cultural Affairs, Libraries and International Relations: Int 0220-2026-A, African American burial sites, amended and coupled on general orders.
+
+**(00:36:22)**
+
+
+
+Reported the Committee on Environmental Protection, Resiliency and Waterfronts: Int 0804-2026-A, outdoor lighting fixtures,
+
+**(00:36:27)**
+
+
+
+amended and coupled on general orders. Reported the Committee on Health: Int 0196-2026-C and Int 0547-2026-B, health warning requirements, amended and coupled on general orders. Reported the Committee on Parks and Recreation: preconsidered Int 1020-2026 and Int 1027-2026, naming of various thoroughfares and public places, coupled
+
+**(00:36:45)**
+
+
+
+on general orders.
+
+**(00:36:47)**
+
+
+
+Reported the Committee on Rules, Privileges, Elections and Ethics: M 0087-2026 and Res 0638-2026, approving the appointment of Lisa Garcia to the Land Bank,
+
+**(00:36:56)**
+
+
+
+coupled on general orders.
+
+**(00:36:56)**
+
+
+
+M 0088-2026 and Res 0639-2026, approving the appointment of Dave Chokshi to the Board of Health, coupled. M 0089-2026 and Res 0640-2026, approving the appointment of John Mangin to the Board of Standards and Appeals,
+
+**(00:37:10)**
+
+
+
+coupled. Reported the Committee on Sanitation and Solid Waste Management: Int 0906-2026-A, dog waste complaints,
+
+**(00:37:15)**
+
+
+
+amended and coupled on general orders.
+
+**(00:37:18)**
+
+
+
+Reported the Committee on Transportation and Infrastructure: Int 0866-2026-A, disruptive work,
+
+**(00:37:24)**
+
+
+
+amended and coupled on general orders.
+
+**(00:37:25)**
+
+
+
+On the general orders calendar: LU 0115-2026, Res 0641-2026 and LU 0116-2026, Res 0642-2026, 200 Kent Avenue Rezoning,
+
+**(00:37:32)**
+
+
+
+coupled. LU 0118-2026, Res 0643-2026 and LU 0119-2026, Res 0644-2026, 47-03 108th Street Rezoning, coupled.
+
+**(00:37:43)**
+
+
+
+Resolution appointing various persons Commissioner of Deeds, coupled on general orders.
+
+**(00:37:47)**
+
+
+
+I would now ask the Clerk to take a roll call vote on all of the items coupled on today's general orders calendar.
+
+**(00:37:58)**
+
+
+
+CM Aldebol: aye. CM Abreu: aye. CM Ariola: I vote no
+
+**(00:38:05)**
+
+
+
+on M 0088-2026 with accompanying Res 0639-2026, M 0089-2026 with accompanying Res 0640-2026 and Int 0804-2026-A. On all the rest, thank you. Res 0640-2026, where I am abstaining.
+
+**(00:38:39)**
+
+
+
+Thank you. CM Brewer: aye. I am
+
+**(00:38:40)**
+
+
+
+aye on all except Int 0906-2026-A on dog waste. I think it is a great Bill but I do not think it is enforceable, so I am voting no on that one. And I am glad that John Mangin has been sent to the Board of Standards and Appeals. I want to make sure that he and everybody else keep the Upper West Side off that damn number 12 list.
+
+**(00:38:59)**
+
+
+
+Thank you very much. CM Cabán: aye. CM De La Rosa: aye. CM Dinowitz:
+
+**(00:39:14)**
+
+
+
+aye on all except M 0089-2026 and accompanying Res 0640-2026, on which I abstain.
+
+**(00:39:24)**
+
+
+
+CM Encarnación: aye. CM Epstein: aye.
+
+**(00:39:33)**
+
+
+
+Aye on all. CM Farías. CM Felder:
+
+**(00:39:38)**
+
+
+
+I vote aye on all except I vote no on M 0088-2026 and underlying Res 0639-2026, and I abstain on Int 1027-2026. Thank
+
+**(00:40:03)**
+
+
+
+you. CM Feliz. Permission to explain my vote. Permission granted.
+
+**(00:40:07)**
+
+
+
+Thank you. We are finally passing these two health Bills to ensure that New Yorkers have basic information to be able to make good decisions. Overconsumption of sodium and sugar continues to be a major cause of health complications in our city, including diabetes, hypertension, kidney failure, heart complications and so much more. Fast food restaurants are playing a major role. The recommendation is that we consume no more than 2300 milligrams of sodium per day. Some fast food restaurants have meals that have sodium levels totaling nearly five times the amount you should have in an entire day. Little Caesars, for example, has nearly 11,000 milligrams of sodium in one pizza pie. If you consume that pizza pie, you will basically be consuming in one meal five times the amount of sodium that you should have in an entire day. This is how you create major health problems and crises. And we also have to be crystal clear: if your pizza pie has 11,000 milligrams of sodium, that is not a pizza pie, that is a pie of sodium. We just have to be crystal clear on that. New Yorkers should know what is in the food they eat and that is exactly what this Bill will do. The federal rules require that high sodium meals have a salt shaker icon, but of course not everybody knows what the salt shaker icon means. This rule will strengthen that rule by requiring not only the salt shaker icon but also a high sodium text next to the meal.
+
+People are obviously free to consume what they want, but our goal is to make sure that they have basic information so they are able to make good decisions related to their health. So thank you so much. Stay healthy, everybody. Aye on all.
+
+**(00:41:57)**
+
+
+
+Thank you. CM Gennaro: aye. Thank you, CM Gennaro.
+
+**(00:42:13)**
+
+
+
+CM Gutiérrez: aye. She is online. This is a moment. CM Gutiérrez. OK, we will come back.
+
+**(00:42:35)**
+
+
+
+CM Hankerson: aye.
+
+**(00:42:43)**
+
+
+
+CM Hanks: aye.
+
+**(00:42:43)**
+
+
+
+CM Hudson: I vote aye on all with the exception of Int 0804-2026-A and Int 0906-2026-A, for which I vote no. Thank you. CM Joseph:
+
+**(00:43:05)**
+
+
+
+aye on all. CM Krishnan: aye.
+
+**(00:43:12)**
+
+
+
+CM Lee: aye on all except M 0089-2026 and Res 0640-2026, on which I abstain. CM Louis: aye on
+
+**(00:43:26)**
+
+
+
+all. CM Maloney: I vote aye on all. CM Marte:
+
+**(00:43:32)**
+
+
+
+I vote aye on all. I abstain on M 0089-2026 and Res 0640-2026. Thank
+
+**(00:43:49)**
+
+
+
+you. CM Mealy: aye. CM Morano: permission to
+
+**(00:43:50)**
+
+
+
+explain my vote. Permission granted. Thank
+
+**(00:43:53)**
+
+
+
+you, Majority Leader. I am voting no today on the nomination of John Mangin and I want to explain why, because it is absolutely not personal. Mangin is a very smart guy. He knows land use probably better than most people in this building. I met with him when he was here for his hearing and I like him. I found him to be a genuinely nice guy. If this was simply a question of intelligence or credentials, this would be a very different vote for me. But we are not hiring a professor of land use. We are confirming the Chair of the Board of Standards and Appeals. And I keep coming back to what happened in this city and in this Council just last year. This Council led an entire campaign urging New Yorkers to vote against ballot proposals that would take land use authority away from their elected Council Members and diminish the public's voice in the process. We told New Yorkers that local input mattered. We told them that these decisions should not be moved farther away from the communities affected by them. I agreed with this Council then and I agree with it now.
+
+So I have a very difficult time understanding how we go from campaigning against those proposals one year to putting one of their principal architects in charge of the Board of Standards and Appeals. Those ballot proposals passed. That is democracy. I accept the result. But precisely because the Board now has greater authority, who sits in that chair matters even more. The Board is supposed to hear and make decisions that can fundamentally change what happens on someone's block. And if you are the homeowner living on that block, where do you go? You do not have a lobbyist. You do not have a land use attorney on retainer. You have taken a day off from work just to come down there and be heard. I worry that we are creating a system where the public gets less of a say, the Council gets less of a say, and then we put somebody who helped design that system in charge of one of the
+
+**(00:45:55)**
+
+
+
+institutions receiving that power. And that is a bridge too far for me and that is why I am voting no. Aye on all with the exception of M 0089-2026 and accompanying Res 0640-2026. Thank you. CM Gutiérrez: aye.
+
+**(00:46:15)**
+
+
+
+I vote aye. Thank you.
+
+**(00:46:24)**
+
+
+
+CM Narcisse:
+
+**(00:46:24)**
+
+
+
+permission to explain my vote. Permission granted.
+
+**(00:46:25)**
+
+
+
+As I heard my colleagues speak about John Mangin, I had a lot of questions. The man was able to answer a lot of them and for that, on that note, I feel not 100% confident, but somehow confident. So I am hoping that whatever he said at the hearing, he means it, and that we can actually work together to address the issues in New York City. All homeowners are welcome and it is not a privilege. A home is for hard working folks that have homes, and he understood that. So I will vote yes on that.
+
+But one of the things I want to highlight that the Speaker spoke about a lot is for our children and our youth to remember. One of the parts of my district happens to be Marine Park, and one of the things we are voting on today is the Marine Park 9/11 Memorial Way. That is very important to me and to my district. Marine Park is a first responder neighborhood. It was then and is still now. Firefighters, police officers, correction officers and their families were downtown that morning and many of them did not go back home. We still have people suffering. Thousands of people walk into that park every week. Now there will be a walk where they will pass the sign and they can ask their parents, and their parents can explain what took place that day. We will never forget. I vote aye on all. Thank you. CM Nurse: I vote no on Int 0804-2026-A and aye on all the rest.
+
+**(00:48:20)**
+
+
+
+CM Paladino: I vote aye on all except M 0088-2026 and accompanying Res 0639-2026, and no on M 0089-2026 and Res 0640-2026. And I want to echo what my colleague Morano said: 100% taking the rights away from the people is not a great idea. And as a Council, we are the firewall. We will no longer be that firewall. Thank
+
+**(00:48:48)**
+
+
+
+you. CM Restler: aye. CM Riley: aye. CM Salaam: aye. CM Justin Sanchez: aye.
+
+**(00:49:02)**
+
+
+
+CM Pierina Ana Sanchez: I vote aye on all except Int 0804-2026-A and Int 0906-2026-A, on which I abstain. Thank you. CM Santosuosso:
+
+**(00:49:22)**
+
+
+
+aye. CM Schulman: aye.
+
+**(00:49:29)**
+
+
+
+CM Stevens: aye. CM Thomas-Henry: aye. CM Vernikov: aye on all with the exception of M 0088-2026 and accompanying Res 0639-2026, and M 0089-2026 and accompanying Res 0640-2026. Thank you. CM William
+
+**(00:49:50)**
+
+
+
+s: aye.
+
+**(00:49:56)**
+
+
+
+Wilson, Iona, one, Wong. I vote aye or no, except for Int 0421, Int 0500, M 0089 and the companion resolution Res 0640. Thank you.
+
+**(00:50:27)**
+
+
+
+Can't get permission, you can blame my vote.
+
+**(00:50:30)**
+
+
+
+Yes, thank you. It is
+
+**(00:50:33)**
+
+
+
+very hard for me to vote for a person who actually worked against our community agenda. But also I appreciate that he came to my district, listened to the people in my neighborhoods and actually came down. He actually was the only candidate who actually came down to my district to speak to me before we came out to the vote, so I vote in favor today.
+
+**(00:51:21)**
+
+
+
+Second. As we tally the vote... All items on today's General Order Calendar are adopted by a vote of 50 in the affirmative, zero in the negative and zero abstentions, with the exception of M 0088 and Res 0639, which was adopted by a vote of 44 in the affirmative, six in the negative and zero abstentions.
+
+**(00:52:53)**
+
+
+
+And M 0089 and Res 0640, which was adopted by a vote of 40 in the affirmative, six in the negative and zero abstentions. And Int 0813-2026-A, which was adopted by a vote of 46 in the affirmative, two in the negative and one abstention. And Int 0906-2026-A, which was adopted by a vote of 47 in the affirmative, two in the negative and one abstention. And Int 1027-2026, which was adopted by a vote of 49 in the affirmative, zero in the negative and one abstention.
+
+### 13. Introduction & Reading of Bills
+
+**(00:53:28)**
+
+
+
+All right. Introduction and reading of bills. All bills have been referred to committee as indicated on today's
+
+### 14. Discussion of Resolutions
+
+**(00:53:43)**
+
+
+
+agenda. Thank you. Madam Speaker will now move into the discussion of resolutions, beginning with Deputy Speaker Williams, followed by Council
+
+**(00:53:58)**
+
+
+
+Member. I just wanted to talk about my resolutions. As a forever dancer, I am proud today that we are honoring two giants of American dance, Carmen de Lavallade and Alvin Ailey. Their careers helped transform American dance and established New York City as a global center for Black artistry and cultural expression. Through their work, they expanded what could be seen on our stages, created space for generations of Black dancers and choreographers and left an influence that continues to shape the field today.
+
+The legacies live not only in the work they created, but in the artists they inspired, the institutions they strengthened and the generations to come who continue to find possibility through dance. I am proud that this Council is honoring their extraordinary contributions and ensuring their legacies remain part of New York City's cultural record. I really just want to thank my colleagues for supporting these resolutions, and my staff and committee staff Regina and Alejandro, whose work helped bring them to the floor today. Thank you so much.
+
+**(00:54:58)**
+
+
+
+Thank you. CM Joann Ariola.
+
+**(00:55:02)**
+
+
+
+Thank you, Majority Leader. Today we are taking an important step toward making sure future generations understand what happened on September 11, 2001. But let me be clear: the facts of that day should never have needed a piece of legislation to force our schools to teach them. Nineteen terrorists from Al Qaeda hijacked four planes. They deliberately attacked our country, murdered nearly 3,000 innocent people and forever changed New York City and America. Our children deserve to know those facts. They deserve to know about the victims, the firefighters, the police officers, workers, passengers, civilians and ordinary New Yorkers who showed extraordinary courage that day. They deserve to learn the history without rewriting it, sanitizing it or allowing politics to overshadow the truth.
+
+We should teach the facts of September 11 — who attacked us, what happened and who was murdered. Today's vote is about making sure that history is not forgotten, because if we fail to teach the truth, we risk allowing future generations to forget why we say "Never Forget." Thank you, Speaker Menin, for co-prime sponsoring this resolution and bringing it to the floor. Thank you.
+
+**(00:56:17)**
+
+
+
+Seeing no one else signed up for resolutions being voted on today, I will now have a voice vote.
+
+**(00:56:24)**
+
+
+
+Now have a voice vote on today's resolutions. If you wish to vote against or abstain from any of today's resolutions, please notify the Legislative Documents Unit by email or by approaching the dais. I will now read today's resolutions into the record. Res 0006-2026 commemorates the 25th anniversary of the September 11 attacks. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it. Res 0007-2026-A calls on the New York State Legislature to pass and the Governor to sign legislation to incorporate a 9/11 curriculum in all New York schools. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it. Res 0082-2026-A celebrates the Feast of San Gennaro and the Ferragosto Festival annually in September to honor the contributions of Italian immigrants and Italian Americans to the cultural, political and economic fabric of the City of New York. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it. Res 0237-2026-A calls on the United States Congress to pass and the President to sign the Performing Artist Tax Parity Act of 2025. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it.
+
+**(00:57:52)**
+
+
+
+Res 0402-2026 declares March 6 Carmen de Lavallade Day in the City of New York — I definitely butchered that — to celebrate her life and legacy and to honor her groundbreaking contributions to dance and theater as well as her role in advancing diversity and artistic excellence in the performing
+
+**(00:58:12)**
+
+
+
+arts. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it. Res 0429-2026 recognizes the life and legacy of Alvin Ailey and honors his contributions to American dance and the founding of the Alvin Ailey American Dance Theater. All those in favor, say aye. All opposed, say nay. Any abstentions. The ayes have it. We will now move into general discussion. I would like to let you all know we have about 20 folks signed up so far, so keep that in mind. I will start with CM Wilson, followed by Maloney.
+
+**(00:58:57)**
+
+
+
+Thank you, Majority Leader. Every year when the City allocates capital funding, I remain stunned at the price tags for these projects. Too often capital projects go massively over budget and over time for no clear reason and with little proper oversight. Today I am proposing legislation that aims to establish standards for the costs and time for capital projects costing $10 million and under. Int 1065, alongside my colleague Parks Committee Chair CM Hankerson, would require agencies to publish cost benchmarks for each type of small capital project and report the difference between those benchmarks and the actual cost of such projects. Int 1064, alongside Contracts Committee Chair CM Restler and again with CM Hankerson, would require agencies to consult with the Mayor's Office of Contract Services and other relevant agencies to establish time frames for completing agency approvals and change order requests.
+
+I am also introducing a bill that will set clear regulations regarding pedal-assist technology on pedicabs. Int 1063 allows pedicabs to be equipped with a basic electric motor that provides pedal assist when a pedicab is going under 15 miles per hour or as limited by the relevant agency, and is part of a larger pedicab package that I look forward to working with my colleagues on to advance. Thank you.
+
+**(01:00:25)**
+
+
+
+Thank you, CM Maloney, followed by Salaam.
+
+**(01:00:29)**
+
+
+
+Thank you, Majority Leader. First, I am thrilled we passed a street naming at the intersection of West 46th Street and Sixth Avenue, Marsh and McLennan September 11th Memorial Way, in memory of the 358 Marsh McLennan colleagues whose lives were taken on September 11. The co-naming gives those New Yorkers a permanent place in the landscape of the city they called home. Second, I am introducing legislation requiring mental health providers to disclose when note-taking systems are being used during a patient's care. AI has enormous potential to improve health care, but patients deserve transparency about how and when it is being used and confidence that their most sensitive information remains private and anonymous. Thank you.
+
+**(01:01:23)**
+
+
+
+CM Salaam, followed by Louis. Thank you, Majority
+
+**(01:01:26)**
+
+
+
+Leader, and thank you, Speaker. Today I am introducing three bills: Int 1054, Int 1055 and Int 1056. Int 1054 is about people in our custody. When someone is handcuffed in the back of a police car or a corrections van, they cannot brace themselves and they cannot buckle the seat belt. A sudden stop can change their life forever. We saw that with Freddie Gray in Baltimore. I know what it means — rather, what it means — to be in custody with your fate in someone else's hands. This bill requires the NYPD and officers to fasten the seat belts of individuals in their custody before transport, except in emergency situations. Custody should never mean surrendering your safety.
+
+Int 1055 is about something as basic as a drink of water on a hot summer day. Children at a playground, seniors on a walk and workers on their break all count on public drinking fountains. It is our job to ensure that the water is safe to drink and aesthetically pleasing as well. This bill requires the Parks Department to inspect every public fountain and test its water at least twice a year, post signage showing whether the water is safe and when it was last tested and maintain an online map that anyone can reach with a QR code.
+
+Lastly, Int 1056 is about those who ensure our dignity even after we are gone. Funeral directors take care of the bodies of our loved ones. They are an important pillar of our communities. Funeral directors should not have to choose between paying a parking ticket and a family's final goodbye. This bill lets funeral homes apply for an annual permit so licensed funeral directors can park their hearses next to their establishments when posted signs prohibit parking. I urge my colleagues to sign on as co-sponsors. Thank you.
+
+**(01:03:38)**
+
+
+
+Thank you, CM Farah Louis, followed by Schulman. Thank you, Majority
+
+**(01:03:43)**
+
+
+
+Leader. The sudden and unexpected passing of my father has left a profound void for my family and my community. I just wanted to take a moment to thank every colleague who called, texted, attended home-going services for my father and sent flowers and kind words. I truly appreciate every gesture.
+
+Today I am proud to introduce three resolutions for Haitian New Yorkers. Unsound immigration policy has unfairly determined whether thousands of families can continue to work, provide for their loved ones and remain safely rooted in the communities they call home. What we are witnessing today is nothing short of cruel. Haitians are being forced to wear ankle monitors, treated not as essential members of this city but as criminals. We have seen the pain this inflicts firsthand in the story of Pierre Demoss and so many others who have been humiliated, destabilized and are living in fear. That is disparate treatment, it is unjust and this body must say so clearly. At a time when Haiti continues to face devastating violence, displacement and humanitarian crisis, stripping these protections puts our communities at risk. I urge the Senate to pass S.4814 to preserve these critical protections.
+
+I am also proud to introduce two resolutions celebrating the extraordinary cultural contributions of the Haitian and Afro-Caribbean diaspora. Res 0624-2026 designates October 17 as Wyclef Jean Day, honoring a Brooklyn-raised, Haitian-born artist whose music, philanthropy and cultural pride have left an indelible mark on our city and world. And finally, Res 0625-2026 would recognize Reggaeton Heritage Month, a genre rooted in Afro-Caribbean and Latin American identity, recognizing New York City's pivotal role in bringing vibrant Caribbean music traditions together. I urge my colleagues to join on all these bills. Thank you.
+
+**(01:05:54)**
+
+
+
+Thank you. CM Lynn Schulman, followed by Morano.
+
+**(01:05:59)**
+
+
+
+Thank you, Majority Leader. Today I am introducing Int 1060, which takes a common sense approach to making complaints about conditions in our City jails more transparent and easier to track. Currently, when an individual incarcerated in a City jail has a complaint about the conditions of their confinement, there is no clear or transparent way for that complaint to be tracked. These complaints can get lost within the Department of Correction's internal system, making it difficult to know whether an issue was addressed, improved or whether the complaint even reached the appropriate personnel. This legislation would require the Department to create categories for technology complaints and service requests related to conditions within our City jails. It would also require the City to publish a record of these requests and update their status.
+
+Everyone deserves to be treated with dignity, and that includes people who are incarcerated. This legislation is about creating greater transparency and accountability so that we can ensure City jails are humane and habitable. Thank you. And I want to thank the early sponsors on this: Tiffany Cabán, Selvena Brooks-Powers, Carmen De La Rosa and... I want to urge my colleagues to please sign on to this. Thank you.
+
+**(01:07:18)**
+
+
+
+Thank you, CM.
+
+**(01:07:19)**
+
+
+
+CM Morano, followed by Paladino.
+
+**(01:07:21)**
+
+
+
+Thank you, Majority Leader. I have introduced a dozen very good pieces of legislation today that I hope you will look at, or as my staff calls them, the dirty dozen. Some I think are worthy of your consideration, but I am particularly proud to introduce Int 1051, my bill to provide property tax relief for New York City veterans. We talk a lot in this chamber about affordability and about keeping New Yorkers in the communities they helped build. For veterans, particularly older veterans living on fixed incomes and disabled veterans, property taxes can be the difference between remaining in the home they worked a lifetime for and being priced out of it.
+
+Our veterans did something extraordinary on behalf of the rest of us. They put on the uniform, accepted risks most Americans will never be asked to accept and many came home carrying sacrifices that last a lifetime. The timing of this introduction is especially meaningful. Obviously tomorrow marks 25 years since September 11, and while we remember those we lost, the first responders who ran towards danger and the thousands of Americans who answered the call to military service in the years that followed, remembrance has to mean more than what we say in ceremonies. It should also be reflected in what our government does. That is what Int 1051 is about. It is about making New York City a little bit more affordable for the men and women who defended this country and helping veterans remain in the neighborhoods where they have put down roots, if they have a 100% service-connected disability. This is not a giveaway. It is a recognition of service and sacrifice and of a debt that can never be fully repaid. I am proud to introduce this bill, I hope my colleagues will join me in supporting it and I look forward to getting it across the finish line very soon, hopefully by Veterans Day. Thank you.
+
+**(01:09:22)**
+
+
+
+CM Paladino, followed
+
+**(01:09:23)**
+
+
+
+by Banks. Thank you. I would like today to introduce Int 1052, a local law to amend the Administrative Code of the City of New York in relation to reporting data about micro-mobility device crashes. New Yorkers have a right to know where and how crashes involving e-bikes, e-scooters and other micro-mobility devices are occurring in our city every day. We cannot effectively address a public safety problem if we do not have accurate and comprehensive information about it. This legislation will bring much-needed transparency and accountability to micro-mobility crash reporting. It will require the NYPD to collect and publicly report detailed information about crashes involving these devices, including injuries, fatalities, locations, times and the specific type and class of device that was involved.
+
+For years our communities have raised legitimate concerns about the dangers posed by reckless operation of e-bikes and scooters, particularly to pedestrians, seniors, children and people with disabilities. We need facts, not assumptions, to understand the scope of the problem and determine where enforcement and other safety measures are most urgently needed. Public safety must come first. If we are serious about making our streets safer, we need to know exactly what is happening on them. This bill is an important step toward greater transparency, accountability and safety for every New Yorker. I would like you all to please sign on to this.
+
+Next, I want to introduce Res 0636-2026, calling upon New York State to... I will give you the rest in five seconds, ten seconds. Ten seconds. I cannot ever do anything in ten seconds. Look it up. It is about animal testing and how serious this is. It is Res 0636-2026. Do not take this lightly. Take a look at that. Thank you.
+
+**(01:11:50)**
+
+
+
+CM... oh wait, one
+
+**(01:11:51)**
+
+
+
+more thing. Sorry, CM. I just could not let it go without giving a compliment.
+
+**(01:11:55)**
+
+
+
+Last night, Linda Lee, I have to tell you, your dress was spectacular. Thank you.
+
+**(01:12:03)**
+
+
+
+Thank you, CM. CM Banks, followed by
+
+**(01:12:05)**
+
+
+
+Thank you. The Majority Leader today. I am proud to introduce Bills Int 1023-2026 and Int 1024-2026, that focus on modernization, transparency and accountability in City government. The first Bill would allow property owners to register their properties with HPD electronically, including submitting required documents and electronic signatures and filing fees online. This legislation was developed in response to concerns raised by property owners about HPD's registration process. My office heard repeated complaints from owners who submitted paperwork on time only to be told later that it could not be located and had to be resubmitted, sometimes even when sent by certified mail. As one owner put it, HPD never loses the $13 in filing fees, but they always lose the paperwork. This Bill creates a more efficient and reliable process by allowing registration to be completed online and reducing paperwork delays and the risk of lost submissions.
+
+I want to first of all thank the small business property owners in New York for their participation and advocacy for this legislation, and also I want to thank Chair Pierina Sanchez for allowing this Bill to be heard in committee. I am also introducing Int 1024-2026, which will establish a clear and fair process for suspending or revoking press credentials. Under this Bill, the City would be required to show evidence at a hearing before a press credential can be suspended or revoked. This Bill would also require the Mayor's Office of Media and Entertainment to review its current rules to determine whether updates are needed to make the process more transparent, consistent and fair. I am joined by my colleagues. Thank you, Majority Leader. Thank you.
+
+**(01:14:18)**
+
+
+
+Councilmember Gennaro.
+
+**(01:14:23)**
+
+
+
+Thank you, Majority Leader. As we commemorate 25 years since the 9/11 terrorist attacks, we remember the thousands whose lives were taken and the families who have carried that loss for a quarter century. When we should be united in mourning, we are instead confronting a disgusting wave of anti-Muslim rhetoric from those exploiting this tragedy to advance a politics of hate and exclusion. Some here have demanded that Mayor Mamdani not participate in tomorrow's commemoration because he is Muslim.
+
+Mayor Mamdani has honored victims and survivors through action by finally releasing records they have fought decades to access. This will help responders and survivors get the care and compensation they deserve. On September 11, 2001, I was ten years old, sitting in a fifth grade classroom in Kensington. Nine Muslim New Yorkers mourned that day and lost loved ones, and then we endured years of suspicion, surveillance, profiling and hate because of who we are. Acknowledging that harm does not diminish our grief for those murdered on September 11. It is a part of our story.
+
+I am asking my colleagues in this body to condemn the anti-Muslim hate coming from members of this Council. Silence in the face of this rhetoric gives it permission to continue. Muslim New Yorkers belong here. New Yorkers of every faith and no faith belong here. Mayor Mamdani belongs at tomorrow's commemoration. Our differences can never determine whose grief matters, whose rights are protected, or who gets to belong in this City. Thank you.
+
+**(01:16:02)**
+
+
+
+All right, Councilmember, followed by Dinowitz.
+
+**(01:16:08)**
+
+
+
+Thank you, Majority Leader. Today I am proud to introduce Res 0622-2026, calling upon the New York State Legislature to pass and
+
+**(01:16:18)**
+
+
+
+the Governor to sign S.5781 and A.6270, which would require municipalities to adopt an automated permitting platform for residential solar installations. Currently, contractors are forced to navigate different paperwork and approval processes, adding unnecessary time and cost that ultimately falls on the consumers. That is why the U.S. Energy Department developed Solar Plus, which was specifically designed to address this problem. It provides a standardized, automated process for reviewing eligible renewable solar projects while maintaining important safety and code requirements. Many states have already adopted this, and New York City rooftops have the potential to house 10 gigawatts of solar generation at peak production. In New York, we should remove needless barriers to residential solar, lower costs for homeowners and make it easier for communities across the state to participate in our clean energy future. I hope you join me in supporting this important resolution. Thank you.
+
+**(01:17:30)**
+
+
+
+Thank you, Councilmember Gennaro, followed by Cabán.
+
+**(01:17:33)**
+
+
+
+Thank you, Mister Majority Leader. You know, there are few things that can be more important than our children and the education of our children, but so often the education of our children is measured on a very narrow scope of skills. To that end, there are two resolutions that I am introducing. Res 0620-2026 calls upon the Department of Education to ensure that the New York State Seal of Civic Readiness is available to all New York City public high schools. This seal recognizes students who demonstrate civic knowledge, skills and engagement, not just through coursework, but through service learning, research projects and community engagement. This is the type of education that our students should be engaged in — robust education that is more than just about a test, and that engages the community. Ensuring that the seal is available at every public high school would give eligible students equal access to civic engagement.
+
+Next, Res 0621-2026, co-sponsored by Council Members Brewer and Thomas-Henry, calls upon the State Legislature to pass S.6318A, requiring arts and music curriculum in all New York City public high schools. The arts are an essential part of a holistic education and every student should have access to quality arts courses beyond art on a cart, which is what we hear about so many times in our schools. Arts in and of themselves have value. They are not just in service of advancing your English or your math skills.
+
+Finally, Res 0619-2026, veering off the education topic for a bit, calls upon the State Legislature and Governor to amend the New York City Public Works Investment Act to lower the monetary threshold for utilizing design-build in construction projects. This would allow for design-build construction — a process where a single vendor both designs and builds a project — for smaller City construction projects such as parks and prefab toilets. This would make projects more efficient and cheaper, and government efficiency is something we so desperately need in our City. Thank you, Leader. Thank you.
+
+**(01:19:44)**
+
+
+
+Councilmember Cabán, followed by Epstein.
+
+**(01:19:48)**
+
+
+
+Thank you. First, I would like to associate myself with the remarks of CM Hanif. Secondly, I would like to say thank you for CM Schulman's leadership on Int 1060-2026, of which I am a co-sponsor. I represent the district that has Rikers Island in it. Every single person that is detained there is a constituent, and those are constituents that my office tries to help each and every day. It is an incredibly difficult system, and any system that makes it easier to be able to follow up with them, their loved ones, and to be able to speak with the administration and the agencies about rectifying those issues is incredibly important. So thank you.
+
+Third, I would like to just note that today I was presented, alongside some of our Council colleagues, with this stack of almost a thousand signatures from delivery workers who, despite wearing an Amazon vest, are in favor and support of the Delivery Protection Act, which is ultimately a safety bill. It is one that will reduce crashes. It is one that will make sure that when employees get hurt, there is recourse. It is one that will set safety standards across the industry and will stop companies from hiding behind false and exploitative contracting models to avoid the kind of liability that they really should be taking on, because they are acting as employers in that setting. We are not alone in this. New Jersey's Attorney General has now filed suit against Amazon for exactly the same model. We have well over 30 co-sponsors on the Bill and a host of support, not just from labor, but from safety groups and environmental justice groups. I urge my colleagues, if you are not on it yet, to please get on. It is going to make a huge difference to the livelihoods, the safety, the health and the wellbeing of thousands of workers around the City. So thank you. Thank you.
+
+**(01:21:43)**
+
+
+
+Councilmember Epstein, followed by Hudson.
+
+**(01:21:46)**
+
+
+
+Thank you. I just want to welcome all the young people who went back to school today. I know it is a very exciting day, the first day of school. I remember every day walking my kids to school and what it really meant. I will move a little closer to a somber topic. I know the Speaker flagged it earlier about 9/11 tomorrow, and I think we will all be thinking about this tomorrow and thinking about it today. I really reflect on what that was like for me 25 years ago. Thinking about what was mentioned earlier — dropping my daughter off at daycare and looking down First Avenue and seeing a plane hit the tower. I was supposed to go to bankruptcy court that morning and I obviously could not go because there was nothing to do that morning. Then trying to figure out what we could do, making sure my family was safe and everyone's family was safe, and hearing about stories of friends and loved ones who got stuck and died, and friends and loved ones who got out. You know, that story means so much to us and it means so much about the history and the fabric of New York, and it means so much about what we need to be doing going forward. It also talks a lot about hate and Islamophobia and what happened after that in New York and how our Muslim brothers and sisters were treated in this City and in this country. So I hope when we reflect on it, we think about how we move forward.
+
+I also want to flag a more joyful topic, if I could. I have a youth council that I have had, and they have worked hard over the last eight years, focusing on student access to public transportation. In 2018, they really focused on the half-price MetroCard and getting rid of the card where people had to pay a dollar thirty-five and change, and then focusing on the full MetroCard and getting more swipes. That was announced by Mayor Adams in 2024. Some of our colleagues here, just a few weeks ago, they released their new report where they interviewed over 700 students, talked about their problems with the existing MetroCard, released a report, and I really encourage you all to look at the report and the proposed innovations to make that better. We want to inspire the next generation of young people to do more, and I am proud that they did this. I hope everyone has a lovely, happy new year tomorrow. Thank you.
+
+**(01:24:05)**
+
+
+
+Councilmember Hudson, followed by Brewer. Thank you.
+
+**(01:24:10)**
+
+
+
+I generally do not engage with trolls and bigots, particularly online, but there are moments when silence is not an option. The repeated attacks directed at Mayor Zohran Mamdani, CM Shahana Hanif, CM Yusef Salaam and Muslim New Yorkers more broadly — which includes our own staff here at the Council — demand to be called out for what they are: Islamophobic and racist. It is one thing to disagree with an elected official's policies. It is another to invoke the horrors of September 11 to smear a Muslim elected official who was nine years old when those attacks took place. To suggest that Mayor Mamdani or any Muslim New Yorker bears responsibility for the actions of extremists is not political disagreement. It is Islamophobia, it is racism and it is dangerous.
+
+Our City knows the devastation of 9/11 too well to allow its memory to be weaponized against an entire faith. We lived through what that weaponization looks like — Muslim and South Asian New Yorkers surveilled, detained and harassed in the years that followed, treated as suspects instead of as neighbors simply for how they looked or prayed. The victims and survivors of that day deserve to be remembered with dignity, not used as a vehicle for hatred. My colleagues and their allies cannot continue to disguise their own prejudice as policy disagreement or political partisanship.
+
+You are not fooling anyone. In fact, you are hurting countless New Yorkers. Every New Yorker should be able to look at any member of this body, regardless of political persuasion, and see someone who respects them. Our disagreements as elected officials can be sharp, they can be political, they can be deeply felt, but there is a line between political disagreement and dehumanizing an entire community. That line has been crossed time and time again and this needs to stop.
+
+**(01:26:01)**
+
+
+
+Thank you. Thank you, CM Brewer, followed by...
+
+**(01:26:03)**
+
+
+
+Thank you very much, CM Hudson. A couple of things just to remember on 9/11: my predecessor Helen Rosenthal's brother was killed that day. And then to mention, just this morning at a school, I learned that one of the parents has dementia and is not expected to live. She was at Trinity Church, and it is one hundred percent based on 9/11 toxic exposure. It never goes away.
+
+Int 1025-2026: I want to mention that earlier this year, Local Law 46 went into effect, and it requires the NYPD to ensure that credentialed journalists retain access to police radio communications as the department moves to encryption. NYPD's proposed implementation would impose a one-hour delay, which is too long for journalists and photojournalists covering breaking news. So today I am introducing this Bill to limit that delay to no more than 15 minutes and require technology that allows them to scan multiple channels for active transmissions, so they can do as they could with traditional police scanners. It is important to have timely access for journalists to report breaking news, to keep New Yorkers informed and provide independent oversight of police activity. I particularly want to thank Josh Kingsley of the Council staff — he is a rock star — and all those from my office.
+
+Int 1026-2026: last month, I introduced a package of pedicab reforms to improve safety. Today addresses another part of that work: how pedicabs use curb space. Currently, drivers have very few legal places to wait for passengers or to take a break, including near major destinations where customers look for them. This Bill would allow these cabs to use existing taxi and for-hire vehicle relief stands and require DOT to establish at least 15 pedicab relief stands. DOT would decide where they go. Giving drivers legal places to wait is important, and I want to thank the New York City Cab Alliance and Council staff member Margaret Clifford and Shula Pooter from my staff. Thank you.
+
+**(01:28:25)**
+
+
+
+Thank you. CM Zhuang, followed by Lee and then Santosuosso. Thank you. Before I talk
+
+**(01:28:31)**
+
+
+
+about my bills, I want to recognize a hero and also share a story from my district. Sunday morning around 11:30, a car just drove through a red light, did not stop at all and hit a pedestrian. There was an officer seated on the opposite street in a car, and he could see something went wrong. The driver's window was down. He jumped inside the car to stop it and realized that person was unconscious. So he pulled that person out and started CPR for that person. The whole story — you can feel it when you look at the video. You do not know if it is a carjacking or something. We all know something went wrong. So that Asian officer saved a young Latino man's life. He not only saved the life of that driver, he saved the lives of pedestrians, children and seniors who are living in the community. I want to give him a shoutout. He does not want his name mentioned, but I want to honor him, and I also want to honor him in our Council chamber.
+
+Next, I am proud to introduce two bills. Int 1068-2026 would help taxi drivers who get requests from all the big companies. When a taxi driver picks up a rider with mobility problems or a disabled person, they always stop trying to pick up people but they cannot stop at the bus stop. They always get fines. So many older riders with more mobility issues need help, and for-hire vehicle drivers need help too. I have another bill I will give...
+
+**(01:30:34)**
+
+
+
+You ten seconds, Councilmember. Right? Okay.
+
+**(01:30:37)**
+
+
+
+Int 1067-2026 provides basic mandates. We all love to use this new tool, but big companies should educate the general public. This is also impacted...
+
+**(01:30:51)**
+
+
+
+Thank you, Councilmember. Thank you, CM Lee, and finally CM Santosuosso. Thank you, Majority Leader, and
+
+**(01:31:00)**
+
+
+
+Madam Speaker, today I am introducing three bills as a second round of my contracting reform package. As many of you know, New York City relies on nonprofits to provide mental health care, support older adults, run programs for our young people, and provide legal services for immigrant communities. We expect those services to continue without interruption, but providers cannot always count on the City to pay on time. Their rent does not wait, their payroll does not wait, and the people they serve cannot wait.
+
+We are addressing a frustrating reality: providers can be doing the City's work while unfinished City paperwork prevents them from even submitting a bill. Even when that paperwork is complete, City invoicing systems can fail. Providers need a backup. A computer problem should not become a financial crisis. And throughout these delays, their own bills keep coming. Nonprofits borrow money or spend down reserves to stay open. Interest payments to eligible providers would help offset that burden. Nonprofits do their part — the City needs to also pay its bills. Our communities count on these nonprofits. I hope my colleagues will join me in making sure that they can count on us. Thank you.
+
+**(01:32:13)**
+
+
+
+Thank you, CM Lee. CM Santosuosso, who also...
+
+**(01:32:17)**
+
+
+
+Thank you, Majority Leader. I am officially fully back in person this week after taking maternity leave — and I put that in quotes, because even an hour after I gave birth I posted about alternate side parking on Facebook from my recovery bed. But as I have not physically been on this floor for the last few months, I just wanted to use my time to express my gratitude. Being a new first-time mom is a challenging job. Being a new first-term Council Member is a challenging job. Doing both at the same time sounded unthinkable to me last year, but it was possible and is possible through the support of so many working parents in this body who supported me and led the way before me. I wanted to express my appreciation for both parents and non-parents in this body who had my back. They say it takes a village — for me, it takes a Council.
+
+I also wanted to express enormous gratitude for my incredible staff who made sure that our constituents kept being served: Michael, Joe, Chris, Stephanie, Humber, Ben, Charlene, Natasha and Paige. Because of them, we closed over 1,000 constituent cases in the last few months alone — SCRIE applications filed, SNAP
+
+**(01:33:31)**
+
+
+
+benefits secured, repairs completed, and wins for residents across our district. This is alongside the many hearings and Stated meetings I attended virtually with a baby on my shoulder, the legislation we introduced, the dozens of events we held, the budget wins we secured, and so much more. So the next time they tell you you cannot be pregnant and run for office, or you cannot have a kid and serve your district, do not believe them. Day in and day out we represent so many working parents who juggle their careers and their families, and they know — as do we — that if you want something done, you should give it to a busy mom. Thank you.
+
+**(01:34:08)**
+
+
+
+Everybody, thank you, Council Member. We are very happy to have you back. You have always been here — I know you have been very, very much here. I now call on Speaker Julie Menin to close today's Stated meeting.
+
+**(01:34:21)**
+
+
+
+Okay, so the Stated meeting of September 10, 2026 is...
