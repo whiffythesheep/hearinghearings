@@ -2654,7 +2654,7 @@ Ruth is not here, just so you know. She is from my organization.
 
 
 
-Please begin. Adrienne, ready? Please say your name for the record.
+Please begin. One, ready? Please say your name for the record.
 
 **(03:46:28)**
 
@@ -2752,7 +2752,7 @@ Okay. It sounds to me like it is another evaluative AI tool, but we will look mo
 
 
 
-Someone with beautiful handwriting. Tell me the rest, please. Blondeville... I love it. Beautiful cursive. Blondmanville. Beautiful cursive. I meant it when I said it. You know, they do not teach cursive in school anymore. Catholic schools do. Maybe I will send my kids to Catholic school to learn. Okay. Shannon, Richie and Julie Zing. Okay, you begin, Adrienne.
+Someone with beautiful handwriting. Tell me the rest, please. Blondeville... I love it. Beautiful cursive. Blondmanville. Beautiful cursive. I meant it when I said it. You know, they do not teach cursive in school anymore. Catholic schools do. Maybe I will send my kids to Catholic school to learn. Okay. Shannon, Richie and Julie Zing. Okay, you begin. One, ready?
 
 **(03:57:30)**
 

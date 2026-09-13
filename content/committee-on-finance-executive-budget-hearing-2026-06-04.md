@@ -4514,7 +4514,7 @@ I think that is every year, and it is one of many reasons to love Gale Brewer. C
 
 
 
-Rebecca, excited for you. I do not do this publicly, so I will put it on the record today. I know that it is because of my friend and colleague CM Hudson that containerization is coming to her district in Brooklyn, and she deserves the credit for that. My constituents benefit and we share. So thank you to her and thank you to my Borough President Tony Reyno. The commercial waste zones are coming to Adrienne in Brooklyn later this year. Those are two things that I am enormously excited about and looking forward to working with your team on. On containerization, your team has indicated a willingness, and your predecessor has indicated a willingness, to work with us on a pilot for 1 to 10 unit buildings. Any update on that?
+Rebecca, excited for you. I do not do this publicly, so I will put it on the record today. I know that it is because of my friend and colleague CM Hudson that containerization is coming to her district in Brooklyn, and she deserves the credit for that. My constituents benefit and we share. So thank you to her and thank you to my Borough President Tony Reyno. The commercial waste zones are coming to Brooklyn later this year. Those are two things that I am enormously excited about and looking forward to working with your team on. On containerization, your team has indicated a willingness, and your predecessor has indicated a willingness, to work with us on a pilot for 1 to 10 unit buildings. Any update on that?
 
 **(05:58:04)**
 
