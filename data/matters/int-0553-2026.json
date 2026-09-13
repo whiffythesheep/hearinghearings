@@ -24,77 +24,113 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 553-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15648369&GUID=F7192AB5-B859-4DE8-94AA-4A08FA6D8B9F"
   },
   {
    "label": "Summary of Int. No. 553",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15161211&GUID=7AEE0BB8-FD76-41D7-AA62-C25DCC9B40F0"
   },
   {
    "label": "Int. No. 553",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15161210&GUID=32CF2E6F-3F2F-49FB-9947-8FC7012249DE"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15161647&GUID=94A2F2AA-DF4F-47FE-AA84-67815CB2713B"
   },
   {
    "label": "Committee Report 2/26/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15266488&GUID=6DAE8CDF-2750-4F78-B7A6-B1E66BA9F17B"
   },
   {
    "label": "Hearing Testimony 2/26/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15327855&GUID=64C01AD7-1B0C-459B-80DE-77BA89963047"
   },
   {
    "label": "Hearing Transcript 2/26/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15350686&GUID=8E6D2EB7-95EC-4B4A-9579-D9B7FA78929D"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15277996&GUID=594BA8DD-C4C8-427D-B719-D5AB9FEC0E61"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302410&GUID=C0B2E3AA-523B-4DD1-8F04-AAEAB4F5E96F"
   },
   {
    "label": "Proposed Int. No. 553-A - 6/22/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647297&GUID=303E4797-6B6B-4B10-9614-EC0E085C5000"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656533&GUID=0B79A3E5-3AF4-4566-B58A-2EEE58C719DF"
   },
   {
    "label": "Proposed Int. No. 553-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657326&GUID=55E72C59-2F1C-4A32-B66E-2DEF3FBDFA97"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660381&GUID=679385A1-F61B-4269-956E-1A4366AB2099"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665066&GUID=CBAEF472-8301-4C44-8C4A-D6F2D307FE08"
   },
   {
    "label": "Int. No. 553-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15672238&GUID=C46188E6-C68C-46A6-9F04-77DC853660C3"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729359&GUID=7CC0B617-7893-49D6-842B-0AF4083BE8A6"
   },
   {
    "label": "Local Law 120 of 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830146&GUID=56710503-27A7-4D23-BA2F-0B8A10C30CAF"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849132&GUID=F8981F84-D91F-4A3B-AA10-C1BBC93840C3"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 210160
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 553-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657326&GUID=55E72C59-2F1C-4A32-B66E-2DEF3FBDFA97"
+ },
  "history": [
   {
    "date": "2026-07-31",

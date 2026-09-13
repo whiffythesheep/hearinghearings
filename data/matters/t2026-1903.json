@@ -10,37 +10,46 @@
  "attachments": [
   {
    "label": "Human Resources Administration",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548063&GUID=805F9C96-415D-4883-99AD-963D1B4700B1"
   },
   {
    "label": "Department of Homeless Services",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548062&GUID=C5C6151A-EF6B-4DC5-BCB5-C5C4E61114DC"
   },
   {
    "label": "Department of Social Services - Erin Dalton",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559114&GUID=CB814DEC-29AE-4406-8AAF-73F437B5699F"
   },
   {
    "label": "Department of Sanitation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548061&GUID=512D50FE-2180-41CC-8BDE-F21080CD735E"
   },
   {
    "label": "Department of Sanitation - Gregory Anderson",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559230&GUID=EBB605E2-0AEC-4A6B-AA2A-09964678888F"
   },
   {
    "label": "Conflicts of Interest Board",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547995&GUID=2CCE4B4A-1873-4955-A6EA-E6F3F30447FF"
   },
   {
    "label": "NYC Conflicts of Interest Board - Carolyn Lisa Miller",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559231&GUID=C565B373-76CF-4207-B018-D219979E81C6"
   },
   {
    "label": "Appearance Cards 6/4/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559232&GUID=ADFD47FC-592F-47D1-981E-C6891FBEB356"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-04",

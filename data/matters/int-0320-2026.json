@@ -40,57 +40,92 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 320-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15749576&GUID=AE4FA10F-7449-4F66-B2A9-56025CF165E2"
   },
   {
    "label": "Summary to Int. No. 320",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160439&GUID=102559A9-D8F8-44A6-A216-F1302F00FE9A"
   },
   {
    "label": "Int. No. 320",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160438&GUID=3A322AFE-9E81-4F4E-94B8-9C252655A12A"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251738&GUID=7BAD8753-BC66-4DF5-9B94-98D91A5A316E"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252430&GUID=4E23CFFB-79BA-4FD3-8F54-6D2025099A9A"
   },
   {
    "label": "Committee Report 6/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586705&GUID=6223074E-49F1-45BA-AD55-117267D564A7"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613917&GUID=0ECEC9F8-F9F1-44C0-A378-EA9E777212DB"
   },
   {
    "label": "Hearing Testimony 6/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720353&GUID=0A93949D-D9C9-4375-9F8B-4546C8522477"
   },
   {
    "label": "Proposed Int. No. 320-A - 8/6/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15749575&GUID=D84F7EAC-7819-43A0-A2DD-6C935D353283"
   },
   {
    "label": "Proposed Int. No. 320-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754667&GUID=73131648-5AA2-491A-B0F0-F3C1C0B1EBCF"
   },
   {
    "label": "Committee Report 8/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15759760&GUID=0E306056-19F4-4779-A35C-5833F5C35483"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765175&GUID=CC7E4BC3-D509-4051-B9BE-0504444F821D"
   },
   {
    "label": "Int. No. 320-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765290&GUID=C5E539BB-5855-4DC2-B530-7221ABD99987"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 320-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754667&GUID=73131648-5AA2-491A-B0F0-F3C1C0B1EBCF"
+ },
  "history": [
   {
    "date": "2026-08-13",

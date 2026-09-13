@@ -18,21 +18,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 963",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662408&GUID=5AF97CD8-2623-4BBB-88BF-58047DB44CF7"
   },
   {
    "label": "Int. No. 963",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662410&GUID=144A3EDE-E77B-46BF-A980-B7A4E6727848"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664769&GUID=C8271BFC-C3FD-41AB-A523-7C4A77E4A698"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849070&GUID=492CA3B7-2293-4C99-8F4F-2E8D4F4BD493"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

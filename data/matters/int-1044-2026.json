@@ -13,33 +13,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1044",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766956&GUID=061934E4-5137-4003-84A5-33698F396B0F"
   },
   {
    "label": "Int. No. 1044",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766957&GUID=58E08192-FE0C-4441-8DC6-711241B1E3F3"
   },
   {
    "label": "Committee Report 9/2/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15821347&GUID=09CE2713-9C70-4CDE-8130-AF88770E4449"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820320&GUID=AB3F3681-F2AA-4E3D-BA2C-42DF3B179194"
   },
   {
    "label": "Hearing Testimony 9/2/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835561&GUID=5B4A8B6C-15D8-4E4B-8FC5-E8882DD13CC0"
   },
   {
    "label": "Hearing Transcript 9/2/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834811&GUID=8BFE5543-1294-44FF-BB7D-A5DBC8F013E2"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847655&GUID=7262285F-B38F-497B-81B8-56DEFD2DB9D1"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820320&GUID=AB3F3681-F2AA-4E3D-BA2C-42DF3B179194"
+ },
  "history": [
   {
    "date": "2026-09-10",

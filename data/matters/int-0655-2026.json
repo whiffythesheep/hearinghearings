@@ -24,73 +24,108 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 655-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748405&GUID=3C9C75E6-3A34-472D-85A1-B256606872D2"
   },
   {
    "label": "Summary of Int. No. 655",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176171&GUID=5B6EC17A-580B-4172-950F-04AE8F639DEC"
   },
   {
    "label": "Int. No. 655",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176170&GUID=42A2FDA6-29CE-4223-926F-75AFFE08CD3B"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729593&GUID=69329237-12F0-4CC0-8FD8-45BAA29F82EE"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302591&GUID=02D4C360-FEAE-4A1A-BC89-ABC514982FEB"
   },
   {
    "label": "Committee Report 3/3/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15284783&GUID=7B9EBD0A-48F4-4D16-B226-95E0AB4D0229"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15287959&GUID=1077B58F-4FF9-4686-9D18-52DBB2AE91B5"
   },
   {
    "label": "Hearing Testimony 3/3/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15370929&GUID=FC3CA627-FD9A-447D-A3E4-64BDA81C33C6"
   },
   {
    "label": "Hearing Transcript 3/3/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15345209&GUID=933F750D-3A6D-4627-ABDF-72FF8FED7B82"
   },
   {
    "label": "Proposed Int. No. 655-A - 8/6/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748404&GUID=957EE12E-7FE3-48CD-A226-1E520C482FF1"
   },
   {
    "label": "Proposed Int. No. 655-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15758347&GUID=F83D71F4-D145-4F3B-923E-6F26EB2A8BC1"
   },
   {
    "label": "Committee Report 8/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762345&GUID=5C29FFB2-2111-4FF7-ABBF-EAC36A97FE5F"
   },
   {
    "label": "Hearing Transcript 8/13/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15851010&GUID=07464F06-5EE6-44E3-86F8-278542794538"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764034&GUID=FFF648D9-68D1-433C-9113-6BC721A54788"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765188&GUID=4ABA1266-010D-45FA-8236-A897381C3380"
   },
   {
    "label": "Int. No. 655-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15775668&GUID=2DAF248C-51B5-4537-AABC-41D3A35E0042"
   },
   {
    "label": "Mayor's Letter re LL 135 of 2026",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15819093&GUID=8E9443EE-DC90-43C3-A982-9CF39019BB3E"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 655-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15758347&GUID=F83D71F4-D145-4F3B-923E-6F26EB2A8BC1"
+ },
  "history": [
   {
    "date": "2026-08-31",

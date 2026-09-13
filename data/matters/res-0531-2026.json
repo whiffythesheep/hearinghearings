@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820782&GUID=F6D94FF3-5F88-4D28-83E5-276C01ADAF3E"
   },
   {
    "label": "Res. No. 531",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660140&GUID=30A727E1-73AF-4528-ACC5-3962746B519F"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665030&GUID=509C6101-DE56-4E81-BBBA-08BB5D00D87B"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849095&GUID=AB56421A-3536-4494-9BD9-2BFE77D51FC2"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

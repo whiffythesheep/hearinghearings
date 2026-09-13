@@ -41,33 +41,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 905",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477773&GUID=FD5425DD-27CC-4843-8319-2DA387717B54"
   },
   {
    "label": "Int. No. 905",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477772&GUID=7C1A5B08-4EB7-49DD-98E0-94CB9280BB0D"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15480814&GUID=B2C69B6D-4491-4C6D-98F8-ACD206010BBE"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548241&GUID=D87EA394-C80A-48A5-A4DF-BAA8FF453312"
   },
   {
    "label": "Committee Report 9/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836124&GUID=A0D22383-6730-4D52-B08B-817A688EC5B4"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837851&GUID=D45E2948-6EAF-4D0C-8F40-824F6B3DBB2C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849003&GUID=500AA6BB-D932-43B6-8F59-E2E640C81266"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 128000,
+   "succeeding": 170000,
+   "full": 170000
+  },
+  "net": {
+   "effective": -128000,
+   "succeeding": -170000,
+   "full": -170000
+  },
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837851&GUID=D45E2948-6EAF-4D0C-8F40-824F6B3DBB2C"
+ },
  "history": [
   {
    "date": "2026-09-09",

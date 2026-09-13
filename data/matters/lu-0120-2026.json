@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Calendar of the Landmarks and Zoning Subcommittee Meetings - August 12, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15747923&GUID=BA9D5FA6-1859-4FA4-AD4E-19FC8C669441"
   },
   {
    "label": "Appearance Cards - Zoning 8/12/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15790991&GUID=E71BE13A-7120-4241-9D82-DE77BEE03BDC"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765159&GUID=61CC1AAA-3C86-4F12-9257-A5B317BC6496"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824849&GUID=D690FF4E-A545-4245-A09B-BD14B9D701A7"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-09",

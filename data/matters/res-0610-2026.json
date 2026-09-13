@@ -18,17 +18,21 @@
  "attachments": [
   {
    "label": "Res. No. 610",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763416&GUID=77766464-1200-43A1-9AAE-2D0E2A179B7D"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765158&GUID=5ED9197B-B07A-4DAC-890D-679DB5602B66"
   },
   {
    "label": "Proposed Res. No. 610-A - 9/10/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15846364&GUID=627CF2FB-6C8B-4E1A-8ED7-950439BD629A"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

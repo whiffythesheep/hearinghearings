@@ -10,33 +10,41 @@
  "attachments": [
   {
    "label": "May 20, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748491&GUID=7A125E81-15FC-428A-857A-59F4821999D5"
   },
   {
    "label": "Res. No. 543",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661060&GUID=42670822-9A23-4AB1-BBD8-D59FE7C07144"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661057&GUID=8169A1BA-C1ED-482C-B45E-9D89A95FF54E"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820825&GUID=AF652A4C-21DC-4138-BBEC-5B95C94E1AC3"
   },
   {
    "label": "Proposed City FY'27 Community Development Program",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661058&GUID=BD56AE1C-F2F4-41DC-AA5C-0BD2D6DE4D95"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665041&GUID=A003DE40-A001-401A-AAB5-3803A633753C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849106&GUID=50050BE2-4F02-4E0D-B01F-D8788A8ABCE3"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

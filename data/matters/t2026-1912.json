@@ -10,37 +10,46 @@
  "attachments": [
   {
    "label": "Citywide Fact Sheet",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15565501&GUID=D2AEF182-7C50-449C-A750-186BF353E88A"
   },
   {
    "label": "Mayor's Office of Management and Budget - Sherif Soliman",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15571191&GUID=83847BC6-1387-4418-BD82-EDA5DB03D121"
   },
   {
    "label": "Office of the Comptroller - Mark Levine",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15571192&GUID=B06646E2-FF9F-4C7B-A3EA-4236ECE9826E"
   },
   {
    "label": "Department of Finance",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15565502&GUID=C1756803-90B5-4964-8311-0F3EAEE213C5"
   },
   {
    "label": "Department of Finance - Richard Lee",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15571193&GUID=1A6B6C82-DD9F-4181-AB90-B807B3225DAF"
   },
   {
    "label": "Economic and Tax Revenue Forecast",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15565503&GUID=40006289-3DD7-47AD-83F3-B8DD0488FC7F"
   },
   {
    "label": "IBO - Louisa Chafee",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15571194&GUID=6BBB5A9F-137A-428E-A04D-24751B40B812"
   },
   {
    "label": "Appearance Cards",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15571195&GUID=CDB04373-802D-4098-A25A-68660A126B12"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-09",

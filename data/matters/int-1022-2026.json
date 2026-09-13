@@ -13,21 +13,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1022",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843280&GUID=61D92531-BDCE-49DF-ACE2-E79ECA6EDB8F"
   },
   {
    "label": "Int. No. 1022",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843279&GUID=BD00A065-9EE6-49A8-BCB2-11B2F2588A9B"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843293&GUID=F53B88CC-4DAF-49A7-BEDE-693CFC2D329D"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847627&GUID=431072C7-2F1A-491F-A086-BA916BC686AF"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

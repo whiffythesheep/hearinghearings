@@ -14,13 +14,16 @@
  "attachments": [
   {
    "label": "Res. No. 594",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762895&GUID=735A7721-F86B-4D45-9FDC-BAEA7E79D9A8"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765124&GUID=8E5A8691-1692-45C7-988C-041FE99C90C8"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "Calendar of the Landmarks Subcommittee Meeting - September 8, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15823798&GUID=7D3C44E0-5501-42B4-9ED8-B0DFB25EFB4E"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847717&GUID=0F7FA080-F5EF-4228-B16E-8EAABD39157F"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

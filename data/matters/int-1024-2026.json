@@ -15,21 +15,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1024",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843411&GUID=D2760CCC-4098-47DC-8FE2-DA1B321A8B33"
   },
   {
    "label": "Int. No. 1024",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843410&GUID=A2B64FD9-6F05-4431-86A7-D33219BE797D"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843412&GUID=CEA70D66-3785-4DB2-B1B3-83893F458BEE"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847631&GUID=BD2C6F59-85FF-4F9D-9325-4BBD1F5FE663"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

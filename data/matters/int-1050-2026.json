@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1050",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842973&GUID=4F38E9FA-73F8-40A8-A34D-D750B8ACB04B"
   },
   {
    "label": "Int. No. 1050",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842974&GUID=1623EBC1-EB99-44A6-8862-881A84005E44"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842975&GUID=8B9C6658-A33B-4DDF-8BC2-10D543C65450"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847686&GUID=688A421F-329C-4162-9CAB-4AA56CB282BA"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

@@ -12,17 +12,21 @@
  "attachments": [
   {
    "label": "Mayor's Nomination Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844292&GUID=3BF3E9FB-B928-40C0-A392-3A6D0DD63ED2"
   },
   {
    "label": "Res. No. 640",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844293&GUID=65737F29-CB10-4172-B361-50E209BBE333"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847346&GUID=6516E110-F3EB-4309-917C-CF31C6154DBC"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

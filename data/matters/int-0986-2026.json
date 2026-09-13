@@ -15,21 +15,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 986",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762393&GUID=B64D756C-C0C7-4EAE-AA07-452D3F9AC443"
   },
   {
    "label": "Int. No. 986",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762392&GUID=75DD0C2E-ECB2-4EC8-882E-5D902C6AEAE6"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762396&GUID=12DBCE62-AC29-4B6F-87D8-BB7772A4D8AD"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765108&GUID=7BC9B33C-A658-4121-9773-2B4BB72CDAF6"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

@@ -13,37 +13,63 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 779",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301634&GUID=E79A2F92-09BD-451E-938B-AC68900C89FB"
   },
   {
    "label": "Int. No. 779",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301635&GUID=F604EF80-7929-4A95-B6C8-1609E4430A54"
   },
   {
    "label": "Committee Report 3/3/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301636&GUID=90AF8F52-D82C-48AE-9198-3BEFF54CC09A"
   },
   {
    "label": "Hearing Testimony 3/3/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15370941&GUID=74840FF1-F399-4291-AE22-46D1CB265845"
   },
   {
    "label": "Hearing Transcript 3/3/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15345213&GUID=C7113AA2-A0FC-4CFE-B171-9A96A5242539"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301637&GUID=5DAE02FD-6604-48BB-82F7-DD439E15A458"
   },
   {
    "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15305009&GUID=AA12CB5D-6242-429B-B7AA-6F88A06DB96C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433246&GUID=B2A85F8E-D895-4EF2-BD61-B2D7144AA78C"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 102
+  },
+  "net": null,
+  "effective_fy": "2026",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301637&GUID=5DAE02FD-6604-48BB-82F7-DD439E15A458"
+ },
  "history": [
   {
    "date": "2026-03-10",

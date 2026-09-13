@@ -15,37 +15,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 724",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301464&GUID=ABBA291A-B5BA-4788-B562-91A30414A5F5"
   },
   {
    "label": "Int. No. 724",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301462&GUID=D46E492C-98DD-4FB2-B101-78D80F4EDC24"
   },
   {
    "label": "Committee Report 3/3/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301468&GUID=E6005AAA-DF47-4E9C-BDCE-9403A7FD3F4E"
   },
   {
    "label": "Hearing Testimony 3/3/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15370939&GUID=A67B4408-1975-47EF-8AE2-4A451FB233EC"
   },
   {
    "label": "Hearing Transcript 3/3/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15345211&GUID=194245F0-349A-4E13-9F53-459CAC5AA250"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301469&GUID=30EC50EE-69DE-4B51-BBB9-A890E007E907"
   },
   {
    "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15304941&GUID=E1EAB5D9-0DBC-4335-8006-F41E999514BE"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433197&GUID=C8C0DE49-580F-46DF-91F7-2DCAFDB3B21B"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301469&GUID=30EC50EE-69DE-4B51-BBB9-A890E007E907"
+ },
  "history": [
   {
    "date": "2026-03-10",

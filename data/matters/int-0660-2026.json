@@ -22,37 +22,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 660",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289204&GUID=64247B35-E6C0-4C0D-AE1E-B83A3911ABBD"
   },
   {
    "label": "Int. No. 660",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289202&GUID=F5C02063-932B-4954-BBB5-D96F1789F92E"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729603&GUID=83F1956A-C7C4-4F7E-85A8-DE08C486AFB0"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302601&GUID=24A31C52-55E4-4E28-9692-E1D251AB639E"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15401926&GUID=DA161383-6EAD-44F4-A7B1-7ACB2B623BA8"
   },
   {
    "label": "Committee Report 4/21/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15436960&GUID=17BD40B0-0559-453C-8081-E577B6856FFD"
   },
   {
    "label": "Hearing Testimony 4/21/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15706208&GUID=A04141FB-C078-4993-A75C-7C2C66CFEC92"
   },
   {
    "label": "Hearing Transcript 4/21/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657593&GUID=F11C9324-B35B-40C8-8D17-59EEE096BE8D"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "",
+  "omb_estimate": "",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15401926&GUID=DA161383-6EAD-44F4-A7B1-7ACB2B623BA8"
+ },
  "history": [
   {
    "date": "2026-04-21",

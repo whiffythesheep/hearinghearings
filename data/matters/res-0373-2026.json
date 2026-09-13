@@ -16,25 +16,31 @@
  "attachments": [
   {
    "label": "Res. No. 373",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303954&GUID=97D9E22C-939E-46BB-8F4D-0041FF220EA4"
   },
   {
    "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15305021&GUID=19401404-9397-4BEB-AC5F-3861EE5CF604"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433258&GUID=65E759C2-BAF4-4E48-9319-07569F2C7729"
   },
   {
    "label": "Committee Report 6/16/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15576258&GUID=F2B837C9-06B8-4760-97E5-65ADABD1C88C"
   },
   {
    "label": "Hearing Testimony 6/16/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15655817&GUID=E5C5EE14-BB8E-43CA-A347-B89EEB6652D6"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-16",

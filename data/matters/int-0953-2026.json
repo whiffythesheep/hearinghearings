@@ -31,33 +31,54 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 953",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15555714&GUID=5F7674D2-B6C0-411F-A69F-284F699FB00E"
   },
   {
    "label": "Int. No. 953",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15555713&GUID=EC9EC217-0402-4848-B2AB-185180C1E19F"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15558425&GUID=6CECC6AC-1C80-400F-B928-755883ECAD12"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575749&GUID=B7215A96-5A40-4989-A435-BF797B47CBF9"
   },
   {
    "label": "Committee Report 6/15/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581437&GUID=F540F2EA-2068-4196-9436-606DDB714B00"
   },
   {
    "label": "Fiscal Impact Statement- City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584104&GUID=0C00CF53-ACC3-4FC0-8D39-CABEC2620C31"
   },
   {
    "label": "Hearing Testimony 6/15/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646482&GUID=7A3BE822-C378-4D48-ADF5-9DF83888DE86"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget (OMB) did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement- City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584104&GUID=0C00CF53-ACC3-4FC0-8D39-CABEC2620C31"
+ },
  "history": [
   {
    "date": "2026-06-15",

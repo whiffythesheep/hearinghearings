@@ -20,29 +20,57 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 649",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15299477&GUID=A6375688-5EB6-47E0-A5B8-F3B8E89A6DCF"
   },
   {
    "label": "Int. No. 649",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15299478&GUID=86385832-61E3-445C-84A3-D6D65DFE9C43"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729587&GUID=F4F905BA-A7A8-48CA-9925-9CFA76D0DF4B"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302585&GUID=8DACACF7-EED1-4E34-B637-A882A618BC61"
   },
   {
    "label": "Committee Report 9/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835841&GUID=4C5EC679-A1EC-4EE2-A6F7-F099571C63AE"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837848&GUID=223840E5-1CE6-451E-BF55-7C88820D6EEA"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837848&GUID=223840E5-1CE6-451E-BF55-7C88820D6EEA"
+ },
  "history": [
   {
    "date": "2026-09-09",

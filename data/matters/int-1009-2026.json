@@ -13,21 +13,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1009",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763010&GUID=FD9E0A19-398D-4F12-8C94-97EA3049C030"
   },
   {
    "label": "Int. No. 1009",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763011&GUID=D039C5F4-9839-4D83-860E-51AEFA9480E7"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763021&GUID=69A8D36D-FB1F-49D9-9827-2506D5C19826"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765135&GUID=0EB91E47-C801-4D86-9736-93557354A7EB"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

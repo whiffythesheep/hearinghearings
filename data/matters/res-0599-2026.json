@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "Res. No. 599",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15803990&GUID=7E90CBE4-B79C-4FE6-81EB-0CB817BD1F45"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765142&GUID=B7031A8B-F982-41B8-B4E6-8E9FC53E1804"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

@@ -10,33 +10,41 @@
  "attachments": [
   {
    "label": "Mayor's Nomination Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763423&GUID=F32C3566-CCA4-4240-92C7-EEBFF0F557A0"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765170&GUID=B7E7DFD3-BF78-4B58-97A7-F08D981D4129"
   },
   {
    "label": "Committee Report 9/1/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820123&GUID=F2ACA839-2742-4BC2-831B-2BE8C56545A9"
   },
   {
    "label": "Hearing Testimony 9/1/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835553&GUID=F05BE698-DAF1-47C6-9FF5-14BBC9E4EFB8"
   },
   {
    "label": "Appearance Cards 9/1/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835097&GUID=2A9F2F71-831B-4381-89D9-9E20876AC51F"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844055&GUID=E6FFD17E-28DC-4317-9725-5BA41DEB7E24"
   },
   {
    "label": "Res. No. 640",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844614&GUID=248E8D9C-5B41-43BA-AAEE-6A21D16B3F79"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

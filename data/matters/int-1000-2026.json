@@ -14,21 +14,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1000",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762891&GUID=9830AE11-5221-4B38-95D1-E97793A345DF"
   },
   {
    "label": "Int. No. 1000",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762889&GUID=C5A18BC8-28CC-4EFE-9D68-3DE9D98EC594"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762898&GUID=3EB7DD92-F201-4E6F-B712-06901E7BA0DC"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765125&GUID=84C07A33-D2DC-4A82-ADDC-1861C2D83F77"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

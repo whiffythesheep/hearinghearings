@@ -19,33 +19,54 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 999",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762845&GUID=8A6486BD-6569-49D0-B8D2-77E3174AEBF4"
   },
   {
    "label": "Int. No. 999",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762844&GUID=AF8BC233-C8B2-4087-9632-0C2526A402D1"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765122&GUID=8C138271-DEEF-44EC-A08B-8A6DB95ED5FB"
   },
   {
    "label": "Committee Report 9/2/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15821315&GUID=964E9531-E80F-4E94-A2C1-DC797899B3E0"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820315&GUID=1A8ACA0A-9852-44A4-BA67-99272937FDDD"
   },
   {
    "label": "Hearing Testimony 9/2/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835556&GUID=E07E1231-BC04-4628-947F-270EB255F79E"
   },
   {
    "label": "Hearing Transcript 9/2/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834806&GUID=FC394DC5-A1D5-481B-837B-2F17CD008E4F"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820315&GUID=1A8ACA0A-9852-44A4-BA67-99272937FDDD"
+ },
  "history": [
   {
    "date": "2026-09-02",

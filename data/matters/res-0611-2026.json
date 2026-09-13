@@ -13,17 +13,21 @@
  "attachments": [
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765177&GUID=CEED056B-F937-4EED-A3B8-CDB94435F1C1"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766151&GUID=D12DB123-317A-4793-8C5E-02884C17C9AF"
   },
   {
    "label": "Res. No. 611",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766152&GUID=F480EBD0-5A62-4A04-BBB9-9EBBD1D76307"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

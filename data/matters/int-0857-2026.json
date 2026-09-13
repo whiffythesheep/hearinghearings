@@ -24,57 +24,92 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 857-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754515&GUID=C6ECBD44-D72A-4D35-8783-F3C9429EDB17"
   },
   {
    "label": "Summary of Int. No. 857",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425079&GUID=3B5AE2F2-C631-44D5-B908-6CB520CA3DF8"
   },
   {
    "label": "Int. No. 857",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425078&GUID=2A8BF138-0FF2-4C98-B7E6-49DCA6869677"
   },
   {
    "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426440&GUID=FFD15522-8A8D-4D8D-AE2D-C7E8391B0CDA"
   },
   {
    "label": "Committee Report 5/19/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490626&GUID=2B326CB3-1769-46DD-ACF5-6979F1475B7F"
   },
   {
    "label": "Hearing Testimony 5/19/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507769&GUID=80DCA9C1-D421-47CE-880E-DDB77A1F06A6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567447&GUID=A3B7F85C-059F-4F10-9033-3FBF3BD42581"
   },
   {
    "label": "Proposed Int. No. 857-A - 8/10/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754514&GUID=8F01898D-875A-48F4-8ED2-103E0F002673"
   },
   {
    "label": "Committee Report 8/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755299&GUID=8E77E8F1-E5CB-4112-A6AF-BD89C2DFE8AB"
   },
   {
    "label": "Proposed Int. No. 857-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755323&GUID=B0B7C971-280E-4C4F-9AC1-058117EA505D"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763765&GUID=CE792F15-BFC6-4458-9EF9-01F6DC80323F"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765186&GUID=115D5A2B-E532-4F1F-92EF-754EDC0B7A76"
   },
   {
    "label": "Int. No. 857-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765399&GUID=71451DAB-2E26-4A1E-9FFF-DC94CACE16FE"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 180821,
+   "succeeding": 180000,
+   "full": 180000
+  },
+  "net": {
+   "effective": -180821,
+   "succeeding": -180000,
+   "full": -180000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 857-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755323&GUID=B0B7C971-280E-4C4F-9AC1-058117EA505D"
+ },
  "history": [
   {
    "date": "2026-08-13",

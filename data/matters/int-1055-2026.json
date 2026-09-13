@@ -12,17 +12,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1055",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843011&GUID=38C5583C-C4C0-4C68-905B-B63FC3231EE8"
   },
   {
    "label": "Int. No. 1055",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843009&GUID=8DC4C009-8AC1-49C2-9346-31743D54A4B1"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847701&GUID=6C871BE3-6048-4AE6-9103-6728F56DFFD6"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

@@ -17,21 +17,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1060",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843071&GUID=488E1501-3EFF-4D73-9A9B-6B2DC0C70F32"
   },
   {
    "label": "Int. No. 1060",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843072&GUID=954375BA-9220-47CD-83D9-27EB1C22F142"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843059&GUID=A3E07A6C-4FF8-4404-8C52-432EFFC2EB1F"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847707&GUID=90DA3DAA-FF12-49A6-AF80-C589AF52F685"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

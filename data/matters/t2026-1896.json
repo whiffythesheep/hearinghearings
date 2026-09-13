@@ -10,29 +10,36 @@
  "attachments": [
   {
    "label": "New York Police Department",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15519450&GUID=12EDD10D-5A25-4C6D-A3D4-796AE56A7A00"
   },
   {
    "label": "New York Police Department - Jessica Tisch",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550275&GUID=0A8D9D31-2433-4B5D-8AC5-8636C2383672"
   },
   {
    "label": "New York City Fire Department",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15519451&GUID=ACC90B4D-3859-4ACB-80BC-E83BBE54AD08"
   },
   {
    "label": "New York City Fire Department - Lillian Bonsignore",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550277&GUID=8CF108BC-6E7F-4E76-A3A6-27F1C94821E2"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664469&GUID=CBCD8F00-AE16-41A3-BCE1-7824906E9296"
   },
   {
    "label": "Appearance Cards 6/1/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550278&GUID=B648A21A-B0D6-47A8-996F-7386640736E8"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-01",

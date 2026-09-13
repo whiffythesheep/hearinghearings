@@ -10,13 +10,16 @@
  "attachments": [
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15348594&GUID=02320FF9-C384-4CDB-9AB7-A609AA0BA64E"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15609504&GUID=1547840A-7C71-4B92-A262-F233A8E3FBF0"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-03-25",

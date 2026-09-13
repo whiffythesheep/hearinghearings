@@ -18,21 +18,26 @@
  "attachments": [
   {
    "label": "Res. No. 495",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559549&GUID=9A6AD068-6FCA-4A71-8C50-AF3A3EC3AB3D"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575711&GUID=5CE4543E-5330-42EE-87E5-6C2F643E10A6"
   },
   {
    "label": "Committee Report 6/17/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613963&GUID=13B0664F-264C-447F-826D-953F79916F30"
   },
   {
    "label": "Hearing Testimony 6/17/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15683530&GUID=4439EEC0-E031-4892-9C85-D773E7F230B3"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-17",

@@ -461,34 +461,43 @@ def build_record_pages(env, records, ctx):
         with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(page_html)
 
+    # (section, index template, detail template, jinja name, rows for the
+    #  index, rows that get their own page, title, description)
     sections = [
-        ("matters", "matters.html", "matter.html", "matter", records["matters"],
-         "Matters", "Bills, resolutions, land use applications and oversight items "
+        ("meetings", "meetings.html", "meeting.html", "meeting",
+         records["meeting_list"], records["record_only_meetings"], "Meetings",
+         "Every New York City Council meeting in the archive, including vote sessions."),
+        ("matters", "matters.html", "matter.html", "matter",
+         records["matters"], records["matters"], "Matters",
+         "Bills, resolutions, land use applications and oversight items "
          "before the New York City Council."),
-        ("members", "members.html", "member.html", "member", records["members"],
-         "Council Members", "How each member of the New York City Council has voted."),
+        ("members", "members.html", "member.html", "member",
+         records["members"], records["members"], "Council Members",
+         "How each member of the New York City Council has voted."),
         ("committees", "committees.html", "committee.html", "committee",
-         records["committees"], "Committees",
+         records["committees"], records["committees"], "Committees",
          "New York City Council committees and the matters before them."),
     ]
 
-    for name, index_tpl, detail_tpl, singular, items, title, description in sections:
-        listing_vars = {name: items, "nav_active": name}
+    for name, index_tpl, detail_tpl, singular, rows, pages, title, description in sections:
+        listing_vars = {name: rows, "nav_active": name}
         if name == "members":
-            listing_vars["total_votes"] = sum(len(m["votes"]) for m in items)
+            listing_vars["total_votes"] = sum(len(m["votes"]) for m in rows)
+        if name == "meetings":
+            listing_vars["summarised"] = sum(1 for m in rows if m["has_hearing"])
         write([name], env.get_template(index_tpl).render(
             meta_title=title, meta_description=description,
             meta_url=f"{SITE_URL}/{name}/", **listing_vars, **ctx))
 
         template = env.get_template(detail_tpl)
-        for item in items:
-            label = item.get("file_number") or item.get("name", "")
+        for item in pages:
+            label = item.get("file_number") or item.get("name") or item.get("body", "")
             write([name, item["slug"]], template.render(
                 nav_active=name, meta_title=label,
                 meta_description=f"{label} on Hearing Hearings.",
                 meta_url=f"{SITE_URL}/{name}/{item['slug']}/",
                 **{singular: item}, **ctx))
-        print(f"Built: {name}/ (index + {len(items)} pages)")
+        print(f"Built: {name}/ (index of {len(rows)} + {len(pages)} pages)")
 
 
 def build():
@@ -613,8 +622,11 @@ def build():
         sitemap_entries.append(
             f"  <url>\n    <loc>{SITE_URL}/hearings/{h['slug']}/</loc>\n    <lastmod>{h['date']}</lastmod>\n  </url>"
         )
-    for section in ("matters", "members", "committees"):
+    for section in ("meetings", "matters", "members", "committees"):
         sitemap_entries.append(_sitemap_url(f"{SITE_URL}/{section}/", today))
+    for _mt in records["record_only_meetings"]:
+        sitemap_entries.append(_sitemap_url(
+            f"{SITE_URL}/meetings/{_mt['slug']}/", _mt.get("date") or today))
     for _m in records["matters"]:
         sitemap_entries.append(_sitemap_url(
             f"{SITE_URL}/matters/{_m['slug']}/", _m["latest_date"] or today))

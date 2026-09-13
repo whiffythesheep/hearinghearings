@@ -12,37 +12,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1002",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15746011&GUID=580D9840-07FE-4F8D-8A82-4E11F6C6339F"
   },
   {
    "label": "Int. No. 1002",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15746012&GUID=92CED1B1-0BB6-4B7E-9CA1-E39DC6088192"
   },
   {
    "label": "Committee Report 8/11/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15751637&GUID=6424DCC5-3185-43B6-A520-CD4DAC0E6FC6"
   },
   {
    "label": "Hearing Testimony 8/11/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15791259&GUID=0885F804-A69D-4FF0-B058-E48C7D12937E"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755136&GUID=074285BB-5359-47E3-A174-B6E922481CFE"
   },
   {
    "label": "Committee Report 8/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762249&GUID=5F941065-EA11-4039-B5D0-B395BAF46FA6"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764946&GUID=AC9DB789-B8F7-4990-9AE9-95EA1267CFEF"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765173&GUID=98822D42-504E-4570-A25F-4556F85A44A7"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 45000000,
+   "succeeding": 0,
+   "full": 45000000
+  },
+  "expenditures": {
+   "effective": 1000000,
+   "succeeding": 0,
+   "full": 1000000
+  },
+  "net": {
+   "effective": 44000000,
+   "succeeding": 0,
+   "full": 44000000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "OMB did not provide an estimate.",
+  "omb_declined": true,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755136&GUID=074285BB-5359-47E3-A174-B6E922481CFE"
+ },
  "history": [
   {
    "date": "2026-08-13",

@@ -10,21 +10,26 @@
  "attachments": [
   {
    "label": "Department of City Planning",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15332987&GUID=FD8812B3-D05E-45AA-8B05-38876813FBA7"
   },
   {
    "label": "Landmarks Preservation Commission",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15332988&GUID=C1DEE0B4-301F-4D9B-BB29-4D4804822572"
   },
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15404655&GUID=0CBADCB3-AF9D-4E2F-9217-A1BA51EAE9C5"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15740167&GUID=98950E7B-9F60-4D19-A62A-F4B0961FEB81"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-03-23",

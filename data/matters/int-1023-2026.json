@@ -15,29 +15,57 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1023",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811379&GUID=9F19DB3A-DEE3-434B-B3F3-88202C22F94C"
   },
   {
    "label": "Int. No. 1023",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811377&GUID=6F72FDEA-C30D-4325-8E8C-1963123639E1"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15832227&GUID=FCFC91AA-B8A7-4A4E-8634-624DED01A226"
   },
   {
    "label": "Committee Report 9/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836126&GUID=B47A39C9-A6F4-41CC-BC70-A36FE9E5BD1A"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837846&GUID=1FBB256B-65E3-41B4-9147-6393DDEBA7F1"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847630&GUID=99E0129F-465D-4293-AD6E-D14C53AA26DF"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837846&GUID=1FBB256B-65E3-41B4-9147-6393DDEBA7F1"
+ },
  "history": [
   {
    "date": "2026-09-10",

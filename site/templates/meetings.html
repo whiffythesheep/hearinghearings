@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Meetings{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<div class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Every meeting</p>
+        <h1>Meetings</h1>
+        <p class="record-subtitle">Every Council meeting in the archive, including the vote sessions
+            that carry no discussion worth summarising but decide what passes.</p>
+        <div class="record-meta">
+            <span>{{ meetings | length }} meetings</span>
+            <span class="meta-sep">·</span>
+            <span>{{ summarised }} with a written summary</span>
+            <span class="meta-sep">·</span>
+            <span>{{ window_from }} to {{ window_to }}</span>
+        </div>
+    </header>
+
+    <div class="table-scroll">
+        <table class="record-table">
+            <thead><tr><th>Date</th><th>Meeting</th><th>Kind</th><th>Items</th><th>Roll calls</th></tr></thead>
+            <tbody>
+            {% for m in meetings %}
+                <tr>
+                    <td class="num">{{ m.date }}</td>
+                    <td>
+                        <a href="{{ m.link }}">{{ m.title or m.body }}</a>
+                        {% if m.has_hearing and m.body != m.title %}<span class="row-sub">{{ m.body }}</span>{% endif %}
+                    </td>
+                    <td><span class="kind kind--{{ m.kind | lower }}">{{ m.kind }}</span></td>
+                    <td class="num">{{ m['items'] | length }}</td>
+                    <td class="num">{{ m.voted_items | length or "—" }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <p class="record-note">“Hearing” means a written summary and transcript exist. “Vote” and “Stated”
+        meetings show the Legistar record only.</p>
+</div>
+{% endblock %}

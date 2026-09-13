@@ -18,29 +18,36 @@
  "attachments": [
   {
    "label": "Res. No. 276",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15288891&GUID=693DBFF2-FA2F-47A3-8889-4427B6947D0E"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729617&GUID=B60A12FB-E99D-4475-B7C9-86573AE6306E"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302615&GUID=6F030C29-47E6-4F2C-8712-5064C9B66A58"
   },
   {
    "label": "Committee Report 6/23/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647422&GUID=7BC14838-81B1-48FE-91F0-C9FB98703C60"
   },
   {
    "label": "Hearing Testimony 6/23/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15686496&GUID=E13B4F82-4F2C-40BA-BBD5-D3BF1AF09C46"
   },
   {
    "label": "Hearing Transcript 6/23/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849168&GUID=0872DF3A-123D-4B03-84B9-6E1914B53B45"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-23",

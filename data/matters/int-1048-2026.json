@@ -16,17 +16,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1048",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842963&GUID=432AB91E-68B2-47B1-A8A0-3D5F2472D7B5"
   },
   {
    "label": "Int. No. 1048",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842962&GUID=55777247-8E58-4805-A208-1315928ED089"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847684&GUID=1A1D9043-3067-4A3C-B968-C980016CC1D2"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

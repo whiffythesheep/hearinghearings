@@ -12,17 +12,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1007",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763018&GUID=0A63F3FA-290C-4E78-9B8E-317623DA2065"
   },
   {
    "label": "Int. No. 1007",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763019&GUID=11923B0C-29B6-4F52-B1D4-9FB409815222"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765132&GUID=02B2E538-9F49-4975-BC3A-BFBE3D11A882"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

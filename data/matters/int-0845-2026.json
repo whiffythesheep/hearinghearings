@@ -40,37 +40,59 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 845",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393495&GUID=F1661185-6287-46AC-B602-736E0677EDA9"
   },
   {
    "label": "Int. No. 845",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393494&GUID=0DD06ADF-AA91-4D78-A10E-12D5015BE20A"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393498&GUID=B5D7E9A6-913D-488D-A5A3-45F5A933E859"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395159&GUID=22C485FC-B352-4EC4-823D-ECFD46D8252B"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508431&GUID=80503BF9-7E00-4E2C-BEE9-E93F5E547E8F"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650611&GUID=C4F4BA58-B1FB-484A-A55A-A7F778BBAC55"
   },
   {
    "label": "Committee Report 6/25/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15652607&GUID=8B478EB7-BCDC-4706-AC79-851C7AC1287F"
   },
   {
    "label": "Hearing Testimony 6/25/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692630&GUID=786E4C68-861B-4607-97E0-E482422EA7C2"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650611&GUID=C4F4BA58-B1FB-484A-A55A-A7F778BBAC55"
+ },
  "history": [
   {
    "date": "2026-06-25",

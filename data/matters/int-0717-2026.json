@@ -22,33 +22,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 717",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15299161&GUID=A7A287D0-DEAB-4FD8-97F9-E33B7CCEAEAF"
   },
   {
    "label": "Int. No. 717",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15299160&GUID=2DE37EDC-E292-4E6D-9736-997988D2EF44"
   },
   {
    "label": "February 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15269098&GUID=F3F65D11-790F-45B6-A819-64E16F8CAC04"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15347751&GUID=3946790A-01B9-47A1-ADB3-406FFA2BA142"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-24-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15348191&GUID=5D0680E4-B987-4841-B562-FDBE33C296DB"
   },
   {
    "label": "Committee Report 9/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836122&GUID=1E77A23D-F404-4034-B35F-0C7B0C2D34E3"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837849&GUID=818A36A3-38C9-45D5-B8F8-BBFDFDF99BD3"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837849&GUID=818A36A3-38C9-45D5-B8F8-BBFDFDF99BD3"
+ },
  "history": [
   {
    "date": "2026-09-09",

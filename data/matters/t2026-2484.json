@@ -10,9 +10,11 @@
  "attachments": [
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15840751&GUID=B44489E7-D41C-4D29-9858-594F3A9F76BD"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-09",

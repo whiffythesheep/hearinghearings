@@ -10,17 +10,21 @@
  "attachments": [
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15386725&GUID=4EE2A5D9-D1C1-46F8-ACF4-2EF26E1CF99A"
   },
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15445480&GUID=43B51910-55C4-4E82-92D6-93B6AD301CA9"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754359&GUID=959B2600-515B-4751-80A8-A1DFB106944C"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-04-15",

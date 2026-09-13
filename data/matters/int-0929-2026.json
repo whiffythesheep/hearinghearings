@@ -48,69 +48,107 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 929-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647377&GUID=A23AB377-F401-4EE7-93C5-F7B62E99B041"
   },
   {
    "label": "Summary of Int. No. 929",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15568012&GUID=7176CBDE-0172-43F1-A149-39EB7086B510"
   },
   {
    "label": "Int. No. 929",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15517034&GUID=7872E37F-623C-4A60-8DC6-63A266F2A527"
   },
   {
    "label": "Section 33-A Notice",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15517035&GUID=C9948F7F-8FB8-482A-A4D7-70F33F657D9D"
   },
   {
    "label": "Committee Report 6/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567884&GUID=4EE515A1-B930-461A-893E-443C90EBCC63"
   },
   {
    "label": "Hearing Testimony 6/10/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646432&GUID=78E3B42B-84D0-401E-B828-7DB072E55E55"
   },
   {
    "label": "Hearing Transcript 6/10/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811994&GUID=F4DE227A-EBF3-4ABB-939E-1E415D629E84"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575715&GUID=B059CB05-71C8-4582-BE85-F5AC0F479F32"
   },
   {
    "label": "Proposed Int. No. 929-A - 6/22/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647376&GUID=5289E5C0-5271-4E16-B385-1BB0053421A1"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15655010&GUID=C60DA1D6-E9E7-4D73-9206-30225BF68860"
   },
   {
    "label": "Proposed Int. No. 929-A - Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656861&GUID=28A22BC8-5B2A-48F2-A085-B939CBB4DE75"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660509&GUID=4274B4AC-B27E-46EE-B8A4-350238191D03"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665063&GUID=03749E0C-F3D5-4CCD-9F8A-889677DF3DA5"
   },
   {
    "label": "Int. No. 929-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15672230&GUID=D04E2D67-E933-4CCF-A321-92F4B884B332"
   },
   {
    "label": "Local Law 124",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15789689&GUID=C9817736-8DC1-4006-9137-A63C695A3B68"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849129&GUID=2AC436F5-D596-4E7C-A94D-4D0612D18E69"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 929-A - Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656861&GUID=28A22BC8-5B2A-48F2-A085-B939CBB4DE75"
+ },
  "history": [
   {
    "date": "2026-07-31",

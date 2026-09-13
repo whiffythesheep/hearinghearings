@@ -14,21 +14,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1053",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843020&GUID=67278E3A-71B2-4277-8F5D-DA7D513C3EC4"
   },
   {
    "label": "Int. No. 1053",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843019&GUID=2EEDC58A-ADD1-420C-9209-7F2DAB3FDDFD"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843021&GUID=B318227F-F13C-4FBC-98EE-9AEF639DDC25"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847699&GUID=BC756D8D-BD10-4E6E-A87B-1B8A22871F99"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

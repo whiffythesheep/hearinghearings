@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "Res. No. 617",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843282&GUID=3947E3C1-5E7B-42AE-A6EE-820EB3F61F70"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847628&GUID=E0CBEFCA-584F-484C-9F32-CC862954524D"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

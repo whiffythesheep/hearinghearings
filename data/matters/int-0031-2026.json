@@ -23,69 +23,107 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 31-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647269&GUID=A9AC0822-A5C3-4B84-8952-992C63006E21"
   },
   {
    "label": "Summary of Int. No. 31",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15162057&GUID=AE80042E-8521-49DB-94B2-149EC77D9FA4"
   },
   {
    "label": "Int. No. 31",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15162058&GUID=DAE8F9D1-F73E-44C9-804C-C1BFF2DCD081"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251348&GUID=149C6011-332E-4DAF-9968-8BD9BDA587BB"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252043&GUID=875B6430-1D35-4333-A2AE-6258B779FD0E"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15318932&GUID=774F5497-1D3D-433D-BB16-6ED60E958E4B"
   },
   {
    "label": "Committee Report 5/19/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490623&GUID=8BF44761-105C-444B-9C93-30C48DD5C11F"
   },
   {
    "label": "Hearing Testimony 5/19/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507766&GUID=48BA3900-B73E-4079-B592-3F6344D9B5EA"
   },
   {
    "label": "Proposed Int. No. 31-A - 6/22/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647268&GUID=F50C16F6-F1E5-4E00-A928-FE1DD395BB05"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15658293&GUID=629224BA-BF32-491D-9087-F4DA73695192"
   },
   {
    "label": "Proposed Int. No. 31-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15756777&GUID=7A235584-6404-42F9-8877-3E53BCBB0EE4"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660320&GUID=AC0E6108-9045-4919-BC85-79353361668C"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665064&GUID=FDD5CA2D-B392-4BDD-AEAC-9CB0F37062B3"
   },
   {
    "label": "Int. No. 31-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15672231&GUID=8F7069F8-C0C0-424A-8989-14874C44A038"
   },
   {
    "label": "Local Law 118",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811284&GUID=6C5D3532-6894-4E73-A9B8-E18954230F88"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849130&GUID=ED0601AB-CE7E-4918-BF03-D67A09B2998F"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 31-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15756777&GUID=7A235584-6404-42F9-8877-3E53BCBB0EE4"
+ },
  "history": [
   {
    "date": "2026-07-31",

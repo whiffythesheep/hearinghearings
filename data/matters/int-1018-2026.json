@@ -29,21 +29,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1018",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763412&GUID=B698B143-AE94-4D44-871A-2FF0B9D5D969"
   },
   {
    "label": "Int. No. 1018",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763409&GUID=38018CCA-FA79-43E7-BB0D-5C98D6C21F1D"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763413&GUID=357AC0B2-8DB5-46EA-85F0-9BFFF9470D24"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765154&GUID=E6C5348D-FE1C-4969-8D3E-D492B9FB6287"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

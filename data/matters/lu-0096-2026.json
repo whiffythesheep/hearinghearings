@@ -12,41 +12,51 @@
  "attachments": [
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575762&GUID=7CD146AA-65B2-455A-9C41-A5980DAD0D99"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - June 17, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15576210&GUID=4F32E65E-C5BD-4D50-99D9-DFF57C180DF8"
   },
   {
    "label": "Appearance Cards - Zoning 6/17/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646436&GUID=89EB78AA-17BD-420C-BF17-74D674890375"
   },
   {
    "label": "Calendar of the Subcommittee and Land Use Meetings - July 14, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682910&GUID=FB11C8FB-C8AD-4758-9C96-F3636044F915"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691942&GUID=98826548-E4DF-4964-B8BA-45E5A4409062"
   },
   {
    "label": "Res. No.",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691943&GUID=99E28E5E-126F-4C97-9A38-925BF089045E"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699722&GUID=909D0499-F731-4070-AAAA-F03EFF4C6D11"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720745&GUID=4249DF24-C3CE-4C1E-BDC5-656973111342"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744906&GUID=0E96F833-74E2-41CD-B9E3-F0C0B3F86243"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

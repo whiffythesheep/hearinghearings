@@ -26,15 +26,18 @@ git diff rather than an opaque blob:
 import argparse
 import glob
 import html
+import io
 import json
 import logging
 import os
 import re
 import sys
 import time
+import zipfile
 from html.parser import HTMLParser
 from pathlib import Path
 
+import pdfplumber
 import requests
 
 from council_scraper import BROWSER_HEADERS, LEGISTAR_HOST, list_calendar_events
@@ -42,6 +45,7 @@ from council_scraper import BROWSER_HEADERS, LEGISTAR_HOST, list_calendar_events
 REPO_ROOT = Path(__file__).parent
 DATA_DIR = REPO_ROOT / "data"
 CACHE_DIR = REPO_ROOT / "Input" / "legistar"
+DOC_CACHE_DIR = REPO_ROOT / "Input" / "legistar_docs"
 CONTENT_DIR = REPO_ROOT / "content"
 
 # Legistar is a public service with no API. Space requests out rather than
@@ -78,6 +82,25 @@ class Fetcher:
         self.fetched += 1
         cache_file.write_text(r.text, encoding="utf-8")
         return r.text
+
+    def get_bytes(self, url):
+        """Fetch a binary attachment, cached the same way.
+
+        Documents are cached under Input/ (gitignored) and never committed:
+        they are Legistar's to host, and 2,800 of them would bloat the repo.
+        """
+        key = re.sub(r"[^A-Za-z0-9]+", "_", url)[-120:]
+        cache_file = DOC_CACHE_DIR / f"{key}.bin"
+        if self.use_cache and cache_file.exists():
+            self.cached += 1
+            return cache_file.read_bytes()
+        time.sleep(REQUEST_DELAY)
+        r = self.session.get(url, timeout=90)
+        r.raise_for_status()
+        self.fetched += 1
+        DOC_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        cache_file.write_bytes(r.content)
+        return r.content
 
 
 # --- HTML tables --------------------------------------------------------
@@ -285,8 +308,11 @@ def scrape_matter(fetcher, legistar_id, guid, file_number):
     for m in re.finditer(r'href="(View\.ashx\?M=F[^"]+)"[^>]*>(.*?)</a>', page, re.S):
         label = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html.unescape(m.group(2)))).strip()
         if label:
-            attachments.append({"label": label,
-                                "url": f"{LEGISTAR_HOST}/{html.unescape(m.group(1))}"})
+            attachments.append({
+                "label": label,
+                "kind": classify_attachment(label),
+                "url": f"{LEGISTAR_HOST}/{html.unescape(m.group(1))}",
+            })
 
     history = []
     for row in table_rows(page):
@@ -308,10 +334,137 @@ def scrape_matter(fetcher, legistar_id, guid, file_number):
         "sponsors": sponsors,
         "by_request_of_mayor": by_mayor,
         "attachments": attachments,
+        "fiscal": None,
         "history": history,
         "legistar_url": (f"{LEGISTAR_HOST}/LegislationDetail.aspx"
                          f"?ID={legistar_id}&GUID={guid}"),
     }
+
+
+# --- attachments and fiscal impact --------------------------------------
+
+
+def classify_attachment(label):
+    """Group an attachment by what it is, from Legistar's own label."""
+    low = (label or "").lower()
+    if "fiscal impact" in low:
+        return "Fiscal Impact Statement"
+    if "committee report" in low:
+        return "Committee Report"
+    if low.startswith("summary"):
+        return "Summary"
+    if "testimony" in low:
+        return "Hearing Testimony"
+    if "transcript" in low:
+        return "Hearing Transcript"
+    if "agenda" in low:
+        return "Agenda"
+    if "letter" in low or "message" in low:
+        return "Message or letter"
+    if re.match(r"(int|res|proposed|preconsidered)", low):
+        return "Bill text"
+    return "Other"
+
+
+def attachment_text(data):
+    """Plain text from a Legistar attachment, .docx or PDF.
+
+    Most are Office Open XML (a zip) served as ``application/msword``, so the
+    stdlib reads them and no new dependency is needed. A minority are PDFs --
+    four of the 118 Fiscal Impact Statements in the archive -- and those go
+    through pdfplumber, which the summarizer already depends on. Table cells
+    are separated by ' | ' so the caller can read a row left to right.
+    """
+    if data[:4] == b"%PDF":
+        try:
+            with pdfplumber.open(io.BytesIO(data)) as pdf:
+                pages = []
+                for page in pdf.pages:
+                    for table in page.extract_tables() or []:
+                        for row in table:
+                            pages.append(" | ".join(c or "" for c in row))
+                    pages.append(page.extract_text() or "")
+            return re.sub(r"[ \t]+", " ", "\n".join(pages))
+        except Exception as e:  # a malformed PDF should not stop the run
+            logger.warning("  PDF attachment unreadable: %s", e)
+            return ""
+    if data[:2] != b"PK":
+        return ""
+    try:
+        with zipfile.ZipFile(io.BytesIO(data)) as z:
+            xml = z.read("word/document.xml").decode("utf-8", "replace")
+    except (zipfile.BadZipFile, KeyError):
+        return ""
+    xml = re.sub(r"</w:p>", "\n", xml)
+    xml = re.sub(r"</w:tc>", " | ", xml)
+    return re.sub(r"[ \t]+", " ", re.sub(r"<[^>]+>", "", xml))
+
+
+_MONEY = re.compile(r"\(?\s*\$\s*(-?[\d,]+(?:\.\d+)?)\s*\)?")
+
+
+def _money_row(text, label):
+    """The three figures on one Fiscal Impact row: effective, succeeding, full.
+
+    The statement lays each row out as a label followed by three currency
+    cells. A row that does not produce three figures (some say "See Below")
+    returns None rather than a partly-guessed number.
+    """
+    m = re.search(rf"{label}[^|]*((?:\s*\|[^|]*){{1,8}})", text)
+    if not m:
+        return None
+    figures = []
+    for cell in m.group(1).split("|"):
+        hit = _MONEY.search(cell)
+        if hit:
+            value = int(float(hit.group(1).replace(",", "")))
+            if "(" in cell and ")" in cell:
+                value = -value
+            figures.append(value)
+        if len(figures) == 3:
+            break
+    if len(figures) != 3:
+        return None
+    return {"effective": figures[0], "succeeding": figures[1], "full": figures[2]}
+
+
+def parse_fiscal_impact(text):
+    """Pull the City Council estimate out of a Fiscal Impact Statement."""
+    if "fiscal impact statement" not in text.lower():
+        return None
+    out = {
+        "revenues": _money_row(text, r"Revenues"),
+        "expenditures": _money_row(text, r"Expenditures"),
+        "net": _money_row(text, r"\bNet\b"),
+    }
+    fy = re.search(r"First Become Effective:\s*(\d{4})", text)
+    out["effective_fy"] = fy.group(1) if fy else ""
+    omb = re.search(r"Office of Management and Budget Estimate:\s*([^\n|]{0,120})", text)
+    out["omb_estimate"] = omb.group(1).strip() if omb else ""
+    out["omb_declined"] = bool(re.search(r"OMB did not provide", text, re.I))
+    if not any((out["revenues"], out["expenditures"], out["net"])):
+        return None
+    return out
+
+
+def add_fiscal_impact(fetcher, matter):
+    """Attach the newest Fiscal Impact Statement's figures to a matter."""
+    statements = [a for a in matter["attachments"]
+                  if a["kind"] == "Fiscal Impact Statement"]
+    if not statements:
+        return False
+    doc = statements[-1]
+    try:
+        parsed = parse_fiscal_impact(attachment_text(fetcher.get_bytes(doc["url"])))
+    except requests.HTTPError as e:
+        logger.warning("  %s fiscal: %s", matter["file_number"], e)
+        return False
+    if not parsed:
+        return False
+    parsed["label"] = doc["label"]
+    parsed["source"] = doc["url"]
+    matter["fiscal"] = parsed
+    return True
 
 
 # --- main ---------------------------------------------------------------
@@ -330,6 +483,8 @@ def main():
     p.add_argument("--limit", type=int, default=0, help="stop after N meetings")
     p.add_argument("--dry-run", action="store_true", help="scrape but write nothing")
     p.add_argument("--no-cache", action="store_true", help="ignore the HTML cache")
+    p.add_argument("--skip-fiscal", action="store_true",
+                   help="skip downloading Fiscal Impact Statements")
     p.add_argument("--skip-votes", action="store_true",
                    help="skip roll calls (much faster; use to sanity-check the grid)")
     args = p.parse_args()
@@ -382,6 +537,7 @@ def main():
     logger.info("Distinct matters referenced: %d", len(matters_seen))
 
     matters_written = 0
+    fiscal_found = 0
     for legistar_id, (guid, file_number) in sorted(matters_seen.items()):
         try:
             matter = scrape_matter(fetcher, legistar_id, guid, file_number)
@@ -390,10 +546,13 @@ def main():
             continue
         if not matter:
             continue
+        if not args.skip_fiscal and add_fiscal_impact(fetcher, matter):
+            fiscal_found += 1
         if not args.dry_run:
             write_json(DATA_DIR / "matters" / f"{matter['slug']}.json", matter)
         matters_written += 1
-    logger.info("Matters written: %d", matters_written)
+    logger.info("Matters written: %d (%d with fiscal impact figures)",
+                matters_written, fiscal_found)
 
     logger.info("Done. HTTP fetched %d, served from cache %d.",
                 fetcher.fetched, fetcher.cached)

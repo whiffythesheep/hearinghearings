@@ -17,37 +17,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 71",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160392&GUID=521F6EEE-CAC2-4F7F-BF23-213CBA4C2222"
   },
   {
    "label": "Int. No. 71",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15175393&GUID=834161C4-A8B4-4125-8540-994D8CB2BBC7"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15175392&GUID=90FBD769-779F-430B-93C9-ED05856F5EF7"
   },
   {
    "label": "Committee Report 2/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176313&GUID=C6B8C23E-92D3-4BB8-9A23-EEF24A47E90D"
   },
   {
    "label": "Hearing Testimony 2/9/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15314647&GUID=76757439-8BC0-4063-824D-733CD23FF84F"
   },
   {
    "label": "Hearing Transcript 2/9/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15250811&GUID=C5727145-20CF-4DCD-8963-2449C26F571B"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251413&GUID=EAD9CECA-4B56-4E20-BFC3-08647447862F"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252108&GUID=E887BBF8-E685-4A2F-9CE7-5861A1642377"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2026",
+  "omb_estimate": "OMB did not provide an estimate.",
+  "omb_declined": true,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15175392&GUID=90FBD769-779F-430B-93C9-ED05856F5EF7"
+ },
  "history": [
   {
    "date": "2026-02-09",

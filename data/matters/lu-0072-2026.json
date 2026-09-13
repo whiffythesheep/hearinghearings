@@ -12,69 +12,86 @@
  "attachments": [
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495512&GUID=B8D7CF82-EFF4-416F-B050-34FA3E2C95EC"
   },
   {
    "label": "Dewitt Clinton Park North Presentation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15506349&GUID=A3512883-5D73-4C7F-BBFF-FBAED4FBD547"
   },
   {
    "label": "Hearing Testimony - Zoning 5/27/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550175&GUID=809492A0-B34C-4EB7-BDE3-8588525F6AFC"
   },
   {
    "label": "Appearance Cards - Zoning 5/27/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15510816&GUID=7FF81335-C698-415B-A99A-34B587D7E8F4"
   },
   {
    "label": "Hearing Transcript - Zoning 5/27/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15831214&GUID=684411A0-1893-480B-BDC3-552E9E855CEA"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548257&GUID=8C54FA86-A7C5-4D19-9682-BC845920A473"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - June 25, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647609&GUID=C624BB78-531F-40F0-AE77-B4150C27E3BE"
   },
   {
    "label": "Hearing Transcript - Zoning 6/25/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841676&GUID=6825A1B1-C193-4CAA-B875-4901129AEDDD"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665055&GUID=DB7DCC75-D331-4D5D-A362-CE5FC0699B58"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15693068&GUID=69ED5336-0D14-4680-A6FD-0401E5ECD3BD"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699369&GUID=74011ECE-C690-4174-84C7-16D7FC6AB70E"
   },
   {
    "label": "Res. No. 585",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657356&GUID=952E3717-22ED-4997-B3DF-2180250D58FA"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699764&GUID=2EA926A2-7A75-4E70-BADB-E3E04DE37214"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720787&GUID=CB0CF118-3B90-40DC-AFA5-7FF6BF6B7215"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849020&GUID=351A9553-B7A4-414D-91B2-BCB945A4CB4F"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849120&GUID=4899B8F2-08CC-4242-B692-E86118B32E74"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-16",

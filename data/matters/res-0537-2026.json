@@ -15,25 +15,31 @@
  "attachments": [
   {
    "label": "Res. No. 537",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647195&GUID=D5A0DB29-426C-4C00-96B5-139C3AA2B99D"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657486&GUID=DD779367-BB3F-41AB-8B85-BF53311E1826"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849086&GUID=E6CAFA10-43D0-4780-84B3-D68BA5114BEE"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665076&GUID=40CA90C2-8141-486D-A8EF-62BD39154D63"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849150&GUID=253659BF-7BFA-4E30-9804-2E035E25496E"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

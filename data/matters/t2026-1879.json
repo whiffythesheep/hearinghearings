@@ -10,49 +10,61 @@
  "attachments": [
   {
    "label": "Department for the Aging",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15503816&GUID=F172E2D3-DAA6-43B2-83A8-51CA27490836"
   },
   {
    "label": "Department for the Aging - Lisa Scott-McKenzie",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512017&GUID=8B6E852C-C6AC-4882-9170-796B9ACBF611"
   },
   {
    "label": "Libraries",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15503818&GUID=15B0A14B-BE17-471F-8958-847C6AC5CBA4"
   },
   {
    "label": "Brookyn Public Library - Karen Sheehan",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512022&GUID=88B44B55-AE4D-4419-B128-55731211114F"
   },
   {
    "label": "New York Public Library - Tony Marx",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512025&GUID=0A327FFE-0A23-4588-9068-C08F85A6D7F8"
   },
   {
    "label": "Queens Public Library - Dennis Walcott",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512028&GUID=A4103F02-A67A-4ADA-810A-D4BF9616C989"
   },
   {
    "label": "Department of Cultural Affairs",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15503817&GUID=CB65FBDC-939C-486A-924C-816BE079EAF0"
   },
   {
    "label": "Department of Cultural Affairs - Diya Vij",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512031&GUID=2D152FC7-7C89-4394-BA9E-45E4C82355E9"
   },
   {
    "label": "Manhattan Borough President - Brad Hoylman-Sigal",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512034&GUID=48ED5C43-2543-4928-9F89-CCAC6E7E5158"
   },
   {
    "label": "Appearance Cards 5/26/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15512012&GUID=9265D28D-45CB-458C-8B28-601D2445C1F5"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15818228&GUID=BC26AEE6-5910-409E-9B24-03BE20425C3E"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-05-26",

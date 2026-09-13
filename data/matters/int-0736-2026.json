@@ -13,29 +13,36 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 736",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303683&GUID=FDBF1C40-1DA3-4A5D-8CB5-8B682A1C6FD3"
   },
   {
    "label": "Int. No. 736",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303682&GUID=730BBF24-5497-4FBA-B8D0-707D35ACC9A1"
   },
   {
    "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15304957&GUID=93550314-0333-4BC4-AFA7-3A89A8023552"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433209&GUID=970ACC9B-D45D-4C4C-A245-F2404686CA8F"
   },
   {
    "label": "Committee Report 5/19/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490625&GUID=DCC982B4-C3AC-4CF8-990A-7E18FECAF396"
   },
   {
    "label": "Hearing Testimony 5/19/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507768&GUID=2B350599-2F61-46ED-9BC5-E8DA5CA019A8"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-05-19",

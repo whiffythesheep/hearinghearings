@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "Res. No. 601",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763346&GUID=CACAB67D-F117-4B6B-B196-ACA9D20E16E3"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765144&GUID=13549131-3119-4701-9D8D-C607DA9F306B"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 965",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662411&GUID=32BB8783-4E50-4E15-AC02-0F40A86AFA60"
   },
   {
    "label": "Int. No. 965",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662412&GUID=E33DC8C9-5CF2-40D1-96A3-2E038041D9E1"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664771&GUID=7D1C3FE4-56FC-44A0-A164-9365232B52BE"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849072&GUID=A93442EC-632C-42EE-BE94-4AD0DD5C3E20"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

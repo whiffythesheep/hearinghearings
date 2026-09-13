@@ -18,33 +18,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 941",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15560489&GUID=D4EF906E-A636-4D95-A3E1-732C8997E9D1"
   },
   {
    "label": "Int. No. 941",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15560490&GUID=4A4BD5E8-743D-48B9-B89F-AA01FD08AA66"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15560491&GUID=F615D4ED-865B-4D54-97C4-4A716310BAC8"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575731&GUID=250C7F11-E72E-426F-A037-A57AB461EA77"
   },
   {
    "label": "Committee Report 6/15/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581436&GUID=D8CB1274-A51E-408A-BD7F-6F979FC7C3D1"
   },
   {
    "label": "Fiscal Impact Statement- City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584164&GUID=88EAA32F-16C4-4065-8E38-92D0DCFF3C25"
   },
   {
    "label": "Hearing Testimony 6/15/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646481&GUID=7ADF2EE4-4B7D-4DF7-9E5C-C8E24FD5ACA3"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement- City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584164&GUID=88EAA32F-16C4-4065-8E38-92D0DCFF3C25"
+ },
  "history": [
   {
    "date": "2026-06-15",

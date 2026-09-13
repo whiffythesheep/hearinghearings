@@ -16,65 +16,102 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 92-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647267&GUID=304CECF5-F537-4EAF-AE5B-04213DCF8D1D"
   },
   {
    "label": "Summary of Int. No. 92",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171444&GUID=EDD4DE4F-EF1A-4A02-ACCE-520A5515BFA2"
   },
   {
    "label": "Int. No. 92",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171445&GUID=1F24C648-315A-4B54-B0E9-B132D1EDCBD7"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251438&GUID=53EA4EEB-6814-4D8F-892E-A14B9C98E38F"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252133&GUID=FD6AA136-6609-4963-855D-4381CADF6503"
   },
   {
    "label": "Committee Report 5/19/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490624&GUID=62DEBD6F-BEFE-4F18-A330-3219335D31C0"
   },
   {
    "label": "Hearing Testimony 5/19/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507767&GUID=580297DA-4439-4535-B6F7-205B1E0EBE68"
   },
   {
    "label": "Proposed Int. No. 92-A - 6/22/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647266&GUID=8C4D8938-153C-4D06-96F1-3005815CE6A5"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15658294&GUID=FF392124-8578-4F82-943C-60773579014B"
   },
   {
    "label": "Proposed Int. No. 92-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15756873&GUID=12C8BBAC-6008-4721-8835-E4E601C1ACC5"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660321&GUID=06C1307C-2DE8-4447-950E-8FC487584EA3"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665065&GUID=68BCABBE-F087-4B9E-9F58-EB45594227F0"
   },
   {
    "label": "Int. No. 92-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15672237&GUID=088CF9D4-9296-42F1-A4AC-51352A5C5C19"
   },
   {
    "label": "Local Law 119 of 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830145&GUID=2B90D14C-3193-4507-90DE-FF40A6B535C6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849131&GUID=74EA57AB-217F-4B97-9E8A-BA883814565C"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 92-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15756873&GUID=12C8BBAC-6008-4721-8835-E4E601C1ACC5"
+ },
  "history": [
   {
    "date": "2026-07-31",

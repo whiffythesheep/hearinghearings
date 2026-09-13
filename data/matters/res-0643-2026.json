@@ -13,21 +13,26 @@
  "attachments": [
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830650&GUID=3AB4F86F-CE55-4FBE-9968-A8A7DE3A20ED"
   },
   {
    "label": "Res. No. 643",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830651&GUID=A9B42AA0-71C2-40C1-BFA4-4ACE4EE99892"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830657&GUID=6242A3F5-6C15-4688-8479-054B581AD833"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847426&GUID=96814A48-7ADD-4840-9A2D-406F93C6D8AD"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

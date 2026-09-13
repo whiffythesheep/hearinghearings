@@ -15,33 +15,41 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 911-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15569645&GUID=291D1F0E-79F4-4D69-A148-E2FF02151A57"
   },
   {
    "label": "Summary of Int. No. 911",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15492013&GUID=87223D45-07DF-4AF9-AF33-2861B3A2ACEF"
   },
   {
    "label": "Int. No. 911",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15492012&GUID=CC75085E-7366-41E4-853A-E5CD8D0FCAE6"
   },
   {
    "label": "May 20, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748472&GUID=6657122F-28A9-4C70-B406-7145E77ACCEC"
   },
   {
    "label": "Proposed Int. No. 911-A - 6/10/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15569610&GUID=4FF5F8B6-DC09-42CB-84A3-CEABC3E033FA"
   },
   {
    "label": "Committee Report 7/1/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15658237&GUID=7B7917C2-4E0C-440F-A479-A649C90E3C8A"
   },
   {
    "label": "Hearing Testimony 7/1/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15685492&GUID=8753F103-3FBA-4974-8032-37C8FD593834"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-01",

@@ -10,21 +10,26 @@
  "attachments": [
   {
    "label": "Department of Transportation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15510316&GUID=3F753A40-D69D-46FB-8DF9-36697257BB95"
   },
   {
    "label": "Department of Transportation - Mike Flynn",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550247&GUID=C66A68FA-546F-457E-9C0B-E911AF95609B"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15719263&GUID=1878B73B-2D85-4A5C-93FC-9B0B6956F2E1"
   },
   {
    "label": "Appearance Cards 5/29/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550248&GUID=BC01BD8D-83F5-4425-9881-1D14A4B0FD7D"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-05-29",

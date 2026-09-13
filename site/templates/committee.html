@@ -31,7 +31,7 @@
                             {%- if m.hearing_slug -%}
                             <a href="/hearings/{{ m.hearing_slug }}/">{{ m.hearing_title or m.body }}</a>
                             {%- else -%}
-                            <span class="row-muted">Not published{% if m.council_url %} — <a href="{{ m.council_url }}">Legistar ↗</a>{% endif %}</span>
+                            <a href="/meetings/{{ m.event_id }}/">{{ m.body }}</a><span class="row-sub">Record only</span>
                             {%- endif -%}
                         </td>
                         <td class="num">{{ m['items'] | length }}</td>

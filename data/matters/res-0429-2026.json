@@ -20,37 +20,46 @@
  "attachments": [
   {
    "label": "Res. No. 429",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393590&GUID=F05560F5-B42E-4776-994C-DFA7298C374C"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395168&GUID=1CA32AE1-B31F-4228-81BE-72D85B84D49E"
   },
   {
    "label": "Committee Report 4/27/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15410671&GUID=F11A2A56-7768-4071-B78A-4C91565362CC"
   },
   {
    "label": "Hearing Testimony 4/27/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15445913&GUID=94866B27-C370-4500-8B9E-48D0CA5F8FE2"
   },
   {
    "label": "Hearing Transcript 4/27/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15555480&GUID=2821E6EC-5F4A-4C1E-A697-826BD78B95B8"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508440&GUID=36E5DB39-6FAE-4C81-A539-36017762203D"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15839923&GUID=43499D94-A2AB-42A6-A9B8-6F7647FC332A"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847459&GUID=9B00557C-4532-4235-8565-B5B3C343AA89"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

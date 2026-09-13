@@ -12,37 +12,59 @@
  "attachments": [
   {
    "label": "Fiscal Impact Statement",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661650&GUID=DC01CE42-7F37-43F4-81D3-8B6BD56B4EE7"
   },
   {
    "label": "Memorandum",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661651&GUID=8762E2BD-6DAF-4E28-A58E-8F16C0391209"
   },
   {
    "label": "MN 9 - Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661652&GUID=E1A129D4-4CFF-4117-AC1B-27F144630DA8"
   },
   {
    "label": "MN 9 - Appendix B",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661653&GUID=35845B8B-A8B4-4A97-9114-1E1C85D3F4E6"
   },
   {
    "label": "Res. No. 544",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661654&GUID=C1083860-450A-424F-AA19-95CABE51DF0A"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820828&GUID=93B0C708-B6CC-4022-8AD7-641FEF9102F9"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665044&GUID=1C3A523C-3D64-420B-B219-EE0BF6288E64"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849109&GUID=74FC6277-E2CC-49C6-B5B8-E39632B0C96C"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "",
+  "omb_estimate": "",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661650&GUID=DC01CE42-7F37-43F4-81D3-8B6BD56B4EE7"
+ },
  "history": [
   {
    "date": "2026-06-30",

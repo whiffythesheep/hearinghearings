@@ -19,29 +19,57 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 959",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15587841&GUID=2665586D-7453-40AD-B621-2E7F5C1FF189"
   },
   {
    "label": "Int. No. 959",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15587843&GUID=A78C90FB-3276-44A9-A504-D434C514BDAF"
   },
   {
    "label": "Committee Report 6/24/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15649811&GUID=EAEFF4A2-3C5D-40AC-A62D-5FE36B46008B"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650473&GUID=2C70E96E-F319-4123-9EBA-4AD573757E9F"
   },
   {
    "label": "Hearing Testimony 6/24/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692536&GUID=3A6EDA06-2E0D-4435-A0DB-D4AB994710C5"
   },
   {
    "label": "Hearing Transcript 6/24/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15719260&GUID=88485263-3098-482D-8CFB-83BC5CDEC3A8"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650473&GUID=2C70E96E-F319-4123-9EBA-4AD573757E9F"
+ },
  "history": [
   {
    "date": "2026-06-30",
