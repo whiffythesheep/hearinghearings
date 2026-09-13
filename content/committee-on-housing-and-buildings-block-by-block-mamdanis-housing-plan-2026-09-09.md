@@ -1,9 +1,9 @@
 ---
 committee: "Committee on Housing and Buildings"
 committee_slug: committee-on-housing-and-buildings
-title: "The Mayor's Housing Plan"
+title: "Block by Block: Mamdani's Housing Plan"
 date: 2026-09-09
-slug: committee-on-housing-and-buildings-the-mayors-housing-plan-2026-09-09
+slug: committee-on-housing-and-buildings-block-by-block-mamdanis-housing-plan-2026-09-09
 duration: "6hrs 38m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260909-102026.mp4"
