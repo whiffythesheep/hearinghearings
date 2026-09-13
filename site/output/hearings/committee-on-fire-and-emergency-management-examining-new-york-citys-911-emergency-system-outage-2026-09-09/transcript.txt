@@ -1,0 +1,1702 @@
+Examining New York City's 911 Emergency System Outage
+Committee on Fire and Emergency Management | Committee on Technology | Committee on Public Safety | Committee on Governmental Operations, State & Federal Legislation · September 9, 2026 · 3hrs 11m
+Source: https://hearinghearings.nyc/hearings/committee-on-fire-and-emergency-management-examining-new-york-citys-911-emergency-system-outage-2026-09-09/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260909-102709.mp4
+
+================================================================
+
+(00:00:16)
+
+Starting momentarily. Good morning. Welcome to today's New York City Council hearing for the Committee on Technology, joining with the Committee on Fire and Emergency Management, Public Safety, and Governmental Operations, State and Federal Legislation. At this time, please silence all cellphones and electronic devices. Moving forward, no one is to approach the dais. If you wish to testify today, please fill out an appearance card with the Sergeant at Arms. Chairs, we are ready to begin.
+
+(00:00:41)
+
+Good morning and welcome to our hearing. I am CM Carmen De La Rosa and I am the Chair of the Committee on Technology. I am happy to be joined by my colleagues Joann Ariola and Chair Brewer in holding this joint hearing examining New York City's 9-1-1 emergency system outage. I want to begin with the words of Local 2507, delivered before this Council at a similar hearing: "Clinical death begins after four minutes. Biological death begins after six minutes." And as Local 2507 reminds us, in this modern era emergency systems are designed to work in seconds, because when a life is on the line there is no time to waste and every minute counts.
+
+However, in the early morning of August 18, for approximately seven hours, a part of New York City's 9-1-1 system failed. Call takers at the Bronx Public Safety Answering Center could not hear callers. According to the New York Times, approximately 1,700 calls were affected and as many as 400 callers had not been connected with 9-1-1 at all. New Yorkers were neither informed about the outage nor instructed to text 9-1-1 or call back while it was happening. Officials have since stated that the cause was a software update by Motorola Solutions. Ironically, Motorola tells its public safety customers on its website, "When someone calls 9-1-1, every second counts, and if something is broken we need to fix it — not tomorrow, we need to fix it yesterday." On August 18, New Yorkers lost not seconds but hours. The system was fixed seven hours later.
+
+Sadly, this was not an isolated warning. In 2022, the Council heard that FDNY experienced unexpected outages, while NYPD experienced three outages that have ever caused another major disruption to the dispatch system. More recently in 2025, staffing shortages have caused some 9-1-1 callers to hear a recorded message telling them to hold because every operator is busy.
+
+No complex system will ever be perfect. Software can fail, people can make mistakes, networks can be overwhelmed by volume of calls. But 9-1-1 is not an ordinary computer system. It is the number New Yorkers call on the worst day of their lives and we need to treat it with all of that seriousness. Today we want to learn what happened, why the public was not immediately informed, what safeguards exist and failed, what has been done since, and what redundancy, testing, staffing and accountability are necessary to make sure that the next technological failure does not become a tragedy. I look forward to hearing testimony from the FDNY, NYPD and the Office of Technology and Innovation, advocates and experts.
+
+Now I would like to thank the Technology Committee staff, Legislative Counsel, and Policy Analyst Erik Brown, my Chief of Staff James Burke, my staff, and everyone who was very helpful in putting this hearing together. I would also like to recognize members of the committee. None have arrived yet, so I will pass it to our... oh, sorry. How could I forget our former Chair. I am sorry. CM Gutiérrez is with us today. I also want to recognize and pass on for opening statements to our co-chairs. We will start with Chair Ariola.
+
+(00:04:44)
+
+Thank you, Chair. Good morning. I am CM Joann Ariola and I am the Chair of the Committee on Fire and Emergency Management. I want to thank my fellow colleagues, Chairs Feliz and De La Rosa, for co-chairing this hearing today on the City's 9-1-1 outage that occurred last month. I also want to thank representatives of the administration and the public for attending today's hearing, as well as my fellow colleagues who are here today.
+
+As New Yorkers, we know the operation of emergency systems is extremely challenging, and that is when all aspects of our 9-1-1 system are functional. As was stated earlier, the outage of our City's 9-1-1 system is highly alarming. This disruption impacted the safety of New Yorkers not only by limiting the ability to receive emergency calls but also to respond to these calls. It is paramount that we as a City provide timely responses to fire and medical emergencies and ensure life-saving services are promptly delivered as needed.
+
+During today's hearing, we want to learn about how both FDNY and dispatch systems were impacted during the outage, what were the total number of fire and medical related emergencies that were affected by the outage, and did it affect dispatch. Additionally, the committee will focus on how and what type of training the department provides to both new and existing personnel to handle such system disruptions. Our goal is to ensure that the City's response to emergencies is expeditious and avoids any delays in answering and dispatching emergency calls.
+
+We look forward to the administration's testimony and I thank you again for being here. As Chair of Fire and Emergency Management, I would be remiss if I did not say that with the 25th anniversary of 9/11 approaching, I thank all of our first responders for running to Ground Zero when the towers went down. My condolences for the loss in each and every one of your agencies, as well as those in the public who perished that day. Thank you.
+
+(00:07:14)
+
+Thank you, Chair Ariola. We will now hear from Chair Feliz.
+
+(00:07:18)
+
+Thank you. Good morning, everyone. I am CM Feliz, Chair of the Committee on Public Safety. I would like to thank all of today's co-chairs: Chair De La Rosa, Chair Ariola and Chair Brewer, for co-chairing this oversight hearing examining the seven-hour outage that occurred at one of our 9-1-1 call centers. I want to welcome everyone to today's hearing. I would also like to recognize members of the Public Safety Committee: CM Justin Sanchez, CM Wong, CM Ariola and CM Gutiérrez.
+
+Public safety is one of the most important responsibilities of City government. Every minute of every day, New Yorkers rely on our 9-1-1 call system for important emergencies. They call for help from our police officers, firefighters and emergency medical personnel during some of the most urgent and vulnerable moments of their lives. When someone calls 9-1-1, they expect that call to be answered and that appropriate resources will be dispatched without delay.
+
+What happened last month at the Bronx 9-1-1 call center — a seven-hour outage with very little to no notice to the public — is unacceptable and the City must explain what happened. When people are facing an emergency, they should not have to wonder whether a 9-1-1 call will go through. Reportedly the outage was a result of updates that were made to the service in the Bronx. The updates went live at around 3:00 AM and they basically started blocking calls for seven hours between 3:00 AM and 10:00 AM. The City must explain what happened, including what went wrong, why the update was not tested before and after to ensure that it was working, what happened to the backup systems which were supposed to reroute calls to the Brooklyn center and instead allowed nearly 1,700 calls to go unanswered, and what steps will be taken to ensure that something like this never ever happens again.
+
+We also want to know — and this is equally important — why the public was not notified that the 9-1-1 system was not working. Why did they only get notified seven hours later? They had to learn about this through the media rather than hearing about it directly from the City. People do not call 9-1-1 for fun. They call when their safety is at...
+
+(00:09:30)
+
+...risk, when there is an imminent danger, when they need immediate help from our police or fire department or medical services. Technology can sometimes fail us. We all know that technology can sometimes fail us. But failing to properly inform the public about something as important as the 9-1-1 system being out — that is not a technical glitch, that is a human choice and it is unacceptable.
+
+New Yorkers deserve to know when the 9-1-1 system is experiencing an outage so they can think about alternative ways of seeking help. Our 9-1-1 call system has had outages not only last month — a seven-hour outage — but also in September 2024, an outage that required reconfiguration, and in 2022 when someone mistakenly pressed the power-off button.
+
+I look forward to discussing what steps we can take to ensure that our 9-1-1 system can always be a reliable system, one that is safe from disruption. I want to thank the members of the NYPD, members of the Office of Technology and Innovation, the Fire Department and all stakeholders for testifying today. I also want to thank committee staff for their hard work: Josh King, Senior Counsel to the committee; Chad Benjamin, Policy Analyst; as well as my Chief of Staff Santiago; my Legislative Director; and also Dana and Sonia from my team who have joined us. I look forward to a productive conversation about today's topic. Thank you so much and I will pass it back to Chair De La Rosa.
+
+(00:10:56)
+
+Thank you, Chair Feliz. We will now hear from Chair Brewer.
+
+(00:11:00)
+
+Thank you very much. I am Gale Brewer. I chair Governmental Operations. I too want to thank CM De La Rosa, CM Feliz and CM Ariola. I also want to thank Commissioner Golub very, very much.
+
+New York City relies, as we all know, on the 9-1-1 system in an emergency. We expect to be able to dial 9-1-1 and receive immediate help. Unfortunately, for some who tried calling 9-1-1 on August 18, as we know, that expectation was not met. Built-in alarms and duplicate call systems — OTI estimates that around 400 callers were unable to reach emergency services, and I know you are still checking on that. The outage lasted for almost seven hours. Once the outage was discovered, why were calls at the affected facility not rerouted to the Brooklyn facility? PSAC 1 and PSAC 2 are supposed to work together. Why did it take so long to bring them back up? These are questions that we need answered so that we can ensure that this never happens again, and if it does, that we are better positioned to respond.
+
+We cannot leave New Yorkers without access to emergency services for hours on end. As we know, about the disruption in 9-1-1 services, some of us learned about it from the press. I actually got calls from local precincts — I know people in the Bronx and knew something was wrong.
+
+While the Mayor has said that this is his first order of business, and I know it is, to resolve the call system and that is his focus — he can say that because I know he has a great staff and they are going to figure this out so it does not happen again. Concerns have been shared about the Technology Committee for many years, going back to when I was in the Council previously, in another era. I know that OTI has had to rely on a private company for many tech issues. In this case I want to know how that partnership worked or did not work.
+
+I would like to thank the following Council staff for their work on this hearing: from the Governmental Operations Committee, Johari Frazier, Erik Cohen and Sohei Hamid; and from my office, Cynthia Hornick; and everybody who has put this hearing together.
+
+(00:13:29)
+
+And I will turn it back to Chair De La Rosa. I also want to mention that CM Morano and CM Zhuang are here. Thank you. We have also been joined by CM Hankerson, CM Justin Sanchez, CM... and CM Hanif. That is everybody.
+
+Today we will hear testimonies from the New York City Office of Technology and Innovation, FDNY and NYPD, followed by testimonies from the public. I want to welcome our witnesses: the Chief Technology Officer for New York City and Commissioner of the Office of Technology and Innovation; Robert Barbera, Deputy Commissioner for Public Safety and Emergency Management; Charles Jackson, Deputy Commissioner for Enterprise Technology and Chief Information Officer; NYPD Chief of Staff Ryan Merola; Assistant Chief Richard Napolitano; and Executive Director for Support Services, Elizabeth Matamoros. Sorry — you got it. All right. I will now turn to committee staff.
+
+(00:15:32)
+
+Thank you. Good morning, Chair De La Rosa, Chair Feliz, CM Ariola, members of the City Council Committees on Technology, Public Safety, Fire and Emergency Management and Governmental Operations, State and Federal Legislation.
+
+I am Lisa, Chief Technology Officer for the City of New York and Commissioner of the Office of Technology and Innovation, also known as OTI. Today I am joined by the Deputy Commissioner of Public Safety and Emergency Management, Robert Barbera; the Deputy Commissioner for Enterprise Technology and Chief Information Officer, Charles Jackson; and the NYPD Chief of Staff Ryan Merola, Chief Richard Napolitano and Executive Director Elizabeth Matamoros.
+
+As the largest and most complex emergency communication system in the country, New York City's 9-1-1 system receives over 9 million calls a year. The Public Safety Answering Centers, also known as PSACs, are governed cooperatively and collaborate among OTI, the New York City Police Department or NYPD and the Fire Department of the City of New York or FDNY. We have a singular shared mission to ensure expeditious, seamless and uninterrupted emergency systems operations for New Yorkers. Any disruption to emergency communication services is of supreme concern.
+
+We join you today to discuss the disruption in New York City's 9-1-1 call service that occurred in the morning hours on Tuesday, August 18, 2026. First I will share some background context.
+
+The 9-1-1 core services infrastructure is a managed service provided by a vendor, Motorola Solutions Inc. Core services means the hardware and software that receives a call from the originating service providers, also known as carriers. They account for the traffic patterns, route it to the proper location and deliver it to the call takers. From there, FDNY and NYPD call takers speak with the callers, collect information and then route the call as appropriate to NYPD operators.
+
+There are two physical locations: PSAC 1 in Brooklyn and PSAC 2 in the Bronx. Both locations have physical hardware as well as human resources — people that make the system run. Each location is equipped to independently handle the full daily load for the City and the total daily call volume is typically around 25,000 calls.
+
+During the overnight hours from Monday, August 17 to Tuesday, August 18, Motorola performed a software upgrade that was deemed necessary and was identified as routine. It was an upgrade to the firewalls in the routing environment located at PSAC 2. It is normal and intentional to apply updates to the hardware at one PSAC at a time to...
+
+(00:18:50)
+
+To ensure continuity of services, the change process began at 9:45 PM on the night of August 17 and completed at 4:13 AM on August 18. At that time the upgrade was believed to have been successful and that all systems were operational. The very first indication of a problem occurred just before 6:00 AM when a call taker communicated to their supervisor that they were struggling to hear some incoming calls. A tech support ticket was opened at 6:40 AM. It was presented at that moment as an issue that was specific to adjacent positions on the floor — call takers, typically called taker positions with audio issues, headset jack issues, static on the line. But given that the issue was appearing with multiple calls in a row, the team began to diagnose alternative potential causes.
+
+At approximately 7:30 AM the team noticed an increase in calls from alarm companies to NYPD. Alarm companies use dedicated 10-digit numbers to connect with emergency services. They do not dial 9-1-1, as many are calling from outside of New York City on behalf of their local customers. At this point the issue was escalated to the vendors Motorola and Verizon Communications. At approximately 8:30 AM, NYPD was also getting reports of a volume of alarm company calls not going through to NYPD.
+
+Recognizing the expanded scope the issue was taking on, an operational bridge was opened for inter-agency coordination. It included Motorola and the City agencies, including NYPD. On the incident response bridge that had all the stakeholders on it, the City team identified that problems were occurring with a subset of incoming 9-1-1 calls as well, not just alarm company calls. By listening to the 9-1-1 call recordings the team was able to identify that callers were not able to hear the 9-1-1 call takers, and they were able to further diagnose that the issue had started at 3:13 AM. The City agencies and Motorola were actively triaging, troubleshooting and looking to expeditiously restore full service.
+
+By approximately 9:50 AM the bridge call team had diagnosed what the issue was affecting the calls, both from 9-1-1 and from alarm companies. They were affecting the calls that came in through the PSAC Two routers, but that calls via the PSAC One routers were completely functional. Motorola began remediating the issue by directing all call traffic to PSAC One for routing, incrementally disabling the PSAC Two routers. At 10:19 AM all calls were successfully rerouted and services were functioning normally again for both callers and call takers. To note, even though all calls were going exclusively through the hardware at PSAC One, call takers located at both PSAC One and PSAC Two were handling calls.
+
+So while we are still in the process of doing a deep dive and a deep analysis, here are some preliminary details of the impact of our investigation as revealed so far. Between 3:13 AM and 10:19 AM on August 18, there were a total of 5,489 calls to emergency services. That includes alarm company services as well as 9-1-1 calls from New Yorkers. Of those 5,489 calls, about 3,800, or 70% of them, were successfully handled by call takers and did not encounter any issues. 1,696 calls did encounter issues. Of those 1,696 calls, 742 of them were 9-1-1 calls. Of those 742 9-1-1 calls, 319 were from unique phone numbers. So 206 of those 319 callers eventually connected with an operator. The remaining 113 unique phone numbers were not serviced.
+
+As we continue to do a deep root cause analysis, City agency teams have already put additional manual monitoring and coordination protocols into place to improve resiliency in the system. During the overnight hours of August 18 to 19, we coordinated with Motorola to return the PSAC Two hardware to a working state and restore call routing to its normal configuration, which uses both PSAC One and PSAC Two. This change restored fully redundant operations across the two sites. This was completed at 7:30 AM on the 19th.
+
+As an interim stopgap, City teams are continuously reviewing a sample of 9-1-1 call recordings to ensure audio is functioning normally. OTI and NYPD are coordinating on diagnosing potentially problematic dead air calls as well as escalation and resolution procedures. We have increased oversight at all levels. We have instituted a freeze state for new deployments as we complete our root cause analysis, and we are doing that to reduce the risk of any other anomalies being introduced. Critical updates that must be implemented immediately are following a strictly held exception protocol, which includes a review at the executive level from all partner agencies, FDNY and NYPD.
+
+Additionally, we are holding daily status meetings at the executive level to discuss, track and resolve information as it becomes available. There is still a lot of work to be done as we complete a thorough root cause analysis to identify what fixes are needed. All lessons learned will be applied for change management protocol to all projects going forward. I want to reiterate our commitment to completing a thorough investigation, getting a full understanding of what happened, ensuring that we put every precaution in place to prevent a situation like this from reoccurring. The teams represented today have multiple work streams in place to advance fact-finding analysis and process improvements. While that work continues, there will be questions asked today that we do not yet have the answers to, but we will endeavor to be clear and transparent about what we currently do know. Thank you again for holding this important hearing and we welcome your questions.
+
+(00:26:19)
+
+Thank you. I want to walk back through your testimony and just talk a little bit about the timing of what occurred on August 18. So you testified that the change process began at 9:45 PM on August 17 and completed at 4:13 AM on August 18. Later in the testimony you revealed that callers were not able to hear 9-1-1 call takers and that the issue had started at 3:13 AM. So can you talk about the disparity between 3:13 AM and 4:13 AM?
+
+(00:27:11)
+
+I can. The issue was not caught until we did not understand it was affecting 9-1-1 calls until about 9:30 in the morning.
+
+(00:27:22)
+
+Even after the rollout was completed, the issue was not surfaced. Eventually call takers on the floor surfaced issues around alarm calls, but the answer is it was not caught and obviously it should have been, and that is one of the things that we are doing a very thoughtful deep dive on — to understand not just what happened, but how it is possible that the error was not caught, and then also what kind of alarms and alerts we can put into place going forward so that these things are caught and acted on much earlier.
+
+(00:27:58)
+
+Is it safe to say that the increase in calls from alarm companies to NYPD at 7:30 is really what rang the alarm that something was...
+
+(00:28:11)
+
+Critically wrong. I would... I think the notifications came in through a variety of channels. Again, the call taker at 6:00 AM obviously did the right thing and escalated that there was an issue. It is a complex and diverse system with a lot of different technology stacks, stakeholders, systems owners. So even though we were hearing these various bits and pieces from different channels, it was not until around 8:30 where we realized that they were all related, and then it was not until 9:30 that we understood that it was affecting 9-1-1 calls.
+
+(00:28:56)
+
+So can you walk us through... I see that your testimony rightfully so speaks to sort of...
+
+(00:29:01)
+
+...the steps that have been taken since, and what are some of the preventative measures that you all have been implementing, including daily check-ins. But before the outage, can you explain what the process was?
+
+(00:29:15)
+
+If something was brought to the attention of call takers, what is the process for someone who is not sitting in one of these call centers to understand when something goes wrong? Is there manual monitoring that happens? What devices are used to monitor that a system is online or not? Yeah, there are actually a lot of different monitoring systems in place at a variety of levels throughout the systems. I cannot speak in too much detail to them for security reasons, but the electronic monitoring and the alarms did not catch this issue.
+
+(00:29:52)
+
+That is the thing that we have to explore.
+
+(00:29:55)
+
+Why did that happen? What other safeguards can we put into place so that there can be some kind of earlier alerting? And besides the electronic monitoring, on the staff level are there folks who are charged with manually observing for system success, or if a system goes offline, what does that look like on the staffing level? Yeah, I think call takers have a whole training process about how they escalate issues when they become aware of them. I do think from a technology rollout perspective, there clearly needs to be a better job making sure that from soup to nuts — from a call coming in to a call being answered, as well as recorded, which is another thing, we log and record calls — that whole process needs to be evaluated with every release.
+
+(00:30:54)
+
+Can you speak to Motorola's...
+
+(00:30:57)
+
+...responsibilities here as a vendor? What I will say is this is an ongoing analysis, an ongoing investigation. So what I can say today... it would be premature for me to talk specifically about responsibility ascribed to one particular set of people.
+
+(00:31:19)
+
+So what I can say today is that this system was not prioritized during the previous administration. The facts are that Motorola upgraded a system and it broke, and that they were not aware when that happened. When Motorola deems that a system update is critically necessary, as you testified, who approves that this is indeed the case?
+
+(00:31:56)
+
+So, I am sorry — we go through a whole process to do that. The one thing that I just want to say is, I am sorry, just to finish answering that question, because while...
+
+(00:32:07)
+
+Motorola's update was the thing that triggered the issue. I think additionally, just again in terms of full exploration of all the issues, we did not become aware when the issue started surfacing. So I just... this goes back to why I cannot necessarily ascribe responsibility across the board, because there were a lot of components and a lot of people who were involved and who ideally should have caught an issue. The thing that I will say is... I apologize, what was the question?
+
+(00:32:47)
+
+My question was: when Motorola deems that this is a necessary update, I am assuming someone approves that that is indeed the case. So what is that process of walking through an approval? Does it...
+
+(00:32:59)
+
+...come to your desk? Where does it go in the infrastructure to determine that it is indeed critically necessary for the update to happen? Or is it more like it happens every six months, every five months? What is the...
+
+(00:33:12)
+
+...process? So there is a really rigorous process that is supposed to be in place for doing testing and rollout and approvals. Obviously it very closely...
+
+(00:33:29)
+
+Generally, PSACs are managed by all three of these agencies — that is who governs it. There is also a Change Advisory Board where all changes go through and get approval in order to move forward into the environment. In this case, Motorola is the managed service provider — they run this service for us, meaning we do not have direct access to the systems. We pay them to implement, support, maintain, upkeep and keep them up and running. They are in fact registered as the managed service vendor of record for the 9-1-1 services.
+
+So the process that happens is: Motorola says there is a security update needed, a firmware patch. There is a risk assessment associated with it. In this case it was deemed low risk — they evaluated it as low risk. Typically that is the case for firmware upgrades. So they assessed it as low risk and based on that it goes through escalating procedures depending on the level of risk. In this case, because it was low risk, it did not get executive sign-off from the Change Advisory Board — it was not deemed to require that. So that is part of again what we need to revisit from a process perspective.
+
+So Motorola were the ones who said this is a patch that is required and it is necessary. They deemed it to be low risk. OTI specifically, and then via the Change Advisory Board review, what comes through are those documents. Again, the higher the risk, the more documents come through, and through that process things then get rolled out. Again, this one was low risk so it did not go through the rigorous scrutiny that it might have.
+
+(00:35:33)
+
+I imagine that now that this has occurred, the low risk flag is being really carefully reassessed. Can you speak to what that looks like?
+
+(00:35:46)
+
+So what I will say is, again, the investigation is still ongoing. We do need to look at various things around risk assessment — things like: is the system impacting production? Is it going to be tested in the lab? Will calls have to be rerouted? Will callers and or call takers notice it? So I think there are a lot of factors that we have to revisit to figure out how a risk assessment is done. I do not yet have the answers, but that is for sure one of the things that we are looking at thoroughly.
+
+(00:36:22)
+
+I do not want to take too long as my colleagues all have questions, so I am going to ask two more questions and then I will pass it to Chair Feliz. One of my questions is about the 9-1-1 operators. Before I was the Tech Chair, I was the Labor Chair, and we worked really diligently on the 9-1-1 staffing shortage. I want to speak to the operator staffing shortages, and I know that this has been an ongoing issue for this workforce. Can we speak to the 9-1-1 operator shortage and if that had any impact on this outage, or on ongoing conversations around calls? Because I know that in one of our labor hearings we unfortunately heard about 9-1-1 calls going to voicemail. So if you could speak to the status of the staffing of 9-1-1 operators at both centers and then if there is any impact that we foresee based on staffing shortages. Good morning, thank you...
+
+(00:37:13)
+
+...for the question. The Police Commissioner has put this as a top priority to address staffing. In her previous assignment she was the overhead boss of the 9-1-1 operators, and she knows how important they are. She knows how difficult their job is. So we have gone all out to hire as much as we can. We are actually doing very well with that. We are actually above last year by 10%. We have 1,370 this year compared to 1,250 last year. We are also actually above the headcount from approximately last year — we added 400 and our total headcount is up 5%, which includes supervisors and principals, from 146 last year to 625. We are still doing our best to increase these numbers in any way we can. We have a class in right now — that class of 80 is part of those figures I gave you — and we are also looking to hire another hundred in October. So we are keeping the pressure on to address this issue.
+
+(00:38:30)
+
+What is your projection for the vacancy rate at this time?
+
+(00:38:36)
+
+We are going to be above the...
+
+(00:38:37)
+
+...vacancy rate the same way we are right now. We are actually above it. So we are doing very well.
+
+(00:38:43)
+
+I recall in that hearing one of the things that the operators testified to was having to work an exorbitant amount of hours based on the vacancy. Has that condition improved?
+
+(00:38:58)
+
+It has. Can you shed some light into the overtime? I will give some figures. This year to date we have 330,000 hours of overtime. If you divide that by the number of staff, that breaks down to about 32 hours a month per person. Would we like to get that even lower? Absolutely. We would like to get to the point where it is even just strictly voluntary. I worked there several years ago and we were almost at that point where it was strictly voluntary. So of course we understand there are a lot of single mothers there, there are a lot of people that need to do other things, and to get held at the end of a shift is not easy. So we are doing everything we can to help mitigate that, and we do plan on getting to the point where we are almost entirely voluntary overtime. I would say within the next three to six months, if you are asking me for a timetable.
+
+(00:39:59)
+
+One of the most harrowing testimonies for me from one of those operators was from an operator who had an open case because they were not able to pick up their child from school based on the forced overtime. So are you testifying that between three and six months we should see that sort of condition...
+
+(00:40:20)
+
+...be remedied? Absolutely. And that should not happen in the first place. I would use common sense and use it on a case by case basis. If somebody has an emergency we teach our supervisors to allow that person to go and tend to that situation. Thank you for your testimony. I want to pass it quickly before I pass it over to speak to one more thing. I want to recognize that CM Maloney has something to add.
+
+(00:40:52)
+
+I want to talk about the 9-1-1 system as a whole. We know that Next Gen 9-1-1 has been in the works since I was a child and we are now several mayoral administrations removed. So can you give us an update on Next Gen 9-1-1? One of my fears as Technology Chair is that by the time we get to the next 9-1-1, that technology is going to be obsolete. So what is the status...
+
+(00:41:25)
+
+Thank you for that question. I think it is an important question, and I think tracking it closely and figuring out where we go from here and how do we get it rolled out in a way that is safe and secure is of paramount importance. So next on 9-1-1 is the City's effort to replace and modernize its aging 9-1-1 technology. The work began in 2020 and it is now expected to be completed in 2027.
+
+Now I inherited this program that the last administration did not prioritize, but that is going to change under my watch. While in my experience, it is not unusual for a system this complex to encounter unexpected challenges in the stages of integration, testing and user acceptance testing, and those naturally occur later in the process. This is a major multi-year overhaul that involves the NYPD and other City agencies, and the transitioning is happening in phases so that 9-1-1 service can continue without interruption while the new system is put into place.
+
+However, as the new CTO, and I said this from the outset, my approach to leading OTI and making technology a strategic asset for the City will include a disciplined review of every significant ongoing and upcoming initiative. We are going to be clear about why we are building it, what problem it solves, who it serves and what measurable success looks like. Then we will ensure that it delivers on time, cost effectively, safely and securely, without putting critical New York-facing services including 9-1-1 at risk. So my expectation is straightforward. Projects have to deliver real value on time at a reasonable cost while meeting the highest standards for safety, security, reliability and continuity of critical services such as 9-1-1. Thank
+
+(00:43:31)
+
+you. More questions on that later, but I just want to clarify. The Council had been told that summer 2026 would be the completion date. So now there is a new completion date of 2027. Do we know when in 2027? The current date is 2027, but I do want to say I now need to dive in and really take a close look at the schedule, so that is its current schedule. I need to make sure what is in place, how we are going to get it to a rollout that is safe and secure. That is today's date. I will have more information once we do a deeper dive. Thank you.
+
+(00:44:07)
+
+You are on, please go ahead carefully.
+
+(00:44:11)
+
+Thank you so much, Chair. I also want to recognize CM Hankerson, Banks and Hanks, who have joined us via Zoom. So I just want some clarity on some of the points that you mentioned earlier. You mentioned that you learned that the 9-1-1 system was affected at about 9:30 or 9...
+
+(00:44:31)
+
+9:15? 9:30.
+
+(00:44:34)
+
+9:13. I do not know if I agree with that framing. I mean, there were tickets related to 9-1-1 calls not properly going through at 6:48 AM. So how did we learn that there was an outage at 9:30 when there were calls that were not going through as early as 6...
+
+(00:44:53)
+
+40. Yes, thank you for that question. I believe the tickets that you are referring to at 6:40 AM was actually about the alarm company calls, and so I think that was part of the challenge. Starting at 6:00 AM, that ticket was filed at 6:40 AM. All of those were referencing alarm company calls, not 9-1-1 calls, and so it was not until 9:30 that we understood that 9-1-1 calls were also being impacted.
+
+Right, but alarm company calls are almost like 9-1-1 calls, but they are done automatically. They are emergency services calls, but they come in through a different mechanism. They are then queued up alongside all of the other ones, but because they come in through a different mechanism, debugging that...
+
+(00:45:35)
+
+looks a certain way versus for 9-1-1 calls. And what steps did we take right after we learned that there were some alarm company calls that were not going through, and why did we not take a broader look into the issue?
+
+(00:45:46)
+
+Yeah, I think again, these reports came in from different pockets and with slightly different context. So the first reports were from call takers at one position and then an adjacent position, and so that first thing was looked at for headset issues and things that might be physically related, and so that is what was being explored at that point. Then additional information came in, again I think I said it was about 7:30, around more alarm company information, and so that was when we started to engage Verizon because sometimes that is related to the carrier experience and interaction.
+
+(00:46:36)
+
+Then at 8:30, we realized that it was a broader issue and that is when we jumped on the bridge call and got everybody involved.
+
+(00:46:46)
+
+Based on what you know, approximately how many alarm calls had issues before 6:40, when the first ticket was placed?
+
+(00:46:56)
+
+I do not have that data.
+
+(00:47:00)
+
+Can you say more than five, more than ten? Well, we do know that in the entire disruption period, there were 1,696 calls. 742 of them were 9-1-1. So if we subtract that, there would be about 954. Let us call it about a thousand alarm calls that came in in that disruption period. I could tell you how many came in before 6:00 AM.
+
+(00:47:32)
+
+I will also say that alarm calls are often on auto dialers, so they will recall and recall and repeat recall until they reach somebody. So I think that might also be why that was one of the things that was noticed with the alarm...
+
+(00:47:50)
+
+call numbers had gone up, and again I think that would be due to calls coming in that were not...
+
+(00:47:58)
+
+being able to hear folks and therefore the auto calls continued.
+
+(00:48:03)
+
+Right, but alarm calls are treated as regular emergency calls, right?
+
+(00:48:06)
+
+They are treated as emergency services calls.
+
+(00:48:08)
+
+Okay, so I just do not know if I agree with the framing that says that basically you learned about the issue, that there was an outage, by 9:30. It seems like there was enough information for us to determine that there was some type of problem by 6:40 AM. So there is no doubt that we understood that there was some issue and we were, in fact, working on trying to diagnose what the issue was as early as 6:00 AM, in fact.
+
+(00:48:34)
+
+Right. Yeah. Okay. But the framing that you learned about the outage by 9:30, I do not know, that just does not seem accurate. It was 9-1-1 services specifically that we learned about at 9...
+
+(00:48:44)
+
+30. There was no question that starting at 6:00 AM, and then it escalated from there...
+
+(00:48:49)
+
+we understood the impact around alarm calls.
+
+(00:48:51)
+
+Okay. At what time was the NYPD notified about the outage? So in fact, it was NYPD call takers at 6:00 AM who notified OTI and tech support that they were struggling with receiving alarm calls. I will also note...
+
+(00:49:09)
+
+when was the Fire Department notified that there was an outage? The Fire Department was invited to join the operational bridge call, which started at 8:45 AM, sorry, 8:54 AM. One more question on timing.
+
+(00:49:28)
+
+Was the Mayor notified that...
+
+(00:49:28)
+
+there was an outage? So from the time that I was informed that there were issues with 9-1-1 callers, I reached out to the Deputy Mayor of Operations and throughout the course of the day I was in direct contact with both the Deputy Mayor of Operations and the First Deputy Mayor.
+
+(00:49:49)
+
+What systems do we have in place to detect whether our core system is online or not? I mean, you know, you check your phone, it will tell you by the number of bars whether you have service or not. What systems do we have in place for the call center? I mean, a seven-hour outage and us not knowing about it seven hours later, more or less. So just, what are the systems that we have in place to determine whether the phones are working or not?
+
+(00:50:13)
+
+I think it is a great question and a real area of focus in terms of what alerting and alarms we can put into place for something like this...
+
+(00:50:25)
+
+so it could be identified earlier and acted on earlier.
+
+(00:50:29)
+
+There are a number of monitoring systems, and again I cannot go into too much detail due to security reasons, but across the board at each layer there is monitoring in place. It still did not catch this, and so we need to figure out what we can put into place going forward to address that.
+
+(00:50:47)
+
+Yeah, I would say that is obviously very concerning. When people are calling 9-1-1, they are calling because they are in imminent danger. And you know, if there is an outage now, it seems like we would not know, or if we are facing a cyber attack and the systems are out right now as we speak, it seems like we would not be able to say that with certainty. So that is, you know, obviously concerning and something that requires a lot of attention.
+
+So a few more questions and then I will pass it on to colleagues. A few more questions on other outages that we have had in the past. Obviously, as we know, this is not any one issue. We have had many outages in the past few years. So a few questions on the history of the issue and also lessons that we have learned. You know, the August 16 outage is not isolated. In 2021, the FDNY dispatch system had about three outages when it was first launched. Again in 2021, also during the same period, the computer-aided dispatch system experienced three outages that same period for a total of about four and a half hours. In 2022, a private contractor triggered a shutdown of the FDNY dispatch system when they mistakenly pressed a shutoff button. Also on September 22, 2024, there was a seven-hour outage in the Bronx due to a configuration error.
+
+So you know, this is not the first time that it happens, but I am just curious about the lessons that we have learned. Can you go through each of those outages and talk about the steps, what caused the outage and also measures that were put in place to make sure they do not happen again? I guess I will repeat it. I know I went through a whole list. The first one, the fire dispatch system having three outages when it was first launched.
+
+(00:52:34)
+
+I will defer to my colleagues. Good morning and thank you for your question. I just want to separate the 9-1-1 call system from the dispatch systems because they are different. So from the 9-1-1 system perspective, can you hear me? Okay. So this was a 9-1-1 system issue, so it was a phone call outage. It is separate from the dispatch systems and the FDNY system, where we do not answer the phone. The calls come in, call takers take them, they say police, medical or fire and based on that response, they forward them to us.
+
+Regarding your question on the dispatch systems, yes, in 2021 we implemented a new system replacing a fire dispatch system that had been in place for about 30 years prior. There were some hiccups in the beginning, but things have been stable now for years on that system. Regarding CAD, that is another antiquated system that we are in the process of replacing now with a targeted go-live date of November 2027. In the interim, the system is stable, it is being cared for and we have not had an issue for some time now.
+
+(00:53:49)
+
+All right, very good. And of course, with new systems there are always glitches. Same question. I will skip the second outage. The third one, in 2022, a private contractor triggered a shutdown when they pressed...
+
+(00:54:01)
+
+the button. Yes. So there is a button in all data centers, and ironically the button is there for emergency services. What it does is, it is supposed to be used if there is a fire in a data center. The last person out is supposed to press that button, and when they press that button, everything in the data center goes off. A contractor that was doing some cabling work was leaving the facility and they thought the button on the door was the release button. They pressed it, half the data center went down. Thinking they pressed the wrong one to get out of the door, they pressed it again and then the other half of the data center went out.
+
+During that disruption, the fire dispatch system did not go out because it was in a data center that was not on that floor. The CAD system did go out for about 15 minutes because it is co-located between PSAC One and PSAC Two. It was live in PSAC One at the moment. It took us about 15 minutes to transfer things over because we did not have power. So we were able to recover pretty...
+
+(00:55:02)
+
+quickly. Okay. Thank you for that information. Any measures put in place to make sure that something like that never happens again? I mean, if I am correct, there was a 90-minute outage overall for certain things. Yes, so...
+
+(00:55:16)
+
+for the countermeasures put in place, there is a lid over the button now, there are signs, everybody is clearly trained, vendors are escorted out, nobody is allowed near the button. We take that very seriously.
+
+(00:55:29)
+
+Okay. What about the September 2024 outage, a seven-hour outage in the Bronx as a result of a configuration error?
+
+(00:55:36)
+
+I will defer to my colleague, Deputy Commissioner Barbara. Thank you for that question. During that incident, it was at a time where originating service providers of the telecom carriers were being migrated from E9-1-1 to Next Generation 9-1-1. There was a configuration error that occurred within...
+
+(00:55:55)
+
+which impacted a small number of calls routing through a very particular route into PSAC Two. That issue that occurred was on the carrier side and not within the City's systems. Okay. And on the recent outage that occurred a few weeks ago...
+
+(00:56:19)
+
+was there a plan to tell the Council about it, and if so, when?
+
+(00:56:25)
+
+Thank you for that question. I think it is a great one and again we are also going to analyze and revisit all communication and procedures and processes going forward. In this particular case, in terms of notifying the public, we became aware that New Yorkers were impacted on 9-1-1 calls at approximately 9:30 AM and we were able to have the issue remediated by 10:18, so there is about a 45-minute period where we knew that 9-1-1 callers were being impacted to the time that they were no longer feeling an impact.
+
+During that time period, do not forget, 70% of the calls were being successfully answered and handled without issue. So from 9:30 to about 9:50, first we had to identify the source system so that we could identify what the issues were. This is one of the challenges around the system, actually identifying the source of the issue, in that there are many systems and the issues appear to be intermittent because 70% of the calls were being successful. So just trying to understand all of that.
+
+Then we did the cutover and that took about 25 minutes. So had that gone on longer and we were not able to remediate so quickly, we would have revisited the question about notifying the public. But we did not want to deter people from calling 9-1-1.
+
+(00:57:53)
+
+All right. A few more questions and then my colleagues have additional questions. Respectfully, I know you and your team have done everything within your power on this issue, but I just have to strongly disagree with that framing of the issue. It seems like there were technical issues that you were aware of by 6:40. I think a notice to the public letting them know that some calls are not going through and that there are issues, I think that would have been helpful to the public, and I think that is a better framing of the issue. We learned about a potential outage, or at least a partial outage, by 6:40 AM, at least for alarm company calls. Yes. Okay. Do you think it makes sense to inform the public about outages? If yes, why? If no, why not?
+
+(00:58:38)
+
+Yes, as I said, I think we do have to revisit communication procedures across the board, internally as well as externally, and when the public should be notified.
+
+(00:58:50)
+
+Okay. Is this the first outage that happened...
+
+(00:58:52)
+
+this year? It is not. There was a text-to-9-1-1 outage that affected 12 callers and each of those people were called back. They got a bounce-back message when they tried to text saying please call.
+
+(00:59:10)
+
+And then they were followed up with as well. So there was another outage. When you said that, for 12 text callers, how...
+
+(00:59:18)
+
+long was the outage for? I think about 110 minutes.
+
+(00:59:22)
+
+So almost two hours. So there was a two-hour outage and the public was not notified about it, for 12 texters. What happened, what caused the outage and why was the public not told about this? I mean, if people are texting, they are texting because they are in imminent danger, whether it is a threat to their safety, a fire or medical emergency. Just wondering why it would not make sense to tell the public about it. Why are we keeping these outages, sweeping them under the rug, keeping them a secret? That is so detrimental. That is...
+
+(01:00:03)
+
+Absolutely understood, and I do think that is something that we have to really explore, about when we communicate to the public. In the case of the texters, they were getting a bounce-back message indicating that they should call. So if you texted, you actually were notified of an alternate method of communication.
+
+(01:00:25)
+
+Final question on the management. So there have been a lot of reports on the management of the 9-1-1 call system. There have been reports basically saying that there are too many players involved. Who was involved in the managing of the 9-1-1 system and do you think mismanagement is a problem, and are there any ways to better improve the system? Yeah. So, PSAC...
+
+(01:00:49)
+
+It has a steering committee which governs it and that is comprised of NYPD and OTI. There are also some other participants like DCAS as well as Cyber. I think we need to take a closer look at the government's structure and process and procedures and policies across the board. So we need to take a closer look at all of those things.
+
+(01:01:19)
+
+Yeah, and you mentioned there was a texting outage that lasted 110 minutes. Any other outages this year other than the August 1 and the May 1?
+
+(01:01:28)
+
+The only thing that I will say is that issues occur across the board. I think you have also said that technology systems are not perfect as you make updates or changes, and external factors contribute. So what we are charged with doing is trying to make sure that New Yorkers are not affected by it and that the system's emergency services continue to stay up and running. I cannot say there were no other New Yorker-facing disruptions this year, but I will say again, there are technology impacts that our job is to remediate as quickly as possible. I cannot say there were no other tech problems in general.
+
+(01:02:29)
+
+All right, well, thank you so much. I will pause now. I have more questions but all my colleagues will go next. I just want to say that these outages should not be kept a secret. I would say that we first learned about the outage by 6:40 and I think the public should have been notified immediately rather than waiting for a full investigation. We know that there are calls that are not going through. The public should be notified so that if they are calling and a call is not going through, they could think about other ways of getting help.
+
+These are issues where every second counts, whether you need help from our police department or fire department or any other department. Every single second counts. If we are telling people that if they have an emergency they should call 911, and that system is down, we should tell them about that so they could think about all ways of getting help. Keeping these outages secret and sweeping them under the rug and pretending like they are not happening — that is just unacceptable and it is outrageous and it is not how good government works.
+
+(01:03:24)
+
+Understood. And we are absolutely going to be looking at our policies around public notification and when it is the right time to notify folks.
+
+(01:03:34)
+
+Thank you. Next, CM Ariola. Thank you, Chair. I just do not think we can go over the timeline enough. So 6:00 AM is when the problem occurred, but a ticket is not placed until 6:40, which means 40 minutes go by before a ticket is even placed by tech support. Then at approximately 7:30 AM your partners at the NYPD start to notice there has been an increase in alarm company calls. Now we can all agree that alarm company calls are very important because that could be someone who is having a push-in robbery, a break-in to their home, and these are people that need immediate help — immediate help. And yet you had not yet reverted them to another way of being contacted. There was no way to contact them. So by 8:30 AM, FDNY starts getting alarm calls that are not getting through. You know the bridge team. So this is all per your testimony. The call to diagnose — why was there such a gap in time from when you knew something was happening to when the diagnostic approach was taken, and who is supposed to do that? Is it OTI? Is it...
+
+(01:05:01)
+
+Motorola? Who is in charge of that diagnostic? The second question is, did you know that you were getting an update for your system? How long before did you know, and were the appropriate agencies notified? Because a glitch could happen — I know what happens on my own phone when I get an...
+
+(01:05:29)
+
+...update. Thank you for those questions. I am making sure I am capturing them all. I remember them, do not worry, I will repeat. Okay. So I think the first one is what we call the "tap on the shoulder" issue.
+
+(01:05:45)
+
+Services went down at 6:00 AM and the ticket was not filed until 6:40 AM. That is not to say there was not diagnostic work happening in the background. The call taker surfaced it to their supervisor, who then also reached out to tech support, and so that is when they started looking at things around hardware and things around positions.
+
+(01:06:05)
+
+So because the ticket was not filed does not mean that people were not already looking at and trying to diagnose the issues. I do not know if you want to speak to the time distinction between 6:00 and 6:40.
+
+(01:06:20)
+
+Elizabeth, do you want to explain what the call takers were flagging?
+
+(01:06:24)
+
+Sure, just to add a little more context — absolutely, and thank you for your questions. So at 6:00 AM, as mentioned, that was the tap-on-the-shoulder moment, and at that point the tech reported right to the floor position to triage the issue in real time. When they returned to their station, they put the ticket in the system. That is the correct protocol — to try to resolve the issue immediately upon notification.
+
+(01:06:53)
+
+And then put in the ticket. Our call takers did report around 6:00 AM that they were unable to hear the alarm calls, and they had 311 transferring some calls to 911 to receive certain calls.
+
+(01:07:15)
+
+So that was the first question — the gap between the notice and the ticket. The second: how long before the update did you know what was coming? How long did you know? The update goes through a process. I will let Barbara speak to the timeline of it, but Motorola does have to follow a change management process where they complete tickets to make sure that a rollout is documented and we know what is about to happen.
+
+(01:07:52)
+
+When did you know? Did you know a week before? Did you get a notification? I get a notification on my phone — you will be updating your software overnight while you are charging. When did you know this?
+
+(01:08:02)
+
+It is a manual update so it is not automatic, and we were notified and it went through testing in the subsequent months before it was ever released into the PSAC live environment.
+
+(01:08:17)
+
+And were your partners at NYPD notified that there would be an update?
+
+(01:08:24)
+
+All of the changes go through a Change Advisory Board, which is an interagency board. But I want to note this was a low-risk change, which does not require executive-level approval from all of the agencies. So yes, the CAB was part of the process, but it was not something that needed examination at that level.
+
+(01:08:54)
+
+What is your threshold for low-risk and high-risk changes?
+
+(01:08:57)
+
+Yeah, so that definition in terms of low risk was set by Motorola. We are going to have to revisit, obviously, how those risks are categorized.
+
+(01:09:10)
+
+Is Motorola here today? Not that I know of. Is there a reason why they are not here today?
+
+(01:09:18)
+
+The only thing that I would say is that we are in the process of doing this root cause analysis, and so until we actually understand every single contributing factor, I do not think we know who needs to be in the room for this...
+
+(01:09:31)
+
+...conversation. Well, whose responsibility was it? Was it Motorola's responsibility to notify OTI? What was that process? Did Motorola call and say we are having a glitch? Where did Motorola fall in on this?
+
+(01:09:47)
+
+Responsibility will be ascribed once we are able to do a deeper exploration. The facts of what we know today are that Motorola performed the firmware upgrade and that is what caused the issue. So did they know before you did?
+
+(01:10:05)
+
+The first notification we got was from the call taker. And what is the protocol for when something does go wrong?
+
+(01:10:17)
+
+As I mentioned, in this case actually NYPD told us.
+
+(01:10:19)
+
+Is that not unusual for you? Is that not embarrassing for your agency? Are you not supposed to have...
+
+(01:10:27)
+
+...supervisors on site checking this? Why should you hear it from your sister agencies that calls are not going through and that people's lives are in danger?
+
+(01:10:39)
+
+The absolute gap of seven hours is unacceptable. The fact that we still do not know how many people were contacted back, and how many people survived that seven hours and how many people did not — that is just unacceptable. You said in your testimony that 309 callers were eventually connected with an operator. What constituted "eventually"? And I am sorry, I think the number is 206. 206 of them? 319? Yes. Thank...
+
+(01:11:12)
+
+...you. What constituted "eventually"? Some number of them...
+
+(01:11:17)
+
+...called back and were redirected via the PSAC one routers and therefore they were handled without a problem.
+
+(01:11:25)
+
+And then NYPD also called back a number of callers.
+
+(01:11:29)
+
+Okay, well, let me ask the question a different way. What was the approximate timeline of "eventually"?
+
+(01:11:37)
+
+I will refer to my NYPD colleagues from the perspective of the callback. Thank you. Sharon, do you want to...
+
+(01:11:45)
+
+Happily answer that, Chair. Over the 24 hours after the outage began, we were engaged with OTI to produce a list of callback numbers that we could call back. Chief Napolitano had call takers on the ready, and in the 24 hours after we became aware of the outage we called back several hundred numbers trying to see if there were any unresolved issues that we could connect with New Yorkers about. We did — and Elizabeth, make sure I am right — we did connect with 30 or so folks at the time who said that they no longer had a crisis, which is great. But as mentioned, we have narrowed this down to a few hundred callers that did not make it through. We made several hundred calls and have been working for weeks to find out the exact number of callers and individual numbers that had tried to connect but could not, and that is part of the investigation we are doing.
+
+(01:12:41)
+
+Now, so as long as we are talking — and thank you so much for being here to testify — how would you describe the impact on the system and its outage notifications? Actually, if I turn this back to you and Deputy Commissioner Barren, on outage notifications...
+
+(01:13:03)
+
+Yeah, thank you for that question and thanks for turning it back over. As I mentioned, in this case NYPD actually notified OTI of the issue. And while that is not ideal, it is a collaborative environment that multiple agencies contribute to. Sometimes it will be the end users who encounter an issue. Now, again, one of the things that we are looking at is what else we could put into place to make sure that alarms and alerts go off before that. So from a notification perspective, NYPD actually let us know.
+
+(01:13:40)
+
+Okay, but is it the norm that NYPD receives updates from the public safety team for a number of reasons, including scheduled maintenance or changes to the system or tech impacts to the system or operational impacts? Did they receive those notifications?
+
+(01:13:59)
+
+Yes. Notifications went out as per normal process. How many hours later? I am sorry — so the notification went out about the firmware change before it started and when it was completed. I am not sure I am answering your...
+
+(01:14:14)
+
+...question. I understand. What I am trying to say is, if you give them notifications on the smaller things constantly, they are...
+
+(01:14:20)
+
+...getting them for maintenance and this and that. Why were they not notified beforehand? Why, in every answer, are you saying we were notified by NYPD? NYPD notified OTI. You should be embarrassed. People could have died because you were not doing your job — I mean your agency. And then the public was not notified. So let us just get to that. For seven hours, people were calling 911 and getting one message or another, or texting 911 and getting one message or another.
+
+(01:14:58)
+
+For seven hours, when we have Notify NYC — in the click of a button, Notify NYC could have put out a notification to the public on various forms of social media noting that there was an issue. Why was not that done?
+
+(01:15:16)
+
+I appreciate the question.
+
+(01:15:20)
+
+There were 45 minutes where we knew that New Yorkers were being affected and their 911 calls were being affected.
+
+(01:15:27)
+
+There were 45 minutes that you knew that New Yorkers were in jeopardy...
+
+(01:15:32)
+
+...that New Yorkers were in danger. At that point, our primary focus was on addressing the issue as quickly as possible. Seventy percent of calls were still successfully going through, and so what we needed to do was figure out how to remediate the issue to make sure that all calls could be properly handled. That was what our primary focus was.
+
+(01:15:58)
+
+And again, had it gone on...
+
+(01:15:59)
+
+...longer, we might have made a different decision. And I will also say that no matter what, we are going to revisit what public communication should be.
+
+(01:16:07)
+
+Public communication on this should have been immediate and that should have been in place and part of your protocol all along. That is why Notify NYC exists. We constantly promote Notify NYC. The mayor stated that the disruption was caused by a Motorola software update, so would it not have been good to have Motorola here to explain why they had that disconnect?
+
+(01:16:34)
+
+I think — thank you for the question — I think that until we actually have done a thorough and thoughtful analysis and we understand all of the contributing factors, that is when we will start to figure out what needs to be remediated and what needs to be fixed going forward.
+
+(01:16:52)
+
+Right. And you said it was a routine maintenance update. Okay, so it was scheduled months before and in advance, and the NYPD and FDNY were not notified in advance, but then they notified you that it had broken down. Barbara, do you know — I am sorry, can you repeat the question? What I am saying is, I was going over what you said. You said that the maintenance was routine, you knew months in advance, it was scheduled, it was approved. But FDNY and NYPD were not notified in advance, and the only time you knew that there was a breakdown was when NYPD notified you.
+
+(01:17:45)
+
+There was a notification that went out to the CAB — the Change Advisory Board — which FDNY and NYPD are part of. Again, it was given out as a low-risk change and evaluated as such, so there was notification, but it did not require a higher level of approval. So the New York...
+
+(01:18:05)
+
+...Times reported at 9:24 that there was an outage notification, and later at 11:00 AM another outage, and the response that they got was that there was no impact to 911. Would you say that was a correct response to the news...
+
+(01:18:24)
+
+...agency? Thank you for the question. If I am understanding the question and recalling properly, there was a report that at 9:24 AM a notification was sent out saying that alarm calls were being impacted. At 9:24 AM, that is where we thought the issue was. We did not learn until later that 911 calls were also being impacted. There was a second notification sometime between 10:20 and 11:00 AM that went out saying that the issue with the back door to the alarm company calls had been resolved and all traffic had been rerouted to PSAC, and no impact to 911 was currently being experienced.
+
+(01:19:16)
+
+Was the NYPD actively working with Motorola during the bridge call that started at 8:54 in terms of getting to the resolution and having the calls rerouted? Yes, all of the agencies and the vendors were all on one call. Okay. For FDNY — we have spent a lot of time on this — when were they made aware of the outage and how were they made aware? They were part of the bridge call. It is standard protocol when a conference bridge is stood up to send out notifications to a large group of stakeholders. I think at some point there were 52 to 75 people on that call. As part of that process there are distribution lists that get these emails and these notifications to join the bridge call. Those notifications — my understanding is that... I am not sure I should speak to that. Well, let me just say — you also said that you were notified of the outages by the responding agencies. So both FDNY and NYPD were the ones that called you first and told you that there was an outage. Is that correct?
+
+(01:20:55)
+
+Both FDNY and NYPD reported issues being able to answer alarm company calls and also noticed an uptick in the alarm company calls that were coming in, and then started getting reports from alarm companies that alarm company calls were not able to get through on NYPD.
+
+(01:21:19)
+
+And yet you still did not think the public needed to be made aware. You still did not think we should make the public aware. You did not give them other options. And then you said yes, it was rerouted — from what? From two PSACs, one different one in Brooklyn and one in the Bronx. And yet over a thousand calls had gone unanswered. I am wrapping up. Why was the public not notified? Systems break down, we know that. What is egregious here is that you had to be notified by the agencies responsible for the safety of this city, and that you did not think it was important to notify the public that there was a breakdown and they could not get help if they needed help.
+
+(01:22:25)
+
+Thank you for the question. I think it is something that we really do have to take a very, very close look at and understand what alerts and alarms could have gone off earlier. I think identifying the scale and the scope of the issues was the challenge, and so as that process proceeded, there was a lot of diagnosis that needed to take place.
+
+(01:22:54)
+
+As that went on, the more we understood the scope of the issue and the scale of the...
+
+(01:22:59)
+
+...scale and scope of an...
+
+(01:23:00)
+
+The issue when a 911 system goes down is critical. That is what it is: critical. There is no evaluating the scope — the scope is critical and it should have been addressed much sooner. Public information should have been sent out much sooner and the agencies that provide emergency services should have been made aware and should not have been the ones to notify you, because they have mechanisms in place that they could have been answering calls. But instead they had to notify you because they were getting calls that would not necessarily come to them, like from alarm companies. I reserve the right for a second round, but thank you so much for the time. Thank you.
+
+(01:23:49)
+
+Thank you. We will go to CM Brewer. Thank you. How are you doing?
+
+(01:23:53)
+
+Honor the call taker who made this decision to tell somebody... something.
+
+(01:24:02)
+
+Absolutely. And we also have thanked the principal that made sure that she pushed it up the ladder right away.
+
+(01:24:08)
+
+So what are you going to do? How are you going to honor them?
+
+(01:24:10)
+
+We plan on giving them a commander's day. It is basically a free day off.
+
+(01:24:15)
+
+And I am just checking, okay, I want to be sure. The second question, which is you probably have answered it three times, but I remember when it was built and it was
+
+(01:24:27)
+
+supposed to, you know, have redundancy and so on. So my question — maybe you said this three times and I missed it — but why was not the redundancy there between Brooklyn and the Bronx?
+
+(01:24:41)
+
+Yes. Thank you for the question. We do have redundant systems in place at multiple levels for issues like cybersecurity breaches or power outages or natural disasters. This issue did not trigger any of those fail-safes and that is something that we really have to understand — what can we put into place so that these things can be caught earlier. I will say the monitoring that is currently set up and put into place is very thoughtful and rigorous. It is not possible to plan and design to capture any anomaly that ever exists. That is not to say that we cannot work to put additional alarms and alerts into place and that is why today we have already set up these interim manual monitoring systems. So, you know, when you hear redundancy you think it is for everything, if you are not part of the nuanced details, you know.
+
+(01:25:45)
+
+Second, was there a subcontractor that does this low-level changeover or was it done by Motorola themselves? Or are there more private sector parties involved?
+
+(01:25:57)
+
+I will defer to my colleague Barbara.
+
+(01:26:00)
+
+This work is performed by Motorola themselves.
+
+(01:26:03)
+
+Okay. Now the next question, which is obviously about Next Gen 911. What will that do that would be helpful in this situation? Obviously it is not ready yet and you do not know, but what are we planning? I thought it was started in Bloomberg. I thought it was before 2020, but okay — what is the big deal about Next Gen?
+
+(01:26:23)
+
+So Next Gen, so E911, which is the part of the system that we are on now, is legacy and it does need to be updated. It also really relies on analog systems and Next Gen 911 introduces digital systems, and so it should streamline the process and allow for
+
+(01:26:50)
+
+better logging and tracking and analysis and alerting. I think that once it is rolled out — phase one is rolled out — it also then lends itself to the possibility of additional, more progressive and more modern features. But we need to focus on getting phase one rolled out. Okay.
+
+(01:27:11)
+
+So then the other question I have is just in terms of training for these systems. Obviously it is hard to train for this outage situation. But what — you have Motorola who were dealing with this low-level upgrade — would there have been some training that would have been appropriate? Obviously you would be looking at whether that is what should have taken place. But I think I was worried when you have an outside contractor — like I said in my opening remarks — they tend to take over, my way or the highway. People do not get the knowledge that they should as individuals, as City agencies. You know the issue. I have been talking about this for the last 25 years. So.
+
+(01:27:58)
+
+My question is: should the training not change? Maybe it would have been a different situation if people had more information.
+
+(01:28:08)
+
+Thank you for the question and I think it is a really thoughtful area that we need to contemplate. So today the contract with Motorola is a managed service. They are the responsible party. They are responsible for change management, for release management, for uptime, for triaging issues — for all of that. There is an upside to having an external third-party managed service in that if somebody goes on vacation, someone can come from Chicago and handle the problem. But there is a robust system in place across the board.
+
+What it does mean, however, is that we do not have our hands on the wheel. That is not to say — to be clear — that we do not need to look at oversight and approvals and the change management process and how things actually do get tested and rolled out and communicated. But there is a balance to be struck. There are pros and cons across the board and we will look at, no matter what, what the right answer should be
+
+(01:29:21)
+
+going forward. Okay. You mentioned Verizon also in your statement. What role do they play in the contracting, if at all?
+
+(01:29:29)
+
+I will refer to my colleague Rob.
+
+(01:29:33)
+
+Thank you for the question. The City's 911 environment currently has Verizon as still the primary service provider on the E911 side, while Motorola is the primary vendor on the Next Generation 911 side. Okay, so ostensibly the Verizon contract might be ongoing if in fact it is just the future contract, right? Or we do not know yet — would Verizon continue in the Next Generation? No.
+
+(01:30:10)
+
+So on the front line, once the migration is complete to Next Generation 911, the E911 system will be decommissioned and Verizon's role will be reduced to communication services. Okay, that is what I was trying to ask about.
+
+(01:30:24)
+
+The other question I have is
+
+(01:30:26)
+
+what... just, maybe you said this clearly, but in terms of notification — we heard all the back and forth about the timing. There was a wonderful operator who did that, but should it have been Motorola or others who were tasked with it, even though this wonderful operator and colleagues were the ones that did it? Who — how should that have been handled, even though thank goodness somebody did say something?
+
+(01:30:57)
+
+Yeah, I think that is a very important question and something that we have to get into the very specific details of when we are doing our root cause analysis. When Motorola made the firmware update they were not aware that something had been broken — that is obviously an issue that needs to be addressed. Similarly, it should not depend on it hitting an end user before anybody else is alerted. So those are all areas that we have to figure out how we can do better.
+
+(01:31:31)
+
+Okay. All right. Thank you. Thank you. We have also been joined by Majority Leader Abreu, CM Banks and CM... on Zoom. I just wanted to recognize them. All right, so we have nine Council Members on deck. We are going to start with one question for the first round. We are going to start with Wong.
+
+(01:31:52)
+
+Morano, Hanif. Thank you, Joseph.
+
+(01:32:00)
+
+Is this not the first time that Motorola updates the firmware? Do the firmware updates happen many times in the year, or whenever there are urgent security fixes they will do it right away — is that right?
+
+(01:32:15)
+
+They require approval, but yes, these kinds of firmware upgrades do happen throughout the course of the year.
+
+(01:32:21)
+
+Okay, many times — hundreds of times? Hundreds. Okay. So these updates — is it the City's responsibility to test the updates, whether they are working or whether they fail? Or do you just rely on Motorola? Motorola says "okay, I am done" and then you do not do anything to verify whether everything
+
+(01:32:47)
+
+works? So based on the type of change that is happening, there are test protocols and test plans that are implemented before the change actually begins to validate that everything was working correctly before it started. There are test procedures that happen throughout the change and then there are validation steps that happen once the change is complete.
+
+(01:33:06)
+
+Okay, so was that done? Because it seemed to me that after the updates were installed, the testing — or whatever testing you were doing — failed
+
+(01:33:18)
+
+to catch the issues. So the testing was performed. The issue did not occur until an hour after the change was complete, so that validation period actually had successful calls and successful monitoring and then the issue started after the change was
+
+(01:33:39)
+
+over. Okay, good. I agree with everything my colleagues said. I will also say that not learning about the issue until 6:00 AM is something that we need to figure out how to get in front of. So yes, it went through the testing protocols that had been written for this
+
+(01:33:58)
+
+deemed low-risk change and
+
+(01:33:59)
+
+so that did happen. It did not identify and catch these issues, which means that it needs to be improved. Okay. But I want to go to your statement.
+
+(01:34:10)
+
+It says Motorola began remediating the issue by directing all court traffic to PSAC One for routing. It says right here. So now PSAC Two — the reason it exists is to relieve the capacity — is that right?
+
+(01:34:32)
+
+Traffic goes to both PSACs. There is just too much traffic and we need another network. PSAC Two — it is not that it is too much traffic, but yeah. What I am saying is that if PSAC Two goes down for whatever reason, there should be like
+
+(01:34:48)
+
+a backup machine somewhere that you can switch on. Okay, this one is down — okay, let us switch this one on and we have two working networks again. What I do not understand — explain to me — you are referring to the traffic of the two systems. PSAC Two will win when that overloads PSAC One. I mean, is that not common sense?
+
+(01:35:14)
+
+Thank you for the question. I do think that understanding the technical implementations and how all the PSACs are related is really
+
+(01:35:22)
+
+critical. Each PSAC was built to be able to handle independently the full City load. Okay. What I am trying to say is that if PSAC Two goes down for whatever reason, there should be a backup PSAC that you can switch on any time while you get the one that is down working again. That is what I am trying to say. This is like a network redundancy issue, a topology issue that you want to look at. Understood. The
+
+(01:35:56)
+
+challenge with diagnosing the source of the problem is that 70% of the calls were being handled, so it made it seem like it was an intermittent issue. I can speak now to what we have figured out — the PSAC Two routers being the root of this specific issue. In the moment it was not evident that that was the cause and so doing a cutover without actually understanding what the problem was may not have solved it. So we had to actually understand where to probe so that we could fix it.
+
+(01:36:42)
+
+For any reason, if there is even a small percentage of calls not getting through, there should be a backup system with the original firmware, the original configurations, the original routing rules that you can switch on and be up and running. I mean, this is true for disaster recovery. Is that not — what am I missing here? We did not know that PSAC Two routers were the issue until 9:50. All right, thank you. Thank you.
+
+(01:37:18)
+
+Thank you, CM Wong. CM Morano, followed by Hanif.
+
+(01:37:21)
+
+Thank you, Chair. Thank you, Commissioner, for your testimony. I want to approach this a little differently because we could spend a lot of time today talking about software changes, routing environments, testing protocols and technical architecture. But if you are the person having a heart attack, if someone is breaking into your house or your child is not breathing, you do not care what piece of software malfunctioned. Obviously you dial three numbers and you expect someone to answer.
+
+After hearing the testimony today, what concerns me most is not simply that there was this technical failure — it is how long the City appears to have gone without realizing the full extent of that failure. So we have heard that the software change was completed and, based on what you told my colleague CM Wong, we have heard incredibly that the testing protocol was followed and that the problem manifested. So my question is: if the system passed the City's testing protocol, how did 911 begin to fail at 3:13 in the morning without the City knowing it was happening?
+
+According to your testimony, the problem began at 3:13 in the morning. The first indication from a call taker was not until shortly before 6 o'clock. A support ticket was not opened until about 6:40. The issue was not escalated to Motorola and Verizon until about 7:30. So for hours, New Yorkers were encountering problems calling 911 while the City apparently did not know it had a system-wide issue. What automated monitoring should have caught this? Was there an alarm, a dashboard, real-time monitoring, or failed or complaint calls? If those systems existed, why did they not detect it? Because if the first effective alarm that something is wrong with 911 is a call taker saying "I cannot hear somebody," then we have a serious monitoring problem.
+
+(01:39:24)
+
+Thank you for the question. I think those are all the right questions to be asking. I want to address specifically — and I do not know how much technical detail you would like me to go into — but the testing that took place: part of the reason it did not catch the error is because the error did not surface until there was a session timeout. So sessions were live. It was not until the time-to-live expired, which is when some of those issues started surfacing. To be clear, we should make sure that our testing does capture all of those scenarios going forward. In terms of automated monitoring, because of the way the issue presented, there was no automated monitoring that
+
+(01:40:14)
+
+caught that issue. We do have a lot of monitoring in place. It is challenging to be able to predict every anomaly or every misconfiguration that happens and surfaces. That is also not to say that we are not going to take a much closer look at what systems we can put into place so that this would have been caught earlier going
+
+(01:40:38)
+
+forward. So your testimony says there were 319 unique 911 callers affected, 206 of whom eventually connected with an operator. That leaves 113 unique callers who never got through. Has the City identified what emergency each of those 113 people was calling about and can you tell us today that none of them suffered an injury, death, property loss or other adverse consequence because their call was not answered? Thank you for that
+
+(01:41:09)
+
+question. I do think that that is something that we also have to explore very deeply. Based on the information that we have reviewed to date — and it is an ongoing review — we have not identified any death or injury attributable to the disruption. And when would you be able to give this Council a definitive answer in terms of the itemized nature of those 113 emergencies? We will be... we are still in the process of doing the analysis. I also apologize — I am trying to think about the best way to get you the information that you are looking for. I think right now, as we go through the process and the analyses and look at what happened with each of those callers, until we have more information there, I do not know that I can give you a better answer than "we are looking at it." Finally, Chair, if I may, one final question. Commissioner, your testimony repeatedly identifies Motorola as the vendor responsible for the managed service and the software change associated with this outage. I know they are not here, but can you tell us: has Motorola faced one dollar of financial consequence as a result of what happened? Has the City withheld payment, demanded any sort of a credit, sought reimbursement, issued a cure notice or pursued any other contractual remedy?
+
+(01:43:05)
+
+I appreciate the question and I think that it is also something that we are going to have to tackle. As of today, because we are still in the process of doing the research and doing the root cause analysis, it would be premature for us to try to ascribe blame or assign specific responsibilities. So we will have to look into that after we have completed this analysis. Thank you. Thank
+
+(01:43:32)
+
+you. We have Hanif, Hankerson — who wants to go next? Thank you. And thank you for joining us. Could you share, of the 911 calls that required a response, what types of emergency calls were those? David.
+
+(01:43:53)
+
+Thank you for that question. I will defer to my colleagues.
+
+(01:43:59)
+
+And I cannot remember. Thank you for that. My colleague Elizabeth is pulling up what we have from what we were able to learn from the callers we could connect with in the 24 hours after.
+
+(01:44:09)
+
+And that number of calls — how many were there?
+
+(01:44:14)
+
+Because there were a number that was all the calls that went out and then a set of numbers that were called back but answered and some that did not answer. Would love to have those — were those also tried again? Yes. Does that make sense?
+
+(01:44:30)
+
+So there were 526 calls made by the police department in the 24 hours after the outage using the numbers that were provided by the vendor.
+
+(01:44:42)
+
+We were able to make voice contact with 32 individuals. That is it.
+
+(01:44:47)
+
+Correct, within that 24-hour time frame. Yes. Okay.
+
+(01:44:51)
+
+And the issues — they ranged from disputes... there were some ambulance calls. None required additional emergency services at the time we made contact. They had
+
+(01:45:09)
+
+received the necessary services. But the jobs associated with those callers did range from disputes to ambulance calls and a few others.
+
+(01:45:20)
+
+So nearly 500 still had not picked up or responded.
+
+(01:45:31)
+
+Was there an opportunity after the 24 hours to check back?
+
+(01:45:36)
+
+Elizabeth, let me jump in real quick. So for those we tried to reach, you had the called Tiger Platoon with you. For those we tried in the 24 hours, remember who we could not reach because they were busy or they did not pick up. It is believed there were other attempts to make those two, but then in the time after the 24 hours, working with the vendor, we began refining that list of numbers. It is how we began learning what we got at first may not have actually been a true list of numbers that did not reach the callers. Certainly, but we have spent the past few weeks trying to figure out what those numbers were.
+
+(01:46:14)
+
+That did not reach. Note has been actively doing that. Okay, and then so going back to the 32 calls that you were able to make contact with.
+
+(01:46:23)
+
+You said they were like minimal. I mean, they are sounding like they were not large enough to create any issues. As a result of that contact, they had received the services that they needed.
+
+(01:46:39)
+
+The crime, and I am not asking because, you know, I am not like... I have been very critical of the 911 system, particularly as it pertains to when calls are answered and instances when police have shown up resulting in a New Yorker with disabilities or a mental health crisis getting shot. So I certainly have a lot that I grapple with regarding the challenges of the system that we rely on as our first kind of line of what to do when there is an emergency. While at the same time I know that 988 is a critical initiative that we want to make sure is universally known and used by New Yorkers, I want to understand if among those callers there were people who were in real mental health crisis and did not get the help that they needed, and whether 988 was affected. Is that something that you all are aware of? How much do you know in terms of whether 988 was used for dispatch?
+
+(01:48:02)
+
+I think Chief Napolitano would be happy to speak to that in terms of the difference between 911 and 988. If someone called 988 instead of 911 and it did not turn into an emergency, then obviously that had no impact. If the 988 operator believed that this was an emergency and needed to connect to 911, technically it is possible that that could have been impacted. We do not have the figures on that, but it is possible. We will ask that question, Council.
+
+(01:48:37)
+
+I appreciate that. And then I know I just ran out, but I took two questions. Chairs, if you will allow me, I would love to know, as you are thinking about what to do if this happens again, we cannot go hours and then just expect that we are going to come back online after however many hours. Rather, are you all thinking about what other cities have done in terms of including independent and other entities outside of the Police Department for these calls to be able to be rerouted? Is there a backup so that once a system is shutting down... we are still advanced with technology, so if one system is shutting down there should be no qualms about another system going up within minutes. I would love to hear a little bit about what you are researching. I highly recommend that we look into what other cities are doing. And then, you know, how does the City plan to address the distrust in the 911 system after this outage? Thank you, Chairs. Thank you.
+
+(01:49:56)
+
+For that question. As we do the root cause analysis, one of the other things that we will absolutely look into is what are the options, so not just for alerting and alarming, not just for notification of the public, but what are alternative routes or options where some of these calls might have been able to be handled. So that we will absolutely be looking into as we do this root cause analysis. And to your point, I think it is well taken that we should look at what other systems across the US are doing. We are in communication with other emergency services organizations throughout the country.
+
+So we will absolutely do that. This is obviously a critical service and New Yorkers need to be able to trust that they can call 911 and get their calls answered. We need to restore that trust. We need to make sure that this type of issue does not reoccur, and that is what I am committing to doing. That means not just doing the root cause analysis, but also figuring out how we implement next-generation 911 in a way that is timely as well as robust. That is something that I am committed to doing.
+
+(01:51:30)
+
+Immediately. Thank you. We are going to turn it back. Well, before I do that, I want to recognize that we have been joined by CM Riley and CM... and we are going to turn it back to the Chair for a second round. Well, the Chair... so the Majority Leader. It is a tie. Okay, I will pick my favorite Dominican. I am just kidding. Majority Leader...
+
+(01:51:58)
+
+Graham. Thank you, Chair. I want to return to the texting outage. You testified that those individuals were told to call. What if they were deaf or hard of hearing? I will let
+
+(01:52:14)
+
+my colleague Barbara address that. During that time when the public was receiving what is called a bounce back notifying them that text to 911 was unavailable and to call 911, they would have other options. For that community, TTY was still available on voice services as well as the deaf and hard of hearing community using translation apps that call in through national 911 into the City's 911 system, so there are multiple avenues available for that community.
+
+(01:52:51)
+
+And what if these individuals were in a position where their safety required them to be quiet and they could not make phone calls?
+
+(01:53:00)
+
+During the time of the incident, due to the performance problem that was being experienced, we activated the bounce message so that the public would know that there was a chance their texts would not be processed. This was the best option to ensure that calls would not be lost or people believing that they were actually waiting for help that was not going to arrive. So the decision was made to enable the bounce back for the public to understand that the service was unavailable.
+
+(01:53:38)
+
+Do you know how many individuals had a bounce back message when they tried texting 911? It sounds like these outages have happened with some frequency, including we now know at least twice this year. Why is it that we do not have a go-to policy around when and whether to notify the public? Twice a year means we should not be debating what to do in the moment.
+
+(01:54:05)
+
+I appreciate that question.
+
+(01:54:06)
+
+That is absolutely something that we have to explore as we are doing this root cause analysis. So not only are we looking at technology systems, but we are looking at policies, procedures, processes and communications, and that includes how and at what time New Yorkers will get notified.
+
+(01:54:26)
+
+And how fast are we going to get an answer to that? Let us say this happens today again. I am afraid that there is no procedure in place on what your policy is going to be on notifying the
+
+(01:54:37)
+
+public. Apologies. I do not want to make it seem like the root cause analysis is a future thing. We are in the process of working our way through all of the items. I have personally been in contact with NYC Emergency Management around Notify New York, around what is the right process, what are the right policies, what would that message look like, et cetera. I do not have the final conclusions, but we are in the process of working with them to identify the best way forward. Thank
+
+(01:55:08)
+
+you very much. And thank you, Chairs. Thank you. We have CM Stevens followed by CM Maloney. Thank
+
+(01:55:19)
+
+you, Chairs. I have a question. We know we are going back to figure out how this happened, but I have a question. We know about 400 people were not able to connect with the dispatchers. How many of those people suffered harm because of it? And what is the City going to do? Is there any conversation about what the Motorola company is going to do? Are they going to have a conversation or anything?
+
+(01:55:50)
+
+Thank you, CM. I appreciate that question. There were 319 unique phone numbers, meaning callers who were impacted by this disruption. Based on the review of the information to date, we have not identified any death or injury attributable to the disruption.
+
+(01:56:16)
+
+So 319 people, you said, right? Yes. They do not have any injury. They just called 911 for fun?
+
+(01:56:25)
+
+So I cannot speak to what each of them called about. I do know that of the 319, 206 of them were able to get through to an operator, so those issues would have been handled. There is still the question of the outstanding callers who were not serviced, and I know that our colleagues at the sister agencies have done outreach in the attempt to reach folks and have not, in the research they have done thus far, surfaced these kinds of death or injury.
+
+(01:57:12)
+
+Please follow up with us. Let us know after you have got to finish up with those people.
+
+(01:57:19)
+
+Thank you. We will go to CM Maloney. Oh, there, Stevens, just hold one second. Is that the end? And then Maloney. Hello. Good.
+
+(01:57:46)
+
+Nothing. Just, I do not have that many questions. One of the questions, because I heard in the testimony you mentioned several times that the last administration did not prioritize the system. But I really wanted to get a clearer understanding of what this administration is doing differently to ensure that the system is adequately staffed, resourced and equipped to provide New Yorkers with a timely and efficient emergency response. Because I feel like it was a conversation of like, oh, they did not prioritize it, but I am not really clear on what you are doing differently.
+
+I know you said that you were going to be looking more at transparency and all that, but even with this incident there did not seem to be a lot of transparency in informing the public in a timely manner. I think it is easy to say, well, the last folks did not prioritize it, but now I am not clear on how you are prioritizing it and what is going to be different, because it did happen under this administration.
+
+(01:58:46)
+
+Absolutely, I appreciate the question and I think it is an important issue to try to figure out how to address. I think there are a few different components. One is through this root cause analysis that we are in the process of doing. What we need to answer is: what happened? Why did it happen? How did our controls not prevent or contain it? And what must change going forward? So having some of that stuff into place requires examination of the technical architecture, of system changes, of testing, of monitoring, of incident response management decisions, vendor performance, communications and lines of accountability.
+
+(01:59:34)
+
+So as we do that full root cause analysis, we will start to surface in each of these areas things that need to be improved going forward, and that is what we need to learn from this to ensure that we are putting mitigations into place to reduce the risk of this. So even with that, and I think you are kind of just giving a broad overview again, which is why I do not understand how this is being prioritized. Because again, how is this being prioritized? That is just like an evaluation. Like, oh, we are going to evaluate. We are going to assess. That is nice, but I am in the weeds type of girl.
+
+I would like to know real concrete stuff, because how do we hold you accountable? So just understanding what investments are being made as far as staffing, around equipment. One of the things that I am always stressed out about is that all of the systems we have are so antiquated. We get the system when everything else has moved forward. So just trying to get a better understanding of what this looks like and how it is prioritized. Is this only being prioritized because of this incident? Because it does not sound like this administration was actually prioritizing this until this incident happened. So I would just love to get more details around what staffing is going to change. We have had multiple hearings around folks complaining about the staffing issues that
+
+(02:00:51)
+
+the call centers have had. What other resources and equipment are we going to have around technology? What is the dollar amount that is going to be invested into this technology and keeping pace with it, because it is changing so quickly? So just really trying to get more into the weeds and not these broad...
+
+(02:01:10)
+
+...statements. Those are important questions that we need to
+
+(02:01:12)
+
+address. The only thing that I can say at this moment in time is that the root cause analysis has not been completed, which means that I cannot yet talk about what that means. We are going to put this system into place and have this person do X, Y or Z. At the end of the root cause analysis, that is exactly what comes from it. A successful root cause analysis actually does have an actual action plan with items and deadlines. So we
+
+(02:01:39)
+
+are currently actively working on it. So what is the deadline?
+
+(02:01:45)
+
+I cannot give you an answer to that right now. Not having a deadline on when your analysis will be done is alarming.
+
+(02:01:51)
+
+Because everyone has deadlines. I understand that. If you do not give us a deadline, I mean, it can go on for a really long time, right? So what, on average, how long would an assessment like this take generally?
+
+(02:02:05)
+
+So an assessment of this scale with this level of complexity with this number of stakeholders can take months. Okay. We are actively pursuing it right now because again, we are in a freeze state right now and so every single change that has to go through has to go through an escalated level of scrutiny, which means that there are all these other things that are piling up that do not reach that level of a break change or are unnecessary to be done immediately. So we are trying to move as fast as possible. The only reason I am hesitant to give you a specific deadline is because the way it works is
+
+(02:02:46)
+
+you start analyzing and then from that there are 14 more questions that come up. So the more you dig, the more you learn, the more questions you have. And so I am not trying to obfuscate the issue. I just want to be able to give you a realistic answer. Well, I think the real answer, and I am sorry, I am wrapping up right now. I think the realistic answer is giving us a deadline and then if you need to change it, then having those conversations. I am always uncomfortable when folks want to be so ambiguous and then we have to be left to guess. And so there is no reason why you could not give a deadline if you think that this would be done, because this is something that you are doing. We all know we have to be fluid, so even if it is like, oh, we are looking at six months, and then coming back to the Council and saying, let us move forward. Because we are also accountable to the public as well, which is why I am asking the questions. So I am really not comfortable that it is like, well, we might come to hiccups. You are going to come to hiccups and that is the point of these conversations. Not trying to bash you guys, but we have to be on the same page about when these operations are done so we can hold you accountable, because that is literally our job. Our job is to have oversight and ensure that you are doing your job.
+
+So I would just hope that you would have more concrete steps on how you are taking and moving things forward, what this is going to look like, and have deadlines so that we can come back and have real conversations. When it is so ambiguous it makes me uncomfortable and it seems like you are withholding information, not just from the Council but from the public, and that is unacceptable to me. Thank you.
+
+(02:04:19)
+
+Thank you, CM Maloney, followed by Riley. Thank you.
+
+(02:04:21)
+
+Chair, thank you, Commissioner, for your testimony. Firmware upgrades in other municipalities or in New York City have caused issues in the past, so why did Motorola deem this a low risk when we are dealing with emergency services? And why did they not question that designation? I will answer at a top level and then I can let Barbara speak. There are hundreds of firmware upgrades in the course of a year. Typically they are deemed low risk.
+
+In this case, the thing that we have learned is we need to do a better job of understanding what the risk evaluation is. I will hand off to... One of the key factors that is used in that risk evaluation is whether, during the actual activity related to the change, service will be impacted. Because during this change all call traffic was rerouted prior to the work happening and there was no live traffic happening during that time period, it was deemed low risk. The traffic was routed to an alternate location, and at the completion of that change the traffic was rerouted back, and they went on with their systematic testing over a period of time. But that is one of the risks. That is one of the factors that plays into that low risk factor.
+
+So I urge you after this to re-evaluate the criteria that we are using to determine risk. I worked in the technology sector before my role in City Council, and before any major software rollout we would test it in a test environment. We would have pre-identified metrics that we were tracking to alert us right away whenever there was a delta from the norm, and this was 24-hour-a-day tracking — and we were not doing emergency services. So in this case where the bar and the impact is so much higher, what can we do better? Invest in a testing protocol. When those issues are identified, as it sounds like they were in this case, why proceed with a full rollout? And why did we need to be notified by the NYPD — that is, the customer, if you would — telling you when a system is not working, rather than internal metrics that could identify a system error or a bug that has occurred?
+
+(02:06:59)
+
+Yes, thank you, Councilmember, for those questions.
+
+(02:07:05)
+
+I agree. I think the answer is there were — there are testing protocols in place. It went through the validations, it was run through in the lab, and there was testing done during the rollout, and it did not catch the issue. So that is where we need to go through and shore up the protocols, the analytics that we look at, the testing from soup to nuts, all the way through to the call recording testing.
+
+(02:07:38)
+
+That sounds great. And what role or liability does Motorola have in all this, if there is any enforcement that we have to ensure that their software is not producing these kinds of issues?
+
+(02:07:54)
+
+Thank you for the question. Until we have all the facts and we have completed the root cause analysis, it would be premature to assign blame. What I can tell you that we do know today is that this system was not prioritized by the former administration. It needs a full assessment. Motorola did perform the firmware upgrade that triggered the issue. They were not aware that it broke. It took time to find and diagnose the problem and reroute the calls because it is a complex system.
+
+It is really important that we look at all the contributing factors in minute detail, and I can guarantee you that we are going to use every shred of what we learned to make improvements and put more safeguards into place to prevent this type of issue from recurring. In the meanwhile, we have also put precautions and extra precautions into place while the investigation is ongoing. And who is responsible for...
+
+(02:08:57)
+
+...tracking those metrics and conducting testing — is it us or Motorola? And who is responsible for managing the vendor? That would be... And we touched on this, but who is responsible for communicating to the public when there is an issue or an outage? I think that is one of the things in terms of the protocols and policies that we have to determine more comprehensively going forward — who makes those calls. NICE is the one who sent out the messages, and then how do they get notified and based on what criteria?
+
+(02:09:37)
+
+How is that decision made? So just one last question: if NICE is responsible for communicating to the public currently, at least, who communicated with NICE and when were they made aware in order to communicate more broadly?
+
+(02:09:51)
+
+Yes, thank you for the...
+
+(02:09:54)
+
+...question. In this case we became aware that there was an issue with New Yorkers calling 911 at about 9:30 in the morning. It was remediated by about 10:19 in the morning, so it is about a 45-minute period where we knew that New Yorkers were being impacted. About 70% of the calls were still being answered, so during that time frame — those 45 minutes — our main focus was on diagnosing the issue so that we could remediate it. The first 20 minutes or so of that was trying to diagnose the source of the issue, and then the remaining 25 minutes were about rerouting calls to the systems that we knew were functioning.
+
+(02:10:39)
+
+And who is responsible for letting NICE know when there was an outage?
+
+(02:10:45)
+
+I think that is something that we need to be more specific about.
+
+(02:10:49)
+
+Going forward, and that will be part of our analysis. And I look forward to the root cause analysis. Thank you.
+
+(02:10:55)
+
+Thank you, Chair. Thank you, Councilmember Riley.
+
+(02:10:59)
+
+Thank you, Chair. Good afternoon, and thank you, Commissioner, for testifying and to the administration for coming out. I do not want to beat a dead drum — I know my colleagues have asked many questions and expressed their concerns. I share a lot of those concerns. I represent the Bronx and I know there were a lot of Bronx residents who were impacted by this outage. So I just wanted to speak about the backup systems, if there are any, when communication fails. Why did calls not automatically transfer from PSAC to the Brooklyn center?
+
+(02:11:33)
+
+Thank you for that question. While we do have monitoring in place and we have redundancies in place, the cutover does not happen...
+
+(02:11:42)
+
+...automatically for a situation like this, and that is something that we need to figure out and understand what we can put into place going forward.
+
+(02:11:55)
+
+What kind of backup system does the administration have in case this does happen again?
+
+(02:12:06)
+
+So there is one piece to which our fully redundant systems — each one has the capacity to individually manage every single emergency services call that might come in over the course of the day. So that is in place. There are additional redundancies within the architecture that are set up. I cannot get into too much of the details due to security concerns, but I will say additionally we have put remediation into place at the moment, which includes things like a daily change management call to understand what needs to go out. We are in a freeze state. We are also doing monitoring of recordings on a manual basis on an hourly basis. We have also been training with the call takers to try to make sure that the escalation process for something small like a dead air call is escalated and remediated immediately.
+
+(02:13:04)
+
+Well, thanks for that, Commissioner. I know CM Riley spoke about the NYPD calls that happened during this time. Is there any data on the FDNY calls that happened during this time as well?
+
+(02:13:22)
+
+Thank you for your question. I am sorry — can you just repeat that one more time? Out of the 1,700 affected calls that came in during the outage, is there any indication of how many of those were fire or medical emergencies? So the way that it works is we are the second seat in the dispatch process, so we would only know if the call actually came through to us. We had asked them to provide us with a list of people that originally called, had the issue, and then called back and were able to get through, and we are in the process of analyzing those calls. We just recently got it, so we are working on it. But we do not know specifically if there were any fires that took place. There were no active fires. Okay, thank you.
+
+(02:14:02)
+
+Okay, Commissioner, I apologize — I just want to, you know, ask you to educate me if I have this wrong. I found out about this outage from a news reporter. Typically when 911 calls are not being answered — I do not know about everyone else's district — I am pretty sure people contact our offices afterward, and we were not really notified about this. Is there any protocol that the administration has moving forward to alert members when these incidents are taking place, so we could figure out some ways that we can navigate some of these calls, if not all of them, to the proper agencies that they belong to?
+
+(02:14:37)
+
+Thank you, Commissioner. Councilmember, I really appreciate that question, and as we are thinking about the protocols for notifications — the criteria and then also who should be notified — I think that is something that we should explore further and we will definitely circle back with you on how we can make that most effective. Please utilize us as partners because we definitely want to make sure that we are addressing this with you.
+
+(02:15:01)
+
+Thank you so much for testifying.
+
+(02:15:03)
+
+Chair, thank you. Council Member Riley, Council Member Restler to close our first round and then we will go to the Chair for a second round.
+
+(02:15:09)
+
+Thank you so much, CM De La Rosa, and thank you for your tremendous leadership of the Committee on Technology. It is good to see you all. Thanks for joining us. I wanted to be here today because I was just so disturbed by the incident a few weeks ago — the shutdown of 911 call intake operations in the Bronx at one of our two PSACs has just enormous implications for our public safety and stability.
+
+While it appears that this was an issue that relates to a Motorola upgrade and it was their fault and responsibility, I really do hope and expect that we have better testing in place so that this never happens again — this type of outage that could have enormous public safety implications for us. I do want to follow up on CM Riley's questions from a moment ago around notifications. I can understand the sensitivity of publicizing the outage while it is occurring and that there needs to be some deliberate thought put into how and who you are communicating with in real time. But at the conclusion of the outage, to not reach out to stakeholders and have conversations and explain what is going on was alarming. It felt like there was an effort to kind of just shove it under the rug and not call attention to it because it was such an alarming and troubling incident.
+
+So I would love to just push on this question once again: do we have a commitment from this administration for more meaningful communication and coordination with stakeholders after — and I hope it does not, but if it does — occur relating to any 911 call center outages in the future?
+
+(02:16:56)
+
+Thank you for the question, Councilmember. Absolutely. As we are doing this analysis, we will try to make a list of all of the stakeholders who should be notified and make sure again what the criteria is when a notification happens, by what mechanism, and making sure that the appropriate stakeholders are informed.
+
+(02:17:22)
+
+And in your review with Motorola — and I am sure you have covered this at great length, so I will do it briefly and then ask one other question — in your review with Motorola, are you confident that we will not see further issues with any upcoming upgrades? Do we have new protocols in place for testing and redundancies to make sure that these incidents do not happen again when future upgrades are happening to our technology?
+
+(02:17:46)
+
+Thank you for the question. That is the crux of the issue that this root cause analysis is intended to address. We do have to explore the testing protocols, the monitoring protocols, the change management protocols, the communications — all of those things across the board. Today we are in a freeze state, meaning that only the most critical issues are actually being pushed, which means that there are things waiting in the wings until we can be really confident that as we are pushing things out, they will be successful.
+
+(02:18:19)
+
+And why did this impact the Bronx location and not downtown Brooklyn?
+
+(02:18:27)
+
+Thank you for the question, Councilmember. To be clear, each of the PSACs has different components. They both have a routing system — hardware — and they also have people, call takers. So when Motorola did the original push of the firmware to the production systems, they pushed it to the firewalls in the routing environment at PSAC 2 rather than PSAC 1. So when you do a rollout, you want to roll out one center at a time to make sure that the other one is unaffected. That was a deliberate effort to make sure that both centers would not potentially be impacted if there was an issue. Okay, that is helpful. Thank you. Call takers at both centers were able to handle calls throughout? Yes, I understood.
+
+(02:19:15)
+
+Okay, not entirely germane to the purpose of the hearing, but I have all of the relevant people here today so I am going to use my soapbox opportunity. I think that the PSAC 1 location is the wrong location. The idea of the MetroTech campus is for it to be a dynamic, integrated part of the downtown Brooklyn community, and the fact that we have PSAC there really closes off streets of downtown Brooklyn and makes it impossible for people to get around. We would welcome agencies having a presence in those locations and those MetroTech buildings, but I think it is the wrong spot for PSAC. I think that the location that was built in the eastern...
+
+(02:19:52)
+
+...Bronx makes a ton of sense and is unlikely to have a negative impact on surrounding neighborhoods. It is an additive benefit. In downtown Brooklyn, it really closes off an important part of a dynamic commercial hub. The MetroTech campus is one of the only real campuses we have in the heart of the economic hubs of New York City, and it should be vibrant. Instead, a third of it is fenced off because of the PSAC operations. I really think that we should reconsider it.
+
+(02:20:27)
+
+So I imagine none of you are going to say anything about that today and that you have never even entertained the idea, but I am making a push — it is starting right now — and I look forward to future conversations. Such a visionary. Okay, Chair.
+
+(02:20:46)
+
+Oh, we have been joined by my neighbor to the north, CM Dinowitz.
+
+(02:20:54)
+
+Thank you so much, my neighbor to the south. Thank you, Chair De La Rosa. I thank all my colleagues who have asked many questions. A few more questions on the previous outages — I guess I will start with the texting one that occurred. Can you repeat again what caused that outage?
+
+(02:21:17)
+
+I will defer to my colleague. That condition was caused by a side effect from a larger change that was happening within the environment, which was upgrading the entire text system after it had been live for approximately six years. And why did it take 110 minutes to resolve? The restoration process was time-consuming because there were so many different components that had to be reverted, so it took about 110 minutes to revert the entire system.
+
+(02:21:52)
+
+You mentioned earlier that there have been many — we could call them minor outages or minor glitches. Approximately how many of those have we had so far? Even an outage for, let us say, even a minute — how often has that happened? The minor ones.
+
+(02:22:07)
+
+I am sorry, I just want to make sure that I am understanding the question. So what I have indicated is that there are always bugs surfacing and technological issues that need to be addressed.
+
+(02:22:22)
+
+I do not believe, other than these two, that there have been any outages defined as impacting New Yorkers.
+
+(02:22:31)
+
+Okay, so the system — other than those two incidents — has not been out, not even for 10 seconds, to your knowledge? To my knowledge, and then in 2026? No. Okay.
+
+(02:22:50)
+
+Okay.
+
+(02:22:54)
+
+A few questions for the NYPD. Going back to that 6:00 a.m. notification and the 6:40 a.m. ticket — so you were the first to notify about potential issues, correct? That is correct. What were some of the issues that you experienced during that time? Can you repeat that again?
+
+(02:23:13)
+
+Yeah. Elizabeth can describe for you what a call taker experienced who flagged it.
+
+(02:23:18)
+
+One of our call takers experienced multiple calls in a short period of time with the same caller ID where they were unable to hear the caller on the other side. They also were told by...
+
+(02:23:32)
+
+...the person in the position next to them that they were told by a caller that they were unable to get through to 911 and were transferred to them.
+
+(02:23:43)
+
+Approximately how many calls did we receive that had that same result? Would you say more than 10, 20, 30? A ballpark.
+
+(02:24:00)
+
+I do not know. She is looking at it.
+
+(02:24:04)
+
+I will just say what I learned from speaking to the principal that reported this up the chain. Two separate call takers brought this to her attention. It was approximately 10 or 11 calls that they noticed they could not hear anything. Now, this is not completely unusual at a 911 center — if somebody is in a bad area for cell service, you can get through and not hear them, so it is not like this never happens. It only raised alarms because it happened several times in a short period of time. So those two call takers did exactly what they were supposed to do. They brought it to the principal who then ran it up the chain and notified. But that is how it all started. I hope I answered your question.
+
+(02:24:55)
+
+Yes, and how many callers again? So it was a few callers, many calls, but just a few...
+
+(02:25:00)
+
+...minutes. Do you have numbers yet? Let the...
+
+(02:25:03)
+
+Do you have larger numbers? Do you have them, Elizabeth?
+
+(02:25:07)
+
+From the start of the impact, and reviewing the data that we have today: from the start of the impact at 3:06 AM, there were 322 calls with one-way audio from that ten-digit number, and those were presented to 83 unique call takers. So as the chief mentioned, it did not feel out of the norm for our call takers until one call taker received many in a row and raised an alarm.
+
+(02:25:38)
+
+So I guess it is safe to say that by 6:00 AM we knew that it was not just alarm companies having some issues at that time.
+
+(02:25:49)
+
+The reported issue was with that same caller ID, which is... the response, the second...
+
+(02:26:02)
+
+Response to the second. At that time, the reported issue was with that same caller ID — that ten-digit alarm emergency number. OK.
+
+(02:26:13)
+
+Can you repeat again what...
+
+(02:26:14)
+
+Steps were taken to resolve the issue? So between starting at 6:00 AM, when there was a shoulder tap identifying the issues that the call takers were experiencing at those two positions, there were a number of elements looked at, including looking at hardware and headsets and all of those types of things. I do not know, Barbara, if you want to add any more color. So from the time that the initial issue was reported, the technical teams began troubleshooting those positions. Obviously there could be a number of technical problems that could be impacting audio conditions. Once they learned that there was an increase in volume of alarm calls, they started to triage what was believed to be an alarm auto-dialer, which is a common occurrence where they will continuously call in over and over again and there would be no audio. So they started the triage that it is an alarm company issue, and that is when Verizon was engaged for alarm routing.
+
+(02:27:36)
+
+Okay. How often do you update your systems? Would you say weekly, monthly, every year? And also, what type of update was this? Would you say this was a major update or just a minor one?
+
+(02:27:49)
+
+This would be considered, within the environment, a minor update. We do updates almost on a daily basis due to the scale of the environment. To give you an example of that: in calendar year 2025 we executed 2,800 changes within the environment without impact.
+
+(02:28:16)
+
+In what ways do you think the management of the 911 system can be improved? I think earlier you implied that there is a lot of room for improvement. What are some of the conversations that you have had on that? Is it having fewer people involved, fewer agencies and offices? Thank you for the...
+
+(02:28:33)
+
+Question, Council Member. Yes, as part of this deep dive we are looking at not just technical processes but also procedures, communications. We are looking at the governance structure and how a risk assessment should be evaluated.
+
+(02:28:56)
+
+I think that there are a number of factors that we are going to look at across the board. So it seems like we know that the system was out due to the fact that there were issues with people calling, and we noticed hours later. What systems do we have in place currently to let us know whether the systems we have are online or whether there is an outage?
+
+(02:29:19)
+
+Yes. Thank you for that question.
+
+(02:29:21)
+
+There are current monitoring systems at different levels of the infrastructure, and again I cannot get into too much detail on that because of security concerns. But in addition to the technological monitoring systems in place, all of the agencies are working together collaboratively.
+
+(02:29:40)
+
+To ensure that there are manual systems today that will be looking to try...
+
+(02:29:48)
+
+To capture any of these issues should they recur. So whether that is a manual hourly sampling of call recordings, we are working with the call takers to figure out what the right criteria is to escalate what I would term dead-air calls, and what the process should be to investigate them and deliver a substantiation of the issue. So there are a number of things that we are looking at. There are already some things that we have put into place in the interim, and then we also need to figure out the long-term strategy.
+
+(02:30:26)
+
+I have no more questions, but I just want to say we have a lot of work to do on this issue, including and especially on basic things — including notifying the public. When people have an emergency, when they are facing a fire or could potentially become the victim of an assault or any other crime, we told them to call 911, and every second counts as we all know. Not being notified, or us not even making a good faith effort to notify people about an outage in the 911 system, is just alarming. It is disturbing and not a good example of good government.
+
+I look forward to working on the notification part. I also just have to say, I know we have done a lot and I know this is on all of us as a City, but the fact that we would not even be able to tell whether calls are getting transferred to the Brooklyn center or the Bronx center is out — and also it seems like we do not even know whether there is an outage or not — it seems like we are just dealing with a really hot mess, which we have to give a lot of attention to. Thank you so much.
+
+(02:31:30)
+
+Thank you. Chair, CM Morano, followed by one...
+
+(02:31:33)
+
+Thank you, Chair. Commissioner, thank you for being so diligent with your answers. I know this has gone on a while, but obviously it is an important issue. I want to focus on something a little different. We have talked about what Motorola did. What I would like to understand is who independently verifies Motorola's account of what happened. Motorola is a major contractor on this system. Motorola performed the software change. They participated in diagnosing the problem. They helped restore the service. Is Motorola also participating in determining the root cause of the failure associated with its own change? If so, who is independently validating that conclusion for the City? Is there some sort of outside technical expert — the Comptroller, an Inspector General, Cyber Command, or really anybody without a financial relationship with Motorola — reviewing the underlying evidence?
+
+(02:32:34)
+
+Thank you for the question. Motorola is performing their own internal analysis as we speak. In terms of validating and vetting that — the answer I want to give is that at this point we are trying to figure out what happened, and how we manage such a major vendor and provider of service for us is something that we need to take a closer look at. We really need to understand that if they are going to be a managed service provider, they need to make sure that they are delivering to the standards that are required.
+
+(02:33:22)
+
+But particularly when the City has gone from paying them some 20-odd million dollars to around $80 million — they are benefiting from New York City taxpayers — I would think when a contractor has caused a failure involving 911, the contractor cannot be the only one grading its own homework. I guess my broader question, and this is particularly relevant a couple of days before the anniversary of September 11 where so much was written about and discussed regarding the radios that the firefighters were using: how dependent is the City on Motorola right now? If the City decided tomorrow that Motorola's performance was unacceptable, could we realistically replace them and how long would that take?
+
+(02:34:08)
+
+Thank you for that question. Motorola plays a big part not just in emergency services, not just in the 911 service, not just in Next Generation 911. They also have deeper ties into other services they deliver to us. It should never be said that we are tied into a vendor without having any kind of alternative options. So we are committing to ensure that the Motorola contracts say what they are going to deliver, that they can in fact deliver it on time, in a timely way, with a budget that stays consistent, and that it is reliable, safe and secure and everything stays up. We are definitely looking into that, and we should never be painting ourselves into a corner across the board where we are restricted to one vendor for life.
+
+(02:35:24)
+
+Could New York City operate and maintain this system tomorrow if Motorola suddenly stopped providing support? Yes or no? Thank you for the question. Today we are in a state where they are implementing Next Generation 911. Today we could not turn that off and pick that work up without having significant impact.
+
+(02:35:53)
+
+It is really helpful to have...
+
+(02:35:54)
+
+All these agencies here, because chances are somebody will have the answer to one of the questions that my colleagues and I are asking. But sometimes it can become difficult to know who is responsible. So just to make clear, I would like to know who actually owns responsibility inside City government when something like this happens. Obviously we have the NYPD, and then there is Motorola and Verizon. We have multiple layers of contractors and technical personnel. Who is the single City official who is ultimately accountable for the integrity of the 911 technology system — not who manages one component, but whose name is on the line when that system fails?
+
+(02:36:44)
+
+Thank you for the question. That is also something that we are needing to address today. The technology systems that run public safety emergency services across the board are a collaboration between multiple different agencies, with different agencies having different areas of responsibility. In terms of the Motorola contract specifically, that is... who manages that. Thank you, Sherif.
+
+(02:37:15)
+
+Thank you, Council Member. Thank you, Chair. Since you mentioned Next Generation 911, I did a little research. The original completion date of this new system was 2018, and then it slipped to 2024, then to 2025, and the latest I heard is that it will be done by the end of the summer this year, 2026. Is that something you can verify? What is causing this delay, and if there are more delays, how is that going to affect the system?
+
+(02:37:55)
+
+Yes. Thank you for the question. The current schedule for Next Generation 911 to be delivered is 2027. That is its current status. I will say I am new to the role of CTO of New York City, and part of what I am going to do — as I have done for several other programs that have been put into place — is take a hard look, given the delays that have already occurred, to understand what actually needs to still be implemented, how we can reliably hit the milestones that it is currently set to, and how to make sure it also stays up. So this is something I am going to take a...
+
+(02:38:44)
+
+Closer look at. Okay, thank you. My next question had to do with... it seemed to me that we needed an independent verification system. Hold...
+
+(02:38:58)
+
+On one second. I think... why is he out of the room? Quick bathroom break, I understand. Okay. Do you have another question? They will be right back. They went to the bathroom. Wait. Okay, now you have...
+
+(02:39:14)
+
+Another question. I mean, no... okay, I have some questions. Oh, there he...
+
+(02:39:17)
+
+Is. Okay. Right on time. My question is: is there an independent verification system from their own account, of course...
+
+(02:39:36)
+
+And like, whether there was a drop or what happened to those calls during the outage? Answered it? Sure. Thank you...
+
+(02:39:45)
+
+For your question. So we only get the calls after they are transferred to us. We have no direct visibility into calls coming directly into 911. So the only way we would know is if a call taker had answered the call and noted anyone that called had the problem, and then called back and were transferred to us and we are in...
+
+(02:40:09)
+
+The current... we are currently reviewing those...
+
+(02:40:12)
+
+Calls. Yes, and that needs to be part of this emergency plan. If it is down again, that will be the system you have to implement — a callback for those people who cannot get through. Thank you. Thank you. Thank you.
+
+(02:40:29)
+
+Okay, a few more questions from me. So in the testimony you testified that during the overnight hours of Monday, August 17 to Tuesday, August 18, Motorola performed a software upgrade that was deemed necessary and identified as routine to the routing environment located in PSAC. The testimony also states it is normal and intentional to apply updates to the hardware at PSAC. So my clarifying question is: was it a software update or a hardware update, because both are stated? Can you explain...
+
+(02:41:11)
+
+The difference? Yes. Thank you for the...
+
+(02:41:13)
+
+Question. Firewalls are physical pieces of hardware. They run software. So to actually make them operate, it is software that sits on top of machines, in the same way you have an OS on your computer. So in this case, software on the firewalls was updated. This was an update to firmware on the firewalls — so yes, firmware, software on the firewalls.
+
+(02:41:43)
+
+Okay, perfect. In your testimony you also mentioned Verizon, but previously I think Barbara... Barbara testified about the New York City public safety network, and there are articles that mention T-Mobile as a network provider for 911. So who is the provider? Is it on an independent server? What is the clarification there?
+
+(02:42:10)
+
+The E911 provider for New York City is Verizon. That is the old system that we are working our way out of. T-Mobile does not play a role in 911 call delivery within the City's infrastructure, so it is not a network provider — T-Mobile is not, for the City's 911 system. But obviously they provide 911 service to their customers by giving them the ability to contact New York City 911. And then Next Generation 911 is fully... Motorola is the primary core component to it as a Motorola managed network.
+
+(02:42:50)
+
+Okay. I have a few contract questions. So my colleagues have asked about the liability that Motorola has under the contract. What liability does Motorola have if its software, hardware, employees or subcontractors cause an interruption to the 911 service? I appreciate the question.
+
+(02:43:17)
+
+At this point, without having the full and complete root cause analysis, it would be premature to assign particular liability. But we will explore not just the analysis of what happened but also what any recourse is.
+
+(02:43:34)
+
+In terms of the contract, does the contract contain indemnification provisions applicable to an outage? Is there any type of language in it? So I cannot speak to the details of that, but what I will say is they are in fact required to provide a service level agreement. So I can address some things related to the contract. The contract includes terms that articulate contractor responsibilities and consequences for deficiencies and failures. However, our investigation is ongoing and it would be irresponsible to comment on the application of those contract terms at this time.
+
+(02:44:32)
+
+Okay. So knowing that the City is self-insured, would it be practical to impose a liability on the vendor in a contract? I am sorry — it would not be practical to what? To impose a liability on a vendor in the contract.
+
+(02:44:48)
+
+I appreciate the question. I think until we have the root cause analysis, we probably should not speak to the hypotheticals.
+
+(02:44:55)
+
+Does Motorola warrant anything concerning the software or hardware used in the 911 system in the contract? If so, what warranties are disclaimed...
+
+(02:45:04)
+
+And what protections remain available to the City? What I would like to do is, once we are through with the root cause analysis, we will be able to answer a lot more of these questions in detail and I would like to get back to you on some of these answers.
+
+(02:45:19)
+
+We will probably follow up with a letter just to have everything in writing, and then you can share it that way. Okay, we are going to ask a few questions about Cyber Command and cybersecurity, privacy and vendor security requirements. You previously testified in December 2022 that the New York City Cyber Command... I keep messing up your name. Barbara. Barbara. I am going to get it right.
+
+(02:45:49)
+
+You previously testified in December 2022 that the New York City Cyber Command plays a central role in protecting the 911 system. What is the New York City Cyber Command's current responsibility for the cybersecurity of the 911 infrastructure? Between the public safety team and the Cyber Command team, there is a joint effort in unified management of all the cybersecurity infrastructure and services within 911.
+
+(02:46:20)
+
+I would just add: as I mentioned, there is a steering committee and Cyber Command has a seat at that table. Okay.
+
+(02:46:38)
+
+Has Cyber Command issued cybersecurity requirements and protocols applicable to City vendors? What procedures does Motorola and its subcontractors comply with to meet those requirements?
+
+(02:46:59)
+
+Thank you for that question. Yes. It is our responsibility to make sure that any vendors — the software that they are creating for us as well as the hardware that they are putting into place — adheres to the strict requirements that we have from our own Cyber Command.
+
+(02:47:18)
+
+Has Cyber Command conducted cybersecurity audits, penetration testing, vulnerability assessments or other independent security reviews of the 911 systems? If so, what was the most recent review and were there any material vulnerabilities?
+
+(02:47:37)
+
+Identified. So there is a continuous monitoring activity between the public safety team and Cyber Command Security Operations Center that monitors the environment 24/7. There are specific requirements around system implementation that have to meet very stringent standards. That includes penetration testing and vulnerability assessments, and those are repeated within the environment from a vulnerability detection standpoint on an ongoing basis.
+
+(02:48:11)
+
+Ongoing? Yeah. As Next Gen 9-1-1 begins accepting photographs, videos, text messages, precise location information and potentially other digital data, what policies will govern access, retention, sharing and deletion of this information?
+
+(02:48:30)
+
+Thank you for the question. I think we will... unless you happen to know the answer. I think we need to circle back with you because I do think, again, we also have the...
+
+(02:48:44)
+
+Office of Privacy involved as well, and so ensuring that whatever we roll out with Next Gen 9-1-1 also adheres to that. I do not have that answer in front of me. With this phase of Next Gen 9-1-1, those functions will not be implemented. That is in the next phase to come, and we would have to do a complete assessment to find out what the legal requirements are from a retention and evidence retention standpoint. We work with the agencies that determine that.
+
+(02:49:20)
+
+Okay. Thank you. Shifting a little bit: on predictive analytics, in 2025 the City's Deputy Commissioner for Public Safety and Emergency Services discussed projects involving...
+
+(02:49:33)
+
+...location services and predictive analysis to help determine where first responders should be staged based on anticipated 9-1-1 demand. What is the current status of that initiative?
+
+(02:49:44)
+
+I believe you are referencing the Next Gen 9-1-1 Phase Two program. Due to the ongoing extension of the Next Gen 9-1-1 call handling program, the Phase Two program has not started to a point where we have an executive strategy. We are working now to prioritize items of how we will address them. The priority will be addressing any remaining items from the main phase of Next Gen 9-1-1, with those additional features yet to...
+
+(02:50:14)
+
+...come. So that has not started yet.
+
+(02:50:19)
+
+And again, I would just say that until we have Phase One buttoned up and we know when it actually can roll out in a way that is safe and secure, I think also at that point we will take a closer look at what features and additions do make sense, who they are serving, what problem they are solving, and again making sure that they are safe and secure across the board. So I would just say I think we are going to have to retake a final look at whatever the previous plans were.
+
+(02:50:45)
+
+Okay. Thank you for that answer. What does your office mean by predictive analysis in this context? What information is being analyzed, what predictions are being generated, and how are those predictions used operationally in terms of this initiative?
+
+(02:51:03)
+
+I would say that it is part of Phase Two, so I cannot speak to a lot of the details and I think we need to revisit to make sure that whatever it is that we are building at that time is correct. Okay.
+
+(02:51:16)
+
+Thank you for that. We will have more on that later on. I want to ask about Motorola. Motorola has announced various AI-enabled public safety capabilities. Has the City implemented, tested or contracted for any AI-enabled Motorola functionality within the 9-1-1 system?
+
+Thank you for the question. The Motorola capability that I believe you are referencing is dependent on Next Gen 9-1-1. So until Next Gen 9-1-1 rolls out, there is not even the possibility for any AI. And again, it is not part of Phase One. As we look at what being on Next Gen 9-1-1 gives us in terms of features and assets, then we can explore and examine what makes sense to add in and to augment the system with.
+
+Thank you. Obviously we will get more into Next Gen later on. One final question from me: we sent a letter — the Committee sent a letter on April 28 with a list of questions related to New York City data privacy and practices, and today is September 9. Do you know when we should anticipate a response? The letter was around data privacy, facial recognition data and biometric data governance.
+
+(02:52:49)
+
+Thank you for the question. Do you want me to say probably soon? It is under review. Okay.
+
+(02:53:00)
+
+All right. We always leave with homework. Okay, this last question. We just wanted to ask on behalf of CM Gutiérrez. As you know, we passed Local Law 188 of 2025 establishing the Office of Algorithmic Accountability. The office would be responsible for working toward transparency and accountability. Where are you in the process and how many people will be working in this office? Thank you.
+
+(02:53:36)
+
+Thank you for the question. The Fiscal Year 27 budget included, I believe, six lines specifically assigned to the Office of Algorithmic Accountability, and we are in the process of the hiring phase and defining how the office is going to be set up, as well as actually sourcing candidates that we can hire. We are targeting that milestone by the end of the year. Okay. And sorry, I keep saying...
+
+(02:54:19)
+
+...the last question, but there is one more. There is a question that came to us. Within the time frame of the outage, there was a call — a caller said they could not reach 9-1-1 and the call was forwarded to 3-1-1. Can you expand on why that call was switched over to 3-1-1 and at what time did that happen?
+
+(02:54:54)
+
+I will defer — it was from NYPD. Okay, that makes more sense. I will defer to my colleague.
+
+(02:55:03)
+
+NYPD: yes, Council Member. That was part of the initial notification around 6 a.m. In addition to the calls with no audio, one of the call takers was informed by a caller — which I believe was an alarm company — that they could not get through to 9-1-1 and had called 3-1-1, which transferred it over to us. Okay, which is standard...
+
+(02:55:27)
+
+...standard. Okay. Everyone can do that if they get a call that should be going to 9-1-1. Okay, got it. All right, so that clarifies it. All right.
+
+(02:55:38)
+
+Yeah, I just have three final questions. The first one is: based on your conversations, just curious — what does Motorola think about all of this? Was this preventable or inevitable every once every...
+
+(02:55:54)
+
+...few years? I appreciate the question. We are in active conversations with Motorola. We need to understand what the root causes of the issue were, what things can be remediated both on their end as well as on ours. It is an ongoing conversation and once we have a better sense of what needs to be changed going forward, we will be able to speak more to that.
+
+(02:56:30)
+
+All right. And also, going back to the 6 a.m. notice from the NYPD — the NYPD noted that there were some calls having some issues. At what point do we determine whether it is just a minor issue or a bigger systemic issue when you are facing issues with calls? Do you have any policies in place for that? I appreciate the...
+
+(02:56:55)
+
+...question. I think every issue that has surfaced is taken very seriously and looked at with all due haste. In a system that has so many moving pieces, it can take some time to diagnose the source of the issue. But there is no question that every issue is looked at and taken very seriously.
+
+(02:57:31)
+
+The outage — the mass texting outage — how long did it take for you and your team to detect that outage? So it took 110 minutes to resolve it. How quickly were you able to detect it once the conditions started? They knew within a few minutes. Within a few minutes. Okay.
+
+(02:57:59)
+
+Okay. I think that pretty much concludes the questions. Thank you. I want to thank the panel. As honestly as we can say, we understand the complexities of this system. We also understand the urgency of getting this right and we are looking forward to working with each of you to make sure that we can get this right. The Committee will be putting together a letter in collaboration with the rest of the chairs to get some answers that we were not able to receive today. We are looking forward to seeing the rest of the root cause report and digging deeper into Next Gen 9-1-1 and everything that comes along with that.
+
+(02:58:47)
+
+For us, this urgency is not so much an "I got you" moment. It is more about how we can make sure that when someone is in the worst moment of their life and is calling 9-1-1, there is a system in place that guarantees that the New Yorker will get help. We are looking forward to collaborating with you all. I think the Council Members have given good feedback about public notification as something that we should reconsider, and some of the qualifications and markers that are needed in order to prevent this from happening in the future. So we are looking forward to continuing to work with all of you. Thank you. The panel is dismissed.
+
+I also want to take a moment to thank CM Feliz, Chair Brewer, and also Morano and Wong, who stood here almost the entire time for this hearing. We are looking forward to continuing this conversation. Thank you for coming today.
+
+I now open the hearing for public testimony. I remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. As such, members of the public should remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Furthermore, members of the public may not present audio or video recordings as testimony but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait to be recognized.
+
+When recognized, you have three minutes to speak on today's hearing topic on examining 9-1-1 emergency system outages. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy to the Sergeant at Arms. You may also email written testimony to testimony at council.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted. I now welcome Jordan and Beverly Blumenville. Sorry — Beverly Blumenville.
+
+(03:01:17)
+
+Jordan, when you are ready, you may begin. Thank you, Chairs. My name is Jordan Rosenthal and I am the Director of Advocacy at Community Access, which is a supportive housing nonprofit. I also lead a coalition called Correct Crisis Intervention Today, which specializes in getting the City to fix the B-HEARD program and make it as effective as possible.
+
+I am here today to talk specifically about the need to have an independent 9-1-1. I know that this is a little tangential to what we are talking about, but since we are discussing strengths and weaknesses of our 9-1-1 system, I really think it is something that we need to be looking at.
+
+I am advocating that our City's 9-1-1 system be fully independent of the New York Police Department. This change will strengthen our crisis system by allowing more opportunities for specialized response options like B-HEARD to be deployed and reduce the likelihood of unnecessary and often harmful responses to mental health calls. The New York City Police Department has already been asked to do too much, and this advocacy is intended to reduce burdens and improve outcomes. Across the country, unarmed, highly trained crisis responders are showing up to mental health and behavioral health calls, substance use crises, neighbor disputes and welfare checks, and doing so safely in ways that their communities actually want. This idea is not revolutionary. Seattle voted on this in 2021 and earlier this year in 2026, Austin City Council did the same.
+
+Additionally, Rebecca... I always butcher her last name, so apologies — who is the premier 9-1-1 expert in the country out of the University of Chicago Health Lab, wrote a whole report about reforming 9-1-1. One of their key recommendations — number six on the list — is that 9-1-1 departments need to be equal and separate from police and other entities. Specifically, what the authors argue is that it is practically and politically difficult when emergency communication centers are in a subordinate position to the police department. We kind of saw this a little bit today, like the Spider-Man meme of pointing to each other, saying "oh, that is NYPD." It would have been a lot clearer in communications about what happened and who needed to know about this emergency if it was under one roof.
+
+So with that, you can read my testimony, but the gist of it is that we should be really looking at best practices to have the strongest 9-1-1 center, and that means it needs to be independent and equal to that of NYPD et cetera. Too many cooks in the kitchen. Thank you for your testimony.
+
+(03:04:13)
+
+Hello. Good morning. My name is Michelle Blumenville. I am a health and fitness educator for 40 years, a former adjunct at Elmira University for over 15 years, a former instructor at Fashion Institute of Technology, and a trainer at American Red Cross for over 20 years. Thank you for your service in these difficult times.
+
+I am speaking on behalf of everyday people who are Havana Syndrome or anomalous health incident victims, some knowingly and others unknowingly, with the glaring awareness of the benefits afforded our diplomatic counterparts in helping American victims affected by neurological attacks. The Havana Act of 2021 — we certainly hope for the notion that one day we will be free of torture, pain, invisibility and the weaponization of technology. Havana Syndrome includes remote access to the biology of the human being. Everyday people Havana Syndrome victims are comprised of diagnosed public citizens who have been unlawfully experimented on and who have endured targeting in various nefarious manners. These heinous crimes include but are not limited to organized stalking campaigns, noise harassment, electronic assault from directed energy weapons, non-consensual human experimentation, and social and technological experimentation such as brain-computer interfacing, Bluetooth technology and AI. They are put on a legal list unknowingly that is distributed to various agencies for this experimentation for vindictive reasons, technological research and political harassment.
+
+We would like to thank the committees and the elected officials for putting into place those laws that have addressed the harassment issue. We would also like to thank the Committee for the new laws and new introductions such as the bill and the ban on preventing businesses from using our biometrics without our consent and support. While each step is a step in the right direction, there is so much more that needs to be done.
+
+We would propose a Havana Syndrome awareness day, like the proclamation in the City of Ventura, California, and an implementation of a protocol for 3-1-1 participation when Havana Syndrome victims call — for example, resources and support groups like PACTS International, run by Derek Robinson, or anything that would help a Havana Syndrome victim. We would also like 9-1-1 participation in reporting and scanning. We would also like a meeting to discuss this. Thank you for your...
+
+(03:07:29)
+
+...testimony today. I have one question for Jordan. In terms of the study you cited, can you repeat the study that you cited? Yeah...
+
+(03:07:39)
+
+I am happy to. I also submitted this digitally when I signed up, so you have the links. But basically, the University of Chicago has something called the Health Lab. There is this woman — I am sorry, I butcher her last name all the time and I am about to have her on a panel, which is such bad manners of me — Rebecca Neustadter, and her book is coming out next week. It is called 9-1-1. It is about the history of 9-1-1 and also all of the reforms, and it has its own website. I am happy to also connect the Council to Rebecca herself.
+
+One other thing I will say, which is a little tangential but connected: Amy Barden, who is the Chief of CARE in Seattle — which is the entity that is the independent 9-1-1 — is an amazing resource. I am happy to also connect the Council to Chief Barden, who has said this to me before: "I did not want to be a chief, but they told me I needed to be a chief so I am equal to" — or in their case, Seattle Fire and Police. So happy to connect...
+
+(03:08:52)
+
+...resources. Great. Thank you so much. The panel is dismissed. Thank you for your testimony today. I want to call Choudhry...
+
+(03:09:10)
+
+Hassan Mahmoud, who is registered on Zoom. Do you want to... she says she wants to sign in. Choudhry Hassan Mahmoud, are you on Zoom? Okay. It seems like Mahmoud is not here. Is she testifying as well? Oh, separately? I am sorry about that. I thought it was just...
+
+(03:09:41)
+
+Okay. One more testimony.
+
+(03:09:42)
+
+Sorry about that. Thank you for taking my testimony. My name is Beverly Loan and Will. I have worked at Chase Manhattan Bank for most of my life until retirement as a technology analyst, as an IT. I worked on the Y2K, making sure the technology was in compliance for entry into the year 2000. Fast forward to my retirement, I now find myself being experimented on. They move various technologies and I am tortured 24 hours randomly, seven days a week, at the mercy of whoever has access to my biometrics. I am asking for advocacy and support to protect my rights. Thank you for your consideration. Beverly Blonde. Thank you.
+
+(03:10:48)
+
+So much for your testimony. Thank you. Okay, see if there is...
+
+(03:11:01)
+
+No one else left to testify. I want to thank everyone for coming out to today's very important and urgent hearing. I want to once again thank Chair Ariola, Joann Ariola and Brewer for their collaboration and their leadership on this issue. We are looking forward to continuing to dig in with that. This hearing...
