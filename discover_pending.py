@@ -295,9 +295,21 @@ def local_pending_branch_event_ids() -> set[str]:
 
 
 def should_skip(event: dict) -> str | None:
-    """Return a one-word skip reason, or None if the event should proceed."""
-    if not (event["has_agenda"] and event["has_video"]):
-        return "no-agenda-or-video"
+    """Return a one-word skip reason, or None if the event should proceed.
+
+    Order matters for the tally, not for the outcome. Date, body and VOTE
+    marker are all tested *before* agenda/video presence so that the
+    missing-recording labels describe only events that would otherwise have
+    been published. Testing presence first lumped future meetings (no
+    recording yet, legitimately) and vote-only sessions in with genuine
+    gaps, inflating one opaque bucket roughly twofold and making it
+    impossible to tell from the log which half was missing. That ambiguity
+    kept a non-existent "Viebit detection miss" open across three sessions;
+    checked against Viebit's catalogue on 2026-09-13, real misses over a
+    three-month window numbered zero.
+
+    Every branch still returns a skip, so which events proceed is unchanged.
+    """
     if not event["event_date"]:
         return "no-date"
     try:
@@ -311,6 +323,12 @@ def should_skip(event: dict) -> str | None:
         return "stated/executive"
     if event["location_em"].strip().upper().startswith(VOTE_ONLY_EM_MARKER):
         return "vote-only"
+    if not event["has_agenda"] and not event["has_video"]:
+        return "no-agenda-or-video"
+    if not event["has_agenda"]:
+        return "no-agenda"
+    if not event["has_video"]:
+        return "no-video"
     return None
 
 
