@@ -17,37 +17,59 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 840",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393463&GUID=23E9A9BB-243D-4720-B562-23A10E14CC2F"
   },
   {
    "label": "Int. No. 840",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393464&GUID=D7F8E11A-EEC1-4603-9894-A6A3AB901C68"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393467&GUID=76DF947E-033D-4B0E-A1DD-EFDA543B8F20"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395151&GUID=097B8C31-5EC5-432C-A581-285C9D8DD048"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508423&GUID=4E2AA647-F701-4524-B931-8473EF5E275E"
   },
   {
    "label": "Committee Report 6/15/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581435&GUID=5C65AA71-55B1-4D99-B457-9941156E6FA7"
   },
   {
    "label": "Fiscal Impact Statement- City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584103&GUID=70E8AD67-53C1-46ED-A34C-A49B35E3C916"
   },
   {
    "label": "Hearing Testimony 6/15/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646480&GUID=78618E5D-BB1F-4399-9837-CCAA14450938"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget (OMB) did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement- City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584103&GUID=70E8AD67-53C1-46ED-A34C-A49B35E3C916"
+ },
  "history": [
   {
    "date": "2026-06-15",

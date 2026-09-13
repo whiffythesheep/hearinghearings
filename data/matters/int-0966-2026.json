@@ -13,49 +13,82 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 966",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15659502&GUID=46586E48-0C88-4A04-B82F-8BA8572E81C7"
   },
   {
    "label": "Int. No. 966",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15659501&GUID=A5314F6B-3E01-40C7-857D-C7D50FAE5F42"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660197&GUID=4F12565E-A96F-47EB-8B45-91D6FDFA7093"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660142&GUID=BBDE12D6-42D4-4828-B88D-DC06C8C7D2B1"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660198&GUID=066D827C-5B79-48B1-B1D5-59BF9655FBDF"
   },
   {
    "label": "Message of Necessity",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660236&GUID=464604E7-C601-467D-9935-32F7AA135A09"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660634&GUID=392A3F27-CD72-409A-8346-6DA581D529CC"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665049&GUID=84483475-D2C8-4425-9CC6-648FFD03E4EA"
   },
   {
    "label": "Local Law 126",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15789690&GUID=6E643CBB-F740-4D47-A792-8711C0FC84FB"
   },
   {
    "label": "Int. No. 966 (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15789691&GUID=A5485F58-D7D0-492F-8687-C6C59BE9EC93"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849114&GUID=274C3FC3-2B34-41DE-90C9-1624ADEDB377"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 175000000,
+   "succeeding": 125000000,
+   "full": 175000000
+  },
+  "net": {
+   "effective": -175000000,
+   "succeeding": -125000000,
+   "full": -175000000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660142&GUID=BBDE12D6-42D4-4828-B88D-DC06C8C7D2B1"
+ },
  "history": [
   {
    "date": "2026-07-31",

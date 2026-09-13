@@ -27,29 +27,36 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 367",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15258733&GUID=BA13860D-48F8-4A9F-9F36-F95D52C1E2BA"
   },
   {
    "label": "Int. No. 367",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15258734&GUID=B8F1CA7F-3E5E-4BA2-9523-80EC68855FE9"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251799&GUID=C54B3BDE-5101-4FA0-B5B7-E2841C01AF8F"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252491&GUID=CDA03AAE-57D8-4277-A53E-0D8301ED0357"
   },
   {
    "label": "Committee Report 7/1/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15658235&GUID=39928A57-3A71-48F1-BBEA-9872A6D1D6CC"
   },
   {
    "label": "Hearing Testimony 7/1/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15685490&GUID=D45226ED-3BD5-47DE-88C3-5CE8212D3D9F"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-01",

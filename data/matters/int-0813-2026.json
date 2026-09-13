@@ -36,61 +36,97 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 813-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15828094&GUID=460C4226-47A8-44AF-9A39-58F505CA08F1"
   },
   {
    "label": "Summary of Int. No. 813",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393162&GUID=1E5D7064-465C-4FD7-8702-F2F3BCDF60A5"
   },
   {
    "label": "Int. No. 813",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393161&GUID=49D15F79-428E-4B2D-913E-4A09E86F0E99"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393163&GUID=A58547DF-5FB8-4A76-A3E7-34ED5E6E58DB"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395118&GUID=71EF1B7F-EF64-410A-81DE-23C936166A4B"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508391&GUID=97F73CCF-0936-4904-A899-3037A3871FA8"
   },
   {
    "label": "Committee Report 6/17/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589654&GUID=461758DC-229A-4F23-BECA-0A622647C811"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589663&GUID=B53A14E9-57FC-4B8B-8804-B6E421975A62"
   },
   {
    "label": "Hearing Testimony 6/17/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657309&GUID=597E1A97-2436-4A3B-BEFE-2CC0CC95649D"
   },
   {
    "label": "Proposed Int. No. 813-A - 9/3/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15828091&GUID=C037C8FA-E187-4461-A700-2C82CD7EABF2"
   },
   {
    "label": "Proposed Int. No. 813-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836127&GUID=8FF61E7B-D741-4909-BE32-47092AD5BD8C"
   },
   {
    "label": "Committee Report 9/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837730&GUID=CFAE066A-B973-4508-B30F-3D0FBB6D31D1"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845096&GUID=BE571D0F-37A9-4865-8CA3-930BC81925CF"
   },
   {
    "label": "Int. No. 803-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845097&GUID=1F915494-03CF-492D-9D8B-C5AF3AA8B438"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 140625,
+   "succeeding": 187500,
+   "full": 187500
+  },
+  "net": {
+   "effective": -140625,
+   "succeeding": -187500,
+   "full": -187500
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 813-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836127&GUID=8FF61E7B-D741-4909-BE32-47092AD5BD8C"
+ },
  "history": [
   {
    "date": "2026-09-10",

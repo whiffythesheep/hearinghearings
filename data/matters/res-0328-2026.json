@@ -13,25 +13,31 @@
  "attachments": [
   {
    "label": "Res. No. 328",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15268233&GUID=FF2D8E46-7201-45E9-A41E-ADB59C4A983C"
   },
   {
    "label": "February 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15269103&GUID=A39FEC1B-EACC-4ABB-AF4A-C3010F243EF6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-24-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15348196&GUID=80E59ECD-EA68-4513-BC03-783CFED3432D"
   },
   {
    "label": "Committee Report 6/8/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15556384&GUID=FF02B91A-94E0-4060-AA20-351054AB41FC"
   },
   {
    "label": "Hearing Testimony 6/8/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584982&GUID=1ED1536C-6F2A-41D0-8923-3A62D5002D8B"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-08",

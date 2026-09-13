@@ -12,81 +12,101 @@
  "attachments": [
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495509&GUID=871EB9F5-BAEC-48EF-B0D0-E00F42CC1EC2"
   },
   {
    "label": "Monitor Point Presentation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15506346&GUID=77C706CB-ACEA-40B9-90F0-2BFE52A51EB0"
   },
   {
    "label": "Hearing Testimony - Zoning 5/27/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550204&GUID=378B2E82-0FB6-4C2D-975C-A0E3270F6BE3"
   },
   {
    "label": "Hearing Testimony - Zoning 5/27/26 - Save the Inlet",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550209&GUID=3807D5F4-0FE1-4A12-8154-D5A08C931430"
   },
   {
    "label": "Petitions & Support Letters (1of2) - Zoning 5/27/26",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547542&GUID=E56F4BA8-7D08-4F2B-AA84-160F19856D98"
   },
   {
    "label": "Petitions & Support Letters (2of2) - Zoning 5/27/26",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547656&GUID=2FC71C64-BA15-41AE-8581-EA1478C89284"
   },
   {
    "label": "Appearance Cards - Zoning 5/27/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15510813&GUID=A1533B06-245D-41D3-A157-AFD8F102E58C"
   },
   {
    "label": "Hearing Transcript - Zoning 5/27/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15831211&GUID=DB878B2B-317E-4C97-B6E4-C42F26D62DA9"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548254&GUID=6D07B742-0C66-4BD0-8BD1-3715CDF5E46A"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - June 25, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647606&GUID=11F97A80-6167-4164-BD76-DBCE0D75BCE9"
   },
   {
    "label": "Hearing Transcript - Zoning 6/25/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841673&GUID=BAB48D01-65F5-4D2A-8078-A782FC8EB921"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665052&GUID=1DA0DFEB-8792-472C-9EC0-80DA7216808F"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15693049&GUID=56A2BE99-01C7-4821-B8AD-E18A31F5328D"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699355&GUID=25D78F89-96A8-4B80-A953-F36AA003FAF4"
   },
   {
    "label": "Res. No. 583",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657362&GUID=0E38B7DD-7122-4F6A-BF33-ABE6EB7123F1"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699760&GUID=5B50BBD1-3861-4421-9026-2B308B13A287"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720783&GUID=25774D90-EF4A-4208-BF81-09C63341BB0E"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849016&GUID=F608CB99-2BA6-4C31-9BD3-41FC7F5AF388"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849117&GUID=D5E0E642-35F0-48C6-B29C-CEF91E20A7C5"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-16",

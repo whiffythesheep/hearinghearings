@@ -17,33 +17,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 854",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15356180&GUID=9DC182B1-2A1F-4CA4-89F5-54ED34610A19"
   },
   {
    "label": "Int. No. 854",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15356177&GUID=80C55B3E-DD59-4411-B405-DCB08108D084"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15373996&GUID=669EA742-7F31-4E36-B2D9-EE2AEC790E80"
   },
   {
    "label": "Committee Report 4/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15382708&GUID=6E244EF0-C99E-418B-B0A7-CC4428784874"
   },
   {
    "label": "Hearing Testimony 4/13/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419860&GUID=A7B3A872-A50E-4494-9BB4-6B2E8078C473"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395171&GUID=7CB6F27E-A513-469A-92EA-1BAB3AF089BE"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508443&GUID=D9EDDC60-E574-47C3-8E19-A3A977E21BEB"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15373996&GUID=669EA742-7F31-4E36-B2D9-EE2AEC790E80"
+ },
  "history": [
   {
    "date": "2026-04-16",

@@ -21,21 +21,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 957",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662383&GUID=3457BAB4-3561-4900-AF5A-634A22FD34DE"
   },
   {
    "label": "Int. No. 957",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662384&GUID=9B2D5149-8E2F-4F8D-9E89-7263AA97E79E"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664765&GUID=22AA6284-51E1-423A-93E6-5623A68699C8"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849066&GUID=6D953266-28DB-4CF1-8F5F-E53907B26C28"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

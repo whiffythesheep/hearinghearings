@@ -10,21 +10,26 @@
  "attachments": [
   {
    "label": "Department of Consumer and Worker Protection",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15325372&GUID=AC0C2E15-9851-48B8-B2C7-D5B56D1C2885"
   },
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15335903&GUID=51B9636D-B98B-4FC3-A5A0-F784AEC702E0"
   },
   {
    "label": "Appearance Cards",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15335904&GUID=7C2DEA17-EAB0-426E-ADED-C3863133F9FA"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495900&GUID=78ECD94B-F59F-4331-98F0-A800D1199F5A"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-03-19",

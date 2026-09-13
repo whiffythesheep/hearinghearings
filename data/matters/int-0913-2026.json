@@ -22,65 +22,102 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 913-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15686697&GUID=0F7F59BD-9650-43E1-B172-78CA935A1453"
   },
   {
    "label": "Summary of Int. No. 913",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15492009&GUID=AECFB243-D15F-4168-8484-7283A8C7D60E"
   },
   {
    "label": "Int. No. 913",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15492008&GUID=A20923A9-DC2B-4E10-9B4A-6A1B5D273282"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547970&GUID=7D41B06D-C5BB-4526-BE81-D2116D68C117"
   },
   {
    "label": "May 20, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748474&GUID=568A6419-C347-4367-817C-BFBB4CD5DDC2"
   },
   {
    "label": "Committee Report 6/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567883&GUID=5B3D846F-B30A-4FA3-9DB9-DB0AA104A81E"
   },
   {
    "label": "Hearing Testimony 6/10/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646430&GUID=8FE119A9-ED51-48B8-B639-A362C87C5A19"
   },
   {
    "label": "Hearing Transcript 6/10/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811993&GUID=080173AA-477B-4E63-AA19-679C25A205BF"
   },
   {
    "label": "Proposed Int. No. 913-A - 7/10/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15685493&GUID=938CBB80-BDF1-440A-BD7B-21A1176FE82F"
   },
   {
    "label": "Proposed Int. No. 913-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692530&GUID=939D81A4-88BF-44A5-A83D-DAA93EA56A1F"
   },
   {
    "label": "Committee Report 7/16/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15693015&GUID=5A5D6DFA-3422-4AA2-ABE3-1BB63025621F"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695790&GUID=3128A8B0-78F6-4C29-AD4A-71DF2524DEA0"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699754&GUID=1559E9FB-25B3-426C-A330-E9F0596C268B"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720777&GUID=3B898B75-98E4-47F1-9812-B0467AB53F75"
   },
   {
    "label": "Int. No. 913-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15728705&GUID=3AF31BF0-7102-4350-99A6-CFBA4A986DA2"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 913-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692530&GUID=939D81A4-88BF-44A5-A83D-DAA93EA56A1F"
+ },
  "history": [
   {
    "date": "2026-08-18",

@@ -23,41 +23,51 @@
  "attachments": [
   {
    "label": "Res. No. 82",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15257464&GUID=563DCD21-2AC0-428A-95AE-62131B0E0ECA"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251582&GUID=C83EA5C1-E623-47B6-887C-81E7C7D25128"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252277&GUID=6232FA86-C272-4772-9005-DF214DF931E5"
   },
   {
    "label": "Committee Report 5/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15470978&GUID=182E8066-13B7-4C6E-9E61-2ED685BD82ED"
   },
   {
    "label": "Hearing Testimony 5/13/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15497388&GUID=BA79FB6A-E164-4B53-9A45-366B2D8DD5D5"
   },
   {
    "label": "Hearing Transcript 5/13/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15499858&GUID=3CE2025D-045D-45F2-B392-1AB98529C942"
   },
   {
    "label": "Proposed Res. No. 82-A - 9/9/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15838414&GUID=E777326D-B281-4F75-BF69-BA1F8EA20D59"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15839920&GUID=998FEA50-8A11-49D2-88D5-FC43CA17E2F3"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847456&GUID=0AFE3FE7-5222-428C-B3B0-EFB3812C9B93"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

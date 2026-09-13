@@ -21,25 +21,31 @@
  "attachments": [
   {
    "label": "Res. No. 6",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160330&GUID=DC621745-6470-40E5-A86F-AB170910DF9C"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251330&GUID=7F95B657-7773-4FB9-8EF8-C5A49DF7AACA"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252025&GUID=133A49BD-9832-4E25-B357-6EB57E3F9BDE"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15839919&GUID=0FFAAB32-8898-44EF-85C8-F4E419D86A69"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847454&GUID=3310324F-C3B9-41FB-9E0E-254F1E08A65A"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

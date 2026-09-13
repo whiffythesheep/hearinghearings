@@ -10,21 +10,26 @@
  "attachments": [
   {
    "label": "Department of Education",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15562660&GUID=8A25FDA8-E67C-4939-80A9-D1BA90A6F50D"
   },
   {
    "label": "NYC Public Schools - Kamar H. Samuels",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15566736&GUID=1F4EB56B-977B-48B9-9C2A-AF61DC493C59"
   },
   {
    "label": "Appearance Cards",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15566737&GUID=F5ACDF55-10D6-46EA-8477-DE316B426FA9"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841714&GUID=D4742C2A-A3E7-43F0-A52B-CC778362ACA5"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-08",

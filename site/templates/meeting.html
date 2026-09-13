@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Meeting Record{% endblock %}
+
+{% block content %}
+<a href="/meetings/" class="back-link">← All meetings</a>
+
+<article class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">{{ meeting.kind }} session</p>
+        <h1>{{ meeting.body }}</h1>
+        <div class="record-meta">
+            <time datetime="{{ meeting.date }}">{{ meeting.date_display }}</time>
+            {% if meeting.location %}
+            <span class="meta-sep">·</span>
+            <span>{{ meeting.location }}</span>
+            {% endif %}
+            <span class="meta-sep">·</span>
+            <span>{{ meeting['items'] | length }} item{{ '' if meeting['items'] | length == 1 else 's' }}</span>
+            {% if meeting.voted_items %}
+            <span class="meta-sep">·</span>
+            <span>{{ meeting.voted_items | length }} roll call{{ '' if meeting.voted_items | length == 1 else 's' }}</span>
+            {% endif %}
+            {% if meeting.council_url %}
+            <span class="meta-sep">·</span>
+            <a href="{{ meeting.council_url }}" class="council-link">View on council.nyc.gov ↗</a>
+            {% endif %}
+        </div>
+        <p class="record-note">A record of what was decided, taken from Legistar. This meeting has no
+            written summary — no transcript was published for it.</p>
+    </header>
+
+    {% if meeting['items'] %}
+    <section class="record-section">
+        <h2>Items</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+                <tbody>
+                {% for item in meeting['items'] %}
+                    <tr>
+                        <td class="num">
+                            {%- if item.matter_slug -%}
+                            <a href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>
+                            {%- else -%}{{ item.file_number }}{%- endif -%}
+                        </td>
+                        <td>{{ item.name }}</td>
+                        <td>{{ item.action or "—" }}</td>
+                        <td>{% if item.result %}<span class="result result--{{ item.result | lower }}">{{ item.result }}</span>{% else %}—{% endif %}</td>
+                        <td class="num">
+                            {%- if item.tally -%}
+                                {{ item.tally.get('Affirmative', 0) }}–{{ item.tally.get('Negative', 0) }}
+                            {%- else -%}—{%- endif -%}
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+
+    {% for item in meeting.voted_items %}
+    <section class="record-section">
+        <h2>Roll call — {{ item.file_number }}</h2>
+        <p class="record-note">{{ item.name }}{% if item.action %} · {{ item.action }}{% endif %}</p>
+        <ul class="rollcall">
+        {% for v in item.roll_call %}
+            <li class="rollcall-row">
+                <span class="rollcall-name">{{ v.name }}</span>
+                <span class="vote vote--{{ v.vote | lower }}">{{ v.vote }}</span>
+            </li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endfor %}
+</article>
+{% endblock %}

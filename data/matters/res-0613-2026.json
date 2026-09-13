@@ -13,21 +13,26 @@
  "attachments": [
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691944&GUID=3EAA37AD-2E71-49A4-908A-10EC62EF7827"
   },
   {
    "label": "Res. No.",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691945&GUID=E6332480-F27E-4DB8-886D-4D53DF4C8ABE"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744909&GUID=6161C71D-81AF-40B5-AE9F-1907FE1B4C1E"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765194&GUID=BCE3CEFD-3E8A-4273-936B-F3BE8E15E51F"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

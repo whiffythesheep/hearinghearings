@@ -19,21 +19,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 995",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762836&GUID=E4648DA2-CDAA-408A-9AC8-B44360D4D01E"
   },
   {
    "label": "Int. No. 995",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762837&GUID=A1D035CC-EFDD-459E-B7C1-1ED873C68DF6"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762842&GUID=D1FBD4F5-6F67-47B1-82D0-09FF4AC0F1AC"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765118&GUID=27C482D4-C29B-4383-8B90-09574D6F5B9B"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

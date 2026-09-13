@@ -23,37 +23,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 666",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289077&GUID=416CB04C-C981-49B5-8225-9CA71D66EBCE"
   },
   {
    "label": "Int. No. 666",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289076&GUID=E1870A5D-6761-47B4-A7BE-1F986F8748C0"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15334047&GUID=5A1CA3D7-6005-4E1B-B05B-4957A32DEE3B"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729609&GUID=6666B776-CF5F-47DD-A34B-F49227E180B0"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302607&GUID=09230C6A-C632-41EF-8132-792D496830E6"
   },
   {
    "label": "Committee Report 6/16/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586250&GUID=AFC1EEC8-8615-4D0F-90EE-4FE2FE42F6FA"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586328&GUID=B0037629-7FDB-4E93-8B00-73C81E7AB73C"
   },
   {
    "label": "Hearing Testimony 6/16/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656842&GUID=39379C0B-2270-40C9-A683-7E7530485EB3"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586328&GUID=B0037629-7FDB-4E93-8B00-73C81E7AB73C"
+ },
  "history": [
   {
    "date": "2026-06-16",

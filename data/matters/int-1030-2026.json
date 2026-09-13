@@ -18,17 +18,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1030",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842838&GUID=ECD56D74-1E8B-4300-831E-8D9ECB590598"
   },
   {
    "label": "Int. No. 1030",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842837&GUID=42B52F14-1177-4581-9D99-B0208722E1BF"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847639&GUID=F8F1EA59-0083-47AA-87D4-6CBA47177ADE"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

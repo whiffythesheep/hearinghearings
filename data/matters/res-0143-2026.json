@@ -29,49 +29,61 @@
  "attachments": [
   {
    "label": "Res. No. 143",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15277324&GUID=9E75F60C-1166-4087-8B5A-3E6B44F4F720"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251872&GUID=D70FBFA6-01F7-4DC4-A15A-8660E2385CD6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252564&GUID=C7925C93-C97E-40D2-B114-5DC86CA4C53F"
   },
   {
    "label": "Committee Report 5/6/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15439718&GUID=30A4030C-6A36-43DB-B452-48CB9D72F20C"
   },
   {
    "label": "Hearing Testimony 5/6/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15468287&GUID=435AA990-14AC-4376-B0BE-403A47A54D38"
   },
   {
    "label": "Res. No. 143-A - 6/16/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15587978&GUID=6B15D184-344F-46E5-86FC-BD46FC99DEBE"
   },
   {
    "label": "Committee Report 6/25/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15651398&GUID=FB11BB41-BF64-4272-A746-332644E86A22"
   },
   {
    "label": "Hearing Transcript 5/6/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664499&GUID=9BE3D825-301A-45E5-83DA-2FFFCDA8D360"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656646&GUID=8E2E630E-471F-45E8-9F88-B7A45C866598"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665071&GUID=76DD0BDF-A244-4E6B-B841-EB27359FED6A"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849138&GUID=61A28730-6D58-41DF-975C-358D25E75186"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

@@ -12,53 +12,66 @@
  "attachments": [
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699698&GUID=54615B07-A2B0-42B0-BD03-16E71D5DAA3C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720720&GUID=8E311E43-D26E-433D-87E2-61D576BC0A29"
   },
   {
    "label": "200 Kent Avenue Rezoning",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707497&GUID=2F1F52E4-EB5C-4B64-BB46-5C181CA811D2"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 21, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15693071&GUID=FD178FF1-49B2-4866-8023-43C3C044464E"
   },
   {
    "label": "Appearance Cards - Zoning 7/21/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707499&GUID=F7B212B3-814A-4E7B-BCED-401C73ECA69D"
   },
   {
    "label": "Calendar of the Landmarks and Zoning Subcommittee Meetings - August 12, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748169&GUID=C7D7937C-21BC-4932-886C-6A867E669E2F"
   },
   {
    "label": "Appearance Cards - Zoning 8/12/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15790986&GUID=C317F930-FA28-4136-B4D0-4BC433566D31"
   },
   {
    "label": "Calendar of the Land Use Meeting - August 13, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15751729&GUID=89298DAB-006A-4163-B0E4-D512F688B8C4"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765178&GUID=207A888F-4FBB-4164-9DC7-E5E79EAE4176"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830593&GUID=15AE7045-B60F-4209-97BC-752BED240B81"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766942&GUID=CCD63A92-F37A-4285-8BA3-D6DD95388E8C"
   },
   {
    "label": "Res. No. 641",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766944&GUID=F2BCC462-C188-475A-BC23-D1C0055845A8"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

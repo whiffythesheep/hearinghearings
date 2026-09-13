@@ -14,17 +14,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 990",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762470&GUID=126D1951-5143-4000-9241-BF5487DC875C"
   },
   {
    "label": "Int. No. 990",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762471&GUID=4CCEB17A-F8F1-40A6-ABB8-315DC71595D2"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765112&GUID=DD7E988F-A88C-4E41-A5FF-65543866E623"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

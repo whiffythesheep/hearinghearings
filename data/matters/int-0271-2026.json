@@ -25,37 +25,67 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 271",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160396&GUID=B5606DA8-9C82-4ACE-87AD-7968D208C59D"
   },
   {
    "label": "Int. No. 271",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160395&GUID=D695415D-8490-4325-8521-AEA2D3603685"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15175346&GUID=73030421-4EBD-4646-B0A7-AF0915434E64"
   },
   {
    "label": "Committee Report 2/9/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176314&GUID=24262BA7-D035-4DF8-A188-9B40CF0BE896"
   },
   {
    "label": "Hearing Testimony 2/9/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15314648&GUID=63BAC28F-029C-4A56-8079-2FF69EBBC847"
   },
   {
    "label": "Hearing Transcript 2/9/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15250812&GUID=E1A1ED98-7D38-4B45-A9D3-A03C191B0100"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251674&GUID=C5D708A1-BF4F-48A9-B8A0-F7F2671CC1C9"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252370&GUID=4D61DF63-4274-44F3-9ED2-6C1026C76859"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 548450,
+   "succeeding": 548450,
+   "full": 548450
+  },
+  "net": {
+   "effective": -548450,
+   "succeeding": -548450,
+   "full": -548450
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "OMB did not provide an estimate.",
+  "omb_declined": true,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15175346&GUID=73030421-4EBD-4646-B0A7-AF0915434E64"
+ },
  "history": [
   {
    "date": "2026-02-09",

@@ -25,81 +25,122 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 13-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15409566&GUID=3951C6DD-66C1-4F40-8361-A50D99CE0EC0"
   },
   {
    "label": "Summary of Int. No. 13",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153950&GUID=BB2B346B-8E52-4E7E-A70B-636DA9A8090B"
   },
   {
    "label": "Int. No. 13",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153949&GUID=C1E83809-25D6-4766-B1A2-D3FD2DCEE38D"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251326&GUID=DFCE7D51-66FE-4945-9DC1-E4A504FC8EE4"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252021&GUID=9B40C0C4-59DA-4EEC-9418-85991A62006D"
   },
   {
    "label": "Committee Report 3/3/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15284778&GUID=B0EAB0D9-25DC-4883-B42D-6C30F6F5644F"
   },
   {
    "label": "Hearing Testimony 3/3/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15370887&GUID=EEDB774A-0B13-4D1B-B109-B0E55F78F39D"
   },
   {
    "label": "Hearing Transcript 3/3/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15345204&GUID=EB8878F2-ECF6-4C02-90C4-20A74002F00C"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15287920&GUID=63D63850-F50D-4BC4-AC67-1D43BD14658F"
   },
   {
    "label": "Proposed Int. No. 13-A - 4/23/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15409565&GUID=53BB89DD-4F8B-4453-873D-E49A587DE2B0"
   },
   {
    "label": "Committee Report 5/14/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15474724&GUID=AAF9E963-0380-49AE-8FF5-C600A91829FC"
   },
   {
    "label": "Hearing Transcript 5/14/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15850846&GUID=AED2D1F9-0B1C-4F2F-A988-705B9F38EC6B"
   },
   {
    "label": "Proposed Int. No. 13-A - Fiscal Impact Statement- City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15475429&GUID=735C2AD0-AB54-4462-864E-B4EA2149C456"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15478185&GUID=59F0610D-07E3-436F-AD46-566A854D1B6E"
   },
   {
    "label": "Int. No. 13-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15501855&GUID=8DE26A76-BF27-4D46-854D-A93130033F02"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548294&GUID=BF8F14BF-565A-4113-9AA1-3D442F41981E"
   },
   {
    "label": "Local Law 103",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675197&GUID=7AD3142A-A413-47F0-ADCB-DAEEFF6FAE00"
   },
   {
    "label": "LDU Letter to City Legislative Affairs",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675594&GUID=7290CFCE-A3A3-4652-AF32-4A977A8D2843"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849050&GUID=EBBF4BFE-DABD-4F78-82DF-35AE1D9B04BD"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 20000,
+   "full": 520000
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": -20000,
+   "full": -520000
+  },
+  "effective_fy": "2026",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 13-A - Fiscal Impact Statement- City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15475429&GUID=735C2AD0-AB54-4462-864E-B4EA2149C456"
+ },
  "history": [
   {
    "date": "2026-06-15",

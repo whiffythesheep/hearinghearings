@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 964",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662404&GUID=553042D3-778B-4B20-9E92-364AC3BDDAF0"
   },
   {
    "label": "Int. No. 964",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662402&GUID=C69D0D2F-42B3-4B51-8215-3DFDB3D722F4"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664770&GUID=D08CF167-FD96-4D68-9EF6-3A3FC6CA9C49"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849071&GUID=59215FA5-237B-4F21-BDCE-71ABF2DBD7B7"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

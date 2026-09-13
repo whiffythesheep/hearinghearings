@@ -10,45 +10,56 @@
  "attachments": [
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574975&GUID=8E05FABD-A675-4483-B59E-B6E948924F69"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574979&GUID=7E8CBE2F-AE10-45FF-A760-8CBB3BBE05EB"
   },
   {
    "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574981&GUID=C34CD209-2EFB-4FC3-880B-ADBB54C5A63E"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574988&GUID=6399CAB7-B73D-4577-904B-AAA2F0669FF9"
   },
   {
    "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574984&GUID=15C8C9F9-60AC-4C48-A59C-C155D6BC92DA"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574993&GUID=2F170C7A-9688-470A-A1D9-70B5F0427999"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575783&GUID=43A7E32F-BBD7-4A63-9311-3D925A6E49D6"
   },
   {
    "label": "Minutes of the Stated Meeting - January 29, 2026.docx",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15737798&GUID=684632EB-719A-4D54-A057-3DF60D897726"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765198&GUID=36BB0739-2304-40DF-872F-B4DEFB080E46"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847453&GUID=BA2F27FF-2235-48DC-AEC8-8CEBE7C07926"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

@@ -12,25 +12,31 @@
  "attachments": [
   {
    "label": "Res. No. 605",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762341&GUID=F97A6995-4914-4998-83AD-C72F9F90DE71"
   },
   {
    "label": "Technical Memo 003",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762344&GUID=2FAE1654-A65A-4CCE-A4AF-4C6AA51D058D"
   },
   {
    "label": "Committee Report 8/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762350&GUID=8595ECF4-A0FA-4673-9415-44ED113DE4FE"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764039&GUID=252D3DA3-3741-44F1-B158-0C6674D1F2F4"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765193&GUID=ADA30A58-031E-4D8B-8833-90C668DE0BF1"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

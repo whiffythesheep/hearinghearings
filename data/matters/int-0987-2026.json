@@ -13,17 +13,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 987",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762387&GUID=B160FF8C-DAE7-48FC-9DAE-E3A8E3BA0B71"
   },
   {
    "label": "Int. No. 987",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762386&GUID=5993EC4C-1649-4501-802C-C0CB81A6EE0A"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765109&GUID=96B564B4-95E1-491B-897E-D9806C4C52B9"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

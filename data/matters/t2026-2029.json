@@ -10,17 +10,21 @@
  "attachments": [
   {
    "label": "Department of Investigation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680301&GUID=14E04E58-E31D-41F6-88B7-01B3845F248F"
   },
   {
    "label": "DOI - Nadia Shihata",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559473&GUID=36A0BEC4-A282-4449-92D4-BC447EA2470E"
   },
   {
    "label": "Appearance Cards - O&I 6/2/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559474&GUID=1395FFE7-EAAB-429C-959E-BF5048DFE0FA"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-02",

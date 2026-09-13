@@ -18,25 +18,31 @@
  "attachments": [
   {
    "label": "Res. No. 21",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15170423&GUID=FCAB46CB-753E-4EDD-B057-57BE3B062E60"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251389&GUID=38C6F887-7EE5-4B3D-B017-41F526CCA9F3"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252084&GUID=7493050D-97C3-4ADD-A6C2-7DF09FF7947F"
   },
   {
    "label": "Committee Report 4/13/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15382707&GUID=318AFFD0-A6AE-4AD1-9B13-7D83030B45F6"
   },
   {
    "label": "Hearing Testimony 4/13/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419859&GUID=5EAF0565-F59B-4E57-AFEF-40B751E9B6A8"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-04-13",

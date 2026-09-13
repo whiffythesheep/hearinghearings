@@ -32,13 +32,16 @@
  "attachments": [
   {
    "label": "Res. No. 602",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763349&GUID=45E486A3-0F71-4BED-8133-0A056E6A11D2"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765146&GUID=0232AFC1-C26C-4ED7-995B-9E3BB78AAED1"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

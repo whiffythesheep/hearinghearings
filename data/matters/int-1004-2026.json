@@ -12,21 +12,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1004",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763023&GUID=790ACB20-CFC5-4A6B-AEC4-6B1D2D71B5E8"
   },
   {
    "label": "Int. No. 1004",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763022&GUID=E179E6C6-624A-4F80-AC51-ABE93C1EDC8B"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763024&GUID=6ABEFD4F-CE31-453E-B628-BCCDB0A889EA"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765129&GUID=0203D826-C8AA-498B-8967-CDC9773D0D08"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

@@ -12,45 +12,56 @@
  "attachments": [
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664778&GUID=F8B5B8CC-5B0F-406E-861B-8D946AAD9F20"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 1, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660192&GUID=67C974A6-066B-422F-9021-909FB4C8B496"
   },
   {
    "label": "1160 Pugsley Avenue Rezoning",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707648&GUID=F0E73A3D-F0E9-46CD-B3B8-01D330CD2302"
   },
   {
    "label": "Appearance Cards - Zoning 7/1/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15700880&GUID=73F01CCA-18C7-40BD-920A-74999BA384E4"
   },
   {
    "label": "Calendar of the Subcommittee and Land Use Meetings - July 14, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682920&GUID=95272F52-0B42-4A2A-A228-5B67CCDE4CD5"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692132&GUID=37755321-8F27-4B1E-ABCA-22236156954C"
   },
   {
    "label": "Res. No. 573",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692133&GUID=856BC7A3-A309-480C-9710-63CB7F6CC1EB"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699738&GUID=EF0E775D-2477-4889-B2EA-F564FCA4403F"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720761&GUID=4EA59E8A-FBE8-439A-9DF9-856DF933D217"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849079&GUID=52CE2831-8C5F-4D3D-BA10-3260253935EE"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-16",

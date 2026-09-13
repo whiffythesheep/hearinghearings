@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665025&GUID=67BF92EF-89DA-484B-AD80-19D42FF509CC"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849090&GUID=A9849A9D-3492-43A4-961A-F53553F4D76C"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

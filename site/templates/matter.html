@@ -34,6 +34,58 @@
     </section>
     {% endif %}
 
+    {% if matter.fiscal %}
+    <section class="record-section">
+        <h2>Fiscal impact</h2>
+        <p class="record-note">The Council Finance Division's estimate, from the
+            {% if matter.fiscal.source %}<a href="{{ matter.fiscal.source }}">{{ matter.fiscal.label }}</a>{% else %}{{ matter.fiscal.label }}{% endif %}.
+            {% if matter.fiscal.effective_fy %}First effective FY{{ matter.fiscal.effective_fy }}.{% endif %}</p>
+        <div class="table-scroll">
+            <table class="record-table fiscal-table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Effective year</th>
+                        <th>Succeeding year</th>
+                        <th>Full fiscal impact</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for label, row in [('Revenues', matter.fiscal.revenues),
+                                      ('Expenditures', matter.fiscal.expenditures),
+                                      ('Net', matter.fiscal.net)] %}
+                    {% if row %}
+                    <tr{% if label == 'Net' %} class="fiscal-net"{% endif %}>
+                        <th scope="row">{{ label }}</th>
+                        <td class="num">${{ "{:,}".format(row.effective) }}</td>
+                        <td class="num">${{ "{:,}".format(row.succeeding) }}</td>
+                        <td class="num">${{ "{:,}".format(row.full) }}</td>
+                    </tr>
+                    {% endif %}
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% if matter.fiscal.omb_declined %}
+        <p class="record-note">The Office of Management and Budget did not provide its own estimate.</p>
+        {% elif matter.fiscal.omb_estimate %}
+        <p class="record-note">OMB: {{ matter.fiscal.omb_estimate }}</p>
+        {% endif %}
+    </section>
+    {% endif %}
+
+    {% if matter.attachments %}
+    <section class="record-section">
+        <h2>Documents</h2>
+        <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
+        <ul class="doc-list">
+        {% for d in matter.attachments %}
+            <li><span class="doc-kind">{{ d.kind }}</span> <a href="{{ d.url }}">{{ d.label }} ↗</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
     {% if matter.appearances %}
     <section class="record-section">
         <h2>Considered at</h2>
@@ -81,16 +133,5 @@
     </section>
     {% endif %}
 
-    {% if matter.attachments %}
-    <section class="record-section">
-        <h2>Documents</h2>
-        <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
-        <ul class="doc-list">
-        {% for d in matter.attachments %}
-            <li><a href="{{ d.url }}">{{ d.label }} ↗</a></li>
-        {% endfor %}
-        </ul>
-    </section>
-    {% endif %}
 </article>
 {% endblock %}

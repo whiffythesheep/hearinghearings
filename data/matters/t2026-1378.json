@@ -10,25 +10,31 @@
  "attachments": [
   {
    "label": "Department of Probation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333574&GUID=D39F07A2-6572-4850-A94B-18DE29B695EA"
   },
   {
    "label": "Department of Correction",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333573&GUID=DC1431BB-1C0A-4D97-94EE-2173773C82E1"
   },
   {
    "label": "Board of Correction",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333572&GUID=1C570255-7969-4CA7-A960-65A59D85B673"
   },
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15413737&GUID=0F619BB1-1850-41AF-98C4-751529127B51"
   },
   {
    "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15416892&GUID=566A86BF-9FC3-40ED-88BE-DEA40A4F4880"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-03-24",

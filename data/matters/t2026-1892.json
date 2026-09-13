@@ -10,41 +10,51 @@
  "attachments": [
   {
    "label": "Department of Correction",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680296&GUID=13DFA550-CC03-4D1D-B9AC-65BD05659D8D"
   },
   {
    "label": "Housing Preservation and Development",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680299&GUID=22EA9807-5DF7-4F88-91F8-5041050DC6A2"
   },
   {
    "label": "New York City Housing Authority",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680298&GUID=F258A9FE-6F40-4327-A8C9-890DA47A96C6"
   },
   {
    "label": "Department of Investigation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680300&GUID=C71808E4-79E3-45A1-9C55-917896FA5DBF"
   },
   {
    "label": "Department of Corrections - Stanley Richards",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559379&GUID=E0D28B41-4C10-4AFE-A762-7A4F53F2EF44"
   },
   {
    "label": "Department of Housing Preservation and Development - Dina Levy",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559380&GUID=00C846F5-D0D3-44FA-BB6C-84D6DDDE151C"
   },
   {
    "label": "New York City Housing Authority - Lisa Bova-Hiatt",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559381&GUID=DF81E73D-6F2B-4B0E-A118-8A538B05E4A5"
   },
   {
    "label": "Department of Investigation - Nadia Shihata",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559384&GUID=5960D945-9BEC-4A9B-839C-0B0D6EC49EC4"
   },
   {
    "label": "Appearance Cards 6/2/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559378&GUID=21FE1E3E-F889-40AA-843B-FB91D1C70FA2"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-02",

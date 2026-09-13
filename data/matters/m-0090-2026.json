@@ -10,13 +10,16 @@
  "attachments": [
   {
    "label": "City Clerk Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763418&GUID=973CE721-EFD4-429A-A947-2A3D1D920273"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765171&GUID=5C17C49B-9EBB-462C-8C52-96577D069FD9"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

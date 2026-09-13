@@ -1761,3 +1761,96 @@ body.desktop {
         font-size: 11px;
     }
 }
+
+/* ---------- Meeting kind markers ---------- */
+.kind {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 2px 6px;
+    white-space: nowrap;
+    display: inline-block;
+    border: 1px solid var(--rule);
+    background: #f3f1e9;
+    color: var(--text-muted);
+}
+
+.kind--hearing {
+    color: var(--text);
+    border-color: var(--bevel-dark);
+}
+
+/* ---------- Roll call list ---------- */
+.rollcall {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: 2px 1.25rem;
+}
+
+.rollcall-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 3px 0;
+    border-bottom: 1px dotted var(--rule);
+}
+
+.rollcall-name {
+    font-size: 0.9rem;
+}
+
+/* ---------- Fiscal impact table ---------- */
+.fiscal-table th[scope="row"] {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    background: transparent;
+    border-bottom: 1px solid var(--rule);
+    white-space: nowrap;
+}
+
+.fiscal-table td.num {
+    text-align: right;
+    font-size: 0.9rem;
+}
+
+.fiscal-net th[scope="row"],
+.fiscal-net td {
+    font-weight: 700;
+    color: var(--text);
+    border-top: 1px solid var(--bevel-dark);
+}
+
+.doc-kind {
+    font-family: var(--font-chrome);
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    background: #f3f1e9;
+    border: 1px solid var(--rule);
+    padding: 1px 5px;
+    margin-right: 0.4rem;
+    display: inline-block;
+    min-width: 9.5rem;
+    text-align: center;
+}
+
+@media (max-width: 640px) {
+    .doc-kind {
+        min-width: 0;
+        display: block;
+        width: fit-content;
+        margin-bottom: 0.15rem;
+    }
+}

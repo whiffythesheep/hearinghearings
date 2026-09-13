@@ -16,21 +16,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 958",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662375&GUID=F9F0652E-13EC-4EA2-B670-9B1B8BE972E1"
   },
   {
    "label": "Int. No. 958",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662376&GUID=F6848FEE-C6A0-4528-BDA5-D101A048E774"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664766&GUID=2E572068-DA01-4A7A-B194-32095728E5DC"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849067&GUID=A7A780F6-6424-4E71-90DE-C5C327E6B912"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

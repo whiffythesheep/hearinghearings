@@ -12,33 +12,41 @@
  "attachments": [
   {
    "label": "Res. No. 542",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661239&GUID=3EE6302B-B8AE-4C4D-B1C0-3F96B750A760"
   },
   {
    "label": "Fiscal Year 2027 Appropriation Changes",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661237&GUID=F70FF537-8B3A-451A-9817-4B64E54F0745"
   },
   {
    "label": "Fiscal Year 2027 Changes To the Executive Capital Budget Adopted by the City Council",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661238&GUID=2DE25ADE-B0E8-477F-B022-275B028FEA00"
   },
   {
    "label": "Supporting Detail for Fiscal Year 2027 Changes to the Executive Capital Budget Adopted by the City Council Pursuant to Section 254 of the City Charter",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661597&GUID=79D6371A-5948-4512-A676-AECB9DD809B3"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820824&GUID=531A5B3E-B8D7-43BD-BB0E-C71C3E4EF867"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665040&GUID=7557FF40-3294-4801-80E3-110D2DBA9376"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849105&GUID=E68B75F7-8771-4C93-87DD-A0936A6B9BE6"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

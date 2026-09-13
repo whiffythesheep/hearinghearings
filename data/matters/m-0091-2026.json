@@ -12,9 +12,11 @@
  "attachments": [
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845095&GUID=1BD67A4B-5CA0-4D7F-A5E7-150E463C588E"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

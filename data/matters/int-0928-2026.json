@@ -17,33 +17,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 928",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573679&GUID=E800D024-9ED3-484C-88BB-6030B3ED2A24"
   },
   {
    "label": "Int. No. 928",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573678&GUID=3FCF0AC4-5238-4479-8D71-BEA7896DF343"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575714&GUID=3CBF4459-7FE0-4277-97DD-D790166D047A"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15590988&GUID=DDC4F835-0F6B-4D31-B6C3-F35CF22FBAF4"
   },
   {
    "label": "Committee Report 6/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613966&GUID=02761E4C-2C55-48CC-8EF4-F27BB2A4F622"
   },
   {
    "label": "Hearing Testimony 6/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15686454&GUID=9260DBB4-1C6D-4113-BA66-6BC34E1A397D"
   },
   {
    "label": "Hearing Transcript 6/22/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15728982&GUID=61A446C3-1462-45D2-8A7B-702261372864"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15590988&GUID=DDC4F835-0F6B-4D31-B6C3-F35CF22FBAF4"
+ },
  "history": [
   {
    "date": "2026-06-22",

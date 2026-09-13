@@ -15,37 +15,59 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1016",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763355&GUID=7F3A3886-F175-497C-B8C6-77B8A4E5C7E1"
   },
   {
    "label": "Int. No. 1016",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763353&GUID=F6F5C1D6-FF74-4F56-8C44-0468CDD89D28"
   },
   {
    "label": "Memorandum of Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763356&GUID=A7A49CEF-D856-4884-8BBE-FEE190E5FD94"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765150&GUID=774D01F0-2B76-4B1F-A56A-2DCEC862550F"
   },
   {
    "label": "Committee Report 9/2/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15821345&GUID=CB7D9636-8C8A-4BA5-967F-7E299D5A4DD2"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820318&GUID=8103B097-11BA-458C-AF09-31BD4CDE144C"
   },
   {
    "label": "Hearing Testimony 9/2/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835559&GUID=A5757A2E-812B-4496-B031-4F722C22A0E7"
   },
   {
    "label": "Hearing Transcript 9/2/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834809&GUID=D838851A-C470-45EB-BACE-668EC51C5480"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820318&GUID=8103B097-11BA-458C-AF09-31BD4CDE144C"
+ },
  "history": [
   {
    "date": "2026-09-02",

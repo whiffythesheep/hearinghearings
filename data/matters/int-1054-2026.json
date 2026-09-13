@@ -13,17 +13,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1064",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843006&GUID=8DF5541D-940C-47A7-A4F0-DA4776D24D36"
   },
   {
    "label": "Int. No. 1054",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843004&GUID=C8F79376-2B26-46A7-BB7D-CCADEFFB9B88"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847700&GUID=48E9147E-E3D7-4B27-86F5-0BA12F571E16"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

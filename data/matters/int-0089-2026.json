@@ -15,33 +15,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 89",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171231&GUID=B805B19D-59C5-4930-914E-8BA6802E7601"
   },
   {
    "label": "Int. No. 89",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171235&GUID=E1BE9041-0ABB-4DD2-B86F-332180AC35E1"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251435&GUID=7FBB1BCD-D090-4145-B21E-309EAED6D33A"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252130&GUID=367AE0F6-DEE0-4650-A28E-772A2F38B236"
   },
   {
    "label": "Committee Report 6/16/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586248&GUID=CA6AEE9B-9A61-4D5F-B08B-564C61CB1649"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586332&GUID=97042466-D847-4FBD-B276-4DDF00219549"
   },
   {
    "label": "Hearing Testimony 6/16/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656840&GUID=A3EA82C7-A082-4D08-8D16-7294A9220556"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586332&GUID=97042466-D847-4FBD-B276-4DDF00219549"
+ },
  "history": [
   {
    "date": "2026-06-16",

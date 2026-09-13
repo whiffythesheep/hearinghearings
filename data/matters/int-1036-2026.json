@@ -13,17 +13,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1036",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842826&GUID=92605A4C-5E28-48A0-A692-C74A1CC7C395"
   },
   {
    "label": "Int. No. 1036",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842825&GUID=A9BCBF1F-C2A4-4EA1-9B80-3A4D3EC999C5"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847645&GUID=6C77B1AE-47AC-4A14-B8C7-A8E86D182D58"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

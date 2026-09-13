@@ -17,65 +17,102 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 822",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393301&GUID=B515E16F-919E-47E4-B20F-95393507F162"
   },
   {
    "label": "Int. No. 822",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393299&GUID=1A82262E-10B4-49E1-82A2-C8795D59680D"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395129&GUID=73DDA211-2DE3-4390-9E53-89C1CF3A9A76"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508401&GUID=F1C7F73F-67DC-48C9-8D74-22D60CAE6940"
   },
   {
    "label": "Committee Report 5/6/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15440153&GUID=4181E0BE-3342-41B5-ACF1-350399BBEA80"
   },
   {
    "label": "Hearing Testimony 5/6/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15471126&GUID=BAF2ABF0-2A64-429F-88EC-7E6AC10E8156"
   },
   {
    "label": "Hearing Transcript 5/6/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15704042&GUID=7A5AEED6-D855-42BE-B522-303754F2D1BE"
   },
   {
    "label": "Committee Report 5/12/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469010&GUID=08807960-2407-42AB-B0B9-FA9E68A12680"
   },
   {
    "label": "Hearing Transcript 5/12/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15773524&GUID=8CB886C4-B0CC-45B0-8347-058047F1564A"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469324&GUID=3F49B0A2-BE34-49F7-B6CC-C9818FB70DBD"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548289&GUID=C7B863B5-E269-47E7-BE56-89503BE2AE15"
   },
   {
    "label": "Local Law 108",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675202&GUID=AC5AC665-819D-486D-8E25-C78821E8A989"
   },
   {
    "label": "Int. No. 822 (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675270&GUID=3177C76D-DC42-49A7-8B32-A0D4B974E98C"
   },
   {
    "label": "LDU Letter to City Legislative Affairs",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675599&GUID=2DC312EC-521B-4E03-BA0A-2668F6102190"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849045&GUID=52859BDE-51C5-46B1-B22B-3F3B74086585"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 575,
+   "succeeding": 0,
+   "full": 575
+  },
+  "net": {
+   "effective": 575,
+   "succeeding": 0,
+   "full": 575
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469324&GUID=3F49B0A2-BE34-49F7-B6CC-C9818FB70DBD"
+ },
  "history": [
   {
    "date": "2026-06-15",

@@ -49,77 +49,117 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 580-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559383&GUID=3D97B5E9-4DD9-44C1-9CD0-F25BE65AE816"
   },
   {
    "label": "Summary of Int. No. 580",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176209&GUID=3F2CFC77-B511-4EC5-A046-6692AAA27C1D"
   },
   {
    "label": "Int. No. 580",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176208&GUID=EF7F24D7-8C16-49DB-AF1B-85AB44EBEDC2"
   },
   {
    "label": "Committee Report 3/2/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15282984&GUID=BD6C2BFB-3883-46E1-BCC8-2D8DD9DE6C00"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15284336&GUID=99C5DCFE-E2C3-481A-88C2-5BC6F0C13DFC"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302449&GUID=BB2922E0-6AFD-4325-95D1-A43270523BA7"
   },
   {
    "label": "Hearing Testimony 3/2/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15324461&GUID=4ADCAB20-E1CE-4052-AA59-CE5A3DD565B3"
   },
   {
    "label": "Hearing Transcript 3/2/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15324001&GUID=26778BC9-4030-478C-9049-22CF1A79A8CF"
   },
   {
    "label": "Proposed Int. No. 580-A - 6/5/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15559382&GUID=287B05B5-497A-4B7E-B369-70A46ADB6268"
   },
   {
    "label": "Proposed Int. No. 580-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15651433&GUID=F78277BC-51C3-4014-AE04-1E6EFF27AF5E"
   },
   {
    "label": "Committee Report 6/30/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657537&GUID=1E807FF6-2DB9-4F58-9DEF-FE49BBF148FC"
   },
   {
    "label": "Hearing Transcript - Early Childhood Education 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15851089&GUID=7779349D-6CAA-4D93-82D4-F1C359156A51"
   },
   {
    "label": "Hearing Transcript - Education 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15850848&GUID=7968FB2F-DBD2-469D-A4E9-904A29A5C6AD"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665027&GUID=F24995C4-0D87-45ED-844E-25B6B6DDDB96"
   },
   {
    "label": "Int. No. 580-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15672216&GUID=9A110FA2-5AFD-4800-8C48-96BF4E3F7833"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729416&GUID=CDAC2FBF-5054-463A-8DE4-AC70B5C6BFE4"
   },
   {
    "label": "Local Law 121 of 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830147&GUID=A7D1FA32-0771-470D-B57C-4B2E64ED0F5C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849092&GUID=2D40EC8F-0DD5-4F69-B975-A0501678EADA"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 580-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15651433&GUID=F78277BC-51C3-4014-AE04-1E6EFF27AF5E"
+ },
  "history": [
   {
    "date": "2026-07-31",

@@ -37,81 +37,122 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 547-B",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15825930&GUID=5D974387-8C35-4396-A79E-B42CAD4DB8A3"
   },
   {
    "label": "Summary of Int. No. 547-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15753200&GUID=4FBFF744-65B8-4D3B-B1E2-B889F1D96D95"
   },
   {
    "label": "Summary of Int. No. 547",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186759&GUID=878CDD02-B1F7-4BE7-8295-354B928CD4B7"
   },
   {
    "label": "Int. No. 547",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186758&GUID=55596EDD-5749-4EE6-8D3B-11FDC281D6BB"
   },
   {
    "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729353&GUID=A6251208-3647-4D8E-A96B-C9C1E412D8FD"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302404&GUID=84552765-952C-4D20-B2C1-40BB43393C26"
   },
   {
    "label": "Hearing Transcript 3/5/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186760&GUID=206DBAAF-4637-4061-9577-560AE4819078"
   },
   {
    "label": "Committee Report 3/5/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15284815&GUID=7EE7255B-D3C6-4F37-9A81-E42DF7FC7407"
   },
   {
    "label": "Hearing Testimony 3/5/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15372403&GUID=FA2307E7-7B5A-442A-92AC-1D8CAD1193C0"
   },
   {
    "label": "Hearing Transcript 3/5/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15397313&GUID=284AA1D8-63EA-441E-BE1A-41FED6D3D696"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15290096&GUID=71A8F850-6B9B-4721-93BB-F079F9036B6A"
   },
   {
    "label": "Proposed Int. No. 547-A - 8/7/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15753199&GUID=9DF95A2B-551A-4B5E-9A81-89B43A3558B3"
   },
   {
    "label": "Proposed Int. No. 547-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15757875&GUID=AA042102-F78C-4F4B-A6EA-2BCEC48145E3"
   },
   {
    "label": "Proposed Int. No. 547-B - 9/2/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15825929&GUID=F7520BB9-E028-4B59-AD8A-D8313E794E3F"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835060&GUID=00E2B4FF-72F0-42D3-B350-2B5C4D4B49A3"
   },
   {
    "label": "Proposed Int. No. 547-B Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837936&GUID=3DE23CDD-DF21-4756-AAD3-0330ECB9F99B"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844013&GUID=C441B254-FE90-417E-9F64-17E9F291EFFE"
   },
   {
    "label": "Int. No. 547-B (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847340&GUID=690BA325-034F-47BA-BD70-4876BBA0490A"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847341&GUID=27DA7D00-53BA-4EBC-B907-1AECA808C5C1"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 21918,
+   "succeeding": 1900000,
+   "full": 1900000
+  },
+  "net": {
+   "effective": -21918,
+   "succeeding": -1900000,
+   "full": -1900000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 547-B Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837936&GUID=3DE23CDD-DF21-4756-AAD3-0330ECB9F99B"
+ },
  "history": [
   {
    "date": "2026-09-10",

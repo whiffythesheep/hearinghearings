@@ -13,17 +13,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1033",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842832&GUID=42FC47A0-AF89-4458-B164-807F98FAEE68"
   },
   {
    "label": "Int. No. 1033",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842831&GUID=C5DCB6D5-2515-409B-9844-74B53B12F4EC"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847642&GUID=868F7E46-4EB0-4223-95BC-DEA4F2620D90"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

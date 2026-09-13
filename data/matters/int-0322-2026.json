@@ -36,33 +36,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 322",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160412&GUID=0B7128B2-BFD9-4006-ABF4-2F5150A74668"
   },
   {
    "label": "Int. No. 322",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160411&GUID=3E9BA9C2-F7DA-445E-8531-651D6542A1E5"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251740&GUID=8ECDDDC2-18F4-4B82-B6F0-E5FA5175BA30"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252432&GUID=6797F940-117A-4A2D-B116-5D0A8B892277"
   },
   {
    "label": "Committee Report 6/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586706&GUID=CE499930-AABA-4578-834E-A5B1FE61C6AC"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613918&GUID=9C882242-7EEB-4103-B6B5-F6C5BDF0CF20"
   },
   {
    "label": "Hearing Testimony 6/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720354&GUID=1E1658DF-1575-49C7-AE91-A9DB2BE3B2AA"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613918&GUID=9C882242-7EEB-4103-B6B5-F6C5BDF0CF20"
+ },
  "history": [
   {
    "date": "2026-06-22",

@@ -16,33 +16,62 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 200",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186875&GUID=A0C8D14F-295E-4E7E-8A93-FAE31270D9C0"
   },
   {
    "label": "Int. No. 200",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186876&GUID=3AD7B253-5798-476E-A48A-1A9DDF024FCC"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251593&GUID=CF6F4D14-1F1D-4A03-810D-2FA9F5AD0DBD"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252288&GUID=233B2799-8CC5-41A6-B704-CCC33CCE129E"
   },
   {
    "label": "Committee Report 6/15/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581433&GUID=9006B363-DC1E-499B-8E74-08C1C47F1C4C"
   },
   {
    "label": "Fiscal Impact Statement- City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584101&GUID=2A4F9318-61D0-4F10-B983-C8610D7A283A"
   },
   {
    "label": "Hearing Testimony 6/15/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646478&GUID=31D29257-6087-40F8-AC05-6792C7D8AAFB"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget (OMB) did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement- City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584101&GUID=2A4F9318-61D0-4F10-B983-C8610D7A283A"
+ },
  "history": [
   {
    "date": "2026-06-15",

@@ -10,41 +10,64 @@
  "attachments": [
   {
    "label": "Fiscal Impact Statement",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661645&GUID=2FE54CFA-141B-44F3-9F49-9F33020308E7"
   },
   {
    "label": "Memorandum",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661646&GUID=76B366AB-BF63-4D95-9ECC-2D6ED932D669"
   },
   {
    "label": "MN 9 - Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661647&GUID=16784ABE-88DD-4326-983D-832BB3A00599"
   },
   {
    "label": "MN 9 - Appendix B",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661648&GUID=1BCC3DD9-4E98-4760-933A-A930337B25DC"
   },
   {
    "label": "Res. No. 544",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661649&GUID=513A2CA2-0D66-4F8C-91E4-BD3431DB9458"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820827&GUID=9715D213-7EF8-474D-9A76-2048ED670F1D"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665022&GUID=81F611AB-02A1-449B-9AE5-FCEE31DC7699"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849087&GUID=AEE0811C-70A1-4EF8-9A15-76492E79C74C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849108&GUID=28055535-7E65-43F8-A340-0DBAFC7BEB07"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "",
+  "omb_estimate": "",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661645&GUID=2FE54CFA-141B-44F3-9F49-9F33020308E7"
+ },
  "history": [
   {
    "date": "2026-06-30",

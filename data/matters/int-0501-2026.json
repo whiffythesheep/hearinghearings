@@ -12,45 +12,77 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 501-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581294&GUID=20D708FC-ED33-463C-A6C6-F91A4FB01B7B"
   },
   {
    "label": "Summary of Int. No. 501",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15256052&GUID=2985E520-36F4-45D2-A7F3-310AB6255994"
   },
   {
    "label": "Int. No. 501",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15256051&GUID=49CCA830-08CB-4DB2-A6C1-C3A6AC63F9DF"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251975&GUID=EE4CB7DC-9D07-4360-AA2D-0DF46B7A2697"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252667&GUID=20BFCB46-5634-432B-8D13-0C34812EC748"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15334005&GUID=21EA3D8A-D25F-451B-86A4-014D2CEF006F"
   },
   {
    "label": "Proposed Int. No. 501-A - 6/12/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15581293&GUID=BECF6B71-7D41-4B47-BA79-D5F7253DFA73"
   },
   {
    "label": "Committee Report 6/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586707&GUID=8FDC529F-2DBE-4AAE-B57A-382E8A936E6D"
   },
   {
    "label": "Proposed Int. No. 501-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613919&GUID=83D0C231-FB81-4C5F-B277-56C17798F78C"
   },
   {
    "label": "Hearing Testimony 6/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720355&GUID=001CA97A-F71A-4E5B-95BE-5D9DBA49827C"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 501-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613919&GUID=83D0C231-FB81-4C5F-B277-56C17798F78C"
+ },
  "history": [
   {
    "date": "2026-06-22",

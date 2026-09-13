@@ -12,33 +12,41 @@
  "attachments": [
   {
    "label": "Expense and Contract Schedules A and B FY 2027",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661552&GUID=D6A0DE1D-3B9A-49BE-807D-798EC3C6479C"
   },
   {
    "label": "Fiscal 2027 - Schedule C",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661553&GUID=861AFB5C-F0B5-465A-87EB-88B2E41C5A36"
   },
   {
    "label": "FY'2027 Terms and Conditions",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661558&GUID=416C70BB-1754-4910-A98F-FF8D78380F81"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820821&GUID=43E39F62-8506-4E36-83F9-19ADC2810129"
   },
   {
    "label": "Res. No. 540",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661555&GUID=97594AB9-9CD2-4DB1-9D6A-88459537EA7A"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665037&GUID=A9702351-840A-4DCD-9938-ECF8C78C53AA"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849102&GUID=53244281-BC05-423E-AC0A-FF3B07A52993"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

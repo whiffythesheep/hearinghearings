@@ -12,9 +12,11 @@
  "attachments": [
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765128&GUID=7C799C4F-4603-4F3F-816B-1E66DD57B4F3"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

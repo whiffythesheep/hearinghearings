@@ -28,37 +28,46 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 843",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393490&GUID=2A7FF1F3-236E-4AA2-8619-E2018A958ED3"
   },
   {
    "label": "Int. No. 843",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393491&GUID=7A0FD034-4040-47F6-8BA7-61814DA6BD09"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393497&GUID=FB054559-64FC-4E60-BF28-2420CB2A7691"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395157&GUID=A205B063-EE3F-4C4D-B116-3A3491232B4A"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508429&GUID=E9577346-D834-484D-A295-12F509B51D04"
   },
   {
    "label": "Committee Report 6/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567882&GUID=A7DF2400-7D15-4676-9D99-515AA32A333C"
   },
   {
    "label": "Hearing Testimony 6/10/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646428&GUID=0821877C-9388-4444-B5A2-53B6A73DD268"
   },
   {
    "label": "Hearing Transcript 6/10/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811992&GUID=EEADD09F-F33E-430C-9F36-87BBB90FE5FD"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-10",

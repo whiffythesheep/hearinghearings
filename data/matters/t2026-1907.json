@@ -10,21 +10,26 @@
  "attachments": [
   {
    "label": "Department of Health and Mental Hygiene - Mental Hygiene",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15554429&GUID=2BD10DC6-7D98-4659-8C19-C544D0AE505A"
   },
   {
    "label": "DOHMH - Alister F. Martin",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15566811&GUID=08987636-8609-472B-BF35-C326FF8158E0"
   },
   {
    "label": "Appearance Cards",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15566812&GUID=1F7451D6-AB7A-4736-B9AA-A867BB0602D7"
   },
   {
    "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764136&GUID=F6A90E83-AE67-45B7-8A19-71ED2590D315"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-05",

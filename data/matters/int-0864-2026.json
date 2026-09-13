@@ -17,65 +17,94 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 864-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754175&GUID=5EAB2E20-B0BA-4159-B75C-F266A38D08B4"
   },
   {
    "label": "Summary of Int. No. 864",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425170&GUID=E030B98A-4637-4ECA-813F-1E7B81BB816A"
   },
   {
    "label": "Int. No. 864",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425169&GUID=13775398-9DDC-4985-8E61-D7ED0E5BFB83"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425173&GUID=57B469FA-53F1-46D1-A00C-23A7E969EE05"
   },
   {
    "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426452&GUID=5EDA31BF-CD47-4988-A281-F14F1BB6F394"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567457&GUID=273E5518-10D9-44FD-843F-CD8EC8D94FD2"
   },
   {
    "label": "Committee Report 6/16/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586252&GUID=0FC5173D-F3F8-4DFC-ABCF-AE45649C7F95"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586331&GUID=42B3BDAD-5D52-4A78-9D2A-2DD4DC5688C0"
   },
   {
    "label": "Hearing Testimony 6/16/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656844&GUID=D6C57E68-7161-4915-A8C4-C6F8DC8098AB"
   },
   {
    "label": "Proposed Int. No. 864-A - 8/9/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754174&GUID=596EA97F-0249-47CF-A9D7-09F217EA404C"
   },
   {
    "label": "Proposed Int. No. 864-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763539&GUID=CD65B7FE-2AE5-47C2-9858-0B47CA08C6F4"
   },
   {
    "label": "Committee Report 8/13/2026",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15760250&GUID=42970DAB-7AAD-40E6-83AC-7B9F723CD0A2"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763540&GUID=261386D3-D7CD-4DE8-BF3E-53509A408FC0"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765183&GUID=F5CD92AB-BBA6-4D2A-B204-45B995E97D9E"
   },
   {
    "label": "Int. No. 864-A (FINAL)",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765342&GUID=B00C8067-34B7-40F5-9332-7E2A7EC9C673"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 864-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763539&GUID=CD65B7FE-2AE5-47C2-9858-0B47CA08C6F4"
+ },
  "history": [
   {
    "date": "2026-08-13",

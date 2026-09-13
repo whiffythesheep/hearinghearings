@@ -14,17 +14,21 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1028",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842649&GUID=6A0BB4C7-12CF-4E59-B520-CA09E06076AC"
   },
   {
    "label": "Int. No. 1028",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842648&GUID=2FCCE4EE-E62B-43FB-9DF0-AD647FA5D16E"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847637&GUID=F76CF90D-7772-4280-B37F-D06FD951EB29"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

@@ -12,49 +12,61 @@
  "attachments": [
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699701&GUID=8CBE6CFA-277F-4FBC-A856-58EE8B1D39B5"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720723&GUID=CFCB443D-E7B5-4189-90DB-7E275DDE7C4A"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 21, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15693074&GUID=9F4A5295-D449-42D1-A645-03095D0F47CE"
   },
   {
    "label": "Appearance Cards - Zoning 7/21/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707502&GUID=54395464-AF4B-4162-B106-A31271B02E2D"
   },
   {
    "label": "Calendar of the Landmarks and Zoning Subcommittee Meetings - August 12, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748172&GUID=BF98DBA9-32F1-44F0-A63B-3246CB07B7E2"
   },
   {
    "label": "Appearance Cards - Zoning 8/12/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15790989&GUID=0AA37B28-7E53-4939-86E2-57BF3C39CA35"
   },
   {
    "label": "Calendar of the Land Use Meeting - August 13, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15751732&GUID=3D45D79C-260A-4EC6-A1D7-321EE6AD625A"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765181&GUID=B1C06B6F-7389-474C-94F1-DCCAE7337391"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15830655&GUID=E6EDB373-ABA2-4F6B-A25D-E121977D2B58"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766991&GUID=9C1BA8C7-F3C5-4578-A1CD-8AB972CD8D1A"
   },
   {
    "label": "Res. No. 643",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766992&GUID=7012028D-F6F7-431A-9770-DD39F3472B75"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

@@ -28,29 +28,36 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1008-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15806524&GUID=0623D959-8BBD-4D28-BA32-4E9C8728EA08"
   },
   {
    "label": "Summary of Int. No. 1008",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763008&GUID=FDBA662B-D3D1-4C8F-BBA2-C44031880A2B"
   },
   {
    "label": "Int. No. 1008",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763009&GUID=299E4F02-2725-400D-87D8-2E2E1CB4F13B"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763020&GUID=D59DCD7B-F1D5-4D09-BF23-17FA56492F9E"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765133&GUID=6693E43A-937C-4D84-BA11-A79B279C57BE"
   },
   {
    "label": "Proposed Int. No. 1008-A - 8/25/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15806523&GUID=ACD285AC-3D41-442D-A375-D6FD10CA19D5"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

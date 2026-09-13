@@ -14,41 +14,72 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 286",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15195194&GUID=521A5E6A-DDEB-4605-B565-8FC8510DD144"
   },
   {
    "label": "Int. No. 286",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15195196&GUID=CF482635-575E-4CAF-BCA8-22BA70E98CBC"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15667078&GUID=9784A24A-9001-456A-8B6F-66E623300F9C"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251690&GUID=40A82AED-94B6-44B1-BAE3-D9963323D326"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252386&GUID=8CAC94A2-FAE7-45D6-81B4-327C683AD1AA"
   },
   {
    "label": "Committee Report 4/29/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419779&GUID=6E4AAD1D-EC9E-4380-873D-9EAC0AF2B6AE"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15421262&GUID=E45A622A-BEAD-4B5D-AAFF-B37EB8471C25"
   },
   {
    "label": "Hearing Testimony 4/29/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15440043&GUID=A014F5E0-948E-4F0D-9D51-FAE564FF84AC"
   },
   {
    "label": "Hearing Transcript 4/29/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754254&GUID=DC355DD8-8991-4673-B2DE-2C6FC225505E"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 175000,
+   "succeeding": 270000,
+   "full": 270000
+  },
+  "net": {
+   "effective": -175000,
+   "succeeding": -270000,
+   "full": -270000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15421262&GUID=E45A622A-BEAD-4B5D-AAFF-B37EB8471C25"
+ },
  "history": [
   {
    "date": "2026-04-29",

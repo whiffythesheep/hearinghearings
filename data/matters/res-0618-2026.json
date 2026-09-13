@@ -14,13 +14,16 @@
  "attachments": [
   {
    "label": "Res. No. 618",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843285&GUID=4BDEE8E5-02AB-49AD-B848-399099DBD0AF"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847629&GUID=313508D3-D169-4ABF-B5E7-1214A73DE244"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

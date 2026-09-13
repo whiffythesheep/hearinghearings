@@ -25,41 +25,72 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 12-A",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563334&GUID=CC74FBCF-B0CD-4E15-88AE-E46224038D14"
   },
   {
    "label": "Summary of Int. No. 12",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153952&GUID=D3DF0811-701B-4BB2-A2B5-55F858C903F4"
   },
   {
    "label": "Int. No. 12",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153951&GUID=0E1B3568-3478-44D5-81A5-B6A3690E03EE"
   },
   {
    "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251325&GUID=5FC6921E-043D-4097-9809-C6783D11C11E"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252020&GUID=7069E5D4-E1FE-4237-A83F-8464409FD269"
   },
   {
    "label": "Proposed Int. No. 12-A - 6/8/26",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563332&GUID=259EB5E1-40F0-4496-86C8-C632E87FB12F"
   },
   {
    "label": "Committee Report 6/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586704&GUID=C2F15459-3584-4263-A708-D997601E2BF4"
   },
   {
    "label": "Proposed Int. No. 12-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613916&GUID=79CDABBA-CD00-4591-9188-A4DF6CDD8BE3"
   },
   {
    "label": "Hearing Testimony 6/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720352&GUID=8288B283-AC74-4E9F-AB2A-0017624C28B9"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 12-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15613916&GUID=79CDABBA-CD00-4591-9188-A4DF6CDD8BE3"
+ },
  "history": [
   {
    "date": "2026-06-22",

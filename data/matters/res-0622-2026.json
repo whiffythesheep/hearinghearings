@@ -13,13 +13,16 @@
  "attachments": [
   {
    "label": "Res. No. 622",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842822&GUID=FB819A44-26EA-4C18-A2B5-93779FB181EB"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847646&GUID=8B7332D5-81E7-4C6A-9D53-2C58941367B4"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

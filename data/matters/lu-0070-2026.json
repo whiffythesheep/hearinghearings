@@ -12,69 +12,86 @@
  "attachments": [
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495510&GUID=6CD3A238-ECF5-45A2-9B96-DEF9A6815DC8"
   },
   {
    "label": "Monitor Point Presentation",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15506347&GUID=D5D71E55-A912-416F-8261-32193D5783B6"
   },
   {
    "label": "Hearing Testimony - Zoning 5/27/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550205&GUID=12214BE9-4499-41B9-8D7A-BBE19196F798"
   },
   {
    "label": "Hearing Testimony - Zoning 5/27/26 - Save the Inlet",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15550241&GUID=A1076729-5E2E-4B8A-B084-C1D4D796702F"
   },
   {
    "label": "Petitions & Support Letters (1of2) - Zoning 5/27/26",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547543&GUID=541C8EAA-3279-4B66-8238-1C9A52B31FE6"
   },
   {
    "label": "Petitions & Support Letters (2of2) - Zoning 5/27/26",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15547660&GUID=372EF5A3-7E66-4895-98F4-EC3D3F7B4BF2"
   },
   {
    "label": "Appearance Cards - Zoning 5/27/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15510814&GUID=AD6692F3-67D7-402A-AF92-ADE547F49798"
   },
   {
    "label": "Hearing Transcript - Zoning 5/27/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15831212&GUID=07E8EE2D-DCEC-4FEE-8451-82A0A4934621"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548255&GUID=F17AE4B2-BDAA-45F8-B920-B170362A8B31"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - June 25, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15647607&GUID=34DB3048-D656-4642-93FA-D5ECB141F6CE"
   },
   {
    "label": "Hearing Transcript - Zoning 6/25/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841674&GUID=4352B4AB-772C-4C94-B44D-57A77367F13F"
   },
   {
    "label": "Withdrawl Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15653677&GUID=17F6B823-C815-4658-BCD5-EBEAEDAC9497"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657332&GUID=C8716A32-F3BD-4988-8D5D-159FC6A37A17"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665053&GUID=481E16E5-D23D-46ED-9D26-3CD77304F4BB"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849017&GUID=B32ED424-FF5A-4554-8893-1B58601F4792"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849118&GUID=370289C9-FB29-4026-8C11-EC91F929D606"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

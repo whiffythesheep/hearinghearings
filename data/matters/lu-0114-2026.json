@@ -12,49 +12,61 @@
  "attachments": [
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699697&GUID=3E886DD0-F88A-4406-9187-AE0B7B711FEB"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720719&GUID=D0341668-2DC7-489A-997B-CD86E5A8D0E8"
   },
   {
    "label": "Calendar of the Landmarks Subcommittee Meeting - July 22, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699561&GUID=CDAF9627-BB0A-43C0-868C-FD01553CEAEE"
   },
   {
    "label": "Hearing Testimony - Landmarks 7/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15732584&GUID=9F0F901B-7B8B-49DB-A6ED-6474C6A5748D"
   },
   {
    "label": "Appearance Cards - Landmarks 7/22/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707496&GUID=6881C319-66AD-4107-B25A-F69CD650F65E"
   },
   {
    "label": "Hearing Transcript - Landmarks 7/22/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848926&GUID=6C91D3BC-2F99-4394-BE86-D19A237E3068"
   },
   {
    "label": "Calendar of the Landmarks and Zoning Subcommittee Meetings - August 12, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15747924&GUID=E7F52263-A6BD-4DCB-8F28-BDEEE859DEBF"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766148&GUID=8EA771DD-2943-4703-8FCE-A63AA4C7D62F"
   },
   {
    "label": "Hearing Transcript - Landmarks 8/12/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841687&GUID=9BC97592-2FF8-4772-A67B-1CD8D5988FF4"
   },
   {
    "label": "Calendar of the Land Use Meeting - August 13, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15751728&GUID=2697AE2C-360E-4DED-8821-130E5CD4709E"
   },
   {
    "label": "Res. No. 611",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15766150&GUID=B4434978-C02D-49F9-A4F8-72D01530A6F0"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

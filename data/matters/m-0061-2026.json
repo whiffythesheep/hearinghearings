@@ -10,49 +10,61 @@
  "attachments": [
   {
    "label": "Mayor's Nomination Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419856&GUID=CBB79959-AB21-4B04-BFAB-1B1747D7A85F"
   },
   {
    "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426498&GUID=BED0BDF8-078D-45FE-A155-EC2475BD1A7C"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567635&GUID=85944488-39FE-4717-9326-5E62017EF3EE"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15470757&GUID=651C91EA-6212-4B4B-B04B-02DEC6B5A8A6"
   },
   {
    "label": "Hearing Testimony 5/6/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469627&GUID=B33FE104-2514-4D4B-8FF7-1E39536281B7"
   },
   {
    "label": "Hearing Transcript 5/6/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15704141&GUID=4E79FCC9-26EE-48DF-BA02-0813DB0584D8"
   },
   {
    "label": "Res. No. 472",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15470758&GUID=8EFBAD1F-564B-4F74-91D5-D09281D9F5F1"
   },
   {
    "label": "Committee Report 5/14/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15478071&GUID=BBCAC50A-0854-471A-8949-E25230C05C76"
   },
   {
    "label": "Hearing Transcript 5/14/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15773606&GUID=91D7BC67-16C3-4D26-BBBE-60EC3BA4D0B3"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548290&GUID=ACEDC1CB-8D74-4C85-9822-54FCEE3AD152"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849046&GUID=31608D04-3590-4DBD-9F4F-63E55163E6EB"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-05-14",

@@ -53,7 +53,10 @@ SUMMARIZER_PY = REPO_ROOT / "summarize_council_meeting.py"
 
 # Anything matching these patterns in the body name is procedural and
 # never gets a summary page. Case-insensitive substring.
-BODY_SKIP_PATTERNS = ("stated meeting", "executive session")
+# Stated Meetings now go through the full pipeline -- they carry the whole
+# Council and real debate. Executive sessions stay skipped: they are closed
+# to the public and no recording exists to transcribe.
+BODY_SKIP_PATTERNS = ("executive session",)
 
 # Location-cell <em> marker for vote-only sessions on Legistar.
 #

@@ -17,21 +17,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 996",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762840&GUID=DFDEEFED-1E0D-469C-966A-B98B5841A5C0"
   },
   {
    "label": "Int. No. 996",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762841&GUID=21EF4868-DFBA-4063-BB2B-B6819062FF6C"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762843&GUID=18304283-F6EB-4AF5-AEFE-62B34992AE57"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765119&GUID=582430A9-9BFE-4ADB-BA97-802F86703A97"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

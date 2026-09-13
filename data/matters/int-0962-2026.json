@@ -16,21 +16,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 962",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662405&GUID=ACA5C56C-3FC6-448D-BE1B-5E4A98B5671A"
   },
   {
    "label": "Int. No. 962",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662407&GUID=88112CC6-755D-44BB-93D9-498CA59497A1"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664768&GUID=9D157F11-B2DB-4716-B95A-0D17B93E1467"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849069&GUID=B13ED642-6A5C-4C7C-B1D6-DEC645A4D07E"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

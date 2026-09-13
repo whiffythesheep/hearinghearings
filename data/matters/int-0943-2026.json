@@ -41,41 +41,51 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 943",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573897&GUID=E5C58088-BFCF-4988-8875-5C498921FB32"
   },
   {
    "label": "Int. No. 943",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573898&GUID=2F624419-3951-4501-8114-7D32B523BFFB"
   },
   {
    "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575734&GUID=782A87FE-5E4E-4A48-A75A-DC22EC3F7551"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15689754&GUID=3CBEDD3A-042E-4249-BBCC-18E9174A5544"
   },
   {
    "label": "Committee Report 7/15/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691102&GUID=EADC59FE-1BC4-466A-B577-B964EE317032"
   },
   {
    "label": "Hearing Testimony 7/15/26 (1of2)",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15709496&GUID=F93C67CF-1453-4E96-B284-6902D1394C5C"
   },
   {
    "label": "Hearing Testimony 7/15/26 (2of2)",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15709655&GUID=2D35D915-2040-4990-96E7-A2676F0722B9"
   },
   {
    "label": "Appearance Cards 7/15/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15721077&GUID=98DE17EA-CEE6-4BC4-8303-1A3E8C2ADD57"
   },
   {
    "label": "Hearing Transcript 7/15/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15751620&GUID=0C208BC9-E220-40AD-82A1-43BBAB8A60B2"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-07-15",

@@ -12,29 +12,36 @@
  "attachments": [
   {
    "label": "Res. No. 535",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15661905&GUID=44839632-431A-4BD5-953B-F165498CFD03"
   },
   {
    "label": "Exhibit A",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662274&GUID=A7185CEE-3143-419B-93D1-82CA6D027391"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15662276&GUID=3098532E-C500-4284-8EAA-4BA338C1ACF3"
   },
   {
    "label": "Hearing Transcript 6/30/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15820832&GUID=110C4AA0-0A2C-4BF4-90F1-A2A9AF5E679B"
   },
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665034&GUID=D8A389B8-C8EB-4A76-82AF-2788507150CF"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849099&GUID=50C52F3C-E8D9-4F56-B525-1EAE67386B51"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-06-30",

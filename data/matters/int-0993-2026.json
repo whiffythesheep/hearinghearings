@@ -14,21 +14,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 993",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762663&GUID=E4FDFD28-F216-48A5-8146-400C6DC32115"
   },
   {
    "label": "Int. No. 993",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762664&GUID=DFC9B035-30C9-4D21-995E-C7AD87C84DC7"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762670&GUID=7B4509E4-04F3-4D45-AB4D-1BA4CE366FED"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765116&GUID=C771658F-1C17-46C7-9F48-D8F3480DF784"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

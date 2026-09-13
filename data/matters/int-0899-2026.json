@@ -22,33 +22,41 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 899",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15474117&GUID=1FF8BEF3-0421-48B9-8B4D-4E8A15157D95"
   },
   {
    "label": "Int. No. 899",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15474118&GUID=3EFBDBCA-B8E3-458B-AF50-813FC830F70F"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15474119&GUID=8E4CB83E-40EB-4D5C-B061-9A7C033AE843"
   },
   {
    "label": "Committee Report 5/19/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490629&GUID=D0F90388-0C74-47C8-9A56-F039A98A9302"
   },
   {
    "label": "Hearing Testimony 5/19/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507772&GUID=15D99B53-BA26-4A72-9558-EF540184F219"
   },
   {
    "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548232&GUID=8E9510B0-9D67-43DF-BFEE-9AED567120B6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848994&GUID=1F6BCEA0-05B8-4537-8BDC-D287DC5A6C07"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-05-19",

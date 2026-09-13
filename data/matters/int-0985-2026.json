@@ -14,21 +14,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 985",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762365&GUID=0650EE3E-7777-441B-80E4-E275E74A0E2E"
   },
   {
    "label": "Int. No. 985",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762366&GUID=F1FD2065-AFF6-4623-9B6C-AB2FB51014DE"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762367&GUID=F1564660-51D5-4CA7-A391-554568396014"
   },
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765107&GUID=BAC31E3D-7C04-4FB5-9325-3F3F17EA1642"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

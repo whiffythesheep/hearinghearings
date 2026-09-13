@@ -119,6 +119,7 @@ def load_records(hearings):
         for item in meeting.get("items", []):
             slug = item.get("file_number") and slugify(item["file_number"])
             matter = matter_by_slug.get(slug)
+            item["matter_slug"] = slug if matter is not None else ""
             if matter is not None:
                 matter["appearances"].append({
                     "date": meeting.get("date", ""),
@@ -200,8 +201,30 @@ def load_records(hearings):
         m["latest_date"] = m["appearances"][0]["date"] if m["appearances"] else ""
     matters.sort(key=lambda m: (m["latest_date"], m["file_number"]), reverse=True)
 
+    # --- finish meetings ------------------------------------------------
+    # Every meeting gets a row in the chronological index. Only those with
+    # no published hearing get a page of their own -- for the rest the
+    # hearing page already is the page, and a second one would duplicate it.
+    for meeting in meetings:
+        meeting["slug"] = meeting["event_id"]
+        meeting["has_hearing"] = bool(meeting["hearing_slug"])
+        meeting["link"] = (f"/hearings/{meeting['hearing_slug']}/"
+                           if meeting["has_hearing"]
+                           else f"/meetings/{meeting['event_id']}/")
+        meeting["title"] = meeting["hearing_title"] or meeting.get("body", "")
+        meeting["voted_items"] = [i for i in meeting.get("items", [])
+                                  if i.get("roll_call")]
+        meeting["kind"] = ("Hearing" if meeting["has_hearing"]
+                           else ("Stated" if "stated" in meeting.get("body", "").lower()
+                                 or meeting.get("body", "") == "City Council"
+                                 else "Vote"))
+    meeting_list = sorted(meetings, key=lambda m: (m.get("date", ""), m["event_id"]),
+                          reverse=True)
+
     return {
         "meetings": {m["event_id"]: m for m in meetings},
+        "meeting_list": meeting_list,
+        "record_only_meetings": [m for m in meeting_list if not m["has_hearing"]],
         "matters": matters,
         "matter_by_slug": matter_by_slug,
         "members": member_list,

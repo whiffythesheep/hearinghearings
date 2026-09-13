@@ -14,21 +14,26 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1037",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842847&GUID=5DD50A29-D434-476E-8498-8C7580D0E7DC"
   },
   {
    "label": "Int. No. 1037",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842848&GUID=21C07372-9B25-46E0-AA7B-896139FE1932"
   },
   {
    "label": "Memorandum in Support",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15842849&GUID=94ED0A63-9053-4D0F-890C-ABDFEE9E5131"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847647&GUID=CAC8F33E-9834-4EB6-B2C8-0A6A81297881"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-10",

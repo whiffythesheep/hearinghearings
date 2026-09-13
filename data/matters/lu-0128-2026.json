@@ -12,13 +12,16 @@
  "attachments": [
   {
    "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765167&GUID=6ABE1D13-AB85-4036-84C3-5E25C2D2F6C8"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824896&GUID=1A152F0E-FCE3-4F16-8C83-7B6055B3F2AB"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-09-09",

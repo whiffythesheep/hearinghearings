@@ -14,45 +14,56 @@
  "attachments": [
   {
    "label": "Res. No. 425",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393484&GUID=8AD5DAB9-DA5B-4AC0-B970-CC7C596B591A"
   },
   {
    "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395153&GUID=362EDF60-3E2F-4C23-8B40-E40DD5C566EE"
   },
   {
    "label": "Committee Report 4/22/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15397290&GUID=5695C31F-A674-4CFB-BC1F-0749CB048EA0"
   },
   {
    "label": "Hearing Testimony 4/22/26",
+   "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15423142&GUID=75F4425C-1D23-4B9B-9124-BFE5277A05B1"
   },
   {
    "label": "Hearing Transcript 4/22/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15773603&GUID=5EF60D39-9ED9-4D24-863B-DFA788DB53FA"
   },
   {
    "label": "Committee Report 4/29/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419733&GUID=9BD1FF2C-BBE0-497E-88CE-2C3ACB0773CA"
   },
   {
    "label": "Hearing Transcript 4/29/26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15768383&GUID=0C3D4506-B24E-478F-9B33-57554C08FB10"
   },
   {
    "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426523&GUID=B6CEB117-1A3A-452F-962E-FD4819FA06E2"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508425&GUID=BB026904-B82C-4914-AD16-9A73D6B9D7C7"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567664&GUID=F4E46F5F-3AFC-45D8-983A-E0B76DE5EB5F"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-04-30",

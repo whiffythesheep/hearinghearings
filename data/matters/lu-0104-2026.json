@@ -12,49 +12,61 @@
  "attachments": [
   {
    "label": "June 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664776&GUID=67E40869-0AFD-457F-A82C-94BA6DACBC75"
   },
   {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 1, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660190&GUID=1819353C-6748-41A3-98BC-C4937EEE7AE4"
   },
   {
    "label": "63-02 Fresh Pond Road Rezoning",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15707616&GUID=ACB08797-C891-4BCA-80B4-78C01C8BDBF4"
   },
   {
    "label": "Appearance Cards - Zoning 7/1/26",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15700878&GUID=350D9704-65CE-4D7D-A3FA-B2DF651BFF07"
   },
   {
    "label": "Calendar of the Subcommittee and Land Use Meetings - July 14, 2026",
+   "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682918&GUID=4AE7169B-D776-4262-A522-A1B3ED3D9450"
   },
   {
    "label": "Committee Report",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692114&GUID=6B4A4CC7-D699-448B-96F0-C5BB0D9726B8"
   },
   {
    "label": "Res. No.",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692115&GUID=36A86B1C-127B-4416-8788-489DE4E59A78"
   },
   {
    "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699736&GUID=66343FFD-626F-415A-B42E-A2BAE776D4B9"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720759&GUID=146C6E79-C545-4AEC-A6E3-09353E5AA0A8"
   },
   {
    "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744900&GUID=8B346FBF-29D4-4CF3-9E2A-C5980D4278AE"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849077&GUID=61D06CA0-79B4-454A-85D5-2DE78A31D294"
   }
  ],
+ "fiscal": null,
  "history": [
   {
    "date": "2026-08-13",

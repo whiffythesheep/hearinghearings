@@ -18,29 +18,57 @@
  "attachments": [
   {
    "label": "Summary of Int. No. 1027",
+   "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824641&GUID=EB690E52-0D8A-477E-9A99-944768D28B02"
   },
   {
    "label": "Int. No. 1027",
+   "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824698&GUID=B5A08A8C-67F9-441E-86A3-2E202EACED5C"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844385&GUID=F3B60DF7-9D91-47B0-9296-769E54116E6F"
   },
   {
    "label": "Committee Report 9/10/26",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843295&GUID=1AED7784-20F3-4AE5-BBD6-D1DB6691A5BA"
   },
   {
    "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844444&GUID=C8F96BB7-831E-4C99-BA68-6EE27E9411F4"
   },
   {
    "label": "September 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847342&GUID=FC04D709-B9A7-4C27-A919-8934AEBCBD78"
   }
  ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 2012,
+   "succeeding": 0,
+   "full": 2012
+  },
+  "net": {
+   "effective": -2012,
+   "succeeding": 0,
+   "full": -2012
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844385&GUID=F3B60DF7-9D91-47B0-9296-769E54116E6F"
+ },
  "history": [
   {
    "date": "2026-09-10",
