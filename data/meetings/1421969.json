@@ -1,0 +1,143 @@
+{
+ "event_id": "1421969",
+ "date": "2026-06-24",
+ "body": "Committee on Education",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Technology.",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1421969&GUID=A5F0EBEC-3119-44ED-95B0-2027EDFDD22D&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2084",
+   "type": "Oversight",
+   "name": "Oversight - Artificial Intelligence, Student Data, and Privacy in NYC Public Schools.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8056949",
+   "legistar_guid": "5363AF00-79FB-463F-93A7-987AADEFD8CF"
+  },
+  {
+   "file_number": "T2026-2084",
+   "type": "Oversight",
+   "name": "Oversight - Artificial Intelligence, Student Data, and Privacy in NYC Public Schools.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8056949",
+   "legistar_guid": "5363AF00-79FB-463F-93A7-987AADEFD8CF"
+  },
+  {
+   "file_number": "Int 0412-2026",
+   "type": "Introduction",
+   "name": "Requiring the disclosure of school admissions policies and procedures.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862779",
+   "legistar_guid": "D60B8F58-09A9-48DA-B825-BE3212337B36"
+  },
+  {
+   "file_number": "Int 0412-2026",
+   "type": "Introduction",
+   "name": "Requiring the disclosure of school admissions policies and procedures.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7862779",
+   "legistar_guid": "D60B8F58-09A9-48DA-B825-BE3212337B36"
+  },
+  {
+   "file_number": "Int 0684-2026",
+   "type": "Introduction",
+   "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879010",
+   "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7"
+  },
+  {
+   "file_number": "Int 0684-2026",
+   "type": "Introduction",
+   "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7879010",
+   "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7"
+  },
+  {
+   "file_number": "Int 0853-2026",
+   "type": "Introduction",
+   "name": "Requiring a study on how language access needs, income, and geographic location affect access to special education programs and services.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7984719",
+   "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A"
+  },
+  {
+   "file_number": "Int 0853-2026",
+   "type": "Introduction",
+   "name": "Requiring a study on how language access needs, income, and geographic location affect access to special education programs and services.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7984719",
+   "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A"
+  },
+  {
+   "file_number": "Int 0959-2026",
+   "type": "Introduction",
+   "name": "Annual reporting on algorithmic tools approved for use in schools.",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8073278",
+   "legistar_guid": "B5815159-45A0-4A5D-90ED-BAEBF61D9759"
+  },
+  {
+   "file_number": "Int 0959-2026",
+   "type": "Introduction",
+   "name": "Annual reporting on algorithmic tools approved for use in schools.",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8073278",
+   "legistar_guid": "B5815159-45A0-4A5D-90ED-BAEBF61D9759"
+  },
+  {
+   "file_number": "Int 0960-2026",
+   "type": "Introduction",
+   "name": "Quarterly reporting on data breaches of algorithmic tools in schools.",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8073279",
+   "legistar_guid": "2CAE8FCE-0DBC-4C57-A2C0-38177CDF331B"
+  },
+  {
+   "file_number": "Int 0960-2026",
+   "type": "Introduction",
+   "name": "Quarterly reporting on data breaches of algorithmic tools in schools.",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8073279",
+   "legistar_guid": "2CAE8FCE-0DBC-4C57-A2C0-38177CDF331B"
+  }
+ ]
+}

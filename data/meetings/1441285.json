@@ -1,0 +1,113 @@
+{
+ "event_id": "1441285",
+ "date": "2026-09-09",
+ "body": "Committee on Education",
+ "location": "Committee Room - City Hall VOTE",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441285&GUID=5CFA185F-A1D3-4C20-A50F-BE8EFAC83380&Search=",
+ "items": [
+  {
+   "file_number": "Res 0007-2026",
+   "type": "Resolution",
+   "name": "Incorporate a 9/11 curriculum in all New York schools. (A.8347)",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "Proposed Res. No. 7-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861348",
+   "legistar_guid": "8E5F3235-234C-4FAA-88C5-B717FD7DA7F7"
+  },
+  {
+   "file_number": "Res 0007-2026",
+   "type": "Resolution",
+   "name": "Incorporate a 9/11 curriculum in all New York schools. (A.8347)",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7861348",
+   "legistar_guid": "8E5F3235-234C-4FAA-88C5-B717FD7DA7F7"
+  },
+  {
+   "file_number": "Res 0007-2026",
+   "type": "Resolution",
+   "name": "Incorporate a 9/11 curriculum in all New York schools. (A.8347)",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7861348",
+   "legistar_guid": "8E5F3235-234C-4FAA-88C5-B717FD7DA7F7"
+  },
+  {
+   "file_number": "Res 0007-2026",
+   "type": "Resolution",
+   "name": "Incorporate a 9/11 curriculum in all New York schools. (A.8347)",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7861348",
+   "legistar_guid": "8E5F3235-234C-4FAA-88C5-B717FD7DA7F7",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Absent"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

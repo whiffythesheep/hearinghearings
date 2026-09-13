@@ -1,0 +1,33 @@
+{
+ "event_id": "1399770",
+ "date": "2026-03-23",
+ "body": "Committee on Land Use",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399770&GUID=4E1F16BD-DF86-4ABE-AE3E-3A1BBBBF58DF&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1369",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Land Use",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7931143",
+   "legistar_guid": "18E00964-8E59-48D6-958C-F2156305D6F4"
+  },
+  {
+   "file_number": "T2026-1369",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Land Use",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7931143",
+   "legistar_guid": "18E00964-8E59-48D6-958C-F2156305D6F4"
+  }
+ ]
+}

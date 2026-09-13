@@ -1,0 +1,33 @@
+{
+ "event_id": "1426436",
+ "date": "2026-07-07",
+ "body": "Committee on Governmental Operations, State & Federal Legislation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1426436&GUID=1F80833C-787E-48AA-BFF6-C1498830A89B&Search=",
+ "items": [
+  {
+   "file_number": "Int 0983-2026",
+   "type": "Introduction",
+   "name": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8122454",
+   "legistar_guid": "A450998B-4E7E-47C2-8518-4C02DB31F1F3"
+  },
+  {
+   "file_number": "Int 0983-2026",
+   "type": "Introduction",
+   "name": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8122454",
+   "legistar_guid": "A450998B-4E7E-47C2-8518-4C02DB31F1F3"
+  }
+ ]
+}

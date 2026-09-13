@@ -1,0 +1,33 @@
+{
+ "event_id": "1431093",
+ "date": "2026-08-11",
+ "body": "Committee on Finance",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1431093&GUID=91B48A2C-A227-4F6C-8685-61897502CBDA&Search=",
+ "items": [
+  {
+   "file_number": "Int 1002-2026",
+   "type": "Introduction",
+   "name": "Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8150660",
+   "legistar_guid": "2C30BE6D-1F5A-4070-A8BE-5BCFE05EBCB5"
+  },
+  {
+   "file_number": "Int 1002-2026",
+   "type": "Introduction",
+   "name": "Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8150660",
+   "legistar_guid": "2C30BE6D-1F5A-4070-A8BE-5BCFE05EBCB5"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "event_id": "1441278",
+ "date": "2026-09-10",
+ "body": "Committee on Health",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441278&GUID=8456193B-0EE3-48EE-8AC3-0F9CCC39FF5C&Search=",
+ "items": [
+  {
+   "file_number": "Int 0196-2026",
+   "type": "Introduction",
+   "name": "Modifying the sodium warning at designated food service establishments.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "Proposed Int. No. 196-C",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861961",
+   "legistar_guid": "4B512226-FB33-454A-A74D-214B4980C99C"
+  },
+  {
+   "file_number": "Int 0196-2026",
+   "type": "Introduction",
+   "name": "Modifying the sodium warning at designated food service establishments.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7861961",
+   "legistar_guid": "4B512226-FB33-454A-A74D-214B4980C99C"
+  },
+  {
+   "file_number": "Int 0196-2026",
+   "type": "Introduction",
+   "name": "Modifying the sodium warning at designated food service establishments.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7861961",
+   "legistar_guid": "4B512226-FB33-454A-A74D-214B4980C99C"
+  },
+  {
+   "file_number": "Int 0196-2026",
+   "type": "Introduction",
+   "name": "Modifying the sodium warning at designated food service establishments.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7861961",
+   "legistar_guid": "4B512226-FB33-454A-A74D-214B4980C99C",
+   "tally": {
+    "Affirmative": 7,
+    "Medical": 1,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Medical"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Absent"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Int 0547-2026",
+   "type": "Introduction",
+   "name": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "Proposed Int. No. 547-B",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7878499",
+   "legistar_guid": "8FD1EF99-F9AB-4812-A338-1EA7F002479A"
+  },
+  {
+   "file_number": "Int 0547-2026",
+   "type": "Introduction",
+   "name": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7878499",
+   "legistar_guid": "8FD1EF99-F9AB-4812-A338-1EA7F002479A"
+  },
+  {
+   "file_number": "Int 0547-2026",
+   "type": "Introduction",
+   "name": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7878499",
+   "legistar_guid": "8FD1EF99-F9AB-4812-A338-1EA7F002479A"
+  },
+  {
+   "file_number": "Int 0547-2026",
+   "type": "Introduction",
+   "name": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7878499",
+   "legistar_guid": "8FD1EF99-F9AB-4812-A338-1EA7F002479A",
+   "tally": {
+    "Affirmative": 7,
+    "Medical": 1,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Medical"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Absent"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

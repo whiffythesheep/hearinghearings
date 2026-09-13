@@ -1,0 +1,55 @@
+{
+ "event_id": "1417024",
+ "date": "2026-06-17",
+ "body": "Committee on Consumer and Worker Protection",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417024&GUID=7749C1B4-9E50-4140-BFBD-3CB7F8073D4C&Search=",
+ "items": [
+  {
+   "file_number": "Int 0891-2026",
+   "type": "Introduction",
+   "name": "Prohibiting surveillance pricing.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8027985",
+   "legistar_guid": "A6815BBB-AC2B-487F-A27B-46449A644474"
+  },
+  {
+   "file_number": "Int 0891-2026",
+   "type": "Introduction",
+   "name": "Prohibiting surveillance pricing.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8027985",
+   "legistar_guid": "A6815BBB-AC2B-487F-A27B-46449A644474"
+  },
+  {
+   "file_number": "Int 0892-2026",
+   "type": "Introduction",
+   "name": "Restricting the frequency of price increases in grocery stores.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8027969",
+   "legistar_guid": "0B7A3325-BD72-4D10-9722-3F48C4E59C52"
+  },
+  {
+   "file_number": "Int 0892-2026",
+   "type": "Introduction",
+   "name": "Restricting the frequency of price increases in grocery stores.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8027969",
+   "legistar_guid": "0B7A3325-BD72-4D10-9722-3F48C4E59C52"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "event_id": "1415388",
+ "date": "2026-06-04",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall Jointly with the Committee on General Welfare and the Committee on Sanitation and Solid Waste Management and the Committee on Governmental Operations, State & Federal Legislation*.",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415388&GUID=CCC019D1-105C-4D32-B296-490810EECEAF&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1903",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8023999",
+   "legistar_guid": "0F87C324-29EE-4A14-BE2D-3A03A8CF9984"
+  },
+  {
+   "file_number": "T2026-1903",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8023999",
+   "legistar_guid": "0F87C324-29EE-4A14-BE2D-3A03A8CF9984"
+  }
+ ]
+}

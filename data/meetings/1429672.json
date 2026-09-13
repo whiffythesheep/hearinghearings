@@ -1,0 +1,55 @@
+{
+ "event_id": "1429672",
+ "date": "2026-09-08",
+ "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1429672&GUID=6F5F17BA-504D-4094-A538-36C2F2E03661&Search=",
+ "items": [
+  {
+   "file_number": "LU 0129-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8198457",
+   "legistar_guid": "3664DC33-7029-4A9D-969A-527EFCE15D1D"
+  },
+  {
+   "file_number": "LU 0129-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8198457",
+   "legistar_guid": "3664DC33-7029-4A9D-969A-527EFCE15D1D"
+  },
+  {
+   "file_number": "LU 0130-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8198458",
+   "legistar_guid": "68489386-B47C-4390-80B7-17011FE8D1FC"
+  },
+  {
+   "file_number": "LU 0130-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8198458",
+   "legistar_guid": "68489386-B47C-4390-80B7-17011FE8D1FC"
+  }
+ ]
+}

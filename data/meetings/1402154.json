@@ -1,0 +1,77 @@
+{
+ "event_id": "1402154",
+ "date": "2026-04-14",
+ "body": "Committee on Criminal Justice",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Governmental Operations, State & Federal Legislation",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1402154&GUID=1BB4B79F-23B1-4C97-94F0-1960B9585F2B&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1547",
+   "type": "Oversight",
+   "name": "Oversight - Voting on Rikers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7953361",
+   "legistar_guid": "76835D2D-D2DF-464B-BDAF-1570990BA8EA"
+  },
+  {
+   "file_number": "T2026-1547",
+   "type": "Oversight",
+   "name": "Oversight - Voting on Rikers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7953361",
+   "legistar_guid": "76835D2D-D2DF-464B-BDAF-1570990BA8EA"
+  },
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for and reporting on curing ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for and reporting on curing ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Requiring a report on voter registration in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Requiring a report on voter registration in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  }
+ ]
+}

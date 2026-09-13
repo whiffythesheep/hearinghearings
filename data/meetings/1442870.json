@@ -1,0 +1,80 @@
+{
+ "event_id": "1442870",
+ "date": "2026-09-10",
+ "body": "Committee on Environmental Protection and Waterfronts",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1442870&GUID=A2EC34B1-3A76-4C85-9B47-DD95DFB12EC3&Search=",
+ "items": [
+  {
+   "file_number": "Int 0804-2026",
+   "type": "Introduction",
+   "name": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+   "sponsor": "Phil Wong",
+   "agenda_note": "Proposed Int. No. 804-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7959565",
+   "legistar_guid": "18668BE2-17D2-45C3-A0FD-FFEC01E9A753"
+  },
+  {
+   "file_number": "Int 0804-2026",
+   "type": "Introduction",
+   "name": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+   "sponsor": "Phil Wong",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7959565",
+   "legistar_guid": "18668BE2-17D2-45C3-A0FD-FFEC01E9A753"
+  },
+  {
+   "file_number": "Int 0804-2026",
+   "type": "Introduction",
+   "name": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+   "sponsor": "Phil Wong",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7959565",
+   "legistar_guid": "18668BE2-17D2-45C3-A0FD-FFEC01E9A753"
+  },
+  {
+   "file_number": "Int 0804-2026",
+   "type": "Introduction",
+   "name": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+   "sponsor": "Phil Wong",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7959565",
+   "legistar_guid": "18668BE2-17D2-45C3-A0FD-FFEC01E9A753",
+   "tally": {
+    "Affirmative": 5
+   },
+   "roll_call": [
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

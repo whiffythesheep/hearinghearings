@@ -1,0 +1,33 @@
+{
+ "event_id": "1415396",
+ "date": "2026-06-08",
+ "body": "Committee on Education",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Finance",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415396&GUID=91E9A0BB-939D-4ACD-A0BC-BE58A646C990&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1911",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Education",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8024046",
+   "legistar_guid": "E7A4F20B-8D4B-494D-845B-31852F984C78"
+  },
+  {
+   "file_number": "T2026-1911",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Education",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8024046",
+   "legistar_guid": "E7A4F20B-8D4B-494D-845B-31852F984C78"
+  }
+ ]
+}

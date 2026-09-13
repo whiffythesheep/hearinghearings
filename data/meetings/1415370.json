@@ -1,0 +1,33 @@
+{
+ "event_id": "1415370",
+ "date": "2026-06-02",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing and the Committee on Oversight and Investigations*.",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415370&GUID=8F2ED0F7-E7E2-44C7-87FB-70B3437A185A&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1892",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8023944",
+   "legistar_guid": "98E069CD-90A5-4046-95C8-4BF86751572E"
+  },
+  {
+   "file_number": "T2026-1892",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8023944",
+   "legistar_guid": "98E069CD-90A5-4046-95C8-4BF86751572E"
+  }
+ ]
+}

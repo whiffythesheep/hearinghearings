@@ -1,0 +1,33 @@
+{
+ "event_id": "1415364",
+ "date": "2026-06-01",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Public Safety and the Committee on Fire and Emergency Management*.",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415364&GUID=F486F68A-9E95-405D-8260-F80B46125853&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1896",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8023975",
+   "legistar_guid": "5F231CEC-CB8D-4354-B982-B9C830A69013"
+  },
+  {
+   "file_number": "T2026-1896",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8023975",
+   "legistar_guid": "5F231CEC-CB8D-4354-B982-B9C830A69013"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "event_id": "1441286",
+ "date": "2026-09-10",
+ "body": "Committee on Transportation and Infrastructure",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441286&GUID=D0A2BCBC-DA44-4F47-B353-B79023320EF6&Search=",
+ "items": [
+  {
+   "file_number": "Int 0866-2026",
+   "type": "Introduction",
+   "name": "Requiring the posting of notification signs regarding upcoming disruptive work.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "Proposed Int. No. 866-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7998333",
+   "legistar_guid": "67438741-F886-4579-A6F2-0D8F663C7AF5"
+  },
+  {
+   "file_number": "Int 0866-2026",
+   "type": "Introduction",
+   "name": "Requiring the posting of notification signs regarding upcoming disruptive work.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7998333",
+   "legistar_guid": "67438741-F886-4579-A6F2-0D8F663C7AF5"
+  },
+  {
+   "file_number": "Int 0866-2026",
+   "type": "Introduction",
+   "name": "Requiring the posting of notification signs regarding upcoming disruptive work.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7998333",
+   "legistar_guid": "67438741-F886-4579-A6F2-0D8F663C7AF5"
+  },
+  {
+   "file_number": "Int 0866-2026",
+   "type": "Introduction",
+   "name": "Requiring the posting of notification signs regarding upcoming disruptive work.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7998333",
+   "legistar_guid": "67438741-F886-4579-A6F2-0D8F663C7AF5",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

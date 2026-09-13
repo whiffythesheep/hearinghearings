@@ -1,0 +1,33 @@
+{
+ "event_id": "1415907",
+ "date": "2026-05-28",
+ "body": "Committee on Immigration",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Finance",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415907&GUID=E1D5B6BB-1505-4BDD-BE66-E200258D022D&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1884",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Immigration",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8023861",
+   "legistar_guid": "1A91E073-2EA5-4D82-A70F-188C9D44B08C"
+  },
+  {
+   "file_number": "T2026-1884",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Immigration",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8023861",
+   "legistar_guid": "1A91E073-2EA5-4D82-A70F-188C9D44B08C"
+  }
+ ]
+}

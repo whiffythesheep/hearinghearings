@@ -1,0 +1,490 @@
+{
+ "event_id": "1417104",
+ "date": "2026-08-12",
+ "body": "Subcommittee on Zoning and Franchises",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417104&GUID=CD9BCAFC-291A-4B2D-8E46-A4D16260B852&Search=",
+ "items": [
+  {
+   "file_number": "LU 0115-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (C 260149 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8137218",
+   "legistar_guid": "BE9243F9-6BD5-4201-BE83-85ABF3AFB9EA"
+  },
+  {
+   "file_number": "LU 0115-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (C 260149 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8137218",
+   "legistar_guid": "BE9243F9-6BD5-4201-BE83-85ABF3AFB9EA",
+   "tally": {
+    "Bereavement": 1,
+    "Affirmative": 7,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Medical"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0116-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (N 260150 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8137219",
+   "legistar_guid": "DF85666B-1B72-4D07-BA12-D51574075367"
+  },
+  {
+   "file_number": "LU 0116-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (N 260150 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8137219",
+   "legistar_guid": "DF85666B-1B72-4D07-BA12-D51574075367",
+   "tally": {
+    "Bereavement": 1,
+    "Affirmative": 7,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Medical"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0117-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Flatiron NoMad Major Concessions, Manhattan (C 260123 MCM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8137220",
+   "legistar_guid": "BB35C821-402F-4D75-9B9E-8029556919E7"
+  },
+  {
+   "file_number": "LU 0117-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Flatiron NoMad Major Concessions, Manhattan (C 260123 MCM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee",
+   "result": "Pass",
+   "legistar_id": "8137220",
+   "legistar_guid": "BB35C821-402F-4D75-9B9E-8029556919E7",
+   "tally": {
+    "Bereavement": 1,
+    "Affirmative": 7,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Medical"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0118-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 47-03 108th Street Rezoning, Queens (C 260147 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8137221",
+   "legistar_guid": "69DABEB4-78AB-4032-B8BA-F80C42382385"
+  },
+  {
+   "file_number": "LU 0118-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 47-03 108th Street Rezoning, Queens (C 260147 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8137221",
+   "legistar_guid": "69DABEB4-78AB-4032-B8BA-F80C42382385",
+   "tally": {
+    "Bereavement": 1,
+    "Affirmative": 7,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Medical"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0119-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 47-03 108th Street Rezoning, Queens (N 260148 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8137222",
+   "legistar_guid": "E7A503CE-346F-42A7-AC08-9C4F0D79DB1D"
+  },
+  {
+   "file_number": "LU 0119-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 47-03 108th Street Rezoning, Queens (N 260148 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8137222",
+   "legistar_guid": "E7A503CE-346F-42A7-AC08-9C4F0D79DB1D",
+   "tally": {
+    "Bereavement": 1,
+    "Affirmative": 7,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Medical"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0120-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 815 Hutchinson River Parkway Rezoning, Bronx (C 240161 ZMX).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163066",
+   "legistar_guid": "ABFD4794-0B2C-49EB-BB7A-F50D34AD15CA"
+  },
+  {
+   "file_number": "LU 0120-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 815 Hutchinson River Parkway Rezoning, Bronx (C 240161 ZMX).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163066",
+   "legistar_guid": "ABFD4794-0B2C-49EB-BB7A-F50D34AD15CA"
+  },
+  {
+   "file_number": "LU 0121-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 862-868 Kent Avenue, Brooklyn (C 240283 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163067",
+   "legistar_guid": "B3DE75FB-3F17-44F6-A261-AEC93B0CA754"
+  },
+  {
+   "file_number": "LU 0121-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 862-868 Kent Avenue, Brooklyn (C 240283 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163067",
+   "legistar_guid": "B3DE75FB-3F17-44F6-A261-AEC93B0CA754"
+  },
+  {
+   "file_number": "LU 0122-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 862-868 Kent Avenue, Brooklyn (N 240284 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163077",
+   "legistar_guid": "2273089B-CD54-499A-A63E-6103D776F2D0"
+  },
+  {
+   "file_number": "LU 0122-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 862-868 Kent Avenue, Brooklyn (N 240284 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163077",
+   "legistar_guid": "2273089B-CD54-499A-A63E-6103D776F2D0"
+  },
+  {
+   "file_number": "LU 0123-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (C 260171 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163078",
+   "legistar_guid": "4C5B7D3E-2FCE-4122-BCFE-2B6C212D4F17"
+  },
+  {
+   "file_number": "LU 0123-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (C 260171 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163078",
+   "legistar_guid": "4C5B7D3E-2FCE-4122-BCFE-2B6C212D4F17"
+  },
+  {
+   "file_number": "LU 0124-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (N 260172 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163098",
+   "legistar_guid": "9BB24F0E-70DA-4D76-9C9F-521E3DB45861"
+  },
+  {
+   "file_number": "LU 0124-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (N 260172 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163098",
+   "legistar_guid": "9BB24F0E-70DA-4D76-9C9F-521E3DB45861"
+  },
+  {
+   "file_number": "LU 0125-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (C 260135 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163100",
+   "legistar_guid": "256F292D-B174-4FD3-A583-E873FB1F0BFC"
+  },
+  {
+   "file_number": "LU 0125-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (C 260135 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163100",
+   "legistar_guid": "256F292D-B174-4FD3-A583-E873FB1F0BFC"
+  },
+  {
+   "file_number": "LU 0126-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (N 260136 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8163109",
+   "legistar_guid": "BF78728D-8E80-4EE6-829E-7A1C1077795A"
+  },
+  {
+   "file_number": "LU 0126-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (N 260136 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8163109",
+   "legistar_guid": "BF78728D-8E80-4EE6-829E-7A1C1077795A"
+  }
+ ]
+}

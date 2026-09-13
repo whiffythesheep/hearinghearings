@@ -1,0 +1,33 @@
+{
+ "event_id": "1416091",
+ "date": "2026-06-25",
+ "body": "Committee on Criminal Justice",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416091&GUID=1039BD48-81F8-42E8-924A-7D76372281B5&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1957",
+   "type": "Oversight",
+   "name": "Oversight - Improving Court Operations to Reduce the Jail Population.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8063012",
+   "legistar_guid": "633BC23B-9423-4E54-BC85-2A87019D186A"
+  },
+  {
+   "file_number": "T2026-1957",
+   "type": "Oversight",
+   "name": "Oversight - Improving Court Operations to Reduce the Jail Population.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8063012",
+   "legistar_guid": "633BC23B-9423-4E54-BC85-2A87019D186A"
+  }
+ ]
+}
