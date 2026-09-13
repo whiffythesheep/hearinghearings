@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Council Members{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<div class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Voting record</p>
+        <h1>Council Members</h1>
+        <p class="record-subtitle">Every roll call recorded in the archive, by member.</p>
+        <div class="record-meta">
+            <span>{{ members | length }} members</span>
+            <span class="meta-sep">·</span>
+            <span>{{ total_votes }} recorded votes</span>
+            <span class="meta-sep">·</span>
+            <span>{{ window_from }} to {{ window_to }}</span>
+        </div>
+    </header>
+
+    <div class="table-scroll">
+        <table class="record-table">
+            <thead><tr><th>Member</th><th>District</th><th>Votes cast</th><th>Present</th><th>Against</th></tr></thead>
+            <tbody>
+            {% for m in members %}
+                <tr>
+                    <td><a href="/members/{{ m.slug }}/">{{ m.name }}</a></td>
+                    <td class="num">{{ m.district or "—" }}</td>
+                    <td class="num">{{ m.votes_cast }}</td>
+                    <td class="num">{{ m.attendance_pct }}%</td>
+                    <td class="num">{{ m.dissents or "—" }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <p class="record-note">“Present” counts recorded roll calls where the member cast a vote, against those
+        marked absent, medical or bereavement. Hearings without a vote are not counted.</p>
+</div>
+{% endblock %}

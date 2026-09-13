@@ -1460,3 +1460,304 @@ body.desktop {
     }
 }
 
+
+/* ================================================================
+   Record layer — matters, members, committees
+   Scraped from Legistar, so the visual language is deliberately
+   tabular and mono, distinct from the written summaries.
+   ================================================================ */
+
+/* ---------- Section nav ---------- */
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 6px 8px 0;
+    background: var(--chrome-gray);
+}
+
+.nav-button {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    text-decoration: none;
+    color: var(--text);
+    background: var(--chrome-gray);
+    padding: 5px 14px;
+}
+
+.nav-button:hover {
+    color: var(--accent);
+}
+
+.nav-button--active {
+    font-weight: 700;
+    background: var(--window-bg);
+}
+
+/* ---------- Record page shell ---------- */
+.record-header {
+    margin-bottom: 2.25rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--rule);
+}
+
+.record-eyebrow {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin: 0 0 0.4rem;
+}
+
+.record-header h1 {
+    margin: 0 0 0.5rem;
+    line-height: 1.15;
+}
+
+.record-subtitle {
+    font-size: 1.05rem;
+    color: var(--text);
+    margin: 0 0 0.75rem;
+    max-width: 46rem;
+}
+
+.record-meta {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+}
+
+.record-section {
+    margin-top: 2.25rem;
+}
+
+.record-section > h2 {
+    font-family: var(--font-chrome);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--text-muted);
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px dashed var(--bevel-dark);
+}
+
+.record-note {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin: 0 0 1rem;
+    max-width: 44rem;
+}
+
+.record-longtitle {
+    max-width: 46rem;
+    margin: 0;
+}
+
+/* ---------- Tables ---------- */
+.table-scroll {
+    overflow-x: auto;
+    border: 1px solid var(--rule);
+    background: #fff;
+}
+
+.record-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.88rem;
+    min-width: 34rem;
+}
+
+.record-table th {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    text-align: left;
+    background: #f3f1e9;
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--bevel-dark);
+    white-space: nowrap;
+}
+
+.record-table td {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+}
+
+.record-table tbody tr:last-child td {
+    border-bottom: 0;
+}
+
+.record-table tbody tr:hover td {
+    background: #f7f5ee;
+}
+
+.record-table td.num {
+    font-family: var(--font-chrome);
+    font-size: 0.82rem;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+.row-sub {
+    display: block;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+}
+
+.row-muted {
+    color: var(--text-muted);
+}
+
+/* ---------- Status, result and vote markers ---------- */
+.status-badge,
+.result,
+.vote {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 2px 6px;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.status-badge {
+    background: #f3f1e9;
+    border: 1px solid var(--bevel-dark);
+    color: var(--text);
+}
+
+.result--pass,
+.vote--affirmative {
+    color: #2f6b2b;
+    background: #e8f0e6;
+}
+
+.result--fail,
+.vote--negative {
+    color: #a33227;
+    background: #f7e5e2;
+}
+
+.vote--absent,
+.vote--medical,
+.vote--bereavement,
+.vote--abstain,
+.vote--non-voting {
+    color: var(--text-muted);
+    background: #f0eee6;
+}
+
+.mayor-flag {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+/* ---------- Chips and document lists ---------- */
+.chip-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.chip-item {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: #f3f1e9;
+    border: 1px solid var(--rule);
+    padding: 3px 8px;
+    display: inline-block;
+}
+
+.doc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.doc-list a {
+    font-size: 0.92rem;
+}
+
+/* ---------- Matter lookup ---------- */
+.lookup {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.lookup-input {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    padding: 7px 10px;
+    background: #fff;
+    color: var(--text);
+    flex: 1 1 22rem;
+    min-width: 0;
+}
+
+.lookup-count,
+.lookup-empty {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--text-muted);
+    margin: 0;
+}
+
+.lookup-empty {
+    padding: 1.5rem 0;
+}
+
+/* ---------- Matter references inside summary prose ---------- */
+.matter-ref {
+    font-family: var(--font-chrome);
+    font-size: 0.92em;
+    white-space: nowrap;
+}
+
+/* ---------- The record block on a hearing page ---------- */
+.hearing-record {
+    margin-top: 2.5rem;
+}
+
+@media (max-width: 640px) {
+    .site-nav {
+        padding: 5px 5px 0;
+    }
+
+    .nav-button {
+        padding: 5px 10px;
+        font-size: 11px;
+    }
+}

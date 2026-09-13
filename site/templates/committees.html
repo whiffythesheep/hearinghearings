@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Committees{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<div class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Committee activity</p>
+        <h1>Committees</h1>
+        <p class="record-subtitle">Every committee that has met in the archive, with what it considered.</p>
+        <div class="record-meta">
+            <span>{{ committees | length }} committees</span>
+            <span class="meta-sep">·</span>
+            <span>{{ window_from }} to {{ window_to }}</span>
+        </div>
+    </header>
+
+    <div class="table-scroll">
+        <table class="record-table">
+            <thead><tr><th>Committee</th><th>Chair</th><th>Meetings</th><th>Matters</th></tr></thead>
+            <tbody>
+            {% for c in committees %}
+                <tr>
+                    <td><a href="/committees/{{ c.slug }}/">{{ c.name }}</a></td>
+                    <td>{{ c.chair or "—" }}</td>
+                    <td class="num">{{ c.meeting_count }}</td>
+                    <td class="num">{{ c.matters | length }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

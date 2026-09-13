@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Council Member{% endblock %}
+
+{% block content %}
+<a href="/members/" class="back-link">← All members</a>
+
+<article class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Council Member{% if member.district %} · District {{ member.district }}{% endif %}</p>
+        <h1>{{ member.name }}</h1>
+        <div class="record-meta">
+            <span>{{ member.votes_cast }} vote{{ '' if member.votes_cast == 1 else 's' }} cast</span>
+            <span class="meta-sep">·</span>
+            <span>{{ member.attendance_pct }}% present</span>
+            {% if member.dissents %}
+            <span class="meta-sep">·</span>
+            <span>{{ member.dissents }} vote{{ '' if member.dissents == 1 else 's' }} against</span>
+            {% endif %}
+        </div>
+        <p class="record-note">Recorded roll calls only, from {{ window_from }} onward. Committee hearings without a vote are not counted.</p>
+    </header>
+
+    {% if member.committees %}
+    <section class="record-section">
+        <h2>Committees</h2>
+        <ul class="chip-list">
+        {% for c in member.committees %}
+            <li><span class="chip-item">{{ c }}</span></li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if member.votes %}
+    <section class="record-section">
+        <h2>Voting record</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>Date</th><th>Matter</th><th>Body</th><th>Action</th><th>Vote</th></tr></thead>
+                <tbody>
+                {% for v in member.votes %}
+                    <tr>
+                        <td class="num">{{ v.date }}</td>
+                        <td>
+                            {%- if v.matter_slug -%}
+                            <a href="/matters/{{ v.matter_slug }}/">{{ v.file_number }}</a>
+                            {%- else -%}{{ v.file_number }}{%- endif -%}
+                            {% if v.matter_title %}<span class="row-sub">{{ v.matter_title }}</span>{% endif %}
+                        </td>
+                        <td>{% if v.hearing_slug %}<a href="/hearings/{{ v.hearing_slug }}/">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
+                        <td>{{ v.action or "—" }}</td>
+                        <td><span class="vote vote--{{ v.vote | lower }}">{{ v.vote }}</span></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+</article>
+{% endblock %}

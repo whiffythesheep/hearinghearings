@@ -44,6 +44,40 @@
         {{ hearing.summary_html | safe }}
     </section>
 
+    {% if hearing.record_items %}
+    <section class="hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
+            which is written from the transcript.</p>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+                <tbody>
+                {% for item in hearing.record_items %}
+                    <tr>
+                        <td class="num">
+                            {%- if item.matter_slug -%}
+                            <a href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>
+                            {%- else -%}{{ item.file_number }}{%- endif -%}
+                        </td>
+                        <td>{{ item.name }}</td>
+                        <td>{{ item.action or "—" }}</td>
+                        <td>{% if item.result %}<span class="result result--{{ item.result | lower }}">{{ item.result }}</span>{% else %}—{% endif %}</td>
+                        <td class="num">
+                            {%- if item.tally -%}
+                                {{ item.tally.get('Affirmative', 0) }}–{{ item.tally.get('Negative', 0) }}
+                            {%- else -%}—{%- endif -%}
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+
     {% if hearing.transcript_html %}
     <div class="hearing-transcript-wrapper">
         <a href="transcript.txt" download class="download-button download-button--transcript">Download .txt</a>
