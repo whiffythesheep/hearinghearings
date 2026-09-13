@@ -1,0 +1,3616 @@
+---
+committee: "Committee on Housing and Buildings"
+committee_slug: committee-on-housing-and-buildings
+title: "The Mayor's Housing Plan"
+date: 2026-09-09
+slug: committee-on-housing-and-buildings-the-mayors-housing-plan-2026-09-09
+duration: "6hrs 38m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260909-102026.mp4"
+viebit_hash: "QgYoaCXklVAv26rd"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1427717&GUID=815D9AB5-C6A2-44D9-B0F4-3736BCC0BC1C&Search="
+chairs: "Pierina Ana Sanchez"
+members: "Shaun Abreu, Oswald J. Feliz, Crystal Hudson, Rita C. Joseph, Virginia Maloney, Kevin C. Riley, Yusef Salaam, Nantasha M. Williams, Carl Wilson, Susan Zhuang"
+---
+
+Summary
+
+Meeting Overview
+
+The NYC Council Committee on Housing and Buildings held a full-day oversight hearing on Mayor Mamdani's "Block by Block: The Housing Plan for a New Era," alongside seven pieces of legislation ranging from a Community Opportunity to Purchase Act to electronic property registration. The hearing drew testimony from HPD and DOB commissioners, the Public Advocate, numerous Council Members, labor unions, tenant advocates, community land trusts, nonprofit housing providers, property owner groups, and individual tenants. It was, by any measure, a substantive hearing — dense with policy argument, contested legislation, and genuinely useful administrative data. The Committee did not vote on any legislation.
+
+The administration's housing plan commits $22 billion over five years toward 200,000 new affordable units and 200,000 preserved units over ten years. Officials from HPD and DOB outlined a range of new initiatives: a Fix the City enforcement program targeting the worst landlords using layered litigation tools, a new agreement with the Office of Court Administration to get severe cases heard within five days, a $100 million City-backed insurance program for distressed buildings, and J-51 tax abatement renewal (Int 1015-2026) as a key preservation financing tool. Committee Chair Sanchez pressed hard on implementation gaps — inspector staffing, morale, pay parity, and whether headcounts are adequate for new enforcement goals including roof-to-cellar inspections. She also criticized the plan for lacking a comprehensive voucher strategy and for excluding buildings with regulatory agreements from the City Rental Assistance Program. The administration's acknowledgment that 57,000-plus rent-stabilized units sat vacant as of April 2025, a 15 percent increase from 2024, added urgency to the preservation debate without producing any particularly satisfying answers.
+
+The most contested legislation was Int 0905-2026, the Community Opportunity to Purchase Act, which would give vetted nonprofits a first right to submit a statement of interest and purchase certain distressed or affordability-restricted multifamily buildings before open-market sale. Tenant advocates, community land trusts, legal services organizations, and AARP testified at length and with considerable force in favor of COPA, citing buildings with hundreds of violations, cycles of predatory ownership, and the particular harm displacement causes to older adults and long-term residents. HPD expressed support, estimating roughly 2,100 buildings currently eligible. REBNY and Small Property Owners of New York opposed the bill, raising concerns about property rights, uncertain timelines, and chilling effects on investment. A prior version of COPA was passed by the Council and vetoed by former Mayor Adams; the political dynamics under Mayor Mamdani are evidently different. Other bills generated less heat: Int 0178-2026 creating an Office of Conversion Assistance, Int 0649-2026 requiring owner sign posting in multiple dwellings, Int 0717-2026 on DOB permit sign-off notifications, Int 0860-2026 on street number inspections, and the preconsidered bill on electronic HPD property registration all received general if not unconditional administration support. The J-51 renewal was strongly endorsed by HPD and climate advocates as critical both for bringing vacant rent-stabilized units back online and for helping co-ops and condos comply with Local Law 97.
+
+Labor testimony added a dimension the housing plan's press release version would prefer you skip over. Representatives from IBEW Local 3, Plumbers Local 1, Mason Tenders, and Local 79 described construction workers on publicly subsidized affordable housing projects earning near minimum wage through labor brokers, with no health insurance, delayed or bounced paychecks, and unsafe conditions. Workers testified personally about medical debt, unreported injuries, and exploitation. Unions called for project labor agreements on all City-subsidized affordable housing, raised concerns about the 485-X tax incentive's 99-unit threshold creating a perverse incentive to build fewer units, and opposed both plastic piping and modular prefabrication on affordability and safety grounds. The gap between the plan's ambitions and the conditions of the workers building it was not lost on anyone present. Several unresolved threads were left hanging at the close: COPA's funding mechanism was urged but not committed to, co-ops older than 40 years may not qualify for J-51 benefits despite being a major target population, electronic dwelling registration is apparently adding a month to shelter exits for small landlords, and federal Section 8 shortfalls threaten the SARAH senior housing program with no City contingency in sight.
+
+Numbers
+
+- $22 billion committed by the City over five years for the Mayor's housing plan.
+- 200,000 new affordable units targeted over ten years under the Mayor's housing plan.
+- 200,000 existing affordable units targeted for preservation over ten years.
+- 28,000 affordable homes targeted for the next two fiscal years, of which 8,000 are for extremely and very low-income households and 2,000 are designated for seniors.
+- $1 billion dedicated to supportive housing over the next two years.
+- 57,000-plus rent-stabilized apartments vacant as of April 1, 2025, representing roughly 6 percent of the rent-stabilized stock and a 15 percent increase from 2024.
+- 1.4 percent citywide vacancy rate per the 2024 Housing and Vacancy Survey; under 1 percent for rent-stabilized units specifically.
+- $100 million City-backed insurance program for distressed buildings, targeting 20,000 units insured by end of 2027 and 100,000 units by 2030; 22 responses received to the RFP.
+- 993 total enforcement staff at HPD, up 11 percent over five years; 353 development staff, up 19 percent; 41 new positions allocated.
+- 604 code inspectors currently in place at DOB against a budgeted headcount of 650; 25 more in the hiring pipeline.
+- 5,200 Emergency Housing Vouchers expiring; roughly 2,700 converted to HOME Tenant-Based Rental Assistance; approximately 3,400 NYCHA voucher holders not yet converted, with an 81 percent outreach response rate.
+- $55 million Right to Counsel expansion, raising households served annually from 20,000 to 26,000, with $14 million in additional funding in FY2027 and $40 million in FY2028.
+- 2,100 buildings estimated by HPD as currently eligible under COPA; approximately 300 buildings sold last year would have been covered.
+- 75 percent or more of COPA-eligible buildings are located in majority Black and Brown communities; 148 five-plus unit properties had foreclosure filings in the Bronx in the first nine months of 2026.
+- 42 percent reduction in construction-related injuries from FY2024 to FY2025 (625 to 363); 232 injuries and 4 fatalities recorded through end of August 2026.
+- 465,000 active site safety training cards issued, representing approximately 18 million training hours.
+- 261 ADU applications under the basement and cellar legalization pilot; approximately 48 percent for basement or cellar conversions; 27 Plus One ADU tentative awards with 17 more expected.
+- 210 days current median lease-up time for Housing Connect; target is under 100 days; lottery period to be shortened from 60 to 21 days.
+- 730,000-plus co-op and condo households in New York City, which the Council of New York Cooperatives and Condominiums argued have been excluded from the Mayor's housing plan process.
+- City budget for heat pumps and energy efficiency in one- and two-family homes is $2 million; advocates called for expansion to $20 million.
+- Construction workers on City-subsidized projects cited earning $22 to $25 per hour with no benefits; the wage standard for building service workers on City-financed projects is above $40 per hour, and advocates proposed the same floor for construction workers.
+- Nearly 1 in 5 older New Yorkers lives in poverty; more than 60 percent of older adult renter households are rent-burdened; New Yorkers age 65 and older have increased 50 percent since 2000.
+
+Action Points
+
+- City Council asked to pass COPA (Int 0905-2026) as quickly as possible and to accompany passage with a dedicated funding mechanism.
+- HPD to conduct rulemaking on COPA implementation, covering the qualified purchasers list, building notification, tenant notification, and penalties for noncompliance.
+- City Council asked to pass the J-51 tax abatement renewal (Int 1015-2026) immediately, extending the benefit through 2036 and raising the assessed value threshold to $60,000.
+- City Council asked to pass the Safer Homes Act.
+- City Council asked to fully support and enforce the Construction Justice Act, including explicitly covering workers on office-to-residential conversion projects.
+- DOB to shorten construction shed permit allowance from one year to 90 days and require licensed professionals to certify plans for shed removal.
+- HPD to investigate all unit-specific heat complaints this heat season, rather than a sample, in line with the new enforcement protocol announced at the hearing.
+- HPD and DOB asked to provide the Committee with a plan addressing inspector staffing vacancies, pay parity with the private sector, and headcount adequacy for expanded enforcement goals including roof-to-cellar inspections.
+- HPD asked to expand the TOOLS program technical assistance providers, including UHAB, to address the gap for co-ops and Mitchell-Lama buildings not currently served.
+- HPD asked to develop a comprehensive voucher strategy as part of the housing plan, including a mechanism to include buildings with regulatory agreements in the City Rental Assistance Program.
+- HPD asked to front-load eligible applicants for Emergency Housing Vouchers before the application window opens, and to resolve remaining NYCHA EHV conversions.
+- City and Mayor asked to develop a contingency plan for the potential loss of up to $200 million in HUD Continuum of Care funding for supportive housing.
+- City and Mayor asked to find alternative ways to fund and expand the SARAH senior housing program given federal Section 8 shortfalls.
+- Mayor's Office asked to expand the heat pump and energy efficiency program for one- and two-family homes from $2 million to $20 million.
+- City Council asked to include free-market co-op and condo homeowners in future housing plan discussions and in the Thornton Thomas report process.
+- DOB to address the operational problem whereby electronic dwelling registration is adding more than one month to the shelter exit process for small landlords, in coordination with HPD and the administration's vendor selection process for the new registration system.
+- CM Sanchez asked Mayor's Office to include the Deputy Mayor for Community Safety in the Bronx Plan interagency coalition.
+- City asked to increase legal staff capacity at affordable housing agencies to accelerate financing paperwork and move developers to the construction phase more quickly.
+
+## Full Transcript
+
+**(00:00:09)**
+
+
+
+Thank you. Good morning and welcome to today's New York City Council hearing for the Committee on Housing and Buildings. If you would like to testify, you must follow a witness slip with one of the sergeants at arms. At the same time, please silence all electronic devices and no one should approach the dais at any time. Chair Sanchez, we are ready to begin. Thank you.
+
+**(00:00:32)**
+
+
+
+Good morning. I am CM Sanchez, Chair of the Committee on Housing and Buildings, on behalf of the City Council. I would like to welcome the members of the public and the administration that joined us today in person and remotely for today's oversight hearing. I first want to acknowledge my colleagues who are present: Majority Leader Abreu, CM Hudson, CM Avilés, CM Maloney, CM Nurse, CM Banks, Epstein, Thomas-Henry and Aldebol.
+
+Today's hearing is focused on Mayor Mamdani's Block by Block: The Housing Plan for a New Era, a comprehensive vision for empowering tenants, strengthening enforcement, preserving affordability, improving housing quality, expanding homeownership and more.
+
+We begin from a reality we all know. New York City is in a profound housing crisis. Our vacancy rate has fallen to historic lows, but this crisis is not experienced equally. For the lowest income New Yorkers, housing insecurity can mean a child traveling hours from a shelter in Queens to remain in their school in the Bronx. It can mean families living with mold, vermin, insufficient heat and the constant fear that one missed paycheck could cost them their home. In my district, where roughly 70% of households are housing cost-burdened, this is the reality. These inequities did not happen by accident. Generations of public policies have determined who could own a home, whose neighborhood received investment and whose wealth could grow.
+
+Today, those same communities face a federal government threatening housing assistance and the basic safety net that keeps families afloat. That is why this plan matters so much, and there is so much good in here. There is a vision of government more willing to stand up to bad actors, more willing to empower tenants, more creative about rescuing distressed buildings, more ambitious about building housing and expanding homeownership. People are hopeful — people who have spent generations watching government work better for people and areas with money and power — are wondering whether we could actually ever shift that balance, whether tenants might have more power someday, whether working people could finally have a government willing to fight as hard for their stability as others fight for profit. Present company included.
+
+But New Yorkers have heard ambitious promises before. We have celebrated production targets before, and too often when we look back at what was actually produced, preserved or made affordable for our lowest income neighbors, government actually fell painfully short of the moment. So today, members of the administration, I ask you to give us reason to believe. Explain to us what you could not fit on 120 pages of Block by Block, or the 70 pages of the Rental Ripoff Report, or the 40 pages of the SPEED Report. And more importantly, how will you implement these promises?
+
+My questions will begin in four places. First, capacity. A bold housing plan cannot be implemented by understaffed agencies. If we promised stronger code enforcement, roof-to-cellar inspections, emergency repairs, aggressive litigation and preservation, then HPD and the Department of Buildings need the inspectors, attorneys, preservation staff and institutional capacity to deliver. Second, with respect to preservation, some of our most affordable housing is also our oldest and our most distressed. We need a government capable of intervening before buildings collapse into crisis. That means capital and support for responsible owners trying to keep buildings affordable, and escalating enforcement against owners who chronically endanger tenants. So what does your distinction between high-road and low-road landlords mean in practice? This Council represents tenants, but it also represents responsible owners.
+
+For New Yorkers, the effect of the rental arrears crisis for landlords is real. Housing court delays are real. Cash flow problems can destabilize otherwise responsible, affordable buildings, including affordable co-ops, rent-stabilized housing and regulated housing. We need preservation strategies sophisticated enough to recognize those realities as well.
+
+Third, on homelessness. We spend billions of dollars every year operating a shelter system while families desperately search for permanent homes. In discussing an all-of-the-above approach, the plan does not speak comprehensively to the many housing voucher programs in New York City — Section 8, the newly created CHAP. I am going to do that every time I say it. I am really glad we did not go with CRAP. Okay, City Rental Assistance Program. Okay. And our other housing resources that could move us toward something bigger: preventing homelessness before it happens.
+
+And finally, accountability. Plans are only as meaningful as what happens next. So we want the implementation schedules, the measurable benchmarks and clarity about who to hold responsible if any of the plans fall behind. I personally, of course, am excited to see a focus on the Bronx. I also have to mention that I am concerned about the lack of mention of climate resilience throughout these plans, and hope that these preservation and enforcement commitments can work together to address any gaps that we talk about today.
+
+In addition to our oversight topic, the Committee will also hear Int 0178-2026, sponsored by CM Harvey Epstein, in relation to establishing an Office of Conversion Assistance; Int 0649-2026, sponsored by CM Lincoln Restler, in relation to requiring the posting of a sign identifying the owners of multiple dwellings; Int 0717-2026, by CM Salaam, in relation to requiring the Department of Buildings to inform property owners of permit sign-off requirements; Int 0860-2026, sponsored by CM Brewer, in relation to the inspection and enforcement of street numbers on buildings; and Preconsidered T2026-1780, sponsored by CM Chris Banks, in relation to authorizing electronic registration of dwellings with the Department of Housing Preservation and Development — perhaps one of the most... okay. I would like to give the sponsors of these Bills an opportunity to speak on their legislation, starting with CM Nurse, followed by Epstein and Banks. Did I mention Int 0905-2026? I am sorry. But you go ahead. Int 0905-2026 and...
+
+**(00:06:44)**
+
+
+
+Thank you, Chair Sanchez. Good morning, everyone. Thank you, Chair Sanchez, for hosting this important hearing. New Yorkers are living through a cost of living crisis decades in the making, and housing sits at the center of it. Working class and middle income families are competing for fewer and fewer units every year, and landlords know it. This drives rents higher and allows bad conditions to fester. Yes, we need to build more housing, but I fundamentally disagree with a purely market-driven approach. The fact is the private market cannot create enough affordable housing to solve this crisis, especially if we are losing the affordable housing stock we do have faster than we can build. That is where the Community Opportunity to Purchase Act comes in. This Bill is about interrupting a cycle of despair and neglect by design, because many landlords across the City use deterioration as a strategy to get their tenants out. We can look at buildings like 2076 Creston
+
+**(00:07:40)**
+
+
+
+Avenue in the Bronx, a 41-unit building that has racked up over 2,000 violations despite being passed from owner to owner while tenants remain living in untenable conditions. We can look to Manhattan at 331 East Fourteenth Street, a 20-unit building with 358 violations bought by a private equity firm that has let the building rot, betting that tenants will simply give up and leave.
+
+Once passed, the Community Opportunity to Purchase Act will give mission-driven, vetted nonprofits the first right to make an offer on these distressed buildings before speculators can. It brings these buildings into community ownership and public oversight. It keeps rents affordable and, most importantly, it keeps people in their homes near their schools, their jobs, their support systems and their lives. 62% of New Yorkers — about 5 million people — are not able to meet the basic cost of living in our City. Over 70% of New York City children are growing up in households that cannot make ends meet, and meanwhile the top 1% has never had it so good.
+
+Every affordable unit we lose is a family that is either going to shelter or finally leaving the City, and we need to put every option on the table to give families a chance. The Community Opportunity to Purchase Act does that. The Bill version we are discussing today is the result of dozens of conversations with stakeholders who are both for and against this Bill, many of whom are here today. I really look forward to the conversation. I want to thank Chair Sanchez, Speaker Menin, the COPA Coalition and everyone who gave us feedback and helped us shape this Bill.
+
+**(00:09:23)**
+
+
+
+Thank you, Chair.
+
+**(00:09:23)**
+
+
+
+Thank you so much, CM Nurse. This is the third time we are hearing this Bill together as colleagues. Third time is the charm. I truly believe in this piece of legislation and I am excited about the discussion today. Next, I want to call on CM Epstein to talk about his Bill.
+
+**(00:09:43)**
+
+
+
+Thank you, Chair Sanchez, for your leadership, and thank you to my colleagues on the Housing Committee for this important hearing today. As we all know, New Yorkers are facing a historic housing crisis. According to the most recent 2024 Housing and Vacancy Survey, the vacancy rate is 1.4% — less than 1% for rent-stabilized units in the City — the lowest level ever recorded. Office-to-residential conversion presents a significant opportunity to expand our housing supply. According to Department of Buildings records, about one third of new housing permits has come from these conversions this year.
+
+However, many developers still struggle to navigate the process of conversion because it involves construction and reconstruction of entire floors, potentially demolishing the entire building interior, courtyard light, additional stories potentially on top of those buildings. At the same time, the unusual partial collapse at 334 East 40th Street shows the critical need for technical support to prevent future dangerous incidents.
+
+My Bill, Int 0178-2026, is meant to unlock the true power of these conversions by creating an Office of Conversion Assistance to facilitate the conversion process by advising those interested in converting property, liaising with relevant agencies at the government level and reporting data on these conversions. This resource can ensure this type of conversion is as safe as possible. In addition to providing assistance with the process, the reporting mandate in this Bill is an important tool to identify barriers to the conversion process and find ways to address them.
+
+We must ensure that we are meeting the housing crisis with real solutions to increase affordable housing supply and the housing supply in general. I look forward to hearing from the administration testifying, from advocates as well and from all New Yorkers. I want to thank the Chair and Speaker Menin for having this opportunity today.
+
+**(00:11:33)**
+
+
+
+Thank you so much, CM Epstein. We will now hear from CM Banks.
+
+**(00:11:36)**
+
+
+
+Thank you, Madam Chair. This is a very straightforward, commonsense piece of legislation that will modernize and update the process to make it easier for property owners to comply with City requirements. After hearing from property owners and advocates and organizations such as the Small Property Owners of New York, it has become clear that the current paper-based registration system creates unnecessary challenges. Property owners shared experiences of submitting registration paperwork on time — sometimes even by certified mail — only to be told later that the documents could not be located and would need to be resubmitted. At the same time, many noted that while the paperwork seemed to go missing, the $13 registration fee did not.
+
+The legislation provides for a practical solution by allowing property owners to register their properties electronically through an online system maintained by HPD. It would permit the use of electronic signatures, allow filing fees to be paid online and create a more efficient and reliable registration process, while preserving a transition period for paper submissions.
+
+By moving this process online, we can reduce the administrative burden, minimize the risk of lost paperwork and provide confirmation that submissions have been received, increasing accountability for both the property owner and the agency. Ultimately, this Bill is about bringing a routine government process into the modern era so that property owners can interact with City government in a way that is efficient, transparent and reliable. Again, I want to thank the Chair and my staff and the HPD team for working with my office to bring this Bill forward, and the advocates and property owners who worked with my office on this legislation. I look forward to hearing the testimonies today and again, thank you, Madam Chair.
+
+**(00:13:56)**
+
+
+
+Thank you, CM Banks, and shout out to you for being so collaborative and just willing to talk about all the ways to strengthen this Bill. I appreciate you. I want to acknowledge that we were joined briefly by CM Joseph, who will be back. Next, we are going to hear from our Public Advocate, who has just joined us. I am going to keep talking until he is ready, okay? Public Advocate Mamdani Williams.
+
+**(00:14:19)**
+
+
+
+Thank you so much, Madam Chair. It is just great to be here. I am sitting here across from people that I used to organize with, so that is pretty amazing — except it just shows that we are a lot older than we used to be. But it is just an honor to be here again. My name is Jumaane Williams, Public Advocate of New York. I want to thank Chair Sanchez and the members of the Committee on Housing and Buildings for this hearing, and the administration for being here.
+
+Block by Block, the administration's premier plan for tackling the housing crisis in New York City, is a comprehensive, multi-pronged approach that emphasizes tenant empowerment, strengthening enforcement mechanisms, reducing and preventing homelessness and stabilizing homeownership. With more than $22 billion committed for the next five years, the plan seeks to deliver 200,000 new affordable units and further preserve 200,000 existing homes. A dedicated $1 billion will be allocated towards supportive housing over the next two years, shoring up vital resources at a time when federal cuts threaten to close doors and destabilize housing for some of our most vulnerable New Yorkers.
+
+Block by Block also spotlights new investments in the Bronx, where housing quality and stability issues have been exacerbated by a series of devastating fires and partial collapses. The Bronx has historically had the highest
+
+**(00:15:28)**
+
+
+
+eviction filings per month — a trend that has held true from before the pandemic through today — paired with persistent housing maintenance problems, which increased citywide in the first four months of fiscal year 2026, according to the Preliminary Mayor's Management Report. These trends convey the inequity of housing needs that exists in our City. I look forward to seeing the work that comes out of the new Bronx plan and coalition expected to form this fall. The streamlining permit procedures to expedite equitable development, or SPEED Task Force, established by Executive Order 5, will not only show we are building off the success of City of Yes, but also going back and identifying where we can do better and be more efficient.
+
+**(00:16:07)**
+
+
+
+Decades of underbuilding have left New York City with a dire housing shortage. While construction has picked up and new opportunities such as office-to-residential conversions and accessory dwelling units are providing some relief, inflation and ongoing international conflicts continue to impact the supply chain. Pursuing new, innovative approaches to lowering construction costs will help bridge this gap in housing needs.
+
+Finally, there are a lot of great Bills I want to briefly uplift. Int 0905-2026 and Int 0717-2026, for which I am a proud co-sponsor. Int 0905-2026, the Community Opportunity to Purchase Act — COPA — would allow qualified entities the first opportunity to submit a statement of interest and purchase certain properties. Int 0717-2026 would require the Department of Buildings to inform property owners of permit sign-off requirements. Together, these Bills serve the purpose of strengthening the administration's goal of preserving affordable housing, advancing racial equity and further supporting homeowners.
+
+I look forward to working with the administration on implementing this plan so that New Yorkers have access to deeply affordable, quality housing. I am also hoping — I like the part that is in there about nature, but I would like to know how that money is going to be spent to fix the problems and what we are going to do to make management much better, because it is a two-pronged approach. We need the money, but we also need better management. Thank you so much.
+
+**(00:18:38)**
+
+
+
+I am pleased to be here today to testify regarding the Mayor's housing plan, Block by Block. The plan lays out a comprehensive strategy to address New York's housing crisis at the scale and with the urgency it deserves. Today I would like to focus on four core priorities outlined in the plan. First is our administration's commitment to ensuring that we are
+
+**(00:18:59)**
+
+
+
+providing protections for tenants and significantly improving our
+
+**(00:19:03)**
+
+
+
+code enforcement efforts. Second is our commitment to building a record amount of affordable housing with the goal of building 200,000 new units over the next 10 years.
+
+**(00:19:14)**
+
+
+
+We are also committed to preserving and stabilizing an additional 200,000 units over
+
+**(00:19:18)**
+
+
+
+the same period, as well as using creative interventions that will drive down operating expenses and bring stability to responsible landlords and their tenants. There is a focus on building more equitable neighborhoods, including doubling our production of new home units over the next two years.
+
+**(00:19:36)**
+
+
+
+Meeting our fair housing goals and making sure we are investing not only in affordable housing but also in healthy neighborhoods,
+
+**(00:19:43)**
+
+
+
+starting with our targeted Bronx plan. Finally, in every aspect of this work there is our commitment to delivering public excellence. This includes significantly improving the housing lottery system, working with our partner agencies to eliminate redundancies in permitting and approvals, and improving communication and work streams with external partners through
+
+**(00:20:04)**
+
+
+
+initiatives like the TOOLS program and clarifying priorities with respect to our production pipeline. We have already made progress on all of these goals, but there is much more to come.
+
+**(00:20:16)**
+
+
+
+I would like to start with our commitment to improving protections for tenants and strengthening enforcement. Since I last testified, we have launched Fix the City, a new initiative focused on combating historically bad landlords. Fix the City is leveraging a range of tools to increase enforcement efforts against highly distressed properties, and we are working in partnership with the Department of Buildings and the Mayor's Office to protect tenants, as well as the Law Department to advance this effort.
+
+At the end of last year, we announced a major step forward in partnership with the Office of Court Administration. Under a new directive with regard to litigation brought against buildings subject to vacate orders, cases seeking 7-A administrators and comprehensive cases where essential services have been cut off to more than one third of the building, OCHA has directed judges to schedule hearings within five days and to adjudicate these cases on an expedited timeline, granting adjournments only under extreme circumstances. In July's Rental Rip-Off Report, we outlined a series of policy recommendations to improve HPD 311 protocols.
+
+**(00:21:24)**
+
+
+
+For the first time this heat season, we will investigate all unit-specific heat complaints rather than a sample of units from a single
+
+**(00:21:32)**
+
+
+
+building, and starting this fall we will launch a new code inspection
+
+**(00:21:37)**
+
+
+
+protocol for circumstances when attempts to gain access are unsuccessful.
+
+**(00:21:42)**
+
+
+
+Under the new system, tenants will receive a message allowing them to call and schedule a second inspection at a specific time and date. We are also looking forward to working with the Council to explore improvements to the Housing Maintenance Code, including how we address pest infestations, mold remediation and revisiting what types of violations justify legally withholding rent. The agencies have been meeting internally and we will launch regular convenings with members of the Council and external stakeholders later this month.
+
+While enforcement is a top priority, HPD is fully committed to supporting well-intentioned landlords who are struggling to maintain their buildings in light of escalating operating costs, such as insurance and ongoing challenges with rent collection. As previously discussed, we have issued a request for expressions of interest to identify a partner for a $100 million City-backed insurance program. As of the deadline, we have received 22 responses and we are on track to select one or more partners by the end of the calendar year. Our goal will be to ensure 20,000 homes by the end of next year and 100,000 homes by 2030.
+
+We have also launched the TOOLS program, which allows regulated building owners to request low or no cost interventions to help stabilize and improve the physical and financial health of these buildings. That includes expedited access to
+
+**(00:23:05)**
+
+
+
+building reserves, comprehensive code violation clearance and pro bono technical assistance offered by three partnering organizations: Enterprise, LISC and the New York City Housing Partnership. Lastly, we have been collaborating with organized tenant associations to advance acquisition and rehabilitation of at-risk rent stabilized portfolios, particularly those facing bankruptcy and foreclosure, using existing preservation tools. We are working with tenant-supported preservation buyers whose interventions will restore stability and bring long-term affordability back to hundreds of units of rent stabilized housing.
+
+Since our closings, we have been ramping up our new housing production with the goal of building 28,000 affordable homes over the next two fiscal years. This includes 8,000 units that will serve extremely and very low income households, 2,000 units dedicated to senior housing and a 40% increase in the number of households moving out of shelter. With respect to homeownership, we are advancing plans to double production of our Open Door program, launch of the new term sheet for our HOME program which will support conversion of small and midsize rental buildings to limited equity cooperatives, and increased funding for Home First, our down payment assistance program, with the goal of serving 600 home buyers over the next two years.
+
+We are working with our development partners to clearly communicate priorities with emphasis on cost efficiency, readiness to proceed, advancing our fair housing goals and increasing the number of affordable projects built on publicly owned land. By offering our partners clearer communication and greater certainty, we are reducing backlogs in our pipeline and seeing meaningful savings in total development costs. Alongside our partner agencies, we have begun to implement the actions outlined in our SPEED report, which include process changes for Housing Connect with several changes going into effect this fall. We have increased staff lines for the development team to bring on program liaisons who will ensure their projects are moving through the pipeline quickly and who will assist in cutting through red tape.
+
+We are also taking steps to ensure that our neighborhoods are equipped to deal with the impacts of climate change, both in terms of our decarbonization goals and with respect to making neighborhoods more resilient. As we work to address the devastating loss of housing that occurred in the Hollis community last week, HPD and our partners across the City are focused on a multi-pronged approach utilizing specific building-level interventions such as the READY program and the Resilient Retrofit program, planning for neighborhood-wide green and blue infrastructure investments like those planned for the Jewel Street neighborhood, and working with individual property owners and tenants on options providing voluntary buyouts where necessary.
+
+I want to take the last few minutes to address several bills currently under consideration by the Council. CM Nurse's Community Opportunity to Purchase Act, COPA, will allow capable not-for-profit purchasers to preserve affordable units, address hazardous conditions and avoid speculative transactions that lead to harassment and displacement. We support this legislation and believe it is aligned with our larger housing preservation goals. Next, I want to thank CM Sanchez for sponsoring Int 1015, which will reauthorize the J-51 tax incentive. J-51 is recognized as a critical tool to ensuring aging building systems can be operated, vacant units can be quickly brought back online and that both rental buildings and co-ops can make the energy efficiency improvements needed to comply with the mandates under Local Law 97. We also support the goals of CM Banks' proposed legislation authorizing electronic registration of properties, CM Restler's Bill on visibly identifying property owners, CM Brewer's legislation on physical street numbers and CM Abreu's Bill to advance commercial conversions. We look forward to engaging with the Council to ensure that the goals outlined in these legislative proposals are achieved as efficiently as possible. As always, I want to thank the Council for your deep commitment and partnership in working to solve the City's housing challenges and for your willingness to work closely with this administration on finding bold and innovative solutions.
+
+Thank you for the opportunity to testify, and I look forward to answering your questions.
+
+**(00:27:40)**
+
+
+
+Thank you so much, Commissioner.
+
+**(00:27:45)**
+
+
+
+Good morning, members of the Committee on Housing and Buildings. My name is Amanda Ghani and I serve as Commissioner of the New York City Department of Buildings, joined by subject matter experts from our Enforcement, Development and Sustainability bureaus. I appreciate the opportunity to testify regarding Int 0717-2026, which would require DOB to notify property owners with open permits that must receive sign-off, and to join my colleagues in government to speak to the Mayor's comprehensive Block by Block housing plan.
+
+The Block by Block housing plan presented a unique opportunity to collaborate from the ground up, bringing our processes, expertise and experience to bear in translating the Mayor's vision for addressing the housing crisis in a substantive and equitable way. The strategy was an opportunity not only to help shape the plan but to work alongside New Yorkers to turn the vision into results. The groundwork began with a strategically important decision to realign DOB within the housing and planning portfolio. As the agency responsible for enforcing the Zoning Resolution, maintaining the building code and stewarding the policies that provide regulatory oversight of more than one million buildings, DOB has deep and consequential ties to the work of housing and planning. Bringing the agency into closer alignment with this portfolio created a cleaner, more direct connection between our regulatory responsibilities and the administration's housing priorities, and positioned us to better leverage our processes, our data, our expertise and our daily interactions with the built environment to help remove the barriers that too often stand between New Yorkers and the stability that comes with having an affordable place to call home.
+
+This alignment was more than an organizational change. It was a strategic opportunity to ensure that DOB is not simply regulating the City's buildings but actively contributing to the broader effort to expand housing opportunity equitably and deliver meaningful results for New Yorkers. To that end, DOB continues to advance initiatives and facilitate development across New York City while maintaining the highest safety standards. We are proud to partner with agencies across the City through the SPEED task force. As part of this effort, the Department is expanding its affordable housing help program, assigning personnel to help projects move more efficiently through the permitting process. DOB is also working closely with HPD and the Council on shared housing legislation that would increase the number of residential units available to New Yorkers and make better use of existing space. Similarly, last year DOB in partnership with HPD introduced an initiative to make it easier for homeowners to add accessory dwelling units to their properties. DOB is working closely with partner agencies to move these initiatives forward. In my time in City government, I have never seen this level of coordination, not only with partner agencies and our colleagues in elected office, but with our industry partners as well. This coordinated approach
+
+**(00:30:48)**
+
+
+
+Includes the establishment of a job-affordable and efficient code reform task force, which will bring together experts from across government and the construction industry to identify changes to the building code and other relevant regulatory schemes. The department is excited to collaborate with agency and industry partners and looks forward to working with the Council and all responsible parties as we kick off the task force later this month.
+
+While expanding the City's housing supply remains an urgent priority, DOB's responsibilities also encompass the commercial development that creates jobs and provides essential services for New Yorkers. We recognize that the department must have the technological capacity to meet these demands. The department continues to improve our DOB Job Now system, making it easier to process job filings, schedule inspections and access important building and property information online. DOB is also working with City agencies, including the Office of Technology and Innovation, to explore how drone technology can support our work around building inspections.
+
+Meanwhile, we are excited to have launched the Building Tech Lab, a public-private initiative with the Partnership Fund for the City of New York. The Building Tech Lab connects technology companies with subject matter experts, giving companies an opportunity to develop and test technologies that can improve the way our department operates. Public-private partnerships like this will help us innovate, respond to an increasingly complex development environment and advance the City's climate goals.
+
+Engaging with our applicants is also a key piece to making the rest of our process improvements more efficient, and something we understand to be the intention of CM Salaam's proposed Int 0717-2026. Under Int 0717-2026, notices would be sent within seven days after a permit is issued and every 90 days thereafter until sign-off is obtained. When an open permit is set to expire within 90 days or has expired, DOB would be required to send notices to building owners every two weeks until sign-off is obtained. These notices would include the permit number, expiration date, an explanation of the need for signing off, outlined inspection requirements, the consequences of failing to comply and any additional information deemed relevant. DOB supports the intent of this Bill and recognizes the importance of educating owners regarding the obligation to obtain permits. Sign-off notices can be a useful tool to reach owners. However, the frequency of the proposed notifications, particularly during the 90-day period, may negatively impact their effectiveness, as dealing with an excess of notices can result in owners ignoring such notices or their email inbox, perceiving them as spam. We believe education and outreach is the right direction and we look forward to working with the Council on this legislation.
+
+As we work to make development faster, more sustainable and efficient, safety remains DOB's top priority. The department is proud to help lead the Mayor's Committee on Construction Safety alongside the Deputy Mayor for Housing Planning and the Deputy Mayor for Economic Justice. The committee will examine the causes of construction-related injuries and fatalities and recommend changes to local laws, agency resources, enforcement practices and contractor standards to help prevent future accidents. DOB's shift to a proactive enforcement model is also helping keep New Yorkers safe. Between fiscal year 2024 and fiscal year 2025, construction-related injuries fell by 42%, from 625 to 363. This progress would not have been possible without the tireless work of more than a hundred employees in our Construction Safety Division. However, more work remains. Through the end of August 2026, there were 232 construction-related injuries and four fatalities. No injury or fatality at a job site is acceptable and DOB remains focused on prevention.
+
+Indeed, DOB-approved course providers have issued approximately 465,000 active site safety training cards, which includes supervisory site training of different types, equaling around 18 million hours of training. We will continue to enforce requirements and work directly with the construction industry to improve safety.
+
+DOB is also dedicated to protecting tenants across the five boroughs. In addition to our complaint-based and proactive enforcement work, in 2025 our Office of the Tenant Advocate received 1,579 public inquiries, conducted 487 inspections and made 829 referrals to other sister and state agencies. Additionally, we were grateful to participate in the Mayor's Rental Rip-Off hearings to hear directly from tenants about the issues they are facing in their homes. We are working to address the issues we heard during those hearings, including those regarding prolonged or persistent elevator outages, and look forward to working with the Council to implement the proposals that require legislative action.
+
+Finally, we are collaborating closely with our partners at HPD and the Law Department through Fix the City to focus on bad actors who have not come into compliance with our enforcement actions, and look forward to working with you all on that as well. In closing, the Department of Buildings is committed to doing everything within our authority to help address New York City's housing needs while maintaining the highest standard of safety, sustainability and accountability. From modernizing our processes and technology to strengthening coordination with sister agencies to improving outreach, we are focused on building a system that works. We are fortunate to have incredible partners in Commissioner Levi and Commissioner Weaver respectively. We appreciate the Council's partnership and look forward to continuing to work together. Thank you for the opportunity to testify.
+
+**(00:36:47)**
+
+
+
+That is all right. Okay, so I am going to ask two questions on two topics and then I am going to turn it over to my colleagues for their questions before coming back for a second round. Just so you know the order in which you have signed up: it is CM Wilson, CM Nurse, Public Advocate Williams and then CM Epstein. If there is anybody else with questions, please let us know.
+
+Okay, all right. Well, thank you so much for being here today and for all of the work and the big-picture, high-level thinking around the housing crisis in the City of New York. I want to start with a theme that I have heard in many conversations regarding the housing plan — this theme that we started to discuss during the executive budget hearing — that the plan's ambitions are not necessarily backed with the necessary resources to implement them. We should be aggressively closing high staff vacancy rates in key offices, scaling up staffing overall and investing deeply in core agency functions that do not always make the front page. But we have not seen that, particularly in HPD's Office of Development, the Preservation Division, the Office of Enforcement and Neighborhood Services, Code Enforcement and Litigation Divisions, and within DOB's inspector units citywide and especially for the specialized enforcement functions.
+
+So there are several commitments that seem to indicate that you all need a lot more staffing to carry these out — the roof-to-cellar inspections, the aggressive use of Article 7-A criminal charges against the worst landlords. So the first question is around that. What is the budgeted head count for enforcement staff, the actual head count and the vacancy rate for fiscal year 26 versus 27? What...
+
+**(00:38:38)**
+
+
+
+What increases are you making to the enforcement head count in order to meet some of these goals? Sorry, am I on? Yes. Thank you, Council...
+
+**(00:38:49)**
+
+
+
+Members. So to start, I just want to give a picture of both the development staff and the enforcement staff within the agency. I know there is always a lot of talk about how much staff do we have and how much staff do we need, and of course we love getting new staff. But I do want to point out that right now the total head count within the enforcement division is 993 staff, which is actually up 11% over the last five years. On the development side, the staff total is 353, which is up 19% over the past five years. As you know, we were granted significant new staff lines as part of both the housing plan and the SPEED initiative. A total of 41 new positions were allocated to the agency — 27 for development staff and 14 for both enforcement and litigation units. So yes, I do think we have been given...
+
+**(00:39:47)**
+
+
+
+A lot more staff to do the work laid out. Thank you. Specifically with respect to inspector vacancies, we have heard from members in the industry that inspectors themselves are experiencing low morale, their pay is low — it is lower than their counterparts in the private sector — turnover is extremely high. We were told that 70% of inspectors have five years or less on the job. Please correct that if it is incorrect, for DOB and HPD as well. And that the workloads are increasing over time. So can you comment on the pay for inspectors? Is there any collective bargaining coming up? How do we retain this talent that is so key to keeping New York safe?
+
+So I will just speak quickly and then allow Commissioner Ghani to speak. But I do want to say, and this is more anecdotal than fact, I have just finished doing a tour of all of our code enforcement inspector offices, thanking them for the work they did during the last heat season. I will just say I was encouraged not only by the morale, which was very high — and again the work they do is really something to marvel at — but also by the tenure of the average person I spoke to. Again, I went to all of our offices and in some cases I met folks who have been doing this work for more than 20 years, in some cases as long as 40 years. So I was actually very encouraged.
+
+We do hear the need for additional cars and we were given an allocation in this year's executive budget for more vehicles to serve those inspectors. As it relates to pay scale, obviously that is negotiated and not something squarely within our purview. But we are very proud of our code enforcement team and feel that they are very much up to the challenge of the new initiatives listed in the housing plan.
+
+**(00:41:50)**
+
+
+
+Thank you. And I will go ahead for the DOB side. You know, we have a budgeted head count of about 650 inspectors and currently we have 604 inspectors in place, with six vacancies, but there are 25 inspectors in the pipeline. The average tenure, based on data compiled earlier this year, was actually about six and a half years for inspectors. The work that we are doing certainly carries a high workload. I will say that, similar to what my colleague said about going around to the offices, our inspectors particularly seem energized by the focus on safety, on tenant protection, the housing plan and messages from the administration, which seems to have bolstered morale amongst many of the inspectors.
+
+I will also say that for the work that we are doing, the difficulty is that we compete against industry that can pay more. So we push back by providing workforce development. We work with the union and get feedback from them and their leadership on what we can do to invest in inspectors. The last number I will note is that we are actually at the second highest point in many years. Going back to 2020, when we were at the highest point, over the last six years we have really rebuilt and continually built by filling vacancies.
+
+**(00:43:22)**
+
+
+
+You are welcome for our advocacy on that work. Okay, I am kidding. Can you both just state what the vacancy rate is right now, given the budgeted versus actual? I think you were saying something around 7%, but can you both clarify and how many vacancies are within inspector titles at each agency?
+
+**(00:43:46)**
+
+
+
+Right now we are at 7%, but that number will come down once the 25 inspectors in the pipeline come on board. As for our code inspectors, we have 369 full-time inspectors, which is a vacancy rate of roughly 6%. But again, that does not include the new hires allocated through the housing...
+
+**(00:44:07)**
+
+
+
+And right at it. Commissioner Levi, do you have specifics on the average tenure? I do not have a numerical figure other than what I just gave you, but we could certainly get that for you. Thank you.
+
+**(00:44:25)**
+
+
+
+I would like to acknowledge that we have been joined by another Council member and CM Restler. A follow-up question: how many inspectors do you believe each of your agencies needs to accomplish the significant expansion of enforcement initiatives, particularly checking every complaint in a building, for instance, and the roof-to-cellar inspections?
+
+So we have been actively preparing for this and again having lots of conversations with the code staff, who are very aware of this new protocol. I think we do have the staff that we need to be able to do every unit-identified inspection as well as the now-required second inspections when failure to gain access occurs. So I think we are, you know, hoping for a warmer winter than last year but feel ready to take on these new initiatives.
+
+**(00:45:26)**
+
+
+
+Thank you. And a quick clarification point on process with respect to scheduling inspections: it is only scheduling re-inspections, not scheduling the first inspection? That is correct.
+
+**(00:45:36)**
+
+
+
+Thank you. Okay, next question. The City has committed to a cross-agency approach to code enforcement for problematic portfolios, with the Mayor's Office to Protect Tenants providing initial referrals. HPD will conduct coordinated...
+
+**(00:45:50)**
+
+
+
+Inspections together. So...
+
+**(00:45:51)**
+
+
+
+In the context of this, why take a portfolio-wide approach? How will portfolios be defined by the agencies and how will they be identified?
+
+Okay, I believe you are referring to what we were calling enforcement initiatives in the plan, which is really twofold. One is that when we start to see early signs of distress at a portfolio level, we think it is important that we pay more attention to those buildings early on. I think we are very focused on coordinating both from an interagency perspective but also with organized tenant associations. They obviously are key to getting access to the apartments and to seeing what is going on inside apartments. So the goal here is really to identify portfolios where we see early signs of distress, get our code enforcement teams out in a coordinated effort with each other and also with tenants, so that we can get to these portfolios before things deteriorate further.
+
+**(00:46:54)**
+
+
+
+Does the administration have a vision — is it anywhere in the plans — to move from enforcement days to more of a holistic approach where this is the way code enforcement takes place, versus being reactive?
+
+**(00:47:08)**
+
+
+
+I think it is an addition, it is not an instead of. So our current system is that any tenant anywhere in the City can call 311 and have a code inspector come out and inspect their apartment. So I think this is just an additional tool on top of the way we currently approach code enforcement, but again with an eye towards getting to certain portfolios early when...
+
+**(00:47:28)**
+
+
+
+We are first seeing signs of distress. Right. And they also just noted that the existing platforms like the tenant harassment task force with the Attorney General's Office continue as a previous system that complements the new things that we are adding now.
+
+**(00:47:53)**
+
+
+
+How will you be defining portfolio?
+
+**(00:47:57)**
+
+
+
+By portfolio we just mean owned by a single corporate entity or individual, so multiple buildings affiliated with one ownership. And how will you know who that owner or single corporate entity is?
+
+**(00:48:11)**
+
+
+
+We are very good at that. We spend a lot of time piercing corporate veils. In some cases it is very obvious because of the registration data that we do get, even though it is still on paper. We generally know, and when there is work to do to sort of pierce that veil, we have a data science team within the agency that is able to do it. There is work involved, so it is not as easy as it should be, but we are generally invariably able to identify the portfolio.
+
+**(00:48:42)**
+
+
+
+Okay. And with respect to the changes that we are contemplating in today's legislation — CM Banks's property registration, online property registration — I know that in the legislative task force we will be talking about additional changes to help the public have this transparency. Is there anything that you are considering today to define what a portfolio is legislatively?
+
+**(00:49:09)**
+
+
+
+I am not sure it needs a definition legislatively, because generally we just mean an owner who owns multiple buildings. So whether that is five or 15 or 20 buildings, I would call that a portfolio. As it relates to CM Banks's Bill for electronic registration, this is something we think is definitely overdue and want to move forward with. I would say the good news is we have already started working to identify a vendor to help us adjust the technology systems that will enable us to do that.
+
+**(00:49:42)**
+
+
+
+Thank you. I am moving to special enforcement programs like Emergency Repair and Article 7-A. The plan lists a number of strategies for being more aggressive for buildings with unsafe conditions, which is a welcome change. But I think we should drill down on the overall strategy here. Specifically, what is your explanation for what will be used when? So how will the various enforcement programs named in the plan fit together into an overall strategy for tenants living in these buildings? What is the idea of the use case for Article 7-A versus when we finish a save-our and the third-party transfer reform of that legislation versus COPA versus criminal charges? When does each program get used? So I am going to answer and then also
+
+**(00:50:28)**
+
+
+
+give space for Director Rivera to weigh in here, but generally
+
+**(00:50:32)**
+
+
+
+speaking, our first goal is always to force compliance. So where we can get an owner to make repairs and do them quickly, that is the ultimate goal. That said, we are aware that there are some historic small portfolios or individual buildings owned by landlords that have just repeatedly over the years refused to gain compliance. And sometimes our litigation unit at HPD is bringing cases, sometimes both bringing cases. So what we are talking about under Fix the City is a really focused effort, which includes things like layering litigation, Article 7-A on top of an application on top of with the ABS. I will let Commissioner... to talk about their legal authority, but then also working with the Law Department on new litigation strategies, including some that we think will be very helpful towards pushing for compliance as well as the initiative I talked about earlier in my testimony regarding the agreement we reached to expedite litigation for these very serious cases. We do think time is actually the biggest frustration. I know you have had a frustration with vacate orders in your own district where you can just adjourn these cases indefinitely and tenants are literally displaced often.
+
+**(00:51:51)**
+
+
+
+HPD is housing them in emergency shelter. So I think these tools, sort of layered together with a very clear focus on either finally forcing compliance, or where we cannot, really pushing to force a change in ownership.
+
+**(00:52:06)**
+
+
+
+The only thing I will add
+
+**(00:52:08)**
+
+
+
+is that part of the strategy is also figuring out where the right jurisdiction is. So whereas bringing things in housing court, we work with the Law Department and bring things in Supreme Court using criminal summonses and nuisance complaints, and maybe team up together and then strategize the sequencing of it to make sure that we do not conflict, but actually push for change.
+
+**(00:52:34)**
+
+
+
+Thank you. Thank you everybody. The other two factors that I think we would consider in addition to everything that my colleagues have shared: one is the level of tenant organization in the building or the portfolio. We really want to make sure that we are following the lead of people who live in the buildings and pursuing a strategy that works both for the building and for the people who live there. Secondarily, the level of financial distress in the building, and working to sort of smooth the relationship between our enforcement programs and the financial health of the building, and really making sure that owners who want to work with the City have access to the preservation tools and owners who are unwilling to comply have access to the litigation tools that we know can encourage compliance.
+
+Thank you. There is a lot of court stuff, a lot of litigation strategy here. So what are the changes that are coming in terms of head count within the litigation
+
+**(00:53:28)**
+
+
+
+divisions? So within our Housing Litigation Division, we do have staff as part of the 14 allocated heads that we got as part of the housing plan. So I think the total staff for that division... one moment, it is in my hand notes. Yeah, so sorry, 37 attorneys right now, and when we add additional, closer to 40 attorneys. But again, we are also finding a lot of collaboration through the legal capacity within the Law Department, which feels a bit new. We are now meeting, I think it is probably every other week, or twice a month, as these three agencies as well as the Law Department, to talk about their capacity to enhance our litigation strategies and also to look at new legal strategies, some of which are not quite ready to be discussed publicly, but hopefully will be coming soon.
+
+**(00:54:28)**
+
+
+
+Great, thank you. We also work really closely with our partners in Legal Aid, Legal Services and that sort of not-for-profit legal community, who are important partners in our work.
+
+**(00:54:40)**
+
+
+
+Thank you. And that was my next quick follow-up question. Partners in Preservation and programs to support legal service providers, technical assistance providers and tenant organizers — are those contracts going to be growing, or is there going to be increased budget for these
+
+**(00:54:56)**
+
+
+
+programs? So I would say Partners in Preservation is very well funded. It is a $5 million program. We are getting, I think, a year away from the renewal of those contracts, so we have been actually meeting with both the partner agencies and also internally to talk about whether there are any changes to the Partners in Preservation program. But it has been very successful. I think you saw recently we celebrated the hundredth tenant association that was formed as a result of that work, and actually we are now quite a bit past that. I think we are closer to 130 tenant associations. So we feel very good about that.
+
+But I do want to emphasize what Director Weaver just said. One of the really impressive things about the negotiation we had with the Office of Court Administration is
+
+**(00:55:34)**
+
+
+
+that those expedited calendar timelines apply to cases where tenants are represented. So if tenants are represented by TakeRoot Justice or Legal Services or Legal Aid, those cases will be treated exactly the same way as it relates to the expedited adjudication timeline.
+
+**(00:55:54)**
+
+
+
+Okay, thank you. And last leg of this round for me, and then we will go to
+
+**(00:55:58)**
+
+
+
+colleagues. From Article 7-A, what does it need to supercharge? So our understanding is that from 2011 to present, there have been 27 buildings that have gone through Article 7-A, about 210 units, at a cost to the City of $2.1 million, which is relatively modest in terms of the preservation work that the City does. So what is the scale of expansion that you are contemplating?
+
+**(00:56:22)**
+
+
+
+So I would take a couple of things. One is, I think we are somewhat cautious about where we use Article 7-A, mostly because obviously it means that there is a temporary administrator, and if there is not enough money coming from the rent roll, Article 7-A is not really that advantaged. One of the things we are contemplating is whether we can use alongside Article 7-A, so that there is more capital coming into those buildings. But I would say, more to the point, to come back to the adjudicated calendar timeline — that is actually going to significantly enhance our capacity to bring more cases. It takes months and months to get an Article 7-A because again of the ability to just request postponements and adjournments. So the fact that we will now have this much, much faster calendar will enable us to bring more Article 7-A cases. Do you have a scale in mind?
+
+**(00:57:14)**
+
+
+
+I would be loath to predict an exact number, except to say that I think we are going to be using it very strategically as part of Fix the City, and in cases where every now and again we find landlords that have virtually abandoned their buildings. I think those are the cases where we really need to act more strategically and more aggressively on conditions. All right, thank you. Thank you so much. I will now turn it to CM Nurse for her round of questions. Thank you, Chair.
+
+**(00:57:45)**
+
+
+
+My questions are mostly just going to front-load some of the feedback we have gotten for COPA and have you on the record giving your opinion. I wanted to talk about the qualified entities. As we have heard this Bill before, some have called into question the ability to create accountability within a COPA program. And we know you have worked with preservation buyers and had a list for years with lots of success and with some challenges. Can you give us an idea of how many preservation deals have been made utilizing entities on the qualified buyers list, even the previous one you had?
+
+It is a good question. I am trying to do the math. We are talking units, a lot, but I would say we do 10 or 20 deals on preservation a year. Would you say? Yeah, close. Yeah, close to 10 or 20 a year. I think you are raising a fair point. We are going to need to set out some rulemaking if COPA — we hope it does pass, when it passes — both on how we will establish the qualified purchasers list, which will be probably similar to our current preservation analysis, like what we do to determine that somebody is a qualified buyer in our normal preservation programs. We will also need to make sure we have a mechanism to notify the buildings that are going to be subject, and we intend to do that through rulemaking. And then two other issues: penalties for noncompliance, and lastly, also notification to tenants, which I think we need to pay a little attention to — like how tenants will be notified when a preservation transaction is actually going forward under COPA.
+
+Okay, that is great. Thank you for sharing that, like how many deals you are doing per year. In the past, you have had the qualified preservation buyers list. So can you talk about it, or maybe those who have had the experience of it, talk about kind of what goes into the qualifications? How does one get on that list? What do they have to show that they can do or have done in the past? And what might be a process for removing an organization that is, let us say, having too many violations open in their buildings?
+
+**(00:59:56)**
+
+
+
+Yeah, so generally it is what you would expect in terms of the standards that we look at in creating the current preservation qualified purchaser list. So we are looking at financial capacity. We are looking at organizational capacity. So are they fully staffed? Do they have all their proper financial documents, audited financial statements? We are looking at their portfolio across the City, whatever they own, and what the conditions in those buildings are. We are looking at compliance with things like anti-harassment laws, source of income discrimination. So we are looking at all the factors that would generally lead you to say that this is a qualified, well-capacity buyer. Because we refresh that every year, if a different owner or two for whatever reason starts to struggle during the course of a year, we would be re-evaluating in the next year, and it is possible that a group that was on could fall off in future years.
+
+**(01:00:48)**
+
+
+
+Okay, so it is fair to say that you are not doing deals with incompetent organizations. We are not. Working with great, competent organizations. Great.
+
+**(01:00:58)**
+
+
+
+And just to talk a little bit about the building universe and scope — thanks to a lot of feedback, we have really, really targeted this universe using the criteria laid out in the current version of the Bill, which includes existing programs. Has anyone been able to do an estimate of how many sales would be COPA eligible a year on average?
+
+Yeah, but I am going to caveat that it is, in fact, an estimate. The hardest piece of this obviously is just the rolling code violation standard, which will change constantly. But looking at a moment in time right now, we have arrived at about 2,100 buildings today that we think would be eligible under COPA. And again, we think that number will continue to change, primarily because buildings come in and out of our enforcement programs and violations get cleared or accrued, so that rolling average causes the number to shift. But I would argue right now, about 2,100 buildings.
+
+**(01:02:00)**
+
+
+
+Even within that, we want buildings that might be COPA eligible to become compliant. So it would be great to have a good off-ramp for this program as well. The previous version of the Bill would have included buildings that had an average of one or more B or C violations per unit at the time of sale. This distress criteria has been amended to buildings that go on sale with a specific daily average. From your point of view, can you explain why this change is
+
+**(01:02:32)**
+
+
+
+important? Yeah, I think generally speaking, the one-per-unit threshold is a very low threshold. It is very, very challenging to own a building and not have any code violations. So I think the three-plus violation count is more reflective of what the intent of the Bill is, which is to really capture buildings that are in physical distress and being sold, and at risk of being subject to speculation, where it is very critical that a preservation purchaser is picking it up to ensure that the building is repaired. Last two
+
+**(01:03:12)**
+
+
+
+questions, Chair. One of the other criticisms made against COPA is that housing nonprofits just cannot afford to acquire buildings, let alone run and maintain them. So could you talk a little bit about the funding streams COPA purchasers could use, how big those funding pots are? You could also, if you could, talk about how long it takes to approve an
+
+**(01:03:36)**
+
+
+
+acquisition, and if there are any other programs that might complement COPA if implemented.
+
+**(01:03:43)**
+
+
+
+I really appreciate the question. So I think what I would say is, first of all, the nonprofit affordable housing community is a fundamental, important partner. So I do want to say that we are very lucky in New York City to have a huge industry of affordable not-for-profit housing developers who are critical. I would say it is a fact that we cannot guarantee that we will be able to finance every deal that comes online for COPA. That said, the preservation programs that we currently offer, like Article 11 — these are tools that will certainly be available for COPA purchases as they come online. There will be a question of timing. It is true that we cannot move to, say, a capital loan acquisition very quickly, while we can move more quickly, potentially with the Council's support, on Article 11. So I think we are thinking about two strategies. One is just the timing, and knowing that if a building is coming in and it aligns well with our pipeline, then we will be able to potentially come in at first instance. The alternative is to think about ways that nonprofits could access something like our acquisition loan fund in New York City, access that capital for the purposes of acquisition, with financing coming in at a second stage.
+
+**(01:05:10)**
+
+
+
+Okay, those are my only questions on COPA. I have one last question. Last year we passed a Bill, the Rent Stabilization Rent Transparency Act. It forces landlords that have at least one or more rent stabilized units to put a sign in the common area. I have a copy of it. This is what it looks like. It is not very conspicuous. I would love to work with you all to make it more conspicuous. I did have a question — you might not be prepared to speak on it today given the topic of the hearing — but if in the follow-up you could let us know if you have done any enforcement actions, if there have been complaints from tenants who know their building has stabilized units but have not seen the sign up. We have heard from tenant organizers that they have been successful because of some of the signs, in that tenants realize they are being illegally overcharged for rent. So that is the intent. So yeah, we would love to get the sign to
+
+**(01:06:04)**
+
+
+
+look better than something. Let me see the design.
+
+**(01:06:07)**
+
+
+
+Well, I did not design it, so I am not
+
+**(01:06:09)**
+
+
+
+taking credit. I do not know if there are designers in some sign department. We would be happy to both work on the design. Did we design this? Yes, we did. All right, well, we will be happy to work with you on a better design. Somebody made it, and it is not... as it turns out it was us, so it is okay. Sorry. We will happily make that prettier and then we will get back to you with the numbers of code inspections or violations that we have written for noncompliance. Awesome. Thank you so much.
+
+**(01:06:37)**
+
+
+
+Thank you. Thank you, CM Nurse. That is why I am talking about fonts in the safer Bill, like text color, because graphics matter. Okay, next up we are going to have CM Nantasha Williams followed by CM Abreu.
+
+**(01:06:58)**
+
+
+
+Thank you so much, Commissioner. Who would have thought it 20 years ago? I have a few questions, one for the administration. I think this is one of the better housing plans I have seen across administrations, so congratulations. My first question — I have always thought 50/50 is great, but we usually do... I have always thought of having a little bit more preservation percentage. So I just want to understand: why did we go 50/50? Maybe not 60?
+
+**(01:07:27)**
+
+
+
+For this money. I mean, I think to your point, a public advocate... Williams, in years past, right, I do not think preservation was raised up to an equal level as new production, right, as new construction financing. So I think we are very pleased that there has been such a great emphasis. We were able to get huge amounts of capital for both preservation and new construction. I think there are some tools that preservation can happen through that do not necessarily just involve capital investment, so like this tools initiative, which is really meant to stabilize and improve conditions in existing buildings without necessarily having to come in for a tax abatement or a new capital loan. So I think while the capital side is, you know, we wanted a balance between the construction and preservation, there are additional things we are trying to do on preservation that are not just capital specific.
+
+**(01:08:17)**
+
+
+
+Thank you. I am at fault with homeownership. I think I saw most of it around some condos. I am sorry... co-ops. So I want to have a question: is there anything for condos and one and two family homeowners? And what is the price point for the co-ops and what is affordable? I believe defining affordability is...
+
+**(01:08:39)**
+
+
+
+Great question, and it is true that we focus very much on affordable cooperatives, less so on condos, because they are not eligible for the same tax abatements that co-ops are eligible for. So to your question of affordability, we typically need an Article 11 or an HDFC to get to an affordable purchase price. The way we think about affordability in homeownership is through a debt to income ratio. So we are basically looking at what the monthly maintenance needs, what taxes and insurance will be, and that sort of backs us into what an affordable mortgage would be. So combining those four sources, we want to be no more than 30% of the incoming buyer's total monthly income. And so we are often targeting, it varies, somewhere between I would say 70% at the low end to 120% at the high end. Usually we are trying to get closer to 80% affordability. So you want those monthly expenses to be no more than 30% of 80% of the monthly income. Thank you. And is...
+
+**(01:09:37)**
+
+
+
+...there anything for all kinds of... from my previous job and had some good successes. I will say one and two family homes, while they have a certain appropriate role to play in our market, they are challenging because of the need for so much, you know, development, right? The density that we need to achieve is hard to achieve with one and two family homes. That said, there are some neighborhoods that are appropriate and we are actively exploring where we can bring some of the off-site construction models into New York City because of the price points we were able to achieve. I wanted to have one question...
+
+**(01:10:19)**
+
+
+
+...and a comment. That is good, thank you. So the question is for both of you. It is just about NYCHA, I think. Is there anything in the plan to deal with the management that is there now, and in management when we are trying to do REAPC or anything like that, to make sure the management is better than it is now? And then a comment which you will be happy to be responsible for. I was recently in Syracuse. I remember the mayor of the administration are actually going to cities to try to see what they are doing about public safety, and it was interesting because they are using code enforcement to address public safety issues, which I thought was pretty unique. I do not know if we have done things like that. I would love...
+
+**(01:10:57)**
+
+
+
+...to speak to you about what I saw there, even off the record, but I just want to bring that up.
+
+**(01:11:04)**
+
+
+
+Yeah, I can speak to the NYCHA question. So supporting NYCHA and NYCHA residents is, of course, a major priority for the administration and we are really laser focused on development, committing billions of dollars to improving public housing quality for NYCHA residents. Really proud to launch in the housing plan a $20 million critical repairs initiative, which is really modeled after the success of the omnibus...
+
+**(01:11:28)**
+
+
+
+...call center. It is $7.5 million in new funds per year for fiscal years 2027 and 2028, and then $2.5 million a year after that. Its goal is to dramatically increase the number of repair categories eligible for this NYCHA-style support, where there is a third party that NYCHA residents can call to ensure that they are going to actually get their issues addressed. We are very committed to continuing oversight of public housing after it goes through the PACT program, so we still believe that those buildings are public housing and are within the NYCHA family and want to continue to make sure that NYCHA residents, whether they are in a PACT building or whether they are in a Section 9 building, have access to the public sector stewardship that public housing can provide.
+
+I would love to talk to you about the public safety conversation that you had. I will just say that part of the reason why the administration's focus on construction safety and safety overall as part of the housing plan does feel different. I have also been around for a couple of housing plans, and to see it so anchored, actually seeing the commitment to construction safety as part of the overall housing plan, is a testament to how we see that as a public safety benefit. Also, the maintenance and how the streetscape looks and feels is a problem that the City has a responsibility to address. The sheds is the thing that I think comes up often for many people from a public safety perspective. So working to reduce the frequency of it, the length of it, making sure that we have a process that asks people to tell us what they are doing to limit the need for it and not just renew it — these are some of the things that we are looking at from a public safety perspective, but I want to talk more.
+
+**(01:13:14)**
+
+
+
+Thank you. They had it from an even different angle. I would love to talk to you about it. Thank you. I would obviously love to keep talking about some of the concerns that we have, but thank you all. Thank you.
+
+**(01:13:28)**
+
+
+
+Thank you. The public advocate will now come to the member from... followed by...
+
+**(01:13:31)**
+
+
+
+Thank you, Chair Sanchez, Commissioner Levy. You mentioned Article 11 a lot and what I have heard this year is, you know, I had a lot of buildings that wanted to get Article 11 and did not have enough Article 11 dollars. I am wondering if you feel like there are...
+
+**(01:13:50)**
+
+
+
+...really enough Article 11 dollars to kind of do the plan you have. So we were very thoughtful coming into the housing plan and the executive budget about how we would use and how much Article 11 we would need, and we have been granted quite a bit of authority there. As you know, we are working on a number of preservation deals that are going to be highly reliant on getting this Article 11, and again as we were discussing for COPA, we are starting to see Article 11 as a great bridge for acquisition, with then time for us to work through a capital investment for the second phase, which would be rehabilitation, both stabilizing and full rehab. So I do feel like we are using Article 11 very strategically now and we will need to do so going forward as we work towards preservation of some of the buildings that I talked about that are both in foreclosure and in bankruptcy and some...
+
+**(01:14:38)**
+
+
+
+...of these developments, or some of these buildings, have, you know, higher income levels in those buildings. So how are you going to deal with Article 11 if you have higher AMIs in some of these properties? Have you looked at changing the structure to frame your Article 11?
+
+**(01:14:54)**
+
+
+
+Generally, in the buildings that we are approaching, we know that they are within the statutory limits of what Article 11 allows. I can think of maybe one case — I have only been here a few months — but one case I can think of where there were questions in our own minds about whether the building's residents were frankly over income to support an Article 11. Generally we are trying to target those areas where we have low cost housing and lower income tenants, and to date I do not think we have seen it as a barrier for preservation.
+
+**(01:15:26)**
+
+
+
+Director Weaver, we have seen a lot of increasing distressed housing in the City and I am wondering what you are seeing. I have seen it in my district, of course, but we are seeing it around the City. Do you feel like there is a pathway through education and organizing to get more of these properties into COPA or through some of these Article 11 preservation purchases, based on the increase...
+
+**(01:15:45)**
+
+
+
+...in distress? Yeah, I mean, I think it is really important. Thank you for the question. We know that one of the top tools that tenants can use to ensure that their housing is high quality is to form a tenant association in their building. We really want to encourage tenants to come together to form a tenant association and to speak directly to the landlord about the issues that they are facing in their building. In our enforcement initiative, which we are hoping to roll out soon, we are looking to make sure that tenants have actually tried to raise issues with landlords first before they come to the City. Yes, there are issues with distress in our buildings and we also need to make sure that tenants are calling the landlord, notifying them and working together with each other to try to get repairs made, and then calling the City if that does not work. And have you seen increased involvement there? Increased distress, increased tenants reaching out? Have you been seeing that kind of transition? You have only been here six months. I mean, I have seen it. I work with tenant associations every single day who are reaching out to us to try to ensure that they can get repairs in their building, and we look to continue to do...
+
+**(01:16:53)**
+
+
+
+...that for you. Yeah, the only thing I would add from the DOB perspective is that when you have tenants who are looking to have repairs done, or you have owners who are themselves going through extensive rehabilitation for a long time, trying to work within the building code specifically was difficult. So at the end of last year we passed the existing building code. It goes into implementation next year and we have been spending the last year and into next year trying to educate people, and basically I am saying that the City has its own responsibility to make sure that people who are trying to do the right thing have the tools to do it. So whether it is a tenant or an owner, we hope the existing building code and the changes in the streamlining will help.
+
+**(01:17:38)**
+
+
+
+Commissioner Teghani, I am just wondering about the conversions. We have seen an increase in conversions going through from commercial to residential. Do you feel like the deadlines in the pipeline that have been put forward are giving enough time for some of these conversions to happen? Do you feel like they need to be...
+
+**(01:17:53)**
+
+
+
+...extended? You know, I think we have actually worked very closely with the Division of Housing Assistance for the tax abatement projects. But as we know, the work to build the project pipeline for office-to-residential conversion is much larger. It has been around for decades, so there are 17,000 units between 1995 and 2007 alone in lower Manhattan using those tools, and so we have had a lot of experience. We do think that the process we have set up to work through the different deadlines before 2067 is working. We are tracking our information together and, especially those projects that go through the major projects program, which is a particular pipeline that works on complex projects, assigns a project manager that actually works before filing and gives them a dedicated person to walk them through the entire process — those projects have been the most successful. So we are working to get the word out about that, and actually that is one of the areas where DOB grew by investing seven...
+
+**(01:18:50)**
+
+
+
+...additional staff members since we saw so much success, particularly with office-to-residential conversion. Can I just get a quick one in? Just, what I am talking about is how many units have been developed now over the last year? Do you think we need to go back to Albany to either expand the pilot project or to extend the time of the pilot? Yeah.
+
+**(01:19:15)**
+
+
+
+So I just want to make a distinction between the ADU pilot and the plus-one program, which is the program that is actually starting to really gain momentum. It is challenging because the pre-development work that goes into designing, determining if there is enough space for a standalone unit or whether it needs to be a conversion of an existing structure, takes time and actually resources, and you need an architect. So...
+
+**(01:19:41)**
+
+
+
+...it is not really about code. It is just about...
+
+**(01:19:42)**
+
+
+
+...limited space. We have about 2,780 applicants in the pipeline right now moving forward and another 17 right behind them that we expect to enter the pipeline. We would like to keep moving that forward.
+
+**(01:19:57)**
+
+
+
+Again, I think it is a question of making sure we have the right supports through nonprofit partners for the pre — I would always call it the pre-pre-development phase — of the development.
+
+**(01:20:06)**
+
+
+
+Do you think that the strict kind of structures are not allowing more projects to go forward? Is there something we need to be doing differently to increase the flow of basement conversions? And do you...
+
+**(01:20:21)**
+
+
+
+Yeah, I mean, to be honest, I ran the program for the State and we found this to be challenging everywhere, including places where land is not so constrained or space, right? So I think it is just a challenging thing in a very dense place like New York City. That said, the amount of interest is overwhelming. It is really exciting and the fact that we now have resources with which to finance that, along with the State resources, I think it is really not a legislative solution. I think we need to just keep pushing hard on the front end for that pre-development phase. More broadly, under the Local Law 127 piece, we actually have about 261 applications in the pipeline, and almost half — 48%, or 126 — are for basement and cellar conversion. So we are seeing, to the Commissioner's point, because of the constraints of land, we are really seeing that basements and cellars have been the main place where people are looking to deploy...
+
+**(01:21:17)**
+
+
+
+...this opportunity. Thank you. I just want to shout out the ADU tool. It is really nice. I was looking at it last night. It did not work for my address, so I will be following up with...
+
+**(01:21:31)**
+
+
+
+...the Commissioner. I do want to know if I can have an ADU in my basement. I was looking at that last night. But just since you mentioned the existing building code, Commissioner Teghani, the kind of guidance that the City is providing, especially for small homeowners who experience the City as a Byzantine regulator, it would be really helpful if we can adapt that kind of guidance for small...
+
+**(01:22:01)**
+
+
+
+...homeowners. Absolutely. So we have got a dedicated website. We actually have a monthly newsletter. The Deputy Commissioner has a crossword puzzle that he includes for those who want a game to understand more about the existing building code. We have done webinars with different industry partners and will continue to build out the website and those tools. We have also implemented in our monthly industry meetings and our open monthly online meetings with property owners and licensed reps. So always open to do more, and especially if you want to convene property owners, we would love to work with the Council as well. We are very focused on getting the word out about this. Great.
+
+**(01:22:48)**
+
+
+
+Excellent. Thank you. I am going to turn it over now to CM Hudson, followed by Riley and then Joe. Thank you.
+
+**(01:22:53)**
+
+
+
+Thank you, Chair. I just have a few questions focused on financing. The block by block plan mentions a new program called Our Home that is supposed to facilitate the conversion of rental buildings into resident-controlled cooperatives. So I mean to start, I just want to know what would be eligible for the Our Home program and what would a qualified preservation buyer be able to purchase? A COPA eligible building with Our Home funding?
+
+**(01:23:17)**
+
+
+
+And if so, then how would that work? Yeah. So the...
+
+**(01:23:20)**
+
+
+
+...program is right now intended for, I guess I would say, two categories of buildings. So those would be privately owned, typically rent stabilized buildings. We are looking at projects that are probably somewhere between 10 and 40 units as like the kind of sweet spot, though we have not put a hard line on that. So rent stabilized buildings where tenants wanted to go through a conversion and become owners is one category, and then I would say even within our own portfolio of rental buildings, Our Home... What was the second part of your question? Oh, whether a qualified preservation buyer would be able to purchase a COPA eligible building. Yes, I really do want to say just...
+
+**(01:23:59)**
+
+
+
+...years ago I worked for a nonprofit and one of the great lessons there is that it is very challenging to go through a conversion from rental to collective ownership while there is physical distress, particularly deep physical distress. So one of the things we would likely advocate for, as the COPA buildings were to come through, because they are by definition going to be distressed, is that they work with a sponsor in the first instance to help them get through stabilization and renovation, and then a conversion could come on the back end of that. Okay.
+
+**(01:24:28)**
+
+
+
+That makes sense. Will the new program provide acquisition funding, rehab funding, or a combination of both?
+
+**(01:24:38)**
+
+
+
+It is for both. It will be for both the acquisition and then the renovation of the building where that is necessary.
+
+**(01:24:44)**
+
+
+
+And would they be able to use this and another program, for example, like Neighborhood Pillars? Would Neighborhood Pillars be a place where you know, there could be acquisition and renovation to a COPA eligible...
+
+**(01:24:56)**
+
+
+
+Building. Yes, and Pillars is not intended necessarily for conversion to collective ownership. So right, we both could be tools for financing the acquisitions that materialized through COPA as well as other programs, including our participating loan program. Again, we could use Article 11, potentially, as a standalone source, depending on the depth of physical distress in the building. So I think all of the tools that we have for acquisition and rehab will be made available as part of the COPA financing tools. It will come down, as I said earlier, to timing and just the availability of the resources, but we do expect to use all of the tools that are in our toolbox.
+
+**(01:25:39)**
+
+
+
+Thank you. Sure. Thank you, guys.
+
+**(01:25:44)**
+
+
+
+Well within the time limit. Thank you, CM Riley. Thank you.
+
+**(01:25:49)**
+
+
+
+Chair, good morning to Commissioner Tojo, Commissioner Levi and Director Weaver and your team. Thank you so much for testifying with us today. Just a few questions. So we often hear from different stakeholders about the lack of funding, or at least the delays in receiving subsidies during closing windows. With an ambitious housing plan being set by this administration to develop hundreds of thousands of housing units, which the Council believes is needed as well, including heavily subsidized affordable housing units, does HPD have the bond cap necessary to achieve this goal?
+
+**(01:26:29)**
+
+
+
+You know, I think it was last year, two years ago, right? There was a major significant change to the tax credit program. It is called the 25% test, so the test was lowered from 50% to 20...
+
+**(01:26:42)**
+
+
+
+...5%. That became a hugely important tool for us in terms of extending the capacity to finance both 4% and 9% deals. So that has been hugely helpful. And then the commitment that was made in terms of capital, which we use alongside the 4% and the 9%, for the next two years, as you know, is a huge amount of resources that will make sure we do not leave any of that on the cap on the...
+
+**(01:27:05)**
+
+
+
+...table. Thank you, Commissioner. Furthermore, before projects even get off the ground, we are hearing about delays in being assigned a project manager, particularly amongst those HDFCs who are aging off their regulatory agreement and are seeking a new Article 11. Given these delays and the target of developing upwards of 700,000 units of housing within the next 10-year span, does HPD have the necessary headcount to handle these proposals?
+
+**(01:27:38)**
+
+
+
+Yeah, I would actually love to follow up with you more about exactly what portion of that you are talking about.
+
+**(01:27:42)**
+
+
+
+There are two things happening right now. One is the expiration of the HDFC tax cap, which...
+
+**(01:27:48)**
+
+
+
+So there are about a thousand HDFC co-ops in the City that benefit from the tax cap and we know that it is expiring, so we are certainly having conversations with our partners in the State about the need to renew that HDFC tax cap, which is critical to the affordability of these HDFCs. There are another about 250 HDFC co-ops that are actually under regulatory agreement with HPD. So if there are issues there in terms of those that are going to the end of their Article 11, or they need to renew that, or they just need a capital loan, I would love to talk with you more about how we can follow up where there are just sticking points. Thank you.
+
+**(01:28:26)**
+
+
+
+Next question is: the City of New York has not produced 700,000 units of housing since like the 1920s, which is a very long time ago. How does HPD work with the Department of City Planning to adequately plan for the infusion of hundreds of thousands of units of housing in neighborhoods that are already populated and lacking critical infrastructure? The point is well taken. We...
+
+**(01:28:53)**
+
+
+
+...understand that the draft report we put out regarding what the growth targets need to be for the City are very aspirational. Obviously HPD is not committing to financing 700,000. So our commitment here is 200,000 units of new housing over the next 10 years.
+
+**(01:29:13)**
+
+
+
+We do, as we have talked about, have a big commitment of new staff and a very big commitment of new capital, particularly for the next two fiscal years, which we see as a big down payment towards moving in the direction of that ultimate goal of 200,000 units, with the commitment right now to build 28,000 units over the next two years. We understand that some neighborhoods will be more challenged in terms of building, but we do want to be frank about what we need. We want to be collaborative with every Council member and every community board in every district to figure out how to try to meet those aspirational goals.
+
+**(01:29:49)**
+
+
+
+Will you be announcing any future neighborhood plans to possibly achieve those goals? There are two rezoning plans right now that are being considered, one in my district again...
+
+**(01:29:59)**
+
+
+
+Yes. So those two that you know about are being considered, and then I think one of the things named in the housing plan are these sort of micro neighborhood plans, which are not as big as like full wide community rezonings. I think we are anxious to start to move on that, especially for the reason you point out, which is that we have really high aspirational goals for the amount of housing we need to build as a City.
+
+**(01:30:20)**
+
+
+
+Thank you, Commissioner. Chair, just one more question if possible. Being that there are development opportunities and you mentioned the White Plains Road neighborhood plan, which is in my district, for all these potential units, how does HPD work alongside sister agencies to protect existing Black and Brown New Yorkers in communities like mine in the northeast Bronx? As we are talking about a lot of housing production, we are worried about rising rents and worried about displacement.
+
+**(01:30:46)**
+
+
+
+We have a lot of residential concerns, so Commissioner, we could definitely speak about this after, but those are concerns that my community and committees in southeast Queens are having when we are talking about this development. Those are my comments.
+
+**(01:31:00)**
+
+
+
+And I just want to say we completely understand and share some of those concerns. You will notice that part of the draft proposal that was put out at the end has a strategic equity framework, which is sort of the third section. There was a whole section just dedicated to stabilizing neighborhoods, which is very much about anti-displacement strategies. So this is very much on our mind, as well as our fair housing goals. I am happy to follow up and talk about what type of anti-displacement strategies...
+
+**(01:31:29)**
+
+
+
+Thank you. I just want to continue being a partner with you. So thank you so much for testifying today.
+
+**(01:31:34)**
+
+
+
+Thank you. Thank you so much, CM Riley. CM...
+
+**(01:31:39)**
+
+
+
+Thank you, Chair. Good morning. Happy to see you all. Excited about the Prospect Park South rezoning — very excited, communities excited. As we talk about making sure that we are keeping our communities in place, we also have to hold bad actors and bad landlords accountable. You have seen in my district — you came for a walk through — you see the dilapidated conditions that my community is in. So I am looking forward to seeing how we can escalate and move those complaints forward. But today my question is: some of those buildings we walked through could benefit from a COPA, right? So I would love to see where we can meet halfway. But a few of my questions are: what is the role of Council members in the process of holding qualified entities on the preservation buyers list accountable? How do we do that?
+
+**(01:32:25)**
+
+
+
+I am sorry. The question is how would Council members also handle... I mean, how would the entities on the preservation buyers list be held accountable?
+
+**(01:32:33)**
+
+
+
+Yes, understood. So as we sort of discussed earlier, the list will be... when the Bill passes, the first list would be issued based on the criteria I outlined, but then we will revisit that list every year. So it is not the case that just because you get on once you automatically stay on. Obviously these are nonprofits, and so we feel confident that we will be working primarily with mission-based organizations, but that is not to say that they...
+
+**(01:32:56)**
+
+
+
+...do not sometimes turn the wrong corner. So we will refresh that list every year, and if we find that there is an owner who has fallen out of compliance or into financial instability, they would no longer be included in future lists. We would also work to make sure any buildings that they have already acquired through COPA are addressed either through code enforcement or through our preservation initiatives.
+
+**(01:33:19)**
+
+
+
+Okay, thank you. What kind of private financing can be paired with eligible building acquisition? So we have to talk money.
+
+**(01:33:31)**
+
+
+
+Talk money. So as I said, I think there is going to need to be some private...
+
+**(01:33:35)**
+
+
+
+...public partnership here to make COPA truly effective. So one of the things we have been talking about is gathering all of the different partners we have. ISSO is a good example, Enterprise is a good example of this. So these are entities that also finance affordable housing. I think having a version of the acquisition loan fund, which was meant to be exactly this quick-acting capital that responsible landlords can use to acquire projects, even if that means we would do a second stage closing specifically around renovation, I think that will be critical to expanding the capacity under COPA.
+
+**(01:34:09)**
+
+
+
+And those buildings we have...
+
+**(01:34:11)**
+
+
+
+...seen in the dilapidated conditions, is there a timeline as to what the renovations would look like?
+
+**(01:34:17)**
+
+
+
+It is a very good question. It depends on the depth of distress, right? So sometimes we are doing what we call a moderate rehab, other times we are doing a substantial rehab, and other times still a gut rehab. So hopefully we are not in that third category very often and we are getting to the buildings before it turns into that. I would say on average, from the time we close a construction loan to the time we complete a rehab scope is usually around 18...
+
+**(01:34:41)**
+
+
+
+...months, sometimes a little faster, sometimes a little slower. And...
+
+**(01:34:43)**
+
+
+
+...is there a plan if you do move out the tenants as to where they will be placed, and upon...
+
+**(01:34:48)**
+
+
+
+...what? We do not start... yes, we do not start renovations if relocation is necessary. Optimally, you would not have to move tenants out at all. Or alternatively, you might have the ability to checkerboard if there are enough vacancies in the building, meaning they do not actually have to leave the building or their unit. But we do not start renovations until we have identified acceptable relocation...
+
+**(01:35:08)**
+
+
+
+...options. Wonderful. Thank you, Chair.
+
+**(01:35:11)**
+
+
+
+Thank you. Thank you, CM Joseph. If anybody wants a second round, all right, here we go. My favorite part where I just ask forever. No, I am kidding. Those who are going to be testifying, I will be brief so that you can testify. Okay, so the first question I want to ask is just a quick follow-up on the conversation. So you said between the Plus One program and the basement legalization pilot, there are under 50 conversions or units in the pipeline. Is that correct?
+
+**(01:35:47)**
+
+
+
+Yes, it is about 27 plus 17, so...
+
+**(01:35:50)**
+
+
+
+Got it. So just thinking back to the City of Yes for Housing Opportunity and the proposal, the projections were that there would be 82,000 units created over 15 years, which puts us at about 1,800 units per year. So how do we get there? How does the administration... I think, as the program... and I will let the Commissioner...
+
+**(01:36:17)**
+
+
+
+...add to this. I think again, you know...
+
+**(01:36:19)**
+
+
+
+I was working more on this from the State's perspective, but I think the challenges are the same. It really is the amount of work that has to happen at the front end. Keep in mind, homeowners are taking this on directly, so they are not necessarily experienced in construction. They do not have an architect, right. So that is just a tremendous amount of work to kind of get the right team together to do the analysis. Is it going to be an extension to the home? Is it going to be a conversion of existing ancillary structures? Or is it going to be a standalone unit? One of the things we are exploring for where those standalone units work is manufactured housing. I think we have issued an RFP recently to solicit that, and the reason for that is that they can be built and delivered much, much faster than a stick-built unit. So one of the strategies we are looking at is off-site construction. Again, those will only work primarily where there is room for a standalone unit. I think for the rest — I would say two thirds of the ADU population that we are talking to — we are just going to need to keep adding technical assistance and support for that early pre-development work. Do we see the program picking up? We are not quite where we need to be, but I think we are going to have to keep adding upfront resources so that homeowners can move through the process more quickly. Great.
+
+**(01:37:41)**
+
+
+
+Yeah. Well, just to pick up on the last element, for the manufactured construction piece, clarity of responsibility will... clarity again, like every other step that we have taken, whether it was the State changes in 2024, City of Yes, the rules are necessary to give the market, the industry and homeowners the clarity they need to move forward, and that can take time. So we are working on different parts of the program. Our conversion program, the amnesty program, will give people a pathway to legalization and also be a major driver to giving people predictability and bringing folks into the legalization world. We expect those rules to be finalized by the end of the year. So those are two pieces of clarification that should inject more energy into this work and allow some movement.
+
+**(01:38:40)**
+
+
+
+Thank you. That is helpful. Okay, so this is the second bucket of questions here, around the plan — what the plan says and does not say around stabilizing the aging affordable housing stock that low-income New Yorkers rely on. Let me pull up the right notes now. Fully one third of evictions in the previous year were at affordable housing projects or affordable housing buildings. With respect to what the plan says about stabilizing this portfolio or these properties, you indicate the TOOLS program. So the first question here is with respect to the TOOLS program: there are various components, but one of the pieces of feedback that we have received time and again from the industry and from housing advocates is that... and I cannot find the notes, so I am just doing this from memory... the one-shot deal program has had a 70% denial rate. So how do you square that away with the expansion of the TOOLS program and helping prevent evictions before they start?
+
+**(01:40:07)**
+
+
+
+I would just say, and I think both I and Director Weaver want to come in on this: I think TOOLS is intended to work with existing property owners or subsidized property owners early in the process, getting access to tools that are already available to them. So not having to go through a new Article 11 application or a new application for financing. One of the things we are talking about as part of TOOLS is how to get upstream in the process so that we are not relying so heavily on one-shot deals. I want to be frank that we have not fully figured out exactly what to do or why we are seeing so much fragility in terms of rent collection, but what we have heard pretty consistently is that better asset management and better wraparound services at the building level has improved rent collection a lot.
+
+**(01:40:57)**
+
+
+
+So one of the things we are exploring with TOOLS is if we can help clear back rent through a grant or a loan from HPD to the property owner in order to then free up capital, which would otherwise go to legal expenses, to bring in better management and better wraparound services. We think that will have a stabilizing effect. So we have outlined in TOOLS a pilot to sort of test certain versions of that to see if it does actually make a difference in terms of both stabilizing the cash flow and helping more residents get current and stay current on their rent. I would just add that the City's public engagement unit runs the tenant support help line, which has been tremendously helpful in actually working one-shot deal applications with renters so that their applications are successful. They fielded more than 21,000 calls last year and they continue to be a really critical resource that the administration uses to protect tenants and works closely to ensure that people are getting access to tools to help pay their back rent if that is what is needed.
+
+**(01:41:59)**
+
+
+
+And Director Weaver, what are the most common reasons for these rejections?
+
+**(01:42:06)**
+
+
+
+I would have to get back to you on that, but the applications are complicated. They are long and we are looking for ways to really support people in making sure that they are filling out the application to the best of their ability so that their application is successful. Thank you. And TOOLS writ...
+
+**(01:42:20)**
+
+
+
+...large, have you already launched the program? How much funding has been allocated to each aspect of TOOLS and how many buildings do you expect to work with...
+
+**(01:42:28)**
+
+
+
+...in the first year?
+
+**(01:42:30)**
+
+
+
+Yes. So we have...
+
+**(01:42:32)**
+
+
+
+Launched in the first stage, we spent a lot of time training our asset and property management staff on the new protocols around requests for reserves, the expanded tax abatements under 426. So that was phase one, and phase two was a series of roundtables that we held with groups like NYSAFAH and the Housing Conference to make sure folks know about the program and also to take feedback. We did not want to sort of roll it out without getting some input from our partners on what they thought would be most helpful. Now we are at the stage where we have onboarded the three technical assistance providers — Enterprise, Lisk in the Housing Partnership — and we have sort of just figured out amongst ourselves who will be serving which organizations are interested in that additional technical assistance. And lastly, we are now engaged with about half a dozen individual developers on their actual portfolios who are working to take advantage of one or more of the different options under the tools.
+
+**(01:43:32)**
+
+
+
+Thank you. Talking about 420-c — I always thought it was as of right if you were a LIHTC or not as of right, but it went along with every little deal. So can you tell us how many LIHTC properties do not have 420-c, and what scale you would anticipate to reach with 426?
+
+**(01:43:52)**
+
+
+
+Yeah, just to be frank, I would want to get back to you with an answer for that. I think we were a little surprised to find that this was sort of a tax statement that was available that had not been fully utilized by some of our partners. So we have started to do some analysis. My colleague Adam, my first deputy commissioner, has been really digging in on what is the universe and how do we match it up to the groups that we are hearing from directly who are interested in the tools. But if you will allow it, I will have to get back to you with the projection on what is...
+
+**(01:44:16)**
+
+
+
+...the total universe. Thank you. I will make a note here. And then with respect to the tools again, and specifically the eviction prevention side of it — bringing into the public conversation that you and I started, Commissioner — regarding the use of tools for Mitchell-Lamas or DFCs, do you have an update for us in terms of helping to stabilize those properties?
+
+**(01:44:43)**
+
+
+
+I do. It is not much different than the update we just exchanged last week, but generally speaking, we agree that that is actually a missing piece for the Mitchell-Lamas, and exclusively so for the reasons we discussed. You know, co-ops require a specialized type of assistance that is really, I think, best put forward by groups like UHAB, possibly others like Habitat, who really specialize in that. I think — and that is not to say that Enterprise and Lisk in the Housing Partnership could not also provide that technical assistance — but I think we are looking specifically at expanding the TA for a tool-type program for Mitchell-Lama that would include groups like UHAB. There is another organization that we are talking to who I think really has an understanding of the asset management challenges that Mitchell-Lamas are going through.
+
+You know, they are a little different than the existing subsidized stock. They do not tend to have these reserves, and they have different structures — an Article 2 is different than an Article 11 — so there is probably a different universe of strategies that we need to deploy for Mitchell-Lama. But to be frank, your point was well taken when you raised it for Kingsbridge, and I think we are now looking to see if we can come up with a comparable early upstream intervention to help Mitchell-Lamas. Many of them, we know, are going to need a big capital investment and we are prepared to make those investments, but I think these are good strategies to deploy on the way to it.
+
+**(01:46:14)**
+
+
+
+Okay, thank you. So would you anticipate that there are going to be additional contracts with those technical assistance providers? Do you think we will need new contracts to bring on the co-op specialists? Okay. With respect to the loans that are described in that tools section — why would an owner take advantage of a City loan for operating expenses if they have no guarantee that new revenue would come to pay back that loan? I want to make sure I understand the question. So are we talking about a preservation loan? The tools section makes mention of making more financing available to these owners. Why would they take advantage of more financing if they are worried about...
+
+**(01:47:00)**
+
+
+
+Yeah, well, generally, if we are talking about capital investment financing and they are coming in because they have different capital needs that need to be addressed, obviously when we are financing a project it is on very, very favorable terms — often no or low interest with flexibility on term. So we certainly would not advise that any of our not-for-profit partners recapitalize unless it is necessary and unless we can see that the cash flow will be sufficient to pay back those loans.
+
+But I would say the tools initiative is not primarily as focused on making capital loans as it is on accessing existing resources, including their own building reserves, and having flexibility with those reserves to look across their own portfolio. And also, frankly, to make it not so challenging to work with us — it takes frankly too long to receive and process those requests. So part of the tools initiative is to say this should take no more than 30 days. Thank you.
+
+**(01:48:00)**
+
+
+
+With respect to the City-backed insurance program and water assistance programs — starting with the insurance program — the plan talks about a hundred million dollars over three years. You mentioned in your opener that you have received 22 responses to the RFP. Can you talk to us about the scale of this program, how many buildings you are hoping to reach within the first year or two, and what the goal is of the administration with respect to an impact on the insurance market or anything else? What do you anticipate will come from this outside of the buildings that directly benefit?
+
+**(01:48:40)**
+
+
+
+I mean, it is an excellent question. I think the first thing is to just reiterate what we have said publicly and what we are committed to, which is working to — once we have the partner and the program is operational — it is hard to say a number of buildings because we are targeting a unit count, so it really depends how big or small the buildings that join the program will be. But the goal is to get to 20,000 units insured by the end of next year, so that would be the end of 2027, and then 100,000 units by the end of 2030. We do expect to see, once we get to that scale, that we will be helping to drive the competitive market downward hopefully.
+
+**(01:49:20)**
+
+
+
+Right, which is really...
+
+**(01:49:22)**
+
+
+
+...critical. So we do think an ancillary benefit of this is that if we are offering affordable insurance premiums through this new City-backed initiative, other providers will have to either match us or beat us, which is what we would like to see. And I will just say, you know, this is becoming more and more of a focal point for us. The insurance premiums are one of, if not the biggest, driver of distress amongst both affordable housing providers and privately owned rent stabilized landlords.
+
+**(01:49:55)**
+
+
+
+Thank you, that is helpful to hear. With respect to the multifamily water assistance program — this is a DEP program, so let me know if you are equipped to respond to it — but the timeline and scope of that expansion, and which buildings would be prioritized?
+
+**(01:50:10)**
+
+
+
+I do have to defer since it is not a program run by HPD, but we are very glad to see the increase in funding for this program. We know it is hugely important and that water bills are also a stressor both on individual tenants and on building owners. What we know from them is that they intend to serve 75,000 residents next year, which is up from about 50,000 in past years, so that is a marked increase.
+
+**(01:50:42)**
+
+
+
+And that is targeting affordable properties as well? I think it is an income-based program. Okay, thank you.
+
+**(01:50:55)**
+
+
+
+The Bronx plan spotlights the Bronx, and this is much needed and appreciated. It talks about the all-of-government approach and the potential that it has to move the needle for our folks. You know, in previous hearings, including in the executive budget hearing, I talked about the troubling and alarming trend of the doubling of fires in the Bronx and Queens. We talked about root causes. We talked about what can be done. So in the context of the myriad challenges facing the Bronx, I would love to understand the status — have interagency conversations internally begun? When will the Bronx feel the workings of the Bronx Plan? And just to put in a plug — a major plug — please, please, please include the deputy mayor of community safety on the Bronx Plan, because that is essential to...
+
+**(01:51:49)**
+
+
+
+...what we are dealing with. Thank you for that question. We actually had a call with the deputy mayor, and I am happy to say yes to that question. Yes, interagency conversations have begun on the Bronx Plan, led by HPD but with the Mayor's Office of Equity and Racial Justice, again bringing in the deputy mayor for community safety and also DEP into this work. The goals are to really address building conditions, to address health disparities and support quality of life and public realm improvements. We are focused on both the highest-need areas in the Bronx but also areas where very many people live in existing affordable housing, and so really thinking about ways that we can complement the affordable housing that we are providing in the Bronx with other initiatives like streetscape improvements, like activating ground-floor retail, and working closely with also the Mayor's Office of Child Care and Early Childhood Education, and really thinking about what other needs exist here. So looking forward to really continuing to build out that work and to start community engagement sometime in the late fall. And yes, on the fires as well. Thank you — sheds and the Bronx Plan and the deputy mayor of community safety.
+
+**(01:53:06)**
+
+
+
+So I will not go into too many of my own local issues, but I have been having probably weekly discussions with the deputy mayor of community safety, for which I am very thankful. One of the themes that is arising in this hot spot where we have had arson, open-air drug sales — it just feels like a part of my community is something out of a movie — is sheds. Sheds are a place where dangerous activity happens, where people in the community do not feel safe. So a question for DOB: what can I take back, and what can communities dealing with sheds that attract negative activities do? What can we take back to our communities in terms of how will these sheds be taken down? What do we do to get them down?
+
+**(01:53:59)**
+
+
+
+So I think, just coming out of this discussion, it is working with your team to get a list of all the addresses, start mapping out these sheds. We can start doing the background research on each of these properties to understand what the source of the shed issue was. Is it related to a facade inspection report or an individual issue? We have had success engaging with owners to figure out — because it is something that we can do from the plan review and permitting process — is there something that they need, or reconnect them with other resources, just start doing that case management to get them down. At the same time, our enforcement team will go out as soon as we have addresses to start looking and canvassing sheds to see if there are any problems with the sheds or needed repairs, just to make sure they have the appropriate lighting and that there are not any structural issues. We will do that in parallel — evaluate, see if the sheds are not up to code, make sure that they are at least working properly and have the appropriate lighting, which hopefully helps with the public safety piece. And then beyond that, we want to bring the sheds down. So separate and apart from new rules that will go into place that now bring down the permitting allowance from one year to 90 days, requiring owners to represent to us through a licensed professional what they are doing to bring down that shed — as part of the Bronx Plan, we will work to focus on these sheds particularly.
+
+**(01:55:28)**
+
+
+
+Right, thank you. And do you anticipate that some of the changes that you are making, described in the — I always get it wrong, Thomas, I am looking at Miguel — the Thornton Thomas report? Okay, I am not going to remember the name of the report. The technical report — some of the changes included, you know, a differential treatment for newer properties, the longer cycles between Local Law 11 inspections, things like that. Do you anticipate those changes will help the Bronx in particular with respect to the number of sheds we have?
+
+**(01:56:08)**
+
+
+
+I think particular parts of the Bronx where there is newer construction will see the benefit of the fact that our analysis showed that buildings, particularly those 40 years or newer, can — if they have a safe report — extend to 12 years before they have another full inspection, using abbreviated visual inspections in between. Parts of the borough where the older building stock exists, we are moving from 5 to 6 years because we can create a little bit more breathing room but still maintain safety. And then where there are campuses that require sheds to be erected, we are trying to reduce the radius of those sheds so that it is not completely consuming the sidewalk and the areas of walkway — giving more space to people and also less cost, with less shed having to go up. So yes, I think different parts of the Bronx will see a positive impact, though differently. Thank you.
+
+**(01:57:07)**
+
+
+
+Alright. Vacancies in rent stabilized units across the City — as of April 1 of 2025, reports show more than 57,000 rent stabilized apartments were vacant, approximately 6% of the overall rent stabilized universe. That is a 15% increase from the previous year, 2024. However, in the block-by-block report and the rental ripoff report, the discussion around rent stabilized vacancies and rent stabilized buildings really focused on the Unlocking Doors program and how unsuccessful it has been. So a question here is: what does the City believe is driving the increasing number of vacancies in rent stabilized units? Does the administration believe that Unlocking Doors was structured poorly? What do you...
+
+**(01:58:06)**
+
+
+
+...what reasons do you give for the failure of Unlocking Doors, and can you share any other details to address this specific universe of low-cost homes?
+
+**(01:58:19)**
+
+
+
+Thank you, Chair. So I think we are still trying to diagnose exactly what is happening. We are having conversations with our partners who are owners of these rent stabilized buildings about why Unlocking Doors did not have better uptake. But a couple of things I want to say about just the statistic first is that we do know that the...
+
+**(01:58:40)**
+
+
+
+...vacancy rate in rent stabilized housing is very, very low. We are in the middle now of the Housing Vacancy Survey, which digs in much more deeply and will give us a better picture of exactly what the vacancy rate looks like. I also want to make sure — with all due respect to my colleagues at HPD — that we are careful about how we put out these numbers. I think sometimes these numbers come out and people think these are warehoused units, that the same units stay vacant for years. That is not necessarily the case. This is a moment in time, so units can be vacant for any reason, either because we have just completed construction and they are going through lease-up, or because they are just going through turnover. So I think it is important not to overstate what that number that HPD puts out says.
+
+To your question about why the take-up has been so low and what to do about it — I think, to be frank, your sponsoring the renewal of J-51 will be a huge tool to do a better job in terms of getting units back online quickly. I think the changes that have been authorized by the State, including the 100% reimbursement and the updated cost schedule, will be much, much more successful in terms of getting rent stabilized units back online. I will say, you know, under J-51 historically, we saw far more co-ops taking advantage of that program than we did rent stabilized buildings. So I think part of our goal going forward will be to do really aggressive outreach to make sure that building owners, whether they have vacancies or deferred capital needs, are fully utilizing J-51. And we look forward to working with you to make sure that gets passed.
+
+**(02:00:19)**
+
+
+
+Let me. Excellent. I think one thing that would be helpful, whether today or in a public conversation around these numbers around vacancies, are the differences in methodology. Like you mentioned, the Housing Vacancy Survey takes a very deep dive on exactly why each unit is vacant, and once you start drilling down the vacant and available for renters is a much smaller number. So it would be helpful. I do not know if you have this answer today, but if you can compare that 57,000 that is being reported with the much smaller vacant and available number that puts out, as a first question. And the second question is, is the methodology going to stay the same with the Housing Vacancy Survey now that it is not going to be conducted by the Census Bureau? Is there anything that we should anticipate or look for with the new...
+
+**(02:01:15)**
+
+
+
+Release. Yeah, I appreciate the question and I do think we could dive deeper into your question about low cost units within that universe of 57,000. I will volunteer ahead of our policy team who is here today to take note that we will dig into that and get back to you on it. As it relates to the Housing Vacancy Survey, again, we are deep into it now and we are working with a new vendor, but I do not anticipate any changes to the Housing Vacancy Survey that would make a comparison back to the previous surveys challenging in any way. So I think we are just looking forward to getting to when we will release the draft report.
+
+**(02:01:50)**
+
+
+
+Excellent. Thank you. Okay, and then last question in this section. Both the housing plan and the rental ripoff report borrow terms from the labor movement and draw a distinction between landlords who take the high road and those who take the low road. Can you share what specific benchmarks you used to define each of these terms? How should the City distinguish between owners that want to do the right thing and those that are intransigent? What are the use cases for escalating enforcement actions, or supporting owners with financing and other tools?
+
+And before you answer, I will not name the houser, but I had a conversation yesterday with a houser who is on the worst landlords list, has a lot of open violations, has a very high rate of rental arrears within the portfolio of properties, and really describes themselves and understands themselves as a good landlord, somebody who wants to do the right thing, but ends up on this list. And if you just look at the data, they are one of the bad ones. So I am just very curious if you have those specific benchmarks and how, if you could point us to the ways that the rental ripoff report recommendations and the block by block plan contemplate working with the high road landlords.
+
+**(02:03:17)**
+
+
+
+Yeah, I mean, we have had a lot of discussion. Thank you for the question. We have had a lot of discussion at today's hearing about what constitutes a qualified purchaser and ongoing work to evaluate who they should be working with in their preservation programs. So really we are talking about the same set of metrics and really making sure that the owners that we are working with have the capacity to manage extremely distressed buildings across their portfolio at the same time.
+
+With the high road distinction, we are also really looking to work with owners who want to work with their tenants. So we are really putting an emphasis on dialogue with residents and resident associations and a willingness to both work with us and also with people who live in their buildings themselves. That communication and collaborative relationship is really important for our enforcement programs but also our preservation programs.
+
+Finally, to your question of a landlord who is wanting to do the right thing, one of the things that we are hoping to be able to do in partnership with the Council in the coming years is to really smooth out the relationship between our enforcement programs and our preservation programs, so that, for example, we can discharge a building from the alternative enforcement program if it enters into a preservation deal with the City. So I think there is a lot that we can do here to really make sure that this distinction is meaningful, and I am looking forward to continuing to define it together.
+
+**(02:04:41)**
+
+
+
+Thank you. There have been many conversations that I have had with different landlord groups, folks like SPONY who are owners of small rent stabilized properties, affordable housers who end up on lists like this. And invariably they have interesting ideas. Like this idea that fines and fees do not inherently improve conditions for tenants. So what if we can treat the good ones differently? I think that is an interesting thing. You know, you convert your fines and fees to rent forgiveness, and then when rent collections pick up again those funds could go toward improvement of the property. I think those kinds of ideas are interesting, so just putting in a plug for bringing them in and having more conversations. Yeah, very much. Thank you.
+
+Thank you. Okay, so I am going to call on... I am going to recognise CM Brewer. Okay, call on CM Restler, followed by CM...
+
+**(02:05:40)**
+
+
+
+Nurse. Around to thank you so much, Chair Sanchez. I make an effort to say that every hearing because it is so true. We are enormously fortunate to have you at the helm of this critically important committee. Commissioner Levi, Director Weaver, it is good to see you both. But I will say, Commissioner, I have been really appreciative of how responsive your team has been when we raised issues from the jail in downtown Brooklyn, where Deputy Commissioner Brooklyn Jason Rodzinski has done a superb job. I mean, across the board, your chief of staff Soniya and all have been really responsive and helpful, and I really appreciate it. So thank you. That is the last nice thing I am going to say to you for a while. A handful of...
+
+**(02:06:29)**
+
+
+
+things for me. I will try to go fast. I appreciate the testimony that said you support the goals of our disclosure Bill. Do you support the Bill? I think we...
+
+**(02:06:43)**
+
+
+
+do generally support the Bill. I think we would like to have some follow up conversation about what enforcement would look like.
+
+**(02:06:48)**
+
+
+
+Okay. And then right, also the challenge of making sure we are piercing the veil so that we are getting the right information posted. But generally, yes, we support the Bill. Great. Let us get it...
+
+**(02:07:00)**
+
+
+
+passed. Next up. All right, two more. I will do two or three more quick ones.
+
+**(02:07:08)**
+
+
+
+Our district, I think, was like the epicenter of 421-a construction and we are increasingly hearing from tenants experiencing brown water, elevators that do not work, just shoddy conditions. Excuse my French.
+
+**(02:07:22)**
+
+
+
+In what is new construction. These are not buildings from 50 and a hundred years ago. This is new construction.
+
+**(02:07:29)**
+
+
+
+And so as you are embarking on this bold and ambitious housing plan, do we need to rethink our standards of what we are requiring of developers to ensure that we are not continuing to get poor conditions in new construction getting built across the City?
+
+**(02:07:45)**
+
+
+
+Yeah, I do not know if I can speak to it, I...
+
+**(02:07:49)**
+
+
+
+would say these buildings are no different than any other building in the City where we have high expectations for compliance and maintenance. So if there are defects in construction, which should not have happened, but if there are defects that are happening...
+
+**(02:08:02)**
+
+
+
+frequently, we then should take action through our code enforcement offices. What we do not want to be doing is trying to fix these issues after a developer did a shoddy job. That is really not a great way to try to solve...
+
+**(02:08:15)**
+
+
+
+problems. We do not disagree. So what can we do on the front end now, as you are embarking on an ambitious new housing plan, to try to set higher and better expectations so this does not continue to happen?
+
+**(02:08:25)**
+
+
+
+So the challenge, I think from my perspective, is that when HPD is financing a project we have very high design guidelines and design standards. So we have a lot to say about what gets built and the quality of what gets built. I would say in the private market, there are codes that...
+
+**(02:08:41)**
+
+
+
+dictate what the standards are. Frankly, we hear more often that the standards are onerous than we hear that they are too lax. But if there are changes that you have specifically that you think we should consider, we certainly would...
+
+**(02:08:58)**
+
+
+
+I will say quickly, we have a lot of work to do. This is why we continue to update the building code. This is why the construction sign-off process before a temporary certificate of occupancy is issued is so critical. And yes, we hear more often than not that people complain about the rigor than the laxness. But if there are specific issues that we need to dig into, we would like to talk to you more about that.
+
+**(02:09:17)**
+
+
+
+Sure. Could I get one more question? Thank you. I really appreciate...
+
+**(02:09:23)**
+
+
+
+it. I am deeply concerned about the expiring Emergency Housing Vouchers — 5,200 of them. And I apologize if this has come up already today, but 5,200 vouchers expiring at the end of this year, thanks to the incompetence, ineptitude and perhaps pure evil of the Trump administration. My understanding is that 2,500 of these vouchers under your purview have a path forward with the HOME tenant based rental vouchers. Could you confirm the accuracy there, and that NYCHA has no solution for the similar 2,500 vouchers under their control? Why not move all of those vouchers under the HOME tenant based rental vouchers for all 5,000-odd families that are otherwise in an incredibly difficult position and potentially at risk of homelessness? What is the path here?
+
+**(02:10:07)**
+
+
+
+So I should correct the numbers for the record. The first 2,000 families that had under our own HOME conversion to TBR, a tenant based rental system which is under HOME, there are an additional 700 families or individuals and households that were on NYCHA. We have moved those over because we had additional HOME resources through HOME, which was a special allocation granted during COVID. That is pretty much the capacity that we have for conversion from TBR.
+
+**(02:10:44)**
+
+
+
+That said, the 3,400 that remain within NYCHA's universe that are not being converted to TBR are all being offered to fill out applications for NYCHA project based Section 8 units, regular Section 9 units and their own project based units. I realize that NYCHA is not your responsibility, but that is not a particularly serious answer, is it?
+
+**(02:11:07)**
+
+
+
+Yes, it is a serious answer and they have had an 81% response rate from reaching out to that 3,400. And you think that we are going to move people into Section 9 housing and into NYCHA apartments off those waiting lists in time, before their vouchers expire in three...
+
+**(02:11:21)**
+
+
+
+months? I think that is the goal and that both agencies... I do not want to speak for NYCHA, but I think both agencies are working really diligently to make sure that we get the transition plans in place before the end. You can model the waiting lists and look at the need. Do you think any families will move off of that waiting list into housing? I do. You do. And you think a substantial number of them will?
+
+**(02:11:44)**
+
+
+
+I mean, I cannot guess what number will, but I think they have had a very high response rate and I think those folks who really do need additional subsidies...
+
+**(02:11:51)**
+
+
+
+My point is that a response rate to completing an application is a different thing than actually accessing the housing support that they need. Filling out an application is very nice. It is not all that helpful.
+
+**(02:11:59)**
+
+
+
+Yeah, people are being placed. Okay, so do you have an expectation of the 3,400 delta, of how many will get help? I do not, but it is my understanding that NYCHA has been reporting regularly to the Council on what the percentages are of both response and uptake, so I...
+
+**(02:12:14)**
+
+
+
+think we should... They are not particularly responsive to our requests for information, but we will look for more. So thank you very much. Good to see you.
+
+**(02:12:23)**
+
+
+
+Thank you so much, CM Restler. I am going to call on CM Brewer to read a statement on her legislation, followed by CM Nurse for round two. And I want to acknowledge that we have been joined in person by Council members and over Zoom by Council members as well. Thank...
+
+**(02:12:39)**
+
+
+
+you very much. I am across the street at another hearing that I am co-chairing, so I am sorry I was not here earlier. But I do want to talk about Intro 360, which is quite different than some of the others. It just has to do with addresses on buildings, and that is something that I have been talking about for a very long time. So I hope this Bill passes. It is important to have clearly displayed building numbers to help first responders, residents, delivery workers, tourists and me trying to get to the next event. Ensuring that every building is prominently and visibly numbered strengthens public safety and makes navigating our neighborhoods easier, and it is also the law.
+
+I will say that there have been many times, New York Times stories even back to 1929, where people were so frustrated about this issue, that there was no number on the building. So fast forward to 2017, I was the Manhattan Borough President. I passed Local Law 26 with Jumaane Williams, who was then in the Council, to reinforce the display requirements and increase the civil penalty for failing to post street numbers. The fine went from $25 to $250. But a crucial question to this effort was the support of then Fire Commissioner Nigro, who knew better than anyone that seconds count and response time is wasted when 911 callers...
+
+**(02:14:11)**
+
+
+
+I am out across the street. Cannot quickly identify the location of a life threatening emergency. A decade later, that is how many years it was, we did not know which agencies are responsible for enforcing this common sense law for both residential and commercial buildings. Believe me, we had no idea. So building number violations remain severely underreported, and as of today there is no way to officially report a missing building number to 311 or any other City agency.
+
+So this intro, what it would do, would authorize HPD and the Fire Department to inspect buildings for required physical street numbers during their routine inspections of buildings. If either agency finds the building is noncompliant, the agency would take enforcement actions consistent with the rules and regulations established by the Department of City Planning. The Bill would also create a new complaint pathway to 311 that would require either agency to inspect the building regarding a missing or improperly displayed street number. Owners would remain accountable for meeting basic legal and administrative requirements.
+
+I certainly want to thank Tyler Isaiah Walls of the Council Legislative Division and Shula Pooter from my support staff for making this happen. I know all these Bills are important, but if you ask New Yorkers what is most important to them, it is not that they cannot find the restaurant, which I do not care about, but that they...
+
+**(02:15:54)**
+
+
+
+cannot find the building. So I really hope that you support this Bill. Do you...
+
+**(02:16:00)**
+
+
+
+I will start. I think we do support the Bill, Council Member. I think we just wanted to work with you and with the comparable agency just to make sure that we are all going in the same direction. But generally we 100% support that Bill.
+
+**(02:16:17)**
+
+
+
+Thank you very much. And then just in terms of housing need, I want to put on the record the Windemere on 57th Street and the Imperial Court on 79th Street. Thank you. Thank you so much, CM Brewer. I now want to turn to...
+
+**(02:16:37)**
+
+
+
+CM Abreu. Thank you. Just a couple of questions. One, I wanted to echo CM Restler's point about NYCHA being extremely unresponsive. Sometimes talking to them is like talking to a black hole. I just do not know how we are going to move forward on some of these things, so it would be great to hear how that issue that he brought up, how we are going to be able to move that forward collaboratively.
+
+But while we are here, I did want to check in on how Bushwick is factoring into the housing plan. We have given three different commissioners a list of City-owned sites across the 34th and the 37th districts that has the full support of our community board, which is rare for development on publicly owned sites. We have one site, 1420 Bushwick Avenue, we have another site I think is DCAS-owned on Madison and Bushwick Avenue, and these are just some examples. I am just kind of wanting to understand where we are with these sites. You know, it has been four and a half years since I have been here where we have identified this and we just have not really moved forward.
+
+**(02:17:48)**
+
+
+
+So I cannot speak exactly to decide because I do not go on it, right? We can certainly come back to you with information on those specific sites, but generally speaking, I think we are putting a lot of emphasis now on moving the public sites through the pipeline more quickly. As I mentioned earlier, when we are talking about what we are prioritizing at HPD in terms of our pipeline prioritization, we are looking heavily at readiness to proceed, but also at the balance between public and private sites. I think right now we are projecting to do something on the order of three more apps on public sites this year, and then scheduled for closings both in our current and then our following pipeline, I think another seven deals or so. I will confirm exactly the number for you. So this is very much something we are talking about a lot, very much wanting to move forward. You know the LIFT initiative, right, where we work to identify as many as 25,000 units that can go on public sites. So this is a high priority. I am happy to follow up with you on sites that you have been, sounds like, working on for some time.
+
+**(02:18:52)**
+
+
+
+You and I have had a conversation about 1420 Bush... I certainly, Commissioner, would love to see that one finally included in an RFP. I mean, it is ready. It is a huge site, it is like a whole block that could be going for housing, and to get a community board fully behind that is, you know, miraculous. So it would be really great to move that forward. And then just a comment, because it is a hill that I probably will die on before I leave this Council, but I really urge you to continue to look at the design guidelines and try to find ways to increase the minimum size of bedrooms and open floor kitchen-living room combos. I mean, these are not square footage sizes that work for working families. I just went to a LIHTC site the other day on Atlantic Avenue, and it is like a mother with three daughters. Their kitchen is right there when you walk in the door. They had only a kitchen table because there is no place else to put a couch or anything. There is no place to put anything. The bedrooms are tiny. As taxpayers, we are subsidizing that kind of nonsense. We have to create permanent affordable housing that people can actually live in, where their kids could have a dresser, the bed is not in the corner. This is not dignified and we are paying for this? So I just wish, I bring this up every hearing. I just really wish we could do better by the families, especially because we are footing the bill. Thank you.
+
+**(02:20:37)**
+
+
+
+Sure. Thank you.
+
+**(02:20:38)**
+
+
+
+CM Nurse, I cosign on the design guidelines. I am going to read a quick statement by CM Salaam, who is online, but we do not have a quorum so he is able to read the statement on his Bill. Thank you. CM Sanchez, Int 1015 is a simple Bill about something that is not simple for the people that it affects. When a permit is issued, the job is not over. The work is not over. It is over when the Department signs off. A lot of owners do not know that. They hire a contractor, the work gets done, the contractor moves on, and the permit stays open. Years later, they go to sell or to refinance and find out there is an open or expired permit on the property, that there are reinstatement fees, that future permits at the address are held up, and that work sealed behind a wall has to be opened back up for an inspection that never happened. That falls hardest on the smallest property owners, the one, two and four family homeowner and the family that has held the building in Harlem for two generations and does not have an expediter or routine staff the way large developers do. Large developers have staff who track this. Our neighbors do not. This Bill asks the Department to do one thing: tell people. Email the owner within seven days if the permit is about to be issued, every 90 days after that until sign-off, and every two weeks once the permit is near expiration.
+
+Tell them the permit number and the expiration date, what the sign-off requires, and that the work has to stay accessible for inspection and what happens if they never get it. There are no new obligations on owners here and no new penalties. This is a notice. Notices prevent the fee, the violation and the stalled closing before they happen. I want to thank and work with the Department on the intervals and how the notice is delivered, and I would ask the Department today: how many permits are currently open without sign-off and how many
+
+**(02:22:24)**
+
+
+
+of those are in one, two and four family homes? Thank you. So just to echo again that we are very interested in working with the Council Member on this Bill and are supportive of the intention. I do not have those particular figures with me today, but I will follow up immediately to provide the Council, the Chair and the sponsor the numbers and to continue talking about the Bill. Thank you.
+
+**(02:22:52)**
+
+
+
+Commissioner, I am going to ask a couple of questions on rollout because I know that Commissioner Ghani has a hard stop very soon, and then I am going to do my final questions. So since last launching, can you share how many homeowners have used the pre-approved plans and how many expedited ADU permits have been issued?
+
+**(02:23:15)**
+
+
+
+So it is my understanding that so far we have not had somebody get into the pipeline who has used the pre-approved plans. Again, I think the big issue there is that those plans are appropriate for standalone ADU units and we are seeing a fairly small number of standalone units in our pipeline. These are more conversions of existing structures. As I have said, though, we are starting to hear from our pre-development partners like Neighborhood Watch that we have some homeowners who do have an appropriate piece of land that would allow for the pre-approved designs, and we are very much looking forward to seeing those come
+
+**(02:23:51)**
+
+
+
+through. Only this year, within the broader pipeline, we do have one. They are using the studio design and for all the same reasons, again, appropriate plot size to be able to do this. And as I indicated, nearly half of the applications where we have gotten them, 261 based on numbers from mid-year, are looking at basement, attic and cellar conversions.
+
+**(02:24:16)**
+
+
+
+Thank you. So did you mention earlier that there have not been any Plus One ADU awards? There are 27 in the pipeline and another 17 that we are expecting into the pipeline relatively soon.
+
+**(02:24:30)**
+
+
+
+But no awards have been made so far.
+
+**(02:24:31)**
+
+
+
+Those are tentative awards. I guess we would argue that until they have started construction, has the award been made or committed? I would argue they are committed.
+
+**(02:24:42)**
+
+
+
+Got it. Thank you. And then when will the ADU program process wrap again this year? And when will LPC release, recognizing it is not here, but do you know when LPC will release its online maps showing where ADUs can be built in historic districts?
+
+**(02:25:07)**
+
+
+
+That map is actually being released, I think, at the end of this year. In addition to the map, they have a fact sheet and guide to assist homeowners looking to develop ADU units under their properties.
+
+**(02:25:20)**
+
+
+
+Thank you. I am going to go out of order and ask a question for Director Weaver, just because a tenant came to me over the weekend and there is this thing in your plan and it seems like you should have the answer, right? This is regarding streamlining tenant rights and communications and outreach through the Mayor's Office to protect tenants. So I had a tenant who came, who was at a backpack distribution event. She said, 165 West 197th Street. We have been organizing ourselves, we have knocked on all of each other's doors and we met once in the lobby. We really need your help. And they said, Nina, can you come to our building and talk to the tenants and help us organize for repairs? There are all kinds of vermin and rats and bad apartment conditions. So there is a protocol that I follow in my office, but what would the rental rip-off report recommendations tell a Council Member like me with a tenant in a building like this to do next? Can you repeat the address again, just so I get it?
+
+**(02:26:27)**
+
+
+
+165 West 197th Street, close to the rocks.
+
+**(02:26:32)**
+
+
+
+So the tenants are... thank you for the question. So we are providing a significant amount of support to tenant associations in our office every single day, and we typically ask the people who reach out to us: are they having regular meetings in the building lobby, have they connected with an existing community-based organization? You have many in your district, quite good ones. So we typically will then direct people to either existing resources like that, providing support about what is going on in their building. We provide strategy support to tenant association leadership about how to target a campaign to improve living conditions in their building if they need that. We are also providing ongoing tenant organizing training through our Talk to Tenants initiative that we are working on with the Mayor's Office of Community Engagement. So we might consider recommending that this tenant association come to one of our upcoming Talk to Tenants sessions, where we can actually provide more in-depth support about how to form a tenant association in your building and what next steps you can take.
+
+**(02:27:44)**
+
+
+
+All right, thank you. I will be following up with you, Director Weaver,
+
+**(02:27:49)**
+
+
+
+for this building. Okay.
+
+**(02:27:50)**
+
+
+
+Thank you. So lastly, on homelessness and the specific role in this work, picking up from where CM Restler left off: so 3,400 expiring vouchers, where HPD is helping folks to apply for different apartments. I think what is frustrating about that response, and recognizing that HPD is not here, but what is frustrating about that response is that we know there are 3,400 available units within NYCHA and Section 9 and other parts of the portfolio. I think for me, what this touches on is one of the gaps that I saw in the block-by-block report, which is there was no comprehensive discussion around the use of vouchers in the administration. There are so many that are administered throughout the City. Right, within just HOME there is going to be... I am going to do the arm thing every time I see a gap. There is of course the project-based vouchers, there are so many, and there was not a discussion about what is the role of vouchers or is there a direction in which the administration wants to take vouchers in terms of fighting that fight to reduce homelessness and focus on permanent housing solutions. So just a space for you to respond to that.
+
+**(02:29:15)**
+
+
+
+So speaking for the Section 8 programs that HPD runs, which as you mentioned there are now sort of a growing number between our federal Housing Choice Voucher program, state programs, and sort of federal programs we are using because of the loss of other funding. So it is true that there is a proliferation going on of our subsidy sources. I would say one of the challenges of creating a unified theory there is that depending on the funding source and the direction, including with CHAP, right, we are often told what the priorities are. I think we generally agree. Mostly we are trying to get to the most vulnerable renters who are having the most difficult time, making right below 30% AMI or even lower, just dealing with any type of
+
+**(02:30:03)**
+
+
+
+rent in New York City. So I would say, again, we are at a high utilization rate in all of our programs. We were very glad to have the new resources that are coming in, and we are just going to continue to try to target either populations that we are directed to target or populations where we see the greatest need.
+
+**(02:30:26)**
+
+
+
+Got it. Thank you. With respect to HOME TBRA, how long will this assistance last?
+
+So under federal rules, the HOME program allows for each award, basically
+
+**(02:30:39)**
+
+
+
+of a voucher, for two years, and then they are renewable at the end of the two years. I do not believe there is an end point to that renewal as long as there continues to be HOME funding available. So right now
+
+**(02:30:51)**
+
+
+
+the intention is to move very quickly to do the transfer for roughly the 3,700 families on CHAP over to our HOME TBRA, and then work long before the expiration of the two years on renewal. Thank
+
+**(02:31:07)**
+
+
+
+you. With respect to the expansion of right to counsel, maybe Director Weaver, you can address this question.
+
+**(02:31:14)**
+
+
+
+How many additional households does the administration believe will be served by the $55 million expansion? I do have an answer to that question, not by memory, so just give me one second while I find where we wrote it down. All right, if you want to also ask your next question while I look at this. Just to share, because right to counsel is overseen by the Office of Civil Justice, I think we should probably confer with them before confirming a number, but we do know that there was the increase of $14 million in 2027 and $40 million in 2028. So
+
+**(02:32:05)**
+
+
+
+anticipating this will allow providers to increase the number of covered cases to 26,000 annually, up from 20,000, but it also assumes reducing the caseload that providers currently have to handle. So it is a little bit of both. They are both increasing how many people are covered but also reducing the number of cases any given provider has to serve.
+
+**(02:32:26)**
+
+
+
+Okay, thank you. The next question was also for you, so I did not want to distract you too much. But in connection with the fast track housing court announcement that you all made around housing court moving faster on these egregious tenant issues, one question that has come to me several times by different owners is bringing up the delays on the rental arrears side of the house. The example that someone gave me was if they file an eviction case for non-payment, it could be $10,000 to $15,000 in non-payment for a unit today, and they will not get a judge assigned until sometime this spring, maybe, and then a series of adjournments while the low-income tenant is assigned a right to counsel attorney, et cetera, which causes more delays. All the while, more and more arrears accumulate for this unit, destabilizing the property and all the rest. So the question on that side is, what is the administration doing? Have you had any conversations with the Office of Court Administration on that side of the house to try to speed up the process for these cases in court?
+
+**(02:33:42)**
+
+
+
+Yes, thank you for the question. I will just say it is very much on our radar. This issue is completely on our radar. It is not good for anyone that cases drag on and on while arrears simply accumulate. We are working very hard with the Office of Court Administration, but also the Office of Civil Justice, to identify upstream interventions where we can actually reach households. In the truly complex cases, it is really tenants who truly need an attorney, and so we do not have anything specific to say at this time, but it is something that our office is working very hard on and we hope to have recommendations soon.
+
+**(02:34:22)**
+
+
+
+Thank you. I look forward to that so that I can go back and have a conversation. Because I did not have one. On J-51, are there any concerns that the administration has with Int 1015, which is my Bill to renew the J-51 tax abatement for the next 10 years?
+
+**(02:34:41)**
+
+
+
+Not at all, only that we move quickly to pass it because we do think it would be a very important tool.
+
+**(02:34:46)**
+
+
+
+Love to hear it. And then with respect to CM Banks' registration legislation, perhaps the online property registration Bill, are there any tweaks that you want to see there?
+
+Yes, actually. So
+
+**(02:35:02)**
+
+
+
+we have, as I said, already been working towards figuring out how to digitize property registrations and I think we have made progress on moving that forward, but I think there are some other issues related to property registration that HPD has been thinking about for some time that would make the system generally work better. So I think since we have this Bill now with CM Banks, we would like an opportunity to explore whether some additional fixes to that system could happen at the same time. Okay, thank you.
+
+**(02:35:35)**
+
+
+
+Housing Connect: the plan commits to reimagining the entire lottery process from the ground up and sets a goal of cutting median lease-up times in half. So what specific changes
+
+**(02:35:45)**
+
+
+
+So I think we laid out with some specificity, in speed, the sort of three sections. We are thinking about short-term process changes, then slightly more complicated medium-term by the end of the year, and then ultimately a transition to a different system, which we are now working with the IT crew on — what a new, more agile technology system would look like, which is really only needed in order to keep adapting all these process changes. So I will just name a couple of things that were sort of highlighted in the report.
+
+One is — and this one is coming quickly — shortening the lottery period from 60 days to 21 days. A second new initiative is to simplify the waterfall for documents, which I think is really critical. So if you have proof of a SNAP benefit, why should you need to upload any other documents? You are by definition income eligible. We are also looking at reiterating and clarifying our position on first-time occupancy inspections. There seems to be a question, but we do not require separate inspections if we have the architect sign off on a new construction building, so you do not need to wait 60 days to get a unit inspected.
+
+And then again, the longer-term strategies have to do with potentially re-looking at the way we are taking paper applications, which actually slows the process down quite significantly, how we are dealing with appeals — which also involve paper applications — and appeals are both significant barriers to moving more quickly. And then finally, allowing marketing agents to move not necessarily in chronological order, but after a certain number of days, to be able to take applications from the pool that we send them in any order. So these are the sort of process changes that we have identified to get from that 210 days down to less than 100 days, which is the goal for the reformation of Housing Connect.
+
+**(02:37:48)**
+
+
+
+I did forget to ask one question with respect to the challenges within affordable housing. This is with respect to vouchers. In terms of the high rate of evictions that we are seeing in affordable housing properties — not to go too deeply into negotiations on the new CHAP program — but one of the exclusions in the CHAP program is around buildings that have a regulatory agreement that applies to it. So can you speak to other ways that we will supplement our ability, the City's ability, to help these
+
+**(02:38:27)**
+
+
+
+buildings? Yeah, I think one is getting out of short-haul, right, which frees up our own subsidy through project-based vouchers and housing choice vouchers. So for all of the federal programs, I think we are working all the time now to figure out how to quickly get out of short-haul so that we can allocate federal vouchers, which can be used for projects. Beyond that, I think we have covered it pretty much at length, but there are interventions like tools where we are hoping to see other ways to get upstream to deal with rent collection issues, making cash flow healthier through access to reserves and more flexibility with reserves, full expansion of the 420. So everything we have covered — I think there are other tools besides just operating subsidy that we can bring to bear to stabilize our existing
+
+**(02:39:20)**
+
+
+
+affordable housing partners. Thank you.
+
+**(02:39:23)**
+
+
+
+Thank you. With respect to the homeownership goal in the plan and an 85% increase in the amount of homeownership production — we think this is related to the Council's Local Law 57 of 2026, sponsored by former Speaker Adrienne Adams, which set a new 4% floor for production of new construction homeownership units. How does the agency intend to meet that goal in FY27? What share of this goal does the administration expect to be down payment assistance?
+
+**(02:39:55)**
+
+
+
+Sure, so I can just give numbers specifically for the production targets for 2027. The first is Open Door, which is our new construction program. We are projecting 300 new units in fiscal year 2027. The second one I would point to is "Are Home," which will be a conversion from rental to homeownership. I think we hope to do about 150 units next year. And then under the "Home First" down payment assistance program, we would also go from about 175 units per year up to about 300 units
+
+**(02:40:36)**
+
+
+
+next year. Okay. Only acknowledging that we have been joined by a Council member. So I am going to do a rapid round robin rapid fire thing, so bear with me. We have got this spreadsheet and it has all of the commitments that you are making, blocked by block and all of the rest, and I have just filtered by things you said that you would do in 2026. The question is: has this started? Okay, has it started?
+
+**(02:41:08)**
+
+
+
+So roof-to-cellar inspection — yes, we are starting. Yes.
+
+**(02:41:17)**
+
+
+
+Wait, what? We have selected buildings to begin. We have not yet launched the inspections. Okay, so selected buildings. Aggressive use of the Article 7-A program. Okay.
+
+**(02:41:32)**
+
+
+
+There is an announcement, I think, which will expedite the calendar for 7-A. I would say
+
+**(02:41:36)**
+
+
+
+yes, there are 25 of them. All right, so I have got to go — can we go faster? Yes or no. Expediting the Emergency Repair Program to stabilize building conditions in targeted buildings — not yet. Are you...? But you will. Yes. Okay.
+
+**(02:41:55)**
+
+
+
+Directing HPD's anti-harassment unit to coordinate with the law and criminal prosecutorial offices to pursue criminal charges. Yes, 100%.
+
+**(02:42:09)**
+
+
+
+1919 Prospect. Yes. 1919 Prospect in the Bronx. Yes. Okay. Engaging with lenders to
+
+**(02:42:16)**
+
+
+
+force compliance or immediately begin foreclosure. Yes. Well then, excited. Yes. Okay. Office of Court
+
+**(02:42:25)**
+
+
+
+Administration on expediting litigation.
+
+**(02:42:28)**
+
+
+
+Yes. Designing the new program, or the new implementation...
+
+**(02:42:34)**
+
+
+
+Implement a new system that will allow tenants to schedule inspections and re-inspections. Yes. Investigating every heat complaint — are we set up, or just starting in the heat season? Yes. Okay.
+
+**(02:42:50)**
+
+
+
+All right, this is legislative. I am going to skip the ones that are legislative. And launching the legislative task force — we are working on that? Yes.
+
+**(02:43:08)**
+
+
+
+Okay. Intensive community engagement — inaugurating "Night in Your Neighborhood." Yes. Where did you start? We started in the spring with the first "Night in Your Neighborhood," which was in the Bronx, and then we are starting again next week in Queens. We had three this spring and then we are... let me get the dates, but we will be there. You will be in Queens on September 16 and then we have another three after that this fall. Great.
+
+**(02:43:41)**
+
+
+
+The Bronx Glen publicly, in the park, and we have begun and we hope to be able to do it
+
+**(02:43:45)**
+
+
+
+later this fall. Open a new transitional housing site in Brooklyn to help 81 justice-involved individuals land safely in the community. I do not think we have launched that yet.
+
+**(02:44:04)**
+
+
+
+This is out of order, but the elevators pilot — small elevators.
+
+**(02:44:07)**
+
+
+
+In small properties.
+
+**(02:44:11)**
+
+
+
+We started that. We are working with 18 buildings.
+
+**(02:44:24)**
+
+
+
+There is so much in here, it is so wonderful. Changes to enhance electronic filing for SCHED — that is a DOF thing. But the Senior Citizen Home... yeah, yeah, we will follow up.
+
+**(02:44:46)**
+
+
+
+I should also filter by... okay. Reducing vacancies in supportive housing, convening an internal working group among the agencies — yes, that is happening. Small elevator pilot program — see, I just did not want to forget in case I filtered wrong. Improving complaint response times — has implemented new rules requiring owners to provide alternative accommodations. I am just going to make this an actual question: has that education information gone out to owners and residents, and what is the status of public education?
+
+**(02:45:25)**
+
+
+
+The education has happened and it continues. The feedback we get is that there are a lot of owners who are continuing to navigate difficulty with finances or making repairs, and we are trying to figure out what we can do to support them in doing that work. But people are definitely aware. Our enforcement teams — the enforcement teams that work on this — are focused on public
+
+**(02:45:50)**
+
+
+
+outreach. Thank you. What is the penalty for an owner who cannot afford to fix their elevator and also cannot afford to provide alternative accommodations?
+
+**(02:45:59)**
+
+
+
+There are a couple of ways in which they can be held accountable, either to us or to ECB, so depending on which strategy the complaint goes through. But we have our fines and violations that we use.
+
+**(02:46:17)**
+
+
+
+And finally, modifying the rent-impairing violations list. We have not started that yet, but we hope to start soon. And that concludes my round robin.
+
+**(02:46:29)**
+
+
+
+Everybody around him. Applause.
+
+**(02:46:33)**
+
+
+
+Okay. All right, looking to my colleagues — do you all have additional questions or comments? CM Brewer. Thank you very much. One of the issues raised a while
+
+**(02:46:43)**
+
+
+
+ago was warehousing. It is mostly a state issue, but we did pass a law some time ago stating that basically, if you are next door to something that is vacant and it has problems in terms of the structure, et cetera — I did not know if any of those complaints have come in or if you have been dealing with
+
+**(02:47:01)**
+
+
+
+it. We could not outlaw it — it has to be done at the state level — but we are trying to do something in between.
+
+**(02:47:06)**
+
+
+
+I understand. Right now our
+
+**(02:47:08)**
+
+
+
+focus on that issue is making sure that we have the technology capacity to go inspect vacant units. It sounds like it should be easy, but to be frank, it is fairly complicated because our systems do not know how to recognize a unit that is unoccupied. So we have been working with a technology company and meeting with some advocates, including folks at NYU Law, to make sure that we are moving swiftly to try to get that functionality off the ground. That is on our
+
+**(02:47:35)**
+
+
+
+agenda. Thank you very much. And then second — I do not think there is anything like this, though I thought maybe in New Jersey, but I could be wrong — this whole takings issue. You cannot mandate that a new development have affordable housing if they do not need to, because it is within as-of-right zoning. Has that ever come up? Because obviously in Manhattan in particular, they stay within the zoning, they do not provide affordable housing, and it is very frustrating.
+
+**(02:48:01)**
+
+
+
+So obviously there has always been a sense that we cannot mandate affordable housing unless there is a change in the zoning. This whole issue — are we too nervous about the takings issue and therefore we cannot consider mandating affordable housing in every new building? I think you are thinking of the New Jersey Mount Laurel doctrine.
+
+**(02:48:25)**
+
+
+
+Right, where it is a shared obligation. Yeah. So all right. It certainly has happened and it continues to be the law in New Jersey, so obviously it is possible. I think we do a lot in New York City through all of the changes in zoning, all of the enticements, all of the funding that we are putting in for affordable housing. Not being an attorney, I
+
+**(02:48:43)**
+
+
+
+do not want to opine on the takings legality of that.
+
+**(02:48:48)**
+
+
+
+Right. But I would say that it is certainly something we would be happy to talk with you about more. Okay. I mean, development in Manhattan in my area is all as-of-right and they do not want to provide it. We end up in this horrible fast-track situation, et cetera. So I would love to see every new building mandated to provide affordable
+
+**(02:49:07)**
+
+
+
+housing. So I know where it is mandatory inclusionary zoning, so there was that. But yes.
+
+**(02:49:12)**
+
+
+
+I do not do it, they do not do it. I understand your point — they do not have to. It is not a change in zoning, they do not have to.
+
+**(02:49:19)**
+
+
+
+The other question is — and the Commissioner knows all about my Ward's Island — I would like to see some affordable housing there. We have to have a mandated path. Could there be affordable housing on Ward's Island? Is that something that is on your agenda?
+
+**(02:49:35)**
+
+
+
+Right, you and I have been saying that. She is doing over here. You are talking to?
+
+**(02:49:40)**
+
+
+
+Yeah, she would like to ask questions like this. I said, well, I am going to ask.
+
+**(02:49:43)**
+
+
+
+Okay. So you and I discussed Ward's Island and also the challenges and the opportunities there, and as you know, I reached out yesterday to follow up on some of these issues. So I think we should continue talking about that. That sounds great. Thank you very much. All right.
+
+**(02:49:58)**
+
+
+
+One final round robin. These are not things you committed to do this year, but I am still wondering about their status. You committed to releasing a public-facing prioritization framework for projects, channeling former Land Use Chair Salamanca — he had a bill to require transparency in the pipeline. When is this coming, in terms of how HPD prioritizes
+
+**(02:50:21)**
+
+
+
+the pipeline? So as I described in my testimony, we have now been talking about the prioritization and talking directly with the developers in our pipeline as we sort of go forward. So I think we are probably continuing to finesse how those priorities need to be adjusted. But the priorities I have mentioned are very clear and have been communicated very clearly to our partners.
+
+**(02:50:44)**
+
+
+
+Got it. And last I asked, Commissioner Carrión, the pipeline was about 700 projects. What does the size look like now?
+
+**(02:50:55)**
+
+
+
+So I actually have never heard 700. I think what we were saying at one point was there are about 300 projects in our development pipeline. But as I have said in previous Council hearings, what we consider in the pipeline is a little mushy. So I think one of the other things we are doing to clean that up is to be very clear about what it means to be ready to proceed. What should a project look like? What information should you have ready to go? Are you locked into your 50% or 90% or like present design? Are prices final? So I think we are doing a much better job of telling developers what it means to be in our pipeline and what it means to be — the notion of being in our pipeline.
+
+**(02:51:35)**
+
+
+
+Got it. Okay. With respect to "Our Home" and TILL properties — and I am thinking of PLANTA and those TILL buildings that are still in limbo — is the administration working with PLANTA and other advocates on the original commitment? Or is this administration following the last administration in wanting
+
+**(02:51:55)**
+
+
+
+those properties to go through? We amended significantly so that there is a lot of similarity now between the old TILL program and the new program. As you know, it is a very sensitive issue. We have had multiple conversations with both sides of the argument and I think the terms that we now have are very, very close to the original commitments made under TILL. I did not catch if you were asking me what is left — is that
+
+**(02:52:22)**
+
+
+
+what you are asking? I answered my question, but yeah, what is left, Commissioner?
+
+**(02:52:26)**
+
+
+
+Well, there you go. Shame on me. 64 buildings are still in the pipeline. 20 of those 64 are now in pre-development, which is very good news. We are
+
+**(02:52:39)**
+
+
+
+whittling away at it. The remaining 44 — we are going to try to approach as a cluster, meaning instead of one at a time, to see if we can aggregate them so that one developer or sponsor could have a portfolio to move them more quickly. The real issue for moving some of these is both having the relocation assistance that we talked about — not assistance
+
+**(02:53:01)**
+
+
+
+availability. Almost none of these buildings can be renovated with tenants in occupancy because they have been around for so long. And then the second issue is cooperation — so even when we identify relocation, we do get some pushback from tenants willing to temporarily relocate. Got it.
+
+**(02:53:18)**
+
+
+
+Okay, thank you. Commissioner Timoney, since you are still here, are you going to invite us to the construction safety committee — the Mayor's Committee on Construction Safety? I think working with the Council
+
+**(02:53:28)**
+
+
+
+is important. Right now the focus has been on standing up the Affordable and the Code Reform Task Force. Next we will be moving on to the Committee on Construction Safety, but like with the Code Reform Task Force, working with the Council is going to be critical. So we can certainly come back.
+
+**(02:53:47)**
+
+
+
+I will take that as a yes. Thank you. And I think this... nope, it is not. My next — penultimate one — addressing residential fires and the Office of Housing Recovery Operations. Recognizing they are not here, the Back Home unit: do you have information on how many American Red Cross-assisted families are also registering with the Back Home unit?
+
+**(02:54:17)**
+
+
+
+I do not have that number handy, but I would be happy to contact the folks over at HPD to get you that information. We have been meeting more regularly with HPD now — we are doing it every other week. I have been working with some members of the Council who unfortunately have had fires in their districts recently and have folks who are out of the building under a vacate order. I am working to make sure those folks are actually getting connected to the Back Home unit, where you get a single point of contact who will connect you to the resources you need. That is what we are hearing at least in this example — they do need assistance with getting support from some of their direct services programs and benefit programs. So we are starting to work more directly to make sure that when we are sheltering families or individuals who have been displaced from a fire, we are connecting them directly to Back Home.
+
+**(02:55:10)**
+
+
+
+This came from a Bill by CM Gutiérrez and the intent behind that Bill was certainly that there would be data sharing, that we are not re-interviewing folks that have been through this trauma over and over and over. So just again advocating for data sharing across the agencies so that you can reduce that burden on people who have lost their homes. And then finally, and this is a really important one — they all are — but with respect to enhancing the City's litigation and fine collection capacity, the Rental Rip-Off Reports talks...
+
+**(02:55:50)**
+
+
+
+...about just improving that ability of the City's to collect. How exactly would you be improving the City's ability to collect and doing that faster, given we are already taking them to court, we are already, you know... So I guess there are two answers, one that I can be less specific about. But I think that the first part is that as part of what we want to discuss as part of the legislative task force, are there mechanisms within the law itself that need changing in the Housing Maintenance Code and the like that would enable us to do a better job on collections? Although I do want to repeat over and over again, the goal is not as much collections as it is compliance. That is always...
+
+**(02:56:29)**
+
+
+
+...our first call. The second thing I would say is, and I alluded to this earlier, we were starting to explore some new legal interventions, particularly with the Law Department, that we think could be meaningful as a new tool in our arsenal for collecting fines and penalties from landlords who have been, let us just say, negligent for a long time. And so again, you know, when these things are in their litigation phase they are not easy to talk about publicly, but once there is progress on this we would be happy to come brief the Council on what these new tools might look like.
+
+Okay. Thank you. I think the only thing left to mention is the lien story adjustments that we will work on with the Council, and we are actively in conversation. That will support the rest of this work, and the fact that the administration is putting more resources into the Law Department — the Affirmative Litigation Unit is a unit we depend on happily at the...
+
+**(02:57:26)**
+
+
+
+Thank you. I am very interested in that expansion of lien authority, particularly with the Department of Buildings, so looking forward to that. All right, well, thank you all so very much. Thank you colleagues for joining this very long and unwieldy hearing. I appreciate everybody's participation and look forward to further conversation. Thank you.
+
+All right. I will now open the hearing for public testimony. I remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record.
+
+If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait to be recognized. When recognized, you will have two minutes to speak on today's hearing topic of the Mayor's Housing Plan, including the following legislation: Int 0178-2026, Int 0649-2026, Int 0717-2026, Int 0905-2026, Int 1015-2026, and CM Banks's Int 0070-2026, Preconsidered. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant at Arms. You may also email written testimony to testimony at council dot gov within 72 hours of this hearing.
+
+**(02:59:17)**
+
+
+
+Audio and video recordings will not be accepted. Also, if you are watching from the overflow rooms — there are a lot of seats that just opened up — so please come on by, hang out. It is a party. And I am very soon going to call on the first panel, so you may want to pack in.
+
+**(02:59:49)**
+
+
+
+So first up: Lacey Tauber from Brooklyn Borough President Antonio Reynoso's office, Emily Goldstein — excuse me — Sarah Freeman and Anna Loof. Again, that is Lacey Tauber, Emily Goldstein, Sarah Freeman and Anna Loof. You are the first public panel. And just so you get ready, the next panel — not this panel, the next panel — is going to be Danielle Manly from Urban Green Council, Robert Foster, Katie Mui and Marissa Rico. That is the second panel. Okay, great. So the first panel is Lacey Tauber, Emily Goldstein, Sarah Freeman and Anna Loof. For Emily — if you are in legal tender — we just need you to fill out a slip. Okay, for yourself, we need you to fill out a slip with the Sergeant.
+
+**(03:01:11)**
+
+
+
+Yes, but that is okay. So...
+
+**(03:01:16)**
+
+
+
+...all right, and whoever is...
+
+**(03:01:18)**
+
+
+
+...ready can begin. Okay, I will go ahead and start. Good afternoon, Chair Sanchez and members of the Committee, and thank you for holding this hearing today. I am Lacey Tauber. I am representing Brooklyn Borough President Antonio Reynoso. As you can see, my testimony is kind of long, so I am going to summarize. I am going to start with the legislation on today's agenda — two pieces of it — just so that we make sure that I get this in. The Borough President has been a big supporter of COPA, and as we heard today it is an important policy for stabilizing communities and fighting the housing crisis. He wants to thank CM Nurse for the thoughtful updates to the Bill and urge the Council to move quickly to pass it.
+
+Again, on the Office of Conversion Assistance, we think this Bill is well intentioned to assist developers with office-to-residential conversions, but may unintentionally encourage manufacturing-to-residential conversions based on the way the Bill is written, and we urge the Council to take a look at that. Just because, as the City continues to make policy that eats away at our industrial districts, we decrease the opportunities for the almost 600,000 New Yorkers — predominantly people of color — who are employed in this industry in high-paying jobs with low barriers to entry.
+
+What I really wanted to talk about today is the intersection of code enforcement, housing preservation and tenant supports. Our office has an example in the housing task forces that we have developed in both North Brooklyn and...
+
+**(03:02:59)**
+
+
+
+...East Brooklyn...
+
+**(03:03:01)**
+
+
+
+...that we want to sort of lift up as an example for the administration to move ahead with their commitment to strengthening code enforcement and preventing displacement. What these task forces do is inter-agency and inter-organizational coordination to address poor building conditions, construction harassment and neglectful landlord behavior. Basically, how it works is that organizers create a list of problem buildings based on their experience working with local tenants. These are from CBOs in the community. They work together to get consensus on the most distressed buildings and prioritize them. They share a list with relevant agencies and meet monthly to review. The agencies coordinate to address conditions in the identified buildings through roof-to-cellar inspections and other interventions. Since these programs began, hundreds of buildings have received interventions that they might not have otherwise.
+
+This model encourages regular coordination between local organizers and City agencies. It formalizes a system that streamlines communication and efficiency between tenants, advocates and government, and it means tenants are more likely to be home when inspectors come, negating the need for multiple visits, and helps hold landlords accountable through multiple violation types and pressure points. So we encourage the administration to look at this. We think they could achieve many block-by-block goals by expanding this model throughout the City, and we also want to stress the importance of working with established local organizations. Their relationships within their communities, cultural competency and sustained on-the-ground presence are critical for this work.
+
+Finally, I just want to address something CM Riley said about preventing displacement. That is our first priority, but as we are doing more development throughout the City, inevitably there is going to be some primary displacement of tenants by demolition or major renovation or even the expiration of a regulatory agreement. So I just wanted to draw the Council's attention to Int 0271-2026, which we introduced with CM Hudson to create a tenant relocation assistance program. We encourage the Council to schedule this Bill for a future hearing that will...
+
+**(03:05:24)**
+
+
+
+...maybe also examine the fair housing growth strategy that just came out. Thank you.
+
+**(03:05:37)**
+
+
+
+Hey! Greetings, Chair Sanchez and members of the New York City Council Committee on Housing and Buildings. Thank you for the opportunity to testify on the Mayor's Housing Plan and on Int 0649-2026. My name...
+
+**(03:05:49)**
+
+
+
+...is Anna Loof and I am the Associate Director for Housing Policy and Advocacy at the New York Legal Assistance Group. My testimony today draws on the experiences of housing advocates across NYLAG, who serve thousands of New Yorkers facing issues related to safe and stable housing each year. I am going to focus my testimony on two specific chapters that NYLAG is particularly invested in seeing come to fruition: Chapter 1.2 and Chapter 3 of the housing plan.
+
+Chapter 1.2 discusses the expansion of the list of rent-impairing violations maintained by HPD. Despite its efficacy, gaps and duplicative loopholes in the Housing Maintenance Code make it a rarely used defense in housing court. Many commonly issued violations are not considered rent-impairing despite being obviously harmful to health and safety, such as violations related to visible mold, lead-based paint, water leaks and pest infestations. If enacted, the Mayor's plan to expand this list will have real, immediate benefit for our clients.
+
+Chapter 3 discusses improvements for NYCHA, both physically and also in terms of tenants' rights. As advocate Williams said earlier, funding must be matched with organizational management reform at NYCHA in order to be close to meaningful. Crucially, the chapter commits to developing a clear path towards authorization and succession for tenants living in developments that have converted to Article 7-A. In our practice, the leading reason Article 7-A cases in housing court result in actual evictions is due to flaws in these administrative processes. While NYCHA's current structure technically complies with federal requirements, it does not come close to keeping pace with the procedural or substantive succession rights of any regulated tenant in New York City, including NYCHA Section 9. NYLAG applauds the Mayor's resolve in addressing this inequity and urges meaningful action.
+
+Turning to the physical conditions of NYCHA developments, I want to stress that in order for any plan involving NYCHA to be effective, it must be coupled with removing barriers for tenants addressing repairs in their homes. The NYCHA ticket system is flawed at best, and the mold ombudsman call center is a crucial step — expanding that is a crucial step towards achieving safe, healthy housing for NYCHA. However, true equity would include access to HPD without judicial intervention in order to expedite NYCHA HP actions in housing court.
+
+Finally, I would like to voice our support for Int 0649-2026, which will provide a meaningful tool for tenant organizing by enabling tenants across bad landlords' portfolios to build coalitions and create solidarity between stakeholders seeing similar patterns of predation, neglect and harassment in different buildings owned by the same bad actors. This valuable tool can be strengthened through filing requirements and a private cause of action for tenants, as further elaborated in our written testimony. NYLAG is happy to see the Mayor and this Committee set such lofty goals for housing justice. We urge the City to take the necessary steps towards making these goals a reality, not only in terms... thank you, but in...
+
+**(03:09:26)**
+
+
+
+Thank you, Chair Sanchez and members of the Housing and Buildings Committee for the opportunity to speak. My name is Sarah Freeman and I am a policy analyst at Urban Pathways. Urban Pathways is a nonprofit homeless services and supportive housing provider for single adults. Last year we served over 3,000 individuals through a full continuum of services.
+
+Today I urge the City to prioritize the construction of deeply affordable housing units for New Yorkers who are struggling to get by. While we acknowledge the City's efforts to incentivize affordable housing development through tax expenditure programs like 421-a, unfortunately we are still failing to meet the needs of our low-income neighbors. Deeply affordable housing is intended for extremely low-income households who are at 0 to 30% of the area median income. However, in recent years we have seen developers allocate a majority of their mandated affordable housing units to households earning 130% of the area median income. To put this number into perspective, a single parent with two children would need to earn approximately $189,000 a year to be eligible to rent the unit. People who need truly affordable housing are not making $189,000 a year. I think we can all agree on that.
+
+Extended-stay residents at Urban Pathways frequently express a desire to live independently, but they are limited by the lack of truly affordable housing. With 73% of extremely low-income households already severely rent-burdened in New York City, it is time to take decisive action. Deeply affordable housing is a key component of getting people out of the shelter system and unstable living situations. The City must commit to creating 12,000 units of deeply affordable housing per year over the next five years, resulting in a total of 60,000 units available only to homeless and extremely low-income households. Thank you for holding this hearing and for the opportunity to testify.
+
+**(03:11:26)**
+
+
+
+Can I take an extra minute? Okay, great. Hello, everyone. My name is Peter Estes. I am the Senior Housing Policy Associate at the Association for Neighborhood and Housing Development, representing 80 community-based organizations across the City. Thank you for the opportunity to testify today. I will just highlight a few points now and then submit our full comments afterwards.
+
+First, I would like to touch on the housing plan's focus on preservation. Affordable housing preservation must be a priority for New York City, and we are pleased that the Block by Block housing plan treats it as such. Both before and after the housing plan's release, we and our members had productive conversations with the team, and we are all particularly eager for the rollout of the tools program outlined in the plan, in as many buildings as possible, as quickly as possible. These measures are urgently needed to stabilize at-risk buildings, and we encourage the Department to undertake proactive outreach to as many buildings as quickly as possible. We are also looking forward to working with the administration and the Council to identify options for housing court diversion for 100% affordable housing.
+
+Finally, while we are pleased that the administration is experimenting with the public insurance option, we have concerns about timing, access and scale and which buildings will be prioritized, which are outlined in detail in our written testimony. Moving on to code enforcement, Block by Block rightly emphasizes the critical importance of improving the City's system for enforcing the Housing Maintenance Code. The focus on overhauling the system is welcome, and ANHD wholeheartedly supports the administration's approach of proactive enforcement targeting low-road landlords, expansion of various enforcement programs and improved systems for engaging with tenants. ANHD is also eager to work with the administration and Council to pursue deeper reforms not yet discussed in detail in the administration's plans. These include making it easier for tenants to withhold rent and receive abatements when faced with persistent violations, increasing penalty amounts and establishing clear guardrails for any penalty adjustments.
+
+Briefly on new construction, ANHD does commend the administration for an increased commitment to building deeply affordable housing, in contrast to previous housing plans. However, as just referenced by my colleague here, the commitments in Block by Block still do not come close to meeting the scale of the need for affordable housing at the lowest income levels. Lastly, ANHD urges the Council to pass COPA, which is a valuable...
+
+**(03:13:53)**
+
+
+
+...tool to empower tenants and help bring more housing into permanent affordability and responsible community ownership for long-term preservation. Thank you.
+
+**(03:14:05)**
+
+
+
+Excellent. Thank you so much to this panel. Thank you. Danielle Manly, Robert Foster, Maritsa Rico and Kevin... whoever is ready can begin.
+
+**(03:14:57)**
+
+
+
+Good afternoon, Chair Sanchez and members of the Committee. My name is Daniel Manly. I am the Associate Director for Policy at Urban Green Council, a nonprofit organization based here in New York City. Our mission is to decarbonize buildings for healthy and resilient communities.
+
+We strongly support Mayor Mamdani's commitment to making housing more affordable for New Yorkers. The Mayor's Housing Plan meets the moment with proposals that build more housing and lower the cost of owning and operating existing buildings. In particular, Urban Green strongly supports the plan's proposed expansion of the J51 Reform Property Tax Abatement Program.
+
+Your proposal, Int 1015-2026, being considered today, J51R is a key tool that helps eligible co-ops, condos and multi-family buildings afford the capital improvements and maintenance repairs that they need to make. As you know, it is broadly available for a wide array of projects and, uniquely, J51R helps cover the cost of energy efficiency and electrification projects that support compliance with Local Law 97.
+
+We particularly support Int 1015-2026 because it helps owners navigate Local Law 97 in the following ways. First, it expands access to J51R. Urban Green's data analysis shows that raising the assessed value threshold to $60,000 is going to allow more than 2,000 co-ops and condos with emissions limits covering over 310,000 residential units in buildings. These are the buildings where everyday New Yorkers live, and those owners have been asking for help. This legislation offers them real help. The changes now mean that half of all co-ops and condos with carbon emissions limits can use the program.
+
+Second, this legislation extends the J51R program through 2036. Many building owners and boards are making decisions today about projects to meet Local Law 97's 2035 limits. This extension offers them the certainty to plan and finance those long-term capital projects.
+
+Third, it increases the potential tax benefit that can make the difference in whether critical upgrades are financially feasible. And last, it allows the program to evolve alongside Local Law 97 and emerging technologies. The legislation empowers consideration of cost-effective Local Law 97 compliance upgrade solutions when updating the list of covered projects, and it requires a review of that list at least every two years. As you probably know, technologies to address energy efficiency and electrification are evolving every day, and this will ensure that New Yorkers can affordably access these emerging solutions over time. We look forward to working with you to ensure that that list reflects those new and lower-cost upgrades as they become available.
+
+Finally, I will close by saying the program was set to expire earlier this year. This update not only advances affordability and decarbonization, it gives thousands of co-op and condo owners the peace of mind that J51 will remain available for them in the future. We thank you for your time today. Thank you, Chair Sanchez, this Committee and all Council members, for your support of this legislation. Thank you.
+
+**(03:18:14)**
+
+
+
+Good afternoon, Chair Sanchez, Council members and Council staff. My name is Marita. I am the Policy and Advocacy Manager at New Destiny Housing. Chair, you know us, but for the record, we are the only organization in New York focused entirely on permanent housing for survivors of domestic violence, the leading cause of family homelessness. We also operate the first and largest federally funded rapid rehousing program for survivors in our City. We will submit a full written testimony, but I will highlight the main points.
+
+In regards to the housing plan, block by block, I want to talk about supportive housing, particularly the Supportive Preservation Program. One fix that would let that commitment reach survivors now would be the accompanying 15/15 rental assistance, which is currently open only to owners with City-administered service contracts. That excludes every domestic violence supportive housing project because no City service funding existed for this population until 15/15 opened to survivors in 2024. So we urge expanding eligibility in the next round to projects with state-administered contracts, and we ask that survivors be named a priority population as these resources are allocated.
+
+Regarding speed, we were thankful to be participants of the roundtables and are committed to helping the administration implement those recommendations. We have a platform called Fixing City Steps on our website with our additional recommendations. We also want to name the Match pilot program. We would like for this to be made permanent and extended beyond targeted developments, and to partner with population-specific providers.
+
+Thank you for the progress. It is great progress, and especially that it has reached beyond the shelter system. Chair, I want to wrap up, but there is an important gap. The eviction prevention category excludes units with regulatory agreements, like New Destiny's buildings. So we continue to advocate for survivors living in the community to be eligible regardless of the type of housing they are in.
+
+And then one more thing I want to say: I know this is not a general welfare or public housing hearing, but we have to raise the alarm on NYCHA. Thank you so much to yourself and CM Restler for doing that earlier. And finally, we hope that everyone is committed to passing COPA today. Thank you.
+
+**(03:21:01)**
+
+
+
+Thank you. Good afternoon, Chair Sanchez, the Committee and the other Council members. My name is Katie Moy and I am the Policy and Programs Manager at the Supportive Housing Network of New York, a membership organization representing over 200 nonprofits that develop, own and operate supportive housing across the state. Thank you for the opportunity to testify today.
+
+The Network would first like to thank the City Council and the Progressive Caucus for your support over the last few years with the New York City 15/15 Relocation Plan, which has resulted in the promise of 5,000 new congregate units, a new Supportive Preservation Program and rental assistance for programs in need. We also want to thank you for the inclusion of a flexible repair fund for supportive housing units in this year's budget advocacy.
+
+While the Network remains neutral on the bills discussed today, we look forward to building on our collaboration with the Council as our members continue to face uncertainty at the federal level. With looming unprecedented funding cuts from HUD, New York City's stance will lose close to $200 million in Continuum of Care program funding with no contingency plan in place to ensure tenants remain housed and programs stay open. The Network's members urge the Council and administration to work with the state to identify feasible solutions to secure New York City's current supportive housing stock in the likely event that the federal administration is successful in reducing funding.
+
+In the meantime, the City can take steps right now to do the following, related to some of the topics discussed today. One: address persistent vacancies in the NYCHA portfolio by supporting the conversion of NYCHA units to New York City 15/15, expanding access to those units to the people living
+
+**(03:22:47)**
+
+
+
+on the street or in shelter. Two: work with the NYPD and the Public Administrator's offices to expedite the opening of sealed units, ensuring timely turnover and re-rentals to people experiencing homelessness. And third: advise the Department of Social Services to expedite the one-shot deal applications for tenants in supportive housing, reducing housing court filings and supporting tenants. Over the years, the Network has committed to continuing our work together to strengthen the supportive housing model and ensure that New Yorkers have access. Thank you again.
+
+**(03:23:24)**
+
+
+
+Thank you. Two quick follow-up questions. Danielle, you mentioned 310,000 units within co-ops and condos that could benefit from the expansion. Do you have an estimate for the full universe, the number of units that could benefit from this extension? I do not personally have the number outside of those with Local Law 97 carbon emissions limits, but I could probably get that for you. I am not sure today. No problem. It would help me with, you know, just making sure that my colleagues all sign on and we can get this passed as soon as possible. Thank you. And then...
+
+**(03:24:02)**
+
+
+
+My question for New Destiny: what did you think of the administration's response on why regulatory agreement buildings were carved out of the CHAP program? We are not satisfied with that response. We think that, for example, New Destiny houses many recipients, and those tenants could not use CHAP, for example, to replace... because all of our buildings — all 11 buildings — are excluded from that. So we would love the opportunity to have this reconsidered so that our buildings that are housing domestic violence survivors can be eligible for CHAP.
+
+**(03:24:52)**
+
+
+
+All right. Thank you so much for your participation. The next panel is going to be Zack Steinberg, Edmundo, Alex Gomez and Mary Ann Astrid Baumer. And if you are here, Amalia de la Iglesia — whoever is ready can
+
+**(03:25:49)**
+
+
+
+begin. Good afternoon, Chair Sanchez. My name is Zack, and I will be testifying on behalf of the Real Estate Board of New York. Thank you. I would like to focus my remarks on Int 0905-2026 and Int 0649-2026.
+
+First, on Int 0905-2026, the Community Opportunity to Purchase Act, or COPA: REBNY appreciates our ongoing dialogue with the sponsor and appreciates the significant improvements that have been made to the legislation since last year. The current version applies to a narrower universe of properties, modifies the distress criteria, shortens the transaction timeline and limits HPD authority to extend deadlines. These are meaningful changes that make the Bill more targeted and reduce the risk of disrupting transactions.
+
+However, COPA remains a significant intervention into private property transactions and additional revisions are needed to provide certainty for owners, lenders and affordable housing investors. We ask the Council to establish reasonable limits on lawsuits and penalties, clarify the timelines governing the right of first refusal process and put in place limits on administrative extensions. We also urge the Council to ensure that future expansions of COPA's scope occur through legislation rather than agency rulemaking, and to ensure that buildings that have remedied the conditions that triggered COPA coverage have a clear path to exit the program.
+
+These changes would help ensure the Bill is administrable and does not unintentionally discourage investment in housing. Second, REBNY has serious concerns about Int 0649-2026. Existing law already requires building owners to disclose ownership and management information in building lobbies, ensuring that tenants know who owns and manages the building and who to contact when issues arise. Int 0649-2026 goes much further by requiring the public disclosure of beneficial owners and other individuals behind ownership entities.
+
+This raises significant privacy concerns. It could expose owners and their families to harassment or other unwanted contact. In some cases, the Bill could require disclosure of individuals with no operational role in the property, including minors or passive investors. The City already has mechanisms to obtain ownership information for legitimate government and law enforcement purposes. We do not believe the additional public disclosure required by this Bill is justified by any corresponding public benefit. Thank you for your time and consideration and we look forward to working with the Council and administration to advance policies that increase housing production, preserve existing housing and improve outcomes for New Yorkers.
+
+**(03:27:50)**
+
+
+
+Chair Sanchez, Deputy Speaker Williams and members of the Committee, thank you for the opportunity to testify. I am Mary Ann Baumer and I am an aftercare specialist at Anthony's Home. We help New Yorkers move from shelter into homes faster and are in the Family Homelessness Coalition.
+
+We are grateful that the Mayor's Office and the Council recognise the severity of the homelessness crisis and are energized by block by block. Based on our experience, here are some implementation recommendations. First, to reduce eviction cases, fund at least one year of stability services for moved-in voucher households, helping people recertify vouchers or fix missing payments to keep small problems from snowballing. In fiscal year 24, the City spent $484 million on one-shot deals, about $10,000 per household, twice the median arrears for affordable housing tenants sued for non-payment. Prevention costs far less.
+
+Second, to strengthen housing search and lease-up support, contract with housing navigators to help voucher holders secure units. For voucher holders facing discrimination and competition, finding a home is hugely difficult, and it is harder still for those with complex needs like high-health-need households. Designated navigators expand the supply of units, help shelter staff work with and move in more people. Our written testimony includes three more recommendations: resolve minor inspection fixes without re-inspection, allow non-staff to sign off on all self-certification inspections and expand the Match pilot so nonprofits can also refer people to set-aside units. Thank you.
+
+**(03:29:31)**
+
+
+
+My name is Alex Gomez with Coalition for the Homeless and Homes for All, a coalition of service providers, advocacy organizations and experts working to increase housing for homeless and extremely low-income New Yorkers. We are calling on the Mayor to increase capital funding and build 60,000 units of affordable housing for homeless and extremely low-income New Yorkers.
+
+Along with some of my other colleagues here, last month over 96,000 people slept in New York City shelters on average every night, including over 30,000 children. That does not include people sleeping unsheltered or the estimated 200,000 New Yorkers doubled and tripled up in someone else's home.
+
+The City's continued increase in homelessness is the consequence of our housing crisis, specifically the lack of homes renting for prices that low-income households can afford. 73% of extremely low-income households in New York are severely rent-burdened, meaning they pay more than 50% of their monthly income on rent. Evictions disproportionately impact extremely low-income households as well. Between 2020 and 2025, the top 10 zip codes with the highest eviction rates were concentrated in the Bronx, where more than half of households earn less than $53,000 — right at the very low-income level. Yet despite record levels of affordable housing production in recent years, only 21% of new affordable housing units over the last decade were available to extremely low
+
+**(03:31:19)**
+
+
+
+income households — 21% — for a vast majority of the City.
+
+While block by block contains some significant commitments to address homelessness, it fails to articulate a vision of housing production that would significantly reduce the number of people experiencing homelessness. The production target falls short for the lowest-income New Yorkers. A 40% increase in homeless set-aside units does not come close to the 50,000 households currently in shelter. Nor do the 24,000 units of affordable housing for households planned for 2027 and 2028 come close to matching that 50,000 households in shelter.
+
+So we are calling on the City to commit to 12,000 units of truly affordable housing a year for the next five years — 60,000 units in total — reserved for homeless and extremely low-income New Yorkers, because it is time for the City to build housing for those who need it most. Thank you.
+
+**(03:32:12)**
+
+
+
+Thank you so much, this panel. The next panel is Rob Knox, Jessica Ball, Geben, Amalia de la Iglesia and Toussaint Hassan. She is here — Amalia, go ahead from you. And the following panel will be from Local 3, so if you are ready, and anyone from Local 1 who is ready
+
+**(03:33:08)**
+
+
+
+can begin. Hi. Thank you, Chair Sanchez and members of the Committee for holding today's hearing and for the opportunity to testify in favor of Int 0905-2026, COPA. My name is Amalia de la Iglesia, Housing Campaign Organizer for the East New York Community Land Trust. As a tenant organizer living and working in East Brooklyn, I see the impact of speculation and landlord negligence every day.
+
+A large part of the housing stock in East New York is owned by absentee landlords who do not live in the neighborhood and who are extracting maximum profit from their buildings at tenants' expense. Low-income tenants and their families are paying half of their income in rent while living with unsafe conditions, including lack of heat and hot water, mold, collapsing ceilings and pest infestations. At best, tenants are caught in a cycle of fighting tooth and nail for basic repairs with no end in sight. At worst, they are displaced as their homes are deregulated and flipped.
+
+COPA is a critical tool to disrupt that cycle, protect the buildings that need it most and allow people to stay in their communities. When buildings in disrepair or with expiring affordability restrictions are put up for sale, it is the City's responsibility to make sure that housing remains affordable and is put in responsible hands like community land trusts, rather than sold off to another absentee landlord. Thank you.
+
+**(03:34:32)**
+
+
+
+Dear Chair Sanchez and members of the Committee on Housing and Buildings, thank you for holding today's hearing and for the opportunity to testify. My name is Jessica Bell Geben. I am a lifelong resident of Queens and a community organizer with Queens Community Land Trust. When my family immigrated from Guyana to South Queens 30 years ago, they established roots in neighborhoods like Richmond Hill and South Ozone Park that reflected the needs of our communities as Indo-Caribbeans. However, over the last few years, previously bustling Caribbean commercial corridors like Jamaica Avenue lost mom and pop shops to big corporations.
+
+The cultural integrity of these communities is now threatened by speculative corporations and predatory landlords, and the lack of deeply affordable housing across neighborhoods like Queens Village, Jamaica and South Ozone Park is of utmost concern to residents and members alike. Tenants like myself can no longer afford to pay their rents and stay in the neighborhoods we are deeply rooted in. We urgently need the Community Opportunity to Purchase Act, or COPA, which will give vetted nonprofits, including community land trusts, the first chance to purchase certain at-risk multi-family buildings when a landlord decides to sell. COPA will allow for communities like those we work with and live in to stabilize and expand the supply of permanently affordable homes that New Yorkers are in desperate need of.
+
+There is real community momentum in favor of COPA. My team and I engaged over 2,500 community members and collected more than 300 postcards signed in support of COPA. We can take measurable steps to help prevent ongoing gentrification and displacement from wreaking havoc across Queens. I urge you to pass COPA now. Thank you for your time.
+
+**(03:36:14)**
+
+
+
+Thank you, Chair Sanchez and this committee, for allowing me to testify in support of COPA. My name is Ron Cemal. I am a lifelong Jackson Heights resident and a communications and neighborhood development associate. I work with Queens residents fighting for stable, affordable, community-controlled housing. Our organizers have been organizing tenants in Jamaica for years. Families in multiple buildings have lived with mold, rodents, leaks, unreliable heat and hot water, and elevators that repeatedly break down. One resident, Enrique, has had to cancel appointments and miss time with his family because he cannot safely climb the stairs when the elevator fails. Imagine being trapped inside your own home, not just because of your health, but because the person responsible for your building refuses to keep it safe. These tenants have done everything they were supposed to do. They organized. They called the City. They went to court. They withheld rent. Still, the neglect continues.
+
+Then there are situations where a building goes under foreclosure, potentially changing ownership after years of fighting simply to live with dignity. Families could still be shut out of the decision about who owns their homes next. As an organization, we worry that buildings going under foreclosure will not continue to be owned by the same predatory landlord, but we have no guarantee that the next landlord will be any better. When we talk about housing, we are not just talking about properties and transactions. We are talking about whether an older resident can make it to an appointment, whether a parent can put their child to bed without worrying about mold, whether a family can feel secure or must constantly wonder if the next landlord will force them out.
+
+This is why COPA matters. It would give qualified, mission-driven nonprofits an opportunity to purchase covered buildings before they are sold on the open market. Tenants could partner with community land trusts to make repairs, preserve affordability and create housing that is accountable to them. Home should mean safety. It should mean stability. It should mean knowing that your family will still have a place in the community you helped build. Too often, tenants are the last to know and the first to suffer when their buildings are sold. COPA gives them a real chance to shape what happens next. No one should have to fight this hard just to feel safe at home. I urge the Council to pass COPA. Thank you.
+
+**(03:38:24)**
+
+
+
+Good morning, Chair Sanchez and committee members. My name is Tessa, and I am the Associate Director of Housing Stability at our organization. You have heard about our organization from my colleagues. I work with the tenant organizing team, where we organize tenants in rent stabilized buildings all over the city — buildings owned by some of the worst landlords in the city, like Bronstein, Summit and Pinnacle. We are also in the process of organizing a community land trust. You have heard about the conditions that tenants face from my colleagues. Most of the tenants that we work with are working class people of color, immigrants, and they face horrible conditions. Meanwhile, their landlords are consistently on the worst landlords list. They are billionaires. They are corporations. They are creating and maintaining systemic
+
+**(03:39:13)**
+
+
+
+conditions of neglect and harassment, and that is because their business model is to push out low income tenants for whiter and wealthier tenants that can afford higher rents. These landlords are not in the business of providing dignified housing. They are in the business of extracting maximum profits from what they see as assets in the shape of buildings, and some of them have amassed portfolios of dozens of buildings. Over the years, corporations have been buying up multi-family homes from individual owners at an accelerated rate since the 2000s, and now they make up the vast majority of rent stabilized landlords. Most of the sales of rent stabilized buildings simply transfer ownership from one LLC to another. Even distressed properties are mostly transferred to manage financial liabilities and create portfolios, not to actually address conditions for tenants. This illustrates what the buildings really represent to landlords — not homes for New Yorkers to live in and build community. Conditions have deteriorated and rents have skyrocketed because of this frenzy of speculation that has gone on uninterrupted for decades.
+
+New Yorkers deserve to live in dignified, affordable homes, and that is why we need COPA — to allow tenants to have a fighting chance to disrupt speculation and bring housing under community control. Thank you.
+
+**(03:40:30)**
+
+
+
+Thank you. Kudos — what was it, 2,500? Thank you. This is the third time that I have heard this piece of legislation, and I just thank you for all that you have done to get us here. You know what? I urge you to stay at the table. Keep calling my colleagues who may be on the fence about the Bill, so that we can get the traction we need to finally pass COPA. Thank you.
+
+I will now call the next panel from Local Three and Local One. Kudos to you for sending me the testimony in advance — very helpful. Michael Jordan, Michael Greenert, Michael Paintpie — I am sorry for the pronunciation — and then from Local One, Freddie Delgado. Are you making trouble over there? Okay. We also have Richard Gilligan. Richard. Okay. So Freddie is not testifying. Okay. All right, thank you. Whoever is ready can begin.
+
+**(03:42:37)**
+
+
+
+I am sorry. Is your microphone on? I am sorry. Okay, can we start? I do not want you to get cut off again. All right. There you go. All right.
+
+**(03:42:50)**
+
+
+
+Thank you for the opportunity to testify. My name is Mike Jordan and I am a business representative for Local Three. I am here in support of project labor agreements for affordable housing construction, and I also urge the City to make sure that 485-X does not become a race to the bottom on construction wages and working conditions. New York City needs housing — there is no question about that — but the answer cannot be to subsidize housing while subsidizing poverty for the workers who build it.
+
+When taxpayers provide billions of dollars in tax benefits and other public support for housing construction, we have a responsibility to demand something in return: affordable homes, good quality construction and family-sustaining jobs. This is exactly why establishing labor standards before construction begins provides a trained workforce, consistent work rules, safety protections, benefits and accountability. It ensures the public investment creates a pathway into the middle class. We should also be honest about the incentives created by 485-X. When the rules become significantly different at the hundred-unit threshold, developers have an incentive to stay at 99 units rather than build more housing and accept stronger labor and affordability requirements. This is not a housing policy we should encourage. We should not be creating incentives to build fewer apartments or to reduce labor standards simply to qualify for a tax benefit.
+
+For developers receiving public subsidy, the public should receive a public benefit. This means more affordable housing, support for family community hiring, pathways into apprenticeships and into the middle class, opportunities for New Yorkers who want to enter the trades, and of course, safe quality construction that will serve our communities for generations. We cannot pit affordable housing against good jobs. The workers building affordable housing deserve to be able to afford housing themselves. Thank you.
+
+**(03:44:58)**
+
+
+
+Thank you. Good afternoon. My name is Michael Brunner and I am a proud member of the IBEW Local Union Number Three. I am not going to bore you and repeat all the same things that he just said. I am going to bring up that a Council member earlier mentioned subpar new construction residential buildings, and all I can say to that is, if you want better buildings, you want better lives. If you want better communities, if you want to build a better New York, build union. Thank you.
+
+**(03:45:35)**
+
+
+
+Good afternoon, Chair Sanchez and members of the Committee on Housing and Buildings. My name is Richard Gilligan, Business Agent at Large at Plumbers Local Union Number One. I am testifying on behalf of Paul O'Connell, Local One's Business Manager, and on behalf of the approximately 6,000 skilled plumbers, gasfitters and apprentices represented by Local One. Thank you for the opportunity to testify regarding the Mayor's block-by-block housing plan for a new era. Local One is proud of the role our union and its members have played for more than 30 years in developing and strengthening New York City's building and plumbing codes. The Mayor's housing plan should strictly adhere to those codes and the high standards they established for safety and quality. That commitment should include prohibiting plastic piping and other inferior materials where safer, more durable alternatives are available.
+
+Local One is particularly concerned about PEX and similar plastic piping because research has demonstrated that piping material can affect biofilm formation and conditions associated with the growth and presence of Legionella bacteria. Plastic piping is also widely recognized as a leading contributor of microplastics contamination in drinking water and commonly leaches the chemicals used in its manufacture as water passes through it. We should be strengthening plumbing standards, not compromising them to reduce construction costs. Doing so would create two distinct sets of plumbing codes: a cheaper, more dangerous code for affordable housing and the vulnerable populations it would serve, and a code for those that can afford the safer materials installed by qualified and experienced union workers.
+
+Local One will always support building more housing. Our members understand the depth of New York City's housing shortage because they live here, they raise families here and they work every day to keep the City functioning. A serious housing plan must create enough affordable and workforce housing to give our apprentices and other working people a genuine opportunity to put down roots and remain in New York City. Supporting more housing cannot mean abandoning the safeguards that protect workers, residents and the public. The block-by-block plan should require that projects eligible for the 485-X tax incentive must fully comply with all applicable wage and labor requirements. The City must also prevent developers from structuring projects — including 99-unit buildings — to evade those obligations, and must ensure that labor protections exist on every covered job site, not merely on paper. Local One strongly encourages the Mayor's administration to use project labor agreements as broadly and as practically as possible on affordable housing construction receiving
+
+**(03:48:33)**
+
+
+
+substantial City assistance, along with meaningful protections against wage theft and worker exploitation. Safety must remain equally central. Building more housing does not require weakening the standards that protect construction workers, future residents and the public. If New York intends to increase the pace and scale of construction, strong safety standards, skilled tradespeople and effective inspections become more essential.
+
+Local One is particularly concerned about proposals that rely heavily on modular construction to the extent that they involve offsite prefabrication. For organized labor, the unchecked expansion of offsite prefabrication presents an existential threat because it can transfer substantial portions of construction work away from New York City job sites and away from New Yorkers who would otherwise perform this work. It also could potentially bypass prevailing wage requirements, project labor agreements, registered apprenticeship programs, local hiring opportunities, contractor accountability and the worker protections embodied by the New York City construction code. For these reasons, Local One respectfully requests that modular construction and prefabrication be removed from the plan rather than promoted as a potential model for the City's housing efforts.
+
+The City's commitment to housing must also include the homes New Yorkers already occupy, especially those operated by the New York City Housing Authority. Repairing and modernizing NYCHA must remain an essential priority in any comprehensive housing plan. Thank you.
+
+**(03:50:18)**
+
+
+
+Good afternoon, Chair Sanchez and members of the committee. My name is Michael Palumbo from Local Three Residential, here today. I believe in the goal of 485-X. New York City needs more housing and we need more affordable housing. But I believe there is a problem with the way the program is structured.
+
+Under 485-X, there is a major difference between a project with 99 homes and a project with a hundred. Projects with a hundred or more units are subject to construction wage requirements, while the under-99-unit category has different requirements. This creates a very strong incentive to stop at 99, and that is what I believe we need to fix. We need to build more housing, but we need to make sure the incentives actually encourage developers to build more rather than encourage them to stop just below the threshold.
+
+I see firsthand what goes into constructing these buildings. The men and women who build New York's housing deserve a wage that allows them to support their families. We should be creating opportunities for people to enter the skilled trades, build careers and become part of the middle class. My request is simple: the housing crisis in New York should not be solved by pitting workforce housing against each other. We should be able to have more housing, more affordability and more middle class construction jobs, and that is what I believe 485-X should and can accomplish. Thank you for your time today.
+
+**(03:51:50)**
+
+
+
+Thank you so much. A follow-up question: first of all, there is the legislative task force and the Mayor's construction safety working group — I forget what they are calling it — but making sure that Local Three and Local One are on those is very important, to make sure you are in the room to lift up these recommendations around plastic piping and modular construction and the 485-X problem. Do you have a recommendation on a legislative change, or is it a Department of Buildings practice? Is it about the way that site plans are reviewed? Do you have specific recommendations about what we should be doing and looking into?
+
+**(03:52:33)**
+
+
+
+I mean, if it is obvious that a property can easily hold more than 99 units — even 150 units — you should not be allowing them to stop at 99. They should be building more. We need more housing. That number changes significantly the amount of affordable housing units from 99 to 250. Also, you are looking at 20% of 99 versus 25% or more of 150 — you know, it adds up to be a lot. And then the subdivision of parcels of land to then build 99-unit loophole buildings — I would group them all back as one and make them be 150
+
+**(03:53:28)**
+
+
+
+plus. If I could just expand on that for one second: there are situations potentially where you have a piece of property that is being broken up into three addresses, yet sharing a foundation. It is one foundation for three separate addresses, and they are sharing driveways, common walkways and so forth. So I think that is another potential problem. And as far as the committees and advisory committees are concerned, Local One is asking for a seat at the table on some of those committees, to give us the opportunity to inject our expertise into the subjects that are being discussed.
+
+**(03:54:09)**
+
+
+
+Thank you. Absolutely. Thank you. I will just ask for a follow up, especially on those issues. There is a common driveway, there is shared infrastructure, things that you are seeing on the ground, in addition to just hovering at the 99 units. That would be very helpful because then we can follow up with buildings and see if we can put a stop to it with these definitions. Okay. All right. Thank you so much. Thank you. Next panel: Logan Fares, Nadia Swanson, Martha Sickles and Fisa. You just need to fill out a slip at Open New York.
+
+**(03:55:14)**
+
+
+
+All right, whoever is ready to begin. Apologies for my snacking.
+
+**(03:55:19)**
+
+
+
+Hello. Can you hear me? Okay. Hi. My name is Fisa Azzam and I am the Climate and Labor Organizer for A Line in Lines for Greater New York. I also coordinate the Climate Works for All Coalition, which is made up of 26 labor unions, climate and environmental justice organizations and community groups dedicated to tackling the climate crisis. In 2019 we were an instrumental part in passing and advocating for Local Law 97. As you all know, 70% of the total emissions in New York City comes from our buildings, and that is why Climate Works for All has been strongly advocating to limit those emissions. But with that comes some hurdles for some homeowners, and that is why Climate Works for All is here to strongly advocate for the passage of Int 1015-2026, which extends the J-51 tax abatement for co-op and condo owners and homeowners in general. This would not only benefit 350,000 homeowners across the City, but also benefit many in low-income communities, as we have heard earlier in this hearing.
+
+Climate Works for All has been strongly advocating with state legislators and elected officials to pass J-51 in the state budget this past session for 2027, and we will continue to advocate for it since the Bill is now aimed at focusing toward localized municipalities to pass it. Homeowners have been struggling when it comes to complying with clean energy transitions, with their energy bills skyrocketing, and affordability is extremely important. For that to happen and to enforce and implement Local Law 97, we need to ensure that New York is supporting your constituents with the proper financial means. Implementing Local Law 87 means that there is a piece of the puzzle where you are helping with that budgetary aspect, and we strongly urge that. Thank you.
+
+**(03:57:27)**
+
+
+
+Good afternoon, Chair Sanchez and committee members. My name is Martha, and I am a principal at Erbakan. I am also a member of the Climate Works for All Coalition and the Green Co-op Council. Thank you for the opportunity to attend and express support for the Mayor's Housing Plan and the seven legislative items that are being discussed at this hearing. I am going to be submitting written testimony, but I would like to make just a few
+
+**(03:57:58)**
+
+
+
+points about support of Int 1015-2026, which is the revision and authorization of J-51. As colleagues have discussed, this Bill was passed by the State Legislature. It is critical to providing funding resources for homeowners, co-ops, condos and owners of rental buildings. The Bill will help to provide and create healthier, cleaner, more efficient and more affordable homes for lower and moderate income renters and cooperative and condominium residents. It was first enacted in 1955 to address a public health and building modernization crisis in substandard housing, and we are facing a similar situation today. The similar modernization crisis is that building owners face increased regulations, requirements and new laws designed to improve public safety, reduce carbon emissions and provide prevailing wages. These are all valuable public goals that warrant public support to help building owners implement them.
+
+There was a recent study released by the New York Housing Conference, conducted by Hunter students, that indicates the sources of rising costs for both operation and construction of buildings, and J-51 will assist in addressing some of these. As we face federal and state retreat from support of climate policy and funding, J-51 will be useful. I also hope that we can act quickly to educate the public and that this program can get up and running soon. Thank you so much for your time.
+
+**(04:00:05)**
+
+
+
+Thank you, Martha.
+
+**(04:00:11)**
+
+
+
+Good afternoon. My name is Nat Islam. I am the Senior Director of Advocacy and Global Programs at the Callen-Lorde Center. I first want to give my profound thanks to Speaker Menin and all the members that supported this. As you have been doing and giving us access, I can say whenever I get to tell our case managers good news that is going to come their way, you usually get a lot of excitement. Every person I told just sighed with relief that this is happening. So thank you. It will make a huge difference.
+
+We support the Bills discussed today, but I want to focus on two issues we can change today. More than 6,000 youth and young adults experience homelessness in New York City. There are fewer than a thousand beds available to serve them. Since 2015, our drop-in center has operated 24/7 as a band-aid for a larger problem. There is not enough shelter beds for homeless young people. Before then, they slept in our center during the day because they had spent the night awake on the streets trying to stay safe. Letting them sleep overnight gave them their days back and the ability to take the steps towards stable housing and independence. The model worked. It ultimately led to five 24/7 youth drop-in centers across the City. Then in 2023, on one of the coldest days of the year, the City ordered providers to remove sleeping accommodations. Years later, we still have no reasonable explanation as to why. Meanwhile, young people sit in drop-in center chairs overnight, sometimes for up to six months, waiting for a shelter bed.
+
+We are asking to create an exception within the fire code classes that would allow temporary non-residential overnight sleeping on cots with low-barrier safety standards designed specifically for drop-in centers. The second issue is the speed of approvals for organizations creating desperately needed housing. We are asking DOB to establish a priority review process for nonprofit community service organizations, particularly those creating shelter and housing for vulnerable New Yorkers. In October 2025, we cut the ribbon on 20 newly developed beds that are empty while approximately 450 young people are on a wait list, and we could have served 70 youth in the past year at that site. We spend significant resources developing the property. If you spend money to expedite, it should not have taken this long to get a walk-through to be able to implement these changes. So I think you understand why this is so necessary. Thank you.
+
+**(04:02:28)**
+
+
+
+Thank you. Good afternoon. I am Jack Connor, City Legislative Manager at Open New York, a statewide grassroots advocacy group that pushes for more homes and lower rents. Thank you to Chair Sanchez and members of the committee for the opportunity to speak in support of Int 0649-2026 and Mayor Mamdani's Housing Plan this afternoon.
+
+For too long, housing scarcity has allowed negligent landlords to subject upwards of 350,000 New Yorkers to unsafe and unconscionable conditions for years, if not decades. Int 0649-2026, the Safer Homes Act, empowers tenants to advocate on their own behalf by reopening the Third-Party Transfer Program with expanded tenant rights to form HDFC co-ops and critical guardrails like eliminating the block-by-block pickup provisions. Open New York is also proud to support CM Epstein's Int 0178-2026, which would create an Office of Conversion Assistance. So far this year, the City has permitted 74 office conversions that will yield more than 10,000 new homes. Such conversions are a critical tool in building the 700,000 homes we will need in the next decade to meet current and future demand. Still, complicated permitting and building code requirements remain persistent barriers. An Office of Conversion Assistance can help applicants navigate these processes and identify reforms to streamline future applications.
+
+Turning to Mayor Mamdani's Housing Plan, we are pleased to see the Safer Homes Act and Int 0066-2026, CM Abreu's shared housing Bill, as well as City of Yes citywide included as priorities of this administration. We hope to see the Council build on the City of Yes and fair housing framework to ensure that a little more housing is built in every neighborhood, especially near subway, rapid bus and commuter rail service. For too long, wealthy neighborhoods have remained frozen in amber at the expense of communities of color, which face extreme displacement pressure. We urge the Council to embrace the citywide nature of our housing crisis and partner with the administration to co-locate public goods with housing, comprehensively reform our building code and allow more New Yorkers to live near the transit that they depend on. Thank you for the opportunity to testify.
+
+**(04:04:32)**
+
+
+
+Thank you. Thank you so much. A quick follow up for you in the alley. One of the things that was mentioned in several parts of the block-by-block housing plan was the idea of third-party inspectors, and I am wondering if you have had any experience with DOB's piloting of third-party inspectors in any way. There are different programs now. We have that? Yeah.
+
+**(04:04:56)**
+
+
+
+We have not started.
+
+**(04:04:56)**
+
+
+
+I mean, if it speeds things up, we are for it. Yeah. All right. Awesome. Thank you.
+
+**(04:05:02)**
+
+
+
+So much. Thank you.
+
+**(04:05:08)**
+
+
+
+Okay, the next panel is from the Mason Tenders. We are going to have Infinite George, Carla Crews, Brett Thomason. And if I have got seats to fill, bring them all up. Four seats. Bill in Tierra Williams. Okay, great.
+
+**(04:06:05)**
+
+
+
+Whoever is ready. Hi. Good afternoon. Hello. Construction has historically provided a pathway into the middle class for New Yorkers without a four-year college degree. A quality construction career can allow someone to support a family, access health care, secure retirement and build long-term financial security. But that opportunity is lost when developers use low-wage labor brokers to recruit vulnerable workers and pay them near minimum wage without meaningful benefits, job security or a pathway to advancement. The business model of a labor broker is based on charging third-party clients an hourly markup on pay for each worker provided. Workers are paid substandard wages while the labor broker contractor gets paid $32 to $50 per hour for each worker they
+
+**(04:06:54)**
+
+
+
+rely on. The system of mass incarceration and poverty suppresses wages and creates a pipeline of temporary laborers who do the most dangerous work on construction sites.
+
+**(04:07:03)**
+
+
+
+Workers who build affordable housing are struggling to afford housing themselves.
+
+**(04:07:07)**
+
+
+
+Public investment generates development, but not the economic mobility our communities were promised. This is a policy choice and the City can make the difference. As the City implements block by block, workers must be at the forefront.
+
+**(04:07:20)**
+
+
+
+We are asking the City to take a no-labor-broker pledge, expand the $40 standard that was passed this past session and ensure that developers receiving public support provide safe conditions, meaningful benefits, transparent employment practices and real pathways into construction careers.
+
+**(04:07:41)**
+
+
+
+Thank you. Okay. Should I go? Reset takes. Oh, good
+
+**(04:07:58)**
+
+
+
+afternoon. My name is Infinite George and I work directly with NYCHA residents across New York City. I am here because NYCHA residents are concerned about the lack of transparency surrounding decisions that will determine the future of their homes. NYCHA residents know that the developments need major repairs. They live every day with broken elevators, leaks, heating problems and years of deferred maintenance. Residents want investment and improvement, but they also want and deserve a meaningful role in deciding how those improvements happen.
+
+Right now, the process is inconsistent. In some developments, residents participate in an election to choose among the Public Housing Preservation Trust, PACT or remaining in the traditional Section 9 program. In other developments, residents learn that their homes have already been selected for RAD without having the opportunity to vote on it. This inconsistency creates confusion and distrust. Residents do not understand why one development receives a vote while another does not. They are often unsure how the development was selected, what decisions have already been made and how a conversion will affect property management, repairs, resident rights, employment opportunities and daily life. Information sessions and resident engagement meetings are important, but they are not the same as giving residents the power to decide.
+
+NYCHA residents are the people who live with the consequences of these decisions. They should receive clear, accessible information about every option, including benefits, risks, financial structure, management changes, construction plans and resident protections, before any decision is made. We are asking the City to require a transparent resident election process before any NYCHA development proceeds with PACT, RAD, the Preservation Trust or another major conversion model. Every eligible resident should have the opportunity to vote and every development should be governed by the same clear, consistent rules. Public housing belongs to the public and residents must be at the center of decisions about its future. No major change should happen to a NYCHA development without focusing on the people who call it home. Thank you.
+
+**(04:10:22)**
+
+
+
+Good afternoon. Good afternoon, Chair and committee members. My name is Justice Favor and I am a field representative of the Mason Tenders District Council. I started as a construction laborer and I was born and raised in public housing. I am proof that a fair wage and benefit package in construction can transform your life and the lives of others around you, like it did for me and my family. I am here to make sure our City has construction justice so that our communities have access to family-sustaining wages and affordable housing.
+
+New York City's residential construction industry can provide good wages and benefits while continuing to build the housing our City urgently needs. We are proud and excited that the Construction Justice Act was passed by the City Council and is a key part of the Mayor's Housing Plan. Local 79 members are already building residential and affordable housing with responsible developers and contractors that pay workers at or above the $40 an hour wage and benefits standard. These projects move forward, housing gets built and developers remain successful. At the same time, workers receive training, health care, retirement security and wages that allow them to support their families.
+
+The problem is not that the industry cannot afford better jobs. The problem is that some developers are choosing low-road business models. Our communities are being harmed by some bad actors in the affordable housing industry who take up government subsidies and pay construction workers poverty wages. They use labor brokers that recruit vulnerable workers, including immigrants, formerly incarcerated people and economically disadvantaged New Yorkers, and pay them near minimum wage without meaningful benefits or job security. These labor brokers help insulate developers and general contractors from responsibility for the working conditions on their projects. When workers report unsafe conditions, retaliation or wage violations, workers are carefully organizing and speaking out about the labor broker called Marion Workforce, also known as Apex Labor Solutions, working on subsidized residential projects, including multiple projects. I will finish
+
+**(04:12:28)**
+
+
+
+with this. Multiple projects developed by Hudson Companies, one of the largest affordable housing developers. Multiple workers who are laborers that build affordable housing cannot afford to live in their buildings. That is unacceptable. That is unfair to workers and disadvantages responsible developers and contractors who are already doing the right thing. The City should not allow companies that exploit workers to undercut those that provide family-sustaining careers on projects receiving public subsidies and tax benefits. I will end with this: the responsible model already exists. We need the City to help make it a standard across the residential construction
+
+**(04:13:18)**
+
+
+
+industry. Good afternoon, Chair. We have been here all day.
+
+**(04:13:20)**
+
+
+
+Hi, my name is Terry Williams. I am organized with Local 79. Prior to joining the union, I worked for a construction labor broker. I was part of a group of 18, primarily Black women workers who won a dollars settlement against our employers for sexual harassment and abuse on the job. The Attorney General's office also found that Black women and women of color were systemically targeted by this company. I was subjected to constant harassment from foremen. The company failed to address repeated complaints. Instead, they protected sexual abusers. I was making minimum wage and I relied on public assistance benefits, so tax dollars were basically subsidizing this company. I was working for $15 and I was pregnant when I miscarried. I had no health insurance and I did not know if Medicaid was going to cover me.
+
+Now, as an organizer, I speak to many laborers supplied by brokers on affordable housing projects around the City. These predatory labor brokers take advantage of workers who are in precarious situations. Formerly incarcerated people, immigrants and women of color are regularly exploited by these companies. They face the real threat of re-imprisonment if parole officers discover that they are out of work. Complaining about job conditions, sexual harassment or mistreatment can cost these workers their freedom. I am fighting to ensure that no one faces the conditions that I experienced. I am fighting to make sure that the bad actors do not find ways to avoid labor standards by using loopholes in the law. Residential construction workers should not be excluded from the labor protections that the City has championed. We must enforce this
+
+**(04:14:47)**
+
+
+
+Construction Justice Act so that the contractors and labor brokers have clear standards for how they treat and pay construction workers who build City-subsidized affordable housing developments. Thank you.
+
+**(04:14:58)**
+
+
+
+Thank you. And you get extra points for the extra time. Thank you so much for your testimony. I appreciate your story. Kevin McCroskey, you are still here. Come on up. Then let us get Anthony... Eli Perry Rodriguez, right? Whoever is ready. Can you come up? Good afternoon, Chair.
+
+**(04:16:00)**
+
+
+
+Sanchez, thank you so much for the opportunity to testify, and thank you for putting me back in the loop when I stepped out for a second. My name is Kevin McCroskey and I am the Director of Public Policy at LiveOn New York. We are an organization that represents over 110 community-based nonprofits that provide services under the nonprofit aging portfolio, and we represent most of the senior housing developers in the City.
+
+In the block-by-block proposal, older adults are mentioned two times: one, with a commitment to build 1,000 senior units, and two, in a multigenerational housing proposal. I want to start with some background. We have heard many analyses that older adults are somehow richer than the general population and do not need additional considerations or support, but the reality is the opposite. A small group of older Americans control a huge swath of wealth, but over 50% of older New Yorkers have no retirement savings whatsoever. Older adults are most acutely impacted by the housing crisis, the affordability crisis and our broken medical system. Older adults are the fastest growing homeless population, both locally and nationally, and we are concerned that the current housing plan does not recognize the reality of older New Yorkers' lives and it is abandoning key programs and supports that older neighbors need to remain in their homes.
+
+On the 1,000-unit guarantee, it is not clear under which program that guarantee moves forward. We have actually heard that because Section 8 is in a drought, they will no longer be financing new senior programs until they can get guarantees for Section 8. We are recommending that the senior program is guaranteed in some form through the drought, as they have done with other program areas, because older adults are definitely in need of housing that can combine different service areas, and you can only get those efficiencies in 100% senior housing.
+
+The second thing is we need increased service funding and programming for senior housing citywide. Right now, the only funding is a 30% homeless set-aside service funding for the entire 100% of people in the building. That is not working. Secondarily, the existing home care crisis means we need to be funding alternative ways to take care of older people in New York.
+
+Next, if we are developing multigenerational housing, we need to focus on older people, because right now when we are reading the plan and speaking to people about multigenerational housing, it seems like the only plan we are hearing is to prevent the development of 100% senior housing. May I finish? That is something we are against, because we do believe older adults benefit when all affordable housing is built. We need specific housing for older adults. The last thing we need to say is that we believe the administration needs to analyze the data around older adult housing. Any analysis that does not recognize the acute crisis of older homelessness does not convey an accurate picture of need. The administration must show that they know the on-the-ground reality and make their decisions with that reality at the fore. Thank you so much
+
+**(04:18:25)**
+
+
+
+for the opportunity to testify. Thank you. Good afternoon. My name is Anthony Race. I am sorry about...
+
+**(04:18:36)**
+
+
+
+That. Okay.
+
+**(04:18:38)**
+
+
+
+I am from Brooklyn. I am a proud Local 79 union member. I am here today to voice my support of the Construction Justice Act as part of the Mayor's Housing Plan before the City Council. I work for one of the labor broker companies that provides labor for residential construction in the City. I know what it is like to work for a company where you are paid low wages with inadequate benefits and grueling work. I did not have any financial or medical stability. I could never take my family on vacation.
+
+When I began to work green jobs with a fair wages package, I was actually treated with dignity and told my rights as a worker on a site that took safety seriously. Now I do not have to worry about my family in case I get sick. I am able to provide my family with economic stability that I did not know before. There is no reason that publicly funded projects should use low-wage labor programs to fulfill their staffing needs. The City has said they want to fix worker exploitation on construction sites. When the City spends, it should do so with local hire jobs and good wages. The Construction Justice Act is key to ensuring our public funds are spent properly. This City needs well-compensated job protections to give all workers the voice and stability that the union has given me. Thank you.
+
+**(04:19:56)**
+
+
+
+Thank you for your time. Good afternoon. My name is Johan. I worked for a labor broker in Marin for about a year and a half on housing developed by Hudson Companies. During that time I found myself trapped in a system that made it extremely difficult to move forward. The work was inconsistent and I was making around $21 an hour, but there were times when our wages would change or our paychecks would just be delayed. Not knowing if I was going to get paid or what the pay was going to be was very stressful, especially when there were bills and responsibilities that had to be met.
+
+But one of the hardest parts was feeling like I could not speak up. I was afraid that if I complained too much about my safety, my pay or the way I was being treated, I would lose my job or be taken off the schedule. And that is how you become trapped. Honestly, you need the paycheck, so you have to keep working. You have to show up, but you are also afraid to speak up because you might lose your work. But at the same time, if the job does not give you stability, protection and opportunities to build a better future, it should not be a reality for any worker on a construction site.
+
+When we are talking about affordable housing being built with public dollars, as the City prepares to build more housing, we have to make sure that the building is building better opportunities for the workers who are actually building it. Workers deserve safe jobs, fair wages, stability and a real pathway to a career. We should not have a system that keeps workers dependent on labor brokers and afraid to speak up. We deserve better, and the people building this City's future deserve the opportunity to be a part of that future. Thank you.
+
+**(04:21:45)**
+
+
+
+Good afternoon. My name is Ella Perry. I am a proud union construction worker. I was incarcerated for eight years, and after coming home I spent three years living in a shelter. I needed someone to give me a real opportunity. I found that opportunity through Pathways to Apprenticeship and Local 79. Construction gave me a job. It gave me a career, stability, benefits and a future. That is why I am here today. The Mayor has an ambitious plan to build across this City. That means thousands of construction jobs and a huge opportunity to move New Yorkers out of poverty. But right now, too many affordable housing projects rely on labor brokers that hire workers at low wages with little to no benefits and no real pathway to a career. The workers they recruit are often people who need opportunity
+
+**(04:22:52)**
+
+
+
+the most: people coming home from incarceration, immigrants and New Yorkers struggling to support their families. I could have easily been one of those workers. We cannot spend public dollars to build affordable housing while allowing the workers building it to remain trapped in poverty. The Mayor's Housing Plan gives us an opportunity to do something different: build affordable housing and build a middle class at the same time. Give workers the same opportunity that changed my life — good wages, benefits, training and a real career. If we do that, we will not just change the skyline. We will change people's lives. Thank you.
+
+**(04:23:45)**
+
+
+
+All right, the hearing is over. Okay. Thank you. Thank you so much for your testimony. Your stories are really inspiring, and I talked about bringing this to my neighborhood too, so that we can expand these opportunities and not rely so much on these labor brokers. Thank you. All right, thank you. Speaking of my neighborhood, we are going to move to a panel — a couple of panels from our Bronx. The first folks up, speaking of my neighborhood...
+
+**(04:24:14)**
+
+
+
+Joshua Santiago, Maria Lorenzo, Stephanie Thomas and Todd Baker.
+
+**(04:24:28)**
+
+
+
+Richard Blanco... okay. We have an empty chair. Joshua Santiago, Maria Lorenzo, Stephanie Thomas, Todd Baker, Richard Blanco. Okay, Ed Garcia. All right, and whoever is ready.
+
+**(04:25:39)**
+
+
+
+That is what... okay. Good afternoon.
+
+**(04:25:46)**
+
+
+
+Thank you for the opportunity to testify today. My name is Todd Baker. I live in Kingsbridge and I work for Our Bronx, where I support our housing justice and community development work. In that role I have witnessed the very avoidable harm being done to New Yorkers under our current housing and code enforcement system — most egregiously to communities of color, to seniors whose social infrastructure has been eroded by gentrification and displacement, and to those who face language or immigration barriers.
+
+I work in buildings where landlords have made a calculated decision to abandon their tenants to mold and to cold because it was more profitable for them to do so. Meanwhile, though they are important and staffed by hard-working public servants, current enforcement tools like 311 or the Alternative Enforcement and Underlying Conditions programs fall short. I know from firsthand experience that there is a better option out there for many of these tenants.
+
+We have been able to intervene at 2205 Davidson and we are doing so at 705 Tremont Avenue, where we are breaking this vicious cycle of deteriorating conditions and rising rents with the help of experienced development partners, with Council members, with Neighborhood Restore, with legal services partners, with stakeholders who have a demonstrated commitment to providing high-quality affordable housing. We have put these buildings on a pathway to a total renovation and to be kept permanently affordable through the Bronx Community Land Trust.
+
+This is the sort of transformative change that COPA and the Safer Homes Act could make possible for many more households in dire need. Both Bills have been thoughtfully structured to target the buildings where intervention is most needed and would be most impactful. Both would leverage the experience of trusted developers and community land trusts to help meet the urgent need to preserve affordable housing. I urge the Council to pass both as soon as possible. Thank you.
+
+**(04:27:40)**
+
+
+
+Good afternoon. My name is Stephanie Thomas. I am a proud member of Our Bronx and a tenant of 3435 Girls Place, Bronx, New York. Documentation supports this testimony describing absolute mismanagement by Park Cash Realty of the previously mentioned property. The following allegations reiterate the maladministration of the aforementioned property. These examples will emphasize the dire need to pass COPA and the Safer Homes Act.
+
+I have resided at this property since October 2015 and strongly believe these initiatives will address the deterioration of our building and community. Some of these issues are: no heat during the winter months; elevator continuously inoperable and unsafe to use when working; the elevator engineer is usually called on average five times per week; water leaks in most apartments, hallways, et cetera, especially due to faulty patchwork, so problems recur; water leaks in the lobby area; apartments on the seventh floor experience severe water damage due to faulty roof repair; the mailroom is unsecured; requests for mailboxes and packages are ignored; packages are continuously stolen; roaches and mice throughout the building.
+
+What is most infuriating is the lack of concern by the owner and his sons in regards to these allegations. For example, I called about the inoperable elevator in 2016 and was told that if I was unsatisfied with the situation, I could move. This is how Park Cash Realty feels about their tenants. The nonchalant attitude about the welfare of tenants depicts the worst kind of apartment ownership in our City. COPA and the Safer Homes Act will give legal authority over landlords who neglect their contractual responsibilities and fail to keep their properties safe. It is time tenants stand up for their rights, but we need legal support and assistance from our City officials. Thank
+
+**(04:30:07)**
+
+
+
+you. Thank you. What is
+
+**(04:30:14)**
+
+
+
+your name? Tanko. I will start with the end. If COPA had been in place the last time my building was sold, we might never have ended up in the hands of Park Cash Realty. If Safer Homes had been in place, perhaps my building could not have been taken from us a long time ago and we would not be here. I would not be here, that is for sure. Thank you for your time. I urge you to pass both of these Bills as soon as yesterday.
+
+My name is Richard Tanko. I have lived in the Bronx for the last 64 years, the last 26 years at 3435 Girls Place in the Bronx. The building has been owned by Park Cash Realty, I believe, since 2010. That is the reason I am here. Under the ownership of Park Cash Realty, the expected services of heat during the fall and winter and a working elevator have been inconsistent. During heavy rains, it leaks inside the apartments around the windows facing east. It also leaks in the lobby and the entrance of the lobby. Photos and videos of these conditions are available.
+
+When Park Cash took ownership of 3435 Girls Place, it was understood that whatever shortcomings had taken place with the building, they would be addressed — the elevator, heat. Sixteen years later, under their ownership, the heat, elevator and leaks continue. When Park Cash took over, we had no idea they had been named one of the top 10 worst landlords in New York City and number one in the Bronx. Since we had no idea, we gave them the benefit of the doubt and did not form a tenant association. That was a huge mistake and one we have since corrected.
+
+A tenant in the building was informed that 3435 was in foreclosure. When ownership and management were asked, they all denied this and refused to provide any information. Our Bronx community agency began to support the 3435 Tenant Association, and I will leave it at that, because you can more or less have an idea of what took place. Thank
+
+**(04:32:28)**
+
+
+
+you so much. Thank you. Thank you, Richard. Thank you to Council Member Sanchez for holding this hearing. My name is Sarah, the Co-Organizing Director of Our Bronx, formerly known as Northwest Bronx Community and Clergy Coalition. We fight to protect tenants and empower them to fight for safe and dignified housing and long-term community stability. We work with tenants across the Bronx who are living with mold, vermin, structural damages — as Stephanie and Richard just alluded to — and more. People will speak to that. They have organized and documented conditions and called 311, filed complaints and attended hearings like this one before, but too often
+
+**(04:33:09)**
+
+
+
+The cycle continues. Violations accumulate, buildings deteriorate and tenants are left waiting for meaningful intervention. This is why we need the Safer Homes Act. Safer Homes will give the City stronger tools to intervene when buildings are in severe distress and hold negligent landlords accountable, like very park cash, and create a pathway towards responsible ownership and long-term stabilization. I would add that for Our Bronx, responsible ownership also includes standing on ending ownership of unsafe conditions.
+
+We also need to think about what happens when these buildings change hands. When a neglected affordable building comes up for sale, COPA creates an opportunity to break that cycle. Rather than simply transferring the building from one owner to another, COPA can create an opportunity for responsible mission-driven organizations, including community interests, to purchase and preserve these buildings for tenants. The change in ownership should be an opportunity for something better — to move from neglect to responsible ownership, preserve affordability and stabilize the building for the long term.
+
+At Our Bronx, we organized around tenant and community ownership because we know that responsible ownership can preserve affordability, prevent displacement and strengthen communities. Both Safer Homes and COPA give us the tools to address the housing crisis at two critical points. Safer Homes helps us intervene when landlords fail and buildings fall into severe distress. COPA gives us an opportunity to potentially break that cycle when those buildings are transferred to responsible ownership. Thank you.
+
+**(04:34:46)**
+
+
+
+Thank you. Thank you so much. Any follow-up questions? First of all, thank you. I am so lucky to count on you guys in my backyard organizing, helping tenants really to take advantage of their rights, and I just really, really appreciate Our Bronx and everything you do. Thank you also for the shout-out for Safer. I am going to use this opportunity to say to the Mayor's administration: let us get it done. We can get it done. I have been working on this Bill for a number of years and I really think we can bring it to the finish line. So I look forward to your partnership on that.
+
+My actual question is on Kyle's Place. Is this 534-35 Girls Place? Is that within the portfolio that is being managed by the court? Okay, sorry, I heard the...
+
+**(04:35:39)**
+
+
+
+It has been a long day. Five cups of coffee and...
+
+**(04:35:43)**
+
+
+
+Not enough. But we will be in the meeting tomorrow night for the next two...
+
+**(04:35:48)**
+
+
+
+Years. Yes. And if he does not comply...
+
+**(04:35:52)**
+
+
+
+With stipulations, apparently he is going to lose it. Got it. So your building is not being sold. It is in the stipulation where they have to address all...
+
+**(04:36:00)**
+
+
+
+That is correct. At this violation, it is not okay. Yeah. Great. So I am asking you...
+
+**(04:36:05)**
+
+
+
+Yes. Okay. I also wanted to share with you that the new economic supportive system — some flyers with this place were placed within the building so that the tenants would know their rights. The goal is that the new individuals running the building — let us say okay, for whatever reason — any time any flyers to inform the tenants about information, they disappear on a regular basis. Got it.
+
+Okay, so in terms of this settlement agreement, I know that there are three buildings that are being transferred to Trigo and this is my local Council member hat, not my housing chair hat per se, but I just want to make sure that you will keep us posted on what is happening because there is a lot of attention to this transfer. So there are three buildings that are being sold and the rest are under stipulation. The two buildings that are being sold — I have incorrect information. And then the rest are in the stipulation agreement. So I just want to make sure that even if our team cannot make it to every single meeting, we are hearing from you about — we will be there tomorrow, it is virtual — but we are hearing from you about how the solving of the conditions is happening. Thank you so much.
+
+**(04:37:23)**
+
+
+
+Thank you so much. Appreciate it. Thank you for being the chairperson.
+
+**(04:37:33)**
+
+
+
+The next panel is also from Our Bronx and this is the Spanish-speaking panel. So Juana Garcia and Elizabeth. Elizabeth, yes. Two women. Yes.
+
+**(04:37:53)**
+
+
+
+Yes. Wilmer Jose... Solar Sano... renting a...
+
+**(04:38:04)**
+
+
+
+So the state is going to be difficult. La posada Torres... copies. They look... okay, in the celebration... and facilitate...
+
+**(04:38:18)**
+
+
+
+You can stop. First, thank you for coming here. I think I know Our Bronx organizes... Our Bronx... the conditions this morning... the leaks in my apartment... what can I get you settled... for the work... and your position... the necessary side... the property owners are irresponsible... the consequence... the community organizations... the conditions... okay.
+
+**(04:40:02)**
+
+
+
+My name is Joanna and I have lived in the Bronx for 25 years. I have become involved with Our Bronx and like-minded tenants because I am passionate about justice and opposed to unjust conditions. The conditions in my building are terrible. The roof is falling apart and there are leaks everywhere. My apartment leaks every time it rains. The new owner plans to make repairs but the work moves very slowly. The previous owner failed to make any repairs for over three years. Now we have a new owner but repairs are dragging on. We need to remove the obstacles that make us wait for repairs. That is why we must pass the COPA Bill and the Safer Homes Act. These laws would help us remove negligent landlords and improve conditions in my building. Thank you.
+
+**(04:41:14)**
+
+
+
+Good afternoon. My name is... I have lived in the Bronx... Our Bronx... the tenant association... the conditions in my apartment and the common spaces are serious. My department... advocacy... the conditions... COPA... for the community... because... the official... apart from... present... three months... maintaining... but when the moment comes... we do not have... the community organizations... the community must participate... if implemented... the destiny of the community... a community that is necessary.
+
+**(04:43:29)**
+
+
+
+...long-term conditions that must... My name is Elizabeth. I live in Pierina Sanchez's district. I have lived in the Bronx for 23 years. With the help of Our Bronx, I organized a tenants association to fight for decent housing with all the necessary services such as hot water, heating and maintenance. When it rains, leaks affect my neighbors both inside their apartments and in the common hallways on the upper floors. There is mold in my apartment and the ceiling collapsed a couple of years ago. This affects me because of cockroaches and... my son is allergic...
+
+**(04:44:07)**
+
+
+
+...to dust. We make calls and send messages but we get no response. The new landlord is making some repairs and asked us to be patient, but it has been nearly two months and the structural problems affecting our homes and our quality of life have not been fixed. We should not have to keep waiting to live in decent, safe conditions.
+
+COPA would have been beneficial for my building because the landlord was in court proceedings since 2025 because the landlord was not paying the building's mortgage. The landlord sold the building overnight and the new owner simply showed up without us knowing anything. We are the ones who live here. We are the ones who suffer when there is no maintenance and we have to deal with leaks, mold, cockroaches and mice. Yet when the time comes to sell the building, we are the last to find out and have no say in what happens to our homes.
+
+This is why we are asking City Council members today to pass COPA, so that tenants and community organizations will have the opportunity to participate before a building simply passes from one landlord to another. We ask you to stand with the tenants and the families who have lived in these communities for years. We need long-term affordable housing and safer living conditions. Thank you.
+
+**(04:45:31)**
+
+
+
+This is your... notable person... by us. Okay, I think... hello. Good afternoon. So it will matter to us a lot.
+
+**(04:46:00)**
+
+
+
+We represent the Fundación Venezolana Esperanza. We have learned something primordial: a community is not only transformed through repairing buildings. It is transformed when we transform the lives of the people that live inside of them. In the Bronx, we have worked in houses repairing bathrooms, pipes, walls and businesses, and at the moment of entering the houses we discover a reality that a lot of times cannot be seen from the outside. That is why we pose the question: if immigrants are the workforce that builds the city, how do we also become part of the opportunities that this city builds? Because it is not enough to build. We have to build community. We need housing but we also need employment, training and ownership opportunities for our young, and protection for our elderly.
+
+**(04:47:07)**
+
+
+
+That is why it is important to participate, to share our experience with housing, with companies and quality and responsibility. We do not want to simply be renters. We want our families to participate in transforming their own neighborhoods because housing should not only be a roof — it should be a door to an opportunity. Preserving our community does not only mean preserving walls. It means preserving its people. And when we give opportunities, we generate training for our young, we strengthen our families and we generate work. We are not only repairing buildings. We are building the future. That is why the Fundación Venezolana Esperanza says today: let us generate work, let us build housing, let us preserve community and let us build together the future of the Bronx. Muchas gracias.
+
+**(04:48:39)**
+
+
+
+My name is... and today I speak on behalf of the Fundación Venezolana Esperanza, and we have learned something...
+
+**(04:49:00)**
+
+
+
+Primordial: a community is not only transformed through repairing buildings. It is transformed when we transform the lives of the people that live inside of them. In the Bronx, we have worked in houses repairing bathrooms, pipes, walls and businesses, and at the moment of entering the houses we discover a reality that a lot of times cannot be seen from the outside. That is why we pose the question: if immigrants are the workforce that builds the city, how do we also become part of the opportunities that this city builds? Because it is not enough to build. We have to be a community. We need housing but we also need employment, training and ownership opportunities for our young and protection for our elderly.
+
+That is why we see in COPA an important opportunity to preserve our communities and fight against displacement. But from our experience we want to be clear: housing should be defined by maintenance, quality and responsibility. The Bronx does not need more negligent parties. It needs solutions. We want our young to learn and grow. We want to strengthen our families. We want to generate work. We want the families to participate in the transformation of their own neighborhoods because housing should not only be a roof — it should be a door to an opportunity. Preserving our community does not only mean preserving walls. It means preserving its people. And when we give opportunities and generate training for our young, we strengthen our families and we generate work. We are not only repairing buildings. We are building the future. That is why the Fundación Venezolana Esperanza says today: let us generate work, let us build housing, let us preserve community and let us build together the future of the Bronx. Thank you.
+
+**(04:52:35)**
+
+
+
+Thank you. One of these... I just asked them to share their address with me after the hearing. Well, thank you so much. Thank you. All right, so this is panel 13 of 24. So when you asked me if you can conclude, please do conclude. Otherwise we will not be able to get to everyone because I have to pick up my children and there are no other Council members here. I was going to handle... there are no other Council members here. Okay, so next up we have Christopher Femals, Mohammed Corum, Matthew Dunbar, and I am so sorry for all my mispronunciations. Thank you.
+
+**(04:53:48)**
+
+
+
+Whoever is ready can begin. Sure. Good afternoon. My name is Christopher Ethanol with the Small Property Owners of New York and we are here today to continue to oppose any version of the COPA Bill. We are operating in an environment where policies increase the cost of owning and maintaining regulated housing, which can potentially increase the number of buildings that meet the distress criteria that trigger COPA. In other words, the government can create the conditions of distress and then create a mechanism to transfer the distressed properties to qualified entities.
+
+New York City's small property owners are not simply investors. Many are families who have owned buildings for generations and provided housing through economic downturns, recessions, the pandemic and decades of changing regulations. They are an essential part of New York City's housing infrastructure. For small owners, the problem is cumulative. A small owner can simultaneously experience a need for capital repairs, deferred repairs or inability to complete work immediately, more violations, complaints, higher legal and compliance costs, reduced building cash flow and value, and difficulty refinancing or obtaining insurance — all of which leads to financial distress and placement in another City program, which could trigger COPA.
+
+The City should not create a system in which small owners are squeezed financially, become distressed and then told that their distress justifies greater government intervention in the disposition of their property. If New York wants to preserve affordable housing, it must preserve the economic viability of the buildings that provide it. Do not regulate responsible small property owners into distress and then use that distress as the justification for taking their buildings out of the private market. Thank you.
+
+**(04:55:44)**
+
+
+
+My name is Matt Dunbar and I am the Chief of Staff with Habitat for Humanity in New York City and Westchester County. We build and preserve affordable homes with working class New Yorkers in New York City and Westchester County. I first just wanted to say that we fully endorse the Community Opportunity to Purchase Act and the opportunity for nonprofits like Habitat to be able to have a first right of...
+
+**(04:56:07)**
+
+
+
+...offer to purchase properties. In our case, we would be purchasing them in order to transfer them to tenant ownership. So I think that is one of the essential aspects of what is necessary in the market — more opportunities to create opportunities where tenants can become owners of their own properties. In addition to that, I also want to endorse 421-a reauthorization. It will also help to really support those co-ops and condos that are seeking to meet Local Law 97. I want to spend the remaining of my time to talk about the block-by-block plan, specifically the homeownership section of the plan, and to emphasize that it is critically important that the Council come alongside and budget for a lot of these efforts that are put forward in the plan.
+
+Right now, the City is looking, as we heard earlier, to do about 300 units a year in affordable homeownership new creation. Next year, about two thirds of that is the Habitat for Humanity portfolio of properties that we have planned to build. So the minimum requirement of 4% from 2% is extremely small and we urge the City and the City Council to be more ambitious when it comes to creating affordable homeownership opportunities. That includes what we are really excited about, which is the Our Home program. We are looking forward to seeing that term sheet because that is a critical aspect of how we can create more affordable homeownership opportunities — not just out of properties that are distressed but looking at Low-Income Housing Tax Credit 15- or 30-year deals, looking at the Affordable Housing Retention Act that was passed by the State in two sessions ago, looking at rent-stabilized buildings before they become too distressed and really seeking to bolster the affordable homeownership stock. I will also mention we support the plus-one program and of course LLTs, and we urge the City Council to support operating funds for community land trusts like Interborough, which Habitat is a part of. Thank you so much for the opportunity.
+
+**(04:58:07)**
+
+
+
+Good afternoon, Chair Sanchez and the rest of the Housing Committee. I am Yolanda, speaking for Small Property Owners of New York. I wanted to come and thank CM Banks and his team, especially Kyle Graham, for their work on the monitors program for the DOB registration process. What seems like a very minor thing — sending in the name and contact information for the owner of your building and the management — is quite hard. You mail it in. We hear about it from our owners all the time. We enter it on our computers first, we then print out a PDF, we then mail in the media, sometimes certified. They then lose it. They never lose our checks — our losses are $13 checks, though they always catch those.
+
+So we do think it is important that this system be modernized in a way that lets them reach us when emergencies happen. One thing I want to point out is that this Bill started off as a conversation in the lobby of this building. We were here last year to testify against COPA, and in the hallway we managed to meet with CM Banks and some of his staff and point out some of the challenges of the Housing Code. This is just the first of many things we hope will be able to partner with the Committee and with the wider Council on. We have identified dozens of crazy rules in the Housing Code that probably have not made sense since the 1950s or 60s, and we would love to partner with the Council on addressing them.
+
+This is what good government looks like. We identify friction that creates pain for owners, for tenants and for everybody, and then we work together to fix it, rather than using that friction to beat owners over the head and then use COPA or something to take their property. Conversely, to that Bill from CM Banks that we support, I do want to say that we oppose Int 0649-2026. Ownership is already well documented with many other City agencies. Lobbyists are not the places to list who the minor owners might be. They are also not the people that can help you when you have a broken boiler or hot water issue, or need a repair, or have a question about how to pay your rent. That goes to the property manager. That goes to the operating partner, not to a child who might be the beneficiary of a trust somewhere. So we hope that you can focus on privacy and on ensuring good housing. Thank you.
+
+**(05:00:25)**
+
+
+
+Good afternoon, everyone, and members of the Housing Committee. My name is Mohammed Karuma. I am a lifelong Bronx resident. I am a tenant in Melrose and I am a member of Unitize for Housing Together. With them, I have begun organizing with my neighbors to struggle for repairs and against rising costs. I came here today prepared to describe to the Committee the 217 violations my building has had in the last year alone, but it felt right that I wanted to bring to you descriptions of the burden of rent placed on my neighbors. But that itself felt tired. It felt cliché, because at the end of the day ours is not a unique challenge or even a particularly severe one by the standards of the Bronx. Something like it is happening everywhere in our neighborhoods and in our borough. Furthermore, something like it is happening all across the City. The housing crisis is total. It consumes this City and it consumes this country. It places pressure on every household in our City. It presses on them like a pinched nerve.
+
+We ask ourselves, as we look at the news, why it is that it seems at times so crazy, why it seems Americans are acting out so much. We must ask ourselves what pressures Americans today are under, and we must ask ourselves what government can do to alleviate these pressures and what might happen if it fails in that duty. COPA means that a body dedicated first and foremost to affordable housing will get the first stake in tenancies, because the most necessary repairs can bring tenants together and build communities. It means our communities will have a real say in the management of our homes, that they will not be managed by someone who has no real tie to our communities, no real tie to our neighborhoods. It sets an example for other American cities to follow at a time when such an example must be set, when the housing crisis is only getting worse and it presses on almost every aspect of American life these days. I came here to ask the Committee to lead, to pass this essential legislation and to stay vigorous in attempting to find a solution to the housing crisis. Thank you.
+
+**(05:02:27)**
+
+
+
+Thank you very much. Thank you so much. Right on time. And folks from SONY, thank you for coming in. It is good to see you outside of the boom box. I hope you appreciate some of the shout-outs today. Just appreciate your feedback and look forward to more conversation.
+
+**(05:02:41)**
+
+
+
+Thank you all for your...
+
+**(05:02:42)**
+
+
+
+Thank you. And I just, from our last conversation, just a reminder: the most important thing you could do to solve the cost of housing in New York is reform property tax. It is our largest expense and makes everything so difficult. Thank you.
+
+**(05:02:56)**
+
+
+
+Can I get a quick show of hands from the audience if you plan to testify? Please keep your hand up. We just want to count the minutes. Okay. Thank you so much. The next panel: Oksana Mironova, Judith Knappe, Ariel Hirsch, Will Spinn and Zach...
+
+**(05:03:50)**
+
+
+
+All right. Please begin.
+
+**(05:03:56)**
+
+
+
+Chair Sanchez, thank you for the opportunity to testify. My name is Ariel Hirsch and I am the Director of Policy. For 50 years we have empowered low and moderate income tenants to take control of their housing and become homeowners in the buildings where they already live. We are excited about this housing...
+
+**(05:04:11)**
+
+
+
+...plan and found the emphasis, particularly on tenant protection, preservation and homeownership, to be really meaningful. Now is the time to really deliver and we are excited to see how these things play out. I want to highlight a story — we will submit written testimony that has more things in it — but we recently have been working with the Duck Liver Portfolio tenants in 88 homes in Crown Heights, where tenants organized for nearly a decade. They have been through decades of disinvestment, fraud, overcharges, leaks, roaches, mice, rats, collapsed ceilings, everything you can imagine, and finally abandonment by their owners. It took dedicated organizing from those tenants, support from organizers, help from legal services and the full suite of code enforcement programs and litigation to get this negligent landlord out of these buildings. I am really excited to announce that on Wednesday they have a new owner, and they are headed towards a full renovation and preservation of their homes and conversion to cooperative homeownership — their ultimate goal that they have been fighting for.
+
+It highlights so many of our needs for tenant protection and preservation programs that we are discussing. Fix the City could have brought these resources together instead of a scattered, as-things-come approach. COPA or a similar program really could have intervened to begin the preservation process the last time these buildings were sold in 2018, or at any number of these really intense events over the last 10 years, before we reached total abandonment. Programs like our home program, we hope, will still fund the rehab now that we are here, but we could have used these things many years ago. By this point, the only thing that gets to the root cause of these issues is ownership transfer and comprehensive preservation, where we can address the root cause of these conditions. We will submit written testimony with the rest, but thank you so much.
+
+**(05:06:16)**
+
+
+
+Thank you. Really, thank you. Chair Sanchez, my name is Will Spinn, Policy Strategist at New Economy Project. I help coordinate the New York City Community Land Initiative, the coalition that has championed COPA since 2020 — before it was cool — alongside hundreds of groups and thousands of working class New Yorkers across the City. I want to make three key points in my testimony today.
+
+First, COPA is a proven and urgently needed tool to address the affordability crisis. Even the most ambitious targets for new construction will fail to address the crisis unless there is a robust preservation strategy. Cities like San Francisco have implemented COPA and preserved thousands of affordable homes. COPA could have a similar impact in New York City, keeping tens of thousands of tenants housed, ensuring permanent affordability and homeownership.
+
+Second, Int 0905-2026 has been carefully adapted to the New York City context to protect multi-family buildings in greatest need of preservation. COPA covers multi-family properties with persistent physical distress or expiring affordability restrictions — conditions that make these buildings prime targets for speculators and frequently lead to tenant displacement and lost affordability. Under 300 buildings sold last year would have been covered by COPA based on our analysis. That is about 1% of real estate transactions in 2025, but for those families who called those buildings home, COPA is transformative, giving them a fighting chance to stay in New York City. New York's COPA legislation reflects over five years of careful City Council deliberation, broad public input and learning from San Francisco and other cities that have implemented it.
+
+Finally, COPA levels the playing field for vetted organizations to compete in a housing market under extreme speculative pressure. In closing, I just want to mention that Int 0905-2026 is a clear, equitable and proven policy that will help New York City address the worsening affordability crisis. This Bill is backed by a strikingly broad coalition that includes hundreds of tenant associations and homeownership advocates, community land trusts and nonprofits, mission-aligned for-profit housing developers, organized labor, development financial institutions and credit unions that finance affordable housing, youth and senior advocates — and many, many others. We are already ready to ensure that COPA is effectively implemented. The City Council has this momentous opportunity to pass COPA and help keep working class New Yorkers housed. The Mayor is ready to sign it. It is time to get this done. Let us pass COPA once and for all. Thank you.
+
+**(05:09:00)**
+
+
+
+Thank you, Will. See, people still have energy. You have been rallying since nine. Thank you so much, Will. Thank you so much, Ariel. So next up we have Samia Bender, Linda Peterson, Joshua Santiago, Vivi Carter and Karen Bias. Get here? Yes, come on up. Yeah. When?
+
+**(05:09:40)**
+
+
+
+Please begin when ready. Okay. Hello. I hope I said it right. Thank you. Good afternoon. My name is Linda Peterson. I live at 2070 University Avenue, right next to the Francis Martin Library, Apartment One. I am a member of Our Bronx and the leader of the Housing Steering Committee, fighting for tenants' rights. I have lived in my building for 42 years and work to bring our neighbors together and organize to get repairs done. The rent has gotten much too high, especially for new tenants. This is not just in my building but all around the City.
+
+When I have a problem I call 311, and then they ask me if I want to be anonymous. But I want my landlord, Chestnut Holdings, to know that I put in the complaint and my issue has not been taken care of. If it were taken care of, I would not have to put in the complaint. But a lot of my neighbors do not know about their rights and they suffer through poor conditions. We have been fighting for these rights for so long, so I am always going to speak up for them. I am testifying so that the landlords who are not doing what they say they are going to do move on, so that the residents can have an opportunity to own our building as a community and to make sure that the right people are buying and managing our buildings and taking care of our needs. It can help us stay in our community and not get pushed out when big investors try to buy up our buildings.
+
+When I watch the news and I see how my neighbors in the Bronx have to deal with holes in the ceilings, no elevators working, big fires in their buildings, I say a prayer and I think this is why we need more people to come together and to fight for our rights and for a law like COPA. COPA would help keep us safe. I just want to say: please pass COPA as soon as possible. Thank you so much.
+
+**(05:12:05)**
+
+
+
+Thank you. Okay, get up, press the button.
+
+**(05:12:16)**
+
+
+
+Good afternoon, Miss Sanchez and City Council. My name is Maureen Davis and I am here to speak about COPA. COPA and safer homes are important to me. COPA can help protect buildings from being purchased by large investors who fail to maintain them and neglect them, or displace longtime tenants. Giving trusted community organizations, community land trusts and community-based developers an opportunity to purchase these buildings can help keep housing affordable and properly maintained. Safer homes would give the City stronger tools to hold landlords accountable when they repeatedly fail to maintain their buildings or allow dangerous conditions to continue. For me, this is about more than just fixing buildings. It is about protecting our homes and our community. I want to be able to stay in the Bronx...
+
+**(05:13:30)**
+
+
+
+...and feel proud of where I live. I want my neighbors to know that their homes will be safe, affordable and properly maintained — not places where you have to worry about mold, pests, broken elevators, bad repairs, unsafe floors or appliances that do not work. When I think about the Bronx 10 years or 20 years from now, I want to see a Bronx where families can stay in their community, seniors can remain in their homes, buildings are properly maintained and tenants have a real voice in what happens in their housing.
+
+**(05:14:15)**
+
+
+
+Thank you. Thank you so much. Extra points for you — right on time.
+
+**(05:14:26)**
+
+
+
+Thank you to the City Council and to you, Miss Sanchez, for being here on this lovely day. My name is Joshua Santiago. I am a lifelong Bronx resident, living in Norwood, Bronx, New York. I am a member of my community through Norwood Cares and I have been invited graciously by Our Bronx to speak today. I was recently selected as a voting member of Community Board Seven, and I am actually on the Parks Committee, though I have a huge commitment to housing. Though I am not yet a renter in New York City, when my time finally comes I would like the opportunity to gain an apartment and hopefully be able to hold onto it for a long time, because the chances are I would likely be staying in that apartment for a good amount of my life, as many renters in the City are bound to be. The point of rent is, of course, to be able to retain something for a short amount of time, though if we were to take a look at the housing prices and the ongoing payments of rent, if we were to continue spending all our money on our apartments, we would pay for them less than twice over. So the option for renting to buy should be a no-brainer for the City Council.
+
+I am someone who would like to spend the rest of my life in the City and not have to move out in order to continue my life, especially when I contribute so much to my community — and so many New Yorkers contribute to their communities as well. The ongoing pushing of renters outside of the City is a major concern of mine, and so I would like to advocate for all New Yorkers to be able to stay in their homes for as long as possible. Thank you so much.
+
+**(05:16:49)**
+
+
+
+Thank you so much for your testimony. Thank you so much to this panel. Oh, sorry, yes, go...
+
+**(05:16:55)**
+
+
+
+My name is Sammy Binder. I am a research and data analyst at our ranks. I am grateful to testify today about the impact that the Safer Homes Act and COPA would have in preserving safe, affordable and dignified housing for all New Yorkers. In the Bronx, tenants in some of the most physically and financially distressed buildings have been raising the alarm for years. The Safer Homes Act can be a critical break in the cycle of inadequate enforcement and ongoing neglect that these tenants face.
+
+To take one example, nearly 200 buildings in the Bronx have been selected for the Alternative Enforcement Program more than once since the program started. These repeat offenders show that in many cases the current standard to be released from enforcement is too low. The Safer Homes Act would create real accountability where it matters most. Either owners can work with the City and tenants to guarantee their rights are met, or if not, their property can be transferred to someone who will.
+
+As large investors move quickly to buy up distressed buildings only to keep them in bad condition and leverage them for future profit, COPA would give responsible, community-driven organizations the support they need to step in and stabilize neighborhoods. In your district, Chair Sanchez, over a third of COPA-eligible buildings have been sold in the last 10 years, including seven buildings that have been sold more than once. This turnover shows that speculation drives our real estate market rather than an end goal of New Yorkers having a safe place to live.
+
+As owners have squeezed what they can from the rent rules, every month over a thousand families across these buildings have had to deal with unhealthy homes, deferred maintenance and landlord harassment. COPA could change that. At 1 Wakefield Place, where tenants have been organizing with our Bronx this year, some of whom are also testifying today, their building has faced foreclosure and tenants have had to deal with the limbo of unaccountability that comes with that process.
+
+Multifamily foreclosure filings are on the rise in the Bronx. There have been 148 five-plus unit properties with filings in the first nine months of 2026, nearly half that of the previous three years combined. Of those 148, there are 33 that would have been subject to COPA and through organizing and negotiation with the current distressed owner might instead be put on track to stabilization with a preservation purchaser. The City Council must pass COPA and the Safer Homes Act as soon as possible. Thank you.
+
+**(05:19:12)**
+
+
+
+Alright, for real this time. Thank you so much to this panel, appreciate it. Next up is Kevin Wolf, Rebecca Pool, Lucas Sitarski and Jacob Snyder. Alright, four names, four people. OK.
+
+**(05:19:42)**
+
+
+
+And whoever is ready can begin. Ready? Thank you, Chair Sanchez, for the opportunity to testify in support of...
+
+**(05:19:58)**
+
+
+
+COPA. My name is Jacob Schneider and I am the Senior Program Manager for Research and Policy at the East New York Community Land Trust, which fights displacement and real estate speculation in East New York and Brownsville through community-centered organizing and community ownership of permanently affordable land and housing.
+
+We fully support COPA and urge the Council to pass it now. Our communities, like so many others across the City, deal with a problematic status quo. Investors and speculators from outside of our communities purchase buildings and milk tenants for profit, using rental income to line their pockets instead of maintaining and repairing their buildings. When buildings are sold, often without tenants having a clue that the owner is selling, another faceless buyer purchases it with the same goal: profiting on the backs of Black and Brown tenants.
+
+This cycle continues apace and each time is a lost opportunity for tenants to have affordable, stable and well-maintained homes. COPA is a tool for tenants, community land trusts and other organizations committed to providing safe and decent affordable housing to counter the status quo.
+
+Based on our analysis of sales in East New York and Brownsville from 2016 to 2025, we found that 80% of buildings with four or more units were purchased by outside investors. We have organized tenants in several of these buildings and most have had to beg for even the simplest of repairs.
+
+COPA targets slumlords who value profit more than the welfare and dignity of their tenants, who tend to be Black and Brown. Based on our citywide analysis of properties that would be COPA-eligible, East New York has the fifth highest number of properties eligible for COPA in the City and Brownsville ranks eighth. Nearly all of them qualify because they are buildings showing signs of sustained physical distress.
+
+This is not new. Our citywide analysis of properties that would likely be eligible for COPA shows that more than 75% of these buildings and more than 80% of all COPA-eligible units are located in communities that are majority Black and Brown.
+
+We urge the Council to pass COPA now. COPA is a powerful yet targeted tool that works towards both housing and racial justice. For Council members that have reservations about COPA, they must ask themselves: are you fine with this status quo? Do you want to deprive Black and Brown tenants working with vetted nonprofits of the chance for dignified, stable and affordable homes? If the...
+
+**(05:22:15)**
+
+
+
+...answer is no to these questions, then you must be a yes on COPA. Thank you.
+
+**(05:22:25)**
+
+
+
+Good afternoon, Chair Sanchez, members of the Committee, thank you for holding today's hearing. My name is Lucas. I live in Jackson Heights, grew up in the East Village where I can no longer afford to live, and now work as a Program Manager at the Cooper Square Community Land Trust. I previously worked as a tenant organizer at Asian Americans for Equality, or AAFE. At AAFE, I worked with tenants in one building who were strung along with false promises. In another building owned by a landlord listed as one of the worst in the City, tenants showed me videos of water pouring through frames during rain and collapsed ceilings left unfixed for months. Letters demanding repairs went ignored. But it does not have to be this way.
+
+Working at Cooper Square Community Land Trust, I have seen a different model. As the oldest active community land trust stewarding housing in New York City, residents pay rents far below market rate and buildings are managed by professional staff under a democratically elected, resident-controlled board with real oversight over repairs and renovations. The land trust also serves as a third-party monitor through a regulatory agreement where residents have a real stake, a real voice and real control over their housing. It is a model being replicated citywide and one COPA would help expand.
+
+COPA would give tenants and qualified nonprofits a fair chance to pursue preservation before buildings are lost to speculation, letting the CLT and other community-based organizations partner with the City to protect affordability while easing pressure on our own resources. I urge the Council to pass COPA. It will not fix every problem tenants face, but it is a real tool to help people stay in the communities they have built. Thank you for...
+
+**(05:24:17)**
+
+
+
+...your time.
+
+**(05:24:22)**
+
+
+
+Good afternoon, Chair Sanchez. Thank you for the opportunity to testify. My name is Rebecca Pool and I am the Director of Membership and Communications for the Council of New York Cooperatives and Condominiums, a member-funded not-for-profit organization providing information, education and advocacy for co-ops in all five boroughs. I must say it is great to be in a room full of people who appreciate the community benefits of co-op housing. That does not always happen.
+
+There are over 730,000 existing co-op and condo households in New York City. Co-op and condo homeowners, self-funded, have preserved New York City's housing stock, have stabilized neighborhoods and are vested in the City. Years of pursuing the best possible quality of life for the lowest possible cost have turned co-ops and condos into bastions of naturally occurring affordable homes.
+
+Yet the majority of these existing co-op and condo homeowners were not included in the all-of-the-above, block-by-block approach to solving the City's housing challenges. Where are the educators, nurses, municipal workers, journalists, musicians and others who have scrimped and saved and already bought into New York co-ops and condos? Where do they fit into New York City's future?
+
+Block by block references meetings to discuss efficiencies in compliance, the targeting of bad actors and a review of overlapping laws. These are all changes we have worked for and promoted, and yet free-market co-op and condo homeowners and advocates have not been represented in those discussions, and it shows in the plan. The same is true for the Thornton Thomas report and its recommendations, which now lead to concerns that changes will not help co-ops, most of which are older than 40 years and will not qualify for that existing J-51 benefit.
+
+Co-op and condo homeowners from all five boroughs... thank you for J-51. I will just conclude with that. Too slow...
+
+**(05:26:29)**
+
+
+
+We all just have to hang out.
+
+**(05:26:30)**
+
+
+
+We just have to go to the bar and you guys can tell me all the things. I will read your testimony. Thank you. I will try to make this quick.
+
+Good afternoon and thank you for the opportunity to testify. My name is Kevin Wolf and I am the Deputy Director for Advocacy at the Center for New York City Neighborhoods. We are one of the largest nonprofit homeowner service organizations in New York City and we have helped over 200,000 homeowners since we were founded. Each year we save more than 2,000 homeowners from foreclosure.
+
+I am here today to speak in strong support of the Community Opportunity to Purchase Act. COPA represents one of the biggest opportunities to expand homeownership for tenants who live in our City. I am going to tell you a story about a tenant by the name of Lewis. Lewis has lived in his Queens apartment for over 30 years and like all New Yorkers he has a right to a safe and habitable home, but his landlord's failure to maintain the building threatened that basic right. Lewis watched his five-year-old face serious danger when paint chips began to fall off the walls and onto the floor, creating a choking hazard. Leaks caused the kitchen cabinets to rot and in the middle of winter the family went two weeks without heat and hot water, contributing to his child being seriously ill. When the repairs were done, they were done poorly, and when they were not done, the tenant was forced to live with the consequences.
+
+Unfortunately, Lewis's experience is not unique. New York City is facing an affordable housing crisis where more than a third of New Yorkers are rent-burdened and speculative investors and predatory landlords can buy buildings, raise rents, displace tenants or allow properties to deteriorate, all while cashing out. The City is right that we need to build more housing, but we cannot build our way out of the crisis. We need to preserve the affordable homes New Yorkers already have, and that is why COPA matters.
+
+COPA would give vetted nonprofits and nonprofit joint ventures the opportunity to purchase certain at-risk multifamily properties. COPA does not take away the owner's right to sell. It gives mission-driven organizations a fair opportunity to purchase distressed buildings and keep them safe and affordable. So on behalf of tenants like Lewis, who has spent years fighting for his home, on behalf of those who work and pay taxes, raise kids and play by the rules, on behalf of hard-working New Yorkers who make up our forgotten middle class, we urge the City Council to pass COPA. Thank you. Thank you so much.
+
+**(05:29:06)**
+
+
+
+Appreciate it. OK, moving next to Local 79 again. We have John Simmons Butler, Alberto Gonzalez, Manuel Andrade and Nisha Heron and Jermaine Johnson.
+
+**(05:29:50)**
+
+
+
+Good morning. My name is Jamal Butler and I am from Staten Island. I work for a concrete contractor on affordable housing projects and residential conversion projects. When I was working, I struggled to pay for my health insurance. I was making $25 an hour but at the end of the month I still had to pay something like $485 out of my own pocket to get my own health insurance. I needed this health coverage because I have one of the most dangerous jobs. I was grinding concrete and cement and all of it would go straight into my face. I used to look like somebody beat me with a bag of flour. Someone told me, watch out, silica will creep up on you. So I bought my own respirator and my own health insurance, but then I had no money left at the end of the month. There were times I would not even get paid on time and my check would bounce. I needed to take on a second job to make ends meet. My coworkers and I worked ourselves to the bone. We got so tired it created safety problems and falling objects almost took my life multiple times.
+
+**(05:31:14)**
+
+
+
+Too many construction workers are getting exploited on job sites receiving taxpayer money or public benefits. These contractors should pay us enough to live and afford health care, not run us into the ground and leave us with no savings. No one could tell me that we do not deserve to make $40 per hour. Workers on office-to-residential conversions need these protections because they can be very complex and dangerous projects.
+
+**(05:31:50)**
+
+
+
+Paying construction workers fairly and hiring from local communities...
+
+**(05:31:57)**
+
+
+
+...and establishing the Construction Justice Act will improve job safety and productivity. Thank you.
+
+**(05:32:06)**
+
+
+
+He is going to read it in Spanish and then I will translate.
+
+**(05:32:14)**
+
+
+
+[Spanish testimony - untranslated]
+
+**(05:33:00)**
+
+
+
+[Spanish testimony continued - untranslated]
+
+**(05:33:18)**
+
+
+
+[Spanish testimony continued - untranslated]
+
+**(05:33:26)**
+
+
+
+[Spanish testimony continued - untranslated]
+
+**(05:34:06)**
+
+
+
+[Spanish testimony continued - untranslated]
+
+**(05:34:49)**
+
+
+
+My name is Manuel Andrade. I am a member of Local 79. I work for a non-union demolition company called Vanquish, which works on various residential projects and office-to-residential conversions. I was paid through a labor broker. I was paid $22 an hour and I did not receive medical or retirement benefits.
+
+When I had an accident on the job and hurt my foot, my supervisor told me not to tell anyone about the accident. I had heard stories of other coworkers who lost their job after a work accident. I needed a job to pay my bills, so I did not report it. Since I did not receive medical benefits from Vanquish, I explained to the hospital that I could not pay and luckily my costs were covered by New York City Care public service. After the accident, I could not work for two weeks. I still have pain in my foot. At the time I did not have to worry about the cost of going to the doctor. How different would the result have been otherwise?
+
+We have to ensure that residential contractors and labor brokers do not have the opportunity to put more individuals in the situation I was in. All construction workers deserve a safe working environment and the ability to report an accident without fear. This is why I am asking for the City to enforce all provisions of the Construction Justice Act and especially not to exclude workers on office-to-residential conversions. Thank you.
+
+**(05:36:29)**
+
+
+
+Thank you so much.
+
+**(05:36:30)**
+
+
+
+My name is Alberto Gonzales. I am a proud member and labor organizer for about 10 years now. Before this I worked nonunion construction for residential contractors who benefit from City subsidies, including renovation and preservation contractors. I made near minimum wage with no health insurance from my employer. I had a situation where my appendix burst and I had to go without health insurance. I ended up with nearly $30,000 in medical debt. And just recently I had a similar medical situation and thankfully this time all my medical bills will be covered by my insurance provided by the union.
+
+New York construction workers are injured at three times the rate of other workers, yet we perform difficult and dangerous jobs. I was already struggling financially with over half my paycheck going to housing and transportation. There are too many in our community, especially immigrants from low-income backgrounds, who are forced to accept these jobs because they have no other options. On construction job sites I hear too many stories of bosses taking advantage of workers because of their parole or immigration status to keep them trapped in these poverty-level jobs.
+
+When workers do not have health care or retirement contributions from their company, they are likely to rely more on taxpayer-funded resources and programs from the government. Over the past decade, the City Council has done great work to pass legislation to raise wages for fast food workers, hotel workers, taxi drivers and delivery workers. In 2019, the City Council set a new wage standard, which is now above $40 per hour for building service workers on City-financed projects, most recently passing the Construction Justice Act, which is a key part of the City's housing plan. We cannot delay or deny these essential protections for the workforce building our City's housing. The City must fully support and enforce the Construction Justice Act to lift those who built this City through City-subsidized affordable housing out of poverty and help them become part of the middle class. Thank you for your time.
+
+**(05:38:55)**
+
+
+
+Thank you so much to this panel. We are going to have Lloyd Fang, Eustace, Chris Man, Ramona Davidson and Justin sharing. For folks that are testifying after 4:05, one of my colleagues will be here to listen, as I have to go, but I will be listening online. Okay. Farook Guadalupe, who is from... FCC... Mohsen Salmon. Thank you. I think they all... Pria... Sorry, I am going to get this wrong. Wu Gown Car from Greenrock, Jack Connors from Open New York, Jermaine Nathaniel Glynn. Hey, come on up. Thanks for still being here. That chair right there. And then whoever is ready can go when you are ready.
+
+**(05:40:13)**
+
+
+
+All right. Good afternoon, Chair Sanchez. Thank you so much for this opportunity to speak. My name is Lloyd Fang and I am the Associate State Director of Advocacy with AARP New York. I am here today on behalf of our 750,000 members in New York City and the millions of New Yorkers age 50 and older who call the five boroughs home, to indicate that we strongly support the Community Opportunity to Purchase Act and we urge the City Council to pass it as quickly as possible.
+
+New York City's housing affordability crisis is clearly an aging issue as well. Older adults are the fastest growing age group in New York City today. New Yorkers age 65 or older have increased 50% since 2000. At the same time, nearly one in five older New Yorkers lives in poverty. More than 60% of older adult renter households are rent burdened, meaning they spend more than 30% of their income on housing. For an older New Yorker living on a fixed income, the sale of the apartment building that they live in can bring tremendous uncertainty. A new owner can mean pressure to raise rents, changes in building management and conditions, as somebody heard already, or displacement from a neighborhood someone has called home for decades. This dynamic is particularly precarious for older New Yorkers who need to age in place. COPA addresses that dynamic by giving qualified nonprofit organizations a first opportunity to purchase multi-family buildings. COPA can help move at-risk housing out of the speculative market and preserve it as permanently affordable housing. This is
+
+**(05:41:50)**
+
+
+
+particularly important for our older adults. Aging in place is about so much more than just remaining within the apartment that they know. It is about staying close to doctors, family members, friends, houses of worship, older adult centers and the neighbors that they can rely on. When an older adult is displaced, they lose the communities that they have known and grown accustomed to.
+
+Ultimately what this comes down to is how do we achieve aging in place and make it a reality for more and more New Yorkers. With COPA, we can do that. We can make New York take a much greater step forward toward fulfilling New York's promise as a city for all ages. Thank you.
+
+**(05:42:37)**
+
+
+
+Good afternoon, Chair Sanchez. Thank you for allowing me to testify before the Committee today. My name is Ramona Davidson and I am the Executive Director of West Side Federation for Senior and Supportive Housing, called WSFSSH. Thank you, Chair Sanchez for the opportunity to testify. WSFSSH develops and operates housing and provides supportive services to 2,500 extremely low-income older adults, many who are formerly homeless, across a portfolio of 31 buildings in Manhattan and the Bronx.
+
+With 20% of New York City's population being older adults, well over half with no retirement income, 62% rent burdened, and older adults being the fastest growing homeless population in New York City and the nation, the need to scale up affordable senior housing is clear. However, we are concerned that the administration's current housing plan does not address the needs of extremely low-income seniors at a time when it is needed most. The overwhelming majority of our tenants have incomes at 15% or less of area median income. This means traditional tax credit affordable housing is not an option for them unless they also have a rental subsidy. The SARAH program, which pairs housing with project-based Section 8, has been a lifesaver for older adults, given that a senior's income will only go down as they age. We are concerned that the City is not building more SARAH housing because there is a Section 8 shortfall. New York City should not abandon 100% senior housing because of a lack of federal subsidies. Building affordable senior-only housing is a cost-effective way to provide affordable senior housing. When paired with services, it provides a unified solution to the housing, nutrition, safety, socialization and health and wellness needs of older adults. With limited service dollars to pair with housing, 100% senior housing provides an opportunity to efficiently scale services expertly tailored to meet the needs of older adults in a way that is not possible with multiple age groups.
+
+We urge the City to find alternative ways to create senior housing with project-based subsidies until the federal funding situation improves. Thank you.
+
+**(05:44:42)**
+
+
+
+Good afternoon, Chair Sanchez. Thank you for allowing me to testify before the Committee today. My name is Ramona Davidson and I am the Executive Director of Communities Resist. We are a housing rights, legal services, organizing and advocacy nonprofit that represents low-income and working class tenants in Brooklyn and Queens. Last year we served more than 1,500 tenants through legal casework, provided education and guidance to thousands more, organized tenants at dozens of buildings and secured millions of dollars in critical repairs, harassment penalties and more for renters in some of the most vulnerable communities in New York. We see firsthand every day the effects of predatory landlords and developers who try to force out families and break apart communities in order to reap maximum profits from residential redevelopment.
+
+I speak here today in strong support of Int 0905-2026, the Community Opportunity to Purchase Act. Giving community land trusts and qualified nonprofits the right and the opportunity to purchase at-risk apartment buildings will be a valuable tool for preventing the displacement and disruption of our communities by predatory real estate developers and speculators. Over and over again in our work at Communities Resist, we have seen New Yorkers harassed and abused by callous landlords who are trying to force out low-income and working class families so they can sell or flip properties into luxury buildings. This Bill evens the playing field just a bit, so that qualified, proven, financially viable nonprofits and community land trusts can submit competitive bids first.
+
+In a City facing one of its worst housing and affordability crises, with an ever-widening chasm of wealth and power, I am not saying that COPA is the answer to all of our problems. We still have much work to do. But this is a real and impactful tool that you have the opportunity to enact now, and which will provide a secure bedrock for our communities for generations to come. Thank you for your time and consideration, and I look forward to seeing this critical piece of legislation enacted as one more vital tool for fixing our broken housing system.
+
+**(05:46:49)**
+
+
+
+Good afternoon. I am an independent counselor, Lorna Daniel, authorized by the laws of the United States and authorized by the New York State Civil Practice rules, and Amendment Six of the Constitution. In New York City, councilmembers and housing co-sponsors have the right to the assistance of counsel. You can call me back when you can, or text me your questions at my phone number, 551-26..., with any legal questions you want to ask that I will legally answer you.
+
+From this statement of counsel, I will answer your most frequently asked question about your proposed amended Bill to authorize electronic registrations of New York City housing dwellings with the City of New York Housing Preservation and Development. What information must an owner provide to register a dwelling? You must electronically register your birth certificate. You must electronically register the beneficiary City of New York Housing Preservation and Development paid full coverage policy dwelling development certificate to secure and ensure every City of New York Housing Preservation and Development electronically registered dwelling development. Then you must electronically register your dwelling deed title search. You must electronically register a City of New York Housing Preservation and Development on-site property value appraisal. Then you must electronically register the official mortgage statement, an account of your dwelling's indebted principal and interest rate and mortgage loan payoff terms, if this financing obligation applies to your dwelling. And all New York City property tax dollars paid ought to truly be paid and allocated and committed to the New York Housing Preservation and Development public funding account. This is my civil public statement of independent counsel testimony for the City of New York. Thank you.
+
+**(05:49:40)**
+
+
+
+All right, so next up we have Vivid Carter, Karen Baez, Sochi Herrera, Theresa Billadsen, Julie Colon.
+
+**(05:49:56)**
+
+
+
+All right. I have some more names: Louis Farris, Jon Krinsky.
+
+**(05:50:11)**
+
+
+
+I see no one moving. Someone keeps saying names... Pizza Cora... Arthur Goodridge.
+
+**(05:50:23)**
+
+
+
+Last for last, baby!
+
+**(05:50:32)**
+
+
+
+All right, four seats for people. All right, whenever you are ready, you can begin.
+
+**(05:50:39)**
+
+
+
+Thank you for bearing with us. Good afternoon. Thank you, CM Sanchez for hosting this hearing. As you can see, the Bronx is in the house. My name is Julie Colon, a housing organizer at Our Bronx, a grassroots organization committed to
+
+**(05:50:51)**
+
+
+
+advancing racial justice and economic democracy across the Bronx. I have been organizing tenants for housing justice for the past eight years. I am also a lifelong South Bronx resident. I am also a mother to two young girls, raising the sixth generation of my family in New York City. I am here to share my experience, both personal and professional, so it is very clear to the Council why we need to pass both COPA and the Safer Homes Act. Many folks will talk to you about what both Bills do. As someone who contributes to the economy and the culture of the City, I want to talk to you about what daily life looks like for me.
+
+I start each day at 6:15 AM, today at 6:00 AM for the hearing, making sure my two kids get to school. One has to be in school by 7:45, the other one has to be there by 8:00. They are 10 blocks away. I take the six bus every day and every day investigators hold my bus for about 15 minutes and ask our entire bus full of working class people to show how we paid, then they scan that form of payment with a special scanner. Anyone who is not able to show, or who does not want to, because let us be real, I do not want to share my debit card... the bus is overly crowded and the bus schedules are unreliable, so I have to choose between squeezing in somewhere without paying because I cannot reach the fare scanner, or just waiting for the next one and being late. Late means both my kids are late to school. I am late to work. Repeated lateness leads to school suspension, work probation and stress. Today I chose to squeeze in and hope the special investigators were not investigating. Guess what, they were. I got a $100 ticket. As I said earlier, I am a tenant organizer working at a nonprofit. I do not have an extra $100. It is not even 8:38 AM and I have already been penalized just for being poor. That $100 fine is not just an inconvenience. It is a tax on poverty.
+
+And when I get to work, I see how that same systemic neglect plays out inside our homes. I spend the majority of my day working directly with buildings where Our Bronx organizes. All day long I hear about members dealing with black mold in their entire bathroom, how they tried to speak to the super about an emergency, et cetera, et cetera. I will end here by saying that the Safer Homes Act addresses this exact imbalance of power. It targets the worst of the worst landlords who allow serious building problems to continue. We need to pass the Safer Homes Act and COPA now. Thank you.
+
+**(05:53:01)**
+
+
+
+Thank you. Excellent. Thank you.
+
+**(05:53:04)**
+
+
+
+Good afternoon. My name is Sochi and I am a tenant organizer and have been living in the Bronx for 22 years. Through my work, I speak with tenants every day who are fighting for basic repairs, hot water, safe living conditions and simply getting in contact with their landlord. Increasingly, I have also been working with tenants whose buildings are facing foreclosure, financial distress or a change of ownership. Foreclosure is not just something happening between a landlord and the bank. Tenants live through the consequences. When a decision is made, tenants are often not the ones who have input on that decision. You do not know who is responsible for the building or who they should contact for repairs. So what happens next? The problems inside the building continue.
+
+As an organizer, I have to spend hours researching court documents, property records, owner information and other public records to understand what is happening to a building and to be able to explain it to tenants. That just shows you something about the system. Foreclosure does not just happen in isolation. Sometimes before we are even seeing a foreclosure case in our program information, tenants have already been organizing around years of violations, neglect and irresponsible ownership.
+
+This is why we support the Safer Homes Act, because it recognizes that the City needs a stronger way to intervene in these properties when they have reached a severe physical and financial distress. It creates a pathway to address some of the worst buildings and hold neglectful owners accountable. But we should not wait until buildings reach this point. COPA gives us another opportunity to intervene when qualified buildings are being sold and gives qualified nonprofits and community-based organizations the opportunity to preserve that housing.
+
+The Bronx has experienced enough disinvestment and has been harmed by instability. We cannot continue to allow distressed buildings to be moved from one irresponsible ownership to another while tenants are left to fight for basic conditions. Our tenants are doing their part. They are organizing, documenting conditions, calling agencies in, attending meetings, coming to these hearings and fighting for their homes. And the City must do their part as well. Thank you.
+
+**(05:55:29)**
+
+
+
+Take those two minutes. All right, all right. Thank you.
+
+**(05:55:34)**
+
+
+
+My name is Pete Sikora and I am with New York Communities for Change. I direct our climate, energy and jobs work, and I wanted to say that people downstairs have been very, very nice going in and out, and that has not always been the case for decades of Council stuff. They are just being super nice. That is much appreciated.
+
+The 51 thing is fantastic. Thank you for doing that and thank you for your leadership on these issues. The Council should pass that immediately. We also support COPA. With the 51 passing and Local Law 97 in place, the working class and middle income co-ops and condos that it covers, the projects that they are going to end up doing for energy efficiency and then getting a hundred percent of the cost paid for by the City — that is going to put them positive financially because energy efficiency saves money, so that is great. Besides saving money, it will also lower pollution and create lots of good jobs, so that is a great investment for the City to make.
+
+Of course it is insufficient because it covers property owners, which is great. These are working class, middle income, low income property owners who need help. Multi-family, that is good. We also urge the Council to expand on its energy efficiency support of $2 million in the last budget for heat pumps and energy efficiency in one and two family homes. We want to see that expanded to $20 million and we are pushing the Mayor to get that program up and running. But regardless, thank you again. People downstairs are very nice. I feel like that is the best part of my testimony.
+
+**(05:57:08)**
+
+
+
+Today. Have a nice day. Thank you. Note to the sergeant. Thank you.
+
+**(05:57:17)**
+
+
+
+Well, hello. Chair Sanchez is stepping out, and of course the members of the house — the better they can... Don't hold the mic. Okay.
+
+**(05:57:28)**
+
+
+
+So I want to address the foreclosure issue. A lot of people have been complaining about what I would call pure racism in this area. The defense of homeowners has been downplayed. The homeowner shift has gone so far that everything that is right for a homeowner has to go through a complaint process. So this is why we have to make sure they have clean hands. We have to make sure the equity is protected and that homeowners are not being put in a position where, like, after 60 years or more, they are set up. I have heard about a lot of that.
+
+**(05:58:41)**
+
+
+
+Homeowners that have been here for generations are being preyed upon by predatory equity and so-called deed fraud. Yes, fraud is the bigger issue. We need to make sure that the math adds up and that the statements are at the right level. Thank you for your time.
+
+**(05:59:29)**
+
+
+
+Okay. Thank you. Thank you so much. I want to give a special shout out to CM Carl Wilson from Manhattan, who is going to be taking over for me. I will be listening online, but I know the moms over here get it — you do not want your kids to be the last one getting picked up. So just thank you so much and he will call the next panel.
+
+**(06:00:02)**
+
+
+
+Okay. Okay.
+
+**(06:00:03)**
+
+
+
+Thank you, Chair Sanchez. Now acting Chair Wilson — has a nice ring to it.
+
+**(06:00:15)**
+
+
+
+Yeah, all right. It is the first time I have done this. So I am going to call the next panel.
+
+**(06:00:26)**
+
+
+
+Forgive me if I am pronouncing this incorrectly: Imani Solarzuno, Elizabeth Mackey, Sarah Delaney and Eric Lee.
+
+**(06:01:06)**
+
+
+
+Oh, yeah, yeah, yeah. All right. Good afternoon.
+
+**(06:01:12)**
+
+
+
+Chair Sanchez, the Mayor's Office, our deputies, acting Chair Wilson — thank you for staying to hear what we have to say today. Thank you for putting this hearing together and for listening to our concerns over the proposals discussed today. My name is Sarah Delaney and I am a community leader with CASA, which is Community Actions for Safe Apartments, which fights for safe and affordable housing in the southwest Bronx. Along with hundreds of my neighbors and Bronx residents, I testified at the rental ripple of hearings this spring and we are continuing to advocate for change that would keep us safe. I am a lifelong Bronx resident who currently resides in District 16 and who also grew up and still has many ties in District 12.
+
+There is a duality that needs to be addressed. We fix the visible issues of unsafe living conditions — mold, roaches, water damage, et cetera — while tenants and City agencies struggle to effectively hold negligent landlords accountable. There are also building sales which are muddled and tenants are not being informed. Like right now, Wavecrest in my building is going through a sale and we are still getting letters from Wavecrest, but the building was sold and we did not know anything about it. Those are the things that we are dealing with. We also need lower home and apartment insurance, which is very much needed in New York City. We also need self-certification for apartment rentals where only professional work is done, with proof and permits that are allowed to officially close them out. I also have to say that the disabled, the seniors and all tenants should have wraparound services created with organizations to assist with the technical changes of this digital age. We have to recognize and partner with tenant associations to strengthen their positions in these circumstances and instances.
+
+**(06:03:03)**
+
+
+
+I also have to say that the skyline of the Bronx has changed and we want to ensure a strong infrastructure for the electrical grid and the capacity to provide social services for the incoming residents. What is needed, and I will conclude soon, are the wraparound services to augment accessible services that are here to break the vicious cycle and to bring homelessness down. We no longer want the Bronx to be overwhelmed and underserved. Thank you.
+
+**(06:03:33)**
+
+
+
+I close with this. We also need to help one and two story homes to remain and make them available for New Yorkers who want them, and protect owners from displacement. I am asking that we help pass COPA and fund it — pass COPA and the Safer Homes Act — and let New York City move forward from there, teach others to move forward, to pay it forward. We want to allow these residents to stay safe and age in place, so come out and be part of the solution and not the problem. Thank you.
+
+**(06:04:04)**
+
+
+
+Hi. Good evening. My name is Eric Lee. I am the Director of Public Policy for Volunteers of America Greater New York, one of the largest mission-based affordable housing providers in New York City. Thank you, acting Chair Wilson, as well as Chair Sanchez and members of the Committee for allowing me to testify today.
+
+We were excited by the Mayor's Housing Plan. The Council and the administration must use every tool in your belt in order to address housing instability and lack of affordability, including quicker development and preservation strategies, streamlined processes to match people to housing and rental assistance vouchers to be able to pay their rent. We were heartened by the Mayor's Housing Plan. We were part of the speed task force. We look forward to working with his team as they continue to implement those recommendations.
+
+We also have a number of other recommendations. We are interested in supporting the match program. We have 20 shelters. We believe that providers are best suited to helping understand who can best utilize the very limited, precious resource of set-aside units and we look forward to working with realtors in the City in order to help quickly get them into permanent housing. We are also excited that the Mayor is focused on comprehensive improvements to shelter conditions. We just released a shelter conditions report and we hope that it can serve as a blueprint for the City to improve shelter quality citywide.
+
+Other things we think should be done: investments in headcount, in particular legal staff capacity, to be able to hasten the paperwork for financing processes so that affordable housing developers can get to the construction phase sooner. We also think they should expand headcount for the new CHAT program, given we have a very limited time frame in order to use the money for the rest of the fiscal year. We want them to really utilize the same urgency as the Emergency Housing Vouchers, trying to front-load eligible applicants now on the queue before the application window opens. Just very quickly: we support COPA. We also support CM Banks's preconsidered Bill around registration. We are actually seeing it slow down move-outs from shelter because small landlords are having issues getting online and it can take over a month just for that one step to get people out of shelter. Thank you for the opportunity.
+
+**(06:06:40)**
+
+
+
+Thank you. And just from the last panel, if Imani Solarzuno or Elizabeth Mackey is here... Okay. Then the next panel will be Jane..., Colin Ford, King Mattis. And that is it. You can go ahead and begin.
+
+**(06:07:43)**
+
+
+
+Go ahead and begin. You have two minutes. Cool. Thank you.
+
+**(06:07:54)**
+
+
+
+Thank you, acting Chair Wilson, for presiding, Chair Sanchez and members of the Committee for calling this hearing on COPA, which has the promise of increasing the proportion of larger residential owners like community land trusts who can categorically act consistent with stewardship and collective community well-being rather than only a narrow personal economic fixation. My name is King Mattis, born and raised in East New York, Brooklyn. I am an owner of a two-family property that is family and tenant occupied, which is outside of COPA, and I am a member of the East New York Community Land Trust. My family has lived in East New York, Brooklyn since the 80s.
+
+**(06:08:47)**
+
+
+
+The few families remaining from back in the day share a simple desire: a vibrant community we can call home. We welcome community land trusts and are rooting for COPA because, although not directly subject to it, our desires are more assured with it in place. We want more big landlords that value economic book value alongside experiential and future value. Call it stewardship, but really it is more than that. Residential housing seems to be increasingly treated as if it is a commodity — a food group for professional real estate — and that is inappropriate. It is to the detriment of small owners and our interests as a community. Unlike gold, sugar or oil, everyday people have to live in these assets.
+
+When I bring my nieces and nephews to meetings or see other youngsters there, my heart is warmed. I feel they see what I remember from meetings on my block growing up — planning block parties, talent shows, relay races, block-wide kickball and adult topics I cannot remember. They deserve that and more. We all do. COPA empowers organizations to be large residential owners that understand our housing stock and community assets — assets that people living in proximity to them care deeply about. Having a great block matters.
+
+**(06:10:50)**
+
+
+
+Community land trusts, as well as these nonprofit organizations, are group, professional, participatory, democratic organizations of residents and their neighbors that are organized around housing. Thank you. With that, I encourage the Committee to pass COPA and vote yes, as well as the City Council in general. Thank you.
+
+**(06:11:24)**
+
+
+
+Good afternoon to all — everybody that was here earlier today. Thank you for listening to us. My name is Mercedes... and I am a tenant and maintain an association at 8700 in the Bronx. I am also a volunteer leader with CASA, Community Action for Safe Apartments in the Bronx. I am here in support of the Community Opportunity to Purchase Act, COPA, and the Safer Homes Act.
+
+For six years, my building's tenancy has lived with bedbugs, rats, roaches, windows that do not work, fire escape risks and no heat and hot water. Our building was sold in February with no notice and no opportunity to have a mission-driven buyer step in. The owner left us with uncollected credit after bankruptcy. The new owner sided with 14-day notices and court cases. We are now trying to get lease renewals with help from Bronx services while fighting for repairs.
+
+If COPA had been law, a qualified nonprofit could have had the first opportunity to buy our building and preserve it as truly affordable, instead of us going from one speculation cycle to the next. COPA is prevention — without it, tenants only get help after the sale, after the despair, after the eviction notice. I urge the Council to reintroduce and pass COPA and to give tenants and nonprofits a real first chance to stabilize buildings like mine. Thank you.
+
+**(06:13:28)**
+
+
+
+Good afternoon, everyone — well, the ones that are left. We have been here all morning, from the rallies and now. I saw Councilwoman Sanchez as she was leaving and she told me to come testify. Nevertheless, my name is Elizabeth Mackie and I am an organizer and a community leader throughout the City with several organizations.
+
+I am here to say we need to pass COPA. We have been here over and over, several years, several months, testifying to the conditions caused by these landlords. We are tired. We are so sick and tired of being sick and tired and handing in testimonies over and over again. We demand urgency. We need COPA to be passed. We had it passed, but we had a corrupted Mayor Adams who vetoed it and it is not right for me to be here again to try to get it back. But we demand that the City Council do their job. We need people like us to take over our buildings from deadbeat slumlords not doing their job.
+
+We are tired of being sick and tired of living in slums. We deserve better. We deserve better. We pay our rent — what do they get? Why do we live in the conditions the way we live? We talk about a Mayor who said he is going to go block to block. I do not know what block he is on yet. But when is he going to come to my block? When are you going to go to your block? Because we are tired of living in the conditions that we live in in our buildings.
+
+These landlords need to take accountability for the way they treat us. The landlords need to be held accountable. They said they got people to come do the inspection, but now many of them are not here. They said they got plenty of notice, so they need to come out. They did not do their job and they need to do their job because we are suffering. The families are suffering. The people living in shelter are holding onto apartments that people need to get out of shelter and into. We have had enough. So COPA needs to be passed. We need to have some generational wealth. COPA is a protection act. The land is not just the landlord's. The land is not even just the City's. We need to be protected and we are going to continue fighting. We are going to let the City know that the land is ours and we are going to continue fighting. Thank you. COPA belongs to the people, not to the City — to the people. Thank you.
+
+**(06:16:37)**
+
+
+
+Right. Good evening. Good evening, Acting Chair Wilson. Good evening, Committee Counsel. Thank you for extending me the opportunity to testify today. My name is Brennan Balldrama. I am a resident and campaign organizer with We Stay / Nos Quedamos, a community based organization in the South Bronx with a passion for preservation and not just preservation, but housing affordability, as it steps into its role. As a Bronx native, we have experienced many of the things that have been discussed today, whether it be the capital issues around the building more generally, rats, you name it. That has been the major topic of discussion today, and so with that...
+
+There is a growing sense of affordability and preservation issues throughout the City. That is the whole reason behind my role, to bring capital improvements through a coordinated and thorough campaign, and that is why I am here today urging you to pass Intro 95, the Community Opportunity to Purchase Act, or COPA. COPA creates a qualified list of mission-driven nonprofits, including land trusts, that can step in when certain at-risk multifamily buildings are put up for sale. It gives organizations a meaningful opportunity to compete for these properties with a clear timeline and affordability framework. At the heart of COPA is the right of first refusal, giving qualified nonprofits the ability to stay in the game when it comes to the private market.
+
+This is especially important because more than one third of New Yorkers are rent burdened, and more than half of those are in the South Bronx. Families are pushed out and the fabric of the community changes entirely. COPA is a targeted tool that only targets certain buildings.
+
+**(06:18:24)**
+
+
+
+That house tenants that are at risk of displacement, and only when an owner chooses to sell. I just want to keep it short. I urge the City Council to pass Intro 95 and give New Yorkers a tool to preserve affordable housing and combat displacement. Thank you.
