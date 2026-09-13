@@ -1,0 +1,33 @@
+{
+ "event_id": "1440247",
+ "date": "2026-09-09",
+ "body": "Committee on Public Safety",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Technology, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440247&GUID=AA9475A9-059D-4DDE-9A75-82613387F71F&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2482",
+   "type": "Oversight",
+   "name": "Oversight - Examining New York City’s 911 Emergency System Outage.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8193420",
+   "legistar_guid": "DA2EB1E2-CE8B-493E-AA1F-346E9749E203"
+  },
+  {
+   "file_number": "T2026-2482",
+   "type": "Oversight",
+   "name": "Oversight - Examining New York City’s 911 Emergency System Outage.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8193420",
+   "legistar_guid": "DA2EB1E2-CE8B-493E-AA1F-346E9749E203"
+  }
+ ]
+}

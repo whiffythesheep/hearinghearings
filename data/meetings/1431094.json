@@ -1,0 +1,216 @@
+{
+ "event_id": "1431094",
+ "date": "2026-08-13",
+ "body": "Committee on Finance",
+ "location": "Committee Room - City Hall VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1431094&GUID=D0598793-9001-427E-8F4C-98B04AC4D7BE&Search=",
+ "items": [
+  {
+   "file_number": "Int 1002-2026",
+   "type": "Introduction",
+   "name": "Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8150660",
+   "legistar_guid": "2C30BE6D-1F5A-4070-A8BE-5BCFE05EBCB5"
+  },
+  {
+   "file_number": "Int 1002-2026",
+   "type": "Introduction",
+   "name": "Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8150660",
+   "legistar_guid": "2C30BE6D-1F5A-4070-A8BE-5BCFE05EBCB5",
+   "tally": {
+    "Absent": 4,
+    "Affirmative": 12,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Absent"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Negative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0595-2026",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8166249",
+   "legistar_guid": "313C164B-F4F1-4D98-927D-B4B5702C3C64"
+  },
+  {
+   "file_number": "Res 0595-2026",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8166249",
+   "legistar_guid": "313C164B-F4F1-4D98-927D-B4B5702C3C64",
+   "tally": {
+    "Absent": 4,
+    "Affirmative": 12,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Absent"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Negative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "T2026-0004",
+   "type": "N/A",
+   "name": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7800657",
+   "legistar_guid": "759ABCAE-7F73-4468-ABEF-D9ACF72507D0"
+  }
+ ]
+}

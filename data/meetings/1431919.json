@@ -1,0 +1,33 @@
+{
+ "event_id": "1431919",
+ "date": "2026-08-18",
+ "body": "Committee on Governmental Operations, State & Federal Legislation",
+ "location": "Council Chambers - City Hall Jointly with the Committee on Finance.",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1431919&GUID=9278B2DA-FBA3-410C-A523-80FC9FC4F3A2&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2332",
+   "type": "Oversight",
+   "name": "Oversight - Implementation of the Pied-à-Terre Tax.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8160767",
+   "legistar_guid": "15BFB086-BCAB-4CE4-BA25-D53E03153923"
+  },
+  {
+   "file_number": "T2026-2332",
+   "type": "Oversight",
+   "name": "Oversight - Implementation of the Pied-à-Terre Tax.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8160767",
+   "legistar_guid": "15BFB086-BCAB-4CE4-BA25-D53E03153923"
+  }
+ ]
+}

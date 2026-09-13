@@ -1,0 +1,33 @@
+{
+ "event_id": "1403556",
+ "date": "2026-04-10",
+ "body": "Committee on Public Housing",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403556&GUID=9A35D7AC-A21C-4109-B3A7-BDEFF581AB8E&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1470",
+   "type": "Oversight",
+   "name": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7945440",
+   "legistar_guid": "402376FD-0583-4EEC-B13A-AF62641D2539"
+  },
+  {
+   "file_number": "T2026-1470",
+   "type": "Oversight",
+   "name": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7945440",
+   "legistar_guid": "402376FD-0583-4EEC-B13A-AF62641D2539"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "event_id": "1415399",
+ "date": "2026-06-09",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall *",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1415399&GUID=0A2A6C43-DA15-4DC0-B441-70A881A4A9EA&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1912",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8024064",
+   "legistar_guid": "C02C7A30-6CA2-4058-9FB0-E3BF90DF4018"
+  },
+  {
+   "file_number": "T2026-1912",
+   "type": "Oversight",
+   "name": "Executive Budget Hearings - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8024064",
+   "legistar_guid": "C02C7A30-6CA2-4058-9FB0-E3BF90DF4018"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "event_id": "1425278",
+ "date": "2026-07-15",
+ "body": "Committee on Health",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1425278&GUID=E7D597B7-AFD7-4AB0-B21F-8E4F254CA003&Search=",
+ "items": [
+  {
+   "file_number": "Int 0943-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the operation of horse drawn cabs.",
+   "sponsor": "Christopher Marte",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8067835",
+   "legistar_guid": "53C552B4-4BC2-41DA-A14A-560E74E7F3E1"
+  },
+  {
+   "file_number": "Int 0943-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the operation of horse drawn cabs.",
+   "sponsor": "Christopher Marte",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8067835",
+   "legistar_guid": "53C552B4-4BC2-41DA-A14A-560E74E7F3E1"
+  }
+ ]
+}

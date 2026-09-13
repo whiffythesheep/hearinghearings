@@ -1,0 +1,200 @@
+{
+ "event_id": "1432912",
+ "date": "2026-08-13",
+ "body": "Committee on Parks and Recreation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1432912&GUID=1FD0E343-F33D-4C34-96E1-69D9363B6C52&Search=",
+ "items": [
+  {
+   "file_number": "Int 0864-2026",
+   "type": "Introduction",
+   "name": "Pilot program for collecting dog feces at dog runs for the purpose of composting.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "Proposed Int. No. 864-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7998331",
+   "legistar_guid": "0842F088-D9D5-4954-997C-ADF56747A190"
+  },
+  {
+   "file_number": "Int 0864-2026",
+   "type": "Introduction",
+   "name": "Pilot program for collecting dog feces at dog runs for the purpose of composting.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7998331",
+   "legistar_guid": "0842F088-D9D5-4954-997C-ADF56747A190"
+  },
+  {
+   "file_number": "Int 0864-2026",
+   "type": "Introduction",
+   "name": "Pilot program for collecting dog feces at dog runs for the purpose of composting.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7998331",
+   "legistar_guid": "0842F088-D9D5-4954-997C-ADF56747A190"
+  },
+  {
+   "file_number": "Int 0864-2026",
+   "type": "Introduction",
+   "name": "Pilot program for collecting dog feces at dog runs for the purpose of composting.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7998331",
+   "legistar_guid": "0842F088-D9D5-4954-997C-ADF56747A190",
+   "tally": {
+    "Affirmative": 9,
+    "Absent": 1,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Absent"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Negative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Int 0880-2026",
+   "type": "Introduction",
+   "name": "Posting of signs regarding dog waste removal.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "Proposed Int. No. 880-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7998446",
+   "legistar_guid": "4F8838A8-08A5-4EC4-8710-C7CCBF8D584F"
+  },
+  {
+   "file_number": "Int 0880-2026",
+   "type": "Introduction",
+   "name": "Posting of signs regarding dog waste removal.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7998446",
+   "legistar_guid": "4F8838A8-08A5-4EC4-8710-C7CCBF8D584F"
+  },
+  {
+   "file_number": "Int 0880-2026",
+   "type": "Introduction",
+   "name": "Posting of signs regarding dog waste removal.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7998446",
+   "legistar_guid": "4F8838A8-08A5-4EC4-8710-C7CCBF8D584F"
+  },
+  {
+   "file_number": "Int 0880-2026",
+   "type": "Introduction",
+   "name": "Posting of signs regarding dog waste removal.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7998446",
+   "legistar_guid": "4F8838A8-08A5-4EC4-8710-C7CCBF8D584F",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Absent"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

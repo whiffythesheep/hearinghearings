@@ -1,0 +1,55 @@
+{
+ "event_id": "1408769",
+ "date": "2026-05-06",
+ "body": "Committee on Parks and Recreation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1408769&GUID=2F672982-C5BA-4CC7-8405-945498CA703B&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1787",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7993829",
+   "legistar_guid": "D216CE7E-A29F-4F29-9164-2B9F0D836664"
+  },
+  {
+   "file_number": "T2026-1787",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7993829",
+   "legistar_guid": "D216CE7E-A29F-4F29-9164-2B9F0D836664"
+  },
+  {
+   "file_number": "Int 0822-2026",
+   "type": "Introduction",
+   "name": "The naming of two thoroughfares and public places.",
+   "sponsor": "Virginia Maloney",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7984588",
+   "legistar_guid": "2A38FCE2-11FA-4906-BE09-14D55E37C327"
+  },
+  {
+   "file_number": "Int 0822-2026",
+   "type": "Introduction",
+   "name": "The naming of two thoroughfares and public places.",
+   "sponsor": "Virginia Maloney",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7984588",
+   "legistar_guid": "2A38FCE2-11FA-4906-BE09-14D55E37C327"
+  }
+ ]
+}

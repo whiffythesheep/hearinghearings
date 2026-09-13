@@ -1,0 +1,165 @@
+{
+ "event_id": "1417913",
+ "date": "2026-06-10",
+ "body": "Committee on Public Safety",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1417913&GUID=C5D97CEC-5BFC-4F22-801F-3A275B8191D9&Search=",
+ "items": [
+  {
+   "file_number": "Int 0489-2026",
+   "type": "Introduction",
+   "name": "Requiring the creation of a publicly accessible online database and notification system for towed vehicles.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7863053",
+   "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF"
+  },
+  {
+   "file_number": "Int 0489-2026",
+   "type": "Introduction",
+   "name": "Requiring the creation of a publicly accessible online database and notification system for towed vehicles.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7863053",
+   "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF"
+  },
+  {
+   "file_number": "Int 0551-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the sale or distribution of fraudulent license plates.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879239",
+   "legistar_guid": "1B090657-3EB8-4195-B59D-08DB7202FF44"
+  },
+  {
+   "file_number": "Int 0551-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the sale or distribution of fraudulent license plates.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7879239",
+   "legistar_guid": "1B090657-3EB8-4195-B59D-08DB7202FF44"
+  },
+  {
+   "file_number": "Int 0552-2026",
+   "type": "Introduction",
+   "name": "Police department tow pound capacity.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879240",
+   "legistar_guid": "E186EF94-BB91-4148-A57A-2D2C6AA9EC6F"
+  },
+  {
+   "file_number": "Int 0552-2026",
+   "type": "Introduction",
+   "name": "Police department tow pound capacity.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7879240",
+   "legistar_guid": "E186EF94-BB91-4148-A57A-2D2C6AA9EC6F"
+  },
+  {
+   "file_number": "Int 0843-2026",
+   "type": "Introduction",
+   "name": "Establishing a program to provide public notification of school emergencies.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7984670",
+   "legistar_guid": "5043CD4D-2BF0-4F21-A00F-80C5234AF12E"
+  },
+  {
+   "file_number": "Int 0843-2026",
+   "type": "Introduction",
+   "name": "Establishing a program to provide public notification of school emergencies.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7984670",
+   "legistar_guid": "5043CD4D-2BF0-4F21-A00F-80C5234AF12E"
+  },
+  {
+   "file_number": "Int 0913-2026",
+   "type": "Introduction",
+   "name": "Raising the maximum age for taking a civil service examination to become a police officer.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8034427",
+   "legistar_guid": "FAF29934-D698-490D-AA33-7781D9BE19DE"
+  },
+  {
+   "file_number": "Int 0913-2026",
+   "type": "Introduction",
+   "name": "Raising the maximum age for taking a civil service examination to become a police officer.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8034427",
+   "legistar_guid": "FAF29934-D698-490D-AA33-7781D9BE19DE"
+  },
+  {
+   "file_number": "Int 0929-2026",
+   "type": "Introduction",
+   "name": "A transparency report regarding New York city police department security perimeters adjacent to educational facilities.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8044533",
+   "legistar_guid": "80CBF984-54BD-4EED-A0D6-7E0A4193BE2D"
+  },
+  {
+   "file_number": "Int 0929-2026",
+   "type": "Introduction",
+   "name": "A transparency report regarding New York city police department security perimeters adjacent to educational facilities.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8044533",
+   "legistar_guid": "80CBF984-54BD-4EED-A0D6-7E0A4193BE2D"
+  },
+  {
+   "file_number": "Int 0935-2026",
+   "type": "Introduction",
+   "name": "Quarterly reporting on confirmed firearm discharges.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8045782",
+   "legistar_guid": "2A817CCA-56CC-4052-A5AB-CE4316C89C6D"
+  },
+  {
+   "file_number": "Int 0935-2026",
+   "type": "Introduction",
+   "name": "Quarterly reporting on confirmed firearm discharges.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
+   "result": "",
+   "legistar_id": "8045782",
+   "legistar_guid": "2A817CCA-56CC-4052-A5AB-CE4316C89C6D"
+  }
+ ]
+}

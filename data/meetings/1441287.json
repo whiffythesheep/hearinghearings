@@ -1,0 +1,105 @@
+{
+ "event_id": "1441287",
+ "date": "2026-09-09",
+ "body": "Committee on Consumer and Worker Protection",
+ "location": "Committee Room - City Hall VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441287&GUID=FAC7BB5E-014F-4D4B-99DD-9AF29901A0C3&Search=",
+ "items": [
+  {
+   "file_number": "Int 0813-2026",
+   "type": "Introduction",
+   "name": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "Proposed Int. No. 813-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7984534",
+   "legistar_guid": "B4D3A4B1-390A-4BF2-8D74-FF5C705924F3"
+  },
+  {
+   "file_number": "Int 0813-2026",
+   "type": "Introduction",
+   "name": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7984534",
+   "legistar_guid": "B4D3A4B1-390A-4BF2-8D74-FF5C705924F3"
+  },
+  {
+   "file_number": "Int 0813-2026",
+   "type": "Introduction",
+   "name": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7984534",
+   "legistar_guid": "B4D3A4B1-390A-4BF2-8D74-FF5C705924F3"
+  },
+  {
+   "file_number": "Int 0813-2026",
+   "type": "Introduction",
+   "name": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7984534",
+   "legistar_guid": "B4D3A4B1-390A-4BF2-8D74-FF5C705924F3",
+   "tally": {
+    "Affirmative": 8,
+    "Absent": 3
+   },
+   "roll_call": [
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Absent"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Absent"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

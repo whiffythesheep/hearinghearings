@@ -1,0 +1,77 @@
+{
+ "event_id": "1403109",
+ "date": "2026-04-06",
+ "body": "Committee on Sanitation and Solid Waste Management",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403109&GUID=6947A0A0-A8FF-429E-AA58-641B9E31F273&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1476",
+   "type": "Oversight",
+   "name": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7948640",
+   "legistar_guid": "3284F792-63A7-41B5-A1A7-6D41CE47FD8B"
+  },
+  {
+   "file_number": "T2026-1476",
+   "type": "Oversight",
+   "name": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7948640",
+   "legistar_guid": "3284F792-63A7-41B5-A1A7-6D41CE47FD8B"
+  },
+  {
+   "file_number": "Int 0355-2026",
+   "type": "Introduction",
+   "name": "Organic waste recycling by city agencies.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862491",
+   "legistar_guid": "558F0D49-1781-4C97-A6ED-5C952062C7B2"
+  },
+  {
+   "file_number": "Int 0355-2026",
+   "type": "Introduction",
+   "name": "Organic waste recycling by city agencies.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7862491",
+   "legistar_guid": "558F0D49-1781-4C97-A6ED-5C952062C7B2"
+  },
+  {
+   "file_number": "Res 0125-2026",
+   "type": "Resolution",
+   "name": "Require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated. (S.2285)",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862526",
+   "legistar_guid": "9A02676C-7C1A-43F8-8E96-248EBCD3C036"
+  },
+  {
+   "file_number": "Res 0125-2026",
+   "type": "Resolution",
+   "name": "Require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated. (S.2285)",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7862526",
+   "legistar_guid": "9A02676C-7C1A-43F8-8E96-248EBCD3C036"
+  }
+ ]
+}

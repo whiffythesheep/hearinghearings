@@ -1,0 +1,343 @@
+{
+ "event_id": "1432917",
+ "date": "2026-08-13",
+ "body": "Committee on Consumer and Worker Protection",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1432917&GUID=27E782CE-1F94-4930-AF77-1AF4DEC4F1B6&Search=",
+ "items": [
+  {
+   "file_number": "Int 0685-2026",
+   "type": "Introduction",
+   "name": "Establishing an office of insurance affordability.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "Proposed Int. No. 685-B",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7927487",
+   "legistar_guid": "64AE3D51-0A35-4679-9EBF-3CBF3184CD48"
+  },
+  {
+   "file_number": "Int 0685-2026",
+   "type": "Introduction",
+   "name": "Establishing an office of insurance affordability.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7927487",
+   "legistar_guid": "64AE3D51-0A35-4679-9EBF-3CBF3184CD48"
+  },
+  {
+   "file_number": "Int 0685-2026",
+   "type": "Introduction",
+   "name": "Establishing an office of insurance affordability.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7927487",
+   "legistar_guid": "64AE3D51-0A35-4679-9EBF-3CBF3184CD48"
+  },
+  {
+   "file_number": "Int 0685-2026",
+   "type": "Introduction",
+   "name": "Establishing an office of insurance affordability.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7927487",
+   "legistar_guid": "64AE3D51-0A35-4679-9EBF-3CBF3184CD48",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0387-2026",
+   "type": "Resolution",
+   "name": "Mitigate the rising cost of property insurance for affordable housing. (A.07828A/S.07939, A.9015 and A.9016A)",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961417",
+   "legistar_guid": "AEA46985-50D4-48E8-81C3-6B2B97A1DCE5"
+  },
+  {
+   "file_number": "Res 0387-2026",
+   "type": "Resolution",
+   "name": "Mitigate the rising cost of property insurance for affordable housing. (A.07828A/S.07939, A.9015 and A.9016A)",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961417",
+   "legistar_guid": "AEA46985-50D4-48E8-81C3-6B2B97A1DCE5",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0389-2026",
+   "type": "Resolution",
+   "name": "Automobile Insurance Consumer Information Act. (S.1196/A.3893)",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "Proposed Res. No. 389-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961422",
+   "legistar_guid": "A097F807-947E-4CDB-B635-DAE2A52EF803"
+  },
+  {
+   "file_number": "Res 0389-2026",
+   "type": "Resolution",
+   "name": "Automobile Insurance Consumer Information Act. (S.1196/A.3893)",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7961422",
+   "legistar_guid": "A097F807-947E-4CDB-B635-DAE2A52EF803"
+  },
+  {
+   "file_number": "Res 0389-2026",
+   "type": "Resolution",
+   "name": "Automobile Insurance Consumer Information Act. (S.1196/A.3893)",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7961422",
+   "legistar_guid": "A097F807-947E-4CDB-B635-DAE2A52EF803"
+  },
+  {
+   "file_number": "Res 0389-2026",
+   "type": "Resolution",
+   "name": "Automobile Insurance Consumer Information Act. (S.1196/A.3893)",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961422",
+   "legistar_guid": "A097F807-947E-4CDB-B635-DAE2A52EF803",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0395-2026",
+   "type": "Resolution",
+   "name": "Prohibiting increases in rates of homeowners’ insurance in excess of twenty-five percent per year. (S.6356/A.4188)",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961438",
+   "legistar_guid": "6AC9346D-05D0-4347-B166-B6D04D437864"
+  },
+  {
+   "file_number": "Res 0395-2026",
+   "type": "Resolution",
+   "name": "Prohibiting increases in rates of homeowners’ insurance in excess of twenty-five percent per year. (S.6356/A.4188)",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961438",
+   "legistar_guid": "6AC9346D-05D0-4347-B166-B6D04D437864",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

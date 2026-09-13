@@ -1,0 +1,88 @@
+{
+ "event_id": "1435944",
+ "date": "2026-08-13",
+ "body": "Committee on Governmental Operations, State & Federal Legislation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1435944&GUID=27429D48-9126-45CD-BDC1-74F0AF30C635&Search=",
+ "items": [
+  {
+   "file_number": "Int 0320-2026",
+   "type": "Introduction",
+   "name": "Codifying the official flag of the borough of Staten Island.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "Proposed Int. No. 320-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862352",
+   "legistar_guid": "D209C90E-B9D0-4E87-9FA4-DB32F745E5F5"
+  },
+  {
+   "file_number": "Int 0320-2026",
+   "type": "Introduction",
+   "name": "Codifying the official flag of the borough of Staten Island.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7862352",
+   "legistar_guid": "D209C90E-B9D0-4E87-9FA4-DB32F745E5F5"
+  },
+  {
+   "file_number": "Int 0320-2026",
+   "type": "Introduction",
+   "name": "Codifying the official flag of the borough of Staten Island.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7862352",
+   "legistar_guid": "D209C90E-B9D0-4E87-9FA4-DB32F745E5F5"
+  },
+  {
+   "file_number": "Int 0320-2026",
+   "type": "Introduction",
+   "name": "Codifying the official flag of the borough of Staten Island.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7862352",
+   "legistar_guid": "D209C90E-B9D0-4E87-9FA4-DB32F745E5F5",
+   "tally": {
+    "Affirmative": 7
+   },
+   "roll_call": [
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

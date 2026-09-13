@@ -1,0 +1,106 @@
+{
+ "event_id": "1429781",
+ "date": "2026-08-13",
+ "body": "Committee on Housing and Buildings",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1429781&GUID=EE55A7F1-1952-4652-B322-D66A9BB083B8&Search=",
+ "items": [
+  {
+   "file_number": "Int 0839-2026",
+   "type": "Introduction",
+   "name": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "Proposed Int. No. 839-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7978190",
+   "legistar_guid": "75D7AA18-779C-4C2C-82B5-BCA0D43C74D1"
+  },
+  {
+   "file_number": "Int 0839-2026",
+   "type": "Introduction",
+   "name": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7978190",
+   "legistar_guid": "75D7AA18-779C-4C2C-82B5-BCA0D43C74D1"
+  },
+  {
+   "file_number": "Int 0839-2026",
+   "type": "Introduction",
+   "name": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7978190",
+   "legistar_guid": "75D7AA18-779C-4C2C-82B5-BCA0D43C74D1"
+  },
+  {
+   "file_number": "Int 0839-2026",
+   "type": "Introduction",
+   "name": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7978190",
+   "legistar_guid": "75D7AA18-779C-4C2C-82B5-BCA0D43C74D1",
+   "tally": {
+    "Affirmative": 9,
+    "Absent": 1,
+    "Abstain": 1
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Abstain"
+    }
+   ]
+  }
+ ]
+}

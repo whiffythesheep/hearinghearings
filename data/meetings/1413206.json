@@ -1,0 +1,77 @@
+{
+ "event_id": "1413206",
+ "date": "2026-06-16",
+ "body": "Committee on Aging",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1413206&GUID=366B6C95-6EFA-492B-85A5-07D94ACAC977&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1871",
+   "type": "Oversight",
+   "name": "Oversight - Interagency Coordination for Older Adults.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8011722",
+   "legistar_guid": "12ED1A6A-96DD-4E0D-9769-F5BD199EA63B"
+  },
+  {
+   "file_number": "T2026-1871",
+   "type": "Oversight",
+   "name": "Oversight - Interagency Coordination for Older Adults.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8011722",
+   "legistar_guid": "12ED1A6A-96DD-4E0D-9769-F5BD199EA63B"
+  },
+  {
+   "file_number": "Int 0230-2026",
+   "type": "Introduction",
+   "name": "Financial assistance program for in-home preventative adaptations.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862020",
+   "legistar_guid": "37C8077B-D918-4E47-B14A-A50E40A427B9"
+  },
+  {
+   "file_number": "Int 0230-2026",
+   "type": "Introduction",
+   "name": "Financial assistance program for in-home preventative adaptations.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7862020",
+   "legistar_guid": "37C8077B-D918-4E47-B14A-A50E40A427B9"
+  },
+  {
+   "file_number": "Res 0373-2026",
+   "type": "Resolution",
+   "name": "Provide long term care benefits for eligible residents. (A.1499/S.1179)",
+   "sponsor": "Julie Won",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7944913",
+   "legistar_guid": "6F85B52B-0D39-4E52-8FE8-8BC7B8A35171"
+  },
+  {
+   "file_number": "Res 0373-2026",
+   "type": "Resolution",
+   "name": "Provide long term care benefits for eligible residents. (A.1499/S.1179)",
+   "sponsor": "Julie Won",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7944913",
+   "legistar_guid": "6F85B52B-0D39-4E52-8FE8-8BC7B8A35171"
+  }
+ ]
+}

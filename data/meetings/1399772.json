@@ -1,0 +1,33 @@
+{
+ "event_id": "1399772",
+ "date": "2026-03-25",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399772&GUID=9F4A2B53-4327-4F93-AE73-5D27A341A590&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1409",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7939095",
+   "legistar_guid": "247B2581-78A9-4124-8865-5C5805AC6ACA"
+  },
+  {
+   "file_number": "T2026-1409",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Finance",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7939095",
+   "legistar_guid": "247B2581-78A9-4124-8865-5C5805AC6ACA"
+  }
+ ]
+}

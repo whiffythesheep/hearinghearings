@@ -1,0 +1,155 @@
+{
+ "event_id": "1441126",
+ "date": "2026-09-10",
+ "body": "Committee on Parks and Recreation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441126&GUID=A4C4670A-E971-4386-9119-91464D39F74C&Search=",
+ "items": [
+  {
+   "file_number": "Int 1020-2026",
+   "type": "Introduction",
+   "name": "The naming of 26 thoroughfares and public places.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8199396",
+   "legistar_guid": "2551620E-B7BC-4D31-B0C5-1830C3A8019D"
+  },
+  {
+   "file_number": "Int 1020-2026",
+   "type": "Introduction",
+   "name": "The naming of 26 thoroughfares and public places.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8199396",
+   "legistar_guid": "2551620E-B7BC-4D31-B0C5-1830C3A8019D",
+   "tally": {
+    "Affirmative": 9,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Int 1027-2026",
+   "type": "Introduction",
+   "name": "The naming of 7 thoroughfares and public places.",
+   "sponsor": "Tiffany L. Cabán",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8198789",
+   "legistar_guid": "5A412ADD-F7E4-4252-BE1C-C7DEDA54E4A2"
+  },
+  {
+   "file_number": "Int 1027-2026",
+   "type": "Introduction",
+   "name": "The naming of 7 thoroughfares and public places.",
+   "sponsor": "Tiffany L. Cabán",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8198789",
+   "legistar_guid": "5A412ADD-F7E4-4252-BE1C-C7DEDA54E4A2",
+   "tally": {
+    "Affirmative": 9,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

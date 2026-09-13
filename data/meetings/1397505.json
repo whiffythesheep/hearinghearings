@@ -1,0 +1,55 @@
+{
+ "event_id": "1397505",
+ "date": "2026-03-09",
+ "body": "Committee on Housing and Buildings",
+ "location": "Committee Room - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397505&GUID=4B47D16B-DB8A-421C-B8AC-0AB3C5C2121B&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1213",
+   "type": "Oversight",
+   "name": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7872931",
+   "legistar_guid": "22D9000C-7086-4C38-AE62-C02BC544D89A"
+  },
+  {
+   "file_number": "T2026-1213",
+   "type": "Oversight",
+   "name": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7872931",
+   "legistar_guid": "22D9000C-7086-4C38-AE62-C02BC544D89A"
+  },
+  {
+   "file_number": "Int 0657-2026",
+   "type": "Introduction",
+   "name": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7872930",
+   "legistar_guid": "DCC5EF0A-7863-47F2-A95A-B28A03D414E0"
+  },
+  {
+   "file_number": "Int 0657-2026",
+   "type": "Introduction",
+   "name": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "7872930",
+   "legistar_guid": "DCC5EF0A-7863-47F2-A95A-B28A03D414E0"
+  }
+ ]
+}

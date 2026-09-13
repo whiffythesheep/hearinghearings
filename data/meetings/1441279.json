@@ -1,0 +1,104 @@
+{
+ "event_id": "1441279",
+ "date": "2026-09-10",
+ "body": "Committee on Sanitation and Solid Waste Management",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441279&GUID=AED2E617-64B2-4024-B14E-FDA9ACD82C7E&Search=",
+ "items": [
+  {
+   "file_number": "Int 0906-2026",
+   "type": "Introduction",
+   "name": "Dog waste complaints.",
+   "sponsor": "Justin E. Sanchez",
+   "agenda_note": "Proposed Int. No. 906-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8006909",
+   "legistar_guid": "69FDB696-0365-4AA8-94EA-62AD7759B223"
+  },
+  {
+   "file_number": "Int 0906-2026",
+   "type": "Introduction",
+   "name": "Dog waste complaints.",
+   "sponsor": "Justin E. Sanchez",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8006909",
+   "legistar_guid": "69FDB696-0365-4AA8-94EA-62AD7759B223"
+  },
+  {
+   "file_number": "Int 0906-2026",
+   "type": "Introduction",
+   "name": "Dog waste complaints.",
+   "sponsor": "Justin E. Sanchez",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8006909",
+   "legistar_guid": "69FDB696-0365-4AA8-94EA-62AD7759B223"
+  },
+  {
+   "file_number": "Int 0906-2026",
+   "type": "Introduction",
+   "name": "Dog waste complaints.",
+   "sponsor": "Justin E. Sanchez",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8006909",
+   "legistar_guid": "69FDB696-0365-4AA8-94EA-62AD7759B223",
+   "tally": {
+    "Affirmative": 11
+   },
+   "roll_call": [
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}
