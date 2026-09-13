@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Matter{% endblock %}
+
+{% block content %}
+<a href="/matters/" class="back-link">← All matters</a>
+
+<article class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">{{ matter.type or "Matter" }}</p>
+        <h1>{{ matter.file_number }}</h1>
+        {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
+        <div class="record-meta">
+            <span class="status-badge">{{ matter.display_status }}</span>
+            {% if matter.sponsors %}
+            <span class="meta-sep">·</span>
+            <span>Sponsor{% if matter.sponsors|length > 1 %}s{% endif %}: {{ matter.sponsors | join(', ') }}</span>
+            {% endif %}
+            {% if matter.by_request_of_mayor %}
+            <span class="meta-sep">·</span>
+            <span class="mayor-flag">By request of the Mayor</span>
+            {% endif %}
+            {% if matter.legistar_url %}
+            <span class="meta-sep">·</span>
+            <a href="{{ matter.legistar_url }}" class="council-link">View on Legistar ↗</a>
+            {% endif %}
+        </div>
+    </header>
+
+    {% if matter.title and matter.title != matter.short_title %}
+    <section class="record-section">
+        <h2>Title</h2>
+        <p class="record-longtitle">{{ matter.title }}</p>
+    </section>
+    {% endif %}
+
+    {% if matter.appearances %}
+    <section class="record-section">
+        <h2>Considered at</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>Date</th><th>Body</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+                <tbody>
+                {% for a in matter.appearances %}
+                    <tr>
+                        <td class="num">{{ a.date }}</td>
+                        <td>{% if a.hearing_slug %}<a href="/hearings/{{ a.hearing_slug }}/">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
+                        <td>{{ a.action or "—" }}</td>
+                        <td>{% if a.result %}<span class="result result--{{ a.result | lower }}">{{ a.result }}</span>{% else %}—{% endif %}</td>
+                        <td class="num">
+                            {%- if a.tally -%}
+                                {{ a.tally.get('Affirmative', 0) }}–{{ a.tally.get('Negative', 0) }}
+                            {%- else -%}—{%- endif -%}
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+
+    {% if matter.history %}
+    <section class="record-section">
+        <h2>Legislative history</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>Date</th><th>Body</th><th>Action</th><th>Result</th></tr></thead>
+                <tbody>
+                {% for h in matter.history %}
+                    <tr>
+                        <td class="num">{{ h.date }}</td>
+                        <td>{{ h.body }}</td>
+                        <td>{{ h.action }}</td>
+                        <td>{% if h.result %}<span class="result result--{{ h.result | lower }}">{{ h.result }}</span>{% else %}—{% endif %}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+
+    {% if matter.attachments %}
+    <section class="record-section">
+        <h2>Documents</h2>
+        <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
+        <ul class="doc-list">
+        {% for d in matter.attachments %}
+            <li><a href="{{ d.url }}">{{ d.label }} ↗</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+</article>
+{% endblock %}

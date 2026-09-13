@@ -7,6 +7,8 @@ import re
 import shutil
 import markdown
 
+import record
+
 from collections import Counter
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
@@ -329,6 +331,35 @@ def build_search_index(hearings):
     print(f"Built: search/ ({len(docs)} docs, {len(shards)} shards)")
 
 
+def attach_records(hearings, records):
+    """Hang the scraped record off each hearing, and link matter numbers.
+
+    A hearing's summary is written from the transcript; the record comes
+    from Legistar. Keeping them side by side is the point -- so this only
+    adds, it never rewrites the summary's prose beyond turning exact matter
+    numbers into links.
+    """
+    by_event = records["meetings"]
+    matter_by_slug = records["matter_by_slug"]
+    for h in hearings:
+        h["record_items"] = []
+        m = re.search(r"MeetingDetail\.aspx\?ID=(\d+)", h.get("council_url", "") or "")
+        meeting = by_event.get(m.group(1)) if m else None
+        if meeting:
+            for item in meeting.get("items", []):
+                slug = record.slugify(item.get("file_number", ""))
+                h["record_items"].append({
+                    "file_number": item.get("file_number", ""),
+                    "name": item.get("name", ""),
+                    "action": item.get("action", ""),
+                    "result": item.get("result", ""),
+                    "tally": item.get("tally") or {},
+                    "matter_slug": slug if slug in matter_by_slug else "",
+                })
+        h["summary_html"] = record.link_matter_numbers(
+            h["summary_html"], matter_by_slug)
+
+
 def load_content():
     """Load all markdown content files."""
     hearings = []
@@ -415,6 +446,51 @@ def load_content():
     return hearings
 
 
+def _sitemap_url(loc, lastmod):
+    """One <url> entry, indented to match the hand-built entries above."""
+    return (f"  <url>\n    <loc>{loc}</loc>\n"
+            f"    <lastmod>{lastmod}</lastmod>\n  </url>")
+
+
+def build_record_pages(env, records, ctx):
+    """Render the matter, member and committee sections."""
+
+    def write(path_parts, page_html):
+        out_dir = os.path.join(OUTPUT_DIR, *path_parts)
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page_html)
+
+    sections = [
+        ("matters", "matters.html", "matter.html", "matter", records["matters"],
+         "Matters", "Bills, resolutions, land use applications and oversight items "
+         "before the New York City Council."),
+        ("members", "members.html", "member.html", "member", records["members"],
+         "Council Members", "How each member of the New York City Council has voted."),
+        ("committees", "committees.html", "committee.html", "committee",
+         records["committees"], "Committees",
+         "New York City Council committees and the matters before them."),
+    ]
+
+    for name, index_tpl, detail_tpl, singular, items, title, description in sections:
+        listing_vars = {name: items, "nav_active": name}
+        if name == "members":
+            listing_vars["total_votes"] = sum(len(m["votes"]) for m in items)
+        write([name], env.get_template(index_tpl).render(
+            meta_title=title, meta_description=description,
+            meta_url=f"{SITE_URL}/{name}/", **listing_vars, **ctx))
+
+        template = env.get_template(detail_tpl)
+        for item in items:
+            label = item.get("file_number") or item.get("name", "")
+            write([name, item["slug"]], template.render(
+                nav_active=name, meta_title=label,
+                meta_description=f"{label} on Hearing Hearings.",
+                meta_url=f"{SITE_URL}/{name}/{item['slug']}/",
+                **{singular: item}, **ctx))
+        print(f"Built: {name}/ (index + {len(items)} pages)")
+
+
 def build():
     """Build the static site."""
     # Clean output
@@ -430,6 +506,14 @@ def build():
     env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), autoescape=True)
 
     hearings = load_content()
+    records = record.load_records(hearings)
+    attach_records(hearings, records)
+
+    meeting_dates = sorted(m["date"] for m in records["meetings"].values() if m["date"])
+    window_from = record.display_date(meeting_dates[0]) if meeting_dates else ""
+    window_to = record.display_date(meeting_dates[-1]) if meeting_dates else ""
+    record_ctx = {"window_from": window_from, "window_to": window_to,
+                  "meta_image": META_IMAGE}
 
     # Filter facets for the index controls
     all_committees = sorted({c for h in hearings for c in h["committee_list"]})
@@ -451,6 +535,7 @@ def build():
         committees=all_committees,
         months=all_months,
         search_examples=search_examples,
+        nav_active="hearings",
         meta_title="Hearing Hearings",
         meta_description="Summaries and transcripts of New York City Council hearings.",
         meta_url=f"{SITE_URL}/",
@@ -505,6 +590,7 @@ def build():
                 f.write(transcript_txt)
 
     build_search_index(hearings)
+    build_record_pages(env, records, record_ctx)
 
     # Build 404 page
     four04_template = env.get_template("404.html")
@@ -527,6 +613,16 @@ def build():
         sitemap_entries.append(
             f"  <url>\n    <loc>{SITE_URL}/hearings/{h['slug']}/</loc>\n    <lastmod>{h['date']}</lastmod>\n  </url>"
         )
+    for section in ("matters", "members", "committees"):
+        sitemap_entries.append(_sitemap_url(f"{SITE_URL}/{section}/", today))
+    for _m in records["matters"]:
+        sitemap_entries.append(_sitemap_url(
+            f"{SITE_URL}/matters/{_m['slug']}/", _m["latest_date"] or today))
+    for _p in records["members"]:
+        sitemap_entries.append(_sitemap_url(f"{SITE_URL}/members/{_p['slug']}/", today))
+    for _c in records["committees"]:
+        sitemap_entries.append(_sitemap_url(
+            f"{SITE_URL}/committees/{_c['slug']}/", today))
     sitemap_xml = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'

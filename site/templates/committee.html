@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Committee{% endblock %}
+
+{% block content %}
+<a href="/committees/" class="back-link">← All committees</a>
+
+<article class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Committee</p>
+        <h1>{{ committee.name }}</h1>
+        <div class="record-meta">
+            {% if committee.chair %}<span>Chair: {{ committee.chair }}</span><span class="meta-sep">·</span>{% endif %}
+            <span>{{ committee.meeting_count }} meeting{{ '' if committee.meeting_count == 1 else 's' }}</span>
+            <span class="meta-sep">·</span>
+            <span>{{ committee.matters | length }} matter{{ '' if committee.matters | length == 1 else 's' }}</span>
+        </div>
+    </header>
+
+    {% if committee.meetings %}
+    <section class="record-section">
+        <h2>Meetings</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>Date</th><th>Meeting</th><th>Items</th><th>Roll calls</th></tr></thead>
+                <tbody>
+                {% for m in committee.meetings %}
+                    <tr>
+                        <td class="num">{{ m.date }}</td>
+                        <td>
+                            {%- if m.hearing_slug -%}
+                            <a href="/hearings/{{ m.hearing_slug }}/">{{ m.hearing_title or m.body }}</a>
+                            {%- else -%}
+                            <span class="row-muted">Not published{% if m.council_url %} — <a href="{{ m.council_url }}">Legistar ↗</a>{% endif %}</span>
+                            {%- endif -%}
+                        </td>
+                        <td class="num">{{ m['items'] | length }}</td>
+                        <td class="num">{{ m['items'] | selectattr('roll_call') | list | length }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+
+    {% if committee.matters %}
+    <section class="record-section">
+        <h2>Matters before this committee</h2>
+        <div class="table-scroll">
+            <table class="record-table">
+                <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th></tr></thead>
+                <tbody>
+                {% for m in committee.matters %}
+                    <tr>
+                        <td class="num"><a href="/matters/{{ m.slug }}/">{{ m.file_number }}</a></td>
+                        <td>{{ m.type }}</td>
+                        <td>{{ m.short_title }}</td>
+                        <td>{{ m.display_status }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    {% endif %}
+</article>
+{% endblock %}

@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
+{% block window_title %}Hearing Hearings — Matters{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<div class="record">
+    <header class="record-header">
+        <p class="record-eyebrow">Legislative record</p>
+        <h1>Matters</h1>
+        <p class="record-subtitle">Every bill, resolution, land use application and oversight item
+            considered at a meeting in the archive.</p>
+        <div class="record-meta">
+            <span>{{ matters | length }} matters</span>
+            <span class="meta-sep">·</span>
+            <span>{{ window_from }} to {{ window_to }}</span>
+        </div>
+    </header>
+
+    <div class="lookup">
+        <label class="sr-only" for="matter-filter">Find a matter</label>
+        <input id="matter-filter" class="lookup-input bevel-in" type="search" autocomplete="off"
+               placeholder="Find a matter — try “Int 0892”, “rezoning”, “Enacted”">
+        <p class="lookup-count" id="matter-count">{{ matters | length }} matters</p>
+    </div>
+
+    <div class="table-scroll">
+        <table class="record-table" id="matter-table">
+            <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th><th>Last action</th></tr></thead>
+            <tbody>
+            {% for m in matters %}
+                <tr data-find="{{ (m.file_number ~ ' ' ~ m.type ~ ' ' ~ m.short_title ~ ' ' ~ m.display_status) | lower }}">
+                    <td class="num"><a href="/matters/{{ m.slug }}/">{{ m.file_number }}</a></td>
+                    <td>{{ m.type }}</td>
+                    <td>{{ m.short_title }}</td>
+                    <td>{{ m.display_status }}</td>
+                    <td class="num">{{ m.latest_date or "—" }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <p class="lookup-empty" id="matter-empty" hidden>No matter matches that.</p>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    (function () {
+        var input = document.getElementById('matter-filter');
+        var rows = Array.prototype.slice.call(
+            document.querySelectorAll('#matter-table tbody tr'));
+        var count = document.getElementById('matter-count');
+        var empty = document.getElementById('matter-empty');
+        input.addEventListener('input', function () {
+            var q = input.value.trim().toLowerCase();
+            var shown = 0;
+            for (var i = 0; i < rows.length; i++) {
+                var hit = !q || rows[i].dataset.find.indexOf(q) !== -1;
+                rows[i].hidden = !hit;
+                if (hit) shown++;
+            }
+            count.textContent = shown + (shown === 1 ? ' matter' : ' matters');
+            empty.hidden = shown !== 0;
+        });
+    })();
+</script>
+{% endblock %}
