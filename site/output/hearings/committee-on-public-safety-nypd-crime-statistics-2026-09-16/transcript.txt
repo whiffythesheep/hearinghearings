@@ -1,0 +1,1384 @@
+NYPD Crime Statistics
+Committee on Public Safety · September 16, 2026 · 3hrs 17m
+Source: https://hearinghearings.nyc/hearings/committee-on-public-safety-nypd-crime-statistics-2026-09-16/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260916-133053.mp4
+
+================================================================
+
+(00:00:10)
+
+For your cooperation. Good afternoon. Welcome to the New York City Council hearing on the Committee on Public Safety. At this time, please silence electronics and do not approach the dais. If you are testifying today, make sure you have filled out a slip at the back of the room. Any other questions or concerns, please reach a Sergeant at Arms. Thank you for your cooperation. Chair, we are ready to begin.
+
+(00:00:32)
+
+Thank you. Good afternoon, everyone. I am CM Oswald Feliz, Chair of the Committee on Public Safety. I want to welcome everyone to this hearing on NYPD crime statistics. I also want to welcome Committee members who have joined, including CM Hanks, CM Banks, CM Nurse, CM Ariola and CM Wong. I also want to welcome our Public Advocate, Jumaane Williams. The Public Safety Committee is holding this hearing to take a comprehensive look at the areas of public safety that have seen progress.
+
+We have made a lot of progress these past few years, including on the issue of shootings and murders, which are currently at historic lows. This is something that we have to celebrate and recognize. As we examine the areas that have seen progress, we also want to take a look at crime categories that require attention. We have made a lot of progress on issues related to shootings and murders. But when we look at the crime statistics from 2019, the pre-pandemic years, it is clear there is still room for significant progress. This is true for many crime categories, including and especially felony assaults, which are drastically up compared to the pre-pandemic years of 2017, 2018 and 2019. If my reading of the Compstat report is correct, we have had about 15,021 felony assaults this year year-to-date versus about 15,000 year-to-date in 2019. The same is true for many other crime categories, including grand larceny involving a vehicle.
+
+We want to better understand the challenges and discuss them effectively. And of course, our goal is to have a hearing like this before the end of every year — to look at the areas where we have made progress but also think about the challenges that we have and think about ways and steps that we can take to help resolve those challenges.
+
+We are thankful for the work and sacrifices of police officers — the work and sacrifices that they make every single day to keep our City safe. Public safety is a shared responsibility. We achieve it with good schools, good jobs and strong communities. Police officers play an important role in this. They help ensure that residents can engage in activities like work and school and opportunity without having to worry about their safety, and we are thankful for that. Their dedication and commitment to the City does not go unnoticed.
+
+I want to thank members of the NYPD and all stakeholders who are testifying today. Welcome back to City Hall, the people's house. I would like to thank my staff and Committee staff for their hard work: Josh King, Senior Counsel to the Committee; Chad Njambein, Policy Analyst; my Chief of Staff; my Legislative Director; and many others who have joined, including Nini from my team. I look forward to a productive discussion on what is going well but also the challenges that remain and steps that we can take to help address them. Thank you. Now I will pass it on to our very own Public Advocate, Jumaane Williams.
+
+(00:03:30)
+
+Thank you so much. This is an extremely important hearing. I think the public is very concerned about public safety and the media is not helpful — they often warp what is going on into a doomsday scenario unnecessarily. Data from the NYPD is really, really important for the public to see. As I mentioned, my name is Jumaane Williams, Public Advocate for the City of New York. Again, thank you, Chair Feliz and members of the Committee on Public Safety, for holding this important hearing, and thank you to the administration for being here.
+
+NYPD Commissioner Jessica Tisch reported that New York City had its safest-ever record for shootings and murders. That is an absolute applause line. That is awesome. According to recently released data, major crime is down 6.2% year-to-date, meaning about 55,000 fewer crimes have occurred citywide. Additionally, there were no reported murders in the subway during the time period reported. This is consistent with a larger trend that we have seen since the pandemic-era spike in crime. Most major crimes have continued to fall since 2020 and New York City is still one of the safest large cities in the U.S. This is something to celebrate.
+
+At the same time, this does not capture a full picture of crime in the City. It is often difficult to accurately report crime statistics because how crimes are described and how people report them change frequently. An assault or shooting could, for example, become a homicide days or weeks later if the victim dies. A reported burglary could turn out to be a misunderstanding. In 2024, New York State expanded its definition of rape, which likely contributed to a rise in reported rapes. Certain crimes like rape are chronically underreported and so do not present a full picture. It is important to remember that announcements of falling crime rates capture the numbers in that moment and the decline can decrease or even reverse once the department updates them in the period that follows. More concerning, we understand that those reports may not be updated with the new numbers. I would like to hear that they are.
+
+It is also important to remember that policing tactics purported to achieve these declining reported crime rates can disproportionately harm the most vulnerable New Yorkers. Under the previous mayor, the NYPD cracked down on low-level quality-of-life crimes such as taking up more than one seat on the subway and drinking in public. This has continued under the Mamdani administration and has been criticized as a resurgence of broken windows policing — or at least broken-windows-adjacent. Broken windows policing is a debunked theory that strict enforcement of low-level crimes will deter more serious crimes later. Last year, court cases on top charges of taking up more than one seat on the subway increased 3,000% compared to the previous year. In the first three months of 2026, criminal summonses jumped 29%. A recent analysis of the data by Gothamist found that almost half of civil summonses are tossed out, largely attributed to the practice of issuing handwritten tickets, though they are not criminal summonses. This raises questions about the efficiency of this crackdown, especially at a time when any contact with the courts puts a non-citizen at risk of detention. Criminal summonses for cyclists were especially harmful, with 91% of those issued going to people of color. I am glad that the Mamdani administration has announced plans to end criminal enforcement against bike riders and cyclists for low-level traffic offenses.
+
+I want to make sure that does not mean there should not be any accountability for infractions.
+
+Additionally, Politico reported that the Office of Community Safety met with Bronx elected officials about rising murders and shootings in the Bronx North patrol, which encompasses half of the borough. Compared to the same time last year, the northern command has seen a nearly 20% increase in shootings and a 6% rise in murders. However, crime rates are falling in Bronx South and crime in the borough as a whole is trending downward. This underscores that the way we report crimes matters. Crime rates matter and can sometimes appear that neighborhoods need more attention than the department can provide. We must ensure that we are not sweeping people into the criminal
+
+(00:07:20)
+
+legal system when they clearly need a direct connection to services and support. Stabilization officers have discretion to issue people summonses instead of taking them into custody, but there are many cases we have seen where they are not using it. A pregnant woman was taken into custody for drug possession and trespassing and ended up giving birth in a courtroom. Witnesses stated that she gave birth in handcuffs, which is obviously unacceptable. It is important for people to not only be safe but to feel safe. We cannot simply try to punish our way to safety. We know arrests alone have not solved long-entrenched inequities.
+
+How the department approaches collaboration has a direct impact on our ability to achieve a citywide level of safety that we can all be proud of. I do believe what we are doing on gun violence is a joint effort and we are seeing a lot of fruits there. I would love to see some kind of joint approach on the other things as well. I am hoping we do not hear about bail and raise-the-age, because there are other counties that actually see declines using the same laws, and there are other places in the country where we have seen even larger declines with similar laws. So I am looking forward to a robust conversation. Thank you again.
+
+(00:08:25)
+
+Thank you. Thank you so much, Public Advocate. I just want to briefly emphasize a point made by our Public Advocate. The Bronx has obviously been historically a challenging borough in our City on the issue of crime, and for that reason we cannot talk about public safety and crime in our City without putting an emphasis on the Bronx. If my reading of the Compstat numbers is correct, 40% of the shootings, 40% of the shooting victims and 40% of the shooting incidents have been in the Bronx out of all the incidents covered — murders, shooting incidents and victims. About 40% of each of those have been in the Bronx. So we look forward to talking about steps we could take to address that.
+
+I want to recognize CM Cabán, who has joined on Zoom, and I want to welcome Michael Garber, Deputy Commissioner of Legal Matters of the Police Department, and also Inspector William Holt, Commanding Officer of the Office of Crime Control Strategies. I will pass it to the Committee Counsel. Thank you, Chair.
+
+(00:09:29)
+
+Can you just affirm to tell the truth, the whole truth and nothing but the truth and to answer honestly the Council's questions? Go ahead.
+
+(00:09:35)
+
+Thank you so much. Good afternoon, Chair and members of the Council. My name is Inspector William Holt, Commanding Officer of the NYPD Office of Crime Control Strategies. I am joined here today by Deputy Commissioner of Legal Matters, Michael Garber.
+
+(00:09:54)
+
+On behalf of Police Commissioner Jessica Tisch, thank you for the opportunity to testify today. The Office of Crime Control Strategies tracks and analyzes crime across the City using a data-driven approach. We develop strategies to reduce crime and enhance public safety.
+
+(00:10:10)
+
+Through the end of the period, we have seen the fewest year-to-date murders, shooting incidents and shooting victims in New York City since we started systematically tracking the data over 30 years ago. We have had a 24.1% decrease in murders from last year — 18 fewer murders than the previous record low. We are on track to shatter the record lows of gun violence that we set just last year. Year to date, shooting incidents have decreased 9.6% and shooting victims by 11.9%. That means 46 fewer shootings and 73 fewer people shot. It can be easy to get lost in the statistics and percentages, but we cannot forget these numbers represent real lives saved.
+
+(00:10:50)
+
+Major crime across the City has decreased 6.2% compared to last year. This includes a 12.8% decrease in auto theft, an 11.9% decrease in robbery, a 13.9% decrease in burglary and a 5% decrease in grand larceny. I want to highlight that this past summer, there was an unprecedented series of high-profile events.
+
+(00:11:13)
+
+Including the NBA Finals, the World Cup 2025 and the largest Fourth of July celebration in the nation — all of which placed tremendous demands on the NYPD. We kept our focus on fighting crime and the results speak for themselves. Whether measured by shooting incidents, shooting victims or murders, this was the safest summer for gun violence in New York City's recorded history. From June 1 to August 31, there were 195 shooting incidents — 32 fewer than the previous record low set in 2025. There were 249 shooting victims — 44 fewer than the previous record low set in 2018. There were 66 murders — 12 fewer than the previous record low set in 2017. We achieved this success because of the work done every day by the men and women of the NYPD.
+
+(00:12:03)
+
+They are standing post in the heat and in the cold, in the middle of the night and on holidays, dedicating their lives and at times risking their lives to keep the people of New York
+
+(00:12:13)
+
+City safe. They are carrying out the department's data-driven precision policing strategy. That strategy includes carefully analyzing crime trends to make disciplined, granular deployment decisions — placing officers where they need to be when they are needed most. We do this systematically through violence reduction zones. For example, beginning May 4, the department launched its Summer Violence Reduction Plan. We identified the times and locations where violence is most concentrated during the summer months and surgically deployed resources accordingly. Now that the summer has concluded, we are looking ahead to the Winter Violence Reduction Plan. We will again define high-crime winter zones and deploy resources to those areas. Zones are not static. We continually evaluate the data and reassess strategy. When the data suggests the highest-crime areas are changing, we redefine our zones accordingly.
+
+We are proud of our crime-fighting successes, but there is more work to do. In particular, there are two major crime categories that have seen increases this year: felony assault and rape. Felony assaults are up slightly this year and have been increasing for the past several years. Approximately 40% of felony assaults are acts of domestic violence. At Police Commissioner Tisch's direction, we have enhanced our approach to domestic violence cases through the Domestic Violence Unit, enhancing training, strengthening investigations and working closely with advocacy groups on behalf of survivors of domestic violence.
+
+(00:13:41)
+
+The increase in felony assaults year-to-date has been substantially driven by assaults on public service employees — more than a 50% increase in such assaults compared to the same time last year. More broadly, we have seen a substantial increase in felony assault recidivism. The NYPD has made arrests in nearly 80% of felony assault cases this year, but as of the end of the period, a total of 263 individuals have been arrested three or more times for felony assaults — an increase of 205% compared with 2018. Reports of rape
+
+(00:14:11)
+
+have increased 3.2% this year. This reflects an increase in reporting. There is a long history of rapes being underreported and the department is working hard to encourage survivors to speak with us and to provide them with support when they do. We must close the gap between sexual violence that is occurring and sexual violence that is reported, and we are working towards that goal every day. Thank you for the opportunity to speak with you today. We are looking forward to answering any questions you have. Thank you.
+
+(00:14:43)
+
+Thank you so much for your testimony and again for being here today. I want to start today's conversation by looking at the history of the issues. We have obviously made a lot of progress, especially on the issue of murders and shootings. Historically, I was looking at Compstat data back in the 90s — we would average about 2,200 murders per year
+
+(00:15:05)
+
+in the City. About 2,200 murders — 2,262 in 1990 to be specific — and our City was able to bring that down by about 80% eight years later: 629 versus 2,262. This is something that we must always celebrate. This year we have been able to drastically bring that down about 30
+
+(00:15:26)
+
+years later. Talk to us about those numbers. What are the policies that you would say have historically helped bring specifically the shootings and the murders down in this City?
+
+(00:15:37)
+
+All factors, including economic factors and social factors. We know what happened with the pandemic — the coronavirus pandemic. The numbers alone... policing strategies more than anything else. So we all start
+
+(00:15:50)
+
+and then Inspector Holt will take over. That was a very broad question with a lot to say on it. I think for starters, you talk about Compstat and you think about what was, at the time, a tremendous innovation — the idea of putting the cops where the crime is, when the crime is occurring. And again, I think the thing that is obvious today was not obvious then. The innovation of having a board that shows you where the crime is — this idea of putting thumbtacks on the board, like, here is where the crime is, here is where we are going to put the cops. That idea, that concept, through Compstat and otherwise, I think has had a dramatic effect when it comes to murders and shootings and shooting victims. Because we have gotten better and better at this. So again, it started back in the day with Jack Maple working on a hard-copy board with thumbtacks, and we have been able to refine that more and more with greater precision.
+
+(00:17:07)
+
+Where precisely is the crime occurring. Precisely what crimes.
+
+(00:17:10)
+
+Precisely, when are we putting cops where they need to be, when they need to be, holding commanders accountable to make sure they are doing that? And particularly when it comes to gun violence, often crew related, sometimes drug related, but these are the things that are going to be... this is happening in a particular area, a particular crew, a particular drug beef. If we put the cops in the right place at the right times, we can actually prevent gun violence. And you have seen tremendous success with that.
+
+Just a few other things. Inspector, I think you know one thing that we have done a tremendous amount of work on are the crew takedowns. A relatively small number of people in the city drive gun violence. You want to have a really targeted approach, identifying those individuals who are driving the gun violence, devoting resources, working with our partners to do successful cases against those individuals. Getting guns off the street, obviously incredibly important. Getting illegal guns off the street is going to mean fewer shootings. That is certainly just one part of the answer, but I will turn it over to the inspector now.
+
+(00:18:28)
+
+What we have done, our success is not by accident. It is data driven, it is based on precision policing and deployment, and making changes rapidly when we need to make them. So just looking at murders, we will start with that. We have had 173 murders. That is the lowest in the CompStat era. That is down 24%. Domestic violence murders are down 22%. That is the lowest since 2007. The Borough of Manhattan saw only two murders, and the fewest murders year to date was 19. There were zero housing murders, and that has only occurred one other time, in 2004. With shootings and shooting victims, the City has historic lows year to date in shooting incidents and shooting victims. 442 shooting incidents — that is the lowest in CompStat history. 538 shooting victims year to date — that is the lowest in CompStat history.
+
+The Borough of Brooklyn and the Borough of Queens had the lowest shooting victims on record. Just looking at overall crime citywide, we are down 6.2%. That is down 5,000 fewer index crimes. We are down in five of the seven categories. The Bronx is leading the way, down 11.9% — that is almost 2,500 crimes. Bronx South is down 16.3%. Bronx North is down 7.3%, so a major success.
+
+What we have done is create two patrol boroughs. What that means is more cops, more specialty units, more resources, more executive leadership and oversight, and it is delivering on equity. The Borough of Brooklyn, the Borough of Manhattan and the Borough of Queens all have two patrol boroughs. Now it is time for the Bronx to get their fresh start, and it will make the neighborhoods safer up in the Bronx.
+
+(00:20:22)
+
+And when we look at the results in the Bronx, we have had some positive results on our investment. The Bronx as a whole is leading the entire City in major crime decline, and in Bronx North we have seen declines in major crime overall, and in auto theft, grand larceny, robberies and burglaries. So I want to highlight that success in Bronx North.
+
+What would you say are some of the challenges that we continue to face when it comes to things where we have made progress? What are some of the challenges that prevent us from taking that progress even further, if any?
+
+(00:21:02)
+
+When we look at shootings, I will start in the Bronx. When we look at the Bronx as a whole, we do see shootings and homicides are down, and the Bronx is leading in major crime decline. Any time there is a shooting in the Bronx or any patrol borough, we follow the data. We take an all-department approach, looking to see where we can increase deployment and add resources, and we are very nimble in how we do that. If we need to take extra resources and move them, we use a mobile field force. A mobile field force — just to explain what that is — it is about 40 police officers, five sergeants, two lieutenants and a captain, and they can be moved into any area that we need and placed where we need them. That is on top of already increased
+
+(00:21:54)
+
+deployment. Talk to us about the robberies and burglaries. Those numbers are also down compared to last year and are almost at historic lows — not quite historic lows, but almost. What are the factors and policies and policing strategies that have played a role when it comes to bringing down the robberies and burglaries? Those numbers are right. So...
+
+(00:22:11)
+
+When we look at robberies and burglaries, we again look at the data, we look at where they are happening, we look at who is committing them, we look at where we can precisely deploy to combat any future robberies or burglaries, and then that can change as needed.
+
+(00:22:32)
+
+What would you say are the top three crime reduction strategies that have had the greatest measurable impact on the decline in major crime? And in terms of CompStat, what are other policies and strategies you have been able to put in place?
+
+(00:22:50)
+
+Like I said in my opening testimony, our summer zones have had great success. We deployed to our summer zones, and like I said, it is not by accident. Index crimes in those summer zones are down 23%. We are down in six of the seven categories, as well as shootings and shooting incidents. Most notably, Bronx South and Bronx North are down 38 and 31% respectively. In Bronx North, we saw a reduction of 95 crimes — that is down 22%. Looking at shootings in the zones, they are down 33% in shooting incidents and 27% in shooting victims. Brooklyn North saw a reduction of
+
+(00:23:35)
+
+13 shootings, Bronx South a reduction of 11 shootings, and Bronx North a reduction of two shootings in the zone. And you asked about robberies — robberies in the zone are down 30%. Bronx South saw a reduction of 53 robberies. All precincts are showing reductions, even the top two precincts. One precinct saw a reduction of 69%, the other a reduction of 26.8%. Brooklyn North saw a reduction of 40 robberies, or 37.4%.
+
+(00:24:05)
+
+To go further, in-zone felony assaults are again down 9%. Transit crime is down 8%. Transit robberies are down 19%. And if you look at housing, housing is down 21%, with robberies down 23%, felony assaults down 4% and shooting incidents down 28.6%.
+
+I think an important point, you are asking about strategies — the strategies intersect. They are interconnected. That is really important. So we talk about deployment, precision deployment. We talk about the summer zones. We talk about CompStat as a means of holding commanders accountable. We talk about looking at robbery patterns and burglary
+
+(00:24:49)
+
+patterns. We talk about the crew takedowns. That part of it is so important.
+
+(00:24:52)
+
+These things are not siloed. Through CompStat, looking at data and making sure that decisions are data driven when it comes to deployment, adjusting the summer violent zones as necessary in light of that data, seeing how the crew activity and crew takedowns are going to intersect with what we are seeing, whether in the summer violent zones or otherwise — there are these different strategies, yes, but the point is that they are all interconnected. And I think a really important thing also, something that we have made a lot of progress on particularly under the Commissioner, is that things not be siloed. It is not the Detective Bureau over here and Patrol over there and Intel over there and Crime over there. No, it is everything interconnected, working and breaking down any of those silos, because we are one team working towards one goal.
+
+(00:25:51)
+
+Speaking about trends, we have obviously made a lot of progress. Again, murders and shootings are at historic lows. The robberies and burglaries also seem to be nearly at historic lows, and both of those numbers are down compared to last year.
+
+(00:26:06)
+
+But the numbers still seem to be drastically up compared to the pre-COVID years, specifically 2017, 2018 and 2019. Crime was very low before the pandemic and it seems like it skyrocketed during the pandemic, and it seems like we still have not been able to bring it down to those very safe levels of 2017, 2018 and 2019. Not only that, we have brought down the shootings and murders, but it seems like most of the other crime categories are still up compared to the pre-pandemic years.
+
+So some questions about that specifically: felony assaults. This year we have had, year to date, more felony assaults than the 15,000 year to date in 2019. First, tell us what a felony assault is, just so that we can all be clear about what type of crime we are talking about. What is a felony assault, and talk to us about some of
+
+(00:27:02)
+
+the challenges. So felony assault is a very serious crime. It is an elderly person getting assaulted. It is a serious physical injury. It is a police officer getting assaulted, a public service worker getting assaulted. So we take it extremely seriously. Looking at felony assaults, felony assault is a top priority for this department.
+
+(00:27:19)
+
+Our closure rates highlight how seriously we take this issue. Felony assaults are slightly up this year and have been increasing for the past several years. However, the department is playing its part. Citywide, the NYPD has made roughly 80% of arrests on all felony complaints. That is an all-time high. To put
+
+(00:27:35)
+
+that in perspective, that is 17,000 arrests. This is a direct result of great patrol response, the Detective Bureau gathering evidence, supporting survivors and working with all our prosecuting partners. We cannot do it alone. We are working with the advocacy groups, with the District Attorney's office and all the partners.
+
+When we go even deeper and look at the main drivers for felony assaults, the first is domestic violence, and that is nearly 40% of felony assaults. Assaults on public sector employees are up 50% from last year. For domestic violence, NYPD has made arrests on roughly 92% of these complaints. Again, that is no accident. We have over 450 dedicated investigators assigned to domestic violence. What that means is when the victim of domestic violence reports the crime, when they walk in, when they call 911, that investigator is going to be with them from the inception and they are going to deal with them through the complaint, through the court process, through the arrest process, so they feel comfortable, so that they are not telling that story many times to a different investigator. It is just easier and it makes them feel safe. So that is what we are doing. With public sector employees,
+
+(00:28:48)
+
+the department has dedicated significant resources to investigating and holding these perpetrators accountable. These are City nurses, these are teachers, these are MTA employees who work alongside us and they are getting assaulted, and we want to bring justice for them. Can you provide some raw numbers on that? We have had about this many felony assaults this year. Can you provide some raw numbers?
+
+(00:29:08)
+
+How many of those were domestic violence incidents, attacks on government workers, police officers, firefighters?
+
+(00:29:16)
+
+Yes, just going to go around. So if you look at police officers and public safety employees combined, that is 10.6% of our felony assaults, or roughly 2,165. That is assaults on... What about the rest? Domestic violence — is there any other? So domestic violence is 40.7%. I am going to get you the numbers right now. All right, so about a little less than half, about 21.5%.
+
+(00:29:57)
+
+But yes, so for our felony assaults, roughly 8,075. And like I said, a 92% arrest rate on domestic violence assaults.
+
+(00:30:10)
+
+And that is compared to 20,356 through the same period.
+
+(00:30:16)
+
+Okay. What about the rest of the felony assaults? So about domestic violence, about government and assault on... What about the remainder? So the remainder of our felony assaults — that is about 14,000 felony assaults, about 14,834. That could be if the person is seriously injured, if they are elderly, over 65 years old, or something like that.
+
+Okay. What police strategies are in place to help bring these numbers down? And what are the factors that have led to this increase and have also kept these numbers increasing over these past six years?
+
+(00:31:02)
+
+With the felony assaults, like I said, this department is data driven and we are looking to make arrests on these felony assaults as quickly as possible, and we are doing that at an 80% rate. That is an all-time high. This is, like I said, a direct result of working with the detectives,
+
+(00:31:22)
+
+the police officers on patrol, identifying the perpetrators and bringing them into custody as soon as we can.
+
+(00:31:28)
+
+And what would you say has led to this increase, and what has allowed these numbers to keep climbing
+
+(00:31:32)
+
+over the years? I think it is a hard question to answer. I mean, the inspector was describing the data and the arrest rate. We are doing our part. We are arresting in 80% of felony assault cases. It is an incredibly high number. We do have our side of it, as the inspector discussed.
+
+(00:31:52)
+
+Recidivism really does present a real challenge for us.
+
+(00:31:54)
+
+I mean, you can imagine the frustration. We go and arrest someone for felony assault, they are back out, they do it again, a second time, a third time.
+
+(00:32:03)
+
+And...
+
+(00:32:04)
+
+there are other actors in the criminal justice system, and there is a broader whole-of-government perspective on this. In terms of the prosecutors and the judges and the part that they play in this process, they play a critical role. There is a whole-of-government question in terms of that person going and committing a felony assault. How did they get to that point? There are other City agencies and other offices that sort of address those types of issues. I guess the NYPD is doing its part. I also point out that felony assault presents particular challenges from a prevention perspective.
+
+(00:32:47)
+
+If you think about shootings, think about murders,
+
+(00:32:51)
+
+think about burglary or robbery patterns, think about patterns through crew activity — we identify those patterns, we put the cops in the right places, and that can have a tremendous prevention effect. Felony assaults are often quite different.
+
+(00:33:13)
+
+They are often one-offs. It can be, you know, a dispute that escalates. It started as a verbal dispute, it gets physical, now it is a serious physical injury. We are talking about an assault.
+
+(00:33:28)
+
+Someone is having an encounter with a police officer and all of a sudden that person is hitting a cop. Someone is on the train and for whatever reason they are directing their hostility at a worker and now they are assaulting that worker. So we investigate those very aggressively and have had a lot of success in solving those crimes, as the inspector said. But from a prevention perspective, that is much more challenging when it comes to felony
+
+(00:34:06)
+
+assault. All right, so now my colleagues have questions. I will ask one more line of questions and then I will pass it on to my colleagues.
+
+So another area of crime that seems to require attention is grand larceny involving a vehicle. They have more than doubled compared to the pre-pandemic years. In 2019 specifically, year to date we had 3,623. This year we have had 8,524. That is an increase of approximately 140%. Grand larceny involving a vehicle — what factors have led to this increase?
+
+(00:34:47)
+
+When we look at auto theft, just this year we are actually down 12.8%. Three of the five boroughs are down. Grand larceny auto is down in the Bronx 29.2% and in Bronx North 26.8%. So when we look at the Bronx for grand larceny auto as an example, the Bronx has many unique challenges. It is very close to New Jersey, it is very close to Westchester. When you look at that proximity, many stolen vehicles occur outside New York City. Since 2025, approximately 422 Bronx grand larceny autos have been recovered outside New York City, and 33% of citywide grand larceny autos have been recovered in the Bronx.
+
+So it is all about coordination. We are using our borough-based grand larceny teams. They patrol, they deploy, they look at the data, they look at precision — what makes and models, if there are any clusters — working with the manufacturers. And it shows. In 2026, Operation Pit Crew was a takedown where 16 people were charged with 971 counts. These defendants stole more than one million dollars in auto parts, victimizing 252 hardworking New Yorkers. So the work shows that the crime is trending in the right direction and they are out there doing the job they need to do. Like I said, all of that is very complex crime.
+
+(00:36:07)
+
+Right, absolutely. And I looked at it — took a hard look at all the numbers — and one thing that I saw was that generally crime does not drastically decrease from one year to the next. Generally it is a progressive decrease, year after year. So that is something that I kind of noticed for almost every crime. Obviously there are a few exceptions, but that has been the general trend. But I guess the big question is hoping to compare today's numbers to the numbers from pre-COVID 2019, when we were pretty safe on that specific issue. So what would you say has led to that increase? The numbers have more than doubled, right? Yes, they have — 6,600 versus 8,500. What factors would you say have played a role in that drastic increase?
+
+(00:36:49)
+
+So, Chair, I think that is a hard question for us to answer, right? It goes to a variety of considerations that are actually sort of beyond our purview. So we can identify the crime trends and try to articulate that here today and otherwise, and respond to that, right. But in terms of what the underlying causes are, that is a tough question for anyone to answer. Certainly a tough question for us to answer. To the extent we see recidivism again in the grand larceny auto space, that certainly is a serious consideration, and again we are doing our part, but there is a limit to what we can do in that space.
+
+I think one thing — you saw a real spike during the pandemic, a tremendous spike — and in the past several years we have seen a decline, which is really welcome news. We have been working a lot with the DA on these cases. It is very important because these are not handled on a one-off basis. You might think, oh, it is a property crime. But of course these crimes can have a dramatic impact on somebody's life. You have your car stolen and all of a sudden you cannot get to work, you cannot take your kids to school. So we work a lot with the DA's offices to give them the best possible case that we can, and pattern cases when we can.
+
+The other issue I just want to flag — a very particular change when it comes to, I think, your question — we saw, and have seen, with a number of car types or models, problems that make it easier for someone to steal the car. Certain types of key fobs — I could not explain the technology to you — but certain types of key fobs have made it easier for criminals, through certain technology, to steal those cars, and steal them very quickly. So I think that actually contributed to a major spike, and that is really one of the causes. I should say we have actually worked a lot with some of the car manufacturers on this very issue. We have had meetings essentially with manufacturers where we say, look, hey, there is an issue here. You designed your car in this way and this makes it easier for people to steal the car, and that is bad for everybody. And I think we have made some progress on that.
+
+(00:39:26)
+
+I think that actually is an important consideration here. By grand larceny involving a vehicle, does that mean specifically stealing a vehicle, or does that also include the theft of vehicle parts? And does that also include the theft of a moped? Is that
+
+(00:39:40)
+
+considered a vehicle for these purposes? So a two-wheel device over a certain amount would be considered a grand larceny auto, and the parts would also be considered as such.
+
+(00:39:50)
+
+Do you have a breakdown based on the grand larceny involving a vehicle numbers — cars versus mopeds? I have heard a lot of complaints about mopeds being stolen.
+
+(00:39:59)
+
+So, Chair, we do not have that with us, but I think we have that. That is data we can pull for you and we will provide it.
+
+(00:40:03)
+
+Okay, sounds good. So I have many more questions, but I will pause here. All my colleagues have many questions. We just want to say it seems like we have obviously made a lot of progress on shootings, murders, burglaries and robberies. But compared to the numbers from prior to the pandemic, it seems like there is still a lot of room for progress on many crime categories — many of these categories are up compared to pre-COVID, including grand larceny involving auto, felony assaults and many other crime categories that I will ask about later. I will pause and pass it to the Public Advocate Williams and then Council Members.
+
+(00:40:40)
+
+Ariola, Nurse and Hanks.
+
+(00:40:44)
+
+Thank you, Chair. First, Inspector and Deputy Commissioner, I want to make sure we highlight that this was a very, very busy summer. You acknowledged that in your testimony — the Finals, the Nick's, the FIFA World Cup, everything. So I do want to acknowledge the pressure that was on you to make sure all those things moved smoothly, so thank you for that. I want to thank many partners for the past ten to twenty years who have put so much effort into dealing with shootings and murders. So I just want to acknowledge the difficult job this is. I was going to shout out the Community Affairs unit, who does not always get the praise they deserve, having to manage a lot of police and public relations. I do want to make sure we shout out officers in Community Safety and the Crisis Management System, who are also doing just as dangerous a job as well — not the same job and not in the way you get guns off the street and not in the way you answer one calls the way you do — but I want to make sure they get acknowledged. Some of them have been harmed. I think that combination has helped.
+
+I am frustrated with the numbers. It has been close to twenty years and I can sometimes see the same thing happening over and over when we are getting similar results. I think it is great that we are at historic lows on shootings. Those are real people, real names. Sadly, a lot of those victims look like mine and a lot of their mothers look like mine, who are mourning. So this is very, very, very personal to me. But I do not want to see continued harm, so I am just trying to see how we continue to do things differently.
+
+So you mentioned the crew takedowns, which I have seen happen now time after time, often in the same spaces. This is a great example — we can talk about whether they should be done. Sometimes you do need some of those law enforcement tools. Sometimes they are too much. But if we all agree that sometimes that is needed, after those crew takedowns, are there discussions with other agencies, discussions with the Office of Community Safety, about what needs to be happening in that community so that you do not have to come back again? So that was — Community Safety, of course, is brand new.
+
+(00:42:51)
+
+So, you know, I will say, historically there is not really a history here, right? But I take your point. Well, let
+
+(00:42:57)
+
+me just say this, because I have asked for the past sixteen years, before the Office of Community Safety existed. The question was, are you speaking to other agencies? We have an office now, but there are other agencies that could have always been brought in to talk about what it is that we can do here, because the police have done their part. What else can be done
+
+(00:43:14)
+
+to make sure that police do not have to come back again?
+
+(00:43:16)
+
+Right. So let me just say,
+
+(00:43:17)
+
+you know, I completely agree with you that when we have one of these takedowns — which often are, as you say, geographically concentrated, right, in a particular space — you say some violent crew had taken over a playground, a certain block, whatever it may be, we do that takedown and that then creates an opportunity for the community to take back that space, one hundred percent. And yes, there are other agencies that have a very important role to play in that.
+
+(00:43:45)
+
+Look, when we do these takedowns, it is not a secret, right? It is known to everyone involved, known to everyone in the community, known to other City agencies. And I certainly agree with you that when we have a crew takedown of whatever sort, there is a role for other City agencies to play, particularly in that moment. It is a very particular moment when shooters have been taken off the street. Can agencies help people in that community take back that space for themselves, for their kids? I agree with you on that completely. I do not think it is a secret when we do these things, and I think there is an opportunity for other City agencies to
+
+(00:44:34)
+
+play a very important
+
+(00:44:36)
+
+role. So again, and running short on time, I will push it a little bit. A $6 billion NYPD budget, right, gives you a very large voice in the public safety space. So being pushed — all of this being pushed by NYPD — I think it would be helpful. I do want to push the administration as a whole to force these conversations to occur, that should have happened very naturally. I would say not just around takedowns, but when a shooting occurs, when the North Bronx sees the type of violence increase that we have seen, what are the conversations that are happening between agencies and the Office of Community Safety before the takedown? All the resources are going there, and I have been saying this for I do not know how long — it is the same map. So wherever we are sending law enforcement, we could be sending so many other resources, and we should be doing it collaboratively. I have seen this happen in other counties and other cities that are actually working the best. The best places I have seen are where there is not tension between those things, not tension between the top departments, and folks are working collaboratively. I am not sure that we have erased that tension, so I am hoping we can continue to do that. I am not sure that we are sharing in CompStat meetings with other agencies the way we should be. So I just want to push for this collaborative effort, because the more we keep relying on one approach alone, the more we are going to have the type of issues that we do not want to see.
+
+Everybody wants us to be safe. So my message is there are things that we have been talking about for so long. This administration has done a lot and I am very happy about that, but there are collaborations and conversations that we should be having that we are not. If I could just ask one more question —
+
+(00:46:12)
+
+I appreciate it. I had a question — I know response times have become delayed. I experienced it myself. I also sometimes find that complainants are gone when law enforcement comes. I just wonder if we have any numbers on times when police have arrived and the complainant was not there, because that would not show up in the data. And also, I had in my report a question about when you give the numbers and there is a change — all those reports change after. So, sure. First, on the question about police response when the complainant is no longer there — I just do not know if we have data on that. If we do, we will provide it to you. I do not have it here. I have to look at how we track that. But certainly if we can pull that data, we will provide it to your
+
+(00:47:07)
+
+office. With regard to the
+
+(00:47:10)
+
+crime data — so when a crime gets reclassified, the numbers get updated. So what we are putting out, whether it is a CompStat 2.0 online, when we are providing our monthly data to the State which goes to the feds as well, when we are putting out the monthly press releases, whatever form we are doing this in, we are always using
+
+(00:47:42)
+
+the latest numbers that we have, reflecting, as you know, changes that happened in crime classification in the normal course. And so, yes, the numbers do reflect that.
+
+(00:47:51)
+
+Thank you. And thank you, Chair. New Yorkers do not feel as safe as we actually are, and we have got to figure out why that is. And we have got to make sure they can have faith
+
+(00:47:58)
+
+in the numbers that are being put out. I really appreciate this hearing. Thank you, thank you
+
+(00:48:03)
+
+so much, Public Advocate. I want to recognize Council Member Morano next. We will hear from Council Member Ariola.
+
+(00:48:12)
+
+Thank you so much, Chair. Thank you so much for coming to testify. Now I will say that I was very encouraged by the takedowns of the crews in the areas, and I just want to state that that is why it is very important that we maintain the gang database. We hear a great deal about overall crime being down, but the NYPD count of people with at least three prior felony assault arrests has risen 206% since 2018, from 86 people to 263 people. Is that
+
+(00:48:42)
+
+an accurate number? So this year we have had 263 individuals who have been arrested three or more times for felony assault, and that is up 205% compared to 2018.
+
+(00:48:57)
+
+And yes, that is three or more arrests this year. So what does that statistic tell you about the condition of our criminal justice
+
+(00:49:07)
+
+system? So it is frustrating, obviously. And I think again, we are one piece of the criminal justice system, but only one piece. There is a limit to what we can do. If we make the arrest and we present a good case, you know, there are other actors in the system. And every case has to be evaluated on its own terms, but
+
+(00:49:35)
+
+it definitely — I think that as a descriptive matter — it is a problem. It is a problem. So we are all over it. Would you know how many additional New Yorkers were assaulted this year by defendants who had already been arrested for another violent offense while a previous case of theirs was still pending? No, we will pull that for you. I do not think we have it here, but that is data that we have and we can provide. Okay, so I just want to talk now about reporting of crimes. We have all seen the video circulating online most recently from officers at Washington Square Park, and heard several reports from Times Square and elsewhere in the City of officers either refusing to take a report or dissuading individuals from filing reports. Do you ever receive complaints from the public about officers refusing to take a report or misclassifying what they say?
+
+(00:50:34)
+
+Yeah, so first I want to say that without — the video — I am familiar with the video. Totally unacceptable. It is under investigation by Internal Affairs, right? We have that case under investigation. And yes, I mean, this is not a new issue, right? Most officers do this the right way. I want to say that — it is actually very important, right? Most cops are taking crime reports. They are there to help victims. They are trying to achieve justice for them. You are going to have a small number of officers who do not do this the right way. That is negligence, mistake, lack of training — a training issue. And there are times when it is misconduct, right. And I will be very clear that when we have misconduct, particularly under investigation, these matters are investigated and the disciplinary consequences can be severe.
+
+I also just want to say there are many reasons why it is so problematic. The obvious reason is it is just terribly wrong. Someone experienced a crime, they are trying to report it, and the officer is not taking their complaint — and in that case, the officer was almost seeming to mock them. That is just wrong, full stop. It undermines credibility with the public, which is a terrible thing. There is also another issue, which is the department — like everything we have been talking about — the department runs on crime data, right? And we need good data for deployments, for resource allocation
+
+(00:52:23)
+
+and for follow-up. Okay, so I am going to stop you there because I have a couple more questions. Because we are on crime data and statistics and follow-up — does the NYPD keep a record of 911 calls for crimes being reported compared to the number of reports that are actually being taken by the officers?
+
+(00:52:40)
+
+Right. So we actually do audits on this. As part of our auditing system — we can talk more about that — but one of the audits that we do is an ICAD audit. So what we will do — and I do this both at the command level in terms of self-inspections and then separately from our crime audit team — the crime audit team will do ICAD audits where we take 911 calls, right, and radio runs, and we have a sampling of how we do it. Then we check, right — we say, okay, there was a call for a burglary in progress, robbery in progress. Okay, now we are going to check: one, was a complaint taken, and two, if it was taken, was it taken properly? So we do have a whole auditing process in place to address this
+
+(00:53:33)
+
+issue. I ask just a little lead time. Thanks. So in this year's budget, Mayor Mamdani cut 580 police officers from the budget. Do you have any idea where those police officers might have been assigned if they had been budgeted, and do you believe those additional officers — specifically the ones that would have been assigned to the Bronx — would have had a beneficial impact on crime stats in that borough?
+
+(00:54:01)
+
+So I certainly cannot speak to where, hypothetically, officers would have been assigned. And, you know, look, obviously, if we are talking in a vacuum, as between more police officers and fewer police officers, of course we are always going to want more. But
+
+(00:54:18)
+
+it makes sense that if we had those extra 580 cops, we would have 580 more cops on the street and less crime. But
+
+(00:54:26)
+
+I just want to say that we understand, obviously, that we have budgetary constraints, and we feel like with the cops that we have, we are having a tremendous amount of success in fighting crime.
+
+(00:54:39)
+
+And we also have had a high incidence of minors committing crimes in our communities. Because they are underage, if they get caught they are released to their parents and there are no consequences. Do those crimes get added to the statistics?
+
+(00:54:54)
+
+Are there any Council Members with questions?
+
+(00:54:58)
+
+Is the question whether crimes committed by juveniles are part of our crime statistics? The answer is yes.
+
+(00:55:03)
+
+Yes. OK. Final question: are you aware
+
+(00:55:06)
+
+of any crimes that are being broken down to decrease more serious crime stats to less serious crime stats? Like, for example, a felony burglary might be broken down to a trespass or a petty larceny. Are you aware of that taking place at all? When arrests are being made, does that ever happen?
+
+(00:55:30)
+
+Yes, there are times when that happens. I think we need to go back to the whole sort of process that we have with crime classifications. First of all, again, they can change in the normal course for all sorts of reasons, and you would expect them to change at times for totally normal reasons.
+
+There are times when the cops get it wrong. It does happen, and again that can be through sometimes a training issue. It can be through sloppiness, and every once in a while it can be misconduct. That does happen. We have lots and lots of checks in place and an incredibly exhaustive early warning system with a disciplinary component to get at these sorts of issues, and we have been particularly vigilant about this under Police Commissioner Tisch.
+
+So does that ever happen? Yes, there are times when that happens, and we have a lot of systems in place to catch it and fix it, and when discipline is warranted, we move to impose discipline.
+
+(00:56:31)
+
+Thank you. Thank you for the extra time, Chair.
+
+(00:56:32)
+
+Thank you. Thank you so much, Council Member. Next we will hear from CM Nurse. But briefly, you mentioned that repeat offenders played a
+
+(00:56:40)
+
+big role. I want to turn to that. In relation to
+
+(00:56:43)
+
+felony assaults, about what percent of felony
+
+(00:56:48)
+
+assaults would you say are due to repeat offenders? I have the Bronx numbers. Can you tell us the number for a broader percentage?
+
+(00:57:17)
+
+Sorry, one second, Chair. I do not want to give you an inaccurate answer, so
+
+(00:57:22)
+
+those arrested two or more times is approximately 20% of our felony assaults. 20
+
+(00:57:27)
+
+percent of the felony assaults are individuals arrested two or more times. That is the issue.
+
+(00:57:35)
+
+Okay. Also, where we have been talking about the Bronx and about how many police officers do we have
+
+(00:57:41)
+
+per borough, could you give us a breakdown of that? So per borough, approximately, I will go down and start with Manhattan South. As of May 5th, 1,257 in Manhattan South, 1,701 in Manhattan North, 1,573... 1,722 in the Bronx South, 1,791 in the Bronx North, 1,224 Queens South, 1,259 in Queens... I am sorry. 1,791 Bronx North, 1,259 Bronx South, 1,361 Queens North, 1,163 Queens South, 1,120 Staten Island, 543.
+
+(00:58:37)
+
+How many in the Bronx again? What is the total for the Bronx?
+
+(00:58:40)
+
+Bronx North, 1,259. Bronx South, 1,361.
+
+(00:58:47)
+
+OK, so it seems like every borough has somewhere an equal amount of police officers. Yes. Okay.
+
+(00:58:56)
+
+Yeah. I mean, in the Bronx again, if my math is correct, 40% of murders this city has seen this year have been in the Bronx. About 40% of the shooting incidents and shooting victims the city has seen this year are also in the Bronx. So what explains that division of resources? It seems
+
+(00:59:15)
+
+like we also need to, obviously, public safety is a shared responsibility. There are a lot of factors that play a role. Obviously we need to go to schools, opportunity, good jobs, but
+
+(00:59:25)
+
+it seems like we need even more police in the Bronx based on the
+
+(00:59:28)
+
+numbers. Sure. First of all, as you know, overall the Bronx is leading the city in crime reductions, which is welcome news. To your point, right, in terms of murders and shootings in the Bronx, these are the numbers assigned to the borough commands. But when you have a spike in shootings, we are going to send in more cops. That is not accounted for here.
+
+So, for example, you have a spike in shootings in a precinct. We are sending mobile field forces there, sending specialty teams there. That is one of the precision policing and deployment strategies we talked about earlier. It is not just about static resources. We will move resources across the City as necessary to address changing crime conditions, based on the historical issues that the Bronx has had related to crime.
+
+(01:00:17)
+
+On average, though, how many police officers would you say we have, including those assigned but also those additional resources, on average?
+
+(01:00:27)
+
+I am not sure that is a question we can answer right here, right now. We can try to do some math, and again, Chair, to be clear, the reason why that is a hard question to answer is it literally changes by the day. You could have a mobile field force over here one day and over there a different day. Special teams as well. So I mean, you are going to need some math and some analysis, but I think we can try to come up with some sort of approximation for you and get back to you on that.
+
+(01:00:55)
+
+Okay. Sounds good. I think, obviously again, public safety is a shared responsibility, but police officers play a big role. This might support the argument that we need those 580 additional cops from the new class that was canceled right before we voted for the budget.
+
+(01:01:09)
+
+So we will next hear from CM Nurse and CM Hanks, then CM Cabán. Thank you, Chair. Just
+
+(01:01:18)
+
+I think I just have three questions. Gothamist reported this week that the NYPD issued almost a hundred thousand civil summonses last fiscal year, nearly half of which were dismissed. Given such a
+
+(01:01:32)
+
+high dismissal rate, do you think we should be reallocating resources to more serious crime? So first of all, we share the frustration in terms of what is being described in that article. We are not happy about that for obvious reasons. I do want to emphasize, inconsistent with the article, they are being dismissed not because they were improperly issued, but because the paperwork is not being done properly, it is not being filled out properly. Handwriting issues. We need to fix
+
+(01:02:01)
+
+that. I am sorry, you are saying that the
+
+(01:02:05)
+
+issue is that people's handwriting is bad?
+
+(01:02:06)
+
+If you read the article, the article describes how in some cases, when the officer is filling it out, in some cases it is not being filled out properly. The way it is described in the article is that they could not read what was being handwritten on the summons. So we need to work on that.
+
+(01:02:24)
+
+The officers do get training in the academy on how to properly fill out the forms. Understood.
+
+(01:02:28)
+
+Understood. Just because of
+
+(01:02:29)
+
+time, I do not mean to be rude, but so some of them are
+
+(01:02:34)
+
+getting dismissed because of paperwork. Yeah.
+
+(01:02:37)
+
+Picking apart the way you are filling it out. But going back to the point, do you think that, given so many of them are being dismissed,
+
+(01:02:47)
+
+maybe you should be allocating some of those resources to more serious violent crime?
+
+(01:02:52)
+
+Again, they are not being dismissed because of the underlying issue. But to your question, in many
+
+(01:02:59)
+
+situations, in most of these situations, not all but most, an officer was in a situation where the officer could give a civil summons or give a criminal summons. Most things that are civil summons eligible are also criminal summons eligible. So in these cases, an officer is saying, you know, I am choosing not to give a criminal summons, not to go down the criminal path, when he or she could.
+
+(01:03:27)
+
+And instead saying, no, I am going to do this through the civil process, with no prospect of criminal sanctions.
+
+(01:03:33)
+
+So I understand, and I understand the discretion being offered. I still think it is a pretty high dismissal rate. Since you brought up criminal summonses, you all are also issuing a lot of criminal summonses. Vital City reported that criminal summonses in the first half of 2026 reached an eight-year high with nearly 60,000 summonses. From what I am understanding, this is being driven mostly by the increase in enforcement of transit rule violations, things like disobeying subway signs or taking up more than one seat on the subway. Again, why are we spending so many resources on that versus serious crime?
+
+(01:04:17)
+
+So...
+
+(01:04:18)
+
+You have officers in transit, and they are doing their work and they are seeing someone who is in violation of the transit rules. That could give rise to enforcement. By the way, if they do not act, there is discretion. They correct the issue and that is that. When it comes to enforcement, they have the option in every case to give a civil summons
+
+(01:04:47)
+
+or a criminal summons, because as a matter of law, every transit violation is criminal summons eligible. In that universe of
+
+(01:04:53)
+
+transit summonses, 90% of the time it is civil, not criminal. So in the vast majority of situations, between a civil summons and a criminal summons, an officer is saying, no, I am going to go the civil route, not the criminal route. Where you do see the criminal summonses in transit is when you have someone who received three or more civil summonses in the last two years, or three or more unpaid civil summonses in the last eight years. When civil summonses have been repeatedly given and not addressed, now the criminal summons route is taken. But again, 90% of the time it is civil. So it would be great to get in the
+
+(01:05:39)
+
+follow-up on that nearly 60,000 criminal summonses. What are we looking at? From my understanding, I hear what you are saying: someone on the train is getting a civil summons, OK, they are going to go the other route and not criminal. But who are we issuing these criminal summonses to? If they are recidivists, are they people who are homeless? I mean, who is on there taking up more than one seat that
+
+(01:06:04)
+
+you are now giving a criminal summons to?
+
+(01:06:07)
+
+Just to be clear when I say recidivist, I mean we have a particular policy. So
+
+(01:06:14)
+
+in our system, this person has gotten three or more civil summonses in the last two years or has three or more unpaid civil summonses in the last eight years. It is not based on whether the person is homeless or not at all.
+
+(01:06:27)
+
+In a situation in which, okay, I understand. I think it would just be helpful if you could send a breakdown of some of that in the follow-up and we can write out a proper question for you.
+
+My last question is on unconstitutional policing. Last month, the federal monitor overseeing the Police Department in the Floyd stop-and-frisk litigation found that 13 years since the federal court found the NYPD stop-and-frisk program to be unconstitutional, the Department is still routinely engaging in unconstitutional stops, frisks and other acts. The Department's position, and this is a question, is that unconstitutional policing or illegal policing is a crime. Correct? Not going to... what do you believe? Do you believe that unconstitutional policing
+
+(01:07:16)
+
+is a crime? If a stop violates the Fourth Amendment, there is a constitutional violation. Is that a crime? No, it is a constitutional violation, which is significant, but is that a crime? No.
+
+(01:07:27)
+
+So what would you call it, then? A constitutional violation. Okay. Fine. So how many officers have been fired or disciplined for engaging in illegal policing or unconstitutional stops, let us just say in the last few years?
+
+(01:07:44)
+
+We can... I mean, I do not have the data here, but we can certainly get you data on discipline issued in connection with force... Could you, off
+
+(01:07:56)
+
+the top of your head, just this year, have there been any disciplinary actions? Has anybody been fired for an unconstitutional
+
+(01:08:06)
+
+stop? Fired for an unconstitutional stop? No. Have officers received discipline? Absolutely. The answer to that question is yes. OK, Chair, if I just have a moment to fully respond to the question, please. Absolutely.
+
+What the monitor reports say is that actually the vast majority of officers in the Department are doing this constitutionally, the right way. If you look at the data in those reports, in terms of patrol responses, 911 responses, complainant and victim responses, the compliance rates are incredibly high. What are their compliance rates? In many cases you are north of 90%.
+
+(01:08:46)
+
+Great. They are very, very high. So we
+
+(01:08:48)
+
+still have a little bit more to go. So I guess what I am saying is, what are the concrete actions that you all are doing to address that remaining group of folks that have not been compliant? Not the specialty teams, but we are working every day with the monitor on this. For example, what we are doing with compliance reviews, the work that we are doing... literally every day we are working on this issue and working very closely with the monitor's team. We have made a tremendous amount of progress and, as you know, the number of stops that the Department conducts has fallen over 90% since, say, 2011, 2012. Over 90%. The nature of policing in the City has changed dramatically.
+
+(01:09:39)
+
+Fair enough. So I guess, to the point, what exactly are you doing? In the follow-up, if you could provide, I understand you are not prepared to talk about that today, but in the follow-up if you could provide what are the concrete actions you are taking for that remaining percentage to get us to 100%, which is what should be the goal. What are the disciplinary actions that have been taken? It sounds like no one has been fired even though this has been an issue for 13 years. So I would love to just get more of a breakdown. Thank you.
+
+(01:10:13)
+
+Thank you so much, CM Nurse. By the way, we are going to do a second round, so if there is any data that you do not have right now, feel free to ask about it in the second round. Hopefully you will be able to look at your documents and get the information. Next we will hear from CM Hanks and CM Cabán. Thank you,
+
+(01:10:28)
+
+Chair. Thank you so much for coming. We always appreciate the hard work of the NYPD. So I would like to kind of circle back to where it comes to precision policing. Of course, citywide, major crime is down, but the picture is really not the same everywhere. So in the 120th Precinct in Staten Island, major crime is up 1.5% and felony assaults are up 25.1%. CompStat should help the NYPD see where a problem is growing and respond quickly. So basically my question is, with numbers like this, what has to happen before NYPD sends more officers? How does NYPD regulate their deployment and how do we work with addressing problems with a scalpel?
+
+(01:11:30)
+
+Thank you for the question. So anytime there is a shooting or a crime spike throughout the Department, whether it be Staten Island or the Bronx or wherever, we come together as a Department and we look at the data and we see where we need more resources. So with that, the posture of the Department is, when we see a string of shootings, we analyze, we respond, we deploy accordingly. We would talk about something like this at a CompStat meeting. We bring all the stakeholders together, meaning the precinct would be there, the Intelligence Bureau would be there, the Detective Bureau would be there, and we would share ideas, we would share our vision for success in that area and see what we could do better and where we can improve.
+
+(01:12:08)
+
+Thank you so much. So in that same line, on September 14th, school safety agents discovered a loaded gun in the backpack of a year-old student at Curtis High School after breaking up a fight. Thankfully no one was hurt, but a loaded weapon in school in the 120th Precinct... getting access to weapons. So after an incident like this, what does NYPD do to find out where the gun came from, how the student got it, and whether other young people or weapons may be involved?
+
+(01:12:42)
+
+Finding a gun in a school is very serious and we take it that way. So when we look at youth violence in general, we have deployed Department-implemented Youth Violence Zones, and they are modeled after our data-driven strategy. So these zones are focused on areas where young people are most at risk, and that includes the school and also around the school and the routes to the school, major commuter corridors, major bus stops. It is not just us alone. It is coordination. So every precinct is talking to the principal weekly. We are working with the schools, working with school safety, with the parents, with the students, with the Transit Bureau, because many kids use transit to get home on a bus or a train. My office, the Office of Crime Control Strategies, has a juvenile desk where officers from the field can call and get guidance, and we have made great strides with that desk.
+
+(01:13:37)
+
+Thank you so much. Chair, I have one more question, please. So that now leads me to my next question. CompStat helps
+
+(01:13:45)
+
+NYPD track crime increases, but it is not clear whether NYPD shares that information with our violence interrupters or other nonprofit public safety partners. So I think that was part of your answer to my second question. I think we just need to expand on how NYPD shares that information and what partners receive and how quickly, so we can work as a community together to
+
+(01:14:11)
+
+make sure that everyone is safe. So we share that information, like I said, with many different partners. Each precinct has to have a detailed plan involving youth violence in school corridors, and we do share that information with the schools and with agents.
+
+(01:14:40)
+
+Thank you so much. Next we will hear from Counsel Karen, but briefly, I just want to say again that we appreciate the deputy's focus on focusing on the worst crimes, murders and shootings. I think the focus on that has been able to bring the numbers to the lowest numbers ever, but I guess...
+
+(01:14:56)
+
+My question on that is: are there any obstacles that we have seen on the issue of felony assault and also grand larceny? Is resources an issue? I mean, for example, last year there was a recent takedown of the group, but for over a year I remember in the Bronx and they eventually did it in other parts of the City. Every single day I would receive — I am not exaggerating — every single day I would receive two, three, four new pictures of incidents of basically cars on the floor, no wheels, no rims. And you know, of course resources are not unlimited, but I am wondering why would it take so long to hold this group accountable? To my knowledge they were doing it for over a year. Is it a lack of resources? Obviously you cannot focus on everything at the same time. Is resources an issue?
+
+(01:15:46)
+
+Well, part of it is we also want to build a strong case, and there are always tradeoffs here, right? You want to act quickly for obvious reasons, but you want to have a strong case. You want to make sure that it is going to hold up in court. Doing that takes time, particularly conspiracy cases, right? It is not a one-off. You are connecting various incidents, connecting the various participants in, let us say, a crew. And then part of it is also in the nature of the crime, right? You have situations where it is in the middle of the night. My understanding is some of these crews are able to do this remarkably quickly, and so by the time anyone even realizes the crime has occurred, they are long gone. That presents investigative challenges. The crew case we are talking about is a great case and the product of tremendous work by the Detective Bureau, and it has had a tremendous effect on the Bronx. But in order to have that effect and bring the successful case, it does take time. It does.
+
+(01:16:55)
+
+All right. Next we will hear from CM Cabán, then Wong and then Morano.
+
+(01:16:58)
+
+Thank you. I am going to start with a statement. I promise I will give a cue for when I am asking you a question. I am going to start with my colleague mentioning the summonses. I just want to state, to kind of add context to the record, that a lot of these summonses are being dismissed because they are legally facially insufficient. It is not just some sloppy handwriting, and maybe we should not be wasting time on those things.
+
+I think there also was a suggestion that more police officers would mean less crime, and actually there is a really sound assessment that more police officers are not needed to reduce crime. That is a trend that has been seen locally, statewide and nationally, and it is backed up by data. In fact, Governors' programs specifically point out that murder rates in given communities have seen huge decreases, and so that is a state program that uses community-based organizations working with police to intervene before violence happens. Here in New York City we have something similar, but we know from the Comptroller's report it could use some strengthening, whether it is the bureaucratic hurdles, some of the oversight hurdles, or some of the funding mandates.
+
+I thought it was curious that it was not until the Public Advocate brought up crisis violence interrupters that it was acknowledged that there were partners in the work. When you were asked, "Hey, how are you getting these numbers down?" you said policing and precision policing, but you did not offer community partners up once. It had to be brought up by the Public Advocate, and I think that is telling.
+
+I also want to address the idea that you are not targeting homeless people for being recidivists when the place that they sleep is on the train, and therefore they would likely be a recidivist again. I just do not understand or do not buy the reasoning behind that. But I do want to ask you now: CM Restler asked about the constitutional stops. They are not crimes, but they are violations of our constitutional rights. Are those unconstitutional stops reported in the same way that crime statistics are reported? Do you report on unconstitutional stops? I am saying that, you know, 90% of stops are good, but are you reporting when unconstitutional stops are made the same way you report when a crime is recorded?
+
+(01:19:41)
+
+Do you report unconstitutional stops? What you actually have, as you know, is the monitor puts out regular reports that have all sorts of data broken down in various ways about...
+
+(01:19:52)
+
+Unconstitutional stops identified — the monitor identifies them, not NYPD. Remember, it is a yes or no.
+
+(01:20:00)
+
+Does NYPD report in the same way they do crime statistics on unconstitutional stops? We do. What we actually have is an incredibly extensive reporting system to catch bad stops and improper searches, which the monitor's reports...
+
+(01:20:16)
+
+...do, and which, as you know, the monitor has said — yes or no — those are very much in line with the monitor's analyses, and that is actually included in regular reports to the public from the monitor. We will give both of you time. So if I could ask the questions and just get direct answers to my questions now. You mentioned the example of a person who gets arrested for felony assault one, two, three times. Have you thought about maybe the fact that policing and the criminal legal system is not equipped and cannot solve that problem?
+
+(01:20:56)
+
+Has that occurred to you? To the extent your question is, should we go out and arrest someone who committed a...
+
+(01:21:01)
+
+No, no, no, that is not my question. Yes, I one hundred percent agree that we are doing our part and there are other actors out there in the system very broadly conceived. But that is not my question. I am just saying, do you agree that it is possible that the job that you are tasked to do as NYPD — to make these arrests and pass it off to the DA — that that alone cannot solve the problem?
+
+(01:21:30)
+
+Can you agree that what arrests do is hold someone accountable for a particular crime?
+
+(01:21:34)
+
+If your point is that we are doing our part and other parts of the system are failing, then I agree with that. But the extent of the question — are we doing our part to hold someone accountable for a felony — was not my question. My question is whether it solves the problem of the recidivist act. So I think the answer is no. So now my next question is: what are the underlying factors of instability that could be causing multiple bouts of assault, for example? And CM, to the...
+
+(01:22:03)
+
+...extent your point, which I understand, is that there are underlying social issues that go far beyond anything that NYPD can deal with, in terms of...
+
+(01:22:12)
+
+...economic disparities, for example, educational disparities, health — CM, I agree with you. There are root causes. There are root causes of these problems that the NYPD is not charged with addressing. We are allowed to agree on things. It did not have to be that difficult. Thank you. I want to move on to my next question. Thank you.
+
+(01:22:28)
+
+You could take another minute. Now, is police violence counted in your crime statistics? What do you mean by police violence? Well, when a police officer commits an assault while on the job, is that included in the crime statistics that NYPD puts out? If you are talking about a police officer who goes and commits a crime — if a police officer goes and commits a crime for which the person will be arrested and prosecuted — yes, that would go into our statistics. When officers, as they sometimes have to do unfortunately, use force in connection with policing, and that is at times necessary and appropriate, consistent with the law and consistent with our policy, no, of course that would not be included in the crime statistics. Does it get included in the crime statistics when they use excessive force? If an officer has committed a crime — if we have a member of service, like anyone else in the City, who commits a crime — that will be included in the crime data. So there is a gap there, right? Because we are still seeing millions and millions of dollars of settlements because of instances of police brutality, of excessive force, where those officers are not being charged with a crime, when if they were in civilian clothing they probably would be. Let me finish. There might be a settlement saying this officer used excessive force outside of this context, and that would be a crime, but...
+
+(01:24:01)
+
+...it is not included in the crime statistics. So I guess what I am saying is that the crime statistics do not really show the full picture of what we are looking at, and I would hope that we start using a metric of data that is a little bit more comprehensive than that. For example, police are responsible for up to 5% of murders in the U.S. That is not captured in crime statistics, right? And I would like to know if the crime statistics also are measuring other parts of public safety. Like, do our crime statistics capture how many people...
+
+(01:24:34)
+
+...die because they are sleeping out in the cold? CM, our crime statistics — it will not surprise you to learn — measure crime.
+
+(01:24:42)
+
+There are many other important data sets and statistics that are not measured through NYPD crime data, right? So our crime statistics — and listen, indulge me in this exercise — our...
+
+(01:24:54)
+
+...crime statistics also do not reflect the number of people who die because they did not get medical care, mental health care, et cetera. Correct.
+
+(01:25:03)
+
+Correct. It does not account for people who are left unsafe because of workplace conditions, anything like that. It just is our crime data reflecting crime complaints in the City. So do you think that is measuring... do you think it is a good and accurate measure of the overall safety of our City, our crime...
+
+(01:25:25)
+
+...statistics? I think it is a very good measure, an outstanding measure, of crime in New York City. Again, there are many other things that are very incredibly important and significant and need to be measured, but they are not measured through NYPD crime statistics.
+
+(01:25:41)
+
+Right. I just want to get that on the record. Now, I guess to wrap this up and sort of...
+
+(01:25:47)
+
+...bring us — please, gather. CM, we will have a second round.
+
+(01:25:51)
+
+I would like to just wrap up by saying thank you for answering my questions. But would you — if your mission is public safety — are you in the practice of going to other agencies or going to the Mayor and saying, "Hey, we would like to see investments in housing, in mental health teams, or whatever, because that will help us do our jobs"? Is that happening? CM, we certainly — to the extent the question is, do we want to see public safety writ large in every respect in New York City improved, the answer is of course yes. Are you doing that? Why not? If you want to see it safer and you agree that these other strategies would be helpful, why would you not go to an agency partner and say, "Hey, we are going to lobby on your behalf. We want you to bolster up because it would make our officers safer. It would make our jobs easier. We would have better response times." Why would you not go and ask...
+
+(01:26:51)
+
+...for those things? Thank you, CM. We are just going to have to pause there. We will have a second round on that line of questions. Next we are going to hear from CM Wong and then Morano.
+
+(01:27:02)
+
+Thank you. I am...
+
+(01:27:06)
+
+Commissioner, thank you for coming. Previously you testified that NYPD uses data for resource allocation, and my questions will be focusing on how data is collected and how data is classified. You also mentioned that there were audits conducted between ICAT runs and the 911 calls, and my question is: does the Quality Assurance Division still audit each command's crime reports, and are those audits conducted quarterly? Yes. So if I could just explain a little bit how it works, because there actually are multiple layers of auditing that are done through the Quality Assurance Section. Very briefly: you have the Data Integrity Unit and they are doing reviews, sampling — some of it is random, some of it is targeted and focused, some of it is keyed off of various metrics. So they are doing reviews of complaints of all sorts, again with a sort of set methodology. Those reviews are separate and apart from that. The Crime Audit Team is doing reviews focused in particular on looking at crime classifications that are not major seven crime classifications, but if you are worried about misclassification, that is sort of where you would look, right? So they are doing that, and they do a deep dive on sampling on commands. Then we also have a Confidential Investigation Team in the Quality Assurance Section, and that is doing investigations of alleged misconduct. In terms of timing, the Data Integrity Unit work is essentially constant — that is constantly happening.
+
+The turnaround time from when a complaint first comes in, if it gets flagged for review, will play out probably within two to four weeks right now. The ICAT audits are happening quarterly, so every command is getting reviewed in the quarter, and then that will be reported out and it plays out over the following quarter.
+
+(01:29:47)
+
+It takes about a quarter for that to shake out, and the radio run reviews are being done in each command twice a year. That is on top of the self-inspections that are being done. So let us take the quarterly command board — do they have for each command a form number or report number? Like, when was the last audit completed? So what will happen is the Crime Audit Team will do a sample across various types of categories of complaints. They will do a deep dive on each of those complaints to see if there are any misclassification issues, and they will report and say, "Here are, you know, what percentage of complaints were done properly." If there were any that were misclassified, they flag those for the command. So yeah, there is going to be a point — what percentage, say in 2025, of those crime reports were incorrect or misclassified? So again, it is...
+
+(01:30:57)
+
+...happening across multiple units. So in other words, you have the process which is sort of ongoing...
+
+(01:31:03)
+
+...and you have the Crime Audit Team work, and you have the ICAT checks, and you have the work on... let me ask you to work — but it will get to you. CM, we have — you put in a letter a few days ago requesting various categories of data. We will of course work with your office to get you the various...
+
+(01:31:20)
+
+...pieces that you asked for.
+
+(01:31:23)
+
+Because my predecessor asked for these audit reports and he did not hear back, so I am following up with that. That is why I sent out that letter. Sure. And as to this morning's press release, I think he put in the request a few days before he left the Council. It was literally a matter of days before he left. You have put in a request as a sitting CM. Of course we are going to work with you and your team and we will get you the data that you have...
+
+(01:31:53)
+
+...requested. Yeah, OK. The reason I am concerned is because when I worked for him, we got these phone calls from people who went to call 911 and were told that no police report would be taken, or they went into police precincts and asked to file a police report and they were turned away. So it seemed to me, at least in my district, but it seems to be a citywide problem, that these crime stats do not accurately reflect what is really happening out there, because people were told they are not taking the report. So it is not in the final report.
+
+(01:32:31)
+
+A few things on that, and if I could just have a few moments to respond to that...
+
+(01:32:36)
+
+So again, this is not a new issue, right? Are there times in which officers do not take crime complaints correctly? Yes, that happens. It is a relatively small number of officers, but it does occur. We have extensive checks in place. I described the whole auditing process, and in the commands there are other layers as well — the crime analysis sergeant, the self-inspections that happen, Detective Bureau follow-ups — so there are any number of systems in place. Under Commissioner Tisch there has been a tremendous focus on compliance and oversight. Frankly, to the extent that on those occasional occasions officers engage in that — if there is ever a time when your office receives a complaint of a police officer not properly taking a crime report, please refer that to us immediately and it will be sent immediately for investigation.
+
+(01:33:47)
+
+I am looking forward to seeing the audit reports because again, I have to respond to my constituents. They do not feel any safer or that crime is down, and I have to answer to that. I am just asking.
+
+(01:34:00)
+
+I have to say, we are talking about murders and shootings. Is the suggestion that there are bodies that we are unaware of?
+
+(01:34:09)
+
+We are talking about overall crime data. That is does not accurately reflect — this is not talking about murders or shootings. This is about ordinary citizens who want to file a police report and are turned away, like from a stolen bike, stolen catalytic converters, stolen rims. You know, normally a police report would be taken.
+
+(01:34:31)
+
+But they are not. And sir, if on occasions when that happens, please tell us so we can investigate and take appropriate steps. This is very important to us. But I want to be clear: these are the exceptions. The vast majority of police officers are doing this the right way, trying to help victims, taking proper complaint reports, and we have a lot of checks in place to catch those instances in which officers fall short.
+
+(01:35:02)
+
+And I am going to end by saying we have individuals that were told not to call 911. If you have a problem, call the police precinct directly. And then I hear from multiple people. So those are my concerns coming from my end, which I believe the data that I have seen does not reflect the cases that I have just told you about. Thank you.
+
+(01:35:27)
+
+Thank you so much. Council Member one, next we will hear from CM Morano. Thank you.
+
+(01:35:31)
+
+Chair, first I want to recognize the men and women of the NYPD. The reduction in shootings and murders that you have cited are a significant accomplishment and our police officers deserve a whole lot of recognition for that. Before my questions, I do want to express some disappointment about who is not here today. Inspector and Deputy Commissioner, I appreciate both of you appearing, and this is not a reflection on either of you personally. But we are holding a hearing about the accuracy of crime statistics and the safety of millions of New Yorkers. The Police Commissioner is not here and neither is a chief. I understand the Commissioner cannot attend every hearing, but the Council and this Committee has an obligation to oversee the NYPD, and I think a hearing of this importance warrants representation from the department's senior operational leadership. I am wondering if you can explain who made the decision about which NYPD officials would testify today and why a chief or the Commissioner was not available.
+
+(01:36:32)
+
+So the Inspector is the commanding officer of the Office of Crime Control Strategies. He is exactly the right person to speak to crime data and crime trends in the City. There are other executives who could do that as well, but he is certainly more than qualified for that and has an incredibly important role in that exact process. He lives and breathes this every day.
+
+(01:36:55)
+
+The quality assurance unit is part of the Professional Standards Division, which falls under me. I am responsible and ultimately report to the Police Commissioner for the auditing that I was describing earlier. You have the right people here to answer your questions.
+
+(01:37:08)
+
+Inspector, you testified that 263 individuals have each been arrested at least three times for felony assault this year in response to the Chair. We just learned that repeat offenders are responsible for, I believe you said, 20% of felony assaults. That is one out of every five felony assaults. So my question is, if I understand the numbers correctly — and if I do not, please correct me — does the NYPD have a specific strategy for intervening after someone's second felony assault arrest in order to prevent a third? Do you coordinate with the DA to flag these individuals for particular attention? Are you measuring the success of any of those strategies by the number of repeat arrests or by reductions in subsequent victimization?
+
+(01:37:59)
+
+Yes. The commanding officers are in touch with the District Attorney's office each time a person is arrested for a violent felony, and they are ensuring that information is gathered with them. CM Ariola...
+
+(01:38:09)
+
+I asked about the 580 additional officers — I think the Chair referenced that as well — that were removed from the final budget. Commissioner, you indicated that you could not speculate about where those officers would have been assigned. I am not asking you to speculate. I am asking about the planning that occurred before those positions were proposed. Was there a written staffing assessment justifying the need for 580 additional officers? Was that assessment revised when the decision was made not to hire them?
+
+(01:38:41)
+
+I think about those 500-some officers, which I think Mayor Adams put in at the very end of his administration. He put those in, but he was also leaving, and so it was never clear that this was sort of real. It is like for anyone to say, okay, we are going to add additional officers, but I am not in a position to actually add the officers. That was not something that we were assuming was going to happen or banking on. I think, to be clear, one very important point is that as compared to two years ago, we have 2,000 more cops. As compared to two years ago, we now have 2,000 more police...
+
+(01:39:19)
+
+officers. So we have a lot more. That 500-something we were never banking on. And crime is down in New York City. Crime is declining in cities across America. Baltimore is one particularly striking example. I do not mention that to diminish the accomplishments of our police officers. I want to identify what is working and amplify that. Does the NYPD benchmark New York's crime reductions against comparable American cities? How are we doing when measured that way? Which crime categories are improving faster than the national trend and which are improving more slowly?
+
+(01:40:06)
+
+So, early on, in terms of CompStat and the regular data that we are using, we are benchmarking against New York City numbers looking back over a five-year period beginning of the CompStat era. That is how we think about the data. I understand what you are asking. Basically what I am trying to get at is how you determine how much of New York's improvement is due to broader national trends. For instance, I have heard — and I am not saying this is accurate — I have heard some say that a more stringent deportation policy has resulted in a national crime reduction. Not saying that is true, but I am just wondering: how do we know what we are doing is working if crime is down in every major city?
+
+But I would make a few points on that. One is that this is part of the challenge in doing this sort of analysis. I understand what you are saying in terms of national trends, but of course cities are different. They present different challenges. In New York City, I would say in many ways it is actually singular. I think it is different than every other city in this country. The other point I want to make is that, for example, you see crime declines, you see murder declines across the country. I know that is one metric, but...
+
+(01:41:24)
+
+In New York City, what is incredible about it is it is not just the crime decline — it is murders and shootings at historic lows. In other words, it is one thing to say what percentage are murders declining in Baltimore or Chicago or New York City, and that is interesting and relevant. But a separate question is: where was Chicago starting and where was Baltimore starting and where is New York starting? The fact that we have been able to get murders down to the lowest number and shootings to the lowest number...
+
+(01:41:52)
+
+ever in terms of recorded history — with all the national trends — that is an incredible accomplishment. One final question, if I may, just briefly. There was some skepticism expressed by several of my colleagues on the left and the right about whether or not the numbers are an accurate reflection of what is happening.
+
+(01:42:15)
+
+The Council's briefing paper identifies an example from 2025 where the NYPD initially reported 19 murders and 140 rapes and then those figures were subsequently revised to 24 murders and 158 rapes. I understand that investigations evolve and legitimate revisions are necessary. But when the department announces historic crime reductions and the underlying numbers subsequently change, does it ever issue a public correction or reconciliation? Would you support publishing a monthly report showing crimes added, removed, upgraded or downgraded after those preliminary statistics are announced?
+
+(01:43:00)
+
+So a few different pieces of that question. I want to try to answer all of them if I can. So one, I would want to address the example you gave. The murder number getting revised — crimes get revised all the time, not because anyone made a mistake, but because the crime classification is properly revised. Murders are a perfect example. This is almost certainly what happened in the case you are describing. Someone was shot, they are still alive, so it is not a murder. A month later, three months later, the person dies. Now it is a murder. It is not going to be reclassified as a murder immediately. No one did anything wrong. It was at one point...
+
+(01:43:45)
+
+not a murder.
+
+(01:43:46)
+
+At a later point it is a murder. I want to give you another example because it is really important. Someone says, hey, I lost my property on the subway. I lost my wallet. I had my credit card in there. I lost it. Okay, we take that as lost property — not a crime at all. Then a month later there is unauthorized credit card usage. Now it is a grand larceny. You have gone from properly classified as not a crime at all to properly classified as a major seven. So that is normal. That is what we would expect. And frankly, if there is any major police department in this country where you do not see that type of crime reclassification, that is a red flag. That is a big problem. Because this is what happens in the normal course.
+
+Now what we do is we archive all of these press releases. Everything is archived. So to the extent there has been reporting or articles about these changes, that is all based on the data that we put out there to the public. So there are no secrets here. The reason why I like the fact that, hey, at one point you know it was X number of murders and then later it is Y number of murders — properly so — is because all of that is totally available to any member of the public, whether it is Council Members or journalists or academics. All that information is out...
+
+(01:45:16)
+
+there. Thank you. Thank you so much, CM Morano. I think we have concluded our first round of questions. So we are going to take a brief five-minute recess and then we will do a second round of questions. Thank you so much everyone.
+
+(01:45:35)
+
+It is 5:16, so we will be back at 3:22. Thank you. ...Ladies and gentlemen, please take your seats. We will be resuming shortly.
+
+(01:53:21)
+
+All right. Thank you so much everyone. We are going to resume with a second round of questions. So I want to start by going back to the topic related to felony assault, and then I will move on to some questions about the data in the Bronx and also subway crime. The felony assault is obviously a very serious crime. What percent of the felony assaults — and now we have this in front of you — has been first-degree felony assault versus second-degree felony...
+
+(01:53:48)
+
+assault? If you do not know, that is very specific. Can you get back to us on that? Okay.
+
+(01:53:54)
+
+Any data on the percent of felony assaults where the victim is someone that they know versus someone who is a stranger or a random argument in the streets?
+
+(01:54:10)
+
+So look at the victim's relationship to the offender. The stranger category is about 40.5%, a boyfriend is about 0.8%, an acquaintance 5.6%, an ex-boyfriend about 7.1%, about 11% and cannot be determined. It is a lot — it is a 27% increase. Okay, so the biggest category is the stranger, at about 40%. In raw numbers: 2,048 cannot be determined, 1,600 stranger, 13 boyfriend, 86 acquaintance, 98 ex-boyfriend and 65 mother.
+
+(01:54:53)
+
+Okay, I am moving on to subway crime. This information is generally posted by the MTA, right? The subway assaults and the murders every three to four...
+
+(01:55:06)
+
+months. Well, I am not sure about what the MTA does, but we certainly put out, as part of our monthly press releases, transit crime data on CompStat. That includes transit crime and that is available to the public at all times. It includes weekly, 28-day and year-to-date data for transit. And of course we have the quarterly data we put on open data for public review. That should all include transit crime data.
+
+(01:55:42)
+
+Yeah, I think it is not specific in terms of murders...
+
+(01:55:44)
+
+in our subways versus outside of our subways, but we could try to talk about that offline. Talk to us about subway crime — the numbers related to subway crime, murders and assaults this year versus last year. Would these have been some of our safest two years on that issue? And how does this year...
+
+(01:56:00)
+
+compare to those years? So the transit system — I am just going to start with the transit system. It is very vast. There are many stations, it is linear. Just to put it in perspective, there are 472 stations, 36 lines and about 250 miles of actual track. That is just how vast and complex the system is. And like I said, it is linear. So transit crime is down for the year and the NYPD delivered low violent crime in the subway system and zero shooting victims, zero murders and zero rapes for the entire month of... You know, this is due to our strategy of placing cops on the platforms and on the trains where they need to be, because that is where about 75% of our crime is occurring. So when a person gets on a train or gets off the train, they see a cop on the platform. The cops are positioned strategically in the middle of the platform to keep them in sight.
+
+There are about 4 million rides per day in the subway system on a weekday. We have about six index crimes per day — a very, very small percentage. We want to make sure that people feel safe. Omnipresence of uniformed cops on those platforms and on those trains. An independent survey shows that about 79% of customers feel safe on their last trip, about 76% feel safe in the station during the last trip and about 71% feel safe in the system entirely.
+
+Transit has a lot of different types of crimes. You asked about murders, and murders are slightly up — five versus three. Five is too many, but five versus three. And...
+
+(01:57:34)
+
+felony assaults are up about 27% and robberies are up about 18%. Shootings: four versus two — too many, but four versus two. And that is all year to date, right? That is all...
+
+(01:57:46)
+
+yes. Although if you look at transit over the last few years, it has been steady. Transit crime — looking at transit, a lot of our crime is non-violent in nature. It is grand larceny, and grand larceny is coming in many different ways. So I am going to break down the grand larceny just in layman's terms.
+
+So this grand larceny is that our people are sleeping on the train. They are resting on the way home from work and as they are sleeping, someone takes their property. There is a teenager on the phone — like most of them are — they are studying, they are looking at something on the phone, they are texting their parents, and someone snatches that phone. That is a real victim. Someone's phone being taken from them, especially a teenager or an elderly person — that can disrupt their whole life. There is also pickpocketing, people dipping into bags. Sometimes they are victimizing elderly people or someone who is unaware of a crime even happening, working through deception. So a lot of challenges in transit crime, and we are working at it and our men and women on the Transit Bureau are doing a fantastic job.
+
+(01:58:50)
+
+Okay, so you said 27% increase in felony assault in our subways.
+
+(01:58:53)
+
+Yes. Can you provide some raw numbers on that? So to put that in perspective, it is 435 victims versus 397 — that is plus 38.
+
+(01:59:08)
+
+Okay. Talk to us about police deployment in our subways. I know during 2024 and 2025 we saw a massive deployment and a drastic police presence in our subways that helped bring results — crime went down. Are those cops still in our subways or were they transferred to other parts? And is all the state funding still there over time? I am just...
+
+(01:59:30)
+
+going to say our strategy right now is placing the cops on the trains because that is what the data shows. We are a data-driven agency. And that is particularly true in transit. Transit is a different way of policing than we do on the street. So we are placing them on the trains and on the platforms because 75% of the crime is happening there. And if you think about it, the train and the platform are really synonymous — the train has to come onto the platform, so people getting on and getting off are going to see a cop. And you know, it is hard to quantify how much crime that is deterring, but it...
+
+(02:00:01)
+
+certainly is. How does the department distinguish between crime occurring on the subways versus in and around the subway stations but not considered part of the subway system?
+
+(02:00:11)
+
+When we look at subway crime and crime in general, we will look at the data. We will look at where it is happening, and on a complaint report, a reporter could say actions prior to coming from transit or going to transit, even though the crime did not happen in the transit system. The transit commanding officer, who is in touch with his respective precinct commander, will talk about, hey, we have people leaving the train at Union Square Station and when they are going upstairs to the park, they are getting victimized by a robbery or larceny. Let us work together, let us do a joint operation. Let us put our teams in place and work together to find out who is doing this and put it out — put the fire out. And for purposes of data, what is already attributed to subway crime: what is considered a subway crime? Is it anything beyond the entrance of the subway versus fully within the subway? Just anything on the stairway leading down into the system, on the train, on the platform, in the mezzanine.
+
+Some of these stations are so vast that they can be looked at — a station like Union Square goes from 14th Street all the way up to 18th Street, a massive complex. There is Times Square and 125th Street. So some of these stations, you cannot just say cops are assigned to that station — you have got to put them where you need them. If the crime is happening on the stairs, we put them there. If it is happening on the train or platform, we are putting them there. Got it.
+
+(02:01:26)
+
+I just want to move on to statistics related to the Bronx. Again, we cannot talk about public safety in our City without talking about the Bronx, given that it has obviously historically been a challenge. So I want to talk about the Bronx, and I guess the broader conversation is about crime hotspots. We have made a lot of progress on issues of crime, but again about 40% of the murders that this City has seen have been in the Bronx. The same is true for shooting incidents and shooting victims. Also, last week in the 44th Precinct, nine people were shot in one precinct in just one week — nine people shot. So I am just curious. I know there are different steps that your team has taken, including separating the borough into Patrol Borough Bronx North and South. Talk to us about the resources that came in and also what is the division — I guess there were 200 police officers...
+
+(02:02:29)
+
+So, like I said in my opening testimony, the Bronx North exists because the NYPD made the decision to create two patrol boroughs in the Bronx and deliver a safer borough. What that means is more cops, more specialty units, more detectives, more resources, more leadership and oversight. And it is working — the Bronx is leading the City in crime reduction overall, at about 11.9%. So that does not happen by accident. We are looking at the data, we are putting police officers where they need to be in the Borough of the Bronx. In the zones, five out of six commands in Bronx North have violence zones, and five out of six commands in the South have violence zones. It is about 21 violent zones in the borough. So we are putting the cops where they need to be. And if we see a cluster of shootings in the 44th Precinct or any uptick in crime in the City, we are going to look at the data. We are going to start the next day — not just after the...
+
+(02:03:29)
+
+...fifth one, after the first one. When we take any shooting, we look at what we need to do. What is the motivation behind that shooting? Who is doing it? Do we know who is doing it? Where is it happening?
+
+(02:03:40)
+
+And now we are going to target that area. We are going to saturate the area. And, you know, I am not asking this question because I am from the Bronx, but obviously I know this is a police department that has focused mostly on murders and shootings. So I am just wondering — I know you mentioned generally every borough gets a similar amount of resources, but there are additional resources that are deployed depending on the issues there. Approximately what percentage of NYPD-related resources are allocated to the Bronx, given this public safety crisis? And again, 40% of murders that the City has seen have been in the Bronx, and the same for shootings.
+
+(02:04:20)
+
+So just wondering how much of the total resources have been allocated to the Bronx. We have the two boroughs in the Bronx now, so more cops in general. We have our mobile field forces, and about 54 — 54.5% of our 1,230 mobile field force, which helps with school conditions, is assigned to the Bronx Monday to Friday. About 42.8% of those forces are assigned to the Bronx, and on the weekends that number increases to about 50% assigned to the Bronx. So it is more help where it is needed.
+
+(02:04:57)
+
+All right. Thank you for the information. We will go with Council Member... a second round of questions.
+
+(02:05:03)
+
+Council Members Ariola, Cabán, Nurse and then Wong. I know also this is a pretty narrow topic — crime statistics — compared to, for example, the budget hearings where we ask about a trillion things. So we will be a little bit generous with time, but please make sure to let the members ask the questions and then let the police department answer the questions. On to the questions. Thank you.
+
+(02:05:29)
+
+Thank you, Chair. So when we left off in our first round, we were talking about officers being disciplined for not taking reports or knowingly downgrading more serious crimes. Do you know, or do you have statistics on, how many officers over the last two years have been disciplined for that type of behavior?
+
+(02:05:49)
+
+I do not have it here, but we can certainly get that data for you and provide it to you.
+
+(02:05:51)
+
+Okay, great. That would be great. And I just — you touched on it earlier — there are so many scams that people are now being victimized by. One thing that we are seeing an uptick in being reported to our office are these jewelry swap scams. So how many active patterns do you have for the jewelry swap scams, and how many of those incidents have turned into robberies? And also, how many active crime patterns do you have of robberies of that nature by people using mopeds?
+
+(02:06:28)
+
+So I am just going to talk about the jewelry scams and I will get back to you on the numbers. The jewelry scams — the swaps — are being taken very seriously and this is occurring all over the City. So what a jewelry swap is, for those who do not know: targeting elderly victims, a group of perpetrators will drive up or walk up to an elderly victim who is near their residence or in their neighborhood where they shop, where they live. They will go up to that person and they will say, "Oh, you look like my mom, you look like my dad. Can I pray with you?" They will get very close, encroach on that person, get very close.
+
+As they are doing that, in a deception, they will steal a piece of sentimental or valuable jewelry off of that elderly person and put a fake one on, and then they will be gone — they will leave before the person even knows. So it is a horrible crime and it is targeting an almost entirely vulnerable population. What we are doing about it: there is a crime prevention aspect through the Crime Prevention Division, which falls under my office. They are actively going out into these neighborhoods, they are talking to the elderly communities, they are putting up signs, they have a big truck that says to be aware of these scams. They are doing a great job and we are all over it.
+
+(02:07:40)
+
+So when the perpetrator is caught in an instance where they are caught, are they being charged with robbery?
+
+(02:07:48)
+
+That depends. If it is just the jewelry swap — and that could be a larceny from person — if they push the person or harm the person, or the person feels threatened, that would be a robbery. Okay? And the same for these types of chain snatching that is happening — someone going by and just grabbing jewelry from people. Just to go back to the grand larceny: it is called larceny by false promise, really. That is up about 40%.
+
+(02:08:14)
+
+That is 486 victims of this crime.
+
+(02:08:16)
+
+Okay. That is always counted in your crime statistics?
+
+(02:08:19)
+
+Yes, that is always counted in the crime statistics.
+
+(02:08:20)
+
+Yes, it is absolutely counted — just depending on what classification.
+
+(02:08:24)
+
+Yes. Okay. That is all I have for round two. I too want to thank the NYPD for doing a job while they are seriously understaffed. This has been a year of years for events here in New York City. Thank you.
+
+(02:08:39)
+
+Thank you so much, Council Member. And then Wong — and it looks like...
+
+(02:08:45)
+
+It will be the final round of questions. Thank you. Inspector, you testified several times that you are data driven — very data driven. You also mentioned a couple of times that part of what you believe you need to be doing is deploying more specialty units, that you need to lean into your specialty units.
+
+So, the most recent report from the monitor details persistent constitutional violations, particularly from the specialized units. They found that the specialized units continue to perform significantly worse than regular patrol officers and that they failed to meet nearly every constitutional compliance benchmark established by the independent monitor. So my question is: if you are data driven and you want to lean into what works while also holding your folks accountable, why do you believe that what you need is more specialty units when your specialty units are some of the worst actors in terms of perpetrating unconstitutional stops?
+
+(02:09:53)
+
+So that was for the Inspector? I am going to answer your question. For starters, I do not think the Inspector said that we need more specialty units. I think what he said was we surge resources — a variety of resources, specialized resources, and sometimes specialty units, yes — into high crime areas. That is 100% true. We do that.
+
+(02:10:14)
+
+I think my question was, Inspector, why do you think we need to lean into more specialty units? He was not speaking for the Inspector.
+
+(02:10:27)
+
+And again, we did not say more specialty units. We said we deploy resources, including specialty units, focusing on high crime areas. If we have got a spike in shootings, a spike in violence, we are going to deploy resources, including at times specialty teams, to that area.
+
+(02:10:44)
+
+You testified that he wanted more of that — more specialty units. He did not say that.
+
+(02:10:48)
+
+In any event, why do those teams no longer exist? As I am sure you know from reading...
+
+(02:10:53)
+
+The monitoring report. But the Inspector can speak for himself.
+
+(02:10:58)
+
+I am telling you, Council Member.
+
+(02:11:01)
+
+You do not get to decide who answers on behalf of the NYPD. If I ask a particular person...
+
+(02:11:05)
+
+...what they thought about a...
+
+(02:11:06)
+
+...thing, I would hope that that...
+
+(02:11:08)
+
+...particular — well, except for the fact that, based on his testimony, he did not say what you said he said.
+
+(02:11:16)
+
+He did not say that. Okay.
+
+(02:11:16)
+
+Well, Inspector, based on that information about the specialty units being some of the...
+
+(02:11:22)
+
+...worst actors, what are your thoughts...
+
+(02:11:25)
+
+...on continuing the use of specialty units, as opposed to, for example, the regular patrol officers? Council Member, we use specialty teams, as you know, to get guns off the street, to address violence. Okay.
+
+(02:11:39)
+
+Since he cannot answer my question, I am going to ask a new question. In terms of officer misconduct, can either of you tell me how many times the department has substantiated misconduct of officers who killed civilians...
+
+(02:11:51)
+
+...since 2014? We certainly do not have that data here. We can certainly get back to you in terms of that data. I will say that I know of instances where findings determined that use of force by officers was not within guidelines — that definitely happens. I know that for a fact.
+
+(02:12:13)
+
+I want to ask my last question. I will wait for you to send the answer on the murdered civilians. So actually, now I want to ask about the P-STAT law — that 2020 New York State legislation. That law, the 2020 state legislation, requires police departments to report on the number of people killed by police and the number of people who die in police custody. In the six years since the passage of that law, the NYPD has not reported the number of deaths to the State and has been out of compliance with the law.
+
+(02:12:51)
+
+Why is the NYPD out of compliance with this law, and when do you plan to correct this and get into compliance?
+
+(02:12:57)
+
+So, Council Member, I am generally aware of the law and we certainly provide data in connection with that law. Now, to the extent that we are falling short in certain ways, I mean, we can talk offline about exactly what you are referring to. But we 100% provide certain data sets in connection with that statute.
+
+(02:13:20)
+
+Okay, well then we probably should connect, because the information here is that you are not in compliance with that law. And to the extent of the question about any one particular data set, or giving some and not all, I am happy to discuss that. I want to be clear: as a writ large, we have reporting obligations and we certainly provide certain data sets in connection with that.
+
+(02:13:40)
+
+And writ large, you have lots of reporting obligations. One of them is to be in compliance with the P-STAT law passed by the State in 2020, and you currently are not in compliance. So if you could follow up with why you have not been in compliance with that particular law and when you plan to get into compliance, that is the information I am hoping for. Thank you. And thank you, Chair.
+
+(02:14:02)
+
+Thank you so much, Council Member. We are going to go back with Council Member Wong. Thank you.
+
+(02:14:13)
+
+This question pertains to Transit District 20s Captain. In March 2025, a captain who headed Transit District 20 in Jamaica was transferred for allegedly encouraging the falsification of crime reports to downplay serious crimes. My question is really a yes or no answer: is there an investigation into this incident? Yes. Okay. What was it...
+
+(02:14:43)
+
+...complete? The matter is pending — a pending disciplinary matter.
+
+(02:14:47)
+
+Wait, so this is still ongoing? Okay. Will he be disciplined, as far as...
+
+(02:14:54)
+
+...you know? It is a pending disciplinary matter.
+
+(02:14:58)
+
+Okay. But the news report on this, his transfer last year, did say that the department confirmed it had ordered an audit of that transit district's crime reports. I would like to request that you share this audit report with our office. Can we...
+
+(02:15:14)
+
+...get that? Well, again, you asked for a number of different data sets, and we are going to work with your office to get the data that you...
+
+(02:15:22)
+
+...requested. Yes, but this is specifically related to the Transit District 20 Captain. So...
+
+(02:15:27)
+
+Just to be clear: to the extent you are asking for information about audit numbers, complaints reviewed, that sort of thing, we will get you that information. I actually want to be clear — to the extent you are asking, and I am not sure that you are, about a particular ongoing disciplinary matter, I want to be careful about that. It is a pending matter, so we would not be able to provide information that goes to a pending matter. But I do think we could definitely provide to you, again, if you are asking about data on numbers audited, error rate, the authority on this case — what was done on this case. This is about his alleged conduct of falsifying crime reports. And again, if you are asking for a number of complaints, interviews or errors found in connection with a particular precinct or transit district, we can accommodate that. I want to be clear. I do not think we disagree. I want to be clear that to the extent the request goes to a pending disciplinary matter, that involves all sorts of other issues and we need to be careful about that. But in terms of the data you are requesting, I think we can make that work. Thank you.
+
+(02:16:47)
+
+My second question — I have time left. Are finalized complaint reports still required to be finalized within 24 hours?
+
+(02:17:01)
+
+Yes. And what if they are late — what if they cannot do it? What happens? Well, what is going to happen is the Chief of Department's office is getting data on this, so they are going to — basically what is going to happen is if a complaint report has not been finalized within 24 hours, there will be follow-up from the Chief of the Department's office, essentially through the chain of command to that command, saying, hey, you have a complaint here that has not been finalized within 24 hours. You have got to finalize it. Let us get it done. It gets done. Okay.
+
+(02:17:33)
+
+Yeah. You see, based upon what I heard today — there are now two borough commands in the Bronx, and why do we need that if crime is down? This is one confused picture here. And my overall reaction from a constituent perspective is that when they call 911, it takes a very long time for police officers to respond. It just tells me that we do not have enough police officers. What I am hearing is that we have plenty of police officers graduating, but it is clearly not enough when you compare it to the people leaving. So what I am trying to see is an accurate set of data that shows it is taking a long time for police officers to respond to a scene, or that they just do not respond at all. This is why I am asking about this data, because it does not seem to me that what is being published is accurately reflecting what is really happening.
+
+(02:18:37)
+
+Well, again, I am not sure what you mean by that. All the data that you are talking about here is data that we have shared with the public that reflects crime revisions — again, normal course crime revisions. What you would expect to see, normal course. It also reflects extensive, wide-ranging oversight and redundancies built in to catch mistakes when they happen, and again, on the rare occasions when you have misconduct. You referenced a pending matter to have aggressive investigation, appropriate, very, very serious discipline. Okay, well...
+
+(02:19:13)
+
+Thank you. And I look forward to reports that you can provide to me on Transit District 20 captains. Keith, thank you. Thank you.
+
+(02:19:22)
+
+Thank you. Thank you so much. Council Member one, there are some few final questions on some of the topics that we talked about earlier.
+
+(02:19:33)
+
+So you mentioned that recidivism has been playing a big role, about a 20% role, in the federal results. What role has that been playing on the other major crimes? We have that data. Is that something that stands out?
+
+(02:19:46)
+
+I do not know that we have that here, but certainly we can pull some of that data. We will pull data for you, Chair, and we will be able to follow up.
+
+(02:19:52)
+
+Okay. On the issue of felony assaults, are there any specific types of assaults that stand out? For example, stabbings, slashings, or using a knife versus other dangerous instrument, or anything that stands out from the felony results?
+
+(02:20:13)
+
+I...
+
+(02:20:14)
+
+Said earlier, was the domestic violence. It is about 40%. And if you combine domestic violence and assaults on police officers and other public service employees, that is about 50%. Does the data capture anything about those incidents that stands out? For example, using a knife versus using any weapon, and all the using of a dangerous instrument as part of the rule?
+
+(02:20:39)
+
+What sticks out is really the volume, but that is there. We have that. Okay. We have not talked much about the rapes. They are up 3.2%.
+
+(02:20:52)
+
+Up by 3.2%. This...
+
+(02:20:56)
+
+I know it has been mentioned before that the definition was expanded, so more incidents are covered.
+
+(02:21:02)
+
+How much of this increase would you say is due to the expanded definition? So if you are looking at a larger time frame, right? We talked about going back to 2019, right there, pre-pandemic. If you look at the 2019 numbers and look at the numbers, say, in 2026, right...
+
+(02:21:33)
+
+Almost all of the definition of rape expanded. As you know, things that previously would have been charged as criminal sexual act now get charged as rape. So if you take the aggregate of the rape numbers and the criminal sexual act numbers, that will account for sort of how it gets reallocated in light of a change in the law. It is really flat.
+
+(02:21:55)
+
+There has not really been, comparing to...
+
+(02:21:58)
+
+You are looking at it in that light, and taking into account the change in the law and the reallocation of charges between rape and criminal sexual act, you do not really see any material change.
+
+(02:22:11)
+
+There is certainly no increase, really, from 2019 to now. Now, year over year, we do see a small increase in reported rapes this year. The last two months were both down, actually, but rapes are slightly up. I think about 25% of that roughly is from prior years. It is a substantial portion of the rapes reported this year. And you know, this is a crime where there is a long-standing concern about underreporting. The department has really made it a priority to do everything in our power so that survivors will be comfortable coming forward and telling their stories, and making that as easy as possible. The Speaker spoke about this earlier. So to the extent we are doing that the right way, what you would expect to see is some increase in reporting. Not that...
+
+(02:23:23)
+
+The number of rapes has actually increased, but...
+
+(02:23:28)
+
+Rapes that were not being reported before now are being reported. I think that is at least part of the story here and why you see the slight uptick. It is because we are really doing everything we can to enable and help survivors to come forward.
+
+All right, and two final questions. On the issue of hate crimes, you know, rapes, hate crimes, there are just a lot of crimes there. The police department obviously plays a big role, but there is much more than used to be done — a shared responsibility on the issue of hate crimes. Education also helps. But just wondering, can you talk to us about the numbers related to hate crimes?
+
+(02:24:13)
+
+They are up compared to last year. Anything that stands out about those numbers? These are the confirmed numbers, right? Any common theme that we see when it comes to...
+
+(02:24:27)
+
+Yes. So I mean, look, the theme that we have, and this is not new but it continues, is that over 50% of hate crimes are anti-Jewish, which is striking. You know, roughly 10% of New Yorkers are Jewish, but over 50% of confirmed hate crimes are anti-Jewish in nature. That is striking. Again, it is not new. This is a trend we have seen really now for a few years. Post October 7, 2023, for the past several years, the confirmed anti-Jewish hate crimes has fluctuated, I would say, roughly between 50 and 60% of hate crimes in this City. That is a really, really striking number. Okay, and very, very...
+
+(02:25:36)
+
+Final question for today's hearing. Does the NYPD... all right, so we will go briefly with Council Member one and then I will ask what kind of...
+
+(02:25:46)
+
+Question. Thank you. Sorry, I left out a final question. What happens if someone wanted to file a report and was discouraged from doing so? Do you have data on that, like how many of those cases happened, say, in the last year, and what happened to those...
+
+(02:26:03)
+
+Cases. So we certainly can try to pull data on that for you. And again, if you have a report of that, if someone says — if you or your office learn about a situation like that — please notify us right away.
+
+(02:26:21)
+
+Right, whether it is... and there are, because we will get it investigated. We will immediately refer that to Internal Affairs and it will be a thorough investigation. And if there was misconduct, there will be consequences. So please, we want to hear from you on that. Thank you. Thank...
+
+(02:26:35)
+
+You. Thank you very much. Final question: does the NYPD believe that an increased headcount can play a role in helping bring specific numbers down? For example, the felony assaults, which are obviously concerning.
+
+(02:26:47)
+
+I just want to go back to what I said before. You know, if you are asking us — if you are asking any police department — you are asking us in a vacuum, as between more cops and fewer cops. Do we want more cops? Sure, of course. But we are not operating in a vacuum. We do understand the budgetary constraints. And you know, we are having tremendous, tremendous success with the resources that we have. We heard that from the inspector from the beginning of this hearing, in terms of murders and shootings and shooting victims being at historic lows. And we have been able to accomplish that with the number of cops that we have now.
+
+(02:27:31)
+
+Right. But would additional police officers allow us to be able to focus some attention to the felony assaults? Again, if you ask in a vacuum, your limit... but if we...
+
+(02:27:42)
+
+Were... if you have more cops, can you deploy those officers? Of course, of course, that is true. But again, we do understand the budgetary restraints here. All right.
+
+(02:27:56)
+
+Sounds good. All right, so I think that concludes this part of the hearing. I want to thank you all for your time. I also want to thank our police department for all the work that you do on the issue of public safety. Not easy work. Police officers are in our communities every day, at all hours, even during the holidays, away from their families, working to keep New Yorkers safe. Our City is very thankful for that.
+
+Also, we have made a lot of progress. We want to make sure that it does not get forgotten — that progress on murders, shootings, burglaries and robberies are all near historic lows. There is a lot of work that we have to do to make sure that the other crime categories get back to pre-pandemic levels. Felony assaults stand out the most, but also grand larceny involving a vehicle and many others. I look forward to working together on that and look forward to this conversation before the end of every year, talking about what is going well and also areas that need attention.
+
+(02:28:48)
+
+Thank you so much. And yeah...
