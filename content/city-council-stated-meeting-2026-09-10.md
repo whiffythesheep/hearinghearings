@@ -1,7 +1,7 @@
 ---
 committee: "City Council"
 committee_slug: city-council
-title: "Stated Meeting"
+title: "9/11 Anniversary Resolutions and Contested Mayoral Appointments"
 date: 2026-09-10
 slug: city-council-stated-meeting-2026-09-10
 duration: "1hr 34m"
