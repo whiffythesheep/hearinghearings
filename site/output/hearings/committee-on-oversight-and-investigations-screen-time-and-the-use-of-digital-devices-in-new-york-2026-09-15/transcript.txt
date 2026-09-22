@@ -1,0 +1,1028 @@
+Screen Time and the Use of Digital Devices in New York City Public Schools
+Committee on Oversight and Investigations | Committee on Education · September 15, 2026 · 4hrs 34m
+Source: https://hearinghearings.nyc/hearings/committee-on-oversight-and-investigations-screen-time-and-the-use-of-digital-devices-in-new-york-2026-09-15/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260915-131911.mp4
+
+================================================================
+
+(00:00:13)
+
+Move. It is not free.
+
+(00:00:25)
+
+Good afternoon. Welcome to the New York City Council hearing for the Committee on Oversight and Investigations, drawn with the Committee on Education. At this time, please silence all cell phones and electronic devices. Those who wish to speak today at this hearing, please fill out an appearance card with the Sergeant at Arms. Moving forward, no one is to approach the dais. Chairs, we
+
+(00:00:40)
+
+are ready to begin. Good afternoon, everyone. I am CM Shekar Krishnan, Chair of the Committee on Oversight and Investigations, and today we will be looking at screen time and the use of digital devices in our New York City Public Schools. I would like to thank my fellow co-chair of this hearing, CM Dinowitz of the Committee on Education, for co-chairing this hearing with me today. I would also like to thank the representatives of the Department of Education, students, educators, unions, members of the public and my Council colleagues who have joined us here today, including CM Louis, CM Morano, CM Wimberly, CM De La Rosa, CM Carr and CM Narcisse. We are also honored to have joining us today our Public Advocate Jumaane Williams. We are also joined by many parents and advocates who share the same concern about how much technology our students are relying on to learn in the classroom.
+
+As parents, we all remember the dark days of 2020 where we sat over breakfast with our young kids in front of their Chromebooks. We logged on to Zoom and Google Classroom, figured out how to use them after many tech issues logging on, figured out how to get on Zoom, and then tried to finish up after all of that our cup of coffee while our children were learning on the screens. And our children spent hours of the day, unfortunately, learning on the screen. After a sigh of relief when they went back to school, our kids finally got to see their friends and their beloved teachers again, and we would get to close those Chromebooks — or so we thought.
+
+But in the years since 2020, we have seen the proliferation of digital devices and screens in our classrooms and our homes. They are pervasive now, years after the pandemic. I have watched my children lug the same heavy Chromebooks to school, home and back and forth every single day. We have had protracted negotiations at home about screen time, YouTube and the online games that they want to play that are on their DOE-issued laptops, and I know every parent in this room knows those negotiation battles all too well. Parents, teachers and advocates are rightly concerned that the use of ed tech products in our schools has become excessive and is distracting students from actual learning and undermining our teachers in the classroom.
+
+When our students are distracted, studies have shown that digital devices disrupt student focus. In fact, Google, which owns YouTube, has openly admitted that YouTube is, quote, "unsafe and distracting," end quote. Not to mention the health effects — disrupted sleep cycles, decrease in social coping skills and eyestrain — all while big tech companies profit. These massive companies are being awarded millions of dollars in contracts, gaining access to critical student data while still being vulnerable to security breaches and creating future customers for themselves. In one breath, these billion-dollar companies are telling us that our kids will fall behind without their technology, and then selling us their latest upgrade.
+
+All of this at a time when there is an entire national conversation raging about the need for government regulation of AI, around the mental health and addictive harms of social media, not just on adolescents but on us as adults. Meanwhile, ed tech is trying to import all of their products into the classroom to addict children early on in their education, from elementary school all the way through high school and beyond. These companies are pouring gasoline on this fire, all to generate profits for themselves.
+
+Now, the Department of Education published new guidance on the use of artificial intelligence and screen time. The new guidance is an important and necessary first step. Most students from preschool through second grade will not be permitted to use individual devices in classrooms. For students in third through fifth grade, the policy recommends limiting the use of individual devices to 30 minutes. And for sixth through eighth grade, that limit is 45 minutes. There are no screen time limits, however, for high school students, and the limits do not apply to standardized testing. While this policy is a good and necessary first step, I believe we must do more.
+
+Parents, teachers and advocates have far more unanswered questions. The reality is this: the problem of screens in our schools and in our society is pervasive and it is simply outpacing current solutions. This moment requires more than recommendations. We need mandates across our schools to protect our students and to support our teachers. Today we will learn what led the DOE to lay out their specific screen time recommendations. Is the DOE committed to overhauling technology reliance in our schools? Will they audit these technology companies that store our children's data and distract them from learning? And is the DOE prepared to protect our students from the predatory big technology companies in our schools?
+
+More than a decade after we have invited screens into our schools, we need to ensure that they have a concrete plan to address the rapidly rising concerns about screen time use that we as parents and teachers have. We collectively need to tackle the increased use of big tech programs before it is too late. Now is the time to act to ensure we are giving our future generation the best shot possible to be the generation that finds scientific breakthroughs, writes the next great novels and becomes the best version of themselves. So much of that does not happen on a screen or with YouTube or addictive apps. It happens off of all of those things.
+
+We will not let the greed of big technology companies get in the way of our children's future or our students' ability to succeed. Before I conclude, I would like to thank the following Council staff for their work on this hearing: our own Committee staff Nicole Tata, Erica Cohen, Alexi Blonde and Onkowski; and Oversight and Investigations Division staff Kevin Frick and Ryan Parking; Education Committee staff Alejandro Carvajal, Chloe Rivera, Katie Selena, Angeline Lawless and Grace Tomato; and of course my staff, Chanel Martinez, Hunter, Deanna Gracia, Victoria Opperman and everyone working here to make this hearing run as smoothly as possible. Now I will turn it over to my co-chair of this hearing, CM Eric Dinowitz.
+
+(00:07:49)
+
+Thank you, Co-Chair Krishnan. It is really, really a pleasure and honor to be here with you, someone who cares so deeply about the future of our City and the children in our school system. Good afternoon, everyone. I am CM Dinowitz, former New York City Public School student, former New York City Public School teacher and now Chair of the Committee on Education in our great City, and I am pleased to be here to co-chair this hearing to examine screen time and the use of digital devices in New York City Public Schools.
+
+Six and a half years ago, New York City Public Schools shut their doors in response to the COVID-19 pandemic. I was in a classroom then, and like every other teacher in our system, I started teaching through a screen. Almost overnight, teachers and students were asked to embrace learning management systems, video conferencing platforms and educational software, because the alternative was nothing — and no preparation, no warning, no choice. But today
+
+(00:08:57)
+
+we have a choice. Students and teachers went back into the classroom, but the screens stayed. The pivot to screens was necessary when we were not in-person learning. Did students need to continue facing a screen all day instead of each other? Research shows that excessive screen time in children is associated with increased risk of obesity, sleep disorders and mental health conditions, including depression and anxiety — too much to mention the challenges we as parents face when our children are engaged so much with their screens instead of with each other.
+
+(00:09:43)
+
+As a special education teacher, I also know what assistive technology can do for students with disabilities and English language learners. But for some of our most vulnerable students, we must also ensure that these tools are vetted and teachers receive robust training, lest these tools become substitutes for learning rather than an accommodation that opens up access to the classroom for our students.
+
+Earlier this year, after mounting pressure from this Committee, along with Chair De La Rosa from the Committee on Technology, along with parents and advocates, Mayor Mamdani and Chancellor Samuels paused their original policy and announced a new AI and screen time policy for New York City schools. This policy bans individual device use for children in kindergarten through second grade, recommends limited individual device use for students in grades three through five — 30 minutes a day recommended time limit — and individual device use for students in grades six through eight — 45 minutes a day. And of course, these recommended limits exempt screenings and other assessment tools to some degree.
+
+The release of the policy does demonstrate that the DOE is being responsive to the concerns of families and elected officials, banning screens in the earliest grades and banning AI generative student-facing tools through grade eight. Yet while the new policy provides some guidance around screen time in schools, it leaves many questions unanswered. Undergirding the guidance from the DOE lies an assumption — an assumption that the DOE has yet to defend with robust evidence — that screens are good and necessary. I disagree.
+
+The use of individual screens should be related to specific tools or products, not just a nebulous 30 minutes or 45 minutes. Every tool, every product and what is on those screens — as a parent, as a teacher, we know, we feel like we know, that there is a difference between a child alone scrolling for the next video on YouTube or alone on a screen waiting for the next dopamine hit on a game, and a teacher in front of the room showing a short clip of a documentary and having a class discussion about it.
+
+Regarding the updated policy itself, for the start of school last week, many teachers and administrators were left wondering how to apply these new limits in their classrooms, or in other cases how to circumvent the new limits. Superintendents are left to figure out specific guidance for their individual school districts. For the success and health of our children, for the future of our City, we must get this right. What evidence can the DOE produce to demonstrate that blanket screen use is beneficial to our children? What training is being offered to our teachers on products and methods that do meet a standard of efficacy? How is the DOE continuing to engage stakeholders? Who are those stakeholders? How will the DOE continually evaluate the policies affecting this throughout the year and at the end of the year — or as we say, formative and summative assessments?
+
+And will the DOE join us to lobby New York State to return to handwritten statewide assessments? Name a tool, name a study behind the tool, identify the professional development the teacher receives before deploying the tools to their classes. We all want the same thing: a world-class education system for our children. The hard part is how to get there. Now I look forward to today's hearing to move us all forward in the right direction for our children.
+
+I want to thank the members — I think they were all named, but I will name them again: CM Joseph, CM Won, Minority Leader Carr, CM Frank Morano, CM Lee, and of course Co-Chair Krishnan, CM Narcisse, our Speaker Julie Menin and our Public Advocate Jumaane Williams. I also want to thank my Chief of Staff and Legislative and Budget Director Theo Salter, Education Committee staff including Legislative Counsel Alejandro Carvajal, Senior Legislative Policy Analyst Chloe Rivera, Legislative Policy Analyst Katie Selena, Principal Financial Analyst Angeline Lawless and Financial Analyst Grace Amotto for all of their work on today's hearing. And of course, once again, my Co-Chair CM Krishnan, to whom I will now turn it back.
+
+(00:14:34)
+
+Thanks so much, Eric Dinowitz. Now I would like to introduce our Speaker of the City Council, who has been a staunch advocate on this issue, both as the Speaker of the City Council and also as a mother herself. Thank you, Speaker, and I now turn it over to you for your opening.
+
+(00:14:49)
+
+Thank you so much, Chair Krishnan. I really want to thank you and Chair Eric Dinowitz for all of your leadership on this issue and for convening this very important hearing today. I want to thank the DOE and other stakeholders who are here to participate in this important discussion.
+
+As another school year begins, families across New York City are thinking about the quality of the education our children are receiving as well as the environment in which they are learning. Increasingly, parents are asking a basic question: how much of the school day should children be spending in front of a screen? Technology clearly has an important role in educating students. It can support visual learners, provide translation and give students with disabilities access to essential assistive technology. But technology should support instruction, not replace it.
+
+New York City is not alone in confronting this issue. At least six states, including Alabama, Iowa, Maine, Tennessee, Virginia and Utah, have also addressed this issue by putting in place laws that are restricting and limiting classroom screen time. At least 10 other states have also enacted similar types of legislation. Los Angeles has also adopted some limits, including a total of six hours per week of screen time for high school students, and that includes homework as well.
+
+Artificial intelligence also raises very significant issues and questions. More than half of American teenagers report using AI tools for their schoolwork. One in 10 say that AI does all or most of their schoolwork. Research suggests that while unrestricted AI use helps students perform better on a particular task, they perform significantly worse when they are asked to complete the exact same type of work independently without any AI assistance. So then what are we teaching these young people?
+
+This year, the overall reading scores for students between third and eighth grade dropped six percentage points compared to last year, and third grade proficiency alone sank by nearly 14%. These numbers are truly alarming. We need to make sure that our schools are helping students develop much-needed reading, writing, reasoning and problem-solving skills.
+
+The DOE guidance significantly restricts individual device use for younger students, recommends limits of 30 minutes per day for grades three through five and 45 minutes for grades six through eight, and establishes a one-year moratorium on most student-facing generative AI through eighth grade, affecting nearly 600,000 students. But we really need to know whether the screen time recommendations will actually be followed, whether teachers have the books, instructional materials and training they need to provide meaningful screen-free instruction, and whether every
+
+(00:18:03)
+
+technology product purchased with taxpayer dollars is supported by evidence that actually improves learning. This hearing is about putting in place guardrails to ensure the responsible use of technology in our schools. Every single device, every platform and every minute a student spends on the screen should serve a clear educational purpose. Our goal should be a classroom where technology is a useful tool, but never a substitute for teachers, books, critical thinking, creativity and interaction with classmates. Thank you.
+
+(00:18:40)
+
+Thank you so much, Speaker Menin. Now it is our honor to call up for an opening statement our Public Advocate, who also cares deeply about this issue. Public Advocate Jumaane Williams.
+
+(00:18:52)
+
+Thank you very much, Chair Krishnan and Chair Dinowitz, for this hearing and, of course, the Speaker for your leadership and for giving me an opportunity to speak today. As mentioned, my name is the Public Advocate for the City of New York. Following widespread support and countless advocacy by concerned educators and parent groups calling for a moratorium, it was hard to see the administration acknowledge that they missed the mark with the initial preliminary guidance. Releasing our new screen time policy is not only an acknowledgement of the moment we find ourselves in — another turning point in the evolution of technology — but also a natural conclusion to the decades of data and research that highlight the negative effects of extending screen time for our youngest kids. These policies reflect the growing momentum at the state level and even abroad.
+
+Early this year, State Senator Andrew Granada introduced the Forcing Optimal Classroom Use of Screens Act, which would strictly limit student exposure to screens and artificial intelligence in the classroom. Across the Atlantic, Norway made headlines with a new ministerial directive banning the use of generative AI tools for elementary school students and limiting use for older students. At a time when reading and math scores continue to decline year after year, it is important that our schools commit to teaching the basics and do not allow machines to co-opt our children's ability to learn and think critically.
+
+In relation to this, my office released a new report yesterday calling for responsible use of AI, with one of the foremost recommendations being ongoing engagement with the public on the topic of artificial intelligence. I also called for greater oversight of the kinds of contracts the City signs with vendors. By creating specific standards for procurement, we believe greater scrutiny on this front will prevent concerning and potentially problematic contracts like those that have caused alarm in recent weeks, including the use of digital bathroom passes in schools and voice recognition applications for our youngest kids.
+
+The New Technology in Schools Coalition, composed of elected officials, parent leaders, educators and other experts, will serve a critical role in examining the impact of these new screen time and artificial intelligence policies and expanding on this existing foundation of dialogue. In this spirit of open dialogue, when we wrote our report, we took the opportunity to host a community forum with New Yorkers who have seen many waves of new technology in their lifetimes. Here are just a few pieces of feedback we heard: "It needs to be nonpolitical." "The system is designed where you find out about these things after the fact." "We are skeptical about everything." "Please support guidelines." These quotes convey how everyday New Yorkers are thinking about AI and its impact on their daily lives.
+
+I look forward to being a partner in these discussions and helping craft and shape future legislation as it pertains to the impact of technology on our youngest children. As I sat outside, I think many of us are impacted. I know many of us have stayed up way too long, doom-scrolling and realizing what happens at three or four o'clock in the morning. Many folks cannot even go to the bathroom without their phones. But all of us learned in a way that allows us to think critically. We are now talking about young children who have not yet developed that ability to think critically. What would happen if you could go back with this knowledge — before social media harmed our kids, before we allowed cell phones in schools — we would probably do things differently. So I am hoping that we can use this knowledge and change now. The house is already on fire. It is about how long we are going to allow it to burn. Are we going to let it burn down or are we going to stop it? And of course, your president said we do not have anything to worry about as long as we have a president who is on top of it, which means we are all in a lot of trouble. But even if there were not a president with that view, it cannot be left to just one person. Whether it is climate change or tech, we need to have folks who are not just focused on money but are trying to make sure we have a world to leave to my young daughter.
+
+So thank you for this hearing and hopefully we can take this information and do better for our youngest kids. Thank you.
+
+(00:22:46)
+
+Thank you so much, Public Advocate. We appreciate your leadership and testimony and advocacy on this issue. Before going any further, we just want to recognize that we have also been joined by CM Brewer on Zoom. Before turning it over to the Department of Education for their testimony...
+
+(00:23:04)
+
+Both Chair Dinowitz and I feel it is very important that we acknowledge, frankly, especially on an issue like this, that we understand from those most directly in our schools how they are working and how they feel about perhaps even their own children being exposed to all of these different big tech products. So with that in mind, before we hear from the educators, organizers, parents and activists, I would like to call them up now for their testimony.
+
+(00:23:44)
+
+Kalidas Saleh, David Lucero from MASA, Navid Hassan from Family Policy and David Monahan from Fair Play. I would like to, on behalf of both chairs, give way to myself. Thank you.
+
+(00:24:00)
+
+The Department of Education. I am thanking the administration for their willingness to have this testimony first before turning it over to the others for their testimony.
+
+(00:24:25)
+
+Good afternoon. Thank you, Chair Dinowitz and Chair Krishnan. My name is Kalidas Saleh — pronounced "Ada." I should also say Doctor Saleh. The Department of Education has heard me multiple times, but in this moment I want to speak not just as a parent of a tenth grader and a second grader, but also as a neuroscientist and a fellow educator. We are seeing that our children have been deeply impacted, not just by the use of ed tech, but also by mandated curriculum that has tech embedded in it, as well as screen time since the pandemic. Not only are we seeing a decrease in test scores, but we are also seeing an increase in diagnoses of children with autism and ADHD, in addition to mental health concerns of depression and anxiety. The American Psychological Association and the American Academy of Pediatrics have all listed recommendations in terms of screen time use in our schools, but also the direct correlation between these mental health conditions and neurodivergence related to trauma and their experiences in schools.
+
+I think it is absolutely critical to take a look at not just whether we are effectively using technology in our classrooms, but also the connection between the assessments of the experiences of our children in the classroom and what we know are evidence-driven practices that our teachers are fully aware of. So I will say there are some really amazing things happening in our schools. This is not a knock on what our teachers and educators are doing in our classrooms. This is about improving our practices now that we have evidence that...
+
+(00:26:05)
+
+...what we are doing in our classrooms has been directly impairing cognitive load and emotional engagement and has been increasing racial bias in our classrooms. So we are asking for an audit of all of these ed tech platforms and that we should have a full moratorium on ed tech until we understand what the technology is being used for.
+
+(00:26:30)
+
+Thank you. Hello, everybody. Thank you for the opportunity to testify. My name is Sarah Sayeed. I am the Executive Director of MASA. We are a community-based organization that partners with Latino, immigrant and indigenous families to develop strong learners and leaders. I am also the parent of two public school students — one in kindergarten and one in fourth grade — and I am also the proud product of immigrant parents and the New York City Public School system.
+
+As an immigrant and education advocate, I have witnessed over and over how Black, Brown, immigrant and indigenous communities have been failed by public school education, as displayed by the educational outcomes that we see across race, class and subgroups like English language learners. The over-reliance and use of screen time and curriculums that rely on them have only exacerbated these inequities for immigrant communities. Immigrant parents already face language access issues in our public school system, leaving them feeling unwelcome and in the dark about what is happening in the school and in the classroom. The use of technology, especially when all communities are not being brought along responsibly and equitably, has only widened the so-called achievement gap. For example, many of our families cannot afford internet and students are expected to practice online at home or complete assignments online. At MASA, many families ask to either use our internet or our devices for their children to complete their assignments. Furthermore, parent communication about schooling has moved to online platforms, which not all parents can access, leaving a key part of a student's educational trajectory out of the picture.
+
+At the parents in MASA's after-school program, we have also witnessed how teachers are less able to provide meaningful feedback and strategies, both to parents and to us, about how to support the students in our program. My own experience with my son, who is a fourth grader, has crystallized the issue for me and helped me understand how education has changed and why students and teachers are more disconnected than ever, contributing to the results we see today. When he entered kindergarten, he was advancing in reading by two grade levels. I have seen how my son over the years has started to struggle in literacy and is now reading at grade level but has fallen behind in writing. And I am sorry, this is upsetting to me. It happened simply because he does not have the stamina to write, since it is not a critical focus in the classroom. Students are put in front of screens to learn content in different subjects, are not being properly monitored to ensure they are even completing designated tasks, and are relying on unit assessments evaluated by computer to gauge where they are — without providing the opportunity for relationships to be built, for teachers to really get to know how students learn and why they are struggling to master certain concepts, and to adapt their lessons to address those gaps and teach the different learners and styles in the class.
+
+At the end of last year, I noticed that my son's headphones were missing from his classroom. When I asked him where they were, he said that he had not seen them in a while and that he had told his teacher about it when it happened. When I asked the teacher about it, she said she did not know he was missing his headphones. I responded by saying, "You mean to tell me that my son has been sitting in front of a screen for three months now without being able to engage in key instructional lessons and content because no one noticed his headphones were missing?" And I was met with a blank stare. At the end of the year, I reached out to his teacher to ask for feedback, only to be met with very general feedback. When I forwarded what a private tutor from the Hunter College literacy center had provided me with in terms of strategies, she was then able to offer me more feedback — literally verbatim with what his tutor had given me.
+
+I will fast forward. As a parent with a lot of privilege, including a master's degree from a top university who works for an education nonprofit, I see day in and day out how families and students are made to feel left out and their full potential left untapped, especially when we have bias in the system. I believe many teachers are doing the best they can with what they have, but screen time, the current math curriculums we use, and the digital tools we rely on to teach and engage our children are doing a disservice to our children, including my own. I fully support the elimination of screen time and AI in the classroom, especially during the critical years of learning. There are other ways to address ensuring there is no technology gap, like a technology class. It does not have to sacrifice the core subjects or the need for genuine human interaction and developing the skills our children are expected to learn so that they can thrive. Thank you.
+
+(00:31:07)
+
+Good afternoon. I am David Monahan, Campaign Director at Fair Play. We are a national nonprofit organization that works to enhance children's well-being by eliminating the exploitative and harmful practices of marketers and big tech. We are an independent voice — we do not accept funding from tech companies or any other corporation. I submit this testimony on behalf of the thousands of our supporters who reside in New York City. I live in Massachusetts, but I am a native of Sheepshead Bay, Brooklyn, a proud product of the New York City school system, including Abraham Lincoln High School. I want to thank Chairs Dinowitz and Krishnan for holding this important hearing.
+
+In our work nationwide, we have been inspired by a wave of passionate advocates who have succeeded in changing the narrative on screens and ed tech in schools. Parents, educators and advocates here in New York have supercharged that movement and are showing every day that we can and will put the well-being of children and teens ahead of the profits of corporations. With the help of leaders like the members of this body, they played an important role in advocating for bell-to-bell phone-free schools across New York State, which is removing the distraction of smartphones from classrooms and lunchrooms. The AIM Coalition played a pivotal role in demanding protections from the encroachment of generative AI into education and in part they were armed with a letter led by Fair Play and signed by experts from across North America, saying we needed a moratorium until we learned more about the impacts of AI on education and kids.
+
+As a result, last week the Mayor announced that City students will be protected by a broad moratorium. We have discussed today that we also need to go further and take additional steps. Parents and advocates are here today to say there is more work to be done. Studies have shown correlations between increased time spent on digital devices and declines in children's mental health, including anxiety, depression, isolation, attention deficits and addiction. One-to-one devices in class have been associated with weaker learning outcomes and are exposing students to manipulative sites which monopolize their attention. The verdict in a case in California this spring established that Google intentionally designed YouTube with addictive engagement mechanics. How can we possibly allow students to stare at YouTube in school or on school...
+
+(00:33:36)
+
+...devices? Unproven gamified learning tools are designed to make students stare at the screen for hours and then nag their parents to purchase upgrades, but they are not designed to educate or pique a student's curiosity. We urge the Council to put mandates in place to take the next important step in making New York City schools effective and safe learning environments. Thank you.
+
+(00:34:03)
+
+Council members, my name is Navid Hassan. I am a parent elected to the Panel for Educational Policy, which is the New York City school board. Here is my testimony. New York City must take a bolder policy stance with regards to technology. New Yorkers should benefit from the size of our budget with tech services that are designed for public benefit. We need to move away from school purchasing choices based on hype and marketing and develop sovereign municipal tech infrastructure within which we engage with outside vendors in a more private, secure and sustainable way. Protecting our children from harm and exploitation by big tech can only start if we lay the proper foundation for this work.
+
+Our school system has been enmeshed in a decades-long process of privatization of core responsibilities, letting outside vendors do the thinking when we should be cultivating highly trained in-house professionals, including educators with advanced degrees to develop the pedagogical stack of how to best teach New York City students. This includes responsive curriculum, appropriate modalities of delivering it — hopefully whole-chapter book reading, which I do not know what happened to that — and properly supported safety and privacy-preserving technology. Needs and wants will also differ from neighborhood to neighborhood and school to school, so top-down dictates lead to one-size-fits-no-one solutions.
+
+With an academic and professional background in computer science and AI, as a Board of Ed graduate, as a parent of two students in public schools in uptown Manhattan and as an elected member of the PEP for five terms, it is my experience that the capacity to do this foundational work is lacking. It is not clear what it means to ask vendors to remove from software already in schools and districts when that product is just a thin code wrapper on ChatGPT or Claude. Even when tech vendors themselves — for example, Google with YouTube — have told government customers that their product cannot comply with laws around student data privacy, years later consumer YouTube is still a big part of many a tech service, using loopholes and workarounds that are in violation of the law.
+
+A lot of these tech products that are provided for free before local, smaller-dollar purchasing agreements bypass any PEP oversight on the propriety of these tools. There is a significant amount the City can do by refusing to buy products or services from companies behind the attempt to privatize intelligence, sell it as a utility and wantonly disrupt society, undermine democracy, all for their concentration of wealth and power. Let us make sure that this is not our children's future. Thank you.
+
+(00:36:39)
+
+Thank you so much for your testimony. I know there will be questions for this panel, but in the interest of time we will return to this panel for questions after the Department of Education testifies. Thank you all very much. And now we will call up the representatives for their testimony and turn it over to our committee counsel to administer the oath. Thank you.
+
+(00:37:46)
+
+All right. Good afternoon. Good afternoon, Chair Dinowitz, Chair Krishnan and members of the Committees on Education and Oversight and Investigations. My name is Daniel Johnson and I am the First Deputy Chancellor of New York City Public Schools, overseeing superintendents and key offices including academics and instruction, district planning, enrollment, new school development and design, policy and evaluation and our Office of Student Pathways. I am joined today by Scott Strickland, our Deputy Chief Information Officer, and Laura Li, a Senior Policy Adviser, as well as other New York City Public Schools colleagues who you just listed.
+
+Thank you for your continued advocacy and engagement on this important topic. We have met with many of you through this process and I have appreciated your feedback and commitment to New York City students. As educators, we want all of our children to learn. We know that our children learn best when they connect with their teachers and their peers and when they experience productive struggle. In other words, we agree our students need to learn how to learn, and that is the guiding ethos in all we do.
+
+Last year that same ethos, along with the Governor's leadership on this issue, led us to our cell phone and electronic device policy, which is a full ban on personal internet-enabled devices in the classroom. A personal internet-enabled device includes any electronic device not issued by a school or a New York City Public Schools program that can connect to the internet, allowing the user to access content online. We saw firsthand the success of this policy in shaping productive, engaged classrooms. Students were no longer distracted and could connect with each other in class and at lunch. And while we are grateful to the Governor for enacting this law statewide, we know cell phones are not the only screen students interact with in their day-to-day lives.
+
+When it comes to our classrooms, we believe technology best supports student learning when it is used sparingly, with clear instructional purposes, and for younger students only under the direct supervision of their teacher. All of our students, but our youngest in particular, need hands-on learning, social interaction, play and teacher-guided instruction. Routine individual screen use can crowd out those experiences. Technology should not be the primary means of instruction or used as a go-to tool for keeping students busy, entertained or quiet.
+
+Building on this shared understanding, on September 2 of this year this administration announced an updated policy on AI and screen time for the 2026-27 school year to establish more robust guardrails beyond the initial guidance released in March 2026. This updated policy is designed to further protect students from the negative impacts of excessive screens and artificial intelligence. On screen time specifically, we know that unfettered, unstructured time in front of screens can diminish the interpersonal interactions necessary for growth in areas like language development and cognitive functioning. It can also negatively impact emotional development and behavior, especially in our young children.
+
+As such, for the 2026-27 school year, students in grades K through 2 will have no individual screen use, and students in grades 3 through 5 will be limited to a recommended 30-minute maximum of screen time per day. For students in grades 6 through 8, the recommendation is no more than 45 minutes per day. For our high school students, device use will be dictated by the course. We are communicating with schools that, as in the lower grades, use of screens must be for specific instructional purposes, used sparingly, and that unstructured device use is not acceptable.
+
+(00:42:04)
+
+To ensure this policy serves students equitably and effectively, there are a few important exceptions to the restrictions outlined above. The first is for students with disabilities and multilingual learners who require the use of assistive technologies. Assistive technology is preserved across all grades under the screen time policy as well as our AI policy. In fact, we are legally required to utilize technologies mandated by an Individualized Education Plan or 504 plan. These are specific tools for specific students determined by the student's team, which includes students, parents and others.
+
+Other exceptions to the screen time policy include assessments and diagnostics. Digital assessments are exempt from screen time limits because they provide information educators need to improve student learning. Digital universal screeners and diagnostic assessments allow schools to quickly identify students who need additional support, pinpoint specific skill gaps and track growth over time, enabling educators to determine whether interventions are having the desired impact. The exemption also reflects the reality that many assessments students encounter, including the state exams and driver permit tests, are all administered digitally.
+
+The screen time limits also do not apply to out-of-school learning, such as remote instruction days and virtual learning programs. Finally, certain centrally approved programs will be granted exceptions. These include e-books and classes such as robotics and coding where the subject matter requires screen use. The purpose of these exceptions is not to expand students' weekly screen time without purpose but to appropriately allow for academic experiences that require access to a computer. We will encourage schools to reduce screen time in other subjects when students have a period such as computer lab during the day.
+
+To briefly review our policy on student-facing generative AI, our new policy represents a cautious, developmentally appropriate approach that strictly limits access to AI during the school day, especially for our youngest learners, for whom direct interaction and foundational skills are most important. This aligns with what we know about child development and the limited body of independent causal research on these tools. To that end, we have instituted a full moratorium on AI use in the classroom for students in grades K through 8 for the 2026-27 school year.
+
+Our policy for high schoolers is different. High schools need to prepare students for a world economy increasingly driven by AI and new technologies, paired with instruction on how AI works, its biases and risks and how to evaluate its outputs. So in grades 9 through 12, student-facing AI will be restricted to three specific uses. The first is five limited, carefully controlled high school pilots that involve vetted and approved AI tools. Students can also use AI under a teacher's supervision if participating in career readiness programs such as our Career and Technical Education programs. And finally, all high school students will complete AI literacy coursework to understand how AI works and how to navigate the technology safely.
+
+Across all grades, the only exception to the policy is assistive technologies for students with disabilities and our English language learners. In summary, New York City Public Schools has announced a policy with some of the broadest restrictions on AI and screen use in the country. It is a one-year policy that will help us work with a new technology-in-schools coalition to evaluate ongoing research, our high school pilots and feedback on this year's policies to map the future of technology use in New York City Public Schools. We look forward to partnering with all of you in the coming year to ensure our policies reflect the needs of all students and families. Thank you, and I look forward to the opportunity to answer some questions today.
+
+(00:46:34)
+
+Thank you so much, Deputy Chancellor, for your testimony on this issue. I know I have had conversations with the Chancellor about it as well and so we appreciate your commitment to addressing it with us and working together. I have got a few questions to jump into on a few different topics, and I will turn it over to CM Dinowitz then open it up to our members to ask questions as well and then come back to myself.
+
+Just to start with some clarifying questions around a few different topics. At the outset, one of the things that concerned us when I saw the policy was recognizing how ubiquitous the problem is now and how it is getting worse. What was the rationale to issue a series of recommendations as opposed to mandates? And what are you hearing so far about how that is playing out? Because my concern is that different school districts and different schools will implement these recommendations in different ways. They are not all on a level playing field. So why did we approach this from an advisory standpoint as opposed to a standpoint of mandates?
+
+(00:47:44)
+
+Thank you. Thank you for the opportunity to clarify as well. We set this policy based on a year's worth of feedback from listening tours. We appreciate the acknowledgement of the Council and our community of how we evolved this based on feedback and research. As we get to the word "recommended," I want to assure everybody in this room and everybody watching, as has been shared with our superintendents under the division of the First Deputy Chancellor — which is why we have our supervising superintendents, our superintendents, principals, teachers and all of our school personnel — we have made one thing clear. This policy, while we do not want it to be punitive while we are implementing it, and we know that there will be an implementation grace period, it is clear that these policies — the recommended 30 minutes, the 45 minutes and the no-use limits — are required. They are non-negotiable.
+
+Earlier in your testimony, somebody mentioned — I am sorry, I do not remember who — the percentage of time our kids are spending on devices in schools. We looked very closely at these time limits to make sure that this is not exceeding 10 to 15% of the school day. What we are really talking about as well is this unfettered, unstructured use of technology. We do not want any of our students participating in that. That is crystal clear.
+
+We also know that our schools are built very differently — the number of staff, the number of classes, the number of students, the way schools are programmed, the curriculum they are using, the instructional tools that they have chosen to use. So we need to leave space for our schools to be able to make those decisions around how it is going to work in their school. Similarly to our cell phone policy, we set up a very clear expectation — we are not using cell phones in our schools — and then schools found pathways into how that was going to work. They are given flexibility based on the staff that they have. We trust our schools, but more than just trusting our schools, there are these critical feedback loops that we have between myself, the supervising superintendents and their principals about how it is going and how implementation is going, and making sure everyone knows that our stance on zero screen time for K through 2, 30 minutes for grades 3 through 5 and 45 minutes for grades 6 through 8 really is non-negotiable.
+
+But we do not want schools to — you know, this is the fourth day of school. We want schools to feel comfortable, to figure this out, to have time to collaborate and make very intentional decisions on if we are going to use technology in our classrooms, when that will be and for how long, and to have a clear picture across the student's day of how that lands for the student. Thank you. And I want to come back to that in a second.
+
+(00:50:41)
+
+Just a couple of clarifying questions. When we say 30 minutes of screen time or 45 minutes of screen time, how are you all defining screen time? Is it active instructional use for an educational benefit? Is it passive use where the students are, you know, messing around on the computers? What defines that 30 to 45 minutes of screen time? Because that was not clear in the policy, but I obviously think those two are very different uses of screens.
+
+(00:51:09)
+
+Yes, thank you. If we are going to be using digital devices and technology in our classrooms, it needs to be intentional and active, not passive. We do not want to see kids on a one-to-one device in isolation, as was spoken to today. We want to be very intentional around this: is this tool critical to the need of this learning target or this instructional moment that we are having in class? And that is how we are defining the 30 minutes of use. We were also clear to say that routine use — we do not want anything to be a routine use of a digital device in the classroom.
+
+(00:51:53)
+
+So the permitted screen time, whatever the allowable amount is, should be active instructional screen time. Absolutely. Okay. Now I know there is a difference between K through 2 and 3 through 5. Focusing on K through 2 for a minute, no one-to-one devices are allowed. The policy was silent, though, on whether students are permitted to bring their Chromebooks home with them, which raises a number of issues. There is just very little accounting for those laptops back and forth every day. But also once that is introduced at home, it opens a new door and a new set of negotiations over whether to use those laptops or play on them under the guise of learning, which our creative kindergartners through second graders are always citing as well.
+
+So what is the deal for K through 2? If there is no one-to-one learning, are Chromebooks permitted to come home with students? We would imagine that, of course, our children should not need their computers on a daily basis — their individual Chromebooks on a daily basis at all. And we also want our kids to know that we will have a remote day. We might have a pivot to remote, whether it is weather or some other event. We are also planning for a remote day on Election Day. So we do want to leverage opportunities for students to be able to understand how to access their Google Classrooms, how to access homework that might be posted digitally. And we also know that in our schools there might be an opportunity not for one-to-one devices, but we have our digital library where kids might be pulling up — a teacher might pull up a book and kids can read along with the story. But I think we see limited back and forth, with our little ones carrying their laptops every day.
+
+That is something that, you know, among the different things that we wanted to explore with you all was just the necessity of kids bringing home their laptops K through 5. I know that the line right now is K through 2, but the reality is, and I am sure you are aware of it too, once we start opening that door, especially with home use, it opens up a whole number of doors on top of that and it becomes yet another distraction in the home as well. And I do wonder about the utility of Google Classroom for a kindergartner, for example, or a first grader. So I would want to urge you all to really think about the necessity and how we ensure that if we have no one-to-one devices, we are not allowing these devices to come home and opening up another... As we as parents struggle with how to limit tech and screens at home, we are not kind of opening up the back door to allow it in, because the kids will absolutely see it and will take advantage of it.
+
+On that note, for 3 through 5, what was the reasoning for having a different policy for third grade on? I have read some things about this larger issue — we could talk more about it later — of online standardized testing that starts in third grade. But why was there a different policy for third through fifth grade? Was that the reason driving the policy?
+
+(00:55:04)
+
+Yeah, I am going to introduce Lorelai into the conversation in a moment. I would say the sole determinant was not about preparing our kids to take digital assessments. We were looking at research, we were looking at the limits that were being set around what was recommended in the research, how it was going in other school districts that were implementing our recommendations, feedback from even some of our labor partners, all the work that was coming out over the last year and the feedback that we were getting in our listening tours. But Lorelai will talk a little bit more about some of the specific research and findings.
+
+(00:55:45)
+
+Thank you, First Deputy Chancellor, and thank you for the question. We really took a very developmentally based approach to both our screen time and device policies. We spent a good amount of time looking at the research, both with regard to child development and also with regard to these types of tools.
+
+I will say first of all that the child development research has a much stronger foundation in terms of looking at the types of impacts that screen time can have on behavior, language acquisition, psychological development, attention span and all of those concerns that so many people have about screens. A lot of the most foundational aspects of child development are taking place in those earlier years and are most highly impacted by screens. So while our policy is not trying to say that there is no impact later on, we thought that the most impactful period of time was those early years when children are acquiring language and basically learning how to learn for the first time, learning how to do all of those things as children.
+
+As children get older, what we found was that there are examples — although limited, and I do want to emphasize that — in looking at the research on specific tools. As I am sure you are probably aware, a lot of that research comes from vendors, and so it is very difficult to find peer-reviewed independent academic studies on specific tools. But there are some examples that show that under teacher supervision, tutoring programs can be impactful when combined with teacher instruction. And to your question about what screen time is — is that just kids sitting on a computer, or is that actually active, engaged, teacher-directed learning? When combined with those types of conditions — teacher-based, short periods of time, instructionally directed — there can be benefits. So we wanted to find opportunities as students progress through elementary school and then into middle school to engage in those types of activities on a limited basis.
+
+(00:58:30)
+
+Thank you. Just a few more questions from me, and then I am going to turn it over. First, I want to recognize that we have also been joined by Council Members and also State Senator Andrew, an artist who has been leading this effort on the state level and is a partner in the work as well. A few more questions from my end. One is going back to the issue of mandates versus recommendations. I understand there are conversations to be had about these different issues and how to address them. But one thing I would hope that we could all agree on and address is the issue of student-led access to YouTube in the classroom. There are a lot of children who have virtually unfettered access to YouTube, or they are able to figure out ways to get around the filters in the classroom to use YouTube. Now I want to distinguish the use of YouTube for instructional purposes,
+
+(00:59:24)
+
+right, when teachers are using it as an educational tool to show videos — that is one thing, that is a separate conversation. But what I am talking about is when students have such access and dependence on screens, their ability to go on and watch different programs on YouTube, get around the filters, watch things they should not. The number of parents that I have heard from around the City hearing their kids talk about things they have watched on YouTube in the classroom on their own, or talking to their peers about things they have watched — clearly that happened in school in the class — or how they got around these different filters, it raises really serious questions.
+
+Putting aside the educational use of YouTube, has the department explored and considered the importance of instituting a mandate on student access to YouTube? That is a policy that the LA Unified School District has as well. And at least maybe, is that the starting place where we could institute a mandate? Because I fail to see the educational value of allowing students that kind of access to YouTube for their own passive screen time.
+
+(01:00:33)
+
+We could not agree more, actually. So thank you for raising that. I am going to turn it over to Scott to explain some of the work behind it. But we have, in fact, turned off access to the unfettered version of YouTube and kept only a very limited educational purpose, as you just described. I will ask Scott to jump in. Thank you, Scott.
+
+(01:00:57)
+
+Strickland. I am a deputy at the New York City Department of Education, Division of Information and Instructional Technology. I have been with the department for eight years in a senior leadership role. So I appreciate the early discussion about the pandemic. I recall when I joined, it was interesting to me that no student had a device at home — or rather, devices were sorted, all devices at the time. So when the pandemic hit, we had a problem. There were no devices at home that were education-oriented, no internet for a lot of our students. We went through the whole process of unwinding a no-device policy to a full device policy, as you both summarized in terms of where we are now. The devices are there, the internet is there, the students have learned to use these devices, and I think we have come to a point where it is time to manage this better than has been done in the past.
+
+For YouTube, we heard everyone loud and clear. As of Wednesday night at 5 p.m., we filtered YouTube out of all student devices. So they should not be able to access it either on a Chromebook or an iPad, or even at home, because the filtering has an agent on the device that notices they are trying to get to that URL and will block it. I am very glad to hear that.
+
+(01:02:20)
+
+So is it your testimony today that no student will be able to access YouTube on their own laptop or on a school computer on their own volition in school? That is correct. And the filters in place — how solid are those? Because students are smart these days. I have heard stories of them chatting over Google Docs. They have figured out things in ways that I have not thought of before. So are we assured the filters are strong enough that they are not able to get around them and game the system, so to speak?
+
+(01:02:52)
+
+Yeah, as best we can. Google and the Google Chromebook — which Google and Alphabet own, as YouTube is — is the type of thing we can most tightly control, because there is something called the Google Admin Console and from that we can easily block things that are on a Google device. It took a little bit of extra work to do it on the iPad, but that comes through our filtering. What happens at both the network level and through an agent that is actually installed on every device allows it to happen both at home and at school. So I think we have got it covered. If we find reports or start hearing about workarounds, we are going to go after that strongly, because we agree that this is a good time to stop that.
+
+(01:03:34)
+
+Great. I am very encouraged to hear that, and I look forward to continuing to work together to monitor that issue as well. I am sure we will hear about it from kids and parents if there are any gaps. But I am very glad to hear it. Everything I just want to encourage you all to consider is, as we think about laptops at home without the guardrails in place — before it was YouTube, now it is going to be other programs — there is a real need to think about the importance of, as you mentioned, students leaving laptops in classrooms and not bringing them home. The importance of having those guardrails in place and an end-of-day laptop and at-home laptop policy as well. We appreciate that, especially since they are City-issued devices. We have kind of brought them into the home and we need to help our parents and our students manage them effectively. Exactly.
+
+And then my final question is on a separate but very, very related topic. Right now there are a lot of programs — whether it is some of the gamified apps that we can talk more about, that kind of still register those same dopamine hits as we see in social media later — that are concerning. There is a real question of how data is being used by the vendors of these programs, the third parties that they contract with, and how far children's data travels with all of these different programs. For example, there is a program called iReady, which you all know is a reading tool online. I strongly believe that reading with a good old-fashioned book, as we talked about, is important. But iReady records student voices. Now I know you all are keeping... I know you are recording it but saying it is stored locally, and that you are turning off the AI component. But what I have heard is that AI is such a central part of iReady that there is no way to turn off that component and keep iReady functioning as is.
+
+So for programs like this, how far is their data traveling? In other words, is there any disclosure? I am not aware of any, but is there any disclosure or any consent required, or is it sort of a blanket consent when you go to school that data is being captured, being shared with programs like iReady and things like that that store this information? Does that not heighten the need for parents to be aware that their children's voices are being recorded or data is being captured? How are we handling the issue of parental consent when it comes to
+
+(01:05:59)
+
+the sharing of data? Thank you for that question. I am going to ask Dennis Doyle to come up while I speak. You know, the idea of parental consent and the use of tools that schools have selected for an instructional purpose — we have not had a consent process in place for that. And that was a lot of the feedback: my kid is engaging with generative AI and I do not want it, can I opt out of it? That was some of the feedback that we took into consideration and that even led us to the moratorium on it, especially for our youngest, as it relates to the safeguards around data privacy. And communicating that — I am going to turn it over to Dennis to share some of our processes.
+
+(01:06:52)
+
+Thank you for stepping in, Chancellor, and thank you everyone for the question and for inviting us here today. My name is Dennis Doyle. I am the Chief Privacy Officer for New York City Public Schools. Obviously, protecting student data privacy is of our utmost priority, particularly from my office. Whenever we have any third-party vendor that we use in a way that they are going to be accessing student information, we make sure that they go through a very rigorous data privacy and compliance process.
+
+We call it IRMA by shorthand, but basically what that process means is that those third-party vendors have to enter into a data processing agreement that requires them to keep data confidential and secure,
+
+(01:07:37)
+
+that they only use it for the required purpose, data minimization, et cetera. And then there is also a data security review that we conduct, and also a vendor review conducted by the New York City Office of Technology and Innovation. With respect to consent, there is no consent collected from parents or students in order to share that data with those third-party contractors. We rely on a specific exception under FERPA, which is known as the school officials exception, which permits schools to share student data with third-party contractors, provided that we have direct control over the use and maintenance of that information. And we do that by having strong contractual agreements in place with all these vendors to make sure that our data is being kept confidential and secure.
+
+(01:08:33)
+
+Thank you for that testimony. I would just conclude by saying, I know that exception under FERPA, and when I read about it I was very shocked, just because of the way in which big tech, data and AI has exploded. The landscape is changing so fast every single day. We are having a conversation right now nationally about AI and the lack of regulation. I strongly feel that New York City must do more to protect our children's data. So I urge you all to consider a consent policy or notification. I do not think we should be relying on the exception. I know a lot of school districts across the country rely on that FERPA exception to not get parental consent, but I want to hold us to a higher standard. We are passing some of the most advanced policies around screen time and AI in the country. This is an area where we should not be sort of backing into consent. We have to affirmatively, I think, seek consent. You ought to think about that.
+
+(01:09:32)
+
+Thank you. Thank you. On that, I will turn it over to Chair Krishnan. Thank you. Chair Krishnan, can you take it?
+
+(01:09:37)
+
+Stay. I just figured while you are here...
+
+(01:09:40)
+
+My question is just a clarifying one. Since we were talking about data confidentiality, we have programs like iReady that I believe contract with Claude or Anthropic for their programming. Is that correct?
+
+(01:09:53)
+
+I am not familiar off the top of my head with who iReady contracts with for their subcontractors.
+
+(01:09:58)
+
+Okay, let us pretend it is Anthropic, or let us pretend any of these companies then contract with another company, let us say like a ChatGPT or Google. I want to confirm that your data policy extends to the company like iReady that you are contracting with. Does it then extend to the company that they are then contracting with?
+
+(01:10:23)
+
+Yes, absolutely. Very important question, and it is not just a policy — it is the actual contractual agreement, the data processing agreements that we have with these vendors. There are terms in that agreement that require those third-party contractors that we contract with to implement the same data privacy and security terms that we require of them on any sub-processor that they would use to provide the service.
+
+(01:10:48)
+
+Are you privy to those contracts — the contracts between our data contractor and their sub-processors? No, no. I...
+
+(01:10:59)
+
+I mean, we could... we matter? Of course. Now we do not collect all of the contracts between our third party contractor and the sub processor.
+
+(01:11:08)
+
+How do you... I mean, how do you verify that the student data is not being misused by the other company that you do not directly contract with?
+
+(01:11:19)
+
+We do have continuous monitoring that we conduct of our vendors. We have terms in our data processing agreements that permit us to conduct audits, to collect different reports like SOC 2 Type Two reports for vendors, to make sure that they are meeting those standards. We have the ability under our data processing agreement to collect that information at any time.
+
+(01:11:43)
+
+How many audits have you conducted in the 2026-2027 or 2025-2026 school year?
+
+(01:11:51)
+
+I do not have that information on hand.
+
+(01:11:54)
+
+Have you conducted any audits in the 2025-2026 school year regarding data privacy?
+
+(01:11:59)
+
+I would have to go back and look at our records on that.
+
+(01:12:04)
+
+Can we find that out during today's hearing? I do not know if we will be able to do that today, but I am sure we could find that information and get back to you. Okay? Please find that out today. That is very pertinent to the topic we are discussing, so I would appreciate that very much.
+
+(01:12:21)
+
+Thank you so much. I want to go back to the research. You were talking about the recommended 30 minutes from ages 3 to 5, and 45 minutes for ages 6 to 8. Can you share with the Committee what that research was?
+
+(01:12:47)
+
+I do not have the research sitting in front of me, Chair, but I would be happy to send you a list of citations with all of the research that we used.
+
+(01:12:55)
+
+You put on your screen time policy website two documents — the Brookings Institute and the American Academy of Pediatrics, I believe. Yeah, those were... yeah. Would you also...
+
+(01:13:08)
+
+Will the... will the DOE put...
+
+(01:13:10)
+
+...all of the research that they cited on that website as well? We would be happy to look at doing that. Absolutely. A number of those citations, though — the two that you mentioned from Brookings and the American Academy of Pediatrics, especially the Brookings — has within that document quite a number of those citations as well. So we can take a look at the ones that perhaps are not covered by Brookings, which was a meta-review of all of that research, and see what we can provide.
+
+Yeah, they were much less in favor of screen time than I think the policy reflects, if I read that document correctly. The Los Angeles Unified School District screen time limits were developed through a public process. The enabling resolution incorporated American Academy of Pediatrics findings, was consulted on by a pediatrician who co-authored the policy on children and digital media, was analyzed with a district Office of Research and Program Evaluation, and used feedback from nearly 19,000 community members collected before the policy was adopted. In your testimony, you spoke broadly about the community feedback. But what was the equivalent process for coming up with these 30 and 45 minute recommendations?
+
+(01:14:29)
+
+Who specifically was consulted? We started our conversations internally with our pedagogical teams, with our folks leading our computer science teams and our digital learning teams. We took feedback as we met with different advocates, inclusive of some of the recommendations from this Council when we met with you, and certainly Council Member Carmen De La Rosa. You know, not in complete alignment, but that feedback informed how we arrived at our minutes. We will be using our Technology and Schools Coalition in a very strategic way, so as we get ready to see the impact of this policy and where this policy evolves for the following year, that will be more of a formalized structure with very localized representation.
+
+(01:15:30)
+
+Thank you. There was concern, I think two iterations ago, that the people consulted were the tech companies. Will the DOE share with the Committee and the public who they consulted and the specific research that was done to arrive at this policy?
+
+(01:15:48)
+
+We are finalizing our Technology and Schools Coalition work and we will be sharing more with the Council and publicly.
+
+(01:15:55)
+
+Shortly. Take note. The Technology in Schools Coalition — is that the group that will meet monthly? Yes. And at the end of that, there will be a report?
+
+(01:16:07)
+
+That is our intention. And is the intention to then continue that coalition, knowing that AI and screen time is a constantly evolving technology and constantly evolving field? Or is the intention to have a one-and-done report?
+
+(01:16:21)
+
+We are very truly and authentically open to seeing where that process with that coalition leads us, in terms of where the policy goes and the continuation of the coalition — the need for it or not, or any shifts. We are entering into that coalition very authentically, in partnership, and we want to study how this policy landed. What did we get right? What did we get wrong? Where can we adjust? And we want to share that publicly. We hope to do that certainly in partnership with some of our Council Members serving on the coalition, but also here in these spaces for feedback.
+
+(01:16:57)
+
+And I look forward to that work. Again, as I said in my opening, there are disagreements and a lot of questions, but it is very clear that changes were made and that it demonstrates a responsiveness that I want to commend the DOE for and thank them for.
+
+Thank you. You testified that you have done the research for the broad 30 and 45 minute recommendations, but individual vendors are approved without research on specific tools. I am just wondering why vendors who put tools in front of our children in a classroom — and even the reports that you cite reference real harms that could be caused — why it is not incumbent upon them to provide any evidence or research to back up their claims that it will improve student learning.
+
+(01:17:48)
+
+We agree. And some of the vendors that we partner with provide robust data around student usage and time limits. They are able to flag too much time, they are able to show growth in their product, they work with us to cross-reference different data sets sometimes.
+
+(01:18:10)
+
+Can I pause you for a second? Absolutely. You just mentioned, in broad terms, very reasonable things — you know, what is too much, what does growth look like. Why is that not a standard for every vendor?
+
+(01:18:24)
+
+You are right. And that is the next step for us — that every tool that is in our schools has a very concrete instructional purpose, supports the school's instructional vision, is captured in their comprehensive education plan, is determined in partnership with their school leadership teams and then centrally as well. The products that we are looking to bring into the system — making sure that they are able to deliver on exactly what you are citing and what we are expecting in this next phase of where we take New York City Public Schools in our technology use, and that whoever provides that data can demonstrate that their products are effective.
+
+(01:19:07)
+
+The company... well, of course the company is going to tell us their products are effective. But I am talking about the evidence, the research.
+
+(01:19:15)
+
+So, for example, you might... you know, you are looking for a specific thing. Do you want to jump in on it? Schools will look — you know, what do I need... I do not want to... whether it is at the school level or at the central level, we meet with vendors all the time. They have their pitch. Our questions back to them are, you know, what is the evidence of impact? And now we are making sure, even as we are entering into partnerships with anyone, that they are informing us. Part of the data privacy guarantees that Dennis just talked about — if they have added anything to their platform that was not there when we entered into a partnership, the onus is on the company to make sure that we are aware of any changes, such as adding any kind of AI to the product. We are taking it out if that is what they did, and having more of that up-close, personal pulse on the product.
+
+(01:20:20)
+
+What I am interested in is, in addition to data provided by the company itself — of course they are going to say their products are good — is there third party verification?
+
+(01:20:33)
+
+Or any research, or even internal research by the DOE, that demonstrates the growth, the effectiveness or lack thereof, and that you will cancel the contract and take away their vendor license?
+
+(01:20:46)
+
+I think that is an important next step for us to be stronger. Is that... is that part of your goal? Is there a timeline for actually holding the companies accountable — holding all of us accountable to what we are putting in the classrooms? Yes. Laura, did you want to jump in?
+
+(01:21:05)
+
+Yeah, I just wanted to uplift the five pilots that we are doing in high school. That is exactly the purpose of those pilots. It is our first step towards this question that you — that parents, that many advocates — have, which is: where is the data? Show us the data. And we want to be responsive to that. We want to better understand, not just what the vendor believes these tools are capable of, or what their research in Oklahoma shows, but how are these products working in New York City Public Schools? How can we take a first step towards measuring — not ourselves? That is why we are doing the five pilots in high school.
+
+We have basically three classes of tools that are going to be part of those pilots — very low dose, I am talking about like 15 minutes of interaction with the tool at a time. Five different kinds of pilots, five pilots, three different kinds of tools. One is a project-based learning tool, one is a tool that teachers use to design customized solutions for their students, one is a writing supplement and one is a math tool. We made sure they do not have any gamification properties, that they allow students to do their own thinking. We want to take a look, in a structured way, at how students use these tools and what impact they have on student learning. That is going to be happening over the course of this year as we implement those pilots, to help begin answering the question of how we can independently assess whether educational technology tools work in our classrooms.
+
+(01:22:47)
+
+I have to share with you the anxiety that so many teachers and parents feel, especially after hearing testimony here and descriptions. I really want you to tell me where I am wrong. It would give me no greater joy than to hear where I am wrong.
+
+In the testimony, it was testified that these AI tools are vetted and approved. When I hear the word "vetted," I think that it is vetted for quality, for what it brings to my students — not just for IRMA, which you acknowledge needs to be updated and needs to include algorithmic bias. So I hear "vetted." And then I hear that my child, or parents' children, are actually going to be the test subjects for something that is not vetted for efficacy and safety.
+
+I am hearing you are going to look at things, but we have not seen a rubric for what is actually being looked at, what is actually being investigated. We have not seen what these modules — the educational modules — actually look like. And the teachers have not received professional development on how to implement AI broadly or these particular tools. So that is a lot of the questions and anxieties that parents are feeling, and I just want you to tell me where I am wrong. I can go through those questions.
+
+(01:24:24)
+
+Vetting... you do not need... okay. No, in our last testimony we talked about the development of a tool selection rubric that is under design and advancing. We have, in our procurement and contracting, a way that we are working with our vendors to assess levels of AI in their programs and making sure that they can enter into our schools and stay within this policy. We have very limited...
+
+(01:25:02)
+
+I am sorry. But I want to be clear — right now you are talking about the policies that are in place, the vendor process that I think, when it comes to a lot of these technologies, is lacking in many cases. You are talking about the IRMA process, which we know has places where it is lacking. And you are talking about 15 to 45 minute time limits. But it does not really speak to what is on the screen...
+
+(01:25:29)
+
+...it does not really speak to what data you are actually looking for and what it means for our children and our families. I just want to highlight that, and then please continue.
+
+(01:25:46)
+
+Do you want to jump ahead? We hear you. I am going to ask one of our colleagues to come up and talk about the modules, if you want some elucidation on that. But I will just say — I think we hear you on the frustration and we are working very hard right now putting together the framework for those pilots. We are going to be more than happy to share the timeline. Right now, hopefully, to have something like that ready is over the next month. We are looking to be able to share that with you and have that ready to go soon.
+
+(01:26:26)
+
+Have you chosen the pilot schools yet? No. Okay. Have the modules been rolled out? No. Exactly. Should the technology be rolled out before you start putting AI screens in front of our students? Can I...
+
+(01:26:48)
+
+Can we talk a little bit about the process — the criteria that was used around the five pilots — so that you can kind of... yeah, that might help.
+
+(01:26:57)
+
+That would be great.
+
+(01:26:58)
+
+In case you would like to take us through it. Yeah. So we looked at many of the tools that are being used in high schools. Again, I want to make it clear that broad-based use of artificial intelligence — student-facing generative artificial intelligence — in high schools will no longer be allowed. There are only three ways in which a New York City Public Schools high school student could possibly engage with student-facing generative AI going forward. One is for the literacy modules, which you referenced. One is for the pilots. And the last one is for technology-based career readiness programs, some of which have a requirement for a student to use a tool with AI to receive that certification. Those are the only three sanctioned ways in which high school students going forward can engage with generative AI in classrooms.
+
+With regard to the pilots, we went through a selection process to...
+
+(01:28:15)
+
+...really identify the tools that would be involved in the pilots. First, we wanted to make sure the tools were IRMA compliant. Second, we looked at broad tool use across our high schools. We wanted to engage with tools that at least several high schools had already used, so that we would know that we had a base of high schools that would be interested in doing a pilot. Third, we looked at the tools to make sure that they did not have game-based properties — we did not want any tools that had those features. We also only wanted tools that allowed students to retain ownership of their thinking and work. So no cognitive offloading, no giving students answers to questions — only tools that at most would prompt students to do more, to write more, to think more.
+
+As I mentioned, there were three sort of buckets of tools we were looking for: a tool that supported student writing, a tool that supported math, tools that help teachers design customized solutions for different learners in their classrooms, and the last was a project-based learning tool. We used all of these criteria to identify the five AI tools that we are going to be piloting.
+
+We are going to be rolling out shortly an application to every high school. I mentioned that a number of these tools are already in use in high schools, but we are going to offer the opportunity to be involved in a pilot to any high school. We are going to make sure we have good representation in terms of geography and demographics, and that we also have a commitment from these schools to do the work that is going to be involved in a pilot. This is not going to be just like signing up for your subscription and turning it on. This is going to be, number one, partnering with us on data collection. Number two — and we did not get into the specifics on this — every high school student who is actually involved in using AI at school is going to be required to take a long-form literacy class. Every high school student is going to be required to take the short-form AI literacy class. We can go into a little bit more detail about that, but every high school that does a pilot is going to have to offer their students this 12 to 15 hour literacy course. And there is going to be some professional development involved as well for their teachers.
+
+So this is a real commitment that schools are going to have to make to be involved in the pilot program. Again, I just want to make it clear — we are working on the high school application that we hope to roll out soon. It is going to take some time to evaluate those applications, to make sure that the schools have that commitment and that they meet the needs of the overall pilot process. Then we are hopefully going to be able to launch those pilots sometime in the fall. That is the goal that we have right now. As I said before, as soon as we get that framework for the pilot up and going, we are committed to sharing that both with you and with the public, to make sure that everyone understands the metrics that we are going to be using.
+
+(01:32:01)
+
+Think? Yes, I would expect that rubric, those metrics, just like we give rubrics to our students so they know what to expect. I would expect those rubrics and evaluation tools to come out before you launch a pilot, and for all of the data you collect to be public. I would also hope these tools, given that they would be collecting an immense amount of data and research from our children, that you at least get it for free. I would sure hope they are paying you to put this in our classrooms. I have one other question going back to screens, and then I am going to turn it over to CM Schulman and other members for member questions. In the policy, it states the exceptions. One of those exceptions is for students with disabilities and English language learners or multilingual learners, and they are sort of in the same category. Students with disabilities have an individualized education plan where it specifies a specific adaptive device. What is the equivalent document or tool that is used to justify using technology for ELs and multilingual learners?
+
+(01:33:16)
+
+Thank you for the question. I will ask Suzanne Sanchez from the Division of Inclusive and Accessible Learning to join us, and also Kyle, who oversees our Office of Multilingual Learners. This exception is rooted in removing potential barriers, and as it relates to our multilingual learners, ensuring where there is an opportunity to give them access that they have it. So Kyle, can you share a couple of those examples? And Suzanne, thanks for joining, of course.
+
+(01:33:55)
+
+I want to be careful because of timing. Okay? I just want to make sure you know what I am not asking. I am not asking what are some great tools that we can give ELs. I am asking you to compare the justification for students with disabilities that is written in a legal document compared to ELs. If you could explain what the equivalent document would be, how it is researched and justified, and how it would not turn into just, well, let us just give our ELs screens and put them more at a disadvantage through some of the detrimental effects of screen time. Thank you.
+
+(01:34:33)
+
+Absolutely. Thank you for the question, Chair, and to the committee. I am Kyle MacDonald, Executive Director of Policy and Data for the Office of Multilingual Learners within the New York City Public Schools, and I appreciate the advocacy. Our multilingual students are English language learners. The general grounding of policy is in both federal and state policy that English language learners must be provided equitable access
+
+(01:34:52)
+
+to content that is appropriate and grade level, and that includes language scaffolds. There are technology tools that enable our English language learners to access content regardless of their home language background. It also helps us have those students be more integrated within their classrooms so they can participate meaningfully, and then provide appropriate home language scaffolds where possible. So it is the grounding within our state and federal policies that ensures we want to uphold those same rights for all English language learners.
+
+(01:35:23)
+
+Okay, but there is a fear and a concern, and I think it is rooted in reality — the reality we see around screens where it is the solution to a problem rather than a tool to enhance learning. In your policy, have you considered not just that we are allowed to give screens to multilingual learners, but what that looks
+
+(01:35:48)
+
+like? Absolutely. So again, grounded in the rest of the policy, we do not have any unstructured, unfettered, unsupervised time with our students using the devices. That same requirement applies when you are using instructional technology devices — it must be something that is directly tied and intentionally connected to the content the student would be learning, and it must be equitable to the grade level that the students are participating in.
+
+(01:36:13)
+
+And as part of your policy, are EL teachers being specifically provided with professional development related to technology use for English language learners?
+
+(01:36:25)
+
+As part of the New York City Reads curriculum, we are working on a variety of curricular bases, and these include scaffolds for English language learners as well as some home language criteria and curriculum that do have some technological elements. Teachers are receiving professional development if they are participating in those curricula.
+
+(01:36:43)
+
+Okay, we will talk more about that at a probably later date, but I want to thank you. I want to turn it over to CM Schulman to start member questions. Thank you.
+
+(01:36:50)
+
+Thank you very much, Chairs, and I appreciate this really important hearing today. I have a couple of questions. First, I want to acknowledge I have a constituent here, Kate Mulvaney, who represents a number of parents in my district, and I want to thank her for being here and for her advocacy. So I have a couple of questions. Parents are reporting that their schools have not changed any device use because of the many caveats in the new screen time rules. When is the DOE going to issue a clear list of what is and is not exempt from the screen time regulations, and how is the DOE vetting this list? Thank you.
+
+(01:37:28)
+
+Thank you for the question. Today is day four of schools, so we know that the policy dropped right before our schools came back, and we saw immediately our superintendents, their teams and our principals jump into action. There are ways that they are leading with what they know and leading through what they are waiting for, and so we have been keeping a pulse on some of those. We know there are some like, can you tell me specifically, can I use this or not? We are working through some of that for them. We are working with our vendors to also confirm if there is generative AI or not in the product, and if not, then it would just be subject to the screen time limits rather than the moratorium. So we are pulling through all of that and getting those answers out into the field as soon as we can.
+
+We are working through that in the meantime. I have met with a teacher, a principal, a superintendent, and even there I am not sure. So I said, how are you leading through this? How are you teaching through this? Well, where I am not sure, I am just not using it right now. They have been talking and sharing stories about going back with their full arms around the print-based materials to the extent possible.
+
+(01:38:50)
+
+Parents with children in 3-K reported that the children have been given teachers' cell phones and are being shown movies to occupy them during nap time when they are not napping. What is the DOE doing to ensure early childhood programs are providing appropriate activities for children?
+
+(01:39:06)
+
+In the first four days of school?
+
+(01:39:10)
+
+Well, these are what parents
+
+(01:39:11)
+
+are reporting. So I would say that is important feedback. That is not the vision for time that we would want our, especially our littlest ones, to be spending during precious school time. That would be a great opportunity to provide clarity on the early childhood guidance, which has always been in place. Early childhood has had a restriction on device use before our policy. Our policy mostly complements it and doubles down on their own policy within the Division of Early Childhood Education. That is an important story and we will work with the Division of Early Childhood and our schools to make sure that that is not happening.
+
+(01:39:53)
+
+Okay. How many assessments are required by the DOE each year?
+
+(01:39:58)
+
+So in the New York City Public Schools, outside of the New York State assessments, we ask our schools to administer a screener assessment three times a year — pretty much October, January and May — so beginning, middle and end of the year. Our schools have opted into, typically by district, one of two academic screeners. In both there is a citywide screener for literacy that we are looking at centrally. Then schools take the curricular choices that they have and they decide which assessments within the curricular programs or otherwise that they find valuable. At the school level that could look different, but at the central level those are our assessments.
+
+(01:41:03)
+
+Are schools required to use screen-based assessments, or are paper options available?
+
+(01:41:09)
+
+The screeners are online and they are part of the exemption in our policy. We have some of our core curriculum that has digital assessments. We are asking our schools to transition away from digital assessments to the paper versions of these tests, but some of the current, like the end-of-module assessment, might be digital only right now. That is part of the grace that we are giving in the implementation of this policy and where we might need to make adjustments going forward.
+
+(01:41:40)
+
+Do parents have the right to opt out of screen-based assessments?
+
+(01:41:47)
+
+So we do not have an opt-out policy for what are valued and core curriculum choices in our schools. That is the core part of the instructional program. So at this time there is no option to opt out of those tests.
+
+(01:42:04)
+
+Thank you. Thank you very much, Chairs, and thank you very much.
+
+(01:42:10)
+
+Thanks so much. CM Schulman, that last question is a very important one too, and I think, you know, there is a standardized test, but it is also the everyday assessments in math and everything else that are happening digitally, and I do think it is worth considering other ways to opt out of that, to take these assessments. I want to recognize that CM Maloney is here, and we are going to turn it over to CM Morano.
+
+(01:42:37)
+
+Thank you, Chair. First of all, I am aware of the irony of me reading questions off of a laptop, but I think it goes to show there is an appropriate place for it — clearly here. Thank you. And I want to give the DOE credit for recognizing that technology should be used sparingly and should not crowd out teachers, books, hands-on learning and interaction with other kids. I want to focus and pick up where my colleague CM Schulman left off. The one exception in your policy is that you say digital assessments and diagnostics do not count towards screen time limits. So
+
+(01:43:15)
+
+if an elementary school student has 30 minutes of instructional screen time and then spends another hour taking digital assessments, that additional hour does not count as screen time under the current policy. Is that right?
+
+(01:43:30)
+
+That would be correct, but we would also ask our schools to be very mindful that if this is the day that you are administering a screener, that on this day you are also balancing that out by minimizing or not using at all screen time that would otherwise be part of the curriculum day.
+
+(01:43:48)
+
+But here is what I do not understand. The child's eyes and brain do not know that that hour has been classified as an assessment. If we are concerned about the effects of screen exposure on children, why would not all screen time count as screen time?
+
+(01:44:04)
+
+Yes, thank you for that question. I think for us, our current ability to keep a pulse on our students through our screener assessments — they are digital. That is why we are asking our schools that on these days, in order to get this data to understand how kids are performing and what interventions or accelerations they might need, we are able to maintain those screeners. If we need to continue to revisit, as we look at this policy over the next year, the kinds of screeners that we have and where that plays in digital, we will make those adjustments. But for this year, that is where it lives. Again, we want to empower schools and ask our schools to just be mindful that there is that balance — that today might not be the day, even as I shared in my testimony. If we are going to the computer lab today, that it is outside of the instructional day, but it does become part of the student's experience that day, and we want to truly limit technology.
+
+(01:45:19)
+
+The UFT is calling for a paper and pencil testing option for every student. Would the DOE support giving students and parents that option?
+
+(01:45:30)
+
+We will continue to work with our labor partners on some of the options that might be available to us going forward.
+
+(01:45:37)
+
+I also want to ask you to look backwards for a moment. You know, they say hindsight is 20/20. I am going to ask you to use the prism of hindsight. Your own testimony says routine individual screen use can crowd out hands-on learning, social interaction, play and teacher-guided instruction. Those things were true three years ago too. So looking back, without blaming anybody, does the DOE believe we allowed an emergency response to COVID to become too much of a permanent educational model?
+
+(01:46:16)
+
+I think this current administration, from our Mayor to our Chancellor to myself to this Council, I think we would agree to that. That was very beautifully said, and in CM Krishnan's testimony as well — we thought we were sending our kids back and the laptops were going to close. I do think that the moment we are in, in this national conversation, with emerging research and the feedback we are getting from community stakeholders, has allowed us to say we do need to look at this. We do need to slow it down. We need to study it better. That is why we are in a one-year... this is a seismic shift, to your point, for our schools. We are so entangled in so much of the digital use in our schools, so we wanted to offer a very developmental, research-based approach — what does year one of this look like? — that our schools can continue to thrive in. I would agree with you, and I think that is why we are exactly at this policy.
+
+(01:47:26)
+
+Finally, your screen time limits do not apply to out-of-school learning. What is a parent who is trying to limit screens at home supposed to do when their fourth grader comes home and says my homework is on the Chromebook? Is a reasonable paper alternative available when the assignment does not inherently require a
+
+(01:47:48)
+
+computer? Yes. So our policy does not speak to homework. We know some of our teachers will maybe post homework in Google Classroom. We are happy to continue supporting paper and pencil homework options for our teachers. We also know that at home with their devices, we need to get our kids ready for remote learning days, which, while we have contingency plans for Election Day this year, often involve remote learning. Our pivot to remote days can happen under some kind of weather or other emergency, God forbid, and so we do need our kids ready to do that. We also know that outside of school we have our after-school programs as well. We partnered and shared our policies to make sure that during the school day our partners during the instructional period were aware of our policy, so that they could be inspired to think thoughtfully about how they are using technology in after school as well. Thanks very much. Thank you. CM
+
+(01:48:58)
+
+Abreu. Thank you, Chairs. I am reading over here that you have this limit on screen time — the maximum screen time for grades 3 to 5 is limited to a recommended 30 minutes, and then grades 6 to 8, no more than 45 minutes per day. My question is, how do you track
+
+(01:49:20)
+
+students' screen time when they get home? Because people — yes, you have Chromebooks issued by schools, but students use their own computers. So how do you track that? Our policy does not speak to out-of-school time, so that is my answer. Can I ask you to elaborate on your question? Yeah. So,
+
+(01:49:45)
+
+for example, if they do their homework on the Chromebooks, what are we asking them to do? So how are we monitoring how much time our teachers are giving for homework on computers?
+
+(01:50:00)
+
+Yes, that is a great example. We have not put a limit on homework at this time. That is something we are going to be listening to the field about. What I would say to you is that our system now knows that our policies are very strictly enforced during our instructional time with children. We do not want to then say, well, you could have four hours of homework. We are not looking to go to any kinds of extremes. We are just trying to find that balance, but we did not roll homework into this policy. Does anyone want to jump in if there is anything else to add?
+
+(01:50:44)
+
+That is probably enough.
+
+(01:50:45)
+
+Okay. Okay. My
+
+(01:50:47)
+
+question is, what about kids that do not have Chromebooks? How do you track screen time for kids who do not have their own Chromebooks to bring home? I know kids who bring Chromebooks home. My question is, how do you track screen time for kids who do not have their own Chromebooks?
+
+(01:51:12)
+
+So we have made available... all of our children have access to devices, especially for our remote instruction days. Some schools have one-to-one devices available in school and a second set for home. Other schools have children traveling back and forth with their Chromebook. But if a child does not have a Chromebook and would need it for instruction, our schools will work with that child and family to make sure that they have a device at home. But if that is not a belief of a school — because some of our schools are not using laptops outside of the school day — then a child would not be expected to use it for homework or accrue minutes. My follow-up...
+
+(01:52:02)
+
+The question is: how would parents effectively restrict screen time for kids at home? Because I myself know I can configure a router and say, turn on the internet only from 7 to 9. But what general advice do you have for parents on how to restrict screen time for kids when they get home?
+
+(01:52:24)
+
+I believe that if at home...
+
+(01:52:25)
+
+You have screen limits for your child and you as parents want to take that device away. I know that that is not going to be easy, as CM Krishnan shared. But in the home, we would rely on your amazing parenting to decide if the device needs to be pulled away from the child or not. And if you feel that at the school level the homework is requiring more device use than you want to personally allow in the house, that is a wonderful conversation for you to have with the school.
+
+(01:52:59)
+
+And I also wanted to add that the ordinary parent does not know how to configure their routers or the devices so the internet gets turned off. But it seemed to me this is clearly a necessity, because when parents see kids using the computers at home, they think, oh, they are doing their homework.
+
+(01:53:16)
+
+Or the kids tell the parents, oh, I am doing my homework — but they are not. So I am understanding your question: how are we supporting parents with the right tools and strategies that we are giving them? We do have some wonderful resources available. We have Randy Asher with us, who oversees our digital literacy curriculum. We have made that public for families as well. And I know, even as a former superintendent, some of the work that we led at the district level around supporting families at home with using technology and screen limits — we used to have, and I am not sure if they are still doing it but I think they are, a wonderful screening of a movie called "Screenagers" and a panel discussion after that. That allowed the community to have a conversation around what decisions we want to make, what the impacts of this are on our children, and what decisions we want to make as a family. And so I think those are important tools, strategies and information that our families receive. Randy, would you like to talk about any of our public-facing resources available to families as well?
+
+(01:54:20)
+
+Sure. Thank you, CM Wong, for your question. My name is Randy Asher. I am the Deputy Chief Information Officer for Educational Technology. We partner on our digital literacy outreach with parent coordinators, with school leaders and with parents. We provide a curriculum set of lesson options that are mandated each year for all students. We also inform parents through our partnership with different companies like Common Sense Media and several others about how they can help govern and work with their children at home on the use of digital technology and appropriate use of technology. So some of this is about helping to educate our parents. We do not expect parents to reconfigure routers or use other technical solutions, but it is about how to have conversations about appropriate use and what are reasonable screen time limitations.
+
+Screen time is not only a laptop or a Chromebook, but we also have students who when they get home are on gaming devices, watching television — lots of different types of screens that kids utilize. It is about finding appropriate tasks, hobbies and interests that will engage students where not everything is in a digital format. So we provide a lot of instruction around that and resources to help parents know how to control some of the applications and how to install parental controls on some of these devices. Because sometimes the device use is not necessarily the only concern — it is about what they are doing on the device. So we work with parents to be able to do that and we turn-key it through our parent coordinators and other groups to help get that out into the community. Thank you.
+
+(01:55:59)
+
+Thank you. Thanks again. Somebody now — CM Narcisse.
+
+(01:56:04)
+
+Thank you. Thanks to both of you and thank you, Madam Deputy, and thank you to the Chancellor for meeting us and helping us do the best we can to help our community. I know the conversation will continue with all your leadership. Thank you. I have spent my career in health care and I know what screen time can do to our children's eyes, sleeping patterns, their ability to focus, how engaged they are with one another, and critical thinking and analysis. I could go on and on. So setting daily limits was the right thing to do — the right call. But a limit only means something if someone is actually counting the minutes and the families can see the result. So what did the Health Department or school health services contribute to setting the time from 30 to 45 minutes as the numbers? And were those based on clinical evidence? Because we know everything is evidence-based.
+
+(01:57:38)
+
+Thank you for your specific question. That would speak back to the research that Laura shared. We reviewed that as we arrived at our 30 and 45 minute screen limits. The caps for grades three through eight I describe as recommended.
+
+(01:58:03)
+
+Who is responsible for
+
+(01:58:04)
+
+making sure a school stays under them, and what happens if a school does not?
+
+(01:58:12)
+
+Yeah, thank you. This is back to the conversation earlier around the use of the word "recommended" versus "mandate." We want to make sure — and I know words matter — so we can argue that "mandate" would have mattered as much as "recommended." We also know that sometimes a mandate leads to results we did not want. We did not want to make this first year of this massive shift in our system feel punitive or make anyone feel under pressure. We want to really support our schools in scaling down and paring back how much screen time they are using and how much access to generative AI they are using in their schools.
+
+You know, as the First Deputy Chancellor, underneath me are our superintendents and all of our schools. We are working in lockstep. We have incredible feedback loops — some of them are formal, where we get on calls with our superintendents to check the pulse. The Chancellor and I love to be in schools, and so do our superintendents, and we will be using our school visits to gauge how this is going and course correcting in ways that might be necessary if we come across something.
+
+We learned so much through the cell phone policy implementation, because these were some of the questions that came up as we launched the cell phone policy as well. Our schools blew it out of the park with their ability to implement the cell phone policy with fidelity. And when issues came up — for example, for students who were really insisting they needed access to their phone or finding those clever workarounds that our brilliant children know how to do — we were using a more progressive discipline approach rather than going straight to punitive measures. We want to take the same approach as we implement this policy this year.
+
+If for some reason we get word of a school struggling, we will support them through stronger implementation. And if we get to the point where we feel we have done enough with "recommended" and need to double down on the word "mandate" going forward, that is a place we are willing to evolve and grow. Again, it was so much community feedback that led us to this policy and we are not done listening to the community.
+
+(02:00:39)
+
+So appreciative of the structure and guardrails we have to put in place for our children. We heard about the guidance — how will we be distributing the information? And is it available in different languages, the information that we are
+
+(02:00:56)
+
+giving? Our policy is on our school website and our website translates into many languages.
+
+(02:01:05)
+
+I want to know all the languages. How many languages are available?
+
+(02:01:09)
+
+The languages — if you ask, yes, we have it in all languages, especially in the different schools located from Spanish to Haitian Creole and all. Yes. Are you...
+
+(02:01:19)
+
+Are you going to sign on to the Microsoft agreement? Thank you for that. I do need to speak with Vice President Vaccaro about that. We have not had a chance to connect on it. Has that come up for us? Not yet. Thank you.
+
+(02:01:36)
+
+Because we talk about safeguards, guardrails and structure, there is one question that I need to ask. I cannot readily identify which one of the software programs they use that has AI components. Has the department provided schools with a list of which approved programs include AI features? And if not, how are the teachers expected to comply with the moratorium?
+
+(02:02:08)
+
+Thank you. We are working to make this a more easily accessible answer for our schools. Strickland, you can take it.
+
+(02:02:15)
+
+Sure. We have a list of hundreds of software products that have been used in our schools in the recent past. For each one of them we are researching whether we know that it has any AI component to it, and we will be working with those vendors to see if that component can be turned off, especially if it is student-facing generative AI. In the meantime, we are going to provide a list to the schools saying, right now it looks like this product is in this state and therefore it is either good or it is not.
+
+(02:02:49)
+
+All right. Thank you. Thank you for your time.
+
+(02:02:51)
+
+Thank you so much. Before I go to CM Maloney — quick update. Do we have those audits, the number of audits? Not yet. All right. For almost $40 billion, I feel like you could find the number of audits done. No? Just me. Okay.
+
+(02:03:16)
+
+CM Maloney. Thank you.
+
+(02:03:19)
+
+Thank you, Chair. Thank you for being here. I am glad to see that the report was quick — thank you for your questions. You recognize how technology can be used to enhance education but really cannot be used to replace human interaction, and that these tools are changing how students are learning, including testing and homework, when you are tempted to turn to ChatGPT instead of going through the mental effort to get to the answer yourself. So on the homework question: how are you rethinking in-person instruction and testing versus at-home assignments to mitigate some of the risks that come with these tools that students are going to have access to at home?
+
+(02:04:05)
+
+Thank you for the question. I think what this moment is offering us now is exactly that — what does homework look like when our students leave school? How are we asking them to demonstrate their thinking so that we know this is their work? What are ways that we can have them show their work so we can really get into how they are processing and understanding content? I do not have a clear pulse on how much digital homework versus paper-and-pen homework takes place. Our policy does not speak to homework per se, but this is an important place for us to highlight that even with written homework, students can still have access to those digital tools.
+
+The second thing I wanted to dig into is the digital divide issue. How many of these students are dependent on their schools for getting access to these devices, or do they have access on their own?
+
+(02:05:08)
+
+Hmm. Thank you. Just to say, this is a valuable tool in some cases — and how often are parents or students relying on public schools for that access?
+
+(02:05:19)
+
+Yes. So I am going to bring in Scott to talk a little bit about our device distribution and what is available to our students.
+
+(02:05:26)
+
+Sure. As I mentioned early on, at the pandemic we got a device to every student — took us six months — and that policy has continued through several other administrations. The rule is that a school should provide a personal device, whether a laptop, Chromebook or iPad, to every student in the school. Off and on there has been access to LTE internet services connected to that device so that if the home does not have broadband internet, they still have connectivity. Recently that was ended, but each school can purchase LTE connectivity for individual students that need it and some schools have taken advantage of that.
+
+(02:06:14)
+
+So as of right now, every student should have a device that has been issued to them, and there is a way to bridge the divide through either their home-based internet or getting it through the school. The department is very involved in ensuring no student is left behind. Yes.
+
+(02:06:36)
+
+The second question I want to ask is about exceptions for useful technology. I come to this conversation as a former product manager, fully aware of the things that can go wrong and also the benefits that come with technology, like assistive technology. One of the exceptions you called out is multilingual learners — making sure our students do not fall behind with SAT prep, testing, AI literacy, because we all know our students are going to encounter tech in the real world, and then workforce development like coding, robotics, et cetera.
+
+So how are you evaluating these exceptions — whether it is a use case where technology is appropriate or a specific software that you want to approve? And how are you going to staff this exceptions list so it makes sense? Can you just address the last part: how will you have the capacity to do this? You mentioned this is a seismic shift in how people learn. The use cases and tools being created are numerous. One is: what is the criteria to determine what is appropriate for students? And two: how will you have the capacity to continuously evaluate this ever-evolving ecosystem?
+
+(02:08:00)
+
+I will have Suzanne, who jumped up, talk a little bit about that for our students with disabilities and multilingual learners, which live under the Division of Inclusive and Accessible Learning. Laurel shared a little bit — actually a very comprehensive outline — of how the five pilots came in. We are also joined today by Tunisia Mitchell, who has helped design and pilot some of the literacy modules that our schools will be going into. And to your point about monitoring: before I turn it over for a more nuanced conversation, we are really going to be relying on our technology and schools coalition to help us with that, with some committees that are studying different aspects. But Suzanne, you look like you are ready to say
+
+(02:08:52)
+
+something. I am Chief of Special Education for New York City Public Schools, and I want to just acknowledge and thank you and the Council for your thought for our students with disabilities throughout this entire process, in terms of the efficacy of devices and support and how do we know this works for a given student. When it comes to students with disabilities, the exceptions that are in place for them are student-specific and specific to a specific device or tool. We employ a team of experts — it is our Center for Assistive Technology — and this group are experts in assistive technology. They vet, try and test any tool before it is recommended for a student. They are trying it out, making sure that it works. If it is a speech-to-text tool, if it is a word vocabulary tool, if it is an AAC device giving a child full access who does not have mobility — they are testing these tools in-house before we recommend them for a student. They also check in throughout the school year on how the device or the program is supporting that student's access to learning, what outcomes we are seeing. It is an iterative and fluid process through which we make adaptations and changes along the way. One thing I would also call out is that we also drive some assistive technology innovation through this process by
+
+(02:10:22)
+
+saying to certain vendors, "Hey, we see our students need X. Your product is providing Y. Let us look at how you can shift and change that so that our students are getting the actual assistive technology supports that they need." That is following that review process, and so that is how we navigate, monitor, track and revise for students with disabilities around anything related to assistive technology.
+
+(02:10:54)
+
+Good afternoon. It will be helpful if I turned the mic on. Good afternoon, everyone. My name is... I am the Executive Director of Computer Science Education for New York City Public Schools, and I am grateful to be here with you all today. Council Member, you had asked some questions in terms of how we are understanding what is happening with our students. I can speak more towards the literacy that is part of the exceptions that we held as part of our guidelines. As you all know, this is a new effort to ensure that broadly across New York City Public Schools there is guidance and understanding of what AI literacy is in a way that we could norm upon across NYC schools.
+
+As part of the guidelines, we had developed a 45-minute offering for high school students to ensure that high school students have a broad understanding and foundation of what AI is, what it is not, understanding data privacy and appropriate uses when it comes to school. That is meant to support students in getting a strong foundation. We are planning to pilot it later this year, and so for us the way we are going to track that is by having a mixture of formative assessments. As Chair Eric Dinowitz shared earlier, there will be a range of surveys to understand what is happening when it comes to that learning progression.
+
+This will be administered through central itself, and so we are taking a deeper stance in understanding what is coming in front of our students. I will also share that, along with AI literacy, there will be a 15-hour AI literacy course that will be offered to students who are within a career pathway. So what that means is if they are in a career technical education school, or if they are participating in pathways when it comes to rigorous learning and thinking about future readiness, any students that will be participating in career readiness pathways or will be participating in one of the approved pilots that were discussed earlier will also undergo an AI literacy course. This will be monitored through central as well to support understanding of students and what they are learning, and we will also provide those reports across schools. Thank you.
+
+(02:13:50)
+
+Chair, thank you for your time. I have a few questions left and then I am good to go. Sorry, one minute. So one of the questions I started out with was, you know, we talked about gamified apps and data protections and the utility of these educational programs. So how is the usefulness of these programs assessed? Are you consulting with teachers? Are you looking at student performance and progress? What way are you measuring whether programs that have once been useful are no longer useful and need to be phased out?
+
+(02:14:36)
+
+Thank you for that. You know, a lot of our gamified apps, by the nature of including AI in them, are now part of our moratorium. We are looking even closer at all of the software that is in our schools, and as part of the purchasing process we have a team at central that is reviewing the requests to make sure that any software that is imported to our schools is at a minimum in alignment with our policy.
+
+(02:15:13)
+
+Thanks a lot, and I will end my questions here. I just wanted to, you know, there are a few points that I think we should continue our conversation around. I think the one point that we mentioned, which is even with the mandates versus recommendations, and I think with those things, even as recommendations, there are a lot... what we are seeing today, the theme of the hearing, is there are a lot of areas, loopholes or workarounds or other things that are unaddressed that we need more specific solutions around. Laptops come home — what are the restrictions there? I mean, frankly, I do not think they should be coming home for K through five, but what are we doing to restrict and monitor? Because I think putting the burden entirely on parents is too difficult a burden for them, and frankly not fair to parents who have to figure out how to monitor yet another device at home. What kind of access do you have there?
+
+So I think there is a real question of what comes home, when, and how often. Is there storage for laptops in the classroom to the extent that students are using them from 3 to 5? On top of that, there is a question of when is it actually required to do homework on the computer and when it is not. Are there policies in place for parents to opt out of online testing? I know there is a larger issue and NYC has been big on this about standardized tests, but even the assessments going forward, can parents opt out of that to take pen and paper tests? I think that is so important.
+
+And you know, I think the last one was around consent when it comes to data sharing. I think we have got to really revisit and look at that as the landscape changes, both legally and as the problems with digital tech explode, rather than relying on that exception in that federal statute. Are there more affirmative consent policies that we have to have in place regarding the sharing of student data? I bring those all up just to say that when big tech is allowed in the classroom, even when there are policies put in place, there are many other doors that are opened that create their own issues and their own problems. So we all need to be a lot bolder in how we address a problem that is really outpacing our ability to keep up in the current moment. These are just a few areas that I think going forward we will need to be paying attention to and working together on. I look forward to continued conversation around that, and I will turn it over to the Chair if there is anything else you want to add.
+
+(02:17:59)
+
+Just wanted to thank you for that statement. I know we are not done yet, but you know the opportunity for us to go a little deeper into the policy and also to receive your questions and your final statement as some feedback for us to keep guiding us forward — so thank you for that.
+
+(02:18:15)
+
+We appreciate it. I appreciate it very much too, and your willingness to partner together to really address these issues in an effective way. So thank you. Thank you.
+
+(02:18:26)
+
+And you know, I think a number of the things we heard today it sounds like you have been thoughtful about, and making it public and putting it on the website I think would make a lot of students and teachers and families feel more at ease. I want to go back to the gamified apps for a second. These are really, you know, damaging to our kids much in the same way that social media can be. You are always looking for the next dopamine hit, and it takes so much of the learning out of these gamified apps. Now you have committed to banning YouTube for the younger students and blocking it from their student accounts. Is that same commitment going to be made for these gamified apps?
+
+(02:19:13)
+
+We will take it under advisement, but a lot of these are going to end up being subject to our moratorium, or perhaps not — I am not sure which ones we are talking about specifically. But I do think we are going to see very limited use.
+
+(02:19:31)
+
+Gamified apps are not something that we really want to see in our schools. That is not really the intentional instructional use of technology that we are envisioning.
+
+(02:19:46)
+
+I will note that before the advent of AI, these sorts of apps existed. So beyond the AI policy, they happen to be caught up in your AI policy maybe, and may not be otherwise. So it is important to take a look at that and make sure, as has been said, that what is going in front of our children is actually beneficial to our kids and supported by research. You spoke about the AI literacy modules — the longer ones and also the shorter modules for students who do not have AI in front of them. But digital literacy and digital health are really important in general, and it is important to start teaching that long before a kid sees a computer. Is there, as part of the curriculum, modules to teach digital health and well-being before you even give a kid an iPad or a computer?
+
+(02:20:44)
+
+Yes, we have a digital literacy curriculum. Randy Asher spoke to it a little bit more. I do not know if you want to...
+
+(02:20:51)
+
+...ask additional questions about that, or if he wants to come up. I will defer to you on how much deeper you want to go into that. I think for us right now we are focusing these modules on our high schoolers because we have in our policy that they have some access to the ability to use these tools, and we did not apply a screen limit for 9 to 12. So for this year and in this moment, our focus is on our 9 to 12 students. Tunisia's team and Randy's team have some digital literacy and AI modules in development for some of our younger grades as well. We know that even from what I have learned from meeting with Vaccaro and Weingarten as part of our feedback process, they too have some great resources to lean into. Additionally, we met with Senator Gonzales and Council Member De La Rosa. There is a lot that we can pull together for our younger students, but for right now and the launch of this policy, that is why we are speaking specifically to 9 to 12. We would be happy to answer any specific questions, but we do have a digital literacy program that spans the grade levels that gives kids experience and exposure to concepts that they just need to be familiar with when interacting in a digital environment — some of the very things we are concerned about, like biased and inappropriate content.
+
+(02:22:17)
+
+Part of that process is explaining to students how to be in a safe environment, how to avoid or respond to cyberbullying, and why you should not put personally identifiable information into open programs. So it is about informing students on how to use tools appropriately, when to use those tools, and under what supervision they should or could use those tools. It is about general information on practices that are expanding throughout everything they do, touch and see. As the students get older, it becomes more sophisticated levels of digital technology, whether in a career tech pathway or other.
+
+(02:22:59)
+
+Yeah, and it is true, you do not need to reinvent the wheel. Common Sense Media and other nonprofits have great resources. Is this a requirement even in our youngest grades — kindergarten, first, second grade — before they even touch the screen? Is this...
+
+(02:23:14)
+
+...being implemented? Well, it is kind of hard to do without the screen, but it is a requirement. I am sorry — I got it. Remember DARE? Yes. Or like, you know, I did not have to do drugs to learn about drugs. You could learn about it. But to actually see, touch and experience some of the simulations, it becomes an important component. What I am asking is, can you teach these skills about it? And we do, but as the kids get older it gets more complex. I think one of the things that is important to note is that as they get older they have screen time. Yes. And so what I am sort of asking is, for the youngest grades — kindergarten, first, second grade — do we have curriculum and, of course, supports for teachers to teach the safety and the literacy they need long before they get an iPad thrown in front of them? Does that exist?
+
+(02:24:08)
+
+We have some of that that was done before this screen restriction, and that will now be modified based on the new policy. So we would not say they are in a digital environment now...
+
+(02:24:16)
+
+...and will that be mandated or...
+
+(02:24:21)
+
+...recommended? It is mandated that we do this as part of our Children's Internet Protection Act compliance. It is part of the entire understanding of how to interact in an academic setting...
+
+(02:24:32)
+
+...including for the youngest grades. We do some exposure to it in the youngest grades, but it is very surface level because they are just not old enough to engage at the deeper level of content. I think this involves a much deeper conversation, because I think the point is your kids are interacting with screens much younger, perhaps than third grade, which is when according to your policy it is supposed to be starting. But they need to learn the safety and the literacy long before it is introduced in a classroom, or even while they are doing it...
+
+(02:25:04)
+
+...at home. Even in our Computer Science for All curriculum, it is guided by state standards. Also in our early grades — and Tunisia, correct me if I am wrong — the vast majority of some of that learning is unplugged programming that has nothing to do with the screen. So in those spaces it is not necessarily the literacy of it all, but it is getting ready. It is part of the readiness of the programming aspect and making, you know, all the work that is involved in...
+
+(02:25:35)
+
+...yeah, or being even aware of what a screen does to you, being aware of what social media does to you before the kid has an Instagram account or a TikTok account. Do you want to add more?
+
+(02:25:51)
+
+Okay, I am just making sure I was on this.
+
+(02:25:53)
+
+Thank you for doing great. Thank you.
+
+(02:25:57)
+
+I really appreciate the opportunity to bring me in for this topic. When it comes to our computer science programming, not all of it involves screens. Not all of it involves the usage of tools. Actually, in elementary schools some of the biggest components of computer science education are understanding technologies, the effects of that in society, ethics, decision making, and how you are communicating in the earliest grades. So your point, Chair Dinowitz — our kindergartners, first graders, second graders — it is also about understanding the differences of what humans do, what technologies do, different types of technologies and how to interact. What are some of the good uses of interacting with technologies?
+
+(02:26:42)
+
+Okay, and again, at what age does this start? So computer science programming — we have that across K to 12. Okay, so it does include that. And does every student have access to that, or is that just in the schools that engage those programs or the teachers who happen to teach it?
+
+(02:27:00)
+
+So we provide offerings and programs throughout the year to support K to 12 schools in receiving that, and in accordance with the New York State computer science standards, which are passed across K to 12 with the expectation for schools to implement them. So we provide resources year round to support any school, K through 12, to be able to provide that type of...
+
+(02:27:23)
+
+...programming. I am sorry, I just want to get to the language. I am hearing "be able to" or "support them in" — are they required to do it? Do all schools have to do this?
+
+(02:27:32)
+
+In New York City Public Schools, we do not have a strict requirement for all students to do computer science, but...
+
+(02:27:40)
+
+...your expectation is that they do. You said there are standards...
+
+(02:27:45)
+
+...that have been produced by the state, where if schools are...
+
+(02:27:51)
+
+...doing computer science, the expectation is to use those standards to hit a certain type of rigor across K to 12. Yes. I mean, I want to make sure our kids are safe and literate before they touch the screen. I am hearing mumblings. It sounds like it is not.
+
+(02:28:12)
+
+It is the distinction between recommendations and mandates. I will deposit that in this age, our youngest kids, before they have a one-to-one screen, need to know exactly what you spoke about — the safety and the dangers and the way it can impact them. Without that education they are going to suddenly be presented with the screen and do the things that we are scared of, whether it is the cognitive offloading or the addiction to the screen. They need that education, and it should not be "well, if the school engages in computer science." It really should be something that all of our kids are getting.
+
+(02:28:56)
+
+I want to lastly ask about the contracts. At the fiscal year 2027 preliminary budget hearing for the Education Committee, we stated that there were 73 technology contracts in the deal. How many of these contracts involved instructional or classroom software or hardware? Thank you for the question. Our procurement team is not with us today, but we have some information — I am not sure if I have the answer with me today on that specific question.
+
+(02:29:32)
+
+That is okay. We do not mind giving homework. The audits — that is okay. We do not mind.
+
+(02:29:37)
+
+Nor should you. You are the Education Department. Do you want to share the information? Please.
+
+(02:29:44)
+
+Sure. Yeah. What we have...
+
+(02:29:45)
+
+Thank you for that question. So specifically, in fiscal year 2026, which is the last full year that we have spending information for — and just to be clear, this is both school-based and central software spending — $105 million was spent on educational software for that fiscal year.
+
+(02:30:24)
+
+Wow, I am in the wrong business. Yeah, that is a lot of money. And how many of those contracts needed to be amended based on the screen time and AI policy?
+
+(02:30:33)
+
+That is something that we are working through right now for sure. We are working with our vendors to figure out the whole turn-off, turn-on AI situation and all of that, and we can get back to you on that once we have worked through it.
+
+(02:30:47)
+
+And are there any specific contracts that were contracted for a service that is now no longer necessary and no longer required given the new screen time policies?
+
+(02:31:03)
+
+Yeah, again, that is something we have to work through. Is your product still usable under screen time policies? Can it still work without AI? Is it a tool that is used in both high school as well as in middle school, so there is still some use? So for every tool we are going to have to really take a closer look at that.
+
+(02:31:23)
+
+And, of course, at some point asking is your tool effective.
+
+(02:31:26)
+
+Utilizing our deal rubric.
+
+(02:31:29)
+
+Right. Okay. Two weeks ago, did we announce it would discontinue or disable the AI components of 38 previously allowed programs? As of today, the DOE has not released the list of those programs. Will the DOE provide the committees with the full list of all 38 programs, indicating which are being discontinued entirely and on what basis?
+
+(02:31:57)
+
+Yes, to that point, the 38 — as part of this, we are checking with vendors to make sure and giving them the opportunity to also connect with us on what it has, what it does not have, and if it can still apply for use inside of our schools.
+
+(02:32:10)
+
+But those will be shared with the committees. I believe that is the intention. Okay.
+
+(02:32:13)
+
+What is the DOE's projected cost to implement the AI and screen time policy for fiscal 2027, including things like staffing for the expanded contract review, the technology and school coalition, and the AI literacy modules — which, again, my opinion is that the company should be paying for, given that we are piloting it. But please, what is the projected cost? I think I am going to have to get back to you on that. I do not think we have that number with us.
+
+(02:33:06)
+
+Thank you. I just wanted to add one thing to the list of things to follow up on. I think CM Morano had raised a really good question too about what immediate steps you all could take. How do you balance out the screen time policy you all have in place — 30 or 45 minutes allowed? The online assessments are exempted from that, but obviously that is also a loophole that could be a huge carve-out if they are online assessments and they involve screen time. So I would ask that you look at ways to issue instructions to schools that that loophole should not become something that adds to the screen time allowance right now. Thank you.
+
+(02:33:55)
+
+Okay. I also — I know, Chair Krishnan, thank you. I want to thank you. There is significantly more to discuss. Obviously, I think it is clear that both there have been changes to policy made and that you are listening, but that there is also a lot more to do. My families remain concerned, teachers remain concerned with the amount of screens in the school. I still remain concerned about what the policy actually looks like for my teachers. I still remain concerned about the research and the rubric that you are using for each of these technology companies, what that actually looks like. I remain concerned about the data privacy audits, whether any have been done and whether that is being shared with the public.
+
+So it is clear that the ideas for moving forward and keeping our kids safe are what we are really eager to pursue. We want to make sure that we have the best policy in the country, rooted in research, rooted in transparency, rooted in evidence, and that we are all holding each other accountable to make sure our kids are getting the best education possible, that our kids are protected from these screens. And if necessary, go back and determine — you know what, let us figure out a way to ban certain apps. Let us work together to get the state to switch us back to handwritten state assessments, and that will open up an entire world of better education. Get rid of the excuse so many teachers feel they need to put screens in our kids' hands.
+
+But again, we will follow up with a number of the elements that we did not get answers to today. I do want to thank you for coming and answering the questions and I look forward to a continued conversation, because this is by no means over. I encourage you to stay to hear some of the students testify and some of the community members testify as well.
+
+(02:35:58)
+
+Thank you so much. Again, it is hard to believe we announced the policy 13 days ago and we were in the fourth instructional day of school. We have much to learn. I want to thank you so much for the opportunity today to have this conversation so publicly. I know that a lot of the conversation today helped clarify some of the policy and raised really great feedback that we look forward to exploring with you throughout the school year. We cannot wait to collect more stories about how implementation is going and bring those back to you. So thank you for today.
+
+(02:36:28)
+
+Thank you.
