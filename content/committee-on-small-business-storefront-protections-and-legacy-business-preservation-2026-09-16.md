@@ -1,9 +1,9 @@
 ---
 committee: "Committee on Small Business"
 committee_slug: committee-on-small-business
-title: "Meeting of September 16, 2026"
+title: "Storefront Protections and Legacy Business Preservation"
 date: 2026-09-16
-slug: committee-on-small-business-2026-09-16
+slug: committee-on-small-business-storefront-protections-and-legacy-business-preservation-2026-09-16
 duration: "2hrs 17m"
 youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260916-130714.mp4"
