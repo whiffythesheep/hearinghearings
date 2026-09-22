@@ -1,0 +1,938 @@
+---
+committee: "Committee on Small Business"
+committee_slug: committee-on-small-business
+title: "Meeting of September 16, 2026"
+date: 2026-09-16
+slug: committee-on-small-business-2026-09-16
+duration: "2hrs 17m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260916-130714.mp4"
+viebit_hash: "DLVYwsfDNuOxbhjI"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439562&GUID=2744B7AD-B434-48B1-B0AB-4F66B0408781&Search="
+chairs: "Shanel Thomas-Henry"
+members: "Selvena N. Brooks-Powers, Shahana K. Hanif, Virginia Maloney, Frank Morano, Yusef Salaam, Kayla Santosuosso"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Small Business held a hearing on four bills addressing different dimensions of the small business survival crisis in New York City. The underlying diagnosis was consistent across all testimony: small businesses are being priced out of the city, chain stores are filling the vacancies they leave, and government tools to prevent this are inadequate to the scale of the problem. The hearing was substantive and at times candid, with Council Members and the SBS representative engaging seriously on both the merits and the implementation challenges of the legislation.
+
+Int 0090-2026, the Storefront Business Bill of Rights introduced by CM Brewer, would require written leases for tenancies over one year, mandate 120-day notice of non-renewal, require pre-lease disclosures including a ten-year history of violations, establish a 60-day cure period for lease violations, and give SBS a role in providing model lease templates in multiple languages. Brewer has been working this issue since 1980 and convened a task force as Manhattan Borough President that produced the report underlying the bill. SBS expressed support for the goals of the legislation and indicated willingness to work further with the sponsor. The SBS representative confirmed that the most common need in their existing commercial lease assistance program is help understanding lease documents, which rather validates the bill's premise. A significant limitation acknowledged in testimony is the near-total absence of granular data on commercial lease renewal rates, terms, or the prevalence of verbal-only agreements, making it difficult to measure the scale of the problem the bill is trying to solve.
+
+Int 0874-2026, CM Maloney's legacy business bill, would create a registry for businesses operating 20 or more years and establish a preservation fund providing grants of up to $500 per full-time employee to businesses and up to $450 per square foot to landlords. CM Morano raised the sharpest substantive concern: under the current structure, a landlord could receive nine times more than the business itself, with no clear mechanism to ensure landlord grants translate into meaningful benefit to tenants. SBS supported the registry concept enthusiastically but was more cautious on the fund, flagging operational complexity. The discussion surfaced a genuine definitional challenge: what counts as a legacy business when ownership may have transferred to private equity while the brand remains. SBS noted it currently tracks 6,400 businesses with 20-plus years of operation through its programs but has no citywide database for this population. The Second Avenue Subway construction impact on nearby businesses came up as an acute case of displacement pressure beyond commercial market forces, with SBS acknowledging that a dedicated grant program for construction-impacted businesses does not currently exist, and pointing to a Council bill under administration review that would address roadway construction impacts.
+
+Int 0408-2026, CM Riley's social media matching pilot, would require SBS to create a program pairing small businesses with social media content creators. SBS already runs social media marketing webinars and has worked with influencers on an ad hoc basis, including promoting BID services through a named influencer and using the Mayor himself to publicize a business services program. The agency's concerns about the bill as written centered on scalability and guardrails rather than the concept, and it expressed willingness to work with the sponsor. CM Morano usefully flagged the distinction between viral reach and actual revenue impact, which SBS did not really answer, and which is the central measurement problem for any such program. Int 0578-2026, CM Gutierrez's bill to reform the Industrial Business Zone Boundary Commission, received the most deflective response: SBS noted the commission has not been convened since 2014, that it could technically be convened today with existing officeholders, and that the Mamdani administration's broader economic growth agenda should inform any changes. This is a polite way of saying the administration is not ready to move on this and wants to retain flexibility.
+
+Numbers
+
+- Last year more businesses closed in New York State than opened.
+- SBS's commercial lease assistance program served 685 businesses in fiscal year 2024, of which 13 were on Staten Island, representing fewer than 2% of businesses served.
+- Since program launch, SBS has provided 11,000 services to over 3,700 unique businesses across all five boroughs through the commercial lease assistance program.
+- In fiscal year 2026, SBS served 1,850 unique businesses through the commercial lease assistance program.
+- SBS has reached 15,000 New Yorkers and small businesses through its outreach work in 2026 to date.
+- SBS released $8.4 million in neighborhood development grants, described as one of the largest single releases in the agency's history.
+- SBS revamped an $18 million Future Fund to reduce barriers in lending.
+- The commercial lease assistance program provides up to 40 hours of pro bono legal support per business, with no waitlist.
+- Int 0874-2026 would provide grants of up to $500 per full-time employee to legacy businesses.
+- Int 0874-2026 would provide grants of up to $450 per square foot, capped at 5,000 square feet, to landlords of legacy businesses, a potential maximum of $22,500 per landlord.
+- The legacy business bill requires a minimum of 20 years of operation for registry eligibility.
+- SBS tracks approximately 6,400 businesses with 20 or more years of operation that have benefited from its programs.
+- The SBS Workforce1 network connects approximately 22,000 New Yorkers to jobs annually across 18 centers.
+- SBS serves approximately 22,000 businesses annually on the business services side.
+- The current storefront vacancy rate in CM Salaam's district is 13.9%, against a citywide Manhattan rate of approximately 13%.
+- The Alpine Theater in Bay Ridge faces property tax bills of approximately $400,000 per year.
+- The Mayor's Open for Small Business package contains over 50 reforms, 16 of which require City Council action.
+- A SBS Small Business Fund Expo on May 29 drew over 2,000 attendees.
+- A single Mayor's video about the Business Express Service Team reached over 8 million New Yorkers.
+- The Industrial Business Zone Boundary Commission has not been convened since 2014.
+- Int 0090-2026 would require landlords to provide a ten-year history of known violations or construction activity as part of pre-lease disclosures.
+- Int 0090-2026 would require 120 days notice of non-renewal for commercial leases.
+- Int 0090-2026 would establish a cure period of up to 60 days for tenants to address lease violations.
+
+Action Points
+
+- SBS to provide CM Morano with a breakdown of how many Staten Island businesses applied for commercial lease assistance, how many were turned away, and how many were made aware of the program, within a day or two of the hearing.
+- SBS to follow up with the Committee on whether its outreach mailers are produced in multiple languages.
+- SBS to work with CM Brewer's office on further discussions on Int 0090-2026, including review of provisions related to lease renewal options and rent increase caps.
+- SBS to work with CM Maloney's office on operational challenges related to the legacy business preservation fund under Int 0874-2026, particularly the landlord grant structure and accountability mechanisms.
+- SBS to work with CM Riley's office on crafting an expanded social media matching program that is scalable, responsible, and codifiable in law under Int 0408-2026.
+- SBS to take the commercial rent tax issue raised by CM Brewer and CM Maloney back to City Hall for consideration.
+- SBS to investigate the Alpine Theater property tax situation in Bay Ridge and report back to CM Santosuosso with any available guidance or referrals.
+- SBS to brief the Committee on the expansion of the commercial lease assistance program once contract negotiations are finalised, expected within weeks of the hearing.
+- SBS to work with CM Gutierrez and the Committee on Int 0578-2026 once the Mamdani administration's broader economic growth agenda is developed.
+- SBS to explore how the commercial lease assistance intake process could be expanded to include advisory conversations about property purchase options where relevant.
+- SBS to investigate the owner-to-worker cooperative transition hotline and related services as a tool for legacy business succession, and incorporate into legacy business outreach.
+- SBS to work with Second Avenue Subway project entities to explore whether funding for a construction-impact grant program for affected businesses could be established.
+- SBS to work with the Committee on criteria for the legacy business registry nomination process, including how to address equity concerns for Black-owned and immigrant-owned businesses with less-documented histories.
+- SBS to follow up with CM Maloney on private-sector matchmaking companies referenced in discussion of the social media pilot program.
+- SBS to share details of the Link Local program with Council Members for distribution to small business constituents as a free digital advertising resource.
+
+## Full Transcript
+
+**(00:00:14)**
+
+
+
+Thank you. Quiet down, quiet down. We are going to be starting shortly. Good afternoon and welcome. Today is a New York City Council hearing from the Committee on Small Business. At this point I would like to remind everyone to silence their electronic devices, and at no point is anyone to approach the dais. If you would like to sign up to testify in person and have not filled out a form yet, the forms are located outside in the hallway with the Sergeant at Arms.
+
+**(00:00:45)**
+
+
+
+We are ready to begin.
+
+**(00:00:50)**
+
+
+
+Thank you. This hearing is called to order. Good afternoon. I am Shanel Thomas-Henry, Chair of the Committee on Small Business, and thank you for joining today's hearing.
+
+While traveling across the City to speak with small business owners, the one thing that kept coming up in these conversations is how hard it is for them to stay in this City and grow. With the goal of supporting our small businesses and keeping them in our community, this hearing will focus on discussing four bills. These are Int 0090-2026 from CM Brewer, Int 0408-2026 from CM Riley, Int 0578-2026 from CM Gutiérrez and Int 0874-2026 from CM Maloney. I would like to thank the Council colleagues, representatives from the administration and members of the public for being here, as well as members participating remotely.
+
+We are losing our small businesses fast. Last year more businesses closed in New York State than opened. Those businesses closed because we have made it too difficult for them to remain open. The rising cost of rent in the City displaces not only our residents but our businesses. This is a travesty because small businesses are the foundation of our City. They make it distinct and they give it character. They help define the neighborhoods they serve and can even become important social centers where people gather and interact in public, like barbershops and coffee shops. Staying in business is no easy feat when small businesses are forced to navigate complex and expensive commercial lease agreements while also trying to find enough funds to continue to keep their business in operation.
+
+In New York City, the Department of Small Business Services exists to help support these business owners. They help business owners navigate and adhere to regulations and provide them with funding streams when needed. The bills that we are hearing today would further allow SBS to fulfill its mission by centralizing tools to address the real and unique challenges our entrepreneurs face.
+
+Int 0090-2026 from CM Brewer would require commercial landlords to disclose information regarding the building prior to collecting rent on the property. It also sets up procedures for negotiating lease agreements between business owners and commercial landlords and creates a private right of action for business owners to sue their commercial landlords for noncompliance. CM Brewer's bill would help ensure that small businesses could negotiate with their commercial landlords freely and without fear of losing their business in the process.
+
+Int 0408-2026 from CM Riley would help promote small businesses by establishing a program to pair small business owners with local social media influencers to help market their business. This bill would help ensure that our businesses are getting the promotional investment that they need to continue to operate in their communities.
+
+Int 0578-2026 from CM Gutiérrez would reform our Industrial Business Zone Boundary Commission. Her bill reforms the commission to make it less controlled by City agencies and more responsive to the community. The bill also makes it harder to remove or shrink IBZs. CM Gutiérrez's bill would help ensure that our manufacturing businesses can continue to thrive in this City.
+
+And finally, Int 0874-2026 from CM Maloney would establish a legacy business program. This bill would allow long-standing small businesses with community ties in the neighborhood to apply for funding and other assistance to keep them open and in operation. CM Maloney's bill would help preserve vital community landmarks and ensure that they remain open.
+
+The legislation that we will hear today will help make our City more competitive by keeping our small businesses right here where they are. I look forward to hearing testimony from the Department of Small Business Services and hearing their positions on these bills. I similarly look forward to hearing from small businesses and advocates on today's legislation. I want to thank Tyler Walz and Rebecca Burrell from central staff for their hard work in putting this hearing together. I would like to mention that I am joined by my colleagues CM Brewer, CM Maloney and CM Santosuosso.
+
+**(00:05:42)**
+
+
+
+And at this time I will now turn it over to CM Brewer to provide opening remarks.
+
+**(00:05:50)**
+
+
+
+Thank you very much, Chair Thomas-Henry. Thank you for including this bill, Int 0090-2026, the Storefront Business Bill of Rights, on today's agenda. I have been working on this issue since 1980 — I just want to let you know.
+
+Building on years of advocating for mom and pop stores as Manhattan Borough President — that was not that long ago, but it was ten or so years ago — I convened a task force made up of small business owners, commercial tenants and landlords to identify recommendations and proposals that would prevent small business owners from being priced out of the City. Just because this is such a difficult issue to come up with solutions and get stakeholders to be supportive, months of substantive policy discussion focused on City fines and fees, unaffordable rents, scaffolding, construction, long-term vacancies, financing and transitioning online businesses to brick and mortar storefronts.
+
+This Storefront Business Bill of Rights, Int 0090-2026, emerged from the task force's report, "Small Business: A Big Impact," that we put together. This report seeks to establish important protections for small business owners and improve communication between building and business owners. A consistent message emerged: lease agreements without access to essential information mean they face sudden rent hikes, ambiguous lease terms and a lack of predictability in renewal negotiations. This lack of transparency and communication contributes to instability in the commercial market and business closures in our neighborhoods, neither of which benefits business owners or property owners.
+
+Int 0090-2026 responds to those concerns by setting clear standards for commercial lease transparency and renewal, creating a more stable environment for small businesses to thrive and plan into the future. These are the key provisions. One: a written lease requirement for any storefront tenancy longer than one year, ensuring clear and documented terms for all parties. I will say that in many cases it is a handshake — a handshake is fine until the rent goes up and then you have nothing to base it on. Number two: lease renewal protections, including a required 120-day notice of non-renewal. I cannot tell you how many times — I know this pizza store, I could not even get in. The owner never talked to the owner, the owner would not talk to him. He got evicted without any communication whatsoever. I could not get in touch with the owner. Three: mandatory pre-lease disclosures, such as the certificate of occupancy — is there one? A breakdown of occupancy-related costs, utilities, taxes, fees and a ten-year history of known violations or construction activity. Four: a reasonable cure period of up to 60 days for tenants to address lease violations, except in emergency situations. Five: requirements for landlords and tenants to maintain and update contact information throughout the lease term.
+
+And six: oversight by the Department of Small Business Services, which will also provide model commercial lease templates translated into multiple languages along with user-friendly tools to help businesses estimate costs and understand lease terms.
+
+I appreciate the continued support and dialog with the Manhattan Chamber of Commerce, the New York City Hospitality Alliance and Remedy, and of course we all need to institutionalize these best practices. I thank committee staff Tyler Walz, Rebecca Burrell and Amon Marine, as well as Chair Thomas-Henry and my staff, and I really appreciate this. There is no easy answer to keeping small businesses in business. We were just touring Astoria and Jackson Heights — I think the Commissioner was there — and I could see unfortunately what happened on the Upper West Side happening there. Incoming, with all due respect, chain stores, and they do not stand a chance against the mom and pops. So hopefully we can give them that chance. Thank you.
+
+**(00:10:20)**
+
+
+
+Thank you, Council Member. I will now turn it over to CM Maloney for opening remarks.
+
+**(00:10:25)**
+
+
+
+Thank you, Chair Thomas-Henry, for holding today's hearing and also for coming to District 4 to talk about Int 0874-2026 and visit legacy businesses in my community. Legacy businesses are part of the fabric of this City across all five boroughs. They are the neighborhood markets, the bookstores, the other family-owned businesses that have been here for decades, and they are a big part of what makes New York so special — its unique character and identity. But rising rents and skyrocketing operation costs are making it harder for these businesses to survive, and when a long-time business closes we lose a piece of what makes that neighborhood uniquely New York. The legacy business bill that we are introducing and talking about today will create a registry of recognized businesses that have served communities for at least 20 years and also establish a preservation fund to help those at risk of displacement stay open. At its core this bill is about giving long-standing small businesses the tools to stay in the communities that they helped to build. Thank you.
+
+**(00:12:10)**
+
+
+
+Begin when ready. Thank you so much. Good afternoon. Chair Thomas-Henry, CM Brewer, CM Morano, CM Maloney, CM Santosuosso and members of the Small Business Committee of the New York City Council. I am here on behalf of the Department of Small Business Services, or SBS for short.
+
+SBS's mission is to unlock economic potential and create economic security for all New Yorkers by connecting New Yorkers to good jobs, creating stronger businesses and building thriving neighborhoods across the five boroughs. Over the past six months, under Commissioner Minaya's leadership, SBS has moved aggressively to deliver a new era for small businesses by advancing efforts to cut red tape, expand support and reach more New Yorkers across the five boroughs. SBS revamped the $18 million Future Fund to reduce barriers in lending, established the first-ever Office of Street Vendor Services four months ahead of schedule and expanded the cannabis loan fund to all New York City licensees. SBS also helped create the City's newest Business Improvement District in Coney Island and released a total of $8.4 million in grants — one of the largest single releases of neighborhood development grants in our agency's history — to fund public arts, street cleaning, lighting, wayfinding infrastructure, commercial district marketing campaigns and other neighborhood improvements.
+
+The administration has paired our expanded programming with a historic regulatory relief agenda, including Executive Order 11 in January to inventory all fines and fees, and Executive Order 18 in the Open for Small Business package of more than 50 reforms. None of this work would have been possible without the direct feedback of small business operators through surveys, our direct service work and roundtables led by Deputy Mayor Julie Su with bodega owners, restaurant operators and childcare providers. Commissioner Minaya also held community partner convenings with a cross-section of local borough chambers, industry associations and merchant organizations, and hosted the agency's first-ever borough-wide BID convenings in all five boroughs alongside partner agencies, and the first-ever mom and pops outreach to ensure our work and the administration's commitment to transform the culture of City government reaches small businesses.
+
+Commissioner Minaya and I also joined Chair Thomas-Henry, CM Salaam, CM Aldebol and CM Wong's team, along with more than 70 volunteers and local partners, to promote the updated Business Owner Bill of Rights as part of the Open for Small Business initiative. This year we have already reached 15,000 New Yorkers and small businesses through our work, and we will soon unveil a new mobile outreach unit that will reach even more neighborhoods and bring more direct services to the doorsteps of mom and pop stores and street vendors.
+
+We are grateful for the partnership of the New York City Council as a critical partner in all of this work. This work would not be possible without your tireless advocacy on behalf of our small business community. Now I would like to turn to the bills attached to today's hearing that address some of the challenges businesses face.
+
+Int 0090-2026 would establish protections for storefront tenants, including requirements for a written lease for occupancies of more than one year, disclosure of fees, an option to extend leases in certain cases for up to one year with a cap on rent increases, and an online commercial lease sample to be provided on the website. SBS supports the goals of this legislation in helping small businesses negotiate more affordable and transparent leases. We are happy to be in further conversations with the bill's sponsor on this bill.
+
+Int 0874-2026 would establish a legacy business registry that recognizes businesses with 20 or more years of operation and establishes a grant program for legacy businesses at risk of displacement. We are supportive of a legacy business registry, which would highlight neighborhood staples that have informed the City's cultural fabric and our local economy for years. On bill provisions related to the legacy business fund, we look forward to working with the sponsor to discuss ways we can mitigate possible operational challenges that affect the success of such a program.
+
+Int 0408-2026 would require SBS to create a matching pilot program for social media content creators and small businesses. We already offer digital marketing programming including best practices for social media, and although we support the intent of this bill we have some concerns with the bill as written. We look forward to working with the bill's sponsor on how we can expand this work to connect more small businesses with content creation and social media support, which is crucial to remain visible to prospective customers.
+
+Lastly, Int 0578-2026 would amend the charter sections for the Industrial Business Zone Boundary Commission. While SBS provides educational programs and resources to meet all
+
+**(00:17:18)**
+
+
+
+industrial business needs throughout the City through our programming, City Hall leads overall economic development policy, including the development of a larger economic growth agenda that would include industrial and manufacturing businesses. So as Mayor Mamdani and Deputy Mayor Su are developing that citywide agenda for economic growth, we believe that should inform any further discussions and amendments related to the Industrial Business Zone Boundary Commission.
+
+With that, we appreciate the Council's attention to these bills attached to the hearing and welcome the opportunity to answer any questions. There are also 16 proposed reforms in Mayor Mamdani's Open for Small Business package that require the support of the City Council, and we look forward to working with all of you and your colleagues to usher in a new era for small businesses — one where City government is a partner. The City Council's leadership in passing year-round outdoor dining, repealing the security deposit requirements and other related reforms paved the way for such continued momentum on these issues. Thank you again for this opportunity to testify, and we welcome any and all questions you have. Thank you.
+
+**(00:18:27)**
+
+
+
+I would like to recognize that we have been joined by CM Salaam. I do know we have a couple of hearings, so in the interest of time I will let Council Members ask their questions.
+
+**(00:18:38)**
+
+
+
+Thank you, Chair. Thank you, Khan, for your testimony, and thank you both for making an effort to visit the small businesses in my district. It is great to have both the Chair of this Committee and a Commissioner and his Chief of Staff that actually takes the time to visit and listen to small businesses themselves, rather than think that what is reflected on reports and statistics is actually what small businesses are saying.
+
+And obviously I am going to ask first about how this affects Staten Island small businesses. To begin on commercial lease assistance, one of the things I want to highlight is a number that jumped out at me in the Committee report. In fiscal year 2024, the City's commercial lease assistance program helped 685 businesses and just 13 were on Staten Island. 13 — that is fewer than 2% of the businesses served. I am certainly not suggesting the City should distribute services based on borough population alone, but I want to know whether the need is being met. How many Staten Island businesses applied for assistance? How many were turned away? And how many were actually made aware that this program exists? If you do not have those numbers, I am wondering if you can provide them to the Committee relatively soon — if not today, then in the next day or two.
+
+**(00:20:05)**
+
+
+
+Thank you, Council Member. So on the commercial lease assistance program, no one is turned away if they want to start a new lease, renew a lease, or have a landlord-tenant related dispute that does not rise to litigation. Any business in Staten Island that reaches out, we would want to serve all of them. There is no waiting list people get put on. There are some eligibility requirements — they cannot make over a couple million dollars every year in revenue — but if it is a small business, generally the ones that we visited together, all of them would be eligible to benefit from that service. It is one of the key programs we promote in all of our outreach work. This year we have already reached 15,000 businesses throughout the City, in Staten Island as well.
+
+It does relate somewhat to borough proportions. Brooklyn and Manhattan have a tremendously high raw number of storefront businesses. That number decreases in other boroughs and that impacts uptake. Certainly it does not impact our commitment to visit every business door to door, promote the programs, and then see if they are open to accessing the service. It also reflects the issue of businesses not wanting to engage in that service if things are going well, and so that is another thing to consider.
+
+**(00:21:31)**
+
+
+
+Let me ask you about Int 0874-2026. I am a lover of legacy businesses. Nobody cheered louder than me when the Carnegie Deli came back, and I am proud to co-sponsor Int 0874-2026, which is one of the many great ideas that CM Maloney has already brought to this Council in a short time. I appreciate the effort to recognize businesses that have become part of our neighborhoods — the ones that sponsor Little League teams, the ones that people have fond recollections of neighborhoods about. It is never a chain restaurant. It is always, you know, Joe's Diner.
+
+I do have a question about where the money actually goes under this legislation. A legacy business could receive $500 per full-time employee. A five-person business could therefore qualify for $2,500. Meanwhile, a landlord could receive $450 per square foot up to 5,000 square feet — that is potentially $22,500. A landlord could receive nine times what the business receives. What safeguards would ensure that a landlord receiving taxpayer money actually passes some meaningful benefit along to those businesses?
+
+**(00:22:42)**
+
+
+
+Thank you, Council Member. That is one of many things that we are factoring in as we analyze this Bill, which is why we think a registry is for sure something we should all move on as soon as possible, and something we are really excited to develop in partnership with all of you. We also appreciate that in the Bill there is a nomination process where trusted community leaders like yourselves and others would nominate and provide a rationale for who should be on such a registry. We think that should be one of the first things City government does alongside all of you. Then on the registry fund, it requires further discussions with both the sponsors and internally in the City. I have two final questions — one on industrial business zones and one on the social media aspect of things.
+
+**(00:23:32)**
+
+
+
+Staten Island has three industrial business zones: North Shore, Rossville and the West Shore. These are important for businesses that need industrial space, including the kinds of businesses that depend on freight transportation. The Committee report identifies something rather remarkable — we apparently do not even know the identity of the mayoral appointee supposed to represent the industrial and manufacturing community on the boundary commission. Can you tell us who that individual is, or whether that person actually operates in manufacturing or industrial business?
+
+So the industrial boundary commission was last convened in 2014. It is convened for the purpose of designating, modifying, amending or repealing the boundaries of these industrial business zones. That is the purpose of that commission. It does not impact programming or services that occur at the agency, and prior administrations have chosen not to convene such a commission.
+
+**(00:24:39)**
+
+
+
+This administration is currently in the process of developing a larger economic growth agenda, which would include a focus on industrial and manufacturing businesses. We think that depending on what that process yields, it should inform whether the City would want to then amend or consider other commissions and other entities, and how they should function and the powers of said commissions.
+
+**(00:25:02)**
+
+
+
+But prior administrations' commissions have probably determined that the boundaries as they existed sufficed for their purposes. Lastly, and thank you, Chair, for your indulgence — I am also a co-sponsor of Int 0408-2026, and I recognize that social media can help small businesses reach a lot of new customers. But I do want to distinguish between a successful marketing campaign and a viral video. A restaurant could get a million views on TikTok and still struggle to pay its rent. How would you determine whether
+
+**(00:25:36)**
+
+
+
+this pilot actually generates additional customers and revenue, rather than simply producing impressive-looking social media statistics?
+
+**(00:25:43)**
+
+
+
+Thank you, Council Member. We similarly, on this Bill, think there should be further discussions on what should be codified in law on the services and the resources that are provided. You are completely on point with the points you are making. We think we have a base programming that exists and is resourced. We would want to make sure it is very curated and carefully designed so that it is scalable and can reach all people, but is not so niche and specific that we could only reach 10 businesses in the City because of the extensive level of support we would be giving one or two businesses. We would rather have something that enables people to make the decisions that they will make in the marketplace on what is best for them as they relate to social media. One thing that is clear for us is that we are working with the Bill sponsors here on something that would be workable and beneficial to the small business community.
+
+**(00:26:40)**
+
+
+
+Thanks very much. Thank you, Chair. Thank you.
+
+**(00:26:42)**
+
+
+
+No problem. I do want to mention that we have been joined online by CM Brooks-Powers. A couple of questions before I turn it over to my colleagues. Going back to the industrial business zone boundary commission — is it essentially defunct, or are the members who were appointed in 2014 still technically members of the commission?
+
+**(00:27:04)**
+
+
+
+So my understanding is quorum could be established today. It is not defunct in the sense that the membership of that commission — which includes elected representatives like the borough presidents and senior administration leaders like commissioners at HPD, Finance and the president of the Economic Development Corporation — our understanding is that commission could be convened if there was a decision or desire by an administration to modify the boundaries of the industrial business zones. We know that in prior administrations, conversations have taken place on what zones should look like over the past decade. Prior administrations did not choose to pursue any amendments to those boundaries. If this administration or any City government decides to modify the boundaries, then the commission could be convened.
+
+**(00:27:52)**
+
+
+
+Okay. So the members are based on, I guess, appointments from various City agencies, not particular people at this point?
+
+**(00:28:00)**
+
+
+
+The Charter states that this commission is comprised of the City Planning, Buildings, Finance, HPD, DCAS and one member associated with industrial manufacturing activities, who would be appointed at the pleasure of the Mayor, alongside the borough presidents. So all of them are officeholders except the one appointee of the Mayor. Even without that one appointee, a commission could be convened if a decision was made to advance change. So since it has not convened since 2014, no one from 2014 would be
+
+**(00:28:42)**
+
+
+
+in attendance at that meeting.
+
+**(00:28:45)**
+
+
+
+With term limits, most likely yes.
+
+**(00:28:48)**
+
+
+
+I figure. Okay. Going to Int 0090-2026 — so with the current commercial lease assistance program, if I am a small business and I come to inquire about this program, what type of services are provided?
+
+**(00:29:06)**
+
+
+
+Thank you, Council Member. The services we provide are pre-litigation services — from starting a lease, renewing a lease, to landlord-tenant disputes that do not rise to litigation. We are proud this service has served thousands of businesses already across the City. Since the launch of the program, we have provided 11,000 services to over 3,700 unique businesses across all five boroughs. It includes things like lease review support and understanding what lease termination could look like, understanding how you would go about lease renewal. It is up to 40 hours of pro bono legal support, which is generally sufficient, and we are really proud of that program.
+
+Under Mayor Mamdani's leadership, the Mayor has invested additional dollars to support an expansion of this program. In a couple of weeks — depending on how contract negotiations and the details land — we will be really excited to share with all of you an expansion of this program that would deepen the quality and the impact that we already see and are really proud of.
+
+**(00:30:16)**
+
+
+
+Are any of the 3,700 unique businesses — the 11,000 services — are those for this year, or ever since? What is
+
+**(00:30:22)**
+
+
+
+the timeframe? Those are program numbers since program launch. We do have full fiscal year numbers from FY26: 1,850 unique businesses in all five boroughs.
+
+**(00:30:38)**
+
+
+
+Any findings for this year as of yet?
+
+**(00:30:41)**
+
+
+
+We do not have that, and it does require some data deduplication because we have a sufficient number of unique businesses. The numbers here — when we say 1,800, it does not reflect that those are the only types of services. That is the number of services because a lot of the businesses, once they learn about the service and benefit from it — whether they are opening a new business or working with another partner on a partnership — they will then often reach out to us again. That number is only reflecting unique businesses. So for the fiscal year, we have provided over 1,850 unique services.
+
+**(00:31:20)**
+
+
+
+Got it. What are some of the biggest needs from these businesses that you service? What is coming up repeatedly for commercial tenants?
+
+**(00:31:30)**
+
+
+
+The vast majority of the casework generally pertains to lease reviews. Businesses often — and it speaks to CM Brewer's Bill — have trouble understanding that document and all of the implications of that document. If you add on other challenges, like business owners not having a lawyer on their team when opening the business, it can be complicated. If you are a speaker of English with limited proficiency, that is another complication as you are navigating whether or not to sign that lease. We know that the commercial rental market is not the easiest, with plentiful options in every single corridor, and so businesses can be forced to make a decision in the interest of time to move without legal advice. That is where we want to step in. We want to serve those businesses ahead of time.
+
+One thing we are really interested in doing — and it speaks to CM Morano's point about whether there is a backlog or why so few businesses are partaking in the service — is we would love to do more. We have even been sending mailers to businesses from open data with the State whenever we have seen data that suggests a business is opening, whether at a residential address or a storefront address. We will send a mailer that says we want to help you open. Here is the program for business permitting, which is our Business Express service team, and here is the commercial lease assistance program if you have not signed a lease yet, to help you understand what those terms are. I am really excited to keep working on this issue, and also why we think we support the goals of CM Brewer's Bill around transparency and assistance to businesses in understanding what their liabilities would be in a commercial lease.
+
+**(00:33:14)**
+
+
+
+Those mailers — are they sent in multiple languages?
+
+**(00:33:19)**
+
+
+
+I can get back to you on the mailers and the languages, but all of our services are available in all the languages in the City. Our team that provides this legal service also comprises multilingual staff, so the direct service of the legal support is not just relying on a third-party interpretation service. Got it. And one more
+
+**(00:33:42)**
+
+
+
+question. Does SBS currently have any data around lease renewal rates for commercial tenants? Are you currently tracking what rates are for
+
+**(00:33:55)**
+
+
+
+tenants across all five boroughs? We do not get access to data from businesses on the status of the lease unless they are working with us in our program. When they do work with us on renewing the lease or negotiating with the landlord, we are very helpful — sometimes helping businesses renegotiate some terms of the lease if they end up in a difficult situation. That was particularly common during COVID, and we were able to help save businesses thousands of dollars by renegotiating. But the data we get on renewals is limited to the data that businesses are willing to share and provide us during casework.
+
+**(00:34:38)**
+
+
+
+Outside of what the businesses themselves are sharing, are you seeing any trends in different neighborhoods? Similar to how, if you are renting apartments, there are certain market rate levels depending on the neighborhood — are you seeing those same particular trends as it relates to businesses?
+
+So we do analyze the citywide directory — the database of storefront occupancy and vacancy. It does not get us to the level of detail that would potentially let us know the implications on lease renewal and whether businesses are not getting their lease renewals because of the cost of the lease. That data does not currently exist. There is no public data or data that businesses voluntarily share that provides that clarity. But we do have general citywide occupancy and vacancy tracked citywide, and that is how we get a sense of what the market is looking like in those particular neighborhoods where we know there are hotspots of prolonged and persistent vacancies — sometimes chronic vacancy — and we leverage the neighborhood development grants that we issue, the $8.4 million, to provide some mitigation and support to those neighborhoods and communities.
+
+**(00:35:48)**
+
+
+
+Okay. I have other questions but I will turn it over to CM Brewer. Thank you very much. These are hard issues. I guess my first question would be — you are doing a great deal of work, but from my experience walking around Manhattan anyway, and now recently in Queens on the wonderful tour that we had... this is like a tidal wave to be able to be supportive of the mom-and-pops, because the chains are biting at the bit to get in there. I mean, that was a perfect example. Unfortunately I have seen that before in what we saw in Jackson Heights.
+
+**(00:36:26)**
+
+
+
+My question is — I guess does XYZ... that database does not include some of the questions that the Chair was asking, right? That database that I call the "blaze database" because he put it together. No. So what does XYZ state? I know I should know. And how would that be helpful, if at all, to some of our questions?
+
+**(00:36:47)**
+
+
+
+It is helpful in understanding larger occupancy and vacancy trends, not in the level of specificity and detail that you are seeking to pursue, where you would have a greater granular understanding of lease renewal rates and the leases and the status of the leases — which ones are terminated and which ones are not. Those are a contractual relationship between the landlord and the tenant, and there currently is no
+
+**(00:37:09)**
+
+
+
+Disclosure, but also the tenants — the commercial tenants — understandably never want to tell you what they are paying. There had been trouble with that. A lot of information that we would love to use for advocacy purposes, they are hesitant to share. Understandably, they want to say — if they have got two sets of books, they do not tell you. I am very familiar with this. So many businesses, legacy or not, have no lease and just a handshake, particularly when you are in an immigrant community and everybody thinks, "Oh, we have got a long-term relationship here." Well, not when somebody else comes calling. So I guess my question is: are you seeing some trends to get away from a handshake and no lease, or do you think that is still a big issue in our City?
+
+**(00:37:58)**
+
+
+
+It is hard to tell because of the lack of specificity and clarity in the data, but it is definitely true that there are leases that exist without anything but a verbal agreement. It is also something to consider that in some cases the request for a written lease triggers a renegotiation of terms that may not land more favorably for some people. They may be making a calculation that what they are getting — what they got ten years ago and what they are now getting on a month-to-month basis — is better than anything in the market if they attempted to do a written lease. It is a complicated issue with many factors, but that is, I am sure, one of the things that businesses consider before they pursue it.
+
+Whenever we are doing outreach, we are letting them know: if you are about to sign a new lease, or if you are going to be renegotiating a lease and you already had a lease, it is important for the business owners to know what they are signing on to. Oftentimes businesses do not find particular provisions of that lease relevant to them until, God forbid, an unfortunate incident takes place, and then it becomes very important for them to understand those liabilities — but maybe a little late. So whenever we are doing our storefront outreach, we know we cannot predict which storefront is on which type of lease — whether they are on a written lease or a verbal one — but they should know that there is up to 40 hours of pro bono legal assistance available to them throughout the City, with no wait time and no backlog. They should reach out to us and get
+
+**(00:39:21)**
+
+
+
+access to that. But what can you do? I mean, you have always been able — and it is enhanced — to support these businesses, but when you get a 500% increase in rent, that is when it is hard to do anything. I mean, or 300%, whatever it is — what do you do in that situation? Because I guess what I mean is, first of all, like I said, I know businesses that cannot even get the owner on the line. Obviously with help, or I hope they might be able to, but we do not reach them all. And then they are just told, "300% increase or get out."
+
+So what we are trying to do is keep the communication going. And then some of the other things that we talked about — knowing what is in the building and the issues. And then the more controversial part you mentioned, which is: if there is no ability to negotiate, at least give a 10% increase. Give another year or six months, whatever it is, so that that business at least has time to figure out what else they want to do, and maybe they could work something out. It is the pressure of the chain stores — for lack of a better word — it is so intense. So I guess my question is: what do you do? How do you advise when a business faces a 300 or 500% increase in rent?
+
+**(00:40:40)**
+
+
+
+I mean, we are certainly not weighing in on the business decision that businesses have to make, but we are providing them with all of the rights and obligations and an understanding of those things so that they can make an informed decision. But to your point, we are in the middle of an incredible affordability crisis that impacts New Yorkers, and the Mayor has been so eloquent on that crisis but has also been eloquent on ensuring that people do not miss the fact that small businesses are also impacted by this crisis. That is precisely why the City launched a 50-plus reforms package called Open for Small Business, which will address some of the fines and fees on the government side that government imposes on small businesses. Accompanying that announcement is also an analysis of all the other cost drivers that are not City-regulatory-imposed but are cost drivers that we know businesses are struggling with across the City, and we are exploring solutions to that. Your bill is one such proposal that could help mitigate some of the challenges businesses are facing, and I will
+
+**(00:41:43)**
+
+
+
+let me stop there — my time is up. The commercial rent tax in Manhattan: I hate it. It goes from Murray Hill to 96th Street. No other borough has it. We would like to get rid of it.
+
+**(00:41:52)**
+
+
+
+Yes, you are for that.
+
+**(00:41:54)**
+
+
+
+I think you are referring to the State...
+
+**(00:41:57)**
+
+
+
+No, the City commercial rent tax goes from Murray Street to 96th Street, east and west. It is an extra tax left over from previous days, only in Manhattan. We want to get rid of it. A garage got rid of some of it when he was in the City Council.
+
+**(00:42:13)**
+
+
+
+We want to get rid of it for the storefronts, so you could add that to your list of things that you are considering.
+
+**(00:42:20)**
+
+
+
+That is certainly something we are certainly aware of. Our understanding is that there is State enabling legislation that sets up the system, but we hear you and we will take it back to City Hall. And our colleague — yeah.
+
+**(00:42:36)**
+
+
+
+It is horrible. It is horrible.
+
+**(00:42:37)**
+
+
+
+But yes.
+
+**(00:42:38)**
+
+
+
+Thank you. I now turn it over
+
+**(00:42:40)**
+
+
+
+to CM Maloney. Thank you, Chair. I would plus-one my colleague from Manhattan on the commercial rent tax being an undue burden on Manhattan-based businesses south of 96th Street. I want to turn to the legacy business bill, Int 0874-2026. How does SBS track longstanding businesses that are being closed or displaced, and do you have a sense of the scale of this problem?
+
+**(00:43:14)**
+
+
+
+We know that businesses of all ages are impacted by closures and the challenges of running a business, which are so varied across the City. Through the database and the tracking work that we do of occupancy and vacancy rates, we have a sense of how neighborhoods are shifting and how business rates are shifting. It does not go into the level of detail on the length of ownership, and also would not tell us if ownership has shifted but the business is the same — which I think is another level of data that would be interesting as we explore what it means to be a legacy business in New York City. A lot of them seem to be multigenerational businesses, to your point.
+
+But there are also businesses in Santosuosso's district — Nathan's Hot Dog — that transferred ownership. It was initially a family-owned business and is no longer. I think if they do not follow up on the ownership status, it appears it is still a family-owned business, but it is not — it is owned by a larger corporation. So it is difficult, and there is no clear, precise data for this. There are no databases for this, which is why we support the registry proposal that you have made in the legislation in Int 0874-2026. We think a way by which trusted, credible community leaders are identifying legacy businesses that have made contributions to the community — and the City could benefit from additional marketing and featuring them on a registry or a map — would be something of interest to us, promoted so that New Yorkers who are interested in supporting those legacy businesses know exactly where to go, which intersection to go to and how to get in contact and get the products and services these businesses have offered for generations of New Yorkers.
+
+**(00:45:04)**
+
+
+
+And what do you believe are the best tools to adequately help these longstanding small businesses, particularly with the displacement risk that we see? Thank you, Council Member.
+
+**(00:45:17)**
+
+
+
+On the risks of displacement, we are concerned about the closures of any small business in the City, whether it is a business that just started a year ago or has been in business for 20 years. Obviously there is an impact on the community if a business has been around, has had a stable workforce, has employed New Yorkers, and then after 20 years has had to shut down. These challenges are so varied. For some businesses, it is sometimes simply a challenge of succession. I forget the name of this pizza shop on 86th Street in southern Brooklyn, but that is a business that was around — sorry...
+
+**(00:45:52)**
+
+
+
+Pizza Wagon? Now they have been
+
+**(00:45:53)**
+
+
+
+around. But there is another one in Bensonhurst that recently shut down. It was in that movie that everybody knows. Anyway, this is going to be so annoying to me and I am going to remember it three hours later. But this business was around — a staple of the community for three decades. Everybody knows this pizza shop, except me. Everybody buys from that pizza shop, and then they shut down. When I spoke to the business owners, since I was around there and was trying to understand if there was anything we could do, any lease assistance we could do, it was just the business owner wanting to move to Florida. There is nothing else you can do when the business owner wants to move to Florida. But one thing we are really interested in exploring and connecting New Yorkers to is something that already exists, but we want to make
+
+**(00:46:37)**
+
+
+
+sure — it is Lenny's Pizzeria.
+
+**(00:46:41)**
+
+
+
+Lenny's! That is the one.
+
+**(00:46:41)**
+
+
+
+One thing we are interested in is connecting New Yorkers — New Yorkers who love their business, who are really proud of the business but just cannot find somebody in their family or somebody else to buy the business from them — to consider selling their business, transferring ownership to the workers of that business, so that the business and the workers can remain in the community and continue to serve New Yorkers for generations. New Yorkers can do that. Those businesses can do that by accessing our worker cooperative business development institute and the services they offer. One of them is the owner-to-owner business transition hotline, and it is 646-363-6590, or ownertoonwers.nyc, which gets people connected to that service. So when we are promoting the service, when we are promoting our work and we hear that a business is at this juncture where they are selling the business and they just want to sell the business, we have offered for business
+
+**(00:47:46)**
+
+
+
+owners... I do want to keep going, if I can. I did want to ask a few questions — thank you, Chair — about the social media program of Int 0408-2026, which anecdotally I have heard has really helped a lot of these businesses that are transitioning through the decades. In fact, CM Shanel Thomas-Henry and I visited the Luncheonette, which described a revitalization after they got more involved in social media marketing, and everyone should go and try their milkshakes, which are the last homemade milkshakes actually made fresh right there. So I have heard this anecdotal evidence, but I am curious citywide — does SBS have any data on social media marketing and how that has helped small businesses? Also, does SBS have current engagement either with social media companies or with the influencers that are creating the content, and how are you thinking about pairing small businesses with that tool to help keep folks in business? Thank you.
+
+**(00:48:52)**
+
+
+
+Thank you, Council Member. Yes to all of those questions. We have relationships with the social media companies. We also have relationships with the content creators in the social media landscape, and we already have existing programming that seeks to promote digital marketing and leveraging social media. We have webinars that we do, we have events that we do, and we have a social media marketing webinar on September 30 coming up soon. At our Small Business Fund Expo, which took place on May 29 in Manhattan — where we had over 2,000 attendees, CM Thomas-Henry was there — 2,000-plus small businesses from all over the City needed a big marketing campaign. We did boots-on-the-ground outreach in every single borough to promote this one-stop-shop event so you could get connected with hundreds of different services the City offers, but also the ones the State offers, CDFIs and other affordable lenders, and just anything you could think of that could support a small business, including the commercial
+
+**(00:49:54)**
+
+
+
+lease assistance right in front of you,
+
+**(00:49:55)**
+
+
+
+with the direct service hours. If you then learned about it and wanted to have a consultation with a lawyer, you could also do that. At that event, we specifically held a panel on how important the new social media economy is for small businesses, and we featured influencers that have worked with small businesses before so that they could learn more on the best practices and also be part of this economy. The first part of the question was whether we have specific data on the trends or on how small businesses are leveraging social media marketing.
+
+**(00:50:29)**
+
+
+
+We do not have any in-house trends that we are tracking or maintaining, but we know for a fact it is a vital and critical avenue for businesses to remain visible to customers. It is a new reality, and for some businesses they may be able to survive. Including some of the legacy businesses — they have such a following, and the service or product they are offering is one that does not require reaching new customers or engaging with customers every week. Maybe it is a service like your regular barbershop in the neighborhood, which may not have the same need to be on social media as another type of business where they constantly need the churn of new customers who may not be coming there frequently. For those, like their monthly appointment, they need to be constantly visible and attracting the right customer, especially in neighborhoods that are changing where there are population shifts.
+
+**(00:51:22)**
+
+
+
+Yes, very important. That is what we have baked into the service. We want to always and continuously improve on that service and would be really excited at the opportunity of resources to expand the programming on social media.
+
+**(00:51:33)**
+
+
+
+Thank you very much. No problem. I have a quick follow-up question to those questions before I turn it over to CM Santosuosso. Does SBS currently partner with any social media influencers in particular in any way?
+
+**(00:51:49)**
+
+
+
+So we have leveraged social media influencers, as have some Council Members and other public figures, leveraging them as just another form of reaching audiences. We have worked with Dandy in the Bronx, who is an influencer in the Bronx, to announce Commissioner Mia's appointment alongside the formal press announcement and the mayoral announcement. So we are thinking of social media influencers as just another way to reach more New Yorkers. Maybe not all New Yorkers — maybe many in this room are not watching New York One a lot, but not only New Yorkers. My wife certainly does not watch New York One. So we just want to make sure that whatever platform or media format New Yorkers are consuming, if we can find a way to get in front of more New Yorkers, we want to do that, so our services are not just limited to the ones that always are accessing these services but are expanded to all that could be watching it and learning about it on different platforms.
+
+So we have done that, and we have also promoted our business improvement districts network and all the work we do with BIDs through a partnership with Megan Daly, who is a social media influencer that educated New Yorkers on our platform on what the BID does, which many folks are not aware of — it is a pretty niche and specialized function.
+
+**(00:53:04)**
+
+
+
+Most New Yorkers do not know that they have a local community organization, trusted by Council Members and City government, resourced by property assessments of that community, making decisions for that community on how to improve those commercial corridors. So is it more ad hoc, or is it a formal process? Like, if you are having a big event like the one you had, do you have a list of partners that you would reach out to and say, "Hey, can you post this on your..."
+
+**(00:53:32)**
+
+
+
+We wish we had a big list — we barely have a little one. We have just been pitching aggressively, just like with the news media, where press teams across City government try their best to get the word out. We try our best to get the word out through the press corps, and then we have also now started to get the word out — especially since the start of this administration — with social media content creators, because we know they are reaching audiences that may not typically be accessed through New York One or the New York Post.
+
+**(00:54:04)**
+
+
+
+You have one of the most popular influencers at your disposal at the moment: the Mayor.
+
+**(00:54:09)**
+
+
+
+That is right, and we worked with him — he wanted to work with us in promoting the New York City Business Express Service Team, and that was a great partnership that got a really critical service out to eight-plus million New Yorkers who learned about that program just through one video on May 29. I will now turn it
+
+**(00:54:31)**
+
+
+
+over to CM Santosuosso.
+
+**(00:54:33)**
+
+
+
+Thank you, Chair, and thank you, Khan, for your testimony and for being with us and for coming to Bay Ridge. Much appreciated. Sticking with the social media Bill Int 0408-2026 that is in front of us, can you speak a little bit to some of the operational challenges that you anticipate if we are required to create this content matching creation system?
+
+Yes, we just want to make sure in any program and service that we are deploying and offering at the agency that it is clear what the expectations would be for the people that are providing such service and the consumers of that service. We also want to make sure that even if it is an emerging area that is important, the guardrails are equally as important and should not be loosened in any way. So just wanting to ensure, and we would love to work with the bill sponsor and counsel on crafting expansions to any social media offerings that we have at the agency in ways that allow us to make them as responsible as possible. We know that would be in complete alignment with members of the Council as well.
+
+And as a co-sponsor of CM Maloney's bill, which I am excited about in terms of legacy businesses, you have heard me say this before, Khan. You know that one of my most prized legacy businesses in Bay Ridge is the Alpine Theater, which is the oldest working independently owned movie cinema in all of New York City. When we are discussing what makes legacy businesses close, this is a legacy business that wants to stay open but cannot, and is probably eventually facing closure because their property taxes amount to $400,000 a year. Property taxes for just one cinema. Despite my screaming for help with the resources of the City and with the resources of the State, because I truly believe there must be an error that a single independently owned theater that is not fancy, that just has ten theaters, could not possibly be asked to pay $400,000 a year. I cannot get any answers or assistance from any department or any agency. So I am just once again putting it out into the ether that if you have any suggestions as to how to solve this particular legacy business issue, I am all ears — you, Khan, and the rest of the
+
+**(00:57:08)**
+
+
+
+world. That is what I am saying. Yes, no, but on Alpine Theater, I remember the first conversation we had on this. As we understand it, it is an issue of the square footage, and the square footage leads to that calculation, which leads to the dollar number you have cited. So it is less of a discretionary choice but rather how the property tax system and the calculations are made, and how that then impacts a business in your district that may not have been the intent of the decisions that were made on property
+
+**(00:57:38)**
+
+
+
+taxes. Totally. And I just think the dynamic that ends up driving displacement of small businesses that results because of development — there should be in our tax policy a recognition that if a legacy
+
+**(00:57:50)**
+
+
+
+business wants to stay, whatever they purchased that property for, which of course is much less than it is worth in the modern day, they should be able to preserve that and resist whatever development would turn them into a chain or some other sort of standardized business, by having that reflected in the tax policy. Because it does have a public benefit for those legacy businesses to be able to stay. So I will just get off my soapbox, but that was what I wanted to talk about today. Thank you so much.
+
+**(00:58:15)**
+
+
+
+We love Alpine Theater. My wife has seen all of her favorite movies at Alpine Theater. And there it is. Okay.
+
+**(00:58:23)**
+
+
+
+Okay.
+
+**(00:58:26)**
+
+
+
+CM Brewer has a follow-up question.
+
+**(00:58:28)**
+
+
+
+Very quickly. We were talking about influencers. A big support mechanism for staying
+
+**(00:58:36)**
+
+
+
+in business is like a 30% online presence, if they have the kind of product that they can sell online.
+
+**(00:58:44)**
+
+
+
+So without that online support — that is something that you also help people with. In other words, if you have a small clothing shop, you can get some assistance because you are a New York City business. Whatever, you cannot do that for milkshakes. So my question is, is that something that is also supported and advocated for by...
+
+**(00:59:05)**
+
+
+
+Yes, to help more businesses go online — yes, absolutely. We think it is critical that businesses are able to, if they choose to, depending on the product and service they offer, compete in the online economy. So we have got resources to help businesses digitize and understand how to integrate the different shopping platforms or sales platforms into their website, and all the resources related to
+
+**(00:59:30)**
+
+
+
+that. Okay, all right. Thank you. Before I turn it over to CM Salaam, I just wanted a couple of follow-up questions. On Int 0408-2026, as it relates to CM Santosuosso's bill and Executive Order 11, and looking at reducing costs for small businesses in general — do they look at property tax? They are related to CM Santosuosso's question. The property tax policy is a larger issue and it impacts residential, commercial, all sorts of tenants and all sorts of property owners. That is City Hall's domain. The work on Executive Order 11 that the Deputy Mayor and a whole set of regulatory agencies was focused on was the summonses, the violations, the fines and fees that are within City powers. Some of them require State action. In our 50-plus reform package we have identified State reforms, such as the one where you are required to have a State barber permit and a City barber permit and have an occupational license as a barber in New York City, or the ice cream frozen dessert permit that you need alongside a food service establishment permit. So we have identified some of these areas of duplication or just concerning regulations that create challenges for businesses trying to comply. That is what the Executive Order 11 and Executive Order 18 exercise was focused on. We are really excited to keep deepening that work.
+
+Sixteen of those reforms could move with the City Council, so we are really excited over the next coming months and year to enact as many of those as possible, so we can keep the momentum that the Council has led on as well, with the year-round outdoor dining bill.
+
+**(01:01:17)**
+
+
+
+The quarterly payment bill, the repeal of the security grille requirement...
+
+**(01:01:23)**
+
+
+
+A quick follow-up question on Int 0408-2026: as it relates to SBS rolling out this program, would you be able to do it with existing resources or do you need additional resources? We would love to
+
+**(01:01:37)**
+
+
+
+work with the bill sponsor to better understand what the program would end up looking like. We already are serving New Yorkers with some level of best practices on social media. To deepen that work, we are really excited and we are proud to find ways to feature it more and more. There is a webinar on social media marketing happening on September 30 that all New Yorkers and businesses can access. There was also one on September 24, so it is a recurring series that we already have built into our programming. But certainly we could always be expanding on that programming to reach more New Yorkers and have even stronger services on top of what already exists, which we are proud of.
+
+**(01:02:22)**
+
+
+
+Got it. CM Salaam, thank you. Thank you, Chair. And thank you, Khan, for being here and for visiting my district as well. Just a few questions. The report shows Manhattan has the highest storefront vacancy rate in the City. Manhattan businesses were the largest group served by the commercial lease assistance program. But Manhattan can have very different realities. Can you break down how many of those businesses were in upper Manhattan, and specifically in Community District 10? And what is the current vacancy rate on corridors like 125th Street, Lenox Avenue and Frederick Douglass Boulevard?
+
+**(01:03:05)**
+
+
+
+Thank you, CM. We do not have the data on corridor-specific vacancy rates, but for your district we have a vacancy rate in the latest quarter, quarter two, of 13.9%, which is elevated for Manhattan. It also broadly reflects the Manhattan rate, which remains around 13% city-wide. The pockets of Manhattan that have some of the higher vacancy rates are upper Manhattan, then downtown Manhattan, then parts of Midtown. Other parts of Manhattan are not seeing as elevated levels of
+
+**(01:03:46)**
+
+
+
+vacancy. Got it. And dealing with access to industrial jobs — those are in Manhattan, but the Port Morris and Hunts Point IBZs are just across the Harlem River from my district. They are real sources of good jobs for Harlem residents. What is SBS doing to connect upper Manhattan residents to employment in nearby IBZs? Does the Commissioner consider workforce access for neighboring communities when weighing boundary changes?
+
+So the boundary changes — the
+
+**(01:04:23)**
+
+
+
+Industrial Business Zone boundary commission serves the purpose of determining, amending and repealing the boundaries that are set by the City Council and by the City government for what are the IBZs. That then triggers a Department of Finance industrial business zone business relocation tax credit. That is the primary purpose of the boundary commission. That is separate and apart from serving industrial businesses, serving industrial workers, connecting New Yorkers in uptown and in Harlem and in other parts of the City to industrial and manufacturing business jobs. All of that work is happening through our 18 Workforce1 centers. There is one in Harlem on 125th Street. It is the Workforce1 center for most of Manhattan North. We work closely with any and all large, medium-sized and even small businesses that want recruitment support to work with us and connect local New Yorkers and communities. We are proud of that service. The Workforce1 centers connect roughly 22,000 New Yorkers to jobs across New York. That is roughly similar to the 20-plus thousand New Yorkers we serve on the business services side. So workforce is deeply ingrained in the work of this agency, even if we are called the Department of Small Business Services.
+
+**(01:05:44)**
+
+
+
+Moving to Harlem specifically — Harlem's legacy businesses carry the cultural history of Black America. Many of them faced redlining, loss of access to credit and survived different forms of disinvestment that make a 20-year track record harder to document. How will you weigh significant contribution to history, identity or character so that Black-owned and immigrant-owned businesses are not disadvantaged? And how will you weigh a community board's recommendations against the Landmarks Preservation Commission's, since the two value different things? Thank you, CM. So on
+
+**(01:06:27)**
+
+
+
+Int 0174-A, we would love to work with the bill sponsor and the City Council to have further conversations on what would be a program that we could operationalize. We do have some concerns we would love to mitigate. The points that you are making relate to some of those concerns. There are other concerns as well. But the point that we feel strongly about, and in alignment with CM Maloney 100%, is that we should be promoting legacy businesses, period. Then it is a question of what would "legacy business" mean. The point we just made is that there are businesses in the City that in popular culture and in our psyche we think are definitely legacy businesses, but we find out they were sold four years ago to a private equity firm and now they are branded as family-owned, whatever — but they might not really be. So what is a legacy business is the more foundational question. Which is why one way of going about it would be a nomination system of credible partners in the community such as yourselves and the Council, other leaders such as the community boards, business improvement districts potentially. All of those are areas of potential collaboration where we are really interested in figuring out a way to deepen and expand the promotion of legacy businesses.
+
+**(01:07:48)**
+
+
+
+Thank you. Thank you, Chair. Okay, thank you, CM. While we are in Harlem — I have a quick question. SBS has visited, and I am sure there are a couple of legacy businesses, or just any of the businesses in general, that are along Second Avenue where the Second Avenue Subway next phase is happening.
+
+**(01:08:11)**
+
+
+
+Yes, we have been — frankly, those businesses are in crisis at the moment. So are there any resources that you have been able to provide to them to help them weather this storm?
+
+**(01:08:22)**
+
+
+
+So we have the services that you are very familiar with at this point. Those are the services that we have. One service that could be helpful to a business that is seeking some bridge funding to continue operations would be financing assistance. We connect small businesses in the City not only to larger banks but also to lenders that provide affordable lending options to small businesses on more affordable terms. And so
+
+**(01:08:53)**
+
+
+
+we have done outreach on Second Avenue, we have done outreach throughout Harlem, and when we connect New Yorkers to financing assistance we are looking at more affordable lending options
+
+**(01:09:02)**
+
+
+
+as a tool for them to use to manage their operations. And I will say this —
+
+**(01:09:06)**
+
+
+
+especially because a lot of those are Black and Brown businesses, they do not traditionally favor lending and would prefer more of a grant or even just some assistance, considering that this is a project that is out of their control. Yes, it is needed. Other municipalities, when they are developing such large infrastructure projects, put parameters in place where there is financial assistance available to those that are significantly impacted. Is there anything that the administration has thought of to provide similar assistance?
+
+**(01:09:36)**
+
+
+
+Thank you, CM. The Second Avenue project in particular is being carried out by entities that are constructing and managing major capital projects worth millions if not billions of dollars. If they allocated funding for such a purpose and wanted to work with us, we would work with them. But that type of program they have not provided. It may have existed in other jurisdictions but does not exist in the City. We are looking for a nudge from the administration to help convince them to provide it. We understand there is a Council bill that the Council has introduced that would also seek to provide grants for roadway construction. We know the administration is reviewing it and we are in active conversations on ways to tailor the program.
+
+**(01:10:27)**
+
+
+
+Thank you. In terms of legacy businesses, has SBS ever referred businesses to the State's historic business registry? So currently our legacy business services are just the same services we provide to every single business, with the exception that if a business owner is selling their business and does not have a succession plan in place, we connect them to the opportunity of having us consult them on a possible transition or sale of the business to the workers of that business. That is the primary legacy business service you could say we are providing that relates more particularly to legacy businesses. But legacy businesses benefit from a whole range of services. There are 6,400 businesses that have benefited from our programs that were in operation for 20 or more years through our work. Going back to vacancy
+
+**(01:11:29)**
+
+
+
+rates — in areas of the City where they are significantly high, have you been on the ground to investigate and see why these landlords are not leasing these spaces?
+
+**(01:11:43)**
+
+
+
+We have had walkthroughs with electeds, we have had walkthroughs with business improvement districts, we have had walkthroughs with key community stakeholders who are related or connected to landlords. It is difficult. It is sometimes hard for even tenants, as CM mentioned, to get a hold of the landlord. So it is tough. But we do conduct these on-the-ground assessments of what is happening in that community. When our neighborhood development grants include a commercial district needs assessment component, that further deepens our understanding of what is happening in the community — what do the customers want, what are the shoppers interested in, what are the biggest concerns of the businesses, the neighbors and other stakeholders — to help us map out the needs of that
+
+**(01:12:30)**
+
+
+
+community. Okay. I did want to clarify that I misspoke on the loan and the affordable lending options. We do also connect businesses to larger banks, not just the others. It depends on the needs of that business, what is available in the market and what they are interested in.
+
+**(01:12:46)**
+
+
+
+But as you said, many businesses would prefer a grant program, but that is then subject to a budget process and resources.
+
+**(01:12:53)**
+
+
+
+I would say, in some of the — I am going to just speak for the outer boroughs and
+
+**(01:12:58)**
+
+
+
+even on some of our tours in other districts, I have heard from tenants who are currently about to go through lease negotiations mention that when they first went into the premises they were offered the opportunity to purchase the property. Under the commercial lease assistance program or any programs within SBS, do you guys do any type of counseling as it pertains to speaking with small businesses to show them the options — as in, if they were to take this lease versus going ahead and purchasing that property, what that could look like and do for their business, and the
+
+**(01:13:36)**
+
+
+
+pitfalls from these choices? The businesses that reach out to us are asking for support with the lease assistance piece of the issue that they are navigating. When they are starting a business they do not come to us on purchasing. But we also do not have a service for purchasing, so that explains it.
+
+**(01:13:54)**
+
+
+
+It can be an option because, as a former business owner, sometimes you do not know what options are available to you. Almost similar to renters who think they cannot be homeowners, sometimes all it takes is someone asking the question: have you considered this? Is that something where we could do just a simple projection? Because if you are leasing a space at X amount per month for X number of years, what is the benefit versus buying that space and not having to worry about that at least 10 years from now? There is a whole lot in that.
+
+**(01:14:27)**
+
+
+
+I mean, it is interesting in that when we
+
+**(01:14:30)**
+
+
+
+did the walk-through in Harlem with CM Salaam and we asked the business owners, my understanding of that conversation was that they would never even dare to dream of buying that building because of the market rate price of that commercial property.
+
+**(01:14:43)**
+
+
+
+We are in a situation where businesses are struggling to hold on to their commercial leases, so it is tough to envision a scenario where it would be a very popular service to offer to businesses to buy in this current market condition. Maybe in a condition where there is some level of availability of commercial storefront stock that allows for more options, it would help not only on the tenancy side but it would also help with the purchasing.
+
+I did want to make a correction: when businesses reach out to us saying they need significant amounts of money, our financing operation does support with that and we even connect New Yorkers to some of the loans that are available for the purchase of properties. So there are resources that already exist and we are connecting New Yorkers to those. But when they ask for that resource, I think your question was more: would we go out and ask a business owner if they are interested in purchasing property?
+
+**(01:15:40)**
+
+
+
+It is just advising — like when they come in to speak about their current lease, just an introduction to what are the different advertising options available to small businesses through the City.
+
+**(01:15:58)**
+
+
+
+Thank you, Council Member. So on Int 0408-2026, we provide digital marketing support, we provide social media support, and understanding what the best practices are to engage with these platforms. We also work with LinkNYC on a program we have jointly supported called Link Local, where we provide neighborhood-based advertising for small businesses and community organizations on LinkNYC kiosks. So that is another way by which businesses can engage and access free digital marketing. There is an easy-to-use template for business owners — they do not have to go through a very complicated process to get their business up on these LinkNYC kiosks. It is another partnership and collaboration with LinkNYC to get that done.
+
+**(01:16:47)**
+
+
+
+Got you. And is all of that made available to businesses when they come in? Like, say I come in for the commercial lease program — do the representatives say, "Hey, when you open up, use this resource, this is available to you"? So do you cross-market the various resources that are offered from beginning to end, no matter what the client comes in for?
+
+**(01:17:09)**
+
+
+
+So we cross-promote the services no matter what the small business owner came in for — when they speak to our outreach team, when they speak to our Business Express service team, or the small business advocates that are in our agency. We generally make it a practice that as soon as a business owner shares that they could benefit from, or they are challenged with, another issue that relates to another service, we have the resources. We have dozens and dozens of free resources. It is just a matter of establishing that relationship.
+
+We are also protective of that relationship. We know that even when we do door-to-door outreach on something as simple as the Business Owner Bill of Rights — which the Mayor has through Executive Order 18 required City agencies to start distributing at the beginning of inspections starting October 1 — even in sharing this flyer of the Business Owner Bill of Rights, as many of you are familiar with door-knocking in residential buildings, it is also similar in commercial corridors where businesses only have the attention of five seconds, if not less, in some of these interactions. So we want to protect them by ensuring that we are directing the most relevant message to them in that moment.
+
+But when the opening makes itself available — where they are expressing interest in potential other services or just sharing needs that they have in this City that they could benefit from our services — we would cross-promote in that moment, 100%. That is the practice. It helps us serve the 22,000 businesses we serve every year. A good substantial amount of the services we provide end up going to small businesses that, once they learn about the service, want to use it more and promote it to the friends and family members who are also in the small business community.
+
+**(01:18:54)**
+
+
+
+Thank you. I have one final question before I turn it back over to my colleague. So Queens, similar to Harlem,
+
+**(01:19:01)**
+
+
+
+does have a lot of legacy Black and Brown entrepreneurs that could potentially qualify for the Bill. Are there any recommendations on how we can ensure equality in demographics for nominations and eventual legacy appointments and assistance? At this time we would love to work closely with the Bill sponsor and the Committee to have further discussions on all the different parameters we should consider. That would be one — there are so many other criteria that the City should consider if this Bill advances in the legislative process.
+
+**(01:19:36)**
+
+
+
+I will turn it over to CM Maloney.
+
+**(01:19:38)**
+
+
+
+I wanted to ask a bit about some of the resources that are available citywide to help with a pilot program for the social media outreach that we were talking about. So my question is: do you partner with LinkNYC to help promote small businesses? And another group to mention would be Made in NYC and private companies that kind of serve as this matchmaker. I am just curious how you think about all these different
+
+**(01:20:08)**
+
+
+
+players in a pilot program. So yes, we do work with LinkNYC very closely and it is a long-standing partnership at this point. We also organize webinars and other educational ways to reach more New Yorkers, so they operate the program — it is their Link kiosks — and we are helping more New Yorkers and small businesses benefit from them, in addition to their own outreach work that they are conducting. I forget the second part of your question.
+
+**(01:20:37)**
+
+
+
+Made in NYC — which has helped small businesses with marketing — is that something you have plugged into?
+
+**(01:20:45)**
+
+
+
+Yes, so we work with the Mayor's Office of Media and Entertainment really closely. It is more so on the workforce development side — we have joint partnerships where we are training New Yorkers interested in post-production careers and other job training programs like production assistant. That is one of the closest and deepest areas of our partnership. But our leadership teams are always in conversation and whenever we could benefit from collaboration we always do so. Commissioner Espinal and Commissioner Irma Hermann are almost every other week either speaking to each other or seeing each other.
+
+**(01:21:19)**
+
+
+
+And the last category is private companies that are serving as this matchmaker. We would love to learn more and we can discuss
+
+**(01:21:30)**
+
+
+
+further. We do work with EDC as well. When EDC has programs where they are convening small businesses or startups — they have the Founders Fellowship, for example — there are other cross-training and cross-promotion opportunities where they are aware of our programs and we are aware of their programs, so there are opportunities for all of us to work together. We will definitely learn more about the program that you are referencing in particular.
+
+**(01:21:53)**
+
+
+
+Thank you, Chair. Any other questions? All right, thank you so much.
