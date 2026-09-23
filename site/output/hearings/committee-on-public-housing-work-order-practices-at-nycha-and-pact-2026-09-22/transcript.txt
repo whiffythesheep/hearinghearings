@@ -1,0 +1,1120 @@
+Work Order Practices at NYCHA and PACT
+Committee on Public Housing · September 22, 2026 · 2hrs 55m
+Source: https://hearinghearings.nyc/hearings/committee-on-public-housing-work-order-practices-at-nycha-and-pact-2026-09-22/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260922-131350.mp4
+
+================================================================
+
+(00:00:06)
+
+Good afternoon and welcome to today's New York City hearing from the Committee on Public Housing. At this point I would like to remind everyone to please silence your electronic devices and at no point is anyone to approach the dais. If you would like to sign up for in-person testimony and have not filled out a slip, please feel free to fill one out outside at the table in the hallway.
+
+(00:00:25)
+
+We are ready to begin. I am calling this meeting to order.
+
+(00:00:31)
+
+Good afternoon everyone and welcome to this hearing of the Committee on Public Housing for the New York City Council. I am CM Chris Banks, Chair of the Committee, and I am glad to be joined by my colleagues CM Marte and CM García.
+
+We will hold an oversight hearing on the work order systems used in NYCHA and PACT developments, which residents use to request repairs and notify property managers of conditions in their homes. NYCHA has two separate systems: the system that tracks resident complaints and the Maximo system that tracks work orders. NYCHA uses work order data to schedule repairs, direct resources and measure compliance with the 2019 agreement. The number of open work orders has risen and fallen across mayoral administrations, but in the past the City has committed one-time money to bringing the backlog down, each time before it rises again.
+
+The work order system is the main way for residents to report that something in their household needs repair, but residents and the public have limited ability to see how the system performs. The work order system only serves developments that NYCHA manages. However, each PACT property manager uses its own system, so residents have complained that their open work orders disappear from the NYCHA system and that the history of the issue does not carry over to PACT. The work order system serves only developments that NYCHA manages. When a development transitions to PACT, its work orders leave NYCHA's system and are then tracked by private management. It is unclear what happens to the open work orders at that point and whether NYCHA keeps track of or communicates with the PACT partners on their progress. NYCHA's public data on work orders only goes back one year, so the public cannot track trends.
+
+Residents of both NYCHA and PACT developments have reported that work orders take too long to address. They wait for repairs without knowing when a worker will come, and they tell us that no one updates them on their requests. PACT residents tell us they are unsure who to call or where to reach the property manager when the property manager does not respond. We need today's hearing to shed light on a process that has frustrated and confused residents who are trying to live in dignity, and to work toward a system that is managed properly and can improve the well-being of residents. This hearing is our chance to hold NYCHA accountable and to learn how PACT partners handle repairs. We are asking NYCHA and PACT partners for more transparency. As PACT transitions occur, residents need a commitment to timely and complete work orders regardless of who manages the building.
+
+I would like to first of all thank my staff Michael Lambert and Carl Graham, along with the Public Housing Committee staff Jose Conde, Samia Shell, Charles Kim, Spencer Tron and James Wu and Noah Schlossberg for all the work they have put into this hearing. Next, as we have done traditionally in my committee since I became Chair, we will now call up the pre-panelists. Please approach. We have Jeremy Estrada Perez, Mateen Serc, Carla Hollingsworth and Patricia Dickey who is on Zoom. We will begin with Mateen Serc. Thank you, good to see you. You have three minutes.
+
+(00:06:26)
+
+Good afternoon, Chair Banks and members of the Public Housing Committee. My name is Mateen Serc and I serve as the Co-Chair of the Housing, Land Use and Zoning Committee for Manhattan Community Board Nine. I am a New York City Housing Authority resident. However, I am testifying today in my personal capacity and the views expressed in this statement are my own and do not reflect any official policy or position.
+
+I think one of the unique things about my experience, having come from City Council, is being able to problem-solve issues. There was a period of time in NYCHA at community centers, and I think one of the interesting things about what NYCHA was doing, at least on the Section 9 side, was that a lot of their reorganization really helped to uncover the extent of the disinvestment at NYCHA — not just in work orders, but also in what now exists online. There is a lot more information that tells us how bad the situation really is.
+
+Part of the problem that I see — and it may have changed in the three years that I was working on this particular project — is that a lot of the property management operations are very siloed, which worked really well for uncovering a lot of the issues, but now when you actually have to address them it becomes almost impossible. Because now you have a unit with a variety of issues, and if it takes a trade skill a certain amount of time for each one to follow up, you are going to see delays of about a year or more.
+
+One of the things that I think worked really well when we were doing community centers — and I have tried to pass on those notes — is what it actually looks like when we are working with a variety of people. On the community center side, what it looks like to have a variety of trade skills working on a location at the same time with capital projects, because there are things that capital projects does that operations does not know about and vice versa. When you tend to have multiple teams in one room you tend to see a lot of expertise come back and forth. If you use community partnerships, at least in terms of community centers, there are collaborative ways that you could work with people to address a variety of issues.
+
+On the reform that has been ongoing, I would say one of the bigger issues is the fact that the system itself does not have a process for maintenance to actually produce a variety of work orders. Instead it leaves the resident to essentially pass the buck and figure out their own repairs. They have to call a planning person who would manage about 300 apartments, if that person is there. Even within that planning, it is up to the resident to figure out the order in that planning, whether people show up in a certain time slot. It does not seem like the system is connected to the software tool that is currently in use.
+
+In summary, you tend to have these big gaps in work orders. A lot of the time there is not a real way to reach out to certain people if the person in the planning unit is not there. At the end of the day my two biggest concerns are the fact that you do not have teams of multiple trade skills dealing with a variety of repairs at once, and a software program that actually connects to the property management system.
+
+(00:10:25)
+
+Thank you for your testimony. We are now going to move to Hollingsworth. Thank you.
+
+(00:10:33)
+
+Good afternoon. Pull the mic a little closer. Good afternoon, Chair and members of the Committee. My name is Carla Hollingsworth. I am the Secretary of the Stuyvesant Gardens One Tenants Association. I submit this testimony concerning conditions residents are experiencing during the ongoing PACT construction at Stuyvesant Gardens One. Our fundamental concern is simple: what residents were told they would receive through the PACT conversion greatly differs
+
+(00:11:03)
+
+from what residents are actually receiving. Residents were promised major renovations and improvements, yet work that has only recently been completed is already experiencing serious failures.
+
+Residents have temporarily relocated for construction and then returned to apartments represented as newly renovated, only to have to be relocated again because of conditions including serious leaks, sewage backing up into apartments, falling ceilings and other failures occurring during renovation. This raises a basic question: if recently completed work is already failing, why are the contractors being permitted to continue moving from apartment to apartment without first determining why that work failed and whether the same problems are being repeated elsewhere? Residents should not become the quality control inspectors for a multimillion dollar rehabilitation project.
+
+Several residents have reported attempting to open newly installed windows only to have the window frame and all come inward and fall onto them. Residents have subsequently been instructed not to touch or attempt to open their windows. A newly renovated apartment should not be considered complete if a resident cannot safely operate the windows. We want to know who installed these windows, whether installed windows have been inspected and why construction is continuing before the cause of these failures has been addressed.
+
+Residents were initially told that there was no asbestos. Nevertheless, asbestos-containing material has been identified and residents have observed work in which asbestos-containing material is being encapsulated rather than removed. Residents deserve complete transparency concerning where asbestos-containing material remains, what was encapsulated, what was removed, who performed the work, who inspected it and what procedures will protect the residents and workers if those materials are disturbed during future construction or repairs.
+
+Apartments were altered to provide wheelchair accessibility even though the residents occupying those particular apartments did not require accessible units. We want to be very clear: accessibility is not the problem.
+
+(00:13:34)
+
+Accessible apartments are necessary and important. The issue is what happened to the existing residents. Thirty seconds to wrap it up.
+
+(00:13:42)
+
+Walls were widened and bathrooms enlarged to accommodate roll-in showers. As a result, usable space elsewhere in the apartments was reduced. Residents were not shown the altered floor plans beforehand. Some residents returned from temporary relocation and discovered that furniture and belongings that fit into the apartments before construction no longer fit. One resident, after seeing her altered apartment, refused to return because she said she cannot fit. She has been threatened that she will lose her subsidy if she does not go back. Are you finished? No, I am not.
+
+(00:14:20)
+
+I will give you 30 more seconds. Okay, thank you.
+
+(00:14:24)
+
+Residents should not discover permanent alterations to their homes only after the work has already been completed. Residents also have repeatedly requested information concerning the contractors and workers performing construction at Stuyvesant Gardens One. We have been told that there are approximately 22 contracting companies working simultaneously at the development. We have repeatedly asked: who are these companies, what work is each company performing, who is responsible for supervising and inspecting their work and who is accountable when that work fails? We have gotten no answers to date. Also, they keep telling us that it is $380,000 per unit to renovate our development, and if you look at these apartments, somebody needs to look at these apartments, because it is not — if $15,000 goes into an apartment, that is a lot. Thank you, Carla.
+
+(00:15:27)
+
+We appreciate you. You can submit the remainder if you were unable to complete your testimony. All right, thank you for your testimony. We are now going to
+
+(00:15:43)
+
+move on to Keat Ramsey. Yes, okay. Good afternoon. Our priority — and it is just as simple —
+
+(00:15:58)
+
+— is to make sure resident repair requests are handled quickly, transparently and thoroughly. To achieve this we implemented Property Meld, a platform that gives residents a familiar, streamlined experience. Through Property Meld, residents can submit work orders directly from their phone or computer, track progress in real time and message maintenance staff. At the same time we ensure no resident is left behind — anyone who prefers traditional non-digital methods can call or visit our on-site office or contact the Wave Crest repair team, and staff will log and track the request directly into the system for them.
+
+The data shows the approach is working. Since launching Property Meld in East Chester Gardens, 3,280 work tickets have been created. 98% of those work orders have already been completed, with just 1% currently open. The median response time to a request in East Chester is approximately 24 hours. Over the last 90 days the completion turnaround has been 3.3 days and, most importantly, our residents are rating the service an average of 4.1 out of 5 stars.
+
+A major reason for these results is better communication. When residents put in a request they can select their preferred appointment windows and receive automated notifications at every stage. Every message, update and action is time-stamped and documented so nothing falls through the cracks.
+
+Finally, technology is only as good as the people behind it. Accountability rests with our on-site property manager and dedicated management team at East Chester Gardens, supported directly by the Wave Crest PACT team. They monitor and track tickets daily, follow up with residents and ensure repairs are resolved properly and promptly. We are proud of the response time, responsiveness and accountability we have built and we remain dedicated to continuing this high standard for every resident. At East Chester Gardens we have also created a joint tracking system — the first in the City — with Wave Crest and the East Chester Gardens Resident Association. We call
+
+(00:18:25)
+
+it — what is the name?
+
+(00:18:26)
+
+The Ledger Evaluation List. And what it is — every few weeks we go through stalled or
+
+(00:18:41)
+
+defaulted tickets and if there is a problem we straighten those things out ourselves. So we get a bi-weekly list. No New York City Housing Authority property manager ever gave us data on the open tickets we have. I have done this — do you need another 30 seconds?
+
+(00:19:01)
+
+No, but I would like to, if at all possible, give you one of these pamphlets showing how East Chester Gardens was taken to a beautiful butterfly. Excellent.
+
+(00:19:14)
+
+Are you a resident of East Chester Gardens? Obviously. Well, thank you for your testimony. We will now have Nila Glasgow approach the dais and begin.
+
+(00:19:37)
+
+Hello ladies and gentlemen. I am very happy to be here. My name is Jeremy Estrada. I am a housing organizer. I have been in housing organizing for six years. I am from western Queens. My mother lives in Brownsville.
+
+I would like to start with my mother. Recently my mother had a work order done for her cabinets. This was done on August 20, 2026. She was only given one phone call, which was an update that she would not be able to get her kitchen cabinets and sink until October 20, 2026. As her son and as an organizer, this really enraged me, because how is my mother going to leave her dishes on the floor? Unfortunately, a lot of NYCHA developments suffer with rodent issues.
+
+(00:20:55)
+
+I would just like to say that NYCHA needs more funding for repairs and also needs more clarity for the individual tenants that live in NYCHA developments. From my personal experience I have done a lot of work with Queensbridge Houses, Ravenswood Houses and I have seen quite a number of repairs that have not been addressed in months. A shocking thing that I experienced was a girl who lived in her apartment and unfortunately her floor was cracked and underneath those cracks was asbestos. I bought a test kit and it came out positive for asbestos. It is clear that she put in the work order and months later it still had not been addressed. I feel like we need to be more quick with repairs. It should not really take this long, especially with something as minor as cabinets to something as serious as asbestos. Thank you so much. I yield my time.
+
+(00:22:27)
+
+Thank you for your testimony. We will now go to Patricia Dickey.
+
+(00:22:37)
+
+Good afternoon, Committee. My name is Ms. Dickey and I reside in public housing. When it comes to work orders, half of the time they are not completed. There is a long delay. You sometimes have to get tickets closed out to get the work done right then and there. There are months apart when you need work — if you call this month, sometimes it is for the next year. And then when they come to do the work they will say that you were not home, they close the ticket and then you have to call the customer service number again.
+
+Half of the time you are left to do your work on your own or just manage to live month to month just to make sure you can live decently. Sometimes you cannot even get a hold of somebody to get a ticket, because you stay on the phone for a long time. You spend half the day on hold and then when you do get a ticket they tell you that you already have a ticket for that and you have to have it closed out. Then you have to find a maintenance worker to close that ticket and then it leaves you back at square one with no work done and not even a work order ticket
+
+(00:23:52)
+
+number. Ms. Dickey, does that conclude your testimony?
+
+(00:23:56)
+
+Absolutely not. I am sorry, my thing was moving.
+
+(00:23:57)
+
+That is all right, take your time.
+
+(00:24:00)
+
+Also, I would like to say there needs to be a better system because they are saying that when you go in there it is like there are glitches and sometimes you are not even able to get the order number, the work order. Then when you go and try to repeat that order number to them, they tell you that it no longer exists. It is really frustrating because you sit in here and you do not know when somebody is going to come, and then when you were expecting somebody to come, next thing you know the ticket is closed. So my experience with work orders is very light.
+
+After the time I am unsuccessful and I am left just to manage without... Does that include your testimony? Yes. I hope something can be fixed about this and like I said, I just really wish there was something better that we can do than to have tickets just keep piling up and no work to be done.
+
+(00:24:58)
+
+All right. Well, does that complete your testimony, Miss Dickey? Miss Dickey?
+
+(00:25:12)
+
+Yes, that is it. I am sorry, I was doing a little in and out.
+
+(00:25:16)
+
+OK. Does that complete your testimony?
+
+(00:25:19)
+
+Yes it does. Please stay on
+
+(00:25:21)
+
+because I have some questions for you. OK, no problem. All right, thank you. Now we will move on to Miss Layla Glasgow.
+
+(00:25:30)
+
+Thank you so much. Good afternoon, Chair, members of the City Council. My name is Leila Glasgow. I am the Democratic District Leader representing Chelsea and I am here today to speak specifically about the conditions at Fulton Houses and Elliot Chelsea Houses, and about what appears to be an increasingly dangerous gap between NYCHA's obligations on paper and what residents are experiencing on the ground.
+
+These buildings, as many of you know, are slated for demolition despite massive and continued opposition from tenants as well as the broader Chelsea community. These buildings have not ceased to be people's homes. Yet NYCHA and its development partner Related Properties have failed to provide adequate response to basic maintenance. Let me give you a couple of examples. Recently a tenant became locked into her own apartment because NYCHA was unable to send a locksmith to unlock it. The fire department had to break her door to get her out. The door has still not been repaired and she has now been told that the repair will take many weeks and maybe months because a carpenter is not available for at least two to three months. That is putting her and her household at risk. At Fulton, an entrance door has been broken for weeks. Multiple tickets have been submitted but repairs still await. These are not cosmetic issues. A functioning apartment door and functioning building entrance are among the most basic elements of safety and security in residential housing.
+
+These conditions are particularly troubling because Fulton and Elliot Chelsea are supposedly covered by a special interim program, the Meanwhile Plan, designed specifically to prevent this deterioration. The master development agreement provides for a Meanwhile Bridge Plan. NYCHA's public materials described its purpose very clearly: NYCHA would continue to manage the existing buildings until they were vacated, while the development partner Related Properties would add capacity to NYCHA's management through additional security, pest control, building system repairs and in-unit repairs. NYCHA later described the Bridge Plan as providing pest management, work order security and support for heating and elevators. None of this has happened. What residents are experiencing does not at all resemble this description. Anecdotally, residents also report calling NYCHA for repairs and being told in substance, "Your building has been privatized, we do not handle it anymore." NYCHA responded that NYCHA itself stated as recently as... that it remained the property manager for Fulton and other Chelsea buildings and specifically instructed residents to continue submitting maintenance requests to NYCHA. There should be no ambiguity for a tenant about who fixes a broken door.
+
+There is another deeply troubling pattern. Residents who have declined or resisted relocation report that when they submit repair requests, the conversation turns instead into relocation. If I can have 30 more seconds... Thank you so much. I appreciate it. Our tenants are asked again to move even though they have already said that they do not wish to move, and their repairs are delayed even beyond what would be considered the average. I will just wrap it up by saying that residents routinely describe an extreme lack of timely response. Problems remain unresolved. Calls are passed from one entity to the other. So here are the questions that I would like to place in front of the City Council. I ask the City Council to establish very concretely who is responsible today for every category of repair at Fulton and other Chelsea buildings, what services the Meanwhile Bridge Plan is actually providing building by building, how quickly work orders are being completed, and whether residents slated for relocation are receiving the same maintenance service as every other NYCHA resident. Thank you.
+
+(00:29:50)
+
+Thank you for your testimony. All right, appreciate it. Thank you. I just have a couple of questions for the panelists, particularly Ms. Estrada and Miss Dickey. I will actually start with you, Miss Dickey. Since September 9 you have been living without proper kitchen cabinets and relying on a temporary slop sink which I believe NYCHA gave to you. How has this setup impaired your
+
+(00:30:30)
+
+ability to manage your household and take care of your family?
+
+(00:30:34)
+
+It is extremely hard. First off, I go to dialysis and I need my kitchen to work because I have to eat in a certain way. Then I have grandchildren here and it is like I am using half of my kitchen. I cannot lift stuff and everything is all scattered. They attend school, so when I had my counters along with my sink I was able to put things there because I can only use one of my arms. It is like I am left to just be moving halfway across my kitchen and it is really hard, you know.
+
+(00:31:08)
+
+When NYCHA staff told you that the remaining repairs would not be finished until 2027, a six-month wait, what reason did they give you for that extreme timeline? Did they claim they were backed up?
+
+(00:31:31)
+
+They were backed up and they were also waiting... there were actually no appointments available until then. The reason being, like, I had a paint order before too for them to paint my whole house that was outstanding. I do not know how long I was waiting for that. They told me that was the reason it was being held up, because I had to have that cancelled out. That took an additional two weeks to close because everyone kept sending me around, calling this one, just for somebody to close out a ticket so I could get the ticket to match the work that needs to be done.
+
+(00:32:03)
+
+OK, thank you for that. During their initial visit, or any time before my office stepped in, did NYCHA conduct any assessment on whether living with an incomplete kitchen for six months posed a safety or accessibility risk for you and your family? Never. It was only like when you came in and stepped in that you understood what I have been going through. Like, six months is a long time.
+
+(00:32:32)
+
+You said, as we chatted, the holidays are going to be coming up and I enjoy just sitting down and eating as a family correctly.
+
+(00:32:39)
+
+Like, that is a huge part of my day. I want to hear what is going on with my grandkids and sit in my kitchen comfortably. That is what we link up for.
+
+(00:32:46)
+
+And sit down. But because my kitchen was so dismantled, even when you stepped in, it was like, you know, you could understand my house. No one from housing ever said that. It was just like, "Here is a sink and that should be fine."
+
+(00:32:58)
+
+And how difficult was it for you to get any clear updates or straightforward answers from the development management before you reached out to my office directly? Very difficult.
+
+(00:33:13)
+
+The change that happened, I was almost like, wow, I wish I would have reached out to you immediately when this happened because it took a whole lot off of me. Things started to move. Like, prepping and doing my work... because you stepped in, this would have never happened. I was still waiting.
+
+(00:33:32)
+
+That is what has been dragging in place. But now it is like it is less of a hassle. I feel like something is going to be done. But before, I had to go all day, assuming the office was open, on my phone trying to see about ticket orders all day. Thank you for your testimony and your experience.
+
+(00:33:54)
+
+No problem. And I thank you so much. Thank you, Miss Dickey.
+
+(00:34:04)
+
+Through what your mother communicated to you about her daily routine during those four weeks while her kitchen was gutted, and how she managed basic tasks like cooking and storing food with her pantry forced into her living room — that is correct, her pantry was forced into her living room. Beans, lentils, et cetera were all left basically behind her husband's chair in the living room, as well as pots and pans. She handled it very difficultly, I guess you would say. Her husband suffers from asthma attacks and when they took out the cabinets they left the plaster there, fine dust particles, so whenever her husband would come into the kitchen even just to use the fridge he had difficulties breathing. I believe he had asthma attacks and had to go to the hospital from one of them. This was also just a sanitary issue as well as a health issue, especially when it comes to her husband. And when NYCHA informed your mother that they would not return until October 22, which I believe is a date leaving the senior resident's apartment in a state of complete disrepair for a full two months, what explanation, if any...
+
+(00:35:55)
+
+So during my initial testimony I said that they communicated very little with her. But one of the things that she has told me is that they were backed up, which especially since someone who has a health issue in there should have probably taken priority. It took two months of waiting to get a repair. Following the intervention on September 14, NYCHA completed the entire job in just two to four days. Am I correct?
+
+(00:36:43)
+
+You are correct. I reached out to your office because I knew the resources available from housing organizing.
+
+(00:36:52)
+
+To reach out to the local office so they could put pressure on NYCHA. Does it need to happen? No, it should not need to. But when I contacted you and gave you my mother's information, we door-knocked her together and I translated for her. I would say we spoke together on Tuesday. Yes, she had gotten her repairs on Thursday with the cabinets installed and then on Friday they connected her sink. Thank you again for answering those questions and sorry about the experience for your mother, but we are glad we were able to make the calls to get that
+
+(00:39:24)
+
+your statement. Thank you. Chair Chris Banks, members of the Committee on Public Housing, other distinguished members of the City Council, NYCHA residents, community advocates and members of the public, good afternoon. I am Daniel Green, NYCHA's Executive Vice President of Property Management Operations. I am pleased to be joined by Heather Beck, Executive Vice President and Chief Real Estate Officer. Thank you for this opportunity to discuss our efforts to improve the repair process to better serve residents and enhance their quality of life. Providing and maintaining safe and decent homes is at the heart of our mission and everything we do is centered around our work to ensure that the Authority remains a vital resource of affordable housing in New York City today and for generations to come.
+
+Despite the significant challenges of stewarding aging buildings that have long been underfunded by the federal government, we have made considerable progress these last several years to become a better landlord. In addition to the operational improvements we are implementing, we know that addressing the significant capital needs of our buildings is critical to reduce the number of repairs needed. Section 8 conversions through programs like PACT and the RAD are our primary tool to address capital needs. These programs enable us to renovate buildings from top to bottom and bring in partners for their day-to-day operations.
+
+First, I would like to explain the work order process at NYCHA. Residents can submit repair requests by calling NYCHA's Customer Contact Center, or CCC, or by using the MyNYCHA app. A ticket is then created for a maintenance assessment in which a maintenance worker assesses the repairs needed and performs any standard repairs.
+
+(00:41:27)
+
+If complex repairs requiring skilled trades such as paint, plaster, carpentry, plumbing, or if lead or asbestos testing is needed, the maintenance worker will create tickets for NYCHA staff or vendors to complete the repair. Residents can then call their neighborhood planner to schedule skilled trades appointments.
+
+The creation of the Neighborhood Planning Unit was one of the significant changes set forth in NYCHA's 2021 Transformation Plan, our vision for significant and sustainable change to NYCHA property management operations as well as our overall organization, developed as part of NYCHA's response to the 2019 HUD agreement. The Transformation Plan established a strategic road map for addressing the Authority's challenges with a particular focus on the agreement pillar areas of heat, elevators, pests, waste, lead, mold and inspections.
+
+Through the Transformation Plan's neighborhood model, we created smaller property management portfolios that are easier to manage and feature increased accountability and resources. As I noted, we established several neighborhood-based roles to strengthen support for the properties and residents across key operational areas. The neighborhood planner and the neighborhood secretary help schedule skilled trade work orders and improve coordination and communication with residents. Neighborhood service coordinators provide residents with on-the-ground, accessible points of contact, enhancing resident awareness of NYCHA activities and initiatives. Neighborhood contract managers review vendor work orders to ensure residents receive quality services from contractors. Additionally, NYCHA aligned central office services with the new property management structure. These reforms ensure that frontline leaders are supported and equipped to manage buildings effectively and deliver high-quality service to residents.
+
+Work order reform, another key Transformation Plan initiative, decentralized skilled trades and streamlined the work order scheduling process, resulting in more efficient scheduling and completion of repairs. The program assigns skilled trades to each neighborhood and to developments in some cases, in contrast to the previous borough assignments. This eliminates delays due to travel times and allows skilled trade staff to become better familiar with the unique needs of the developments they serve.
+
+In addition to focusing on reducing wait times and repair backlogs, NYCHA is committed to improving the resident experience of the repairs process. Residents now receive automated communication through mail, email and robocalls at key intervals for maintenance and skilled trades work orders that are created, scheduled or upcoming. Ensuring that appointments are not missed is central to improving the resident experience.
+
+In partnership with the federal monitor, NYCHA has reduced its missed skilled trade appointments to only 2.7% of the 17,000 skilled trade appointments in July 2026, down from 10.9% two years ago. In a resident satisfaction survey implemented in 2025 that surveys residents after every work order is completed, 78.6% of residents are reporting satisfaction rates of excellent or good.
+
+In 2026, NYCHA is using technology to better serve and communicate with residents. For instance, the pest management department launched a text messaging pilot in late 2023. Residents who do not answer the phone to confirm appointments receive automated text reminders, resulting in an additional 2,400 appointment confirmations monthly. NYCHA's landmark lead abatement program, TEMPO, also uses text messaging to coordinate hotel relocations with residents during the lead abatement process.
+
+Notably, NYCHA partnered with the federal monitor and others to build comprehensive performance management dashboards that are updated regularly to track performance in key metric areas, such as overall work order volume and backlog, work order production, service level and missed appointment tracking. A data-driven focus on performance results is also reflected in maintenance performance across all trades.
+
+NYCHA maintenance workers have the heaviest daily workload, receiving approximately 98,000 new maintenance work orders per month. Despite the immense workload, NYCHA is completing basic maintenance repairs in occupied apartments in less than four days on average with its onsite maintenance teams. At the same time, since 2024, NYCHA has been inspecting all its public housing apartments each and every year, completing basic repairs during the inspection and creating any additional work orders needed for skilled trade repairs.
+
+Despite apartment inspections increasing the number of work orders created, we have reduced the bureau-based skilled trades backlog by 14% since 2024, down to 282,000 work orders. To put this backlog in perspective, during 2025 alone, work orders were created and were closed or, in limited circumstances, canceled.
+
+Despite these positive trends, some residents at NYCHA experience particularly challenging repair conditions due to the aging infrastructure and compounding repair conditions. NYCHA created new programs to address apartments of high repair needs. Maintenance Cares provides maintenance workers a means of escalating high-need apartments requiring critical repairs directly to management. Since launching in February 2025, 64 apartments with major repair work needed have been resolved through the program, with over a hundred apartments resolved in just the past 30 days alone.
+
+In the fiscal year 2027 budget, the administration invested $20 million in new expense funding to support NYCHA's Critical Repairs Initiative, which will build off Maintenance Cares and enable residents to contact a call center to escalate repairs to address severe conditions. This is an important component of the Mayor's Housing Plan, inspired by the independent ombudsperson call center, an independent court-appointed entity that has worked with NYCHA case management staff to assist tens of thousands of residents with leak and mold complaints.
+
+Speaking of mold, our progress in tackling mold complaints is another key example of the advances we are making. Working closely with an independent court-appointed data analyst, NYCHA has been able to better prioritize repairs and allocate limited personnel and financial resources. Since our various backlog initiatives began in 2022 and 2023, more than 69,500 mold inspections, mold removal, mold-resistant paint, tub enclosures and plumbing work orders have been closed as of August 2026.
+
+Through specialized targeted efforts in 2025, we also rolled out the Mold and Leaks Restore and Renew Program, aimed at adding more skilled trade resources and staffing to further reduce the backlog of skilled trade repairs needed as a result of mold and leaks. The Mamdani administration added an additional $10 million of support to the program over the next two fiscal years and it is expected to help NYCHA expand the program to more sites in the coming years. Approximately 4,000 work orders have been completed via the initiative so far. It started last year and the program's goal is to address 10,000 mold and leak work orders in total over the next two years.
+
+NYCHA has made significant progress over the years to improve conditions in residents' apartments and buildings, a commitment reflected in the improvement in the physical inspection scores for NYCHA properties. HUD's new inspection standard, known as the National Standards for Physical Inspection of Real Estate, or NSPIRE, were unveiled in 2023 and implemented for NYCHA in 2024. As of September 16, 2026, I am pleased to report that our average score has risen to 79.5, up from 32.5 in 2022 and 2023. The number of developments
+
+(00:49:38)
+
+that pass these inspections has also improved, to 89% of developments passing so far this year, up from 15% in 2022 and 2023.
+
+In addition to our operational improvements, NYCHA has carried out several reforms to enhance transparency and accountability in recent years, to improve performance and accountability by ensuring that maintenance and repairs are completed to industry standards in alignment with our existing policies and procedures. Additionally, NYCHA's website now features a range of publicly available data and information. Service requests, individual work orders and lead paint testing progress can all be tracked. Reports are available with extensive information about our properties, capital needs and our progress in meeting the various mandates of the HUD agreement.
+
+I would like to now turn things over to my colleague Heather Back, Executive Vice President and Chief Real Estate Officer, who will discuss work orders at the PACT developments. Thank you.
+
+(00:50:35)
+
+As Dan stated, the key to reducing our need for repairs and enabling NYCHA to complete repairs as swiftly as possible is investing in our buildings' significant capital needs. That is why NYCHA is so focused on pursuing strategies that generate billions of dollars in investment for our portfolio through massive infrastructure upgrades and comprehensive renovations.
+
+NYCHA's major housing preservation and stabilization programs like PACT and the Trust will reduce our building maintenance and repair needs. This will enable us to focus our resources where they are needed the most.
+
+The PACT program transitions day-to-day responsibility of the property to new private property managers. However, NYCHA maintains an important oversight role of these properties in several key ways. NYCHA administers the Section 8 subsidy and ensures that PACT partners comply with specific Section 8 subsidy requirements, which includes inspections and wait list policies. We also conduct site visits to monitor PACT partner activities and respond to inquiries or issues. If performance gaps are identified, NYCHA works with the PACT partner to identify specific issues as they arise and agree on project solutions and work on those plans.
+
+We also analyze work orders for key categories including pests, mold, leaks, elevators and heat on a monthly basis to ensure that they are being resolved in a timely manner. Our monthly reporting indicates that work orders at PACT sites in these five areas are typically resolved within one day, and anyone can view that progress on our website. In 2023, NYCHA launched an online PACT dashboard that displays quarterly data on maintenance and repairs, tenancy proceedings and construction progress.
+
+Partners such as the federal monitor have acknowledged our progress. Although we have made significant strides forward in our work to better serve all of our residents, yielding tangible results in terms of residents' living experience and the conditions of their homes, we acknowledge that there is still work to do to further reduce NYCHA's work order backlog.
+
+With continued transformation as our guide, we will keep innovating and collaborating with all of our stakeholders to enhance our operations and delivery to residents, to ensure that they have the homes they deserve. Thank you for standing with us as we strive to improve residents' quality of life, and we appreciate your partnership and support. We are here to answer any questions you have.
+
+(00:53:14)
+
+Thank you for your opening statements. I guess we will just dive straight into the questions. When it comes to the data, how many Section 9 units did NYCHA have by the end of 2022, end of 2025 and as of today? Thank you.
+
+(00:53:39)
+
+Council Member, thank you for your question. So at the end of fiscal year 2022, city fiscal year, NYCHA had 162,143 units, of which 156,502 were occupied. As of 2026, NYCHA had a total of 105,000 units... 134,605 of which were occupied. As of today, NYCHA has roughly 145,347 apartments, of which 134,531 are occupied.
+
+(00:54:24)
+
+And then for Section 9, what were the open work orders for Section 9 as of today? Thank you.
+
+(00:54:46)
+
+Chair, thank you for your question. I have the numbers from 2024 through 2026. We will follow up with your office with the earlier years. In 2024, the number of open maintenance work orders was 583,101. As of June 30, 2025, we had 596,409. As of June 30, 2026, we had 592,381.
+
+(00:55:13)
+
+And that is for corrective maintenance work orders. What are the total number of work orders open today in Section 9 and in PACT?
+
+(00:55:22)
+
+Respectively. Thank you, Chair, for your question. I am going to first address the Section 9 side. So as of September 21, 2026, NYCHA had 606,583 open work orders, broken down by maintenance, skilled trades, other crafts and vendor work orders. If I give you the breakdown, I am just going to give you approximations just to speed it along. Approximately 17,000 maintenance tickets were open as of yesterday. About 311,000 skilled trade tickets, 8,000 work orders assigned to other crafts, and vendor is approximately 221,300, for a total of 606,583.
+
+(00:56:09)
+
+What is the total number of work orders including NYCHA-wide, including Section 9, Section 8 and PACT, and what would the estimated cost be to resolve this?
+
+(00:56:24)
+
+Thank you, Chair, for your question. I am just going to allow her to give the PACT numbers before we get into that next question.
+
+(00:56:30)
+
+Sure. Thank you again. So we collect work order data on the key pillar areas, so that includes work order information on elevators, heat, leaks, mold and pests. That is work that is created at each of our properties and we collect that information at the end of every month. So the information I have for you is as of August 31. It is very likely that some of the work orders that were opened on the 31st have been resolved and closed, but I just want to make sure that is clear.
+
+So as of August 31, there are 409 open work orders in the PACT portfolio, among the 82,000 work orders that have been created over the past six years. So that is about one work order per hundred units. Again, because our PACT partners are responding and closing or resolving work orders typically within one day, we would expect most of those 409 work orders to be closed at this point.
+
+(00:57:34)
+
+On the question that I posed just now: I want to note that NYCHA does not maintain records of open work orders within the Housing Choice Voucher program. Apartment conditions are monitored through the regular annual Housing Quality Standards inspection, and as such we are not able to estimate the total cost to resolve those work orders for Section 8.
+
+For Section 9, I think the critical number here is our physical needs assessment, which is the $78 billion figure, which will be reassessed in a couple of years. That really is the number to address comprehensively all the root causes and all the physical conditions necessary to address. On average right now, we are seeing work orders created at NYCHA... to put that backlog in perspective, on the Section 9 side we have 606,000 work orders as of today. Work orders are being created and we are addressing just over that number, with some small number of cancellations in there. That level of effort — which is, by the way, the highest level of closing repairs that we have seen in any recent year — really requires us to turn to our physical needs assessment, because we need those comprehensive repairs in order to see that number truly decline. The most recent needs assessment, I believe,
+
+(00:59:10)
+
+was done in 2022, if I am not mistaken, and published in 2023. That is the $78 billion figure, and it will be refreshed in 2027. That is handled by our asset and capital management team, so they would be able to give you that schedule in more detail.
+
+(00:59:33)
+
+All the property management side aside, really the volume of work orders that we are experiencing right now is very high. One thing I think it is important to know is that historically, before two to three years ago, we never inspected every apartment every year. Now we are inspecting 100% of our apartments every year, and when the maintenance worker goes in there they are creating repair tickets because we are finding conditions that we probably have never found before. We are proactively going into apartments, creating the work orders and prioritizing them.
+
+(01:00:05)
+
+Okay, sorry. Thank you. And why have we not seen the number of work orders in Section 9 developments drop if units are moving to PACT?
+
+(01:00:14)
+
+Thank you, Chair. It is a very excellent question, and I actually jumped the gun and got a little bit ahead of myself there. I should have waited for your question. My apologies. So what changed — really what would change — is how work orders were created at NYCHA. We are seeing a historically high number of work orders created because of the reforms under the 2019 HUD agreement and some of the changes. Right now, again, we are inspecting about 140,000 apartments per year, give or take, to do those individual apartment assessments. When the maintenance worker does that, he or she is going to be generating more tickets. So we are identifying more repair needs that previously probably went unreported. NYCHA was in the past only doing 50% of those inspections, and if we did not get into that unit that year it would be four years before the next inspection. Now we are going into every single apartment every single year, and that is generating more work orders.
+
+(01:01:17)
+
+Before I ask this, I want to know what was the average time of completion for work orders in 2026, based on the priority level, including emergency work orders?
+
+(01:01:34)
+
+As of August 2026, the average hours to complete emergency work orders at Section 9 was 11. Days to complete non-emergency work orders was 55.6 days, and that encompasses all trades including maintenance, and maintenance has the top at four days.
+
+(01:01:56)
+
+And how many work orders have been opened this year, at six months, one year, two years? Yes, so I have... thank you, Chair, for that question. So overall, 15% of the work orders that are open right now are between six months and a year. And give me your...
+
+(01:02:22)
+
+Number. 15? Okay, I will give you that raw number. Give me one moment, I have it here. So 108 days to... so we have 93,000 work orders that have been...
+
+(01:02:35)
+
+Give me six months, give me a year, and then give me two years. Okay, so on six months...
+
+(01:02:42)
+
+93,128 work orders are open that are older than six months. And then for one year, over one year, we have about 132,000 work orders that are open longer than one year. The majority of those work orders are for paint.
+
+(01:03:01)
+
+And then what about two years?
+
+(01:03:02)
+
+So for two years, I have the total number for more than one year. I do not have it broken down by two years, but I can definitely follow up with that information.
+
+(01:03:09)
+
+I have it. So that 331,000 is anything older than a year, so it would include anything older than two years. But that is the total number. I do not have that broken out, but I could get a little bit more detail in terms of what those work orders are to give you the breakdown, because that is kind of helpful to me. Let me then move to this question: what is the breakdown for the total parent work orders and total child work orders?
+
+(01:03:30)
+
+Sure. So of the 606,000 — I am just going to say 606 because it is a little bit easier to roll off the tongue — 110,000 are parent work orders and 496,000 approximately are child work orders. And then I would like to give you the breakdown by craft, because that is important. For the breakdown for skilled trades: right now our bricklayers have about 7,800 tickets open. Our carpenters — which we heard about some challenges that we have with carpentry — have about 83,000 open. That is actually down from where it was two years ago by about 4,000 work orders, but about 82,000 to 83,000 open right now. Our electricians have 13,000 work orders open. Our glazers, who handle our glasswork, have 2,700 tickets. Our painters — and this is a critical number — 150,000 work orders open for painters. Plasterers is about 37,600. Plumbers, 1,700. And roofers, 50 — a lot of those work orders were just generated yesterday, but some of them are aging.
+
+For exterminators we have about 11,100 tickets open. For maintenance we have about 16,700 tickets open, and putting that in perspective, we get 98,000 maintenance work orders per month. For the other crafts, which can include lead personnel, it is about 47,000. For vendors — and this is another key number — it is 221,000. That is a big part of the one-year-plus and two-year-plus backlog, the vendor tickets, which I can talk about if you would like. Days to complete for skilled trades or vendor work orders...
+
+(01:05:25)
+
+...increased from 77 in fiscal year 2022 to 130 in the year 2025. What happened?
+
+(01:05:35)
+
+So the days to complete — actually the current year days to complete have come down for trades this year. What has increased is the overall age for trades. So there are two different metrics that we use to analyze time and nature. The first is the days to complete, and that will look at all the work orders closed in a given day or time period and how old those work orders were upon the date that they were completed. So that gives a good perspective of the work that we are getting done — how old is that work that we are getting done.
+
+The second metric that we use to measure time is the age, and that is very important because it incorporates open tickets. The open tickets are aging, and a lot of them are in that one-year-plus category. They age, and there are paint tickets and some other big chunks that have aged for a long time due to resource constraints and also some of the challenges logistically with doing some of that work. For example, floor tiles, where we have about 57,000 tickets open — those age because we need money for asbestos abatement, which the City Council has provided to us and the State has also provided to us, but without that funding and also without relocation we are not able to get that huge number done. But I can give you the days to complete as of today, which is illustrative of some of the improvements of the...
+
+(01:06:57)
+
+...trades. Okay. And when it comes to mold and leak backlog, it peaked at 97,136 in year three of the monitorship and stood at about 62,000 in quarter one of 2026. How many of those 62,000 are older than a year? Thank you.
+
+(01:07:20)
+
+Thank you, Chair, for your questions. So as of September 14, 2026, the total number of work orders for mold and leak is 63,972, of which 21,968 — approximately 34% — are older than one year.
+
+(01:07:39)
+
+Skilled trade crafts account for a total of 58,295 of those work orders, which is about 91%. And how many of the 62,000 are waiting on availability of a skilled trade worker, which is a trade bottleneck?
+
+(01:08:00)
+
+About 58,000 are skilled trade. I am going to come back to my line of questions and I am actually going to turn it to... thank you.
+
+(01:08:12)
+
+Chair, I am CM Elsie. I represent District 8, East Harlem and the South Bronx — the most concentrated area of NYCHA developments in a district. I have a few questions. In your opening statement, in regards to work order reform, you talked about decentralizing the skilled trades by assigning a neighborhood. Thank you.
+
+(01:08:48)
+
+Thank you, Council Member, for your question. So when the transformation plan took effect in 2022 and 2023, NYCHA was moved into — currently now it is 28 neighborhoods. So it was originally 30 and we have since gone down to 28. It is geography, really. So for example, Neighborhood 5 in Manhattan includes East River, Wagner, Jefferson and Wilson — all neighborhoods in close proximity to one another, which reduces travel time amongst the trades. So that was the predominant factor. Some neighborhoods, given where NYCHA developments are located, are a little bit larger, but generally we try to group things as geographically connected as possible. Are those the ones that you just named, because they are all mine? They are the ones in that neighborhood.
+
+(01:09:45)
+
+Yes. So that is Neighborhood 5 Manhattan — I will just use that as an example. So Neighborhood 5 has a neighborhood administrator who oversees the neighborhood, and then each of the four property managers at those properties report to the neighborhood administrator. The neighborhood administrator also has, reporting to him, a neighborhood planner and a neighborhood planner secretary. So they are responsible for scheduling all of the skilled trade work for that neighborhood. And then do...
+
+(01:10:19)
+
+...they all have the same amount of developments per neighborhood?
+
+(01:10:24)
+
+Roughly, yeah. We try to have about 5,000 units altogether in each neighborhood. So each neighborhood — some neighborhoods have three developments, some neighborhoods have five. I think our largest neighborhood is Neighborhood 4 in Brooklyn, which is Van Dyke, Brownsville and Woodson, because it has everything...
+
+(01:10:44)
+
+...so close together, yeah. So you also mentioned in your opening statement that they are making real progress. You mentioned that NYCHA maintenance workers have the daily workload but they are also completing basic maintenance requests in less than four days. What is considered a basic maintenance request?
+
+(01:11:05)
+
+Actually, thank you so much, Council Member, for your questions — excellent questions. So about seven out of ten times we are completing the repair with the maintenance worker. And so what that could be is: I have a leak under my sink, I have an issue with opening my window, I have a stoppage — a common one is a stoppage in my tub or toilet so the water is not going down, or my toilet is running too much. So that would be, quote unquote, a standard repair.
+
+We actually defined simple repairs because when we do our 100% apartment inspections we are actually required to do the simple repairs when we do the inspection, to be convenient for the residents so we are not creating follow-up tickets for the maintenance workers. We also do the Five Alive, so when we go in there we are going to check the CO alarms, check the fire safety sticker, the window guards and some other safety-related items to make sure that the apartment is safe. And those are the core of what we call basic maintenance work. But every trade has certain — what we call at NYCHA — failure class problem codes in Maximo, in the system, of what they are expected to do. And so maintenance workers have probably the largest number of those failure class problem codes because they are responsible for...
+
+(01:12:17)
+
+...and how many jobs do you have in these skilled trades units?
+
+(01:12:21)
+
+Thank you, Council Member, for asking. So as of today we only have 44 vacancies. We have 5,050 skilled trades and currently as of today we have 44 vacancies, which is one of the lowest numbers that we have had for a while. The highest trade vacancy that we have is plasterers, which is about 14 vacancies as of today. Plasterers — we have talked about this at prior Council hearings — it is a unique trade to NYCHA. The amount of work that we have, going outside of NYCHA to find those individuals is difficult. So that is why we started a Plaster Academy. On the maintenance side, I think we have about 30 vacancies as of today. We have 700 maintenance workers citywide and just 30 vacancies, so we are at very low vacancy rates overall.
+
+(01:13:04)
+
+And you have the budget — if you had a line of people outside that were ready to take on that job, you have the budget to pay those people and fill those...
+
+(01:13:10)
+
+...vacancies? Yeah, we are pretty fast. I mean, when I pulled the numbers we had like 60 vacancies and now it is down to 44. It is cyclical because we just also went through what they call a skilled trade pick, where trades were moved around the City based on seniority. It is a thing that we have with the unions contracted. But yeah, and that is also true for our caretakers and janitorial staff as well. So we are able to fill vacancies very quickly with our HR...
+
+(01:13:36)
+
+...department. Can I ask one more question? Thank you. I know earlier in your conversation with the Chair you talked about the inspections that you now do yearly. Are these done by staff or...
+
+(01:13:51)
+
+...maintenance staff, you said? Well, who does the inspections? Predominantly NYCHA maintenance staff. So there is a special work order department — they are trained to perform the...
+
+(01:14:01)
+
+...majority. We did bring in a...
+
+(01:14:02)
+
+...vendor in the first couple of years because we were concerned — we had never before, two years ago, inspected every single apartment. So it was kind of historic for us. We brought in a vendor during the first couple of years to help us, but right now we are really pretty self-sufficient. And we also have a very difficult inspection regime — if we fail our INSPECT inspection we actually have to re-inspect all the units within 60 days. But you are inspecting yourselves. Is there anyone outside of NYCHA who inspects yearly or regularly any NYCHA properties or units? Yes, thank you, Council Member, for the question. Yes, and that is the INSPECT inspectors. So those reports go to HUD, which is a division of...
+
+(01:14:49)
+
+...they are yearly. Yes. If you get a certain score they skip a year, so if you get above an...
+
+(01:14:53)
+
+...80 they will skip one year. If you get above a 90 they will skip two years. And as I said, right now approximately 87% have passed their 2026 INSPECT inspections. I really attribute the passage rate to the apartment inspections, and I think it has been transformative because now we are getting into every unit. And such as the conditions that were described by some of the panelists — which are very unfortunate — we do not want to have folks with missing cabinets, we do not want folks with temporary sinks. So now we can escalate those repairs directly to prioritize them in our very lengthy scheduled process, because we want those folks to go first. We want to better prioritize.
+
+So through the apartment inspections and the really diligent work of our maintenance workers in prioritizing, I think we are starting to see a trend of better scores the past two years. And I think we are doing about 120,000 inspections deep this year, so we have roughly 20,000 a little bit less to go. I think we are going to come very close to hitting the actual 100% this year. I think we are going to see this really be transformative for our...
+
+(01:16:01)
+
+...residents. I will be honest, I do not know how you are hitting those numbers, if I am being extremely honest with what I have been seeing on the ground in some of these apartments and knocking on some of these doors. It is extremely difficult. A large number of our constituent services are...
+
+(01:16:21)
+
+...essentially helping push these work orders. I mean, if I look at my staff's notebooks it is all work order numbers. It is all of them following up, calling, hearing from me every single day. It is a lot of work that our offices are assisting with and helping with, and a lot of it is in-unit issues that we are seeing in apartments. So I am very surprised that these inspections are going as well as they are. I know that you guys are working hard, but it is just a really big issue. A lot of these issues are just prevalent and really creating an unsafe environment for the people that are living in these apartments. It just is. I mean, we see it day in and day out, especially with the amount of NYCHA developments that we have in our district. It is really, really difficult to believe that we would have this high a percentage of passing inspection rates for these dilapidated — in many cases — apartments. I just have to be on record saying that. Thank you.
+
+(01:17:33)
+
+Council Member, I just want to be clear: I am by no means a "mission accomplished" person. I am at a development every day except for today, because I am here, because I want to see the conditions on the ground, what the residents are experiencing, what our staff are experiencing. And it is extremely tough conditions. I visit apartments every week and there are unacceptable conditions. What we are trying to do though is proactively identify those uninhabitable conditions and connect those resources — our trades, our resources — to get it done. That is why we started Maintenance Cares, so any maintenance worker in the City can email me and my team so that we prioritize apartments like what you and your staff see every day. We do not want folks living in those conditions and we try to work with the residents to address that.
+
+The other thing that we are really excited about is the Critical Repairs Initiative, which is going to allow residents through a formalized process to escalate non-mold-and-leak repairs. They can already escalate mold and leak through the program, but missing cabinets, temporary sinks and damaged floors — through the program residents are going to be able to leverage that and come to us. And we have some additional money as well to support us on overtime, which is critical for doing many of these jobs. So we are very appreciative to the administration for supporting the program and we think it is going to be also transformative to push those repairs, because we do not want folks living in those conditions. We want to find them and correct them.
+
+(01:19:01)
+
+I am just saying that it is not our staff's responsibility or job to be continuously following up on NYCHA work orders. It is also not really the residents' responsibility. These things should be working seamlessly. Property managers should have access to work orders from the planning unit, understanding, calling and reaching out — that is part of the job of property management. It should not be on us and neither should it be falling on residents' backs to be constantly calling and following up and figuring out where their work orders are, when a person is coming, if they are missing work. It is extremely intensive on the residents and on our staff in order to do this. I think that there has to be a more fluid method for you guys to be actively going out and following up on these work orders and not the other way around. Understood. Thank you, Council Member. Thank you.
+
+(01:19:56)
+
+Council Member, we are also joined by CM Ossé, who has joined us via Zoom. All right, I guess I am going to move forward in my line of questions. Understanding Maximo — how do work orders typically specify response times for repairs in the Maximo system, including for emergency and non-emergency work orders? And also, how does Maximo represent the required practices for maintenance workers to follow up on specific repairs? Thank...
+
+(01:20:40)
+
+Thank you, Council Member, for your question. Just bear with me for one moment. I should say thank you, Chair, for your question. We have nine priority levels for work orders, and I will start with the highest priority and move down the group.
+
+We first have what we call a priority nine work order, which is a "super hazard" work order. An example could be an elevator out of order with a passenger stuck, or a gas leak. The response time for priority nines should be within one hour, which is what we are targeting under our procedure manual.
+
+For hazards, the next classes would be a class eight, or a hazard, which are really pretty rare. Work orders that are priority eight — we are talking about sidewalk shed violations or rubbish violations by the Department of Sanitation.
+
+The next category is very important, which is priority seven, which is a 24-hour response period. This is deemed a critical work order, but we basically on a day-to-day basis define it as an emergency. The key thing for priority seven is a leak from above. So leak work orders would be priority sevens, stoppages priority sevens, detectors that are not working, exit signs — but the biggest one that we have focused on really intensively is the leaks and similar flooding conditions.
+
+Priority six is really reserved — the predominant one is mold and mildew. That was a category that was used under the Baez case. So mold is a priority six work order. Priority five is stoves — again, not really seen that much. The other big category, if I skip to it, is priority three: painting, a non-emergency type repair.
+
+So Maximo prioritizes every work order. The dashboard that I actually have up right now in Maximo — you can refresh it any minute and it will pull up any new ticket that has been created under those priority codes. Our superintendents and assistant superintendents — one of their primary jobs is to monitor Maximo throughout the day to see what tickets are coming in and then assign them to maintenance workers based on their priority. So that is what Maximo makes possible.
+
+(01:23:24)
+
+And when it comes to supervision represented in Maximo, how are these supervisory inspections of...
+
+(01:23:34)
+
+Work orders logged in? So the supervisory inspections are logged through Maximo. It is a different ticket — it is an inspection ticket called an ION ticket. We have done a lot of work. There are different types of inspections depending on different types of work orders. Over the past couple of years we have worked with the monitor to greatly increase the completion of skilled trade supervisory and special work orders. It was in the low 40s and 50s. Now we are up in the high 70s and 80s percent for completing the supervisory inspections, and that is actually completing the inspection, going into the apartment and attempting it.
+
+On the maintenance side, we do work orders for mold and leaks. We do quality assurance inspections as part of the Baez procedure, and that applies to a large group of work orders. We are actually rolling out a new inspection work order for maintenance workers for the apartment inspections, so the superintendent will get a certain number of work orders assigned to them through Maximo on their handheld, and they will have to go out and check the inspections that were done by the maintenance worker to make sure they are being done properly.
+
+(01:24:45)
+
+OK, and when it comes to notification protocols represented in Maximo, how are notices to...
+
+(01:24:55)
+
+Residents logged? So Maximo does have a communication log function in it. Notices should be given in advance of the work order. They are auto...
+
+(01:25:04)
+
+Printed and delivered to the resident, and in some cases emailed and mailed to the resident, especially in advance of skilled trade appointments. For maintenance tickets where the turnaround time is so fast, we are really contacting the resident and letting them know that we are coming, right soon after the ticket was created. But we also in Maximo are able to call the resident if they have an updated phone number in the Siebel system. Maximo links to Siebel, so we can actually call the resident and that logs into the communication log in Maximo. Missed appointments has been a big focus for us on skilled trades.
+
+(01:25:43)
+
+OK, and how does NYCHA use the data from Maximo to assess work orders for non-conformance? I mean, my staff and I review Maximo every single day — from my position down to the borough VP to the skilled trade directors, et cetera. And when it comes to vendors, how does NYCHA use the data and information from Maximo to assess vendor issues?
+
+(01:26:10)
+
+That is still an area that we need to develop more and work on. We are working with the monitor on a better vendor management protocol. We do have a statement of services that has to be signed. Our superintendents are overseen by our neighborhood contract managers, which arose a couple of years ago from the scandal that we had with recommendations. But data is definitely something that we could leverage more on the vendor...
+
+(01:26:32)
+
+Side. I just wanted to note that vendors are predominantly, from my world, paint and tile — that is the vast majority of it. And how does NYCHA, when it comes to the performance indicators, get the work order data? Yes. Has Maximo improved such that NYCHA can determine work order trends or asset needs based on work orders in the system? We do use it for those assessments. From my world, on the property management and healthy home side, we use it heavily for lead abatement planning and protocols. We also use it for the building line initiative protocols to identify lines that have high numbers of leak work orders to prioritize them for repair.
+
+(01:27:25)
+
+OK, and when it comes to work order closure...without repair, in 2...
+
+(01:27:34)
+
+2016, after the Butler House fire, DOI inspected 240 apartments in five developments to check whether the maintenance staff were inspecting and reporting safety items on work orders, and they found that staff had falsified documents claiming to have performed safety checks they had not performed. What controls did NYCHA put in place after the report to confirm that a work order entry matches the condition of the apartment?
+
+(01:28:12)
+
+Thank you, Chair, for that question. That report predates my time at NYCHA a little bit, but I can talk about the HUD agreement. I was the chief compliance officer for NYCHA for the first few years of the HUD agreement. We have put in numerous controls in Maximo to prevent deceptive practices, including photograph requirements and labor logs. In addition, we have a quality assurance team, a compliance team and an environmental health and safety team that also follow up on work orders, check on conditions, and if any malfeasance is found — everything is timestamped. Everything is addressed in Maximo, and as far as I understand, there is time and location verification as well.
+
+(01:28:54)
+
+Location — yes. Each work order is somewhat different on location. Yes, everything is tied to an apartment, a string, a room in the apartment.
+
+(01:29:04)
+
+So how many closed work orders did NYCHA verify by physical inspection in 2025, and what share were found to be inaccurately reported?
+
+(01:29:20)
+
+Thank you, Chair, for that question. I do not have that number for 2025, but I do have the number for the first quarter of 20...
+
+(01:29:28)
+
+26. You can get us the full numbers, and then you can give us the number for 2026.
+
+(01:29:35)
+
+If I recall correctly from my notes — about 3,500 inspections were done. Quality control inspections were done, and about 3% were found to be unsatisfactory, and that would then require a follow-up by the property.
+
+(01:29:49)
+
+In 2020, the DOI report reported 163 lead abatement work orders with false signatures of an uncertified supervisor, and said it believed the true number was much higher. Can a work order be signed or closed under a supervisor's credentials by someone other than that supervisor?
+
+(01:30:21)
+
+Thank you, Chair, for your question. I am familiar with that, and much of my time at NYCHA has been building the lead paint program. The inspections that you are referring to — I believe the DOI findings were things that were submitted for apartment exemptions through the department exemption process. They were not really associated with Maximo. What we have done in Maximo, though, is for lead abatement we now have strict closure requirements. All of the required reports must be uploaded by the NYCHA staff and the vendor and verified before they can be closed out. We are also audited every six months on lead abatement by our environmental health and safety team, and we are under the federal agreement, which allows the monitor full access to our lead abatement files.
+
+(01:31:07)
+
+Since 2020, how many employees has NYCHA disciplined or terminated for falsifying work order entries?
+
+(01:31:18)
+
+Chair, I apologize — I do not have that data broken down by year, but that would be something we would have to follow up on.
+
+(01:31:24)
+
+Understood. Yes. How many referrals has NYCHA made to the DOI Inspector General for suspected work order falsification since 2020, and how many were...
+
+(01:31:39)
+
+Substantiated? Thank you, Chair, for that question. I do not have the answer, and some of that would have to come from DOI, but I will say that we...
+
+(01:31:45)
+
+Work with... How many complaints of falsified or improperly closed work orders did NYCHA receive from residents in fiscal year 2025, and how many of those were investigated?
+
+(01:31:58)
+
+Thank you, Chair. I do not have that number today. That would be from our compliance department, and I can provide those numbers.
+
+(01:32:04)
+
+Do PACT partners have any obligations to report suspected work order falsification to NYCHA?
+
+(01:32:12)
+
+I am going to ask Beck to answer this question. So PACT partners are reporting to us on a monthly basis in those different pillar areas, again.
+
+(01:32:22)
+
+We are tracking work order resolution through that reporting process. Such reports...
+
+(01:32:29)
+
+Have you received? We receive a report from every team every month of the...
+
+(01:32:34)
+
+Year. How many reports have you received?
+
+(01:32:36)
+
+So we started collecting reports for the projects that had been closed starting in 2020...
+
+(01:32:44)
+
+One. Have you received any reports on falsification?
+
+(01:32:47)
+
+No. We do not receive or collect reports on falsification from the PACT partners. Correct.
+
+(01:32:57)
+
+In 2022, NYCHA launched what we call Operation Mold Cleanup to close out mold and leak tickets left from the COVID period by contacting residents by email and phone. How many tickets were closed that way?
+
+(01:33:13)
+
+So that is not quite the full definition of Operation Mold Cleanup. Thank you, Chair, for that question. We have a verification program that we do with our independent data analyst, which is a court-appointed analyst under a federal court. In that program — which is a different program — we have reached out to 11,000 residents. Approximately a third of the work is no longer needed, and so those — I think it is roughly around 3,000 — those tickets were closed with the oversight of that independent data...
+
+(01:33:51)
+
+Analyst, which again reports to the federal court. Another approximately 7,000 to 8,000 still required work, and so those would be scheduled. Operation Mold Cleanup was an effort where we looked at backlog cleaning tickets and tub enclosure tickets that we needed to address, that were aging and were contributing to significantly poor conditions in units. Through that effort, which continues today, we addressed over about 35,829 tickets through Operation Mold Cleanup to expedite and prioritize certain mold work. Overall, since 2022, we have closed out 678,752 mold-only work...
+
+(01:34:35)
+
+Orders. So the monitor's first report in 2019 found tickets closed without the repair being made, and closure rules changed after that. Is today's open work order count a true picture of the conditions, compared to the count in 2019?
+
+No — I do not think so. That is an excellent question, Chair. I think things have dramatically changed since 2019. The closure rules, especially around leak and mold, are some of the strictest closure rules — if not the strictest — that NYCHA has. They cannot be closed unless we physically get into the apartment and verify the work. That is why that 11,000-unit pilot program that we did with our independent data analyst was so important, because it was overseen carefully and was trying to look at some of these older tickets. Sometimes folks get frustrated when we show up to verify and have to get into the apartments to verify — like a paint ticket. A significant portion of the open mold and leak tickets are for painting, and we have to get in there and verify them.
+
+So the rules have dramatically changed, which makes it harder to bring the backlog down, because to actually close a work order we have to get in there and verify it — which is a good thing. Definitely not complaining. It is something that keeps us aggressively trying to work and to get into folks' apartments to see if the work is needed.
+
+Does NYCHA publish work order closures without repair separately from repairs made? Thank you, Chair, for that question. I do not know if we do. We could — we have that data and are happy to share it. We could in 2026. This is not the full picture, but why is it not published?
+
+(01:36:21)
+
+That I do not know, and I do not know if it is or it is not. I honestly do not know if it is public, but it certainly is data that we have. We have provided — I do want to note — to the Oversight and Investigations Division of the Council, we have provided work order transactions and all of the underlying data to the OIG at the City Council, to begin to understand some of the closure...
+
+(01:36:48)
+
+Requirements. And besides the monitor, who outside of NYCHA verifies that a ticket was repaired in Section 9? Thank you, Chair, for that question. On the Section 9 side, it would be the federal monitor, DOI and then the three compliance departments developed and created by the agreement.
+
+(01:37:11)
+
+And on the PACT side, who...who...
+
+(01:37:14)
+
+Inspects? Well, under the PACT program we are under the same requirements — for most of them, the same requirements as Baez. So for mold and leak work orders that are reported to NYCHA, those are then shared with an independent mold analyst and the independent data analyst. The independent mold analyst will go out to inspect closed leak and mold work orders on a monthly basis, and they are required to... The independent analyst comes from...
+
+(01:37:46)
+
+It is a court-appointed independent analyst. Yes.
+
+(01:37:49)
+
+And those are done on completed work orders, and they have to complete a statistically significant number of apartments each month. When it comes to getting the expansion and inspection pursuant to Local Law 120 of 2021, NYCHA must take in repair complaints. How many 311 calls or complaints were sent to NYCHA in fiscal year 2025, and how many became work orders?
+
+(01:38:22)
+
+Thank you, thank you, Chair...
+
+(01:38:23)
+
+For that question. So NYCHA does not track the number of calls to 311. They would treat them like any other call and they would create a work order based on that. I do want to note that the independent mold analyst is also another inspector at Section 9 developments, and they have been inspecting us. When it comes to PACT sites, if a...
+
+(01:38:45)
+
+Tenant finds a property manager to be unresponsive and calls 311 about a water leak...
+
+(01:38:55)
+
+Yes. So residents at all of our PACT properties can request an inspection. To my knowledge, an inspector would come out and review the conditions. If a violation is issued, the PACT partner is required to open a work order for that, and we will collect that information in our monthly reporting. That information is then independently verified by the independent mold analyst. I will also say that in addition to 311, residents at PACT sites can also call NYCHA and request a separate HPD inspection if they are having issues with work order resolution. And if a NYCHA tenant calls about a water leak, thank you, Chair, for that question — HPD would refer to NYCHA to investigate.
+
+(01:39:43)
+
+So how would a NYCHA tenant get an HPD... I am sorry, I did not mean to speak...
+
+(01:39:51)
+
+Over. Thank you, Chair, for that question. So HPD inspects cases that come through the 311 system, so they are assigned to NYCHA. Actually, under a new state law, a data download of HPD's inspections of NYCHA is sent every day now. Before, we used to only get paper records and had to manually enter it. It was just up until last summer that we now get a daily download, and that creates the work orders — or basically creates a work order off of the HPD inspection. OK, and...
+
+(01:40:38)
+
+Once HPD inspects and writes a violation, does NYCHA make the repair? Does the tenant have to go back to housing court?
+
+(01:40:49)
+
+Well, we should be making the repair in accordance with the stipulation in housing court. So we have a court-ordered repairs procedure for how to handle those HPD-generated repairs, where we basically have to work with the residents on access dates, or if the resident so stipulates, have the access dates put forth in the stipulation.
+
+(01:41:09)
+
+Can you provide data for fiscal years 2022, 2023, 2024 and 2025 on housing court cases initiated by tenants to address unresolved maintenance conditions, including: the number of HPD violations associated with those cases; the number of violations that were corrected by NYCHA after the court filing; and the number of violations that remained unresolved until a court order or stipulation or housing court
+
+(01:41:42)
+
+intervention was required. Thank you, Chair, for that question. I have part of that data today for the past year. We will have to follow up on the earlier years, but I can give you the data
+
+(01:41:52)
+
+from September 2025 to present. OK, if you can just... yes, yes, yes. You have 2025.
+
+(01:42:05)
+
+OK, so we have... there were 551 orders to show cause commencing an HP case received by our law department. There were 5,312 total violations received, and that could actually include a little broader scope because some violations might come through nonpayment cases where a court might also order an inspection in a nonpayment case if there is a cross-claim for open repair tickets. And then roughly about 31% of the violations have been closed based on our work order system records, and we are still working. This is a new process — it just came about — so we are still working with HPD, and that number is subject to change, but that is where we are at today.
+
+(01:42:54)
+
+Well, we now know that violations from those inspections basically only started showing up online, as I believe, since 2025, after the settlement with New York... to become
+
+(01:43:15)
+
+transparent. Thank you, Chair, for that question. I was not involved in that lawsuit so I cannot speak to that or its outcome. We strive to be transparent on these matters and more transparent. A lot of the issue might be data, and now we have much better systems. As I said, just last year we were getting paper copies of these reports, which are obviously not sufficient to properly
+
+(01:43:42)
+
+track. Would you object to quarterly publishing of what is found? Thank you. We welcome anybody to come and check out our buildings. We want our residents to be safe and we want to make sure that we are transparent. Well, thank you for
+
+(01:44:06)
+
+that. Given NYCHA's history, why should it be the only landlord in the city that inspects itself?
+
+(01:44:14)
+
+Thank you, Chair. I would just say I cannot answer that from a policy perspective, but what I will say is we do not only just inspect ourselves. We do have inspections that are from outside entities. We also have the federal monitor and the independent mold analysts and other outside entities.
+
+(01:44:33)
+
+NYCHA should be open to having apartments inspected and to publishing what it finds. Thank you, Chair, for that question. That is definitely something I will take back and speak to the NYCHA leadership about.
+
+(01:44:47)
+
+Has NYCHA had any conversations with HPD about creating a process that gets a tenant an inspection and a repair without having to make two trips to housing court?
+
+(01:44:57)
+
+Thank you, Chair, for that question. I am not familiar with any such communications, but I know that we have been talking a lot about this new daily data feed and this new process that we are engaged in.
+
+(01:45:09)
+
+OK. When it comes to the targets for work orders and open work orders, what does NYCHA consider a manageable number of open work orders? You can answer that.
+
+(01:45:24)
+
+Question first: what do you consider, as a manager, a manageable number for open work orders?
+
+(01:45:32)
+
+Thank you, Chair, for that question. It is an interesting question. Right now we are meeting our annual demand of the work orders that are coming in. We also have some new initiatives that I am very happy about, particularly the MLR that allowed me to hire 47 new trades to target mold and leak work orders over a hundred days. I am also very happy with having programs such as FEMA and CARE for critical repairs. I cannot give you a number — obviously we want work orders to be as low as possible — but when you are receiving 200,000 work orders per year, that is the number that we have to manage. That is the number that I am asked to manage, and so that is what we are going to continue to do to the best of our ability. Thank you for that.
+
+(01:46:27)
+
+Work order reform was launched in 2022 to allow residents to schedule trade repairs through the neighborhood planner more efficiently. Under the old system, residents were prevented from scheduling the next step in the repair process until the previous step was completed. How many developments are operating under these reforms today, and how were the days to complete repairs in those developments affected compared to other developments not operating under these reforms?
+
+(01:47:05)
+
+Thank you, Chair, for that question. All of our properties are operating under the neighborhood planner model. We have 28 neighborhood planners assigned to the 28 neighborhoods with the same protocols and the same resources. Repair times for our trades have improved and missed appointments have significantly dropped. Missed appointments are now down to our lowest level — I would caution to say ever — at 2.7%. We are only missing fewer than 500 appointments per month out of the 17,000 scheduled appointments. A lot of the work is also being completed early. We do give long repair times because we only have a certain number of trades and a certain number of hours in a day, and we do have an overtime budget as well, but we have to sequence things in accordance with how long a job takes. Each job has a job plan and we have to schedule things accordingly. For example, we have 37,000 open plaster tickets. We cannot schedule them all next week because we just do not have enough plasterers — we have 245 plaster teams, I believe around that — so it is
+
+(01:48:27)
+
+just a normal wait time. Right now I looked at this and it is about seven months on average — that is how far out we are scheduled. But what we do is, sometimes folks are not available for their appointments. If a resident is not ready, if they say they are ill or whatever, that carpenter does not just sit on his hands for the rest of the day. He goes and tries to find another job. So the average is seven
+
+(01:48:56)
+
+months wait time. In an ideal situation, how long would it take to get to a tenant?
+
+(01:49:06)
+
+Obviously I would like to get those repairs done as soon as possible. Three or four months would be ideal. Obviously everybody wants their repairs done tomorrow, and I am sure that when I say three or four months folks are going to say that might not be reasonable. But what we also try to do is look at prioritization factors. Is it something urgent that we have to push to the top of the priority schedule or use overtime to address? Also, in a situation like that, if a ticket is put in with a date maybe seven months out for completion of a kitchen — would you say that is acceptable? Thank you, Chair, for that question.
+
+(01:49:59)
+
+It does not sound acceptable, but it is the reality of where we are with the repairs that we have today and the number of trades that we have. We have 81,000 carpenter tickets, so we have to come up with a fair way to prioritize those resources in a systemic way. Every day we are scheduling our carpenters, and every day our carpenter backlog has actually come down by about 4,000 tickets. We have also changed the way we were ordering cabinets so folks are not waiting for cabinets. It is easy to throw numbers out, but on the ground this is not
+
+(01:50:33)
+
+happening. Folks are not seeing it — they are not actualizing these numbers that you are throwing out and the quote-unquote responsiveness of NYCHA. We saw this in the pre-panel earlier. Had we not interceded, these were situations where one was close to two months. So I mean, listen, the reality is the system is broken and it does not work.
+
+(01:51:14)
+
+No, I have to... I respectfully disagree. We are getting a lot of work done and there are unfortunate cases, but we are also completing work early. In a lot of instances we have to give folks a scheduled date. We cannot bump appointments because that is bumping somebody else's appointment. We want to make sure that we are being fair and equitable in distributing appointments. One thing I do want to note on the record is that through the program that we are trying to create, holes in walls and temporary sinks is one of the items that we are going to be looking to push faster. When you say pushing faster, what it means is we do have a number — we were allocated certain money for overtime — and the work has to be funded. Trades do not work for free. It costs money. We spend $22 million a year in carpentry materials at NYCHA.
+
+(01:52:16)
+
+So "faster" means how long would it take once a ticket is put in to get the work completed? Every work order past a certain point — I want to know what "faster" is. Is it two months, three months, seven months? We are talking about carpentry. It could be carpentry. So for carpentry to get that faster — number one, what does faster look like? You can break it down by whatever the work order is. What does faster look like?
+
+(01:52:54)
+
+We are not going to be able to cut it to 30 days. We are not going to be able to do that right now. Let me just pull up my numbers. Can you cut it below seven months? Can you cut it below seven months?
+
+(01:53:08)
+
+So one thing we have to go back to is our overall physical needs assessment for the property, and then we have to look at the staffing and the number of orders. Let me ask you another question. As of 2013, NYCHA had approximately 423,000 open work orders. To address the backlog, NYCHA hired 565 additional employees and assigned them to repair work. By 2014, the number of open work orders had reportedly fallen to approximately 106,000. Although there were some reports that raised concerns that some of this reduction had resulted from work orders being closed without repairs being completed, the reported decline was still substantial. If NYCHA were provided with sufficient resources to hire 565 workers today, could it reduce the current work order backlog to 200,000 open orders within a year?
+
+(01:54:20)
+
+Thank you, Council Member, for that question. I think that is all theoretical, which is fine sitting in this room here today. But one point that you made that was very important from that report was that there were a lot of concerns about the quality of that work. One of the things that we have tried to change is not allowing staff to just close out tickets simply to get the backlog down or to look good in a press release. We want to make sure that we are actually doing the work. We are closing out more than 70% with labor for our repairs right now for the trades. We want to make sure the work is done and verified. Just closing out tickets based on loose work order rules is not the way to make NYCHA better — it simply is not.
+
+We have added trades where that is reasonable and where we actually have funding tied to it in a program. The key one that we added is the MLR — 47 trades directed and managed by the Office of Mold Assessment and Remediation to address aging, mold and leak work orders over a hundred days. We have knocked down work orders at Whitman, we have knocked down work orders at Ingersoll, Red Hook East, and now we are working at Baruch, Wagner and Jefferson. We are using data to target those sites with our monitor. We have done those initiatives, but everything has to be scaled and reasonable, and the Council has been very generous in providing resources not only for that program but also for others as well.
+
+We know there was a drastic reduction between 2013 and 2014. Those reductions resulted at least in part from underreporting or the premature closure of repair requests. Was that drastic reduction because of premature closure of repair requests?
+
+(01:56:15)
+
+Thank you, Chair, for that question. I cannot speak to that because I did not work at NYCHA back then. I came in 2019 as the Chief Compliance Officer, and the reason why I was hired at NYCHA was because of efforts to close out work orders without doing proper work. We have tried to change that, and part of the way we have changed that is by strengthening the work order closure rules and by increasing how work orders get created — most notably through the apartment inspections and through how we work on lead and mold tickets, so they have to be properly created. Again, I do not want to get into a program where I am only trying to reduce the work order numbers. I am here to address NYCHA as it stands with the $78 billion capital need. And when it comes to headcount
+
+(01:56:59)
+
+by trade, what would it take to maintain a work order backlog in NYCHA's Section 9 portfolio? We are maintaining the backlog because it has not increased, and that is with our 1,700 skilled trades right now. I can give you a breakdown by craft if you are interested, or follow up with that.
+
+(01:57:18)
+
+If you can get us that, and also what it would cost to get the work order backlog from where it is now down to 200,000 and maintained over a five-year period. The Chair will definitely follow up with that. But I do want to note one thing that is very important: work orders are not just numbers on a report. Work orders are actually physically doing the work. The most important thing, for example, that we have started over the past couple of years is the relocation programs, because a lot of work that we have to do — most notably, as a gentleman on the panel just said earlier, asbestos — requires hundreds of millions of dollars in funding. Not only in vacant apartments to make them asbestos-safe and remove the old tiles, but also in occupied apartments. What that requires is a resident making a significant change. They have to make a decision to move either to a hotel or to another unit while we do those significant repairs. We want to get repairs done and we are looking for funding to do that, but logistically a lot of this is also working hand in hand with residents. I am on the ground every day, as you know, at properties every single day to make sure that we are pushing these cases as quickly as possible. But there are logistical
+
+(01:58:44)
+
+challenges. All right, so we are going to move on to transparency. How has the conversion of the 30,000 Section 9 units to PACT impacted overall work order performance?
+
+(01:59:05)
+
+Thank you for the question. It is a little difficult for us to answer just because, again, on the PACT side we are monitoring work orders as they are resolved in those key pillar areas, and the work order data and information that we collect on the Section 9 side is vastly different and much more detailed. A lot of that is because we are in an oversight role as the section administrator.
+
+(01:59:36)
+
+Before the PACT
+
+(01:59:37)
+
+program. I think fundamentally we are able to address the full capital needs that are needed at the developments when they convert through the program. That is $10 billion in investment that we have been able to make across the City over 32,000 apartments. We can see from the data in that portfolio, from the work order data that we collect, that there are significantly fewer work orders opened — again, a subset of key pillar areas. This year so far there have been 16,000 work orders opened across the 32,000 apartments, so that is about 51 work orders per hundred units, or one work order for every two apartments — a much smaller data set than the NYCHA Section 9 data set.
+
+(02:00:31)
+
+And I do not think it is fair to compare those two, as they are just fundamentally on different footing. I am going to ask the question anyway: are PACT developments outperforming work order response times at Section 9 developments?
+
+(02:00:47)
+
+I can speak just to the work order response times for the PACT property managers, and the vast majority of them are responding within the required response time.
+
+(02:01:02)
+
+Outperforming. I do not think that is a fair comparison to make. OK. The NYCHA metric shows only one year of work order data for Section 9. Why does NYCHA not publish that data from 2019 to today?
+
+(02:01:20)
+
+Thank you, Chair, for that question. I will have to go back and check to see what the policy decision was, but we do have other data available. As I said, we have no issue with being transparent and sharing work order data. For example, we have just shared work order data
+
+(02:01:37)
+
+with the Council that they are free to go through. We also have a lot of other data portals — for example, on lead and on mold — that share information about the different programs that we have on a program basis. And when it comes to
+
+(02:01:54)
+
+PACT data being published, when will the PACT data be published at the same level of detail as Section 9?
+
+(02:02:04)
+
+Thank you for that question. So in 2023 we started to publish the monthly reporting data on our website on a quarterly basis, and that is because we collect it on a monthly basis from each of the properties. It will not compare at the same level of data or detail as the Section 9 side, because we are not in that property management role. We are collecting information across a number of different private property managers across a number of different properties, and so what we do publish is the most standardized data set for that entire portfolio.
+
+(02:02:46)
+
+Can you describe NYCHA's oversight process for assuring compliance and performance of work orders for the PACT developments? Are our PACT partners required to follow the HUD and the Baez Consent Decree standards for work order response times?
+
+(02:03:06)
+
+Yeah, thank you for that question. I certainly can, and just to back up a little bit, the requirements and oversight that we have for reporting from our PACT partners go above and beyond any federal requirement and above and beyond the requirements from the RAD program. We monitor their performance as private property managers in a way that no other private property manager is required to report to a City agency. So it is a very unique circumstance where we are collecting this information on their performance, but we do it because we know it is important for the program to perform and live up to its expectations. We have these very important pillar areas, and that is why we have decided to monitor performance and resolution in those key areas to make sure that our teams are responsive.
+
+So we have a couple of different ways we do that. One is the reporting information that we collect from teams on a monthly basis. Our housing department also helps oversee the administration of the program. They conduct those HUD inspections to make sure that the apartments are in good repair, and our compliance department also monitors work order closeouts and does on-site visits of our partners. All of this is to ensure that they are meeting the expectations that are outlined in the control agreement and in our ground leases. We also review all of their capital plans and their mold capital plans to make sure that the upfront capital investment that is done at conversion is getting to the root as it is needed.
+
+So our partners report to us on a monthly basis. We have never missed a report from a partner, and then we go through a data integrity exercise where we review and ensure that all the information shared in that report is complete. Information is given back to our partners in real time to share any errors or data fixes that need to happen. Talking about the Baez agreement for the PACT properties, this is where our monthly reporting goes to an independent mold analyst, and that independent data analyst — those are court-appointed analysts, so that is why they maintain their independence. Those work orders are then inspected at each property. There is a statistically significant number of inspections that are required to happen each month, and they are ensuring, just as you were describing earlier, that the work that is completed for each of those work orders is actually completed. They provide reports on those inspections to the Special Master.
+
+(02:06:08)
+
+All right. We were joined by CM Julie Won — let us get that on the record. Does NYCHA require any specifications as to the kind of software the PACT partners use to manage work orders?
+
+(02:06:26)
+
+Yeah, that is a very fair question. I think each of our PACT partners makes their own business decision on the software that they want to use, and as long as they are able to communicate work order closure data to us and conduct their monthly reporting, we do not determine or require a specific software.
+
+(02:06:50)
+
+Does NYCHA require PACT partners to follow specific work order closeout procedures? Yes. Each of our work order areas has a timeline associated for resolution, and those are set by the pillar areas and are aligned with NYCHA's standards. When it comes to the percentage of work orders resolved on time at the PACT developments, the average I believe is around 74.5% of the time. This was in the first part of 2025, compared to 87.5% of the time in 2024 and 90.75% in 2023. Are our PACT property managers struggling to address work orders as more and more developments are converted?
+
+(02:07:49)
+
+Thank you for that question. I think there are a couple of layers to that. If I can just give some context — I think what happens, or has happened over the past couple of years, is the portfolio, the number of units that have converted, has grown. So now we are up to over 32,000 apartments. All of those apartments, when they convert into the Section 8 portfolio, have a significant amount of capital needs, and there is an immediate influx of work and work orders that are handed to the property manager while they are in the middle of completing the capital repairs. So repairs are happening essentially at the same time they must resolve the work orders, even while they are trying to work through an entire replacement of the boiler system. So sometimes the repair and resolution time is not met, certainly, and you can see online there are percentages where the on-time resolution is not 100%. That is because they are working through those larger capital investments at the same time.
+
+(02:09:03)
+
+When a development is converted to PACT, once the conversion takes place — and this is not after all the leases are assigned or you meet your threshold for the amount of leases that need to be signed — who is responsible for the day-to-day operations and for the existing repair issues during that process leading up to when the rehab starts?
+
+(02:09:33)
+
+So when we select a partner team, we call that pre-development, and that is a process that we are doing with the resident leaders at each of our sites. They are working with us to interview and select property managers. So during pre-development, NYCHA is responsible for maintaining the property. NYCHA is responsible up until the day that we convert, and immediately the next day is when the PACT partner takes over. Until the day you convert, meaning at the first community engagement meeting...
+
+(02:10:09)
+
+There is the actual signing of the leases. There is a conversion date for each of the properties. So how far is the conversion date from the community engagement meetings?
+
+(02:10:23)
+
+It can vary based on the development and the amount of engagement work that happens, but we call that period the pre-development period, the engagement period. That can last 12 to 18 months, or it could last up to two years. During that 12 to 18 months or two years, NYCHA is responsible for maintaining the property. Correct. Okay.
+
+(02:10:51)
+
+Does NYCHA have a process to track work orders that have been open for longer than 100 days at the PACT sites? How many such work orders are there at PACT sites currently in 2026?
+
+(02:11:08)
+
+Thank you for that question. We can track that. Let me just look at this really quick. So through the end of the last reporting period, we have 65 work orders that have been open for more than 100 days across the PACT portfolio.
+
+(02:11:35)
+
+Across 32,000 units, so it accounts for less than half a percent.
+
+(02:11:45)
+
+When it comes to work orders submitted to the OSC center compared to those that are not, can you ask that one more time?
+
+(02:12:01)
+
+For work orders submitted to the OSC center compared to those that are not — both...
+
+(02:12:16)
+
+Both PACT and Section 9 have access to the OSC. What we have seen on the PACT portfolio side is that there is pretty low intake from PACT properties. So in the last quarter of reporting, there were only 39 tickets opened for the PACT portfolio.
+
+(02:12:43)
+
+And of those — you said 39 tickets total — was that in the last quarter, the last complete quarter? And do you have any data going back?
+
+(02:12:58)
+
+We would have that data and we can get that to you. It is reported to the Special Master at every quarterly report. But again, that 39 tickets is less than 1% of the entire PACT portfolio. We have seen pretty low usage of the OSC across the PACT program, and we have tried to ensure there is a lot of outreach and information sharing about the OSC. We call tenants directly who have had mold and leak orders.
+
+(02:13:35)
+
+Who is responsible for promoting and advertising its information to the residents in PACT? The OSC, along with our partners and along with NYCHA — I think it is a shared responsibility. So how do completion rates for work orders submitted to the OSC compare to those that are not? That is a great question. I do not have that analysis in front of me but we can look into that. How have recent investments in the Critical Repair Initiative improved responses to work orders? I think I will turn that over to Dan. Thank you.
+
+(02:14:16)
+
+Chair, we are still engaging with stakeholders for the rollout of the program. We just received the funding approximately two months ago. We are working with stakeholders now to build out that program and hope to launch it very shortly. So we have not seen an impact yet because it has not started.
+
+(02:14:35)
+
+Is there any data that shows the amount of units that would qualify or that would fall under it? There is not. There is our work order data, so some subset of existing data that you have for work orders — what percentage, or what is a raw number that would qualify?
+
+(02:14:59)
+
+I cannot give you that off the top of my head. I apologize. But from the numbers that we have been talking about, a lot of the program is going to be based on folks who have been waiting too long for cabinets, folks who have been waiting too long for floors, and things that need additional coordination and effort to get done. So the program again was building off of programs that we were already doing, like Maintenance Cares, to prioritize these urgent repairs.
+
+(02:15:26)
+
+Missing cabinets — there have been no work orders submitted to this...
+
+(02:15:31)
+
+It has not launched yet. It has not launched. Okay, it has not launched yet. And for fiscal year 2027...
+
+(02:15:38)
+
+...the budget added $2 million over the next three years to support the purchase of elevator door parts and staffing. How many elevators have been repaired using this funding?
+
+(02:15:50)
+
+I am going to refer this one to EVP Keith Grossman, who oversees elevators and who is walking up to the table right now. He will give you...
+
+(02:16:17)
+
+Sorry, I was actually helping a resident. So as we take your testimony today, it is not a tough question. The fiscal year 2027 budget added $2 million over the next three years to support the purchase of elevator doors and parts. How many elevators have been repaired using this funding?
+
+(02:16:43)
+
+We received the funding at the same time as the Critical Repair Initiative.
+
+(02:16:47)
+
+So how many elevators have been repaired with this current funding? Can you break down the developments that would...
+
+(02:16:56)
+
+Sure. I will preface this by saying the notion of the program is something that we have spoken about a number of times — investing in preventative maintenance of our aging assets. The average elevator age at NYCHA is 25 years, which is about 5 to 10 years past the useful life. Upgrading the operator head, which is what this is — a moving part, a high-tension operator — is a large point of failure for us. So we requested this funding through the housing plan and we have graciously accepted it. As far as how many have we repaired through this round of funding...
+
+(02:17:47)
+
+Zero, because we have not gotten the funding yet. When do you anticipate — I mean, would you give us an estimate of when you would anticipate getting the funding and moving forward? That would make it a critical repair.
+
+(02:18:03)
+
+As soon as possible would be the best answer I could give you, and as soon as we have the funding we can start, because there...
+
+(02:18:10)
+
+...is the actual repair. It is an upgrade of the existing equipment and it takes about a half day to a day. The fiscal year 2027 executive budget also added $5 million to support a mold and leaks blitz over fiscal years 2027 and 2028.
+
+(02:18:25)
+
+How many mold and leak complaints have been outstanding for more than 100 days? Thank you, Chair, for that question. In terms of aging for 100-plus days, on the mold side it is about 12,500. On the leak side pending more than 100 days, it is about... So what we are doing for that program, which has already started — we have already addressed 3,000 work orders through that program. It is trades: plumbers, plasterers, painters and carpenters as well, to do those comprehensive repairs. What we do is we use the data and we target developments, and we set those trades at the developments until we bring down the backlog. So we started at Sotomayor, we then moved to Whitman and Ingersoll and Red Hook, and now we have moved the team into Manhattan at Baruch, Jefferson and Wagner. Our goal is to bring down the overall work orders by about 10,000 through that initiative — of the ones that are open as of that 100-day mark. When they get to those developments, the City funding will allow us to extend that. It is currently funded with federal funding, which is time-limited, but this will supplement it, and if it is a successful initiative we hope that it will continue.
+
+(02:20:07)
+
+Okay. You have previously indicated that as a development goes through the PACT conversion, staff are relocated to other developments. What impact has this had on the work order completion times?
+
+(02:20:23)
+
+Thank you, Chair, for that question. It has not really impacted work order completion times because, number one, we have seen some work orders improve in terms of their completion times and generation. But the increase in staff has not...
+
+(02:20:45)
+
+Their staff has not... So the staff are used to fill existing vacancies. So when staff are transitioned, they are filling vacancies. That means you are adding more bodies to the workforce, which means productivity should go up. Am I correct?
+
+(02:21:04)
+
+So at the development level, for maintenance workers and for caretakers, who are the ones predominantly affected by the PACT conversion — they are moved to open vacant lines where there was pretty high turnover at those positions. So they are moved into vacant lines. Sometimes they are held as a floater while we move them into a permanent personnel line.
+
+(02:21:27)
+
+So overall, is there an improvement once a conversion takes place and that staff is transferred over or relocated to another NYCHA development? They are moved to where there is a vacancy. So for example, if a development... so again, yeah, if you are filling a vacancy...
+
+(02:21:48)
+
+The headcount is the same. So the service will be about the same, because we are getting back to the base headcount by filling the vacancy. Sometimes we will have additional staff for a short period of time while they await a vacancy to open to move to that permanent line. During that time, when we have the responsibility of NYCHA with that particular development, it is given over to the PACT partner. That body now — those bodies now move over to a NYCHA development. It does have no impact at all on the services to the residents. So it is all or nothing.
+
+(02:22:33)
+
+Let me ask again. So on...
+
+(02:22:35)
+
+That does not really... The staff most impacted, which are the maintenance workers and the trades, they are moving into an existing vacancy. For example, right now I have about 30 maintenance vacancies open. So when a development closes, these maintenance workers — we move them to fill in those vacancies. Those vacancies will bring... they are moving to make whole. So right now they are operating with less staff. Now they are going to have back their original staff, because that will improve. Certainly, like for example Castle Hill right now — that will improve. And what will it improve? Let us get clarity on that. It is going to improve response to the maintenance work orders. So it will bring down the response time on the maintenance work orders, because we are making whole what the headcount is for. We are not increasing the headcount at the other development. For example, we are not going up from 5 to 10 maintenance workers — we are bringing them back to five, what they are budgeted for. On the trades side, they will have that advantage. So the trades will have fewer apartments to respond to, and I think we are going to see over the next couple of years the...
+
+(02:23:41)
+
+...benefit of it. We have close to 30,000 units across different developments that have been converted over to PACT. Have you seen an impact or improvement across NYCHA with the transferring over of labor? I have seen an improvement...
+
+(02:24:05)
+
+...improvement, but it is not a transfer over. What it is, is again we move the staff to a vacancy. So they are not getting any additional staff — they are filling their vacancies with that staff.
+
+(02:24:18)
+
+When that body is not there, that means it is a low-shot completed. So once that vacancy is filled, it is an addition to that week. I just want to add — yes, that would be agreed. And then also I think we will start to see our trades have benefit. Now, on the other side of that, I do want to note we do have a new important obligation, which is that we are now inspecting every apartment every year, which we should not lose sight of, because that is generating more work orders than we have ever seen before — work orders because of those
+
+(02:24:48)
+
+inspections. So does this night shift plan include hiring any additional staff to address the outstanding work order backlog?
+
+(02:24:57)
+
+So we have hired — and through the MLR, thank you Chair for the question — through the MLR we have hired 47 additional staff. We have also positioned staff with our lead abatement program so that they can be more self-sufficient in that, so they can address — for example, they have now moved up 20,000 abatements. They are moving residents back in under 14 days for their abatements, which is a big improvement. So we have added trades to specific programs to improve response times, particularly the mold leak program. That was a big program that we worked on with the monitors. We have that program designed now to attack these aging work orders at developments that are overwhelmed by them.
+
+(02:25:35)
+
+Thank you. Thank you for your testimony. Thank you.
