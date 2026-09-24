@@ -1,0 +1,1355 @@
+---
+committee: "Committee on Criminal Justice"
+committee_slug: committee-on-criminal-justice
+title: "Mental Health Care in New York City Jails"
+date: 2026-09-23
+slug: committee-on-criminal-justice-mental-health-care-in-new-york-city-jails-2026-09-23
+duration: "3hrs 6m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260923-101225.mp4"
+viebit_hash: "VsREn4QxZfitRUBB"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439485&GUID=C2B3202E-C745-44CA-9518-D882B1C75DE3&Search="
+chairs: "Selvena N. Brooks-Powers"
+members: "Gale A. Brewer, Tiffany L. Cabán, Oswald J. Feliz, Frank Morano, Mercedes Narcisse, Yusef Salaam"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Criminal Justice held an oversight hearing on mental health care in New York City jails, chaired by Council Member Selvena Brooks-Powers. The session also covered three bills: Int 0809-2026 (Brooks-Powers, requiring DOC to develop policies addressing medical needs during lockdowns), Int 0453-2026 (CM Stevens, requiring mental health referrals for children visiting incarcerated individuals) and Int 0133-2026 (CM Cabn, extending and strengthening the task force on transgender, gender nonconforming, non-binary and intersex people in DOC custody). The hearing drew testimony from NYC Health and Hospitals Correctional Health Services, the Department of Correction, the NYC Independent Budget Office and several council members. No votes were taken on the bills themselves during the substantive portion of the hearing, though a procedural vote unrelated to the bills was completed mid-session.
+
+The headline facts are stark and the administration's testimony, while competent in places, frequently confirmed the committee's concerns rather than allaying them. Roughly 61% of people in DOC custody receive mental health services, about 22% carry a serious mental illness diagnosis, and the serious mental illness share has grown more than 80% since 2022, a rate far outpacing overall jail population growth. Correctional Health Services described a tiered care continuum running from general population outpatient appointments through Mental Observation units, the newer STEP intermediary level, and PACE units for the most complex patients, up to the outposted therapeutic unit at Bellevue Hospital. The Bellevue unit has 104 beds but currently houses only 81 patients; two additional outposted units at Woodhull and North Central Bronx are in procurement and design respectively, with 2029 opening targets. Twenty-four patients are currently waiting for PACE placement following a surge of hospital returns. CHS also described reentry services including Medicaid enrollment, medication supply at discharge, peer-staffed PORT line support and PORT primary care practices at Bellevue and Kings County. All services, including community referrals, are voluntary, which prompted skepticism from several members given the obvious difficulty homeless, seriously mentally ill people face in self-navigating a fragmented system.
+
+The lockdown bill generated one of the sharper exchanges of the morning. Brooks-Powers pressed DOC on how lockdowns affect medical and mental health appointments and received the uncomfortable answer that the department had not brought lockdown-specific data to a hearing nominally about a lockdown bill. The one figure DOC offered was that 0.1% of medical appointments were rescheduled due to lockdowns in the period measured. About 10% of mental health appointments overall were missed due to non-production in the first eight months of 2026, out of over 60,000 scheduled. DOC's General Counsel confirmed that deadlocking had been investigated by DOI, which found insufficient evidence of the practice as alleged, but could not confirm whether any staff had been disciplined. The clinic production dashboard, currently in a two-facility pilot, was repeatedly cited as DOC's modernization answer to tracking production failures in real time, replacing what is currently a paper-based system.
+
+CM Cabn's questioning on the transgender housing task force (Int 0133-2026) surfaced the fact that 106 of 231 applications for gender-aligned housing have been denied, and that the department has not implemented the task force's recommendation for automatic independent review of those denials within three business days. DOC acknowledged its policies are under review under the remediation manager but could not provide a breakdown of what grounds accounted for the denials, nor how many involved the task force's recommended standard of current danger of committing gender-based violence. CM Stevens provided personal testimony on Int 0453-2026, rooted in two decades of youth work, arguing that children visiting incarcerated parents carry unaddressed trauma that feeds cycles of incarceration. DOC broadly supported the intent but noted it is not a health care provider and that no clear funding source or lead agency has been identified for delivering or brokering such services. The IBO closed with preliminary findings from a forthcoming report showing that 58% of the roughly 19,000 people discharged from custody in FY2026 had a history of mental illness; that transgender, gender nonconforming and non-binary people in custody had a 93% rate of mental illness history and 67% rate of co-occurring homelessness; and that people with both mental illness and homelessness histories face dramatically longer lengths of stay for identical charges, paid bail in only 9% of stays where bail was set, and typically faced less serious charges than the general jail population. The IBO data underscored the committee's broader argument that the jail is functioning as a default mental health and housing system for people who should be served upstream.
+
+Numbers
+
+- Approximately 61% of people in NYC DOC custody are enrolled in mental health services, representing roughly 4,018 individuals currently receiving active mental health treatment.
+- Approximately 22% of the total custody population has been diagnosed with a serious mental illness, up from a range of 16 to 20% in recent prior years, representing an increase of over 80% since 2022.
+- 85% of female patients in custody are enrolled in mental health services; 49% of female patients have been diagnosed with a serious mental illness.
+- There are currently 17 Mental Observation units housing 629 patients.
+- There are currently 10 PACE units in operation, including a 20-bed unit at the Bellevue outposted therapeutic housing facility.
+- 24 patients are currently waiting for placement on a PACE unit.
+- One CAPS unit is currently in operation, housing 23 individuals.
+- The Bellevue outposted therapeutic housing unit has 104 beds; current census is 81 patients, of whom 63 have complex medical needs and the remainder have co-occurring psychiatric and medical needs.
+- Two additional outposted therapeutic units are planned at Woodhull and North Central Bronx, targeting 2029 opening dates.
+- Approximately 3,000 individuals in DOC custody are currently receiving psychiatric medication.
+- Approximately 1,100 patients are currently housed in mental health therapeutic housing units.
+- Over 60,000 mental health appointments were scheduled in the first eight months of 2026; approximately 10% were missed due to non-production.
+- Of all missed appointments across the department, approximately 61% were attributable to patient refusals; 0.1% of medical appointments were rescheduled specifically due to lockdowns.
+- CHS currently has 244 FTE in mental health services with 33 vacancies; social worker staffing for discharge planning is at approximately 90%, with one current PACE unit vacancy.
+- 106 of 231 applications for gender-aligned housing by transgender, non-binary and gender nonconforming people in custody have been denied.
+- 93% of transgender, gender nonconforming and non-binary people discharged from custody in FY2026 had a history of mental illness; 67% had a co-occurring history of homelessness.
+- Of roughly 19,000 unique individuals discharged from DOC custody in FY2026, 58% had a history of mental illness, 30% had a history of both mental illness and homelessness, and 26% had a history of mental illness, homelessness and a prior custody stay.
+- Median length of stay for a second-degree assault charge in FY2026 was 6 days for individuals with no mental illness or homelessness history, 36 days for those with a mental illness history alone, and 74 days for those with both mental illness and homelessness histories.
+- People with both mental illness and homelessness histories paid bail in only 9% of stays where bail was set, compared with 39% for people with neither history.
+- Approximately 31% of homeless patients in DOC custody also have a serious mental illness.
+- Approximately 85% of people in DOC custody are estimated to have or will have Medicaid coverage upon release.
+- Christopher Rodriguez was the sixth person to die in DOC custody in 2026, pronounced dead at 8:39 a.m. on September 19; Chair Brooks-Powers noted the total is now eight deaths year to date.
+- The department has court orders from April 2014, September 2014 and April 2021 requiring full staffing of discharge planning positions, with which it has never been in full compliance.
+
+Action Points
+
+- DOC to provide the committee with data on the total number of lockdowns across all facilities in 2026, broken down by type and duration, including how many lasted more than four hours.
+- DOC to follow up with the Office of the Chief Medical Examiner on timelines for outstanding autopsy and toxicology results for deaths in custody occurring earlier in 2026, and report back to the committee.
+- DOC to provide a breakdown of the 106 denials of gender-aligned housing applications, including how many involved a finding of current danger of committing gender-based violence and what other grounds were cited.
+- DOC to provide the committee with information on whether any staff were disciplined following DOI's deadlocking investigation.
+- DOC to investigate and report back on whether any staff were disciplined for failing to cooperate with the DOI deadlocking investigation.
+- DOC to clarify and report to the committee how body-camera refusal documentation is integrated into the clinic production dashboard so that patient refusals and departmental non-production are distinguished in the data.
+- DOC General Counsel to follow up on whether staff were disciplined for deadlocking, noting the matter dates back several years.
+- CHS to provide the committee with granular data on missed mental health appointment rates at the Bellevue outposted unit and utilization rates for the on-site clinic there.
+- CHS to follow up with the committee on the total number of patients transferred from Rikers to the Bellevue outposted therapeutic unit since it opened.
+- CHS to notify the committee when the remaining PACE unit social worker vacancy is filled.
+- DOC to provide the committee with data on ACT referral numbers and placement timelines, in coordination with DOHMH.
+- IBO to follow up with the committee on the total amount the City spends on mental health care for people in DOC custody, broken down by funding source where possible.
+- DOC to provide the committee with specific data on how lockdowns are documented in relation to mental health appointment non-production for calendar year 2026.
+- DOC to make available, on request, redacted data on the grounds for each of the 106 gender-aligned housing application denials.
+- DOC to advise the committee on which agency or combination of agencies would be best positioned to deliver or broker mental health referral services for children visiting incarcerated individuals under Int 0453-2026, and to identify potential funding mechanisms.
+- Chair Brooks-Powers to formally reiterate on the record the requirement that all agencies appearing before the Committee on Criminal Justice submit written testimony at least 24 hours before a hearing.
+
+## Full Transcript
+
+**(00:00:03)**
+
+
+
+Room one. Good morning. Welcome to today's New York City Council hearing for the Committee on Criminal Justice. Please silence all cell phones. If you wish to speak in today's hearing, you can fill out an appearance card with one of the sergeants. Moving forward, no one is to approach the dais. You may begin.
+
+**(00:00:26)**
+
+
+
+Thank you and good morning once again. I am Council Member Selvena Brooks-Powers and I am the Chair of the Committee on Criminal Justice. I want to welcome everyone to today's hearing on mental health care in New York City jails. The Committee will also be hearing Int 0809-2026, sponsored by myself, in relation to requiring the Department of Correction to create and implement policies to address medical needs during and after lockdowns. Int 0453-2026, sponsored by CM Stevens, in relation to the provision of mental health services for children visiting incarcerated individuals. And Int 0133-2026, sponsored by CM Cabán, in relation to extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, non-binary and intersex individuals in the custody of the Department of Correction.
+
+I am joined by members Morano, Farías, Brewer and Cabán. The issue before us today reflects one of the most significant challenges facing our City's jail system: ensuring that people in custody with mental illness receive appropriate care. The jail system was never designed to serve as a substitute for a comprehensive behavioral or mental health system. Today, approximately 60% of people in City jails have documented mental health needs and approximately one in five people in custody has been identified as having a serious mental illness.
+
+For many New Yorkers in custody, incarceration has become the point at which they first receive consistent access to mental health services. Specialized units and treatment models exist, but the prevalence of serious mental illness in our jails raises important questions about whether individuals are receiving care at the appropriate level, whether treatment is accessible when needed and whether the current system is equipped to support people with complex behavioral health needs. People experiencing serious mental illness require consistent medication management, therapeutic services and specialized housing to prevent further deterioration. When access to care is disrupted, whether because of missed appointments, staffing challenges, housing limitations or operational issues, those disruptions can have serious implications for individuals' health and safety.
+
+Today's hearing will examine the continuum of mental health care available within City jails, including Mental Observation Units, the Program to Accelerate Clinical Effectiveness or PACE units and the City's new outpost therapeutic housing units. We will examine how these programs function, how individuals are identified for placement, how quickly they can access appropriate levels of care and whether existing capacity meets the needs of the current jail population.
+
+The Committee will also examine concerns regarding access to treatment during jail operations, including the impact of lockdowns on medical and mental health appointments. When individuals are unable to access scheduled care, particularly those with serious mental illness who rely on consistent treatment, it is critical that there are clear procedures to ensure continuity of care. As the City works towards closing Rikers Island and transitioning into a borough-based jail system, these questions take on added urgency. This transition can only happen successfully if our jail population is reduced and if a substantial share of the population is not having their mental health needs met, then we are not moving towards our goal. Meeting these needs through treatment inside our jails today, through discharge planning and through diversion to keep people out of custody in the first place, is not separate from the closure plan. It is a necessity for it.
+
+For that reason, today's hearing aims to better this Council's understanding of how mental health care is provided to individuals currently housed in our jails and what additional investments or reforms are needed to ensure that incarceration does not become the default response to unmet behavioral health needs. I would like to thank my staff and committee staff for their hard work: Asia Counsel to the Committee, Chad Benjamin, policy analyst Casey Lasky, financial analyst Owen Brady, my policy and budget director, and Renee Taylor, my chief of staff. I look forward to a productive discussion about how we can strengthen mental health care within our jail system, improve access to treatment and ensure that New Yorkers in custody receive the support and services they need. With that, I am going to pause to allow CM Cabán to give remarks pertaining to her Bill.
+
+**(00:06:03)**
+
+
+
+Thank you, Chair. Good morning. Entering Rikers Island is a potential death sentence for any New Yorker, but that is doubly true for trans, non-binary and gender nonconforming people who are incarcerated there. On top of the other dangers and indignities of incarceration at Rikers, transgender, nonconforming, non-binary and intersex individuals are routinely denied access to housing that matches their gender identity. They are forced to live in an environment where they face discrimination and the risk of violence, and I saw that firsthand during my time as a public defender. It is unconscionable that in this City we are treating queer folks like this.
+
+The task force on issues faced by TGNC and non-binary people in custody has already done crucial oversight to bring this to the attention of Council members, members of the administration, community-based organizations and the public at large. Their 2022 report did remarkable work, bringing the experiences of trans and non-binary New Yorkers in custody to light. Their work is so vital because we cannot pass legislation without understanding the nature and scale of the issue at hand. They need not just a mandate but our full support. And that is why it is essential that we pass my Bill Int 0133-2026 to extend this task force and ensure that Correctional Health Services substantively participates in its work.
+
+I want to say that alongside Int 0133-2026, I have also put forward Int 0234-2026, which would give New Yorkers incarcerated at Rikers recourse to be housed in units where they will be safe from gender-based and sexual violence. I hope that we can consider that Bill to act on the recommendations of the task force. Thank you to Chair Brooks-Powers and to my colleagues for supporting the Bill and to those who have signed on. I am really glad that it is being heard today. Thank you, Chair.
+
+**(00:08:44)**
+
+
+
+Good morning, Chair Brooks-Powers and members of the Committee on Criminal Justice. My name is Dr. Joseph Ponticiello and I serve as the Chief of Mental Health for New York City Health and Hospitals Correctional Health Services. I am joined by my colleague, Senior Assistant Vice President of Communications and External Affairs. We appreciate the opportunity to testify today on mental health care in the New York City jails, an issue of paramount importance. Since 2016, Correctional Health Services has been the direct provider of physical and mental health
+
+**(00:09:24)**
+
+
+
+services to people in the custody of the New York City Department of Correction. Approximately 61% of these individuals, our patients, have received mental health services during their incarceration and about 22% of the total patient population has been diagnosed with a serious mental illness. The prevalence of mental illness is greater among women, with 85% of our female patients enrolled in the mental health service and 49% of our female patients diagnosed with a serious mental illness.
+
+The challenges and stressors of jail incarceration, which include restrictions on autonomy and control, can prove clinically destabilizing for many of our patients. The circumstances of pretrial detention can be chaotic and unpredictable and can exacerbate or even induce symptoms of psychological distress. Uncertainty about the outcomes of legal cases can create additional tension and anxiety. And this is all occurring at a time when our patients' access to community supports and the outlets for coping are reduced. Nonetheless, many of New York's most clinically complex individuals receive mental health care on Rikers Island that they have not had access to in the community. Correctional Health Services recognizes the opportunity we have to care for this long-underserved population and works to ensure that all of our patients have access to high-quality mental health services during what can be the most challenging time of their lives.
+
+In my testimony, I will provide an overview of mental health services, starting with the initial mental health assessments and concluding with our reentry services. I will describe the spectrum of mental health care in the jails, including the mental health therapeutic housing units. Medical and nursing professionals conduct a comprehensive medical evaluation of all individuals when they are admitted to the New York City jail system. During these intake evaluations, nurses and doctors obtain vital signs, draw labs and offer testing for communicable diseases. They also ask patients a comprehensive set of questions about their medical and mental health history and current physical and mental health status. Based on the information obtained during the intake assessment, patients may be referred for follow-up care and additional evaluations, including to the mental health service. Patients may be referred to the mental health service for evaluation either as a result of the intake screening or at any time during their incarceration.
+
+During every initial mental health assessment, a licensed mental health provider reviews the patient's full mental health history, interviews the patient and takes an extensive social history with the patient, including past personal relationships, educational attainment, adverse past experiences and socioeconomic stressors. Clinicians obtain collateral information from community-based providers to inform their assessment and to ensure that the patient's history is complete and accurate. When available, the clinical mental health staff review past medical records as well as the patient's Psychiatric Services and Clinical Knowledge Enhancement System, or PSYCKES, report, which includes historical information about inpatient psychiatric care at a New York State Office of Mental Health facility and Medicaid-funded community-based mental health treatment.
+
+The information the mental health provider obtains during this assessment helps to inform their diagnostic assessment, individualized treatment plan, case management and reentry planning. The information also enables clinicians to assess clinical risk factors and to determine the patient's most appropriate mental health level of care. Most patients who have mental health needs in the jail system are appropriately housed in the general population and meet with mental health clinicians in the clinic for their appointments, similar to an outpatient model of care in the community.
+
+The jail-based mental health therapeutic housing units, conversely, are designed for patients who have more robust mental health needs and require increased clinical observation and care coordination. These units offer a continuum of care leading up to units that are akin to residential treatment facilities in the community, with mental health staff primarily working on the units to provide enhanced treatment interventions for patients who benefit from a level of care higher than outpatient general population. Correctional Health Services has established Mental Observation, or MO, units, of which there are currently 17. Patients on MO units are rounded on regularly by mental health staff and receive enhanced clinical monitoring and support. Earlier this year, Correctional Health Services also implemented the Supportive Transitional Engagement Program, or STEP, within the mental health therapeutic housing continuum. STEP serves as an intermediary level of care between MO and general population.
+
+The most intensive level of mental health care provided on Rikers Island is the Program to Accelerate Clinical Effectiveness, or PACE. These units house clinically vulnerable patients who have the most complex mental health needs, including persons with serious mental illness and developmental disabilities for whom a lower level of care is not optimal. There are currently 10 PACE units in operation, including a 20-bed unit within the outpost therapeutic housing unit at Bellevue Hospital that houses patients who have both psychiatric and medical complexities. Within each of our PACE units, a multidisciplinary team which includes mental health clinicians, creative arts therapists, treatment aides and social work and nursing staff works with each patient to provide coordinated care. Mental health clinicians continuously assess the patient's therapeutic needs throughout the individual's time in jail. As those needs change, Correctional Health Services works to more appropriately house that individual. If a patient requires a higher level of care than can be offered in the jail setting, Correctional Health Services initiates transfer to an acute psychiatric hospital for evaluation and possible admission.
+
+Like all of its patient care services, the mental health service closely collaborates with its reentry team to help patients return to the community and to help ensure continuity of care upon discharge from jail. Correctional Health Services makes reentry services available to all patients and provides individualized discharge plans to patients with particular clinical needs, including all consenting patients receiving mental health treatment. Reentry staff work to ensure that, at a minimum, patients have Medicaid, a community provider, access to medication and awareness of a variety of safety net resources. These resources include, but are not limited to, the Community Reentry Assistance Network, or CRAN, which helps former patients access community-based health and social services; the Correctional Health Services general helpline called PORT Line, which helps people navigate community-based services; and the Point of Reentry and Transition, or PORT, practices located at New York City Health and Hospitals Bellevue and Kings County Hospitals, which provide primary care, mental health care and wrap-around services to formerly incarcerated individuals. We also invite all patients to drop into the services center on the visitor side of Rikers Island after their release.
+
+Patients with serious mental illness are offered additional services, including supportive housing applications, transitional case management services and free smartphones with a year-long service plan. The reentry team also works closely with partners in New York City government to help support our patients when they return to the community. For example, Correctional Health Services refers patients as appropriate to the New York City Department of Health and Mental Hygiene's Single Point of Access, or SPOA, program, which connects people to Intensive Mobile Treatment,
+
+**(00:17:40)**
+
+
+
+Assertive Community Treatment and other community-based programs. In conclusion, so many of our patients under our care have tremendous medical and mental health needs and their involvement in the criminal legal system, up to and including jail detention, often exacerbates those challenges. Correctional Health Services is proud to provide the community standard of care in a difficult environment for one of the City's most marginalized and vulnerable populations. We remain committed to working with this City Council and other stakeholders to improve the system and to support our patients before and after incarceration, because we recognize that the challenges they face extend beyond the jail walls. Thank you. Happy to take any questions.
+
+**(00:18:32)**
+
+
+
+Good morning, Chair Brooks-Powers and members of the Committee on Criminal Justice. My name is James Boy and I am the Deputy Commissioner of Quality Assurance and Compliance at the New York City Department of Correction. I am joining you in a new role overseeing a new portfolio of work, which includes health affairs. Joining me today is my colleague, Assistant Chief Joseph Caputo. My colleagues and I thank you for the opportunity to discuss this important topic and share how the Department facilitates access to mental health care within our jails in New York City.
+
+Jails exist within a continuum of support, intervention and care that is shared between many stakeholders and partners. Our responsibility to people in our care includes making sure they receive access to medical and mental health treatment they need to support their well-being while in our care. That responsibility is central to building a safer and more humane jail system, which is why this administration has been laser focused on strengthening access to mental health services for people in our City's jails. Our partners at Correctional Health Services bring the clinical expertise, and our dedicated staff makes access possible by escorting people to the clinic, transporting them to outside appointments and supporting the safe delivery of care within clinical spaces. In addition, the Department coordinates to ensure the smooth operation of safe and inclusive housing options to meet a wide spectrum of mental health needs. All uniform staff receive training to help them better understand and engage with individuals who have mental health needs while keeping them safe. That important work requires daily coordination from all levels of both agencies. Behind each appointment is a person whose health matters, and our collective work must be measured by whether that person received the care they need. The Department will continue prioritizing various modernization projects, including the clinic production dashboard, to improve processes and make this work more efficient.
+
+The legislation before the Committee speaks to that same responsibility. Int 0133-2026 concerns people whose safety and dignity require our sustained attention. We value the task force contributions and the experience the advocates and community partners bring to improving the treatment and housing of transgender, gender non-conforming, non-binary and intersex people in our care. The feedback and collaboration that has been born out of these meetings has resulted in meaningful changes to practices within our jails. We want that collaboration to remain strong and look forward to further conversations.
+
+Int 0453-2026 recognizes that incarceration also affects children and families. A child visiting an incarcerated parent deserves to feel welcome, supported and safe. The Department has worked diligently over the past few years to build on our family-centered visiting initiatives and has worked with partners whose expertise has helped children and families receive targeted support and attention so that visitation is meaningful and relationships remain intact. While we agree that children should have access to mental health services when they need them, we do not believe that the Department is the best agency to offer those services or make referrals to such services.
+
+Int 0809-2026 addresses access to care during emergency lock-ins. Protecting people from immediate harm and meeting their health care needs are both essential responsibilities. In recognition of this, the Department continues to escort individuals to medical appointments during emergency lock-ins when it is safe to do so, and coordinates closely to address any clinic encounters that have been missed as a result of a lock-in, often as soon as the same day. We look forward to working with the Council to address any remaining gaps and ensure that people continue to have access to the services they need. This administration is committed to an approach that puts community safety at the center of all the work we do. That means we share a responsibility to ensure people in our City's jails have access to vital services that support their dignity, safety and health, in a working partnership with all community-based care, to work towards better outcomes. As we often say, there is more work ahead of us. We are eager to build on improvements that are already underway and we are working closely in coordination with the remediation manager and federal monitor and their respective teams to ensure they are part of the process as we move forward. Thank you again for inviting us to discuss these important matters. We welcome any questions you have at this time.
+
+**(00:23:24)**
+
+
+
+Thank you. I would like to add that we have been joined by CM Stevens, who will give some remarks regarding her
+
+**(00:23:34)**
+
+
+
+legislation. Good morning and thank you, Chair. I am honored to be here today for Int 0453-2026. Legislation must speak directly to our responsibility to protect and support children and families. Children visiting incarcerated parents or family members can experience fear, confusion, stress, anxiety and trauma that often goes unaddressed. As a City, we have the responsibility to make sure that these young people have access to the resources they need and to process those experiences in a healthy way.
+
+This legislation actually came about because, as most people know, I worked with young people for over 20 years. For multiple years, young people who had family members, particularly parents who were experiencing incarceration, would come to my programs with severe trauma. One of the young people that I worked with actually came to me and helped me develop this even before I was on the Council, to say, "I wish I would have had someone to talk to. I wish someone would have been there to process what I experienced and tell me that I was going to be okay," because their parent was never coming home. This young person's father was facing life in prison and did not know how to process that at such a young age. And so this legislation is very near and dear to me. When talking about this, we cannot focus only on the person who is incarcerated. We have to think about the children and the family who are also impacted. This is why Int 0453-2026 is so important. This legislation would ensure that children visiting incarcerated individuals could receive referrals to mental health services. As a former youth worker, I believe that our work must always center the well-being of our young people. We have to meet young people where they are and provide them with support before trauma becomes a deeper crisis.
+
+My colleagues and I visited yesterday at Horizon and we saw hundreds of children who were in secure detention, and that was because a lot of them did not know how to process trauma. This is a step that I believe could help with some of that prevention. If we are serious about breaking the cycle of harm and incarceration, then we must invest in healing family
+
+**(00:25:41)**
+
+
+
+stability and prevention. Every child deserves the opportunity to process difficult experiences with care, compassion and professional support, especially at a time when young people continue to ask for greater access to the resources they need. Young people tell us what they need. We have the responsibility to listen to them, and more importantly, we must deliver what they are asking.
+
+**(00:26:01)**
+
+
+
+Int 0453-2026 is about recognizing that incarceration impacts entire families and supporting children as an essential part of building healthier and safer communities. I want to thank my colleagues for supporting this important legislation, and I urge everyone to continue to support this. Thank you.
+
+**(00:26:25)**
+
+
+
+Thank you, Chair. Thank you for convening yesterday's tour of Horizon. That was definitely insightful. Okay, let us get into it. First things first.
+
+**(00:26:41)**
+
+
+
+Commissioner, can you let me know when this hearing was noticed? Do you recall when this hearing was noticed? Do you know when you received notification? I mean, I receive it internally, so I got it from our internal team. So I do not recall the actual
+
+**(00:26:56)**
+
+
+
+date. Do you not get it before it is put out publicly?
+
+**(00:27:02)**
+
+
+
+I am totally aware that I think we only see a public notification first, but I am not sure. I think it is coordinated in terms of the date to make sure that the administration is available. And I ask because we noticed this hearing 21 days ago. I also
+
+**(00:27:21)**
+
+
+
+requested that when coming to this hearing — and I cannot speak for any of the Committee — that we have testimony at least 24 hours in advance. I asked this so that we can have a meaningful conversation. So I am going to say publicly on the record what I have said privately to the administration. The past administration was able to submit testimony in advance, as was a state agency. I imagine this administration has the capacity to be able to submit testimony 24 hours in advance so that I can properly be prepared to chair this hearing. I do feel it is very disrespectful that I continue to have that request disregarded. I feel like it is showing that the administration does not have good faith to work together to have a truly productive conversation during these hearings, because it allows us an opportunity to prepare better and not have redundant questions that would be addressed in your testimony anyway, and have to do that in real time. I really want to maximize the use of my colleagues' time and your time and mine. So I am going to say it on the record again: my request is that going forward, any agency that comes before the Committee on Criminal Justice submits testimony to us within 24 hours of the hearing. I just want to acknowledge that, and I am happy to take that feedback obviously. You can speak to them too. I just want to put that commitment on the record directly, but we will certainly take that.
+
+**(00:28:57)**
+
+
+
+Thank you. Now we can get into it. Let us start with mental health care and specialized housing. How does the Department currently identify people in custody who need mental health services when they enter the jail system?
+
+**(00:29:10)**
+
+
+
+So I think we can actually take that one from the testimony, so everyone who goes through the new admission process processed at Rikers can be referred to mental health services. Depending on their mental health needs, they conduct an evaluation assessing the level of care that the individual will require once on Rikers, and that can mean specialized housing units. We reference PACE, mental observation units and then our newer form of housing, STEP. That information is then shared with the Department to transfer the individual into the appropriate housing. How many people are currently
+
+**(00:30:01)**
+
+
+
+housed in mental observation units? Sure. So for mental observation units, the current census is 629 patients and that is across 17 units. So I can repeat the number: 629 patients across 17 units. Thank you. In September
+
+**(00:30:27)**
+
+
+
+2022, testimony indicated that there were two CAPS units with five people housed in CAPS at the time. In October 2023, the Department testified that there were 830 mental observation beds consisting of 334 PACE beds and 496 mental observation beds. CAPS was not separately identified in that breakdown. Are there currently any CAPS units operating? There are. There is one CAPS unit in operation. I believe 21 or 23 individuals are currently housed there. There are 23 people currently in CAPS. There is one CAPS unit currently in operation. Thank you.
+
+**(00:31:18)**
+
+
+
+What steps does the Department take to ensure a person in their custody has consistent access to their medication at the times they are supposed to take such medication?
+
+**(00:31:34)**
+
+
+
+That continued collaboration with anyone who requires access to medication ensures they are brought to the appropriate medication windows or medication is distributed in the housing unit. We have frequent ongoing conversations at the executive level, but also at the local level. Each of the wardens has conversations with staff directly on site to ensure that continuity of care and access to medication is being afforded.
+
+**(00:32:01)**
+
+
+
+And I would just add that one of the benefits of the therapeutic housing units is that medication can be provided on site. Those are units where mental health professionals actually have offices and are engaging directly with patients there. If a patient was not able to receive medication from a pharmacy technician earlier in the day, the nursing staff would be able to engage with them later that day so they do not miss it. Thank you.
+
+**(00:32:31)**
+
+
+
+Both regarding the outposted therapeutic housing: how many people have been transferred from Rikers to the Bellevue outposted therapeutic health units since it opened?
+
+**(00:32:45)**
+
+
+
+So I do not have the total number transferred. I can tell you the current census is 81, and of those patients, some are on the PACE unit which, as mentioned earlier, the PACE unit at the Bellevue outposted unit is for individuals who have co-morbid psychological and medical complexities. Most of the beds at Bellevue outposted are for people who have medical complexities, and there are 63 patients for those. So all 104 beds are not operational right now. They are operational, but they are not currently filled.
+
+**(00:33:26)**
+
+
+
+So in terms of bed capacity, that would differ from ideal clinical capacity. We have to
+
+**(00:33:34)**
+
+
+
+take into account things like patient acuity needs and the therapeutic milieu of the unit. So we would not necessarily want every bed to be filled at every moment. That said, I believe Bellevue outposted is holding some beds for patients who are currently hospitalized, knowing that they will need to be returned to the unit. So with that in mind, are there any plans to expand the number of beds at Bellevue beyond the current capacity? Not at Bellevue. That unit has all the beds it has — 104 beds — but we are in the process of opening two additional units. We are in the procurement phase for the construction of the outposted unit at Woodhull and we hope to be in the performance stage soon for North Central Bronx. Those two units, unlike the Bellevue unit, will be focused more on patients with significant mental health needs, particularly Woodhull, as they may have some co-morbid medical or substance use needs, but it will primarily be psychological concerns.
+
+**(00:34:39)**
+
+
+
+And so Woodhull is in procurement. Once it goes from there, I imagine it goes into design or
+
+**(00:34:43)**
+
+
+
+we have been working on designs, so we are hoping to start construction of the actual outposted units early next year and then working towards 2029 opening dates for both, although there is interest throughout the administration in expediting that. So we are looking for opportunities to move up that timeline.
+
+**(00:35:11)**
+
+
+
+On the 19th, Christopher Rodriguez died while being housed at Bellevue Hospital. When
+
+**(00:35:16)**
+
+
+
+he was found, he was in a quote-unquote medical distress state before being pronounced dead at 8:39 a.m. He was the sixth death of a person in the Department's custody this year. Do we know what the cause of his death was? At this time we do not, but I will echo Commissioner Richard's statement and extend our condolences to his family. Our hearts go out to them, but at this time it is pending investigation and the final determination regarding the medical autopsy is still pending.
+
+**(00:35:54)**
+
+
+
+Just real quick on this one: the autopsies. Because we are, I think, up to eight deaths now for this year, and every time I get a call about the previous deaths in terms of the status of the autopsies, I am just curious as to why it is taking so long. Even with the toxicology reports, I understand they take a little bit longer, but I think the earliest deaths have been like February or March, if I am not mistaken, and we still do not even know the cause of death for that person and we are now in... If a regular New Yorker needed to go through a medical examiner and have an autopsy and a toxicology report, we would have had the results by now. So what is the delay with the Department for these results?
+
+**(00:36:44)**
+
+
+
+Well, that determination regarding how somebody succumbed to whatever happened to them is through the Medical Examiner's Office, and so it can take a few months before we receive the final determination. We understand that, and we stay in touch with them throughout this process and make sure they know who to contact. But I am going to defer to the Office of the Chief Medical Examiner regarding their timelines to make that final determination. That is not something that the Department looks into. We rely on our partners to share that information.
+
+**(00:37:16)**
+
+
+
+So the Department does not ask why it is taking so long or what the timeline is?
+
+**(00:37:19)**
+
+
+
+I mean, we will engage with them certainly. We have had a long-standing partnership with them, but you know...
+
+**(00:37:26)**
+
+
+
+They take longer than the average New Yorker, and you all are an agency — a sister agency. So I would imagine you would be able to get the information sooner.
+
+**(00:37:36)**
+
+
+
+We can certainly circle back and we can have those conversations with them. You know, they are looking at this from a citywide lens as well. But we can help. We are open to having those conversations to see what we can do.
+
+**(00:37:49)**
+
+
+
+Absolutely. Do you know when he went into distress? We know when he passed, but do we know approximately the time he went into distress?
+
+**(00:37:59)**
+
+
+
+So we would not be able to speak about any particular patient case here. I will say the Department works with all of the various oversight bodies and reports the death. We do our own processes internally, including a joint assessment review, which is done with the Department. We review under our own mortality and morbidity review committees. The New York City Health and Hospitals Board of Directors also reviews. But because of patient privacy concerns, we are not able to discuss this publicly. Can you share what was done once he was found in this
+
+**(00:38:38)**
+
+
+
+I think those conversations are still ongoing with the department and under investigation. I will say there is a Board of Correction report that ultimately will come out and will provide more information.
+
+**(00:38:50)**
+
+
+
+When will that report be out? I would defer to the Board of Correction report. Are any policies at Bellevue being evaluated as a result of the causes of death? Part of the JAR — the Joint Assessment and Review — is examining any policies and procedures that have played a role. I think it is again premature now, but it is likely that there will be a corrective action following a patient death. And to your point with the JAR...
+
+**(00:39:24)**
+
+
+
+Which people or what entities are involved in investigating Rodriguez's death?
+
+**(00:39:32)**
+
+
+
+For the investigation — yes, that is the State Attorney General's Office, the Department of Investigation as well as the Board of Correction that are involved.
+
+**(00:39:53)**
+
+
+
+We are going to pause the hearing and open back up the vote so that CM Salaam can cast his vote. Greetings, everyone. Continuation roll call vote on the Committee on Criminal Justice proposed introduction. CM Salaam — aye. The final vote is now six in the affirmative, zero in the negative and no abstentions. Madam Chair, I move to close the vote. With that, the vote has been closed. Thank you. One moment while we reset.
+
+**(00:42:22)**
+
+
+
+I will now continue the hearing. I am going to yield my questions for the moment and move to member questions, starting with CM Narcisse.
+
+**(00:42:36)**
+
+
+
+Thank you. I have to start by saying thank you, Madam Chair, for always being present and on point. We have a question about how mental health is affecting people that are not even in incarceration — having kids, for example. I am so happy that you are on board with us regarding the children, because we have to be mindful of the folks that are not present in the background. So thank you for all your leadership.
+
+**(00:43:14)**
+
+
+
+I hear that routine medical appointments are often missed. Is the same thing happening...
+
+**(00:43:22)**
+
+
+
+...with mental health appointments? How many women missed appointments in the last fiscal year because the department did not produce the patients, and what share of all scheduled appointments does that represent? Is that specific to mental health appointments?
+
+**(00:43:42)**
+
+
+
+So I have data for a calendar year to date — the first eight months of this year. There were over 60,000 mental health appointments. About 10% of those appointments were missed due to non-production, which could have been related to either no escort or an alarm situation. That is the total amount of scheduled appointments. We do prioritize medical appointments in the jails — that is a daily ongoing conversation, every day, 24/7. If someone missed their medical appointment in the morning, that particular facility is going to be working with clinical staff to see if they can produce them the same day. There is always an ongoing conversation to make sure we are giving people access to the care that they need, and that is an ongoing partnership. There are things we are working on internally to figure out how we can make this process more efficient, but we are moving in the right direction and we will strive to make sure people are produced to the clinic.
+
+**(00:44:44)**
+
+
+
+I can see progress because only 10% are missed, but that 10% still matters. I am happy to hear that you are going to make every effort, because every appointment matters, especially when it comes to mental health. What share of people leave with a discharge plan, a medication supply and a scheduled appointment in the community? How are you tracking whether they actually make that appointment?
+
+**(00:45:12)**
+
+
+
+We spoke back and forth about that before. Are we doing the follow-up?
+
+**(00:45:15)**
+
+
+
+Yes. So to start, we provide core reentry services to every person in custody. Crucially, that includes ensuring that they have Medicaid access upon their release — whether they came in with coverage or, if they did not, we help them apply. We are also sending medications to the pharmacy of their choice upon their release. We are connecting them and referring them to various services, as described in the testimony. We have the Community Reentry Network. We have the PORT primary care practices at Bellevue and Kings County. We have a PORT line that individuals can call. Those who are enrolled in mental health services can also leave Rikers with medications in hand.
+
+I will say all of our services in the jails as well as community referrals are voluntary. So we are not necessarily tracking or ensuring follow-through, but we are trying to remove as many barriers as possible so that if someone wants to access care in the community they are able to.
+
+**(00:46:26)**
+
+
+
+The voluntary part bothers me, because when a lot of folks end up in the community...
+
+**(00:46:31)**
+
+
+
+...especially in the Black and Brown communities, now more than ever, you see young folks walking around with serious mental health problems and there is no place to go and no community arrangement. I think we have to make maximum effort to make sure those populations coming from incarceration are being addressed. Now, another question I would be remiss not to ask: how about those folks that do not have medical coverage and for one reason or another do not have people working with them and are not getting insurance in the outside world? Are you making maximum effort to refer them to a place where they can get support?
+
+**(00:47:13)**
+
+
+
+Yes. So about 85% of people in custody, we estimate, will have Medicaid coverage upon their release, as we have helped enroll them or they were previously enrolled. I think we are incredibly fortunate to have New York City Health and Hospitals in our system, because the system provides care to everyone regardless of ability to pay. Individuals can certainly call the PORT line, which is the peer staff reentry line, to help get connected there, or they can go into the community reentry network to get connected and access care.
+
+**(00:47:47)**
+
+
+
+How is interpretation handled in therapy sessions? Are sessions offered in multiple languages?
+
+**(00:47:55)**
+
+
+
+So we adhere to the community standards of care. Of course, if somebody is not a native English speaker, it is of paramount importance that we offer services in the language of their preference, and typically we do use interpreter services for that, either in person or through telephone or video.
+
+**(00:48:14)**
+
+
+
+Chair, I am going to circle back. I am going to send it back, but the budget is interesting to me because I want to know how much money is being allocated.
+
+**(00:48:23)**
+
+
+
+Thank you. Thank you, Madam Chair. We are going to go to CM Morano. Thank you.
+
+**(00:48:29)**
+
+
+
+Thank you, Chair. Thank you all for your testimony. I would love to begin with Dr. Otani. You testified that most people with mental health needs are appropriately housed in general population, and I want to be very precise about the word "appropriately." When someone is appropriately housed in general population, does that mean you believe general population is the clinically optimal...
+
+**(00:48:59)**
+
+
+
+...placement, or can it mean it is simply the best placement currently available? So we continuously assess throughout an individual's incarceration what their clinical needs are and how closely they need to be monitored, similar to the community standard. Patients who are able to function at a higher level and are less in distress are able to be brought to their appointments, similar to the way you and I would go to an outpatient clinic. For those individuals who are more vulnerable, who benefit from closer monitoring and greater support, we would transfer those patients onto a therapeutic housing unit. We often will keep them there indefinitely.
+
+**(00:49:49)**
+
+
+
+Specifically, among people with serious mental illness who are currently in general population, how many would be in a more therapeutic setting if every clinically appropriate bed were available today? Can you rephrase your question? Sure. Among people with serious mental illness who are currently in general population, how many would be in a more therapeutic setting if every clinically appropriate bed were available today? We consistently do assess the needs of patients and whatever level of care is appropriate. All patients who require a particular level of care are transferred to that level of care. So what we have is sufficient capacity. I think another way of thinking about it: there are currently 24 patients who are waiting for placement on a PACE unit, so they do require a higher level of care. We had an influx of hospital returns and those individuals are being closely monitored, but they do require PACE. I do think it is a common misconception that anyone with mental illness requires a residential treatment setting. Understood.
+
+So clinically... Deputy Commissioner Boyd, obviously you are responsible for quality assurance and compliance. If a clinician recommends a higher level of care and the Department of Correction cannot provide the bed, is that recorded somewhere as an unmet clinical recommendation, and if it is...
+
+**(00:51:29)**
+
+
+
+...do you publish that number? I think if there is a concern regarding the placement, then that is where we will have that conversation. If it is a concern about the safety of individuals where the request for placement for this individual should go, we are having that conversation to see if they could be placed somewhere else. If there are really serious concerns about a challenging detainee who might need to be placed in PACE or another unit and we think they might be a threat to the safety of other folks in that particular housing unit, then that is a conversation we have to see if they could be placed somewhere else and still receive the same level of care. I do not know if that answers your question. I think it does not entirely. I guess what I am wondering is if there is specific data available about people who are being recommended for a higher level of care when we do not have the resources for that bed, and I am wondering what that number...
+
+**(00:52:35)**
+
+
+
+...is. Good morning. I am the Assistant Chief of the Criminal Justice Bureau and Facility Operations. In reference to your question: we are partners with clinical staff and are aware of the number of beds that are available when they make placement recommendations. As was alluded to regarding the PACE unit, there are individuals that they are tracking based on space and ensuring that they meet their clinical needs. We are not rejecting people who need a higher level of care in the mental health population, and we are partners in making those placements. Clinical staff are aware of the number of beds when they make those recommendations.
+
+**(00:53:18)**
+
+
+
+So just for context, the reason why I am asking is, as you know far better than I do, the City currently has thousands more people in custody than the 4,160 beds planned for the borough-based jail system, and the City itself says those new facilities are supposed to provide appropriate housing for people with medical and mental health needs. So I am just wondering if we are not already there, whether we are going to be exacerbating the problem under the new capacity. But I know my time is up. Thank you.
+
+**(00:54:04)**
+
+
+
+Next, CM Cabán. I am out of breath but I got back in time. Good morning. Thank you, Chair. I am going to start with a question about my bill. The GNC/NB Task Force recommended that gender-aligned housing be the presumptive placement unless the individual who is incarcerated requests otherwise. So the question is: why are transgender people being sent to gender-misaligned facilities upon intake, and why is the department denying nearly half of all applications and requests for transfers to gender-aligned facilities? That is based on your own data — that is the information we are getting from you. I will start there.
+
+**(00:54:49)**
+
+
+
+Hi. My name is Nelle Cologne. I am the Deputy Commissioner of Programs and Community Partnerships. Just for context, within the Division of Programs and Community Partnerships, the LGBT Affairs Unit is housed. Just to speak to this: when considering placement, one of the department's primary focuses is complying with the national PREA standards. Placement is made on a case-by-case basis. But I think to what you just indicated — yes, there are times where somebody has an intake and when transported from court to a site it may not be the right site.
+
+**(00:55:26)**
+
+
+
+But once we become aware and a conversation happens and a person is able to state their preference based on their gender identity, we make our best attempt to make sure that they are in a gender-aligned...
+
+**(00:55:37)**
+
+
+
+...facility. But at this point, half of those applications — more than half — are being denied. And to your point about the PREA guidelines, we had a hearing on this last term and specifically we had conversations about how PREA is obviously meant to protect people, but it is misinterpreted by folks on the outside in ways that actually disproportionately harm transgender individuals. That is something that needs to be reassessed, and that is also a reason why this task force is so incredibly important.
+
+**(00:56:13)**
+
+
+
+Can you talk about the specific criteria that accounted for the 106 denials out of the 231 applications for gender-aligned housing?
+
+**(00:56:25)**
+
+
+
+Yes. So when a placement decision is being made, there are a number of factors that are considered. One is the individual's stated gender identity as well as their preferred placement in gender-aligned housing, et cetera. With that, there are also overriding security and management concerns that are...
+
+**(00:56:41)**
+
+
+
+...factored in. I am sorry, just to interject because I have limited time: what specific criteria accounted for the denials? I think we are aware of what the factors are, but which factors accounted for the 106 denials?
+
+**(00:56:53)**
+
+
+
+Well, I think all of these factors are applied on a case-by-case basis. So we are talking about, let us say, the overriding security and management concerns, PREA screening information, mental health or medical concerns...
+
+**(00:57:06)**
+
+
+
+...and classification. All of these things can be factors based on somebody's housing situation. Of the 106 denials, how many involved a finding that the individual presented a current danger of committing gender-based violence, which is the standard recommended by the task force? I actually specifically do not have the gender-based violence indicator number for you. I just want to be transparent.
+
+**(00:57:27)**
+
+
+
+Okay, can you get it?
+
+**(00:57:30)**
+
+
+
+Right. And then, did the department rely on other grounds for denying the applications — other grounds outside of the current danger of committing gender-based violence? I am assuming you do not have a breakdown of what those grounds were. Is that correct?
+
+**(00:57:48)**
+
+
+
+No, not in what we have to give you today.
+
+**(00:57:48)**
+
+
+
+I would also ask for those numbers. I think it is really important to get a sense of what other factors are serving as the basis for denying placement for transgender people and continuing to use criteria that is inconsistent with the task force's recommendations.
+
+**(00:58:14)**
+
+
+
+And obviously when you provide that information, appropriately redacted, we want to see it.
+
+**(00:58:23)**
+
+
+
+From there, I want to ask why the department has not implemented the task force's recommendation for automatic independent review of housing denials. The task force recommended that every denial of gender-aligned housing should be supported by a detailed written decision identifying the evidence relied on and receive automatic independent review within three business days by officials who were not involved in the original decision. Have you implemented that recommendation?
+
+**(00:58:52)**
+
+
+
+At this time we have not implemented that specific recommendation, but I do want to put on the record that our policy is under review. Many of our policies are under review, particularly now that we are under a remediation manager along with our current leadership, and so all of our policies are being thoroughly reviewed to make sure that we are...
+
+**(00:59:12)**
+
+
+
+...taking in these recommendations. Madam Chair, I am going to leave to chair another hearing. Can I have a couple of extra minutes? Okay, I am going to give you two extra minutes because they said they do not have a problem with it. Thank you. I appreciate that. I just want to say I am glad that it is being reviewed. I hope that you take those recommendations to heart, and especially make sure that the reconsideration process is not merely allowing an individual to request reconsideration, but that it is an automatic independent review. My other questions — and I know that the Chair is going to do a phenomenal job...
+
+**(00:59:48)**
+
+
+
+Picking up on these mental health questions, the number of people in custody with serious mental illness has increased by over 80% since 2022. It is a much deeper increase than the general population that we are seeing. So my questions are: how does this increase affect your ability to provide quality care for people in custody, which I know that my colleague CM Morano alluded to? When you refer somebody to ACT, do you confirm if and when they have been placed, and how long in your experience does it take to assign somebody to a team? Then I am going to close that out and finish by just saying that with serious mental illness increased by over 80%, it speaks to a larger problem outside of corrections. You do not control who comes into your care and I understand that. But what are you doing with other agencies to bring down the bell on this crisis? These are people who are living with serious mental illness. They should not be criminalized for said mental illness, and that means that there is a deep, deep failure in the continuum of care outside of corrections. So what does that collaborative work look like? Those are the three questions. Thank
+
+**(01:01:04)**
+
+
+
+you for indulging me, Chair. So I think to start, in terms of care for the population, we have seen an increase as referenced. It is about 22% currently. When we look back, prior years ranged from about 16 to 20% in recent years. Part of ensuring we meet their needs does involve the assessments that we do and then constantly evaluating based on referrals to mental health services. That said, we do recognize we have some very psychologically complex patients in our care. We do have the ability to refer those individuals to Bellevue or Elmhurst for potential hospitalization as needed. But generally speaking, through the therapeutic units and clinic appointments, we are able to address their needs while they are with us. But that is not to say that the jail environment is in any way conducive to mental health.
+
+In terms of work that we do with outside partners: yes, we do, based on clinical criteria, refer individuals to the New York City Department of Health and Mental Hygiene's single point of access program. We are not the only ones making those referrals — the shelter system also refers individuals — and then they are making those determinations for appropriateness and acceptance into things like intensive mobile treatment teams and forensic assertive community treatment. So they would be best positioned to speak to those numbers. We otherwise work with our partners — for example, on housing applications. Everyone who is homeless in our care and has serious mental illness, if interested, we will help them complete a housing application. We do more broadly work through our clinical court advocacy team. They can serve as a resource to the defense bar. We can write clinical condition letters, which tend to be more for the medically complex. We work on the jail population review and are a partner in providing, with patient consent, information around health and mental health to help get people out of jail. In terms of the number of referrals we are making specifically for ACT...
+
+**(01:03:33)**
+
+
+
+We would have a number of referrals. In terms of placement, I think the department would be best — my colleague wants to speak more.
+
+**(01:03:40)**
+
+
+
+Can we make the response tight? We are going to pivot to
+
+**(01:03:44)**
+
+
+
+CM Brewer. Good morning. I am Ellie Epps. I lead our transition services for Correctional Health Services. So as
+
+**(01:03:50)**
+
+
+
+you are aware, the vast majority of our patients are pretrial detainees. If they have received an ACT assignment while they are still in our care, we are obviously tracking that and facilitating connection to the team when folks are released from custody. We notify DOHMH if they have not yet been assigned so that they are aware of their release. But we recognize that when people leave custody, they often do not want to have continued contact with our system, so we will outreach, but we really defer to DOHMH to make those connections and to be tracking the longer-term placements.
+
+**(01:04:31)**
+
+
+
+Yeah, thank you very much. I have two questions. One is, maybe I misunderstood — Bellevue, I have been to that wonderful facility twice, I think with Dr. Katz, 104 beds. I thought they were 100% medical. Is that incorrect? That is what he told me.
+
+**(01:04:46)**
+
+
+
+That is true. Everyone there has complex medical needs. It is just that the PACE unit is for individuals who have those medical needs as well as significant psychiatric needs.
+
+**(01:04:56)**
+
+
+
+Okay, so not all of them. So there is a medical component to that. And second, how many people, within those categorized as having mental illness, are also homeless? Yes, we actually do have that analysis from earlier this year. It is 31% of our homeless patients who also have serious mental illness. So 31% would be homeless and mentally ill.
+
+**(01:05:26)**
+
+
+
+Yes, and I will say the way we categorize homelessness, it is self-reported by patients — whether they were not in housing before they entered or are likely to be unhoused
+
+**(01:05:36)**
+
+
+
+on release. Okay, that is a pretty high percentage.
+
+**(01:05:39)**
+
+
+
+31%. It is just higher than the general population. About 28% of people on Rikers right now. So when they get released, they are going somewhere, which means that medication may not be easy to obtain. That is why we send the prescription to the pharmacy of their choice, and then if they are enrolled, they can also leave with medication. Maybe my colleague has more to add, but I know this population — they do not always go where they are supposed to go.
+
+**(01:06:12)**
+
+
+
+Yeah, they do lead complicated lives. They do not
+
+**(01:06:14)**
+
+
+
+We do prescribe walking medications for people to take with them as well. Okay.
+
+**(01:06:20)**
+
+
+
+So individuals who receive mental health treatment upon their release from custody, if they are being released from Rikers Island, will come into the clinic. We make available, as my colleague mentioned, physical medication so they can leave with some medication in hand. We also have a variety of different resources. To your point, our port line, which is the peer-staffed hotline — we often have patients or providers working with those patients call in and we reroute prescriptions. So, for example, if they are no longer able to get to the pharmacy that was originally selected. We also proactively call patients where we have contact information to remind them about the pharmacy where those prescriptions were sent.
+
+**(01:06:56)**
+
+
+
+Okay. I mean, I just know how folks are. Number two is: do you have any sense of recidivism among those who have been in your mental health programs? What is the return rate for those who have been at Rikers, obviously awaiting something, and who are returning and whom you would consider mentally ill? Do you have any sense of that?
+
+**(01:07:18)**
+
+
+
+So we are not tracking recidivism as the health care provider. We do know that many of our patients do return. We do not have any specific sense of those that are mentally ill.
+
+**(01:07:28)**
+
+
+
+In terms of analysis, we could look into what we have. Other agencies have done work on that front.
+
+**(01:07:34)**
+
+
+
+But okay. I mean, that is what the issue is out there in the community. That is what I said, whether it is true or not. In terms of staffing, I know that the most recent compliance report noted that three more social workers were hired, bringing it up to 90%. Have you had any more social workers hired? Do you have any sense of recruitment? Because the issue for me is discharge planning staff categories.
+
+**(01:08:02)**
+
+
+
+It should be 100%. I guess I am concerned — I am still concerned about those that are leaving having enough support. And I guess you have never quite been in compliance with this discharge planning. Can you bring us up to date on staffing, discharge planning, et cetera?
+
+**(01:08:19)**
+
+
+
+Yes. So we have made a lot of efforts towards recruitment and retention of social workers. We know the quality of our discharge planning service is dependent upon those staff. Our vacancy rate — I would have to double check, but I believe we only have one posting at the moment. So we are very close to full staffing. Again, much of the challenge is that most of our patients are pretrial detainees and so we do not have an expected discharge date, which really makes planning and being able to put together a solid plan extremely difficult. And I apologize — what was the other part of your question?
+
+**(01:08:51)**
+
+
+
+I guess that is enough to answer. But my other question is: what is the average time between a mental health referral and the person's initial clinical evaluation? It must be — I am no expert, obviously, but it does not seem like there are a lot of services relative to the level of mental illness. Maybe just because that was the day that I was there. But it does not seem like it is under control. So I guess my question is also, in terms of the medical clinic on site at Bellevue, how many appointments are for the mentally ill on a daily basis? How are the clinics used? When I was there, nobody was at the
+
+**(01:09:36)**
+
+
+
+clinic. I can start with the first part of your question. In terms of how long it takes: looking at data from this year, we completed about 1,800 intakes. Of that, about 1,000 individuals were referred to mental health. 97 to 95% of them were seen within 72 hours. Otherwise, we can make stat referrals in general to mental health services, which we try to see people within or schedule within 24 hours. More routine appointments will be scheduled within 72 hours. In terms of the Bellevue clinic, because that is a therapeutic unit and individuals and staff are on site, our utilization rates are higher. We can follow up with you on any specifics related to mental
+
+**(01:10:23)**
+
+
+
+health. Okay. I will just leave it that this is the biggest problem in the City right now, number one, and so it needs even more attention than this wonderful Chair is giving it. I know you are kind of saying everything is okay — it is not okay. It is not okay. So obviously more follow up is needed, but it is out on
+
+**(01:10:42)**
+
+
+
+the street. A lot of your focus is on people who have been at Rikers, so you just need to do a lot more. Thank you. I understand, and I think your point about homelessness is a good one. Yeah, they are not going to take that — they are not going to any pharmacy of their choice. They do not know what that is. It is hard, you know. They are out.
+
+**(01:11:06)**
+
+
+
+Thank you. Thank you, CM. I am going to ask a few questions, and then I am going to — oh, no, sorry. CM Salaam has not gone yet. Okay. Thank you.
+
+**(01:11:17)**
+
+
+
+Sure. Just a few questions. About 40% of scheduled mental health appointments are going unseen. How much of that is refusal? How much is officers not bringing people to the clinic? How much is wait times? And what explains Bellevue's early 81% rate at point of time? Are you referring to a specific point in time, CM? Which point in time? I guess, since it is specific to Bellevue Hospital — the prison unit. Yes, I do not have that granular data, but we can certainly follow up on any missed medical appointments. I do not know if there is anything else you want to add. I mean, I do not know if you
+
+**(01:12:03)**
+
+
+
+visited, but you know, access to services is on site on the second floor. However, we can follow up on that data. I appreciate that. For Int 0133-2026, how many yearly reports has the task force issued? If the fifth is already out, does this Bill extend anything? So the task force issued a very large report in 2022. The department responded to it. It was one report at that time. The task force still continues to meet regularly on a quarterly basis, although technically the time frame for the original task force, based on the original local law, has ceased. But we continue to participate in the task force meetings on a quarterly basis.
+
+**(01:13:01)**
+
+
+
+Before Int 0453-2026, who would actually deliver these services and how would it be funded, since DOC is not a health care provider? That is a
+
+**(01:13:11)**
+
+
+
+great question. So we greatly support making sure that children and young people visiting family members, loved ones and parents get the support and referrals that they need. I think part of this Bill — DOC does not provide mental health clinical treatment. Staff providing it would not be the answer in this scenario. I do not think that we at this time have an exact determination of who would be best suited to provide that treatment. We do have multiple partners that we actually work with right now on smaller-scale initiatives. I can share some of those.
+
+First and foremost, we have a partnership at the Mayor's Office of Criminal Justice with the Visiting and Family Assistance Program that partners with our children and the Osborne Association, with a small subgroup of participants and parents that get and receive additional support for their children. We also participate with the Administration for Children's Services, which has the long-standing CHIPP program that provides support to children, but that is specific to those who might be in the foster care system. We recently started a partnership with the New York City Public Schools. We are working with their counselors and caseworkers at the New York City Public Schools in a television pilot with parents who are also incarcerated, and a core component of that is that those parents are going through a parenthood program simultaneously.
+
+Then, one of our most successful parenthood programs that we have been working with is in partnership with DYCD. That partnership grew from one pilot to multiple facility sites now, and that parenthood program also offers support through family days and activities intended to improve parent-child bonding. We have obviously partnered with the Children's Museum of Manhattan and the Brooklyn Children's Museum to provide off-site visits. We have worked with the Children's Museum of Manhattan to improve our visit spaces. But I think when we think more globally about partnerships and who would be that primary person for the referrals for clinical mental health treatment, I do not know if we at this time know exactly who that would be, or where that funding would come from, and how much funding would be necessary to make sure that the right provider or the right agency is providing that level of treatment and services that is greatly needed for children.
+
+**(01:15:35)**
+
+
+
+Definitely agree. A last question: are rules already required to track how lock-ins affect care? Is DOC complying? And why are seven out of the nine involuntary lock-ins found in mental observation units?
+
+**(01:15:56)**
+
+
+
+Sorry, CM. Can you repeat the question? Is DOC required to track how lock-ins affect care? How is it complying? And why were seven out of the nine involuntary lock-ins found in the mental observation units? My team might have — I want to make that as clear as possible, so I will sideline that one.
+
+**(01:16:30)**
+
+
+
+Okay. Yeah. Thank you.
+
+**(01:16:33)**
+
+
+
+Thank you, CM. Next we will have CM Morano. One quick question from my colleague CM Farías, who had to run, and then a couple of quick questions of my own. She asks: how many budgeted mental health clinician positions are vacant right
+
+**(01:16:49)**
+
+
+
+now — psychiatrists, psychologists, social workers and nurses? And noting that CM Farías says we do — this is usually the portion where she would mention that she herself is a nurse.
+
+**(01:16:58)**
+
+
+
+So I will mention that on her
+
+**(01:17:03)**
+
+
+
+behalf. So we currently have 244 FTE in mental health services and 33 vacancies. I will note here we have really stepped up our recruitment efforts. Mental health is an incredibly sought-after profession generally, and carceral mental health care is particularly challenging, and then Rikers itself has unique challenges as well.
+
+**(01:17:26)**
+
+
+
+But they do a phenomenal job meeting the needs with the current staffing. Returning to
+
+**(01:17:34)**
+
+
+
+Deputy Commissioner Boyd: you indicated that the department is laser focused on improving access to mental health services, and I think that is something that we are all appreciative of and grateful for. What is the single most important metric that you use to determine whether access is actually improving?
+
+Well, I think in my kind of short tenure overseeing this portfolio, I have been laser focused on the data regarding production, and I want to improve that data and improve transparency within the department. Most of the department's processes rely on paper, and that is why I have been advancing the clinic production dashboard, which I mentioned at previous hearings. It is an electronic database that the department is going to use to track the universe of clinic appointments, whether scheduled, unscheduled or walk-ins. I think that process is going to strengthen coordination with enhanced production so we can communicate and track production in real time — to see if the person was moved from the housing area to the clinic. I can look up on the dashboard and see if that person was actually produced, as opposed to relying on paper.
+
+**(01:18:40)**
+
+
+
+Would somebody have to bring it to you? So you know it is in progress. We rolled it out at two facilities. It is still in the pilot phase. We are really excited about that because that is the path forward. That is a legacy project. So since you
+
+**(01:18:52)**
+
+
+
+specifically cited the clinic production dashboard as one of the department's modernization projects, does that dashboard distinguish between a patient who refuses an appointment and
+
+**(01:19:04)**
+
+
+
+a patient who wants the appointment but the
+
+**(01:19:08)**
+
+
+
+Track well. The departmental policy is that if someone refuses to be produced to a clinic appointment, we track it on body camera. So if an escort officer is going to the housing area and the person in custody says "I don't want to go," they tap their body camera and report that encounter. We have to go back to see how we document that into the clinic production report. I do not think we are there yet, but it is something we can definitely consider.
+
+**(01:19:37)**
+
+
+
+Do we know, for instance, what percentage of missed mental health appointments this year were attributable to refusals versus the department? I do not think I have that broken out by refusals for mental health, but for the universe of appointments, about 61% were related to person in custody refusals.
+
+**(01:20:08)**
+
+
+
+And if an appointment is recorded as a refusal, does anyone ever go
+
+**(01:20:11)**
+
+
+
+back and verify that that individual actually refused and was not simply unavailable because they could not move them?
+
+**(01:20:21)**
+
+
+
+The way we codify missed appointments, that category of refusal is one where an individual is out to court or was out at another service. Those are all different categories that we codify under, so it is not under the blanket of refusal if the individual was at a different service or out to court. We do not codify it that way.
+
+**(01:20:42)**
+
+
+
+Everything. Thank you very much. Thank you. I will pivot into deadlocking. The department assured the Council that
+
+**(01:20:48)**
+
+
+
+deadlocking is no longer occurring at all. Can you speak to that?
+
+**(01:21:00)**
+
+
+
+Good morning. Sorry. Good morning. James Conroy, General Counsel for the agency. Yes, that is something that we have represented and testified about in the past. When this was first brought to our attention a couple of years ago at a Board of Correction hearing, it was referred to the Department of Investigation for them to look into these allegations. They came back with a report, or at least made a determination on the issue. The full report found that they had not found instances of this as alleged at the Board of Correction hearing. So obviously the previous and this administration in particular is committed to ensuring that that is not going on, and that any types of lock-ins are appropriately documented and appropriate in and of themselves. Thank you.
+
+**(01:21:50)**
+
+
+
+Is there still deadlocking? Are there regular inspections done of the mental health units around deadlocking?
+
+**(01:22:01)**
+
+
+
+I would not categorize it as that specifically. Obviously, any of these types of lock-ins — we have an obligation and supervisory responsibility to ensure that any lock-in, if they are taking place, are documented, appropriate and within guidelines. That is the department's position. I would not necessarily limit that to the mental health
+
+**(01:22:20)**
+
+
+
+spaces. And who would be the one doing that type of regular inspection
+
+**(01:22:28)**
+
+
+
+or check-in? It is a tiered system. It starts with the supervisors at the housing area and then moving up into the facility and then, of course, going to our overall executive staff on the uniform level.
+
+**(01:22:46)**
+
+
+
+Have correctional staff received any additional training or support to avoid them feeling that they need to resort to deadlocking?
+
+**(01:22:57)**
+
+
+
+At the time, and continuing since this was raised as an issue, we have issued memoranda and teletypes to indicate that this is not an appropriate method at all. It is not an approved practice whatsoever. So I would say overall, yes. But again, I do not think it is necessarily focused or appointed to be specifically that word, deadlocking. This is something that we do overarchingly for the entire department about what is the appropriate use in any circumstances.
+
+**(01:23:28)**
+
+
+
+Have any staff been disciplined for deadlocking?
+
+**(01:23:33)**
+
+
+
+I would have to get back to you. I do not know that I have that data. This goes back a couple of years for that investigation, but not to my knowledge. We will certainly follow up.
+
+**(01:23:50)**
+
+
+
+Did the department discipline employees for refusing to cooperate with the Department of Investigation's
+
+**(01:24:01)**
+
+
+
+investigation? I am not aware of that. I would need to follow up with you.
+
+**(01:24:20)**
+
+
+
+Can you repeat that? Sorry. The question was whether we disciplined staff related to
+
+**(01:24:26)**
+
+
+
+the investigation. So I believe that investigation found that there was deadlocking done by some employees and that they were aware of it. Excuse me. So I cannot speak to any particular disciplinary actions, but I will say for our service, we did reinforce with staff that at any time one of our clinicians encounters a barrier to accessing a patient to provide care, they are expected to report that to their supervisor. Generally that is dealt with on the local facility level in partnership with staff, and then we can always escalate as needed for persistent or systemic issues.
+
+**(01:25:15)**
+
+
+
+I will pivot into mental health treatment. How many people currently in the department's custody are receiving active mental health treatment?
+
+**(01:25:28)**
+
+
+
+So the 61% of individuals enrolled in a mental health service — do those represent individuals under active mental health care? Do you have a number, though?
+
+**(01:25:41)**
+
+
+
+Yes, that number is about 4,018. Thank you. How many people are currently receiving psychiatric medication?
+
+**(01:25:56)**
+
+
+
+About 3,000 individuals in custody.
+
+**(01:26:00)**
+
+
+
+How many people are receiving individual
+
+**(01:26:04)**
+
+
+
+psychotherapy? So that would be a standard component of our mental health service, which again covers about 60% of the health service population. Of course, what that looks like on an individual basis depends on the patient's needs and
+
+**(01:26:20)**
+
+
+
+interest. How many are receiving group therapy?
+
+**(01:26:24)**
+
+
+
+Similarly, group therapy is available on the mental health units, of which about 1,100 patients are currently housed in a mental health therapeutic housing unit. That is not to say that every patient would choose to engage in group therapy, as all of our services are voluntary.
+
+**(01:26:49)**
+
+
+
+Can you explain how staff interface with mental observation units? Like, how does that work?
+
+**(01:26:58)**
+
+
+
+Yeah. So our staff, like all of our mental health therapeutic housing units, provide services on site. On the mental observation units we do regular rounding on those units to check in on all the patients, and we have a higher frequency of visits where we see patients for clinical services. Health groups are offered therapeutically on site on their mental observation units. Medication is also provided on site for those patients.
+
+**(01:27:27)**
+
+
+
+Thank you. And can you explain how PACE units are
+
+**(01:27:31)**
+
+
+
+staffed? Yes. So we have a very robust multidisciplinary team on our PACE units that includes a psychiatric provider, a health clinician, a clinical supervisor, our nursing staff, treatment aides and discharge planning social workers who work together and meet regularly to talk about the care of each of the patients.
+
+**(01:27:59)**
+
+
+
+The most recent compliance report noted that the department has hired three additional social workers, bringing the social worker staffing rate up to 90%. Has the department hired any additional social workers since the last reporting period through
+
+**(01:28:22)**
+
+
+
+December 2025? Yes, that is what my colleague referenced. I believe we only have one current PACE vacancy, so we are actively recruiting. I can let you know when that position is filled.
+
+**(01:28:51)**
+
+
+
+Has the department created any sort of retention and recruitment plan to increase the discharge planning staff and bring that staffing rate to 100% for that specific
+
+**(01:29:02)**
+
+
+
+role? I will turn it over to my colleague. Sure. So we actually, over the last couple of years, have worked really hard to try and increase salaries, to start engaging more with different school programs. We have an incredible internal program to support social workers who are pursuing their clinical hours and licensure. So we have done a lot of work to try and advertise the incredible opportunities available within our department, and we think that that is really making a difference. Thank you.
+
+**(01:29:38)**
+
+
+
+The department has never been in compliance with court orders from April 2014, September 2014 and April 2021, which all required full staffing of all discharge planning positions. Why do you feel that is the case?
+
+**(01:29:59)**
+
+
+
+It is an incredible calling to work and serve folks who are in custody. It can be quite a daunting professional challenge. There are also practical considerations — it is a tough commute. So it can be difficult to find folks who have that level of skill and who are also called to do this work. It is a real testament to the incredible team that we have that we have the kind of retention rate that we do and that we have been able to recruit as many talented, wonderful professionals as we have. Thank you. I will pivot into my
+
+**(01:30:38)**
+
+
+
+bill, Int 0809-2026. How many lock-ins have occurred across the department's facilities in 2026? I do not have that broad data. Are you referring to lock-ins related to medical appointments or just in general?
+
+**(01:31:01)**
+
+
+
+Just in general. I would have to follow up with you, Council Member.
+
+**(01:31:05)**
+
+
+
+Can someone check in so you can get that to us? We can try. What do you find are the most common reasons for lock-ins? I will turn it over to my colleague.
+
+**(01:31:26)**
+
+
+
+I do not have specific data, but reasons that encompass a
+
+**(01:31:29)**
+
+
+
+lock-in could be for a tactical search operation or obviously an emergency in reference to an incident. Those are more prevalent reasons for a lockdown of the unit.
+
+**(01:31:58)**
+
+
+
+What is the average duration of a lock-in?
+
+**(01:32:01)**
+
+
+
+I do not have specific data in reference to how long the average is, but we do try to lift the lockdown as soon as it is safe to do so.
+
+**(01:32:11)**
+
+
+
+We are very limited in that.
+
+**(01:32:14)**
+
+
+
+How many lock-ins have lasted more than four hours? Again, I can follow up with that information.
+
+**(01:32:19)**
+
+
+
+So the concern I have now is that my bill is about lock-ins, and I would imagine that you all would come with data about the lock-ins. Do you have any data available today to talk about the lock-ins? We did not supply data in reference to lock-ins specifically. So how in this oversight hearing is the department going to help to inform us in terms of this legislation and whether or not it is something that is feasible, given that the department came with an opinion about the bill but no data? I am not following that.
+
+**(01:33:07)**
+
+
+
+So the one data set we do have specific to medical appointments that were rescheduled due to lock-in — that was 0.1%. The department has made a lot of progress when it comes to producing individuals in custody to their appointments, especially during a lockdown when it is safe to do so. Council Member, you have been in our facilities and you have seen the corridors. If something has happened on one side — an incident that is happening on one side of the building — we are not going to move people around until it is safe to do so, especially with a population who might either retaliate or react to another person in custody in the corridors. We want to be very conscientious of that.
+
+But we work very closely so that if someone has missed their medical appointment due to a lock-in, we try to see if they can be produced the same day. That is progress. In addition, this clinic production dashboard, I think, is the path forward to strengthen that coordination and track things in real time. I welcome the opportunity for you to come tour the facility and see the clinic production dashboard yourself and engage with uniform staff to see how it is working. We think modernization is the key here. We can follow up when it comes to specific lockdown incidents, but it is all incident-driven. Each situation is unique, and I would just take that into consideration — lockdowns are not just a broad brush. It is incident-driven depending on whatever the situation is that precipitated it.
+
+**(01:34:46)**
+
+
+
+The 0.1% that you mentioned — is that for 2026, January 2026 through August 2026?
+
+**(01:35:09)**
+
+
+
+And how does the department notify health staff when a lock-in begins at a facility?
+
+**(01:35:23)**
+
+
+
+I mean, that is constant conversation. The wardens are very much aware, and I can speak to the health staff assigned to the jail. Each facility has health staff assigned to them. The warden and their leadership team are having various daily conversations with the health staff. I am not sure if there are additional details that our leadership can speak better to, but these are ongoing conversations that facilitate engagement efforts to see what is going on with specific individuals in custody, how we can produce people if there are challenges to producing them. That is ongoing. It is happening right now. It happens every day. That is the best way I can answer the question so far.
+
+**(01:36:11)**
+
+
+
+Are you generally notified before the lock-in begins? At what point are you notified?
+
+**(01:36:18)**
+
+
+
+We would not be notified in advance if it were an emergency lock-in. We would, of course, know if someone was not produced to an appointment, at which point we would work to reschedule the individual based on acuity and need.
+
+**(01:36:29)**
+
+
+
+Are the lock-ins only when a crisis moment happens? To your point, is that the only time lock-ins are happening?
+
+**(01:36:37)**
+
+
+
+So if we have credible information that needs to be investigated, that can be a reason we would lock down a unit for investigation into actionable intelligence.
+
+**(01:36:45)**
+
+
+
+And in that moment, are
+
+**(01:36:48)**
+
+
+
+you notifying health staff in advance? So it is not going to be in advance unless it is something that is pretty well scheduled. Most of those events are not pre-scheduled, and unless it is a search — which again, we would notify health staff as close to the event as possible, just to make sure that we are able to conduct a thorough search in a surprise nature. We have daily huddles and we are in constant communication with them. We have officers that are assigned to the clinic who work in conjunction with health staff, so the officers in the clinic will be immediately notified and then our partners would also be notified. Just because an area is locked down does not mean that we cannot produce that person, and it is escalated based on the nature of the appointment and the emergent need for that person to be produced. If an individual is needed, they will be produced.
+
+**(01:37:42)**
+
+
+
+How does the department prioritize patients for appointments missed because of a lock-in?
+
+**(01:37:50)**
+
+
+
+I am not even specific to lock-ins, but anytime there are missed appointments, we are looking at clinical acuity and need. I do not want to speak to lock-ins
+
+**(01:37:59)**
+
+
+
+specifically, but we look at medication adherence and the incidents documented — what were they looking like in their most recent visit, what has been their level of stability. Those sorts of factors are taken into account as to prioritization and re-entry.
+
+**(01:38:16)**
+
+
+
+What information does the department use to safely manage care during a lock-in?
+
+**(01:38:23)**
+
+
+
+So I think because a lock-in is just a temporary moment in time, I would not necessarily focus on non-production to a clinic during a lock-in. I think it is broader. I think the work, as referenced earlier, that our health services administrators are doing with the officers in the clinic and the conversations that are happening at the leadership level are really to address systemic production challenges. For our purposes, whether someone misses an appointment because of court or a lock-in or the barbershop or any number of reasons, it would not change our clinical assessment of the need for continued care. Thank you.
+
+**(01:40:50)**
+
+
+
+All right. You may begin when ready. Good morning, Chair Brooks-Powers and members of the Committee on Criminal Justice. My name is Arjun Brewster and I am a lead budget and policy analyst at the New York City Independent Budget Office. I am joined today by my colleague Clara Salland. We are a government agency whose mission is to enhance understanding of New York City's budget, public policy and economy through independent analysis. We appreciate the invitation to testify today at this hearing on mental health care in New York City's jails.
+
+**(01:41:23)**
+
+
+
+The Independent Budget Office has been closely monitoring the changing jail population in light of the mandate to close the facilities on Rikers Island. Today we
+
+**(01:41:29)**
+
+
+
+will share a preliminary analysis from a forthcoming publication about people in custody with a history of mental illness and or homelessness. While previous publications have noted that the City has diverted many people facing lower-level charges, the jail population is still larger than the capacity of the borough-based jails. The rates of mental illness among people in custody have historically been higher than in the general public.
+
+**(01:41:53)**
+
+
+
+But the share of the jail population with mental health needs has been increasing even as the City has expanded its diversion programs. However, the overall population with a mental illness is not homogeneous. To understand this population in more detail, we analyzed data through the end of June 2026. We identified two distinct populations with mental health needs in custody: those with a co-occurring history of homelessness and those with a history of mental illness alone.
+
+Though this hearing is focused on mental health, we cannot talk about this population without also talking about housing needs. Of the 19,000 unique people discharged in fiscal year 2026, 58% had a history of mental illness, 30% had a history of mental illness and homelessness, and 26% had a history of mental illness, a history of homelessness and a prior stay in custody. Because our data analysis does not include individuals who have histories of mental illness and homelessness documented in other data, nor does our analysis include other co-occurring needs such as substance use disorder and experience with domestic violence, we recognize the importance of these factors in addressing the needs of people with mental illness, but due to data limitations we will not be speaking to them in this testimony.
+
+We found that certain groups of people in custody were more likely to have a history of mental illness and homelessness. When looking at differences across gender, we found that while transgender, gender nonconforming and non-binary people — GNC — are a very small share of the jail population, they have higher rates of mental illness and homelessness than cisgender people in custody. 93% had a history of mental illness and 67% also had a co-occurring history of homelessness. They were also more likely to have a prior stay in custody. Cisgender women, who make up about 10% of the jail population in 2026, were also more likely to have a history of mental illness and a co-occurring history of homelessness compared with cisgender men. Given the higher level of mental health and housing support needed among transgender, gender nonconforming and non-binary people and cisgender women, increasing services for complex needs to support these groups is particularly important.
+
+People with a history of homelessness also tend to be older, including people with a co-occurring history of mental illness and people who, particularly, also have a prior jail stay. Among those with a prior stay, the median age for people with neither a history of homelessness nor mental illness was 33. For people who had a history of both, the median age was 39. The link between incarceration, accelerated aging and poor health outcomes has been well established. Outside of correctional settings, people are typically considered older adults beginning at age 65. In correctional settings, that threshold is 55.
+
+We will now talk about charges and length of stay. The remainder of this testimony focuses on people with a prior stay only — so people who have returned to custody. People with a history of mental illness and a co-occurring history of homelessness typically face less serious charges than those with solely a history of mental illness. In recent years, people with a history of both needs were about half as likely to be charged with the most serious A or B felony charges as people with a history of neither need. The most common charge for those with a history of both needs discharged in fiscal year 2026 was petty larceny. In contrast, people with a history of mental illness alone, without a history of homelessness, were charged with A or B felonies at similar rates to those with a history of neither need. Their most common charge in fiscal year 2026 was assault in the second degree.
+
+People with a documented history of mental health needs also have longer lengths of stay for the same charges than people without a history of mental illness. For example, the median length of stay on a second degree assault charge for people just charged in fiscal year 2026 was six days for individuals with neither history, 36 days for individuals with a history of mental illness alone and 74 days for individuals with a history of both mental illness and homelessness. Lastly, in fiscal year 2026, people with a history of mental illness had bail set at similar rates to other populations but paid bail at a lower rate, especially those with a co-occurring history of homelessness. People with both needs paid bail in just 9% of their stays where bail was able to be set, compared with 39% among people with neither a history of mental illness nor homelessness where bail was set.
+
+In summary, as the City considers how to support people with mental health needs who come into contact with the criminal legal system, our findings show that these populations have distinct characteristics and therefore distinct needs. Further details will be shared in our forthcoming report. Thank you again for the opportunity to testify and we look forward to answering your
+
+**(01:46:35)**
+
+
+
+questions. Thank you both.
+
+**(01:46:39)**
+
+
+
+Can you explain how you did your analysis? Absolutely. So, through our charter-mandated powers to receive data from City agencies, we have data on every stay in custody from fiscal year 2008 through 2026. We used that data to identify people who were flagged — for example, as a class member, meaning someone who is likely receiving mental health treatment or has been sent to a state hospital for competency restoration. That is how we identified people with a mental illness. Our numbers differ from some other reported numbers because we are looking across multiple stays, given that many people have very short stays in custody. It is not uncommon to see stays of five days or fewer, and so people may not make it through all of the processes to be identified as someone with mental illness in those short stays.
+
+As it relates to people with a history of homelessness, we did a couple of different things. We used the address data available to us to identify keywords — so sometimes you will just see in the address data "homeless" or "shelter" — and we flagged those keywords as well as matched to shelter addresses that
+
+**(01:48:13)**
+
+
+
+we are also aware of.
+
+**(01:48:14)**
+
+
+
+And again we looked across people's histories to identify people in case they were not flagged when they had those very short stays. Thank
+
+**(01:48:24)**
+
+
+
+you for that. You mentioned data constraints. Can you expand on that? What data
+
+**(01:48:29)**
+
+
+
+do you need? So I think in particular with this analysis, what we wanted to make clear is that this intersection of mental health needs and housing needs is not the only intersection that people should be aware of. Something, for example, we do not look at specifically is serious mental illness, because in the data that we have available we do not have a marker for that specifically. Data limitations like that. Similarly, substance use disorder or a history of experience with domestic violence — those are other factors that are often considered when creating programs and diversion programs for these populations. Thank you for
+
+**(01:49:17)**
+
+
+
+that. Are there specific recommendations to address the mental health crisis in jails? So the agency does not make
+
+**(01:49:26)**
+
+
+
+recommendations. However, we do hope that our forthcoming report on this can help policymakers develop programs, as you so decide, that are responsive to the complex needs of these individuals. We hope that our forthcoming report will go a little bit deeper into that to support your decision-making process.
+
+**(01:49:49)**
+
+
+
+And do you know how much the City spends on mental health care for people that are in custody with the Department? I
+
+**(01:49:56)**
+
+
+
+did not bring that with us today, but that is something that we can certainly look into and get back to you.
+
+**(01:50:01)**
+
+
+
+And when you let us know, it would be good to know also how that spending is separated
