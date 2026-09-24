@@ -1,0 +1,83 @@
+{
+ "file_number": "T2026-2458",
+ "slug": "t2026-2458",
+ "legistar_id": "8207563",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the dissemination of information on the rent freeze program and training for participating agencies",
+ "status": "Introduced",
+ "sponsors": [
+  "Chris Banks",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845547&GUID=6480D4A6-11A2-426F-A88F-6F02D15F0023"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845549&GUID=D9465BE5-545A-4DC9-9902-D2C71DDF4BF4"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869910&GUID=983D81CD-4F11-4299-A901-F99FC82D844F"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859222&GUID=731AEB7B-4645-413D-849E-11660C5FA20C"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860076&GUID=D08C6794-F197-45C8-86C5-DD88092B540F"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859222&GUID=731AEB7B-4645-413D-849E-11660C5FA20C"
+ },
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8207563&GUID=9839F73C-0E53-4733-B8C6-E48573551EC7"
+}

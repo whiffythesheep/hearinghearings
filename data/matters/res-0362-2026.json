@@ -1,0 +1,71 @@
+{
+ "file_number": "Res 0362-2026",
+ "slug": "res-0362-2026",
+ "legistar_id": "7944788",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.237-B, legislation to amend the Environmental Conservation Law, in relation to returnable bottles",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Sandy Nurse",
+  "Jennifer Gutiérrez",
+  "Harvey D. Epstein",
+  "Julie Won",
+  "Gale A. Brewer"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 362",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303750&GUID=03DC8341-3110-486A-BCC9-42199EB79B02"
+  },
+  {
+   "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15304987&GUID=2999D719-CC37-4064-91B7-DAB0C6375DA0"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433225&GUID=E0B02FF4-7DDD-49C9-AE57-F2A14972B042"
+  },
+  {
+   "label": "Committee Report 9/15/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855205&GUID=B7BEAFE2-D7AC-4434-9C92-9BFD9CC7F6CA"
+  },
+  {
+   "label": "Hearing Testimony 9/15/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15871058&GUID=3FFBAAA5-FD9B-4F36-9585-D5A01EAB1962"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-15",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-15",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7944788&GUID=8BF33B92-5918-43DF-B4A2-61C1706BFD27"
+}

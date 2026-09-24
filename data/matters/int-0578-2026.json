@@ -1,0 +1,105 @@
+{
+ "file_number": "Int 0578-2026",
+ "slug": "int-0578-2026",
+ "legistar_id": "7879187",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to reforming the industrial business zone boundary commission",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Jennifer Gutiérrez",
+  "Farah N. Louis",
+  "Alexa Avilés"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 578",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15188303&GUID=0ABCC031-FC3F-4479-9C17-7EE8C8DDE63E"
+  },
+  {
+   "label": "Int. No. 578",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15189984&GUID=70EA4332-258E-41F8-9D39-95EEF008DD3E"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15188305&GUID=1DA6694B-D6E6-4613-9527-E668C70D7062"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302447&GUID=E08573D4-5ED4-4458-9068-A6DF260E6920"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729414&GUID=E5C5FBDA-E299-432E-AEC2-3941A708B9AA"
+  },
+  {
+   "label": "Committee Report 9/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854758&GUID=42EEFAAE-5E2A-4C0E-A406-AD05D08C0EA5"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858507&GUID=0C5B79A3-F9EB-4A21-82AA-4A07C83F3B20"
+  },
+  {
+   "label": "Hearing Testimony 9/16/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931666&GUID=0EE5DAB6-06F7-422D-95F6-B5F1366FA2CB"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858507&GUID=0C5B79A3-F9EB-4A21-82AA-4A07C83F3B20"
+ },
+ "history": [
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879187&GUID=5C757D40-139C-4050-9679-21F23A76A5C6"
+}

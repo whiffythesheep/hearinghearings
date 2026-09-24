@@ -1,0 +1,96 @@
+{
+ "file_number": "Int 0834-2026",
+ "slug": "int-0834-2026",
+ "legistar_id": "7984636",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on minority- and women-owned business participation in subcontracts for human services contracts",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Lincoln Restler",
+  "Althea V. Stevens",
+  "Nantasha M. Williams",
+  "Selvena N. Brooks-Powers"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 834",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393415&GUID=07400B1D-DD1E-431C-8AC8-BF4541D1903E"
+  },
+  {
+   "label": "Int. No. 834",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393416&GUID=6C911ACE-222D-4020-A0E8-C1192AB02B85"
+  },
+  {
+   "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395144&GUID=091AD99E-2482-469F-8D62-10BD4D48433B"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508416&GUID=A439E507-546D-4E04-9920-BBE23F69EFBF"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882867&GUID=24664AEE-9692-4AE6-968C-BF5DE794465B"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15893421&GUID=6E8DC39A-92A3-4513-A83D-7C14E37CB71B"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882867&GUID=24664AEE-9692-4AE6-968C-BF5DE794465B"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7984636&GUID=B9FFFE26-4CA4-47AE-B20E-4E70184EA030"
+}

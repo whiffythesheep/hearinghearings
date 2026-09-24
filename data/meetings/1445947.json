@@ -1,0 +1,89 @@
+{
+ "event_id": "1445947",
+ "date": "2026-09-23",
+ "body": "Committee on General Welfare",
+ "location": "Committee Room - City Hall VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445947&GUID=82AE6C91-3B3D-40B0-8337-83FE96D02D8C&Search=",
+ "items": [
+  {
+   "file_number": "Int 0248-2026",
+   "type": "Introduction",
+   "name": "Streamlining enrollment of eligible individuals in fair fares.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "Proposed Int. No. 248-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862039",
+   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947"
+  },
+  {
+   "file_number": "Int 0248-2026",
+   "type": "Introduction",
+   "name": "Streamlining enrollment of eligible individuals in fair fares.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7862039",
+   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947"
+  },
+  {
+   "file_number": "Int 0248-2026",
+   "type": "Introduction",
+   "name": "Streamlining enrollment of eligible individuals in fair fares.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7862039",
+   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947"
+  },
+  {
+   "file_number": "Int 0248-2026",
+   "type": "Introduction",
+   "name": "Streamlining enrollment of eligible individuals in fair fares.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7862039",
+   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

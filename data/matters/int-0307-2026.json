@@ -1,0 +1,123 @@
+{
+ "file_number": "Int 0307-2026",
+ "slug": "int-0307-2026",
+ "legistar_id": "7862322",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a universal application and recertification system for the senior citizen rent increase exemption program and disability rent increase exemption program",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Christopher Marte",
+  "Lynn C. Schulman",
+  "Yusef Salaam",
+  "Eric Dinowitz",
+  "Gale A. Brewer",
+  "Carmen N. De La Rosa",
+  "Shekar Krishnan",
+  "Chi A. Ossé",
+  "Lincoln Restler",
+  "Tiffany L. Cabán",
+  "Shahana K. Hanif",
+  "Farah N. Louis",
+  "Althea V. Stevens",
+  "Sandra Ung",
+  "Mercedes Narcisse",
+  "Oswald J. Feliz",
+  "Harvey D. Epstein",
+  "Carl Wilson",
+  "Shirley Aldebol",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 307",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252975&GUID=8175A0B7-CCB4-4CA6-90E1-1BC4C7E366F3"
+  },
+  {
+   "label": "Int. No. 307",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252978&GUID=5759B974-E5AE-473F-A0F6-F604D133E594"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251722&GUID=87B1EA9B-BEDD-438E-8311-9288D2FEC479"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252414&GUID=3B09F56E-4396-4F71-8B6B-9AD7E7775E85"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15349065&GUID=A6F72577-B15D-4BD3-94FF-74B5ABC6A6B6"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859248&GUID=219AA89D-A4BF-4E55-9383-F2EE998EBDCA"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860070&GUID=8C5F2E18-6D01-4D44-879F-596A9B283C88"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859248&GUID=219AA89D-A4BF-4E55-9383-F2EE998EBDCA"
+ },
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-08-26",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862322&GUID=1ADDB264-A734-4ED7-BA0C-351B932AF950"
+}

@@ -1,0 +1,97 @@
+{
+ "file_number": "Int 0809-2026",
+ "slug": "int-0809-2026",
+ "legistar_id": "7984514",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to create and implement policies to address medical needs during and after lock-ins",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Selvena N. Brooks-Powers",
+  "Farah N. Louis",
+  "Nantasha M. Williams",
+  "Mercedes Narcisse",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 809",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393123&GUID=CD9E47D4-6561-4ED1-BD67-9A681456A926"
+  },
+  {
+   "label": "Int. No. 809",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393122&GUID=2905E3EA-19BD-4F3D-A19D-46759E2D4249"
+  },
+  {
+   "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395112&GUID=057AD6D5-71EB-4FFE-82D2-2367E4E37CB3"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508385&GUID=E32DEA7D-F38C-4916-A835-B97D1C8DF2E6"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870552&GUID=141F39BE-3785-4DE9-B681-4C89EF77B451"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15887577&GUID=AD8E4E99-A3E6-4635-8977-A6BD44AF5710"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870552&GUID=141F39BE-3785-4DE9-B681-4C89EF77B451"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Criminal Justice",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7984514&GUID=EB229EB4-B428-46B5-B44A-A54C92355238"
+}

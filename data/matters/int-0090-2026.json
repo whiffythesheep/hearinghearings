@@ -1,0 +1,107 @@
+{
+ "file_number": "Int 0090-2026",
+ "slug": "int-0090-2026",
+ "legistar_id": "7861496",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to lease agreements concerning storefront premises",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Farah N. Louis",
+  "Selvena N. Brooks-Powers",
+  "Shahana K. Hanif",
+  "Shirley Aldebol",
+  "Lynn C. Schulman",
+  "Carl Wilson",
+  "Virginia Maloney",
+  "Amanda C. Farías",
+  "Harvey D. Epstein"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 90",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171293&GUID=E8A0527D-7F0E-4176-9024-E84C0D987660"
+  },
+  {
+   "label": "Int. No. 90",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171294&GUID=62FF6D36-5074-432E-8A5E-A3709105D445"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251436&GUID=0FD4F6F6-2993-48C8-9B27-784E81D92F91"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252131&GUID=C378B0C4-395C-4609-AC93-A71212324323"
+  },
+  {
+   "label": "Committee Report 9/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854756&GUID=706BDA06-BDD2-483E-A50A-D5D133BB22CD"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858505&GUID=EF83793C-97C8-47EB-9A46-58D671C1B9CB"
+  },
+  {
+   "label": "Hearing Testimony 9/16/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931663&GUID=74ECD270-FEE4-4E3E-9197-7FBCD89DAFAC"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858505&GUID=EF83793C-97C8-47EB-9A46-58D671C1B9CB"
+ },
+ "history": [
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861496&GUID=C6FBEBDA-F7D4-49C1-B513-936830AC6AD4"
+}

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25",
+  "scraped_at": "2026-09-23",
   "sources": {
     "districts": "https://council.nyc.gov/districts/",
     "committees": "https://council.nyc.gov/committees/"
@@ -162,7 +162,7 @@
       "role": null
     },
     "40": {
-      "name": "Rita Joseph",
+      "name": "Rita C. Joseph",
       "role": null
     },
     "41": {
@@ -246,7 +246,7 @@
     "Oswald Feliz",
     "Phil Wong",
     "Pierina Ana Sanchez",
-    "Rita Joseph",
+    "Rita C. Joseph",
     "Sandra Ung",
     "Sandy Nurse",
     "Selvena N. Brooks-Powers",
@@ -283,7 +283,7 @@
         "Nantasha Williams",
         "Althea Stevens",
         "Chi Ossé",
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Simcha Felder"
       ],
       "url": "https://council.nyc.gov/committees/children-and-youth/"
@@ -375,7 +375,7 @@
         "Harvey Epstein",
         "Tiffany Cabán",
         "Sandy Nurse",
-        "Rita Joseph"
+        "Rita C. Joseph"
       ],
       "url": "https://council.nyc.gov/committees/disabilities/"
     },
@@ -404,7 +404,7 @@
         "Lynn Schulman",
         "Phil Wong",
         "Jennifer Gutiérrez",
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Susan Zhuang",
         "Farah N. Louis",
         "Mercedes Narcisse"
@@ -500,9 +500,9 @@
       "url": "https://council.nyc.gov/committees/health/"
     },
     "Committee on Higher Education": {
-      "chair": "Rita Joseph",
+      "chair": "Rita C. Joseph",
       "members": [
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Harvey Epstein",
         "Carl Wilson",
         "Virginia Maloney",
@@ -537,7 +537,7 @@
         "Kevin C. Riley",
         "Oswald Feliz",
         "Crystal Hudson",
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Susan Zhuang"
       ],
       "url": "https://council.nyc.gov/committees/housing-and-buildings/"
@@ -548,7 +548,7 @@
         "Elsie Encarnacion",
         "Gale A. Brewer",
         "Alexa Avilés",
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Kamillah M. Hanks"
       ],
       "url": "https://council.nyc.gov/committees/immigration/"
@@ -769,7 +769,7 @@
         "Gale A. Brewer",
         "Kevin C. Riley",
         "Julie Won",
-        "Rita Joseph",
+        "Rita C. Joseph",
         "Simcha Felder",
         "Kayla Santosuosso"
       ],

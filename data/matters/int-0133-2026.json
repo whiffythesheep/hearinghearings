@@ -1,0 +1,99 @@
+{
+ "file_number": "Int 0133-2026",
+ "slug": "int-0133-2026",
+ "legistar_id": "7861745",
+ "type": "Introduction",
+ "title": "A Local Law in relation to extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, gender nonconforming, non-binary, and intersex individuals in the custody of the department of correction",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Tiffany L. Cabán",
+  "Crystal Hudson",
+  "Farah N. Louis",
+  "Gale A. Brewer",
+  "Shahana K. Hanif",
+  "Carl Wilson",
+  "Amanda C. Farías"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 133",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15180104&GUID=F08B041C-33AC-4631-871F-079A8D2229E9"
+  },
+  {
+   "label": "Int. No. 133",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15180105&GUID=F53EA511-D9FF-4693-899E-18B7D77B9F25"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251497&GUID=38E2E305-EC3A-4784-8F40-CEE11E9077E0"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252192&GUID=E654A615-61F7-4275-9486-BDA0D7441AFC"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870509&GUID=9FB585B8-BF5E-4089-8116-78C5A3A62EF1"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15887574&GUID=ECBBE1CE-C67E-4A1C-9B1A-A9519A5C71F6"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870509&GUID=9FB585B8-BF5E-4089-8116-78C5A3A62EF1"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Criminal Justice",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861745&GUID=7FAC5777-9DD5-4DA5-A1F8-23DB53ED9399"
+}

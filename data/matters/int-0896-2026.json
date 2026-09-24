@@ -1,0 +1,103 @@
+{
+ "file_number": "Int 0896-2026",
+ "slug": "int-0896-2026",
+ "legistar_id": "8027976",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting city agencies from procuring non-compostable, single-use cups",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Harvey D. Epstein",
+  "Shahana K. Hanif",
+  "Mercedes Narcisse",
+  "Lincoln Restler",
+  "Gale A. Brewer",
+  "Shirley Aldebol"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 896",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477807&GUID=8AD816ED-4F09-4A9C-9F08-983706FF8D6E"
+  },
+  {
+   "label": "Int. No. 896",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477808&GUID=07832600-A119-4E02-B645-1E9A345F4624"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15649814&GUID=39344F39-3306-4FA0-845E-BC98DA7635D6"
+  },
+  {
+   "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548226&GUID=E4FEF39A-421D-4885-8C93-0A8410F69BF7"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848988&GUID=B05E9FFE-D632-4DA9-8773-C49865A22445"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882868&GUID=249A1C54-6D1A-4DA0-B3A9-8270F710DBA6"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15893422&GUID=3C871DEA-0527-4533-8D92-5D081D827E03"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882868&GUID=249A1C54-6D1A-4DA0-B3A9-8270F710DBA6"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-05-13",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8027976&GUID=1C24AD90-475D-495D-8DC1-86F928D51574"
+}

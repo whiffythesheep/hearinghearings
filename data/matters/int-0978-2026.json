@@ -1,0 +1,144 @@
+{
+ "file_number": "Int 0978-2026",
+ "slug": "int-0978-2026",
+ "legistar_id": "8138357",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Farah N. Louis",
+  "Gale A. Brewer",
+  "Susan Zhuang",
+  "Harvey D. Epstein",
+  "Amanda C. Farías",
+  "Christopher Marte",
+  "Crystal Hudson",
+  "Kevin C. Riley",
+  "Shanel Thomas-Henry",
+  "Shahana K. Hanif",
+  "Lincoln Restler",
+  "Carl Wilson",
+  "Virginia Maloney",
+  "Ty Hankerson",
+  "Shaun Abreu",
+  "Oswald J. Feliz",
+  "Lynn C. Schulman",
+  "Shekar Krishnan",
+  "Tiffany L. Cabán",
+  "Chris Banks",
+  "Julie Won",
+  "Eric Dinowitz",
+  "Jennifer Gutiérrez",
+  "Carmen N. De La Rosa",
+  "Alexa Avilés",
+  "Chi A. Ossé",
+  "Sandy Nurse",
+  "Phil Wong",
+  "Mercedes Narcisse",
+  "Inna Vernikov",
+  "(in conjunction with the Manhattan Borough Preside"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 978-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15807209&GUID=16AB8F6A-F447-4460-A1A8-DE7A989A2DC9"
+  },
+  {
+   "label": "Summary of Int. No. 978",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695517&GUID=765E04BA-7E47-4B5D-AA84-07A85C4D9D67"
+  },
+  {
+   "label": "Int. No. 978",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695516&GUID=8276733B-18CA-4DA6-943D-821477C26A6F"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695523&GUID=517DA895-727C-4F79-AFB2-E991B7F42885"
+  },
+  {
+   "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699681&GUID=B89201B1-D956-4A0C-A167-011050559643"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720703&GUID=BA18A00D-E0CF-43C1-B655-412B450CE982"
+  },
+  {
+   "label": "Proposed Int. No. 978-A - 8/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15807208&GUID=93C71FAD-F310-4D9B-B870-DC9A38FEA9AB"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860072&GUID=750EBDD1-8309-4594-B24A-79DC821682A0"
+  },
+  {
+   "label": "Proposed Int. No. 978-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865937&GUID=BB1455CB-6006-44EB-864F-7350089DAB87"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": -1470724,
+   "succeeding": -1470724,
+   "full": -1470724
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": -1470724,
+   "succeeding": -1470724,
+   "full": -1470724
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 978-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865937&GUID=BB1455CB-6006-44EB-864F-7350089DAB87"
+ },
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-07-24",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8138357&GUID=2B26BF12-0C32-42DF-ACDB-B86C90707DEA"
+}

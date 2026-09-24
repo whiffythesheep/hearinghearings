@@ -1,0 +1,112 @@
+{
+ "file_number": "Int 0100-2026",
+ "slug": "int-0100-2026",
+ "legistar_id": "7861530",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring reporting of lease-up times for housing vouchers",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Amanda C. Farías",
+  "Tiffany L. Cabán",
+  "Farah N. Louis",
+  "Sandy Nurse",
+  "Rita C. Joseph",
+  "Lynn C. Schulman",
+  "Althea V. Stevens",
+  "Sandra Ung",
+  "Alexa Avilés",
+  "Christopher Marte",
+  "Shekar Krishnan",
+  "Jennifer Gutiérrez",
+  "Harvey D. Epstein",
+  "Crystal Hudson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 100",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160449&GUID=DD939292-01CD-42CA-9B57-A803FF51439C"
+  },
+  {
+   "label": "Int. No. 100",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15160448&GUID=D4033CA3-C0C9-4687-B46D-6D7F93D8C21E"
+  },
+  {
+   "label": "Memorandum In Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154084&GUID=39C4926B-EE97-4AED-8720-E0BB54D3A8FC"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251446&GUID=C35F6567-91B8-4D7C-B72A-1C6B1B6FC544"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252141&GUID=D43AAEE8-D0AA-4834-9B19-8DA1804F824E"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866699&GUID=BB12514B-BDE9-4A23-981C-4D70F928C928"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870438&GUID=F02F4149-AB81-433D-8DB1-E71BCAF2BEB6"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870438&GUID=F02F4149-AB81-433D-8DB1-E71BCAF2BEB6"
+ },
+ "history": [
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861530&GUID=F325D8DD-A06D-45E5-94A3-6A815EF778B2"
+}

@@ -1,0 +1,89 @@
+{
+ "event_id": "1445950",
+ "date": "2026-09-23",
+ "body": "Committee on Criminal Justice",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445950&GUID=87783861-8A5B-43EB-A4C9-A05F2F0D18A1&Search=",
+ "items": [
+  {
+   "file_number": "Int 0246-2026",
+   "type": "Introduction",
+   "name": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "Proposed Int. No. 246-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862037",
+   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D"
+  },
+  {
+   "file_number": "Int 0246-2026",
+   "type": "Introduction",
+   "name": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7862037",
+   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D"
+  },
+  {
+   "file_number": "Int 0246-2026",
+   "type": "Introduction",
+   "name": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7862037",
+   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D"
+  },
+  {
+   "file_number": "Int 0246-2026",
+   "type": "Introduction",
+   "name": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7862037",
+   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

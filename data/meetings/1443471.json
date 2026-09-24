@@ -1,0 +1,33 @@
+{
+ "event_id": "1443471",
+ "date": "2026-09-22",
+ "body": "Subcommittee on Zoning and Franchises",
+ "location": "Committee Room - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443471&GUID=08B08E8E-2919-4510-8B1B-9E0AABDD279A&Search=",
+ "items": [
+  {
+   "file_number": "LU 0141-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8207002",
+   "legistar_guid": "75CF2FF0-30A0-4CF3-B961-A1C876C7F44E"
+  },
+  {
+   "file_number": "LU 0141-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Laid Over by Subcommittee",
+   "result": "",
+   "legistar_id": "8207002",
+   "legistar_guid": "75CF2FF0-30A0-4CF3-B961-A1C876C7F44E"
+  }
+ ]
+}

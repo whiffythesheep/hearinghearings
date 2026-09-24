@@ -1,0 +1,66 @@
+{
+ "file_number": "Res 0431-2026",
+ "slug": "res-0431-2026",
+ "legistar_id": "7984739",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, legislation authorizing property tax incentives for property owners who dedicate twenty percent of existing housing stock to senior citizens and individuals experiencing homelessness",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Susan Zhuang",
+  "Nantasha M. Williams",
+  "Selvena N. Brooks-Powers",
+  "Jennifer Gutiérrez",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 431",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393642&GUID=A6B9CB1C-72C4-46A6-BACE-45E90471AD4C"
+  },
+  {
+   "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395174&GUID=F532012B-738F-4FA7-B69A-200FF3307E98"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508446&GUID=17AFF54A-151E-46E9-BEAA-6CBEEE325D03"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860086&GUID=3A1FF51A-1188-4515-B499-70A1E6A367C1"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7984739&GUID=DA2F9C22-B0BB-455C-8BBA-8C05312F5D5B"
+}

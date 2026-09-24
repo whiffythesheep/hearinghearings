@@ -1,0 +1,38 @@
+{
+ "file_number": "T2026-2466",
+ "slug": "t2026-2466",
+ "legistar_id": "8191061",
+ "type": "Oversight",
+ "title": "Oversight - NYPD Crime Statistics.",
+ "status": "Filed",
+ "sponsors": [],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859249&GUID=E3398ABD-F04C-43E5-9959-B497F1372425"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931727&GUID=C6028F76-9830-4167-9C7A-16D9E6C9C943"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Public Safety",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Public Safety",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8191061&GUID=888299BD-B7F8-44F7-8084-E61BBAD85C40"
+}

@@ -1,0 +1,109 @@
+{
+ "file_number": "Int 0208-2026",
+ "slug": "int-0208-2026",
+ "legistar_id": "7861957",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York in relation to requiring the inclusion of businesses owned by persons of Middle Eastern and North African descent in future disparity studies",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Shahana K. Hanif",
+  "Julie Won",
+  "Tiffany L. Cabán",
+  "Kamillah Hanks",
+  "Yusef Salaam",
+  "Lincoln Restler",
+  "Alexa Avilés",
+  "Amanda C. Farías",
+  "Oswald J. Feliz",
+  "Farah N. Louis",
+  "Crystal Hudson",
+  "Kayla Santosuosso"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 208",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154700&GUID=5ADF24ED-0685-475F-B6D5-DDD870359FE9"
+  },
+  {
+   "label": "Int. No. 208",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154699&GUID=7C572579-8CA6-46D6-A8BC-D82E8CE01DF0"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251607&GUID=16FB4D4D-A880-4A7D-97B3-23640F62621C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252303&GUID=E7181F2F-0091-468E-A5B6-A6BBC89EAC99"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15347858&GUID=4121E15C-067C-4D29-A1C4-EC6DFD7D4CBA"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882865&GUID=8F971948-5A5C-4EDF-B56D-B511A975F617"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15893419&GUID=69339928-4260-4D62-8FF6-5F0E60D7029F"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882865&GUID=8F971948-5A5C-4EDF-B56D-B511A975F617"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Contracts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861957&GUID=404AA8FD-1A91-48F7-B6A7-AF19031DDE26"
+}

@@ -1,0 +1,69 @@
+{
+ "file_number": "Res 0512-2026",
+ "slug": "res-0512-2026",
+ "legistar_id": "8067941",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.4252/A.10721, to provide for a continuation of senior citizen rent increase exemption or disability rent increase exemption benefits after a period of ineligibility due to a head of household's temporary increase in income",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Susan Zhuang",
+  "Virginia Maloney",
+  "Althea V. Stevens",
+  "Farah N. Louis",
+  "Lynn C. Schulman",
+  "Shirley Aldebol",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 512",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574219&GUID=DC68200E-C6D9-4BD5-8A54-A08DF512A703"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575756&GUID=BE3CDC6B-B396-4C10-BB0E-745F696D1729"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860089&GUID=BBB76E98-ADA9-4D07-8897-6A55DAA9C400"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-08-31",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067941&GUID=B63C5BAC-9ADA-4683-B887-E2D261771A0C"
+}

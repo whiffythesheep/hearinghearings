@@ -1449,6 +1449,8 @@ def validate_member_names(text):
     for m in _NAME_RE.finditer(text):
         for candidate in _SPLIT_RE.split(m.group(1)):
             candidate = candidate.strip().rstrip(".,")
+            # Possessives ("Chair Banks'", "CM Cabán's") are the same name.
+            candidate = re.sub(r"'s?$", "", candidate)
             if not candidate:
                 continue
             first = candidate.split()[0]
