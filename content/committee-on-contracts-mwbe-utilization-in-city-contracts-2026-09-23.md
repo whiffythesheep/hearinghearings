@@ -1,0 +1,1395 @@
+---
+committee: "Committee on Contracts"
+committee_slug: committee-on-contracts
+title: "M/WBE Utilization in City Contracts"
+date: 2026-09-23
+slug: committee-on-contracts-mwbe-utilization-in-city-contracts-2026-09-23
+duration: "2hrs 21m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260923-100350.mp4"
+viebit_hash: "kMfr13H8VvFbWHlc"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439673&GUID=3EE38827-576A-47C0-90DF-175CC5333154&Search="
+chairs: "Lincoln Restler"
+members: "Gale A. Brewer, James F. Gennaro, Kamillah Hanks, Althea V. Stevens, Inna Vernikov, Julie Won"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Contracts held an oversight hearing on the City's Minority and Women-Owned Business Enterprise program, accompanied by four bills: Int 0208-2026 (adding MENA businesses to disparity studies), Int 0694-2026 (requiring targeted agency outreach when utilization goals are missed), Int 0834-2026 (requiring subcontract reporting for human services contracts), and Int 0896-2026 (banning non-compostable single-use cups in City procurement). The hearing ran long, dominated by the M/WBE oversight discussion, with the cup bill receiving only brief public testimony at the end.
+
+Chair Restler opened with a substantive statistical indictment of M/WBE performance: despite years of programming, M/WBEs received just 5% of the City's total $46 billion contracting spend in FY25. Within the narrower universe of contracts subject to Local Law 174 goals, the value share going to M/WBEs fell from 17% in FY24 to 8% in FY25 — a halving in a single year that the administration was unable to fully explain on the record. The racial and gender breakdowns were worse still: Black-owned firms received 7% of M/WBE contracts and Black women-owned firms just 1.17%, against a certified pool in which Black firms represent 33% of registered M/WBEs. The disparity between certification rates and contract award rates was a recurring theme — 78% of certified M/WBEs received no new contract at all in FY25. Council Members Stevens, Brewer, Hanks and Won pressed hard on what concrete corrective action plans exist, whether the City's events and programming are actually moving the needle for the most underrepresented groups, and whether the complexity of the certification process is itself a deterrent.
+
+The administration panel — led by Chief Business and Diversity Officer Michael Garner, joined by officials from MOCS and Small Business Services — defended its record by citing four consecutive years of M/WBE awards above $6 billion citywide (including non-mayoral entities), a record $6.9 billion in FY25 under the broader One NYC framework, and achieving the 30% Local Law 1 inclusion goal for two straight years. However, the administration's metrics and the Comptroller's metrics describe different universes: the Comptroller measures prime contract value for traditional mayoral agencies; the administration counts subcontractor activity and non-mayoral entities including Health and Hospitals, the School Construction Authority and the Department of Education, which together account for 55-65% of total City procurement spend. This accounting gap is both analytically significant and politically convenient, and Restler was direct about it. A new IT platform, B2G Now, is being stood up to aggregate M/WBE data — including payments rather than just awards — across all entities including the Big Five, with the administration claiming it will go live this fiscal year and provide near-real-time reporting. Restler was openly skeptical but supportive, noting that whether the platform can capture subcontracting data depends entirely on whether agencies actually input it into Passport, which they have largely failed to do: $33 billion in contracts subject to Local Law 174 goals had zero subcontract records over four years, and only about 9% of prime contracts had any subcontract data at all. The administration's answer — that agency commissioners had been emailed and that a new data pull was expected Friday — was received with polite incredulity.
+
+On Int 0834-2026, covering subcontract reporting for human services contracts, MOCS argued that Passport already captures this data following the Release 6 upgrade, suggesting potential duplication. Restler was unconvinced and indicated he would pull the bill only if shown a report demonstrating comprehensive compliance — which no one present could produce. On Int 0694-2026 (CM Won's targeted outreach bill), the administration expressed support. On Int 0208-2026, a panel of MENA community advocates testified compellingly that MENA-owned businesses are currently classified as white-owned in City data, making their economic barriers invisible and excluding them from M/WBE protections. Advocates cited federal and New York State action to separately categorize MENA populations and urged codification rather than reliance on administrative discretion. The Bronx Chamber of Commerce echoed support for both that bill and Won's outreach bill. On Int 0896-2026 (single-use cups), two environmental advocates warned that a loophole allowing compostable cups as substitutes would be counterproductive, citing toxicity concerns, inadequate composting infrastructure and methane emissions from landfilled compostable plastics; they urged the bill be amended to mandate reusable cups instead. The Association of Black Contractors also testified, arguing that hearings should more prominently feature testimony from affected M/WBE firms themselves rather than primarily from government officials, and that the City's M/WBE mechanisms as currently structured actively disadvantage Black women-owned businesses.
+
+Numbers
+
+- City total contracting budget in FY25: $46 billion.
+- M/WBEs received approximately 5% of total City contracting spend in FY25.
+- Under Local Law 174, the value share of prime contracts going to M/WBEs fell from 17% in FY24 to 8% in FY25.
+- 65% of contracts subject to Local Law 174 goals went to M/WBEs in FY25, covering 20,539 contracts.
+- Average M/WBE contract value: approximately $750,000.
+- Average contract value for non-M/WBE firms: approximately $3.6 million — roughly five times the M/WBE average.
+- M/WBEs received just over 10% of citywide construction contract value.
+- Black-owned firms received 7% of M/WBE contracts awarded in FY25; Black population of NYC is 22%.
+- Latino-owned firms received 7.9% of M/WBE contracts; Latino population of NYC is 29%.
+- Male-owned firms received more than eight times as many contracts as female-owned firms within the M/WBE program.
+- Black women-owned firms received 1.17% of M/WBE contracts; Latina-owned firms received 1.22%.
+- 65% of M/WBE contracts in FY25 were registered retroactively — work began before paperwork was completed.
+- 35% of contracts had not been registered more than a month after their start date.
+- Since FY22, nearly $33 billion in contracts subject to Local Law 174 goals had no subcontract records in Passport.
+- Subcontract data existed for approximately 1,100 of roughly 12,000 prime contracts — about 9% of the total.
+- More than 20 City agencies — nearly half — reported zero subcontract data over the four-year period.
+- Citywide M/WBE awards under the One NYC framework (including non-mayoral entities) totalled $6.9 billion in FY25 — a City record.
+- Four consecutive years of M/WBE contracts above $6 billion under One NYC; total over four years approximately $28 billion.
+- M/WBE small purchase method (up to $1.5 million threshold) generated $350 million in M/WBE contracts in FY25 and over $1 billion across three fiscal years.
+- A single armed and unarmed security contract was restructured into four separate contracts; one — valued at $400 million — was awarded to a Hispanic-owned firm, Intercom Security Systems.
+- Composition of certified M/WBE pool: Black firms 33%, women-owned 26% (White women), Hispanic firms 19%, Asian firms 23%; women constitute 55% of the full program.
+- 11,382 certified M/WBEs at end of FY25; only approximately 2,522 entered into a new contract or purchase order that year — meaning 78% received no new contract.
+- 76% of M/WBE firms that won a contract in FY26 had received at least one SBS service.
+- SBS Contract Financing Loan Fund offers capital at approximately 3% interest rate.
+- Local Law 174 M/WBE inclusion rate for the first half of the Mamdani administration (FY26 Q3-Q4): 33% for Local Law 1 agencies, 36% for City-funded agencies and authorities; nearly $2 billion in M/WBE contract awards.
+- The non-mayoral Big Five agencies (including DOE, Health and Hospitals, School Construction Authority) account for 55-65% of total City procurement spend.
+- US food service industry purchases approximately 11 trillion disposable items annually, equating to a $24 billion spend.
+- New York City spends over $1.7 billion annually collecting garbage for disposal; $381 million of that is attributable to packaging waste.
+
+Action Points
+
+- Administration to provide the Committee with an explanation of the decline in M/WBE contract value share from 17% in FY24 to 8% in FY25 under Local Law 174.
+- Chief Garner to share a data report with Restler's office showing current levels of subcontract data capture in Passport, following the Release 6 upgrade, so the Committee can assess whether Int 0834-2026 remains necessary.
+- MOCS and Chief Garner's office to provide the Committee with a breakdown of the percentage of certified M/WBE firms by subgroup (Black, Latino, Asian, White women) and cross-reference against contract award rates.
+- MOCS to generate and share with the Chief Business and Diversity Officer a report on subcontract payment data in Passport by Friday of the week of the hearing.
+- Administration to establish a public reporting cadence for B2G platform data once it goes live, so agency-level M/WBE performance is visible in near-real-time.
+- Chief Garner's office and MOCS to jointly publish data identifying which agencies are and are not submitting subcontract reporting, to enable public accountability.
+- Chief Garner to share with the Committee information on any changes to the City's M/WBE mentorship program, including whether it has been modified or discontinued.
+- Administration to schedule a briefing with Restler's office on the technical details of the B2G platform, including data flow from Passport and FMS, coverage of the Big Five agencies, and go-live timeline.
+- SBS to follow up with the Committee on its own M/WBE contracting performance for FY25, in light of the Comptroller report identifying it as a poor performer.
+- Chief Garner's office to convene a roundtable with agency commissioners focused specifically on increasing contract awards to Black women-owned and Latina-owned firms, with a timeline and measurable targets to be shared with the Committee.
+- Chief Garner to provide the Committee with the number of improvement plans submitted by underperforming agencies in the last fiscal year and a description of the review process.
+- Administration to provide the Committee with agency-level M/WBE performance data for FY26 once analysis is finalised, expected by end of the month of the hearing.
+- MOCS and SBS to brief the Committee on progress toward a streamlined joint City-State M/WBE certification portal and provide a timeline for its implementation.
+- Committee to engage the Association of Black Contractors on their legislative proposals regarding M/WBE program reform; Restler's office to initiate follow-up.
+- Future M/WBE oversight hearings to include testimony panels drawn directly from M/WBE firms and their advocacy associations, not only government officials.
+- CM Epstein and Committee staff to review Int 0896-2026 bill text to consider removing the compostable cups exemption and adding language requiring reusable cups and water refill infrastructure, in response to public testimony.
+- Administration to clarify whether subcontractors will be incorporated into agency utilization goal improvement plans if Int 0834-2026 and related subcontracting legislation passes.
+
+## Full Transcript
+
+**(00:00:01)**
+
+
+
+Thank you. Settle down, find your seats, guys. We are beginning very shortly. Find your seats. Thank you. Good morning, good morning. Welcome to the New York City Council hearing on the Committee on Contracts. At this time, please silence electronics and do not approach the dais. If you are testifying today, make sure you have filled out a slip with the Sergeant at Arms. Any other questions or concerns, reach a Sergeant at Arms and we will kindly assist you. Thank you for your cooperation. Chair, are you ready to begin?
+
+**(00:01:48)**
+
+
+
+Thank you, thank you so much, Sergeant. Good morning. Good morning. My name is Lincoln Restler. I have the privilege of chairing the Committee on Contracts.
+
+Usually at the end of my opening remarks I thank the staff, but I just wanted to actually do that at the beginning because it is important. We are fortunate to have a truly expert committee counsel, and Alex Polanoff, thank you so much for your helpful guidance to us as the relatively new chair of this committee. I also want to thank our policy analyst Alex Yablon and the principal financial analyst newly assigned to this committee, Andrew Lawless. Thank you all for your hard work. I especially want to thank my chief of staff Molly Haley, who is brilliant. All of the smart things that are said today are a result of her and all of the mistakes are a result of me.
+
+So I will begin with my opening. We are having an oversight hearing on the City's Minority and Women Owned Business program. New York City first developed an M/WBE program back in 1989, after a review of the City's contracts found that M/WBEs were substantially underutilized. Unfortunately the program was halted by Mayor Giuliani, one of his many... but the City Council re-established the program back in 2005, and over the past 20 years we have made significant strides in opening up opportunities in City contracting through small purchase programs, mentorship and ambitious agency goals. But much more remains to be done.
+
+The Comptroller's Office releases a fantastic report each year on the City of New York's progress supporting M/WBEs that provides a detailed breakdown on where City agencies are doing well and where they are coming up short. In FY25, M/WBEs received just 5% of the City's total contracting spend out of a $46 billion contract budget. These numbers have remained relatively stagnant for years. Looking more specifically at contracts that are subject to goals under Local Law 174, there was an increase in the number of contracts going to M/WBEs last year to 65% — 20,539 contracts — but the share of contract value going to M/WBEs fell from 17% back in FY24 to 8% in FY25. About half as much. M/WBEs won more of the contracts but got less of the money.
+
+I commend the Office of M/WBE for the increase in the number of contracts awarded to M/WBEs and I commend them for the increased number of certified M/WBEs. But I am concerned that M/WBEs are only finding success in small dollar contracts and not growing at the same pace as overall spend. The average contract registered to a non-certified firm was $3.6 million but the average M/WBE contract was under $750,000 — less than 25%. This is particularly notable in our construction contracts. M/WBEs received just over 10% of the citywide contract value. A troubling, deeply troubling disparity.
+
+Within M/WBE contracts, for all of the M/WBE contracts awarded last year, Black-owned firms account for just 7% of contracts and Latino-owned firms account for 7.9%. The City's Black and Latino populations are 22% and 29% respectively — a majority of New York City. The disparities are even worse when we account for gender. Male-owned firms account for over eight times as many contracts as female-owned firms. Firms owned by Black women account for just 1.17% of M/WBE contracts awarded and firms owned by Latinas account for 1.22%. This data is just unacceptable and I am keen to understand what efforts are underway in the new administration to open up more opportunities for Black and Latino owned businesses, especially Black women and Latinas.
+
+In FY25, about 65% of M/WBE contracts were registered retroactively, meaning that the work began before the paperwork was done. To be able to actually pay the company, a small firm needs to front the funds to complete the work while they wait for the City to pay. That kind of risk can be untenable for a small business.
+
+There are also significant gaps in the data that is reported to the public. Since FY22, the City has registered nearly $33 billion in contracts subject to Local Law 174 goals with no subcontract records whatsoever. I just want to say that again: $33 billion in contracts subject to Local Law 174 goals with no subcontract data whatsoever. Records exist for about 1,100 of the roughly 12,000 prime contracts — just about 9% of the total contracts. More than 20 agencies — that is nearly half of the City agencies — report nothing whatsoever on subcontracts during that time. The Department of Design and Construction manages to report this data, so it can be done, but most agencies simply do not take the time or make the effort to report this information.
+
+What this means is that there is potentially significant utilization happening every day with subcontractors that are owned by Black, Latino, Asian and women-owned firms, but we have negligible data. Without this data there is no accountability, and without accountability there will be no improvement. This issue extends to our human service contracts as well. Human service contracts are exempt from M/WBE goals, but many of these contracts use a for-profit operator that hires a for-profit M/WBE firm to deliver food or run security. I have introduced legislation, Int 0834-2026, which would require reporting on those subcontracts. I am hopeful that better reporting on subcontracts will help us understand the landscape more broadly and identify more firms that we can support and connect to larger prime contracting opportunities that they are qualified for.
+
+I hope we hear more today about how the Mamdani administration plans to increase M/WBE contracting opportunities, especially through cultivating a pipeline of successful M/WBEs that are already contracting with the City so that they can grow and take on larger and larger contracts. I am also keen to learn more about how we can elevate more Black and Latino and especially Black women and Latina firms to do more business with the City.
+
+We will also be hearing three pieces of additional legislation today. Int 0208-2026, sponsored by CM Shahana Hanif, would add Middle Eastern and North African Americans to the minority groups recognized under the City's M/WBE program. Firms owned by New Yorkers of Middle Eastern and North African descent are effectively invisible in our procurement data and this Bill would begin to change that. Int 0694-2026, sponsored by CM Farías — and thank you for joining us — would require agencies that miss their utilization goals to do something about it by conducting outreach and education targeted to the specific M/WBE categories where they fell short. I think this is a great Bill. And finally, Int 0896-2026 got squeezed into this hearing, sponsored by CM... and it would prohibit City agencies from entering into or renewing contracts to purchase non-compostable single-use cups, with exceptions for health and safety emergencies and agreements already in place. I think this was an old Eric... bill.
+
+**(00:09:42)**
+
+
+
+No, not at all. They are about your bill. Just kidding. And I want to recognize the committee and thank again the staff who were thanked at the beginning for
+
+**(00:09:47)**
+
+
+
+doing such a great job. I would now like to turn over to CM...
+
+**(00:09:51)**
+
+
+
+Good morning. Thank you, Chair Restler, members of the Committee on Contracts, for holding today's hearing on M/WBE utilization in City contracting and for allowing me a moment to speak in support of my Bill, Int 0694-2026.
+
+New York City has established utilization goals because we recognize that minority and women-owned businesses have historically been shut out of government contracting opportunities. But when an agency repeatedly fails to meet those goals, we cannot continue relying on the same broad outreach and expect a different result. Int 0694-2026 responds by requiring agencies to focus their outreach on the specific M/WBE categories in which they are falling short. That means working with community-based organizations and the Office of Ethnic and Community Media to reach businesses through trusted local networks and provide practical information about certification, procurement opportunities and how to compete for agency contracts. This Bill would also require agency M/WBE officers to monitor progress within those categories and report on how these targeted efforts are being implemented. This creates a clearer connection between the disparities an agency identifies, the corrective action it takes and the results it produces.
+
+We know there are qualified entrepreneurs across the City who are ready to do business with New York. Too often, however, they are left trying to navigate an unnecessarily complicated procurement system without the relationships, information or institutional access enjoyed by larger and more established firms. The responsibility cannot remain entirely on small businesses to find their way into the room. When an agency consistently fails to reach a particular group of businesses, it is responsible for changing how it reaches them and continuing to do so.
+
+Int 0694-2026 gives agencies a more focused way to close those gaps and gives the Council a stronger basis for evaluating whether their improvement plans are producing actual results. I would like to thank Chair Restler again for hearing this piece of legislation and thanks to my colleagues who have joined me as co-sponsors. I really look forward to today's testimony from the administration as well as hearing from the public and continuing to work together to move Int 0694-2026 forward. Thank you all and thank you, Chair.
+
+**(00:12:01)**
+
+
+
+Thank you so much, Council Member. I will now turn over to committee counsel to swear in the witnesses, and if there is a copy of testimony we would love to get it.
+
+**(00:13:17)**
+
+
+
+Good morning, Chair Restler and proposed Bill sponsors CM Farías, CM Hanif and CM Epstein. My name is Michael J. Garner and I serve as the City's first ever Chief Business and Diversity Officer. It is a pleasure to engage with you on all of our shared commitment to the advancement of the City's M/WBE program and to the health of the overall M/WBE community.
+
+As someone who has served a significant portion of my career advancing M/WBE programming — first at the New York City School Construction Authority for 15 years, and at the NCAA for 15 years, and now at the City — I am honored to be here representing our program and City Hall, along with my First Deputy Chief Business and Diversity Officer Dwight Flynn, the Office of Contract Services, and the New York City Department of Small Business Services. Considering our shared commitments towards continuous programmatic and policy improvements to the City's M/WBE program, I am also here to share some of the great work that we have produced over the past three years as well as to provide answers to the Council Committee's questions, along with my colleagues. As such, I would like to preface that my intent today is to respond to the Contract Committee's questions to the best of my knowledge. However, we would be more than happy to schedule briefings with your respective offices to discuss matters raised today in need of further comment and information.
+
+Since becoming Chief Business and Diversity Officer, we have achieved key M/WBE successes and meaningful accomplishments that I would like to share with you today. While we are working towards finalizing our fiscal year 26 data, we are on track to continuing the positive trajectory our program has been on these last handful of fiscal years. The following key metrics represent the City's performance in the first six months of the current administration — FY26, quarters 3 and 4: 33% M/WBE inclusion for agencies under Local Law one combined; 36% M/WBE inclusion for City-funded agencies and authorities; nearly $2 billion in M/WBE contract awards. The overall outcomes of this administration's first six months follow positive trends, further realizing our program's mission.
+
+In fact, last fiscal year we achieved the City's aspirational 30% goal for agencies on their Local Law one, which was accomplished two straight fiscal years in a row. We also set an M/WBE record of over two billion dollars in contracts awarded by agencies under Local Law one, and a City record of $6.9 billion in M/WBE contracts. These achievements are four straight years of M/WBE contracts above $6 billion that the City has awarded to City-certified M/WBEs under One NYC. These contract awards are critical to support the City during our COVID-era economic recovery by addressing the City's most important goods and services needs while creating and promoting measurable economic activity in our local M/WBE neighborhoods.
+
+In the City's last four fiscal years, City-certified M/WBEs have secured just over $28 billion in contracts — a national record for any program of its kind. We also continue to prioritize M/WBEs by putting them in the program's critical path, leveraging the M/WBE small purchase method — our procurement tool that allows for more streamlined processing contracting with City-certified M/WBEs. We set three straight fiscal records for use of this method, totaling $350 million in M/WBE contracts using the method in FY25 alone and over $1 billion during the three fiscal year timeframe.
+
+Lastly, we were able to secure New York State legislative victories and local policy and program improvements that allowed us to enhance our available tools and better coordinate our efforts citywide. These include raising the M/WBE small purchase method threshold twice for Local Law one agencies, securing the ability to self-register M/WBE small purchase method contracts from the New York City Office of the Comptroller, expanding the M/WBE program and providing agency guidance on the creation of more equitable contracting opportunities wherever practical, and to share and report data to the Chief Business and Diversity Officer. Funding was secured to evaluate and implement B2G Now as a tool to supplement the City's existing M/WBE reporting capabilities. The system remains dependent on reliable data from authoritative source systems and does not replace Passport or the systems used by non-mayoral entities, though it will allow more comprehensive near-real-time citywide performance reporting under One NYC. We established weekly CompStat-like meetings to review key agency barriers preventing M/WBE City contracting and discussing best practice solutions. We are currently coordinating with agencies on strategies to maximize the use of the M/WBE small purchase method to its upper limits of $1.5 million.
+
+Regarding the Bills scheduled
+
+**(00:19:43)**
+
+
+
+to be introduced as part of this hearing: on Int 0208-2026, we support the goal of evaluating emerging disparities in the City and look forward to further conversations with the Bill's sponsors. On Int 0694-2026, the Office of Contract Services supports the intention of this Bill and looks forward to having further conversations with the sponsor. On Int 0834-2026, while we support the intent of this Bill, based on our review, Passport already captures the subcontract information required by the Bill, including subcontractor name, contract information, subcontract value and the type of work. Passport also supports and records subcontractors and M/WBE certification information sourced through the system. We look forward to further conversation with the sponsor. On Int 0896-2026, the Office of Contract Services is currently evaluating this Bill and we look forward to having further conversations with our partner agencies and the sponsor.
+
+In closing, we certainly recognize that there is more work to be done. Yet we remain appreciative of the opportunity to build on our progress, the leadership in City Hall, the dedication and competency of our oversight principals — Chief City Procurement Officer and the Office of Contract Services Director — and Commissioner Minaya, and the collective commitment of our City and our City-affiliated agencies and authorities, whose efforts have been the driving force behind the City's achievements. Lastly, and just as importantly, we recognize the Council's overall support of the M/WBE program. Our program is supportive of M/WBE businesses and local economies and promotes economic justice citywide.
+
+**(00:21:43)**
+
+
+
+Thank you. CM is going to let me know if she chooses to jump in at her discretion, because once I get going, I just get going. So thank you very much. Thank you for being with us today. I will just say for a moment, I think that the Adams administration prioritized this issue and had success in engaging in contracting with more firms. There are not many nice things I say about the administration, so that is as close as I will get to a compliment. Now we move forward. I do want to recognize that sincerely. I know it is not easy. I just want to come back to some data to kind of ground us, because you were using some data in your presentation, in your testimony, that I referenced in my opening.
+
+**(00:22:47)**
+
+
+
+At a super high level, in 2025 the City had a contracting budget of about $46 billion, and M/WBEs received about 5% of the total contract spend. For the last few years that percent has remained stagnant. M/WBE growth has not kept pace with the growth of City contracting. Looking at just the 40% of contracts that are subject to Local Law 174 goals, or Local Law One as you reference it in your testimony, the value share of prime contracts going to M/WBEs declined significantly from about 17% in 2024 to about 8% in 2025 — about half as much. How do you evaluate this overall performance? What was the cause of the significant decline from 2024 to 2025?
+
+**(00:23:39)**
+
+
+
+Just at a high level, and then we can go into more specifics. Certainly we view the City Comptroller's office as an ally and a partner. I have had a long-lasting positive relationship with our City Comptroller. I was on his transition team when he ascertained the office. We have a long working relationship and we both agree that we are going to work in tandem. However, the City Comptroller's report does not include any of the M/WBE subcontractor activity or totals, and it does not include any of the non-mayoral agencies, including the School Construction Authority, the New York City Public Schools, and Health and Hospitals, where between 55 and 65% of the City's procurement spend resides with those five agencies.
+
+So we are focused on capturing all M/WBE activity — Local Law One agencies and beyond. To be clear, I think the right orientation for you and your job, the challenge that all of us have, is we do not have access consistently to those non-mayoral agencies or the non-traditional agencies' data. The Comptroller has the data he has and he is giving us analysis based on that data. If you can help us get better data on what those non-traditional mayoral agencies are doing and what is happening on the subcontracting level, then we have a different picture. Absolutely.
+
+**(00:25:24)**
+
+
+
+So two things are happening, and I am glad that you asked that question. We have been working on creating a new M/WBE information technology platform called B2G. It is the same platform that was instituted at the State of New York, and my deputy here was in charge of instituting that platform at 97 different agencies and state authorities.
+
+**(00:25:54)**
+
+
+
+What this new platform is going to do is not only allow us in a centralized manner to capture M/WBE contract awards, but more importantly the payments. So we are now going to pivot from M/WBE awards and highlighting the awards to more importantly focusing on the payments to M/WBEs. That is what we are currently working on internally right now. That process will go live very soon.
+
+**(00:26:29)**
+
+
+
+B2G will go live this year.
+
+**(00:26:32)**
+
+
+
+Yes, we have.
+
+**(00:26:34)**
+
+
+
+Yes, absolutely. Just to make sure that I properly understand how it has worked at the State level — so we are expanding an existing State platform so that City agencies... or is it a new... no, it is a new platform. We issued an RFP and secured the services of a firm to help us build out this project, rather than using an existing State resource.
+
+**(00:27:04)**
+
+
+
+Well, not exactly. I was only using the State as an example of how the State did it. So there is a new thing that we are creating. Yes, it is.
+
+**(00:27:13)**
+
+
+
+Every City agency — that data system or platform will capture the awards and spend of every City agency's contracts, and indicate whether they are M/WBEs. Do you think it will comprehensively capture subcontracting as well? Will DOE, NYC Health and Hospitals and the School Construction Authority all fully participate? We have agreed with the City Comptroller that we are going to create one centralized platform that will highlight all of our M/WBE activity. Can I just ask — should this be a question for you, or a question for John?
+
+**(00:27:53)**
+
+
+
+Why not Passport? We have an existing system that captures all of our contract actions. I would assume it is a cost and operational challenge for every procurement official in the City of New York to now use an alternative system to capture this data. Why not use our existing procurement system for gathering this information? I will let John respond to that. But it is my understanding that the Big Five, as we call them, do not enter their information into Passport. So we wanted to create something that will once again give everyone the opportunity to go to one centralized platform, look into the system and observe all of the M/WBE activity — the awards, but more importantly the payments on those awards.
+
+**(00:28:49)**
+
+
+
+Okay. Do you want to jump in on why we did not use Passport here?
+
+**(00:28:55)**
+
+
+
+Sure. Good morning. Nice to see you, CM Restler. It is a privilege to be here this morning. Is this your third time testifying this year? I think it is. I am not keeping count, but I am happy to see you. At least we have not been so mean that you have chosen not to come back. I will keep coming back as long as I am invited. Let me step back for a moment about what the intent of Passport was to do. It is the City's sourcing and solution portal for procurement activity. Its primary users are agencies that are really operating under a very specific governance for procurement. The agencies that
+
+**(00:29:35)**
+
+
+
+you were referencing do not operate under a different governance, and so I think that inherently creates a little bit of a challenge. I totally appreciate that. I think ultimately it is up to the Mayor to tell them what to do. If the Mayor was able to get the Big Five — we will call them that for the rest of the day to keep it simple — if the Mayor was able to get the Big Five, or Chief Garner was able to get the Big Five, to agree to participate in B2G, why could we not get them to just participate in Passport? I think that is a question that might naturally move into a deeper conversation that we are happy to participate in.
+
+One thing I wanted to ask: we just announced a series of procurement reforms, none of which make them subject to the procurement policy, none of which increase their transparency in a meaningful way or provide the same level of oversight that you have of every other traditional mayoral agency. So I just feel like it would have been simpler to use... and I know that Passport has its frustrations. Is that not how I am supposed to describe it?
+
+**(00:30:34)**
+
+
+
+Everyone is frustrated with Passport. I will not... it has its limitations. But it just strikes me as challenging to create a whole new system that people are going to have to use to gather this information when we have an existing vehicle. The one thing I will say about Passport — and I will not judge, and I am not going to say on the record that it has issues — I will simply state that that is the system that we are working with, and like anything, we work with what we have.
+
+**(00:30:57)**
+
+
+
+Totally. Can I learn a little bit more? There have been some enhancements, yes, and I appreciate it. We funded them from the Council side and pushed very hard for those resources and are excited to see them implemented. So can I just ask a couple of questions about B2G so I understand it? I am going to defer to my top deputy, who has been responsible... sounds very exciting. We are implementing it at the State across a hundred agencies. So can you share any updates you can on the timeline for when you expect to see this implemented? I think if you could give us some greater insight — how is this data being gathered? Is it something that procurement officers, contractors and vendors have to implement themselves, or is the data gathered from other systems automatically?
+
+**(00:31:48)**
+
+
+
+Yeah, just help shine some light for us. So first of all, thank you for having me here today, Chair and Committee. Your question about B2G: the B2G system gets its source data from the owners of that data, so that would be from Passport, MOX, and in terms of certification-level data. What it is really good at is essentially aggregating and reporting out on M/WBE activity at the prime and sub level. That is sort of its main function.
+
+The other thing is, as we get that data on a more regular cadence — because as you know, right now we get quarterly reports from Passport and an annual report — we will get more real-time data. Because one of the frustrations we have been having is that to actively manage opportunities and challenges as they come up, if you are seeing them a month after the quarter is over, that is not always possible. So B2G will allow the City's M/WBE program to be managed on a more real-time basis, to intercept challenges, take advantage of opportunities and of course disseminate best practices.
+
+The system itself — there is not a direct electronic tie-in to Passport, but there are files that are shared on a regular cadence between MOX and B2G such that the system is updated regularly and agencies can go in and take a look at their M/WBE contracts, make sure there are no errors. If there are errors, they go back to the original system and fix it, because that means there is an error somewhere in Passport or FMS. They can then run reports the likes of which they cannot run right now. They can project and plan around M/WBE activity. Our goal always is to maximize M/WBE availability and participation at every agency at every contract level. You need to have the tools to do that, and the City over the years has done an excellent job in pushing forward this policy. But as technology improves, we have to embrace technology, and that is what B2G allows us to do.
+
+Just forgive my ignorance here, but help me understand: if it is coming from Passport, and we are not getting that information into Passport now — I mean, the Comptroller's report and what we reviewed found that we are seeing 9% of subcontracting information from the traditional mayoral agencies reported into Passport.
+
+**(00:34:40)**
+
+
+
+It seems like one agency does a good job and everybody else is not taking this seriously at all. So 90% of our contracts are not getting the subcontracting information reported to Passport. We have no information. We cannot do a global comparison. We cannot give a global answer on how much money is going to M/WBEs because we do not know what is happening on the subcontracting side. So I feel like there is actually a good news story for the City to be telling. It is part of the reason I introduced my legislation on human services. I will not go down that rabbit hole.
+
+So if the information is feeding from Passport into B2G, it is not going to help us if it is feeding from there — we know the payments, but the payment goes to the prime, right? The payment does not go directly to the sub. Sorry, let me just... from a more proactive perspective, we have sent emails to all of the agency commissioners asking them to ensure that their third-party contractors and consultants are entering their M/WBE payment data into Passport on a timely basis. We are monitoring that. We are now going to run a report with MOX. I will see that report on Friday. Running these reports through Passport makes people's heads explode — it takes a long time, it is very painful and it is challenging to get right. John has assured me that his staff is going to work with my staff in order to generate a report, expecting it this
+
+**(00:36:24)**
+
+
+
+Friday. Yes, we are. We are going to set up a briefing soon to go through it, and we are hoping that we are starting to actually see this data.
+
+**(00:36:30)**
+
+
+
+I welcome that. I guess I am hopeful that that will work. But just help me — let us just say for argument's sake it does not, that we continue... or maybe say it works really well and you go from 9% to 50%, which would be remarkable and a huge accomplishment, but we are still not getting the subcontracting data for half the contracts. How are we actually going to get the data if these agencies are not reporting? There were 20 agencies that reported zero information on their subcontracting over the last four years.
+
+**(00:36:57)**
+
+
+
+We are not taking this seriously at all. We are going directly to the agency commissioners. We have confidence and faith that those agency commissioners are going to require their staff to work with and enforce the contract requirements, which call for M/WBE subcontracting payments to be entered into Passport on a regular basis.
+
+**(00:37:22)**
+
+
+
+I was going to say a lot about enforcement, but look, this is a management issue. This is the law. This has already been the law that they have to report this information. I think we passed another bill that the Speaker passed earlier this year that further underscored that this is the law, that this has to be reported. Agencies do not do it. I think they do not do it for a variety of reasons, but I think they have
+
+**(00:37:41)**
+
+
+
+a good news story to tell because they do a terrible job on their primes, and so they need to highlight their subs or it would be really ugly. So they try to share the information. I do not know why other agencies do not do it.
+
+**(00:37:53)**
+
+
+
+Do you have insight into why other agencies do not take this seriously? I have asked the question, and once again we are proactively reaching directly out to agency commissioners on a regular cadence. I am confident that agency commissioners will enforce their respective contract requirements. Okay.
+
+**(00:38:15)**
+
+
+
+I really appreciate you saying that. I believe strongly that public accountability is key to actually getting agencies to change
+
+**(00:38:25)**
+
+
+
+behavior. Management from City Hall and public accountability are both critical. Can we work together to ensure that this information is made public on a regular basis — which agencies are actually sharing the subcontracting data and which are not — so that we know who is taking subcontracting seriously and who is not? Certainly.
+
+**(00:38:43)**
+
+
+
+We view the City Council as a partner. A win for us is a win for you.
+
+**(00:38:48)**
+
+
+
+Well, I just generally — I do not mean to beat a dead horse here, but inevitably subcontracting matters. Without the data we do not know, and I presume there are very large sums of money that are flowing out the door to Black, Latino, Asian and women-owned firms every single day, but we do not have any information to actually celebrate that. What we are getting is so inconsistent that we cannot tell a
+
+**(00:39:20)**
+
+
+
+story. Yes. And so I think the way the Comptroller's office over the years has handled their report — by saying we do not look at the subcontracting data because it is just too uneven and inconsistent and too fractured a story — is really important. Yes. So I appreciate that you are making this a priority and that you are trying to fix it and you are bringing a management orientation toward telling the agencies they have to take this seriously. We are very excited to see that information showing up in Passport. So then just
+
+**(00:39:52)**
+
+
+
+not to belabor my initial point, but if they are going to be putting that information into Passport, that is how it is getting into B2G. Yes. What is the added value of B2G if we are just getting that information into Passport? The added value is once again about the Big Five. The Big Five — and also having one centralized portal or information system where you can look at all of the M/WBE metrics for the City. Is there any other planned use of B2G beyond the kind of data and accounting? It is a tool which allows agencies to better enforce their requirements based upon payments. I really appreciated your testimony where you highlighted that you are taking a CompStat-like approach to engaging... a CompStat-like approach, excuse me. I am the Contracts Chair. I think about things in the contracts way.
+
+**(00:40:52)**
+
+
+
+That is not how the world looks at the work.
+
+**(00:40:53)**
+
+
+
+I should pause and just say we are joined by CM Althea Stevens, who I lovingly refer to as the Vice Chair of this Committee because she refuses the title but I give it to her anyway, because she is so passionate about contracting reform and making sure especially our nonprofit partners get paid. I really appreciate her expertise. Thank you for being here, CM Stevens. Jump in with questions whenever you would like. We also have CM Vernikov on Zoom — Brooklyn's own. Thank you for joining us, CM Vernikov.
+
+**(00:41:27)**
+
+
+
+So the data will be valuable to you based on how often you are getting uploads from FMS and Passport feeding in.
+
+**(00:41:39)**
+
+
+
+So are you expecting weekly reports, monthly reports? How do you anticipate utilizing the data in this new system? The cadence of the reporting is as to why, and it is almost in real time. It is going to be transformational.
+
+**(00:42:00)**
+
+
+
+Because the City has historically evaluated their M/WBE successes based upon contract award tracking.
+
+**(00:42:08)**
+
+
+
+The more important metric here is payments, right? But payments are less than awards, right? Often.
+
+**(00:42:16)**
+
+
+
+Well, once a contract matures the payments will at some given point in time catch up, hopefully. Yes. And so for example, the state has utilized this system for decades. They do not capture — they capture awards, but more importantly they capture the payments on those awards. So for example, if we report a $10 million contract that was awarded five years ago, it does not succeed $10 million as asked over the duration of that contract. After five years, if only 50% of that contract has been actualized, you have overstated the success.
+
+**(00:43:01)**
+
+
+
+So converting from contract awards to a better parameter of success — I guess it should probably get me to start asking you questions about how 65% of M/WBE contracts leave vendors working at risk and doing work before contracts are registered and they are actually getting paid. So it will also show that we are not doing a very good job of actually paying these firms that are often smaller firms that cannot afford to wait for months or years to get paid. And that too many of our agencies do not have their act together and are delaying payment. So it also tells a story that is not all that pretty for the City. Is that right?
+
+**(00:43:45)**
+
+
+
+Well, it is — it is my understanding that this administration has taken that very seriously. It is also my understanding that there has been a procurement reform committee that has been established to look at the time that is taken to award contracts and the time that it is taken to pay our vendors. The administration's kind of...
+
+**(00:44:13)**
+
+
+
+...earnest focus on how to make government work better. And I know that the intentions are there. This stuff is hard. Administration after administration has struggled with these issues. These are evergreen challenges that frankly have not improved sufficiently over a long period of time, despite many mayors saying this is a priority and that they are going to fix it. And I just want to highlight that 35% of contracts have not been registered for more than a month after the start date.
+
+**(00:44:41)**
+
+
+
+So when we are looking more closely at when people are actually getting paid, we are going to see that we are not doing a very good job of paying these folks. And if we want the smaller M/WBE firms that are receiving smaller City contracts to continue to grow and to get larger and larger contracts with the City — which I know is our shared priority here — we need to pay them right. We cannot put them in untenable situations where they are waiting for months or years to get paid for the work that they have already done. So I do not — I think I will complain to other people on another day about our failure to pay people on time.
+
+**(00:45:16)**
+
+
+
+Chair Restler, if I can just add to this point before we move on — the Comptroller's report was a look back on the performance of the City, but since then, particularly with MOCS and Passport, we did have Release 6, and Release 6 did introduce a new centralized workflow that included a better way of recording and reporting subcontractor utilization, payments to subcontractors, and tracking the performance of the subcontractor utilization goals. So that data does exist today. You are seeing information increase that will be available for City agencies — that is what Chief Garner referenced, and that is coming to him on Friday.
+
+**(00:46:08)**
+
+
+
+I believe that Chief Garner is talking about the subcontractor payments that are recorded. So yes. OK. So you think now, based on your expertise and the improvements in Release 6, that we actually have a much better...
+
+**(00:46:22)**
+
+
+
+...understanding of the subcontractor landscape today than we did a year ago. I would say it is fair to say that we have the tools now and the data available that will allow us to address the issue, which we agree is a management and oversight of management performance issue. We just want to be able to — what MOCS is always trying to do — get better data and make that more available so that we can review and make more informed decisions.
+
+**(00:46:49)**
+
+
+
+But you do not yet have an understanding of, let us say, what percent of the subcontracts citywide are actually captured here, so that we know how many of them are M/WBE.
+
+**(00:46:58)**
+
+
+
+We do not know that. I think that is something that we would be able to provide, but we have to follow up on.
+
+**(00:47:04)**
+
+
+
+I think we would love to follow up on that. I am glad to hear it. I will just take a step back to say I am grateful that this is a priority that you all have identified and that you are working on, and that the new administration is really digging in on how do we do a better job of gathering this data comprehensively on subcontracts happening and how many are going to M/WBEs — and you are including the Big Five. I think those are all the right things to be doing and I really want to commend you for it. You know better than me whether creating a new technology platform was necessary to do this or not, but we are down that course and I hope that it is successful. I continue to be skeptical that we are going to get the information into Passport that we need, but it sounds like everybody is trying — from a management perspective, from a platform improvement perspective — and we will all push together. I am very happy to be an obnoxious Council Member saying to agencies, do your damn job and report this data. It is really important. So let me know how I can be that partner as well.
+
+**(00:47:58)**
+
+
+
+I did — just before we went down this rabbit hole, which I really did enjoy and found insightful — I just want to come back to the initial question I was asking you, Chief, which is: in FY24, according to the Local Law 174 metrics, about 17% of contract value went to M/WBEs, and then in FY25 we were at half that number, at just over 8%.
+
+**(00:48:20)**
+
+
+
+Could you help us understand the significant decline year over year? I would — I would need you to follow up. And once again, I believe that we are now better equipped to capture the prime and the sub. I can tell you — and I am just referring to primes, yes, because I do not have this update on subs — I can tell you that we have been working internally in order to maximize prime contract opportunities. For example, we worked with DCAS on an armed and unarmed security guard contract. It was the first time that that contract had been issued as an RFP. We were zealous about breaking down the contract, disaggregating it as opposed to having one larger contract. We now have four. We had a series of meetings and invited M/WBE firms to DCAS. I am proud to announce that we have awarded a $400 million contract to a Hispanic-owned firm — almost one of the largest contracts in the history ever awarded to Hispanic-owned firms. The firm is Intercom Security Systems. They have a major prime contract. So we are focusing on creating opportunities for M/WBEs at the prime level.
+
+That is good. But let us get some clarity on what happened from FY24 to FY25 and why we saw that reduction. So if that is not something you are prepared to speak to today, we would definitely appreciate a follow-up there. So I just want to kind of continue to harp on the issue of the value of M/WBE contracts. So in FY25, the average M/WBE contract was about $750,000. The average non-white-male-owned firm — I should just say it that way, right — the average contract for a white-male-owned firm was $3.65 million. Could you explain what you think accounts for this disparity? I mean, that is more than four times the differential — an average of a white-male-owned firm versus a non-white-male-owned firm. Why do you think we have such an extreme disparity there?
+
+So I mean, it is not unique to only the City of New York. I want to tell you, at the state level, 75% of M/WBE contract awards are awarded at the sub level as opposed to the prime level. When you factor in the lack of access to capital, when you factor in the lack of access to surety bonding, when you factor in the lack of right-sized contracting for firms, you will always see that. But we are working internally, certainly with our partners at access to capital programs, on the bundling of contracts at the agencies, designing smaller packages and having the ability to go out and recruit M/WBEs and put them in the contracting critical path so that they can bid as primes.
+
+**(00:51:28)**
+
+
+
+Because when a contract is as a prime, as you know, you are in control of your own destiny. And so we are very focused on creating opportunities for our M/WBEs at the prime level. Working as a subcontractor — hey, listen, it is a good business for some, but let us not fool ourselves. We need to do a more effective job of creating prime opportunities for M/WBEs. And to be clear, the disparity I am referencing is between prime contracts. But I do want to kind of harp on that point.
+
+**(00:51:58)**
+
+
+
+Which is: we have clearly done, I think, an admirable job as a City of connecting more M/WBEs to small contracts through the increased $1.5 million procurement cap without a competitive process, and being able to select an M/WBE for work. Well, let me just say — one of the first things that we did when we came to the administration was we changed the name of the non-competitive process. It is not non-competitive. Agencies have the ability to go out in the marketplace and solicit prices only from M/WBE firms, as long as that pricing is aligned with historical pricing. The agency has the ability to award the contract.
+
+**(00:52:45)**
+
+
+
+The ability to award the contract right there on the spot. And so it can go through a competitive process to try to get the best price, but they also do not need to go through a competitive process if that is just the fastest procurement vehicle and they want to move quickly. Correct. Do you want to respond to that?
+
+**(00:53:03)**
+
+
+
+There is still an obligation to have some consideration for price and what operates as the best value to the City. So it does not require — what you are saying — well, I do not want there to be a misunderstanding that there is a straight line to a particular vendor that is an M/WBE that excludes any other. We want to give due consideration to anyone, but the important part is that there is a dedicated space right now for M/WBEs that have the ability to get those awards. And so I think that is — maybe I will say it a different way. Agencies can more quickly... oh, there you are. You guys ready for questions? I am sorry, you know I get carried away.
+
+**(00:53:44)**
+
+
+
+I will just finish this and then I will pass it to you guys. Agencies have a faster procurement vehicle to go to M/WBEs for under $1.5 million than not. So there is an incentive there — if you want to get something out the door quickly and get the work done — to engage M/WBEs. For the Local Law 174 areas, we are connecting — you know, City traditional, the non-Big Five City — it is like 65% of contracts are going to M/WBEs. That is a positive thing, but it is for a tiny fraction of the total spend. And what I am saying — it is the same point you are making about subs, also for these small contracts where you are the prime, which is most of what M/WBEs are getting. They are getting very small contracts under one and a half million dollars. Their average spend is $750,000, which is not nothing, but when the average City contract is four times that amount, there is a real question: how do we build that pipeline? How do we help engage the M/WBEs that have City contracts, that are working with the City, that are demonstrating that...
+
+**(00:54:47)**
+
+
+
+...they are effective, that they are doing a good job? How do we help them grow to take on larger contracts so that they are not just seen as a faster route to procurement for under $1.5 million?
+
+**(00:54:58)**
+
+
+
+I would answer, and then I want to defer and turn it over to talk about some of the supporting programming that they have. But I would tell you, we are starting to see a change. I mean, the mere fact that we have the ability to award a $400 million contract to an M/WBE tells us that what we are putting in place is working. And so your question is: we have to have the ability to equip our M/WBE firms with access to capital, bonding assistance, and we have to have the ability to integrate them into the critical contracting path, allowing them to bid on larger projects. And we are starting to in fact do that.
+
+**(00:55:45)**
+
+
+
+Thank you, Chair, for your question. Harris Kahn from Small Business Services, Chief of Staff. Wanted to add as well — in partnership with the Mayor's Office of Contract Services and the Office of M/WBE, we work very closely in developing and delivering programming to support the capacity building of smaller M/WBE firms. One particular program I would like to highlight is the Contract Financing Loan Fund. This is a revolving low-interest loan fund for M/WBEs that they could use to grow their capacity, hire more staff, and do capital improvements as they fulfill City contracts. So they get up-front funding at a roughly 3% interest rate — much lower than market rate — and start delivering on the work that they have been engaged with a contracting agency. And that is just one of the variety of services we have: one-on-one technical assistance, capacity and capital access support, some legal help available, and educational programming.
+
+We are really proud of organizing — and we promoted it across all of our partners and with the district offices as well — our Contracting Summit, tagline "A New Era for Small Businesses." This was on January 14, the second week of this administration. Deputy Mayor Sue was the keynote. Chief Garner was the keynote as well, where we talked about and promoted under one roof over a hundred City and state agency programs and resources. The crowd was overwhelmingly — over 85% of the attendees there were minority and women-owned business owners.
+
+**(00:57:12)**
+
+
+
+So look, I appreciate both of your answers, but I do not think it is enough. Not to be so blunt, but I think access to capital is really important and I am glad that you both mentioned that and you are focused on it and trying to help in that regard. But I actually think as a City we need a much more proactive approach where we are identifying vendors that are doing a really excellent job with smaller contracts and providing technical assistance and professional development to support them on how they can grow, and thinking about where the pipelines are for them to do more and do better with larger City contracts. That should be our base that we are looking to support, because they are already working with the City, they know all of the ways in which the City can be a pain in the butt, and they are working with us anyway and they want to do more. Let us help them. And I just feel like we need a proactive, deliberate strategy to engaging those vendors. That is how we are going to change 65% of contracts but only 8% of spend. That is not a pretty picture. I mean, it is an improvement from where we were and I realize that, but we should be doing so much better in that regard. So I have, as you can imagine, a bunch more, but I have really appreciated the direct responses. Let me pass it to CM Stevens and...
+
+**(00:58:30)**
+
+
+
+...CM Farías. Hello, good morning. Thank you for being here with us. I just have a couple of questions. I am looking through some of the information, and specifically around Black-owned women-owned businesses and seeing the numbers being so low, and such a disparity in the M/WBE numbers is also striking. But just thinking about what policies have you implemented to address those concerns, or are there specific things that you are doing to ensure that these other groups who are not getting these contracts are supported — other than capital? And I think it is hitting on what CM Restler is saying. Could you talk about specific policy? Because I think the numbers are so glaring for me as a person who will be in charge. I am like, OK, we need to start here to figure out how do we do this other than capital, because we know that the whole point of this is that a lot of these folks are smaller businesses and they need additional services and it just cannot be capital. So I would love to hear more specifically about the policies that have been created to kind of address the disparities even within this group. Black minority-owned women businesses only got like 371 contracts, and looking at Native American women, they got one. So how — why are we not starting there? Could you talk specifically about what policies have been implemented to address...
+
+**(00:59:48)**
+
+
+
+...that? And I just want to add a data point that I had in my opening that I think both of you would appreciate: out of every hundred contracts, one went to a business owned by a Black woman, and one went to a business owned by a Latina. Out of every hundred contracts. Sorry — but you heard me. I am sorry.
+
+**(01:00:05)**
+
+
+
+So certainly, we are prioritizing this now. When we first got here, the City of New York M/WBE percentage was 23%. Last year that number increased to 36% inclusion. So we wanted to focus on increasing and exceeding the City's annual goal of 30%, and we have done that for two years and counting. Now we are focusing on the disparity within the disparity — focusing on Black and Hispanic-owned businesses and women-owned businesses. Certainly we have a lot of work to do when it comes to the recruitment, certification and engagement of women-owned businesses and integrating them into the procurement process.
+
+**(01:00:56)**
+
+
+
+And could you talk about some of the policies that you are creating to actually do that? What does that look like? What are the steps you are taking? Do you have an action plan? Do you have dates and milestones and goals? I will have to get into the nitty gritty of it so that we can have a better understanding, because I understand yes, increasing from 23 to 33 sounds great, but it sounds like we are still targeting specific groups that are in this group. Because I am looking at the numbers right — Asian males got 13,300 contracts whereas Black women got 300. And Black men organizations got 1,045. So how are we even diversifying in these groups? Great, by that percent, but it is not being diversified. So could you talk about some policies and a timeline, or what this would look like in the next six months? Other than saying we are doing recruitment, what does that recruitment look like? Could you just give some details? Because I think this is really important for us to make sure that we have a plan. If not, I am definitely happy to brainstorm around that, but I think it is really important.
+
+**(01:02:03)**
+
+
+
+Yes, it is, and we share your concern. We are meeting every week with agencies, looking at best practices, focusing on the lack of contract awards that are going to women. We are instituting a roundtable discussion with agency commissioners in a very short period of time. We are going to be working with our agencies and, once again, recruiting these businesses, equipping them with all of the resources that they need, and finally, once again, integrating them into the procurement process. I definitely would like to just kind of keep this conversation going with you. I have a couple more questions. Sorry, I see my time.
+
+**(01:02:47)**
+
+
+
+Next question. I just wanted to go on — your office is also in charge of oversight and accountability. Which agencies have you identified as underperforming on M/WBE?
+
+**(01:02:58)**
+
+
+
+What specific corrective action plans has your office required for them? So if an agency is underperforming, what does that look like, and have you created some steps to ensure that the behaviors need to be corrected?
+
+**(01:03:10)**
+
+
+
+Yes. So we are finalizing our M/WBE results from the most recent fiscal year. That analysis will be finished towards the end of this month. We are going to start meeting with individual agencies, sharing their data with them. For those agencies who are under 30%, we are going to meet with the agency commissioners, their respective leads and their staff, to determine what we should and could be doing in order to get them over to 30%. Additionally, as we just indicated, we want to focus on the diversity and disparity — why is it that certain groups are not receiving their fair share of contracts? We will be working with our agencies in a very short period of time. We started those meetings and then those most recently concluded in the fiscal year.
+
+**(01:04:14)**
+
+
+
+What accountability and compliance has been put in place since you have taken on this role, to review agency performances? And what happens when an agency consistently misses its goals? So we basically meet with agencies every week, every Monday at 3 PM. We call them the CompStat meetings, and we want to look at their metrics. We are generating data now once a month from the big five, and we are generating data from MOCS every quarter. We are looking at this data to observe trends and what we should be focusing on for improvements. And you asked the last question about accountability.
+
+**(01:05:03)**
+
+
+
+About what accountability mechanisms you have in place if they are inconsistent or missing their goals — if they are missing their goals, what accountability mechanisms have you put in place?
+
+**(01:05:15)**
+
+
+
+We are certainly bringing it to the attention of the agency commissioners. We are also working internally with MOCS and other stakeholders here to enforce and have the agencies enforce what their contract requirements are. I have a couple more questions but I will pass it off and do another round. Thank you.
+
+**(01:05:44)**
+
+
+
+Vice Chair, thank you. Thanks, folks, for coming today and testifying, and thank you, Chair, for giving me some time for questions. Just in terms of my Bill introduction, Int 0694-2026 — walk us through what happens when an agency misses the utilization goals. Apologies for getting to another hearing late, so if you spoke about that and I missed it — how many improvement plans were submitted last year? Who reviews them? How do they get worked through if utilization goals are missed?
+
+**(01:06:18)**
+
+
+
+Improvement plans — so MOCS works with the Office of M/WBE to review agency utilization plans, to monitor the performance of agency-specific improvement efforts, complemented by outreach and technical assistance. The corrective action is more of an analysis of what can be done better to achieve better results going forward.
+
+**(01:06:46)**
+
+
+
+OK, and remind me again — how many improvement plans were actually submitted last year, if we have that number? That is something I will have to get back to you on. OK, great. And then tell me again who reviews them. How many folks are in line reviewing each of those improvement plans for corrective action?
+
+**(01:07:08)**
+
+
+
+So what I was describing was something that is done at the beginning of a procurement process — you are reviewing that utilization plan so that you can make your determination.
+
+**(01:07:17)**
+
+
+
+About what goals you set and how you are establishing your contract. Looking at the performance on how you are doing once you have that contract in place is that constant monitoring, checking in with those agencies. Then the follow-up is: what was the end result, and what do we need to do, where do we need to target our focus, to achieve higher engagement for future needs?
+
+**(01:07:44)**
+
+
+
+OK, and so where those utilization goals are maybe failing or underperforming, do we do targeted outreach in those areas to either improve the numbers or gain more in that area? I will defer to my colleagues on that for the outreach efforts.
+
+**(01:08:05)**
+
+
+
+So on the outreach, I would also defer to my colleagues, but I can tell you we wanted to take the program to the community. So we have been scheduling M/WBE outreach in conjunction with the Borough President's offices and the various chambers of commerce. We have been to every borough, including Staten Island, for targeted M/WBE outreach in the Bronx, Queens, Manhattan, Staten Island and Brooklyn.
+
+And then just quickly, in relation to what my colleagues were talking about — when we are looking at the numbers of where contracts are being awarded, actually who is getting them, and looking at these utilization numbers, and we are seeing certain groups or certain demographics underperforming, how are we addressing that? I am not a small business owner, so maybe I am missing the targeted ad on Instagram or something that is trying to get more people registered as an M/WBE. I am not part of that target outreach group, but I am just wondering how we are ensuring that these plans are being put in place. The numbers that we are looking at, the demographics that we need to look at — we are clearly failing as a city to provide procurement opportunities to them. How are we adjusting here mid-course?
+
+**(01:09:36)**
+
+
+
+Thank you so much, Council Member. I would like to add more context. It is a very important program for the City, and there are three key agencies involved. The education outreach programming arm supports the individual business when it needs resources. So we have a contract financing loan fund product that gives a firm, if they have a City contract, upfront capital that they could use to get started on the work. We have an online business directory of all M/WBE firms that is another tool — based on the certification that we manage — for all of the agencies to utilize as they search for potential qualified firms. They can leverage that directory. But in addition to that, we have a buyer services team that not only supports City agencies but even other entities. For example, when we had the FIFA World Cup in the City, we attempted to make sure that the organizing team in New Jersey understood and knew that the City has a directory of all firms, and if they wanted to engage with us we could give them a curated list based on the types of industries or the types of contracts they are interested in.
+
+One relevant example to what you have asked: the Mayor's Office of Media and Entertainment reached out to us for a $7.5 million opportunity for a professional services contract related to grant-making. We leveraged our understanding, asked them some questions, better understood what they were looking for, and searched the directory. So while we in this tri-agency oversight role are simply an education and resource provider, and the governance on utilization rests with our partner agencies, when an agency approaches us and they have a clear sense of what they are looking for and what they need, we will give them a curated list and try to better understand their needs and then give them firms that they should consider in their contracting.
+
+**(01:11:38)**
+
+
+
+Process. We are not in their contracting teams, so we have no idea of the next steps as to how they manage those contracting decisions. But we are here as a resource for the vendors and firms as well as the procurement officers. And I think we all understand that there is a part here that is not necessarily connecting. What is the purpose...
+
+**(01:11:56)**
+
+
+
+...of any of us promoting this if the numbers that we are hearing in this hearing show one Black woman-owned company and one Latina woman-owned company out of a thousand that are offered contracts? Sorry — I want to clarify, I may have misspoken. What I was referencing was not a promotion of certification at large, but rather I am saying we are here in our oversight capacity and we are looking at the actual data. You folks are looking at the data. Whether you are procuring a list of 20 people to recommend for a $7 million contract, what is the point? I suppose for businesses across the City — specifically Black women, Latinas, women of color — they see these numbers and are hearing these numbers. Why would they go through this convoluted process, this long application, to do this when the likelihood... what is the percentage of businesses that are Black women-owned that we have in the M/WBE system? Do we know the percentage of firms that are certified?
+
+**(01:13:01)**
+
+
+
+Council Member, we can get that to you. We definitely — for example's sake, let's...
+
+**(01:13:05)**
+
+
+
+...say 20% of the businesses are Black women-owned, or 10% of the businesses are Black women-owned, or one out of a thousand — what is the point of recertifying if the likelihood of them getting that contract is slim to none? When they...
+
+**(01:13:21)**
+
+
+
+...have to do this annually and the likelihood of them getting a contract... I think that is part of the reason why we are looking at legislation. It is part of the reason why we are having this hearing, and we have had this hearing year after year in the Council. Realistically, we are not utilizing the data in front of us. We are not seeing utilization goals, coming up with plans, or even doing the outreach necessary in communities where we are lacking certification, where we know businesses exist. We are not getting them in, to take a list of 20 and make sure 15 out of those 20 people that we are going to promote to an organization or an agency for a $7.5 million contract is either a woman, a Black woman, a Latina, et cetera. I think that is what we are really talking about here and what we are trying to get to at the crux of this. I know you folks know this as well, but I think we need to put our thinking hats on. The data is in front of us, along with the utilization goals and potentially these improvement plans, on how to get more people in to ensure that they are actually getting the contracts that are afforded to them by the taxes they pay and by being a part of New York City. I look forward to getting the response to the question that I asked before, and I would love to hear from you folks.
+
+**(01:14:41)**
+
+
+
+Go ahead. I do have the number — so it is 33% of the certified pool that is African American certified businesses.
+
+**(01:14:48)**
+
+
+
+Yeah, that is a pretty big percentage comparatively, looking at...
+
+**(01:14:52)**
+
+
+
+...hearing the number of one out of 1,000 for Black women getting a contract in New York City. I can assure you that we are having internal conversations. I am taking this personally — it is personal to me too — that we have to do a better job, and we will do a better job of broadening the contract awards to all groups that we certify. It is getting better. It is not where we want it to be, but it is gradually improving because we have an emphasis on it.
+
+**(01:15:23)**
+
+
+
+Yeah, I hear that, and I look forward to seeing our numbers improve. I think also, at least from my first term and coming into the second term, we constantly hear from entrepreneurs and small businesses that this process is convoluted, the paperwork is intense, it is time-consuming. There is streamlining that has to happen, there is simplification that has to happen, in order for our folks in our communities to actually compete. There is a level of competition that we have to also help folks streamline to improve these numbers.
+
+**(01:15:58)**
+
+
+
+And even in the subcontracting process, making sure payments go out first to those people despite the completion of the job — there are a lot of steps that we as a City have to rectify, and a lot of years of work that I hope we can get to really soon. Just as my last thought, I would love to hear — if and when these bills pass on the subcontracting side for CM Restler's bill, excuse me, will they then be included in this level of reporting in connection to my bill for the utilization goals and the improvement plans? Will subcontractors be a part of those plans potentially?
+
+**(01:16:38)**
+
+
+
+I think that whatever the requirements are, naturally the administration will take whatever steps to incorporate the requirements of those laws into our practices. OK.
+
+**(01:16:54)**
+
+
+
+Thank you folks so much for the time. Thank you, Chair, and thank you both — I think totally spot-on questions that I really strongly agree with. The line of questioning and the points that you are both making are very persuasive, so thank you for making them. I just want to come back to what CM Farías was asking about. I just want to make sure that I understand it. So you are telling us that from the total number of certified M/WBEs, could you just break down what percentage is Black, what percentage is Latino, what percentage is Asian, and what percentage is White women?
+
+**(01:17:38)**
+
+
+
+So it is 33% African American, 28% women-owned businesses. We can get you the breakdown of the subgroup data to the Council as well, and it is all public information. MOCS also maintains an indicators page on their website where it is updated. I guess the data I am looking at is different, so that is why I am confused. It fluctuates year to year — there is recertification, there is certification, the Comptroller might be looking at different numbers. On Latinos, we have 26%... I do have the numbers now. We have got Asian firms at 23%, Black firms at 33%, Hispanic firms at 19%, and then White women firms at 26%. Women form 55% of the full program.
+
+**(01:18:40)**
+
+
+
+So I just want to make sure that I am thinking about things the right way — please feel free to correct me if I am wrong. Starting with Black firms as an example, about 33% of registered firms are Black-owned, meaning we are doing a good job on outreach in reaching Black firms across the City and helping to get them registered...
+
+**(01:19:01)**
+
+
+
+...but less than 7% of contracts are going to Black-owned firms. Is that approximately right? Do I have the right contrast? I defer to the City Hall colleagues here on that. If we are looking at Local Law 174, the certification number is what your Comptroller's...
+
+**(01:19:20)**
+
+
+
+...report shows. This is what he had in his reports for Local Law 174. So I just want to highlight: 33% of certified M/WBEs are Black-owned, yet just less than 7% of contracts for traditional City agencies are going to Black-owned firms. 19% of certified vendors are Latino-owned and less than 8% of contracts are going to Latinos. Just as examples — those are areas where we clearly have a lot more work to do.
+
+**(01:19:52)**
+
+
+
+And I appreciate your point, Chief Garner, that there has been an effort to improve things, but the status where we are today is profoundly unacceptable. It should be a major priority for this administration to start engaging Black and Latino firms in particular in a real way, because I think we are not achieving the goals of our programs if we are not engaging those firms and contracting with those firms at scale. My colleagues have asked the questions around what efforts are being made to boost participation, especially of women of color-led businesses. I want to underscore that I hope that is happening on steroids. I will keep going until Vice Chair Stevens tells me she wants to jump back in. There is significant variation in M/WBE performance across City agencies. Some do pretty well, some seemed to not care about this at all in the previous...
+
+**(01:21:09)**
+
+
+
+...administration. Just looking at the data from previous years — I imagine this administration will make it a big priority and everything will improve, but for example, some agencies seemed to be performing significantly better than the Health Department, for example.
+
+**(01:21:27)**
+
+
+
+Could you just walk me through an agency like the Health Department failing to do its job, not taking a contract with them seriously, not making it a priority? What is your intervention to try to get them to course correct?
+
+**(01:21:41)**
+
+
+
+So once again we are looking at data on a more regular basis. I am having meetings with agencies at the commissioner level, working with their CAOs and working with the staff and giving them the support that they need, creating programming that would allow them to do a more effective job in their contracting. So we are up close and personal, and this has to be the era of transparency and accountability. We are using the data in order to drive effective change at these agencies, allowing them to do a more effective job of broadening their contract awards for the public.
+
+**(01:22:31)**
+
+
+
+What is the best real-time information, or kind of regularly updated information, that we can access to understand how agencies are performing throughout the fiscal year?
+
+**(01:22:40)**
+
+
+
+Well, certainly with the introduction of B2G, it is going to give us almost real-time contract award data, and also more importantly, once again, the payment data. Sorry, are you okay?
+
+**(01:22:57)**
+
+
+
+Once the system is fully operational we can generate data almost on a daily basis. Great. So I think we will have to figure out a public reporting cadence of the B2G data as that platform comes online.
+
+**(01:23:20)**
+
+
+
+I guess I do not mean to pick on anybody — this is the previous administration, I guess, that I can still pick on because it is the data we are looking at — but we found that generally some of the smaller agencies have had greater success in both the percentage of contracts that go to M/WBE and the percentage of their overall contract budget that goes to M/WBEs, and that larger agencies have not been able to kind of integrate prioritization as effectively. I know that is an oversimplified analysis, but for example, Chief Khan, in the latest Comptroller report, SBS was among the worst performers in your own contracting with M/WBEs. And recorded zero subs, which, given the types of contracts that you all have, you may not have as many subcontracts, but just how are you as an agency, just as an example, trying to course correct and do better in this?
+
+**(01:24:24)**
+
+
+
+New administration. So we are a very, very small contracting agency — we are an incredibly small contracting agency — but we can get back to you on what we have done. We usually have performed at the highest of the pack most of the years in our M/WBE performance, so whatever the data discrepancy is here we will look at it. I would imagine this is all considered, given that you have got a deputy commissioner that is responsible for this portfolio of certifying firms and doing outreach and engagement. I know that most of the folks who contract with us are nonprofits, BIDs, et cetera, but local development corporations too.
+
+**(01:25:00)**
+
+
+
+Yes, we just do not have capital dollars, we do not do construction in the city, we do not run incredibly complicated programs. We do direct service work. Most of it is done in-house, some of it is done through contracted
+
+**(01:25:12)**
+
+
+
+partners. But you are still doing contracting, so you are in a portion I can pick on, and it is just to say, as an example, your mission is this work. Still, in the relatively small amount of contracting you are doing, at least for fiscal year 2025 in the Comptroller's most recent report — because that is the data that I use as my bible — you were not contracting with M/WBEs at the scale that we should be.
+
+**(01:25:38)**
+
+
+
+So I can go through the specifics if it is helpful, but I think we just want to underscore that every agency needs to make this a priority. I think we have gone
+
+**(01:25:51)**
+
+
+
+pretty deep into subcontracting, but I do not think I have asked specifically about my bill, so let me just do that. I think we have some large nonprofit contracts, like with a shelter operator or a close-to-home operator or something like that, where there are significant subcontracts to for-profit firms. In fact, in the past it has been where we have seen a lot of corruption over the years. Unfortunately, so we need to have transparency and accountability. Is our legislation — our legislation that would require nonprofits to report on whether their subs are M/WBEs — something that the administration supports? I think it is consistent with the broader framework that you are laying out around better data around subcontracting, so we can tell a more comprehensive story of how we are contracting with them. Let me defer to Marc
+
+**(01:26:50)**
+
+
+
+first, and then I will hone in. Thank you for the
+
+**(01:26:54)**
+
+
+
+question, Chair Restler. It is something that we are looking at, but just given what I was sharing at the hearing today about the information that we are collecting, the ability to report on the level of subcontracting across all contracts — not just M/WBEs but any prime contractor that has a subcontractor — it is being recorded and reported in Passport along with payment information. That is something that I think, when you look at what currently exists today and you compare it against what this bill is recommending, it seems like there might be some duplicative work here. We are certainly happy to have the conversation, but the improvements from Local Law 6 have been so
+
+**(01:27:40)**
+
+
+
+dramatic, and there has been like a sea change of compliance with subcontracting reporting in Passport in the intervening years since the last Comptroller's data and report. I am happy to pull back my legislation, but I do not believe that that is the case. I think that we need this data, and I think we need this data across the board. I am eager to see updated data from you all on how we are doing on the subcontracting piece, but I think this is going to be very hard to actually get agencies to comply and submit this data. It sounds to me like B2G is kind of dependent on agencies actually taking this seriously and submitting their subcontracting information into Passport. So I appreciate that we have City Hall support on this, but this has impressively not been done across the board. Agencies have clearly not cared, despite this being local law and despite this being a priority. If you can show me a data report that shows you have all of this information, I will tell the Speaker that I no longer want to pass this bill. I do not believe such a data report exists, but I am open to being persuaded.
+
+**(01:28:50)**
+
+
+
+Council Member, or Chair Restler, I am sure that Director... you would be more than happy to incorporate this into the regular cadence that she has with your office to discuss viewing this data on a regular
+
+**(01:29:05)**
+
+
+
+basis. I appreciate it. Just to be clear, in the last Comptroller's report, 9% of subcontracts were reported to Passport — 9%. So unless you have got a report that shows me that 100% is happening now, we are going to push this legislation and we are going to be really aggressive in trying to support your efforts, because this is what Chief Garner is saying is a major priority for him. Correct me if I am saying anything incorrectly — it is a major priority that we get all agencies to report their subcontracting data so we can see where funds are going. If, Director, you have a report that shows me that we are magically doing this today when we were doing 9% a year ago, I will be thrilled. I might not have had the hearing — well, I would have had the hearing for other reasons — but I would not have spent half the time talking about this topic that I think is so important.
+
+**(01:29:57)**
+
+
+
+And I will just say again for the record, for the Council Member's benefit, that I think in the last four years there was $33 billion in spending on contracts subject to Local Law 174 where there is no subcontracting data reported into Passport whatsoever in aggregate over that four-year period. That is a lot of money where we have no idea whether we are supporting M/WBEs with it or not. And it makes Chief Garner look bad, right? Because he could be getting credit for billions of dollars that are going to... we might be supporting more Black women-owned firms and more Latina firms and more other firms through subs that we do not have the data for. So if that data is there now and we are doing a better job and we are making this a City Hall priority, I will be the happiest man in the City Council. But I am waiting to be persuaded. I think I have asked enough about my bill. Council Member, do you want to jump in?
+
+**(01:30:47)**
+
+
+
+Yeah, one question — and I hear all this, and again this is on the larger scale — is it too complicated to apply? Is that not true about M/WBE?
+
+**(01:30:56)**
+
+
+
+I hear that all the time. Council Member, thank you so much for joining us.
+
+**(01:31:02)**
+
+
+
+I was next door, I was not far.
+
+**(01:31:04)**
+
+
+
+Just so it is clear, go ahead.
+
+**(01:31:07)**
+
+
+
+Oh yes, so sorry. So yes, I mean the application really depends on the business structure and ownership structure, and there is a requirement to produce business origination documents, K letters, and these are all the required documents that the City and the State program as well has similar requirements for. What we are really excited about is the State recently announced a streamlined State certification portal, and we are in active conversations with the State to come up with a way that both of these things work seamlessly and make the process faster for a New York City firm that wants to apply to City and State certification, because essentially if you are interested in City contracting you are very interested in State contracting and vice versa.
+
+**(01:31:47)**
+
+
+
+So they would be the same? When you say streamlined, they would not be
+
+**(01:31:51)**
+
+
+
+the same, but we are working very closely with the State portal and they do have some functionality where an applicant that is applying through the State's portal could select themselves as a person interested in the City portal. The timing on that, do you have any...
+
+**(01:32:03)**
+
+
+
+They have just launched the State-facing portion of it and we are in active conversations. It is somewhat of a tech project so it will require deep coordination, but we are really excited about the prospects of the streamlining effort that we are underway on. If an M/WBE firm approaches the City as a State-certified firm, we are looking at an average response to them — a certification decision to them — within a month, if they have that State certification. Again, ownership structure matters, so if you tell us you have 15 partners in your business that will complicate things, because now you have got 15 different sets of ownership documents we have to review.
+
+**(01:32:44)**
+
+
+
+And the other thing I hear about — maybe this is not a statistic that is available — so you are an M/WBE, you get certified: how many of those get City contracts? My friends are difficult, they say, "Oh, Gale, I will apply and I will not get a City contract, so why do I even apply in the first place?" So is that a number that exists, or is it something that you just do not keep track of?
+
+**(01:33:05)**
+
+
+
+That is a number that Chief Garner and other principals in City Hall are driving agencies to achieve higher utilization on. Our end for years
+
+**(01:33:16)**
+
+
+
+Sorry, sorry. I missed your question for a long time. Go ahead, just so
+
+**(01:33:19)**
+
+
+
+they are driving that effort and driving the governance and the policymaking for this program. What we are really proud of — because you are a resource provider, an education agency, and then we do the certification process — is that of the M/WBE firms that do win contracts, over 70% of them have benefited from our services along the way, which kind of drives the point that we could be pushing agencies to do more, getting the firms to be best positioned for these contracting opportunities. So we have a robust set of programming that we are always engaged in and always interested in providing support to businesses and putting their best foot forward. I guess down the line it would be making the world know
+
+**(01:33:58)**
+
+
+
+that this number of persons have been certified, and if you are certified then X percentage of all of you are likely to get a contract from the City, so it is worth you putting the time in in the beginning. Something to think about, to let people know. Thank you. Can I make a slight
+
+**(01:34:16)**
+
+
+
+correction? Chair, 76% of all the firms that won contracts in fiscal year 2026 received one or more of our services — either the one-on-one technical assistance that we provide, the connection to the contract financing loan fund, or one of our large networking events where we bring over a hundred City and State agencies so the firms can actually network and meet a contracting professional. 76% got services. That is excellent. We just do not know, of all of those who have registered, how many actually got
+
+**(01:34:45)**
+
+
+
+contracts. I think it was like 18 or 19 — 20% last fiscal year got a payment. That is the number in my brain, but
+
+**(01:34:52)**
+
+
+
+Molly can correct me, she knows the answers. There are like three different metrics so it is hard.
+
+**(01:34:57)**
+
+
+
+I think of it as payments from City agencies. You are right though, it is — as we talked about a little earlier in the hearing, Council Member Brewer — it is like the big five non-mayoral agencies, and you know, H+H, it does get complicated on how we track that data. I will tell you, people do not apply because they do not think they will get a contract. But at the end of fiscal year 25, there were 11,382 certified M/WBEs and just 2,522 — 478 entered into a new contract or PO in fiscal year 25. So I was pretty close. I think that is the problem: 78% of certified M/WBEs failed to win a new contract with the City in fiscal year 25. Tell Vice Chair
+
+**(01:35:42)**
+
+
+
+Lincoln, just because you say it does not mean it is true.
+
+**(01:35:45)**
+
+
+
+I am going to just will it into existence. You know, he is really trying to get this thing to stick. Stop trying to make "fetch"
+
+**(01:35:55)**
+
+
+
+stick. And so I am just sitting here looking at something that is...
+
+**(01:35:59)**
+
+
+
+Look, I know you had said that especially you guys are doing a lot of work with the agencies around figuring out how they are going about doing this. But let us say — and I want to second what the Council Member just said — I know a number of people who are like, "I am not doing it because that paperwork is just too much and then the results just are not there, like they just do not match the effort." But let us say I am a business and I do get certified. Is there a place where I can go where there is like a list of best practices for folks who have already gotten contracts and what they have done? Or could I say, "Hey, I need additional help, could you pair me with another M/WBE to give me some support," or some type of mentorship? Because it is true, it is a lot of work to do it for a lot of times no results. So just trying to get a better understanding, because again I am looking at the numbers and the disparities, and in groups that already have disparities there are certain groups that are doing this well, and a lot of times that is because in that community they are helping each other. So are we setting up situations so that all folks have places they can go and get the support that they need and trying to figure those things out?
+
+**(01:37:13)**
+
+
+
+Yes, so that is where we are really proud that 76% of all firms that won a contract last year benefited from one of our services. We really want to encourage every single New York City...
+
+**(01:37:26)**
+
+
+
+I just have to stop you there, and I say that because again we are looking at the numbers. It is not saying that, and so I guess all of you — in the disparities when I am looking at the numbers, what the Chair said — there is one in a hundred contractors that are Latino or a Black woman. Like, that is clearly not happening because those folks are not doing it. So are there like best practices that those folks who are certified can go to so that they can start getting those contracts? Because again, I know it is easy to kind of talk about the broad stuff and be like, "Oh, we have increased by 10% and we have done this" — that is a lot easier. But I am talking about getting down into the disparities and like, how are we saying, "OK, this group is doing well and here are best practices"? Do we have the best practices that we share with these groups to make sure that we can start to have diversity in who is getting these contracts? And I know specifically you guys keep talking about the agencies,
+
+**(01:37:26)**
+
+
+
+but I am talking specifically about the businesses.
+
+**(01:38:18)**
+
+
+
+So yes, Council Member, we have a mentors program that creates space for peer mentorship and networking amongst the firms. So how many of those are done within the specific... and again, even looking at the Native Americans, they got one contract. So how are we reaching out to those groups and pairing them with mentors to ensure that they are in these...
+
+**(01:38:21)**
+
+
+
+We have done borough-based events, we have done webinars, we have done one-on-one technical assistance. We have two large-scale events, both of which had 1,800 attendees, with half of the attendees being African American. Even looking at the list of folks who are already certified and have not gotten a contract — they have not had a track record, they have not gotten any awards — have you reached out to them specifically and said, "You are already certified, let us figure out what is missing so that you can get the support that you need to get a contract"? Have you guys done that?
+
+**(01:38:39)**
+
+
+
+The way in which we get 1,800 to show up under one roof with over a hundred services is we have reached out to all of the certified firms and said, "Come to this event where we are going to bring all of these resources in one place" — workshops on Passport, workshops on...
+
+**(01:39:10)**
+
+
+
+Your thought is that in that space with a thousand people they are going to get the resources that they
+
+**(01:39:27)**
+
+
+
+need? We had one-on-one sessions, consultations, we had workshops at the same event. We did everything you could possibly think of, just trying to
+
+**(01:39:31)**
+
+
+
+>NEED WE HAD ONE ON ONE SESSIONS CONSULTATIONS WE HAD WORKSHOPS AT THE SAME EVENT WE DID EVERYTHING YOU COULD POSSIBLY THINK OF JUST TRYING TO
+
+**(01:39:37)**
+
+
+
+I do not feel like I am coming at you, but I am trying to get to the answer of it because having a big event with a lot of numbers is nice. What I am saying is, how are we getting to the nitty gritty? Because from that thousand people who showed up, how many people got a contract after that?
+
+**(01:39:50)**
+
+
+
+So Councilmember, we are not the contracting agency that makes the contracting decisions. What we did at the event is we provided over 300 direct one-on-one services. These are not a large event where everybody showed up and we spoke to them and lectured. We had 300 people in one-on-one sessions. We put all of our...
+
+**(01:40:06)**
+
+
+
+...staff online. It is just that because you have 300 people in direct sessions... What does that look like? We had over 60 staff there and you met with 300 people. How long were those meetings?
+
+**(01:40:19)**
+
+
+
+We can give you a full briefing on the details of that event. But it is just one event of all of the programs we do year round. The number that I was pointing out earlier, Councilmember, was that of any firm that ends up winning a contract in the City, looking at the full fiscal year — last fiscal year, FY26 — it is 76% of them that win a contract. For us that demonstrates the need to do more: get the word out about these services, get the word out about the programs and mentorship support, the technical assistance. We help businesses write the capability statement and we also help them understand the platforms that we use.
+
+**(01:40:58)**
+
+
+
+But the results are still showing the disparities that they are having. Clearly that is not working. If one in every hundred M/WBEs getting contracts are Black women and Latinas, it is not working for them. So maybe we should think about other things to do, because that is not getting to the people who are not getting the contracts. So again I am asking the questions because maybe we should think differently. That thousand-person event that we have, where we can come here and say we had an event where a thousand people showed up — that is not where the Black women or Latino firms are coming to get the information that they need to get certified.
+
+And I know you are about to say, "What are you talking about? We got 10%..." No, no, no, no. What I was going to say is the majority of the event was Black and Latino community members. All right, well then I guess the numbers that we have are on the rails. So even if they were there, they are still not getting the contracts. And as Chief Garner has described the City's... I would defer to — let me speak — because then we are having people that are showing up, doing the work, becoming certified, and then still not getting contracts. So what is that going to do? It is going to discourage them from actually coming to other things.
+
+**(01:42:06)**
+
+
+
+Yes, so we are in total agreement with you that we must do a more effective job of not only certifying businesses, but once a business is certified, integrating them at the agency level in the critical path of contracting and procurement. We hear you. We are working internally, overtime, in order to increase the City of New York's ability to award contracts in a more broad aspect and focusing on the disparity within disparity.
+
+**(01:42:43)**
+
+
+
+Certainly what the City has done thus far with awarding contracts to Black women and Hispanic women and Asian women is not satisfactory. We are working internally and you have my word that these numbers are going to get better. It is not just the word — I need us to think outside the box, to think differently. Clearly what is being done is not working. So to tell me you are having events where thousands of people are showing up and they are still not getting contracts — that is not a fix.
+
+I hear you: there were a lot of Black people there, there were a lot of women there, and that sounds great. But if they are showing up, they are certified, they are doing all the things that they need to do, and they are still not getting the contract, then what we are doing is not working. We do not want women — especially women who do extra work all the time — to then get burnt out and say, "You know what, I am not doing this anymore." And that is what is happening. So we have to also speak to that: people wasting their time. It is not easy to be certified. You all know it is not easy to have to run a business, to come to these meetings, to have one-on-one consultations, and still lose. That is a lot, and that is a lot to ask. So what we are doing is not working. Look at the trajectory and say, "OK, that did not work. Let us consult and figure out — let us go back to the drawing board." I am here to help, to have ideas. I always have ideas. I am not a Council member who is just going to sit here and say, "Why are you doing this?" I am saying, "What are we going to do? Let us figure it out together," because what you are doing is not working. That is...
+
+**(01:44:10)**
+
+
+
+...what I am saying. You got it. And that is why she is the Vice Chair of this committee, because she is spot on and it is right. The data — I think it is important to recognize progress where it has happened and we see things moving in a positive direction, but we are not doing enough to contract...
+
+**(01:44:27)**
+
+
+
+...with Black and Latino firms. And it is a serious issue.
+
+**(01:44:31)**
+
+
+
+It is a serious inequity. It is one of the core purposes of this program existing and the work that we do in this area, and it is not happening. It is not happening at the scale that it should. So I appreciate the Council member's commitment to say, "Let us come up with new ideas for...
+
+**(01:44:50)**
+
+
+
+...engagement. Let us help get people actually into City contracts." I do not doubt the commitment of the M/WBE office and the administration, and we really want to see results. So we are eager to work on this together. Hopefully some of the things that we have discussed today can get us there. I want to just do a couple of things before we close out this panel. I know Chief Garner, you formerly worked at... I heard that there were recent changes to the mentorship program at the City. Any insight you can offer?
+
+**(01:45:28)**
+
+
+
+Is the mentorship program continuing or is that discontinued as well? It was a model that was no longer working. What perspective do you have? I am not sure about that, but I can tell you that the construction mentorship model, which evolved from... at the MTA we changed the state law in order to implement that construction mentoring program. That model has worked in some very difficult construction organizations. There is a movement in implementing a race-neutral...
+
+**(01:46:20)**
+
+
+
+...going forward. As you learn more about some of the changes that are happening, I would be interested in your insights. Can you just help me understand a little bit — since I think a lot of this falls on your office — what is your current head count, and the budgeted and actual positions that are reporting...
+
+**(01:46:45)**
+
+
+
+...to you? We have 13 to 14. But the M/WBE officers at the respective agencies and their respective staffs report to their agency commissioners, but they also report into City Hall on M/WBE issues and initiatives. So we are using that head count at the agencies as an extension of staff in driving the City's M/WBE commitment. Every...
+
+**(01:47:23)**
+
+
+
+...agency has an M/WBE director. What is the name of that position? The contracting officer... but then they also have, depending on the agency, a designated liaison at every agency. Yes, and so that is who you are speaking to as the extension of your...
+
+**(01:47:50)**
+
+
+
+...staff. Yes. OK. All...
+
+**(01:47:53)**
+
+
+
+...right. I think...
+
+**(01:47:56)**
+
+
+
+...I will just summarize what I think was a good conversation, and I appreciate you all coming today. For me there are three key takeaways that I really want to focus on moving forward as a committee and working together.
+
+One is the simply inadequate results in contracting with Black and Latino owned firms, especially Black women and Latino owned firms, where the numbers are especially abysmal. Two is the new data you are going to be gathering, and the administration's effort to better understand how we are subcontracting, because there may be a good news story to tell there about how we are engaging Black and Latino owned firms that we are not currently seeing, once we have a better comprehensive understanding of the subcontracting universe. And then thirdly is the pipeline, where we have clearly done what I think is an admirable job of engaging more firms with the City, but that is not translating into our spend.
+
+And so it is still a very small percentage of total spend that is going to be easy just within the Local Law 174 framework that has to grow. I really think a deliberate effort to engage the firms that we are working with that are performing well — about how do we chart a path forward for them to take on larger contracts — is a good priority area for the administration to focus on. So with that I will say thank you very much for coming in today. We really appreciate you taking the time and answering questions. Was there one more point you wanted to make?
+
+**(01:49:25)**
+
+
+
+I just wanted to give you the answer on that question on Local Law one spending. For FY25 and FY26 they were similar, and in FY26 it was roughly 74% of the Local Law one target. OK.
+
+**(01:49:42)**
+
+
+
+Maybe I was looking at FY25 data and that was the issue. I do not know. I have not seen the FY26 data.
+
+**(01:49:47)**
+
+
+
+We do not have it. So that is great to hear that you turned it around in FY26. Mazel tov. With that, I want to thank you for this opportunity. As a Councilmember, CM Gale Brewer and I go back a very long time — everyone goes back a long time with Gale Brewer. We were advising counsel when James Sanders was... I remember when State Senator James Sanders was one of the champions who led this legislation to expand the small firm M/WBE program, which has really made a difference. So I think he deserves credit. I am not going to say anything about the Assembly member who sponsored that Bill because I am not saying nice things about her these days. But with that, thank you all very much. Thank you. I will see you. Thank you and appreciate you all being here.
+
+**(01:50:28)**
+
+
+
+Bring up our next panel in a moment. Assembly person, county leader... I am not saying anything nice. We are going to — no, I am going to the next panel. I have got to — I am now opening the hearing for public testimony. I would like to remind members of the public that this is a formal government proceeding and decorum shall be observed at all times. I will try to maintain that myself. As such, members of the public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms in order to be recognized. When recognized, you will have two minutes to speak on today's hearing topic. If you have a written statement or additional written testimony you wish to submit for the record, please bring a copy of that testimony to the Sergeant at Arms. You may also email written testimony to council.menin@council.nyc.gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+I will now call up the first panel, and I am going to actually just call up all five folks if they are here. If the Sergeant would not mind bringing another chair up. I apologize — not everybody's handwriting is as legible as I might hope, so if I butcher your name please forgive me. Habiba Araido, Rana Abdel Hamid — did I get that right? I am sorry, Rana. I apologize. Akram — I am screwed. Gail, do not give me a hard time, I am struggling here. Akram Al... well, mean... I am sorry, I am trying here. Byader Mohammed Osman and Naima — here from the Family Sports Center in District 33. Good to see you. Naima, wherever you are — there you are. OK, and you all feel free to testify in whatever order you are so moved. OK, good.
+
+**(01:52:53)**
+
+
+
+Good afternoon, Council. Nice to see you as well. Actually, a lot of us are here on behalf of the New York Middle Eastern and North African Coalition. We are a coalition of organizations across New York State and New York City that represent the needs of North African and Middle Eastern New Yorkers, and we are here to support Int 0208-2026. So I will read my testimony. My name is Rana Abdel Hamid. I am the founder and executive director of Malika, which is a Queens-based immigrant working-class Muslim and African New Yorker organization. I am also the daughter of Egyptian immigrants, born and raised in Queens, and I am here today to testify in support of Int 0208-2026 — specifically in support of a disparity study for the MENA community. At its core, the disparity...
+
+**(01:53:44)**
+
+
+
+...study would simply ask the question: who has access to economic opportunities created by our City, and who is being left out? For many MENA New Yorkers, the problem has been that the City has not even had the data necessary to adequately answer that question, despite the fact that for generations Middle Eastern and North African New Yorkers have contributed — you all have probably gone to a deli and met an owner, or had a halal cart food, so you know. They have contributed to the ecosystem of the City. We still are not included in many of these studies. We want to make sure that our businesses are adequately counted and that we can measure the number and the reality of the impact of MENA-owned firms across the City. That is why this disparity study matters.
+
+This legislation does not ask the Council yet to presume what the data will show. It just asks the City to collect the data and to look. We appreciate already the commitments made from this current administration to include MENA-owned businesses in the next disparity study, but we want to make sure that this is a legal requirement that is codified into law, because we understand that administrations change, commissioners change, priorities change. But the legislation will make sure that our communities are counted despite any changes that might happen. So today I urge the Council to pass Int 0208-2026 to permanently codify the inclusion of Middle Eastern and North African businesses in future disparity studies. Thank you.
+
+**(01:55:14)**
+
+
+
+Thank you, Rana. I really appreciate your testimony. Good to see you.
+
+**(01:55:24)**
+
+
+
+Good afternoon, everyone. My name is Ikram Romaine and I am here on behalf of the Women's Empowerment Coalition of New York City. We are a community-based organization that supports women and immigrant families through education, workforce development, social services and other women's empowerment programs. Every day we work with women, immigrant families and small business owners, including many from the Middle Eastern and North African communities. We see their talent, their hard work and the contributions they make to New York City's economy. But we also hear directly from our community about their experiences and the challenges they face when they try to grow their businesses and access opportunities.
+
+That is why this disparity study is so important. Int 0208-2026 would require MENA-owned businesses to be included in future disparity studies. This would provide the data needed to better understand whether disparities exist, where they exist and how they affect businesses in our community. We stand with our community partners in asking the City to make sure MENA-owned businesses are counted, studied and visible in this process. This study is an important opportunity to make sure those experiences are reflected in the data. When we better understand the disparities our small businesses experience, we can better understand their needs and the opportunities available to them. When our small businesses grow, our families, neighborhoods and our entire City benefit. Thank you.
+
+**(01:56:58)**
+
+
+
+Thank you so much. I really appreciate your testimony.
+
+**(01:57:04)**
+
+
+
+Good evening, everyone. My name is Theodore Mohammed Osman. I am here on behalf of Muslim Community Network. We are a New York City-based nonprofit organization that promotes civic engagement and advocacy. Today I am testifying on behalf of one of my colleagues. She was not able to be with us today but I wanted to share her story in her voice.
+
+"I am a Yemeni American and this issue is personal to me. My father owns a bodega and growing up I saw firsthand some of the challenges he faced as a small business owner. He experienced barriers related to language, navigating systems and accessing opportunities that could help his business grow. Currently, MENA-owned businesses are not separately identified in New York City's disparity studies. Without this information, the City cannot fully understand how MENA businesses are participating in public contracting or whether they face any barriers to opportunities. Int 0208-2026 would help address this gap by requiring MENA-owned businesses to be included in future disparity studies. MENA businesses are an important part of New York City's neighborhoods and economy. As we mentioned before, small businesses like my father's bodega provide jobs, serve local residents and become an important part of the community they are located in. Their experience should not be overlooked simply because they are not separately represented in the City's data. Int 0208-2026 ensures MENA-owned businesses are meaningfully included in New York City's disparity analysis."
+
+**(01:58:44)**
+
+
+
+My name is Habib El Idee. I am representing Malika. The City's M/WBE program is designed to expand opportunities for historically underrepresented businesses to compete for City contracts and access critical business development resources. Yet right now, Middle Eastern and North African owned businesses are entirely excluded from being recognized as minority owned businesses under this program. This is not an administrative oversight. It is a profound data failure with economic consequences.
+
+New York City's most recent disparity study failed to separately identify MENA owned businesses, meaning that the City lacks the baseline data necessary to measure their availability, utilization and discrimination experiences. Instead, MENA owned businesses are often lumped in with white owned businesses' benchmarks, masking systematic barriers and creating a false sense of equity. Across our neighborhoods, along vibrant commercial corridors like Steinway Street in Astoria, where I am from, MENA entrepreneurs operate grocery stores, restaurants, pharmacies and retail stores that serve as the heartbeat of our local economy. Many of these immigrant owned businesses navigate severe linguistic and cultural barriers, making specialized technical assistance and municipal contracting opportunities through the M/WBE program critically necessary for their survival and expansion. Without this recognition, our businesses remain invisible and locked out of the tools needed to scale and thrive.
+
+We are falling behind other levels of government. In 2024, the federal government established MENA as a separate ethnicity category, and New York State subsequently enacted Executive Law 178, which requires state agencies to collect and report data on MENA populations separately. New York City must align with the crucial progress that the federal and state governments have made. I strongly urge the Council to pass Int 0208-2026. Thank you for your time.
+
+**(02:00:51)**
+
+
+
+Good afternoon, Chair Restler, CM Stevens and members of the Committee on Contracts. My name is Naim Madahere and I am the Advocacy Manager at the Arab American Family Support Center. We serve over 20,000 New Yorkers each year. Our staff speak more than 20 different languages and over 17% of our clients were born outside of the United States, many from historically underserved communities. Our work centers on families by helping them stabilize during challenging times, maintain stability and ultimately thrive. This includes uplifting economic empowerment and making sure our communities have the opportunities to thrive in New York City, including through small business ownership and economic support.
+
+Middle Eastern and North African communities have been long overlooked despite their contributions to the culture and makeup of New York City. MENA owned businesses are staples in our communities and are well loved by the people they serve. These businesses go through many of the same hurdles associated with small business ownership but are
+
+**(02:02:02)**
+
+
+
+currently not recognized as minority owned businesses under New York City's M/WBE program. This classification has significant consequences for our communities and highlights an unfair gap in the City's economic opportunity programs. New York City's most recent disparity study did not look at MENA owned businesses separately. Because of this, the City does not have enough information to know how many MENA businesses are competing for City contracts, how often they receive these contracts, how much funding they receive, or whether they face discrimination. Instead, MENA owned businesses are counted as white businesses, which makes their particular and unique experiences and challenges invisible.
+
+We have seen the real impact of these disparities. At the height of the COVID-19 pandemic, when businesses were receiving rent relief and other support, Arab owned businesses were often left out or had difficulty accessing these resources. This shows why it is important for MENA owned businesses to properly be identified and included in the data the City uses to make decisions about economic opportunities and support. Int 0208-2026, sponsored by CM Shahana Hanif, would require MENA owned businesses to be included in future disparity studies used to determine eligibility for the program. This is a critical first step towards greater inclusion of MENA owned businesses. We urge the Committee to advance Int 0208-2026 to the full City Council and pass it without delay. MENA owned businesses have contributed to New York City's economy for generations. They should no longer be invisible in data that determines the economic opportunities and the supports that they need to succeed. Thanks so much.
+
+**(02:03:45)**
+
+
+
+Thank you, and I really want to thank this whole panel for coming and for your thoughtful testimony. My favorite Mike Bloomberg quote is always "In God we trust, everyone else bring the data," and it is so true. If we do not have the data to understand the demographics of the MENA community and the businesses in the MENA community, then we cannot structure the right policies to support that community. As the Council member who represents Atlantic Avenue in Downtown Brooklyn and Boerum Hill, I know so many of the truly extraordinary MENA businesses that have called our community home for a hundred years and have done so much to make our community the special place that it is. There is a lot more that we can do to support those businesses and that community that has done so much to support New York City. I really am grateful to the Council member for pushing this legislation and I am happy that we have had the opportunity to hold a hearing on it today. I look forward to working together with all of you on the next steps.
+
+**(02:04:43)**
+
+
+
+Looking forward to working together with all of you on the next steps.
+
+**(02:04:46)**
+
+
+
+Thank you so much. Unless either of you have questions — no, thank you. I appreciate you all being here. Thank you. And then we have got two folks on Zoom that we will go to now: Matt Gove and Eve Fox. Matt, we can begin with you. Can we unmute Matt? Is that possible? Is there somebody — can we do that? You did that. We did that. We are working on it. We are working on unmuting you, Matt. If you can hear us, we apologize. All right, we are good.
+
+**(02:05:24)**
+
+
+
+Yeah, I am here for the bill about reusable and single use cups that is on the agenda.
+
+**(02:05:32)**
+
+
+
+Go for it. Oh, we are doing it all right right now. This is you. This is your chance to give your three minutes of glory. All right, well I thank
+
+**(02:05:40)**
+
+
+
+you all for hearing this bill, and sorry — I lost track of what was going on with the first issue on the agenda that was going on for the last two hours.
+
+**(02:05:51)**
+
+
+
+Matt Gove from the Surfrider Foundation, and we appreciate CM
+
+**(02:05:57)**
+
+
+
+Epstein's bill to try to reduce single use cups used by City government. I think everyone knows now how much damage plastic does to human health and also how much garbage it creates, and the City has to pay to get rid of that garbage, and when that garbage is burned it releases lots of pollutants. So we thank you for the bill.
+
+I have heard there are rumors of a text change and we are very concerned with the text where it says the City can just replace those single use cups with compostable cups. Compostable sounds good, but it is one of those rabbit holes that you go down and then you end up not wanting to use one of these compostable cups because they are just as bad or sometimes even worse than just a regular throwaway cup. So we are hoping that language will be taken out. Really the only option is a reusable cup, or if you have to, there are those very thin aluminum cups that can be reused or easily recycled. So sadly for cups there are not a lot of options, but reusable always works. So we thank you for this bill and thanks for the time to testify.
+
+**(02:07:15)**
+
+
+
+Thank you so much, Matt. We really appreciate your thoughtful testimony and support of CM Epstein's legislation around single use cups. We are really happy to have the chance to hold a hearing on it. Eve Fox, hi, thank you so much.
+
+**(02:07:33)**
+
+
+
+My name is Eve Fox. I am the Director of Development and Marketing at the Story of Stuff Project, a nonprofit dedicated to waste reduction and sustainability. Prior to that I served on the leadership team at Beyond Plastics, a nonprofit led by Judith Enck, former US EPA Regional Administrator. While I applaud the intent of the bill, it contains a critical loophole that threatens to undermine its goals. Exempting compostable single use cups creates a false solution. Replacing conventional plastic cups with bioplastic or compostable alternatives fails to protect public health and the environment for four main reasons.
+
+One: they are still plastic and therefore pose serious health risks. Even compostable plastic cups are often made entirely of bio-based plastics, or those that look like paper are often lined with a hidden plastic film. Bioplastics are manufactured using the same chemical processing methods as traditional plastics and frequently contain toxic chemical additives including PFAS, which are used to make them more resistant to water and grease. In fact, a peer-reviewed April 2025 study in Food Safety and Toxicology revealed that exposure to starch-based microplastics resulted in liver and intestinal lesions, elevated blood sugars, disrupted lipid metabolism and disrupted gut microbiota, leading the authors to urge strict evaluation of bioplastic safety before use in food packaging.
+
+So-called compostable plastics also have a heavy climate footprint and use a large amount of resources. They are not carbon neutral. Growing the crops to produce them takes up a lot of land, water and fossil fuel inputs, and takes farmland away from actual food production. Furthermore, when compostable packaging, which includes cups, inevitably ends up in a landfill due to a lack of industrial processing, it breaks down anaerobically and releases methane, which is a greenhouse gas that is roughly 30 times more potent than carbon dioxide.
+
+There is the elephant in the room with all things compostable that go beyond green waste, which is that there is a lack of industrial composting processing and infrastructure. Certified compostable plastics do not break down in backyard compost bins or natural environments. They require high-heat industrial composting facilities that have precise control over temperature, moisture and oxygen, which is something that many communities lack access to. And even when they do make it into composting systems, there is widespread facility rejection due to system contamination. Municipal and commercial composters increasingly refuse to accept compostable food ware such as cups because these products introduce toxic chemicals including PFAS into their finished compost and they
+
+**(02:10:23)**
+
+
+
+create severe consumer confusion, which leads to even more widespread contamination from conventional plastics that are mixed into the composting stream. Major composting operators including those serving the state of Oregon and commercial facilities across California now explicitly request keeping bioplastics out... Time expired. Thank you.
+
+**(02:10:44)**
+
+
+
+Thank you so much. That was really insightful testimony and we really appreciate you taking the time to share your expertise with us around compostable cups and the importance of tailoring this legislation correctly. We will now go to Vicky Abu Ali, and ma'am I apologize if I mispronounced your name. You have three minutes if you would like to
+
+**(02:11:05)**
+
+
+
+testify, starting now. Thank you so much, Chair Restler and members of the Committee on Contracts. My name is Vicky Abu Ali. I am delivering my testimony today on behalf of the Story of Stuff Project and as a member organization of the Reusable New York City Coalition. The Story of Stuff, as my colleagues shared, is a nonprofit organization advocating for solutions to the plastic waste crisis, and one of our main focus areas for addressing the plastic waste crisis is through reuse as a solution to plastic pollution.
+
+As was already shared in other testimony, we know we are drowning in disposables. Each year the US food service industry purchases nearly 11 trillion disposable items, which equates to a $24 billion spend on products that are used for literal minutes and then thrown away. In New York, the cost of collecting garbage for disposal surpasses $1.7 billion annually, with $381 million of those dollars due to packaging waste, most of which is food packaging. So we are really excited to see the Council considering a bill that aims to reduce plastic pollution generated by agencies through banning single use plastic cups. But I echo the concerns of others providing testimony. Int 0896-2026 has a major flaw in allowing single use compostable cups, for the same reasons that were already stated. So I will make the most use of my time by saying that I agree with the concerns shared by others on the toxicity of compostable cups and the inability of our current systems to really even handle them and generate quality compost product, and I will focus my testimony on reuse as a solution to that issue.
+
+As a leading advocate on single use plastic waste pollution and reusable solutions, we are seeing municipalities all across the country struggle to source compostable alternatives and shift from plastic to bioplastic and so-called compostable products. So it is our position that if the goal is to reduce single use disposables, why not ban all types of single use cups? In my written testimony that I submitted I recommended some changes to the bill text, namely removing the language about compostable cups being acceptable, and also implementing language that encourages the use of reusable beverage bottles where possible and the implementation of accessible water bottle refill stations per 500 occupants based on a building's maximum capacity. Additional text changes that the Council might consider regard reusable beverage cup reuse systems being implemented in agency offices, buildings or indoor facilities and on agency property, as well as prohibiting the distribution of beverages in disposable beverage cups on those properties. The waste hierarchy focuses on reducing and reusing. Thank you for considering my
+
+**(02:14:22)**
+
+
+
+testimony. We really appreciate it. Thank you for the thoughtful testimony and for providing feedback on the legislation. CM Epstein, we will now ask Jacob Liotti to testify as well. You have three minutes beginning now.
+
+**(02:14:42)**
+
+
+
+Can you hear me? Can you hear me? Okay, thanks for having this meeting. I do want to agree with Chair Restler that there are not too many good things that can be said about the Adams administration. I want to make a suggestion that these hearings are probably more fruitful if you were actually to include testimony from small women owned businesses with equal time as the people who have been appointed by the City.
+
+I am the chair of the Association of Black Contractors and we have issued regular reports. Our latest report, entitled "M/WBE: The Mechanism of Disenfranchisement," was forwarded to your office. It was given that title because the policies, practices and procedures in New York City dismantle small Black women owned businesses. The Association of Black Contractors has submitted legislative proposals. The system that currently exists needs to be reformed, and if it is not reformed — which means moving chairs around while nothing is being accomplished — we would push for the taxpayer to be freed from the burden of funding these failed programs.
+
+When you look at our data, which we regularly issue reports on, combined with the Comptroller's report — and I do believe the Comptroller's data is correct — you will come to the conclusion that the Chair's hunch is correct: that these agencies do not care. So we are calling for oversight hearings to include testimony from the affected parties, which are the small women owned businesses. We welcome the opportunity to work with Chair Restler's office to bring about these legislative proposals. I really want to
+
+**(02:16:54)**
+
+
+
+thank you for your testimony. We would love to engage further with the Association of Black Contractors and yourself, and appreciate the input today. I share your sentiments. I feel like we would have been better served by more participation from M/WBE firms and associations that advocate for those firms, and in future M/WBE hearings we will do a better job of making sure that those folks are properly engaged and participating. So thank you, and we very much look forward to following up. The last person slated to testify today has not shared their name, so we will have to ask you to share your name on the record. We have you listed as the New BXC...
+
+**(02:17:44)**
+
+
+
+Good afternoon, Chair Restler and members of the Committee on Contracts. My name is Tanisha Hurd and I am representing the Bronx Chamber of Commerce. The Bronx Chamber is really critical in helping local businesses in the Bronx grow, thrive and remain competitive. For many Bronx entrepreneurs, especially first-generation business owners, the Chamber is the very first place they turn to for support.
+
+We fully support Int 0694-2026, which would expand government outreach when the utilization targets are unmet, and Int 0208-2026, which will include Middle Eastern and North African entrepreneurs in getting the M/WBE certifications. In the Bronx, the Middle Eastern and North African community is a vital and growing part of our borough, home to a cultural hub like Little Yemen. Nationwide we have seen how Middle Eastern and North African businesses are underrepresented in government data, which suppresses the economic needs of this group and prevents them from accessing programs.
+
+To build on the great work being done, we would assess Middle Eastern and North African Americans for program eligibility, especially as our community continues to grow here in the Bronx. As it relates to Int 0694-2026, it will study business owners within this group through disparity studies. If the results show that they are eligible, the program will include them in the M/WBE benefits and continue supporting the growth of Bronx businesses.
+
+Alongside adding new business owners, the program will also strengthen mechanisms to improve equity in the Bronx. By implementing Int 0208-2026 and requiring government agencies to conduct education and outreach if they do not reach their goals, businesses under M/WBE
+
+**(02:19:52)**
+
+
+
+will have improved access to contracts and opportunities, and their success will expand throughout the borough. Expanding access to M/WBE programs and strengthening its requirements will help ensure more City dollars reach Bronx businesses and communities. By investing in our diverse businesses we strengthen our local economy, our borough and of course the City at large.
+
+So we look forward to working with the Council to continue to strengthen local businesses. The Chamber fully supports Int 0208-2026 and Int 0694-2026, and we hope that you are able to move these critical Bills forward. Thank you so much.
+
+**(02:20:32)**
+
+
+
+Thank you so much, Ms. Hurd, and we really appreciate you taking the time to testify and to working with the Bronx Chamber of Commerce. I think they are definitely an important partner as we do more to engage and get businesses connected to City contracts. I think that is all we have for today, so with that I just want to thank everybody for coming. Ashley, thank you for spending however many hours with us, and everybody else for being here. We appreciate you and I hope everybody has a wonderful afternoon.
+
+**(02:21:03)**
+
+
+
+They were a journey.
