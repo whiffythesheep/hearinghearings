@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Hospitals"
+committee: "Committee on Hospitals | Committee on Mental Health and Substance Use | Committee on Women and Gender Equity"
 committee_slug: committee-on-hospitals
 title: "Access to Gender-Affirming Care and Associated Mental Health Outcomes for Transgender and Nonbinary Youth"
 date: 2026-09-23
@@ -9,7 +9,7 @@ youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260923-131041.mp4"
 viebit_hash: "TPpaVb9COurq7jvh"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1434191&GUID=088F3BF9-C172-4231-9C8F-E97DE6E26558&Search="
-chairs: "Mercedes Narcisse"
+chairs: "Mercedes Narcisse | Tiffany L. Cabán | Amanda C. Farías"
 members: "Shirley Aldebol, Selvena N. Brooks-Powers, Harvey D. Epstein, Amanda C. Farías, Jennifer Gutiérrez, Pierina Ana Sanchez"
 ---
 

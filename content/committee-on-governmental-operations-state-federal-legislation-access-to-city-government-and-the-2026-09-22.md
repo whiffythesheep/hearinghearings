@@ -1,0 +1,1970 @@
+---
+committee: "Committee on Governmental Operations, State & Federal Legislation"
+committee_slug: committee-on-governmental-operations-state-federal-legislation
+title: "Access to City Government and the Mamdani Administration's Civic Engagement Efforts"
+date: 2026-09-22
+slug: committee-on-governmental-operations-state-federal-legislation-access-to-city-government-and-the-2026-09-22
+duration: "3hrs 1m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260922-100800.mp4"
+viebit_hash: "tRhEZBdFgszqga1M"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1432368&GUID=C1F696F5-3E6B-4C71-BCC4-608A17168E8B&Search="
+chairs: "Gale A. Brewer"
+members: "Eric Dinowitz, Oswald J. Feliz, Frank Morano, Althea V. Stevens, Carl Wilson, Susan Zhuang"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Governmental Operations held an oversight hearing on two intertwined issues: the Mamdani administration's civic engagement efforts through the newly created Office of Mass Engagement, and the administration's use of social media influencers and an invite-only Signal group called "Creators Announcements" to distribute talking points and messaging to over 200 content creators. The hearing also considered four preconsidered bills addressing disclosure of government-funded third-party communications, campaign finance disclosures for digital content, prohibition on candidates appearing in government-funded third-party communications during election periods, and reporting requirements for public communications paid for with government resources. The session was marked by a significant and recurring frustration: the Mayor's communications team, and specifically Amelia Roland, Director of New Media and identified as the person running the influencer operation and Signal group, declined to appear. Chair Brewer, Minority Leader Carr, the Public Advocate, and multiple committee members noted this absence explicitly, with CM Morano calling it "outright ridiculous" and suggesting the committee consider using its subpoena power.
+
+The administration sent DORIS Commissioner Shawn Townsend-Cruz and Office of Mass Engagement Commissioner Tasha Van Aachen, neither of whom could answer the central questions about how many influencers the city has worked with, how much has been spent, how the Signal group was selected or managed, or whether substantive records were deleted. DORIS's testimony, while thorough on archival process, repeatedly exposed the core policy problem: under the city's May 2025 instant messaging policy, text messages and Signal messages are classified as "transitory" by default, carry a zero retention period, and are not considered records for FOIL purposes unless an individual employee judges them substantive and manually transfers them to another platform. This drew pointed questioning from CM Dinowitz, who noted that "daily updates, talking points and clips to use in posts" sent through Signal sound substantive by DORIS's own definitions. The DORIS director of records management declined to apply that judgment to the specific facts at issue, deferring instead to agencies. A memorandum from the Mayor's Office Chief Counsel dated January 2026 and entered into the record explicitly prohibits employees from using Signal or WhatsApp for work, making the communications team's apparent use of Signal additionally awkward, though DORIS confirmed it was not aware of the memo and it fell outside DORIS's jurisdiction.
+
+The Campaign Finance Board, represented by First Deputy Executive Director Amelo, provided the most substantive and useful testimony of the day. The CFB explained its own influencer program in detail, including its nonpartisanship criteria, contract requirements, and disclosure practices. On the four bills, the CFB found T2026-2553 (CM Zhuang's digital disclosure bill) duplicative of existing CFB rules already requiring "paid for by" disclaimers on campaign advertising; had no formal position on T2026-2555 (the 90-day candidate appearance blackout); opposed T2026-1440 (third-party communication reporting) as drafted because it places obligations on individual public servants rather than agencies; and opposed T2026-2554 (requiring agency disclosures of third-party communications) because designating the CFB as enforcer is misaligned with its charter role, which does not extend to investigating other city agencies. The CFB noted it is reviewing whether its disclosure standards should be more consistently aligned to "paid for by" language across all platforms.
+
+Columbia University researcher Dr. Anya Schiffrin, whose Columbia Journalism Review article first exposed the Signal group, testified about her research mapping city influencer relationships. She found no systemic record-keeping of content creators hired by city agencies, inconsistent disclosure labeling, and a general lack of clarity about which laws apply. She raised a structural question analogous to the SEC's Regulation FD: why does a separate, invite-only influencer list exist rather than a single press list accessible to all? She noted that Amelia Roland told her via text message on September 21 that the Signal group receives the same information as the regular press, described as links to press releases and YouTube livestreams. Schiffrin recommended standardized disclosure requirements, regular publication of influencer lists, and training for city employees and vendors, pointing to regulatory models in Spain, Canada, and the EU. Good government groups Reinvent Albany, Citizens Union, and Common Cause New York broadly supported stronger disclosure and records rules, with Reinvent Albany circulating draft legislation redefining instant messages as substantive or non-substantive rather than transitory by default, and Citizens Union calling for a technology-neutral charter provision explicitly prohibiting auto-delete functions for government communications. Community content creators who testified, including participants in the Signal group, said they were not paid by the administration, received the same press-release-style information as traditional media, and had not been directed on how to frame content.
+
+Numbers
+
+- Over 200 social media influencers were included in the Mayor's Office Signal group called "Creators Announcements.".
+- The Office of Mass Engagement was created on Mayor Mamdani's second day in office.
+- The Office of Mass Engagement absorbed five predecessor offices: the Community Affairs Unit, the Public Engagement Unit, the Mayor's Office of Ethnic and Community Media, the Office of Faith-Based and Community Partnerships, and New York City Service.
+- The Office of Mass Engagement has 20 new staff lines added to its budget, with approximately $2.84 million in new funding.
+- City volunteers under the Office of Mass Engagement knocked on over 10,000 doors, generating nearly 20,500 organizing conversations with New Yorkers.
+- Faith-Based Partnerships facilitated the Mayor's presence at nearly half of over 120 faith-based events and meetings since inception.
+- Borough organizers attended over 240 community board meetings, district service cabinet meetings, and related engagements.
+- The Office of Mass Engagement's events team supported over 30 events in 30 weeks, attended by over 5,800 New Yorkers.
+- Over 134,000 New Yorkers participated in the People's Money participatory budgeting program in 2026, with over 26,000 ballots cast in a language other than English.
+- New York City Service supported over 900,000 people through service-based programs, with over 50,000 people engaged in service this year.
+- The Public Engagement Unit knocked on more than 10,000 doors and made more than 40,000 phone calls to inform SNAP recipients about new federal work requirements, reaching 11,000 New Yorkers.
+- A co-governance table for child care workers led to the launch of a $3 million emergency grant program.
+- 70% of attendees at a bus rider town hall with the Mayor came from zip codes directly impacted by the bus plan.
+- Heat wave emergency outreach reached over 600,000 New Yorkers via email, with an 800-entry stakeholder list supporting the effort.
+- The CFB worked with 29 influencers during the 2025 election cycle, generating over 70 posts across Instagram and TikTok.
+- Total CFB influencer spending in 2025 was $626,365.
+- CFB influencer posts generated more than 6 million views and over 500,000 engagements, with an average engagement rate of approximately 5%, well above the 1-3% industry average.
+- CFB influencer content in Spanish, Korean, and Bengali generated over 400,000 visits to the CFB's Votes website.
+- An AI analysis of more than a dozen Instagram influencers working with the Mayor's team found that the overwhelming majority of 178 administration-related videos were positive.
+- DORIS provides access to approximately 185,000 cubic feet and more than 400 terabytes of historical city records, along with over 400,000 books, government reports, and publications.
+- DORIS responds to more than 28,000 reference requests and serves 265 government entities through its records management division.
+- The Government Publications Portal hosts a growing online collection of more than 74,000 agency reports and publications.
+- Approximately 77% of DORIS archival holdings require preservation work.
+- RecordPoint, the city's electronic records governance tool, manages more than 215 million records.
+- CivicPlus Archives Social currently archives content from 10 platforms: Facebook, X, Instagram, LinkedIn, TikTok, YouTube, Vimeo, Nextdoor, Pinterest, and Flickr; Signal, Bluesky, Reddit, and WhatsApp are not yet supported.
+- The DORIS instant messaging policy was last updated in May 2025; the social media policy was last updated in 2021.
+- The Chief Counsel memorandum prohibiting use of Signal and WhatsApp for work is dated January 15, 2026 (a typo in the date field shows 2022, but metadata confirms 2026).
+
+Action Points
+
+- Office of Mass Engagement to provide Chair Brewer with a borough-by-borough breakdown of outreach, spending, staffing, community events, and completed service referrals, including a specific breakdown for Staten Island.
+- Office of Mass Engagement to provide Chair Brewer with specifics on the 20 newly created staff positions, including which units they are in, which are filled, and which remain vacant.
+- Office of Mass Engagement to follow up with Chair Brewer on the specifics of training provided to staff to prevent political activity.
+- Office of Mass Engagement to refer questions about the Office of Community and Ethnic Media, its leadership structure, and Amelia Roland's role to the Mayor's Office of Communications.
+- DORIS to follow up with the committee on the possibility of updating the 2021 social media policy to reflect current platforms and communications practices.
+- DORIS to continue onboarding all city agencies, including the City Council, onto the open records FOIL portal, with the City Council slated to onboard within the month.
+- DORIS to work with OTI and CivicPlus to pursue archiving capability for Bluesky, Reddit, and WhatsApp when the vendor is able to support those platforms.
+- CFB to provide more detailed written comments and suggested edits to the Council on all four bills after completing its full analysis of operational impact.
+- CFB to conduct an internal review of whether its current disclosure standards consistently meet a "paid for by" standard across all social media platforms and formats.
+- Chair Brewer to pursue additional engagement with the Mayor's communications office to obtain answers on influencer contracting, Signal group operation, and records retention practices not addressed at the hearing.
+- Committee to consider use of subpoena power to compel testimony from Amelia Roland and other communications officials who declined to appear, as requested by CM Morano.
+- Reinvent Albany to share its draft legislation on instant messaging records classification with the committee for review.
+- CFB to work with CM Zhuang to clarify whether T2026-2553 should be redirected to address non-campaign government use of influencers rather than modifying the elections section of the Charter.
+- Council to work with CM Carr on revising T2026-1440 to shift reporting obligations from individual public servants to the agency level, as recommended by the CFB.
+- Council to revisit T2026-2554 to address the CFB's objection to being designated as an enforcing agency with shared responsibility with the Conflicts of Interest Board.
+- Dr. Schiffrin to share comparative regulatory frameworks from Spain, Canada, the EU, and other jurisdictions with committee staff to inform legislation drafting.
+- DORIS to meet with Chair Brewer for further discussion on FOIL obligations for text messages and the adequacy of current instant messaging policy, as requested by the Chair.
+
+## Full Transcript
+
+**(00:00:09)**
+
+
+
+Thank you. Good morning, everyone, and welcome to today's New York City Council hearing for the Committee on Governmental Operations, State & Federal Legislation. At this time, please silence all electronic devices. If you would like to testify, you must fill out a witness slip with one of the sergeants at arms. Just a reminder: no one may approach the dais at any time. We are ready to begin. Thank you.
+
+**(00:00:31)**
+
+
+
+Thank you very much. I am Gale Brewer, Chair of the Committee on Governmental Operations, State & Federal Legislation. I want to thank everyone for joining us today for the hearing. We are calling it "Access to Government and the Mamdani Administration Civic Engagement Efforts." I would certainly like to welcome individuals from the Department of Records and Information Services — DORIS. That is my favorite agency. Nobody else likes it as much as I do. The Office of Mass Engagement, the Campaign Finance Board, and the Conflicts of Interest Board will be joining us here. We are also going to hear from the wonderful Public Advocate in a minute.
+
+In addition to oversight, today we will be hearing four preconsidered bills: one sponsored by Minority Leader Carr in relation to prohibiting candidates from appearing in certain government-funded third-party communications during an election campaign; another one sponsored by Minority Leader Carr in relation to reporting on third-party public communications; another one sponsored by CM Feliz in relation to requiring disclosures on third-party public communications paid for with government resources; and finally one sponsored by CM Wong in relation to requiring campaign finance disclosures in content posted on internet websites, digital applications and social media platforms, and directing the Campaign Finance Board to issue guidance regarding the disclosure, recordkeeping and reporting requirements applicable to such content.
+
+Government use of influencers has become the norm, and that is a good thing. Influencers are a good thing. Government use of influencers to increase awareness on public health issues is a good thing. Boosting election participation — that is needed. Attracting tourists, among other things. There is nothing wrong with using influencers, and they can actually help government officials reach populations that are difficult to reach through traditional media. Not everybody can watch New York One like me. I understand that.
+
+Government agencies in New York City primarily use social media influencers in two different ways. First, agencies work with influencers to create targeted campaigns. One of the first examples of a successful use of social media influencers in a public awareness campaign: Health and Hospitals used them to encourage New Yorkers to get tested and then to get vaccinated against COVID. Recently, the Campaign Finance Board, through its Votes initiative, partnered with influencers to increase voter turnout and civic engagement. Health and Hospitals and the Campaign Finance Board generally include in those campaigns some type of disclosure that they are paid for by the City. This is not, however, the case with all City agencies, and that is the issue. There is no consistency among agencies on the wording of the disclosure, what kind of hashtags, et cetera.
+
+The second way that the Mayor in particular uses social media is more novel and very effective. At the end of last month, a Columbia Journalism Review piece by the very great Dr. Anya Schiffrin reported on the use — and she will be here today to talk about it — of an invite-only Signal group used by the Mayor's communications team to share updates, talking points and clips to a selected group of social media influencers. The Signal messaging app allows users to auto-delete messages. That is how Signal works. It is not clear in what cases this feature was active. The Signal service does not keep copies of messages. So we want to ensure that the Mayor's team is following the City's document retention rules when using it, and that is called archiving. I am an archive nut. I just want people to know that.
+
+There also appears to be at least some overlap between the influencers who are paid to promote agency campaigns and those on the Mayor's Signal distribution list. In addition to finding out about the Mayor's use of social media influencers and Signal, we are also going to hear from the Mayor's newly created Office of Mass Engagement. On just his second day in office, the Mayor created this office, which, according to the Mayor, was intended to create a connection between City Hall and everyday New Yorkers. This office replaced the Community Affairs Unit, the Public Engagement Unit, the Mayor's Office of Ethnic and Community Media, the Office of Faith-Based and Community Partnerships, and New York City Service — all placed under this new office as well, although I think one of them the Mayor moved over to Communications.
+
+While the work of the Office of Mass Engagement is consistent with the work of the Public Engagement Unit, which now reports to it, it has a greater emphasis on connecting with New Yorkers and engaging them in governmental processes while also making sure that they are aware of their rights as New Yorkers. New Yorkers need to know what their benefits are and this office helps to do that. We would like to find out more about how this office works and how it differs from the Mayor's outreach during the election campaign. We also want to hear about any legislation that they might suggest on this topic, and obviously we want to know about FOIL. We want to hear from DORIS. Those are the issues that I definitely care about.
+
+I want to thank the following Council staff for their work on this hearing: from Government Ops, Hari Frazier, Erica Cohen, and Sinal Hamid; and from my staff, Tula Pooter and Cynthia Hornig, and everyone who helps make this hearing run smoothly. I think we have also been joined by Minority Leader Carr, CM Wong, and on Zoom, CM... I do not know if CM Carr or CM Wong want to make opening statements — go ahead.
+
+**(00:06:58)**
+
+
+
+Thank you, Chair Brewer, for holding this important hearing today, and thank you to Speaker Menin for her leadership on this issue. When Zohran Mamdani rode his social media stardom to the mayoralty last year, I think we all understood that there was a real paradigm shift in the way politicians engage with the public. That was made even more clear when the Mayor brought his campaign communications apparatus to City Hall. I do not think we understood the extent of that change until a recent report by the Initiative for Policy Dialogue at Columbia University, mentioned by Chair Brewer, that revealed that the Mayor's Office has been operating a Signal group chat called "Creators Announcements" with over 200 social media influencers.
+
+In this group, the report found that the Mayor's Office shares daily talking points, videos and other ways to spread favorable messaging about the Mayor and the administration. They are also invited to events and offered access to City officials. In response to this revelation, Amelia Roland, who is the Mayor's Director of New Media and runs this influencer campaign, said, quote: "At a moment of profound distrust in politics, our job is not to be the ones who once controlled access to public information," end quote. Indeed, there is a profound mistrust in politics today, but that mistrust is only intensified when City officials conduct business with outside entities using an encrypted messaging app with disappearing messages, purposely designed to evade public scrutiny and laws that require recordkeeping. And when these so-called new gatekeepers buy their access to the Mayor by amplifying his messaging, it is also somewhat...
+
+**(00:08:43)**
+
+
+
+...ironic, given Roland's statement, that the so-called legacy media she seemed to deride was the one that revealed this particular partnership. What makes this new communications strategy more alarming than others is the fact that these influencers, who have built up their own brands because of the perception that they are genuine and authentic, are able to convince the public that these are not coordinated messages — and yet they often are, and are paid for as a message and objective of those so-called honest views.
+
+According to the New York Times, an artificial intelligence analysis of more than a dozen Instagram influencers who work with the Mayor's team found that of 178 videos related to the administration, the overwhelming majority were positive. The Federal Trade Commission has laws to prevent deceptive advertising, including new rules for disclosure for social media influencers. There are also campaign finance rules that require disclosure of payments to anyone who is working on behalf of a candidate and their committees. But there is a big loophole when it comes to this type of relationship between influencers and government entities.
+
+The legislation we are introducing today aims to close that loophole by requiring the disclosure of these relationships. It will let us know who is collaborating with the Mayor's Office and the City agencies, the subject matter of these messages, and whether they are being paid for by the government for such messaging and, if so, how much. These are basic guardrails that will protect against misrepresentation and give the public the full picture about the message they are receiving. Thank you, Chair. Thank you.
+
+**(00:10:29)**
+
+
+
+Very much. CM Wong, do you want to make a statement? Okay, right. So then we are going to hear from the Public Advocate.
+
+**(00:10:43)**
+
+
+
+Thank you, Madam Chair. My name is Jumaane Williams, Public Advocate of New York. I want to thank Chair Brewer and members of the Committee on Governmental Operations, State & Federal Legislation for holding this hearing and the opportunity to share this statement. To create effective civic engagement in New York, we should readily understand who is communicating with them, in what capacity, and with what resources.
+
+City agencies use social media to communicate information about various services, emergencies and opportunities. The City's own social media policy recognizes that these platforms provide agencies with ways to directly and meaningfully reach constituents and disseminate information about services they provide. Commonly, social media content from such an individual can indicate that it comes from a government source. Simultaneously, the ever-changing digital landscape creates new questions about how New Yorkers will continue to be able to distinguish official government communications from communications distributed by third parties.
+
+At its core, government communications should be rooted in transparency. New Yorkers should know who is communicating with them and where public resources are being used. At a moment when deep fakes and misinformation from the highest levels of government make public discernment increasingly difficult, it is even more important than ever here in New York City that we do not just follow every rule for compliance with government, but that we build trust with the public that our federal counterparts in Washington seem intent on destroying.
+
+The New York City Department of Records and Information Services, DORIS — which apparently is the favorite of the Chair — the 2025 policy on electronic messages explicitly states that messages that document decisions, actions or policies of an office or agency must be retained and preserved. The policy further establishes that these offices and agencies must set procedures for gathering these messages, including but not limited to screenshots or exporting data. This raises particular concerns when City employees or agencies use third-party messaging apps such as WhatsApp or Signal with automatic deletion or disappearing message features. While these outside applications would be more than appropriate for personal communications, the message deletion feature undermines public records and data retention laws. These vanishing messages prevent government transparency, making public communications unrecoverable for Freedom of Information and open records requests. Using these apps — even if no official records were deleted — raises questions, at minimum, in the public mind, and these are questions that should not need to be answered if the same permissible conversations occurred through all the proper methods.
+
+As public servants, I believe it is best practice not to invite questions of secrecy in the course of doing our jobs. There are a number of pieces of legislation from my colleagues CM Wong and CM Carr that seem to address this, and I look forward to reading them more deeply and understanding how they would address the concerns we have. I also look forward to hearing from the City agencies about all of the issues that we have heard about. I did want to make clear: I do not know if the administration has done anything wrong at all. This hearing is also partly about that. I do know that in this time period we have to create and be convincing about an atmosphere of trust, particularly in an ever-changing communications space and against a backdrop where we hear from small and particularly ethnic-specific media about their lack of access. So I am hoping today that the administration will assuage some of the concerns that we have heard, and I could not think of a better person to help lead that conversation, Council, than the current Chair. Thank you.
+
+**(00:13:57)**
+
+
+
+Thank you very much. Those are very kind words. I would now like to turn the proceedings over to the Committee Counsel to administer the oath.
+
+**(00:14:29)**
+
+
+
+Well, hello. Good morning, Chair Brewer, members of the City Council. It is a true pleasure to introduce the work of the Department of Records and Information Services regarding policy, records management and retention. My name is Shawn Townsend-Cruz, and also, if you are reading along, this is not a draft, so you can delete that from the top of the page. I am the newly appointed Commissioner for the Department of Records and Information Services, affectionately known as DORIS, and we appreciate your affection. I am joined by my Director of Municipal Records, Lauren Gilbert, Director of Municipal Library, behind me, and Sylvia Collar, Director of Municipal Archives, also sitting with me. I am also grateful to be here alongside Commissioner Tasha Maquinna and her colleagues from the Office of Mass Engagement.
+
+My background is as a writer, editor, academic librarian, community archivist, faculty member in information science and native New Yorker. I want to first briefly introduce DORIS and its function. In accordance with the Charter, DORIS is organized into three main divisions: the Municipal Archives, the Municipal Library and Municipal Records. DORIS provides the public with access to more than... digitized items, including historical photographs, maps and documents. The Historical Vital Records platform provides free online access to high-quality copies of historical birth, death and marriage records. The Municipal Library hosts the Government Publications Portal, a growing online collection of more than 74,000...
+
+**(00:16:30)**
+
+
+
+Reports and publications by City agencies: we respond to more than 28,000 reference requests and provide access to approximately 185,000 cubic feet and more than 400 terabytes of historical City records, along with a collection of more than 400,000 books, government reports, studies and other publications. Approximately 77% of the archival holdings require preservation work and we have a conservation unit that oversees the rehousing, conservation treatments and other specialized measures.
+
+Municipal Records Management Division developed and administers records management policies, operates record storage facilities, provides services to 265 government entities and we oversee the City government's transition to digital records management. We manage the City's open records FOIL portal, which is in the process of onboarding all agencies of the City of New York, including the City Council, which is slated to onboard within the month, so that is really exciting for open records.
+
+To support records management across the entire City, records management as a service is provided by records management officers based within each City agency. DORIS has five records management officer liaisons, one of whom is with me here today, including the department director. We train records management officers and provide them with resources informed by national field standards, and all records management policies are written in collaboration with the Law Department.
+
+The records management lifecycle contends with a basic archival principle: not all records are archival. Instead, we ask: is the record active? Is the record substantive? For how long does it need to be retained? Does it have historical and enduring value? Answers to these questions lead to records series retention schedules, which can be as long as 99 years or in perpetuity, on average 3 to 8 or maybe 10 years, and as low as a schedule of zero.
+
+Which brings me to instant messaging: policies and practices regarding instant messages relate to the May 2025 policy. This policy was developed in close consultation with the Law Department and the Office of the Chief Counsel. DORIS updated its policy on instant electronic messaging records, and I brought copies of the policy so that we can read along together. If one of the guards could help me pass along the documents — very good. I am a librarian, so I like read-alongs.
+
+When you receive it, you will note that it does state, actually in bold and underline on page two, "instant electronic messages." And this policy has actually been posted online since its development in May 2025. "Instant electronic messages are considered transitory by default. There is no expectation of retention. If a user determines the content of the messages is substantive and should be maintained, the user is charged with transferring the content to a format more appropriate for long-term storage." End quote.
+
+Under this policy, instant messaging or text messages are treated similarly to a phone call or a conversation at a conference. By default, such communications are deemed transitory and therefore not subject to retention. But if the content of the message happens to be substantive in connection with City business, then the City employee should move that content to other platforms for retention. The policy also strongly discourages City employees from creating instant electronic messages that are substantive in nature.
+
+When records are found to be substantive and do have enduring value, they become archival. The archives work in preservation and access, considers changing formats and environments in which New York City government conducts its business, and that brings us to digital solutions and considerations.
+
+DORIS has initiated the City's engagement with the electronic records governance tool RecordPoint. RecordPoint enables agencies to categorize electronic records in accordance with their existing retention schedules and is implemented across agencies. One agency uses the system, which manages more than 215 million records. This tool empowers agencies to enforce retention and disposal across their data repositories, properly managing records across their lifecycle. This tool, however, only maps to government-supplied tools where substantive records are held. This is because we still have a ways to go before these types of tools are manageable across all types of digital platforms.
+
+Our policies aim to keep up to date with the modern-day use of various digital tools and platforms. To that end, we must also consider that all digital platforms serve different purposes. For example, transitory messages in a messaging platform operate at a very different speed than a social media post, which is by default considered a publication and has a policy of archival permanence. I did not bring a copy of our social media policy, but our social media policy states, quote, "Social media records have a permanent retention and are required to be transferred to the Municipal Library." End quote.
+
+Our social media policy was last updated in 2021. However, Local Law 41 of 2025 expanded the requirement to maintain a publicly accessible and searchable online database that contains all publicly viewable content and metadata shared by government social media accounts. We work with OTI to contract with a third-party vendor and archival tool called CivicPlus Archives Social. CivicPlus functions to capture agency archival information. DORIS is now able to automate and facilitate this process, supporting the onboarding work of connecting the social media accounts of officials and agencies.
+
+CivicPlus is currently capable of archiving the following platforms: Facebook, X, Instagram, LinkedIn, TikTok, YouTube, Vimeo, Nextdoor, Pinterest and Flickr. They are aware of the City's interest in Bluesky and Reddit and WhatsApp but cannot provide an estimate of when those platforms might be added. If a platform is eventually added, CivicPlus would be able to go back to the start of the account and retroactively harvest all of the content.
+
+As it relates to the Bill that was posed by CM Carr, DORIS does not see this new process as within the jurisdiction of our work. We are not asked to report on other agencies' work. But as the stewards of the government publications portal, we can supply the tool for reporting that another agency used to upload within the pre-existing portal.
+
+So I would like to end by grounding us. We are here to be responsive to New York City's open access to government history and records. Our charter mandate is clearly written and does not, for example, ask us to become a reporting agency for alleged behaviors such as what is being recommended in CM Carr's social media Bill. Instead, we operate in service to the community, to the public service of the Municipal Library and to stewarding efficient records.
+
+I have provided a lengthy testimony to be as informative as possible, to underscore process and practice for a collective aim of transparency through government records, which I hope has been made clear this morning. I thank you for your attention and welcome your questions, and I pass the mic to the Commissioner.
+
+**(00:26:22)**
+
+
+
+Thank you, Commissioner. Good morning. Thank you, Chair Brewer and the members of the Committee on Governmental Operations for this opportunity. My name is Tasha Van Aachen and I am the Commissioner of the Mayor's Office of Mass Engagement. Mayor Mamdani established the Office of Mass Engagement on his second day in office out
+
+**(00:26:41)**
+
+
+
+of a belief that good governance requires bringing New Yorkers into the work of government. Since then, we have reached hundreds of thousands of New Yorkers to engage them about new policies, help them navigate City services, support them through extreme weather events and develop their civic participation.
+
+New Yorkers care a lot about their City, but we are also famously busy people. It is hard to get informed, get involved and have a voice when City government seems so opaque and difficult to navigate. New Yorkers are juggling jobs, kids, caring for elders and much more. We cannot wait for them to come to us. We need to meet New Yorkers where they are to help them access services and participate in the decisions that affect their lives. A benefit can only help someone if they know it exists, that they are eligible for it and understand how to access it. A public hearing is only truly public if New Yorkers know it is happening, know how to participate and believe their voice belongs in the room.
+
+Our job is to demystify government processes and add new pathways for New Yorkers to engage with City agencies and see the positive impacts of their participation. We connect several long-established offices for civic engagement, like the Public Engagement Unit, City Service and the Civic Engagement Commission, with new initiatives to educate and involve New Yorkers. We are able to draw on the deep well of knowledge and relationships that these historic engagement offices offer while expanding the ways that New Yorkers can participate in government.
+
+Some of our teams include the Office of Faith-Based Partnerships, which fosters reciprocal relationships with New York's diverse faith communities. Our team of faith liaisons have built relationships at over 120 faith-based events and meetings since the office's inception and facilitated the Mayor's presence at nearly half of those events. These range from visiting houses of worship with the Mayor to interfaith and holiday events like the 38th Annual Paguay Parade, Passover at Gracie Mansion and backpack distribution with the New York Disaster Interfaith Services, to name just a few. Faith-Based Partnerships supports roundtables that connect communities to City government.
+
+We also hosted three interfaith tenant canvasses, one of which was the highest-attended canvass with nearly 50 attendees, forging a new model for faith-based civic engagement. Our community liaisons bring a range of communities into the work of governance, develop meaningful heritage events that connect the Mayor to the cultural life of our City and build civic leadership in under-engaged communities. Community liaisons have visited community-based organizations in all five boroughs, supported the planning of cultural events at Gracie Mansion like the African Heritage Reception and the Mid-Autumn Festival, staffed parades from the West Indian Day Parade to the Mexican Independence Day Parade and attended community events on behalf of the Mayor's Office from the Hong Kong Dragon Boat Festival to the recent Battle of Gelolaf, which brings the West African community together over food, sport and culture.
+
+Our citywide constituent affairs team coordinates proactive, responsive action on New Yorkers' issues from deed theft to housing discrimination, trash pickup, flood response and much more. For example, constituent affairs recently coordinated across multiple agencies to take action to aid a school experiencing recurring flooding. Our emergency response team delivers crucial information and support to New Yorkers through snowstorms, wildfire smoke and floods. We also provide compassionate touchpoints and wraparound services to New Yorkers after serious tragedies. Our emergency response team organized a coastal zone preparedness call where over 115 New Yorkers living in areas most vulnerable to coastal storms received life-saving information about how to prepare.
+
+Our borough organizing team maintains strong relationships with community boards and other long-standing partners while also building new relationships with tenant leaders, community-based organizations and other neighborhood networks. Borough organizing builds hyperlocal relationships to create more ways for New Yorkers to organize around the issues affecting them and engage directly with City Hall. Borough organizers have attended over 240 community board meetings, district service cabinet meetings, borough-wide cabinet meetings, one-on-ones with district managers and board chairs and other ad hoc meetings to build relationships with community boards and dig in on borough-specific issues.
+
+Our events team has supported over 30 events in 30 weeks, attended by over 5,800 New Yorkers, from New York City 101 events where New Yorkers get educated on how our government works, to events like Pickup at the People's House and cultural heritage events where New Yorkers can see their heritage uplifted at City Hall. Our co-governance team supports agencies and the administration in building out models for shared accountability with New Yorkers and advocates in policymaking. For example, they supported the Mayor's Office of Child Care and Early Childhood Education in building a co-governance table for child care workers that led to the launch of a $3 million emergency grant program specifically in response to the needs and gaps identified by this table. This is yet another way that we strive to bring New Yorkers into the work of City government.
+
+The campaign's theme empowers the most impacted New Yorkers to participate in the decisions that affect them. New York City volunteers led by our staff have knocked on over 10,000 doors, leading to nearly 20,500 successful organizing conversations with New Yorkers. In these conversations, we listened to their concerns about their rights and invited them out to educational events. We have seen great success in this work at the recent bus rider town hall with Mayor Mamdani and the Department of Transportation, where 70% of attendees were from zip codes directly impacted by the bus plan.
+
+Our teams also work extremely collaboratively with each other and with agencies across the City. Emergency response and the Office of Faith-Based Partnerships worked together during a heat wave alert, and the Office of Mass Engagement emailed heat warning and cooling center information to over 600,000 New Yorkers. Our Office of Faith-Based Partnerships tapped their stakeholder networks to get real-time updates of where New Yorkers were most impacted and used that information to recommend cooling center locations. The Office of Faith-Based Partnerships and the Office of Community-Based Partnerships worked with the emergency response teams and the Mayor's Office to broaden City Hall's reach by translating urgent safety messaging into relevant languages, contributing to an 800-entry-long list of stakeholders and faith institutions for email blasts and overall increasing the reach of rapid response messaging.
+
+Our campaigns, borough organizing and events teams have worked with the Department of Transportation to increase bus rider participation and feedback in the City Bus Action Plan and with the Mayor's Office to protect tenants, to reach out to tenants living in distressed buildings throughout the City as well as to landlords and property owners, enabling thousands of New Yorkers to participate in strengthening their communities and government.
+
+The umbrella also includes a few incredible offices whose leadership will be available for questions. The Civic Engagement Commission — and we have Chair Dr. Sarah Sayeed over here — which stewards participatory budgeting and language support at poll sites. Over 134,000 New Yorkers made their voice heard in the People's Money participatory budgeting program in 2026, with over 26,000 ballots cast in a language other than English.
+
+**(00:35:25)**
+
+
+
+New York City Service — and we have Chief Service Officer Laura Rog over here — City Service, which seeds a spirit of volunteerism across the City, bringing people together to support each other and our City. New York City Service envisions a City where New Yorkers are united by service, building a culture where neighbors uplift one another and take shared responsibility for the success of our City. This year, New York City Service has supported over 900,000 people through its service-based programs and partnerships, with over 50,000 people engaged in service.
+
+The Public Engagement Unit — and we have Deputy Commissioner De La Cruz right here — which connects New Yorkers to benefits. Their staff of highly skilled outreach specialists knock on doors and make calls. When the federal government passed new work requirements for the Supplemental Nutrition Assistance Program, or SNAP, putting thousands of people at risk of losing their benefits, we informed SNAP recipients who were at highest risk of losing their benefits as a result of the federal government policy changes by knocking on more than 10,000 doors and making more than 40,000 person-to-person phone calls. We reached 11,000 New Yorkers to help them keep their SNAP benefits.
+
+Our goal is to foster a spirit of civic engagement across the City and we welcome opportunities to partner with the Council and Council Members to better serve New Yorkers.
+
+**(00:37:03)**
+
+
+
+New York City has a long history of wielding the power of our City government to engage New Yorkers borough by borough, neighborhood by neighborhood, block by block. But today we face new challenges of a different scale: more extreme weather, a cost-of-living crisis and deepening inequality. Trust in government is at an all-time low, eroding our ability to get feedback and craft responsive policy. The Office of Mass Engagement is both scaling up historic traditions of civic engagement and forging new models to get all New Yorkers involved in meeting today's challenges and building an affordable future.
+
+**(00:37:45)**
+
+
+
+Thank you very much. We have been joined by CM Dinowitz and CM Morano and CM Louis.
+
+**(00:37:50)**
+
+
+
+I will call on my colleagues for questions in a minute. I just have a few, just to talk a little bit more about mass engagement and the structure. I know that you have public engagement, faith-based and community partnerships, New York City Service. I mentioned some of the old ones that you are welcome to include. But I am interested in ethnic and community media, which I think is now under Communications.
+
+**(00:38:17)**
+
+
+
+And can you just explain... There was an Executive Order 23 recently which gave the Mayor's Office of Communications authority over that office, but it did not mention rescinding Executive Order Seven. That is the opposite and has been a lot of discussion. Can you explain what your office does and then what happened to this office if it is not part of you anymore? Thank you for that question, Chair. The Office of Community and Ethnic Media does indeed live under the Mayor's Communications team and not the Office of Mass Engagement, per the Executive Order you mentioned. I do not have many details, but I am happy to get back to you. I would refer you to the Communications office for further details about the Mayor's Office of Community and Ethnic Media.
+
+**(00:39:11)**
+
+
+
+I do know that they have a new Executive Director who will be starting soon, right? That is Mazin Muhammad, who will be head of the Office of Ethnic and Community Media, as I understand it. But Amelia Rowling — she is now also in that office. What is her role? Do you know? I am sorry.
+
+**(00:39:31)**
+
+
+
+I will have to refer you to the Communications Department for further details.
+
+**(00:39:34)**
+
+
+
+Okay. And then also just for clarity, so I understand what you are stating in terms of "substantive" — I do not know what that means. So in other words, how is one supposed to know what gets included in what you would say should stay in the archival world? How is one supposed to know that? To me, sending out material regarding policy on, I do not know, composting — anything — would be substantive. Go ahead. Thank you.
+
+**(00:40:04)**
+
+
+
+So much for the question. I would say that people know what "substantive" is based on training, and we have lots of training. Training is continuous. It is both at DORIS and at the agency citywide. The way that we administer training at DORIS is we have multiple methods of sharing information — so I am calling it training, but it is also information sharing. It includes a liaison model where there is a one-to-one relationship between liaisons at DORIS and the agency's Records Management Officer. They can speak to each other anytime and are sort of on speed dial with each other. We also have Records Management Officer meetings, which DORIS oversees, and all of the Records Management Officers come, they receive updates, they receive new policies, they are given guidance, and they are also given the opportunity for feedback and conversation. Ultimately it is a professional development moment during those meetings.
+
+Finally, we have training as part of new employee onboarding, including a presence on the DCAF video learning platform that overviews records management policies and principles for all employees. Most recently we did supply guidance in 2026 to all agencies to support the determination and discernment of transitory versus substantive messages, and it was formatted as a one-pager, so to speak — nicely designed — and it was an easy-to-follow summary guidance with recommended actions and practices to avoid, which linked to the policies and reiterated that instant messages and text messages are considered transitory and should not be used as the only record of substantive discussion, policy or final decisions.
+
+**(00:41:51)**
+
+
+
+Well, I do not quite understand what... In other words, when somebody sends out material regarding some of the topics that I mentioned, or getting out information today about a wonderful 11:00 AM press conference the Mayor is having about DoorDash and gaining lots of money for the City — blah, blah, blah — that would be substantive. So that would mean that it would have to be, as I understand your guidance, taken off of Signal and put onto a different platform. Is that correct?
+
+**(00:42:20)**
+
+
+
+I am trying to understand what we are talking about today. What does it fit into? Thank you for the question. I would say the way to approach it is records management focuses on the function of the record, or the function that we operate in — it is business, it is City business. So it is not focused on... let me say it differently. It is up to the agencies to determine what to help support their staff in understanding what is substantive and transitory, ultimately. So it is really up to the user. One should, before their utterance or their words, have a sense of whether something is transitory or substantive before...
+
+**(00:43:00)**
+
+
+
+...they decide what platform it should be on. In my world of 40 years, that means it needs some help in terms of defining what it is. But I would not just say... but that is helpful, what you are saying. In terms of FOIL — now again, I am a FOIL nut, just like I am a... So then the question is, all of this material going out under Signal or anything else — would that not be FOILable? And if it is FOILable, would it not have to be retained? Thank you for the question.
+
+**(00:43:34)**
+
+
+
+The Freedom of Information Law governs records, and that is what FOIL is in reference to. But under the Freedom of Information Law, it is only records that the City agencies possess or maintain that need to be produced. So as long as it exists as a record within the City, it is an active record. If it is a record that is archived, if...
+
+**(00:43:54)**
+
+
+
+...it is a record that is on its retention schedule, it is in a box in a warehouse — we can grab it and send it off. But if it...
+
+**(00:44:03)**
+
+
+
+...does not exist... Instant messages are not considered records. I think that is the issue that we are coming up against. So they do not require retention, so they can exist, but they do not...
+
+**(00:44:14)**
+
+
+
+...they are not required to exist as records. Okay. Under the DORIS 2025 policy. Yeah, I think this one needs updating.
+
+**(00:44:23)**
+
+
+
+We are definitely open to talking about the...
+
+**(00:44:25)**
+
+
+
+...policy. Something in terms of the Office of Mass Engagement — you listed some of the wonderful things that you are doing, and you did it in a very clear fashion, but I did not know what the office did before that, so I appreciate it. But can you just give us some... just generally, like how many initiatives you are working on? You mentioned some of them. But how do you decide what is going to be a campaign? How do you decide what you are going to work on? How does that process...
+
+**(00:44:59)**
+
+
+
+...work? Thank you, Chair, for the question. Our main focus with our campaigns is that they are touching on the issues that New Yorkers bring up time and time again, and so often that centers around affordability in New York City. We are in month nine, so we are still in the beginning of this work and look forward to working with you and other Council Members on future campaigns that might be worthwhile. We know that you all really understand your constituents and have your ears to the ground, and so we are very interested in collaborating. Most of the time we are building campaigns... so our current campaign, just to give you an example, is called "Talk to Tenants," and it is an outreach campaign to tenants who live in buildings with high rates of violations. This campaign we are not running in a vacuum, so we are working on this outreach campaign along with the Mayor's Office to Protect Tenants and Partners in Preservation. So our work is also defined by work that other agencies are doing.
+
+**(00:46:08)**
+
+
+
+I mean, how do you do that? I mean, I certainly went to the forum in East Harlem, but I saw the follow-up that takes place and then the next step is to do what you are talking about. But how do you measure success for any campaign? I suppose in your situation, you could see X number of buildings get the services they need and people not calling 311. I do not know. How do you measure success for a campaign?
+
+**(00:46:34)**
+
+
+
+Thank you for that question. I love that question. We think a lot about that and I think it really varies depending on what the purpose of the campaign is. So our current campaign, "Talk to Tenants" — we want to make sure that tenants understand their rights and that they know how to connect to other tenants and they know how to form a tenant union and fight for their rights. Earlier this year, a shorter campaign to increase turnout at the Rent Guidelines Board hearings — as an example to your question, our goal there was to increase turnout to the hearings, which we did. Turnout more than doubled. So it really depends on what the campaign is about, what the outreach is about and what we are hoping to help support New Yorkers in doing through the work.
+
+**(00:47:22)**
+
+
+
+The public has it, and I have testified at those hearings for the last hundred years, and so you definitely did turn out more people, I can tell you. That was good. The Special Projects unit — is that part of the Public Engagement unit? What does the Special Projects unit do? Thank you.
+
+**(00:47:42)**
+
+
+
+I am going to pass it over to Deputy Commissioner Day.
+
+**(00:47:46)**
+
+
+
+Thank you for that question. I appreciate the opportunity to be able to speak about the work we do. Our Special Projects team is one of the two main core programs of the Public Engagement Unit. This team primarily focuses on benefits access. This is a field team dedicated to conducting outreach to connect New Yorkers to the benefits and services that they may be eligible for and that are available to them through the City. We conduct outreach door to door, via phones, via peer-to-peer text messages, and focus on hand-holding New Yorkers in navigating the complexities of services like SNAP, Fair Fares, child care and more. More recently, the team spearheaded our outreach around the SNAP work eligibility requirements. They knocked on more than 10,000 doors, made more than 40,000 phone calls and spoke with over 11,000 New Yorkers to inform them about the work eligibility requirements and make sure that people understood the actions they needed to take in order to...
+
+**(00:49:05)**
+
+
+
+...keep their benefits. So that would be a situation where you could use influencers to tell people that they need to sign up in order to not lose their benefits for work or volunteer. Do you have some sense of whether you have done that — number one — and number two, are you going to be publishing for the public... I have been in enough forums and all the numbers I cannot remember, for those who would be the cutoff if in fact they do not participate in volunteer or work, whatever other ideas the federal government has. So are you going to be telling the public what kinds of efforts have been successful — number one — and number two, do you use influencers to talk about what you are doing or to help you do what you do?
+
+**(00:49:51)**
+
+
+
+To your question about whether we are going to be telling the public about how to make sure that they keep their benefits — we are going to continue... to... no, that is not...
+
+**(00:50:01)**
+
+
+
+I am asking you, are you telling people what the outcome is? In other words, was it successful? I cannot remember — it is a huge number of New Yorkers who would be cut off if they do not participate, right? So will you be publishing that information as to what has been successful or not?
+
+**(00:50:17)**
+
+
+
+I think that falls under... all right, the Department of...
+
+**(00:50:26)**
+
+
+
+What about using influencers to get your message out? Is that something that...
+
+**(00:50:30)**
+
+
+
+...you are doing? We do not work with influencers. We do not have a budget for that. Our core priority is to make sure that as many New Yorkers as possible are aware about the benefits and services that they need, making sure that as many New Yorkers as possible know about changes that come to the benefits and services available to them through the City. We welcome the opportunity to work with people who are interested in spreading that message, but we do not work with influencers at this time.
+
+**(00:51:07)**
+
+
+
+Okay. Back to the Commissioner — what safeguards are in place to ensure that the office is not engaging in political work? Thank you for that question.
+
+**(00:51:21)**
+
+
+
+There are established legal rules governing separation between government activity and political activity, and our office — everyone in it operates within those rules. I take those rules very seriously and everyone in our office takes those rules very seriously. Our office's work is focused on government functions: connecting New Yorkers to services and information, soliciting public opinion and expanding participation in civic life.
+
+**(00:51:49)**
+
+
+
+Okay, so what kind of training do you do to make sure that people do not do political work?
+
+**(00:51:55)**
+
+
+
+It is hard sometimes for people not to do that if they do not know. Thank you. It is a good question. We do have different trainings. I would have to follow up with you on the specifics.
+
+**(00:52:05)**
+
+
+
+I would, but it is something that we take very seriously across the office. And now back to Signal — my understanding is that the head of the Chief Counsel to the Mayor said to all mayoral agencies: do not use Signal. Do you know anything about that memo? Have you paid any attention to it? Or would that not be under you — would that be under the other Office of Communications?
+
+**(00:52:32)**
+
+
+
+If you do not use Signal, that is correct. We do not use Signal in the office.
+
+**(00:52:35)**
+
+
+
+So how do you communicate with...
+
+**(00:52:39)**
+
+
+
+...your many offices? In other words, you have got all the people you are engaging with. That is a good question. We use our City email, our City phones, our City Teams.
+
+**(00:52:51)**
+
+
+
+Chair? Yes. So you know, my understanding is that that memo did not go out to everybody. So it is kind of strange that we are all using Signal for communication when we can use other things.
+
+**(00:53:02)**
+
+
+
+I will now call on Minority Leader Carr and then Public Advocate Williams to ask questions. Thank you again.
+
+**(00:53:10)**
+
+
+
+Chair Brewer, Commissioners — good to see you both. Thank you for being here today. My first question is: how many social media influencers have worked with the Mayor's Office or the various City agencies since the beginning of the calendar year? DORIS would not have the answer to that question. We do not have the answer to that question either. I would refer you to the Communications Department. Right. So...
+
+**(00:53:36)**
+
+
+
+We are having a hearing about this very topic and...
+
+**(00:53:41)**
+
+
+
+...agency heads were sent here who do not have the answer to that question. Just...
+
+**(00:53:44)**
+
+
+
+So you know, they were invited and they declined to participate. Just so you know, Council Member. Thank you.
+
+**(00:53:51)**
+
+
+
+Thank you, Chair. I wonder why they declined. How much has the City spent on campaigns so far, to your knowledge — on these campaigns that use social media influencers? Do you know how much has been...
+
+**(00:54:02)**
+
+
+
+...spent? I do not have that.
+
+**(00:54:03)**
+
+
+
+No. Okay. I think we are going to get the same answer here, but I am going to ask anyway. Do you know what the costs are for each campaign and how those amounts and budgets are determined? Thank you for the question. I do not have that answer. Can you provide an example of how the relationships work between the social media influencers and the contracting office or agency?
+
+**(00:54:25)**
+
+
+
+How the relationship is solicited, how they are determined, who was chosen or approached to do those kinds of third-party communications. Thank you.
+
+**(00:54:36)**
+
+
+
+CM, our office is very focused on face-to-face communication. So for that question, I would also refer you to the Communications... Right. So again, a face-to-face...
+
+**(00:54:44)**
+
+
+
+...agency. Your office is here speaking on behalf of the administration on a topic that has nothing to do with face-to-face communications. What are the rules for publicly disclosing these kinds of relationships? I would...
+
+**(00:54:59)**
+
+
+
+...refer you to the Communications Department. Okay.
+
+**(00:55:02)**
+
+
+
+Where can the public find any information relating to this topic — who is collaborating with the various agencies and offices, and the breakdown of who is being paid, who they are, et cetera, what kind of messaging they are doing?
+
+**(00:55:15)**
+
+
+
+Again, I would refer you to...
+
+**(00:55:16)**
+
+
+
+...the Communications office. Okay. Are there any requirements that these disclosures are part of the messages themselves? Are you aware of that? I do not have any details about that. Okay. Has the Mayor's Office or any agency sought guidance from the Conflicts of Interest Board or the Law Department or any other entity on how to properly disclose any of these relationships to the public and what records should be preserved about communications with these influencers? I do not have those details. I would refer you... and I could...
+
+**(00:55:42)**
+
+
+
+...respond. Thank you for the question. Related to records that would be retained — related... can you just ask that portion of the question again? Sure.
+
+**(00:55:49)**
+
+
+
+So has the Mayor's Office or any agency, including DORIS, sought guidance from the Conflicts of Interest Board or the Law Department or any other entity on how to properly disclose any of these relationships with social media influencers to the public, and what records relating to those relationships or those communications should be preserved? Thank you for that...
+
+**(00:56:10)**
+
+
+
+...question. I would say that the Conflicts of Interest Board has not submitted to us any guidance or correspondence or any information related to this. If it has created it, then we would likely receive it at some point down the line when the records are transferred over, but we have not received anything.
+
+**(00:56:25)**
+
+
+
+So nothing on the end of DORIS, but you could not speak to the other parts of City government now.
+
+**(00:56:30)**
+
+
+
+I would not be able to speak to that. Okay. I do not...
+
+**(00:56:34)**
+
+
+
+I do not have any further questions. I mean, obviously the questions that I think really needed to be answered are not being answered here today, and I think that the panel that was sent here was missing crucial components, crucial parts of the administration who could talk in more detail about the very topic of the hearing we are looking to address, which is: who are the social media influencers that have been contracted either by the Mayor's Office or other parts of City government to do third-party messaging? Why? For what purpose? On what topics? I think that these are crucial oversight issues that we are duly impaneled to address, and I thank the Chair again for bringing us together to try to get those answers. But the executive must participate in the process. So I appreciate all of you coming here to talk about your particular slices of this pie. I think they are part of the conversation too. But it is incredibly disappointing and just outright ridiculous that we are having a hearing on a very important topic, a topic that was clearly defined, and no one who is able to talk about the meat and potatoes of this issue from the perspective of the administration or the Mayor's Office is here today to do so. So with that being said, I will turn it back to the Chair.
+
+**(00:57:59)**
+
+
+
+Thank you very much. I really appreciate what you had to say, Public Advocate Williams. And then Council Member.
+
+**(00:58:05)**
+
+
+
+Thank you very much, Madam Chair. Everyone knows I have great respect for this administration, so it bothers me that they have me agreeing with comments from the...
+
+**(00:58:22)**
+
+
+
+I am also disappointed that the communications folks who should be here are not. I am coming from the point of view that I do not know that anything was done wrong, but there were questions that were raised by this article that I believe the public should hear answers to, so they can be assured that nothing wrong occurred. But the fact that the correct folks are not here does not really help that story. And so I do not know what to say except we need the right people here.
+
+**(00:58:51)**
+
+
+
+We can ask questions and people can hear the answers, and so it is frustrating that that has not happened. But I do want to ask some questions about what was testified. My belief is that most elected officials are not familiar with this, so having a better understanding is really important. I just want to be clear: is it the understanding of the law that messages through text, through Signal, through WhatsApp do not have to be retained because of the nature of the communication?
+
+**(00:59:28)**
+
+
+
+Thank you for the question, Public Advocate Williams. The nature of how a record is structured and how we define records, and the nature of using any type of instant messaging, is that it is transitory. And so there is no expectation for retention.
+
+**(00:59:47)**
+
+
+
+What does that mean? No expectation, so if it is not retained, there is no law or policy that has been broken? Is that what you are saying?
+
+**(00:59:58)**
+
+
+
+That is correct.
+
+**(01:00:02)**
+
+
+
+I could say more, but that is the crux of it. Please, say more.
+
+**(01:00:03)**
+
+
+
+This is actually something I could probably use a lot of folks hearing. I think as we struggle with this, retention has been leaning more toward the agenda side and not really fleshing this out so you can feel for something more. I want to pass it over to the Director of Records Management for a deeper explanation here. Thank you.
+
+**(01:00:32)**
+
+
+
+Thank you for the question, and thank you, Commissioner. Records are scheduled according to their function, not according to
+
+**(01:00:40)**
+
+
+
+the format in which they exist, and that is true for all records.
+
+**(01:00:47)**
+
+
+
+The format of instant messaging is intended for instant messages — right, short communications that convey a brief message.
+
+**(01:01:00)**
+
+
+
+The format does not provide the opportunity for preservation natively in these applications for the most part. So the policy of the City of New York, the 2025 policy, as our Commissioner indicated, states that by default these messages that a person would choose to send in this format are considered to be transitory and have a zero retention period. If somebody finds that they have created a substantive message in this format, they are charged with the responsibility of moving it to
+
+**(01:01:35)**
+
+
+
+a format that allows for preservation and access.
+
+**(01:01:41)**
+
+
+
+So it is up to each one to determine whether or not they have sent a substantive message.
+
+**(01:01:46)**
+
+
+
+Is that correct? That is what the policy states.
+
+**(01:01:50)**
+
+
+
+Okay. So Governor Cuomo switched to BlackBerry to try to get away from communications he did not want retained. He did not have to. He could have just stuck with Signal or whatever.
+
+**(01:02:01)**
+
+
+
+I am going to push back on that question. I do not know anything about Governor Cuomo's BlackBerry use, but I will say that
+
+**(01:02:09)**
+
+
+
+we provide, as a City, many modes of communication. The City oversees specific platforms and we know what those are. If it is email, our Outlook, which is also email, OneDrive — there are various electronic records that we have access to and are able to adequately archive or retain. Those that do not exist on those platforms are, unfortunately, not able to be retained technologically speaking.
+
+**(01:02:47)**
+
+
+
+So if we get FOIL requests for texts — let us say regular text messages — we do not have to respond, in your view, to those FOIL requests for text messages?
+
+**(01:02:59)**
+
+
+
+Thank you for that question. When you receive a FOIL request, if the record exists, then one should go ahead and find the record. So I think whether or not we have access to those text messages may be dependent upon the individual, if they are no longer here in government, if they are currently here, if the text exists at all. So if it is a record that exists, then yes. But if it did not exist, if it was deleted, nothing happened — we are not able to provide FOIL responses to records that do not exist.
+
+**(01:03:36)**
+
+
+
+All right, this is quite interesting. I am going to probably have some follow-up. I just want to say this is very interesting to me, so I would love to talk to you more. I would also love to talk to the communications team. And so again, just to reiterate: I think for New Yorkers and smaller and ethnic media that have been really trying to get access, they deserve to hear some of the answers to their questions. So thank you, and thank you for being here.
+
+**(01:04:03)**
+
+
+
+Thank you very much. Just back to this substantive point, picking up on the Public Advocate: is there a review for whether something is substantive versus transitory? I am not sure I would know.
+
+**(01:04:13)**
+
+
+
+In other words, how do we know? For example, if you are sending something out on Signal to a group of influencers and you get a response back from one that is a substantive response, it gets deleted — perhaps, perhaps not. But how would I know if that was substantive? What is the
+
+**(01:04:38)**
+
+
+
+definition? Thank you for the question. In fact, there is a
+
+**(01:04:42)**
+
+
+
+list of definitions that exists for all agencies to see. It is available for anybody to see. We have over 100 definitions of records management terms and what they mean. The substantive messages definition was pulled out and put into the policy — the 2025 policy for instant messaging — and it states, on page two right beneath "transitory," that substantive messages are messages which document or relate to the decisions, actions or policies of a City office or agency, and it identifies those messages as ones that must be retained and transferred to a format and platform that allows for their proper preservation.
+
+**(01:05:22)**
+
+
+
+DORIS does not monitor City agency communications, so I cannot speak to any particular incident. But that said, the deletion of instant messages or text messages is not in and of itself a violation of the citywide 2025 policy with DORIS.
+
+**(01:05:42)**
+
+
+
+Next, CM Wilson and then CM...
+
+**(01:05:46)**
+
+
+
+Thank you. So in relation to the Signal activity that is the topic of this hearing today, has DORIS assessed whether substantive government messages were deleted before they could be preserved? And how do you assess that for any agency that engaged in Signal activity?
+
+**(01:06:11)**
+
+
+
+Thank you for that question. DORIS does not monitor active communication channels within government employees, so we are not able to do that work.
+
+**(01:06:23)**
+
+
+
+But we do anticipate that each agency has received the training that they need to make those delineations on their own.
+
+**(01:06:34)**
+
+
+
+So if the impetus is on the user to decide whether a message is transitory or substantive,
+
+**(01:06:42)**
+
+
+
+there is training provided to those agencies so that their staff can make that decision. Thank you for the question. I will say a little bit more about it since we are asking continually. Though we do not typically create specific guidance related to formats, the policy on instant messaging was created and generated in consultation with the Law Department and the Office of the Chief Counsel. So we do not limit any authority to any use of specific platforms. We just provide guidance, and of course City agencies may be the ones to provide stricter policies related to specific platforms because of the training that we provide to them and the guidance we provide to them.
+
+**(01:07:40)**
+
+
+
+So nothing in the current policy prohibits the use of Signal messaging in an agency. We sort of set it as a floor and not a ceiling. So we say this is the bare minimum of what you need to know, and then agencies take it upon themselves to provide additional guidance. And that is how we would anticipate their communication around what they should or should not be using for specific conversations regarding internal communications in
+
+**(01:08:08)**
+
+
+
+agencies. Is there a specific preference in terms of what communication platforms are used, specific apps or messaging platforms? Thank you for the question. Under the current 2025 instant messaging policy, there is no difference between internal and external for instant messaging. But as it relates to platforms as a whole, we do provide guidance on which platforms are best used for specific types of... Is Signal one of those?
+
+**(01:08:47)**
+
+
+
+We do not have Signal. Thank you for the question. We do not have Signal in any policy, perhaps because the policies were updated in 2025. Our social media policy was updated in 2021. I do not know if Signal was around then. I would mostly say that we do a lot of work to keep up to date with current practice and we acknowledge that the work of digital archiving has to move with how technology is shifting over time, and we are doing lots of work to get to that.
+
+**(01:09:19)**
+
+
+
+How often do you conduct a review of the social media policy?
+
+**(01:09:25)**
+
+
+
+Thank you for that question. The social media policy was last updated in 2021 and I do not have any understanding of when it was initiated. I know there was a Department of Investigation request during that time for when it was evaluated. I am not sure what prompted that or what came of it, but we arrived at this policy that
+
+**(01:09:49)**
+
+
+
+essentially put social media at a place of permanence, so everything that is put to social media is permanently retained, which means that we keep it forever.
+
+**(01:09:59)**
+
+
+
+Given how quickly technology has been moving these days, it might make sense to have a regularly occurring review of these social media policies and how they affect our government communications. Does the Chair want to take it back?
+
+**(01:10:16)**
+
+
+
+CM Dinowitz and then CM... Thank you,
+
+**(01:10:22)**
+
+
+
+Chair. I also do want to associate myself with the remarks of both the Public Advocate and the Minority Leader that it is, I mean, disappointing at best that the comms team who was invited is not in attendance, especially from an administration that is supposed to be defined by transparency. But I do want to ask about the instant messages. You were discussing them as by nature transitory, brief messages. I am reading something from DORIS and I just want to make sure I am reading this correctly. From 2024, it says, in an electronic messages, and it defines substantive messages which document or relate to the decisions, actions or policies of a City office or agency, and it defines transitory messages which do not document or relate to the functions of an agency, such as personal messages between coworkers and time-dependent communications that are purely logistical, such as arranging a time or place for a meeting or call. Is that still correct and accurate? That is the instant messaging policy of 2024, and there was a 2025 update, but the language is similar to the current 2025 update. Okay. So you had said in your testimony about brief messages being the nature of instant messages. And then, according to the Columbia report which first documented it, via the encrypted messaging app Signal, members received daily updates, talking points and clips to use in their posts. Would you consider those to be brief, transitory messages or would you consider those to be
+
+**(01:12:11)**
+
+
+
+substantive messages? Thank you for that question. I would say that DORIS is not
+
+**(01:12:17)**
+
+
+
+charged with monitoring. I am asking what you think. You have
+
+**(01:12:19)**
+
+
+
+created a policy. I am not asking you to monitor it. I am asking your opinion based on documents that you produce. Thank you for that question.
+
+**(01:12:28)**
+
+
+
+So the way that records management works is that it is based on the function and it is not based on the format. And so we were... I am not asking about
+
+**(01:12:35)**
+
+
+
+the format. I am asking about what is in the message. Would DORIS consider daily updates, talking points and clips to use in posts substantive, which document or relate to decisions, actions or policies of a City office or agency? Or would you consider that to be personal messages between coworkers, time-dependent communications regarding purely logistical
+
+**(01:13:02)**
+
+
+
+matters? Thank you for the clarification of your question. I would say that we see those points that you are listing — and you could list a whole list of things, right? I could give you a calendar invite, a press release, all those things — and ultimately these would be duplicative to the actual object. So what we retain are the records themselves, and the communications about records are what would be transitory.
+
+**(01:13:30)**
+
+
+
+Can you say that in English, please? I did not quite understand that. So an example is if you create... Thank you for that. If you create a
+
+**(01:13:39)**
+
+
+
+document and you save it on your OneDrive, that is where it lives, and that would be the record.
+
+**(01:13:47)**
+
+
+
+The document itself. But if you have drafts of the document, if there are moments where you are communicating between folks but there is a physical object and you want to share it — a link, "here is a link to the document that I just wrote" — the link can be something that leads to the actual record, which is the document. The record is the document, not the link. So the actual... it does not matter.
+
+**(01:14:16)**
+
+
+
+So in essence, all text messages are transitory. So your recommendation for me, if I do not ever want to be FOILed, is to put everything on my OneDrive and just send my communications with links over instant messaging, because by definition they would then be transitory. Is that correct?
+
+**(01:14:34)**
+
+
+
+Thank you for the question. I would
+
+**(01:14:35)**
+
+
+
+never advise you to not want to be FOILed. We are here for transparency and that is really important. We believe that in our work. But I would say that we recommend that agencies take the responsibility of
+
+**(01:14:47)**
+
+
+
+considering how they would like their employees to use instant messaging if they are going to use it. I want to understand if there is guidance on that.
+
+**(01:14:55)**
+
+
+
+I understand what you are saying your guidance is, but if a message has daily updates, talking points and clips to use in posts — I am just quoting an article here — I would read that as a substantive message. It has documents that relate to decisions, actions or policies of the office or agency. But what I am hearing you say is not really, because if you just include a link, it does not really count. That is kind of what I am
+
+**(01:15:26)**
+
+
+
+hearing the official guidance to be. Thank you, and I will say the official guidance from DORIS is in the policy, and the guidance does state in bold and underline that employees are strongly discouraged from creating instant messages that are substantive in nature, and that it is the responsibility of the agency to understand what constitutes substantive messages.
+
+**(01:15:45)**
+
+
+
+Okay. I understand. I am out of time, but it seems like the team that was doing these instant messages did not do their job properly. That is how it seems based on your testimony. So I will turn it back to the Chair, but I want to thank you all for coming in and testifying today and for your answers to the questions. Thank you.
+
+**(01:16:07)**
+
+
+
+Thank you, CM Dinowitz, and then Council Member...
+
+**(01:16:09)**
+
+
+
+CM Morano. Thank you, Chair Brewer, and thank you to Speaker Menin for the opportunity to hold this hearing on this important issue and the Bills before the Committee today. Now, I counted only about three empty seats in the room. There are 64 seats in the room. So this is a packed room. The people here are here today because this issue is important, right? And I am glad the panelists are here because this is an important topic. The Charter expressly gives Council committees the authority to require the attendance and testimony of the people necessary to an inquiry. We are asking about today, very importantly, a Signal group, and the person Amelia Roland, the Director of New Media and Cultural Communications, appears to have all the answers, but she is not here. So I have to ask the obvious: where is Amelia Roland today? Does the panel know? Does anybody know where she is? Thank you for the question, CM. I do not have the answer to that question.
+
+**(01:17:22)**
+
+
+
+Right now, okay? And she has been publicly identified as the official overseeing the influencer operation and the Signal group at the center of today's hearing. So my first question to the Commissioner of DORIS: do you plan to archive Signal? Thank you for the question, Commissioner Wong... I mean, I am sorry, Commissioner. CM, I would say that if it were true that we were planning to archive Signal, it would be through the third-party platform that we use to archive social media. If there is the possibility, and if they were to adopt that platform, then it would fall into alignment with the other platforms that we do archive. But currently there is no technological possibility to archive Signal as a platform or software.
+
+**(01:18:19)**
+
+
+
+And the current policy for instant messaging does acknowledge that if it is instant messaging behavior, regardless of platform, then
+
+**(01:18:28)**
+
+
+
+archive specifically. I have seen the memo. There was a notice issued to all City employees that Signal was banned and no one could use it. Is that right? Are you aware of this memo?
+
+**(01:18:44)**
+
+
+
+Thank you for that question. I am not aware of a memo banning
+
+**(01:18:47)**
+
+
+
+Signal, but I do know that there are very many agency communications related to guidance for what folks should use. It is dated January 15, from Chief Counsel Ramsey Qassem, and it specifically says do not use Signal. So why are we seeing the Mayor's Office using it? Thank you for that,
+
+**(01:19:13)**
+
+
+
+clarification. The best that I can say is this: City agencies ought to comply with the DORIS policy, and additional guidance from their own leadership ought to be something that they regard in their communications. We do let everyone know — we provide access to the same policy to all City agencies, the same 2025 messaging policy.
+
+**(01:19:40)**
+
+
+
+Roland is not here, and who exactly are we supposed to ask? I put this question to the panel: who exactly are we supposed to ask about the creation, operation and management of the Signal group? If the person identified as running it, and the Chief Counsel who has direct oversight over these matters, will not appear before the Committee, where can we get answers? Thank you for the question. I am not entirely sure, but I would say potentially your contacts in Intergovernmental Affairs could support getting you to someone who can answer your questions.
+
+**(01:20:13)**
+
+
+
+Well, it is unfortunate that we have a packed room and the person who has answers for the room is not here. I will save my next set of questions for round two. Thank you.
+
+**(01:20:22)**
+
+
+
+Thank you very much, CM Morano.
+
+**(01:20:25)**
+
+
+
+Thank you. And thank you for being here. Chair Brewer and my colleague CM Wong alluded to this, but I received this three-page memorandum, which I have asked the Sergeant at Arms to share with you, from the Mayor's Office of the Chief Counsel. It is dated January 15, 2022, but that appears to be a typo from what I understand, and the metadata suggests it is from 2026. The memorandum is titled "Communication Requirements and Best Practices." On page three it states, and I quote: you should not use WhatsApp, Signal or any other communications platform for work. This was not a casual suggestion. The memo specifically addresses document preservation, FOIL compliance and cybersecurity. So I ask that this document be entered into the record. I want to ask a couple of questions about it.
+
+**(01:21:24)**
+
+
+
+Let me — can you confirm, as best you understand, that this memorandum was issued by the Office of the Chief Counsel in January 2026? Thank you for that question, CM Morano. I can confirm that what you put in front of me is true if it is. I would not know — I was not around during that time, and DORIS would not receive memos to their staff because we do not fall within their jurisdiction. So it seems like this would be a memo to specific Mayor's Office employees and we are not a part of
+
+**(01:22:00)**
+
+
+
+that. So let me try to be more DORIS-focused. Your testimony, Commissioner, says that substantive messages must be transferred to another format for preservation. So under DORIS policy, messages documenting or relating to government decisions, actions or policies have to be retained. Have you reviewed the influencer Signal group to determine whether any substantive government records were deleted? Thank you for
+
+**(01:22:31)**
+
+
+
+that question, and the answer is we do not monitor communications for current government employees. So we have to
+
+**(01:22:36)**
+
+
+
+— has anyone in City government conducted that review? Thank you for the
+
+**(01:22:42)**
+
+
+
+question. I would not know. If it were to happen, it would not happen from DORIS. As to who is responsible again,
+
+**(01:22:48)**
+
+
+
+not to repeat what my two colleagues were saying, but who specifically is responsible for determining whether records were lost, and when will that determination be completed?
+
+**(01:23:03)**
+
+
+
+Thank you for the question. I would say in relation to the 2025 policy on instant messaging, it is the responsibility of agencies to develop and disseminate policies related to use of these materials. However, the retention of these materials — specifically Signal and some messaging — is
+
+**(01:23:24)**
+
+
+
+not within policy for records management practice in the City.
+
+**(01:23:31)**
+
+
+
+Commissioner, page two of your testimony says that the City's RecordPoint system manages more than 215 million records across 31 agencies, including the Mayor's Office, but you also say it only maps to government-supplied tools. Does that system automatically capture messages sent through Signal? Thank you for that question. The RecordPoint electronic records management tool is robust and it is able to coordinate alongside the categorization of records, and those categorizations are records that are managed through City government. So no, we are not — the vendors are vendors for us. So the answer is that it would not be able to retain Signal, and we were not looking for it to, because again, the instant messaging does not sit within a retention schedule of more than zero.
+
+**(01:24:24)**
+
+
+
+Right. Does DORIS have any independent way to determine whether an employee has failed to transfer a substantive Signal message into an approved record system?
+
+**(01:24:41)**
+
+
+
+You did not say "thank you for the question." I was going to say, okay, they give her that — I do actually appreciate that. That was a good one.
+
+**(01:24:48)**
+
+
+
+You said "substantive Signal messages," and I believe that if a message is substantive then it is up to the agency, the user, the person who is writing the message or receiving it for that matter, to transfer it to a different location. It is not a DORIS process. It would not be possible for us to do that.
+
+**(01:25:09)**
+
+
+
+So is compliance effectively dependent on individual employees recognizing which messages must be preserved and transferring them themselves?
+
+**(01:25:20)**
+
+
+
+Thank you for that question. To be compliant with the 2025 instant messaging policy, a user ought to transfer substantive
+
+**(01:25:34)**
+
+
+
+messages. Thank you. And thank you, Chair. I do hope, because there are so many folks that could be answering these questions that are not here, that this Committee and this Council will consider using our subpoena power to force them to answer these questions, irrespective of whether we get a "thank you for the question" when those questions are proffered. Thank you.
+
+**(01:25:54)**
+
+
+
+Thank you very much. I totally agree that we are not getting the answers that this hearing was outlined for. We did ask those at the communications office of the Mayor's Office to be here. I have a question, then I will call on CM Morano for a further second round. So under the DORIS rules — if we are trying to stay in the DORIS rules — City employees, as I understand it, need to get approval to use the auto-delete feature on messaging. Now, you could say we do not know if the Signal communication was deleted, we do not have that information, we do not know. But it is an auto-delete feature that Signal has. So my question is, if that is rule number one, second: did Amelia Roland or anybody else who was doing communication with Signal get permission from DORIS to use the auto-delete feature on Signal, or did they just get permission to use Signal in general? Because it seems to me that a City employee cannot delete records without prior approval under DORIS rules, which is slightly different than what you are stating. Can you
+
+**(01:27:06)**
+
+
+
+clarify this? Thank you for that question, Chair. The request for approval that you are referencing, I believe, came through a communication within an agency specifically. It is not actually within the DORIS policy creation, so
+
+**(01:27:24)**
+
+
+
+at the very minimum, City agencies are required to comply with the DORIS policy, but then of course the agencies impose stricter policies within themselves. So with respect to instant messaging platforms, if that
+
+**(01:27:40)**
+
+
+
+was an imposition within the agency, I cannot really speak to what they have chosen to determine there, because we do not have that within the policy as it stands — a need for
+
+**(01:27:52)**
+
+
+
+approval. So there is no need for approval, is what you are saying? Thank you
+
+**(01:27:56)**
+
+
+
+for that. What exists within an agency
+
+**(01:28:01)**
+
+
+
+but not from DORIS. Correct. Okay, but we do not know if agencies have an approval process. We do not know that.
+
+**(01:28:08)**
+
+
+
+It would be up to the agency to have one or not have one.
+
+**(01:28:13)**
+
+
+
+Absolutely. And if there is an approval process, I would not know what
+
+**(01:28:15)**
+
+
+
+their strategies are. Okay? There is a lot
+
+**(01:28:18)**
+
+
+
+of new legislation needed in all of this, I think is what you are saying. Well, that is — because you cannot say it, but I can say it.
+
+**(01:28:26)**
+
+
+
+All right. So because I was done, has any person that DORIS was given approval to anyway — let us remember, CM Ariola is on the Zoom and has a question. We do have a quorum, so she can ask it.
+
+**(01:28:41)**
+
+
+
+CM Ariola. Thank you so very much. Thank you, Chair. All the questions that have been asked have been exactly in line with the questions I was going to ask, so I just want to say this: there is a fine line between government agencies providing public and legitimate information and using taxpayer dollars to promote political propaganda. Taxpayer-funded agencies have a responsibility to educate, inform and provide essential services, and not to use public resources to advance a political agenda, influence public opinion or promote a particular ideology. Government communications should be factual, transparent and directly connected to the agency's legitimate public purpose, and there should be someone overseeing this. If there is a line that is crossed, then the issue is bigger than politics — it becomes a question of accountability. And from what I am hearing today, there is not very much accountability as to what is being disseminated through your outreach organizing. You are using public dollars. They belong to the public. They should be used to serve the public and not promote political narratives. I really do appreciate the time. Thank you so much. Thank you very much.
+
+**(01:30:00)**
+
+
+
+CM, and then CM Morano. Oh, thank you, Chair. My first question is back to Sean Smith, Commissioner of the Department of Records. As I understand it, we have encrypted messages here, and it seems to me that there is no purpose in archiving them if you cannot read them. So how do you handle encrypted messages, and what is your policy? Because why are we archiving messages that we cannot read? Thank you
+
+**(01:30:35)**
+
+
+
+for that question. Can I just say — well, let us start with Signal or other than that, there are other social media platforms that support encryption. So my question is, how would you access these messages if they are encrypted? Thank you for that question. We do not access the
+
+**(01:30:54)**
+
+
+
+messages, which is why there is a retention schedule. So there is no expectation to archive Signal currently.
+
+**(01:31:03)**
+
+
+
+But what about deletion? Other social media platforms support that too. So what do you say about those records?
+
+**(01:31:12)**
+
+
+
+You cannot type them.
+
+**(01:31:14)**
+
+
+
+So if it is a social media platform, then the assumption there — and the way that we are distinguishing between instant messaging and social media, which is why we have the two separate policies — is that social media is considered a publication. It is a thing that is posted, put out into the world already. So a government official or an agency is publishing their work. It is like a YouTube video or an Instagram post. If the software posts it, then it is published, and so the software is able to be retained as a result of that process.
+
+**(01:31:51)**
+
+
+
+So it is technologically possible to do that for those types of platforms. But are you introducing corrective and recovery steps when these records have been destroyed or deleted without authorization?
+
+**(01:32:11)**
+
+
+
+Thank you for that question. For a social media platform, if it has been captured at its point of creation, then it actually does not matter if it is deleted in its current state, because it will have already been captured within the archiving social platform or
+
+**(01:32:26)**
+
+
+
+software. Yeah, because as I see it, if tax dollars are being paid for the social media platforms and they are City business, then it is your job to retain them and make the messages accessible to the public.
+
+**(01:32:43)**
+
+
+
+Is that right? Thank you for that question. I want to continue to distinguish between the instant messaging of some of these softwares and platforms and the publication feature of these softwares and platforms. The instant messaging is transitory and it is not being archived or retained, and the publication feature is being archived in permanence and so we are keeping it
+
+**(01:33:09)**
+
+
+
+forever. And how can the public access them, like today, right now? If the public would like to, they could go to Archive Social and they could see what has been published across the various agencies around New York City, including the City Council. We really do encourage you to make sure that your social media is connected to Archive Social. And yes, if you are not sure how to do that, you can contact the Municipal Library. Okay. Thank you. A question to Commissioner Anakin of the Office of Mass Engagement: on the use of creators, does the Office of Mass Engagement or any office or program under its umbrella maintain creator lists, communicate with influencers or recommend creators to agencies? His answer. Thank you.
+
+**(01:33:57)**
+
+
+
+Thank you for that question, CM. As I mentioned earlier, our primary work is to talk to New Yorkers face to face through all the different avenues of work that we have. On occasion we have worked with the communications team to make sure that information about hearings, rights or services is being communicated to New Yorkers in as many ways as possible. It is very important to this administration that we are reaching New Yorkers in many, many different ways, but I would have to refer you to the communications team for specifics.
+
+**(01:34:39)**
+
+
+
+Does the Office of Mass Engagement maintain creator lists or communicate with influencers? The Office of Mass Engagement does not
+
+**(01:34:46)**
+
+
+
+maintain creator lists. We have coordinated with the communications team to work with creators on occasions, but you would have to refer to the communications team for details beyond that. I asked the issue
+
+**(01:35:02)**
+
+
+
+of any citywide standards for creator-based engagements.
+
+**(01:35:08)**
+
+
+
+Thank you for that question. No, I do not believe so, but we can get back to you with details.
+
+**(01:35:16)**
+
+
+
+Thank you. Thank you very much. CM Morano. Thank you, very briefly. Commissioner, your testimony describes records management policies, employee training and technological systems. We also have a written policy telling employees not to use Signal, which we alluded to earlier, followed by an acknowledged incident involving disappearing messages. What additional safeguards, if any, would DORIS need to ensure substantive government communications are preserved — whether it is legislation, whether it is policy guidance — what else would you need?
+
+**(01:35:58)**
+
+
+
+Thank you for that question. We definitely enjoy these points of advocacy that come up from the City Council. It is very helpful to maintaining our request for agencies to communicate with their employees related to what they should be doing for their records. So truly it is about broadening understanding and
+
+**(01:36:17)**
+
+
+
+Ensuring that you two are preserving your own records and submitting them to their proper channels. I know that the City Council, for example, has its archives at the LaGuardia Archives, which we were able to visit and get a tour of, and they have a new director. We have talked to them about the memorandum of understanding related to City Council and DORIS's archival records. So if the best way we can support the work of archiving the City is to have a sense of where our own records are being archived, then maintaining and hopping on board to the records management platform allows us to do this work.
+
+**(01:36:51)**
+
+
+
+Would a requirement that agencies document exceptions and verify preservation settings address a gap in the current system, or can you already require that under existing authority? Thank you for the question. Just to clarify a requirement to verify — can you repeat?
+
+**(01:37:13)**
+
+
+
+That agencies document exceptions and verify preservation settings. In, say, a WhatsApp group, or I do not know how Signal works, but presumably there is something similar.
+
+**(01:37:27)**
+
+
+
+Signal. I see. Thank you for that distinction. Thank you for the question as well. As it relates to the social media platforms, that is not what RecordPoint is capturing. We set the parameters for the records management platform that we are supporting agencies to onboard into, and that is for government-supported software. As it relates to social media, the vendor is the one setting up the ability to scrape those platforms. It really is a very easy and foolproof method — they just connect their account and they are already being archived if they have a social media archives account.
+
+Unfortunately, as of now there really is no way for us to capture what takes place in specific platforms because the technology just does not exist. At some future moment maybe it will exist and will continue to advance. But as of now the policy is set because of the limitation of technology as well as the likelihood that these messages are transitory — not really worth the government resources to retain in perpetuity the way that other materials are.
+
+**(01:38:34)**
+
+
+
+For Commissioner Van Elkin, your office and the Office of Civic Engagement is supposed to bring government closer to New Yorkers. Can you provide a borough-by-borough breakdown of your outreach, spending, staffing, community events and completed service referrals? In particular, I am interested in what percentage has been directed to Staten Island and how you are measuring whether residents are actually receiving help. Staten Island usually gets the short end of the stick.
+
+**(01:39:07)**
+
+
+
+We have a Staten Island community liaison. Thank you for that question. Some of the specifics I cannot speak to right now and I can get back to you, but I want to pass it over to our First Deputy Commissioner to talk about some of the work we have done across the City. Thank you so much, Council Member. As the Commissioner had stated, we take our responsibility to outreach and engage with all very seriously. We have a Staten Island district manager who is often on the island and they are reaching out to various community-based organizations and faith-based organizations.
+
+Just recently they worked with our Emergency Response and Recovery Team around flooding and hurricane outreach to ensure that many of the faith and community organizations were aware of the flood zones that they live in and what options are available to them. They represented our office at the recent Postcards Memorial as well, which we make sure as an office we are present for, and we continue to do great work.
+
+**(01:40:14)**
+
+
+
+If you could get me the borough-by-borough breakdown of spending, staffing, et cetera, I would appreciate it. Hopefully I will see the liaison at tonight's community board meeting. Thank you so much.
+
+**(01:40:24)**
+
+
+
+Thank you. A couple of questions. The Office of Civic Engagement's budget has about $2.84 million and 20 new staff lines. Can you tell us what those newly created positions are, what units they are in, what is filled and what is not? Thank you for the excellent question, Chair. I am going to have to get back to you with some of the details — I did not come with all of those details, so I am very happy to follow up with the details around specific staffing. As I mentioned earlier, our work overall includes a lot of the historical work that happened before us. We continue all that work and we have added new work to create new pathways. There are 20 new staff lines — can you answer that? Yes, I believe so, but I will get back to you with the specifics. You do not know. Okay.
+
+**(01:41:24)**
+
+
+
+Another question then. This is probably the end at this point. At what point is something considered to be related to the quote "decisions, actions or policies" of a City agency? Is a text stating that an agency is agreeing to a contract — that seems to me kind of important — counted as a decision or anything?
+
+**(01:41:48)**
+
+
+
+We are lost in this morass, to be honest with you, of what is substantive and what is not. It is very fuzzy. Thank you for that question. In that example, I would say that the way to approach that question is to imagine what takes place in relation to a transitory message, which one would imagine is substantive business. There are transitory messages and platforms that are transitory, and then there are substantive business platforms, and we have to sort of... I was going to say, Public Advocate Williams talked about trust in his testimony, and I think trust is part of what this is about. I would love us to consider the work of the City employees and ensure that they are being equipped with the tools that they need to make those distinctions and to move City business to City business platforms.
+
+**(01:42:48)**
+
+
+
+I hear you. I have to say, probably the Mayor's Office anywhere does not follow all the rules — I am just saying — and it is harder because they are not an agency in the same traditional way. So lots of work to be done. This panel is excused. Thank you very much for your time. The next panel will be...
+
+**(01:44:20)**
+
+
+
+Go ahead when you are ready. Thank you. All right. Do I have to be sworn in? Yes. Okay.
+
+**(01:44:48)**
+
+
+
+Right. Good afternoon — I believe good afternoon. Chair Brewer and members of the Committee on Governmental Operations, State and Federal Legislation, I am Amelo, First Deputy Executive Director of the New York City Campaign Finance Board. Thank you for the opportunity to testify today. The CFB is a nonpartisan, independent City agency committed to strengthening our local democracy. We combat the influence of big money in politics by amplifying the power of small-dollar contributions from everyday New Yorkers through a matching funds program, which serves as a model nationwide.
+
+Through our Votes initiative, we engage directly with voters and provide access to the information and resources they need to vote. One way we do this is by partnering with social media influencers to share public service announcements about voting. This approach is especially effective at reaching people who are not normally tuned into government and politics. In 2021, the CFB worked with influencers through our advertising vendor at the time, and then in 2023 we brought the work of identifying, researching and selecting influencers in-house to our social media team. Over this time we have built a trusted messenger program.
+
+**(01:46:03)**
+
+
+
+That program partners with voices who can reach younger voters in ways traditional government outreach often does not. This strategic engagement is driven by our City Charter mandate to prioritize communities, both demographic and geographic, that are underrepresented in the electoral process. These priority audiences include younger voters under age 30, voters who primarily speak a language other than English, voters with disabilities and voters who have been impacted by the criminal legal system. We also focus outreach on areas of Queens and Central Queens that have lower voter turnout and a higher concentration of these priority audiences. Our work with influencers reflects the broader commitment to reaching and engaging these audiences and communities.
+
+We take our position as a nonpartisan agency seriously. The CFB uses clear criteria to select influencers based on their audience. Each must be a New York City resident with a majority audience in the five boroughs, and we prioritize influencers who can reach our priority audiences. Our internal nonpartisanship policy requires that all contracts include a non-endorsement clause and an agreement not to endorse or oppose candidates starting from the date they begin working with the CFB until 90 days after the general election. These guardrails enable the agency to avoid working with influencers who have expressed opinions on candidates or taken positions on political parties, ballot proposals or contentious partisan issues.
+
+In 2025, we worked with 29 influencers over the election cycle who generated over 70 posts across Instagram and TikTok at a total cost of $626,365. Compensation varies based on the campaign's strategic priority, the influencer's audience size and reach, production complexity and creativity. These posts produced more than 6 million views and over 500,000 engagements with an average engagement rate of about 5%, well above the 1 to 3% industry average. Every like, comment and share signals a viewer engaging with a civic message and amplifies that content to be more visible to others.
+
+The effect was even stronger for non-English content. Influencer videos in Spanish, Korean and Bengali, created in-language by voices based in the communities we need to reach, outperformed English-language posts, generating over 400,000 visits to our Votes website. These are audiences that have historically lacked civic engagement and election messaging in their own language. Our ability to engage through trusted messenger influencers in-language allows us to get them the information they need to be informed voters.
+
+Turning to the Bills before the Committee today, I want to note that the CFB has had one week to review the proposed four pieces of legislation, so our feedback at this stage is preliminary and we look forward to providing more detailed comments and suggested edits to the Council after conducting more detailed analysis of the impact on CFB operations.
+
+However, from initial review, several of these Bills raise serious concerns and as currently drafted would have unintended negative consequences for the agency's work. The first Bill I will discuss is T2026-2553, introduced by CM Zhuang, which would codify "paid for by" disclaimer requirements on online and digital campaign expenditures. The CFB has required Rule 6 disclaimers on all campaign advertising since the 2017 election cycle, and this was expanded in 2024 to cover additional communication types including paid influencer content. Such expenditures are already disclosed and documented like any other campaign advertising spending. Rule 14-04 similarly requires disclaimers on covered communications by independent spenders in visual, video or audio formats. This legislation appears to duplicate the existing disclaimer requirements without changing the current obligations of campaigns, and we do not believe these changes are necessary to the Charter.
+
+T2026-2555, introduced by CM Carr, would prohibit candidates for office from appearing in certain digital or online government-funded public communications during the 90 days preceding an election. The CFB already enforces the existing part of this law, which prohibits using governmental resources for mass mailings during this period. This Bill would simply broaden the scope of communication types covered under this law. We have no substantive feedback at this time and have no formal position on this Bill.
+
+T2026-1440, sponsored by CM Carr, would require public servants to report spending on public communications paid for with government resources. As drafted, the reporting obligation falls on the individual public servant who authorizes the use of government funds, which could unnecessarily disperse responsibilities across an agency and lead to duplicative or missed reports. We believe agency-level reporting through existing advertising spending reporting would better achieve this goal while consolidating reporting obligations. Given these concerns, the CFB does not support the Bill as currently drafted, but we welcome further discussion with the Council to share our perspectives as an agency that funds public communications.
+
+Lastly, T2026-2554, introduced by CM Feliz, would require government agencies to disclose their partnerships with certain third-party public communications. As currently drafted, the Bill raises fundamental concerns that prevent the CFB from supporting it. Designating the CFB as an enforcing agency is misaligned with our current Charter role. Our existing role and Charter mandate means the CFB does not investigate or regulate other City agencies. The proposed shared enforcement structure with the Conflicts of Interest Board compounds this problem. Dividing responsibility between two agencies would create unnecessary complexity in rulemaking, enforcement procedures and administration, potentially producing inconsistent standards and undermining effective enforcement. Without significant changes to the proposed enforcement structure, the CFB cannot support this legislation.
+
+In conclusion, we strongly believe the CFB is an effective tool for reaching voters whom traditional outreach methods do not effectively engage, backed by strong safeguards to protect the agency's nonpartisanship. The CFB also approaches this issue as the regulator responsible for advising campaigns on their disclosure obligations and enforcing against their misuse, and we are committed to providing clear guidance that reflects existing disclosure requirements. The agency is prepared to share its operational and regulatory expertise as the Council considers these issues. We remain committed to strengthening our local democracy and we look forward to working together to ensure New Yorkers receive transparent information about political content, no matter how that content reaches them. I welcome your questions.
+
+**(01:53:29)**
+
+
+
+Thank you very much. Just a few questions. How do you decide which influencers you want to work with? What is the difference between content created for traditional media versus influencer content? And I think you said that you have brought your influencer campaign in-house — I did not know what that meant. Those are my three questions.
+
+**(01:53:51)**
+
+
+
+Sure. I am going to actually step back and answer the second one first. When we are thinking about reaching younger voters, what traditional advertising generally looks like is some sort of branded campaign asset that is professionally designed. It usually has a field-tested message attached to it, a call to action, and you can generally tell what these advertisements look like pretty clearly — in the subways or whenever you are seeing them out in the world. I think what research is pretty...
+
+**(01:54:24)**
+
+
+
+Consistently shown, especially for younger people who have been incessantly targeted by ads from the time they were children, is that they are increasingly suspicious of traditional advertising and prefer content that feels more authentic to them. So this is why you have really seen the rise of influencer partnerships and advertising, because in these sorts of short-form content influencers are creating posts and making videos, but it is really just someone talking to a camera or maybe posting some words, and it seems like it is coming from a person as opposed to an organization.
+
+So I would say a number of agencies, not just the Campaign Finance Board, have been experimenting more with these types of ways to reach voters, especially over the past five to six years as a lot more of our work has sort of migrated online as these generational changes occur. So when I say we brought that work in-house, before we were paying an advertising agency, which was at the time Miller Advertising. We are not currently working with them. They sort of went out and identified some potential influencers. We have a social media manager in-house, as many government agencies do, and our social media manager actually began doing the work as someone who is much more native to this than I am, I admit. She began doing the work of really looking at who are New York City-based influencers that do not make content that is political in nature but is very New York City-specific.
+
+So we have partnered with outlets such as Public Opinion, who does man-on-the-street style interviews. We have partnered with the influencer behind Righteous Eats, who profiles mom-and-pop shops and eateries around, especially the outer boroughs — people who are not necessarily creating content that is political in nature or even civically engaged but have an interest in the outcomes of New York City. So generally that is our first cut: who are New York City content creators who live in the five boroughs and whose audiences are in the five boroughs.
+
+From there we start to winnow down. Our social media team will do a review of what types of things they have posted, do we think this would be an appropriate content creator for the Campaign Finance Board to partner with, have they posted political content in the past that could be seen as partisan in a way we do not necessarily want to be associated with. Sometimes, depending on what they do, maybe they have posted things that are not suitable for work and maybe we should not partner with them as a government agency. But for the most part we will come up with a short list and then go from there, and then ask ourselves whether anyone on this list or do we need to find additional people who are reaching our priority audiences, especially language audiences — people that are harder to reach. The use of a certain language hashtag or whatever for disclosure — so maybe that is something another agency should pay more attention to.
+
+One of the things we have been discussing internally as a result of this hearing is that right now we follow the practices required by each of the platforms. They all have slightly different rules, and especially for political advertising there is a verification process that everyone has to go through, so we go through that. But one of the things I think we are currently looking at is whether our disclosure standards are meeting the same standards as a "paid for by" notice, because I think we could probably be more consistent using those. As someone who tends to see a lot of this content both before it goes out and organically and non-organically, it is generally pretty clear when we have partnered with a content creator. But I think this is just a good opportunity for us to do a review and make sure it is as clear as possible. Thank you.
+
+**(01:58:35)**
+
+
+
+Thank you, Council Member. Thank you, Jim. I just wanted to...
+
+**(01:58:38)**
+
+
+
+Tell you the spirit of my Bill. Of course, come to City Hall, they talk, they ask questions, tough questions — yes, like even to me or to the Mayor or to the public — and we get challenged, and that is the way it worked with traditional media. They do not simply take the City's talking points and repeat them. And it appears to me that that is what the influencers are doing, and that is not news — to me, that is propaganda. So the spirit of my Bill is that when the public sees these messages, they have the right to know this is paid for by tax dollars, even though no one is running a campaign. The Mayor is doing this right now — we are not running a campaign — but the public has to know.
+
+So my question: you seem to say that this is already covered by existing laws of the Campaign Finance Board, but I do not see it being covered in a way that covers influencers. Can you talk about that, and then I will get to part two of my questions.
+
+**(01:59:49)**
+
+
+
+Let me draw a distinction between two separate parts of the Charter, because what your Bill would modify — and that is T2026-2553 — what that would modify is the elections part of the Charter, specific to elections. So what that would not cover is what City Hall is doing with influencers, which is the issue for the hearing today. The other three pieces of legislation being considered would modify a different section of the Charter, which is about public officials' use of resources, and that is where you find the 90-day mailing blackout provisions that elected officials must follow before an election.
+
+So when we are saying — and it is not that we disagree with the spirit or the intent of your Bill — we are just saying it is already covered in our rules, amended to reflect it, because it is covered in our rules. I will just state this very quickly. It is a matter of something we always consider when we are thinking about what needs to go in the Charter, the Admin Code, or in the CFB rules. Generally, I think it is okay to direct the CFB to do things at a high level, but not get super specific about the way technology works, because it changes so quickly.
+
+So the way this is written would regulate "paid for by" notices, which is the way our rules currently regulate it. That could become a very stale piece of the Charter if something about the social media platforms were to change. So, for example, there is a requirement for "paid for by" notifications in the comments section — what if Instagram removed comments or the ability to add comments to posts? Then we would have to think about what a different sort of disclosure regime would be that we would advise campaigns. But that section of the Charter would become out of date. So generally we like to align on the intent of things and then have these conversations about where we think it should go and what the CFB should be directed to do.
+
+**(02:01:55)**
+
+
+
+And as I see it, there is a very blurry line now between propaganda and news, and it seems to me that the public is perceiving it that way, and that concerns me — especially with the use of AI, with videos of a mass crowd, you know, listening in to somebody making an announcement in public. So those are concerning and those are misleading and they can be abused. So the spirit of my Bill is to clearly identify these messages that are created by influencers or subcontractors of the administration — the public needs to know that this one is AI-created or that they were paid. All right, so that is where I am coming from. What you are...
+
+**(02:02:48)**
+
+
+
+...saying is that it is already covered, but I do not see these disclaimers in social media videos that are used by pretty much everybody, and not just the Mayor's office. So are we dealing with an enforcement problem?
+
+**(02:03:04)**
+
+
+
+Well, we are dealing with gaps that we have and are addressing.
+
+**(02:03:11)**
+
+
+
+I will answer this as an example. The Campaign Finance Board regulates the Mayor's campaign and his activities on his campaign for office. We do not regulate the Mayor's activities or the activities of any City Hall staffer in carrying out their public duties. So this Bill would actually not regulate the content of what City Hall is doing right now. It would regulate what campaigns are doing.
+
+**(02:03:39)**
+
+
+
+So what you are telling me is that once the campaign is over, these propaganda videos are not governed by the Campaign Finance Board. Is that...
+
+**(02:03:48)**
+
+
+
+Right. Yes, that is correct. If these videos were created as a result of the campaign — so if the campaign had paid an influencer to create videos on the campaign's behalf — that would be regulated campaign spending. But once it is no longer associated with the campaign, it becomes something that we do not have regulatory oversight over.
+
+**(02:04:09)**
+
+
+
+Okay. Thank you for making that clarification. Thank you. Thank you very much.
+
+**(02:04:13)**
+
+
+
+And you are dismissed, and we look forward to working with the CFB. Always. Dr. Anya Schiffrin, who is the author of the Columbia Journalism Review article that is of much discussion and is well respected.
+
+Well, this is part of the public testimony. We are opening now, and I remind members of the public that this is a government proceeding. Decorum shall be observed. You will remain silent at all times. The witness table is for people who wish to testify. No video recording or photography is allowed. Members of the public may not present audio or video recordings as testimony but may submit transcripts of such recordings to the Sergeant if you want to. If you want to speak, make sure you fill out an appearance card with the Sergeant and be recognized. Three minutes for testimony, but I am sure the Chair can allow some more time. All right. Thank you very much. And if you have a written statement or additional materials, you can submit it to the Sergeant at Arms. Also submit written testimony to testimony.council.nyc.gov within 72 hours of the close. Anyone who signed up in person will come up to the table when called, and we will call those on Zoom if they are there.
+
+Please go ahead, and thank you for being here, and congratulations on your article. Thank you very much. This is my first hearing ever in my life, so I just want to make sure I understand. I have written testimony. I was not expecting to answer questions. Is there time for me to both read my written testimony and... I have a long list of questions for you here, so go right ahead.
+
+**(02:06:01)**
+
+
+
+Here we go. Thank you so much for the opportunity to submit written testimony about my research paper mapping New York City influencers and the funding of public messaging. A working paper version, which is 11,000 words, is already available online. I am Dr. Anya Schiffrin, Senior Lecturer in Discipline at Columbia University School of International and Public Affairs, and I am the author of this working paper. The final version will be published as a policy brief by the Tow Center for Digital Journalism at Columbia University. We are having an event on the nineteenth to launch the paper, and I think it will be open to the public.
+
+I have devoted much of my academic career to the study of information ecosystems. I have long been preoccupied with questions about how citizens can receive quality information and what the obstacles are to receiving that information. I have edited three volumes on media capture. I have written a PhD dissertation on policies to address misinformation and disinformation. I have studied government policies to support journalism and I have made recommendations on how government and philanthropy can support the provision of quality information while respecting editorial independence and press freedom. Over the years I have organized many conferences bringing together government officials from all over the world with philanthropists, and I do believe that on the subject we are tackling today there is a huge amount that can be learned from Canada, from the European Union and from other countries. At the end of my testimony I have two pages of comparative policies, so I think there is a lot that we can be talking about.
+
+Because of my concern about information and public information, I decided to spend the summer researching influencers who provide information to New Yorkers about City services, laws and policies. As we know well in the communications field, it is not enough for governments to pass laws and implement policies — it is necessary to communicate those policies to citizens, and this task has gotten ever harder in the world of information overload and fragmented habits of news consumption. I note in my paper that government agencies have long tried to provide trusted information to citizens about the services that governments provide. In France, Canada and the U.S., social media influencers are sometimes paid to disseminate information about health care, voting and climate change, and to reach young audiences. I also talked about the pandemic, when Health and Hospitals began using influencers to remind people to get tested and then to get vaccines when they were available, and who used celebrities to record public announcements about the subways. We just heard from the Campaign Finance Board about some of their efforts.
+
+I am happy to talk about my research project. The Campaign Finance Board was the only agency using influencers that was willing to give me extensive on-the-record discussion, and I really appreciated the comments made by the previous speaker. The Sanitation Department hired a marketing firm, Karen Pace, to work with New York Nico as part of its campaign to remind New Yorkers not to litter. They received a grant for the Sanitation Department to spread the word about composting. And since the Mamdani administration has taken office, there has started to be an effort aimed at using influencers on Instagram and TikTok to promote City services such as pre-K, public budgeting processes, which we talked about earlier, and tenants' rights, which also came up. The Mayor's Office of Immigrant Affairs recently announced a new information campaign that will include content creators and influencers.
+
+Where I think it is important to take a real close look is this: the City of New York works with a group of advertising and marketing agencies that place advertisements on behalf of City agencies and manage influencer relationships under the citywide media placement contracts. This relationship management can include identifying and hiring influencers, issuing contracts and payments, working with the influencers on the content they deliver and monitoring the impact of that content. Some information is available in City documents online, but in general there is quite a bit of secrecy regarding the hiring and payment of these messengers. There was no systemic record-keeping that we could find of the content creators hired by City agencies, and we found that — just as we saw today — many of the regulations governing influencer relationships are unknown and unclear. We found a lack of standards as to disclosure and transparency and a lack of knowledge about what laws, if any, apply. And this, by the way, seems to be a universal problem. When the FTC did a sweep of influencers a couple of years ago, I cite that in my paper, they also found that mostly people did not know what the laws were and were not following the disclosure laws. So this is not just us.
+
+**(02:11:12)**
+
+
+
+We mentioned in our paper that we also found that labeling of the paid influencer content seems to be inconsistent. We note in the paper some of the different hashtags we saw, and we note countries like Spain basically have very clear rules. It has to say "paid for," cannot say "partner," cannot say "collab," has to be visible throughout the video. So I think there is work that can be done on strengthening disclosure and transparency of this paid work.
+
+Then, as we were during the course of our research — and I will say, by the way, that I was working with Wyatt, who is an undergrad at Columbia College, and he was the chief researcher, with a couple of other students helping — I thought when I was starting the paper that I would be writing about a comparative look at regulation. And then what I found was that there was so little information available about what was happening in New York that actually my contribution to the field would be simply trying to map it. So we have parts that we have not published yet because we are not sure how accurate they are, but we try to pull out from budget records different information about the different contracts. We included a sidebar on who the agencies are and we have pulled together a list of more than 200 influencers, but we are not yet happy enough about it to release it.
+
+So we do have a lot of stuff that still feels a little rough to us, and I am very much hoping that now that these hearings are happening, perhaps more information will be forthcoming from the City. I need to finish this paper. It has got to get published and presented. So anybody who can talk to us and provide more information, we would be very grateful. It goes without saying that I would be really delighted to help with the drafting of legislation focusing on disclosure and transparency, and to connect you to officials around the world who have already done this kind of work. There is a lot out there.
+
+So we sort of stumbled on the Signal group. We were very interested in the communications field. We talk a lot about boundary work — what is different about a journalist from an influencer — and so I was really trying to understand the contours of what this Signal group actually was. You know, it has characteristics of a press list, but in other ways it seems very different. It seems that this group is not paid; they were very clear about that from Amelia Roland's office. And there are, I would say, three things that I find sort of important or concerning about this group.
+
+So I think we focused a lot today on the need for record retention, so clearly I will not say anything else about that. I would say that there is sort of a lack of clarity as to the precise function of the unpaid influencers. Is the relationship between City Hall and influencers a sort of standard journalist-press relationship? To get a City Hall press pass you need to fill out a lot of forms, you need to demonstrate you are covering something. What exactly is the intake process?
+
+And then the third question: in my previous life, when I was a journalist, I wrote quite a bit about Regulation FD, which was issued by the Securities and Exchange Commission in 2000, and that required that material information be made public to all relevant parties at the same time and not given in advance to favored analysts or investors. And I have been puzzling over why there would be a need for a separate Signal group as opposed to a press list. Why would you not just have one list for everybody and have a process for everybody to join it? So that is one of the research questions that has remained unanswered.
+
+I sent dozens of emails to different parts of City Hall and to City agencies asking for information. When I did my PhD on disinformation, Google and Facebook did not speak to me once in the years I was doing my research, but every single official or government employee that I wrote to at the Commission or the EU Parliament met with me for at least an hour. So I am very used to engaging with government officials as part of my academic research, and I was a little surprised when I did not get an answer from anybody at all after the paper came out.
+
+I did get a text message from Amelia Roland, and she answered many of the questions I had been sending. On Saturday she sent me a text message about this particular question in which she said that the information the Signal group receives is not different at all from the information given to the regular press list. Quote: "It is usually just a link to a press release and a link to the announcement livestream on YouTube." Roland said that in a text message on September 21. But I am looking forward to further clarification.
+
+I also note that City Hall's use of a Signal group to reach content creators is part of a broader trend. Journalists revealed that the Pentagon had hired conservative military influencers, apparently to amplify messages of Defense Secretary Pete Hegseth. An article in the Wall Street Journal talked about corporate and foreign interests working with influencers to push their agendas. One example cited in the article is the government of Qatar giving free trips to Doha and perks to a group of pro-Trump influencers, and also planned spending of $900,000 said to be by Israel — I do not know if that is the government — and direct payments to influencers from companies in the solar and health industries. So this is part of a larger trend, which I think is why regulation is so important. And you know, at least our mayor is not ripping up federal documents and putting them in the toilet when we talk about record retention. So that is something.
+
+I do think that all the media coverage about the use of influencers to promote agendas or candidates has been significant. Singer has done a terrific job. The New York Times — I was fortunate enough to talk to Emma Goldberg after I had written my first draft of the paper. All of this coverage has really raised questions about what kind of regulations are needed. A lot of what I am seeing globally is disclosure and labeling of influencer content, and that has begun to attract the attention of regulators in the US and overseas.
+
+I think that given the amount of online violence and physical threats in the real world to journalists and influencers, there is a fear of naming who the influencers are — for example, in the Signal group — but I think we need to weigh that against the pollution of the information ecosystem and the mistrust created when audiences are not aware of the alliances or the agendas of the people that they encounter online.
+
+I have great hope that New York could really be a standard setter for a lot of this. I think there is no reason we could not do some world-first standard setting in terms of regulation. So some of the recommendations I made — and I am very open to revising them if it turns out we do not need them or we already have them — I would argue for clear disclosure of relationships with influencers, ideally applying to both paid and unpaid content. I think standardized disclosure, as just came up, and I was very glad to hear the Campaign Finance Board is thinking about that. So consistent use of hashtags, maybe at the top of the videos, remaining throughout the video, visible at all times, and it should be clear — you know...
+
+**(02:19:15)**
+
+
+
+Again, what Spain has done: labeling things as "partnership" as opposed to "collaboration," and also some sort of labeled disclosure for unpaid but persistent relationships that should also be visible. I certainly think that some kind of regular publication of lists of influencers who worked with City agencies, and explaining what this consists of — as far as I mentioned, it seems to all go through marketing agencies that do not seem to provide information or answer questions.
+
+Another time I hope we can talk about City advertising, because again, Canada, Sweden — there are many countries that have very strong rules on City advertising, and I would love us to maybe look at that as well. I also think that the Mayor's Office should probably publicize the disclosure rules far more completely and provide in-house training for City employees, vendors and marketing agencies that work with influencers, as well as training for influencer agency staff, employees working with influencers, and branding and marketing firms.
+
+I think it is very important, especially for new hires. When you have a new administration, you have people coming in who do not know the rules, so you have to make sure they are clear. Maybe the Mayor's Office could create a sort of influencer hub, the same way the UK has done. Those pages are actually very helpful. They provide clearly written information and ethical guidelines regarding content and information on regulations that cover influencers and best practices.
+
+And then I have this table of the US regulatory landscape and some of the European regulations. As I mentioned, I am still working on this, so I am very open to more information and very happy to bring experts together, convene and keep discussing all of this.
+
+**(02:21:08)**
+
+
+
+Thank you very much. Just a couple of questions. When you are talking about England or Canada or any of those other countries, are they also using Signal or another type of communication platform? Do you know, or is it done differently?
+
+**(02:21:22)**
+
+
+
+The research that I was doing — the Signal group was sort of an accidental finding for me. The research that I was doing was actually on influencers who are promoting information about government programs. What is so interesting about some of this... I was just looking at Canada. One of the debates is: do the influencers need to be paid in order to be told to disclose? So what is our bar? Is it number of followers? Is it how often you are posting? Is it how much money you are making? Is it whether you are getting a gift or a trip? Is it the actual content of the message? So I think all of those will need to be considered when you think about regulation.
+
+What do you mean by disclosures of persistent relationships? What does that mean to you? So again, as I mentioned, journalists that cover City Hall have a press pass, which they apply for. So if there are groups of people that are getting information on a regular basis and then reporting out that information, are they like a journalist? Do we need to then think about some sort of... traditionally in this country, press freedom groups and newspapers — the profession has been very much against licensing, whereas in Europe you would have rules about whether you went to a journalism school, how much training you have had, and then you can get a press pass. That has not been the American way. But I think, as someone mentioned earlier, these are new forms of communication and clearly regulation has not caught up. So I think these are all things we can really think about. Council Member...
+
+**(02:22:59)**
+
+
+
+Okay, thank you. My question is: does traditional media have equal access? It seems to me that they are getting a different set of press statements from the Mayor's Office, while influencers are getting a separate set of information from Amelia Roland. So it seemed to me that they do not have equal access. And I even heard that the influencers got hold of information way before the traditional reporters did. So my question is: should they have equal access if there is any activity coming from the Mayor's Office, and why are they not getting the same access?
+
+**(02:23:49)**
+
+
+
+Yes, well, I think you raised a very important point. In academia, we would call this anecdotal data — we do not have a full picture of what is going on. We have anecdotes that are certainly concerning. I was told, I think it was in a text message, that there are more briefings for journalists than there are for influencers. And I was just told on Saturday by Amelia in a text message that basically the influencers are given the same press releases as journalists. So I think this would be an area for further study and clarification.
+
+**(02:24:27)**
+
+
+
+And before coming to this hearing, I was watching videos of the mayor promoting the ballot proposals, and that is, to me, not news — you are promoting politics. You are telling voters about an issue they will be voting on, and that should clearly be indicated as a political message. It should clearly say it is paid for by the tax dollars of New York City. And I do not think so many influencers work for free. So it seemed to me that with so many of them out there, somebody is getting paid, and we are watching this propaganda and it is hard to distinguish it from...
+
+**(02:25:21)**
+
+
+
+...news. Yeah. Thank you for that comment. I think that the position of Amelia Roland is that none of those influencers on the Signal group are getting paid for being on that Signal group. Whether some of them at times are wearing other hats and perhaps getting a $5,000 contract with a City agency needs clarification.
+
+I know that everybody has been sitting here for hours and you do not really need to listen to an academic drone on, but we did a report for the government of Bhutan years ago about advertising in newspapers, and we studied, I think, six different countries to look at their regulations. There are exactly what you are saying — a lot of guidelines about when images of the mayor can appear, when they can back certain things, how close to an election they should be making a statement, how you make sure that you are actually giving people information like "enroll your kid in kindergarten" versus "hey, we are doing a great job, vote for us." So I think — sorry, as an academic — I think we have to have a separate conversation about the regulations and guidelines because it is complex and there are a lot of examples in the world that have been doing this for many...
+
+**(02:26:35)**
+
+
+
+...years. Those are usually in New York City very well articulated, to be honest. We have, however...
+
+**(02:26:42)**
+
+
+
+...they are not always enforced. So there is that. We heard earlier from the agencies that many of the bills are good, but they already exist. We do not have, in my opinion — and that is my opinion — great enforcement, particularly on the ballot questions. I can go on and on about what you are or are not supposed to do at different times. Yeah.
+
+**(02:27:00)**
+
+
+
+Oversight is...
+
+**(02:27:00)**
+
+
+
+...tough. Are you going on about that? The public may not be sophisticated enough to...
+
+**(02:27:09)**
+
+
+
+...distinguish. "Oh, that is a message reminding me to get a flu shot" or...
+
+**(02:27:14)**
+
+
+
+..."that is political propaganda telling me about these ballot proposals and hinting which way I should vote." So I think that distinction has to be defined, and it has to be clearly specified that it is paid for by the taxpayers of New York City. Right now it does not look like it. And as we approach Election Day, I think we will be seeing more and more of these videos, and then that...
+
+**(02:27:42)**
+
+
+
+...is dangerous. Yeah. Thank you.
+
+**(02:27:46)**
+
+
+
+Thank you very much. We look forward to continuing to work with you. The next panel is Rachel Fowles, Liz Learner and Grace Route. Thank you very much. And if anyone else wants to come up as well, you are welcome to come up.
+
+**(02:28:28)**
+
+
+
+Go ahead, whoever wants to start. Okay.
+
+**(02:28:33)**
+
+
+
+Good afternoon. Thanks for the opportunity to testify. My name is Rachel... I am the Senior Policy Advisor to Reinvent Albany. We advocate for transparent and accountable government in New York. I am going to just run through our basic recommendations, and I might touch on the records issue.
+
+So first, we ask the Council to pass legislation clarifying that all electronic communications that result in the creation of a public record, including instant messages, be archived and easily retrievable by agency FOIL officers. I will talk a little bit more about the draft bill we put together. Moving on, the Council should move forward with a new influencer disclosure bill modeled after current rules, and this should be done through the City contracting process rather than some of the means outlined in the legislation today.
+
+We ask the Council to revise T2026-2555 — that is the blackout period bill — and T2026-1440, the third-party communication reporting, to incorporate the perspectives of the experts here today. And then we ask the Council not to move forward with T2026-2554 and T2026-2553, because of some of the concerns the Campaign Finance Board...
+
+**(02:29:55)**
+
+
+
+Raised on the records or touched an issue, I think the Bill we have put together would answer a lot of the questions that you had, Gale, in particular about transitory. The DORIS policy talks about transitory as if it is almost presupposing that an instant message would never be a record, and we think that is a bit backwards. I would suggest we define instant messages as substantive and non-substantive and take transitory out of it, because in reality we know that those messages are records. They contain information that should be retained.
+
+I want to just have a clarification. DORIS does have a role in delete policy under the Charter. They are supposed to approve whether records are deleted or not. So our draft Bill would also make sure that instant messages are part of that. I know my time is out, but I think the draft legislation we put in this testimony, which I know we shared with you in advance, would address many of the problems that were raised today and we look forward to talking with you more about that. Thank you.
+
+Thank you very much. Thank you for waiting. Go ahead, next.
+
+**(02:31:06)**
+
+
+
+Thank you, Chair Brewer and members of the Committee. My name is Grace Row. I am the Executive Director of Citizens Union, a good government democracy organization that has been working for honest, accountable, effective government, fair and open elections and a civically engaged public for nearly 130 years. I want to start by thanking you for calling this important oversight hearing and I want to address the two main separate issues before the Committee today.
+
+First, on Signal and the idea of auto-delete apps and messaging. We believe that this is a clear black and white issue with a simple policy solution. Automatic delete functions should be explicitly prohibited from any official City business. I know firsthand from my time as a reporter at New York One, obtaining government records can sometimes require significant effort but ultimately deserve to be in the public realm. I successfully sued the de Blasio administration to obtain emails involving outside political advisors and fought City Hall's efforts to keep those records from public scrutiny. The growing use of instant messaging applications does create challenges because it is not just on one platform like Signal. We are seeing with Slack and other platforms that are creating and adding auto-delete functions that make it more difficult to ensure that government records are retained and available to the public. DORIS does strongly discourage use of instant messaging for substantive conversations, but the existing policies do not go far enough and it is necessary for the City to establish clear, technology-neutral rules in the Charter prohibiting government employees from using auto-delete functions for government communications. There is a basic principle that should be upheld here: City employees cannot use or permit the use of any function that automatically deletes or destroys a government record after a fixed period of time.
+
+On the second piece, the idea of paid government advertising including influencer content needs to be publicly disclosed. Others have mentioned the Federal Trade Commission has rules requiring influencers to clearly and conspicuously disclose paid relationships. That is needed here and we believe that requirement should be incorporated into the City's advertising contracts and that there should be a uniform citywide standard rather than leaving this up to individual agencies or contractors. There is more detail on both in my written testimony. Finally, on the question of unpaid influencers, we want to make it clear that there is nothing inherently wrong with City Hall communicating its actions, programs or achievements to unpaid influencers. Social media content creators are now a permanent part of the communications landscape and we know elected officials will continue to use them to communicate with the public. We want to note that that engagement should not come at the expense of reporter access and press scrutiny, as we are seeing in Washington, D.C. City Hall should not be providing influencers with any confidential information or privileged access to information in exchange for favorable coverage, but we believe the City's existing ethics laws address those concerns.
+
+**(02:34:34)**
+
+
+
+Thank you very much. Next.
+
+**(02:34:37)**
+
+
+
+Thank you very much. I am Susan Learner. I am the Executive Director of Common Cause New York and I too want to thank the Chair and the Committee for this hearing, which I think covers a lot of very important areas. I would like to focus on something that has not been fully discussed in as great detail as I would like, which is the title of the Mamdani Administration civic engagement efforts. I think we need to be talking about what it means for the City to be involved in civic engagement. What is civic engagement? What is the appropriate use of City resources and what is the goal? Academic definitions of civic engagement say that civic engagement means working to make a difference in the civic life of our communities and developing the combination of knowledge, skills, values and motivation to make that difference.
+
+I was struck in the testimony from the Commissioner of the Office of Mass Engagement by how fluidly she has incorporated a lot of the terminology about civic engagement, but that virtually all of her office's civic engagement work was really performed by the smaller agencies and smaller offices within that umbrella that already existed. When I went to the Office of Mass Engagement's website I was struck by the difference in how they are communicating on their website what they do versus how she described what they do, because rather than talking about basic information of how to access or understand City government, it is very narrow. It is all about tenant organizing. So we are not having the basic discussion of what is civic engagement and what should the City be fostering. Should it be picking a particular type of organizing or should it be a broader invitation to our residents to understand government and to affect whatever policies the individual thinks is a
+
+**(02:36:52)**
+
+
+
+good idea? Some of that is happening through the Civic Engagement Commission and the outreach around benefits, but I would suggest that the outlook of the Office of Mass Engagement is actually different than what was testified here. I would briefly like to say that when we are talking about influencers, I think we do need some disclosure about the ongoing relationship and we suggest that a disclosure that says "communication initiated by the City of New York" or "partnership with the City of New York" provides information that the resident, the viewer of the social media, needs to know: is this really an independent communication or does it result from suggestions like talking points, which are clearly substantive communications however they are communicated to the social media communicators. Our testimony has extensive suggestions for amendments and improvements to the Bills, which we generally support but feel should be strengthened in specific ways that we detail in our written testimony. Thank you.
+
+**(02:38:07)**
+
+
+
+Thank you very much.
+
+**(02:38:10)**
+
+
+
+Some questions for the panel. We already heard from the CFB that they will oversee campaign money being spent on influencers and on pushing an agenda, which is what we do. We do not see that as news. But my question is, my Bill is trying to fix this when the Mayor is using tax dollars to promote his agenda rather than treating it as a piece of news, just like the ballot proposal videos I have seen, or videos of the Office of Mass Engagement knocking door to door, telling tenants about the unions out there and that they could join. That is not news and the public has to know about that. My question to you is: is that a way to reinvent Albany? You wrote here that you do not want the Council to move the Bill, but the spirit of my Bill is to close this gap and let the public know that what they are watching is not news.
+
+**(02:39:22)**
+
+
+
+But let us get her answer.
+
+**(02:39:24)**
+
+
+
+Yes. I think I listened to the CFB. I think the way they put it is right, that the part of the Charter you are amending is about the independent expenditure disclosures, which we are very, very sensitive about, as New York City has model independent expenditure disclosure rules with the "paid for by" disclosure. I think your intent is for the Mayor's activity while in office, not as a candidate, and we do not want to see changes to the independent expenditure disclosures, the "paid for by" disclosures, that affect campaigns, because they are very strong and the CFB, as I said, is a national model on that.
+
+So I think if your intent is to regulate different activity, maybe the Bill needs a change. But I understand your point that the public deserves more information and we absolutely do support "paid for by" disclosures as I mentioned. We think that it could be done through the contracting process. The rules are one way to look at it, but I think your goals are similar to ours. It is just the application and the Bill the way it is drafted is where we had some concerns.
+
+**(02:40:37)**
+
+
+
+Thank you. Thank you.
+
+**(02:40:38)**
+
+
+
+Thank you very much. We appreciate this and we will go to the next panel. Thank you. We have got Charles
+
+**(02:40:45)**
+
+
+
+Diamond, Octavio Blanco and Tony Rohsaan. Thank you all. Whoever would like to go first. Thank you for being
+
+**(02:41:08)**
+
+
+
+here. Good morning. My name is Octavio Blanco. I am the Executive Editor of Uptown Voices. We are a hyper-local digital news and current events platform based in Washington Heights, Manhattan. We cover Washington Heights, Harlem and the South Bronx. Thank you for giving me the opportunity to testify today. It is important for me to be here to speak about my work and to dispel accusations in the media that we have been paid to cover aspects of Mamdani's or Chevalier's campaigns. I am also not on any Signal chat with the Mamdani Administration. My communications with the administration are via email and phone conversations, sometimes as a mass text as I do with any other source.
+
+As a digital impact leader in my community, it is very important for me and my publication Uptown Voices to retain the tremendous amount of trust that our audience has given us in the 16 months that we have been working. Trust is our most valuable commodity and we would never want to threaten that. Plus we live in the community and are accountable every day to our neighbors. That is why during the District 13 congressional race, Uptown Voices made it a point to invite all three candidates to appear on our podcast. All the candidates accepted and each of them appeared twice on our show for one hour each time. No one paid us to appear on the program. In fact, in one instance we rented a studio to avoid any possible technical difficulties, which we did and paid for out of our own pocket despite having very limited resources. In another instance, the campaign did offer us a $500 payment to attend a photo op in the community, which we rejected. I am proud to say that Uptown Voices punches above its weight with the City. We often attend press conferences and ask sharp questions to the Mayor about his policies and plans. We sit next to our more established national, international and local counterparts and we ask questions that impact our community. We may be hyper-local but the issues we face uptown are similar to those faced by people all across the City, the country and, dare I say, across the globe as well.
+
+I have more to say but I cannot take any questions because I have an interview to go to, so I will leave my
+
+**(02:43:27)**
+
+
+
+comments as those. Thank you very much. Do you have a press pass?
+
+**(02:43:31)**
+
+
+
+I do. I do have a press pass.
+
+**(02:43:33)**
+
+
+
+That is quite all right. Thank you. Go ahead, sir. Thank you very much.
+
+**(02:43:38)**
+
+
+
+Thank you, Chair. My name is Charles Diamond and I worked for the City for over eight years. As you know, I have a particular expertise in procurement. I think that is one angle I want to bring to this that has not really been talked about, and then quickly back to the citywide policy. The way that the City buys advertising and buys media is a long-standing concern and the wonderful doctor in her article spoke with Jose Baez, former head of Community and Ethnic Media. I worked with Jose when we created that new office at the beginning of the last administration.
+
+It was working with DCAS and agencies regarding their existing op-ed and media contracts in order to figure out a new way to utilize our tools to get this spending done the right way. That is called normal government behavior. When one person is getting a benefit we should be very, very, very suspicious when a City agency is getting something for free that they normally pay for. In fact, it is one of the biggest red flags you can have. We talk about zero-dollar contracts. That does not mean it is not a contract. In fact, that should make us more suspicious.
+
+So clearly here there are procurement avenues that should have been taken, that could have been taken. They chose not to. What are the benefits of doing that? A selection process, record keeping, protections against political appearances. All of the things that we wanted here today. Turning quickly to the process angle, I found the testimony from the administration here before me tortuous to an extreme. That circular logic behind transitory and substantive, I think, bewildered any of us who have worked for the City. What are you telling me? This is the opposite of everything I have heard. Let us be very clear. We all know that you cannot do government business on non-approved channels. Signal is not approved. I would like to give another example. You cannot normally download apps on your phone without IT approval. Who approved this download
+
+**(02:45:19)**
+
+
+
+or was it on her private phone? Was someone ordered to allow that to be put on their phone? CM Morano spoke about subpoenas. I think it is extremely appropriate in this case because unfortunately mistakes happen. New people in City government might not fully understand a policy. I get that. But when you go that defensive and you try to pretend that it was okay, it only raises more and more questions. I will leave it at that. Thank you.
+
+**(02:45:45)**
+
+
+
+Thank you. Next.
+
+**(02:45:47)**
+
+
+
+Thank you, Council. Pleasure being here. My name is Tony Rohsaan. I am the founder and producer of the Harlem Night Market as well as the Harlem Wellness Festival. We do a lot of work in the community with a special emphasis on amplifying and focusing on small businesses. Our platform is very popular uptown. We probably have one of the largest followings, you know, along with like Uptown Collective and others. But what I really wanted to come and say and testify at this Council hearing is regarding the Signal group. I was a part of that Signal group and I did not pay much attention to it because a lot of it is just press stuff, like links to some information or things that would happen, like where Mamdani is coming to Harlem. Those are of particular interest to me. I have not written... I mean, I just was not interested in some of the things that they kind of put forward. If I see something in a link or something that I am interested in, I will reach out and say, hey, I want to be there. But a lot of what I do and the trust in the community that we speak on comes from informing the community about community boards and just getting active in the community to make sure they understand what goes on. In terms of the biggest problems uptown, affordable housing is among the top, among other things.
+
+One of the things in terms of our access to City Hall is kind of unprecedented because under the previous administrations, content creators like myself never really had the opportunity to engage with the Mayor's Office and other City agencies. So that is kind of one of the things that I think is misconstrued. I have never been paid. I do not know people that have been paid as influencers or whatever. So when I saw the New York Post article I was kind of confused. I laughed about it. A lot of us laughed among ourselves about it because a lot of this stuff was just not true, what we were reading. I speak for my community and I speak to my community and if there is something that I am not interested in, I do not cover it. I do not talk about it and there will be differences. I already have differences with the Mamdani Administration on some of the things that they do and I will talk about it. That does not mean I am controlled or paid by anybody. I just wanted to say that.
+
+**(02:48:36)**
+
+
+
+Thank you. One of my questions for you, sir, is I think it is good that this administration is reaching out. Does it seem like what they are reaching out to you with is probably not dissimilar to what they are sending to the Daily News or one of the other newspapers? It seems like it is the same material, or not?
+
+**(02:48:53)**
+
+
+
+Yeah, and one of the things... I almost kind of laughed about it. You know, sometimes we get notices literally the night before. Oh my god, he is going to be in Harlem, you know, and I am like, hey, I cannot do anything with it because it is just too late. You are putting it on my calendar way too late. So we are not necessarily getting super early access to information and stuff. When he made the announcements on the public grocery stores, I received that information and attended, just like any other press outlet would.
+
+**(02:49:29)**
+
+
+
+Do you have a press pass, or do you not have a press pass?
+
+**(02:49:32)**
+
+
+
+I have a question about procurement. Obviously in this case, it is often the... I call them the middle managers, or the millers of the world. How do you think that does or does not work? I know you did not have much time, so I want them all. No, and I would say as an operations person, I relied on the subject matter expertise of people like... how do they...
+
+**(02:49:50)**
+
+
+
+Fiona and the Roman Goffman...
+
+**(02:49:51)**
+
+
+
+...at DCAS, and saying how does this work. I think in terms of information out, so again we talk about meeting people where they are. That has always been the goal in doing that. I would really say I think procurement-wise it desperately needed to be reformed. We did a great job of reforming that because it was awful. A lot of money without necessarily a lot of product. But again, I think this is why you want a procurement and selection method with all of the protections that it has, because you have to be measuring outcomes. What is our goal? There is a way of measuring all these things that does indeed sanitize it. So I am all in favor of more exciting and more creative ways of reaching people, but again we need to do it in ways that are not violative of other laws that are there for a reason.
+
+**(02:50:32)**
+
+
+
+And it really comes down to the idea of what this program...
+
+**(02:50:36)**
+
+
+
+People are trained about this all the time, so either the training did not happen or someone ignored it.
+
+**(02:50:42)**
+
+
+
+Something happened, and it is especially worrying when it is the Mayor's Office, because again, any agency grunt will tell you the chances of them downloading an app on their phone they are not allowed to have are exactly zero. So that is perhaps the worrying part. Okay. Thank you both very much. Really appreciate your time. Thanks.
+
+**(02:50:58)**
+
+
+
+For waiting. The next panel is Taiwan Green and... Brianna, Brianna... Thank you both. Go ahead.
+
+**(02:51:22)**
+
+
+
+Whoever wants to start. Good morning. Thank you for giving me the opportunity to speak. My name is Taiwan Green. I am a music producer, educator and community organizer. I would like to state for the record that I have never been offered or accepted pay for any contact I have done with the Mamdani Administration. In fact, I have lost money from calling on others to cover events and press conferences.
+
+I was never directed in any way on how to message my videos. When I was contacted a year ago by the social media team, I was still concerned about who I was going to vote for. After spending time around the then-candidate and seeing his consistency every day, I started to believe he could really deliver. But that does not mean that I will agree with everything that he does.
+
+I told him and his team I will hold them accountable. He told me he wanted to be held accountable and earn the trust of New Yorkers. They have never stopped me from asking any question, and I have criticized him in some videos. Why am I doing this for free? Because I never thought that a person who comes from where I come from would ever have the opportunity to have this type of access. I believe it is my responsibility to sacrifice my time and my resources to educate myself and my followers about the political process, and to record and report the full context of stories that traditional press does not have the time to cover. Questions that are related to Southeast Queens — I will use this opportunity to do just that. Thank you for your time.
+
+**(02:53:01)**
+
+
+
+Thank you very much. Go ahead, sir?
+
+**(02:53:02)**
+
+
+
+Good afternoon, and thank you for the opportunity to speak. My name is Roberto. I am a New York City content creator and my work focuses on art, history, infrastructure and the kind...
+
+**(02:53:13)**
+
+
+
+...of interesting things about this City. I want to start by being completely transparent. I have made videos about the Mamdani Administration, usually talking about the work in making buses faster. I have never been paid by the administration to make those videos. I have done them because I think it is useful for my audience and residents in general to know what their local government is doing, and I think there is an important conversation to have about that.
+
+There are more than 8 million people in this City and they do not all get their information from the same place. Some people read newspapers or watch local news. Others get their information from cable networks and others get their information from social media. No single outlet can reach everybody. That is why I think content creators can play an important role in helping the City communicate with the public. My work is already about New York City, so when I talk about what our elected officials are doing, it is because it connects to the things that I cover and the questions my audience cares about.
+
+Journalists, media outlets and creators can all play different roles in making sure that New Yorkers have access to accurate, factual information. Communication with the government does not have to mean agreement. Ultimately, people should have the opportunity to hear what their government is doing and make up their own minds. Of course, when the City pays a creator to produce something, that relationship should be transparent. But simply communicating with creators should not be treated as inherently political or improper. We live in a social media age, and if the local government wants New Yorkers to understand what is happening in their City, they have to meet them where they are. An informed New Yorker is better equipped to participate and hold the government accountable, so I think that is good for New York City. Thank you.
+
+**(02:55:02)**
+
+
+
+And so when you were also part of the group of people who were participating in the campaign and then you switched over...
+
+**(02:55:11)**
+
+
+
+Is that correct? Yes, that is. And were you given — I would say — guidance on how to not be political when you are part of a government listserv, so to speak? Or was it just known that that is how you have to...
+
+**(02:55:24)**
+
+
+
+...be? No. I think I have had experience in media training, and so for the most part I tend to focus on literally the straight facts. I do not try to sway the audience to think one way or another. I just literally state the facts — what are people talking about — and my content is usually very dry because it keeps to the...
+
+**(02:55:47)**
+
+
+
+...facts. Right. Okay. And you find that that is true with some of the other content folks also? Is it keeping to the facts? I think so. I believe so from what I have seen and what I have connected with. Okay. Thank you very much. Thank you.
+
+**(02:56:00)**
+
+
+
+We have Chris Johnson in person and then online we are going to have Tim Fullerton. All right. Ready? Yes.
+
+**(02:56:09)**
+
+
+
+Yeah, my name is Christopher Leon Johnson. I am a media press credential holder. Let me make this clear: both Fingers and Uptown Voices are known liars. Let me make this clear — they get paid through third-party agencies. That is how they get paid. The way it works is they get constrained to control the narrative. If you ask the Mayor a question they do not want to hear, they will not allow it. To the point where they will make you delete the videos.
+
+Let me make this quick: these guys are getting paid and they will not admit it, because if they start admitting to the people that they get paid, they lose all credibility. They get paid through third-party vendors. Let us keep that clear.
+
+I want to say this right now. The problem with this administration is that they solely rely on influencers, and he does not understand that. Room Nine controls the City. I could easily turn on this guy and say, well, let us give him the Eric Adams treatment — he is out of here as Mayor. But what they need to go forward with is that people like Fingers need to be transparent to the people and tell them that he will never hold the Mayor accountable. I think that Fingers is Mayor Mamdani's little golden boy when it comes to pushing the narrative for the Mayor's administration. That is the facts.
+
+You know, the problem with the City is that this is an influencer-reliant administration instead of relying on real journalism. Real journalism starts at Room Nine, not with these fake influencers who think they know about things because they do little TikTok-type videos. Going forward, I think the City Council really should ask Fingers — and I might know why he was busy, because he did not want to answer the hard questions. Like: how do you get paid? Do you work with the third-party vendors that the City hires to do the content? So, I am going forward. Thank you for having us here, Ms. Brewer. That is what I have got to say.
+
+**(02:58:15)**
+
+
+
+...to say. Next up.
+
+**(02:58:17)**
+
+
+
+Thank you very much. Online we have got Tim...
+
+**(02:58:24)**
+
+
+
+Fullerton. I have a prepared statement, but I do want to make something very clear based on the previous testimony. The people in that group are not paid by the Mamdani Administration. They were not paid by a third party. That is a Signal chat that gets the same type of information that Room Nine gets.
+
+I will also say something about Room Nine. The New York Post, when they covered this story, ran a photo of Emily Roland in it, which was something that they pulled from her Instagram account. It was a photo of her in a swimming pool. So if we are going to talk about credibility and who has the credibility, there is plenty of blame to go around. There are people who are good actors and people who are not, and the New York Post decided to go down a sexist route to try to make a salacious point because they did not have any details or any specifics about what this was or where they understood it. So I just want to respond to that outrageous comment that was made before, which was highly inappropriate for a million reasons.
+
+And again, they get paid by a third-party entity for creator work. They did not get that from the Mamdani Administration. I just want to clear the record there.
+
+Now, moving on to my statement. As I said, my name is Tim Fullerton. I am the founder of Find Out Media, which is a left-leaning progressive media operation. I have also been the Chief Digital Officer of the State of New York and I have also been the Director of Digital Strategy in the Obama Administration at the U.S. Department of the Interior, so I know a little bit about this issue.
+
+I want to thank CM Brewer and the members of the committee for having me today, and I want to talk a little bit about what happened here. When I did these jobs in the federal government and the state government, I learned something simple: government information is only useful if it reaches people. Today, millions of New Yorkers do not get their news from newspapers or the 6 o'clock broadcast, or frankly even know it exists. They get it from creators they trust on platforms that they already use. A Mayor's Office that ignores those people is not being careful — it is being absent.
+
+So let us be clear about what this Signal group is. It is a distribution list. The Mayor's Office gave creators access to officials. This is the same thing that the press gets. Now, I believe that they need to enable — and they have enabled — the setting that keeps messages from being deleted. But this is the...
+
+**(03:00:46)**
+
+
+
+...same information that the press is getting. And I think it would be wise for the City Council to look at this and modify some rules to make sure that all types of communication are allowed, so that the Mayor can get his information out, especially in areas where the press is not covering. Thank you.
+
+**(03:01:00)**
+
+
+
+Thank you. I want to thank you for your expertise — it will be helpful as we craft legislation. I totally agree with what you are stating, and I hope that comes across. We want to have information carried. It just has to be in a way that incorporates FOIL and archiving that we have all worked on for the last 30 or 40 years. Totally agree. CM, do you have any questions? This hearing is concluded. Is there anything else we need to add? Okay. I want to thank everybody who hung out for such a long time. We have a lot of work to do. We really appreciate you being here, and we will talk to you soon. Thank you.

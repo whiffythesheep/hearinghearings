@@ -1,0 +1,55 @@
+{
+ "event_id": "1439517",
+ "date": "2026-09-22",
+ "body": "Committee on Immigration",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439517&GUID=10DAC10B-8E92-478B-9E79-F7E278F1ECC7&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2467",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8191130",
+   "legistar_guid": "F7FDB2F6-B796-447E-8072-8608FF4B8FA3"
+  },
+  {
+   "file_number": "T2026-2467",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8191130",
+   "legistar_guid": "F7FDB2F6-B796-447E-8072-8608FF4B8FA3"
+  },
+  {
+   "file_number": "Res 0626-2026",
+   "type": "Resolution",
+   "name": "Require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status ( S.4814).",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206815",
+   "legistar_guid": "9CAEC73B-9EBC-4098-80F3-252EF81AABE1"
+  },
+  {
+   "file_number": "Res 0626-2026",
+   "type": "Resolution",
+   "name": "Require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status ( S.4814).",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8206815",
+   "legistar_guid": "9CAEC73B-9EBC-4098-80F3-252EF81AABE1"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "file_number": "Res 0122-2026",
+ "slug": "res-0122-2026",
+ "legistar_id": "7862500",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York City Department of Sanitation and the Department of Parks and Recreation to continue to engage and collaborate with local communities to encourage and allow community composting to be carried out on parkland",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Sandy Nurse",
+  "Farah N. Louis",
+  "Althea V. Stevens",
+  "Rita C. Joseph",
+  "Jennifer Gutiérrez",
+  "Yusef Salaam",
+  "Crystal Hudson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 122",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15277037&GUID=A3684D15-BEA9-4927-8A7F-01B49FA6C407"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251805&GUID=CE9FDC95-B4EB-4CCD-BE58-66F036F93922"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252497&GUID=FD270EFA-94E4-4239-8333-A04D5603CE02"
+  },
+  {
+   "label": "Committee Report 9/15/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855204&GUID=C8D0A0CC-405E-40CF-9847-EDB85232C86C"
+  },
+  {
+   "label": "Hearing Testimony 9/15/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15871057&GUID=38F04565-877A-4C56-8327-D9CAC137EB2F"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-15",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-15",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862500&GUID=03ACAF7A-EE04-4691-8004-8E3FEDE64D72"
+}

@@ -1,0 +1,113 @@
+{
+ "file_number": "Int 0408-2026",
+ "slug": "int-0408-2026",
+ "legistar_id": "7862773",
+ "type": "Introduction",
+ "title": "A Local Law in relation to establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Farah N. Louis",
+  "Elsie Encarnación",
+  "Crystal Hudson",
+  "Shahana K. Hanif",
+  "Lynn C. Schulman",
+  "Virginia Maloney",
+  "Althea V. Stevens",
+  "Chris Banks",
+  "Shanel Thomas-Henry",
+  "Tiffany L. Cabán",
+  "Justin E. Sanchez",
+  "Harvey D. Epstein",
+  "Nantasha M. Williams",
+  "Carl Wilson",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 408",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15260235&GUID=7B213C31-CE6D-4108-A5E9-0A60C6E03A36"
+  },
+  {
+   "label": "Int. No. 408",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15260236&GUID=660B5B05-CC72-46B3-BD5D-D95C7550BE57"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251863&GUID=55C5CD42-2917-4D44-884F-2F087C9A3A2A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252555&GUID=CBBB85B0-0217-4301-BB37-93F59C95ACEB"
+  },
+  {
+   "label": "Committee Report 9/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854757&GUID=60287726-BBC6-4685-8638-25770913668C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858506&GUID=D928CF69-17AF-4664-B173-6FE6AD9E1213"
+  },
+  {
+   "label": "Hearing Testimony 9/16/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931665&GUID=3606122C-5ECB-482F-9A0E-2801D3FB5F7F"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858506&GUID=D928CF69-17AF-4664-B173-6FE6AD9E1213"
+ },
+ "history": [
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862773&GUID=F904166A-C4C0-4A2E-9ECA-BB6C324B9D4D"
+}

@@ -1,0 +1,99 @@
+{
+ "file_number": "Int 0641-2026",
+ "slug": "int-0641-2026",
+ "legistar_id": "7879407",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to when the department of social services is required to make CityFHEPS rental assistance payments",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Lincoln Restler",
+  "Gale A. Brewer",
+  "Amanda C. Farías",
+  "Nantasha M. Williams",
+  "Selvena N. Brooks-Powers",
+  "Farah N. Louis",
+  "Crystal Hudson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 641",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15292680&GUID=7CC914C2-D6D3-408D-B532-1B33113B1492"
+  },
+  {
+   "label": "Int. No. 641",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15292682&GUID=8ADC1223-5323-4AB5-B17E-00CEF561AF54"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729579&GUID=8026CA7F-ED15-405B-A3A3-46268C130083"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302577&GUID=DDFFABC5-1D78-4F1A-8727-69C8222BF05B"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866703&GUID=C7DAEDD9-3B78-42D8-83C7-ECA9E54FEBD0"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870440&GUID=82EED04E-D737-478C-AFE2-7612A1529243"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870440&GUID=82EED04E-D737-478C-AFE2-7612A1529243"
+ },
+ "history": [
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879407&GUID=120A98E5-D2DA-4590-8A3B-30D6D967FE72"
+}

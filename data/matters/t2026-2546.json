@@ -1,0 +1,82 @@
+{
+ "file_number": "T2026-2546",
+ "slug": "t2026-2546",
+ "legistar_id": "8207446",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to an informational toolkit on available programs, benefits, and services for older adults",
+ "status": "Introduced",
+ "sponsors": [
+  "Darlene Mealy"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844610&GUID=75EC7BA6-38FB-46D9-8933-FBE950CD62F2"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844609&GUID=84359627-3404-4975-AB65-4D20DD0623BA"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844611&GUID=7D47E6AC-14C7-4A4F-ACEA-E8D9A1732FAB"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858504&GUID=71F50590-51AF-4B3A-8E45-2C2E1BE50F38"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860084&GUID=04F6D308-2087-41A4-974D-2A6EF18DA3D0"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858504&GUID=71F50590-51AF-4B3A-8E45-2C2E1BE50F38"
+ },
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8207446&GUID=BAE5D00B-2045-4B5A-9C2A-F82225ABC20E"
+}

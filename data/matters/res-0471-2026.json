@@ -1,0 +1,71 @@
+{
+ "file_number": "Res 0471-2026",
+ "slug": "res-0471-2026",
+ "legistar_id": "8027986",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.4805/A.4984, which would shift income verification responsibilities for the Senior Citizen Homeowners' Exemption (SCHE) from local governments to the New York State Department of Taxation and Finance",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Susan Zhuang",
+  "Chris Banks",
+  "Harvey D. Epstein",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 471",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477819&GUID=A0EA28F1-DC6D-4486-BCEA-54EEF5DE623B"
+  },
+  {
+   "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548251&GUID=D25E4A57-C467-436D-ABDD-0A64A9F33A8D"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849013&GUID=80E8EFA1-94C4-43B1-B638-B6AFC7653A5C"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860088&GUID=D5168114-46CD-4895-8E72-6E7E243178BA"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-02",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8027986&GUID=704E9DA1-CD42-4A10-8002-F55FB3DB8EBB"
+}

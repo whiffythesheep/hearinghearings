@@ -1,0 +1,113 @@
+{
+ "file_number": "Int 0874-2026",
+ "slug": "int-0874-2026",
+ "legistar_id": "7998417",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a legacy business registry and preservation fund",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Shanel Thomas-Henry",
+  "Tiffany L. Cabán",
+  "Kevin C. Riley",
+  "Pierina Ana Sanchez",
+  "Shekar Krishnan",
+  "Alexa Avilés",
+  "Shahana K. Hanif",
+  "Harvey D. Epstein",
+  "Ty Hankerson",
+  "Kayla Santosuosso",
+  "Lynn C. Schulman",
+  "Carl Wilson",
+  "Amanda C. Farías",
+  "Shirley Aldebol",
+  "Frank Morano",
+  "Joann Ariola",
+  "Inna Vernikov"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 874",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425382&GUID=5BFC72B6-F9D8-4AFE-8ACF-EEFEB8B1FF55"
+  },
+  {
+   "label": "Int. No. 874",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425381&GUID=847BFED0-7233-4223-9EB7-A4BC3A78AC63"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425391&GUID=604D5A03-6ACF-4579-B00D-23ABACB22133"
+  },
+  {
+   "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426466&GUID=3FD7FE09-6DE5-42AF-A53B-069213A9A1DD"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567471&GUID=8033FCB9-F94E-4502-9167-F0E03FB5ED00"
+  },
+  {
+   "label": "Committee Report 9/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854759&GUID=0891F1E1-C65B-4BCE-B900-FE44E4138C99"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858508&GUID=20F15AA6-747B-46F7-9B51-083FB5303693"
+  },
+  {
+   "label": "Hearing Testimony 9/16/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931667&GUID=0A0E466A-8117-4F11-BD92-86BC0913A943"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858508&GUID=20F15AA6-747B-46F7-9B51-083FB5303693"
+ },
+ "history": [
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-16",
+   "body": "Committee on Small Business",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7998417&GUID=0A2BCD1C-8854-46A6-B42A-9239B4492834"
+}

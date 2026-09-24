@@ -1,0 +1,131 @@
+{
+ "file_number": "Int 0949-2026",
+ "slug": "int-0949-2026",
+ "legistar_id": "8067881",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to create and make available on their website LGBTQI+ health and gender-affirming care resources and a searchable map of LGBTQI+ health services",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Lynn C. Schulman",
+  "Farah N. Louis",
+  "Shirley Aldebol",
+  "Virginia Maloney",
+  "Harvey D. Epstein",
+  "Amanda C. Farías",
+  "Shekar Krishnan",
+  "Carl Wilson",
+  "Mercedes Narcisse"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 949",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589103&GUID=9D6E0A68-258F-419F-B026-FDA9AA04E4B4"
+  },
+  {
+   "label": "Int. No. 949",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589104&GUID=EAFC7C96-D46A-4486-9C34-E30AD56B6514"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574084&GUID=802306F3-25DA-4360-BD62-BC905EDB3796"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575744&GUID=4360FDFA-098D-45C6-8EC7-C6006479D508"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869164&GUID=B7B8757C-7874-42F3-ACFA-E02E49B60369"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15929483&GUID=63763AE6-1663-4C2E-92F5-35C19F3249AC"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869164&GUID=B7B8757C-7874-42F3-ACFA-E02E49B60369"
+ },
+ "history": [
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Hospitals",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Hospitals",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Mental Health and Substance Use",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on Mental Health and Substance Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067881&GUID=C8C73C11-3617-4936-8CC5-3C91A5132FCB"
+}

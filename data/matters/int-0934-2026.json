@@ -1,0 +1,97 @@
+{
+ "file_number": "Int 0934-2026",
+ "slug": "int-0934-2026",
+ "legistar_id": "8067773",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of additional annual income categories and corresponding exemption percentages for certain households eligible for the senior citizens homeowners’ exemption",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Simcha Felder",
+  "Phil Wong",
+  "Farah N. Louis",
+  "Lynn C. Schulman",
+  "Lincoln Restler",
+  "Shirley Aldebol",
+  "Virginia Maloney",
+  "Selvena N. Brooks-Powers",
+  "Carl Wilson",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 934",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573721&GUID=63198365-94D4-4C81-BEF6-DC8B286C4348"
+  },
+  {
+   "label": "Int. No. 934",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573720&GUID=A79D57AC-B98D-4D62-807F-9245B587E0DF"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575720&GUID=73894704-0DD2-4D4C-B8E0-AF1F06F4655E"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860071&GUID=C9F9734B-58FF-417F-8144-1DCE040F03CC"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865938&GUID=44B66630-F444-46F7-A382-2CA25BF9DBD7"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": -17,
+   "succeeding": -17,
+   "full": -17
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": -17,
+   "succeeding": -17,
+   "full": -17
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate on the fiscal impact of this bill.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865938&GUID=44B66630-F444-46F7-A382-2CA25BF9DBD7"
+ },
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067773&GUID=4ADE40B6-E53A-4CF4-8522-298113D06D33"
+}
