@@ -1,0 +1,179 @@
+{
+ "event_id": "1445952",
+ "date": "2026-09-24",
+ "body": "Committee on Cultural Affairs, Libraries and International Relations",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445952&GUID=225D8D4A-2216-4B53-863B-D5D39F49D758&Search=",
+ "items": [
+  {
+   "file_number": "Res 0184-2026",
+   "type": "Resolution",
+   "name": "Declaring October 3 as Korean Cultural Awareness Day annually in the City of New York.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879095",
+   "legistar_guid": "C6D797DF-2C9E-4A9E-A43E-9BA6908BC004"
+  },
+  {
+   "file_number": "Res 0184-2026",
+   "type": "Resolution",
+   "name": "Declaring October 3 as Korean Cultural Awareness Day annually in the City of New York.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7879095",
+   "legistar_guid": "C6D797DF-2C9E-4A9E-A43E-9BA6908BC004",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0606-2026",
+   "type": "Resolution",
+   "name": "Declaring the month of August as Black Pride Month.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8170169",
+   "legistar_guid": "0ED20E2F-B782-4EE5-BDAD-E9AAEB714A35"
+  },
+  {
+   "file_number": "Res 0606-2026",
+   "type": "Resolution",
+   "name": "Declaring the month of August as Black Pride Month.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8170169",
+   "legistar_guid": "0ED20E2F-B782-4EE5-BDAD-E9AAEB714A35",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "Res 0607-2026",
+   "type": "Resolution",
+   "name": "Declaring September as African Immigrant Heritage Month.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8170167",
+   "legistar_guid": "52545694-FC3D-426F-8C04-41E9D3DBA77B"
+  },
+  {
+   "file_number": "Res 0607-2026",
+   "type": "Resolution",
+   "name": "Declaring September as African Immigrant Heritage Month.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8170167",
+   "legistar_guid": "52545694-FC3D-426F-8C04-41E9D3DBA77B",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

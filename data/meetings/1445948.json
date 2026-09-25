@@ -1,0 +1,104 @@
+{
+ "event_id": "1445948",
+ "date": "2026-09-24",
+ "body": "Committee on Housing and Buildings",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445948&GUID=8E13DC23-B445-49C7-9F38-CFB95DEC57C6&Search=",
+ "items": [
+  {
+   "file_number": "Int 1015-2026",
+   "type": "Introduction",
+   "name": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "Proposed Int. No. 1015-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8170174",
+   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5"
+  },
+  {
+   "file_number": "Int 1015-2026",
+   "type": "Introduction",
+   "name": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8170174",
+   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5"
+  },
+  {
+   "file_number": "Int 1015-2026",
+   "type": "Introduction",
+   "name": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8170174",
+   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5"
+  },
+  {
+   "file_number": "Int 1015-2026",
+   "type": "Introduction",
+   "name": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+   "sponsor": "Pierina Ana Sanchez",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8170174",
+   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5",
+   "tally": {
+    "Affirmative": 11
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

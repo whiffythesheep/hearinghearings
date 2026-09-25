@@ -1,0 +1,42 @@
+{
+ "file_number": "Res 0648-2026",
+ "slug": "res-0648-2026",
+ "legistar_id": "8237323",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.5521/A.1140, in relation to the definition of consent",
+ "status": "Committee",
+ "sponsors": [
+  "Amanda C. Farías",
+  "Virginia Maloney",
+  "Jennifer Gutiérrez"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 648",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932082&GUID=D3ED4C26-D4FB-4DDD-9AF8-07D4A4899325"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933206&GUID=2049D82A-5160-4A26-A67D-A0ECA30C5B80"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8237323&GUID=001EAA69-EF16-456A-99D4-718008F1FBB8"
+}

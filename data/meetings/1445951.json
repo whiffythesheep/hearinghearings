@@ -1,0 +1,81 @@
+{
+ "event_id": "1445951",
+ "date": "2026-09-24",
+ "body": "Committee on Children and Youth",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445951&GUID=6E435C71-1ADB-4BBF-B049-303994EB782C&Search=",
+ "items": [
+  {
+   "file_number": "Res 0142-2026",
+   "type": "Resolution",
+   "name": "Establish the Center for Fatherhood Initiatives under the Office of Children and Family Services.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Proposed Res. No. 142-A",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862778",
+   "legistar_guid": "A909ABEA-4ED8-445B-A3DA-CB6BBDC06431"
+  },
+  {
+   "file_number": "Res 0142-2026",
+   "type": "Resolution",
+   "name": "Establish the Center for Fatherhood Initiatives under the Office of Children and Family Services.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7862778",
+   "legistar_guid": "A909ABEA-4ED8-445B-A3DA-CB6BBDC06431"
+  },
+  {
+   "file_number": "Res 0142-2026",
+   "type": "Resolution",
+   "name": "Establish the Center for Fatherhood Initiatives under the Office of Children and Family Services.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7862778",
+   "legistar_guid": "A909ABEA-4ED8-445B-A3DA-CB6BBDC06431"
+  },
+  {
+   "file_number": "Res 0142-2026",
+   "type": "Resolution",
+   "name": "Establish the Center for Fatherhood Initiatives under the Office of Children and Family Services.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7862778",
+   "legistar_guid": "A909ABEA-4ED8-445B-A3DA-CB6BBDC06431",
+   "tally": {
+    "Affirmative": 3,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Absent"
+    }
+   ]
+  }
+ ]
+}

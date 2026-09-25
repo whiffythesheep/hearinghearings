@@ -1,0 +1,107 @@
+{
+ "event_id": "1446055",
+ "date": "2026-09-24",
+ "body": "Committee on Finance",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1446055&GUID=9BE42729-5BAC-4F23-8277-42E38C8CC6A0&Search=",
+ "items": [
+  {
+   "file_number": "Res 0652-2026",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8219009",
+   "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0"
+  },
+  {
+   "file_number": "Res 0652-2026",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8219009",
+   "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 5
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Absent"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Absent"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Absent"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  }
+ ]
+}

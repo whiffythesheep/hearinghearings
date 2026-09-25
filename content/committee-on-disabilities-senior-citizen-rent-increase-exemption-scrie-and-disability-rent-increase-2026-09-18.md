@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Disabilities"
+committee: "Committee on Disabilities | Committee on Aging | Committee on Finance"
 committee_slug: committee-on-disabilities
 title: "Senior Citizen Rent Increase Exemption (SCRIE) and Disability Rent Increase Exemption (DRIE)"
 date: 2026-09-18
@@ -9,7 +9,7 @@ youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260918-111636.mp4"
 viebit_hash: "sr3ONiNt7wYvaZKY"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1432086&GUID=3F7A1789-9D1A-4F0C-A6AD-D5BBCBDB44C4&Search="
-chairs: "Shahana K. Hanif"
+chairs: "Shahana K. Hanif | Susan Zhuang | Linda Lee"
 members: "Tiffany L. Cabán, Harvery Epstein, Rita C. Joseph, Sandy Nurse"
 ---
 

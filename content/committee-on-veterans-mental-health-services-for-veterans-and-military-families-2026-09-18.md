@@ -1,5 +1,5 @@
 ---
-committee: "Committee on Veterans"
+committee: "Committee on Veterans | Committee on Mental Health and Substance Use"
 committee_slug: committee-on-veterans
 title: "Mental Health Services for Veterans and Military Families"
 date: 2026-09-18
@@ -9,7 +9,7 @@ youtube_url: ""
 viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260918-130908.mp4"
 viebit_hash: "7Z5huurY7dgjpvDl"
 council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440713&GUID=A195C799-8414-47D0-BF9B-2DA1CA0B35F6&Search="
-chairs: "Frank Morano"
+chairs: "Frank Morano | Tiffany L. Cabán"
 members: "Carmen N. De La Rosa, James F. Gennaro, Vickie Paladino, Phil Wong"
 ---
 

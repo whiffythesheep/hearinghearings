@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0651-2026",
+ "slug": "res-0651-2026",
+ "legistar_id": "8237341",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, A.9033-A/S.8960-A, in relation to enacting the “Extreme Weather Tenant Protection Act”",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 651",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932121&GUID=A6C5EB0E-DD20-4982-8E43-5976BB79E78F"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933214&GUID=8551E60F-9789-417B-8836-4A03019DFD0A"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8237341&GUID=9EDA5AD5-943A-4CAB-8EE6-19705C7AB300"
+}

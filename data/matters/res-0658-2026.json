@@ -1,0 +1,41 @@
+{
+ "file_number": "Res 0658-2026",
+ "slug": "res-0658-2026",
+ "legistar_id": "8237427",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.10133/A.9190, which prohibits the use of most artificial intelligence in classrooms prior to high school",
+ "status": "Committee",
+ "sponsors": [
+  "Phil Wong",
+  "Alexa Avilés"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 658",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932354&GUID=A60B349D-8D7C-4E44-847C-D8DB9AAB971F"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933235&GUID=13042F0E-6D7E-4DB7-AB38-38E0D17EE620"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8237427&GUID=ECAA6A32-AB19-4573-B1DC-D9E2D652C308"
+}

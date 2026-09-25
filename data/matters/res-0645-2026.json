@@ -1,0 +1,53 @@
+{
+ "file_number": "Res 0645-2026",
+ "slug": "res-0645-2026",
+ "legistar_id": "8237318",
+ "type": "Resolution",
+ "title": "Resolution calling on the United States Congress to repeal the nutrition provisions in H.R.1 of the 119th Congress, the “One Big Beautiful Bill\" (OBBA) that create obstacles to access federal food assistance and restrict eligibility for the Supplemental Nutrition Assistance Program.",
+ "status": "Committee",
+ "sponsors": [
+  "Harvey D. Epstein",
+  "Tiffany L. Cabán",
+  "Amanda C. Farías",
+  "Julie Won",
+  "Kevin C. Riley",
+  "Alexa Avilés",
+  "Gale A. Brewer",
+  "Linda Lee",
+  "Farah N. Louis",
+  "Eric Dinowitz",
+  "Mercedes Narcisse",
+  "Lynn C. Schulman",
+  "Virginia Maloney",
+  "Ty Hankerson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 645",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932070&GUID=AA567062-7DE7-46D7-8610-531C20CC348E"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933202&GUID=0FDE2A64-DAE4-4D03-BD28-C75BD5D28DB2"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8237318&GUID=90390EE7-A598-4529-8302-9696DB492C36"
+}
