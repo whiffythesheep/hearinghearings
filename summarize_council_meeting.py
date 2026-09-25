@@ -678,6 +678,52 @@ def supplement_chairs_via_lookup(committees_str, chairs_str, lookup):
     return " | ".join(chairs)
 
 
+def committees_from_joint_location(location, known_committees):
+    """Return the co-committees named in a Legistar "Jointly with ..." location.
+
+    The agenda read (Claude) sometimes misses co-committees that Legistar's
+    "Meeting location" field states outright -- three joint hearings in one
+    week of September 2026 published as single-committee. Names are split on
+    "the Committee on" boundaries and matched to `known_committees` (the
+    roster) rather than parsed, because committee names contain commas and
+    "and". Legistar also truncates long locations mid-name ("... Mental Health
+    and Substance."), so a fragment matches any known name it prefixes, as
+    long as the match is unique.
+    """
+    m = re.search(r"jointly with\s+(.*)", location or "", re.I | re.S)
+    if not m:
+        return []
+    fragments = re.split(r"\b(?=(?:Sub)?[Cc]ommittee on\b)", m.group(1))
+    by_key = {normalize_committee_name(c): c for c in known_committees}
+    found = []
+    for frag in fragments:
+        key = normalize_committee_name(frag)
+        key = re.sub(r"(?:\s+(?:and|the))+$", "", key).strip()
+        if not re.match(r"(?:sub)?committee on \S", key):
+            continue
+        if key in by_key:
+            matches = [by_key[key]]
+        else:
+            matches = [name for k, name in by_key.items() if k.startswith(key)]
+        if len(matches) == 1:
+            found.append(matches[0])
+        else:
+            logger.warning(f"  Could not match joint committee {frag.strip()!r} "
+                           f"to the roster ({len(matches)} candidates)")
+    return found
+
+
+def add_joint_committees(committees_str, location, known_committees):
+    """Append co-committees from the Legistar location that the agenda read missed."""
+    committees = [c.strip() for c in committees_str.split(" | ") if c.strip()]
+    have = {normalize_committee_name(c) for c in committees}
+    for name in committees_from_joint_location(location, known_committees):
+        if normalize_committee_name(name) not in have:
+            committees.append(name)
+            have.add(normalize_committee_name(name))
+    return " | ".join(committees)
+
+
 def format_duration(duration_s):
     """Format a duration in seconds as a human-readable string."""
     if not duration_s:
@@ -2401,6 +2447,7 @@ def main():
     chairs = ""
     members = ""
     agenda_topic = ""
+    legistar_location = ""
 
     # --legistar-url scrapes council.nyc.gov to auto-fill the manual
     # inputs. Explicit flags still win — we only fill what's empty.
@@ -2416,6 +2463,7 @@ def main():
             args.agenda_pdf = str(event["agenda_path"])
         if not args.council_url:
             args.council_url = event["council_url"]
+        legistar_location = event.get("location", "")
         if (
             not args.viebit_url
             and not args.youtube_url
@@ -2572,6 +2620,18 @@ def main():
         committee_name, meeting_date, chairs, members, agenda_topic = (
             extract_agenda_metadata(agenda_text, client)
         )
+
+    # Legistar's location field names every co-committee of a joint hearing;
+    # the agenda read sometimes misses them. Must run before the chair
+    # fill-in below so the added committees get their chairs.
+    if legistar_location and committee_name != "City Council":
+        roster = _load_council_roster() or {}
+        joint = add_joint_committees(committee_name, legistar_location,
+                                     roster.get("committees", {}))
+        if joint != committee_name:
+            logger.info(f"  Added co-committees from Legistar location: "
+                        f"{committee_name!r} -> {joint!r}")
+            committee_name = joint
 
     # For joint hearings, the agenda only lists the lead committee's chair. Fill in
     # co-committee chairs from prior single-committee hearings in our archive.

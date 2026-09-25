@@ -40,7 +40,9 @@ from pathlib import Path
 import pdfplumber
 import requests
 
-from council_scraper import BROWSER_HEADERS, LEGISTAR_HOST, list_calendar_events
+from council_scraper import (
+    BROWSER_HEADERS, LEGISTAR_HOST, labelled_field, list_calendar_events,
+)
 
 REPO_ROOT = Path(__file__).parent
 DATA_DIR = REPO_ROOT / "data"
@@ -153,25 +155,6 @@ def table_rows(page_html):
     p = _Rows()
     p.feed(page_html)
     return p.rows
-
-
-def labelled_field(page_html, label):
-    """Pull a `Label: <span>value</span>` field off a Legistar detail page.
-
-    Try the span wrapper before the anchor one. Several values nest a link
-    inside the span ("Linda Lee" inside Sponsors, which also carries
-    "(by request of the Mayor)"), and matching the anchor first closes the
-    capture early and silently truncates the value.
-    """
-    for tag in ("span", "a"):
-        m = re.search(
-            rf">{re.escape(label)}:?\s*<[^>]*>.{{0,400}}?<{tag}[^>]*>(.*?)</{tag}>",
-            page_html, re.S,
-        )
-        if m:
-            return re.sub(r"\s+", " ",
-                          re.sub(r"<[^>]+>", " ", html.unescape(m.group(1)))).strip()
-    return ""
 
 
 # --- meeting discovery --------------------------------------------------

@@ -28,6 +28,7 @@ Entry points:
 from __future__ import annotations
 
 import base64
+import html as html_lib
 import logging
 import re
 import urllib.parse as up
@@ -80,6 +81,25 @@ def _decode_video_url(html: str) -> str | None:
         return None
 
 
+def labelled_field(page_html, label):
+    """Pull a `Label: <span>value</span>` field off a Legistar detail page.
+
+    Try the span wrapper before the anchor one. Several values nest a link
+    inside the span ("Linda Lee" inside Sponsors, which also carries
+    "(by request of the Mayor)"), and matching the anchor first closes the
+    capture early and silently truncates the value.
+    """
+    for tag in ("span", "a"):
+        m = re.search(
+            rf">{re.escape(label)}:?\s*<[^>]*>.{{0,400}}?<{tag}[^>]*>(.*?)</{tag}>",
+            page_html, re.S,
+        )
+        if m:
+            return re.sub(r"\s+", " ",
+                          re.sub(r"<[^>]+>", " ", html_lib.unescape(m.group(1)))).strip()
+    return ""
+
+
 def _download_agenda(event_id: str, event_guid: str, dest_dir: Path) -> Path:
     """Download and cache the agenda PDF for an event."""
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -108,6 +128,10 @@ def scrape_event(legistar_url: str, *, agenda_cache_dir: Path) -> dict:
     html = r.text
 
     video_url = _decode_video_url(html)
+    # "Council Chambers - City Hall Jointly with the Committee on X ..." --
+    # the authoritative record of a joint hearing's co-committees, which
+    # the agenda PDF does not always spell out.
+    location = labelled_field(html, "Meeting location")
     agenda_path = _download_agenda(event_id, event_guid, agenda_cache_dir)
 
     return {
@@ -119,6 +143,7 @@ def scrape_event(legistar_url: str, *, agenda_cache_dir: Path) -> dict:
         ),
         "agenda_path": agenda_path,
         "video_url": video_url,
+        "location": location,
     }
 
 
