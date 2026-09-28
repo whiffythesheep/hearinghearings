@@ -2,6 +2,7 @@
 
 import html as html_mod
 import json
+import hashlib
 import os
 import re
 import shutil
@@ -521,6 +522,14 @@ def build():
 
     # Set up Jinja2
     env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), autoescape=True)
+    # Cache-busting: browsers keep /static/ files for hours, so a restyle
+    # would otherwise pair new pages with an old stylesheet. The ?v= changes
+    # whenever a file's content does.
+    def asset_version(name):
+        path = os.path.join(STATIC_DIR, name)
+        with open(path, "rb") as f:
+            return hashlib.sha256(f.read()).hexdigest()[:10]
+    env.globals["asset_version"] = asset_version
     env.filters["plain"] = record.plain_action
 
     hearings = load_content()
