@@ -37,6 +37,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860076&GUID=D08C6794-F197-45C8-86C5-DD88092B540F"
   },
   {
+   "label": "Hearing Testimony 9/18/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954867&GUID=3B541BDF-ECC5-4D82-843C-66F43F9ED1D0"
+  },
+  {
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933195&GUID=59A89943-5CE7-4B0C-BBC5-E74CCE2B2BEF"
@@ -68,7 +73,7 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

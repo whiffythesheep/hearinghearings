@@ -36,13 +36,7 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
-  },
-  {
-   "date": "2026-09-24",
-   "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": ""
   },
   {
@@ -50,6 +44,12 @@
    "body": "Committee on Land Use",
    "action": "Approved by Committee with Modifications and Referred to CPC",
    "result": "Pass"
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",

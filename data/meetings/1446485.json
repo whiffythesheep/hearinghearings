@@ -4,7 +4,7 @@
  "body": "City Council",
  "location": "Council Chambers - City Hall",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1446485&GUID=78945701-A7E5-463C-8308-538003C9A671&Search=",
  "items": [
   {
@@ -13,10 +13,221 @@
    "name": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Amended and Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved by Council",
+   "result": "Pass",
    "legistar_id": "7862037",
-   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D"
+   "legistar_guid": "38FFEA8C-AA8A-4202-AE45-9AA39ADE812D",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0652-2026",
@@ -24,10 +235,221 @@
    "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered – Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8219009",
-   "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0"
+   "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 0248-2026",
@@ -35,10 +457,221 @@
    "name": "Streamlining enrollment of eligible individuals in fair fares.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Amended and Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved by Council",
+   "result": "Pass",
    "legistar_id": "7862039",
-   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947"
+   "legistar_guid": "94F9F018-AA6F-493C-9710-FEB9CD4CA947",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 1015-2026",
@@ -46,10 +679,221 @@
    "name": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
    "sponsor": "Pierina Ana Sanchez",
    "agenda_note": "Amended and Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved by Council",
+   "result": "Pass",
    "legistar_id": "8170174",
-   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5"
+   "legistar_guid": "E4548646-30AC-40A4-9FB3-041B84F3C0A5",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 0833-2026",
@@ -57,10 +901,221 @@
    "name": "Restrictions on the location of buildings and other structures on Eastern parkway.",
    "sponsor": "Sandy Nurse",
    "agenda_note": "Amended and Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved by Council",
+   "result": "Pass",
    "legistar_id": "7984638",
-   "legistar_guid": "6E084C05-974A-4B53-BBB4-6D06ECBDA6AB"
+   "legistar_guid": "6E084C05-974A-4B53-BBB4-6D06ECBDA6AB",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0120-2026",
@@ -68,10 +1123,221 @@
    "name": "Zoning, 815 Hutchinson River Parkway Rezoning, Bronx (C 240161 ZMX).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8163066",
-   "legistar_guid": "ABFD4794-0B2C-49EB-BB7A-F50D34AD15CA"
+   "legistar_guid": "ABFD4794-0B2C-49EB-BB7A-F50D34AD15CA",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0659-2026",
@@ -79,10 +1345,221 @@
    "name": "LU 120 - Zoning, 815 Hutchinson River Parkway Rezoning, Bronx (C 240161 ZMX).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8237733",
-   "legistar_guid": "782C98B5-BDA2-401B-B568-D60997B05B87"
+   "legistar_guid": "782C98B5-BDA2-401B-B568-D60997B05B87",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0121-2026",
@@ -90,10 +1567,221 @@
    "name": "Zoning, 862-868 Kent Avenue, Brooklyn (C 240283 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8163067",
-   "legistar_guid": "B3DE75FB-3F17-44F6-A261-AEC93B0CA754"
+   "legistar_guid": "B3DE75FB-3F17-44F6-A261-AEC93B0CA754",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0660-2026",
@@ -101,10 +1789,221 @@
    "name": "LU 121 - Zoning, 862-868 Kent Avenue, Brooklyn (C 240283 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8237731",
-   "legistar_guid": "5E4C104F-12B1-488E-9AC5-D1C1384C71D2"
+   "legistar_guid": "5E4C104F-12B1-488E-9AC5-D1C1384C71D2",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0122-2026",
@@ -112,10 +2011,221 @@
    "name": "Zoning, 862-868 Kent Avenue, Brooklyn (N 240284 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8163077",
-   "legistar_guid": "2273089B-CD54-499A-A63E-6103D776F2D0"
+   "legistar_guid": "2273089B-CD54-499A-A63E-6103D776F2D0",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0661-2026",
@@ -123,10 +2233,221 @@
    "name": "LU 122 - Zoning, 862-868 Kent Avenue, Brooklyn (N 240284 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Coupled on General Orders",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8237732",
-   "legistar_guid": "9D318BB1-F825-492A-BBDD-93F65E5F4653"
+   "legistar_guid": "9D318BB1-F825-492A-BBDD-93F65E5F4653",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0123-2026",
@@ -134,7 +2455,7 @@
    "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (C 260171 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8163078",
    "legistar_guid": "4C5B7D3E-2FCE-4122-BCFE-2B6C212D4F17"
@@ -145,7 +2466,7 @@
    "name": "Zoning, 158-06 Northern Boulevard Rezoning, Queens (N 260172 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8163098",
    "legistar_guid": "9BB24F0E-70DA-4D76-9C9F-521E3DB45861"
@@ -156,7 +2477,7 @@
    "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (C 260135 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8163100",
    "legistar_guid": "256F292D-B174-4FD3-A583-E873FB1F0BFC"
@@ -167,7 +2488,7 @@
    "name": "Zoning, 132 Melrose Street Rezoning, Brooklyn (N 260136 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8163109",
    "legistar_guid": "BF78728D-8E80-4EE6-829E-7A1C1077795A"
@@ -178,7 +2499,7 @@
    "name": "Zoning, 21-31 46th Ave Rezoning, Queens (C 250125 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8170200",
    "legistar_guid": "1AA1F0DE-6F60-4279-9CBB-037985BC983B"
@@ -189,7 +2510,7 @@
    "name": "Zoning, 21-31 46th Ave Rezoning, Queens (N 250126 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": "",
    "legistar_id": "8170201",
    "legistar_guid": "51C9C670-E901-4F11-B29F-D33A068B997F"
@@ -200,10 +2521,221 @@
    "name": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
-   "result": "",
+   "action": "Disapproved by Council",
+   "result": "Pass",
    "legistar_id": "8207002",
-   "legistar_guid": "75CF2FF0-30A0-4CF3-B961-A1C876C7F44E"
+   "legistar_guid": "75CF2FF0-30A0-4CF3-B961-A1C876C7F44E",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0662-2026",
@@ -211,10 +2743,221 @@
    "name": "LU 141 - Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Motion to Disapprove",
-   "action": "",
-   "result": "",
+   "action": "Disapproved by Council",
+   "result": "Pass",
    "legistar_id": "8237734",
-   "legistar_guid": "B0364648-211F-4CC4-8D94-0490F9041274"
+   "legistar_guid": "B0364648-211F-4CC4-8D94-0490F9041274",
+   "tally": {
+    "Affirmative": 46,
+    "Absent": 4,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Julie Menin",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Harvey D. Epstein",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Inna Vernikov",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Julie Won",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 0246-2026",
@@ -365,8 +3108,8 @@
    "name": "Establish the Center for Fatherhood Initiatives under the Office of Children and Family Services.",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Amended and Adopted by the Committee on Children and Youth",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "7862778",
    "legistar_guid": "A909ABEA-4ED8-445B-A3DA-CB6BBDC06431"
   },
@@ -376,8 +3119,8 @@
    "name": "Declaring October 3 as Korean Cultural Awareness Day annually in the City of New York.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "7879095",
    "legistar_guid": "C6D797DF-2C9E-4A9E-A43E-9BA6908BC004"
   },
@@ -387,8 +3130,8 @@
    "name": "Declaring the month of August as Black Pride Month.",
    "sponsor": "Althea V. Stevens",
    "agenda_note": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8170169",
    "legistar_guid": "0ED20E2F-B782-4EE5-BDAD-E9AAEB714A35"
   },
@@ -398,8 +3141,8 @@
    "name": "Declaring September as African Immigrant Heritage Month.",
    "sponsor": "Althea V. Stevens",
    "agenda_note": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8170167",
    "legistar_guid": "52545694-FC3D-426F-8C04-41E9D3DBA77B"
   },
@@ -409,7 +3152,7 @@
    "name": "Study of safe delivery times by contracted delivery workers and the promulgation of safe delivery time standards.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "Consumer and Worker Protection",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8223711",
    "legistar_guid": "DFD67A5C-A443-4615-B9C0-78C0770309BC"
@@ -420,7 +3163,7 @@
    "name": "Establishing a low-traffic neighborhood pilot program.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "Transportation and Infrastructure",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237248",
    "legistar_guid": "B58EB80A-A86D-42D9-8894-D5162D604D79"
@@ -431,7 +3174,7 @@
    "name": "Delayed repairs to sidewalks damaged by city-owned trees.",
    "sponsor": "Shirley Aldebol",
    "agenda_note": "Parks and Recreation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237247",
    "legistar_guid": "271D7C40-64C7-44C8-AD36-AB8C24F11E61"
@@ -442,7 +3185,7 @@
    "name": "The dissemination of information on the rent freeze program and training for participating agencies.",
    "sponsor": "Chris Banks",
    "agenda_note": "Preconsidered - Finance",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8207563",
    "legistar_guid": "9839F73C-0E53-4733-B8C6-E48573551EC7"
@@ -453,7 +3196,7 @@
    "name": "Requests for tree planting on city property.",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "Parks and Recreation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237254",
    "legistar_guid": "80852AA1-6924-4DA1-A5C1-1FEB059E77EB"
@@ -464,7 +3207,7 @@
    "name": "Ensuring minimum scheduling flexibility for the health and safety of contracted delivery workers.",
    "sponsor": "Tiffany L. Cabán",
    "agenda_note": "Consumer and Worker Protection",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237253",
    "legistar_guid": "F8987CEB-AA50-4257-A409-3FCD49B6C210"
@@ -475,7 +3218,7 @@
    "name": "Prohibiting candidates from appearing in certain government-funded third-party communications during an election campaign.",
    "sponsor": "David M. Carr",
    "agenda_note": "Preconsidered - Governmental Operations, State & Federal Legislation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8212694",
    "legistar_guid": "6E41A22E-F230-499D-BDA0-16D40702D82B"
@@ -486,7 +3229,7 @@
    "name": "Reporting on third-party public communications.",
    "sponsor": "David M. Carr",
    "agenda_note": "Preconsidered - Governmental Operations, State & Federal Legislation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8210981",
    "legistar_guid": "3A9D9537-05B1-4103-AD6F-DDF81D6EE1D7"
@@ -497,7 +3240,7 @@
    "name": "Limiting the circumstances in which a person may be detained by the police department on a civil immigration detainer.",
    "sponsor": "Elsie Encarnación",
    "agenda_note": "Immigration",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237314",
    "legistar_guid": "2A3ABEF8-C08D-4D37-8878-8C22CB0E3D0F"
@@ -508,7 +3251,7 @@
    "name": "Limiting communication between the department of correction and federal immigration authorities.",
    "sponsor": "Elsie Encarnación",
    "agenda_note": "Immigration",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237315",
    "legistar_guid": "C5AA98B0-C209-4915-8856-EBCFB25FDAD9"
@@ -519,7 +3262,7 @@
    "name": "“One Big Beautiful Bill\" (OBBA) H.R.1.",
    "sponsor": "Harvey D. Epstein",
    "agenda_note": "General Welfare",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237318",
    "legistar_guid": "90390EE7-A598-4529-8302-9696DB492C36"
@@ -530,7 +3273,7 @@
    "name": "Reporting on a hotline for survivors of gender-based violence.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Women and Gender Equity",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8219720",
    "legistar_guid": "5F19750C-E875-4E56-9915-E78BF37361BB"
@@ -541,7 +3284,7 @@
    "name": "Declaring October as Hindu American Awareness and Appreciation Month.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Cultural Affairs, Libraries and International Relations",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237316",
    "legistar_guid": "6E01FD3C-71C0-40B1-9F7D-B0093BBD4FC7"
@@ -552,7 +3295,7 @@
    "name": "Declaring Consent Awareness Week in the City of New York during the third week of September.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Women and Gender Equity",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237317",
    "legistar_guid": "C6C698F1-B166-4664-954C-158B6359AFA6"
@@ -563,7 +3306,7 @@
    "name": "The definition of consent. (S.5521/A.1140)",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Women and Gender Equity",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237323",
    "legistar_guid": "001EAA69-EF16-456A-99D4-718008F1FBB8"
@@ -574,7 +3317,7 @@
    "name": "Requiring disclosures on third-party public communications paid for with government resources.",
    "sponsor": "Oswald J. Feliz",
    "agenda_note": "Preconsidered - Governmental Operations, State & Federal Legislation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8212693",
    "legistar_guid": "12097868-3EEC-4624-ACDF-53F6D015DF63"
@@ -585,7 +3328,7 @@
    "name": "Port Authority of New York and New Jersey to offer an AirTrain JFK fare discount package to John F. Kennedy International Airport employees.",
    "sponsor": "James F. Gennaro",
    "agenda_note": "Transportation and Infrastructure",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237322",
    "legistar_guid": "373B2357-BFA0-451F-AA94-C3700F6287B5"
@@ -596,7 +3339,7 @@
    "name": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
    "sponsor": "Jennifer Gutiérrez",
    "agenda_note": "Education",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8223442",
    "legistar_guid": "3A6A6BC1-67CD-44D1-B406-9AC56C4CE8AD"
@@ -607,7 +3350,7 @@
    "name": "Requiring the department of sanitation to clear certain bus stops and bus shelters of snow and ice and to establish a public online map to track the status of snow clearance from bus stops and bus shelters.",
    "sponsor": "Shahana K. Hanif",
    "agenda_note": "Sanitation and Solid Waste Management",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237324",
    "legistar_guid": "07CAE3D1-D26E-4388-B674-E80ECE0CC585"
@@ -618,7 +3361,7 @@
    "name": "Annual reporting on participation by city households in the housing choice voucher homeownership program.",
    "sponsor": "Ty Hankerson",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237340",
    "legistar_guid": "5605D515-2DA8-48BD-B018-7A04BE98BB94"
@@ -629,7 +3372,7 @@
    "name": "Designating financial literacy advisors to serve in older adult centers.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Aging",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237342",
    "legistar_guid": "1644F9F6-9AC5-423C-B307-4CEDFF48CED7"
@@ -640,7 +3383,7 @@
    "name": "Automatic enrollment in city-created property tax payment plans.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Finance",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237343",
    "legistar_guid": "5F201CF9-825F-4751-A266-4B9392CD1499"
@@ -651,7 +3394,7 @@
    "name": "“Extreme Weather Tenant Protection Act”. (A.9033-A/S.8960-A)",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237341",
    "legistar_guid": "9EDA5AD5-943A-4CAB-8EE6-19705C7AB300"
@@ -662,7 +3405,7 @@
    "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered - Finance",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8219009",
    "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0"
@@ -673,7 +3416,7 @@
    "name": "Increasing fees charged to buildings not discharged from the alternative enforcement program within the first four months of an initial notice.",
    "sponsor": "Farah N. Louis",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237349",
    "legistar_guid": "44E43F86-151D-4C1E-A500-CC881E0F4912"
@@ -684,7 +3427,7 @@
    "name": "An expansion of the alternative enforcement program.",
    "sponsor": "Farah N. Louis",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237383",
    "legistar_guid": "FB454A4E-1D34-4850-BAA4-3327AD94C97B"
@@ -695,7 +3438,7 @@
    "name": "Requiring sexual assault prevention and response protocols for large public events.",
    "sponsor": "Virginia Maloney",
    "agenda_note": "Public Safety",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237384",
    "legistar_guid": "E1399343-410A-444D-86C4-F16CF9843593"
@@ -706,7 +3449,7 @@
    "name": "Informational toolkit on available programs, benefits, and services for older adults.",
    "sponsor": "Darlene Mealy",
    "agenda_note": "Preconsidered - Aging",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8207446",
    "legistar_guid": "BAE5D00B-2045-4B5A-9C2A-F82225ABC20E"
@@ -717,7 +3460,7 @@
    "name": "Creating an office of assistance for 9/11 first responders and survivors.",
    "sponsor": "Frank Morano",
    "agenda_note": "Governmental Operations, State & Federal Legislation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237398",
    "legistar_guid": "7967E965-0D25-4546-B29B-B7B4B017AC79"
@@ -728,7 +3471,7 @@
    "name": "A landlord portal for rental assistance programs.",
    "sponsor": "Frank Morano",
    "agenda_note": "Preconsidered - General Welfare",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8211228",
    "legistar_guid": "EA9F5FE6-4CB6-40DE-850E-3ABCE2EBC3FF"
@@ -739,7 +3482,7 @@
    "name": "Amend the tax law in relation to increasing the amount of a tax credit for automated external defibrillators(A.6811).",
    "sponsor": "Frank Morano",
    "agenda_note": "Health",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237397",
    "legistar_guid": "FBE083EA-D93C-42A1-A775-6709A6FB2027"
@@ -750,7 +3493,7 @@
    "name": "Protect veterans against source of income discrimination and prevent homelessness among those who served the United States (S.2827/H.R.5443).",
    "sponsor": "Frank Morano",
    "agenda_note": "Veterans",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237399",
    "legistar_guid": "D962D934-01F8-47C6-8414-53AD8BC694F0"
@@ -761,7 +3504,7 @@
    "name": "Notice of tax lien applicability of certain violations issued by the department of buildings.",
    "sponsor": "Mercedes Narcisse",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237404",
    "legistar_guid": "D76651EE-37D2-402B-9976-F916072E8485"
@@ -772,7 +3515,7 @@
    "name": "Establishing a pilot program to waive license fees for sidewalk cafes and roadway cafes in certain council districts.",
    "sponsor": "Justin E. Sanchez",
    "agenda_note": "Transportation and Infrastructure",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237405",
    "legistar_guid": "BF399C86-C25B-4D5D-AB6C-FA1D93942524"
@@ -783,7 +3526,7 @@
    "name": "Comprehensive reporting on the CityFHEPS program.",
    "sponsor": "Pierina Ana Sanchez",
    "agenda_note": "Withdrawn",
-   "action": "",
+   "action": "Withdrawn",
    "result": "",
    "legistar_id": "8211171",
    "legistar_guid": "185D2E06-8A83-4DC4-9C64-3D9149BB895F"
@@ -794,7 +3537,7 @@
    "name": "Reporting Legionella test results to the department of health and mental hygiene.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "Health",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237419",
    "legistar_guid": "7698EE05-634E-4EF4-9CB9-C11047E0604C"
@@ -805,7 +3548,7 @@
    "name": "FIFA to pay New York City the $1 million “legacy contribution” promised for hosting the 2026 World Cup.",
    "sponsor": "Shanel Thomas-Henry",
    "agenda_note": "Economic Development",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237417",
    "legistar_guid": "C30FF305-DBC4-445A-8BA0-4668E0B55EEE"
@@ -816,7 +3559,7 @@
    "name": "Calling on the MTA to initiate a capital project to construct a deck over portions of the Long Island Rail Road Port Washington Branch open cut between Flushing and Murray Hill, Queens, to create usable space and improve neighborhood connectivity.",
    "sponsor": "Sandra Ung",
    "agenda_note": "Transportation and Infrastructure",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237420",
    "legistar_guid": "A06D4550-43A6-4C45-A862-77B31169165D"
@@ -827,7 +3570,7 @@
    "name": "Requiring the department of environmental protection to establish an adopt-a-catch basin program.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "Environmental Protection and Waterfronts",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237421",
    "legistar_guid": "3A5F9F29-2F3F-4753-A2B0-189D9FF48EB6"
@@ -838,7 +3581,7 @@
    "name": "Establishing a public outreach and education program to assist homeowners at risk of displacement.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237418",
    "legistar_guid": "7D3872B3-A935-4548-BBB2-8F33C9546002"
@@ -849,7 +3592,7 @@
    "name": "Requiring the department of buildings to submit a report on the racial, geographic, and socioeconomic disparities in the enforcement of building violations.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "Housing and Buildings",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237415",
    "legistar_guid": "DFC981E1-7D15-4F17-8FA4-A9C46B287FF8"
@@ -860,7 +3603,7 @@
    "name": "Declaring September 19 as Iota Phi Theta Day.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "Cultural Affairs, Libraries and International Relations",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237416",
    "legistar_guid": "180C3827-789B-47D1-82F6-418480CEA96B"
@@ -871,7 +3614,7 @@
    "name": "Price disclosures by veterinary care facilities and publication of veterinary care facility price information.",
    "sponsor": "Carl Wilson",
    "agenda_note": "Consumer and Worker Protection",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237428",
    "legistar_guid": "D390B6A9-4D1E-4B05-9EC0-0680DBB3A67D"
@@ -882,7 +3625,7 @@
    "name": "Requiring campaign finance disclosures in content posted on internet websites, digital applications, and social media platforms.",
    "sponsor": "Phil Wong",
    "agenda_note": "Preconsidered - Governmental Operations, State & Federal Legislation",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8212692",
    "legistar_guid": "65CCA7B4-EC8D-4C5B-90C3-C2CC98CF0B9B"
@@ -893,7 +3636,7 @@
    "name": "Prohibits the use of most artificial intelligence in classrooms prior to high school (S.10133/A.9190).",
    "sponsor": "Phil Wong",
    "agenda_note": "Education",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8237427",
    "legistar_guid": "ECAA6A32-AB19-4573-B1DC-D9E2D652C308"
@@ -904,7 +3647,7 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (C 220449 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Preconsidered - Zoning & Franchises",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218915",
    "legistar_guid": "0361D427-956A-4965-970B-3E051E076472"
@@ -915,7 +3658,7 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (C 220449 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218915",
    "legistar_guid": "0361D427-956A-4965-970B-3E051E076472"
@@ -926,7 +3669,7 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (N 220450 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Preconsidered - Zoning & Franchises",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218922",
    "legistar_guid": "0334CC0F-B778-4313-9220-27A99D570AB8"
@@ -937,7 +3680,7 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (N 220450 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218922",
    "legistar_guid": "0334CC0F-B778-4313-9220-27A99D570AB8"
@@ -948,7 +3691,7 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (C 250329 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Preconsidered - Zoning & Franchises",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218923",
    "legistar_guid": "9537504C-4537-4A21-8964-9615E9796089"
@@ -959,7 +3702,7 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (C 250329 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218923",
    "legistar_guid": "9537504C-4537-4A21-8964-9615E9796089"
@@ -970,7 +3713,7 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (N 250330 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Preconsidered - Zoning & Franchises",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218930",
    "legistar_guid": "E7510A20-F639-4305-A078-8B63315F0E91"
@@ -981,7 +3724,7 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (N 250330 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": "",
    "legistar_id": "8218930",
    "legistar_guid": "E7510A20-F639-4305-A078-8B63315F0E91"

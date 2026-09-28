@@ -85,6 +85,11 @@
    "label": "Proposed Int. No. 978-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865937&GUID=BB1455CB-6006-44EB-864F-7350089DAB87"
+  },
+  {
+   "label": "Hearing Testimony 9/18/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954834&GUID=5DDA4141-D0C8-4BF6-A72E-C669E18DA89E"
   }
  ],
  "fiscal": {
@@ -112,8 +117,26 @@
  "history": [
   {
    "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amended by Committee",
    "result": ""
   },
   {
@@ -143,30 +166,12 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
    "result": ""
   },

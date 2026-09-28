@@ -22,6 +22,11 @@
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933209&GUID=71DC89AC-21F7-4739-92B8-5AC5432B95BD"
+  },
+  {
+   "label": "Committee Report 9/29/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954137&GUID=C45BAC7C-C81E-4629-849B-2FA49DEF7375"
   }
  ],
  "fiscal": null,
@@ -29,7 +34,7 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

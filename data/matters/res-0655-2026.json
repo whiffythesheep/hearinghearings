@@ -26,9 +26,15 @@
  "fiscal": null,
  "history": [
   {
+   "date": "2026-09-28",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

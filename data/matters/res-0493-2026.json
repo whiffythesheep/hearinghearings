@@ -32,14 +32,19 @@
    "label": "Committee Report 9/18/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866270&GUID=128FD25D-ABD1-41E6-A232-4523264D395D"
+  },
+  {
+   "label": "Hearing Testimony 9/18/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954947&GUID=5B1FACCD-49DB-4822-A7C0-9E129BD9EF0A"
   }
  ],
  "fiscal": null,
  "history": [
   {
    "date": "2026-09-18",
-   "body": "Committee on Veterans",
-   "action": "Hearing Held by Committee",
+   "body": "Committee on Mental Health and Substance Use",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {
@@ -50,14 +55,14 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Mental Health and Substance Use",
+   "body": "Committee on Veterans",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
    "body": "Committee on Veterans",
-   "action": "Laid Over by Committee",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

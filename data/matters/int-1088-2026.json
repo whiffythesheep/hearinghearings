@@ -7,6 +7,7 @@
  "status": "Committee",
  "sponsors": [
   "Darlene Mealy",
+  "Virginia Maloney",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -35,6 +36,11 @@
    "label": "Committee Report 9/18/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860084&GUID=04F6D308-2087-41A4-974D-2A6EF18DA3D0"
+  },
+  {
+   "label": "Hearing Testimony 9/18/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954873&GUID=4C0AD87F-1042-4481-8B72-C80605E875D1"
   },
   {
    "label": "September 24, 2026 - Stated Meeting Agenda",
@@ -68,7 +74,7 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
