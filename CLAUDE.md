@@ -346,6 +346,18 @@ Any failure resets the tree to where it started, so it cannot strand a dirty tre
 
 ## Deployment
 
+**Never commit personal details or secrets.** Keys live only in `.env` (gitignored). A local
+`.git/hooks/pre-commit` (not versioned; recreate it on a fresh clone) refuses commits that add
+the owner's email, API-key/token patterns, private keys, or `.env`/`.wrangler` files. On
+2026-09-28 the whole history was rewritten with `git-filter-repo` to remove the owner's email
+and Windows username (they had been in this file since the first commit) and a `.wrangler`
+cache, then force-pushed. **Every commit hash before `666a0d4` changed**; hashes quoted in older
+notes and memories refer to the pre-rewrite history.
+
+**Static assets are version-stamped.** `base.html` links `site.css` and `table-filter.js` with
+`?v=<content hash>` (`asset_version()` in `build.py`), because Cloudflare serves `/static/` with
+a 4-hour browser cache and a restyle otherwise shows new pages with the old stylesheet.
+
 - GitHub: `whiffythesheep/hearinghearings` (public repo)
 - Host: Cloudflare Pages, build output dir = `site/output/`, no build command
 - DNS: Cloudflare (`hearinghearings.nyc`)
