@@ -37,6 +37,14 @@ PYTHON = sys.executable
 
 logger = logging.getLogger("refresh")
 
+# Deploy site/output straight to Cloudflare Pages with wrangler at the end of
+# every run. Needed while GitHub has the whiffythesheep account flagged
+# (hidden since 2026-09-23): Cloudflare's Git integration gets "Repository not
+# found", so pushes no longer deploy. Set to False once GitHub lifts the flag
+# and Git-triggered deploys work again. Uses the `wrangler login` token stored
+# for this Windows user; `npx.cmd` because PowerShell blocks npx.ps1.
+DIRECT_DEPLOY = True
+
 
 def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
     return subprocess.run(["git", *args], cwd=REPO_ROOT, capture_output=True,
@@ -156,7 +164,25 @@ def main() -> int:
         return 1
 
     git("checkout", "-f", "master", check=False)
+    if DIRECT_DEPLOY and push:
+        deploy_direct()
     return 0
+
+
+def deploy_direct() -> None:
+    """Upload master's site/output to Cloudflare Pages. Never fatal."""
+    if not (REPO_ROOT / "site" / "output" / "index.html").exists():
+        build()
+    res = subprocess.run(
+        ["npx.cmd", "wrangler", "pages", "deploy", "site/output",
+         "--project-name", "hearinghearings", "--branch", "master",
+         "--commit-dirty=true"],
+        cwd=REPO_ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace")
+    tail = (res.stdout + res.stderr).strip().splitlines()[-3:]
+    if res.returncode == 0:
+        logger.info("Direct deploy to Cloudflare done: %s", " | ".join(tail))
+    else:
+        logger.warning("Direct deploy failed (%d): %s", res.returncode, " | ".join(tail))
 
 
 if __name__ == "__main__":

@@ -341,12 +341,37 @@ Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
 Any failure resets the tree to where it started, so it cannot strand a dirty tree for discover.
 
+6. If `DIRECT_DEPLOY` is on, upload master's `site/output` straight to Cloudflare Pages with
+   `npx.cmd wrangler pages deploy` (see Deployment below). Non-fatal.
+
 ## Deployment
 
 - GitHub: `whiffythesheep/hearinghearings` (public repo)
 - Host: Cloudflare Pages, build output dir = `site/output/`, no build command
 - DNS: Cloudflare (`hearinghearings.nyc`)
-- Trigger: any push to `master` auto-deploys
+- Trigger: any push to `master` auto-deploys — **except while GitHub has the account flagged**
+  (see below)
+
+**Outage from 2026-09-23: GitHub flagged the `whiffythesheep` account.** The profile and repo
+return 404 to anyone not logged in as the owner (pushes, PRs and `gh` still work for the
+owner), so Cloudflare's Git integration fails with `remote: Repository not found` and nothing
+deployed for five days before anyone noticed. It was not a Cloudflare or code problem; do not
+uninstall the GitHub app, disconnect the Pages project or create a new one. The user contacted
+GitHub Support on 2026-09-28. Workaround: direct upload, which needs no GitHub:
+
+```bash
+npx.cmd wrangler pages deploy site/output --project-name hearinghearings --branch master
+```
+
+(`npx.cmd`, not `npx`: PowerShell's execution policy blocks `npx.ps1`. The `wrangler login`
+token is stored for this Windows user.) `refresh_record_nightly.py` does this every night while
+`DIRECT_DEPLOY = True`. Once GitHub lifts the flag, retry the latest deployment in Cloudflare;
+if Git deploys work again, set `DIRECT_DEPLOY = False`. PR branch previews do not exist while
+flagged — review pending hearings locally.
+
+**To diagnose "the site isn't updating":** check the live site actually changed after a push
+(never assume), then `curl -o /dev/null -w '%{http_code}' https://github.com/whiffythesheep`
+(404 = account hidden), then the Cloudflare project page and a deployment's build log.
 
 `site/output/` is **committed** to the repo (not gitignored) — this is how Cloudflare Pages serves the pre-built site without running a build step.
 
