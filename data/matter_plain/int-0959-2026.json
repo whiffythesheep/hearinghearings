@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0959-2026",
+ "title": "Law to require yearly report on school AI tools",
+ "summary": "This bill would require the DOE Chancellor to publish policies for approving algorithmic and AI tools used in schools and to issue an annual public report on each approved tool. The report would cover each tool's purpose, cost, data use, bias and privacy assessments, and student and school usage, broken down by grade, subject and student group. The first report would be due within 60 days of the law taking effect, with annual updates by July 31 thereafter.",
+ "model": "claude-sonnet-5",
+ "input_hash": "51844f49ced0c8b2"
+}

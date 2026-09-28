@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0101-2026",
+ "title": "Law to require faster answers on CityFHEPS voucher applications",
+ "summary": "This bill would require the Department of Social Services to tell CityFHEPS rental assistance applicants within 15 days whether their application is approved, denied, or needs more information. It would take effect 90 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "cfdbb1b41786cad2"
+}

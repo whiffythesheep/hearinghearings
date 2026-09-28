@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1028-2026",
+ "title": "Law to simplify store item-pricing rules",
+ "summary": "This bill would repeal a separate item-pricing requirement and instead require all consumer products to display their total price at the point of display, whether by tag or sign. The Department of Consumer and Worker Protection would still inspect stores to make sure prices match what is charged, and overcharging would remain a violation. The law would take effect 180 days after being enacted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "21ab6d513fb46f63"
+}

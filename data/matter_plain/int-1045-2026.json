@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1045-2026",
+ "title": "Law to require backup invoicing when city systems fail",
+ "summary": "This bill would require city agencies to accept invoices through an alternative method when a city electronic invoicing system fails for three or more consecutive business days. Agencies would have to notify contractors within ten business days of any disputed portion of an invoice, and pay the undisputed portion by the required date. The City Chief Procurement Officer would report annually, starting October 1, 2028, on such system issues and affected contractors.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d8a5b2aa613814c0"
+}

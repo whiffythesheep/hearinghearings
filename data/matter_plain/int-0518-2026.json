@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0518-2026",
+ "title": "Law to require licenses for package warehouses and delivery hubs",
+ "summary": "This bill would require operators of last-mile delivery warehouses in New York City to obtain a two-year, $500 license from the Department of Consumer and Worker Protection, with safety, training and employment conditions. It would generally require facility operators to directly employ workers doing core warehouse and delivery work rather than using third-party contractors, with a grace period of up to two years for existing contracts. The city could deny, suspend or revoke licenses for violations, and workers would gain a private right to sue, while operators could face civil penalties up to $1,000 per day.",
+ "model": "claude-sonnet-5",
+ "input_hash": "82153daba79ddc80"
+}

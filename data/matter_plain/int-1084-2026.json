@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1084-2026",
+ "title": "Law to auto-enroll homeowners in property tax payment plans",
+ "summary": "This bill would require the Department of Finance to automatically enroll eligible homeowners in the property tax payment plan that costs them the least, rather than requiring them to sign up themselves. The Commissioner would have to notify affected individuals at least 60 days before their first payment is due and provide a clear opt-out option, with notices available in the city's designated languages. The law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "663f58645f8a8027"
+}

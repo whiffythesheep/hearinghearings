@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Governmental Operations, State & Federal Legislation"
 committee_slug: committee-on-governmental-operations-state-federal-legislation
-title: "Access to City Government and the Mamdani Administration's Civic Engagement Efforts"
+title: "Access to City Government and Civic Engagement"
 date: 2026-09-22
 slug: committee-on-governmental-operations-state-federal-legislation-access-to-city-government-and-the-2026-09-22
 duration: "3hrs 1m"

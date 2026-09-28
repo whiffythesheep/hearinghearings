@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0015-2026",
+ "title": "Law to stop repeat background checks for child care workers",
+ "summary": "This bill would bar the Health Department from requiring another background check for a child care provider, employee or volunteer if one was already completed within the past 5 years. Exceptions apply if the person has been out of city child care work for more than 180 consecutive days or if a check is otherwise required by law. The change is meant to reduce delays caused by the department's background check backlog, which has previously taken up to a year to clear.",
+ "model": "claude-sonnet-5",
+ "input_hash": "61453cbee371c353"
+}

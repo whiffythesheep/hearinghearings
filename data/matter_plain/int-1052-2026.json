@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1052-2026",
+ "title": "Law to expand crash data reporting to all micromobility devices",
+ "summary": "This bill would require the NYPD and Department of Transportation to report crash data for e-bikes, e-scooters and other micromobility devices, not just bicycles. It would require breakdowns by device type and class, injuries, fatalities, location and time, and require DOT to maintain an interactive online map updated at least monthly. The department would also have to submit an annual report to the Council by June 1 each year.",
+ "model": "claude-sonnet-5",
+ "input_hash": "02b07905f5193565"
+}

@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Housing and Buildings"
 committee_slug: committee-on-housing-and-buildings
-title: "Preserving Affordable Housing in Distress and the Third-Party Transfer Program"
+title: "Distressed Housing and the Third-Party Transfer Program"
 date: 2026-03-09
 slug: committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program
 duration: "1hr 26m"

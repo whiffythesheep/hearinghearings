@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0786-2026",
+ "title": "Law to help people in jail fix mail-in ballot errors",
+ "summary": "This bill would require the Correction Department to work with the Board of Elections to set up procedures helping incarcerated voters correct, or cure, defects on their absentee or early mail ballots, and to help them get replacement ballots when a defect cannot be fixed. Starting January 1, 2027, Correction would have to publish an annual report with five years of data on cure notices delivered, cure affirmations returned and ballots rejected. The measure follows findings that in the June 2024 primary only 72 of 364 ballot requests from Rikers Island were ultimately counted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e6b323fea1275fad"
+}

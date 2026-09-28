@@ -1,7 +1,7 @@
 ---
 committee: "Subcommittee on Zoning and Franchises"
 committee_slug: subcommittee-on-zoning-and-franchises
-title: "Rezoning Applications in Bed-Stuy, Bay Ridge, Long Island City and Crotona"
+title: "Rezonings in Bed-Stuy, Bay Ridge, Long Island City and Crotona"
 date: 2026-09-09
 slug: subcommittee-on-zoning-and-franchises-rezoning-applications-in-bed-stuy-bay-ridge-long-island-city-2026-09-09
 duration: "3hrs 38m"

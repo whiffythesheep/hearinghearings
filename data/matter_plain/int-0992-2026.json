@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0992-2026",
+ "title": "Law to update pedicab safety and licensing rules",
+ "summary": "This bill would require pedicabs to use meters instead of timers and to have registration plates with scannable codes showing the pedicab's registration number and business name. It would require DCWP to issue official signs, create a safety training course drivers must complete yearly to get or renew a license, and let drivers pick up licenses in person. The bill also bans loud sound devices on pedicabs and removes jail time as a penalty for pedicab violations, taking effect 180 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9751aba0113edfd6"
+}

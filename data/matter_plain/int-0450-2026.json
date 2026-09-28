@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0450-2026",
+ "title": "Law to limit teen social media use to one hour a day",
+ "summary": "This bill would require social media companies to cap use by anyone under 17 at one hour per day unless a parent or guardian waives the limit in writing. It would also ban targeted advertising and content recommendations aimed at youth. Companies could face a $5,000 fine per violation, and people harmed could sue for damages plus at least $5,000 per incident.",
+ "model": "claude-sonnet-5",
+ "input_hash": "8b884b52e5dd0571"
+}

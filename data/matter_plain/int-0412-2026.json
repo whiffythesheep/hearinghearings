@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0412-2026",
+ "title": "Law to require schools to publish admissions rules online",
+ "summary": "This bill would require the Department of Education to post plain-language admissions policies and procedures for each school on its website, updated at least once per year. It covers the application process, priority groups and selection criteria, and how applications are evaluated. The law would take effect 90 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "195b2f801820181f"
+}

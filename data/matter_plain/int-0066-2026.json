@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0066-2026",
+ "title": "Law to allow new shared housing with private rooms",
+ "summary": "This bill would let developers build \"shared housing\" starting January 1, 2027, where two or more private rooming units share a kitchen and bathroom in new or converted apartment buildings. It sets rules covering room size, occupancy limits, fire protection, cooking equipment, management and building design, adding a new appendix to the building code. Short-term rentals would not be allowed in these shared rooming units.",
+ "model": "claude-sonnet-5",
+ "input_hash": "798d9b4942135d3d"
+}

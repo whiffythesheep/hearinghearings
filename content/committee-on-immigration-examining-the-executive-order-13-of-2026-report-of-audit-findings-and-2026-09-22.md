@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Immigration"
 committee_slug: committee-on-immigration
-title: "Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations"
+title: "Executive Order 13 Audit Findings"
 date: 2026-09-22
 slug: committee-on-immigration-examining-the-executive-order-13-of-2026-report-of-audit-findings-and-2026-09-22
 duration: "2hrs 33m"

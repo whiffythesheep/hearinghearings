@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0738-2026",
+ "title": "Law to require curb extensions at dangerous intersections",
+ "summary": "This bill would require the Department of Transportation to identify intersections most dangerous to pedestrians based on crash history and install curb extensions barring parking within 15 feet of crosswalks. The department would need to implement these extensions at a minimum of five intersections in each borough every year. Curb extensions are meant to increase pedestrian visibility by keeping parked cars away from crosswalks.",
+ "model": "claude-sonnet-5",
+ "input_hash": "a66621b7242c329b"
+}

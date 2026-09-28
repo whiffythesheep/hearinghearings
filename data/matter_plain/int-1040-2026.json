@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1040-2026",
+ "title": "Law requiring report on Parks Department staffing and contracts",
+ "summary": "This bill would require the Department of Parks and Recreation to submit an annual report, starting October 1, 2027, analyzing its staffing levels and contracting practices. The report would detail full-time and part-time staff counts, assess whether staffing is sufficient and evaluate whether contracted work could be replaced with department staff. It would also examine the department's contracts, including their number, duration and value.",
+ "model": "claude-sonnet-5",
+ "input_hash": "4f1ee57343b69397"
+}

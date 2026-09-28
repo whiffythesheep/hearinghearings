@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0989-2026",
+ "title": "Law to require Citi Bike safety incident reporting",
+ "summary": "This bill would require the city's bike share operator agreement to include reporting of safety incidents involving bike share bicycles and e-bikes, including collisions, traffic violations, theft, and vandalism. The Department of Transportation would need to publish compiled safety incident data on its website every six months. The bill would take effect 60 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "1bb0bf57d1295efc"
+}

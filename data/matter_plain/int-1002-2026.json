@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1002-2026",
+ "title": "Law to create a temporary amnesty program for city fine debt",
+ "summary": "This bill would require the Department of Finance to run a temporary 90-day amnesty program, extendable for another 90 days, letting people and businesses resolve outstanding Environmental Control Board judgments. Those with default judgments could pay just the base penalty, while those with adjudicated judgments could pay 75 percent of the imposed penalty, in both cases without interest or default penalties. Certain judgments, such as those tied to enforcement actions, tax liens or criminal investigations, would not qualify, and as of 2025 outstanding ECB judgment debt totaled about $573 million.",
+ "model": "claude-sonnet-5",
+ "input_hash": "377ffcac1f464edd"
+}

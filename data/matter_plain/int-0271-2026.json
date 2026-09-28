@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0271-2026",
+ "title": "Law to speed up tenant help when buildings are vacated",
+ "summary": "This bill would require HPD to send relocation specialists to any building where a vacate order has been issued, offering materials in tenants' preferred language and help accessing their units when safe. If conditions causing the vacate order remain unresolved after the specified time or five days, whichever is longer, HPD would have to start a court proceeding to appoint an administrator to oversee repairs. Landlords would also have to notify tenants of their right to return once conditions are fixed, and the law would take effect 120 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "ca2368b84e429cfc"
+}

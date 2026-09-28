@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0576-2026",
+ "title": "Law to require certified arborists for city tree removals",
+ "summary": "This bill would let the Parks Department issue tree removal permits only when the application names a certified arborist, and would make it unlawful for anyone other than that arborist to remove the tree. Parks would also have to report annually on all city tree removals, including location, whether trees were replaced, whether removals were supervised and whether anyone was held liable for illegal removals. The law would take effect immediately.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9c69f37c1a8ca1ba"
+}

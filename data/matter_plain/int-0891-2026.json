@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0891-2026",
+ "title": "Law to ban personalized surveillance pricing",
+ "summary": "This bill would prohibit any business, online or offline, from charging different prices to different customers based on personal data collected through surveillance technology such as device tracking, cameras or browsing history. It exempts insurance and credit products and pricing based on publicly disclosed eligibility criteria, like loyalty programs, discounts for students, seniors, or low-income consumers. Violations would carry civil penalties from $150 to $1,000, and the law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "27a1e0975ce6066b"
+}

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
-{% block window_title %}Hearing Hearings — Hearing Record{% endblock %}
+{% block window_title %}Hearing Hearings — {% if hearing.kind %}Meeting Record{% else %}Hearing Record{% endif %}{% endblock %}
+{% import "_record.html" as rec %}
 
 {% block content %}
 <a href="/" class="back-link">← All hearings</a>
@@ -36,6 +37,7 @@
         </div>
     </header>
 
+    {% if hearing.summary_html %}
     <section class="hearing-summary">
         <div class="section-header">
             <h2>Meeting overview</h2>
@@ -43,38 +45,23 @@
         </div>
         {{ hearing.summary_html | safe }}
     </section>
+    {% endif %}
 
     {% if hearing.record_items %}
     <section class="hearing-record">
         <div class="section-header">
             <h2>The record</h2>
         </div>
+        {% if hearing.summary_html %}
         <p class="record-note">What the Council did, from Legistar — separate from the summary above,
             which is written from the transcript.</p>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
-                <tbody>
-                {% for item in hearing.record_items %}
-                    <tr>
-                        <td class="num">
-                            {%- if item.matter_slug -%}
-                            <a href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>
-                            {%- else -%}{{ item.file_number }}{%- endif -%}
-                        </td>
-                        <td>{{ item.name }}</td>
-                        <td>{{ item.action or "—" }}</td>
-                        <td>{% if item.result %}<span class="result result--{{ item.result | lower }}">{{ item.result }}</span>{% else %}—{% endif %}</td>
-                        <td class="num">
-                            {%- if item.tally -%}
-                                {{ item.tally.get('Affirmative', 0) }}–{{ item.tally.get('Negative', 0) }}
-                            {%- else -%}—{%- endif -%}
-                        </td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
+        {% elif hearing.kind == "Upcoming" %}
+        <p class="record-note">Scheduled. The agenda below is from Legistar; actions and votes appear once the meeting has taken place.</p>
+        {% else %}
+        <p class="record-note">What the Council did, from Legistar. There is no summary or transcript for this meeting{% if hearing.kind == "Vote session" %} — it was a vote session{% endif %}.</p>
+        {% endif %}
+        {{ rec.items_table(hearing.record_items) }}
+        {{ rec.rollcalls(hearing.voted_items) }}
     </section>
     {% endif %}
 

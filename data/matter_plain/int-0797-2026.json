@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0797-2026",
+ "title": "Law to require jail voter registration reporting",
+ "summary": "This bill would require the Department of Correction to report annually to the mayor, Council speaker and public advocate on voter registration activities in city jails. The report must include the number of voter registration events held, the number of completed voter registration forms returned, disaggregated by facility and demographic factors, and the number of absentee ballots distributed, without including personally identifiable information. The first report would be due by January 31, 2027.",
+ "model": "claude-sonnet-5",
+ "input_hash": "deded1d400c7deab"
+}

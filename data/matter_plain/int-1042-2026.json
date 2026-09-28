@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1042-2026",
+ "title": "Law to publish live snow plow tracking data",
+ "summary": "This bill would require the Department of Sanitation to equip snow plows with GPS and post plowing data online within 5 days of operations, with historical data posted by October 31, 2027. It would also require a public map updated every 15 minutes during snow plowing showing current and past routes by date, storm, borough and district, with overlays for schools, hospitals and other critical facilities.",
+ "model": "claude-sonnet-5",
+ "input_hash": "584adec390b8279f"
+}

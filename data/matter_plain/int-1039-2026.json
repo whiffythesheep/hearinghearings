@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1039-2026",
+ "title": "Law to require biweekly checks on stopped major renovations",
+ "summary": "This bill would require the Department of Buildings to inspect worksites undergoing major renovations that have received a stop work order at least once every two weeks until the violation is fixed. It applies to major demolitions, floor removals or exterior enlargements. Inspections would be conducted jointly by the unit that issued the order and at least two other related units.",
+ "model": "claude-sonnet-5",
+ "input_hash": "422f7c9ae5c8ad2c"
+}

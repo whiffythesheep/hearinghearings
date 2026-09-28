@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "_record.html" as rec %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Committee{% endblock %}
 
@@ -10,7 +11,7 @@
         <p class="record-eyebrow">Committee</p>
         <h1>{{ committee.name }}</h1>
         <div class="record-meta">
-            {% if committee.chair %}<span>Chair: {{ committee.chair }}</span><span class="meta-sep">·</span>{% endif %}
+            {% if committee.chair %}<span>Chair: {% if committee.chair_slug %}<a class="record-link" href="/members/{{ committee.chair_slug }}/">{{ committee.chair }}</a>{% else %}{{ committee.chair }}{% endif %}</span><span class="meta-sep">·</span>{% endif %}
             <span>{{ committee.meeting_count }} meeting{{ '' if committee.meeting_count == 1 else 's' }}</span>
             <span class="meta-sep">·</span>
             <span>{{ committee.matters | length }} matter{{ '' if committee.matters | length == 1 else 's' }}</span>
@@ -20,22 +21,18 @@
     {% if committee.meetings %}
     <section class="record-section">
         <h2>Meetings</h2>
-        <div class="table-scroll">
+        <div class="table-scroll listing-well">
             <table class="record-table">
-                <thead><tr><th>Date</th><th>Meeting</th><th>Items</th><th>Roll calls</th></tr></thead>
+                <thead><tr><th>Date</th><th>Meeting</th><th>Matters</th><th>Roll calls</th></tr></thead>
                 <tbody>
                 {% for m in committee.meetings %}
-                    <tr>
+                    <tr{% if m.kind == "Upcoming" %} class="row-upcoming"{% endif %}>
                         <td class="num">{{ m.date }}</td>
                         <td>
-                            {%- if m.hearing_slug -%}
-                            <a href="/hearings/{{ m.hearing_slug }}/">{{ m.hearing_title or m.body }}</a>
-                            {%- else -%}
-                            <a href="/meetings/{{ m.event_id }}/">{{ m.body }}</a><span class="row-sub">Record only</span>
-                            {%- endif -%}
+                            <a class="row-link" href="{{ m.link }}">{{ m.title }}</a>
                         </td>
-                        <td class="num">{{ m['items'] | length }}</td>
-                        <td class="num">{{ m['items'] | selectattr('roll_call') | list | length }}</td>
+                        <td class="num">{{ m.rows | length }}</td>
+                        <td class="num">{{ m.voted_items | length or "—" }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>
@@ -45,23 +42,24 @@
     {% endif %}
 
     {% if committee.matters %}
-    <section class="record-section">
-        <h2>Matters before this committee</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th></tr></thead>
+    <section class="record-section record-section--flush">
+        {{ rec.filter_header("Matters before this committee", "committee-matter-table", committee.matters | length) }}
+        <div class="table-scroll listing-well">
+            <table class="record-table" id="committee-matter-table" data-noun="matter">
+                <thead><tr><th>File</th><th data-filter="count">Type</th><th>Title</th><th data-filter="count">Stage</th></tr></thead>
                 <tbody>
                 {% for m in committee.matters %}
                     <tr>
-                        <td class="num"><a href="/matters/{{ m.slug }}/">{{ m.file_number }}</a></td>
+                        <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
                         <td>{{ m.type }}</td>
                         <td>{{ m.short_title }}</td>
-                        <td>{{ m.display_status }}</td>
+                        <td title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>
             </table>
         </div>
+        {{ rec.empty_row("committee-matter-table", "No matter matches.") }}
     </section>
     {% endif %}
 </article>

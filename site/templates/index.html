@@ -203,19 +203,34 @@
                     {% endfor %}
                     </div>
                 </span>
-                <span class="hearing-row__title">Hearing</span>
+                <span class="hearing-row__title colheader-filter" data-filter-key="kind">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Meeting
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by type" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    {% for kind in kinds %}
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="{{ kind }}">
+                            <span>{{ kind }}</span>
+                        </label>
+                    {% endfor %}
+                    </div>
+                </span>
                 <button type="button" class="colheader-sort" id="mention-sort" hidden aria-pressed="false">
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
             </li>
         {% for hearing in hearings %}
-            <li class="hearing-row"
+            <li class="hearing-row{% if hearing.kind == 'Upcoming' %} hearing-row--upcoming{% endif %}"
                 data-committees='{{ hearing.committee_list|tojson }}'
                 data-title="{{ hearing.title }}"
                 data-month="{{ hearing.month }}"
-                data-slug="{{ hearing.slug }}">
-                <a href="/hearings/{{ hearing.slug }}/">
+                data-kind="{{ hearing.kind }}"
+                data-slug="{{ hearing.search_slug }}">
+                <a href="{{ hearing.link }}">
                     <time class="hearing-row__date" datetime="{{ hearing.date }}">
                         {{ hearing.date_display }}
                     </time>
@@ -254,6 +269,7 @@
         var filterCells = Array.prototype.slice.call(document.querySelectorAll('.colheader-filter'));
         var monthCell = document.querySelector('.colheader-filter[data-filter-key="month"]');
         var committeeCell = document.querySelector('.colheader-filter[data-filter-key="committee"]');
+        var kindCell = document.querySelector('.colheader-filter[data-filter-key="kind"]');
         var currentPage = 1;
 
         var rowCommittees = rows.map(function (row) {
@@ -651,6 +667,7 @@
             searchInput.value = params.get('q') || '';
             setChecked(monthCell, (params.get('month') || '').split(',').filter(Boolean));
             setChecked(committeeCell, (params.get('committee') || '').split(',').filter(Boolean));
+            setChecked(kindCell, (params.get('type') || '').split(',').filter(Boolean));
             var pageParam = parseInt(params.get('page'), 10);
             currentPage = (pageParam && pageParam > 0) ? pageParam : 1;
         }
@@ -662,6 +679,8 @@
             if (months.length) params.set('month', months.join(','));
             var committees = getChecked(committeeCell);
             if (committees.length) params.set('committee', committees.join(','));
+            var kindsSel = getChecked(kindCell);
+            if (kindsSel.length) params.set('type', kindsSel.join(','));
             if (currentPage > 1) params.set('page', String(currentPage));
             var qs = params.toString();
             return qs ? ('?' + qs) : window.location.pathname;
@@ -689,6 +708,7 @@
             var q = searchInput.value.trim().toLowerCase();
             var selectedMonths = getChecked(monthCell);
             var selectedCommittees = getChecked(committeeCell);
+            var selectedKinds = getChecked(kindCell);
             // Word-boundary-prefixed title match: "ai" hits "AI Disclosure",
             // not "Maintaining"; prefix typing ("sanit") still matches.
             var titleRe = null;
@@ -701,6 +721,7 @@
             rows.forEach(function (row, i) {
                 var show = true;
                 if (selectedMonths.length && selectedMonths.indexOf(row.dataset.month) === -1) show = false;
+                if (selectedKinds.length && selectedKinds.indexOf(row.dataset.kind) === -1) show = false;
                 if (show && selectedCommittees.length) {
                     var match = false;
                     for (var j = 0; j < rowCommittees[i].length; j++) {
@@ -783,11 +804,12 @@
             emptyEl.hidden = totalFiltered !== 0;
             monthCell.classList.toggle('is-active', selectedMonths.length > 0);
             committeeCell.classList.toggle('is-active', selectedCommittees.length > 0);
+            kindCell.classList.toggle('is-active', selectedKinds.length > 0);
             filterCells.forEach(function (cell) {
                 var pc = cell.querySelector('.colheader-filter__popover-clear');
                 if (pc) pc.hidden = getChecked(cell).length === 0;
             });
-            var anyFilter = q || selectedMonths.length || selectedCommittees.length;
+            var anyFilter = q || selectedMonths.length || selectedCommittees.length || selectedKinds.length;
             clearBtn.hidden = !anyFilter;
 
             if (transcriptState.pending) {
@@ -885,6 +907,7 @@
             searchInput.value = '';
             setChecked(monthCell, []);
             setChecked(committeeCell, []);
+            setChecked(kindCell, []);
             currentPage = 1;
             syncTranscriptState();
             history.pushState(null, '', buildQueryString());

@@ -82,19 +82,31 @@ def split_title(raw: str) -> tuple[str, str | None]:
 
 
 def scrape_districts() -> dict[str, str]:
-    """Return {district_number: member_name} for all 51 districts."""
+    """Return {district_number: {name, role, borough, party, neighborhoods}}."""
     text = _get(DISTRICTS_URL)
     # Each row pairs a sort-district cell with a sort-member cell whose
     # anchor carries a clean data-member-name attribute.
-    pattern = re.compile(
-        r'<td class="sort-district">.*?<strong>(\d+)</strong>.*?'
-        r'<td class="sort-member">.*?data-member-name="([^"]+)"',
-        re.DOTALL,
-    )
+    # Borough, party and neighbourhoods sit in later cells of the same row.
+    rows = re.split(r'<td class="sort-district">', text)[1:]
     districts = {}
-    for m in pattern.finditer(text):
-        name, role = split_title(_clean(m.group(2)))
-        districts[m.group(1)] = {"name": name, "role": role}
+    for row in rows:
+        num = re.search(r"<strong>(\d+)</strong>", row)
+        member = re.search(r'data-member-name="([^"]+)"', row)
+        if not (num and member):
+            continue
+        name, role = split_title(_clean(member.group(1)))
+
+        def cell(cls):
+            m = re.search(rf'<td class="{cls}[^"]*">(.*?)</td>', row, re.DOTALL)
+            return _clean(re.sub(r"<[^>]+>", " ", m.group(1))) if m else ""
+
+        hoods = [h.strip() for h in cell("sort-neighborhoods").split(",") if h.strip()]
+        districts[num.group(1)] = {
+            "name": name, "role": role,
+            "borough": cell("sort-borough"),
+            "party": cell("sort-party"),
+            "neighborhoods": hoods,
+        }
     if len(districts) < 45:
         raise RuntimeError(
             f"Only parsed {len(districts)} districts from {DISTRICTS_URL} — "

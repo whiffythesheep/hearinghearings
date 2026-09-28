@@ -234,6 +234,19 @@ body.desktop {
     background: #f3f1e9;
 }
 
+/* Two back links stacked: section first, then the page you came from */
+.back-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.1rem;
+    margin-bottom: 2rem;
+}
+
+.back-links .back-link {
+    margin-bottom: 0;
+}
+
 /* ---------- Shared section heading (mono uppercase, dashed rule) ---------- */
 .section-heading,
 .hearing-summary h3,
@@ -701,6 +714,16 @@ body.desktop {
 .hearing-row a:hover .hearing-row__committee,
 .hearing-row a:hover .hearing-row__title {
     color: var(--accent);
+}
+
+/* Upcoming meetings: the whole row in a lighter grey, so they read as not
+   yet happened. Hover still turns them accent like any other row. */
+.hearing-row--upcoming .hearing-row__date,
+.hearing-row--upcoming .hearing-row__committee,
+.hearing-row--upcoming .hearing-row__title,
+.row-upcoming td,
+.row-upcoming .row-link {
+    color: var(--bevel-dark);
 }
 
 /* Transcript-search excerpt — full-width line under the row's columns */
@@ -1566,51 +1589,57 @@ body.desktop {
     margin: 0;
 }
 
-/* ---------- Tables ---------- */
+/* ---------- Tables ----------
+   Record tables sit in the same sunken well as the hearings listing, with
+   the same Explorer-style column-header bar and dashed row rules. */
 .table-scroll {
     overflow-x: auto;
-    border: 1px solid var(--rule);
-    background: #fff;
+}
+
+.table-scroll.listing-well {
+    background: #f3f1e9;
 }
 
 .record-table {
     border-collapse: collapse;
     width: 100%;
-    font-size: 0.88rem;
+    font-size: 0.9rem;
     min-width: 34rem;
 }
 
 .record-table th {
+    position: relative;
     font-family: var(--font-chrome);
     font-size: 11px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--text-muted);
+    letter-spacing: 0.04em;
+    color: var(--text);
     text-align: left;
-    background: #f3f1e9;
-    padding: 0.5rem 0.75rem;
-    border-bottom: 1px solid var(--bevel-dark);
+    background: var(--chrome-gray);
+    padding: 4px 0.75rem;
+    border-bottom: 1px solid var(--bevel-darker);
     white-space: nowrap;
 }
 
 .record-table td {
-    padding: 0.5rem 0.75rem;
-    border-bottom: 1px solid var(--rule);
-    vertical-align: top;
+    padding: 0.6rem 0.75rem;
+    vertical-align: baseline;
+    line-height: 1.4;
 }
 
-.record-table tbody tr:last-child td {
-    border-bottom: 0;
+/* Rule only between two visible rows, so filtering never leaves a stray
+   line under the header (same trick as .hearing-row) */
+.record-table tbody tr:not([hidden]) ~ tr:not([hidden]) td {
+    border-top: 1px dashed var(--bevel-dark);
 }
 
 .record-table tbody tr:hover td {
-    background: #f7f5ee;
+    background: #ece9de;
 }
 
 .record-table td.num {
     font-family: var(--font-chrome);
-    font-size: 0.82rem;
+    font-size: 12px;
     font-variant-numeric: tabular-nums;
     white-space: nowrap;
 }
@@ -1739,11 +1768,285 @@ body.desktop {
     padding: 1.5rem 0;
 }
 
-/* ---------- Matter references inside summary prose ---------- */
+/* ---------- Links inside the record ----------
+   Plain text with a quiet rule, turning accent on hover like the hearings
+   listing. Orange at rest stays reserved for links that leave the site. */
+.record-link,
+.matter-ref,
+.hearing-summary a.matter-ref {
+    color: var(--text);
+    text-decoration: underline;
+    text-decoration-color: var(--bevel-dark);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+.record-link:hover,
+.matter-ref:hover,
+.hearing-summary a.matter-ref:hover {
+    color: var(--accent);
+    text-decoration-color: var(--accent);
+}
+
+.mono,
 .matter-ref {
     font-family: var(--font-chrome);
-    font-size: 0.92em;
+    font-size: 12px;
     white-space: nowrap;
+}
+
+.matter-ref {
+    font-size: 0.92em;
+}
+
+/* Sorting: a plain sortable header, and sort items atop a filter popover */
+.colheader-sort-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    font: inherit;
+    color: inherit;
+    letter-spacing: inherit;
+}
+
+.colheader-sort-toggle:hover .colheader-filter__glyph {
+    color: var(--text);
+}
+
+.record-table th.is-sorting .colheader-filter__glyph {
+    color: var(--accent);
+}
+
+.record-table th[data-sort-dir="asc"] .colheader-sort-toggle .colheader-filter__glyph {
+    transform: rotate(180deg);
+}
+
+.colheader-filter__sort {
+    display: block;
+    width: 100%;
+    background: none;
+    border: 0;
+    padding: 3px 0.7rem;
+    text-align: left;
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    color: var(--text);
+    cursor: pointer;
+}
+
+.colheader-filter__sort:hover {
+    background: #ece9de;
+}
+
+.colheader-filter__sort.is-current {
+    font-weight: 700;
+}
+
+.colheader-filter__sort + .colheader-filter__sort {
+    border-bottom: 1px dashed var(--rule);
+    margin-bottom: 4px;
+    padding-bottom: 6px;
+}
+
+/* Name links in index tables: plain text, accent on hover, like the
+   hearings listing rows */
+.row-link {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.row-link:hover {
+    color: var(--accent);
+}
+
+/* ---------- Stage strip (matters by where they stand) ---------- */
+.stage-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    margin: 0 0 0.6rem;
+}
+
+.stage-strip__step {
+    position: relative;
+    flex: 1 1 8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.6rem 0.9rem 0.6rem 1.4rem;
+    background: var(--chrome-gray);
+    color: var(--text);
+    text-decoration: none;
+    border-top: 2px solid var(--bevel-light);
+    border-left: 2px solid var(--bevel-light);
+    border-right: 2px solid var(--bevel-darker);
+    border-bottom: 2px solid var(--bevel-darker);
+}
+
+.stage-strip__step:first-child {
+    padding-left: 0.9rem;
+}
+
+/* Arrow between steps */
+.stage-strip__step:not(:first-child)::before {
+    content: "›";
+    position: absolute;
+    left: 0.35rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: var(--font-chrome);
+    color: var(--text-muted);
+}
+
+.stage-strip__step--aside {
+    margin-left: 0.75rem;
+    background: #f3f1e9;
+}
+
+.stage-strip__step--aside::before {
+    content: none !important;
+}
+
+.stage-strip__step:hover .stage-strip__label,
+.stage-strip__step:hover .stage-strip__count {
+    color: var(--accent);
+}
+
+.stage-strip__step.is-active {
+    background: var(--window-bg);
+    border-top-color: var(--bevel-darker);
+    border-left-color: var(--bevel-darker);
+    border-right-color: var(--bevel-light);
+    border-bottom-color: var(--bevel-light);
+}
+
+.stage-strip__count {
+    font-family: var(--font-chrome);
+    font-size: 1.35rem;
+    font-weight: 600;
+    line-height: 1.1;
+}
+
+.stage-strip__label {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+}
+
+.stage-strip__note {
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 640px) {
+    .stage-strip__step--aside { margin-left: 0; }
+}
+
+/* Muted tag for listing rows with no summary ("Vote session", "Upcoming") */
+.kind-tag {
+    font-family: var(--font-chrome);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    border: 1px solid var(--bevel-dark);
+    padding: 0 5px;
+    margin-left: 0.35rem;
+    white-space: nowrap;
+    vertical-align: 1px;
+}
+
+.record-empty {
+    list-style: none;
+}
+
+.record-note--after {
+    margin-top: 0.75rem;
+}
+
+.record-section--flush > .index-section__header {
+    margin-top: 0;
+}
+
+.chip-link {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.chip-link:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+/* ---------- Roll calls (collapsible, under the record table) ---------- */
+.rollcalls {
+    margin-top: 1.5rem;
+}
+
+.record-subheading {
+    font-family: var(--font-chrome);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin: 0 0 0.5rem;
+}
+
+.rollcall-block {
+    border-top: 1px dashed var(--bevel-dark);
+}
+
+.rollcall-block:last-child {
+    border-bottom: 1px dashed var(--bevel-dark);
+}
+
+.rollcall-block > summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding: 0.45rem 0.25rem;
+    font-size: 0.9rem;
+}
+
+.rollcall-block > summary::-webkit-details-marker {
+    display: none;
+}
+
+.rollcall-block > summary:hover {
+    background: #ece9de;
+}
+
+.rollcall-block > summary:hover .rollcall-summary-action {
+    color: var(--accent);
+}
+
+.rollcall-toggle {
+    font-size: 10px;
+    color: var(--text-muted);
+    transition: transform 0.1s;
+}
+
+.rollcall-block[open] .rollcall-toggle {
+    transform: rotate(90deg);
+}
+
+.rollcall-summary-tally {
+    margin-left: auto;
+    color: var(--text-muted);
+}
+
+.rollcall-block .rollcall {
+    padding: 0.25rem 0.25rem 0.9rem 1.4rem;
 }
 
 /* ---------- The record block on a hearing page ---------- */
@@ -1759,6 +2062,13 @@ body.desktop {
     .nav-button {
         padding: 5px 10px;
         font-size: 11px;
+    }
+}
+
+@media (min-width: 900px) {
+    /* Wide enough that tables fit: let the filter popovers overflow the well */
+    .table-scroll {
+        overflow: visible;
     }
 }
 

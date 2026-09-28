@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0246-2026",
+ "title": "Law to return jail commissary money in full at release",
+ "summary": "This bill would require the Department of Correction to tell people leaving custody how much money remains in their commissary account and return all unused funds in cash before release, rather than capping cash payouts at $200 with the rest by check. It also requires the department to explain what information is needed to transfer a person's funds if they are moved to another correctional facility. The law would take effect 180 days after being enacted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c506c938a46229bf"
+}

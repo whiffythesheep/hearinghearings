@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Immigration | Committee on Housing and Buildings"
 committee_slug: committee-on-immigration
-title: "Tenant Harassment against Immigrants and the Certification of No Harassment Program"
+title: "Harassment of Immigrant Tenants and the No-Harassment Program"
 date: 2026-04-20
 slug: committee-on-immigration-tenant-harassment-against-immigrants-and-the-certification-of-no-harassment-program
 duration: "1hr 7m"

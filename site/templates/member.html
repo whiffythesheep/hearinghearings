@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "_record.html" as rec %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Council Member{% endblock %}
 
@@ -25,37 +26,36 @@
     <section class="record-section">
         <h2>Committees</h2>
         <ul class="chip-list">
-        {% for c in member.committees %}
-            <li><span class="chip-item">{{ c }}</span></li>
+        {% for c in member.committee_links %}
+            <li>{% if c.slug %}<a class="chip-item chip-link" href="/committees/{{ c.slug }}/">{{ c.name }}</a>{% else %}<span class="chip-item">{{ c.name }}</span>{% endif %}</li>
         {% endfor %}
         </ul>
     </section>
     {% endif %}
 
     {% if member.votes %}
-    <section class="record-section">
-        <h2>Voting record</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>Date</th><th>Matter</th><th>Body</th><th>Action</th><th>Vote</th></tr></thead>
+    <section class="record-section record-section--flush">
+        {{ rec.filter_header("Voting record", "vote-table", member.votes | length) }}
+        <div class="table-scroll listing-well">
+            <table class="record-table" id="vote-table" data-noun="vote">
+                <thead><tr><th>Date</th><th>Matter</th><th data-filter>Body</th><th>Action</th><th data-filter="count">Vote</th></tr></thead>
                 <tbody>
                 {% for v in member.votes %}
                     <tr>
                         <td class="num">{{ v.date }}</td>
                         <td>
-                            {%- if v.matter_slug -%}
-                            <a href="/matters/{{ v.matter_slug }}/">{{ v.file_number }}</a>
-                            {%- else -%}{{ v.file_number }}{%- endif -%}
+                            {{ rec.matter_link(v.matter_slug, v.file_number) }}
                             {% if v.matter_title %}<span class="row-sub">{{ v.matter_title }}</span>{% endif %}
                         </td>
-                        <td>{% if v.hearing_slug %}<a href="/hearings/{{ v.hearing_slug }}/">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
-                        <td>{{ v.action or "—" }}</td>
-                        <td><span class="vote vote--{{ v.vote | lower }}">{{ v.vote }}</span></td>
+                        <td data-value="{{ v.body }}">{% if v.link %}<a class="record-link" href="{{ v.link }}">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
+                        <td>{{ rec.action(v.action) }}</td>
+                        <td data-value="{{ v.vote }}"><span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote }}</span></td>
                     </tr>
                 {% endfor %}
                 </tbody>
             </table>
         </div>
+        {{ rec.empty_row("vote-table", "No vote matches.") }}
     </section>
     {% endif %}
 </article>

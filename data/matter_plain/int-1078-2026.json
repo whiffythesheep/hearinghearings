@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1078-2026",
+ "title": "Law to limit jail cooperation with federal immigration agents",
+ "summary": "This bill would bar the Department of Correction from communicating with federal immigration authorities about people in its custody, except when honoring a civil immigration detainer or when the communication is unrelated to immigration enforcement. It would take effect 60 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "854e81117c701405"
+}

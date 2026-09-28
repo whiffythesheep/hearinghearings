@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0843-2026",
+ "title": "Law to require alerts for school emergencies",
+ "summary": "This bill would require the City to set up a system that notifies parents and the public within one hour when a school emergency, such as a lockdown or evacuation, occurs. Alerts could be sent by email, text, phone call or broadcast, and repeated until the emergency ends or reunification is complete. The agency could withhold an alert if it would be inappropriate or compromise a law enforcement investigation.",
+ "model": "claude-sonnet-5",
+ "input_hash": "27aba18354569687"
+}

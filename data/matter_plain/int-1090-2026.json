@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1090-2026",
+ "title": "Law to create an online portal for landlords in rental aid programs",
+ "summary": "This bill would require the Department of Social Services to create an online portal for landlords participating in rental subsidy programs such as FHEPS and CityFHEPS by January 1, 2027. The portal would let landlords upload required documents, enroll for electronic payments, and submit complaints about administrative issues. DSS would have to publish an annual report on landlord complaints and resolution times, starting by December 31, 2028.",
+ "model": "claude-sonnet-5",
+ "input_hash": "36f587b69643eef2"
+}

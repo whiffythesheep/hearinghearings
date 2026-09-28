@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Oversight and Investigations | Committee on Education"
 committee_slug: committee-on-oversight-and-investigations
-title: "Screen Time and the Use of Digital Devices in New York City Public Schools"
+title: "Screen Time and Devices in Public Schools"
 date: 2026-09-15
 slug: committee-on-oversight-and-investigations-screen-time-and-the-use-of-digital-devices-in-new-york-2026-09-15
 duration: "4hrs 34m"

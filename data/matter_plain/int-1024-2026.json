@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1024-2026",
+ "title": "Law to ease revoking press credentials",
+ "summary": "This bill would lower the legal standard the Mayor's Office of Media and Entertainment must meet to suspend or revoke a journalist's press credential, from clear and convincing evidence to a preponderance of the evidence, at a hearing before the Office of Administrative Trials and Hearings. It would also require the office to review and update its rules on issuing, suspending and revoking press credentials. The law would take effect immediately, but would not apply to hearings for which notice was given before that date.",
+ "model": "claude-sonnet-5",
+ "input_hash": "a8456b70d438deef"
+}

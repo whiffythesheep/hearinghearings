@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1048-2026",
+ "title": "Law to require AI disclosure by mental health providers",
+ "summary": "This bill would require mental health service providers in New York City to tell clients before or at the start of services if artificial intelligence is used in client communications or care, including whether AI may process communications or share data with third-party vendors. The disclosure must be in plain language, in English and other designated citywide languages, and kept separate from general terms of service. The law would take effect 180 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "68395977589e7478"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0181-2026",
+ "title": "Law to require shower hoses after Legionnaires' cases in buildings",
+ "summary": "This bill would require the Health Department to post information on Legionnaires' disease online and notify building owners when a tenant has a confirmed case. Building owners would then have 24 hours to give shower hoses and health department information sheets to all tenants and post notices in the building. These measures would continue until water testing shows no significant Legionella bacteria for at least 30 days.",
+ "model": "claude-sonnet-5",
+ "input_hash": "138fcb4d58dbbb8f"
+}

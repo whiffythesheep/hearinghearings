@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out nav-button--active">Committees</a>
@@ -58,8 +57,8 @@
         <p class="record-eyebrow">Committee</p>
         <h1>Committee on Health</h1>
         <div class="record-meta">
-            <span>Chair: Lynn Schulman</span><span class="meta-sep">·</span>
-            <span>6 meetings</span>
+            <span>Chair: <a class="record-link" href="/members/lynn-schulman/">Lynn Schulman</a></span><span class="meta-sep">·</span>
+            <span>5 meetings</span>
             <span class="meta-sep">·</span>
             <span>28 matters</span>
         </div>
@@ -68,51 +67,54 @@
     
     <section class="record-section">
         <h2>Meetings</h2>
-        <div class="table-scroll">
+        <div class="table-scroll listing-well">
             <table class="record-table">
-                <thead><tr><th>Date</th><th>Meeting</th><th>Items</th><th>Roll calls</th></tr></thead>
+                <thead><tr><th>Date</th><th>Meeting</th><th>Matters</th><th>Roll calls</th></tr></thead>
                 <tbody>
                 
                     <tr>
                         <td class="num">2026-09-10</td>
-                        <td><a href="/meetings/1441278/">Committee on Health</a><span class="row-sub">Record only</span></td>
-                        <td class="num">8</td>
+                        <td>
+                            <a class="row-link" href="/meetings/1441278/">Vote: Law to require high sodium warnings at chain restaurants + 1 more</a>
+                        </td>
                         <td class="num">2</td>
-                    </tr>
-                
-                    <tr>
-                        <td class="num">2026-09-08</td>
-                        <td><a href="/meetings/1432298/">Committee on Health</a><span class="row-sub">Record only</span></td>
-                        <td class="num">1</td>
-                        <td class="num">0</td>
+                        <td class="num">2</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-09-02</td>
-                        <td><a href="/hearings/committee-on-health-legionnaires-disease-cooling-tower-inspections-and-keeping-new-yorkers-safe-2026-09-02/">The Upper East Side Legionnaires&#39; Outbreak and Cooling Tower Inspections</a></td>
-                        <td class="num">18</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-health-legionnaires-disease-cooling-tower-inspections-and-keeping-new-yorkers-safe-2026-09-02/">Upper East Side Legionnaires&#39; Outbreak and Cooling Towers</a>
+                        </td>
+                        <td class="num">9</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-07-15</td>
-                        <td><a href="/hearings/committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cabs-2026-07-15/">Local Law to Prohibit the Operation of Horse Drawn Cabs</a></td>
-                        <td class="num">2</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cabs-2026-07-15/">Local Law to Prohibit the Operation of Horse Drawn Cabs</a>
+                        </td>
+                        <td class="num">1</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-06-15</td>
-                        <td><a href="/hearings/committee-on-health-access-to-reproductive-health-care-for-new-yorkers-with-disabilities-2026-06-15/">Access to Reproductive Health Care for New Yorkers with Disabilities</a></td>
-                        <td class="num">22</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-health-access-to-reproductive-health-care-for-new-yorkers-with-disabilities-2026-06-15/">Access to Reproductive Health Care for New Yorkers with Disabilities</a>
+                        </td>
+                        <td class="num">9</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-04-22</td>
-                        <td><a href="/hearings/committee-on-health-child-care-program-background-checks/">Child Care Program Background checks</a></td>
-                        <td class="num">14</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-health-child-care-program-background-checks/">Child Care Program Background checks</a>
+                        </td>
+                        <td class="num">7</td>
+                        <td class="num">—</td>
                     </tr>
                 
                 </tbody>
@@ -122,212 +124,226 @@
     
 
     
-    <section class="record-section">
-        <h2>Matters before this committee</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th></tr></thead>
+    <section class="record-section record-section--flush">
+        
+<header class="index-section__header" data-filter-for="committee-matter-table">
+    <h2 class="section-heading">Matters before this committee</h2>
+    <label class="sr-only" for="committee-matter-table-search">Search matters before this committee</label>
+    <input type="search" id="committee-matter-table-search" class="hearing-controls__search bevel-in"
+           placeholder="search" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing 28 of 28</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+
+        <div class="table-scroll listing-well">
+            <table class="record-table" id="committee-matter-table" data-noun="matter">
+                <thead><tr><th>File</th><th data-filter="count">Type</th><th>Title</th><th data-filter="count">Stage</th></tr></thead>
                 <tbody>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0015-2026/">Int 0015-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0015-2026/">Int 0015-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requirements and reporting for background checks for child care providers, employees, and volunteers</td>
-                        <td>Enacted</td>
+                        <td>Law to stop repeat background checks for child care workers</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0135-2026/">Int 0135-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0135-2026/">Int 0135-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to inspections and routine closures of child care centers</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to speed up posting of child care closures and inspections</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0181-2026/">Int 0181-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0181-2026/">Int 0181-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring building owners to provide shower hoses and informational materials on Legionnaires’ disease to tenants</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require shower hoses after Legionnaires&#39; cases in buildings</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0196-2026/">Int 0196-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0196-2026/">Int 0196-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to modifying the sodium warning at designated food service establishments</td>
-                        <td>Enacted (Mayor&#39;s Desk for Signature)</td>
+                        <td>Law to require high sodium warnings at chain restaurants</td>
+                        <td title="Legistar status: Enacted (Mayor&#39;s Desk for Signature)">Awaiting the Mayor</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0200-2026/">Int 0200-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0200-2026/">Int 0200-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to creating resources for doulas</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to create resources and rights for doulas</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0211-2026/">Int 0211-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0211-2026/">Int 0211-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to provide information regarding fertility treatment, including insurance coverage of fertility treatment</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law requiring city fertility treatment information campaign</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0547-2026/">Int 0547-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0547-2026/">Int 0547-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto</td>
-                        <td>Enacted (Mayor&#39;s Desk for Signature)</td>
+                        <td>Law to change sugar warning icon and raise fines</td>
+                        <td title="Legistar status: Enacted (Mayor&#39;s Desk for Signature)">Awaiting the Mayor</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0831-2026/">Int 0831-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0831-2026/">Int 0831-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to providing leave for bone marrow and living organ donation and establishing a city bone marrow and living organ donor honor roll</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to give leave for bone marrow and organ donation</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0840-2026/">Int 0840-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0840-2026/">Int 0840-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring health insurance coverage for pre-implantation testing for city employees</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require IVF genetic testing coverage for city workers</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0941-2026/">Int 0941-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0941-2026/">Int 0941-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop and offer resources, clinical guidance and training on disability and accessibility in health care settings</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law requiring disability training for health care providers</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0943-2026/">Int 0943-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0943-2026/">Int 0943-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of horse drawn cabs, and to repeal sections 17-334.1, 19-174, 20-377, 20-377.1, 20-380, 20-381, 20-381.1, 20-381.2, 20-382 and subdivisions b, c, and d of section 20-383 of the administrative code of the city of New York, relating to carriage horses and horse drawn cabs, and to repeal sections thirteen, nineteen, and twenty-one of this local law upon the expiration thereof</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to phase out horse-drawn carriages by 2028</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0953-2026/">Int 0953-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0953-2026/">Int 0953-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to make medication abortion available at no cost to a patient at all of its sexual health clinics</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require free abortion pills at all DOHMH clinics</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0999-2026/">Int 0999-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0999-2026/">Int 0999-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to establishing temporary Legionnaires’ disease testing sites and a digital map of testing sites</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to set up walk-in testing sites during Legionnaires&#39; outbreaks</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1005-2026/">Int 1005-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1005-2026/">Int 1005-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to education and outreach about Legionnaires’ disease and disease outbreaks</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require public education on Legionnaires&#39; disease</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1006-2026/">Int 1006-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1006-2026/">Int 1006-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to cleaning requirements for cooling towers</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require more frequent cooling tower cleaning</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1016-2026/">Int 1016-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1016-2026/">Int 1016-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to establishing a Legionnaires’ disease hotline</td>
-                        <td>Committee</td>
+                        <td>Law to create a Legionnaires&#39; disease hotline</td>
+                        <td title="Legistar status: Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1017-2026/">Int 1017-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1017-2026/">Int 1017-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring analyses of cooling towers associated with Legionnaires’ disease clusters</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require review of cooling towers linked to Legionnaires&#39; outbreaks</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1044-2026/">Int 1044-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1044-2026/">Int 1044-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring an annual interagency cooling tower compliance review and increasing related enforcement</td>
-                        <td>Committee</td>
+                        <td>Law to require yearly checks that cooling towers are registered</td>
+                        <td title="Legistar status: Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1062-2026/">Int 1062-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1062-2026/">Int 1062-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of health and mental hygiene to maintain a public database of locations impacted by legionella</td>
-                        <td>Committee</td>
+                        <td>Law to publish a map of Legionella-hit buildings</td>
+                        <td title="Legistar status: Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0089-2026/">Res 0089-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0089-2026/">Res 0089-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State Assembly to pass A.9175, and the Governor to sign S.2058/A.9175, legislation to require each institution within the State University of New York and the City University of New York to have at least one vending machine making emergency contraception available for purchase</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to require SUNY and CUNY contraception vending machines</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0108-2026/">Res 0108-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0108-2026/">Res 0108-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State legislature to pass, and the Governor to sign, S.5262/A.3051, legislation creating a refundable tax credit for up to three cycles of in vitro fertilization not covered by insurance</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to fund IVF with a tax credit</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0425-2026/">Res 0425-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0425-2026/">Res 0425-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State Assembly to pass A.8824A, A.9648, and A.9060C, and for the Governor to sign S.8334A/A.8824A, S.8853/A.9648, and S.8496C/A.9060C, legislation requiring vaccines to be regulated, recommended, administered, and insured based on the recommendations of various nationally and internationally recognized healthcare organizations alongside the federal advisory committee on immunization practices</td>
-                        <td>Adopted</td>
+                        <td>Resolution urging Albany to base vaccine rules on medical experts</td>
+                        <td title="Legistar status: Adopted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0427-2026/">Res 0427-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0427-2026/">Res 0427-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State Assembly to pass, and the Governor to sign, S.4786/A.8345A, to enact the &#34;New York affordable drug manufacturing act&#34;</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to pass a generic drug manufacturing law</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0447-2026/">Res 0447-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0447-2026/">Res 0447-2026</a></td>
                         <td>Resolution</td>
-                        <td>A resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation to ensure insurance companies cover the cost of Preimplantation Genetic Testing for Aneuploidies</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to require insurers cover embryo genetic screening</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0448-2026/">Res 0448-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0448-2026/">Res 0448-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State Assembly to pass A.3839, and the Governor to sign S.5852/A.3839, requiring insurance to reimburse the total direct and indirect practice expenses associated with vaccinations</td>
-                        <td>Adopted</td>
+                        <td>Resolution urging Albany to fund full vaccine costs for insurers</td>
+                        <td title="Legistar status: Adopted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1527/">T2026-1527</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1527/">T2026-1527</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Child Care Program Background Checks.</td>
-                        <td>Filed</td>
+                        <td>Hearing on child care worker background check delays</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-2010/">T2026-2010</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-2010/">T2026-2010</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Access to Reproductive Health Care for New Yorkers with Disabilities.</td>
-                        <td>Filed</td>
+                        <td>Hearing on reproductive health care access for disabled New Yorkers</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-2320/">T2026-2320</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-2320/">T2026-2320</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Legionnaires’ Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe.</td>
-                        <td>Filed</td>
+                        <td>Hearing on Legionnaires&#39; disease and cooling tower safety</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                 </tbody>
             </table>
         </div>
+        
+<p class="hearing-empty record-empty" data-empty-for="committee-matter-table" hidden>No matter matches.</p>
+
     </section>
     
 </article>
@@ -392,6 +408,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -401,5 +455,6 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+    <script src="/static/table-filter.js"></script>
 </body>
 </html>

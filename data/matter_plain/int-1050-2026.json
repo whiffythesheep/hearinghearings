@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1050-2026",
+ "title": "Law to curb truck queues near freight terminals",
+ "summary": "This bill would require the Department of Transportation to designate freight impact zones near freight terminals experiencing truck queue congestion, and to take actions like restricting truck staging, deploying traffic control and towing blocking trucks. Freight terminal operators bordering these zones would need to submit annual queue management plans, and DOT would report yearly to the Speaker and mayor. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "f88f0b1af280b674"
+}

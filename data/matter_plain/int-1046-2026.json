@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1046-2026",
+ "title": "Law to require interest on late payments to nonprofits",
+ "summary": "This bill would require city agencies to pay interest on contract payments made late to non-profit contractors. Non-profits that received an interest-free, fee-free city loan for the same contract would not be eligible. The City's chief procurement officer would report annually to the Mayor and Council on total interest paid, and the law would take effect 60 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "aeb373d9dbdd84eb"
+}

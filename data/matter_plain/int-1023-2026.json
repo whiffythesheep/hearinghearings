@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1023-2026",
+ "title": "Law to let landlords register buildings online with HPD",
+ "summary": "This bill would let property owners register their dwellings with the Department of Housing Preservation and Development through a new electronic system, with electronic signatures counting as valid. Owners could still submit paper signatures for at least 180 days after the law takes effect. HPD would also have to accept electronic payment of the registration fee through the same system.",
+ "model": "claude-sonnet-5",
+ "input_hash": "848d8bd8efac46f3"
+}

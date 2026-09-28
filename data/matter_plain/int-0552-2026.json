@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0552-2026",
+ "title": "Law to require enough NYPD tow lot space",
+ "summary": "This bill would require the NYPD to operate tow pound facilities with enough capacity to meet the department's enforcement needs for illegally parked or violating vehicles. It would also require NYPD to publish annual public reports on tow facility capacity, towing-eligible violations by precinct and the number of vehicles actually towed. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "98209b1d750edc17"
+}

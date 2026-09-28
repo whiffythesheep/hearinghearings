@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Disabilities | Committee on Aging | Committee on Finance"
 committee_slug: committee-on-disabilities
-title: "Senior Citizen Rent Increase Exemption (SCRIE) and Disability Rent Increase Exemption (DRIE)"
+title: "Rent Freezes for Seniors and Disabled Tenants (SCRIE and DRIE)"
 date: 2026-09-18
 slug: committee-on-disabilities-senior-citizen-rent-increase-exemption-scrie-and-disability-rent-increase-2026-09-18
 duration: "4hrs 22m"

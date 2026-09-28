@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0717-2026",
+ "title": "Law to require DOB to remind owners about permit sign-offs",
+ "summary": "This bill would require the Department of Buildings to email property owners a notice about permit sign-off requirements within seven days of a permit's issuance, and then every 90 days until sign-off is received. If a permit is close to expiring or has expired, DOB would have to send the notice every two weeks until sign-off. The notice must include the permit number, expiration date and consequences of not obtaining sign-off, such as reinstatement fees and effects on future permits or property sales.",
+ "model": "claude-sonnet-5",
+ "input_hash": "ae75a781ff23159b"
+}

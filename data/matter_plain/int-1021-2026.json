@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1021-2026",
+ "title": "Law to require safety plans and reports from food delivery apps",
+ "summary": "This bill would require third-party food delivery services licensed by the Department of Consumer and Worker Protection to submit annual safety reports on incidents involving delivery workers, including deaths and serious injuries, and to submit safety plans covering monitoring, disciplinary action and training. The safety reports would exclude personal information and detail incident dates, locations and types. It would take effect 120 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9da30e67c6f00ec4"
+}

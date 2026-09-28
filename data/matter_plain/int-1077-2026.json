@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1077-2026",
+ "title": "Law to limit police holds for immigration detainers",
+ "summary": "This bill would stop the police department from holding someone past their release time for federal immigration authorities unless authorities present a judicial warrant. It removes a current exception that let police hold certain people for up to 48 hours without a warrant. The law would take effect 60 days after it becomes law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "28aac0f7f5a5948a"
+}

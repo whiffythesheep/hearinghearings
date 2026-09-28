@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0859-2026",
+ "title": "Law to require research when street or park renaming lacks biography",
+ "summary": "This bill directs the city agency responsible for posting biographical information about people honored through street or park renamings to research and draft that information itself when the legislative record does not contain it. The agency must cite its sources and note online when such information cannot be found. The law would take effect 90 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "52a059246f2717cd"
+}

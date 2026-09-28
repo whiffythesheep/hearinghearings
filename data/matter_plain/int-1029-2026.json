@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1029-2026",
+ "title": "Law to create low-cost veterinary clinics in each borough",
+ "summary": "This bill would require the Health Department to establish at least one low-cost veterinary clinic in each borough within one year, offering services like vaccinations, spay/neuter and microchipping. Households earning up to 120% of area median income would get discounted fees, and those at or below 30% of AMI or on public assistance would get free services. The department would report annually to the Mayor and Council Speaker on clinic usage and challenges, starting two years after the law takes effect.",
+ "model": "claude-sonnet-5",
+ "input_hash": "46ece77234429c46"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0970-2026",
+ "title": "Law to boost weekend cleanup in nightlife areas",
+ "summary": "This bill would require the Department of Sanitation to designate certain busy nightlife areas, based on foot traffic, bar and club density and 311 complaints, as nightlife districts. At a community board's request, DSNY would add one extra day of street sweeping and litter basket service each weekend in that district. DSNY could revert to the normal schedule if cleanliness-related 311 complaints stay lower for 30 straight days.",
+ "model": "claude-sonnet-5",
+ "input_hash": "7fe6a4bccce77e80"
+}

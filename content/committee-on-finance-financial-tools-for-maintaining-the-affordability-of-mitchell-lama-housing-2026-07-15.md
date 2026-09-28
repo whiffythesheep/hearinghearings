@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Finance | Committee on Housing and Buildings"
 committee_slug: committee-on-finance
-title: "Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing"
+title: "Keeping Mitchell-Lama Housing Affordable"
 date: 2026-07-15
 slug: committee-on-finance-financial-tools-for-maintaining-the-affordability-of-mitchell-lama-housing-2026-07-15
 duration: "3hrs 22m"

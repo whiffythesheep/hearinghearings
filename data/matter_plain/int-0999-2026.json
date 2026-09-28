@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0999-2026",
+ "title": "Law to set up walk-in testing sites during Legionnaires' outbreaks",
+ "summary": "This bill would require the city Health Department to open temporary, free testing sites within three days of identifying a Legionnaires' disease cluster, and to publicize their locations to nearby buildings with contaminated cooling towers. The department would also have to report to the Council on services provided after each cluster ends and maintain a public online map of all Legionnaires' disease testing sites in the city, including their costs, in English and other citywide languages.",
+ "model": "claude-sonnet-5",
+ "input_hash": "3909b9d417ac28c4"
+}

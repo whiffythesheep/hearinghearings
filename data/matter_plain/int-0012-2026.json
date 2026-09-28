@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0012-2026",
+ "title": "Law to require disclosure of AI-altered election ads",
+ "summary": "This bill would require candidates and independent spenders in New York City elections to disclose to the Campaign Finance Board when campaign materials contain synthetically generated or digitally manipulated content, including preserving metadata showing how such content was made. The Campaign Finance Board would publish this information online, and failure to disclose could bring a civil penalty of up to $10,000 per violation. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "90b8fb5168eec7bf"
+}

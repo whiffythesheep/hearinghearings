@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1001-2026",
+ "title": "Law requiring NYPD security for threatened city officials",
+ "summary": "This bill would require the NYPD to provide a personal security detail to any elected or appointed city official who receives a credible threat to their safety. The size, scope and duration of the detail would be decided by the police commissioner, and the official could decline the protection. The law would take effect immediately upon passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9565e3ca1e29afa4"
+}

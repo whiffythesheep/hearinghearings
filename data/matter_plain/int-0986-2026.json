@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0986-2026",
+ "title": "Law to let police speed-test e-bikes and scooters",
+ "summary": "This bill would require the NYPD, working with the Department of Transportation, to create a program using dynamometers to measure the motor power and top speed of micromobility devices suspected of being illegal. Officers could only use this testing when they have probable cause a device exceeds legal limits, focusing first on the 10 locations with the most micromobility traffic and the 10 with the most crashes. The NYPD would have to publish an annual report on testing results and impoundments, starting one year after the law takes effect.",
+ "model": "claude-sonnet-5",
+ "input_hash": "6f206c6e700bd2f6"
+}

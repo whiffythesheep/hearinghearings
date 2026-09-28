@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0196-2026",
+ "title": "Law to require high sodium warnings at chain restaurants",
+ "summary": "This bill would require chain restaurants with 15 or more locations to post a red-and-white triangle warning icon on menus and food tags for items containing 1,800 milligrams or more of sodium per serving, along with a factual warning statement about high sodium intake. It also requires the Department of Health to issue implementing rules within 6 months and conduct public outreach to affected restaurants. Violations would carry a civil penalty of $200 to $500.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d63c353ca8d24be6"
+}

@@ -1,30 +1,29 @@
 {% extends "base.html" %}
+{% import "_record.html" as rec %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Committees{% endblock %}
 
 {% block content %}
-<a href="/" class="back-link">← All hearings</a>
-
 <div class="record">
     <header class="record-header">
-        <p class="record-eyebrow">Committee activity</p>
         <h1>Committees</h1>
-        <p class="record-subtitle">Every committee that has met in the archive, with what it considered.</p>
-        <div class="record-meta">
-            <span>{{ committees | length }} committees</span>
-            <span class="meta-sep">·</span>
-            <span>{{ window_from }} to {{ window_to }}</span>
-        </div>
+        <p class="record-subtitle">Every committee that has met since {{ window_from }}, with what it considered.</p>
     </header>
 
-    <div class="table-scroll">
-        <table class="record-table">
-            <thead><tr><th>Committee</th><th>Chair</th><th>Meetings</th><th>Matters</th></tr></thead>
+    {{ rec.filter_header("Committees", "committee-table", committees | length) }}
+    <div class="table-scroll listing-well">
+        <table class="record-table" id="committee-table" data-noun="committee">
+            <thead><tr>
+                <th>Committee</th>
+                <th>Chair</th>
+                <th>Meetings</th>
+                <th>Matters</th>
+            </tr></thead>
             <tbody>
             {% for c in committees %}
                 <tr>
-                    <td><a href="/committees/{{ c.slug }}/">{{ c.name }}</a></td>
-                    <td>{{ c.chair or "—" }}</td>
+                    <td><a class="row-link" href="/committees/{{ c.slug }}/">{{ c.name }}</a></td>
+                    <td>{% if c.chair_slug %}<a class="row-link" href="/members/{{ c.chair_slug }}/">{{ c.chair }}</a>{% else %}{{ c.chair or "—" }}{% endif %}</td>
                     <td class="num">{{ c.meeting_count }}</td>
                     <td class="num">{{ c.matters | length }}</td>
                 </tr>
@@ -32,5 +31,6 @@
             </tbody>
         </table>
     </div>
+    {{ rec.empty_row("committee-table", "No committee matches.") }}
 </div>
 {% endblock %}

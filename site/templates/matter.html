@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "_record.html" as rec %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Matter{% endblock %}
 
@@ -11,7 +12,7 @@
         <h1>{{ matter.file_number }}</h1>
         {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
         <div class="record-meta">
-            <span class="status-badge">{{ matter.display_status }}</span>
+            <span class="status-badge" title="Legistar status: {{ matter.display_status }}">{{ matter.stage }}</span>
             {% if matter.sponsors %}
             <span class="meta-sep">·</span>
             <span>Sponsor{% if matter.sponsors|length > 1 %}s{% endif %}: {{ matter.sponsors | join(', ') }}</span>
@@ -20,6 +21,10 @@
             <span class="meta-sep">·</span>
             <span class="mayor-flag">By request of the Mayor</span>
             {% endif %}
+            {% for c in matter.companion_matters %}
+            <span class="meta-sep">·</span>
+            <span>{% if c.file_number.startswith("LU") %}Application{% else %}Resolution{% endif %}: {{ rec.matter_link(c.slug, c.file_number) }}</span>
+            {% endfor %}
             {% if matter.legistar_url %}
             <span class="meta-sep">·</span>
             <a href="{{ matter.legistar_url }}" class="council-link">View on Legistar ↗</a>
@@ -27,10 +32,18 @@
         </div>
     </header>
 
-    {% if matter.title and matter.title != matter.short_title %}
+    {% if matter.plain_summary %}
     <section class="record-section">
-        <h2>Title</h2>
-        <p class="record-longtitle">{{ matter.title }}</p>
+        <h2>In brief</h2>
+        <p class="record-longtitle">{{ matter.plain_summary }}</p>
+        <p class="record-note record-note--after">AI-written from this matter's Legistar documents. Check the documents below before relying on it.</p>
+    </section>
+    {% endif %}
+
+    {% if matter.official_title and matter.official_title != matter.short_title %}
+    <section class="record-section">
+        <h2>Official title</h2>
+        <p class="record-longtitle">{{ matter.official_title }}</p>
     </section>
     {% endif %}
 
@@ -38,9 +51,9 @@
     <section class="record-section">
         <h2>Fiscal impact</h2>
         <p class="record-note">The Council Finance Division's estimate, from the
-            {% if matter.fiscal.source %}<a href="{{ matter.fiscal.source }}">{{ matter.fiscal.label }}</a>{% else %}{{ matter.fiscal.label }}{% endif %}.
+            {% if matter.fiscal.source %}<a class="record-link" href="{{ matter.fiscal.source }}">{{ matter.fiscal.label }}</a>{% else %}{{ matter.fiscal.label }}{% endif %}.
             {% if matter.fiscal.effective_fy %}First effective FY{{ matter.fiscal.effective_fy }}.{% endif %}</p>
-        <div class="table-scroll">
+        <div class="table-scroll listing-well">
             <table class="record-table fiscal-table">
                 <thead>
                     <tr>
@@ -80,7 +93,7 @@
         <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
         <ul class="doc-list">
         {% for d in matter.attachments %}
-            <li><span class="doc-kind">{{ d.kind }}</span> <a href="{{ d.url }}">{{ d.label }} ↗</a></li>
+            <li><span class="doc-kind">{{ d.kind }}</span> <a class="council-link" href="{{ d.url }}">{{ d.label }} ↗</a></li>
         {% endfor %}
         </ul>
     </section>
@@ -88,43 +101,20 @@
 
     {% if matter.appearances %}
     <section class="record-section">
-        <h2>Considered at</h2>
-        <div class="table-scroll">
+        <h2>History</h2>
+        <p class="record-note">Every step Legistar records, newest first. Where a body took several steps on one day
+            (heard, amended, passed) only the decisive one is shown. Hover an action for Legistar's wording. Linked dates have a page here.</p>
+        <div class="table-scroll listing-well">
             <table class="record-table">
                 <thead><tr><th>Date</th><th>Body</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
                 <tbody>
                 {% for a in matter.appearances %}
                     <tr>
-                        <td class="num">{{ a.date }}</td>
-                        <td>{% if a.hearing_slug %}<a href="/hearings/{{ a.hearing_slug }}/">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
-                        <td>{{ a.action or "—" }}</td>
-                        <td>{% if a.result %}<span class="result result--{{ a.result | lower }}">{{ a.result }}</span>{% else %}—{% endif %}</td>
-                        <td class="num">
-                            {%- if a.tally -%}
-                                {{ a.tally.get('Affirmative', 0) }}–{{ a.tally.get('Negative', 0) }}
-                            {%- else -%}—{%- endif -%}
-                        </td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
-    </section>
-    {% endif %}
-
-    {% if matter.history %}
-    <section class="record-section">
-        <h2>Legislative history</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>Date</th><th>Body</th><th>Action</th><th>Result</th></tr></thead>
-                <tbody>
-                {% for h in matter.history %}
-                    <tr>
-                        <td class="num">{{ h.date }}</td>
-                        <td>{{ h.body }}</td>
-                        <td>{{ h.action }}</td>
-                        <td>{% if h.result %}<span class="result result--{{ h.result | lower }}">{{ h.result }}</span>{% else %}—{% endif %}</td>
+                        <td class="num">{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.date }}</a>{% else %}{{ a.date }}{% endif %}</td>
+                        <td>{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
+                        <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—") }}</td>
+                        <td>{{ rec.result(a.result) }}</td>
+                        <td class="num">{{ rec.tally(a.tally) }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>

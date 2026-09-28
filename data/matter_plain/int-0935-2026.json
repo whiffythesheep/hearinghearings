@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0935-2026",
+ "title": "Law to require police reports on gunfire incidents",
+ "summary": "This bill would require the NYPD to report quarterly on confirmed firearm discharges in the city, including the date, time and location of each incident. The report would not cover discharges by NYPD officers acting within their duties. The law would take effect one year after being enacted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e5222a82662375cf"
+}

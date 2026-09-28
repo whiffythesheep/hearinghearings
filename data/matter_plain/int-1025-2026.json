@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1025-2026",
+ "title": "Law to require scanning and 15-minute delay for police radio access",
+ "summary": "This bill would require the NYPD to let credentialed journalists access encrypted police radio channels no more than 15 minutes after transmission. It also requires the broadcast system to allow users to scan and cycle through available channels to locate transmissions. The law would take effect immediately upon enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "66b4de5f8e7ae669"
+}

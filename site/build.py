@@ -342,20 +342,10 @@ def attach_records(hearings, records):
     by_event = records["meetings"]
     matter_by_slug = records["matter_by_slug"]
     for h in hearings:
-        h["record_items"] = []
         m = re.search(r"MeetingDetail\.aspx\?ID=(\d+)", h.get("council_url", "") or "")
         meeting = by_event.get(m.group(1)) if m else None
-        if meeting:
-            for item in meeting.get("items", []):
-                slug = record.slugify(item.get("file_number", ""))
-                h["record_items"].append({
-                    "file_number": item.get("file_number", ""),
-                    "name": item.get("name", ""),
-                    "action": item.get("action", ""),
-                    "result": item.get("result", ""),
-                    "tally": item.get("tally") or {},
-                    "matter_slug": slug if slug in matter_by_slug else "",
-                })
+        h["record_items"] = meeting["rows"] if meeting else []
+        h["voted_items"] = meeting["voted_items"] if meeting else []
         h["summary_html"] = record.link_matter_numbers(
             h["summary_html"], matter_by_slug)
 
@@ -464,9 +454,6 @@ def build_record_pages(env, records, ctx):
     # (section, index template, detail template, jinja name, rows for the
     #  index, rows that get their own page, title, description)
     sections = [
-        ("meetings", "meetings.html", "meeting.html", "meeting",
-         records["meeting_list"], records["record_only_meetings"], "Meetings",
-         "Every New York City Council meeting in the archive, including vote sessions."),
         ("matters", "matters.html", "matter.html", "matter",
          records["matters"], records["matters"], "Matters",
          "Bills, resolutions, land use applications and oversight items "
@@ -483,8 +470,8 @@ def build_record_pages(env, records, ctx):
         listing_vars = {name: rows, "nav_active": name}
         if name == "members":
             listing_vars["total_votes"] = sum(len(m["votes"]) for m in rows)
-        if name == "meetings":
-            listing_vars["summarised"] = sum(1 for m in rows if m["has_hearing"])
+        if name == "matters":
+            listing_vars["stages"] = record.STAGES
         write([name], env.get_template(index_tpl).render(
             meta_title=title, meta_description=description,
             meta_url=f"{SITE_URL}/{name}/", **listing_vars, **ctx))
@@ -498,6 +485,27 @@ def build_record_pages(env, records, ctx):
                 meta_url=f"{SITE_URL}/{name}/{item['slug']}/",
                 **{singular: item}, **ctx))
         print(f"Built: {name}/ (index of {len(rows)} + {len(pages)} pages)")
+
+    # Record-only meetings share the hearing page layout, minus the summary
+    # and transcript they do not have. They keep their /meetings/<id>/ URLs;
+    # the old /meetings/ index now lives on the home page.
+    hearing_tpl = env.get_template("hearing.html")
+    for mt in records["record_only_meetings"]:
+        page = {
+            "title": mt["title"], "committee": " | ".join(mt["bodies"]), "chairs": [],
+            "date": mt["date"], "date_display": mt["date_display"],
+            "council_url": mt.get("council_url", ""), "kind": mt["kind"],
+            "record_items": mt["rows"], "voted_items": mt["voted_items"],
+            "summary_html": "", "transcript_html": "",
+        }
+        write(["meetings", mt["slug"]], hearing_tpl.render(
+            hearing=page, nav_active="hearings",
+            meta_title=f"{mt['title']} — {mt['body']}",
+            meta_description=f"{mt['body']}, {mt['date_display']}: the Legistar record.",
+            meta_url=f"{SITE_URL}/meetings/{mt['slug']}/", **ctx))
+    with open(os.path.join(OUTPUT_DIR, "_redirects"), "w", encoding="utf-8") as f:
+        f.write("/meetings/ / 301\n")
+    print(f"Built: meetings/ ({len(records['record_only_meetings'])} record-only pages)")
 
 
 def build():
@@ -513,6 +521,7 @@ def build():
 
     # Set up Jinja2
     env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), autoescape=True)
+    env.filters["plain"] = record.plain_action
 
     hearings = load_content()
     records = record.load_records(hearings)
@@ -522,12 +531,29 @@ def build():
     window_from = record.display_date(meeting_dates[0]) if meeting_dates else ""
     window_to = record.display_date(meeting_dates[-1]) if meeting_dates else ""
     record_ctx = {"window_from": window_from, "window_to": window_to,
+                  "today": datetime.now().strftime("%Y-%m-%d"),
                   "meta_image": META_IMAGE}
 
+    # The index lists every meeting: published hearings, plus record-only
+    # vote sessions and unsummarised hearings, which carry no transcript.
+    listing = [dict(h, kind="Summarised", link=f"/hearings/{h['slug']}/",
+                    search_slug=h["slug"]) for h in hearings]
+    for mt in records["record_only_meetings"]:
+        listing.append({
+            "title": mt["title"], "committee": " | ".join(mt["bodies"]),
+            "committee_list": mt["bodies"], "date": mt["date"],
+            "date_display": mt["date_display"], "month": mt["date"][:7],
+            "month_label": datetime.strptime(mt["date"], "%Y-%m-%d").strftime("%B %Y"),
+            "kind": mt["kind"], "link": mt["link"], "search_slug": "",
+        })
+    listing.sort(key=lambda r: r["date"], reverse=True)
+    kinds = [k for k in ("Summarised", "Upcoming", "Vote session")
+             if any(r["kind"] == k for r in listing)]
+
     # Filter facets for the index controls
-    all_committees = sorted({c for h in hearings for c in h["committee_list"]})
+    all_committees = sorted({c for h in listing for c in h["committee_list"]})
     seen_months = {}
-    for h in hearings:
+    for h in listing:
         if h["month"] and h["month"] not in seen_months:
             seen_months[h["month"]] = h["month_label"]
     all_months = [
@@ -540,7 +566,9 @@ def build():
     # Build index page
     index_template = env.get_template("index.html")
     index_html = index_template.render(
-        hearings=hearings,
+        hearings=listing,
+        summarised_count=len(hearings),
+        kinds=kinds,
         committees=all_committees,
         months=all_months,
         search_examples=search_examples,
@@ -552,7 +580,7 @@ def build():
     )
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
-    print(f"Built: index.html ({len(hearings)} hearings, {len(search_examples)} search examples)")
+    print(f"Built: index.html ({len(listing)} rows, {len(hearings)} hearings, {len(search_examples)} search examples)")
 
     # Build individual hearing pages
     hearing_template = env.get_template("hearing.html")
@@ -622,7 +650,7 @@ def build():
         sitemap_entries.append(
             f"  <url>\n    <loc>{SITE_URL}/hearings/{h['slug']}/</loc>\n    <lastmod>{h['date']}</lastmod>\n  </url>"
         )
-    for section in ("meetings", "matters", "members", "committees"):
+    for section in ("matters", "members", "committees"):
         sitemap_entries.append(_sitemap_url(f"{SITE_URL}/{section}/", today))
     for _mt in records["record_only_meetings"]:
         sitemap_entries.append(_sitemap_url(

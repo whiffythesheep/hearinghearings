@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0100-2026",
+ "title": "Law to require reporting on housing voucher wait times",
+ "summary": "This bill would require the Department of Social Services to report annually to the Mayor and City Council Speaker, and include in the Mayor's Management Report, the average time between when someone receives a housing voucher and when they move into housing with it. The report must break out average lease-up times by voucher type, including CityFHEPS and special one-time assistance vouchers. The first report would be due within 180 days of the law taking effect.",
+ "model": "claude-sonnet-5",
+ "input_hash": "6e883f73d59de6f6"
+}

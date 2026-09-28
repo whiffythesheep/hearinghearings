@@ -1,0 +1,7 @@
+{
+ "file_number": "Res 0143-2026",
+ "title": "Resolution urging Albany to allow unlimited free MTA transfers",
+ "summary": "This resolution calls on the New York State Legislature to pass, and the Governor to sign, legislation letting pay-per-ride MetroCard and OMNY users make unlimited free transfers between subways and buses within a two-hour window. Currently riders get only one free transfer, so longer or more complex trips can cost extra fares. The measure aims to make transit costs more equal for riders with longer commutes.",
+ "model": "claude-sonnet-5",
+ "input_hash": "54aee49af36162a9"
+}

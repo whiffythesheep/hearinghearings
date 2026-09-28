@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0931-2026",
+ "title": "Law to deploy mobile drinking fountains on hot days",
+ "summary": "This bill would require the Department of Environmental Protection to run a mobile drinking fountain program each year from June 15 to September 15, deploying fountains to public spaces when temperatures are forecast to reach 82 degrees or higher. The department must maintain at least 2 mobile fountains per City Council district and prioritize neighborhoods with high heat vulnerability. It must also post an online schedule of fountain locations and times, updated at least 72 hours in advance when feasible.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d4696f4ff22ed00d"
+}

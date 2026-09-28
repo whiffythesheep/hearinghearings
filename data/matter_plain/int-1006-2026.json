@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1006-2026",
+ "title": "Law to require more frequent cooling tower cleaning",
+ "summary": "This bill would require building owners to clean and disinfect cooling towers at least three times a year, with at least one cleaning occurring in June or July. It also keeps the existing requirement to clean towers that have been shut down for more than five days before restarting them. The bill responds to concerns about Legionnaires' disease outbreaks linked to poorly maintained cooling towers.",
+ "model": "claude-sonnet-5",
+ "input_hash": "274d177ad9086c61"
+}

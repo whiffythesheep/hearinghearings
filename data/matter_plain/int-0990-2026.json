@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0990-2026",
+ "title": "Law to alert public of ambulance dispatch delays",
+ "summary": "This bill would require NYC Emergency Management to issue emergency alerts whenever FDNY's EMS bureau has more than 25 pending ambulance dispatches at once, up to once per hour. The alerts would inform the public about non-emergency medical care options and when to consider alternative transportation to an emergency room. The law would take effect 90 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "97fe3fbb6b9a1cab"
+}

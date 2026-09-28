@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0427-2026",
+ "title": "Law to change how vacant affordable units are re-rented",
+ "summary": "This bill would require the Department of Housing Preservation and Development to list any previously occupied affordable housing unit on the housing portal if it must be rented through Housing Connect. Only applicants who apply after a unit is posted could be considered for that unit, ending the practice of directly contacting existing applicants. The law would take effect 120 days after it becomes law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "ef92d31bc9308253"
+}

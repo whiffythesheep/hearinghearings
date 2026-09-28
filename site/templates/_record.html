@@ -1,0 +1,90 @@
+{# Shared record-layer markup. Import with:
+   {% import "_record.html" as rec %} #}
+
+{# Section heading + search box + count, mirroring the hearings index header.
+   Pairs with table-filter.js via data-filter-for. #}
+{% macro filter_header(title, table_id, total, placeholder="search") %}
+<header class="index-section__header" data-filter-for="{{ table_id }}">
+    <h2 class="section-heading">{{ title }}</h2>
+    <label class="sr-only" for="{{ table_id }}-search">Search {{ title | lower }}</label>
+    <input type="search" id="{{ table_id }}-search" class="hearing-controls__search bevel-in"
+           placeholder="{{ placeholder }}" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing {{ total }} of {{ total }}</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+{% endmacro %}
+
+{% macro empty_row(table_id, text="Nothing matches.") %}
+<p class="hearing-empty record-empty" data-empty-for="{{ table_id }}" hidden>{{ text }}</p>
+{% endmacro %}
+
+{% macro tally(t) -%}
+    {%- if t -%}{{ t.get('Affirmative', 0) }}–{{ t.get('Negative', 0) }}{%- else -%}—{%- endif -%}
+{%- endmacro %}
+
+{# Plain-English action, with Legistar's own wording on hover. #}
+{% macro action(a, empty="—") -%}
+    {%- if a -%}<span title="Legistar: {{ a }}">{{ a | plain }}</span>{%- else -%}{{ empty }}{%- endif -%}
+{%- endmacro %}
+
+{% macro result(r) -%}
+    {%- if r -%}<span class="result result--{{ r | lower }}">{{ r }}</span>{%- else -%}—{%- endif -%}
+{%- endmacro %}
+
+{% macro matter_link(slug, label) -%}
+    {%- if slug -%}<a class="record-link mono" href="/matters/{{ slug }}/">{{ label }}</a>{%- else -%}<span class="mono">{{ label }}</span>{%- endif -%}
+{%- endmacro %}
+
+{# One row per matter taken up at a meeting. #}
+{% macro items_table(items) %}
+<div class="table-scroll listing-well">
+    <table class="record-table">
+        <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+        <tbody>
+        {% for item in items %}
+            <tr>
+                <td class="num">
+                    {{ matter_link(item.matter_slug, item.file_number) }}
+                    {% for c in item.companions %}<span class="row-sub">with {{ matter_link(c.slug, c.file_number) }}</span>{% endfor %}
+                </td>
+                <td{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</td>
+                <td>{{ action(item.action, "On the agenda") }}</td>
+                <td>{{ result(item.result) }}</td>
+                <td class="num">{{ tally(item.tally) }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endmacro %}
+
+{# Collapsible named roll calls, one per voted item. #}
+{% macro rollcalls(voted) %}
+{% if voted %}
+<div class="rollcalls">
+    <h3 class="record-subheading">Roll calls</h3>
+    {% for item in voted %}
+    {% for rc in item.roll_calls %}
+    <details class="rollcall-block">
+        <summary>
+            <span class="rollcall-toggle" aria-hidden="true">▸</span>
+            <span class="mono">{{ item.file_number }}</span>
+            <span class="rollcall-summary-action">{{ (rc.action or item.action) | plain }}</span>
+            <span class="mono rollcall-summary-tally">{{ tally(rc.tally) }}</span>
+        </summary>
+        <ul class="rollcall">
+        {% for v in rc.roll_call %}
+            <li class="rollcall-row">
+                <span class="rollcall-name">{{ v.name }}</span>
+                <span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote }}</span>
+            </li>
+        {% endfor %}
+        </ul>
+    </details>
+    {% endfor %}
+    {% endfor %}
+</div>
+{% endif %}
+{% endmacro %}

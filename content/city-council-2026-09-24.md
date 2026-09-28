@@ -1,7 +1,7 @@
 ---
 committee: "City Council"
 committee_slug: city-council
-title: "Meeting of September 24, 2026"
+title: "Commissary Cash Returns and the J-51 Tax Abatement Extension"
 date: 2026-09-24
 slug: city-council-2026-09-24
 duration: "1hr 5m"

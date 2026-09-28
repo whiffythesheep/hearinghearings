@@ -21,6 +21,13 @@ $banner = "=== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz') ==="
 Add-Content -Path $logFile -Value $banner -Encoding utf8
 
 $env:PYTHONIOENCODING = 'utf-8'
+
+# Record refresh first (recent + upcoming meetings, unsettled matters), so
+# pending branches below are cut from an up-to-date master. It resets the
+# tree itself on failure; discover runs either way.
+cmd /c "`"$python`" refresh_record_nightly.py >> `"$logFile`" 2>&1"
+Add-Content -Path $logFile -Value "--- record refresh exit $LASTEXITCODE ---" -Encoding utf8
+
 cmd /c "`"$python`" discover_pending.py >> `"$logFile`" 2>&1"
 $rc = $LASTEXITCODE
 

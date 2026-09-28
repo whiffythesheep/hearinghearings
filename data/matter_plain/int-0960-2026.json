@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0960-2026",
+ "title": "Law to require reports on school AI data breaches",
+ "summary": "This bill would require the DOE Chancellor to publish policies for auditing algorithmic tools used in schools, notifying people affected by data breaches, and restricting tools after a breach. Starting October 31, 2026 and each quarter after, the Chancellor would have to report to the mayor and Council on breaches of algorithmic tools, including the number affected, type of data exposed and investigation status. The reports would be posted publicly, with small numbers of affected students masked for privacy.",
+ "model": "claude-sonnet-5",
+ "input_hash": "5b9dc14f3698f4ad"
+}

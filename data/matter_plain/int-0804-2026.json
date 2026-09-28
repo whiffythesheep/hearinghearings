@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0804-2026",
+ "title": "Law to limit bright outdoor lights in residential yards",
+ "summary": "This bill would ban outdoor lighting brighter than 3,000 lumens in residential districts unless the fixture is fully shielded to prevent light from spilling onto neighboring properties. It exempts government-operated lighting and lighting for parking lots or sidewalk sheds. Violators would face a $50 civil penalty, and the law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9cc770bb5cd490d8"
+}

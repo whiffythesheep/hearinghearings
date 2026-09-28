@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Hospitals | Committee on Mental Health and Substance Use | Committee on Women and Gender Equity"
 committee_slug: committee-on-hospitals
-title: "Access to Gender-Affirming Care and Associated Mental Health Outcomes for Transgender and Nonbinary Youth"
+title: "Gender-Affirming Care and Mental Health for Trans and Nonbinary Youth"
 date: 2026-09-23
 slug: committee-on-hospitals-access-to-gender-affirming-care-and-associated-mental-health-outcomes-for-2026-09-23
 duration: "3hrs 4m"

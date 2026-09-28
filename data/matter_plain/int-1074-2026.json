@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1074-2026",
+ "title": "Law requiring paid delivery apps to allow sick time",
+ "summary": "This bill would require delivery services to give contracted delivery workers a minimum of 14 hours of unpaid safe/sick time when hired, plus one additional hour for every 30 hours worked, to address health, safety, caregiving or urgent personal needs. Delivery services could not penalize workers or reduce their work opportunities for using this time, and could only request limited documentation after four or more consecutive shifts of use. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "408965c721868816"
+}

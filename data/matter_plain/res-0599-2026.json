@@ -1,0 +1,7 @@
+{
+ "file_number": "Res 0599-2026",
+ "title": "Resolution urging Albany to simplify income checks for tax exemptions",
+ "summary": "This resolution calls on the New York State Legislature and Governor to create a centralized income verification system for all income-based homeowner property tax exemptions administered by the city Department of Finance, such as the Senior Citizen Homeowners' Exemption and Disabled Homeowners' Exemption. It would let the city use state income data to verify eligibility instead of requiring homeowners to repeatedly submit financial documents. The system is modeled on the state's existing Enhanced STAR Income Verification Program.",
+ "model": "claude-sonnet-5",
+ "input_hash": "2c93a5e01191e591"
+}

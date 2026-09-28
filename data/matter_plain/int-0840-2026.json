@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0840-2026",
+ "title": "Law to require IVF genetic testing coverage for city workers",
+ "summary": "This bill would require the City to offer health insurance covering pre-implantation genetic testing for aneuploidy (PGT-A) during IVF for non-unionized city employees who work 20 or more hours a week. It would not apply to employees covered by a collective bargaining agreement. The law would take effect one year after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "5d0c842ee0041d29"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1044-2026",
+ "title": "Law to require yearly checks that cooling towers are registered",
+ "summary": "This bill would require the Department of Buildings to compile an annual list of properties with cooling towers and cross-reference it against registration and certification records to find non-compliant properties. Owners found in violation would have to disinfect their cooling towers within a set time, and vacant properties would have to stop using non-compliant towers until they come into compliance. Owners could avoid these requirements by providing sworn documentation showing compliance or that no cooling tower is present.",
+ "model": "claude-sonnet-5",
+ "input_hash": "12189668a66f3e57"
+}

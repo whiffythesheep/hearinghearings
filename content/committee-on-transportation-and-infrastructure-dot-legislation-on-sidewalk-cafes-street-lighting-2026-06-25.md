@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Transportation and Infrastructure"
 committee_slug: committee-on-transportation-and-infrastructure
-title: "DOT Legislation on Sidewalk Cafes, Street Lighting and Construction Notices"
+title: "Sidewalk Cafes, Street Lighting and Construction Notices"
 date: 2026-06-25
 slug: committee-on-transportation-and-infrastructure-dot-legislation-on-sidewalk-cafes-street-lighting-2026-06-25
 duration: "1hr 5m"

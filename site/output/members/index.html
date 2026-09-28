@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out nav-button--active">Members</a>
             <a href="/committees/" class="nav-button bevel-out">Committees</a>
@@ -51,431 +50,544 @@
 
         <main class="window-body">
             
-<a href="/" class="back-link">← All hearings</a>
-
 <div class="record">
     <header class="record-header">
-        <p class="record-eyebrow">Voting record</p>
         <h1>Council Members</h1>
-        <p class="record-subtitle">Every roll call recorded in the archive, by member.</p>
-        <div class="record-meta">
-            <span>51 members</span>
-            <span class="meta-sep">·</span>
-            <span>5088 recorded votes</span>
-            <span class="meta-sep">·</span>
-            <span>February 9, 2026 to September 28, 2026</span>
-        </div>
+        <p class="record-subtitle">The 51 members of the Council and how each has voted, from 4500 recorded
+            votes since February 9, 2026.</p>
     </header>
 
-    <div class="table-scroll">
-        <table class="record-table">
-            <thead><tr><th>Member</th><th>District</th><th>Votes cast</th><th>Present</th><th>Against</th></tr></thead>
+    
+<header class="index-section__header" data-filter-for="member-table">
+    <h2 class="section-heading">Members</h2>
+    <label class="sr-only" for="member-table-search">Search members</label>
+    <input type="search" id="member-table-search" class="hearing-controls__search bevel-in"
+           placeholder="search" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing 51 of 51</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+
+    <div class="table-scroll listing-well">
+        <table class="record-table" id="member-table" data-noun="member">
+            <thead><tr>
+                <th data-sort>Member</th>
+                <th>District</th>
+                <th data-filter="count" data-sort>Party</th>
+                <th data-filter data-sort>Borough</th>
+                <th>Neighborhoods</th>
+                <th>Present</th>
+                <th>Against</th>
+            </tr></thead>
             <tbody>
             
                 <tr>
-                    <td><a href="/members/shaun-abreu/">Shaun Abreu</a></td>
+                    <td data-sort-value="Abreu Shaun Abreu"><a class="row-link" href="/members/shaun-abreu/">Shaun Abreu</a></td>
                     <td class="num">7</td>
-                    <td class="num">112</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Upper West Side, Morningside Heights, Manhattanville</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/shirley-aldebol/">Shirley Aldebol</a></td>
+                    <td data-sort-value="Aldebol Shirley Aldebol"><a class="row-link" href="/members/shirley-aldebol/">Shirley Aldebol</a></td>
                     <td class="num">13</td>
-                    <td class="num">93</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Bruckner, Throggs Neck, Pelham Bay</td>
                     <td class="num">99%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/joann-ariola/">Joann Ariola</a></td>
+                    <td data-sort-value="Ariola Joann Ariola"><a class="row-link" href="/members/joann-ariola/">Joann Ariola</a></td>
                     <td class="num">32</td>
-                    <td class="num">64</td>
-                    <td class="num">69%</td>
-                    <td class="num">24</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/alexa-aviles/">Alexa Avilés</a></td>
-                    <td class="num">38</td>
-                    <td class="num">58</td>
-                    <td class="num">64%</td>
-                    <td class="num">2</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/chris-banks/">Chris Banks</a></td>
-                    <td class="num">42</td>
-                    <td class="num">100</td>
-                    <td class="num">90%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/gale-brewer/">Gale A. Brewer</a></td>
-                    <td class="num">6</td>
-                    <td class="num">93</td>
-                    <td class="num">99%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/selvena-brooks-powers/">Selvena N. Brooks-Powers</a></td>
-                    <td class="num">31</td>
-                    <td class="num">108</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/tiffany-caban/">Tiffany L. Cabán</a></td>
-                    <td class="num">22</td>
-                    <td class="num">93</td>
-                    <td class="num">89%</td>
-                    <td class="num">2</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/david-carr/">David M. Carr</a></td>
-                    <td class="num">50</td>
-                    <td class="num">121</td>
-                    <td class="num">100%</td>
-                    <td class="num">32</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/eric-dinowitz/">Eric Dinowitz</a></td>
-                    <td class="num">11</td>
-                    <td class="num">89</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/elsie-encarnacion/">Elsie Encarnación</a></td>
-                    <td class="num">8</td>
-                    <td class="num">121</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/harvey-epstein/">Harvey D. Epstein</a></td>
-                    <td class="num">2</td>
-                    <td class="num">92</td>
-                    <td class="num">98%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/amanda-farias/">Amanda C. Farías</a></td>
-                    <td class="num">18</td>
-                    <td class="num">102</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/simcha-felder/">Simcha Felder</a></td>
-                    <td class="num">44</td>
-                    <td class="num">94</td>
-                    <td class="num">90%</td>
-                    <td class="num">14</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/oswald-feliz/">Oswald J. Feliz</a></td>
-                    <td class="num">15</td>
-                    <td class="num">92</td>
-                    <td class="num">99%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/james-gennaro/">James F. Gennaro</a></td>
-                    <td class="num">24</td>
-                    <td class="num">89</td>
-                    <td class="num">97%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/jennifer-gutierrez/">Jennifer Gutiérrez</a></td>
-                    <td class="num">34</td>
-                    <td class="num">86</td>
-                    <td class="num">99%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/shahana-hanif/">Shahana K. Hanif</a></td>
-                    <td class="num">39</td>
-                    <td class="num">88</td>
-                    <td class="num">100%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/ty-hankerson/">Ty Hankerson</a></td>
-                    <td class="num">28</td>
-                    <td class="num">91</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/kamillah-hanks/">Kamillah Hanks</a></td>
-                    <td class="num">49</td>
-                    <td class="num">92</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/crystal-hudson/">Crystal Hudson</a></td>
-                    <td class="num">35</td>
-                    <td class="num">101</td>
-                    <td class="num">100%</td>
-                    <td class="num">2</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/rita-joseph/">Rita C. Joseph</a></td>
-                    <td class="num">40</td>
-                    <td class="num">60</td>
-                    <td class="num">67%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/shekar-krishnan/">Shekar Krishnan</a></td>
-                    <td class="num">25</td>
-                    <td class="num">98</td>
-                    <td class="num">98%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/linda-lee/">Linda Lee</a></td>
-                    <td class="num">23</td>
-                    <td class="num">64</td>
+                    <td>Republican</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Glendale, Woodhaven, Broad Channel</td>
                     <td class="num">66%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/farah-louis/">Farah N. Louis</a></td>
-                    <td class="num">45</td>
-                    <td class="num">90</td>
-                    <td class="num">69%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/virginia-maloney/">Virginia Maloney</a></td>
-                    <td class="num">4</td>
-                    <td class="num">101</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/christopher-marte/">Christopher Marte</a></td>
-                    <td class="num">1</td>
-                    <td class="num">91</td>
-                    <td class="num">95%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/darlene-mealy/">Darlene Mealy</a></td>
-                    <td class="num">41</td>
-                    <td class="num">32</td>
-                    <td class="num">36%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/julie-menin/">Julie Menin</a></td>
-                    <td class="num">5</td>
-                    <td class="num">86</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/frank-morano/">Frank Morano</a></td>
-                    <td class="num">51</td>
-                    <td class="num">96</td>
-                    <td class="num">100%</td>
-                    <td class="num">28</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/mercedes-narcisse/">Mercedes Narcisse</a></td>
-                    <td class="num">46</td>
-                    <td class="num">97</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/sandy-nurse/">Sandy Nurse</a></td>
-                    <td class="num">37</td>
-                    <td class="num">91</td>
-                    <td class="num">100%</td>
-                    <td class="num">2</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/chi-osse/">Chi A. Ossé</a></td>
-                    <td class="num">36</td>
-                    <td class="num">75</td>
-                    <td class="num">64%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/vickie-paladino/">Vickie Paladino</a></td>
-                    <td class="num">19</td>
-                    <td class="num">57</td>
-                    <td class="num">66%</td>
-                    <td class="num">23</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/lincoln-restler/">Lincoln Restler</a></td>
-                    <td class="num">33</td>
-                    <td class="num">89</td>
-                    <td class="num">99%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/kevin-riley/">Kevin C. Riley</a></td>
-                    <td class="num">12</td>
-                    <td class="num">108</td>
-                    <td class="num">100%</td>
-                    <td class="num">1</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/carmen-de-la-rosa/">Carmen N. De La Rosa</a></td>
-                    <td class="num">10</td>
-                    <td class="num">93</td>
-                    <td class="num">99%</td>
-                    <td class="num">2</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/yusef-salaam/">Yusef Salaam</a></td>
-                    <td class="num">9</td>
-                    <td class="num">123</td>
-                    <td class="num">98%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/pierina-ana-sanchez/">Pierina Ana Sanchez</a></td>
-                    <td class="num">14</td>
-                    <td class="num">93</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/justin-sanchez/">Justin E. Sanchez</a></td>
                     <td class="num">17</td>
-                    <td class="num">124</td>
-                    <td class="num">100%</td>
-                    <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/kayla-santosuosso/">Kayla Santosuosso</a></td>
-                    <td class="num">47</td>
-                    <td class="num">91</td>
-                    <td class="num">100%</td>
+                    <td data-sort-value="Avilés Alexa Avilés"><a class="row-link" href="/members/alexa-aviles/">Alexa Avilés</a></td>
+                    <td class="num">38</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Red Hook, Dyker Heights, Bensonhurst</td>
+                    <td class="num">61%</td>
                     <td class="num">2</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/lynn-schulman/">Lynn C. Schulman</a></td>
-                    <td class="num">29</td>
-                    <td class="num">109</td>
+                    <td data-sort-value="Banks Chris Banks"><a class="row-link" href="/members/chris-banks/">Chris Banks</a></td>
+                    <td class="num">42</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>East New York, Spring Creek, Brownsville</td>
+                    <td class="num">89%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Brewer Gale A. Brewer"><a class="row-link" href="/members/gale-brewer/">Gale A. Brewer</a></td>
+                    <td class="num">6</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Upper West Side, Lincoln Square, Hell&#39;s Kitchen</td>
+                    <td class="num">99%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Brooks-Powers Selvena N. Brooks-Powers"><a class="row-link" href="/members/selvena-brooks-powers/">Selvena N. Brooks-Powers</a></td>
+                    <td class="num">31</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Arverne, Brookville, Edgemere</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/althea-stevens/">Althea V. Stevens</a></td>
-                    <td class="num">16</td>
-                    <td class="num">97</td>
+                    <td data-sort-value="Cabán Tiffany L. Cabán"><a class="row-link" href="/members/tiffany-caban/">Tiffany L. Cabán</a></td>
+                    <td class="num">22</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Astoria, Old Astoria, Queensbridge</td>
+                    <td class="num">88%</td>
+                    <td class="num">2</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Carr David M. Carr"><a class="row-link" href="/members/david-carr/">David M. Carr</a></td>
+                    <td class="num">50</td>
+                    <td>Republican</td>
+                    <td data-values='["Staten Island", "Brooklyn"]'>Staten Island, Brooklyn</td>
+                    <td>Arrochar, Bay Ridge, Bay Terrace</td>
                     <td class="num">100%</td>
+                    <td class="num">23</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Dinowitz Eric Dinowitz"><a class="row-link" href="/members/eric-dinowitz/">Eric Dinowitz</a></td>
                     <td class="num">11</td>
-                </tr>
-            
-                <tr>
-                    <td><a href="/members/shanel-thomas-henry/">Shanel Thomas-Henry</a></td>
-                    <td class="num">21</td>
-                    <td class="num">119</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Norwood, Kingsbridge Heights, Kingsbridge</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/sandra-ung/">Sandra Ung</a></td>
-                    <td class="num">20</td>
-                    <td class="num">104</td>
+                    <td data-sort-value="Encarnación Elsie Encarnación"><a class="row-link" href="/members/elsie-encarnacion/">Elsie Encarnación</a></td>
+                    <td class="num">8</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan", "Bronx"]'>Manhattan/Bronx</td>
+                    <td>Mott Haven, Melrose, Concourse</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/inna-vernikov/">Inna Vernikov</a></td>
-                    <td class="num">48</td>
-                    <td class="num">87</td>
-                    <td class="num">100%</td>
-                    <td class="num">30</td>
+                    <td data-sort-value="Epstein Harvey D. Epstein"><a class="row-link" href="/members/harvey-epstein/">Harvey D. Epstein</a></td>
+                    <td class="num">2</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Greenwich Village, Lower East Side, East Village</td>
+                    <td class="num">98%</td>
+                    <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/nantasha-williams/">Nantasha M. Williams</a></td>
-                    <td class="num">27</td>
-                    <td class="num">103</td>
+                    <td data-sort-value="Farías Amanda C. Farías"><a class="row-link" href="/members/amanda-farias/">Amanda C. Farías</a></td>
+                    <td class="num">18</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Soundview, Castle Hill, Parkchester</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Felder Simcha Felder"><a class="row-link" href="/members/simcha-felder/">Simcha Felder</a></td>
+                    <td class="num">44</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Flatbush, Gravesend, Mapleton</td>
+                    <td class="num">89%</td>
+                    <td class="num">13</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Feliz Oswald J. Feliz"><a class="row-link" href="/members/oswald-feliz/">Oswald J. Feliz</a></td>
+                    <td class="num">15</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Fordham, East Tremont, Belmont</td>
                     <td class="num">99%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/carl-wilson/">Carl Wilson</a></td>
-                    <td class="num">3</td>
-                    <td class="num">98</td>
+                    <td data-sort-value="Gennaro James F. Gennaro"><a class="row-link" href="/members/james-gennaro/">James F. Gennaro</a></td>
+                    <td class="num">24</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Forest Hills, Kew Gardens Hills, Pomonok</td>
+                    <td class="num">96%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Gutiérrez Jennifer Gutiérrez"><a class="row-link" href="/members/jennifer-gutierrez/">Jennifer Gutiérrez</a></td>
+                    <td class="num">34</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn", "Queens"]'>Brooklyn, Queens</td>
+                    <td>Williamsburg, South Williamsburg, East Williamsburg</td>
+                    <td class="num">99%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Hanif Shahana K. Hanif"><a class="row-link" href="/members/shahana-hanif/">Shahana K. Hanif</a></td>
+                    <td class="num">39</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Kensington, Windsor Terrace, Gowanus</td>
+                    <td class="num">100%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Hankerson Ty Hankerson"><a class="row-link" href="/members/ty-hankerson/">Ty Hankerson</a></td>
+                    <td class="num">28</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Jamaica, South Jamaica, Springfield Gardens</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/julie-won/">Julie Won</a></td>
-                    <td class="num">26</td>
-                    <td class="num">58</td>
-                    <td class="num">67%</td>
+                    <td data-sort-value="Hanks Kamillah Hanks"><a class="row-link" href="/members/kamillah-hanks/">Kamillah Hanks</a></td>
+                    <td class="num">49</td>
+                    <td>Democrat</td>
+                    <td data-values='["Staten Island"]'>Staten Island</td>
+                    <td>St. George, Tompkinsville, Rosebank</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Hudson Crystal Hudson"><a class="row-link" href="/members/crystal-hudson/">Crystal Hudson</a></td>
+                    <td class="num">35</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Fort Greene, Clinton Hill, Prospect Heights</td>
+                    <td class="num">100%</td>
                     <td class="num">2</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/phil-wong/">Phil Wong</a></td>
-                    <td class="num">30</td>
-                    <td class="num">91</td>
+                    <td data-sort-value="Joseph Rita C. Joseph"><a class="row-link" href="/members/rita-joseph/">Rita C. Joseph</a></td>
+                    <td class="num">40</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Windsor Terrace, Crown Heights, Prospect Lefferts Gardens</td>
+                    <td class="num">63%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Krishnan Shekar Krishnan"><a class="row-link" href="/members/shekar-krishnan/">Shekar Krishnan</a></td>
+                    <td class="num">25</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Jackson Heights, Elmhurst, East Elmhurst</td>
+                    <td class="num">98%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Lee Linda Lee"><a class="row-link" href="/members/linda-lee/">Linda Lee</a></td>
+                    <td class="num">23</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Fresh Meadows, Jamaica Estates, Bayside</td>
+                    <td class="num">61%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Louis Farah N. Louis"><a class="row-link" href="/members/farah-louis/">Farah N. Louis</a></td>
+                    <td class="num">45</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Flatbush, Midwood, East Flatbush</td>
+                    <td class="num">67%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Maloney Virginia Maloney"><a class="row-link" href="/members/virginia-maloney/">Virginia Maloney</a></td>
+                    <td class="num">4</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Midtown South, Midtown, Stuyvesant Town</td>
                     <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Marte Christopher Marte"><a class="row-link" href="/members/christopher-marte/">Christopher Marte</a></td>
+                    <td class="num">1</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Financial District, Tribeca, The Battery</td>
+                    <td class="num">94%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Mealy Darlene Mealy"><a class="row-link" href="/members/darlene-mealy/">Darlene Mealy</a></td>
+                    <td class="num">41</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Bedford, Crown Heights, Prospect Lefferts Gardens</td>
+                    <td class="num">33%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Menin Julie Menin"><a class="row-link" href="/members/julie-menin/">Julie Menin</a></td>
+                    <td class="num">5</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Upper East Side and Roosevelt Island</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Morano Frank Morano"><a class="row-link" href="/members/frank-morano/">Frank Morano</a></td>
+                    <td class="num">51</td>
+                    <td>Republican</td>
+                    <td data-values='["Staten Island"]'>Staten Island</td>
+                    <td>New Springville, Oakwood, Great Kills</td>
+                    <td class="num">100%</td>
+                    <td class="num">21</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Narcisse Mercedes Narcisse"><a class="row-link" href="/members/mercedes-narcisse/">Mercedes Narcisse</a></td>
+                    <td class="num">46</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Canarsie, Flatlands, Georgetown</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Nurse Sandy Nurse"><a class="row-link" href="/members/sandy-nurse/">Sandy Nurse</a></td>
+                    <td class="num">37</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Bushwick, Cypress Hills, East New York</td>
+                    <td class="num">100%</td>
+                    <td class="num">2</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Ossé Chi A. Ossé"><a class="row-link" href="/members/chi-osse/">Chi A. Ossé</a></td>
+                    <td class="num">36</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Bedford, Crown Heights</td>
+                    <td class="num">61%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Paladino Vickie Paladino"><a class="row-link" href="/members/vickie-paladino/">Vickie Paladino</a></td>
+                    <td class="num">19</td>
+                    <td>Republican</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>College Point, Whitestone, Murray Hill</td>
+                    <td class="num">63%</td>
                     <td class="num">16</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/members/susan-zhuang/">Susan Zhuang</a></td>
+                    <td data-sort-value="Restler Lincoln Restler"><a class="row-link" href="/members/lincoln-restler/">Lincoln Restler</a></td>
+                    <td class="num">33</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Greenpoint, Northside Williamsburg, South Williamsburg</td>
+                    <td class="num">99%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Riley Kevin C. Riley"><a class="row-link" href="/members/kevin-riley/">Kevin C. Riley</a></td>
+                    <td class="num">12</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Williamsbridge, Bronxwood, Eastchester</td>
+                    <td class="num">100%</td>
+                    <td class="num">1</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Rosa Carmen N. De La Rosa"><a class="row-link" href="/members/carmen-de-la-rosa/">Carmen N. De La Rosa</a></td>
+                    <td class="num">10</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Washington Heights, Inwood, Marble Hill</td>
+                    <td class="num">99%</td>
+                    <td class="num">2</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Salaam Yusef Salaam"><a class="row-link" href="/members/yusef-salaam/">Yusef Salaam</a></td>
+                    <td class="num">9</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Morningside Heights, Manhattanville, Hamilton Heights</td>
+                    <td class="num">98%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Sanchez Pierina Ana Sanchez"><a class="row-link" href="/members/pierina-ana-sanchez/">Pierina Ana Sanchez</a></td>
+                    <td class="num">14</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>University Heights, Mount Hope, Fordham Heights</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Sanchez Justin E. Sanchez"><a class="row-link" href="/members/justin-sanchez/">Justin E. Sanchez</a></td>
+                    <td class="num">17</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Mott Haven, Melrose, Hunts Point</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Santosuosso Kayla Santosuosso"><a class="row-link" href="/members/kayla-santosuosso/">Kayla Santosuosso</a></td>
+                    <td class="num">47</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Bay Ridge, Dyker Heights, Gravesend</td>
+                    <td class="num">100%</td>
+                    <td class="num">2</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Schulman Lynn C. Schulman"><a class="row-link" href="/members/lynn-schulman/">Lynn C. Schulman</a></td>
+                    <td class="num">29</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Forest Hills, Kew Gardens, Richmond Hill</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Stevens Althea V. Stevens"><a class="row-link" href="/members/althea-stevens/">Althea V. Stevens</a></td>
+                    <td class="num">16</td>
+                    <td>Democrat</td>
+                    <td data-values='["Bronx"]'>Bronx</td>
+                    <td>Morrisania, Claremont Village, Concourse</td>
+                    <td class="num">100%</td>
+                    <td class="num">8</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Thomas-Henry Shanel Thomas-Henry"><a class="row-link" href="/members/shanel-thomas-henry/">Shanel Thomas-Henry</a></td>
+                    <td class="num">21</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Astoria, Jackson Heights, East Elmhurst</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Ung Sandra Ung"><a class="row-link" href="/members/sandra-ung/">Sandra Ung</a></td>
+                    <td class="num">20</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Flushing, Murray Hill, Queensboro Hill</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Vernikov Inna Vernikov"><a class="row-link" href="/members/inna-vernikov/">Inna Vernikov</a></td>
+                    <td class="num">48</td>
+                    <td>Republican</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Gravesend, Midwood, Madison</td>
+                    <td class="num">100%</td>
+                    <td class="num">23</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Williams Nantasha M. Williams"><a class="row-link" href="/members/nantasha-williams/">Nantasha M. Williams</a></td>
+                    <td class="num">27</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Jamaica, South Jamaica, Springfield Gardens</td>
+                    <td class="num">99%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Wilson Carl Wilson"><a class="row-link" href="/members/carl-wilson/">Carl Wilson</a></td>
+                    <td class="num">3</td>
+                    <td>Democrat</td>
+                    <td data-values='["Manhattan"]'>Manhattan</td>
+                    <td>Hudson Square, West Village, Chelsea</td>
+                    <td class="num">100%</td>
+                    <td class="num">—</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Won Julie Won"><a class="row-link" href="/members/julie-won/">Julie Won</a></td>
+                    <td class="num">26</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Astoria, Queensbridge, Sunnyside Yards</td>
+                    <td class="num">63%</td>
+                    <td class="num">2</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Wong Phil Wong"><a class="row-link" href="/members/phil-wong/">Phil Wong</a></td>
+                    <td class="num">30</td>
+                    <td>Democrat</td>
+                    <td data-values='["Queens"]'>Queens</td>
+                    <td>Maspeth, Middle Village, Glendale</td>
+                    <td class="num">100%</td>
+                    <td class="num">15</td>
+                </tr>
+            
+                <tr>
+                    <td data-sort-value="Zhuang Susan Zhuang"><a class="row-link" href="/members/susan-zhuang/">Susan Zhuang</a></td>
                     <td class="num">43</td>
-                    <td class="num">108</td>
+                    <td>Democrat</td>
+                    <td data-values='["Brooklyn"]'>Brooklyn</td>
+                    <td>Dyker Heights, Bensonhurst, Gravesend</td>
                     <td class="num">100%</td>
                     <td class="num">—</td>
                 </tr>
@@ -483,8 +595,11 @@
             </tbody>
         </table>
     </div>
-    <p class="record-note">“Present” counts recorded roll calls where the member cast a vote, against those
-        marked absent, medical or bereavement. Hearings without a vote are not counted.</p>
+    
+<p class="hearing-empty record-empty" data-empty-for="member-table" hidden>No member matches.</p>
+
+    <p class="record-note record-note--after">“Present” counts recorded roll calls where the member cast a vote, against those
+        marked absent, medical or bereavement. “Against” counts votes cast against. Hearings without a vote are not counted.</p>
 </div>
 
 
@@ -547,6 +662,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -556,5 +709,6 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+    <script src="/static/table-filter.js"></script>
 </body>
 </html>

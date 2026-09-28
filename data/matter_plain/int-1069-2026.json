@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1069-2026",
+ "title": "Law to study and set safe delivery time rules",
+ "summary": "This bill requires delivery services to submit 24 months of historical trip data to the Department of Consumer and Worker Protection and directs the department to study how delivery services' scheduling and assignment practices affect street safety. Based on that study, the department must create rules setting safe delivery time standards, which may limit incentives or penalties tied to delivery speed. The law would take effect alongside a related bill on delivery data retention.",
+ "model": "claude-sonnet-5",
+ "input_hash": "f947a7dde7c62176"
+}

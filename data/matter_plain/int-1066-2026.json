@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1066-2026",
+ "title": "Law to add traffic calming to 50 bike lane intersections",
+ "summary": "This bill would require the Department of Transportation to install traffic calming devices, such as bicycle lane redesigns, chicanes or raised crosswalks, at no fewer than 50 street intersections within one year of the law taking effect. The department would have to study the safety impact of these installations, including crashes and injuries involving vehicles, micromobility devices and pedestrians, and report its findings and recommendations to the mayor and Council speaker within 2.5 years. The report must also list each intersection and device location.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e640c2b09a1066c1"
+}

@@ -1,69 +1,78 @@
 {% extends "base.html" %}
+{% import "_record.html" as rec %}
 {% block page_title %}{{ meta_title }} — Hearing Hearings{% endblock %}
 {% block window_title %}Hearing Hearings — Matters{% endblock %}
 
 {% block content %}
-<a href="/" class="back-link">← All hearings</a>
-
 <div class="record">
     <header class="record-header">
-        <p class="record-eyebrow">Legislative record</p>
         <h1>Matters</h1>
-        <p class="record-subtitle">Every bill, resolution, land use application and oversight item
-            considered at a meeting in the archive.</p>
-        <div class="record-meta">
-            <span>{{ matters | length }} matters</span>
-            <span class="meta-sep">·</span>
-            <span>{{ window_from }} to {{ window_to }}</span>
-        </div>
+        <p class="record-subtitle">Every bill, resolution, land use application and oversight topic
+            taken up at a Council meeting since {{ window_from }}.</p>
     </header>
 
-    <div class="lookup">
-        <label class="sr-only" for="matter-filter">Find a matter</label>
-        <input id="matter-filter" class="lookup-input bevel-in" type="search" autocomplete="off"
-               placeholder="Find a matter — try “Int 0892”, “rezoning”, “Enacted”">
-        <p class="lookup-count" id="matter-count">{{ matters | length }} matters</p>
-    </div>
+    {# Where every bill, resolution and land use item stands, left to right.
+       Each stage is a link that filters the table below. #}
+    {% set decisions = matters | rejectattr("stage", "equalto", "Oversight topic") | list %}
+    <nav class="stage-strip" aria-label="Matters by stage">
+        {% for stage in stages %}
+        {% set n = decisions | selectattr("stage", "equalto", stage) | list | length %}
+        <a class="stage-strip__step{% if stage == 'Closed' %} stage-strip__step--aside{% endif %}"
+           href="?stage={{ stage | urlencode }}" data-stage="{{ stage }}">
+            <span class="stage-strip__count">{{ n }}</span>
+            <span class="stage-strip__label">{{ stage }}</span>
+        </a>
+        {% endfor %}
+    </nav>
+    <p class="record-note stage-strip__note">Bills, resolutions and land use items by where they stand now.
+        {{ matters | selectattr("stage", "equalto", "Oversight topic") | list | length }}
+        <a class="record-link" href="?stage=Oversight%20topic">oversight topics</a> are listed too, but are examined
+        rather than voted on. Click a stage to filter.</p>
 
-    <div class="table-scroll">
-        <table class="record-table" id="matter-table">
-            <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th><th>Last action</th></tr></thead>
+    {{ rec.filter_header("Matters", "matter-table", matters | length, "search — try “Int 0892”, “rezoning”") }}
+    <div class="table-scroll listing-well">
+        <table class="record-table" id="matter-table" data-noun="matter">
+            <thead><tr>
+                <th>File</th>
+                <th data-filter="count">Type</th>
+                <th>Title</th>
+                <th data-filter>Committee</th>
+                <th data-filter="count">Stage</th>
+                <th data-sort data-sort-default="desc">Last action</th>
+            </tr></thead>
             <tbody>
             {% for m in matters %}
-                <tr data-find="{{ (m.file_number ~ ' ' ~ m.type ~ ' ' ~ m.short_title ~ ' ' ~ m.display_status) | lower }}">
-                    <td class="num"><a href="/matters/{{ m.slug }}/">{{ m.file_number }}</a></td>
+                <tr data-find="{{ [m.file_number, m.type, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or ''] | join(' ') | lower }}">
+                    <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
                     <td>{{ m.type }}</td>
-                    <td>{{ m.short_title }}</td>
-                    <td>{{ m.display_status }}</td>
-                    <td class="num">{{ m.latest_date or "—" }}</td>
+                    <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
+                    <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>
+                    <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>
+                    <td class="num" data-sort-value="{{ m.latest_date or m.next_date or '' }}">{{ m.latest_date or "—" }}{% if m.next_date %}<span class="row-sub">Next: {{ m.next_date }}</span>{% endif %}</td>
                 </tr>
             {% endfor %}
             </tbody>
         </table>
     </div>
-    <p class="lookup-empty" id="matter-empty" hidden>No matter matches that.</p>
+    {{ rec.empty_row("matter-table", "No matter matches.") }}
 </div>
 {% endblock %}
 
 {% block extra_scripts %}
 <script>
+    // Light the stage the table is filtered to, and keep in step as the
+    // Stage column filter changes (table-filter.js rewrites the URL).
     (function () {
-        var input = document.getElementById('matter-filter');
-        var rows = Array.prototype.slice.call(
-            document.querySelectorAll('#matter-table tbody tr'));
-        var count = document.getElementById('matter-count');
-        var empty = document.getElementById('matter-empty');
-        input.addEventListener('input', function () {
-            var q = input.value.trim().toLowerCase();
-            var shown = 0;
-            for (var i = 0; i < rows.length; i++) {
-                var hit = !q || rows[i].dataset.find.indexOf(q) !== -1;
-                rows[i].hidden = !hit;
-                if (hit) shown++;
-            }
-            count.textContent = shown + (shown === 1 ? ' matter' : ' matters');
-            empty.hidden = shown !== 0;
-        });
+        var steps = Array.prototype.slice.call(document.querySelectorAll('.stage-strip__step'));
+        function sync() {
+            var active = (new URLSearchParams(location.search).get('stage') || '').split('|');
+            steps.forEach(function (s) {
+                s.classList.toggle('is-active', active.indexOf(s.dataset.stage) !== -1);
+            });
+        }
+        sync();
+        document.addEventListener('change', function () { setTimeout(sync, 0); });
+        document.addEventListener('click', function () { setTimeout(sync, 0); });
     })();
 </script>
 {% endblock %}

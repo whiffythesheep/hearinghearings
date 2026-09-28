@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1036-2026",
+ "title": "Law to stop towed cars being left in illegal spots",
+ "summary": "This bill would ban relocating vehicles towed for temporary parking restrictions to spots at meters or where parking is otherwise prohibited, unless required for public safety. It gives vehicle owners an affirmative defense against tickets issued shortly after such improper relocation and sets fines for licensed tow operators who violate the rule, starting at $500 for a first offense and rising to $1,000 for later violations. It would take effect 120 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "357aa269fe7c6ac8"
+}

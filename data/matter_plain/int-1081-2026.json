@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1081-2026",
+ "title": "Law to require faster snow clearing at bus stops",
+ "summary": "This bill would require the Department of Sanitation to clear snow and ice from bus stops, bus shelters and connecting sidewalk paths within 7 hours after receiving at least 5 complaints of a property owner's failure to do so. It would also require the department to launch a public online map by January 31, 2027 tracking the status of snow and ice removal at bus stops and shelters citywide.",
+ "model": "claude-sonnet-5",
+ "input_hash": "bb5071cc1907dc91"
+}

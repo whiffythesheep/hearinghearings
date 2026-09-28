@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1000-2026",
+ "title": "Law to let candidates hide home address on petitions",
+ "summary": "This bill would let candidates for city office such as mayor, comptroller, public advocate, borough president or council member withhold their home addresses from nomination petitions filed with the Board of Elections. Candidates choosing this option would need to submit proof of address and a sworn affidavit to confirm residency. Knowingly providing false residence information would carry a $1,000 civil penalty, and the law would take effect 120 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d465cbbb73805195"
+}

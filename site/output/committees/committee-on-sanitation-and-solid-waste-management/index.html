@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out nav-button--active">Committees</a>
@@ -58,7 +57,7 @@
         <p class="record-eyebrow">Committee</p>
         <h1>Committee on Sanitation and Solid Waste Management</h1>
         <div class="record-meta">
-            <span>Chair: Justin Sanchez</span><span class="meta-sep">·</span>
+            <span>Chair: <a class="record-link" href="/members/justin-sanchez/">Justin Sanchez</a></span><span class="meta-sep">·</span>
             <span>6 meetings</span>
             <span class="meta-sep">·</span>
             <span>24 matters</span>
@@ -68,51 +67,63 @@
     
     <section class="record-section">
         <h2>Meetings</h2>
-        <div class="table-scroll">
+        <div class="table-scroll listing-well">
             <table class="record-table">
-                <thead><tr><th>Date</th><th>Meeting</th><th>Items</th><th>Roll calls</th></tr></thead>
+                <thead><tr><th>Date</th><th>Meeting</th><th>Matters</th><th>Roll calls</th></tr></thead>
                 <tbody>
                 
                     <tr>
                         <td class="num">2026-09-15</td>
-                        <td><a href="/hearings/committee-on-sanitation-and-solid-waste-management-waste-valorization-and-the-circular-economy-2026-09-15/">Waste Valorization and the Circular Economy</a></td>
-                        <td class="num">10</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-sanitation-and-solid-waste-management-waste-valorization-and-the-circular-economy-2026-09-15/">Waste Valorization and the Circular Economy</a>
+                        </td>
+                        <td class="num">5</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-09-10</td>
-                        <td><a href="/meetings/1441279/">Committee on Sanitation and Solid Waste Management</a><span class="row-sub">Record only</span></td>
-                        <td class="num">4</td>
+                        <td>
+                            <a class="row-link" href="/meetings/1441279/">Vote: Law to speed up response to dog waste complaints</a>
+                        </td>
+                        <td class="num">1</td>
                         <td class="num">1</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-07-01</td>
-                        <td><a href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/">Legislation on Commercial Waste Zones, Composting and Sidewalk Cleanliness</a></td>
-                        <td class="num">14</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/">Commercial Waste Zones, Composting and Clean Sidewalks</a>
+                        </td>
+                        <td class="num">6</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-05-19</td>
-                        <td><a href="/hearings/committee-on-sanitation-and-solid-waste-management-street-cleanliness/">Street Cleanliness</a></td>
-                        <td class="num">18</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-sanitation-and-solid-waste-management-street-cleanliness/">Street Cleanliness</a>
+                        </td>
+                        <td class="num">9</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-04-06</td>
-                        <td><a href="/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/">Finalizing the City&#39;s Draft 2026-2036 Solid Waste Management Plan</a></td>
-                        <td class="num">6</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/">Finalizing the City&#39;s Draft 2026-2036 Solid Waste Management Plan</a>
+                        </td>
+                        <td class="num">3</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-03-16</td>
-                        <td><a href="/hearings/committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing/">FY 2027 Preliminary Budget Hearing</a></td>
-                        <td class="num">2</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing/">FY 2027 Preliminary Budget Hearing</a>
+                        </td>
+                        <td class="num">1</td>
+                        <td class="num">—</td>
                     </tr>
                 
                 </tbody>
@@ -122,184 +133,198 @@
     
 
     
-    <section class="record-section">
-        <h2>Matters before this committee</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th></tr></thead>
+    <section class="record-section record-section--flush">
+        
+<header class="index-section__header" data-filter-for="committee-matter-table">
+    <h2 class="section-heading">Matters before this committee</h2>
+    <label class="sr-only" for="committee-matter-table-search">Search matters before this committee</label>
+    <input type="search" id="committee-matter-table-search" class="hearing-controls__search bevel-in"
+           placeholder="search" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing 24 of 24</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+
+        <div class="table-scroll listing-well">
+            <table class="record-table" id="committee-matter-table" data-noun="matter">
+                <thead><tr><th>File</th><th data-filter="count">Type</th><th>Title</th><th data-filter="count">Stage</th></tr></thead>
                 <tbody>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0031-2026/">Int 0031-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0031-2026/">Int 0031-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to expanding the categories of establishments that may be subject to requirements regarding the disposal of commercial organic waste, and to repeal subdivision h of section 16-306.1 of such code</td>
-                        <td>Enacted</td>
+                        <td>Law to require more businesses to separate food waste</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0075-2026/">Int 0075-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0075-2026/">Int 0075-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to expanding the commercial citywide routing system for sidewalk cleanliness violations and technical amendments thereto, including to repeal and reenact subdivision c of section 16-118.1</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to widen hours for sidewalk cleanliness fines on businesses</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0092-2026/">Int 0092-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0092-2026/">Int 0092-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the use of adhesive stickers on motor vehicles in the enforcement of alternate side of the street parking rules</td>
-                        <td>Enacted</td>
+                        <td>Law to allow parking stickers for street cleaning violations</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0256-2026/">Int 0256-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0256-2026/">Int 0256-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law in relation to requiring the commissioner of sanitation to study the feasibility and potential environmental effects of a recycling mandate for household textiles</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to study requiring household textile recycling</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0353-2026/">Int 0353-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0353-2026/">Int 0353-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to creating a commercial waste zones working group</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to set up a working group on commercial waste zones</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0355-2026/">Int 0355-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0355-2026/">Int 0355-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies</td>
-                        <td>Enacted</td>
+                        <td>Law to require composting of food waste by city agencies</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0356-2026/">Int 0356-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0356-2026/">Int 0356-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the collection and sale of organic waste and compost by community composters</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to let community composters charge for waste and sell compost</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0367-2026/">Int 0367-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0367-2026/">Int 0367-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to accept commercial solid waste at city-owned or operated marine transfer stations and city-owned or operated rail transfer stations</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require city waste stations to accept commercial trash</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0369-2026/">Int 0369-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0369-2026/">Int 0369-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to establishing organic waste composting facilities in each borough</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require compost facilities in every borough</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0736-2026/">Int 0736-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0736-2026/">Int 0736-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the removal of solid waste and recyclable materials and reducing distribution of single-use items at street activities, and to repeal section 16-326 of such code, relating to definitions applicable to sponsor responsibilities concerning solid waste and recyclable materials at street events</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to cut waste and single-use items at street fairs</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0857-2026/">Int 0857-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0857-2026/">Int 0857-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to install and refill dog waste bag dispensers on public litter baskets</td>
-                        <td>Enacted</td>
+                        <td>Law to require dog waste bag dispensers on litter baskets</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0872-2026/">Int 0872-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0872-2026/">Int 0872-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law in relation to a public education and outreach campaign regarding the removal of dog waste, and to repeal such local law upon the expiration thereof</td>
-                        <td>Enacted</td>
+                        <td>Law to require a dog waste cleanup awareness campaign</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0883-2026/">Int 0883-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0883-2026/">Int 0883-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the New York city charter, in relation to establishing an office of sidewalk and roadway cafe sanitation within the department of sanitation</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to create a sidewalk cafe cleanliness office</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0899-2026/">Int 0899-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0899-2026/">Int 0899-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to trade waste management and disposal for construction, alterations, and demolition</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require construction waste disposal plans</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0906-2026/">Int 0906-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0906-2026/">Int 0906-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to dog waste complaints</td>
-                        <td>Enacted (Mayor&#39;s Desk for Signature)</td>
+                        <td>Law to speed up response to dog waste complaints</td>
+                        <td title="Legistar status: Enacted (Mayor&#39;s Desk for Signature)">Awaiting the Mayor</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0911-2026/">Int 0911-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0911-2026/">Int 0911-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the number of awardees in the Staten Island commercial waste zone and the implementation date for such commercial waste zone</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to allow more waste haulers, delay Staten Island trash zone</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0970-2026/">Int 0970-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0970-2026/">Int 0970-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to enhanced street cleaning and litter basket services in nightlife districts</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to boost weekend cleanup in nightlife areas</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0122-2026/">Res 0122-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0122-2026/">Res 0122-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York City Department of Sanitation and the Department of Parks and Recreation to continue to engage and collaborate with local communities to encourage and allow community composting to be carried out on parkland</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging city agencies to allow composting in parks</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0125-2026/">Res 0125-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0125-2026/">Res 0125-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.2285, to require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated by the State University of New York, the City University of New York, and institutions subject to their jurisdiction</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to require SUNY and CUNY composting</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/res-0362-2026/">Res 0362-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/res-0362-2026/">Res 0362-2026</a></td>
                         <td>Resolution</td>
-                        <td>Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.237-B, legislation to amend the Environmental Conservation Law, in relation to returnable bottles</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Resolution urging Albany to expand and raise the bottle deposit</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1360/">T2026-1360</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1360/">T2026-1360</a></td>
                         <td>Oversight</td>
-                        <td>New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report 10:30 a.m. Department of Sanitation 12:00 p.m. Public</td>
-                        <td>Filed</td>
+                        <td>Hearing on Sanitation and Public Budgets for Fiscal 2027</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1476/">T2026-1476</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1476/">T2026-1476</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.</td>
-                        <td>Filed</td>
+                        <td>Hearing on New York City&#39;s 2026-2036 solid waste plan</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1842/">T2026-1842</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1842/">T2026-1842</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Street Cleanliness in NYC.</td>
-                        <td>Filed</td>
+                        <td>Hearing on street cleanliness and related sanitation bills</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-2452/">T2026-2452</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-2452/">T2026-2452</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Waste Valorization &amp; the Circular Economy.</td>
-                        <td>Filed</td>
+                        <td>Hearing on waste valorization and the circular economy</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                 </tbody>
             </table>
         </div>
+        
+<p class="hearing-empty record-empty" data-empty-for="committee-matter-table" hidden>No matter matches.</p>
+
     </section>
     
 </article>
@@ -364,6 +389,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -373,5 +436,6 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+    <script src="/static/table-filter.js"></script>
 </body>
 </html>

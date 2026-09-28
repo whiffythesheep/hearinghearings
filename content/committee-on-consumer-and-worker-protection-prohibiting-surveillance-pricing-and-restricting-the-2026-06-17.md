@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Consumer and Worker Protection"
 committee_slug: committee-on-consumer-and-worker-protection
-title: "Prohibiting Surveillance Pricing and Restricting the Frequency of Price Increases in Grocery Stores"
+title: "Surveillance Pricing and Grocery Price Hikes"
 date: 2026-06-17
 slug: committee-on-consumer-and-worker-protection-prohibiting-surveillance-pricing-and-restricting-the-2026-06-17
 duration: "1hr 57m"

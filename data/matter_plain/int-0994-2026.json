@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0994-2026",
+ "title": "Law to require delivery apps to carry accident insurance",
+ "summary": "This bill would require third-party food delivery services to maintain liability insurance covering injuries, deaths or property damage caused by delivery workers using e-bikes or other powered devices during trips or on-call time. Minimum coverage would be $100,000 per person, $300,000 per accident and $50,000 for property damage. A delivery service's license would be voided if it fails to obtain or maintain this insurance, and the law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "aa3929e99416a611"
+}

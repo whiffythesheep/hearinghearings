@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out nav-button--active">Committees</a>
@@ -51,301 +50,313 @@
 
         <main class="window-body">
             
-<a href="/" class="back-link">← All hearings</a>
-
 <div class="record">
     <header class="record-header">
-        <p class="record-eyebrow">Committee activity</p>
         <h1>Committees</h1>
-        <p class="record-subtitle">Every committee that has met in the archive, with what it considered.</p>
-        <div class="record-meta">
-            <span>39 committees</span>
-            <span class="meta-sep">·</span>
-            <span>February 9, 2026 to September 28, 2026</span>
-        </div>
+        <p class="record-subtitle">Every committee that has met since February 9, 2026, with what it considered.</p>
     </header>
 
-    <div class="table-scroll">
-        <table class="record-table">
-            <thead><tr><th>Committee</th><th>Chair</th><th>Meetings</th><th>Matters</th></tr></thead>
+    
+<header class="index-section__header" data-filter-for="committee-table">
+    <h2 class="section-heading">Committees</h2>
+    <label class="sr-only" for="committee-table-search">Search committees</label>
+    <input type="search" id="committee-table-search" class="hearing-controls__search bevel-in"
+           placeholder="search" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing 39 of 39</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+
+    <div class="table-scroll listing-well">
+        <table class="record-table" id="committee-table" data-noun="committee">
+            <thead><tr>
+                <th>Committee</th>
+                <th>Chair</th>
+                <th>Meetings</th>
+                <th>Matters</th>
+            </tr></thead>
             <tbody>
             
                 <tr>
-                    <td><a href="/committees/city-council/">City Council</a></td>
+                    <td><a class="row-link" href="/committees/city-council/">City Council</a></td>
                     <td>—</td>
                     <td class="num">4</td>
-                    <td class="num">334</td>
+                    <td class="num">309</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-aging/">Committee on Aging</a></td>
-                    <td>Susan Zhuang</td>
+                    <td><a class="row-link" href="/committees/committee-on-aging/">Committee on Aging</a></td>
+                    <td><a class="row-link" href="/members/susan-zhuang/">Susan Zhuang</a></td>
                     <td class="num">3</td>
                     <td class="num">19</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-children-and-youth/">Committee on Children and Youth</a></td>
-                    <td>Althea Stevens</td>
+                    <td><a class="row-link" href="/committees/committee-on-children-and-youth/">Committee on Children and Youth</a></td>
+                    <td><a class="row-link" href="/members/althea-stevens/">Althea Stevens</a></td>
                     <td class="num">4</td>
                     <td class="num">14</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-civil-service-and-labor/">Committee on Civil Service and Labor</a></td>
-                    <td>Shirley Aldebol</td>
+                    <td><a class="row-link" href="/committees/committee-on-civil-service-and-labor/">Committee on Civil Service and Labor</a></td>
+                    <td><a class="row-link" href="/members/shirley-aldebol/">Shirley Aldebol</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-civil-and-human-rights/">Committee on Civil and Human Rights</a></td>
-                    <td>Sandy Nurse</td>
+                    <td><a class="row-link" href="/committees/committee-on-civil-and-human-rights/">Committee on Civil and Human Rights</a></td>
+                    <td><a class="row-link" href="/members/sandy-nurse/">Sandy Nurse</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-consumer-and-worker-protection/">Committee on Consumer and Worker Protection</a></td>
-                    <td>Harvey Epstein</td>
+                    <td><a class="row-link" href="/committees/committee-on-consumer-and-worker-protection/">Committee on Consumer and Worker Protection</a></td>
+                    <td><a class="row-link" href="/members/harvey-epstein/">Harvey Epstein</a></td>
                     <td class="num">7</td>
                     <td class="num">14</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-contracts/">Committee on Contracts</a></td>
-                    <td>Lincoln Restler</td>
+                    <td><a class="row-link" href="/committees/committee-on-contracts/">Committee on Contracts</a></td>
+                    <td><a class="row-link" href="/members/lincoln-restler/">Lincoln Restler</a></td>
                     <td class="num">2</td>
                     <td class="num">6</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-criminal-justice/">Committee on Criminal Justice</a></td>
-                    <td>Selvena N. Brooks-Powers</td>
+                    <td><a class="row-link" href="/committees/committee-on-criminal-justice/">Committee on Criminal Justice</a></td>
+                    <td><a class="row-link" href="/members/selvena-brooks-powers/">Selvena N. Brooks-Powers</a></td>
                     <td class="num">5</td>
                     <td class="num">10</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-cultural-affairs-libraries-and-international-relations/">Committee on Cultural Affairs, Libraries and International Relations</a></td>
-                    <td>Nantasha Williams</td>
+                    <td><a class="row-link" href="/committees/committee-on-cultural-affairs-libraries-and-international-relations/">Committee on Cultural Affairs, Libraries and International Relations</a></td>
+                    <td><a class="row-link" href="/members/nantasha-williams/">Nantasha Williams</a></td>
                     <td class="num">4</td>
                     <td class="num">18</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-disabilities/">Committee on Disabilities</a></td>
-                    <td>Shahana Hanif</td>
+                    <td><a class="row-link" href="/committees/committee-on-disabilities/">Committee on Disabilities</a></td>
+                    <td><a class="row-link" href="/members/shahana-hanif/">Shahana Hanif</a></td>
                     <td class="num">2</td>
                     <td class="num">16</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-economic-development/">Committee on Economic Development</a></td>
-                    <td>Virginia Maloney</td>
-                    <td class="num">2</td>
-                    <td class="num">2</td>
+                    <td><a class="row-link" href="/committees/committee-on-economic-development/">Committee on Economic Development</a></td>
+                    <td><a class="row-link" href="/members/virginia-maloney/">Virginia Maloney</a></td>
+                    <td class="num">1</td>
+                    <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-education/">Committee on Education</a></td>
-                    <td>Eric Dinowitz</td>
+                    <td><a class="row-link" href="/committees/committee-on-education/">Committee on Education</a></td>
+                    <td><a class="row-link" href="/members/eric-dinowitz/">Eric Dinowitz</a></td>
                     <td class="num">5</td>
                     <td class="num">10</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-environmental-protection-and-waterfronts/">Committee on Environmental Protection and Waterfronts</a></td>
-                    <td>James F. Gennaro</td>
-                    <td class="num">2</td>
+                    <td><a class="row-link" href="/committees/committee-on-environmental-protection-and-waterfronts/">Committee on Environmental Protection and Waterfronts</a></td>
+                    <td><a class="row-link" href="/members/james-gennaro/">James F. Gennaro</a></td>
+                    <td class="num">1</td>
                     <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-finance/">Committee on Finance</a></td>
-                    <td>Linda Lee</td>
+                    <td><a class="row-link" href="/committees/committee-on-finance/">Committee on Finance</a></td>
+                    <td><a class="row-link" href="/members/linda-lee/">Linda Lee</a></td>
                     <td class="num">12</td>
-                    <td class="num">28</td>
+                    <td class="num">27</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-fire-and-emergency-management/">Committee on Fire and Emergency Management</a></td>
-                    <td>Joann Ariola</td>
-                    <td class="num">2</td>
-                    <td class="num">2</td>
+                    <td><a class="row-link" href="/committees/committee-on-fire-and-emergency-management/">Committee on Fire and Emergency Management</a></td>
+                    <td><a class="row-link" href="/members/joann-ariola/">Joann Ariola</a></td>
+                    <td class="num">1</td>
+                    <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-general-welfare/">Committee on General Welfare</a></td>
-                    <td>Crystal Hudson</td>
+                    <td><a class="row-link" href="/committees/committee-on-general-welfare/">Committee on General Welfare</a></td>
+                    <td><a class="row-link" href="/members/crystal-hudson/">Crystal Hudson</a></td>
                     <td class="num">4</td>
                     <td class="num">12</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-governmental-operations-state-federal-legislation/">Committee on Governmental Operations, State &amp; Federal Legislation</a></td>
-                    <td>Gale A. Brewer</td>
+                    <td><a class="row-link" href="/committees/committee-on-governmental-operations-state-federal-legislation/">Committee on Governmental Operations, State &amp; Federal Legislation</a></td>
+                    <td><a class="row-link" href="/members/gale-brewer/">Gale A. Brewer</a></td>
                     <td class="num">6</td>
                     <td class="num">14</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-health/">Committee on Health</a></td>
-                    <td>Lynn Schulman</td>
-                    <td class="num">6</td>
+                    <td><a class="row-link" href="/committees/committee-on-health/">Committee on Health</a></td>
+                    <td><a class="row-link" href="/members/lynn-schulman/">Lynn Schulman</a></td>
+                    <td class="num">5</td>
                     <td class="num">28</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-higher-education/">Committee on Higher Education</a></td>
-                    <td>Rita C. Joseph</td>
-                    <td class="num">1</td>
-                    <td class="num">1</td>
+                    <td><a class="row-link" href="/committees/committee-on-higher-education/">Committee on Higher Education</a></td>
+                    <td><a class="row-link" href="/members/rita-joseph/">Rita C. Joseph</a></td>
+                    <td class="num">2</td>
+                    <td class="num">2</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-hospitals/">Committee on Hospitals</a></td>
-                    <td>Mercedes Narcisse</td>
-                    <td class="num">3</td>
-                    <td class="num">6</td>
+                    <td><a class="row-link" href="/committees/committee-on-hospitals/">Committee on Hospitals</a></td>
+                    <td><a class="row-link" href="/members/mercedes-narcisse/">Mercedes Narcisse</a></td>
+                    <td class="num">2</td>
+                    <td class="num">5</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-housing-and-buildings/">Committee on Housing and Buildings</a></td>
-                    <td>Pierina Ana Sanchez</td>
+                    <td><a class="row-link" href="/committees/committee-on-housing-and-buildings/">Committee on Housing and Buildings</a></td>
+                    <td><a class="row-link" href="/members/pierina-ana-sanchez/">Pierina Ana Sanchez</a></td>
                     <td class="num">6</td>
                     <td class="num">19</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-immigration/">Committee on Immigration</a></td>
-                    <td>Elsie Encarnacion</td>
+                    <td><a class="row-link" href="/committees/committee-on-immigration/">Committee on Immigration</a></td>
+                    <td><a class="row-link" href="/members/elsie-encarnacion/">Elsie Encarnacion</a></td>
                     <td class="num">4</td>
                     <td class="num">6</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-land-use/">Committee on Land Use</a></td>
-                    <td>Kevin C. Riley</td>
-                    <td class="num">5</td>
+                    <td><a class="row-link" href="/committees/committee-on-land-use/">Committee on Land Use</a></td>
+                    <td><a class="row-link" href="/members/kevin-riley/">Kevin C. Riley</a></td>
+                    <td class="num">3</td>
                     <td class="num">18</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-mental-health-and-substance-use/">Committee on Mental Health and Substance Use</a></td>
-                    <td>Tiffany Cabán</td>
-                    <td class="num">4</td>
+                    <td><a class="row-link" href="/committees/committee-on-mental-health-and-substance-use/">Committee on Mental Health and Substance Use</a></td>
+                    <td><a class="row-link" href="/members/tiffany-caban/">Tiffany Cabán</a></td>
+                    <td class="num">3</td>
                     <td class="num">7</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-oversight-and-investigations/">Committee on Oversight and Investigations</a></td>
-                    <td>Shekar Krishnan</td>
+                    <td><a class="row-link" href="/committees/committee-on-oversight-and-investigations/">Committee on Oversight and Investigations</a></td>
+                    <td><a class="row-link" href="/members/shekar-krishnan/">Shekar Krishnan</a></td>
                     <td class="num">2</td>
                     <td class="num">2</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-parks-and-recreation/">Committee on Parks and Recreation</a></td>
-                    <td>Ty Hankerson</td>
+                    <td><a class="row-link" href="/committees/committee-on-parks-and-recreation/">Committee on Parks and Recreation</a></td>
+                    <td><a class="row-link" href="/members/ty-hankerson/">Ty Hankerson</a></td>
                     <td class="num">6</td>
                     <td class="num">12</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-public-housing/">Committee on Public Housing</a></td>
-                    <td>Chris Banks</td>
+                    <td><a class="row-link" href="/committees/committee-on-public-housing/">Committee on Public Housing</a></td>
+                    <td><a class="row-link" href="/members/chris-banks/">Chris Banks</a></td>
                     <td class="num">3</td>
                     <td class="num">4</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-public-safety/">Committee on Public Safety</a></td>
-                    <td>Oswald Feliz</td>
+                    <td><a class="row-link" href="/committees/committee-on-public-safety/">Committee on Public Safety</a></td>
+                    <td><a class="row-link" href="/members/oswald-feliz/">Oswald Feliz</a></td>
                     <td class="num">3</td>
                     <td class="num">9</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-rules-privileges-elections-standards-and-ethics/">Committee on Rules, Privileges, Elections, Standards and Ethics</a></td>
-                    <td>Sandra Ung</td>
+                    <td><a class="row-link" href="/committees/committee-on-rules-privileges-elections-standards-and-ethics/">Committee on Rules, Privileges, Elections, Standards and Ethics</a></td>
+                    <td><a class="row-link" href="/members/sandra-ung/">Sandra Ung</a></td>
                     <td class="num">3</td>
-                    <td class="num">4</td>
+                    <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-sanitation-and-solid-waste-management/">Committee on Sanitation and Solid Waste Management</a></td>
-                    <td>Justin Sanchez</td>
+                    <td><a class="row-link" href="/committees/committee-on-sanitation-and-solid-waste-management/">Committee on Sanitation and Solid Waste Management</a></td>
+                    <td><a class="row-link" href="/members/justin-sanchez/">Justin Sanchez</a></td>
                     <td class="num">6</td>
                     <td class="num">24</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-small-business/">Committee on Small Business</a></td>
-                    <td>Shanel Thomas-Henry</td>
-                    <td class="num">4</td>
-                    <td class="num">10</td>
+                    <td><a class="row-link" href="/committees/committee-on-small-business/">Committee on Small Business</a></td>
+                    <td><a class="row-link" href="/members/shanel-thomas-henry/">Shanel Thomas-Henry</a></td>
+                    <td class="num">3</td>
+                    <td class="num">9</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-technology/">Committee on Technology</a></td>
-                    <td>Carmen De La Rosa</td>
+                    <td><a class="row-link" href="/committees/committee-on-technology/">Committee on Technology</a></td>
+                    <td><a class="row-link" href="/members/carmen-de-la-rosa/">Carmen De La Rosa</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-transportation-and-infrastructure/">Committee on Transportation and Infrastructure</a></td>
-                    <td>Shaun Abreu</td>
+                    <td><a class="row-link" href="/committees/committee-on-transportation-and-infrastructure/">Committee on Transportation and Infrastructure</a></td>
+                    <td><a class="row-link" href="/members/shaun-abreu/">Shaun Abreu</a></td>
                     <td class="num">5</td>
                     <td class="num">22</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-veterans/">Committee on Veterans</a></td>
-                    <td>Frank Morano</td>
-                    <td class="num">3</td>
+                    <td><a class="row-link" href="/committees/committee-on-veterans/">Committee on Veterans</a></td>
+                    <td><a class="row-link" href="/members/frank-morano/">Frank Morano</a></td>
+                    <td class="num">2</td>
                     <td class="num">5</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-on-women-and-gender-equity/">Committee on Women and Gender Equity</a></td>
-                    <td>Amanda Farías</td>
+                    <td><a class="row-link" href="/committees/committee-on-women-and-gender-equity/">Committee on Women and Gender Equity</a></td>
+                    <td><a class="row-link" href="/members/amanda-farias/">Amanda Farías</a></td>
                     <td class="num">1</td>
                     <td class="num">4</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/committee-to-combat-hate/">Committee to Combat Hate</a></td>
-                    <td>Yusef Salaam</td>
+                    <td><a class="row-link" href="/committees/committee-to-combat-hate/">Committee to Combat Hate</a></td>
+                    <td><a class="row-link" href="/members/yusef-salaam/">Yusef Salaam</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/subcommittee-on-early-childhood-education/">Subcommittee on Early Childhood Education</a></td>
-                    <td>Jennifer Gutiérrez</td>
+                    <td><a class="row-link" href="/committees/subcommittee-on-early-childhood-education/">Subcommittee on Early Childhood Education</a></td>
+                    <td><a class="row-link" href="/members/jennifer-gutierrez/">Jennifer Gutiérrez</a></td>
                     <td class="num">2</td>
-                    <td class="num">3</td>
+                    <td class="num">4</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/subcommittee-on-landmarks-public-sitings-resiliency-and-dispositions/">Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions</a></td>
+                    <td><a class="row-link" href="/committees/subcommittee-on-landmarks-public-sitings-resiliency-and-dispositions/">Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions</a></td>
                     <td>—</td>
-                    <td class="num">2</td>
+                    <td class="num">0</td>
                     <td class="num">2</td>
                 </tr>
             
                 <tr>
-                    <td><a href="/committees/subcommittee-on-zoning-and-franchises/">Subcommittee on Zoning and Franchises</a></td>
-                    <td>Farah N. Louis</td>
-                    <td class="num">7</td>
+                    <td><a class="row-link" href="/committees/subcommittee-on-zoning-and-franchises/">Subcommittee on Zoning and Franchises</a></td>
+                    <td><a class="row-link" href="/members/farah-louis/">Farah N. Louis</a></td>
+                    <td class="num">5</td>
                     <td class="num">40</td>
                 </tr>
             
             </tbody>
         </table>
     </div>
+    
+<p class="hearing-empty record-empty" data-empty-for="committee-table" hidden>No committee matches.</p>
+
 </div>
 
 
@@ -408,6 +419,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -417,5 +466,6 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+    <script src="/static/table-filter.js"></script>
 </body>
 </html>

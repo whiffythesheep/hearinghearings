@@ -1,0 +1,33 @@
+{
+ "event_id": "1440703",
+ "date": "2026-09-29",
+ "body": "Subcommittee on Early Childhood Education",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440703&GUID=3C662C5A-B99F-48BD-BAD2-B8F42B8B2F8B&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2404",
+   "type": "Oversight",
+   "name": "Oversight - Supporting Multi-Language Learners in Early Childhood Education Programs.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8190205",
+   "legistar_guid": "C4065E27-4840-4ABE-8931-76A37A755455"
+  },
+  {
+   "file_number": "Res 0650-2026",
+   "type": "Resolution",
+   "name": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
+   "sponsor": "Jennifer Gutiérrez",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8223442",
+   "legistar_guid": "3A6A6BC1-67CD-44D1-B406-9AC56C4CE8AD"
+  }
+ ]
+}

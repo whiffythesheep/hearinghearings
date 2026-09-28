@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Public Housing"
 committee_slug: committee-on-public-housing
-title: "Life Without Emergency Housing Vouchers: Present Options and Future Plans"
+title: "Life After Emergency Housing Vouchers"
 date: 2026-06-17
 slug: committee-on-public-housing-life-without-emergency-housing-vouchers-present-options-and-future-plans-2026-06-17
 duration: "3hrs 3m"

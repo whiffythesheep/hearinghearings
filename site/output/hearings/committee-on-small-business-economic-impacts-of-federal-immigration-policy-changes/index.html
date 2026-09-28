@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out">Committees</a>
@@ -81,6 +80,7 @@
         </div>
     </header>
 
+    
     <section class="hearing-summary">
         <div class="section-header">
             <h2>Meeting overview</h2>
@@ -145,38 +145,41 @@
 <li>SBS to provide the Council with updated information on the six borough-based Small Business Month engagement events, including dates and partner organizations, as those events are finalized on the nyc.gov/smallbizmonth website.</li>
 </ul></div></details>
     </section>
+    
 
     
     <section class="hearing-record">
         <div class="section-header">
             <h2>The record</h2>
         </div>
+        
         <p class="record-note">What the Council did, from Legistar — separate from the summary above,
             which is written from the transcript.</p>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
-                <tbody>
-                
-                    <tr>
-                        <td class="num"><a href="/matters/t2026-1545/">T2026-1545</a></td>
-                        <td>Oversight - Economic Impacts of Federal Immigration Policy Changes.</td>
-                        <td>Hearing Held by Committee</td>
-                        <td>—</td>
-                        <td class="num">—</td>
-                    </tr>
-                
-                    <tr>
-                        <td class="num"><a href="/matters/t2026-1545/">T2026-1545</a></td>
-                        <td>Oversight - Economic Impacts of Federal Immigration Policy Changes.</td>
-                        <td>Filed, by Committee</td>
-                        <td>—</td>
-                        <td class="num">—</td>
-                    </tr>
-                
-                </tbody>
-            </table>
-        </div>
+        
+        
+<div class="table-scroll listing-well">
+    <table class="record-table">
+        <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+        <tbody>
+        
+            <tr>
+                <td class="num">
+                    <a class="record-link mono" href="/matters/t2026-1545/">T2026-1545</a>
+                    
+                </td>
+                <td title="Legistar: Oversight - Economic Impacts of Federal Immigration Policy Changes.">Hearing on federal immigration crackdowns hurting NYC businesses</td>
+                <td><span title="Legistar: Filed, by Committee">Closed by committee</span></td>
+                <td>—</td>
+                <td class="num">—</td>
+            </tr>
+        
+        </tbody>
+    </table>
+</div>
+
+        
+
+
     </section>
     
 
@@ -1220,6 +1223,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -1254,5 +1295,6 @@
     });
 </script>
 
+    
 </body>
 </html>

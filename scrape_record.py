@@ -7,6 +7,7 @@ Phase 1 of the expansion. Read-only with respect to the site -- this writes
     python scrape_record.py                 # every meeting in the archive
     python scrape_record.py --since 2026-09-01
     python scrape_record.py --limit 5 --dry-run
+    python scrape_record.py --refresh      # nightly: re-fetch only what can change
 
 Meetings come from two places, neither of which needs the Legistar
 date-range postback:
@@ -67,6 +68,9 @@ class Fetcher:
         self.session = requests.Session()
         self.session.headers.update(BROWSER_HEADERS)
         self.use_cache = use_cache
+        # Set per call site to bypass the cache for pages that can change
+        # (recent and upcoming meetings, matters still in progress).
+        self.fresh = False
         self.fetched = 0
         self.cached = 0
         CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -75,7 +79,7 @@ class Fetcher:
         url = path if path.startswith("http") else f"{LEGISTAR_HOST}/{path}"
         key = re.sub(r"[^A-Za-z0-9]+", "_", url)[-120:]
         cache_file = CACHE_DIR / f"{key}.html"
-        if self.use_cache and cache_file.exists():
+        if self.use_cache and not self.fresh and cache_file.exists():
             self.cached += 1
             return cache_file.read_text(encoding="utf-8")
         time.sleep(REQUEST_DELAY)
@@ -459,6 +463,27 @@ def write_json(path, payload):
                     encoding="utf-8")
 
 
+# --refresh re-fetches meetings this recent (days), plus anything upcoming.
+REFRESH_DAYS = 7
+
+# Statuses after which a matter's Legistar page stops changing.
+SETTLED_STATUSES = {
+    "Enacted", "Adopted", "Filed", "Withdrawn", "Disapproved", "Vetoed",
+    "Received, Ordered, Printed and Filed",
+}
+
+
+def matter_settled(file_number):
+    path = DATA_DIR / "matters" / f"{matter_slug(file_number)}.json"
+    if not path.exists():
+        return False
+    try:
+        status = json.loads(path.read_text(encoding="utf-8")).get("status", "")
+    except ValueError:
+        return False
+    return status in SETTLED_STATUSES
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -468,6 +493,10 @@ def main():
     p.add_argument("--no-cache", action="store_true", help="ignore the HTML cache")
     p.add_argument("--skip-fiscal", action="store_true",
                    help="skip downloading Fiscal Impact Statements")
+    p.add_argument("--refresh", action="store_true",
+                   help="nightly mode: re-fetch meetings from the last %d days, the next "
+                        "day's meetings, and every matter not yet settled; the rest from cache"
+                        % REFRESH_DAYS)
     p.add_argument("--skip-votes", action="store_true",
                    help="skip roll calls (much faster; use to sanity-check the grid)")
     args = p.parse_args()
@@ -478,10 +507,16 @@ def main():
     known = {**calendar_meetings(), **archive_meetings()}
     today = time.strftime("%Y-%m-%d")
 
-    # Filter on the dates we already hold, before fetching anything. Future
-    # meetings have nothing to record yet.
+    fresh_from = time.strftime(
+        "%Y-%m-%d", time.localtime(time.time() - REFRESH_DAYS * 86400))
+    tomorrow = time.strftime("%Y-%m-%d", time.localtime(time.time() + 86400))
+
+    # Filter on the dates we already hold, before fetching anything. The next
+    # day's meetings are kept: their agendas are the site's "Upcoming" rows.
+    # Anything further out waits until the night before.
     meetings = [(eid, guid, date) for eid, (guid, date) in known.items()
-                if date and date <= today and (not args.since or date >= args.since)]
+                if date and date <= tomorrow
+                and (not args.since or date >= args.since)]
     meetings.sort(key=lambda m: (m[2], m[0]))
     logger.info("Meetings known: %d; in scope after date filter: %d",
                 len(known), len(meetings))
@@ -493,9 +528,11 @@ def main():
     for event_id, guid, _date in meetings:
         if args.limit and written >= args.limit:
             break
+        # Agendas and results keep changing until shortly after a meeting.
+        fetcher.fresh = _date > today or (args.refresh and _date >= fresh_from)
         try:
             record = scrape_meeting(fetcher, event_id, guid,
-                                    with_votes=not args.skip_votes)
+                                    with_votes=not args.skip_votes and _date <= today)
         except requests.HTTPError as e:
             logger.warning("  %s: %s", event_id, e)
             continue
@@ -522,6 +559,7 @@ def main():
     matters_written = 0
     fiscal_found = 0
     for legistar_id, (guid, file_number) in sorted(matters_seen.items()):
+        fetcher.fresh = args.refresh and not matter_settled(file_number)
         try:
             matter = scrape_matter(fetcher, legistar_id, guid, file_number)
         except requests.HTTPError as e:

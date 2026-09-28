@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1055-2026",
+ "title": "Law to require testing and mapping of public drinking fountains",
+ "summary": "This bill would require the Parks Department to inspect and test the water of each public drinking fountain at least twice per year. It would require an online map showing each fountain's location, condition, seasonal shutoff dates and water test results, plus signage with a QR code linking to that map. The law would take effect 60 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "2861315254b6e3e5"
+}

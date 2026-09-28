@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2484",
+ "title": "Hearing on New York City's 911 Outage",
+ "summary": "The Council will examine an August 18, 2026 technical glitch that prevented about 1,700 calls from reaching the Bronx 911 call center, leaving roughly 400 callers unable to reach a dispatcher, which officials attributed to a Motorola software update. The hearing will also review staffing shortages among 911 call-takers and dispatchers, past outages in the FireCAD and EMSCAD dispatch systems, and the City's delayed rollout of Next Generation 911 technology, now expected by summer 2026. Witnesses invited include the Office of Technology and Innovation, NYPD and FDNY.",
+ "model": "claude-sonnet-5",
+ "input_hash": "6ae20ac89c305dee"
+}

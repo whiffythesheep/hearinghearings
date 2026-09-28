@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0809-2026",
+ "title": "Law to require DOC health plan for jail lock-ins",
+ "summary": "This bill would require the Department of Correction, working with Correctional Health Services, to create a plan ensuring medical appointments are addressed during and after lock-ins in city jails. It requires DOC to notify CHS before or during a lock-in, prioritize missed appointments by medical need and keep escorting patients when possible. It also requires DOC to report on mental health unit lockdowns and CHS to report on missed appointments caused by lock-ins.",
+ "model": "claude-sonnet-5",
+ "input_hash": "0588cfb85d0008c8"
+}

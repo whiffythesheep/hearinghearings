@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1018-2026",
+ "title": "Law to let elected officials shield their home addresses",
+ "summary": "This bill would create a program letting the mayor, comptroller, public advocate, borough presidents and Council members ask city agencies not to disclose their home addresses outside city government. Agencies could still disclose in exigent circumstances, with the official's written consent, if required by law or court order, for a good-faith agency need or for law enforcement investigations, with notice to the official in most cases. The requirement would also apply to city contractors and subcontractors and would take effect 120 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d7be0def7426416d"
+}

@@ -1,7 +1,7 @@
 ---
 committee: "Subcommittee on Zoning and Franchises"
 committee_slug: subcommittee-on-zoning-and-franchises
-title: "Rezoning Applications in Ferry Point, Williamsburg, Flushing and Bushwick"
+title: "Rezonings in Ferry Point, Williamsburg, Flushing and Bushwick"
 date: 2026-08-12
 slug: subcommittee-on-zoning-and-franchises-rezoning-applications-in-ferry-point-williamsburg-flushing-2026-08-12
 duration: "1hr 44m"

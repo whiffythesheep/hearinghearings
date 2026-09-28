@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1076-2026",
+ "title": "Law to require reporting of paid third-party social media posts",
+ "summary": "This bill would require any public servant who uses government money or resources for content posted online by someone not identified as a city official to report details to the Department of Records and Information Services within 60 days. Required details include the author's name, the platforms used, the topic, any vendor involved and the amount spent. DORIS would then post this information publicly at least twice a year, or quarterly in election years.",
+ "model": "claude-sonnet-5",
+ "input_hash": "82231ad437cb9099"
+}

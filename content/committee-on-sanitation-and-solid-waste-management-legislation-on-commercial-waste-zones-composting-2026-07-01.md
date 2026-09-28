@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Sanitation and Solid Waste Management"
 committee_slug: committee-on-sanitation-and-solid-waste-management
-title: "Legislation on Commercial Waste Zones, Composting and Sidewalk Cleanliness"
+title: "Commercial Waste Zones, Composting and Clean Sidewalks"
 date: 2026-07-01
 slug: committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01
 duration: "1hr 17m"

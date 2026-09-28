@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0098-2026",
+ "title": "Law to set inspection rules for CityFHEPS apartments",
+ "summary": "This bill would require the Department of Social Services to inspect apartments in person before approving CityFHEPS rental assistance for them. It would require the agency to create a checklist labeling conditions as major or minor, and owners with no more than 4 unsatisfactory minor conditions could fix them by submitting proof through a new online portal instead of a follow-up inspection. The agency could also allow newly built units to skip inspection entirely, and the law would take effect 180 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "766554804eb5f14c"
+}

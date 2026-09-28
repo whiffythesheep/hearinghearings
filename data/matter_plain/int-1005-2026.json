@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1005-2026",
+ "title": "Law to require public education on Legionnaires' disease",
+ "summary": "This bill would require the Health Department to run a public awareness campaign on Legionnaires' disease, covering risk factors, prevention, symptoms and treatment, and how to report outbreaks. It also requires outreach tailored to healthcare providers and posting of educational materials in English and other designated citywide languages on the department's website, updated annually. Outreach must increase before and during summer months and during any disease outbreaks.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d368770606833c82"
+}

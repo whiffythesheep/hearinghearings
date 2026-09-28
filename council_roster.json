@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23",
+  "scraped_at": "2026-09-28",
   "sources": {
     "districts": "https://council.nyc.gov/districts/",
     "committees": "https://council.nyc.gov/committees/"
@@ -7,207 +7,826 @@
   "districts": {
     "1": {
       "name": "Christopher Marte",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Financial District-Battery Park City",
+        "Tribeca-Civic Center",
+        "The Battery-Governors Island-Ellis Island-Liberty Island",
+        "SoHo-Little Italy-Hudson Square",
+        "Chinatown-Two Bridges",
+        "Lower East Side"
+      ]
     },
     "2": {
       "name": "Harvey Epstein",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Greenwich Village",
+        "Lower East Side",
+        "East Village",
+        "Midtown South-Flatiron-Union Square",
+        "Gramercy",
+        "Murray Hill-Kips Bay"
+      ]
     },
     "3": {
       "name": "Carl Wilson",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Hudson Square",
+        "West Village",
+        "Chelsea",
+        "Hudson Yards",
+        "Meatpacking District",
+        "Garment District",
+        "Times Square",
+        "Hell's Kitchen"
+      ]
     },
     "4": {
       "name": "Virginia Maloney",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Midtown South-NoMad",
+        "Midtown-Times Square",
+        "Stuyvesant Town-Peter Cooper Village",
+        "Murray Hill-Kips Bay",
+        "East Midtown-Turtle Bay",
+        "United Nations",
+        "Upper East Side-Carnegie Hill"
+      ]
     },
     "5": {
       "name": "Julie Menin",
-      "role": "Speaker"
+      "role": "Speaker",
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Upper East Side (Lenox Hill",
+        "Yorkville",
+        "Carnegie Hill) and Roosevelt Island"
+      ]
     },
     "6": {
       "name": "Gale A. Brewer",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Upper West Side",
+        "Lincoln Square",
+        "Hell's Kitchen",
+        "Central Park"
+      ]
     },
     "7": {
       "name": "Shaun Abreu",
-      "role": "Majority Leader"
+      "role": "Majority Leader",
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Upper West Side (Central)",
+        "Upper West Side-Manhattan Valley",
+        "Morningside Heights",
+        "Manhattanville-West Harlem",
+        "Hamilton Heights-Sugar Hill",
+        "Washington Heights (South)"
+      ]
     },
     "8": {
       "name": "Elsie Encarnacion",
-      "role": null
+      "role": null,
+      "borough": "Manhattan/Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Mott Haven-Port Morris",
+        "Melrose",
+        "Concourse-Concourse Village",
+        "Upper East Side-Carnegie Hill",
+        "Upper East Side-Yorkville",
+        "East Harlem (South)",
+        "East Harlem (North)",
+        "Randall's Island"
+      ]
     },
     "9": {
       "name": "Yusef Salaam",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Morningside Heights",
+        "Manhattanville-West Harlem",
+        "Hamilton Heights-Sugar Hill",
+        "Harlem (South)",
+        "Harlem (North)",
+        "East Harlem (South)",
+        "East Harlem (North)",
+        "Upper West Side-Manhattan Valley"
+      ]
     },
     "10": {
       "name": "Carmen De La Rosa",
-      "role": null
+      "role": null,
+      "borough": "Manhattan",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Washington Heights",
+        "Inwood",
+        "Marble Hill"
+      ]
     },
     "11": {
       "name": "Eric Dinowitz",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bedford Park",
+        "Norwood",
+        "Kingsbridge Heights-Van Cortlandt Village",
+        "Kingsbridge",
+        "Riverdale-Spuyten Duyvil",
+        "Wakefield-Woodlawn",
+        "Woodlawn Cemetery",
+        "Van Cortlandt Park"
+      ]
     },
     "12": {
       "name": "Kevin C. Riley",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Williamsbridge-Olinville",
+        "Bronxwood",
+        "Eastchester-Edenwald-Baychester",
+        "Wakefield",
+        "Allerton-Parkside",
+        "Baychester",
+        "The Valley",
+        "and Co-op City"
+      ]
     },
     "13": {
       "name": "Shirley Aldebol",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bruckner-Bronx River",
+        "Throggs Neck-Schuylerville",
+        "Pelham Bay-Country Club-City Island",
+        "Hart Island",
+        "Ferry Point Park-St. Raymond Cemetery",
+        "Pelham Parkway-Van Nest",
+        "Morris Park",
+        "Pelham Bay Park"
+      ]
     },
     "14": {
       "name": "Pierina Ana Sanchez",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "University Heights (South)-Morris Heights",
+        "Mount Hope",
+        "Fordham Heights",
+        "University Heights (North)-Fordham",
+        "Bedford Park",
+        "Kingsbridge Heights-Van Cortlandt Village",
+        "Kingsbridge-Marble Hill"
+      ]
     },
     "15": {
       "name": "Oswald Feliz",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Fordham",
+        "East Tremont",
+        "Belmont",
+        "Bathgate",
+        "Crotona Park",
+        "Mount Eden-Claremont",
+        "Mount Hope",
+        "West Farms",
+        "Bedford Park",
+        "Allerton",
+        "Bronx Park East"
+      ]
     },
     "16": {
       "name": "Althea Stevens",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Morrisania",
+        "Claremont Village-Claremont (East)",
+        "Concourse-Concourse Village",
+        "Highbridge",
+        "Mount Eden-Claremont (West)",
+        "Yankee Stadium-Macombs Dam Park",
+        "Claremont Park",
+        "University Heights (South)-Morris Heights",
+        "University Heights (North)-Fordham"
+      ]
     },
     "17": {
       "name": "Justin Sanchez",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Mott Haven-Port Morris",
+        "Melrose",
+        "Hunts Point",
+        "Longwood",
+        "North & South Brother Islands",
+        "Morrisania",
+        "Crotona Park East",
+        "Concourse-Concourse Village",
+        "West Farms",
+        "Soundview-Bruckner-Bronx River"
+      ]
     },
     "18": {
       "name": "Amanda Farías",
-      "role": null
+      "role": null,
+      "borough": "Bronx",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Soundview-Bruckner",
+        "Soundview-Clason Point",
+        "Castle Hill-Unionport",
+        "Harding Park",
+        "Parkchester",
+        "Westchester Square"
+      ]
     },
     "19": {
       "name": "Vickie Paladino",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Republican",
+      "neighborhoods": [
+        "College Point",
+        "Whitestone-Beechhurst",
+        "Murray Hill-Broadway Flushing",
+        "North Flushing",
+        "Auburndale",
+        "Bayside",
+        "Bay Terrace-Clearview",
+        "Fort Totten",
+        "Douglaston-Little Neck"
+      ]
     },
     "20": {
       "name": "Sandra Ung",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Flushing",
+        "Murray Hill",
+        "Queensboro Hill",
+        "Fresh Meadows & Mitchell-Linden"
+      ]
     },
     "21": {
       "name": "Shanel Thomas-Henry",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Astoria (North)-Ditmars-Steinway",
+        "Jackson Heights",
+        "East Elmhurst",
+        "North Corona",
+        "Elmhurst",
+        "Corona",
+        "Rego Park",
+        "Flushing-Willets Point",
+        "LaGuardia Airport",
+        "Flushing Meadows-Corona Park"
+      ]
     },
     "22": {
       "name": "Tiffany Cabán",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Astoria (North)-Ditmars-Steinway",
+        "Old Astoria-Hallets Point",
+        "Astoria (Central)",
+        "Astoria (East)-Woodside (North)",
+        "Queensbridge-Ravenswood-Dutch Kills",
+        "Rikers Island",
+        "St. Michael's Cemetery",
+        "Astoria Park",
+        "Jackson Heights",
+        "East Elmhurst",
+        "LaGuardia Airport"
+      ]
     },
     "23": {
       "name": "Linda Lee",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Fresh Meadows",
+        "Jamaica Estates-Holliswood",
+        "Cunningham Park",
+        "Bayside",
+        "Douglaston-Little Neck",
+        "Oakland Gardens-Hollis Hills",
+        "Alley Pond Park",
+        "Jamaica",
+        "Hollis",
+        "Glen Oaks-Floral Park-New Hyde Park",
+        "Bellerose",
+        "Queens Village",
+        "Jamaica"
+      ]
     },
     "24": {
       "name": "James F. Gennaro",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Rego Park",
+        "Forest Hills",
+        "Kew Gardens Hills",
+        "Pomonok-Electchester-Hillcrest",
+        "Fresh Meadows-Utopia",
+        "Jamaica Estates-Holliswood",
+        "Jamaica Hills-Briarwood",
+        "Mount Hebron & Cedar Grove Cemeteries",
+        "Jamaica",
+        "Flushing Meadows-Corona Park"
+      ]
     },
     "25": {
       "name": "Shekar Krishnan",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Jackson Heights",
+        "Elmhurst",
+        "East Elmhurst",
+        "Woodside"
+      ]
     },
     "26": {
       "name": "Julie Won",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Astoria (Central)",
+        "Astoria (East)-Woodside (North)",
+        "Queensbridge-Ravenswood-Dutch Kills",
+        "Sunnyside Yards (North)",
+        "Long Island City-Hunters Point",
+        "Sunnyside",
+        "Woodside",
+        "Sunnyside Yards (South)",
+        "Calvary & Mount Zion Cemeteries",
+        "Jackson Heights",
+        "Elmhurst",
+        "Maspeth"
+      ]
     },
     "27": {
       "name": "Nantasha Williams",
-      "role": "Deputy Speaker"
+      "role": "Deputy Speaker",
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Jamaica",
+        "South Jamaica",
+        "Springfield Gardens (North)-Rochdale Village",
+        "St. Albans",
+        "Hollis",
+        "Queens Village",
+        "Cambria Heights",
+        "Laurelton",
+        "Jamaica"
+      ]
     },
     "28": {
       "name": "Ty Hankerson",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "South Ozone Park",
+        "Jamaica",
+        "South Jamaica",
+        "Baisley Park",
+        "Springfield Gardens (North)-Rochdale Village",
+        "Springfield Gardens (South)-Brookville"
+      ]
     },
     "29": {
       "name": "Lynn Schulman",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Rego Park",
+        "Forest Hills",
+        "Kew Gardens",
+        "Richmond Hill",
+        "South Richmond Hill",
+        "Ozone Park (North)",
+        "South Ozone Park"
+      ]
     },
     "30": {
       "name": "Phil Wong",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Maspeth",
+        "Middle Village",
+        "Glendale",
+        "Elmhurst",
+        "Rego Park and parts of Ridgewood"
+      ]
     },
     "31": {
       "name": "Selvena N. Brooks-Powers",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Arverne",
+        "Brookville",
+        "Edgemere",
+        "Jamaica (parts)",
+        "Far Rockaway",
+        "Laurelton",
+        "Rosedale",
+        "Springfield Gardens (parts)"
+      ]
     },
     "32": {
       "name": "Joann Ariola",
-      "role": null
+      "role": null,
+      "borough": "Queens",
+      "party": "Republican",
+      "neighborhoods": [
+        "Glendale",
+        "Forest Park",
+        "Ozone Park (North)",
+        "Woodhaven",
+        "Ozone Park",
+        "Howard Beach-Lindenwood",
+        "Spring Creek Park",
+        "Broad Channel",
+        "Rockaway Beach",
+        "Rockaway Park",
+        "Belle Harbor",
+        "Neponsit",
+        "Roxbury",
+        "Jacob Riis Park",
+        "Fort Tilden",
+        "Breezy Point"
+      ]
     },
     "33": {
       "name": "Lincoln Restler",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Greenpoint",
+        "Northside Williamsburg",
+        "South Williamsburg",
+        "Brooklyn Heights",
+        "Downtown Brooklyn",
+        "DUMBO",
+        "Boerum Hill",
+        "Vinegar Hill",
+        "Bedford-Stuyvesant",
+        "Brooklyn Navy Yard"
+      ]
     },
     "34": {
       "name": "Jennifer Gutiérrez",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn, Queens",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Williamsburg",
+        "South Williamsburg",
+        "East Williamsburg",
+        "Bushwick (West)",
+        "Bushwick (East)",
+        "Ridgewood"
+      ]
     },
     "35": {
       "name": "Crystal Hudson",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Fort Greene",
+        "Clinton Hill",
+        "Prospect Heights",
+        "Crown Heights"
+      ]
     },
     "36": {
       "name": "Chi Ossé",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bedford-Stuyvesant (West)",
+        "Bedford-Stuyvesant (East)",
+        "Crown Heights (North)"
+      ]
     },
     "37": {
       "name": "Sandy Nurse",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bushwick (West)",
+        "Bushwick (East)",
+        "The Evergreens Cemetery",
+        "Cypress Hills",
+        "East New York (North)",
+        "East New York-City Line",
+        "Highland Park-Cypress Hills Cemeteries (South)",
+        "Ocean Hill",
+        "Brownsville"
+      ]
     },
     "38": {
       "name": "Alexa Avilés",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Red Hook and parts of Gowanus",
+        "Park Slope",
+        "Sunset Park",
+        "Borough Park",
+        "Dyker Heights",
+        "Bensonhurst",
+        "and Bath Beach"
+      ]
     },
     "39": {
       "name": "Shahana Hanif",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Kensington",
+        "Borough Park",
+        "Windsor Terrace",
+        "Park Slope",
+        "Gowanus",
+        "Carroll Gardens",
+        "Cobble Hill",
+        "Boerum Hill",
+        "and the Columbia Waterfront"
+      ]
     },
     "40": {
       "name": "Rita C. Joseph",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Windsor Terrace-South Slope",
+        "Crown Heights (South)",
+        "Prospect Lefferts Gardens-Wingate",
+        "Borough Park",
+        "Kensington",
+        "Mapleton-Midwood (West)",
+        "Flatbush",
+        "Flatbush (West)-Ditmas Park-Parkville",
+        "East Flatbush-Erasmus",
+        "East Flatbush-Rugby",
+        "Prospect Park"
+      ]
     },
     "41": {
       "name": "Darlene Mealy",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bedford-Stuyvesant (East)",
+        "Crown Heights (North)",
+        "Lincoln Terrace Park",
+        "Crown Heights (South)",
+        "Prospect Lefferts Gardens-Wingate",
+        "Ocean Hill",
+        "Brownsville",
+        "East Flatbush-Rugby",
+        "East Flatbush-Remsen Village"
+      ]
     },
     "42": {
       "name": "Chris Banks",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "East New York",
+        "Spring Creek-Starrett City",
+        "Brownsville",
+        "East Flatbush",
+        "Remsen Village",
+        "Canarsie"
+      ]
     },
     "43": {
       "name": "Susan Zhuang",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Sunset Park (Central)",
+        "Dyker Heights",
+        "Bensonhurst",
+        "Bath Beach",
+        "Gravesend (West)",
+        "Sunset Park (East)-Borough Park (West)",
+        "Borough Park",
+        "Mapleton-Midwood (West)",
+        "Gravesend (East)-Homecrest"
+      ]
     },
     "44": {
       "name": "Simcha Felder",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Borough Park",
+        "Flatbush",
+        "Gravesend",
+        "Mapleton",
+        "and Midwood"
+      ]
     },
     "45": {
       "name": "Farah N. Louis",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Flatbush",
+        "Midwood",
+        "East Flatbush",
+        "Flatlands",
+        "Marine Park",
+        "Canarsie"
+      ]
     },
     "46": {
       "name": "Mercedes Narcisse",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bergen Beach",
+        "Canarsie",
+        "Flatlands",
+        "Georgetown",
+        "Gerritsen Beach",
+        "Marine Park",
+        "Mill Basin",
+        "Mill Island",
+        "and Sheepshead Bay"
+      ]
     },
     "47": {
       "name": "Kayla Santosuosso",
-      "role": null
+      "role": null,
+      "borough": "Brooklyn",
+      "party": "Democrat",
+      "neighborhoods": [
+        "Bath Beach",
+        "Bay Ridge",
+        "Coney Island",
+        "Dyker Heights",
+        "Gravesend",
+        "Sea Gate"
+      ]
     },
     "48": {
       "name": "Inna Vernikov",
-      "role": "Minority Whip"
+      "role": "Minority Whip",
+      "borough": "Brooklyn",
+      "party": "Republican",
+      "neighborhoods": [
+        "Gravesend (South)",
+        "Coney Island-Sea Gate",
+        "Brighton Beach",
+        "Midwood",
+        "Gravesend (East)-Homecrest",
+        "Madison",
+        "Sheepshead Bay-Manhattan Beach-Gerritsen Beach"
+      ]
     },
     "49": {
       "name": "Kamillah M. Hanks",
-      "role": "Majority Whip"
+      "role": "Majority Whip",
+      "borough": "Staten Island",
+      "party": "Democrat",
+      "neighborhoods": [
+        "St. George-New Brighton",
+        "Tompkinsville-Stapleton-Clifton-Fox Hills",
+        "Rosebank-Shore Acres-Park Hill",
+        "West New Brighton-Silver Lake-Grymes Hill",
+        "Westerleigh-Castleton Corners",
+        "Port Richmond",
+        "Mariner's Harbor-Arlington-Graniteville",
+        "Snug Harbor",
+        "Todt Hill-Emerson Hill-Manor Heights",
+        "Fort Wadsworth"
+      ]
     },
     "50": {
       "name": "David Carr",
-      "role": "Minority Leader"
+      "role": "Minority Leader",
+      "borough": "Staten Island, Brooklyn",
+      "party": "Republican",
+      "neighborhoods": [
+        "Arrochar",
+        "Bath Beach",
+        "Bay Ridge",
+        "Bay Terrace",
+        "Bulls Head",
+        "Castleton Corners",
+        "Concord",
+        "Dongan Hills",
+        "Dongan Hills Colony",
+        "Dyker Beach Park",
+        "Dyker Heights",
+        "Egbertville",
+        "Emmerson Hill",
+        "Fort Hamilton",
+        "Fort Wadsworth",
+        "Grant City",
+        "Grasmere",
+        "High Rock",
+        "Lighthouse Hill",
+        "Midland Beach",
+        "New Dorp",
+        "Oakwood",
+        "Ocean Breeze",
+        "Old Town",
+        "Richmondtown",
+        "South Beach",
+        "Todt Hill",
+        "Travis",
+        "Westerleigh",
+        "Willowbrook"
+      ]
     },
     "51": {
       "name": "Frank Morano",
-      "role": null
+      "role": null,
+      "borough": "Staten Island",
+      "party": "Republican",
+      "neighborhoods": [
+        "New Springville-Willowbrook-Bulls Head-Travis",
+        "Freshkills Park (North)",
+        "Oakwood-Richmondtown",
+        "Great Kills-Eltingville",
+        "Arden Heights-Rossville",
+        "Annadale-Huguenot-Prince's Bay-Woodrow",
+        "Tottenville-Charleston",
+        "Freshkills Park (South)",
+        "Great Kills Park"
+      ]
     }
   },
   "members": [

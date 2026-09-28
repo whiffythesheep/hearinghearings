@@ -26,9 +26,12 @@ hearinghearings/
 ├── summarize_council_meeting.py   # pipeline entry point
 ├── reprocess_published.py         # batch rebuild all published hearings
 ├── scrape_record.py               # record layer: Legistar → data/ (no LLM, no cost)
+├── summarize_matters.py           # plain-English matter titles + summaries (Sonnet 5)
+├── refresh_record_nightly.py      # 19:00 record refresh, before discover_pending.py
 ├── data/                          # scraped record, TRACKED (see "Record layer")
 │   ├── meetings/<event_id>.json   #   items, actions, roll calls
-│   └── matters/<file-slug>.json   #   status, sponsors, attachments, fiscal, history
+│   ├── matters/<file-slug>.json   #   status, sponsors, attachments, fiscal, history
+│   └── matter_plain/<slug>.json   #   plain title + summary (summarize_matters.py)
 ├── word_bank.json                 # persistent transcript corrections (reference data, not tracked)
 ├── summarize.log                  # gitignored
 ├── Input/                         # cached agenda PDFs and transcript JSONs (gitignored)
@@ -40,7 +43,7 @@ hearinghearings/
     │   ├── base.html              # shared window chrome, section nav, subscribe block
     │   ├── index.html             # listing page
     │   ├── hearing.html           # single hearing page (+ "The record" block)
-    │   ├── meetings.html / meeting.html      # all meetings; vote-session records
+    │   ├── _record.html           # shared record macros (tables, roll calls, filters)
     │   ├── matters.html / matter.html        # matters index + lookup; matter pages
     │   ├── members.html / member.html        # voting records
     │   └── committees.html / committee.html  # committee activity
@@ -269,9 +272,74 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
 - **Matter numbers auto-link in summary prose; member names deliberately do not.**
   Transcript spellings are caption-derived, and a wrong link would point at a real person
   who was not in the room.
-- Vote sessions get record-only pages at `/meetings/<event_id>/`. A meeting that gains a
-  published hearing loses its record-only page automatically and its items render as the
-  hearing page's "The record" block instead.
+- Vote sessions get record-only pages at `/meetings/<event_id>/`, rendered with
+  `hearing.html` minus summary/transcript. A meeting that gains a published hearing loses
+  its record-only page automatically and its items render as the hearing page's "The
+  record" block instead. There is no `/meetings/` index (it 301s to `/` via `_redirects`).
+
+### How the site presents it (redesigned 2026-09-28)
+
+- **One Hearings list** on `/` holds every event: summarised hearings, vote sessions
+  (titled "Vote: <plain title> + N more") and the **next day's** upcoming meetings (rows in
+  a lighter grey). A "Meeting ▾" column filter switches between them. The nav is Hearings,
+  Matters, Members, Committees.
+- **Left out entirely:** deferred meetings (`agenda_status == "Deferred"`; they never
+  happened), meetings more than a day ahead, and "process only" meetings (held, unsummarised,
+  no vote: items only held over). Matter types Communication, Mayor's Message, Commissioner
+  of Deeds and N/A are excluded as paperwork (`EXCLUDED_TYPES` in `site/record.py`).
+- **One row per matter per meeting**: Legistar's heard/amended/approved rows (and the Stated
+  Meeting's duplicate General Orders listing) collapse to the most decisive action
+  (`collapse()` / `action_rank()`). LU applications and their companion resolutions are
+  joined (by "L.U. No." or the ULURP number) and shown as one row "LU x with Res y".
+- **Plain English everywhere**: `PLAIN_ACTIONS` maps Legistar action wording (hover shows
+  the original); `matter_stage()` gives the Matters stage strip (Introduced → In committee →
+  Passed committee → Awaiting the Mayor → Law or adopted, plus Closed and Oversight topic).
+- **Matter timelines** come from Legistar's own history, one row per body per day; joint
+  hearings merge into one "Joint hearing: A, B, C" row; future-dated steps show "Scheduled:".
+- **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov
+  districts page (`refresh_council_roster.py` now stores them in `council_roster.json`).
+- **Tables** share `site/static/table-filter.js` (search box, Explorer-style column filter
+  popovers, `data-sort` A–Z/Z–A, filter state in the URL).
+- **Back links**: the fixed parent link, plus "← Back to <page>" only when the referrer is a
+  different page from the parent (query strings ignored); names via sessionStorage.
+
+### Plain-English matter titles and summaries (`summarize_matters.py`)
+
+Each matter gets a uniform title ("Law to ban the fastest e-bikes", "Resolution urging…",
+"Hearing on…", "Zoning text change for…") and a summary of at most three sentences, written
+by **Claude Sonnet 5** from the matter's Legistar documents (Council bill summary, bill text,
+committee report; downloaded to `Input/legistar_docs/`). Stored in `data/matter_plain/<slug>.json`
+(tracked) with an input hash, so only new or changed matters are regenerated. The site uses
+the plain title everywhere (official title on the matter page and on hover) and shows the
+summary as "In brief", labelled AI-written.
+
+```bash
+python summarize_matters.py --count        # free: fetch docs + exact token count + cost estimate
+python summarize_matters.py --sample 10    # a few synchronously, printed for review
+python summarize_matters.py --batch        # everything missing via the Batch API (half price)
+python summarize_matters.py --collect <id>
+python summarize_matters.py --new          # nightly
+```
+
+Backfill of 565 matters on 2026-09-28 cost $3.73 via the Batch API. Nightly cost is cents.
+Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
+
+### Nightly record refresh (`refresh_record_nightly.py`)
+
+`run_discover.ps1` (Task Scheduler `HearingHearingsDiscover`, 19:00) now runs this **before**
+`discover_pending.py`:
+
+1. Sync master to origin (tree must be clean, else it exits and changes nothing).
+2. `scrape_record.py --refresh`: re-fetches meetings from the last 7 days, the next day's
+   meetings, and every matter not in a settled status; the rest from the HTML cache
+   (~650 requests, ~5 min). Note the plain `scrape_record.py` serves **everything** from
+   cache; use `--no-cache` for a full re-check (~2,100 requests, ~18 min).
+3. `summarize_matters.py --new` (failure is non-fatal).
+4. Rebuild; commit + push to master only if `data/` changed.
+5. Merge master into every open `pending/*` PR branch and rebuild it, so PRs never conflict
+   with master on generated `site/output/` files.
+
+Any failure resets the tree to where it started, so it cannot strand a dirty tree for discover.
 
 ## Deployment
 

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1047-2026",
+ "title": "Law to speed up payments on human services contracts",
+ "summary": "This bill would require city agencies to complete budget approvals and system setup so nonprofit human services contracts are ready for invoicing by their start date. If an agency misses that deadline, it must notify the contractor and the city chief procurement officer of what steps remain and when payment processing will begin. The chief procurement officer would also have to report quarterly to the Mayor and Council Speaker on contracts that were not invoiceable on time.",
+ "model": "claude-sonnet-5",
+ "input_hash": "6b1e2744e9f26ad4"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0089-2026",
+ "title": "Law to add tree pits to the city's online tree map",
+ "summary": "This bill would require the Parks Department to identify tree pits on streets and in landscaped parks and add them to the city's online tree map within three years. The map must show whether each tree pit has a tree, and if not, why. The Parks Department would have to update this information annually, by November 1 each year.",
+ "model": "claude-sonnet-5",
+ "input_hash": "6ea903e26553350c"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0996-2026",
+ "title": "Law to make NYPD report arrests made in front of children",
+ "summary": "This bill would require the NYPD to publicly post quarterly data on arrests of parents or caregivers made in the presence of their children. The data would include the precinct, arrest date, number of children present, their ages and whether each child was left with another caregiver. Reports would be posted online within 30 days after the end of each quarter.",
+ "model": "claude-sonnet-5",
+ "input_hash": "957e918f86074aba"
+}

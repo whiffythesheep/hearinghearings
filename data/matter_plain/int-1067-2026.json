@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1067-2026",
+ "title": "Law to allow voluntary AI environmental disclosures in city contracts",
+ "summary": "This bill would let city agencies ask companies bidding on artificial intelligence contracts to voluntarily disclose the environmental impact, sustainability and energy use of their AI tools. The Mayor's Office of Contract Services would create a standard form for these disclosures, and failing to submit one would not count against a bidder. The law would take effect 120 days after being enacted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "cac02a4176137084"
+}

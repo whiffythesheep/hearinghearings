@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1060-2026",
+ "title": "Law to add 311 category for jail conditions",
+ "summary": "This bill would require the city to create a 311 service request category for complaints about conditions or treatment of people in city jails. People filing a complaint could identify the incarcerated individual, staff involved and facility, and note whether they are the incarcerated person, an advocate, an official or another party. The city would publish a public data set tracking these requests and their status, and the law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "808ba7c535e83806"
+}

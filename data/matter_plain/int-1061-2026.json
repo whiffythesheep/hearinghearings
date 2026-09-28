@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1061-2026",
+ "title": "Law to let 311 users pick a plaza as complaint location",
+ "summary": "This bill would require the Department of Information Technology and Telecommunications, working with the Department of Transportation, to let people filing a 311 complaint select a pedestrian plaza by name as the location. It would take effect 90 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c823dcfeae6b1e0a"
+}

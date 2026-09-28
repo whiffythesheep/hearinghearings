@@ -1,7 +1,7 @@
 ---
 committee: "Committee on General Welfare"
 committee_slug: committee-on-general-welfare
-title: "Local Law to Amend the Administrative Code of the City of New York, in Relation to the Procedure for Determining That a Dwelling Unit Is Habitable for the Purposes of the CityFHEPS Program"
+title: "Habitability Checks for CityFHEPS Apartments"
 date: 2026-09-22
 slug: committee-on-general-welfare-local-law-to-amend-the-administrative-code-of-the-city-of-new-york-in-2026-09-22
 duration: "3hrs 5m"

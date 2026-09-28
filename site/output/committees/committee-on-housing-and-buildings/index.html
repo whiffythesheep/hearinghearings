@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out nav-button--active">Committees</a>
@@ -58,7 +57,7 @@
         <p class="record-eyebrow">Committee</p>
         <h1>Committee on Housing and Buildings</h1>
         <div class="record-meta">
-            <span>Chair: Pierina Ana Sanchez</span><span class="meta-sep">·</span>
+            <span>Chair: <a class="record-link" href="/members/pierina-ana-sanchez/">Pierina Ana Sanchez</a></span><span class="meta-sep">·</span>
             <span>6 meetings</span>
             <span class="meta-sep">·</span>
             <span>19 matters</span>
@@ -68,51 +67,63 @@
     
     <section class="record-section">
         <h2>Meetings</h2>
-        <div class="table-scroll">
+        <div class="table-scroll listing-well">
             <table class="record-table">
-                <thead><tr><th>Date</th><th>Meeting</th><th>Items</th><th>Roll calls</th></tr></thead>
+                <thead><tr><th>Date</th><th>Meeting</th><th>Matters</th><th>Roll calls</th></tr></thead>
                 <tbody>
                 
                     <tr>
                         <td class="num">2026-09-24</td>
-                        <td><a href="/meetings/1445948/">Committee on Housing and Buildings</a><span class="row-sub">Record only</span></td>
-                        <td class="num">4</td>
+                        <td>
+                            <a class="row-link" href="/meetings/1445948/">Vote: Law to extend J-51 tax break for building repairs</a>
+                        </td>
+                        <td class="num">1</td>
                         <td class="num">1</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-09-09</td>
-                        <td><a href="/hearings/committee-on-housing-and-buildings-block-by-block-mamdanis-housing-plan-2026-09-09/">Block by Block: Mamdani&#39;s Housing Plan</a></td>
-                        <td class="num">16</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-housing-and-buildings-block-by-block-mamdanis-housing-plan-2026-09-09/">Block by Block: Mamdani&#39;s Housing Plan</a>
+                        </td>
+                        <td class="num">8</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-08-13</td>
-                        <td><a href="/meetings/1429781/">Committee on Housing and Buildings</a><span class="row-sub">Record only</span></td>
-                        <td class="num">4</td>
+                        <td>
+                            <a class="row-link" href="/meetings/1429781/">Vote: Law to make anti-harassment building screening permanent</a>
+                        </td>
+                        <td class="num">1</td>
                         <td class="num">1</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-03-24</td>
-                        <td><a href="/hearings/committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing/">FY 2027 Preliminary Budget Hearing</a></td>
-                        <td class="num">2</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing/">FY 2027 Preliminary Budget Hearing</a>
+                        </td>
+                        <td class="num">1</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-03-09</td>
-                        <td><a href="/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/">Preserving Affordable Housing in Distress and the Third-Party Transfer Program</a></td>
-                        <td class="num">4</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/">Distressed Housing and the Third-Party Transfer Program</a>
+                        </td>
+                        <td class="num">2</td>
+                        <td class="num">—</td>
                     </tr>
                 
                     <tr>
                         <td class="num">2026-02-09</td>
-                        <td><a href="/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/">Oversight - Shared Housing in NYC</a></td>
-                        <td class="num">14</td>
-                        <td class="num">0</td>
+                        <td>
+                            <a class="row-link" href="/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/">Oversight - Shared Housing in NYC</a>
+                        </td>
+                        <td class="num">7</td>
+                        <td class="num">—</td>
                     </tr>
                 
                 </tbody>
@@ -122,149 +133,163 @@
     
 
     
-    <section class="record-section">
-        <h2>Matters before this committee</h2>
-        <div class="table-scroll">
-            <table class="record-table">
-                <thead><tr><th>File</th><th>Type</th><th>Title</th><th>Status</th></tr></thead>
+    <section class="record-section record-section--flush">
+        
+<header class="index-section__header" data-filter-for="committee-matter-table">
+    <h2 class="section-heading">Matters before this committee</h2>
+    <label class="sr-only" for="committee-matter-table-search">Search matters before this committee</label>
+    <input type="search" id="committee-matter-table-search" class="hearing-controls__search bevel-in"
+           placeholder="search" autocomplete="off">
+    <span class="hearing-controls__status">
+        <span data-count aria-live="polite">Showing 19 of 19</span>
+        <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
+    </span>
+</header>
+
+        <div class="table-scroll listing-well">
+            <table class="record-table" id="committee-matter-table" data-noun="matter">
+                <thead><tr><th>File</th><th data-filter="count">Type</th><th>Title</th><th data-filter="count">Stage</th></tr></thead>
                 <tbody>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0066-2026/">Int 0066-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0066-2026/">Int 0066-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, the New York city building code, and the New York city fire code, in relation to shared housing</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to allow new shared housing with private rooms</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0071-2026/">Int 0071-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0071-2026/">Int 0071-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the New York city building code, in relation to requiring permit holders responsible for sidewalk sheds or scaffolding to repair or replace certain damaged city-owned trees</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to make scaffolding permit holders repair damaged trees</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0178-2026/">Int 0178-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0178-2026/">Int 0178-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the New York city charter, in relation to establishing an office of conversion assistance</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to create a City office helping building conversions</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0271-2026/">Int 0271-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0271-2026/">Int 0271-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to increase tenant relocation services in the event of a vacate order</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to speed up tenant help when buildings are vacated</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0418-2026/">Int 0418-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0418-2026/">Int 0418-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to create an in-person housing portal assistance program</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to add in-person help applying for affordable housing</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0421-2026/">Int 0421-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0421-2026/">Int 0421-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the occupancy of cellar ancillary dwelling units in newly constructed one- and two-family dwellings</td>
-                        <td>Enacted</td>
+                        <td>Law to let new cellar apartments be rented out</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0427-2026/">Int 0427-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0427-2026/">Int 0427-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to how affordable housing units which subsequently became vacant are rented through the housing portal</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to change how vacant affordable units are re-rented</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0649-2026/">Int 0649-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0649-2026/">Int 0649-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the posting of a sign identifying the owners of multiple dwellings</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require signs naming owners of apartment buildings</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0657-2026/">Int 0657-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0657-2026/">Int 0657-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to reform the Third Party Transfer property foreclosure program</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0717-2026/">Int 0717-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0717-2026/">Int 0717-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of buildings to inform property owners of permit sign-off requirements</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require DOB to remind owners about permit sign-offs</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0839-2026/">Int 0839-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0839-2026/">Int 0839-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program</td>
-                        <td>Enacted</td>
+                        <td>Law to make anti-harassment building screening permanent</td>
+                        <td title="Legistar status: Enacted">Law or adopted</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0860-2026/">Int 0860-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0860-2026/">Int 0860-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to the inspection and enforcement of street numbers on buildings</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to require inspections of building street numbers</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-0905-2026/">Int 0905-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-0905-2026/">Int 0905-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to give nonprofits first chance to buy distressed buildings</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1015-2026/">Int 1015-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1015-2026/">Int 1015-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings</td>
-                        <td>Enacted (Mayor&#39;s Desk for Signature)</td>
+                        <td>Law to extend J-51 tax break for building repairs</td>
+                        <td title="Legistar status: Enacted (Mayor&#39;s Desk for Signature)">Awaiting the Mayor</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/int-1023-2026/">Int 1023-2026</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/int-1023-2026/">Int 1023-2026</a></td>
                         <td>Introduction</td>
-                        <td>A Local Law to amend the administrative code of the city of New York, in relation to authorizing electronic registration of dwellings with the department of housing preservation and development</td>
-                        <td>Laid Over in Committee</td>
+                        <td>Law to let landlords register buildings online with HPD</td>
+                        <td title="Legistar status: Laid Over in Committee">In committee</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1061/">T2026-1061</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1061/">T2026-1061</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Shared Housing in NYC.</td>
-                        <td>Filed</td>
+                        <td>Hearing on shared housing and related housing bills</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1213/">T2026-1213</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1213/">T2026-1213</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.</td>
-                        <td>Filed</td>
+                        <td>Hearing on reforming the Third-Party Transfer program</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-1380/">T2026-1380</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-1380/">T2026-1380</a></td>
                         <td>Oversight</td>
-                        <td>New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report 11:30 a.m. Department of Buildings 1:30 p.m. Department of Housing Preservation and Development 3:30 p.m. Public</td>
-                        <td>Filed</td>
+                        <td>Hearing on preliminary budget for buildings and housing agencies</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                     <tr>
-                        <td class="num"><a href="/matters/t2026-2229/">T2026-2229</a></td>
+                        <td class="num"><a class="record-link mono" href="/matters/t2026-2229/">T2026-2229</a></td>
                         <td>Oversight</td>
-                        <td>Oversight - The Mayor’s Housing Plan.</td>
-                        <td>Filed</td>
+                        <td>Hearing on the Mayor&#39;s Housing Plan and related housing bills</td>
+                        <td title="Legistar status: Filed">Oversight topic</td>
                     </tr>
                 
                 </tbody>
             </table>
         </div>
+        
+<p class="hearing-empty record-empty" data-empty-for="committee-matter-table" hidden>No matter matches.</p>
+
     </section>
     
 </article>
@@ -329,6 +354,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -338,5 +401,6 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+    <script src="/static/table-filter.js"></script>
 </body>
 </html>

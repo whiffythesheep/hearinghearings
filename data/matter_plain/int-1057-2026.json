@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1057-2026",
+ "title": "Law to require email reminders before health permits expire",
+ "summary": "This bill would require the Department of Health and Mental Hygiene to email renewal notices to license and permit holders who request electronic notice, in addition to any mailed notices. These electronic notices must be sent at least 60 days before the license or permit expires. The law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c74ae05e351a1df8"
+}

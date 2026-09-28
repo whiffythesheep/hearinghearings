@@ -43,7 +43,6 @@
 
         <nav class="site-nav" aria-label="Sections">
             <a href="/" class="nav-button bevel-out nav-button--active">Hearings</a>
-            <a href="/meetings/" class="nav-button bevel-out">Meetings</a>
             <a href="/matters/" class="nav-button bevel-out">Matters</a>
             <a href="/members/" class="nav-button bevel-out">Members</a>
             <a href="/committees/" class="nav-button bevel-out">Committees</a>
@@ -210,7 +209,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 96 of 96</span>
+            <span id="hearing-count" aria-live="polite">Showing 121 of 121</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -337,6 +336,11 @@
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="Committee on Education">
                             <span>Committee on Education</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Committee on Environmental Protection and Waterfronts">
+                            <span>Committee on Environmental Protection and Waterfronts</span>
                         </label>
                     
                         <label class="colheader-filter__option">
@@ -476,24 +480,199 @@
                     
                     </div>
                 </span>
-                <span class="hearing-row__title">Hearing</span>
+                <span class="hearing-row__title colheader-filter" data-filter-key="kind">
+                    <button type="button" class="colheader-filter__trigger" aria-haspopup="true" aria-expanded="false">
+                        Meeting
+                        <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
+                    </button>
+                    <div class="colheader-filter__popover" role="group" aria-label="Filter by type" hidden>
+                        <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Summarised">
+                            <span>Summarised</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Upcoming">
+                            <span>Upcoming</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Vote session">
+                            <span>Vote session</span>
+                        </label>
+                    
+                    </div>
+                </span>
                 <button type="button" class="colheader-sort" id="mention-sort" hidden aria-pressed="false">
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
             </li>
         
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Subcommittee on Early Childhood Education"]'
+                data-title="Hearing on multi-language learners in early childhood programs"
+                data-month="2026-09"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1440703/">
+                    <time class="hearing-row__date" datetime="2026-09-29">
+                        September 29, 2026
+                    </time>
+                    <span class="hearing-row__committee">Subcommittee on Early Childhood Education</span>
+                    <span class="hearing-row__title">Hearing on multi-language learners in early childhood programs</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Higher Education"]'
+                data-title="Hearing on CUNY study abroad programs"
+                data-month="2026-09"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1436569/">
+                    <time class="hearing-row__date" datetime="2026-09-29">
+                        September 29, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Higher Education</span>
+                    <span class="hearing-row__title">Hearing on CUNY study abroad programs</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Rules, Privileges, Elections, Standards and Ethics"]'
+                data-title="Hearing on a Council oversight matter"
+                data-month="2026-09"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1430888/">
+                    <time class="hearing-row__date" datetime="2026-09-29">
+                        September 29, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Rules, Privileges, Elections, Standards and Ethics</span>
+                    <span class="hearing-row__title">Hearing on a Council oversight matter</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Cultural Affairs, Libraries and International Relations"]'
+                data-title="Hearing on NYC public libraries&#39; research collections"
+                data-month="2026-09"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1430892/">
+                    <time class="hearing-row__date" datetime="2026-09-28">
+                        September 28, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Cultural Affairs, Libraries and International Relations</span>
+                    <span class="hearing-row__title">Hearing on NYC public libraries&#39; research collections</span>
+                </a>
+            </li>
+        
             <li class="hearing-row"
                 data-committees='["City Council"]'
-                data-title="Meeting of September 24, 2026"
+                data-title="Commissary Cash Returns and the J-51 Tax Abatement Extension"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="city-council-2026-09-24">
                 <a href="/hearings/city-council-2026-09-24/">
                     <time class="hearing-row__date" datetime="2026-09-24">
                         September 24, 2026
                     </time>
                     <span class="hearing-row__committee">City Council</span>
-                    <span class="hearing-row__title">Meeting of September 24, 2026</span>
+                    <span class="hearing-row__title">Commissary Cash Returns and the J-51 Tax Abatement Extension</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Subcommittee on Zoning and Franchises"]'
+                data-title="Vote: Rezoning to allow taller buildings at 158-06 Northern Boulevard, Queens + 4 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1448641/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Subcommittee on Zoning and Franchises</span>
+                    <span class="hearing-row__title">Vote: Rezoning to allow taller buildings at 158-06 Northern Boulevard, Queens + 4 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Land Use"]'
+                data-title="Vote: Law to end setback rule on Eastern Parkway Extension + 10 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1448591/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Land Use</span>
+                    <span class="hearing-row__title">Vote: Law to end setback rule on Eastern Parkway Extension + 10 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Finance"]'
+                data-title="Vote: Resolution to update groups getting Council discretionary funding"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1446055/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Finance</span>
+                    <span class="hearing-row__title">Vote: Resolution to update groups getting Council discretionary funding</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Cultural Affairs, Libraries and International Relations"]'
+                data-title="Vote: Resolution declaring October 3 Korean Cultural Awareness Day + 2 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1445952/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Cultural Affairs, Libraries and International Relations</span>
+                    <span class="hearing-row__title">Vote: Resolution declaring October 3 Korean Cultural Awareness Day + 2 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Children and Youth"]'
+                data-title="Vote: Resolution urging Albany to fund fatherhood support programs"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1445951/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Children and Youth</span>
+                    <span class="hearing-row__title">Vote: Resolution urging Albany to fund fatherhood support programs</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Housing and Buildings"]'
+                data-title="Vote: Law to extend J-51 tax break for building repairs"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1445948/">
+                    <time class="hearing-row__date" datetime="2026-09-24">
+                        September 24, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Housing and Buildings</span>
+                    <span class="hearing-row__title">Vote: Law to extend J-51 tax break for building repairs</span>
                 </a>
             </li>
         
@@ -501,6 +680,7 @@
                 data-committees='["Committee on Contracts"]'
                 data-title="M/WBE Utilization in City Contracts"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-contracts-mwbe-utilization-in-city-contracts-2026-09-23">
                 <a href="/hearings/committee-on-contracts-mwbe-utilization-in-city-contracts-2026-09-23/">
                     <time class="hearing-row__date" datetime="2026-09-23">
@@ -515,6 +695,7 @@
                 data-committees='["Committee on Criminal Justice"]'
                 data-title="Mental Health Care in New York City Jails"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-criminal-justice-mental-health-care-in-new-york-city-jails-2026-09-23">
                 <a href="/hearings/committee-on-criminal-justice-mental-health-care-in-new-york-city-jails-2026-09-23/">
                     <time class="hearing-row__date" datetime="2026-09-23">
@@ -527,15 +708,31 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Hospitals", "Committee on Mental Health and Substance Use", "Committee on Women and Gender Equity"]'
-                data-title="Access to Gender-Affirming Care and Associated Mental Health Outcomes for Transgender and Nonbinary Youth"
+                data-title="Gender-Affirming Care and Mental Health for Trans and Nonbinary Youth"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-hospitals-access-to-gender-affirming-care-and-associated-mental-health-outcomes-for-2026-09-23">
                 <a href="/hearings/committee-on-hospitals-access-to-gender-affirming-care-and-associated-mental-health-outcomes-for-2026-09-23/">
                     <time class="hearing-row__date" datetime="2026-09-23">
                         September 23, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Hospitals | Committee on Mental Health and Substance Use | Committee on Women and Gender Equity</span>
-                    <span class="hearing-row__title">Access to Gender-Affirming Care and Associated Mental Health Outcomes for Transgender and Nonbinary Youth</span>
+                    <span class="hearing-row__title">Gender-Affirming Care and Mental Health for Trans and Nonbinary Youth</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on General Welfare"]'
+                data-title="Vote: Law to make it easier to sign up for Fair Fares"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1445947/">
+                    <time class="hearing-row__date" datetime="2026-09-23">
+                        September 23, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on General Welfare</span>
+                    <span class="hearing-row__title">Vote: Law to make it easier to sign up for Fair Fares</span>
                 </a>
             </li>
         
@@ -543,6 +740,7 @@
                 data-committees='["Committee on Civil Service and Labor"]'
                 data-title="Municipal Recruitment and Civil Service Pathways"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-civil-service-and-labor-municipal-recruitment-and-civil-service-pathways-2026-09-22">
                 <a href="/hearings/committee-on-civil-service-and-labor-municipal-recruitment-and-civil-service-pathways-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
@@ -557,6 +755,7 @@
                 data-committees='["Committee on Education"]'
                 data-title="Portrait of a Graduate"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-education-portrait-of-a-graduate-2026-09-22">
                 <a href="/hearings/committee-on-education-portrait-of-a-graduate-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
@@ -569,43 +768,46 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on General Welfare"]'
-                data-title="Local Law to Amend the Administrative Code of the City of New York, in Relation to the Procedure for Determining That a Dwelling Unit Is Habitable for the Purposes of the CityFHEPS Program"
+                data-title="Habitability Checks for CityFHEPS Apartments"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-general-welfare-local-law-to-amend-the-administrative-code-of-the-city-of-new-york-in-2026-09-22">
                 <a href="/hearings/committee-on-general-welfare-local-law-to-amend-the-administrative-code-of-the-city-of-new-york-in-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
                         September 22, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on General Welfare</span>
-                    <span class="hearing-row__title">Local Law to Amend the Administrative Code of the City of New York, in Relation to the Procedure for Determining That a Dwelling Unit Is Habitable for the Purposes of the CityFHEPS Program</span>
+                    <span class="hearing-row__title">Habitability Checks for CityFHEPS Apartments</span>
                 </a>
             </li>
         
             <li class="hearing-row"
                 data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation"]'
-                data-title="Access to City Government and the Mamdani Administration&#39;s Civic Engagement Efforts"
+                data-title="Access to City Government and Civic Engagement"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-governmental-operations-state-federal-legislation-access-to-city-government-and-the-2026-09-22">
                 <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-access-to-city-government-and-the-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
                         September 22, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Governmental Operations, State &amp; Federal Legislation</span>
-                    <span class="hearing-row__title">Access to City Government and the Mamdani Administration&#39;s Civic Engagement Efforts</span>
+                    <span class="hearing-row__title">Access to City Government and Civic Engagement</span>
                 </a>
             </li>
         
             <li class="hearing-row"
                 data-committees='["Committee on Immigration"]'
-                data-title="Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations"
+                data-title="Executive Order 13 Audit Findings"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-immigration-examining-the-executive-order-13-of-2026-report-of-audit-findings-and-2026-09-22">
                 <a href="/hearings/committee-on-immigration-examining-the-executive-order-13-of-2026-report-of-audit-findings-and-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
                         September 22, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Immigration</span>
-                    <span class="hearing-row__title">Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations</span>
+                    <span class="hearing-row__title">Executive Order 13 Audit Findings</span>
                 </a>
             </li>
         
@@ -613,6 +815,7 @@
                 data-committees='["Committee on Public Housing"]'
                 data-title="Work Order Practices at NYCHA and PACT"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-public-housing-work-order-practices-at-nycha-and-pact-2026-09-22">
                 <a href="/hearings/committee-on-public-housing-work-order-practices-at-nycha-and-pact-2026-09-22/">
                     <time class="hearing-row__date" datetime="2026-09-22">
@@ -625,15 +828,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Disabilities", "Committee on Aging", "Committee on Finance"]'
-                data-title="Senior Citizen Rent Increase Exemption (SCRIE) and Disability Rent Increase Exemption (DRIE)"
+                data-title="Rent Freezes for Seniors and Disabled Tenants (SCRIE and DRIE)"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-disabilities-senior-citizen-rent-increase-exemption-scrie-and-disability-rent-increase-2026-09-18">
                 <a href="/hearings/committee-on-disabilities-senior-citizen-rent-increase-exemption-scrie-and-disability-rent-increase-2026-09-18/">
                     <time class="hearing-row__date" datetime="2026-09-18">
                         September 18, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Disabilities | Committee on Aging | Committee on Finance</span>
-                    <span class="hearing-row__title">Senior Citizen Rent Increase Exemption (SCRIE) and Disability Rent Increase Exemption (DRIE)</span>
+                    <span class="hearing-row__title">Rent Freezes for Seniors and Disabled Tenants (SCRIE and DRIE)</span>
                 </a>
             </li>
         
@@ -641,6 +845,7 @@
                 data-committees='["Committee on Veterans", "Committee on Mental Health and Substance Use"]'
                 data-title="Mental Health Services for Veterans and Military Families"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-veterans-mental-health-services-for-veterans-and-military-families-2026-09-18">
                 <a href="/hearings/committee-on-veterans-mental-health-services-for-veterans-and-military-families-2026-09-18/">
                     <time class="hearing-row__date" datetime="2026-09-18">
@@ -655,6 +860,7 @@
                 data-committees='["Committee on Children and Youth"]'
                 data-title="Evaluating New York City&#39;s Runaway and Homeless Youth Shelter System"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-children-and-youth-evaluating-new-york-citys-runaway-and-homeless-youth-shelter-system-2026-09-16">
                 <a href="/hearings/committee-on-children-and-youth-evaluating-new-york-citys-runaway-and-homeless-youth-shelter-system-2026-09-16/">
                     <time class="hearing-row__date" datetime="2026-09-16">
@@ -669,6 +875,7 @@
                 data-committees='["Committee on Public Safety"]'
                 data-title="NYPD Crime Statistics"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-public-safety-nypd-crime-statistics-2026-09-16">
                 <a href="/hearings/committee-on-public-safety-nypd-crime-statistics-2026-09-16/">
                     <time class="hearing-row__date" datetime="2026-09-16">
@@ -683,6 +890,7 @@
                 data-committees='["Committee on Small Business"]'
                 data-title="Storefront Protections and Legacy Business Preservation"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-small-business-storefront-protections-and-legacy-business-preservation-2026-09-16">
                 <a href="/hearings/committee-on-small-business-storefront-protections-and-legacy-business-preservation-2026-09-16/">
                     <time class="hearing-row__date" datetime="2026-09-16">
@@ -695,15 +903,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Oversight and Investigations", "Committee on Education"]'
-                data-title="Screen Time and the Use of Digital Devices in New York City Public Schools"
+                data-title="Screen Time and Devices in Public Schools"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-oversight-and-investigations-screen-time-and-the-use-of-digital-devices-in-new-york-2026-09-15">
                 <a href="/hearings/committee-on-oversight-and-investigations-screen-time-and-the-use-of-digital-devices-in-new-york-2026-09-15/">
                     <time class="hearing-row__date" datetime="2026-09-15">
                         September 15, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Oversight and Investigations | Committee on Education</span>
-                    <span class="hearing-row__title">Screen Time and the Use of Digital Devices in New York City Public Schools</span>
+                    <span class="hearing-row__title">Screen Time and Devices in Public Schools</span>
                 </a>
             </li>
         
@@ -711,6 +920,7 @@
                 data-committees='["Committee on Sanitation and Solid Waste Management"]'
                 data-title="Waste Valorization and the Circular Economy"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-sanitation-and-solid-waste-management-waste-valorization-and-the-circular-economy-2026-09-15">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-waste-valorization-and-the-circular-economy-2026-09-15/">
                     <time class="hearing-row__date" datetime="2026-09-15">
@@ -725,6 +935,7 @@
                 data-committees='["City Council"]'
                 data-title="9/11 Anniversary Resolutions and Contested Mayoral Appointments"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="city-council-stated-meeting-2026-09-10">
                 <a href="/hearings/city-council-stated-meeting-2026-09-10/">
                     <time class="hearing-row__date" datetime="2026-09-10">
@@ -736,9 +947,100 @@
             </li>
         
             <li class="hearing-row"
+                data-committees='["Committee on Environmental Protection and Waterfronts"]'
+                data-title="Vote: Law to limit bright outdoor lights in residential yards"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1442870/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Environmental Protection and Waterfronts</span>
+                    <span class="hearing-row__title">Vote: Law to limit bright outdoor lights in residential yards</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Transportation and Infrastructure"]'
+                data-title="Vote: Law to require signs warning of upcoming street work"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441286/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Transportation and Infrastructure</span>
+                    <span class="hearing-row__title">Vote: Law to require signs warning of upcoming street work</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Cultural Affairs, Libraries and International Relations"]'
+                data-title="Vote: Law to map and preserve African American burial sites + 5 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441280/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Cultural Affairs, Libraries and International Relations</span>
+                    <span class="hearing-row__title">Vote: Law to map and preserve African American burial sites + 5 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Sanitation and Solid Waste Management"]'
+                data-title="Vote: Law to speed up response to dog waste complaints"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441279/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Sanitation and Solid Waste Management</span>
+                    <span class="hearing-row__title">Vote: Law to speed up response to dog waste complaints</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Health"]'
+                data-title="Vote: Law to require high sodium warnings at chain restaurants + 1 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441278/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Health</span>
+                    <span class="hearing-row__title">Vote: Law to require high sodium warnings at chain restaurants + 1 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Parks and Recreation"]'
+                data-title="Vote: Law to co-name 26 streets after 9/11 heroes and sites + 1 more"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441126/">
+                    <time class="hearing-row__date" datetime="2026-09-10">
+                        September 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Parks and Recreation</span>
+                    <span class="hearing-row__title">Vote: Law to co-name 26 streets after 9/11 heroes and sites + 1 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
                 data-committees='["Committee on Fire and Emergency Management", "Committee on Technology", "Committee on Public Safety", "Committee on Governmental Operations, State \u0026 Federal Legislation"]'
                 data-title="August 2026 911 System Outage"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-fire-and-emergency-management-august-2026-911-system-outage-2026-09-09">
                 <a href="/hearings/committee-on-fire-and-emergency-management-august-2026-911-system-outage-2026-09-09/">
                     <time class="hearing-row__date" datetime="2026-09-09">
@@ -753,6 +1055,7 @@
                 data-committees='["Committee on Housing and Buildings"]'
                 data-title="Block by Block: Mamdani&#39;s Housing Plan"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-housing-and-buildings-block-by-block-mamdanis-housing-plan-2026-09-09">
                 <a href="/hearings/committee-on-housing-and-buildings-block-by-block-mamdanis-housing-plan-2026-09-09/">
                     <time class="hearing-row__date" datetime="2026-09-09">
@@ -765,29 +1068,61 @@
         
             <li class="hearing-row"
                 data-committees='["Subcommittee on Zoning and Franchises"]'
-                data-title="Rezoning Applications in Bed-Stuy, Bay Ridge, Long Island City and Crotona"
+                data-title="Rezonings in Bed-Stuy, Bay Ridge, Long Island City and Crotona"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="subcommittee-on-zoning-and-franchises-rezoning-applications-in-bed-stuy-bay-ridge-long-island-city-2026-09-09">
                 <a href="/hearings/subcommittee-on-zoning-and-franchises-rezoning-applications-in-bed-stuy-bay-ridge-long-island-city-2026-09-09/">
                     <time class="hearing-row__date" datetime="2026-09-09">
                         September 9, 2026
                     </time>
                     <span class="hearing-row__committee">Subcommittee on Zoning and Franchises</span>
-                    <span class="hearing-row__title">Rezoning Applications in Bed-Stuy, Bay Ridge, Long Island City and Crotona</span>
+                    <span class="hearing-row__title">Rezonings in Bed-Stuy, Bay Ridge, Long Island City and Crotona</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Consumer and Worker Protection"]'
+                data-title="Vote: Law to revoke tobacco licenses for illegal cannabis sales"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441287/">
+                    <time class="hearing-row__date" datetime="2026-09-09">
+                        September 9, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Consumer and Worker Protection</span>
+                    <span class="hearing-row__title">Vote: Law to revoke tobacco licenses for illegal cannabis sales</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Education"]'
+                data-title="Vote: Resolution urging Albany to require 9/11 curriculum in schools"
+                data-month="2026-09"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1441285/">
+                    <time class="hearing-row__date" datetime="2026-09-09">
+                        September 9, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Education</span>
+                    <span class="hearing-row__title">Vote: Resolution urging Albany to require 9/11 curriculum in schools</span>
                 </a>
             </li>
         
             <li class="hearing-row"
                 data-committees='["Committee on Health"]'
-                data-title="The Upper East Side Legionnaires&#39; Outbreak and Cooling Tower Inspections"
+                data-title="Upper East Side Legionnaires&#39; Outbreak and Cooling Towers"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-health-legionnaires-disease-cooling-tower-inspections-and-keeping-new-yorkers-safe-2026-09-02">
                 <a href="/hearings/committee-on-health-legionnaires-disease-cooling-tower-inspections-and-keeping-new-yorkers-safe-2026-09-02/">
                     <time class="hearing-row__date" datetime="2026-09-02">
                         September 2, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Health</span>
-                    <span class="hearing-row__title">The Upper East Side Legionnaires&#39; Outbreak and Cooling Tower Inspections</span>
+                    <span class="hearing-row__title">Upper East Side Legionnaires&#39; Outbreak and Cooling Towers</span>
                 </a>
             </li>
         
@@ -795,6 +1130,7 @@
                 data-committees='["Committee on Rules, Privileges, Elections, Standards and Ethics"]'
                 data-title="Appointment of John Mangin to Chair the Board of Standards and Appeals"
                 data-month="2026-09"
+                data-kind="Summarised"
                 data-slug="committee-on-rules-privileges-elections-standards-and-ethics-mayoral-appointments-2026-09-01">
                 <a href="/hearings/committee-on-rules-privileges-elections-standards-and-ethics-mayoral-appointments-2026-09-01/">
                     <time class="hearing-row__date" datetime="2026-09-01">
@@ -809,6 +1145,7 @@
                 data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation", "Committee on Finance"]'
                 data-title="Implementation of the Pied-à-Terre Tax"
                 data-month="2026-08"
+                data-kind="Summarised"
                 data-slug="committee-on-governmental-operations-state-federal-legislation-implementation-of-the-pied-à-terre-2026-08-18">
                 <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-implementation-of-the-pied-à-terre-2026-08-18/">
                     <time class="hearing-row__date" datetime="2026-08-18">
@@ -823,6 +1160,7 @@
                 data-committees='["City Council"]'
                 data-title="Outdoor Dining Reform, the Scoop Act and Insurance Affordability"
                 data-month="2026-08"
+                data-kind="Summarised"
                 data-slug="city-council-outdoor-dining-reform-the-scoop-act-and-insurance-affordability-2026-08-13">
                 <a href="/hearings/city-council-outdoor-dining-reform-the-scoop-act-and-insurance-affordability-2026-08-13/">
                     <time class="hearing-row__date" datetime="2026-08-13">
@@ -834,16 +1172,107 @@
             </li>
         
             <li class="hearing-row"
-                data-committees='["Subcommittee on Zoning and Franchises"]'
-                data-title="Rezoning Applications in Ferry Point, Williamsburg, Flushing and Bushwick"
+                data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation"]'
+                data-title="Vote: Law to make Staten Island&#39;s flag official"
                 data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1435944/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Governmental Operations, State &amp; Federal Legislation</span>
+                    <span class="hearing-row__title">Vote: Law to make Staten Island&#39;s flag official</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Consumer and Worker Protection"]'
+                data-title="Vote: Law to create a city Office of Insurance Accountability + 3 more"
+                data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1432917/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Consumer and Worker Protection</span>
+                    <span class="hearing-row__title">Vote: Law to create a city Office of Insurance Accountability + 3 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Parks and Recreation"]'
+                data-title="Vote: Law to launch dog waste composting pilot at dog runs + 1 more"
+                data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1432912/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Parks and Recreation</span>
+                    <span class="hearing-row__title">Vote: Law to launch dog waste composting pilot at dog runs + 1 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Finance"]'
+                data-title="Vote: Law to create a temporary amnesty program for city fine debt + 1 more"
+                data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1431094/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Finance</span>
+                    <span class="hearing-row__title">Vote: Law to create a temporary amnesty program for city fine debt + 1 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Housing and Buildings"]'
+                data-title="Vote: Law to make anti-harassment building screening permanent"
+                data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1429781/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Housing and Buildings</span>
+                    <span class="hearing-row__title">Vote: Law to make anti-harassment building screening permanent</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Land Use"]'
+                data-title="Vote: Application to acquire sites for new parks in Queens CD2 + 5 more"
+                data-month="2026-08"
+                data-kind="Vote session"
+                data-slug="">
+                <a href="/meetings/1429656/">
+                    <time class="hearing-row__date" datetime="2026-08-13">
+                        August 13, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Land Use</span>
+                    <span class="hearing-row__title">Vote: Application to acquire sites for new parks in Queens CD2 + 5 more</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Subcommittee on Zoning and Franchises"]'
+                data-title="Rezonings in Ferry Point, Williamsburg, Flushing and Bushwick"
+                data-month="2026-08"
+                data-kind="Summarised"
                 data-slug="subcommittee-on-zoning-and-franchises-rezoning-applications-in-ferry-point-williamsburg-flushing-2026-08-12">
                 <a href="/hearings/subcommittee-on-zoning-and-franchises-rezoning-applications-in-ferry-point-williamsburg-flushing-2026-08-12/">
                     <time class="hearing-row__date" datetime="2026-08-12">
                         August 12, 2026
                     </time>
                     <span class="hearing-row__committee">Subcommittee on Zoning and Franchises</span>
-                    <span class="hearing-row__title">Rezoning Applications in Ferry Point, Williamsburg, Flushing and Bushwick</span>
+                    <span class="hearing-row__title">Rezonings in Ferry Point, Williamsburg, Flushing and Bushwick</span>
                 </a>
             </li>
         
@@ -851,6 +1280,7 @@
                 data-committees='["Committee on Finance"]'
                 data-title="Amnesty for Unpaid Environmental Control Board Fines"
                 data-month="2026-08"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11">
                 <a href="/hearings/committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11/">
                     <time class="hearing-row__date" datetime="2026-08-11">
@@ -865,6 +1295,7 @@
                 data-committees='["Subcommittee on Zoning and Franchises"]'
                 data-title="200 Kent Avenue and 47-03 108th Street Rezoning Applications"
                 data-month="2026-07"
+                data-kind="Summarised"
                 data-slug="subcommittee-on-zoning-and-franchises-200-kent-avenue-and-47-03-108th-street-rezoning-applications-2026-07-21">
                 <a href="/hearings/subcommittee-on-zoning-and-franchises-200-kent-avenue-and-47-03-108th-street-rezoning-applications-2026-07-21/">
                     <time class="hearing-row__date" datetime="2026-07-21">
@@ -877,15 +1308,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Finance", "Committee on Housing and Buildings"]'
-                data-title="Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing"
+                data-title="Keeping Mitchell-Lama Housing Affordable"
                 data-month="2026-07"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-financial-tools-for-maintaining-the-affordability-of-mitchell-lama-housing-2026-07-15">
                 <a href="/hearings/committee-on-finance-financial-tools-for-maintaining-the-affordability-of-mitchell-lama-housing-2026-07-15/">
                     <time class="hearing-row__date" datetime="2026-07-15">
                         July 15, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Finance | Committee on Housing and Buildings</span>
-                    <span class="hearing-row__title">Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing</span>
+                    <span class="hearing-row__title">Keeping Mitchell-Lama Housing Affordable</span>
                 </a>
             </li>
         
@@ -893,6 +1325,7 @@
                 data-committees='["Committee on Health"]'
                 data-title="Local Law to Prohibit the Operation of Horse Drawn Cabs"
                 data-month="2026-07"
+                data-kind="Summarised"
                 data-slug="committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cabs-2026-07-15">
                 <a href="/hearings/committee-on-health-local-law-to-prohibit-the-operation-of-horse-drawn-cabs-2026-07-15/">
                     <time class="hearing-row__date" datetime="2026-07-15">
@@ -907,6 +1340,7 @@
                 data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation"]'
                 data-title="Pay Raises for Elected Officials and Commission Reform"
                 data-month="2026-07"
+                data-kind="Summarised"
                 data-slug="committee-on-governmental-operations-state-federal-legislation-pay-raises-for-elected-officials-2026-07-07">
                 <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-pay-raises-for-elected-officials-2026-07-07/">
                     <time class="hearing-row__date" datetime="2026-07-07">
@@ -919,15 +1353,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Sanitation and Solid Waste Management"]'
-                data-title="Legislation on Commercial Waste Zones, Composting and Sidewalk Cleanliness"
+                data-title="Commercial Waste Zones, Composting and Clean Sidewalks"
                 data-month="2026-07"
+                data-kind="Summarised"
                 data-slug="committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/">
                     <time class="hearing-row__date" datetime="2026-07-01">
                         July 1, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Sanitation and Solid Waste Management</span>
-                    <span class="hearing-row__title">Legislation on Commercial Waste Zones, Composting and Sidewalk Cleanliness</span>
+                    <span class="hearing-row__title">Commercial Waste Zones, Composting and Clean Sidewalks</span>
                 </a>
             </li>
         
@@ -935,6 +1370,7 @@
                 data-committees='["City Council"]'
                 data-title="FY 2027 Budget Adoption"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="city-council-fy-2027-budget-adoption-2026-06-30">
                 <a href="/hearings/city-council-fy-2027-budget-adoption-2026-06-30/">
                     <time class="hearing-row__date" datetime="2026-06-30">
@@ -949,6 +1385,7 @@
                 data-committees='["Committee on Economic Development", "Committee on Workforce Development"]'
                 data-title="Implementing the Green Economy Action Plan"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-economic-development-implementing-the-green-economy-action-plan-2026-06-26">
                 <a href="/hearings/committee-on-economic-development-implementing-the-green-economy-action-plan-2026-06-26/">
                     <time class="hearing-row__date" datetime="2026-06-26">
@@ -963,6 +1400,7 @@
                 data-committees='["Committee on Criminal Justice"]'
                 data-title="Improving Court Operations to Reduce the Jail Population"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-criminal-justice-improving-court-operations-to-reduce-the-jail-population-2026-06-25">
                 <a href="/hearings/committee-on-criminal-justice-improving-court-operations-to-reduce-the-jail-population-2026-06-25/">
                     <time class="hearing-row__date" datetime="2026-06-25">
@@ -975,29 +1413,31 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Transportation and Infrastructure"]'
-                data-title="DOT Legislation on Sidewalk Cafes, Street Lighting and Construction Notices"
+                data-title="Sidewalk Cafes, Street Lighting and Construction Notices"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-transportation-and-infrastructure-dot-legislation-on-sidewalk-cafes-street-lighting-2026-06-25">
                 <a href="/hearings/committee-on-transportation-and-infrastructure-dot-legislation-on-sidewalk-cafes-street-lighting-2026-06-25/">
                     <time class="hearing-row__date" datetime="2026-06-25">
                         June 25, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Transportation and Infrastructure</span>
-                    <span class="hearing-row__title">DOT Legislation on Sidewalk Cafes, Street Lighting and Construction Notices</span>
+                    <span class="hearing-row__title">Sidewalk Cafes, Street Lighting and Construction Notices</span>
                 </a>
             </li>
         
             <li class="hearing-row"
                 data-committees='["Committee on Education", "Committee on Technology"]'
-                data-title="Artificial Intelligence, Student Data, and Privacy in NYC Public Schools"
+                data-title="AI, Student Data and Privacy in Public Schools"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-education-artificial-intelligence-student-data-and-privacy-in-nyc-public-schools-2026-06-24">
                 <a href="/hearings/committee-on-education-artificial-intelligence-student-data-and-privacy-in-nyc-public-schools-2026-06-24/">
                     <time class="hearing-row__date" datetime="2026-06-24">
                         June 24, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Education | Committee on Technology</span>
-                    <span class="hearing-row__title">Artificial Intelligence, Student Data, and Privacy in NYC Public Schools</span>
+                    <span class="hearing-row__title">AI, Student Data and Privacy in Public Schools</span>
                 </a>
             </li>
         
@@ -1005,6 +1445,7 @@
                 data-committees='["Committee on General Welfare", "Committee on Women and Gender Equity"]'
                 data-title="Housing Instability Among LGBTQ+ Individuals in NYC"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-general-welfare-housing-instability-among-lgbtq-individuals-in-nyc-2026-06-24">
                 <a href="/hearings/committee-on-general-welfare-housing-instability-among-lgbtq-individuals-in-nyc-2026-06-24/">
                     <time class="hearing-row__date" datetime="2026-06-24">
@@ -1019,6 +1460,7 @@
                 data-committees='["Committee on Children and Youth"]'
                 data-title="Evaluation of DYCD&#39;s Beacon and Cornerstone Programs"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-children-and-youth-evaluation-of-dycds-beacon-and-cornerstone-programs-2026-06-23">
                 <a href="/hearings/committee-on-children-and-youth-evaluation-of-dycds-beacon-and-cornerstone-programs-2026-06-23/">
                     <time class="hearing-row__date" datetime="2026-06-23">
@@ -1033,6 +1475,7 @@
                 data-committees='["Committee to Combat Hate"]'
                 data-title="Community-Based Prevention and Response to Hate and Bias"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-to-combat-hate-community-based-prevention-and-response-to-hate-and-bias-2026-06-23">
                 <a href="/hearings/committee-to-combat-hate-community-based-prevention-and-response-to-hate-and-bias-2026-06-23/">
                     <time class="hearing-row__date" datetime="2026-06-23">
@@ -1045,15 +1488,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Governmental Operations, State \u0026 Federal Legislation"]'
-                data-title="Community Boards, AI Disclosure, Prediction Markets and the Staten Island Flag"
+                data-title="Community Boards, AI Disclosure and Prediction Markets"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-governmental-operations-state-federal-legislation-community-board-resources-and-2026-06-22">
                 <a href="/hearings/committee-on-governmental-operations-state-federal-legislation-community-board-resources-and-2026-06-22/">
                     <time class="hearing-row__date" datetime="2026-06-22">
                         June 22, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Governmental Operations, State &amp; Federal Legislation</span>
-                    <span class="hearing-row__title">Community Boards, AI Disclosure, Prediction Markets and the Staten Island Flag</span>
+                    <span class="hearing-row__title">Community Boards, AI Disclosure and Prediction Markets</span>
                 </a>
             </li>
         
@@ -1061,6 +1505,7 @@
                 data-committees='["Committee on Veterans"]'
                 data-title="Support and Programs for LGBTQ+ Veterans"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-veterans-support-and-programs-for-lgbtq-veterans-2026-06-22">
                 <a href="/hearings/committee-on-veterans-support-and-programs-for-lgbtq-veterans-2026-06-22/">
                     <time class="hearing-row__date" datetime="2026-06-22">
@@ -1073,15 +1518,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Consumer and Worker Protection"]'
-                data-title="Prohibiting Surveillance Pricing and Restricting the Frequency of Price Increases in Grocery Stores"
+                data-title="Surveillance Pricing and Grocery Price Hikes"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-consumer-and-worker-protection-prohibiting-surveillance-pricing-and-restricting-the-2026-06-17">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-prohibiting-surveillance-pricing-and-restricting-the-2026-06-17/">
                     <time class="hearing-row__date" datetime="2026-06-17">
                         June 17, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Consumer and Worker Protection</span>
-                    <span class="hearing-row__title">Prohibiting Surveillance Pricing and Restricting the Frequency of Price Increases in Grocery Stores</span>
+                    <span class="hearing-row__title">Surveillance Pricing and Grocery Price Hikes</span>
                 </a>
             </li>
         
@@ -1089,6 +1535,7 @@
                 data-committees='["Committee on Consumer and Worker Protection"]'
                 data-title="Revoking Tobacco Retail Licenses for Cannabis Law Violations"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-consumer-and-worker-protection-revoking-tobacco-retail-licenses-for-cannabis-law-2026-06-17">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-revoking-tobacco-retail-licenses-for-cannabis-law-2026-06-17/">
                     <time class="hearing-row__date" datetime="2026-06-17">
@@ -1103,6 +1550,7 @@
                 data-committees='["Committee on Contracts"]'
                 data-title="Transparency and Accountability in the City&#39;s Use of Master Agreements"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-contracts-transparency-and-accountability-in-the-citys-use-of-master-agreements-2026-06-17">
                 <a href="/hearings/committee-on-contracts-transparency-and-accountability-in-the-citys-use-of-master-agreements-2026-06-17/">
                     <time class="hearing-row__date" datetime="2026-06-17">
@@ -1117,6 +1565,7 @@
                 data-committees='["Committee on Higher Education"]'
                 data-title="Racial Equity at CUNY"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-higher-education-racial-equity-at-cuny-2026-06-17">
                 <a href="/hearings/committee-on-higher-education-racial-equity-at-cuny-2026-06-17/">
                     <time class="hearing-row__date" datetime="2026-06-17">
@@ -1129,15 +1578,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Public Housing"]'
-                data-title="Life Without Emergency Housing Vouchers: Present Options and Future Plans"
+                data-title="Life After Emergency Housing Vouchers"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-public-housing-life-without-emergency-housing-vouchers-present-options-and-future-plans-2026-06-17">
                 <a href="/hearings/committee-on-public-housing-life-without-emergency-housing-vouchers-present-options-and-future-plans-2026-06-17/">
                     <time class="hearing-row__date" datetime="2026-06-17">
                         June 17, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Public Housing</span>
-                    <span class="hearing-row__title">Life Without Emergency Housing Vouchers: Present Options and Future Plans</span>
+                    <span class="hearing-row__title">Life After Emergency Housing Vouchers</span>
                 </a>
             </li>
         
@@ -1145,6 +1595,7 @@
                 data-committees='["Committee on Aging"]'
                 data-title="Interagency Coordination for Older Adults"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-aging-interagency-coordination-for-older-adults-2026-06-16">
                 <a href="/hearings/committee-on-aging-interagency-coordination-for-older-adults-2026-06-16/">
                     <time class="hearing-row__date" datetime="2026-06-16">
@@ -1159,6 +1610,7 @@
                 data-committees='["Committee on Parks and Recreation"]'
                 data-title="Legislation on Tree Maintenance, Dog Waste and Park Naming"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-parks-and-recreation-local-law-to-require-the-department-of-parks-and-recreation-to-2026-06-16">
                 <a href="/hearings/committee-on-parks-and-recreation-local-law-to-require-the-department-of-parks-and-recreation-to-2026-06-16/">
                     <time class="hearing-row__date" datetime="2026-06-16">
@@ -1173,6 +1625,7 @@
                 data-committees='["Committee on Health", "Committee on Disabilities", "Committee on Hospitals"]'
                 data-title="Access to Reproductive Health Care for New Yorkers with Disabilities"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-health-access-to-reproductive-health-care-for-new-yorkers-with-disabilities-2026-06-15">
                 <a href="/hearings/committee-on-health-access-to-reproductive-health-care-for-new-yorkers-with-disabilities-2026-06-15/">
                     <time class="hearing-row__date" datetime="2026-06-15">
@@ -1187,6 +1640,7 @@
                 data-committees='["Committee on Public Safety"]'
                 data-title="Legislation on Towing, Ghost Plates, School Safety and NYPD Hiring"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-public-safety-legislation-on-towing-ghost-plates-school-safety-and-nypd-hiring-2026-06-10">
                 <a href="/hearings/committee-on-public-safety-legislation-on-towing-ghost-plates-school-safety-and-nypd-hiring-2026-06-10/">
                     <time class="hearing-row__date" datetime="2026-06-10">
@@ -1201,6 +1655,7 @@
                 data-committees='["Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing (Department of Finance &amp; IBO)"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-executive-budget-hearing-2026-06-09">
                 <a href="/hearings/committee-on-finance-executive-budget-hearing-2026-06-09/">
                     <time class="hearing-row__date" datetime="2026-06-09">
@@ -1215,6 +1670,7 @@
                 data-committees='["Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing (OMB &amp; Comptroller)"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-executive-budget-hearing-am-2026-06-09">
                 <a href="/hearings/committee-on-finance-executive-budget-hearing-am-2026-06-09/">
                     <time class="hearing-row__date" datetime="2026-06-09">
@@ -1229,6 +1685,7 @@
                 data-committees='["Committee on Education", "Committee on Higher Education", "Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-education-executive-budget-hearing-2026-06-08">
                 <a href="/hearings/committee-on-education-executive-budget-hearing-2026-06-08/">
                     <time class="hearing-row__date" datetime="2026-06-08">
@@ -1243,6 +1700,7 @@
                 data-committees='["Committee on Small Business"]'
                 data-title="Reducing Barriers for Small Businesses"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-small-business-reducing-barriers-for-small-businesses-2026-06-08">
                 <a href="/hearings/committee-on-small-business-reducing-barriers-for-small-businesses-2026-06-08/">
                     <time class="hearing-row__date" datetime="2026-06-08">
@@ -1257,6 +1715,7 @@
                 data-committees='["Committee on Mental Health and Substance Use", "Committee on Finance", "Committee on Health", "Committee on Hospitals"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-mental-health-and-substance-use-executive-budget-hearing-2026-06-05">
                 <a href="/hearings/committee-on-mental-health-and-substance-use-executive-budget-hearing-2026-06-05/">
                     <time class="hearing-row__date" datetime="2026-06-05">
@@ -1271,6 +1730,7 @@
                 data-committees='["Committee on Finance", "Committee on General Welfare", "Committee on Sanitation and Solid Waste Management", "Committee on Governmental Operations, State \u0026 Federal Legislation"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-executive-budget-hearing-2026-06-04">
                 <a href="/hearings/committee-on-finance-executive-budget-hearing-2026-06-04/">
                     <time class="hearing-row__date" datetime="2026-06-04">
@@ -1285,6 +1745,7 @@
                 data-committees='["Committee on Finance", "Committee on Criminal Justice", "Committee on Housing and Buildings", "Committee on Public Housing", "Committee on Oversight and Investigations"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-executive-budget-hearing">
                 <a href="/hearings/committee-on-finance-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-06-02">
@@ -1299,6 +1760,7 @@
                 data-committees='["Committee on Oversight and Investigations", "Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-oversight-and-investigations-executive-budget-hearing-2026-06-02">
                 <a href="/hearings/committee-on-oversight-and-investigations-executive-budget-hearing-2026-06-02/">
                     <time class="hearing-row__date" datetime="2026-06-02">
@@ -1313,6 +1775,7 @@
                 data-committees='["Committee on Finance", "Committee on Public Safety", "Committee on Fire and Emergency Management"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-06"
+                data-kind="Summarised"
                 data-slug="committee-on-public-safety-executive-budget-hearing">
                 <a href="/hearings/committee-on-public-safety-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-06-01">
@@ -1327,6 +1790,7 @@
                 data-committees='["Committee on Transportation and Infrastructure", "Committee on Consumer and Worker Protection", "Committee on Economic Development", "Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-transportation-and-infrastructure-fy-2027-executive-budget-hearing">
                 <a href="/hearings/committee-on-transportation-and-infrastructure-fy-2027-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-05-29">
@@ -1341,6 +1805,7 @@
                 data-committees='["Committee on Immigration", "Committee on Children and Youth", "Committee on Finance"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-immigration-executive-budget-hearing">
                 <a href="/hearings/committee-on-immigration-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-05-28">
@@ -1355,6 +1820,7 @@
                 data-committees='["Committee on Parks and Recreation", "Committee on Finance", "Committee on Civil and Human Rights"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-parks-and-recreation-fy-2027-executive-budget-hearing">
                 <a href="/hearings/committee-on-parks-and-recreation-fy-2027-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-05-27">
@@ -1369,6 +1835,7 @@
                 data-committees='["Subcommittee on Zoning and Franchises"]'
                 data-title="Monitor Point and Dewitt Clinton Park North Zoning Applications"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications">
                 <a href="/hearings/subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications/">
                     <time class="hearing-row__date" datetime="2026-05-27">
@@ -1383,6 +1850,7 @@
                 data-committees='["Committee on Finance", "Committee on Aging", "Committee on Cultural Affairs, Libraries and International Relations"]'
                 data-title="FY 2027 Executive Budget Hearing"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-fy-2027-executive-budget-hearing">
                 <a href="/hearings/committee-on-finance-fy-2027-executive-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-05-26">
@@ -1397,6 +1865,7 @@
                 data-committees='["Committee on Sanitation and Solid Waste Management"]'
                 data-title="Street Cleanliness"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-sanitation-and-solid-waste-management-street-cleanliness">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-street-cleanliness/">
                     <time class="hearing-row__date" datetime="2026-05-19">
@@ -1411,6 +1880,7 @@
                 data-committees='["Committee on Cultural Affairs, Libraries and International Relations"]'
                 data-title="Juneteenth Commemoration and Cultural Recognition Resolutions"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-cultural-affairs-libraries-and-international-relations-juneteenth-commemoration-and-cultural-recognition-resolutions">
                 <a href="/hearings/committee-on-cultural-affairs-libraries-and-international-relations-juneteenth-commemoration-and-cultural-recognition-resolutions/">
                     <time class="hearing-row__date" datetime="2026-05-13">
@@ -1425,6 +1895,7 @@
                 data-committees='["Committee on Parks and Recreation"]'
                 data-title="Engagement with Community Organizations and Volunteers"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-parks-and-recreation-engagement-with-community-organizations-and-volunteers">
                 <a href="/hearings/committee-on-parks-and-recreation-engagement-with-community-organizations-and-volunteers/">
                     <time class="hearing-row__date" datetime="2026-05-06">
@@ -1439,6 +1910,7 @@
                 data-committees='["Committee on Rules, Privileges, Elections, Standards and Ethics"]'
                 data-title="Appointment of Lisa Kersavage to the Landmarks Preservation Commission"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-rules-privileges-elections-standards-and-ethics-appointment-of-lisa-kersavage-to-the-landmarks-preservation-commission">
                 <a href="/hearings/committee-on-rules-privileges-elections-standards-and-ethics-appointment-of-lisa-kersavage-to-the-landmarks-preservation-commission/">
                     <time class="hearing-row__date" datetime="2026-05-06">
@@ -1453,6 +1925,7 @@
                 data-committees='["Committee on Small Business", "Committee on Immigration"]'
                 data-title="Economic Impacts of Federal Immigration Policy Changes"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes">
                 <a href="/hearings/committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes/">
                     <time class="hearing-row__date" datetime="2026-05-06">
@@ -1467,6 +1940,7 @@
                 data-committees='["Committee on Transportation and Infrastructure", "Committee on General Welfare"]'
                 data-title="Oversight Hearing on Fair Fares"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-transportation-and-infrastructure-oversight-hearing-on-fair-fares">
                 <a href="/hearings/committee-on-transportation-and-infrastructure-oversight-hearing-on-fair-fares/">
                     <time class="hearing-row__date" datetime="2026-05-06">
@@ -1481,6 +1955,7 @@
                 data-committees='["Committee on Disabilities"]'
                 data-title="Equal Opportunity for New Yorkers with Disabilities"
                 data-month="2026-05"
+                data-kind="Summarised"
                 data-slug="committee-on-disabilities-equal-opportunity-for-new-yorkers-with-disabilities">
                 <a href="/hearings/committee-on-disabilities-equal-opportunity-for-new-yorkers-with-disabilities/">
                     <time class="hearing-row__date" datetime="2026-05-05">
@@ -1495,6 +1970,7 @@
                 data-committees='["Committee on Consumer and Worker Protection"]'
                 data-title="Insurance Accountability, Wage Theft and Emerging Consumer Scams"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-consumer-and-worker-protection-insurance-accountability-wage-theft-and-emerging-consumer-scams">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-insurance-accountability-wage-theft-and-emerging-consumer-scams/">
                     <time class="hearing-row__date" datetime="2026-04-29">
@@ -1509,6 +1985,7 @@
                 data-committees='["Committee on Civil and Human Rights"]'
                 data-title="Fair Chance Act Challenges and Success"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-civil-and-human-rights-fair-chance-act-challenges-and-success">
                 <a href="/hearings/committee-on-civil-and-human-rights-fair-chance-act-challenges-and-success/">
                     <time class="hearing-row__date" datetime="2026-04-28">
@@ -1523,6 +2000,7 @@
                 data-committees='["Committee on Health", "Committee on Oversight \u0026 Investigations", "Subcommittee on Early Childhood Education"]'
                 data-title="Child Care Program Background checks"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-health-child-care-program-background-checks">
                 <a href="/hearings/committee-on-health-child-care-program-background-checks/">
                     <time class="hearing-row__date" datetime="2026-04-22">
@@ -1537,6 +2015,7 @@
                 data-committees='["Committee on Children and Youth", "Committee on Mental Health and Substance Use", "Committee on Oversight \u0026 Investigations"]'
                 data-title="The Effects of Social Media Screen Time on Youth Mental Health"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-children-and-youth-the-effects-of-social-media-screen-time-on-youth-mental-health">
                 <a href="/hearings/committee-on-children-and-youth-the-effects-of-social-media-screen-time-on-youth-mental-health/">
                     <time class="hearing-row__date" datetime="2026-04-21">
@@ -1549,15 +2028,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Immigration", "Committee on Housing and Buildings"]'
-                data-title="Tenant Harassment against Immigrants and the Certification of No Harassment Program"
+                data-title="Harassment of Immigrant Tenants and the No-Harassment Program"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-immigration-tenant-harassment-against-immigrants-and-the-certification-of-no-harassment-program">
                 <a href="/hearings/committee-on-immigration-tenant-harassment-against-immigrants-and-the-certification-of-no-harassment-program/">
                     <time class="hearing-row__date" datetime="2026-04-20">
                         April 20, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Immigration | Committee on Housing and Buildings</span>
-                    <span class="hearing-row__title">Tenant Harassment against Immigrants and the Certification of No Harassment Program</span>
+                    <span class="hearing-row__title">Harassment of Immigrant Tenants and the No-Harassment Program</span>
                 </a>
             </li>
         
@@ -1565,6 +2045,7 @@
                 data-committees='["Subcommittee on Early Childhood Education", "Committee on Workforce Development", "Committee on Higher Education"]'
                 data-title="Early Childhood Educator Workforce Development and Pipeline"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="subcommittee-on-early-childhood-education-early-childhood-educator-workforce-development-and-pipeline">
                 <a href="/hearings/subcommittee-on-early-childhood-education-early-childhood-educator-workforce-development-and-pipeline/">
                     <time class="hearing-row__date" datetime="2026-04-15">
@@ -1579,6 +2060,7 @@
                 data-committees='["Committee on Criminal Justice", "Committee on Governmental Operations, State \u0026 Federal Legislation"]'
                 data-title="Voting on Rikers Island"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-criminal-justice-voting-on-rikers-island">
                 <a href="/hearings/committee-on-criminal-justice-voting-on-rikers-island/">
                     <time class="hearing-row__date" datetime="2026-04-14">
@@ -1593,6 +2075,7 @@
                 data-committees='["Committee on General Welfare"]'
                 data-title="Food Insecurity in NYC"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-general-welfare-food-insecurity-in-nyc">
                 <a href="/hearings/committee-on-general-welfare-food-insecurity-in-nyc/">
                     <time class="hearing-row__date" datetime="2026-04-13">
@@ -1607,6 +2090,7 @@
                 data-committees='["Committee on Public Housing"]'
                 data-title="Oversight - Security Measures for NYCHA’s Vacant Apartments"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments">
                 <a href="/hearings/committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments/">
                     <time class="hearing-row__date" datetime="2026-04-10">
@@ -1621,6 +2105,7 @@
                 data-committees='["Committee on Consumer and Worker Protection"]'
                 data-title="Requiring the Licensing of Last-Mile Facilities"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities/">
                     <time class="hearing-row__date" datetime="2026-04-09">
@@ -1635,6 +2120,7 @@
                 data-committees='["Committee on Sanitation and Solid Waste Management"]'
                 data-title="Finalizing the City&#39;s Draft 2026-2036 Solid Waste Management Plan"
                 data-month="2026-04"
+                data-kind="Summarised"
                 data-slug="committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan/">
                     <time class="hearing-row__date" datetime="2026-04-06">
@@ -1649,6 +2135,7 @@
                 data-committees='["Committee on Finance"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-finance-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-finance-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-25">
@@ -1663,6 +2150,7 @@
                 data-committees='["Committee on Immigration"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-immigration-fy27-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-immigration-fy27-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-25">
@@ -1677,6 +2165,7 @@
                 data-committees='["Committee on Criminal Justice"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-criminal-justice-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-criminal-justice-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-24">
@@ -1691,6 +2180,7 @@
                 data-committees='["Committee on Housing and Buildings"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-24">
@@ -1705,6 +2195,7 @@
                 data-committees='["Committee on Land Use"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-land-use-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-land-use-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-23">
@@ -1719,6 +2210,7 @@
                 data-committees='["Committee on Parks and Recreation"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-parks-and-recreation-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-parks-and-recreation-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-23">
@@ -1733,6 +2225,7 @@
                 data-committees='["Committee on Consumer and Worker Protection"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-consumer-and-worker-protection-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-consumer-and-worker-protection-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-19">
@@ -1747,6 +2240,7 @@
                 data-committees='["Committee on Sanitation and Solid Waste Management"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-sanitation-and-solid-waste-management-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-16">
@@ -1761,6 +2255,7 @@
                 data-committees='["Committee on Aging"]'
                 data-title="FY 2027 Preliminary Budget Hearing"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-aging-fy-2027-preliminary-budget-hearing">
                 <a href="/hearings/committee-on-aging-fy-2027-preliminary-budget-hearing/">
                     <time class="hearing-row__date" datetime="2026-03-12">
@@ -1773,15 +2268,16 @@
         
             <li class="hearing-row"
                 data-committees='["Committee on Housing and Buildings"]'
-                data-title="Preserving Affordable Housing in Distress and the Third-Party Transfer Program"
+                data-title="Distressed Housing and the Third-Party Transfer Program"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program">
                 <a href="/hearings/committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program/">
                     <time class="hearing-row__date" datetime="2026-03-09">
                         March 9, 2026
                     </time>
                     <span class="hearing-row__committee">Committee on Housing and Buildings</span>
-                    <span class="hearing-row__title">Preserving Affordable Housing in Distress and the Third-Party Transfer Program</span>
+                    <span class="hearing-row__title">Distressed Housing and the Third-Party Transfer Program</span>
                 </a>
             </li>
         
@@ -1789,6 +2285,7 @@
                 data-committees='["Committee on Transportation and Infrastructure"]'
                 data-title="Assessing the State of the NYC Streets Plan in 2026"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026">
                 <a href="/hearings/committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026/">
                     <time class="hearing-row__date" datetime="2026-03-03">
@@ -1803,6 +2300,7 @@
                 data-committees='["Committee on Hospitals"]'
                 data-title="Impacts of the Maimonides Health System and NYC H+H Merger"
                 data-month="2026-03"
+                data-kind="Summarised"
                 data-slug="committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger">
                 <a href="/hearings/committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger/">
                     <time class="hearing-row__date" datetime="2026-03-02">
@@ -1817,6 +2315,7 @@
                 data-committees='["Committee on Housing and Buildings"]'
                 data-title="Oversight - Shared Housing in NYC"
                 data-month="2026-02"
+                data-kind="Summarised"
                 data-slug="committee-on-housing-and-buildings-oversight-shared-housing-in-nyc">
                 <a href="/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/">
                     <time class="hearing-row__date" datetime="2026-02-09">
@@ -1897,6 +2396,44 @@
         })();
     </script>
     <script>
+        // Two ways back. The fixed link (e.g. "All members") always goes to
+        // the section. When you arrived from a different page on this site,
+        // a second link goes back to exactly that page ("Back to Committee
+        // on Aging"). Page names are remembered per tab in sessionStorage.
+        (function () {
+            var KEY = 'hh-page-names';
+            var names = {};
+            try { names = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) {}
+            var h1 = document.querySelector('main h1');
+            var here = location.pathname === '/' ? 'Hearings' : (h1 ? h1.textContent.trim() : document.title);
+            names[location.href] = here;
+            try { sessionStorage.setItem(KEY, JSON.stringify(names)); } catch (e) {}
+
+            var parent = document.querySelector('.back-link');
+            var ref = document.referrer;
+            if (!parent || !ref || ref.indexOf(location.origin + '/') !== 0) return;
+            // Only offer a second link when the page you came from is a
+            // different page from the fixed one. Filters and searches on
+            // that page do not count as different.
+            var refUrl = new URL(ref);
+            var parentPath = new URL(parent.href).pathname;
+            if (refUrl.pathname === location.pathname || refUrl.pathname === parentPath) return;
+            var label = names[ref] || names[refUrl.origin + refUrl.pathname] || 'previous page';
+            var back = document.createElement('a');
+            back.href = ref;
+            back.className = 'back-link back-link--previous';
+            back.textContent = '← Back to ' + label;
+            back.addEventListener('click', function (ev) {
+                if (history.length > 1) { ev.preventDefault(); history.back(); }
+            });
+            var wrap = document.createElement('div');
+            wrap.className = 'back-links';
+            parent.parentNode.insertBefore(wrap, parent);
+            wrap.appendChild(parent);
+            wrap.appendChild(back);
+        })();
+    </script>
+    <script>
         function ml_webform_success_39982439() {
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-success').forEach(function (el) { el.style.display = ''; });
             document.querySelectorAll('.ml-subscribe-form-39982439 .row-form').forEach(function (el) { el.style.display = 'none'; });
@@ -1909,7 +2446,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 96;
+        var totalHearings = 121;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
@@ -1924,6 +2461,7 @@
         var filterCells = Array.prototype.slice.call(document.querySelectorAll('.colheader-filter'));
         var monthCell = document.querySelector('.colheader-filter[data-filter-key="month"]');
         var committeeCell = document.querySelector('.colheader-filter[data-filter-key="committee"]');
+        var kindCell = document.querySelector('.colheader-filter[data-filter-key="kind"]');
         var currentPage = 1;
 
         var rowCommittees = rows.map(function (row) {
@@ -2321,6 +2859,7 @@
             searchInput.value = params.get('q') || '';
             setChecked(monthCell, (params.get('month') || '').split(',').filter(Boolean));
             setChecked(committeeCell, (params.get('committee') || '').split(',').filter(Boolean));
+            setChecked(kindCell, (params.get('type') || '').split(',').filter(Boolean));
             var pageParam = parseInt(params.get('page'), 10);
             currentPage = (pageParam && pageParam > 0) ? pageParam : 1;
         }
@@ -2332,6 +2871,8 @@
             if (months.length) params.set('month', months.join(','));
             var committees = getChecked(committeeCell);
             if (committees.length) params.set('committee', committees.join(','));
+            var kindsSel = getChecked(kindCell);
+            if (kindsSel.length) params.set('type', kindsSel.join(','));
             if (currentPage > 1) params.set('page', String(currentPage));
             var qs = params.toString();
             return qs ? ('?' + qs) : window.location.pathname;
@@ -2359,6 +2900,7 @@
             var q = searchInput.value.trim().toLowerCase();
             var selectedMonths = getChecked(monthCell);
             var selectedCommittees = getChecked(committeeCell);
+            var selectedKinds = getChecked(kindCell);
             // Word-boundary-prefixed title match: "ai" hits "AI Disclosure",
             // not "Maintaining"; prefix typing ("sanit") still matches.
             var titleRe = null;
@@ -2371,6 +2913,7 @@
             rows.forEach(function (row, i) {
                 var show = true;
                 if (selectedMonths.length && selectedMonths.indexOf(row.dataset.month) === -1) show = false;
+                if (selectedKinds.length && selectedKinds.indexOf(row.dataset.kind) === -1) show = false;
                 if (show && selectedCommittees.length) {
                     var match = false;
                     for (var j = 0; j < rowCommittees[i].length; j++) {
@@ -2453,11 +2996,12 @@
             emptyEl.hidden = totalFiltered !== 0;
             monthCell.classList.toggle('is-active', selectedMonths.length > 0);
             committeeCell.classList.toggle('is-active', selectedCommittees.length > 0);
+            kindCell.classList.toggle('is-active', selectedKinds.length > 0);
             filterCells.forEach(function (cell) {
                 var pc = cell.querySelector('.colheader-filter__popover-clear');
                 if (pc) pc.hidden = getChecked(cell).length === 0;
             });
-            var anyFilter = q || selectedMonths.length || selectedCommittees.length;
+            var anyFilter = q || selectedMonths.length || selectedCommittees.length || selectedKinds.length;
             clearBtn.hidden = !anyFilter;
 
             if (transcriptState.pending) {
@@ -2555,6 +3099,7 @@
             searchInput.value = '';
             setChecked(monthCell, []);
             setChecked(committeeCell, []);
+            setChecked(kindCell, []);
             currentPage = 1;
             syncTranscriptState();
             history.pushState(null, '', buildQueryString());
@@ -2617,5 +3162,6 @@
     })();
 </script>
 
+    
 </body>
 </html>

@@ -1,7 +1,7 @@
 ---
 committee: "Committee on Education | Committee on Technology"
 committee_slug: committee-on-education
-title: "Artificial Intelligence, Student Data, and Privacy in NYC Public Schools"
+title: "AI, Student Data and Privacy in Public Schools"
 date: 2026-06-24
 slug: committee-on-education-artificial-intelligence-student-data-and-privacy-in-nyc-public-schools-2026-06-24
 duration: "5hrs 9m"
