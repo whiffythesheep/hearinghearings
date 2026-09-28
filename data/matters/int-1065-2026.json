@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Carl Wilson",
-  "Ty Hankerson"
+  "Ty Hankerson",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -30,6 +31,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847712&GUID=FE1D29BE-F5C8-4EF4-844D-FC5837AD69CB"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862873&GUID=F9E004C7-A43E-4B78-AFF0-7065F5478582"
   }
  ],
  "fiscal": null,

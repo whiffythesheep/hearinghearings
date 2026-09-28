@@ -14,7 +14,8 @@
   "Tiffany L. Cabán",
   "Sandy Nurse",
   "Lynn C. Schulman",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Shirley Aldebol"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -47,6 +48,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837848&GUID=223840E5-1CE6-451E-BF55-7C88820D6EEA"
+  },
+  {
+   "label": "Hearing Testimony 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863135&GUID=24984767-BE83-44F0-9374-537DE6793A23"
+  },
+  {
+   "label": "Appearance Cards 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859969&GUID=1ECED000-8775-4A27-92C1-DEB1FB510B8B"
   }
  ],
  "fiscal": {

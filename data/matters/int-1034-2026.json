@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to provide notice to council members of residential buildings that have failed to file registration statements",
  "status": "Committee",
  "sponsors": [
-  "Simcha Felder"
+  "Simcha Felder",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -24,6 +25,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847643&GUID=D1B177C4-C603-4B00-AC84-650E53938903"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862826&GUID=03082340-78EA-4442-AA83-85233F7E91B7"
   }
  ],
  "fiscal": null,

@@ -6,6 +6,7 @@ date: 2026-03-25
 slug: committee-on-immigration-fy27-preliminary-budget-hearing
 duration: "5hrs 33m"
 youtube_url: "https://www.youtube.com/watch?v=PGagE0cKXJ0"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1400282&GUID=E57B3C25-399C-4CFC-97CB-B2FDBBA8567E&Search="
 chairs: "Elsie Encarnación"
 members: "Alexa Avilés, Gale A. Brewer, Kamillah Hanks, Rita C. Joseph"
 ---

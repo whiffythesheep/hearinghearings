@@ -70,14 +70,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589654&GUID=461758DC-229A-4F23-BECA-0A622647C811"
   },
   {
-   "label": "Fiscal Impact Statement - City Council",
-   "kind": "Fiscal Impact Statement",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589663&GUID=B53A14E9-57FC-4B8B-8804-B6E421975A62"
-  },
-  {
    "label": "Hearing Testimony 6/17/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657309&GUID=597E1A97-2436-4A3B-BEFE-2CC0CC95649D"
+  },
+  {
+   "label": "Hearing Transcript 6/17/26 (Int 813-A)",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859684&GUID=FA346D2D-B4D2-43D8-B9AF-F07E1ABDA13E"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15589663&GUID=B53A14E9-57FC-4B8B-8804-B6E421975A62"
   },
   {
    "label": "Proposed Int. No. 813-A - 9/3/26",
@@ -103,6 +108,11 @@
    "label": "Int. No. 803-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845097&GUID=1F915494-03CF-492D-9D8B-C5AF3AA8B438"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862891&GUID=372B2FFC-B476-4482-948F-323BA42452CA"
   }
  ],
  "fiscal": {
@@ -128,6 +138,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836127&GUID=8FF61E7B-D741-4909-BE32-47092AD5BD8C"
  },
  "history": [
+  {
+   "date": "2026-09-10",
+   "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

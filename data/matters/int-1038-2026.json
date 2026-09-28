@@ -7,7 +7,12 @@
  "status": "Committee",
  "sponsors": [
   "Ty Hankerson",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Nantasha M. Williams",
+  "Kayla Santosuosso",
+  "Phil Wong",
+  "Harvey D. Epstein",
+  "Amanda C. Farías"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -30,6 +35,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847649&GUID=C15D96D8-5AC1-4D2A-8BBD-D4FC714B0F60"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862832&GUID=1E464C2C-792B-4179-B961-E24D1F9734C0"
   }
  ],
  "fiscal": null,

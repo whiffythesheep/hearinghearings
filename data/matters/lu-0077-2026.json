@@ -11,6 +11,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849025&GUID=F1F01C3D-A1CA-4F5D-B3D9-C4011F7295B3"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495517&GUID=F5B880FB-5FE1-4A09-8670-E66A1392D93F"
@@ -51,9 +56,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841681&GUID=536E1C24-2D48-4B5B-91FC-509B1F4CB722"
   },
   {
+   "label": "Hearing Transcript - Land Use 6/25/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856565&GUID=F0591688-D44C-41EA-8487-F42A75508CC9"
+  },
+  {
    "label": "June 30, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665060&GUID=CE4AEF86-30AD-4577-A73A-FE6363F99702"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849125&GUID=B382EAA8-69D1-4B81-8394-3FACCCFD8DC0"
   },
   {
    "label": "City Planning Commission Approval Letter",
@@ -79,16 +94,6 @@
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720797&GUID=11D92A3E-00ED-4BCB-84DB-AF4CBFCF591B"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849025&GUID=F1F01C3D-A1CA-4F5D-B3D9-C4011F7295B3"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 6-30-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849125&GUID=B382EAA8-69D1-4B81-8394-3FACCCFD8DC0"
   }
  ],
  "fiscal": null,

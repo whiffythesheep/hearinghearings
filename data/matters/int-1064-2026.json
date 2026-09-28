@@ -8,7 +8,9 @@
  "sponsors": [
   "Carl Wilson",
   "Lincoln Restler",
-  "Ty Hankerson"
+  "Ty Hankerson",
+  "Shahana K. Hanif",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,6 +33,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847711&GUID=2FDA94F6-9451-47DE-A658-4F6E176DA1D3"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862872&GUID=62DCABF9-7330-4C49-BF23-FA13A71DE8D0"
   }
  ],
  "fiscal": null,

@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the study of safe delivery times by contracted delivery workers and the promulgation of safe delivery time standards",
  "status": "Committee",
  "sponsors": [
-  "Shaun Abreu"
+  "Shaun Abreu",
+  "Lincoln Restler"
  ],
  "by_request_of_mayor": true,
  "attachments": [
@@ -29,6 +30,11 @@
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933192&GUID=21EBA4AB-2C56-488E-9B77-8AC02C8038FE"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937500&GUID=4AAAA23B-8F37-45F6-9E13-6B5E4C94F2F1"
   }
  ],
  "fiscal": null,

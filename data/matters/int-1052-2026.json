@@ -8,7 +8,8 @@
  "sponsors": [
   "Vickie Paladino",
   "Phil Wong",
-  "Frank Morano"
+  "Frank Morano",
+  "Joann Ariola"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -26,6 +27,16 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847697&GUID=4362D299-4FE7-4495-BEB7-58BA97922970"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862858&GUID=3A4C15D9-EE65-45D8-8CD3-0C7639B7F8FB"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937498&GUID=75C04C41-A6A0-4053-B079-464D5EC36C8F"
   }
  ],
  "fiscal": null,

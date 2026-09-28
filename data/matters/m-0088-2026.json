@@ -29,6 +29,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835096&GUID=AB817219-DA9D-44A7-AAFF-4313094A336D"
   },
   {
+   "label": "Hearing Transcript 9/1/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859709&GUID=0C6EFE20-9BDE-4103-9CBF-9676D976D208"
+  },
+  {
    "label": "Committee Report 9/10/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844054&GUID=EA5E3750-C9DF-443F-921D-74DF57D2AB1C"
@@ -37,6 +42,16 @@
    "label": "Res. No. 639",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844613&GUID=5283C364-711B-46C5-BDE4-4CFBAC9E929D"
+  },
+  {
+   "label": "Mayor's Appointment Letter",
+   "kind": "Message or letter",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859098&GUID=495525A2-115B-42DA-835D-C56F06E4100C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862900&GUID=6199FC44-BE64-47CB-8CB4-33590E796303"
   }
  ],
  "fiscal": null,
@@ -75,6 +90,12 @@
    "date": "2026-08-13",
    "body": "City Council",
    "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-08-13",
+   "body": "City Council",
+   "action": "Introduced by Council",
    "result": ""
   }
  ],

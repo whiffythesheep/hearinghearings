@@ -16,6 +16,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664776&GUID=67E40869-0AFD-457F-A82C-94BA6DACBC75"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849077&GUID=61D06CA0-79B4-454A-85D5-2DE78A31D294"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 1, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660190&GUID=1819353C-6748-41A3-98BC-C4937EEE7AE4"
@@ -46,6 +51,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692115&GUID=36A86B1C-127B-4416-8788-489DE4E59A78"
   },
   {
+   "label": "Hearing Transcript - Land Use 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953239&GUID=216B219E-4713-4F85-86F7-23F3E917652D"
+  },
+  {
    "label": "July 16, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699736&GUID=66343FFD-626F-415A-B42E-A2BAE776D4B9"
@@ -59,11 +69,6 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744900&GUID=8B346FBF-29D4-4CF3-9E2A-C5980D4278AE"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 6-30-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849077&GUID=61D06CA0-79B4-454A-85D5-2DE78A31D294"
   }
  ],
  "fiscal": null,
@@ -95,14 +100,14 @@
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-07-01",

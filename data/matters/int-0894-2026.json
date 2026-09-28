@@ -4,7 +4,7 @@
  "legistar_id": "8027978",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to vertical winterization coverings for sidewalk cafes",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Gale A. Brewer",
   "Farah N. Louis",
@@ -52,6 +52,11 @@
    "label": "Hearing Testimony 6/25/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692633&GUID=91A5DE15-F5E4-433F-9651-5800646A5B14"
+  },
+  {
+   "label": "Hearing Transcript 6/25/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869018&GUID=6D09EEBF-3DF1-4DC3-86D5-EC1B4C2173A2"
   },
   {
    "label": "Proposed Int. No. 894-A - 8/6/26",
@@ -117,6 +122,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762251&GUID=1AD960BB-85EC-46A8-A00F-102D9BD2F0EB"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

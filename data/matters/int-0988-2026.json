@@ -8,7 +8,8 @@
  "sponsors": [
   "Shaun Abreu",
   "Virginia Maloney",
-  "Shekar Krishnan"
+  "Shekar Krishnan",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,6 +32,11 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765110&GUID=730246CE-7F41-449F-8514-EC05FA92DF6E"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937493&GUID=BAEF12AF-BDAA-4E21-A41A-A5E31CF000B6"
   }
  ],
  "fiscal": null,

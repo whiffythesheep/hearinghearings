@@ -4,7 +4,7 @@
  "legistar_id": "8163066",
  "type": "Land Use Application",
  "title": "Application number C 240161 ZMX (815 Hutchinson River Parkway Rezoning) submitted by MD Hutch Owner LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 7a, changing from an M1-2 District to a C8-3 District, Borough of the Bronx, Community District 10, Council District 13.",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -29,10 +29,38 @@
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824849&GUID=D690FF4E-A545-4245-A09B-BD14B9D701A7"
+  },
+  {
+   "label": "Appearance Cards - Zoning 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856704&GUID=6EC3295F-05C9-4588-BD10-F9B716D18F10"
+  },
+  {
+   "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930233&GUID=E11ED78D-768A-444B-8F8C-38FA71EE3F74"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Subcommittee on Zoning and Franchises",

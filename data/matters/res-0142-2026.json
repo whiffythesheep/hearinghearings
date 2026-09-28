@@ -4,7 +4,7 @@
  "legistar_id": "7862778",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to establish the Center for Fatherhood Initiatives under the Office of Children and Family Services",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
   "Farah N. Louis",
@@ -12,7 +12,9 @@
   "Shekar Krishnan",
   "Selvena N. Brooks-Powers",
   "Nantasha M. Williams",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Mercedes Narcisse",
+  "Amanda C. Farías"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -45,10 +47,55 @@
    "label": "Hearing Transcript 6/23/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849165&GUID=EB13824D-6387-4E75-8632-501B9A91189B"
+  },
+  {
+   "label": "Proposed Res. No. 142-A - 9/18/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15867794&GUID=536C56B2-BAA0-4C9B-AE81-073A3E7C2519"
+  },
+  {
+   "label": "Committee Report 9/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931251&GUID=1C864EE6-37C4-4D33-9630-A0677D3727BD"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932628&GUID=00D570D8-6570-4CE7-9764-B44B31F58B0D"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Children and Youth",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Children and Youth",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Children and Youth",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Children and Youth",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-23",
    "body": "Committee on Children and Youth",

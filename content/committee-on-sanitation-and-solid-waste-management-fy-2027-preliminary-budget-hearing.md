@@ -631,7 +631,7 @@ Yep. We had in calendar year 2024 we had 152 fires and then in 2025 we had 168 t
 
 Okay. The budget — I know you said in your testimony that we all need to be good dog owners. I do not have a dog, but I do have to clean up from dogs. So my question is, what is the budget either yours or elsewhere in the City for telling these outrageous owners to clean up? It is the law. I remember when it passed.
 
-Thank you, Council Member. We have done a number of outreach campaigns around it with existing resources. We do not have a dedicated budget line for this. We have also partnered with members of the Council on it. We did it with then Council Members Menon and Bottcher. Always looking for new partners to work with on this.
+Thank you, Council Member. We have done a number of outreach campaigns around it with existing resources. We do not have a dedicated budget line for this. We have also partnered with members of the Council on it. We did it with then Council Members Menin and Bottcher. Always looking for new partners to work with on this.
 
 So it is mostly whatever can be done. There is no budget.
 

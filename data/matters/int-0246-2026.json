@@ -4,7 +4,7 @@
  "legistar_id": "7862037",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
- "status": "Reported from Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Crystal Hudson",
   "Sandy Nurse",
@@ -94,6 +94,11 @@
    "label": "Committee Report 9/23/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880893&GUID=9487C193-668E-4A7B-82A8-EC9DB6575DDB"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932086&GUID=61B99D30-4F62-4B54-8A8F-02A8BE940B96"
   }
  ],
  "fiscal": {
@@ -119,6 +124,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869071&GUID=0D910FC7-9E22-4BF0-A851-9D0C0D29D6F0"
  },
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-09-23",
    "body": "Committee on Criminal Justice",

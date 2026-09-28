@@ -25,7 +25,9 @@
   "Sandy Nurse",
   "Harvey D. Epstein",
   "Carl Wilson",
-  "Kayla Santosuosso"
+  "Kayla Santosuosso",
+  "Christopher Marte",
+  "Rita C. Joseph"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -63,6 +65,11 @@
    "label": "Hearing Testimony 6/15/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646482&GUID=7A3BE822-C378-4D48-ADF5-9DF83888DE86"
+  },
+  {
+   "label": "Hearing Transcript 6/15/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930380&GUID=8AC9D062-D567-4BE9-A34D-2A1F69A7152E"
   }
  ],
  "fiscal": {
@@ -94,12 +101,6 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Disabilities",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
    "body": "Committee on Health",
    "action": "Laid Over by Committee",
    "result": ""
@@ -114,6 +115,12 @@
    "date": "2026-06-15",
    "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

@@ -4,7 +4,7 @@
  "legistar_id": "8067751",
  "type": "Resolution",
  "title": "Resolution declaring April 7 as White Star Family Day in the City of New York",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Joann Ariola",
   "Frank Morano",
@@ -12,7 +12,9 @@
   "Shirley Aldebol",
   "Virginia Maloney",
   "Selvena N. Brooks-Powers",
-  "Vickie Paladino"
+  "Lynn C. Schulman",
+  "Vickie Paladino",
+  "Inna Vernikov"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,10 +27,39 @@
    "label": "June 11, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575708&GUID=2FADB523-68C0-46CB-8C5C-3BFFD4858625"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866270&GUID=128FD25D-ABD1-41E6-A232-4523264D395D"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Mental Health and Substance Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Mental Health and Substance Use",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Veterans",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-06-11",
    "body": "City Council",

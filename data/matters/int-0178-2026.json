@@ -17,6 +17,7 @@
   "Ty Hankerson",
   "Shekar Krishnan",
   "Carl Wilson",
+  "Shirley Aldebol",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -55,6 +56,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837847&GUID=E31CCBD1-7341-4220-A7F4-ED27F36E086A"
+  },
+  {
+   "label": "Hearing Testimony 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863134&GUID=B824E405-D498-42DE-A4AA-8324181DED1D"
+  },
+  {
+   "label": "Appearance Cards 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859968&GUID=F3B814CC-251D-4D92-BA29-72CB83C5701C"
   }
  ],
  "fiscal": {

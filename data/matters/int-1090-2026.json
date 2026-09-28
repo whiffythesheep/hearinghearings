@@ -1,0 +1,94 @@
+{
+ "file_number": "Int 1090-2026",
+ "slug": "int-1090-2026",
+ "legistar_id": "8211228",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to a landlord portal for rental assistance programs",
+ "status": "Committee",
+ "sponsors": [
+  "Frank Morano",
+  "Crystal Hudson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1090",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15852005&GUID=D2AA47EF-44A9-4086-8813-F61E3E12E2AC"
+  },
+  {
+   "label": "Int. No. 1090",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15852004&GUID=1094695E-6921-4B11-80EF-6D3BB1DE6C69"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15853374&GUID=0B1777A9-C9FB-4B40-8DB2-38A733EB646B"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866704&GUID=EAD60501-4E29-4852-8CCD-D71F58346371"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870441&GUID=B3003047-9A79-4A3A-A056-6C44F9B4123F"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933220&GUID=127E49CC-B842-444A-8E4E-125EA00B3978"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870441&GUID=B3003047-9A79-4A3A-A056-6C44F9B4123F"
+ },
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on General Welfare",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8211228&GUID=EA9F5FE6-4CB6-40DE-850E-3ABCE2EBC3FF"
+}

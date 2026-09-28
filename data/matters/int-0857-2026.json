@@ -4,7 +4,7 @@
  "legistar_id": "7998282",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to install and refill dog waste bag dispensers on public litter baskets",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Julie Menin",
   "Farah N. Louis",
@@ -51,6 +51,11 @@
    "label": "Hearing Testimony 5/19/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507769&GUID=80DCA9C1-D421-47CE-880E-DDB77A1F06A6"
+  },
+  {
+   "label": "Hearing Transcript 5/19/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854042&GUID=0CFB8180-3139-4917-A73E-A266530487CD"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
@@ -111,6 +116,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755323&GUID=B0B7C971-280E-4C4F-9AC1-058117EA505D"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

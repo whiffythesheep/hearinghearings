@@ -12,7 +12,8 @@
   "Carmen N. De La Rosa",
   "Shekar Krishnan",
   "Lincoln Restler",
-  "Gale A. Brewer"
+  "Gale A. Brewer",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -30,6 +31,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847639&GUID=F8F1EA59-0083-47AA-87D4-6CBA47177ADE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862822&GUID=33691C23-8DD0-4A9E-8E06-F741083E7C5A"
   }
  ],
  "fiscal": null,

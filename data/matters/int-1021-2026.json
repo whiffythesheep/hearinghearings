@@ -6,7 +6,9 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to safety reports and plans required of third-party food delivery services",
  "status": "Committee",
  "sponsors": [
-  "Shaun Abreu"
+  "Shaun Abreu",
+  "Lincoln Restler",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -29,6 +31,16 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847626&GUID=73E72B93-E5AC-4916-BB0F-82CED3A3730E"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862809&GUID=321275FF-76DE-4953-8A5C-AF41D13716BF"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937497&GUID=53899402-70EC-4552-AE52-4CDD2C5DD7C0"
   }
  ],
  "fiscal": null,

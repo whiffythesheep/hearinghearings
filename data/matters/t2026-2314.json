@@ -4,7 +4,7 @@
  "legistar_id": "8158437",
  "type": "Oversight",
  "title": "Oversight - Senior Citizen Rent Increase Exemption (SCRIE) and Disability Rent Increase Exemption (DRIE).",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8158437&GUID=6969B22E-5278-4B2B-96A2-254BA702C975"
 }

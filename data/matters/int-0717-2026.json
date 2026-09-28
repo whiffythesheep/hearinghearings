@@ -13,6 +13,7 @@
   "Harvey D. Epstein",
   "Lynn C. Schulman",
   "Sandy Nurse",
+  "Shirley Aldebol",
   "Frank Morano",
   "Vickie Paladino",
   "Inna Vernikov",
@@ -54,6 +55,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837849&GUID=818A36A3-38C9-45D5-B8F8-BBFDFDF99BD3"
+  },
+  {
+   "label": "Hearing Testimony 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863136&GUID=210DA07D-9960-49C6-878A-150EA5A02813"
+  },
+  {
+   "label": "Appearance Cards 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859972&GUID=09ABAF69-B24E-4E21-A0D0-C064E89AB42C"
   }
  ],
  "fiscal": {

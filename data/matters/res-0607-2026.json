@@ -4,7 +4,7 @@
  "legistar_id": "8170167",
  "type": "Resolution",
  "title": "Resolution declaring September as African Immigrant Heritage Month in the City of New York to celebrate the contributions made by African immigrants to New York City and the United States",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Althea V. Stevens",
   "Crystal Hudson",
@@ -19,7 +19,8 @@
   "Gale A. Brewer",
   "Alexa Avilés",
   "Ty Hankerson",
-  "Amanda C. Farías"
+  "Amanda C. Farías",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -32,10 +33,33 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765152&GUID=513BA543-1325-4034-ABAB-4EB631D2C88E"
+  },
+  {
+   "label": "Committee Report 9/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884529&GUID=80DFAA22-5B05-4ABB-8B22-ABB38CB2416F"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

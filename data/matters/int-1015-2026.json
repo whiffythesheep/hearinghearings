@@ -4,7 +4,7 @@
  "legistar_id": "8170174",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Pierina Ana Sanchez",
   "Linda Lee",
@@ -32,10 +32,20 @@
   "Lincoln Restler",
   "Alexa Avilés",
   "Carl Wilson",
-  "Susan Zhuang"
+  "Susan Zhuang",
+  "Mercedes Narcisse",
+  "Carmen N. De La Rosa",
+  "Elsie Encarnación",
+  "Shirley Aldebol",
+  "Vickie Paladino"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1015-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866786&GUID=7B569F1C-2B2B-48D6-9CCB-FF36C5D54AAF"
+  },
   {
    "label": "Summary of Int. No. 1015",
    "kind": "Summary",
@@ -65,6 +75,36 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837850&GUID=8CBC0459-E201-4270-B4D1-68773C919EA8"
+  },
+  {
+   "label": "Hearing Testimony 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863139&GUID=0BCDB6D0-885E-418A-A836-EB161DDD8A17"
+  },
+  {
+   "label": "Appearance Cards 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859990&GUID=94B3DD0A-3654-489A-8764-CC60768ADC8D"
+  },
+  {
+   "label": "Proposed Int. No. 1015-A - 9/18/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866785&GUID=9981DB48-7403-48E2-A27C-F3AA41D1A675"
+  },
+  {
+   "label": "Proposed Int. No. 1015-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882864&GUID=ECEFFB0D-F9AB-4B22-814E-8E018A9A3257"
+  },
+  {
+   "label": "Committee Report 9/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932129&GUID=873C242C-9A73-48B7-B512-399F6ECA80DF"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932830&GUID=9BA37B9F-0F0B-46A6-85C8-C42AF07B9D01"
   }
  ],
  "fiscal": {
@@ -74,22 +114,52 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
+   "effective": 94000,
+   "succeeding": 188000,
+   "full": 188000
   },
   "net": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
+   "effective": -94000,
+   "succeeding": -188000,
+   "full": -188000
   },
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837850&GUID=8CBC0459-E201-4270-B4D1-68773C919EA8"
+  "label": "Proposed Int. No. 1015-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15882864&GUID=ECEFFB0D-F9AB-4B22-814E-8E018A9A3257"
  },
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Committee on Housing and Buildings",

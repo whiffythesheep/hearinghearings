@@ -4,7 +4,7 @@
  "legistar_id": "8150660",
  "type": "Introduction",
  "title": "A Local Law to establish a temporary program to resolve outstanding judgments imposed by the environmental control board",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Linda Lee"
  ],
@@ -29,6 +29,11 @@
    "label": "Hearing Testimony 8/11/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15791259&GUID=0885F804-A69D-4FF0-B058-E48C7D12937E"
+  },
+  {
+   "label": "Hearing Transcript 8/11/2026",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15853517&GUID=8792C708-4C7D-45C4-92D2-1D3C722C02D9"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
@@ -74,6 +79,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755136&GUID=074285BB-5359-47E3-A174-B6E922481CFE"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

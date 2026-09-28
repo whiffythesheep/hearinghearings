@@ -7,7 +7,10 @@
  "status": "Laid Over in Committee",
  "sponsors": [
   "Yusef Salaam",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Tiffany L. Cabán",
+  "Mercedes Narcisse",
+  "Phil Wong"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -35,6 +38,11 @@
    "label": "Hearing Testimony 6/8/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584982&GUID=1ED1536C-6F2A-41D0-8923-3A62D5002D8B"
+  },
+  {
+   "label": "Hearing Transcript 6/8/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854398&GUID=62845420-D244-4AC4-96AF-503B5E2FB51F"
   }
  ],
  "fiscal": null,

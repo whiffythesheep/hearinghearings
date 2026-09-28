@@ -4,7 +4,7 @@
  "legistar_id": "7998393",
  "type": "Introduction",
  "title": "A Local Law in relation to a public education and outreach campaign regarding the removal of dog waste, and to repeal such local law upon the expiration thereof",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Shahana K. Hanif",
   "Crystal Hudson",
@@ -49,6 +49,11 @@
    "label": "Hearing Testimony 5/19/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507770&GUID=7C2CFF46-C4B6-47AD-9017-40793ED1FE57"
+  },
+  {
+   "label": "Hearing Transcript 5/19/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854043&GUID=376ADDFB-5A2F-482A-A3E7-A1934AF115A6"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
@@ -114,6 +119,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755324&GUID=3D7BB9C0-F26C-4994-B5EF-5B6E8274C1E3"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

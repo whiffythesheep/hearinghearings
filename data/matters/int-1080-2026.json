@@ -1,0 +1,91 @@
+{
+ "file_number": "Int 1080-2026",
+ "slug": "int-1080-2026",
+ "legistar_id": "8212693",
+ "type": "Introduction",
+ "title": "A Local Law to amend the New York city charter, in relation to requiring disclosures on third-party public communications paid for with government resources",
+ "status": "Committee",
+ "sponsors": [
+  "Oswald J. Feliz",
+  "David M. Carr",
+  "Gale A. Brewer",
+  "Phil Wong"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1080",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855249&GUID=94C5531D-9378-44FE-A361-60D527E4E3A2"
+  },
+  {
+   "label": "Int. No. 1080",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855248&GUID=5C4815DF-DE9F-4C89-A957-6606DE45E7BE"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880195&GUID=CEF65A66-56DD-4B04-91B7-818CE186556A"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870001&GUID=C523E111-F6A9-4611-A7FE-8D5838D3A0F5"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933207&GUID=01C26852-755A-4920-9C91-A66968FE61A8"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880195&GUID=CEF65A66-56DD-4B04-91B7-818CE186556A"
+ },
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8212693&GUID=12097868-3EEC-4624-ACDF-53F6D015DF63"
+}

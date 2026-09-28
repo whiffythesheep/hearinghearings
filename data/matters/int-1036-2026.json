@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Simcha Felder",
-  "Joann Ariola"
+  "Joann Ariola",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,6 +26,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847645&GUID=6C77B1AE-47AC-4A14-B8C7-A8E86D182D58"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862828&GUID=91EC420F-80B0-4E48-8E20-BA7FA989EADC"
   }
  ],
  "fiscal": null,

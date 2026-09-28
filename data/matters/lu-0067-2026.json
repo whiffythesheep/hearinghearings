@@ -11,6 +11,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849014&GUID=CDD5CEDE-7F73-4C5D-BCFC-768B5F170ED7"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495507&GUID=8DF13BBD-1B9A-42DD-8DC7-CB4C74200F68"
@@ -71,6 +76,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841671&GUID=8B9D4E89-AE67-42C1-B5B5-435A7940966B"
   },
   {
+   "label": "Hearing Transcript - Land Use 6/25/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856493&GUID=788CEBD5-D26A-44A9-9DF5-75A72BE35485"
+  },
+  {
    "label": "Res. No. 581",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15657368&GUID=168CF3FA-1395-4C75-B3F1-222C5CCA7290"
@@ -79,6 +89,11 @@
    "label": "June 30, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665050&GUID=C9F1FB4C-447A-4E12-ABA7-A1EEFF6A2481"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849115&GUID=7229992B-E4D1-4F32-AB92-21638AC5F19D"
   },
   {
    "label": "City Planning Commission Approval Letter",
@@ -94,16 +109,6 @@
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720779&GUID=3818D838-EEFC-4F8F-8685-D2CC3DDE75D6"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849014&GUID=CDD5CEDE-7F73-4C5D-BCFC-768B5F170ED7"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 6-30-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849115&GUID=7229992B-E4D1-4F32-AB92-21638AC5F19D"
   }
  ],
  "fiscal": null,

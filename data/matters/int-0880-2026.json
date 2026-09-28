@@ -4,7 +4,7 @@
  "legistar_id": "7998446",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the posting of signs regarding dog waste removal",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Mercedes Narcisse",
   "Shaun Abreu",
@@ -60,6 +60,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656845&GUID=9B932CC4-7AF3-444D-A6F4-D876C94C48F9"
   },
   {
+   "label": "Hearing Transcript 6/16/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858557&GUID=E01A30D6-854D-405F-8037-7E903D0D833B"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15586329&GUID=B255841E-6FC6-4431-8D9F-08CEECE47F50"
@@ -110,6 +115,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15763541&GUID=F0495629-7628-403B-AAD7-FF7598842C9C"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

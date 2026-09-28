@@ -4,7 +4,7 @@
  "legistar_id": "7862352",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to codifying the official flag of the borough of Staten Island",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Frank Morano",
   "Kamillah Hanks",
@@ -79,6 +79,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720353&GUID=0A93949D-D9C9-4375-9F8B-4546C8522477"
   },
   {
+   "label": "Hearing Transcript 6/22/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953196&GUID=0C047F04-4116-456F-AC83-2241C5D1628A"
+  },
+  {
    "label": "Proposed Int. No. 320-A - 8/6/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15749575&GUID=D84F7EAC-7819-43A0-A2DD-6C935D353283"
@@ -102,6 +107,11 @@
    "label": "Int. No. 320-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765290&GUID=C5E539BB-5855-4DC2-B530-7221ABD99987"
+  },
+  {
+   "label": "Local Laws 136",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858953&GUID=19517474-9774-4C6D-A37C-6EAF65F8738C"
   }
  ],
  "fiscal": {
@@ -127,6 +137,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15754667&GUID=73131648-5AA2-491A-B0F0-F3C1C0B1EBCF"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

@@ -4,7 +4,7 @@
  "legistar_id": "8170044",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for the senior citizen homeowner’s exemption and the disabled homeowner’s exemption",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Christopher Marte",
   "Phil Wong",
@@ -16,6 +16,7 @@
   "Shahana K. Hanif",
   "Virginia Maloney",
   "Ty Hankerson",
+  "Lynn C. Schulman",
   "Frank Morano",
   "Public Advocate Jumaane Williams"
  ],
@@ -40,10 +41,77 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765136&GUID=64BD30EF-5A92-48DD-B901-6FBF349F183D"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860073&GUID=BCF1FFE1-3D66-4392-B151-C65A85C4EC0C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865939&GUID=4DCD5EAC-1537-479F-9820-55B127BA50DA"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": -134,
+   "succeeding": -134,
+   "full": -134
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": -134,
+   "succeeding": -134,
+   "full": -134
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate on the fiscal impact of this bill.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15865939&GUID=4DCD5EAC-1537-479F-9820-55B127BA50DA"
+ },
  "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

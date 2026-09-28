@@ -9,7 +9,11 @@
   "Chris Banks",
   "Pierina Ana Sanchez",
   "Lincoln Restler",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Susan Zhuang",
+  "Christopher Marte",
+  "David M. Carr",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -39,9 +43,24 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837846&GUID=1FBB256B-65E3-41B4-9147-6393DDEBA7F1"
   },
   {
+   "label": "Hearing Testimony 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863140&GUID=1129CB1D-6F73-4E76-B4AF-AED5348E026F"
+  },
+  {
+   "label": "Appearance Cards 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859991&GUID=74C6B072-07CA-4BBD-B909-6B1AE5E271E5"
+  },
+  {
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847630&GUID=99E0129F-465D-4293-AD6E-D14C53AA26DF"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862813&GUID=491D55CF-5418-43BC-B56B-21CF2C2ACD0E"
   }
  ],
  "fiscal": {

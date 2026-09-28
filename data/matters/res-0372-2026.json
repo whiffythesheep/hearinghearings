@@ -1,0 +1,54 @@
+{
+ "file_number": "Res 0372-2026",
+ "slug": "res-0372-2026",
+ "legistar_id": "7944914",
+ "type": "Resolution",
+ "title": "Resolution calling on the Legislative Assembly of Puerto Rico to pass, and the Governor of Puerto Rico to sign, legislation to repeal Act 22 and implement a progressive tax policy to minimize the revenue losses to federal, state, city, and territorial governments",
+ "status": "Committee",
+ "sponsors": [
+  "Justin E. Sanchez",
+  "Shirley Aldebol",
+  "Alexa Avilés",
+  "Lynn C. Schulman",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 372",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303957&GUID=98FAD1B0-FC84-4BBB-91B5-0F3CED1C1B22"
+  },
+  {
+   "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15305020&GUID=4CDE8E8A-8D9D-4EEC-B219-4DF774A605B4"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433257&GUID=BB477CAC-CC8C-44EB-8EC8-4D7B7A74B3FE"
+  },
+  {
+   "label": "Committee Report 9/28/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15934240&GUID=1EB6EA48-5B7A-4EEA-AF54-245A2BA8C60F"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7944914&GUID=E622719E-69D9-4BC4-A5DD-4B31255E01B5"
+}

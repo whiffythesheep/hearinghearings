@@ -1,0 +1,90 @@
+{
+ "file_number": "Int 1099-2026",
+ "slug": "int-1099-2026",
+ "legistar_id": "8212692",
+ "type": "Introduction",
+ "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring campaign finance disclosures in content posted on internet websites, digital applications, and social media platforms, and directing the campaign finance board to issue guidance regarding the disclosure, recordkeeping, and reporting requirements applicable to such content",
+ "status": "Committee",
+ "sponsors": [
+  "Phil Wong",
+  "David M. Carr",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1099",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855281&GUID=8BB9E054-3A2D-48AF-A47C-FD012EB3A3A1"
+  },
+  {
+   "label": "Int. No. 1099",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855280&GUID=2B2661F8-2820-4B61-9E27-F865B8D38D4C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880194&GUID=61A2BF06-1E70-456D-AF84-AD56E7BBD01D"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870002&GUID=301DF55C-E4B3-4E43-9BB7-3E8F555741F5"
+  },
+  {
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933234&GUID=EBBC9BA5-F42E-4AD9-B102-FF30A5960423"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880194&GUID=61A2BF06-1E70-456D-AF84-AD56E7BBD01D"
+ },
+ "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8212692&GUID=65CCA7B4-EC8D-4C5B-90C3-C2CC98CF0B9B"
+}

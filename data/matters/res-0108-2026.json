@@ -50,6 +50,11 @@
    "label": "Hearing Testimony 6/15/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15646484&GUID=EE251464-41D7-467D-88C9-92B0F084CC76"
+  },
+  {
+   "label": "Hearing Transcript 6/15/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930382&GUID=4480CDED-5883-4F5A-9CCD-7526AC272E50"
   }
  ],
  "fiscal": null,
@@ -74,18 +79,6 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Health",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Health",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
    "body": "Committee on Hospitals",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -105,6 +98,18 @@
   {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Health",
    "action": "Laid Over by Committee",
    "result": ""
   },

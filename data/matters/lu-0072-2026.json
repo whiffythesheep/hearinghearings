@@ -11,6 +11,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849020&GUID=351A9553-B7A4-414D-91B2-BCB945A4CB4F"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - May 27, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15495512&GUID=B8D7CF82-EFF4-416F-B050-34FA3E2C95EC"
@@ -51,6 +56,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15841676&GUID=6825A1B1-C193-4CAA-B875-4901129AEDDD"
   },
   {
+   "label": "Hearing Transcript - Land Use 6/25/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856498&GUID=81BBBDDD-2812-4384-9DA8-14B9BF49E034"
+  },
+  {
    "label": "June 30, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15665055&GUID=DB7DCC75-D331-4D5D-A362-CE5FC0699B58"
@@ -76,19 +86,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699764&GUID=2EA926A2-7A75-4E70-BADB-E3E04DE37214"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 7-16-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720787&GUID=CB0CF118-3B90-40DC-AFA5-7FF6BF6B7215"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849020&GUID=351A9553-B7A4-414D-91B2-BCB945A4CB4F"
-  },
-  {
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849120&GUID=4899B8F2-08CC-4242-B692-E86118B32E74"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720787&GUID=CB0CF118-3B90-40DC-AFA5-7FF6BF6B7215"
   }
  ],
  "fiscal": null,

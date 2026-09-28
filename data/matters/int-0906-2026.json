@@ -50,6 +50,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15507773&GUID=72C5D369-0020-4297-A206-6F5FF19A5940"
   },
   {
+   "label": "Hearing Transcript 5/19/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854046&GUID=9AA38E23-E5ED-40A2-9597-7020542BF597"
+  },
+  {
    "label": "Proposed Int. No. 906-A - 9/3/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15828666&GUID=D4CEFFAF-EB0B-47A1-BC28-C24E4B1F04A3"
@@ -78,6 +83,11 @@
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849004&GUID=DE783C24-8B2B-47C3-87CB-146FE6B582FC"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862904&GUID=198F9F7A-C086-4EB3-B494-1B4DF1B0F2C9"
   }
  ],
  "fiscal": {
@@ -103,6 +113,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834387&GUID=A4FD71BF-2EB7-453F-A632-82E5040DBEA0"
  },
  "history": [
+  {
+   "date": "2026-09-10",
+   "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

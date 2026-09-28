@@ -4,7 +4,7 @@
  "legistar_id": "8206815",
  "type": "Resolution",
  "title": "Resolution calling upon the United States Senate to pass, and the President to sign, S.4814, to require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Farah N. Louis",
   "Tiffany L. Cabán",
@@ -23,7 +23,8 @@
   "Jennifer Gutiérrez",
   "Elsie Encarnación",
   "Lincoln Restler",
-  "Gale A. Brewer"
+  "Gale A. Brewer",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -36,10 +37,32 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847683&GUID=4569A1BE-467E-4870-880C-3A69FC07BE1D"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862844&GUID=C16AF829-EEC1-42FB-B539-3ED272F84C2A"
+  },
+  {
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869909&GUID=0A68255A-B477-41AF-8EF0-D1E13B8A8DFA"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Immigration",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-22",
+   "body": "Committee on Immigration",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

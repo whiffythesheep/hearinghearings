@@ -61,6 +61,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584981&GUID=F1B1390D-4CC8-4A5F-89B0-8980003E250B"
   },
   {
+   "label": "Hearing Transcript 6/8/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15854397&GUID=4462EFB0-59D5-4328-9267-43F140A6FD17"
+  },
+  {
    "label": "June 11, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575755&GUID=A21ABE98-2068-4642-AF20-0078AE524BE7"
@@ -76,14 +81,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15688467&GUID=4A3E1675-F07A-4F69-BA98-75DBF5781F9A"
   },
   {
+   "label": "Hearing Transcript 7/16/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953224&GUID=D95D1A9E-99F5-4AD6-AAEB-97BE97E6A6E8"
+  },
+  {
    "label": "Proposed Int. No. 955-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15690386&GUID=D2BF5C28-6F67-4863-8705-6A277FF82906"
-  },
-  {
-   "label": "Committee Report 7/16/26",
-   "kind": "Committee Report",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695526&GUID=CF8367BA-45C7-464F-8EF9-0F173C6E822D"
   },
   {
    "label": "Committee Report - Stated Meeting",
@@ -104,6 +109,11 @@
    "label": "Int. No. 955-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15728706&GUID=2121B100-7E39-46AF-B8BC-E2CFA88C214D"
+  },
+  {
+   "label": "Local Law 132",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15855006&GUID=F68F7106-730F-4346-9484-28DA4654640A"
   }
  ],
  "fiscal": {

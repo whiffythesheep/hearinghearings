@@ -8,7 +8,8 @@
  "sponsors": [
   "Shaun Abreu",
   "Crystal Hudson",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -16,6 +17,11 @@
    "label": "Summary of Int. No. 985",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762365&GUID=0650EE3E-7777-441B-80E4-E275E74A0E2E"
+  },
+  {
+   "label": "Summary of Int. No. 985-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881422&GUID=C7D72B36-A152-4567-A581-37A70C49DABD"
   },
   {
    "label": "Int. No. 985",
@@ -31,10 +37,26 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765107&GUID=BAC31E3D-7C04-4FB5-9325-3F3F17EA1642"
+  },
+  {
+   "label": "Proposed Int. No. 985-A - 9/22/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881423&GUID=4570338B-ED3A-4005-BCCA-C00BBA09746E"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937491&GUID=936B2551-799E-4135-BC8D-CECD06F2F8D5"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-22",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to pedestrian safety",
  "status": "Committee",
  "sponsors": [
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -29,6 +30,11 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765129&GUID=0203D826-C8AA-498B-8967-CDC9773D0D08"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937496&GUID=A082A469-4CDC-47CB-856D-10B58AC05A01"
   }
  ],
  "fiscal": null,

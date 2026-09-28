@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Kayla Santosuosso",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Shahana K. Hanif"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -30,6 +31,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847705&GUID=172744F9-5252-4F50-A920-25AEDF12E0E4"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862866&GUID=B0D609EF-4A4E-4FCE-B38E-6A2355BD07FE"
   }
  ],
  "fiscal": null,

@@ -4,7 +4,7 @@
  "body": "Committee on Education",
  "location": "Council Chambers - City Hall Jointly with the Committee on Oversight and Investigations",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1416979&GUID=7F240CBA-551C-4A5C-BABC-4547F8A6109E&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8063033",
+   "legistar_guid": "DF647C54-FD65-4BDE-81E1-1BD4698A8B6B"
+  },
+  {
+   "file_number": "T2026-2018",
+   "type": "Oversight",
+   "name": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8063033",
    "legistar_guid": "DF647C54-FD65-4BDE-81E1-1BD4698A8B6B"

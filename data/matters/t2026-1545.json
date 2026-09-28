@@ -1,0 +1,43 @@
+{
+ "file_number": "T2026-1545",
+ "slug": "t2026-1545",
+ "legistar_id": "7953793",
+ "type": "Oversight",
+ "title": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
+ "status": "Filed",
+ "sponsors": [],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419776&GUID=F5FFA3C4-CD9F-4142-A449-BB1612DEB961"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469659&GUID=1690C41B-3DE1-44B8-8072-21237D3C14ED"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15704064&GUID=861AD45F-E22E-4524-9DE4-5FAF3A3C6676"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-05-06",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-05-06",
+   "body": "Committee on Small Business",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7953793&GUID=4D9FDF6A-9F79-469E-A4CA-74AE01BC5466"
+}

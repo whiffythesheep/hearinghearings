@@ -1,0 +1,48 @@
+{
+ "file_number": "T2026-1372",
+ "slug": "t2026-1372",
+ "legistar_id": "7931732",
+ "type": "Oversight",
+ "title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report 12:30 p.m. Office of Immigrant Affairs 3:00 p.m. Public",
+ "status": "Filed",
+ "sponsors": [],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Mayor's Office of Immigrant Affairs",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15335695&GUID=277CED06-E3C9-42D2-B345-F57CCE22F8FE"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15419285&GUID=4A137736-2825-49C0-B2D7-8F84A21E7D7A"
+  },
+  {
+   "label": "Appearance Cards",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15351395&GUID=6A4D629A-0DD2-4916-8A59-062DF8232267"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15680570&GUID=B48191C9-A586-4D86-AB07-AB5A63917D66"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-03-25",
+   "body": "Committee on Immigration",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-03-25",
+   "body": "Committee on Immigration",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7931732&GUID=9D108CD5-0A33-4ADE-ACAD-FABFE9113A6C"
+}

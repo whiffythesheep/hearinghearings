@@ -85,6 +85,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490795&GUID=67C717E6-A283-4C64-A338-F0561522D2E8"
   },
   {
+   "label": "Hearing Transcript 5/19/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856304&GUID=0AC6A474-AFB7-470C-8BE8-DCC50C6D732C"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490759&GUID=DDBF88AF-6AC0-4C02-880B-06D92D933489"
@@ -108,6 +113,11 @@
    "label": "Local Law 111",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15694791&GUID=5C24AD5F-0F87-4694-BF34-5B27DB14BA81"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-20-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862807&GUID=512260ED-FD47-45E8-846E-6EDC88D26EF0"
   }
  ],
  "fiscal": {

@@ -6,6 +6,7 @@ date: 2026-03-24
 slug: committee-on-housing-and-buildings-fy-2027-preliminary-budget-hearing
 duration: "6hrs 40m"
 youtube_url: "https://www.youtube.com/watch?v=aPrlRrwWsaU"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397975&GUID=CE8E0426-D440-41E9-BF41-9709B52EDDFD&Search="
 chairs: "Pierina Ana Sanchez"
 members: "Shaun Abreu, Oswald J. Feliz, Crystal Hudson, Rita C. Joseph, Virginia Maloney, Kevin C. Riley, Yusef Salaam, Nantasha M. Williams, Susan Zhuang"
 ---

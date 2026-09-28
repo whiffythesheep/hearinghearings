@@ -16,6 +16,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664774&GUID=1501643F-36CE-4471-A0A5-397DF559B17F"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 6-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849075&GUID=7E99A0AD-270A-49BC-B6AC-B9F648799A5F"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - July 1, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15660188&GUID=DB782D02-16B5-4CAE-98E1-8C1C313ED4EB"
@@ -46,6 +51,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692925&GUID=7E4ABAAE-9294-491A-B937-CF93DAA1BBC8"
   },
   {
+   "label": "Hearing Transcript - Land Use 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953237&GUID=01274A95-3005-453F-B871-792C3A939C45"
+  },
+  {
    "label": "July 16, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699732&GUID=E9670F7E-CA98-4F31-802E-C5D09043DC58"
@@ -54,11 +64,6 @@
    "label": "Hearing Transcript - Stated Meeting 7-16-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720755&GUID=3A06D614-136C-4C14-A003-BB836E4B492E"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 6-30-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849075&GUID=7E99A0AD-270A-49BC-B6AC-B9F648799A5F"
   }
  ],
  "fiscal": null,
@@ -84,14 +89,14 @@
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
   },
   {
    "date": "2026-07-01",

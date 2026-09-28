@@ -8,7 +8,8 @@
  "sponsors": [
   "Kayla Santosuosso",
   "Amanda C. Farías",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Justin E. Sanchez"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -21,6 +22,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847706&GUID=79E0D20C-461A-410E-A85A-F9A80F600882"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862867&GUID=CDA9E5B8-D9DF-4D66-95A8-F1238B91A60B"
   }
  ],
  "fiscal": null,

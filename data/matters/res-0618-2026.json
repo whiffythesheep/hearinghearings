@@ -8,7 +8,10 @@
  "sponsors": [
   "Alexa Avilés",
   "Lincoln Restler",
-  "Gale A. Brewer"
+  "Gale A. Brewer",
+  "Shahana K. Hanif",
+  "Rita C. Joseph",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -21,6 +24,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847629&GUID=313508D3-D169-4ABF-B5E7-1214A73DE244"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862812&GUID=A98828A9-43EA-4410-8491-C7B881240440"
   }
  ],
  "fiscal": null,

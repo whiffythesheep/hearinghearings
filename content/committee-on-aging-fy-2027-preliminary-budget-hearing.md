@@ -6,6 +6,7 @@ date: 2026-03-12
 slug: committee-on-aging-fy-2027-preliminary-budget-hearing
 duration: "3hrs 46m"
 youtube_url: "https://www.youtube.com/watch?v=t3VwzDMRYHg"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397681&GUID=B7DC0452-550C-445C-A359-14F6A6A311A4&Search="
 chairs: "Susan Zhuang"
 members: "Shirley Aldebol, Gale A. Brewer, Eric Dinowitz, Crystal Hudson, Christopher Marte, Darlene Mealy"
 ---

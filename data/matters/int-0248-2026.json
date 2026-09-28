@@ -3,8 +3,8 @@
  "slug": "int-0248-2026",
  "legistar_id": "7862039",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to automatic enrollment of eligible individuals in city-created benefit programs",
- "status": "Laid Over in Committee",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to streamlining enrollment of eligible individuals in fair fares",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Crystal Hudson",
   "Lincoln Restler",
@@ -16,10 +16,22 @@
   "Harvey D. Epstein",
   "Virginia Maloney",
   "Shanel Thomas-Henry",
-  "Justin E. Sanchez"
+  "Justin E. Sanchez",
+  "Tiffany L. Cabán",
+  "Alexa Avilés",
+  "Mercedes Narcisse",
+  "Phil Wong",
+  "Shaun Abreu",
+  "Elsie Encarnación",
+  "Amanda C. Farías"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 248-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866378&GUID=D896C8C4-B4B5-47C3-8244-A9CF35537C5E"
+  },
   {
    "label": "Summary of Int. No. 248",
    "kind": "Summary",
@@ -64,6 +76,26 @@
    "label": "Hearing Transcript 5/6/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664485&GUID=670638D5-C5C6-42AD-B2DA-74B56C035B9E"
+  },
+  {
+   "label": "Proposed Int. No. 248-A - 9/18/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866377&GUID=25FDDD32-033D-4463-8C9B-C39B75F0269F"
+  },
+  {
+   "label": "Committee Report 9/23/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15880433&GUID=B7E26AFF-C2AD-47EE-BE53-57B778DB4F7C"
+  },
+  {
+   "label": "Proposed Int. No. 248-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881180&GUID=ADBB78D5-C73A-4D6F-9AC7-272F9C6CC52B"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930883&GUID=015A50A1-5336-4F2F-ABDD-2D78542320BA"
   }
  ],
  "fiscal": {
@@ -77,10 +109,40 @@
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15437478&GUID=54F9E731-C2AA-4092-BD3F-EA4359EA7A1B"
+  "label": "Proposed Int. No. 248-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881180&GUID=ADBB78D5-C73A-4D6F-9AC7-272F9C6CC52B"
  },
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on General Welfare",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on General Welfare",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on General Welfare",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Committee on General Welfare",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-05-06",
    "body": "Committee on Transportation and Infrastructure",

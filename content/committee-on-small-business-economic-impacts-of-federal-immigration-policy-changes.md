@@ -6,6 +6,7 @@ date: 2026-05-06
 slug: committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes
 duration: "2hrs 55m"
 youtube_url: "https://www.youtube.com/watch?v=FsHfAudT7_M"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1405977&GUID=4837E257-8D65-403A-8D01-3CB1032E88CB&Search="
 chairs: "Shanel Thomas-Henry | Elsie Encarnación"
 members: "Selvena N. Brooks-Powers, Shahana K. Hanif, Virginia Maloney, Frank Morano, Yusef Salaam, Kayla Santosuosso"
 ---

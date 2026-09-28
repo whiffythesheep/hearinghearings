@@ -1,0 +1,33 @@
+{
+ "event_id": "1397975",
+ "date": "2026-03-24",
+ "body": "Committee on Housing and Buildings",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397975&GUID=CE8E0426-D440-41E9-BF41-9709B52EDDFD&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1380",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Housing and Buildings",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7931828",
+   "legistar_guid": "D162CD4A-7EC7-4D08-932E-EAF2C5F86F64"
+  },
+  {
+   "file_number": "T2026-1380",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Housing and Buildings",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7931828",
+   "legistar_guid": "D162CD4A-7EC7-4D08-932E-EAF2C5F86F64"
+  }
+ ]
+}

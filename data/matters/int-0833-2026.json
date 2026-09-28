@@ -4,10 +4,9 @@
  "legistar_id": "7984638",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to restrictions on the location of buildings and other structures on Eastern parkway",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
-  "Sandy Nurse",
-  "Farah N. Louis"
+  "Sandy Nurse"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -67,6 +66,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699951&GUID=6F741A0C-C79E-4C37-A8FF-EFFD5602DBD5"
   },
   {
+   "label": "Hearing Transcript - Land Use 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953225&GUID=A98E719F-0ABC-4DB9-AB8B-552687EC52E8"
+  },
+  {
    "label": "Proposed Int. No. 833-A - 9/21/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869274&GUID=C0C22E2A-78AE-46CF-8A47-54A928887A4D"
@@ -85,6 +89,11 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930232&GUID=0D69CC64-B71A-4C85-896D-3AFB671F7DF8"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933150&GUID=E78C39DC-BC66-400A-9D48-126ED8849884"
   }
  ],
  "fiscal": {
@@ -110,6 +119,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15892790&GUID=D61B5CD8-B77B-4904-A001-79F5600DE015"
  },
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-07-14",
    "body": "Committee on Land Use",

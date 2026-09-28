@@ -4,7 +4,7 @@
  "legistar_id": "8034441",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to sanitation and cleanliness requirements for roadway and sidewalk cafes",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Justin E. Sanchez",
   "Farah N. Louis",
@@ -59,6 +59,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692634&GUID=7D0EC771-3231-4E7F-BD84-E81101CC3F63"
   },
   {
+   "label": "Hearing Transcript 6/25/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869019&GUID=933C29DD-7B73-497F-8681-E89B1BA47D2D"
+  },
+  {
    "label": "Proposed Int. No. 917-A - 8/6/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15757548&GUID=204ABDA6-AC91-427E-A520-6F77922CC4A4"
@@ -92,6 +97,11 @@
    "label": "Int. No. 917-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15775666&GUID=15682A1C-4CF6-4464-A4AA-35A6811C6499"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-20-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862705&GUID=99F2E727-E778-499E-9F04-19D3A39BD605"
   }
  ],
  "fiscal": {
@@ -117,6 +127,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15758374&GUID=E1B3FD51-6D27-41CD-B040-7A31C53AFD1D"
  },
  "history": [
+  {
+   "date": "2026-09-14",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-09-12",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

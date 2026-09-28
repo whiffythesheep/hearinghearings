@@ -4,7 +4,7 @@
  "legistar_id": "8163067",
  "type": "Land Use Application",
  "title": "Application number C 240283 ZMK (862-868 Kent Avenue) submitted by Kent Development LLC and 124 Taaffe LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12d and 16c, changing from an M1-1 District to an M1-4/R6A District and establishing a Special Mixed Use District (MX-4), Borough of Brooklyn, Community District 3, Council District 33.",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -29,10 +29,38 @@
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824850&GUID=492F3C57-7930-4897-A8FF-AAAD9521A48D"
+  },
+  {
+   "label": "Appearance Cards - Zoning 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856705&GUID=D074E2A2-0CDB-4F59-8D42-83450D2FC21B"
+  },
+  {
+   "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930234&GUID=6AA3C4FB-09F1-405C-BEAC-0F83658E2223"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Subcommittee on Zoning and Franchises",

@@ -6,7 +6,9 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for seriously disabled veterans",
  "status": "Committee",
  "sponsors": [
-  "Frank Morano"
+  "Frank Morano",
+  "Phil Wong",
+  "Vickie Paladino"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -29,6 +31,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847687&GUID=4289DFEA-8040-4278-B968-7E2F2A41E14A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862848&GUID=0233BE58-3912-4B82-8B8F-231BB4758C00"
   }
  ],
  "fiscal": null,

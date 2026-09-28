@@ -4,7 +4,7 @@
  "legistar_id": "8163078",
  "type": "Land Use Application",
  "title": "Application number C 260171 ZMQ (158-06 Northern Boulevard Rezoning) submitted by Northern 158 Holdings LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10c: eliminating from within an existing R5B District a C1-2 District; changing from an R2 District to an R7A District; changing from an R5B District to an R7A District; and establishing within the proposed R7A District a C2-4 District, Borough of Queens, Community District 7, Council District 20.",
- "status": "Laid Over in Committee",
+ "status": "Companion Pending Approval by Council",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -34,10 +34,56 @@
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824852&GUID=2749CFF9-BB8C-4A8B-AD09-085894D7B6BD"
+  },
+  {
+   "label": "Appearance Cards - Zoning 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856707&GUID=0D48D49A-A901-45D9-B36D-275796599D31"
+  },
+  {
+   "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930191&GUID=C571F9D3-6FCE-4935-B608-102924698D63"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Deferred",
+   "result": ""
+  },
   {
    "date": "2026-09-09",
    "body": "Subcommittee on Zoning and Franchises",

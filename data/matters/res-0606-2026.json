@@ -4,7 +4,7 @@
  "legistar_id": "8170169",
  "type": "Resolution",
  "title": "Resolution declaring the month of August as Black Pride Month in the City of New York, recognizing the legacy of the NYC Black Pride movement of uplifting the Black LGBTQIA+ community and its continuing contributions to creating a more equitable New York City",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Althea V. Stevens",
   "Chi A. Ossé",
@@ -18,6 +18,7 @@
   "Nantasha M. Williams",
   "Harvey D. Epstein",
   "Shirley Aldebol",
+  "Public Advocate Jumaane Williams",
   "(in conjunction with the Bronx Borough President)"
  ],
  "by_request_of_mayor": false,
@@ -31,10 +32,33 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765151&GUID=D0B76517-E54D-4E75-B2C9-0FD5F6C2CB10"
+  },
+  {
+   "label": "Committee Report 9/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884528&GUID=EAE10633-3F15-4F65-BE87-A1F675EE9F20"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

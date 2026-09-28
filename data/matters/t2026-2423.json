@@ -4,11 +4,30 @@
  "legistar_id": "8190000",
  "type": "Oversight",
  "title": "Oversight - Mental Health Services for Veterans and Military Families.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866269&GUID=398838C2-3776-4C5B-BA9D-7435A485AAB6"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Veterans",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8190000&GUID=B5E3C49D-6A83-4CB0-8583-1A26E1FC1415"
 }

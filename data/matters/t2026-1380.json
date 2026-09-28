@@ -1,0 +1,48 @@
+{
+ "file_number": "T2026-1380",
+ "slug": "t2026-1380",
+ "legistar_id": "7931828",
+ "type": "Oversight",
+ "title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report 11:30 a.m. Department of Buildings 1:30 p.m. Department of Housing Preservation and Development 3:30 p.m. Public",
+ "status": "Filed",
+ "sponsors": [],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Department of Buildings",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333745&GUID=EF927D61-EE93-4D2A-B364-1059EA0567FD"
+  },
+  {
+   "label": "Department of Housing Preservation and Development",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333746&GUID=F4BB7779-6C3C-4566-9FB0-544997063359"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15385271&GUID=87D35A2F-11B3-48F7-86A5-F5ED4853B281"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15656645&GUID=1987BA74-9793-40A0-A0A8-E99D2835B9F3"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-03-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-03-24",
+   "body": "Committee on Housing and Buildings",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7931828&GUID=D162CD4A-7EC7-4D08-932E-EAF2C5F86F64"
+}

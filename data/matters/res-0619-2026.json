@@ -7,7 +7,9 @@
  "status": "Committee",
  "sponsors": [
   "Eric Dinowitz",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Frank Morano",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -20,6 +22,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847634&GUID=60C7EE55-BC1D-4F1E-957A-4CCF96144FBB"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862817&GUID=6651B3E1-E83D-4062-A806-7B9B99B618F6"
   }
  ],
  "fiscal": null,

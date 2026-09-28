@@ -1,0 +1,33 @@
+{
+ "event_id": "1400282",
+ "date": "2026-03-25",
+ "body": "Committee on Immigration",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1400282&GUID=E57B3C25-399C-4CFC-97CB-B2FDBBA8567E&Search=",
+ "items": [
+  {
+   "file_number": "T2026-1372",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Immigration",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7931732",
+   "legistar_guid": "9D108CD5-0A33-4ADE-ACAD-FABFE9113A6C"
+  },
+  {
+   "file_number": "T2026-1372",
+   "type": "Oversight",
+   "name": "Preliminary Budget Hearing - Immigration",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "7931732",
+   "legistar_guid": "9D108CD5-0A33-4ADE-ACAD-FABFE9113A6C"
+  }
+ ]
+}

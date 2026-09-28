@@ -8,7 +8,14 @@
  "sponsors": [
   "Ty Hankerson",
   "Mercedes Narcisse",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Nantasha M. Williams",
+  "Phil Wong",
+  "Harvey D. Epstein",
+  "Amanda C. Farías",
+  "Joann Ariola",
+  "Vickie Paladino",
+  "Inna Vernikov"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,6 +38,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847654&GUID=F62E449E-78ED-4B1A-83CA-EC44580169D4"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862837&GUID=86366B93-E220-4EA9-8BEE-29A9F00D8675"
   }
  ],
  "fiscal": null,

@@ -4,10 +4,11 @@
  "legistar_id": "8206780",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to making certain informational requirements for notices concerning rent increase exemption programs discretionary",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Simcha Felder",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,10 +26,82 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847642&GUID=868F7E46-4EB0-4223-95BC-DEA4F2620D90"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859247&GUID=41B6C8B5-C989-4684-A9CC-6F7CF4F034A4"
+  },
+  {
+   "label": "Committee Report 9/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860075&GUID=E7D2837A-B0BF-4356-B617-5AB5C8A76E18"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862825&GUID=920AFBF8-5573-4265-A7F3-8330B47AADAD"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859247&GUID=41B6C8B5-C989-4684-A9CC-6F7CF4F034A4"
+ },
  "history": [
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

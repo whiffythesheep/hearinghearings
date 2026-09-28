@@ -4,7 +4,7 @@
  "legistar_id": "8163098",
  "type": "Land Use Application",
  "title": "Application number N 260172 ZRQ (158-06 Northern Boulevard Rezoning) submitted by Northern 158 Holdings LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 7, Council District 20.",
- "status": "Laid Over in Committee",
+ "status": "Companion Pending Approval by Council",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -34,10 +34,56 @@
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824853&GUID=14AB89E3-DC46-40ED-A697-D033FF0DFA5A"
+  },
+  {
+   "label": "Appearance Cards - Zoning 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856708&GUID=72AFA405-A080-49DC-B14F-60ECC521044C"
+  },
+  {
+   "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930192&GUID=B6452F06-CCAC-4277-AF49-B14D12718B02"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-09-23",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Deferred",
+   "result": ""
+  },
   {
    "date": "2026-09-09",
    "body": "Subcommittee on Zoning and Franchises",

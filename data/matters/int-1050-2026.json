@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to traffic congestion near freight terminals",
  "status": "Committee",
  "sponsors": [
-  "Frank Morano"
+  "Frank Morano",
+  "David M. Carr"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -29,6 +30,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847686&GUID=688A421F-329C-4162-9CAB-4AA56CB282BA"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862847&GUID=5C2326C9-815E-4DCF-A0B3-82BD619061E3"
   }
  ],
  "fiscal": null,

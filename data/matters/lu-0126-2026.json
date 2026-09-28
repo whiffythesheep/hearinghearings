@@ -4,7 +4,7 @@
  "legistar_id": "8163109",
  "type": "Land Use Application",
  "title": "Application number N 260136 ZRK (132 Melrose Street Rezoning) submitted by Melrose Towers Corp., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 4, Council District 34.",
- "status": "Committee",
+ "status": "Companion Pending Approval by Council",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -29,10 +29,38 @@
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824894&GUID=DE7C0BC3-B90A-494B-BBA1-77F37AFA2DB3"
+  },
+  {
+   "label": "Appearance Cards - Zoning 9/9/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856710&GUID=43228E24-F84A-4F0A-A8FD-EA9E9EBFE889"
+  },
+  {
+   "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930237&GUID=B0489C24-3836-4283-90FA-BE19EBC764CB"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Subcommittee on Zoning and Franchises",

@@ -6,7 +6,9 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to attorneys’ fees provisions in commercial leases",
  "status": "Committee",
  "sponsors": [
-  "Kayla Santosuosso"
+  "Kayla Santosuosso",
+  "Mercedes Narcisse",
+  "Lincoln Restler"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -29,6 +31,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847704&GUID=D115ADBD-888B-4E54-9F90-B3777931F763"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862865&GUID=B31EFFAF-551C-4592-879D-65F363E7D93F"
   }
  ],
  "fiscal": null,

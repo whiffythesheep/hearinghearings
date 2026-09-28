@@ -53,6 +53,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15468287&GUID=435AA990-14AC-4376-B0BE-403A47A54D38"
   },
   {
+   "label": "Hearing Transcript 5/6/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664499&GUID=9BE3D825-301A-45E5-83DA-2FFFCDA8D360"
+  },
+  {
    "label": "Res. No. 143-A - 6/16/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15587978&GUID=6B15D184-344F-46E5-86FC-BD46FC99DEBE"
@@ -63,9 +68,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15651398&GUID=FB11BB41-BF64-4272-A746-332644E86A22"
   },
   {
-   "label": "Hearing Transcript 5/6/26",
+   "label": "Hearing Transcript 6/25/26",
    "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15664499&GUID=9BE3D825-301A-45E5-83DA-2FFFCDA8D360"
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856927&GUID=56DDF5C5-ABB0-410E-830A-E4284D314F87"
   },
   {
    "label": "Committee Report - Stated Meeting",
@@ -123,12 +128,6 @@
   },
   {
    "date": "2026-05-06",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-05-06",
    "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
    "result": ""
@@ -137,6 +136,12 @@
    "date": "2026-05-06",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-05-06",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

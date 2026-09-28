@@ -57,6 +57,11 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847343&GUID=3D57B203-EBBC-4CC8-B889-DA28C34B7E45"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862897&GUID=A912DC95-B94A-4AC0-971F-15EB2CFD315C"
   }
  ],
  "fiscal": {
@@ -85,19 +90,25 @@
   {
    "date": "2026-09-10",
    "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-10",
+   "body": "City Council",
    "action": "Approved by Council",
    "result": "Pass"
   },
   {
    "date": "2026-09-10",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   },
   {
    "date": "2026-09-10",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

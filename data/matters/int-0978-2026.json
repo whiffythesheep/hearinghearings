@@ -36,7 +36,8 @@
   "Phil Wong",
   "Mercedes Narcisse",
   "Inna Vernikov",
-  "(in conjunction with the Manhattan Borough Preside"
+  "(in conjunction with the Manhattan Borough Preside",
+  "(in conjunction with the Brooklyn Borough Presiden"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -111,6 +112,12 @@
  "history": [
   {
    "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -118,6 +125,48 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },
