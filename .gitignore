@@ -22,3 +22,6 @@ weekly_digests/
 # Claude Code local state (machine-specific: session ids, pids)
 .claude/scheduled_tasks.lock
 .claude/settings.local.json
+
+# wrangler local cache (direct Cloudflare deploys)
+.wrangler/
