@@ -24,9 +24,11 @@
     {%- if t -%}{{ t.get('Affirmative', 0) }}–{{ t.get('Negative', 0) }}{%- else -%}—{%- endif -%}
 {%- endmacro %}
 
-{# Plain-English action, with Legistar's own wording on hover. #}
-{% macro action(a, empty="—") -%}
+{# Plain-English action, with Legistar's own wording on hover and the vote
+   score after a comma where there was a roll call: "Passed Council, 50–0". #}
+{% macro action(a, empty="—", t=None) -%}
     {%- if a -%}<span title="Legistar: {{ a }}">{{ a | plain }}</span>{%- else -%}{{ empty }}{%- endif -%}
+    {%- if a and t %}, <span class="mono">{{ tally(t) }}</span>{%- endif -%}
 {%- endmacro %}
 
 {% macro result(r) -%}
@@ -41,7 +43,7 @@
 {% macro items_table(items) %}
 <div class="table-scroll listing-well">
     <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th></tr></thead>
+        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
         <tbody>
         {% for item in items %}
             <tr>
@@ -50,8 +52,7 @@
                     {% for c in item.companions %}<span class="row-sub">with {{ matter_link("" if c.folded_into else c.slug, c.file_number) }}</span>{% endfor %}
                 </td>
                 <td{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</td>
-                <td>{{ action(item.action, "On the agenda") }}</td>
-                <td>{{ result(item.result) }}</td>
+                <td>{{ action(item.action, "On the agenda", item.tally) }}</td>
             </tr>
         {% endfor %}
         </tbody>

@@ -122,7 +122,7 @@
                     <tr>
                         <td class="record-date">{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.date | display_date }}</a>{% else %}{{ a.date | display_date }}{% endif %}</td>
                         <td>{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
-                        <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—") }}</td>
+                        <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—", a.tally) }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>

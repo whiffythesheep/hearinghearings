@@ -308,7 +308,13 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   the original); `matter_stage()` gives five stages for every type: In committee → Passed
   committee → Passed Council → Law (bills only), plus Closed. Oversight items are In committee
   until their hearing and Closed after (Legistar files them the same day). Matter history
-  tables show Date, Body, Action only.
+  and hearing record tables show three columns; the vote score follows the action after a
+  comma ("Passed Council, 50–0"). `PLAIN_ACTIONS` has ~14 phrases and never repeats the body
+  ("Heard, no vote yet" = Legistar's "Laid Over", always recorded with a same-day hearing).
+- **A hearing's record and a matter's history always agree**: per (date, body) the more
+  decisive of Legistar's history step and the meeting's own item wins, and both views show
+  it (Stated Meeting agendas say "Referred" where the history says "Introduced"; histories
+  lag a meeting by a day or so).
 - **Matter timelines** come from Legistar's own history, one row per body per day; joint
   hearings merge into one "Joint hearing: A, B, C" row; future-dated steps show "Scheduled:".
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov

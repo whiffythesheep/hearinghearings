@@ -34,43 +34,47 @@ EXCLUDED_TYPES = {"Communication", "Mayor's Message", "Commissioner of Deeds", "
 # Legistar's action wording, in plain English. "P-C" (pre-considered) items
 # are bills heard before they are formally introduced.
 PLAIN_ACTIONS = {
-    "Introduced by Council": "Introduced",
+    # The Body column says which committee or subcommittee acted, so the
+    # wording doesn't repeat it. A committee always hears an item on the day
+    # it holds it over, so "held over" reads as "heard, no vote yet".
+    "Introduced by Council": "Introduced and sent to committee",
     "Referred to Comm by Council": "Sent to committee",
     "Re-referred to Committee by Council": "Sent back to committee",
-    "Hearing Held by Committee": "Heard in committee",
-    "Hearing on P-C Item by Comm": "Heard in committee before introduction",
-    "Laid Over by Committee": "Held over by committee",
-    "Laid Over by Subcommittee": "Held over by subcommittee",
-    "P-C Item Laid Over by Comm": "Held over by committee before introduction",
-    "Amendment Proposed by Comm": "Amended in committee",
-    "Amended by Committee": "Amended in committee",
+    "Hearing Held by Committee": "Heard",
+    "Hearing on P-C Item by Comm": "Heard",
+    "Laid Over by Committee": "Heard, no vote yet",
+    "Laid Over by Subcommittee": "Heard, no vote yet",
+    "P-C Item Laid Over by Comm": "Heard, no vote yet",
+    "Amendment Proposed by Comm": "Amended",
+    "Amended by Committee": "Amended",
     "Approved by Committee": "Passed committee",
     "Approved by Committee with Companion Resolution": "Passed committee",
     "P-C Item Approved by Comm": "Passed committee",
     "P-C Item Approved by Committee with Companion Resolution": "Passed committee",
-    "Approved by Subcommittee": "Passed subcommittee",
+    "Approved by Subcommittee": "Passed committee",
     "Approved by Committee with Modifications and Referred to CPC":
-        "Passed committee with changes, sent back to City Planning",
+        "Passed committee with changes",
     "Approved by Subcommittee with Modifications and Referred to CPC":
-        "Passed subcommittee with changes, sent back to City Planning",
-    "Disapproved by Committee": "Rejected by committee",
-    "Disapproved by Committee with Companion Resolution": "Rejected by committee",
-    "Disapproved by Subcommittee": "Rejected by subcommittee",
-    "Filed, by Committee": "Closed by committee",
-    "Filed by Committee": "Closed by committee",
-    "Filed by Subcommittee": "Closed by subcommittee",
-    "Filed by Council": "Closed by the Council",
-    "Rcvd, Ord, Prnt, Fld by Council": "Received and closed by the Council",
+        "Passed committee with changes",
+    "Disapproved by Committee": "Rejected",
+    "Disapproved by Committee with Companion Resolution": "Rejected",
+    "Disapproved by Subcommittee": "Rejected",
+    "Disapproved by Council": "Rejected",
+    "Filed, by Committee": "Closed",
+    "Filed by Committee": "Closed",
+    "Filed by Subcommittee": "Closed",
+    "Filed by Council": "Closed",
+    "Rcvd, Ord, Prnt, Fld by Council": "Closed",
     "Deferred": "Postponed",
     "Withdrawn": "Withdrawn",
-    "Approved, by Council": "Passed by the full Council",
-    "Approved by Council": "Passed by the full Council",
+    "Approved, by Council": "Passed Council",
+    "Approved by Council": "Passed Council",
     "Approved with Modifications and Referred to the City Planning Commission "
     "pursuant to Section 197-(d) of the New York City Charter.":
-        "Passed by the full Council with changes, sent back to City Planning",
+        "Passed Council with changes",
     "Sent to Mayor by Council": "Sent to the Mayor",
-    "Hearing Held by Mayor": "Mayor's public hearing held",
-    "Signed Into Law by Mayor": "Signed into law by the Mayor",
+    "Hearing Held by Mayor": "Mayor's hearing held",
+    "Signed Into Law by Mayor": "Signed into law",
     "Recved from Mayor by Council": "Returned by the Mayor",
     "Returned Unsigned by Mayor": "Returned by the Mayor unsigned",
     "City Charter Rule Adopted": "Became law without the Mayor's signature",
@@ -135,7 +139,7 @@ def matter_stage(matter):
     history = matter.get("history") or []
     if stage == "In committee" and history:
         latest_day = [h for h in history if h.get("date") == history[0].get("date")]
-        if any(plain_action(h.get("action")).startswith("Passed") for h in latest_day):
+        if any(plain_action(h.get("action")).startswith("Passed committee") for h in latest_day):
             stage = "Passed committee"
     return stage or status or "—"
 
@@ -527,16 +531,27 @@ def load_records(hearings, today=None):
         entries = [{"date": h.get("date", ""), "body": h.get("body", ""),
                     "action": h.get("action", ""), "result": h.get("result", "")}
                    for h in m.get("history") or []]
+        if any(e["action"] == "City Charter Rule Adopted" for e in entries):
+            entries = [e for e in entries if e["action"] != "Returned Unsigned by Mayor"]
         timeline = collapse(entries, key=lambda e: (e["date"], _norm_body(e["body"])))
-        seen = {(e["date"], _norm_body(e["body"])) for e in timeline}
-        # A meeting in data/ that the history does not mention still counts.
+        by_key = {(e["date"], _norm_body(e["body"])): e for e in timeline}
+        # A meeting in data/ that the history does not mention still counts,
+        # and a meeting that records a more decisive step wins: Legistar
+        # updates a matter's history a day or so after the meeting does.
         for meeting, row in rows_by_matter.get(m["slug"], []):
             k = (meeting.get("date", ""), _norm_body(meeting.get("body", "")))
-            if k not in seen:
-                seen.add(k)
-                timeline.append({"date": k[0], "body": meeting.get("body", ""),
-                                 "action": row.get("action", ""),
-                                 "result": row.get("result", "")})
+            e = by_key.get(k)
+            if e is None:
+                by_key[k] = {"date": k[0], "body": meeting.get("body", ""),
+                             "action": row.get("action", ""),
+                             "result": row.get("result", "")}
+                timeline.append(by_key[k])
+            elif action_rank(row) > action_rank(e):
+                e.update(action=row.get("action", ""), result=row.get("result", ""))
+            # ...and the meeting's record shows the same step as the history
+            # ("Introduced", where the Stated Meeting agenda says "Referred").
+            e = by_key[k]
+            row["action"], row["result"] = e["action"], e["result"]
         slugs = {m["slug"], *m.get("companions", [])}
         for e in timeline:
             meeting = meeting_by_day_body.get((e["date"], _norm_body(e["body"])))
