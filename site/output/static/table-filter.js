@@ -15,6 +15,9 @@
  *                                         First, Prev, the current page and its four
  *                                         nearest, Next, Last under the table (?page=N)
  *
+ * Each column's options narrow to what the search and the other columns'
+ * filters leave (counts included), so no option leads to an empty table.
+ *
  * Filter state round-trips through the URL (?q=, and ?<column>= per column),
  * matching the hearings index. OR within a column, AND across columns.
  */
@@ -166,6 +169,7 @@
                     sortButtons.push(b);
                 });
             }
+            var options = [];
             values.forEach(function (v) {
                 var l = document.createElement('label');
                 l.className = 'colheader-filter__option';
@@ -177,8 +181,9 @@
                 l.appendChild(cb);
                 l.appendChild(span);
                 pop.appendChild(l);
+                options.push({ value: v, label: l, span: span, cb: cb });
             });
-            var f = { th: th, col: col, key: slug(label), pop: pop,
+            var f = { th: th, col: col, key: slug(label), pop: pop, options: options,
                       trigger: th.querySelector('.colheader-filter__trigger'),
                       clear: pop.querySelector('.colheader-filter__popover-clear') };
             filters.push(f);
@@ -228,15 +233,36 @@
             var active = filters.map(function (f) { return checked(f); });
             var shown = 0;
             var matched = [];
+            var counts = filters.map(function () { return {}; });
             rows.forEach(function (r, i) {
-                var ok = !q || hay[i].indexOf(q) !== -1;
-                for (var k = 0; ok && k < filters.length; k++) {
+                var searchOk = !q || hay[i].indexOf(q) !== -1;
+                // Which column filters this row fails: none means it is shown;
+                // exactly one means it still counts towards that column's options.
+                var failed = [];
+                for (var k = 0; k < filters.length; k++) {
                     if (!active[k].length) continue;
                     var vals = cellValues(r.cells[filters[k].col]);
-                    ok = vals.some(function (v) { return active[k].indexOf(v) !== -1; });
+                    if (!vals.some(function (v) { return active[k].indexOf(v) !== -1; })) failed.push(k);
                 }
+                if (searchOk) {
+                    filters.forEach(function (f, k) {
+                        if (failed.length === 0 || (failed.length === 1 && failed[0] === k)) {
+                            cellValues(r.cells[f.col]).forEach(function (v) {
+                                counts[k][v] = (counts[k][v] || 0) + 1;
+                            });
+                        }
+                    });
+                }
+                var ok = searchOk && failed.length === 0;
                 r.hidden = true;
                 if (ok) { shown++; matched.push(r); }
+            });
+            filters.forEach(function (f, k) {
+                f.options.forEach(function (o) {
+                    var n = counts[k][o.value] || 0;
+                    o.span.textContent = o.value + ' (' + n + ')';
+                    o.label.hidden = n === 0 && !o.cb.checked;
+                });
             });
             // Page through matches in their on-screen (sorted) order.
             matched.sort(function (a, b) { return a.sectionRowIndex - b.sectionRowIndex; });

@@ -1059,7 +1059,8 @@ body.desktop {
     background: #ece9de;
 }
 
-.colheader-filter__popover-clear[hidden] {
+.colheader-filter__popover-clear[hidden],
+.colheader-filter__option[hidden] {
     display: none;
 }
 

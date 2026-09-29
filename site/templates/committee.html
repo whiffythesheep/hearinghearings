@@ -27,7 +27,7 @@
                 <tbody>
                 {% for m in committee.meetings %}
                     <tr{% if m.kind == "Upcoming" %} class="row-upcoming"{% endif %}>
-                        <td class="num">{{ m.date }}</td>
+                        <td class="record-date" data-sort-value="{{ m.date }}">{{ m.date | display_date }}</td>
                         <td>
                             <a class="row-link" href="{{ m.link }}">{{ m.title }}</a>
                         </td>
@@ -51,7 +51,7 @@
                 {% for m in committee.matters %}
                     <tr>
                         <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
-                        <td>{{ m.type }}</td>
+                        <td>{{ m.type_label }}</td>
                         <td>{{ m.short_title }}</td>
                         <td title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>
                     </tr>

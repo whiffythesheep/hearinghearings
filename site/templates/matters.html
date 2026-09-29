@@ -24,9 +24,9 @@
             </tr></thead>
             <tbody>
             {% for m in matters %}
-                <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ ([m.file_number] + (m.companion_matters | map(attribute="file_number") | list) + [m.type, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or '']) | join(' ') | lower }}">
+                <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ ([m.file_number] + (m.companion_matters | map(attribute="file_number") | list) + [m.type_label, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or '']) | join(' ') | lower }}">
                     <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
-                    <td>{{ m.type }}</td>
+                    <td>{{ m.type_label }}</td>
                     <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
                     <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>
                     <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>

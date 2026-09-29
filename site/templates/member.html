@@ -42,7 +42,7 @@
                 <tbody>
                 {% for v in member.votes %}
                     <tr>
-                        <td class="num">{{ v.date }}</td>
+                        <td class="record-date" data-sort-value="{{ v.date }}">{{ v.date | display_date }}</td>
                         <td>
                             {{ rec.matter_link(v.matter_slug, v.file_number) }}
                             {% if v.matter_title %}<span class="row-sub">{{ v.matter_title }}</span>{% endif %}

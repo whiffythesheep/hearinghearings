@@ -104,6 +104,26 @@ _STAGE_BY_STATUS = {
 }
 
 
+# Resolutions that decide something (the budget, tax rates, appointments,
+# funding, environmental findings) rather than express a view.
+APPROVAL_RE = re.compile(
+    r"^(a )?resolution (approving|pursuant|computing|by the new york city council"
+    r"|to (provide|adopt|establish))\b", re.I)
+
+
+def matter_type_label(matter):
+    """Five plain types in place of Legistar's own."""
+    t = matter.get("type") or ""
+    if t == "Introduction":
+        return "Proposed law"
+    if t.startswith("Land Use"):
+        return "Land use"
+    if t == "Resolution":
+        title = (matter.get("title") or matter.get("name") or "").strip()
+        return "Other approval" if APPROVAL_RE.match(title) else "Resolution"
+    return t or "Matter"
+
+
 def matter_stage(matter):
     if matter.get("type") == "Oversight":
         return "Oversight topic"
@@ -347,6 +367,7 @@ def load_records(hearings, today=None):
         m["plain_summary"] = p.get("summary", "")
         m["display_status"] = m.get("status") or "—"
         m["stage"] = matter_stage(m)
+        m["type_label"] = matter_type_label(m)
         m["short_title"] = m["plain_title"] or (m.get("name") or m.get("title") or "").strip()
     _link_companions(matters, matter_by_slug)
     # A land use application and the resolution that decides it are one item.

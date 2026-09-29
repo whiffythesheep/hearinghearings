@@ -8,7 +8,7 @@
 
 <article class="record">
     <header class="record-header">
-        <p class="record-eyebrow">{{ matter.type or "Matter" }}</p>
+        <p class="record-eyebrow">{{ matter.type_label }}</p>
         <h1>{{ matter.file_number }}</h1>
         {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
         <div class="record-meta">
@@ -120,7 +120,7 @@
                 <tbody>
                 {% for a in matter.appearances %}
                     <tr>
-                        <td class="num">{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.date }}</a>{% else %}{{ a.date }}{% endif %}</td>
+                        <td class="record-date">{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.date | display_date }}</a>{% else %}{{ a.date | display_date }}{% endif %}</td>
                         <td>{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
                         <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—") }}</td>
                         <td>{{ rec.result(a.result) }}</td>

@@ -296,6 +296,13 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   `_redirects`), its extra documents appear on the LU page, and its duplicate roll call is not
   counted in members' votes (it had been double-counting 51 votes per decision). The LU is kept,
   not the Res, because the LU carries the full history and exists from referral onwards.
+- **Five plain matter types** (`matter_type_label()` in `site/record.py`): Proposed law (Int),
+  Land use (LU applications + call-ups), Other approval (resolutions that decide something:
+  budget, tax rates, appointments, funding, SEQRA findings; matched by `APPROVAL_RE` on the
+  official title), Resolution (statements: "calling on", "declaring"), Oversight. Legistar's
+  own `type` is untouched and still drives logic.
+- Column filters are **faceted**: each column's options and counts narrow to what the search
+  and other columns leave.
 - **Record tables paginate at 20** (`data-page-size` on the table, handled by `table-filter.js`).
 - **Plain English everywhere**: `PLAIN_ACTIONS` maps Legistar action wording (hover shows
   the original); `matter_stage()` gives the Matters stage strip (Introduced → In committee →
