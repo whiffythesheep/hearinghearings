@@ -11,8 +11,9 @@
  *   <td data-value="x">                   filter value (defaults to the cell text);
  *   <td data-values='["a","b"]'>          several values (e.g. committees)
  *   <tr data-find="...">                  search haystack (defaults to the row text)
- *   <table data-page-size="20">           paginate: Prev/Next in the controls row,
- *                                         numbered pages under the table (?page=N)
+ *   <table data-page-size="20">           paginate: Prev/Next in the controls row;
+ *                                         First, Prev, the current page and its four
+ *                                         nearest, Next, Last under the table (?page=N)
  *
  * Filter state round-trips through the URL (?q=, and ?<column>= per column),
  * matching the hearings index. OR within a column, AND across columns.
@@ -51,6 +52,7 @@
         var currentPage = 1;
         var pagers = [];
         var pagesEl = null;
+        var lastPage = 1;
         var wrap = table.closest('.table-scroll') || table;
 
         // Same markup as the hearings index: Prev/Next beside the count,
@@ -58,6 +60,8 @@
         if (pageSize) {
             var prev = '<button type="button" class="pagination__btn" data-page-rel="prev" aria-label="Previous page">‹ Prev</button>';
             var next = '<button type="button" class="pagination__btn" data-page-rel="next" aria-label="Next page">Next ›</button>';
+            var first = '<button type="button" class="pagination__btn" data-page-rel="first" aria-label="First page">« First</button>';
+            var last = '<button type="button" class="pagination__btn" data-page-rel="last" aria-label="Last page">Last »</button>';
             var top = document.createElement('nav');
             top.className = 'pagination pagination--top';
             top.setAttribute('aria-label', 'Pages');
@@ -66,7 +70,7 @@
             var bottom = document.createElement('nav');
             bottom.className = 'pagination';
             bottom.setAttribute('aria-label', 'Pages');
-            bottom.innerHTML = prev + '<span class="pagination__pages"></span>' + next;
+            bottom.innerHTML = first + prev + '<span class="pagination__pages"></span>' + next + last;
             wrap.parentNode.insertBefore(bottom, wrap.nextSibling);
             pagesEl = bottom.querySelector('.pagination__pages');
             pagers = [top, bottom];
@@ -75,8 +79,11 @@
                 el.addEventListener('click', function (ev) {
                     var b = ev.target.closest && ev.target.closest('button');
                     if (!b || b.disabled) return;
-                    var p = b.dataset.pageRel === 'prev' ? currentPage - 1
-                          : b.dataset.pageRel === 'next' ? currentPage + 1
+                    var rel = b.dataset.pageRel;
+                    var p = rel === 'prev' ? currentPage - 1
+                          : rel === 'next' ? currentPage + 1
+                          : rel === 'first' ? 1
+                          : rel === 'last' ? lastPage
                           : parseInt(b.dataset.page, 10);
                     if (!p || p === currentPage) return;
                     currentPage = p;
@@ -257,11 +264,17 @@
             if (!pageSize) return;
             pagers.forEach(function (el) {
                 el.hidden = pageCount <= 1;
-                el.querySelector('[data-page-rel="prev"]').disabled = currentPage <= 1;
-                el.querySelector('[data-page-rel="next"]').disabled = currentPage >= pageCount;
+                Array.prototype.slice.call(el.querySelectorAll('[data-page-rel]')).forEach(function (b) {
+                    var back = b.dataset.pageRel === 'prev' || b.dataset.pageRel === 'first';
+                    b.disabled = back ? currentPage <= 1 : currentPage >= pageCount;
+                });
             });
+            lastPage = pageCount;
+            // The current page and its four nearest, shifted at either end.
+            var start = Math.max(1, Math.min(currentPage - 2, pageCount - 4));
+            var end = Math.min(pageCount, start + 4);
             var html = '';
-            for (var p = 1; pageCount > 1 && p <= pageCount; p++) {
+            for (var p = start; pageCount > 1 && p <= end; p++) {
                 var cur = p === currentPage;
                 html += '<button type="button" class="pagination__page' + (cur ? ' is-current' : '')
                     + '" data-page="' + p + '" aria-label="Page ' + p + '"'

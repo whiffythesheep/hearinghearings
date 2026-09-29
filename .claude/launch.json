@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": ".venv/Scripts/python.exe",
+      "runtimeArgs": ["-m", "http.server", "--bind", "127.0.0.1", "8001", "--directory", "site/output"],
+      "port": 8001
+    }
+  ]
+}
