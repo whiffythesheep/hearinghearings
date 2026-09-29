@@ -5,29 +5,11 @@
 
 {% block content %}
 <div class="record">
-    <header class="record-header">
+    <header class="intro-block">
         <h1>Matters</h1>
-        <p class="record-subtitle">Every bill, resolution, land use application and oversight topic
+        <p class="intro-subtitle">Every bill, resolution, land use application and oversight topic
             taken up at a Council meeting since {{ window_from }}.</p>
     </header>
-
-    {# Where every bill, resolution and land use item stands, left to right.
-       Each stage is a link that filters the table below. #}
-    {% set decisions = matters | rejectattr("stage", "equalto", "Oversight topic") | list %}
-    <nav class="stage-strip" aria-label="Matters by stage">
-        {% for stage in stages %}
-        {% set n = decisions | selectattr("stage", "equalto", stage) | list | length %}
-        <a class="stage-strip__step{% if stage == 'Closed' %} stage-strip__step--aside{% endif %}"
-           href="?stage={{ stage | urlencode }}" data-stage="{{ stage }}">
-            <span class="stage-strip__count">{{ n }}</span>
-            <span class="stage-strip__label">{{ stage }}</span>
-        </a>
-        {% endfor %}
-    </nav>
-    <p class="record-note stage-strip__note">Bills, resolutions and land use items by where they stand now.
-        {{ matters | selectattr("stage", "equalto", "Oversight topic") | list | length }}
-        <a class="record-link" href="?stage=Oversight%20topic">oversight topics</a> are listed too, but are examined
-        rather than voted on. Click a stage to filter.</p>
 
     {{ rec.filter_header("Matters", "matter-table", matters | length, "search — try “Int 0892”, “rezoning”") }}
     <div class="table-scroll listing-well">
@@ -58,21 +40,3 @@
 </div>
 {% endblock %}
 
-{% block extra_scripts %}
-<script>
-    // Light the stage the table is filtered to, and keep in step as the
-    // Stage column filter changes (table-filter.js rewrites the URL).
-    (function () {
-        var steps = Array.prototype.slice.call(document.querySelectorAll('.stage-strip__step'));
-        function sync() {
-            var active = (new URLSearchParams(location.search).get('stage') || '').split('|');
-            steps.forEach(function (s) {
-                s.classList.toggle('is-active', active.indexOf(s.dataset.stage) !== -1);
-            });
-        }
-        sync();
-        document.addEventListener('change', function () { setTimeout(sync, 0); });
-        document.addEventListener('click', function () { setTimeout(sync, 0); });
-    })();
-</script>
-{% endblock %}

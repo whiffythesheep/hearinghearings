@@ -341,9 +341,6 @@ Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
 Any failure resets the tree to where it started, so it cannot strand a dirty tree for discover.
 
-6. If `DIRECT_DEPLOY` is on, upload master's `site/output` straight to Cloudflare Pages with
-   `npx.cmd wrangler pages deploy` (see Deployment below). Non-fatal.
-
 ## Deployment
 
 **Never commit personal details or secrets.** Keys live only in `.env` (gitignored). A local
@@ -369,17 +366,14 @@ return 404 to anyone not logged in as the owner (pushes, PRs and `gh` still work
 owner), so Cloudflare's Git integration fails with `remote: Repository not found` and nothing
 deployed for five days before anyone noticed. It was not a Cloudflare or code problem; do not
 uninstall the GitHub app, disconnect the Pages project or create a new one. The user contacted
-GitHub Support on 2026-09-28. Workaround: direct upload, which needs no GitHub:
+GitHub Support on 2026-09-28 (GitHub replied 2026-09-29 asking how the account is used).
 
-```bash
-npx.cmd wrangler pages deploy site/output --project-name hearinghearings --branch master
-```
-
-(`npx.cmd`, not `npx`: PowerShell's execution policy blocks `npx.ps1`. The `wrangler login`
-token is stored for this Windows user.) `refresh_record_nightly.py` does this every night while
-`DIRECT_DEPLOY = True`. Once GitHub lifts the flag, retry the latest deployment in Cloudflare;
-if Git deploys work again, set `DIRECT_DEPLOY = False`. PR branch previews do not exist while
-flagged — review pending hearings locally.
+**Decision (2026-09-29): wait for GitHub, no workaround.** A wrangler direct-upload stopgap ran
+for one night (2026-09-28) and was then removed at the user's request, along with the local
+wrangler install and login. Do not reintroduce direct uploads or new Cloudflare API tokens.
+While flagged, pushes to master still land on GitHub but the live site stays frozen at the
+2026-09-28 deploy; once the flag lifts, retry the latest deployment in Cloudflare and Git
+deploys resume. PR branch previews do not exist while flagged — review changes locally.
 
 **To diagnose "the site isn't updating":** check the live site actually changed after a push
 (never assume), then `curl -o /dev/null -w '%{http_code}' https://github.com/whiffythesheep`

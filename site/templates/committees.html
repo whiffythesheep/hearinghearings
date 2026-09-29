@@ -5,9 +5,9 @@
 
 {% block content %}
 <div class="record">
-    <header class="record-header">
+    <header class="intro-block">
         <h1>Committees</h1>
-        <p class="record-subtitle">Every committee that has met since {{ window_from }}, with what it considered.</p>
+        <p class="intro-subtitle">Every committee that has met since {{ window_from }}, with what it considered.</p>
     </header>
 
     {{ rec.filter_header("Committees", "committee-table", committees | length) }}

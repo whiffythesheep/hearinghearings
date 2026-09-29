@@ -471,8 +471,6 @@ def build_record_pages(env, records, ctx):
         listing_vars = {name: rows, "nav_active": name}
         if name == "members":
             listing_vars["total_votes"] = sum(len(m["votes"]) for m in rows)
-        if name == "matters":
-            listing_vars["stages"] = record.STAGES
         write([name], env.get_template(index_tpl).render(
             meta_title=title, meta_description=description,
             meta_url=f"{SITE_URL}/{name}/", **listing_vars, **ctx))
