@@ -529,6 +529,7 @@ def build():
             return hashlib.sha256(f.read()).hexdigest()[:10]
     env.globals["asset_version"] = asset_version
     env.filters["plain"] = record.plain_action
+    env.filters["display_date"] = record.display_date
 
     hearings = load_content()
     records = record.load_records(hearings)

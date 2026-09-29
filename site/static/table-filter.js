@@ -11,6 +11,8 @@
  *   <td data-value="x">                   filter value (defaults to the cell text);
  *   <td data-values='["a","b"]'>          several values (e.g. committees)
  *   <tr data-find="...">                  search haystack (defaults to the row text)
+ *   <table data-page-size="20">           paginate: Prev/Next in the controls row,
+ *                                         numbered pages under the table (?page=N)
  *
  * Filter state round-trips through the URL (?q=, and ?<column>= per column),
  * matching the hearings index. OR within a column, AND across columns.
@@ -45,6 +47,46 @@
         var tbody = table.tBodies[0];
         var sortState = null;  // {col, dir}
         var sortButtons = [];
+        var pageSize = parseInt(table.dataset.pageSize, 10) || 0;
+        var currentPage = 1;
+        var pagers = [];
+        var pagesEl = null;
+        var wrap = table.closest('.table-scroll') || table;
+
+        // Same markup as the hearings index: Prev/Next beside the count,
+        // numbered buttons under the table.
+        if (pageSize) {
+            var prev = '<button type="button" class="pagination__btn" data-page-rel="prev" aria-label="Previous page">‹ Prev</button>';
+            var next = '<button type="button" class="pagination__btn" data-page-rel="next" aria-label="Next page">Next ›</button>';
+            var top = document.createElement('nav');
+            top.className = 'pagination pagination--top';
+            top.setAttribute('aria-label', 'Pages');
+            top.innerHTML = prev + next;
+            controls.appendChild(top);
+            var bottom = document.createElement('nav');
+            bottom.className = 'pagination';
+            bottom.setAttribute('aria-label', 'Pages');
+            bottom.innerHTML = prev + '<span class="pagination__pages"></span>' + next;
+            wrap.parentNode.insertBefore(bottom, wrap.nextSibling);
+            pagesEl = bottom.querySelector('.pagination__pages');
+            pagers = [top, bottom];
+            pagers.forEach(function (el) {
+                el.hidden = true;
+                el.addEventListener('click', function (ev) {
+                    var b = ev.target.closest && ev.target.closest('button');
+                    if (!b || b.disabled) return;
+                    var p = b.dataset.pageRel === 'prev' ? currentPage - 1
+                          : b.dataset.pageRel === 'next' ? currentPage + 1
+                          : parseInt(b.dataset.page, 10);
+                    if (!p || p === currentPage) return;
+                    currentPage = p;
+                    apply();
+                    pushURL();
+                    var t = wrap.getBoundingClientRect().top + window.pageYOffset - 16;
+                    if (t < window.pageYOffset) window.scrollTo(0, t);
+                });
+            });
+        }
 
         function sortKey(row, col) {
             var cell = row.cells[col];
@@ -70,6 +112,7 @@
             sortButtons.forEach(function (b) {
                 b.classList.toggle('is-current', +b.dataset.col === col && b.dataset.dir === dir);
             });
+            currentPage = 1;
             apply();
         }
 
@@ -141,9 +184,10 @@
                 f.trigger.setAttribute('aria-expanded', open ? 'true' : 'false');
             });
             pop.addEventListener('click', function (ev) { ev.stopPropagation(); });
-            pop.addEventListener('change', function () { apply(); pushURL(); });
+            pop.addEventListener('change', function () { currentPage = 1; apply(); pushURL(); });
             f.clear.addEventListener('click', function () {
                 setChecked(f, []);
+                currentPage = 1;
                 apply();
                 pushURL();
             });
@@ -176,6 +220,7 @@
             var q = input ? input.value.trim().toLowerCase() : '';
             var active = filters.map(function (f) { return checked(f); });
             var shown = 0;
+            var matched = [];
             rows.forEach(function (r, i) {
                 var ok = !q || hay[i].indexOf(q) !== -1;
                 for (var k = 0; ok && k < filters.length; k++) {
@@ -183,17 +228,46 @@
                     var vals = cellValues(r.cells[filters[k].col]);
                     ok = vals.some(function (v) { return active[k].indexOf(v) !== -1; });
                 }
-                r.hidden = !ok;
-                if (ok) shown++;
+                r.hidden = true;
+                if (ok) { shown++; matched.push(r); }
             });
+            // Page through matches in their on-screen (sorted) order.
+            matched.sort(function (a, b) { return a.sectionRowIndex - b.sectionRowIndex; });
+            var pageCount = pageSize ? Math.max(1, Math.ceil(shown / pageSize)) : 1;
+            currentPage = Math.min(Math.max(1, currentPage), pageCount);
+            var from = pageSize ? (currentPage - 1) * pageSize : 0;
+            var to = pageSize ? from + pageSize : shown;
+            matched.forEach(function (r, i) { r.hidden = i < from || i >= to; });
             filters.forEach(function (f, k) {
                 f.th.classList.toggle('is-active', active[k].length > 0);
                 f.clear.hidden = active[k].length === 0;
             });
             var any = q || active.some(function (a) { return a.length; });
             if (clearBtn) clearBtn.hidden = !any;
-            if (countEl) countEl.textContent = 'Showing ' + shown + ' of ' + rows.length;
+            if (countEl) {
+                countEl.textContent = pageCount > 1
+                    ? 'Showing ' + (from + 1) + '–' + Math.min(to, shown) + ' of ' + shown
+                    : 'Showing ' + shown + ' of ' + rows.length;
+            }
             if (empty) empty.hidden = shown !== 0;
+            renderPages(pageCount);
+        }
+
+        function renderPages(pageCount) {
+            if (!pageSize) return;
+            pagers.forEach(function (el) {
+                el.hidden = pageCount <= 1;
+                el.querySelector('[data-page-rel="prev"]').disabled = currentPage <= 1;
+                el.querySelector('[data-page-rel="next"]').disabled = currentPage >= pageCount;
+            });
+            var html = '';
+            for (var p = 1; pageCount > 1 && p <= pageCount; p++) {
+                var cur = p === currentPage;
+                html += '<button type="button" class="pagination__page' + (cur ? ' is-current' : '')
+                    + '" data-page="' + p + '" aria-label="Page ' + p + '"'
+                    + (cur ? ' aria-current="page"' : '') + '>' + p + '</button>';
+            }
+            pagesEl.innerHTML = html;
         }
 
         function pushURL() {
@@ -205,6 +279,8 @@
                 var c = checked(f);
                 if (c.length) params.set(f.key, c.join('|')); else params.delete(f.key);
             });
+            if (pageSize && currentPage > 1) params.set('page', String(currentPage));
+            else params.delete('page');
             var qs = params.toString();
             history.replaceState(null, '', qs ? '?' + qs : window.location.pathname);
         }
@@ -215,10 +291,12 @@
             filters.forEach(function (f) {
                 setChecked(f, (params.get(f.key) || '').split('|').filter(Boolean));
             });
+            currentPage = parseInt(params.get('page'), 10) || 1;
         }
 
         var timer;
         if (input) input.addEventListener('input', function () {
+            currentPage = 1;
             apply();
             clearTimeout(timer);
             timer = setTimeout(pushURL, 150);
@@ -226,6 +304,7 @@
         if (clearBtn) clearBtn.addEventListener('click', function () {
             if (input) input.value = '';
             filters.forEach(function (f) { setChecked(f, []); });
+            currentPage = 1;
             apply();
             pushURL();
         });

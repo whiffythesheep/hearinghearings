@@ -41,7 +41,7 @@
 {% macro items_table(items) %}
 <div class="table-scroll listing-well">
     <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th><th>Vote</th></tr></thead>
+        <thead><tr><th>File</th><th>Title</th><th>Action</th><th>Result</th></tr></thead>
         <tbody>
         {% for item in items %}
             <tr>
@@ -52,7 +52,6 @@
                 <td{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</td>
                 <td>{{ action(item.action, "On the agenda") }}</td>
                 <td>{{ result(item.result) }}</td>
-                <td class="num">{{ tally(item.tally) }}</td>
             </tr>
         {% endfor %}
         </tbody>

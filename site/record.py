@@ -510,6 +510,10 @@ def load_records(hearings, today=None):
                         e["tally"] = row["tally"]
                         break
             e["joint"] = bool(meeting and "jointly" in (meeting.get("location") or "").lower())
+            # Scheduled but not yet held: an upcoming meeting, or a future
+            # step Legistar lists with no meeting of ours behind it.
+            e["upcoming"] = (meeting["kind"] == "Upcoming" if meeting
+                             else e["date"] > today)
         # A joint hearing is one Legistar event per committee: show it once,
         # naming every committee, rather than as a row per committee.
         merged = []
@@ -535,8 +539,10 @@ def load_records(hearings, today=None):
         timeline = merged
         timeline.sort(key=lambda e: e["date"], reverse=True)
         m["appearances"] = timeline
-        past = [e for e in timeline if e["date"] <= today]
-        future = [e for e in timeline if e["date"] > today]
+        past = [e for e in timeline if not e["upcoming"]]
+        future = [e for e in timeline if e["upcoming"]]
+        # Nothing has happened to it yet: greyed like upcoming hearings.
+        m["upcoming"] = bool(timeline) and not past
         m["last_action"] = past[0] if past else None
         m["latest_date"] = past[0]["date"] if past else ""
         m["next_date"] = future[-1]["date"] if future else ""

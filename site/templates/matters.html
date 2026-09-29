@@ -13,7 +13,7 @@
 
     {{ rec.filter_header("Matters", "matter-table", matters | length, "search — try “Int 0892”, “rezoning”") }}
     <div class="table-scroll listing-well">
-        <table class="record-table" id="matter-table" data-noun="matter">
+        <table class="record-table" id="matter-table" data-page-size="20" data-noun="matter">
             <thead><tr>
                 <th>File</th>
                 <th data-filter="count">Type</th>
@@ -24,13 +24,13 @@
             </tr></thead>
             <tbody>
             {% for m in matters %}
-                <tr data-find="{{ [m.file_number, m.type, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or ''] | join(' ') | lower }}">
+                <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ [m.file_number, m.type, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or ''] | join(' ') | lower }}">
                     <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
                     <td>{{ m.type }}</td>
                     <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
                     <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>
                     <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>
-                    <td class="num" data-sort-value="{{ m.latest_date or m.next_date or '' }}">{{ m.latest_date or "—" }}{% if m.next_date %}<span class="row-sub">Next: {{ m.next_date }}</span>{% endif %}</td>
+                    <td class="record-date" data-sort-value="{{ m.latest_date or m.next_date or '' }}">{{ (m.latest_date or m.next_date) | display_date or "—" }}{% if m.next_date and m.latest_date %}<span class="row-sub">Next: {{ m.next_date | display_date }}</span>{% endif %}</td>
                 </tr>
             {% endfor %}
             </tbody>

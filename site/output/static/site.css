@@ -718,6 +718,17 @@ body.desktop {
 
 /* Upcoming meetings: the whole row in a lighter grey, so they read as not
    yet happened. Hover still turns them accent like any other row. */
+/* Dates in record tables, set like the hearings list's Date column */
+.record-date {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
 .hearing-row--upcoming .hearing-row__date,
 .hearing-row--upcoming .hearing-row__committee,
 .hearing-row--upcoming .hearing-row__title,
