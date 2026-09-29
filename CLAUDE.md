@@ -291,6 +291,12 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   Meeting's duplicate General Orders listing) collapse to the most decisive action
   (`collapse()` / `action_rank()`). LU applications and their companion resolutions are
   joined (by "L.U. No." or the ULURP number) and shown as one row "LU x with Res y".
+  Since 2026-09-29 the resolution is **folded into the application** everywhere (`folded` in
+  `load_records()`): it has no matter page or Matters row (its URL 301s to the LU via
+  `_redirects`), its extra documents appear on the LU page, and its duplicate roll call is not
+  counted in members' votes (it had been double-counting 51 votes per decision). The LU is kept,
+  not the Res, because the LU carries the full history and exists from referral onwards.
+- **Record tables paginate at 20** (`data-page-size` on the table, handled by `table-filter.js`).
 - **Plain English everywhere**: `PLAIN_ACTIONS` maps Legistar action wording (hover shows
   the original); `matter_stage()` gives the Matters stage strip (Introduced → In committee →
   Passed committee → Awaiting the Mayor → Law or adopted, plus Closed and Oversight topic).

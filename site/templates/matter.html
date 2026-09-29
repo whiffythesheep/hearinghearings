@@ -23,7 +23,11 @@
             {% endif %}
             {% for c in matter.companion_matters %}
             <span class="meta-sep">·</span>
+            {% if c.folded_into %}
+            <span>Decided by <a href="{{ c.legistar_url }}" class="council-link">{{ c.file_number }} ↗</a></span>
+            {% else %}
             <span>{% if c.file_number.startswith("LU") %}Application{% else %}Resolution{% endif %}: {{ rec.matter_link(c.slug, c.file_number) }}</span>
+            {% endif %}
             {% endfor %}
             {% if matter.legistar_url %}
             <span class="meta-sep">·</span>
@@ -86,12 +90,19 @@
     </section>
     {% endif %}
 
-    {% if matter.attachments %}
+    {% set folded_docs = [] %}
+    {# The deciding resolution's documents, less the ones Legistar already files under the application. #}
+    {% set own_labels = (matter.attachments or []) | map(attribute="label") | list %}
+    {% for c in matter.companion_matters if c.folded_into %}{% for d in c.attachments or [] if d.label not in own_labels %}{% set _ = folded_docs.append(d) %}{% endfor %}{% endfor %}
+    {% if matter.attachments or folded_docs %}
     <section class="record-section">
         <h2>Documents</h2>
         <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
         <ul class="doc-list">
         {% for d in matter.attachments %}
+            <li><span class="doc-kind">{{ d.kind }}</span> <a class="council-link" href="{{ d.url }}">{{ d.label }} ↗</a></li>
+        {% endfor %}
+        {% for d in folded_docs %}
             <li><span class="doc-kind">{{ d.kind }}</span> <a class="council-link" href="{{ d.url }}">{{ d.label }} ↗</a></li>
         {% endfor %}
         </ul>

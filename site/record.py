@@ -349,6 +349,14 @@ def load_records(hearings, today=None):
         m["stage"] = matter_stage(m)
         m["short_title"] = m["plain_title"] or (m.get("name") or m.get("title") or "").strip()
     _link_companions(matters, matter_by_slug)
+    # A land use application and the resolution that decides it are one item.
+    # The application carries the whole history (referral, hearings, votes);
+    # the resolution only appears at the end and repeats the last two steps,
+    # so it is folded into the application rather than listed on its own.
+    folded = {m["slug"]: m["companions"][0] for m in matters
+              if m["file_number"].startswith("Res") and m["companions"]}
+    for slug, lu_slug in folded.items():
+        matter_by_slug[slug]["folded_into"] = lu_slug
 
     members = {}
     committees = {}
@@ -397,9 +405,18 @@ def load_records(hearings, today=None):
                 if row["matter_slug"]:
                     c["matter_slugs"].add(row["matter_slug"])
 
+        lu_voted = {i.get("file_number") for i in meeting.get("items", [])
+                    if i.get("roll_call")}
         for item in meeting.get("items", []):
             slug = item.get("file_number") and slugify(item["file_number"])
             matter = matter_by_slug.get(slug)
+            file_number = item.get("file_number", "")
+            if slug in folded:
+                # Count the vote once, against the application.
+                matter = matter_by_slug[folded[slug]]
+                if matter["file_number"] in lu_voted:
+                    continue
+                slug, file_number = matter["slug"], matter["file_number"]
             for vote in item.get("roll_call") or []:
                 key = normalize_name(vote["name"])
                 person = members.setdefault(key, {
@@ -414,7 +431,7 @@ def load_records(hearings, today=None):
                     "date_display": meeting["date_display"],
                     "body": body,
                     "meeting": meeting,  # swapped for its link once links are known
-                    "file_number": item.get("file_number", ""),
+                    "file_number": file_number,
                     "matter_slug": slug if matter is not None else "",
                     "matter_title": (matter or {}).get("short_title", ""),
                     "action": item.get("action", ""),
@@ -604,8 +621,9 @@ def load_records(hearings, today=None):
         "meeting_list": meeting_list,
         "record_only_meetings": [m for m in meeting_list
                                  if not m["has_hearing"] and m["listed"]],
-        "matters": matters,
+        "matters": [m for m in matters if m["slug"] not in folded],
         "matter_by_slug": matter_by_slug,
+        "folded": folded,
         "members": member_list,
         "committees": committee_list,
     }
@@ -640,6 +658,7 @@ def link_matter_numbers(html, matter_by_slug):
             label = match.group(0)
         if slug not in matter_by_slug:
             return label
+        slug = matter_by_slug[slug].get("folded_into") or slug
         return f'<a class="matter-ref" href="/matters/{slug}/">{label}</a>'
 
     # Don't rewrite inside an existing anchor or tag attribute.

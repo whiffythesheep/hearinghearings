@@ -504,6 +504,9 @@ def build_record_pages(env, records, ctx):
             meta_url=f"{SITE_URL}/meetings/{mt['slug']}/", **ctx))
     with open(os.path.join(OUTPUT_DIR, "_redirects"), "w", encoding="utf-8") as f:
         f.write("/meetings/ / 301\n")
+        # Land use resolutions live on their application's page.
+        for res, lu in sorted(records["folded"].items()):
+            f.write(f"/matters/{res}/ /matters/{lu}/ 301\n")
     print(f"Built: meetings/ ({len(records['record_only_meetings'])} record-only pages)")
 
 

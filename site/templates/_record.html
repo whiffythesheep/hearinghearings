@@ -47,7 +47,7 @@
             <tr>
                 <td class="num">
                     {{ matter_link(item.matter_slug, item.file_number) }}
-                    {% for c in item.companions %}<span class="row-sub">with {{ matter_link(c.slug, c.file_number) }}</span>{% endfor %}
+                    {% for c in item.companions %}<span class="row-sub">with {{ matter_link("" if c.folded_into else c.slug, c.file_number) }}</span>{% endfor %}
                 </td>
                 <td{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</td>
                 <td>{{ action(item.action, "On the agenda") }}</td>
