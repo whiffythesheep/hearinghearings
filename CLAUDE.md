@@ -305,8 +305,10 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   and other columns leave.
 - **Record tables paginate at 20** (`data-page-size` on the table, handled by `table-filter.js`).
 - **Plain English everywhere**: `PLAIN_ACTIONS` maps Legistar action wording (hover shows
-  the original); `matter_stage()` gives the Matters stage strip (Introduced → In committee →
-  Passed committee → Awaiting the Mayor → Law or adopted, plus Closed and Oversight topic).
+  the original); `matter_stage()` gives five stages for every type: In committee → Passed
+  committee → Passed Council → Law (bills only), plus Closed. Oversight items are In committee
+  until their hearing and Closed after (Legistar files them the same day). Matter history
+  tables show Date, Body, Action only.
 - **Matter timelines** come from Legistar's own history, one row per body per day; joint
   hearings merge into one "Joint hearing: A, B, C" row; future-dated steps show "Scheduled:".
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov

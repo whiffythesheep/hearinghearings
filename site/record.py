@@ -83,19 +83,20 @@ def plain_action(action):
     return PLAIN_ACTIONS.get(action.strip(), action)
 
 
-# Where a matter stands, in the order a matter moves through. Oversight
-# topics are hearings, not decisions, so they sit outside the pipeline.
-STAGES = ["Introduced", "In committee", "Passed committee",
-          "Awaiting the Mayor", "Law or adopted", "Closed"]
+# Where a matter stands, the same five stages for every type. "Passed
+# Council" is the end of the line for everything but a bill, which goes on
+# to the Mayor and becomes "Law". An oversight item is "In committee" until
+# its hearing and "Closed" once the committee files it (the same day).
+STAGES = ["In committee", "Passed committee", "Passed Council", "Law", "Closed"]
 
 _STAGE_BY_STATUS = {
-    "Introduced": "Introduced",
+    "Introduced": "In committee",
     "Committee": "In committee",
     "Laid Over in Committee": "In committee",
     "Companion Pending Approval by Council": "Passed committee",
-    "Enacted (Mayor's Desk for Signature)": "Awaiting the Mayor",
-    "Enacted": "Law or adopted",
-    "Adopted": "Law or adopted",
+    "Enacted (Mayor's Desk for Signature)": "Passed Council",
+    "Enacted": "Law",
+    "Adopted": "Passed Council",
     "Filed": "Closed",
     "Withdrawn": "Closed",
     "Disapproved": "Closed",
@@ -125,10 +126,10 @@ def matter_type_label(matter):
 
 
 def matter_stage(matter):
-    if matter.get("type") == "Oversight":
-        return "Oversight topic"
     status = matter.get("status") or ""
     stage = _STAGE_BY_STATUS.get(status, "")
+    if matter.get("type") == "Oversight":
+        return "Closed" if stage == "Closed" else "In committee"
     # Legistar leaves status at "Committee" between a committee vote and the
     # Council vote; the history tells them apart.
     history = matter.get("history") or []
