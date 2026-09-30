@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2556",
- "title": "Hearing on New York City's 311 System",
- "summary": "The Council will examine how the city's 311 system operates and performs. No further documents are available detailing specific issues to be addressed.",
+ "title": "Hearing on NYC's 311 system and related bills",
+ "summary": "The Council's Technology Committee held an oversight hearing on the 311 Customer Service Center, which handled over 16.6 million calls and 4.1 million service requests in fiscal year 2026. The hearing also covered three bills: one requiring 311 to track GPS location data for complaints, one requiring traffic complaints to be referred to the NYPD's Transportation Bureau, and one requiring 311 to redirect complaints to the correct agency when one claims it lacks jurisdiction. Nearly 400,000 service requests were closed as \"out of jurisdiction\" between 2021 and September 2026 without being properly redirected.",
  "model": "claude-sonnet-5",
- "input_hash": "9d34b906b64f64a7"
+ "input_hash": "4d8b334195ed4c7e"
 }

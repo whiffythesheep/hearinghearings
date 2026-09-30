@@ -4,14 +4,15 @@
  "legistar_id": "7862484",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to fees for the installation of solar power energy systems",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Sandy Nurse",
   "Farah N. Louis",
   "Althea V. Stevens",
   "Rita C. Joseph",
   "Crystal Hudson",
-  "Shahana K. Hanif"
+  "Shahana K. Hanif",
+  "Justin E. Sanchez"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -39,6 +40,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965650&GUID=AA4E8C09-2283-4023-B98E-453079D2D4C9"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969003&GUID=80ED3C06-3D21-4BB9-8DE9-C6CB1958C7BC"
   }
  ],
  "fiscal": {
@@ -64,6 +70,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965650&GUID=AA4E8C09-2283-4023-B98E-453079D2D4C9"
  },
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

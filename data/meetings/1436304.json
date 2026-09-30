@@ -4,7 +4,7 @@
  "body": "Committee on Women and Gender Equity",
  "location": "250 Broadway - 8th Floor - Hearing Room 3",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436304&GUID=433A2846-BDED-4D39-8D03-D5CD8F27EAB8&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Examining the Restructure of the Mayor’s Office to End Domestic and Gender-Based Violence under the Office of Community Safety.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8190214",
+   "legistar_guid": "8C3B2D56-9CCC-4543-8165-4D28C688D3D5"
+  },
+  {
+   "file_number": "T2026-2461",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Restructure of the Mayor’s Office to End Domestic and Gender-Based Violence under the Office of Community Safety.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8190214",
    "legistar_guid": "8C3B2D56-9CCC-4543-8165-4D28C688D3D5"
@@ -24,7 +35,40 @@
    "name": "Establishing a screening program for endometriosis and polyendocrine metabolic ovarian syndrome.",
    "sponsor": "Farah N. Louis",
    "agenda_note": "Proposed Int. No. 295-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862225",
+   "legistar_guid": "8BFAEAE3-1241-4471-AAFE-A91024D995EC"
+  },
+  {
+   "file_number": "Int 0295-2026",
+   "type": "Introduction",
+   "name": "Establishing a screening program for endometriosis and polyendocrine metabolic ovarian syndrome.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7862225",
+   "legistar_guid": "8BFAEAE3-1241-4471-AAFE-A91024D995EC"
+  },
+  {
+   "file_number": "Int 0295-2026",
+   "type": "Introduction",
+   "name": "Establishing a screening program for endometriosis and polyendocrine metabolic ovarian syndrome.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7862225",
+   "legistar_guid": "8BFAEAE3-1241-4471-AAFE-A91024D995EC"
+  },
+  {
+   "file_number": "Int 0295-2026",
+   "type": "Introduction",
+   "name": "Establishing a screening program for endometriosis and polyendocrine metabolic ovarian syndrome.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7862225",
    "legistar_guid": "8BFAEAE3-1241-4471-AAFE-A91024D995EC"
@@ -35,7 +79,18 @@
    "name": "Reporting on a hotline for survivors of gender-based violence.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8219720",
+   "legistar_guid": "5F19750C-E875-4E56-9915-E78BF37361BB"
+  },
+  {
+   "file_number": "Int 1079-2026",
+   "type": "Introduction",
+   "name": "Reporting on a hotline for survivors of gender-based violence.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8219720",
    "legistar_guid": "5F19750C-E875-4E56-9915-E78BF37361BB"
@@ -46,7 +101,18 @@
    "name": "Declaring November 25 as the “International day for the Elimination of Violence Against Women.”",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7998350",
+   "legistar_guid": "C4C13ACE-2B98-411C-BD88-D91A3C15877D"
+  },
+  {
+   "file_number": "Res 0441-2026",
+   "type": "Resolution",
+   "name": "Declaring November 25 as the “International day for the Elimination of Violence Against Women.”",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7998350",
    "legistar_guid": "C4C13ACE-2B98-411C-BD88-D91A3C15877D"
@@ -57,7 +123,18 @@
    "name": "Requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly.",
    "sponsor": "Kayla Santosuosso",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206883",
+   "legistar_guid": "F5A6443B-F2A2-4C6F-8FA2-0000FEF40F8A"
+  },
+  {
+   "file_number": "Res 0637-2026",
+   "type": "Resolution",
+   "name": "Requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly.",
+   "sponsor": "Kayla Santosuosso",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206883",
    "legistar_guid": "F5A6443B-F2A2-4C6F-8FA2-0000FEF40F8A"

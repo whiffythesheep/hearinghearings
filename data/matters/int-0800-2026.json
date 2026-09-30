@@ -4,7 +4,7 @@
  "legistar_id": "7961452",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the 311 customer service center to redirect requests for service or complaints to the appropriate agency",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Lynn C. Schulman",
   "Farah N. Louis",
@@ -47,6 +47,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936652&GUID=3FB2AA7D-8BE2-474B-83B2-E81FFCA948E7"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15971044&GUID=C5BC792A-E9F3-43E0-983C-833BF168886B"
   }
  ],
  "fiscal": {
@@ -72,6 +77,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936652&GUID=3FB2AA7D-8BE2-474B-83B2-E81FFCA948E7"
  },
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-03-26",
    "body": "City Council",

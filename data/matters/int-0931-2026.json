@@ -4,7 +4,7 @@
  "legistar_id": "8067771",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to a mobile drinking fountain program",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Harvey D. Epstein",
   "Christopher Marte",
@@ -14,7 +14,8 @@
   "Virginia Maloney",
   "Chris Banks",
   "Carl Wilson",
-  "Oswald J. Feliz"
+  "Oswald J. Feliz",
+  "Justin E. Sanchez"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -42,6 +43,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965409&GUID=42A4D1CE-08D9-4B14-9228-5341B7210F10"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968920&GUID=CF473767-35B0-4659-83CD-BE6C1CA1F438"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969004&GUID=CFBFDEF4-CC19-4C3B-948D-FDB264BC8371"
   }
  ],
  "fiscal": {
@@ -67,6 +78,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965409&GUID=42A4D1CE-08D9-4B14-9228-5341B7210F10"
  },
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-06-11",
    "body": "City Council",

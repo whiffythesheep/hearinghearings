@@ -4,7 +4,7 @@
  "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 *",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1430888&GUID=2D7F4ADE-7D66-4FE2-AFDF-EB3B2AD9F8B1&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Pursuant to Council Rule Section 10.60.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8238234",
+   "legistar_guid": "D91AECB7-CFCA-4656-88A3-98D4757894A3"
+  },
+  {
+   "file_number": "T2026-2449",
+   "type": "Oversight",
+   "name": "Oversight - Pursuant to Council Rule Section 10.60.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8238234",
    "legistar_guid": "D91AECB7-CFCA-4656-88A3-98D4757894A3"

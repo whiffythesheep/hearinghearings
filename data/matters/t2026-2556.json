@@ -4,11 +4,30 @@
  "legistar_id": "8213662",
  "type": "Oversight",
  "title": "?Oversight - New York City’s 311 System.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15971040&GUID=A0B386CF-7E9B-465C-AB57-C1D6790B9105"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8213662&GUID=29CA8754-ADCA-400E-BCBB-F512A43B8A81"
 }

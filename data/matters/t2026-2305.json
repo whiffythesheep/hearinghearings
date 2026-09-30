@@ -4,11 +4,30 @@
  "legistar_id": "8197637",
  "type": "Oversight",
  "title": "Oversight - Coastal Resilience.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969002&GUID=A442CB75-BB5B-4EE9-AAE0-AEF35B17DC20"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8197637&GUID=6D11F8B4-BB7D-4088-BEF0-C2D65D2C9CB0"
 }

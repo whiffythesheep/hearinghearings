@@ -4,7 +4,7 @@
  "legistar_id": "7861910",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the use of global positioning system coordinates for 311 complaints and service requests",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Eric Dinowitz",
   "Farah N. Louis"
@@ -40,6 +40,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936650&GUID=FAA8AEFE-E160-4B02-BF49-3F15543344BD"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15971041&GUID=3F472343-A7BB-4254-9251-B96564A654C8"
   }
  ],
  "fiscal": {
@@ -65,6 +70,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936650&GUID=FAA8AEFE-E160-4B02-BF49-3F15543344BD"
  },
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Technology",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

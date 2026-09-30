@@ -4,11 +4,24 @@
  "legistar_id": "8238234",
  "type": "Oversight",
  "title": "Oversight - Pursuant to Council Rule Section 10.60.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-29",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-29",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8238234&GUID=D91AECB7-CFCA-4656-88A3-98D4757894A3"
 }

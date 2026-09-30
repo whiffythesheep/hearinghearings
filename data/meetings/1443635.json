@@ -4,7 +4,7 @@
  "body": "Committee on Technology",
  "location": "250 Broadway - 8th Floor - Hearing Room 3",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443635&GUID=E6D801BD-81AD-4B5C-8792-BEF67346F52B&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - New York City’s 311 System.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8213662",
+   "legistar_guid": "29CA8754-ADCA-400E-BCBB-F512A43B8A81"
+  },
+  {
+   "file_number": "T2026-2556",
+   "type": "Oversight",
+   "name": "Oversight - New York City’s 311 System.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8213662",
    "legistar_guid": "29CA8754-ADCA-400E-BCBB-F512A43B8A81"
@@ -24,7 +35,18 @@
    "name": "Use of global positioning system coordinates for 311 complaints and service requests.",
    "sponsor": "Eric Dinowitz",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861910",
+   "legistar_guid": "CF03AF86-F56A-48C7-815C-B2F4BA7009B9"
+  },
+  {
+   "file_number": "Int 0173-2026",
+   "type": "Introduction",
+   "name": "Use of global positioning system coordinates for 311 complaints and service requests.",
+   "sponsor": "Eric Dinowitz",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861910",
    "legistar_guid": "CF03AF86-F56A-48C7-815C-B2F4BA7009B9"
@@ -35,7 +57,18 @@
    "name": "Referring 311 non-emergency traffic condition complaints to the transportation bureau of the police department.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879466",
+   "legistar_guid": "6C8587B3-64D6-4866-A302-1400CD05A87F"
+  },
+  {
+   "file_number": "Int 0669-2026",
+   "type": "Introduction",
+   "name": "Referring 311 non-emergency traffic condition complaints to the transportation bureau of the police department.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7879466",
    "legistar_guid": "6C8587B3-64D6-4866-A302-1400CD05A87F"
@@ -46,7 +79,18 @@
    "name": "Requiring the 311 customer service center to redirect requests for service or complaints to the appropriate agency.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961452",
+   "legistar_guid": "0915990B-2093-4F1D-8D63-CEB106F72683"
+  },
+  {
+   "file_number": "Int 0800-2026",
+   "type": "Introduction",
+   "name": "Requiring the 311 customer service center to redirect requests for service or complaints to the appropriate agency.",
+   "sponsor": "Lynn C. Schulman",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7961452",
    "legistar_guid": "0915990B-2093-4F1D-8D63-CEB106F72683"

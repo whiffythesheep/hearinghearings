@@ -4,7 +4,7 @@
  "body": "Committee on Fire and Emergency Management",
  "location": "250 Broadway - 8th Floor - Hearing Room 2",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436217&GUID=8C6EE00F-75A0-474A-A73D-DA06B2D9C177&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Emergency Response in the Rockaways, and Other Geographically Isolated Communities in NYC.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8167717",
+   "legistar_guid": "B090864E-E2BD-44D4-AF65-1692F4BE8A8F"
+  },
+  {
+   "file_number": "T2026-2391",
+   "type": "Oversight",
+   "name": "Oversight - Emergency Response in the Rockaways, and Other Geographically Isolated Communities in NYC.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8167717",
    "legistar_guid": "B090864E-E2BD-44D4-AF65-1692F4BE8A8F"

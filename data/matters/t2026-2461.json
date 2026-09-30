@@ -4,7 +4,7 @@
  "legistar_id": "8190214",
  "type": "Oversight",
  "title": "Oversight - Examining the Restructure of the Mayor’s Office to End Domestic and Gender-Based Violence under the Office of Community Safety.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8190214&GUID=8C3B2D56-9CCC-4543-8165-4D28C688D3D5"
 }
