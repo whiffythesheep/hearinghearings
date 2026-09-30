@@ -1,0 +1,90 @@
+{
+ "file_number": "Int 0110-2026",
+ "slug": "int-0110-2026",
+ "legistar_id": "7861675",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to delivery devices used for commercial purposes, and to repeal section 10-157.1 of such code, relating to signs with bicycle safety procedures",
+ "status": "Committee",
+ "sponsors": [
+  "Selvena N. Brooks-Powers",
+  "Farah N. Louis",
+  "Gale A. Brewer",
+  "Susan Zhuang",
+  "Lynn C. Schulman",
+  "Oswald J. Feliz",
+  "Frank Morano",
+  "Joann Ariola",
+  "Vickie Paladino",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 110",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15173347&GUID=55332EF1-E1C9-45B4-89D2-8F4956379CC5"
+  },
+  {
+   "label": "Int. No. 110",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15173349&GUID=9DD490C8-693C-4E5B-B820-AA5AB2EF898D"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251467&GUID=8EB357D8-423F-4086-85E2-7B9B2097504E"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252162&GUID=76C069BE-9391-49FF-ADD0-D4DDF11F15E7"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937485&GUID=CB65E15A-DB84-4A0E-98A2-7C2A7ABB42A4"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966097&GUID=81FAF621-33DB-4AB3-BD6D-B7E9874E69AB"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966097&GUID=81FAF621-33DB-4AB3-BD6D-B7E9874E69AB"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861675&GUID=45591EF9-8B82-4A1B-B32A-5EA2370B521A"
+}

@@ -38,9 +38,27 @@
    "label": "Committee Report 9/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937492&GUID=6E0C08B0-4D04-409D-BA3B-3DE63E38CE41"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966230&GUID=B14840B1-8423-4861-99EE-ED5BDFB71CC0"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966230&GUID=B14840B1-8423-4861-99EE-ED5BDFB71CC0"
+ },
  "history": [
   {
    "date": "2026-08-13",

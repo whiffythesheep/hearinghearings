@@ -1,0 +1,66 @@
+{
+ "file_number": "T2026-2587",
+ "slug": "t2026-2587",
+ "legistar_id": "8223712",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring third-party delivery services to track and notify certain food delivery workers of certain unsafe traffic behaviors",
+ "status": "Introduced",
+ "sponsors": [
+  "Lincoln Restler",
+  "Virginia Maloney"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883188&GUID=3D9374F7-1CA1-482D-8574-EB343B901150"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883189&GUID=727A96D1-3D15-4473-BF42-9D94FDA8E7E0"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937503&GUID=E264D228-9CC5-4182-A2ED-447FAD5968FE"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965922&GUID=79D6424E-3E8B-4E49-A21A-B513CA530CE0"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965922&GUID=79D6424E-3E8B-4E49-A21A-B513CA530CE0"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223712&GUID=A842BCEF-76BD-4CFA-A02F-A5F90FDEE8CB"
+}

@@ -44,6 +44,16 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930192&GUID=B6452F06-CCAC-4277-AF49-B14D12718B02"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966775&GUID=EA4E1AEC-E8FD-4899-95A8-161CAF41C55E"
+  },
+  {
+   "label": "Res. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966776&GUID=DFA7B5E3-FF0F-4280-A8F7-6CC2C57594E0"
   }
  ],
  "fiscal": null,
@@ -57,14 +67,14 @@
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Approved by Committee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

@@ -36,6 +36,7 @@
   "Phil Wong",
   "Mercedes Narcisse",
   "Inna Vernikov",
+  "Public Advocate Jumaane Williams",
   "(in conjunction with the Manhattan Borough Preside",
   "(in conjunction with the Brooklyn Borough Presiden"
  ],
@@ -117,26 +118,8 @@
  "history": [
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Amended by Committee",
    "result": ""
   },
   {
@@ -166,12 +149,30 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
-   "action": "Laid Over by Committee",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
    "body": "Committee on Disabilities",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },

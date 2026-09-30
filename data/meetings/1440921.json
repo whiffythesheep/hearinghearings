@@ -1,0 +1,55 @@
+{
+ "event_id": "1440921",
+ "date": "2026-09-30",
+ "body": "Committee on Environmental Protection and Waterfronts",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440921&GUID=D3975F87-2F84-4D19-8238-EFFD600E9B58&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2305",
+   "type": "Oversight",
+   "name": "Oversight - Coastal Resilience.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8197637",
+   "legistar_guid": "6D11F8B4-BB7D-4088-BEF0-C2D65D2C9CB0"
+  },
+  {
+   "file_number": "Int 0343-2026",
+   "type": "Introduction",
+   "name": "Fees for the installation of solar power energy systems.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862484",
+   "legistar_guid": "AE95F833-66E9-45E7-8CDE-C9C68022BB08"
+  },
+  {
+   "file_number": "Int 0931-2026",
+   "type": "Introduction",
+   "name": "A mobile drinking fountain program.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067771",
+   "legistar_guid": "8E22B82C-5D2F-4218-B0DE-28A64E6AD6AA"
+  },
+  {
+   "file_number": "Int 0936-2026",
+   "type": "Introduction",
+   "name": "Establishment of a department of coastal protection.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067778",
+   "legistar_guid": "80786FBA-BBCA-4FF0-BD54-C4A9102E9882"
+  }
+ ]
+}

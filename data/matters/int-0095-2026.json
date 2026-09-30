@@ -1,0 +1,88 @@
+{
+ "file_number": "Int 0095-2026",
+ "slug": "int-0095-2026",
+ "legistar_id": "7861500",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring moped retailers to provide ownership information at point of sale",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Julie Won",
+  "Farah N. Louis",
+  "Susan Zhuang",
+  "Lynn C. Schulman",
+  "Tiffany L. Cabán",
+  "Frank Morano",
+  "Vickie Paladino"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 95",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171630&GUID=D15E3C74-EC0A-49BE-A2A9-B853FFB124F2"
+  },
+  {
+   "label": "Int. No. 95",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15171633&GUID=7130FC9F-9113-4A8C-9A72-647142092288"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251441&GUID=688D5E42-0E9A-4513-A3B6-618DF1809FED"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252136&GUID=FDDF0EC9-4B4A-4019-99E8-20DB4F5F86B9"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937484&GUID=C83874F8-E960-4D6F-8D49-D75B07923A57"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965872&GUID=E3E43A56-2A6C-423B-BD6D-4A4A0C71B54F"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 100000,
+   "full": 100000
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": -100000,
+   "full": -100000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965872&GUID=E3E43A56-2A6C-423B-BD6D-4A4A0C71B54F"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861500&GUID=4E5C9D76-3CF2-480C-A12F-C66552F717A8"
+}

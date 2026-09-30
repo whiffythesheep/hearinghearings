@@ -1,0 +1,81 @@
+{
+ "file_number": "Int 0343-2026",
+ "slug": "int-0343-2026",
+ "legistar_id": "7862484",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to fees for the installation of solar power energy systems",
+ "status": "Committee",
+ "sponsors": [
+  "Sandy Nurse",
+  "Farah N. Louis",
+  "Althea V. Stevens",
+  "Rita C. Joseph",
+  "Crystal Hudson",
+  "Shahana K. Hanif"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 343",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15257153&GUID=B2C9E759-A2E9-4716-A271-E911DD248CB4"
+  },
+  {
+   "label": "Int. No. 343",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15257154&GUID=E9EBE6FC-7F83-4B80-8AE2-08ACDD40A491"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251775&GUID=16D0AD35-7534-4A2D-9980-61A26FEC6CA1"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252467&GUID=90107130-DB43-43F5-A612-AF5BE2643DB3"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965650&GUID=AA4E8C09-2283-4023-B98E-453079D2D4C9"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965650&GUID=AA4E8C09-2283-4023-B98E-453079D2D4C9"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862484&GUID=AE95F833-66E9-45E7-8CDE-C9C68022BB08"
+}

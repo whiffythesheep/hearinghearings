@@ -1,0 +1,80 @@
+{
+ "file_number": "Int 0669-2026",
+ "slug": "int-0669-2026",
+ "legistar_id": "7879466",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to referring 311 non-emergency traffic condition complaints to the transportation bureau of the police department",
+ "status": "Committee",
+ "sponsors": [
+  "Nantasha M. Williams",
+  "Amanda C. Farías",
+  "Farah N. Louis",
+  "Yusef Salaam",
+  "Kamillah Hanks"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 669",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289028&GUID=9C6952F6-99AE-4C2C-ABA9-ED9E1B1B87FB"
+  },
+  {
+   "label": "Int. No. 669",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289027&GUID=D9327611-01F0-4261-8F7A-50EA8FD806DE"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729612&GUID=B57E3A8F-0403-4B9F-BB00-B60C889A7110"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302610&GUID=E61F4E89-0E2D-4453-9351-A157EE72682F"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936651&GUID=779A3C75-6766-4C3E-9A10-7C162299DBC9"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936651&GUID=779A3C75-6766-4C3E-9A10-7C162299DBC9"
+ },
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879466&GUID=6C8587B3-64D6-4866-A302-1400CD05A87F"
+}

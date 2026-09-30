@@ -1,0 +1,89 @@
+{
+ "file_number": "Int 0800-2026",
+ "slug": "int-0800-2026",
+ "legistar_id": "7961452",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the 311 customer service center to redirect requests for service or complaints to the appropriate agency",
+ "status": "Committee",
+ "sponsors": [
+  "Lynn C. Schulman",
+  "Farah N. Louis",
+  "Sandy Nurse",
+  "Carmen N. De La Rosa",
+  "Selvena N. Brooks-Powers",
+  "Gale A. Brewer",
+  "Shirley Aldebol",
+  "Joann Ariola",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 800",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340449&GUID=79215B2D-E220-45B5-AAF2-B62727666E83"
+  },
+  {
+   "label": "Int. No. 800",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340447&GUID=402602B9-45D7-4F61-B338-97386BA1A6B6"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340453&GUID=DD665CA7-F254-4255-9D02-D3C68F494134"
+  },
+  {
+   "label": "March 26, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340834&GUID=26090E53-A854-4247-9CAC-6490F26039D1"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 3-26-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469534&GUID=34FE1546-F5D7-4A33-BD94-753B8169323C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936652&GUID=3FB2AA7D-8BE2-474B-83B2-E81FFCA948E7"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936652&GUID=3FB2AA7D-8BE2-474B-83B2-E81FFCA948E7"
+ },
+ "history": [
+  {
+   "date": "2026-03-26",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-03-26",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7961452&GUID=0915990B-2093-4F1D-8D63-CEB106F72683"
+}

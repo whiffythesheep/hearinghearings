@@ -4,7 +4,7 @@
  "legistar_id": "7944914",
  "type": "Resolution",
  "title": "Resolution calling on the Legislative Assembly of Puerto Rico to pass, and the Governor of Puerto Rico to sign, legislation to repeal Act 22 and implement a progressive tax policy to minimize the revenue losses to federal, state, city, and territorial governments",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Justin E. Sanchez",
   "Shirley Aldebol",
@@ -37,6 +37,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-03-10",
    "body": "City Council",

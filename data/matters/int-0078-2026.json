@@ -1,0 +1,92 @@
+{
+ "file_number": "Int 0078-2026",
+ "slug": "int-0078-2026",
+ "legistar_id": "7861511",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the retention of delivery data",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Farah N. Louis",
+  "Tiffany L. Cabán",
+  "Lincoln Restler",
+  "Shanel Thomas-Henry",
+  "Althea V. Stevens",
+  "Lynn C. Schulman",
+  "Shahana K. Hanif",
+  "Susan Zhuang",
+  "Sandy Nurse",
+  "Vickie Paladino",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 78",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166825&GUID=2AFCFBAD-A3F6-4DF8-AEE5-69E878868AF0"
+  },
+  {
+   "label": "Int. No. 78",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166827&GUID=DD1C18EC-621A-4475-8FE6-FF3C48FD12CE"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251424&GUID=C96CE616-B012-4378-AF5E-A2EF6EC4BD74"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252119&GUID=9F34F59D-6EA4-4BA3-83BA-0800FB1B2D6A"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937483&GUID=8ADF05CB-4435-4252-8F49-DEE3E28FF40A"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965871&GUID=A7EEF09A-D162-4C2F-8637-1BD3851608C8"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965871&GUID=A7EEF09A-D162-4C2F-8637-1BD3851608C8"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861511&GUID=05BA3489-38FD-436D-9B55-B35A46A6CD96"
+}

@@ -1,0 +1,93 @@
+{
+ "file_number": "Int 0214-2026",
+ "slug": "int-0214-2026",
+ "legistar_id": "7861951",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring micromobility share system operators to display rules of the road for safe operation",
+ "status": "Committee",
+ "sponsors": [
+  "Shahana K. Hanif",
+  "Selvena N. Brooks-Powers",
+  "Gale A. Brewer",
+  "Lincoln Restler",
+  "Farah N. Louis",
+  "Crystal Hudson",
+  "Shaun Abreu",
+  "Lynn C. Schulman"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 214",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154688&GUID=004C7570-5027-44AD-BACC-F57E150B826E"
+  },
+  {
+   "label": "Int. No. 214",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154687&GUID=CDC2AB15-B8F5-4DDF-8D2C-6C21C7C85413"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251613&GUID=0E3065F0-BDDE-4B48-A37B-7EBDE0DBF11D"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252309&GUID=2E99D3C3-1E5A-4398-A56D-5AC2DC6A1FDA"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15347882&GUID=A149B453-7E79-4365-9264-F9C9FC3FD651"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937486&GUID=E01341C0-C6C9-4D5E-812F-18C9C4C634D0"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966101&GUID=14E122CE-E035-4640-A83E-035785EB4328"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966101&GUID=14E122CE-E035-4640-A83E-035785EB4328"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861951&GUID=BCC088FF-C640-438B-AFC3-A474ED30AFED"
+}

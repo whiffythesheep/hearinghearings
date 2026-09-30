@@ -1,0 +1,82 @@
+{
+ "file_number": "Int 0173-2026",
+ "slug": "int-0173-2026",
+ "legistar_id": "7861910",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the use of global positioning system coordinates for 311 complaints and service requests",
+ "status": "Committee",
+ "sponsors": [
+  "Eric Dinowitz",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 173",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15184379&GUID=57B1ED56-8F1B-4A45-B13C-2A8C2501B128"
+  },
+  {
+   "label": "Int. No. 173",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15184380&GUID=2AAEBDDD-F493-48FF-9F3C-4AD5375A3D93"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251558&GUID=D7C15BD7-6608-476A-8EF2-14E9AE8F11D0"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252253&GUID=772F03B0-249A-4149-A32C-065251510642"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15330964&GUID=3E9BEBC7-B9B2-40EC-87E8-73A152F310E7"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936650&GUID=FAA8AEFE-E160-4B02-BF49-3F15543344BD"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936650&GUID=FAA8AEFE-E160-4B02-BF49-3F15543344BD"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861910&GUID=CF03AF86-F56A-48C7-815C-B2F4BA7009B9"
+}

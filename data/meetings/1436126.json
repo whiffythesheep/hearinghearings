@@ -1,0 +1,33 @@
+{
+ "event_id": "1436126",
+ "date": "2026-09-30",
+ "body": "Committee on Economic Development",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Small Business.",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436126&GUID=065FC95D-FA11-4A79-833F-39513A3412C6&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2330",
+   "type": "Oversight",
+   "name": "Oversight - Assessing the Economic Impact of the 2026 FIFA World Cup.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8160883",
+   "legistar_guid": "62AA1ABD-1F6B-472E-8950-9C409CEC06C4"
+  },
+  {
+   "file_number": "Res 0655-2026",
+   "type": "Resolution",
+   "name": "FIFA to pay New York City the $1 million “legacy contribution” promised for hosting the 2026 World Cup.",
+   "sponsor": "Shanel Thomas-Henry",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8237417",
+   "legistar_guid": "C30FF305-DBC4-445A-8BA0-4668E0B55EEE"
+  }
+ ]
+}

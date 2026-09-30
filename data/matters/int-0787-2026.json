@@ -1,0 +1,89 @@
+{
+ "file_number": "Int 0787-2026",
+ "slug": "int-0787-2026",
+ "legistar_id": "7961424",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on targeted traffic enforcement operations by the police department",
+ "status": "Committee",
+ "sponsors": [
+  "Selvena N. Brooks-Powers",
+  "Harvey D. Epstein",
+  "Lynn C. Schulman",
+  "Farah N. Louis",
+  "Susan Zhuang",
+  "Carl Wilson",
+  "Frank Morano",
+  "Joann Ariola",
+  "Vickie Paladino"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 787",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340373&GUID=D11F49F9-AECD-4251-9B78-D8979F9C3A77"
+  },
+  {
+   "label": "Int. No. 787",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340372&GUID=231926DB-F9B2-442E-B552-C73F43FCE713"
+  },
+  {
+   "label": "March 26, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15340813&GUID=E91748CC-CBD6-4624-BD31-5A4855FF0D6C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 3-26-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15469513&GUID=64AA929E-2BAA-4A60-B2B4-85D209190836"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937489&GUID=6F5E399D-5508-4A0C-8970-A6E91367E8ED"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966229&GUID=675C2FCE-7A7B-450B-82B9-723DE5AAE0AC"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966229&GUID=675C2FCE-7A7B-450B-82B9-723DE5AAE0AC"
+ },
+ "history": [
+  {
+   "date": "2026-03-26",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-03-26",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7961424&GUID=6080C82F-B849-4275-A2E8-0F6F84F6D81C"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0800-2026",
+ "title": "Law to make 311 redirect complaints to the right agency",
+ "summary": "This bill would require NYC311 to reopen and reroute a service request or complaint if the agency it was sent to says it lacks jurisdiction, sending it to the correct agency and notifying the complainant. It also updates the 311 satisfaction survey process so requests to reopen a complaint trigger a similar jurisdiction review. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "393d1f8c14f008a8"
+}

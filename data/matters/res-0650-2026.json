@@ -4,7 +4,7 @@
  "legistar_id": "8223442",
  "type": "Resolution",
  "title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Tiffany L. Cabán",
@@ -31,6 +31,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-29",
+   "body": "Subcommittee on Early Childhood Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-29",
+   "body": "Subcommittee on Early Childhood Education",
+   "action": "Laid Over by Subcommittee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

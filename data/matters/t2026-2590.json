@@ -1,0 +1,65 @@
+{
+ "file_number": "T2026-2590",
+ "slug": "t2026-2590",
+ "legistar_id": "8223676",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of sidewalk riding detection technology on electric bicycles and electric scooters that are part of share systems",
+ "status": "Introduced",
+ "sponsors": [
+  "Shaun Abreu"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881457&GUID=FECB1B4D-49C8-4CF6-810B-E6D1FCCCB45C"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884964&GUID=B745BA18-2E18-4333-8B70-8E95D002AC86"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937501&GUID=E08DE15E-2D22-4583-9CF6-7324566C64EE"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966099&GUID=2E55ED84-6550-4682-8FBC-A0E7E81D7160"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966099&GUID=2E55ED84-6550-4682-8FBC-A0E7E81D7160"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223676&GUID=199736E6-BAE2-4866-B63B-456AE9D2EEC7"
+}

@@ -13,7 +13,8 @@
   "Farah N. Louis",
   "Virginia Maloney",
   "Chris Banks",
-  "Carl Wilson"
+  "Carl Wilson",
+  "Oswald J. Feliz"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -36,9 +37,35 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15677632&GUID=489A35F4-B4CE-4B92-B550-7EEF96AA7DE5"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965409&GUID=42A4D1CE-08D9-4B14-9228-5341B7210F10"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965409&GUID=42A4D1CE-08D9-4B14-9228-5341B7210F10"
+ },
  "history": [
   {
    "date": "2026-06-11",

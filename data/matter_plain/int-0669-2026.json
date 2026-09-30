@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0669-2026",
+ "title": "Law to route 311 traffic complaints to police traffic unit",
+ "summary": "This bill would require NYC311 to refer non-emergency traffic complaints, such as drag racing, chronic speeding, congestion and truck route violations, to the NYPD Transportation Bureau for resolution. It would take effect 90 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "545cabe58e3bbb70"
+}

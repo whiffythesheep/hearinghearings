@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0787-2026",
+ "title": "Law requiring NYPD to report on targeted traffic enforcement",
+ "summary": "This bill would require the NYPD to report quarterly, starting July 1, 2026, on any targeted traffic enforcement operations, including where they occurred, how decisions were made and the types of summonses issued. It would also require reporting on enforcement specifically directed at e-scooters and e-bikes, and comparisons to periods without targeted enforcement. Reports would be sent to the Council speaker and posted on the NYPD website.",
+ "model": "claude-sonnet-5",
+ "input_hash": "b1d58cb2b06a1bb7"
+}

@@ -1,7 +1,7 @@
 {
  "file_number": "LU 0127-2026",
- "title": "Rezoning map change for 21-31 46th Avenue, Queens",
- "summary": "This application would change the zoning map for 21-31 46th Avenue in Long Island City, Queens from an M1-4/R6B district to an R7X district, and would create a C2-5 commercial overlay within the new district. The change is in Community District 2 and Council District 26.",
+ "title": "Zoning map change for 21-31 46th Avenue, Long Island City",
+ "summary": "This rezones a site at 21-31 46th Avenue in Long Island City, Queens from an M1-4/R6B district to an R7X district with a C2-5 commercial overlay. The change would allow an 11-story mixed-use building with about 84 apartments, including 21 income-restricted units, and ground-floor retail. A related text amendment would designate the site as a Mandatory Inclusionary Housing area.",
  "model": "claude-sonnet-5",
- "input_hash": "25077d82abad6e6a"
+ "input_hash": "1b7c9478e9ef6d41"
 }

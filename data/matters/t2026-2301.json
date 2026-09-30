@@ -4,7 +4,7 @@
  "legistar_id": "8149829",
  "type": "Oversight",
  "title": "Oversight - Telling Our Stories: Examining the Research Collections of New York City’s Public Libraries.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8149829&GUID=CC7C144B-81E5-4863-951A-A105714206BA"
 }

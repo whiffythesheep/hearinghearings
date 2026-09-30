@@ -9,7 +9,8 @@
   "Shaun Abreu",
   "Crystal Hudson",
   "Virginia Maloney",
-  "Lynn C. Schulman"
+  "Lynn C. Schulman",
+  "Oswald J. Feliz"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -47,9 +48,35 @@
    "label": "Committee Report 9/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937491&GUID=936B2551-799E-4135-BC8D-CECD06F2F8D5"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966096&GUID=C843D89F-8FAF-428A-8036-7382F90C973A"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 3200000,
+   "full": 3200000
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": -3200000,
+   "full": -3200000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966096&GUID=C843D89F-8FAF-428A-8036-7382F90C973A"
+ },
  "history": [
   {
    "date": "2026-09-22",

@@ -8,6 +8,7 @@
  "sponsors": [
   "Vickie Paladino",
   "Phil Wong",
+  "Selvena N. Brooks-Powers",
   "Frank Morano",
   "Joann Ariola"
  ],
@@ -37,9 +38,35 @@
    "label": "Committee Report 9/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937498&GUID=75C04C41-A6A0-4053-B079-464D5EC36C8F"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966231&GUID=0063D99A-5ECB-4975-967F-F348A497B7AE"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966231&GUID=0063D99A-5ECB-4975-967F-F348A497B7AE"
+ },
  "history": [
   {
    "date": "2026-09-10",

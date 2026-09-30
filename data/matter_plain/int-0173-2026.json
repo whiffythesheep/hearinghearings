@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0173-2026",
+ "title": "Law to add GPS location sharing to 311 requests",
+ "summary": "This bill would require the city's 311 website and mobile app to track and accept GPS coordinates so complaints and service requests can be pinpointed on a map. Users would need to consent to real-time location sharing and could stop sharing or delete stored location data at any time. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "02e5f28f84f241ff"
+}

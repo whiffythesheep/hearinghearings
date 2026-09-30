@@ -1,0 +1,58 @@
+{
+ "file_number": "Res 0044-2026",
+ "slug": "res-0044-2026",
+ "legistar_id": "7861526",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.1679/S.561, in relation to increasing the penalty for leaving the scene of an accident involving an e-scooter and further calling upon the New York State Legislature to include e-bikes in such legislation",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Farah N. Louis",
+  "Susan Zhuang",
+  "Lynn C. Schulman",
+  "Carl Wilson",
+  "Virginia Maloney",
+  "Frank Morano",
+  "Joann Ariola",
+  "Vickie Paladino"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 44",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15257004&GUID=FB1E7878-D292-49D7-811D-85F35C30A9B7"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251456&GUID=2D3B875C-2F4B-4FA3-9B2D-BC14957447B0"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252151&GUID=F25E8C2C-E1AB-4735-8174-3ABDAB61ECD6"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937505&GUID=76341DEF-8037-4297-8C57-80208AB434B1"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861526&GUID=416F84E3-B9E2-49FC-9BE8-195ECDB00B7E"
+}

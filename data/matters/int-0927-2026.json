@@ -1,0 +1,77 @@
+{
+ "file_number": "Int 0927-2026",
+ "slug": "int-0927-2026",
+ "legistar_id": "8067759",
+ "type": "Introduction",
+ "title": "A Local Law in relation to renaming one thoroughfare and public place in the Borough of Queens, Edgemere Avenue, and to amend the official map of the city of New York accordingly",
+ "status": "Committee",
+ "sponsors": [
+  "Selvena N. Brooks-Powers",
+  "Lynn C. Schulman"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 927",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573677&GUID=1CFB7334-DBF1-45FB-9954-B79850E1F257"
+  },
+  {
+   "label": "Int. No. 927",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573676&GUID=9D46B1A3-0637-42E3-8FF7-E4D018F12741"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575712&GUID=C4D69C97-6705-4064-9252-197912FB9F01"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953545&GUID=A1208257-FF2E-4D74-AA48-594845C663A8"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968526&GUID=A7884BA5-9F59-4B62-B5D6-048FB655B952"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 2462,
+   "succeeding": 0,
+   "full": 2462
+  },
+  "net": {
+   "effective": -2462,
+   "succeeding": 0,
+   "full": -2462
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953545&GUID=A1208257-FF2E-4D74-AA48-594845C663A8"
+ },
+ "history": [
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067759&GUID=0597EE18-E716-4377-89AE-EA4AF1C3E2F5"
+}

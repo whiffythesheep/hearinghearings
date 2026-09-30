@@ -30,7 +30,8 @@
    "legistar_guid": "2A859448-CA37-40B2-848B-1D8CF1215BC0",
    "tally": {
     "Affirmative": 12,
-    "Absent": 5
+    "Absent": 4,
+    "Medical": 1
    },
    "roll_call": [
     {
@@ -75,7 +76,7 @@
     },
     {
      "name": "Darlene Mealy",
-     "vote": "Absent"
+     "vote": "Medical"
     },
     {
      "name": "Frank Morano",

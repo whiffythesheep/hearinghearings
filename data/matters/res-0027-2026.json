@@ -4,7 +4,7 @@
  "legistar_id": "7861434",
  "type": "Resolution",
  "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.05623/A.05290 in relation to the purchase of claims by corporations or collection agencies and to certain instruments calling for payment of a monetary obligation by a foreign state",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Alexa Avilés",
   "Tiffany L. Cabán",
@@ -54,6 +54,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-28",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

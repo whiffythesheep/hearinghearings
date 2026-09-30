@@ -4,7 +4,7 @@
  "body": "Committee on Higher Education",
  "location": "250 Broadway - 8th Floor - Hearing Room 2",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436569&GUID=806AA0B5-04B8-4D2D-A8BA-7E5372D57A9B&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Study Abroad Opportunities at CUNY.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8171870",
+   "legistar_guid": "C544F2FC-EE57-4C28-8056-1F45C4A870CA"
+  },
+  {
+   "file_number": "T2026-2403",
+   "type": "Oversight",
+   "name": "Oversight - Study Abroad Opportunities at CUNY.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8171870",
    "legistar_guid": "C544F2FC-EE57-4C28-8056-1F45C4A870CA"

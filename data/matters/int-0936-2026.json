@@ -27,9 +27,35 @@
    "label": "June 11, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575722&GUID=FE7FF546-AA36-4043-987E-1367F02E00AC"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965410&GUID=9F2AC1EF-C074-4DB0-AF1C-269887308AE5"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 306121,
+   "succeeding": 1745852,
+   "full": 1745852
+  },
+  "net": {
+   "effective": -306121,
+   "succeeding": -1745852,
+   "full": -1745852
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965410&GUID=9F2AC1EF-C074-4DB0-AF1C-269887308AE5"
+ },
  "history": [
   {
    "date": "2026-08-14",

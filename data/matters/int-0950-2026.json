@@ -1,0 +1,86 @@
+{
+ "file_number": "Int 0950-2026",
+ "slug": "int-0950-2026",
+ "legistar_id": "8067880",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing delivery services",
+ "status": "Committee",
+ "sponsors": [
+  "Lynn C. Schulman",
+  "Gale A. Brewer",
+  "Farah N. Louis",
+  "Lincoln Restler",
+  "Susan Zhuang",
+  "Oswald J. Feliz",
+  "Frank Morano",
+  "Joann Ariola",
+  "Vickie Paladino",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 950",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574080&GUID=6AD2BEEE-71CE-4D26-AE19-F9C13915D7B7"
+  },
+  {
+   "label": "Int. No. 950",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574079&GUID=61DF0889-6BFC-4188-AF4D-82378D6F74CF"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574081&GUID=FC8CD3E9-5FB4-439F-80BA-5AF9EC6DE7DC"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575745&GUID=28ADD816-31DE-4784-9B81-8005055B510A"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937490&GUID=A238625F-6439-4ECB-91BF-54ABA2316573"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965918&GUID=18590A76-7D37-4400-8FEF-EBA656B16607"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965918&GUID=18590A76-7D37-4400-8FEF-EBA656B16607"
+ },
+ "history": [
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067880&GUID=E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3"
+}

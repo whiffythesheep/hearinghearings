@@ -1,0 +1,67 @@
+{
+ "file_number": "T2026-2361",
+ "slug": "t2026-2361",
+ "legistar_id": "8223710",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of class 3 e-bicycles",
+ "status": "Introduced",
+ "sponsors": [
+  "Crystal Hudson",
+  "Shaun Abreu",
+  "Phil Wong"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883183&GUID=50ECEBFE-41CA-4BCB-BF85-71BD595813A0"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883182&GUID=50DACB59-A5DB-472E-925A-4419C24C1B76"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937502&GUID=EA0BD044-3A2B-4BD5-AFAC-16DBDEADD621"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966098&GUID=D1439E2C-A6E0-4052-AC31-8E3731AF008F"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2029",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966098&GUID=D1439E2C-A6E0-4052-AC31-8E3731AF008F"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223710&GUID=E603FDD2-B465-44EE-9D59-762B0BE124A8"
+}
