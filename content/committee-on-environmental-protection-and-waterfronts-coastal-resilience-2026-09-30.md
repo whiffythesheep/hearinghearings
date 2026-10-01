@@ -1,0 +1,1019 @@
+---
+committee: "Committee on Environmental Protection and Waterfronts"
+committee_slug: committee-on-environmental-protection-and-waterfronts
+title: "Coastal Resilience"
+date: 2026-09-30
+slug: committee-on-environmental-protection-and-waterfronts-coastal-resilience-2026-09-30
+duration: "1hr 56m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260930-132056.mp4"
+viebit_hash: "nSkJULaXqNnuJnQJ"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440921&GUID=D3975F87-2F84-4D19-8238-EFFD600E9B58&Search="
+chairs: "James F. Gennaro"
+members: "Harvey D. Epstein, Kamillah Hanks, Lincoln Restler, Justin E. Sanchez"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Environmental Protection and Waterfronts held an oversight hearing on coastal resilience alongside three bills: Int 0343-2026 on solar installation permit fees, Int 0931-2026 on mobile drinking fountains, and Int 0936-2026 on creating a Department of Coastal Protection. The hearing was framed by a nor'easter that had just struck the city the preceding weekend, causing significant coastal flooding, felling hundreds of trees and killing a DEP maintenance worker, Lleyton Braun, to whose memory the chair dedicated the hearing.
+
+The bulk of substantive testimony came from DEP Deputy Commissioner Beth de Falco and Assistant Commissioner Catherine Pavelski, who made the case that the administration is already building exactly what Int 0936 envisions, in the form of the Bureau of Coastal Resilience created in 2023 and dramatically expanded this year with a $43.2 million mayoral investment that grows the bureau from six to 75 employees. DEP's position on the bill was a polite but firm request for time and flexibility: the bureau is new, infrastructure is just coming online, and converting it into a standalone department risks fragmenting what is only now becoming a coherent institutional structure. They committed to ongoing conversations but asked the Council not to rush to codify a structure before the bureau has had time to learn how to operate floodgates, hire up, and develop its comprehensive coastal plan. Chair Gennaro, who has been pushing for a single authoritative coastal resilience entity since 2012 and authored the 2012 local law codifying the NYC Panel on Climate Change, was sympathetic to the operational concerns but unambiguous that the committee intends to move the bill regardless. He framed the bureau's intended role in characteristically restrained terms: the Death Star of resilience, painted blue.
+
+On Int 0931, the mobile drinking fountains bill sponsored by CM Epstein, DEP's objections were more substantive. The city currently has only nine mobile fountains, used for emergencies. Deploying them citywide on days above 82 degrees would require staffing of two people per station, implying over a hundred additional personnel, drawn from the same workforce responsible for keeping the water system running during heat events when demand surges. DEP pointed to 600-plus cooling centers and 3,400 park water fountains as existing alternatives. Epstein, who had to return to a concurrent hearing, acknowledged the staffing logic and suggested the bill might need to be narrowed or redirected to a more operationally suited agency. No resolution was reached and the conversation was explicitly deferred offline. On Int 0343, the solar crane permit fee bill, DOB confirmed that crane permits run $100 to $250, but noted most solar installations do not actually require a crane permit at all, instead using aerial lifts. More consequentially, DOB reported that solar installation permit filings have collapsed by more than 80% since the federal tax credit expired last summer, from roughly 9,400 filings in 2024 to about 3,300 so far in 2026.
+
+Civil society witnesses from the Waterfront Alliance, Riverkeeper and the NY League of Conservation Voters were aligned in supporting the bureau's expanded role but uniformly opposed to creating a new standalone department, arguing it would lose the operational and personnel infrastructure DEP provides. Riverkeeper made the most precise ask: amend Int 0936 to codify the Bureau of Coastal Resilience within DEP rather than creating a separate department. All three organisations are members of the Rise to Resilience Coalition. A remote witness, MPH student Elizabeth Cortez, supported Int 0931 but urged a funded implementation plan and annual public reporting on neighborhood coverage. The committee also heard briefly but usefully from DOB on the sharp decline in solar permits, and CM Avilés, not a committee member but allowed to question at length, pressed on community engagement failures in Red Hook, the inadequacy of the existing Red Hook resiliency project for a full coastal storm, and the contradictions between coastal resilience policy and continued waterfront development.
+
+Numbers
+
+- NYC has 520 miles of shoreline subject to coastal resilience planning.
+- The Bureau of Coastal Resilience was created in 2023 and until the recent investment had only 6 employees.
+- Mayor Mamdani committed $43.2 million to expand the Bureau of Coastal Resilience this year.
+- The Bureau is expanding from 6 to 75 employees as a result of that investment, with 69 new lines to be filled.
+- The Bureau currently oversees 16 active infrastructure projects across all stages of planning, design and construction.
+- The East Side Coastal Resilience project provides two miles of coastal protection from East 25th Street to Montgomery Street and is designed to protect approximately 110,000 New Yorkers, including 28,000 NYCHA residents, from a 100-year storm accounting for sea level rise through 2050.
+- The Brooklyn Bridge-Montgomery Coastal Resiliency project costs $388 million and will protect approximately 44,000 residents along a half-mile stretch.
+- The Staten Island south shore seawall is a $2.4 billion project protecting over 30,000 New Yorkers with a 5.5-mile continuous protection system.
+- The Seaport Resilience project costs $228 million.
+- The Red Hook Coastal Resiliency project costs $208 million and will create approximately two miles of protection benefiting around 6,000 residents.
+- The NY-NJ Harbor and Tributary Study (HATS) identified a $52 billion regional coastal protection program in 2022.
+- Full coastline protection is estimated to require $12 billion to $2 billion annually over 20 to 30 years (range as stated in testimony).
+- The Bureau assumed responsibility in 2025 for the first 12 floodgates and 1.4 miles of flood wall from the East Side Coastal Resilience project.
+- The city has approximately 600 cooling stations and over 3,400 water fountains in public parks.
+- DEP currently has only 9 mobile drinking fountains, used for emergency purposes only.
+- Staffing a mobile drinking fountain program at the scale envisioned by Int 0931 would require more than 100 personnel, at 2 per station.
+- Crane permits at DOB cost between $100 and $250.
+- Solar installation permit fees are calculated at approximately $5 to $13 per kilowatt of capacity, with a minimum permit fee of $290 plus roughly $10 per $1,000 of installation cost beyond that.
+- Solar installation permit filings at DOB: approximately 9,400 in 2024, approximately 8,500 in 2025, and approximately 3,300 so far in 2026, a decline of more than 80% coinciding with the expiration of the federal solar tax credit last summer.
+- NPCC projects NYC sea level rise of 6 to 12 inches by the 2030s, 1 to 2 feet by the 2050s, and 2 to 5.5 feet by 2100.
+- NPCC projects annual precipitation increases of up to 14% by the 2030s, 20% by the 2050s and 30% by 2100.
+
+Action Points
+
+- Bureau of Coastal Resilience to complete the RISE (Resilient Infrastructure for Shoreline Edges) typology study by end of 2026.
+- Bureau of Coastal Resilience to begin procurement for the comprehensive coastal resilience plan in 2027, with completion estimated in two to three years.
+- DEP to fill all 69 new Bureau of Coastal Resilience positions as rapidly as possible, with a target of completion by end of 2027 at latest.
+- Bureau of Coastal Resilience to check whether any bureau staff have attended Malcolm Bowman's storm surge barrier working group and report back to Chair Gennaro.
+- MOCEJ to complete rulemaking required under Local Law 41 of 2021 establishing a minimum resilience score for covered capital projects by December 31, 2026, as required by the law.
+- CM Epstein and DEP to hold offline discussions to explore whether Int 0931 can be narrowed or redirected to a more appropriate lead agency for mobile drinking fountain deployment.
+- DOB to confirm the exact per-thousand-dollar fee increment for solar installation permits and provide that figure to the committee.
+- DOB to work with the Council to advance legislation facilitating solar installation permitting, per DOB's stated support for the intent of Int 0343.
+- Bureau of Coastal Resilience to provide the Council with updates on infrastructure coming online and hiring progress as a basis for further discussions on Int 0936 before the committee advances the bill.
+- Committee counsel to note the Waterfront Alliance request for a future hearing on Int 0343-2026, sponsored by Deputy Speaker Williams, on groundwater flood risk, for scheduling consideration.
+- Waterfront Alliance and other Rise to Resilience Coalition members to be included as stakeholders in discussions on the final direction and scope of Int 0936.
+- Chair Gennaro to consider holding a follow-up oversight hearing on coastal resilience in spring 2027, as requested by the Waterfront Alliance, to assess bureau hiring, funding use and interagency coordination progress.
+
+## Full Transcript
+
+**(00:02:58)**
+
+
+
+Thank you.
+
+**(00:02:58)**
+
+
+
+Good afternoon. Welcome to the Committee on Environmental Protection and Waterfronts. At this time we ask that you please silence your electronics. If you wish to testify please see one of the sergeants at arms in the back, and at no point please do not approach the dais. Chair, you may begin.
+
+**(00:03:16)**
+
+
+
+Thank you. Thank you for reminding me to silence my electronics. I will just put it aside. Good. I am Council Member Jim Gennaro, Chair of the Committee on Environmental Protection and Waterfronts. Today we will hold an oversight hearing on coastal resiliency, as well as the following legislation: Int 0343, sponsored by Council Member Sandy Nurse, in relation to waiving fees for street crane permits related to solar installations; Int 0931, sponsored by Council Member Harvey Epstein, in relation to requiring a mobile drinking fountain program; and Int 0936, sponsored by myself, in relation to the creation of a Department of Coastal Protection, which would be tasked with designing and protecting the City's shoreline and coast from storms, erosion and the effects of climate change.
+
+We are just about a month away from the fourteenth anniversary of Superstorm Sandy, and this past weekend the City was hit with a nor'easter which brought coastal flooding, strong winds and heavy rains, which unfortunately led to the passing of a New York City DEP employee, Lleyton Braun, a maintenance supervisor who was tragically struck and killed by a falling tree during the storm. I would like to offer my sincerest condolences to Mr. Braun's family and friends.
+
+The weekend storm coincided with a full moon and high tide, and this confluence of factors led to significant coastal flooding in low-lying waterfront neighborhoods. While the City was spared the worst of these effects, our neighbors in New Jersey were not so lucky. Across the state, the combination of severe storm surge and higher than average tides washed away stretches of beach, creating significant economic damage and undoing millions of dollars in recent beach renourishment.
+
+As some of you know, back in 2012 I introduced a Bill that would go on to become Local Law 42 of 2012, codifying the New York City Panel on Climate Change and the Climate Adaptation Task Force. According to the panel's 2024 report — that is the NPCC — local sea levels are projected to rise between six inches and approximately 12 inches by the 2030s, one to two feet by the 2050s, and two to 5.5 feet by 2100. I think those estimates are a little high, and I am going to go off on a tangent for a minute.
+
+Therein lies, you know, some of the reason people who criticize climate change and do not believe in it — they do not have confidence in it. Back when I was working for the state as the DEP state deputy commissioner, we were using numbers for sea level projections that were projected by Columbia, and the Governor's Office of Storm Recovery was using numbers that were generated by my alma mater, Stony Brook University, their School of Marine and Atmospheric Sciences. Their high-end estimates for sea level rise by a given date were about half of what the Columbia projections were. So I raised a point that within state government, people see state government as kind of like one entity, and we have two sets of books for sea level rise. So if you are at the Governor's Office of Storm Recovery you are seeing the high-end estimate of like X, and if you look at Columbia's number the high-end estimate was two X. We should not have two sets of books, and this is why people lose confidence in climate forecasting and sea level rise projections.
+
+Because there are personalities involved — the one who was doing it at Stony Brook was a Nobel laureate, and he was very conservative in terms of: we do not know something until we know it, and so if we do not know it, it is not going into the calculus for the projections. We could be wrong. There could be things that we do not know, factors that we think are out there but we have not really studied enough, so they are not going into the projections. The other entity is all like, well, you have to build in a little bit of a fudge factor because nature always has something out there that we do not yet know, so let us use the wider range and try to fit it in somehow and still account in our current projections for that which we do not fully know yet. As a scientist it has always kind of annoyed me. So that is two minutes of your life you cannot get back — sorry — but hopefully it was enriching about climate science and why people sometimes poke at it, because that is exactly the thing people would say: New York State has got two sets of books on sea level rise projections. You know, one of them has got to be wrong, probably both of them. That does not mean we should not endeavor to figure it out, does not mean we should not try to prepare for it. But these are some of the frustrations when you are dealing with people who do not want to even recognize climate change and sea level rise as a thing.
+
+This is fodder for them to throw in our face, and I do not like to serve up things that people are going to throw in our face. That is three minutes you cannot get back.
+
+So where were we? The NPCC also projects an increase in annual precipitation of up to 14% by the 2030s, 20% by the 2050s and 30% by 2100. Stronger and more severe storms like the one this past weekend are likely to become increasingly common as time goes on. We all know that.
+
+This ongoing threat requires a City agency — or in this case an agency bureau — to holistically plan and manage the City's response. At this hearing I am looking forward to learning about the bureau's burgeoning role in coastal resilience, so that we can codify their important work. It is important to understand that the bureau exists but is not yet codified in law, and so we think it is important to codify it in law so that successive administrations will have no ability to not continue the work of this important bureau.
+
+I am also looking forward to hearing feedback on the other legislation so that we can ensure that these Bills are the best and most effective they can be. I would like to thank the committee staff: Senior Legislative Counsel Natasha Bynum, to my right, and Sierra Townsend, who is not here at the moment; Senior Policy Analyst Ricky Chala; Financial Analyst Ten Versing; as well as my Legislative Director Josh Gasquet, who is in the gallery — and there he is. And Council Member Sanchez, a member of this committee, and Council Member Avilés, not a member of the committee but always a real environmental partner of mine, a great colleague and good friend — it is our pleasure to have her. Okay, all right. Now I will turn it over to the committee counsel to give the affirmation to the witnesses.
+
+**(00:13:38)**
+
+
+
+Great. When you speak, if you could just state your name and title for the record. Let me just get my pen. I make adaptations as the statement is being read. Oh yeah, I could have just asked for a pen. I cannot find anything in this bag. Fine. Okay. I thank this panel — they are all sworn in. I have a copy of your statement. Please proceed with your testimony.
+
+**(00:14:45)**
+
+
+
+Terrific. Good afternoon, Chair Gennaro and members of the committee. My name is Beth DeFalco. I am the Deputy Commissioner for Public Affairs at the New York City Department of Environmental Protection. I am joined today by my colleague Catherine Probiski, the Assistant Commissioner of Engineering in the Bureau of Coastal Resilience, as well as Jill Herbecky, Assistant Commissioner of Engineering Services, and Wendi Wann, Borough Commissioner of Central Development Programs from the Department of Buildings. We are here today to discuss the City's coastal resilience work and the other legislation before the committee.
+
+I would like to begin by speaking about this past weekend's nor'easter. The storm brought high winds, rain and coastal storm surge, particularly in the communities surrounding Jamaica Bay, Hamilton Beach and Howard Beach areas, and Staten Island's South Beach, City Island, and my neighborhood of Red Hook. Surging high tides overtopped the coastlines repeatedly over three days, inundating some low-lying communities. Hundreds of trees were downed, primarily in Brooklyn and Queens, and tragically, as you mentioned Chair, we lost the life of the night maintenance worker Mr. Braun.
+
+As tides receded, crews responded across the City to pump out low-lying areas that could not drain naturally. In partnership with New York City Emergency Management we continued this response as the storm withdrew from the area on Monday. It is important to understand that pumping only works once the tides go down — in other words, whatever we have pumped out is just re-flooded with the high tide. DEP also responded to help with the removal of fallen trees. Our forestry crews from upstate came down to the City to help the Parks Department cut up and remove downed trees across streets and parks. While the storm brought significant damage from storm surge and high winds, the rainfall was moderate and steady, so we saw only very minor inland stormwater flooding.
+
+Now, coastal resilience, which is obviously one of the reasons why we are here today. As the weekend storm reminded us, New York City is a coastal city. We have 520 miles of shoreline, millions of New Yorkers living and working near the water, and a changing climate that is making the risks that we face more urgent.
+
+For too long, cities like New York have largely followed the same cycle: a major storm hits, we recover, we rebuild and we move on. But that cannot be our long-term strategy. We need to get ahead of the risk. Just as importantly, we need a coordinated citywide approach to coastal resilience — not a collection of individual projects that are planned, built and maintained in isolation. For us to be successful we need strong institutional capacity, technical capacity and financial capacity, which must include state and federal partners and sustained political support.
+
+That work is underway right now at DEP. In 2023 DEP created the Bureau of Coastal Resilience, or BCR as we often call it, to bring greater focus and accountability to this enormous challenge. BCR is responsible for planning the future of our coastline and for the operation and maintenance of the City's growing network of coastal flood protection infrastructure. This is truly a citywide effort. BCR works closely with Parks, DOB, DDC, DOT, City Planning, MOCEJ and many other partners to move critical coastal resilience projects forward across all five boroughs. But DEP is not simply building coastline resilience — we are building the expertise, operating procedures and the maintenance systems necessary to make sure this infrastructure actually works when New Yorkers need it.
+
+Earlier this year Mayor Mamdani made a significant commitment to this work. He invested $43.2 million to dramatically expand the Bureau of Coastal Resilience. That investment will grow the bureau from just six employees to 75. We are adding engineers, planners, field crews and other flood resilience experts. That matters because the City is entering a new phase of coastal resilience. We are no longer simply talking about what these projects could look like — we are building them, we are operating them, and we need to make sure that they continue protecting New Yorkers for decades to come.
+
+Today BCR oversees 16 active infrastructure projects in various stages of planning, design and construction. Among the largest are the East Side Coastal Resilience project, the Army Corps Staten Island seawall, the Seaport Coastal Resilience project and the Red Hook Coastal Resilience project, among many others.
+
+The East Side Coastal Resilience project represents an investment that provides two miles of coastal protection from East 25th Street to Montgomery Street. It is designed to protect approximately 110,000 New Yorkers, including roughly 28,000 residents of public housing, and it is designed to protect them from a hundred-year coastal storm while accounting for projected sea level rise through 2050. The Brooklyn Bridge-Montgomery Coastal Resiliency project is a $388 million project that will protect approximately 44,000 residents along a half-mile stretch between Montgomery Street and the Brooklyn Bridge. The south shore of Staten Island seawall is a $2.4 billion project that will protect over 30,000 New Yorkers where Superstorm Sandy claimed the most lives of any New York City borough. This project rebuilds the boardwalk with a 5.5-mile-long continuous protection system. The $228 million Seaport Resilience project will extend protection from the Brooklyn Bridge to John Street. In Brooklyn, the $208 million Red Hook Coastal Resiliency project will create approximately two miles of protection along the Red Hook waterfront, including the Atlantic Basin and Beard Street, benefiting approximately 6,000 residents.
+
+Over the next four years these and other projects will increasingly move from plans on paper to actual infrastructure protecting New Yorkers. Building infrastructure is not the end of the work — somebody has to operate and maintain that infrastructure, and it may sound obvious, but this is an entirely new class of City asset, so a new process has to be developed.
+
+In 2025 the Bureau of Coastal Resilience reached an important milestone when it assumed responsibility for the first 12 floodgates and 1.4 miles of flood wall as part of the East Side Coastal Resilience project. During a coastal storm those gates can close and help protect communities from storm surge coming off the East River. While the overall East Side Coastal Resilience project is not yet complete, portions already in place can be activated if necessary for hurricanes. As additional coastline projects are completed, BCR will assume responsibility for more of these assets.
+
+At the same time we have to look beyond the projects already underway. BCR is developing the City's first coastal infrastructure design and asset management system for coastal resilience infrastructure. The bureau is also working toward a comprehensive vision for all 520 miles of New York City's coastline — one that considers risk, equity, land use, community needs and the realities of maintaining this infrastructure over generations. We need a plan where no one is left behind, but infrastructure alone...
+
+**(00:21:44)**
+
+
+
+Realistically, that is a huge challenge. The plan needs to be responsive to the priorities of New Yorkers, taking affordability, housing and safety into account, and we know that will not be easy. Coastal resilience is too big and too complex for any one sector to solve alone. It is a shared challenge requiring a shared solution. Fully protecting New York City's coastline will require investments measured in tens of billions of dollars, anywhere from approximately $12 to $2 billion annually over the next 20 to 30 years. The City cannot do this alone. Washington must continue to play a leading role. We are working with our federal and state partners on a number of projects around the City, including several mentioned here today. We also continue to work with the U.S. Army Corps of Engineers and our state partners to advance the New York-New Jersey Harbor and Tributary Study, also known as HATS.
+
+In 2022, HATS identified the broader protections we need for coastal protection projects across the region, with a $52 billion price tag. But that direction must be matched with sufficient federal funding to move the projects toward construction. Completing this work is essential to protecting New Yorkers over the coming decades. The scale of HATS underscores that protecting New York City from coastal flooding requires major investments across our shoreline, not just individual projects. We need to be candid about the reality that this level of protection is ongoing and going to be expensive. We cannot simply identify what needs to be built. We also need a realistic plan for how to pay for it, and how to operate and maintain it once it is built. A floodgate is only useful if it works when you need it — not just when it is shiny and new, but when the next big storm comes, whether that is tomorrow or 50 years from now.
+
+Much of this infrastructure requires ongoing maintenance, and we must invest in protecting the assets we worked so hard to build. We are working with OMB, EDC, the Law Department and MOC to examine sustainable funding and financing mechanisms, as well as the governance structure necessary to manage this growing portfolio. Getting that piece right is crucial.
+
+Now I would like to speak about the bills that are also being heard today. Regarding Int 0930, the Department of Coastal Protection: this bill would establish a new Department of Coastal Protection to oversee measures and infrastructure and address the growing risk associated with coastal storms and climate change. We appreciate the Council's focus and advocacy on this issue greatly. Legislation ensuring New York City has clear responsibility and accountability for coastal resilience is important. That is precisely why the City created and is now dramatically expanding the Bureau of Coastal Resilience. Over the past several years we have been building the expertise, staffing, partnerships and operating capacity necessary to manage this work. The Bureau of Coastal Resilience has an already growing portfolio of projects, assuming responsibility for completed infrastructure, developing citywide standards and planning for the long-term future of our coastline.
+
+As the Council considers this legislation, we think it is important to closely look at the institutional structure already being built and make sure that any changes strengthen the City's ability to deliver this work rather than inadvertently fragmenting it. We welcome the opportunity to continue that conversation with the Council following today's hearing.
+
+Regarding Int 0931 on mobile drinking fountains: this bill would require DEP to maintain a fleet of mobile drinking fountains and deploy them throughout the City when temperatures are expected to exceed 82 degrees. We absolutely understand the concern behind this bill. Extreme heat is dangerous and access to drinking water is an important part of the City's response. That said, there are a number of concerns that we have with the legislation as currently written. First, during periods of extreme heat, our priority is to make sure that New Yorkers continue to have safe, reliable drinking water coming out of their taps. Hot weather places additional demands on our water system and our workforce, with open hydrants and other water conditions.
+
+Requiring employees to simultaneously deploy, operate and maintain a separate fleet of mobile drinking fountains would require significant additional resources and could pull personnel away from critical water supply and infrastructure responsibilities at exactly the time that we need them most. Regarding increasing access to drinking water during extreme heat: the City has implemented a record number of cooling stations — we have nearly 600, strategically placed around the City, providing water and air conditioning — and there are more than 3,400 water fountains in parks around the City. DEP and DOT have been launching a number of cooling initiatives, such as pop-up misting stations and installing heat adaptation measures in rights-of-way and bus shelters. We would be happy to work with the Council and our partner agencies to expand existing cooling resources and explore additional options.
+
+Regarding Int 0343, fees for installation of solar power and energy systems: this bill pertains to waiving the permit fees for cranes used in connection with solar installation. We defer to DOB on this, as they manage the City's crane permitting. DOB supports the intent of the bill and appreciates the need to incentivize property owners to install solar energy systems. The agency looks forward to working with the Council to advance legislation to facilitate the installation and use of renewable energy systems.
+
+Thank you again for the opportunity to testify today. New York City has made enormous progress since Hurricane Sandy, but the scale and challenge ahead of us is equally enormous. We now have billions of dollars of coastal infrastructure moving from planning and design into construction and operation. Our job is to make sure those investments work together, that somebody is accountable for them, and that most importantly, when the next storm comes, we are ready. That is what we are building at DEP. My colleagues and I are happy to take any questions that you might have. Thank you.
+
+**(00:27:29)**
+
+
+
+Thank you, Deputy Commissioner. I appreciate DEP's testimony. Let me just get our plan together here. I have a lot of questions, my colleagues have questions, and so I am happy to be joined by CM Epstein, who has a bill on this — and the administration just spoke about it, they do not love it — so we are going to address that. I think my first order of business, because CM Epstein is in the middle of some huge mega-hearing and came over here in order to give voice to his bill, is to let him speak about his bill and get to his questions about it, because he is due back across the street. We will do that, and then we have a request from DOB to ask them questions about CM Nurse's solar bill, because they are due somewhere else as well. So we are going to have CM Epstein speak about his bill and get to his questions for his bill.
+
+Now, I am going to give him a little more time. I mean, I do not need more than five minutes — okay, but you know, if you need it, you are my friend, you can have it. That is how I run the committee. If you are my friend you get more than five minutes. You know, if you are not... just like the lawyer is saying, "Oh, you are saying it on the record." It is just like — I am just kidding, you know. Harvey is not my friend. Okay, yes he is. And that two-minutes thing, I just made that up. And so we are going to go to...
+
+**(00:30:00)**
+
+
+
+CM Epstein, and then I am going to ask questions. Because you have someplace to be, you are welcome. I am happy that you are here with us. So I happily recognize CM...
+
+**(00:30:14)**
+
+
+
+Epstein. Thank you, Chair, and it is good to see you. I hope you are feeling better. I am glad to see that you are back here with us. Thanks, and I appreciate you going out of order. We are doing a hearing across the street so I appreciate being taken out of turn.
+
+I just wanted to check in because obviously we want to have access to water, especially on hot days, especially in high-heat areas in our City. Not just in my district, but across our City. We have a lot of lower-income communities where they do not have access to publicly available water fountains and water stations. And I know during different times the City has put them out. Maybe 82 degrees is the right threshold, maybe it should be 90, or maybe it should be three days at 90. But can we do a better job making publicly available water available to New Yorkers, especially on hot days, especially in low-income communities in our City?
+
+**(00:31:09)**
+
+
+
+Well, Councilmember, first of all, we appreciate your advocacy on this issue and we are very proud of our product, so it is not that we do not want to be out there making sure that people have no issue getting it. That said, I think that some of the logistical problems that we see with the bill are large challenges in terms of cost and workforce. We need two people per station, so you are looking at more than a hundred people — more people than we would just be adding to the Bureau of Coastal Resiliency — in order to be able to staff a hundred-plus fountains. I mean, those are some of the logistical problems.
+
+How many fountains do we have available? The ones that we have now, that we use for emergencies: nine. I know I have seen them put out in all sorts of circumstances. Is there a capital request to get more stations, more fountains? Is that an issue?
+
+Well, right now we use them for emergency purposes only. In the last few years, in terms of like water outages or water main breaks, I have seen them when we do open streets. We have reduced that program pretty significantly because of the overtime costs, and also because with the increased flooding we have started to direct resources towards things like flooding town halls and other things. We have found that, as much as we would like to be able to do that, there are other ways that are less resource-dependent that people can get access to water. I think especially on heat days, with more than 600 cooling stations and more than 3,400 water fountains in public parks, the way this bill is set up right now, it could cost millions of dollars.
+
+**(00:32:57)**
+
+
+
+Is there a way to narrowly tailor this? Because this is my concern — and I see it in parts of my district where there is just not publicly available water, and there are not cooling stations that are readily available for some of our young people. So your answer is to build more cooling stations instead of just putting out water fountains? Is that what you are suggesting?
+
+**(00:33:22)**
+
+
+
+I would defer to DCAS on the setup and the actual locations for those cooling stations. But given that you have already got people staffing those stations as they exist, that might be one opportunity. I think this might be something that we could talk about in terms of whether this is something that should be a core function, and the money to pay for this would be the same money that comes from our water rate money — the money that we use for flood protection and mitigation. It is probably worth talking about. The idea is noble. Whether it belongs in this agency, or how it might be done in partnership with other agencies as opposed to doing it by...
+
+**(00:34:03)**
+
+
+
+I hear your concern that DEP may not be the right agency for this, as much of the publicly facing work in this space is done by other agencies that are out on the street providing services to people — OEM and other agencies that are just more publicly facing, especially during heat events in our City. So you are saying that some collaboration could be a better approach, and not focusing solely on DEP. Is somebody here? Yes, I...
+
+**(00:34:31)**
+
+
+
+think there is another way to do it. Our core focus, especially during heat emergencies, is just making sure that our system is operating — closing hydrants, making sure that those core functions and responsibilities are happening. In order to set these up, we would be using people who do those operations. We do not have enough people to actually stay with the fountains by themselves, and if they are not staffed, people do not always use them as intended — we have found that in the past. So that is why it might make sense to set it up differently than to just have standalone temporary mobile fountains.
+
+**(00:35:09)**
+
+
+
+Okay. I am happy to have further conversations offline. Thank you for taking the time to let me do...
+
+**(00:35:15)**
+
+
+
+that. Sure. I am happy to do that. Thank you.
+
+**(00:35:17)**
+
+
+
+No, thank you for your advocacy and putting this bill forward. We are happy to hear it and we hope we can work something out. So you have got to go back to the hearing — just give them heck. Okay.
+
+And now, as I said, we want to accommodate the folks at DOB. This has to do with Int 0343 by CM Nurse about the solar bill. Here is the question setup, and then two... yeah, it is a setup and then two questions. Well, let us just say three questions. For the first one: what types of crane permits are required? Maybe you should come to the witness table.
+
+**(00:36:06)**
+
+
+
+What types of crane permits are required for the installation of solar panels? And please state your name for the record.
+
+Rebecca... I am Assistant Commissioner of Engineering Services and I oversee the Cranes and Derricks unit. So for the installation of solar panels, there is not a specific crane permit for a solar panel — you just get a crane permit, and then however you are going to use it is how you are going to use it. So it is not explicitly...
+
+**(00:36:32)**
+
+
+
+And then the follow-up to that is: we are trying to couch this in terms of the type of operation that would be necessary for a solar panel. I mean, there are cranes and there are cranes. So to the extent that we can frame the answers in terms of what might realistically be necessary for the installation of a solar panel, that would be helpful. So the follow-up to that is: how much do these permits cost? And again, I am thinking in terms of the type of crane operation that you would need to install a solar panel, if you can fit into that box.
+
+**(00:37:17)**
+
+
+
+Sure. I think I understand the question. We will start with the easy part: a crane permit is anywhere between $100 and $250 for a permit application. As far as a crane to install a solar panel, typically it could more than likely be accomplished with the type of equipment that does not require a crane permit, such as a man lift or aerial lift — that is the word — or something like that. As far as the crane that you need a permit for, I do not think that is necessarily a requirement for the installation of a solar panel.
+
+**(00:38:04)**
+
+
+
+Okay. You gave me the price, and that is what we were going for. The background was also helpful. Do these permits require an engineer or other type of professional to submit the application? So there is the cost to the agency, and then the cost of the engineer to figure out the application. So you need to engage an engineer in order to fill out the application and submit it?
+
+**(00:38:34)**
+
+
+
+So again, speaking about crane permits generally...
+
+**(00:38:37)**
+
+
+
+regardless of the actual use — I know the focus is for solar panels, but we do not really collect how they are going to use it as a data point, so I cannot really say how many cranes or pieces of construction equipment that require a permit are related to solar panels. So yeah, just generally speaking...
+
+**(00:39:02)**
+
+
+
+I am sorry, I cannot remember your original question. Was it about engineers?
+
+**(00:39:06)**
+
+
+
+Yes. Would an engineer have to be engaged in order to properly prepare the application to give to the agency? Yes. Okay, sorry. The second round of questions on this: has DOB found that buildings looking to install solar panels are facing financial barriers due to permitting costs?
+
+**(00:39:41)**
+
+
+
+Well, the permitting costs are up to $250, right? So that is the $250. I am sorry, my name is Wendy Juan. I am the Borough Commissioner for Central Development Programs at DOB. Could you speak a little louder, please? Yes. My name is Wendy Juan. I am Borough Commissioner for Central Programs at DOB. All solar panel installation comes through my shop. So in terms of the $250, that is for the crane permit. The actual permit fee for the solar panel installation can vary depending on the size and the amount of power that is produced by the solar panels. So what kind of...
+
+**(00:40:24)**
+
+
+
+money are we talking about for that? Let me check my notes.
+
+**(00:40:27)**
+
+
+
+Because the way it works — and I am a novice at this — DOB has to license the crane, and depending upon what kind of solar installation you are doing, the scope of it, and how much energy it is going to generate, that is another fee, right? That is right. So the crane would be considered part of the construction equipment permit application, and then the actual planning of the solar panels is its own filing for that installation, which usually comes with the construction work to put the panels onto the roof. And just as a sidebar, we have not seen too many situations where solar panels require a crane to be installed. Usually they are... right, I am kind of getting that now.
+
+**(00:41:20)**
+
+
+
+What I am getting at now is: what would an entity that wants to do this have to pay the department in terms of a permit or fee or whatever for the actual solar panel itself? It typically depends on how big of a system they are doing. Generally it is about anywhere from $5 to $13 a kilowatt that you are producing on the panels, so it is completely dependent on the size of the system. So $5 to $13 a kilowatt? Yes. Okay, so we can do the math based on that.
+
+**(00:41:59)**
+
+
+
+Right, I am sorry, I should clarify that is the cost of the installation, and then we take an alteration, so the fee is... I forget, a minimum permit fee. The minimum permit fee is $290, and then it is in our fee table, so then it is every thousand dollars it is another... I forget the exact number, $10 per every thousand dollars after that. Okay. And we can confirm
+
+**(00:42:26)**
+
+
+
+that number for you. Okay. Not that one, right, right, we are not doing this. Okay. Has there been a noticed reduction in permit requests for solar installations coinciding with the loss of subsidies at the federal level? The tax credit expired last summer and we have noticed a decline. Okay. Can you estimate how much of a decline, how much of a drop-off? I have, you know...
+
+**(00:43:11)**
+
+
+
+More than 80%. You know, in 2024 we had about 9,400 solar filings, in 2025 we had about 8,500, and in 2026 so far we have only had 3,300.
+
+**(00:43:30)**
+
+
+
+It is a pretty steep drop-off. The year is not over. Okay, got it. We good? Okay, thank you very much for your good testimony. We appreciate you being here and I know you are running around trying to do a couple of things at once, and we are grateful for the opportunity to have you here to answer our questions. Thank you, appreciate it.
+
+Now it is me, right? Yeah, I am going to... I have some... I just need the pen. Yeah. I was going to go through some notes. Did something just beep? What is that? Cars? We will take a sip and compose myself. Okay, thanks for printing my version. There is like a theme through your statement. Just as importantly, we need a coordinated citywide approach to the cost of resilience, not a collection of individual projects. Okay, just hold that in your mind for a second. And the bureau is also working toward a comprehensive vision for all 520 miles of New York... I like that. So I agree that it is not a good paradigm to simply have a collection of individual projects.
+
+**(00:45:35)**
+
+
+
+Done by different entities and not a lot of synchronicity. Rather than the name of an album, but I think it does. And so you
+
+**(00:45:47)**
+
+
+
+know, because as you talked about before, you have things in silos — these folks are doing this, these folks are doing that, or whatever — and sort of like, where is the grand plan? So I agree with you, you do not want just a collection of projects, and I agree that we do need a grand plan. It seems that based on your statement here — I will read it — the bureau is also working toward a comprehensive vision for all 520 miles of coastline, and so that is an ongoing project and that is a deliverable.
+
+Like, who is doing it, what are you going to call it, and when you say that you are working towards a comprehensive vision, just to get some clarity on the testimony — you have got the bureau and then you have got Tom, Dick and Harry doing whatever else they are doing all over the city. When you talk about a comprehensive vision being put together by the bureau, does that encompass all the work that Tom, Dick and Harry are doing, including what things you would like to do and manage? Because what I am really looking for — when I sought to establish back in 2012 — is one major planning entity that would have the coastal resiliency ball, so to speak, and they would not be operating in a silo. They would branch out and try to get all these other projects that are going on under their pyramid, for lack of a better word, in their corral, so that they could be front and center on how all the projects all over the city play out. So I do not want to put words in your mouth, but help me out here. Catherine can talk a little
+
+**(00:48:02)**
+
+
+
+more about some of the studies. I look forward to that.
+
+**(00:48:05)**
+
+
+
+Yeah, about some of the studies and other things that we are doing for that comprehensive vision. I think by Tom, Dick and Harry we mean things like the federal government and agencies that are working to build a lot of this infrastructure and then turn it over to us to maintain and operate. A big part of it too is planning on having people design things that make sense for us to operate, to make sure that our existing infrastructure fits within the vision of things that are being built, making sure that we are building pump stations behind sea walls and other things like that that will ensure that our existing infrastructure works with it. So that is, I think, part of the current vision of how these things will work together. I am not getting a lot from
+
+**(00:48:51)**
+
+
+
+that. And so, you know, your answers are very detailed and I appreciate when people go to the micro level and make sure that they are... but I think we want to go above the treetops a little bit. I want to hear how, sort of, the overall management role that the bureau is going to have regarding managing or at least keeping track of stuff that is going on, as well as a vision for incentivizing projects and funding projects. I envision the bureau — and that is what I want to accomplish with this Bill — I envisioned the bureau as the grand vision, so you would be like the Oz of coastal resilience, and everyone else that is doing whatever they are doing along the yellow brick road, everybody answers to Oz. So that is what I am kind of looking for, to the extent to which that is achievable or that is what you are trying to do.
+
+That is what I sort of want to hear about — not the details of this and that, but sort of the big grand... it is like the City is doing resilience, and of course there is stuff you cannot really boss them around and tell them what to do. So like the HAT study and everything, okay fine, but the bureau kind of knows all, supervises all, or does whatever it can to influence the City along the lines of its grand vision. So maybe if the assistant commissioner could sort of speak to that. Now let us just state your name. Pavelski, assistant commissioner. Oh, assistant — I just promoted you, congratulations. Move to the mic, a little closer. There we go. How is that?
+
+**(00:51:26)**
+
+
+
+Yeah, it is good. So you said you do not want to put words into our mouth, but I do believe, kind of how you described it, it really is what we are doing. So one planning entity to carry the ball — yes, that is the goal for the bureau and we are getting started on a lot of those pieces. So the visioning, as you mentioned — a vision for our coast. The City has spent the last... if I could
+
+**(00:51:51)**
+
+
+
+just jump in here for a second, because in the testimony it says that the bureau is working toward a comprehensive vision. I assume that is going to be a report or some kind of deliverable. Is that right?
+
+**(00:52:08)**
+
+
+
+Right. So we got the first step of that underway right now. It is called Resilient Infrastructure for Shoreline Edges — we love an acronym — RISE. So we are working on that and that will be done by the end of this year, and that will be the building blocks of then a comprehensive coastal resilience plan that will, yes, be a report, but the goal is that the report is a vision
+
+**(00:52:31)**
+
+
+
+for the plan — a plan and a vision that then gets updated over time based on changing science and changing conditions. So we need to embark on that with our neighbors and the folks that live within those coastal communities most directly, but of course also with our legislators, with our state and federal partners and with all of the City agencies. So to date,
+
+**(00:52:54)**
+
+
+
+yeah, the projects that are happening — the things that are in planning, in design and in construction — we coordinate across all of those with our partners. So yes, DDC is building a lot of infrastructure. They have coordinated with all the agencies during design and continue to, with the operational side, wastewater treatment and our water and operations, and now also with who will own and maintain the coastal flood defense pieces that they are building. Then there are projects in construction in Red Hook as well, so similarly that has just started in construction, so it is more forefront in troubleshooting in the field on those pieces of coastal defense that they are building. Then you have got the projects that are in design but not far along in design that the Army Corps is working on, both in Staten Island and in the Rockaways — in design and coordinating for the City's vision for those projects. Those are the pieces that I work on, on the pieces that are in the ground. But what we do not have is a set of projects in the pipeline to perhaps react to the next storm or to determine where we are going to start building more infrastructure, which is critical for that.
+
+**(00:54:10)**
+
+
+
+Okay, I just want to make sure that, as we move forward and the bureau obtains more prominence in this area, there are not other entities out there that will be usurping your responsibility or doing their own thing. Siloing is just the worst thing for me — everybody going off doing different things, everybody competing. I am heartened to hear what your vision is for that. So this is a multi-step planning process because you have RISE and then other things that are going to come out. How long do you envision this
+
+**(00:55:05)**
+
+
+
+planning process, for this work product to be done? The RISE will be complete at the end of this year and there are building blocks — it is typology and really kind of breaking out the coastline. And then the comprehensive plan... had a whole RISE program, right? Well, it is different.
+
+**(00:55:27)**
+
+
+
+Now. And then, thank God.
+
+**(00:55:30)**
+
+
+
+Yeah, and then so with the funding that we received this year, it includes funding to both hire planners and procure consultants to support us in developing that plan. So we should start procurement on the actual comprehensive plan next year, and then it will take — I believe, I do not have the
+
+**(00:55:49)**
+
+
+
+two years to complete the plan, maybe three. Yeah, I am okay with a few years into the whole point.
+
+**(00:55:54)**
+
+
+
+You know, the first part of it will be a lot of that visioning, listening, understanding — you know, building on RISE, but visioning, listening, understanding with our coastal communities and with our agencies and all the work that
+
+**(00:56:07)**
+
+
+
+they are doing. Okay, here is a question. You know, the Council created the Office of Long-Term Planning and Sustainability and also created an Office of Resiliency in the Mayor's Office. So we have got an Office of Resiliency just sitting over in the Mayor's Office and I have got no one to blame but myself for creating that law. So they are over there and you are over at DEP, and so how does that work? How do you work in collaboration? Because they are going to say, you know, like we are the original system, we are the original resiliency people going back to like Sandy, really, you know. So they are like thumping their chest saying like we were here first.
+
+**(00:57:04)**
+
+
+
+I think that we have had a terrific working relationship with that office. In all fairness, yes, we are in Queens, but we are often right here. We have got an office across the street that I can see from here. We work with them hand in glove, I think, on all of these projects. Is there a turf war fight happening right now? I think there is too much work. There is plenty of work to be done, lots of people jumping in, and a lot of expertise, even more coming based on the amount of staff that we are going to have coming with this $43 million. To that extent we want to thank you, because that is a lot of your advocacy for this bureau.
+
+**(00:57:45)**
+
+
+
+And for the way that this is set up — I think this administration is listening — this is funding that we have been working for for a long time and that you had supported for a long time, so we thank you again for your... Yes, because I always wanted resiliency to... you know, I passed the Bill — now law — in 2012. I am like, there is going to be... I did not know its name was going to be Sandy, but this is going to happen. I have always thought that storm surge is the big boogeyman and that could wipe us out tomorrow, whereas sea level rise — I am not going to live to see it, I mean, to that extent. But it is huge and what we should do is, in a measured, calculated way, figure everything out in advance: how do we fund it? And now some of the pieces are coming together and I think this is the capstone on that too — establishing you folks as the boss of coastal resilience, and everybody has got to come to you, talk to you, whatever.
+
+You know, I was looking at a Star Wars reference that does not quite fit here so I am not going to use it, but you guys are going to be like the Death Star of resilience, but in a good way — a good Death Star, if you can imagine that, painted blue or something like that. Yes. Okay, there it is, I said it. Now, you make reference in the testimony... I will read the paragraph: as a Council member, I think it is important to look closely at the institutional structure already built and make sure any changes strengthen the City's ability to deliver this work rather than inadvertently fragmenting it. I just want to hear a little more about the basis of your concern about that. There must be something in the Bill that triggered somebody to say it.
+
+**(01:00:17)**
+
+
+
+There it is. You know, I think that the larger point that we would like to make about this is that this bureau was just started a couple of years ago.
+
+**(01:00:29)**
+
+
+
+And when it was started we did not have infrastructure coming online in the same way that we do right now. So, you know, it is one thing theoretically to think about operating floodgates — it is another thing to operate floodgates. They are massive. How many shifts of people do you need? We are learning a lot as these things come online. I think you also see in the testimony that we said we would like to have more conversations with you about this. I think that we want to be open-minded to what we are learning, what we are seeing from some of these studies, and what this should look like in the future, and whether or not we should be thinking of any other sort of angles or ways to go about doing this. Some flexibility, I think, in the future to be able to do that. Yeah, we are not against flexibility and we are for that, and we are totally against fragmenting.
+
+**(01:01:27)**
+
+
+
+So okay, fair enough. Here is another question out of nowhere. Am I holding you up? You probably just have a couple of things you want to say, right? Okay, let me just do this one thing and I am going to put you on. Okay. So I have more prepared questions. I should know more about this but I do not. To what extent has the Army Corps and the HAT embraced storm surge barriers? What is their view of storm surge barriers? And do you believe that your bureau and New York City, as an entity, has the ability to plan for and deploy that technology? Or is that kind of a bridge too far for our little town on the Hudson to put that together and finance? We are talking big money here. So the first is the vision of storm surge barriers by the Corps, and then to what extent does our little town have the ability to do that on our
+
+**(01:02:55)**
+
+
+
+own? That is a good question — if I do say so myself. Yes. No, the storm surge barriers that the Army Corps proposed as part of HATS are significant. Right across Jamaica Bay there are significant pieces of infrastructure. The Corps is not actively studying them, just to be clear — they are not moving forward on analyzing that, I would say. But they did advance them as projects. There are other places in the HATS study and in the original Jamaica Bay study where they proposed them at the mouth of Jamaica Bay as a means to protect against storm surge. But they have not advanced a study any further than that. I believe right now the City does need the Corps and their expertise in that significant type of study of storm surge barriers to do that. I believe there are experts within the City that could very much study that, but right now the Corps is not advancing it and we really need their expertise on what it means for storm surge barriers — both to develop and build and to operate them.
+
+**(01:04:05)**
+
+
+
+Okay, so they are not really on the map right now, other than in a report.
+
+**(01:04:12)**
+
+
+
+What is that? Other than in a report, they are on a map. Right, but you know, and they
+
+**(01:04:17)**
+
+
+
+were thought of as a good idea by the Corps, but they view the world through available resources and they make decisions.
+
+**(01:04:27)**
+
+
+
+They need a lot more study, the barriers, yeah.
+
+**(01:04:31)**
+
+
+
+Are you aware of the storm surge barrier working group, or whatever — Malcolm Bowman and those guys? I am aware of the group, yes. Okay. They — I think they are still meeting. Has anyone from the Bureau ever attended one of their meetings?
+
+**(01:04:48)**
+
+
+
+I would have to check with you.
+
+**(01:04:51)**
+
+
+
+Yeah, I used to be on it once when I was — you know, Malcolm is a friend of mine, but I just...
+
+**(01:05:02)**
+
+
+
+And it has got this whole big working group, people from Columbia and stuff, but...
+
+**(01:05:05)**
+
+
+
+I do not know if they — you know, like, if a tree falls in the forest and nobody is there, does it make a sound? They talk to themselves, but I do not know how much they get around. And with that, it is my distinct pleasure to recognize CM Avilés for questions, for as long as she wants to ask them.
+
+**(01:05:32)**
+
+
+
+Really? He really likes me. Thank you so much, Chair. Thank you so much for being here. I wanted just to follow up on a couple of things. In terms of — I think many folks in Red Hook, your home community, were really happy to hear about this announcement of the creation, and then were also mystified that they had no idea any of this was coming together. So I would love to know: what is going to be the plan for community engagement around — how do we call it? The Bureau. What shall we call it? The Bureau. How will the Bureau's work move forward?
+
+I think — I mean, you are talking about community engagement in terms of, like, RISE and other reports that we are working on, or how this Bureau is going to — what is the vision for the Bureau, and how does the Bureau plan to engage those impacted communities? Because I will say, folks were very surprised to even hear of its creation. Delighted, because as an impacted community dealing with the construction of the resiliency project right now, and knowing that that project is built for a ten-year flood, not a hundred-year — it is going to be inadequate before we get to the big one anyway. So this is going to be an ongoing issue for this community that was flooded this weekend.
+
+**(01:07:06)**
+
+
+
+I think especially... And the Red Hook Coastal Resiliency Project is a good example of, I think, how things are evolving. At the time that the project was being looked at and designed, the community was very concerned about the height of flood walls, and some of the reasons things were designed the way that they were designed. The level of protection that they were designed at was directly from community engagement and community input — not the limitations of FEMA. Because I was told that much of that, like in one section, there are FEMA limitations and FEMA design...
+
+**(01:07:45)**
+
+
+
+Obviously that has been going on for a long time.
+
+**(01:07:49)**
+
+
+
+Community engagement — I think the Bureau of Coastal Resiliency is incredibly important, because we can see even in just the last few years how our thought process about what protection means has evolved. Especially — I mean, even in just the time that I have been here — the amount of rainstorms and the way that we are thinking about inland flooding versus coastal flooding in the last few years. So thinking about what we do to supplement projects down the road: is community engagement going to be a big part of that? My Bureau is going to be a very big part of that community...
+
+**(01:08:25)**
+
+
+
+...engagement. We work very closely together. We are working together now on different studies that are happening out in Jamaica Bay and Springfield Creek on how we are engaging communities, especially in areas where there may or may not be buyouts needed, and how that intersects with the projects that are being planned there, even if they are federal projects or federally funded projects. So that is the thing that we are working on. Also, with the additional money that the administration has put forward, we are going to have a lot more capacity to be able, I think, to do more community outreach. There is no question that we would like to be doing a lot more than we have been able to do.
+
+**(01:09:00)**
+
+
+
+And we are also looking at the way that we do community outreach very differently. A big part of what my Bureau used to do was a lot of proactive community outreach, and right now, given the amount of storms — everybody is calling us with the clogged catch basin. But when you have a storm 25% of the time, we are in a flash flood warning or more this year. That really changes things. We were doing proactive community engagement, and I feel like sometimes now we are doing more case management. So we have got to think about how we staff and work together on this vision to be able to improve the communication. Something definitely...
+
+**(01:09:36)**
+
+
+
+Yeah, and one and one...
+
+**(01:09:38)**
+
+
+
+Yeah, and I think the continued request that I hear is just the community really wanting to be engaged, and the real challenges of coordination. Like, we actually had to call people to tell them to remove — one City agency covered the catch basins with those plastic things, and then we have to call the agency to say there is a lot of rain coming, we are going to flood, can you remove that? Can we figure out a way how that should be automatic? Like, there is a storm, you cover the catch basins — in a community that floods, you should remove that and not wait for the Council Member to call staff.
+
+**(01:10:21)**
+
+
+
+Yeah, I think that that is definitely something that we are working on, especially also because a lot of that involves contractors. Right, and so...
+
+**(01:10:28)**
+
+
+
+That has been one of the really big challenges in figuring out how we manage that and work with other agencies to manage that on a more frequent basis. We were not trying to cover them — we were trying to cover them so people do not pour concrete and other things down there.
+
+**(01:10:41)**
+
+
+
+And now you are uncovering them and covering them and uncovering them, and it has been nonstop. So the way that we staff and think about how we are staffing our community relations unit, and how that is intersecting with our Bureau of Coastal Resilience, I think is going to be a big part of it. Some of the reason that we are doing those flooding town halls is that...
+
+**(01:10:59)**
+
+
+
+Sometimes that is the way that we can...
+
+**(01:11:01)**
+
+
+
+...proactively talk to people in the community about what is happening, or give them the opportunity to come out and meet with our experts. So we are trying to be a little more creative about how we do that in different communities, but we would like to be doing a lot more of it than we are doing, certainly.
+
+**(01:11:14)**
+
+
+
+Yeah, no, I appreciate that, and you all have done some really great work, and I know it is a challenge cutting across multiple agencies and many many contractors. So I do not know if that is something that is embedded just as a matter of practice — like, when there is an emergency, you uncover these things as a matter of practice in a contract, and if you do not and the City incurs costs because of the flooding as a result of that, then maybe you should take that hit as opposed to us having inadequate contractors who are doing things they should not be doing.
+
+Generally, I think my statement here really is: our community would very much like to be engaged on this issue, as we are experiencing a resiliency project which is very unique compared to all the others — the cheapest of the group, but also weaving in and out of private property — and many community members are feeling like...
+
+**(01:12:15)**
+
+
+
+It is also a pretty inadequate project for the peninsula itself. So I think there is a lot more to be done, and a lot of concern around the City's — what they call economic development — housing in areas that flood. So how is the agency engaged in these conversations? Because there seems to be not a lot of coherence. We are very...
+
+**(01:12:45)**
+
+
+
+...engaged in these conversations, and as you can imagine, I am especially interested in how it is that we are developing and also making sure that we have capacity for it. I think there is good news that comes with development — we have talked about the unified stormwater rule requiring people to manage more stormwater on their property. So that is the thing that becomes beneficial as you see development. We are seeing that positively on different properties that were not managing stormwater but are now managing stormwater because they have been developed.
+
+But when you are talking about something like BMT, it is going to intersect with the existing infrastructure at the same time that you are building more coastal resilience. So I think that — well, for those residents, you are not building it for the other residents, because it protects them.
+
+**(01:13:33)**
+
+
+
+We are — it is a thing that — you are going to see it, and I think that we are working very very hard on what it means for the inland, or sort of, you know...
+
+**(01:13:43)**
+
+
+
+I think we are talking about a bathtub effect — right now we are making sure the existing properties are taken care of and that we are not creating a problem by trying to address another problem. Yeah, no, I...
+
+**(01:13:55)**
+
+
+
+...think everyone has identified that we have not seen any response to that or a commitment to investing in the infrastructure that would make sure that that is prevented. So it is an acknowledged challenge, but I do not see any agency actually responding in concrete terms to that impact.
+
+So I think, obviously, these are long ongoing conversations. I think the other thing I just wanted to ask: in terms of the resiliency projects that depend on deploying the barriers and such, as you hire up, is the intention that there will be a team from outside that comes in during storms to deploy these barriers? Or is there any thinking about training teams...
+
+**(01:14:42)**
+
+
+
+...or people in communities that can actually do these, that are closer to the barriers themselves? So the crews that will be deploying the barriers will be a crew housed within — we have started hiring up through the City's hiring. Right now they are hiring through — they went through a apprentices program within the department. There are still a number of postings to go, kind of next year, year and a half, on the coastal defense system that includes the walls and gates and barriers on the east side of Manhattan and then the ones in Red Hook.
+
+So it is our outside crews, inasmuch as they are hired by us, and they will come to the neighborhoods and deploy those gates. But then — yeah, you cover such a geographically vast and in some ways transportation-challenged area, particularly in a storm. That is a creative element I cannot quite wrap my brain around.
+
+**(01:15:48)**
+
+
+
+The last question: in terms of the overall vision for coastal resiliency, how does development factor into how these plans are being envisioned and engaged? Also, as a Council Member that has a very large industrial manufacturing working waterfront, I am seeing the tensions and contradictions of kind of an incoherent policy model around economic development, industrial working waterfront, maritime, housing and coastal resiliency. So how does that factor into the vision and the management across multiple agencies?
+
+I think it will be a challenge, 100%. Okay, good — we can agree it will be a challenge. You know, one of the first parts — as well as I think we have also mentioned — is some additional visioning, voices and the vision, the...
+
+**(01:16:51)**
+
+
+
+...visions of those different players. As Beth said, developers have a role to play within the City's infrastructure, and the working maritime also has an important role to play. So we really will have to work with those neighborhood communities — the folks that live there, the folks that work there. We are just now getting started. We do not have a vision of what the answer is yet, because we need to develop it. So we really will want to get all of those voices together and...
+
+**(01:17:25)**
+
+
+
+Yeah, and the need — and the desire for green space and access, and the tradeoffs with coastal protection. We can have a large ten-foot wall, but you cannot access your waterfront. New York City is a city of neighborhoods that want to be on their...
+
+**(01:17:41)**
+
+
+
+...waterfront. And do we have to — will we, as a representative of an industrial manufacturing waterfront that has been utterly disincentivized to use the water — when we as a City need to learn how to be with the water, because it is not going anywhere, it is just getting higher — I would really encourage us to push integration of economic development into the use of the water, and not just hard-lining every edge so that we can look at it as pretty, or to build luxury condos on the water. Those feel like where we are headed without the others. So I just want to encourage some deep caution and skepticism on my behalf. But really, if we cannot build a resilient city with our economic development that is integrated into using the water and getting us to move things on the water — so thank you, thank you, thank you.
+
+**(01:18:47)**
+
+
+
+Counselor, appreciate it. Now you are an honorary member of the Committee — it is not legal, but you know, honorary. To wrap up, just something that has popped into my head: the PlaNYC — it is its own thing. How do you envision interacting with the whole planning process? Because there is resiliency stuff that comes out of that too. What are your thoughts on that?
+
+**(01:19:39)**
+
+
+
+Closely, closely with them. And you know, development and updates of planning — we being involved, and all the rest of the agencies. I think you could say that PlaNYC and the development of the updates is a collaborative process across the agencies, and we will continue to participate in that. I mean, I think that is kind of the easiest — the Bureau creation was established from a PlaNYC initiative, and then where coastal lives within PlaNYC, we all are kind of following and tracking those goals and pushing on those...
+
+**(01:20:11)**
+
+
+
+...goals as well. Yeah, I am always just looking for little trip wires about cooperation and stuff like that. But yeah, okay, I appreciate that. Something to think about, because you have got your own internal planning process and then PlaNYC comes along and they have got another idea. So feel free to come to me — I will break the tie if there is any kind of major clash between you and them.
+
+**(01:20:48)**
+
+
+
+From the prepared questions: did the storm require the deployment of any resiliency strategies put in place since Sandy — for example, things like mobile flood barriers and subway station entrance covers? If so, which strategies were deployed?
+
+**(01:21:14)**
+
+
+
+This weekend's storm did not require that. Subway stations — we mostly thought it was...
+
+**(01:21:21)**
+
+
+
+...coastal and tidal flooding, not inland flooding as much. So the difficult part with the coastal flooding is that you cannot start pumping, otherwise it just flows right back up — it is like pumping into the ocean.
+
+**(01:21:40)**
+
+
+
+Areas that were likely to get hit — this storm really sat over the City for days, and especially with the full moon, that did not help.
+
+**(01:21:49)**
+
+
+
+Things in an oyster... So really for us it was just making sure that we were clearing areas that we could and pumping low-lying areas once the tide had gone down. That was the chief responsibility.
+
+**(01:22:03)**
+
+
+
+Do you folks know how much rain we got during this thing? I would have to double check...
+
+**(01:22:08)**
+
+
+
+...on the exact precipitation. It was pretty slow, you know, relatively few reports of inland flooding.
+
+**(01:22:18)**
+
+
+
+It was really just the — yeah. Because my part is unlike central Queens — I am in central-east Queens, and you know, we missed out on the nor'easter. We had some breezes, did not really get super heavy rain. I live in Jamaica Estates, which has like huge trees, and I just thought we were going to be a goner. I think one tree fell down in the entirety of the Estates. Yeah. So I — you know, all about the coast getting beat up — that was hard to process.
+
+**(01:23:01)**
+
+
+
+Has the Bureau filled all 69 new lines? If not, how many of those positions are filled to date? No, we have not filled...
+
+**(01:23:11)**
+
+
+
+...all 69 yet. I believe that we have already started hiring some of the apprentice laborers and getting them on board, and are continuing to aggressively work on that hiring process. Yeah, let us talk about these...
+
+**(01:23:24)**
+
+
+
+...lines. These are for people doing labor?
+
+**(01:23:31)**
+
+
+
+Many of them are, but there are a lot of different types of jobs that will be involved in...
+
+**(01:23:36)**
+
+
+
+...that. You are going to have planners and engineers as well, and opportunity for people to do and become apprentice laborers that then turn into laborers and are able to move up in the system through that experience. But yeah, you will have all types of levels. I think right now what we are trying to make sure is that we have got enough people to be able to operate gates as they come online, and they are coming online more and more quickly in the next...
+
+**(01:24:02)**
+
+
+
+...the next — okay. So what is the timeline for filling the new lines, do you think? Yeah, I think they are trying to fill everything by next year — like, is that the beginning of next year, the end of next year, you know?
+
+**(01:24:17)**
+
+
+
+I am — literally as soon as possible. It is a full...
+
+**(01:24:22)**
+
+
+
+Help me though — you know, I do not know that we are going to be giving you a hard time. We would never give you a hard time. I do not know — it is not that. I think you are just looking at the sheer volume of trying to hire that many people all at once and trying to get through that.
+
+**(01:24:39)**
+
+
+
+So you are going from a Bureau of six people to 75. So...
+
+**(01:24:44)**
+
+
+
+You know, we are moving as fast as is humanly possible.
+
+**(01:24:48)**
+
+
+
+Okay. You like to have a place for them — I mean, you guys are in the regular left rack, right? All over.
+
+**(01:24:57)**
+
+
+
+This yeah — you guys are all over. Okay, all right.
+
+**(01:25:06)**
+
+
+
+With Local Law 41 of 2021, DEP published Climate Resiliency Guidelines for the design of covered capital projects. That Local Law also requires MOCEJ, in consultation with other agencies, to promulgate rules by December 31 of this year to establish a minimum resilience score by which covered projects must be measured. Have you worked with MOCEJ on the resiliency score metric? Have you consulted with them about their upcoming rulemaking? Is that rulemaking afoot? They did not do the rulemaking for Local Law 41 — that is on you. Let us do that by the end of this year, December 31. Oh, so Local Law 41 is like...
+
+**(01:26:04)**
+
+
+
+Successive rounds of rulemaking. Okay, I am not sure I understand the question.
+
+**(01:26:10)**
+
+
+
+Well, I can give you an answer on a portion of it. How about that.
+
+**(01:26:14)**
+
+
+
+Right. MOCEJ is leading on the CRDG — the Climate Resilience Design Guidelines — enactment for the Local Law requirements there, coordinating across all agencies, and particularly within, for some of those resilient schools. So yes, we...
+
+**(01:26:31)**
+
+
+
+The agency coordinates with, almost completing that requirement from the Local Law. Okay. Is the Bureau coordinating with DOB on the creation of its waterfronts construction code? What are the Bureau's primary concerns or goals relating to such code? I sat on the committee...
+
+**(01:26:58)**
+
+
+
+On the waterfront code, and there are one or two other folks from DEP as well, and then folks across all agencies, and experts and consultants across the City. So we coordinate with DOB on the waterfront code development. I do not have an immediate big concern with the code. I think it will be great for consistency in how we build on the waterfront, since there was a little bit of crossing jurisdictions previously. I think throughout the work that they have been leading, it has been really interesting to see those shared conversations trying to tease out what makes it difficult and unclear in regards to building on the waterfront. So...
+
+**(01:27:46)**
+
+
+
+I do not see any big risks right now.
+
+**(01:27:50)**
+
+
+
+Okay, I am trying to be optimistic. If the bill we are hearing today were to codify the Bureau within DEP as a separate department, how would that affect the Bureau's ability to advocate for resources or achieve its work?
+
+**(01:28:16)**
+
+
+
+I think, much like whether or not the Bureau becomes a department, we would like to give ourselves the flexibility. I think that at the time there were any conversations about codifying it, it was before we had the significant resources that this administration has since provided. There is no other bureau within DEP quite like this. I think we would like to see how things go with the amount of infrastructure that is coming online. We would like a little bit of time — just being honest — to see how things go, especially as this Bureau is set to get significantly larger, and what that means. We would like to give ourselves a little bit of flexibility, but we would like to continue those conversations and update the Council as our infrastructure comes online in the next year. And as we are making these hires, to see if that still makes...
+
+**(01:29:10)**
+
+
+
+Yeah, but I think we are going to be moving on this. I mean, we will talk whenever you want — we will talk about whatever you want to talk about — but I do not think we are willing to hang back for a year or so before we advance this. Just saying. Fair?
+
+**(01:29:31)**
+
+
+
+Fair, fair. Like, we would still like to continue to have conversations and update you as more of this infrastructure comes online. Okay. What is that? Oh, he did — guess what, I am done. You know, I was not there. What do you want to talk about now?
+
+**(01:29:59)**
+
+
+
+No rest for the weary. For our excellent witnesses that are going to come forward — we really appreciate you being here. I know there is some big hoopla going on or whatever, and you know you guys are missing it just for the great opportunity of looking up at me. You should sit in the chair and see what it looks like from here. It does not look very friendly, you know. So thank you very much. It is a pleasure to have you here today. Yeah, stay dry — probably easy today — but thanks for all your good work during the storm. We appreciate that.
+
+Thanks very much. I am going to call the next panel, and then I need a quick break so the panel can get itself together. I will just step out for a second and be back in a minute. Looks like my Tae-er Tequila from the Waterfront Alliance — I do not know if I pronounced that properly — Brianna Kilkenny of Riverkeeper, and the award for small handwriting goes to Caitlin Villatoro of the New York League of Conservation Voters. Thank you for your patience.
+
+I now open the hearing for public testimony. I remind members of the public that this is a formal government proceeding and that decorum shall be observed at all times. The public shall remain silent at all times. The witness table is reserved for people who wish to testify. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait to be recognized. Once recognized, you will have two minutes to speak on today's hearing topic — coastal resilience and legislation being heard today. If you have a written statement or additional written testimony you wish to submit for the record, please provide a copy of that testimony to the Sergeant at Arms. Also, email written testimony to testimony at council dot nyc dot gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+So I will do the slips — first we will hear from my Tae from the Waterfront Alliance. Okay, let me get your testimony here. Thank you. He is going to work the clock. Thank you. I will just remind you, it is a two-minute thing, so try to wedge it in there. Okay, thank you. Please.
+
+**(01:39:32)**
+
+
+
+All right, good afternoon, Chair Gennaro and committee Council members. My name is Mike DeLuca and I am the Climate Policy Fellow at Waterfront Alliance. We also convene the Rise to Resilience Coalition, which is a coalition of more than a hundred organizations advocating for climate resilience citywide and statewide. As you highlighted earlier, we are approaching the fourteenth anniversary of Hurricane Sandy and continuing to experience coastal flooding. We believe the City needs to be looking forward and planning for the next generation of coastal resilience projects — proactively, deliberately and creatively. We strongly support building on the capacity of the Bureau of Coastal Resilience to lead this work.
+
+In that context, we are seeking clarity on Int 0936-2026. It is currently unclear whether the Bill is intended to codify the existing Bureau or create a separate entity with potential overlapping responsibility. We just want to clarify that. Legislation should build on the Bureau's existing mandate and capacity rather than creating duplicative structures. As you noted earlier, we also encourage the Committee to hold another oversight hearing on climate resilience next spring, when the administration can report back on everything that they are doing, how they are using that funding, all the hiring that they are planning for, and all the progress on the interagency coordination that we are hoping progresses. We are counting on continued Council oversight as that work advances.
+
+Finally, it is not on today's agenda, but we urge the Committee to hold a future hearing on Int 0343-2026, sponsored by a Council member and Deputy Speaker Williams, on groundwater flood risk. This is an increasingly important issue for communities across the City and it deserves consideration by the Committee. Thank you.
+
+**(01:41:20)**
+
+
+
+Thank you very much. We appreciate that. You know, we are aware of the Deputy Speaker's Bill — I think counsel just made a note about that. It is not my... I have got a soft spot for the Waterfront Alliance. Ordinarily witnesses do not get to act like they asked the questions, but regarding clarification on the ultimate direction of this Bill, that is going to be worked out among all the stakeholders, including you. The first environmental organization to ever give me an award, you know...
+
+**(01:42:09)**
+
+
+
+We always appreciate your leadership.
+
+**(01:42:11)**
+
+
+
+And they said "Hero of the Harbor," you know. Because I had a boat at the time, I put it on my boat. It was one of those round ones that you see like on cruise ships and stuff like that, with the little rope hanging off it or whatever. And when we take the boat out to the bay, so as ordered not to lose the...
+
+**(01:42:38)**
+
+
+
+Kids in the bay, you know, I would take several flotation things — like a boogie board, and the life ring, and some other things like a tube or whatever. I would tie them to the boat on 75 feet of line so the kids could not drift away. I was in the water too. So long as they were holding that, they were like tied to the boat. I invented that, by the way. So if you see other boaters doing it, you know I started that.
+
+And people would come by and say, "Oh, did you..." and I am like, you know, sometimes a kid will come floating along and you want your kid back. And yeah, so that was something I invented because my daughter would take her friends out and stuff like that and it was a lot of fun. I think the counselors are going to really hit me in a second, so thank you very much for your good public testimony. We look forward to partnering with you as this Bill goes down the tracks, and a nice plug for the Bill by Deputy...
+
+**(01:43:58)**
+
+
+
+Speaker Williams. And so next, Brianna Kilkenny. Oh okay, Brianna, you are up. Okay, it is just the way the papers were — I am not skipping over you, and you are going to close the show of this panel, so that will be good. So, Brianna, okay. I got an award from them, I got a hat from you guys, and the Conservation Voters just give me nothing. I am just saying. Yeah, a hat, something, you know. I did not bring my Riverkeeper hat, but you know she knows I have it and she has seen me in it. Okay.
+
+**(01:44:46)**
+
+
+
+Please. Good afternoon. My name is Brianna Kilkenny and I am the New York City Advocacy and Policy intern at Riverkeeper. Thank you, Chairperson Gennaro and members of the Committee for the opportunity to testify.
+
+Riverkeeper is a member-supported watchdog organization dedicated to protecting and restoring the Hudson River and the waters of New York City. Most New Yorkers today are at as much risk from coastal storm surge as they were 14 years ago when Superstorm Sandy hit. The storm this past weekend was a clear example of this, with high tide and storm surge flooding inundating communities across Queens, Brooklyn and Staten Island.
+
+It is clear that action needs to be taken, and Riverkeeper applauds the Council for taking leadership on this issue. While we support the intent behind Int 0936-2026, we join our partners in the Rise to Resilience Coalition in our opposition to the creation of a new department.
+
+Currently the Bureau of Coastal Resilience resides within DEP, and this has allowed the Bureau to benefit greatly from expertise in operating and maintaining large infrastructure, as well as benefiting from existing personnel. If the Bureau were to be made into its own department, it is likely that both of these benefits would be lost, which could increase costs and timelines for new projects. Riverkeeper was very glad to see the Mamdani administration make a historic $43 million investment into the Bureau of Coastal Resilience this year. With this new funding, increased alignment within the administration and dedication to pursue a much-needed citywide coastal resilience plan, Riverkeeper strongly requests that the Council maintain the Bureau of Coastal Resilience within DEP. Int 0936-2026 should be amended to codify a Bureau of Coastal Resilience within DEP to ensure that the progress and benefits that have been made over the last several years are not erased by a future administration. If amended as such, Riverkeeper would strongly support the Bill.
+
+Thank you, Chair Gennaro, for the opportunity to testify today. We look forward to working with you on this legislation in the future.
+
+**(01:46:53)**
+
+
+
+Thank you, Brianna. This is like perfect testimony — you have a certain point that you want to make, it is right on, you know, like what the Bill does or does not do, you give the reasons for it. Really good testimony. We always appreciate Riverkeeper's great advocacy and great work, and their generous distribution of hats. Thank you. Okay, and that leaves Caitlin. Right? Yes. Apologies about the small handwriting. Yeah, it is fine. I do not have the eyes of a young man, despite being very young. Not again, please.
+
+**(01:47:42)**
+
+
+
+Hello, my name is Caitlin Villatoro and I am the New York City Policy Fellow at the New York League of Conservation Voters. Thank you, Chair Gennaro and members of the Committee on Environmental Protection for the opportunity to testify. We will be submitting longer testimony.
+
+New Yorkers face increasingly frequent and severe rainfall, coastal flooding, storm surge, groundwater flooding and sea level rise. Climate change also amplifies the impacts of environmental injustice. Pre-existing socioeconomic challenges combined with disproportionate climate change impacts leave low-income communities and communities of color more vulnerable than others. We appreciate the leadership of the City Council on investments reaching these communities. We also strongly support the Mamdani administration's $27 million investment in the Bureau of Coastal Resilience to establish critical in-house capacity to manage the growing portfolio of shoreline protection assets.
+
+As a member of the Rise to Resilience Coalition, we strongly supported Local Law 100 of 2021, establishing a five-borough climate adaptation plan. We had hoped to see more progress on this plan by now, but we look forward to working with MOCEJ to develop an equitable and long-term climate adaptation plan. This plan should build off of previous neighborhood-led plans and include recommendations to protect residents, property and infrastructure throughout the City. It should identify climate-vulnerable areas to determine where adaptation measures should first be implemented.
+
+Lastly, we strongly support allocating more funding for MOCEJ and DEP, and long-term funding for capital projects concerning coastal resilience, green infrastructure, cloudburst management and blue belt programs. Regarding today's Bills, we appreciate the intent of Int 0936-2026. However, we believe a Bureau of Coastal Resilience should be permanently established within DEP, especially given the funding already taking place. We also support the intent of Int 0931-2026. Access to clean drinking water is essential. We recommend a cost-benefit analysis be conducted to compare costs of a mobile drinking fleet with increased permanent water fountains throughout the City. We look forward to working with the Council and the Mamdani administration to prepare for the risk of climate change.
+
+**(01:50:00)**
+
+
+
+Thank you so much, Caitlin. We appreciate your good testimony also — very on point and focused. This is a great panel. Thank you all so much for being part of this hearing and being part of the work that we are trying to get done. We know we can always count on all of your organizations. Notice how the good environmental groups showed up today. I am just — yeah, forgive me. I just — you know, there are other environmental groups that I really like, which is almost all of them. So we appreciate you being here today. Your patience, and have a little fun. Points well made. Thank you very much. Appreciate that.
+
+We will now turn to remote testimony. Once your name is called, a member of our staff will unmute you and the Sergeant at Arms will give you the go-ahead to begin. Please wait for the Sergeant to announce that you may begin before delivering your testimony, because you run the risk of still being on mute and starting your testimony. So wait for the Sergeant's nod, and then we can proceed. I believe we have one witness. Okay, it is my...
+
+**(01:51:47)**
+
+
+
+Pleasure to recognize you. Recognized — Elizabeth Cortez.
+
+**(01:51:55)**
+
+
+
+Good afternoon, Chair Gennaro and members of the Committee. My name is Elizabeth Cortez. I am an MPH student at CUNY SPH, speaking in my personal capacity as a New York City resident. I support advancing Int 0931-2026 with a feasible implementation plan and adequate resources.
+
+The Health Department's 2026 heat-related mortality report shows that heat stress death rates are higher among Black and Latino New Yorkers and in lower-income neighborhoods. As the Committee works through staffing and costs, I urge it to preserve the Bill's recurring summer service and its priority for high-vulnerability neighborhoods. Heat risks also extend beyond declared emergencies, which supports the Bill's approach of providing drinking water on hot days throughout the summer.
+
+Fountains cannot replace cooling or address every source of heat risk, but making drinking water easier to access in public spaces is a practical complement to cooling in neighborhoods most vulnerable to heat. DEP's earlier Water on the Go mobile drinking fountain experience offers lessons, but today's testimony makes it clear that expansion would require substantial new capacity. Therefore, I urge the Committee to work with DEP and other relevant agencies on a funded implementation plan that protects core water and emergency services, including consideration of the appropriate lead agency and existing staff and sites.
+
+I also recommend annual public reporting on neighborhood coverage, operating hours and costs so the Council can assess whether the program reaches high-vulnerability neighborhoods and how resources are being used. Thank you for considering my testimony.
+
+**(01:53:50)**
+
+
+
+Thank you very much. We really appreciate you being patient and staying for the whole hearing and giving us the benefit of your views. We really do appreciate that. Please continue to advocate for what you believe in regarding the environment. We are always here and willing to hear everybody. Thank you very much.
+
+I recognize Glenn Belovski, who is not on the line at the time I read this. Okay. If we inadvertently missed anyone who registered to testify today and has yet to be called, please use the Zoom raise hand function if you are testifying remotely and you will be called in the order that your hand has been raised. If you are testifying in person, please come to the dais. Seeing none, I will now close the hearing.
+
+Thank you to the members of the administration and members of the public who joined us today. Before I say this hearing is adjourned, I think it is appropriate that I dedicate this hearing to the memory of Leighton Brown, the maintenance worker for NYCHA who was tragically killed by the storm, by a tree. We will have a moment of silence for his memory, after which I will adjourn the hearing.
+
+Moment of silence.
+
+May he rest in peace and his family be comforted at this time of great strife. This hearing is adjourned.
