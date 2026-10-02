@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0489-2026",
- "title": "Law to create a public database for towed vehicles",
- "summary": "This bill would require the NYPD to build a centralized, publicly accessible online database tracking vehicles towed by police, licensed tow operators or other city entities, including make, model, license plate, tow reason, operator and retrieval location and hours. It would also create an opt-in text or email notification system to alert owners when their vehicle appears in the database, with information posted within 2 hours of a tow. The law would take effect 180 days after becoming law.",
+ "title": "Law to create one online database for towed vehicles",
+ "summary": "This bill would require the Department of Finance and other designated city agencies to build a single online database where vehicle owners can look up any vehicle towed from public or private property by the city or a licensed tow operator. Owners could also opt in to text or email alerts when their vehicle appears in the database. Towing entities would have to post information within two hours of a tow, and the bill repeals the older rule requiring separate notice to local police precincts.",
  "model": "claude-sonnet-5",
- "input_hash": "11226ce796679c11"
+ "input_hash": "7c4e2806dc7e1457"
 }
