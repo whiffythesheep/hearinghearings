@@ -4,7 +4,7 @@
  "body": "Committee on Public Safety",
  "location": "Council Chambers - City Hall Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436518&GUID=9F6A1084-6A4B-4801-ACA8-8485A0ED7032&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Micromobility in New York City - Regulation, Accountability, and Safety.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169740",
+   "legistar_guid": "7F26CBF1-9FF3-4769-93E1-85D007A23F52"
+  },
+  {
+   "file_number": "T2026-2395",
+   "type": "Oversight",
+   "name": "Oversight - Micromobility in New York City - Regulation, Accountability, and Safety.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8169740",
    "legistar_guid": "7F26CBF1-9FF3-4769-93E1-85D007A23F52"
@@ -24,7 +35,18 @@
    "name": "The retention of delivery data.",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861511",
+   "legistar_guid": "05BA3489-38FD-436D-9B55-B35A46A6CD96"
+  },
+  {
+   "file_number": "Int 0078-2026",
+   "type": "Introduction",
+   "name": "The retention of delivery data.",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861511",
    "legistar_guid": "05BA3489-38FD-436D-9B55-B35A46A6CD96"
@@ -35,7 +57,18 @@
    "name": "Requiring moped retailers to provide ownership information at point of sale.",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861500",
+   "legistar_guid": "4E5C9D76-3CF2-480C-A12F-C66552F717A8"
+  },
+  {
+   "file_number": "Int 0095-2026",
+   "type": "Introduction",
+   "name": "Requiring moped retailers to provide ownership information at point of sale.",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861500",
    "legistar_guid": "4E5C9D76-3CF2-480C-A12F-C66552F717A8"
@@ -46,7 +79,18 @@
    "name": "Delivery devices used for commercial purposes, and to repeal section 10-157.1 of such code, relating to signs with bicycle safety procedures.",
    "sponsor": "Selvena N. Brooks-Powers",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861675",
+   "legistar_guid": "45591EF9-8B82-4A1B-B32A-5EA2370B521A"
+  },
+  {
+   "file_number": "Int 0110-2026",
+   "type": "Introduction",
+   "name": "Delivery devices used for commercial purposes, and to repeal section 10-157.1 of such code, relating to signs with bicycle safety procedures.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861675",
    "legistar_guid": "45591EF9-8B82-4A1B-B32A-5EA2370B521A"
@@ -57,7 +101,18 @@
    "name": "Requiring micromobility share system operators to display rules of the road for safe operation.",
    "sponsor": "Shahana K. Hanif",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861951",
+   "legistar_guid": "BCC088FF-C640-438B-AFC3-A474ED30AFED"
+  },
+  {
+   "file_number": "Int 0214-2026",
+   "type": "Introduction",
+   "name": "Requiring micromobility share system operators to display rules of the road for safe operation.",
+   "sponsor": "Shahana K. Hanif",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861951",
    "legistar_guid": "BCC088FF-C640-438B-AFC3-A474ED30AFED"
@@ -68,7 +123,18 @@
    "name": "Prohibiting the sale and rental of class three bicycles with electric assist.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862032",
+   "legistar_guid": "FBA3B7D2-B295-4991-826B-B622192AAD5C"
+  },
+  {
+   "file_number": "Int 0244-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the sale and rental of class three bicycles with electric assist.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7862032",
    "legistar_guid": "FBA3B7D2-B295-4991-826B-B622192AAD5C"
@@ -79,7 +145,18 @@
    "name": "Requiring third-party food delivery services to verify the registration of mopeds used by food delivery workers.",
    "sponsor": "Lincoln Restler",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862713",
+   "legistar_guid": "D3AC8AFD-D4CD-4426-88D3-954A39C58493"
+  },
+  {
+   "file_number": "Int 0389-2026",
+   "type": "Introduction",
+   "name": "Requiring third-party food delivery services to verify the registration of mopeds used by food delivery workers.",
+   "sponsor": "Lincoln Restler",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7862713",
    "legistar_guid": "D3AC8AFD-D4CD-4426-88D3-954A39C58493"
@@ -90,7 +167,18 @@
    "name": "Reporting on targeted traffic enforcement operations by the police department.",
    "sponsor": "Selvena N. Brooks-Powers",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7961424",
+   "legistar_guid": "6080C82F-B849-4275-A2E8-0F6F84F6D81C"
+  },
+  {
+   "file_number": "Int 0787-2026",
+   "type": "Introduction",
+   "name": "Reporting on targeted traffic enforcement operations by the police department.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7961424",
    "legistar_guid": "6080C82F-B849-4275-A2E8-0F6F84F6D81C"
@@ -101,7 +189,18 @@
    "name": "Licensing delivery services.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8067880",
+   "legistar_guid": "E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3"
+  },
+  {
+   "file_number": "Int 0950-2026",
+   "type": "Introduction",
+   "name": "Licensing delivery services.",
+   "sponsor": "Lynn C. Schulman",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8067880",
    "legistar_guid": "E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3"
@@ -112,7 +211,40 @@
    "name": "Establishment of a trade-in program concerning powered bicycles.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "Proposed Int. No. 985-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169793",
+   "legistar_guid": "7256449B-55C5-4D87-9091-532B603AD741"
+  },
+  {
+   "file_number": "Int 0985-2026",
+   "type": "Introduction",
+   "name": "Establishment of a trade-in program concerning powered bicycles.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8169793",
+   "legistar_guid": "7256449B-55C5-4D87-9091-532B603AD741"
+  },
+  {
+   "file_number": "Int 0985-2026",
+   "type": "Introduction",
+   "name": "Establishment of a trade-in program concerning powered bicycles.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8169793",
+   "legistar_guid": "7256449B-55C5-4D87-9091-532B603AD741"
+  },
+  {
+   "file_number": "Int 0985-2026",
+   "type": "Introduction",
+   "name": "Establishment of a trade-in program concerning powered bicycles.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8169793",
    "legistar_guid": "7256449B-55C5-4D87-9091-532B603AD741"
@@ -123,7 +255,18 @@
    "name": "Using micromobility dynamometers to test micromobility devices operating in the city.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169803",
+   "legistar_guid": "AF5DC996-B226-4DCF-B6A5-F930845CF8AC"
+  },
+  {
+   "file_number": "Int 0986-2026",
+   "type": "Introduction",
+   "name": "Using micromobility dynamometers to test micromobility devices operating in the city.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8169803",
    "legistar_guid": "AF5DC996-B226-4DCF-B6A5-F930845CF8AC"
@@ -134,7 +277,18 @@
    "name": "Prohibiting the advertisement of vehicles required to be registered with the department of motor vehicles as powered bicycles or powered mobility devices and related outreach.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169801",
+   "legistar_guid": "F85BB03C-20E9-4677-A632-1FDFAFC1397B"
+  },
+  {
+   "file_number": "Int 0988-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the advertisement of vehicles required to be registered with the department of motor vehicles as powered bicycles or powered mobility devices and related outreach.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8169801",
    "legistar_guid": "F85BB03C-20E9-4677-A632-1FDFAFC1397B"
@@ -145,7 +299,18 @@
    "name": "Bike share safety reporting.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169802",
+   "legistar_guid": "7F6BA374-5531-4FDB-B06C-C1F9AC1A0F98"
+  },
+  {
+   "file_number": "Int 0989-2026",
+   "type": "Introduction",
+   "name": "Bike share safety reporting.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8169802",
    "legistar_guid": "7F6BA374-5531-4FDB-B06C-C1F9AC1A0F98"
@@ -156,7 +321,18 @@
    "name": "Requiring third-party food delivery services to maintain liability insurance.",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169973",
+   "legistar_guid": "BEF85D7D-BA51-493E-94D4-3C4ABAB97858"
+  },
+  {
+   "file_number": "Int 0994-2026",
+   "type": "Introduction",
+   "name": "Requiring third-party food delivery services to maintain liability insurance.",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8169973",
    "legistar_guid": "BEF85D7D-BA51-493E-94D4-3C4ABAB97858"
@@ -167,7 +343,18 @@
    "name": "Pedestrian safety.",
    "sponsor": "Virginia Maloney",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8170046",
+   "legistar_guid": "011A3822-B437-4CEB-A09B-D686B810ADD4"
+  },
+  {
+   "file_number": "Int 1004-2026",
+   "type": "Introduction",
+   "name": "Pedestrian safety.",
+   "sponsor": "Virginia Maloney",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8170046",
    "legistar_guid": "011A3822-B437-4CEB-A09B-D686B810ADD4"
@@ -178,7 +365,18 @@
    "name": "Safety reports and plans required of third-party food delivery services.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206970",
+   "legistar_guid": "DF1CB9EB-EB39-4E27-B32B-B1CE8B025198"
+  },
+  {
+   "file_number": "Int 1021-2026",
+   "type": "Introduction",
+   "name": "Safety reports and plans required of third-party food delivery services.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206970",
    "legistar_guid": "DF1CB9EB-EB39-4E27-B32B-B1CE8B025198"
@@ -189,7 +387,18 @@
    "name": "Reporting data about micromobility device crashes.",
    "sponsor": "Vickie Paladino",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206863",
+   "legistar_guid": "1E62BDCB-B972-49F2-87C2-AD2A21E51CEC"
+  },
+  {
+   "file_number": "Int 1052-2026",
+   "type": "Introduction",
+   "name": "Reporting data about micromobility device crashes.",
+   "sponsor": "Vickie Paladino",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206863",
    "legistar_guid": "1E62BDCB-B972-49F2-87C2-AD2A21E51CEC"
@@ -200,7 +409,18 @@
    "name": "Installation of traffic calming devices in bicycle lanes.",
    "sponsor": "Julie Won",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206910",
+   "legistar_guid": "02D27D9E-4901-482D-9E16-ABAC79E8EA72"
+  },
+  {
+   "file_number": "Int 1066-2026",
+   "type": "Introduction",
+   "name": "Installation of traffic calming devices in bicycle lanes.",
+   "sponsor": "Julie Won",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206910",
    "legistar_guid": "02D27D9E-4901-482D-9E16-ABAC79E8EA72"
@@ -211,7 +431,18 @@
    "name": "Study of safe delivery times by contracted delivery workers and the promulgation of safe delivery time standards.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8223711",
+   "legistar_guid": "DFD67A5C-A443-4615-B9C0-78C0770309BC"
+  },
+  {
+   "file_number": "Int 1069-2026",
+   "type": "Introduction",
+   "name": "Study of safe delivery times by contracted delivery workers and the promulgation of safe delivery time standards.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8223711",
    "legistar_guid": "DFD67A5C-A443-4615-B9C0-78C0770309BC"
@@ -222,7 +453,18 @@
    "name": "Installation of sidewalk riding detection technology on electric bicycles and electric scooters that are part of share systems.",
    "sponsor": "Shaun Abreu",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8223676",
+   "legistar_guid": "199736E6-BAE2-4866-B63B-456AE9D2EEC7"
+  },
+  {
+   "file_number": "T2026-2590",
+   "type": "Introduction",
+   "name": "Installation of sidewalk riding detection technology on electric bicycles and electric scooters that are part of share systems.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
    "result": "",
    "legistar_id": "8223676",
    "legistar_guid": "199736E6-BAE2-4866-B63B-456AE9D2EEC7"
@@ -233,7 +475,18 @@
    "name": "Prohibiting the operation of class 3 e-bicycles.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8223710",
+   "legistar_guid": "E603FDD2-B465-44EE-9D59-762B0BE124A8"
+  },
+  {
+   "file_number": "T2026-2361",
+   "type": "Introduction",
+   "name": "Prohibiting the operation of class 3 e-bicycles.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
    "result": "",
    "legistar_id": "8223710",
    "legistar_guid": "E603FDD2-B465-44EE-9D59-762B0BE124A8"
@@ -244,7 +497,18 @@
    "name": "Requiring third-party delivery services to track and notify certain food delivery workers of certain unsafe traffic behaviors.",
    "sponsor": "Lincoln Restler",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
+   "result": "",
+   "legistar_id": "8223712",
+   "legistar_guid": "A842BCEF-76BD-4CFA-A02F-A5F90FDEE8CB"
+  },
+  {
+   "file_number": "T2026-2587",
+   "type": "Introduction",
+   "name": "Requiring third-party delivery services to track and notify certain food delivery workers of certain unsafe traffic behaviors.",
+   "sponsor": "Lincoln Restler",
+   "agenda_note": "",
+   "action": "P-C Item Laid Over by Comm",
    "result": "",
    "legistar_id": "8223712",
    "legistar_guid": "A842BCEF-76BD-4CFA-A02F-A5F90FDEE8CB"
@@ -255,7 +519,18 @@
    "name": "Commercial E-Bike Licensing Act. (S.7587/A.7833)",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861524",
+   "legistar_guid": "567D12BE-AF6B-4699-9BC4-CE8D31039008"
+  },
+  {
+   "file_number": "Res 0043-2026",
+   "type": "Resolution",
+   "name": "Commercial E-Bike Licensing Act. (S.7587/A.7833)",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861524",
    "legistar_guid": "567D12BE-AF6B-4699-9BC4-CE8D31039008"
@@ -266,7 +541,18 @@
    "name": "Increasing the penalty for leaving the scene of an accident involving an e-scooter and further calling upon the New York State Legislature to include e-bikes in such legislation. (A.1679/S.561)",
    "sponsor": "Gale A. Brewer",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861526",
+   "legistar_guid": "416F84E3-B9E2-49FC-9BE8-195ECDB00B7E"
+  },
+  {
+   "file_number": "Res 0044-2026",
+   "type": "Resolution",
+   "name": "Increasing the penalty for leaving the scene of an accident involving an e-scooter and further calling upon the New York State Legislature to include e-bikes in such legislation. (A.1679/S.561)",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861526",
    "legistar_guid": "416F84E3-B9E2-49FC-9BE8-195ECDB00B7E"

@@ -4,7 +4,7 @@
  "legistar_id": "8160884",
  "type": "Oversight",
  "title": "Oversight - Assessing the Economic Impact of the 2026 FIFA World Cup.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Small Business",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8160884&GUID=0B42F21B-B368-4EF5-BC70-58D40D9BB06C"
 }

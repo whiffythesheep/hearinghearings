@@ -22,7 +22,8 @@
   "Gale A. Brewer",
   "Shahana K. Hanif",
   "Ty Hankerson",
-  "Kayla Santosuosso"
+  "Kayla Santosuosso",
+  "Mercedes Narcisse"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -97,13 +98,7 @@
  "history": [
   {
    "date": "2026-06-24",
-   "body": "Committee on Education",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-24",
-   "body": "Committee on Education",
+   "body": "Committee on Technology",
    "action": "Laid Over by Committee",
    "result": ""
   },
@@ -115,8 +110,14 @@
   },
   {
    "date": "2026-06-24",
-   "body": "Committee on Technology",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-24",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

@@ -4,7 +4,7 @@
  "body": "Committee on Small Business",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Economic Development",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436127&GUID=FF663CE6-EDEF-49B7-8B65-7128B5BDF11C&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Assessing the Economic Impact of the 2026 FIFA World Cup.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8160884",
+   "legistar_guid": "0B42F21B-B368-4EF5-BC70-58D40D9BB06C"
+  },
+  {
+   "file_number": "T2026-2331",
+   "type": "Oversight",
+   "name": "Oversight - Assessing the Economic Impact of the 2026 FIFA World Cup.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8160884",
    "legistar_guid": "0B42F21B-B368-4EF5-BC70-58D40D9BB06C"
@@ -24,7 +35,18 @@
    "name": "FIFA to pay New York City the $1 million “legacy contribution” promised for hosting the 2026 World Cup.",
    "sponsor": "Shanel Thomas-Henry",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8237417",
+   "legistar_guid": "C30FF305-DBC4-445A-8BA0-4668E0B55EEE"
+  },
+  {
+   "file_number": "Res 0655-2026",
+   "type": "Resolution",
+   "name": "FIFA to pay New York City the $1 million “legacy contribution” promised for hosting the 2026 World Cup.",
+   "sponsor": "Shanel Thomas-Henry",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8237417",
    "legistar_guid": "C30FF305-DBC4-445A-8BA0-4668E0B55EEE"

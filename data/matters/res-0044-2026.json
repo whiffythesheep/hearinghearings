@@ -4,7 +4,7 @@
  "legistar_id": "7861526",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.1679/S.561, in relation to increasing the penalty for leaving the scene of an accident involving an e-scooter and further calling upon the New York State Legislature to include e-bikes in such legislation",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Gale A. Brewer",
   "Farah N. Louis",
@@ -41,6 +41,42 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

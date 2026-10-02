@@ -27,6 +27,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765158&GUID=5ED9197B-B07A-4DAC-890D-679DB5602B66"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969359&GUID=35A0F2AA-6E3B-403A-960C-488F2A4D4DAF"
+  },
+  {
    "label": "Proposed Res. No. 610-A - 9/10/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15846364&GUID=627CF2FB-6C8B-4E1A-8ED7-950439BD629A"
@@ -42,9 +47,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954880&GUID=02057ED1-B5DC-40E6-A0E5-D11BF9748964"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "label": "Hearing Transcript 9/18/26",
    "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969359&GUID=35A0F2AA-6E3B-403A-960C-488F2A4D4DAF"
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973381&GUID=A861A7AE-9690-4499-B231-E4D6BFF8ABFB"
   }
  ],
  "fiscal": null,
@@ -63,6 +68,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -83,6 +94,18 @@
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {
@@ -94,30 +117,12 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Disabilities",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
    "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },

@@ -4,7 +4,7 @@
  "legistar_id": "7861524",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S.7587/A.7833, known as the “Commercial E-Bike Licensing Act,” which requires the registration of bicycles with electric assist used for commercial purposes and creates liability for employers for certain violations",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Gale A. Brewer",
   "Farah N. Louis",
@@ -37,6 +37,42 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

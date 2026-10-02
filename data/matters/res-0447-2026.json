@@ -55,7 +55,13 @@
  "history": [
   {
    "date": "2026-06-15",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Hospitals",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Hospitals",
    "action": "Hearing Held by Committee",
    "result": ""
   },
@@ -73,20 +79,14 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Hospitals",
+   "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-06-15",
    "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

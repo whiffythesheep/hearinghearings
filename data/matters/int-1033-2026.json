@@ -46,6 +46,11 @@
    "label": "Hearing Testimony 9/18/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954864&GUID=D1C01B69-C839-4974-B682-477AEB936C00"
+  },
+  {
+   "label": "Hearing Transcript 9/18/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973373&GUID=E28877ED-195C-4EA2-92D3-47C8B8F426E7"
   }
  ],
  "fiscal": {
@@ -79,6 +84,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -99,12 +110,6 @@
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

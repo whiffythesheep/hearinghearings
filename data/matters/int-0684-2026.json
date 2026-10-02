@@ -16,6 +16,7 @@
   "Lynn C. Schulman",
   "Harvey D. Epstein",
   "Selvena N. Brooks-Powers",
+  "Mercedes Narcisse",
   "Inna Vernikov"
  ],
  "by_request_of_mayor": false,
@@ -86,13 +87,7 @@
  "history": [
   {
    "date": "2026-06-24",
-   "body": "Committee on Education",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-24",
-   "body": "Committee on Education",
+   "body": "Committee on Technology",
    "action": "Laid Over by Committee",
    "result": ""
   },
@@ -104,8 +99,14 @@
   },
   {
    "date": "2026-06-24",
-   "body": "Committee on Technology",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-24",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

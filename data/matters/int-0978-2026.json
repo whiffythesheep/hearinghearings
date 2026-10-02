@@ -4,7 +4,7 @@
  "legistar_id": "8138357",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities",
- "status": "Laid Over in Committee",
+ "status": "Committee",
  "sponsors": [
   "Farah N. Louis",
   "Gale A. Brewer",
@@ -91,6 +91,11 @@
    "label": "Hearing Testimony 9/18/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954834&GUID=5DDA4141-D0C8-4BF6-A72E-C669E18DA89E"
+  },
+  {
+   "label": "Hearing Transcript 9/18/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973346&GUID=23DB4A1C-9890-40CD-BCE0-CEF7AB8A25E4"
   }
  ],
  "fiscal": {
@@ -118,6 +123,24 @@
  "history": [
   {
    "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -136,24 +159,6 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -166,14 +171,26 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
-   "action": "Laid Over by Committee",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Amended by Committee",
    "result": ""
   },
   {

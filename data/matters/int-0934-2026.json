@@ -35,6 +35,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575720&GUID=73894704-0DD2-4D4C-B8E0-AF1F06F4655E"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968923&GUID=71A89CAA-F209-45B5-90BE-DFCD86181418"
+  },
+  {
    "label": "Committee Report 9/18/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15860071&GUID=C9F9734B-58FF-417F-8144-1DCE040F03CC"
@@ -50,9 +55,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954833&GUID=CFE9CBFC-02FE-4C6A-B365-E3061022FFE3"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "label": "Hearing Transcript 9/18/26",
    "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968923&GUID=71A89CAA-F209-45B5-90BE-DFCD86181418"
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973345&GUID=D1220514-0FB9-43E5-BBBD-3BEADEC14D5A"
   }
  ],
  "fiscal": {
@@ -81,37 +86,37 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Aging",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Aging",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

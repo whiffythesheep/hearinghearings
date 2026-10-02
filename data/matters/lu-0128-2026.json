@@ -21,6 +21,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824896&GUID=1A152F0E-FCE3-4F16-8C83-7B6055B3F2AB"
   },
   {
+   "label": "Hearing Testimony - Zoning 9/9/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973956&GUID=938BA39F-37B8-4225-9735-A503F4438D64"
+  },
+  {
    "label": "Appearance Cards - Zoning 9/9/26",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15856712&GUID=A0793C77-CDA1-47EA-BBA8-C5B6579E72B8"
@@ -57,14 +62,14 @@
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Approved by Committee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",

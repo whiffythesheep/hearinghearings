@@ -61,13 +61,37 @@
  "history": [
   {
    "date": "2026-06-15",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Hospitals",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Hospitals",
    "action": "Hearing Held by Committee",
    "result": ""
   },
   {
    "date": "2026-06-15",
    "body": "Committee on Health",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Disabilities",
    "action": "Hearing Held by Committee",
    "result": ""
   },
@@ -79,8 +103,8 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
-   "action": "Hearing Held by Committee",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
    "result": ""
   },
   {
@@ -97,24 +121,6 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Health",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Health",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
    "body": "Committee on Disabilities",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -123,12 +129,6 @@
    "date": "2026-06-15",
    "body": "Committee on Disabilities",
    "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
    "result": ""
   },
   {
