@@ -1,0 +1,970 @@
+---
+committee: "Committee on Higher Education"
+committee_slug: committee-on-higher-education
+title: "Study Abroad Opportunities at CUNY"
+date: 2026-09-29
+slug: committee-on-higher-education-study-abroad-opportunities-at-cuny-2026-09-29
+duration: "1hr 35m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260929-131045.mp4"
+viebit_hash: "P6haXJ8uoJKAhhci"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1436569&GUID=806AA0B5-04B8-4D2D-A8BA-7E5372D57A9B&Search="
+chairs: "Rita C. Joseph"
+members: "Joann Ariola, Eric Dinowitz, Harvey D. Epstein, Virginia Maloney, Lincoln Restler, Carl Wilson"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Higher Education held an oversight hearing on study abroad opportunities at CUNY, taking testimony from three CUNY representatives: Kim Holland, University Director of Global Education and Initiatives; Steven First, Executive Director of the Center for Global Engagement at the College of Staten Island; and Jessica Rothman, Professor of Anthropology at Hunter College. No legislation was considered; this was a fact-finding and advocacy session, with the committee probing barriers to participation, equity gaps, funding challenges, and institutional goals.
+
+CUNY's study abroad operation is larger and more diverse than the national norm, but still reaches only a small fraction of its student body. In the 2025-26 academic year, 1,512 undergraduates from 15 campuses studied in 49 countries across 136 programs. The committee repeatedly pressed on why there is no system-wide numeric enrollment target, and CUNY officials largely acknowledged the gap, noting that some individual campuses have goals (College of Staten Island aims for 10% of graduating students to have had a substantial international experience) but that no university-wide figure exists. Members, particularly CM Epstein and CM Dinowitz, pushed for specific goals tied to underrepresented populations, noting that data on the lowest-income students is particularly concerning: only 1.2% of study abroad participants have ever qualified for public assistance, even though CUNY's mission is explicitly to serve students of limited means.
+
+Funding emerged as the central operational challenge. Federal grant money is actively shrinking: College of Staten Island's director noted that $60.4 million in relevant federal funding was rescinded the night before the hearing. CM Brewer, drawing on her experience directing David Dinkins's federal grants office, pressed CUNY on whether it is systematically pursuing every available private foundation dollar, arguing that even politically conservative foundations fund international education. CUNY officials acknowledged they pursue grants actively but that the pipeline is under pressure. The committee also heard that vertical transfer students, community college students, and students in SEEK and ASAP programs are significantly underrepresented in study abroad and face compounding barriers: fewer elective credits, work and family obligations, inability to live with family while abroad, and lost income from jobs that support household expenses. There is no systematic data on what percentage of ASAP or SEEK students participate, and CUNY committed to follow up on that.
+
+Several smaller but operationally significant items surfaced. A new transfer credit tool, developed at one campus, allows students to see exactly what credits earned abroad will count for at CUNY before they go; it is being rolled out system-wide in approximately six weeks. A consolidated online directory of CUNY study abroad programs already exists but officials themselves acknowledged it is insufficient to change campus culture where peer visibility is low. CUNY's study abroad destination profile differs notably from national averages, with South Korea up 5.3 times since 2013 and China down 78%, and emerging interest in Morocco driven partly by the difficulty of placing students elsewhere in the Middle East. On Israel, CUNY confirmed that formal exchange agreements are on pause due to State Department travel warnings since October 7 but are not cancelled; students continue to travel independently under a waiver process, and agreements with four Israeli universities are ready to resume when safety conditions allow. Chair Joseph closed by flagging a separate but related pipeline interest: connecting CUNY anthropology programs to the excavation and study of African burial grounds in New York City, including one in her district dating to 1600.
+
+Numbers
+
+- 1,512 CUNY undergraduates from 15 campuses studied abroad in 49 countries during fall 2025 through summer 2026.
+- 136 study abroad programs were offered by 10 CUNY campuses in 40 countries in the same period.
+- 89.1% of CUNY study abroad students participated in a CUNY-sponsored program; 10.9% participated independently.
+- 75.9% of CUNY study abroad participants were in winter or summer intersession programs; 24.4% participated for one or two full semesters.
+- 72% of study abroad participants were enrolled at four-year campuses; 28% were community college students.
+- 16.9% of CUNY study abroad students registered at a campus other than their own using the ePermit cross-campus system.
+- Students who study abroad have a 95.1% six-year graduation rate, approximately 30 percentage points higher than peers who do not.
+- Study abroad students are 6.2% more likely to graduate in four years; for first-generation students that figure rises to 11.6%.
+- Study abroad students earn 6.3% more (over $4,000) in their first job and find employment sooner than non-study-abroad graduates.
+- Underrepresented minority students who study abroad show an approximately 8 percentage point improvement in six-year graduation rates compared to peers who do not.
+- 48.7% of CUNY study abroad students are Pell-eligible.
+- Only 1.2% of CUNY study abroad students have ever qualified for public assistance, based on CUNY EDGE data.
+- 34.2% of CUNY study abroad students identified as Hispanic; 11.7% as Black; 4.5% as multiracial; 27.4% as white; 22% as Asian.
+- Nationally, approximately 80% of high school students say they want to study abroad; over 50% expect to; only 6-7% of college graduates actually did.
+- CUNY study abroad staff effectively serve over 7,500 students annually: approximately 1,500 currently abroad, 1,500 recently returned requiring processing, 1,500 preparing to depart, and an estimated 3,000 who express interest but do not ultimately go.
+- 25 faculty-led programs ran in 16 countries in the most recent academic year.
+- $60.4 million in federal funding relevant to study abroad access was rescinded by the federal government the night before the hearing.
+- Professor Rothman's NSF-funded summer research program has funded 22 CUNY students to date, with funding remaining for 16 more.
+- College of Staten Island's Asia Pacific University exchange program in Japan draws students from over 90 countries speaking at least 50 languages, with CUNY students paying CUNY tuition.
+- A CUNY program in China costs under $1,000 for a semester including room, board, and tuition.
+- South Korea's share of CUNY study abroad destinations has increased 5.3 times since 2013; Japan has quadrupled; Spain has nearly tripled; Italy is down 23%; China is down 78%.
+- College of Staten Island's goal is for 10% of graduating students to have had a substantial international experience, which would place it in the top quartile of public universities nationally.
+- Agreements with four Israeli universities, including scholarships of up to $6,000 per semester for community students, are ready to activate but remain on pause due to State Department travel warnings.
+- A Bronx Community College program sends students to a Salzburg institute annually as part of an embedded spring semester course, sustained for over two decades with ASAP and ACE funding.
+- 43% application melt (students who begin an application but do not complete or follow through) has been observed using campus study abroad application tracking software.
+
+Action Points
+
+- CUNY Office of Academic Affairs to provide the committee with data on domestic study-away program participation numbers and destination institutions.
+- CUNY to provide data on what percentage of ASAP, SEEK, and ACE students participate in study abroad programs, and to identify the specific barriers facing those populations.
+- CUNY to follow up with the committee on progress in rebuilding study abroad agreements with Israeli universities and on numbers of students traveling to Israel independently under the travel waiver process.
+- CUNY to develop system-wide numeric enrollment targets for study abroad, including targets specific to underrepresented student populations such as vertical transfer students and community college students.
+- CUNY to roll out the transfer credit equivalency tool system-wide within approximately six weeks so all students can see in advance what credits earned abroad will count for at CUNY.
+- CUNY to expand career services integration with study abroad offices, building on existing practices at Hunter and College of Staten Island, including connecting returning students with career advisers to articulate international experience on resumes and in job applications.
+- CUNY to pursue a system-wide student ambassador or peer messenger campaign modeled on past City-partnership poster campaigns, to increase study abroad visibility and recruitment across campuses.
+- CUNY to ensure that study abroad information is included in all admitted student materials and outreach across all campuses, making the College of Staten Island's approach a universal best practice rather than a campus-level exception.
+- CUNY to explore a convening specifically for community college study abroad offices to share best practices and identify campus-specific barriers, as proposed by CM Brewer.
+- CUNY to connect returning Gilman Scholarship-eligible students and other fellowship candidates with relevant advising contacts across all campuses, including writing centers where dedicated scholarship offices do not exist.
+- CUNY to better track and report usage data for the consolidated study abroad program directory, including cross-campus access patterns.
+- CUNY to investigate a stipend or financial support mechanism for study abroad participants, comparable to the paid internship program, particularly for lower-income students who sacrifice employment income while abroad, with the committee to consider funding options.
+- Chair Joseph to connect Professor Rothman with relevant CUNY anthropology faculty and administration to explore creating a pipeline for CUNY students to conduct bioanthropological fieldwork at African burial ground sites in New York City, including the site in Joseph's district.
+- College of Staten Island to share study abroad application tracking software procurement process with additional CUNY campuses beyond Hunter to enable better data collection on student melt and participation.
+- CUNY to pursue private foundation funding for study abroad access more systematically, with CM Brewer's office available to advise on grant strategy given her experience directing federal and foundation grant applications.
+
+## Full Transcript
+
+**(00:00:09)**
+
+
+
+Good afternoon and welcome to today's New York City Council hearing on the Committee on Higher Education. If you want to testify, please fill out a testimony slip, even if you filled it out online. At this time during today's hearing, no one should approach the dais. Please silence your electronic devices.
+
+**(00:05:00)**
+
+
+
+Right, thank you very much. Can you hear me clearly? Is that better? Good, thank you.
+
+**(00:05:13)**
+
+
+
+Good afternoon, Chairperson Joseph and members of the City Council Higher Education Committee. Thank you for the opportunity to speak to you today about study abroad at CUNY colleges. I am Kim Holland, University Director of Global Education and Initiatives in CUNY's Office of Academic Affairs. I am joined today by my colleague Stephen First, Executive Director of the Center for Global Engagement at the College of Staten Island, and Jessica Rothman, Professor of Anthropology at Hunter College.
+
+The trends I will describe reflect the work of staff, faculty and administrators who are committed to study abroad as part of CUNY's mission of providing a first-rate, affordable public education to all students regardless of means or background. Their commitment is based on the disproportionate impact that study abroad has on CUNY students, for whom these programs often represent their first experience away from home or even outside of New York City.
+
+Stephen First will provide the perspective of a campus that offers 32 programs and which last year sent 151 undergraduate students from 12 CUNY colleges abroad. Jessica Rothman will describe how she has used her networks and access as an Honorary Wildlife Officer at the Uganda Wildlife Authority to create research, field work and credit opportunities for CUNY students.
+
+The following data are based on activity at CUNY's 11 four-year campuses and seven community colleges from fall 2025 through summer 2026. During this period, 1,512 CUNY undergraduates from 15 campuses studied abroad in 49 countries. 89.1% of these students participated in a program sponsored by a CUNY campus, while 10.9% participated in an independent program. 24.4% of CUNY students who studied abroad participated in a program for one or two semesters, and 75.9% participated in winter and summer intersession programs. 72% of these were students at our four-year campuses and 28% studied abroad while enrolled at a community college.
+
+During this period, 10 CUNY campuses offered 136 programs in 40 countries, all of which were operated by each CUNY campus. Each campus develops programs that align with its respective curricula, institutional relationships and faculty available for in-house program development. Where appropriate, campuses are encouraged to open their programs to students from other CUNY campuses, and last year 16.9% of CUNY students who studied abroad did so using ePermit, CUNY's mechanism for cross-campus registration. This collaboration among CUNY campuses substantially broadens the scope of programs available to students, not only in terms of geographic location but also in terms of curricular focus and available terms.
+
+CUNY-sponsored programs are structured in three different ways: as student exchange programs, as faculty-led programs and as affiliated programs. These three program types are based on their cost structure and on whether academic content is delivered by external institutions or by
+
+**(00:08:46)**
+
+
+
+CUNY faculty who travel abroad with students. Faculty-led programs are designed and taught by CUNY faculty in the summer and winter intercessions. CUNY faculty led 25 programs in 16 countries last year on topics ranging from architecture in Spain to Zen meditation in Taiwan.
+
+Affiliated programs are established when a CUNY college enters into an agreement with a third-party provider or foreign university to expand the breadth of CUNY offerings. Faculty-led and affiliated programs are financed with CUNY tuition, typically supplemented by a program fee that covers expenses that exceed the cost of tuition. Exchange programs are based on partnerships between a CUNY college and a foreign university and allow participants on both sides to pay tuition only at their home institution while studying at the partner university.
+
+In addition to processing eligible financial aid, several campuses issue scholarship awards to their students for study abroad, and some campuses subsidize the cost of specific programs. Campuses also actively promote external funding opportunities, in particular the Benjamin A. Gilman Scholarship Program, which focuses its resources on Pell-eligible students for study abroad.
+
+In closing, I would like to thank the Committee for its interest in this important topic. At a moment when AI and related technologies are reshaping labor markets, graduates applying for their first professional jobs are having to demonstrate judgment and intelligence at the very beginning of their careers. Study abroad equips CUNY students with the professional maturity that employers are now demanding of their most junior hires, and in so doing prepares them to compete in and contribute to the economy of New York City.
+
+My co-presenters will provide further context on how study abroad, as a high-impact practice like internships and other forms of experiential learning, makes a profound difference in the academic and professional trajectories of CUNY students and graduates. That concludes my testimony. Thank you for your time. I turn now to Stephen First to share his perspective from the College of Staten Island.
+
+**(00:11:09)**
+
+
+
+Thank you. Good afternoon. As Kim Holland mentioned, my name is Steven First and I am the Executive Director of the Center for Global Engagement at the College of Staten Island. In this role I coordinate the overall internationalization strategy at the College, to oversee our efforts in studying abroad, bringing in international students, our on-campus international programming, our faculty development, our scholars and our International Intensive English Language Program. I mention these specifically as I want to highlight that study abroad sits squarely in the academic enterprise. It does not exist in a vacuum.
+
+As you have gathered from the previous testimony, the experiences we offer are varied in nature and appeal to a broad range of students. This is by design. With CUNY's 136 programs, we endeavor to offer every student in every major an opportunity to study overseas during their academic career. This is central to our mission, and we hold these values not just because we understand the value of enhancing the student's world view, but also because we understand the benefits of studying abroad for all students. For example, students who study abroad have a 95.1% six-year graduation rate, a full 30 points higher than their peers who stay at home. They are also 6.2% more likely to graduate in just four years. For first-generation students, that number goes up to 11.6%. They graduate with higher GPAs and degrees, and they earn 6.3% more — that is over $4,000 — in their first job, and find that first job sooner than graduates who do not study abroad. These hold true across the nation. Succinctly put, study abroad is good for the student, it is good for CUNY and it is good for New York City.
+
+Of course, study abroad is not without barriers to participation. Many of our students find that time constraints grounded in family and work obligations, curricular structures that leave little room for electives, and of course financial barriers, burden their opportunity to study abroad. At CUNY we work every day to help students overcome these barriers, and our programming often demonstrates that work.
+
+As an example, one of our programs at Asia Pacific University in Beppu, Japan is a program that combines flexibility of academic programming, lower costs and strong international student support. It is a special type of university in that it was founded on the principle that it would serve all students, mainly from across the Pacific Rim but also from across the world. To do so, they pledged to offer 100% of their courses in both Japanese and in English. The students come together on one campus to learn from their professors and from each other. It is a true blending of cultures that forms its own unique environment, and when visiting the campus our students see and hear the diversity of the world. In the cafeteria they are likely to hear at least 50 languages being spoken around them as students mingle from over 90 countries, and they do so as exchange students paying CUNY tuition and often receiving significant financial aid, making this program one of the most affordable around.
+
+This is just one example of CUNY's global programs that cater directly to our students. While CUNY has developed a wide range of opportunities to serve the broadest range of students, those barriers I mentioned earlier can keep our students from studying abroad. My colleagues and I work to lower these barriers every day through counseling and advisement, by developing a wide range of program formats, especially shorter summer and winter programs, and by working in concert with our faculty and deans on academic alignment, through the coordination of financial aid and new scholarships for study abroad. We also help our students obtain every dollar of financial aid that they are entitled to, ever mindful of our mostly non-residential students, many of whom live at home with their families and face a steeper constraint in living expenses when studying abroad.
+
+While Miss Holland mentioned the overall numbers of students studying abroad each year, I wanted to also bring to your attention the ways in which that number obscures perhaps the true work done by our offices across CUNY for our students. Yes, 1,500 CUNY students studied abroad each year, which also means that 1,500 students have just returned whose grades, records, transcripts and accounts must be updated. 1,500 students are preparing to go abroad. They need guidance on academics and finance, travel and cultural adjustment. And yet there are likely to be another 3,000 students who want to go abroad but will unfortunately never have the means to do so. So in short, our professionals are working with over 7,500 students each year, preparing, advising, processing and assisting in their dreams to study abroad.
+
+If I may indulge the Committee for just one additional moment, I want to tell the story of one amazing woman, Catherine Yanna, who studied abroad in Greece. I had the pleasure of teaching Katie in my class as well as sending her abroad, which she describes in her own words as: of all my time in college, studying abroad has definitely been the most memorable and educational experience. Going out into the world and learning about another culture firsthand will teach you far more than what you learn in a classroom. Katie's experience abroad helped her become a Watson Fellow. She won a Fulbright to Tunisia. She has now been accepted into the Peace Corps. Truly a remarkable woman.
+
+So for those lucky CUNY students, this life-changing experience is often described as the single most impactful experience of their undergraduate career. We believe the work in expanding
+
+**(00:16:58)**
+
+
+
+access to these opportunities is key to CUNY's mission of providing a first-rate, affordable public education to all students regardless of means or background. We believe that our students who have these opportunities are redefining what New Yorkers can and should expect from an education at the largest public urban university in the most cosmopolitan city in the world. As we see it, we are shaping lives for decades to come. We are creating global citizens. We are bringing CUNY to the world. I sincerely thank you for your time and for your attention today.
+
+**(00:17:34)**
+
+
+
+Good afternoon. I am Jessica Rothman, Professor of Anthropology at Hunter College, where I have been a faculty member since 2008. My research is based in Uganda and focuses on the nutrition and ecology of wildlife, including apes, monkeys, giraffe and rhinos. I am a lifelong New York City resident. I grew up in the Bronx near the Bronx Zoo and the New York Botanical Gardens, with wild animals and plants within them. As an undergraduate I had an amazing opportunity to assist a graduate student in Uganda through a study abroad research experience where I studied wild gorillas. This was as an undergraduate, and that experience changed the entire course of my life.
+
+When I joined Hunter College's faculty I wanted to bring similar opportunities to CUNY students. I am here to highlight my study abroad programs where CUNY students study wildlife and conservation in Uganda. There are two kinds of programs. The first is a winter program where students take a class and receive course credit towards their degree. The second consists of summer research where students work alongside me and my Ugandan colleagues. These programs vary between two and eight weeks depending on the particular program. Many students have participated.
+
+I am not alone. My CUNY faculty colleagues lead study abroad programs and include students in their international research. Students learn to conduct animal behavior research by observing wild monkeys and apes like chimpanzees and gorillas. They identify individual animals and document whether they are feeding, resting or traveling. They learn to identify trees and measure their growth and use GPS units to navigate through the dense rainforest. They work in teams with me, other students and Ugandan colleagues, engaging directly with the scientific method.
+
+They learn about the challenges of wildlife management from field lecturers by Ugandan practitioners. For example, students visit a savannah national park filled with elephants, buffalo and lions and learn about poaching threats as well as human-wildlife conflict. Our long-term collaborations with Ugandan experts and communities are an essential part of these programs.
+
+The students eat many of their meals with me and the Ugandan experts they learn from, and this is often the first time they have interacted on this level with faculty and scientists. They do not usually have these opportunities at commuter colleges. Just before their departure the students participate in a cultural ceremony where a village elder gives them a local Ugandan name. Students develop profound connections with one another and the Ugandans they have met. The impact of international experiences on CUNY undergraduate students is immense.
+
+Students learn about opportunities in several ways beyond campus advertisements. I talk to students who ask me questions in classes or do well on exams. Alumni visit classrooms to speak about their experiences. Students could not imagine that they could be following wild monkeys and apes as part of their degree program, and when they hear other students speak about their experiences and see their photos they are very excited.
+
+No prior experience is necessary, but we conduct interviews to make sure that the student is comfortable being away from their family, is prepared to walk in a forest all day and is willing to have limited phone and internet time. To prepare the students, they are required to attend a three-hour orientation with me in which I cover cultural norms, training on how to behave around wildlife and the expectations and responsibilities while abroad. They also receive a general pre-departure orientation from Hunter's Office of Education Abroad.
+
+For the study abroad winter session program, many of the students self-pay. Some can offset these costs with applicable financial aid or scholarship funding. The majority of the students who accompany me for summer research are funded by a National Science Foundation grant — moneys from the federal government. We have funded 22 students in this way and still have funds for 16 more.
+
+In closing, I will highlight a few student impacts. Chandra Cruz Kerberos was an undergraduate human biology major who was a first-generation student and the first in her family to attend college. After traveling to Uganda in 2019 she applied for and received a very competitive graduate fellowship. She is now a PhD candidate in anthropology and will soon complete her studies. Natalia Gruber was an undergraduate anthropology major who came to Uganda not once but twice. She then completed a master's degree at Hunter in anthropology and moved on to complete a PhD in anthropology at Penn State University. Now she is a genomic biologist at the National Institute of Allergy and Infectious Disease in Washington, D.C.
+
+Camille Stewart was an undergraduate geography and anthropology major who also studied in Uganda twice during her undergrad degree. She then completed a master's degree at Columbia University and is now a scientist at the New York City Department of Environmental Protection. Alysa Smith was a first-generation woman and gender studies major who traveled to Uganda a year ago. She wanted to learn more and received a prestigious language area fellowship to study Swahili in Tanzania. She just arrived back to New York City. Now she is applying for a Fulbright fellowship to return to Uganda. She aims to study international environmental law.
+
+These students demonstrate that the impact of study abroad does not end when the plane lands back home. For many of them, these experiences open doors to graduate education, scientific research, public service, future international work and careers they could not have imagined before having the opportunity to go abroad. Thank you.
+
+**(00:23:34)**
+
+
+
+Thank you, thank you for that. I remember when I was studying abroad I could not get the time right. It was an eight-hour difference. I used to call my mom when it was nighttime and it was day for me, and she would say, "We are sleeping, is everything okay?" And I was like... it was the time difference. I had to adapt really quick. So thank you for that.
+
+We know it works based on your testimony. How can we make it better? How can we expand? How can I support that work? Because I know it works. So that is why you are all here today. This is like a... let us look at what is working, a partnership to expand more of our young people getting to do this. I know what high school students are now going abroad because my son was offered an opportunity to study in Spain, which is amazing. So we can connect the bridge when they get to CUNY. So that is why we are here today.
+
+So according to the report, 87% of higher education institutions in the U.S. say that they anticipate study abroad will increase or hold steady in the 2026-2027 academic year. Is that true for CUNY as well?
+
+**(00:24:40)**
+
+
+
+Sorry, can you please repeat?
+
+**(00:24:42)**
+
+
+
+Absolutely, thank you. According to a recent report, 87% of higher education institutions in the U.S. say that they anticipate study abroad participation will increase or hold steady in the 2026-2027 academic year. Is that true for CUNY as well?
+
+**(00:25:01)**
+
+
+
+I think that there are always various factors going in different directions, and although we cannot predict all of the factors that are coming, I would say that based on...
+
+**(00:25:12)**
+
+
+
+...what we know now, in spite of geopolitical factors of course, I see the trend going at least steady and I would say upwards, particularly at our senior colleges. I think Stephen can...
+
+**(00:25:29)**
+
+
+
+Sure, I can. Where we are, we are just entering application season. Applications around CUNY generally close between the first and the fifteenth of next month. But I can tell you from my colleagues I have spoken to at several of the other campuses, as well as my own Director of Study Abroad, that our applications are up and that we are seeing more interest in going abroad.
+
+I know that I have also spoken to some of my colleagues at our community colleges and they are seeing increased interest. As Kim Holland mentioned, in spite of — I would say because of — geopolitical reasons, students tend to see international activity in the news, they tend to see things happening around the world and they become more curious. So the base question of are the numbers up: the answer is yes.
+
+The question of how do we continue to keep those numbers up — we teach our students more about the world, we get them interested in the world, we show them more about the world. What Professor Rothman is doing here, showing that students can do this and using these examples of students — this was the first-generation student who went abroad, she did it, he did it, you can do this too — I think that is our strongest way that CUNY can increase our numbers. You create incredible messengers who come back to your students and...
+
+**(00:27:02)**
+
+
+
+...share their experiences. When a student gets accepted to a CUNY college, any one of them, is there a study abroad packet? Is there something in their packet to say, "Welcome to CUNY, you have been accepted, and these are the opportunities that we offer in study abroad"?
+
+So that is done on a campus-by-campus basis. The orientation involves written materials but also encounters with people like Stephen. So I think that the answer is that it is more prevalent at a campus like the College of Staten Island, Queens College, Hunter College and several others that are very active in this space. But it really is something that we should take as a best practice and make more common.
+
+**(00:27:53)**
+
+
+
+Yeah, I would like that. If I was accepted to CUNY I would want them to tell me, "Hey, you have the opportunity to study here on campus, or we also offer opportunities abroad." It is a steady, amazing, great program. Nothing beats a hands-on experience for students. I know that for sure. I am sure the students you took to Uganda — this will stay with them forever. Having the opportunity to work and see it in real time, they are not reading it from a book or on a computer, they are living it and experiencing it and seeing the cultures and the norms. I know that makes a difference.
+
+**(00:28:27)**
+
+
+
+My campus admissions folks and I work very closely together, not just on international missions but on domestic ones. We are invited to and attend every open house when recruiting students. We attend every admitted students day, every fair, everything that is open. They ask us to come and bring our literature. We have developed messaging directed to parents so that they are not overly concerned but also so that they are excited about sending their students to CUNY and that they do have these opportunities.
+
+So yes, we have built that into all of our admissions material. We do say, "Welcome to CUNY." We try not to say, "Welcome to CUNY, now go away," but we do say, "Welcome to CUNY, now go away," and we give them that opportunity as quickly as possible.
+
+**(00:29:15)**
+
+
+
+Is there a partnership with New York City public schools to also relay that message? I know sometimes they get automatic letters of acceptance. I know that is something that is happening with New York City public schools. Is there... I believe on Staten Island, as we call it... my admissions team does do that. I know that I get called to go out to some of the schools to give college day lectures, and the real purpose behind that of course is to recruit the students, but I always slide in...
+
+**(00:29:44)**
+
+
+
+I can send you — by the way, we can send you. That is right, okay.
+
+**(00:29:48)**
+
+
+
+Wonderful, I like that.
+
+**(00:29:51)**
+
+
+
+Because the research showed that students who study abroad develop leadership skills and 21st century skills often sought by employers, how many U.S. colleges purposely help their returning students connect study abroad experiences to career readiness activities and job searches? Does CUNY do anything like that through advisers or other means?
+
+So I think you hit on something we would like to do a lot more of.
+
+**(00:30:12)**
+
+
+
+And it is happening at some of our campuses, but I would like to revisit an important set of statistics that Stephen brought up about the sheer number of students that are supported by study abroad staff at our campuses. The focus on advisement and preparation and support while students are abroad sometimes stretches them a bit thin. So it is really the better-resourced but also just the very ambitious campuses — which is one of the reasons I asked Stephen to join us today to highlight some of those practices — that make a really serious agenda possible.
+
+I think another thing that speaks in favor of broadening those types of practices is the fact that our career services offices are becoming much more elevated. There is much more attention to their work and it is a very exciting part of what CUNY is doing, reaching out to those offices and saying, "We can connect our students with you at a very pivotal point in their undergraduate careers when they have a lot to process but need your support," and finding a way to articulate this in their resumes, in their cover letters, in interviews — that is one of the most beneficial things that we can do. So Stephen can give some examples of how this can...
+
+**(00:31:46)**
+
+
+
+...work. I have three specific examples. I hope I can remember all three. The first is that the College of Staten Island and other campuses have been creating advising sheets that walk a student through how they would step through their academic career. We have just revised those. Instead of eight boxes there are now 16 boxes. One whole set of those boxes is on what you can do to prepare to be ready for the workforce when you graduate. We are building into that side of the advising sheet when you can study abroad, when you should be thinking about how to use that study abroad experience and how to bring it forward.
+
+I am also personally connecting with our newest Associate Provost for Student Success, where career services sits on our campus, and we will be working together to connect with our study abroad office for that very reason. Third — that is...
+
+**(00:32:41)**
+
+
+
+...actually four here. Third is we are developing international internships that will be available across CUNY for our community college students and for our four-year students that are overseas. These international internships... and we said these are special students. As you know from your own experience, when you get back you have developed something that other students have not, and you actually need — I do not want to say less support — but you know how to go out and get what you want, you know how to make it happen. As these anthropology students have shown us, they go out and get PhDs, they go out and get those jobs, because they know how to.
+
+**(00:33:26)**
+
+
+
+Not to say that we do not support them through the system, but they are our go-getters. Can I add...
+
+**(00:33:34)**
+
+
+
+...in addition to being a professor in anthropology, I am also the Director of the Human Biology Program at Hunter, and this program has over 2,000 undergraduate students currently. We have been very lucky to have the CUNY Inclusive Economy initiative provide a dedicated career adviser within our program. What the adviser does is she reviews whatever kinds of interests the student has and tries to connect students with internships and jobs within the City. But also when the...
+
+**(00:34:07)**
+
+
+
+...students come back from study abroad, she meets with them. Our other adviser meets with them. We all — I meet with them sometimes depending on the student — and we sit down and we say, "How was your experience? What did you do out there?" The student has loads and loads to say, and then we try to use the information that the student gave us to make suggestions for them and to help craft their resume, to put it on their resume, to identify the skills they learned while they were abroad.
+
+We also put study abroad opportunities specific to what our human biology students might be interested in on our website. They also do get something when they enroll in the major — they get information about what study abroad programs can actually contribute to their degree program, as well as just being a study abroad program. They can also gain credit for actually doing that program within their degree program. So I think it has been really helpful in connecting them to future careers, whether it be in the City or just...
+
+**(00:35:08)**
+
+
+
+...or outside. In the future I was going to ask about the possibility for international internships and mentorships right here in the City too. We have a lot of companies that have footprints in international countries that maybe we should be thinking about for future partnerships.
+
+**(00:35:26)**
+
+
+
+Right here. The fact that that student studied in that particular country, has the norms... and it also develops empathy skills, right? When you experience different cultures you develop a different set of skills, of empathy towards others. So that is great. Thank you.
+
+**(00:35:44)**
+
+
+
+Research studies show that study abroad students were six percentage points more likely to graduate in four years and four percentage points more likely to graduate in six years than their peers who did not study abroad, and further that study abroad students graduated with a higher GPA. If these findings are generally true for U.S. college students, how important is it to CUNY to make an active effort to recruit more students to study abroad? Are these findings true for CUNY, or do you not have an issue — is everybody running to your door to go study abroad?
+
+**(00:36:17)**
+
+
+
+They are not running to our door. How do we recruit very broadly to get the largest number of students to study abroad?
+
+**(00:36:27)**
+
+
+
+We know this is a high-impact practice. We know that studying abroad is good for the students. My colleague has a bit more of the statistics on how many of our students do study abroad and some of those other impacts on whether we follow national trends.
+
+**(00:36:45)**
+
+
+
+Trends — I can tell you anecdotally we do follow those national trends. Nationally, when you ask a high school student if they would like to study abroad in college, you will get about 80% of the students raising their hand. When you ask if they expect to, you will get above 50%. When you ask them when they graduate college if they did, you will get 6-7% of the students. The drop-off is tremendous and it is on us — it is on all of us educators — to build this into the curriculum, to build room for this, to put this into major advising and to show students that it is possible. At CUNY we try really hard to do that by showing the examples of students who have gone before, by fundraising outside, by working on exchange programs. We have a lot of exchange programs. One of our campuses deals with almost exclusively exchange programs and sends hundreds of students abroad that way, allowing students to pay that same CUNY rate at home as they would if they stayed at home, and that has been a tremendous boon. Another campus has partnered with an external organization to give scholarships directly to their students and that also has raised the numbers. So CUNY needs to — each of our colleges needs to — create these partnerships to find ways to make it most affordable.
+
+**(00:38:09)**
+
+
+
+That is probably the number one barrier for our students and behind that it is probably our academic barriers. We can work to lower those somewhat easier, actually, by talking to our departments.
+
+**(00:38:22)**
+
+
+
+But one other thing that works is simply by changing the culture, simply by showing students that it is possible, by showing students that their peers have gone and — although that does require the students to sometimes find those funds — it is amazing, they do, when they realize this is something important, when they realize this is something that helps their life move forward, helps their...
+
+**(00:38:52)**
+
+
+
+Academic career and their professional career — they find the way. Thank you. We have to find a way to keep the 80% hands up.
+
+**(00:39:05)**
+
+
+
+Chairperson Jefferson, just to add something to this — I think there is a measure that we took previously. Each college had its study abroad page. Even some campuses are very generous in opening their programs to students throughout CUNY. It was not effectively available because it required those students to hunt through all of those websites. So we now do have a consolidated directory which, among other things, allows students to focus on programs that are available by permit.
+
+Now I will say I was really proud of this step forward, and now I realize how insufficient it is. It is necessary but it is not sufficient, and here is why. It goes to a mindset issue, which is that the campus faculty can talk about it, but if students do not see their peers on their campus studying abroad, if you cannot jumpstart that, it is going to be extremely difficult — even if you have programs available through a different CUNY campus, even if you can pay CUNY tuition and get your CUNY financial aid. You are going to be effectively a pioneer in your space. Students, we do know, are very much tied to the culture of their campuses and we do have some campuses where we need to do more to support just the beginnings of that culture, so that students understand themselves as really having the right to participate in these experiences and that they are equally relevant for them as well.
+
+So maybe you need to recruit some of the students who went abroad and have them become that credible messenger for you, become that ambassador and tell their stories. Students like to listen to each other. No matter how great we are as educators, they are like, "Yeah, all right, whatever."
+
+**(00:41:02)**
+
+
+
+But if a peer says, "Hey, I had such an amazing time and this experience — you should go, these are the things that I did, this is the path that I took," they will listen to their peers over us. Might I add that...
+
+**(00:41:15)**
+
+
+
+When I arrived, which was about 13 years ago, there was a campaign that had just concluded or was just concluding where I believe they had partnered with the City to create a grant program, to create posters of students. It was a "don't trash the campus" campaign and there were little quotes from all these students — "this is what I say about trash and why you should not litter on campus." I remember that this campaign, as I think about it, was both a kind of partnership between the college and the City to develop these, so it was pretty effective. Students were able to see themselves, students were able to see other student leaders. We would like to copy that type of campaign and I think that is a collaborative thing that we could do across the City — show New York City students taking on the world. We should. And that is one of the things we have always encouraged New York City public schools to do: get the students involved, let them be the voice, empower them. As I said, just like peer tutoring, I can...
+
+**(00:42:28)**
+
+
+
+Teach something very well and students do not take it, but another peer comes in and it is easier. Research studies show that underrepresented minority students see a difference in graduation rate in six years...
+
+**(00:42:42)**
+
+
+
+Of almost 8 percentage points for study abroad students compared to those who did not study abroad. If the findings are generally true, how important is it for the community to make an active effort to recruit students to study abroad? Are these findings true for underrepresented minority students who study abroad? How do we recruit?
+
+**(00:43:01)**
+
+
+
+I have a few statistics on that. So last year, 34.2% of our students who studied abroad identified as Hispanic, 11.7% identified as Black and 4.5% identified as multiracial. White and Asian students made up 27.4% and 22% of our study abroad students respectively. Now we know that that is not well aligned with our overall populations. So 48.7% of our students who study abroad are Pell eligible and unfortunately, at the very low end of the income spectrum, we see that only 1.2% of our study abroad students are, or have at some point in their college career, qualified for public assistance — and that is based on CUNY EDGE data. So we can follow up. We are still getting support from our institutional research team. I would love to provide a little more on first-generation students, which is another angle to look at it through, but I think all of this says we are making some progress here but it is woefully insufficient and...
+
+**(00:44:15)**
+
+
+
+We are very conscious of that fact. I also really appreciated that you highlighted in your opening remarks that community college students should be studying abroad more, and our statistics bear that out. We do in fact have one community college that has been extremely successful with support from an outside organization, but that is not a solution for each of our community colleges and we need to create space for all of them to find their own solutions.
+
+I do want to say I had hoped — and I am still trying to parse through the data — I had hoped to find more evidence of students who transfer from community colleges studying abroad after they transfer as vertical transfer students. So far the patterns I found have not been encouraging, but I think that that specific population, targeting those students and identifying the barriers that face our vertical transfer students, would go a long way towards the access and equity priorities.
+
+How do we get our underrepresented students to want to take that leap of faith, to say "I want to study abroad"? How do we create that opportunity? Whether some of the barriers we will see — is it financial, is it just a fear, is it because they just do not know, or...
+
+**(00:45:36)**
+
+
+
+I think it is — in some cases it requires a little bit of extra...
+
+**(00:45:43)**
+
+
+
+Mentoring and reaching out to those specific students when they express an interest, to identify barriers to participation — whether it be their family, whether it be financial, whether it be that they are worried...
+
+**(00:45:58)**
+
+
+
+About their academics. I think the faculty and advisers can do a good job of that. I also wanted to mention that the four students I mentioned in my testimony are all underrepresented minorities and my program actually seems to represent the student body at Hunter, which is about 70% underrepresented students of color, and that seems to be what my programs have been in the past. So I feel happy that we have been able to attract...
+
+**(00:46:42)**
+
+
+
+Students that would not traditionally go on study abroad. Copying the model — are you talking to each other to see whether some of the best practices can be transferred to other campuses for it to work? Okay.
+
+**(00:46:56)**
+
+
+
+We do. We have a monthly study abroad meeting and we do try to bring those best practices across campus to campus. I will say this is my 37th year in this field. I have been working in the field — the field has been working on underrepresented students for that entirety of the time.
+
+**(00:47:20)**
+
+
+
+Right. When study abroad started in 1966, 1967, those first students who went abroad — they were young women, they were studying languages, they took a boat to France, they spent a year, they came home. Until the 1980s, when we really massified or diversified studying abroad, that is who went abroad. And it remains still mostly women studying abroad, mostly white women who are upper middle income and above. These barriers exist. They have been extremely hard to move the needle on — students of color, students of limited means. There are a number of programs out there: Hundred Thousand Strong in the Americas is a grant program, the Gilman Program and several others that I know all of us at CUNY have worked very hard to achieve those grants to overcome these things. I think CUNY does better than the nation, honestly, in overcoming these barriers for underrepresented students. But this is a needle that is extremely hard to move nationally. Thank you.
+
+**(00:48:31)**
+
+
+
+I would like to recognize — we have been joined by CM Brewer and CM Epstein. What are some of the top countries that you visit? Yes, that is...
+
+**(00:48:49)**
+
+
+
+An excellent question and we have seen some interesting changes over time. Overall, if you look at trends since 2013 — no surprise — Italy, followed by Spain, Japan, China, France, England, South Korea, Germany, Greece and Australia. I do not think that this will come as any surprise to anybody. But what is interesting is that we are also seeing trends where Spain has almost tripled during this period, Italy is down by 23% — that reflects a decrease in the number of families that are first and second generation Italians — but we do still have a very robust CUNY Italy program that supports exchanges throughout our system. Followed by Japan — Japan has gone up to four times in participation. England is up 2.4 times. South Korea is up 5.3 times, which really astonished me, but I think if you look at the cultural surge of South Korea, maybe a little less surprising. We also have a couple of professors who lead very interesting programs — media studies in particular in South Korea — which is very compelling for students. And China is down 78%.
+
+**(00:50:27)**
+
+
+
+I do not think that that is necessarily a permanent trend. We did see, obviously through the pandemic and policies that impacted both Chinese citizens and visitors, some trepidation. But Stephen First can speak to a campus that is rebuilding in that area, and some campuses now look to Taiwan, for example, for their students who want opportunities to learn Chinese language. So those trends tell you a little bit about what students are trending towards. But what I really like about our system is that there is a huge breadth available and that the students are always encouraged not just to think about the locations they are going to but about the academic focus, and to really look at this as not just tourism. It is a very different experience — they will, even five years after they graduate, participate in their host countries in an extremely different way.
+
+I will add again that CUNY bests the nation. Nationwide, England and the UK, then Italy, then Spain, then France — those are the top four and they have been the top four for decades.
+
+**(00:51:46)**
+
+
+
+France — those are the top four. They have been the top four for decades. To hear the statistics where those are not CUNY's top destinations — these are things that we have purposefully done. How do we provide something different for our CUNY students? How do we create programs that reflect the diversity of our CUNY students as opposed to doing what has been done for decades — going to England, going to Italy, going to Spain, going to France? We actually do far better than the rest of the nation and that is something that the community can be proud of.
+
+**(00:52:18)**
+
+
+
+And what are some of the emerging countries that you see students are interested in?
+
+**(00:52:26)**
+
+
+
+We see Morocco, actually. There is a very popular program in Morocco that was developed for CUNY-wide. It is a medical internship program so students spend four weeks...
+
+**(00:52:45)**
+
+
+
+In Morocco. They get up every morning very early — you might want to rethink the chaperoning, okay — and they go on rounds in a hospital with doctors. It is an observational program. They make their rounds through obstetrics, through pediatrics, through the pharmacy and each day they go to maybe three or four sessions of different rounds. They spend time in the OR and they really learn quite a lot. I have two quick stories about two students. One who I visited when she was there and she had just come out of the OR and she showed me her hand and she said, "Look at how steady I am. I was born to be a surgeon and this program just cemented what I want to do." And another student who came back and said, "After this program I never want to step foot in a hospital again." So we are able to, with two students, really set the trajectory of their career with this program. It is very popular across CUNY and it gives students an experience that they just cannot get anywhere...
+
+**(00:53:50)**
+
+
+
+Else. Absolutely — that is why I am championing this. CM Donna, your question. CM Brewer.
+
+**(00:53:58)**
+
+
+
+Thank you very much. It is so important — even the private school students are off to wherever, South Africa in this case. So my question is how do you go about the funding? I teach at Hunter, I see all the signs up — "you can go here, you can go there" — on the bulletin boards, but I worry about who is going to be able to go here and there. So my question is: is there a central CUNY grant for these kinds of opportunities? I remember years ago — I have to say that the Eisenhower and Bush foundations and some of the more conservative, heritage-type foundations have funding that I know some of the public school students have taken advantage of in the past. It is probably not available now and it probably will not exist for another three years. So my question is how do you go about the funding and what can we do in that sphere? Because this does not happen on its own — it is either foreign governments paying, it is the US paying, it is New York, it is somebody, philanthropy, foundations. How do you go about getting that funding?
+
+**(00:55:02)**
+
+
+
+So we would welcome any advice in that realm and we do think that there is a compelling case to be made specifically for CUNY students to have these opportunities. This is something that we think we could also really specify — which CUNY students are not getting these opportunities. As we are all underscoring again and again, study abroad changes lives and that is critical. But we also have to ask ourselves whose lives are being changed and who is expressing interest but having to back away because they realize the reality of financing these opportunities. Stephen First described the vast numbers of students that come into his office and only a fraction of them actually wind up crossing that finish line and leaving. But can we increase the success rate by telling these students that we have resources for...
+
+**(00:56:10)**
+
+
+
+Them. When I worked with David Dinkins I was head of the federal office and I made every single City agency apply for federal money. We got $90 million in the first six months. If you do not apply you do not get it, and they had never applied. So I guess my question is: what is CUNY doing? Because this is the kind of thing that even the more conservative foundations are interested in. So it is not like a political thing — it is "we need to improve America in their view by giving people international experience," blah blah blah. So I guess my question is: who at CUNY is taking the position that we need to apply for every single possible dollar on this front? They are not going to do other things these foundations that CUNY might want to do, but go ahead. That is my...
+
+**(00:56:53)**
+
+
+
+Question. I mean, I was just going to speak from — I am a faculty member at Hunter and I can speak from the faculty experience. We get research grants and we can include students in our international research grants. There are specific grants from the federal government that are for international experiences for students. That is something that I have had a lot of success with. So in my testimony I listed — I do not remember how many here — 22 students so far, with 16 more. But those grants...
+
+**(00:57:30)**
+
+
+
+Are going away. The grants from the federal government are just rapidly depleting.
+
+**(00:57:36)**
+
+
+
+Unfortunately. I was very clear about that. But there are still private foundations — you have to, I am just saying you have to be focused. The feds are not going to help right now, that is clear.
+
+**(00:57:48)**
+
+
+
+Correct. Yeah, the private foundations — this is something they would be interested in, but you have to apply.
+
+**(00:57:54)**
+
+
+
+We are those of us who run study abroad. The study abroad offices — we do talk about what grants are out there. We do use the various tools that CUNY has supplied to find grants. There is a Hundred Thousand Strong campaign that covers North and South America. The IDEAS program, which came out of the U.S. State Department, is still going. Obviously through NSF grants, through private grant programs like the Gilman, for students we do work every day to do so. I think I have applied for five of those grants this past year, and yes, those are specifically designed to lower the cost and to allow our community students to go. I will say that as of last night the federal government rescinded some of that money that makes it easier for me to do my job, and that was $60.4 million gone overnight. We are working on getting that back, but we do lobby for that money. I go to Washington and work for that money, and we certainly apply for as many grants as possible to do so.
+
+**(00:58:58)**
+
+
+
+And it is not easy.
+
+**(00:59:00)**
+
+
+
+No, it is not. But that is the only way to do it at this point. So thank you, Council Member.
+
+**(00:59:05)**
+
+
+
+Thank you. Hello, CUNY. I am wearing my Hunter purple today as a Hunter alum. What is CUNY's goal for study abroad enrollment? For example, an intended percentage of total student body or enrollment figure?
+
+**(00:59:26)**
+
+
+
+That is an excellent question. I think that we have overall goals of growth, but overall growth alone would not be sufficient. We really look at how the participation is going to break down in terms of our students who are traditionally underfunded. We do see some positive trends in the past when programs such as ACE and ASAP have funded their students to study abroad. We know that there is potential there, but we also know that just as we see with advisement patterns where those students in those programs have lower advisement ratios, we have a population of students who are not under the umbrella of any special program and we need to find ways to reach them as well.
+
+**(01:00:25)**
+
+
+
+Your general goal is growth, but you do not have a specific target even within those specific programs, like...
+
+**(01:00:31)**
+
+
+
+Within the SEEK program or the ASAP program, we will increase by a certain percentage or a certain number of students — those goals do not exist at this point. I think that would have to be a conversation with each of those programs. I would like to see a higher participation of the underrepresented groups. And through that — what are those groups? Can you give an example of what those groups are?
+
+**(01:00:59)**
+
+
+
+I think by our vertical...
+
+**(01:01:02)**
+
+
+
+Transfer students are a major group, and that is something the obstacles those students face. In addition to the mindset obstacles that these students often face, we also see them having a greater barrier when it comes to academic integration of these opportunities because they tend to have fewer electives available. That does make it harder to study abroad when you have less room in your schedule, so we need to offer programs that have more courses that fit into their degree plans.
+
+**(01:01:36)**
+
+
+
+So it sounds like you have the concept of a plan for a goal, but...
+
+**(01:01:41)**
+
+
+
+It also sounds like you do actually have a target population where setting a goal would actually be helpful, even in the fundraising element. As the Council Member was referencing, besides asking the Council for money — which we always love to give CUNY — I think setting goals for particular populations lends itself to a better sales pitch for outside funding or even government funding.
+
+**(01:02:14)**
+
+
+
+I can add that I think many of our campuses have goals. I represent the College of Staten Island, and the director there — we do have a goal that 10% of the students who walk across our graduation stage at our ceremony will have had a substantial international experience. That would place us squarely in the top quartile of public education in terms of students who study abroad. That is great. Now we have got to get the other colleges to compete with that. So 15%? Hunter is doing great. We have got a number of other colleges. What we will say is that the senior colleges that benefit from programs like the Macaulay Honors Program and other schools tend to have higher percentages because of some of those programs and because of those student populations. But yes, those are goals, and I think that would be shared by my colleagues across campuses.
+
+**(01:03:07)**
+
+
+
+Okay, somewhere around 10%, again placing us near the top. I would share that...
+
+**(01:03:12)**
+
+
+
+I think having specific goals like 10%, or increasing those goals year after year, would be a step forward in engaging more students in the study abroad program, which is widely recognized as being a positive experience — whether it gets you to be a surgeon or tells you not to be a surgeon. My other question is about the numerous calls — I do not know if numerous, but there have been calls — to boycott all relationships with the nation of Israel. The Chancellor has spoken out against this, I think very forcefully, in the past. I just want to confirm that it is not the intention of CUNY to cease those relationships, that the number of programs and student opportunities with Israel has not decreased. Have the number of programs remained the same or increased over the past four years?
+
+**(01:04:14)**
+
+
+
+Okay, that is an important question and I am glad that you asked it. First, before we address that, I just want to say that CUNY does not approve travel anywhere where we cannot prepare our students to travel safely. So we review every program and we monitor conditions continuously.
+
+CUNY did used to have a program in Israel that was with a number of Israeli institutions, and there was a sunsetting — well prior to current events — that led to this type of pressure. It was really much more about the difficulties in balancing the exchanges with those institutions because Israeli students had less demand to come to CUNY. The way it was explained to me is that many Israeli students are older when they start their university careers and they are much less likely to fit study abroad into what they do. Now we know that many Israeli students do wind up at many very high-profile institutions, but we had a hard time making sustainable exchanges work.
+
+We have efforts to rebuild that, which were interrupted since October 7, but those are merely on pause — they are not ended. In the meantime, as you know, we have many students who, from the beginning, since they were in elementary school, were told that someday they would spend at least part of their time as a college student in Israel. Those students have used our option to study abroad on an independent basis. They do have to go through an additional step of the travel warning waiver petition, which goes through central. We issue a recommendation and the campus provost makes a final decision. So CUNY students have continued to go to Israel for study abroad, even through this interlude, which we hope is temporary.
+
+**(01:06:25)**
+
+
+
+Okay, yes. And if I will just continue — circa 2018 or so, we were aggressive in picking up the pieces of opportunities for students to study in Israel, beginning conversations and agreements with four Israeli universities to ensure that students had broad access. Some of those institutions are actually going to give significant scholarships to community students, upwards of $6,000 a semester to go. That was interrupted first by the pandemic. Then we went back on track to start agreements again, and yet then interrupted again by the war that is currently happening. So because of the State Department warning levels and because of the safety regulations, we have had those on pause. I will say I continue to maintain those relationships. I myself studied at Haifa University in Israel. I go back to all of my colleagues and we talk about when we are going to be ready. We have everything ready to go — all of our marketing materials are ready to go, all of our agreements are ready to go. When it is safe for us to send students, we will absolutely be resuming sending students to Israel through CUNY.
+
+**(01:07:39)**
+
+
+
+I would like to be kept abreast of the numbers and the progress in that outreach. Independent of everything else, traveling abroad has value, especially to Israel — a fellow democracy — but particularly at a time of such polarity in our country. The exchange of ideas and knowledge is important. I want to ensure CUNY does not go on a downward slope but does increase. I will certainly be following up and would appreciate a response back from CUNY as well. Thank you, Madam Chair.
+
+**(01:08:29)**
+
+
+
+Thank you. Thank you so much. CM Dinowitz, just to piggyback off of CM Brewer — we know that cost is a big obstacle for students. Are we thinking about how CUNY can help students go abroad and how do we find money elsewhere, probably through private-public partnerships, to make this happen? Any thoughts on that?
+
+**(01:08:54)**
+
+
+
+From the perspective of being a faculty member, and just from my own department, we have engaged outside funders in private small grants for students, but these are on a campus and sometimes departmental basis. It also depends on the efforts of individual faculty, individual department chairs and individual campuses. But we have taken advantage of those funding opportunities when they come across. Thus the CUNY study abroad...
+
+**(01:09:24)**
+
+
+
+Search engine looks like a great tool for students to use and find study abroad opportunities. How many students use it, how do you gather data on it, and how do you judge whether it is...
+
+**(01:09:34)**
+
+
+
+Successful or not. I think we could do a better job at looking at usage rates. It is a little difficult because we are all in such a concentrated space, so using data about where the users are is not going to show us necessarily which campuses they are from. We made a conscious decision not to create a login requirement so we could see exactly who was there — although that would have given us really granular data and we could have followed up on them. But I think the 16.9% of students who are studying abroad on a permit is an important indicator. Another indicator I would really like to see grow is the number of campuses where students are taking advantage of...
+
+**(01:10:30)**
+
+
+
+We know we have campuses that do not currently have the staffing to support their own programs, but that does not mean that those students should not have the opportunities to study abroad. There are opportunities, but as I mentioned, if there is not a culture on the campus where students see peers taking advantage of those opportunities, you have a really tough time reaching just a sense where students feel like this is something that they should be investigating for themselves.
+
+**(01:11:02)**
+
+
+
+To add to that, we do use a software that runs our application system at the College of Staten Island. Hunter has also purchased that software. After we went through the purchasing process, we were able to help other campuses go through it. So we do share among campuses those experiences and are trying to expand that. That does track students and does track usage. You know, 43% melt between — you know — might happen. So that is one other way that we can go back and target why we are seeing that melt, what are these particular students dropping off for, and how do we address it.
+
+In particular, another of our campuses has developed a very sophisticated transfer credit system so that a student can look at a course overseas and see exactly what it is going to count for back at CUNY. It builds itself every time a new student does a new program. That is being rolled out — I think in about six weeks it is going to be presented to all the other campuses to be rolled out, perhaps to all the campuses. So any student throughout the entire system will be able to — similar to the T-REX system, if you are familiar with that, which is the transfer system used internally mostly within CUNY — this would allow our students to know what they can take abroad and exactly what it is going to count for at home. So we do start to share systems that try to lower those barriers. Thank you.
+
+**(01:12:30)**
+
+
+
+For that. We have been joined by CM Wilson. CM Epstein, your questions.
+
+**(01:12:36)**
+
+
+
+Do you have data on the students who used the study abroad program — their household or family income — and can you break that down about lower-income students going versus higher-income students?
+
+**(01:12:52)**
+
+
+
+I have a little bit of data for you on that. So 48.7% of our students who study abroad are Pell-eligible, and only 1.2% of our students who study abroad are, or have at some point during their college careers, qualified for public assistance. So you see a big difference there in terms of financial need. Those are all students who are very low income, but at the very low end we see a very significant...
+
+**(01:13:22)**
+
+
+
+Barrier. How about students who are in an ASAP or an EOP program? What percentage of...
+
+**(01:13:27)**
+
+
+
+The students are in a kind of program where they are getting some support from the institution? Yes. So ASAP and ACE have also provided significant funding to their students, primarily for participation in specific programs. There is a program that is primarily spearheaded by Bronx Community College. They have been working with an institute in Salzburg, Austria for over two decades, and it brings students there to a castle for a seminar on global issues annually for a week. They offer that now as a sort of a field trip within a spring semester course, so it is embedded in a broader context and they have made that possible for much larger numbers of students. For something more like a semester study abroad for a student who is in SEEK or an ASAP program, what percentage... I would need to get back to you on that. That is a really good question. I would like to know what the barriers might be for that population of students.
+
+**(01:14:45)**
+
+
+
+I am not arguing with you, but I just do not want to put words in their mouth. The other question is — we have paid internships at CUNY now and it has really been a benefit for a lot of the students. For those doing study abroad, are there potential stipends available for students who need financial support? I am wondering what is available for study abroad.
+
+**(01:15:16)**
+
+
+
+So I think there are two answers for that. Just a basic answer first: for a semester abroad, it might be very affordable for a student at a private residential institution because a lot of their expenses simply transfer overseas, and often their host city is much cheaper than New York City. For CUNY students, they no longer can live with their parents or other family members, they are no longer eating with the family, and they also have to sacrifice the job that they are using to pitch in to household expenses. So yes, stipends would be a very important resource for those students. Stephen can provide more texture. Yes — I would point to a few programs that we have. Some of them are exchanges that allow students to pay their CUNY tuition and go abroad.
+
+**(01:16:07)**
+
+
+
+But we also have a program in China, for example, that is now reopened, that is very inexpensive — it is under $1,000 for the semester, room, board and tuition included. So we work to find affordable programs specifically to allow students with less disposable income to do these types of things. It is not...
+
+**(01:16:33)**
+
+
+
+Easy. It is really hard for students to see themselves abroad and to give up that job. Occasionally we are operating in countries where students are allowed to receive some work authorization, and that is also sometimes very helpful. In China, students cannot work, but they can get lunch money and transportation back and forth, which is not bad. In other places — in Australia, for example — a student can work at a pretty decent rate. But it is hard. It is recognized that it is hard. I would just love to be able to see what the data says about the percentage of these students who are making these opportunities available to them, because we know how important study abroad can be. As the Chair pointed out, money obviously is a factor, but we would like to be able to figure out in the context of money what could assist these students in making those choices. Because then I would turn back to the Chair saying we should be having some...
+
+**(01:17:42)**
+
+
+
+Conversations around those possibilities.
+
+**(01:17:44)**
+
+
+
+Especially for a targeted population. Thank you. Thank you.
+
+**(01:17:47)**
+
+
+
+We started having those discussions from the very beginning — how can this Council support and expand the travel and support you? I know folks do not like to talk about money, but money makes things work. So we have got to talk about money. CM Maloney, and then CM Brewer has a follow-up question.
+
+**(01:18:07)**
+
+
+
+I know several CUNY students who have gotten Fulbrights and Marshalls. Do you keep track of those, and how do you prepare students for those? Obviously that gives you the opportunity to travel. Do you keep track? Maybe there are other similar programs — those are the two I know. So my...
+
+**(01:18:24)**
+
+
+
+Office, which is the Center for Global Engagement, overseas study abroad and other opportunities as well. So we are highly engaged in working with our scholarship office, which does the primary advising for those scholarships. We also work closely with our honors programs, both our Verrazano and Macaulay honors programs, which are also great feeders for those programs — the Fulbrights, etcetera. So we do keep track. I don't have the numbers of students, but Ireland has been aggressive. We are now in our fourth year of being a top producer, as a Hispanic-serving institution, top producer of Fulbrights. In 2017 we were the top producer of Fulbrights for our category of schools.
+
+**(01:19:26)**
+
+
+
+The plaques on... What about the other campuses? Do they have you?
+
+**(01:19:32)**
+
+
+
+My campus does have me. Each of our campuses, I believe, does have a scholarship advisor that works closely. I don't know if they keep track with their study abroad offices.
+
+**(01:19:43)**
+
+
+
+I think you are doing a great job. I do think that every campus needs to be a little bit more hard-hitting in applying for these opportunities. I know a lot of the students who get Fulbrights and Marshalls. But it needs to be more hard-hitting, I think. Go ahead.
+
+**(01:19:58)**
+
+
+
+I absolutely agree, and I am glad that you brought up Fulbright and these other opportunities. The way we think of Fulbright and Marshall and...
+
+**(01:20:08)**
+
+
+
+All the Rhodes and all of these is that the students who have studied abroad as undergraduates are the best positioned to compete for these opportunities. So we like to connect out, and we actually met last spring with the scholarships and fellowships advisors to say how can we better connect our returning students with you, so that right when they come back and they are excited and they are motivated, they know who to go to.
+
+Now I will say some of our campuses have incredible resources in this respect and very strong track records. There is not an equivalent point of contact at each of our institutions. So one thing that we are doing right now, because we cannot magically create that equivalent resource at each campus, is for the Gilman Scholarship, which does apply for undergraduate opportunities, we are going to share out information that our colleagues bring back from seminars with the Gilman Scholarship administrator and the Institute for International Education. We are going to share it out with all of the relevant points of contact that we can find, and sometimes that might be a writing center. If there is not a scholarships office, there are people who can support students who ask the question. But we do not want students to be told "we do not do this here," because we absolutely can and we should. We sometimes quietly needle each other to embarrass each other to do better.
+
+**(01:21:39)**
+
+
+
+Well, I think maybe we can work with the chair to do better. I just put all of your scholarships in MUSE, because I am a MUSE addict now, so all of your scholarships showed up and a few more. So put it in MUSE and you will get more. Thank you, CM Brewer.
+
+**(01:21:57)**
+
+
+
+Is there eventually going to be a plan where all community colleges — just a community colleges plan — sit together to see how we can exchange ideas and best practices in having a better study abroad? We talked about the ones that normally would not go on that trip. Is that something that we are thinking about? I think we should bring everyone to the room and let them explain also the challenges they face in doing that work, and see how we can all work together to make sure our students are traveling and gaining new experiences. We heard about leadership skills today. I studied abroad. I was an educator, so it paid off.
+
+**(01:22:41)**
+
+
+
+I think that is an excellent idea. We have tried versions of that in the past. I think the competitive dynamic that Stephen mentioned can be a help or a hindrance, and we have got to harness that correctly. Because as you know, one of our community colleges has been extraordinarily successful in recent years at increasing those numbers. I think that almost makes it look like, "Oh well, you have this resource, you have a million dollars, of course you are doing well." That is not necessarily constructive. The leadership needs to come from within the community colleges, and we simply support it. It is going to be tricky to find a way to accomplish this.
+
+I would like to go back and look at the college that did this. They were also a leader before they got that money, and they were providing fundraising for scholarships. They did not actually provide it as scholarships to individual students — they simply subsidized the cost of the programs that they were developing in-house, and that made it very sustainable. So whether that money is there tomorrow or two years from now really will not be decisive. They are going to be able to sustain strong programming. The question is how can we build that up at other campuses, recognizing that they are standing in a different river.
+
+**(01:24:11)**
+
+
+
+Okay, that does make sense. I know earlier you talked about how you are not satisfied with the demographic breakdown of CUNY students who study abroad. So we know we have some work to do there. What advertising and promotion is done across CUNY campuses? I know we talked about it briefly, but how else do you get the word out — advertisements, brochures? How do they find out? Do you think it is enough? And how come some students are still reluctant to join your program?
+
+**(01:24:43)**
+
+
+
+I think one of the most powerful outreach mechanisms that we have right now is the weekly CUNY This Week. The open rate for that is tremendous. So we have used that and we have noticed spikes with that. We need to do better with that. I have actually had conversations with one of our campuses that is in that situation I mentioned, with virtually no students participating. They are not ready to hold their own study abroad fair, but they did ask about fairs being held at neighboring campuses, which I thought was an incredible place to start. So we are creating those connections and figuring out a good way to build that culture. There are CUNY-wide efforts, but then there are also ways to support individual campuses.
+
+**(01:25:38)**
+
+
+
+To have messaging reach their particular populations, and if there are not peers speaking to other peers, how do you build that up?
+
+**(01:25:46)**
+
+
+
+I can answer for my campus. If there is an outlet, we are using it — Facebook, we are using MUSE, we are using posters, we are using fairs on campus, we are using email, we are using Navigate, we are using RAVE if they want to use the text system. You name it, we will use it. We are of the opinion — the old adage was that you had to tell somebody something five times in three different ways — we go for 15 in 10 different ways. We feel that our students need to constantly hear this message, and hear it from the beginning, and hear it from day one or even before that, that they can do this. That is our message: you can do this.
+
+One of the things that is always interesting about advertising study abroad is you are competing against Coca-Cola and Sprite and the latest movie, and you are competing against flash and exciting things. But you are trying to sell an academic program. You have to sell it both as exciting and fun, but you have to make sure that you hold dear to the academics. That makes it tricky — you get a student super interested in going to an exciting place, and then when they get there, make them study.
+
+**(01:27:13)**
+
+
+
+And they can find Coca-Cola and Sprite abroad too. That is what we say. I hope you say that. Is there...
+
+**(01:27:21)**
+
+
+
+Has CUNY set a goal to see how many students it can enroll for study abroad? Is there a goal that you are setting — that you want to get a particular amount of students to study abroad? Is that something you are working on?
+
+**(01:27:37)**
+
+
+
+So it is a fair question. CM Dinowitz, I think we need to come back to that. But I would like to say that although numeric targets are important, in some ways they are always looking around the corner at the next term or two or a year or two. I really like an approach which is also informed by looking down the road at who is coming to CUNY as a place where they are going to have these opportunities. To that end, I think, although it is small scale, there is something that Professor Rothman has done which I think has planted some amazing seeds, and I hope she can speak to that now.
+
+**(01:28:25)**
+
+
+
+So I have gone into some middle schools to talk about the experiences that students who have gone abroad have had — speaking in some middle schools to tell students about chimpanzees and gorillas and all the different experiences that they have had. The students are really thrilled about it. We also host high school students in our lab so they learn about the research that we do and all the opportunities that they can have. I think that has been really nice, and also fun for me to go back to the school that I went to to show them what I have done...
+
+**(01:29:04)**
+
+
+
+...and what they could possibly do. But also hearing from the students who have been abroad, and learning from them. I just want the study abroad experience to come into the classes that students take for their life science requirement. "I went and I saw a wild chimpanzee and I collected data," or "just this winter I went and I saw a lion." All the students are like, "What?" And they show a picture. I mean, I think...
+
+**(01:29:34)**
+
+
+
+...it is a really effective way of just recruiting students. A hundred of our students went...
+
+**(01:29:42)**
+
+
+
+...studying abroad. But I know that that...
+
+**(01:29:44)**
+
+
+
+...cannot be a CUNY-wide thing.
+
+**(01:29:47)**
+
+
+
+Thanks. Well, thank you. Does CUNY offer study opportunities outside of New York City, in other parts of the US, which would be considered domestic study abroad? Is there any opportunity for students to study in other states?
+
+**(01:30:00)**
+
+
+
+There is a program administered by Queens College for domestic study away. I do not have numbers on current participation because, although all of the campuses send their data on study abroad to my office, they are not required to include data on domestic study away. But I can get that for you.
+
+**(01:30:25)**
+
+
+
+Okay. Do you have any examples of where they go?
+
+**(01:30:29)**
+
+
+
+It has been a while so I do not, but it is a fixed set of universities. It is very much based on the same model as our exchange programs, so students are going to consistent institutions that are used to having our students and that we know have a good track record of taking good care of them, and that we also receive their students. So it is also based on tuition reciprocity. It is a very streamlined way for students to broaden their experience while they are undergraduates.
+
+**(01:31:00)**
+
+
+
+Once you perfect the system — because I hear across the board that you are looking to perfect this — do you plan to expand the overseas study abroad program?
+
+**(01:31:09)**
+
+
+
+I think expansion... I would say I would like to think that the range of programs that we have is always going to evolve and respond to current opportunities, and that will also involve some programs where there is either not enough demand or safety in that area over a period of time. I will say in a previous position I used to send students regularly to Mali. There were incredible opportunities — it was a visual and performing arts program. You could never do that now. So you have to find other opportunities and grow those opportunities.
+
+I think the interest now in programs in Morocco is in part a reaction to the problems of sending students to other locations in the Middle East. We know that Hunter College, which has a very strong Arabic language program, has really struggled to find opportunities for its students, and they have been investigating opportunities in Morocco because there are programs that have not been feasible for a while elsewhere.
+
+**(01:32:22)**
+
+
+
+All right, so we have work to do. This Council has to support expanding — we want to see that opportunity. I know CM Epstein and some of my colleagues, we talked about one system and how can we expand, how can we allow every New York City student that comes through your doors to experience what it is like to study abroad. We would love to work in partnership with you. You have a partner in this work. I knew it was important for me when I did my study abroad, and that experience really changed the trajectory of what I wanted to do. So I think CUNY has a great opportunity to do that with our students.
+
+So we have to find money, right, CM? We need money. Thank you all, and I look forward to... I am going to reach out and give you my email. Do any of your travel abroad programs do anthropology work anywhere other than Uganda?
+
+**(01:33:33)**
+
+
+
+I actually travel to other places, but not with students — to study apes. But other people in my department do additional anthropology work...
+
+**(01:33:46)**
+
+
+
+Specifically...
+
+**(01:33:46)**
+
+
+
+...in Iceland and Madagascar. So we need you...
+
+**(01:33:50)**
+
+
+
+...here in New York. I told you I want to create a pipeline for young students to do anthropology, bio-anthropology study, as we continue to discover more and more African burial grounds in the city. I told you I have one in my district that I am looking to create a pipeline through CUNY to study. Mine is significant — it was there since 1600, the city built on it twice, it was desecrated. So now we are looking to memorialize it, but we also want to make sure we are testing the soil and finding out what was there before, similar to the one they just found in Harlem and the one in Cortlandt. So we want to make sure that the anthropology work and the pipeline comes from CUNY. I am looking forward to talking to you and creating a partnership and a pipeline for young people to know that this career, this field, also exists. That was one of the things — when we talk to young people they say, "Well, I did not know that was a career."
+
+**(01:34:45)**
+
+
+
+Yeah, I think that would be wonderful and I think the students would really enjoy participating. I know that other CUNY anthropologists would be interested for sure. So let's...
+
+**(01:34:56)**
+
+
+
+...let's have a conclusion. Thank you so much, thank you very much, and this concludes our amazing hearing.
