@@ -1,0 +1,686 @@
+New York City's 311 System
+Committee on Technology · September 30, 2026 · 1hr 34m
+Source: https://hearinghearings.nyc/hearings/committee-on-technology-new-york-citys-311-system-2026-09-30/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260930-131436.mp4
+
+================================================================
+
+(00:00:03)
+
+Good afternoon and welcome to the New York City Council hearing for the Committee on Technology. At this time, as a reminder, please put devices on silent. At no time should anyone approach the desk. If you wish to testify, please see one of the sergeants at arms. Chair, you may begin.
+
+(00:00:31)
+
+Good afternoon everyone and welcome to our oversight hearing on 311. I am CM De La Rosa, Chair of the Committee on Technology. Today we will be discussing New York City's 311 System. New York 311 is New York City's 24-hour, seven-day-a-week non-emergency services connecting New Yorkers and visitors with City government, providing necessary information and taking complaints. Launched in 2003 as a centralized telephone call center, 311 has evolved significantly over the past two decades, expanding the ways in which the public can communicate with the City as technology and public expectations have changed. Today 311 handles millions of interactions each year through phone calls, text messages, its mobile application and website, providing assistance in more than 175 languages. As the largest 311 system in the country, NYC 311 plays an essential role in making City government more accessible and responsive to the people it serves. New Yorkers rely on 311 for a broad range of issues, from questions about parking regulation and sanitation services to filing complaints about heat or hot water in their building. In many instances 311 serves as a starting point for resolving an issue by directing a complaint to the appropriate City agency for action.
+
+Today 311 is more than a customer service system. The information generated through millions of service requests provides an important source of data for City agencies, elected officials, researchers, advocates and members of the public. Through the City's open data portal, the data can help identify patterns in service delivery, inform discussions about allocation of resources, highlight community needs and reveal areas where the City may be improved. Given the central role 311 plays in the day-to-day functioning of our City, we must continually examine how the system can be improved and modernized. 311 should serve as a tool for accountability and communication between New Yorkers and local government.
+
+Today we will be considering three Bills intended to improve New York City 311 and the services it provides. Int 0173-2026 by CM Dinowitz, in relation to the use of global positioning system coordinates for 311 complaints and service requests. Int 0669-2026 by Deputy Speaker Williams, in relation to referring 311 non-emergency traffic conditions to the transportation bureau of the police department. And Int 0800-2026 by CM Hanif, requiring the 311 customer service center to redirect requests for services or complaints to the appropriate agencies. We look forward to hearing from the administration, advocates and members of the public about these Bills, as well as broader opportunities to make 311 more resilient, accessible, user-friendly and effective for all New Yorkers.
+
+I would like to thank the committee's staff policy analyst Eric Braun, legislative counsel Erina Babakob and Chief of Staff James Burke and Heba Emad for working on and putting this hearing together. I would like to recognize Technology Committee members CM Won and CM Gutiérrez. We have also been joined by CM Dinowitz and CM Hanif. I will say there are more than 15 other Bills that we are not considering today on 311, so even though we are light on folks today, I want to be sure to emphasize that 311 is an important issue that this Council cares about. Specifically, there is a lot of legislation to try and make it work a little better. I will now turn to CM Dinowitz to deliver his opening remarks. And also, we were not sure who you were going to call first. Oh, I am sorry.
+
+(00:04:26)
+
+Thank you, Chair, for the hearing and for hearing us. One of the most pressing issues our City faces, one that rises to the top time and again, is quality of life. I am often reminded of this because during COVID, during the height of when there was fear surrounding all of us, I was doing — before I was in office — wellness calls to our older adults. I started these calls expecting to hear the tragic stories of people losing loved ones, being afraid to go out to get eggs and milk. But the vast majority of my calls were really about quality of life: about the noise, or about the cracks in the sidewalk. They wanted to go out for a walk and the cracks in the sidewalks were preventing them from safely doing that, or illegal dumping. I think about this because at the height of when fear and death were permeating our City, quality of life still rose to the top as a critical issue for many New Yorkers. Quality of life speaks to our ability to live with safety and with dignity in our own City. Streets rife with potholes, hydrants that are running and wasting water, darkened streets due to broken street lamps, flooded homes due to blocked sewer lines, broken fences in our parks — these are just some of the quality of life issues that, if not addressed, impact the safety and quality of life and dignity that we cherish so much here in New York City.
+
+Of course we have 311, a system through which New Yorkers can report and address our quality of life concerns. But we know 311 is in need of improvement. Today we are discussing my Bill, Int 0173-2026, which will require 311 to use data to pinpoint exactly where a constituent wants to report their issue. Time and again, constituents call my office because 311 was used but the City agency either could not find the location or went to the wrong location. We had a missing hydrant reported but DEP repaired a separate hydrant down the block on a service road in my district. A constituent was unable to file a 311 complaint because the stretch on the service road has no street address. Lights on an overpass in my district were out because there was no address on the overpass. The constituent called 311, the report was logged manually and three months later the lights were still out, and when there was follow-up done, it was not fixed because the location could not be found. A constituent who reported a blocked sewer line had to describe it as a hundred feet from his house toward the direction of the sewer plant, which is hardly an efficient way to describe a location. Bell Tower Park in Riverdale had a broken sidewalk and the constituent had to use the nearest address, which is not really close to the bell tower. There are obviously more cases in my office alone. Each of us in the Council has dealt with similar issues.
+
+Countless New Yorkers who have not called our offices have dealt with this issue time and again.
+
+As New Yorkers, we deserve a more responsive and efficient experience with our government. If 311 is the vehicle by which New Yorkers address their quality of life concerns, we must ensure that it is as efficient and responsive to the needs of our constituents as possible. Adding precise location capability would allow for that to happen. Int 0173-2026 would allow for that to happen. Thank you, Chair.
+
+(00:08:13)
+
+I now turn to CM Hanif for her opening remarks. Thank you, Chair De La Rosa. Today I am here to speak in support of my Bill, Int 0800-2026. This legislation would create a clearer, more transparent way to track complaints about conditions in our City jails. Currently, when someone in a City jail has a complaint about the conditions of their confinement, there is not a clear public-facing system for tracking that complaint from submission through resolution. Without that transparency, it can be difficult to know whether a complaint was received, whether it was referred to...
+
+(00:08:48)
+
+...the appropriate personnel, or whether the underlying issue was ultimately addressed. My legislation would require the Department of Information Technology and Telecommunications to establish a dedicated 311 service request category for complaints and service requests related to conditions in City jails. It would also require the City to publish records of those requests and provide updates on their status. This legislation is fundamentally about accountability. A transparent system for receiving and tracking complaints can help identify recurring problems, ensure that concerns are directed to the appropriate personnel and provide the public with greater visibility into how these issues are being addressed. Everyone in our City deserves to be treated with dignity, including people who are incarcerated. I believe this legislation is an important step toward greater transparency and accountability and toward ensuring that our City jails are humane and habitable. Thank you.
+
+(00:12:21)
+
+Thank you. Good afternoon, Chair De La Rosa and members of the City Council Committee on Technology. My name is Joe Morrisroe and I am the Deputy Commissioner of New York City 311. Over the last 20 years I have overseen New York City 311's transformation from a call center to the multi-channel, multilingual platform that it is today. I am pleased to join the committee today to discuss our operations, highlight our recent successes and discuss today's proposed legislation.
+
+As you know, NYC 311 connects New Yorkers with government services and information with the highest possible level of customer service. 311 is available 24 hours a day, seven days a week, 365 days a year through multiple channels including the call center, online portal, text, mobile application and social media. Originally launched as a call center, New York City 311 has evolved into the most comprehensive municipal government customer service platform in the nation. 311 received 37 million customer contacts in 2025 and on an annual basis receives more calls than all U.S. cities combined. I am also pleased to share with the Council a recent report by an independent third party on the public's satisfaction with New York City 311. Call center representatives received a customer satisfaction rating of 93% and 90% of the respondents stated they are likely to recommend 311, which outperforms best-in-class private sector companies. The level of public satisfaction is a testament to the dedication and commitment of the New York City 311 team that serves their fellow New Yorkers every day.
+
+311 provides information and services to the public. With few exceptions, interactions result in one of the following outcomes: the customer has an information request such as a garbage pickup day and the information is provided; a customer is referred to an external entity, which can include a utility or a state or federal agency; or a customer's inquiry is submitted as a service request to the designated agency and a confirmation tracking number is provided. We rely on our collaborative relationships with each City agency to build out service request forms and information pages, which we also call knowledge articles, that properly reflect the mission and services for each agency or office. 311 does not create service requests unilaterally. There must be an agency that will accept the request, investigate and, if applicable, undertake appropriate action or resolution. Once a service request is submitted through New York City 311, it becomes the responding agency's responsibility to address and respond. When an agency decides that amending a current service request or adding a new one is necessary, it contacts 311 to create, test and deploy a service request. Agency feedback partially informs the updates we implement to the entire 311 platform. User feedback is also extremely useful to us, which is why we deploy customer surveys that inform the Resolution Satisfaction Dashboard, which goes by the acronym RSAT, which is available on the City's website.
+
+We also value the input we receive from Council members as frequent 311 users and I am happy to continue the conversation.
+
+I will now turn to the legislation associated with this hearing. Int 0173-2026 would require the use of global positioning system coordinates for 311 service requests. We agree that our user interface would be improved with the capability to capture a user's coordinates with the familiar pin drop that many location-based applications use. Currently, 311 service requests collect coordinates — latitude and longitude — based on the customer enabling location services on the mobile app or on the website and the customer confirming the address that is identified. If location services functionality is disabled, 311 collects latitude and longitude based on the address entered by the customer. We have been exploring how our geo-locator service could collect latitude and longitude based on a pin drop, then identify the address in the format required by the agency based on the service request — for example, an address, an intersection or a block face. I am looking forward to working with the Council to find the best path forward for this enhancement. Int 0669-2026 proposes to refer 311 non-emergency traffic...
+
+(00:17:12)
+
+Condition complaints to the transportation bureau of the police department. As I noted above, we work with each agency to develop service requests to work best for the customer and agency policies and workflows that support their responsibilities. For the types of complaints listed in this legislation, the protocol is similar. If a customer describes an emergency condition in progress, the call is transferred to 911. A call describing a non-emergency situation will generate a service request that is routed to the appropriate NYPD precinct.
+
+NYPD has determined that this is the course of action to occur for such complaints. While New York City's 311 System is capable of changing the way such complaints are routed, neither DOT nor 311 can comment on the merits of the proposal, as the underlying policy and procedures belong to NYPD. My colleagues at the NYPD have told us that they believe many of the calls contemplated by the Bill should be routed through 911 and that many would call for responses from other bureaus within the department. Therefore I urge the Council to discuss this proposal directly with the NYPD, who would be happy to meet with the sponsors.
+
+And finally, Int 0800-2026 would require New York City's 311 System to redirect service requests to the appropriate agency. While a vast majority of service requests are appropriately assigned and routed to agencies, there are some exceptions that it appears this legislation is seeking to address. A common example is when a customer reports a street cave-in. The Department of Transportation, or DOT, initially investigates reports of cave-ins, determines who is responsible for restoring the roadway, and then refers the cave-in to that agency or utility for repair. Information about the agency or utility responsible for repairing the cave-in will be available within 10 to 20 days. That said, I do understand the customer's frustration when this occurs, which is why we have been identifying solutions for these kinds of scenarios. I am happy to talk you through how we have been thinking about implementing solutions to this problem and align on the best next steps to make this process better for New Yorkers. In closing, on behalf of the dedicated team at 311, thank you again for the opportunity to testify today. I will now take Council members' questions. Thank you so much.
+
+(00:19:38)
+
+For your testimony. I just want to say 20 years is a long time of service and we are looking forward to this conversation. As I mentioned, there are a ton of bills that the Council wants to pursue around 311 and I think you know what said it best, my neighbor to the north, that our constituents are often calling us about quality of life issues. You know, 93% — I think you said satisfaction rating — is impressive. It does not feel like that on the street. I feel like we get the brunt of folks telling us that service requests are being closed and not being fixed. I know that there is a process here, so we hope today to dig into some of those questions. I know we have been joined by my colleague from the Bronx. I am going to ask a few questions about staffing and then I am going to open it for committee members for questions and then I will come back. But what is the current head count at 311?
+
+(00:20:41)
+
+The budget head count is 248 call center representatives — we use the term CCR — and those are the folks who are on the front line answering calls, so those are the call center operators. 248, yes.
+
+(00:20:55)
+
+And how many work on the 311...
+
+(00:20:58)
+
+Website? We do not have any call center representatives on the 311 website. It is actually supported by folks at 311 as well as the broader team. I can come back and come up with a figure because it is work that is done by different people and it is part-time work, so I do not have a single answer for that. But it is something we could estimate for you.
+
+(00:21:21)
+
+If you could come back to us about the 311 mobile...
+
+(00:21:26)
+
+That would be similar to the website, where there is a group of folks both on what we call the business side — the 311 side — as well as the application side.
+
+(00:21:33)
+
+We had a number of 10 people.
+
+(00:21:38)
+
+I can check that accuracy. OK.
+
+(00:21:41)
+
+Text messages — same.
+
+(00:21:43)
+
+I appreciate that question because I can give a little bit more context on that. The text messages are handled by the same call center representatives that handle calls, so that is part of the broader call center representative group.
+
+(00:21:58)
+
+And then, is that process — the text messaging process — automated, or are people manually replying to text...
+
+(00:22:03)
+
+Messages? Thank you for that. They are manually replying. When someone texts 311 — which you can do by texting 30622 — that request is going to be served by a person, by someone who works at 311 as a call center representative.
+
+(00:22:20)
+
+Is there a plan to automate the process?
+
+(00:22:23)
+
+We have looked at different plans that would automate that and would serve the customer better. For now, though, the Q&A — as we call it — serves very well for customers. We get very good quality scores and customer satisfaction scores in that area. There is that element of back-and-forth questions, so the customer knows that they are dealing with a representative as opposed to perhaps an automated assistant.
+
+(00:22:50)
+
+Are there vacancies at 311 right now?
+
+(00:22:52)
+
+Currently, as of this week, there are 53 vacancies in the call center representative position.
+
+(00:22:59)
+
+Do you know what the starting salary is?
+
+(00:23:01)
+
+For call center representative? Thank you for that question. Yes, I do. It is $40,600 a year.
+
+(00:23:07)
+
+More than paraprofessionals. Did the number of call...
+
+(00:23:13)
+
+Takers change in the last two years? Over the last two years the budget headcount has been 248. That has been...
+
+(00:23:21)
+
+Consistent. OK, it is consistent. And what about...
+
+(00:23:25)
+
+Outsourcing? Are call takers outsourced? Thank you for that question. The 311 call takers or call center representatives themselves are not outsourced. However, the agency has a contract with an overflow vendor that is based in Brooklyn to handle calls. The vendor is King Teleservices Inc. — K-I-N-G Teleservices.
+
+(00:23:52)
+
+And then you said — so that is for an overflow, if the number is higher than capacity?
+
+(00:24:00)
+
+Correct. So we use that vendor as what we call our overflow vendor. They are trained to do the same work that the City's 311 call center staff does.
+
+(00:24:10)
+
+And when is that overflow triggered?
+
+(00:24:13)
+
+So they actually operate in a steady state, so they take calls every day. In that way there is always going to be someone there. The vendor serves as one of our backup locations — basically our continuity of operations plan. So if something were to happen, that vendor is kind of hot and ready as opposed to having to stand them up, so they are in effect every day.
+
+(00:24:37)
+
+Are the folks who work for the vendor paid the same as the City...
+
+(00:24:45)
+
+Workers? I appreciate that question. I do not have the answer on how much they are paid. The City has a contract with the vendor. We pay what we call a production hourly rate, so that is the information we would have. The vendor as a private company would work that arrangement with their employees.
+
+(00:25:03)
+
+Was the contract... The contract term — we have information that the contract term was ending in February 2026. We are now in September 2026. Was the contract renewed with King Teleservices?
+
+(00:25:17)
+
+That is a very timely question. Thank you. The current contract they were in was extended last year for the period of 2026 through February 28 of 2027. There is no further extension on that. The expiration date is February 28, 2027. Correct. The current end date of the contract we are under ends — I am sorry — February 28, 2027.
+
+(00:25:47)
+
+OK. And what is the contract value? Do you know the contract value? I would have to get back to you on the exact figure. The...
+
+(00:25:54)
+
+Contract has had different iterations over the years, so I would want to zero in on what the current one is. OK. All right. I am going to stop there for now. I have a lot more questions but I want to open it to Council members.
+
+(00:26:08)
+
+So what the...
+
+(00:26:10)
+
+The statement I read was for a different 311 bill. There was some confusion as to what was on the agenda. Anyway, sorry. I have a different bill that is going to be in another committee for people who are incarcerated. This one I do not have questions on. I do have an oversight question. I am now Deputy Commissioner. So the new regulations around 311 and homelessness — can you explain that to us? Because I will tell you that in my district there is confusion as to exactly what it is.
+
+(00:26:50)
+
+Sure. Well, thank you. I appreciate the question and I appreciate the clarification on Int 0800-2026.
+
+(00:26:55)
+
+Thank you. Int 0800-2026 is fine. Well, we could do that. OK. Thank you. With respect to the question...
+
+(00:27:02)
+
+On the homeless handling and the NYPD, I can speak to the 311 piece where we play a role. We intake from our customers' requests, which could be a call, they could use the mobile app, or they could go online. Then our job is to get that request to the responding agency. In this case, as of recently, the responding agency for an encampment request — which I believe you are referring to — yes, it does route now to the Department of Social Services exclusively. Exclusively, right?
+
+(00:27:33)
+
+Thank you. Yes, exclusively. OK. And other 311 calls in terms of people that are homeless on the street, other than an encampment?
+
+(00:27:45)
+
+That still goes to NYPD. For other calls, we typically refer to what is known as a homeless outreach assistance or homeless service assistance. So if it is more of an individual in need of support services, those currently go — and I should say have gone — directly to the Department of Social Services. So those, there has been no change in that. Those continue.
+
+(00:28:11)
+
+OK. My questions are more for NYPD now because that is your role, so that is fine. Let me ask just one question: is there a definition of what an encampment is?
+
+(00:28:30)
+
+Thank you for that question. We do provide information both for the call center rep and on our website that kind of defines what an encampment is. Can you share that with your committee? We could. Thank you. I can do that and we will get back to you. That would be very helpful because we do get questions like that.
+
+(00:28:47)
+
+All right. Thank you. That is all the questions I have. Thank you. Thank you, CM Dinowitz.
+
+(00:28:53)
+
+Thank you. Thank you for coming and for your testimony, Deputy Commissioner. I want to ask first about the...
+
+(00:29:03)
+
+Location. On April 25, 2024 — you can remember back that far — you had testified that 311 is exploring a new geolocator, ESRI, which is what you referenced in your testimony today. The service will take a step further and collect latitude and longitude to identify the address in the format required by the agency based on service reports. So I just want to make sure that is the format that is being used.
+
+(00:29:30)
+
+Now. Thank you for the question and the background. I appreciate the date reminder. Yes, that is the current state that we are in.
+
+(00:29:37)
+
+Now, so this is different. I want to just explain the difference between what you are describing in your testimony about using geolocation to find an address and the actual problem that so many of our constituents are facing, which is that latitude and longitude does not always line up with an address. So what steps is 311 prepared to make to actually use the geolocation not necessarily tied to an address but to coordinates, much as you would if you are getting an Uber or a Lyft?
+
+(00:30:12)
+
+Again, the context around that is helpful. That is the work that we are doing. The work that I referenced in the opening statement — that is the work that we are continuing with our partner ESRI, you used that acronym — to determine how we can do that for the public side, for the customer side, but then also be able to collect that and pass it to the agencies in the format that they need. So that is the crux of the work that is...
+
+(00:30:34)
+
+Underway. OK. But just to be clear, essentially you are supportive of the Bill?
+
+(00:30:38)
+
+We are supportive of the pin drop locator. If it is good enough for Uber, it is good enough for a New Yorker. I do have one other question.
+
+(00:30:52)
+
+In your testimony you said you are pleased to share with the Council a report by an independent third party on the public's satisfaction with 311, showing a customer satisfaction rating of 93%. A little while back I passed legislation that required customer satisfaction surveys at the end of calls, or allowed people to fill those out online. In your internal surveys, the customer satisfaction — I am just looking at it now — is 33% strongly agree or regularly agree that they are satisfied. Can you explain the discrepancy...
+
+(00:31:35)
+
+Between the system that we enacted per law and this outside firm that you hired for customer satisfaction? Yes, I can. Hopefully. So we will start — there are two sides, so to speak. I will start on the information that I shared. The customer satisfaction survey that we do is through the Resource Group Inc. — that is their name. They are the leaders in American Customer Satisfaction Index survey science. We have been using them for several years. It is a really nice independent approach to having someone contact customers who have interacted with the 311 call center. It is a pretty robust survey with multiple questions and a statistically valid response rate. That methodology is what evaluates how the customer feels about their experience with the 311 call center representative.
+
+(00:32:27)
+
+OK. So I just want to be clear: they represented themselves as measuring satisfaction with the interaction with the representative, not necessarily their satisfaction with the way their service request was fixed or not...
+
+(00:32:40)
+
+Fixed. That is fair. I will amend it just slightly: the experience with the representative themselves, but also the whole 311 experience — having the conversation, whether the rep is polite and professional, all of that. That is what that...
+
+(00:32:54)
+
+Score is for. Good. And I think that is an important clarification. You hire great people who have very good interactions, and at the same time people's quality of life concerns only show a 35% satisfaction score in terms of really being addressed in a meaningful way. That was the purpose behind that previous legislation — to make sure there is transparency around how the service requests are being handled not by the call service person but really by the agency, and whether the problem itself was fixed. Both things could be true at the same time: that the person on the other end of the line is great and the agency did not live up to the standards we expect. So that was the previous 311 bill that I passed that I think really sheds a lot of light on this. This other one going forward — the location piece — is going to make life a lot easier for New Yorkers, maybe even get that satisfaction score on your website up. All right. Thank you, Chair.
+
+(00:33:52)
+
+Thank you so much.
+
+(00:33:54)
+
+Good points. I pass it on to CM Riley. Oh, and you have been joined by CM Hanif as well. CM Riley, thank you so much.
+
+(00:34:06)
+
+Chair, and thank you so much, Council member. I have another hearing I have to run to. Deputy Commissioner, it was great seeing you and hearing your presentation. Just to follow up on my colleague from the Bronx, CM Dinowitz — with respect to service requests marked closed, that does not necessarily mean that...
+
+(00:34:21)
+
+The problem has been fixed. We are hearing from many constituents that come to our office that they will put in 311 complaints and then miraculously it is closed but the issue is not fixed. So does the City have any performance measures that assess whether 311 requests are being resolved?
+
+(00:34:42)
+
+I can actually leverage CM Dinowitz's previous update to provide some context around that. As I mentioned, we do have the front-end survey which I described. But the survey that CM Dinowitz mentioned — we have a shorthand for it, we call it the resolution satisfaction survey — that gets at what you just asked. When a customer submits a service request to 311 and provides contact information, typically an email address, after that service request is closed a survey is generated to that customer. It can be a one-question answer or three-question answer. Basically it comes down to: were you satisfied? If the answer is no, it gives them an option to explain why. That is then collected and posted on the City website under what we call the satisfaction dashboard. That is what CM Dinowitz was referencing.
+
+(00:35:40)
+
+Thank you. Repeated complaints about the same location or issues can be a signal of persistent service failure, where visual case closures do not address the underlying problem. Aggregated 311 data could help agencies identify patterns and take preventative action. Can the City identify patterns across individual 311 complaints — for example, repeated reports of illegal dumping, street lights out, or dangerous traffic conditions? Is there any way that you could use that information to prompt agencies to take action in their responses?
+
+(00:36:12)
+
+Thank you for that. I appreciate the question and I can talk to that a bit. I will do the 311 side first. So all complaints are captured, right, and then the vast majority of those complaints are available on what is known as Open Data, which then allows you to do location information — you know, a borough or a zip code, but right down to an address. So that is the City as well as the... can track that to understand what is repeatedly there or if there is a common trend or anything to that effect. That information also goes to each agency that accepts the service request. So while I cannot speak to the agencies' tools and practices in terms of how they identify not only their workflow but in this case their repeat or recurring locations, the information that 311 provides is there. OK, thank you, Deputy.
+
+(00:37:02)
+
+Commissioner, 311 was an amazing asset to everyday New Yorkers and I think, you know, our constituents utilize it. So just making sure that it works a little bit more efficiently is something that we are always trying to get towards. So thank you for your testimony today. I am looking forward to continuing to work with you. Thank you. I appreciate that. Thank you.
+
+(00:37:19)
+
+CM Gutiérrez: Thank you, and good to see you. I just have a couple of questions. One ties into a topic the Council heard earlier today in the Women and Gender Equity hearing. Just curious, from your side, the Office of Community Safety is now the umbrella office that is kind of folding in a bunch of other offices, one of which is the Mayor's Office to End Gender-Based Violence. I had asked earlier today in the hearing, because of this new classification, they are essentially still working out what the new office will look like. If they have communicated to 311 about what a call would look like now, serving under not its own separate office but under a whole other office, and whether or not that would place a delay on a call center representative — potentially, if they are in the know or not. So I just wanted to ask you: how up to date are you on this office consolidation? Is there any reason for, you know, a two or three second delay in a call center representative potentially redirecting a call now that it is not a standalone
+
+(00:38:33)
+
+office? Great, thank you for the question, and especially for the timely update this morning. I can speak to the first part of your question, which is essentially have we been in touch — I think I can frame it that way — and the answer is yes. We have actually had the office come to 311, and as you know from the location, we have not only had them on site to see our operation but have started discussions about the work that they are doing, how 311 can help and inform that work, and how we would be a vehicle if...
+
+(00:39:04)
+
+...you had the Office of Community Safety.
+
+(00:39:07)
+
+Correct. Well, I mean, I think there is still — to my understanding — I feel like they are kind of restructuring and I do not know... I do not think what we know today, September 30, I am not sure if it will look structured the same way. So that is... and I know that oftentimes even when the Council passes new legislation, it is not directed to 311, not necessarily changing the way that these service requests are captured. So they visited...
+
+(00:39:32)
+
+You have been in communication. Do you feel like — I do not know — was it a constructive conversation? Is there any reason for New Yorkers to feel like, I do not know, if I can call 311 now for this, because now they are a subset — they are not even a standalone office anymore?
+
+(00:39:45)
+
+Okay, great. I appreciate that. I will say yes, my peer colleague came for the meeting. We have had those discussions. But more importantly and more structurally, the 311 process works well in this situation. So we have a group called Agency Relations. They deal with every City agency, a number of State and Federal agencies, but for every City agency or office there is a contact, and the purpose of that is to exchange information such as a new program, a new policy, and make sure it gets into the 311 system. So if there is something that is not there, we have vehicles that identify that and then we raise it up with the agency. And if the agency has something new, or even if they are not sure what they do or do not have, they come to 311 and then that is when our collaborative work starts.
+
+So if there is anything available that needs to be made available to the public, there is a vehicle to get that into 311 and in turn we get that into the system. I always like to tout that for the public, what is online and in the mobile is written in a plain language standard, so it makes it fair and equitable for everyone. We have over 7,000 discrete pieces of information in the system, all having gone through that process at one point or another.
+
+(00:41:01)
+
+OK, and so is it fair to say that all the 200-and-some-odd service representatives at this point are aware that the Office to End Gender-Based Violence — if someone calls in asking for the Office of Community Safety or whatever — that they will understand, they know what that is and they know how to direct it?
+
+(00:41:16)
+
+I can address that in terms of how our process works. So yes, as long as the information is in our system, the representatives are trained on how to use the tool, how to use the system, and to count on and rely on what we call the content in that system. So they would be able to search, and as long as it is in our system they would have information in a standard structured way and they can give that to the public.
+
+(00:41:38)
+
+But it is in the system, to your knowledge?
+
+(00:41:41)
+
+To my knowledge I believe it is. I would have to confirm that — that will just be helpful for...
+
+(00:41:46)
+
+...confirmation. And then my next question — and I am sure the Chair could expand a little bit more — I do live in Bushwick and I am a frequent trash service requester. I noticed there is like the AI Smart Select... sorry, this chair is malfunctioning. Can you share a little bit about — and I think it is helpful because I think for a long time, especially if you are putting in a complaint about trash, there was a lot of miscommunication about what is
+
+(00:42:15)
+
+a sidewalk versus a dirty street. That feature — was the AI Smart Select tool designed in-house or did you all contract with a vendor, and whether or not...
+
+(00:42:33)
+
+...yeah, whether you used a vendor?
+
+(00:42:34)
+
+And what information does this tool capture? Because I think while you are putting it in, obviously it is prompting you to put your address and your information — how much of that is the tool capturing and how much of your personal data is it holding on to, and is it a different data privacy agreement than the standard 311?
+
+(00:42:54)
+
+Great, thank you. I appreciate the user feedback in that situation. I will take your different points in kind of an order if I can remember them. So first off, I am glad you are using Smart Select.
+
+(00:43:06)
+
+I do not think I have a choice, to be honest. If you go to the app I think it is at the top — yes, it is at the top. So a little bit
+
+(00:43:14)
+
+of context behind that. I feel like we have a tremendous team at 311 — a customer experience team — and this is one of the things they are constantly looking at: what more do we need to do, what else can we be doing. So we know a lot of people come to the mobile app and we have seen it grow over the years, obviously with the growth of smartphones. But people like to submit things in different ways, so we were giving them one way. What Smart Select does is give them another way, and actually gives them three other ways. So if you go to it, you pull it up, you can take a picture, you can use a picture, you can upload a picture, you can take a picture, and now you can actually type in some text about a condition you are seeing near you. You can describe what you observe and the Smart Select will then determine what it is, you confirm, and then you submit it — without going through the step of having to fill out a form, because it is doing that work for you.
+
+The work to do that was done by a combination of the organization and its contracted M/WBE vendor. I do not know the name of the vendor offhand, but that is the most generic...
+
+(00:44:18)
+
+Okay, we will follow up. I am sure she will get the OK.
+
+(00:44:20)
+
+And that went into effect last year. The text was just an enhancement this year. Okay, but the picture feature was last year. And then it very much falls under the same purview of privacy. We are very serious about privacy at 311. I personally believe it is what drives the public trust in 311 and has over 20-plus years. That is very important to us. So any tool that we use falls under that same purview with that 311 privacy policy.
+
+(00:44:46)
+
+Okay, thank you. Thank you, Chair. Thank you. So I want to ask sort of a question that follows the frame of thought of CM Dinowitz and Riley around the closing of requests by agencies. Obviously people were... but yeah, why is it that 311 — when it was originally put together — obviously I know that there is a limit in capacity, but it does not feel like there is a system that speaks back to agencies for accountability if an agency is closing a ticket. I get it often in my community, like for noise complaints, right — it gets sent to NYPD, NYPD goes out and they do whatever they do, and then it appears closed, and then constituents are telling us, hey, the issue was not resolved. So is it more of like, when 311 was imagined it was a call center model... has there ever been a conversation about how to hold agencies better accountable to closing tickets?
+
+(00:46:00)
+
+Thank you for the question. I was also not there in 2003 but came shortly after, so I cannot speak to the very beginning. But I think there are three or four things that I can share that get to what you are asking. On an intake side, if I can do that first — there are a couple of things that happen whether you are self-serving through the mobile or online, or whether you are talking to a call center representative. There are two key things that you will get. What we call the expectation — as a matter of fact, on the online it says "what happens next" and that is a description of what happens next, which agency is going to respond, and what the typical turnaround is, or the due date, to use that term. Technically we call those service level agreements. So those are two things that happen on any service request interaction.
+
+All the service level agreements that agencies have — really with the City, with the public — are available on Open Data. There is a list called 311, and so for every complaint type it will say what the expected time to resolve is. That can be hours for some dire situations, it can be days, and in some cases it can be longer than that because there are seasonal cycles. So that is available. And then the other piece that speaks to what you are talking about is the aforementioned customer satisfaction dashboard, where a customer can say I opened this service request, the agency told me here is the status, and I can now say whether it is resolved or not. That customer's point of view can be different than the agency's point of view.
+
+One of the things we try to do is define what that means. So in this service request, the customer gets an update on — if they take the confirmation number, if they get it emailed to them, or if they call and look it up — we have what we call a resolution description. It is kind of a field and it has a literal in it. Some of those do date back 20 years. We started a couple of years ago trying to refine those, and we have done it successfully with NYPD to refine those resolution descriptions and frankly put them into plain language terms so the public can actually understand what the City is saying. So that is something that we believe has helped. It is hard to get data on that, but we believe it has helped to clarify that situation — like, what does this mean, what does this agency response mean. Those are a number of things we do where we can control that, all under the guise of trying to make it more informative and more understandable to the customer.
+
+(00:48:30)
+
+I also think that it is important — like you mentioned — setting expectations, because I think people think once you put in a complaint... I heard another agency say one time in a meeting, well, just because it is closed on 311 does not mean it is closed on the agency side.
+
+(00:48:46)
+
+Right, but it would be great to explain that to the person who is experiencing it, because they see the closed status and they think it is done, no one is following up. It might be closed on 311 but at DOT or at Parks it is still open. Is there a mechanism right now where people can like drop down and see that, like it is with the Parks Department and they are still working on it, or no? Okay.
+
+(00:49:13)
+
+I would say that 311 submits to the agency but the agency owns all the status from that point on, whether it is in progress, updated, closed or resolved, whatever term they use. But I agree with you with respect to informing more where we can, setting that expectation up front. The opportunity to see what is happening — there are two ways for the public. One is if you have the confirmation number. Again, if you did it online, if you have an email, that is the best way to look it up. You can actually do it on the home page of 311 — just cut and paste your confirmation number, put it in, and it is going to give you the status. If you do not have that you can contact 311. So that is one way.
+
+But also the Open Data portal — and I want to give a compliment to my colleagues on the data analytics team who do a tremendous job with the Open Data portal for so many things in New York City. There are several rich 311 data sets on there. The 311 service request data set is probably one of the most popular ones, and that has a lot of information that can give you an update on the status of your complaint, but also if
+
+(00:50:19)
+
+there is a collection, or as the Council Member had said, if there is a focus in a certain area in your neighborhood, that Open Data tool is really, really powerful.
+
+(00:50:28)
+
+Is there like an end-of-year meeting where 311 sits with the agencies and it is like, these are the patterns we are observing? Or once that data is sort of uploaded to the Open Data portal, is the expectation that the agencies kind of do that type of analysis for themselves?
+
+(00:50:45)
+
+I really appreciate that question. If you allow me to kind of brag on the teams at 311 in answering it, I would appreciate that. And it happens quarterly and it happens over the course of a year as well. I alluded to it earlier — we have a group that looks at the customer experience, we have a quality assurance team making sure things are handled correctly, we have agency analysts, we have content writers, we have business relationships. So there are a lot of folks all focused on: are we doing it right today and how do we do it better tomorrow. So that happens more on a day-to-day basis but we do have structured reviews. Some of our surveys get to that. We bring the whole team together, we do the readout of the survey, and then our agency relations team carries that to their respective agency
+
+(00:51:27)
+
+counterparts. Great. I do want to ask some questions about language access. I do have some concerns about the app — right now it is just in English. Can you speak to whether there is a function to translate the entire app? Like if you are a Spanish speaker, for example, and you want to access the app, can you translate that?
+
+(00:51:53)
+
+I understand the question, I appreciate it. I will speak to that specifically. So now there are kind of two components to what you see. It is mobile optimized, so if we link you to the 311 online website then you have all the benefit of what is on the website, including the Google Translate tool on the site itself. If you are using a service request and you are submitting a service request that is embedded in the app — I call that native to the app — that is in English only. So it is something that only exists in English. If a customer does want to use the app, they can go to the mobile site, I am sorry, go from the mobile site quick link right to the website, and then use the website to be able to translate and convert it to the language they wish to and then access anything in that
+
+(00:52:38)
+
+language. So what is the challenge in making that switch?
+
+(00:52:43)
+
+Languages, understood. And it ties back to the work we do with the mobile in total. So whether it be trying to do better with what CM Dinowitz had referenced, trying to find better ways of presenting the information, and then just trying to do enhancements — there is a lot of work that constantly goes on in the mobile and it is just getting to that work. OK. OK. Questions about procurement — on the procurement website there is an RFP for outsourced contact center services for 311. We have the RFP number. Please tell us more about the need for outsourcing the contact center.
+
+(00:53:25)
+
+Great, thank you for the question and for the context. With respect to the procurement, I thought you were going to ask me a passport question so I am glad it is a 311 question. So yes, I can speak to that. We have talked previously about the contracted vendor, also known as the overflow vendor. So that contract ends February 28 of 2027. As the City approaches that, we are going to solicit bids for a new contract that would start March 1, 2027. So that is the RFP that you referenced, for that purpose.
+
+(00:54:03)
+
+OK, and so as of right now you are just soliciting — you are in the process of soliciting.
+
+(00:54:06)
+
+On August 18, 2026, New York City experienced a significant 911 service disruption after Motorola, the City's service provider, performed a routine software update. Approximately 1,700 calls were impacted during that outage. If I recall correctly, Motorola is the principal vendor supporting the 311 system, and during prior testimony you stated that a joint team at OTI is responsible for 311 system updates. Can you walk us through the standard process for implementing software updates to 311?
+
+(00:54:44)
+
+Thank you for the context, and yes, I can give you some of that perspective. I probably cannot go as deep as some of my colleagues at OTI would, but I can give you a flavor of that. I think the starting point would be to make a distinction. What was previously referenced, we do that mostly for what we call applications development, so for the system that you see online or the system that gets used in the call center — the application side of that, not the telephony system. So those are two separate things. Most recently, over the telephone side, the telephone system is actually the source system. The platform is the Cisco platform, which is pretty common across the City. Then back on the application side, as we have referenced in the past, OTI is now using more contract resources than before. That work, though, is similar — we are contracting for specific skill sets and specific work that can help us develop and build out our application. In some cases, you bring it on, you help build it, and then you do not need it anymore. But all of that gets overseen and managed by the OTI organization.
+
+(00:55:58)
+
+Okay. Obviously, given what happened at 911, we have a few more questions about updates. Are software updates of that nature happening on a regular basis? Are they predetermined? Who determines when they should occur? To expand a little bit on the work that we do: there are a number of levels of approval. Software updates are very much our focus, as you can imagine, even without the reference to the earlier event. But in this one, I would say going back 23 years as well, it is grounded in the 311 approach that we must always be available. There are always times where you are going to have scheduled updates and scheduled outages, and then you have got to have a backup and you have got to have the backup to the backup. So that is something that we take very seriously, whether it is the telecom side or the application side, and therefore we have a number of processes in place.
+
+I will just speak at a high level. I have the privilege of also supporting the City's internal customer service desk, the citywide service desk. Within that team there are a number of folks who focus solely on change management, as we call it, so I can speak to that in both ways. There is always a need for software upgrades. For changes and upgrades it is a very controlled process — the teams that need to do it put forth what they need to do to a body that understands what is happening. You have to think about your own change, but also whether it will affect somebody else's change. They all go through an approval process. It is pretty standard. It can be on a daily basis or on a cycle basis, but there is a pretty standard protocol of being able to go back and look at: here are the changes we need to make, here is why we need to make them, and has everybody signed off on making those changes? Since the 911 outage, has that prompted you all to review or change procedures governing software updates to 311?
+
+(00:57:58)
+
+Thank you for that. I will say yes, because any event that occurs forces us to do just that. This winter when we had extreme winter weather, this summer when we had heat waves — dating back again, you mentioned the history of 311, but dating back to the earliest days when there was a transit strike in 2003 — that causes us to think about things. Whether it is a natural disaster or a technical change, anything that occurs, we have a process through our emergency management resources on our...
+
+(00:58:30)
+
+...team. We also partnered with New York Emergency Management, but within our own team we will evaluate anything that is out of the norm and ask: how would we handle this? Are we covered? Are we set? Are we able to do that?
+
+(00:58:42)
+
+So one of the questions that we asked OTI when we were doing the 911 hearing was whether there were any redundancies or failover procedures if something is failing live. For the 911 outage, it was not clear that something was failing until some of the 911 dispatchers began to notice things that were happening that were out of the ordinary. So can you walk us through what that looks like for 311?
+
+(00:59:13)
+
+Yes, sure. Thank you for the framing of that. We do have a number of alerts and flags that are designed from a system perspective, so they are built into our operating systems as alerts. There are also systems that monitor just for alerts. That is a necessary requirement, somewhat of a standard requirement. But we have also built in over the years tools that will alert us if something were to happen. Our telecom platform is very robust and operates very well, but things can happen.
+
+We have built in — I will give just a simple example — if a call has not been received for a certain number of minutes, there is going to be a trigger, an alert and an email generated to one of our 24/7 operating staff. During the course of a day, if that were to happen it would be very quickly detected simply because there are a lot of calls during the day. But we also tune it so that even overnight, when there may be gaps in calls because not a lot of people are calling, if we go for a certain period of time without a call, there is a trigger and an email report that goes to a live person who can then say: now what do we do? The City has a very structured process that oversees — I mentioned before the citywide service desk — that is the first step: open up a ticket, get everyone involved, start to understand what it is. But the identification of that is something we have built in over the...
+
+(01:00:36)
+
+...years. Okay. Going back to language access, how many of your operators are fluent in other languages?
+
+(01:00:43)
+
+Thank you for that. In total, the only languages operators speak other than English would be Spanish. So we have a small number of bilingual English-Spanish language speakers. Everything else we rely on a third-party interpretation vendor for language services.
+
+(01:01:00)
+
+Okay. What is the current protocol if a need arises for a staffing surge of 311 call takers, such as during an...
+
+(01:01:09)
+
+...emergency? Oh, okay. We do have a process for that. We have actually used it several times this year because of the weather emergencies that I mentioned before. This is where our contracted vendor resource comes into play more so than ever, because they do steady-state work, they are already in the 311 program, they have 311 systems, and they have people who are trained on that. We can say we need more, we need it quickly, and we need people who are qualified. Because the vendor is a private organization and they have other businesses, they have the ability to have resources available quickly. So we will anticipate some things coming up. This past weekend we had the nor'easter, and my executive director who runs the call center said: yes, weather is coming, we are going to get more calls, let us see what we can do about adding some staff. People are calling for downed trees, for example, so we brought in some additional staff to be able to handle that. We go to the vendor for that and they can turn that resource up pretty quickly from their pool, and then equally they can also take that resource down when it is no longer needed. That is our primary approach when responding to a surge — we tend to call it a...
+
+(01:02:20)
+
+...surge. Great. My colleague CM Gutiérrez spoke a little bit about artificial intelligence. I just want to dig in more. Can you tell us more about your current plans for AI within 311 and the website? What is the...
+
+(01:02:34)
+
+...vision? Oh, thank you. I do appreciate that. Like everyone, we are looking at how that affects every aspect of the work that we do and what we deliver to the public. So we have had a few exercises and activities where we have worked to see what AI can do. We have had different demos that we have been able to take a look at. We start with the premise that AI working in our call center is designed to augment the work that the representative does, not replace the work that the representative does. We have seen a number of ways that it can help. AI can help the agent identify how to navigate, or be able to pre-populate something. We actually have a very older version of it today — if you interact with it, it can detect what you are asking about and it will do a screen pop for the representative to say, for example, it is a garbage recycling question. That is 10-plus-year-old technology, but the concept behind that is what we look at with AI: how could it help us better help the agent to better help the customer.
+
+(01:03:44)
+
+Okay. So I am going to switch back to legislation and real questions. I know that the Council member already asked about the geolocation and I think we have a good understanding of that. But I wanted to ask: why might an agency determine that a service request is outside of their jurisdiction? It is my understanding that service requests are sent to an agency based on the problem type. So if the request is determined to be out of the jurisdiction of the assigned agency, is that an issue of how the problem was set up at 311? What is the genesis of the...
+
+(01:04:17)
+
+...confusion? Right, yes. That situation does exist, so I am happy to talk to that. We use a term called a "reassigned service request" in that situation. There are at least a couple of flavors to it. Some of it is by design, and it typically is something that happens where a customer is self-serving. Rather than calling the call center, where the human aspect can help put it in the right bucket, a very simple example is a cave-in on the street. To the public it is a defect in the street and they want to report it. From a 311 perspective, we want to make that simple, but for the agency to go fulfill on that, especially in infrastructure situations like that, it is not always clear who has authority on it. A customer could describe it one way but it could certainly be something different, or the agency needs to assess it correctly. So by design, some of those complaint types go first to DOT, which does the assessment, and then DOT in turn assigns it to another agency or a utility that is contracted to do that work. That is probably the most common one. Some others occur because a customer has described the situation and it gets coded as such. I can say it is relatively rare. The impact for those it does affect — just from a context perspective — is about 1% of all service requests that go through a reassignment.
+
+(01:05:41)
+
+Does OTI look into which problems are often marked out of jurisdiction, and if so, which requests are responded to? You already said that the street cave-in is the most common one. We heard from Deputy Speaker Williams that traffic tends to be problematic as well, with the transportation bureau versus the NYPD. Can you speak to some of that?
+
+(01:06:05)
+
+I can, not maybe at the specific level on the traffic bureau one, because I think that would go to NYPD — it is just a matter of within NYPD. But we do look at that. The CX team that they keep referring to has done analysis over the years, including recently, to look just at that: do we have reassigned service requests, why do we have them, what could be done about it? And as I said in the opening testimony, that is...
+
+(01:06:28)
+
+...something we are looking into. How can we do that better? Can 311 do more? Can we enable an agency to do more? And if it is a necessary step that has to happen, how can we make that better for the customer?
+
+(01:06:40)
+
+Is that data on the reassignment on open data? It is embedded in open data. I would say you cannot — it is not a field you can click on that is going to give you the number that I just quoted, the 1%. But in what I call the resolution description field, it will have that in there — that agency A has reassigned this to agency B. Going back to the Deputy Speaker's question: if a request is assigned to the correct agency but the wrong unit within an agency — I know NYPD is kind of a different situation, which we can talk about — but in any agency, what happens?
+
+(01:07:16)
+
+That can happen. There are probably two sides to that as well. I cannot speak to the agency side of that, but from familiarity I can say a lot of the work that agencies do, their workflow is designed to handle it. But if it goes down a different pipe, let us say it is within the same agency, they have the ability to communicate with each other in that respect to be able to respond to it. That is a generic kind of observation, but it happens. Our role, though, is if that is happening on more than a one-off basis, our agency relations counterpart will dive into that. We will look at it and ask: do we need to change the routing? Has something changed on the agency side, perhaps? If so, do we need to change the electronic form that goes to them to get it to the right workflow?
+
+(01:08:04)
+
+I imagine that happens often.
+
+(01:08:05)
+
+We get a lot of feedback and a lot of times we are digging into it. I think a lot of the agencies are very mature in their processes, especially the infrastructure agencies who do this work on a regular basis. So I think it is pretty standard. It is so much so that if it does happen and we get notified, it is more of a "let us jump into this and figure it out" because it is not the day-to-day.
+
+(01:08:25)
+
+I alluded to earlier that we have a lot of bills that my colleagues want to hear on 311 — adding categories. I have one that is my pet peeve, which is about dog runs. We cannot report stuff that is happening in dog runs right now. There is not a category for that. Can you walk us through the process of what it would take to add categories? That is a simple one, but some colleagues have bills, for example, around SNAP benefits being stolen — things that are really critical for someone who is not getting a benefit from the City that they deserve. So what is the process of adding a...
+
+(01:09:01)
+
+...category? I can definitely speak to that. There are a few different drivers that could trigger it. Yours is a great example. I assume we will hear more in a future hearing on some of those suggestions. Legislative-driven is one way — last year there was a great partnership between the Council and 311 and OTI to create the new cannabis retailer complaints. We worked with CM Brewer and then went through the entire process. So that is one way: it gets brought up in that respect. Our own team will also identify gaps — hey, there is something missing here. We have a vehicle for the public to submit that situation. The Council passed Local Law 97 a couple of years ago, so that is a process through which the public can identify something and then we will put the 311 resources and the agency resources together to assess it and see if it is needed. Then the agencies themselves, which is often a way to not only bring something new but also to tweak something that has been in place. So all of those are different ways, but they all at one point or another come into 311. Similar to what we do with the public as intake, we are going to assess it, we are going to confirm it is not already in place, figure out what it could look like, and then work with the agency, or work with the Mayor's Office, or work with the Council to figure out how we can get that into the system.
+
+Got it. Privacy and data: the 311 privacy policy has been updated. The question is whether it has been shared with us and whether there have been changes to prior policy.
+
+(01:10:31)
+
+Thank you for that. Yes...
+
+(01:10:33)
+
+...it has been. I have to check myself on whether it was a year ago or a couple of months ago. The policy has been longstanding. As I mentioned before, last year we took the opportunity to strengthen it on behalf of customers and put some language in specific to the section that speaks to how we use your data and how we will not use your data. I cannot recall the exact language, but the goal of that was, as I said, to strengthen it on behalf of the customers.
+
+So the following questions are kind of a follow-up. They were asked at our last committee hearing, during which you respectfully offered to get back to the committee with answers. One of the questions is: according to the privacy policy, 311 does not sell, rent or otherwise use information for marketing purposes. So for what purposes do you share users' information? What third parties are receiving the user data, what kind of data is being sent, and for what purpose?
+
+(01:11:31)
+
+I will do the first one. We do not share user information, and it is something that is interesting with 311. They use their information — name, contact information — and it is very rare that it is needed. Most of what you can do, you do not need to provide user information, and that is by design. Again, going back to the history of 311, because it then contributes to helping people feel comfortable and confident to be able to do that. But we do have limits around what can be shared. It is really in the interest of fulfilling that service request. So if you want to make a heat complaint, you can do that without giving your name. If you want to make a heat complaint in your apartment, then it needs your contact information, so you will include that. But that information is not then shared with third parties.
+
+(01:12:16)
+
+And so even your contractor's information picked up in any of those scenarios is not shared. Right, so there are strict protocols to prevent that from happening.
+
+(01:12:30)
+
+Can that mobile data be encrypted in transit, or is that up to another party?
+
+(01:12:37)
+
+That is a good question. I am pausing because I do not know if I can give you the definitive answer. I would rather, if I can get back to you on that, I would feel more...
+
+(01:12:45)
+
+...comfortable. So we will follow up with that one. And then, can 311 allow for user data to be deleted if requested? I would like to take that same approach, if you do not mind. If I can just get back to you so I can make sure we get you the correct answer.
+
+(01:12:49)
+
+Can 311 allow for user data to be deleted if requested? I would like to take that same approach, if you do not mind. If I can just get back to you so I can make sure we get you the correct answer.
+
+(01:13:01)
+
+Okay. So when looking at the privacy policy, there is no set retention policy listed for personal information except for voice recordings, meaning that personal information is possibly stored indefinitely. "We retain user information for as long as it is necessary to fulfill users' submitted requests or to provide ongoing assistance to a user. If a user has set up an account with the 311 contact center, the user's information will be retained until the user deletes the account. For compliance reasons, some user's information may be retained after deletion of the account." That is a quote from the privacy policy.
+
+(01:13:40)
+
+Would you agree that we should set a data retention policy for personal...
+
+(01:13:46)
+
+...information? I appreciate that question, and I appreciate you mentioning that. On the voice side, there is a purging — again, on the voice side, sorry, the recordings — and conceptually, yes, I think we should look at that.
+
+(01:13:59)
+
+And we would be happy to work with you on that. Great.
+
+(01:14:03)
+
+Do you think... okay, you answered our questions. According to the privacy policy, the domain names associated with a user's device are collected. What is the purpose of that collection?
+
+(01:14:15)
+
+Thank you for that one. I think I would prefer to be able to get back to you, if you do not mind, because the answer I am going to give you is based on my knowledge, but I would rather get our experts to give me the answer to give to you.
+
+(01:14:28)
+
+I imagine it is the same reply, but for the cookies — when you do, does the cookie banner provide options for users to opt...
+
+(01:14:38)
+
+...out from using the non-essential cookies? Do you plan to provide that option for New Yorkers? With respect, I would appreciate being able to do that and get back to you on that one.
+
+(01:14:46)
+
+Okay, so those are more like questions — yes, that is what I talked to my colleagues who are very proficient in. Okay. So let us talk a little bit about future plans. According to your testimony on June 30, 2022 and 2023, 311 will extend services to the WhatsApp messaging platform. Further, on April 25, 2024, you confirmed those plans as still part of the road map for 311. Has it happened?
+
+(01:15:15)
+
+It has not happened yet. We have a WhatsApp account but we have not moved it forward to make it a channel, make it publicly available. So it is still on our road map and a work in progress.
+
+(01:15:26)
+
+What are some of the...
+
+(01:15:27)
+
+...challenges? There are a couple of different challenges. It is a new channel for us, right, and we do not have a good baseline on what kind of volume we would have. We have to size it based on what we can. So we really have to figure out, if we open that channel — or when we open that channel up — what is going to be the demand, and then how do we staff up to meet that demand. But we do not want to be understaffing it, especially if we are going to launch it on a pilot basis. We want to be able to make sure we can handle what comes in. So that is one of the pieces. And then working through the process with the WhatsApp tool itself is something that we are very cognizant of.
+
+(01:16:03)
+
+Yeah. So how would the WhatsApp privacy policy, in terms of agreements, align with 311 privacy policies? Do you know?
+
+(01:16:10)
+
+I cannot answer the question, but I can tell you that that is one of the things that we are looking at as far as the road map — how do we reconcile those two things? Okay. Going into...
+
+(01:16:20)
+
+...complaint types. Local Law 97 of 2022 — can you walk us through, from the beginning to the end, the process for creating a new complaint or service request type for 311, which we kind of talked about? Okay.
+
+(01:16:33)
+
+Thank you for that. Clarifying — is this specific to the Local Law 97 process? Yeah, okay. So since Local Law 97 has been in effect, the public can recommend, suggest or request a service request type — I am kind of generalizing that — but there is a vehicle where they can do that. It comes into 311. We have a team that receives that and does the initial intake on it, and basically everything that comes in is considered the starting point. Our team — that fabulous team that I keep referencing — they have a group called Customer Relations who takes the first look at this. One of the first things we do is ask: does this already exist, just in a different way? And if a customer has given contact information, we can even get back to the customer to explain that. But then that gets logged in a tool within 311.
+
+After that assessment, it goes to our agency counterparts: this is what the public is asking for — what do you think? And typically what they will do is assess first: does it already exist? Does it exist in some form or fashion? And then it is on the agency to look at that, consider it and determine if they should add a service request. Keeping in compliance with the local law, we provide an update every year on whether anything has moved from a suggestion to a service...
+
+(01:17:51)
+
+...request. Okay. I want to ask a few questions about NYPD and sort of the relationship between NYPD, 311 and 911. You testified earlier that — I mean, I am saying it seems like there are some challenges in terms of oversight at NYPD because that is a different operation, right. There were some questions that colleagues asked that you said were better suited for NYPD to answer. Can you explain sort of the dynamic between the three — your 311 operation and NYPD — when there are complaints that are directed towards NYPD that are not fulfilled?
+
+(01:18:30)
+
+Yes, I follow what you are saying. What I can speak to is the 311 side, in terms of the intake that we do. Our goal then is to make sure we are getting the information accurate, the forms are working, and on a regular basis to make sure things are getting routed correctly. So that is where we put our energy and our focus. We have feedback mechanisms. We have a dedicated liaison at NYPD who works with our agency relations, our senior director there. So there is always that combination, and I think I would characterize both groups as being very public-centric and using data to kind of exchange. So I think we have a pretty good feel in that respect. But everything we do is focused on the intake and getting them what they need, and then our role kind of ends at that point and we defer to the agency. Okay. And then if...
+
+(01:19:18)
+
+...someone calls 311 instead of calling 911, are they automatically routed over to 911 if it is an emergency? I do appreciate that question.
+
+(01:19:25)
+
+That is one of the things that, from day one of training, is reinforced to everyone in the call center. So it does happen — someone called 311, not knowingly or just choosing to call 311. In short order, we train and reinforce: at any suggestion of anything dangerous, a threat or an incident, transfer to 911. We actually call it a hot transfer, because all they do is hit a button and then the 911 operator comes on. So our approach is: get that to the expert, get that to 911, let them make the determination if it is an emergency or not. Within the call center we have a saying — it is jargon, but it serves the purpose: "when in doubt, route." So make sure that the 311 agent is not making that determination — the professional at 911 is making that...
+
+(01:20:15)
+
+...determination. And I am assuming that your training for the call center staff is robust in that area?
+
+(01:20:23)
+
+Yes it is. The training itself is very robust, and even our contracted vendors follow the same protocol. But it is something that is reinforced — as I said, I think literally day one of training, if not day one then day two, because it is so important.
+
+(01:20:39)
+
+What about when — let us say we see that, for example, for the nor'easter, obviously you were expecting there to be an increase. We have seen that when there are emergencies like a weather-related emergency, Notify NYC has a robust public education campaign. I think I even did one of those where I am like, "Notify NYC." Do you all have a similar budget or plan for days around 311 and how 311 works and what the purpose is? I find that in government, one of the things that we are often doing is clarifying for people the expectations of what your City Council member can do, what 311 can do. So is there a communications strategy behind 311?
+
+(01:21:26)
+
+I do share that same feeling. We clarify a lot of times what each one does. I will say on the Notify NYC side, we work very closely with Notify NYC and we actually have operational protocols where we have been at their command centers, contacting our command center every day, just to make sure our lines are communicating. And then everything after that we work very closely with Notify NYC. With respect to an operating budget, no, 311 does not have a marketing budget or an outreach budget, and it has actually never been part of 311. I think that is an interesting something to look at, and I know that this is a budget question as well in the future when we have budget hearings. But I do think that it is important that New Yorkers understand the expectation and the capacity of 311, where things lie in the ecosystem of getting...
+
+(01:22:15)
+
+...them help, especially as we expand offices like the Office of Community Safety, for example, right. And there are some changes that are coming down the line in this administration which are exciting, but I am not quite sure if the entire city really understands where jurisdictions fall. So more to talk about on that. Thank you for your time today and for answering all of our questions. There is a part two for more legislation. Thank you so much. You are dismissed.
