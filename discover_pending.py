@@ -262,8 +262,10 @@ _PENDING_BRANCH_RE = re.compile(r"^pending/(\d+)\b")
 def open_pr_event_ids() -> set[str]:
     """Event IDs that already have an open ``pending/*`` PR on GitHub."""
     res = subprocess.run(
-        ["gh", "pr", "list", "--state", "open",
-         "--search", "head:pending/", "--json", "headRefName"],
+        # No --search: GitHub's search index can silently return nothing
+        # (it did while the account was flagged). List and filter instead.
+        ["gh", "pr", "list", "--state", "open", "--limit", "200",
+         "--json", "headRefName"],
         cwd=REPO_ROOT, capture_output=True, text=True,
     )
     if res.returncode != 0:

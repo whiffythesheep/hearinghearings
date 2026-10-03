@@ -65,7 +65,9 @@ def restore(sha: str) -> None:
 
 def open_pending_branches() -> list[str]:
     res = subprocess.run(
-        ["gh", "pr", "list", "--state", "open", "--search", "head:pending/",
+        # No --search: GitHub's search index can silently return nothing
+        # (it did while the account was flagged). List and filter instead.
+        ["gh", "pr", "list", "--state", "open", "--limit", "200",
          "--json", "headRefName"],
         cwd=REPO_ROOT, capture_output=True, text=True)
     if res.returncode != 0:
