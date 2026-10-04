@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0161-2026",
+ "title": "Law to track jobs affected by city AI tools",
+ "summary": "This bill would require city agencies to report on how algorithmic tools affect employees, including positions eliminated, hours reduced, salaries changed and new trainings required due to such tools. The reports would be added to the city's existing annual algorithmic tools compliance report. It would take effect immediately upon passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "282f7c2dc9bec85c"
+}

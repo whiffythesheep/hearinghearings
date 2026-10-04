@@ -1,0 +1,143 @@
+{
+ "event_id": "1445976",
+ "date": "2026-10-05",
+ "body": "Committee of the Whole",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445976&GUID=325D66DF-B99B-4C9A-8061-6EC9907142F2&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2573",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Risks Posed by Artificial Intelligence.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8218409",
+   "legistar_guid": "D9A2E70D-9DBA-46E6-A020-991AB94CDBDB"
+  },
+  {
+   "file_number": "Int 0161-2026",
+   "type": "Introduction",
+   "name": "Requiring reporting on the impact of algorithmic tools on city employees and changes in employment responsibilities due to algorithmic tools.",
+   "sponsor": "Carmen N. De La Rosa",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861810",
+   "legistar_guid": "34B70F41-7D60-4866-9434-7EB17E68661C"
+  },
+  {
+   "file_number": "Int 0504-2026",
+   "type": "Introduction",
+   "name": "Prohibiting the unauthorized depiction of public officials by artificial intelligence.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7863350",
+   "legistar_guid": "A10F1372-8B9F-4F38-A60D-49D6D27A683A"
+  },
+  {
+   "file_number": "T2026-2602",
+   "type": "Introduction",
+   "name": "Third-party validation and shut-down capability of artificial intelligence models.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239233",
+   "legistar_guid": "A927E066-C669-4F66-8E5A-4B610FA321E5"
+  },
+  {
+   "file_number": "T2026-2605",
+   "type": "Introduction",
+   "name": "Civilian enforcement of artificial intelligence violations.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239234",
+   "legistar_guid": "75E3ADBA-51CD-4CF8-B8B7-6A1B9A1F22FE"
+  },
+  {
+   "file_number": "T2026-2601",
+   "type": "Introduction",
+   "name": "Requiring reporting and public disclosure of artificial intelligence safety incidents concerning city contracts.",
+   "sponsor": "Kamillah Hanks",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239232",
+   "legistar_guid": "01805F83-CD9B-40E8-8B3B-5F8180B9ECF0"
+  },
+  {
+   "file_number": "T2026-2600",
+   "type": "Introduction",
+   "name": "Establishing a private cause of action for certain harms arising from third-party misuse of artificial intelligence models.",
+   "sponsor": "Virginia Maloney",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239231",
+   "legistar_guid": "5C450184-BED1-41D0-AD4F-6A511EFD2D9A"
+  },
+  {
+   "file_number": "T2026-2599",
+   "type": "Introduction",
+   "name": "Chatbot data privacy, security, and transparency.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239230",
+   "legistar_guid": "80E4B1AA-D554-4B13-8438-5EDBCBB0C29C"
+  },
+  {
+   "file_number": "T2026-2606",
+   "type": "Introduction",
+   "name": "Requiring the creation of an artificial intelligence model emergency response plan.",
+   "sponsor": "Chi A. Ossé",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239258",
+   "legistar_guid": "71DE53C0-B602-491E-A8F6-1ABDA8DD8BC5"
+  },
+  {
+   "file_number": "T2026-2604",
+   "type": "Introduction",
+   "name": "City contractors and subcontractors posting information concerning whistleblower protections and clarifying whistleblower protections for reporting conduct related to the use or development of an artificial intelligence model.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239257",
+   "legistar_guid": "75416338-6F6D-4C0F-8D1E-D97280E2FD1B"
+  },
+  {
+   "file_number": "T2026-2603",
+   "type": "Introduction",
+   "name": "Requiring certain disclosures and prohibiting deceptive representations in the promotion of artificial intelligence models.",
+   "sponsor": "Carl Wilson",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8239256",
+   "legistar_guid": "9794774A-D2EF-4934-8DF0-3485526B6597"
+  },
+  {
+   "file_number": "T2026-0004",
+   "type": "N/A",
+   "name": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7800657",
+   "legistar_guid": "759ABCAE-7F73-4468-ABEF-D9ACF72507D0"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0504-2026",
+ "title": "Law to let officials block fake AI depictions of themselves",
+ "summary": "This bill would let elected officials and election candidates notify AI companies that they do not authorize generation of manipulated audio, photos or videos depicting them. After notice, the AI system's owner must implement methods to block such fake depictions within 60 days of a covered election. Violators face a misdemeanor charge and fines up to $2,500 per depiction, and officials or candidates may also seek a court order to stop the conduct.",
+ "model": "claude-sonnet-5",
+ "input_hash": "ebfefa7f304414ea"
+}

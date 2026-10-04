@@ -1,0 +1,68 @@
+{
+ "file_number": "T2026-2604",
+ "slug": "t2026-2604",
+ "legistar_id": "8239257",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to city contractors and subcontractors posting information concerning whistleblower protections and clarifying whistleblower protections for reporting conduct related to the use or development of an artificial intelligence model",
+ "status": "Introduced",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Julie Won"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936770&GUID=F7544C56-8730-4718-8537-32682FE84D08"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936769&GUID=B8840035-9F22-41B5-AD08-0635D59203C2"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973157&GUID=5B03A499-87EF-4473-858D-E33711563D09"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979559&GUID=84CFFB01-FC9C-4A3B-B6D2-7C197B05AE00"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973157&GUID=5B03A499-87EF-4473-858D-E33711563D09"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239257&GUID=75416338-6F6D-4C0F-8D1E-D97280E2FD1B"
+}

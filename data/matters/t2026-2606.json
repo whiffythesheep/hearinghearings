@@ -1,0 +1,69 @@
+{
+ "file_number": "T2026-2606",
+ "slug": "t2026-2606",
+ "legistar_id": "8239258",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the creation of an artificial intelligence model emergency response plan",
+ "status": "Introduced",
+ "sponsors": [
+  "Chi A. Ossé",
+  "Kayla Santosuosso",
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Julie Won"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936772&GUID=443F6678-9A9C-4CB1-9B16-3E1DA539E2FF"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936771&GUID=DEDBC79D-B8A0-4B02-AFE5-8D7B5EC57214"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973156&GUID=E2F4154F-9E02-48CE-8B63-CAE48E735B39"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979558&GUID=950A9BE0-C46B-49ED-A994-9A34C25C43DA"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973156&GUID=E2F4154F-9E02-48CE-8B63-CAE48E735B39"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239258&GUID=71DE53C0-B602-491E-A8F6-1ABDA8DD8BC5"
+}

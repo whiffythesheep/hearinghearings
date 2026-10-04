@@ -1,0 +1,105 @@
+{
+ "file_number": "Int 0504-2026",
+ "slug": "int-0504-2026",
+ "legistar_id": "7863350",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the unauthorized depiction of public officials by artificial intelligence",
+ "status": "Committee",
+ "sponsors": [
+  "Nantasha M. Williams",
+  "Farah N. Louis",
+  "Crystal Hudson",
+  "Althea V. Stevens",
+  "Yusef Salaam",
+  "Kamillah Hanks",
+  "Justin E. Sanchez",
+  "Gale A. Brewer",
+  "Lynn C. Schulman",
+  "Jennifer Gutiérrez",
+  "Sandy Nurse",
+  "Shirley Aldebol",
+  "Virginia Maloney",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 504",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15256026&GUID=91E4FA58-68F8-4E23-B34E-9989F1BC9FC9"
+  },
+  {
+   "label": "Int. No. 504",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15256025&GUID=72E8590C-86EF-4FD0-987A-16724D0B537C"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251978&GUID=A3291D68-E928-43BC-A05B-66460AF61330"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252670&GUID=452090D1-D293-4A6D-A60E-95D7F28398A8"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15334045&GUID=BA97DA09-F3BB-4A51-AA3A-24EA67CABD5C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973152&GUID=76750755-969E-47DA-89BE-9173CB7B4671"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979549&GUID=07CC7FBF-1992-4105-866F-70776465020C"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973152&GUID=76750755-969E-47DA-89BE-9173CB7B4671"
+ },
+ "history": [
+  {
+   "date": "2026-09-25",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7863350&GUID=A10F1372-8B9F-4F38-A60D-49D6D27A683A"
+}

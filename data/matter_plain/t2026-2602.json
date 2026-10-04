@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2602",
+ "title": "Law requiring safety checks and a kill switch for AI models",
+ "summary": "This bill would make it illegal to market, sell or deploy an artificial intelligence model in New York City unless it has been validated by an independent third party and has a technical capability allowing a human operator to shut it down. Validators would assess factors like accuracy, bias, data privacy, and safety, and must disclose their findings and any conflicts of interest to the developer and the city's Cyber Command office. Violations could bring civil penalties up to $25,000 per instance, and the law would take effect 180 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "0cd296c0d45d67b9"
+}

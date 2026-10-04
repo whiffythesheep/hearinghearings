@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2601",
+ "title": "Law to require reporting of AI safety incidents in city contracts",
+ "summary": "This bill would require city contractors using artificial intelligence to notify the Office of Cyber Command within 24 hours of any safety incident, such as a security breach or loss of control of an AI model. City agencies would face the same 24-hour reporting requirement, and the Office of Cyber Command would have to publicly post each incident within 24 hours and publish an annual summary report. The law would take effect 180 days after being enacted.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c46720eb2e94de60"
+}

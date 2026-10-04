@@ -1,0 +1,67 @@
+{
+ "file_number": "T2026-2600",
+ "slug": "t2026-2600",
+ "legistar_id": "8239231",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a private cause of action for certain harms arising from third-party misuse of artificial intelligence models",
+ "status": "Introduced",
+ "sponsors": [
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Julie Won"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936691&GUID=D75DDDA3-D56A-4C22-89E6-930269839BE1"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936692&GUID=67D09D12-0729-4230-9A68-60D5EB2C5DF2"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973086&GUID=BF134C4F-464B-4E4C-B901-A7B7D56AB27A"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979555&GUID=AC1C048D-455E-497F-87F3-50B5ED3296A2"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget provided an estimate, which is attached in full.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973086&GUID=BF134C4F-464B-4E4C-B901-A7B7D56AB27A"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239231&GUID=5C450184-BED1-41D0-AD4F-6A511EFD2D9A"
+}

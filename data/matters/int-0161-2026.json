@@ -1,0 +1,91 @@
+{
+ "file_number": "Int 0161-2026",
+ "slug": "int-0161-2026",
+ "legistar_id": "7861810",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring reporting on the impact of algorithmic tools on city employees and changes in employment responsibilities due to algorithmic tools",
+ "status": "Committee",
+ "sponsors": [
+  "Carmen N. De La Rosa",
+  "Jennifer Gutiérrez",
+  "Farah N. Louis",
+  "Lynn C. Schulman",
+  "Virginia Maloney"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 161",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15182391&GUID=84611163-397F-44F4-9F8B-A362C5F6C18C"
+  },
+  {
+   "label": "Int. No. 161",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15182393&GUID=3ABE7B13-0A28-4A6D-BC85-1189381BE793"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251540&GUID=9F01B062-D635-4B7E-8AB4-020A8892C35A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252235&GUID=0077AAD1-00B6-43DD-882A-B214DFB088DF"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973154&GUID=7CC96F9F-36D1-4C15-A3F4-C38F44CCAB10"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979548&GUID=D8D25B1B-038D-4F86-A0FE-E07954C7F4BB"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973154&GUID=7CC96F9F-36D1-4C15-A3F4-C38F44CCAB10"
+ },
+ "history": [
+  {
+   "date": "2026-09-25",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861810&GUID=34B70F41-7D60-4866-9434-7EB17E68661C"
+}

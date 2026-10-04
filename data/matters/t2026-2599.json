@@ -1,0 +1,67 @@
+{
+ "file_number": "T2026-2599",
+ "slug": "t2026-2599",
+ "legistar_id": "8239230",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to chatbot data privacy, security, and transparency",
+ "status": "Introduced",
+ "sponsors": [
+  "Frank Morano",
+  "Virginia Maloney",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936689&GUID=11BEBF02-DA96-4492-A753-F842A6F7ECE7"
+  },
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936690&GUID=868CA318-F8B4-4AEA-AAA7-CCFE5F5E766E"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973155&GUID=373FD080-FD98-473D-BDE3-681E962E95AE"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979556&GUID=6C97CE69-306A-4598-AB1F-DDA4282EBD33"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973155&GUID=373FD080-FD98-473D-BDE3-681E962E95AE"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239230&GUID=80E4B1AA-D554-4B13-8438-5EDBCBB0C29C"
+}

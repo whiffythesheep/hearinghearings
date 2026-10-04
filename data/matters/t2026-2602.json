@@ -1,0 +1,72 @@
+{
+ "file_number": "T2026-2602",
+ "slug": "t2026-2602",
+ "legistar_id": "8239233",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to third-party validation and shut-down capability of artificial intelligence models",
+ "status": "Introduced",
+ "sponsors": [
+  "Julie Menin",
+  "Virginia Maloney",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Int. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936695&GUID=C5FF00BB-FCDE-4F3B-AB32-D565C533C675"
+  },
+  {
+   "label": "Summary of Int. No.",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936696&GUID=B4FAADDB-AF7D-4BE1-87EE-C6DF9FCB84E3"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936697&GUID=E5392C41-2E6E-4025-BE6F-129CA0A07286"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973087&GUID=32FB7AF0-A08E-4516-A504-38AA15421E25"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979550&GUID=4C202830-07E1-4FB4-A0C6-31AC86F093CB"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973087&GUID=32FB7AF0-A08E-4516-A504-38AA15421E25"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239233&GUID=A927E066-C669-4F66-8E5A-4B610FA321E5"
+}

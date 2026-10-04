@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2603",
+ "title": "Law to require AI ad disclosures and ban false safety claims",
+ "summary": "This bill would require ads promoting artificial intelligence models in New York City to disclose whether the model was validated by a third party. It would also ban ads that make materially false or misleading statements about an AI model's safety risks or validation status. Violators would face civil penalties of up to $25,000 per violation, enforced by the city's corporation counsel, and the law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "0f0ff07b1f6d9a3e"
+}

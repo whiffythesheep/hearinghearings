@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2604",
+ "title": "Law to protect whistleblowers reporting AI safety risks",
+ "summary": "This bill would extend city whistleblower protections to officers and employees who report conduct related to the use or development of artificial intelligence models that they believe poses a substantial and specific risk to public health or safety. It would require city contractors and subcontractors to post information about these protections at work sites. The Department of Investigation would have to report yearly on the number of AI-related whistleblower reports it receives.",
+ "model": "claude-sonnet-5",
+ "input_hash": "23e1345a28ec7cb3"
+}

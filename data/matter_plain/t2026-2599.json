@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2599",
+ "title": "Law to set privacy and transparency rules for chatbots",
+ "summary": "This bill would require chatbot providers to secure user data, let users access their own chat logs, and disclose clearly that users are talking to a bot rather than a person. It would bar training on minors' data, restrict use of chat logs for ads or profiling without consent, cap data retention at 10 years and ban claiming chatbot advice equals that of a licensed professional. Violations could bring civil penalties up to $25,000 and allow users to sue for damages.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d3ff8764c601bdc1"
+}
