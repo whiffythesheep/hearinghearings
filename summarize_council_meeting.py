@@ -24,6 +24,7 @@ import unicodedata
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
+from urllib.parse import unquote
 
 from dotenv import load_dotenv
 
@@ -303,9 +304,14 @@ def extract_viebit_hash(url):
     m = re.search(r"[?&]hash=([A-Za-z0-9_-]+)", url)
     if m:
         return m.group(1)
-    m = re.search(r"[?&]v=([A-Za-z0-9_.-]+?)\.mp4", url)
+    # Viebit names stitched recordings "<stem> - join.mp4", which Legistar
+    # links percent-encoded ("%20-%20join"). Decode, then drop anything that
+    # is not filename-safe so the stem still works as a cache key.
+    m = re.search(r"[?&]v=([^&]+?)\.mp4", url)
     if m:
-        return m.group(1)
+        stem = re.sub(r"[^A-Za-z0-9_.-]", "", unquote(m.group(1)))
+        if stem:
+            return stem
     logger.error(f"Could not extract Viebit identifier from URL: {url}")
     sys.exit(1)
 
