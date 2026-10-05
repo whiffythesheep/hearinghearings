@@ -26,6 +26,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15791150&GUID=2F773222-BFF2-477E-B73F-5BB7C1E74FA9"
   },
   {
+   "label": "Hearing Transcript - Zoning 8/12/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16042911&GUID=AF49C13D-CD67-4651-BF60-46390C7B02C2"
+  },
+  {
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765163&GUID=35CC794F-AC2F-4B9B-BCEC-DEC57D5911D4"
@@ -72,14 +77,14 @@
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Approved by Committee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

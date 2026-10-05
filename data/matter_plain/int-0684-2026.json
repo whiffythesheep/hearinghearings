@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0684-2026",
- "title": "Law to study language barriers in gifted program access",
- "summary": "This bill requires the Mayor's Office of Child Care and Early Childhood Education, working with the Department of Education and community groups, to study how limited English proficiency and geographic location affect preschool-age children's access to early elementary gifted and talented programs. The study must identify barriers, review available translation and outreach supports and find disparities by language group and neighborhood. A public report with findings and recommendations would be due within six months of the law taking effect.",
+ "title": "Law to study language access and location gaps in gifted programs",
+ "summary": "This bill would require the Mayor's Office of Child Care and Early Childhood Education, working with the Department of Education and community groups, to study how language barriers and where families live affect preschool-age children's access to early elementary gifted and talented programs. The study must look at translation and outreach supports and identify gaps in eligibility, nomination and enrollment by language group and neighborhood. A public report with findings and recommendations would be due within six months of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "a9d04609c7c8ee29"
+ "input_hash": "43f9074608359381"
 }
