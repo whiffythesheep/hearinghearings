@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0673-2026",
+ "title": "Law to let City set pedicab fare rates",
+ "summary": "This bill would require the Department of Consumer and Worker Protection to set a fixed per-minute rate for pedicab rides, rather than letting individual pedicabs set their own rates. The rate would be set within six months of the law taking effect and would be adjusted over time to keep pace with inflation.",
+ "model": "claude-sonnet-5",
+ "input_hash": "abd273aa08dacf71"
+}

@@ -36,9 +36,40 @@
    "label": "Hearing Transcript - Stated Meeting 8-13-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969302&GUID=074CB9BF-82C9-4FBC-9BA2-96D32C005054"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046583&GUID=DD012CC7-D175-429B-A36E-F1162C980918"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047163&GUID=3F6BA3B0-A4A9-419F-B49B-22D30EC03826"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047163&GUID=3F6BA3B0-A4A9-419F-B49B-22D30EC03826"
+ },
  "history": [
   {
    "date": "2026-08-13",

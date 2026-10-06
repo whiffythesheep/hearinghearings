@@ -85,9 +85,32 @@
    "label": "Proposed Int. No. 799-A - 10/5/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16042556&GUID=0678D7C7-9394-47B1-B1E6-1275F13673B4"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16044924&GUID=AA95A8D3-4769-4524-817D-14C70745D6C1"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047059&GUID=8DC7EA62-98CD-4195-A659-AE1614293C87"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047059&GUID=8DC7EA62-98CD-4195-A659-AE1614293C87"
+ },
  "history": [
   {
    "date": "2026-06-08",

@@ -1,0 +1,86 @@
+{
+ "file_number": "Int 0064-2026",
+ "slug": "int-0064-2026",
+ "legistar_id": "7861458",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to restrictions on the operation of pedicabs in the theatre district zone",
+ "status": "Committee",
+ "sponsors": [
+  "Virginia Maloney"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 64",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166495&GUID=44F03F76-CFDB-4B1F-9CBC-3CBFBE64DB4E"
+  },
+  {
+   "label": "Int. No. 64",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166496&GUID=EA9B247E-EA1D-4D97-9E5E-6FB78D6281BE"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15348413&GUID=8E5F78F6-124E-48FB-99C9-C88C6E903BF5"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251406&GUID=298DC8A0-BA8F-43D6-B391-92B54FD78AC3"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252101&GUID=BFC2B506-CFC3-4A98-80A7-52771D6E5C5E"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046580&GUID=8829615B-8E43-4C04-887B-81226DE4BDA8"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047160&GUID=D124BA25-C56E-465D-AC1C-856D5D214B59"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047160&GUID=D124BA25-C56E-465D-AC1C-856D5D214B59"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861458&GUID=8D72DB5B-AC11-4F1D-BA35-5C94E642D444"
+}

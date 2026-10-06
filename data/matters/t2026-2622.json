@@ -4,7 +4,7 @@
  "legistar_id": "8255466",
  "type": "Land Use Application",
  "title": "Application number C 260184 ZMQ (100-12 Queens Boulevard Rezoning) submitted by 100 Queens Blvd Co. LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a: eliminating from within an existing R4B District a C1-2 District; eliminating from within an existing R7-1 District a C1-2 District; changing from an R7-1 District to an R9X District; establishing within an existing R7-1 District a C2-4 District; and establishing within the proposed R9X District a C2-4 District, Borough of Queens, Community District 6, Council District 29.",
- "status": "Introduced",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -22,6 +22,18 @@
    "date": "2026-10-08",
    "body": "City Council",
    "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-06",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-06",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "P-C Item Laid Over by Comm",
    "result": ""
   }
  ],

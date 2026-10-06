@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1026-2026",
- "title": "Law to create curb parking spots for pedicabs",
- "summary": "This bill would require the Department of Transportation to let pedicabs use existing taxi relief stands and taxi and for-hire vehicle relief stands. It would also require the department to install at least 15 pedicab-only relief stands in Midtown Manhattan, between 30th and 68th Streets, within one year of the law taking effect, where pedicabs could park for up to one hour. The law would take effect 90 days after enactment.",
+ "title": "Law to set aside curb space for pedicab parking",
+ "summary": "This bill would require the Department of Transportation to let pedicabs use existing taxi relief stands and create at least 15 new curb stands reserved just for pedicabs in Midtown Manhattan. Pedicabs could park at these designated spots for up to one hour. The requirement would take effect within one year of the law's enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "d6eaa80327921b3b"
+ "input_hash": "42d7354b1664ea88"
 }

@@ -4,7 +4,7 @@
  "legistar_id": "8255468",
  "type": "Land Use Application",
  "title": "Application number N 260362 ZRR (South Richmond Designated Open Space Amendment) submitted by NYC Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending the Open Space provisions of Article X, Chapter 7 (Special South Richmond Development District), Borough of Staten Island, Community District 3, Council District 51.",
- "status": "Introduced",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -22,6 +22,18 @@
    "date": "2026-10-08",
    "body": "City Council",
    "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-06",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-06",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "P-C Item Laid Over by Comm",
    "result": ""
   }
  ],

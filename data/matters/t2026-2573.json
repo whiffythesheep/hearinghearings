@@ -4,7 +4,7 @@
  "legistar_id": "8218409",
  "type": "Oversight",
  "title": "Oversight - Examining the Risks Posed by Artificial Intelligence.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -45,6 +45,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8218409&GUID=D9A2E70D-9DBA-46E6-A020-991AB94CDBDB"
 }

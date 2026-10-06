@@ -30,10 +30,21 @@
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933196&GUID=1698B9CF-8E89-46AA-B643-603C733A7877"
+  },
+  {
+   "label": "Proposed Int. No. 1073-A - 10/6/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046216&GUID=21FE7917-A84E-42F5-A59B-C5D84853F7B1"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-06",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

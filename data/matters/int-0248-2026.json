@@ -116,6 +116,12 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-24",
+   "body": "City Council",
    "action": "Approved by Council",
    "result": "Pass"
   },

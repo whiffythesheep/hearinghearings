@@ -1,0 +1,82 @@
+{
+ "file_number": "Int 0673-2026",
+ "slug": "int-0673-2026",
+ "legistar_id": "7878977",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to pedicab fares",
+ "status": "Committee",
+ "sponsors": [
+  "Julie Won",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 673",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15187899&GUID=54570CCC-BF1A-44BF-B75F-903C9B82E8CE"
+  },
+  {
+   "label": "Int. No. 673",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15187900&GUID=F47FEEF7-FC3A-457A-AD3F-90FBEEA3A8BB"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729652&GUID=DE61F194-A71C-4996-A4C4-ECAB1583B25A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302651&GUID=2A47152B-34BB-4C73-8EA4-20FFDCA42E00"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046582&GUID=9ABFCB03-CA17-4E2D-9795-41B28ECB6EF5"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047162&GUID=634E08CA-40FC-4ADF-9269-FBBFD645E5AC"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047162&GUID=634E08CA-40FC-4ADF-9269-FBBFD645E5AC"
+ },
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7878977&GUID=A8D69F10-22EA-48BA-A393-5CFAF27AF936"
+}

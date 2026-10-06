@@ -70,6 +70,16 @@
    "label": "Proposed Int. No. 684-A - 10/2/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15980056&GUID=D773696B-9A07-4CC0-BA93-4A61FB047348"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047060&GUID=B2ED5A74-A569-4157-A746-393B139A9650"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047165&GUID=1993471E-EB2F-4443-AAB8-C91163C9F4D5"
   }
  ],
  "fiscal": {
@@ -79,20 +89,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 75000,
-   "succeeding": 0,
+   "effective": 0,
+   "succeeding": 75000,
    "full": 75000
   },
   "net": {
-   "effective": -75000,
-   "succeeding": 0,
+   "effective": 0,
+   "succeeding": -75000,
    "full": -75000
   },
-  "effective_fy": "",
+  "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
   "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650476&GUID=CCDF9B2E-9952-4FBB-82DD-94B21320230F"
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047060&GUID=B2ED5A74-A569-4157-A746-393B139A9650"
  },
  "history": [
   {

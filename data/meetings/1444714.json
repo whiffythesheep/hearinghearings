@@ -4,7 +4,7 @@
  "body": "Committee on Land Use",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444714&GUID=370A0B1D-42C5-4528-90CD-85B66CE8C5AE&Search=",
  "items": [
   {
@@ -13,10 +13,79 @@
    "name": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (C 260238 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198586",
    "legistar_guid": "240C2FD6-D12E-428A-B04E-787332AF76C7"
+  },
+  {
+   "file_number": "LU 0131-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (C 260238 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198586",
+   "legistar_guid": "240C2FD6-D12E-428A-B04E-787332AF76C7",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0132-2026",
@@ -24,10 +93,79 @@
    "name": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (N 260239 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198600",
    "legistar_guid": "50624935-F6C9-45F5-B79C-CEF58846D3CB"
+  },
+  {
+   "file_number": "LU 0132-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (N 260239 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198600",
+   "legistar_guid": "50624935-F6C9-45F5-B79C-CEF58846D3CB",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0133-2026",
@@ -35,10 +173,79 @@
    "name": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (C 240218 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198601",
    "legistar_guid": "11F1AE2A-2204-45F8-80DF-A38953BE1D43"
+  },
+  {
+   "file_number": "LU 0133-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (C 240218 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198601",
+   "legistar_guid": "11F1AE2A-2204-45F8-80DF-A38953BE1D43",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0134-2026",
@@ -46,10 +253,79 @@
    "name": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (N 240219 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198631",
    "legistar_guid": "2A885119-C313-453E-A69C-55A0FC2179A0"
+  },
+  {
+   "file_number": "LU 0134-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (N 240219 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198631",
+   "legistar_guid": "2A885119-C313-453E-A69C-55A0FC2179A0",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0135-2026",
@@ -57,10 +333,80 @@
    "name": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (C 240206 ZMX).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198632",
    "legistar_guid": "41FCEA58-BE31-42D7-A0BB-5845266488DE"
+  },
+  {
+   "file_number": "LU 0135-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (C 240206 ZMX).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8198632",
+   "legistar_guid": "41FCEA58-BE31-42D7-A0BB-5845266488DE",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 1,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Negative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0136-2026",
@@ -68,10 +414,80 @@
    "name": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (N 240207 ZRX).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198633",
    "legistar_guid": "A08BD478-CC99-42FE-BBEA-7CE2D6D0801B"
+  },
+  {
+   "file_number": "LU 0136-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (N 240207 ZRX).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8198633",
+   "legistar_guid": "A08BD478-CC99-42FE-BBEA-7CE2D6D0801B",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 1,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Negative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0137-2026",
@@ -79,10 +495,79 @@
    "name": "Zoning, 69-67 108th Street Rezoning, Queens (C 260186 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198641",
    "legistar_guid": "816144BE-B717-42EF-B8AE-0E5DD979BB07"
+  },
+  {
+   "file_number": "LU 0137-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 69-67 108th Street Rezoning, Queens (C 260186 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198641",
+   "legistar_guid": "816144BE-B717-42EF-B8AE-0E5DD979BB07",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0138-2026",
@@ -90,10 +575,79 @@
    "name": "Zoning, 69-67 108th Street Rezoning, Queens (N 260187 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198642",
    "legistar_guid": "30C33BC9-D03A-4866-B872-E23FC369A466"
+  },
+  {
+   "file_number": "LU 0138-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 69-67 108th Street Rezoning, Queens (N 260187 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198642",
+   "legistar_guid": "30C33BC9-D03A-4866-B872-E23FC369A466",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0139-2026",
@@ -101,10 +655,79 @@
    "name": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (C 260087 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198657",
    "legistar_guid": "5294804F-2001-4097-9396-482CE72B6821"
+  },
+  {
+   "file_number": "LU 0139-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (C 260087 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198657",
+   "legistar_guid": "5294804F-2001-4097-9396-482CE72B6821",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0140-2026",
@@ -112,10 +735,79 @@
    "name": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (N 260088 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198658",
    "legistar_guid": "39D45502-A7DF-49AB-87E6-2ECBF044E344"
+  },
+  {
+   "file_number": "LU 0140-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (N 260088 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8198658",
+   "legistar_guid": "39D45502-A7DF-49AB-87E6-2ECBF044E344",
+   "tally": {
+    "Affirmative": 12,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

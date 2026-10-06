@@ -4,7 +4,7 @@
  "legistar_id": "8239233",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to third-party validation and shut-down capability of artificial intelligence models",
- "status": "Introduced",
+ "status": "Committee",
  "sponsors": [
   "Julie Menin",
   "Virginia Maloney",
@@ -66,6 +66,18 @@
    "date": "2026-10-08",
    "body": "City Council",
    "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "P-C Item Laid Over by Comm",
    "result": ""
   }
  ],

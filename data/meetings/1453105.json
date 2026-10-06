@@ -1,0 +1,33 @@
+{
+ "event_id": "1453105",
+ "date": "2026-10-07",
+ "body": "Committee on Small Business",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453105&GUID=D15E5DFC-C5F9-4DB2-82F3-F30D47F8E009&Search=",
+ "items": [
+  {
+   "file_number": "Int 0799-2026",
+   "type": "Introduction",
+   "name": "Establishing a support fund for small retail businesses affected by roadway construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "Proposed Int. No. 799-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7961454",
+   "legistar_guid": "5F8BC250-B819-4F3E-8A64-AB476F1DF02B"
+  },
+  {
+   "file_number": "Res 0328-2026",
+   "type": "Resolution",
+   "name": "Providing a tax credit to businesses negatively affected by infrastructure construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7927430",
+   "legistar_guid": "B9B4337E-824E-48D6-8A1F-79A0E5A0EEA9"
+  }
+ ]
+}

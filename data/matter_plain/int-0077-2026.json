@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0077-2026",
+ "title": "Law to make pedicab fare timers more visible",
+ "summary": "This bill would require pedicabs to mount the ride timer on the rear of the bicycle seat, within clear view of all passengers. It amends existing pedicab safety and signage rules in the city's administrative code. The change aims to reduce overcharging and unclear fare disputes, one of the most common pedicab-related complaints to 311.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e10a0ae0dc5b541c"
+}

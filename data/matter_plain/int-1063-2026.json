@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1063-2026",
- "title": "Law to allow electric-assist pedicabs",
- "summary": "This bill would let pedicabs be equipped with an electric motor under 750 watts that assists pedaling but cuts off at 15 miles per hour, or another speed set by the Department of Transportation. It also allows such electric-assist pedicabs to be up to 55 inches wide. The law would take effect immediately upon passage.",
+ "title": "Law to allow small electric motors on pedicabs",
+ "summary": "This bill would let pedicabs use an electric motor under 750 watts that assists a driver's pedaling but stops helping once the pedicab reaches 15 miles per hour, or another speed set by the Department of Transportation. It also lets such pedicabs be up to 55 inches wide. The change would legalize electric assist that city officials say is already used by most pedicabs despite a current ban on motors.",
  "model": "claude-sonnet-5",
- "input_hash": "b741c3e0fbb972c1"
+ "input_hash": "8bbb5f7d12ed465e"
 }

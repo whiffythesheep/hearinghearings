@@ -1,0 +1,84 @@
+{
+ "file_number": "Int 0077-2026",
+ "slug": "int-0077-2026",
+ "legistar_id": "7861497",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the visibility of the ride timer in pedicabs",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Farah N. Louis",
+  "Carl Wilson",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 77",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166822&GUID=CF0C5885-070B-4718-87B3-FC6C00D87BD7"
+  },
+  {
+   "label": "Int. No. 77",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166824&GUID=498B2706-1A86-45B1-899F-5EAF59C6FE74"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251423&GUID=8388928A-3C7F-4C8B-87B0-9D3E5CB8D13C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252118&GUID=7940CCAE-A5BB-4562-91EA-7DFF6A609FED"
+  },
+  {
+   "label": "Committee Report 10/7/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046581&GUID=54430F76-504D-4EB9-B077-7217F1CCF556"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047161&GUID=25900BDF-0583-435B-81F1-A3E17F36A66C"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047161&GUID=25900BDF-0583-435B-81F1-A3E17F36A66C"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861497&GUID=CDDD4BCE-3E9D-465B-AA94-4080BF8D026E"
+}
