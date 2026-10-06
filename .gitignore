@@ -23,3 +23,6 @@ weekly_digests/
 .claude/scheduled_tasks.lock
 .claude/settings.local.json
 
+
+# wrangler local cache (direct Cloudflare deploys)
+.wrangler/
