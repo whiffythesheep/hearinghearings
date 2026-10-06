@@ -209,7 +209,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 132 of 132</span>
+            <span id="hearing-count" aria-live="polite">Showing 133 of 133</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -577,16 +577,31 @@
             </li>
         
             <li class="hearing-row"
-                data-committees='["Subcommittee on Zoning and Franchises", "Committee on Land Use"]'
+                data-committees='["Subcommittee on Zoning and Franchises"]'
+                data-title="Meeting of October 6, 2026"
+                data-month="2026-10"
+                data-kind="Summarised"
+                data-slug="subcommittee-on-zoning-and-franchises-2026-10-06">
+                <a href="/hearings/subcommittee-on-zoning-and-franchises-2026-10-06/">
+                    <time class="hearing-row__date" datetime="2026-10-06">
+                        October 6, 2026
+                    </time>
+                    <span class="hearing-row__committee">Subcommittee on Zoning and Franchises</span>
+                    <span class="hearing-row__title">Meeting of October 6, 2026</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Land Use"]'
                 data-title="Vote: Rezoning for Fort Hamilton Mews, Brooklyn + 9 more"
                 data-month="2026-10"
                 data-kind="Vote session"
                 data-slug="">
-                <a href="/meetings/1429069/">
+                <a href="/meetings/1444714/">
                     <time class="hearing-row__date" datetime="2026-10-06">
                         October 6, 2026
                     </time>
-                    <span class="hearing-row__committee">Subcommittee on Zoning and Franchises | Committee on Land Use</span>
+                    <span class="hearing-row__committee">Committee on Land Use</span>
                     <span class="hearing-row__title">Vote: Rezoning for Fort Hamilton Mews, Brooklyn + 9 more</span>
                 </a>
             </li>
@@ -2616,7 +2631,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 132;
+        var totalHearings = 133;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
