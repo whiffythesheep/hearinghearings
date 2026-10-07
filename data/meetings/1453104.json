@@ -4,7 +4,7 @@
  "body": "Committee on Education",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453104&GUID=854F1FCE-AEF6-48F1-83E6-BB9AC6592B57&Search=",
  "items": [
   {
@@ -13,10 +13,101 @@
    "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
    "sponsor": "Susan Zhuang",
    "agenda_note": "Proposed Int. No. 684-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7879010",
    "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7"
+  },
+  {
+   "file_number": "Int 0684-2026",
+   "type": "Introduction",
+   "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7879010",
+   "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7"
+  },
+  {
+   "file_number": "Int 0684-2026",
+   "type": "Introduction",
+   "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7879010",
+   "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7"
+  },
+  {
+   "file_number": "Int 0684-2026",
+   "type": "Introduction",
+   "name": "Study on how language access needs and geographic location affect access to early elementary gifted and talented programs.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7879010",
+   "legistar_guid": "226EAC25-0620-4AEE-B6A2-DF526EBEE4E7",
+   "tally": {
+    "Affirmative": 12,
+    "Non-voting": 1
+   },
+   "roll_call": [
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Non-voting"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

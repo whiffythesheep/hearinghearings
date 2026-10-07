@@ -4,14 +4,16 @@
  "legistar_id": "7927430",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation providing a tax credit to businesses negatively affected by infrastructure construction",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Yusef Salaam",
   "Farah N. Louis",
   "Tiffany L. Cabán",
   "Mercedes Narcisse",
   "Phil Wong",
-  "Justin E. Sanchez"
+  "Justin E. Sanchez",
+  "Lynn C. Schulman",
+  "Selvena N. Brooks-Powers"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -49,10 +51,27 @@
    "label": "Committee Report 10/7/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16044925&GUID=0CED771F-DB53-4577-A5BE-D1025AF4EC10"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048550&GUID=74D3141C-22DA-4B37-AD61-18D68C992223"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-08",
    "body": "Committee on Small Business",

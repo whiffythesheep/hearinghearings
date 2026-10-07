@@ -3,8 +3,8 @@
  "slug": "int-0799-2026",
  "legistar_id": "7961454",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a support fund for small retail businesses affected by roadway construction",
- "status": "Laid Over in Committee",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a support fund for small businesses affected by roadway construction",
+ "status": "Reported from Committee",
  "sponsors": [
   "Yusef Salaam",
   "Lincoln Restler",
@@ -24,7 +24,7 @@
   "Phil Wong",
   "Justin E. Sanchez",
   "Kamillah Hanks",
-  "James F. Gennaro",
+  "Kevin C. Riley",
   "Vickie Paladino",
   "Inna Vernikov",
   "Public Advocate Jumaane Williams"
@@ -95,6 +95,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047059&GUID=8DC7EA62-98CD-4195-A659-AE1614293C87"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048549&GUID=7FF6DE61-3747-472E-8E03-9A3BBFF44C85"
   }
  ],
  "fiscal": {
@@ -112,6 +117,30 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047059&GUID=8DC7EA62-98CD-4195-A659-AE1614293C87"
  },
  "history": [
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Small Business",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-08",
    "body": "Committee on Small Business",

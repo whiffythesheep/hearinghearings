@@ -1,0 +1,39 @@
+{
+ "file_number": "T2026-2631",
+ "slug": "t2026-2631",
+ "legistar_id": "8256872",
+ "type": "Land Use Application",
+ "title": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
+ "status": "Introduced",
+ "sponsors": [
+  "Linda Lee"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047121&GUID=B331822E-B6F8-449C-8435-C01D78A9EB78"
+  },
+  {
+   "label": "Memorandum",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047122&GUID=5F2DA480-6FCD-4188-B078-66BFC1F8EADE"
+  },
+  {
+   "label": "Res. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047123&GUID=247D65E2-08C7-4925-89AE-60F2097B9574"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8256872&GUID=4F717965-C264-47BE-83E5-B0B0122E2C7B"
+}

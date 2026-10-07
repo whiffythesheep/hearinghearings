@@ -4,7 +4,7 @@
  "body": "Committee on Small Business",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453105&GUID=D15E5DFC-C5F9-4DB2-82F3-F30D47F8E009&Search=",
  "items": [
   {
@@ -13,10 +13,76 @@
    "name": "Establishing a support fund for small retail businesses affected by roadway construction.",
    "sponsor": "Yusef Salaam",
    "agenda_note": "Proposed Int. No. 799-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7961454",
    "legistar_guid": "5F8BC250-B819-4F3E-8A64-AB476F1DF02B"
+  },
+  {
+   "file_number": "Int 0799-2026",
+   "type": "Introduction",
+   "name": "Establishing a support fund for small retail businesses affected by roadway construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7961454",
+   "legistar_guid": "5F8BC250-B819-4F3E-8A64-AB476F1DF02B"
+  },
+  {
+   "file_number": "Int 0799-2026",
+   "type": "Introduction",
+   "name": "Establishing a support fund for small retail businesses affected by roadway construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7961454",
+   "legistar_guid": "5F8BC250-B819-4F3E-8A64-AB476F1DF02B"
+  },
+  {
+   "file_number": "Int 0799-2026",
+   "type": "Introduction",
+   "name": "Establishing a support fund for small retail businesses affected by roadway construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961454",
+   "legistar_guid": "5F8BC250-B819-4F3E-8A64-AB476F1DF02B",
+   "tally": {
+    "Affirmative": 7
+   },
+   "roll_call": [
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0328-2026",
@@ -24,10 +90,54 @@
    "name": "Providing a tax credit to businesses negatively affected by infrastructure construction.",
    "sponsor": "Yusef Salaam",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7927430",
    "legistar_guid": "B9B4337E-824E-48D6-8A1F-79A0E5A0EEA9"
+  },
+  {
+   "file_number": "Res 0328-2026",
+   "type": "Resolution",
+   "name": "Providing a tax credit to businesses negatively affected by infrastructure construction.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7927430",
+   "legistar_guid": "B9B4337E-824E-48D6-8A1F-79A0E5A0EEA9",
+   "tally": {
+    "Affirmative": 7
+   },
+   "roll_call": [
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shahana K. Hanif",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

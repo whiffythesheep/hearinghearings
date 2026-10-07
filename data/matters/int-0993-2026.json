@@ -3,12 +3,13 @@
  "slug": "int-0993-2026",
  "legistar_id": "8169947",
  "type": "Introduction",
- "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to establishing the taxi and limousine commission's authority over pedicabs, and to repeal subchapter 9 of chapter 2 of title 20 of such code relating to the department of consumer and worker protection's oversight and regulation of pedicabs",
- "status": "Committee",
+ "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to establishing the taxi and limousine commission’s authority over pedicabs, and to repeal subchapter 9 of chapter 2 of title 20 of such code relating to the department of consumer and worker protection’s oversight and regulation of pedicabs",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Gale A. Brewer",
   "Carl Wilson",
-  "Julie Won"
+  "Julie Won",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -67,6 +68,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047124&GUID=E7B8F6DC-03BB-47D6-8C27-AC27FC84AD28"
  },
  "history": [
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-07",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

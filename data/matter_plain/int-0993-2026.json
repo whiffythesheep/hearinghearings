@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0993-2026",
- "title": "Law to shift pedicab oversight from DCWP to TLC",
- "summary": "This bill would transfer licensing, oversight and enforcement of pedicabs from the Department of Consumer and Worker Protection to the Taxi and Limousine Commission, repealing the DCWP's pedicab law and adding a new pedicab chapter to the Administrative Code. It would keep the existing cap of 850 pedicab registration plates, require TLC to issue business and driver licenses, and direct TLC to study ways to lower insurance costs for pedicab businesses and drivers. The law would take effect 180 days after being enacted.",
+ "title": "Law to shift pedicab oversight to the Taxi Commission",
+ "summary": "This bill would move licensing and regulation of pedicabs from the Department of Consumer and Worker Protection to the Taxi and Limousine Commission (TLC), which would issue licenses to pedicab businesses and drivers and enforce pedicab rules. TLC would also study and report on ways to lower insurance costs for pedicab businesses and drivers. The law would take effect 180 days after being signed.",
  "model": "claude-sonnet-5",
- "input_hash": "4d6c26363148868b"
+ "input_hash": "f2f946212594dd6c"
 }
