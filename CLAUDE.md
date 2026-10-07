@@ -345,10 +345,19 @@ python summarize_matters.py --new          # nightly
 Backfill of 565 matters on 2026-09-28 cost $3.73 via the Batch API. Nightly cost is cents.
 Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
-### Nightly record refresh (`refresh_record_nightly.py`)
+### Nightly run (19:00): record refresh, then new hearings
 
-`run_discover.ps1` (Task Scheduler `HearingHearingsDiscover`, 19:00) now runs this **before**
-`discover_pending.py`:
+Task Scheduler task `HearingHearingsDiscover` runs `run_discover.ps1` every day at 19:00 and
+logs to `discover.log`. It keeps the **whole site** current, not just hearings, in two stages:
+
+- **Record refresh** (`refresh_record_nightly.py`): matters, votes, vote sessions and the next
+  day's meetings. Commits and pushes **straight to master**, so it goes live with no review.
+- **New hearings** (`discover_pending.py`, up to 3 a night): each new recording becomes a
+  `pending/<event_id>` branch and a PR, with a Cloudflare branch preview. A hearing publishes
+  only when its PR is merged. A long hearing takes a while (a 10-hour one ran ~1 hour), so check
+  the task is no longer running before touching the working tree.
+
+The record refresh does this:
 
 1. Sync master to origin (tree must be clean, else it exits and changes nothing).
 2. `scrape_record.py --refresh`: re-fetches meetings from the last 7 days, the next day's
@@ -379,26 +388,29 @@ a 4-hour browser cache and a restyle otherwise shows new pages with the old styl
 - GitHub: `whiffythesheep/hearinghearings` (public repo)
 - Host: Cloudflare Pages, build output dir = `site/output/`, no build command
 - DNS: Cloudflare (`hearinghearings.nyc`)
-- Trigger: any push to `master` auto-deploys — **except while GitHub has the account flagged**
-  (see below)
-
-**Outage from 2026-09-23: GitHub flagged the `whiffythesheep` account.** The profile and repo
-return 404 to anyone not logged in as the owner (pushes, PRs and `gh` still work for the
-owner), so Cloudflare's Git integration fails with `remote: Repository not found` and nothing
-deployed for five days before anyone noticed. It was not a Cloudflare or code problem; do not
-uninstall the GitHub app, disconnect the Pages project or create a new one. The user contacted
-GitHub Support on 2026-09-28 (GitHub replied 2026-09-29 asking how the account is used).
-
-**Decision (2026-09-29): wait for GitHub, no workaround.** A wrangler direct-upload stopgap ran
-for one night (2026-09-28) and was then removed at the user's request, along with the local
-wrangler install and login. Do not reintroduce direct uploads or new Cloudflare API tokens.
-While flagged, pushes to master still land on GitHub but the live site stays frozen at the
-2026-09-28 deploy; once the flag lifts, retry the latest deployment in Cloudflare and Git
-deploys resume. PR branch previews do not exist while flagged — review changes locally.
+- Trigger: any push to `master` auto-deploys; PR branches get preview deployments
 
 **To diagnose "the site isn't updating":** check the live site actually changed after a push
-(never assume), then `curl -o /dev/null -w '%{http_code}' https://github.com/whiffythesheep`
-(404 = account hidden), then the Cloudflare project page and a deployment's build log.
+(never assume; `curl` needs a browser `-A` user agent or Cloudflare returns 403). Then look for a
+`Cloudflare Pages` check on the commit (`gh api repos/whiffythesheep/hearinghearings/commits/master/check-runs`).
+A failed check means read the build log. **No check at all** means GitHub is not notifying
+Cloudflare: confirm the account is public
+(`curl -o /dev/null -w '%{http_code}' https://github.com/whiffythesheep`, 404 = hidden) and that
+"Cloudflare Workers and Pages" is still listed under GitHub Settings → Applications → Installed
+GitHub Apps.
+
+**Past outage, 2026-09-23 to 2026-10-06 (resolved).** GitHub flagged the `whiffythesheep`
+account, hiding the profile and repo from everyone but the owner, so Cloudflare's builds failed
+with `remote: Repository not found` and the live site froze. GitHub lifted the flag on
+2026-10-06, but deploys did not resume by themselves: the flag had also **removed the Cloudflare
+GitHub app from the account**, so pushes triggered no build and the Pages project showed an
+"internal issue with your Git installation" banner. The fix was to reinstall the app from
+Cloudflare (Workers & Pages → Create application → Pages → Import an existing Git repository →
+add the GitHub account), stopping before the step that creates a project. The existing project
+reconnected and the next push deployed. If it recurs: while the account is hidden nothing on
+the Cloudflare side helps, so wait for GitHub. Never delete or disconnect the existing Pages
+project or create a second one, and do not reintroduce wrangler direct uploads or Cloudflare API
+tokens (a one-night stopgap was removed at the user's request).
 
 `site/output/` is **committed** to the repo (not gitignored) — this is how Cloudflare Pages serves the pre-built site without running a build step.
 
