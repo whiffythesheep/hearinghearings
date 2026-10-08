@@ -1283,6 +1283,30 @@ def remove_sections(utterances, keep_public_testimony=False):
         re.IGNORECASE,
     )
 
+    # The decorum script read out before public panels. Chairs who never say a
+    # clean "I now open the hearing for public testimony" still read this.
+    decorum_pattern = re.compile(
+        r"remind\s+(the\s+|all\s+)?(members\s+of\s+the\s+public|public(\s+members)?|everyone)"
+        r"\s+that\s+this\s+is\s+a\s+(formal\s+)?government\s+proceeding",
+        re.IGNORECASE,
+    )
+    # "A few final questions, and then I am going to go into public testimony."
+    deferral_pattern = re.compile(r"\b(then|before|after|until|once|later)\b", re.IGNORECASE)
+
+    def paragraph_start(text, pos):
+        start = text.rfind("\n\n", 0, pos)
+        return 0 if start < 0 else start + 2
+
+    def find_public_cut(text):
+        """Offset where public testimony starts in this utterance, or None."""
+        for m in public_testimony_pattern.finditer(text):
+            para = paragraph_start(text, m.start())
+            sentence = max(para, max(text.rfind(c, 0, m.start()) for c in ".?!") + 1)
+            if m.start() - para < 120 and not deferral_pattern.search(text[sentence:m.start()]):
+                return para
+        m = decorum_pattern.search(text)
+        return paragraph_start(text, m.start()) if m else None
+
     indices_to_remove = set()
 
     # Find and remove oath sections
@@ -1297,29 +1321,47 @@ def remove_sections(utterances, keep_public_testimony=False):
                 else:
                     break
 
-    # Find and remove public testimony (everything from trigger phrase onward).
-    # Only match when the phrase appears in a short utterance (transition
-    # announcement) or near the start of the text, to avoid false positives
-    # from passing mentions in longer speeches.
+    # Find and remove public testimony (everything from the trigger onward).
+    # The trigger must sit near the start of a paragraph, to avoid false
+    # positives from passing mentions in longer speeches. Segmentation often
+    # merges the chair's wrap-up and the trigger into one turn, so the test is
+    # per paragraph and the turn is cut mid-way, keeping what came before.
+    # Nothing in the first fifth of the transcript counts: some hearings open
+    # with a public pre-panel, and cutting there would drop the whole hearing.
+    public_cut_text = None
     if not keep_public_testimony:
         public_start = None
+        total_chars = sum(len(u["text"]) for u in utterances)
+        seen_chars = 0
         for i, u in enumerate(utterances):
-            m = public_testimony_pattern.search(u["text"])
-            if m and m.start() < 120:
+            cut = find_public_cut(u["text"])
+            if cut is not None and seen_chars + cut < total_chars * 0.2:
+                logger.warning(
+                    f"  Public testimony trigger at {ms_to_timestamp(u['start'])} is too early "
+                    f"to cut on, ignored."
+                )
+                cut = None
+            if cut is not None:
                 public_start = i
+                public_cut_text = u["text"][:cut].rstrip()
                 logger.info(
                     f"  Removing public testimony from {ms_to_timestamp(u['start'])} onward "
                     f"({len(utterances) - i} utterances)"
                 )
                 break
+            seen_chars += len(u["text"])
 
         if public_start is not None:
-            indices_to_remove.update(range(public_start, len(utterances)))
+            first_removed = public_start + 1 if public_cut_text else public_start
+            indices_to_remove.update(range(first_removed, len(utterances)))
 
     if not indices_to_remove:
         logger.info("  No oath or public testimony sections found to remove.")
         return utterances
 
+    if public_cut_text:
+        # The trigger sat part-way through a merged turn: keep the turn's opening.
+        utterances[public_start] = {**utterances[public_start], "text": public_cut_text}
     result = [u for i, u in enumerate(utterances) if i not in indices_to_remove]
     logger.info(f"  Removed {len(indices_to_remove)} utterances total.")
     return result
