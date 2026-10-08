@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1101-2026",
+ "title": "Law to let residents sue over AI rule violations for a cut",
+ "summary": "This bill would let any New Yorker file a complaint with the Department of Consumer and Worker Protection claiming a violation of the city's artificial intelligence rules. The department must investigate most complaints and share them with the Law Department, and within 180 days must say whether it will act on the complaint or let the complainant pursue it instead. Complainants could receive 25 percent of any money recovered if the city acts, or 50 percent if the complainant is authorized to pursue the case themselves.",
+ "model": "claude-sonnet-5",
+ "input_hash": "10ada63d1f3dbfea"
+}

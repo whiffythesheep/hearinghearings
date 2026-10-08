@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1111-2026",
+ "title": "Law requiring school Medicaid reimbursement reports",
+ "summary": "This bill would require the Department of Education to report quarterly on Medicaid claims and reimbursements for student health services like therapy and nursing. The report would show how many services were eligible, claimed, reimbursed or denied, broken down by borough and school district. It would also detail reasons claims were not submitted and track services required under students' IEPs.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e885b9f113bfb200"
+}

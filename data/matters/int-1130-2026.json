@@ -1,0 +1,91 @@
+{
+ "file_number": "Int 1130-2026",
+ "slug": "int-1130-2026",
+ "legistar_id": "8239256",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring certain disclosures and prohibiting deceptive representations in the promotion of artificial intelligence models",
+ "status": "Committee",
+ "sponsors": [
+  "Carl Wilson",
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Mercedes Narcisse"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936768&GUID=30C4DC7A-82E0-4DE9-8F04-D51073CCE064"
+  },
+  {
+   "label": "Summary of Int. No. 1130",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936766&GUID=BB4795C6-7C71-48EE-9714-ED8C6A7ECC3D"
+  },
+  {
+   "label": "Int. No. 1130",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15936767&GUID=1D46E65A-A730-4D17-BE5B-1500C687368D"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973158&GUID=F574BE0D-125E-4729-995C-29E1A197D3CF"
+  },
+  {
+   "label": "Committee Report 10/5/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979560&GUID=A610C55C-8AA9-47CA-9825-D884253CFEBA"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973158&GUID=F574BE0D-125E-4729-995C-29E1A197D3CF"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-05",
+   "body": "Committee of the Whole",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8239256&GUID=9794774A-D2EF-4934-8DF0-3485526B6597"
+}

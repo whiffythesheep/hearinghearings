@@ -4,7 +4,7 @@
  "legistar_id": "8170201",
  "type": "Land Use Application",
  "title": "Application number N 250126 ZRQ (21-31 46th Ave Rezoning) submitted by 21-31 Holdings LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 2, Council District 26.",
- "status": "Companion Pending Approval by Council",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -46,7 +46,7 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966814&GUID=874B6624-940F-4C7F-AD7A-C3CDF3A4F6F5"
   },
   {
-   "label": "Res. No.",
+   "label": "Res. No. 678",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966815&GUID=0429B429-06AA-429F-9AE3-5E8883FAE53B"
   },
@@ -63,6 +63,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

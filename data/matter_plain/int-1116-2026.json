@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1116-2026",
+ "title": "Law to let people sue AI companies for third-party misuse harms",
+ "summary": "This bill would let a person sue an artificial intelligence provider for harm caused in New York City when a third party misused or maliciously used the company's AI model, the company failed to implement reasonable safeguards against that misuse, and the harm was foreseeable. Remedies could include damages, punitive damages and injunctive relief. It is one of several AI-related bills considered at an October 5, 2026 Committee of the Whole oversight hearing on AI risks.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c514a7d91feece92"
+}

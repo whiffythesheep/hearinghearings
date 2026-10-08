@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1126-2026",
+ "title": "Law to track language help at health department facilities",
+ "summary": "This bill would require the health department to build a centralized electronic system tracking language access services at its public-facing facilities, including patients' preferred languages and instances where interpretation or translation was requested, provided or unavailable. The department would also issue annual public reports on this data, starting one year after the law takes effect. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "d51bb0bf12279b61"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1100-2026",
+ "title": "Law to require safety checks and shut-off switch for AI",
+ "summary": "This bill would make it illegal to sell or deploy an artificial intelligence model in New York City unless it has been validated by an independent third party and has a technical shut-down capability for human operators. Validators would assess topics such as performance, bias, privacy and safety, and must disclose any conflicts of interest to the developer and the Office of Cyber Command. Violations could bring civil penalties up to $25,000 per instance, and the law would take effect 180 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "236d166cbb95dc6f"
+}

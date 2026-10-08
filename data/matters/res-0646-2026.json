@@ -4,14 +4,15 @@
  "legistar_id": "8237316",
  "type": "Resolution",
  "title": "Resolution declaring October as Hindu American Awareness and Appreciation Month in the City of New York",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Amanda C. Farías",
   "Justin E. Sanchez",
   "Virginia Maloney",
   "James F. Gennaro",
   "Lynn C. Schulman",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -33,6 +34,24 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

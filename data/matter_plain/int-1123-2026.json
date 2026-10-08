@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1123-2026",
+ "title": "Law to protect whistleblowers reporting AI safety risks",
+ "summary": "This bill would extend New York City's whistleblower protections to city employees and contractor employees who report conduct related to the use or development of an artificial intelligence model that poses a substantial risk to public health or safety. It would require contractors and subcontractors to post notices about these whistleblower rights at work sites. The Department of Investigation would have to include the number of such AI-related whistleblower reports in its annual report to the mayor and Council speaker.",
+ "model": "claude-sonnet-5",
+ "input_hash": "72a4a9cba8b6469e"
+}

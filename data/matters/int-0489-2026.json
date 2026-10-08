@@ -4,7 +4,7 @@
  "legistar_id": "7863053",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the creation of a centralized online database and notification system for towed vehicles, and to repeal section 20-528 of such code, relating to notification of a towed vehicle to a local police precinct",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Inna Vernikov",
   "Farah N. Louis",
@@ -76,6 +76,21 @@
    "label": "Committee Report 10/8/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16049410&GUID=BB080075-4AAE-4A0D-B2C8-85BC3A8D573D"
+  },
+  {
+   "label": "Proposed Int. No. 489-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051159&GUID=353EE6AC-0F2D-4D25-B54D-80172C0FB7EA"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16052060&GUID=6660E0A3-4EE5-46AA-A0A7-824859E7C751"
+  },
+  {
+   "label": "Int. No. 489-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16052540&GUID=6BA62FDA-32CA-4F95-83A5-BBC41167B345"
   }
  ],
  "fiscal": {
@@ -84,23 +99,45 @@
    "succeeding": 0,
    "full": 0
   },
-  "expenditures": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
-  },
-  "net": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
-  },
-  "effective_fy": "2027",
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2028",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement- City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15565671&GUID=3683C41F-75EF-4C99-8521-C7C96C893441"
+  "label": "Proposed Int. No. 489-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051159&GUID=353EE6AC-0F2D-4D25-B54D-80172C0FB7EA"
  },
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Public Safety",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Public Safety",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Public Safety",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Public Safety",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-10",
    "body": "Committee on Public Safety",

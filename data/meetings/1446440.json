@@ -4,30 +4,202 @@
  "body": "Committee on Finance",
  "location": "Committee Room - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1446440&GUID=1971F32E-43F8-46B8-A8B7-9614EA888E72&Search=",
  "items": [
   {
-   "file_number": "T2026-2630",
+   "file_number": "LU 0146-2026",
    "type": "Land Use Application",
    "name": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8256871",
    "legistar_guid": "9FF6DEA2-C31F-4CCB-B27B-FB45F9BC8797"
   },
   {
-   "file_number": "T2026-2631",
+   "file_number": "LU 0146-2026",
+   "type": "Land Use Application",
+   "name": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8256871",
+   "legistar_guid": "9FF6DEA2-C31F-4CCB-B27B-FB45F9BC8797",
+   "tally": {
+    "Affirmative": 15,
+    "Absent": 1,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0147-2026",
    "type": "Land Use Application",
    "name": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8256872",
    "legistar_guid": "4F717965-C264-47BE-83E5-B0B0122E2C7B"
+  },
+  {
+   "file_number": "LU 0147-2026",
+   "type": "Land Use Application",
+   "name": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8256872",
+   "legistar_guid": "4F717965-C264-47BE-83E5-B0B0122E2C7B",
+   "tally": {
+    "Affirmative": 15,
+    "Absent": 1,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Medical"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

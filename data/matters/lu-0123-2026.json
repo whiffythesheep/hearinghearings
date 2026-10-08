@@ -4,7 +4,7 @@
  "legistar_id": "8163078",
  "type": "Land Use Application",
  "title": "Application number C 260171 ZMQ (158-06 Northern Boulevard Rezoning) submitted by Northern 158 Holdings LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10c: eliminating from within an existing R5B District a C1-2 District; changing from an R2 District to an R7A District; changing from an R5B District to an R7A District; and establishing within the proposed R7A District a C2-4 District, Borough of Queens, Community District 7, Council District 20.",
- "status": "Companion Pending Approval by Council",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -61,7 +61,7 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966660&GUID=718ACA51-9A2B-4F81-B435-2AB9B11890E5"
   },
   {
-   "label": "Res. No.",
+   "label": "Res. No. 673",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966816&GUID=3385BB8B-EBDA-4CDB-AD5E-57C1D4AA7893"
   },
@@ -78,6 +78,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

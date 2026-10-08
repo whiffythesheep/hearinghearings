@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1130-2026",
+ "title": "Law to require honesty in AI advertising",
+ "summary": "This bill would require ads promoting an artificial intelligence model in New York City to disclose whether the model was validated by a third party. It would also ban ads that make materially false or misleading claims about an AI model's safety risks or safeguards. Violators could face civil penalties of up to $25,000 per violation, enforced by the city's Corporation Counsel.",
+ "model": "claude-sonnet-5",
+ "input_hash": "0b54157d52bd14dc"
+}

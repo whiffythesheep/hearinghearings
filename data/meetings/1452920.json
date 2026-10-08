@@ -4,7 +4,7 @@
  "body": "Committee on Cultural Affairs, Libraries and International Relations",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452920&GUID=3C683ED8-D197-411C-B4B8-2F8EB81DCAEE&Search=",
  "items": [
   {
@@ -13,10 +13,77 @@
    "name": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
    "sponsor": "Shirley Aldebol",
    "agenda_note": "Proposed Res. No. 458-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8027970",
    "legistar_guid": "C8765A80-86BC-4A80-96A6-3B29BEA711D8"
+  },
+  {
+   "file_number": "Res 0458-2026",
+   "type": "Resolution",
+   "name": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+   "sponsor": "Shirley Aldebol",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8027970",
+   "legistar_guid": "C8765A80-86BC-4A80-96A6-3B29BEA711D8"
+  },
+  {
+   "file_number": "Res 0458-2026",
+   "type": "Resolution",
+   "name": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+   "sponsor": "Shirley Aldebol",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8027970",
+   "legistar_guid": "C8765A80-86BC-4A80-96A6-3B29BEA711D8"
+  },
+  {
+   "file_number": "Res 0458-2026",
+   "type": "Resolution",
+   "name": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+   "sponsor": "Shirley Aldebol",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8027970",
+   "legistar_guid": "C8765A80-86BC-4A80-96A6-3B29BEA711D8",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Absent"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0646-2026",
@@ -24,10 +91,55 @@
    "name": "Declaring October as Hindu American Awareness and Appreciation Month.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8237316",
    "legistar_guid": "6E01FD3C-71C0-40B1-9F7D-B0093BBD4FC7"
+  },
+  {
+   "file_number": "Res 0646-2026",
+   "type": "Resolution",
+   "name": "Declaring October as Hindu American Awareness and Appreciation Month.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8237316",
+   "legistar_guid": "6E01FD3C-71C0-40B1-9F7D-B0093BBD4FC7",
+   "tally": {
+    "Affirmative": 6,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Absent"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

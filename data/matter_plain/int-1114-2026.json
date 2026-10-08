@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1114-2026",
+ "title": "Law to require yearly reports on cervical and ovarian cancer",
+ "summary": "This bill would require the Health Department to report annually on cervical and ovarian cancer screenings and diagnoses citywide. The report would break down data by hospital, race or ethnicity, zip code and age, without including personal information. It would also identify which hospitals and city-run clinics have staff specializing in these cancers.",
+ "model": "claude-sonnet-5",
+ "input_hash": "3e06874db82184d4"
+}

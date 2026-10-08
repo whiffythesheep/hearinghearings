@@ -4,7 +4,7 @@
  "legistar_id": "8027970",
  "type": "Resolution",
  "title": "Resolution calling on the Governor to sign S.6487C/A.7033D to empower the New York State Council on the Arts to designate Little Yemen as a cultural district",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Shirley Aldebol",
   "Shahana K. Hanif",
@@ -49,10 +49,50 @@
    "label": "Committee Report 10/8/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046579&GUID=72315DB0-A062-45E9-A523-5214BEF00885"
+  },
+  {
+   "label": "Hearing Testimony 10/8/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16052334&GUID=236DC82B-3A59-4731-AC01-C47198185E14"
+  },
+  {
+   "label": "Appearance Cards 10/8/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16054044&GUID=0C7F49F8-0973-4F43-989E-E91D3B9E5B7E"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-05-14",
    "body": "City Council",

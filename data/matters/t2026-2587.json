@@ -17,12 +17,12 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043081&GUID=7370FB3A-7F79-49CF-B093-53A41C463F7C"
   },
   {
-   "label": "Summary of Int. No.",
+   "label": "Summary of Int. No. 1120",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883188&GUID=3D9374F7-1CA1-482D-8574-EB343B901150"
   },
   {
-   "label": "Int. No.",
+   "label": "Int. No. 1120",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883189&GUID=727A96D1-3D15-4473-BF42-9D94FDA8E7E0"
   },
@@ -64,6 +64,12 @@
    "date": "2026-10-08",
    "body": "City Council",
    "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
    "result": ""
   },
   {

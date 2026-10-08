@@ -4,7 +4,7 @@
  "body": "Committee on Public Safety",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453088&GUID=32A60465-893E-4CDC-996B-C2459E60B5BE&Search=",
  "items": [
   {
@@ -13,10 +13,86 @@
    "name": "Requiring the creation of a centralized online database and notification system for towed vehicles, and to repeal section 20-528 of such code, relating to notification of a towed vehicle to a local police precinct.",
    "sponsor": "Inna Vernikov",
    "agenda_note": "Proposed Int. No. 489-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7863053",
    "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF"
+  },
+  {
+   "file_number": "Int 0489-2026",
+   "type": "Introduction",
+   "name": "Requiring the creation of a centralized online database and notification system for towed vehicles, and to repeal section 20-528 of such code, relating to notification of a towed vehicle to a local police precinct.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7863053",
+   "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF"
+  },
+  {
+   "file_number": "Int 0489-2026",
+   "type": "Introduction",
+   "name": "Requiring the creation of a centralized online database and notification system for towed vehicles, and to repeal section 20-528 of such code, relating to notification of a towed vehicle to a local police precinct.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7863053",
+   "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF"
+  },
+  {
+   "file_number": "Int 0489-2026",
+   "type": "Introduction",
+   "name": "Requiring the creation of a centralized online database and notification system for towed vehicles, and to repeal section 20-528 of such code, relating to notification of a towed vehicle to a local police precinct.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7863053",
+   "legistar_guid": "11246998-67FF-42AC-83FF-B7D1D1AFBCFF",
+   "tally": {
+    "Affirmative": 7,
+    "Medical": 1,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Joann Ariola",
+     "vote": "Medical"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kamillah Hanks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

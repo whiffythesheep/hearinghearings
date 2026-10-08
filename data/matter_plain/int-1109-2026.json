@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1109-2026",
+ "title": "Law to require public disclosure of AI safety incidents in city contracts",
+ "summary": "This bill would require the Office of Cyber Command to set standards for contractors and city agencies to identify and report AI safety incidents involving city contracts within 24 hours. The office would then publicly post details of each incident within 24 hours and issue an annual summary report. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "5f80cc9e31d389bd"
+}

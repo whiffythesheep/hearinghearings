@@ -4,7 +4,7 @@
  "legistar_id": "7927430",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation providing a tax credit to businesses negatively affected by infrastructure construction",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Yusef Salaam",
   "Farah N. Louis",
@@ -60,6 +60,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-10-07",
    "body": "Committee on Small Business",

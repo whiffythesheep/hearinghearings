@@ -13,12 +13,12 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
-   "label": "Summary of Int. No.",
+   "label": "Summary of Int. No. 1110",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883183&GUID=50ECEBFE-41CA-4BCB-BF85-71BD595813A0"
   },
   {
-   "label": "Int. No.",
+   "label": "Int. No. 1110",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15883182&GUID=50DACB59-A5DB-472E-925A-4419C24C1B76"
   },
@@ -60,6 +60,12 @@
    "date": "2026-10-08",
    "body": "City Council",
    "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "",
    "result": ""
   },
   {
