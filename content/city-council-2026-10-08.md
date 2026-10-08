@@ -1,7 +1,7 @@
 ---
 committee: "City Council"
 committee_slug: city-council
-title: "Meeting of October 8, 2026"
+title: "AI Regulation Package and Housing Rezonings"
 date: 2026-10-08
 slug: city-council-2026-10-08
 duration: "1hr 19m"
