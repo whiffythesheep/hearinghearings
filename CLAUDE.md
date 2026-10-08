@@ -130,7 +130,7 @@ Pipeline steps:
 4. Segment transcript into speaker turns via Claude (index-based, not text/timestamp)
 5. Clean transcript via Claude (style rules: expanded contractions, no Oxford commas, no comma splices, periods over semicolons, ellipses for pauses, `CM` for Councilmember, capitalised Council/City/Bill)
 6. Format speaker headers (Chair/CM/witness conventions)
-7. Remove oath and public testimony sections
+7. Remove oath and public testimony sections (`remove_sections()`). Testimony is cut from the chair's "I now open the hearing for public testimony" or the decorum script ("I remind members of the public that this is a government proceeding") onward, tested per paragraph because segmentation usually merges the trigger into the previous turn. A trigger in the first fifth of the transcript is ignored with a warning. `--keep-public-testimony` keeps it. Until 2026-10-07 the test was per turn and missed in about 45 of 115 hearings; those published pages deliberately keep their testimony, so **a batch reprocess would now strip it and rewrite their summaries**
 8. Generate structured summary via Claude Sonnet
 9. Write markdown with YAML front matter to `content/<slug>.md` (fields: `committee`, `committee_slug`, `title`, `date`, `slug`, `duration`, `youtube_url`, optional `viebit_url`, optional `viebit_hash`, optional `council_url`)
 10. Run `site/build.py` to regenerate `site/output/`
