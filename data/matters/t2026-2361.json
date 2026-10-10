@@ -8,7 +8,8 @@
  "sponsors": [
   "Crystal Hudson",
   "Shaun Abreu",
-  "Phil Wong"
+  "Phil Wong",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,6 +32,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966098&GUID=D1439E2C-A6E0-4052-AC31-8E3731AF008F"
+  },
+  {
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056799&GUID=4435818D-B183-4ED6-81DC-E1AFA472BF03"
+  },
+  {
+   "label": "Appearance Cards 9/30/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056881&GUID=3EC971FA-72A4-4283-8614-639EECF2F1F6"
   }
  ],
  "fiscal": {

@@ -36,6 +36,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765117&GUID=BE2CE9A6-4305-4EEB-AB88-2A66363F566C"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969305&GUID=3849407B-3499-4031-9872-53286117BC2E"
+  },
+  {
    "label": "Committee Report 9/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937495&GUID=16ADD6E1-32CC-49EC-995A-6F9D5A23BA3D"
@@ -46,9 +51,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965919&GUID=7FF9F6F8-D8C2-42CA-AAED-3298F239703E"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 8-13-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969305&GUID=3849407B-3499-4031-9872-53286117BC2E"
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056759&GUID=68C84BCE-88B4-4190-944E-AD80F53BD6BF"
+  },
+  {
+   "label": "Appearance Cards 9/30/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056840&GUID=44894F4C-0062-4342-AC4E-EC076FE2F0BF"
   }
  ],
  "fiscal": {

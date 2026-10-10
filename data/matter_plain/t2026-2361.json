@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2361",
  "title": "Law to ban the fastest class of e-bikes",
- "summary": "This bill would prohibit operating class 3 e-bicycles, the fastest legal category capable of reaching 25 mph without pedaling, on city streets, in parks and in other public places. Violators would get warnings only until April 1, 2029, after which fines would rise from $0 for a first violation to $50 for a second and $100 for later violations within two years, with possible impoundment for unsafe repeat violations. The law would take effect 24 months after passage.",
+ "summary": "This bill would prohibit operating class 3 e-bicycles, which can reach 25 mph using motor power alone, on city streets, in parks and in other public places. Violators would get warnings only until April 1, 2029, after which civil penalties would start at $0 for a first offense, rising to $50 and then $100 for repeat violations within two years. Bikes ridden unsafely on a third or later violation could be impounded, and the law would take effect 24 months after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "b75569211e907f7c"
+ "input_hash": "4f3a40ca0972942f"
 }

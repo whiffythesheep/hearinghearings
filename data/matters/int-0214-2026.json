@@ -13,7 +13,8 @@
   "Farah N. Louis",
   "Crystal Hudson",
   "Shaun Abreu",
-  "Lynn C. Schulman"
+  "Lynn C. Schulman",
+  "Shanel Thomas-Henry"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -51,6 +52,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966101&GUID=14E122CE-E035-4640-A83E-035785EB4328"
+  },
+  {
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056744&GUID=AA31360C-EAA5-40FA-A594-11C1795E6025"
+  },
+  {
+   "label": "Appearance Cards 9/30/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056820&GUID=57C8E1AE-6545-47CC-9832-52061F33AC41"
   }
  ],
  "fiscal": {

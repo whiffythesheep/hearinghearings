@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2590",
- "title": "Law to require sidewalk-detection tech on shared e-bikes and scooters",
- "summary": "This bill would require companies operating e-bike and e-scooter share systems, like Citi Bike, to install technology that detects when a device is being ridden on a sidewalk. Share systems would also need a safety feature that gradually slows and stops the device until it leaves the sidewalk. There is no penalty for a first violation, but repeat violations within two years could bring a fine of up to $1,000, and the law would take effect one year after passage.",
+ "title": "Law to require sidewalk-detection brakes on shared e-bikes/scooters",
+ "summary": "This bill would require companies operating electric bike and scooter share systems to install sidewalk riding detection technology on their devices. It would also require a safety feature that automatically and gradually slows a device to a stop if it detects the device riding on a sidewalk. A first violation carries no penalty, but repeat violations within two years could bring a civil penalty of up to $1,000.",
  "model": "claude-sonnet-5",
- "input_hash": "db2269e98819846c"
+ "input_hash": "1abbf8dd16afb315"
 }

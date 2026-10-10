@@ -1,0 +1,7 @@
+{
+ "file_number": "Res 0681-2026",
+ "title": "Rezoning map change for Park Avenue, Brooklyn",
+ "summary": "This application would change the zoning map to replace manufacturing districts with mixed manufacturing-residential districts along Park Avenue in Brooklyn's Community District 3. It would also establish a Special Mixed Use District to allow residential and commercial uses alongside manufacturing. The change affects properties in Council District 33.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c5929eb9b134c363"
+}

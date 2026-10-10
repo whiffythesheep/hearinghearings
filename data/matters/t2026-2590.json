@@ -8,7 +8,8 @@
  "sponsors": [
   "Shaun Abreu",
   "Virginia Maloney",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,6 +32,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966099&GUID=2E55ED84-6550-4682-8FBC-A0E7E81D7160"
+  },
+  {
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056796&GUID=01C78B60-2B67-41E0-94B9-A94954F55618"
+  },
+  {
+   "label": "Appearance Cards 9/30/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056880&GUID=FB46F3DA-A771-4051-BB4A-0762B0DE8599"
   }
  ],
  "fiscal": {

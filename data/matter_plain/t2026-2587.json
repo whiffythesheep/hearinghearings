@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2587",
- "title": "Law to require food delivery apps to flag unsafe worker driving",
- "summary": "This bill would require third-party food delivery services to use tracking technology that detects when a delivery worker on an e-bike or moped speeds, rides the wrong way or rides on the sidewalk, and to notify the worker in real time. Workers who get three such notifications within seven days could not be assigned more deliveries until they complete a road safety course approved by the Department of Transportation. Delivery services would also have to submit quarterly reports on these notifications. It would take effect 180 days after becoming law.",
+ "title": "Law to require delivery apps to flag unsafe e-bike riding",
+ "summary": "This bill would require third-party food delivery services to track delivery workers using bicycles with electric assist or limited-use motorcycles and alert them in real time if they speed, go the wrong way on a one-way street, or ride on sidewalks. Workers who receive three such alerts within seven days could not be assigned deliveries until completing a road safety course. Delivery services would also have to file quarterly reports on these notifications to the city.",
  "model": "claude-sonnet-5",
- "input_hash": "7d9df734d99c0a37"
+ "input_hash": "c1db4c9aca00a4a7"
 }
