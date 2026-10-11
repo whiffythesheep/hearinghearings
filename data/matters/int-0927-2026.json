@@ -27,9 +27,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575712&GUID=C4D69C97-6705-4064-9252-197912FB9F01"
   },
   {
-   "label": "Fiscal Impact Statement - City Council",
-   "kind": "Fiscal Impact Statement",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953545&GUID=A1208257-FF2E-4D74-AA48-594845C663A8"
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968915&GUID=7919B934-5A01-46B7-AF1E-68B0C6C3503C"
   },
   {
    "label": "Committee Report 9/30/26",
@@ -37,9 +37,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968526&GUID=A7884BA5-9F59-4B62-B5D6-048FB655B952"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 6-11-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968915&GUID=7919B934-5A01-46B7-AF1E-68B0C6C3503C"
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953545&GUID=A1208257-FF2E-4D74-AA48-594845C663A8"
+  },
+  {
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058247&GUID=59C01674-0EA7-4574-A30D-ED6A27E3F967"
   }
  ],
  "fiscal": {
