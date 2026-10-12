@@ -4,7 +4,7 @@
  "legistar_id": "7959565",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Phil Wong",
   "Farah N. Louis",
@@ -113,6 +113,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834386&GUID=67A96945-E7F0-4743-AC02-76F9815DBB2A"
  },
  "history": [
+  {
+   "date": "2026-10-10",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",
