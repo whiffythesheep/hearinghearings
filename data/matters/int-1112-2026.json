@@ -19,6 +19,11 @@
    "label": "Int. No. 1112",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050941&GUID=83B5320B-1182-42B8-B4B1-CB44DB82F51C"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061776&GUID=F5F9E0ED-8DB5-4FD4-8126-5CE8A0AC6090"
   }
  ],
  "fiscal": null,
@@ -26,13 +31,13 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   }
  ],

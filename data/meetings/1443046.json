@@ -1,0 +1,55 @@
+{
+ "event_id": "1443046",
+ "date": "2026-10-14",
+ "body": "Committee on Health",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Deferred",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443046&GUID=4E06229E-E21C-4AE2-AEA8-97D9106CAC4E&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2545",
+   "type": "Oversight",
+   "name": "Oversight - Food Service Establishment Inspections in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8207280",
+   "legistar_guid": "2BA2D29B-010E-4688-A2E5-765D9069C41D"
+  },
+  {
+   "file_number": "Int 0908-2026",
+   "type": "Introduction",
+   "name": "Digital verification of food protection certificates and penalties for failure to maintain a physical certificate on premises.",
+   "sponsor": "Kayla Santosuosso",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8027953",
+   "legistar_guid": "5E45313C-C3D9-49A8-BCF8-7DE746ED0772"
+  },
+  {
+   "file_number": "Int 0947-2026",
+   "type": "Introduction",
+   "name": "The operation of tobacco bars.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067863",
+   "legistar_guid": "0D891FFF-8D33-43B7-8696-8B858EF95FBF"
+  },
+  {
+   "file_number": "Res 0152-2026",
+   "type": "Resolution",
+   "name": "Prohibit certain food additives, to prohibit the sale of food containing certain color additives at schools, and to prohibit the use of substances “Generally Recognized as Safe” in food unless certain reporting requirements are met (S.1239A/A.1556A).",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862975",
+   "legistar_guid": "7C1EC0C2-3864-4153-89C2-314CE89B4BE1"
+  }
+ ]
+}

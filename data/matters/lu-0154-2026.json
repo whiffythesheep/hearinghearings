@@ -9,7 +9,13 @@
   "Kevin C. Riley"
  ],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061804&GUID=8D294630-22CE-42AC-8F7C-2182D3A2EBB1"
+  }
+ ],
  "fiscal": null,
  "history": [
   {
@@ -21,13 +27,13 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   }
  ],

@@ -42,6 +42,11 @@
    "label": "Appearance Cards 9/30/26",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056881&GUID=3EC971FA-72A4-4283-8614-639EECF2F1F6"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061774&GUID=A28B68FE-7C2B-4F5E-B9CA-DDAF1CD1FAB0"
   }
  ],
  "fiscal": {
@@ -70,13 +75,13 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   },
   {

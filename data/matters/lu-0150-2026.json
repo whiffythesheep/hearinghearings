@@ -14,6 +14,11 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting – October 6, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969132&GUID=7993AAC6-F85F-4E17-8181-1D28AD8D2C7A"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061800&GUID=7E81B73E-46AE-4608-8C76-068585B29846"
   }
  ],
  "fiscal": null,
@@ -21,19 +26,19 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
    "action": "Introduced by Council",
-   "result": ""
-  },
-  {
-   "date": "2026-10-08",
-   "body": "City Council",
-   "action": "Referred to Comm by Council",
-   "result": ""
-  },
-  {
-   "date": "2026-10-08",
-   "body": "City Council",
-   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

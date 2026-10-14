@@ -17,6 +17,7 @@
   "Selvena N. Brooks-Powers",
   "Shanel Thomas-Henry",
   "Lincoln Restler",
+  "Christopher Marte",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -35,6 +36,11 @@
    "label": "Int. No. 1111",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050944&GUID=FB2593B9-39CF-4E43-AE4E-A6BC923786BF"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061775&GUID=3899D723-1D83-42DF-93CA-E3962F0ABFEF"
   }
  ],
  "fiscal": null,

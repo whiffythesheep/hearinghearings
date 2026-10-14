@@ -1,0 +1,50 @@
+{
+ "file_number": "Res 0152-2026",
+ "slug": "res-0152-2026",
+ "legistar_id": "7862975",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1239A/A.1556A, to prohibit certain food additives, to prohibit the sale of food containing certain color additives at schools, and to prohibit the use of substances \"Generally Recognized as Safe\" in food unless certain reporting requirements are met",
+ "status": "Committee",
+ "sponsors": [
+  "Althea V. Stevens",
+  "Farah N. Louis",
+  "Sandy Nurse",
+  "Ty Hankerson",
+  "Harvey D. Epstein",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 152",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15277574&GUID=A2CFFE90-4152-4E25-8AF6-A9BF110CEBB7"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251931&GUID=29B292BB-0DD3-43B6-AC46-89104CEA389D"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252623&GUID=850D104B-65A4-4507-97CA-FAC89F7A01A3"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862975&GUID=7C1EC0C2-3864-4153-89C2-314CE89B4BE1"
+}

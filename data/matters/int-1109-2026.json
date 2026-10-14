@@ -11,6 +11,7 @@
   "Farah N. Louis",
   "Mercedes Narcisse",
   "Harvey D. Epstein",
+  "Susan Zhuang",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -34,6 +35,21 @@
    "label": "Committee Report 10/5/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15979554&GUID=F266511B-12DA-44CA-95CC-CA68BBDE4FCD"
+  },
+  {
+   "label": "Hearing Testimony 10/5/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16060652&GUID=F7B61BB4-3C80-4691-A0D6-8369138F5497"
+  },
+  {
+   "label": "Appearance Cards 10/5/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16060534&GUID=317D7514-61E5-4475-A840-BFBE6336FABD"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061773&GUID=DBDC0FDD-44B1-4AE7-B816-EBFAFFCA8346"
   }
  ],
  "fiscal": {
@@ -62,13 +78,13 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   },
   {
