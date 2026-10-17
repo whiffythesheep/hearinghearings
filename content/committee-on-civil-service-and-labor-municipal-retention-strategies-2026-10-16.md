@@ -1,0 +1,1000 @@
+---
+committee: "Committee on Civil Service and Labor"
+committee_slug: committee-on-civil-service-and-labor
+title: "Municipal Retention Strategies"
+date: 2026-10-16
+slug: committee-on-civil-service-and-labor-municipal-retention-strategies-2026-10-16
+duration: "1hr 57m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261016-100812.mp4"
+viebit_hash: "FA5oJS7xp8HqQMge"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452371&GUID=631198C3-620B-4C7B-8C2B-9B712A7CBB56&Search="
+chairs: "Shirley Aldebol"
+members: "Tiffany L. Cabán, James F. Gennaro, Ty Hankerson, Crystal Hudson, Frank Morano, Mercedes Narcisse"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Civil Service and Labor held its second oversight hearing in a series on the municipal workforce, this time focused on retention strategies. Chair Aldebol convened the hearing with testimony from Katrina Porter, Deputy Commissioner and Chief Human Capital Officer at DCAS, and Daniel Pollack, First Deputy Commissioner at the Mayor's Office of Labor Relations. The hearing built on a prior session about recruitment and civil service pathways, and was framed around data showing 32,000 employees departed the City workforce in fiscal year 2025, with resignations now accounting for over 80% of departures and significantly outpacing retirements.
+
+DCAS presented its retention efforts in a broadly positive light, highlighting an 85% retention rate comparable to New York State and the federal government, a median employee tenure of nine years versus three years in the private sector, a vacancy rate of 3.8% down from a high of 8.4% in 2021, and a suite of programs including the Little Apple child care center, an expanded Mayor's Scholarship Program, the CityLearn training platform, agency career counselors, a citywide Employee Viewpoint Survey, and the Work Well wellness program. The Office of Labor Relations emphasized wage increases of over 16% across five years in the last bargaining round, a flexible work pilot extended through 2027, and an equity fund mechanism used to target specific titles with recruitment and retention problems, including lifeguards, 911 operators, probation officers, and school safety agents. A newly launched NYC Health Plan was also cited as a benefits improvement.
+
+Council members pushed back on several fronts. CM Morano questioned whether an 85% retention rate is cause for celebration when it means losing roughly one in seven employees per year, and pressed whether the vacancy rate figure is artificially flattering because it excludes eliminated or frozen positions. He also challenged the scale of the Little Apple program, noting that 40 child care slots in a Lower Manhattan building offer essentially no practical benefit to a sanitation worker in Staten Island or a correction officer working overnight. DCAS acknowledged these were fair points and described the program as a pilot intended to establish a replicable framework. Morano also asked whether commissioners and senior managers are ever held accountable for high turnover in their agencies, and whether DCAS would support publishing agency-level retention rates and requiring corrective action plans. Porter deflected on the accountability question, saying it was outside her purview, but said the transparency idea was worth considering.
+
+CM Hudson pressed on the Employee Viewpoint Survey's 16,000 respondent figure, which turned out to represent roughly 10% of the approximately 117,000 employees to whom it was actually sent once H+H was excluded from the pool. H+H runs its own survey. The survey operates on a two-year cadence, so the next one is not due until 2027. Hudson also asked whether DCAS tracks departure patterns by tenure milestone, by agency, or across agencies where skills transfer, and whether high-attrition agencies are correlated with low survey participation. Porter acknowledged the City does not currently have those correlations but offered to follow up. CM Narcisse raised the cost of overtime as a framing device, noting the State Comptroller had reported a rise from $1.1 billion to $1.3 billion, and argued that if you do not know what it costs to lose and replace an employee you cannot make the fiscal case for retention investment. She also asked specifically about health care worker attrition, which DCAS could not address in detail. The exit survey coverage problem was a recurring theme: over 32,000 employees left but only a small fraction completed surveys or interviews, and Local Law 130 requires agencies to offer both. DCAS confirmed that compliance is an agency responsibility and that completion is voluntary, which means the data systematically skews toward people who chose to respond.
+
+Chair Aldebol raised several substantive policy threads. She noted that career advancement was cited by over a quarter of resigning employees as their main reason for leaving, and asked how DCAS plans to help agencies build more internal career ladders. She questioned whether training completion leads to promotion, and found that DCAS does not track that linkage at a citywide level. She probed the comparable worth analysis required under Local Law 27 of 2023, and was told a consultant is now conducting desk audits and a first report to the Council is due May 7. She also raised the interaction between one-time retention bonuses and benefit cliffs, specifically SNAP and CHIP eligibility, and received a lukewarm acknowledgment that this is a known problem without a clear policy solution. The Civil Service Modernization Advisory Committee, launched by Mayor Mamdani in partnership with organized labor, has already met twice and is aiming to deliver recommendations by year end. The Council expressed strong interest in being briefed and in exploring what changes can be made at the City level without waiting for State action.
+
+Numbers
+
+- 32,000 employees departed the City workforce in fiscal year 2025.
+- Resignations rose from 71% of departures in fiscal year 2024 to over 80% in fiscal year 2025.
+- Over a quarter of resigning employees cited lack of career advancement opportunities as their main reason for leaving.
+- 54% of respondents to the Employee Viewpoint Survey said they would consider leaving for a job offering greater remote work flexibility.
+- The City's overall employee retention rate is 85%, comparable to New York State and the federal government, both also at 85%.
+- Median tenure of a City employee is approximately nine years, versus three years for a private sector employee.
+- Three quarters of the City workforce has been employed for five or more years.
+- The citywide vacancy rate is approximately 3.8%, down from a high of 8.4% in 2021.
+- Total City workforce including H+H and DOE is approximately 370,000 employees.
+- The Employee Viewpoint Survey was sent to approximately 116,900 employees, excluding H+H.
+- Approximately 16,000 employees responded to the Employee Viewpoint Survey, a response rate of roughly 10%.
+- 78% of Employee Viewpoint Survey respondents said they feel respected in their workplace.
+- 11 out of 14 survey categories received mostly positive ratings.
+- 35% of employees reported that work-life balance was skewed and that they felt emotionally drained.
+- The Little Apple child care center has 40 slots and a waiting list of 37 families.
+- The last round of collective bargaining delivered wage increases of over 16% over five years.
+- The State Comptroller reported City overtime costs rose from $1.1 billion to $1.3 billion in 2024.
+- The Civil Service Pathway Fellowship was doubled, expanding to 400 participants.
+- Over 2,400 applicants visited the Jobs Center on its opening day.
+- Approximately 91 employees from about 21 agencies submitted applications through the Mayor's Scholarship Program.
+- CityLearn training participation grew from approximately 13,000 individuals three years ago to over 20,000 currently.
+- The MMR cites a training participation target of 10,377 for fiscal years 2026 and 2027, below actual participation rates.
+- The comparable worth analysis contract was signed in fiscal year 2025 and the first report to the Council is due May 7.
+- The flexible work pilot negotiated in the last bargaining round has been extended through 2027.
+- Before COVID, Work Well reached approximately 50,000 City employees.
+
+Action Points
+
+- DCAS to provide the committee with the exact number of employees who received the Employee Viewpoint Survey and the precise response rate.
+- DCAS to provide committee with agency-level breakdown of average employee tenure, particularly for agencies with higher vacancy and turnover rates.
+- DCAS to report back on whether high-attrition agencies correlate with low survey participation.
+- DCAS to follow up with committee on whether agencies track whether training participation leads to promotional outcomes.
+- DCAS to provide committee with data on the Little Apple child care center waitlist and pilot outcomes.
+- DCAS to provide committee with data on how many employees received scholarship awards, the amounts awarded, and agency representation in the Mayor's Scholarship Program.
+- DCAS to report back on applications received for the 2026 graduate scholarship cohort once the November deadline passes.
+- DCAS to provide committee with data on health care worker attrition, including which agencies are losing nurses and other clinical staff.
+- DCAS to provide committee with data on what it costs the City to lose and replace an employee, including equipment and overtime coverage costs.
+- DCAS to report back on which agencies are falling short of their obligations under Local Law 130 to offer exit surveys and interviews to departing employees.
+- DCAS to provide committee with training request data, specifically how many employees request training versus how many requests are granted.
+- DCAS to brief the committee on the Civil Service Modernization Advisory Committee's work and recommendations before year end.
+- Office of Labor Relations to consider whether exit survey and Employee Viewpoint Survey data should be shared directly with relevant unions rather than left for them to locate on the DCAS website.
+- Office of Labor Relations to evaluate whether the equity fund concept or an equivalent mechanism should be included in the next round of collective bargaining.
+- DCAS to reach out to CUNY and SUNY about aligning Reconnect program high-demand field designations with City agency vacancy and attrition data.
+- Office of Labor Relations to consider whether employees receiving one-time retention bonuses should be given the option to defer or decline payments that could push them over benefit eligibility thresholds.
+- DCAS to consider publishing agency-level retention rates and requiring corrective action plans for agencies with unusually high turnover, and to report back to committee on its position.
+
+## Full Transcript
+
+**(00:00:06)**
+
+
+
+Council Committee Hearing for the Committee on Civil Service and Labor is now called to order. Please put all devices on silent going forward. No one is to approach the dais. If you wish to testify or have any questions, please speak with one of the sergeants at arms at the back of the room or at the reception desk. Chair, you may begin.
+
+**(00:00:31)**
+
+
+
+Good morning and welcome to today's hearing of the New York City Council's Committee on Civil Service and Labor. I am Council Member Shirley Aldebol, Chair of this Committee. Today we will be holding the second in a series of hearings about the New York City municipal workforce. Last month we held an oversight hearing on municipal recruitment and pathways into the civil service, and today we will be focusing on civil service retention strategies.
+
+New York City's municipal workforce is the backbone of the City, and municipal workers provide vital services that keep New Yorkers safe and healthy and keep daily operations running smoothly. Yet in fiscal year 2025, 32,000 individuals departed the City's workforce, begging the question of what factors are driving attrition at such a pace. Studies and reports from the Municipal Research and Service Center and the National League of Cities have found that key retention strategies for municipal workforces are not so different from those in the private sector. Employees seek work-life balance, stability, career development and advancement pathways and competitive compensation and benefits.
+
+Responses to DCAS's exit survey indicate that resignations are continuing to significantly outpace retirements, and over a quarter of resigning employees cite a lack of career advancement opportunities as the main driver for leaving. Moreover, when employees were asked to make recommendations for how to improve the employee experience, the most common requests were for increased pay, improved communication and transparency from management to staff, and to address staffing vacancies to better distribute workload.
+
+It is also notable that 54% of respondents of the City's Employee Viewpoint Survey indicated that they would consider taking a job elsewhere if it offered greater flexibility for remote work options. Given that City employees have shared the specific factors that not only lead them to depart but that could lead them to remain in civil service, this Committee is interested to see what actions the administration plans to take to reduce attrition and retain dedicated civil servants.
+
+The Mamdani administration has launched several initiatives that make working for the City more attractive and more sustainable, including the Little Apple free child care center for City employees and an expansion of the Mayor's Scholarship Program for municipal workers. We were also so glad to hear last week that Mayor Mamdani has formed a task force in partnership with organized labor to make recommendations to the State on how to modernize the civil service and speed up the hiring process. As we heard last month, lengthy timelines at every step of the civil service hiring process, paired with procedures that have not been updated in decades, frustrate civil service hiring and cost the City highly qualified potential employees who simply cannot wait around for a job.
+
+We are heartened by these endeavors and the seriousness with which this administration is taking civil service reform, and today we look forward to learning more about how we can work with this administration to ensure that the municipal workforce remains an attractive career path. Before we begin, I would like to thank Committee staff, Senior Legislative Counsel Ogasawara and Senior Policy Analyst Nina Rosenberg for their hard work in preparing for this hearing. I would also like to thank my Chief of Staff and my whole District 13 team for the work that you do to serve our Bronx constituents. At this point, I would like to recognize that we have been joined by CM Narcisse and CM Hudson. And oh, I did not see you — you are hiding, Council Member. So now you will hear testimony from representatives, and I will now turn to Committee Counsel to administer the oath for this panel.
+
+**(00:05:33)**
+
+
+
+Good morning, Chair Aldebol and members of the City Council's Committee on Civil Service and Labor. My name is Katrina Porter and I proudly serve as Deputy Commissioner and Chief Human Capital Officer at the Department of Citywide Administrative Services, more commonly known as DCAS. I am joined today by my colleague Katie Notar, Assistant Commissioner for Workforce Operations at DCAS, and Dan Pollack, First Deputy Commissioner for the Office of Labor Relations. We thank you all for inviting us to appear today and to speak on our efforts to bolster retention and support our City's workforce.
+
+At DCAS, our mission is to make City government work for all New Yorkers, and that includes ensuring that our municipal workforce knows that we are working for them too. When employees have access to resources that improve their quality of life — from child care to career development and advancement, all the way through retirement planning — we are fostering an environment where staff can grow, grow their families, grow professionally and grow even more committed to delivering for New Yorkers.
+
+Just a few weeks into the administration, Mayor Mamdani announced the expansion of the City's first free child care center for municipal employees. Within months we cut the ribbon and opened the doors at the David N. Dinkins Municipal Building for the first cohort of Little Apple. The Little Apple is a testament to the City's commitment to expanding access to free child care. As we all know, child care in New York City can be expensive. Through this program, the City supports the pockets of working municipal families — the very families who are supporting government operations each day.
+
+Part and parcel to our work to increase employee retention are our opportunities for educational and professional advancement, areas where we have been excited to expand in recent months. We expanded our Mayor's Scholarship Graduate Program and launched the City's first undergraduate support pipeline for municipal employees. This expanded initiative now connects full-time City employees with opportunities to pursue associate, bachelor's and graduate degrees. With this initiative, we are making education more attainable and affordable, supporting professional growth and strengthening the skills of our workforce.
+
+We are also looking to build employees' skills with our in-house platform, CityLearn, a user-friendly, comprehensive e-learning site that has expanded access to training and development resources for staff across the City. Finally, in 2025, DCAS launched the citywide career counseling program. While some agencies have had their own programs previously, City guidance was issued and DCAS helped agencies to launch standardized programming as required by Local Law 75 of 2004. Agencies are designating career counselors that provide employees who request assistance either in-person or virtual sessions to help them on their career journey.
+
+In addition to efforts to increase staff training, supporting employees' well-being is another important component of retaining a strong municipal workforce. One of the biggest benefits to working for the City continues to be the pension system and...
+
+**(00:08:57)**
+
+
+
+...our robust retirement planning resources that help employees understand their benefits through our classes and seminars on retirement planning, pension Q&A, or just being able to talk to their agency's HR team. The City amplifies the incredible benefits available to employees. These classes and seminars complement a broader range of City benefits, from retirement savings plans, pre-tax commuter benefits and flexible spending accounts for eligible health and dependent care expenses, to Public Service Loan Forgiveness that helps employees manage everyday costs and plan for the future.
+
+With a workforce as vast as ours, building a culture across dozens of agencies can look very different. Our priority remains cultivating a citywide culture built on the principles of equity, inclusion, accessibility, respect and excellence. As part of the activation of Local Law 76 of 2004, DCAS in 2024 launched the first of our citywide Employee Viewpoint Survey. This first-of-its-kind effort was modeled after the federal government's similarly named survey and provides the City with important insights into employees' sentiments around a variety of topics. With over 16,000 employees taking the voluntary survey, DCAS was able to learn about employees' viewpoints around their work, management, work-life balance, modernization and retention efforts.
+
+It was heartening to learn that the majority of employees who took the survey — nearly 78% — feel respected in their workplace. As we continue to foster a culture of inclusion and transparency, we launched further surveys and interviews. Now in its second year, the fiscal year 2025 report shows that employees overall have positive experiences in their workplace. Eleven out of the 14 categories received mostly positive ratings, indicating that employees feel positive about their overall work experience. The top five categories were related to work environment, teamwork and collaboration, leadership and supervision, communication and equity and inclusion.
+
+While today's hearing is concentrated on retention strategies, it is important to highlight the strides we are making in recruitment. Just last week we announced alongside Mayor Mamdani that we are launching the first-of-its-kind partnership with organized labor to speed up and modernize hiring for City jobs. The Civil Service Modernization Advisory Committee is actively working to develop solutions and legislative fixes to improve the City's hiring system. This is in addition to the administration's progress in connecting New Yorkers with job opportunities, including removing financial barriers and making civil service exams free for New York City high school students and first-time test takers.
+
+Moreover, this past year DCAS doubled the Civil Service Pathway Fellowship, expanding a direct pathway from college to City government careers for 400 New Yorkers. Just last month, the Mayor alongside New York City Small Business Services and DCAS opened the Jobs Center, a walk-in hub connecting New Yorkers to good-paying jobs in public service. We are utilizing all the tools available to position the City of New York as an employer of choice.
+
+When looking at the data, we see that the City of New York is competitive with the private sector when it comes to filling vacancies with talented New Yorkers, and our retention rate of 85% is similar to other large public sector employers like New York State and the federal government, both at 85%. However, the data does not show the full picture of retention in municipal employment. If you want to measure the success of retention, a good indicator is the median tenure of employees. This can provide a more accurate picture of the City's retention efforts and success. DCAS data shows that compared to the three-year average time an employee stays in a private sector position, a City employee serves nearly three times as long, or about nine years. In fact, three quarters of the workforce has served for five years or more. Moreover, the City's vacancy rate overall is low, approximately 3.8%, down from a high of 8.4% in 2021.
+
+It is a reassuring sign that we continue to see very high rates for both retention and tenure. We all know that retaining a strong, engaged and diverse workforce is essential to delivering the services New Yorkers rely on every day. We are driven by our commitment to strengthen the entire employee experience, from expanding access to government jobs to creating opportunities for growth, development and advancement. By investing in our people and building a workplace where employees can see a future for themselves, we can assure that talented New Yorkers not only choose City government but trust that they can build a meaningful and lasting career here. Thank you for your time and attention and we are happy to answer any questions you have.
+
+**(00:14:05)**
+
+
+
+Thank you. I am sorry — before we go to questions, DCAS is also a Labor Committee. We have Daniel Pollack, First Deputy Commissioner from the...
+
+**(00:14:17)**
+
+
+
+Mayor's Office of Labor Relations. I am joined today by my colleague, Associate Commissioner at the Office of Labor Relations. I have a bit of a cold, so I ask that you bear with me. Today I will outline our efforts to improve recruitment and retention within the City workforce through the collective bargaining process.
+
+In the last round of bargaining, when we were trying to address the COVID pandemic and the nationwide recruitment and retention challenges often referred to as the Great Resignation, recruitment and retention were really at the forefront of our focus. We delivered the most significant wage increases in more than a decade, totaling over 16% over five years for City workers. Agreements also included a flexible work pilot, which was recently extended through 2027. We also used a concept that we called an equity fund to target specific titles with particular recruitment and retention challenges.
+
+This equity fund was used for things such as increasing pay for entry-level roles, eliminating early steps in graduated pay plans thereby accelerating employees' advancement to higher steps, and retention bonuses. Specifically, this fund was used for, among many other things, permanent lifeguard and 911 operator wage increases, short-term recruitment and retention bonuses, accelerated top pay schedules for special officers and school safety agents, and a new salary structure for probation officers.
+
+With many of our labor contracts expired or expiring in the coming months and year, we know we have a lot more work to do on this front, and dealing with recruitment and retention issues is one of our top priorities as we approach a new round of bargaining. Beyond wage increases, we always lean heavily on the quality of our benefits to retain talented professionals in City service. Our office administers a robust employee benefit program for City employees that includes the health benefit program, deferred compensation plan, flexible spending account programs which include health and dependent care accounts, individual retirement accounts and the Management Benefits Fund for non-union employees. Unionized employees also enjoy access to union welfare funds for supplemental benefits like vision and dental. Many unions offer additional benefits through other funds, such as child care, legal representation and annuity, all of which are funded by City contributions.
+
+We are always striving to improve our benefits, especially our health benefits, most notably with the launch of the NYC Health Plan earlier this year. That plan retains the premium-free, high-quality insurance our employees have enjoyed while providing significant improvements. Those improvements include an extended network for those employees and retirees living...
+
+**(00:17:03)**
+
+
+
+...out of state, increased reimbursement schedules for out-of-network providers and a wider behavioral health network.
+
+In addition to the employee benefits program, we have programs like Work Well, the City's workplace wellness program, which is celebrating its tenth anniversary this year, and our Employee Assistance Program. We provide physical, mental and emotional health support services that foster a resilient and supported workforce. We are investing directly in the daily well-being and work-life balance of our employees through these efforts.
+
+These programs provide a comprehensive safety net and financial wellness tools that set City service apart. They are vital in attracting prospective candidates and give employees compelling reasons to build long-term careers with the City. One thing I will mention is that we are always looking to improve the way we communicate our benefits, and we know we have more work to do on that front. We will continue to make efforts to better communicate the value of our benefits to prospective employees, to current employees, really to everyone.
+
+As we look ahead, with many of our collective bargaining agreements expiring in the coming year, retention, as I mentioned, will remain a central and critical point during the next round of bargaining. We look forward to discussing these issues with our labor unions across the bargaining table. Thank you for the opportunity to testify and I am happy to take any...
+
+**(00:18:24)**
+
+
+
+...questions. Thank you for your testimony today. I am going to turn it over to CM Hudson. She has a question. Thank you.
+
+**(00:18:36)**
+
+
+
+So much, Chair. Just a quick question for you, Deputy Commissioner Porter, about the survey — the voluntary employee survey. You said 16,000 employees took the survey. Out of how many total? Do you know what percentage?
+
+**(00:18:57)**
+
+
+
+The survey was released to all New York City employees. We marketed the survey through agency personnel officers. I believe we also went directly to the employees to provide them with the link and an opportunity to take the survey, and that was the population that actually responded. Do you know what percentage of the total workforce the 16,000 employees...
+
+**(00:19:21)**
+
+
+
+Are. Oh, that is a good question. Let us see if we have that. Okay? Okay, for me. And I guess while you do that, I am also curious to know what
+
+**(00:19:41)**
+
+
+
+efforts you are taking to get more participation in that survey. The survey is on a two-year cadence, so we look at this as the benchmark survey. The next time that we have to administer the survey, we will try to do more marketing and get folks more excited about sharing their experience with us. But that should be in 2027, right?
+
+**(00:20:09)**
+
+
+
+Yeah, and are there... do you have a goal for how much participation you would like to see if this is the benchmark?
+
+**(00:20:18)**
+
+
+
+So we are currently figuring out the statistics, and one of the things that we are looking at is the timeline that we release the survey. This is a survey that also goes out to the Department of Education, and so with the law we were required to release it by a certain date. We made some adjustments to make sure that we are able to get the teachers in, and so we are looking at the timeline. If there is an earlier timeline that we can issue the survey, that would allow us to have more opportunity to market it and to reach the entire population. So we are developing strategies and thinking about that now, although the survey is not due until next year.
+
+**(00:20:55)**
+
+
+
+Thank you. At the Council level we can follow up with you on that percentage if you do not have that available.
+
+**(00:20:58)**
+
+
+
+Okay. What are the total number of City employees that would make up the entire...
+
+**(00:21:04)**
+
+
+
+universe? Total number... so just pull back for right now. Sorry, just a couple of different records. So the survey was issued in 2025. The total number of employees that we have is 370,000. 370,000? Yeah. So the point in time may be slightly different in terms of the number of folks that were employed with the City at the time the survey was released. I am looking at our tentative headcount for fiscal year 2025, so the numbers may be a little bit different. Based on that, we will see that those responding would be roughly about 4.3%.
+
+**(00:22:07)**
+
+
+
+Exactly, around 23 to 25%, so we will definitely be able to get back to you in terms of an exact number. We will be able to look in our system to determine how many received the survey and then how many people responded to it. Okay. Thank you.
+
+**(00:22:28)**
+
+
+
+Thanks, Chair. So the length of time that an employee has been in an agency — you said how long before they depart — the average length of time is about nine years. Nine years. Do you have a breakdown by agency?
+
+**(00:22:51)**
+
+
+
+In terms of the average length of service, with our workforce profile report that looks at the City's workforce as a whole, we are able to share the larger number, and then agencies have the opportunity to go in and do a deeper dive into what their agency population looks like by title and demographic. So there is an opportunity to go a little bit deeper if you have a specific agency or specific title that you are looking into. That is information that we can gather from an application that we have that allows us to do that deeper dive.
+
+**(00:23:23)**
+
+
+
+I think what I am interested in is, for those agencies that have a larger vacancy rate or higher turnover rate, whether people responded to the survey from those agencies, and whether you have an average length of service for those agencies that seem to be having difficulty retaining and recruiting people.
+
+**(00:23:49)**
+
+
+
+Survey responses may be hard to find across the board. One of the things that we encourage is that all agencies share it with their employees. There are agencies and there are employees that have more responses versus others, but we do not right now have a direct correlation between the agencies with the highest retention rate and whether they are responding to the survey. That is information that we can definitely get back to you on.
+
+**(00:24:13)**
+
+
+
+Okay. Thank you. And do you see milestones after which employees are more likely to leave? For example, does the data show that there is a spike in departures as soon as an employee has been at the agency for three years, five years? You said nine years is the average. Do you have any idea what factors could drive those spikes or those periods of time when an employee decides, "I have been here five years, I am out"?
+
+**(00:24:54)**
+
+
+
+Across the board we are seeing that most employees are leaving, and for the employees that the department is tracking, it is between a few years, and we are seeing the reasons can be different. If we look at the survey responses, most of them either cited career development or, larger than that, maybe salary and benefits or work-life balance. So what that told us is that overall most people really do enjoy working for the City and want to work with the City, and the fact that career development is one of the things that pops up lets us know that there is kind of an...
+
+**(00:25:30)**
+
+
+
+information challenge that is there, because the City, as you know, with our competitive titles, we have different pathways. There are different programs and opportunities for an employee, even if they are not interested in staying at the same agency. There is an opportunity for them to move across other agencies and maintain their benefits, time off, and all of those things that go with being a City employee. So what we have been doing is really looking at ways that we can engage employees to share information about those pathways and about those benefits.
+
+**(00:26:00)**
+
+
+
+We have developed an information initiative where we are connecting with employees at different levels to share information about the programs that we have. Can you describe how DCAS undertakes long-term workforce planning for agencies? How far out do you anticipate vacancies in a supervisory position? Are there calculations that you make to try to ensure that, as far as is practicable, institutional knowledge can be passed on to successors before an employee departs?
+
+**(00:26:46)**
+
+
+
+Okay, so the foundation of the workforce continues to be through examinations, and so we partner with agencies at the beginning of each year and ahead of the incoming fiscal year to understand their immediate and future hiring needs, to ensure that we are offering examinations to support their hiring. So it starts out with a data-driven approach. We look at active exams and other workforce data to determine a tentative list of titles that we plan to offer examinations for, and then we provide that information to City agencies in addition to what we call a workforce planning questionnaire for them to communicate any changes or additions that should be added to the schedule. It is an iterative process that goes on for almost five months, and then we work with them to finalize the annual schedule.
+
+In addition to that, if they have immediate hiring needs or if they see that they have titles with high attrition and they need to hire quickly, then we take a more targeted approach through specialized hiring events or amplifying their immediate hiring needs to the Office of Citywide Recruitment.
+
+**(00:28:07)**
+
+
+
+Yeah, I am just thinking of it differently, I guess, in terms of... this may be something that each City agency needs to think about, but just passing on institutional knowledge to a newer workforce. I was a caseworker at the City of New York. I had a great supervisor. There are things that you learn on the job that you do not get in an exam or in the training that the City gives. There are people that have institutional knowledge about how their particular agency works, or how to do the job, how to manage your workload, that is often not passed on to the next generation of employees. I am wondering if there is any thought to creating an infrastructure within these agencies so that people who have a lot of experience can pass on that knowledge to newer employees.
+
+**(00:29:24)**
+
+
+
+Beyond the supervisory structure that...
+
+**(00:29:26)**
+
+
+
+...exists. So I think that is a great question, and you are right. A lot of that does happen at the agency level. What I can share here is my experience at DCAS and our succession planning that happens, where we develop policies and procedures and ensure that that information is shared broadly across the department. But I am sure that at other agencies they do have succession planning programs in place. It is just that at a citywide level we do not manage that process. Thank you.
+
+**(00:30:05)**
+
+
+
+What is the price range of the training courses? The NYC Learn website advertises several free courses, but we also saw some more intensive training courses that cost as much as $900. Do the employing agencies foot the bill for these courses? Are there any courses that are paid out of pocket by participating employees? Are there unions that... I do not know if all of you can answer that.
+
+**(00:30:35)**
+
+
+
+So our trainings — the cost of them can range anywhere from $15 to, as you said, on the higher end, if it is a certificate program like Six Sigma. The good thing is that this cost is not to the employees; it is to the agency. So any employee that participates in our program is not paying out of pocket for those trainings. And I will just add that it is a cost-recovery services model, so the City does not benefit from providing training. The cost is tied to the vendors that we utilize to perform the trainings.
+
+**(00:31:11)**
+
+
+
+And to add to that from the bargaining perspective, we do have some contracts that have reimbursement for training. We also have some unions that have training funds that contribute to that and have their own training programs.
+
+**(00:31:27)**
+
+
+
+Does DCAS have access to information about the number of workers who submit requests for training and the number of workers whose requests are granted?
+
+**(00:31:38)**
+
+
+
+We can get back to you on the number of folks that have requested training, but for the number of people that have participated in trainings, for individual users we have seen that number has been increasing across the last three years.
+
+**(00:31:52)**
+
+
+
+We started out with about 13,000 that were engaged in training, and with the promotions that we have been doing in the newer system, that number has risen to over 20,000 employees that are participating in training.
+
+**(00:32:03)**
+
+
+
+And what is your outreach to workers so that they know that this is available to them at no out-of-pocket cost? Because if I look at the website and I see $900, I am likely to say I cannot afford that and I am not going to take that training class.
+
+**(00:32:22)**
+
+
+
+Yes, and that is something that we are very aggressive about. Based on the survey, we are seeing that folks are not familiar with the information that is there. So when we reach out to the agency personnel officers, we communicate with the training liaisons. We have now developed a training session specifically for NYC Learn where we are reaching out to all of our contacts at the agencies and all of the employees who have engaged with us in any kind of professional development training, to let them know directly that we are having this session. We walk them through what they can get in NYC Learn, how they can go through and apply. We also let them know that the courses are free. We also include that information when somebody goes in to apply — we include language that it is at no cost to the employee.
+
+**(00:33:05)**
+
+
+
+We also created a flyer that the agencies can share with their employees. We noticed that as we were doing these sessions, a lot of employees were asking what the fee was to them, and so we are consistently and constantly thinking about different ways that we can let them know that there is no cost to you.
+
+**(00:33:20)**
+
+
+
+You should be engaged with this, and we have seen that in the numbers — more people are registered for and taking the trainings. Have you seen an increase in the number of employees taking trainings due to your outreach? What have been your metrics in terms of...
+
+**(00:33:38)**
+
+
+
+Yes, so that is what I had previously cited. About three years ago we started at about 13,000 individual folks taking our training, and now we have about 20,000 people that are taking our training. So we have seen a steady increase in that. What we are seeing is that the demand is building and more people are asking for training, so we are going back and including more classes to satisfy the needs of the employees.
+
+**(00:34:09)**
+
+
+
+What category of courses are seeing the highest enrollment or the highest demand?
+
+**(00:34:15)**
+
+
+
+So it varies. We see courses like Excel. We have project management, and our leadership courses are also well attended. So what we do if we see that there are courses where there is not a lot of attention, we do direct outreach to certain populations to make sure that there is more engagement within those trainings. We try to make sure that we have a wide array of training available. And do these trainings — or some of these trainings — lead to promotional opportunities?
+
+**(00:34:45)**
+
+
+
+That information would be at the agency level, so we are not able to share that. Does DCAS track data on which agencies have the highest participation in a specific type of training curriculum? We are not that granular with the data. We can, and we are planning to look at how we can further engage agencies where we see lower participation. So one of the things that we do is we meet with the training liaisons now on a bimonthly basis, and we are available to encourage them to share that information with their employees. We are looking at how we can reach directly to agencies where we see little engagement with our training, and that is definitely a part of our plan going forward.
+
+**(00:35:34)**
+
+
+
+Do you know if the agencies are actually tracking that data to see if employees who participated in training programs are able to move into higher-paying...
+
+**(00:35:44)**
+
+
+
+...positions and other retention and employee management goals? So they track that. We work with a lot of agencies who offer agency-specific training, so they have internal processes to check that, but I cannot say with 100% certainty which agencies do. Okay.
+
+**(00:36:06)**
+
+
+
+You rejoined.
+
+**(00:36:07)**
+
+
+
+We were going to call on you and you were gone. We are going to pause so CM Morano can ask a question. Thank you, Chair.
+
+**(00:36:17)**
+
+
+
+Again, I am still not used to a chair not going on for 45 minutes before giving other members a chance to ask a question. It is a tribute to your respect for your colleagues that you make an effort to include us. Thank you all for your testimony. Deputy Commissioner Porter, I was struck by something in your testimony. You pointed to an 85% employee retention rate and a vacancy rate of just 3.8%, and you described these as reassuring signs. But the committee's report says more than 32,000 City employees left municipal service in fiscal year 2025, with resignations significantly outpacing retirements.
+
+So here is my question: is an 85% retention rate something we should be celebrating, or does it mean we are losing roughly one out of every seven employees in a given year? And when you cite that 3.8% vacancy rate, does that figure account for positions that agencies have eliminated, frozen or simply decided not to fill? Because you can make a vacancy rate look pretty good if you eliminate enough vacancies — that does not necessarily mean you have got enough people to do the work.
+
+**(00:37:38)**
+
+
+
+To your first question, 85% — I do not know that we need to celebrate it, but I think that it is a good step in the right direction, and it is an indicator that City employees are remaining in their jobs, comparable to other large municipalities and even the federal government. So we wanted to highlight it as a comparison. Of course, there is always more work to do, and just based on some of the programs and projects that have been recently implemented and initiated, I think that is a good example of the City's commitment to ensure that we are retaining and attracting top talent and putting New York City in a position to be an employer of choice.
+
+As it relates to the vacancy rate, we use the data that was available to us to reflect the state of affairs. If a position was eliminated or repurposed, that is not something that I am able to speak to. But once again, it does appear to be a good advancement from the heights of the vacancy crisis in 2021. As we discussed the last time that we were here, it is also something that the City is committed to — figuring out ways to attract top talent and to shorten the timeline to get people in the seat, to ensure that City agencies have the support that they need to provide services to New Yorkers.
+
+**(00:39:16)**
+
+
+
+Your testimony also talks extensively about management training, leadership development and improving workplace culture, and I think those things are all great. But I have a more fundamental question: does the City evaluate agency commissioners and senior managers based on their employee retention rates? If an agency is consistently losing experienced employees at a rate much higher than comparable agencies, is that reflected in the commissioner's performance evaluation? I guess the question I am asking is, is anybody held accountable? Because in the private sector, if a manager keeps losing good employees, eventually someone starts asking questions about the manager. Is City government doing the same thing?
+
+**(00:40:03)**
+
+
+
+So that is not something that I am able to speak to here. What I can say is that DCAS, the agency, is committed to supporting agencies and meeting their hiring needs through examinations, through professional development, and in any way that we can, especially if an agency comes to us with a problem, a workforce problem. We are here to help them strategize and develop programs and opportunities to address their needs.
+
+**(00:40:38)**
+
+
+
+Would DeCastro support publishing retention rates for every agency and requiring agencies with unusually high turnover to develop corrective action plans?
+
+**(00:40:49)**
+
+
+
+I think it is something that we can consider. I would not say one way or another, but we would be open to that.
+
+**(00:40:57)**
+
+
+
+Discussion — as a father of two, the points that you raised about child care really resonated with me. You spoke proudly about the new Little Apple Child Care Center, but the City's new program has just 40 slots, all in a building in Lower Manhattan. How many municipal employees have children who could potentially qualify for these 40 slots, and how does this program help a sanitation worker in Staten Island, or a correction officer working overnight, or somebody whose job requires them to be in Queens at 6 o'clock in the morning? I mean, do not get me wrong — I am glad we are helping these 40 families, but I do not want us congratulating ourselves for creating a benefit that is inaccessible to the overwhelming majority of municipal workers.
+
+**(00:41:46)**
+
+
+
+Yes, point taken. However, this is a pilot program and it is a step in the right direction to develop programs and opportunities that will benefit all City employees. The goal here was to develop a framework that could potentially be expanded, but right now we are in the middle of the pilot and we are more than happy to follow up and share with you positive or not-so-positive outcomes from the waiting list for that pilot.
+
+**(00:42:29)**
+
+
+
+So what are your targets for training? Do you have any targets or goals for training? The MMR cites a target of 10,377 participants for fiscal years 26 and 27, and the target is much lower than the actual FY26 participation rate. Have you adjusted those
+
+**(00:42:58)**
+
+
+
+targets, and what are they? So I can speak a little bit about our goals toward training, but before I do, I would just want to make a correction from the earlier question about the survey and the response rate. The number of individuals that were sent the survey — the survey did not include H+H, which is included in the 370,000 numbers. H+H has their own survey that they do, and so it was sent to 116,900 employees and of that, 10% responded. I just wanted to clarify that.
+
+In terms of our training goals, one of the things that we do within the learning and development unit is look at how we can make training more accessible to individuals, how we can collect feedback on what trainings they are seeing, what is working for them, what is not, and then look at ways that we can engage other training where there is a gap. So right now we are in the process of identifying additional vendors that we can
+
+**(00:44:05)**
+
+
+
+use to provide more trainings to individuals. For the spring catalog that is coming up, we are looking at how we can create better pathways into training, so individuals who are interested in, say, an HR path or an IT path have an idea of what kinds of training they will need to take in order to get there. So we are really looking at — yes, we always want to increase participation and make sure that we have enough people who are aware of the trainings and are taking part in them, but we are also looking at the diversity of the training and the flexibility of the training. Are we offering virtual training and in-person training? We are also looking into trainings that are more asynchronous, so individuals are not necessarily tied to a 9-to-5 schedule or required to be at the center for
+
+**(00:44:58)**
+
+
+
+a set time. Do you also get feedback from the individual agencies as to what needs they have in terms of training that they need to promote within or move into certain positions?
+
+Yes. One of the things that I did when I came into the role was conduct listening sessions with our vendors, our agency partners as well as City employees, to understand what they were seeing and what they were not seeing. That has helped us develop the additional training we are adding to our catalog. Agencies also work with us to do agency-specific training, which gives us a sense of where they are looking to train employees. Most of them are focused on — some of them have supervisor training, for instance, where a group of trainings that all supervisors must take. So we work with the individual agencies based on what their needs are and whether they are looking to train only their employees or have more access to training on our platform.
+
+**(00:46:07)**
+
+
+
+On your promotional exams — the examination schedules published on DCAS show both promotional exams and open competitive exams that are scheduled for the upcoming fiscal year. How do the conversations surrounding agencies' promotional needs differ from the considerations you need to make when scheduling open competitive examinations, and what are the main factors that weigh on the decision to schedule a promotional exam?
+
+**(00:46:36)**
+
+
+
+Thank you for that. Going back to what I had described earlier about the collaborative, data-driven approach that we take to the exam schedule — when we are engaging in that process we look at employees who would be eligible for promotion in a certain title. You have to have the permanent underlying title to be eligible for the promotional exam. So we let that data drive which exams we offer. If we see an uptick in folks being made eligible for a specific title, then we would ensure that the promotional exam is on the examination schedule for that title.
+
+**(00:47:21)**
+
+
+
+Are there ever situations where promotional exams are scheduled on an emergency basis? We do have flexibility to add exams to the schedule within the cycle. Given what we know about how OMB plays a significant role in budgeting headcount for agencies and how their process impacts the timeline for new hires, how does their process for budgeting headcount influence your decisions surrounding promotional exams?
+
+It does not, because the exam schedule is a preemptive measure. If we give an exam during fiscal year 27, those exams will not be ready for use until six to nine months after they are administered. So we do not allow that to weigh in on the titles that we add to the schedule.
+
+**(00:48:10)**
+
+
+
+I am going to pause — a Council member has joined us on Zoom. Do you have any questions, Council member? Oh, he logged off. Never mind. I recognized him too late. OK, so I can keep going.
+
+**(00:48:35)**
+
+
+
+Pursuant to Local Law 13 of 2023, DCAS was tasked with creating and distributing a comprehensive exit survey, which you spoke about, and an interview protocol for departing City employees to understand the main impetus for people leaving the municipal workforce. In the most recent report reflecting survey results, a little over 32,000 employees left the City workforce, and of the departing employees who completed the surveys, compensation, benefits, work-life balance and growth and development were the main areas that were rated most negatively
+
+**(00:49:13)**
+
+
+
+and were areas that were recommended for improvement. Given the limitations on adjusting compensation and structures within agencies to increase the number of levels in the career ladder and to provide additional opportunities for promotion,
+
+**(00:49:38)**
+
+
+
+thank you, Council member. As far as the agency organizational structures, that would be the kind of problem for each agency. Certainly, in conversations with agencies about issues they are having, it is something we often discuss with them. There are also, you know, mechanisms — sometimes level assignment levels can be added to a job specification to facilitate advancement within the title. Those are available options that do not change the organizational structure. To create more levels and more advancement, that is something that would happen at the agency level.
+
+**(00:50:16)**
+
+
+
+When looking at the data from the exit surveys, 80% were resignations, 13.5% were retirements and 5.5% were transfers to other City agencies. Have you identified any particular trends where employees from one agency are likely to transfer to another because the skills necessary are similar and there may be more opportunities for career development at the destination
+
+**(00:50:48)**
+
+
+
+agency? I think it is common for employees to move around City government, just based on the vast number of opportunities that are available. So it would be difficult to home in on a specific reason. I think it is more about the number of positions and opportunities that are available across the 80-plus agencies with available vacancies.
+
+**(00:51:23)**
+
+
+
+So in the survey — again, the most recent results of the survey — it revealed that a large number of City employees, 35%, found work-life balance to be skewed and reported feeling emotionally drained. Are there any initiatives that DCAS can implement, or has implemented, or can recommend to agencies to implement to
+
+**(00:51:49)**
+
+
+
+improve work-life balance? Work-life balance can show up in different ways across different titles. One of the things — and although I am able to speak to this — is the Work Well program that provides a lot of the trainings and activities that individuals can participate in, in terms of how to really engage your employees. I know internally within our agency we provide a lot of opportunities for us to
+
+**(00:52:23)**
+
+
+
+kind of decompress. We have a meditation room. Agencies do a lot of different things based on the needs of their workforce, and then there are programs that I can speak about more broadly.
+
+**(00:52:36)**
+
+
+
+Thank you for that question. I would highlight Work Well. Work Well has reached thousands of participants and continues to grow. We launched that program 10 years ago. For this reason, we know that the best employee wellness goes beyond wages and traditional benefits. Addressing wellness through fitness classes, through counseling, through things like that is important. There is also the Employee Assistance Program, which has been around longer, but it is a vital resource for employees and agencies when employees are facing challenges. It is available for employees and for their families. There is a lot of value there in both dealing with short-term issues — so if someone is experiencing mental health issues or burnout, someone can have a very
+
+**(00:53:25)**
+
+
+
+timely appointment with a licensed clinical social worker. We also work hard to connect people with providers that take our insurance. One of the most valuable parts of the program is that they have relationships with our insurance providers and with a lot of health care providers out there. I know it is often hard for people to find appointments for mental health that take insurance, and the program has a great resource there for employees — they will get set up with someone who is accepting new patients who take our insurance,
+
+**(00:53:58)**
+
+
+
+and that can help with some of the mental health challenges employees face. Do you know if managers and supervisors are trained to talk to their employees about these programs? I know that if we have had an especially tough week, I remind my staff that these programs are available, and it is almost a constant reminder because people will just keep plowing along and not think about it. So I am just wondering if that is something that you have incorporated, or if the agencies have incorporated that in their supervisory training, to remind people that these programs are available to them.
+
+**(00:54:56)**
+
+
+
+Yes. I can say that we work very closely with DCAS to provide information and work with them to get information out to agencies about these programs. I think we have identified that this is an area where we can improve. Communicating about our benefits is hard with a large City and a lot of employees, and within that there are a lot of people who probably do not have full knowledge of what we offer. We can do better. We have newly this year established a communications division — we had never had a communications division before — and one of the things that is very important is communicating these benefits out to our employees. So it is a priority for us to keep working at it.
+
+**(00:55:46)**
+
+
+
+We also offer a lot of trainings around managing stress and emotional intelligence as part of our training catalog, and those are some of the classes where we always see a lot of folks engaged. So we try to make sure that we have different courses that can address employee well-being as part of our training catalog.
+
+**(00:56:08)**
+
+
+
+I would also add that in general, managers and supervisors refer their employees to the agency's HR department, who are trained and knowledgeable about the programs that are available to employees who need outside support.
+
+**(00:56:28)**
+
+
+
+Does that include DOE and H+H employees, or is it just the 160,000-something employees? So it serves the uniformed agencies — some of the uniformed agencies have their own programs — but the program will never turn anyone away. It does serve H+H, and Work Well will also participate with every agency on that program.
+
+**(00:57:07)**
+
+
+
+So we do have a lot of work to do. It is 370,000 employees including H+H and DOE, and 16,000 have availed themselves.
+
+**(00:57:20)**
+
+
+
+Before COVID it was 50,000 City employees, so yes, it exists, but still that is quite a number. We are always looking for ways to reach more people and we certainly welcome the Council's partnership and any ideas you have. It is a team effort. As I said, there are different types of employees you have to reach in different ways, and that is something we are always working through. Thank you, appreciate
+
+**(00:57:50)**
+
+
+
+that. So as we talked about work-life balance and remote work — is it the agency heads who decide whether a title is subject to a hybrid or flexible work arrangement, or do these policy choices come from the Mayor's Office? Thank you for that question. The City is party to 37 or so union contracts, and some of the agency decisions about the degree of remote work and who is eligible come from those agreements.
+
+**(00:58:36)**
+
+
+
+As part of the City's mission to reduce pay disparities within the municipal workforce, the Council passed several pieces of legislation requiring the administration to undergo a pay equity analysis. One such law, Local Law 27 of 2023, required a contract with a vendor to undertake a comparable worth analysis of City titles with the goal of ensuring that employees across the municipal workforce who perform substantively similar tasks are paid similarly. Has the vendor provided any updates to you about their findings, and do you have a general understanding of the timeline for the completion of this analysis?
+
+**(00:59:22)**
+
+
+
+Thank you for that question. Yes, back in fiscal year 2025 the City signed a contract with a consultant to conduct that analysis and work is currently underway. We are in the phase where the consultant will begin desk audits at the agency level. We are confident that we are on track to ensure that the first report to the City Council will be on time, which is May 7. So the first report is due to the City Council on May 7 and we are confident that we will get it done by then.
+
+After the results of this comparable worth analysis are published, are you open to completing a minimum qualifications review of the titles that the analysis identifies as being substantially similar in work responsibilities but which have different eligibility requirements? As part of that report, they will come with a set of recommendations and of course a dialogue with the City Council on those recommendations. So we are open to any thoughts and ideas you have on that.
+
+So we already talked about that child care facility — 40 slots. You must have a very long waiting list.
+
+**(01:00:46)**
+
+
+
+It is actually 37 families waiting on the waitlist. 37 families waiting. Okay.
+
+**(01:00:59)**
+
+
+
+How many staff are employed at the Little Apple Child Care Center? There are four classrooms in the facility — what are their titles and roles? So the Little Apple is actually managed by a vendor, so no
+
+**(01:01:16)**
+
+
+
+DCAS staff work at the center. Okay.
+
+**(01:01:23)**
+
+
+
+Okay. Pursuant to Local Law 130 of 2023, DCAS has administered exit surveys. Many cited personal reasons as their rationale for leaving civil service. Are respondents who cite personal reasons as their reason for leaving able to elaborate on the specific reason on the survey?
+
+**(01:01:52)**
+
+
+
+Do parenting responsibilities come up frequently, and how does that factor into your decision to create this child care program and possibly expand it? The survey as it exists does not ask employees to really go into what those personal reasons are, so it is currently
+
+**(01:02:18)**
+
+
+
+not being used to influence the child care process. There was a separate evaluation survey process that was issued to employees to determine their needs of the service, and so before the center was created, there was a lot of engagement with employees to determine what their needs were. Okay, thank
+
+**(01:02:38)**
+
+
+
+you. So the Jobs for New York City office — I was there for the opening, very exciting. That has begun operations and we saw over 2,400 applicants who dropped by in search of a job on opening day. It is our understanding that the office focuses heavily on recruitment, which was our last hearing topic, but could you give us an overview of the services offered at this office, especially any programs that are dedicated to helping current City employees develop professional skills or move upward in the municipal workforce? And could you describe how DCAS and SBS divide the responsibilities? The center is managed by SBS and DCAS plays a mostly
+
+**(01:03:32)**
+
+
+
+supporting role, so we are there to ensure that we can provide potential prospective job applicants with information about the civil service process, about examinations and jobs. But mostly the center is managed by SBS, and the model that they have is in line with that of the WorkOne Center, so they provide career services, they have workshops and trainings that are available, and employee services, job readiness opportunities. In addition to that, there will be working directly with City agencies to hold hiring halls and agency spotlighting events, but we are playing mostly a supporting role in what
+
+**(01:04:20)**
+
+
+
+that means. When you say supportive role — we are experts in the civil service system, we manage the examination process, so we want to have a footprint there to ensure that folks who are visiting can have answers to their
+
+**(01:04:34)**
+
+
+
+questions, and are able to go upstairs and take an exam if they are qualified to do so. Not on the spot, but they could. We do have a computerized testing center in that building, so they could go upstairs for more information. But the goal is to have someone in the Jobs Center so that they do not have to do the back and forth.
+
+**(01:04:55)**
+
+
+
+They can apply for exams at the job center. We have set up exam kiosks where they can learn more about exams that are opening for filing and actually visit our websites and apply for exams
+
+**(01:05:13)**
+
+
+
+online. So on October 5, the Mayor convened a Civil Service Modernization Advisory Committee comprised of City government and labor leaders, with the goal that the committee identify reform measures that the City and the State can implement to improve the hiring process. Can you tell us whether the committee has convened yet, what the discussions have looked like so far, and whether you think there is any legislation at the City level that would help further the goals of the task
+
+**(01:05:49)**
+
+
+
+force. Thank you for that. The committee has convened. So far we have had two meetings and conversations are ongoing about recommendations that we want to put forth by the end of the year. My understanding is that we are more than open to meeting with you separately to brief you and go into more detail about our vision for the committee, but things are moving along. The goal is to have recommendations set by the end of the year. That is a quick timeline. Yes, I mean, so far we have met multiple times, and the working groups are fully committed to getting this right. Things are moving very quickly, but we are up for the challenge.
+
+**(01:06:38)**
+
+
+
+Yeah, I would really appreciate — and I think myself and probably other members of the committee would appreciate a briefing so that we can figure out ways that we can legislatively move some of these processes along at the City level. I know a lot of it has to go to the State, those recommendations have to go to the State, but I think there are ways that the City Council can be helpful to implement certain changes and recruit a stronger municipal workforce. So yeah, I look forward to that.
+
+So the Mayor's... I want to get into the Mayor Scholarship Program and then I will pause and see if CM Narcisse has any questions. In 2026, the Mayor announced the Mayor Scholarship Program, which you spoke to in your testimony, which expanded the existing Mayor's Graduate Scholarship Program to include undergraduate degree programs. How many City employees have enrolled for scholarships for the undergraduate degree program since this
+
+**(01:07:56)**
+
+
+
+announcement was made? So I do want to clarify the process for the scholarship. One of the things that we do is we work with different schools who determine the scholarship amount that they would want to offer for individual applicants. For the Mayor Scholarship Program that we released, we had about 91 individuals from, I think, about 21 agencies that submitted an application to the schools. We are collecting the data on how many individuals received a scholarship award, the amount that they received, and which agencies are most commonly represented by employees who seek scholarships. I will have to get back to you on
+
+**(01:08:54)**
+
+
+
+that. And since the cohort opened in 2026, how many applications have you received? So for the 2026 cohort, that is for the Management Academy. I am sorry, too many programs. For the
+
+**(01:09:11)**
+
+
+
+graduate program, they have until November to submit the applications, so we do not have that data right now.
+
+**(01:09:23)**
+
+
+
+And are there any discussions to expand partnerships with other academic institutions to offer the scholarship program?
+
+**(01:09:31)**
+
+
+
+Yes. One of the things that we are doing with both the graduate and undergraduate programs is to do extensive outreach to schools that are not already participating. The team does reach out to different schools to give them an overview. We do information sessions to give an overview of the opportunity that is available, and then once we have a selection of schools, we do what we call school fairs so that employees can get a little bit more familiar with the programs that are available at the different schools. We try to make sure that there is a connection between the schools and the employees before the application period closes.
+
+**(01:10:14)**
+
+
+
+So SUNY Reconnect and CUNY Reconnect provide funding to cover the full cost of tuition, fees, books and supplies for people age 25 and older. It is getting an expansion in 2027. The Reconnect programs will now be offered to individuals who are pursuing a degree in a high-demand field who already hold a prior degree in a different field. Are you in communication with the State about what career fields will be deemed high-demand, and do those career fields correspond to the agencies that have persistent vacancy or attrition issues?
+
+**(01:11:01)**
+
+
+
+So we have not had that level of conversation with CUNY, but we have engaged with them in the past to share information with our agency personnel officer community so that these opportunities are shared broadly with City agencies. We do plan to reach out to extend that offer
+
+**(01:11:19)**
+
+
+
+for them to come and share information in general about the program. Do you anticipate that current City employees will enroll in both Reconnect programs and the Mayor's Graduate Scholarship Program? And have you considered staggering the timelines for applications to allow those who were not accepted into a Reconnect program to apply for the Mayor's Scholarship Program or
+
+**(01:11:43)**
+
+
+
+vice versa? Not sure if City employees are interested. However, we will make an effort to ensure that that information is shared broadly, and then we can also think about the timing around the scholarship programs and deal with that on a case-by-case basis, but
+
+**(01:12:03)**
+
+
+
+I think right now we want to focus on just amplifying the message across City government to ensure employees understand that this program is available to them.
+
+**(01:12:14)**
+
+
+
+And how are you amplifying that message across City agencies? How are you getting the word out? Again, all of these programs sound wonderful, but if people do not know about them, they will not take advantage of them.
+
+**(01:12:27)**
+
+
+
+Yes. So we have a community of HR professionals that we meet with on a monthly basis. They are called agency personnel officers. It is about 200 professionals from across City government, representing all City agencies, and we have programs like CUNY Reconnect come and present information and share
+
+**(01:12:47)**
+
+
+
+resources at this meeting so that those professionals can then share that information with employees at their agency. So that is just the high-level way we help to amplify programs like these.
+
+**(01:13:02)**
+
+
+
+And in terms of the Mayor's Graduate School and scholarship programs, we send that information directly to City employees so that they are able to determine interest, and then we host information sessions so they can ask more questions. We go through the pathway but also try to get a direct path to the employees if possible. I am going to turn it over to CM Narcisse if you have any questions. Thank you, Chair.
+
+**(01:13:31)**
+
+
+
+Thank you for being here. How much is the City spending on overtime hours? That is not information that we have available here. Okay, the
+
+**(01:13:44)**
+
+
+
+back... All right, because in 2024, the State Comptroller reported an increase from 1.1 billion to 1.3 billion. So I just want to say that retention — and I am so happy that you are working on retention, which is so important — because we train people and we want to keep them, because eventually it costs you more money.
+
+**(01:14:11)**
+
+
+
+Do you have any data about why City nurses and other health care workers are leaving, and which agencies we are losing them to? If you have it, that would be very helpful. We do not currently have that particular information but we can get back to you on the specifics of that.
+
+**(01:14:41)**
+
+
+
+Thank you. And on the exit surveys, does DCAS have any retention data on workers, or is anyone collecting them the same way? So for H+H, in terms of the City's oversight, they participate in some of our initiatives and activities. For example, in our citywide employee survey, that is one of the areas where they conduct their own survey and they are looking at their own initiatives.
+
+**(01:15:24)**
+
+
+
+Thank you. Does the City know what it costs to lose and replace an employee, including equipment and overtime to cover the vacancies? We do not have that today, but we can get back to you. Okay. Over 32,000 employees left City service in 2025, but the overwhelming majority did not complete an exit survey or exit interview. Local Law 130 requires agencies to offer both. Why are so few departing employees being reached, and which agencies are falling short?
+
+**(01:16:20)**
+
+
+
+One of the things that DCAS is required to do is to provide the agencies with access to that survey. So we created the template and issued it to the agencies and their personnel officers so that they can share it with their departing employees. We also developed a template and a guide for the exit interviews and provided some guidance in our in-person meetings for agencies on what they could do. Agencies, on their behalf, are responsible for sharing that with their individual employees. It is important to know that this is not a mandatory activity for employees who are departing. We usually see a selection bias where they opt in to the survey process and choose to share their feedback with us, but it is not something that they are mandated to do.
+
+**(01:17:09)**
+
+
+
+And so the agencies just need to make sure that they are providing that information, because if you get that information you can actually find out what the problem is and you can bring important solutions to share. At least we know what we are doing, because like I said, we do not want to be penny-wise and dollar-foolish. We want to make sure that when we train and spend money... I can give you an example, because any experienced manager knows there are small things you can do to hold on to your staffing. So you want to know why, and how can we bring solutions to the problems.
+
+Because I feel like — and I am being honest — I went to L.A. a few years ago and they were there for 10 years because of the environment, the things that are offered, and the things that we get when we ask in the department. There are certain things that we need to know, so at least we can keep our staffing in one place. Resignations went from 71% of departures in 2024 to over 80% in 2025. Which agencies and titles are losing the most people, and do you know where they are going? Why
+
+**(01:18:38)**
+
+
+
+are they leaving? So the resignation increase... it depends on the titles. We see resignations in some of your service titles, some of our uniform titles. It varies based on the agency. From our exit survey, we can see that folks are leaving because they perceive that there is not a path for career growth, or for some it is personal reasons. Others say that they are looking for better compensation and benefits. So what we are looking to do in terms of retention is to make sure that we are providing agencies and employees with information about how individuals can move throughout the civil service system and use it as a pathway for growth, and also making sure that employees not only know that the system and the process exists, but allowing them the space to engage with it.
+
+One of the things that we have not spoken about is career counselors at agencies. Most agencies have career counselors who are meeting with their employees to talk through some of the opportunities and help guide them in terms of how they can look at other opportunities that are available to them. The goal is that if an employee moves into another agency, that is still a positive outcome because we are still maintaining that knowledge and we are still able to have that person serving the public.
+
+**(01:20:04)**
+
+
+
+And thank you. I like the promoting within and pushing — I mean, promoting folks within the structure, so at least they do not have to leave us entirely. Because we spend money to get people up to date and to stay within our facilities. So thank you for your leadership. Continue doing it, but we need to be more active and more engaged to know why people are moving, and that data can help us get a view of what is going on so we can bring the solutions.
+
+**(01:20:34)**
+
+
+
+Thank you, Madam Chair. Appreciate it. Thank you. Go ahead. Thank you, Councilmember. You mentioned in your testimony today that in the last round of bargaining you used an equity funding concept to target specific titles, particularly concerning recruitment and retention challenges. How does OMB and the administration flag titles to target with the equity funding concept that you mentioned in your testimony? Is this based on recruitment and retention data, or is this also a conversation with unions and other labor partners on their perspective on titles that need attention outside of pattern bargaining?
+
+**(01:21:31)**
+
+
+
+Oh, thank you, Chair, for that question. It is not just one thing, it is many things. So it is, you know, when you look at attrition data and recruitment information, we talk to the agencies and we, of course, talk across the bargaining table. In the last round we engaged with the union, and there would be a question of whether this is a union that has the title or titles where this equity fund concept is warranted. It is a conversation we would have, and we would eventually reach an agreement that either did not include it, or if we agreed there was an issue where it was warranted, we would include it. We did this with a lot of different unions. Most notably, I would say, hundreds of titles went through that process with DC 37, but other unions also had that. Probation officers — that helped facilitate their new salary schedule. Special officers and school safety agents changed their salary schedule from seven steps to five steps. We really used it all over.
+
+**(01:22:35)**
+
+
+
+And, um... where are you implementing
+
+**(01:22:40)**
+
+
+
+this concept now? Are you continuing to have conversations with the unions about where this could be best
+
+**(01:22:49)**
+
+
+
+applied? So for the last round, on the units that had it, the money is essentially being spent and that process is over. It is certainly something as we approach the next round of bargaining that we will consider — how to approach it again, whether that concept should be included or a different concept with the same intentions. Definitely something we will look at.
+
+**(01:23:12)**
+
+
+
+Is there a possibility of having a reopener? Let us say you conclude bargaining and you made decisions, but you find in the middle of a three or four year contract that there is a need identified either by the union or by the agency. Are you able to reopen bargaining or have a reopener to discuss the
+
+**(01:23:43)**
+
+
+
+Thank you for that question. Subject to the agreement, even though our contracts have a provision that says neither party is familiar with somebody's demands during the term of the contract, we mutually agree that we want to reopen it to discuss, or go to our problem resolution. We can...
+
+**(01:24:08)**
+
+
+
+So, on the whole, our programs are available to employees of non-uniformed agencies. Can you describe the rationale for why certain City employees would not be covered by New York City, and what alternative options are available to them?
+
+**(01:24:47)**
+
+
+
+Of course. The reason they are not covered is because each uniformed agency has its own employee program. The NYPD has one, Sanitation, Fire — they all have their own programs with their own infrastructure. We do coordinate with those programs and will assist them if we can. There have been times when there have been initiatives where we worked with those agencies more closely to help them out. It is not a matter of not wanting to serve those employees — we really want to serve anyone. But they have their own infrastructure, and a lot of the time, especially with the uniformed agencies, there is value in having someone who really understands that agency and that job. For example, they often have peer counselors who are in the same title as the workforce, so that is some of the background behind it.
+
+**(01:25:39)**
+
+
+
+When OLR is negotiating with bargaining representatives, what factors are considered when developing salary schedules for specific titles, and how commonly are retention bonuses included within salary schedules?
+
+**(01:25:57)**
+
+
+
+I would say when we are developing a salary schedule, it is about priorities. Whether it is a salary schedule or a lump-sum type payment, we have to consider how it would impact recruitment and retention. Obviously that is a very important factor. Sometimes we look at where our employees are leaving in that title. If we see the problem is in the first year, we have an entry salary and we might be willing to drop that down to elevate the more senior salary. If it is a title where people are leaving for some reason at year six or seven, maybe we need to provide a longevity bump up the salary at that point. It is nuanced. We always listen to the union and their view about what should happen, but obviously we are also always interested in data about where there are issues.
+
+For example, we would not want to do something that often happens in bargaining — which has happened — where you raise the starting salary a little bit for new employees to find someone, but for more senior employees it can feel like we have done that before. It is not always warranted and sometimes it can be counterproductive.
+
+**(01:27:05)**
+
+
+
+So we always want to make sure we are cautious about doing anything. How are you looking at the exit surveys and the data from the exit interviews to determine what job titles might need a bump at a particular point in time?
+
+**(01:27:32)**
+
+
+
+We will certainly, as we push forward, review the exit surveys and the citywide employee viewpoint survey. But we always want to be conscious of hearing from the unions about what they view the problems as, as representatives of their members. We want to look at data — we can look at how, when and where people are leaving. For a title that we know has retention issues, we can look at what year people tend to leave. Are they leaving in the first years, or for some reason — which is more rare — are they leaving at ten years?
+
+**(01:28:00)**
+
+
+
+And are you sharing that data with the unions?
+
+**(01:28:05)**
+
+
+
+The exit data and the survey data — not directly, but the report is available on the website.
+
+**(01:28:23)**
+
+
+
+So we have discussed a wide range of programs administered by OLR and other agencies that strive to provide City workers with unique resources and opportunities. Do you believe that OLR has a role to play in increasing employees' awareness of these programs? You mentioned you have a communications department now, and I just want to hear more about that and what you see your role as in increasing employee awareness of these programs and how you carry out those responsibilities.
+
+**(01:29:00)**
+
+
+
+Thank you, really good question. Referring to this program, whatever it may be, I think you would have to ask the relevant agency, as they do a good job from within. We will work with them, especially where it is helpful, and the unions involved will also be informed. They also have their own relationships with unions and promote those programs. From the OLR perspective, we want to certainly focus on the programs that we offer and that we need to get the word out about.
+
+**(01:29:35)**
+
+
+
+If a City employee is reliant on benefits like SNAP or CHIP, additional income can lead to such employees crossing the income threshold and making them ineligible for benefits while still experiencing financial hardship. Are City employees given the option to opt in or opt out of receiving such bonuses if it will only exacerbate their financial insecurity?
+
+**(01:30:01)**
+
+
+
+That is something we have encountered. When we have a bonus or salary payment, it is mandatory. I think we have been in a situation where we have been asked about it by employees and their union, and we would certainly consider it if that happened.
+
+**(01:30:18)**
+
+
+
+I am more concerned about bonuses that might be a one-time payment that could temporarily knock someone off eligibility. It is not a wage increase necessarily, which I find...
+
+**(01:30:33)**
+
+
+
+...problematic. So yeah, it is good to know. Okay.
