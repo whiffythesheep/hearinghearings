@@ -105,8 +105,7 @@ def promote_section_headings(md_text):
     to h3 so templates can style them. 'Summary' and 'Meeting Overview' are
     dropped instead — the template's own "Meeting overview" heading covers
     both (and pairs with the download button alongside), leaving the overview
-    prose directly beneath it. The bare labels stay in the source markdown,
-    which is what weekly_digest.py parses.
+    prose directly beneath it. The bare labels stay in the source markdown.
     """
     out_lines = []
     for line in md_text.split("\n"):
