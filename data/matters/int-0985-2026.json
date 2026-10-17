@@ -10,19 +10,20 @@
   "Crystal Hudson",
   "Virginia Maloney",
   "Lynn C. Schulman",
-  "Oswald J. Feliz"
+  "Oswald J. Feliz",
+  "Lincoln Restler"
  ],
  "by_request_of_mayor": false,
  "attachments": [
   {
-   "label": "Summary of Int. No. 985",
-   "kind": "Summary",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762365&GUID=0650EE3E-7777-441B-80E4-E275E74A0E2E"
-  },
-  {
    "label": "Summary of Int. No. 985-A",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881422&GUID=C7D72B36-A152-4567-A581-37A70C49DABD"
+  },
+  {
+   "label": "Summary of Int. No. 985",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762365&GUID=0650EE3E-7777-441B-80E4-E275E74A0E2E"
   },
   {
    "label": "Int. No. 985",
@@ -114,6 +115,24 @@
   {
    "date": "2026-09-30",
    "body": "Committee on Consumer and Worker Protection",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
    "action": "Hearing Held by Committee",
    "result": ""
   },
@@ -144,24 +163,6 @@
   {
    "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
    "action": "Laid Over by Committee",
    "result": ""
   },

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0905-2026",
  "title": "Law to give nonprofits first chance to buy distressed buildings",
- "summary": "This bill would let certain HPD-certified nonprofits or nonprofit-led joint ventures get a first opportunity to submit a statement of interest and to purchase certain distressed residential buildings before they go on the open market. Owners of properties meeting distress criteria, such as chronic code violations or expiring affordability restrictions, would have to notify HPD and qualified entities before selling, giving those entities 20 days to express interest and 70 days to make an offer, plus a right of first refusal on outside offers. Owners could seek an exemption for undue financial hardship, and the law would take effect one year after enactment.",
+ "summary": "This bill would give HPD-certified nonprofits or nonprofit-led joint ventures a first opportunity to express interest in and purchase certain distressed residential buildings, such as those in HPD's alternative enforcement program or with high violation rates, before they are sold on the open market. Owners would have to notify HPD and qualified entities before selling, giving them 20 days to submit interest and 70 days to make an offer, plus a right of first refusal if another buyer makes an offer. Owners could seek an exemption for undue financial hardship, and the law would take effect one year after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "305e17130a490223"
+ "input_hash": "7a8084772abcaff1"
 }

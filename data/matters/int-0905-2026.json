@@ -44,6 +44,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 905-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069199&GUID=4B75F003-907B-4419-B8B0-354CCC59C3CC"
+  },
+  {
    "label": "Summary of Int. No. 905",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477773&GUID=FD5425DD-27CC-4843-8319-2DA387717B54"
@@ -87,6 +92,11 @@
    "label": "Hearing Transcript - Stated Meeting 5-14-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849003&GUID=500AA6BB-D932-43B6-8F59-E2E640C81266"
+  },
+  {
+   "label": "Proposed Int. No. 905-A - 10/15/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069198&GUID=84C25AD0-11F3-4A61-A7ED-7958F905D6FE"
   }
  ],
  "fiscal": {

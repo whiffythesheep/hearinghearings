@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0797-2026",
- "title": "Law to require jail voter registration reporting",
- "summary": "This bill would require the Department of Correction to report annually to the mayor, Council speaker and public advocate on voter registration activities in city jails. The report must include the number of voter registration events held, the number of completed voter registration forms returned, disaggregated by facility and demographic factors, and the number of absentee ballots distributed, without including personally identifiable information. The first report would be due by January 31, 2027.",
+ "title": "Law to report on jail voter registration data",
+ "summary": "This bill would require the Department of Correction to issue an annual report on voter registration and voting activity in city jails, starting by January 31, 2027. The report would include the number of voter registration events held, the number of completed registration forms returned, and the number of absentee ballots distributed, broken down by facility and demographic factors like race, gender and disability status without personal identifying information. It follows findings that only a small share of eligible incarcerated voters, who numbered roughly 6,900 daily at Rikers, actually cast ballots in recent elections.",
  "model": "claude-sonnet-5",
- "input_hash": "deded1d400c7deab"
+ "input_hash": "d6000e4eb873f28c"
 }

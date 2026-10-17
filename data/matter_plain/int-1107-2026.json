@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1107-2026",
  "title": "Law to require guidance on service animal access rights",
- "summary": "This bill would require the Department of Health and Mental Hygiene, along with the Commission on Human Rights and the Mayor's Office for People with Disabilities, to create public education materials and guidance on service animal access in places of public accommodation. The materials would explain what qualifies as a service animal, businesses' legal obligations and how to file complaints, and would include pamphlets and model signage. These materials must be posted online in multiple languages and accessible formats, and reviewed at least every three years.",
+ "summary": "This bill would require the Department of Health and Mental Hygiene, working with the Commission on Human Rights and the Mayor's Office for People with Disabilities, to create guidance and a public education campaign about service animal access at businesses and other public places. It would require pamphlets, model signage and online materials explaining what counts as a service animal, what businesses must allow, and how to file a complaint if denied access. The materials must be reviewed and updated at least every three years, starting within one year of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "aeba4f257f9773c1"
+ "input_hash": "938db4c9c97d8108"
 }

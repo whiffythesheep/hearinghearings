@@ -1,0 +1,74 @@
+{
+ "file_number": "Res 0510-2026",
+ "slug": "res-0510-2026",
+ "legistar_id": "8067939",
+ "type": "Resolution",
+ "title": "Resolution declaring June 18 as Autistic Pride Day in the City of New York",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Julie Won",
+  "Selvena N. Brooks-Powers",
+  "Amanda C. Farías",
+  "Carl Wilson",
+  "Kevin C. Riley",
+  "Farah N. Louis",
+  "Shahana K. Hanif",
+  "Tiffany L. Cabán",
+  "Lynn C. Schulman",
+  "Harvey D. Epstein",
+  "Shirley Aldebol",
+  "Sandy Nurse",
+  "Mercedes Narcisse"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 510",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15574208&GUID=4EE05E0B-7166-47B4-985B-2CCDD9E67637"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575753&GUID=E6F28A85-ED52-47AF-9660-93880F94C1F8"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968956&GUID=729EC113-8FDE-4723-AD07-42B2CDA4DDD8"
+  },
+  {
+   "label": "Committee Report 10/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16068050&GUID=19C68A58-ED61-48C6-B5AE-BF7F71680673"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-06-11",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067939&GUID=6F6C11A3-C5AA-47BA-BDF3-38CADCEBCF51"
+}

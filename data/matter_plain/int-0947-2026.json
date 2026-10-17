@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0947-2026",
  "title": "Law to let struggling tobacco bars relocate",
- "summary": "This bill would let a registered tobacco bar move to a new location and transfer its registration and retail tobacco license if it shows financial hardship. It would allow a one-time license transfer to a new community district even if that district has reached its cap on tobacco retail dealers. The change applies to businesses previously registered with the Department of Health and Mental Hygiene.",
+ "summary": "This bill would let a registered tobacco bar that closed and wants to resume operating transfer its registration to a new location if it can show financial hardship. It would also allow a one-time transfer of the bar's tobacco retail dealer license to operate in the same or a different community district, even if that district has already reached its cap on tobacco retail licenses.",
  "model": "claude-sonnet-5",
- "input_hash": "828bda584fc7b30e"
+ "input_hash": "b810dffeab987130"
 }

@@ -4,7 +4,7 @@
  "legistar_id": "8279387",
  "type": "Resolution",
  "title": "Resolution calling on the United States Senate to approve, and the President to ratify the Convention on the Rights of Persons with Disabilities and its Optional Protocol, in recognition of the Convention’s 20th anniversary",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shahana K. Hanif",
   "Sandy Nurse",
@@ -25,10 +25,27 @@
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061771&GUID=08693D9E-3B45-4879-88A3-8C14A7AAAD6A"
+  },
+  {
+   "label": "Committee Report 10/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16068051&GUID=468C6EE2-B1A5-4743-A380-D16A4E75DD29"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-08",
    "body": "City Council",

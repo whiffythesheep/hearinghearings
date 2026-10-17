@@ -4,7 +4,7 @@
  "legistar_id": "8278917",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to guidance and public education regarding service animal access in places of public accommodation",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shahana K. Hanif",
   "Kevin C. Riley",
@@ -13,11 +13,6 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
-  {
-   "label": "Memorandum in Support",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16045373&GUID=D32B3A1A-2DC9-4C1B-8DE7-08287DEDA729"
-  },
   {
    "label": "Summary of Int. No. 1107",
    "kind": "Summary",
@@ -29,13 +24,66 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051384&GUID=B55F27D2-2137-4CDD-9433-026B4E760D9B"
   },
   {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16045373&GUID=D32B3A1A-2DC9-4C1B-8DE7-08287DEDA729"
+  },
+  {
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061769&GUID=13A7FCA2-7054-4F14-BBCF-FA5380AF0235"
+  },
+  {
+   "label": "Committee Report 10/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16068049&GUID=19122325-7AB4-48D5-9570-A75F95F92AD7"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16068973&GUID=1429E27D-A8DE-4C7E-A3DE-90B314ECF278"
+  },
+  {
+   "label": "Committee Report 10/16/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071875&GUID=2E762930-D450-4E60-860C-CB2076D74627"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16068973&GUID=1429E27D-A8DE-4C7E-A3DE-90B314ECF278"
+ },
  "history": [
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-08",
    "body": "City Council",

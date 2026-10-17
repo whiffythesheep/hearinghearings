@@ -3,7 +3,7 @@
  "slug": "int-0943-2026",
  "legistar_id": "8067835",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of horse drawn cabs, and to repeal sections 17-334.1, 19-174, 20-377, 20-377.1, 20-380, 20-381, 20-381.1, 20-381.2, 20-382 and subdivisions b, c, and d of section 20-383 of the administrative code of the city of New York, relating to carriage horses and horse drawn cabs, and to repeal sections thirteen, nineteen, and twenty-one of this local law upon the expiration thereof",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of horse drawn cabs and establishing a horse drawn cab industry transition plan, and to repeal sections 17-334.1, 19-174, 20-377, 20-377.1, 20-380, 20-381, 20-381.1, 20-381.2, 20-382 and subdivisions b, c, and d of section 20-383 of the administrative code of the city of New York, relating to carriage horses and horse drawn cabs",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Christopher Marte",
@@ -40,6 +40,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 943-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16066473&GUID=D4F195B1-207F-4728-994C-D39E5498528A"
+  },
   {
    "label": "Summary of Int. No. 943",
    "kind": "Summary",
@@ -89,6 +94,11 @@
    "label": "Hearing Transcript - Stated Meeting 6-11-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968937&GUID=B8C0696E-FFC0-47BF-BB16-3082EF5BE8F4"
+  },
+  {
+   "label": "Proposed Int. No. 943-A - 10/14/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16066472&GUID=5B1D3FA0-9F67-4124-A4BE-DB7B3A650999"
   }
  ],
  "fiscal": null,

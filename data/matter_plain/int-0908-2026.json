@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0908-2026",
- "title": "Law to let digital proof replace paper food safety certificates",
- "summary": "This bill would require the Health Department to keep a digital system to verify food protection certificates during inspections. Restaurants could not be fined just for lacking a physical copy on-site if their certificate is confirmed valid digitally. The law would take effect 180 days after enactment.",
+ "title": "Law to stop fines when food safety certificate is verified online",
+ "summary": "This bill would require the Health Department to keep a digital system verifying food protection certificates during restaurant inspections. If an inspector can confirm a valid certificate in that system, the restaurant could not be fined $400 just because a physical copy was not on hand. The law would take effect 180 days after being enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "fd96629fabd8f6f9"
+ "input_hash": "2ef1223b02696a36"
 }

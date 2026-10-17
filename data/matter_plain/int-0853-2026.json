@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0853-2026",
- "title": "Law to study equal access to special education programs",
- "summary": "This bill requires the Mayor's Office for People with Disabilities, working with the Department of Education, to study how language needs, income and where a student lives affect access to special education programs and services. The study must examine gaps by borough, zip code and school district, and by home language and family income, and recommend ways to reduce disparities. A public report with findings and recommendations is due within 6 months of the law taking effect.",
+ "title": "Law to study barriers to special education access",
+ "summary": "This bill would require the Mayor's Office for People with Disabilities, working with the Department of Education, to study how language access needs, household income and geographic location affect students' access to special education programs and services. The study must examine disparities by borough, zip code and school district, availability of interpretation services, and barriers tied to income, and recommend ways to expand equitable access. A report with findings and recommendations would be due to the mayor and Council speaker within 6 months of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "fd037e7e496b5228"
+ "input_hash": "506c435865740b7f"
 }

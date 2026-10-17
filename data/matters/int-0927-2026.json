@@ -12,6 +12,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 927-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16066468&GUID=0B08A466-E7C2-4E26-8664-5B61F85D3780"
+  },
+  {
    "label": "Summary of Int. No. 927",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15573677&GUID=1CFB7334-DBF1-45FB-9954-B79850E1F257"
@@ -45,6 +50,11 @@
    "label": "Hearing Testimony 9/30/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058247&GUID=59C01674-0EA7-4574-A30D-ED6A27E3F967"
+  },
+  {
+   "label": "Proposed Int. No. 927-A - 10/14/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16066467&GUID=0D4C1EF1-FAB1-4290-AA1A-38A08B292515"
   }
  ],
  "fiscal": {

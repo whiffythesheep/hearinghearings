@@ -3,7 +3,7 @@
  "slug": "int-0978-2026",
  "legistar_id": "8138357",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities and adjusting the income requirements related thereto",
  "status": "Committee",
  "sponsors": [
   "Farah N. Louis",
@@ -35,14 +35,19 @@
   "Sandy Nurse",
   "Phil Wong",
   "Mercedes Narcisse",
+  "Elsie Encarnación",
   "Inna Vernikov",
   "Public Advocate Jumaane Williams",
   "(in conjunction with the Manhattan Borough Preside",
-  "(in conjunction with the Brooklyn Borough Presiden",
-  "Elsie Encarnación"
+  "(in conjunction with the Brooklyn Borough Presiden"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 978-B",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071517&GUID=B7813825-2C02-4DE5-BBC1-07EC8CB47A27"
+  },
   {
    "label": "Summary of Int. No. 978-A",
    "kind": "Summary",
@@ -97,6 +102,11 @@
    "label": "Hearing Transcript 9/18/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15973346&GUID=23DB4A1C-9890-40CD-BCE0-CEF7AB8A25E4"
+  },
+  {
+   "label": "Proposed Int. No. 978-B - 10/15/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071516&GUID=ECBABA8D-1574-4C43-864B-404FCC260EE4"
   }
  ],
  "fiscal": {
@@ -160,25 +170,25 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Disabilities",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Disabilities",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Finance",
    "action": "Amended by Committee",
    "result": ""
   },
