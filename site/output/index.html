@@ -209,7 +209,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 142 of 142</span>
+            <span id="hearing-count" aria-live="polite">Showing 144 of 144</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
         <nav class="pagination pagination--top" aria-label="Pages" hidden>
@@ -504,6 +504,11 @@
                         </label>
                     
                         <label class="colheader-filter__option">
+                            <input type="checkbox" value="Upcoming">
+                            <span>Upcoming</span>
+                        </label>
+                    
+                        <label class="colheader-filter__option">
                             <input type="checkbox" value="Vote session">
                             <span>Vote session</span>
                         </label>
@@ -514,6 +519,36 @@
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Health"]'
+                data-title="Hearing on food service inspections and related food safety bills"
+                data-month="2026-10"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1452152/">
+                    <time class="hearing-row__date" datetime="2026-10-19">
+                        October 19, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Health</span>
+                    <span class="hearing-row__title">Hearing on food service inspections and related food safety bills</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Cultural Affairs, Libraries and International Relations"]'
+                data-title="Hearing on the future of the city&#39;s cultural plan CreateNYC"
+                data-month="2026-10"
+                data-kind="Upcoming"
+                data-slug="">
+                <a href="/meetings/1442652/">
+                    <time class="hearing-row__date" datetime="2026-10-19">
+                        October 19, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Cultural Affairs, Libraries and International Relations</span>
+                    <span class="hearing-row__title">Hearing on the future of the city&#39;s cultural plan CreateNYC</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -2766,7 +2801,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 142;
+        var totalHearings = 144;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');

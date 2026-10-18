@@ -1,0 +1,53 @@
+{
+ "file_number": "Res 0186-2026",
+ "slug": "res-0186-2026",
+ "legistar_id": "7879094",
+ "type": "Resolution",
+ "title": "Resolution designating November 28 annually as Albanian Independence Day in the City of New York",
+ "status": "Committee",
+ "sponsors": [
+  "Amanda C. Farías",
+  "Shirley Aldebol",
+  "Farah N. Louis",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No.186",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15188093&GUID=2DF4A149-F44F-41BF-AC55-95AE2D4832A7"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729340&GUID=FFEF073B-66EA-44D8-9C06-C484922C90FD"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302391&GUID=A5691F37-5585-497B-BA6D-B80085C370D2"
+  },
+  {
+   "label": "Committee Report 10/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071785&GUID=809B2FE9-F8B2-4140-90E8-7843AACABCB1"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879094&GUID=B5000E3E-2C6C-498B-8838-1BCB0D5A0457"
+}

@@ -1,0 +1,55 @@
+{
+ "file_number": "Res 0164-2026",
+ "slug": "res-0164-2026",
+ "legistar_id": "7863376",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to designate Kwanzaa as a public holiday in New York",
+ "status": "Committee",
+ "sponsors": [
+  "Nantasha M. Williams",
+  "Farah N. Louis",
+  "Althea V. Stevens",
+  "Jennifer Gutiérrez",
+  "Tiffany L. Cabán",
+  "Chris Banks"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 164",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15255972&GUID=A3B6248F-6C37-4FE7-AB15-2F0FA8616CEA"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251986&GUID=22B0918A-32EE-469D-80B3-8354EDB798C1"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252678&GUID=C20AB04B-333B-42C1-88F3-47B9DD333E25"
+  },
+  {
+   "label": "Committee Report 10/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071784&GUID=CAC04EE7-1439-4019-A998-3A7AE8E3393C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7863376&GUID=AA9713ED-A2EC-4580-9BBB-F7516D7F0DFD"
+}
