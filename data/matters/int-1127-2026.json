@@ -3,7 +3,7 @@
  "slug": "int-1127-2026",
  "legistar_id": "8281464",
  "type": "Introduction",
- "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to amending and eliminating certain reporting requirements, to amend section 5 of such charter, relating to an annual statement to the council, to repeal section 17 of such charter, relating to a strategic policy statement, to repeal section 20-e of such charter, relating to a committee on city healthcare services, to amend subdivision g of section 20-m of such charter, relating to a report identifying critical gaps in mental health care, to amend subdivision c of section 2301 of such charter, relating to membership of the New York city taxi and limousine commission, to amend subdivision a of section 2302 of such charter, relating to an annual report by the New York city taxi and limousine commission, to amend paragraph 6 of subdivision b of section 2903 of such charter, relating to a report on the condition of all bridges and tunnels operated and maintained by the department...",
+ "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to amending and eliminating certain reporting requirements, to amend section 5 of such charter, relating to an annual statement to the council, to repeal section 17 of such charter, relating to a strategic policy statement, to repeal section 20-e of such charter, relating to a committee on city healthcare services, to amend subdivision g of section 20-m of such charter, relating to a report identifying critical gaps in mental health care, to repeal section 1054 of such charter, relating to a voter assistance advisory committee, to amend subdivision c of section 2301 of such charter, relating to membership of the New York city taxi and limousine commission, to amend subdivision a of section 2302 of such charter, relating to an annual report by the New York city taxi and limousine commission, to amend paragraph 6 of subdivision b of section 2903 of such charter, relating to a r...",
  "status": "Committee",
  "sponsors": [
   "Nantasha M. Williams",
@@ -18,6 +18,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1127-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075919&GUID=53B690A2-E2F4-4E95-AEB9-0511A9FD437F"
+  },
   {
    "label": "Summary of Int. No. 1127",
    "kind": "Summary",
@@ -37,6 +42,11 @@
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061794&GUID=6FDB5994-8F8F-4002-986F-E3469E57BF66"
+  },
+  {
+   "label": "Proposed Int. No. 1127-A - 10/19/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075918&GUID=93CE6F63-A9A1-413E-987A-7B75CD4E75D8"
   }
  ],
  "fiscal": null,

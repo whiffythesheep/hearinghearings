@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1022-2026",
  "title": "Law to require ferry service to West 125th Street",
- "summary": "This bill would require the Mayor to establish and maintain regular ferry service to a new terminal at or near West 125th Street in Manhattan, connecting to other locations citywide and integrating with the existing ferry system. It also requires landside connections to nearby transit and pedestrian infrastructure. The service must be operational by January 1, 2028.",
+ "summary": "This bill would require the mayor to establish and maintain regular ferry service to a new terminal at or near West 125th Street in Manhattan by January 1, 2028. The city would designate an agency or contractor to operate the route, connect it to the existing NYC Ferry system and nearby transit, and coordinate with state and federal agencies with jurisdiction over the Hudson River waterfront.",
  "model": "claude-sonnet-5",
- "input_hash": "5a86211c34730866"
+ "input_hash": "42d1b2700d31628f"
 }

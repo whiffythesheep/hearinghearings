@@ -1,0 +1,55 @@
+{
+ "event_id": "1454036",
+ "date": "2026-10-21",
+ "body": "Committee on Mental Health and Substance Use",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2658",
+   "type": "Oversight",
+   "name": "Oversight - Syringe Litter Management and Related Support Services.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8279275",
+   "legistar_guid": "154E3FA4-41AB-43BB-8DFB-0C8F7E6AAE98"
+  },
+  {
+   "file_number": "Int 0067-2026",
+   "type": "Introduction",
+   "name": "Establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips.",
+   "sponsor": "David M. Carr",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861457",
+   "legistar_guid": "BF8E5416-B73A-4322-B936-E72CA85FD5DE"
+  },
+  {
+   "file_number": "Res 0262-2026",
+   "type": "Resolution",
+   "name": "New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7875438",
+   "legistar_guid": "C7FAD7A1-E5EB-41CD-85DC-ED96E7A6B067"
+  },
+  {
+   "file_number": "Res 0263-2026",
+   "type": "Resolution",
+   "name": "Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7879376",
+   "legistar_guid": "2C547536-E064-4723-89AC-8FE667DF6246"
+  }
+ ]
+}

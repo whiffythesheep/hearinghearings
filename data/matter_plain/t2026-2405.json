@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2405",
- "title": "Hearing on ambulance response times",
- "summary": "This Council hearing will examine how quickly ambulances respond to emergency calls in New York City. No documents were provided beyond the title.",
+ "title": "Hearing on rising ambulance response times citywide",
+ "summary": "The Council's Fire and Emergency Management and Hospitals Committees will hold a joint oversight hearing on ambulance response times, which have risen from 7m23s in fiscal year 2019 to 10m36s in fiscal year 2026 for life-threatening calls, with wide disparities by borough. The hearing will also examine Introduction 990, which would require the city to send emergency alerts whenever FDNY has more than 25 pending ambulance dispatches, directing people to non-emergency care options. Factors discussed include staffing shortages, hospital closures, and emergency room wait times that can exceed 24 hours at some hospitals.",
  "model": "claude-sonnet-5",
- "input_hash": "fbaad0dfeeeb944f"
+ "input_hash": "32bdc8c2a3586eff"
 }

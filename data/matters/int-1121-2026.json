@@ -17,6 +17,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 1121-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076426&GUID=6B4756BF-5D4F-4C42-8DBE-6FD440F7FE20"
+  },
+  {
    "label": "Summary of Int. No. 1121",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050988&GUID=02C8685A-7934-4004-88CC-F9663C4F6956"
@@ -35,6 +40,11 @@
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061787&GUID=96B12BFF-AF65-4F94-873B-43685506B154"
+  },
+  {
+   "label": "Proposed Int. No. 1121-A - 10/19/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076425&GUID=C42DD5F2-7C1B-4D25-926A-E7B498E3E6E8"
   }
  ],
  "fiscal": null,

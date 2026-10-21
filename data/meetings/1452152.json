@@ -4,7 +4,7 @@
  "body": "Committee on Health",
  "location": "250 Broadway - 8th Floor - Hearing Room 2",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Food Service Establishment Inspections in New York City.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8207280",
+   "legistar_guid": "2BA2D29B-010E-4688-A2E5-765D9069C41D"
+  },
+  {
+   "file_number": "T2026-2545",
+   "type": "Oversight",
+   "name": "Oversight - Food Service Establishment Inspections in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8207280",
    "legistar_guid": "2BA2D29B-010E-4688-A2E5-765D9069C41D"
@@ -24,7 +35,40 @@
    "name": "Requiring that notices of violation issued by the department of health and mental hygiene during inspections of food service establishments include photographs or video recordings of each violation cited in such notice.",
    "sponsor": "Amanda C. Farías",
    "agenda_note": "Proposed Int. No. 189-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861935",
+   "legistar_guid": "4F64E7D3-F5B0-4FE0-AC1D-9BE26CA56D02"
+  },
+  {
+   "file_number": "Int 0189-2026",
+   "type": "Introduction",
+   "name": "Requiring that notices of violation issued by the department of health and mental hygiene during inspections of food service establishments include photographs or video recordings of each violation cited in such notice.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7861935",
+   "legistar_guid": "4F64E7D3-F5B0-4FE0-AC1D-9BE26CA56D02"
+  },
+  {
+   "file_number": "Int 0189-2026",
+   "type": "Introduction",
+   "name": "Requiring that notices of violation issued by the department of health and mental hygiene during inspections of food service establishments include photographs or video recordings of each violation cited in such notice.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7861935",
+   "legistar_guid": "4F64E7D3-F5B0-4FE0-AC1D-9BE26CA56D02"
+  },
+  {
+   "file_number": "Int 0189-2026",
+   "type": "Introduction",
+   "name": "Requiring that notices of violation issued by the department of health and mental hygiene during inspections of food service establishments include photographs or video recordings of each violation cited in such notice.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861935",
    "legistar_guid": "4F64E7D3-F5B0-4FE0-AC1D-9BE26CA56D02"
@@ -35,7 +79,40 @@
    "name": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "Proposed Int. No. 405-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7866137",
+   "legistar_guid": "29B23134-13CB-40F6-AA23-78272685BCCF"
+  },
+  {
+   "file_number": "Int 0405-2026",
+   "type": "Introduction",
+   "name": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7866137",
+   "legistar_guid": "29B23134-13CB-40F6-AA23-78272685BCCF"
+  },
+  {
+   "file_number": "Int 0405-2026",
+   "type": "Introduction",
+   "name": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7866137",
+   "legistar_guid": "29B23134-13CB-40F6-AA23-78272685BCCF"
+  },
+  {
+   "file_number": "Int 0405-2026",
+   "type": "Introduction",
+   "name": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7866137",
    "legistar_guid": "29B23134-13CB-40F6-AA23-78272685BCCF"
@@ -46,7 +123,18 @@
    "name": "Digital verification of food protection certificates and penalties for failure to maintain a physical certificate on premises.",
    "sponsor": "Kayla Santosuosso",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8027953",
+   "legistar_guid": "5E45313C-C3D9-49A8-BCF8-7DE746ED0772"
+  },
+  {
+   "file_number": "Int 0908-2026",
+   "type": "Introduction",
+   "name": "Digital verification of food protection certificates and penalties for failure to maintain a physical certificate on premises.",
+   "sponsor": "Kayla Santosuosso",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8027953",
    "legistar_guid": "5E45313C-C3D9-49A8-BCF8-7DE746ED0772"
@@ -57,7 +145,18 @@
    "name": "The operation of tobacco bars.",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8067863",
+   "legistar_guid": "0D891FFF-8D33-43B7-8696-8B858EF95FBF"
+  },
+  {
+   "file_number": "Int 0947-2026",
+   "type": "Introduction",
+   "name": "The operation of tobacco bars.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8067863",
    "legistar_guid": "0D891FFF-8D33-43B7-8696-8B858EF95FBF"
@@ -68,7 +167,18 @@
    "name": "Reporting Legionella test results to the department of health and mental hygiene.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8237419",
+   "legistar_guid": "7698EE05-634E-4EF4-9CB9-C11047E0604C"
+  },
+  {
+   "file_number": "Int 1094-2026",
+   "type": "Introduction",
+   "name": "Reporting Legionella test results to the department of health and mental hygiene.",
+   "sponsor": "Lynn C. Schulman",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8237419",
    "legistar_guid": "7698EE05-634E-4EF4-9CB9-C11047E0604C"
@@ -79,7 +189,18 @@
    "name": "Requiring the reapplication of food protection course certification every 5 years.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8257977",
+   "legistar_guid": "D1A4F6AF-924C-45A4-A0C3-E709CC9E4C60"
+  },
+  {
+   "file_number": "Int 1124-2026",
+   "type": "Introduction",
+   "name": "Requiring the reapplication of food protection course certification every 5 years.",
+   "sponsor": "Lynn C. Schulman",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8257977",
    "legistar_guid": "D1A4F6AF-924C-45A4-A0C3-E709CC9E4C60"
@@ -90,7 +211,18 @@
    "name": "Prohibit certain food additives, to prohibit the sale of food containing certain color additives at schools, and to prohibit the use of substances “Generally Recognized as Safe” in food unless certain reporting requirements are met (S.1239A/A.1556A).",
    "sponsor": "Althea V. Stevens",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862975",
+   "legistar_guid": "7C1EC0C2-3864-4153-89C2-314CE89B4BE1"
+  },
+  {
+   "file_number": "Res 0152-2026",
+   "type": "Resolution",
+   "name": "Prohibit certain food additives, to prohibit the sale of food containing certain color additives at schools, and to prohibit the use of substances “Generally Recognized as Safe” in food unless certain reporting requirements are met (S.1239A/A.1556A).",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7862975",
    "legistar_guid": "7C1EC0C2-3864-4153-89C2-314CE89B4BE1"

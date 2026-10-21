@@ -4,11 +4,12 @@
  "legistar_id": "8206967",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing ferry service to West 125th Street",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shaun Abreu",
   "Gale A. Brewer",
-  "Kevin C. Riley"
+  "Kevin C. Riley",
+  "(in conjunction with the Manhattan Borough Preside"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -36,10 +37,49 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862810&GUID=FEEA89B6-C03E-40D7-B39F-19E057153E67"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078098&GUID=57670DA2-F520-478A-9E1F-D885D4254F6D"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078289&GUID=50C47906-5E4B-4417-8B31-D9BE2D2714FB"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 2000000,
+   "succeeding": 2000000,
+   "full": 2000000
+  },
+  "expenditures": {
+   "effective": 2000000,
+   "succeeding": 2000000,
+   "full": 2000000
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078098&GUID=57670DA2-F520-478A-9E1F-D885D4254F6D"
+ },
  "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

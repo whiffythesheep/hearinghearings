@@ -4,7 +4,7 @@
  "legistar_id": "7863376",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to designate Kwanzaa as a public holiday in New York",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Nantasha M. Williams",
   "Farah N. Louis",
@@ -38,6 +38,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

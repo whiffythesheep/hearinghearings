@@ -4,7 +4,7 @@
  "legistar_id": "8203381",
  "type": "Oversight",
  "title": "Oversight - Seal of Civic Readiness in DOE High Schools and at CUNY.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Education",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8203381&GUID=3068908B-E779-48D9-A7F8-971669F4C17D"
 }

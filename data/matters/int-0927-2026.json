@@ -7,7 +7,8 @@
  "status": "Laid Over in Committee",
  "sponsors": [
   "Selvena N. Brooks-Powers",
-  "Lynn C. Schulman"
+  "Lynn C. Schulman",
+  "Harvey D. Epstein"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -55,6 +56,16 @@
    "label": "Proposed Int. No. 927-A - 10/14/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16066467&GUID=0D4C1EF1-FAB1-4290-AA1A-38A08B292515"
+  },
+  {
+   "label": "Proposed Int. No. 927-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078436&GUID=076EF17F-B5DE-4F96-A43B-FB0EE19283A1"
+  },
+  {
+   "label": "Committee Report 10/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078882&GUID=8D8A75D3-243D-4D3A-ABDB-FDAD2940EF4D"
   }
  ],
  "fiscal": {
@@ -64,20 +75,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 2462,
+   "effective": 1462,
    "succeeding": 0,
-   "full": 2462
+   "full": 1462
   },
   "net": {
-   "effective": -2462,
+   "effective": -1462,
    "succeeding": 0,
-   "full": -2462
+   "full": -1462
   },
   "effective_fy": "",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953545&GUID=A1208257-FF2E-4D74-AA48-594845C663A8"
+  "label": "Proposed Int. No. 927-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078436&GUID=076EF17F-B5DE-4F96-A43B-FB0EE19283A1"
  },
  "history": [
   {

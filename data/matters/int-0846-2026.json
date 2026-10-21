@@ -1,0 +1,105 @@
+{
+ "file_number": "Int 0846-2026",
+ "slug": "int-0846-2026",
+ "legistar_id": "7984667",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to ferry service to Willets Point",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Shanel Thomas-Henry",
+  "Virginia Maloney",
+  "Ty Hankerson",
+  "Althea V. Stevens",
+  "Sandra Ung",
+  "Harvey D. Epstein",
+  "Selvena N. Brooks-Powers",
+  "Julie Won",
+  "Jennifer Gutiérrez",
+  "Yusef Salaam",
+  "Lynn C. Schulman",
+  "Kevin C. Riley"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 846",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393486&GUID=4DC08E78-4910-485A-A41C-AB2EA1574ACB"
+  },
+  {
+   "label": "Int. No. 846",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15393485&GUID=65264FAE-445E-4AD1-B599-70058AFEB17F"
+  },
+  {
+   "label": "April 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15395160&GUID=EA0F5337-EE91-42E2-A8C8-FB88E3DE97A4"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15403517&GUID=1337E22D-9D9A-4BBA-8B7B-3FF2D9E94298"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15508432&GUID=DF6E3551-358B-4F9F-A58F-3DD2B1021F73"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078097&GUID=62644FD1-FFFC-405F-A763-690E70EA23FF"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078288&GUID=57620B15-113B-43F9-85F6-CEEF6ED5FB17"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 500000,
+   "succeeding": 2500000,
+   "full": 2500000
+  },
+  "expenditures": {
+   "effective": 500000,
+   "succeeding": 2500000,
+   "full": 2500000
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078097&GUID=62644FD1-FFFC-405F-A763-690E70EA23FF"
+ },
+ "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7984667&GUID=EDCC7C44-0CCD-4F41-A1D5-729EBFA62809"
+}

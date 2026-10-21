@@ -72,9 +72,35 @@
    "label": "Proposed Int. No. 786-A - 10/15/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069929&GUID=3E5AAADF-CB69-4D3F-BBCF-195F8AECDCAB"
+  },
+  {
+   "label": "Proposed Int. No. 786-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076461&GUID=FCFD4D99-0577-499C-B11D-C85B41BE9B20"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 786-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076461&GUID=FCFD4D99-0577-499C-B11D-C85B41BE9B20"
+ },
  "history": [
   {
    "date": "2026-04-14",

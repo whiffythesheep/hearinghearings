@@ -1,0 +1,82 @@
+{
+ "file_number": "Res 0451-2026",
+ "slug": "res-0451-2026",
+ "legistar_id": "7998562",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.9298 and a companion bill in the Senate, which would enact the \"Next-Gen Civics Act,\" providing hands-on, project-based civic education to students in grades nine through 12",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Susan Zhuang",
+  "Phil Wong",
+  "Frank Morano",
+  "Virginia Maloney",
+  "Farah N. Louis",
+  "Shanel Thomas-Henry",
+  "Lincoln Restler",
+  "Eric Dinowitz",
+  "Inna Vernikov"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 451",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425698&GUID=A508901F-C6F9-42B2-AE9D-D1B9BE13B145"
+  },
+  {
+   "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426488&GUID=246C7C7A-5667-4C48-9265-EEF2E161E324"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567493&GUID=2766554D-B7AE-44CF-A019-8E11F0D2D730"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071775&GUID=F23D4CE6-5A63-4AA0-849E-5F4B561D193F"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Higher Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Education",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Higher Education",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7998562&GUID=275676ED-60A2-4EC7-B3BD-6EDB86C200B1"
+}

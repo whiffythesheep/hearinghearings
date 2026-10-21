@@ -97,6 +97,16 @@
    "label": "Proposed Int. No. 905-A - 10/15/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069198&GUID=84C25AD0-11F3-4A61-A7ED-7958F905D6FE"
+  },
+  {
+   "label": "Hearing Transcript 9/9/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075947&GUID=62A2D870-90C6-4FD9-8100-C2527D57DD37"
+  },
+  {
+   "label": "Proposed Int. No. 905-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076801&GUID=56B2C191-AD00-4018-8CC4-F8C0234B4964"
   }
  ],
  "fiscal": {
@@ -118,8 +128,8 @@
   "effective_fy": "2028",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837851&GUID=D45E2948-6EAF-4D0C-8F40-824F6B3DBB2C"
+  "label": "Proposed Int. No. 905-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076801&GUID=56B2C191-AD00-4018-8CC4-F8C0234B4964"
  },
  "history": [
   {

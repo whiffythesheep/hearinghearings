@@ -1,0 +1,83 @@
+{
+ "file_number": "Int 0067-2026",
+ "slug": "int-0067-2026",
+ "legistar_id": "7861457",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips",
+ "status": "Committee",
+ "sponsors": [
+  "David M. Carr",
+  "Shaun Abreu",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 67",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166704&GUID=9416F474-249E-4009-86EF-600DFDE42EED"
+  },
+  {
+   "label": "Int. No. 67",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166705&GUID=A0338EB5-7647-476E-ABD8-A75C1D21E10C"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251409&GUID=F14AE329-669E-4FD6-90ED-6907FA9059F3"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252104&GUID=85AA64EC-4F09-4D7D-999D-DF21D472B521"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16062942&GUID=8D8B6A7A-8045-495F-8984-2AAE43ED4DEA"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079164&GUID=4B450C47-A3F2-496B-B925-BF53320B1FA5"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "",
+  "omb_estimate": "",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16062942&GUID=8D8B6A7A-8045-495F-8984-2AAE43ED4DEA"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861457&GUID=BF8E5416-B73A-4322-B936-E72CA85FD5DE"
+}

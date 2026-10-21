@@ -1,0 +1,46 @@
+{
+ "file_number": "Res 0560-2026",
+ "slug": "res-0560-2026",
+ "legistar_id": "8138451",
+ "type": "Resolution",
+ "title": "Resolution calling on the United States House of Representatives to pass H.R. 1803, the United States Senate to introduce and pass a companion bill, and the President to sign such legislation, to enact the Fair Access to Co-ops for Veterans Act of 2025",
+ "status": "Committee",
+ "sponsors": [
+  "Vickie Paladino",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 560",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695723&GUID=C00F879D-FF3E-4680-8F9E-F0BECB049A72"
+  },
+  {
+   "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699692&GUID=476AFF15-DFD4-4E0F-81EC-45F48D691EAE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720714&GUID=6FD83A55-B6BE-4221-97DB-D344182A41CA"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8138451&GUID=2C8040D8-7303-4BAB-96DF-72482C8CD2A0"
+}

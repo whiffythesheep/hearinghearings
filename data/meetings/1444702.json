@@ -1,0 +1,66 @@
+{
+ "event_id": "1444702",
+ "date": "2026-10-21",
+ "body": "Committee on Veterans",
+ "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on General Welfare.",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2557",
+   "type": "Oversight",
+   "name": "Oversight - Veterans Homelessness in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8257253",
+   "legistar_guid": "AF9A1837-C1DF-4132-9FAA-A9C755FFC18F"
+  },
+  {
+   "file_number": "Int 0897-2026",
+   "type": "Introduction",
+   "name": "Department of social services’ response to certain severe winter weather conditions.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8027974",
+   "legistar_guid": "660B9552-70C3-4CDC-B118-CEB68E93DF36"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for seriously disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  },
+  {
+   "file_number": "Res 0560-2026",
+   "type": "Resolution",
+   "name": "Enact the Fair Access to Co-ops for Veterans Act of 2025. (H.R. 1803)",
+   "sponsor": "Vickie Paladino",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8138451",
+   "legistar_guid": "2C8040D8-7303-4BAB-96DF-72482C8CD2A0"
+  },
+  {
+   "file_number": "Res 0634-2026",
+   "type": "Resolution",
+   "name": "Recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206850",
+   "legistar_guid": "511683CA-72CF-4334-9EC3-209601519C9B"
+  }
+ ]
+}

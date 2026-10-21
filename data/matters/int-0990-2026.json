@@ -4,11 +4,12 @@
  "legistar_id": "8169832",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to emergency notifications related to delays in ambulance dispatch",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Joann Ariola",
   "Lynn C. Schulman",
-  "Frank Morano"
+  "Frank Morano",
+  "Vickie Paladino"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -31,10 +32,39 @@
    "label": "Hearing Transcript - Stated Meeting 8-13-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969299&GUID=AFA4C100-313B-460F-B23F-FA28DC317646"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078301&GUID=3F80A491-BFAD-480F-BB31-DFB0A937E74C"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Hospitals",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Hospitals",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

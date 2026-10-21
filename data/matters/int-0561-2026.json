@@ -1,0 +1,91 @@
+{
+ "file_number": "Int 0561-2026",
+ "slug": "int-0561-2026",
+ "legistar_id": "7879209",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to regulating the idling of engines and the use of citizen's complaints to enforce laws enforced by the department of environmental protection",
+ "status": "Committee",
+ "sponsors": [
+  "James F. Gennaro"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 561-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563940&GUID=AACBF757-B9D2-4999-9C0E-A918DC2DF880"
+  },
+  {
+   "label": "Summary of Int. No. 561",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289469&GUID=AEE1BBCD-5FCD-4C04-8C97-67FDB100A3DA"
+  },
+  {
+   "label": "Int. No. 561",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289470&GUID=C77C2404-A640-45F9-87FD-3241BAAD7C9C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302418&GUID=26D73230-41D7-4A6C-A52E-96FF31D105E0"
+  },
+  {
+   "label": "Proposed Int. No. 561-A - 6/8/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563939&GUID=2D31D3EE-343A-4DD2-BD1A-117F1E7D8461"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729378&GUID=66F5060A-DF90-4891-AEE5-647578733CC0"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072204&GUID=30D5CDA8-B91D-4671-B7FB-124A2956CC4A"
+  },
+  {
+   "label": "Proposed Int. No. 561-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077562&GUID=CA2B5D78-85FB-4D73-9F7D-2C895C09C400"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 561-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077562&GUID=CA2B5D78-85FB-4D73-9F7D-2C895C09C400"
+ },
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879209&GUID=35BDEBCB-8699-4686-962D-1A61E31E263F"
+}

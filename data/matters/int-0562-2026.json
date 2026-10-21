@@ -1,0 +1,83 @@
+{
+ "file_number": "Int 0562-2026",
+ "slug": "int-0562-2026",
+ "legistar_id": "7879210",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a program that transfers liability for certain engine idling violations to lessees of vehicles",
+ "status": "Committee",
+ "sponsors": [
+  "James F. Gennaro",
+  "Shahana K. Hanif",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 562",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289471&GUID=2323F7CC-0949-47AB-B826-2C3CEBF2B186"
+  },
+  {
+   "label": "Int. No. 562",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15289472&GUID=AB000031-0ED5-4B66-B2EF-EB0DFB58E5C6"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302419&GUID=C8E23070-4271-4B0E-B8CC-71C7D98B5A26"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729382&GUID=395DD29C-C05F-4642-987F-C3B271DDFE54"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072205&GUID=1B1D4AE0-767D-4E6C-9635-F55E4354BE88"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077563&GUID=6CE304CD-380B-4575-A47D-B5797E2A262A"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077563&GUID=6CE304CD-380B-4575-A47D-B5797E2A262A"
+ },
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879210&GUID=C51ACD21-0754-4471-A9F2-29DC1D1B7A47"
+}

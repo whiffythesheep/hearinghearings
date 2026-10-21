@@ -4,7 +4,7 @@
  "legistar_id": "7862975",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1239A/A.1556A, to prohibit certain food additives, to prohibit the sale of food containing certain color additives at schools, and to prohibit the use of substances \"Generally Recognized as Safe\" in food unless certain reporting requirements are met",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Althea V. Stevens",
   "Farah N. Louis",
@@ -38,6 +38,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Health",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

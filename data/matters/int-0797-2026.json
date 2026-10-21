@@ -70,6 +70,11 @@
    "label": "Proposed Int. No. 797-A - 10/15/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069888&GUID=B3BAF3B5-9F88-40FF-B922-E565CEB54561"
+  },
+  {
+   "label": "Proposed Int. No. 797-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076462&GUID=1A7B564E-F14A-4698-B976-AEB6FDDFCD39"
   }
  ],
  "fiscal": {
@@ -88,11 +93,11 @@
    "succeeding": 0,
    "full": 0
   },
-  "effective_fy": "2026",
+  "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15385864&GUID=81C5EC55-CBD8-4897-A890-8C9178878542"
+  "label": "Proposed Int. No. 797-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076462&GUID=1A7B564E-F14A-4698-B976-AEB6FDDFCD39"
  },
  "history": [
   {

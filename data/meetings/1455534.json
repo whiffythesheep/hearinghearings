@@ -4,7 +4,7 @@
  "body": "Committee on Technology",
  "location": "Council Chambers - City Hall",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455534&GUID=BE9D7ED0-9BAA-4919-9DFA-E67FBAF771BE&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8286224",
+   "legistar_guid": "5E8BBD2C-FEDF-4EA5-AED7-AB18DF4B4A49"
+  },
+  {
+   "file_number": "T2026-2684",
+   "type": "Oversight",
+   "name": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8286224",
    "legistar_guid": "5E8BBD2C-FEDF-4EA5-AED7-AB18DF4B4A49"

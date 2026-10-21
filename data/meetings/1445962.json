@@ -1,0 +1,66 @@
+{
+ "event_id": "1445962",
+ "date": "2026-10-20",
+ "body": "Committee on Transportation and Infrastructure",
+ "location": "Committee Room - City Hall Jointly with the Committee on Economic Development",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1445962&GUID=8FF7375F-E5B0-4629-9A06-35CA5D9F9366&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2572",
+   "type": "Oversight",
+   "name": "Oversight - Transit on NYC’s Waterways: Seaplanes, Party Boats, and the Future of Ferry Service.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8252078",
+   "legistar_guid": "011B0F16-109F-4EF9-97CE-6B195A647DD6"
+  },
+  {
+   "file_number": "Int 0704-2026",
+   "type": "Introduction",
+   "name": "Establishing ferry service at Canarsie Pier.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7927441",
+   "legistar_guid": "7E0C1A15-0EF2-4282-83BB-066A5DFA321A"
+  },
+  {
+   "file_number": "Int 0846-2026",
+   "type": "Introduction",
+   "name": "Ferry service to Willets Point.",
+   "sponsor": "Shanel Thomas-Henry",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7984667",
+   "legistar_guid": "EDCC7C44-0CCD-4F41-A1D5-729EBFA62809"
+  },
+  {
+   "file_number": "Int 1022-2026",
+   "type": "Introduction",
+   "name": "Establishing ferry service to West 125th Street.",
+   "sponsor": "Shaun Abreu",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206967",
+   "legistar_guid": "F2CBAD7A-89A2-41FE-B971-0220260D0075"
+  },
+  {
+   "file_number": "Int 1032-2026",
+   "type": "Introduction",
+   "name": "Ferry service to City Island.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206781",
+   "legistar_guid": "8ED78CA7-955E-4D13-AD71-AEC7C7C9A8A4"
+  }
+ ]
+}

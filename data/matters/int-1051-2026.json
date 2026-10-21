@@ -10,7 +10,9 @@
   "Phil Wong",
   "Mercedes Narcisse",
   "Vickie Paladino",
-  "Joann Ariola"
+  "Joann Ariola",
+  "Inna Vernikov",
+  "David M. Carr"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -38,9 +40,35 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862848&GUID=0233BE58-3912-4B82-8B8F-231BB4758C00"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079687&GUID=28D6BAC5-38BC-42B5-AE08-E77DF22E41E3"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": -12913046,
+   "full": -12913046
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": -12913046,
+   "full": -12913046
+  },
+  "effective_fy": "",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079687&GUID=28D6BAC5-38BC-42B5-AE08-E77DF22E41E3"
+ },
  "history": [
   {
    "date": "2026-09-10",

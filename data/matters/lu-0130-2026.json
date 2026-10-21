@@ -49,6 +49,18 @@
  "fiscal": null,
  "history": [
   {
+   "date": "2026-10-20",
+   "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
+  },
+  {
    "date": "2026-09-10",
    "body": "City Council",
    "action": "Referred to Comm by Council",

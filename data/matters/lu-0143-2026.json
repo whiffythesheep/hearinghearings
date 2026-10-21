@@ -39,6 +39,18 @@
  "fiscal": null,
  "history": [
   {
+   "date": "2026-10-20",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Subcommittee on Zoning and Franchises",
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
+  },
+  {
    "date": "2026-09-24",
    "body": "City Council",
    "action": "Referred to Comm by Council",

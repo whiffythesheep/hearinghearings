@@ -1,0 +1,7 @@
+{
+ "file_number": "T2026-2662",
+ "title": "Law to add idling tickets to the DOF fleet portal",
+ "summary": "This bill would require the Department of Finance to add idling violations to its Fleet Program for enrolled commercial vehicle fleets. The Department of Environmental Protection would have to electronically send idling notices of violation to DOF at least weekly, and DOF would share the fleet program's enrollee list with DEP weekly. DOF would also post instructions on its commercial customer online portal explaining how to plead guilty, cure, or contest an idling violation.",
+ "model": "claude-sonnet-5",
+ "input_hash": "82949c0c55c48d6b"
+}

@@ -1,0 +1,118 @@
+{
+ "file_number": "Int 0048-2026",
+ "slug": "int-0048-2026",
+ "legistar_id": "7861413",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to translating the citizen's air complaint program portal into the designated citywide languages",
+ "status": "Committee",
+ "sponsors": [
+  "Alexa Avilés",
+  "Justin E. Sanchez",
+  "Farah N. Louis",
+  "Phil Wong",
+  "Chris Banks",
+  "Shaun Abreu",
+  "Elsie Encarnación",
+  "Carmen N. De La Rosa",
+  "Shekar Krishnan",
+  "Ty Hankerson",
+  "Lynn C. Schulman",
+  "Shahana K. Hanif",
+  "Christopher Marte",
+  "Gale A. Brewer",
+  "Crystal Hudson",
+  "Chi A. Ossé",
+  "Selvena N. Brooks-Powers",
+  "Sandra Ung",
+  "Tiffany L. Cabán",
+  "Harvey D. Epstein",
+  "Mercedes Narcisse",
+  "Julie Won",
+  "Sandy Nurse",
+  "Amanda C. Farías",
+  "Jennifer Gutiérrez",
+  "Yusef Salaam",
+  "Virginia Maloney",
+  "Carl Wilson",
+  "Shanel Thomas-Henry",
+  "Rita C. Joseph",
+  "Eric Dinowitz",
+  "Kayla Santosuosso",
+  "Linda Lee",
+  "Oswald J. Feliz",
+  "Pierina Ana Sanchez",
+  "Shirley Aldebol",
+  "Nantasha M. Williams",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 48",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15165181&GUID=3D43906A-6A8D-4C48-A1BB-4FF3BE86C0CC"
+  },
+  {
+   "label": "Int. No. 48",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15165182&GUID=5E82DB9E-BD37-49F9-AFBB-9C1A78870DB0"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251375&GUID=110151D4-9E41-45D1-A42D-1B184E09D9DE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252070&GUID=9BE47076-5006-46D0-876D-2090BD2061BB"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072203&GUID=CED5C936-3246-458A-91AE-6DE272FF569C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077566&GUID=2A48EEB3-FD44-4B1B-9142-501F54144239"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077566&GUID=2A48EEB3-FD44-4B1B-9142-501F54144239"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861413&GUID=E8FE3D2E-E401-4B65-A238-0D56F32574EC"
+}

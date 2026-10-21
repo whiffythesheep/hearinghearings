@@ -1,0 +1,44 @@
+{
+ "event_id": "1443396",
+ "date": "2026-10-21",
+ "body": "Committee on Public Safety",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Deferred",
+ "minutes_status": "Deferred",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443396&GUID=354F0DEB-7C56-45BB-8574-5F90477EC354&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2551",
+   "type": "Oversight",
+   "name": "Oversight - The Office of Community Safety and Non-Police Solutions to Reducing Violence.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8210933",
+   "legistar_guid": "6E81E6AA-F74E-46BF-857F-03BB3A8CEF17"
+  },
+  {
+   "file_number": "Int 0414-2026",
+   "type": "Introduction",
+   "name": "Creation of a three-digit gun violence intervention hotline.",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862783",
+   "legistar_guid": "38B74FA5-020F-4153-968F-387BCC2670EB"
+  },
+  {
+   "file_number": "Int 0667-2026",
+   "type": "Introduction",
+   "name": "Offering community service in lieu of civil penalties for certain littering violations.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7878786",
+   "legistar_guid": "563EB9F6-ADDF-4672-9825-5947B0A3CC85"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
  "legistar_id": "8206816",
  "type": "Resolution",
  "title": "Resolution declaring October as Reggaeton Heritage Month in the City of New York to honor the legacy of reggaeton as a prominent expression of Afro-Caribbean and Latin American identity and to recognize New York’s pivotal role in facilitating the blend of cultures that is at the heart of this grassroots musical genre",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Farah N. Louis",
   "Amanda C. Farías",
@@ -39,10 +39,39 @@
    "label": "Committee Report 10/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071786&GUID=BCA10C16-831B-48DF-B054-3D0215D65EC3"
+  },
+  {
+   "label": "Proposed Res. No. 625-B - 10/20/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078320&GUID=023B6E6A-8D07-4CFD-A531-C271C5D24FE3"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

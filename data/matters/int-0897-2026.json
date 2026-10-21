@@ -1,0 +1,89 @@
+{
+ "file_number": "Int 0897-2026",
+ "slug": "int-0897-2026",
+ "legistar_id": "8027974",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of social services’ response to certain severe winter weather conditions",
+ "status": "Committee",
+ "sponsors": [
+  "Oswald J. Feliz",
+  "Althea V. Stevens",
+  "Lincoln Restler",
+  "Crystal Hudson",
+  "Kevin C. Riley",
+  "Farah N. Louis",
+  "Mercedes Narcisse",
+  "Shanel Thomas-Henry",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 897",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477797&GUID=FA8FE0B2-E158-468F-968A-ABADCCF30C3F"
+  },
+  {
+   "label": "Int. No. 897",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477798&GUID=3773C87D-3A91-4A55-8FD5-169ABEBBD186"
+  },
+  {
+   "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548229&GUID=A1D0E4BA-9584-48CB-BFE6-375C1DDE8E3C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848991&GUID=7987FBA0-F34A-4684-AEF8-1F2AD89C6AF1"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079569&GUID=7479414C-BAE1-499A-93D5-55578BF63CCB"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079570&GUID=0954A30D-1BA4-45F3-B191-37EC74337ECA"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079570&GUID=0954A30D-1BA4-45F3-B191-37EC74337ECA"
+ },
+ "history": [
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8027974&GUID=660B9552-70C3-4CDC-B118-CEB68E93DF36"
+}

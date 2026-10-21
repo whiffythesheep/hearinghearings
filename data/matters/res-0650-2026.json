@@ -13,7 +13,8 @@
   "Selvena N. Brooks-Powers",
   "Mercedes Narcisse",
   "Justin E. Sanchez",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Gale A. Brewer"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -36,6 +37,11 @@
    "label": "Hearing Testimony 9/29/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058239&GUID=590D269C-EFD9-4E93-8AFA-6B3B4418C8A0"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16080005&GUID=3F6B7C73-12D4-48C8-B0DF-64C0C197793A"
   }
  ],
  "fiscal": null,

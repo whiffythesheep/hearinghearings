@@ -4,7 +4,7 @@
  "legistar_id": "8255332",
  "type": "Oversight",
  "title": "Oversight - Commission on Human Rights Disability Enforcement Trends.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Civil and Human Rights",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-16",
+   "body": "Committee on Civil and Human Rights",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8255332&GUID=3BCA66CE-7C34-460E-BA2B-B4075BBF4788"
 }

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0561-2026",
+ "title": "Law to reform how citizen idling complaints are handled",
+ "summary": "This bill would change the city's citizen air complaint program used to enforce engine idling rules, including new cure options letting violators avoid penalties by certifying installation of anti-idling technology, revised timelines for complaint review and adjudication, lower reward percentages for complainants (reduced from 25% to 12.5% and from 50% to 25%), and a new code of conduct for people filing complaints. It also updates definitions like bus, truck and school bus depot and extends the complaint response window from 45 to 90 days.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e763d79b0cbe847f"
+}

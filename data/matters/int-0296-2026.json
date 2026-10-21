@@ -1,0 +1,139 @@
+{
+ "file_number": "Int 0296-2026",
+ "slug": "int-0296-2026",
+ "legistar_id": "7862229",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing access to data regarding gender-based violence",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Farah N. Louis",
+  "Amanda C. Farías",
+  "Ty Hankerson",
+  "Chris Banks",
+  "Sandy Nurse",
+  "Linda Lee",
+  "Tiffany L. Cabán",
+  "Shirley Aldebol",
+  "Selvena N. Brooks-Powers",
+  "Mercedes Narcisse",
+  "Harvey D. Epstein",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 296-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076406&GUID=C1E91081-8B48-4D22-823F-8E7949C2303B"
+  },
+  {
+   "label": "Summary of Int. No. 296",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15174473&GUID=EF3B3EEC-4C7D-41A7-8F33-815BA93018B6"
+  },
+  {
+   "label": "Int. No. 296",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15174472&GUID=7627FB47-2D63-4D84-A35E-E682E544129D"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15667084&GUID=8C32104B-C016-4178-8A72-7D682FEACDDA"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251703&GUID=03ED1F8B-EE11-43B5-B0F7-DD4BA0EAB947"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252395&GUID=7F05B8A1-9A01-4C67-B91E-7766DA656470"
+  },
+  {
+   "label": "Committee Report 2/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15279232&GUID=F3D9A00C-A46D-468D-A903-0F138273B980"
+  },
+  {
+   "label": "Hearing Testimony 2/27/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301807&GUID=6A437517-56B1-4188-ABC7-BDB0FE5D8F8D"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15281357&GUID=F1A945CE-6B83-41C5-A963-C180357450D3"
+  },
+  {
+   "label": "Hearing Transcript 2/27/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15397306&GUID=DA69A5C4-24A3-4F10-BDD4-765CD03E2FDE"
+  },
+  {
+   "label": "Proposed Int. No. 296-A - 10/15/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069200&GUID=CC16BAB8-C53E-43E6-A31E-E4DECBD90492"
+  },
+  {
+   "label": "Proposed Int. No. 296-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078488&GUID=122787E5-528D-4AF9-9433-2DFD24683A49"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078435&GUID=AB6AD86C-EB01-4A80-8606-7127823D2667"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 2060625,
+   "succeeding": 2094000,
+   "full": 2094000
+  },
+  "net": {
+   "effective": -2060625,
+   "succeeding": -2094000,
+   "full": -2094000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 296-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078488&GUID=122787E5-528D-4AF9-9433-2DFD24683A49"
+ },
+ "history": [
+  {
+   "date": "2026-02-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-02-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862229&GUID=8E86DA58-4522-433A-9B9B-20F23F458FC4"
+}

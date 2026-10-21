@@ -1,0 +1,91 @@
+{
+ "file_number": "Int 0869-2026",
+ "slug": "int-0869-2026",
+ "legistar_id": "7998353",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a code of conduct applicable to citizen noise complaints",
+ "status": "Committee",
+ "sponsors": [
+  "James F. Gennaro"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 869-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563942&GUID=0808D9DC-29F2-40D6-A9E0-839D40150BE1"
+  },
+  {
+   "label": "Summary of Int. No. 869",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425218&GUID=F5B92186-2649-448D-9575-EA305DEC6F84"
+  },
+  {
+   "label": "Int. No. 869",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15425217&GUID=7F7CF22F-D680-4547-9529-5B58574CA96B"
+  },
+  {
+   "label": "April 30, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426459&GUID=F94DCBB2-E1F4-401C-8AEC-5E0B77416B9E"
+  },
+  {
+   "label": "Propsed Int. No. 869-A - 6/8/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563941&GUID=62318C65-FB2C-4320-9AC6-5FDD6EA4B50B"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 4-30-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567464&GUID=CB8AC5CA-07F4-49C3-9CD3-3AA60ADF4ADA"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072206&GUID=937178C5-C60A-4B44-A421-AD8AE8493C21"
+  },
+  {
+   "label": "Proposed Int. No. 869-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077564&GUID=4E6595D6-D70A-4E94-9064-314483436E4D"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 869-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077564&GUID=4E6595D6-D70A-4E94-9064-314483436E4D"
+ },
+ "history": [
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-04-30",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7998353&GUID=E6D6286F-D08B-4F26-81E7-5B1EEE5F9529"
+}

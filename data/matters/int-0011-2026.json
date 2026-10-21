@@ -1,0 +1,121 @@
+{
+ "file_number": "Int 0011-2026",
+ "slug": "int-0011-2026",
+ "legistar_id": "7861360",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing civil penalties for idling infractions",
+ "status": "Committee",
+ "sponsors": [
+  "Julie Menin",
+  "Alexa Avilés",
+  "Farah N. Louis",
+  "Sandy Nurse",
+  "Lincoln Restler",
+  "Shahana K. Hanif",
+  "Crystal Hudson",
+  "Rita C. Joseph",
+  "Sandra Ung",
+  "Christopher Marte",
+  "Carmen N. De La Rosa",
+  "Amanda C. Farías",
+  "Nantasha M. Williams",
+  "Tiffany L. Cabán",
+  "Mercedes Narcisse",
+  "Lynn C. Schulman",
+  "Julie Won",
+  "Shekar Krishnan",
+  "Shaun Abreu",
+  "Oswald J. Feliz",
+  "Chi A. Ossé",
+  "Jennifer Gutiérrez",
+  "Eric Dinowitz",
+  "Pierina Ana Sanchez",
+  "Kamillah Hanks",
+  "Kevin C. Riley",
+  "Vickie Paladino",
+  "Phil Wong",
+  "Elsie Encarnación",
+  "Justin E. Sanchez",
+  "Chris Banks",
+  "Gale A. Brewer",
+  "Ty Hankerson",
+  "Virginia Maloney",
+  "Yusef Salaam"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 11-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563938&GUID=45B2DC14-82CC-46E9-83A5-3CDE827580BE"
+  },
+  {
+   "label": "Summary of Int. No. 11",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153954&GUID=BEDD7F8D-1B56-490F-8875-97C757B403EC"
+  },
+  {
+   "label": "Int. No. 11",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15153953&GUID=42EB16D0-A928-4C75-9354-038140D1674D"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251324&GUID=6FBFFA23-882E-4A88-B853-A60FAB303D9A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252019&GUID=95EB09BC-3E78-4FB8-B0A0-76B4B18D6ACB"
+  },
+  {
+   "label": "Proposed Int. No. 11-A - 6/8/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563937&GUID=C8CBC487-179B-4A84-A7C3-17C36EAD39B2"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072202&GUID=65E922DB-493E-4975-A095-1CC066BB29FB"
+  },
+  {
+   "label": "Proposed Int. No. 11-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077565&GUID=94B5D46C-7F3A-454A-A6DB-D649A12DDBAF"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 11-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077565&GUID=94B5D46C-7F3A-454A-A6DB-D649A12DDBAF"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861360&GUID=BE0EDD53-76F1-45F3-99E4-E504A1B25C37"
+}

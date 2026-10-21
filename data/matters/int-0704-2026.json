@@ -1,0 +1,96 @@
+{
+ "file_number": "Int 0704-2026",
+ "slug": "int-0704-2026",
+ "legistar_id": "7927441",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing ferry service at Canarsie Pier",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Mercedes Narcisse",
+  "Selvena N. Brooks-Powers",
+  "Chris Banks",
+  "Kamillah Hanks",
+  "Inna Vernikov",
+  "Farah N. Louis",
+  "Crystal Hudson",
+  "Kevin C. Riley"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 704",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15268253&GUID=D67FFE95-2EC1-49DE-A653-23AB5ED751D5"
+  },
+  {
+   "label": "Int. No. 704",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15268254&GUID=EE3C196F-A33C-4332-A9B2-22F6134C1D15"
+  },
+  {
+   "label": "February 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15269081&GUID=7285AAC6-2E63-4EF5-A6BE-C4819FAFF6A9"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-24-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15348174&GUID=0C2E941C-7EC0-4951-9F6D-CCBE2673FC09"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078085&GUID=428F7831-C0D1-4DE7-BB67-B162B5394E7D"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078287&GUID=5016209C-AB46-446F-820C-3A0EE5ED6BBE"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 2000000,
+   "succeeding": 2000000,
+   "full": 2000000
+  },
+  "expenditures": {
+   "effective": 2000000,
+   "succeeding": 2000000,
+   "full": 2000000
+  },
+  "net": null,
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078085&GUID=428F7831-C0D1-4DE7-BB67-B162B5394E7D"
+ },
+ "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Economic Development",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-02-24",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-24",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7927441&GUID=7E0C1A15-0EF2-4282-83BB-066A5DFA321A"
+}

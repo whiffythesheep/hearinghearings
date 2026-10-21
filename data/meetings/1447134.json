@@ -1,0 +1,55 @@
+{
+ "event_id": "1447134",
+ "date": "2026-10-20",
+ "body": "Committee on Hospitals",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Fire and Emergency Management",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1447134&GUID=46663D1F-E384-4629-94B2-A287EB9A06C3&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2406",
+   "type": "Oversight",
+   "name": "Oversight - Ambulance Response Times.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8173040",
+   "legistar_guid": "22C5D8BA-F9EC-493A-B6D0-60C9D02FB6D0"
+  },
+  {
+   "file_number": "T2026-2406",
+   "type": "Oversight",
+   "name": "Oversight - Ambulance Response Times.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8173040",
+   "legistar_guid": "22C5D8BA-F9EC-493A-B6D0-60C9D02FB6D0"
+  },
+  {
+   "file_number": "Int 0990-2026",
+   "type": "Introduction",
+   "name": "Emergency notifications related to delays in ambulance dispatch.",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8169832",
+   "legistar_guid": "AB3D4BBB-FADC-42BA-AC8F-53370C0E29A8"
+  },
+  {
+   "file_number": "Int 0990-2026",
+   "type": "Introduction",
+   "name": "Emergency notifications related to delays in ambulance dispatch.",
+   "sponsor": "Joann Ariola",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8169832",
+   "legistar_guid": "AB3D4BBB-FADC-42BA-AC8F-53370C0E29A8"
+  }
+ ]
+}

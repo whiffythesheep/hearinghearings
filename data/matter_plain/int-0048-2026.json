@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0048-2026",
+ "title": "Law to translate air complaint website into more languages",
+ "summary": "This bill would require the Department of Environmental Protection to translate the Citizen's Air Complaint portal and related materials into the city's designated citywide languages, to help residents with limited English proficiency report illegal vehicle idling. The program lets people submit video evidence of trucks or buses idling beyond legal limits, and complaints have grown from about 9,000 in 2019 to over 163,000 in 2025. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "26c8d2d02536a897"
+}
