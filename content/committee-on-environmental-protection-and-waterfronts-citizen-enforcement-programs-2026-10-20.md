@@ -1,0 +1,2792 @@
+---
+committee: "Committee on Environmental Protection and Waterfronts"
+committee_slug: committee-on-environmental-protection-and-waterfronts
+title: "Citizen Enforcement Programs"
+date: 2026-10-20
+slug: committee-on-environmental-protection-and-waterfronts-citizen-enforcement-programs-2026-10-20
+duration: "5hrs 30m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261020-121255.mp4"
+viebit_hash: "BM5Yho7RfNwagbMZ"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B&Search="
+chairs: "James F. Gennaro"
+members: "Harvey D. Epstein, Kamillah Hanks, Lincoln Restler, Justin E. Sanchez"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Environmental Protection and Waterfronts held an oversight and legislative hearing on the City's citizen enforcement programs, focused primarily on anti-idling enforcement. Six bills were under consideration: Proposed Int. No. 11-A (higher penalties for idling), Int 0048-2026 (portal translation), Proposed Int. No. 561-A (idling regulation reform and citizen complaint procedures), Int 0562-2026 (liability transfer to vehicle lessees), Proposed Int. No. 869-A (code of conduct for noise complaints), and a preconsidered bill on fleet program idling violations. The administration declined to testify in person; Chair Gennaro read DEP Commissioner Lisa Garcia's written testimony into the record and made no effort to conceal his irritation at the agencies' absence.
+
+The hearing drew an unusually large and engaged public audience spanning environmentalists, citizen complaint program participants, academics, physicians, industry groups, trucking and bus associations, and small business owners. Across virtually all panels, two bills attracted near-universal support: Int 0048-2026, which would require the Citizens Air Complaint Portal to be available in all designated citywide languages, was backed by almost every witness. The one substantive dispute about 0048 was DEP's written claim that it was already in compliance, which CM Epstein flatly disputed, correctly noting that providing a separate printable translated form is not the same as an integrated multilingual portal. On the other side of the ledger, Proposed Int. No. 561-A attracted near-universal opposition. Citizen enforcers, environmental groups including NRDC and New York Lawyers for the Public Interest, watchdog groups like Reinvent Albany, and even some industry-aligned witnesses argued the bill was fatally flawed. The two most contested provisions were a proposed exemption for diesel particulate filter regeneration cycles, which critics argued was unverifiable by outside observers and would function as a blanket loophole, and a 60-day processing deadline that many witnesses interpreted as meaning unresolved complaints would be voided. Gennaro clarified on the record that voiding complaints was not the intent of the deadline provision, and acknowledged the bill needed substantial revision. Multiple witnesses across multiple panels stated they did not believe Proposed Int. No. 561-A was salvageable in any form. Proposed Int. No. 11-A, which would increase civil penalties significantly, was opposed by industry groups and some environmentalists alike, with critics arguing high fines increase non-payment rates and that the administration already has authority to raise fines without legislation.
+
+Industry witnesses, including representatives from the Trucking Association of New York, the Building Trades Employers Association, the Bus Association of New York, aggregate trucking firms, and a vehicle rental company, largely focused not on opposing enforcement in principle but on procedural failures: summonses arriving 570 to 962 days after an alleged violation, hearings scheduled more than a year later, inability to reconstruct evidence or discipline drivers by the time notice arrives, and stacking of fines before any prior violation has been adjudicated. These witnesses broadly supported faster notification, access to video evidence at the time of complaint, and 90-day hearing schedules. Citizen complaint program participants testified to the program's demonstrated effectiveness, citing behavior change at major fleet operators including Amazon, Con Ed, and Verizon following enforcement activity. A former delivery driver with 17 years of commercial vehicle experience and over 5,000 complaints submitted provided detailed technical rebuttal of industry claims about diesel regeneration, explaining the difference between active and passive regeneration and arguing that the proposed exemption would be exploited and was practically unenforceable. DEP's written testimony noted a current backlog of 200,000 videos pending review, 700 reports per day, and 21 newly approved personnel lines to address capacity.
+
+The hearing ended with Gennaro indicating that his views had shifted during the course of testimony, that Proposed Int. No. 561-A required major changes or withdrawal, and that the path forward would involve working collaboratively with environmental advocates, citizen enforcers, and industry on a revised approach. No votes were taken. The one clear legislative direction of travel is that Int 0048-2026 will move forward in some form. The due process concerns raised by industry, particularly around notification timelines, appear to have found some sympathy on the committee, including from CM Epstein, who suggested that notification speed and OATH processing are fixable problems that do not require changes to the underlying idling law.
+
+Numbers
+
+- Motor vehicles contribute approximately 11% of local fine particulate matter (PM2.5) and 28% of local nitrogen oxide emissions in New York City annually.
+- Communities of color are exposed to as much as 15% more fine particulate matter from diesel trucks than other communities.
+- The Citizens Air Complaint Program received 9,070 complaints in 2019, rising to 163,090 in 2025.
+- In 2025, DEP reviewed more than 263,000 complaint submissions and issued approximately 102,000 idling summonses, nearly 300 per day.
+- DEP currently receives approximately 700 idling reports per day and has a backlog of approximately 200,000 videos awaiting review.
+- DEP received 21 new personnel lines approved in the FY27 November plan, including air pollution inspectors, clerical associates, principal administrative associates, and one certified IT developer; seven inspectors have started.
+- Idling vehicles in New York City produce approximately 130,000 tons of carbon dioxide per year.
+- Air pollution contributes to an estimated 2,400 deaths per year in New York City, according to testimony cited by multiple witnesses; one witness cited 3,200 deaths per year from air quality issues more broadly.
+- The City recovered approximately $9 million from Amazon alone in one year for idling violations.
+- The Citizens Air Complaint Program has generated over $145 million in fines since inception, according to one witness.
+- There have been over 350,000 complaints submitted through the program in total, according to one witness.
+- Approximately 40% of idling violators do not pay their fines; for fines above $1,000, delinquency rates are 60% or higher, according to Reinvent Albany testimony.
+- Current first-offense idling fines range from $350 to $600; repeat offense fines can reach approximately $2,000; Proposed Int. No. 11-A would raise maximum fines to $3,000 or, per one witness, up to $7,500.
+- One vehicle rental company witness received more than 175 idling summonses in a single year totaling over $80,000, recovering approximately $20,000 from customers and absorbing approximately $60,000 in penalties.
+- One delivery service owner received 30 idling summonses from 2023 to 2025 totaling over $32,000; hearings were scheduled 570 to 962 days after the alleged violations.
+- Diesel particulate filter active regeneration takes approximately 15 to 20 minutes and is approximately 30 times dirtier than passive regeneration, according to a witness with commercial vehicle fleet experience.
+- An estimated 60,000 children attending New York City public schools have active asthma requiring an inhaler, according to one witness.
+- Commercial fleets make up approximately 6% of New York City traffic but generate over half of tailpipe pollution, according to one witness.
+- New York City idlers waste an estimated $28 million in fuel annually, according to one witness.
+- Nearly a quarter of New York City residents have limited English proficiency; approximately 2.5 million New Yorkers do not speak English as a first language, according to witness testimony.
+- Approximately 20% of lung cancer patients in New York City have never smoked, according to one witness.
+
+Action Points
+
+- Ryan Scott Loki (environmental consultant and citizen complaint participant) to provide further technical information on diesel regeneration to the committee for the record.
+- New York Lawyers for the Public Interest to provide draft legislative language to the committee as input on revisions to Proposed Int. No. 561-A.
+- NRDC to provide input on legislative language to strengthen the equipment-installation incentive provision in Proposed Int. No. 561-A and to engage in further collaboration with committee staff on revised legislation.
+- Committee staff (Josh, legislative director) to conduct a detailed debrief with citizen complaint program participant Juan Bangu to capture specific technical testimony on program mechanics and proposed reforms.
+- CM Epstein to arrange for a committee member or staff representative to observe an OATH hearing adjudicating a citizen idling complaint, to assess the procedural deficiencies described by industry witnesses.
+- Interior Demolition Contractors Association to provide the committee with additional information on how diesel particulate filter regeneration cycles work specifically for demolition vehicles, and how long regeneration takes.
+- Building Trades Employers Association to submit detailed written recommendations for each bill under consideration.
+- Trucking Association of New York to follow up with specific written recommendations on notification timelines, evidence access, and transfer of liability.
+- DEP to clarify for the record whether it can automatically generate notification letters to respondents at the time a complaint is filed, including a link to the video evidence, without a legislative change.
+- Committee counsel to redraft the 60-day processing deadline provision in Proposed Int. No. 561-A to make explicit that complaints are not voided if the deadline is not met, consistent with the Chair's on-the-record statement of intent.
+- Committee staff to circulate DEP's written testimony to all committee members.
+- George Thurston (NYU School of Medicine) to be added to the committee's expert contact list for future consultation on air quality and health research.
+- Committee staff to review written testimony submitted by the Bus for Coalition regarding whether human passengers on a bus should qualify as temperature-sensitive cargo under the processing device definition.
+- DEP to report to the committee on whether batching of complaints for priority review could be extended to equipment leasing and rental companies to address liability transfer timing problems.
+- Chair Gennaro to work with Mayor Mamdani's administration to pursue additional staffing for DEP's idling enforcement and complaint review unit through the budget process.
+
+## Full Transcript
+
+**(00:00:09)**
+
+
+
+Commence. Okay. Who is here from the administration? I know people are going to come to listen. Anybody here from the administration? I worked this out with the City Legislative Affairs that someone would be here in person to listen.
+
+**(00:00:25)**
+
+
+
+Pardon? Okay. Yeah. I am just asking the question.
+
+**(00:00:29)**
+
+
+
+Okay, so you are from the administration?
+
+**(00:00:33)**
+
+
+
+Okay. Yeah. Because they are not testifying. What they promised was they would send someone from the administration to listen to all the testimony. Of course, people say they are going to be watching it online, but nothing like having a person in the audience. Thank you for being here.
+
+**(00:00:57)**
+
+
+
+So now I have to officially let you know, to do whatever they have to do to start the hearing. Good afternoon and welcome to the New York City Council Committee on Environmental Protection and Waterfronts. At this time we ask everyone to sign on electronic devices. If you have not signed up yet for testimony, please do so at the back with the sergeant at arms. Thank you.
+
+**(00:01:24)**
+
+
+
+Thank you. Good afternoon. I am CM Jim Gennaro, Chair of the Committee on Environmental Protection and Waterfronts. Today we will be holding an oversight hearing on citizen enforcement programs as well as the following legislation: Proposed Int. No. 11-A, sponsored by Speaker Julie Menin, in relation to increasing civil penalties for idling infractions; Int 0048-2026, sponsored by CM Avilés, who we will be hearing from, in relation to translating the Citizen Air Complaint Program portal into designated citywide languages; a preconsidered bill sponsored by CM Crystal Hudson in relation to idling violations in the Department of Finance's fleet program; and three bills that I have sponsored: Proposed Int. No. 561-A, in relation to regulating the idling of engines and the use of citizen complaints to enforce idling laws; Proposed Int. No. 869-A, in relation to establishing a code of conduct applicable to citizen noise complaints; and Int 0562-2026, in relation to establishing a program that transfers liability for certain engine idling violations to lessees of vehicles.
+
+The City's air quality has improved over the last 20 years, thanks in no small part to the Council. Over that time, the Council has passed legislation to phase out dirty heating oil, regulate emissions from certain commercial cooking equipment, make the City fleet electric and reduce emissions. These laws have demonstrated the Council's commitment to making the air cleaner and safer for New Yorkers. While the air quality has improved, there is still work to be done — work that this committee takes very seriously.
+
+Let me go off script for a second and talk about some of the things that have happened. I remember that in one fell swoop, the Council, working with the State, eliminated the dirtiest fuel oil — number six oil. So number six oil went out. Number four oil — many people know what that is, a blend of number two and number six — that was reduced in sulfur content from between like 3,000 and 4,000 down to 1,000 or 1,500 or whatever it was, so it became far cleaner. In conjunction with the State, we made number two oil ultra-low sulfur. We did something else as well — there was some other component to that — but those measures, taken together, cleaned the City's air quality to the equivalent of taking every car, truck and bus off the road forever. That was a good thing, but we have to keep going, and idling is a very big deal. I just thought I would give you that little piece of history.
+
+Okay, back to script. Every year motor vehicles contribute approximately 11% of the local fine particulate matter — by that we mean, for people who know air pollution, PM 2.5, PM 10, all that — and 28% of the local nitrogen oxide emissions. These emissions are harmful to human health, leading to hundreds of premature deaths and emergency department visits for respiratory and cardiovascular disease every year. What is more, communities of color are subjected to as much as 15% more fine particulate matter pollution from diesel trucks, and the neighborhoods with the greatest levels of pollution attributable to emergency department visits are all environmental justice neighborhoods.
+
+To address these air quality concerns, the New York City Air Code prohibits motor vehicles from idling for longer than one minute near a school or a park and for longer than three minutes elsewhere. Although a citizen complaint program provision has existed in local law since 1971, to better facilitate participation in the citizen complaint program, in 2019 the City established the Citizen Air Complaint Portal, which allowed the public to more easily submit evidence of idling. Since then, the number of idling complaints submitted each year has been climbing dramatically, from 9,070 complaints submitted in 2019 to 163,090 complaints submitted in 2025. In that time, stakeholders have called upon the Council to reform this program to make it more efficient and fairer for all involved, as evidenced by the committee's hearing on citizen enforcement programs and accompanying legislation in 2024 and again today.
+
+We last heard this bill in 2024 and again today. I am committed, as is this committee, to doing our best to make this program easier and fairer for all parties while maintaining the Council's ultimate goal of reducing harmful air pollution. That leads us to today's hearing. Although we invited the Office of Administrative Trials and Hearings and the Department of Finance to provide testimony about the citizen enforcement program and the proposed legislation being heard today, and despite previous insistence that the Council make reforms to this program, as you can see they have declined the invitation. The Department of Finance has provided a page and a half of testimony without much substance. I will be reading that into the record — feel free to giggle as I read it. And no word from OATH. The giggle part I just made up. It is not written down.
+
+I hope that moving forward the administration will show a bit more respect to this institution and the important role we play in oversight and lawmaking. While I am disappointed by their absence, I look forward to hearing from you all today about your experience with the citizen enforcement program and your suggestions to make it better. Thank you for taking the time out of your day to make this a valuable hearing. With your good and thorough testimony, hopefully the agencies will be listening in — we have a person right there — and I am sure they will be listening. I am sure they were grimacing when I said "giggling." So hopefully that means you will be listening in and taking notes. We certainly will.
+
+I would like to thank the committee staff: Senior Legislative Counsels Natasha Bynum and Sierra Townsend — Natasha Bynum is here and Sierra is remote — Senior Policy and Financial Analyst Tanveer, as well as my legislative director who is sitting in the front row, for all their hard work. I do want to recognize the other Sierra. We have two Sierras, and she is a legal extern.
+
+**(00:09:32)**
+
+
+
+A legal extern. Okay, after the hearing I will find out what that means.
+
+**(00:09:36)**
+
+
+
+A legal extern. Okay. I will recognize the great Council members who have joined us. Council Member Sanchez...
+
+**(00:09:53)**
+
+
+
+CM Hanks, CM Epstein — CM Epstein has a bill before this committee and she always shows up for her bills. She is a great Council member and a great American, if I do say so myself. And okay, as are all of you. This is like a Vatican of great Americans here. Okay. And CM Lincoln Restler, another great American, has joined us as well.
+
+Okay. I recognize CM Avilés. Yeah. And now it is my honor to recognize a good colleague, CM Avilés.
+
+**(00:11:20)**
+
+
+
+For a statement, CM Avilés.
+
+**(00:11:22)**
+
+
+
+Thank you. Thank you, Chair, for always being very generous and lovely. Thank you to the members of the committee and members of the public who have joined us here today. Today the committee will hear one of my bills, Int 0048-2026, which brings language justice to the fight for clean air in New York City. Idling vehicles are a major contributor of air pollution in our city. Cars and trucks idling on New York City streets produce 130,000 tons of carbon dioxide a year. The consequences of this pollution are deadly, resulting in 2,400 deaths each year in New York City. We see a disproportionate impact in communities like mine — environmental justice communities that bear the brunt of an enormous amount of siting of polluting infrastructure and certainly trucks.
+
+The Citizen Air Complaint Program has been a critical tool to boost enforcement capacity for the City's idling law. This program allows everyday New Yorkers to take on corporate polluters who harm their communities. Earlier this year, the City recovered $9 million from Amazon alone for one year — one of the City's most flagrant polluters. At a time where the federal government and the state government are rolling back environmental protections, it is a moment for the City to lean forward, ten toes down, to strengthen and expand our programs that protect our residents.
+
+The Citizen's Complaint Portal is a vital tool for improving our City's air quality, but the fact that complaints must only be submitted in English limits its ability to deliver true environmental justice for our city, where nearly a quarter of residents have limited English proficiency. In fact, in my district, we are a majority foreign-born district — 70-plus percent of my residents speak Spanish, Mandarin or Cantonese — but they are effectively locked out from participating in this program. My bill, Int 0048-2026, would require translating the portal into each of the City's designated citywide languages. This bill is a step forward in addressing the deadly inequities that environmental justice communities currently face. I thank the 38 Council members who have signed on to Int 0048-2026 and encourage my colleagues to join in the fight for language justice, co-sponsor the bill and ensure that we have the strongest citizen complaint program and can do everything in our power to hold polluters accountable in our city. Thank you so much.
+
+**(00:14:19)**
+
+
+
+Thank you, Chair. Thank you, CM Avilés. I have a tradition in this committee — I have chaired it for like 17 or 18 years, not consecutively but cumulatively — of recognizing words or expressions that have never been put on the record before in this committee while I have chaired it. I am asking counsel to make a note that the expression "ten toes down" has now been uttered in this committee for the first time since I have chaired it. So thank you, Alexa.
+
+And now it is my duty to read the testimony of the Department of Finance into the record. Before I do that, I just want to mention that there were many parties that approached me and said, "Do not have the hearing. It is a bad idea. The bills still need work." I understand that, but the way we make bills better is to get input from the public — that is how this works. We heard the bill in 2024 and now we are back. People are not satisfied with the amendments to the bill, which is precisely why we are here. I want to engage in a productive discussion with all stakeholders to make sure that we can figure out a bill that — well, it is probably not going to work for everybody, because it is going to be a balance. But in 18 years of chairing this committee, I do not think I have ever passed a bad bill, and in my old age I do not plan on starting now.
+
+So I wanted to go forward with the hearing. Frankly, what works for me is that I am more interested in hearing from members of the public and from stakeholders — everyone who has legitimate concerns. I would hope that the testimony is constructive, although I do not care what people say about me, so have at it. This is my goal and this is what is going to happen at the end of the day. A lot of people said, "Do not do it. You are being set up." No, no, no — we are going to hear from both sides, three sides, four sides, whatever, and get good testimony on the record and take the clay that is on the potter's wheel and shape it so that we can all move forward. That is what we are going to do. I appreciate everyone being here. And someone even brought a little one — there he is back there. Yeah, the youngest environmentalist right there.
+
+**(00:17:54)**
+
+
+
+What is that?
+
+**(00:17:54)**
+
+
+
+All right, well, okay, so from now on, no talking during this hearing. There will be no testimony. We will just sit and meditate until the baby is safely asleep. Hey. Okay, here we go.
+
+The testimony of Lisa Garcia, Commissioner... good afternoon, Chairman Gennaro, members of the Committee on Environmental Protection and Waterfronts. I am Lisa Garcia, Commissioner of DEP. Happy to provide some information about the operation of our citizen complaint program. However, on the advice of counsel and related litigation, DEP will not be providing comments on Proposed Int. No. 11-A or Proposed Int. No. 561-A at this time.
+
+New York City's civilian complaint program allows anyone to record and submit evidence of certain idling, sound reproduction device violations, and then receive a share of the penalties collected if the evidence results in a violation. These programs have become increasingly popular in recent years, particularly the program for idling enforcement.
+
+I have got a frog in my throat here. And there is a chart here that talks about complaints submitted and numbers issued. I am not going to do the charts. To participate in the idling program, anyone can log into the air complaint system on the website and submit a video of the idling with a description of the incident. DEP supervisors review each submission to determine whether there is evidence of a violation and issue summonses when sufficient evidence is observed. If the citizen pursues the complaint, they are issued the summons themselves. The summons leads to a hearing. The person who submitted the complaint is informed of the hearing date and can follow the progress of their submission through the air complaints system.
+
+Does anybody have a cough drop? Thank you. Now we are talking. I appreciate that. Where are we? In 2025, DEP reviewed more than 263,000 submissions from the public and issued about 102,000 summonses for idling — almost 300 summonses issued per day. As the Council is aware, this has been an exponential increase over just a few years.
+
+DEP currently receives about 700 idling reports per day, each reviewed by an inspector and supervisor. We have a current backlog of about 200,000 videos that must be reviewed. DEP received 21 new personnel lines approved as part of the FY27 November plan. These new positions include air pollution inspectors, clerical associates, principal administrative associates and one certified IT developer. Seven inspectors recently started. We are working with the Department of Citywide Administrative Services and the Office of Management and Budget to bring the rest on as soon as possible. Citizen complaints are adjudicated at OATH, which also supports the processing of payments. The Council should consider the operational impacts of adjudicating and processing citizen complaints of these cases when making changes to the law.
+
+Six pieces of legislation are being heard today. The details of some of these bills relate to current litigation. Therefore, I cannot speak to items in the bills that touch on legal issues being litigated. But DEP does have thoughts on some other bills, and I am going to read those now.
+
+Int 0048-2026 requires that the Citizens' Air Complaint website and its components be available in all designated citywide languages. DEP is already in compliance with this bill because the website currently has instructions and translations in all of the designated citywide languages. We encourage New Yorkers of all backgrounds to participate in the complaint program.
+
+Int 0562-2026 would establish a program that transfers liability for certain engine idling violations to lessees of vehicles, issuing summonses to vehicle owners based on the license plate or other identifying information on the vehicle seen idling. The evidence we receive does not indicate who is driving the vehicle at the time of the violation. Often there is not any driver present. If the vehicle lessee is also not indicated in the evidence collected, we have concerns about this proposal, such as removing the vehicle owner's incentive to install anti-idling equipment in vehicles.
+
+Proposed Int. No. 869-A would establish a code of conduct applicable to citizen noise compliance. We appreciate and support the intent of this bill. Additionally, DEP has rules of conduct for citizens that are strictly enforced when adjudicating these matters.
+
+Preconsidered Bill T2026-2662 requires the department to publish a list of companies and registration plates enrolled in its fleet program and requires DEP to send a list of all idling notices of violation issued for vehicles enrolled in the fleet program. We are reviewing this legislation with our colleagues at the Department of Finance. I defer to them for discussion about their concerns. Thank you for the opportunity to submit testimony today.
+
+**(00:25:04)**
+
+
+
+That is out of the way, and now we are going to start hearing from real people. What am I doing here? Where am I going?
+
+**(00:25:15)**
+
+
+
+Chair, can we get copies of their testimony? Oh, sure, yeah.
+
+**(00:25:22)**
+
+
+
+I am going to... so the Committee will email it to all members. Yeah, sure. Thank you, Harvey.
+
+Public comment period. At the beginning of the public comment period... oh, I am sorry, it is just a note saying that I have to read this. Okay, let me just go with what I have to read. I remind members of the public that this is a formal government proceeding, and that decorum shall be observed at all times. As such, members of the public shall remain silent at all times — well, except when they are testifying. This table is reserved for people who are testifying. No video recording or photography is allowed from the witness table. Further, members of the public may not present audio or video recordings as testimony, but may submit transcripts of such recordings to the Sergeant at Arms for inclusion in the hearing record. If you wish to speak at today's hearing, please fill out an appearance card with the Sergeant at Arms and wait to be recognized. When recognized, you will have two minutes to speak on today's hearing topic: Citizen Enforcement Programs and accompanying legislation to be heard today. This is also an oversight hearing as well as a legislative hearing. If you have a written statement or additional testimony you wish to submit for the record, please hand in a copy of that testimony to the Sergeant at Arms. You may also email written testimony to testimony at council dot nyc dot gov within 72 hours of this hearing. Audio and video recordings will not be accepted.
+
+I am about to call the first panel, and I want to note that when it comes to arranging the panels, I have instructed — as I always do — the staff to arrange the panels in such a way that it is fair and we get both sides, and one group does not have to wait three hours to testify. I want it known for the record that I play no role whatsoever in figuring out who is testifying, when, what panels are first or last or whatever. That is left to staff. I trust them implicitly. They always do a good job. But when it comes to the panels, I have no say in who goes first.
+
+With that said, here is the first panel. Alex... I cannot make out the last name... from Reinvent Albany. George Thurston from the NYU School of Medicine, although he is representing himself. Rocco... from the New York State Energy Coalition. Margaret Perkins. Max Resnik, who gives a street address, presumably representing himself. Can we fit everybody? Okay. All right, and when we go from my right to my left, let us see who has submitted testimony. We have one testimony, right? Okay.
+
+**(00:28:04)**
+
+
+
+Alex Camarda. Good afternoon.
+
+**(00:28:07)**
+
+
+
+I know we want to get into the panels, but I felt compelled to respond.
+
+Sure, I figured you would.
+
+**(00:28:15)**
+
+
+
+The administration's claim that...
+
+**(00:28:16)**
+
+
+
+...been there, done that in terms of translating the portal. So I think for my exploration in these several minutes: it is true that a form guidance has been translated separately. So we will provide kudos to the administration that actually there is a form there that is translated that will guide someone. But what this requires, for the record, is that an individual go into the website, print out the form, then go back to the website and use the form, and then go back to the website to translate each one manually in their head. This is a crazy way of doing things. It is not integrated. What we are asking for is a full integration where you go to one place, you make your reports, you submit your documentation and evidence — not that you have to have a menagerie of documents and investigative lenses to figure out how to navigate the two things. So, administration, you are on your way. You have not yet arrived at the promised land. Thank you.
+
+**(00:29:26)**
+
+
+
+Thank you. Thank you, CM Epstein. And when it comes to portals, I see many doctors and now is the era of the patient portal. My doctor says to send me the stuff on the patient portal in a language that I do not understand. That way, because I want the doctor to tell me what is wrong with me, I do not want to read it and then go on Google and say, oh my God, what have I got. So people will find... just a reminder. Okay.
+
+The Committee is reminding me to get back to business and to let people know who have entered the room since I talked about the rules that if they wish to speak, they should see the Sergeant at Arms, fill out an appearance slip, and then they will be called in turn.
+
+And so the first panel: Alex... I cannot make out the last name... from Reinvent Albany, is the first witness. George Thurston from the NYU School of Medicine, although he is representing himself. Rocco... from the New York State Energy Coalition. Margaret Perkins. Max Resnik, who gives a street address, presumably representing himself. Okay. All right. And when we go from my right to my left, let us see who has submitted testimony. We have one testimony, right? Okay.
+
+**(00:32:28)**
+
+
+
+Alex Camarda. Good afternoon.
+
+**(00:32:31)**
+
+
+
+Okay. This is not the administration, so we do not swear them in, right? Okay. Happy to hear your testimony. The Sergeant will tell you...
+
+**(00:32:43)**
+
+
+
+...when to start. You have two minutes. Thank you, Chair Gennaro. My name is Alex Camarda. I am a senior policy adviser for Reinvent Albany, a government watchdog group. Reinvent Albany supports the Citizens' Air Complaint Program, believing it is a creative, innovative way to leverage civic-minded New Yorkers to extend the compliance reach of the Department of Environmental Protection to enforce laws against idling.
+
+We are concerned by the bills before the committee today, in particular Proposed Int. No. 561-A and Int 0011-2026, both of which we oppose. We oppose Proposed Int. No. 561-A because it creates numerous loopholes that will result in more idling, more air pollution, more asthma and more related diseases like cancer and heart disease. These loopholes include diesel regeneration, enabling buses to idle anywhere along their routes, enabling buses to idle for 30 minutes without clear beginning and end points, allowing vehicles to idle due to undefined mechanical problems, and allowing vehicles that have exhausted auxiliary battery-powered units in good working condition — which is undefined — to also idle more. More importantly, these loopholes will make it difficult for both complainants and DEP to discern between an exception to the idling law and improper idling.
+
+We also oppose Int 0011-2026 because we think that increasing the fines is unnecessary. We think the current fine levels are changing behavior already and idling has been greatly reduced in many neighborhoods across the City. We also think that it will increase delinquency on the part of respondents, the commercial vehicle companies. What we see for fines above $1,000 currently is that the delinquency rates are 60% or higher. So that will cause complainants not to participate because they will not be paid their incentive because the companies will not be paying. Thank you.
+
+**(00:35:13)**
+
+
+
+And as people testify, it would be important — and I think you were pretty clear — that I would be interested to know from everybody who testifies who has...
+
+**(00:35:29)**
+
+
+
+...an issue with Int 0561-2026...
+
+**(00:35:32)**
+
+
+
+...whether they believe that Proposed Int. No. 561-A is resurrectable or just forget about the whole thing. Because when you say you oppose it, it means that there was nothing we can really do to it to make it fair or better or whatever. So I am taking your testimony as just an outright opposition to Int 0561-2026. And those who think that Int 0561-2026, with appropriate amendments, could be made into a bill that could work — I would like to hear that as well. It is fine to oppose it. But if people have — and you did indicate some things that were problematic — so we will take that into account. But to the extent that people have testimony that says, I have a problem with Int 0561-2026 and I think you need to do this, this, this and this, in a way your testimony touched on that.
+
+**(00:36:42)**
+
+
+
+But to the extent that people can be explicit and say the current paradigm works, we like it and we do not want it touched — that is perfectly fine testimony. And to the extent that you have testimony you want to submit after the fact about what could be done about some of the problems that you mentioned, we will be happy to review it. We certainly appreciate your testimony. Again, I am not talking just to you but to everyone. We are trying to make this as constructive as possible. We are trying to get Proposed Int. No. 561-A to work. If you think it can never work, that is perfectly acceptable testimony.
+
+With that said, I am going to go to the next witness. Did you have to come down from Albany to be here? No, we are based in New York City. We have staff in Albany as well. Okay, all right.
+
+**(00:37:44)**
+
+
+
+In response to what you just raised — I did not actually ask questions, but I will tell you what... it is just like, you know, I know we are going to have a long hearing, but you are the first witness, so you get the first prize. So why do you not make a comment in response to what I just said.
+
+**(00:38:04)**
+
+
+
+So I am asked formally: in relation to Proposed Int. No. 561-A, I respectfully do not think it is fixable. I think where the Council should be focused is due process. I think there is agreement between the industry and the complainants, environmental groups and government groups like Reinvent Albany, that due process should be expedited. I think everybody agrees with that. OATH needs resources, as you talked about at the beginning. And I think that is where everyone would agree. We want to see complaints processed more quickly. The industry deserves to get those complaints in a timely manner and complainants will get paid faster. For those commercial vehicle companies that are getting complaints for the first time, okay. Thank you.
+
+**(00:38:48)**
+
+
+
+Please. Good afternoon. I am George Thurston. I work at the New York University School of Medicine. I live outside the City but I commute in, and I walk from Grand Central to my office, a little over a mile, so I experience the pollution — probably more noticeably to me because I often carry a pollution monitor, which I recommend. It is a portable one. And I will let you go on a little bit.
+
+**(00:39:15)**
+
+
+
+But what kind of device do you...
+
+**(00:39:17)**
+
+
+
+...carry? An affordable particulate matter monitor. Okay, anyway. And...
+
+**(00:39:22)**
+
+
+
+...I will present some of those...
+
+**(00:39:23)**
+
+
+
+...data in my written testimony. I study health effects of air pollution. I published — you mentioned PM2.5 — I published the very first paper relating PM2.5 to mortality in the United States in 1987. The U.S. set the standard in 1997. I have done studies here in the United States and throughout the United States, but in New York City — the children's backpack study was mine. I have done a number of studies in New York showing the continuing effects of this, not just from this particular problem but from diesel, especially diesel particles in this City. So we need to take vigorous action. I commend the committee for taking this on and enforcing these idling laws. However, I am also concerned about the exemptions, such as for regeneration clean cycles, which could be potential loopholes and should...
+
+**(00:40:25)**
+
+
+
+That is in Int 0561. I have done a lot of work with power plants and they get exemptions, something like this, where it says, well, if they change operations they are allowed to emit for a short period of time, and you would not believe how many times they call on that. The annual emissions go way up because they just do it and they just mark it down. We just did this, so I think it is really, nature being what it is, and it does not sound like you can find out whether it really was happening or not. Please continue, because I held you up for a couple of moments with your other things.
+
+**(00:41:02)**
+
+
+
+So just in conclusion, I think that we need to be more proactive in enforcement. You know, when you mentioned hiring some new people, maybe more of that, and...
+
+**(00:41:12)**
+
+
+
+I also think looking at solutions, not just these kind of extreme events, you know, idling, but it is a general problem. We are bathed in pollution from traffic every day we walk around, and if you compare where I live out in Westchester to when I come into work, that is where I get all my exposure to pollution every day.
+
+**(00:41:35)**
+
+
+
+So we need to do things like giving incentives for trucks, heavy duty trucks, to switch over off these... We need to get them a... Professor, I am going to have to step in because I am going to have to enforce the time limit. Okay, that is it. I really appreciate all the work you have done on PM 2.5, because forever it was like PM 10, and then we got smart because of you. It is a very different animal than PM 10. We certainly appreciate all the work that you have done. Please put the professor on our ringers list, because he is a ringer, and that is a compliment.
+
+**(00:42:30)**
+
+
+
+Compliment? Yeah, it is good.
+
+**(00:42:32)**
+
+
+
+Okay. Thank you very...
+
+**(00:42:34)**
+
+
+
+Much. Professor, please. The next witness, if you could take the microphone. Yeah, that is probably the closest one.
+
+Good afternoon. My name is Margaret Perkins and I am a member of the Time's Up group, and we have been instrumental in the major climate laws that have been passed in this city. We are very proud of them, including Local Law 97, and they pulled back on fossil fuels and buildings. I want to say everybody is probably going to say the same thing about the intricacies of Int 0561, and we are very much opposed to it, but I think we forget the bigger picture right now. The bigger picture is that we are in a climate crisis.
+
+And we have seen this summer the heat, the bush fires. We have to do everything we can to reduce the pollutants and fossil fuels. They are the major source of heating of this planet, and New York City has a duty to do everything it can. This includes a bill that works in terms of stopping idling. It is a major contribution, and trucks are 80% of the pollution from vehicles, and we have to figure it out.
+
+I just want to say that New York City has figured out a lot of problems already, which James Gennaro has been instrumental in. With Local Law 97, everyone said you cannot do it, you cannot get buildings to change. We have already shown that we have reduced emissions from buildings by 5% in the first year where it was mandated.
+
+So if people will, and people do want change, they will do what has to be done. We have done that with congestion pricing. Oh, my God, this was going to be the end of the planet, the end of New York City. It is working. Particulate matter is down, vehicle accidents are down. So we can do idling as well. We have the expertise and the drive and the motivation.
+
+**(00:44:38)**
+
+
+
+Thank you very much for your good testimony. We appreciate you coming back again to testify and we do appreciate that. Let me get my slips in order here. Okay, Mr. Lessertosa, please. Good afternoon. Just speak right into the microphone, it is hard to hear.
+
+**(00:45:05)**
+
+
+
+Good afternoon, members of the Committee on Environmental Protection and Waterfronts. My name is Rocco J. Lessertosa. I am the representative of the New York State Energy Coalition, or NYSEC. NYSEC represents the leading liquid heating fuel distributors in the five boroughs of New York City, lower Westchester, Nassau and Suffolk Counties. Our members are predominantly small and medium sized multi-generational businesses that provide an essential service to homes and businesses throughout the region.
+
+NYSEC supports effective enforcement of New York City's idling laws and does not condone engine operation that is unnecessary to perform an essential service. That distinction is particularly important. Heating fuel delivery trucks must operate pumps to safely and efficiently deliver fuel to homes, apartment buildings and businesses. That is not unnecessary idling. We strongly support Int 0561's recognition of pumps used in fuel delivery as a legitimate use, and we urge the Council to ensure the final language clearly protects drivers when engine operation is necessary to complete a fuel delivery.
+
+NYSEC also supports the bill's exemption for required diesel particulate filter regeneration cycles. Drivers should not face an idling violation for operating a vehicle in compliance with environmental regulations. We support the procedural reforms in Proposed Int. No. 561-A, including replacing percentage-based complainant awards with fixed amounts, establishing reasonable enforcement timelines and ensuring that respondents receive the video and electronic evidence underlying a violation. These reforms will make the program more fair, reliable and focused on genuine compliance rather than financial incentives.
+
+NYSEC also supports Proposed Int. No. 869-A and its safeguards against fraudulent evidence and other abuse of the citizen complaint process. Finally, NYSEC opposes Proposed Int. No. 11-A at this time. The Council should first implement and evaluate the important reforms in Proposed Int. No. 561-A before increasing penalties, particularly for small businesses that make up our membership. Higher penalties should not come without a fair and reliable enforcement process. I urge the Council to advance Proposed Int. No. 561-A and Proposed Int. No. 869-A. Thank you for the opportunity to testify today.
+
+**(00:47:22)**
+
+
+
+Thank you. I always appreciate working with NYSEC. I appreciate your continuing involvement in this process. If I had more time, I would speak about more. But when I am done, I am going to ask questions of the panel, and so people might have an ability to get another word in. So, our final panelist...
+
+**(00:47:49)**
+
+
+
+On this panel. Hello, my name is Max Resnik. We have got time.
+
+**(00:47:53)**
+
+
+
+Come on up. I am a Brooklyn resident and a participant in the citizen complaint program. I am testifying asking that the Council withdraw Proposed Int. No. 561-A and support Int 0048. I think that in Proposed Int. No. 561-A there are too many loopholes and exceptions, and it does not support the air quality and environment in New York City.
+
+I am also a City park steward. I take care of street trees, and I recently finished my street tree pruning class as well. I love having extra tools in my tool kit to help New York City's environment. I started participating in this program in 2024 and I submit complaints on an average of ten to fifteen a month, not super regularly, but it is not difficult when I am walking from my home to and from the subway, when I am visiting friends, eating out. I am able to see cars, trucks and buses idling regularly.
+
+I live near Coney Island Avenue, a major hub of upcoming development. This summer, for example, lines of dump trucks and construction...
+
+**(00:48:51)**
+
+
+
+Vehicles would line up a block away from an elementary school playground and idle for hours. When I started filming them, those trucks stopped. That is why this program works. When they would see me walking around, these trucks would turn off almost immediately.
+
+We know that this program as it is is effective at reducing idling and reducing particulate matter, and we want more New Yorkers to be equipped with those skills to be able to contribute to that program. Int 0048 is a no-brainer. It expands language access and hopefully empowers more New Yorkers to be able to participate. I look forward to a future with cleaner air and feel proud to contribute to that work through this program. Thanks.
+
+**(00:49:30)**
+
+
+
+Thank you, Max. I appreciate you being here and being a participant in the program. I am also glad to hear of your expanding reach of service to pruning trees. We do appreciate that. I have some questions, but I know that my colleague Harvey Epstein has questions for this panel. I recognize CM Epstein.
+
+**(00:49:54)**
+
+
+
+Thank you, Chair. I want to thank the panel for being here. Rocco, I am sorry, I did not remember your name, sir. So I would love to hear why you think these exemptions are going to help the environment by exempting more trucks from the law. What environmental advantages do you see this having?
+
+**(00:50:16)**
+
+
+
+Well, first of all, there is no way to... use the microphone. Yeah. There is no way to affect delivery without...
+
+**(00:50:24)**
+
+
+
+The truck running. Okay?
+
+**(00:50:25)**
+
+
+
+Because the engine operates the pump, so it is just as simple as that. The regeneration process is part of what they do. I am just... I am putting the environmental benefits aside. I really wanted to check what environmental benefits you think this bill will have.
+
+**(00:50:42)**
+
+
+
+I just do not think that it helps our industry whatsoever. I mean, we are already delivering a much cleaner product, which is what I was starting to say before about having biodiesel and renewable diesel blended with our heating fuel, and we have reduced tons of emissions from New York City's air over the last two decades, which is great. So we are saying we want to reduce emissions in our air and we keep doing it. We are going to higher blends, right.
+
+But when you are saying this bill, you want to create more exemptions in the bill. How does that create cleaner air? I do not know that it does one way or the other. But all I can tell you is that there is no way to make a delivery without using a pump. Basically, the current technology does not allow a system to operate the pump without the engine being on, and there is no system available now that allows that to happen.
+
+You are saying technology could have a path forward on this. I do not design trucks, you know. Designing trucks is just above my pay grade. So it is possible that the technology is out there, could be, and that delivery trucks can move towards that technology, and that would reduce the environmental consequences as well as the idling issue. Because you are saying they are only idling now because they have to, because they need the pump to work, right. So if there were a technology available that allowed them to not idle while the pump was working, they would use it. You could certainly use it.
+
+So it does not seem like changing the law to allow more idling would make sense, except maybe figuring out whether technology exists to allow the pump to work without idling. Be correct. Yeah, great. So either one of the other panelists... the other panelists seem to be not supportive of this bill. Am I reading that right? Like, are we saying that changing this law would hurt environmental regulations, hurt the environment, increase particulate matter? Is that...
+
+**(00:52:38)**
+
+
+
+On the record. Well, I think the implementation would not allow the kind of improvement you could get from a proper bill, and that the exemptions would undermine it basically.
+
+**(00:52:57)**
+
+
+
+So the exemptions in the bill could undermine the whole intent of the law. And so it does seem like the chair's goal here is to try to make an industry viable, which we all want to do. We do not want to undermine this industry, but also without undermining the environment at the same time. So there has got to be some path, which is what I hear people talking about, of maybe changing the way the industry functions, but also without undermining those goals. Go ahead.
+
+**(00:53:33)**
+
+
+
+Yeah, I just think with a number of the exceptions, as I mentioned in my testimony, I feel like they make the program inoperable. It is more than just increasing idling or increasing pollution. I do not think complaints from everyday New Yorkers who are filming videos of idling trucks are going to be able to tell if they are doing diesel regeneration, or if their auxiliary battery powered unit is working, or if they have a mechanical problem. I am not even sure what that is. I think DEP will similarly struggle. So I think it makes the program inoperable, in addition to increasing pollution.
+
+**(00:54:09)**
+
+
+
+So I do also want to ask the panel: we have heard from written testimony that there are concerns about complaints coming in and the quality of some of those videos that are being sent in. I would love to hear from this panel about additional solutions that might be available to streamline that process. Obviously the chair and people in the committee will have the ability to increase funding, but also what other solutions might be available to deal with the quality of the videos coming in?
+
+**(00:54:39)**
+
+
+
+If anyone has an answer, come forward. I just want to tell CM Epstein that we have got a five minute clock for Council members, which I did not set, but I certainly want this answer and I certainly want your question answered. Thank you, Chair.
+
+**(00:54:55)**
+
+
+
+What I have done after this is that I am a casual participant in this program and have basically stumbled on ways to be able to submit videos. Most of my videos have been accepted, and I really appreciate the community of other people who are also submitting these videos, who provide guidance and coaching to make sure that the quality is good. Nobody wants to be wasting DEP's time. We do not want to be submitting false claims. We want to be doing good work, and there is a community of people who have been doing this for years who are very generous with their time and are happy to share best practices and tips and tricks to make this work better. So making that more publicly available might be helpful. Absolutely, great.
+
+**(00:55:34)**
+
+
+
+Thank you, Chair. That was some great questioning. Now I recognize CM Avilés for questions. Thank you.
+
+**(00:55:48)**
+
+
+
+Thank you so much. I just had a quick question for the professor. I am sorry, I missed your first name. George. George, in your study, can you just briefly describe for the record the disparities of PM 2.5 in environmental justice communities versus wealthier communities?
+
+**(00:56:10)**
+
+
+
+Yes, I have done studies, especially in the South Bronx, and we see much higher levels, especially of diesel. I mean, basically, if you are in the South Bronx and you are near one highway, if you move away from it, you are moving towards another highway. It is enveloped by highways all around it in every direction. Harlem is a lot like that. So the major throughways... and then there is congestion, and congestion pricing is not helping them much. Although we have seen generally lower air pollution levels following congestion pricing throughout the city, with some hot spots. So that and the effects of them... in one of my studies, we have one...
+
+**(00:56:56)**
+
+
+
+We are looking at right now the cardiovascular damage from air pollution on New Yorkers. It still continues. We have documented it before, especially traffic pollution: cardiovascular, respiratory, asthma. It is a real problem. Diesel particles are an antigen, so they not only have the toxic effects of fossil fuels with the transition metals that cause oxidative stress and inflammation, which underlies a lot of disease throughout the body, so it has systemic effects.
+
+So we are not just talking about asthma, which is a very, very big problem and I am not dismissing it, but I am saying it goes beyond that. Every New Yorker is threatened by this, and there are disparities in the levels of exposure. That is one of the reasons why I think, you know, when we are talking about climate but also health, that a city has great buying power and they could start buying up these trucks and solving this problem, creating solutions and then creating a market that private buyers could then access. Having battery-based operations, perhaps like my Chevy Volt, which is about 15 years old and runs like new because it is electric most of the time, and then occasionally it has a backup engine that once in a blue moon I need if I am going to travel to the airport or something. You can design trucks like that, and I think there are trucks like that where they have a battery pack for around town and then an engine that will occasionally back it up, so there is no running out of power and plugging it in and waiting for it to charge up kind of thing.
+
+**(00:58:43)**
+
+
+
+These technology solutions are what we should be driving toward.
+
+**(00:58:46)**
+
+
+
+Those — thank you. I could not agree with you more, and it means that our City needs to use all the tools in the toolbox, including translating and allowing for documents to be submitted — particularly complaints to be submitted — in languages other than English, which the administration has not solved because the instructions and all questions are required to be answered in English. So just for the record, that is one thing we can certainly do. But I agree with you wholeheartedly. Our City needs to use its market power, its enforcement power and every other regulatory option to make sure that its communities are protected, and particularly environmental justice communities who have borne the brunt of infrastructure that the rest of the City also benefits from. So thank you so much for your testimony. This is a public panel and it is a great addition to the discourse here, and we really, really appreciate it. We look forward to staying in touch. Any further information you want to transfer to the Committee, you know how to do that. So thank you all very much.
+
+**(00:59:59)**
+
+
+
+You bet. Thanks for listening.
+
+**(01:00:04)**
+
+
+
+Oh, sure thing. Before I call the next panel, I am just going to embarrass my longtime friend Eric Goldstein, who graciously joined us. We go back a long way — friend, mentor, colleague. Great to see you. Are you embarrassed yet? Sure, keep going. That is enough. Okay.
+
+And this panel — the first witness is a former member of the New York City Council, here for the Building Trades Employers Association. And her colleague is also here — Felice Farber. I think their colleagues are in the same organization. Okay. I have a David — I cannot make out the last name — from the Interior Demolition Contractors Association. Okay, great. And Joseph Ferrara, Aggregate and Cement Trucking. And Melissa Barber from the Mechanical Contractors Association of New York. So this will be what we call an industry panel.
+
+And the last one — I do not set the panels, but Rocco got put in with the environmentalists, so he has got some environmental cred now. So there you go. Okay, thank you. We have written testimony from Ferrara. We have not got any other written testimony from the panel's witnesses. Okay, Felice's testimony is fine. This time I am going to go from my left to my right. So, sir, you are up. I called your name and I do not know which one you are, so just begin your testimony when the sergeant prompts you and state your name for the record.
+
+**(01:03:12)**
+
+
+
+Good afternoon, Chairman Gennaro. My name is Joseph Ferrara and I am an owner and president of Aggregate and Cement Trucking. My son and I own and operate this company. Prior to this, my family was in the ready-mix concrete business — our Brothers Building Materials — from 1969 through 2015. Our business involves delivering cement, which is a raw material as opposed to concrete, to concrete plants and construction sites.
+
+We go to the same locations every day, making multiple deliveries, and we are just getting inundated with these idling violations. My question to the enforcement community and the legislators is this: we are in favor of eliminating or minimizing unnecessary idling. We are all for it. I have two grandchildren. I would love to see them living long and healthy lives. But if the objective of this legislation is to minimize or eliminate unnecessary idling, most of our violations come from citizen complaints. We do not have an opportunity to cross-examine them. They take a video and it is kind of like a gotcha, and it is a money grab.
+
+So my suggestion is: if a citizen is going to take a video and they want to eliminate unnecessary idling — we have 18 truck drivers, they make dozens of deliveries a day, I have instructed them on the law and you should not idle if you are not pumping them off — have the citizen tell the driver, "Hey, do you know you cannot do that?" And if they say forget you and they take a video of it, then fine. But if they stop, they have accomplished their purpose. Someone on the prior panel talked about how the drivers shut their trucks off when they see them. Could we make it a requirement? If you really want to clean up the air, and the drivers are not, you know — that is the purpose of it. Well, this has become a multimillion dollar money grab and it is not fair to businesses that pay taxes and employ union members.
+
+**(01:05:56)**
+
+
+
+It was a two-minute limit and I wanted to give you a little latitude on that, which I did. I was happy to do it and I appreciate your comments. You know, we do not answer questions, we ask the questions. But I think the good people who are part of the anti-idling crusade — you hear what they are saying about me and my bill — and so I am trying to do everything I can to make it fair. If they were lauding me and you are not, that is evidence of me and this community and this Council trying to bring this process somehow to make it fair and better and workable for everyone. We would not be here today if I was not looking to make changes to the program. So I appreciate your being here today. We look forward to working with you. With that, I am going to go on to the next witness if members have questions for you.
+
+Okay, so that was Joseph Ferrara. And you are who? David Atkins. Okay. And I am a Council member at present.
+
+**(01:07:51)**
+
+
+
+Okay, yeah. Okay, yeah, that is you there. This is you on...
+
+**(01:07:56)**
+
+
+
+...paper. Okay. All right. And so you, okay?
+
+**(01:07:58)**
+
+
+
+You are with the Interior...
+
+**(01:08:01)**
+
+
+
+Demolition Contractors Association. We appreciate your being here today. Wait for the sergeant's prompt and begin with your testimony. Thank you.
+
+**(01:08:11)**
+
+
+
+The Interior Demolition Contractors Association...
+
+**(01:08:13)**
+
+
+
+Yes, talk right into the mic. Make sure the light is on. Okay. Thank you. The...
+
+**(01:08:17)**
+
+
+
+Interior Demolition Contractors...
+
+**(01:08:19)**
+
+
+
+Association. A little louder, a little louder. Okay.
+
+**(01:08:22)**
+
+
+
+It is a not-for-profit. Speak like a contractor. I am an...
+
+**(01:08:27)**
+
+
+
+...attorney. That is enough for...
+
+**(01:08:31)**
+
+
+
+That is a mistake. It is a mistake. I am a lawyer. What are you talking about.
+
+**(01:08:36)**
+
+
+
+I meant lawyers on that side. Yeah, yeah, yeah, yeah.
+
+**(01:08:41)**
+
+
+
+It is a not-for-profit trade association that represents unionized interior demolition contractors. Our members are generally family-owned small businesses. They perform interior demolition work within commercial buildings and carryout work for commercial clients. Our members provide middle-class jobs for our workers because they are union members. We have certified clean idle trucks for all of our pickups. Our trucks are regulated by the New York City Business Integrity Commission, where it is mandated. We purchase or upgrade our trucks, and those upgrades are extraordinarily expensive to our small businesses.
+
+As a point of reference, the certified clean idle program was first introduced in the state of California. We thank everybody for their efforts with regard to updating the idling law. We agree with many of those efforts. We do need to raise some issues that are unique to our industry.
+
+**(01:09:32)**
+
+
+
+When our members operate at a commercial building, they face particular hardships. First, we pick up the debris when the building owners allow us to. This is up to them, not us. That is juggling off-hours when there is little or no pedestrian traffic. The debris is loaded into containers. Second, we must wait for the loaded containers to come down to the loading dock or to the curb. Those containers use the building's elevators. We cannot continuously shut down our engines between loads. We just cannot do it because when you shut your truck down, it takes time to regenerate and get up to full power. You just cannot do that.
+
+**(01:10:15)**
+
+
+
+Please continue for a few moments. I was playing with you before.
+
+**(01:10:19)**
+
+
+
+So we are asking for an exemption, which is similar to what California has for certified clean idle trucks, for when you are at a commercial building — an exemption for when you are doing what we do, which is interior work. And we would say, as the state of California says, when you are near a facility like a school, of course that exemption should not apply. And there are going to be multiple tickets...
+
+**(01:10:47)**
+
+
+
+Okay, we are going to have to go to Felice, but I am going to come back to you with a question about the certified clean idle. Remind me to ask you that. Okay. And no stranger to this Committee or to this Council. I had your slip right here. As if I need a slip to know who you are — I have known you forever. So thank you, Felice Farber, for being here on behalf of the... and now, are you still working with Liz?
+
+**(01:11:23)**
+
+
+
+So the Subcontractors Trade Association is a member of the Building Trade Employers Association. They are an association of 24 different trades, of which we are a member. Oh, okay. So that is the connection. I got that. Okay. Thank you for being here. Of course. Nice to see you. Please commence with your testimony when the sergeant prompts you to do so.
+
+**(01:11:46)**
+
+
+
+Thank you. So the Subcontractors...
+
+**(01:11:47)**
+
+
+
+I am Felice Farber, Executive Director of the Subcontractors Trade Association. We represent more than 350 union specialty trade contractors, including electrical, plumbing, sheet metal, demolition, concrete pumping, remediation and many more. Their crews and trucks are on job sites in every borough every day. We want cleaner air and less needless idling.
+
+The Citizen Air Complaint Program as it operates now is generating penalties without changing much on the street, and it is not addressing the problems in environmental justice communities. On a construction job, a running engine is often doing work — maybe powering a pump, a lift gate or an environmental decontamination unit that keeps workers safe, or maybe running equipment for street and utility work in the roadway, finishing an emissions control cycle the law requires, or keeping a driver safe in dangerous heat or cold while waiting to get onto a job site. Our members are being ticketed in exactly these situations, even when the truck displays a valid exemption sticker. Timing makes it worse. Notices have arrived many months after the fact and hearings come a year later. By then, no one can piece together what happened at a single stop, and evidence that would clear a contractor is too often not considered. Opportunities to take corrective action against that driver are not available.
+
+Int 0161-2026 takes steps to fix this. We support it with additional amendments, which are outlined in our detailed written testimony provided, and the specific recommendations put forth in the BTEA's testimony that they will be providing. We further ask the Committee to hold on Proposed Int. No. 11-A. Raising the fines and escalating them across an entire company rather than by vehicle or driver punishes small and mid-sized businesses before the process itself is fixed. We urge you to fix the system first. Thank you.
+
+**(01:13:41)**
+
+
+
+Thank you, Farber. We certainly appreciate it. I have a question for you too, I think, when we finish the panel.
+
+**(01:14:05)**
+
+
+
+Melissa Barber. That is me. Thank you. Good afternoon, Chair Gennaro and CM Epstein. I am Melissa Barber, Assistant Director of the Mechanical Contractors Association of New York. Our contractors install and service heating, cooling, refrigeration and fire sprinkler systems across the five boroughs, employing members of Steamfitters Local 638. We also share the Council's goal of reducing unnecessary idling. But the program as it works today is not meeting that goal.
+
+Instead, it is snaring our small businesses in fines. Our members' trucks make many stops today, mostly with their engines off. When an engine is running, there is usually a reason — it might be powering a boom or lift gate, answering an emergency call in extreme weather, or waiting in line to deliver to an active job site. Violations are now arriving 6 to 12 months later, hearings can take 15 months or more, and a fine that shows up a year later does nothing to change what a driver does on the street. It only punishes a company that cannot reconstruct one stop out of thousands.
+
+Enforcement also is not reaching the neighborhoods that need it most. The Commissioner stated that complaints are concentrated in the Manhattan core, wealthier parts of Brooklyn and western Queens, and that there is minimal attention to the areas that need it most. That is why we support Proposed Int. No. 561-A, Int 0562-2026 and Proposed Int. No. 869-A with amendments, and ask that Proposed Int. No. 11-A be held as written. Proposed Int. No. 11-A would raise fines to as much as $3,000 and apply them across an entire fleet. That penalizes a company's size rather than its idling. We have submitted detailed recommendations. We also support the recommendations developed by the BTEA for the record. We want a program that is accurate, timely and fair, and we welcome a chance to work with you on it. Thank you.
+
+**(01:15:50)**
+
+
+
+Thank you very much. I want to make sure that I have your written testimony. This is you. All right, yes, this is you. Okay. Thank you. And then I have some Council members prompting me to ask questions. Okay, this is open to everybody. Question one: under what circumstances are your...
+
+**(01:16:27)**
+
+
+
+...vehicles required by law to be equipped with a diesel particulate filter? Not everyone has to answer every question. Our entire fleet...
+
+**(01:16:40)**
+
+
+
+Could you put on the mic? I am not hearing it. Our entire fleet...
+
+**(01:16:46)**
+
+
+
+...is required to have it.
+
+**(01:16:47)**
+
+
+
+Because of the fact that we are regulated by BIC and they require us to be certified clean idle. So when we regenerate, what happens is a light comes on in the truck, the driver stops where he can, and the regeneration begins. Okay? For those who are not familiar with regeneration — including people who are watching online, and people do watch Council hearings, I know — if you could go through that technology a little bit: regeneration is used to eliminate the buildup within the system, which requires it to be burned off. That is required by the apparatus on the truck, which is like a trap oxidizer or similar technology. The reality is that we do at times get tickets for regeneration. There was a decision in which the Salvation Army had a truck that was regenerating and it got a ticket. Regeneration is required — if it is not done, the truck itself could be damaged. It is as simple as that. We want drivers to stop, not immediately, but in a reasonable place so that they can undergo regeneration. That is helpful for both the environment ultimately as well as for everything with regard to this, and that is very important.
+
+**(01:18:29)**
+
+
+
+Okay, let us come back to the original question. Thank you for that explanation. On the same question: under what circumstances are your vehicles required by law to be equipped with a diesel particulate filter, which is a little different technology than what you were just talking about, right?
+
+**(01:18:45)**
+
+
+
+Okay, well then help me out. Help me out. Yes, this is...
+
+**(01:18:47)**
+
+
+
+...a mandate by the New York City Business Integrity Commission, and I believe it was part of the City Council law as well, that required all these vehicles to be upgraded with the newest — I think we are at Tier 4 engines — and to have certified clean idle vehicles. That is the version of that.
+
+**(01:19:07)**
+
+
+
+Okay. All right, Ferrara, do you have anything to add to...
+
+**(01:19:10)**
+
+
+
+...that? Well, in the concrete industry it came out with the regulation specs in the contract, so most public agencies have that. To deliver materials to a job site you have to have these. And basically, if it is a City contract — City, State — most contracts have those provisions. And regeneration basically superheats the exhaust to burn the soot, so the soot does not actually get into the atmosphere. It is thermally destroyed when the truck is running and going back and forth — no problem. But when it is idle and making a delivery to a job site, that is when it generates the need to regenerate. So that your truck is not generating diesel particulate emissions, right?
+
+**(01:20:03)**
+
+
+
+Okay. Second question. Okay, second question: how could an observer determine whether a vehicle is engaging in a regeneration clean cycle for a diesel particulate filter? Are there visual signs, smells, et cetera? And is there any kind of signage on the truck that indicates anything?
+
+**(01:20:30)**
+
+
+
+That is just my addition to that. But the question is...
+
+**(01:20:33)**
+
+
+
+Yeah. How could an outside observer determine whether a vehicle is engaging in a regeneration clean cycle for...
+
+**(01:20:39)**
+
+
+
+...a diesel particulate filter? Are there visual signs, smells, et cetera?
+
+**(01:20:44)**
+
+
+
+There is a monitor inside the cab of the truck that shows the regeneration process is in effect. But it is inside. Yeah. But the advocates who are participating in this program do not think the regeneration issue should even exist, so they are not going to ask you about it. And so I am just trying to be real here.
+
+**(01:21:11)**
+
+
+
+In addition, if you had timely notice of the violation so that you could look it up, you could provide evidence showing documents that the vehicle was going through that regeneration cycle. But if you get this thing 18 months later, it is gone. And at OATH, any information like that, they disregard evidence that you were not idling or were in a legitimate operation.
+
+So we have one example where one of our members — and this is not a diesel clean idle compliant vehicle — but they have evidence that the vehicle was in fact not running. And they could tell by the video. But that was not relevant because you had to bring the manual for the vehicle operation with you to show that if there were no warning lights on, the vehicle was not idling.
+
+The challenge is really the timeliness of getting the information so that you can write the defense and take corrective action. Because if someone is parked on Queens Boulevard scrolling through their phone, they should not be idling, and you should be in a position to take corrective action and notify your driver that that is not a permissible activity.
+
+**(01:22:38)**
+
+
+
+Okay. And I recognize CM Epstein for questions of this panel.
+
+**(01:22:48)**
+
+
+
+Do you think this panel — just the people here — do you actually think that a human being who is concerned about idling should knock on the window of the truck and say, "Hey, you are idling and that violates the law. Can you turn off your car?" You think that is a realistic solution here?
+
+**(01:23:09)**
+
+
+
+Well, just last week I got a citizen's complaint from a truck that was idling — from 2025 — it just came last Friday. And when I looked at the video, after the three minutes were up, this citizen went to the driver and was asking some questions. So if they could have that conversation and the objective is to reduce or minimize idling, they could have that.
+
+**(01:23:39)**
+
+
+
+So if I only have a couple of minutes... the answer is you think yes? You think it is a healthy thing for someone to go knock on the truck and say, "Hey, you are idling, can you stop?" That is what you think is the solution here?
+
+**(01:23:52)**
+
+
+
+Having a civil conversation. Sure.
+
+**(01:23:54)**
+
+
+
+I understand that, but do you think...
+
+**(01:23:56)**
+
+
+
+That driver...
+
+**(01:23:58)**
+
+
+
+...would do that? Do you think? Please.
+
+**(01:23:59)**
+
+
+
+You think the driver — would that result in a civil conversation if they have their video camera? Yeah, my driver...
+
+**(01:24:10)**
+
+
+
+Was disrespectful in any way? Yeah, that I would pay the...
+
+**(01:24:16)**
+
+
+
+...fine. How would they contact you if your driver was being uncivil? Like, what would be the goal? You think they should just send an email to you notifying you the driver is being uncivil — like somehow contact the business connected to the driver? I could, but...
+
+**(01:24:35)**
+
+
+
+Let us just be realistic.
+
+**(01:24:37)**
+
+
+
+This is New York, right? I mean, we all want to be civil. I want to be respectful. But I have actually, in front of my building, for the last few decades I have been living there, said to someone, "Hey, you are idling in front of my building right next to a school playground. Do you mind stopping?" And I have been cursed at more than one time for doing just that. The same time I have been civil to people who take their dog and put them on the swings and the playground equipment and say, "Hey, my kids play here, do not do that," and they are uncivil back. So...
+
+**(01:25:11)**
+
+
+
+Our goal is not to put people into difficult situations. Our goal is to try to reduce particulate matter in the air. Yes. Okay. I just want to be clear — just to make sure — that this regeneration, can that happen when the vehicle is actually being used, driving around? Yes. So you can regenerate, you do not have to idle to regenerate. You can regenerate while the vehicle is moving. When that light goes on, you have to pull over. When that light goes on.
+
+**(01:25:52)**
+
+
+
+The regeneration light, you are saying? Yes, you have to pull over within a very short period of time. Okay, stop. And that is when you do the regeneration. You are not driving while you regenerate.
+
+**(01:26:03)**
+
+
+
+So regeneration only happens when you are not moving, and that is the technology that exists today. And how long does that regeneration take? I am not sure about that. Could you find out and get back to us about how long that regeneration takes? It is about 15 to...
+
+**(01:26:20)**
+
+
+
+...20 minutes. So basically, whenever that happens, you are going to have to pull over wherever you are and regenerate for 15 to 20 minutes. To find a reasonable location — when that light goes on, the driver is told to pull over not immediately, but within a reasonable time period, because you have to stop the vehicle. Also, it is...
+
+**(01:26:40)**
+
+
+
+...going to affect the vehicle. And so you pull over where you find an appropriate place to just stop and let it regenerate. That is what you do.
+
+**(01:26:51)**
+
+
+
+And I just want to — I know you mentioned the issue of fines being concentrated in Manhattan and Brooklyn. You are saying that more of these should be happening in other parts of the City.
+
+**(01:26:59)**
+
+
+
+I am just saying that testimony at the last hearing was that the fines were concentrated in those areas and not in the areas that could benefit from cleaner air. So just to be clear, you are saying areas of Manhattan will not benefit from cleaner air? Of course they will. But I do think that it is easy bait for a citizen to use the most densely populated areas to try to...
+
+**(01:27:26)**
+
+
+
+...capitalize on the program. And so the densely populated areas, which have a lot of trucks and a lot of humans, are the ones that would have higher particulate matter, also because they have fewer trees, as was said.
+
+**(01:27:39)**
+
+
+
+Well, I mean, my district, which is Manhattan, which is also a residential part of this City, also has a lot of high particulate matter, especially in the financial district. So we see a lot of pollution and we want to reduce that behavior. That makes sense. So creating more exceptions to idling — I do not think that incentivizes more...
+
+**(01:28:05)**
+
+
+
+...complete testimony. I simply said that I thought that you should focus fines on the areas where there is the most air pollution versus necessarily concentrating them in one area. All right, thank you.
+
+**(01:28:22)**
+
+
+
+Thank you, CM, for your very good questioning of this panel. That will be all for this panel. We really appreciate the input that we got. I know CM Epstein was asking about something — to get back to him or whatever. I think that was answered. And anything you need from the staff of the Committee, Harvey, we are at your disposal, of course. So thank you.
+
+The next panel: Eric Goldstein, Natural Resources Defense Council. Last name Mendez — first name... New York Lawyers for the Public Interest. Ryan... representing himself. And Evan Kalish. Okay.
+
+**(01:29:49)**
+
+
+
+Two witnesses. Okay.
+
+**(01:29:57)**
+
+
+
+All right, Jonathan Goran, representing himself. And any prepared statements or written statements? Okay, that is fine. We are going to go from my right to my left. So it is my pleasure to recognize — Chair Gennaro, I am supposed to say your name. Okay, just go...
+
+**(01:30:41)**
+
+
+
+...ahead. I am Eric Goldstein from the Natural Resources Defense Council. Thank you for your leadership on this and so many other environmental issues. The citizen complaint enforcement provisions of the New York City Administrative Code were one of the most innovative environmental laws ever passed by the City Council and a good example of the Council's national leadership on environmental issues. Indeed, we filed one of the earliest citizen complaint enforcement actions more than 30 years ago, when we chased after express buses spewing black smoke along Madison Avenue and successfully were able to convince the agency to take enforcement action against them.
+
+In order, we support Int 0011-2026, Int 0048-2026, Int 0562-2026 and Int 0869-2026, all of which enhance the program's operations. But there is a need for additional reforms to this citizen enforcement program.
+
+**(01:31:34)**
+
+
+
+One challenge is that in recent years, citizen activists have filed so many complaints that this single section of law has placed an enormous burden on staff and hampered the agency from undertaking other environmental enforcement actions that may be equal to or even higher priorities for the Mamdani administration. A second problem is that at least historically, citizen complaint filings have not sufficiently targeted environmental justice communities where air pollution levels have been their highest.
+
+And perhaps the biggest problem of the existing scheme is that it simply has not, in too many instances, had the desired effect of changing behavior and stopping pollution. For too many violators of this law, they continue to treat the statute and the fine simply as a cost of doing business. That is why one concept in Proposed Int. No. 561-A that we strongly support would provide an incentive for vehicle operators to install less polluting equipment, although we believe this provision needs further strengthening so that it will accomplish the objectives you are seeking to achieve. Proposed Int. No. 561-A attempts to address some of these issues but needs additional work.
+
+**(01:32:41)**
+
+
+
+Please finish your thought. I will just say that while we do not support Proposed Int. No. 561-A in its current form, we look forward to working with you, digesting all of the good testimony from today, and to coming up with legislation that will enhance this very important program.
+
+**(01:33:01)**
+
+
+
+Thank you very much, Eric. I mean, we have to hear it. We have to get input if we are going to get to where we need to be. And I appreciate your ongoing partnership on this and countless other occasions, so thank you again for being here. And there is Mendez...
+
+**(01:33:20)**
+
+
+
+Right? Okay. Yes. Hi. Good afternoon, Council Member. My name is Somaly Mendez and I am the Policy and Legislative Coordinator at New York Lawyers for the Public Interest, which I will reference as NYLPI going forward. NYLPI has three requests from the Council today: to pass Int 0011-2026 to strengthen penalties and enforcement against repeat violators; pass Int 0048-2026 to expand language access and participation in the Citizens Air Complaint Program; and reject the current iteration of Int 0561-2026 because its broad exemptions would undermine enforcement and effectively weaken one of the City's most successful anti-pollution programs.
+
+NYLPI works to advance environmental justice and clean air in communities that bear the burden of transportation pollution. As someone who was born and raised in the Bronx, I have seen firsthand how vehicle emissions affect communities like mine, where residents live, work and go to school near highways, truck routes and busy depots. Through our advocacy and research on school bus...
+
+**(01:34:36)**
+
+
+
+...pollution, we have done...
+
+**(01:34:39)**
+
+
+
+Oh, wow. Please continue. I have a soft spot for Bronx folks.
+
+**(01:34:43)**
+
+
+
+Thank you. We appreciate that.
+
+**(01:34:46)**
+
+
+
+We have documented the harm caused by excessive illegal idling. It is not just a quality of life issue. And that is why Int 0011-2026 and Int 0048-2026 — these bills — strengthen enforcement, increase accountability and expand access to communities that are often the most impacted by transportation-related air pollution.
+
+**(01:35:13)**
+
+
+
+I mean, I have a soft spot, but it is not unlimited, you know. And so I respect...
+
+**(01:35:19)**
+
+
+
+...that. I will summarize by saying we urge the Council to strengthen, not weaken, New York City's...
+
+**(01:35:24)**
+
+
+
+...anti-idling laws by passing Int 0011-2026 and Int 0048-2026 and rejecting Int 0561-2026.
+
+**(01:35:30)**
+
+
+
+Healthy communities should be placed before polluter convenience, and environmental justice communities deserve stronger protections, not weaker ones. Thank you for your time and...
+
+**(01:35:40)**
+
+
+
+...consideration. Thank you very much. And to both witnesses, the first two — you have been doing legislation for a long time. I have looked at the bill, I like it, and we are all ears in terms of how would you write it. You know how to do legal language. We are welcome to anything — I mean, not anything, but we want to work collaboratively with the environmental community to get the best bill that we can get.
+
+And we have to do something with Int 0561-2026. Something has to happen because the status quo is not really working in an optimum way, and that is what we are trying to achieve. So to the extent that we can get some New York Lawyers for the Public Interest brain power and have you offer us language, there is nothing wrong with that. We want to hear from people that care about the environment, that care about pollution. We are not snobs about getting input on this. This is how we would do it. And we look forward to further discussions on how we can forge that partnership.
+
+**(01:37:16)**
+
+
+
+So we are a team right now — you are conscripted. Sorry. And, Ryan...
+
+**(01:37:31)**
+
+
+
+Correct. Sure. Just get the microphone nice and close. I have got to put the button on.
+
+**(01:37:40)**
+
+
+
+How is that? Wonderful.
+
+**(01:37:42)**
+
+
+
+Good afternoon, Chair Gennaro and members of the Committee. My name is Ryan Scott Loki. I am a former delivery driver with more than 17 years of firsthand experience in the operation and management of commercial motor vehicle fleets. Today I work as an environmental consultant. I help small businesses understand City, State and federal environmental regulations, learn how to comply with these regulations and how to resolve outstanding violations. I am also an active and regular participant in the City's civilian air, noise and sanitation enforcement programs. I have submitted and documented over 5,000 complaints.
+
+These experiences give me a unique perspective. I see firsthand how these enforcement programs affect small businesses, commercial drivers, civilian enforcers and the environment. Based on that experience, I oppose Int 0011-2026, Int 0561-2026 and Int 0562-2026. I support Int 0048-2026 and Res 0626-2026. I did want to speak about Proposed Int. No. 11-A, but we are very limited on time. Let me just focus on Int 0561-2026 and most importantly, the regeneration arguments made by the prior panel.
+
+For starters, in Proposed Int. No. 561-A, the most problematic provision proposed is the proposed exemption for diesel vehicles undergoing diesel particulate filter regeneration, also known as DPF regeneration. The misstatements of fact from the last panel are abhorrent. I assume the provision is well-intentioned, but it is simply unworkable in reality. With my extensive experience of over 17 years, I can only estimate whether a diesel vehicle is undergoing regeneration while outside the vehicle at maybe a 70% accuracy rate, at least while observing from outside the vehicle. The smaller and newer the vehicle, the more difficult that determination becomes.
+
+If someone with my level of experience cannot reliably identify regeneration from outside a vehicle, I have no idea how we could reasonably expect an OATH hearing officer who has little or no comparable experience with these engines to make that determination. I am happy to answer questions on how the actual process of regeneration works, but vehicles are absolutely able to regenerate in both an active and a passive method. They do not have to pull over in most cases to be able to regenerate. They are able to continue doing it while they drive. The statement that they have to pull over because there is a warning light or something like that is asinine. It is true that diesel vehicles have to have regeneration done at a particular time, but not in the manner that they...
+
+**(01:40:19)**
+
+
+
+...described. You made that point. I appreciate you being here. I appreciate all of your years of experience and the perspective that you bring to bear on this panel. With that, I will call the next witness...
+
+**(01:40:34)**
+
+
+
+...both witnesses.
+
+**(01:40:35)**
+
+
+
+What is the baby's name? I promise I was not gonna make a spectacle of it. I am kind of just going to keep it. Oh, no, of course. Yeah, I just wanted to meet her. No, no, because yeah, then it would be on the record, people would see it, you know, and whatever. Yeah, yeah, I get it. But she is... you can start now. She is a bit of a witness to the fact that, at least where I live in eastern Queens, where I am probably among the only participants in the program. A few years ago, Con Ed would be on all the time, and if I was walking around the neighborhood I knew about the problem. I would be like, oh, I have got to cross the street to avoid, you know, this stinky fumes, because I really do not like the stinky fumes. I do not like the noise. And she does not like, you know, mechanical noises either. Now they are off, and you know, if the Consolidated Edison Company can do this, you know, if they can be resilient... I mean, this one was the first time on the subway today. I think she is being very resilient, but I do not understand why so many companies here cannot modify their behavior accordingly, why they want us to adapt our laws to them as opposed to them adapting to, you know, the market of the greatest city in the world.
+
+But it really has made a difference, and we can walk right past them. I wanted to bring something to your attention. I do not think anyone else will. I used to prosecute some noise hearings. I really do not like when ice cream trucks just sit at a corner and you can hear them for blocks away and they are just on and on and on, and the City would not do anything about it. I prosecuted, you know, I am not modest, a number of these complaints, and I received a death threat in the mail from my efforts. So you know, I hear, oh, you should come up to the truck and tell them to turn off. I was going to say, why do we not... why do we not appreciate the... you know, adjust the... please. Yes. It is not fair for anyone to have to experience that. The City is trying to outsource a lot more of their efforts to us, and that is what this would do, with the specific timeline saying, okay, well, your work is either going to go down the toilet or you are going to have to put your name out there and be exposed to this.
+
+I really do not think that is fair to anybody. Well, I certainly appreciate the, you know, personal testimony that you bring to bear as a resident, as a father, as someone who is trying to, you know, make a better world.
+
+**(01:43:11)**
+
+
+
+for his child. And you know, your testimony is very impactful. We appreciate it. And you have participated in the program, right?
+
+**(01:43:22)**
+
+
+
+I have, okay. It has paid dividends, and I am grateful for our walks.
+
+**(01:43:25)**
+
+
+
+That is you? Yep. Quieter and cleaner. And I think that... regarding him, it sounds like you live in CM Restler's district. Correct?
+
+**(01:43:35)**
+
+
+
+Yes. So, you know, back when I did the noise code in 2005, we came to a grand compromise on the ice cream trucks. They could only sound their bells when they are moving. When they stop, they have to shut them off. Can you have ice cream radar? They know the truck is there.
+
+**(01:43:56)**
+
+
+
+Right. I am just saying, but it is currently illegal. We do not have to lead on that. That has been done.
+
+**(01:44:03)**
+
+
+
+I do not like that housing. So now it is on the enforcement side.
+
+**(01:44:04)**
+
+
+
+Because like that, the City refused to enforce it. In fact, at my local City Council office they call me the Grinch because I actually did enforce it, which I am perfectly fine with.
+
+**(01:44:15)**
+
+
+
+But as a result of that, you know, I got an anonymous death threat in the mail. And from the front of me... this is off the record, but I am not going to impute anybody. But it is very likely the case because...
+
+**(01:44:31)**
+
+
+
+Okay, I get it. Can I explain? All right. I mean, yeah. So that is a saga. Work it out with CM Lee. She was very responsive. I am sorry that it happened. That is terrifying. It is terrifying. But we really appreciate it. Better enough if you go to a party in Nassau County again. That made a huge improvement, so both the noise...
+
+**(01:44:55)**
+
+
+
+I mean, I do not participate in that anymore, but there is a little less of a need because of the impact this had beforehand.
+
+**(01:45:04)**
+
+
+
+Good. Okay. Yeah, I do not like that this would require us to do more and get less in return. In tech terms, if you want to add a new term that I am sure has never been used in a hearing here before, in identification, that is what would be happening. Put that on the list. So it might... if you do not like 561... it is irreconcilable. Irreconcilable. Okay. Thank you.
+
+**(01:45:25)**
+
+
+
+Thank you. Thank you for your passionate testimony. I am Jonathan Corn. Nothing. Corn? Yeah. Just good afternoon. It must be Mr. Jonathan Corn. I live in New York and I have asthma, so this directly...
+
+**(01:45:41)**
+
+
+
+impacts me. I do too. I had something written up. However, I am going to ditch that and address some of the claims I heard. Most prominently, I heard that vehicles are receiving tickets when they were engaged in active processing, like when the vehicle was pumping or using a crane. I heard that they were going to get tickets. I will not take the time to remind the Committee what the law is right now and why that is not true. So reading directly from the law, code section 24-163, operation of a motor vehicle: no person shall cause or permit the engine of a motor vehicle, other than a legally authorized motor vehicle, to idle for longer than three minutes... except as provided in subdivision F of this section while parking. That defines... it gives some more details... and then it gives its exemptions.
+
+The exemptions are: unless the engine is used to operate a loading, unloading or processing device. So your next question is, what is a processing device? Well, luckily that is defined in the rules, Title 15, section 39-01. Processing device, for the purposes of section 24-163 of the Administrative Code: the term processing device means a device that accomplishes the function for which the vehicle or equipment was designed, other than transporting goods or people, via a mechanical connection to the engine, including but not limited to operating a lift, crane, pump, drill, hoist or mixer. I am going to leave my testimony at that. Thank you.
+
+**(01:47:38)**
+
+
+
+Very much. Thank you. You know, we are familiar with the law, but you know, we appreciate that in-depth knowledge of the law and, you know, calling out what you think needs to be called out. We certainly appreciate your patience and your willingness to be here to give your testimony. And that goes for the entire panel. I have no... personally, Harvey, are you going to get anything from this panel? I do, Jim.
+
+**(01:48:09)**
+
+
+
+If that is okay. Yeah, yeah, yeah. Good. Thanks. Yeah, so set at 70, said it in five. Erica,
+
+**(01:48:15)**
+
+
+
+you mentioned that you were open to some changes to Proposed Int. No. 561-A to improve the processing of these complaints. Yeah.
+
+**(01:48:28)**
+
+
+
+Well, one thing that we believe needs to be enhanced is the timing, so you want to provide sufficient time for when people get notified of them. Exactly.
+
+**(01:48:41)**
+
+
+
+So yeah, I mean, there are a number of small fixes that can improve
+
+**(01:48:45)**
+
+
+
+this, which is, I think, what most of us
+
+**(01:48:47)**
+
+
+
+are after. Yeah, basically.
+
+**(01:48:48)**
+
+
+
+So it sounds like we want businesses to know, because that is how you change behavior. If you wait a year, the driver might be gone. You want them notified, but not change the underlying idling laws. Is that what I heard you saying? That certainly is one of the elements that we think should be addressed.
+
+**(01:49:09)**
+
+
+
+Right. So does anybody
+
+**(01:49:10)**
+
+
+
+disagree on this panel that we should notify the businesses sooner that there is a... you can say it orally so we can stay on the record.
+
+**(01:49:24)**
+
+
+
+Yeah, we should be notified earlier.
+
+**(01:49:25)**
+
+
+
+Then we all agree they should be notified earlier, which is great. So it sounds like we agree there should be notification earlier, and that there are existing exemptions within the law for when they are doing their work. Is that what I heard you say?
+
+**(01:49:38)**
+
+
+
+That is correct.
+
+**(01:49:40)**
+
+
+
+So if they are actively doing something, regeneration obviously is a different conversation. It sounds like you have really specific knowledge about how regeneration works, and whether what we heard from the last panel is exactly the way you understand it, right? Yeah, I...
+
+**(01:49:56)**
+
+
+
+Could you please? So...
+
+**(01:50:00)**
+
+
+
+Essentially, the last panel failed to mention the fact that there is a difference between active and passive regeneration. Active is the actual activity when you would pull over and you would quite literally manually activate a cycle. On older trucks it is true that some trucks, unfortunately, you do have to pull over and you will have to manually hit a button. When you do that, what it does is it superheats the filter and essentially burns off all of the chemicals that have been stored inside of this diesel particulate filter. On most of these newer vehicles, however, and I knew it... I mean, pretty much anything after 2009, they also have the ability to do a passive regeneration. What that means is that as the vehicle is simply driving around at highway speeds, or on the West Side Highway or anything else, as they are driving around, it is literally burning off the excess chemicals in the filter.
+
+I do want to note that when they actually go through the activity of doing an active regeneration, that regeneration is almost 30 times dirtier than a passive regeneration. At no point should anybody be doing an active regeneration in a heavily populated area. It is as simple as that. It is incredibly dirty. It is very dangerous for the health of humans in general and it should not be done near populated areas. It is actually so dangerous that if you read the manuals for modern trucks, they specifically warn you not to do it in populated areas and they also warn you not to do it near anything combustible or flammable, specifically because of the high heat and the chemicals emitted. I do also just want to note that this would create almost a situation where there would be a rebuttable presumption. All an industry respondent would have to claim is, we are regenerating. And guess what? How do we go about
+
+**(01:51:46)**
+
+
+
+proving it? Most people, even with my experience, I can maybe get it to 70%. A hearing officer or citizen complainant or anybody else who has had no experience with diesel trucks beyond, you know, filming or seeing them on the road — how are they ever going to determine that a vehicle is regenerating? So you are saying it would just destroy the whole law itself if we created an exemption for regeneration, because the defense would always be, we are regenerating, and it would be impossible to disprove that. Exactly. And so that would result in more idling because people would just always use that defense.
+
+**(01:52:23)**
+
+
+
+And I would also note that this benefits the biggest respondents the most. What I mean by that is large truck and large bus companies. A smaller operation, almost always... most of my clients are small businesses. Usually if you have less than 10 trucks, it is very common to have gasoline engines simply because they are cheaper up front, easier to maintain over the long term, and the fuel was honestly cheaper. Gasoline vehicles would not be able to avail themselves of this particular exemption, but guess who would? Large companies like Academy Bus and things like that that operate thousands of diesel engines.
+
+**(01:52:58)**
+
+
+
+God. So it sounds like I understand this, and thank you, Chair, for letting me ask a couple of
+
+**(01:53:02)**
+
+
+
+questions here. You have got a little more. Good. I think I am going to give you 15 seconds back. Yes, I am not going to give you a hard time, Harvey. Just, you know, do what you have got to do. Okay.
+
+**(01:53:19)**
+
+
+
+Yeah. I really want to thank this panel for their very excellent testimony. And Ryan, did you meet with us numerous times? Yeah, no, no, but it was in the conference room. Okay. Oh, that was you. Okay. Yeah, yeah, yeah. That was a good information exchange session. We are very good. Yes, we certainly do appreciate that.
+
+**(01:53:42)**
+
+
+
+And I would like to say, just to the Chairman, you did ask us in the very beginning. I do not believe Proposed Int. No. 561-A can be saved as currently written.
+
+**(01:53:53)**
+
+
+
+Okay. I mean, that is your testimony. This is why I wanted to have the hearing, to get testimony, to get what people really think about this. And so with that, you know, we have a long day, we have to get on to other panels. We appreciate everyone being here. And now we have the next panel, which I am going to call, and then I am going to have to take just like a two-minute recess while the panel gets itself together.
+
+We have Zach Miller from the Trucking Association of New York, Larry Zombie of Art Delivery Service Company, Pat Highlands of Metro Truck Association, and this is one slip with two people. We have former Council Member Liz Crowley, currently President of the Building Trades Employers Association, with a Samuel, somebody who I am sure knows who he is. And so I will be back momentarily. This is not a recess. This is just... oh, okay. No, no. I want to get everyone's testimony. Yes, you. Good. Okay, do I have to do anything, Counsel, to formally end the recess? No, I just have to go. Okay. Cheers. Liz. Yeah. My God, this is... yeah, I really did a lot with it. You know what I mean, I really did a lot with it. Yeah. I wanted to make sure we were sitting higher than everybody else, you know what I mean, so we are looking down on people. You know, I have sat in that chair and it is just like a little scary looking, you know, particularly me, you know, no one knows what I am gonna do. Oh, this is all on the record. Of course, you know. Great. Okay.
+
+And so, very happy to welcome back to the Council former Council Member Crowley. Yeah. Well, we are not... I am, you know, I am not... yeah. Oh, because I... oh, I called the panel. So this is Samuel, right? Okay. All right, all right. And so, Sergeant, looks like Liz is ready to go, and so I am going to give her the privilege of going first. And so, Liz, very...
+
+**(02:01:58)**
+
+
+
+you know,
+
+**(02:01:58)**
+
+
+
+super to see you again. And please proceed with your testimony. Good afternoon, Chair Gennaro, members of the Committee. I know CM Harvey Epstein was here and the others. He is talking to witnesses outside. These further... help you back interrogating.
+
+**(02:02:16)**
+
+
+
+And all the Council Members on the Committee and the Committee staff. Thank you for the good work you do, your commitment to public service, the environment and cleaner air, and thank you for allowing me to testify today and for the opportunity to speak. My name is Elizabeth Crowley and I am here today. I am the President of the Building Trades Employers Association. I have our Director of Member Services here as well.
+
+The BTEA is a union contractor association. We are an umbrella association that covers over 24 separate associations, and together there are over 1,200 contractors that we represent, including emerging contractors. We share the Council's commitment to clean air. We support the core reforms in Int 0561-2026 as well as Int 0562-2026 and Proposed Int. No. 869-A. But we cannot support Proposed Int. No. 11-A as drafted. Our written testimony submitted today is more extensive and includes recommendations for each bill.
+
+Our union contractors are proud to be paying higher wages and they are among the safest and most community-minded employers, the best in their class, best in the industry. We are proud of that. We are proud of the high standards our contractors set not only for themselves but for their whole entire workforce. We live in your districts. Many of us are small businesses, as I said earlier, and we really care. Liz, please continue. Please continue. You get the, you know, former Council Member...
+
+**(02:04:11)**
+
+
+
+bonus. Thank you.
+
+**(02:04:13)**
+
+
+
+Was that the cost of doing business? My counsel told me not to say that, but I already said it, so...
+
+**(02:04:20)**
+
+
+
+I appreciate it. I appreciate
+
+**(02:04:22)**
+
+
+
+this. I will not be too much longer. But with the cost of doing business in the City so high, our contractors are very conscious about wasting resources when their trucks are idling, and it is often because the engine is needed to do a job, like running a lift, lighting the job site, powering a crane, a pump, a compressor, the warning lights that protect a work zone, and even the decontamination showers that OSHA requires for those that are working on asbestos and lead abatement jobs. These functions cannot always be shut off between cycles without creating safety risks. However, our contractors are often penalized for doing the work that is required of their job.
+
+Int 0562-2026's new processing device definition is a good step, but it covers only equipment mechanically connected to the engine. We ask the Council to define operational idling to include traffic control devices, generators, decontamination units and the pauses that safe operation requires, and to presume that when it is operating, there is visible work underway.
+
+**(02:05:36)**
+
+
+
+Waiting to enter a job site in extreme cold or heat also needs a safe cap. Proposed Int. No. 561-A lets school buses idle for up to 30 minutes below 40 degrees and at 80 degrees or above.
+
+**(02:05:50)**
+
+
+
+We believe our workers deserve a comparable exception. We know fundamentally the current enforcement process is really, we believe, unfair for our members. The process encourages community vigilantes who put honest, hard-working union members in danger. The City has turned enforcement into a business for a few high-volume complainants. And we are also, you know, here to continue to work with the Committee. I was hoping that your colleague could sort of pick up on...
+
+**(02:06:26)**
+
+
+
+Your testimony. Oh, yeah. Yeah, because I am going to get in trouble for closing, thanking you again? Council Member.
+
+**(02:06:36)**
+
+
+
+Epstein and the Committee. Okay, well, what you take over there, so I am going to have to give you a...
+
+**(02:06:42)**
+
+
+
+I know. I am just saying I am so into the environmental people. I have got to give a little more time, but it is, you know, just it is great to see you and it is great to see you so.
+
+**(02:06:51)**
+
+
+
+But thank you. Council Member Epstein and... we are going to share. Could you say your name for the record? I am the Director of Member Relations for the Building Trade Employers Association. I acknowledge that the process is currently flawed, too. Give notice to our contractors and that is a priority, but another priority is really understanding the OATH mechanism to have that deliberation, right? There has been a discussion throughout this Council hearing about what qualifies as idling and we think that there should be stronger definitions, clarifications, enforcements and also requirements for evidence. Because, you know, if our counterpart gets noticed but there is still a question about what should be considered operational idling, our members — 24 different associations — have everything from decontamination units. So, you know, when you are cleaning out asbestos you need to have that kind of engine running. But even, you know, one of our members in the demolition contractors — in order to take all that garbage you have to do things like compression, which necessarily is not captured in these other discussions about what is considered operational. What is considered the regeneration process — it is my understanding it is a little bit different for demolition contractors or varies a little bit for remediation. So, you know, the bus guys have their own thing going on. There are things, but you know, we are going to send very specific recommendations which we think are, you know...
+
+we think there should be good environmental mediation and good environmental justice policies, but we also think that our members should not be unfairly targeted by policies.
+
+**(02:08:43)**
+
+
+
+Thank you. Thank you. And I appreciate that. All right? Thank you both and, oh, here we go, here we go, here we go. Yeah.
+
+**(02:09:06)**
+
+
+
+Zach Miller. Good afternoon, Chair Gennaro, Council Members. My name is... don't break the thing, I think I already did. I am Vice President Fares for the Trucking Association of New York. We submitted detailed written comments. I will highlight our priorities. Our industry does not condone... we did not oppose this Citizens' Air Complaint Program when it was first enacted, but it has gone off the rails, becoming a profitable cottage industry for individuals. Businesses face stacked citations, late barriers to challenge evidence, that undermines confidence in enforcement and the ability to change behavior.
+
+We strongly support Int 0561-2026. It recognizes necessary equipment operation, including refrigerated units and loading and unloading devices, and exempts required diesel particulate filter regeneration, which a report can be generated by the engine. In addition to that, we support Int 0562-2026. Rental and leasing companies should not bear responsibility for conduct they cannot control. Transfer viability must be simple, affordable and operational before penalties rise. We support Int 0869-2026, protections against fraudulent evidence and complaint misconduct. We oppose Int 0011-2026 penalty increases at this time. Advance the reforms first, restore accountability and especially due process, evaluate the results before increasing penalties. We look forward to working with the Council on improvements and I look forward to your questions.
+
+**(02:10:43)**
+
+
+
+Thank you, Zach. I appreciate it and it is a pleasure to see you again.
+
+**(02:10:47)**
+
+
+
+Thank you very much. Thank you for the opportunity to testify. My name is Larry. We handle time-critical medical deliveries for hospitals and laboratories, including specimens, medication and essential supplies. We also deliver thousands of food boxes to New Yorkers facing food insecurity. I have served five years as the President of the New York State Messenger Courier Association, also involved with the Trucking Association, the Queens Chamber of Commerce, the Long Island City Partnership, Executives Association of New York and Entrepreneurs Organization of New York City. I speak only for myself, but these concerns go beyond my business and my community.
+
+I received 30 selected idling summonses from 2023 to 2025, over $32,000 in fines and penalties. Hearings were scheduled 570 to 962 days after the violation — that is more than two and a half years later. Idling fines start at $350 to $600 for a repeat offense and could reach upwards of $2,000. My question: how can a business correct violations promptly when hearings take years and penalties grow so dramatically?
+
+I am asking for practical changes: mail notices within 30 to 45 days showing the mailing date, schedule hearings within 90 days with advance reminders, do not increase fines for repeat violations until the business has been notified of the first one, provide a defined 60-minute Zoom hearing window. I am not asking to eliminate enforcement. We are asking for a fair opportunity to comply. When a hearing takes 962 days and penalties can grow from $350 to $2,000, something is wrong within the process. Enforcement should correct behavior, not simply accumulate penalties. Our industry strongly opposes Int 0011-2026 and supports Int 0561-2026, Int 0562-2026 and Proposed Int. No. 869-A.
+
+**(02:12:40)**
+
+
+
+Thank you for your concern and thank you. I would have a question for you with regard to... I think everyone needs to understand this. You know, fines are put into the pipeline and you do not know about any of them, so you end up getting a first violation, second violation, third violation before you even know you have had the first one. Could you talk a little bit about that? And I would ask the audience not...
+
+**(02:13:25)**
+
+
+
+Yeah, I know, you know me.
+
+**(02:13:31)**
+
+
+
+Okay. You can put your thumbs up and down all you want as long as there is no sound. Okay, so I am encouraging people not to... the individual just...
+
+**(02:13:41)**
+
+
+
+Talk to me about that. We get a fine 570 to 962 days later — two and a half years. How do we protect ourselves from that? And then we are getting multiple fines on vehicles and the driver could be gone already. We cannot even enforce action on a particular driver. That is why I laid out a step program. If we get a violation and we want to pay for it, let us send it out within 30 to 45 days. Right now it is more than two years. Schedule a reminder. Schedule hearings within 90 days. Let us comply in a format that makes sense. But right now we are spending tens of thousands of dollars because of the lack of due process — not because we do not want to comply. That is the right...
+
+**(02:14:21)**
+
+
+
+That is the wrinkle and I am grateful that you are here. You know, we are trying to make a situation that is not working very well for anybody better. We are seeing some behavior change. But we cannot be having this years-long process. So what happens is you would be notified of a bunch of violations all at one time, so you have got a first violation, second violation, third violation, and you never even knew you got the first one.
+
+**(02:15:08)**
+
+
+
+That is correct. And the second violation, third violation accrue and you have to deal with that.
+
+**(02:15:17)**
+
+
+
+You cannot even reconstruct the penalty and the driver is not even there — the driver could be gone. There is turnover. A driver could be gone after a year, year and a half, and we are not getting these violations for over one year, two years, 570 to even 962 days after the fact. Certainly you train your staff to do whatever you want regarding idling, but in terms of calling a driver to task because they were idling, by the time we get the violation it could be that there is turnover and the person is not there anymore.
+
+**(02:15:56)**
+
+
+
+That is correct. So in terms of trying to correct staff behavior, this is another reason why this lapse in processing is a big problem. It is a due process issue. If we make a mistake we are more than happy to make it right. We want to comply. But how do you comply when it is two and a half years later?
+
+**(02:16:16)**
+
+
+
+Okay, I think Zach once again on this... so I will formally ask if you can expect... what?
+
+**(02:16:23)**
+
+
+
+Okay. Yeah. Harvey is going to get you to... yeah, so absolutely. Yeah. It is about evidence, right? Like we talked about on the panel — there are defenses...
+
+**(02:16:37)**
+
+
+
+Could we get a better microphone? It looks like we have got a microphone that is on the fritz.
+
+**(02:16:42)**
+
+
+
+Companies do not maintain those records for two years. So by the time a company gets the summons, they are not...
+
+**(02:16:51)**
+
+
+
+They could have had a legitimate reason to idle, but they no longer have the evidence of that. That is why we need due process.
+
+**(02:17:01)**
+
+
+
+Rights. And we also need a camera program — a program that works incredibly well. The respondent is notified properly, they are able to access the video and they are able to determine if it is worth contesting or if they are guilty and pay the penalty and change their behavior. We do not have that opportunity in this program and that is what Larry was talking about. That is what all of the membership has been saying for years and years and years. It is a due process problem.
+
+**(02:17:39)**
+
+
+
+Okay. I am good from my end. I recognize CM Epstein for questions. Thank...
+
+**(02:17:45)**
+
+
+
+You, Chair. Thanks for hanging out and being here. Happy to. This is an interesting issue that we all have to solve together, you know. So it sounds like everyone agrees that OATH is a problem, right? That is what we hear everyone saying — OATH is not notifying you quickly enough, OATH is not prosecuting these cases quickly enough so you do not even know to maintain information. If you do not even know until six months later that there was a problem — is that what everyone is saying? Absolutely, yes. So one, it sounds like figuring out a way to get notification to go out quickly. Two, is to get access to that video evidence quickly and to make a decision whether you just want to plead guilty and move on or not plead guilty because you think it is not a true violation. What does OATH say when you flagged these issues for them?
+
+**(02:18:43)**
+
+
+
+They do not. We cannot get a hold of them. There is no number. There is no...
+
+**(02:18:46)**
+
+
+
+Answer. There is a Commissioner. She is the former Commissioner. She now runs OATH. She is, you know, a person who meets with people. Can I...
+
+**(02:18:54)**
+
+
+
+Can I make a suggestion? And you are a lawyer — would you be willing to spend some time with one of our members as they adjudicate a hearing at OATH, so you see exactly what that process, or I should say lack thereof, looks like? Yeah, I am happy to, and I have actually appeared in front of... on behalf of... yeah.
+
+**(02:19:13)**
+
+
+
+I was a legal services lawyer. I had a very different job, but I would appear in front of OATH when tenants were trying to get landlords to do things. OATH was not prosecuting those cases, but I am happy to follow up with one of your members to hear what is happening at OATH. I think there are a lot of issues we are grappling with that could be fixed at the OATH level that I think would help this problem.
+
+**(02:19:36)**
+
+
+
+And the other one — and I am sorry to jump in, Zach — is that they are doubling, tripling, quadrupling the fines before we even...
+
+**(02:19:40)**
+
+
+
+Know. So when it is written, if there is no existing violation...
+
+**(02:19:45)**
+
+
+
+It is written as a first violation. It is not yet adjudicated and defined, so it is only if it is being written again that... you know, they could have four or five that are pending, but you already have to have a violation adjudicated to be considered a repeat offender, right? So if they are writing five violations and there is no history of adjudicated violations, they are all written as first violations.
+
+**(02:20:07)**
+
+
+
+You have a fleet, you have one car there on Wall Street, they get a violation, we never get it. The car on Wall Street gets a second, gets a third violation. We do not know, we cannot take action. You are saying because once a fleet car gets a violation that is a repeat offender? You are saying the car gets violations as a repeat offender?
+
+**(02:20:24)**
+
+
+
+The same car gets a repeat offense and we never know.
+
+**(02:20:27)**
+
+
+
+But if there is a violation that you have been adjudicated on already, that is only when you get a repeat... God. Times call so your head.
+
+**(02:20:43)**
+
+
+
+So basically...
+
+**(02:20:43)**
+
+
+
+Ladies, can we? Okay. How about this: the information is not getting on the record, right? But sometimes what happens is you never received the summons at all, but it is in the OATH system. So you were found guilty on non-appearance. And all of a sudden you are a repeat offender, even though you have never received the summons.
+
+**(02:21:03)**
+
+
+
+So there are two issues. One is violations happening. Two is not knowing what is happening. Three is not getting these cases processed quickly enough.
+
+**(02:21:11)**
+
+
+
+I think there is some shared ground there that we could all collectively — if the Chair is open to it — work on, because I think we want you to know, we want you to educate the drivers, we want this to move quickly, we want to make sure that businesses that are trying to do the right thing do not get repeat fines if there is...
+
+**(02:21:32)**
+
+
+
+...not an appropriate idling violation. Yeah, I really do appreciate that. And the last point I do want to make is about Int 0562-2026, because it is a huge problem for the rental and leasing companies as well. For them to have to go back years and try to track down who was operating that vehicle at the time — the companies who they partner with are the ones who keep the records. It does not fall on the rental and leasing companies who do not operate the equipment and do not have those records. The transfer of liability, as it does exist in most other enforcement programs in New York City, is another important part of due process.
+
+**(02:22:09)**
+
+
+
+Sure, I appreciate that. One last thing — they nailed all of them. When we do show up to a zone... Larry, let me ask you a question. You know, I like you to expound on what the Council Member was talking about. I mean, you were supposed to be asked a question before he said everything. He confirmed everything, all those points he said. Get the notices out quickly, 30 to 45 days — he confirmed that. Schedule hearings within 90 days — he understood and confirmed that. He confirmed about the stacking of the fines and we did not get it. And I was just adding one more thing: when our team does go to a hearing they could spend three quarters of a day waiting to show up. So you are not giving a time for those hearings. That was my fourth point — to provide a defined 60-minute Zoom hearing so we could show up and not waste our team's day. I wanted to... I was just pulling Larry in a little because it is not kind of like a grab-the-mic kind of thing for me, you know, but I just... anyway, I really appreciate, you know, everyone being in on what is going on. Everybody on this panel — great to see you, Liz, and we appreciate everything from this panel. The next...
+
+**(02:23:28)**
+
+
+
+Panel is going to look at it a little differently, you know. So thank you, thank you, thank you for that. Okay. Yeah, sure. No, thank you, Harvey. Yeah, great job.
+
+**(02:23:47)**
+
+
+
+Okay, the next panel: Hayden Brockett, representing himself. Raphael Kroll Zaidi. Alicia Raymond. Looks like Kevin McCabe... not Maggie. Oh, Maggie! Oh, McGee, I am sorry. I have a friend Kevin McCabe — he is our former Chief of Staff of the Council. Okay. Thank you all very much for being here. The last panel went from this way to that way. This panel we are going to go from Hayden north. All right, great. That is north, right? It is north. I would not know. I forget which way... I got turned around down here, you know. Yeah, yeah, that is north. All right, good.
+
+**(02:25:09)**
+
+
+
+Good afternoon. My name is Hayden Brockett and I joined with over 30 environmental and good government groups as well as two committees on Manhattan Community Board Seven, which I serve, to oppose Int 0561-2026. The Citizens' Air Complaint Program makes no mistake — it is working well. It is stopping pollution all across our City. There is coverage that tracks pollution and we cannot go backwards on clean air. But unfortunately, that is exactly what this Council is poised to do. I want to talk about what would happen if the suite of bills up for today passes.
+
+**(02:25:45)**
+
+
+
+On Int 0048-2026, I am just going to jump in for a second. I will give you time at the end, but these are not being presented as final — we want to pass some bills. These are all works in progress. So any of them... all we are doing is hearing them because they are not done. They are not where we...
+
+**(02:26:04)**
+
+
+
+Want them to be. I hear you, Chairman. I appreciate that. There have been some edits and amendments that have been made that unfortunately make...
+
+**(02:26:13)**
+
+
+
+The situation worse. And I do not think that is a secret. There are problems. I think that is fine testimony, but it is just like we are not, you know... I am not angling to pass these bills tomorrow. Okay. That is good.
+
+**(02:26:23)**
+
+
+
+If Int 0048-2026 were passed to open up the Citizens Air Complaint Program to New Yorkers who do not speak English, that would be good. They have been locked out of the program since the Adams administration, and it sounds good. But unfortunately, Proposed Int. No. 561-A slams that same door shut with dangerous new loopholes that effectively legalize all diesel engine idling and all school bus idling for half a year. It requires throwing out now what sounds like 230,000 pending complaints, and going forward would throw out many other complaints because they cannot meet that deadline. You may as well not have a program. It is terrible for our air, and to add insult to that very real and life-threatening injury, those New Yorkers who got their first shot at participation... this Council would say so. Just keep going. If you do not get the same portion of that which has been on the books for the last 55 years, because Int 0869-2026 is cutting citizen awards just as you get to participate.
+
+**(02:27:26)**
+
+
+
+And I think that is a terrible message to those New Yorkers.
+
+**(02:27:28)**
+
+
+
+And the Bill cannot be resurrected. I do want to talk about Proposed Int. No. 11-A. I think it sounds good that it raises fines for corporate polluters, but unfortunately it is going to undermine compliance because all but the biggest violators will skip out on those fines. Today, the stats show nearly 40% of idling violators ignore their tickets, which, let us be clear, run from $350 to $600 — they just do not pay. Collection attempts are unfortunately not successful. So there is a $3,000 fine in Proposed Int. No. 11-A, and that message unfortunately does not send compliance. It is too high.
+
+The message is that it is all for show, and I think in fact you can have less compliance if fines are too high. That is bad for air. So I think if this Bill passes, we are all going to need to start wearing gas masks again. We cannot go backwards on clean air, and I think the Council unfortunately cannot be playing politics with our health.
+
+**(02:28:30)**
+
+
+
+Pardon? Oh, yeah. Too close to each other. Oh, I see. All right, all right. So look, let us let the rest of the panel finish testifying.
+
+**(02:28:43)**
+
+
+
+One last thing — I am happy to answer any questions you might have about the repeat violations issues.
+
+**(02:28:51)**
+
+
+
+Thank you. Thank you, and please proceed with your testimony. Your name for the record, and we will commence.
+
+**(02:28:58)**
+
+
+
+Hi there. My name is Alicia Carmen. I participate in the program and I support Int 0048-2026. Translating the portal would help people like my mom, whose first language is not English, and would expand protection of our air quality to communities that are not being sufficiently covered and protected. Your ability to protect your community should never depend on the language that you speak.
+
+However, it is shameful that just as we are opening up this program to immigrant communities, Proposed Int. No. 561-A would effectively shut it down through the back door. It would do that in two ways. The first is the requirement to throw out violations that it cannot process in 60 days. It is currently taking around 12 months to process those violations. This means that a year's worth of pollution violations would be tossed out, and in effect no new violations would ever be able to be processed in the future because DEP is currently not staffed to meet that kind of timeline. Polluters would get a free pass and we would lose our ability to protect our air quality going forward. Pollution does not become less harmful just because the violation has been sitting in somebody's inbox for too long.
+
+The second thing is the diesel regeneration exemption, which would allow idling when a truck is burning off soot. But there is no way for me or the reviewer to confirm whether that truck was actually doing that. So the result is that any time an idling truck gets a violation, they could just say they were doing diesel regeneration. There would be no way to disprove it. So it is a get-out-of-jail-free card. Again, polluters would get a pass and we would lose this important mechanism to enforce our clean air laws.
+
+So these are back-door ways of dismantling enforcement. One lets the clock excuse pollution. The other is a loophole that residents cannot challenge. Both of my parents were truck drivers — long-haul truck drivers. They also deserve clean air. Everybody in this room does, whether you are a known environmentalist or from the industry. So I ask you to please pass Int 0048-2026 and reject Proposed Int. No. 561-A. I do not think it is resurrectable. I think the one thing that needs to change is better staffing for DEP to get through these violations and restore its power to protect.
+
+**(02:31:14)**
+
+
+
+Thank you. Thank you. We certainly wish... okay, I am back. Certainly it would have been nice to have you here today because we had questions along the lines of those from the first two witnesses. We do not want to skip steps. Let me go to the next two witnesses. Thank you for your very good testimony — we appreciate it. And hey, if you think it is not resurrectable, we want to hear that. I mean, I am a big boy, I can take it. So yes, hang on.
+
+**(02:32:18)**
+
+
+
+Raphael Kroll. I wanted to say it correctly. Thank you, Chair. Red light and speed cameras were kind of a watershed moment for traffic enforcement in New York City. No longer could vehicle operators — unless they got particularly unlucky — continue breaking the law without consequence, which is still the case for most moving
+
+**(02:32:41)**
+
+
+
+violations and administrative infractions of all kinds. Idling enforcement, which uses the eyes, ears and phones of citizens throughout the City instead of stationary cameras, brought a roughly comparable level of enforcement to vehicular air pollution. As with the robot cameras, not for every block, intersection or hour of the day, but enough to make operators think twice and not break the law in the first place. The response: greater City revenue, greater compliance, and also some pushback — sounds familiar. The New York Post reported back in 2024 that the resulting vehicle plate defacement by scofflaws was soaring and costing the City $200 million a year in uncollected tolls and tickets. Did the Council start seriously entertaining a bill to legalize ghost plates or restrict the use of ticketing cameras? Of course not. But private car drivers worried about tickets — myself included — do not have the lobbyists that the trucking and bus industries have. Now those industries are complaining that they do not like the fines they are getting for breaking the law, and they would like to go back to the good old days when getting an idling ticket was the equivalent of getting struck by lightning. The question is not
+
+**(02:33:45)**
+
+
+
+why is there so much enforcement in these particular areas, but why is there not more enforcement in other areas where public health is at stake. I would like to address summons delays and transfer of liability. DEP already has the ability to batch certain complaints for priority review, so that those fines can be passed along, and also to send non-summons heads-up letters to the named respondents as soon as new citizen complaints come in, along with access to the video evidence. I agree with the previous speaker 100% on that. It is basically about flipping a switch in a computer — they could do it tomorrow. Proposed Int. No. 561-A would be destructive. Proposed Int. No. 11-A would act as cover in this context. In combination with Proposed Int. No. 561-A, that would be like saying we are going to double the speed camera fines — oh, and also we are going to remove 95% of speed cameras. DEP already has the authority to increase fines reasonably. Only Int 0048-2026 would improve the program. I volunteered training Citizens Air Complaint Program participants in the South Bronx, so I have seen that firsthand. Thank you.
+
+**(02:34:49)**
+
+
+
+Thank you very much for your good testimony. You were talking about how DEP has the ability to do what tomorrow? I was trying to follow along — could you go through that again?
+
+**(02:35:03)**
+
+
+
+There were a couple of things, Chair. One is that they can adjust the fine schedule without a legislative change. Another is that there are a variety of solutions that can be pursued as stopgaps to ensure reasonable notification times for respondents, and that would include sending a heads-up letter to the named respondent in a complaint along with access to the video as soon as that comes in. That can be auto-generated. Maybe they could save on first-class mailing by doing it only for fleets that have not received penalties before, but why not do everyone? It is a small drop in the bucket compared to the overall income. Finally, I was trying to keep the interests of equipment leasing companies in mind.
+
+**(02:35:55)**
+
+
+
+DEP already batches certain complaints for priority review — for example, for Con Ed, that might happen in a month or two as opposed to 900 days for other people. What I am saying is that they know who a lot of the equipment leasing companies are, and that those companies have a particular interest in passing along fines. There is nothing stopping them from having a filter in place to prioritize those for review as another way to address some of the problems from the backlog.
+
+**(02:36:25)**
+
+
+
+Well, I certainly appreciate that excellent testimony, and this is why we are having this hearing. Thank you for your valued addition to it. And Kevin Magee — yes, thank you.
+
+**(02:36:43)**
+
+
+
+Okay, sure. I am a participant in this program. I have a day job and I do this in some spare time. Last time I testified, you were fascinated about my interest in doing this because I walk 12 miles a day — it is something that I was already doing before. How many miles a day? 12 a day. Wow. I was already doing it. You were fascinated before when I testified about nine to
+
+**(02:37:04)**
+
+
+
+one. A member has already
+
+**(02:37:04)**
+
+
+
+decided to cite the figure of 2,400 deaths a year from air pollution in New York City. Illegal idling contributes to that. It is very much preventable, and I believe as a participant in this program that the Citizens Air Complaint Program works. This law was practically unenforced for almost four decades and has finally some teeth to it.
+
+Could you speak a little louder, closer to the mic? As participants, we have watched major fleets change their behavior, including Con Ed, Amazon and Verizon. We do not see them idling nearly as much as we used to, because this enforcement changes behavior.
+
+But air pollution has a particularly cruel feature: its consequences are indirect and its victims are easy to overlook. A child in an under-resourced neighborhood has an asthma attack. Someone develops lung cancer. An older New Yorker dies of stroke or heart disease earlier than they would have otherwise. We rarely see that connection, because unfortunately that just makes it easier for elected officials to fail to protect them and to ignore it without consequence. But these lives matter. I apologize for the grim analogy, but if a gunman walked into a school and exacted a quota every year, wiping out a classroom, we would not accept that as a minor policy trade-off. We would not accept that as a bargaining chip in regular political horse-trading. The victims of pollution deserve no less simply because their suffering is less visible. So I would urge you to reject Proposed Int. No. 561-A in its entirety — I do not think it is redeemable — but support Int 0048-2026 to bring this program to the communities that need it the most. Thank you.
+
+**(02:38:57)**
+
+
+
+I want to thank this panel for the great value they brought to today's proceedings, and the sincerity with which the testimony was presented. It is truly heartfelt, not just a mind exercise, and we really appreciate you being here. We look forward to being in touch with you as we carry on dealing with all these bills. I appreciate it.
+
+I am going to call the next panel. The next panel is: Patrick Condron, representing the Bus for Coalition; Glenn, representing the Bus Association of New York State; Henry, representing the Long Island City Partnership; Nicholas, representing Edge Auto — I think. Anyone else? I guess one person. Nicholas Day. Okay. Henry Smith. Rather than put in someone fairly to speak, because we have got to get going — Ernest Weld. Okay. Ernest can be put in with the industry panel. People representing industry have indicated on their slip. We are joined by Sierra, the other counsel to the Committee. Okay, I did not see her. Now, we want to start to my right with Ernest, and then we are going to head down. You have got to use the microphone. My name is Ernest
+
+**(02:42:46)**
+
+
+
+Welding, and I am speaking in opposition to Int 0011-2026, Int 0561-2026, Int 0562-2026 and Int 0869-2026, and in favor of Int 0048-2026. On Proposed Int. No. 561-A, it is unrecoverable.
+
+Over the past five years, there have been about 250 traffic-related fatalities per year for a total of 1,264. There have been about 400 homicides by gun per year for a total of 1,990 over that same time period, according to the Department of Health. And per today's testimony, there have been approximately 2,400 deaths due to poor air quality every year for a total of 12,000 people, plus countless other health issues. The Department of Health attributes these deaths to two air pollutants: ozone and PM2.5. The largest contributor in New York City of these pollutants is idling vehicles. In fact, idling is the largest single source of illegal air pollution in New York City.
+
+Just to put this in context: if there were 2,400 murders by gun in New York City every year, the Governor would likely call the National Guard, and it would be the singular focus of City Council. But what does City Council do when confronted with 2,400 deaths per year? They call a hearing to minimize the best program that is actually reducing that staggering death toll. You have heard over and over today how effective this program is in reducing illegal idling in New York. In fact, it is really the only street-level environmental law that is enforced. There have been virtually zero tickets for plastic bags, straws and open doors during air conditioning season. You are great at passing laws, but the City is awful at enforcing them.
+
+Proposed Int. No. 561-A violates the State Constitution, Article One, Section 19. It is short but straightforward: each person shall have a right to clean air and water and a healthful environment. This Bill, if passed, would clearly violate this provision of the State Constitution. There has been no analysis of what this will do to air quality. Thirty minutes of idling in front of a school affects small children, who are among the most affected by poor air quality. Unlimited diesel idling for regeneration would be permitted. If this Bill is passed, it will definitely decrease New York City's air quality.
+
+You must not violate your duty to protect our environment. It is incredible that with all the environmental issues facing the City, we are focused on rolling back protections for New Yorkers. This is a polluter-friendly bill. It would give billion-dollar corporations a major break. It would be a sad takeaway if the takeaway here was that City Council is protecting polluters by harming New Yorkers. This does not make the program better. We need to change the incentives by lowering the citizen share. Please vote no on Int 0011-2026, Int 0561-2026, Int 0562-2026 and Int 0869-2026, and yes on Int 0048-2026.
+
+**(02:45:40)**
+
+
+
+Hang on, Nicholas. Okay.
+
+**(02:45:41)**
+
+
+
+Yeah. Thank you, and thanks for giving us the time to be here today. My name is Nicholas. I am with Edge Auto Rental, an independent employee-owned vehicle rental company. We employ approximately 60 people here in New York and we have been in business here for... I do not know what we do now. It is just those things do not plug into anything.
+
+**(02:46:07)**
+
+
+
+Testing. Testing? Yeah. Okay.
+
+**(02:46:10)**
+
+
+
+This year alone we received more than 175 idling summonses totaling over $80,000. We have recovered about $20,000 from our customers, leaving our company to absorb approximately $60,000 of penalties. The problem is, we did not idle the vehicles — our customers did. We were not driving them. They are not our employees and are not operating the vehicles. We had no ability to prevent these violations. We are the ones being penalized. Making matters worse, as we have heard earlier today,
+
+**(02:46:41)**
+
+
+
+Summonses routinely arrived six months to more than a year after the alleged violation, long after the rental has ended and our customer has disappeared. Many of our trucks must run their engines, as we have heard earlier today, to operate equipment including lift gates and refrigerating systems. That is not unnecessary idling — that is doing the work the vehicles are designed to perform. We are asking the Council to take three important steps. First, pass Int 0561-2026 to allow liability to transfer from rental companies to the actual renters. Second, adopt the procedural protections in Proposed Int. No. 561-A, including timely notices and recognition of legitimate engine-required operations. Third, do not increase the penalties under Proposed Int. No. 11-A until these fundamental problems are corrected. Our company has invested millions of dollars in clean vehicles. We want to be part of the solution, but environmental enforcement should punish the party responsible for the violation, not the business that happens to own the vehicle. We respectfully ask the Council to fix the system.
+
+**(02:47:49)**
+
+
+
+Thank you. Thank you very much. You have painted a portrait of a system that is not working the way it should, and so that is why we are here today. We value your on-the-ground understanding of what this all means to businesses. Glenn, go ahead.
+
+**(02:48:14)**
+
+
+
+Bus Association of New York State. Yes, thank you, Chair Gennaro. I am Glenn Avery. I am President of the Bus Association of New York. We are also known as BANY, and we have been around as an organization since 1938. We are proud to advocate on behalf of private bus operators and the riding public that they serve. BANY is opposed to the inclusion of motor coaches under the anti-idling restrictions under the Citizen's Air Complaint Program. Unlike the buses operated by our members, public transit buses are not subject to enforcement under the program. They use the same equipment and have the same compliance difficulties that our members have. So the net result is that private operators, who have far fewer buses on New York City streets than public transit, are the only target of enforcement against buses. This is revenue generation, not sound environmental policy. Modern motor coaches are designed with a main diesel engine that not only provides for the propulsion of the vehicle but also powers safety, environmental, electrical and other systems that are necessary for the safe operation of the vehicle, the well-being of passengers and the protection of the environment. Until technology develops to the point where that fundamental design can be changed, compliance with the three-minute rule can be very difficult. We are not advocates for unlimited or unnecessary idling. To the contrary, our members do not want to waste fuel and they do not condone that.
+
+**(02:50:06)**
+
+
+
+So I would like to jump off my script, if I could, to address a specific request that you made — that we talk about specifics about Int 0011-2026. We are opposed to Proposed Int. No. 11-A. Increasing the fines is of little additional deterrence value. Fines are already at a level where motor coach operators are choosing to avoid New York City. I will continue... I am sure — why do we not just finish the panel and I will formulate a question for you. Thank you. Patrick, right? Patrick, thank you. Go ahead.
+
+**(02:50:50)**
+
+
+
+State your name for the record. I am Patrick Condron, the administrator of the Bus for Coalition, which was formed in 2018 to address issues in my industry, which I have been a lifelong industry member of, and a BANY board member at that time. In 2018, pricing was an issue, and unfortunately some are not exempt in the area, but all of our operators are exempt. We are part of the public and private transportation system, providing public transportation in New York City. I was one of the owners of the franchise companies back...
+
+**(02:51:32)**
+
+
+
+in the day. I work with the operators today. Having said that, a bus is the most efficient, environmentally efficient passenger vehicle on the streets of New York. Regarding oversight of the Citizen's Air Complaint Program, we support changes to this program. As you just pointed out, bus lines, rail lines and airlines are passenger-carrying, not cargo. The issue today is that New York City policy includes buses as part of the public system, just like all the buses in Queens and Brooklyn, where I was, and there are 170 bus lanes because all public buses ride in the bus lanes and are exempt. We are treated just like trucks. Everyone at this panel earlier today was talking about cars and trucks. It is our position that, just like congestion pricing and just like parking, numerous other City rules mean that private buses, just like public buses, should be administratively exempt from the actual fines. Today there are millions of dollars and thousands of tickets being issued to private bus companies. As was pointed out, operators do not want to come into New York City anymore. So the three-minute rule is untenable. The federal guideline is 15 minutes for buses to idle if they have to. We believe that at this point in time, people should be reminded that 55 people on a bus is the most environmentally sound vehicle on the streets of New York, and they should be treated the same as publicly owned buses.
+
+**(02:53:07)**
+
+
+
+Thank you. Before I pose questions to this panel, I called Josh up for a second. I just have to come up to the dais — I just have to talk to you. Just come up to the front here. Hit here. What is that? One more for...
+
+**(02:53:46)**
+
+
+
+No, no, I was going to say I need a candy bar. It is a sugar thing.
+
+**(02:53:58)**
+
+
+
+Right. I want to ask you about your testimony. You were just on the cusp of telling me something that I think I should know, and I want to ask you what that is.
+
+**(02:54:09)**
+
+
+
+Yeah, just addressing the specifics of Proposed Int. No. 561-A — if I am correct, I believe it expands the definition of processing device, and it also exempts systems that quote "control the environment of temperature-sensitive cargo." I would ask that you consider that human beings on a bus be considered temperature-sensitive cargo. To put human beings in a bus that is over a hundred degrees because it has been sitting in the hot sun, where the windows cannot come down and the driver cannot turn the air conditioning on for an appropriate amount of time — that is... yeah, because we are doing the same for school buses and...
+
+**(02:54:51)**
+
+
+
+...the same thing on the cold side. Okay. Let me just hang on. Let me just talk to counsel for a second. I just want to clarify a point regarding Patrick's testimony. She made that clear to me, and I want to thank this panel for all the valuable input you have provided. The whole bus issue — how we handle it — so thank you. We look forward to being in touch with everybody on this panel on how we can proceed. That sounds like something a politician would say, but that is actually what I mean. Thank you all very much. We are happy to follow up. Thank you. Next panel. Okay, Dietmar... okay. George Pakel or something. Okay. Michael McFadden, representing himself. Timothy... David... the last name looks like Spinner, I think, and the first name begins with an I. How many people... what is that? Oh, sure. Please. Okay, I want my phone. So we have everybody, right? We will have to pass around the mic so we get good sound quality. The last panel I started on this side, so this panel will start on this side. Please state your name for the record and begin with your testimony. We have a lot more witnesses, so I am going to have to be more strict on the two-minute limit.
+
+**(02:58:45)**
+
+
+
+I apologize. Hello. Good afternoon. Members, my name is Timothy David and I am a resident of Hell's Kitchen. I am here today to speak in opposition to Proposed Int. No. 561-A because it weakens one of New York City's most successful air quality programs. From hearing everyone's testimony, I really do appreciate it. I understand both sides, and I am speaking for myself and on behalf of my spouse, who is a member of the New York Clean Air Collective, and who spends many hours every day listening and observing all the things that they go through. I do wish that at the end of the day we will all be as healthy and well, and that is what I think we all wish for every individual. Thank you very much again for your...
+
+**(03:00:28)**
+
+
+
+...time. Well, thank you. I think your testimony was kind of like a mission statement for everyone in this room. We are coming from different perspectives, but we want to have as safe and environmentally friendly and pollution-free a New York City as we possibly can, given the fact that the people who live here — and God knows how many people are here during every weekday who come into Manhattan to work — it is a challenge to get everything right. But it is always nice to come back and touch home plate, and I think that is what you did for us here today. I appreciate that.
+
+**(03:01:22)**
+
+
+
+Good afternoon. My name is Eileen Spinner, and I am here to support the Citizen's Air Complaint Program.
+
+**(03:01:34)**
+
+
+
+If you speak a little closer to the mic, that would be great.
+
+**(03:01:41)**
+
+
+
+I am here to support the Citizen's Air Complaint Program, which is working very, very well. I have asthma, and the nearly 50 years that nobody bothered to enforce the anti-idling laws on the books probably did not help with that. The City's anti-idling laws have only really been enforced in the past seven years, and only because citizens have stepped up to do this important work.
+
+I am testifying against the very dangerous Proposed Int. No. 561-A. At least 25 different environmental and civic groups oppose this bill because it is nothing less than a corporate giveaway by the City Council to polluters. It also opens up a dangerous loophole around diesel regeneration, which is an extremely dirty process, especially in our City. There is a reason it is already illegal to regenerate in the City. Let us keep it that way. To be clear, we must expand access to this program to all New Yorkers, including the 2.5 million who do not speak English as a first language. I strongly support Int 0048-2026, though it is not really necessary because the mayor could fix his predecessor's misguided policy today. I also support raising fines, but again, Proposed Int. No. 11-A does not need to exist at all because the mayor's administration already has the power under the law to raise fines. We cannot go backwards on clean air. I am very troubled that this hearing is even happening today. Who is supporting Proposed Int. No. 561-A? This bill has zero co-sponsors. The Council staff amended this bill in response to criticism and the amendments made it worse. As drafted, Proposed Int. No. 561-A would effectively legalize diesel engine idling and give a hundred million dollars to polluting corporations. If there is a battle of wills between the Council and the mayor, I say stop playing politics with our health. I implore you not to pass...
+
+**(03:03:28)**
+
+
+
+...Proposed Int. No. 561-A. Let us not turn the clock back on clean air and good...
+
+**(03:03:34)**
+
+
+
+Thank you. Thank you very much for your compelling testimony. Next witness. Oh, I just have to talk to counsel really quickly. If you only knew what we were just talking about — should I put this on the record?
+
+**(03:04:09)**
+
+
+
+Do not. Okay. Please, just talk right into the mic and proceed with...
+
+**(03:04:22)**
+
+
+
+State your name for the record and proceed with your testimony. My name is George Pakel. I am a filmmaker and the producer of the documentary film "Idle Threat: Man on a Mission," and I am a board member emeritus of the New York Clean Air Collective. I am 76 years old, and 20 years ago I became aware of the persistent problem of air pollution caused by needless engine idling and have been fighting the fight ever since.
+
+The trucking and bus companies have their arguments in support of Proposed Int. No. 561-A, but I think they are after higher profits and less government oversight. I oppose Proposed Int. No. 561-A because it threatens to destroy all the good work the New York Clean Air Collective has done fighting air pollution in this city. I contend that the clean air that the Citizen's Air Complaint Program fights for is better public health, and that is the core argument here, not profits or government oversight.
+
+I suggest that any Council members who are curious about the facts and figures behind engine idling as a public health issue please visit the Environmental Defense Fund website and look at the study called "Idling Gets You Nowhere," a comprehensive research document. If you need a more practical approach, I have a suggestion: when the meeting concludes, go outside on Broadway, find an idling bus, take a deep breath, and afterwards it should be clear to you that Proposed Int. No. 561-A should not pass a Council vote in its current state and become law. Thank you.
+
+**(03:06:09)**
+
+
+
+All right, thank you very much. I appreciate you being here and being patient and giving us the benefit of your views. Hang on — who is it? Dietmar? Okay. Yeah, I just have a confession to make. I am having a sugar episode, and so I have to eat a candy bar. As I was saying during your testimony — all right, I apologize, but if I am going to continue sitting upright I have to put health first. Cheers. Thank you.
+
+**(03:06:55)**
+
+
+
+Thank you for the time. My name is... I am a Queens resident and an active citizen complaint reporter. The City Council should be proud of what the Citizen's Air Complaint Program has accomplished. For decades, commercial trucks and buses routinely idled on the streets with no enforcement. Today, many fleets have changed their behavior. New Yorkers can already see, hear and breathe the difference. Enforcement is increasingly reaching the fleets that have not yet adopted compliant behavior. However, some are seeking relief from the Council. Int 0561-2026, Int 0562-2026 and Int 0869-2026 would provide that relief for polluters and move us in the wrong direction. That would weaken enforcement and discourage citizen participation just when the program is beginning to realize its potential.
+
+Proposed Int. No. 11-A is not the solution either. Aggressive penalties raise the stakes for drivers and complainants, encouraging confrontation and non-payment. A reasonable inflation adjustment would be preferable. I support Int 0048-2026 for language access, but accessibility also requires timely feedback and training. Thousands of New Yorkers have registered for this program. How many gave up because it took over a year to tell them their complaints were defective? We need more successful citizen reporters, not fewer. Broader participation will generate greater compliance, leaving fewer violations for anyone to report. Above all, DEP needs the resources and direction to process complaints within the existing 45-day period. Respondents should learn about violations promptly while they can still change their behavior. The Council should let this successful program mature rather than undermine it halfway through transforming New York City's idling culture. Thank you.
+
+**(03:08:58)**
+
+
+
+Thank you very much. I am certainly learning a lot at this hearing about what DEP could and should do. I want to get rid of its backlog. I am very happy that so many people came out to give us the benefit of their views. I might need a candy bar during the hearing, but I am not on my phone — I listen to every word, and I am very grateful to the staff both in the audience and on the dais here, processing every word that is spoken.
+
+I never pass bad environmental law, and after 18 years of chairing this committee we have had a lot of hard challenges. This is a very hard one. But everybody can do more, and let us just figure it out, because it is just... people are getting jammed up on it. Anyway, I am carrying on, but the purpose of what I am saying is that I am attesting that we will work with all of you to try to get the best result we possibly can. What we have right now is not working the way it could, and so we need to do better. I think everybody agrees on that, so let us go out there and do it. This Council and this panel have helped us down that road. I appreciate it. Thank you very much.
+
+I did not buy candy bars for everyone. I am sorry. Do not forget you, Cadillac — there is a person whose name is Cadillac; it is a long story. I need the next panel. David Dominguez, I believe, representing himself. Justin Bernstein. Brian... Mike Streeter. Want to take these? All right, we are going to start. Which way do we start? All right, we are going to start going north. So I have one operating mic.
+
+**(03:12:35)**
+
+
+
+Yeah, I just got to make sure the light is on. All right.
+
+**(03:12:38)**
+
+
+
+Yes, please. Thank you. Chair, my name is Mike Streeter. I am a founding member of the New York Clean Air Collective, but I am speaking on my own behalf. I submit idling complaints. Let me just start off by saying Int 0048-2026 — good, please pass it. It is long overdue. Proposed Int. No. 561-A is unfixable, and Proposed Int. No. 11-A is not necessary in my opinion.
+
+Regarding an earlier question from the DEP representative: it is shocking to me that some industry reps are not aware that fuel pump vehicles are already exempt from idling. DEP will reject any complaint for a vacuum truck, fuel truck, food oil truck, et cetera, if there is even a possibility that work requiring the engine is taking place. Period, end of story.
+
+And to the rep from the Interior Demo Contractors Association: most compaction trucks wait until they have enough bins to start compacting continuously. That is how they avoid tickets. We see it all the time, and their operators can do that. Also, there is no such thing as an exemption sticker that is being ignored. As someone brought up, the stickers that are issued merely reflect the existing exemptions that tracked equipment already enjoys under the law.
+
+And then regarding aggregate cement: I live near Third Brooklyn, which is where Thomas Screen Playground is. Last year, aggregate cement trucks were there nearly every day with one and sometimes two big, loud trucks idling for hours on end. People live there, people work there and kids play there. The idling was incessant, and I am shocked to hear anyone try to defend that. There is no reason for trucks of that type to be idling that long away from the
+
+**(03:14:32)**
+
+
+
+work site. And guess what — they caught on, and they suddenly were able to shut off. On that note, I know. Go ahead.
+
+**(03:14:40)**
+
+
+
+I wanted to talk about misinformation, but I have got to...
+
+**(03:14:43)**
+
+
+
+You know, we have got a number of witnesses left and they have got to get on with their lives.
+
+**(03:14:48)**
+
+
+
+To be at least close to... sure.
+
+**(03:14:51)**
+
+
+
+Yeah, I mean, that was the gist of my discussion — misinformation. There is a lot of misinformation out there.
+
+Thank you. All right. Thank you very much. I appreciate your good testimony and your patience in waiting to deliberate. Okay. All right.
+
+**(03:15:08)**
+
+
+
+Yes, sir. Good afternoon, everyone. I just want to introduce myself. My name is Justin Bernstein. I am a participant of the idling program. I was born and raised in Brooklyn — a true Brooklyn native. I have always noticed there was a problem with trucks and buses idling, especially in the city. I always thought it was just part of life being in the big city.
+
+My story is probably going to be a little bit different because I was homeless for quite some time in the lower Manhattan area. I saw firsthand how there would be buses and trucks of all sizes idling nonstop. You could not walk down Canal Street without seeing a fleet of coach-sized buses idle, and there was really nothing you could do about it before. There has always been a law against idling, but it was not enforced. This is the first of many examples that made me want to take action when I discovered the idling program.
+
+Once this program began, it did not take long before things changed. I saw firsthand how this program changed the driving habits of a lot of drivers. Companies were being held accountable, and through that accountability, change was being achieved. I am proud to say I helped in this process and the opportunity the City gave every citizen to do what they can do. I am honored to work with all the good people involved to make this a positive change in this city.
+
+I am just one New Yorker, and a lot of people besides myself have put in a ton of work into this project, and it would be so crushing for all of our hard work to possibly be tossed out. I believe there are tools available to make this program more efficient and easier for all parties involved. Just being able to participate in this program helped me tremendously when there were no other opportunities.
+
+I say no to Proposed Int. No. 561-A. We already have a lot of stipulations with refrigeration units, lift buses picking up and dropping off, active processing devices, and trucks use all these excuses. I see trucks use lift gates — they turn on and off to avoid the timer, basically reset the clock, so you would have to start the three minutes over again. All these are already being used to abuse the system. I have seen this happen in the field. Once drivers are aware they are able to cheat the system, from what I have seen, they will cheat the system.
+
+**(03:17:16)**
+
+
+
+Thank you very much for your compelling testimony and personal history and story. We are grateful to
+
+**(03:17:30)**
+
+
+
+hear you today. Good afternoon, everyone. My name is Barbara Katrina Harvey and I am a participant of the Citizen's Air Complaint Program. My concern for air quality started from a very young age, since the Coney Island waste treatment plant is right next to where I grew up, and I miss the smell of foul matter every time the weather is nice.
+
+Imagine my enthusiasm when I discovered that I can be part of a program that seeks to reduce pollution and improve the quality of life for my neighborhood while getting rewarded for it. I enrolled in a public health course where I learned that public health is primarily the responsibility of government, but the success of a public health enterprise must involve all sectors of the community. This is why I am here today to testify against proposals such as Int 0561-2026 that undermine community efforts for the benefit of out-of-state corporate entities, and to advocate for proposals like Int 0048-2026 that extend opportunities to reduce pollution to New Yorkers in all boroughs.
+
+Adopting Proposed Int. No. 561-A is detrimental. Negligent companies would be given a pass at the expense of our neighborhoods. They complain that fines are unfair, but in my experience, what is unfair is these companies and their employees coming into our streets from their out-of-state headquarters and releasing air pollutants as they complete their work quotas. The money that Int 0561-2026 will be saving these entities is not likely to be used to remediate their negligent practices, and hence will not benefit our communities in any way.
+
+The revenue that participants are rewarded as a result of the program is circulated back into our local economy. As it shows in the face of grim public health statistics on air pollution, the program has brought great benefits to our city. One of these is the empowering of concerned citizens from all boroughs to seek fairness. Int 0048-2026 serves this purpose. As someone from a multicultural neighborhood, I can attest that those whose first language is not English are often the most exposed to environmental hazards and the hardest working. They deserve the opportunity to advocate for themselves.
+
+Please do not undermine this program with Proposed Int. No. 561-A, and instead look towards supporting the health and livelihoods of our communities by considering Int 0048-2026. I would like to end by saying that unlike polluting industries that are profiting from our neighborhoods and advocating for this environmental harm, we are working towards improving the lives of all New Yorkers, since we believe that everyone who works hard to keep the city running deserves cleaner air — even the employees of corporate polluters, even those in favor of Int 0561-2026 and especially their families. So vote no on Proposed Int. No. 561-A and yes on Int 0048-2026. Thank you.
+
+**(03:19:54)**
+
+
+
+Thank you. Thank you for coming. Yes, please commence — your name, please.
+
+**(03:20:04)**
+
+
+
+My name is Sarah O'Brien. I am 24 years old and a native New Yorker raised in Queens — your district, actually. I grew up here and went to public school my whole life. I still live here and intend to stay here in this great city. I am a proud New Yorker and believe I have a lot to live for. I try to take good care of my health within my means — you know, exercise, eat well. I do not drink and I certainly do not smoke. And despite that, being that I live in this city, I am at risk of lung cancer.
+
+Why is it that 20% of lung cancer patients in the city had never smoked a cigarette in their life? This is why I am ashamed to see Proposed Int. No. 561-A. Why would anyone propose such a bill that puts this amazing program at risk? A citizen-led program that has generated over 350,000 complaints. A program that has generated over $145 million in fines and, above all, protected public health — public health for every New Yorker from all walks of life.
+
+I was five years old in 2007, and I remember how much worse it was then, before the program. Going to school in Queens, children of this city still have to go to school and breathe the exhaust from delivery trucks, construction vehicles and their own school buses sitting idle for hours on end. Their fragile lungs cannot handle that. Why should they? Because the truck or bus driver wants to take a nap, eat lunch, charge their phone or run the heat? New York City children brave the cold to walk to school, bundled up in their proper clothes. And these grown men and women — they cannot do the same to stay warm and not foul the air that we share.
+
+We need more people submitting complaints. My mom speaks Arabic as her first language and wanted to participate in
+
+**(03:21:52)**
+
+
+
+the program, but because the program is only available in English, she cannot. I mean, I heard the DEP testimony earlier. It is a joke that they say they offer instructions in other languages, because that is not the same as translating the portal. Thank you.
+
+**(03:22:10)**
+
+
+
+Thank you very much. You know, the program is working, but in some aspects it is not, and the current iteration of it is certainly not where we want to land. But I appreciate the input of everyone on this panel. I have learned so many things today. This is an innovative process, and I appreciate everyone's good testimony and being here, sharing your personal stories. It really helps, and I thank you for your patience in being here. But I have got to move on to the next panel. Thank you.
+
+The next panel: Louis Polito, representing himself. Dylan Stack. Fung Wu. Gregory Gonzalez. Oren Galkin. I would like to welcome Sierra Townsend — she is co-counsel to this committee. Where did I start last time?
+
+**(03:24:42)**
+
+
+
+I started there. Okay, now I am going to start... I can never remember where I started
+
+**(03:24:47)**
+
+
+
+or did not start. Hello, Mister Chairman. My name is Dylan Stack. I am the Vice President of the New York Clean Air Collective and I am a New York City resident. I think the current count is 25 civic groups in New York City opposed to Proposed Int. No. 561-A, and I regretfully say that I believe it is unsalvageable as a piece of legislation. This bill would not do anything to improve the environment or the air quality of New York City. This bill is a corporate giveaway. Amazon paid $9 million, as we saw in the news this year, because of their incessant idling. If we have Proposed Int. No. 561-A passed with its provisions about regeneration and processing devices and everything else in that legislation, that is going to be debunked in the written testimony — that is going to cause millions and millions in fines that these corporations should be paying to be gone forever. Because this is about air quality. As we heard from CM Avilés, 2,400 kids a year die from air pollution. This is something that we all care about, and I think New York City should be a leader in clean air.
+
+**(03:26:01)**
+
+
+
+We do not need to go there. You are looking at the ultimate leader in New York City clean air. I talked about what I did years ago and I am still doing it — wherein in one fell swoop I cobbled together something that created the equivalent of every car, truck and bus being taken off the road forever. So I am no slouch when it comes to clean air.
+
+**(03:26:20)**
+
+
+
+And I will give you your time back. Thank you. You have been the committee chairman of this committee for 18 years — the Environmental Committee — in the greatest city in the world, a leading city. I think that we can be the shining example to the rest of the world about preserving the Citizen's Air Complaint Program. We can pass Int 0048-2026. We can help environmental justice neighborhoods.
+
+**(03:26:47)**
+
+
+
+But residents there submit the complaints in their own language. Well, that would be up to the people who are putting in the violations, who are not going to those neighborhoods as much as they go to other neighborhoods. So that is for you to talk about with the other people participating in this good program. Where were the people out in the communities of color? This is like a Manhattan and Brooklyn thing. But anyway, now I am testifying, and so I want to let you testify — you are here
+
+**(03:27:17)**
+
+
+
+to testify. Thank you for your comments. I believe the City can lead. The City can expand the program. I do not think we should back the truck industry. I very much appreciate that they have been very successful — they can hire lobbyists to come here and testify on their behalf. I do not think the lobbyists fully understand the technology in these trucks. That is why Proposed Int. No. 561-A is so detrimental. They talked about regeneration — the claim that trucks can regenerate while they are idling — all these claims, as I mentioned, will be debunked in the written testimony. So I would ask you, Mister Chair, members of the Council and the Speaker, to reconsider. Why are we going back with Proposed Int. No. 561-A? This would do nothing to help the environment.
+
+**(03:28:02)**
+
+
+
+Well, you know, this is what reconsideration looks like. Reconsideration is a hearing. I am not happy with where things are — this is why we are here. I felt that after the last amendments, I thought that we could certainly do better, which is why we are here today. You know, I do not have to be here. I wanted to be here. I want to hear from everyone so that I could make it better, and no one wants to make it better more than you. So I appreciate that. Thank you, sir.
+
+**(03:28:42)**
+
+
+
+Not going to fight with anybody else. It was just...
+
+**(03:28:44)**
+
+
+
+It was just his turn, you know. He looked like he could take it. Looks like a nice guy. So...
+
+**(03:28:55)**
+
+
+
+Yes. Good afternoon. My name is Oren Galkin. I grew up in Oklahoma. I am the son of a meteorologist who researched climate change for many years. I am here to speak against Proposed Int. No. 561-A, which is unsalvageable. Coming from Oklahoma, which is the exact opposite of one of the best and most progressive cities in the world, I wonder why we are discussing this bill — a bill clearly sponsored by big corporations, and written as a poison pill against Int 0011-2026, because Int 0011-2026, no matter how good or how high the fines, will not be enforceable if Proposed Int. No. 561-A is passed.
+
+I would like to address another elephant in the room — something we all know about. Some people are more concerned that the people actually fighting every day to keep our air clean are making too much money. What do I say to all this? First of all, it is not me. And second of all, I would help more people make even more money fighting for our air. There is no barrier to entry in our idling enforcement. The people most actively involved seem to be the only ones going out, doing town halls and keeping active social media to learn and to get other people involved.
+
+Would we be saying the same thing if there was a similar way to enforce crime tips? How about tax evasion? Actually, we do pay people to enforce that, and I am sure we all want people to get paid more to enforce that. How about the red light cameras and the speeding cameras — do they make too much money? Should we end them? These are all successful programs that have survived the test of time.
+
+Let us not forget that with idling enforcement, 30% of the work goes unpaid — I think I heard 40%, since 40% of the tickets are not even paid. The remainder that does get paid keeps 75% of it. That is more money for schools, parks and to close our city's deficits. Idling enforcement has become a successful program because of the incredible people who are committed to it. They are up at six, they go out till midnight, they work weekends, they have jobs. It can be 20 degrees outside, snow, rain — they keep going. One thing I will add: they are so lucky that they even got their faces and names printed in the New York Post. Thank you.
+
+**(03:31:05)**
+
+
+
+Thank you very much. Yeah, spirited. I like that.
+
+Now we cannot do the clapping. No, it is just the sergeant's rule. Yeah, you are supposed to do this.
+
+**(03:31:18)**
+
+
+
+Yes, sir. Good afternoon. My name is Juan Bangu. I oppose all of the bills except for Int 0048-2026.
+
+**(03:31:26)**
+
+
+
+Which expands access. I believe Int 0011 is going to destroy small businesses with unbearable fines. Int 0561 will stop participation. I do not think it is salvageable. Right now it takes one year to issue, which is bad for everybody. That backlog is finally starting to taper off as more citizens are helping out with the prosecutions by prosecuting themselves, because currently, after 45 days, we can prosecute the complaint ourselves. You should be filing within 30 days when given the green light. However, 561 stops this in two ways.
+
+First, if you self-prosecute, that extra $25 is going to basically disincentivize this. We have to show up for the hearings and participate. We do not know when it is going to be called on the day of the hearing, so that makes it no longer worthwhile. There is also a 30-day term to issue this if you go the prosecution route. However, it can take up to two months to process this. They say that they do not have proper printer access.
+
+Int 0561 removes this pressure release valve and addresses a lot of the problems, such as the big backlog. I also wanted to comment on Int 0562 and the transfer of liability. I think that is a big loophole, because if we let Amazon and other big companies try to pass this on to their last-mile contractors, those contractors and outfits can just ignore it, close up shop, start a new company and just continue idling. Thank you for your time.
+
+**(03:33:25)**
+
+
+
+If I could prevail upon you... Josh wants his patent. Josh, my legislative director, is the guy that gave me the candy bar. You made a lot of really good points in your testimony. Josh, after this panel is complete, if you could meet with my legislative director out in the hall and just give him a further download on the points that you made, because yours was a very compelling testimony and I want to make sure we get every drop of nectar out of it. Josh, get a notebook or whatever — you guys figure it out. Just set up shop in the hallway. The desks are out there. Just really enshrine it. So thank you. Hello,
+
+**(03:34:39)**
+
+
+
+Hello. My name is Gregory Gonzales and I am here in opposition to Int 0561-A. Int 0561-A aims to diminish and destroy the Citizens' Air Complaint Program, which has been one of New Yorkers' most effective tools in combating unnecessary truck and bus idling. Int 0561-A hinders the ability to pursue air complaints and reduces incentives for citizens to take part in the air complaint program at a time when I believe we really need more participation.
+
+For me, the most concerning part of Int 0561 is that it opens a loophole for diesel vehicles to avoid fines and idle indefinitely. These vehicles are some of the worst polluters in New York City and I have seen that firsthand. I have driven diesel engine trucks and I have operated heavy equipment. I have laid asphalt. I am not a person who works in a corporate office of a bus company or trucking concern. I know what it is like to have to work next to large diesel vehicles all day. I know that the exhaust tears up your lungs and that when you come home at the end of the day you have a headache and a sore throat. Getting trucks to stop idling is not only good for New Yorkers, but it is especially good for the people who are operating the trucks, the buses and the heavy equipment that are polluting the air. Idling is unnecessary and it hurts New Yorkers.
+
+I would like to speak on what I have personally observed on the streets of New York. I have watched the Citizens' Air Complaint Program work. When you submit complaints through the Citizens' Air Complaint Program, companies actually take notice. We are starting to see companies change their fleet vehicles from combustion engines to electric vehicles. The armored truck companies — Brinks, Loomis and others — have been some of the worst polluters in Manhattan, especially in the Diamond District. I have observed them idling in Midtown for hours in the same spots over and over again, day after day. After receiving complaints, they began to change their vehicles to electric vehicles. There is a notable difference in the air quality in these areas. Thank you.
+
+**(03:36:45)**
+
+
+
+Thank you very much. I appreciate it. Hello,
+
+**(03:36:52)**
+
+
+
+Okay. My name is Luis Solito. I have been an active participant of the Citizens' Air Complaint Program since April 2022 and have submitted nearly 4,000 complaints. I am present today to testify against the provisions outlined in Int 0561-A.
+
+First, the diesel engine regeneration exemption will create a loophole rendering the anti-idling law hamstrung. I learned earlier that the problem is the average person and reviewer has no idea that a truck is in regeneration mode. I suppose a solution to that problem would be to have an exterior indicator to let someone outside the truck, or someone viewing video, know that the truck is in regeneration mode.
+
+Second, the 60-day expiration of pending violations will allow polluters to avoid accountability. I understand this deadline will delete tens of thousands of complaints and wipe out millions in City revenue. If you are going to impose a 60-day expiration, you are going to have to hire more people.
+
+Last, forcing everyday citizens to become legal prosecutors to defend clear video evidence will create barriers for low-income environmental justice neighborhoods. I live in southeastern Queens, which is home to several environmental justice neighborhoods operating adjacent to districts south of Hollis, South Jamaica, Liberty Avenue, 110th Street and 180th Street. If this passes, it will make my job very difficult. I have made an impact in many different areas. I can point to very specific locations where they no longer run their engines. If I do not keep up my appearances, it is going to reverse this.
+
+DEP is successfully curbing pollution and holding polluters accountable at no cost to the taxpayer. I urge this Council to protect public health and vote no on Int 0561-A. Thank you.
+
+**(03:38:55)**
+
+
+
+Thank you very much for your good testimony. You are a local guy too, so I appreciate that. Thank you very much. This panel, I appreciate it. It has been good going back and forth with you. I am not going to do that again, but yeah, I sensed that. So, years of... protectors? Yes. Oh yeah. Thank you. You are going to meet with Josh, and that would be great. I am going to call the next panel. Let me know when you get yourselves together and then I am going to have to take another two-minute break. Irina, Larry Grant, Peter O'Hara, Duke Lee — first name, last name, Ellie E. Okay. Just right back. Sorry about that. Thank you. Did it get colder in here? It did. We have a yes or no on that? Oh, it is freezing. Yeah, the sergeant said they just turned up the air conditioner. Someone was getting cold. Can you adjust the thermostat or whatever? Okay. Yeah, because I am old, I am cold. Okay. Yeah, I am not the only one. Okay. Which way did the long list warn you?
+
+**(03:44:30)**
+
+
+
+Okay, we are going to start this way and go that way. You have got to get the microphone. Is the light on? Testing, one, two. Yeah, I think we are good. Good.
+
+**(03:44:46)**
+
+
+
+Good afternoon, Council Members. I want to thank each one of you for everything that you do for New York City, seen and unseen. Each one of you have my deepest respect. As a lifelong New Yorker, I am here today to urge you to reject Int 0561-A. This bill does not fix, reform or improve the program. Instead, it will dismantle it. It provides trucking companies with loopholes that will allow them to idle with impunity.
+
+I want to focus on two specific items. First, diesel regeneration. Unfortunately, diesel regeneration cannot be seen — not by the person filming it, not by the inspector and not by the hearing officer. The moment this bill passes, every diesel truck and every bus driver in New York will have a permanent and unverifiable excuse to idle. Every idling ticket becomes unprovable.
+
+Second, the 60-day clock. DEP has 60 days to make it happen or else they could walk away from the complaint. This deadline is not ambitious — it will prove to be impossible and untenable. With this bill, tens of thousands of valid complaints filed in good faith will expire unresolved. The 60-day clock does not speed up enforcement. It guarantees that nearly every complaint expires unresolved and violators will walk away scot-free.
+
+Finally, I want to speak directly to the main sponsor of this bill. Your record is not in question here. It is this reason that it matters. You have authored laws to protect citizens of this great City. You wrote Tobacco 21, raising the age for tobacco. The New England Journal of Medicine said this saved countless lives. You accomplished this by standing up to a powerful industry, an industry that insisted that life as usual and the status quo was okay. At the end of the day, you were right and they were wrong.
+
+What we ask, in terms of this program — this is the first tool that truly held the biggest polluters accountable. Ladies and gentlemen, we are asking you to do it again. Do not cave into big corporations, the trucking companies, the lobbyists and the respective unions. We ask you to stay the course. Do what is right, as you have done before. Withdraw this bill and save lives again. Thank you.
+
+**(03:48:05)**
+
+
+
+Oh, thank you very much. I do appreciate that. I just need a moment. I know I have to move along, but you mentioned Tobacco 21. I started Tobacco 21 in 2005 and was term-limited out the first time right at the end. We got it passed and the reason why it took eight years to get it passed is because it was adamantly opposed. Raising the age to buy cigarettes was adamantly opposed by the American Lung Association and the American Cancer Society. They testified vehemently against it, saying that raising the age would make tobacco more taboo and therefore more alluring for people because it was forbidden, because no one else had done it and so we had no data to work off.
+
+I worked for this and no one would go for it because these big health entities were against the bill. I said, look, let us just try it for a year or two and then if the data comes back bad and smoking goes up, we will sunset the bill. They did not want to go for that. So we got it passed over their opposition. Then the data started pouring in. Teen smoking rates plummeted and then every jurisdiction in the country went to school on us. It really was a good idea. It became national policy — federal policy — in 2020, and the only shame is that had we done it eight years earlier, so many more lives would have been saved. Yale recently did a study saying that over the next number of years it would save another 500,000 lives. That was a good bill.
+
+**(03:50:24)**
+
+
+
+Sure. Your sentence? Diesel fumes are the tobacco of New York City streets today. Profound.
+
+**(03:50:35)**
+
+
+
+Profound. So thank you for that. Let me just have a sidebar with counsel. Next witness. I just — that is why I have counsel. Sometimes I have to be counseled. So thank you.
+
+**(03:51:34)**
+
+
+
+Please, the next witness. Good afternoon. My name is Irina, and I live with my children uptown. I am here because I know firsthand how the Citizens' Air Complaint Program is making the air quality better in upper Manhattan. My family and I have noticed that fewer trucks and buses idle than they used to. We cannot go backwards on clean air in this City. We have come too far.
+
+Unfortunately, if this package of bills passes, I fear that New York's air will get dirty. I am especially troubled by Int 0561-A. This bill will prohibit DEP from acting after a certain number of days after a citizen complaint is submitted, and it gives New Yorkers who are full-time workers, full-time caregivers or disabled only 14 days to file a complaint. This is a terrible idea. Imagine if building owners could create unsafe fire or ventilation situations and then escape those situations if they found out too late, even if there was bulletproof video evidence.
+
+Allow me to speak about Int 0048, as best I am able. English is not my first language. I am fortunate to be extremely comfortable in English, but many New Yorkers who were born abroad are not. Int 0048 corrects the unfair policy that kept those New Yorkers from having full access to the air complaint program. These New Yorkers will now be able to report idling trucks and buses, dust and some of the construction violations. Language access is a necessary step to improving the air complaint program.
+
+The rest of this bill will make this program more confusing and out of reach for everyday New Yorkers. The program should be fair and more efficient. Let me be clear: the Council cannot pass Int 0561-A, which will make pollution worse in the City. The Chair talked about balance. You cannot have a balance that includes more dirty air. Just as a last note, I think that nothing changes behavior quite as effectively as a fine that hits your wallet.
+
+**(03:53:49)**
+
+
+
+Thank you. Thank you very much. Yes, sir. Oh, by the way — hang on. Suddenly these alarms are going off. Oh, my phone cannot ring but alarms will go off. I have to... I am supposed to take a pill. It is a sublingual pill. Anyone? No. Okay. Let me make sure my timer is off. I do not know if I shut it off. I did something and my ring... okay, now it is off. I apologize. Please. Thank you.
+
+**(03:55:32)**
+
+
+
+On Int 0561 and general oversight — my name is Grant and I am a citizen complainant. Let me raise a few specific concerns. One is around the 60 days, which I think has been brought up before. Currently, well beyond the 60-day timeline, it is almost up to a year. I think the bill as currently written could be construed to wind up throwing out a bunch of complaints from the past year or more.
+
+I think the goal, as has been discussed in the hearing previously, of speeding up processing and issuing notices of violation in a more timely manner is noble and well-intentioned. But forcing a timeline that tosses complaints if that timeline has not been hit — I think we need some type of continuity. How do we get from our current backlog to a steady state?
+
+One other comment is around the definition of the processing device, which has gotten a lot of discussion around certain vehicles needing to run the engine to dispense fuel, compact or whatnot. That definition as written right now is fairly expansive and contemplates various situations where the vehicle is using a mechanical connection to perform work that is allowed.
+
+**(03:56:51)**
+
+
+
+The note of appeals has considered these situations. I think one concern around broadening the definition to include electrical equipment that is necessary for work is that it is very broad and could be almost anything. If someone is charging their phone to get a text from their boss, their phone is a necessary part of their work. So you could see complaints or summonses dismissed for that reason, which I think is probably not intended. I will just finish my thought and I think
+
+**(03:57:46)**
+
+
+
+that is it. Okay, probably not, but yeah. What the committee is intending to do is allowing people to charge their phones and...
+
+**(03:57:54)**
+
+
+
+And here is what I am going to do — let me just talk to the Council and committee first, because she is the one that drafted it all. Okay, I am going to do
+
+**(03:59:03)**
+
+
+
+this. Many people have testified that once the 60-day window passes, the violations get thrown out. That is an interpretation of that section, but that is not the intent of the section. So we will make it more clear that that is not going to be the manifestation of that section. I just want to put that on the record — that while people are interpreting it that way, that is not the intent. It is helpful to hear from people who have that interpretation, because that only makes it clear to me that it has to be made more clear that that is not going to be the result of that section.
+
+A lot of things are going to get changed. I would have liked it better if she had said that, you know what I mean, but she is not supposed to, so I just had to do it. Anyway, the fact that so many people are interpreting it that way makes it all the more clear that it has to be clarified so that is not what people take away from it. Okay.
+
+**(04:00:30)**
+
+
+
+My name is Duke. I moved to New York a few years ago and I personally witnessed the success of the Citizen Air Complaint Program. The program empowers everyday citizens to hold major corporations like Amazon, Verizon and Con Edison accountable for illegal idling, and it gives citizens a voice in protecting our air quality.
+
+Unfortunately, Int 0561-A, as first proposed, has a regeneration exemption that could create a loophole that is extremely difficult to verify. Second, the 60-day window mentioned... thank you. The third issue, reducing incentives, would discourage participation and weaken enforcement. Instead, we should help process complaints more efficiently, not make citizen enforcement more difficult.
+
+I am also concerned about the bill which would increase the penalty to as much as $7,500. While I support strong enforcement against repeat offenders, such a penalty could be financially devastating for small businesses and independent contractors. We need strong enforcement, but we also need fairness and proportionality. The real problem is illegal idling, not the citizens who report it. I respectfully urge the Council to reconsider both bills and preserve the effectiveness of the Citizen Air Complaint Program. Thanks for your time.
+
+**(04:02:19)**
+
+
+
+You waited a long time to say that. I appreciate the input and it is duly noted and greatly appreciated. So I want to thank this panel very much and we are going to the next panel. The next panel looks like... Ting Ting, first name Long, maybe, not sure. Yeah. A. Hacksaw Rios, with handwriting so crisp it looks like it was typed. First name Robin Warren. Adam... Tomlinson. Okay. All right. Okay. You know what, I started this side last time but the microphone is already there, so just start this way and we will work that way, all right.
+
+**(04:04:19)**
+
+
+
+Just state your name for the record and proceed. Hello. My name is Tainting Law. I am a resident of Bed-Stuy and a former participant in the Air Complaint Program. Thank you.
+
+**(04:04:33)**
+
+
+
+For your considerable patience and attention today. This is... I get paid to be here. You do not, you know. Yeah, but I really appreciate you...
+
+**(04:04:44)**
+
+
+
+...taking the time to hear everyone's testimony and your dedication to protecting cleaner air. Thank you.
+
+I first learned about the Air Complaint Program when I was a substitute teacher in New York City public schools. Students spend a lot of time outdoors and the difference in air quality on a playground is noticeable when a large truck, especially one that is idling, is nearby.
+
+More than 15 years ago, the City Council wisely restricted idling near schools to one minute. The Council specifically cited school buses, whose emissions are especially harmful because of exemptions under New York State law dating back to the 1990s.
+
+Unfortunately, Int 0561-A would effectively exempt school buses from enforcement in many circumstances on the grounds that they need to run their engines to maintain heating or cooling for the very students whose health they are putting at risk. Standards for evidence are already demanding and in practice they are much stricter than the law itself. Video submitted by first-time participants is often rejected, as are submissions from experienced participants when there is any doubt or deficiency. This happened to me and it is why I do not really participate in the program anymore. It provides little guidance, and I was fortunate that other participants volunteered their time to help me get over the learning curve.
+
+Enforcement in one neighborhood also helps discourage idling in others. DEP needs more resources to work through its backlog of complaints. Respondents should receive summonses more quickly, or at least receive warning notices with links to the videos in question. This is only fair. We have already heard several proposals for accomplishing this without changing the law. I urge the Council to reject Int 0561-A and focus on improving the program and broadening participation. Thank you.
+
+**(04:06:39)**
+
+
+
+Thank you very much. We appreciate you being here and your patience. Good afternoon.
+
+**(04:07:06)**
+
+
+
+Good afternoon. My name is Robin Warren. I am a New York City resident and a mother of two school-aged children. I am here to respectfully urge you to reject Int 0561-A.
+
+It is deeply exhausting to watch the steady erosion of common sense protections that keep our communities safe. Around the country we are seeing bedrock environmental laws weakened, vital scientific research sidelined and basic public safety measures scaled back. Today this Council faces a defining choice: to replicate that pattern of erosion, or to use its power to preserve what keeps us safe.
+
+Our family discovered the Citizen's Air Complaint Program through the New York Times out of sheer desperation, as my husband, a naturalized U.S. citizen from Kolkata, India, and I struggled to manage our young daughter's acute asthma. We know firsthand that this program works. For decades, anti-idling laws went unenforced until the Citizen's Air Complaint Program changed everything, empowering everyday citizens to hold commercial polluters accountable.
+
+The City's own data shows that New York idlers waste over $28 million in fuel every single year. While commercial fleets make up just 6% of our traffic, they generate over half of our dangerous tailpipe pollution. This program is the only real shield our neighborhoods have. Int 0561-A breaks what is working.
+
+**(04:09:00)**
+
+
+
+It creates an unverifiable loophole that lets diesel trucks idle indefinitely while slapping an unworkable 60-day deadline on a backlogged agency.
+
+**(04:09:11)**
+
+
+
+This opens the door for the City to dismiss 170,000 pending violations and lets commercial polluters off scot-free. It really does not. We have been through that. Thank you.
+
+**(04:09:25)**
+
+
+
+Thank you. No, no, no. Your time is coming. Unlike yours, it is completed. Next.
+
+**(04:09:30)**
+
+
+
+Thank you for listening, sir. You bet. Thank you, Chairman, Committee Counsel.
+
+**(04:09:40)**
+
+
+
+Thank you for the time this afternoon to discuss this bill. I can speak to Int 0561-A. On my way into work every day I walk past schools, museums, buildings and parks. Same trucks every day, half an hour earlier, same drop-off an hour later. The same high-capacity engines running.
+
+I am sort of a guy, as you can imagine, who will knock on the window. And I do not mind the response I get. They will turn off, smile, and about 10 paces on they smile and turn it back on, or they move slightly, just to make sure. No one has chastised me. I am trying to be a responsible member of my community. I am thinking about the children, the elderly and the vulnerable. These guys just think it is a joke. It is not a joke.
+
+So I really appreciate some of the reporting that our community has done and the movements that have happened to press on these people who do not take this environment seriously. They know exactly what they are doing, they should not be doing it and then they do it anyway. I saw two cars on the way here that were idling outside the park here. It is 65 degrees. Open the window, please. You could smell the exhaust as you walk by. These are children, people with health conditions. They simply want to go about their lives and they cannot have that clean environment that we want for them.
+
+I find this especially infuriating because my wife and I are expecting, and I feel it is my obligation to come here and say we need to lean on them harder. I do not feel the bill really extends the impact. I think it restricts the impact. But there has been some really good feedback and thank you so much for your clarification that we will not be going six months out and chopping things off. I think it is a great program. It should be amplified rather than restricted. Thank you for your time today and for helping us motivate drivers to do the right thing.
+
+**(04:11:44)**
+
+
+
+Well, you know, thank you for being here and congratulations to you and your wife. Thank you very much. And what is... his name is on the paper.
+
+**(04:11:56)**
+
+
+
+Yeah, I have dyslexic handwriting so that is an F minus. No, no. What?
+
+**(04:12:00)**
+
+
+
+What is your name? Adam. Adam. Yeah. And if you want to, you know, go to City Hall parking lot and see all the SUVs for the deputy mayors that are sitting there idling and idling and idling and idling. Would it not be a good choice to amplify the program to include those vehicles? I am just saying it is something that I encounter. I think that is...
+
+**(04:12:29)**
+
+
+
+...a good idea. I know. I have a direction. I knock on the windows. I am not going to... if it sounded good.
+
+**(04:12:35)**
+
+
+
+Yeah, if it is not a cop. If it is a cop, then I am not. But thank you so much for being here today, sir. Thank you.
+
+**(04:12:47)**
+
+
+
+My name is Peter Whistle. Thank you for your time. Thank everyone here for being patient. I had planned a different testimony but I want to react to some of the things that I have heard over the last four hours. I keep hearing that the status quo is not going to work. Someone asked before what is broken, and the response was something along the lines of: we asked the questions. I do not know what is broken. There is too much idling happening. I think we can all agree to that.
+
+When I listened to the respondents from the trucking and busing industry, the key thing they want is to have notifications much faster. I could not agree more and I think there are opportunities to improve that. I do not think it can happen today, but maybe technology can be provided.
+
+I work in tech. At least to my knowledge there are other agencies in the City already taking proactive action to notify participants of programs when something is wrong. I have seen it done within the housing space, where something has been complained about to a housing board and you can get a notification before they do an audit on it. I think all the information needed to get fast, rapid, accurate information to respondents can be made better. You have the truck, you have the license plates, the point where they can be observed, the time, the video file. It is there. You can go to the portal, you can click it in. I get that it is hard for the department to do, but all the information is there. You could send an automated message to those who have opted in to say, hey, here is your notification. Send an email, maybe, whatever you want to do. You can get an automated message on the day someone files. Like a package delivery notification on the day. Yes, this would be the same thing. You got the message delivered on the day. No reminder needed. Here is the information.
+
+If they have not opted in, I could imagine a world where we say we do not know the email, we do not know the phone number, but we have the address on the truck. Send them a message in the mail. We received information. If you want to know more, go in. Then the timeline is gone. It is no longer a year and a half until they find out. You could take the cure. I actually think, frankly speaking, with the information at hand, if you just look at the amount of tickets that are happening, if you operate a fleet, just ask your staff to always turn the engine off when they get to the destination. Nothing in the mail is coming. Thanks for your time.
+
+**(04:14:57)**
+
+
+
+Thank you. Yeah, based on what I have heard today, I think we certainly need more tech in the ultimate outcome of what happens here. This whole thing is very analog and tech is required. I wish I could wave a magic wand and give more staff. I cannot do that. The mayor sets the staffing level for DEP. It is just... and I was saying the fact that some of the testimony is repetitive, everyone has their own little slant on it that gives me better insight into which way we should go. This panel was very good in that regard and I appreciate you being here and your patience in waiting to testify. Thank you all very much. Okay. Adam, I am just saying James is a good name, you know, just saying.
+
+**(04:16:01)**
+
+
+
+Okay. Aaron Jacobs is the next panel. B. Robidoux. Seth Eisenberg. Josh Fiske. Very brash handwriting. Nice looking. Yeah, you know, check it out. Yeah, it is nice, like a flourish to it, you know what? Okay. All right, so we are going to... Josh, side over here.
+
+**(04:17:19)**
+
+
+
+Hello. Thank you for being here. I am dedicating my testimony to my beloved neighbor Pam, who is permanently disabled from the asthma that she developed after moving from Barbados.
+
+My name is Josh Fiske. I am a former delivery driver, a long-time participant in the Citizen's Air Complaint Program and a born New Yorker who has had asthma since childhood. I have the expertise to comment on today's bills and their stakes are deeply personal.
+
+Int 0561-A will effectively destroy the Citizen's Air Complaint Program. It will protect corporate polluters with legal loopholes, hamper City agencies from holding them accountable, disincentivize public participation and...
+
+**(04:18:04)**
+
+
+
+...possibly retroactively void a...
+
+**(04:18:05)**
+
+
+
+...vast number of outstanding complaints. I studied behavioral economics. We did the voice... I know, I know. I am sticking to my... I studied behavioral economics in college. So I understand that the current Air Complaint Program ingeniously pairs two financial incentive mechanisms. Penalties for idling get corporations to stop polluting. Rewards from those penalties get members of the public to contribute complaints.
+
+Int 0561-A throws a wrench into both mechanisms. It effectively rewards polluters for having polluted so much that they gummed up the system, and punishes citizens for having participated so avidly. The lesson is that more polluting wins more allowances for polluting yet more, and participation is a waste of the public's time and effort. Int 0561-A encourages polluting and ruptures the public's trust in our government. All future City programs asking the public to participate in oversight will suffer.
+
+In the meantime, the City possibly forfeits tens of millions of dollars in corporate environmental fees. I once felt hopeless about the FedEx trucks that idle on my block every day, spewing toxic fumes onto our stoop. Then the idling program empowered me to fight back. I have seen the difference every day for years: better air for my neighborhood, better air for my neighbors and a chance to sit outside with Miss Pam.
+
+Now Int 0561-A and its fellows, Int 0562-2026 and Int 0869-2026, promise to end all of that. Put these bills to bed. I am really grateful for your interest in ending air pollution by improving the idling program, but I am here to tell you that only Int 0048-2026 of today's docket will do so. Please kill these bills, just these bills and their cousins...
+
+**(04:19:44)**
+
+
+
+...forever. Thank you for your compelling testimony. You bet. Thanks. Next witness, okay?
+
+**(04:19:52)**
+
+
+
+Good afternoon. My name is Dr. Seth Eisenberg and I spent many years on the front lines working for New York City Department of Health clinics. I am here today again to voice my strong opposition to Int 0561-A and also to thank the many other doctors, such as those of the New York Clinicians for Climate Action, who are likewise voicing their strong opposition.
+
+As a medical doctor for over 30 years, I am concerned about the adverse health effects of idling exhaust and I really admire how the Citizen's Air Complaint Program has been reducing vehicle idling. Vehicle idling releases a concentrated mix of toxic pollutants, including fine particulate matter, nitrogen oxides, carbon monoxide and volatile organic compounds. Nitrogen oxides and particulate matter severely irritate the airways, causing increased rates of asthma, emphysema and lung cancer. The fine particles easily cross into the bloodstream, promoting arterial plaque buildup and directly triggering heart attacks and strokes.
+
+Sustained exposure to idling fumes is associated with faster brain aging and increased risks of dementia and Parkinson's disease, as well as depression and anxiety. Even exposure during early childhood is linked to brain inflammation with reduced cognitive function, lower memory scores and behavioral issues. Idling air pollution contributes to insulin resistance, increasing the risk of developing diabetes and obesity. It is linked to lower fertility, even damaging sperm and reducing ovarian reserves. And in my opinion worst of all, even during pregnancy, idling exhaust increases the risk of miscarriage and highly problematic premature birth.
+
+Now, every big company with trucks in New York City is currently aware of the Citizen's Air Complaint Program and many are taking action to reduce idling. For example, as you have heard, Amazon has been the third worst idling violator with over 12,000...
+
+**(04:21:59)**
+
+
+
+...tickets. Please summarize.
+
+**(04:22:01)**
+
+
+
+Sure. I started recording idling violations six months ago. Not a single one of them is an Amazon vehicle and I give all the credit to the Air Complaint Program.
+
+**(04:22:09)**
+
+
+
+Thank you very much. Thank you for your good work, Doctor. Hi. I am Eric...
+
+**(04:22:20)**
+
+
+
+...Eisenberg, a local attorney. This is not a hard problem. There is no problem, not a legislative one anyway. Int 0561-A is irreparably broken, as explained in detail by dozens of local and national organizations. It cannot be fixed with off-the-cuff statements of intent. Its literal, unambiguous language is the problem.
+
+The status quo is working extremely well. The program generates net revenue for the City. There is no net cost to fund it properly and speed up the issuance of summonses and notices. We have raised this issue at every environmental budget hearing, yet the idling unit still needs more workers. You can do it today at...
+
+**(04:23:10)**
+
+
+
+Chairman, I cannot... again, every time. I mean, I cannot. I cannot give more.
+
+**(04:23:15)**
+
+
+
+Staff, do you think you and Mayor Mamdani are not going to
+
+**(04:23:18)**
+
+
+
+agree to give them more resources? I do not talk to Mayor Mamdani directly. She talks with Donald Trump. So.
+
+**(04:23:29)**
+
+
+
+Yeah, I am just saying, you know, the Legislature is the Legislature. The Executive is the Executive. When the Executive... you know, we have the preliminary budget where we say we need more DEP workers, and then in the executive budget it is very hard to get them to put more personnel in. We try, but at the end of the day we negotiate and we get what we get. We control the legislative side, but the executive side... you know, preempting mayoral authority, we just do not have that. And you, as an attorney, I am sure you know that. Well, maybe I am naive, but I believe in you. Okay? Thank you.
+
+The program itself, the Citizen Air Complaint Program, works brilliantly. It is a false narrative propagated by the Eric Adams corrupt administration that the citizen complaint program is not well-targeted geographically. We have charts and maps showing an amazing, near-perfect correlation between where the most pollution is and where the most reported violations occur. We will provide this data in our written testimony. The administration's claim that DEP does not issue repeat violations until prior violations have been adjudicated — any defaults can be easily reopened. There are claims floating around that the engine is necessary to run generators, liftgates and refrigeration units, but generators do not use engine power — they create their own power. And actually, using the engine to run liftgates and refrigeration units already provides an absolute defense. Certified clean idle is not clean. Even in California, you cannot run those engines near residential areas. As a board member of the New York Cleaner Collective, I am proud of the standards that those who submit complaints have held themselves to. Hundreds of thousands of complaints have been issued and the current administration did not identify a single instance of misconduct in their paper. There is no problem that needs solving. And I think in a great...
+
+**(04:25:28)**
+
+
+
+I am going to ask her. I mean, I know I took up some of
+
+**(04:25:30)**
+
+
+
+your time, but I think... okay. Finish up. I am on my last paragraph. Okay.
+
+**(04:25:37)**
+
+
+
+I think we are in agreement
+
+**(04:25:38)**
+
+
+
+that the current Proposed Int. No. 561-A is unworkable and its recent amendments have only made it worse. Will you commit that, should you not do the correct thing and withdraw this harmful Bill, the public gets to weigh in on your amendments at a further hearing? We ask the questions. I do not answer questions. I take testimony. That is it. You asked the questions — you failed New
+
+**(04:26:06)**
+
+
+
+Yorkers. Thank you. Yeah, it is like... we do not answer questions. No committee Council chair would ever do that. But thank you. Next witness. Oh, okay.
+
+**(04:26:22)**
+
+
+
+Hi. My name is Jonathan Rodeo. I am here to speak against Int 0561-2026 and I have three young daughters. My oldest daughter has asthma. This is one of her
+
+**(04:26:35)**
+
+
+
+albuterol inhalers. As an asthma sufferer yourself, Chair, I am sure you understand. Yeah, I have got my inhaler with me. She needs this inhaler every day to get through field hockey practice or dance class. I cannot describe how horrified and helpless it makes you feel to have your child tell you that they cannot breathe or that it hurts to breathe. An estimated 60,000 children attending New York City public schools have active asthma that requires an inhaler.
+
+**(04:27:02)**
+
+
+
+You would not believe how hard it was to get another cover for this thing. I spent a lot of time on the phone to get this card.
+
+**(04:27:09)**
+
+
+
+That means there are over a hundred thousand parents in the City today worrying about how their child is going to breathe and how they are going to pay for it.
+
+**(04:27:16)**
+
+
+
+Every day in the City I find trucks idling in excess of three minutes for no reason, and I report them.
+
+**(04:27:20)**
+
+
+
+Everybody knows that vehicle emissions contribute to childhood asthma. These trucks are choking our children with their fumes and the Citizens Idling Complaint Program gives us a way to fight back and make a positive difference.
+
+**(04:27:33)**
+
+
+
+Int 0561-2026 will take that away and tell all those parents that they and their children do not matter. It cynically discourages and punishes participation in the idling program, just as Int 0048-2026 hopes to foster it. Int 0048-2026 would help expand the program to environmental justice communities.
+
+**(04:27:50)**
+
+
+
+In my view, for these reasons and because of various loopholes this Bill creates, I believe that it is unsalvageable. I just wanted to also make that clear.
+
+**(04:28:00)**
+
+
+
+Like he said, nobody is getting cited for a repeat offense before the first offense is
+
+**(04:28:08)**
+
+
+
+adjudicated. That is not actually true. If you have a situation where, you know, the violation happens and then the notice gets sent to the wrong address and then it is sort of like a default — it does not show up. What I mean is, there are occasions where that does happen and they can reopen it and, you know, get it re-
+
+**(04:28:37)**
+
+
+
+adjudicated. But I just wanted to make really clear — like if I went out there now and I got the same truck, like three times on my way to the subway, right, moving down the block, when would those
+
+**(04:28:52)**
+
+
+
+three citations from today... they would all be first offenses. They would not be like one, two,
+
+**(04:28:57)**
+
+
+
+three. Right. But I just want to note that is a fair point. Yeah. Fair point for sure. If you do not mind, I am going to share something with you. My own daughter has asthma. Whenever she had difficulty, I have one of these and I have the ability to take a big breath or whatever. Yeah, but you
+
+**(04:29:17)**
+
+
+
+know these little tube things? And so then she can just draw it in slowly, and it is a lot easier for kids to do that.
+
+**(04:29:26)**
+
+
+
+I know it does not cost a lot of money.
+
+**(04:29:27)**
+
+
+
+She gets it on her tongue, you know what I mean. It is this old
+
+**(04:29:31)**
+
+
+
+... yeah, hook that thing into the tube.
+
+**(04:29:33)**
+
+
+
+Yeah. And then she is at the other end of it and then she just kind of breathes normally and you get, you know, it goes deep into the lungs. Because if she is just going to get it like up here... I know, because it is still like kind of getting used to it, right, trying
+
+**(04:29:46)**
+
+
+
+it right? I would recommend this spacer tube thing, and any pulmonologist would know that. Thank you. Appreciate it. Yeah,
+
+**(04:29:54)**
+
+
+
+it worked a lot, you know, worked really well with my daughter. I hope you do not mind. And just started out for us.
+
+**(04:30:00)**
+
+
+
+Thank you. Please. Good afternoon. My name is Aaron Jacobs. I have been a New York City public school teacher for the past 16 years. I teach ninth grade in the Bronx near Fordham. My school neighborhood is hit very hard by heavy traffic all the time and a huge number of my students suffer with asthma. They miss a lot throughout the year because of that. My classroom sits on the second floor, right on the front lines. Too often my students smell toxic exhaust in the room and on these hot days we are stuck between sweating or breathing in fumes with the windows open.
+
+Air pollution, as you know, kills over 3,200 New Yorkers every year. For 50 years, City agencies tried to address this. The Citizens Idling Complaint Program is the only thing that finally worked. I know it works because where I live on 36th and Madison, there are way fewer idlers than there were three years ago when I started doing this. It is difficult to find them at this point, to be honest. The program is doing its job.
+
+I testified today in strong opposition to Proposed Int. No. 561-A, sponsored by Council Member Gennaro, relating to regulating engine idling and citizen complaint enforcement. This Bill threatens to wipe out all of our progress and give a massive free pass to corporate polluters. Proposed Int. No. 561-A legalizes dual-generation idling, a dirty practice that courts have already ruled is illegal and unnecessary. It also cuts pay for everyday New Yorkers doing enforcement work, replacing the 25% award with a flat fee, which honestly kills a lot of the incentive for some people. It squeezes everyday people reporting pollution the same way delivery gig workers are squeezed. In my 16 years of teaching I have always taught my students to question everything. So I ask the Council today: who actually benefits from Proposed Int. No. 561-A? It is definitely not my students. The problem is pollution, not the people reporting it. Please reject Proposed Int. No. 561-A. Instead, please pass Int 0048-2026, sponsored by Council Member Gennaro, which translates the Citizens Air Complaint Program into designated citywide languages. Int 0048-2026 opens up the program to non-English speakers so every New Yorker can help clean our air. Thank you.
+
+**(04:32:19)**
+
+
+
+Thank you. All of this was good and I really appreciate everyone's input. We go forward from here and I am a different person from when I started this hearing, so thank you for all the input. Appreciate that. Thank you as well.
+
+**(04:32:33)**
+
+
+
+Next panel. Thank you. Just okay, all right. This is the last in-person panel that I am going to call now. What is that
+
+**(04:32:49)**
+
+
+
+Oh! Oh, that was it. Okay. So we are going to go to remote testimony, Zoom testimony or whatever. But if there is anyone... there is no formal language for me to say so I can just say it in my own words. Okay? Yeah. So if anyone here, present, wants to testify before we go to remote testimony, now would be the time to come forward and talk to the Sergeant, indicating that you want to testify. Seeing none, we are going to move over. Oh, okay, now she is giving me what I have to say.
