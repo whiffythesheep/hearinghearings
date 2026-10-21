@@ -12,7 +12,8 @@
   "Lincoln Restler",
   "Mercedes Narcisse",
   "Amanda C. Farías",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Crystal Hudson"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -75,6 +76,11 @@
    "label": "Proposed Int. No. 797-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076462&GUID=1A7B564E-F14A-4698-B976-AEB6FDDFCD39"
+  },
+  {
+   "label": "Committee Report 10/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082518&GUID=43276E57-6653-4091-842F-23032CC0ED85"
   }
  ],
  "fiscal": {

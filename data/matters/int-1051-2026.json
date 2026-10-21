@@ -4,11 +4,14 @@
  "legistar_id": "8206845",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for seriously disabled veterans",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Frank Morano",
   "Phil Wong",
   "Mercedes Narcisse",
+  "Carmen N. De La Rosa",
+  "Selvena N. Brooks-Powers",
+  "Farah N. Louis",
   "Vickie Paladino",
   "Joann Ariola",
   "Inna Vernikov",
@@ -45,6 +48,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079687&GUID=28D6BAC5-38BC-42B5-AE08-E77DF22E41E3"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081514&GUID=711D1C19-F02F-4224-AA03-2D720A96B7ED"
   }
  ],
  "fiscal": {
@@ -70,6 +78,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079687&GUID=28D6BAC5-38BC-42B5-AE08-E77DF22E41E3"
  },
  "history": [
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

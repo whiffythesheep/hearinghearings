@@ -4,7 +4,7 @@
  "body": "Committee on Housing and Buildings",
  "location": "250 Broadway - 8th Floor - Hearing Room 1",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1441262&GUID=BD7CF3B0-8691-4C86-90BE-9BBF6FA256CC&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight – The Administration's Approach to Construction Safety.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8255275",
+   "legistar_guid": "AFAE7EF3-82AE-4174-AFF7-49E563AF036B"
+  },
+  {
+   "file_number": "T2026-2515",
+   "type": "Oversight",
+   "name": "Oversight – The Administration's Approach to Construction Safety.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8255275",
    "legistar_guid": "AFAE7EF3-82AE-4174-AFF7-49E563AF036B"

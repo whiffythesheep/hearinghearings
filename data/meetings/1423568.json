@@ -4,7 +4,7 @@
  "body": "Committee on Environmental Protection and Waterfronts",
  "location": "250 Broadway - 8th Floor - Hearing Room 1",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1423568&GUID=A8C45A94-BB6A-40B6-A5F7-3C9F5E09999B&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Citizen Enforcement Programs.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8063397",
+   "legistar_guid": "1B672206-5B78-4C25-847D-689C71B81693"
+  },
+  {
+   "file_number": "T2026-2107",
+   "type": "Oversight",
+   "name": "Oversight - Citizen Enforcement Programs.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8063397",
    "legistar_guid": "1B672206-5B78-4C25-847D-689C71B81693"
@@ -24,7 +35,40 @@
    "name": "Increasing civil penalties for idling infractions.",
    "sponsor": "Julie Menin",
    "agenda_note": "Proposed Int. No. 11-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861360",
+   "legistar_guid": "BE0EDD53-76F1-45F3-99E4-E504A1B25C37"
+  },
+  {
+   "file_number": "Int 0011-2026",
+   "type": "Introduction",
+   "name": "Increasing civil penalties for idling infractions.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7861360",
+   "legistar_guid": "BE0EDD53-76F1-45F3-99E4-E504A1B25C37"
+  },
+  {
+   "file_number": "Int 0011-2026",
+   "type": "Introduction",
+   "name": "Increasing civil penalties for idling infractions.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7861360",
+   "legistar_guid": "BE0EDD53-76F1-45F3-99E4-E504A1B25C37"
+  },
+  {
+   "file_number": "Int 0011-2026",
+   "type": "Introduction",
+   "name": "Increasing civil penalties for idling infractions.",
+   "sponsor": "Julie Menin",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861360",
    "legistar_guid": "BE0EDD53-76F1-45F3-99E4-E504A1B25C37"
@@ -35,7 +79,18 @@
    "name": "Translating the citizen’s air complaint program portal into the designated citywide languages.",
    "sponsor": "Alexa Avilés",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861413",
+   "legistar_guid": "E8FE3D2E-E401-4B65-A238-0D56F32574EC"
+  },
+  {
+   "file_number": "Int 0048-2026",
+   "type": "Introduction",
+   "name": "Translating the citizen’s air complaint program portal into the designated citywide languages.",
+   "sponsor": "Alexa Avilés",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861413",
    "legistar_guid": "E8FE3D2E-E401-4B65-A238-0D56F32574EC"
@@ -46,7 +101,40 @@
    "name": "Regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection.",
    "sponsor": "James F. Gennaro",
    "agenda_note": "Proposed Int. No. 561-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879209",
+   "legistar_guid": "35BDEBCB-8699-4686-962D-1A61E31E263F"
+  },
+  {
+   "file_number": "Int 0561-2026",
+   "type": "Introduction",
+   "name": "Regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7879209",
+   "legistar_guid": "35BDEBCB-8699-4686-962D-1A61E31E263F"
+  },
+  {
+   "file_number": "Int 0561-2026",
+   "type": "Introduction",
+   "name": "Regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7879209",
+   "legistar_guid": "35BDEBCB-8699-4686-962D-1A61E31E263F"
+  },
+  {
+   "file_number": "Int 0561-2026",
+   "type": "Introduction",
+   "name": "Regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7879209",
    "legistar_guid": "35BDEBCB-8699-4686-962D-1A61E31E263F"
@@ -57,7 +145,18 @@
    "name": "Establishing a program that transfers liability for certain engine idling violations to lessees of vehicles.",
    "sponsor": "James F. Gennaro",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7879210",
+   "legistar_guid": "C51ACD21-0754-4471-A9F2-29DC1D1B7A47"
+  },
+  {
+   "file_number": "Int 0562-2026",
+   "type": "Introduction",
+   "name": "Establishing a program that transfers liability for certain engine idling violations to lessees of vehicles.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7879210",
    "legistar_guid": "C51ACD21-0754-4471-A9F2-29DC1D1B7A47"
@@ -68,7 +167,40 @@
    "name": "Establishing a code of conduct applicable to citizen noise complaints.",
    "sponsor": "James F. Gennaro",
    "agenda_note": "Proposed Int. No. 869-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7998353",
+   "legistar_guid": "E6D6286F-D08B-4F26-81E7-5B1EEE5F9529"
+  },
+  {
+   "file_number": "Int 0869-2026",
+   "type": "Introduction",
+   "name": "Establishing a code of conduct applicable to citizen noise complaints.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7998353",
+   "legistar_guid": "E6D6286F-D08B-4F26-81E7-5B1EEE5F9529"
+  },
+  {
+   "file_number": "Int 0869-2026",
+   "type": "Introduction",
+   "name": "Establishing a code of conduct applicable to citizen noise complaints.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7998353",
+   "legistar_guid": "E6D6286F-D08B-4F26-81E7-5B1EEE5F9529"
+  },
+  {
+   "file_number": "Int 0869-2026",
+   "type": "Introduction",
+   "name": "Establishing a code of conduct applicable to citizen noise complaints.",
+   "sponsor": "James F. Gennaro",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7998353",
    "legistar_guid": "E6D6286F-D08B-4F26-81E7-5B1EEE5F9529"
@@ -79,7 +211,18 @@
    "name": "Including violations for idling in the fleet program.",
    "sponsor": "Crystal Hudson",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8278903",
+   "legistar_guid": "7570F8B9-DA60-4FF9-989A-98FB0AFD75D9"
+  },
+  {
+   "file_number": "T2026-2662",
+   "type": "Introduction",
+   "name": "Including violations for idling in the fleet program.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8278903",
    "legistar_guid": "7570F8B9-DA60-4FF9-989A-98FB0AFD75D9"

@@ -4,7 +4,7 @@
  "legistar_id": "8063397",
  "type": "Oversight",
  "title": "Oversight - Citizen Enforcement Programs.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8063397&GUID=1B672206-5B78-4C25-847D-689C71B81693"
 }

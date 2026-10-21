@@ -4,7 +4,7 @@
  "legistar_id": "8027974",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of social services’ response to certain severe winter weather conditions",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Oswald J. Feliz",
   "Althea V. Stevens",
@@ -14,6 +14,7 @@
   "Farah N. Louis",
   "Mercedes Narcisse",
   "Shanel Thomas-Henry",
+  "Carmen N. De La Rosa",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -39,14 +40,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848991&GUID=7987FBA0-F34A-4684-AEF8-1F2AD89C6AF1"
   },
   {
-   "label": "Committee Report",
-   "kind": "Committee Report",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079569&GUID=7479414C-BAE1-499A-93D5-55578BF63CCB"
-  },
-  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079570&GUID=0954A30D-1BA4-45F3-B191-37EC74337ECA"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081513&GUID=CC302BBE-B5DE-46B9-BB3B-088F4BFE17D3"
   }
  ],
  "fiscal": {
@@ -72,6 +73,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079570&GUID=0954A30D-1BA4-45F3-B191-37EC74337ECA"
  },
  "history": [
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-05-14",
    "body": "City Council",

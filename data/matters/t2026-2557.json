@@ -4,11 +4,30 @@
  "legistar_id": "8257253",
  "type": "Oversight",
  "title": "Oversight - Veterans Homelessness in New York City.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081512&GUID=51E7741F-6957-4288-9638-3C7B56C17B72"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8257253&GUID=AF9A1837-C1DF-4132-9FAA-A9C755FFC18F"
 }

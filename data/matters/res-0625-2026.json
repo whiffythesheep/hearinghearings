@@ -11,7 +11,9 @@
   "Justin E. Sanchez",
   "Kevin C. Riley",
   "Nantasha M. Williams",
-  "Harvey D. Epstein"
+  "Harvey D. Epstein",
+  "Alexa Avilés",
+  "Shirley Aldebol"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -44,6 +46,11 @@
    "label": "Proposed Res. No. 625-B - 10/20/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078320&GUID=023B6E6A-8D07-4CFD-A531-C271C5D24FE3"
+  },
+  {
+   "label": "Committee Report 10/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081933&GUID=08609D20-8B81-4A6C-AC59-77C1CFD236BF"
   }
  ],
  "fiscal": null,

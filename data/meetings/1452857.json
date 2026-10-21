@@ -1,0 +1,88 @@
+{
+ "event_id": "1452857",
+ "date": "2026-10-22",
+ "body": "Committee on Finance",
+ "location": "Council Chambers - City Hall VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452857&GUID=85140EB0-5D91-4451-8FC2-54E85C0A7D78&Search=",
+ "items": [
+  {
+   "file_number": "Int 0978-2026",
+   "type": "Introduction",
+   "name": "Increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities and adjusting the income requirements related thereto.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "Proposed Int. No. 978-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8138357",
+   "legistar_guid": "2B26BF12-0C32-42DF-ACDB-B86C90707DEA"
+  },
+  {
+   "file_number": "Res 0666-2026",
+   "type": "Resolution",
+   "name": "Authorizing an increase in the amount to be expended annually in eight business improvement districts and the setting of the date, time, and place for the hearing of the local law increasing the annual expenditure for such districts.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Proposed Res. No. 666-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281394",
+   "legistar_guid": "14795BB9-537E-458C-8FF9-464156D3CA97"
+  },
+  {
+   "file_number": "T2026-2686",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8286520",
+   "legistar_guid": "936A2CC8-6EC1-4D0C-A37D-38AD07AD987D"
+  },
+  {
+   "file_number": "T2026-2687",
+   "type": "Land Use Application",
+   "name": "300 W 17th Street HDFC.HPO.FY27: Block 740, Lot 37, Manhattan, Community District 4, Council District 3.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8286287",
+   "legistar_guid": "D3379548-9CA7-4875-B588-8CDD5271E14C"
+  },
+  {
+   "file_number": "T2026-2688",
+   "type": "Land Use Application",
+   "name": "MHANY Cluster 2.NR Rehab: Block 2265 Lots 2 and 3; Block 2282, Lot 12; Block 3107, Lot 29; Block 2620, Lot 34, Bronx, Community Districts 1, 3, and 6, Council Districts 8, 15, and 17.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8286288",
+   "legistar_guid": "CE37709C-3C80-4353-A3D7-838D9524AB0B"
+  },
+  {
+   "file_number": "T2026-2689",
+   "type": "Land Use Application",
+   "name": "Albans HDFC.PLP.FY27: Block 12334, Lot 273, Queens, Community District 2, Council District 27.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8286289",
+   "legistar_guid": "792751AC-F8D6-4B93-8AE6-F2D31B170F30"
+  },
+  {
+   "file_number": "T2026-0004",
+   "type": "N/A",
+   "name": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7800657",
+   "legistar_guid": "759ABCAE-7F73-4468-ABEF-D9ACF72507D0"
+  }
+ ]
+}

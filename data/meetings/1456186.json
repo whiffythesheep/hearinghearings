@@ -1,0 +1,33 @@
+{
+ "event_id": "1456186",
+ "date": "2026-10-22",
+ "body": "Committee on Criminal Justice",
+ "location": "Council Chambers - City Hall VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456186&GUID=C19222A6-0B69-47F6-87A5-ABBE8101EA0E&Search=",
+ "items": [
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for early mail and absentee ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "Proposed Int. No. 786-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Reporting on voter registration and voting in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "Proposed Int. No. 797-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  }
+ ]
+}

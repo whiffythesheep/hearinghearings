@@ -4,7 +4,7 @@
  "legistar_id": "8206850",
  "type": "Resolution",
  "title": "Resolution recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations, encouraging New Yorkers to learn about and support these organizations, and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Frank Morano",
   "Lincoln Restler"
@@ -25,10 +25,27 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862856&GUID=86B6E7EF-45A9-41F8-959F-056E3ECC09C2"
+  },
+  {
+   "label": "Committee Report 10/21/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081516&GUID=861181FE-57E2-4978-911A-0259DACDFB57"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Veterans",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

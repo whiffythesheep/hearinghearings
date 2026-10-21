@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0897-2026",
- "title": "Law to require city response to severe cold for homeless people",
- "summary": "This bill would require the Department of Social Services to launch an emergency outreach and sheltering response when forecasts predict temperatures of 20 degrees or below, heavy snow, ice storms or other severe winter weather, lasting at least 24 hours after conditions end. The response would include more frequent outreach checks on at-risk unsheltered people, deployment of warming buses, help getting to shelters, and expanded access to harm reduction services. The agency would also have to identify at-risk individuals each fall and submit reports to the Council Speaker before November, December, January and February detailing its response plans and shelter capacity.",
+ "title": "Law requiring cold-weather outreach plan for homeless New Yorkers",
+ "summary": "This bill would require the Department of Social Services to launch a severe winter weather response whenever forecasts predict conditions like temperatures of 20 degrees or below, heavy snow, or ice storms within 24 hours. The response would include more frequent outreach to at-risk unsheltered individuals, deployment of warming buses, transportation to shelter, and expanded access to harm reduction facilities. DSS would also have to identify at-risk individuals each fall and report to the Council Speaker before each winter month on its response plans and shelter capacity.",
  "model": "claude-sonnet-5",
- "input_hash": "65fcd16403e61205"
+ "input_hash": "5cfaab4116cad9ee"
 }

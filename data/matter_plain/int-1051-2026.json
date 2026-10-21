@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1051-2026",
- "title": "Law to fully exempt seriously disabled veterans' homes from taxes",
- "summary": "This bill would fully exempt the primary residence of a seriously disabled veteran from property taxes and special district charges, assessments and levies. The veteran must meet all other requirements of state real property tax law section 458-a, including specific disability criteria. It would take effect immediately, with the finance commissioner notifying the state veterans' services department within 30 days.",
+ "title": "Law to fully exempt severely disabled veterans from property tax",
+ "summary": "This bill would let New York City give a full property tax exemption on the primary residence of veterans rated 100% disabled due to a service-connected disability, if they meet state eligibility rules under Real Property Tax Law section 458-a(11). The exemption would also cover special district charges, assessments and special ad valorem levies. New York State already allows localities to offer this exemption, but the city must adopt it to apply here.",
  "model": "claude-sonnet-5",
- "input_hash": "fa6811464d920973"
+ "input_hash": "691b8d3c25599765"
 }
