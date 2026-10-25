@@ -1,0 +1,864 @@
+The Administration's Approach to Construction Safety
+Committee on Housing and Buildings · October 21, 2026 · 2hrs 32m
+Source: https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-the-administrations-approach-to-construction-safety-2026-10-21/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261021-101611.mp4
+
+================================================================
+
+(00:00:08)
+
+Good morning and welcome to the New York City Council hearing on the Committee on Housing and Buildings. At this time, I ask everyone to silence all electronic devices. If you wish to testify at today's hearing, please sign up at the back of the room.
+
+(00:00:30)
+
+Thank you, Sergeant, and good morning. I am CM Pierina Ana Sanchez, Chair of the Committee on Housing and Buildings, on behalf of the public and the administration who have joined us this morning. Before I begin, I just want to acknowledge that we are joined by CM Maloney and CM Riley.
+
+New York City is home to more than one million buildings and 40,000 active construction sites at any moment. The chief agency overseeing this work in the City's construction industry is the Department of Buildings. The Department of Buildings plays a critical role in enforcing the rules and regulations that keep the tenants, small businesses and workers across those one million buildings safe.
+
+When a new building is constructed or an existing building undergoes renovation work, the public should have confidence that this work is being conducted with the utmost integrity and that the working conditions on construction sites are safe for every person involved. Importantly, we have some of the most rigorous construction safety standards in the world and they are up to date. The construction codes we have in effect are just from 2022. But our standards only protect the public when the enforcement agency is staffed, resourced and able to ensure that developers, contractors and professionals are following the rules.
+
+So today we will take a closer look at DOB's ongoing efforts to advance construction safety. We have seen recent encouraging trends in the data. In fiscal year 2026, the Mayor's Management Report noted a 45% decrease in serious or fatal construction injuries, which is down from 557 to 308. Of those serious injuries, falls remained the leading cause over the past two years. While the overall decline can signify real progress, more can be done to identify the persistent causes of both serious injuries and deaths on construction sites. Deaths consistently hover around eight per year. I have to add that while these numbers seem positive, the trends are also up and down since 2022 during my tenure as Housing Chair, and my usual optimism has a little pause.
+
+In the same way that New York City seeks to prevent all traffic fatalities through the Vision Zero initiative, we should use a similar data-driven approach to eliminate construction-related deaths entirely. Recent high-profile incidents also highlight the need for continued evaluation of our City's construction safety standards. The buckling of two load-bearing columns on the 21st floor of the former Pfizer headquarters in Midtown raised significant concerns about whether corners were cut, which unsafe conditions were first identified, what scope of work was approved and how the City can ensure this never happens again. I am thankful for the swift response to ensure the safety of all New Yorkers in the surrounding area, but the incident was serious enough to prompt a citywide enforcement blitz from the Department of Buildings, the results of which we will also be wanting to discuss during today's hearing.
+
+On a related note, we will also receive an implementation update for legislation that we championed here in this Committee — Local Law 79 of 2024 — which created a new requirement for proactive enforcement at the Department of Buildings. Additionally, a recent indictment from the Brooklyn District Attorney's Office raises concerns about the oversight of site safety training credentials. Last month, the Brooklyn D.A. charged two individuals and the related company Red Coat Inc. for creating and selling fraudulent site safety cards to construction workers. Although the company was authorized to provide site safety trainings, the D.A. alleged that they sold cards to construction workers who never completed that training. We must ensure that all workers are appropriately trained and continue to improve the City's tools for overseeing the companies that fake safety credentials.
+
+Finally, I would be remiss if I did not end with my continued concerns around staffing within the agency. In my time on the Committee on Housing and Buildings, I have repeatedly raised concerns about staffing. The prior administration eliminated roughly a quarter of its budgeted workforce, including positions tied to inspections and safety oversight. While the Council has fought year over year to recover positions, even in the most recent fiscal year the DOB enforcement division saw a reduction of 16 positions, including seven inspectorial titles. So I will continue to push for the inspectorial and safety capacity that the agency needs.
+
+I look forward to hearing more about the administration's approach to construction safety, implementation of recent Council legislation and further opportunities to collaborate toward our shared goal of keeping New Yorkers safe. I would like to take this opportunity to thank my team: Deputy Chiefs of Staff Ben Ratner and Kim Castellanos, our District Director Maria Ho, Gerard Fernandez, Soraya Bania, Brianna Acevedo, Malia Sardinia. Welcome to our new fellow Marcus Connor, intern. I would also like to thank the Housing and Buildings Committee staff: Senior Legislative Counsel Austin Malone, Legislative Counsel Billy Failure, Senior Policy Analyst Jose Condi, Senior Policy Analyst Eric Spencer, Data Scientist Mohammed Shadid and Noah Slosberg, and Finance Analyst Karlyn Arango and Spencer Kun. With that, thank you all.
+
+(00:06:23)
+
+Thank you. Good morning, Chair Sanchez and members of the Committee on Housing and Buildings. I am Ahmed, Commissioner of the New York City Department of Buildings. I am joined today by First Deputy Commissioner Patino, Deputy Commissioner of Policy and Legal Affairs, and several members of the Department's leadership team. Thank you for holding this hearing on the critical issue of construction safety. We look forward to discussing the Department's efforts to keep New Yorkers safe across New York City's landscape of nearly one million buildings and 40,000 active construction sites. Approximately 1,700 dedicated Department employees work every day to support the City's growth and safety. I just want to emphasize the full number because in addition to our inspectors, it also includes the administrative and clerical staff and the attorneys — it is a full whole cycle of work that happens in order to make this process work effectively. As residential and commercial buildings are constructed or altered, safety is the thread connecting all of our efforts. It shapes how our code development team collaborates with industry to update and refine the construction codes, how our inspectors assess both active construction sites and existing buildings. The regulations we enforce further the agency's mission of ensuring the safe and lawful use of buildings and construction sites across the City.
+
+This work ultimately protects all New Yorkers and those who visit and work in our great City, including the construction workers who helped build it and maintain it. Today I am going to address the following broad topics.
+
+(00:08:09)
+
+The Department's construction safety-related regulatory framework, training requirements, education and outreach, enforcement and technology and innovation. The Department's regulatory framework relies on the requirements in our codes, particularly Chapter 33 of the New York City Building Code and related Department rules. Chapter 33 sets the City's core safety requirements for construction and demolition work, focusing on protecting the public, workers and neighboring properties. It mandates safe job site conditions, site safety plans for large projects, stringent requirements for the use of cranes and heavy equipment, procedures for controlled demolition work and the protecting and monitoring of adjacent buildings. Chapter 33 not only sets requirements for how construction and demolition work is carried out — it also establishes requirements for site safety professionals at larger jobs.
+
+For example, it requires a licensed construction superintendent to oversee certain construction and demolition projects, including the construction of new buildings, the full demolition of existing buildings and large alterations to existing buildings. Through rule, DOB has specified the tasks a construction superintendent is expected to perform in fulfilling their core obligations of maintaining a safe site, including a daily inspection of the job site and ensuring compliance with Chapter 33 and with approved construction documents. Additionally, pursuant to Local Law 149 of 2021, DOB has put restrictions on the number of job sites a construction superintendent can be responsible for and will begin to enforce a strict one-job limit and mandatory on-site presence starting early next year.
+
+When DOB makes changes to the codes or our processes, such as changes to the superintendent requirements, it is important to make sure that the industry, building owners and the public are provided notice. To that end, DOB uses service notices, construction advisories, building bulletins and our My Building newsletter. If you have not signed up for the My Building newsletter, please go online and enter your email. We use these tools to keep the construction industry and public informed, to provide more detailed guidance, to clarify regulatory requirements and to alert the industry and the public to emerging safety issues and regulatory changes. The Department also uses its social media platforms and holds quarterly meetings with various segments of the construction industry and even monthly meetings in our borough offices where such issues are discussed. Ultimately, these proactive outreach efforts ensure that our industry partners, building owners and the public are well informed and can prepare for changes that will impact them.
+
+The Department is always looking for ways to modernize and facilitate a safer City. I am proud to say that in partnership with the Mayor's Office, we are convening the Mayor's Committee on Construction Safety — one of the key recommendations and actions in the housing plan — as part of a broader effort to address injuries and fatalities across New York City's construction industry. Invitations to the first committee meeting were sent out this week and the committee is expected to convene shortly. This effort will bring together labor representatives, workers, industry experts and senior City officials to examine systematic safety challenges and recommend reforms, which include legislative reforms that we would work on with the Council. The committee's mandate includes identifying the root causes of persistent construction injuries and fatalities, evaluating current enforcement tools and identifying gaps in accountability, particularly where contractors repeatedly violate safety standards. The committee will also assess how emerging technologies can help reduce hazardous tasks and protect workers in extreme weather conditions, which was the focus of the Mayor's Executive Order 17 issued earlier this year. Through this work, the committee will strengthen safety while supporting the City's housing and broader development goals. Chair Sanchez, we look forward to your participation on the committee.
+
+Pointing beyond itself to further support housing and development, the Department recently launched a related effort: the Affordable and Efficient Construction Reform Task Force. The task force is an initiative aimed at streamlining the development process in New York City and is a major component of the administration's Block-by-Block Housing Plan. The Department is working with industry and agency partners to evaluate multiple facets of the agency's regulatory framework to identify areas for improvement, to speed up construction and to make it less expensive to build in the City without compromising safety. The goal is to develop recommendations for operational changes and modifications to the City's construction codes, a process that is working in parallel to the important work of our code committee process.
+
+As we shared during the recent hearing on the Mayor's Housing Plan, construction sites are safer than they have been in previous years. Proactive and complaint-based inspections, industry outreach and engagement and mandatory site safety training for workers have contributed to this progress. We believe that training is a key component that directly correlates to the downward trend in construction-related injuries and fatalities. Since calendar year 2023, the number of construction-related injuries on job sites have steadily decreased. In calendar year 2023, there were 692 reported injuries compared to 482 in calendar year 2024 — a 30% decrease. In calendar year 2025, there were 320 reported injuries, marking a 34% decrease from the year before. As of now, there have been 266 reported injuries thus far for calendar year 2026. Meanwhile, there were seven construction-related fatalities in calendar year 2023, ten in calendar year 2024, seven in calendar year 2025 and four so far in 2026.
+
+I want to underscore this: there is no such thing as an acceptable injury or a fatality on a construction site. We believe that with training, education and outreach, those incidents are preventable and we have to work harder to make it so. What our data shows is that worker falls are the leading cause of construction-related injuries and fatalities, which makes fall prevention a focus for the Department. That is reflected in the curriculum — both the mandated SST training and refresher courses cover fall prevention and a number of other topics. Further, the City Council and the industry worked on Local Law 102 of 2026, passed at the end of last year and effective earlier this year, which updated the SST curriculum to include a new mental health module that addresses suicide prevention, substance misuse risks and the everyday stresses of construction work. This reflects a shift in how New York City thinks about construction safety, moving beyond hard hat hazards to the well-being of workers themselves. This marks a deliberate evolution of the SST program by acknowledging the human realities of the workforce that builds our City.
+
+Today, approved course providers have issued over 396,000 active site safety training cards, nearly 74,000 active supervisor cards and approximately 114,000 active worker cards. DOB continues to conduct outreach regarding the site safety requirements, including through its annual Construction Safety Week event, publishing an annual construction safety report and conducting targeted outreach when we identify an issue. We take site safety training seriously. We have taken strong enforcement action against course providers who put the public at risk. Just last month, we coordinated with the Department of Investigations and the Brooklyn District Attorney's Office...
+
+(00:16:56)
+
+investigate, which led to an indictment of the company and its principals for selling fraudulent OSHA and site safety training cards to workers who never received the required training. Immediately following the indictment, we revoked their status as a DOB-approved course provider and developed a plan to invalidate all 2,000 active cards the company had issued, citing the danger of allowing untrained workers onto job sites and the need to preserve the integrity of the City's construction safety training program. Simultaneously, the Department of Small Business Services launched a remediation program urging affected workers to contact the agency and provided free, legitimate replacement training through SBS-authorized providers so workers could come into compliance and continue to work safely on construction sites. These enforcement actions underscored DOB's core responsibility to protect the public by ensuring that every worker on a construction site holds a legitimate, verifiable credential supported by actual training, not fraudulent credentials that undermine safety.
+
+As the City Council is aware, the establishment of regulatory requirements and modifications to applicable codes is only one part of DOB's work. Ensuring compliance with those requirements is another, and includes enforcement of technical and safety standards. We receive complaints of potentially violating conditions from a number of sources, including 311, referrals from other City agencies such as HPD or FDNY, or a notification from the industry in connection with an incident. After notification of an incident or potentially violating condition, inspectors will be dispatched to the building or construction site to inspect. Where a violating condition is found, appropriate action is taken, which may include issuance of an OATH summons, a stop work order or a vacate order, depending upon the nature of the violating condition.
+
+In the case of immediately hazardous violations — Class one — when the owner has failed to certify the correction of violating conditions, the Department will reinspect until all violating conditions are corrected. When appropriate, the Department utilizes enhanced enforcement tools such as issuing criminal court summonses or initiating affirmative litigation, which requires coordination with the New York City Law Department. Enforcement actions could also include disciplinary actions against licensed design professionals.
+
+A response to an incident at 57 East Burnside Avenue in the Bronx is an example of where the Department took swift enforcement action in partnership with the Chair's office. On January 12, 2026, construction crews employed by a general contractor were performing demolition operations on a large single-story building. While work was ongoing, a building wall along Wolf Avenue experienced an uncontrolled collapse, spilling out onto the adjacent sidewalk shed and sending debris approximately 15 feet onto the roadway. Fortunately, no one was hurt because of the collapse, which would have resulted in a serious injury. The DOB investigation into this incident determined that the contractor ignored a previously issued full stop work order for the site, which legally prevented demolition from proceeding. Additionally, the contractor was performing the demolition out of sequence and contrary to the approved engineering plans, and was illegally using an excavator to carry out the demolition work. We took immediate action to suspend the registration of the contractor and issued violations. We are using every tool in our toolbox to hold bad actors accountable and look forward to working with the City Council to expand our enforcement tools.
+
+Since the City Council passed Local Law 79 of 2024, requiring DOB to create a proactive inspection program, the Department has shifted from a primarily complaint-based approach to a more proactive one, which strengthens public safety and enables us to intervene before major issues arise. The program uses predictive analytics to focus resources on the City's most at-risk buildings and on bad actors. In calendar year 2024, the Department conducted 127,535 reactive inspections and 49,431 proactive inspections, with proactive inspections accounting for 28% of the total. In calendar year 2025, we conducted 129,058 reactive inspections and 57,673 proactive inspections, increasing the proactive enforcement share to 31%. For calendar year 2026 to date, the Department has conducted 109,793 reactive inspections and 54,226 proactive inspections, further increasing the proactive share to 33%.
+
+The proactive inspections program is comprised of a team of 59, including inspectors and administrative staff. However, the work of the proactive inspections team and our inspector staff in general has a downstream impact on other areas of the agency. When violations are issued, that results in increased workload for other units, such as attorneys who represent the Department at OATH and the administrative and clerical staff who review and process certificates of correction.
+
+Lastly, I would like to touch upon technology and innovation and what DOB is doing in that space to improve operational efficiency and safety. Expanding the City's available housing supply remains a priority for this administration. Further, the Department's work as it relates to commercial development directly impacts the creation of jobs and the industries that provide essential services to New Yorkers. Therefore, it is paramount that we have the technological capacity to support and keep pace with development in the City. That includes implementing enhancements to available modules and functionality in DOB NOW, as well as exploring ways technology could facilitate faster building inspections, such as with the use of drones.
+
+We are continuing our work with the Buildings Tech Lab, a public-private initiative with the Partnership Fund for New York City. The Buildings Tech Lab connects technology companies with subject matter experts with the goal of identifying, developing and testing technologies to streamline our processes and improve operations. Through the Buildings Tech Lab, DOB is utilizing software to more efficiently route inspectors. That means we are able to respond to a larger number of sites in a shorter time frame. Overall, more efficient routing coupled with our high inspector staffing level of 609 inspectors, 14 in the pipeline and a vacancy rate of 8%, results in increased productivity.
+
+This fall, DOB plans to engage formally with two firms — Teleme and Gripes — to develop and test software to help our enforcement team promote safety on and in existing buildings. Teleme will focus on using predictive analytics to identify violation-prone actors in the construction and real estate industries and support our enforcement investigations, with a particular focus on cases of tenant harassment. Gripes will help bring all agency data into one dashboard to streamline our enforcement operations. Next year, we plan to engage several more firms through the Tech Lab to support other aspects of our enforcement mission. Thank you for the opportunity to provide this testimony before you today.
+
+(00:25:09)
+
+We welcome any questions you have. And now I will take a breath. All right. Thank you.
+
+(00:25:16)
+
+Thank you so much, Commissioner. I am a fan of the long testimony. I am sorry, public, if you are not. I would also like to acknowledge that we are joined by CM Susan Zhuang and CM Feliz. Oh, you snuck in. Okay, good to see you, Council Members.
+
+(00:25:36)
+
+Okay, so I will be signing up for the My Building's newsletter, and my first question...
+
+(00:25:43)
+
+I just want to start with a clarification question. Thank you for the breakdown between the number of inspections that have been happening reactively versus proactively. I do not know if you saw my cheer at the increasing percentage that is proactive, although you did say that it causes a lot more work. That is okay. We can talk about that.
+
+So my question number zero: I just want to make sure we are talking about the same numbers. For calendar year 2026, for instance, you cite 109,793 reactive inspections and 54,226 proactive inspections, for a total of roughly 160,000. But we are looking at numbers more at the scale of 400,000 inspections annually. For instance, in our report, we say that fiscal year 2026 completed 415,401 inspections. This is being pulled from the MMR. Can you just help us understand the difference there — 160,000 versus...
+
+(00:26:52)
+
+415,000?
+
+(00:26:55)
+
+The total number of inspections includes all the development inspections that we do on the close-out of jobs — signing off plumbing and electrical applications — and not just the enforcement inspections that we are talking about with the proactive and reactive numbers. So as the Commissioner mentioned...
+
+(00:27:15)
+
+Okay, excellent. Thank you so much, Deputy Commissioner. So focusing in on the enforcement inspections that we are talking about here, at roughly 160,000 — can you help us understand, of the 1,700 headcount, how many... We have roughly 338 construction inspectors. Is that the number of inspectors that is effectuating these 160,000 inspections? Those numbers are for both development and enforcement inspections. Those are the total number of inspectors that the Department has. Okay, so then how many inspectors are being dedicated to enforcement inspections?
+
+(00:28:07)
+
+Okay. So it is 430 for construction inspections and, overall, yes. Okay. 430 — sorry. So 430 for construction inspections. The overall inspection universe is 600.
+
+(00:28:38)
+
+And we can break it down even further by units. We can follow up with a breakdown by units. Their role in construction safety is that before we allow a project to get sign-offs or move toward getting there, those inspectors are making sure that the connections are there properly and the work has been done according to plan. So for us, we see it as having a larger holistic role. Got it. Thank you.
+
+(00:29:10)
+
+Thank you, Commissioner. So is it true to say that of the inspectors carrying out proactive and reactive enforcement inspections — if there are roughly 160,000 inspections happening per year and roughly 430 inspectors within the unit that is doing these enforcement inspections — then they are roughly doing 1.2 a day each? Inspector, do you...
+
+(00:29:39)
+
+The average number of inspections varies, roughly between 5 and 7 inspections a day.
+
+(00:29:47)
+
+What needs to be taken into account is vacation, court time for all the OATH summonses that are issued and training. The only thing I would add is that the life of a development inspection versus a construction inspection can vary. So a development inspection on a large project — that person may have one or two, depending on the size of what they are doing. For construction safety, if someone is looking at a full stop work order on a large site, that takes more time. This is part of what the routing technology that we are looking at will help us with — basically pulling in input from what they are doing that day to get better analysis of how long it will take them, so we can route them more efficiently.
+
+(00:30:40)
+
+I cannot get to six places in one day almost ever, so that is very, very impressive. Just another question to make sure we are on the same page, if you have this information — because I do not think we sent this to you in advance. One of the complaints I get on a local level is, you know, the types of complaints I get on a local level because of the kind of district that I represent is about smaller buildings, right? Those that do not meet the threshold for requiring site safety training cards and supervisors and assistants and coordinators and all of that. So can you help us understand — using the 415,000 overall inspections per year or the 160,000 or so inspections — can you help us understand the breakdown of how many of these inspections are happening at small sites, you know, one- or two-story buildings, those that do not meet the threshold for SST, versus at larger sites?
+
+(00:31:45)
+
+I am not sure if we have those numbers exactly. I will say that of our teams on the reactive side, the borough enforcement team — each borough has an enforcement team that is managed through a central leadership team. They are out there doing reactive, responsive enforcement, in addition to real-time enforcement that works in the evenings, and an emergency response team that goes out in the evenings and weekends. So we can come back with those numbers, but we have additional units even outside the borough enforcement team.
+
+(00:32:19)
+
+We also have, as a complement to the proactive inspection team, our Staying Vigilant program, which focuses on particular violations we find and going back and looking at our analytics for where we see hot spots or bad actors. And just to add — a construction superintendent is required on all new buildings, so that is irrespective of the size of the building. In our building codes, we have a definition of a major building as seven stories or more. That is only for site safety managers and coordinators. Construction superintendents are still required on all new buildings, existing buildings that have a vertical or horizontal enlargement, a full demolition, or an alteration that affects more than 50% of the floors of the building, if you are removing the floor of a building, or if you are doing any kind of underpinning or work supporting excavation. Those construction sites still require a construction superintendent.
+
+(00:33:27)
+
+That is helpful. Thank you so much. Okay, so I am going to close with a question and then turn to my colleagues. I would like to acknowledge we have also been joined by CM Joseph. Thank you for being here. So moving to my question number one — that was question number zero, this is question number one. In July 2026, an office-to-residential conversion project at the former Pfizer headquarters in Midtown partially collapsed. In response, DOB conducted an enforcement sweep, inspecting over 180 construction projects. What were the results of the sweep? Were these inspections conducted at construction sites throughout the City or targeted at specific sites? How did DOB identify those sites? How many violations were issued? Did DOB identify construction sites with similar issues to the location of the collapse? And how many office-to-residential conversions are under construction today?
+
+(00:34:18)
+
+We will go from there. So the particular incident at the Pfizer location in Midtown — there were a number of different enforcement actions that were taken the day of and the days that followed. In particular, we did deploy an enforcement sweep related to this. This is actually a tool that we have used and continue to use as a complement to our investigation of a range of different issues. In this situation, we looked at entities that were associated with the work being done at this construction site. We did an inspection, as you said, of 180 construction sites. We issued, as a result of those inspections, 71 OATH violations and we issued 19 stop work orders total. The violations, thankfully, were not representative of structural concerns that...
+
+(00:35:17)
+
+posed a risk to the public, but we were able to make sure we communicated to those sites that safe action needed to be taken, and we continue to follow up on what transpired through that sweep.
+
+(00:35:36)
+
+Great. Thank you, Commissioner. And how many office-to-residential conversions are under construction today? We are going to look for that number and come back to you. As of today, 2026...
+
+(00:35:53)
+
+There are 90 buildings permitted, totaling about 11,207 dwellings. That is actually nearly triple the amount during the same period last year, which was 37 buildings and 4,814 dwelling units. So the current number is 90 buildings permitted, totaling 11,207 dwelling units, and that is up from 37 buildings last year. And how many...
+
+(00:36:23)
+
+and 4,814. So this is cumulative — 90 this year, an additional 37 last year. Yes. I ask because our bills do things...
+
+(00:36:39)
+
+Okay, great. Thank you. Does DOB plan to implement additional structural review requirements for conversions that add floors? So the investigation continues. We are continuing to look at both what is happening here, but we are also looking at data related to other construction sites and enlargements. Again, I think we are looking at this since we do not see this as an issue related to office-to-residential conversion specifically, but as a construction site issue that we need to examine more deeply. All recommendations will be on the table. Additionally, as part of the review, we have asked additional engineers brought in on this case — it was Thornton Tomasetti — to do their review and provide us recommendations about where things could be stronger and more efficient. So we will be looking at this ourselves, we will be asking for feedback from the additional engineers brought onto this project to review what happened, and we will be making recommendations after that review.
+
+(00:37:47)
+
+Thank you, Commissioner. I want to acknowledge that we are joined by CM Salaam. So you said the investigation is ongoing. Is there anything you can tell us about precisely what happened at the Pfizer site? Anything with respect to what went wrong? There have been claims that there was insufficient shoring, that that is not what caused the buckling of the columns. Is there anything that you can share with us?
+
+(00:38:10)
+
+Unfortunately, it would be inappropriate to talk about items in the middle of an investigation that we are working on with other law enforcement partners, and so we will need to wait until the investigation is concluded.
+
+(00:38:23)
+
+Thank you. I will ask one more question and then I will turn it over to Council members for their questions and any other colleagues before I continue. So with respect to Local Law 79 of 2024, thank you for the updates within your testimony regarding the implementation of the proactive inspection program, where you utilize predictive analytics to identify potentially problematic buildings such as buildings with unlicensed or unpermitted work, maintenance issues or structural issues. Can you tell us, in addition to the number of proactive inspections that you have been able to do in fiscal years 2026, 2025 and 2024, the number of violations and stop work orders that have been issued as a result? Is the rate of stop work orders issued and the rate of violations found in proactive inspections different from the rate that is found in reactive inspections or otherwise?
+
+(00:39:26)
+
+Well, let me start with that. So between January 2025 and 2026, the proactive enforcement initiative has produced 19,847 total inspections at 13,090 unique locations. There have been 14,161 violations issued during the proactive enforcement initiative. I can ask our first deputy to speak to the inferences and findings on the differences between both.
+
+(00:40:06)
+
+Thank you, Commissioner. I just want to note that these are very specific inspections that are being done by that team. So this is a subset of the total number of inspections and the total number of violations issued by the department as a whole. The inspections that are done by this team are completely proactive — 100% proactive — as compared to the 30% that we were quoting before.
+
+What we are finding with our proactive inspection team, which is a team that goes out and looks at buildings adjacent to construction sites, is that in reviewing the drawings for those construction sites and the inspections of the buildings next door, we are identifying high-risk buildings and ensuring that the construction site next door is not impacting those high-risk adjacent buildings. With our heightened enforcement team, that team is specifically looking at owners, licensees and registered design professionals. Licenses could include electricians, plumbers, construction superintendents, site safety managers — it runs the whole gamut of our licenses. They are specifically looking at those entities and potentially who those entities are also working with, and inspecting that spider web of connections, looking at all of the buildings that those entities are involved with.
+
+So the proactive inspection team is definitely finding a higher rate of violations. The proactive inspection team is putting together a lot of good work using predictive analytics. All of that trickles down to heightened enforcement. When I say heightened enforcement, that is the result of all the sweeps that we do with our attorneys at the Department of Buildings, whether that is our licensing unit or our borough enforcement team. Those teams are processing criminal court nuisance abatement cases. I would say that the main thing here is that when we are doing complaint-driven responses, we are normally working with one site, an individual small lot or a large complex series of lots together. What we see in proactive work is that we may be dealing with multi-building, multi-jurisdictional issues. We have recently met with most of the DA offices about the work that we need to collaborate on further, and we are finding that there is a synergy between the proactive work that we are doing, potentially exploring further areas like false filings and bringing these cases with worker protection or the construction safety units, and now proactive enforcement — the work that we do with the
+
+(00:43:42)
+
+Council. It gives us tools to come to the DA with information, to come to the tenant harassment task force with information that we did not have before. Excellent. Thank you. It is really heartening to hear that it is making a difference. 14,000 violations issued means that there were 14,000 problems out there, and it is really helpful to hear that. Holy moly. That is even more impressive. That is really heartening. That was an effort — that local law was an effort that we really worked on together, the agency and the Council. So just invite us to continue to do just that in the task forces that we are going to be working on together. Thank you.
+
+(00:44:30)
+
+40,000 at 13,000 unique sites. Large numbers. Wow.
+
+(00:44:37)
+
+Thank you. Thank you for the work to all of the members working at the department. So next I am going to call up a Council member, followed by Joseph, and then I will see if any of the other colleagues have questions and then I will come back for round two. Thank you, Chair. And then also I want to thank
+
+(00:44:54)
+
+the Commissioner for working very hard and giving us a very long testimony.
+
+(00:44:58)
+
+I also have some questions. How are the safety requirements enforced at different steps in the process? There may be reviews checked in during the approval of plans or the permitting process, most commonly known as pre-approvals. Those are items where we need to get verification that the applications submitted are reviewed both by their staff and our staff before an application is allowed to move forward toward approval or permitting. Who is responsible for checks on whether or not safe protocol is followed?
+
+(00:45:44)
+
+Like I was saying, in my district we have 2501 it is extreme. We have been raising a question about a specific site for a couple of years, and then finally we got a stop order because we knew the building was
+
+(00:46:00)
+
+from before 1990. Definitely it has a special asbestos issue there, and there was a fraudulent report submitted. Then finally, after many community members called for investigations, you did the investigation and found that there was
+
+(00:46:25)
+
+asbestos. But the report said there was no asbestos. And that was from a couple of years ago.
+
+(00:46:30)
+
+Why did the report suddenly find it was fraud?
+
+(00:46:35)
+
+So I remember during the preliminary hearing you had raised these issues and provided us with a letter, and you are right. A couple of weeks later we were able to review it, and when we found that there were conditions that needed to be corrected, we worked with our partners to see that it was resolved. I do not remember all the details of the issue, but I am happy to come back with more details if you
+
+(00:46:59)
+
+want. Very specifically, we reviewed the documents that were submitted as part of that letter, and they were the agency that identified that there were false documents filed with that filing.
+
+(00:47:17)
+
+And they issued the stop work order on the site. Once they issued the stop work order on the site, the Department of Buildings followed suit and waited for a new filing to be issued. Once that happened, we were able to lift the stop work order, but we followed the stop work order issued by
+
+(00:47:43)
+
+them. Okay. Thank you. And also, you know, the developer was already doing demolition there for a couple of years before you issued the stop order, which actually put the community in danger already. And also the community found that the site at 2501 is in a flooding zone. The plan with the proof there did not say it is in a flood zone. If it is flooding on the first floor, the lowest floor of the residential area must be elevated above the base flood elevation, even in the basement. So they need to raise it and they cannot build anything on the first floor. But on the plan we see the city approved the project
+
+(00:48:40)
+
+with them building on the first floor. How do you explain that? We received your letter very recently. I think we are also double-checking this letter internally with not only the plan team but with the flood manager, which is another role and responsibility that the Department of Buildings has with the base flood elevation. It is more focused on residential use versus other uses in the building. Our commitment is to try to get you a response this week on our evaluation to make sure that no approvals missed any of the questions that you have just raised.
+
+(00:49:16)
+
+There is also the issue that the developer is suing while the community member has access to his backyard. The judge already threw out the case. So they do not have the access. How are you going to approve their demolition permit?
+
+(00:49:38)
+
+I am not familiar with that, but we can look into the court case you are referencing.
+
+(00:49:43)
+
+If there is a condition that they needed to meet in order to proceed and they do not have that, that would impede their building moving forward and they would have to come back to us with a different solution.
+
+(00:50:01)
+
+So we will have to look into that question. So as a result of
+
+(00:50:04)
+
+that, the damage itself — both what already occurred and what they intend to do in the future — is illegal and should not have been approved. Yes. If there is something improper or it does not meet the code requirements or the legal requirements for moving forward, many of the tools we talked about in the testimony and here at the hearing are what we use to put a project on hold, whether it is temporary or longer. But we can look into some of the issues you just raised and we will get back to you on the flood plain question this week.
+
+(00:50:42)
+
+And then also it troubles me that the developer, acting against the rules, does not pay the fine. Why do they keep getting their permit? It is revoked, and then they get it again. Who also moves to revoke the permit first and then gets the permit again?
+
+(00:51:05)
+
+Again, if a permit is revoked, it is likely that there is something about the approval that was wrong, or that they did not supply us with the information that they need, or something changed. Sometimes the permit is revoked because the insurance lapsed for one of the key permit holders on the project. We are an agency that is pushing and trying to get owners to move toward compliance. So when an owner does come into compliance, because we have a right structure for construction permits, they can apply to have their permit reinstated. There are a number of different pathways for different
+
+(00:51:45)
+
+strategies. And this developer has had a lot of fraudulent reports and a fraud history and a bribery history. How come this type of developer is still allowed to get permitting in New York City? This is a concern of New York City residents and a concern of a lot of the community
+
+(00:52:06)
+
+members. I know that you have a lot of concerns about the development sites. We have tried, particularly since you have brought this up, to be in constant contact with your office trying to resolve or look at each issue that comes up, and we are happy to continue doing that. We will look at the issues that you have raised, we will investigate them, and if there is an action that we need to take, the department will take the action.
+
+(00:52:27)
+
+I also brought more paperwork. If the sergeant at arms can pass it to the Commissioner — this is actually more documents that our community found. I hope you can take a look. We also sent another letter on October 16 with more information.
+
+(00:52:45)
+
+The community can find more information than you might expect. I feel pretty confident about our technology and our ability to look into information, and we do appreciate when folks raise issues to our awareness. It is the partnership that makes most of these projects
+
+(00:53:04)
+
+successful. The community feels that if it is a project they want, they can get whatever permits they want and then put the community in danger because flooding is a big issue in the area. No one gives any concern, no one is saying anything about it, and then they just want to build a building and put the whole community in danger. Please help us to address this issue.
+
+(00:53:26)
+
+Thank you.
+
+(00:53:26)
+
+Chair, we hold city projects to the highest standards, as we would on the private side. You can talk to our City partners and I am sure they would share the same. Thank you.
+
+(00:53:37)
+
+Thank you. Thank you, Council members. So now, Council member.
+
+(00:53:39)
+
+Thank you, Chair. Similar concerns as my colleague. I have called on several occasions about one project in my district on Bedford Avenue that has become a nightmare for me regarding safety issues. Constituents call constantly. How staffed up is your office to deal with these in rapid time, and what is the timeline when we call you for these things to happen?
+
+(00:54:02)
+
+Bedford Avenue is my little project now that I hope can help
+
+(00:54:11)
+
+solve the shaking of the ground when they were building, and stop work issues only lasting 24 hours. Talk to me about whether you are staffed up enough. As we continue to develop the City we want to build block by block, do you have the capacity and the infrastructure to support all
+
+(00:54:30)
+
+of these things? So the 609 inspectors — the overall inspector force — actually represents one of our highest totals in recent years, probably since 2020. Additionally, the changes this year in partnership to move forward faster with the hiring process have allowed us to fill vacancies before adding additional lines, which is going to be a huge complement to increasing that force and responding more quickly on construction safety enforcement. Related to construction safety sites, on our other major sites our priority A response is about three hours, priority B response is about one to two days, priority C is four days. In addition to our traditional borough enforcement work, we do have real-time enforcement which gets to a construction site within 12 hours, and when there is a serious major hazardous issue we can deploy our emergency response team overnight and on weekends.
+
+(00:55:49)
+
+What about when developers decide to violate their permit and start building at night? That was something we saw in my district on Clarkson Avenue. I do not know — they thought no one was watching. They started building in the middle of the night and the constituents were calling my office consistently. How do we help with that, and when I call, who is going to come out at 10 o'clock at night when the developers are not supposed to be building at
+
+(00:56:11)
+
+10 p.m.? Typically it would be the response team that would be deployed there, also the ones who are there when a major emergency or a fire happens. So we do have coverage for this. When it comes to those who are violating after hours permits, that is something that we are tracking, and it typically leads to follow-up inspections and other enforcement actions that we can take, leading to either a violation, a partial stop work order or a full stop work order on those sites.
+
+(00:56:44)
+
+But once they pay the fine they feel they can carry on and do as they please in communities. That is exactly what we are getting — that it is okay, they will just pay the fine without being good neighbors, and they are destroying communities. That is what my community is facing at a rapid rate in my district. We would really love some support. I know it is an interagency thing. I hope you are sitting and talking to each other and having a plan, because we are going to build block by block, but as we are building we also have to be considerate of long-term residents who have been there — homeowners. I have one constituent where they are squeezing in a building right in between two private homes and her property is now damaged. What do you tell someone who is an older adult who has their home? This is generational wealth for communities of color, and when folks come in and destroy and think they can get away with this, it is unacceptable for our communities. There is no recourse because developers feel that it is just a slap on the wrist — they can pay their fine and move on and continue this. I am at the point where I feel like I keep hitting a wall and there is no recourse for this type of behavior. We are exploring, and we have in the past explored, whether we can make more aggressive use of criminal sentences and nuisance abatements, which are legal actions that we do in coordination with the Law Department. They can be very difficult cases to bring forward and try.
+
+How many have you tried this
+
+(00:58:13)
+
+year? How many have you
+
+(00:58:14)
+
+issued and how many have you tried? I think we can look
+
+(00:58:16)
+
+up those numbers for you.
+
+(00:58:17)
+
+That would be great. This year — how far
+
+(00:58:23)
+
+back? We have issued 71 criminal court summonses. As the Commissioner mentioned, we are using that tool more and more, thanks in part to the additional staffing as a result of the proactive enforcement program we were discussing earlier. That is compared to 36 in calendar year 2025.
+
+(00:58:41)
+
+So how many of them — were any of them ever dismissed? Did the DA's office just
+
+(00:58:46)
+
+dismiss them? This would be a separate matter, as this is a different jurisdiction versus what is going to the Supreme Court with our criminal summonses and nuisance abatements. Okay. Thank you,
+
+(00:59:00)
+
+Chair.
+
+(00:59:00)
+
+Thank you so much, CM Joseph. Just to echo the frustration, it is something that I face too. I have had — and this is anecdotal — properties that have gone up completely where neighbors will say the whole thing was done, there was never a permit posted and nobody ever came. And then did they call 311? That was a question. But there is just a lot of work that happens, especially in the smaller projects, right, in the smaller sites, and there is a lot of concern echoing that.
+
+Thank you. Okay, so I am going to move to questions about the task forces that you have mentioned, that invitations went out for. Starting with the Mayor's Committee on Construction Safety, can you give us a sense of what the agendas will look like, what will be the scope? You mentioned root causes of persistent construction injuries and fatalities — I imagine falls — but what are other items that you will be looking at, and who has been
+
+(01:00:02)
+
+invited to participate? So I will just start with the second part. Currently, invitations are out, and typically with our committees, like with our building subcommittee, once we confirm who is on the committee and the task force, that is something we make sure we are putting publicly out to the public. But as I said earlier, we believe that we will have a strong mix of labor representatives, workers, worker rights organizations, industry experts, of course, various senior level officials from City Council and from the administration.
+
+Getting into the agenda, I think it is fair to say that these are starting topics. Obviously through a conversation you can go into other areas, but I had mentioned earlier enforcement tools, looking at personal protective equipment, PPE, accountability gaps — as has come up already in this hearing — also coming up in the conversation: repeat violations and how safety standards interact with that. I think a big part of this also is about emerging technology, so whether it is on the enforcement side, wearable gear. I think when we also talk about accountability and responsibility, both on the agency side and the workers on site, is there a culture mechanism we need to foster more there? And then the environmental impacts — I mentioned earlier a focus on how to protect workers during excessive heat waves, for instance, is something that really took shape this summer. We will continue that conversation in the committee.
+
+(01:01:50)
+
+Thank you, Commissioner. It is helpful to understand. And just as a sort of a side thread: you started talking a bit about falls, which are the leading cause of construction-related injuries and fatalities. The fact that construction-related fatalities hover around the same number year after year — it is 8, 9, 10, 8, 9, 10 — and as you said, even one is too many. So in addition, my first question is this: do you have the numbers for the number of fall deaths, construction fall fatalities in general, prior to the site safety program implementation and post? And then specifically with respect to falls, has there been a difference?
+
+(01:02:45)
+
+Have fewer of these fatalities happened after the implementation of the program that focuses on preventing falls? The site safety training program obviously took a little while to implement — designing courses, registering the course providers — but specifically with regards to your question related to worker falls: for calendar year 2024, very specifically, we had 251 incidents related to injuries specifically related to worker falls. In 2025 that number decreased to 163. And then this year, calendar year to date, we are at 110. So it is yielding results. And as the Commissioner said in his testimony, it is not just the specific training. The Commissioner mentioned a word just now: culture. And that is something that all the outreach, all the training, all the work that we have done with our proactive inspections — we talk about all the time — in construction safety is exactly that: changing the culture on the job sites. The Commissioner mentioned that as part of the task force that we are looking to put together. When we meet with owners, when we meet with construction general contractors, that is exactly what we talk about: changing the culture on site and making safety the priority for those job
+
+(01:04:45)
+
+sites. Safety does not mean you are slowing down work. Safety does not mean that it is more expensive. Safety just means that you are being thoughtful with the work on the construction site.
+
+(01:04:58)
+
+And if you think about the different partnerships that are in this: very recently it was the Scaffold and Access Industry Association, which is the national association, from New York City, the Special Riggers Association in Long Island City, the demonstration project of different tie-off rescue scenarios — basically more efficient ways to execute on those actions. One of the things we are hearing from them is repetition: in addition to the conversation, but in the off times when you are not doing your work, taking the time to repeat these actions and make it muscle memory. So if you take that mindset and you look at it across the board — making sure that identifying and spotting barriers near open holes, everyone looking out for themselves, looking at their partners, checking out for them — that is the kind of network that yields better results.
+
+Thank you. What is it about... what are people falling into? Unobstructed holes? Are folks not wearing harnesses? How is it that workers are falling?
+
+(01:06:14)
+
+It is a wide range of things. Trip and fall hazards, if material is not put in the places it is supposed to be and people are navigating unorganized sites. If people are in elevated places and they are handling too much equipment or there are not enough people around, it is about securing and creating a secure environment. And someone falls — I mean, there are numbers — or if the structures to move up and down, temporary staircases are installed and the right landing or walk-off point is not put in properly. There are a lot of different ways that we count falls and ways to prevent those issues.
+
+I just wanted to highlight that in 2018 we had 759 worker-related injuries, and as the Commissioner and Chair mentioned, year to date in terms of number of injuries, we are at — for calendar year 2026 — 266. That is a substantial decrease in the number of injuries that we are seeing at construction sites, and everything that we have been talking about here today. We are happy to continue working with the Council on just making that number get to zero, right?
+
+(01:07:39)
+
+That should be the goal of everyone here. Deputy Commissioner, passing that Bill really, really paid off. That is why I mentioned 2018, because that is when we started implementing the site safety training. And when you think about the site safety training cards: over 18 million hours of training has come as a result of that work, over 960,000 cards, over 530,000 active cards. So people are buying into the process, and because we have that, we were able to have this very easy platform to then think beyond — as I mentioned in testimony — beyond just the physical dangers of the workplace, and quickly introduce and roll out mental health and suicide prevention awareness, which is becoming more and more another issue on our job sites. So it is continuing to yield indirect benefits that we expect, which is the ability to go beyond just what we sought out in 20
+
+(01:08:50)
+
+18. Yeah. Thank you. I think it is really important to just elevate that and lift that up, and I will do my best to do it. We do pass a lot of laws here. I will not speak to the quality of all of them, but some of them are really, really important and change outcomes
+
+(01:09:07)
+
+dramatically. I will just throw out one more stat, just because it is an amazing number: we are close to 40 million taps on our system. That means between the department's proactive and reactive inspections, but it also means that folks on job sites — construction site safety professionals, contractors themselves — are ensuring 40 million times that the workers going onto construction sites have the necessary training.
+
+(01:09:45)
+
+Thank you. And to go back to CM Joseph's point and what I started with, talking about smaller sites: do you have a disaggregation of how many of these injuries are happening at smaller sites versus larger sites? The threshold, as I understand it, being a major building that is 75 feet tall or seven stories, a hundred square feet or larger. How many of these injuries and fatalities are happening at these kinds of sites versus smaller? I acknowledge I did not give you this in advance, so if you have it, it would have to be a follow-up.
+
+We will follow up with that number for you.
+
+(01:10:26)
+
+Thank you. And I think you can see the gears turning here: site safety training cards and the program has been such a success in the larger sites — should we consider lower thresholds?
+
+(01:10:42)
+
+Sent right. Send the text message.
+
+(01:10:46)
+
+Okay, thank you. And do you have any information regarding — again, focusing, and then we will talk about this in depth in the task force — the titles of folks, the roles of the workers who have fallen to their deaths? Any trends there? Union, non-union? Of the fatalities related to falls, by
+
+(01:11:13)
+
+local law, if there is an injury on the site, the owner or a copy of the professional on that site must report to the agency. So when that report is made, either by calling the department or using our online portal that they can use, they can self-report that information to us. So we can give you the data of the reported. I think the difficulty would be getting to exactly what the role is, but I will say that it is a variety of different roles on site. We have seen different issues come up because, right, often whether you are an electrician, a carpenter or a laborer, you are often interacting with any of the things I mentioned earlier that can create a trip hazard, can move you to an elevated position, can have you walking through a site where debris or material is not properly handled and put in the appropriate place. Thank you.
+
+(01:12:17)
+
+Thank you so much. I want to acknowledge that we have been joined by CM Wilson. So moving to the... I know what it stands for. I do not remember what it stands for. But the other task force that is being convened — thank you for the invitation received — will be the Affordable and Efficient Code Reform Task Force. So can you help us understand how that will relate to the usual process that DOB undertakes
+
+(01:12:50)
+
+for code revisions? Absolutely. So since the 2008 model code program, we have continued to work on a regular cycle of every three-plus years refreshing and trying to meet a building code, borrowing from the international code, making sure it meets local needs and local standards. The last one, as you mentioned, was 2022. That process of over 14 committees and over 4,400 volunteers — that work is immense. We are pulling from national standards, we are pulling from the international building codes, we are looking at state and local requirements.
+
+From time to time we have found that to get things done that are equally important but can create a lot of congestion in the code committee work, a parallel process — not a supplement, a parallel process — could be helpful. That is what we did for the existing buildings, which we worked on successfully with the Council. It is actually how we worked on the construction safety laws that we are talking about today: created a parallel process that got us to the point of success that we are talking about right now.
+
+So what the Affordable and Efficient Code Reform Task Force is doing is looking at a set of issues and questions that have been raised over the years and giving that a more dedicated space to explore and understand whether there are things that we should advance, or at the very least have more substantive discussions. In addition to that, much of our code committee work happens among technical experts with sort of less availability for broader policy and housing-involved experts to be in the mix within a dedicated conversation about how they are involved in the housing space. So we are looking at broader membership, a broader community that is going to be supplemented by many of the same subject matter experts that are involved in the code committee process.
+
+Coming out of that — and you will see in the housing plan — we talk about some of the questions and issues that we have heard from community members, both on the unit side and the public side, whether it is looking at elevators, ideas around elevator policy, or ideas around alternate materials for potable water. These are things that can be very technical, and we are bringing the policy experts and technical experts into this supplemental process. But the code committee work will continue, and we look forward to working with the Council on that.
+
+(01:15:44)
+
+Great. Thank you. Appreciate that. All right, so I am going to turn to CM Wilson and then we will come back. Thank you very much, Chair. Hello, Commissioner.
+
+(01:15:55)
+
+I apologize for being late. We have dueling committees today, so I apologize if maybe this was talked about a little bit already. But you mentioned in your testimony about some of the emerging technologies that you are considering to help improve safety standards. I am just curious if you could elaborate a little bit more. I see the building tech lab, but I am curious about what other sort of developing technologies you are considering. Particularly, you know, scaffolding is the bane of my existence in my district, and many times it is going up for a very long period of time — understandably so for safety reasons — but what technologies are we looking at to help bring those down faster and not need to have what really appears to be quite a dated safety mechanism up for such long periods of
+
+(01:16:50)
+
+time? So I think if you think historically, there are a couple of different ways in which we try to engage with new technology ideas. First and foremost, we have a board which we will call from time to time to answer very specific questions. We have used it to look at accessibility opportunities as part of the Where We Live plan, where we partnered to see how we can make our existing building stock more accessible. In 2021, I believe, we used the innovation board to look at the idea of integrating more technology into facade inspections, and there was a program — the technology actually became the bed of the later research that we did with Cornell in Common City — that led to the report in 2024 that now, both in the enforcement laws and policy changes with the Council, and also our own efforts to create new ways of examining facade walls, recommends a greater use of drone technology. We are working with a number of universities right now on building out what comes next.
+
+But if you look at what we have already seen: we are integrating more photo or drone-captured imagery for buildings that have to meet their facade inspection requirements. For buildings that are 40 years or younger and can demonstrate a safe report, they will be able to use technology instead of hands-on inspections for check-ins every three years and not have to do a full report until year 12. That is one example that we were able to develop using the research.
+
+I think the other part of it that we will look at is drone technology overall, to see if we can capture data citywide and continue to move that 40-year threshold older and older. I would say that right now is the first time — through the research we were able to collect — the first time we had a database, both historically and looking forward, of facade research and enforcement in the City of New York. Prior to that, for the four years prior, we were working off an understanding of individual instances collected over four decades, but not a database. So now that we have the database, now that we are going to be experimenting with using drone or high-quality photos to examine facades and see how that takes the place of hands-on inspections, we believe we will be able to do more. We have signed on some research assistance to help us.
+
+The other thing I would say is it is not all about technology and facades. Some of it has to do with trying to see if there was a smaller number of drops, if we can extend even the cycle from 5 to 6 years on older buildings, and also creating a standardized set of rules and approaches that exterior wall examinations can work off. We find that there was too much variation in how people were doing that work, and that variation translates into higher dollar amounts and different scopes that cost buildings unnecessarily. So we are providing that information, City-sponsored, to create cost savings through guidance alone. I think that covers it.
+
+(01:20:36)
+
+Just specifically regarding — you mentioned scaffolding or sidewalk sheds, overhead protection. I would invite everyone to come to 250 Broadway. We have two new sidewalk shed designs on display right in front of the building. We are putting rules together to give the designs out to everyone. Previously, a couple of months ago, we had two other sidewalk sheds up in front of 250 Broadway that recently won an award from Time Magazine for innovation. I invite you folks to go take a look there. Really cool. Can I ask one more question?
+
+(01:21:19)
+
+Thank you. On another thing — it is kind of a two-part question. The other thing that I hear is that once building repairs are done and they are ready to bring down the scaffolding, there is often a lag time between when their paperwork and everything is submitted for final review and the agency giving clearance to bring it down, even though the work has been completed. So I am curious: how long does that usually take? If someone has submitted everything, what is the review period time to give clearance to bring the scaffolding down? And then, are there other factors that are contributing to that, like staffing, et cetera? And then the other part is: there was a packet of scaffolding legislation and reform that...
+
+(01:22:07)
+
+...happened in the previous Council. I am curious if you have any data or metrics to show the effectiveness of that legislation, which was intended to shorten the amount of time that scaffolding is up. So, the first question first: depending on the height of the building, if the building is six stories and less, and if the job application for the repairs has been signed off by the owner's registered design professional, that scaffold can be removed as soon as that sign-off occurs.
+
+(01:22:42)
+
+And again, that is wholly with the owner's registered design professional. If that building is within FISP, or Local Law 11, so over six stories in height, our turnaround time for those amended reports — and those amended reports tell us when an unsafe building becomes safe — is two weeks. That includes an inspection and a thorough review of the plans and the report that has come in. If the building is 15 stories and up, it is site safety. It is a major building with regards to the facade repairs, so that is a FISP review from the compliance side, but it is also a full inspection of site safety that occurs as well. Our time frame for that is also within two weeks.
+
+Speaking to the Council legislation: we are implementing new parts of it. We just had an announcement recently about movement on rules that we are working to continue to effectuate the goals of that. I would say we were able to announce that approximately 1,200 sheds are down — a decrease of more than 15% in 10 months. One of the major things I want to highlight is that we have moved from a one-year permit on a shed to 90 days. The other linkage is that previously a shed renewal permit would come with just two requirements of moving the shed forward. We are now linking the responsibility of that shed with an explanation of what the owner is doing to alleviate the problem that brought the shed up in the first place. So there is always going to be a mix of different sheds in New York City. In fact, it is important that we continue to have pedestrian protection, but we are doing more things to say that this should only be up for as long as it has to be up, and the owner has to tell us why it is going...
+
+(01:24:31)
+
+And are you finding with the 90-day permit that folks are asking for extensions, or is that 90-day period sufficient?
+
+(01:24:40)
+
+I think it is a little bit early to have enough of a sample pool to tell where people are landing with it, but I do think that we still have owners who are working to get the financial wherewithal to make the repairs or working on the work. So we are looking at the outside factors and our own processing time to see how this is impacting the market.
+
+I just had one other thing: as of this morning, the Department has a map of all the sidewalk sheds in the City that totals the numbers. As of this morning, that number was 6,861. At the beginning of this year, I believe we were, as the Commissioner mentioned, over 8,000. But again, that is a pretty significant drop in 10 months. And I was joking a little bit about checking out the sheds in front of 250 Broadway, but once the sidewalk sheds and the new designs come out and folks start using those new designs, the experience of somebody walking down the block changes significantly. That is the real goal here — to change how the interaction between pedestrians and overhead protection...
+
+(01:26:07)
+
+...in the City is really felt by the public, right?
+
+(01:26:11)
+
+One of the recent local laws was to increase the height of the sidewalk shed to allow more light in. You will see that with the new designs, and specifically in front of 250 Broadway, we have an angled design that lets light in that still does its job — making sure that the public is protected. But that look and feel is very, very different with the new sidewalk shed designs.
+
+And then the last thing that is coming into implementation, I believe next year, is the civil penalties that we have associated with leaving sidewalk sheds up for over 180 days. That concludes the entire package of local laws, and those are the big sticks that we have coming down the pipe. So it is the reduction in permit duration, it is the reporting every time they renew a permit, and then if the owner — very specifically the building owner — does not make progress towards effecting those repairs, that is when those civil penalties will be enacted.
+
+(01:27:20)
+
+I am aware of taking up a lot of time. You already gave me some extra time, so thank you. Thank you.
+
+(01:27:24)
+
+Chair, okay.
+
+(01:27:25)
+
+Thank you. I just want to highlight — when we have gone back and forth in my district about specific scaffolding and asked about them... sorry, can you clarify? Did you just say we went from 8,000 to 800?
+
+(01:27:39)
+
+No, a little over 8,000 to about 6,800 — so 1,200 units dropped, about 15% over 10 months.
+
+(01:27:47)
+
+Okay. And then, yeah, what I was going to say about my own district is: I appreciate the Department's updates on the work that is happening, but the answer to the question of when will they be down is not in there. So we would love to follow up on my in-district issues with scaffolding and public safety. Can you, with respect to after-hours variances, tell me how much construction is being done after hours and how many variances have been requested...
+
+(01:28:24)
+
+...and granted? I think we have to come back to you with the after-hours variance numbers. What I can say on after-hours variances is there are very specific reasons — about five, I believe — why someone can apply for an after-hours variance. We also keep a public map of after-hours variances where people can see where they have been approved, whether they are active and for how long. I apologize, but we will have to come back to you to break that down. No problem, thank...
+
+(01:28:53)
+
+...you. I appreciate the update. Back to CM... thank you. And Commissioner, I have questions. So after-hours variances — some...
+
+(01:29:04)
+
+...if you did not issue the variance and they are still doing the work, is there any punishment? Yes. If we are able to capture a contractor doing work outside of their allowed hours, there are violations and other follow-up actions we could take as an agency.
+
+(01:29:24)
+
+So you mean catch their activity there — you have an inspector come during that time? But the community has recordings showing they are doing this. They have a 24-hour camera there. They start work before 5 o'clock in the morning and are still doing the work at 9 o'clock at night. This...
+
+(01:29:46)
+
+...is happening in my district in 2024 and also recently earlier this year. We called 311 and 311 will only respond during work hours. So during non-working hours, what is the punishment and how can the community reach DOB?
+
+So I cannot speak to the action of someone putting a camera on another person's property, but I can say that when we do get information about after-hours work, we try to work with the community to triangulate and schedule inspections if we can, and be able to go and capture that action if it is happening during an hour that makes sense for the violation. Additionally, we work with your office and we work with other community groups, but we do need to have an inspector who is viewing the action and can attest to it to write the violation.
+
+(01:30:51)
+
+Okay, because I actually personally listened to and saw videos of after-hours activity. They have the same developers sending workers on Sunday night at around 9 o'clock doing the work, and they also come Sunday doing the work. They come before 6 o'clock in the morning doing the work. It is all captured by the community and it is public information. Everyone knows that you can find at least 10 to 20 people to testify to that. And also for the...
+
+(01:31:33)
+
+...workers' safety: when the community sees a worker going to do construction without wearing helmets, who should they report to? You should absolutely call 311 if they see any dangerous condition so that we can send one of the specialized units to go and inspect and see if something is not being done appropriately. And as far as going back to the after-hours variance question, I think our most successful approach is when community members help us triangulate. Sundays are typically where you are seeing the infraction. If it is Tuesdays, Wednesdays or Thursdays before 7 a.m., we can absolutely plan with our resources in advance to have someone there to capture that.
+
+(01:32:21)
+
+Because those people are playing games with the community. They do not respect the community at all. They can come in the middle of the night and start the work, and then they can come very late at nighttime and start the work. We have called many times. We have videos, we have pictures, and the people are not wearing helmets. I just checked my phone a few days ago...
+
+(01:32:53)
+
+...some people came to 25th Street. They do not wear helmets at all. They are going to construction sites and I think the community already reported to 311 and nothing was done there.
+
+(01:33:07)
+
+We have — I mean, we have done, as you know, many inspections at that site. That said, we will — our obligation is to respond to all complaints that come forward, so there is no limitation on how often we are going to be responsive and continue to evaluate things. If there are particular time slots or moments where you feel like this is repetitive action, right after this hearing we can coordinate with your office and make sure that we are positioning our resources to be there where it is most actively happening. We want to be helpful in capturing activity that should not be happening and issue violations where appropriate.
+
+(01:33:52)
+
+Okay, thank you. Can we just send you pictures and tell you?
+
+(01:33:54)
+
+Again, we need to have an inspector evaluate that. Everyone deserves due process in this issue, and so we have to make sure that we are respecting each right as well. Okay, thank you.
+
+(01:34:07)
+
+Thank you, CM Zhuang. Council Member...
+
+(01:34:08)
+
+Thank you again. So another question about scaffolding — sorry, I am obsessed with scaffolding. It seems to be the topic of the day visually. Another reason that I have heard — and I can think of a few specific examples — of prolonged erection of scaffolding has to do with disputes over access agreements between properties. Are there ways that the Department is thinking about some procedural or legislative or some kind of change, like something like arbitration, so that when there are disputes between properties we are trying to avoid drawn-out legal battles that result in work being completed late or not starting yet, and keeping scaffolding up for a sustained period of time that it does not need to be?
+
+(01:35:04)
+
+There is a section of state law — Section 881 — and most of these conversations are governed in civil and state civil court. There were recently, in the last couple of years, some changes to try to alleviate pressure and move these forward. We have heard other suggestions about this, but it largely lives in civil litigation and largely at the state legislative level.
+
+The other thing that we did as part of the shed reform work is also clarify different ways that people can use netting as a way of still meeting their pedestrian protection requirements that do not include staging structural elements on an adjacent property. It is very often, given how congested and tight the City is, that access is needed. But we are trying to see if there are other netting options — other high-grade tight netting — that can be used in place of sheds, not only to start the work but to keep the work going and complete it. So between that and the arbitration or actions at the state level, we are still open to hearing ideas of how the agency can play a productive role. That netting rule is something that we are working on toward the end of this year, and we have already made clarifications in the most recent years. So you...
+
+(01:36:39)
+
+...think legislative changes, specifically around arbitration, would have to be legislated at the state level?
+
+(01:36:45)
+
+The most recent discussions have been state-level conversations about Section 881. But when it comes to providing information about what is necessary — for instance, we work on the site safety plan that is required and necessary. We make sure that is available to the owner and the people doing the work so that when they have those conversations with the adjacent neighbor, they can have substantive conversations and hopefully resolve those discussions more quickly.
+
+(01:37:18)
+
+Well, I just hope that as we are measuring these new changes, we can have an open dialogue and reports about how these changes are working for the scaffolding timelines. I hope you can keep this Committee informed about how you are tracking and what is working and not working. Yes, sir. Okay, all right. Thank you...
+
+(01:37:43)
+
+...so much, CM Wilson. So now I want to move to some questions that I believe were provided to you all beforehand. These are more numbers and process-type questions so that we can all be on the same page. Moving back to construction-related injuries and fatalities: injuries fell 12% in fiscal year 2026 to 300, while fatalities stayed at eight. I want to correct myself — I said 8 to 10 earlier, but it is 6 to 8. Excuse me, 6 to 8 each year since fiscal year 2022 in terms of the number of fatalities.
+
+What was the type of incident for each of the eight fiscal year 2026 fatalities? How many of these eight occurred at sites that required a site safety manager...
+
+(01:38:32)
+
+...site safety coordinator or construction superintendent? How many of the eight occurred at sites with open violations or prior stop work orders? And how many construction fatalities has DOB recorded from July 1, 2026 to present for fiscal year 2026?
+
+As you mentioned, we had eight fatalities. Five of those eight were related to soil work, and then of the last two, one was burn inhalation and the last one was a struck-by.
+
+(01:39:25)
+
+Thank you. Can you help us understand — except for excavation and soil-related — what does that mean?
+
+(01:39:31)
+
+So that is typically early on in a project when they are looking to install a basement ceiling in a building. They have to dig down to install foundation or support of excavation work. So that is typically related to what we call underpinning work.
+
+To answer your second question: two of those locations — 174 Jefferson Street and 37-28 Crescent Street, the first one in Brooklyn and the second one in Queens — two of those required a construction superintendent. And then to answer your last question: for this fiscal year, July 1, 2026 to today, we have had only one construction-related fatality. That was at 748 ... Road. That was a one-family home with no construction superintendent required on that job. Thank you. So of the...
+
+(01:40:44)
+
+...eight that occurred in fiscal year 2026, only two required a construction superintendent. So six did not. That means they were at smaller sites?
+
+(01:40:57)
+
+It does not necessarily mean smaller sites. It just means the type of work that was occurring at those locations. So it could be a larger construction site that is doing a small alteration. It does not...
+
+(01:41:13)
+
+...necessarily mean a smaller site. Thank you. And then, how many of the sites related to these eight fatalities had open violations or prior stop work orders? None of the eight had prior stop work orders. We will have to get back to you on the violations — I do not have that data right here.
+
+(01:41:47)
+
+Thank you. Data shows that worker falls caused 163 of the 320 construction injuries and six of the 10 fatalities in 2025. The Department of Buildings launched a City enforcement and education campaign in response. As you mentioned in your testimony, Commissioner, how many sites did the campaign inspect? How many violations and stop work orders were issued for fall protection during the campaign? Were the inspections proactive and how were those inspections different from what DOB normally does? So I can tell you right now that at the end of last year, during a sweep, our inspectors found hazardous conditions injuring workers at 50 locations, resulting in stop work orders for these sites. And like I said before, we have a dedicated team for sweeps. So this is a typical tool that we would use whenever we see an issue crop up that we need to handle. Thank you. And so how many sweeps were conducted in total as a result of that campaign?
+
+(01:42:52)
+
+I think just in the month of... we sort of spent it going through all five boroughs, checking code compliance and speaking directly with workers about best practices. I would just add that as part of that sweep we also created some educational materials, so it was not just the inspections that we did as part of that sweep, but we...
+
+(01:43:19)
+
+...also handed out flyers at those specific job sites. We spoke with workers. We spoke with the general contractors themselves. It was part inspection, part educational outreach.
+
+(01:43:36)
+
+Thank you. My next question is about the other category of fatalities and injuries. The incident type called "other" in 2025 accounted for 102 of the 320 injuries and three of the 10 fatalities, the second largest category after worker falls. I think you already gave me the breakdown for the fatalities, but for the injuries, can you give us an understanding of what kind of incidents fall into the other category?
+
+(01:44:12)
+
+It is a little specific, but the other category has a lot in it. For example, burns, hazardous fumes, electrocutions, struck-by incidents. It is a category that we constantly look at because it is a multitude of things that go into that other category. We realize it is a large category, but it encompasses a variety of incident types.
+
+(01:44:52)
+
+Thank you. Do you have any plans to break that category up into different subcategories?
+
+(01:45:00)
+
+As we are shifting our system from our current platform into Inspections Plus, which is hopefully happening towards the end of this year in phases and into next year, we will be doing exactly that. Thank you.
+
+(01:45:19)
+
+DOB's construction incident reporting classifies sites as union or non-union. Many sites, however, employ both union and non-union workers through different contractors and subcontractors, such as in the Pfizer partial collapse. What criteria does DOB use to classify a site as union or non-union? Is the classification based on the general contractor, the share of union workers on the site, or the trade involved in the incident? Who reports the site's union status? Does DOB verify it? And finally, would DOB classify the former Pfizer headquarters conversion in Midtown as a union or non-union site?
+
+(01:45:56)
+
+So as a result of Local Law 78 of 2017, which was worked on by both the agency, the administration and the Council, a number of steps were taken. As I mentioned earlier, when there is an incident, people are required to report within three business days. Through that portal or that call, they can self-identify — it is a self-identification process. We do not do a third-party check on that verification, but that information is also available on our website, so we make it available to the public and there is a column specifically asking to identify non-union versus union. As far as the Pfizer building, based on what we know, we understand it was an open shop or mixed shop site with both non-union and union trades that worked on that site.
+
+(01:46:53)
+
+So the only time that DOB learns whether a site is union or non-union is when there is an incident that is reported. Is that correct? Again, our priority is, regardless of affiliation, we focus on the worker, the incident and how to prevent it in the future. Thank you.
+
+(01:47:18)
+
+So next up: on July 23, 2026, the Department issued a full stop work order at 122 Broadway after learning that two cracked beams on the 32nd floor had been repaired in March 2026 without notice to the Department. What enforcement action was taken for this failure to notify? Is the stop work order still in place? At 122 Broadway, we issued numerous violations to numerous entities and, as you mentioned, the full stop work order to the site.
+
+(01:47:58)
+
+We issued failure-to-notify violations to all the site safety professionals: the site safety manager, the construction superintendent, the general contractor and the special inspection agency, in addition to numerous other violations. We also issued a Commissioner's order to the developer and the general contractor to implement an immediate monitoring protocol, weekly engineering reports to be submitted to the Department of Buildings and a peer review requirement on the structural design. After the peer review was completed and the necessary reports submitted to the Department, we lifted the stop work order.
+
+(01:48:58)
+
+Thank you. So I thought I had it somewhere, but I am going to just ask it off the top of my head. For these full stop work orders, I am understanding from your opening testimony, Commissioner, and from your answer just now, Commissioner, that the agency essentially keeps going back to see if dangerous conditions have been corrected. Is that the case?
+
+(01:49:38)
+
+I would just amend it slightly. If there is a partial stop work order or a full stop work order, the contractor, responsible person and owner know that they have a responsibility to provide us with the means and methods analysis and the corrective action strategy directly related to the issue that brought on that violation. Once that is submitted to the Department and reviewed, and if an inspection is required, then we will take the steps to lift that partial or full stop work order. But there is a process involved and it is contingent on the owner to demonstrate that they understand what was wrong and that they have corrected what was wrong.
+
+(01:50:20)
+
+So they submit to you means and methods, they submit to you what their corrective action plan is, and then you accept that. In every case, do you go back and check that they are doing the work...
+
+(01:50:35)
+
+...correctly? I will just add one statement. If the violator... if we do not hear back...
+
+(01:50:41)
+
+...and it is an immediately hazardous violation, we will reinspect as part of our hazardous reinspection program.
+
+(01:50:50)
+
+If we do not hear back from them, we will reinspect. To answer your question just now: no, we do not just blindly accept their remediation plan. We have a whole team at the Department that reviews any kind of documentation related to stop work orders. Depending on what the remedy is and the violations, it could be a litany of things that need to get submitted. Then we go and review the corrective action that has taken place on site to make sure it has been implemented and an inspector...
+
+(01:51:31)
+
+...will go out and confirm that. Great. Thank you for clarifying that. So you talked in your testimony, and I talked in my opening, about what is it... Red Code. In September 2026, the Brooklyn DA and the Department of Investigation worked together to bring an indictment on a Brooklyn-based construction training company for fraudulent cards. Can you share broadly how DOB enforces card requirements? Are you going on site? Are you spot-checking proactively?
+
+(01:52:07)
+
+So our card work sits a lot more on the compliance and assessment side. Right now we have 126 confirmed course providers registered with the Department of Buildings. In fiscal year 2026 we conducted 154 audits resulting in 17 denials. As of July 1, 2025, the law gave us more oversight — course providers must register to become course providers. While there have been 17 denials, others have been approved. I will note that Red Code was one of the 17 that were denied. In this case with Red Code and another matter we worked on, the Department started with the Manhattan DA's office, where through our audits or tips that we get from the community, we gather information and make referrals to our partners in the DA's office, since they have prosecutorial powers to be able to take...
+
+(01:53:31)
+
+...action. Thank you. What about on job sites? Are inspectors checking each worker for an SST card? There are two elements here.
+
+(01:53:41)
+
+The taps are one way of demonstrating that there is an exterior barrier making sure people are tapping in, but then if we are on a construction site we talk to workers to make sure that people are doing what they are supposed to do and have the cards that they are supposed to have.
+
+(01:53:59)
+
+Thank you. I will just add, with...
+
+(01:54:02)
+
+...regard to the course providers, we have a team of investigators that audit those course providers, so they will check that...
+
+(01:54:11)
+
+...the curriculum matches what is required.
+
+(01:54:16)
+
+We will ensure that we are getting their catalogs and time logs for those courses. We will, as an undercover measure, pretend to be workers and sit in on those classes to make sure that the entire training is happening. We will check attendance records for those courses. We have a very in-depth check that we do on these course providers. With regards to the site safety card requirements, we do confirm with the construction superintendents, site safety coordinators and managers, and check the logs that all the workers on site have the necessary SST requirements. Then we will do a spot check on site through specific cards — each card has a QR code that we can check to ensure that it is a valid card.
+
+(01:55:12)
+
+Thank you. With Red Code, what happens to the million dollars that they stole from the workers who paid for fraudulent cards?
+
+(01:55:20)
+
+So I think that is something the DA's office will pursue as part of their prosecution. In the interim, we recognize there may be workers who did not realize they were part of a scheme, and so that is why in addition to the enforcement action there is also the remediation work that we do. It is Small Business Services that has had a history of providing accessible and free training, so that those workers through the transition period of 90 days can get the training they need to get back on sites. I think it is also important to note that these are immigrant communities that we are talking about. So we have put equal strength into the education and awareness outreach — in English, but many members of this particular community that used this particular training facility spoke Bengali, and so we have been working extensively to connect with Bengali news outlets and producing videos in Bengali to get them aware that they need to come in and get retrained so that they can continue working.
+
+(01:56:30)
+
+Thank you, Commissioner. The classes are available in multiple languages. Many providers offer multiple languages and we are always looking for more providers.
+
+(01:56:43)
+
+Got it. And are the courses generally free, or is this just a case like Red Code where they were paid courses? There are courses that are paid for and then there are...
+
+(01:56:53)
+
+...organizations that have worked to provide free programs since the beginning. I think a lot of them are also available through collaboration with worker rights organizations and organizations that work with immigrant communities — mission-driven organizations that understand that the price point can be hard.
+
+(01:57:11)
+
+Excellent. Thank you, Commissioner. Safety logs — I have been waiting all hearing to ask you about these. Everyone has. This is why we are all here. Very exciting. So DOB requires site safety managers, coordinators and construction superintendents to keep safety logs. How does DOB check whether site safety logs are kept and whether reports are accurate? When does DOB review these logs — is it during a routine inspection, an unannounced visit or only after an incident? Do they submit them? I will stop there because this is like a seven-part...
+
+(01:57:45)
+
+...question. So the Department does require these documents as necessary to verify compliance. We check for site safety logs in every inspection — whether it is a routine, unannounced or incident inspection. I think you asked us to look at fiscal year 2026: all site inspections included a site safety log review. The total number of sites inspected that included a site safety log review is 32,472. And if I can go further, because I am sure you will also want to know about missing, incomplete or falsified logs: we issued 260 oath summonses in fiscal year 2026 for missing, incomplete or falsified logs.
+
+(01:58:34)
+
+Thank you. How do you know that they are falsified? Are you checking for the cadence of entries into the log?
+
+(01:58:45)
+
+So they will review not just the logs for that day, but they will review the history of the logs and ensure that there are not any discrepancies in those logs. That is just part of the inspection checklist. Our construction inspectors walking the sites can take a look at the average number of people that they are seeing on site and make sure that matches the logs. They will also do spot checks on the SST cards. Construction safety inspections are not quick inspections...
+
+(01:59:22)
+
+...and our inspectors are very thorough when they do those inspections. Thank you.
+
+(01:59:27)
+
+Thank you so much. And are these marble notebooks on a work site, or are these electronic...
+
+(01:59:33)
+
+...logs? There is a kind of weird humor — I mean, nostalgia for marble notebooks.
+
+(01:59:39)
+
+There is actually a building bulletin that we issued in 2024 that talks about the format and allows for a digital format. We require these documents and we are seeing a lot of sites move to digital, quite frankly. So you know, our inspectors... it would be quite a few marble notebooks if they were just marble notebooks. But the bulletin allowed digital formats, which not only helps the industry but helps us as well. As you can imagine, going through digital records is a lot faster than going through notebooks of paper. It is also helpful that we require, as part of the format, tablets or some sort of digital screen that we can walk around with so we can identify worker names and look at site safety plans as we are walking through the sites. So it is a big benefit to the inspectors as well to have everything digitally.
+
+(02:00:54)
+
+Yeah, absolutely. And maybe we can have sites proactively submit so you are always looking — big brother is watching. Okay, I have never said that in...
+
+(02:01:04)
+
+...my life. So two more from me, and Council Members, let me know if you have any other questions. Turning to the unfortunate tragedy at 578 Cozine Avenue in Brooklyn, where a worker was seriously injured in 2018: this was a situation where DOB cited the property owner and the asbestos contractor working at the site for failing to safeguard the workers. An oath hearing officer then dismissed the summons because DOB did not have jurisdiction over the site when the incident happened. Who did have jurisdiction?
+
+(02:01:46)
+
+So just looking at 578 Cozine Avenue as an example, are these sorts of changes in jurisdiction on job sites common? Have you been able to identify gaps in enforcement? Because I understand that at 578 Cozine there was no agency that held that worksite accountable because of the jurisdictional issues between the agencies. These things we can look...
+
+(02:02:24)
+
+...into. The specifics related to this address: the normal flow is that the abatement work needs to be permitted first and completed, and then the filing or the 2021 form submitted to the Department before we issue a permit for the work associated with our scope of work. So that is generally the timeline for how the work occurs. There is an overlap between the work that DEP does and DOB does on certain jobs, and depending on those jobs, what is known as a worker safety plan has to be submitted to and reviewed by both agencies. Those worker safety plans are specifically associated with when the work needs to happen. The only thing I would add here is that in all cases, because of the federal role, OSHA continues to have oversight and we work closely with them in an information-sharing and coordination capacity. So where OSHA is involved and we can be of assistance when these incidents happen, we do assist as well.
+
+(02:03:48)
+
+And are you meeting with both OSHA and NIOSH on a monthly basis? I do not believe it is monthly. Sorry, I wish it were monthly. No, I mean, we have recently talked with OSHA and NIOSH. I think we involved them particularly as we approached this committee hearing and thought about what more we can be doing. We certainly were talking to them earlier in the year as they put together their stats and numbers and findings. So there is a line of communication, but we are not meeting with NIOSH monthly.
+
+(02:04:26)
+
+With regards to OSHA and our monthly meetings, that is headed up by the assistant commissioner for construction safety engineering. Our monthly meetings — we go over all necessary incidents that happened over that month, whether it might be a worker injury or fatality. We go over the investigations that we are doing, that they are doing, the enforcement actions, and then the investigations. A lot of the time the investigations and the interviews the workers have with OSHA happen, and then a lot of times OSHA does rely on our investigative reports related specifically to the fatalities as part of their enforcement actions as well.
+
+(02:05:14)
+
+OK. Thank you. Thank you so much, Commissioner and Deputy Commissioner. So my last question, just to close — coming back to the issue of small sites — how would you describe the ways in which sites that fall below the threshold for a site safety manager...
+
+(02:05:33)
+
+...work coordinator. You still require competent training, and that includes being aware of both culture and best practice on safety on new construction on small sites. We still have the same rules and regulations apply, expectations apply, including the same enforcement actions. Additionally, with the proactive enforcement work, we are able to get more data on and build a better database of where we see hot spots or dangerous activity is happening, which can include small sites as we build up the proactive enforcement work. And then of course we always have our reactive work that is either feeding proactive work or continuing to rely on the enforcement bureau, real-time enforcement and emergency response teams to make sure that workers are safe. Beyond that, when we do construction safety outreach and education, there is no division between small sites and big sites. We are trying to disseminate and instill that education to everyone.
+
+I will just add with regards to — and you mentioned this earlier — a major building seven stories or 75 feet above requires the site safety manager and coordinator requirements. However, the construction superintendent requirements are for a much larger pool of buildings: any new building, any major alteration where you are renovating more than 50% of the floor area, vertical or horizontal demolitions — all must have a registered construction superintendent, and that is a registration that they have with the Department of Buildings. Lastly, we have new regulations on the number of job sites the construction superintendent can oversee. At the end of this year that will be one job site per construction superintendent, and that is a change. It originally started from 10 sites — you mentioned it is hard to get to six locations, so these folks supposedly were getting to 10. Over the years we have reduced that from 10 to 5, to 3, and now to 1. We will have one very dedicated individual that is responsible to oversee construction safety and ensure that the work on that site is happening according to plan, and that is a big step for the department and for the City as a whole. And for one, two and three family homes, contractors are licensed through the Department of Consumer and Worker Protection, so there are additional layers of licensing oversight for that level.
+
+(02:08:28)
+
+Who is licensed by contractors on one, two and three family homes?
+
+(02:08:33)
+
+Homes, so general contractors.
+
+(02:08:36)
+
+Are licensed by home improvement... I think that determines it. OK. All right. That was actually my next question. Whatever figures you might have that can shed light on this — how much work is happening by just straight-up unlicensed folks? They do not have a general contractor's license, they are not electricians, they are not plumbers — and how often is finding...
+
+(02:09:05)
+
+...that kind of work site? So there are different divisions that handle different parts of it. We license over two dozen trades — I think about 31 different licenses, over 28,000 licensees. This is done in addition to the work that the State Department of Education does. We do publish our data on what the Office of Special Inspections does for unlicensed plumbers or unlicensed electricians — that is on our website. And then for contractors, there is in the general contractor license a safety registration that must be obtained through the department. I do not know if we have all those numbers, but I think we can share what we have.
+
+(02:09:57)
+
+I can get you the specific numbers later, but we have three basic registrations: one, two and three. So those are general contractors that work on one, two and three family homes. And then, as the Commissioner mentioned, we have what is known as a safety registration, and then we have a general contractor insurance tracking number that we use to track other folks. So we have three different buckets of where folks can fall into. The safety registration bucket is typically the folks that are doing the larger buildings, new buildings, alterations — major alterations, again 50% of the existing floor area — that generally falls into that safety registration bucket. I will get you the individual numbers in each one of those buckets.
+
+(02:11:05)
+
+Well, thank you so much. Thank you so much for that, Commissioner, Deputy Commissioner, Deputy Commissioner, Assistant Commissioner — all of the staff who are in the audience. I know these are a lot of work, so I just appreciate all your preparation for today and the great discussion.
+
+(02:11:22)
+
+Thank you, Chair. Thank you.
+
+(02:11:25)
+
+OK, we are going to take a quick five-minute break and then open it up for testimony from the public.
+
+(02:11:39)
+
+Your paperwork. Yeah, yeah. Thank you. Appreciate it.
+
+(02:11:43)
+
+I have one building contractor's... I probably should send an email, reach out to Commissioner Levin, and it is probably going to be about the projects there. They did not have it done and I think for a million dollars the contractor was supposed to come into the park. So let me talk about building power because they have not finished. All right, I now open...
