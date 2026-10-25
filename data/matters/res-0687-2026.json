@@ -1,0 +1,36 @@
+{
+ "file_number": "Res 0687-2026",
+ "slug": "res-0687-2026",
+ "legistar_id": "8296691",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S.1768/A.2585, the “Drag Racing and Speeding Enforcement Act,” which would impose five points on a driver’s license for being convicted of participating in speed contests and races",
+ "status": "Committee",
+ "sponsors": [
+  "Shaun Abreu",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 687",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084221&GUID=A7D08AA5-1746-4825-809D-B7AF9CAEBA95"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296691&GUID=BA3CDF59-FAD1-4013-8159-E4E9D6DDD8EC"
+}

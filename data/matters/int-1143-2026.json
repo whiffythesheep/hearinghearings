@@ -1,0 +1,46 @@
+{
+ "file_number": "Int 1143-2026",
+ "slug": "int-1143-2026",
+ "legistar_id": "8296743",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to a citywide parcel locker program",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1143",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084302&GUID=77583DE6-A604-477B-B209-AB6354643B25"
+  },
+  {
+   "label": "Int. No. 1143",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084303&GUID=A88A4F42-24DA-4BC5-9509-804430D8771B"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084309&GUID=23D79B1D-2B1B-415A-9131-206ADDFB2C38"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296743&GUID=DD5AEC6A-BD0E-4A51-BCCD-D89659255F40"
+}

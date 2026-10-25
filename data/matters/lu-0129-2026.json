@@ -4,7 +4,7 @@
  "legistar_id": "8198457",
  "type": "Land Use Application",
  "title": "Application number G 260006 NUM (48-50 Convent Avenue (ANCP) - UDAAP) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Article 16 of the General Municipal Law for approval of an urban development action area project for properties located at 48 Convent Avenue (Block 1969; Lot 65); 50 Convent Avenue (Block 1969; Lot 66); 453-455 West 125th Street (Block 1966; Lot 44); 12-14 Old Broadway (Block 1982; Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -44,10 +44,38 @@
    "label": "Calendar of the Land Use Meeting - October 21, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16073475&GUID=850479C6-5412-4B26-BBEB-9A0D68E70664"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084785&GUID=418BB012-26CC-44FC-869E-92D82278EBE4"
+  },
+  {
+   "label": "Res. No. 709",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084816&GUID=DE391E22-72D4-4DA8-8350-1D0AF0824E46"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",

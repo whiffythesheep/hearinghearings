@@ -4,7 +4,7 @@
  "legistar_id": "8223442",
  "type": "Resolution",
  "title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Tiffany L. Cabán",
@@ -41,18 +41,36 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058239&GUID=590D269C-EFD9-4E93-8AFA-6B3B4418C8A0"
   },
   {
-   "label": "Committee Report - Early Childhood Education 10/21/26",
+   "label": "Committee Report 10/21/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16080005&GUID=3F6B7C73-12D4-48C8-B0DF-64C0C197793A"
   },
   {
-   "label": "Committee Report - Education 10/22/26",
+   "label": "Committee Report 10/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081734&GUID=0EFBB194-5867-4C6B-BB12-A475630619E1"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-21",
    "body": "Subcommittee on Early Childhood Education",
