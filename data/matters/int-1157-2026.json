@@ -1,0 +1,45 @@
+{
+ "file_number": "Int 1157-2026",
+ "slug": "int-1157-2026",
+ "legistar_id": "8296901",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to restricting the use of police department personnel and resources for precinct community council administration",
+ "status": "Committee",
+ "sponsors": [
+  "Phil Wong"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1157",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084712&GUID=374B4E64-4D70-413E-88C5-08B59459232F"
+  },
+  {
+   "label": "Int. No. 1157",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084714&GUID=5C246087-90D1-4F79-A75D-CFFF5D900907"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084715&GUID=79FB3FAD-806A-4DB0-8358-7DB951F5F361"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296901&GUID=56BB8AE4-A5DD-4A3F-A0DC-01159C9AB6BF"
+}

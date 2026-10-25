@@ -1,0 +1,48 @@
+{
+ "file_number": "Int 1150-2026",
+ "slug": "int-1150-2026",
+ "legistar_id": "8296847",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a citywide youth employment program for snow removal",
+ "status": "Committee",
+ "sponsors": [
+  "Chi A. Ossé",
+  "Ty Hankerson",
+  "Justin E. Sanchez",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1150",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084584&GUID=E1D70997-9A70-4F75-B68F-83439F79DAE1"
+  },
+  {
+   "label": "Int. No. 1150",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084583&GUID=791548C4-617C-4946-BF10-0BED61CF4C72"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084595&GUID=A3108BE4-A28E-4F4F-ACB3-8DED3F7423AA"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296847&GUID=51E92ACC-ADB9-4691-BCFE-BE7E1B4ED12F"
+}

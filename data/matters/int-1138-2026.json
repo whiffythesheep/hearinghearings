@@ -1,0 +1,58 @@
+{
+ "file_number": "Int 1138-2026",
+ "slug": "int-1138-2026",
+ "legistar_id": "8278903",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to including violations for idling in the fleet program",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1138",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16045320&GUID=7AAE59C3-44BF-45A8-B50F-0A8BD552AB6B"
+  },
+  {
+   "label": "Int. No. 1138",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16045318&GUID=B52E21EC-0C5A-49D5-ACEA-E317D8C44D2D"
+  },
+  {
+   "label": "Committee Report 10/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16072207&GUID=C37ABB16-39BD-4CAB-A389-C0F49B61C89E"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Environmental Protection and Waterfronts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8278903&GUID=7570F8B9-DA60-4FF9-989A-98FB0AFD75D9"
+}

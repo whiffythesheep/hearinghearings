@@ -1,0 +1,41 @@
+{
+ "file_number": "Res 0700-2026",
+ "slug": "res-0700-2026",
+ "legistar_id": "8296849",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass A.11075, known as the “Who You Gonna Call? Act,” the Senate to introduce and pass a companion bill, and the Governor to sign, legislation that would classify vehicles of the New York City Office of Chief Medical Examiner as authorized emergency vehicles",
+ "status": "Committee",
+ "sponsors": [
+  "Lynn C. Schulman"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 700",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084587&GUID=4E1C687E-F4D0-45D4-87FA-7547B4F3735C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-23",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296849&GUID=DE13CDEE-E4BE-4C57-AC1D-98D423F339D8"
+}

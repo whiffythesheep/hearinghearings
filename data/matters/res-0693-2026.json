@@ -1,0 +1,37 @@
+{
+ "file_number": "Res 0693-2026",
+ "slug": "res-0693-2026",
+ "legistar_id": "8296745",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.9144/A.10141, imposing a moratorium on the issuance of permits for new data centers, and requiring the Department of Environmental Conservation to issue environmental impact statements on data centers and to issue orders to ensure that added electricity and gas costs are borne by the data centers",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Lincoln Restler",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 693",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084304&GUID=11E09C02-E7DE-4023-9F51-589A2FDF15A5"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296745&GUID=8338D916-6F85-4480-8620-952BB2885F80"
+}

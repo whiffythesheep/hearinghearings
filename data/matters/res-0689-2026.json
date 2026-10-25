@@ -1,0 +1,35 @@
+{
+ "file_number": "Res 0689-2026",
+ "slug": "res-0689-2026",
+ "legistar_id": "8296710",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Assembly to pass A.10829, and the Governor to sign S.8598A/A.10829, legislation to require certain anti-aging dermatological products to contain a warning label",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 689",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084218&GUID=E3D6B8F5-A4CE-4221-A05A-E8D1E219D12E"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296710&GUID=EF550867-BFF6-4F6E-B016-B1935FFBF838"
+}

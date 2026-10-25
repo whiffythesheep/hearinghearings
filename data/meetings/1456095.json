@@ -4,7 +4,7 @@
  "body": "Committee on Housing and Buildings",
  "location": "Council Chambers - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456095&GUID=2405720D-9057-40E3-827D-FAEFE9242B88&Search=",
  "items": [
   {
@@ -13,10 +13,93 @@
    "name": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
    "sponsor": "Sandy Nurse",
    "agenda_note": "Proposed Int. No. 905-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8027957",
    "legistar_guid": "6EB347B5-800B-4DD3-9221-86A07B152605"
+  },
+  {
+   "file_number": "Int 0905-2026",
+   "type": "Introduction",
+   "name": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8027957",
+   "legistar_guid": "6EB347B5-800B-4DD3-9221-86A07B152605"
+  },
+  {
+   "file_number": "Int 0905-2026",
+   "type": "Introduction",
+   "name": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8027957",
+   "legistar_guid": "6EB347B5-800B-4DD3-9221-86A07B152605"
+  },
+  {
+   "file_number": "Int 0905-2026",
+   "type": "Introduction",
+   "name": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+   "sponsor": "Sandy Nurse",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8027957",
+   "legistar_guid": "6EB347B5-800B-4DD3-9221-86A07B152605",
+   "tally": {
+    "Affirmative": 10,
+    "Abstain": 1
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Abstain"
+    }
+   ]
   }
  ]
 }

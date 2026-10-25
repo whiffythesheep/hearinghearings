@@ -1,0 +1,48 @@
+{
+ "file_number": "Int 1142-2026",
+ "slug": "int-1142-2026",
+ "legistar_id": "8296744",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to painting curbs adjacent to a fire hydrant or bus stop",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Oswald J. Feliz",
+  "Joann Ariola",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1142",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084301&GUID=98143F90-FB0F-4C0D-B294-1C73948EBBAE"
+  },
+  {
+   "label": "Int. No. 1142",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084300&GUID=1617C369-EA6E-4F91-B20E-4CC6C679986B"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084307&GUID=B5C61841-B5BE-4A9B-9683-F2087D53C899"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296744&GUID=F82E7456-36DE-4022-B3A2-6C8758DE46CA"
+}

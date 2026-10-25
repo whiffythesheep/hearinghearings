@@ -4,7 +4,7 @@
  "legistar_id": "7984719",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study on how social and economic factors affect access to special education programs and services",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Susan Zhuang",
   "Frank Morano",
@@ -88,6 +88,11 @@
    "label": "Committee Report 10/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081733&GUID=AA22E8B1-029A-4ED7-AD6F-6E2C4204682A"
+  },
+  {
+   "label": "Proposed Int. No. 853-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084179&GUID=B31455E1-6CAE-4DDF-B9CC-14CBB130ED60"
   }
  ],
  "fiscal": {
@@ -97,22 +102,52 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 75000,
-   "succeeding": 0,
-   "full": 75000
+   "effective": 35000,
+   "succeeding": 70000,
+   "full": 70000
   },
   "net": {
-   "effective": -75000,
-   "succeeding": 0,
-   "full": -75000
+   "effective": -35000,
+   "succeeding": -70000,
+   "full": -70000
   },
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650477&GUID=8B07DADD-6CB7-4A13-825F-083F252DF48C"
+  "label": "Proposed Int. No. 853-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084179&GUID=B31455E1-6CAE-4DDF-B9CC-14CBB130ED60"
  },
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Education",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-24",
    "body": "Committee on Technology",

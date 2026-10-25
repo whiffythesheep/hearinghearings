@@ -13,6 +13,7 @@
   "Phil Wong",
   "Harvey D. Epstein",
   "Amanda C. Farías",
+  "Selvena N. Brooks-Powers",
   "Vickie Paladino"
  ],
  "by_request_of_mayor": false,
@@ -51,6 +52,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16069197&GUID=0E493DB3-999E-425D-B9EF-4C1D67332E62"
+  },
+  {
+   "label": "Hearing Testimony 10/15/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088307&GUID=6EA70A7F-7197-421D-95C4-F741B77CE936"
   }
  ],
  "fiscal": {

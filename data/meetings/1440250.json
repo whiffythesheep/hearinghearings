@@ -4,7 +4,7 @@
  "body": "Committee on Land Use",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1440250&GUID=9943A2A2-23E5-4C9C-BA3A-54CA76E64574&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - The Role of Planning and Development in Mayor Mamdani's Block-by-Block Housing Plan.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8256052",
+   "legistar_guid": "495A3F69-0956-4337-9F5E-264445E07236"
+  },
+  {
+   "file_number": "T2026-2627",
+   "type": "Oversight",
+   "name": "Oversight - The Role of Planning and Development in Mayor Mamdani's Block-by-Block Housing Plan.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8256052",
    "legistar_guid": "495A3F69-0956-4337-9F5E-264445E07236"
@@ -24,10 +35,79 @@
    "name": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198457",
    "legistar_guid": "3664DC33-7029-4A9D-969A-527EFCE15D1D"
+  },
+  {
+   "file_number": "LU 0129-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8198457",
+   "legistar_guid": "3664DC33-7029-4A9D-969A-527EFCE15D1D",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0130-2026",
@@ -35,10 +115,79 @@
    "name": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8198458",
    "legistar_guid": "68489386-B47C-4390-80B7-17011FE8D1FC"
+  },
+  {
+   "file_number": "LU 0130-2026",
+   "type": "Land Use Application",
+   "name": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8198458",
+   "legistar_guid": "68489386-B47C-4390-80B7-17011FE8D1FC",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0142-2026",
@@ -46,10 +195,79 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (C 220449 ZMK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8218915",
    "legistar_guid": "0361D427-956A-4965-970B-3E051E076472"
+  },
+  {
+   "file_number": "LU 0142-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (C 220449 ZMK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8218915",
+   "legistar_guid": "0361D427-956A-4965-970B-3E051E076472",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0143-2026",
@@ -57,10 +275,79 @@
    "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (N 220450 ZRK).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8218922",
    "legistar_guid": "0334CC0F-B778-4313-9220-27A99D570AB8"
+  },
+  {
+   "file_number": "LU 0143-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 1455 Coney Island Avenue Rezoning, Brooklyn (N 220450 ZRK).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8218922",
+   "legistar_guid": "0334CC0F-B778-4313-9220-27A99D570AB8",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0144-2026",
@@ -68,10 +355,79 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (C 250329 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8218923",
    "legistar_guid": "9537504C-4537-4A21-8964-9615E9796089"
+  },
+  {
+   "file_number": "LU 0144-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (C 250329 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8218923",
+   "legistar_guid": "9537504C-4537-4A21-8964-9615E9796089",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0145-2026",
@@ -79,10 +435,79 @@
    "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (N 250330 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8218930",
    "legistar_guid": "E7510A20-F639-4305-A078-8B63315F0E91"
+  },
+  {
+   "file_number": "LU 0145-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 135-27 Sapphire Street Rezoning, Queens (N 250330 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8218930",
+   "legistar_guid": "E7510A20-F639-4305-A078-8B63315F0E91",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Absent"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Absent"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

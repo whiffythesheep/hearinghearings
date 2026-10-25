@@ -1,0 +1,49 @@
+{
+ "file_number": "Int 1140-2026",
+ "slug": "int-1140-2026",
+ "legistar_id": "8296740",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the use of non-public competitor data",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Lincoln Restler",
+  "Tiffany L. Cabán",
+  "Sandy Nurse",
+  "Nantasha M. Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1104",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084295&GUID=EE50DD34-AFFC-489E-B03D-1162B76B975C"
+  },
+  {
+   "label": "Int. No. 1140",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084294&GUID=92AB310A-5443-404F-963C-81343D175DDA"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084311&GUID=74780033-F3E6-4C5E-A1C2-4DE26F98D896"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296740&GUID=540E3823-13DB-47D1-8595-CC196A0DADED"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1140-2026",
+ "title": "Law to ban rent-setting software using rivals' private data",
+ "summary": "This bill would ban selling, buying or using software that relies on non-public competitor data to set rents, fees or prices for housing, commercial space or other goods and services in New York City. It also bans collecting such data to recommend prices or terms, or helping unrelated businesses coordinate on them, with violations enforced through civil penalties and consumer protection law. People harmed could also sue directly, within six years of learning of a violation, and the law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "982057d658897919"
+}

@@ -1,0 +1,44 @@
+{
+ "event_id": "1452572",
+ "date": "2026-10-26",
+ "body": "Committee on General Welfare",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Deferred",
+ "minutes_status": "Deferred",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452572&GUID=96E1E342-FCED-415E-A82E-894C726F7521&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2629",
+   "type": "Oversight",
+   "name": "Oversight - Shelter Safety.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8261010",
+   "legistar_guid": "52F9621C-F22A-45D0-958C-406B9E69FE78"
+  },
+  {
+   "file_number": "Int 0099-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of homeless services to report on the placement of families with children into shelters.",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7865205",
+   "legistar_guid": "1911B36A-91B8-4DE7-88EF-BD476F708964"
+  },
+  {
+   "file_number": "Int 0387-2026",
+   "type": "Introduction",
+   "name": "Requiring reporting on crime statistics in shelters.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862675",
+   "legistar_guid": "C49068FE-728A-4799-BCF5-59F19C482FED"
+  }
+ ]
+}

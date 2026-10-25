@@ -2,21 +2,74 @@
  "event_id": "1454901",
  "date": "2026-10-22",
  "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
- "location": "Committee Room - City Hall",
+ "location": "Committee Room - City Hall VOTE",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454901&GUID=1108345C-4939-4C2A-8CF5-121B26CCEC24&Search=",
  "items": [
   {
-   "file_number": "T2026-2716",
+   "file_number": "M 0098-2026",
    "type": "Communication",
    "name": "Marricka Scott-McFadden - Democratic Elections Commissioner for Bronx County.",
    "sponsor": "",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8296176",
    "legistar_guid": "A8D39DCC-7C5D-4AAC-BA93-3558931CE51D"
+  },
+  {
+   "file_number": "M 0098-2026",
+   "type": "Communication",
+   "name": "Marricka Scott-McFadden - Democratic Elections Commissioner for Bronx County.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8296176",
+   "legistar_guid": "A8D39DCC-7C5D-4AAC-BA93-3558931CE51D",
+   "tally": {
+    "Affirmative": 8,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chris Banks",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Absent"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

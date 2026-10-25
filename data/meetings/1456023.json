@@ -4,7 +4,7 @@
  "body": "Committee on Cultural Affairs, Libraries and International Relations",
  "location": "Committee Room - City Hall VOTE",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456023&GUID=330FD343-F2C0-44A1-8478-AB5D82E4B990&Search=",
  "items": [
   {
@@ -13,10 +13,76 @@
    "name": "Declaring October as Reggaeton Heritage Month.",
    "sponsor": "Farah N. Louis",
    "agenda_note": "Proposed Res. No. 625-B",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8206816",
    "legistar_guid": "3E250F04-347E-494B-A465-94CD7B9F6B87"
+  },
+  {
+   "file_number": "Res 0625-2026",
+   "type": "Resolution",
+   "name": "Declaring October as Reggaeton Heritage Month.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8206816",
+   "legistar_guid": "3E250F04-347E-494B-A465-94CD7B9F6B87"
+  },
+  {
+   "file_number": "Res 0625-2026",
+   "type": "Resolution",
+   "name": "Declaring October as Reggaeton Heritage Month.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8206816",
+   "legistar_guid": "3E250F04-347E-494B-A465-94CD7B9F6B87"
+  },
+  {
+   "file_number": "Res 0625-2026",
+   "type": "Resolution",
+   "name": "Declaring October as Reggaeton Heritage Month.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8206816",
+   "legistar_guid": "3E250F04-347E-494B-A465-94CD7B9F6B87",
+   "tally": {
+    "Affirmative": 7
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }
