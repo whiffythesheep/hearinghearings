@@ -1,0 +1,949 @@
+---
+committee: "Committee on Mental Health and Substance Use"
+committee_slug: committee-on-mental-health-and-substance-use
+title: "Syringe Litter Management and Related Support Services"
+date: 2026-10-21
+slug: committee-on-mental-health-and-substance-use-syringe-litter-management-and-related-support-services-2026-10-21
+duration: "1hr 29m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261021-131908.mp4"
+viebit_hash: "4be8URPlo5wMJMzy"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454036&GUID=BB567A5E-3335-4074-A76C-26D13A39264B&Search="
+chairs: "Tiffany L. Cabán"
+members: "Shirley Aldebol, Joann Ariola, Simcha Felder, Ty Hankerson, Linda Lee, Carl Wilson"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Mental Health and Substance Use held an oversight hearing on syringe litter management and related support services, alongside three pieces of legislation: Int 0067-2026 (CM Carr's bill requiring a public education campaign on fentanyl test strips), Res 0262-2026 and Res 0263-2026 (CM Lee's paired resolutions calling on state and federal governments to mandate addiction treatment training in medical schools receiving public funding). Testimony came from Dr. Rebecca Lynn Walton, Assistant Commissioner at the NYC Department of Health and Mental Hygiene, and Assistant Chief Frank Lateral from the Department of Sanitation.
+
+Chair Cabán opened with a substantive framing of syringe litter not primarily as a quality-of-life issue but as a public health emergency with stark racial and geographic inequities: Black New Yorkers, particularly those in their late 50s and early 60s, have the highest overdose death rates, and the Bronx — especially neighborhoods like Hunts Point, Mott Haven and Morrisania — has rates more than triple the citywide average. The hearing's central institution was the Community Syringe Redemption Program, a Council-created initiative launched in March 2025 that pays participants 20 cents per returned syringe (up to $10 a day) across eight sites in high-need neighborhoods. The program has collected over two million syringes and enrolled over 2,400 participants. DOHMH and DSNY both testified to its effectiveness, though DOHMH acknowledged that data collection — particularly around referrals to care — was underdeveloped in the first year. Only nine formal referrals were logged across over 30,000 transactions and 1,700-plus enrollees, a number officials attributed less to actual referral rates and more to inadequate data capture, arguing that informal connections happen constantly. This tension between program impact and the ability to document that impact well enough to defend and scale it was a recurring theme.
+
+CM Carr made the case for Int 0067-2026 on the grounds that fentanyl, present in nearly 80% of overdose deaths, can be detected by test strips the City already distributes for free — the public simply does not know they exist or how to use them. DOHMH expressed support for the bill, noting it already conducts outreach and distributes over 118,000 test strips annually, while flagging some technical language concerns. The department also previewed year-two program changes: expanded outreach capacity across all 14 contracted syringe service programs (SSPs), and the addition of clinicians to SSP teams — something programs had been requesting for years.
+
+Key operational gaps surfaced during questioning. There is no shared technology platform allowing outreach workers, SSP teams, DSNY environmental crews and Parks Department staff to coordinate schedules and avoid duplication — an obvious problem that nobody has yet solved. The syringe redemption program does not currently extend to Staten Island due to logistical constraints, and has minimal footprint in Queens and Brooklyn despite evident need. DSNY reported sharply rising needle-stick injuries among its workers: 23 in 2021, rising to 69 so far in calendar year 2026, prompting a new rule increasing the improper-disposal fine from $100 to $250. Cabán also pressed — without fully satisfying answers — on whether NYPD presence near redemption sites deters participation, drawing on her public defender background to note that law enforcement proximity to harm reduction sites has historically been weaponised against the very people those sites serve.
+
+Numbers
+
+- Overdose deaths in New York City fell 28% from 2023 to 2024.
+- Six New Yorkers die from overdose every day, or roughly one every five hours.
+- Fentanyl is involved in approximately 80% of overdose overdose deaths citywide.
+- Nearly half of all deaths among homeless New Yorkers in the most recent reporting year were caused by drugs or alcohol.
+- Black and Latino New Yorkers die of overdose at twice the rate of white New Yorkers.
+- Overdose death rates in Hunts Point and Mott Haven were more than triple the citywide average in 2023.
+- The Bronx has the highest overdose death rate of any borough, more than twice the rate of Manhattan residents.
+- In 2024, outreach teams picked up nearly 200,000 syringes from streets citywide.
+- The Community Syringe Redemption Program has collected over two million syringes since launching in March 2025.
+- The program has enrolled over 2,400 participants across eight sites in Queens, Manhattan, Brooklyn and the Bronx.
+- The five Bronx sites account for 84% of syringes collected and 77% of enrollments.
+- Queens and Brooklyn sites together collected under 1% of syringes; the Borinquen Place site enrolled seven people.
+- New enrollments peaked at 239 in September 2025 and fell to 105 in February 2026.
+- The program logged nine formal referrals — four for detox, four for medication for opioid use disorder, one for harm reduction — across over 30,000 transactions and approximately 1,700 enrollees.
+- DOHMH outreach and syringe litter teams conducted over 8,200 encounters, distributed over 7,800 naloxone kits, initiated over 18,000 participant engagements and made over 8,300 referrals to care between January and August 2026.
+- DOHMH has distributed over 118,000 fentanyl test strips to community-based providers so far in 2026.
+- DSNY has collected nearly 40,000 needles so far in 2026.
+- Parks Department kiosks collected approximately 40,000 syringes, a much smaller volume than the mobile redemption program.
+- DSNY needle-stick injuries among workers: 29 in 2021, 25 in 2022, 23 in 2023, 40 in 2024, 50 in 2025, and 69 so far in calendar year 2026.
+- DSNY increased the penalty for improper disposal of needles from $100 to $250.
+- The Community Syringe Redemption Program pays participants 20 cents per returned syringe, up to $10 per day.
+- The program's permanent annual baseline budget is approximately $3 million.
+- The DOHMH contracts with all 14 syringe service programs in New York City.
+- Only 5 of the 14 SSPs currently have dedicated outreach and syringe litter teams; those teams collectively collect hundreds of thousands of syringes per year.
+- Upper Manhattan parks alone had 73,000 syringes picked up in 2023.
+
+Action Points
+
+- DOHMH to provide the committee with the full syringe redemption program report broken down by month, borough and redemption site.
+- DOHMH to follow up on the list of community partners in Queens and Brooklyn being used by the syringe redemption program.
+- DOHMH to provide data on Parks Department weekly syringe collections compared to the redemption program's kiosk collection figures.
+- DOHMH to report back on what data-collection adjustments will be made in year two of the program, particularly around referral tracking and participant engagement metrics.
+- DOHMH to follow up on participant demographics, including race, ethnicity, gender and housing status, and clarify whether and how this data will be collected going forward.
+- DOHMH to follow up on the range of compensation for peer workers and outreach staff across contracted programs, including wage floors and benefits.
+- DOHMH to explore plans to expand the syringe redemption program to additional sites, hours and neighborhoods, including Queens and Staten Island, in coordination with City Hall.
+- DOHMH to report on the share of redemption program participants who are new to the harm reduction system versus already enrolled at an SSP.
+- DOHMH to clarify whether an independent evaluation of the syringe redemption program is planned for year two, or whether internal contract management will continue to serve as the primary accountability mechanism.
+- DOHMH to provide the committee with NYPD coordination protocols near redemption sites and whether and how police presence affects participation rates.
+- DOHMH to provide data on staff demographics across the syringe redemption program and contracted SSPs.
+- DSNY to provide needle-stick injury data for Parks Department workers, in addition to the sanitation worker figures already on record.
+- DSNY to explore the feasibility of installing sharps-safe receptacles near litter baskets in high-syringe-litter areas, and report back to the committee.
+- DSNY to follow up on specific needle-stick injury breakdowns between environmental police teams and other trained personnel such as lot-cleaning and highway crews.
+- DOHMH to explore the development of or partnership on a shared technology platform enabling real-time coordination of schedules among outreach workers, SSP teams, DSNY and Parks Department staff.
+- DOHMH to brief the committee on adjustments to the redemption program's weekly scheduling as part of the year-two review, including any site relocations or time changes driven by community feedback.
+
+## Full Transcript
+
+**(00:00:10)**
+
+
+
+Good afternoon and welcome to this New York City hybrid hearing of the Committee on Mental Health and Substance Use. Please silence all electronic devices at this time. If you have not yet filled out a testimony slip, please do that with the sergeant at arms in the back of the room or outside in the foyer. Also please do not approach the dais. Thank you very much for your kind cooperation. Chair, we are ready to begin.
+
+**(00:00:38)**
+
+
+
+Good afternoon. I am CM Tiffany Cabán, Chair of the New York City Council's Committee on Mental Health and Substance Use. Thank you all for joining us at this oversight hearing on syringe litter management and related support services. We will also be hearing three pieces of legislation: Int 0067-2026, sponsored by CM David Carr, establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips; Res 0262-2026, sponsored by CM Linda Lee, calling on New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive State funding; and Res 0263-2026, also sponsored by CM Lee, calling on the Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive Federal funding.
+
+We have been joined by Council Members Felder, Aldebol, Hankerson, Wilson, Lee and Carr. Now, there are very real public health concerns from discarded syringes that should be recognized, especially in a place as dense as New York City. The risk that they pose should not be minimized. Parents should not have to sweep a playground before their kids can play. Workers should not fear a needle stick on the job. In 2024 alone, outreach teams picked up nearly 200,000 syringes off of our streets.
+
+This is much more than litter. It is about the story that is told behind each syringe and discarded needle, and the very real humans behind them. Because behind every syringe use is a person. It is someone's child, parent or neighbor, and often someone whose substance use disorder began with a prescription, with trauma, with pain that our system has left untreated. And too often we met them with handcuffs instead of help — arrests, evictions, lost jobs, lost children, weeks-long waits for treatment, and so much shame that people hide.
+
+Nearly half of all deaths among homeless New Yorkers in the most recent reporting year were caused by drugs or alcohol. That is not a personal failing. It is a policy failure. And that failure does not fall on everyone equally.
+
+We have made some real progress. Overdose deaths fell from 2023 to 2024. But still six New Yorkers die every single day. Black and Latino New Yorkers die of overdose at twice the rate of white New Yorkers. Black New Yorkers have the highest overdose death rate of any group in our City, and the highest rates are among Black New Yorkers in their late 50s and early 60s, which is quite frankly a group that is too often left out of how we talk about this crisis. Men die at roughly three times the rate of women. The Bronx has the highest overdose death rate of any borough, and Hunts Point, Mott Haven, High Bridge, Morrisania and Crotona-Tremont have among the highest rates in the City. In 2023, the rate in Hunts Point and Mott Haven was more than triple the citywide average. These are not accidents of geography. They are the result of decades of disinvestment, over-policing and structural racism in the very neighborhoods where the crisis is now the worst.
+
+The Community Syringe Redemption Program was built to meet both of those realities. It was created by local law through this Council. Syringes are returned to mobile vans in eight high-need neighborhoods for 20 cents a syringe, up to $10 a day. More than 2 million syringes have now been safely collected and disposed of. Just as important, the program brings people into contact with care. Every participant is trained not only in safe syringe handling but in how to respond to an overdose and administer naloxone, so that the people who are out on our streets every day are equipped to save a life. Because participants come back to the vans week after week, the program builds something our system too often lacks: a regular, trusted, low-barrier point of contact with people who never walk into a clinic. At each visit, staff can connect people to nearby syringe service programs, which offer naloxone and hepatitis C testing, drug checking, counseling and pathways to treatment and other health and social services. For someone who has been failed by every system that they have touched, a relationship that starts with $10 and a conversation can be the first door back to care.
+
+Clean streets and saved lives are not competing goals. A City that is serious about public health has to be serious about public space and serious about the people that we have failed. I want to thank the administration for being here, as well as the committee staff and my staff that helped prepare for this hearing. I look forward to today's testimony. With that, I am going to turn it over to the Council Member who has a statement.
+
+**(00:05:17)**
+
+
+
+Thank you, Chair, for your leadership on these issues. This is a very important issue facing every one of our boroughs. On average, one person dies every five hours from a drug overdose in our City, and the vast majority of these — nearly 80% — are caused by fentanyl. Fentanyl is not only mixed in with other illicit drugs to increase potency; it is also sold as powders and nasal sprays, and increasingly pressed into pills to make it look like legitimate prescription drugs — not just opioids, but also anti-anxiety and antidepressant medications like Xanax and Ativan.
+
+A lethal dose of fentanyl can be the equivalent of just a few grains of table salt, and this minute amount can be detected by test strips that the City already distributes for free. This legislation would simply require a public education campaign to take place to make people aware that these fentanyl test strips are available and to use them. We need to do much more to stop the scourge of addiction that is afflicting our City and to encourage people to get the treatment that they need. But we cannot help them unless we keep them alive, and we need these test strips to help do just that.
+
+The Chair was talking about the numbers and the Bronx, and the reality is that this is a scourge that is affecting every community in our City, every borough, and frankly the nation. There is no part of this country that has been left untouched, and we need to do everything that we can to tackle this crisis together. I want to thank the Chair again for hearing this Bill today. I want to thank Majority Leader Abreu and CM Louis for already signing on as co-sponsors, and I also want to thank our former colleague, now State Senator Eric Bottcher, who was the original prime sponsor of this Bill last term.
+
+**(00:07:47)**
+
+
+
+If I can handle both looking at this and then looking at all of you... okay, good. CM Cabán and members of the committee, I am Dr. Rebecca Lynn Walton, Assistant Commissioner for the Bureau of Alcohol and Drug Use at the New York City Department of Health and Mental Hygiene. On behalf of Commissioner Martin, I thank you for the opportunity to testify today about our efforts to safely collect and
+
+**(00:08:10)**
+
+
+
+dispose of syringe litter, our contracted syringe service providers, and the outreach and syringe litter teams that connect individuals to the support services they need. I am joined by Assistant Chief Frank Lateral from the New York City Department of Sanitation.
+
+Overdose deaths decreased by 28% in New York City from 2023 to 2024. While this sustained decrease is promising, overdose continues to be a public health emergency, and there are substantial inequities in overdose deaths across demographic and geographic groups in New York City. In particular, overdose deaths remain disproportionately high among Black and Latino New Yorkers, residents of the Bronx and residents of neighborhoods with very high levels of poverty.
+
+The decline in overdose deaths that we have seen reflects persistent but often unseen efforts by community advocates, harm reductionists and care providers, and follows significant City investments across the substance use continuum of care. Syringe service programs are a critical component of New York City's overdose response strategy and are an invaluable resource for the safe collection and disposal of syringes.
+
+**(00:09:23)**
+
+
+
+Syringe service programs are community-based organizations designated as New York State licensed syringe exchange programs. To fulfill their duties as State-licensed programs, syringe service programs offer access to sterile syringes and safe syringe disposal. Some have dedicated teams to collect and safely dispose of used syringes found in the communities they serve.
+
+**(00:09:46)**
+
+
+
+The Health Department contracts with all 14 syringe service programs in New York City. They provide syringes and reduce community spread of infectious disease, along with a myriad of other essential services. We will refer to this network of 14 community-based organizations as SSPs going forward. SSPs also provide a range of health services including referrals to on-site physical and mental health care, opioid use disorder treatment with buprenorphine, naloxone distribution, overdose education and hepatitis C testing and counseling, drug treatment counseling, support groups, drop-in centers and, in some cases, outreach and syringe litter teams.
+
+Harm reduction services offered by SSPs provide key opportunities for connections to care and work in tandem with other components of the substance use care spectrum, such as treatment and recovery services. The Health Department remains committed to the safe collection and disposal of syringes. To date in 2026, from January through August, outreach and syringe litter teams have safely collected and disposed of syringes, conducted education and materials distribution in over 8,200 encounters, distributed over 7,800 naloxone kits, initiated over 18,000 participant engagements and made more than 8,300 referrals to additional care services.
+
+Thanks to the City Council, the Health Department launched our Community Syringe Redemption Program last spring. This was a novel addition to our layered approach to addressing syringe litter in parks and other spaces in New York City where complaints were highest. The redemption program is designed to reduce syringe litter by allowing participants to return used syringes to the program for a small financial incentive. This encourages proper disposal and simultaneously serves as a low-threshold engagement opportunity for people who use drugs to be connected to services. This program also refers participants to SSPs and other services. Since its launch in March 2025, the Community Syringe Redemption Program has collected over two million syringes and enrolled over 2,400 participants across just eight sites in Queens, Manhattan, Brooklyn and the Bronx. The Health Department recognizes the public safety and quality of life issues associated with syringe litter, and the Mamdani administration takes these seriously. We work with our partners in the Parks Department and other City agencies to address syringe litter.
+
+**(00:12:14)**
+
+
+
+DSNY provides needle collection in high-need areas, transit stops and public spaces. This collection is done during daily needle patrols, responding to 311 complaints and through interagency encampment cleanups. DSNY services certain hotspots daily or multiple times a week and has collected nearly 40,000 needles so far this year.
+
+Many people use syringes for a range of medical and health needs. It is important for New Yorkers to know how to properly dispose of needles. We will use this opportunity to educate everyone tuning in: needles and other sharps should be placed in sharps or other leakproof, puncture-resistant containers, such as laundry detergent bottles, and sealed and labeled with "home sharps — not for recycling." These containers can be brought to a collection site — a map can be found on the web — or discarded as trash.
+
+Unfortunately, there has been an increase in the number of sanitation workers struck by needles in recent years. DSNY recently finalized a rule to increase the penalty for improper disposal of needles from $100 to $250 to discourage this dangerous practice. Before I answer your questions, I would like to briefly discuss the legislation being heard today.
+
+**(00:13:30)**
+
+
+
+Int 0067-2026 will require the Health Commissioner to establish an ongoing public outreach and educational campaign regarding the use and availability of fentanyl test strips. The Health Department supports this legislation and currently provides extensive public outreach and education on the availability and use of fentanyl test strips. The department offers regularly scheduled virtual public trainings twice a month and multiple resources on fentanyl test strips on our website.
+
+These resources include an instructional video and brochure available in multiple languages, and also include information on locations where the public can access fentanyl test strips. In 2026 thus far, the Health Department has already distributed over 118,000 fentanyl test strips to community-based providers. More information on our efforts to engage the public and educate individuals around the accessibility of fentanyl test strips is available on the Health Department's alcohol and drug use services page.
+
+There are a few points within the Bill language we would like to clarify, and we look forward to discussing the Bill. The Health Department remains committed to partnership with the Council and other community stakeholders to find more solutions for the safe collection and disposal of syringe litter and its impact on community quality of life. Thank you for the opportunity to testify today. I look forward to answering your questions.
+
+**(00:14:53)**
+
+
+
+Does Sanitation have separate testimony? Great. Let us dive in. I just want to acknowledge that we have been joined by CM Ariola. I am going to start with just a few questions, then give it to my colleagues and come back. We will start sort of on the basics. I want to know the scale of the problem and how it is currently being measured. How do you currently measure the amount of syringe litter in public spaces? For example, is it through a combination of 311 complaints, outreach and litter team counts? Where are you getting that number from?
+
+**(00:15:34)**
+
+
+
+I will start with 311. The 311 calls primarily come to Sanitation. We have our needle crews out there 24 hours a day, and the 311 calls come in. Let me just clarify: 311 is for all City streets and sidewalks. We handle everything except inside a park. Inside a park, we will reroute that to the Parks Department. We have crews 24/7, seven days a week. We try to expedite, especially if it is near a school or if there are homeless encampments around there — we are going to try to expedite and get there a little bit quicker, within four to five hours, sometimes even quicker. But we respond to every 311 call within hours. We also keep track of every single needle we pick up.
+
+**(00:16:14)**
+
+
+
+And then do you take
+
+**(00:16:16)**
+
+
+
+those numbers and combine them with a different set of numbers from different places? Before you answer, I just want to say it is nice to have you here. Obviously you are not a regular player in our committees. CM Gutiérrez says that your folks do a really great job doing syringe pickup before school starts nearby, so I just wanted to say thank you on her behalf.
+
+We appreciate that. There are many schools where we are out there before school starts that have a needle problem around them, where we try to get out there before the kids arrive. Thank you.
+
+**(00:16:49)**
+
+
+
+Yeah, and how the Health Department adds to that is through a wide variety of our syringe abatement programs. So we have the Community Syringe Redemption Program, and we work closely with DSNY because they have their kiosks, and then we have the syringe service programs servicing them, and so they add that to their needle collection figures that they are sharing out as well. We collect both information about the syringe service programs — how much they are collecting on site — but also from the outreach syringe litter teams. Only five SSPs right now have those teams, and from those they are able to pick up hundreds of thousands of syringes a year.
+
+**(00:17:25)**
+
+
+
+And as a follow-up to that, out of all of the areas that you are getting data or numbers from in terms of syringe pickup, is there any pickup that you are currently not able to get the numbers from?
+
+**(00:17:37)**
+
+
+
+Yes. So across... sorry, my kid gave me a cold like three weeks ago and I will be coughing for the rest of my life. If you need tissues we can get you tissues. Nope, I am just going to be coughing for the rest of the five boroughs. So they do not cover all of New York City, and so we are regularly talking to people. At DOHMH we will be talking to community partners about how they can safely pick up syringes. So maybe we do not get a syringe count from them, but we are understanding the hotspots that elected officials share with us that they are noticing. From all of that we are trying to get a picture of where we should put our efforts, and maybe we will not have a number — for example, they...
+
+**(00:18:20)**
+
+
+
+We have this many syringes, but we know it is an issue and so we are working together with our sister agencies on the hotspots — like which neighborhoods are carrying the heaviest syringe litter and then how does that correspond with where harm reduction services are concentrated.
+
+**(00:18:38)**
+
+
+
+Yeah, so how we picked the eight sites for the syringe redemption programs — we looked at 311 complaints, and we are really grateful for open data, and then also complaints we were getting from Council Members. So those eight sites are actually the highest volume of syringe litter we are noticing. So like the Hub in the South Bronx, Echo Park, St. Mary's Park — although I have to say St. Mary's Park is tremendously much cleaner now as a result of all of the efforts going on, but still a long way to go. And so we also have Walter Gladwin Park. So it is the South Bronx, it is Upper Manhattan. Midtown is an issue as well, but also then we will notice other neighborhoods. I keep mentioning Sunset Park just because that has not historically been an area that we have had these services in, but we are — that is one of the areas where we had outreach from Council Members in the community and so that is where we are working with the community.
+
+**(00:19:28)**
+
+
+
+The hot spots are going to be familiar to all of you because it is often where public drug use is highest and the overdose rates are highest. We have really been focusing our efforts as the Health Department and then in partnership with other agencies. Awesome, thank you. And then can you tell me how needle stick injury reports compare with actual infection risk and how that risk is communicated to the public? I think just making a record — obviously we need to accurately tell people what the danger is or is not, because that is an issue that comes up.
+
+**(00:20:02)**
+
+
+
+Yeah, do you want to take the needle stick injuries since you are...
+
+**(00:20:04)**
+
+
+
+I can only speak on needle stick injuries for sanitation workers. They are definitely on the rise. I could give you our numbers for the last few years. We are up to 69 and we are only in — we are up to 69, where last year we were at 50 total for the year, and the year before. Every time a sanitation worker gets stuck it is an extensive process. There is a lot that goes along with it. He is out of work, obviously he is being paid, but there are other dramatic impacts — it is just very... it is mentally, you know, they miss out on a lot of other details of the job that they would normally have. And then obviously the health risks of the medication — of being sick from the medication cocktail. They are getting shots, they have to follow up with a health care facility for 28 days. So there is a lot that goes with it. So our needle sticks are on the rise.
+
+**(00:20:53)**
+
+
+
+So thank you. I guess you guys might not be the best people to ask about what the actual infection risk is.
+
+**(00:21:02)**
+
+
+
+I can follow up with more information, but I will say that of the programs and strategies we have, needle stick injuries — so we have a sort of different view of it because we are training everyone to do it safely.
+
+**(00:21:17)**
+
+
+
+I was going to say something. All right. You talked about the locations that the syringe redemption program is currently operating and how the redemption sites were chosen, but can you talk a little bit about how the weekly schedule is chosen?
+
+Yeah, we can follow up. We have on our website the actual weekly schedule, and so that is based on — I mean it is a model where you have to be within one hour of another location to make sure they are not spending their whole day in transit. And so each van will do two to three sites per day where they are there for several hours, and we are also working with community providers as well so that people do not show up at a time when the van is not there, because that is not helpful and that is going to frustrate New Yorkers and we do not want that. And so we work very closely with community programs and make sure that people are aware of the schedule.
+
+And then sometimes we have adapted the schedule because we are noticing an uptick at a different time and location, and so we try to work with the program as well to make sure that the schedule is there when people need the services so that we can reduce ground syringes.
+
+**(00:22:26)**
+
+
+
+Great. And are there plans to add more sites, more days, more hours, more neighborhoods? As an example, Queens only has one site. I would love to see more in Queens. You know, Queens disproportionately has less overdose prevention resources and harm reduction resources compared to the deaths that we are seeing. And then I am sure my colleague CM Carr would want to know about getting one in Staten Island because there are none there.
+
+Yes, so I defer to City Hall around any plans to expand. I can say I love this program very much. It is one of my favorite parts of my job and it has been a joy to be part of it because I got to start right as we were starting to launch it. So I love this program. And I will say the only reason Staten Island does not have it is because of that one-hour rule — we just could not, we tried really hard and just could not figure out how to get them from there to Upper Manhattan in the right amount of time. And the same with sometimes you cannot get from western Queens to Brooklyn in an hour. So we tried, but we will keep trying. And we are constantly figuring out, you know, have we done enough in this community that we should move it? And we are just trying to work with communities and figure out. And there have been a couple of times where we thought, oh, maybe we fixed the problem, and the community said no, no, no, please stay.
+
+**(00:23:40)**
+
+
+
+And so we just want to be responsive to the communities where they are right now. So you would be happy if you got more resources to expand locations, hours, et cetera? Going to defer to City Hall. I love this program. Can you tell us so far how many syringes you have collected to date, and could you break those down by month, borough and redemption site?
+
+**(00:24:06)**
+
+
+
+Yes, we will make sure you get a copy of the report because it does exactly that. I think there was one that was published yesterday. Yeah, OK. And so it was only through — so through that time we had a total of about one and a half million syringes picked up. And then the highest places were Echo Park, St. Mary's Park and a tie between Walter Gladwin Park and Highland Park. So all the South Bronx sites were actually the highest amount. Great. And I know the committee staff and our team has the report. I have not been able to dig into it as closely since it was released yesterday, but since the syringe redemption program has launched, the City has seen declines in syringe 311 complaints, as you said.
+
+**(00:25:01)**
+
+
+
+Or I guess my question is, have you seen declines in the syringe litter...
+
+**(00:25:05)**
+
+
+
+As measured by the 311 complaints?
+
+**(00:25:08)**
+
+
+
+Yes, but also I would just...
+
+**(00:25:11)**
+
+
+
+I always loved sharing the story of St. Mary's Park. There was a really wonderful News 12 piece on it the other day. So when we started, it was the highest frequency of ground syringes noticed. And one time when I went — it was a hundred degrees over the summer — I went out there for the day and there were no syringes nearby. And also there was a group of kids from the local camp learning how to ride bicycles. So that is a sign of what I love about public health in New York City government. I like going over to On Point and just getting to see the bins and bins filled up of the syringes.
+
+How do Parks Department weekly syringe collections compare with the syringe redemption program's? You mentioned that the parks already have the highest — but yeah, how are they comparing with the syringe redemption program's pickups?
+
+**(00:26:00)**
+
+
+
+Yes, so we can follow up...
+
+**(00:26:03)**
+
+
+
+With the kiosk data. But I will say the kiosks are smaller and so you are going to have a much smaller volume. That is why we have the kiosk partnered — it was something like 40,000 syringes in the kiosk. But that is why we have it partnered with the outreach and syringe litter teams, so that people — maybe people are in that park but did not know the kiosk is at one end of it. And so when we are doing outreach, our outreach workers, who are really wonderful people and generally have lived experience and are from that community — that is why it is such a helpful and effective model — they will go out and if they notice someone has left a syringe, they can have a conversation with the person, make sure they have a safe disposal piece of material and then also let them know about the kiosks. And so we really try to add it together so that it is the kiosks plus the outreach and syringe litter teams, because it is really the same people.
+
+**(00:26:53)**
+
+
+
+OK, I want to ask you some specific questions about the report that was released and then I will pass it over to colleagues. Over 12 months, the report lists nine referrals — four for detox, four for MOUD and one harm reduction — and that was across a little over 1,700 enrollees and over 30,000 transactions. So I want to get a sense of — obviously it is in its infancy, we are learning a lot — but can you talk to me about why so few referrals and what the referral target would be, should be, going forward or will be going forward?
+
+**(00:27:32)**
+
+
+
+Yeah, so yes, absolutely. It was a pilot program and so what we often do when we are going through a pilot program is realize, oh, we were calculating that incorrectly. And so I will say without a doubt that every single individual who is engaged through this program has someone having a conversation with them about what services they are accessing and if they need it. And so what we found was the program was not maybe collecting that data. And sometimes — you know, someone will come to us with wounds when I am doing outreach, and I am seeing the same person, or I know that the syringe redemption folks have said they will see the same person every day and they check on their wound and they say, did you go to the show van down the block? And so maybe it does not get counted as a formal referral but it is happening.
+
+Are you going to make adjustments to what kind of data you are collecting? What are you thinking about? Absolutely, yeah. We have our sort of one-year talk in a couple of weeks and we were just like, can you just download to us what has been a challenge? Sometimes it is challenging for people to mark off that they have done a referral — some of the staff are now working for the program because it has been so successful. And so, you know, whenever I work with people who have not been doing data collection — we have this with the relay peers who go to emergency departments and do bedside overdose response — they may not be counting it the way that it gets measured. And so how do we do that work one on one?
+
+So absolutely we want to be improving this so that we can capture things like, I walked you down the block, or maybe for three months you just wanted to hand me your syringes and not talk to me, but maybe in month four you were willing to have a five-minute conversation, and then maybe in month five I got to know that you were going to the harm reduction center down the block. I also will say that On Point has been great and they parked their Winnebago right next to the van, and so that is a great natural example of how to count a referral because they are just going next door and getting acupressure.
+
+**(00:29:31)**
+
+
+
+I would be really curious to see what adjustments you make to better capture the impact of the programming and also to better capture, even based on that, what gaps there might be. The five Bronx sites account for 84% of syringes and 77% of enrollments, and then the Queens and Brooklyn sites together collected under 1%, and Borinquen Place enrolled seven people. What can we do to increase enrollment in Queens and Brooklyn? Because we know people are using — like, what can we do there?
+
+**(00:30:05)**
+
+
+
+Yes, so one thing that we have noticed was that rollout has been a little slower because it was something so new for the area, and so there has been a lot more adjustment around where the van is and which community providers we should be working with. And I will say it is starting to tick up and doing better. Happy to work with you about other strategies. I will say electeds have been helpful in talking to us about — we were able to move the Brooklyn van, I think it was like around the corner, same park but a different corner of it, and that dramatically increased the ability to be effective and then had better partnerships because it was right near some social service organizations. But very much open to continuing to improve.
+
+**(00:30:46)**
+
+
+
+And in Queens and Brooklyn, who are you working with there? I will get the list for you.
+
+**(00:30:49)**
+
+
+
+All right, thank you. I am...
+
+**(00:30:50)**
+
+
+
+Going to ask one more question and then I will hand it over to colleagues. New enrollments — they peaked, and I mean there seems to be one obvious answer to this, but I wonder what else we can account for. New enrollments peaked at 239 in September 2025 and then fell to 105 in February 2026. Has the program reached the people it can reach at current sites? How are you going to find new participants? How do you account for that change?
+
+**(00:31:21)**
+
+
+
+It was very cold and there was a lot of snow. Yes, it was as simple as there are just fewer people out and we were trying as much as possible to encourage people...
+
+**(00:31:29)**
+
+
+
+To be inside. And so maybe not stopping by the van that day but just going to the drop-in center at On Point or Boom Health or another one of our syringe service programs in Brooklyn.
+
+And just going back to enrollment — increases in Queens and Brooklyn — as part of those plans to increase enrollment in those boroughs, are you contemplating or planning a public education campaign? What does that look like? What resources do you anticipate being behind that?
+
+We are expanding additional outreach folks to all 14 of the syringe service programs and then we are also going to be able to add a clinician, so that is coming in the next year — just working through all the fun contracting. And so that is something that those programs have been asking us for a very long time and we are really proud that this administration has made it possible that we can fund that and do that work. And so part of the rollout is working with each program — for example, one program deals with a lot more alcohol than the others, and so what is needed is more of a car-based outreach model since they cover more ground. It is all of this really exciting and enjoyable work that we get to do with our technical assistance folks and we get to really sit down with those programs. And then also part of that outreach is engaging electeds in the area and making sure that we are responsive to them, and just really thoughtful work about how do we approach this problem so it both meets the needs of the community and then also serves effectively. So if alcohol outreach is something that we are seeing rather than, say, K2 or stimulant use in East Harlem, for example, what is the different response that is needed in that moment?
+
+**(00:33:06)**
+
+
+
+Thank you. I will pass it over to CM Hankerson and then CM Aldebol. Thank you.
+
+**(00:33:13)**
+
+
+
+Thank you, Chair. And thank you all for being here. Thank you for the information that you shared. I remember earlier this year we held a hearing on the Parks Committee and I was astonished by the number of syringes that are picked up within our public parks. I know in Upper Manhattan alone in 2023 it was 73,000, and that is just in that area. Can you — I am going to kind of leave this question open-ended — can you talk about the relationship with the Parks Department and your agency?
+
+**(00:33:48)**
+
+
+
+We just sent our data over to Julian the other day and yeah, we regularly meet with them. We have brought them on tours with On Point so that they could see what the services were looking like. We have regular conversations with them to identify are there new parks that maybe were not on our radar that we should know about. And sometimes we also include Sanitation. I do not know if you have anything else to add, but yeah, I would say it is a great partnership and really necessary.
+
+The training that the Parks workers received in terms of pickup — does that come from your agency? We really try to have the model — I mean, when I asked the State how to do the formal syringe pickup training, they were like, do not do it by hand, wear gloves or use a grabber and be safe. And so it is really intuitive. And so we try to make it as much as possible that — I believe Parks does it as part of their onboarding — we do not want to wait for, like, is Ian from the Health Department available that day to come to your training? We really want the same with naloxone. When I was at Harlem Hospital, we wanted your first day on the job as a security officer for Health and Hospitals to include naloxone training. We want it happening as part of the natural onboarding that people are doing. So we train folks to be doing it themselves because we do not want to be gatekeeping any of this information.
+
+**(00:35:04)**
+
+
+
+Is there data on accidental punctures with park workers?
+
+**(00:35:13)**
+
+
+
+We would have to defer to the Parks Department on that. Walk us across the board — do you all keep that data? I will find out.
+
+**(00:35:22)**
+
+
+
+Find out who has the sanitation needle stick numbers. Yeah, kind of, OK.
+
+**(00:35:27)**
+
+
+
+Yeah, can you try to get them? Absolutely.
+
+**(00:35:32)**
+
+
+
+This year — hold on one second, let me just get this. I think we had 60 this year. Yeah, calendar year 2026 we are at 69 right now. Calendar year 2025 we were at 50. Calendar year 2024 we were at 40. Calendar year 2023 we were at 23. Calendar year 2022 we were at 25. And calendar year 2021 we were at 29, with two or four months to go.
+
+**(00:35:57)**
+
+
+
+OK, thank you.
+
+**(00:35:57)**
+
+
+
+Those are all the questions I have.
+
+**(00:35:58)**
+
+
+
+Thank you, Chair. Obviously we want to reduce the number of syringes on the streets so that there is not an opportunity to get stuck. In the meantime, while you are seeing this increase, have you done maybe more frequent training on proper and safe disposal, things like that, to reduce the number of sticks that you are seeing in the department?
+
+**(00:36:27)**
+
+
+
+Yeah, so Commissioner Edison has done some social media campaigns with the Health Commissioner, I believe, and other people from City Council getting out there doing some social media campaigns on how people could properly dispose of... We are doing some mail-outs and other follow-ups.
+
+**(00:36:45)**
+
+
+
+CM Aldebol.
+
+**(00:36:45)**
+
+
+
+Good afternoon. Thank you for being here today. According to your third quarter report, fentanyl — and you mentioned it in your statement — remains involved in the majority of overdose deaths citywide. The Bronx has remained the most susceptible of all five boroughs. Since you issued your report, have you altered your mode of operation in these particularly vulnerable communities, and how are you using your data collection tools to decide where to place naloxone distribution, for example?
+
+**(00:37:29)**
+
+
+
+Yeah, that is a great question. We use quarterly data to see how we need to adjust. We absolutely agree, and we really try to take a zero-overdose approach because we do not want any single overdose. One of the programs we are really proud of that we launched over the summer was a community ambassador program. We looked at the ten highest zip codes for overdose deaths and we had people hired from the community to go do naloxone training. Many people said that they had heard of naloxone but had never received a kit, and so we were really trying to reach those people. We initially blanketed the City with naloxone as much as possible, but then you have to do targeted in-reach to communities. We are happy to work with you and your community as well — elected and community folks — to let us know there is an issue in my neighborhood. That is why we wound up doing naloxone training for home health workers as well. We really do try to constantly be changing our approach in terms of what is evidence-based, to better in-reach to communities that we have not hit before.
+
+**(00:38:29)**
+
+
+
+Because you do not want any New Yorkers to be dying of an overdose. And what existing outreach models does the department have to reach those who may be hesitant to look for help?
+
+**(00:38:40)**
+
+
+
+Yes, so we have a bunch of different outreach techniques because we recognize that we want there to be a lot of different ways. I have a few really fabulous folks in my department who are going out. That is also why we engage with the syringe service programs, because they have a lot of people who are very connected to their own communities to be doing outreach, and then doing things like driving someone back to On Point or Harlem United or any of the drop-in centers, so that they are not using in public and they are able to access supports. We also work with a tremendous number of treatment providers, and we work very closely with OASIS so that we can... I am an example of someone who was sent to treatment and it was incredibly effective, but I was also told that this incredibly effective treatment...
+
+**(00:39:31)**
+
+
+
+...within a year, only two of us would still be in recovery, and within five years half of us would be dead. I always use that as an example: if that does not work for you, you could be dead. So we always want to make sure we are having as many doors as possible for people to get into. That is why the syringe service programs have been great about getting people on medication for opioid use disorder and also traditional treatment. That is why I always emphasize OASIS, and we have also rolled out additional funding for recovery centers as well.
+
+**(00:39:57)**
+
+
+
+How much of your budget is allocated towards the SSPs? I can get back to you with the actual figures. I will say that we provide a wide range of both traditional treatment funding. I would say it is evenly spread for the number of programs across the City, and then we also work with the State to make sure they have resources. One more thing — I know I have a lot of time — so the fiscal management... the Mayor's Management Report indicates that needles removed fell 49% after three consecutive years of increases.
+
+**(00:40:42)**
+
+
+
+In fiscal year 2026, the decline in interagency cleanup operations... staff was appropriated to address other operations. Is there any outreach or interagency cooperation happening now to confront this decline? I think the decline can be... there are a lot of different factors. I think the Department of Health is out there a lot more than they have ever been. I think they picked up more syringes. I think you have a lot of these little pop-up agencies. I know last year when we started in the Hub it seemed like there were little pop-up agencies coming out of the woodwork to help us with syringe pickup — they were there around the clock. So I think they had a big part of it. I think the winter weather, three months of not being out there — January, February, almost March — had a lot to do with the decline. So I think there are a lot of factors. I know that outreach is happening every single day, assessing every single homeless New Yorker. So I think the decline is really about what happened in the past months. I think you will see the increase come again. Thank you, I appreciate that.
+
+**(00:41:53)**
+
+
+
+We can talk offline about the East Bronx. Do you have any questions? Yes, right...
+
+**(00:42:05)**
+
+
+
+I just want to go back to the report for a few minutes. The report does not have participant demographics — race, ethnicity, gender or housing status prior to SSP enrollment.
+
+**(00:42:22)**
+
+
+
+Is the department collecting this?
+
+**(00:42:29)**
+
+
+
+So we do not, for this program, and it is because the way it is designed is to be the lightest touch of all of our interventions. I can honestly tell you that for many months some people will not talk to us during an exchange, and so we do not want to do anything to deter them from being willing to come and hand in syringes. I will say that over time people do talk to us. I was out at Walter Gladwin Park on Monday and someone was sharing that they love this program, and then we had a crowd of people coming to tell me that they love this program. One of the people was interviewing for a job that day and he had been a participant. I think it is really important to have information about the people we are serving, unless it is going to stop them from coming for those services. The same is true for syringe service programs — that is also a lighter touch. If you want someone to access treatment for infectious disease, then you have to make it as easy as possible. That is why we have a lot more data on the traditional treatment setting type, because that has much higher barriers to get into, or it takes more to access that system. That is why we have more robust information about...
+
+**(00:43:44)**
+
+
+
+...them, related to being as low-touch as possible. Right now participants sign a liability waiver covering the department and all the partners. Why is the waiver required, and do you sense that it discourages anybody from enrolling at all? It really does not, because we are doing so much education around safe pickup. Once you get the hang of safely picking up... I have never injured myself, and the people who have been operating it for years in Boston — and now we are lucky enough to work with them — they have never had a needle stick. That is why it is so important to be handing out those materials. They hand out the disposal cups so that people can... it fits about 50 syringes, and people are just putting them in there and then handing that in. We are really trying to avoid as many opportunities to get hurt as possible, so we have not found it to be a deterrent.
+
+**(00:44:37)**
+
+
+
+You spoke about this a little bit in terms of conversations — that it happens sometimes, sometimes it does not, sometimes it takes time.
+
+**(00:44:45)**
+
+
+
+What is the scope of the things that can happen at a redemption visit beyond the exchange? I know you said a while ago that a lot of people might not want to engage at all, but is every participant at least offered a service conversation, or offered naloxone or test strips or anything else?
+
+**(00:45:05)**
+
+
+
+Very much so. I watched people walk up and say "can I have that?" They will have a bunch of laughs and hang out. They can have that kit and then they are really happy — they get to choose. So it is all about agency. I will say, while someone might not want to talk at first, they generally do over time. It is like neighbors — when I see the guy who owns the corner store on my corner, I know him because I have been coming in there with my kid for years. Over time it is the same for syringe redemption, and so we do build those relationships. One time I was there and it was 8 degrees out and there was a woman who was a participant who did not have a maternity coat. We were able to say, "Have you been going to St. Ann's Corner of Harm Reduction? It is right down the block and they tend to have the most materials for women of any of the SSPs." She said no, but then she said they had already ordered her coat and they were going to have it for her the next day. That was because of those ongoing conversations.
+
+**(00:45:59)**
+
+
+
+And is that typically how an ongoing relationship with an SSP, a center or another provider develops? It sounds like there are opportunities for these warm handoffs.
+
+**(00:46:13)**
+
+
+
+Absolutely, very much so. It always reminds me of my clinical work — like the kid who had come into my office and sit down and say "I do not want to be here," and maybe it would be that way for three months, and then in the fourth month he would suddenly have something he wanted to tell me about his day. Having these repeated interactions where people are getting looked at in the eye and getting treated with respect and dignity, and with interest in who they are and what their lives are, really does make it a unique program in terms of being able to engage. I would say that of all the harm reduction programs...
+
+**(00:46:42)**
+
+
+
+Yeah, there is a story that Sam from On Point likes to tell about a participant who he called by his actual name, and the participant had not heard his name uttered in years. That is a story that has stuck with me, and it is something that kept him coming back to On Point. So that resonates.
+
+**(00:46:59)**
+
+
+
+Do you have a sense of what share of participants are new to the harm reduction system, as opposed to people who are already enrolled at an SSP? Is the syringe redemption program an effective way to connect with these individuals? What is your sense there?
+
+**(00:47:18)**
+
+
+
+I would say it varies. I do not know the exact breakdown, but just from working with New Yorkers who would use programs like this, many of them have been in and out of the system so many times. Maybe they have been referred to substance use treatment twelve times, and so each...
+
+**(00:47:34)**
+
+
+
+...time, for that type of service, there is a barrier — you have to do this in order to come or else your case gets closed. So they are used to cycling through, and then slowly becoming someone like that story that Sam tells so eloquently, where no one uses your name.
+
+**(00:47:49)**
+
+
+
+They will know about the programs usually, and people also have networks and communities. So they were hearing about it from the local SSP. One of the participants on Monday was sharing that he has been sharing safe disposal information with his neighbors as part of being a participant — that he was then able to go out and educate. I would say people tend to be aware of the networks but maybe are not accessing them. Maybe they are scared that since they... maybe they had an outburst last time they were in a drop-in center and they might not be welcomed back, even though I can say every SSP is fabulous about welcoming you back. Maybe they just needed another person to say, "Hey, do you want to walk down the block with me to St. Ann's Corner of Harm Reduction or Harlem United?" — whichever the local one is — so that they can feel that they can rejoin that community.
+
+**(00:48:40)**
+
+
+
+I want to ask a little bit about how some of the other administrations and initiatives kind of interplay with the strategy to reduce public injection. I talked about this in my opening — the reduction of public injection. Sure, we do not want the litter on the streets, but the real issue that we are trying to address is people and their needs not being met. So do...
+
+**(00:49:07)**
+
+
+
+Do you know if the Housing First initiative is part of the strategy to reduce public injection, and also how are you working with DHS and HPD to get people indoors?
+
+**(00:49:20)**
+
+
+
+Yeah, we work incredibly closely with both of those agencies. I would say regardless of administration, the goal of the Health Department is to do good public health for New Yorkers, and so that absolutely means making sure people are getting housing as they need it, making sure we are working with every agency that has access to housing, making sure we are working with the State to figure out if there are some additional options. When I started at the Health Department there had been a rash of overdose deaths at some supportive housing sites, and so it was just a natural thing where some people in my bureau were talking to the Bureau of Mental Health and they were figuring out what are the things we need to do — do we need to pilot having one of the peer corps trainees work in supportive housing? So everyone is trying to use public health to fix the problem. I would say this administration has been incredibly supportive, and also we are just continuing to do public health. We will always be doing public health to full capacity. Capacity always ends up being an issue, obviously.
+
+**(00:50:20)**
+
+
+
+When you find that those services have the capacity to take people promptly, where are the gaps? Are people waiting for treatment slots or shelter beds or appointments in particular places? Can you kind of break down how that is working across different supports and interventions? Yeah, so we are always trying to prioritize the supports where I can walk you down the block or it is right next to you, and that is how I get you to it. Because this is a population where we really cannot be saying, "A month from now you can go upstate to this rehab and get a bed." Maybe if they want that, what are the things I can do with you in this month to help you keep going and keep you safe and alive during this time? That is how it operates. I would say that people generally get referrals in that moment because that is the type of referral we need. But how often is that successful? How often are you able to say, "We have an opportunity here, the person is very willing, they want to be connected to something" — how often is that happening, understanding that you are looking for something that is geographically close that you can do in the moment? And how often do you have a missed opportunity because that thing was not available, because we need more of it, more capacity?
+
+**(00:51:36)**
+
+
+
+Yeah, so the missed opportunities are more like maybe you showed up on Tuesday at three when the schedule was Monday at 11 AM. We are trying to do more outreach. I would say that is why we partnered so much with the syringe service programs, because they have drop-in centers and it is so easy to just walk over and access it. That is why we try to make it so... I would not say that if someone wants help in this program it is unavailable. Also it is a small program, and so it is easier to find slots for a small number of people that are right near the thing that they want to access. Thank you.
+
+**(00:52:10)**
+
+
+
+I would love to ask you a little bit about workforce and training.
+
+**(00:52:13)**
+
+
+
+Redemption site staff — are any of them trained as peer or outreach workers? I would have to check. I do not think they are certified, because the model is trying to offer access to employment for folks that sometimes... We were not... I would say all the programs have a workforce component. Some workforce support for people is that they are ready to go to OASIS for training, and so we send them there and they can get training for that and we can get them certified. But sometimes they do not want that yet, or they want to see what it would be like if they did outreach with Harlem United one afternoon a week, and that is something they can do with that organization as well. We try to offer as many opportunities as we can. Sometimes people have a hard time getting through the certification programs and the timeline set by the State, and so we have this program where you can take a little longer to get through it. We are trying to create as many opportunities as possible, whether it is a community health worker or a certified peer. Sometimes people start as a community health worker and then find out about a certified peer training program and then do that too. We had someone leave Peer Corps to go to social work school. So we want to make as many opportunities as possible. What training do redemption site staff receive?
+
+**(00:53:36)**
+
+
+
+So doing a combination of safety and how do you say... the microscope to make sure it is a used syringe, because we do not want people taking sterile syringes from the pharmacy or wherever they are getting it and then bringing it over to the van. And then also they get coaching from... you know, they will have someone who works there who has been there longer work with someone who has not been there as long in the harm reduction programs to use this model. So you do on the job — it need not be a formal motivational interviewing training, but you are learning how to do that on the job, which was frankly much more useful to me: getting supervision around how I was going to use tools. What is the staff-to-participant ratio and how much time per visit is available for engagement beyond the actual exchange?
+
+**(00:54:19)**
+
+
+
+I had a feeling you were going to ask that. So the model is a van and two workers. I will say that they can spend zero seconds with the person who does not want to talk to us, or they will spend an hour with someone. There are regular people who want to talk and tell you how their life is going and what they did yesterday. So it is a very flexible model, and that is why we have been a little less like, you know, "did you catalog that referral quite correctly?" Because we really want them to be focusing on: if I needed to spend half an hour with you, was I able to spend half an hour with you? And then in year two of the program we will figure out the data stuff.
+
+**(00:54:56)**
+
+
+
+I think the tension with that, that continually comes up, is the ability to keep data that makes the case for scaling a program, especially...
+
+**(00:55:07)**
+
+
+
+...in the face of naysayers. It has been the area that we are talking about.
+
+**(00:55:13)**
+
+
+
+Peer workers and cleanup teams carry a lot of the work. What are they paid? What is the pay? Do they have benefits? Is there a path to full-time employment? Do City contracts require a living wage for these roles?
+
+**(00:55:27)**
+
+
+
+So different harm reduction programs pay different salaries, but we work with them on their budget so that we can work towards parity and make sure people are paid. I know that everyone is struggling with funding and health service workers of all types are struggling with salaries. I will say that yes, we have a number of folks who started out as outreach workers part-time and were participants who are now the director of the outreach team. So there is absolutely opportunity for growth. Some people then wind up joining our relay team and being senior directors, or being a senior in the relay team. There are opportunities for people to advance.
+
+**(00:56:10)**
+
+
+
+Can you talk about the range of compensation though? I know you are saying it is not consistent across the board and people are moving into these different roles, but generally, what is the floor of what people are making? What are their earning opportunities?
+
+**(00:56:23)**
+
+
+
+Yeah, I would have to follow up on that. I will say that at the Health Department we are able to pay our peers... oh, one moment please.
+
+**(00:56:45)**
+
+
+
+Your training — can we talk about the accessibility of it? How long is it? Who delivers it? What languages are available? Are there opportunities for people with low vision or who are hard of hearing or have other accessibility needs? Which training?
+
+**(00:57:01)**
+
+
+
+The syringe redemption program enrollment training. Oh yeah, so that is done one-on-one with someone working there, and we try to hire bilingual folks. We do not have it right now in, say, 14 languages, for example, but we can also train someone who has vision issues because we are doing it right there one-on-one and they can say, "oh, that does not work for me," and then we could say, "oh, what about if you did it this way?" or "what if you do it in a pair?"
+
+**(00:57:30)**
+
+
+
+What are participants taught about reporting litter and finding disposal options? Is that information also shared with people who are enrolled?
+
+**(00:57:38)**
+
+
+
+Yeah, absolutely. People are taking this — that is what we are hearing from participants — they are taking back this education they have learned to their community members. Someone was showing me how he was showing his neighbor how to pick up syringes safely and how to use a grabber and things like that. Part of what we love about how our public health model works is that we are always trying to share information with people in a way that they are able to take it in, make it their own and then teach it to their neighbor. The best naloxone training I ever did was with someone on the street and they said, "no, no, no, I know how to do it," and they showed it to the person next to them. Thank you.
+
+**(00:58:17)**
+
+
+
+Okay. Oversight and also evaluation and metrics and all those kinds of things, right? The program is permanent — we love that. I think the baseline is about 3 million a year. What changes from the pilot? We talked a little bit about thinking about metrics and how data is being collected, but what else changes? And will future contracts be competitively procured?
+
+**(00:58:40)**
+
+
+
+So this was a unique contract because there was one person doing it in the country, and so that is why we worked with them. They have been fabulous, but they also would like other people to be doing it. So if there were more, we would be doing it competitively. I will say we absolutely do constant technical assistance with all of the programs that we are in contract with. We do performance evaluations of them and we are making sure that they are meeting the goals of the contract.
+
+I will say about referrals: the purpose of syringe redemption is really about getting the syringes from folks, and so that is why maybe we did not focus in the first year on referrals. Maybe we just need to categorize it differently, knowing that really every person is talked to about what referrals would be helpful. We are constantly talking to them. Some of the things we are talking about for year two are: are there different times of day that might be more effective for a site? Should it shift to a slightly different location in the community? That is where elected officials are so important to talk to about this, if they are noticing it in a different part of their community.
+
+And you said "we" a lot of this — I just want to get super specific about who the "we" is. Is the syringe redemption program being independently evaluated, or is the operator reporting on its own?
+
+**(01:00:01)**
+
+
+
+We do not have an independent evaluation, but I have a team who manages their contracts. For every program, they manage the contracts and we are evaluating to make sure that they are meeting their deliverables. Okay, and here is the big question... I guess the rivalry is going to extend into this — there is only one other. How do New York City's results compare with the program in Boston? I would like...
+
+**(01:00:32)**
+
+
+
+...to say New York is always doing the best at everything. They would say that it has been tremendously well received by the community and that is what has made it so successful. I will say, having worked in research for many years, that independent evaluations are incredibly expensive. One of the things we are always trying to balance at the Health Department is: do we want to spend our resources there, or do we want to spend our resources in the community?
+
+**(01:00:57)**
+
+
+
+Thank you. Yeah, go for it. So syringes, you know, collect on land — like embankments, medians that are shared. It is dotted on one side, parks on the other side. I have an example where we have land that is, you know, Pelham Bay Little League: part of it is Parks Department, another part of it is DOT, and then right there it is everybody's responsibility and nobody's responsibility. More recently I have, you know, seen needles found in the vicinity. How does... does the agency coordinate with different...
+
+**(01:02:10)**
+
+
+
+Yes. So obviously social media — the social media posts from a few weeks ago, right, with Pelham Bay Little League and everything that was going on. We worked very closely, we went down there, and on their Saturday cleanup we went in and we just cleaned. We took every needle — it did not matter where it was. We went behind the fence on this side of the Hutch, around the baseball field. We worked very closely with the community organizers who were doing it. I was in contact with them the whole time. We try to be an agency that is never going to pass the buck, especially when it comes to this. We are just... this is something that is a health issue, a public health issue. You have Lehman High School across the street, you have the other school that is right on what is placed on that lot right across the street from the ball field.
+
+So when it comes to something like that, there is no passing the buck. We went out there, we cleaned every single thing there was. I do not have the needle numbers but I know there was a large needle collection that day, especially coming down the embankment of the Hutch. We try to just go out there and clean. If it is in a park, we refer the box. If the box needs assistance, we are always there. Last year, going back to the Bronx, we were very instrumental in cleaning up St. Mary's Park with all the needles. So when it comes to something like this, I know sometimes with litter and everything there are some interagency back-and-forth, but when it comes to needles our team goes out there — it is a public health issue — we clean it. And is...
+
+**(01:03:33)**
+
+
+
+Can DOHMH expand your program to other parts of the Bronx or other boroughs?
+
+**(01:03:40)**
+
+
+
+The syringe redemption program? Yeah, so I would have to defer to City Hall about that. I will say it has been tremendously effective where it is, but it is also a baby program that has just started.
+
+**(01:03:56)**
+
+
+
+Thank you. Thank you. I also have a couple of sanitation questions. When sanitation crews find syringes during street cleaning or litter basket collection or vacant lot cleanups, can you just walk us through the protocol? Do crews collect them, flag them for another... I mean, I know that you have your people pick them up, but can you just walk us through what the protocol is? I know that you then do track the collections and share counts.
+
+**(01:04:26)**
+
+
+
+Sure. So if it is just a regular basket crew, regular collection crew, or we get a call, we call our environmental police. They are the ones who are trained on picking this up. They come out with their protective gear on, their pick-ups, they pick it up the right way, put it in a sharps container and document it. They also try to find the source of the needle. It is not just that we pick it up and leave — especially if it is in a bag, we try to open up the bag, see if we can find a piece of mail. We want to see where it is coming from so we can prevent that from happening again.
+
+**(01:04:55)**
+
+
+
+A quick question about this too: for the number-of-sticks reporting, do you have that broken down between environmental team folks and then other...
+
+**(01:05:05)**
+
+
+
+...folks? So for us right now it is really just the environmental team. Okay. We do have — about 10 years ago, when lot cleaning was disbanded, we were finding a lot of needles in abandoned lots. So we decided we were going to train our lot cleaning personnel. So lot cleaning and our highway personnel are trained in picking up syringes. They are not the ones that are called to the sites — they are more on-site. If we are cleaning a lot, they are going to pick up the one or two that are in there. If they are on a highway, it just saves us time so we do not have to call the environmental team. That makes sense. So they are trained, but really it is like if there are a couple — it is not something that you need to bring a crew for. So mostly it is our environmental team that comes in. Thank you. No problem.
+
+**(01:05:53)**
+
+
+
+Has DSNY considered sharps-safe receptacles on or near litter baskets in high-litter areas? Obviously some parks have them, but I just wonder if that has ever been considered.
+
+**(01:06:02)**
+
+
+
+I do not think it has been considered, but I mean, we have dog poop bag dispensers on the little baskets now, so maybe something we can actually think about. It is not farfetched, it is not a bad idea. No, we have not, but we could bring that back and see if that is something we would be interested in doing.
+
+**(01:06:20)**
+
+
+
+Okay, yeah, I would love to have a conversation about it. Does DSNY change cleaning routes based on where the most syringe litter is? Like we said, how do you use the 311 data, the hotspot maps, or any other input that might come from like the syringe service program cleanup teams to figure out where you are targeting your...
+
+**(01:06:45)**
+
+
+
+...work? Yeah, so obviously 311 is everything for us, whether it is cleaning, collection or needle pickup. We are always going to focus our attention on where the highest number of complaints are coming in. We always evaluate our numbers based on our needle patrols. We have needle patrols in several neighborhoods. There are some neighborhoods that unfortunately we can never just get out of. There are some neighborhoods that have gotten constant attention throughout the year. We look at collection stats — how many syringes we are picking up, do we need to pay special attention to them — and then there are always new sites coming in from a lot of Council Members. A lot of Council Members right now are calling about a problem around school systems, like school hotspots overnight. So we are constantly evaluating that data and getting out there. And yeah, like I said before, CM Gutiérrez had high praise for the preschool pickups.
+
+**(01:07:42)**
+
+
+
+When a syringe is reported through 311, what is the average response time, and does that change depending on where the syringe is — whether it is in a park, on a sidewalk, near a school?
+
+**(01:07:56)**
+
+
+
+Sure. So it definitely changes when there is a school involved. We have a protocol where our officers will call it out over our internal radio system, and one of the first questions they are asked by whatever borough commander is handling that call is: is this by a school, is the school open, are there children nearby? That is always going to be expedited. But even when it is not near a school, we try to keep our response time to around three to four hours. Obviously New York City traffic and a certain number of teams out there means we cannot always keep to that, but we do our best to do it within three or four hours. I would say schools are probably within the hour most times. Thank you.
+
+**(01:08:31)**
+
+
+
+There are a lot of different people picking up syringes in a lot of different places. Is there a single map or system that you are all populating, or a schedule showing who is covering what?
+
+**(01:08:48)**
+
+
+
+There is not. Something that we are trying to figure out for outreach folks is — and you are going to be shocked — there is not a shared platform where people can put in all of their schedules so that it is helpful. I know. So we are still... we absolutely heard this. We do outreach summits with all of the folks we do outreach with, and this is something we have been asking for: who could create that tech? If you know of a developer, they should be working on that, because people want to be able to have something dynamic. So if I am shifting today and maybe I got into work late because there was a subway delay and I am supposed to go out at ten but instead I am going out at eleven or twelve, I want to make sure that we are not having the same two people interact with someone on a corner when you could be five blocks over. That seems super imperative.
+
+**(01:09:38)**
+
+
+
+Okay, so that is an area where we need some advancement. I also want to talk a little bit about how policing or enforcement can impact participation. In specific areas where the syringe redemption program operates, have any of the syringe redemption program sites or peer cleanup teams reported NYPD activity near their sites...
+
+**(01:10:04)**
+
+
+
+...while they are out there? So they try to go to roll call so that they can get to know all of the harm reduction programs. They try to go to roll calls and get to know the folks in the precinct around them. Yeah, like On Point is a great example — they were the first to do this and they do a great job of doing that. So it will be more of a relationship. I will also say when the Hub stuff started a couple of summers ago, that super hot summer, we were all out there trying to figure it out. That was all of the agencies together figuring it out, plus all of the outreach folks in the community from the substance use treatment programs, from the harm reduction programs. We were all trying to figure it out together. That is where that came from: if I park on the Hub, is that going to help?
+
+**(01:10:47)**
+
+
+
+Yeah, so if they are going to roll call, is it to let the precinct know "this is where we are going to be, can you steer clear"? Or are they going to roll call and... what is happening when they go? What is the purpose of going to the roll call and what is happening post roll call?
+
+**(01:11:05)**
+
+
+
+Yeah, so it is going to be a bunch of different things. Maybe I work on this corner, and so then you know me — like, I am Rebecca, I am going to be on this corner, or I am going to be doing this route. And if you see me in the community, come say hi. If you have noticed someone on your walk-through that you think could benefit from my services, please... if someone is skittish about talking, maybe it would be...
+
+**(01:11:27)**
+
+
+
+Better for the harm reduction folks to interact with that individual, because they are really amazing at doing this. So they will work with NYPD and the officers will say great, that is fantastic, and so all together we are able to figure out what is the approach that is going to happen. Yeah, because I mean the question ultimately is — the concern ultimately is that if there are police officers hanging around a site, folks are going to be discouraged from participating. Part of this is like, yeah, you would want a good enough relationship where if a police officer was out, they would proactively reach out to an outreach worker or something and say, hey, you guys go deal with this. But yeah, I just — I do not know that it has totally answered my question about police activity near the sites or whether that has an impact on participation. And this is an extreme example. I am not saying that this is what is happening, but...
+
+**(01:12:20)**
+
+
+
+I am a former public defender. Unfortunately I have seen cops hang out at methadone clinics, and not only did it discourage participation, but actually it was even worse because they would pretend to be dope sick and then trap people into arrests. We saw that a lot. So I am just trying to get a clearer sense of the kind of...
+
+**(01:12:40)**
+
+
+
+Are they hanging back enough for folks to be able to engage with these teams?
+
+**(01:12:46)**
+
+
+
+Yeah, so that is something that we talk about in our outreach work that we do across the City, with City and State folks, and NYPD is a participant in it. Stigma is there in every field, whether it is substance use treatment, harm reduction or law enforcement. We recognize that there is always going to be additional support needed so that someone can see what is the way that is actually going to help in this moment — to help this individual — rather than what are my biases and how am I acting as a result of that. So we do work with all the agencies to talk about how stigma is getting in the way of being able to effectively engage with someone. I know that did not fully answer your question, but I would say that is why I am here and that is why we are all here, trying to work on this together. Do you have a sense of whether other enforcement policies affect or undermine efforts to connect people to the services? I would have to defer to other agencies on that. How effective do you consider...
+
+**(01:13:55)**
+
+
+
+Kiosks in reducing syringe litter? I jumped entirely to something else, but I am curious about that.
+
+**(01:14:04)**
+
+
+
+Sometimes they are incredibly effective, and then sometimes we will notice there has not been use, and we are talking to the community folks, so we are talking to the syringe service programs and then doing education around, hey, did you notice that kiosk? In conversations with Parks they said, oh no — we will say to them, you know, no one has been accessing this, and then they go find out it has been covered up by a bush that has grown over it. So then they cut back the bush and suddenly people are using it again. So I will say it is a dynamic thing, a conversation, rather than just how effective they are. They are tremendously effective overall and we just need to make sure people know about them and are using them.
+
+**(01:14:48)**
+
+
+
+At the beginning of the hearing we talked a bit about the racial disparities, and the overdose deaths are rising fastest among Black and Latino New Yorkers. How are you specifically trying to reach those communities?
+
+**(01:15:04)**
+
+
+
+Yeah, so I am always conscious of my background, and that is why it was easier — my privilege made it easier for me to access the help I needed. That is why we are always trying to make sure that the people we are hiring are representative of the communities they serve. I think that is why government and nonprofit has been so great, because we are able to make sure the workforce looks like the people that we are helping. I would say that is why we rely on people who have that lived experience to help counsel us — talking to organizations like the National Black Harm Reduction Network and others about the approach that we have had and how we can improve things.
+
+**(01:15:41)**
+
+
+
+Do you have the demographics of the workers? I would have to — I mean, they are going to be predominantly looking like the people they are serving.
+
+**(01:15:51)**
+
+
+
+About that. Okay, so the Bronx has the highest overdose death rate in New York City — more than twice the rate of Manhattan residents. How is the City ensuring that individuals are being connected to continuing services?
+
+**(01:16:04)**
+
+
+
+Yeah, so that is why our...
+
+**(01:16:07)**
+
+
+
+Opioid settlement funds and other investments we have made have been targeted in communities. Every RFP we put out required that you had to be working and serving communities with the highest overdose rates, because we want to make sure that every dollar we are spending is going to the communities that need it most. You are absolutely right, it is heartbreaking, but there is also a lot of work to be done. That is why we keep layering on new strategies, like adding syringe redemption, adding additional outreach folks, adding recovery centers and workforce opportunities for all of those programs as well. We are constantly trying to layer on support for the community. In terms of having that workforce represent the community, or also just having cultural competency and training and being able to refer to certain types of services, can you talk a bit about services...
+
+**(01:16:59)**
+
+
+
+For women, services for trans and gender non-conforming individuals, services for sex workers — what are the opportunities there for those folks at redemption sites?
+
+**(01:17:12)**
+
+
+
+Yes to all of it. As a bisexual New Yorker and a parent of a gay 13-year-old, it is really important for me to make sure that people are taken care of. It honestly would not even matter if I were representative or not — these are all New Yorkers. So for example, Street Work Project is part of Safe Horizon and their specialty is working with youth who are LGBTQ.
+
+**(01:17:35)**
+
+
+
+We want to make sure we have...
+
+**(01:17:38)**
+
+
+
+Both specializations. OASAS has a really good designation for treatment programs that are affirming — not just for the folks who are coming to see them, but also for the workforce as well, because that is the key to it really being non-stigmatizing. There is a long way to go, but I would say we are both trying to make sure the whole workforce is receptive and also have those specialization programs so that someone can immediately feel safe walking through the front door.
