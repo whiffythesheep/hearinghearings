@@ -4,7 +4,7 @@
  "legistar_id": "8067835",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of horse drawn cabs and establishing a horse drawn cab industry transition plan, and to repeal sections 17-334.1, 19-174, 20-377, 20-377.1, 20-380, 20-381, 20-381.1, 20-381.2, 20-382 and subdivisions b, c, and d of section 20-383 of the administrative code of the city of New York, relating to carriage horses and horse drawn cabs",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Christopher Marte",
   "Shahana K. Hanif",
@@ -103,10 +103,50 @@
    "label": "Proposed Int. No. 943-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082943&GUID=EA5B961C-935B-4841-BA93-F9AB5184E6DC"
+  },
+  {
+   "label": "Committee Report 10/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084065&GUID=F11D366F-0A0C-4671-9608-47A9E1D7251A"
+  },
+  {
+   "label": "Environmental Assessment Statement",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085091&GUID=BA5DEF2A-E1D9-4C2A-A829-899F9F1064C0"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Health",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Health",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-07-15",
    "body": "Committee on Health",

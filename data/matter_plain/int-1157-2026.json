@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1157-2026",
+ "title": "Law to limit NYPD control over precinct community councils",
+ "summary": "This bill would stop NYPD personnel from running precinct community council elections, controlling records, or managing meeting logistics, limiting them to an advisory role. It would require community councils seeking official NYPD recognition to adopt bylaws ensuring neutral meeting locations, open public comment and civilian control of records. NYPD would also have to publish guidelines and report on recognized councils within 90 days of the law taking effect, which is 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "027ca887468d3dd4"
+}

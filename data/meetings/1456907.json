@@ -4,7 +4,7 @@
  "body": "Committee on Education",
  "location": "Council Chambers - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456907&GUID=480CE67E-608F-441E-8D8C-34E81603F9DD&Search=",
  "items": [
   {
@@ -13,10 +13,101 @@
    "name": "Requiring a study on how social and economic factors affect access to special education programs and services.",
    "sponsor": "Susan Zhuang",
    "agenda_note": "Proposed Int. No. 853-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7984719",
    "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A"
+  },
+  {
+   "file_number": "Int 0853-2026",
+   "type": "Introduction",
+   "name": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7984719",
+   "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A"
+  },
+  {
+   "file_number": "Int 0853-2026",
+   "type": "Introduction",
+   "name": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7984719",
+   "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A"
+  },
+  {
+   "file_number": "Int 0853-2026",
+   "type": "Introduction",
+   "name": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+   "sponsor": "Susan Zhuang",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7984719",
+   "legistar_guid": "CD000D2B-AC1B-4AD3-9A8F-14265EE9BD7A",
+   "tally": {
+    "Affirmative": 11,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Absent"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0650-2026",
@@ -24,10 +115,80 @@
    "name": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
    "sponsor": "Jennifer Gutiérrez",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8223442",
    "legistar_guid": "3A6A6BC1-67CD-44D1-B406-9AC56C4CE8AD"
+  },
+  {
+   "file_number": "Res 0650-2026",
+   "type": "Resolution",
+   "name": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
+   "sponsor": "Jennifer Gutiérrez",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8223442",
+   "legistar_guid": "3A6A6BC1-67CD-44D1-B406-9AC56C4CE8AD",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 2,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Eric Dinowitz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Absent"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Jennifer Gutiérrez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Absent"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Negative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

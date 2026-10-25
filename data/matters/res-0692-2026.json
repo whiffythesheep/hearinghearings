@@ -1,0 +1,36 @@
+{
+ "file_number": "Res 0692-2026",
+ "slug": "res-0692-2026",
+ "legistar_id": "8296746",
+ "type": "Resolution",
+ "title": "Resolution calling on the United States Congress to introduce and pass, and the President to sign, legislation that would require nutrition labels on food and drink products to include consumer education markings",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Oswald J. Feliz"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 692",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084305&GUID=15366122-6779-4C63-9F72-A60CA1E63C21"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296746&GUID=4541C2A9-BB3E-4F1F-A184-9CF75B55C11E"
+}

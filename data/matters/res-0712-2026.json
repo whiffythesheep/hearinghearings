@@ -1,0 +1,41 @@
+{
+ "file_number": "Res 0712-2026",
+ "slug": "res-0712-2026",
+ "legistar_id": "8297176",
+ "type": "Resolution",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. N 220450 ZRK, for a Zoning Text amendment (L.U. No. 143).",
+ "status": "Adopted",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085271&GUID=13FD722B-E23F-46C8-8C05-6980B8989273"
+  },
+  {
+   "label": "Res. No. 712",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085272&GUID=97F0A219-E8D1-4430-A777-B8038848CC9C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8297176&GUID=9972AA77-A6B4-4ACB-BAD1-C6A66358F113"
+}

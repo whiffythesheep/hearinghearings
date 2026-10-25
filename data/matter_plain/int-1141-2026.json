@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1141-2026",
+ "title": "Law to require rat control during sewer and DEP construction work",
+ "summary": "This bill would require the Department of Environmental Protection and private sewer permit applicants to hire two licensed exterminators to survey and treat construction sites for rodents before digging begins. It applies to projects lasting three or more days and deeper than 10 feet, and requires weekly extermination until work is complete. It also requires written notice to adjacent property owners at least 5 days before construction starts, describing the rodent abatement efforts.",
+ "model": "claude-sonnet-5",
+ "input_hash": "c9c23f3c7f3a360a"
+}

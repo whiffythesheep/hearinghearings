@@ -4,7 +4,7 @@
  "body": "Committee on General Welfare",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 Jointly with the Committee on Veterans",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444701&GUID=EB0AA2E4-3CBF-4E44-A5C7-E9353E1E7611&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Veterans Homelessness in New York City.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8257254",
+   "legistar_guid": "2554ABE2-B507-4906-9A85-5DE4379FACC2"
+  },
+  {
+   "file_number": "T2026-2558",
+   "type": "Oversight",
+   "name": "Oversight - Veterans Homelessness in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8257254",
    "legistar_guid": "2554ABE2-B507-4906-9A85-5DE4379FACC2"
@@ -24,7 +35,18 @@
    "name": "Department of social services’ response to certain severe winter weather conditions.",
    "sponsor": "Oswald J. Feliz",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8027974",
+   "legistar_guid": "660B9552-70C3-4CDC-B118-CEB68E93DF36"
+  },
+  {
+   "file_number": "Int 0897-2026",
+   "type": "Introduction",
+   "name": "Department of social services’ response to certain severe winter weather conditions.",
+   "sponsor": "Oswald J. Feliz",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8027974",
    "legistar_guid": "660B9552-70C3-4CDC-B118-CEB68E93DF36"
@@ -35,7 +57,18 @@
    "name": "Alternative exemption for seriously disabled veterans.",
    "sponsor": "Frank Morano",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for seriously disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206845",
    "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
@@ -46,7 +79,18 @@
    "name": "Enact the Fair Access to Co-ops for Veterans Act of 2025. (H.R. 1803)",
    "sponsor": "Vickie Paladino",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8138451",
+   "legistar_guid": "2C8040D8-7303-4BAB-96DF-72482C8CD2A0"
+  },
+  {
+   "file_number": "Res 0560-2026",
+   "type": "Resolution",
+   "name": "Enact the Fair Access to Co-ops for Veterans Act of 2025. (H.R. 1803)",
+   "sponsor": "Vickie Paladino",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8138451",
    "legistar_guid": "2C8040D8-7303-4BAB-96DF-72482C8CD2A0"
@@ -57,7 +101,18 @@
    "name": "Recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week.",
    "sponsor": "Frank Morano",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8206850",
+   "legistar_guid": "511683CA-72CF-4334-9EC3-209601519C9B"
+  },
+  {
+   "file_number": "Res 0634-2026",
+   "type": "Resolution",
+   "name": "Recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8206850",
    "legistar_guid": "511683CA-72CF-4334-9EC3-209601519C9B"

@@ -1,0 +1,53 @@
+{
+ "file_number": "Int 1132-2026",
+ "slug": "int-1132-2026",
+ "legistar_id": "8296709",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the landmarks preservation commission to create a public records online portal",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer",
+  "Shahana K. Hanif",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1132",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084216&GUID=670C63AD-B460-4545-BC47-7FB5FA0A2D8A"
+  },
+  {
+   "label": "Int. No. 1132",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084214&GUID=387FCD7D-F9D7-401F-A4C7-1968A2382397"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084244&GUID=21B6149F-2D1C-4D1E-8DB9-C2F816D3BB64"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-23",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296709&GUID=35B5D2F5-7ED0-4FAA-A4E8-9FDD7DE34629"
+}
