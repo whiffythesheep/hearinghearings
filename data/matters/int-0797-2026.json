@@ -4,7 +4,7 @@
  "legistar_id": "7961436",
  "type": "Introduction",
  "title": "A Local Law to amend the New York city charter, in relation to reporting on voter registration and voting in city jails",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Public Advocate Jumaane Williams",
   "Selvena N. Brooks-Powers",
@@ -81,6 +81,11 @@
    "label": "Committee Report 10/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082518&GUID=43276E57-6653-4091-842F-23032CC0ED85"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084941&GUID=00930C77-84EB-401E-9222-47B0E8E7B99E"
   }
  ],
  "fiscal": {
@@ -106,6 +111,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076462&GUID=1A7B564E-F14A-4698-B976-AEB6FDDFCD39"
  },
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Criminal Justice",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Criminal Justice",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Criminal Justice",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-04-14",
    "body": "Committee on Governmental Operations, State & Federal Legislation",

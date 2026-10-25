@@ -4,7 +4,7 @@
  "legistar_id": "8256052",
  "type": "Oversight",
  "title": "Oversight - The Role of Planning and Development in Mayor Mamdani's Block-by-Block Housing Plan.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -20,6 +20,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8256052&GUID=495A3F69-0956-4337-9F5E-264445E07236"
 }

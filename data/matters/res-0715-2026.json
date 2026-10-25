@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0715-2026",
+ "slug": "res-0715-2026",
+ "legistar_id": "8297077",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE COUNCIL OF MARRICKA SCOTT-MCFADDEN AS THE BRONX COUNTY DEMOCRATIC COMMISSIONER OF ELECTIONS.",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085001&GUID=201675F0-604B-45F7-8913-44DC1B3F7BEA"
+  },
+  {
+   "label": "Res. No. 715",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085002&GUID=4E14388F-9685-428E-BE00-720FDC32C707"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8297077&GUID=CB02F36A-C377-4240-8899-8B4E10105C8A"
+}

@@ -8,7 +8,8 @@
  "sponsors": [
   "Jennifer Gutiérrez",
   "Farah N. Louis",
-  "Alexa Avilés"
+  "Alexa Avilés",
+  "Shanel Thomas-Henry"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -51,6 +52,11 @@
    "label": "Hearing Testimony 9/16/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931666&GUID=0EE5DAB6-06F7-422D-95F6-B5F1366FA2CB"
+  },
+  {
+   "label": "Hearing Transcript 9/16/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089198&GUID=53A533AF-1025-4DDC-92FE-1A67B3451EAA"
   }
  ],
  "fiscal": {

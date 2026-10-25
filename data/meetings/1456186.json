@@ -4,7 +4,7 @@
  "body": "Committee on Criminal Justice",
  "location": "Council Chambers - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456186&GUID=C19222A6-0B69-47F6-87A5-ABBE8101EA0E&Search=",
  "items": [
   {
@@ -13,10 +13,78 @@
    "name": "Procedures for early mail and absentee ballots for voters in department of correction custody.",
    "sponsor": "Selvena N. Brooks-Powers",
    "agenda_note": "Proposed Int. No. 786-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7961428",
    "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for early mail and absentee ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for early mail and absentee ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597"
+  },
+  {
+   "file_number": "Int 0786-2026",
+   "type": "Introduction",
+   "name": "Procedures for early mail and absentee ballots for voters in department of correction custody.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961428",
+   "legistar_guid": "B7DB1339-6118-464D-BFA5-9B930954E597",
+   "tally": {
+    "Affirmative": 5,
+    "Medical": 1,
+    "Negative": 1
+   },
+   "roll_call": [
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Medical"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Negative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 0797-2026",
@@ -24,10 +92,77 @@
    "name": "Reporting on voter registration and voting in city jails.",
    "sponsor": "Public Advocate Jumaane Williams",
    "agenda_note": "Proposed Int. No. 797-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7961436",
    "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Reporting on voter registration and voting in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Reporting on voter registration and voting in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC"
+  },
+  {
+   "file_number": "Int 0797-2026",
+   "type": "Introduction",
+   "name": "Reporting on voter registration and voting in city jails.",
+   "sponsor": "Public Advocate Jumaane Williams",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7961436",
+   "legistar_guid": "C9B2A6EB-924C-4E8B-BAA6-FE4576583DBC",
+   "tally": {
+    "Affirmative": 6,
+    "Medical": 1
+   },
+   "roll_call": [
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Gale A. Brewer",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Tiffany L. Cabán",
+     "vote": "Medical"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,47 @@
+{
+ "file_number": "Int 1141-2026",
+ "slug": "int-1141-2026",
+ "legistar_id": "8296741",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to rodent abatement during certain construction work",
+ "status": "Committee",
+ "sponsors": [
+  "Crystal Hudson",
+  "Phil Wong",
+  "Lincoln Restler"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1141",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084297&GUID=024B8CF6-A81A-4708-A689-B6CE468BC4C2"
+  },
+  {
+   "label": "Int. No. 1141",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084296&GUID=40904B7D-15AF-41C5-AFEA-B749A5F7544C"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084308&GUID=D687E3FD-3F20-4B37-8CDB-9DD98FDD0560"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296741&GUID=282028C3-DD27-4891-B9A1-F49D4ECF48B7"
+}

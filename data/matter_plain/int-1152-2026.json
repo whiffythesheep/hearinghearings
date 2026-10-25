@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1152-2026",
+ "title": "Law to ban license plate readers in taxis and for-hire cars",
+ "summary": "This bill would prohibit owners and drivers of taxis and other Taxi and Limousine Commission-licensed vehicles from using automatic license plate readers in or on their vehicles. It would also bar base stations and dispatch services from requiring or encouraging such use. Violations carry a $500 civil penalty for owners and drivers and $2,000 for base stations and dispatch services, with repeat violators risking license suspension, revocation or non-renewal.",
+ "model": "claude-sonnet-5",
+ "input_hash": "00c061c7156192cd"
+}

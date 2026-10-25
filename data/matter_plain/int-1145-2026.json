@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1145-2026",
+ "title": "Law to require annual audit of police domestic incident reports",
+ "summary": "This bill would require the Department of Investigation to audit the NYPD's use of domestic incident reports each year and report the findings to the Council, starting within 180 days of enactment. The report must include data on completeness, timeliness and borough-by-precinct breakdowns of these reports, plus recommendations for improving NYPD compliance with state law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "b1682e9b858eedaf"
+}

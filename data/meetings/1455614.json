@@ -1,0 +1,33 @@
+{
+ "event_id": "1455614",
+ "date": "2026-10-26",
+ "body": "Committee on Criminal Justice",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455614&GUID=E7A4F9C2-420F-4A28-8087-BA0A2CB84120&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2514",
+   "type": "Oversight",
+   "name": "Oversight - The Organizational Strategy of the Department of Probation.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8258059",
+   "legistar_guid": "12D2AB0A-F3A0-4604-9501-6ACB14C742FA"
+  },
+  {
+   "file_number": "Int 1104-2026",
+   "type": "Introduction",
+   "name": "Providing youth accused of crimes with information about the criminal legal process.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281390",
+   "legistar_guid": "F39A77C9-62ED-4CC8-B3AD-30DF58948DFA"
+  }
+ ]
+}

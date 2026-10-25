@@ -4,7 +4,7 @@
  "legistar_id": "8027957",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Sandy Nurse",
   "Harvey D. Epstein",
@@ -112,6 +112,11 @@
    "label": "Committee Report 10/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082801&GUID=436D21C0-D8FB-4F3F-9916-E68C1AB0AFB7"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085454&GUID=214D5CA8-8AA8-4B1D-8B8F-45880B45485C"
   }
  ],
  "fiscal": {
@@ -137,6 +142,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076801&GUID=56B2C191-AD00-4018-8CC4-F8C0234B4964"
  },
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Housing and Buildings",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Committee on Housing and Buildings",

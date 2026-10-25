@@ -4,7 +4,7 @@
  "legistar_id": "8138357",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the maximum income level qualifying for exemption from rent increases granted to certain senior citizens and persons with disabilities and adjusting the income requirements related thereto",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Farah N. Louis",
   "Gale A. Brewer",
@@ -38,6 +38,8 @@
   "Elsie Encarnación",
   "Kayla Santosuosso",
   "Shirley Aldebol",
+  "Simcha Felder",
+  "Selvena N. Brooks-Powers",
   "Inna Vernikov",
   "Public Advocate Jumaane Williams",
   "(in conjunction with the Manhattan Borough Preside",
@@ -109,6 +111,16 @@
    "label": "Proposed Int. No. 978-B - 10/15/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16071516&GUID=ECBABA8D-1574-4C43-864B-404FCC260EE4"
+  },
+  {
+   "label": "Committee Report 10/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084069&GUID=9FBF437C-16AE-4026-AC1F-DEAD6927DABF"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085193&GUID=E4A09B6B-6C37-4176-B214-9EABCC525631"
   }
  ],
  "fiscal": {
@@ -135,6 +147,36 @@
  },
  "history": [
   {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
@@ -168,6 +210,18 @@
    "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
    "result": ""
   },
   {
@@ -191,18 +245,6 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Aging",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
    "action": "Amended by Committee",
    "result": ""
   },
