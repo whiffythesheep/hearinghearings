@@ -4,7 +4,7 @@
  "body": "Committee on Parks and Recreation",
  "location": "Committee Room - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455917&GUID=EECB8D0D-9C4A-4374-BE02-4A49E4DA82C9&Search=",
  "items": [
   {
@@ -13,10 +13,92 @@
    "name": "Renaming one thoroughfare and public place in the Borough of Queens, Edgemere Avenue, and to amend the official map of the city of New York accordingly.",
    "sponsor": "Selvena N. Brooks-Powers",
    "agenda_note": "Proposed Int. No. 927-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8067759",
    "legistar_guid": "0597EE18-E716-4377-89AE-EA4AF1C3E2F5"
+  },
+  {
+   "file_number": "Int 0927-2026",
+   "type": "Introduction",
+   "name": "Renaming one thoroughfare and public place in the Borough of Queens, Edgemere Avenue, and to amend the official map of the city of New York accordingly.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8067759",
+   "legistar_guid": "0597EE18-E716-4377-89AE-EA4AF1C3E2F5"
+  },
+  {
+   "file_number": "Int 0927-2026",
+   "type": "Introduction",
+   "name": "Renaming one thoroughfare and public place in the Borough of Queens, Edgemere Avenue, and to amend the official map of the city of New York accordingly.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8067759",
+   "legistar_guid": "0597EE18-E716-4377-89AE-EA4AF1C3E2F5"
+  },
+  {
+   "file_number": "Int 0927-2026",
+   "type": "Introduction",
+   "name": "Renaming one thoroughfare and public place in the Borough of Queens, Edgemere Avenue, and to amend the official map of the city of New York accordingly.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8067759",
+   "legistar_guid": "0597EE18-E716-4377-89AE-EA4AF1C3E2F5",
+   "tally": {
+    "Affirmative": 11
+   },
+   "roll_call": [
+    {
+     "name": "Ty Hankerson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shekar Krishnan",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandy Nurse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kayla Santosuosso",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1136-2026",
+ "title": "Law to add 311 category for hallway e-bikes",
+ "summary": "This bill would require NYC311 to create a new complaint category for unattended powered mobility devices, such as e-bikes, left in common areas of apartment buildings. Complaints could include devices found, being charged or blocking exits, and would be referred to the Fire Department for resolution. The law would take effect 90 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9aaafda12f473ee7"
+}

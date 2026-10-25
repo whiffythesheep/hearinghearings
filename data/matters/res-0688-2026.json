@@ -1,0 +1,35 @@
+{
+ "file_number": "Res 0688-2026",
+ "slug": "res-0688-2026",
+ "legistar_id": "8296712",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.9891-B/A.10899-C, legislation regulating cryptocurrency kiosks and establishing statewide consumer protections against fraud and financial loss",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 688",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084226&GUID=54C277B9-1840-472F-A756-02B91C9CD517"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8296712&GUID=846E55C7-39D1-46B8-B55A-821A22D6DACC"
+}

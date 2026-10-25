@@ -1,0 +1,41 @@
+{
+ "file_number": "Res 0709-2026",
+ "slug": "res-0709-2026",
+ "legistar_id": "8297173",
+ "type": "Resolution",
+ "title": "Resolution approving an Urban Development Action Area Project pursuant to Article 16 of the General Municipal Law for property located at 48 Convent Avenue, 50 Convent Avenue, 453-455 West 125th Street, and 12-14 Old Broadway, Borough of Manhattan, Community District 9, Borough of Manhattan (L.U. No. 129; G 260006 NUM).",
+ "status": "Adopted",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Christopher Marte"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085279&GUID=4EE60822-1425-4FC0-8E3B-2E33E6A9AD8C"
+  },
+  {
+   "label": "Res. No. 709",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085280&GUID=97E2CFD7-6BCC-4995-AB78-D2BA8A2E543C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8297173&GUID=8B382BA1-3FA6-4BE0-8612-031CB117E40B"
+}

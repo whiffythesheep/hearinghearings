@@ -4,7 +4,7 @@
  "legistar_id": "8218923",
  "type": "Land Use Application",
  "title": "Application number C 250329 ZMQ (135-27 Sapphire Street Rezoning) submitted by 135 Sapphire LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 18b, changing from an R4 District to an R6A District, Borough of Queens, Community District 10, Council District 32.",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -21,6 +21,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043968&GUID=A4A15274-CA37-4BF4-95C5-38B67AE21C96"
   },
   {
+   "label": "Hearing Transcript - Zoning 9/23/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16087932&GUID=AF513C2D-5458-48BF-AC48-88777EEA5A7F"
+  },
+  {
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933238&GUID=5F0425D9-F194-41AB-8554-6A7CE68136B5"
@@ -34,10 +39,38 @@
    "label": "Calendar of the Land Use Meeting - October 21, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16073479&GUID=6E3CDAA4-E53D-4B4E-A202-0754F237903F"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084781&GUID=31656760-AEBF-4106-B28C-4B9B377E3F48"
+  },
+  {
+   "label": "Res. No. 713",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084783&GUID=8E2078FB-E0BC-4B0C-823A-407EB50C21AA"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Zoning and Franchises",

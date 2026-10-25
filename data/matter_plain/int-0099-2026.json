@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0099-2026",
+ "title": "Law to track where homeless families are placed in shelters",
+ "summary": "This bill would require the Department of Homeless Services to publish an annual report on where families with children are placed into shelters. The report must show how many families were placed in the same zip code or an adjoining zip code as their last address, broken down citywide and by borough. Data must also be separated for families with children under age 3 and families with older children.",
+ "model": "claude-sonnet-5",
+ "input_hash": "835a022a437cd64d"
+}

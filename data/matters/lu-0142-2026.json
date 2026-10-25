@@ -4,7 +4,7 @@
  "legistar_id": "8218915",
  "type": "Land Use Application",
  "title": "Application number C 220449 ZMK (1455 Coney Island Avenue Rezoning) submitted by Prospect Park Land LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 22d, eliminating from within an existing R5 District a C2-3 District and changing from an R5 District to a C4-5D District, Borough of Brooklyn, Community District 14, Council District 44.",
- "status": "Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -21,6 +21,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043941&GUID=E2A2D967-8707-42B3-8984-9D7843499E05"
   },
   {
+   "label": "Hearing Transcript - Zoning 9/23/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16087930&GUID=0C5852BC-C867-4A41-9547-ABB851EEA58D"
+  },
+  {
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933236&GUID=E37EC17C-ECD4-4A35-AD05-7984452449C3"
@@ -34,10 +39,38 @@
    "label": "Calendar of the Land Use Meeting - October 21, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16073477&GUID=A54870FB-566E-4415-B864-5FF3B9CAB1A7"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084600&GUID=4F5D5BB1-9C00-403D-B85C-C4732587FB25"
+  },
+  {
+   "label": "Res. No. 711",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084722&GUID=F1CE530B-51FF-4C1A-84E5-D38EB4AFDBE0"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-21",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Zoning and Franchises",
