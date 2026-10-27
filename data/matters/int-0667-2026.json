@@ -17,7 +17,8 @@
   "Kamillah Hanks",
   "Tiffany L. Cabán",
   "Susan Zhuang",
-  "Jennifer Gutiérrez"
+  "Jennifer Gutiérrez",
+  "Oswald J. Feliz"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -45,6 +46,11 @@
    "label": "Hearing Transcript - Stated Meeting 2-12-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302608&GUID=5B174EF1-DA11-4321-AB51-12D49FDB76C7"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - February 12, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092411&GUID=0FA0D633-3616-4ACD-BA4F-9202581E28C1"
   }
  ],
  "fiscal": null,

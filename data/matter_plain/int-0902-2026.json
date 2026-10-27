@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0902-2026",
+ "title": "Law to require mental health care protocols for pregnant inmates",
+ "summary": "This bill would require the Department of Correction, working with Correctional Health Services, to create and maintain written protocols for identifying, screening, referring, monitoring and following up on mental health needs of pregnant and postpartum people in custody. The protocols must address intake screening, expedited psychiatric evaluation, hospital referral, documentation and discharge planning, and must be reviewed at least every two years. The protocols must be posted publicly online and shared with relevant staff within 30 days of being established or revised, with the law taking effect 180 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "24eb098d295683c2"
+}

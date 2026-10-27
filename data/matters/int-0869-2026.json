@@ -31,14 +31,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15426459&GUID=F94DCBB2-E1F4-401C-8AEC-5E0B77416B9E"
   },
   {
-   "label": "Propsed Int. No. 869-A - 6/8/26",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563941&GUID=62318C65-FB2C-4320-9AC6-5FDD6EA4B50B"
-  },
-  {
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567464&GUID=CB8AC5CA-07F4-49C3-9CD3-3AA60ADF4ADA"
+  },
+  {
+   "label": "Propsed Int. No. 869-A - 6/8/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15563941&GUID=62318C65-FB2C-4320-9AC6-5FDD6EA4B50B"
   },
   {
    "label": "Committee Report 10/20/26",
@@ -49,6 +49,16 @@
    "label": "Proposed Int. No. 869-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077564&GUID=4E6595D6-D70A-4E94-9064-314483436E4D"
+  },
+  {
+   "label": "Hearing Testimony 10/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095785&GUID=3B92BBCD-A848-4E7F-9035-655CAF1910A5"
+  },
+  {
+   "label": "Appearance Cards 10/20/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095786&GUID=76EAEE70-E4DD-4AE0-9239-5BF05E9D4383"
   }
  ],
  "fiscal": {

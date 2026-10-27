@@ -8,7 +8,9 @@
  "sponsors": [
   "Shanel Thomas-Henry",
   "Ty Hankerson",
-  "Shirley Aldebol"
+  "Shirley Aldebol",
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -26,6 +28,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084599&GUID=EAD0BCA6-AF34-4ED4-81D3-AB613B94BD65"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091372&GUID=AC2F92DE-B2E5-4AD9-A813-EC485F48DB59"
   }
  ],
  "fiscal": null,

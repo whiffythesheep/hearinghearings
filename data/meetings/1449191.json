@@ -1,0 +1,66 @@
+{
+ "event_id": "1449191",
+ "date": "2026-10-28",
+ "body": "Committee on Governmental Operations, State & Federal Legislation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1449191&GUID=C4F2D1CF-6921-4B7E-A772-E9551E8ACFB6&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2608",
+   "type": "Oversight",
+   "name": "Oversight - Mayor's Office of Ethnic & Community Media and Government Spending on Advertisements.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8282708",
+   "legistar_guid": "DA680859-FDC7-4E3B-88B0-346758CDF3F2"
+  },
+  {
+   "file_number": "Int 1127-2026",
+   "type": "Introduction",
+   "name": "Amending and eliminating certain reporting requirements within the New York city charter and the administrative code of the city of New York.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "Proposed Int. No. 1127-B",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281464",
+   "legistar_guid": "7DFFFD53-1AD6-4958-AFEC-6BFE3382E907"
+  },
+  {
+   "file_number": "Int 1128-2026",
+   "type": "Introduction",
+   "name": "The due dates of agency reports to the council.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281465",
+   "legistar_guid": "0AE839AD-1118-494F-BAB1-D5BDA7AA2039"
+  },
+  {
+   "file_number": "Int 1129-2026",
+   "type": "Introduction",
+   "name": "Agency transmissions of reports and attestations of compliance with operational requirements.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281463",
+   "legistar_guid": "01E436F5-DD24-489D-977E-70557DF99058"
+  },
+  {
+   "file_number": "T2026-2722",
+   "type": "Introduction",
+   "name": "The creation of a working group to study agency use of communication technologies.",
+   "sponsor": "Gale A. Brewer",
+   "agenda_note": "Preconsidered",
+   "action": "",
+   "result": "",
+   "legistar_id": "8295197",
+   "legistar_guid": "71BB0800-0C43-40FD-9D5A-8A0F853AB14C"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "file_number": "Int 0902-2026",
+ "slug": "int-0902-2026",
+ "legistar_id": "8027982",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to mental health protocols for pregnant and postpartum individuals in the custody of the department of correction",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Linda Lee",
+  "Kevin C. Riley",
+  "Farah N. Louis",
+  "Mercedes Narcisse",
+  "Crystal Hudson",
+  "Shahana K. Hanif",
+  "Kamillah Hanks",
+  "Harvey D. Epstein",
+  "Selvena N. Brooks-Powers",
+  "Gale A. Brewer",
+  "Virginia Maloney",
+  "Carl Wilson",
+  "Lynn C. Schulman",
+  "Phil Wong",
+  "Amanda C. Farías",
+  "Shanel Thomas-Henry",
+  "Chris Banks",
+  "Shaun Abreu",
+  "Pierina Ana Sanchez",
+  "Sandra Ung",
+  "Lincoln Restler",
+  "Frank Morano",
+  "Public Advocate Jumaane Williams"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 902",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477812&GUID=1CCECE2B-ACF2-4CB7-9C7D-14C259D31440"
+  },
+  {
+   "label": "Int. No. 902",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477813&GUID=4B0990E7-8028-4244-9B4E-FD0F5281F353"
+  },
+  {
+   "label": "May 14, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548235&GUID=4C870290-96EC-4B65-9350-703099FACC95"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848997&GUID=954F1D91-1230-4817-8D21-225B5EFB0C7B"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084877&GUID=5C8AD2D1-47C9-426D-88C7-6D0AB806D9BC"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094552&GUID=5BCB82EA-F750-4FC4-AB26-D4A94CEDFE6A"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084877&GUID=5C8AD2D1-47C9-426D-88C7-6D0AB806D9BC"
+ },
+ "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Criminal Justice",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-05-14",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8027982&GUID=215E6922-3097-4343-B3F6-819261E96706"
+}

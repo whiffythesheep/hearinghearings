@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0629-2026",
+ "title": "Law to screen detained youth for early release",
+ "summary": "This bill would require the Administration for Children's Services to set up borough-based teams that review the cases of youth held in secure detention for at least 7 days and recommend candidates for early release or case resolution. The teams, which would include ACS, Probation, Department of Education and other agency staff, must meet twice a month and share findings with each youth's defense attorney. ACS would also have to publish a public report twice a year on how many youth were reviewed, recommended for release and actually released.",
+ "model": "claude-sonnet-5",
+ "input_hash": "80e9542043dd221d"
+}

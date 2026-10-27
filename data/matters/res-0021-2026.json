@@ -45,6 +45,11 @@
    "label": "Hearing Transcript 4/13/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15869068&GUID=1AEB48D4-DE6A-4AE0-9203-C7C7E02A128F"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093322&GUID=D029862F-5B19-4241-A08B-32F06F4A1518"
   }
  ],
  "fiscal": null,
@@ -59,12 +64,6 @@
    "date": "2026-04-13",
    "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-03-17",
-   "body": "City Council",
-   "action": "Re-referred to Committee by Council",
    "result": ""
   },
   {

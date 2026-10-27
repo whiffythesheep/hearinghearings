@@ -1,0 +1,108 @@
+{
+ "file_number": "Int 0613-2026",
+ "slug": "int-0613-2026",
+ "legistar_id": "7879334",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of protected bicycle lanes",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Rita C. Joseph",
+  "Lincoln Restler",
+  "Chris Banks",
+  "Christopher Marte",
+  "Farah N. Louis",
+  "Gale A. Brewer",
+  "Crystal Hudson",
+  "Shahana K. Hanif",
+  "Sandy Nurse",
+  "Tiffany L. Cabán",
+  "Jennifer Gutiérrez"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 613",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15188411&GUID=918E1ABA-E455-488E-A20F-1F3A4C2DB006"
+  },
+  {
+   "label": "Int. No. 613",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15188412&GUID=4AC0DCF4-3862-4434-B387-3969F05D7CD7"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729510&GUID=FB87738A-725C-482C-9E3A-CD6BB53ADCC5"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302534&GUID=66AA20F0-2B77-4ADF-8382-8D6B9E1E9148"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - February 12, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092328&GUID=FC8EE752-A702-4C31-9732-8292DADDDD3D"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094013&GUID=6716977C-0CD8-4F70-A7FD-8D7248E5376E"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094526&GUID=3DF3F55B-E753-46E6-A89C-A535982EB45A"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 39500000,
+   "succeeding": 59200000,
+   "full": 59200000
+  },
+  "net": {
+   "effective": -39500000,
+   "succeeding": -59200000,
+   "full": -59200000
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094526&GUID=3DF3F55B-E753-46E6-A89C-A535982EB45A"
+ },
+ "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879334&GUID=756FB699-9A75-435A-8D2D-68942D97F5D9"
+}

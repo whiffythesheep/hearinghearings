@@ -4,7 +4,7 @@
  "legistar_id": "8237342",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to designating financial literacy advisors to serve in older adult centers",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Crystal Hudson",
   "Nantasha M. Williams",
@@ -32,10 +32,57 @@
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933212&GUID=659FBC7E-EF4A-4E59-B2C4-5EF6D5E1E72E"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094371&GUID=8B5C5163-4B26-4312-802F-5DFDB21AEAE4"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095545&GUID=37358A46-666C-43CC-A52A-C4E55410EF1C"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094371&GUID=8B5C5163-4B26-4312-802F-5DFDB21AEAE4"
+ },
  "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Aging",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Aging",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Public Housing",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Public Housing",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

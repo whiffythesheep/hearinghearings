@@ -7,7 +7,9 @@
  "status": "Committee",
  "sponsors": [
   "Crystal Hudson",
-  "Shahana K. Hanif"
+  "Shahana K. Hanif",
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +17,11 @@
    "label": "Res. No. 691",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084306&GUID=B9664EDB-A79A-4097-A39B-28CFF54D3776"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091353&GUID=782286DA-1E4C-4D7E-A5A0-E38CCF40261F"
   }
  ],
  "fiscal": null,

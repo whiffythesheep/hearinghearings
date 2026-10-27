@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hearinghearings.nyc/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/hearings/city-council-2026-10-22/</loc>
@@ -502,19 +502,31 @@
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/meetings/1455614/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <loc>https://hearinghearings.nyc/meetings/1456067/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/meetings/1454254/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/meetings/1449191/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/meetings/1448726/</loc>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/meetings/1456907/</loc>
@@ -669,8 +681,120 @@
     <lastmod>2026-08-13</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2722/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2663/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2629/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2608/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2617/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2616/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2614/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2593/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2532/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2464/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2463/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/res-0687-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/res-0498-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/res-0497-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/res-0464-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1153-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1144-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1083-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1070-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0902-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0613-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0113-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0046-2026/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/t2026-2514/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1104-2026/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-1015-2026/</loc>
+    <lastmod>2026-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0833-2026/</loc>
+    <lastmod>2026-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0248-2026/</loc>
+    <lastmod>2026-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0246-2026/</loc>
+    <lastmod>2026-10-24</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/res-0700-2026/</loc>
@@ -761,10 +885,6 @@
     <lastmod>2026-10-22</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/matters/res-0687-2026/</loc>
-    <lastmod>2026-10-22</lastmod>
-  </url>
-  <url>
     <loc>https://hearinghearings.nyc/matters/res-0666-2026/</loc>
     <lastmod>2026-10-22</lastmod>
   </url>
@@ -829,10 +949,6 @@
     <lastmod>2026-10-22</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/matters/int-1153-2026/</loc>
-    <lastmod>2026-10-22</lastmod>
-  </url>
-  <url>
     <loc>https://hearinghearings.nyc/matters/int-1152-2026/</loc>
     <lastmod>2026-10-22</lastmod>
   </url>
@@ -862,10 +978,6 @@
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/int-1145-2026/</loc>
-    <lastmod>2026-10-22</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-1144-2026/</loc>
     <lastmod>2026-10-22</lastmod>
   </url>
   <url>
@@ -1513,10 +1625,6 @@
     <lastmod>2026-10-08</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/matters/int-1104-2026/</loc>
-    <lastmod>2026-10-08</lastmod>
-  </url>
-  <url>
     <loc>https://hearinghearings.nyc/matters/int-1103-2026/</loc>
     <lastmod>2026-10-08</lastmod>
   </url>
@@ -1965,10 +2073,6 @@
     <lastmod>2026-09-24</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/matters/int-1083-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
     <loc>https://hearinghearings.nyc/matters/int-1082-2026/</loc>
     <lastmod>2026-09-24</lastmod>
   </url>
@@ -2006,26 +2110,6 @@
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/int-1071-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-1070-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-1015-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-0833-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-0248-2026/</loc>
-    <lastmod>2026-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/int-0246-2026/</loc>
     <lastmod>2026-09-24</lastmod>
   </url>
   <url>
@@ -2937,6 +3021,10 @@
     <lastmod>2026-07-16</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/int-0977-2026/</loc>
+    <lastmod>2026-07-16</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/t2026-2227/</loc>
     <lastmod>2026-07-15</lastmod>
   </url>
@@ -3437,6 +3525,14 @@
     <lastmod>2026-04-30</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/int-0862-2026/</loc>
+    <lastmod>2026-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0861-2026/</loc>
+    <lastmod>2026-04-30</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/int-0417-2026/</loc>
     <lastmod>2026-04-29</lastmod>
   </url>
@@ -3577,6 +3673,10 @@
     <lastmod>2026-03-12</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/res-0363-2026/</loc>
+    <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/int-0779-2026/</loc>
     <lastmod>2026-03-10</lastmod>
   </url>
@@ -3621,7 +3721,15 @@
     <lastmod>2026-03-02</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/res-0274-2026/</loc>
+    <lastmod>2026-02-17</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/int-0667-2026/</loc>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0629-2026/</loc>
     <lastmod>2026-02-12</lastmod>
   </url>
   <url>
@@ -3649,7 +3757,15 @@
     <lastmod>2026-02-09</lastmod>
   </url>
   <url>
+    <loc>https://hearinghearings.nyc/matters/int-0447-2026/</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://hearinghearings.nyc/matters/int-0414-2026/</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/int-0406-2026/</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3662,382 +3778,386 @@
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/t2026-2686/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
-    <loc>https://hearinghearings.nyc/matters/t2026-2629/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://hearinghearings.nyc/matters/t2026-2636/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/matters/t2026-2635/</loc>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/matters/t2026-2551/</loc>
-    <lastmod>2026-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://hearinghearings.nyc/matters/t2026-2532/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/shaun-abreu/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/shirley-aldebol/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/joann-ariola/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/alexa-aviles/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/chris-banks/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/gale-brewer/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/selvena-brooks-powers/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/tiffany-caban/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/david-carr/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/eric-dinowitz/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/elsie-encarnacion/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/harvey-epstein/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/amanda-farias/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/simcha-felder/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/oswald-feliz/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/james-gennaro/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/jennifer-gutierrez/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/shahana-hanif/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/ty-hankerson/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/kamillah-hanks/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/crystal-hudson/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/rita-joseph/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/shekar-krishnan/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/linda-lee/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/farah-louis/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/virginia-maloney/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/christopher-marte/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/darlene-mealy/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/julie-menin/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/frank-morano/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/mercedes-narcisse/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/sandy-nurse/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/chi-osse/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/vickie-paladino/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/lincoln-restler/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/kevin-riley/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/carmen-de-la-rosa/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/yusef-salaam/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/pierina-ana-sanchez/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/justin-sanchez/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/kayla-santosuosso/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/lynn-schulman/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/althea-stevens/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/shanel-thomas-henry/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/sandra-ung/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/inna-vernikov/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/nantasha-williams/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/carl-wilson/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/julie-won/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/phil-wong/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/members/susan-zhuang/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/city-council/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-of-the-whole/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-aging/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-children-and-youth/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-civil-service-and-labor/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-civil-and-human-rights/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-consumer-and-worker-protection/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-contracts/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-criminal-justice/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-cultural-affairs-libraries-and-international-relations/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-disabilities/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-economic-development/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-education/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-environmental-protection-and-waterfronts/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-finance/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-fire-and-emergency-management/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-general-welfare/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-governmental-operations-state-federal-legislation/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-health/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-higher-education/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-hospitals/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-housing-and-buildings/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-immigration/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-land-use/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-mental-health-and-substance-use/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-oversight-and-investigations/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-parks-and-recreation/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-public-housing/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-public-safety/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-rules-privileges-elections-standards-and-ethics/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-sanitation-and-solid-waste-management/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-small-business/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-technology/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-transportation-and-infrastructure/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-veterans/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-on-women-and-gender-equity/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://hearinghearings.nyc/committees/committee-on-workforce-development/</loc>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/committee-to-combat-hate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/subcommittee-on-early-childhood-education/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/subcommittee-on-landmarks-public-sitings-resiliency-and-dispositions/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://hearinghearings.nyc/committees/subcommittee-on-zoning-and-franchises/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
 </urlset>

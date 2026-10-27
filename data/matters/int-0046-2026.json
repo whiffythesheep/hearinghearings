@@ -1,0 +1,103 @@
+{
+ "file_number": "Int 0046-2026",
+ "slug": "int-0046-2026",
+ "legistar_id": "7861406",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to installing child with autism warning plaques on streets",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Joann Ariola",
+  "Kevin C. Riley",
+  "Farah N. Louis",
+  "Lynn C. Schulman",
+  "Yusef Salaam",
+  "Selvena N. Brooks-Powers",
+  "Phil Wong",
+  "Frank Morano",
+  "Vickie Paladino"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 46",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15164026&GUID=877A1A91-97F8-4A98-9666-0A843E48FC73"
+  },
+  {
+   "label": "Int. No. 46",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15164027&GUID=EDFCF77B-60F5-483F-A411-063B3AAFD49E"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251366&GUID=60BE3DC7-BFD2-4F80-BFE3-C1207B927919"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252061&GUID=E961284F-CB1C-4E5B-875B-3E201685B598"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15349214&GUID=85069C2A-3E09-4DD2-82A3-A05FE9B034B0"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093290&GUID=FBC82017-D23E-474E-A2C5-55925CF6BB7A"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094011&GUID=0357A7A0-500D-4522-8DAB-7F45E311541D"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094529&GUID=86ECE681-FA2E-44B2-8518-3F6D0B2AEE0E"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094529&GUID=86ECE681-FA2E-44B2-8518-3F6D0B2AEE0E"
+ },
+ "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861406&GUID=015FD8D3-CFC7-43AF-827B-5CB6D6D1AB4A"
+}

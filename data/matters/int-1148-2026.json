@@ -10,7 +10,8 @@
   "Tiffany L. Cabán",
   "Crystal Hudson",
   "Carl Wilson",
-  "Shahana K. Hanif"
+  "Shahana K. Hanif",
+  "Gale A. Brewer"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -23,6 +24,11 @@
    "label": "Int. No. 1148",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084502&GUID=50081506-F1E1-4906-B08E-F2D91642807F"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091365&GUID=6BBB9C0E-7B29-4B77-9E9A-692A17DFBD34"
   }
  ],
  "fiscal": null,

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1128-2026",
  "title": "Law to set default deadlines for city agency reports",
- "summary": "This law would set standard due dates for periodic reports that city agencies must submit to the Council when no deadline is otherwise specified. Reports covering periods shorter than a year would be due by the end of the following month, and reports covering a year or more would be due by the end of the second following month. It also clarifies how terms like month, quarter, half-year, fiscal year and school year should be interpreted in reporting requirements.",
+ "summary": "This bill would create a default due-date system for periodic reports that city agencies must submit to the Council when no specific deadline is set in law. Reports covering less than a year would be due at the end of the month following the reporting period, while reports covering a year or more would be due at the end of the second following month. It would also standardize how terms like month, quarter, half-year and fiscal year are interpreted in reporting requirements.",
  "model": "claude-sonnet-5",
- "input_hash": "41462ffb75099524"
+ "input_hash": "c3fd14de36514e54"
 }

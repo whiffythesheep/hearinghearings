@@ -1,0 +1,50 @@
+{
+ "file_number": "Res 0363-2026",
+ "slug": "res-0363-2026",
+ "legistar_id": "7944911",
+ "type": "Resolution",
+ "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.6958, enacting the New York Fair Housing Act to address the State’s affordable housing crisis",
+ "status": "Committee",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Alexa Avilés",
+  "Chris Banks",
+  "Harvey D. Epstein",
+  "Nantasha M. Williams",
+  "Mercedes Narcisse"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 363",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15303947&GUID=FD4F27D4-782D-461C-998D-E71A64DC0330"
+  },
+  {
+   "label": "March 10, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15305010&GUID=C5020DAB-4410-498D-BE68-5FEB74058C7D"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 3-10-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433247&GUID=AB6EDD0F-97B8-47A3-A0A3-39B27783A181"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-03-10",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7944911&GUID=EABBFCFD-9DA9-400B-BB9D-8EE1088EC1E9"
+}

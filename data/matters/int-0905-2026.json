@@ -69,6 +69,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548241&GUID=D87EA394-C80A-48A5-A4DF-BAA8FF453312"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849003&GUID=500AA6BB-D932-43B6-8F59-E2E640C81266"
+  },
+  {
    "label": "Committee Report 9/9/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836124&GUID=A0D22383-6730-4D52-B08B-817A688EC5B4"
@@ -87,11 +92,6 @@
    "label": "Hearing Testimony 9/9/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863138&GUID=E584BB0E-5263-49FB-BA2D-BD107BC42217"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849003&GUID=500AA6BB-D932-43B6-8F59-E2E640C81266"
   },
   {
    "label": "Proposed Int. No. 905-A - 10/15/26",
@@ -117,6 +117,16 @@
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085454&GUID=214D5CA8-8AA8-4B1D-8B8F-45880B45485C"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091402&GUID=BE817F85-06F3-4380-9153-53713A39C38E"
+  },
+  {
+   "label": "Int. No. 905-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094089&GUID=851459F2-A571-48F6-9359-5E95F2C3CF77"
   }
  ],
  "fiscal": {

@@ -8,6 +8,7 @@
  "sponsors": [
   "Crystal Hudson",
   "Lincoln Restler",
+  "Mercedes Narcisse",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -16,6 +17,11 @@
    "label": "Res. No. 693",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084304&GUID=11E09C02-E7DE-4023-9F51-589A2FDF15A5"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091355&GUID=AFAB680D-54B6-4EC3-B100-AF6EEC23E286"
   }
  ],
  "fiscal": null,

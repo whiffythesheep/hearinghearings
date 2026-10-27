@@ -1,0 +1,86 @@
+{
+ "file_number": "Int 0977-2026",
+ "slug": "int-0977-2026",
+ "legistar_id": "8138355",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to trainings regarding sexually exploited youth",
+ "status": "Committee",
+ "sponsors": [
+  "Farah N. Louis",
+  "Chi A. Ossé",
+  "Shirley Aldebol",
+  "Phil Wong",
+  "Ty Hankerson",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 977",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695507&GUID=DA5D04ED-697E-44D8-B224-78EC24265725"
+  },
+  {
+   "label": "Int. No. 977",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15695506&GUID=E7593BB1-B865-4118-A315-C7BBBB4C0238"
+  },
+  {
+   "label": "July 16, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15699680&GUID=4C90760C-649B-4C0E-B8FB-BBEB0AA296C9"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 7-16-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15720702&GUID=A27FF54C-3CF2-4B4E-A702-8E0808C46F7B"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092992&GUID=43015ADE-DFD3-46E7-8B63-8E82A4734386"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094593&GUID=8F9A8300-80E9-43B1-8107-A6E011C8D699"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092992&GUID=43015ADE-DFD3-46E7-8B63-8E82A4734386"
+ },
+ "history": [
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-07-16",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8138355&GUID=58285A6A-6017-4B4F-AC66-30E58015C3CA"
+}
