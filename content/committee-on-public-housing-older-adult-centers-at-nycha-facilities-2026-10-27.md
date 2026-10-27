@@ -1,0 +1,2388 @@
+---
+committee: "Committee on Public Housing | Committee on Aging"
+committee_slug: committee-on-public-housing
+title: "Older Adult Centers at NYCHA Facilities"
+date: 2026-10-27
+slug: committee-on-public-housing-older-adult-centers-at-nycha-facilities-2026-10-27
+duration: "2hrs 49m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261027-100958.mp4"
+viebit_hash: "z7vG3DattaivobXZ"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439674&GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D&Search="
+chairs: "Chris Banks | Susan Zhuang"
+members: "Elsie Encarnación, Christopher Marte, Darlene Mealy, Chi A. Ossé, Lincoln Restler, Julie Won"
+---
+
+Summary
+
+Meeting Overview
+
+The joint Committee on Public Housing and Committee on Aging held an oversight hearing on the condition of older adult centers (OASes) operating within NYCHA facilities, alongside consideration of Int 1083-2026, which would require the Department for the Aging (DFTA) to designate at least one financial literacy advisor at each older adult center for a minimum of 20 hours per month. The hearing was chaired by CM Chris Banks (Public Housing) and CM Julie Won (standing in, initially self-identifying as CM Mealy, for the Aging committee). The administration was represented by DFTA Commissioner Dr. Lisa Scott McKenzie and NYCHA Chief Operating Officer Eva Trimble, joined later by NYCHA Deputy Chief Capital Management Officer Abigail Franklin.
+
+Two community witnesses testified before the administration panel, illustrating in concrete terms the systemic dysfunction the hearing was designed to examine. Sarah Margot of Riverstone Senior Life Services described how the RAD/PACT conversion of their Washington Heights building had turned a stable nonprofit provider relationship into an adversarial one with a for-profit developer, PACT Renaissance Corporation. The consequences included losing property liability insurance twice, being pressured to sign an unfavorable license agreement, and being told that replacement of a faulty HVAC system would require investor approval. Patricia Lynch, Older Adult Supervisor at Millennium Development (operating three NYCHA-based centers, with a fourth opening imminently), described a more generic but equally damaging picture: persistent leaks, lack of heat, no formal leases in place, and complete confusion about who is responsible for what when something breaks. Both witnesses independently identified the same core problem — accountability vanishes in the gap between NYCHA, DFTA, and (in PACT cases) private developers.
+
+The administration's testimony was largely defensive and procedural. Commissioner Scott McKenzie outlined a framework of biweekly liaison meetings, a shared repair tracker, quarterly senior leadership meetings, and 56 completed projects funded largely by $5 million in Council discretionary money. NYCHA's Trimble confirmed that 1,700 work orders had been submitted by older adult centers in the past year, with roughly 250 still open, and that three centers had been closed over the past year due to unsafe conditions. She described a basic division of responsibility: NYCHA handles building systems, providers handle internal minor repairs. In practice, this clean division frequently breaks down. The Vladimir Gardens/Latimer Gardens senior center in Flushing, serving around 700 seniors, has been closed indefinitely due to roof failure, with no funded repair plan and a projected four-year construction timeline even if funding were secured. The Harbor Center in Coney Island has been closed since Hurricane Sandy. NYCHA confirmed that older adult centers are not covered by the federal monitorship that applies to residential units, that the $20 million critical repair initiative in the FY27 budget is restricted to apartments, and that there is no capital budget line dedicated to older adult centers. Centers depend almost entirely on elected-official discretionary allocations. NYCHA also admitted that not all OASes are ADA compliant and could not say how many are non-compliant or what remediation would cost.
+
+The PACT conversion program surfaced as a major complicating factor. Under PACT, responsibility for centers passes to private developers who may or may not include center renovation in their scope, cannot use Section 8 funding to pay for community space renovation, and may sign (or not sign) license agreements with providers that NYCHA neither requires nor monitors. Council members pressed NYCHA on whether capital funds allocated to a site before conversion could be lost or redirected during the PACT transition; NYCHA confirmed this is possible and is handled case by case. The Riverstone testimony made clear that in at least one case, the PACT developer has been the direct cause of the provider's problems rather than a solution. Multiple Council members noted a structural absurdity: NYCHA is renovating apartments while leaving the senior centers in those same buildings to deteriorate, and then claiming it cannot use the renovation financing to fix the center because Section 8 funds are restricted to residential units.
+
+On Int 1083, DFTA expressed general agreement with the bill's intent but had not completed a cost or implementation analysis. Preliminary internal estimates put the cost at $2 to $3 million to staff financial literacy advisors across all sites. The Commissioner noted that existing case managers are not well suited to the financial literacy role and that new staff would likely be needed, but floated the possibility of a mobile or shared-advisor model as a cost-saving alternative. The bill remains at the review stage with no timeline committed.
+
+Numbers
+
+- 105 older adult centers are located in NYCHA facilities across the five boroughs.
+- Approximately 12,686 older adults are enrolled in programs at NYCHA-based older adult centers.
+- Nearly 150,000 older adults attended an older adult center citywide in FY 2026; approximately one third are NYCHA center attendees, implying roughly 50,000.
+- NYCHA has 77 older adult centers in its Section 9 portfolio and 28 in its PACT portfolio, totaling 105.
+- Borough breakdown of the 105 NYCHA-located older adult centers: Bronx 26, Manhattan 30, Brooklyn 35, Queens and Staten Island combined 14.
+- Borough breakdown of older adults served at NYCHA centers: Bronx 8,212 (35.5%), Brooklyn 8,314 (22.3%), Manhattan 14,540 (41.7%), Queens 6,490 (14.1%), Staten Island 2,095 (32.8%).
+- Approximately 1,700 facility work orders were submitted by older adult centers in the past year; approximately 250 remain open.
+- 88% of issues escalated by DFTA to NYCHA as requiring immediate action have been resolved.
+- Average NYCHA response time for repair tickets at older adult centers is approximately 12 days (cited elsewhere as 12.8 days).
+- 60 outstanding violations currently apply to older adult centers across two specific sites.
+- Three older adult centers have been closed in the past year due to unsafe conditions: Gleaves Avenue, Latin America Gardens, and Randall Avenue.
+- Vladimir Gardens/Latimer Gardens senior center, serving approximately 700 seniors in Flushing, is closed with no funded repair plan; roof replacement project would take approximately four years if funding were secured.
+- NYCHA estimates the capital improvement needs of older adult centers across its portfolio at approximately $900 million.
+- DFTA completed 56 projects across the older adult center portfolio, largely funded by a $5 million Council grant included in the FY 2026 budget.
+- 16 capital projects for older adult centers are currently active with a total combined budget of $57 million; 7 have been completed in the last 18 months; 6 more are in planning.
+- The FY27 adopted budget includes $20 million in FY27 toward FY34 for a critical repair initiative and $10 million over two years for mold and leak complaints; NYCHA confirmed these funds are restricted to residential apartments.
+- HUD appropriations to NYCHA were cut by approximately 14% last year.
+- Brooklyn Borough President allocated $6 million in FY 2024 for upgrades to older adult centers primarily on NYCHA campuses; NYCHA has provided no updates or timeline to the Borough President's office on these allocations.
+- DFTA's preliminary estimate for implementing Int 1083 (financial literacy advisors at all OASes) is $2 to $3 million, unconfirmed.
+- Int 1083 would require at least one financial literacy advisor per older adult center for at least 20 hours per month.
+- DFTA contracts with older adult centers are typically three years with year-by-year extension options.
+- DFTA distributed over 18,000 bags of fresh produce through food pop-up events; plans to expand from 10 to 20 pop-up locations for the upcoming holiday period.
+- Over 80 older adult centers offer on-site or virtual mental health services citywide.
+- Throgs Neck senior center has been closed for approximately six years; PACT conversion for that site is anticipated to close in late 2027, with construction to follow.
+
+Action Points
+
+- NYCHA to follow up with Council on the status of the persistent leak at LaGuardia senior center, which has reportedly been ongoing for two years.
+- NYCHA to provide a breakdown of the approximately 250 outstanding facility work orders by site and condition type.
+- NYCHA to provide Council with the number of older adult centers included in PACT conversions that received a full rehabilitation as part of the renovation scope.
+- NYCHA to confirm for Council whether any capital funds allocated by elected officials to a NYCHA site prior to PACT conversion have been lost or redirected as a result of that conversion.
+- NYCHA to provide Council with information on any disputes reported between PACT developers and older adult center providers.
+- NYCHA to provide the Borough President of Brooklyn with updates and timelines on the $6 million in FY 2024 capital allocations for NYCHA-based older adult centers, which have received no communication in two years.
+- NYCHA to assess and report to Council how many of the 105 NYCHA-located older adult centers are ADA non-compliant and provide an estimate of remediation costs.
+- NYCHA to provide Council with the list of 56 completed capital projects, with before-and-after documentation.
+- NYCHA to provide Council with the list of future capital projects currently being sought for older adult centers.
+- NYCHA to report on the number of PACT-converted developments where the senior center received a rehabilitation as part of the conversion.
+- DFTA to provide Council with a breakdown of the number of case managers at each NYCHA-located older adult center.
+- DFTA to provide Council with a breakdown of food bag distribution at NYCHA-based older adult centers versus other sites.
+- DFTA to provide Council with a breakdown by borough of how many of the 80-plus mental health service sites are in the Bronx.
+- DFTA to provide Council with the criteria used to determine funding allocations for individual older adult center contracts.
+- DFTA to provide Council with the list of mandatory services required under older adult center contracts.
+- DFTA to provide Council with an assessment checklist used during program officer site visits.
+- DFTA to provide Council with an overall environmental assessment of NYCHA-located older adult center facilities, indicating how many are in good versus poor condition.
+- DFTA to complete cost and implementation analysis for Int 1083 and continue discussions with Council, including evaluation of a mobile or shared financial literacy advisor model as an alternative to dedicated per-site staffing.
+- DFTA to follow up with CM Avilés on options for Throgs Neck seniors to access nearer alternatives to the Co-op City center during the period before PACT renovation is complete.
+- DFTA to provide Council with data on funding earmarked for William Hudson Older Adults Center.
+- NYCHA to provide a timeframe for mold inspection response at older adult centers.
+- NYCHA and DFTA to investigate and report back on the Cypress Houses remediation situation regarding potential closure risk.
+
+## Full Transcript
+
+**(00:00:06)**
+
+
+
+This hearing is called to order. Good morning and welcome to the joint Council hearings on the Committee on Public Housing, joining with the Committee on Aging. Please silence all electronic devices. At no point in time should anyone approach the dais. If you are testifying today and have a speaker's card, please remain seated.
+
+**(00:00:35)**
+
+
+
+Or see the staff at the reception table. Please ensure you begin when recognized.
+
+**(00:00:38)**
+
+
+
+Thank you. We have a tradition started this year where we show pictures from some of the situations in older adult centers. Unfortunately today we were not able to get new pictures, as a lot of senior centers were afraid to submit pictures. But that is still an ongoing issue.
+
+Good morning. I am Council Member Mealy, Chair of the New York City Council's Committee on Aging. I want to thank you all for being here today for this important oversight hearing on older adult centers and NYCHA facilities. I want to thank my co-chair, CM Banks of the Committee on Public Housing, for agreeing to hold this hearing with me.
+
+For thousands of older adults in New York City, older adult centers always provide vital services. They offer hot meals, provide a sense of community and promote physical and mental well-being. Beyond that, the dedicated staff and case workers employed at OASes assist older adults in accessing services, provide education on theft and other abuse, and ensure that adults have the knowledge they need to live safely and securely.
+
+However, OASes face a number of unique challenges when things break and when aging facilities begin to fail. Repairs can often take substantial time, and in that time OASes struggle to provide services that older adults rely on, if they are able to remain open at all. For OASes that are operating in NYCHA property, this issue is especially acute.
+
+I know NYCHA has long-standing structural challenges, which I am sure my co-chair will touch on. These issues often extend to the facilities provided by NYCHA to older adult providers. Leaking roofs, failing pipes, failing HVAC systems or even fire panels that are not maintained — all of those cause disruption and in extreme cases could even present threats to the safety of service recipients and providers.
+
+Providers have told us that when those issues arise, the process for addressing them is unclear. The division of labor between NYCHA and DFTA is murky, and they are sometimes left to deal with those issues — such as damage from a burst pipe — on their own. They have to do their own fundraising. Furthermore, OAS providers can even find themselves facing fines from agencies like DOB because of failing infrastructure, which they are often not allowed to repair on their own. This has left their facilities fundamentally unsafe, and that is a big issue.
+
+I am sure we can all agree that OASes should never have to struggle and older adults should never have to suffer because NYCHA and DFTA have not addressed critical infrastructure failures.
+
+We are here today to provide clarification and clarity for OASes located in NYCHA facilities on the process for getting those much-needed repairs, and to hear from the agencies themselves where collaboration has failed, where it is working and what improvements need to be made. The Council and the communities look forward to hearing how we can assist the agencies and clear whatever hurdles they are facing.
+
+I want to thank Commissioner Dr. Lisa Scott-McKenzie and Chief Operating Officer Eva Trimble for being here today. Before I pass the mic to my co-chair, I also want to highlight the Bill we are hearing today. Int 1083, sponsored by CM Hudson, would require the Commissioner of Aging to designate at least one financial literacy advisor to serve each OAS for at least 20 hours a month. These advisors would provide older adults with general information about financial literacy, life preparation, tax preparation and how to avoid and handle legal issues and scams, which commonly affect older adults. This is an often overlooked issue and I want to thank my colleague CM Hudson for her leadership on this issue.
+
+I also want to thank my staff, Jennifer Semenova, Jade Marsh and the committee staff: Kalakahua, Josh Newman, Julia Hamasho, Harmony, Margaret Persily and Colby Porter for their work in preparing for today's hearing. If I am mispronouncing anyone's name, please forgive me. I would also like to recognize the following Council members who have joined here today: CM Armstrong, CM Narcisse, CM Marte, CM Mealy and CM Ariola on Zoom. Now I give the floor to my co-chair, CM Banks, for his opening remarks. Thank you.
+
+**(00:07:03)**
+
+
+
+Good morning to everyone and welcome to this joint hearing. I am CM Chris Banks, Chair of the Committee on Public Housing, and I would like to again thank Chair Mealy for co-chairing this important hearing with me.
+
+Older adult centers are critically important providers for thousands of older New Yorkers, especially those residing in public housing. They provide essential social services while also serving as a regular touch point of community and otherwise contribute to improving older residents' quality of life.
+
+However, older adult centers have been forced to provide services in far less than ideal conditions within NYCHA facilities, and they are used to being consistently neglected or in disrepair. Leaking ceilings, broken elevators, pest problems, mold issues, outdated kitchens and bathrooms and more have not only affected the older adult centers but also the residents receiving their services. Often the conditions are so bad that services have to be suspended or halted altogether, leaving both providers and recipients in limbo as they wait for repairs.
+
+NYCHA unfortunately does not have a good track record when it comes to maintaining its buildings, and this extends to the facilities that are used by the older adult centers. Importantly, while NYCHA has been under federal monitorship since 2019 to improve its operations and facilitate a baseline standard, such monitoring does not extend to its commercial facilities that house community service providers like the OASes. I have received and heard countless complaints around the persistent problems that these older adult centers and older residents face because of NYCHA's lack of timely, transparent operations when it comes to repairs.
+
+Further compounding this issue is the lack of clear communication on what is NYCHA's responsibility versus what is the OAS's responsibility for facility management, leading to additional delays. It has gotten to the point where older adult centers resort to paying for repairs out of their own pocket just to resume providing their services to the community, instead of waiting on NYCHA for more months.
+
+I am aware that NYCHA is endeavoring to improve its operations, and I appreciate that we all share the same goal of providing a community benefit for NYCHA residents. But sentiment only goes so far when actions fail to deliver, especially when the population impacted is our older adults, where the effects of delays are magnified and when residents' trust is low thanks to issues surrounding the PACT conversion process. We must push for more clarity and transparency so that we can all be on the same page. This hearing is important for several reasons, not the
+
+**(00:10:48)**
+
+
+
+least of which is to get definitive clarity on how OASes can ensure more timely repairs from NYCHA and the distinction between DFTA's and NYCHA's responsibilities. I intend to find out why NYCHA continues to struggle with meeting the needs of its older residents and with issuing clear lines of communication, despite previous Council hearings on this issue and legislation creating a liaison. I am also keen on understanding what can be done now to provide more immediate relief for the issues plaguing the OASes at NYCHA, and what we can do so that moving forward the older adult centers do not have to bear the undue burden of repairs and can dedicate their focus on their original purpose, which is serving the older adult population.
+
+This hearing will also be a chance to hear how NYCHA is handling facility repairs and related communications when it comes to developments undergoing and completing PACT conversions. I look forward to hearing from NYCHA, DFTA and those present today to gather more insight on this issue. I also want to continue to work together with the older adults and the older NYCHA adult residents so that they can live lives with dignity and community instead of with confusion and hostility.
+
+I would also like to thank my staff, Mike Lambert, Cara Graham and along with the Public Housing Committee staff, Jose, Semeia, Charles Spencer and James Newfer for all the hard work that you have put into making this hearing possible. Thank you.
+
+**(00:13:01)**
+
+
+
+Thank you, my co-chair, CM Chris Banks. Now we will hear from the pre-panel of older adults, NYCHA residents and community members. The first one will be Sarah Margot. Are you there? Thank you and good morning.
+
+**(00:13:24)**
+
+
+
+Thank you for the opportunity to present testimony today. My name is Sarah Margot and I am speaking as a board member of Riverstone Senior Life Services. Some of you already know me as a staff member to Jackson for the 12 years he served as a Council member. I currently work as the Senior Manager for Advancement at Literacy and Community Link, where we provide early literacy programming for families with children from birth through five years — so kind of the opposite end of life's bell curve. Link is the backbone partner for Cities First Readers, the Council's only early literacy initiative. Full disclosure: several members of these committees support Link and that funding is deeply appreciated.
+
+Riverstone is located in Washington Heights and provides really engaging older adult-centered programming. The art classes are fabulous, the center vibrates with energy. But to tell you the truth, I think it is the pool tables that bring in more men than is usual at a senior center. There is a very effective social services department and a vital health homes program. Uniquely, Riverstone also operates the borough's only bilingual adult day program for those with dementia or other memory impairments. We would welcome a visit from any of you on these committees.
+
+Riverstone turns 40 this year and has been housed at NYCHA's senior development at 99 Fort Washington Avenue the whole time. I joined the board in 2016, but I was also involved with Riverstone through my Council staff responsibilities from 2000 to 2013, so I think I have a good background view of the organization.
+
+Under NYCHA management, we had a fairly typical nonprofit experience, including no rent since we were a mandated service to support a senior housing development. But under the RAD program, things have shifted dramatically. So our issue is slightly different than what has been described. Our written testimony submitted later today will provide a lot more detail, but I want to emphasize four things today.
+
+First, we understand that RAD is intended to benefit the residents. The nonprofit service providers are clearly an afterthought. I suspect many other older adult centers or nonprofit service providers in RAD buildings are individually encountering similar challenges as Riverstone.
+
+Item two. Our relationship with our for-profit developer, PACT Renaissance Corporation, has been contentious for many reasons. Among the issues we have faced: they have caused us to lose our property liability coverage twice. As a board member, operating without insurance is a very perilous situation. The first time we lost coverage was because water damage they caused led to claims against our policy. When you start working in a building that has not been maintained for many years, leaks are inevitable. Our coverage with a long-term vendor was dropped because of too many claims. For two years they carried us under their own policy. We paid the premium, but our deductible soared from $1,000 per incident to $25,000 per incident. They refused to continue that arrangement and we were without property liability insurance from November 2025 through February 2026. The coverage we obtained then was canceled because outmoded and illegal fire panels were found in the space. They have refused to remove them, which effectively keeps us from obtaining new coverage.
+
+Third point. After written assurances by DFTA that signing any lease was voluntary, that was administratively reversed. They are now pressuring us to sign a very unfavorable license agreement. Ironically, one stipulation in that agreement is that Riverstone is subject to eviction if we fail to maintain required insurance coverage. So sit with that for just a minute: they cause us to lose our insurance and then they can use that as justification to evict us if we sign their agreement. There are numerous other onerous conditions, such as giving a for-profit contractor the right to change the name of the organization. The license agreement template was provided by NYCHA and appears to be framed with for-profit enterprises in mind. There is a lot of language about not being able to operate a funeral parlor or a tattoo parlor or a liquor store. Our objections to the proposed provisions are numerous and they are spelled out in our written testimony.
+
+Fourth point. All of this has diverted the time, the energy and the resources of the staff and board from the normal challenges of running an older adult center and serving our community. It has been a stressful and combative experience. We are at the mercy of a very bottom-line enterprise that has clearly underbudgeted its Manhattan bundle of RAD properties and has its profit margin as its main, if not only, consideration. In fact, a representative once told us that they would need to get the approval of their investors to replace a faulty HVAC system in the memory center. Riverstone paid for the repair, but surely HVAC comes under the heading of building systems and should be their responsibility.
+
+I am grateful for the opportunity to speak today and I would be very happy to answer any questions you have about our experiences. I would also be very happy for our organization to be involved in formulating whatever next steps take place. Thank you so much.
+
+**(00:20:50)**
+
+
+
+Thank you. Next we have Patricia Lynch. Hey, how are you?
+
+**(00:21:01)**
+
+
+
+Good morning, CM Mealy and members of the Committee on Aging, New York City, Commissioner Dr. Scott-McKenzie and distinguished members of the New York City Council. My name is Patricia Lynch and I am the Older Adult Supervisor at Millennium Development. We currently operate three older adult centers within NYCHA facilities, with a fourth opening next month. I want to sincerely thank CM Chris Banks and New York City Aging for supporting our programs and more importantly for truly caring about the older adults we serve. Your continued
+
+**(00:21:33)**
+
+
+
+support and understanding of how important these centers are to the community does not go unnoticed, and I am grateful for the opportunity to speak today.
+
+When I think about our older adult centers, I think about the people who walk through our doors every day. People who have worked their entire lives, raised families, contributed to their communities and now deserve a place where they can simply enjoy the later years of their lives. Many of our older adults find the center is more than somewhere to go during the day. It is where they see their friends, share a meal, laugh, engage in activities and feel like they belong. For some, it may be the only part of the day where they get to have a conversation with anyone or feel part of something.
+
+**(00:22:09)**
+
+
+
+And that is why these centers mean so much to us. We work hard to make our centers feel like a second home. But how can we truly provide that feeling when we are constantly dealing with building issues that seem to have no clear resolution? I want to be clear that the issues raised today are not the only challenges we face, but they are concerns about the most overall lack of communication, accountability and responsibility when problems arise. Something as simple as a leak becomes an ongoing issue. Every time it rains, we should not have to worry about water coming into the center where older adults are supposed to feel safe and comfortable. We should not have to close sections of the center because there is no heat, leaving us to figure out how to continue programming while keeping our participants warm and comfortable. These are not luxuries we are asking for. We are talking about basic conditions that every older adult deserves.
+
+What makes the situation even more frustrating is that when we reach out for help, it often feels like no one wants to take ownership of the problem. We make phone calls and want answers. Sometimes we are sent from one person to another, and before we know it so much time has passed and the original problem is still there. Even something as basic as putting in a repair ticket can be difficult. We understand that the buildings are older and repairs take time. We understand that there is a process that must be followed, but there needs to be more communication, there needs to be more follow-through, and most importantly, there needs to be someone who takes responsibility for seeing an issue through to the end.
+
+I also want to speak about the rebidding process and the challenges that come with these transitions. I understand that there are budget constraints and responsibilities involved in managing a program, but it sometimes feels like it is overlooked in terms of the dollar amount instead of looking at the actual people who are being affected.
+
+**(00:23:51)**
+
+
+
+When an older adult walks into the center, they should not have to worry about whether the ceiling is going to be leaking when it rains or whether the room they are enjoying activities in will be closed because there is no heat.
+
+**(00:24:02)**
+
+
+
+They do not see the contracts, the budget or the agency or the management company that is responsible. They only know that the place they look forward to coming to every day is not what it should be. And that is what we need everyone involved to remember. Behind every repair ticket is a person. Behind every unresolved building issue are older adults who deserve better.
+
+Whether their building is managed by NYCHA or through the rebidding process, there should never be confusion about who is responsible for addressing these conditions. The responsibility should not be passed around while our older adults continue to wait. Another challenging issue is that none of the current locations have a place to assemble, and many of our older adult centers operating in NYCHA do not have formal leases or lease agreements in place. These issues may sound like paperwork problems to some, but they affect our ability to make improvements in our centers.
+
+Without proper agreements, capital projects can be delayed or cannot move forward, and leases are often written up by New York City with easing in mind, and once again our older adults are the ones who lose out. We see what our centers could be. We see the improvements that could be made. We see the potential to create a brighter future for our participants, but too often we find ourselves spending more time trying to navigate the system and get answers than actually moving forward with these improvements.
+
+We strive to focus our energy on the people we serve. We want to create programs that make them happy, keep them active, support their independence and give them somewhere to look forward to coming to. We should not have to spend so much time trying to fight basic building issues. We need to be able to address these issues and concentrate on the people we serve. Problems should be able to be resolved. We are not here to point fingers or say that everything is wrong. I know there are people within these agencies and management organizations who care and really want to help.
+
+We are asking for better communication, clear responsibility and a genuine commitment to working together. When there is a leak, someone needs to own that issue until it is resolved. When there is no heat, there should be some urgency. When paperwork is preventing a capital project from moving forward, there needs to be a plan to get it done. We cannot continue to allow our older adults to be caught in the middle of systems that are not communicating with one another.
+
+Our older adults have already given so much to their families and communities. They should be able to come to their centers, sit with their friends, enjoy a meal, participate in an activity and feel comfortable without worrying about the condition of the building they are in. They deserve that peace of mind. We also talk about aging in place, helping our older adults remain independent and improving their quality of life. We also need to make sure that the places they depend on are being cared for. At the end of the day, our older adults deserve the best. They have earned the right to expect it. Thank you for listening and giving me the opportunity to speak today.
+
+**(00:26:46)**
+
+
+
+Thank you. Well, we just joined by CM Brewer. We will now hear from the administration. Oh, I forgot. We will now hear testimony from the administration. We will now turn it to the Council, Amita Kalakaua, to administer the oath to the representative of the administration.
+
+**(00:27:40)**
+
+
+
+Thank you. Good morning. Chair Louis, Chair Banks and members of the New York City Council Committee on Aging and Committee on Public Housing. I am Dr. Lisa Scott McKenzie, Commissioner of the New York City Department for the Aging. I appreciate the opportunity to testify before you today about older adult centers in New York City Housing Authority facilities and to speak on Int 1083-2026.
+
+Throughout the New York City Aging portfolio of programs, there are 105 older adult centers primarily serving NYCHA residents across the five boroughs. These represent a range of center types, including some of our largest and smallest centers. As we have discussed in past hearings, older adult centers are a critical component of the many services and programs offered to older New Yorkers. In addition to the important work of providing more than meals at all centers in partnership with the Council, older adults also need to be connected to other critical programs which address their needs. These include workforce programs, mental health services and elder justice and elder abuse services.
+
+**(00:28:47)**
+
+
+
+Nearly 150,000 older adults attended an aging center throughout New York City in FY 2026. Around one third of those are NYCHA center attendees. Because of that fact, we are constantly working to ensure that the services in these centers are efficient and meet the needs of older NYCHA residents. As with NYCHA facilities themselves, we understand the unique challenges of repairs and maintenance in these buildings and work with our partners at NYCHA to address complaints when they are filed and rectify any pressing concerns when they arise.
+
+I just wanted to briefly mention the photos, and thank you. I know it has become part of the tradition, but I would really like to believe that there are fewer new photos because older issues are being resolved. I am joined today by Eva Tremble, NYCHA Chief Operating Officer, who we work with closely at New York City Aging to address repair and facility needs at the many older adult centers within NYCHA complexes. Aging's Bureau of Community Services oversees the 300-plus older adult center programs in the five boroughs and they work closely with NYCHA and their team to ensure that functional problems or repairs are addressed quickly. That working relationship is how we ensure that we deliver the best services for older New Yorkers possible.
+
+Additionally, NYCHA has been part of the Cabinet for Older New Yorkers since the inaugural meeting in September 2022 and their partnership has led to a number of improvements in programming at these spaces, such as intergenerational initiatives and public safety and transportation-related enhancements. Like many partner agencies in government, Aging works every day to better serve New Yorkers over 60 and is always looking for ways beyond serving meals and programming at centers.
+
+Aging has managed older adult centers located at NYCHA since the founding of our agency and the establishment of centers through the Older Americans Act. As you know, the nation's first, William Hudson Older Adults Center in the Bronx, is located at Daniel Webster Houses and serves the older adult population in that complex as well as the surrounding community.
+
+While Aging has always had some NYCHA sites, newly added older adult centers came from NYCHA to Aging in two distinct phases. First, during the Bloomberg administration, Aging took on a number of centers which NYCHA was no longer able to run independently and folded those into our current network based on a range of factors including size, space and capacity as well as budgetary needs for our agency. Then in 2018 through 2019, Aging assumed oversight over all remaining older adult centers still managed by NYCHA. A similar situation occurred with other NYCHA social programs when the Department of Youth and Community Development took on new programs as well.
+
+It is noteworthy that during these transitions from NYCHA to Aging, not one center was closed. In order to provide older adults at these centers a safe experience, we have a formal system in place with our partners at NYCHA to report and address issues or complaints when they arise. First, the center itself should report an issue to NYCHA by calling the Customer Contact Center. NYCHA-located older adult centers maintain the relationship with property managers for facility repairs like any other center would with any other landlord. For center issues reported to NYCHA, NYCHA issues a ticket number to the individual who reported the problem and the issue is addressed by property management or by a NYCHA vendor, based on complexity.
+
+Major issues such as roof and ceiling leaks or flooded spaces will still receive a ticket number but will be triaged differently based on the severity and impact to the space or older adults themselves. In all cases, Aging prioritizes service continuity and safety and we do everything we can to ensure that centers remain open. To better monitor these repairs and determine which need to be escalated, Aging's NYCHA liaison, Agnes Mack, who is a Senior Director of Community Services, regularly reviews reports of open tickets and needs at individual centers. Our goal is to create open communication and open dialogue between our agencies to ensure that repairs do not languish and needs are addressed quickly.
+
+During repairs, if a center must be closed for whatever reason, older adults at those locations will clearly know that they have other options for meals and programming at nearby centers or any other alternatives that best meet their needs. When a repair ticket remains open, a second inquiry is made or a visit to the property manager takes place to escalate the complaint. Aging is then notified of a repeat issue and has the option to raise the issue to the NYCHA Private Partnerships team, where we regularly address issues with NYCHA facilities staff and work toward a quick resolution for that center.
+
+Because we are in NYCHA space, while Aging wishes to fix an issue ourselves, we are not always able to do so and must rely on NYCHA to escalate the matter further. In order to remedy the situation, we do much of that escalation through the NYCHA liaison at Aging, who manages the process for meeting with NYCHA and ensuring that we appropriately escalate matters in order to avoid center closures or alterations to programming. It is imperative that we monitor and respond quickly to repair issues so that there is no disruption to services for older adults.
+
+Ultimately, this is really about the working relationship between NYCHA and Aging. The size of the portfolio within NYCHA spaces is too large to ignore the great need that older New Yorkers have in these spaces and experience on a daily basis. It is incumbent upon us to ensure that we maintain a productive working relationship between Aging and NYCHA.
+
+We are happy to report that Aging has completed 56 projects across the older adult center portfolio and many of those were made possible because of the $5 million Council grant that has been included in the FY 2026 budget. We also completed collaborations with NYCHA spaces for a kitchen renovation at Bronx River older adult center and a roof replacement at Samuel Tilden. These improvements are impactful for older adults and we are grateful for our partnership with NYCHA as we address these concerns.
+
+As I know the Council is aware, overarching throughout the discussion today is the need for federal investment in NYCHA facilities. New York's older adult population continues to grow and as I have said before in today's testimony, roughly one third of our overall portfolio is located in NYCHA facilities. Because of that need, NYCHA and Aging teams have committed to meeting quarterly to address persistent and acute issues affecting this portfolio.
+
+Additionally, NYCHA pursued the Rental Assistance Demonstration program through their Permanent Affordability Commitment Together program, PACT. Aging has needed to work more closely with NYCHA as the relationship with our centers has evolved or changed with these programs. When a NYCHA development converts through their program, older adult centers always remain in those locations with licensing agreements between them and the new landlord once NYCHA relinquishes control of the site. This agreement also outlines the space needs for that location and the interaction between the provider and landlord. As the PACT program continues to develop, NYCHA changes and approaches these transitions on a site-by-site basis.
+
+Additionally, we take seriously NYCHA's relationship with the Resident Association presidents at NYCHA and their commitment to their developments and the community of residents who utilize common areas and shared spaces.
+
+**(00:37:29)**
+
+
+
+Like older adult centers, Aging's older adult centers are required to maintain advisory councils of older adult participants who host regular meetings and hear complaints regarding how these centers are run and managed. We recognize that there can be some inevitable overlap between the Resident Councils and the advisory councils serving older adults at those locations. That is why we recently convened the first ever meeting of NYCHA Resident Association presidents at Aging to begin working through these long-standing issues. We plan to continue these meetings to ensure an open line of communication with our partners, who we value as fundamental to successfully running centers in NYCHA spaces.
+
+Additionally, I am here to speak on Int 1083-2026, sponsored by CM Crystal Hudson, regarding the designation of financial literacy advisors to serve in older adult centers. This Bill would require the Commissioner of Aging to designate at least one financial literacy advisor to serve in each older adult center for at least 20 hours a month. We agree with the shared intent to improve the personal and financial livelihood of older adults. That is fundamental to our work. As with any programmatic change, we are reviewing for any concerns with our agency partners which may have an impact on our providers. We look forward to ongoing discussions regarding how we can best support older adults in managing their financial and legal well-being.
+
+At New York City Aging, we are pleased to provide services to the nearly 150,000 older adults served in FY 2026 through our older adult centers, including those within NYCHA developments. We look forward to continuing these efforts to address the needs of a growing population in New York City. Aging and NYCHA have a very strong relationship and we look forward to continuing to further strengthen that relationship for the benefit of older NYCHA residents through our work in the Cabinet for Older New Yorkers and our daily interactions on facility needs and improvements to the overall network of older adult services.
+
+I am grateful to Chair Louis and Chair Banks of the Aging and Public Housing Committees for your advocacy and continued partnership to support all older New Yorkers. I would now like to turn things over to NYCHA Chief Operating Officer Tremble, who will speak further on NYCHA's relationship with older adult centers at their developments. Thank you.
+
+**(00:39:58)**
+
+
+
+Thank you. Chairs Banks and Strong, members of the Committee on Public Housing and Committee on Aging, and other distinguished members of the City Council, NYCHA residents, community advocates and members of the public. Good morning. I am Eva Trimble, Chief Operating Officer. Thank you to Commissioner Scott McKenzie for your testimony and partnership, and thank you to the Council for this opportunity to discuss older adult centers at NYCHA developments across the City.
+
+NYCHA's campuses are home to 77 older adult centers, and there are an additional 28 centers at PACT developments. These sites offer a range of recreational, health and cultural programs that enhance the lives of NYCHA residents and other seniors in the community.
+
+On any given day, seniors benefit from meals, exercise classes, discussion groups, counseling, social services, technology classes, blood pressure screenings and much more. Our belief is that the power of partnership drives our efforts to transform our organization and how we deliver services to residents. It also drove NYCHA's decision years ago to transfer the operation of most of our older adult centers to Aging and other partners who provide programming. NYCHA and the service providers share responsibility for maintaining the centers. As the landlord, NYCHA is generally responsible for repairing building systems, coordinating with the service provider to complete those repairs, and the provider is generally responsible for all interior maintenance and repairs.
+
+The PACT program is one of our critical tools for NYCHA to drive comprehensive modernization and renovations to community centers. In addition to renovating apartments, removing lead and mold, and completing other comprehensive building improvements, all while keeping the buildings and land publicly owned and maintaining key resident rights. Last week we joined the Mayor and the Eden Walled Houses Resident Association and PACT partners to celebrate the reopening of the Eden Walled Senior Center after being inoperable for 25 years.
+
+Aging is just one of our many critical partners. NYCHA participates in the Cabinet for Older New Yorkers, which convenes nearly 30 New York City agencies to help address the needs of aging adults. We also connect NYCHA's seniors to services right where they live. The HUD-funded Elderly Safe at Home program, for instance, offers on-site support at NYCHA developments, supporting older adults through home visits, connections to services, workshops and help from floor captains — residents who volunteer to support their neighbors.
+
+At NYCHA, we support older adults as they age in place with grace and dignity in a variety of ways, from older adult center programming provided by our partners to the dedicated services at our senior-only buildings. New affordable housing for seniors is also developed on our campuses. We are very proud of this work and we are always eager to do more in service to the community, especially in partnership with stakeholders like Aging and the City Council. Thank you for your support and for this opportunity to dialogue with you on this important topic. I am happy to answer any questions that you
+
+**(00:43:12)**
+
+
+
+have. Thank you. Thank you for your testimony and we do have questions. I am also joined by CM Restler and CM Hudson, and I am going to ask some questions, then give the floor to you, so there
+
+**(00:43:36)**
+
+
+
+... aside from location, is there any information about NYCHA located... So from the testimony I see there are 105 NYCHA older adult centers located in NYCHA buildings. How many seniors... We actually, sir, from that 105... there are... sorry, there are 12,686 older adults across all programs, including our own participants.
+
+**(00:44:22)**
+
+
+
+12,686. Okay. What challenges have facilities reported that are unique to those sites?
+
+**(00:44:37)**
+
+
+
+I would not say the issues are unique when it comes to repair and maintenance, because we know throughout New York City there are many buildings that are very old and have extensive maintenance and repair needs. But I would say that, as many of you know, I have embarked on a tour of all of our sites and I have visited quite a few of our own older adult centers located in NYCHA facilities. I would say there are many things that we have considered to be just "do it" items — smaller, minor repairs that can be effectuated pretty quickly, but that also add significantly to the quality of life that our older adults experience. We have been able to complete 88% of those, and that is through the framework that we have developed with NYCHA, where we are sitting quarterly with NYCHA leadership, including the leadership that is represented here today from NYCHA and from Aging, where we are able to discuss the escalation of some of the tickets that we consider to be critical.
+
+**(00:45:40)**
+
+
+
+If there is a leak at a senior center or an older adult center in a NYCHA building, what is the process?
+
+**(00:45:48)**
+
+
+
+Thank you, Council Member. So when a provider has a condition at their site, their first step is to put in a work ticket through our customer contact center, and then NYCHA will send out a maintenance worker to assess the condition. As I mentioned in my testimony, external conditions such as the facade, roof and major building systems are typically the
+
+**(00:46:12)**
+
+
+
+responsibility of NYCHA. If the leak is caused by a roof issue or a major pipe issue — a leak from above, which is very common in our buildings — then it will be NYCHA's responsibility. If it is a leak underneath the sink or something within the center, then it is the provider's responsibility to fix it.
+
+**(00:46:32)**
+
+
+
+So if the maintenance worker comes out and determines it is something that NYCHA will fix, we will typically sequence it to our skilled trades and start working on the repair. Are you familiar with LaGuardia and... about a senior center? I am familiar with those centers, but not any specific conditions there.
+
+**(00:46:50)**
+
+
+
+I heard they have leaking on the second floor, the pipe is leaking. They have not been able to fix it for years, and if there is anyone on the second floor they have to put a bucket there. I just do not know what the process is and what the status is at that location. Sure, we can certainly follow up on that. That is at LaGuardia and... the same condition. Yeah, sure, we can follow up on that.
+
+**(00:47:18)**
+
+
+
+This is what we commonly hear — not only just from them, but this has come up. They were there in previous
+
+**(00:47:26)**
+
+
+
+testimony. I also want to share that, as Commissioner Scott McKenzie mentioned, our staff meets every two weeks to review repair requests, and so we will check whether that is on our list. If it has not been escalated, we will go and take a look and see what those conditions
+
+**(00:47:43)**
+
+
+
+are. I hope I can hear from you very soon about these two locations' leaking issue. Can you describe the process for opening and operating a center
+
+**(00:47:56)**
+
+
+
+located in a NYCHA property? Who will make the proposal and how does NYCHA look at that process? What is the timeline from proposal to opening? I am sorry, Council Member, are you referencing a new center opening? A new center. Yes. Any center — like if you open a center, who do you propose to?
+
+**(00:48:23)**
+
+
+
+Well, all of our centers are contracted, and that is usually in response to an RFP process. As you know, if we have older adult center sites where we deem there to be the need for a new site, we would have to follow that same contracting process, so I am assuming then that it would be like
+
+**(00:48:53)**
+
+
+
+... and as the older adult population in New York City grows significantly, is there any plan for expanding the number of older adult centers within NYCHA facilities?
+
+**(00:49:05)**
+
+
+
+Well, we have looked at where our older adults are now residing. Obviously there has been a lot of change, and Aging did provide heat maps to our Council partners to advise them of where we have seen some of the migration of older adults. So obviously with this new process we will be able to look at where the needs are, who is interested in serving the increased population in those areas, and there could potentially be new centers at NYCHA facilities, but we do not know that yet.
+
+**(00:49:44)**
+
+
+
+What is the metric or evaluation process in place to assess the impact on the overall well-being of older adults in NYCHA housing?
+
+**(00:49:59)**
+
+
+
+I am sorry, can you repeat the question?
+
+**(00:50:01)**
+
+
+
+What metric or evaluation process is in place to assess the impact of older adult centers on the overall well-being of older adults in NYCHA housing?
+
+**(00:50:19)**
+
+
+
+The well-being of older adults — we have Aging, and obviously there are several metrics that we use to look at the health and well-being of our participants in our programs. Obviously they are listed in the Mayor's Management Report. We have several other reports in which we report our statistics on the services and programs that we provide, and whether there is a wait list, or case management, caregiver services. There are so many services. I am not sure if there is anything specific you are looking for.
+
+**(00:50:57)**
+
+
+
+In the services you are providing in those locations, in the older adult centers. Yes, many,
+
+**(00:51:02)**
+
+
+
+many, many services.
+
+**(00:51:04)**
+
+
+
+Are there surveys? There are
+
+**(00:51:07)**
+
+
+
+some surveys that we do conduct, and again I am trying to get at the root of this specificity because there are a variety of programs, so I do not know if there is anything specific that you are looking for. But we would be willing to share obviously what we have seen. I will talk a little bit about what we have done recently with the surveys around food, because obviously we have had a lot of feedback from older adults about some of the meals and some of them are not as pleased right now with the plant-based meals and so on. So we have been talking with them across the City. In fact, we have conducted food town halls in every borough so far except Brooklyn — Brooklyn is tomorrow. We have received some really robust feedback. As we know, older adults are very vocal and they are not shy, so they shared their thoughts about our new recipes that we are proposing, because at each one of these food town halls we have also provided taste tests and samples for older adults to try, and we have had some real-time surveys right at the site. So we have been able to share with the older adults what they have said about some of these meals.
+
+**(00:52:18)**
+
+
+
+We like to — and I think many of you know I have a very collaborative stance when it comes to our older New Yorkers — we like to get their feedback and to be able to provide them with services that not only meet but hopefully exceed their expectations. So those are the types of surveys that Aging conducts.
+
+**(00:52:36)**
+
+
+
+Are there any staff shortages or challenges retaining qualified staff who work at the centers based in NYCHA facilities, compared to other older adult centers?
+
+**(00:52:51)**
+
+
+
+We have not heard any specifics about staff at older adult centers that are in NYCHA not wanting to work there. I have been pleasantly surprised by the commitment that I see across all of our older adult centers — people that are passionate about the work of protecting older adults. So I have not heard any specific complaints.
+
+**(00:53:13)**
+
+
+
+Okay. How many case managers are present at all older adult centers located in NYCHA facilities?
+
+**(00:53:22)**
+
+
+
+I will have to get back to you on the number of case managers, but we do have adequate staffing at most of them. I have heard of maybe one or two where they are right now recruiting additional case managers. So we will have to provide you more information.
+
+**(00:53:37)**
+
+
+
+Okay. Do case managers at NYCHA older adult centers receive special or tailored training to prepare them for the unique experience of older adults in NYCHA housing?
+
+**(00:53:51)**
+
+
+
+Well, all of our case managers receive customized training based on the site that they will be assigned to and the population that they will be serving, so that would extend to folks that are in NYCHA
+
+**(00:54:05)**
+
+
+
+facilities as well. What is the difference between a case manager working at a NYCHA facility and a case manager not working in a NYCHA facility?
+
+**(00:54:16)**
+
+
+
+Well, we do not base the training on the facility. We base it on the population served and what would be the unique needs of the older adults in that particular area.
+
+**(00:54:29)**
+
+
+
+Okay. What is the administration's long-term vision for NYCHA properties and how do they align with broader efforts to support the aging population?
+
+**(00:54:42)**
+
+
+
+Well, I know that there is a very strong commitment from the administration to support older adults, to make sure that they are living their best possible life here in New York City and to provide the support necessary for them to be able to thrive and live with dignity and respect. So that is what we expect at each one of the older adult centers that we are operating — that older adults find them welcoming places where they can come and really enjoy the services there in a safe, functional environment.
+
+**(00:55:11)**
+
+
+
+Do you have any particular plans for next year where you are going to do more food pantry or caseworker services in those facilities? I feel your answer is very general. Can we have a more detailed vision? Well, I
+
+**(00:55:29)**
+
+
+
+think I have been very clear about the vision for Aging. I know that many of you are
+
+**(00:55:34)**
+
+
+
+aware of the food pop-up produce events that we held, which is in response basically to the fact that many of our older adults had issues with their SNAP benefits, and also that we received less than half of the farmers market vouchers that we normally receive. So that is how we responded, and we were able to distribute over 18,000 bags of fresh produce. We are planning again now to do this for the holiday period, because we recognize that this is another time of strain for older adults when they want to be sharing family meals and have others over. So from mid through the first two weeks of... we are going to do this again. During the last round we had 10 pop-up locations. This time we are going to go for 20 pop-up locations to make more locations available for older adults. So of course, making sure that we address those core elements in our revised mission, which is that we are combating food insecurity, we are also providing access to affordable housing wherever we can, addressing health care and making sure that there is access to quality health care, and ensuring that our older adults are safe.
+
+**(00:56:47)**
+
+
+
+Do you have data on how many food bags you provide at senior older adult centers versus the others?
+
+**(00:56:59)**
+
+
+
+We can break that out for you. I did not break it out for this meeting, but we can break that out. Obviously, because someone lives in NYCHA does not mean that they have to pick up a food bag at NYCHA. They can go wherever they want. So as long as they are 60 or older, regardless of income, immigration status or residency, they can go to any one of those sites and receive the same treatment as anyone else.
+
+**(00:57:24)**
+
+
+
+Okay, thank you. And then let me turn the floor over. Thanks. Thank you. Thank you, Chair. And again, thank you for your testimony.
+
+**(00:57:40)**
+
+
+
+Specifically on the older adult center infrastructure complaints and agency responsibilities — obviously your responses are appreciated. To be concise with your response: are any older adult centers on NYCHA property considered common areas or commercial spaces?
+
+**(00:58:03)**
+
+
+
+No, they are not considered commercial spaces. They are community spaces, they are community facilities. So there is no
+
+**(00:58:22)**
+
+
+
+agreement between them in that sense. So if it is a co-located center — like, you know, now you have centers where on one side you have the older adult center and on the other side there is another use — is there any framework or agreement internally between the two agencies or entities occupying the community center? We can double-check any specific sites that have co-locations, but in general we have some license agreements in place for older adult centers. For the most part we do not have any leases. Why? So it is very much on a case-by-case basis, depending on the conditions of the site that might have warranted a license agreement at some point. Those license agreements are with the actual... we have just a handful of them. Yes. Okay. What is the specific status of the older adult centers and the providers, and how does this affect the way NYCHA works with them at their property?
+
+**(00:59:34)**
+
+
+
+So as we have been explaining, we work very closely in coordination with Aging as well as the providers to coordinate any type of repair issues or certain programming issues. Our staff meet regularly with Aging and with the providers, who are contracted by Aging, so there are multiple ways that information is
+
+**(00:59:59)**
+
+
+
+shared. Has there been any scenario or situation where NYCHA or DFTA had to mediate a relationship or any controversy that has come up between the youth provider and the aging provider or the older adult providers?
+
+**(01:00:21)**
+
+
+
+I am not aware of any instances. I would say that as a sibling agency we have very good collaboration. So if there is an issue where we need to be able to talk to one another, that line of communication is very open and we would be able to work
+
+**(01:00:39)**
+
+
+
+it out. And specifically on responsibilities — well, it depends on the site. As was mentioned a moment ago, there is a handful of sites that do have different agreements. But when it comes to responsibility for any issues that occur inside the site, our providers are very clear that it is their responsibility for minor repairs within the site. Okay,
+
+**(01:01:05)**
+
+
+
+so then how many facility-related complaints were filed by older adult centers in NYCHA buildings over the past year, and how many of these complaints were resolved by DFTA or by NYCHA?
+
+**(01:01:21)**
+
+
+
+Thank you, Councilmember. Over the past year we have had approximately 1,700 work orders submitted by older adult centers. Almost all of those were closed and completed. By now we have about 250 that are still open. Some of those that are still open are still in the process of determining responsibility between NYCHA and the provider, right, of their commitment that with the funding they received from the Council last year. But even that is transferred to their providers, so it is really about meeting with the provider and determining whose responsibility it is to make repairs.
+
+**(01:01:55)**
+
+
+
+And of the 1,700 tickets that were put in, or repair tickets, is it differentiated between what is on the Department for the Aging side, the older adults center side, and all center sides, or is it just for that particular center? When it comes to that, do you want to answer? Yeah, I am not that familiar with how many sites we have that actually have those co-located locations, so the...
+
+**(01:02:27)**
+
+
+
+...numbers. If we can get that number...
+
+**(01:02:29)**
+
+
+
+Because we can definitely follow up. The number I am quoting, the 1,700, is specifically from older adult centers. So this is specific. OK? Yes.
+
+**(01:02:39)**
+
+
+
+So that is 1,700, just on the older adult center side. How many of the outstanding complaints on that... well, you gave that already?
+
+**(01:02:47)**
+
+
+
+Do we have a breakdown of the facilities with outstanding 250 tickets? We can send that to...
+
+**(01:02:59)**
+
+
+
+...DFTA to evaluate the infrastructure concerns. Are you coordinating with NYCHA on these issues and what does that coordination look like?
+
+**(01:03:11)**
+
+
+
+I can start if you want. So, as I said, we meet regularly to go through open repair requests. Our staff meet every two weeks. We have a shared tracker that we are using to follow up on certain repair requests. As I said, most of the repairs coming through our system — we will send a maintenance worker to assess, and we will determine whether we think it is our responsibility or the provider's. If it goes back to the provider, they meet, they reach out to Aging for help or escalation, that comes back to us and we can take another look. But for the most part, if it is anything that is a major system improvement or something from the building envelope — like I said, the roof or the facade or major piping — NYCHA will take care of that.
+
+**(01:03:55)**
+
+
+
+Okay. And can you please describe the process staff must go through to report a maintenance issue in a NYCHA facility?
+
+**(01:04:06)**
+
+
+
+They call the CCC, which will send out a maintenance worker who will assess the condition and determine the next steps.
+
+**(01:04:16)**
+
+
+
+We were also told by Council that NYCHA has stated that the use of a report, repairs duty, and escalation to the neighborhood administrator is required when a ticket stays open past the scheduled date. What is the timeframe for maintenance and repair requests at these centers and how would they be prioritized?
+
+**(01:04:45)**
+
+
+
+Thank you, Councilmember. Our average response time is about 12 days and they face similar prioritization as our residential units. So leaks from above, any type of flooding conditions, are always among the highest priority. Anything that is a life, health or safety condition. Things that are lower priority tend to be things like door hinges or, you know, something that is just...
+
+**(01:05:08)**
+
+
+
+...not life, health or safety related. And we were also told by Council that the Aging zones handle the complaints. Can you please describe the role of the public housing liaison in this process? Who is the public housing liaison, how many staff support this liaison, what office does the liaison sit in, and how...
+
+**(01:05:47)**
+
+
+
+...often? Well, on the DFTA side, we have a senior director assigned to the role of liaison for NYCHA and there are approximately two or three people that support that role, along with the senior director. That senior director is now also joined by many members of leadership at DFTA because we do have those two meetings now — one that is a senior leader meeting, along with the senior leadership at NYCHA...
+
+**(01:06:15)**
+
+
+
+...and then a secondary meeting that takes place every two weeks with the liaison between NYCHA and our senior director. What determines whether a NYCHA facility-related complaint is logged into the older adult metrics we pull, as required by Local Law 140 of 2018? I am sorry...
+
+**(01:06:41)**
+
+
+
+...would you repeat that question?
+
+**(01:06:44)**
+
+
+
+What determines whether a NYCHA facility-related complaint is logged into the older adult metrics report, as required by Local Law 140 of 2018?
+
+**(01:06:56)**
+
+
+
+Well, for us at DFTA, it would be any safety concerns, anything that is going to affect operations, that would be reported.
+
+**(01:07:06)**
+
+
+
+Are there any outstanding complaints logged, or any unresolved complaints or issues that you have? Well, there are 88% of...
+
+**(01:07:14)**
+
+
+
+...the complaints that we received that we consider to be just due, issues that need to be addressed immediately, have been resolved. Of those, there are some of the issues that were mentioned earlier. There are some outstanding tickets that are still open and we are working together to get those resolved as soon as possible. Great. Thank you.
+
+**(01:07:34)**
+
+
+
+Staff have reported that they sometimes can spend hours navigating facility requests and are often unsure of which agency is responsible for handling a particular facility issue. Other staff have reported that DFTA and NYCHA engage in finger-pointing, seeking to assign responsibility for repair requests to other agencies. Please explain to us which facility infrastructure and repair requests are handled by which agency and how the agencies work together to determine where responsibility lies...
+
+**(01:08:19)**
+
+
+
+...for each issue. Thank you, Councilmember. I am definitely troubled to hear that you are hearing that from providers. I can say that our relationship with Aging has never been stronger. Our staff meet every two weeks to review a shared tracker of repair requests. We have both been making site visits and there has never been better communication. So we work hard to make sure providers know where to go to find answers, to make sure that those repairs are logged. As you know, with our residential repairs, sometimes it can take a while to complete the repair, but there should be no question as to whose court the ball is in.
+
+So can you give us a general sense — NYCHA does work that is related to the building systems and providers are responsible for all work inside the center? And we do provide additional support for the providers as well. I meet with them on a monthly basis, in addition to our tours where we are out at the site with our providers asking questions about the maintenance or any issues that we pick up while we are there. So from what I have heard thus far from our providers, they are very pleased with having these very open, collaborative talks and they know they can lean on us if they do need additional support. I think we have an excellent framework together with NYCHA now to be able to address anything that is considered a concern, so I am surprised to hear it.
+
+**(01:09:51)**
+
+
+
+Well, what requests are handled by DFTA? I just want some clarity on that because I did not...
+
+**(01:09:57)**
+
+
+
+...get that.
+
+**(01:09:57)**
+
+
+
+Anything that would be considered a minor repair. We do not handle anything that is a capital need. We do not handle anything that has to do with the building. Can you give me an example? Can you give an example?
+
+**(01:10:11)**
+
+
+
+A broken door knob, broken door handle. Okay?
+
+**(01:10:13)**
+
+
+
+You know, something like that.
+
+**(01:10:15)**
+
+
+
+Or something, maybe a wall that someone wants to have painted. Very...
+
+**(01:10:22)**
+
+
+
+...very minor repairs. And building systems would be NYCHA.
+
+**(01:10:27)**
+
+
+
+Absolutely, absolutely.
+
+**(01:10:28)**
+
+
+
+A hole in the ceiling, it would be...
+
+**(01:10:29)**
+
+
+
+...more than likely, depending on what the hole is due to. You know, sometimes there are some minor cases. If it is one ceiling tile we might prefer to do something like that ourselves. If it is an entire ceiling, you know, obviously that would be NYCHA.
+
+**(01:10:42)**
+
+
+
+Tiles on the floor, NYCHA would handle that?
+
+**(01:10:44)**
+
+
+
+It depends on the amount and also what it contains. Many floor and ceiling tiles could be asbestos. If it is asbestos, obviously we do not want to touch it. That would be something larger that NYCHA would handle. I should also mention, you know, I spent several years in property management myself, so some of these things — as I am walking through these sites, I can tell if it is something that we can handle or if it is something that we cannot handle, and then we know to call in NYCHA to give us that assistance and support. Okay.
+
+**(01:11:12)**
+
+
+
+And what about bathrooms?
+
+**(01:11:15)**
+
+
+
+It depends. If it is a toilet that is leaking, something that might be a systemic plumbing repair, that would go to NYCHA. If it is just replacing the bulb inside the bowl, we might decide to take on something like that. It is very small — you could go to Home Depot and fix that within half an hour. Something like that we would handle. Something larger would go to NYCHA.
+
+**(01:11:37)**
+
+
+
+So are you aware of the leak issue that has been taking place for two years at LaGuardia?
+
+**(01:11:45)**
+
+
+
+We have to go back and take a look at what tickets are still outstanding, but I can tell you I have personally been to Dyckman recently and there was no evidence of a leak there while I was there. So again, we need...
+
+**(01:11:55)**
+
+
+
+...to take a look at some of the issues and perhaps you are hearing of something that happened in the past that might have been resolved, so we need to confirm that for you. So you are saying that the leaking issue at LaGuardia has been taken care of?
+
+**(01:12:10)**
+
+
+
+I did not mention LaGuardia at all. I said that was my...
+
+**(01:12:13)**
+
+
+
+...question. Well, my answer was that I have been to Dyckman and that we would take a look at the reports that there has been an ongoing leak issue for the last two years and hopefully we can get some resolution for...
+
+**(01:12:29)**
+
+
+
+...that. Absolutely. It would be our pleasure to resolve something, especially if it has been going on for two years. I think everyone is aware of how passionate I am about our older adults having safe, functional spaces that are also welcoming to them.
+
+**(01:12:43)**
+
+
+
+So there is a leak going on for two years. Definitely that is something we want to look at immediately. Okay. Thank you. Thank you...
+
+**(01:12:48)**
+
+
+
+...for that.
+
+**(01:12:51)**
+
+
+
+What instructions does DFTA give to the older adult centers on which kinds of repairs or facility requests are handled by each respective agency?
+
+**(01:13:06)**
+
+
+
+Well, as I mentioned earlier, we do meet quite regularly and we look at the open tickets. As we are looking at those open tickets, we can determine whether there is something that again NYCHA would have to take on, or if there is something that, in looking at the list, is so minor that DFTA might be able to take a look at it and see what we can do. I also want to mention and go back to my previous testimony about the 56 projects that we just completed. So our last meeting a couple of weeks ago, we wanted to take a look at some of those open tickets and determine whether or not some of them have also been resolved by these major capital improvements that we have made over the last year, so there will be a further reduction in those outstanding tickets. If you could provide the list...
+
+**(01:13:50)**
+
+
+
+...of the 56 projects, you know, we always welcome any progress and congratulations on that.
+
+**(01:13:57)**
+
+
+
+More work to be done. Well, thank you. And thank you so much for the investment from the Council. As you can see, we have made good use of the money. Excellent. Excellent.
+
+**(01:14:04)**
+
+
+
+When a repair or facility request is passed on to NYCHA, does DFTA have a formalized process for following up with NYCHA to ensure that the issue is...
+
+**(01:14:18)**
+
+
+
+...resolved? Absolutely. Through the same framework that we talked about. If the issue is not resolved by the two-week mark or the one-month mark where we are all sitting together, then obviously we need to come up with the correct action plan that addresses it.
+
+**(01:14:30)**
+
+
+
+And that would prevent a situation like a leaky situation going on for two years, right?
+
+**(01:14:39)**
+
+
+
+It should, and if it has not prevented that, we need to look at where there is a gap or deficiency that needs to be corrected.
+
+**(01:14:45)**
+
+
+
+Okay, so if there is obviously a situation that has been going on for two years, that means obviously the system is not working well.
+
+**(01:14:54)**
+
+
+
+We have to take a look at what that condition actually is. I also want to be clear — it is possible that we repaired the leak at LaGuardia, as you know, leaks come back. These are the original plumbing systems in our buildings, which are extremely old and outdated, so it is possible that we have repaired the leak and it keeps returning over the course of the two years. So it is not that the system is not working or that we are not responding. It could just be a symptom of the ongoing problems with our infrastructure.
+
+**(01:15:21)**
+
+
+
+Thank you. I think we have to take a look at the specific incident and see what is going on. Okay. Thank you. What is the liaison's role in this process?
+
+**(01:15:31)**
+
+
+
+The liaison is critical. They sit in that meeting, the biweekly meeting, along with the liaison from the NYCHA side, and they literally go ticket by ticket to ensure that those tickets have been either resolved or, if they are outstanding, they can give us specifics as to why it is still outstanding. The report that they give us after their two meetings is reviewed by the senior leadership when we meet regularly on a quarterly...
+
+**(01:15:55)**
+
+
+
+...basis. And is there a division of responsibility? We do have obviously functional job descriptions for the liaison. I know that the Council has also mandated that there is a liaison. So yes, we are using all of that framework to ensure that the work meets the needs of our older New Yorkers. Is there an agreement between NYCHA and DFTA on the responsibility of the liaison? In my opinion, the...
+
+**(01:16:30)**
+
+
+
+...framework that we have now is even greater than an MOU. Okay, waiting for that...
+
+**(01:16:37)**
+
+
+
+...well, I think what we have done immediately is to start to hit the ground running with making sure that we agree that we are going to meet quarterly, that we do have the framework for liaisons to meet, and that we are reviewing tickets regularly.
+
+**(01:16:52)**
+
+
+
+And also resolving issues right away. All right. So no, I think a written agreement could not be better than what we have right now.
+
+**(01:17:00)**
+
+
+
+Okay. NYCHA has stated in the past that it does not have a repair agreement with DFTA, but one similar to what it has with other agencies. Is that still accurate? Yes, it is accurate.
+
+**(01:17:20)**
+
+
+
+Okay. Does NYCHA have a repair agreement with DFTA? We do not.
+
+**(01:17:27)**
+
+
+
+OK. And has NYCHA sent a proposed agreement to DFTA? And if so, or well, let me say, is there a plan to send an agreement to...
+
+**(01:17:39)**
+
+
+
+...DFTA? It is an ongoing conversation. But as the Commissioner mentioned, in the meantime we are doing all of the things that we would do under such an agreement anyway. Our staff have biweekly meetings between the liaison and my staff in operations. We are going through open repair requests and leadership is meeting on a quarterly basis to review that work.
+
+**(01:18:12)**
+
+
+
+If a complaint is outstanding, what are the main hurdles and challenges that prevent the complaint from being resolved? It depends on the nature of the complaint.
+
+**(01:18:24)**
+
+
+
+Again, similar to our conditions across our buildings, if it is a significant leak problem, it may be that we are tracing the leak or that we are working on a larger plumbing initiative. It really depends on the specific issue. As you know, we have a significant delay specifically related to our plastering work too. If the complaint is about plastering, they could be waiting six months or so for a plasterer to come and make that repair.
+
+**(01:18:50)**
+
+
+
+We will also be joined by CM Gennaro. Thank you. Does NYCHA track the repair tickets separately from the apartment or common space area repair tickets?
+
+**(01:19:04)**
+
+
+
+Yes, they are. They are marked too. Okay.
+
+**(01:19:07)**
+
+
+
+And what is the average amount of time from when a complaint is found to when a complaint is resolved across the older adult centers at a NYCHA facility?
+
+**(01:19:19)**
+
+
+
+Our average days to close... is that information tracked, perhaps in an online portal, and where can requests be submitted or monitored?
+
+**(01:19:34)**
+
+
+
+All of that information is tracked in our internal asset management system, our Maximo system, just like our work tickets for the residential units. So a provider is not able to see or track the...
+
+**(01:19:49)**
+
+
+
+They should be able to look up their open work tickets on our service station on our website.
+
+**(01:19:57)**
+
+
+
+Does NYCHA track how many older adult center closed repairs there were in the past year? Sorry — closed for repairs in the last year, say about...
+
+**(01:20:06)**
+
+
+
+...closed for repairs. Yes. Right now there are three centers that have been closed in the past year due to unsafe conditions: Gleaves Avenue, Latin America Gardens and Randall Avenue. Also, I know recently there has been some remediation that has been done to some of the centers, which has caused some of them or their operations to be moved or closed to some degree. Is there any update on...
+
+**(01:20:40)**
+
+
+
+...the number of centers that have received the remediation?
+
+**(01:20:47)**
+
+
+
+We are currently working on lead abatement at our daycare centers and I do not know if that is what you are referring to. Well, I know there was... I know at Cypress Houses there was a concern and I think I have spoken to Brian about the remediation that was needed to be done at that particular center. It was mold remediation, or asbestos remediation — I forget exactly which one — but there was a concern about a possible closure because of the need to remediate.
+
+**(01:21:24)**
+
+
+
+Our priority is always to maintain center operations while we are doing repairs. We work to make sure that can be done safely. If for some reason the work is extensive or if it has a life, health, safety component like asbestos or lead, then we have to close down programming for the time of the repair and relocate programming somewhere else. We will work with Aging and our partners and the providers to make that happen. If it is a larger issue, like we have at, let's say, Vladimir Gardens, where we are not able... it is not about a repair. It is about a major capital project, and then we have to do a permanent shutdown.
+
+**(01:22:03)**
+
+
+
+How many times over the past year, the past five years, has the solution been to shutter a center?
+
+**(01:22:16)**
+
+
+
+I have just those three examples.
+
+**(01:22:23)**
+
+
+
+How long on average does it take to be reopened?
+
+**(01:22:27)**
+
+
+
+It really depends on the conditions. Like Harbor Center on Coney Island, it got closed down during Sandy and we are still working on opening that. The last piece right now is the place of assembly permit.
+
+**(01:22:42)**
+
+
+
+That one is obviously a very extreme example. Glebe Avenue was closed down due to significant leak and mold conditions. Luckily, that is going through the PACT program and we will receive a comprehensive modernization.
+
+**(01:22:53)**
+
+
+
+And we will be able to reopen, just like we were able to reopen Edenwald after 25 years, thanks to the PACT program. Congrats on that.
+
+**(01:23:01)**
+
+
+
+Could a provider make the repair or seek reimbursement if they needed to go ahead proactively and repair? I would say it depends on the type of repair. As I just mentioned about the projects that we have completed, sometimes there is additional funding that comes in that allows us to be able to move forward with a repair, and then we will work together with NYCHA to be able to remove that from their listing. But I also want to just mention that when we do have to shutter one of the sites, we make sure immediately that our older adults do have alternatives. They are not missing out on meals or programs. We will help them, even by providing transportation to nearby sites, so that they do have programming that is available to them.
+
+**(01:23:51)**
+
+
+
+And my last question before I turn it back over to the chair: are the agencies aware of any providers who received fines and court summonses due to unresolved infrastructure issues at the older adult center facilities located on NYCHA properties? We are aware of some violations that are tagged to the older adult centers. Some of those violations are in relation to repairs that are part of the capital program. Some violations are assigned due to the provider's responsibility to make a repair or resolve a condition. And how does the agency assist the providers when this occurs?
+
+**(01:24:44)**
+
+
+
+We will meet with the provider and determine responsibility and how to cure the violation.
+
+**(01:24:59)**
+
+
+
+Can you give us a breakdown? I will find that if you can. All right.
+
+**(01:25:13)**
+
+
+
+So right now we have 60 violations in two older adult centers. And how are
+
+**(01:25:24)**
+
+
+
+you working to ensure that this stops happening?
+
+**(01:25:32)**
+
+
+
+I do not know if we can ever fully stop it. These are important enforcement agency activities, but once we are aware of a violation, we will work with the provider to understand the conditions that resulted and determine the best path forward to cure that violation.
+
+**(01:25:48)**
+
+
+
+I think this kind of goes back to the response time and the time frame on when a complaint is put in and how quickly you respond to address whatever the complaint may be. I think that would be a much more appropriate response and would help make sure these types of things stop, where these providers have to be dragged in for this. So hopefully you take that into consideration. I will turn it back over to the chair.
+
+**(01:26:20)**
+
+
+
+Thank you. And for questions, the first one we have is Council Member... hello? Oh, so sorry, I was like, I did not know I was the first one.
+
+**(01:26:40)**
+
+
+
+OK, so you know my predecessor, Deputy Speaker Cabán, was the older adults whisperer, so she had a lot more knowledge about older adults and what happens at the centers. I do not have that much knowledge, so please excuse me for asking some basic baseline questions. About the contracts: when it comes to the contracts, can you explain how funding is allocated for each center? Is it based on enrollment like it is in school? Is it based on square footage? How many people live in a development? I just want to get an idea of how
+
+**(01:27:14)**
+
+
+
+much... I will tell you, it is all of the above. There are quite a few metrics and parameters that are included in the contract that would determine how much funding is allocated for each site. We could share with you the criteria for that so that you have more information on it, but it is a lot more than just a couple of words. OK.
+
+**(01:27:35)**
+
+
+
+And then the services — which ones are mandatory throughout each of the programs? Are there any
+
+**(01:27:42)**
+
+
+
+yes, case management, obviously food delivery, activities and programs — several. Again, so...
+
+**(01:27:51)**
+
+
+
+We will share those with you as well.
+
+**(01:27:54)**
+
+
+
+Perfect. And then I noticed that you mentioned that for the older adult info sessions that informed the RFP, were older adults at the table?
+
+**(01:28:06)**
+
+
+
+Absolutely. There were several sessions and obviously there was also a concept paper. There was a lot of information and opportunities for folks to collaborate, along with older adults. Even now, we are still speaking with some of our advocacy groups and some elected officials on some of the concerns related to the upcoming... we are planning to have a meeting with them as well to further discuss some of their concerns.
+
+**(01:28:37)**
+
+
+
+And then how long are the contracts with the older adult centers? Are they different? They vary? Yes, they do. But it is usually a year or two. And through that year there is... I do not know what you would call it — supervision, but like... oh, yes,
+
+**(01:28:56)**
+
+
+
+there is oversight throughout the period of the contract. There are also audits, and obviously assessments by program officers on a periodic basis.
+
+**(01:29:04)**
+
+
+
+Can you share some of the assessment points that you look at when you go in for those assessments? Some of the top-line things that you look at?
+
+**(01:29:16)**
+
+
+
+Sure, and it is not a surprise thing. It is also included in the contract.
+
+**(01:29:24)**
+
+
+
+OK, I thought you were going to share some top-line items right now.
+
+**(01:29:28)**
+
+
+
+Oh, sure. Just like one of the things — safety, volume, you know, how many older adults are actually being served, if there are complaints, issues... I think my time is up.
+
+**(01:29:44)**
+
+
+
+OK. And I just want to say I am really glad to hear that you are looking at the meatless options. The seniors in my district, they do not go to the senior centers on meatless day. And the ones that are offered after that are terrible. So I am glad you are looking into that.
+
+**(01:30:05)**
+
+
+
+Thank you. The older adults have been very vocal about that and they have also shared that they will find sites where meat is being served and some of them go there that day. So we really want to be sure that we are meeting their needs at the sites they prefer.
+
+**(01:30:25)**
+
+
+
+Thank you. We have CM Avilés — do you have questions? I am so sorry, before that I just want to correct: the contracts are for three years, and they have an option to extend year by year.
+
+**(01:30:46)**
+
+
+
+Good morning and thank you for being here today. So I have a question about the Throgs Neck senior center. I always have a question about the Throgs Neck senior center. It has faced an extended closure. It first closed during COVID and then they tried to reopen, closed again because they discovered mold. It looks like the repairs started a year later but they were stopped because there was damage to the roof and additional structural damage, and it needed roof repair and replacement of the HVAC system, from what I understand, just to start with. And so they have been without a senior center for about six years. That is a long time. If you know the Throgs Neck area, it is very kind of remote and far away, not easy to travel from. There was a temporary solution — they were using the Kips Bay Boys and Girls Club — but then they were unable to use that because of the kitchen situation and because the children, especially during the summer, use the facility all day every day for summer camp. They have been trying to find a nearby solution ever since and have not found one. Many of the seniors — and I do not even say many because many do not want to go all the way to Co-op City to the senior center there. They do not like it. They do not like having to get on a bus or shuttle to Co-op City, so far away from their community. And the senior center is housed in Randall Manor, where it is, you know,
+
+**(01:32:48)**
+
+
+
+senior housing, but the entire Throgs Neck community really uses that senior center. So you have over 3,000 residents in Throgs Neck Houses and Throgs Neck Addition — and I am using a low number here — but probably about a thousand seniors right now do not have access to a center. So I just want to know, because we were told it is now under PACT, what is the situation there? What can we expect? When will that senior center be reopened again?
+
+**(01:33:33)**
+
+
+
+Thank you, Council Member. I am familiar with the center and the decision to close it a few years back due to the significant conditions there. The center is slated to go through PACT and will receive full renovations as part of that. That project is anticipated to close later in 2027, so it is still a little while away, and then construction would start soon
+
+**(01:33:55)**
+
+
+
+after. OK. So through DFTA's mental health initiative, we know that over 80 older adult centers offer on-site and virtual mental health services. Could you provide some information on where the split of those 80 centers is amongst the five boroughs and how many are located in the Bronx?
+
+**(01:34:31)**
+
+
+
+I will have to get back to you on the split of how many are located within the Bronx, but I would say that yes, it is another area that we are looking at to enhance geriatric mental health services. Obviously, the sites that can have a center on site or provide those services on site are moving forward with that, but we do know that based on some of the requirements for specific space, we will not be able to provide some of those services on site. So where that is not possible, we do have a hub-and-spoke model where we make sure that folks located in areas that do not have an on-site center can access services through nearby
+
+**(01:35:13)**
+
+
+
+services at other sites, or they can receive those services virtually. We also provide supplemental services through Aging Connect at all the aging centers. One of the things that we are exploring is also looking at what we can do mobile, especially for those sites that will never be able to have an on-site care program because of the constraints of space or privacy and so on.
+
+**(01:35:41)**
+
+
+
+So we are exploring that option as well, because it might be something that I think could add to the services that are being provided, to allow an older adult to be able to access the service at that trusted space, but in a private space somewhere nearby.
+
+**(01:36:03)**
+
+
+
+Coming back to the senior center in Throgs Neck: there are other senior centers that are closer, but they are not run by... is there any way to allow for those seniors to go to, like, Northeast Bronx — right on Bruckner Boulevard — not far from... I mean, it is far, but not as far as Co-op City, and it is a little easier to get to.
+
+**(01:36:39)**
+
+
+
+Any one of our older adult center participants can attend any one of our programs, any one of the 308 throughout the City. They opt to stay with their provider, but if they do not, they can go to any one of the centers and receive the same service. Because the provider is not only offering to transport them to Co-op City — there are other sites — or I believe there may be others as well, but Co-op City is the one that they are transporting people to. It is something that we will look into to see if there are some other services we can provide to ensure that older adults get to the centers they prefer.
+
+**(01:37:17)**
+
+
+
+Yeah, thank you. I would absolutely like to follow up with you on that. According to DFTA's latest annual report on older adult center metrics, across 109 centers located on NYCHA property, there were 27 documented complaints regarding living conditions. Could you elaborate on the kind of complaints you are mainly receiving, how
+
+**(01:37:43)**
+
+
+
+are they resolved, and how long do specific situations typically take to get resolved?
+
+**(01:37:54)**
+
+
+
+I am sorry, you are saying these are living conditions? Yes, the conditions in the... oh wait, this is the conditions in the older adult centers. I apologize. I think we have talked about the fact that it takes on average 12.8 days for any issue that is picked up at the sites. I am not sure if we are speaking outside of that framework that we have been talking about earlier, or if this is something else. No, just want to have a sense of what kind of complaints you have mainly been receiving and how long those typically take.
+
+**(01:38:31)**
+
+
+
+So our typical complaints mirror some of the conditions in our residential buildings as well. So we have paint issues, floors, walls, ceilings and doors — those are the top five categories of complaints that we receive. Thank you.
+
+**(01:39:06)**
+
+
+
+Thank you, Council Member. Next we have CM Hudson. Thank
+
+**(01:39:10)**
+
+
+
+you so much. Good morning. When I chaired the Committee on Aging, I had the privilege of visiting many older adult centers across the City, as I know you have. One of those was the Hudson older adult center at Butler Houses up in CM Stevens' district in the Bronx. It also happens to be, I suppose, arguably the first senior center in the United States, so certainly something to be proud about. So I am wondering how you determine a pipeline for older adult facilities that are in need of capital improvements. My question really stems from the conditions that I saw at William Hudson — everything from floorboards coming up, holes in the ceilings, a lack of heat at times. So I am just wondering what it takes for the pipeline to be created, or how you identify specific sites to be on the pipeline, if there are some facilities that are given priority, how the money is moved, et cetera.
+
+**(01:40:28)**
+
+
+
+Thank you, Council Member. We do not have a pipeline for capital improvements at older adult centers. We are very grateful for the support we receive from this City Council as well as other federal and state earmarks to support capital projects at our community centers. Once funding is allocated, then we can implement the capital project. The funding is typically identified for a specific site. It is not necessarily a pipeline that we choose. It comes from the elected official directly saying, "I would like to give money for this community center or this older adult center." So that is right now the primary resource we have for doing comprehensive improvements outside of our PACT conversions.
+
+**(01:41:17)**
+
+
+
+And so no emergency funds for immediate
+
+**(01:41:22)**
+
+
+
+needs? So emergency, immediate repairs would be different than a comprehensive capital improvement, just to be clear. If there are immediate repair needs that are life, health, safety issues, those are things that NYCHA does respond to based on the level of severity. But a comprehensive improvement is a capital project based off of the allocation of funding.
+
+**(01:41:41)**
+
+
+
+Do you know how much has been invested in or set aside or earmarked for William Hudson?
+
+**(01:41:54)**
+
+
+
+I am not sure if I have the information for that specific center, but we can get back to you on any funding for that specific site.
+
+**(01:42:05)**
+
+
+
+That would be great. Thank you. I have a follow-up question: for a leak, is the funding for that a regular capital item?
+
+**(01:42:14)**
+
+
+
+It depends. For the most part, a leak is a repair that we will respond to, especially if the leak is caused from above in our piping system or our plumbing system, or a leak from our roof. That is something we will respond to and repair. If it is a leak that is within the center, like an under-the-sink type leak, then the provider would get a plumber to fix that. Thank you.
+
+**(01:42:38)**
+
+
+
+Next we have CM Brewer, followed by CM Hudson. Thanks very much. A couple of things. One is with the PACT program because, as you know, on the Upper West Side, I think we are pretty much getting very PACTed. So my question is, if there is a center where there is a PACT
+
+**(01:42:55)**
+
+
+
+conversion, how does that impact, if at all, the issues at that center in terms of repairs?
+
+**(01:43:01)**
+
+
+
+So as part of our PACT program, we work hard to ensure that the centers also receive a comprehensive modernization, just like the apartments. We will scope that out and do our best to include that in the financing. Sometimes it is not always possible to do a full modernization or full scope. Sometimes we have had to take out the center. It really depends on the
+
+**(01:43:26)**
+
+
+
+funding that is available for that project. We cannot use Section 8 funds to support a community center renovation, so it would require City subsidy. As long as we have enough funding in the project, we will include the scope for the center to ensure that is part of the project as well. We understand it is an important community resource and we want to see it improved alongside our apartments. So do you
+
+**(01:43:49)**
+
+
+
+have any sense of how many conversions have included senior centers where you have been able to do that?
+
+**(01:43:57)**
+
+
+
+I can confirm that number for you.
+
+**(01:44:01)**
+
+
+
+Under your leadership, but it took five years to get the kitchen at the Clinton and Harbor View. So my question is, if things are somewhat going well in terms of current requests, meaning the leaks and so on, what about people and centers who want new things proactively? Do you have a list of those? How does that get handled? Kitchens would be one example. I have always heard about how we are planning for the future — more seniors, obviously, and more needs. Whether it is a kitchen or whatever, how do we think about the future that way?
+
+**(01:44:38)**
+
+
+
+Thank you. We have a running list of projects that we would like to complete that we are actively seeking funding for. I was able to mention earlier that we have completed 56 projects and we are going to share a listing of those projects. In fact, I was able to speak with some of your colleagues in reference to — I think we should actually go and share with you some of the before and after of what has been accomplished by many of these repairs and projects that include kitchens and bathrooms and things that seniors really appreciate. So absolutely, there is a list of additional projects in areas we would like to take a look at, including William Hudson, where I have visited. And at William Hudson, they recently did have some upgrades to the bathrooms and things like that. Obviously there is more work to be done, but the work that can be done we want to accomplish as quickly as possible.
+
+**(01:45:29)**
+
+
+
+Can you get to the chair that list of what you would like to accomplish?
+
+**(01:45:33)**
+
+
+
+Absolutely. We can share that with you. Okay. And the other
+
+**(01:45:34)**
+
+
+
+question is — maybe you sort of discussed this — but what are the metrics for assessing the well-being of this infrastructure? How do you look at what you are doing and how do you measure that?
+
+**(01:45:50)**
+
+
+
+In terms of the centers' well-being, I will say on the DFTA side, obviously we do have an environmental checklist that we use — things that we look at while we are there — which includes things like leaks and plumbing and
+
+**(01:46:01)**
+
+
+
+you are not there all the time. I am sorry — you are not there all the time, you just
+
+**(01:46:05)**
+
+
+
+Oh no, this is included in the assessment also that the program officer is performing when they go out to the sites as well. You know, I am a redundancy. They are really the front-line staff that are carrying out the important and critical work every day and every week that they are out at the center. So yes, those are the things that we look at when we are there to ensure we have a safe, functional environment.
+
+**(01:46:26)**
+
+
+
+So where does that go? Is it like a list? Does it go on open data or is it kept internally? How do you address that list?
+
+**(01:46:33)**
+
+
+
+It is included in the evaluation process for each of the sites, which is public. It is included in the portal on Passport. We have that information.
+
+**(01:46:43)**
+
+
+
+Okay. And there is definitely the same in terms of metrics — I mean, there is a need to do the same in terms of assessing.
+
+**(01:46:52)**
+
+
+
+Metrics for the centers — so we do have, we track our open work orders, and just like we do with our apartment repairs, we are tracking the work through that mechanism. We also have estimates in need of just over $900 million for older adult centers. So again, this is really a capital conversation more than a
+
+**(01:47:13)**
+
+
+
+repair conversation. Okay. One other quick question. Individual apartments — I think a lot of your centers have apartments over them, not all but many. So my question is, as part of this discussion, are we also — people have complaints and they do bring them to us — is that part of this overall metrics and how do we fix them? Do you look at that at the same time?
+
+**(01:47:46)**
+
+
+
+From the DFTA side, only if it impacts our center. So if it is something like a leak, then of course — that is not you, we would deal with NYCHA. But if there is a noise complaint or something else that might impact services, obviously yes, we work along with
+
+**(01:47:59)**
+
+
+
+but if your case workers hear that Mrs. Jones's mold is not being assessed and fixed, I guess you would also hear about it. You bring it to NYCHA and we would go back and forth, then you called Gale
+
+**(01:48:13)**
+
+
+
+Yes, yes. So I am just saying that — how do you get a sense from your case workers that there is a responsiveness to the individuals living upstairs, et cetera? Absolutely, there is. And if they are not responsive, then that is where we fall into the framework that we discussed earlier, where we have those biweekly meetings with our liaison and also with NYCHA leadership and different leadership, so that we can address something that is outside of our purview. Obviously, if an older adult in one of our centers is having a problem that is a NYCHA-related issue, we would certainly escalate to NYCHA's attention that this older adult needs help and these are the issues that are concerning them.
+
+**(01:48:53)**
+
+
+
+Okay, all right, thank you.
+
+**(01:48:57)**
+
+
+
+Thank you. We have CM Undress Alert and the follow-up by CM José. Thank you so much, Chair, Chairs Long and Chair Banks.
+
+**(01:49:05)**
+
+
+
+For this important hearing. Good to see you, Chief Operating Officer and Commissioner. Appreciate you being here today and for your hard work. Could I just get clarification — there was a pause placed on Council allocations for NYCHA capital projects a few years ago.
+
+**(01:49:23)**
+
+
+
+What is the status of that? Yes, thank you. I am going to call up our Deputy Chief in Capital Management Officer Abigail Franklin to talk about that.
+
+**(01:49:34)**
+
+
+
+Thank you, CM. We are currently accepting all funding that the City Council is able to provide for capital work at NYCHA, including older adult centers. There was a temporary pause on projects that had previously been funded due to a shortage and we have been able to restart all of those projects and are currently accepting any funding that is available to
+
+**(01:50:01)**
+
+
+
+us. Great. So I am fortunate to have a great Borough President in Brooklyn — the best Borough President, the best borough. Sorry, Gale. And he allocated $6 million in fiscal year 2024 for upgrades to older adult centers primarily on NYCHA campuses, but he has gotten no information, no updates on the timeline for those projects. Is that standard practice — two years later to not have updates on capital allocations that were made to NYCHA?
+
+**(01:50:30)**
+
+
+
+Older adult centers — that is not standard practice. If you could share the specific list of allocations, we can definitely look at that. Sometimes there is insufficient funding that has been allocated to address the needs of a center, and so in that case we might be working with the Borough President or Council Member to ensure that there is the full amount of funding available before we actually accept the funding and move forward with initiating a project.
+
+**(01:50:58)**
+
+
+
+Okay. I mean, I will just be clear — going back and forth with him, his budget director, his senior staff, they have had no communication or updates from NYCHA on this. So if there is a funding gap, that would be news to them. But we are happy to hear that you will be moving forward on them and that you will be providing updates to the Borough President's office this week on those projects. So thank you very much for your willingness to work with us on the follow-ups. Those cover my questions for today. I want to thank everybody. Thank you to the agencies for their hard work here. I know that this is not an easy topic and I want to congratulate the new Commissioner for landing on her feet. It is always good to see Brian Holman. So thank you all.
+
+**(01:51:37)**
+
+
+
+Thank you. Please — and also thank you. And we also have CM... Thank you so much, Chairs. Nice to see you all this morning. I wanted to first start by obviously addressing how the federal government is not investing in public housing and obviously that is impacting NYCHA across the board. Given the lack of funds that we are seeing from the federal government, how is that tangibly impacting our older adult centers on our NYCHA campuses?
+
+**(01:52:13)**
+
+
+
+Thank you, CM. Obviously we are always advocating in D.C. for additional funding. The HUD appropriations — and Brian, correct me if I am wrong — were cut by 14% last year. And so it is a struggle for NYCHA to continue the same level of operating with decreasing federal funding, and that filters down to everything we do. So if we have needs for plastering or plumbing at an older adult center, that is competing with the same plasterer and plumber that needs to respond to a resident in their apartment. So it will mean that the time to respond will continue to get
+
+**(01:52:51)**
+
+
+
+longer. And I appreciate that. Obviously I hope things change in that regard because we know that NYCHA does need that support from the feds. But I wanted to ask — because we are going into a cold winter, maybe hopefully not as cold as last year — how many rounds of HVAC inspections is NYCHA doing across the board, but mostly within our older adult centers on the grounds of my district? How often are those inspections?
+
+**(01:53:24)**
+
+
+
+So we do not conduct HVAC inspections. The HVAC is the responsibility of the provider for the most part. There are some instances where NYCHA would be involved, but for the most part the HVAC system is the responsibility of
+
+**(01:53:38)**
+
+
+
+the provider. Does NYCHA provide any oversight over the providers?
+
+**(01:53:41)**
+
+
+
+The providers are contracted by New York City. Okay.
+
+**(01:53:46)**
+
+
+
+But at New York City Aging, we do perform pre-tests before cooling season and before heating season to assess that there are any issues that would prevent us from providing heat for the winter. We are in that process right now and we have not been made aware of any projects or needs that would keep us from providing heat at our sites.
+
+**(01:54:07)**
+
+
+
+Furthermore, how many rounds of mold inspection take place, or how often do those mold inspections occur at our older adult centers?
+
+**(01:54:15)**
+
+
+
+We will inspect based on a mold request work ticket, so the center submits a work ticket to NYCHA for mold and we will come and do that inspection. I do not have the timeframe on hand to respond, but I will get that for you.
+
+**(01:54:29)**
+
+
+
+At the Department of Aging, during our environmental checklists, if there is mold or any material that we find that needs to be investigated, obviously we would not determine that it is mold — that is something that we would ask NYCHA to do.
+
+**(01:54:48)**
+
+
+
+All right, thank you so much. Thank you, Chairs. Thank you. And one follow-up question: so we tested the heat and the cooling system — if there is any emergency, like a power outage, what do we have, any way to
+
+**(01:55:06)**
+
+
+
+deal with that? In the older adult centers, yes. Thank you, CM. When we experience a power outage, NYCHA's emergency services works with the provider to provide information. We send out robocalls, just as we do with our residents, and depending on the length of the outage, we will work with Aging and the provider to make accommodations as needed.
+
+**(01:55:30)**
+
+
+
+This summer we had quite a few instances of power outages, so we will sometimes refer to nearby centers as needed. It really depends on the length and the conditions of the outage. This is always handled in partnership — NYCHA handles this issue in partnership. So if it is an outage that is impacting our buildings, we will coordinate with the provider and with Aging to ensure that programs can continue somewhere. We will make sure that we are giving them information as to the length of the outage, the cause and any restoration times. Are all NYCHA older adult centers ADA compliant? No, they are not all ADA compliant. Is there a plan in place to bring those facilities up to standards?
+
+**(01:56:24)**
+
+
+
+We would like to bring as many as possible up to standard. Again, it would be a capital investment for some of the sites. We would also work with the older adults there to see if there are any interim measures that we need to put in place, but the plan would be to make that investment, obviously, when funding is allocated, and to continue with the projects.
+
+**(01:56:51)**
+
+
+
+Can we put that into the next year's budget? If you are willing, absolutely — we would ask the
+
+**(01:56:58)**
+
+
+
+Mayor. And of the 105 facilities located on NYCHA property, how many are not ADA compliant? We do not have that number, but I can see if we have that information.
+
+**(01:57:15)**
+
+
+
+Okay. How is DFTA coordinating with NYCHA to ensure ADA compliance and to make necessary changes?
+
+**(01:57:24)**
+
+
+
+Through the capital enhancements, and again if we are able to effect any projects that would allow us to resolve the issue of ADA compliance, we are willing to do that with the available funding.
+
+**(01:57:40)**
+
+
+
+And also, are you able to provide us the detail of how much funding we need, how many centers are already complying, how many are not, and how much the cost would be? Not at
+
+**(01:57:53)**
+
+
+
+the moment. Obviously, along with NYCHA, we would have to look at the number of sites and what the circumstances are at each one of those sites to determine how much each project would cost, and then you would get an overall cost from that.
+
+**(01:58:07)**
+
+
+
+And we can also discuss with the Council what that means. There are different levels of compliance with ADA requirements, whether it is wheelchair accessibility or bathroom accessibility — there are different components and that would require different levels of scope. So we would have to do a pretty significant assessment of all the centers to determine the full need.
+
+**(01:58:28)**
+
+
+
+Thank you. And if there are reasons to have concerns about safety at some NYCHA property, what is the security protocol in place to protect older adults at these sites?
+
+**(01:58:42)**
+
+
+
+NYCHA does not provide security at the older adult centers. For our sites, most of them — we are in contact with NYPD for patrols of those areas. In addition, most of our centers are secured by some type of door locking mechanism with an intercom system or door swipes, to ensure that we are not allowing everyone in without someone being aware of who is coming into the center. So we look at different security precautions. We do have training for our staff. We also speak to them about some of the issues in the neighborhood. Obviously our older adults will let us know if there are issues in the neighborhood and we would collaborate with NYPD. NYPD does not have a person assigned specifically for seniors issues, but they have a community affairs division that would allow us to have patrols of those particular sites that might have some issues.
+
+**(01:59:37)**
+
+
+
+Okay, can you provide an outline of the current state of the facilities housing these older adult centers
+
+**(01:59:44)**
+
+
+
+and the steps that are being taken to address the infrastructure concerns? I am sorry, could you repeat that?
+
+**(01:59:53)**
+
+
+
+Can you provide an outline of the current state of the facilities housing these older adult centers and what steps are being taken to address the infrastructure concerns? So an overall environmental assessment of all sites — how many do you think are in good condition, how many do you think are not in good condition? Do you have any information about
+
+**(02:00:21)**
+
+
+
+those? We could share that with you. I do not have it on hand today.
+
+**(02:00:24)**
+
+
+
+Okay. Recent reports highlight ongoing issues in the older adult centers on NYCHA campuses. Like the Vladimir Garden center, which serves around 700 seniors in Flushing, was closed due to persistent leaks. How did NYCHA and DFTA respond?
+
+**(02:00:49)**
+
+
+
+It was unfortunate that we had to close that facility. We had been working to make repairs for a while, but the repairs were significant and it was determined by Aging and the provider that the best course of action right now was to relocate the site and the
+
+**(02:01:07)**
+
+
+
+programming. When did you first notice the leaking at that center? I do not know exactly when — it is a roof issue. It would require a full roof replacement, so it has been ongoing for a while. How long will it take to do the repair?
+
+**(02:01:26)**
+
+
+
+The roof project is not currently funded. So you are not doing anything on that project.
+
+**(02:01:33)**
+
+
+
+People just have to go to other centers.
+
+**(02:01:38)**
+
+
+
+That is correct. The center is closed. We are currently in discussions to identify funding for the full roof replacement, but that has not yet been confirmed. If the funding for the roof replacement were to be confirmed, it would be a project that would take about four years. Four years, correct.
+
+**(02:01:56)**
+
+
+
+If there is funding, four years. Yes.
+
+**(02:02:00)**
+
+
+
+So that is going to run into the same problem as the senior center in CM... remember, all the district. That is correct. Capital projects are typically extensive, spanning from the planning and design phase to the procurement phase to the actual construction work.
+
+**(02:02:19)**
+
+
+
+Okay, what is the response of DFTA in a situation like
+
+**(02:02:24)**
+
+
+
+this? Well, it is unfortunate that the situation occurred, but obviously recognizing that leaving the older adults at that site would be a severe health and safety concern. We did act to relocate those older adults to a center that was safer for them and they are receiving the same programs and services at the relocation site as they would at the closed site. So 700 seniors get the same services they
+
+**(02:02:53)**
+
+
+
+would, though not all at the same relocation site — obviously there may be more than one site that they are availing themselves of services at. But they are receiving services at another site. For me, the response is primarily to keep our older adults safe and that is what we did. Is there any plan to inspect every single older adult center on a NYCHA campus to prevent this
+
+**(02:03:19)**
+
+
+
+type of situation from happening? We do not have a plan to do an inspection of each of our sites, but as I mentioned before, right now as part of our physical needs assessment — which is our overall capital assessment for all of NYCHA — we estimate the capital improvement costs for older adult centers to be approximately $900 million.
+
+**(02:03:44)**
+
+
+
+We know there are 105 older adult centers located on NYCHA property. Do you have a breakdown of how many are in each borough? Yes, Council
+
+**(02:03:58)**
+
+
+
+The breakdown of the 105 is: the Bronx, 26; Manhattan, 30; Brooklyn, 35; and Queens and Staten Island, 14. How many in
+
+**(02:04:09)**
+
+
+
+Brooklyn? 35. Okay. How many
+
+**(02:04:25)**
+
+
+
+are PACT sites and how many remain Section 9? We have 77 centers in our Section 9 portfolio and 28 in our PACT portfolio.
+
+**(02:04:40)**
+
+
+
+Has the number of PACT sites increased or decreased over the past five years? Yes, as we continue to convert sites to PACT, the number of centers will decrease in the Section 9 portfolio and increase in the PACT portfolio.
+
+**(02:04:57)**
+
+
+
+What kinds of changes occur with the PACT conversions?
+
+**(02:05:02)**
+
+
+
+Only because of the conversion do we have to change the senior center? We do not change the senior center. It is just part of the PACT program versus part of the Section 9 program. Got it.
+
+**(02:05:12)**
+
+
+
+How many older adults are served by NYCHA? Looking at it in the NYCHA portfolio, do we have this citywide
+
+**(02:05:23)**
+
+
+
+breakdown? By borough, the Bronx is 35.5% or 8,212. In Brooklyn, 8,314 or 22.3%. Manhattan, 14,540 or 41.7%. Queens, 6,490 or 14.1%. And Staten Island, 2,095 or 32.8%.
+
+**(02:05:55)**
+
+
+
+How many meals, mental health counseling and other related services are provided at each language center or each borough? What meal services and other services? We will give you more of a breakdown on those. Obviously we know we are providing meals overall, so we have to give you the breakdown. And that also includes mental health counseling and health services. Yeah, okay. So
+
+**(02:06:24)**
+
+
+
+you are going to send us that data. Yes, we will. Thank you.
+
+**(02:06:28)**
+
+
+
+Do older adults typically live in the NYCHA facility in which the center is located, or do some come from other locations, such as other NYCHA facilities or private housing?
+
+**(02:06:43)**
+
+
+
+We wish there were more participants that are residents in the NYCHA facilities, but we have noticed that there is a dip in participation from persons that are living right in the building. These centers are servicing more of the surrounding community, which is one of the reasons why we convened the first ever meeting along with the tenant association, so that we could work together to boost those numbers and find out what the barriers are to people that are right in the same building coming down to our centers.
+
+**(02:07:12)**
+
+
+
+What is the current ratio of staff to older adults served at each NYCHA-located center?
+
+**(02:07:21)**
+
+
+
+I do not have the ratio of staff. I will get that for you. Okay.
+
+**(02:07:25)**
+
+
+
+How can the City ensure that the staff meet the needs of the older adults?
+
+**(02:07:32)**
+
+
+
+Which role does DFTA play in staffing and all?
+
+**(02:07:37)**
+
+
+
+And again, it goes back to the monitoring. As I have mentioned, we have staff on site daily. We have weekly supervisory staff that are out at the centers. Obviously I am visiting the centers as well, and we are closely monitoring the metrics. One additional provision that we provided very recently: I onboarded the very first Chief Quality Officer for DFTA so that we could take a deeper dive into the data that is available. Obviously we have an extensive amount of data, but we want to be sure that we are focusing on the outcomes and how we are really affecting the lives of older adults.
+
+**(02:08:11)**
+
+
+
+Okay, so you guys are already doing feedback from NYCHA and that was always the case? Okay. Absolutely. Is
+
+**(02:08:22)**
+
+
+
+the feedback shared with NYCHA? Yes. At our meeting where we meet with the senior leaders, we speak about issues that impact them, as well as ways that we get feedback from the residents and communicate with NYCHA about any improvements. I can give you two examples. One is where I mentioned that we have resolved 88% of the issues that we have escalated to NYCHA, and those issues have been resolved, some of them even earlier than the 12.8 days that it typically takes to resolve something. And then also, in the fact that we have been able to look at issues together, we have been able to look at capital projects where perhaps there is a portion of the project that we might be able to address for repair. So we feel that this collaboration and this enhanced relationship that we have not only presents opportunities, but it is also helping us to provide better services.
+
+**(02:09:26)**
+
+
+
+Okay. How often are you guys doing outreach efforts to
+
+**(02:09:30)**
+
+
+
+engage with older adults in NYCHA? On the different sites, it is continuous. And as I mentioned, we had that first ever meeting with the tenant association and several of the residents of the
+
+**(02:09:46)**
+
+
+
+building also attended to help us to better understand what we could do to meet their needs in an enhanced way. Okay. Let me turn to the floor. CM...
+
+**(02:10:05)**
+
+
+
+Thank you, Chair. Yes, I am going to dive right into RAD PACT, particularly the conversions that continue to take place and I guess more obviously down the line.
+
+**(02:10:24)**
+
+
+
+For developments on PACT conversion — well, let me back up because I needed to get this on the record as well. Going back to the violations thrown to the provider: when a fine is issued to a provider and it is paid by the provider, does it depend on the situation? I would have to understand the specific incident, but again, there are certain violations that are the provider's responsibility, and if they do not correct it, they are fined too.
+
+**(02:11:00)**
+
+
+
+Okay, so it is case by case based on that. Okay. Thank you. And for NYCHA ones, I am not sure about reimbursement. We probably would not pay; we would work to correct it. Okay. Thank you. For developments undergoing PACT conversion, does NYCHA coordinate with the new private management company to ensure that the services are maintained throughout the transition?
+
+**(02:11:29)**
+
+
+
+Yes, we do. With our residents, we conduct extensive outreach and engagement prior to conversion, and that includes making sure our partners in the development are also connected. So if there is a senior center or a community center or any other type of community facility, we work to make sure they are connected with the incoming development team, which would be their new landlord, to make sure they understand how to escalate, how to work together and make those connections. The centers do not experience any gap in operations as part of the PACT conversion. Everything continues because they are funded by Aging to continue to operate their services, regardless of the conversion.
+
+**(02:12:12)**
+
+
+
+Boulevard Houses went through a long gap — I think close to two years, probably a year and a half — of being outside the senior center. There was a gap in services there because of the location. And this is not a DFTA-funded program, but nevertheless it is under RAD PACT. The services, when they were moved to the building that they were moved to, were obviously in an apartment. In a situation like that, what is NYCHA doing to assist those particular entities that are in the community center to get the services back? Has there been a conversation with the RAD PACT partner about what is going on? Because sometimes it feels as though they are just forgotten.
+
+**(02:13:03)**
+
+
+
+No, they are definitely not forgotten. Our intent is always to ensure continuity of services and programs, whether it is a senior center or another community facility. There are situations where we have to have a relocation or a break in service in order to do the important modernization work that the buildings are undergoing. So we are replacing full plumbing, electricity, things like that. We have to shut down services to a building, and that would involve relocating a program during that construction period. When we are relocating our program, we are working closely with the City agency, whether it is Aging or DFTA, and the providers to identify alternative locations for that program to make sure that the residents are still able to benefit
+
+**(02:13:48)**
+
+
+
+from it during the construction period. And in each deal, I
+
+**(02:13:52)**
+
+
+
+mean, are they modeled after the same structure between the community center from each RAD PACT program? Or are the deals normally shaped the same, or
+
+**(02:14:06)**
+
+
+
+no, they are not. They are very different. Okay. How many NYCHA developments have been rehabbed? Well, sorry. How many PACT developments that have been converted have been rehabbed? I have to look at the 28. How many have had rehab going through renovation?
+
+**(02:14:36)**
+
+
+
+I will have to get you that number. I do not have that available today.
+
+**(02:14:39)**
+
+
+
+Is that part of the agreement?
+
+**(02:14:42)**
+
+
+
+So was that one of the requirements? It is not required, but it is always our intent to improve the community spaces alongside our residential apartments. We understand the importance of that, so we work to include the scope of work for those centers as part of the overall comprehensive modernization of the site. However, it really is deal-specific as to what the deal can cover in terms of the cost of those renovations. For example, the Section 8 funding cannot be used to cover the cost of the community center. So we have to rely on City subsidy to cover the costs of community spaces. It really depends on how much funding the project can support in order to determine how much work we can do in the centers.
+
+**(02:15:27)**
+
+
+
+So are there centers or community centers that have not been rehabbed?
+
+**(02:15:34)**
+
+
+
+Or have not received a full rehab? I believe so, but I will get you those
+
+**(02:15:38)**
+
+
+
+numbers. Okay. So how is the RAD PACT partner then dealing with the needed investments in those particular centers? Are they just allowed to just exist?
+
+**(02:15:53)**
+
+
+
+They would continue to make the repairs in order to ensure continuity of services. The RAD PACT partner would be responsible for making those repairs. As the new landlord, they would be responsible for making the repairs in the centers.
+
+**(02:16:06)**
+
+
+
+Okay. Yeah, that is really interesting that it is not a requirement to rehab these centers, because obviously you are rehabbing the apartments. It would make sense that you would rehab the centers, just like any other commercial spaces that would be part of the NYCHA development. They are always included in our scope at the start. However, again, the resources that are required to do these projects mean that we do not have enough funding to do a full scope for the centers. Our priority is the apartments.
+
+**(02:16:39)**
+
+
+
+Okay. And then what about when it comes to a conversion being done — what happens to capital funds allocated to the NYCHA development that were approved by the Council for that site, if that development then transitions to RAD PACT? What happens to those funds? So similar to what we said before on community spaces, each PACT site is different and eligibility for capital improvements varies between the sites, so it needs to be determined on a case-by-case basis. We will take a look at what was allocated, what the need is, and we will work together to try to ensure that those funds can go to the site.
+
+**(02:17:22)**
+
+
+
+But we cannot guarantee. I mean, obviously there are converted developments where there should be a track record, or at least something that already exists to show how you have dealt with situations where monies have been allocated. I just want to make sure that these centers are not losing funding when a conversion takes
+
+**(02:17:44)**
+
+
+
+place. Yeah, I mean, it does depend — it is done on a case-by-case basis. So if there is a renovation that is being funded because money has been allocated and the work has begun at the older adult center, then that work would continue and would be coordinated with the renovation work happening as part of the PACT conversion. If the funding was allocated but the project has not yet begun, then on a case-by-case basis we would work with the City Council member or whoever the funder was for that work to determine whether that funding should continue to be allocated for that center as part of the conversion, or whether it should be repurposed for another project in our
+
+**(02:18:24)**
+
+
+
+Section 9 portfolio. So there is a possibility that the center could actually lose funding due to a conversion that is supposed to help the development. And keep in mind too that you said it is a possibility that there may not be enough
+
+**(02:18:45)**
+
+
+
+funding to do the rehabs and the centers are not being taken into consideration either. Everything — all of the above — anything is possible, but our intent is to always work to leverage all of the resources we have for the benefit of our properties, both community and residential. We cannot guarantee that no site has ever lost money, but that is definitely not something we would ever like to see happen. So we work with the City Council, we work with OMB, we try to make these deals work as best as we can. But again, it depends on the scope and the timing of the funding in comparison to when the project is going through
+
+**(02:19:21)**
+
+
+
+construction. Has there been any situation where funding has been taken away or lost? I would have to get back to you on that.
+
+**(02:19:30)**
+
+
+
+Can you get us those numbers? We want to look at that. I will see if we have that. In the past, NYCHA has stated that PACT partners and providers sign lease agreements that assign repair responsibilities. How many of these lease agreements are in
+
+**(02:19:58)**
+
+
+
+effect? So we do encourage the providers and the PACT partners to work together to finalize a lease agreement. There are only a handful in place right now. It is not a requirement that the provider sign the agreement, but we think it is good business practice and we encourage it. We have shared a template that we have worked on with
+
+**(02:20:19)**
+
+
+
+them, so we think it is an important tool, but it is not required. We do have a handful already.
+
+**(02:20:27)**
+
+
+
+Does NYCHA monitor compliance with these agreements, or whatever agreement they come to? Does NYCHA monitor
+
+**(02:20:36)**
+
+
+
+those? We are not a party to those agreements, so
+
+**(02:20:40)**
+
+
+
+when do you provide oversight?
+
+**(02:20:43)**
+
+
+
+We provide oversight of the PACT program, so if there are issues that are escalated about an older adult center, we would look at those issues. When issues get escalated, we take a look at them and we work together with the provider. But the specific components of the agreement are not monitored by NYCHA. There is no oversight over those different components.
+
+**(02:21:08)**
+
+
+
+We are just not a party to that agreement. How many disputes have been reported?
+
+**(02:21:18)**
+
+
+
+I do not have information on any. Can you get us those numbers? We want to look at the disputes. I will see if we have that
+
+**(02:21:25)**
+
+
+
+information. Okay. And I am going to turn this back to my chair. I think I had one more question. Oh — are there any surveys taken from these particular centers that have been converted over to RAD PACT, just to get a sense of whether their experience has been good or bad?
+
+**(02:21:50)**
+
+
+
+We have not taken a survey of it yet on the New York City Aging side, but I can tell you that having visited some of the recently converted sites, the older adults were thrilled. It is a much enhanced environment. Early on, you mentioned some of the complaints — you know, councils having floorboards coming up and holes in the ceilings and those types of things. At some of the sites she has visited, the environment is greatly enhanced by the RAD PACT program. And I will say that as we are on our tour, the RAD PACT manager, whoever it is for that particular site, has also joined us on the tour. They seem very invested in making sure that they are protecting the property and also providing a great environment for the older adults. So thus far we are very pleased with what we have seen.
+
+**(02:22:43)**
+
+
+
+It would be nice if you could survey them. I would love to hear what they have
+
+**(02:22:47)**
+
+
+
+to say. Absolutely. Thank you.
+
+**(02:22:50)**
+
+
+
+Thank you. I have some questions about the budget. A large amount of City capital funding that NYCHA receives goes towards lump sum projects such as lead abatement, which was funded in the fiscal year 2027 adopted budget. Other examples of these are asbestos abatement, comprehensive approach to mold, general construction and building improvement. We want to know which, if any, large portions of capital funding are being used to facilitate repairs in older adult centers.
+
+**(02:23:33)**
+
+
+
+Thank you, CM. For the most part, those line items you are referencing are for our apartments and not for community centers. As I mentioned earlier, the community centers primarily benefit from direct allocations from elected officials and the Council, or state or federal partners. They are not part of our capital plan.
+
+**(02:23:56)**
+
+
+
+So even when you get the money, you know, that is not going to improve any senior center.
+
+**(02:23:59)**
+
+
+
+Even though it is in the same building — you are on the second floor, you will not do the first floor. The center does obviously benefit from work we are doing on our buildings. If we are repairing our roofs, if we are repairing our heating systems, if we are doing building-wide replacement of plumbing stacks, centers in those buildings would benefit from it. But those funding lines that you mentioned are primarily for the benefit of our
+
+**(02:24:24)**
+
+
+
+apartments. Okay. Now, will you guys do anything for the community center? Yeah, I
+
+**(02:24:30)**
+
+
+
+can add to that. So those are, as was mentioned, the direct allocations from City Council members and other elected officials going directly to older adult centers for comprehensive renovations. We have completed seven of those, primarily City discretionary funded, in the last year and a half. We have 16 active projects with a total budget of $57 million, and we have six planned that are currently in discussion around funding. So across those completed, active and planned, that covers about 30 of our centers currently in our portfolio. But that is separate from the City funding lines that you mentioned.
+
+**(02:25:20)**
+
+
+
+Okay. In the FY27 executive budget, the administration added $20 million in FY27 to the FY34 critical repair initiative and $10 million over this year and next year to address long-outstanding mold and leak
+
+**(02:25:38)**
+
+
+
+complaints. Is this money
+
+**(02:25:40)**
+
+
+
+able to be used for older adult centers?
+
+**(02:25:45)**
+
+
+
+This type of repair... those allocations, which we are very grateful for, are significant funding that is going to help us make progress on old repairs — both mold and leaks and others in apartments. So in NYCHA's budget there is nothing allocated to older adult centers. The older adult center allocations are the discretionary allocations of the elected officials. We are focused primarily — our priority is to resolve conditions in resident apartments, and we are putting our funding towards those priorities right now.
+
+**(02:26:24)**
+
+
+
+So that does not make sense to me. You said in the beginning of your testimony, you said we are going to do the repairs — like some senior centers have some leaks. Now you say we have money, we...
+
+**(02:26:36)**
+
+
+
+Let me clarify. CM, repairs are different from capital improvements. The funding that you are talking about right now are primarily capital improvements. The mold and leaks and the critical repairs initiatives are special allocations we received from this administration to focus on very old apartment conditions, and those are repairs. The other pots of funding you were talking about were capital improvements. So we will continue to respond to repairs in older adult centers when we get the work orders — we respond to them — but we do not have a specific funding source dedicated to that.
+
+**(02:27:12)**
+
+
+
+Repair... so you can do the repair for the older adult senior center, but you cannot do repair for Vladmir Garden... Latimer Gardens?
+
+**(02:27:22)**
+
+
+
+It requires a capital improvement. It is not a matter of just fixing a leak. It is leaking from the roof. The roof needs to be repaired and that is a significant capital project. We are working with funders right now to hopefully get funding for that roof capital.
+
+**(02:27:37)**
+
+
+
+If they are leaking, you repair it right away. It should not become a huge issue. That is always happening.
+
+**(02:27:44)**
+
+
+
+We always get complaints all the time. Yes, we have significant infrastructure challenges. We will repair a leak and the leak will come back in a different part of the pipe, or patch up the roof. But what we are talking about is a roof that is probably past its useful life and needs a capital project — a new roof — not just continuing to patch and band-aid the old holes in that roof. That is why the leaks keep coming back.
+
+**(02:28:10)**
+
+
+
+Okay. There are no plans... every 20 or 30 years the roof has been up. Unfortunately, NYCHA's apartments, let alone their older adult centers, are not capitalized with ongoing funds. So who is responsible for that — the federal, state or city? I would say all of the above. And what is the capital budget allocated to NYCHA this year?
+
+**(02:28:41)**
+
+
+
+DFTA does not have a capital budget.
+
+**(02:28:43)**
+
+
+
+It is something... because we do not affect any capital projects on our own. The projects that we have completed or are in consultation with have come from funding that comes from either elected officials or discretionary sources. I mean, the improvements — you guys, the City gave the money. How much are you guys allocated to NYCHA-related capital? As I mentioned, we are only covering minor repairs, so it would come through the budgets at the individual site for us to be able to repair something that is very, very minor. If it is larger than that, then we are working on projects that have been funded separately.
+
+**(02:29:28)**
+
+
+
+Okay, thank you. Let us switch gears. We have some questions about Int 1083-2026.
+
+**(02:29:34)**
+
+
+
+What financial support does DFTA currently offer older adults in New York City? Are there any programs currently? Well, we have several programs that help train our older New Yorkers and provide assistance to them for long-term care planning and things like that, as you mentioned, that can help them to protect their funds in retirement and also just to protect them from being defrauded and scammed and so on. So we do have some of those programs available. We do also agree with the intent of having a financial literacy adviser at every one of the sites. We just need to review the implications of that — what would it take to actually provide that at all of the sites and what would be the cost.
+
+**(02:30:25)**
+
+
+
+Are the existing case managers already equipped to assist older adults with financial concerns?
+
+**(02:30:31)**
+
+
+
+And would they assume the role of financial literacy advisers, or would it be passed on?
+
+**(02:30:38)**
+
+
+
+Could they have passed this... would additional training be required, or would you hire new staff? In my opinion, at this...
+
+**(02:30:46)**
+
+
+
+...moment, while we are still negotiating and reviewing, I would say it probably would be someone new because, you know, finances are a very specific discipline. It is not something that normally a case manager would be well versed in. They could help you to be able to find certain programs that older adults could sign up for and services across the City, but typically that is not the role of a case manager.
+
+**(02:31:10)**
+
+
+
+What does the timeline for implementing this Bill look like? And financially, how much is it going to increase costs for each site?
+
+**(02:31:21)**
+
+
+
+We have some preliminary numbers that put us at about between $2 and $3 million to roll it out across all sites. They are not confirmed and we are still reviewing. So as you mentioned, imagining — that is exactly where we are right now. We are imagining what it would take for us to be able to do this.
+
+**(02:31:43)**
+
+
+
+If you are not able to have a dedicated person at each center, is there any other way you can help those...
+
+**(02:31:52)**
+
+
+
+...seniors? Perhaps. We do provide training, as I mentioned before, so it could be possible to have someone that could move between sites. As I mentioned about the mobile geriatric mental health services that we are looking at, there could be a way to have a certain number of centers share a financial literacy adviser. So we have to review all options and find out what would be the most responsible thing for us to do.
+
+**(02:32:20)**
+
+
+
+Okay. CM Banks has a couple more questions. Sure.
+
+**(02:32:26)**
+
+
+
+Just on the side of capital... I know from a briefing that I had with the capital improvements team at NYCHA, it was suggested that — well, we know that NYCHA is pretty slow when it comes to, I guess, drawing down money or making capital improvements. Sometimes it could take years. It was suggested that we give monies to the sponsors. Is that something you would suggest, or do you think it would work better since NYCHA is deficient in making those capital investments? For the older adult centers, for new substantial capital work, NYCHA — you know, if it is a major capital renovation to the space, upgrades to the building system...
+
+**(02:33:19)**
+
+
+
+NYCHA would prefer to manage that work. Any capital work...
+
+**(02:33:25)**
+
+
+
+...is necessarily typically an average of four years because there is an extensive design process. But it seems like it is taking longer than even the timeline that you just mentioned, and somebody's... you know, somebody would do repairs and the things that are needed right away.
+
+**(02:33:42)**
+
+
+
+And some of these centers, it has been going on for years on top of years. If NYCHA is not able to do it, would it be okay to then give it to a sponsor, or the sponsor of the development, for that particular...
+
+**(02:34:00)**
+
+
+
+...incentive? That is on the table. We are happy to work with you to identify the best way forward. Our providers are not able to manage capital work themselves.
+
+**(02:34:10)**
+
+
+
+And so NYCHA is the one that manages the work once full funding is...
+
+**(02:34:17)**
+
+
+
+...okay. The reason why I say that is because I know that it was said that the accessibility — a lot of the sites are not ADA accessible. Is that a project where you think we would be better served if we were able to give the monies to the sponsor? It will be done much quicker and more efficiently.
+
+**(02:34:35)**
+
+
+
+At this level, we are seeing that older adults should be able to have access to these government-funded...
+
+**(02:34:43)**
+
+
+
+...centers. If the work that is needed rises to the level of capital work — so making, you know, the bathrooms or other spaces wheelchair accessible, or accessible in other major ways that require changes to the floor plan or major structural work within the center — that is work that NYCHA would manage. If it is a ramp outside the center, that is something perhaps a provider could cover.
+
+**(02:35:12)**
+
+
+
+Thank you. And we would like to see more centers in NYCHA facilities get fixed. We do not like to hear anything is leaking or something like that. Thank you.
+
+**(02:35:29)**
+
+
+
+Everyone, thank you for the testimony. Thank you. Thank you.
