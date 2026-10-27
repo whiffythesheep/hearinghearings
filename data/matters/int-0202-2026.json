@@ -16,7 +16,8 @@
   "Susan Zhuang",
   "Harvey D. Epstein",
   "Chris Banks",
-  "Kamillah Hanks"
+  "Kamillah Hanks",
+  "Sandra Ung"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -59,6 +60,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15287921&GUID=4F7A3F46-5EE5-4E01-9EFE-7BE1BAD40C5F"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093561&GUID=26DDB8BC-CC38-4F35-A74B-0DE74052D147"
   }
  ],
  "fiscal": {

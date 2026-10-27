@@ -7,7 +7,9 @@
  "status": "Committee",
  "sponsors": [
   "Oswald J. Feliz",
-  "Shanel Thomas-Henry"
+  "Shanel Thomas-Henry",
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,6 +27,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084236&GUID=8C6F9AF4-28E8-4352-B191-7BFA7537772F"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091345&GUID=335B269F-9FD1-4E23-AA41-32F7DEAF1E6E"
   }
  ],
  "fiscal": null,

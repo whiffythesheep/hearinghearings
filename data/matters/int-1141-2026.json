@@ -8,7 +8,8 @@
  "sponsors": [
   "Crystal Hudson",
   "Phil Wong",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -26,6 +27,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084308&GUID=D687E3FD-3F20-4B37-8CDB-9DD98FDD0560"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091350&GUID=48D0675F-2EB5-4542-B080-F020CAA0CAFD"
   }
  ],
  "fiscal": null,

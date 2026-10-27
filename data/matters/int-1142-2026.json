@@ -9,7 +9,9 @@
   "Crystal Hudson",
   "Oswald J. Feliz",
   "Joann Ariola",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -27,6 +29,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084307&GUID=B5C61841-B5BE-4A9B-9683-F2087D53C899"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091351&GUID=D0DD8A39-3D00-49EC-A6D4-B1A26B881934"
   }
  ],
  "fiscal": null,

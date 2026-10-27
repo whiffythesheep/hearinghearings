@@ -4,11 +4,30 @@
  "legistar_id": "8258059",
  "type": "Oversight",
  "title": "Oversight - The Organizational Strategy of the Department of Probation.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091496&GUID=26E00FEF-B22A-4F17-AEE5-079EB7A6C357"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-26",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-26",
+   "body": "Committee on Criminal Justice",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8258059&GUID=12D2AB0A-F3A0-4604-9501-6ACB14C742FA"
 }

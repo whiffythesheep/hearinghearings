@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Gale A. Brewer",
-  "Justin E. Sanchez"
+  "Justin E. Sanchez",
+  "Lincoln Restler"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,6 +26,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084242&GUID=F70ECB3B-6964-491B-8BEC-40715068FB4F"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091339&GUID=FE314AAA-D099-4337-AF1F-8DA1E8523B55"
   }
  ],
  "fiscal": null,

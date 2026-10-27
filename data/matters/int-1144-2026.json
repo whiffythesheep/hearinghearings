@@ -4,11 +4,12 @@
  "legistar_id": "8293670",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a report regarding an analysis of gender-based violence in the city",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Rita C. Joseph",
   "Amanda C. Farías",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Mercedes Narcisse"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -26,10 +27,70 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16077076&GUID=5327ED9F-FD71-4E85-A221-2497E1EBD5BB"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091356&GUID=A496F440-5FD7-418D-8DD7-8A5906C1770D"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094463&GUID=F7AB8093-434B-4CE7-BA9A-3E04A6CC2CB7"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094553&GUID=D21C3D01-74CF-4BAF-B6B3-0399B9447730"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094463&GUID=F7AB8093-434B-4CE7-BA9A-3E04A6CC2CB7"
+ },
  "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Criminal Justice",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

@@ -7,7 +7,10 @@
  "status": "Committee",
  "sponsors": [
   "Shaun Abreu",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Gale A. Brewer",
+  "Mercedes Narcisse",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,10 +18,38 @@
    "label": "Res. No. 687",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084221&GUID=A7D08AA5-1746-4825-809D-B7AF9CAEBA95"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091336&GUID=102D8631-BC3B-4EBC-B6A2-FE3BBF8B30D6"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094016&GUID=7B759090-4027-4F61-81B4-391FDBC05CEC"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

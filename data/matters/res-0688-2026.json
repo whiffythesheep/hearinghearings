@@ -6,7 +6,9 @@
  "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.9891-B/A.10899-C, legislation regulating cryptocurrency kiosks and establishing statewide consumer protections against fraud and financial loss",
  "status": "Committee",
  "sponsors": [
-  "Gale A. Brewer"
+  "Gale A. Brewer",
+  "Lincoln Restler",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -14,6 +16,11 @@
    "label": "Res. No. 688",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084226&GUID=54C277B9-1840-472F-A756-02B91C9CD517"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091341&GUID=B15F8C6F-4001-4838-833F-4F4CD335F848"
   }
  ],
  "fiscal": null,

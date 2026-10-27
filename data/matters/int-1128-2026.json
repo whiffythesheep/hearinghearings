@@ -20,11 +20,6 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
-   "label": "Memorandum in Support",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051072&GUID=3CB446C6-85FE-469B-B698-77E8FB0074FD"
-  },
-  {
    "label": "Summary of Int. No. 1128",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051069&GUID=063B2AAF-6AF4-49F4-A38D-1CA45A665723"
@@ -35,12 +30,53 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051068&GUID=1CF0FAD9-02BC-44ED-9849-B5A72E8CA2B4"
   },
   {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051072&GUID=3CB446C6-85FE-469B-B698-77E8FB0074FD"
+  },
+  {
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061795&GUID=460D81D3-4F90-49E8-91B4-7E8F1BA59E23"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091899&GUID=3E058AB8-A72E-4207-BD89-E84E24000D80"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092559&GUID=1713B1C4-A934-4ED9-8C4A-6001DAC8EA7C"
+  },
+  {
+   "label": "Committee Report 10/28/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095893&GUID=27A4E5DF-9304-4853-92D1-6F385DBDB838"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092559&GUID=1713B1C4-A934-4ED9-8C4A-6001DAC8EA7C"
+ },
  "history": [
   {
    "date": "2026-10-08",

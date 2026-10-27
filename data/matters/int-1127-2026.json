@@ -3,7 +3,7 @@
  "slug": "int-1127-2026",
  "legistar_id": "8281464",
  "type": "Introduction",
- "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to amending and eliminating certain reporting requirements, to amend section 5 of such charter, relating to an annual statement to the council, to repeal section 17 of such charter, relating to a strategic policy statement, to repeal section 20-e of such charter, relating to a committee on city healthcare services, to amend subdivision g of section 20-m of such charter, relating to a report identifying critical gaps in mental health care, to repeal section 1054 of such charter, relating to a voter assistance advisory committee, to amend subdivision c of section 2301 of such charter, relating to membership of the New York city taxi and limousine commission, to amend subdivision a of section 2302 of such charter, relating to an annual report by the New York city taxi and limousine commission, to amend paragraph 6 of subdivision b of section 2903 of such charter, relating to a r...",
+ "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to amending and eliminating certain reporting requirements, to amend section 5 of such charter, relating to an annual statement to the council, to repeal section 17 of such charter, relating to a strategic policy statement, to repeal section 20-e of such charter, relating to a committee on city healthcare services, to amend subdivision g of section 20-m of such charter, relating to a report identifying critical gaps in mental health care, to amend subdivision c of section 2301 of such charter, relating to membership of the New York city taxi and limousine commission, to amend subdivision a of section 2302 of such charter, relating to an annual report by the New York city taxi and limousine commission, to amend paragraph 6 of subdivision b of section 2903 of such charter, relating to a report on the condition of all bridges and tunnels operated and maintained by the department...",
  "status": "Committee",
  "sponsors": [
   "Nantasha M. Williams",
@@ -18,6 +18,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1127-B",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095048&GUID=F33D24A5-1C2D-42BE-9C5E-4BEAE9F57DF8"
+  },
   {
    "label": "Summary of Int. No. 1127-A",
    "kind": "Summary",
@@ -44,12 +49,58 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061794&GUID=6FDB5994-8F8F-4002-986F-E3469E57BF66"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091898&GUID=27100D20-7B3D-4B9A-A33B-335B7D880046"
+  },
+  {
    "label": "Proposed Int. No. 1127-A - 10/19/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075918&GUID=93CE6F63-A9A1-413E-987A-7B75CD4E75D8"
+  },
+  {
+   "label": "Proposed Int. No. 1127-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092558&GUID=6D17CACE-B216-4896-9611-890C8FA7B787"
+  },
+  {
+   "label": "Proposed Int. No. 1127-B - 10/26/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095047&GUID=CF168E7D-4105-426C-AC3F-1E260584137F"
+  },
+  {
+   "label": "Committee Report 10/28/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095892&GUID=FE8F0982-FB29-4DF8-ABFD-743B61F0F1BB"
+  },
+  {
+   "label": "Proposed Int. No. 1127-B Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16096585&GUID=68D6483F-872B-47CF-9179-6568CF41C0BA"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 1127-B Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16096585&GUID=68D6483F-872B-47CF-9179-6568CF41C0BA"
+ },
  "history": [
   {
    "date": "2026-10-08",

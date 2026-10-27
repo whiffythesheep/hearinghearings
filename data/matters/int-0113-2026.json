@@ -1,0 +1,101 @@
+{
+ "file_number": "Int 0113-2026",
+ "slug": "int-0113-2026",
+ "legistar_id": "7861685",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study of dangerous driving",
+ "status": "Laid Over in Committee",
+ "sponsors": [
+  "Selvena N. Brooks-Powers",
+  "Farah N. Louis",
+  "Gale A. Brewer",
+  "(in conjunction with the Brooklyn Borough Presiden"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 113",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176189&GUID=21D9E61C-5B48-4542-B79A-6F6676896DE8"
+  },
+  {
+   "label": "Int. No. 113",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15176190&GUID=ADC6FFF0-0B3C-447F-A7F4-85BF68495983"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251470&GUID=CEF00270-8880-4DEA-B12E-3CB0324E38D9"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252165&GUID=C351A297-FE4F-4D26-A949-0219575017D9"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093408&GUID=EFFD3EF5-7AE8-498A-B9A4-BBA5711F84D1"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094012&GUID=F35F364D-5737-4ED5-BF4C-77C639158C95"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094530&GUID=76EF89B6-2EE5-4F2F-83B5-DC1F99C0E397"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094530&GUID=76EF89B6-2EE5-4F2F-83B5-DC1F99C0E397"
+ },
+ "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861685&GUID=B0B5C209-3285-4620-9811-39795CE3973C"
+}

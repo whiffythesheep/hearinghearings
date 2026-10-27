@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0046-2026",
+ "title": "Law to let parents request autism warning signs on streets",
+ "summary": "This bill would require the Department of Transportation to install a warning plaque alerting drivers to the presence of a child with autism, upon request by a parent or legal guardian. The agency would have to install the sign within two weeks of a verified request and would remove it once the child moves away, turns 18, or the family requests removal. The bill sets rules for prioritizing requests and determining sign placement.",
+ "model": "claude-sonnet-5",
+ "input_hash": "ada247e1d8d7eac9"
+}

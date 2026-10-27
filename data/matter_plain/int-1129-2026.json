@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1129-2026",
- "title": "Law requiring agencies to confirm compliance with legal deadlines",
- "summary": "This bill would require city agency heads to notify the Council within five days after completing an operational requirement mandated by the charter, administrative code or local law. Agencies would send the Council an attestation of compliance in a format set by the Council speaker and publish it in the City Record. The law would take effect immediately.",
+ "title": "Law to set rules for agencies reporting task completion",
+ "summary": "This bill would amend the city charter to create a standard procedure, set by the Council speaker, for how city agencies attest that they have completed operational requirements mandated by local law. Agencies would have to transmit these attestations to the Council and publish them in the City Record within 5 days of completion. The law would take effect immediately upon passage.",
  "model": "claude-sonnet-5",
- "input_hash": "29a805eefd589ad0"
+ "input_hash": "25fed3694e552b9a"
 }

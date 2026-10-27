@@ -1,0 +1,88 @@
+{
+ "file_number": "Int 0629-2026",
+ "slug": "int-0629-2026",
+ "legistar_id": "7879403",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of teams to review the population of youth held in secure detention facilities",
+ "status": "Committee",
+ "sponsors": [
+  "Lincoln Restler",
+  "Althea V. Stevens",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 629",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15292380&GUID=DAA84EF7-6EA2-4636-8AA2-EBA2220EA8C9"
+  },
+  {
+   "label": "Int. No. 629",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15292381&GUID=58BFDBE5-EDE6-4B84-8CA3-B9191BAC5BF4"
+  },
+  {
+   "label": "February 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15729568&GUID=A946C678-6A5D-4F90-9661-7AC05E1CC1AB"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 2-12-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302566&GUID=3953DF86-078C-4A43-993D-2421E7F09A72"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - February 12, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092363&GUID=55F7F6EE-90FF-49A5-A75A-DD25485F4E93"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092991&GUID=3F0E1B9A-4647-4A58-B41C-06D80BC9CB92"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094592&GUID=CE8FE8E2-D666-4D2C-94DC-30A475A650E5"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092991&GUID=3F0E1B9A-4647-4A58-B41C-06D80BC9CB92"
+ },
+ "history": [
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-02-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7879403&GUID=75C3C9CE-BF90-4BE0-8947-F41A9A32B866"
+}

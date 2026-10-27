@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Crystal Hudson",
-  "Oswald J. Feliz"
+  "Oswald J. Feliz",
+  "Mercedes Narcisse"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +16,11 @@
    "label": "Res. No. 692",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084305&GUID=15366122-6779-4C63-9F72-A60CA1E63C21"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091354&GUID=9E512362-146C-4F7E-9E5A-1522F1CC33DE"
   }
  ],
  "fiscal": null,

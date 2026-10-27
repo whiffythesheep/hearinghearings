@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1104-2026",
- "title": "Law to inform accused youth about the legal process",
- "summary": "This bill would require the Department of Probation to give young people accused of crimes clear notices about how their case could proceed, including options to adjust the case, referrals for prosecution, presentencing reports and possible outcomes. It would also require youth to be told their rights before any intake interview with a probation officer and to receive information about legal aid organizations they can contact. The law would take effect 90 days after passage.",
+ "title": "Law to require probation to explain court process to accused youth",
+ "summary": "This bill would require the city's Department of Probation to give young people accused of crimes, and their parents or guardians, a notice explaining the criminal legal process, including how cases might be adjusted, referred for prosecution or sentenced, and listing organizations that provide legal help. It would also require probation officers to read youth their rights before an intake interview, including that their statements cannot be shared with prosecutors or used as evidence before conviction. The law would take effect 90 days after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "8bb565384b80fd07"
+ "input_hash": "943518943e4203b8"
 }

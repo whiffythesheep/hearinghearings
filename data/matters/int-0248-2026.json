@@ -4,7 +4,7 @@
  "legistar_id": "7862039",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to streamlining enrollment of eligible individuals in fair fares",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
  "sponsors": [
   "Crystal Hudson",
   "Lincoln Restler",
@@ -101,6 +101,11 @@
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930883&GUID=015A50A1-5336-4F2F-ABDD-2D78542320BA"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093618&GUID=F30CF464-2899-4220-B525-7D4638C64A6B"
   }
  ],
  "fiscal": {
@@ -118,6 +123,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881180&GUID=ADBB78D5-C73A-4D6F-9AC7-272F9C6CC52B"
  },
  "history": [
+  {
+   "date": "2026-10-26",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-10-24",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

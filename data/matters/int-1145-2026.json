@@ -7,7 +7,10 @@
  "status": "Committee",
  "sponsors": [
   "Linda Lee",
-  "Amanda C. Farías"
+  "Amanda C. Farías",
+  "Gale A. Brewer",
+  "Lincoln Restler",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,6 +28,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084350&GUID=A62938A1-3174-49EF-8730-20717718C384"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091358&GUID=7F4F7B8B-21F4-4F0C-8706-3A568F3DD4A5"
   }
  ],
  "fiscal": null,

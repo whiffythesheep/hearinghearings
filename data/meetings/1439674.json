@@ -1,0 +1,55 @@
+{
+ "event_id": "1439674",
+ "date": "2026-10-27",
+ "body": "Committee on Public Housing",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Aging",
+ "agenda_status": "Final",
+ "minutes_status": "Final",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1439674&GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2464",
+   "type": "Oversight",
+   "name": "Oversight - Older Adult Centers at NYCHA Facilities.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8258319",
+   "legistar_guid": "39AF65F7-244A-4707-A9D3-9E004E0E1290"
+  },
+  {
+   "file_number": "T2026-2464",
+   "type": "Oversight",
+   "name": "Oversight - Older Adult Centers at NYCHA Facilities.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
+   "result": "",
+   "legistar_id": "8258319",
+   "legistar_guid": "39AF65F7-244A-4707-A9D3-9E004E0E1290"
+  },
+  {
+   "file_number": "Int 1083-2026",
+   "type": "Introduction",
+   "name": "Designating financial literacy advisors to serve in older adult centers.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8237342",
+   "legistar_guid": "1644F9F6-9AC5-423C-B307-4CEDFF48CED7"
+  },
+  {
+   "file_number": "Int 1083-2026",
+   "type": "Introduction",
+   "name": "Designating financial literacy advisors to serve in older adult centers.",
+   "sponsor": "Crystal Hudson",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8237342",
+   "legistar_guid": "1644F9F6-9AC5-423C-B307-4CEDFF48CED7"
+  }
+ ]
+}

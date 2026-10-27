@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1153-2026",
- "title": "Law to require speed-limiting devices for repeat school zone speeders",
- "summary": "This bill would create a demonstration program requiring owners of vehicles that rack up 16 speeding violations in school speed zones within 12 months to install intelligent speed assistance devices that cap vehicle speed, with manual override allowed. Devices must stay installed for 12 months initially, with longer periods for repeat offenses, and failure to comply could lead to penalties or registration suspension. Device data would be deleted after the installation period and cannot be used for other purposes, with the program set to take effect May 26, 2027.",
+ "title": "Law to require speed-limiting devices for repeat speeders",
+ "summary": "This bill would require owners of vehicles found liable for 16 or more school-zone speeding violations within 12 months to install and maintain intelligent speed assistance devices that limit vehicle speed, with manual override allowed in emergencies. The mandatory installation period would start at 12 months and increase for repeat offenders, and owners generally bear the cost unless they qualify as low-income. The law would take effect May 26, 2027 and requires a report to the Council on the program's results.",
  "model": "claude-sonnet-5",
- "input_hash": "6d056087c942de40"
+ "input_hash": "37b8899c096cb331"
 }

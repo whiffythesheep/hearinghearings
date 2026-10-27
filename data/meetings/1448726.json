@@ -1,0 +1,66 @@
+{
+ "event_id": "1448726",
+ "date": "2026-10-27",
+ "body": "Committee on Children and Youth",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1448726&GUID=101E3C81-0A0C-4586-BA6A-E37FF45D1D7A&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2593",
+   "type": "Oversight",
+   "name": "Oversight - Secure Detention Conditions and Youth Incarceration Policies in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8236773",
+   "legistar_guid": "24715C9D-D44E-4267-8D63-1870F6B573F3"
+  },
+  {
+   "file_number": "Int 0447-2026",
+   "type": "Introduction",
+   "name": "Information regarding alternatives to incarceration and alternatives to detention programs for youth.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862984",
+   "legistar_guid": "F1BB3B0F-45B7-420F-87EC-00F933D2613D"
+  },
+  {
+   "file_number": "Int 0629-2026",
+   "type": "Introduction",
+   "name": "Establishment of teams to review the population of youth held in secure detention facilities.",
+   "sponsor": "Lincoln Restler",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7879403",
+   "legistar_guid": "75C3C9CE-BF90-4BE0-8947-F41A9A32B866"
+  },
+  {
+   "file_number": "Int 0977-2026",
+   "type": "Introduction",
+   "name": "Trainings regarding sexually exploited youth.",
+   "sponsor": "Farah N. Louis",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8138355",
+   "legistar_guid": "58285A6A-6017-4B4F-AC66-30E58015C3CA"
+  },
+  {
+   "file_number": "Res 0274-2026",
+   "type": "Resolution",
+   "name": "New York State Raise the Age program funding",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7879391",
+   "legistar_guid": "F3E1E482-073C-4DD4-99B0-8C5A1F55F5CA"
+  }
+ ]
+}

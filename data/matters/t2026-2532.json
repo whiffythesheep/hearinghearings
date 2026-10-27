@@ -4,11 +4,30 @@
  "legistar_id": "8201765",
  "type": "Oversight",
  "title": "Oversight - Office of Community Hiring.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16095861&GUID=468989D4-FB3E-4B13-8281-35CC554F1FB4"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Workforce Development",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-27",
+   "body": "Committee on Workforce Development",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8201765&GUID=54EAECA9-A34B-468B-8F71-E6E585EAD350"
 }

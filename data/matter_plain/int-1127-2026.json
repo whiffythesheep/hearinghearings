@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1127-2026",
- "title": "Law to streamline required City agency reports",
- "summary": "This bill would repeal several outdated City government reporting requirements and change the due dates and frequency of many others, covering topics such as mental health care gaps, taxi and limousine oversight, bridge and tunnel conditions, domestic violence, homelessness, food vending and veterans' services. It also replaces the mayor's annual statement and strategic policy statement with a revised schedule, starting with a preliminary strategic policy statement due November 1, 2026. The law would take effect immediately upon passage.",
+ "title": "Law to cut or update dozens of city reporting rules",
+ "summary": "This bill would repeal or amend 24 Charter and Administrative Code provisions that require city agencies to produce reports or studies, such as those on taxi commission complaints, bridge conditions, domestic violence, homeless deaths and pesticide use. Many requirements are repealed because their deadlines have passed or they duplicate other reporting, while others get updated due dates. The law would take effect immediately.",
  "model": "claude-sonnet-5",
- "input_hash": "1eede2f073bd43e4"
+ "input_hash": "07d6b2ea1382a5cb"
 }

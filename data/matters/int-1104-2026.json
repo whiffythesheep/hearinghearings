@@ -4,7 +4,7 @@
  "legistar_id": "8281390",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to providing youth accused of crimes with information about the criminal legal process",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Selvena N. Brooks-Powers",
   "Farah N. Louis",
@@ -36,10 +36,58 @@
    "label": "October 8, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061765&GUID=42A938DA-BAF3-4E61-8117-BA83A72DE28C"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091479&GUID=D582892A-F858-4516-B1C4-C7F88AF2652B"
+  },
+  {
+   "label": "Committee Report 10/26/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091497&GUID=7C32729E-EEA8-49B6-A7D9-8D572FAEB1FF"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091870&GUID=90F6DD9F-D47B-4307-9D5E-6C23090AC536"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091479&GUID=D582892A-F858-4516-B1C4-C7F88AF2652B"
+ },
  "history": [
+  {
+   "date": "2026-10-26",
+   "body": "Committee on Criminal Justice",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-26",
+   "body": "Committee on Criminal Justice",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-08",
    "body": "City Council",

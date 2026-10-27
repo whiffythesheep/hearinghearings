@@ -1,0 +1,98 @@
+{
+ "file_number": "Int 0447-2026",
+ "slug": "int-0447-2026",
+ "legistar_id": "7862984",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to information regarding alternatives to incarceration and alternatives to detention programs for youth",
+ "status": "Committee",
+ "sponsors": [
+  "Althea V. Stevens",
+  "Lincoln Restler",
+  "Chris Banks",
+  "Christopher Marte",
+  "Harvey D. Epstein",
+  "Lynn C. Schulman",
+  "Selvena N. Brooks-Powers",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 447",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15264215&GUID=47826B09-2F76-410A-9037-FC21245EA32E"
+  },
+  {
+   "label": "Int. No. 447",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15264216&GUID=8D913E48-91B9-4B2A-AB5D-270705EFF3D4"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251910&GUID=BE3941B4-0F11-4E12-A7B3-61AE432348B6"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252602&GUID=9731A8C2-39E0-4358-9700-206D15B4035E"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333785&GUID=AD99F15A-CCAB-43FF-9D6A-DBE170082F95"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092990&GUID=6482A5AE-281E-42B4-A68A-471AD82D7A31"
+  },
+  {
+   "label": "Committee Report 10/27/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094591&GUID=6147CA34-ED64-4B5A-BC54-0B24FDD60F58"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093887&GUID=EF22C964-B09D-480F-A2F8-BABC1AF59B36"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092990&GUID=6482A5AE-281E-42B4-A68A-471AD82D7A31"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862984&GUID=F1BB3B0F-45B7-420F-87EC-00F933D2613D"
+}

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1144-2026",
- "title": "Law to require biennial report on gender-based violence",
- "summary": "This bill would require the Office to End Domestic and Gender-Based Violence to publish a report every two years, starting in January 2028, analyzing data on gender-based violence in New York City. The report would examine disparities by race, ethnicity, sex or gender among those involved, including domestic violence complaints, arrests and outcomes. The law would take effect immediately.",
+ "title": "Law to require a biennial report on gender-based violence",
+ "summary": "This bill would require the city's Office to End Domestic and Gender-Based Violence to publish a report every two years, starting in January 2028, analyzing gender-based violence data in New York City. The report would examine disparities by race, ethnicity, sex and gender among people involved in gender-based violence incidents, including domestic violence complaints, arrests and outcomes.",
  "model": "claude-sonnet-5",
- "input_hash": "30be6877ef593207"
+ "input_hash": "39189e5f01e006fd"
 }

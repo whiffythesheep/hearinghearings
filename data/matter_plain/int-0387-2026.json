@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0387-2026",
- "title": "Law to require annual report on crime in homeless shelters",
- "summary": "This bill would require the Department of Homeless Services to publish an annual report on \"critical incidents\" in shelters, such as assault, sexual assault, domestic violence, child abuse, weapons possession, arson and theft. The report must also describe security upgrades and any agreements with the NYPD or other agencies to improve shelter security, broken down by shelter type and population. The first report would be due by July 31 each year.",
+ "title": "Law to require yearly crime reports from homeless shelters",
+ "summary": "This bill would require the Department of Homeless Services to publish an annual report on \"critical incidents\" in shelters, including assault, sexual assault, domestic violence, child abuse, weapons possession, arson and theft. The report would also cover security upgrades and any agreements with the police department or other agencies to improve shelter security, broken down by shelter type and population. As of October 2026, the City's shelter system housed over 85,000 people nightly.",
  "model": "claude-sonnet-5",
- "input_hash": "269b6f8289f4056d"
+ "input_hash": "adc594c029019326"
 }
