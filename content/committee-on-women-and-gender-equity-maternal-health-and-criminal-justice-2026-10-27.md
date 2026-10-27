@@ -1,0 +1,1647 @@
+---
+committee: "Committee on Women and Gender Equity | Committee on Criminal Justice"
+committee_slug: committee-on-women-and-gender-equity
+title: "Maternal Health and Criminal Justice"
+date: 2026-10-27
+slug: committee-on-women-and-gender-equity-maternal-health-and-criminal-justice-2026-10-27
+duration: "2hrs 27m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261027-100933.mp4"
+viebit_hash: "8yxI8iWWxzpe2fQO"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452326&GUID=E7CBFA83-D27B-48B3-AB99-513B519AC42C&Search="
+chairs: "Amanda C. Farías | Selvena N. Brooks-Powers"
+members: "Shirley Aldebol, Jennifer Gutiérrez, Kayla Santosuosso, Lynn C. Schulman"
+---
+
+Summary
+
+Meeting Overview
+
+The joint hearing of the Committees on Women and Gender Equity and Criminal Justice examined maternal health care for pregnant and postpartum people held in New York City jails, with testimony from Correctional Health Services (CHS), the Department of Correction (DOC), the Board of Correction (BOC), and Public Advocate Jumaane Williams. The hearing also considered Int 0902-2026, which would require written mental health protocols for pregnant and postpartum people in DOC custody; a companion bill requiring a report on gender-based violence; and three resolutions calling on the State Legislature to recognize postpartum mental illness as a sentencing mitigating factor, prohibit use of restraints during labor and custodial interrogation, and allow postponement of court proceedings in late pregnancy.
+
+CHS described a reasonably comprehensive intake and prenatal care system at the Rose M. Singer Center, including pregnancy testing at intake, OB-GYN referrals, coordination with Elmhurst Hospital for delivery and high-risk cases, telehealth joint visits, and mental health screenings. CHS stated it supported the intent of Int 0902-2026 but wanted to ensure the bill did not legislate clinical decision-making and flagged concerns about a provision requiring identification of postpartum status when not voluntarily disclosed, citing patient privacy and the voluntary nature of clinical relationships. DOC highlighted its doula program through the Caribbean Women's Health Association and its residential nursery at Rose M. Singer Center, where mothers can stay with infants up to the child's first birthday. Both agencies reported zero incidents of restraint use on pregnant or postpartum individuals in the past three to six years.
+
+The questioning exposed several serious gaps. Non-production rates for prenatal OB appointments were high across all three years examined, reaching 53 percent for on-island appointments in 2025. Pregnant people are generally housed in general population rather than dedicated maternity housing, and the Board of Correction confirmed that two pregnant women were present in a housing unit where a chemical agent was deployed. The nursery application process was described as slow, paper-based, and using outdated language, with one woman reporting her application took many months to be approved. The sole prenatal nurse position has been vacant for over a month. Chair Farías raised pointed concerns about the borough-based jail plan, noting that women are projected to be concentrated in the Queens Detention Complex alone, undermining the geographic-connection rationale that justified the entire borough-based model. DOC could not confirm whether this could be revisited at the design stage.
+
+The hearing also surfaced accountability gaps around restraints and deadlocking. DOC reported zero restraint incidents involving pregnant people, yet members questioned whether the case of a woman who gave birth in a Brooklyn courtroom would even appear in DOC data, given pre-arraignment custody sits with NYPD. Chair Brooks-Powers pressed DOC on deadlocking, following up from a September hearing where DOC's general counsel denied it was occurring despite ongoing litigation and Legal Aid testimony to the contrary. DOC was unable to confirm whether it had received new deadlocking allegations in 2025 or 2026 and could not explain the function of white paper tags on cell door switchboards documented by the Department of Investigation. The Board of Correction's executive director noted the BOC's monitoring capacity is constrained by medical privacy law and advocated for expanded records access, alternatives to incarceration for pregnant people, a dedicated dormitory for all pregnant people in custody, and an updated nursery application process.
+
+Numbers
+
+- 52 pregnant individuals were in DOC custody in calendar year 2025, as reported by CHS.
+- 5 women were either pregnant or receiving postpartum care in DOC custody at the time of the hearing, plus one mother and one infant in the nursery.
+- 8 infants have lived in the Rikers Island nursery since 2022.
+- 15 babies were born to people in DOC custody between calendar years 2023 and 2025 combined, all transported to Elmhurst Hospital for delivery.
+- 15 rooms are available in the Rose M. Singer Center nursery, with a maximum capacity of approximately 15 mother-infant pairs.
+- 482 women were in DOC custody at the time of the hearing, against a borough-based jail plan capacity of approximately 450.
+- 8% of the total CHS patient population is women.
+- 82% of women in CHS care are enrolled in mental health services.
+- 47% of women in CHS care are diagnosed with serious mental illness.
+- 34% of women in CHS care have an opioid use disorder.
+- 90% of NYC jail admissions are people of color, who comprise 52% of the general population.
+- Black women are three times more likely than white women to die from pregnancy-related causes and three times more likely to suffer severe complications such as fibroids.
+- 53% of on-island obstetric appointments were non-productions in calendar year 2025; 40% of off-island (Elmhurst Hospital) appointments were non-productions in the same year.
+- 37% of on-island and 43% of off-island obstetric appointments were non-productions in calendar year 2024.
+- 27% of on-island and 69% of off-island obstetric appointments were non-productions in calendar year 2023.
+- Doulas provided 426 service hours from January to June 2025, compared to 148 service hours from January to June 2024.
+- The doula program costs approximately $50,000 per year, totalling approximately $200,000 over four years.
+- Two doulas are currently contracted, attending the facility at least twice a week for at least four hours per session, with frequent additional visits.
+- The doula program served 20 women and provided over 400 hours of support through the current year at the time of the hearing.
+- The sole prenatal nurse position has been vacant for over one month; onboarding once a candidate is identified takes six to eight weeks.
+- Zero restraint incidents involving pregnant or postpartum individuals were reported in DOC data over the past three to six years.
+
+Action Points
+
+- DOC to confirm in writing whether the restraint policy document can be shared with the committee and to provide the text of the written restraint policy for pregnant and postpartum individuals.
+- CHS to clarify with committee counsel the provision in Int 0902-2026 requiring identification of postpartum status when not voluntarily disclosed, and propose alternative approaches that protect patient privacy.
+- DOC to follow up with the committee on whether pregnant women can be accommodated at more than one location in the borough-based jail design, beyond the Queens Detention Complex.
+- DOC to follow up with the committee on whether staff are permitted to place white paper tags on cell door switchboards, whether any staff have been disciplined for doing so, and whether an audit has confirmed the tags are no longer in use.
+- DOC to provide the committee with any recent allegations of deadlocking or involuntary individualized lock-ins in any housing unit in 2025 or 2026.
+- DOC to confirm the current purpose and policy governing white paper tags on cell door panels and to provide a written response to the committee.
+- BOC to follow up with the committee on whether any young adults aged 18 to 21 are currently pregnant or in the nursery program in DOC custody.
+- BOC to follow up with the committee on the number of women who gave birth while in DOC custody in the prior year, and whether stillbirths are included in that count.
+- BOC to follow up with the committee on the typical time elapsed between onset of labor and arrival at Elmhurst Hospital for individuals giving birth while in DOC custody.
+- DOC to explore whether the nursery application can be digitised and translated into additional languages beyond English and Spanish.
+- DOC and BOC to review and update the nursery application to remove outdated language, eliminate redundant questions, impose strict deadlines on the interdisciplinary review panel, and improve accessibility for people with limited English proficiency or low literacy.
+- CHS to fill the vacant prenatal nurse position, currently open for over one month, and to report timeline to the committee.
+- BOC to send the committee a link to the publicly available doula working group report and its recommendations.
+- DOC to provide the committee with data on the number of pregnant people in custody by year broken down by year, including postpartum individuals, using the monthly census where available.
+- Chair Farías to work with DOC to establish a dedicated dormitory for all pregnant people in DOC custody at Rose M. Singer Center, separate from general population, consistent with Board of Correction recommendations.
+- DOC to explore whether family members can be more formally informed about the nursery program and encouraged to support applications, with consent of the person in custody.
+
+## Full Transcript
+
+**(00:00:00)**
+
+
+
+Good morning, good morning and welcome to the New York City Council hearing — a joint hearing for the Committee on Women and Gender Equity and the Committee on Criminal Justice. At this time I am going to ask that everyone in the room silence all cell phones and electronic devices. If you wish to testify you need to fill out an appearance card. If you have not done so but want to testify, see the Sergeant at Arms at the desk right outside and we will get you signed up. Most importantly, at this time no one is allowed to approach the dais before we begin.
+
+**(00:00:42)**
+
+
+
+Good morning everyone. I am CM Amanda Farías, Chair of the Committee on Women and Gender Equity. I am excited to be joined by Chair of the Committee on Criminal Justice, CM Selvena Brooks-Powers, for today's hearing on maternal health and criminal justice. First I would like to acknowledge my colleagues who are present, including Council Members Moreno and Cabán. Thank you both for being here today.
+
+The intersection of maternal health and the criminal justice system represents a critical public health and human rights crisis in the United States, where women are the fastest growing segment of the incarcerated population. National data shows that among incarcerated women, three out of four are of childbearing age. Incarcerated pregnant individuals face severe systemic barriers, including inconsistent prenatal care, high rates of untreated substance use and mental health conditions, and the use of shackling during labor and delivery. Whether an incarcerated pregnant person decides to carry their pregnancy to term or have an abortion, they have a constitutionally protected right to obtain appropriate medical care.
+
+It is important to note that mass incarceration and the maternal mortality crisis disproportionately impact Black and low-income women. Communities of color are disproportionately represented in New York City jail admissions, making up almost 90% of admissions despite only comprising 52% of the City's general population. When compounded with the fact that Black women overall are three times more likely than white women to die because of pregnancy-related causes, and three times more likely to suffer severe complications like fibroids, the added risks for Black pregnant people of being incarcerated during pregnancy are high.
+
+In New York City, 52 incarcerated people were reported last year as pregnant by Correctional Health Services. In the 2025 report produced by the Arnold Institute for Global Health, New York City's partnership interviews with individuals who gave birth while incarcerated in New York City revealed gaps in both the medical and correctional systems. The systems often lack mattresses sufficient for pregnancy support, nutritious foods, outdoor time and fresh air, safety from hazards such as mace and mold, and supplies and support for lactation.
+
+Participants also shared that they had limited access to the type of information about pregnancy and childbirth that would be available in the community, such as pamphlets, books, classes and groups. So today we will ask what Correctional Health Services and the Department of Correction are doing to address these gaps and how they are delivering maternal health services to pregnant individuals while incarcerated. I will now turn it over to Chair Brooks-Powers to deliver her opening statement.
+
+**(00:03:32)**
+
+
+
+Good morning. I am CM Brooks-Powers, Chair of the Committee on Criminal Justice. I want to join Chair Farías and welcome everyone to today's hearing on maternal health and criminal justice.
+
+Pregnancy, childbirth and the postpartum period require consistent medical care, appropriate nutrition, access to reproductive health care and support for both physical and mental health. These needs do not disappear when someone enters the criminal legal system. Pregnant and postpartum people who are incarcerated need the same timely access to appropriate care to protect their health and the health of their children as any other New Yorker. People who are pregnant while in custody face additional challenges in accessing health care. They rely on correctional health providers and facility staff to identify pregnancies and coordinate prenatal appointments. Treatment delays and referrals or gaps in communication can have serious consequences. Mental health needs also require attention throughout pregnancy and after childbirth, including perinatal mood and anxiety disorders, and ensuring that people who experience serious symptoms receive appropriate treatment.
+
+New York City has taken steps to establish requirements and services for pregnant people in custody, including requirements related to reporting pregnancy outcomes and access to prenatal and postnatal care. However, it is important to understand how these requirements are implemented in practice, how care is coordinated between the Department of Correction and Correctional Health Services, and whether people in custody are consistently receiving the services they need.
+
+Today the Committee will examine how Correctional Health Services identifies and supports pregnant and postpartum people, including the procedures used during intake to identify pregnancy, recent childbirth and breastfeeding. The Committee will also consider the health care needs of pregnant and postpartum people in the City's planned borough-based jail facilities. As the City develops these facilities, it is important to understand how their design, medical spaces, staffing and service arrangements will accommodate pregnancy, childbirth, recovery, breastfeeding and the needs of parents and their infants. Planning for these needs requires more than providing medical space — it requires clear procedures and appropriate resources to ensure a continuity of care.
+
+This hearing will provide an opportunity to understand what data are available on pregnancy and maternal health care in custody, how the City monitors the quality and timeliness of care, and what challenges remain in ensuring that pregnant and postpartum people receive appropriate treatment.
+
+In addition to today's topic, the hearing will consider Int 0902-2026, sponsored by CM Lee, in relation to mental health protocols for pregnant and postpartum individuals in the custody of the Department of Correction. We will also be hearing Res 0464-2026, Res 0497-2026 and Res 0498-2026. Res 0464-2026, also sponsored by CM Lee, calls on the state to pass legislation recognizing postpartum mental illness as a mitigating factor in criminal sentencing. Res 0497-2026, sponsored by CM Hudson, calls on the state to pass S.2667C/A.1670A, which would prohibit the use of restraints and limit other uses of force on pregnant and postpartum individuals in the custody of law enforcement. Finally, Res 0498-2026, also sponsored by a Council Member, would call on the state to pass legislation allowing pregnant people to postpone court proceedings when in the later stages of pregnancy. These pieces of legislation are meant to support pregnant people who have contact with the criminal legal system — a system where being pregnant or postpartum only amplifies the opportunity for trauma one can experience.
+
+I would like to thank my staff and committee staff for their hard work: Frazier, counsel to the Committee; Chad Benjamin, policy analyst; Casey Lasky, financial analyst; Owen Brady, my policy and budget director; and Rene Taylor, my chief of staff. I look forward to a productive discussion with Correctional Health Services, the Department of Correction, the Board of Correction, advocates and other stakeholders about the care available to pregnant and postpartum people in custody, the challenges they continue to face and the steps needed to ensure that their medical and mental health needs are appropriately addressed.
+
+**(00:09:06)**
+
+
+
+Thank you, Chair. I will turn it back over to you.
+
+**(00:09:10)**
+
+
+
+Thank you so much, Chair Brooks-Powers. Today the Committees will also consider the following legislation: Int 0902-2026, sponsored by CM Rita Joseph, in relation to requiring a report regarding an analysis of gender-based violence in the City. As you have already heard from Chair Brooks-Powers, the Committees are also considering Res 0464-2026, Res 0497-2026 and Res 0498-2026.
+
+Finally, I would like to thank committee staff Julia Goldsmith-Pinkham, Katie Selina and Allie, as well as my own staff Daniel Curtain, for all of their work on today's hearing. I would like to remind everyone who wishes to testify in person today that you must fill out a witness slip, which you can find on the desk of the Sergeant at Arms near the entrance of this room. If you have already registered in advance to testify in person today, please note that if you wish to testify on any legislation, please indicate on the witness slip whether you are here to testify in favor of or in opposition to the legislation. I also want to point out that we will not be voting on any legislation today.
+
+To allow as many people as possible to testify, testimony will be limited to two minutes per person, whether you are testifying in person or on Zoom. I am also going to ask my colleagues to limit their questions and comments to five minutes. Please note that witnesses who are here in person will testify before those who are signed into the Zoom webinar. I will now turn it over to the committee counsel to administer the oath.
+
+**(00:11:14)**
+
+
+
+Good morning, Chair Brooks-Powers, Chair Farías and members of the Committees on Women and Gender Equity and Criminal Justice. I serve as the Chief of Nursing for New York City Health and Hospitals Correctional Health Services. I am joined by my colleague Jeanette Merrill, Senior System Vice President of Communications and External Affairs. We appreciate the opportunity to testify today on maternal health and criminal justice.
+
+Since 2016, Correctional Health Services has been the direct provider of physical and mental health services to people in custody of the New York City Department of Correction. Women comprise about 8% of our patient population and have significant clinical and social medical needs. Based on September 2026 data, 82% of the women in our care were enrolled in the mental health service, 47% of women were diagnosed with serious mental illness and 34% of women had an opioid use disorder. We recognize the tremendous responsibility and opportunity to provide quality health services, including perinatal care, to our patients. Last calendar year there were 52 pregnant individuals in total in our care. For many of our pregnant patients, their connections to community-based health care and support networks have been disrupted by their incarceration, making the services we provide especially important. Other pregnant patients have been out of care in the community due to challenges accessing providers or navigating services, presenting an opportunity to engage them in prenatal services that can promote maternal and fetal health.
+
+Correctional Health Services medical and nursing professionals conduct a comprehensive medical evaluation of all individuals when they are admitted to the New York City jail system. At the Rose M. Singer Center, clinical staff obtain reproductive health history and offer pregnancy testing to all reproductive-age patients. Based on the information gathered during the intake assessment, patients may be referred for follow-up medical care or to the mental health service for additional evaluations. Postpartum patients can be referred to the obstetrician for a postpartum visit or well-women care, which includes pelvic exams and other reproductive and sexual health services. For patients who are pregnant at the time of jail admission, clinicians order prenatal labs and vitamins and make referrals to the obstetrician for prompt follow-up care. Clinicians will work to obtain prior care information if the patient was engaged in care in the community. All pregnant patients receive routine prenatal care at the Rose M. Singer Center, where they have access to on-site services as well as pregnancy-related education, including information about breastfeeding. A member of Correctional Health Services' general related services team, which is part of re-entry and transition, will meet with the patient to offer additional support and information. Patients with more complicated clinical profiles can also receive care in coordination with our colleagues at Elmhurst Hospital.
+
+To help orient all pregnant patients to the support services available to them, Correctional Health Services schedules joint telehealth visits that include the patient, the obstetrician and the Elmhurst Hospital obstetrician throughout the individual's care. All providers work closely with the labor and delivery and maternal fetal medicine providers at Elmhurst Hospital to coordinate care. At Elmhurst Hospital, our patients see a member of the hospital's care team who will be present should they deliver in custody. As previously mentioned, patients also receive advanced prenatal testing and procedures at the hospital when clinically indicated for both routine and high-risk pregnancies. Correctional Health Services and Elmhurst Hospital medical providers conduct joint case conferences, which can also include participation from the mental health service. Patients who go into labor while incarcerated on Rikers Island are transported to Elmhurst Hospital for delivery. Patients may apply to programs to care for and reside with their infants in the Rose M. Singer Center nursery housing unit, maintained by Correctional Health Services nurses providing clinical support to the parents.
+
+For patients referred for a mental health evaluation, a licensed mental health provider reviews the patient's mental health history, interviews the patient and reviews an extensive social history with the patient. The information the mental health provider obtains during the assessment helps to inform their diagnostic determination, individualized treatment plan, case management and re-entry planning. The information also enables clinicians to assess clinical risk factors and to determine the patient's most appropriate mental health level of care. Correctional Health Services provides a spectrum of jail-based mental health care that ranges from individual and group counseling and medication treatment to mental health therapeutic housing units for patients who have more robust mental health needs and require increased clinical observation and care coordination.
+
+During all clinical encounters, mental health clinicians assess patients with trauma symptoms and mental health disorders, including perinatal mood and anxiety disorders and postpartum depression. As clinically indicated, all pregnant and postpartum patients with diagnosed mental health disorders are closely monitored by Correctional Health Services' mental health service. If a pregnant or postpartum patient requires a higher level of psychiatric care than can be provided on-site, the patient will be referred to Elmhurst Hospital in coordination with hospital leadership. Many of our pregnant patients have complex medical and psychiatric comorbidities and require robust care coordination and treatment plans. Correctional Health Services' re-entry services help connect patients to clinical resources in the community to help ensure continuity of care upon discharge from jail.
+
+**(00:17:48)**
+
+
+
+Pregnant and postpartum patients, and all patients receiving mental health services, receive an individualized discharge plan. In addition to the core re-entry services available to all patients, which includes assistance applying for Medicaid, re-entry staff coordinate with their contracted vendors to support transition planning as appropriate, including referrals to housing. In addition, Elmhurst Hospital obtains contact information for all pregnant patients and hospital social workers are available to support delivery plans and follow-up care after release from jail.
+
+Int 0902-2026 would require the establishment of protocols governing the identification, screening, referral and monitoring of pregnant and postpartum individuals who have or may have mental health needs. As written, the Bill would require Correctional Health Services to develop and maintain these protocols. Correctional Health Services is the direct and independent provider of medical and mental health services to people in custody and will serve as the appropriate agency. The protocols outlined in the legislation largely align with current practices as they relate to prenatal care, mental health screening, psychiatric evaluations, clinical documentation and discharge planning. However, we would want to ensure that the Bill does not legislate clinical decision-making and ensures that care is provided in accordance with the most current and appropriate standards of care and clinical practice.
+
+We would like to discuss with counsel the provision of the Bill that would require procedures for identifying postpartum status when an individual does not proactively disclose such status. Correctional Health Services providers work to establish a relationship of trust with our patients, which can be more challenging in a carceral setting. All of the services we provide are voluntary and we respect every patient's right to engage in clinical services and to provide personal information as the individual feels comfortable doing so. We would therefore appreciate the opportunity to better understand the intention of the Council relative to this specific provision and to explore ways to address any concerns without jeopardizing the sanctity of the patient relationship and while protecting the privacy and rights of the patient. Thank you and I look forward to answering your questions.
+
+**(00:20:30)**
+
+
+
+And you will now hear testimony from our colleagues at the Department of Correction.
+
+**(00:20:46)**
+
+
+
+Good morning, Chair Brooks-Powers and members of the committees. My name is Valerie Grace and I am an Assistant Commissioner within the Division of Programs and Community Partnerships. Thank you for the opportunity to discuss the New York City Department of Correction's support for pregnant and postpartum women.
+
+As our colleagues at Correctional Health Services have described, Correctional Health Services provides medical and mental health care within the jails, while the Department of Correction facilitates access to that care through appointments, transportation, referrals and necessary accommodations. Our responsibility also includes supporting individuals in our care as they prepare for childbirth, recover following pregnancy outcomes and care for their children.
+
+Through our partnership with the Caribbean Women's Health Association, the Department of Correction offers doula services to individuals housed at Rosie's and Rose M. Singer Center. Doulas provide non-medical informational support including birth planning, breastfeeding education, newborn care and support following pregnancy loss. Services are offered twice weekly with labor and delivery support available upon request. Through this year the program served 20 women and provided over 400 hours of support.
+
+The Department of Correction also operates a residential nursery at Rose M. Singer Center where eligible mothers can remain with their infants until the child's first birthday. Participation in the nursery program is completely voluntary. Not all individuals who are eligible want to participate and admission decisions consider the best interests of the child. The program supports early bonding and parental care with an early educational counselor addressing the baby's needs.
+
+We recognize that pregnancy and early parenthood can be especially difficult during incarceration. These programs help women in our care access practical guidance and opportunities to build and maintain their relationships with their children during a very difficult time and we are proud to offer them. Thank you for the opportunity to share about these important services. I am happy to take your questions.
+
+**(00:23:09)**
+
+
+
+Thank you for your testimony. I now invite Public Advocate Jumaane Williams for his remarks.
+
+**(00:23:13)**
+
+
+
+Thank you, Madam Chair. Good morning. My name is Jumaane Williams, Public Advocate. Thanks to Chair Farías, Chair Brooks-Powers and members of the Committee on Women and Gender Equity and the Committee on Criminal Justice for holding this important hearing and for the opportunity to offer testimony.
+
+Pregnancy, childbirth and the postpartum period are significantly physically and mentally demanding, and those needs do not change in any way when a pregnant person is incarcerated. Those in custody must be able to access timely, appropriate medical care, receive necessary mental health support and be treated with dignity throughout pregnancy, childbirth and the postpartum period. The American College of Obstetricians and Gynecologists particularly emphasizes the importance of incarcerated individuals receiving high-quality, trauma-informed, comprehensive medical care.
+
+Unfortunately, incarcerated pregnant persons do not receive adequate care due to systemic gaps and hardships, and sometimes barely humane conditions across correctional systems. Pregnant and postpartum individuals often face a variety of medical and emotional challenges including complications during pregnancy and childbirth, and mental health conditions that emerge or worsen during pregnancy or after delivery. These conditions are often exacerbated by the failure of many jails and prisons to provide full access to medications for opioid use disorders or the abrupt stoppage of treatment postpartum, increasing overdose risks. Dehumanizing treatment reported by incarcerated pregnant people includes inadequate prenatal monitoring, delayed responses to obstetric symptoms, isolation during delivery and traumatic use of shackles during labor — a practice banned in New York in 2009. In addition, rapid post-delivery separation from newborns remains a deeply distressing reality in most facilities and has led to increased rates of postpartum depression.
+
+These concerns are particularly important in correctional settings where individuals must rely on the facility to access care. Today the Council is hearing Int 0902-2026 by Council Member Lee, which will require the Department of Correction in coordination with Correctional Health Services to establish and maintain written protocols related to identification, screening, referral, monitoring and follow-up of pregnant and postpartum individuals with mental health needs. These specific protocols will be made publicly available and shared with all staff involved in their care. This would address the importance of keeping a reference point so that all health concerns can be properly addressed. It is imperative that these protocols support timely referrals to appropriate psychiatric care and establish coordination between medical and mental health providers. There must be procedures to help individuals maintain access to medications and support services.
+
+The Council will also hear Res 0498-2026 by Council Member... which calls on the State Legislature to pass and the Governor to sign legislation to postpone court proceedings as requested by individuals in the latest stages of pregnancy. Court appearances often involve transportation, arraignment processing and prolonged waiting, which often pose substantial burdens on individuals who are close to...
+
+**(00:26:07)**
+
+
+
+...birth, which can often lead to deeply disturbing incidents in the courtroom, akin to what happened to Samantha Randolph, who gave birth while shackled in a courtroom in Brooklyn. Res 0497-2026 also by Council Member... calls on the State Legislature to pass and the Governor to sign a bill in relation to prohibiting the use of restraints on incarcerated individuals during labor, absent extraordinary circumstances, and on pregnant persons during custodial interrogation. It is important that no individual should be shackled during a deeply medical moment. The safety, dignity and peace of those giving birth must be paramount.
+
+It is essential that what happened to Lois Burke, who was put in full-body restraints while she was pregnant and detained at Rikers Island, does not happen to anyone. These proposals raise broader concerns about a legal system that accommodates pregnancy and recovery. We must ensure that staff and health providers fully understand their responsibilities and that medical needs are addressed properly. We must also ensure that decisions about court appearances and custody do not needlessly interfere with continuity of care.
+
+I am looking forward to hearing from the administration about how the City is ensuring timely, equitable maternal health care for pregnant and postpartum individuals in custody, what procedures are in place to maintain continuity of care as individuals are in custody or transferred across facilities, and how the City can further help ensure all people receive adequate care pre- and postpartum. I also have to mention that obviously when we hear these stories it is usually Black and Brown women who are going through this, and I would be remiss if I did not mention that. That is unfortunately usually the case. Thank you for this...
+
+**(00:27:39)**
+
+
+
+...hearing. Thank you so much for your testimony, Public Advocate Williams. I would now like to invite Council Member... to give remarks about her resolutions.
+
+**(00:27:47)**
+
+
+
+Thank you so much, Chairs, for the opportunity to speak on two resolutions this committee is hearing today. Earlier this year New Yorkers were confronted with the deeply troubling news of a pregnant woman who went into labor while handcuffed and awaiting arraignment in Brooklyn Criminal Court. That incident raised urgent questions about how our justice system treats pregnant people.
+
+Res 0497-2026 calls on the State to pass legislation prohibiting the use of restraints on incarcerated individuals during labor, delivery and postpartum recovery, and extends protections to pregnant people during custodial interrogation. Restraints limit the ability to respond to rapidly changing circumstances and put both the person giving birth and their child at risk.
+
+Res 0498-2026 calls on the State to pass legislation allowing court proceedings to be postponed at the request of individuals in the later stages of pregnancy. No one should have to choose between protecting their health during pregnancy and navigating the demands of the criminal legal system. A temporary postponement can provide the time needed for childbirth and recovery without ending a case or eliminating accountability.
+
+No one should be shackled in labor. No one should be forced into a courtroom days before giving birth. Not for any charge. Not for any reason. We have an opportunity to close gaps in our laws and ensure that pregnant New Yorkers are treated with the care and respect their circumstances require. I urge the State Legislature to pass these protections and the Governor to sign them into law, because dignity does not end at the courthouse door. Thank you. Thank you so much.
+
+**(00:29:16)**
+
+
+
+CM Hudson, I will jump right into questions. At what points during intake and detention are individuals...
+
+**(00:29:24)**
+
+
+
+...screened for pregnancy? Sure. So in general, Correctional Health Services, as part of the routine new admissions process, everyone who comes to Rikers receives a comprehensive medical evaluation conducted by our nursing and medical staff. At Rosie's that includes, for all women of reproductive age, pregnancy testing. Women who are found to be pregnant are then scheduled with the OB-GYN for additional examinations. Okay. And who is...
+
+**(00:29:55)**
+
+
+
+...conducting the pregnancy screenings and what trainings do they receive...
+
+**(00:29:59)**
+
+
+
+...beforehand? So our patients receive three levels of screening. The first individual they will encounter would be a patient care associate who will be the one who does the point-of-care urine screening, the urine dip, and then they subsequently see a person of a higher license to complete their intake, which would be a registered nurse, also followed up by a nurse practitioner or MD.
+
+**(00:30:28)**
+
+
+
+And are the registered nurses and the nurse practitioners hired by the Department of Correction or are they Correctional Health Services?
+
+**(00:30:35)**
+
+
+
+Correctional Health Services. Sorry. And are they regular staff there at Rikers or... Well, we have persons who are hired specifically to work those roles at Rose M. Singer Center. Got it.
+
+**(00:30:48)**
+
+
+
+And you know there are obviously many possible complications during pregnancy. What is the protocol when someone experiences a...
+
+**(00:30:59)**
+
+
+
+...medical emergency? So as with all our patients, a medical emergency is initiated at the housing level where the individual is, and we coordinate with the Department of Correction to facilitate a response. Correctional Health Services are the first responders to the unit to assess and stabilize the patient, and then we would escalate based on the clinical assessment of the patient at the time.
+
+**(00:31:22)**
+
+
+
+OK. And are staff trained to recognize warning signs like vaginal bleeding, contractions, fluid leakage, severe abdominal pain, et cetera? Yes.
+
+**(00:31:35)**
+
+
+
+Okay. And then in terms of the...
+
+**(00:31:38)**
+
+
+
+...administrative code requiring that doula services be provided at a frequency of at least twice a week for four hours, with at least two doulas available, does the Department of Correction follow this minimum or does it provide greater access to doula...
+
+**(00:31:52)**
+
+
+
+...services than that? Thank you for your question. Yes, we have a wonderful partnership with the Caribbean Women's Health Association and they are at Rosie's and Rose M. Singer Center at least twice a week for four hours. Okay. And how many doulas currently provide services to people in custody? There are two doulas. And just give me their hours — how many days per week they are available and the usual hours of availability. There are typically on site twice a week for at least four hours, sometimes longer.
+
+**(00:32:32)**
+
+
+
+There was a massive jump in service hours provided by doulas in the last two reporting periods compared to before, with doulas providing 426 service hours from January to June of 2025 as compared to 148 service hours from January to June of 2024. Is there a specific reason that doulas were able to provide so much more service over the past...
+
+**(00:33:03)**
+
+
+
+...12 months? I think doula services are very important and very valued by the individuals in our care. Although the minimum is two days a week, oftentimes they do come a third day because the women often ask for them. They are often kind of like their main go-to and they really serve as a source of important emotional support. So I find that they often come for additional hours.
+
+**(00:33:25)**
+
+
+
+Are they compensated for...
+
+**(00:33:28)**
+
+
+
+...those additional hours? Yes, we have a contract with the vendor. Okay.
+
+**(00:33:32)**
+
+
+
+Great. And what organization or vendor is contracted for doula services?
+
+**(00:33:37)**
+
+
+
+Currently it is an organization called the Caribbean Women's Health Association. They have been a wonderful partner since the beginning.
+
+**(00:33:44)**
+
+
+
+Great. And how long has that contract been in place? Is there an open RFP or have we had it over an extended time...
+
+**(00:33:59)**
+
+
+
+...period? We have had it for several years. We have been renewing it. The initial contract was for two years and the current one is for one year, but every year we...
+
+**(00:34:08)**
+
+
+
+...renew this contract and...
+
+**(00:34:11)**
+
+
+
+...we are actually looking to increase our investment and expand programming because the...
+
+**(00:34:15)**
+
+
+
+...feedback has been overwhelmingly positive. Great.
+
+**(00:34:18)**
+
+
+
+Sorry, just for my own clarification, is the contract typically for two years or is it one year with an option to renew for an additional...
+
+**(00:34:27)**
+
+
+
+...year? The current one is for one year. Okay. Have there been any other vendors that we have used in the past for doula services provided to folks who are incarcerated?
+
+**(00:34:43)**
+
+
+
+When we issued the solicitation this vendor was selected during this period and the previous period based on their extensive experience working in the City and with women and with justice-involved women. Okay. Sorry, remind me again when did we start providing doula services? We started the year that the law went into effect. OK. And how many...
+
+**(00:35:10)**
+
+
+
+...facilities can the doulas access, or is it just for... So their contract is to serve anyone in our care who is pregnant. They typically facilitate services at Rosie's and Rose M. Singer Center but the goal is for them to be able to serve anyone who is pregnant or postpartum. That is in the contract. Yes.
+
+**(00:35:31)**
+
+
+
+OK. And can someone walk me through the process that a doula has to follow to enter the facility? Is it like a member of the public or are they a staff member?
+
+**(00:35:43)**
+
+
+
+For all of our contracted providers and volunteers there is a volunteer ID process, an ID application. Once they receive an ID they have a badge that allows them to access the facility so they can go directly to the nursery or to any other housing area...
+
+**(00:36:03)**
+
+
+
+...to meet with women where they are. Okay. And then for procedures around when an individual reports a possible pregnancy after intake...
+
+**(00:36:21)**
+
+
+
+...let us say we did not catch it at intake, they would go through the same process. It would still be a referral to our OB-GYN. We would order prenatal vitamins and labs and then potentially coordinate with Elmhurst Hospital. OK. And...
+
+**(00:36:35)**
+
+
+
+...in the past three calendar years, how many pregnant people in custody scheduled prenatal obstetric appointments because they were not produced by the Department of Correction? And if we have those broken down by year that would be helpful. Sure. So...
+
+**(00:36:54)**
+
+
+
+...in calendar year 2025, 53% of on-island obstetrics appointments were non-productions. But I should note that is the initially scheduled appointment. If an individual misses that first scheduled appointment we coordinate to reschedule and can always escalate as needed at the local level to ensure a woman has access to care. So again, 53% non-production for on-island and then off-island, meaning Elmhurst Hospital, it is 40% non-production. Then calendar year 2024: on-island 37% non-production, 43% for off-island. And then calendar year 2023: on-island 27% non-production, 69% off-island non-production. Got it.
+
+**(00:37:51)**
+
+
+
+And in each of these three calendar years, how many people in custody were transported to a hospital for labor and delivery or a pregnancy-related emergency? So...
+
+**(00:38:02)**
+
+
+
+...fortunately few women are still in custody at the time that they deliver. Between calendar year 2023 and 2025 there were 15 individuals who gave birth in custody and would have been transported to Elmhurst for labor and delivery. Okay. And...
+
+**(00:38:21)**
+
+
+
+...how many of these incidents involving the use of restraints on pregnant or postpartum people in custody were recorded? Good...
+
+**(00:38:35)**
+
+
+
+...morning. Chelsea Chart, Senior Adviser. We have zero reported incidents within the past three years.
+
+**(00:38:44)**
+
+
+
+Is there a reason why we have zero reported when we know of at least one case, yet we have zero recorded instances of restraints being utilized, despite some of the records that folks are giving to us? I would not be able to...
+
+**(00:39:01)**
+
+
+
+...speak to those individual cases. It is our policy that in the case that staff know that an individual is pregnant or eight weeks postpartum, restraints are to be used only as an absolute last resort. And in the case that restraints are used, a report is generated to our state oversight body, and we do not have any reports for the past three...
+
+**(00:39:22)**
+
+
+
+...years. OK. Can you give me an idea of how that process works, like...
+
+**(00:39:27)**
+
+
+
+...who is in the room when there is a potential use of restraint and who has to elevate that or generate that report? Sure. So generally it would be the staff who are with that person, whether it is in a transport setting or wherever they might be within a facility or a clinic setting. Again, the goal is to never have to use restraints. It would be staff or other staff who might be present in the room. In the case that there is imminent risk of harm to the person or to others, that would really be the only case, and that is again exceptional and rare. In those cases only front restraints are used and the person who is applying the restraints is the one who is submitting that report within one business day. Okay.
+
+**(00:40:18)**
+
+
+
+Thank you so much. I am going to now pass it over to Chair Brooks-Powers for her questions.
+
+**(00:40:24)**
+
+
+
+Thank you so much, Chair, and thank you for the testimony. Again, it is always helpful if we get the testimony in advance, so my hope is that I am not redundant in some of the questions that I am asking. Going back to screenings for pregnancy and postpartum status, how is medical information shared between NYPD and when someone changes custody? Sorry, that is between NYPD and the Department of Correction. I am sorry, can you repeat the question? Sure. How is medical information shared between NYPD and when someone changes custody?
+
+**(00:41:14)**
+
+
+
+So when they are going from being in custody with the NYPD and they are being transferred over to the Department of Correction to be in custody, how is that information shared for an individual that is pregnant?
+
+**(00:41:29)**
+
+
+
+NYPD does not share medical information with us. They would go through the medical screenings that are happening at the
+
+**(00:41:36)**
+
+
+
+courthouse, but any documentation or anything to denote that this person in custody
+
+**(00:41:42)**
+
+
+
+is pregnant, or any type of dynamic related to that condition, not that I am aware of.
+
+**(00:41:50)**
+
+
+
+Our pregnancy screenings are conducted only at intake. Are they repeated during detention? Yes, indicated primarily it would occur at intake, but of course patients have the right to refuse services as well, so a subsequent clinic appointment could address perinatal needs. So they are offered even beyond intake. OK.
+
+**(00:42:19)**
+
+
+
+What procedures are followed when an individual reports a possible pregnancy after intake?
+
+**(00:42:26)**
+
+
+
+So at that point the individual would be referred to the OB-GYN. We would order labs, vitamins, and then start the coordination process with Elmhurst Hospital.
+
+**(00:42:38)**
+
+
+
+And how does the department ensure that it is promptly notified when a person is identified as pregnant or postpartum?
+
+**(00:42:50)**
+
+
+
+So Cenit would identify a patient as pregnant or postpartum, and then according to New York State Correction Law, a woman patient who was within eight weeks of a pregnancy event, that information is shared with the ISI.
+
+**(00:43:06)**
+
+
+
+But in terms of DOC, how are they ensuring that Cenit is promptly notified when a person is identified as being pregnant?
+
+**(00:43:18)**
+
+
+
+Because they are coming in first at the Department of Correction. Correct. Pregnant. Sure. So when
+
+**(00:43:26)**
+
+
+
+someone is coming in through intake, the first step that they are doing once they are on Rikers Island is going through that intake screening process. And that is done by Cenit.
+
+**(00:43:37)**
+
+
+
+Correct. Yes. There is generally not a case where DOC would be notifying Cenit. It would be occurring the other way around,
+
+**(00:43:42)**
+
+
+
+because we do not hold that medical information and we do not require people to disclose to us.
+
+**(00:43:46)**
+
+
+
+Got it. What is the racial demographic breakdown of pregnant people in the Department of Correction custody over the last three
+
+**(00:43:58)**
+
+
+
+calendar years? So Cenit does not collect that information, although if clinically indicated we would seek that from the patient. We do know, as was mentioned in testimony, that the majority of women in
+
+**(00:44:11)**
+
+
+
+our care are Black and Brown women. Black women in particular have higher risks of pregnancy and childbirth-related incidents, so we are really treating every pregnancy, by nature of the woman and the patient being in custody, as higher risk. We are not stratifying by race in
+
+**(00:44:34)**
+
+
+
+Sorry. Thank you. Going over to the nursery program, where is the nursery located within the Department of Correction system? Thank you
+
+**(00:45:14)**
+
+
+
+for your question. The nursery is located within the Rose M. Singer Center.
+
+**(00:45:18)**
+
+
+
+And how many beds and cribs are available, and what is the maximum occupancy? The
+
+**(00:45:26)**
+
+
+
+maximum occupancy is about 15 rooms for mom and also children. Our mothers are able to keep the infants with them throughout the day and overnight. Yes, they are.
+
+**(00:45:46)**
+
+
+
+What is the current operational status of the Department of Correction nursery program?
+
+**(00:45:52)**
+
+
+
+Thank you for your question. We are proud to offer one of the country's oldest correctional nurseries. The nursery is fully operational. We have a mom currently inside the program. We have a wonderful partnership with the Caribbean Women's Health Association to provide doula services and help moms around newborn care, emotional support and recovery after childbirth. We also have a wonderful partnership with our children's services, which provides entry support inside the nursery. It is really designed to look and feel like a nursery. There are cribs, children's toys and books, and rocking chairs for the moms. It is really designed to support the care of the mom and the child. Actually, last year we completely renovated the nursery and purchased all new furniture, new cribs, toys and books, so that it is a welcoming and warm environment for the baby. There are slots available for every birth in person in Department of Correction custody to avail themselves of the nursery.
+
+**(00:47:18)**
+
+
+
+Yes, absolutely. And I know you mentioned just now that there was a mother right now in the program. Is it only one person that either has an infant or that is pregnant right now in custody? There was
+
+**(00:47:32)**
+
+
+
+currently one mom and an infant in the nursery. There are other individuals who are pregnant.
+
+**(00:47:39)**
+
+
+
+And so are they located still in general population? They are. Because when
+
+**(00:47:45)**
+
+
+
+my last visit, I raised concerns about that, and I know the Commissioner had mentioned that effective that day they would be moving those in custody that are pregnant into the nursery for safety
+
+**(00:48:02)**
+
+
+
+reasons. Hi, my name is Nell Clone. I am the Deputy Commissioner of Programs and Community Partnerships, and I was on that visit. I just want to emphasize that while there is only one individual in the nursery right now with their child, all of the women who are pregnant, actually after that visit, have been afforded and offered the opportunity to move into the nursery. It is a voluntary move. But we have been ensuring that the application is presented and that they are given the opportunity to apply. We currently have an application pending. So they have to apply to be moved there? Yes, they do.
+
+**(00:48:40)**
+
+
+
+Can you explain that to me?
+
+**(00:48:43)**
+
+
+
+Yes. So in order to move into the nursery, a screening does occur. Part of it is with medical and mental health, but notably it also is with the Administration for Children's Services, taking into account any cases of child abuse or neglect that may be indicated. Those two pieces of information are then reviewed by the department, and very often if cleared they would be moved into the nursery. Only one of the pregnant moms has applied and the rest have not refused.
+
+**(00:49:25)**
+
+
+
+Well, the program is voluntary and we also have a transient population, so we might have had someone who was pregnant last week and they might have been released. So everyone who was pregnant who is in our care now is off the application. Some of the moms chose not to complete the application and we currently have one pending.
+
+**(00:49:45)**
+
+
+
+Do we have an idea of why
+
+**(00:49:48)**
+
+
+
+they refused? I think a lot of times they anticipate being released before giving birth.
+
+**(00:49:58)**
+
+
+
+Hmm. What supports are available to parents and children in the nursery program? Thank you for that
+
+**(00:50:06)**
+
+
+
+question. So the doulas are on site at least twice a week and they help model around newborn care, anything from diapering to breastfeeding and the kind of emotional support that is needed. We also have a team of counselors that are regularly inside the nursery, so we have a social worker and a correctional counselor that provides one-on-one support, coordination with other programs, coordination with assistance they need, paperwork. They are sort of the main go-to for any kind of key services. Our children's services has a presence in the nursery as well. They primarily support around reentry and they also coordinate with the network of other nonprofits that have a presence at the Rose M. Singer Center. That includes the Women's Prison Association, Osborne, New Hour and Home Base. There are services available as well, for example chaplaincy, and of course any mandated services. We also have an early childhood education counselor who is at the nursery providing support as well. Going back to your statement about the application process, are notices regarding the nursery and potential eligibility posted anywhere besides the clinic, and if so where are they posted? Yes, they are posted at intake as well. I would also note our gender-related services team meets with every pregnant individual in custody and part of the work they are doing is facilitating access to nursery applications.
+
+**(00:52:00)**
+
+
+
+What is the longest someone can remain in the nursery?
+
+**(00:52:06)**
+
+
+
+So with a child you can remain up to one year. That is not including obviously during the pregnancy time period.
+
+**(00:52:15)**
+
+
+
+When children age out of the nursery program, has the Department of Correction noticed any negative effects on the parent, if the parent remains
+
+**(00:52:29)**
+
+
+
+incarcerated? I think what I can say is our programs and the doulas work very closely with the mom to support her coming up to that time. There would be, for example, a birthday for the child, and counseling and support, because we recognize that being a new mom can be difficult when incarcerated. As part of the postpartum visit there are mental health screening questions, and if the women were not already enrolled in mental health services we have a very low threshold before those referrals. I just want to pivot
+
+**(00:53:08)**
+
+
+
+into borough-based jails. What is the Department of Correction's current plan for housing women and gender-expansive people after Rikers Island closes?
+
+**(00:53:24)**
+
+
+
+Thank you for your question. I think there are a few things that are being explored right now for how we are supporting both women and gender-expansive people after Rikers. At this time I believe there are plans for us to consider the Queens Detention Center, although I think other options are being looked into right now.
+
+**(00:53:48)**
+
+
+
+That is good to know, because the current plan states that people at the Queens borough-based jail would number one, and I am curious as to how we came to that number and why we are limiting the location for women to one location, considering that the majority of the women that are in custody are often the caregivers in their household, placing an extra burden on them when the men are in their respective boroughs. So I am just curious how we decided that the women had to be
+
+**(00:54:24)**
+
+
+
+in one borough. Yeah, that is a good question, because there has been a lot of planning and I think there has been some conversation back and forth as we have solicited community feedback. I believe most of the numbers that we were talking about in terms of bed space were based on previous projections, as you know, from years ago when these were coming to fruition. My understanding is, similar to how we operate on Rikers, we recognize that when we have certain populations they need specialized services, and in order to offer those specialized services it can be
+
+**(00:54:57)**
+
+
+
+helpful to have them all in one location so that all of those services can be concentrated in that location as well. I believe that was part of the thinking in terms of designing.
+
+**(00:55:06)**
+
+
+
+How many women are in custody now, today? Once... 482. Not far from the 450.
+
+**(00:55:19)**
+
+
+
+Is there an opportunity to revisit having women in just
+
+**(00:55:26)**
+
+
+
+one location? Well, I would say I think there is an opportunity for us to consider a variety of ways that we can support women before they even come into our custody, and so I think the City is open to these conversations.
+
+**(00:55:41)**
+
+
+
+But to be clear, in terms of the construction and the design of the four borough-based jails, is there still an opportunity to accommodate women at more than just the Queens location? Quite honestly, we would have to get back to you.
+
+**(00:55:58)**
+
+
+
+OK. I would greatly appreciate if we could explore that. I think that it is problematic that we only placed the women in one location, and I have been saying this from the moment it was announced, quite honestly. As Chair now I want to be able to work with the administration to try to work through that, because we do have folks that whether they are pregnant or they have kids at home, it just places an extra barrier. The whole idea behind these borough-based jails included having people being connected to community and connected to family. So I think that it is a bit unfair that we are now saying OK, except for the women, because they require different levels of care. I think it is the obligation and the responsibility of the Department of Correction to ensure that no matter where they are, they are getting
+
+**(00:56:53)**
+
+
+
+that care. On restraints, what is the Department of Correction's current written policy on restraints on pregnant people?
+
+**(00:57:05)**
+
+
+
+Our current policy is in alignment with state guidelines. I think as I have said previously, the goal is never to use restraints on an individual who is either pregnant or eight weeks postpartum. In the case that someone is having a challenging time — and of course this is a hard time, to be pregnant and in jail — the training is essentially what we would want for any avoidance of using restraints, which is a lot of deescalation, a lot of talking with a person, building rapport with folks. So in moments when someone is upset or they are getting escalated in some way, there is an emphasis on deescalating and trying to calm the person down for as long as that takes. Really only in the case that someone is essentially coming to the point of self-harm and imminent risk of harming themselves is when we would consider using restraints. The only restraints that are to be used are in front of the body, and we remove those as soon as the person has calmed down. We do not wait to get to any particular location. So in the case they need to be used, they are used for as short a duration as possible. As I mentioned, there is a report that is generated following that, and in the case that restraints are used, the woman is also escorted to the clinic or otherwise does receive a medical follow-up after that incident.
+
+**(00:58:37)**
+
+
+
+Thank you. The Chair is going to have some more questions around that. I just wanted to pivot really quickly for the Department of Correction regarding deadlocking. This is a follow-up from our September 23 hearing.
+
+**(00:58:51)**
+
+
+
+So at the Committee on Criminal Justice hearing on September 23, I asked General Counsel Conroy to confirm that deadlocking is no longer occurring. He responded that it was not, referencing that DOC was able to substantiate claims about deadlocking from 2020. Later in the same hearing, Barbara Hamilton of Legal Aid testified that multiple clients have been deadlocked this year.
+
+**(00:59:19)**
+
+
+
+Allegations which DOC was surely aware of due to ongoing litigation. Should we understand your previous testimony to mean that those allegations are false? So we cannot speak to any of the specific allegations that were made since there is ongoing litigation and legal action, but I do believe that our position remains what the General Counsel stated in that hearing.
+
+**(00:59:42)**
+
+
+
+But are you acknowledging that you are aware that litigation is going on right now? I do not work in
+
+**(00:59:48)**
+
+
+
+the legal division, but I believe there are some legal proceedings related to lock-ins. But we cannot speak to those specifically.
+
+**(00:59:58)**
+
+
+
+The concern for me is that your General Counsel sat before this committee under oath and was unaware at that time about any deadlocking happening. However, there is ongoing litigation and that was not acknowledged in his response to me. In a 2025 report, the Board of Correction recommended mandatory reporting of individualized involuntary lock-ins, audits of log books and footage, targeted staff training, discipline where appropriate, and tracking of lock-in duration and impact on services. Which of these safeguards has the Department of
+
+**(01:00:33)**
+
+
+
+Correction implemented? So I know in general when those allegations were made, we referred that immediately to OIG and their investigation could not substantiate any of those allegations. Nonetheless, at the time there was communication and direction given from the top that this was not to be occurring. The department already has reporting obligations related to emergency lock-ins, inclusive of duration and any interrupted services, so those reports have remained ongoing. So essentially there are steps that have been implemented to ensure that staff know it is not permissible anymore, through communication. But how are you tracking whether or not it is happening? For instance, if it were to happen, that should be something that is being recognized by supervisors during their regular touring, because again it is not policy for that to be occurring. So as supervisors and front-line staff are making their regular tours, that is something that should be observed and corrected, and in the case that policy is being violated, of course disciplined as appropriate. Has the department received any additional allegations regarding deadlocking or involuntary individualized lock-ins in any housing unit in 2025 or 2026? Can someone just check and see if we can get that while we are here? We will have to follow up and get that
+
+**(01:02:27)**
+
+
+
+afterwards. I do not think that is something we will be able to confirm right now.
+
+**(01:02:33)**
+
+
+
+In an October 2024 Board of Correction meeting, former Rikers Island social worker Justina Wrestlinski testified that correction officers place white tags on the cell door switchboard — the panel that can unlock any door in the unit — to indicate deadlocked individuals. She alleged that this was the only record of deadlocking. In its closing memo for its investigation into these claims, the Department of Investigation stated that it observed white pieces of paper on eight different cell control buttons on the cell door switchboard in the control room.
+
+**(01:03:18)**
+
+
+
+Are staff permitted to tag control buttons? I am not familiar with that policy. We would have to follow up. OK.
+
+**(01:03:29)**
+
+
+
+When you follow up, I am going to just give some follow-up questions pertaining to that. So in the event that white paper tags are permitted, the question then becomes: correctional officers told the Board of Correction that white tags are used on cell door switchboards to indicate that someone is outside of their cell at programming or at court. But they told the Department of Investigation investigators that white tags were used to indicate that the person in the cell had exhibited a certain type of behavior. What is the purpose of white paper tags on the cell door panel? And if white paper tags are not permitted, the follow-up question is: have any staff been disciplined for placing white tags on cell door switchboards? Has memos or taken any other corrective actions regarding
+
+**(01:04:28)**
+
+
+
+the placement of paper tags on cell door switchboards? Can you confirm that these tags are no longer in use, and have you conducted an audit to confirm that these tags are no longer in use? I believe we have a letter that will follow this hearing to summarize everything I said, so you know exactly what we are looking to get from you.
+
+**(01:04:56)**
+
+
+
+Thank you so much. I just have two quick follow-ups before I open it up for questions from members. I do also want to acknowledge that we have been joined by Council Members Feliz and Santos. So on the questions that Chair Brooks-Powers asked regarding the racial demographic breakdowns of pregnant people in custody, I understand from what I heard in the data — my question is around comprehensive health care. If we know consistently that the folks coming in for intake are going to be predominantly Black women, Latinas and people of color, and we are looking at comprehensive care and continuity of comprehensive care, would that demographic information not be helpful to look at how we are holistically caring for a person within our custody?
+
+So we can always ask on an individual patient level if that is indicated. I think, as you said, the vast majority of women in our care are Black and Brown women, and we treat really every woman as a vulnerable population by virtue of being incarcerated. So that historically just has not been information that has informed treatment
+
+**(01:06:23)**
+
+
+
+plans. And there is no intake form that you folks do, or do people self-identify? It is not one of the questions on our intake screening. Okay, so
+
+**(01:06:30)**
+
+
+
+there is an intake screening form that we are checking off different questions, but that just is not part of it. Okay. And then just another follow-up from a question that Chair Brooks-Powers asked: further to the notices regarding the nursery and eligibility, and moving from general population to the nursery — have we thought through, or are families notified of the potential to move? How does moving their housing work? Is that something that we have done in the past or are interested in doing? Because maybe sometimes encouragement is needed by family members. Typically we communicate directly to the person in our care, and they would communicate with a family member.
+
+**(01:07:18)**
+
+
+
+Okay. Yeah, generally not. We communicate by means of communication. And what about
+
+**(01:07:25)**
+
+
+
+allies? Are those folks talking with family members? And yeah, I think for counselors or any of our staff, even non-providers, we do often get consent from the person in our care if they would like us to reach out to anyone else, including their family. Our social service team at the Rose M. Singer Center does a lot of actually facilitated phone calls, and families are able to come on to Rikers Island as well, as indicated and necessary. So it could come up — the opportunity for the nursery — but since it is a consented conversation, we are not necessarily privy to what that information or the case would look like.
+
+**(01:08:19)**
+
+
+
+Okay. I would recommend just talking that through with doulas, because sometimes you need your mom, your sister or your partner to tell you this might be best for the time being. And they do not want to feel isolated — they might think the nursery will be isolating, so they want to stay around all their people, which makes sense during a very traumatic experience like being incarcerated and pregnant. But sometimes family support is helpful. I will turn it over to my colleagues for questions before I use the rest of my time. So I would like to first acknowledge CM Morano, followed by Hudson, for questions.
+
+**(01:08:56)**
+
+
+
+Thank you. Thank you both chairs for highlighting such an important topic. Thank you all for your testimony and for being here. Your testimony described the nursery at the Rose M. Singer Center, where eligible mothers can live with their babies until their child's first birthday. I certainly understand the rationale for keeping mothers and infants together, but there is something pretty extraordinary about the fact that New York City has babies living inside a jail, and I do not know that a lot of New Yorkers are totally aware of this. So my question is — just as a follow-up on what Chair Brooks-Powers was asking — how many infants are currently living on Rikers Island, and how many have lived there over the past five years? Currently there is one infant, and since 2022 we have had eight infants.
+
+**(01:09:51)**
+
+
+
+What happens when one of those infants has a medical emergency? Is there a pediatrician on site around the clock, or does that baby have to be transported off of Rikers? Our clinical staff would respond to a medical emergency and then initiate a transfer to Elmhurst Hospital, which is also where babies receive their general routine care.
+
+**(01:10:11)**
+
+
+
+Has the City ever conducted an independent assessment of whether Rikers Island is an appropriate environment for an infant, as opposed to some alternative secure setting that allows mother and child to remain together? I was going to say I actually cannot speak to whether there has been an assessment that has been facilitated. I think most importantly, what has been assessed is the importance of the parental bonding time and ensuring that we are offering bonding between the parent and the child. We are discussing women who are pregnant or who have recently given birth, but I think a lot of folks are also concerned about the children who were already at home when their mothers were incarcerated.
+
+**(01:10:56)**
+
+
+
+Does DOC track how many incarcerated women are the primary caregivers of minor children, including children who suddenly have no parent available to care for them? Our communication with the parent is one of self-report, so while we do maintain knowledge through consent of them sharing with us if they are a parent, and the number of children that they have and the ages of their children, it is not something that is tracked via a database.
+
+**(01:11:33)**
+
+
+
+And do you coordinate with ACS or another agency to determine whether those children are safe or being properly cared for? Yes. While it is true that we do not track some of that information via database, it is part of the new mission intake process to ask that question in order to assess whether there is a child at home who has been left without care, or otherwise in a situation such that we would need to coordinate with the Administration for Children's Services.
+
+**(01:12:00)**
+
+
+
+Could a mother be incarcerated in our City's jail system while nobody in City government has any idea where her young children are or who is looking after them? Again, there is an admission screening process on our end where that question is asked. Of course, if someone does not disclose, we would not necessarily know. The question is asked, and I would hope that a parent would provide that information so that their child can
+
+**(01:12:31)**
+
+
+
+... I will let — sorry, go ahead. I was just going to share and highlight that we have a team of staff and also a dedicated program specifically to support mothers and to encourage some mothers to share that and get services. For example, we have a family visiting and assistance program with our Children's Osborne Association that provides parenting support for everyone who is a mother. So typically they share with us, and there is ongoing support around visitation and child-friendly spaces and support for family members as well.
+
+**(01:13:04)**
+
+
+
+I will end with this. I have to ask about the City's plan to close Rikers Island, because I think that is probably going to have ramifications across the board, including with respect to what we are talking about here. We are talking today about a population with very specialized needs, and we have discussed maternity care, mental health treatment, a nursery and coordination with
+
+**(01:13:29)**
+
+
+
+Elmhurst Hospital. Under the borough-based jail plan, where exactly would the maternity and nursery services that are currently at the Rose M. Singer Center be located? As mentioned, right now it is slated for the Queens Detention Complex, so that is where we are building.
+
+**(01:13:49)**
+
+
+
+The capacity there would be — was it 482? We currently have 482 women in our care. It is approximately 450. Thanks
+
+**(01:14:00)**
+
+
+
+very much. Recognizing Hudson — CM Hudson.
+
+**(01:14:05)**
+
+
+
+Thank you so much. I just wanted to ask a few questions about restraints. Are medical personnel consulted before restraints are applied to a pregnant person? I do not think we have had any specific incidents in recent history that I can call to mind, but I think generally what would be occurring is someone who is at imminent risk of harm against themselves or others. So in that case, if we are trying to prevent harm imminently and de-escalation and all of that has not worked, then we would be applying the restraints directly to prevent harm immediately.
+
+**(01:14:50)**
+
+
+
+Without consulting a medical professional in some cases. And
+
+**(01:14:54)**
+
+
+
+then can a medical provider direct DOC personnel to remove them? I am not aware, but I do not believe so, because again the situations in which restraints would ever be contemplated would be very rare — someone who is at immediate and immense risk of harm. As I noted previously, we are not waiting until we get to a certain location or for a certain thing to happen to remove those restraints. As soon as that person is calm and it is safe to do so, the restraints are removed.
+
+**(01:15:38)**
+
+
+
+Has its restraint policy been revised in response to incidents, complaints or recommendations from oversight agencies? I do not believe it has been revised in the past few years, although I am not aware of specific complaints that we would have received that would have necessitated that. Again, it is extremely rare that this would occur, and we do not have any incidents going back as far as six years.
+
+**(01:16:05)**
+
+
+
+What were the annual expenditures for pregnancy-related medical care for people in custody in each of the past three fiscal years? So, we do not budget
+
+**(01:16:18)**
+
+
+
+by clinical condition or diagnosis, and we are not tracking per patient. Rather, about 80% of our entire budget is devoted to staffing, so most of the pregnancy-related care would be in direct patient services. We do have an OB-GYN, and one recently retired, although we are looking to fill a prenatal nurse position. So those are really exclusively devoted to prenatal care, but in general it is members of the staff from mental health services, the gender-related services team, pharmacy and medicine in general that are supporting that care.
+
+**(01:16:53)**
+
+
+
+And how long has that prenatal nurse position been vacant? I cannot remember the
+
+**(01:17:00)**
+
+
+
+exact date. I apologize. It is greater than a month's time.
+
+**(01:17:04)**
+
+
+
+Greater than a month's time.
+
+**(01:17:06)**
+
+
+
+And we are actively hiring and looking to fill it.
+
+**(01:17:09)**
+
+
+
+What is the average time for hiring medical personnel for positions like that, would you say? Well, once we identify an
+
+**(01:17:20)**
+
+
+
+individual, the onboarding process usually takes about six to eight weeks. It is just a matter of interviewing and identifying the right candidate. And so is that the only prenatal nurse position, or are there others? We only have one.
+
+**(01:17:36)**
+
+
+
+Okay. So there is currently no prenatal nurse — everyone is going without a prenatal nurse?
+
+**(01:17:44)**
+
+
+
+There is a prenatal nurse line, however there are other RNs that work in the environment that can fill that position until that line is filled. Okay.
+
+**(01:17:55)**
+
+
+
+And what was the annual expenditure for the doula program in each of the past three fiscal years? So, I am sorry —
+
+**(01:18:08)**
+
+
+
+approximately $200,000 spanned over four years, so that averages to about $50,000 per year. Thank you. Thank you, chairs. Thank you so much.
+
+**(01:18:20)**
+
+
+
+Just a question around restraints. Can we verbalize the actual current written policy that is governing restraints on pregnant people? Can you give us the written policy — what is it called, how is it framed, what is the verbiage?
+
+**(01:18:41)**
+
+
+
+I believe that the verbiage generally is in alignment with the state law, and DOC outlines it. It occurs in a couple of places — both in our general restraint policy, but also there is a specific policy in relation to pregnant and postpartum individuals, just so that it is clear and everyone receives the training.
+
+**(01:19:03)**
+
+
+
+Can you send us that policy after this so we can read it? I can confer
+
+**(01:19:08)**
+
+
+
+internally. Yeah, thank you.
+
+**(01:19:12)**
+
+
+
+So you folks have already stated that there have been zero people restrained in our custody, with no reports within the past three years. So I just want to
+
+**(01:19:26)**
+
+
+
+understand how we are aggregating data around some of these things. So let us say someone that is incarcerated — not pregnant, just someone that is incarcerated — needs medical care and leaves custody with the NYPD to go to a hospital to receive a medical procedure. Is that what happens when someone needs a medical procedure? No. When someone is in our care and in our custody, they remain in our custody throughout. Officers will be providing that escort.
+
+**(01:19:57)**
+
+
+
+So in the case where
+
+**(01:20:00)**
+
+
+
+I guess what I am trying to figure out is — what we understand from a case that we know of where someone was restrained or had restraints applied — they were technically in NYPD custody but they were still someone that was incarcerated. Correct? I cannot speak to an individual case. I am not sure what is being referenced, but if we are discussing someone who is coming in pre-arraignment, there are custody transfers that occur throughout that process. Once someone has been remanded, our staff are the ones that are transporting and maintaining custody of that individual.
+
+**(01:20:45)**
+
+
+
+Yet we have, in 2026, a woman who was nine months pregnant and gave birth in a Brooklyn courtroom. I guess — we have different reports on whether or not she was handcuffed during birth or post-birth. What I am trying to understand is, with our data, this is a person that was in a courtroom and was technically still incarcerated and under custody. Why is that data point not a data point that you folks are referencing in your data? Or is it that because they are in the courtroom and they are in NYPD custody, they are technically not in your dataset?
+
+I do not know that that person was in our custody. Again, when someone is remanded into our care, they come into our custody. When someone has a court appearance, or when someone is going into a court, at that point staff take custody. But in this specific case, I am not aware of where they were in their court and legal proceedings. If someone is pre-arraignment, that person would not be in our custody until after arraignment. If someone is going to a court appearance and they were not in our custody prior to going, then that would be the agency whose report would be generated.
+
+**(01:22:09)**
+
+
+
+From... I guess what I am also
+
+**(01:22:10)**
+
+
+
+trying to ask is — and that makes sense — I would love to talk offline about this specific case so I can understand the points of whether it is someone that was transferred, someone that is pre-detained, all these different points, to get a better idea on the case itself. What I am trying to acknowledge or infer or figure out is: if and when someone is still under DOC's custody and another agency — whether that is NYPD or someone else — might be involved in an incident with them, whether it is in a courtroom or going to a medical facility, does that dataset still end up on your side, or is it expected that
+
+**(01:23:01)**
+
+
+
+it would go to the other agency?
+
+**(01:23:04)**
+
+
+
+Because I say this — I am only asking because there are times where we use these very specific moments as City government to kind of remove ourselves from accountability of that data point. And so that is what I am trying to get to. I think, point of clarity, pre-
+
+**(01:23:19)**
+
+
+
+arraignment, someone is in NYPD custody. So any... yes, I know. I am just wondering, like,
+
+**(01:23:28)**
+
+
+
+what I will say is there are state policies and state laws that govern restraints on pregnant and postpartum individuals. They are specific for certain agencies. So I think to the extent that someone is transferred into another agency's custody, they would be following their own policies in compliance with whatever laws and oversight are governing them. Our specific policies are guided by state law and our state oversight bodies, and that is why we have those policies in place. That is where the reports are being generated from, and all those
+
+**(01:24:01)**
+
+
+
+timelines. And is there never a moment where someone gets out of your custody and then comes back into your custody — for any court date, anything like that?
+
+**(01:24:12)**
+
+
+
+It is a chain of custody that can occur when someone is given over to do the escorting within the court parts. So that would be a distinction within reporting, yes. But it is kind of associated with the staff that are handling the person in that moment. Yes, those are the policies that would be applied.
+
+**(01:24:32)**
+
+
+
+Applying — I guess that is what I am thinking, and that is what we can continue the conversation offline. But that is the point that I am getting to: if we also use the data sets with the chain of custody in parallel to one another, then that might mean it is not necessarily logging someone that is restrained or shackled or handcuffed for a specific reason, because they are no longer technically in their custody if they are given over to another City agent. So that is the point that I am trying to get to, but again I am happy to specifically talk about this and continue talking about that offline.
+
+**(01:25:09)**
+
+
+
+We have been joined by a Council member. I will pass it over to CM Farías for some questions. Thank you.
+
+**(01:25:32)**
+
+
+
+Thank you, and thank you for being here. I think it is around the same question that the Chair has, but before I get to that I want to ask about the OB-GYN. So the goal is to see the individual within a week's time?
+
+**(01:25:54)**
+
+
+
+Within a week's time. If the person is in their first trimester or second — because I know in the third trimester that is a little more urgent, you need to see that person right away. So upon the completion of the intake review, when they get notice that there is a pregnant individual coming in, the provider will assign an appointment based on the determination of where that person is in their status of pregnancy.
+
+**(01:26:33)**
+
+
+
+OK. Do you keep high-risk pregnancies within the floors? How do you address high risk? Because some folks are very...
+
+**(01:26:45)**
+
+
+
+...have complications. As indicated, we have an infirmary and if that individual needed to live there they can do so. We also have partners at Elmhurst Hospital, so if that individual needed to go they can go there as well.
+
+What happens when a pregnant person has a medical emergency? Does a manager respond right away? Is that something part of the intake? That is what I am trying to get in my head — is it part of the intake process that if you are high risk then you go to Elmhurst Hospital or you go to a clinic set up?
+
+The intake screening will happen at whatever time the individual arrives. They will then be referred to the OB-GYN, who in doing the screening is also clinically competent to determine what the status of that patient is and make a determination if they need to transfer that patient. Again, it depends on clinical presentation. Should they need to consult with our emergency response and urgent care providers on the island, they would also do that as well to get consultation and make a determination as to what to do for the patient.
+
+**(01:28:00)**
+
+
+
+OK. So if that person from the outside had a physician that was following them, would you collaborate with that person and reach out to see what the complexity of that pregnancy is? That is always the goal — to get as much collateral information as we possibly can from our patients. So the answer is yes.
+
+OK. Shackling — we do not shackle pregnant women, do we? Since 2009 there is legislation that passed. Can you tell me how many women in Department of Correction or even NYPD custody have given birth while in restraints since then?
+
+**(01:28:41)**
+
+
+
+Sure, thanks for the question. I cannot speak for NYPD, but I do know that as far as the Department of Correction goes, there have been no women who have given birth while in custody who have been in any form of shackles.
+
+**(01:28:54)**
+
+
+
+Good to hear. If the person is agitated, what...
+
+**(01:29:00)**
+
+
+
+...eight weeks postpartum and they are exhibiting concerning behaviors — obviously this is a challenging time and that can happen — staff would engage in some pretty intensive de-escalation, trying to calm the individual down. There are additional staff members assigned explicitly so that restraints are not utilized, and it is really only as an absolute last resort when there is a situation that arises where imminent harm can come to the person or someone else. So at that point it is a safety determination.
+
+**(01:29:36)**
+
+
+
+Thank you, thank you for your time. Thank you so much. CM Farías, just a couple more questions before we move to the next panel. The City's initiative code created the doula program working group under law. The working group is required to meet every six months. Has it been meeting that frequently, more frequently, or less frequently?
+
+**(01:30:00)**
+
+
+
+Yes, thank you for that question. We are part of the doula support working group. The group meets at least twice a year.
+
+**(01:30:11)**
+
+
+
+And it has been wonderful to be a part of that...
+
+**(01:30:13)**
+
+
+
+...group and get feedback and continue to work with our partners.
+
+**(01:30:17)**
+
+
+
+And what have been some of the recommendations the working group has made, and have any of them been adopted?
+
+**(01:30:27)**
+
+
+
+Yes, absolutely. In their recent report they talked about ensuring that we have a doula program, which we have a really successful doula program. They talked about ensuring that we allow a person to have a support person during birth, which is part of our policy and part of our process. So we have continued to work with the group to make sure that all the recommendations are being implemented.
+
+**(01:30:52)**
+
+
+
+Is there a public place where we can look at those recommendations? Are those...? The group has published a...
+
+**(01:31:00)**
+
+
+
+...report, yes.
+
+**(01:31:00)**
+
+
+
+Would you mind sending that over? I believe it is publicly available. I will look for it, but it would be nice if you had the direct link. And then of course, Correctional Health Services — are women routinely offered...
+
+**(01:31:14)**
+
+
+
+...the option to get a contraceptive such as birth control before release? At their reproductive health encounters they would be offered that. Our patients get scheduled accordingly as well.
+
+**(01:31:26)**
+
+
+
+Do we offer all the options, like an IUD, taking the pill, versus the Depo shot?
+
+**(01:31:33)**
+
+
+
+OK. If there is a...
+
+**(01:31:35)**
+
+
+
+...positive pregnancy test at a screening, is the pregnant person given the option to terminate? Yes. Great.
+
+Are our correctional officers — sorry, folks, got to ask all the questions — are our correctional officers present while a pregnant patient is being examined, or in the hospital during labor and delivery? No. Great.
+
+And then my last question, in case anyone else wants to think of any before we move on — what procedures are in place to ensure continuity of psychiatric care for patients who screened positive for depression, anxiety, postpartum depression or other perinatal mental health conditions while in custody?
+
+**(01:32:24)**
+
+
+
+Right. So as part of the comprehensive medical evaluation, the nurses and medical staff are screening for mental health needs and then they can make the referral to the mental health service. As mentioned, we have a very low...
+
+**(01:32:37)**
+
+
+
+...threshold for those referrals. As mentioned in testimony, more than 80% of women in our care are enrolled in the mental health service. Referrals can be made at any point during the individual's incarceration — from staff, from an officer, from a Legal Aid attorney or other external parties.
+
+**(01:32:59)**
+
+
+
+I appreciate that. I am passing it to CM Brooks-Powers.
+
+**(01:33:30)**
+
+
+
+Are medical personnel consulted before restraints are applied to a pregnant person? I think as I said previously, generally at the point — again, extremely rare — in which we are contemplating restraints, that is a safety determination that is being made, not a medical one. The staff that are with the person, who are observing that behavior and who have not been able to calm them down by other means, would be the ones who are applying the restraints and making that determination.
+
+OK. Yeah, I wanted clarity on it. Thank you.
+
+**(01:34:09)**
+
+
+
+Any other questions? This panel is now excused. We are going to call up the folks from the Board of Correction to join us at the dais.
+
+**(01:35:03)**
+
+
+
+Is anyone else joining the dais? OK. I am turning...
+
+**(01:35:27)**
+
+
+
+...it over to the committee clerk to swear you folks in. Please raise your right hand.
+
+**(01:35:38)**
+
+
+
+Do you firmly swear to tell the truth, the whole truth, before this committee and to respond honestly to Council member questions? Thank you.
+
+**(01:35:45)**
+
+
+
+Please state your names for the record before you begin.
+
+**(01:35:53)**
+
+
+
+Good afternoon, Chair Brooks-Powers, Chair Farías and members of the New York City Council Committees on Criminal Justice and Women and Gender Equity. Thank you for the opportunity to provide testimony on maternal and mental health care in New York City jails. I am Melissa Sinton Hernandez, Board of Correction's interim executive director and general counsel. I am joined by Katrina Blackmun, assistant executive director of monitoring, and Chelsea Augustine...
+
+**(01:36:25)**
+
+
+
+...director of programming and community support.
+
+As an independent oversight body established pursuant to the New York City Charter, the Board serves as a mechanism to keep our City's jail system accountable. The Board establishes, monitors and enforces minimum standards governing the care, custody and safety of people detained in New York City jails. Oversight of maternal and mental health care is a vital part of this mandate. To carry it out, the Board monitors compliance with its minimum standards through regular facility visits and inspections, but also identifies trends and potential areas of improvement through investigations and system-wide reviews, which encompass access to maternal and mental health care, the delivery of services, conditions of confinement and the systems intended to support the health and well-being of people in custody.
+
+Maternal health involves more than the delivery of a healthy child. It must ensure that every person in custody receives the services to keep them and their child healthy. Throughout pregnancy and postpartum, correctional and health care staff must coordinate effectively and respond appropriately to maternal and mental health emergencies, and ensure continuity of care. Accordingly, access to reliable information that allows us to understand whether services are delivered as intended is essential.
+
+Maternal health in every phase is vital and should be regarded as a right of all individuals. The Board has a productive partnership with the Department of Correction and Correctional Health Services on this particular topic. We appreciate their efforts to address the needs of this population, including access to prenatal and specialized obstetric care, mental health screenings, psychiatric referrals and individualized discharge planning — particularly important given the mental health challenges that can arise while incarcerated, during pregnancy and following childbirth, including postpartum depression, anxiety, pregnancy loss and separation from newborns.
+
+The Board has dedicated staff who monitor facilities where people in custody are placed throughout their pregnancy and during the postpartum period. Board staff have advocated for improvements to the nurseries, recreation yard and safe and appropriate housing. When the nursery was temporarily shut down for renovations, recognizing the importance of ensuring that those housed in the nursery or receiving postpartum care are produced for scheduled court appearances, we assess how the Department maintains appropriate childcare arrangements for those residing in the nursery.
+
+Based on our observations of nursery operations throughout the years, the Board recognized that the Department should perform a comprehensive review of its policies regarding the nursery application process to accurately reflect current correctional procedures, including the nine PM lock-in time and the discontinuation of the former punitive segregation designation.
+
+The Board also handles complaints from all people in custody, troubleshooting and resolving them one on one — from something as seemingly minor, but not so minor, as receiving a blanket, to ensuring crucial access to medical care. The Board is there. Guaranteeing that the Board can continue this work is an essential component to maintaining the standards that are currently in place and that continue to need to be improved upon. For that reason, addressing maternal and mental health care in the jails must also mean strengthening the Board's monitoring and research capacities.
+
+Multiple studies performed in jail and prison settings across our country have shown that conditions of confinement for people receiving maternal care are often inconsistent and insufficient, failing to meet the healthcare needs of this population. These same studies have highlighted how children born in custody have a propensity for adverse outcomes of preterm birth, low birth weight and stillbirth. There are also numerous risk factors for morbidity and mortality during pregnancy and postpartum, such as a high prevalence of mental health conditions, chronic illness, substance use disorders and limited access to health care.
+
+Accordingly, there must also be a focus on exploring alternatives to incarceration that would allow expectant mothers to receive care in their communities. Pregnancy and the postpartum period require constant access to medical supervision, mental health support and opportunities to establish and maintain a bond between a mother and a child. Alternatives to incarceration can help reduce disruptions to care and maintain connections to their families and community-based health care providers. The Board's minimum standards of care play a key role in safeguarding access to visits and correspondence with loved ones and creating opportunities to maintain family relationships and system supports.
+
+As we continue to address the services available within correctional facilities, reducing the need for expecting parents to enter or remain in these settings could go a long way to preventing some of the adverse outcomes we are seeing in prisons and jails across the country. To the extent that people in custody are in the care of Correctional Health Services, the Board supports a higher standard of care than would be provided outside of the jail setting, given the serious factors that are at play in this environment. This should include immediate and consistent access to mental health services, particularly postpartum, and a dormitory where people in custody could reside during their pregnancy.
+
+Prior to the creation of the Rose M. Singer Center annex, the Rose M. Singer Center designated a dormitory for pregnant women, which allowed them to be cared for without the risks of being in general population. Those risks are made evident in cases in which certain tactics such as releasing chemical agents or other methods of control need to be deployed in a housing area, which would put a pregnant individual at risk. In addition, amenities such as...
+
+**(01:42:20)**
+
+
+
+...specialized beds and other measures that are often used to provide better care during pregnancy are not generally available in general population. These, along with the rigors of daily jail life, can cause a cumulative effect that results in detrimental outcomes and unnecessary stress for the expectant person in custody.
+
+The Board supports the Council's efforts to bring greater attention to maternal health and believes this legislation provides an opportunity to build upon the ongoing work by officially implementing a policy for coordinated care from pregnancy through the postpartum period.
+
+In conclusion, maternal health — particularly postpartum — encompasses not just the immediacy of childbirth but the months and sometimes years that follow. Access to appropriate medical and mental health care, as well as coordination between correctional and health care staff, are the pillars of maternal health that we should not only uphold but also guarantee through the policies in our correctional system. In accordance with Section 360 of our standards, the Board commends the ongoing efforts by the Department and City Council to ensure availability and access to these resources. We are committed to overseeing the implementation of these policies and reporting any concerns to the relevant agencies, the Council and the public. Thank you again for the opportunity to testify and we welcome any questions you have.
+
+**(01:43:51)**
+
+
+
+Thank you, and thank you for sending your testimony yesterday. I had an opportunity to read it and I appreciate the advance opportunity. Has the Board ever received complaints from pregnant or postpartum people in care at the Department of Correction?
+
+Yes. We have a complaint line that people in custody can call with any issues, and we also have monitors in the facilities talking to all persons in custody, including people who are pregnant. We have received concerns recently. Director Augustine went out to speak to some of the people who are currently pregnant in custody and they reported concerns about beds, about food, access to healthy food, routine access to medical and mental health care. If there is anything else I am missing I can pass it over to the director.
+
+**(01:44:49)**
+
+
+
+Good morning, Chair Brooks-Powers and Chair Farías. Yes — speaking with a couple of the women, they expressed concerns with being housed in general population. Two of those women, while one was in her cell, were present during an incident in which a chemical agent was used. One of those women who was in that unit was in the shower, also suffered from asthma, and so she expressed her concern with being in a general population house where the care and concern from the other women she is housed with is concerning to her, as they are not generally concerned about the health of her child but more so about what is happening in the unit. Thank you for that...
+
+**(01:45:47)**
+
+
+
+...because as you heard earlier, I asked questions about this because I had requested that those who are pregnant be transferred into the nursery, only to hear that only one person has applied. So I am curious in terms of any trends you have identified with some of the complaints from the pregnant or postpartum individuals in custody, and also if you can kind of quantify how many of the complaints — let us say in this year — you have received from women who are pregnant or postpartum.
+
+**(01:46:29)**
+
+
+
+Good morning everyone. Katrina Blackmun, Assistant Executive Director for the New York City Board of Correction. So in terms of quantifying the amount of complaints we have received from pregnant and parenting individuals in custody, that number could vary depending on the census of those pregnant and parenting in custody. But as of recent, in preparation for and even before this testimony, as Director Augustine articulated, at Rikers, where females and pregnant and parenting women reside, one of the things that I can say in stress — and I think one of you pointed it out, which was really helpful — is that having a dedicated housing area for pregnant and or parenting women would be extremely beneficial, because then that concentrates the focus of care for those individuals. It can allow the doula to readily be available to that population, as opposed to — I want to say for lack of a better term — touring around and trying to identify and locate where those individuals are housed in general population. I think having a dedicated location can also, without thinking too hard, allow you to actually know what the quantified number is if they are all in the same location, if that makes sense.
+
+**(01:47:57)**
+
+
+
+Absolutely. Because when I went to visit and I wanted to talk to one of the pregnant individuals in custody, we were on a hunt to try to find them and where they were at that moment. I would also add the mental health benefits of being within a community of people who are going through the same thing you are, and that can be extremely beneficial to these people. So we are really advocating for a space to be identified within Rikers. It does not have to be the nursery. It can be its own dormitory, as it was before, for all pregnant people in custody. And then, have you ever done an analysis as to...
+
+**(01:48:36)**
+
+
+
+...the quality of services offered to pregnant or postpartum people in the Department of Correction's custody, and if so, what were the results? So if we are talking about an analysis in terms of medical care, know that there are certain limits in wanting to do that at full scale. It would require, for example, access to information that is limited to us because of medical privacy laws. However, we do keep a close eye on those individuals. We keep a close eye on the nursery. We monitor the nursery closely. We make sure that when people are out at their court appearances, there is someone within taking appropriate care of the child that is left behind. We receive any complaints about the nursery and address those. But I do not believe we have assessed the nursery conditions themselves recently, besides the backyard that was damaged a few years ago.
+
+**(01:49:43)**
+
+
+
+Are you folks aware of any young adults ages 18 to 21 housed in any pregnancy housing or in the nursery program? I will pass that on to Director Augustine.
+
+**(01:49:56)**
+
+
+
+Blackmun: Yes. To be honest, I have not looked to check the ages of the women who are currently within the facilities who identify as being young adults and who are pregnant within the Department's custody. What I find interesting though is that, in interviewing the women, as was mentioned with having to find where these women are housed, they are housed among general population and the services that they are looking for are not necessarily as easy for them to access, because they would technically have to leave the housing unit in order to get access to those services. But yet, to answer the question, I am not a hundred percent sure, but it is something that we can follow up on if necessary.
+
+**(01:50:54)**
+
+
+
+Yeah, I am just going to say we can follow up. We can check the ages of the people who are currently pregnant in custody.
+
+**(01:51:00)**
+
+
+
+That would be helpful. I mean, if the monthly census helps provide some of that data, whether that is indicating we have young adults in either the nursery program or not, it would be interesting for us to kind of start looking at that and pulling that data. Are there any recommendations for better supporting pregnant and postpartum people in custody that you folks have had in front of you and have been trying to navigate?
+
+**(01:51:28)**
+
+
+
+Yes. The main one is the opening of the dormitory to house all pregnant people in custody. We are also advocating for the nursery application process to be reviewed. It does have outdated language and we...
+
+**(01:51:44)**
+
+
+
+...understand that it has to go through the necessary checks — checking criminal history, checking background history — but anything that can be done to expedite that process and to give resources to the people who are filling them out. We do not want people to be intimidated by the process of having to fill out so much paperwork, so having someone assist them would be very beneficial.
+
+**(01:52:08)**
+
+
+
+And this is a paper application or is this digital?
+
+**(01:52:14)**
+
+
+
+Paper. And if I may add, the process, as has been shared, is not quick — it takes some time. In conversation with one of the women who did apply, I want to say she came into custody in... and the application was finally approved last week. So it does take time. Even though yes, it is voluntary, there is a process and there are other players within the process in order for it to get to that approval point.
+
+**(01:52:50)**
+
+
+
+And do you folks have specific recommendations on how that process can either be expedited or made in layman's terms to make it more intuitive to complete? I feel like sometimes with City government generally, we have applications that have a lot of things we have to fill out and check off for our own dataset, but they are not intuitive...
+
+**(01:53:15)**
+
+
+
+...to a New Yorker that needs to just get through the process. So I am just wondering if there are any specific portions of the application where you are saying this needs to be re-adopted or reframed.
+
+**(01:53:29)**
+
+
+
+I can start off and pass it on to Blackmun, but things that come to mind: this is a panel that is reviewing these applications, so making sure that they have strict deadlines to comply with their review would be extremely helpful. And I will pass it on to Blackmun for any other details.
+
+**(01:53:48)**
+
+
+
+Thank you.
+
+**(01:53:48)**
+
+
+
+Yes. So when it comes to the application process, I want to say that first and foremost it should absolutely be updated and reflective of today's information and language. It should also state that the interdisciplinary panel should be readily identified. Right now, part of the application process in terms of the language is outdated and it speaks to the Deputy Warden of Programs, but as we know right now — and tell me if I am wrong, Director Augustine — there is now the Executive Director of Programs at every facility. So that is part of it. And then when you review the application itself, the nursery application, I think some of the questions are a bit redundant, especially the part about who lives outside of the home and how many children you have. While all that information is important and relevant, I think maybe just having that question once during the application process — anywhere in the application process — is fine.
+
+**(01:54:56)**
+
+
+
+As opposed to having to write it down a couple of times. Because we also have to be mindful of literacy. We also have to be mindful of language. English as a second language is also a thing. Even though the Department has a very robust language bank, some of this information might be a little bit exhausting when you have to write it out multiple times. If you have ever been to the DMV, you know what I am talking about. Yeah, it is. And is this application available in multiple languages? Do you know? From what I could see, I have seen the application in English and in Spanish. Those are the two languages I have seen it in before. Okay.
+
+**(01:55:42)**
+
+
+
+And I just want to highlight that our minimum standards 1-01 requires that any communications of any significant matter are provided to people in the City in their preferred language, particularly if it is Spanish.
+
+**(01:56:00)**
+
+
+
+Yeah, that is why I was asking — just wondering if we have a generated translated version of at least the top five or top seven languages, I think we have as a City. But we can find that out after the hearing.
+
+**(01:56:13)**
+
+
+
+Just my last question. The Board's rules require that clothing be provided to people in custody, but it is not explicitly mentioned for children who are living with the incarcerated parent as part of the nursery program. Do you think the rules adequately cover the necessary infant clothing and materials needed for the children that are with their parent in custody? I can confirm that the rules do not go into that. I think there is definitely space to include that information, particularly in our Chapter Three where we speak about pregnancy and postpartum care, to ensure that any children who are in custody do have adequate clothing. So that is definitely a gap in our minimum standards that should be addressed.
+
+**(01:56:57)**
+
+
+
+OK, thank you for that. I do not have any additional questions, Chair. Just the follow-up: what data does the Board receive on the current number of people who are currently in custody who are pregnant, and what information would be useful for your oversight function as it pertains to pregnant and postpartum folks in custody?
+
+**(01:57:27)**
+
+
+
+So currently we have access in terms of being able to identify where the person is so we can go speak to that individual. On the medical side, because of again the limitations that we have to medical information due to medical privacy laws, if we want to do a wholesale review of the kind of medical care that is given to this population, we will be limited. And if we want to do one-on-one evaluations with the individuals that are currently in care, we would rely on consent. So that would certainly be of help to the Board. Our access to medical information is governed by the Public Health Law and the Mental Hygiene Law. There is currently a provision that allows us to have access to medical records of those who have died in custody. Expanding that — we have advocated to the State Legislature to expand that access to encompass other types of medical information, particularly for vulnerable populations — will be extremely helpful.
+
+**(01:58:30)**
+
+
+
+I would like to acknowledge we have been joined by a Council member as well. But seeing no additional questions... so, how many pregnant women are in custody right now, do you know? So there are five women who are either pregnant or receiving postpartum care, plus one mother and one child in the nursery. OK. So how many of them gave birth actually while in custody last year? I am not...
+
+**(01:59:02)**
+
+
+
+...familiar with that. I will pass it over to Director Augustine to see if he has the information, and if not we will certainly follow up with an answer. OK, go ahead. Go ahead. So we do not have that information, but again as was shared, we can absolutely get it if necessary.
+
+**(01:59:29)**
+
+
+
+I will add that the person who is in the nursery right now I believe gave birth earlier this year.
+
+**(01:59:36)**
+
+
+
+OK. And also, I do not know if you are counting stillbirths as well, because in conversation with the women in the facility, one did disclose to me that she did experience having a stillbirth.
+
+**(01:59:53)**
+
+
+
+Yes. And to add to that, when I asked her if she had had access to mental health support, she said she had not met with anyone from a clinician or any mental health professional since that experience.
+
+**(02:00:10)**
+
+
+
+Thank you. And I am going to ask you about the restraints as well. How many women give birth while being restrained, for whatever the reason — be it agitation or...
+
+**(02:00:23)**
+
+
+
+...something else? Thank you for the question. So far, to the Board's knowledge, we have not encountered, nor have there been any reports of, women in custody who are pregnant or giving birth who are restrained during labor or delivery. Thank you. When a...
+
+**(02:00:42)**
+
+
+
+...woman goes into labor, it was at Rikers... at Sanger.
+
+**(02:00:47)**
+
+
+
+How long does it take from the time of labor to get to the hospital, and what are the steps? In terms of the time it takes, that is something we will have to follow up on with the information that they have. We will need to receive consent from the person in custody to be able to access that particular information. But as we have heard earlier from...
+
+**(02:01:14)**
+
+
+
+...the mother, the person is transported to Elmhurst Hospital to give birth.
+
+**(02:01:17)**
+
+
+
+I do just want to clarify for the Council member — we are in front of the Board of Correction. I know, I know. I am getting to it. I know very well.
+
+**(02:01:27)**
+
+
+
+Yes, I got you. I got you. But the reason I am asking is because, in the statement you made, you were very clear — so I am assuming that you know you have a great partnership, and those are the important steps. Because what I am learning, as being a nurse, is that the time it takes from that person going into labor — if we are not addressing it, it becomes complex. You can lose a baby. So that is where I am going with you, Madam Chair. So if it is complex, you can lose that baby during the process. Because I deal with high-risk pregnancy and I know the importance of it — the time the person is in labor and what are the steps and the paperwork before you can get that person...
+
+**(02:02:21)**
+
+
+
+...to a hospital.
+
+**(02:02:22)**
+
+
+
+So I am raising it as an observation. Thank you. Just note that because that can be a complication. Thank you.
+
+**(02:02:30)**
+
+
+
+Thank you folks. We have been joined by CM Gutiérrez as well. For this panel, I do not see any additional questions. We will follow up with the Department of Correction on the questions from any other colleagues on the panel so they can get the appropriate answer in the right context. You folks do not need to follow up on that. This panel is now excused. Thank you so much for your time today.
