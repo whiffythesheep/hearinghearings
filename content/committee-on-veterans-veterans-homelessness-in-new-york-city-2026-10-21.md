@@ -1,0 +1,1451 @@
+---
+committee: "Committee on Veterans | Committee on General Welfare"
+committee_slug: committee-on-veterans
+title: "Veterans Homelessness in New York City"
+date: 2026-10-21
+slug: committee-on-veterans-veterans-homelessness-in-new-york-city-2026-10-21
+duration: "5hrs 2m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_261021-100521.mp4"
+viebit_hash: "uLJo8jNefsd5vsV8"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444702&GUID=609E6242-DEB4-499D-981C-893B52C7B3E4&Search="
+chairs: "Frank Morano | Crystal Hudson"
+members: "Carmen N. De La Rosa, James F. Gennaro, Vickie Paladino, Phil Wong"
+---
+
+Summary
+
+Meeting Overview
+
+The joint hearing of the Council's Veterans and General Welfare Committees, chaired by Frank Morano and Crystal Hudson respectively, focused primarily on oversight of veteran homelessness in New York City, with particular attention to the Borden Avenue Veterans Residence (BAVR) in Queens — the city's only dedicated veterans shelter. The hearing also took up four legislative items: Int 0897-2026 on Department of Social Services winter weather response protocols; Int 1051-2026 on an alternative property tax exemption for seriously disabled veterans; Res 0560-2026 calling on Congress to pass the Fair Access to Co-ops for Veterans Act; and Res 0634-2026 designating the week of Veterans Day annually as Veterans Organizations Awareness Week.
+
+The administration was represented by DSS Commissioner Aaron Dalton, DVS Commissioner Yesenia Mata, and their respective deputies. Their testimony covered the mechanics of veteran intake and housing placement, trends in shelter population, and the controversial decision to decline a federal VA Grant and Per Diem award. On the GPD grant, Dalton explained that the VA reduced the award from $4 million covering 154 beds to $1.3 million covering 44 beds, and attached new conditions flowing from Executive Order 14168 requiring intake procedures based on biological sex — conditions the city concluded would violate state and local anti-discrimination law. The city declined the grant entirely and is covering the full shelter cost from city tax levy funds. Members questioned whether the city could have accepted the reduced funding while challenging the conditions legally; Dalton said the legal analysis indicated this was not possible with a new grant agreement, and committed to providing that analysis to the committee in writing.
+
+Conditions at Borden Avenue dominated council member questioning and generated the hearing's most heated exchanges. Multiple members — including CM Julie Won, whose district contains BAVR, CM Vickie Paladino, and CM Phil Wong — described what they observed during visits: open communal showers with no privacy partitions, roof leaks managed with tarps and buckets, inadequate and nutritionally poor food, absence of services including AA and NA meetings that were suspended during COVID and never resumed, restricted access to the on-site kitchen, and a shelter population that felt unsafe complaining openly. Dalton acknowledged these problems and committed to shower privacy partitions within six to eight weeks, a $4.3 million roof and skylight replacement (procurement starting soon, construction June 2027 to December 2029), a $2.9 million flood wall (December 2027 to December 2028, 75% federally funded), food vendor changes, and efforts to bring outside service providers back into the building. The gap between the urgency of these problems and the multi-year repair timelines drew pointed criticism, with the chair directly asking why fixing a leaking roof takes three years in New York City.
+
+A secondary controversy arose over the shelter visit protocol. Several members described being presented with what they understood to be an NDA before entering BAVR. Dalton clarified that the document is not an NDA but a confidentiality agreement required under State Social Services Law Section 136 and NYC Administrative Code 23-1201 through 23-1205, protecting resident identity and privacy — not building conditions. Members may discuss tarps, food quality, and physical conditions freely; they may not identify residents publicly. Chair Morano disputed whether the law actually requires restricting elected officials' access for oversight purposes, citing City Charter Section 29, and signaled that council legal staff would review the matter. The hearing closed with public testimony pending from five panels of witnesses.
+
+On the broader homelessness picture, Dalton noted that the city counted 791 veterans in shelter and only one unsheltered in the 2026 point-in-time count, and that New York City has the lowest veteran homelessness rate among major US cities. However, the number of homeless veterans has risen from 482 in 2022 to 697 in 2025, a trend the administration attributed in part to declining federal HUD-VASH vouchers, which have dropped approximately 93% from their peak nationally. DVS reported accelerating permanent housing placements, reaching 209 in FY26, with all 209 veterans still housed as of the hearing date. Average shelter length of stay is 281 days system-wide, with the bottleneck typically in document gathering for veterans who lack ID, birth certificates, or Social Security cards. DVS reported a median of seven to eight months from initial housing assistance request to permanent housing placement.
+
+Numbers
+
+- Homeless veterans in New York City in 2015: 1,558.
+- Homeless veterans in New York City in 2025: 697, a 44% decline from 2015.
+- Homeless veterans in New York City in 2022: 482, meaning the count has risen 44% since that low point.
+- Veterans counted in shelter in the 2026 point-in-time count: 791, with only 1 unsheltered.
+- VA Grant and Per Diem award previously received by the city: up to $4 million covering 154 beds over three years.
+- VA Grant and Per Diem award offered for the new cycle: up to $1.3 million covering 44 beds, a 70% reduction.
+- BAVR total bed capacity: 231.
+- BAVR residents as of October 19, 2026: 168; as of the hearing date: 198.
+- Beds offline due to roof leaks and tarps: 7.
+- Cost of full BAVR roof and skylight replacement: $4.3 million, with construction scheduled June 2027 to December 2029.
+- Cost of new flood wall behind BAVR: $2.9 million; 75% covered by federal resiliency funding secured via Congresswoman Velázquez, remainder from capital funds; construction planned December 2027 to December 2028.
+- Serious incidents at BAVR January to October 2026: 307, down 44% from 674 in the same period in 2025.
+- 911 calls to BAVR January to September 2026: 419, down 48% from 813 in the same period in 2025.
+- Psychiatric emergencies at BAVR fell by more than 50% year-on-year; drug and alcohol incidents fell 39%; fights fell 31%.
+- BAVR resident complaints in 2026: 35, down from 43 in the same period in 2025.
+- Veterans permanently housed by DVS: 55 in FY22, 100 in FY23, 126 in FY24, 153 in FY25, 209 in FY26.
+- All 209 veterans placed in permanent housing in FY26 remain housed as of the hearing date with zero returns to shelter.
+- DVS completed 318 housing viewings and assisted with 231 affordable housing applications in FY26.
+- 702 veterans responded to DVS aftercare calls in FY26.
+- DVS aftercare framework covers scheduled follow-up contacts extending 22 months after placement.
+- Average shelter length of stay system-wide: 281 days; single adult veterans: 285 days; adult families with veterans: 199 days; families with children with veterans: 169 days.
+- Median time from initial housing assistance request to permanent housing placement: 7 to 8 months.
+- Of 414 subsidized placements in FY26: 41% were CityFHEPS or supportive housing, 5% SOTA, 4% Section 8 and other including NYCHA.
+- Women veterans in the shelter system as of the hearing: 55.
+- Veterans in shelter by last borough of address: Bronx 24%, Brooklyn 23%, Manhattan 21%, Queens 12%, Staten Island 2%, no verifiable NYC address 17%, unknown 1%.
+- Council Districts 14, 15, and 31 generated the most housing assistance requests to DVS in July to August 2026.
+- City's total annual budget cited in comparison: $126 billion, with approximately $6.5 million directed to veterans services.
+- HUD-VASH vouchers nationally have declined approximately 93% from their peak according to DSS testimony.
+- 173 veterans moved from BAVR into housing in FY25, surpassing the annual target of 155; 141 moved into housing from January to October 2026.
+- BAVR has had ICL as its operator since 2008.
+
+Action Points
+
+- DSS to provide the committee with the legal analysis explaining why the city could not accept the reduced VA Grant and Per Diem award while separately challenging discriminatory conditions in court.
+- DSS to investigate and report back on whether emergency or expedited procurement could reduce the BAVR roof replacement timeline below the current June 2027 to December 2029 schedule.
+- DSS to provide a hard completion date for shower privacy partitions at BAVR, with work expected within 6 to 8 weeks of the hearing.
+- DSS to provide a breakdown of BAVR 911 calls by incident category to CM Wong.
+- DSS to update the BAVR page on the city website to reflect that the shelter currently houses only male veterans, not male and female.
+- DSS to confirm in writing the number of culinary program slots reserved for BAVR veterans and investigate and report back on whether veterans are in practice being turned away from the program.
+- DSS to discuss with BAVR and ICL leadership whether veterans can bring outside food into the shelter and have it heated in the cafeteria, and correct any policy being applied inconsistently with stated DHS rules.
+- DSS to provide the committee with a written copy of DHS shelter access policy 2026-001 governing elected official visits.
+- DSS to commit in writing within 30 days to a status update on the shelter capacity plan, the future of the nonprofit ownership program, and any policy or budget barriers preventing new safe haven and drop-in center projects from advancing (committed by Commissioner Dalton in response to Chair Hudson).
+- DSS to report back with housing retention rates for permanently housed veterans at 6, 12, and 24 months post-placement.
+- DSS and DVS to work together to identify and report back on the number of transgender and gender-nonconforming veterans in the shelter system.
+- DVS to assess whether a dedicated shelter or specialized programming for women veterans experiencing homelessness, particularly those with military sexual trauma, would be warranted given the current population of 55 women veterans in shelter.
+- ICL and DSS to finalize and implement food vendor changes at BAVR and report back to the committee on outcomes.
+- DSS to explore use of BAVR commercial kitchen for resident meals, including potential partnership with military chefs, and report back to the committee on procurement timeline.
+- DSS to reinstate AA, NA, and other service programs at BAVR that were suspended during COVID and not resumed, and establish a streamlined process for outside providers and volunteers to access the shelter.
+- DVS to provide the committee with housing retention rates at 6, 12, and 24 months for veterans placed into permanent housing (separately requested by Chair Morano from Associate Commissioner Smalls).
+- DSS to identify the individual depicted in the portrait hanging in the BAVR library and report back to the committee.
+- Council legal staff to review whether State Social Services Law Section 136 and NYC Administrative Code 23-1201 through 23-1205 actually require restricting unannounced elected official access to shelters, in light of City Charter Section 29 oversight powers.
+- DSS to monitor BAVR building conditions and provide ongoing construction progress updates to the Council as capital works advance.
+
+## Full Transcript
+
+**(00:00:13)**
+
+
+
+Thank you. Good morning and welcome to today's New York City Council hearing from the Committee on Veterans, joined with the Committee on General Welfare. At this time I would like to remind everyone to please silence their electronic devices, and at no point is anyone to approach the dais.
+
+**(00:00:27)**
+
+
+
+Chairs, we are ready to begin.
+
+**(00:00:31)**
+
+
+
+Hello everyone. I am CM Frank Morano. I have the privilege of being the Chair of the Committee on Veterans, and this is my kind of hearing. Not only do I love to see a packed house both at the testimony table and not an available seat to be had in the crowd, which hopefully means we will have a lot of members of the public testifying, I am also hoping we will have a lot of folks testifying on Zoom.
+
+When I sought to have this chairmanship, I really sought to do it because I thought this would be a position where I could really help a lot of people, particularly people who do not get the help that they deserve from the City, the State and the federal government, in spite of the fact that they are still the first to help others. I am particularly excited that it is a joint committee hearing with the Committee on General Welfare. I am joined by my colleague CM Crystal Hudson, Chair of the Committee on General Welfare, and we are doing this joint oversight hearing on one of the most important issues facing New York today, and that is the issue of veteran homelessness in New York City. Thank you for joining us to discuss this important topic.
+
+I was so eager to co-chair this hearing with CM Hudson not only because of my respect for her as a Council Member, but because we do not see the world the same way. We come from different political parties, different ideologies, different boroughs, different genders. If there is a difference chart, we are just about on a different page when it comes to everything. But we are on the same page when it comes to the importance of needing to do something about veteran homelessness. In addition to hopefully getting a lot of great ideas in terms of future legislation, in addition to shining a light on some things that need to have a light shone on them, in addition to enhancing our own knowledge about Borden Avenue specifically, my hope is that by having two people like us who come from totally different corners of the world addressing this problem in a very real way and taking it seriously, hopefully this is a wake-up call to the eight and a half million New Yorkers that might not be attuned to this issue, that we have 140,000 to 150,000 people that could really use help in this City. That is why I am excited about this.
+
+Like many communities across the country, New York City continues to face a homelessness crisis driven by rising housing costs and a shortage of affordable housing. Veterans are not immune to these challenges, and ensuring that those who served our country have access to stable housing remains a critical responsibility. Now the good news is New York City has made significant progress in reducing veteran homelessness over the past decade. In 2025 there were 697 homeless veterans in New York City, that is down from 1,558 homeless veterans in 2015. That is a 44% decrease. I can promise you I am going to be working pretty hard on this issue until that number goes from 697 to zero. There should be no excuse for veteran homelessness in New York City as far as I am concerned.
+
+The successes that we have had are due in part to the coordinated efforts of the City and their partners, and we are going to hear from them all today. Veterans experiencing homelessness can access emergency shelter, transitional housing, rental assistance, case management and permanent housing opportunities, and these services have helped many veterans move from homelessness to permanent housing and achieve long-term stability. However, between 2022 and 2025, the number of homeless veterans has increased a little bit. Since 2022 we have seen an increase from 482 to 697 individuals. So while we are in a much better position from where we were ten years ago, we are not in as good of a position as where we were four years ago. What is going on? What is driving that? Why do we have more homeless veterans now than we did in 2022, and more importantly, what can we do about it?
+
+This increase is raising a lot of important questions about whether existing housing resources, supportive services and homelessness prevention efforts are keeping pace with current needs. Specifically, we are going to be diving headfirst into what is going on over at the Borden Avenue Veterans Shelter. CM Hudson has been there, I have been there, CM Wong has been there. I know a number of members of the committee and a number of Council Members who are not on my committee have been there, and we all have independent observations. We are going to be posing the questions about what we observed to all the folks that you are going to hear from today.
+
+There is also a whole lot of uncertainty surrounding federal funding for the Borden Avenue Veterans Shelter, and conflicting explanations that have been offered regarding the facility's exclusion from the latest VA Grant and Per Diem funding awards. What is going on here? Is this something that is easily rectifiable? And beyond that, can we make sure that every veteran that had a bed that was paid for by this VA grant sees no disruption in that bed because of the City's decision to opt out of this grant? The City has committed to maintaining services, but questions remain about how lost federal funding is going to be replaced and what impact, if any, the funding dispute has had on operations. The discussion has also renewed attention to reported concerns about the conditions at the shelter and the quality of life for veterans living there, at a time when veteran homelessness is rising. It is pretty important that there are absolutely no disruptions, not just to housing but to the supportive services that veterans are seeking. It is equally important that efforts to move veterans from shelter into permanent housing remain a priority regardless of the recent events affecting funding.
+
+Today's hearing is an opportunity to examine the effectiveness of the City's response, identify remaining gaps and ensure that veterans experiencing homelessness receive the necessary support they need to secure and maintain permanent housing.
+
+In addition to our oversight topic today, we will be hearing about a number of pieces of legislation. Int 1051-2026, sponsored by me, which would amend the administrative code in relation to an alternative exemption for seriously disabled veterans — I will talk more about that in a minute and hopefully we will hear some testimony from the public about this. We are going to be hearing Int 0897-2026, sponsored by CM Foley, which would amend the administrative code in relation to the Department of Social Services' response to certain severe winter weather events. We are going to be hearing Res 0560-2026, sponsored by CM Paladino, which is calling on the federal government to enact the Fair Access to Co-ops for Veterans Act. And we are going to be hearing Res 0634-2026, which I have also sponsored, which is seeking to recognize 501(c)(19) veteran organizations and designate the week that includes November 11 annually as Veterans' Organizations Awareness Week.
+
+Before I conclude, I want to acknowledge CM Hudson, Chair of the Committee on General Welfare, for working with me on this oversight hearing. It is clear that she recognizes as much as I do how crucial it is to address the housing issues veterans face and the barriers to safe and stable shelter that a lot of people still experience. I would also like to thank the committee staff: Legislative Counsel Hanna Cohen, Policy Analyst Manor Buta, Senior Financial Analyst Nina Rosenberg, and Community Liaison Sebastian Nematt for their hard work in preparing for this hearing.
+
+**(00:09:13)**
+
+
+
+I would also like to thank my staff for their work as we continue to serve our constituents and the City as a whole. I am looking forward to today's testimony and to strengthening support for veterans experiencing homelessness in New York City. I will now turn it over to...
+
+**(00:09:36)**
+
+
+
+Thank you so much, Chair Morano. You went through a litany of differences that we have, but a couple of similarities I will say: we are both parents, and your siblings live in my district. So you have got some pretty smart family. I do not want to tell you who their favorite Council Member is.
+
+**(00:10:00)**
+
+
+
+Good morning everyone. My name is Crystal Hudson. I am Chair of the General Welfare Committee and my pronouns are she/her. I want to welcome our veterans, their families, caregivers, service providers and advocates who have joined us today. Your input is invaluable to the work of this committee and plays an important role in what we do moving forward.
+
+As of the most recent data released on veteran homelessness in New York City, there are approximately 700 homeless veterans in our City, including those that are living in shelter. While this number represents a decline in the number of homeless veterans since 2014, it is still unacceptable. These are New Yorkers who valiantly served our nation at an enormous personal cost and who are counting on their City to guide them into stable and permanent housing. Our aim with this hearing is to hear from the City's providers, veterans and homeless advocates about how we can improve the services we provide to our veterans. The hope is to have a productive, cordial discussion where we learn more about what is happening on the ground, what the Council can do as an oversight and legislative body, and how we ultimately get our veterans housed.
+
+**(00:11:06)**
+
+
+
+I would like to mention and thank Commissioner Dalton for joining me last night in our visit to the Borden Avenue Veterans Shelter. I think the Commissioner has done a lot of work to address the specific shelter and the issues there. We spoke with a number of veterans at the shelter last night, and I think ultimately what we can all agree on is that they are not getting what they should as veterans. That is not even in terms of the specifics at the shelter, but broadly and culturally. I will say in this country I do not think we are providing veterans with all that they need and that they rightly deserve.
+
+I would like to thank the administration for being here, Chair Morano and my colleagues for their constructive engagement, and advocates, veterans service organizations and families for joining us. I also want to thank committee staff for their work on this hearing. The names have already been mentioned but I will say them again: Hanna Cohen, Nina Rosenberg and Justin Campos. I also want to thank my staff: Andrew Wright, Aleka Ruewanton, Demi Brown and Maddie Morehead. With that I will return the mic back to Chair Morano.
+
+Thank you. Thank you, Chair Hudson. I also was negligent in not acknowledging and thanking the man who has got the toughest job in City government, the Executive Director of the New York City Republican Conference, Peter Spencer, who has been a big help not just in this hearing but in everything that we do. I want to acknowledge several members of the Veterans Committee that are here: CM Wong, CM De La Rosa, who people are still talking about for the incredible job that she did chairing the AI hearings, and CM Paladino, who I have to tell you, in addition to representing more veterans in her district than all of the rest of us, has really been the most vocal about the need for this committee to pursue joint hearings with other committees because of all the common areas that veteran issues share with the rest of the City's work. I have to tell you, this hearing is largely a byproduct of her energy and her insistence that we do that. All of these joint hearings I have found to be incredibly informative and incredibly productive. CM Paladino, thank you for your advocacy for veterans. Before we begin I would love for you to speak about your resolution, which I am proud to sponsor. Thank you.
+
+**(00:13:43)**
+
+
+
+Thank you, Frank. Thank you to everybody who came out this morning. Veterans served our country and should have the opportunity to use their VA home loan benefits to purchase a co-op or a condo, just as they used their benefits to purchase homes. Much like how my mother and father got their home — my father was a World War veteran and they got their loan through the VA. I would like to see the expansion of homeownership opportunities, allowing eligible veterans, service members and surviving spouses to use VA-backed loans to purchase co-ops. We need to address New York City's housing market. Co-ops and condos make up a significant portion of New York City's housing market and can offer more affordable alternatives to other types of homes, helping veterans to build equity and put down roots in their communities.
+
+The bottom line here is veterans should not face unnecessary barriers to homeownership simply because they live in a city where co-ops are common. This resolution calls on Congress and the President of the United States to advance legislation that expands access to homeownership and gives eligible veterans more housing options, particularly in New York City. We call upon... Grace Meng introduced a great bill down in Washington. I have a terrific relationship with Congresswoman Meng and I would like to see this sped up through her work with me together at the state level. That is basically all I have to say about that.
+
+Our veterans are not treated fairly. We know that. We visited Borden Avenue and I have to say we are being very kind in our description of Borden Avenue. Borden Avenue is an absolute disgrace, and the idea that we only have one homeless shelter here in Queens known as Borden Avenue and it is in the condition that it is in is shameful and we should be ashamed of ourselves. You hear me say this at almost every committee hearing: a $126 billion budget, and out of that budget only $6.5 million goes to our veterans. So as a committee we have a lot of work to do, and the first thing we need to do is stir up some real money. Whether it comes from private entities, we need to reinvent how the City serves veterans, because obviously the City is falling behind.
+
+**(00:16:45)**
+
+
+
+We are falling behind. Okay, thank you everybody. Thank you, CM Paladino. Before we hear from the administration I also want to acknowledge my colleagues...
+
+**(00:17:49)**
+
+
+
+Ready. Good morning, Chair Morano, Chair Hudson and distinguished members of the Committees on Veterans and General Welfare. My name is Yesenia Mata and I have the honor of serving as Commissioner of the New York City Department of Veterans' Services. Thank you for the...
+
+**(00:18:06)**
+
+
+
+Thank you for the opportunity to testify today on the critical issue of veterans homelessness and to highlight the work our agency is doing to ensure that veterans and their families have access to safe, stable and permanent housing. I also want to take a moment to recognize the many individuals who, while they may not have served in uniform themselves, continue to stand alongside our veterans in service to them — from our City Council members, government partners and nonprofit organizations to housing providers, advocates and community members. Their commitment reminds us that supporting those who have served is not solely the responsibility of veterans or any one agency. It is a shared responsibility that requires all of us working together.
+
+As a soldier and a military spouse, I understand that service does not end when someone takes off the uniform. Neither should our commitment to the people who have served. Every veteran deserves the opportunity to live with dignity, stability and a sense of belonging in the city they call home. Housing is fundamental to that commitment. When we talk about veterans homelessness, we are not talking about a single experience or a single pathway into crisis. Some veterans are staying in shelter, others are facing eviction, struggling to pay rent or living in unstable situations that may not immediately be visible. Some are navigating physical or mental health challenges, disability, employment transitions or complicated systems.
+
+Our responsibility is to see the whole person and intervene as early as possible. Our housing and supported services team provides an end-to-end, veteran-centered approach that begins with outreach, intake and assessment, continues through housing navigation, applications, subsidy coordination, inspections and lease follow-up, and extends into aftercare and housing retention. Our work is grounded in a housing-first oriented, trauma-informed approach, recognizing that permanent housing is a foundation from which other aspects of stability can grow. Veterans come through community partners, shelter providers, VA facilities, direct outreach, walk-ins and referrals. It is important to our agency to meet veterans where they are. For example, although the Borden Avenue Veterans Residence is not designated as a veteran resource center under the New York City Charter, we maintain a presence to provide resources and services to residents. No matter where a veteran may be, our staff works with each individual to understand their housing status and income, safety concerns and immediate needs. Together they develop an individualized housing plan. That plan may involve locating an apartment, arranging a viewing, gathering documentation, coordinating with a landlord or identifying the subsidy best suited to the veteran's circumstances. No single voucher or housing program meets every need.
+
+We help veterans navigate pathways that include the veteran-focused Section 8 administered through NYCHA and HUD-VASH in partnership with the United States Department of Veterans Affairs.
+
+We also assist with documentation for one-shot deals when emergency financial assistance can help address arrears or other housing costs. We do not independently control eligibility determination, inspection, payment or approval. Our role is to help the veteran navigate those steps and keep the process moving across agencies. We have seen meaningful progress. According to our July 2026 VetStat reporting, permanent housing placements grew from 55 in FY22 to 100 in FY23, 126 in FY24, 153 in FY25 and 209 in FY26. Our team also completed 318 housing viewings and assisted with 231 affordable housing applications. These numbers represent individual veterans taking steps toward greater stability and the sustained work of staff and partners behind each placement. But a placement is not the end of our responsibility. I want to emphasize this point. Giving a veteran the keys to an apartment is a major milestone, but keeping those keys is just as important. A veteran may still need help with benefits recertification, employment, food, health care or an unexpected financial emergency. Without that continued support, a housing placement can remain fragile.
+
+Our current aftercare framework includes scheduled follow-up contacts extending through 22 months after placement. Those contacts help staff identify rent or subsidy issues, housing conditions, safety concerns and other threats to stability. In FY26, 702 veterans answered an aftercare call. We continue to look for ways to improve early follow-up and more consistently connect veterans to the broader supports they need. Any proposed enhancements remain subject to review and approval. Our existing policy remains in effect. Prevention must be part of the same conversation. When we identify a veteran at risk of losing housing, we can coordinate referrals for financial assistance, legal support, landlord engagement, benefits and other services before homelessness occurs. A successful housing system should be measured not only by how many people move into permanent housing but also by how many remain there.
+
+None of this work happens in isolation. We rely on close coordination with the Department of Homeless Services, HRA, NYCHA and the VA, shelter operators, property owners, nonprofit housing providers and legal and community-based organizations. Each partner has a distinct role, and we help bring those roles together around the veteran and their housing plan. That coordination is particularly important when a case requires multiple documents, inspections and payment processes before a move can take place. We also recognize that housing needs intersect with mental health, employment and family stability. A veteran seeking an apartment needs a connection to health care. A veteran who has moved in needs help securing employment or accessing benefits. Our team works with veterans-serving and community partners to make those connections rather than treating housing as a stand-alone transaction.
+
+Looking ahead, our strategic direction emphasizes faster pathways to permanent housing, stronger landlord relationships, earlier eviction prevention, comprehensive aftercare and better performance tracking. We also want to strengthen equitable access for women veterans, LGBTQ+ veterans, older veterans, veterans with disabilities and communities that face additional barriers to services. We are examining how we measure placement timelines, voucher utilization and long-term housing retention so that we understand where the system works and where it needs attention. I want to be clear: our work is not complete when a veteran accesses shelter, and it is not complete when a housing application is approved. It is complete only when we have done everything within our role to help that veteran build lasting stability. That requires coordination, accountability and a willingness to keep improving our systems.
+
+Our veterans have served this country in different eras, in different capacities and with different experiences. They deserve a city that recognizes their service not only through ceremonies and words of appreciation but through a practical pathway to safe, stable housing and the support needed to remain there. Lastly, on Int 1051-2026, the Department of Veterans' Services supports the intent of this Bill and refers to our colleagues at the Department of Finance. Thank you for the opportunity to testify and for the Council's continued attention to the needs of New York City's veterans and military-connected community. I look forward to our continued partnership and am happy to answer any questions.
+
+**(00:27:15)**
+
+
+
+Good
+
+**(00:27:17)**
+
+
+
+morning, Chair Hudson, Chair Morano, members of the Committee on General Welfare and members of the Committee on Veterans. I am Aaron Dalton and I serve as the Commissioner of the Department of Social Services. Joining me today as Deputy Commissioner
+
+**(00:27:30)**
+
+
+
+for Adult Services and Shelter Operations is Sonja Russell. Thank you for convening today's oversight hearing on veterans homelessness in New York City. The New York City Department of Veterans' Services estimates that there are more than 200,000 veterans who call New York City home. We thank them and all U.S. veterans for their service. New York City has demonstrated its commitment to veterans experiencing homelessness. We opened the first veterans-specific shelter in the country, lead the country in efforts to get to functional zero in veterans homelessness and today have one of the lowest veteran homeless rates of anywhere in the country. In the 2026 point-in-time count, we counted 791 in shelter and only one unsheltered person who identified as a veteran.
+
+I would like to start with an explanation of how we identify and serve veterans in the homelessness system. Every person who comes to intake is asked whether they served in the U.S. military. When someone identifies as a veteran, we conduct a verification using the Veterans Affairs square system. Where a veteran is placed depends on whether they identify as a single adult man, an adult family or part of a family with children. For single adult men who report a self-reported veteran status, they are offered a bed at Borden Avenue Veterans Residence, or BAVR. If BAVR has no bed available, or if they prefer a different setting, they are offered another placement at a VA veterans resource center. The site's operator, the Institute for Community Living, completes intake including screenings for physical health, substance use and disability needs. Until October 1 of this year, we ran two programs in the same building: a VA-funded program partly funded and overseen by the U.S. Department of Veterans Affairs through its Grant and Per Diem program, and a City program funded and overseen by us for everyone else at the site.
+
+Every veteran referred to BAVR was assessed for the GPD program. The VA decided eligibility using its own criteria, including military discharge status, eligibility for VA healthcare and willingness to follow program rules. Veterans the VA accepted were placed in the GPD program. Veterans the VA found ineligible, or who chose not to take part, were placed in the City program. The GPD program at BAVR has now ended. There is no longer a separate VA eligibility decision and every veteran at BAVR is placed in the City program. Staff from the New York City Department of Veterans' Services, the VA and the Supportive Services for Veteran Families, or SSVF, continue to work on site. For single adult women, women veterans are offered placement at one of two City-run shelters with beds set aside for veterans. We do not have a separate shelter only for women veterans. As of October 1, 55 women in our shelter program identified as veterans.
+
+For adult families, the process is similar. Any member of the family who self-identifies as a veteran receives veteran services depending on the family's needs. Families with children under 18 apply for shelter at PATH — that is the Prevention Assistance and Temporary Housing intake center. For families with children who include a veteran, we are sensitive to the youngest child's school. SSVF providers work at PATH to connect these families to services.
+
+For all veterans we serve, whenever a veteran is placed in shelter — whether single adult men, single adult women, adult families or families with children — our shelters work to connect them with appropriate supportive and wraparound services. Our Veterans Service Unit partners with the VA and others to connect veterans to the wealth of local, state, federal and veterans-specific services in our city, including housing services, medical and behavioral health care, and city, state and federal entitlements like public assistance and pension benefits. Staff lead this work through regular meetings — weekly, bi-weekly and monthly — with all stakeholders to stay connected and ensure we are working collaboratively to serve our veterans.
+
+I would like to explain the funding New York City received from the federal Grant and Per Diem program, or GPD. The GPD program provides funding to state, local and community-based partners who provide services to veterans experiencing homelessness, focusing on transitional supportive housing as a stepping stone towards permanent housing. The VA determines eligibility for these services and placements through the GPD program subsequent to a standard intake process as previously described.
+
+New York City has been a proud recipient of funding from the GPD program for over 15 years. Leading into 2026, with our last three-year funding agreement ending, the Department of Homeless Services applied for a new grant in February 2026. In June 2026, the VA responded with their proposed funding for the new grant. If we had accepted the grant, we would have received an official award letter from the VA. The grant award, which previously covered 154 beds and up to $4 million, was reduced by 70% to cover only 44 beds and provide reduced funding. In addition, for the first time, and as a direct result of Federal Executive Order 14168, "Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government," issued January 20, 2025, the grant agreement language included terms and conditions that we could not agree to. For DHS to agree with and comply with the grant's terms and conditions, we would be in violation of state and local laws that protect people from discrimination on the basis of gender. Those laws include New York State Law, New York State Regulation, and New York City Administrative Code Title 8, Chapter 8.
+
+In addition to these legal barriers, the grant's terms and conditions would have required that we change the way we operate and introduced discrimination into the intake process — for example, requiring that we ask questions about biological sex to all people identifying as a veteran. Given this, we identified City tax levy dollars needed to fill the gap in federal funds and informed the VA that the grant offer was to be declined. To reiterate, the agency is now filling this gap with City tax levy funding so no beds or services are lost and every veteran who needs a bed gets one.
+
+Today we are serving more veterans at BAVR than we did with the federal funding, due to the VA declining many veteran applicants for the grant program. When the grant ended on September 30, 2026, 105 individuals were residing at BAVR, which has a capacity of 231. As of the 19th, there are 168 individuals residing there. We are now working to fill all available beds at BAVR with transfers from other shelters and new veterans who come into intake. Turning to shelter operations and conditions at Borden Avenue Veterans Residence: ICL serves as the provider. BAVR has been a provider there since 2008, with the core mission of helping New York City's homeless veteran community improve their physical and mental health through wraparound social services and recreational programs to help clients get back on their feet. ICL works hard to help their veteran clients transition to permanent homes. 173 veterans moved out into housing in FY25, surpassing the annual target of 155, and another 141 veterans moved out into housing in FY26 since January 2026. 55% of clients have gained or maintained employment. In addition, all critical measures at Borden are going in the right direction. From January 1 to October 1, 2026, the site recorded 307 serious incidents.
+
+**(00:35:51)**
+
+
+
+Down 44% from 674 in the same time period in 2025. Every major incident category declined and the most serious types dropped the most. Psychiatric emergencies fell by more than half. Drug and alcohol incidents fell by 39%. Quality of life and failure to comply incidents fell by 35%. Fights fell by 31%.
+
+Calls to 911 show the same improvement. From January to September, calls to the site fell 48% from 813 to 419. Ambulance calls, the largest category, dropped 49%. Disputes fell 58% and reports of theft fell 80%.
+
+BAVR residents are also filing fewer complaints. There were 35 complaints in 2026 compared with 43 in the same time period in 2025. Transfer requests — requests from residents asking to leave the site — fell by 60% from 10 to 24.
+
+We worked together with ICL to listen to the community around the shelter as well as veterans staying at the shelter. For example, the AVRA Community Advisory Board meets quarterly. Three meetings have occurred so far this year with a fourth meeting planned before the end of the year.
+
+The CAB includes community stakeholders to facilitate open dialog between providers, elected officials, community board and community members. CAB meetings offer an opportunity for concerns to be raised, updates about the facility to be shared, successes to be celebrated and to encourage ongoing constructive collaboration between the shelter and the surrounding community.
+
+In addition to the CAB, ICL has regular house meetings at BAVR. House meetings are held twice a month in the afternoon and evening. They facilitate open lines of communication between shelter staff and residents. Staff have the opportunity to reiterate house rules and share upcoming events, and clients have an opportunity to share feedback. We also had the opportunity to conduct a listening session with the AVRA residents, accompanied by Administrator Reza Henderson, representatives from the New York City Department of Veterans' Services and ICL leadership. During the listening session we were able to hear from about 20 veterans.
+
+We received a lot of positive feedback about the site and services and received mixed or negative feedback about building conditions, security and service provisions. ICL executive leadership and ICL leadership on site at BAVRA have been very receptive to the feedback and are considering implementing improvements. DHS is also making a series of repairs and capital improvements at BAVR to fix long-standing problems with the building and for its future.
+
+Those repairs and improvements include the following. The roof and the skylight leaks: until the full roof replacement is complete, DHS is managing leaks in the sleeping area with tarps, which will stay up until further notice. Beds in the affected areas will stay offline until the capital work is complete. DHS has staff on standby to continuously monitor and make temporary repairs to address any leaks that arise from the roof and skylight due to inclement weather.
+
+Roof and skylight replacement: a $4.3 million capital project will replace the building's entire roof and skylights. Design is complete and the project will now move to procurement, with work scheduled from June 2027 to December 2029. Beds under the skylights will stay offline and be taken offline in phases while the skylights are replaced.
+
+For flood protection, a new flood wall will be built behind the building to protect it from future storms. Design is complete and the project is scheduled to move to procurement, with construction planned for December 2027 through December 2028. The project costs $2.9 million. Federal resiliency funding secured with the support of Congresswoman Velázquez covers 75% and capital funds cover the rest.
+
+Shower privacy: privacy partitions will be installed in all 32 showers. The showers are in two areas of 15 and 17 each. Each area will close in turn while partitions are installed so that the other area stays open — 2 to 8 weeks.
+
+Residents also raised concerns about the food at BAVR and we take those concerns seriously. ICL switched food vendors in 2022 in response to resident feedback and in the coming weeks there will be additional changes in response to resident concerns. In addition to responding to the smaller concerns related to the quality of food on site, we are also looking at opportunities with the on-site kitchens. Residents see what we see: a commercial kitchen that is only used a few hours a day and not at all on weekends. That kitchen is an opportunity. We are exploring creative partnerships to make better use of it, including the potential to bring in military chefs to prepare special meals for residents — that was a resident idea. We are also looking at bigger changes to how food is prepared at BAVR. Some of those changes will require procurement and those discussions are just beginning. We will keep residents informed as plans take shape.
+
+On-site services at Borden Avenue: some services that residents once relied on are no longer available in the building. During COVID, several on-site programs were paused and never resumed, including Alcoholics Anonymous and Narcotics Anonymous. Some procedures have also made it harder for outside providers and volunteers to come on site.
+
+We are working through these challenges. We are committed to a simpler, faster process for bringing services back into the building without compromising residents' confidentiality or safety. Our goal is to make it easy for trusted partners such as recovery groups, veterans organizations and community providers to meet residents where they live. These services will add to the support already available on site, including employment training programs, physical and mental health and substance use services and access to public benefits and permanent affordable housing. We will continue to monitor building, food and service conditions.
+
+I will now turn to the legislation being discussed today. Int 0897-2026, sponsored by a Council member, would require best efforts for regular outreach and engagement every two hours between 8 PM and 8 AM during severe winter weather responses, coordinating with sister agencies on transportation, warming buses, warming centers and harm reduction facilities, as well as requiring reports — one report prior to November, December and January of each winter — and plans to implement the severe weather response.
+
+We appreciate the Council's focus on severe winter weather responses to ensure vulnerable New Yorkers are kept safe during severe weather events. We share this concern and focus. Our severe weather response strategy has been developed to incorporate lessons learned from prior Code Blue and Code Red responses. The flexibility to implement lessons learned and revised strategies is critical to keeping New Yorkers safe during severe weather.
+
+We hope to have substantive discussions with the sponsor and Council to consider amendments to take into account a more comprehensive understanding of our current approach for Code Blue and the ongoing need to remain flexible when preparing for a severe weather event. We have no concerns with the Bill's proposal for regular reporting on Code Blue responses, but many of the other elements of the proposed legislation would require discussion.
+
+The current language is based on a previous approach which centered on a list of known vulnerable clients who outreach teams would check on repeatedly during the weather event. This is no longer the centerpiece of our response. Every year we will still identify the most vulnerable people on the street and make sure each one has a safety plan before winter, but focusing only on that list leaves us without an approach for the roughly 5,000
+
+**(00:43:33)**
+
+
+
+other people on the street on the coldest nights and hottest nights of the year. The people we do not know may be at the greatest risk during the coldest nights of the year. Additional canvassers will join staff and contracted outreach teams to cover areas where we know most people experiencing unsheltered homelessness are staying. These teams will engage everyone they encounter. Everyone will be warned about the dangers of extreme weather and offered warming or cooling space, a shelter, a safe haven bed or another safe place to go, with transportation to get there.
+
+We tested this approach during Code Red. Looking at one day this past summer during Code Red, teams recorded more than 2,000 engagements with vulnerable people — roughly 20 times as many contacts and 77 times as many placements as on a comparable day under the old approach. They handed out supplies to more than 1,500 people and completed nearly 200 medical assessments. This approach will continue during Code Blue. As currently drafted, the introduction would limit our ability to implement this approach effectively.
+
+DSS is committed to working with clients, shelter providers, elected officials and our community stakeholders to continue to uphold our responsibility to serve veterans with the quality of care they deserve. We will continue to support them on their journey toward permanent housing. The women and men who serve this country deserve nothing less than our best effort to help find stable, permanent affordable housing. I appreciate the Council's leadership and attention to this work and thank you for the opportunity to testify today and clear up any misunderstandings about the grant.
+
+**(00:45:03)**
+
+
+
+I welcome your questions. Thank you, Commissioner. Commissioner Dalton, thank you especially for not only your testimony but going out of your way to accommodate my colleagues and me and our visits to Borden Avenue, and for being patient with our questions and being receptive to resident feedback.
+
+Let me begin with a discussion of the VA grants since it has been such a hot topic and since you alluded to that in your testimony. Your testimony says the VA offered the City $1.3 million to support 44 beds compared with the previous $4 million supporting 154 beds. So I understand that you had objections to the federal conditions.
+
+**(00:45:51)**
+
+
+
+Even if the City had to replace most of the funding with City dollars, would not accepting $1.3 million still have reduced the burden on City taxpayers? Did the administration explore accepting the federal funding for eligible beds while separately using City resources to ensure every other veteran continued receiving services?
+
+**(00:46:16)**
+
+
+
+Yeah, thank you for that question. The challenge with the grant's terms and conditions is that they would require us to be in violation of state and local laws and therefore we could not sign that grant agreement and accept those dollars. Therefore we looked for City dollars to continue to serve every veteran that comes to our door.
+
+So there was no way to accept the grant money and then challenge the provisions that we believe are in violation of City and state law in court or something along those lines. It is a little bit out of my legal expertise. However, my understanding is that the difference here is that this was a new grant agreement. When we had grant agreements and changes were made, we could amend those and note our objections and continue to proceed in court. But with this being a new grant agreement, we would be signing on to those conditions from the beginning and therefore could not do that without violating state and local laws.
+
+When time permits, if you could provide the Committee with the legal analysis explaining why that arrangement was not permissible.
+
+I visited Borden Avenue a couple of weeks ago. I thought many aspects of the facility looked good and I said so publicly. Honestly, given so many of the stories that we have heard from former Borden Avenue residents, I was quite frankly expecting much worse. I was troubled by the leaks and the tarps, which you alluded to in your testimony. Your testimony said the $4.3 million roof and skylight replacement will not be completed until 2029. I just want to ask: are you telling us that veterans could be living in a shelter with tarps hanging over their sleeping areas for another three years?
+
+**(00:48:16)**
+
+
+
+Thank you for the question. Where there are tarps in the building, there are not veterans sleeping under those. We are taking
+
+**(00:48:25)**
+
+
+
+those sleeping areas offline. I believe there are seven sleeping areas offline due to repairs being made. The construction process and procurement process does give the timeline that I gave in my testimony, which runs through 2029 but is expected to start in 2027. So hopefully progress will be seen throughout that time.
+
+Is there anything that can be done to accelerate that timetable — maybe some sort of emergency procurement or any other way to eliminate the tarps at least a bit sooner?
+
+**(00:49:05)**
+
+
+
+I certainly share that interest in expediting the timeline. I can come back and see if there is anything we can do.
+
+**(00:49:14)**
+
+
+
+You also alluded to the showers, and this is one thing that struck me during my visit — almost like what you see in a prison. I understand that many of these veterans served in the military but obviously they are civilians now and they deserve some privacy. Your testimony discusses shower improvements. It does not strike me as a multimillion dollar project at all. Can you give us a hard and fast date of when every shower will offer reasonable privacy?
+
+**(00:49:50)**
+
+
+
+The best information I have available is that that work has been approved by us at the City, will be conducted by the provider and has a timeline of 6 to 8 weeks. There is a process of taking some of those showers offline while those partitions are being constructed, then putting those back online and then doing the next set. So there will be some showers that will have those partitions in place before the end of that timeline.
+
+**(00:50:23)**
+
+
+
+Your testimony reports that serious incidents at Borden Avenue declined 44% from 604 to 307 and 911 calls declined 48% from 813 to 419. Those are very impressive numbers and if they are accurate I think the administration, including you, deserves a great deal of credit for that. But what specifically changed? Was it staffing? Was it security? Was it programming? Was it the resident population? Was it how incidents were classified and reported? It is great that we are seeing a decline in incidents. What do we attribute that to? I am not sure — I am going to see if the Deputy Commissioner has any ideas about that.
+
+**(00:51:06)**
+
+
+
+There have been changes in the way that the data is being recorded.
+
+**(00:51:10)**
+
+
+
+Good morning again. Sonia Russell, Deputy Commissioner, Department of Homeless Services. Thank you for that question. It is a great question. I would have to attribute that to the fact that we work collectively and collaboratively with their staff in identifying incidents as soon as they happen — not to be reactive but proactive. That has to do with the consistent conversations that we have, the meetings that we have. We are on site at Borden at least twice a week if not once a week. So we do have staff there and again it is through that collaboration that attributes to where they are now.
+
+**(00:51:53)**
+
+
+
+Yeah, I am looking forward to hearing from ICL and I certainly appreciate the work they are doing. Were the reporting standards and definitions identical in both years?
+
+Yes, sir, they were.
+
+Last question I will ask for now — I have a number of other questions but I know my colleagues do as well. Commissioner, your testimony says that Borden Avenue has capacity for 231
+
+**(00:52:18)**
+
+
+
+residents but only 168 were living there as of last week. That means approximately 63 beds were unoccupied. At a time when hundreds of veterans are experiencing homelessness in New York City, why are so many beds empty? Are those 63 beds that could be used to make sure veterans are not sleeping on the street?
+
+**(00:52:40)**
+
+
+
+Yeah, thank you. I will start and then I will let the Deputy Commissioner add. Actually, as of today there are 198 beds filled. We have been working — the Deputy Commissioner and others have been working hard — to move veterans from other shelters into the residence at Borden now that we control that eligibility entirely, and we expect to continue to make transfers up to the capacity the space allows for, acknowledging that there are seven units offline because of the tarps. So we have moved with speed to fill up the facility since the grant ended and we will have that facility up to the full census quickly.
+
+**(00:53:27)**
+
+
+
+In terms of beds that are unavailable because of roof leaks or repairs, it is about seven. I understand. OK. I have a number of other questions but I will defer to Chair Hudson and my colleagues.
+
+**(00:53:38)**
+
+
+
+Thank you so much, Chairman. A few questions — I would like to veer towards street homelessness and safe havens. I understand that although we are nearly one year into this new administration, it is not actively considering new locations for street homeless sites such as safe havens and drop-in centers until the administration releases a long-term shelter capacity plan. What is the timeline for release of that plan so that we can continue long-term efforts to address street homelessness?
+
+**(00:54:12)**
+
+
+
+Yeah, thank you for that question. Street homelessness and our own New Yorkers are my top priority and I would not say that we are not actively looking at bringing on additional safe haven beds. But you are correct — in the Block-by-Block report we announced that there would be a homelessness plan within the next year and we are working on that homelessness plan, which would include of course a plan for our unsheltered neighbors.
+
+**(00:54:45)**
+
+
+
+Thank you. Does the administration plan to continue supporting the nonprofit ownership model as a tool for creating long-term shelter and safe haven
+
+**(00:54:54)**
+
+
+
+capacity? All of that will be covered in the homelessness plan, which we are working intently on right now.
+
+**(00:55:01)**
+
+
+
+Okay, I am going to guess your answer to this, but will you commit to appropriating funds to that program to ensure the creation of new street homeless sites?
+
+**(00:55:11)**
+
+
+
+All of those conversations are happening again. It is a really critical priority for me as I come to the City to make sure we are doing the most we can for our unsheltered New Yorkers. It is a huge emphasis of a lot of my time since I have been here, and there is a plan that is forthcoming.
+
+**(00:55:35)**
+
+
+
+Okay, thanks. We will revisit that one.
+
+**(00:55:39)**
+
+
+
+Maybe better to appropriate.
+
+**(00:55:40)**
+
+
+
+Have any proposed street homeless sites been delayed or denied because of Office of Management and Budget concerns surrounding costs? If so, what are those concerns, and how is OMB determining which street homeless site funding offers the best long-term value for taxpayers?
+
+**(00:56:01)**
+
+
+
+No, I do not know of any sites that are delayed for those reasons. We are working on a forward-looking plan and working in partnership on that. They are certainly one voice in that conversation as well. We have opinions about the best ways to serve this group of people.
+
+**(00:56:19)**
+
+
+
+To your knowledge, has anyone visited any shelters in the network? I think you would have to ask OMB. I do not know. Okay. And can you commit to providing the committee within 30 days a written update identifying the status of the shelter capacity plan, the future of the nonprofit ownership program, and any policy or budget barriers currently preventing new safe haven and drop-in center projects from advancing?
+
+**(00:56:48)**
+
+
+
+An update — I think an update we could provide for sure. That was the question, right? A written update, yes. An update identifying the status and all of the status. Yep. Yeah, there it is.
+
+**(00:57:01)**
+
+
+
+Yeah, so my perspective — just to make sure I can really...
+
+**(00:57:03)**
+
+
+
+Yeah, well, if you say it is golden then staff has got to do it. So I am not committing to the homelessness plan or any of those in the first 30 days, but I would be happy to commit to an update on where we are with that.
+
+**(00:57:15)**
+
+
+
+An update on the status, yes. Okay, thank you. I also want to acknowledge CM Won and CM Gutiérrez are here, and I think CM Won was first up in the queue. Thank you so much.
+
+**(00:57:35)**
+
+
+
+Thank you. Thank you to all the agencies that have come to testify. It is so good to see you all. My name is Julie Won. I am currently the City Council Member representing the only veteran shelter in this entire City of New York. For the last five years we have had the same amount of complaints, and even before I was elected we had the same amount of complaints, and it is extremely disturbing.
+
+I appreciate your testimony where you addressed some of the concerns that we have heard for years about the shelter. As you have seen in the news, we have had a lot of shelter residents complain about the lack of privacy in the bathrooms. Currently, in the only veteran shelter, year after year for over 10 years, people have complained that they have to shower communally. They have served in war and now they have to be completely exposed in front of each other every time they want to shower. That is currently what the system is, and people have complained for years. Every single year we have had lip service that there would be partitions put up, and especially those who are struggling with mental illness are forced to either not shower or shower in the nude in front of each other. It is inhumane.
+
+I see in the testimony that there is a commitment to have partitions put up within the next six to eight weeks. So we will continue to follow up with our shelter residents who want to have privacy and decency so that they can shower with dignity. We will wait for the next two months starting from today to make sure that finally they will have privacy to shower.
+
+Next — we have physically seen, and the press has seen, how there is an incredible amount of leakage from the roof. I see that there is a commitment to make sure that there is some sort of roof and skylight replacement, and it says that it is going to be from 2027 to 2029. So could you help me understand how many beds are offline because of the lack of capital repairs that were needed? It says that those who are affected by the leak will not be able to stay there and they will stay offline. How many beds are we talking about in the only shelter that we have in the City?
+
+**(01:00:01)**
+
+
+
+Thank you for that question, and I share the concern and your approach to the requirement of privacy for our veterans. I do apologize on behalf of all of those veterans that those partitions had not been in place for so long. But we in this administration saw that and are committed to working with all to get that done, and I know you all will hold us accountable to do that over time. So right now we have a vendor who is consistently assessing and making roof repairs, and then we have tarps where we cannot patch those repairs. There is some water coming into the facility. There are seven tarps as of right now and we monitor that on a very regular basis and will continue to do so until the roof and skylight repair is complete. As we proceed with the construction we can keep the Council updated and we will do everything in our control to have minimal disruption to the facility. My understanding is...
+
+**(01:01:20)**
+
+
+
+We can get back to you and make sure that this is correct. The replacement of the skylights would not take any units offline, which we can do in a staged way such that we would not have a significant number of units offline. So we can come back as the construction begins and give updates on that. I do not think we will have significant disruption while we replace the roof. So how many beds are affected by the leak? There are seven beds.
+
+**(01:01:55)**
+
+
+
+Affected by the leak right now, and that means those beds are offline and there are no veterans in them.
+
+**(01:01:59)**
+
+
+
+Okay, and those seven beds will be offline for two years minimum?
+
+**(01:02:04)**
+
+
+
+I can understand that that may be correct, but we also are making regular repairs. So sometimes it is five and sometimes it is seven, and it goes up and down a little bit as we make repairs to a roof that clearly needs to be...
+
+**(01:02:18)**
+
+
+
+Replaced. Can you help me understand — is this the same contractor that has had this contract for capital repair in the previous years, or is this a new contractor? We are actually just moving into procurement, so I will see if the Deputy Commissioner knows. But I think — I will get back to you. I think it is different. We do not know who the vendor will be yet for the roof repair and for the full roof replacement, so I do not think we could actually answer the question of whether there is more time.
+
+**(01:02:52)**
+
+
+
+One more please, and then we will come back to you, just because we have a lot of colleagues that want to...
+
+**(01:02:56)**
+
+
+
+I understand. Since I am going to run out of time because I have to go vote and come back, I just want to put it on record that we have had clear complaints — multiple complaints — directly to the press on record as well as off record from constituents who live in the veteran shelter about the mistreatment of the people who live there by the employees themselves, and negligence in that they are not receiving the substance abuse services that they need, as well as mental health care, as well as caseworkers to help them apply for permanent housing and also for mediation between conflicts amongst the residents themselves.
+
+It is extremely concerning for them to send us direct messages and screenshots telling them that you are visiting that day and to clear all of their urine out of their individual rooms, because they tend to urinate in their own cupboards because they do not have enough privacy in the bathrooms and they do not feel safe. We also have multiple instances of recordings and photographs of people who are continuing to have severe substance abuse within the shelter itself.
+
+We are extremely concerned. We also want to hear a clear understanding and an update on the NDAs that are mandatory for elected officials to sign in order to enter the shelter. We cannot have oversight authority over the shelter and City agencies if we have to sign something and cannot publicly speak about the issues that people are coming to us to complain about. So I want to have that cleared up.
+
+I really appreciated you coming and speaking with the veterans themselves directly, because they were so sure that you were just going to walk away from them and not even look them in the eye, and you did the opposite. You were willing to speak to them and you are willing to address these issues. I very much appreciate you and I look forward to working together to make sure that a lot of these issues are resolved. Thank you.
+
+**(01:04:55)**
+
+
+
+Thank you, Council Member.
+
+**(01:04:57)**
+
+
+
+Thank you very much. Let me commend my colleague Julie Won — that was excellent, Julie, you nailed it. I am interested in the Commissioner of the Department of Social Services. I believe your name is Erin Dalton. How long have you been Commissioner of the Department of Social Services? Since March 2. So you are a newbie. What was your prior experience before doing this? I ran the Department of Human Services in Allegheny County, Pennsylvania — that is Pittsburgh. My portfolio was broader than it is here. I ran everything from newborn early intervention, child protection, the mental health and substance use programs, the homelessness programs. I also ran veterans services, aging programs and balance prevention.
+
+**(01:05:51)**
+
+
+
+It sounds like you are stuck like a deer in the headlights right now. We have many, many, many concerns about the Borden Street shelter, most of which was eloquently put in front of you today. Also, Commissioner of Homeless Services — you were talking about how much it is going to cost. The number went by me, maybe it got caught in my head and I am not quite sure, but I would like you to repeat yourself. What is the amount to fix the roof that will only displace seven veterans? That is a rather small piece of roof unless you are doing the entire roof. What is the price of that?
+
+**(01:06:41)**
+
+
+
+I will answer the question first about the price and then try to clarify the seven quickly. The price that is budgeted is $4.3 million to replace the entire roof and...
+
+**(01:07:00)**
+
+
+
+Skylights. Okay. Are they removing just the third roof, the second roof? You know there are three roofs and they have got to rip off two and do a complete redo. How big is the facility? What is the square footage of the facility?
+
+**(01:07:11)**
+
+
+
+I would have to get back to you. I am not sure about that. Okay, because that determines price among other things.
+
+**(01:07:19)**
+
+
+
+We have now put aside $1.86 billion to house illegal immigrants in this country — $1.86 billion — so that they could go into hotels and have private bathrooms and kitchenettes, while veterans are going to live in subhuman conditions. It is pathetic. What I heard here today is making me sick. There is absolutely zero reason for this to happen.
+
+I want the 990s on these nonprofits. I want to know who they are. I want to see how much money these nonprofits are making off of one homeless shelter for our veterans. This is absolutely disgusting and disgraceful. I am embarrassed for all of you. And when Julie went down there and visited with Phil and they saw what they saw and they had to sign an NDA — ludicrous. As elected officials we owe it to our fellow citizens, homeless veterans, whatever, to know what is going on.
+
+The other thing is, to not have mental health facilities set up for our veterans inside of these homeless shelters is also another disgrace. There are so many layers to this. How everybody is very calm here is wonderful and I applaud you all, but let me tell you something — pull your act together, because going forward we are going to be breathing all over you. Wasteful spending — $1.86 billion going to illegal immigrants instead of to our veterans. Why?
+
+And you are going to pay $4.3 million to fix the roof and displace seven veterans and we are supposed to be happy about that? Proud of you for doing that? I am not proud of you. I am embarrassed for you. Our veterans deserve top-notch treatment and that is all I have to say. I have a press conference to do. Bye bye.
+
+**(01:09:56)**
+
+
+
+Just to follow up on what CM Paladino and CM Won alluded to — since they both brought it up and it was on my list as well — the issue of the so-called NDA. Before I visited Borden Avenue, a document which they referred to as an NDA was presented and I had to sign it to go in. Obviously I was not going to sign an NDA because I want to be able to share broadly exactly what I observed — good, bad, ugly. I forwarded this to the attorneys for the City Council and was told that it was not an NDA, that it was a patient confidentiality form that just prevented me from sharing any confidential patient information that I obtained. Then one of your staffers, who was very professional and terrific, asked several of us that were visiting whether everybody had signed it, which added to a little bit of...
+
+**(01:11:04)**
+
+
+
+...the confusion. I am wondering, since several of my colleagues have brought this up now, what exactly is the policy with respect to signing a form before you visit Borden Avenue or other shelters, and what does that form actually prevent someone visiting from...
+
+**(01:11:24)**
+
+
+
+...sharing? Yeah, thank you for the question and the opportunity to clarify. So I will just start with — of course we have a requirement for us and our providers to keep our clients, whether veterans or other people experiencing homelessness, their safety and confidentiality at the forefront of our work. This is where people are living and staying and they have a right to privacy in those settings. So we have codified the way we grant access to our shelters in a policy procedure. It has got a name — it is 2026-001. We can make that available to you. It is a long document and has different specifications for different types of visitors, because you can imagine there are different types of visitors, and there is a section on elected officials.
+
+Part of the reason we codified this and require signing the agreement that you referenced and others have referenced is that it is the way we comply with state and local law. There is the State Social Services Law Section 136 and New York City Administrative Code 23-1201 through 23-1205, the identifying information law. So both the form and the way we proceduralize that in our document are the ways that we comply with — and again, to be clear, this is about protecting people. This is not about talking about a tarp. People are free to talk about the tarps that they saw with their own eyes, about the food that they saw or that they heard about, or anything else, except for people's identity and their privacy. That is the piece that we are trying to protect and are required to protect under state and local law. So perhaps it is an area where the administration and the Council need to have more discussion, but we have documented that protocol in a whole procedure and are following it in accordance with state and local law.
+
+**(01:13:43)**
+
+
+
+Now I do not think any of my colleagues, even a rule breaker like the Council Member here, would reveal confidential patient information to anybody. Before any of us are able to visit Borden Avenue, we do have to sign this document. Is that a requirement?
+
+**(01:14:03)**
+
+
+
+It is a requirement.
+
+**(01:14:05)**
+
+
+
+Okay. I have a number of other questions. CM Wilson?
+
+**(01:14:09)**
+
+
+
+Thank you, Chair. Hello, Commissioner. I want to turn back to street homelessness and outreach that the other honorable Chair brought up. I know you have a very difficult job and we have these conversations where passions run high, but I would like to acknowledge how difficult a task you have. I know from interactions on the issues in my district I appreciate how hands-on you have been, personally coming to walk-throughs et cetera.
+
+There was a report in Gothamist that highlighted the exorbitant amounts of money that are being spent on outreach, yet the results seem to be going in the other direction, in a negative direction. It compares to under the Bloomberg administration, when there was outreach that was individualized for each borough and a 40% decrease in street homelessness had happened. Yet now I am hearing from meetings that I am having in my district that one of the problems is about the amount of outreach workers not being able to coordinate and not being able to share information, leading to individuals on the street having like four or five different agencies approach them and ask them for shelter, but there is not a coordination or individual strategy. So how do we fix that? How do we get the coordination together so that these people doing this really difficult work are getting a result?
+
+**(01:15:42)**
+
+
+
+Thank you so much for the question and for raising the issue, which I agree is a very important component of the way we engage and serve our unhoused neighbors. This too is an area that I am taking a close look at. We have been holding meetings across City government and with state partners as well, looking at those very issues, and will be very pleased to share more in the homelessness plan.
+
+**(01:16:12)**
+
+
+
+And how are the engagements measured? Because that was another criticism in the article — that the results we are looking at are more about times engaged and not necessarily the outcome, the placement. So how do we retool that so that we are really focusing on the outcome we want, which is placement?
+
+**(01:16:35)**
+
+
+
+To my understanding, we are tracking placements for the contracted outreach that we support. But I understand the broader point of accountability and wanting to ensure that those efforts — not just the funding but the efforts of people — are leading to the results that we want to see. Again, I think we can do more as a City and as a set of partners to serve that group, and it starts with that outreach.
+
+**(01:17:04)**
+
+
+
+And there was also, I believe, something I am getting a lot of questions about in the community: a change in terms of when there is street homelessness reported, the 311 calls for that are no longer routing to NYPD. Could you help us understand the reason for that change and what the broader policy goal is by changing who is responding first to the engagement?
+
+**(01:17:38)**
+
+
+
+Sure. I think it is a small but important change to have the right people going to the event. What the 311 calls to identify whether a reported encampment — a homeless encampment — moved from the NYPD to Homeless Services means is that now we are the people who go out there and not only determine whether in fact it meets the legal definition of an encampment, but can do outreach and engagement as well. Having that data entirely within our domain allows us to use it to target outreach to the places where it is needed most, where people are calling about encampments. Even if it is not legally defined as an encampment under a legal definition, it is a signal of concern in the community. So now we can use that information to deploy our outreach in a more strategic way. I am pleased that we are able to do that work now and not only identify and make the legal determination of whether it is an encampment or not, but to start outreach if we had not already been working with those folks.
+
+**(01:18:52)**
+
+
+
+And my colleagues at the state level have introduced legislation that would require multidisciplinary teams to go out to do this engagement. So who is going to do those initial assessments when the 311 call is placed? Is that a worker? Is that a contracted outreach worker? Who is the first point of contact?
+
+**(01:19:18)**
+
+
+
+It could either be a contracted outreach worker or an employee. I did not quite catch the full question but I do agree, if that is where you are headed, that different skills are required at different parts of an engagement. A core theory of engagement is also required. Peers can be very helpful — people who have experienced unsheltered homelessness or homelessness can be excellent at talking with folks, and there are times when clinicians are required. We do have clinicians on our team, and our contracted providers also have clinicians on those teams. We work closely with the state's team on a multidisciplinary approach to handle various types of encounters.
+
+Thank you, Chair. I just want to say too that I do welcome a perspective from outside. I welcome a new way of looking at this because I think agencies can get a bunker mentality — this is the way we do things and this is how it is done. So I respect that.
+
+**(01:20:21)**
+
+
+
+You have been on the job for six months, but I am hopeful that we can have that outside perspective really peel back all these layers here, because it is resulting in folks not really getting connected to what they need. So thank you.
+
+**(01:20:31)**
+
+
+
+Chair, thank you. CM Wong, thank you.
+
+**(01:20:36)**
+
+
+
+Chairman, by sitting in the Veterans Committee as members who have a charter-mandated duty for oversight, and with that in mind, that is why I visited the Borden Avenue shelter with CM Julie Won a couple of weeks ago. With us were members of the American Legion and members of the press, and they heard — and this was documented — that the person at the front desk told us that we cannot go in unless there is permission from the Department of Social Services and from the Mayor's office. Despite that, CM Julie Won and I decided to go in anyway, and then there were several people following us telling me — and I am going to quote — "Council member, go down that way," "Council member, you are not allowed to enter that bathroom," "Council member, you are not allowed to open that door, that library door." Those are the replies I got, and a lot of it was on video. What I want to say is it was not accommodating at all, and certainly your office did not give the approval for CM Julie Won and I to visit the place because we did not make an appointment, we did not sign anything, and so forth.
+
+**(01:22:08)**
+
+
+
+And I can say with certainty we are talking about the problems right now because we did not sign anything.
+
+**(01:22:18)**
+
+
+
+That is how these problems get exposed. Those roof leaks did not start a couple of months ago — they have been leaking for years. Veterans did not have enough food for years because the people who visited had to sign in.
+
+So I want to say, we are here to get answers and that is why I serve here. Otherwise I have other committees to serve. I care about the homeless shelters, I care about the veterans, and I serve in community meetings. The Pan Am shelter is at the end of my block. I have been to community meetings. I know how it works. These issues have been talked about again and again in community meetings and nothing got discussed openly, nothing got brought up until this hearing.
+
+Now, questions. I want to correct something. It says managing leaks in the sleeping area with tarps. That statement alone was very, very disappointing and heartbreaking because it sounds like that is how they are handling roof leaks in shelters — with tarps. And I want to add to that: it is not just tarps, there are buckets right underneath the tarps collecting the water, and then after the rain, when the water flows somewhere else, they have to move the buckets. That is what is happening at Borden Avenue. And when you say that in the testimony, it sounds like that is how you are handling leaks in other shelters, and this is very, very unacceptable and very, very disappointing.
+
+And then it says a new flood wall will be built behind the building. By telling me that, you are saying there has been a flooding condition at the Borden Avenue shelter for many, many years and nothing is being addressed until now. I asked again — Chairman Morano said it correctly — it does not take three years to finish a roof. I want to be on the record that the Mayor's office has not been accommodating at all. My question is this...
+
+**(01:24:41)**
+
+
+
+Let us start with the kitchen being subleased to a culinary cooking school instead of being a facility that is available for veterans to cook their food, to heat up their food, or do their own cooking. This is happening right under our eyes, and it is my understanding the whole site should be a shelter. Why is part of it being leased to a culinary school? Can you answer that?
+
+Sure. Thank you. I testified to this. I agree — we see that same commercial kitchen and I think it could be put to better use for the people that are staying there. So we are pursuing changes and looking at the opportunities that that kitchen could provide. I agree with you. I heard concerns about the food. I see the opportunity with the kitchen. We see the provider opportunity, and those things take a little bit of time, but we are looking at the food. I will say I do not think it is a problem to sublease parts of the kitchen to other training programs. There are spots reserved for residents. These are programs — workforce programs — that give people a skill. So I think there is not a problem with that.
+
+**(01:26:10)**
+
+
+
+But veterans cannot sign up for the culinary school. That is what they told me. Is that...
+
+**(01:26:15)**
+
+
+
+...not correct. In fact, there are spots saved. It is a long program — my understanding is it is a six-month program. It takes place during weekdays, and a lot of the veterans who are staying at the Borden Avenue shelter are also working other jobs, so they may not apply and take advantage of that. But it is not correct that they...
+
+**(01:26:39)**
+
+
+
+...cannot. Well, at least the veterans I spoke with when I stood outside with CM Won told me that they want to sign up for the culinary school and they were told that they have to go somewhere else to learn how to cook, not at that school. Which is truly shameful, because you let this happen. That facility is meant for veterans and you allowed it to be subleased to a culinary program, and the veterans living in there have no access to it.
+
+**(01:27:07)**
+
+
+
+You are saying that is not happening, that it is not true. That is what I am saying. That is my understanding. But I have asked these questions already and been given assured answers that that is not correct. I should also just point out that your point is still correct — we agree that that kitchen is underused for the people staying there. But the program is run by another one of our providers and serves a similar population, a non-veteran population, but it does serve...
+
+**(01:27:40)**
+
+
+
+...people. But is it not common sense that in those facilities, a kitchen in a veteran shelter should be available at all times...
+
+**(01:27:46)**
+
+
+
+...to the veterans? I agree, and I testified that that is something that we want to take a...
+
+**(01:27:52)**
+
+
+
+...look at. My next question to you... okay, we will come back to you and we will give you a little extra time because I understand it is your birthday. Happy birthday, and may all your wishes come true. Thank you. Keep in mind, give them gentle answers back.
+
+**(01:28:05)**
+
+
+
+Next. Chair Hudson, okay.
+
+**(01:28:08)**
+
+
+
+Thank you. I just wanted to take an opportunity to address some of the things that I have heard from my colleagues, because I have been to the shelter now twice in the last week or so and have seen some of these things with my own eyes. First, I want to say I know CM Paladino mentioned an embarrassment of sorts. I think for me what is most embarrassing is when my colleagues in the City Council cannot make a distinction between our roles and responsibilities, the roles and responsibilities of the mayoral administration, and those of the federal government and state government.
+
+And so we have a federal government that — first of all, I want to say I commend the administration for the investment that you have made in upkeeping the shelter despite the challenges that have been presented by the federal government. A federal government that does not believe women should be serving in the military, that does not support certainly many more than just women in the community, and so forth.
+
+I think there has just been a conflation of certain statements. To be clear about the kitchen specifically — allowing residents to cook their own food in any shelter is not something that is allowable regardless of who is staying in the shelter. So to imply that a kitchen should allow residents to cook their own food is just inaccurate. I hope that everyone who is here...
+
+**(01:30:01)**
+
+
+
+...to grandstand will stay for all of those testimonies and then ask some more pointed questions. It is my understanding that there is a service or an opportunity for people to use the kitchen, and that the program specifically has a lot of requirements that not every resident is willing to participate in. So I look forward to hearing some of the nuances of this.
+
+This is not to say that there are not disappointing circumstances at the shelter. It is also not to say that we should not be treating our veterans with far more dignity and respect. I saw a gentleman last night who had a carton of juice that my three-year-old should be drinking, not a grown man. And so these are systemic issues that I know Commissioner Dalton you are invested in addressing, and I know the folks who are running not just this shelter but every shelter across the City are also invested in addressing. We have a system that does not work for the most vulnerable people who rely on it the most, and those are the things that I hope to be able to get to the center of — not just at this hearing but at every other hearing that I will be chairing as Chair of the General Welfare Committee with oversight over the Department of Social Services, including the Department of Homeless Services.
+
+So much of our system does not work for those who need it. I just wanted to make sure that on the record I had an opportunity to clarify some of the points, because it is disappointing when folks use opportunities like this to leverage really vulnerable people and vulnerable moments, and really hard work that people do every single day, to make light of the realities that are happening. And also when so much of it is happening from a federal government that some of the people here support, and then want to complain about the City government not doing what is actually the job of the federal government. So I just wanted to state that for the record. Thank you.
+
+**(01:32:08)**
+
+
+
+Thank you, Chair. I will just add — I think it is no secret that I disagree with several of the characterizations made of the current federal government administration. We have five panels of the public that are here to testify today, and what I want to do in this hearing is get answers from both of the commissioners who are here and help that testimony inform what we are doing on a legislative basis. The truth is, could the federal government be doing more for veterans? Absolutely. So could the City. So could the state. So could we all. I really do believe that all of my colleagues here are approaching this hearing and this issue from a place of passion and wanting to do better for our veterans, and I love that I am in a body where we can have such spirited disagreements about those sorts of things. But there is no disagreement that there should be no veteran homelessness.
+
+With that, before we get to the next Council member, I see Commissioner Matta is getting very antsy because no one has asked her a question in a while, so I am not going to do that to you. Your testimony says that 209 veterans were placed into permanent housing in fiscal year 2026 and that 702 veterans answered an aftercare call, and those are encouraging numbers.
+
+**(01:33:43)**
+
+
+
+But how many of the 209 veterans are still housed today, and do we know how many have returned to homelessness? Thank you for that question. I will pass it on to our Associate Commissioner Danny Smalls, who handles the aftercare component.
+
+**(01:34:01)**
+
+
+
+Chair, Danny Smalls, Associate Commissioner for the New York City Department of Veterans' Services, also a combat veteran. Currently all 209 veterans are still housed. None have returned to shelter. Should I share the housing retention rate at six months, 12 months, 24 months?
+
+**(01:34:22)**
+
+
+
+Do we know what that is? I can get those numbers back to you. I would appreciate it. I think the Committee would value that as well.
+
+Let me also follow up on one of the issues that several of my colleagues raised, which is this issue of whether our visit there was atypical. A lot of us remember Hogan's Heroes — when the Geneva Convention would come to town, the camp was a very different place than on a typical day. There was a flyer distributed, which was shown on the news and elsewhere, essentially warning folks to clean up containers of urine and things like that. When I visited, I was told that it is not atypical to have these sorts of flyers to encourage people to clean up their space, and they also said that they would welcome unannounced visits from me or any of my colleagues.
+
+There seemed to be a little confusion about what the policy is in terms of unannounced visits. What exactly is the policy when it comes to unannounced visits? Am I able to go to Borden Avenue today, tomorrow, next week without telling anybody...
+
+**(01:35:37)**
+
+
+
+...as long as I sign that form that you referenced earlier?
+
+**(01:35:41)**
+
+
+
+I will start and I will see if the Deputy Commissioner has anything to add. As I mentioned before — and you probably do not want me to go through the whole thing again — we have a policy and a set of procedures for entrance into our shelter system that are our way of complying with both state and local laws. As DHS, and as the Deputy Commissioner can speak to, a number of other people can make unannounced visits to check in on the conditions as part of our oversight responsibility. I think you would count last night as an unannounced visit. Chair Hudson and I coordinated — she coordinated with our office, she signed the appropriate agreement, and without telling the provider, which is the important part — and I can assure you I did not tell the provider that we were coming — we showed up at Borden Avenue shelter at around eight PM last...
+
+**(01:36:50)**
+
+
+
+...night. And so that is an unannounced visit. So I do not want to...
+
+**(01:36:55)**
+
+
+
+...belabor the point, but...
+
+**(01:36:56)**
+
+
+
+...we do have a very cynical public, as you know, especially New Yorkers. It is a cynical public that I am sure already thinks I am being way too nice to you guys. But a lot of folks will say that if you are telling the Commissioner, "Hey, we are coming to this shelter today," that is not exactly the same as just a regular unannounced visit of me going without telling you. Yeah, so...
+
+**(01:37:20)**
+
+
+
+...that is not currently in our allowed procedure. And again, that is rooted in state and local law. There are some circumstances — and it is written in those procedures — like the Coalition for the Homeless, under court order, where we have protocolized ways that they can conduct visits of that kind. It is possible to get to that kind of an understanding, but it is not our current approach. We must follow the current procedure, and certainly our providers must follow the current procedure, which is laid out to comply with current state and local laws. Thank you, Council...
+
+**(01:38:03)**
+
+
+
+CM Wong: Thank you so much, Chairman Morano and Chair Hudson. Can you expand? Because I would like to know the difference between which state and local laws you are referring to and what is policy.
+
+**(01:38:18)**
+
+
+
+So right, so there is a DHS policy and we can share this policy. It is called 2020-2026-001. We can provide that to Council and it is one of the ways that we are complying with State Social Services Law Section 136.
+
+**(01:38:38)**
+
+
+
+Could you read the laws so that the public can hear? Because there seems to be a lot of different opinions on what is law and what is policy internally.
+
+**(01:38:50)**
+
+
+
+I would have to look up that law in order to read it to you here.
+
+**(01:38:53)**
+
+
+
+Is there someone on the staff who could make sure that before this testimony time ends that we can have this publicly read on record? Thank you. What I am hearing is it is a pretty lengthy law and we could cite that for you so everyone can
+
+**(01:39:13)**
+
+
+
+read it on their own.
+
+**(01:39:15)**
+
+
+
+And can you help me understand what is the necessary paperwork that was signed by Chair Hudson? It is the nondisclosure agreement that we ask anyone to sign who
+
+**(01:39:29)**
+
+
+
+we ask certain visitors — that is most visitors — to sign who are visiting the site. How are we supposed to talk publicly about the atrocities that we see inside?
+
+Thank you again for allowing me to clarify that the rules and the laws are strictly about the people who stay there and they are not about tarps or any building conditions you might see. If you see what you view to be, you know, showers that are not respecting people's privacy, if you see a ramp that you do not think is adequate or at the quality we should be providing, you can absolutely report that. We just of course have to protect the people who are staying there and that is the entire purpose behind the protocol as well as those laws.
+
+**(01:40:26)**
+
+
+
+OK, so when we come for a visit and we have signed an NDA, as long as we do not disclose the individuals who are currently residents of the shelter, we can speak publicly about the atrocities that we have witnessed during our visit?
+
+Absolutely. OK. And then the next question that I had was for the $4 million differential — the delta — that is going to now be $1 million in funding. I want to echo the sentiment that Chair Hudson has said, that we want to respect trans service. I want to understand why it is that the veterans themselves are the ones being punished for this disagreement.
+
+**(01:41:12)**
+
+
+
+Thank you again for the opportunity to clarify that nobody is being punished for this. The full cost... for the $4 million differential — yes — the City is covering the full cost of the shelter.
+
+**(01:41:27)**
+
+
+
+OK, so the $4 million that we are no longer getting from the federal government will now be part of the City's budget. And would that be
+
+**(01:41:35)**
+
+
+
+coming from... which agency will the allotment be through? Yes, DHS is responsible for funding the shelters and we will release, of course, in a future financial plan the exact expenses of the shelter over the next year. But to reiterate, the City is covering the full cost of the shelter.
+
+**(01:41:57)**
+
+
+
+So could you say the amount? Because currently your testimony only says that there is a shortage of $4 million total — that is the differential from previous years' funding.
+
+**(01:42:11)**
+
+
+
+For this shelter, yes. The numbers are a little bit confusing. So the grant is gone. OK. The grant was covering 140 to 150 beds. We could claim up to $4 million. So the way this works at the City level is the City pays up front for the cost of the shelter and then we claim as much federal dollars as we can. The grant allowed us to claim for up to 154 beds and up to $4 million. The revised award, if we had accepted it, would allow us to claim for up to 44 beds and up to $1.3 million. And as I said, we will report out as we do, and as OMB always does, the expenses as we move into the next year. But we are committed to coverage and it is not the Department of Veterans' Services who is responsible — it will be the entire
+
+**(01:43:14)**
+
+
+
+cost. OK, thank you for the clarification. I just have one last question. Could you help me understand about the lack of nutrients and food that is available? And this is not an individual shelter problem for my district on City Island. So what is happening? Because I am honestly hearing conflicting information from what Chair Hudson just testified — or put on record — about the use of the kitchen. Because we have multiple veterans that complained to my office that they have no kitchen access whatsoever, that they are not allowed to bring outside food into the shelter, and also many of them continue to say that they have malnutrition because they are not getting enough food. So can you help us understand what is going on with the current kitchen usage as well as their nutrients, and what is the per diem per meal per day so that we can get a very clear understanding of what the caloric nutrient requirement per meal is at the shelter for a grown man?
+
+**(01:44:22)**
+
+
+
+Yes, thank you, and thank you to Chair Hudson for doing important clarifications that I had not done. Before this question ends I would like to turn it over to the Deputy Commissioner to add any detail, and to get back to you on exactly what those per diems are. But I agree with Chair Hudson — there is a bit of a systemic issue. The issue of food and the quality of food in our shelters is governed by a number of different rules including the New York City health and safety standards and food standards that we must comply with, and we do monitor to ensure that monitoring is happening.
+
+The Chair is correct that in no shelter across the Department of Homeless Services system are people permitted to cook their own food. That said, I have not visited nearly as many shelters as I would like to. In my time here, which has only been a couple of months, I have visited a number of shelters and there is variation. For example, Chair Hudson and I talked to somebody last night who had just been at a different shelter and was talking about the food quality differential. I do think, as I have testified and answered questions about, that we can do more to improve the food quality at Borden in particular and that there are other systemic issues that we do need to look at in terms of the food. I will turn it over to the Deputy Commissioner to see if she has anything additional to add.
+
+**(01:45:52)**
+
+
+
+Commissioner, it actually does seem like your mic is a bit low. I am not sure if that is a volume issue or a facing mic issue.
+
+**(01:46:05)**
+
+
+
+Thank you.
+
+**(01:46:05)**
+
+
+
+Yes, so just to piggyback on what Commissioner Dalton indicated — yes, we are required not only at Borden but across the entire shelter system to follow New York City food standards, which monitor caloric intake, sodium, et cetera. So I absolutely agree with Chair Hudson with respect to the small juice portions that our veterans or our clients receive. But we are having conversations internally on how we can help augment that. At some of our shelters we do have microwaves in the cafeteria, which would allow a client to come in and, let us say, if they want to heat some food up that they purchased from outside, they can do so. With respect to cooking, I definitely want to be clear that we do not allow cooking at our shelters for single men or women. But again, if a client wants to bring in food and they want to eat it in the cafeteria, this would be permissible during cafeteria hours. And again, if they want to use microwaves, we can have conversations with Borden on how we can help make that possible.
+
+**(01:47:14)**
+
+
+
+Can you help me understand — so to be clear, you are saying that they can bring outside food into the shelter and it will not be confiscated by the staff?
+
+**(01:47:26)**
+
+
+
+The client would have to bring in the food and the staff would have to escort them to the cafeteria to ensure that they are not eating in the dorms — we do not want to create an issue of rodents. So yes, these are conversations we can have with our providers if they are not allowing this to happen. This is necessary because we get reports that their food is confiscated if they bring outside food because they are still hungry. Thank you for bringing that to our attention and that is a conversation that we will have with the shelter leadership.
+
+**(01:47:56)**
+
+
+
+So for the cooking class that is happening, it was also brought to our attention that the cooking class contract has a conflict of interest. But in addition to that, can you please help me understand —
+
+**(01:48:12)**
+
+
+
+the cooking class is not intended for the veterans who are residents of the building. It is only for outsiders?
+
+**(01:48:20)**
+
+
+
+That is incorrect. CM Wong brought that up as well. Yes, so that is incorrect. We have set aside slots for the veterans to participate in the cooking class if they wish
+
+**(01:48:30)**
+
+
+
+to do so. So how many veterans can participate versus how many are actual residents there? Because it seems like many of them want to be able to cook their food because they are dissatisfied with the quality of food that they are receiving. Many of them tell us that it is mostly beans of some kind and just
+
+**(01:48:46)**
+
+
+
+rice or some sort of carb. So I want to just be clear — as far as cooking their meals, the veterans cannot cook their meals. With respect to participating in the culinary program, we do have slots that are available for those veterans. How many slots? Unfortunately I do not have that number. It might be 10 slots, because
+
+**(01:49:08)**
+
+
+
+my point is that the ratio of slots available versus the residents who want to participate is not enough. And if people outside the shelter are being given access to this cooking class yet the residents themselves are not, that is a point of conflict
+
+**(01:49:25)**
+
+
+
+and tension for them. So we do not have reports that indicate that veterans are being turned away from the program or are not able to participate in the program. But again, if that is information that you have and you are willing to share, by all means we will be happy to look into it. We need to have conversations with the shelter leadership because again, our veterans are allowed to participate in the culinary program — I myself made that clear when we negotiated this, that those at Borden can participate and will participate, as long as they have the time to do so. But 10 slots is not enough for the number of veterans that we have. We promise we will come
+
+**(01:50:02)**
+
+
+
+back to you. I just have one last question. Who is the contractor for the food at the site?
+
+**(01:50:05)**
+
+
+
+I believe that is Project Renewal.
+
+**(01:50:10)**
+
+
+
+Oh, Healthy Beets? I am sorry — the two... you said the culinary...
+
+**(01:50:13)**
+
+
+
+OK, Healthy Window... is it Healthy Beets?
+
+**(01:50:15)**
+
+
+
+Yes, for all three meals per day. OK, yes.
+
+**(01:50:18)**
+
+
+
+I have one quick question before we go back to CM Wong. Going back to the grant issue — a lot of this seems to have to do with the federal government having a policy which was at odds with City and State policy regarding trans veterans and things of that nature. I understand that it is the City and the State's policy. I am curious though how many trans veterans there are either in New York City or at Borden Avenue. Just to be clear, I understand it would not affect the policy decision to reject the grant money, but I think the public is curious just about how many folks that would affect — ballpark, if you have it.
+
+**(01:50:57)**
+
+
+
+Thanks. I do not... my colleagues want to answer as well. Broader than the shelter system — what I can tell you is that we do know of veterans who identify as transgender or gender nonconforming in our shelter system. I do not have the numbers but we know that does exist. Is there a ballpark number in the shelter system?
+
+**(01:51:18)**
+
+
+
+I do not... OK. I will pass that question to my Chief of Staff. Nicole, self-identification —
+
+**(01:51:28)**
+
+
+
+as we have mentioned, self-identification has been an issue and we are doing the best that we can when it comes to providing outreach support to ensure that specifically when it comes to the LGBTQ+ community they can self-identify. I will let
+
+**(01:51:44)**
+
+
+
+Nicole speak further. Before you answer — Orlando, I am having a tough time hearing all the witnesses at the witness table. I see that their mic is on and I see them speaking directly into it. I do not know if that is an audio issue that we can resolve, but unfortunately I know Miss Orlando can project. Go ahead.
+
+**(01:52:01)**
+
+
+
+Thank you for the question and thank you to all committee members here today. For us, we do not have an exact number for transgender veterans that are here in New York City. Largely, looking back to our testimony that we provided in the LGBTQ+ hearing, we are working, as the Commissioner mentioned, to make sure that a veteran feels comfortable enough to self-identify, as well as looking into what benefits are provided. So we would be happy to keep you updated with the identification piece of this.
+
+**(01:52:28)**
+
+
+
+OK, CM Wong. Thank you. Commissioner Dalton, can you explain why veterans would need to have bottles next to the bed so they could urinate into them, even though the bathrooms are nearby? What is the issue? Is the bathroom not safe? Is there something... why would you even allow that to happen?
+
+**(01:52:50)**
+
+
+
+Yeah, no, thank you for the opportunity to clarify. While I did not speak with every veteran who was residing at Borden Avenue, I spent — I do not know — 90 minutes or so with a number of folks and have been there over a couple of times over the past couple of weeks and talked to others as well. Nobody has reported to me about safety in the bathroom. We certainly have heard about the showers where there are real privacy concerns that I agree with and we are fixing. But the actual bathrooms — I have seen myself — are typical bathrooms. I did not get the sense that veterans were nervous or unable to use the bathroom. I think that notice was just a notice that got put out.
+
+**(01:53:38)**
+
+
+
+Yeah, it seemed to me that DHS should have people there at these CAB meetings and they should be well aware of these issues that we are discussing today. My question — do you have someone attending these CAB meetings? Please answer.
+
+**(01:53:53)**
+
+
+
+I will turn it over to the Deputy Commissioner to answer.
+
+**(01:53:57)**
+
+
+
+So yes, to answer your question, we do have staff that attends the CAB meetings.
+
+**(01:54:03)**
+
+
+
+Yeah, but I am sure these issues were brought up many times because I was told by the residents that they were discussing them at CAB meetings and then nothing was done or addressed. You know, look — if there is enough food, nobody will want to cook there. The reason they want to cook there is because they are hungry. And it is unacceptable to me that you allow the people in the cooking school to cook but the veterans cannot cook.
+
+**(01:54:34)**
+
+
+
+Think about that. All right.
+
+**(01:54:36)**
+
+
+
+OK, follow-up question. All right, follow-up question. Your testimony said there are 259 911 calls — sorry, 911 calls. Can you have a breakdown? Like, what are the issues that you are dealing with at the Borden Avenue site? I will line them up for you and this time frame and I have to report
+
+**(01:55:04)**
+
+
+
+back in a little while. In general terms, a lot of calls — which you could see in my testimony — are related to medical care. Veterans and others experience medical emergencies just like everybody else and there are 911 calls for those kinds of issues. But if you will allow me...
+
+**(01:55:29)**
+
+
+
+Yes, I would like to see a breakdown of the 911 calls. Thank
+
+**(01:55:33)**
+
+
+
+you. We can provide that. Please.
+
+**(01:55:36)**
+
+
+
+Thank you, CM Wong. Before I turn it back to Chair Hudson, Commissioner Dalton, I do want to take advantage of your Pennsylvania perspective for something. You know, one of the few areas that I think all 51 of my colleagues agree on is that we are frustrated at the pace of New York City capital projects. To wrap my head around the fact that it is going to take three years to fix a leaking roof — when you were in Pennsylvania,
+
+**(01:56:09)**
+
+
+
+how long would it take to fix a roof there? Not three years, I am betting.
+
+**(01:56:14)**
+
+
+
+I do not have roof estimates from Pennsylvania, but... oh look, that is working now. There you go. However, I share the concern about how long things take and our responsiveness. We have a new administrator, Reza Henderson, and she and I both are looking at the process. There is of course a citywide process that has planning procedures that are required and funding procedures that are
+
+**(01:56:51)**
+
+
+
+required. But then there is also the piece on our side — how are we managing those dollars, how are we prioritizing them, how are we procuring? We are looking at that entire process from bottom to top to see what we can do to expedite. We do not like to see our buildings in disrepair and our clients struggling under
+
+**(01:57:12)**
+
+
+
+This will let us know how we can help. I think, not speaking for the Mayor or the Speaker, but I can tell you everybody up here and all the members of my committee are committed to doing everything in our purview to making sure that we can help reduce that timeline.
+
+Chair Hudson, thank you. I am going to belabor the point of the piece — the law that I believe you referenced, Social Services Law 136. Was that accurate? OK. Because that is the protection of public welfare records, and the first line says the names and addresses of persons applying for or receiving public assistance and care shall not be included in any published report or printed in any newspaper or reported at any public meeting, except meetings of the county, blah blah blah. So that seems to me to be very specific to names and addresses or privacy information for individuals.
+
+Whereas in the City Charter, Section 29, under power of investigation and oversight, it states that the Council, acting as a committee of the whole and each standing or special committee of the Council, through hearings or otherwise, may investigate any matters within its jurisdiction relating to the property, affairs or government of the City or of any county within the City, or to any other powers of the Council, or to effectuate the purposes or provisions of this Charter or any laws relating to the City or to any county within the City.
+
+Now I am not an attorney. I know you are not an attorney. So maybe we can let our attorneys or respective attorneys hash it out. But my interpretation of this is that we have the authority as members of this body to investigate any matters, as it says, within its jurisdiction relating to the property of any City agency. I think the law that you referenced is specific to personally identifying records. As Council members who provide constituent services every day in our offices, we are not sharing personally identifying information, and we have stopgaps and practices and policies within the body that prevent us from sharing personally identifying information for those who we serve every single day.
+
+So I would argue that we should have the authority and the ability to make unannounced visits to shelters. I know we did one last night, but fully and truly unannounced, the way we see it as duly elected members. So I just wanted to make that point.
+
+And then I wanted to ask Commissioner Mata — you referenced in your testimony strengthening equitable access for women veterans, LGBT+ veterans, older veterans, veterans with disabilities and communities that face additional barriers to services. Can you just share what that looks like, and if someone prefers to be in a different type of shelter environment, what that process looks like if they did not want to be somewhere like Borden Avenue? Also, on the website it says that Borden Avenue houses both male and female veterans. Can you verify whether that is accurate?
+
+**(02:00:45)**
+
+
+
+When it comes to Borden, I will defer the questions to the Commissioner. To your question, there are two answers to that. First, to the component of the outreach that we are doing when it comes to women veterans, LGBT+ veterans and veterans with disabilities — we are working in conjunction with other City agencies such as the Commissioner for Disability and the Commissioner of Aging to ensure that we have that collaborative effort to outreach properly to those veterans. We have also held various roundtables so that we can hear directly from the veteran groups as to how we should be outreaching further. We also want to thank City Council for funding when it comes to outreach, and more information is going to come out on that. We just finalized that specific plan.
+
+I will further refer this to my Chief of Staff, Nicole. What we are doing, where I remain focused, is to be the sole connector. Our focus is to place veterans into housing, and that is a very rigorous process at the agency. We help identify units, arrange viewings, gather documents, coordinate subsidies and inspections with the responsible agencies, and provide the aftercare component. So after Nicole explains further the outreach, Denise Smalls will go further on the aftercare. Thank you so much again for that question.
+
+**(02:02:29)**
+
+
+
+And just to emphasize Commissioner Mata's response — this administration, under the leadership of Commissioner Mata, is focused on veteran feedback on a lot of programming and things that we are doing. This includes the inclusion on our website of a feedback form that a veteran can fill...
+
+**(02:02:45)**
+
+
+
+...fill out if they have issues with any aspect that is going on in the veteran community. This helps us to identify what these issues are and be able to better support. As Commissioner mentioned, the collaboration with different City agencies and City Council members allows us all to be in constant communication about these issues, as well as ideas that veterans have. So that includes roundtable discussions in partnership with our independent board, and just understanding what the community needs.
+
+**(02:03:13)**
+
+
+
+Thank you for that question. For the aftercare component, our team supports housing stability and prevention by maintaining contact with housed veterans and connecting them to services. Scheduled contacts help identify concerns early. Urgent housing needs are addressed as they arise and are not limited to scheduled intervals.
+
+**(02:03:39)**
+
+
+
+Commissioner Dalton? Yeah, Deputy Commissioner — I am speaking to us. There are not women there. Yes.
+
+**(02:03:47)**
+
+
+
+Years ago it was a coed facility, but on or about 2018, I believe, when we started with the grant, we switched to all males and the women were transferred to another facility. OK. I would encourage you to update the website. Thank you.
+
+OK. Although New York City reduced veteran homelessness by approximately 44% between 2015 and 2025, the number of homeless veterans has increased in recent years, rising from 482 individuals in 2022 to 697 in 2025. What factors have contributed to this increase? What specific strategies is the administration implementing to reverse this trend? And additionally, what policies, programs or investments were most responsible for the significant reductions achieved between 2015 and 2022, and how is the administration building upon those successes today?
+
+**(02:04:49)**
+
+
+
+Thank you. I will start, and my colleagues may well want to jump in here. I think there was a tremendous decline in veteran homelessness across the country, and I think what you saw, both at a national level and a federal level as well as here in New York City, is people just doing the things that they needed to do — providing the vouchers that they needed, prioritizing this population, bringing them into shelter when that was part of the journey, and helping them to move on to housing quickly.
+
+I will say that all of us should be encouraging federal investments to be restored for this group. The federal VASH vouchers, which I think in our previous history here were a good percentage of the way people left the homelessness system on that voucher, have declined deeply over the past few years. The number of those on those vouchers — the feds will say they are safe on them — has dropped, I have heard, 93% from its peak. So the federal government is really leaving us without specific housing resources for this population. We as a City are the most generous in the country in terms of providing local funding for rental assistance and payment and support for...
+
+**(02:06:20)**
+
+
+
+...people exiting homelessness, including the veterans population. New York City again supports veterans and sees them as eligible for programs like CityFHEPS. So I would say the federal investment really helped us to reduce homelessness during that period, and the federal disinvestment is hurting our ability to continue to have those strides.
+
+I will say New York City still has one of the lowest — or the lowest — veteran homelessness rates in the country. We find, thankfully, very few people on the street who self-identify as a veteran. So to the extent that folks are homeless here, they are in our shelter system. But I would encourage all of us to look to the federal government for the support that we need to serve this group.
+
+Thank you. And which boroughs, Council districts or neighborhoods have the highest concentrations of veterans experiencing homelessness, and how is the City targeting outreach and services to those highest-need areas?
+
+**(02:07:28)**
+
+
+
+Yeah, thank you. I can answer the question for folks who were in shelter as of this year by their last address, and I think that gets to the answer to your question. So that is a borough breakdown. The Bronx: 24%. Brooklyn: 23%. Manhattan: 21%. Queens: 12%. Staten Island: 2%. We have a known... or, I am sorry, Manhattan was 23% and Queens was 12%. Sorry, I will start again. OK. The Bronx: 24%. Brooklyn: 23%. Manhattan: 21%. Queens: 12%. Staten Island: 2%. We do have 17% with no verifiable associated New York City address and only 1% with an unknown prior address other than shelter.
+
+**(02:08:31)**
+
+
+
+OK, great. Thank you. If I... and I am...
+
+**(02:08:34)**
+
+
+
+So sorry — if we can just also interject from what we see from our perspective, for veterans who are coming through our doors. In the months from July to August of 2026, what we see is that Council Districts 14, 15 and 31 see the most requests for housing assistance to our agency. Just to provide some more color for housing assistance specifically through this year.
+
+**(02:08:56)**
+
+
+
+Yes, thank you. Council Member — oh, good. Thank you. And when you said thank you at the... oh, sorry, hang on. Hold on. I know you have got a birthday party to get to. But how are veterans identified when they enter the shelter regarding their military service? Yeah, thank you. I am going to turn it over to the Deputy Commissioner to walk through that.
+
+**(02:09:20)**
+
+
+
+Thank you. So...
+
+**(02:09:21)**
+
+
+
+Our veterans self-report at the point of intake. We have several intake sites, as Commissioner Dalton mentioned, for adult families, families with children and single adults. Our veterans do self-report their veteran status at intake. However, if a veteran chooses not to disclose at the point of intake and discloses throughout their shelter stay — once they arrive at their program shelter and after meeting with their case manager or someone on staff — they share that they are a veteran. We do engage and ask whether or not they wish to identify as a veteran so we can identify them in our system as such.
+
+If they agree to do so and it is a single male, that person goes to Borden, or again, wherever shelter they wish to be placed. So we do continue to have conversations with our veterans at the point of intake and even while in shelter.
+
+OK. And would you say there are sufficient veterans-specific housing resources, including supportive housing and VASH vouchers, to meet the current need?
+
+So as Commissioner Dalton indicated, the number of HUD-VASH vouchers have declined. With respect to the HUD-VASH, again, the federal government is responsible. But as it relates to the City subsidies that we have specifically for City veterans — with CityFHEPS, so they have those vouchers — we also have them completely assessed for eligibility for supportive housing. So between the supportive housing and CityFHEPS, if a veteran is over income, we do assist with the enhanced one-shot deal or the SOTA program. Again, these are all housing resources that we utilize to assist our veterans in movement into permanency.
+
+**(02:11:21)**
+
+
+
+Thank you. And do you know how many veterans are receiving housing subsidies other than vouchers, such as one-shot deals or CityFHEPS? Yeah, I can provide...
+
+**(02:11:33)**
+
+
+
+...that for fiscal year 2026. For subsidized placements, for the 414 subsidized placements during that time, 41% were FHEPS or supportive housing, another 5% were SOTA, 4% Section 8 and other, which includes NYCHA, 5% Section 8 was...
+
+**(02:12:00)**
+
+
+
+...how much? 4%. OK. And what is the average amount of time a veteran spends in shelter before securing permanent housing? Yeah, we have got that as...
+
+**(02:12:10)**
+
+
+
+...well. Hold on one second — let me not prefer a different number. I have got to flip over here. So this is data from June 5, 2026, and I think it provides the best look at length of stay. The average length of stay is... we can also get you more detail if this does not help. It is 281 days across the whole system. For single adult veterans it is 285 days. Adult families with veterans: 199 days. Families with children with veterans: 269 days. I am sorry, can you repeat those again? Average across the whole system: 281 days. Single adults: 285. Adult families: 199. Families with children: 169. Thank you.
+
+**(02:13:14)**
+
+
+
+I turn it back over to the Chair.
+
+**(02:13:18)**
+
+
+
+Thank you.
+
+**(02:13:21)**
+
+
+
+My predecessor Robert Holden donated the library — he founded the books there. When I visited the site with Council Member Julie Won, the room was closed. I then spoke to the residents. Why is it closed? They did not give a reason. So can you tell me why it is closed and why they have no access to the room?
+
+**(02:13:44)**
+
+
+
+I can report on what I saw and what I heard last night. The library is lovely and well-functioning. There is a nice table, there are some nice seated chairs, and there are books around the walls. That is the place where I held a listening session with residents, and they absolutely came in and out and used that room. Also, last night when I was with Chair Hudson on an unannounced visit, I heard over the loudspeaker an announcement that a movie was being shown in the library.
+
+**(02:14:25)**
+
+
+
+And so those two things indicate to me that the library is very much functioning and in use. OK. So you are simply telling me that residents do have access to the library and the materials inside?
+
+**(02:14:38)**
+
+
+
+That is my understanding, and my testimony is based on those two things. I did find the 9-1-1 number for you if you would like it.
+
+**(02:14:46)**
+
+
+
+All right, well I was told a very different story — that they have no access. So OK. I am glad that these visits will allow these facilities to be open again. So that is my question. Chair, thank you.
+
+**(02:15:04)**
+
+
+
+Thank you. I have a number of questions but I want to be respectful of the members of the public that have been waiting here for two and a half hours to share their perspective on what is going on, not only with Borden Avenue but on a lot of the legislation that we are considering today. But Commissioner Mata, before we wrap up — you described an extensive process involving vouchers, apartment inspections, documentation, approvals and multiple agencies. Can you tell us the median number of days between a veteran first requesting housing assistance and actually moving into permanent housing? How long does the whole thing usually take?
+
+**(02:15:45)**
+
+
+
+Thank you for that question. I will pass it on to my Associate Commissioner, Donna Smalls.
+
+**(02:15:49)**
+
+
+
+Thank you for that question. The median can take anywhere between seven months to eight months for a veteran moving into permanent housing. Each situation or each circumstance is different depending on what the veteran has — whether he or she has documentation coming into shelter. If they do not, that time period makes it a little bit longer.
+
+**(02:16:19)**
+
+
+
+But my team walks through that process with them and partners to get the adequate documents that they need to move into permanent housing.
+
+**(02:16:28)**
+
+
+
+So for that seven months, which step usually takes the longest amount of time? Is there anything we could do to reduce that?
+
+**(02:16:35)**
+
+
+
+It can be the documentation, because most veterans can come into a shelter and they might not have a birth certificate. They might not have a Social Security card or a photo ID, and in order to get those you need one or the other. So that can take an extensive amount of time. I know because I have helped many veterans try to get their documents and I have walked through the steps with them. Just getting their identification documents can take a long time. And then once they get that it can move a little bit faster, but then we have to go through the different agencies and move forward with thousands...
+
+**(02:17:16)**
+
+
+
+Commissioner Dalton, hearing from two distinguished female veterans brings me back to your conversation earlier about women veterans in the shelter system. Your testimony said that 55 women veterans were in shelter as of last week. Currently New York City does not have a shelter exclusively for women veterans. Has there been an assessment of whether women veterans would benefit from a dedicated facility or some sort of specialized programming, particularly for people that might be dealing with military sexual trauma and everything that comes with that?
+
+In my time here we have not assessed that, or at least I am unaware if we had. But I think it is an excellent point and we can take a look at that issue as we think about the system and system capacity going forward. It is a relatively small number, but I understand that veterans and female veterans also have special sets of circumstances and needs that could be served well in one facility. We do have two facilities that have set aside spaces for female veterans where we do consolidate services. It is run by the same provider that has veteran expertise on the single side. But Deputy Commissioner, do you have anything to add to that?
+
+So I just want to speak to this historically. We have always had relatively low numbers of women veterans in shelter. We saw an uptick as recently as maybe 12 to 18 months ago, but the number of female veterans in shelter has been 30 or below, hence why there has never been a dedicated shelter specifically for them. But as Commissioner Dalton points out, and as you point out, perhaps this is something that we should definitely revisit as we start to see the numbers of women coming into the system.
+
+I would eventually guess that the number of transgender veterans is also relatively low, but that still was enough to have us opt out of $1.4 million of federal grant money. So even if there are only 30 or 40 or 58 female homeless veterans, if we could find facilities to make sure that they are accommodated and getting the services they need, that taxpayers should certainly be interested in. But my last question...
+
+**(02:19:56)**
+
+
+
+For Commissioner Dalton: you testified that you personally participated in a listening session with about 20 Borden Avenue residents and received mixed feedback about building conditions, food security, services, and a lot of the things that you have referred to. What were the three most serious complaints that you heard directly from those veterans? And I am wondering, have there been any concrete changes that have been made in response? I know you mentioned the possibility of bringing in military chefs to address the food issue. Has there been any specific changes that have already been made as a result of that listening session?
+
+**(02:20:40)**
+
+
+
+Thank you for the question. What I heard the most about was the issue of the food. So as I testified, we are working with ICL, thinking about what we might do with the existing provider and informing meals and talking more with the veterans. We are looking at other options too, which I testified would include procurement that could allow us to use the commercial kitchen that is right there in front of folks.
+
+I did not participate, but I know that the leadership had a house meeting with the veterans last evening and reported back some of the things that we heard and the changes that were being made. I mean, it should not have taken a lot of discussion to fix the shower issue, particularly if that has been raised for a long time. But we are absolutely taking action on that. I think that is an important step.
+
+And then something that we have not touched on all that much but we are looking at is just the issues around security, and working in partnership with ICL to ensure that we have the most up-to-date trainings, that police support is available as necessary, and so that we can ensure that there is... Even though I am pleased to see all of the 911 calls down and the incidents down and complaints down, there is always more we can do to ensure that folks are...
+
+**(02:22:24)**
+
+
+
+...safe. My final question is: when I visited Borden Avenue, in the library there was a portrait of somebody on the wall. At the time nobody knew who that person was. Has anyone figured out who is on the wall of the library at Borden Avenue?
+
+**(02:22:41)**
+
+
+
+Yes. There was a staff member at the facility who identified the gentleman, though I do not recall the name. But the gentleman has been identified. We will be sure to report back. We are going to find out the identity of that person. Everybody knows he was somebody who funded the library, or something like that.
+
+**(02:23:02)**
+
+
+
+Commissioners, thank you very much for your testimony. Deputy Commissioners and Chief of Staff Orlando, certainly thank you all very much. All right, in a moment we are going to — as far as I am concerned, this is the absolute most important part of the hearing. As interested as I am in hearing from the administration, I am much more interested in hearing from the public. I want to begin by thanking everybody for their patience in waiting here, whether they are waiting to testify on Zoom or especially everybody that made their way here in person.
+
+But a lot of my colleagues and I have a lot of questions and we wanted to make sure we asked them, and hopefully that will inform your testimony as well. For anybody that cannot stay around, feel free to submit testimony in writing as well. As Chair Hudson mentioned earlier, members can grandstand on occasion. As somebody that has been accused of grandstanding more than once myself, I can promise you that I will stay and listen to every last person from the public that has made their way to testify here today. And for everybody that cannot stay and submits testimony in writing, I can promise you I will be reviewing every single person's testimony in writing as well.

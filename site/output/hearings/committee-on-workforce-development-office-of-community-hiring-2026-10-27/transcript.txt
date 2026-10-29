@@ -1,0 +1,772 @@
+Office of Community Hiring
+Committee on Workforce Development · October 27, 2026 · 1hr 36m
+Source: https://hearinghearings.nyc/hearings/committee-on-workforce-development-office-of-community-hiring-2026-10-27/
+Video: https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261027-130745.mp4
+
+================================================================
+
+(00:00:11)
+
+Good afternoon. Welcome to the Committee on Workforce Development. At this time we ask that you please silence all electronics. If you wish to testify, please see one of the sergeants at arms in the back. At no point please do not approach the dais.
+
+(00:00:30)
+
+Good afternoon and welcome to today's oversight hearing of the Committee on Workforce Development. My name is Julie Won and I have the privilege of chairing this Committee. Before we begin I would like to recognize my colleagues who have joined us: CM Hanif and CM Epstein.
+
+Today we are looking at the Office of Community Hiring. The idea behind community hiring is simple. The City spends billions of dollars each year on contracts, and the companies or nonprofits that get awarded those contracts should be hiring New Yorkers who need the work. In 2023 Albany gave the City the power to set hiring goals on City contracts for low income New Yorkers, NYCHA residents and people living in our highest poverty neighborhoods. The City's own rules took effect in January 2025. When the program launched, the administration projected 36,000 jobs a year once it was fully up and running. New York City Talent told this Committee that more than 200 procurements were already out on the street and that the program could reach upwards of $20 billion in City contracts each year.
+
+But then we started looking at the Office of Community Hiring's own reports. OCH's latest quarterly report was posted just recently and it shows 179 contracts worth about $3 billion carrying a community hiring goal, up from 60 contracts worth about $1 billion. That is real growth. But unfortunately the progress has not kept up. Of the 83 construction contracts, only eight reported any progress and six of these eight were below the 30% community hiring goal.
+
+On all five contracts with an apprenticeship goal that reported progress, the share of hours worked by apprentices from these communities was zero. For service contracts, 94 contracts now carry community hiring goals that add up to no progress reported at all. And some of the numbers that are reported do not add up. One Department of Social Services workforce development program in Queens has a goal of 31 hires but OCH's report shows it at more than 1,200% of that goal. Either something remarkable is happening or OCH is counting something other than new hires. And nowhere in these reports does the City say how many people have actually been hired. The law requires these reports to show how many people were hired, what they are paid and who they are, and that information is not in there.
+
+So today I want to understand what is behind these numbers. Where nothing has been reported, has the work already started and vendors just are not reporting? Or is it that OCH does not have the staff or the systems to follow up? New York City Talent told us that it has 37 staff in total.
+
+I want to know how many of them are working on community hiring and whether that is enough to keep up with a program that has nearly tripled in size in a single quarter. I also want to know what happened to the program's very first procurement in June 2024 — a $2 billion procurement for security guard and fire safety services as its first community hiring effort. The City expected those contracts to be placed by 2025. They still do not appear in any of the reports.
+
+This is not the City's first try at this. Back in 2019, under Hire in New York City, about 80% of job referrals were marked as pending for years because employers never told the City whether anyone was hired. We cannot afford to repeat that.
+
+What we will be looking for today is a real count of how many New Yorkers have been hired through community hiring, a date for when the City will publish the data the law requires and a plan for holding vendors accountable when they do not meet their goals. Before we turn it over to the administration I would like to acknowledge the Workforce Development Committee staff: Senior Counsel Paul Poling, Policy Analyst William Hong and Financial Analyst Spencer Kuhn.
+
+I just want to continue to acknowledge that the Mayor has been very vocal and very upfront in the news as well as on social media and in public press that he wants to hire from the City of New York and that these are job openings that we want to continue to have this conversation about. So with that I will turn it over to Committee counsel to administer the oath.
+
+(00:04:55)
+
+Please begin when ready. Good afternoon, Chair Won and members of the New York City Council Committee on Workforce Development. My name is Douglas Harry and I am the Executive Director of the New York City Office of Talent and Workforce Development, or Talent. I am joined today by G. Lee, Executive Director of Talent's Office of Community Hiring. Thank you for inviting us to testify today.
+
+NYC Talent's mission is to ensure that the City's workforce system connects New Yorkers to good jobs and helps employers access local talent. Our public workforce ecosystem includes more than 120 programs administered by nearly 30 City agencies, including the Department of Small Business Services, the Human Resources Administration, the Department of Youth and Community Development, the City University of New York and New York City Public Schools. While each agency focuses on its own core mission, Talent works across these partners to align the City's workforce strategy with job seeker needs, employer demand and a changing economy.
+
+Community hiring exemplifies Talent's efforts to design and launch interagency initiatives to deliver a better workforce system. Community hiring is a first-of-its-kind program in the nation that aims to embed equity and opportunity into City contracting.
+
+New York City's local government has many City agencies that provide a wide range of services for New Yorkers, from designing parks and playgrounds to providing health care and child care, to roads and bridges. While some of this work is done by City employees, the City also contracts with vendors, which include businesses and nonprofits, to deliver billions of dollars in services every year. Community hiring allows the City to leverage its purchasing power by setting workforce goals on these contracts for vendors to hire low income individuals and residents of low income communities, including NYCHA housing.
+
+Community hiring was authorized by state legislation in 2023 and Talent was tasked with transforming the framework established by the law into an operational program that has a tangible impact on New Yorkers. While there are similar programs in other cities and states that are generally limited to the construction industry, the City's program goes further and applies to a broad range of contracts including construction, human services like health, standard services like cleaning and moving and professional services like technology and engineering. OCH manages the rollout and implementation of the program, supports City agencies and vendors and reports on progress toward community hiring goals.
+
+We are proud to share that as a result of these efforts, 528 contracts have community hiring goals, which represents $13.3 billion in contract value. Despite most of these contracts being recently registered and early on in their contract term, we already have approximately 1,200 community hires employed by vendors to date.
+
+I want to take this opportunity to walk you through the work that has made these accomplishments possible. After the state legislation that authorized community hiring was signed by the
+
+(00:07:47)
+
+Governor in November 2023, we were required to complete the City's formal rulemaking process to establish the operational framework for the program. This included determining details about what type of contracts are covered, how City agencies set goals and what vendors need to do to comply with goals. OCH worked collaboratively while developing these rules so they would be informed by the perspectives of the many stakeholders impacted by community hiring. OCH heard from 120 unique external partners through one-on-one meetings, information sessions, roundtables and panel discussions. These groups included organized labor, elected officials, workforce development organizations, industry groups, pre-apprenticeship programs, human service providers and community organizations. OCH also engaged with 47 different City agencies and offices through one-on-one meetings and biweekly agency working groups. After this process, the community hiring rules went into effect January 23, 2025.
+
+Since community hiring is tied to City contracting, our major priority in 2025 was ensuring that City agency staff were aware, trained and prepared to set goals on their agency's applicable contracts. We reviewed contract information from Passport, monitored procurement being released by agencies and held approximately 200 meetings with agency procurement staff to discuss opportunities to set goals. We held training sessions that were attended by over 115 City agency staff representing 27 agencies, developed an agency-specific FAQ document and created standard contract language. After a phased rollout, by September 2025 we had supported all mayoral agencies to ensure they were prepared to implement community hiring.
+
+We also engaged City vendors so that they had the information they needed to understand, comply with and benefit from community hiring. These efforts included publishing a vendor-specific document on our website, attending community and procurement events to conduct vendor outreach and presenting during pre-solicitation conferences to provide guidance to vendors interested in responding to solicitations for procurements with goals. To date we have presented at 77 pre-solicitation conferences.
+
+To help vendors fill their workforce needs and meet their community hiring goals, we established a network of referral sources, which are entities authorized by our office to connect vendors with qualified job seekers in search of opportunities. We intentionally designed our referral source network to drive more employers and more jobs to the public workforce system. Currently our network includes 81 organizations including labor unions, SBS's Workforce1 Career Centers, Business Link and dozens of community-based organizations that have contracts with agencies like DYCD for job placement services.
+
+Referral sources conduct outreach to their communities, provide free job placement and recruitment services, determine job seekers are eligible as community hires and help ensure that candidates meet the vendor's employment needs. Accountability is embedded into the design of community hiring as we are required to publish quarterly reports on contracts subject to community hiring goals. These reports include aggregate and vendor-specific progress towards goals and information about placements and demographics of community hires. Regular reporting will not only increase transparency but will also provide a long-term opportunity for the City to continuously improve the program by identifying opportunities for targeted outreach or training programs that could be developed to better align the skills of job seekers with the needs of City vendors.
+
+While we are still building some of the necessary digital infrastructure, we have published nine quarterly reports to date on our website at nyc.gov/community-hiring. Under the leadership of Mayor Mamdani and Deputy Mayor for Economic Justice Charlie Sue, we are committed to strengthening the workforce system as essential public infrastructure to connect New Yorkers to opportunity. Community hiring is an important tool that strategically leverages City contracts to drive employers and jobs to the public workforce system, while also improving interconnectivity across City agencies, vendors and programs so that job seekers and businesses mutually benefit.
+
+I know firsthand from working many years at the Mayor's Office of Contract Services that City procurement is an extremely complicated process that offers immense opportunity. Embedding community into this process, developing multiple digital systems for data tracking and analysis, strengthening collaborations with our partners and organized labor through project labor agreements and preparing numerous disparate stakeholders for program implementation has been an enormous effort. I am incredibly proud of the progress we have made to date but we know we still have a lot of work to do. We look forward to answering your questions and discussing how we can work together to realize the full vision of community hiring and connect more New Yorkers to quality employment opportunities. Thank you and we are happy to take your questions.
+
+(00:12:19)
+
+Thank you so much for your testimony. I also want to acknowledge we have been joined by CM Phil Wong. I will jump right in. Community hiring goals took effect in January 2025 and as of January 2026, 179 registered City contracts worth about $3 billion carried community hiring goals. The quarterly reports do not state how many people have been hired under any of them. So could you please respond by answering: how many New Yorkers have been hired as community hires since January 2025 across all contracts? How many were residence-based community hires on construction and building service contracts? And how many were income-based community hires on service contracts?
+
+(00:13:08)
+
+To date, based on our public reports, we have about 1,200 community hires who have been hired to date and we are really proud of the work that has been done. Many of these contracts that we have reported on so far are early on in their contract terms, so we anticipate that that number continues to grow. Also, as you mentioned, the contracts that we published are just a subset of all the contracts that have registered to date. We will continue to publish the quarterly reports that will have even more contracts in them. Most of the contracts' first hires have been income-based hires — that is about a little over 1,100 — and almost 70 residence-based community hires have been hired based on the data we have as of today. And how many hours have community hires worked on construction contracts to date and what percentage of hours on those contracts does that represent? The total number of hours — I am not sure if we have that exact number available, but we can follow up and get back to you.
+
+(00:14:21)
+
+Okay, and if you could also get back to us with the percentage of hours on those contracts that those represent. If you have staff that could do that within our hearing time that would be great. I know that we are also
+
+(00:14:34)
+
+joined by our Consumer Protection Chair Harvey Epstein, so I am going to let him ask questions before he has to leave. Thank you, Chair. I do not need to go right now if you have other questions, but I am happy to jump in. Thank you for being here.
+
+(00:14:51)
+
+Can you tell us about what the outreach process looks like for these community hires and how we make sure that people in our districts know that this hiring is happening?
+
+Yes, so as I
+
+(00:15:03)
+
+mentioned in my testimony, we have a network of referral sources and the referral sources include the City's public workforce system, and HRA as well as many labor unions as well as
+
+(00:15:16)
+
+many providers — about 28 so far — and so much of the outreach about community
+
+(00:15:22)
+
+hiring is happening on the ground through those entities. They vary depending on the type of organization, and some of that is proactive and some of that is people walking into centers and learning about opportunities.
+
+(00:15:35)
+
+And why not us? Like, why not have us as partners? We are 51 members and we all have email blasts that we send out every week to 40,000 people in my neighborhood. No one has asked me to be a partner in this. So why not have us join in this effort?
+
+(00:15:55)
+
+We absolutely welcome your partnership and being able to help amplify the program. As I mentioned, we are early on in the program and many of these contracts are recently registered, so we do anticipate that
+
+(00:16:09)
+
+as more contracts get registered we will continue to increase our outreach. We are definitely happy to partner with the Council on that. Yeah, and can you give us a list? You said there are 28 partners — can you share a list? Yeah, it would be great, because there are great organizations like United Neighborhood Houses which operate throughout the City and are in a lot of our districts across the City, and we want to make sure that we are doing this in the way that gets the biggest reach. You know, Henry Street, for example, by me has a Jobs Plus program and they do a lot of community hiring. I have actually hired staff from the Jobs Plus program at Henry Street because I want to make sure that we are hiring local people, especially in our Council offices. People care deeply about this. I wanted to see if those types of programs that are doing that work are really partnering with you.
+
+(00:17:02)
+
+Yeah, could you share the names — could you read the names off to us now of all of the 28 community-based organizations? And then I would also love to understand how did you determine them. Like, is it by borough, is it by how many people they serve? How are they
+
+(00:17:20)
+
+So I will start with answering that question first and then happy to give a readout of the providers. We started in terms of growing our referral source network with starting with the public workforce system, and that is who operates the Workforce One Centers, the business loan team which also does the connections for those receiving public benefits. But we have also expanded to the City agencies who are contracting with nonprofit providers for this work. Many of the providers now have contracts with us. We also have a nature and reese program and we are looking to expand for CUNY as well as other City contracted vendors.
+
+In terms of the process for identifying, we work with the City agencies and we are continuing to work with them to make sure they are plugged in and authorized to become referral sources. Our goal is to have as much extensive connection across all of the City and all the populations. We are proud that there are referral sources in all five boroughs and so the process is really trying to maximize the amount of opportunities for New Yorkers through these referral sources. So I can read... okay, sorry, this is a clear list. There are 28 of them so I will read them all and happy to provide the list as well after.
+
+(00:18:51)
+
+So as of now, in terms of the providers, there is the Center for Alternative Sentencing and Employment Services, Children's Art and Science Workshops, Chinatown Manpower Project Inc., Chinese American Planning Counseling, Comprehensive Youth Development Career Academy, East Side House Settlement, Edith and Carl, Jewish Community House of Bensonhurst, H Community Center, Island Community Center, Queens Community House, Real Stories to Filmmaking Inc., Renaissance Technical Institute, Road to Success, St. Nick's Alliance Corporation, Uplift Communities, They Are Ink, Bronx Works, Cyprus Hills Local Development Corporation, Housing Works, Jewish Home Life Care, Opportunities for a Better Tomorrow, Phipps Neighborhoods, Rockaway Development and Revitalization Corporation, Stanley and Isaac's Neighborhood Center, The Door and United Activities Unlimited. So that is the current list but again we are continuing to work with our agency partners to see how we can continue to expand this.
+
+(00:19:58)
+
+I would encourage you to reach out to us. I mean, you know, it comes to my mind — she knows the groups in her district. I can tell you I do not hear Henry Street, Grand Street Settlement, University Settlement — these are settlement houses that operate in my district. They have a big wide swath of contact with people. They have, like I mentioned, we have a Lower East Side Employment Network, we have the Jobs Plus training program. So we have things that exist as structures that I think would be really helpful. So if you reach out to our offices you can get that information.
+
+(00:20:42)
+
+And you can reach out to our communications people and say, "Hey, put this in your e-blast so people know that we exist."
+
+(00:20:48)
+
+We want to be able to reach out to people. We all get calls every day. I got called the other day for a veteran in my district. He said, "I have been looking for six months to try to find a job." This is someone who has served our country, lives in my district and cannot find a job — a perfect person who has got a great track record working in nonprofits to be able to be in this cohort. They do not know that it exists because of poor communication up to date. We are...
+
+(00:21:18)
+
+Happy to work with the Council Member and the whole Council to really expand some of the outreach and awareness. Some of the organizations you mentioned, we do as an office have relationships with, like Lower East Side and others, et cetera. Like I said, where we are right now today is the list that I shared, but I do anticipate that that will continue to grow over the coming weeks. So happy to have that partnership and have you help amplify that messaging both for the community as well as for job seekers.
+
+(00:21:48)
+
+And how many employment opportunities do you expect to be available over the next three years that are going to be flowing through you?
+
+(00:21:56)
+
+That is a good question. All of the job opportunities and the goals are driven by City procurement and how much the City agencies covered by this are procuring each year. It will vary over time depending on what the procurement looks like, but we are excited that we already have $13 billion worth of City contracts registered to date. That is 528 contracts. The types of organizations that are getting those contracts vary and so their hiring needs vary. Not every contract necessarily necessitates hiring a certain number of people. But we are continuing to look at the data and collect that information and work with the vendors to see how the City can help. So in these 528...
+
+(00:22:48)
+
+Contracts, how many potential jobs are there available right now? I do not have that exact...
+
+(00:22:53)
+
+Number of potential jobs available. Many of these contracts, like I said, the data that we have published in our most recent report was only at 179 because that was based on the quarter that we were mandated to publish. Since then a lot of new contracts have just been registered. We have yet to do exactly the analysis that you are looking for in terms of what those numbers are, but we are now beginning to work with those vendors to make sure that they are working with the system and those job opportunities.
+
+(00:23:27)
+
+When can you get us the information about how many jobs for the 528 contracts you have might be available to New...
+
+(00:23:35)
+
+Yorkers? We will work on getting that information to you as soon as we can. We will have to go back and see where all of those contracts are in their particular status and what some of the outreach looks like to date from our partners, but we will be able to...
+
+(00:23:46)
+
+Get it — is that like two weeks, three weeks, six months, a year...
+
+(00:23:50)
+
+And a half? I do not think it will be a year and a half, Council Member, but I do...
+
+(00:23:54)
+
+Think it really depends on where these contracts are. Can you just give us an update in two weeks to say this is the information we have to date, these are the contracts that we have available, this is what we know so far, these are the types of jobs we are seeing available? Because I think the real data is going to help us. I do not want to speak for the Chair, but I think if it is 5,000 jobs versus five jobs it is a very different conversation. If it is 5,000 jobs in a variety of industries it is a very different conversation about what our role is in how we can be helpful.
+
+I think what we are trying to do is say we want this to be successful, but we want to make sure that you are doing the appropriate outreach. With people I have talked to, I cannot tell you how many times I hear from people like, "The City did this hiring hall for jobs, I went to the line at the door, I waited for three hours, never met with anybody and I left." That level of frustration I hear is a problem. We are not right-sizing what we are trying to do. To right-size is to help people. Absolutely, happy to follow up in two weeks with what we have and welcome the continued conversation.
+
+(00:25:15)
+
+I do also want to note that because of the nature of the contracts, many of them are multi-year contracts, even the vendors might not know all of their hiring needs on day one of the contracts. But that is why we are working with them continuously to try to assess that. We are happy to follow up and continue to partner on this.
+
+(00:25:34)
+
+Can I just — Chair, can I just follow up on that question? So when you send us the list of 528 contracts and the potential jobs available and the potential areas where these jobs might be, it would be great to know what the expertise we are looking for is. Because if in these contracts there are the same types of positions we are looking for, that will send a message. You mentioned, you know, a message to, let us say — I am making something up — if hotel jobs are really coming down the pipeline and we see a lot of these jobs, we should be educating and training people to be ready for these jobs as we move forward. So what we are doing in job retraining is something important for us. This kind of data — and you are saying that most of these are multi-year contracts — will be really helpful for the nonprofits we partner with to be able to help assess what they need to be doing in training and education.
+
+Yeah, absolutely. One of the things that we are particularly excited about with community hiring, which as I mentioned is unique here in New York City, is that it is not limited to only entry-level jobs. It is not limited just to construction, which these types of programs typically are. It is the professional services jobs, it is the human services jobs, it is the standard services jobs and construction. So we are excited about the diversity of different types of job opportunities and we will continue to work with all of our vendors and our referral sources to make sure that we are getting that information out.
+
+(00:27:03)
+
+I appreciate that. Thank you, Chair, for the time. Thank you so much. I want to acknowledge that we have been joined by a Council Member. On September 28, 2026, the City opened a jobs center at Lafayette Street in Lower Manhattan. While the Mayor was praised for converting a long-empty building into a space for career services and workforce development, multiple attendees have cited that the event was poorly organized, leaving many job seekers frustrated in the process. As the Council has described, are recruiters at these halls recruiting individuals for community hiring needs? If someone walks into a hiring hall inquiring about a community hiring opportunity, how are they being serviced? Can you help me understand how many staff are on site at all times?
+
+(00:27:52)
+
+What is going on? Because I get so many complaints as well. I think over 50,000 people have applied to jobs with the City of New York and they have not even heard back at all and they are really upset. I think a single-digit number were hired into this new administration's agencies. So there is just so much confusion and so much frustration. If you could help us understand better...
+
+(00:28:23)
+
+Specifically as it relates to community hiring, that new job center is focused primarily on City jobs and the nature of community hiring is non-City jobs, because these are City contracted vendors. In terms of community hiring direct services happening at that site, it is not designed to do that. However, we are happy to work with you, Council Member, to get that information back in terms of the details on how many people are there, their exact hours, et cetera. But again, that is City jobs versus community hiring non-City jobs. However, because it is run by the agency that operates the Workforce One system, for people who are entering and looking for job opportunities, I believe it is able to help route them back through the Workforce One Center and make sure that the job opportunities and training opportunities that people might be interested in, whether City or non-City, they can get connected to those services as well.
+
+Can you help me understand how this administration separates talent and workforce development versus community hiring, and who is doing what? Because for me, I think workforce development covered all of this.
+
+(00:29:48)
+
+Yeah, so our office — the Office of Talent and Workforce Development, the Office of Community Hiring — I recognize it is confusing to have an office within an office, but the Office of Community Hiring is part of Talent. So the work around community hiring, everything that I have shared in my testimony here today, is part of Talent. Talent generally works across all of the City partners who are doing workforce development, and that includes the Workforce One Centers which are operated and run through SBS and the many partners. For community hiring specifically, while it is run out of our office, the intention and design behind community hiring is really to bring more jobs, to bring more employers, to bring the diversity of jobs into the public workforce system. That is again based on our referral source network. We want to make sure that many CEOs and labor unions are all plugged in to help connect job seekers to these opportunities.
+
+(00:31:03)
+
+On construction contracts covered by a project labor agreement, how does the Office of Community Hiring check whether contractors followed the agreement's referral process, not just whether they reached the 30% hiring goal?
+
+(00:31:16)
+
+So for any contract subject to goals, we and the contracting agencies are monitoring the progress towards the goals. Specifically, our City right now has a goal of 30% directly in those contracts. The way the State legislation is written, it requires us to follow what that goal is. We will monitor the progress towards the goals like any construction project, through collecting digital certified payroll and the data that is on those certified payroll reports to track towards the goal. We are a really strong partner with the building trades and they are committed to doing community hiring. We are excited that it is embedded directly into our plans.
+
+(00:32:02)
+
+And so far, what has been the result for construction contracts covered by project labor agreements?
+
+(00:32:08)
+
+Based on the data we have now, let me see the specifics on the goals to date. I was also able to get to your earlier question of percentage. So right now, 23.75% of all the hours have been performed by community hires. That is based on the available data that we have now. We are continuing to collect more data about these contracts as these contracts progress and...
+
+(00:32:39)
+
+As we get more contracts registered. I can see if we have that broken down by construction and non-construction contracts. I am not sure, but for the construction contracts it is about 23.75% of hours worked that have been performed by community hires.
+
+(00:32:58)
+
+Okay. If your team can also check how they are differentiating and tracking the data for project labor agreements, that would be really helpful. If a covered contractor falls short, who decides whether it made its best efforts and what happens next? Who is doing the regulation, standardization checks and quality control in...
+
+(00:33:16)
+
+These contracts? Yeah, so our office works with the contracting agencies to help assess the progress towards the goals and compliance with the goals. Like you mentioned, it is a best-effort-based program and so best efforts will vary depending on the type of vendor who is doing the work. It is not a one-size-fits-all. A big mega corporation might have more resources and their best efforts might be a little different than a mom-and-pop operation. So we will work closely with the agencies, we will work with the vendors to make sure that they are making best efforts. That will involve working with labor, working with the City's public workforce system to try to make sure that community hires are connected to these job opportunities. But again, it is somewhat of a bespoke process that allows for us to take into account the specifics of the types of organizations who are holding these contracts.
+
+(00:34:14)
+
+Okay, and I am also going to pass it over to CM Wong for questions.
+
+(00:34:21)
+
+Thank you, Chair. This is my data over here. As of July 20, 2026, 179 registered City contracts worth about... carry community hiring goals. My question to you is: how do you identify City contracts that carry community hiring goals and what are you doing to reach out to the other contracts that do not have these hiring goals? Because 179 contracts is a very small figure...
+
+(00:35:00)
+
+Compared to all the contracts I have seen in open data or similar sources. Sure. So many of the contracts that we have today are just newly registered and so, because we are early on in this process, we know that contract count will continue to grow. For example, between that last report which had 179, we already actually now have a total of 528 contracts registered. They just have not yet been reflected in the report and that is valued at $13.3 billion.
+
+In terms of applicability, much of the applicability and structure around community hiring is rooted in State law and so it applies to all service contracts. There are some exceptions but generally it affects construction services, professional services, standard services and human services — all services excluding goods contracts. Our rules that we put into place, and like I said in the testimony, the rules were shaped by many different stakeholders, external and internal, to put the structure of rules into place. Generally speaking, it is all services contracts valued at $3 million or more with some exceptions, and some of those exceptions are in State law.
+
+So right now in that report there were just 179, which will grow in the next report to 528 once we publish that data. But generally speaking, in terms of the types of contracts that get procured every year by the City agencies, we think almost 90% of the contract value of services contracts that get procured every year will be covered by community hiring once all of those contracts go through the full procurement cycle. Whereas the contract count is one piece, the contract value is the piece that we are most focused on, because a contract that is only a million dollars is going to be less impactful than one contract that is $50 million, for example. So we think that the vast majority of services contracts that get procured by City agencies will be covered by community hiring.
+
+(00:37:16)
+
+My follow-up questions regarding outreach: if you take any person who graduated from college or from high school, what kind of outreach are you doing to let them know about City vendors and the ways to get hold of them? What is being done? I never heard of the Office of Community Hiring until today. This is total news to me. I can tell you that a lot of community-based organizations in my district are certainly wanting to reach out to you — either they are looking for talent or they want to be part of this community hiring process.
+
+(00:38:07)
+
+We have done outreach ourselves through our office to a variety of vendor partners as well. However, most of the outreach and connection is done through our referral source network, through the City agencies who operate the Workforce One Center and HRA's LINK, and the providers. By design, we want to drive more people to the workforce system, and community hiring is designed to do just that — increase the amount of employers that are partnered with the workforce system and increase the amount of jobs. From a job seeker perspective, we obviously want them to know that community hiring is here and that there is an opportunity for more jobs coming through. But at the end of the day, we really just want to make sure that people are being connected to the workforce system and that those providers give them whatever services they need, which may be a community hiring job but may also be a different job that is not necessarily directly tied to community hiring.
+
+With that being said, we do partner with our partner agencies. On September 30, we actually had a partnership with SBS for a community hiring job fair. We had 20 to 25 employers who participated in that, 388 job seekers, and there were even 16 on-the-job conditional offers made. So we are happy to partner with you, Councilmember, on increasing the outreach and more events.
+
+(00:39:43)
+
+Come to my district and do a job fair — I love it. Yes, thank you, thank you, thank you.
+
+(00:39:50)
+
+13 of the contracts that were held by the Department of Social Services for the Pathways to Access Careers and Employment and Wellness Comprehensive Assessment and Rehabilitation — so the PACE and CARE programs — which provide employment services to cash assistance clients. The OCH fourth quarter report shows a PACE contract in Queens with a goal of 31 hires showing progress of 1,229%, and an eighth retention contract with a goal of 12 showing 18.67%. What do these figures represent? How many people were actually hired under this contract? And is that a typo, because the math is not mathing.
+
+(00:40:35)
+
+The goals are based on the contract value for those types of contracts, and we did confirm those numbers. They are just hiring many, many people, and so we are proud that those vendors have been able to help.
+
+(00:40:50)
+
+So can you quantify "many, many, many"? What is "many, many, many" that it comes out to be 1,229%?
+
+(00:40:59)
+
+I do not have the exact math, and forgive me, I cannot do the math on the spot right here. However, across all of the contracts, you have about 1,200 community hires employed to date for those contracts. The non-construction contracts is a little over 1,100. So if 31 was the goal on that one, it would be a couple hundred folks who have been hired on that, but do not quote me on the exact math there.
+
+(00:41:28)
+
+OK, because the contract amount is $15,685,874 and the hiring goal was 31, and the community hiring goal percentage progress is 1,229%. So...
+
+(00:41:43)
+
+They are exceeding their goal, and that is because, again, the way that community hiring works is it sets the goal based on a formula essentially. We know that the way that employers hire is not necessarily rooted in that contract value formula — it is really based on their needs. So that employer had a higher need, and we are glad...
+
+(00:42:06)
+
+...they were able to work with the public workforce system and hire community hires for those jobs. So for all these contracts, what is the process for reporting? Are they self-reporting back to you, or are you going out and inspecting and collecting data? How is this...
+
+(00:42:21)
+
+...working? So we are early on in the process of having these contracts, but we are able to collect this information digitally. On construction contracts, we have a digital tool — rather, contractors on construction are required to submit certified payroll reports under state law. We have digitized that process, pulling information from those certified payroll reports, and we are able to use that information to track community hiring in addition to tracking all of the prevailing wage requirements and things like that. We are still ramping up the implementation of this tool, and we anticipate that more and more contracts will be using it, which will increase our reporting for community hiring as well.
+
+That is on the construction side. For the non-construction contracts, there are a couple of different ways that we are able to collect that information. We can work, and are working, directly with the referral sources who have that data to share it with us. We are able to collect information directly from the vendors themselves, and we are also in the process of implementing a digital tool to collect that information and share information across the various agencies to streamline some of the data collection and reporting — to try to minimize the burden on vendors, on our referral sources and agency partners. That process is underway. So as our tool for non-construction contracts is coming into play, how are you collecting the data now that you have shared with us?
+
+(00:43:49)
+
+So that has been a mix of information collected directly from referral sources, as well as information that we have been able to collect directly from vendors based on their reporting. When they tell us they worked with a particular referral source, we would work with the referral source to verify that information. And for accountability for those who have failed to provide the reporting, what happens to those vendors?
+
+(00:44:15)
+
+Yeah, so there is a penalty mechanism under the law and under our rules. With that being said, for the true success of this program, we want to make sure that we are working with these employers and helping them — are they actually working with the public workforce system, are they working with referral sources, are they publishing these jobs and making them available and accessible to New Yorkers? That is core to it.
+
+In the case where vendors are failing to do that and failing to make best efforts, there is the ability for the City to assess financial penalties on these vendors for failing to do that. I intend to use that if we need to. But for many of these contracts, they are pretty early on in their process, and while we are monitoring on a constant basis, we know that hiring timelines are not necessarily driven directly by the contract term. So we are not at the point yet where we have to do that, but we are prepared to do that if we need to.
+
+(00:45:14)
+
+And for the penalty, is it a percentage of the contract? What is the penalty amount and how is it calculated?
+
+(00:45:25)
+
+That is a good question. I will have to share — we can share the rules and the contract language for that exact amount. But there is a certain dollar amount and it can scale up depending on the severity and value of the lack of participation by the vendor, because we do not want it to just be a cost of doing business. We want to make sure that people are...
+
+(00:45:48)
+
+OK, great. Sounds good. I look forward to the new system for non-construction contracts for reporting. In June 2024, the former administration projected that community hiring would create an estimate of 36,000 jobs annually once fully implemented. Is this projection still accurate? When does OCH expect the program to be fully implemented, and how does the program plan to meet those projection goals of 36,000 jobs annually? And are you on...
+
+(00:46:17)
+
+...track? Yeah, so this number at the time was analyzed based on a variety of estimated procurement spend, budget documents and labor market analysis. So it was reflective of what the program would look like when it is fully implemented — all contracts that could have community hiring have community hiring, and they are actually fully going through the full procurement cycle, which means not just the procuring of the contract but the actual service term, right, over many, many years. So that projection was made many years ago.
+
+We are continuing to look at procurement spend and what is in the procurement pipeline, and most importantly working with the vendors and really understanding the hiring needs, because we do know that hiring is not exclusively based on what a contract is. As you mentioned, there is one vendor who has exceptionally high hiring needs and they were able to dramatically exceed their goal, which is great. But it makes it a little tough to estimate the exact amount. We are very excited that even with the 179 contracts that were registered to date and published in the report, we have hit on nearly 1,200 community hires so far.
+
+(00:47:28)
+
+The health department is the largest service agency in all of the program, yet health-related jobs in the community hiring reporting framework are displayed under human services, professional services or other classifications depending on what the City purchases. What does OCH determine whether community hiring representation requirements are aligned with actual employer demand? And given significant workforce needs in health care and other essential industries, what is the City's strategy for ensuring these sectors benefit from community...
+
+(00:48:05)
+
+...hiring? So for all of the contracts that are subject to community hiring, the way that goals are set — and this is very largely for ease of administration on both our agencies and vendors — it is formula-based, which is not necessarily, as I said, tied to hiring need. So for services that the City is procuring, we are excited that we are able to drive more of those employers to the workforce system and get them to continue to bring jobs to the system, bring higher quality jobs to the system and help meet the needs of those employers. With that said, we know that these are not the only employers that are working within the City and hiring from the system. Community hiring is part of that, and we are able to bring more of those employers, but there are needs beyond just City-contracted providers. So the City does a lot of work to help connect New Yorkers to all of those opportunities.
+
+We are always looking, even separate from our community hiring team — we have industry partnerships that work specifically in health care. So we are looking at data on both what the hiring trends and hiring needs are today and what the hiring needs will be tomorrow. That is something that is a focus of our office, to make sure that we are working with our agency partners to build a workforce system that is both responsive to the needs of employers today but also the needs of employers in the future.
+
+(00:49:34)
+
+Where are contractors having the greatest difficulty meeting hiring goals, and why? Are there barriers related to available vacancies, required credentials, candidate preparation, recruitment process practices or contracting funding? And what is OCH doing to address them? So because we are early on and many of these contracts were still recently registered, we do not have all of the answers...
+
+(00:49:58)
+
+...to that exactly. But we will continue to work with the employers to understand what their hiring needs are, where there are challenges and where they think that they might not be meeting their goals. If that is because of something that the City needs to improve upon, we will use that data to inform how we are making sure that we are increasing training opportunities. We will continue to monitor that, but I do not have quite a sector-specific analysis on that yet.
+
+(00:50:25)
+
+OK, because it has been public in the news how we are short on social workers and nurses, especially in the health care sector. So are there any efforts from the City of New York in partnership with CUNY to make sure that there are programs to allow people to finish their education, especially since the federal government has declassified them as public servants?
+
+(00:50:46)
+
+Yes, so that is something that, like I said, beyond community hiring, our office is always focused on — trying to increase opportunities to help make sure that we are connecting more New Yorkers and improving job quality and things like that through apprenticeships. So that is something that we are focused on.
+
+(00:51:05)
+
+The Fiscal Year 2027 adopted budget includes a budget of $1.7 million and 16 positions for OCH, with $388,200 being for contractual services. What is OCH's vacancy rate? Are there any key positions that have been difficult to fill? I would also love to hear from the Executive Director — she has been sitting here quietly as part of the OCH team.
+
+(00:51:41)
+
+Chair, the Office of Community Hiring is currently a team of eight. There are three employees, we have one civic corps member and one intern.
+
+(00:51:54)
+
+And are there any key positions that have been difficult to fill, or is there any vacancy? Because we are supposed to have 16 positions and you are saying that there are eight. So are you vacant for more than six positions?
+
+(00:52:11)
+
+So with 16 positions and eight people, that means that you have a vacancy of 50%. Correct. So some of our headcount is at other agencies that are supporting the community hiring initiative. By design, we want to make sure that this work is embedded into the system. So there are two community hiring headcount positions that are really staffed most directly at SBS, who help support community hiring. But they are not part of that...
+
+(00:52:48)
+
+...eight. They are part of our headcount but are doing the work in support of community hiring. Again, that is intentional because we want to make sure that this is not a side effort — this is embedded into the public workforce system.
+
+(00:53:02)
+
+OK, and where are the rest? Because eight plus two is ten, so we are missing six other positions that have been allotted for in the $1.7...
+
+(00:53:10)
+
+...million. So are there other positions that we should know about in other agencies? We do have other vacancies at the moment.
+
+(00:53:17)
+
+OK, so you have six vacancies?
+
+(00:53:23)
+
+Actually, right now we have a total of three vacancies on the community hiring budget.
+
+(00:53:29)
+
+OK, so we will have to follow up, because the adopted budget has a $1.7 million allotment or allocation for OCH and it lists 16 positions. We are happy to follow up with the data that we have. But to your knowledge, there...
+
+(00:53:49)
+
+...are no key positions that have been difficult to fill? So what are the three vacancies that you are trying to fill?
+
+(00:53:57)
+
+We are continuing to evaluate the needs based on putting our digital systems into place and making sure that we are meeting all of the needs around community hiring. So we are continuing to evaluate what exactly those positions will be.
+
+(00:54:10)
+
+OK, so the vacancies that you have — that you believe are three, which we have as...
+
+(00:54:15)
+
+...six — they do not have titles right now. We are continuing to look at what those needs will be.
+
+(00:54:23)
+
+OK, so they are not even job openings right now? We do not have active postings on the community hiring side.
+
+(00:54:32)
+
+OK. And do you believe that additional positions or funding can help OCH deliver on the goal of 36,000 jobs created annually? We would never say no to additional resources, but we are really excited about the progress we have been able to make to date. Like I said, with our digital tools we are really trying to maximize the ability for us to collect data digitally, which will reduce the person power needed to make sure that we have a good and successful program.
+
+(00:55:02)
+
+OK. And out of the $388,200 set aside for contractual services in the OCH budget, how many and what type of contracts does this funding support? Our office is investing in technology to effectively and efficiently implement, scale and track the program. So these investments are not only going to support community hiring, but the data that we are able to collect will really be used for broader impact across the workforce system.
+
+(00:55:38)
+
+So the entire $388,200 goes to one technology budget? We are trying to contract for all different types of technology.
+
+(00:55:46)
+
+How many tech contracts are we talking about? There is nothing currently...
+
+(00:55:52)
+
+...in the works, but we are working through that.
+
+(00:55:54)
+
+OK, so the money is unspent? There is a contract for a consultant who was helping on some of the technical implementation, so they are not a tech contractor per se.
+
+(00:56:07)
+
+OK, so it is an individual seat, not a firm — like a...
+
+(00:56:11)
+
+...freelancer? It is a consultant. It is a consultant firm. Which firm? JK Consultant. OK. And...
+
+(00:56:20)
+
+...the City Charter requires each quarterly report to include the demographic and compensation data of community hires, the total number of community hires by contract type and the program's financial benefits. None of this information appears in OCH's published reports. Why has OCH not published this information, and when will you begin...
+
+(00:56:43)
+
+...publishing it? So in the most recent reports we do not have some of that information, but we do have some of that information that we hope to reflect in future reports.
+
+(00:56:54)
+
+And we will continue to collect this information as we implement those tools to make sure that we have it. But we do know that we have community hires from all five boroughs, neighborhoods across the City, from Harlem to Stapleton and Staten Island to East New York to Corona. So we are hiring from across all five boroughs. We know that specifically on human services contracts, approximately 27.5% are from the Bronx, 36.5% from Brooklyn, 12% are from Manhattan and 22% from Queens and one and a half percent are from Staten Island. That is based on the available preliminary data now. So we know that we want to continue to make sure that we are collecting this information, being mindful of privacy and sensitivity of collecting and publishing data. So we will continue to collect that information and be able to publish it.
+
+(00:57:50)
+
+When will it be published?
+
+(00:57:54)
+
+We will publish the data as soon as we are able.
+
+(00:57:57)
+
+In accordance with the report, as we have the data based on those contracts, we will publish the data. So we will continue to improve the information that is in those reports to make sure that we are getting all the information that we can out in our reports.
+
+(00:58:11)
+
+Can you at least share it internally to the Council so that we understand the demographic breakdown?
+
+(00:58:16)
+
+We are happy to provide you, Chair, with the data that we have so far and contextualize it with what that is relative to the reports. But again, because of the way that the quarterly reports are, it is always a little bit behind from when that quarter of what we are publishing to what we actually do. So since some of that information that we have been able to do has just yet to be reflected in those reports, but happy to share that with you. OK. And the report for fiscal year 2026 was posted this past week and it still does not state the number of people...
+
+(00:58:49)
+
+...hired. Why is that statistic always missing?
+
+(00:58:52)
+
+Like I mentioned, we do have about 1,200 hires to date. Not sure exactly in terms of what specific information is in the reports and what you are referencing, but we are happy to share that information with you and make sure that our reports have all the information that is required.
+
+(00:59:15)
+
+As of June 30 this year, there are 94 service contracts with combined goals of about 3,150 income-based community hires. 53 of them showed no progress data at all. Does that mean no community hires have been made under those contracts, or have they just not been reported? And how — you already answered this question of how the vendors on service contracts report the hires. Can you just answer: has there been no community hiring under those contracts, or have they just not been reported? This is for the 94 service contracts with combined goals of 3,150 income-based community hires, and 53 of them do not show any progress.
+
+(01:00:03)
+
+So I do not know the exact details of all 94 of those. However, I will say that it is a mix of both, probably, because some of the contracts are very recently registered. They might be multi-year contracts and so all of their hiring needs may just not have happened yet. They might not have a hiring need today but they might have one tomorrow. In some cases we just might not have collected all of that information from them just yet. As I said, we are early on and trying to capture all of that information. So we will continue to work with those providers and it will run the gamut in terms of whether it could be either or in that case, or both.
+
+(01:00:45)
+
+In the most recent quarterly report, only eight of the 83 construction contracts reported any progress. Six of those eight were below the 30% community hiring goal. What have the Office of Community Hiring done about the contracts below the goal and how many of the other construction contracts have begun their work?
+
+(01:01:07)
+
+I do not have all of the information of exactly where each of these contracts are. There are many of them. Many of these contracts are not complete right now and so the hiring needs are different and the goals are different. Especially in the construction trades, there are different types of job opportunities that might be on the project later in the project versus earlier. You are not painting the building until after you build it, that kind of thing. So we will continue to work with the agencies, work with those vendors and work with our partners in labor for contracts to make sure that we are meeting the hiring goals. Because we are very early on, we are heartened to see that there is progress already towards those goals based on the data that we have been able to have. We will continue to monitor those contracts and work to make sure that the vendors are meeting their goals and making best efforts.
+
+(01:02:11)
+
+Of all five contracts with apprenticeship goals that have reported progress, none showed any hours worked by apprentices who are community hires against the 9% goal. Why are no community hire apprentices working on these contracts?
+
+(01:02:27)
+
+Apprenticeships are really an important part of the work that we do in the community hiring team, but even beyond that, we believe that apprenticeships are a really good tool for talent development because they are paid on-the-job training. So far we do not have data on any apprentices working today, but again, since we are early on, we do anticipate that we will continue to see and get more apprentices who are community hires working on these projects. Like I said, we have a really strong partnership with the building trades and through that we are always looking for good ways to get more New Yorkers into the trades, working not just as apprentices but advancing to a journey person.
+
+(01:03:07)
+
+In November 2025, the City announced an agreement with the building trades to fill 700 pre-apprenticeship positions with residents of public housing and low-income communities. How many of these positions have been filled and how many community hires contribute to the City's goal of connecting 30,000 New Yorkers to apprenticeships by...
+
+(01:03:27)
+
+...2030? I do not have the data on the specific pre-apprenticeship numbers but am happy to get back to you based on the information we are able to collect. That is something that we are definitely excited about — connecting more New Yorkers and getting them into the trades through the pre-apprenticeship programs.
+
+(01:03:43)
+
+So we will follow up. Under the Office of Community Hiring's rules, a vendor that misses the community hiring goal is not out of compliance if it shows that it has made best efforts to find community hires. A vendor that does not demonstrate best efforts can receive a notice of noncompliance and a penalty of $2,500 plus $1,000 per week for failing to take required corrective action. How does the Office of Community Hiring decide whether a vendor has made a best effort? Who makes the decision and how is it reviewed? And can you define "best effort"? Because we have seen this in contracting over and over again with bad actors and the vague language of "best effort" is extremely hard...
+
+(01:04:26)
+
+...to define. Yes. So the best efforts framework is rooted in the state legislation and so that language specifically comes from the state law. With that being said, one of the things that is unique to community hiring, which is not common across many types of structures, is our ability to actually assess penalties. As I mentioned earlier, the best efforts analysis is somewhat unique depending on the type of vendor, because those who have more ability can actually do more in terms of making best efforts. So it is not a one-size-fits-all. We will continue to work with the vendors to make sure that those who are not meeting their goals are actually working with the workforce — posting their jobs publicly, meaningfully participating in events like hiring events and things like that. So there is not just a check-the-box thing where if you do this, this and that you have made best efforts, and that is by design. We want to make sure that vendors are meaningfully and actually participating in the system. And as I mentioned, the penalty framework means that if people continually fail to follow the rules and not make best efforts and not work with us, the penalties can actually grow to quite a large amount.
+
+(01:05:48)
+
+Has the agency issued a notice of noncompliance under the community hiring rules yet? And if so, how many and which agencies? And has any penalty been assessed? Not yet, not to date. How will a vendor's community hire record be considered in performance evaluations on future contract awards?
+
+(01:06:07)
+
+Yeah, so the performance — sorry — the ability to meet the goals will be considered in a performance evaluation like many of the other factors. If a vendor fails to meet their goals, fails to make best efforts and is assessed penalties, those are the types of things that would definitely be considered in a performance evaluation and would be part of their future contracts as agencies consider performance evaluations and look at things like cautions, et cetera. So if the vendor fails to do that, that will be reflected in their performance evaluation. We would work with the agencies to make sure that those types of noncompliance are reflected in performance evaluations and any necessary disclosures, et cetera, always considered by agencies in any future contract award. So we do take seriously the compliance piece of this and wanting to make sure that people are meaningfully participating and...
+
+(01:07:14)
+
+...trying to meet their community hiring goals. OK. New York City Talent testified that there were over 200 procurements already out on the street and that the total could reach upwards of $20 billion a year. As of June 30, registered contracts with community hiring goals totaled $2 billion. How many community hiring goals have been released to date and how many have been awarded?
+
+(01:07:42)
+
+I can give you the number on registered contracts right now. This is actually as of last week, so it probably went up a little bit, but we had 528 registered contracts for a total value of $13.3 billion. The process is not always exactly the same across every single agency and it varies. So while the last reporting cycle had the data that we published, we have since seen a spike of contracts that have been registered in this last quarter. So we anticipate — we know — that the next publication the numbers will go up quite a bit in terms of registered contracts and registered contract value in total. Right now in terms of procurement, we have 362 procurements that have been released, valued at $18.4 billion so far. Again, that is reflective of our initial phase rollout and ramping up these contracts. So we are excited that that is a lot of contracts, which means there are a lot of vendors and more job opportunities getting driven to the system.
+
+(01:08:49)
+
+And which agencies have released procurement with community hiring goals and which agencies have not?
+
+(01:08:57)
+
+I know that I have the data from our last quarterly report and so that has 14 agencies, from who has the most down to some of the smaller agencies with fewer contracts. But data that is not yet reflected in our report for the last quarter, but will be in the next one once we publish it — we had nearly all mayoral agencies. I think there are upwards of 20 different agencies that have contracts subject to community hiring. Again, that is not necessarily reflective of anything other than the types of procurements that agencies are doing, the volume that meets the requirements and the time in which that contract is procured and registered. So we are excited that all of our agency partners are working with us to make sure that there are goals set appropriately and releasing contracts subject to goals.
+
+(01:09:49)
+
+The Office of Community Hiring has named as referral sources Workforce One Career Centers and HRA Business Link referral systems. Has the Office of Community Hiring named any community-based organizations or other workforce providers as referral sources? Does the Office of Community Hiring plan to issue a solicitation to expand the network and if so...
+
+(01:10:15)
+
+...when? So we do — like I mentioned earlier, I read through the list of the 28. We are early on in the implementation and we are continuing to work with our agency partners. Like I said earlier, we are really happy to work with the Council to make sure that we are getting more plugged into this. So we look forward to continuing to expand opportunities for more to connect with community hiring and we are happy to continue to collaborate on that.
+
+(01:10:45)
+
+And how does the Office of Community Hiring track these referrals? What is your tracking system for referrals?
+
+(01:10:53)
+
+So as I mentioned, the same system that we are working to implement in terms of collecting information is what we hope to use to help better track referrals and information that is coming from the various sources doing it. So we are putting the digital infrastructure in place to really try to streamline the coordination and interagency working and connecting with all of the community-based organizations, because there are many players and we want to make sure that it is a streamlined process of trying to use technology where we can.
+
+(01:11:34)
+
+This one is very disappointing to me. When adopting the rules, the Office of Community Hiring declined to lower the income threshold for income-based community hires from 300% to 150% of the federal poverty guidelines, stating that referral sources prioritize lower-income job seekers. Does this remain the case...
+
+(01:11:53)
+
+...in practice? So we did have the ability to set the specific threshold for what we would hire. That decision was not made by us alone. We worked very closely with many agency partners and many thought it was appropriate. So we were hearing the most amount of feedback and recommendations that we do that because it allows the City workforce system to continue to serve the lowest-income but also expands the pool a bit, and intentionally so. That was based on feedback largely from our partners and also our agency partners who are serving these populations.
+
+(01:12:50)
+
+OK, I apologize — I misunderstood because I was thinking about it differently. So 300% of the poverty line means that you are actually hiring people with a higher income than 150%, correct?
+
+(01:13:02)
+
+So the range is anyone who is up to 300% of the federal poverty threshold. I forget what the exact dollar amount is — it varies obviously depending on household size — but it is expanding the...
+
+(01:13:16)
+
+...pool. So we are still able to hire people who are only at 100% or 150% or 200%. But 300% means...
+
+(01:13:23)
+
+...that they are even lower income? Correct — it would mean that they are higher income. So they are at 300% of the federal...
+
+(01:13:30)
+
+...poverty level. So I think it is about — for a single household it would be like an income of about $47,000 to $48,000.
+
+(01:13:39)
+
+And how much is 150%? It would be about half of that. So we have expanded the population with the 300...
+
+(01:13:48)
+
+...percent. OK. So then my initial understanding was correct — that 300% below the poverty line means that they have a higher income. Correct.
+
+(01:13:56)
+
+OK. So I take it back. I retract my apology. Understood.
+
+(01:14:02)
+
+But as I mentioned, Chair, that...
+
+(01:14:04)
+
+...was a decision that we did not independently just decide upon. Our agency partners, particularly at HRA, are serving a low-income population and we want to make sure that they can continue to serve that low-income population. We know that of the many 1,200 New Yorkers, many of them are on public assistance, which also in terms of the definition are lower than that 300% level. So while it is a little higher, it was intentionally so based on feedback from our partners and agency partners.
+
+(01:14:41)
+
+OK. Earlier this year, New York City Talent testified that there were 37 staff and three apprentices and a fiscal year 2027 program budget of approximately... How many of your 37 staff work on community hiring?
+
+(01:14:58)
+
+So I mentioned that we have — and my colleague mentioned — a team of eight right now. But we do have other staff, particularly around data, that helps support the reporting and data collection. So there is a core staff of a team of eight right now, but we also have other staff that helps support both from the data side, the external side and some of the general operational side. Our office — community hiring is one of the real core initiatives of our office and so there is a lot of support, but it is a core team that supports it as well.
+
+(01:15:39)
+
+The Office of Community Hiring's November 2024 report described work to integrate community hiring into the City's procurement and workforce systems and to digitize paper-based reporting. What has been completed so far?
+
+(01:15:53)
+
+So I do not want to rehash all my testimony, but we are really proud of the work that has been done to date. This went from zero contracts, zero anything and no rules whatsoever to now having over 528 contracts already registered, estimated at $13.3 billion worth of contracts. So we are incredibly proud of what has been done to date. At 1,200 hires based on the 79 contracts that have been published in our reports, we have already begun digitizing a lot of this process, particularly on the construction side, trying to transform a paper-based...
+
+(01:16:34)
+
+...process into collecting information digitally. We are continuing to work to put the digital technology in place to really better collect data and share data across agencies. So more work is to be done. We are still early on in this process and this is not a small effort. This is a really big systems change for all the City agencies doing procurement. So I am proud of the work to date but there is certainly more work ahead of us.
+
+(01:17:01)
+
+What are the average salaries one can expect from a community hiring opportunity?
+
+(01:17:06)
+
+The types of jobs that are through community hiring are quite varied because it applies to such a broad range of different types of contracts, from construction to human services to standard services to professional services. So it really depends on the type of job and the hiring needs. But we know that many of these jobs are prevailing wage jobs, good union jobs in many cases, and so we are excited about those opportunities and making sure that we are driving more jobs to the workforce system.
+
+(01:17:40)
+
+Director Lee, since becoming Executive Director, what have you made your top operational priority and what updated results should this committee expect to see in the next quarterly report?
+
+Thank you, Chair, for your question. My priority for our team is to continue building out the infrastructure of our program. That includes, as Executive Director Lipari mentioned, finalizing and putting into place digital systems to improve data collection and tracking of community hiring goals. Additionally, we want to broaden our vendor outreach. As we have heard today, we see the importance and we recognize the importance of continuing to meet with our stakeholders and see how we can better support the job seekers across the five boroughs.
+
+Additionally, we also want to strengthen our referral source network. We recognize that they are key players in making community hiring a success, so we are thinking through how to build out that structure to ensure that we are not just growing the number of referral sources for referral sources' sake, but really thinking through how we can all work together and not compete with one another for community hiring opportunities.
+
+(01:18:59)
+
+Okay. How does the Office of Community Hiring identify
+
+(01:19:01)
+
+and engage small businesses and civic neighborhoods beyond vendors that are bidding on City contracts? Our team has also been involved in a lot of vendor events like procurement fairs where we educate on our program so that they understand how it works for City contracts subject to community hiring. Additionally, we have done newsletter outreach through our agency partners on a quarterly basis. So we have tried different ways across different mediums to reach out to the public and to vendors.
+
+(01:19:49)
+
+Do you have language access in all of your efforts and if so, what languages are available for your outreach?
+
+(01:19:56)
+
+Currently English is the primary language.
+
+(01:19:57)
+
+Do you have plans to expand to other languages?
+
+Yes.
+
+(01:20:02)
+
+Of course. And also our referral partners are equipped to provide other languages, so we lean heavily on our referral source partners and agencies to support us there.
+
+(01:20:14)
+
+Okay. I hope you expand to at least five languages, not just leaning on the referrals. I am going to pass it over to a Council Member to ask a second round of questions. Thank you.
+
+(01:20:25)
+
+Chair, can you define what exactly a community hire is? Like, do they live in the City or are there other qualifications that would qualify the 1,200 positions as community hires?
+
+(01:20:39)
+
+A community hire is defined under the state legislation that established community hiring and it is based on economic factors. So
+
+(01:20:48)
+
+we look at two types of community hires: those who are low income individuals and those living in low income
+
+(01:21:00)
+
+communities. So does that mean they have to live in New York City or are they
+
+(01:21:02)
+
+able to live anywhere? So definitionally it is based on economic criteria and again
+
+(01:21:14)
+
+with that being said, the core work of the Office of Community Hiring is to really connect more New Yorkers to jobs. Through our referral source partners, they are largely serving, as mentioned earlier, all five boroughs, and so our outreach is primarily targeted towards New Yorkers and connecting them. But because of the way that the state law is written, it is definitely based on economic criteria.
+
+(01:21:41)
+
+Yeah. Okay, so the contractors and vendors are definitely New York City based, but a community hire is all income based and looking at where they
+
+(01:21:54)
+
+live. Is that right?
+
+So as
+
+(01:22:00)
+
+my colleague mentioned, there are two different types of community hires. One is based on low income zip codes as well as NYCHA residents. NYCHA residents are the one
+
+(01:22:08)
+
+population that is part of that residence-based community hire. For the others it is income based.
+
+(01:22:15)
+
+And again, that is rooted in state law and so it is not geographical but based on income baselines based on
+
+(01:22:24)
+
+state guidelines. Is that something that your office sets or is it based on the federal poverty guidelines?
+
+I see. Okay. And when a vendor is part of community hiring, what percentage of their jobs have to be community hires? Is it 100%, 50%, 75%?
+
+So for the
+
+(01:22:51)
+
+construction projects, the goal right now is 30% of the hours worked by community hires. That is the goal. On the other side, it is not based on a percentage.
+
+(01:23:01)
+
+The intention behind community hiring is to really drive these employers to the workforce system and make sure that they are working with the workforce system. Ideally we want them to be working with the workforce system for all their jobs.
+
+(01:23:13)
+
+That is not exactly what is required. There is a specific numerical goal that will be attached to it based on the contract value, and it is based on hiring needs. So sometimes the vendor has to hire no one to actually serve a contract and then they will not have to hire anyone. But where they have vacancies, we want to make sure that they are working with the public workforce for all of those, but certainly at least up to their goals.
+
+(01:23:43)
+
+Oh yeah. Maybe I am confused. So what is the incentive for becoming a vendor that is doing community hires? Like, why bother?
+
+So I
+
+(01:23:56)
+
+think there are two things that are relevant here. One is we believe that there are a lot of City dollars being invested and that City vendors have a responsibility if they are getting these contracts. We are talking about billions of dollars every year.
+
+(01:24:15)
+
+We want those vendors to have an obligation to really hire from the workforce system.
+
+(01:24:20)
+
+In terms of an incentive, that is incumbent upon the City to really make sure that we are helping serve them. That is one of the things that certainly over time we want to work with the vendors on, to make sure that the City's workforce system is meeting their hiring needs. If that means their hiring needs and we can place someone today, great, fantastic, we want to do that. But that also means working with particular vendors or working with particular industries that have not historically worked with the public workforce system, to help make sure that the City's workforce systems are meeting those employers' needs. The incentive is we have a lot of talent here in New York City and talent is not limited by factors of income. So we want them to connect to that talent and we want to connect the talent to these job opportunities.
+
+(01:25:09)
+
+The incentive of working with the public workforce system is that there is an enormous amount of talent that can fill the needs of these employers, and there are free services to these businesses. They do not have to pay to go in and work with the workforce one-stop centers. Those are free services that are offered to those businesses to help meet their hiring needs. Thank you. Thank you. Thank you.
+
+(01:25:30)
+
+Thank you so much to Executive Director Lipari
+
+(01:25:34)
+
+and Executive Director Lee. I look forward to working with both of you. Do not be so shy, you are going to be here all the time.
