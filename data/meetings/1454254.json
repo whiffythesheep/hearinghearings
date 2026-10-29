@@ -4,7 +4,7 @@
  "body": "Committee on Hospitals",
  "location": "250 Broadway - 8th Floor - Hearing Room 1",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454254&GUID=6ACB30A4-13FA-48C9-B69B-5EE293B4687F&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Oversight: Examining H+H’s NYC Care Program and Access to Health Care for Uninsured New Yorkers.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8279042",
+   "legistar_guid": "0223FB65-9741-407B-8399-2C2A17CB02D6"
+  },
+  {
+   "file_number": "T2026-2663",
+   "type": "Oversight",
+   "name": "Oversight - Oversight: Examining H+H’s NYC Care Program and Access to Health Care for Uninsured New Yorkers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8279042",
    "legistar_guid": "0223FB65-9741-407B-8399-2C2A17CB02D6"

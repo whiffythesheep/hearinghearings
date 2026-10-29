@@ -1,0 +1,90 @@
+{
+ "file_number": "Int 0445-2026",
+ "slug": "int-0445-2026",
+ "legistar_id": "7862972",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of small business services to expand the business pathways program",
+ "status": "Committee",
+ "sponsors": [
+  "Althea V. Stevens",
+  "Chris Banks",
+  "Lynn C. Schulman",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 445",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15264102&GUID=F755F4EC-9CE8-401F-A123-72EA1363A717"
+  },
+  {
+   "label": "Int. No. 445",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15264104&GUID=810F4DEE-2477-4325-9248-0F2B0B7BA7B3"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251908&GUID=BE2F8E07-EA67-450A-B905-0DF2B272685B"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252600&GUID=74320336-38F5-4999-A238-C7114855D6CD"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333762&GUID=08226923-DD03-4EC7-8AEA-C87F919F608D"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093885&GUID=F6B8A215-C62D-40AA-A2BE-5E6CA3C8C3BA"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16098562&GUID=93E8D2FA-D2A9-4520-9B67-E1F1FCFD471C"
+  },
+  {
+   "label": "Committee Report 10/29/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16099606&GUID=F208146F-5F15-4F10-9E8C-D71A48D9017D"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 75000,
+   "succeeding": 300000,
+   "full": 300000
+  },
+  "expenditures": {
+   "effective": 75000,
+   "succeeding": 300000,
+   "full": 300000
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16098562&GUID=93E8D2FA-D2A9-4520-9B67-E1F1FCFD471C"
+ },
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862972&GUID=7B8B03EB-260A-43F3-977C-76E051ED472E"
+}

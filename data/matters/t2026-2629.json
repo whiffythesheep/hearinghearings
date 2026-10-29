@@ -4,7 +4,7 @@
  "legistar_id": "8261010",
  "type": "Oversight",
  "title": "Oversight - Shelter Safety.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-28",
+   "body": "Committee on General Welfare",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-28",
+   "body": "Committee on General Welfare",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8261010&GUID=52F9621C-F22A-45D0-958C-406B9E69FE78"
 }
