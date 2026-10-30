@@ -165,6 +165,12 @@
   {
    "date": "2026-10-22",
    "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
@@ -181,12 +187,6 @@
    "result": "Pass"
   },
   {
-   "date": "2026-10-22",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
@@ -224,25 +224,25 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Disabilities",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Disabilities",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Disabilities",
+   "body": "Committee on Finance",
    "action": "Amended by Committee",
    "result": ""
   },

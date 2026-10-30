@@ -4,13 +4,14 @@
  "legistar_id": "8206879",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to timeframes for agency approvals and change orders on small capital projects",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Carl Wilson",
   "Lincoln Restler",
   "Ty Hankerson",
   "Shahana K. Hanif",
   "Justin E. Sanchez",
+  "Kamillah Hanks",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -39,10 +40,48 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862872&GUID=62DCABF9-7330-4C49-BF23-FA13A71DE8D0"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16101563&GUID=3D640A04-F831-4950-B18F-ED992651040E"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16101563&GUID=3D640A04-F831-4950-B18F-ED992651040E"
+ },
  "history": [
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

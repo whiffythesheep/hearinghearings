@@ -15,6 +15,7 @@
   "Mercedes Narcisse",
   "Shanel Thomas-Henry",
   "Carmen N. De La Rosa",
+  "Lynn C. Schulman",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -48,6 +49,11 @@
    "label": "Committee Report 10/21/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16081513&GUID=CC302BBE-B5DE-46B9-BB3B-088F4BFE17D3"
+  },
+  {
+   "label": "Hearing Transcript 10/21/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16106368&GUID=7732D915-7551-4A5B-BFED-AF59465A146B"
   }
  ],
  "fiscal": {
@@ -81,14 +87,14 @@
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on General Welfare",
-   "action": "Laid Over by Committee",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on Veterans",
-   "action": "Hearing Held by Committee",
+   "body": "Committee on General Welfare",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {

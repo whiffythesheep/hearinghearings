@@ -4,7 +4,7 @@
  "body": "Committee on Small Business",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Subcommittee on Early Childhood Education.",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444735&GUID=03265085-703C-43A3-AA9E-260100308466&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - The Business of Child Care.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8223806",
+   "legistar_guid": "2209EC67-A2BC-4584-A3CC-06800F142005"
+  },
+  {
+   "file_number": "T2026-2560",
+   "type": "Oversight",
+   "name": "Oversight - The Business of Child Care.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8223806",
    "legistar_guid": "2209EC67-A2BC-4584-A3CC-06800F142005"
@@ -24,7 +35,18 @@
    "name": "Requiring the department of small business services to expand the business pathways program.",
    "sponsor": "Althea V. Stevens",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7862972",
+   "legistar_guid": "7B8B03EB-260A-43F3-977C-76E051ED472E"
+  },
+  {
+   "file_number": "Int 0445-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of small business services to expand the business pathways program.",
+   "sponsor": "Althea V. Stevens",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7862972",
    "legistar_guid": "7B8B03EB-260A-43F3-977C-76E051ED472E"

@@ -21,7 +21,12 @@
   "Shaun Abreu",
   "Kayla Santosuosso",
   "Oswald J. Feliz",
-  "Lincoln Restler"
+  "Lincoln Restler",
+  "Christopher Marte",
+  "Amanda C. Farías",
+  "Lynn C. Schulman",
+  "Chris Banks",
+  "Justin E. Sanchez"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -49,9 +54,32 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093848&GUID=E5F3F7CB-8C5D-4A6C-85DD-F3F18799F307"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16101591&GUID=37868E4E-4CD1-488E-94F3-F8DEFEB9729B"
+  },
+  {
+   "label": "Committee Report 10/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16102264&GUID=ECD354A2-2D31-462E-AB3A-FA64CF441208"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16101591&GUID=37868E4E-4CD1-488E-94F3-F8DEFEB9729B"
+ },
  "history": [
   {
    "date": "2026-01-29",

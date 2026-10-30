@@ -13,7 +13,8 @@
   "Inna Vernikov",
   "Farah N. Louis",
   "Crystal Hudson",
-  "Kevin C. Riley"
+  "Kevin C. Riley",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -75,6 +76,12 @@
   },
   {
    "date": "2026-10-20",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
    "body": "Committee on Economic Development",
    "action": "Laid Over by Committee",
    "result": ""
@@ -83,12 +90,6 @@
    "date": "2026-10-20",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-10-20",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

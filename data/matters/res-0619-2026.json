@@ -4,11 +4,12 @@
  "legistar_id": "8206721",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature and Governor to amend the New York City Public Works Investment Act to lower the monetary threshold to utilize design-build in construction projects.",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Eric Dinowitz",
   "Lincoln Restler",
   "Justin E. Sanchez",
+  "Kamillah Hanks",
   "Frank Morano",
   "Public Advocate Jumaane Williams"
  ],
@@ -32,6 +33,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

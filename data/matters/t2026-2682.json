@@ -4,11 +4,24 @@
  "legistar_id": "8286506",
  "type": "Oversight",
  "title": "Oversight - Oversight of PASSPort.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-29",
+   "body": "Committee on Contracts",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8286506&GUID=E2D9E37A-8B72-46E2-B770-FD0EE1B4D430"
 }
